@@ -1,5 +1,4 @@
-Pezizella minutula (Bres.) Dennis SPECIES
-=======
+# Pezizella minutula (Bres.) Dennis SPECIES
 
 #### Status
 ACCEPTED

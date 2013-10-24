@@ -1,5 +1,4 @@
-Stereum molle Berk., 1873 SPECIES
-=======
+# Stereum molle Berk., 1873 SPECIES
 
 #### Status
 ACCEPTED

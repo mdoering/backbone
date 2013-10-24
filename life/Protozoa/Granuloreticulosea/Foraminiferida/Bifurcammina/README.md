@@ -1,5 +1,4 @@
-Bifurcammina GENUS
-=======
+# Bifurcammina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctis boliviensis Nyl. SPECIES
-=======
+# Phlyctis boliviensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

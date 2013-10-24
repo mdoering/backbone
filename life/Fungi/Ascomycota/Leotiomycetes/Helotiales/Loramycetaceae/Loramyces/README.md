@@ -1,5 +1,4 @@
-Loramyces W. Weston GENUS
-=======
+# Loramyces W. Weston GENUS
 
 #### Status
 ACCEPTED

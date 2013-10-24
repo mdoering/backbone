@@ -1,5 +1,4 @@
-Actinoplaca Müll. Arg. GENUS
-=======
+# Actinoplaca Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

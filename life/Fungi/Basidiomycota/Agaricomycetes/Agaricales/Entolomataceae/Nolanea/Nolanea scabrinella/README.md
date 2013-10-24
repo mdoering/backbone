@@ -1,5 +1,4 @@
-Nolanea scabrinella (Peck) Pomerl. SPECIES
-=======
+# Nolanea scabrinella (Peck) Pomerl. SPECIES
 
 #### Status
 ACCEPTED

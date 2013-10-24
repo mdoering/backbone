@@ -1,5 +1,4 @@
-Metasphaeria dearnessii Bubák SPECIES
-=======
+# Metasphaeria dearnessii Bubák SPECIES
 
 #### Status
 ACCEPTED

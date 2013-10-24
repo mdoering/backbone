@@ -1,5 +1,4 @@
-Jannaschia Wagner-Döbler, Rheims, Felske, Pukall & Tindall, 2003 GENUS
-=======
+# Jannaschia Wagner-Döbler, Rheims, Felske, Pukall & Tindall, 2003 GENUS
 
 #### Status
 ACCEPTED

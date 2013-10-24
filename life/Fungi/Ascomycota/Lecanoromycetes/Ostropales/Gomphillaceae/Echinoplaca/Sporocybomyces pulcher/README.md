@@ -1,5 +1,4 @@
-Sporocybomyces pulcher H. Maia SPECIES
-=======
+# Sporocybomyces pulcher H. Maia SPECIES
 
 #### Status
 ACCEPTED

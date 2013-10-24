@@ -1,5 +1,4 @@
-Helotium erumpens Velen. SPECIES
-=======
+# Helotium erumpens Velen. SPECIES
 
 #### Status
 ACCEPTED

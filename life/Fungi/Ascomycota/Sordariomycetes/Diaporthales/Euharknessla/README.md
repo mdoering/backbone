@@ -1,5 +1,4 @@
-Euharknessla Petrak & Sydow, 1927 GENUS
-=======
+# Euharknessla Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

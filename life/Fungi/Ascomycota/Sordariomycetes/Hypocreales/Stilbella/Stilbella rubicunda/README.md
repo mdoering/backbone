@@ -1,5 +1,4 @@
-Stilbella rubicunda (Tode) Lindau SPECIES
-=======
+# Stilbella rubicunda (Tode) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerronema farinolens (G. Moreno & Esteve-Rav.) Bon SPECIES
-=======
+# Gerronema farinolens (G. Moreno & Esteve-Rav.) Bon SPECIES
 
 #### Status
 ACCEPTED

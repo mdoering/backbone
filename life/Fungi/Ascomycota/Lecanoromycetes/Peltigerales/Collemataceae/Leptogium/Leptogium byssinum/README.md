@@ -1,14 +1,13 @@
-Collema byssinum (Hoffm.) Hoffm. SPECIES
-=======
+# Leptogium byssinum (Hoffm.) Zwackh ex Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nylander, Bull. Soc. linn. Bordeaux 21: 270 (1856)
 
 #### Original name
 Lichen byssinus Hoffm.

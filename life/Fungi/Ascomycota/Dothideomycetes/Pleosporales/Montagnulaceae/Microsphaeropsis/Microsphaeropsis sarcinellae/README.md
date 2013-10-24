@@ -1,5 +1,4 @@
-Microsphaeropsis sarcinellae (V.P. Sahni) Morgan-Jones SPECIES
-=======
+# Microsphaeropsis sarcinellae (V.P. Sahni) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

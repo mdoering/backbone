@@ -1,5 +1,4 @@
-Pustularia spiralis Hazsl. SPECIES
-=======
+# Pustularia spiralis Hazsl. SPECIES
 
 #### Status
 ACCEPTED

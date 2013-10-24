@@ -1,5 +1,4 @@
-Puccinia nabugaboensis Gjaerum SPECIES
-=======
+# Puccinia nabugaboensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

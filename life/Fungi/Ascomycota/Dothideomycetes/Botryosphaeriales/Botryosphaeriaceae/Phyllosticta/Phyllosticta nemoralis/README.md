@@ -1,5 +1,4 @@
-Phyllosticta nemoralis Sacc. SPECIES
-=======
+# Phyllosticta nemoralis Sacc. SPECIES
 
 #### Status
 ACCEPTED

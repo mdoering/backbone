@@ -1,5 +1,4 @@
-Elsinoë banksiae Pascoe & Crous, 2001 SPECIES
-=======
+# Elsinoë banksiae Pascoe & Crous, 2001 SPECIES
 
 #### Status
 ACCEPTED

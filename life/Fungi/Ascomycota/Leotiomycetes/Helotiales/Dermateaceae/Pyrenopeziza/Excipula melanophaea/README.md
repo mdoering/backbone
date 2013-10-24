@@ -1,5 +1,4 @@
-Excipula melanophaea Fr. SPECIES
-=======
+# Excipula melanophaea Fr. SPECIES
 
 #### Status
 ACCEPTED

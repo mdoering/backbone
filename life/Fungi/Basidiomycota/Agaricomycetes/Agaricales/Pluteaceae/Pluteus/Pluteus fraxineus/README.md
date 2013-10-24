@@ -1,5 +1,4 @@
-Pluteus fraxineus Velen. SPECIES
-=======
+# Pluteus fraxineus Velen. SPECIES
 
 #### Status
 ACCEPTED

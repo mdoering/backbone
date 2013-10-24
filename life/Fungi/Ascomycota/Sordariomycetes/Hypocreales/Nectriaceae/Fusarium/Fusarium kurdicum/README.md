@@ -1,5 +1,4 @@
-Fusarium kurdicum Petr. SPECIES
-=======
+# Fusarium kurdicum Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothyrium phoebes (Syd.) Arx SPECIES
-=======
+# Schizothyrium phoebes (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

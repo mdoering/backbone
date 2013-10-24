@@ -1,5 +1,4 @@
-Graphina saxiseda Zahlbr. SPECIES
-=======
+# Graphina saxiseda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia nordinii Giralt, Kalb & Elix SPECIES
-=======
+# Buellia nordinii Giralt, Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirostoma juruanum Henn. SPECIES
-=======
+# Pirostoma juruanum Henn. SPECIES
 
 #### Status
 ACCEPTED

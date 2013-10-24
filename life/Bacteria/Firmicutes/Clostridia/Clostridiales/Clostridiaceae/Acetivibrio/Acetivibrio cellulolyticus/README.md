@@ -1,5 +1,4 @@
-Acetivibrio cellulolyticus Patel et al., 1980 SPECIES
-=======
+# Acetivibrio cellulolyticus Patel et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

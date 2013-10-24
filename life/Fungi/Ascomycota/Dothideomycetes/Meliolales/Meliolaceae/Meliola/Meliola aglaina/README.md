@@ -1,5 +1,4 @@
-Meliola aglaina Hansf. SPECIES
-=======
+# Meliola aglaina Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Botryodiplodia batatae Henn. SPECIES
-=======
+# Botryodiplodia batatas Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botryodiplodia batatae Henn.
+Botryodiplodia batatas Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cantharellus fistulinus Tibuhwa & Buyck SPECIES
-=======
+# Cantharellus fistulinus Tibuhwa & Buyck SPECIES
 
 #### Status
 ACCEPTED

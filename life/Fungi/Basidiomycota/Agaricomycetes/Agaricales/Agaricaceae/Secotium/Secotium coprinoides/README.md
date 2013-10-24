@@ -1,5 +1,4 @@
-Secotium coprinoides Routien SPECIES
-=======
+# Secotium coprinoides Routien SPECIES
 
 #### Status
 ACCEPTED

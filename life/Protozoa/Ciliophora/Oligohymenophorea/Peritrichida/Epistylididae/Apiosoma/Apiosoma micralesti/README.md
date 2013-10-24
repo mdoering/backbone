@@ -1,5 +1,4 @@
-Apiosoma micralesti SPECIES
-=======
+# Apiosoma micralesti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus hirsutulus (Schwein.) Murrill SPECIES
-=======
+# Coriolus hirsutulus (Schwein.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora fissa Henn. SPECIES
-=======
+# Thelephora fissa Henn. SPECIES
 
 #### Status
 ACCEPTED

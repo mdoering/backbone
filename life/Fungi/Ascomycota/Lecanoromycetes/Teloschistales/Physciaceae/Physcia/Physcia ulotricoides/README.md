@@ -1,5 +1,4 @@
-Physcia ulotricoides f. ulotricoides FORM
-=======
+# Physcia ulotricoides Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia ulotricoides f. ulotricoides
+Physcia ulotricoides Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graminella microspora S.T. Moss & Lichtw., 1981 SPECIES
-=======
+# Graminella microspora S.T. Moss & Lichtw., 1981 SPECIES
 
 #### Status
 ACCEPTED

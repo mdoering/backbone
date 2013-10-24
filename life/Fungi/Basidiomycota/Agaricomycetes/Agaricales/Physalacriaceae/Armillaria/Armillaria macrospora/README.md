@@ -1,5 +1,4 @@
-Armillaria macrospora Peck SPECIES
-=======
+# Armillaria macrospora Peck SPECIES
 
 #### Status
 ACCEPTED

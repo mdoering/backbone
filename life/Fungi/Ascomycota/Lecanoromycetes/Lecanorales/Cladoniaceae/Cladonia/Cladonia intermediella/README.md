@@ -1,5 +1,4 @@
-Cladonia intermediella Vain. SPECIES
-=======
+# Cladonia intermediella Vain. SPECIES
 
 #### Status
 ACCEPTED

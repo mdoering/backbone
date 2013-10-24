@@ -1,5 +1,4 @@
-Caryospora olearum (Castagne) Sacc. SPECIES
-=======
+# Caryospora olearum (Castagne) Sacc. SPECIES
 
 #### Status
 ACCEPTED

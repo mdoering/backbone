@@ -1,5 +1,4 @@
-Aecidium macrodontae G. Cunn. SPECIES
-=======
+# Aecidium macrodontae G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrophacomma Haeckel, 1887 GENUS
-=======
+# Astrophacomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

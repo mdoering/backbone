@@ -1,5 +1,4 @@
-Arthrobotrys rosea Massee SPECIES
-=======
+# Arthrobotrys rosea Massee SPECIES
 
 #### Status
 ACCEPTED

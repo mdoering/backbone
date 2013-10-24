@@ -1,8 +1,7 @@
-Hafellia pseudotetrapla Pusswald SPECIES
-=======
+# Buellia pseudotetrapla (Pusswald) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

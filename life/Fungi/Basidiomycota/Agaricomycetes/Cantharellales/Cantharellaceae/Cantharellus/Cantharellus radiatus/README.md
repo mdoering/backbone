@@ -1,5 +1,4 @@
-Cantharellus radiatus Velen. SPECIES
-=======
+# Cantharellus radiatus Velen. SPECIES
 
 #### Status
 ACCEPTED

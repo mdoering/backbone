@@ -1,5 +1,4 @@
-Acetabula platypodia (Boud.) Sacc. & Traverso SPECIES
-=======
+# Acetabula platypodia (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

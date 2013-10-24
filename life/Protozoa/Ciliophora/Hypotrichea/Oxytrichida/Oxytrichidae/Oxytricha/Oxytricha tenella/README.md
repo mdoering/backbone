@@ -1,5 +1,4 @@
-Oxytricha tenella SPECIES
-=======
+# Oxytricha tenella SPECIES
 
 #### Status
 ACCEPTED

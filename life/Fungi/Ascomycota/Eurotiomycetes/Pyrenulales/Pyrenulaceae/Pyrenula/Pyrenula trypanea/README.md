@@ -1,5 +1,4 @@
-Pyrenula trypanea Ach. SPECIES
-=======
+# Pyrenula trypanea Ach. SPECIES
 
 #### Status
 ACCEPTED

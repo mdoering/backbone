@@ -1,5 +1,4 @@
-Naematelia coccinea Wettst. SPECIES
-=======
+# Naematelia coccinea Wettst. SPECIES
 
 #### Status
 ACCEPTED

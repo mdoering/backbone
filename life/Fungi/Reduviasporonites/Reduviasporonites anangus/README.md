@@ -1,5 +1,4 @@
-Reduviasporonites anangus G. Norris SPECIES
-=======
+# Reduviasporonites anangus G. Norris SPECIES
 
 #### Status
 ACCEPTED

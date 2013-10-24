@@ -1,5 +1,4 @@
-Trachelomonas arnoldiana var. decurtata Skvortzov VARIETY
-=======
+# Trachelomonas arnoldiana Skvortzov SPECIES
 
 #### Status
 ACCEPTED

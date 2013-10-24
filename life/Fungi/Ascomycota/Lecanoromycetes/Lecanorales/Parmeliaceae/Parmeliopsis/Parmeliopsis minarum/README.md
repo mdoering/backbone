@@ -1,5 +1,4 @@
-Parmeliopsis minarum (Vain.) SPECIES
-=======
+# Parmeliopsis minarum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protousnea (Motyka) Krog GENUS
-=======
+# Protousnea (Motyka) Krog GENUS
 
 #### Status
 ACCEPTED

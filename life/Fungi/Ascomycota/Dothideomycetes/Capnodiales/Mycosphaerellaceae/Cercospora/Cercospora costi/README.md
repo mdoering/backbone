@@ -1,5 +1,4 @@
-Cercospora costi F. Stevens SPECIES
-=======
+# Cercospora costi F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton plurizoniforme (MacCarthy) Rippon SPECIES
-=======
+# Trichophyton plurizoniforme (MacCarthy) Rippon SPECIES
 
 #### Status
 ACCEPTED

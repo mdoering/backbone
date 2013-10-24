@@ -1,5 +1,4 @@
-Urocystis helanensis L. Guo, 2002 SPECIES
-=======
+# Urocystis helanensis L. Guo, 2002 SPECIES
 
 #### Status
 ACCEPTED

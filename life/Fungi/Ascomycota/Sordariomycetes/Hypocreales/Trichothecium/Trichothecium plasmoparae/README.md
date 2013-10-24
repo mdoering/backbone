@@ -1,5 +1,4 @@
-Trichothecium plasmoparae Viala, 1932 SPECIES
-=======
+# Trichothecium plasmoparae Viala, 1932 SPECIES
 
 #### Status
 ACCEPTED

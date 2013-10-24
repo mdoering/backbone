@@ -1,5 +1,4 @@
-Pyrenula subaperta Ach. SPECIES
-=======
+# Pyrenula subaperta Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis phormicola Sacc. SPECIES
-=======
+# Phomopsis phormicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

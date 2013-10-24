@@ -1,5 +1,4 @@
-Archaediscus Brady, 1873 GENUS
-=======
+# Archaediscus Brady, 1873 GENUS
 
 #### Status
 ACCEPTED

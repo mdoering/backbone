@@ -1,5 +1,4 @@
-Cercospora achilleae (Jaap) U. Braun SPECIES
-=======
+# Cercospora achilleae (Jaap) U. Braun SPECIES
 
 #### Status
 ACCEPTED

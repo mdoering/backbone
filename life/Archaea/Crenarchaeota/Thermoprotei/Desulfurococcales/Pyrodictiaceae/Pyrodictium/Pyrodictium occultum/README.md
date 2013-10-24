@@ -1,5 +1,4 @@
-Pyrodictium occultum Stetter et al., 1984 SPECIES
-=======
+# Pyrodictium occultum Stetter et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

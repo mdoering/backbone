@@ -1,5 +1,4 @@
-Amanita praelongispora (Murrill) Murrill SPECIES
-=======
+# Amanita praelongispora (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

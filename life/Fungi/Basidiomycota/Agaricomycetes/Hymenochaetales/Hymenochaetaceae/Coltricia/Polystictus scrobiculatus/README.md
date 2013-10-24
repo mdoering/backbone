@@ -1,5 +1,4 @@
-Polystictus scrobiculatus (P. Karst.) Sacc. SPECIES
-=======
+# Polystictus scrobiculatus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

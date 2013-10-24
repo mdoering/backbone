@@ -1,5 +1,4 @@
-Clitocybe gyrans Fr. SPECIES
-=======
+# Clitocybe gyrans Fr. SPECIES
 
 #### Status
 ACCEPTED

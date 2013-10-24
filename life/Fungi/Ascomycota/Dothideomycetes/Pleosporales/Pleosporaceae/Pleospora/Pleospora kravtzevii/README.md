@@ -1,5 +1,4 @@
-Pleospora kravtzevii (Schwarzman) Byzova SPECIES
-=======
+# Pleospora kravtzevii (Schwarzman) Byzova SPECIES
 
 #### Status
 ACCEPTED

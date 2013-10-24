@@ -1,17 +1,16 @@
-Saccardia martini Ellis & Sacc. SPECIES
-=======
+# Saccardia martinii Ellis & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 2(no. 7): 373 (1881)
 
 #### Original name
-Saccardia martini Ellis & Sacc.
+Saccardia martinii Ellis & Sacc.
 
 ### Remarks
 null

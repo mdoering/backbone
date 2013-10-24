@@ -1,5 +1,4 @@
-Synaptospora petrakii Cain, 1957 SPECIES
-=======
+# Synaptospora petrakii Cain, 1957 SPECIES
 
 #### Status
 ACCEPTED

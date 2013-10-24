@@ -1,5 +1,4 @@
-Coscinodiscus distinctus J.A. Long, D.P. Fuge & J. Smith SPECIES
-=======
+# Coscinodiscus distinctus J.A. Long, D.P. Fuge & J. Smith SPECIES
 
 #### Status
 ACCEPTED

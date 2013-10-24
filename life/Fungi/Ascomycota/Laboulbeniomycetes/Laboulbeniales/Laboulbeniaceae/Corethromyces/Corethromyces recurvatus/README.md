@@ -1,5 +1,4 @@
-Corethromyces recurvatus Thaxt. SPECIES
-=======
+# Corethromyces recurvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

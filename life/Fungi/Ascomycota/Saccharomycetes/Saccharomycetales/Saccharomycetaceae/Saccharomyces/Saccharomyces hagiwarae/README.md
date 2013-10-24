@@ -1,5 +1,4 @@
-Saccharomyces hagiwarae C.W. Dodge SPECIES
-=======
+# Saccharomyces hagiwarae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

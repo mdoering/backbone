@@ -1,5 +1,4 @@
-Puccinia heracleicola Cummins SPECIES
-=======
+# Puccinia heracleicola Cummins SPECIES
 
 #### Status
 ACCEPTED

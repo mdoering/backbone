@@ -1,5 +1,4 @@
-Lecanora austrointumescens Lumbsch & Elix SPECIES
-=======
+# Lecanora austrointumescens Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

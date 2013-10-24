@@ -1,5 +1,4 @@
-Marasmius multivenosus Murrill SPECIES
-=======
+# Marasmius multivenosus Murrill SPECIES
 
 #### Status
 ACCEPTED

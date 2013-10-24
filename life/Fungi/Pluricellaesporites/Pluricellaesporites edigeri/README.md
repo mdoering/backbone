@@ -1,5 +1,4 @@
-Pluricellaesporites edigeri Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites edigeri Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

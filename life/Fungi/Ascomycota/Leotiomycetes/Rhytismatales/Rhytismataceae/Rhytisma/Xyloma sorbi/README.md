@@ -1,5 +1,4 @@
-Xyloma sorbi Fr. SPECIES
-=======
+# Xyloma sorbi Fr. SPECIES
 
 #### Status
 ACCEPTED

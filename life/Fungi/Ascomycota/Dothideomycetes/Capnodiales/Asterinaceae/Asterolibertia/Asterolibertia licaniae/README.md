@@ -1,5 +1,4 @@
-Asterolibertia licaniae (Cooke) Hansf. SPECIES
-=======
+# Asterolibertia licaniae (Cooke) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon ungulinum Schumach. SPECIES
-=======
+# Lycoperdon ungulinum Schumach. SPECIES
 
 #### Status
 ACCEPTED

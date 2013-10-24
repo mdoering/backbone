@@ -1,5 +1,4 @@
-Eggerthella hongkongensis Lau et al., 2006 SPECIES
-=======
+# Eggerthella hongkongensis Lau et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

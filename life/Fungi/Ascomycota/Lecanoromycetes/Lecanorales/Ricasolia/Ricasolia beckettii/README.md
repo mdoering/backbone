@@ -1,5 +1,4 @@
-Ricasolia beckettii Stirt. SPECIES
-=======
+# Ricasolia beckettii Stirt. SPECIES
 
 #### Status
 ACCEPTED

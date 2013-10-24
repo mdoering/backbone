@@ -1,5 +1,4 @@
-Septosporium maculatum Cooke & Ellis SPECIES
-=======
+# Septosporium maculatum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

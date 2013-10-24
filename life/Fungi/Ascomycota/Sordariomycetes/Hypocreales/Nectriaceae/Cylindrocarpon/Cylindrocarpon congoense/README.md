@@ -1,17 +1,16 @@
-Cylindrocarpon congoensis J.A. Mey. SPECIES
-=======
+# Cylindrocarpon congoense J.A. Mey., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 74(3): 243 (1958)
 
 #### Original name
-Cylindrocarpon congoensis J.A. Mey.
+Cylindrocarpon congoense J.A. Mey., 1958
 
 ### Remarks
 null

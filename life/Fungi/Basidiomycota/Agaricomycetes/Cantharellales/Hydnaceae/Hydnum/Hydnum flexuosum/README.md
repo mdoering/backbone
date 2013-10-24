@@ -1,5 +1,4 @@
-Hydnum flexuosum Pers. SPECIES
-=======
+# Hydnum flexuosum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis boehmeriae Novoss. SPECIES
-=======
+# Phomopsis boehmeriae Novoss. SPECIES
 
 #### Status
 ACCEPTED

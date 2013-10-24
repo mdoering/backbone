@@ -1,17 +1,16 @@
-Thermoascus aurantiacus var. aurantiacus VARIETY
-=======
+# Thermoascus aurantiacus Miehe, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Selbsterhitz. Heus (1907)
+Selbsterhitz. Heus 70 (1907)
 
 #### Original name
-Thermoascus aurantiacus var. aurantiacus
+Thermoascus aurantiacus Miehe, 1907
 
 ### Remarks
 null

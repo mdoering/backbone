@@ -1,5 +1,4 @@
-Triceromyces biformis R.K. Benj. SPECIES
-=======
+# Triceromyces biformis R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

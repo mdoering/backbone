@@ -1,5 +1,4 @@
-Archaeozygodiscus P.R. Bown, 1985 GENUS
-=======
+# Archaeozygodiscus P.R. Bown, 1985 GENUS
 
 #### Status
 ACCEPTED

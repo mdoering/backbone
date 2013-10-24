@@ -1,5 +1,4 @@
-Phyllosticta valerianae A.L. Sm. & Ramsb., 1915 SPECIES
-=======
+# Phyllosticta valerianae A.L. Sm. & Ramsb., 1915 SPECIES
 
 #### Status
 ACCEPTED

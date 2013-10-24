@@ -1,5 +1,4 @@
-Mucor prayagensis B.S. Mehrotra & Nand ex Schipper, 1978 SPECIES
-=======
+# Mucor prayagensis B.S. Mehrotra & Nand ex Schipper, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barlaea violascens (Cooke) Massee SPECIES
-=======
+# Barlaea violascens (Cooke) Massee SPECIES
 
 #### Status
 ACCEPTED

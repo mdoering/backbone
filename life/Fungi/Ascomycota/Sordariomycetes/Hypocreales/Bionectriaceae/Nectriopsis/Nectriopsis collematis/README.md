@@ -1,5 +1,4 @@
-Nectriopsis collematis Diederich SPECIES
-=======
+# Nectriopsis collematis Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bombyliospora sinensis Zahlbr. SPECIES
-=======
+# Bombyliospora sinensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

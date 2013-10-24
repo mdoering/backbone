@@ -1,5 +1,4 @@
-Helminthosporium oligocarpum Corda SPECIES
-=======
+# Helminthosporium oligocarpum Corda SPECIES
 
 #### Status
 ACCEPTED

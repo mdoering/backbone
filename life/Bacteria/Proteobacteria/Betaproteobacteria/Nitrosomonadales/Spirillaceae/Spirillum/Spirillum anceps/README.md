@@ -1,5 +1,4 @@
-Spirillum anceps SPECIES
-=======
+# Spirillum anceps SPECIES
 
 #### Status
 ACCEPTED

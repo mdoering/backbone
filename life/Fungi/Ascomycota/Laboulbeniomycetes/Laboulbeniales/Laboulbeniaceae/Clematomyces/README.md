@@ -1,17 +1,16 @@
-Schizomeromyces Thaxt. GENUS
-=======
+# Clematomyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts, ser. 2 16: 312 (1931)
+Proc. Amer. Acad. Arts & Sci. 35: 439 (1900)
 
 #### Original name
-Schizomeromyces Thaxt.
+Clematomyces Thaxt.
 
 ### Remarks
 null

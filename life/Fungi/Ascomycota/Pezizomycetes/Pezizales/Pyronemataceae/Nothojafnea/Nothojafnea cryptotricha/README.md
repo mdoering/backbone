@@ -1,5 +1,4 @@
-Nothojafnea cryptotricha Rifai, 1968 SPECIES
-=======
+# Nothojafnea cryptotricha Rifai, 1968 SPECIES
 
 #### Status
 ACCEPTED

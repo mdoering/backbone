@@ -1,5 +1,4 @@
-Pseudoinflatoendothyra Wu in Wu & Liao, 2001 GENUS
-=======
+# Pseudoinflatoendothyra Wu in Wu & Liao, 2001 GENUS
 
 #### Status
 ACCEPTED

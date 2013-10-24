@@ -1,5 +1,4 @@
-Kerona Ehrenberg, 1835 GENUS
-=======
+# Kerona Ehrenberg, 1835 GENUS
 
 #### Status
 ACCEPTED

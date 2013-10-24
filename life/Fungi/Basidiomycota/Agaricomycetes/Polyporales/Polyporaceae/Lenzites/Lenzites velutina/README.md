@@ -1,5 +1,4 @@
-Lenzites velutina Ces. SPECIES
-=======
+# Lenzites velutina Ces. SPECIES
 
 #### Status
 ACCEPTED

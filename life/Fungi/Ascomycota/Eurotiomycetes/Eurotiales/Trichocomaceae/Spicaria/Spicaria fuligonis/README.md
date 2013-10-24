@@ -1,5 +1,4 @@
-Spicaria fuligonis Moreau SPECIES
-=======
+# Spicaria fuligonis Moreau SPECIES
 
 #### Status
 ACCEPTED

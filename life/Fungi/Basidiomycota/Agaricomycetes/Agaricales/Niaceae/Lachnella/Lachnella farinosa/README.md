@@ -1,5 +1,4 @@
-Lachnella farinosa (Wallr.) Sacc. SPECIES
-=======
+# Lachnella farinosa (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

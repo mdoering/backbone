@@ -1,17 +1,16 @@
-Talaromyces spiculisporus var. spiculisporus VARIETY
-=======
+# Penicillium lehmanii Pitt, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 497 (1980)
 
 #### Original name
-null
+Penicillium lehmanii Pitt, 1980
 
 ### Remarks
 null

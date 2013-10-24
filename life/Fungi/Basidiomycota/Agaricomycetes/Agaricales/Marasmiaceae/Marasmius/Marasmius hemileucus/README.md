@@ -1,5 +1,4 @@
-Marasmius hemileucus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Marasmius hemileucus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

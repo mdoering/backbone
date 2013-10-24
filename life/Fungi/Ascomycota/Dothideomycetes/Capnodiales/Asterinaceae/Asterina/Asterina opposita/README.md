@@ -1,5 +1,4 @@
-Asterina opposita Syd. & P. Syd. SPECIES
-=======
+# Asterina opposita Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium quercinum Sacc. SPECIES
-=======
+# Helminthosporium quercinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

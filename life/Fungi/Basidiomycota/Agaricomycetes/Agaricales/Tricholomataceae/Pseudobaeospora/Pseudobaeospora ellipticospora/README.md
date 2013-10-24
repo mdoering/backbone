@@ -1,5 +1,4 @@
-Pseudobaeospora ellipticospora Bas SPECIES
-=======
+# Pseudobaeospora ellipticospora Bas SPECIES
 
 #### Status
 ACCEPTED

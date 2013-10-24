@@ -1,5 +1,4 @@
-Pseudomicrodochium triseptatum Matsush. SPECIES
-=======
+# Pseudomicrodochium triseptatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystobacter minor SPECIES
-=======
+# Cystobacter minor SPECIES
 
 #### Status
 ACCEPTED

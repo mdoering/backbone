@@ -1,14 +1,13 @@
-Dichomyces vulgatus Thaxt., 1900 SPECIES
-=======
+# Peyritschiella vulgata (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 35: (1900)
+Mycol. Mem. 9: 271 (1985)
 
 #### Original name
 Dichomyces vulgatus Thaxt., 1900

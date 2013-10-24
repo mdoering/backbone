@@ -1,5 +1,4 @@
-Peziza vixvisibilis Schwein. SPECIES
-=======
+# Peziza vixvisibilis Schwein. SPECIES
 
 #### Status
 ACCEPTED

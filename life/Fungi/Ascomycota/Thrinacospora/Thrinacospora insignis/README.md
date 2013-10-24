@@ -1,5 +1,4 @@
-Thrinacospora insignis Petr., 1948 SPECIES
-=======
+# Thrinacospora insignis Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora pocutica T. Majewski SPECIES
-=======
+# Peronospora pocutica T. Majewski SPECIES
 
 #### Status
 ACCEPTED

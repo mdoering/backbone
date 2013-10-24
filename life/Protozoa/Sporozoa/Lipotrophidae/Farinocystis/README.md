@@ -1,14 +1,13 @@
-Triboliocystis Dissanaike, 1955 GENUS
-=======
+# Farinocystis Weiser, 1953 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Protozool. , 2, 155.
+Acta Soc. Zool. Bohemoslov. , 17, 204.
 
 #### Original name
 null

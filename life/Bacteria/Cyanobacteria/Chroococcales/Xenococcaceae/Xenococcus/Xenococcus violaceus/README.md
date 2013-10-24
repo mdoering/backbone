@@ -1,5 +1,4 @@
-Xenococcus violaceus Anand SPECIES
-=======
+# Xenococcus violaceus Anand SPECIES
 
 #### Status
 ACCEPTED

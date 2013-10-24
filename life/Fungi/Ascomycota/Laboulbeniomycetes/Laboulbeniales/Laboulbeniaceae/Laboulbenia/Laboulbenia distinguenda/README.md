@@ -1,5 +1,4 @@
-Laboulbenia distinguenda Speg. SPECIES
-=======
+# Laboulbenia distinguenda Speg. SPECIES
 
 #### Status
 ACCEPTED

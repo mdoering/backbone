@@ -1,5 +1,4 @@
-Phialea littorea (Fr.) Sacc. SPECIES
-=======
+# Phialea littorea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

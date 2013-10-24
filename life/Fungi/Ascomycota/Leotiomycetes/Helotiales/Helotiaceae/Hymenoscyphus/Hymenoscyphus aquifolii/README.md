@@ -1,14 +1,13 @@
-Hymenoscyphus aquifoliae (Cooke & Ellis) Kuntze SPECIES
-=======
+# Hymenoscyphus aquifolii (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 485 (1898)
 
 #### Original name
 Peziza aquifolii Cooke & Ellis

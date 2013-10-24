@@ -1,5 +1,4 @@
-Nocardiopsis africana (Preobrazhenskaya & Sveshnikova, 1974) Preobrazhenskaya & Sveshnikova, 1985 SPECIES
-=======
+# Nocardiopsis africana (Preobrazhenskaya & Sveshnikova, 1974) Preobrazhenskaya & Sveshnikova, 1985 SPECIES
 
 #### Status
 ACCEPTED

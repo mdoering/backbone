@@ -1,5 +1,4 @@
-Chaetostroma papayae Torrend SPECIES
-=======
+# Chaetostroma papayae Torrend SPECIES
 
 #### Status
 ACCEPTED

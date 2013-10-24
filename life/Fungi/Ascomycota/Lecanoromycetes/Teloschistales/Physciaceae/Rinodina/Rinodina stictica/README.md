@@ -1,5 +1,4 @@
-Rinodina stictica Sheard & Tønsberg SPECIES
-=======
+# Rinodina stictica Sheard & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

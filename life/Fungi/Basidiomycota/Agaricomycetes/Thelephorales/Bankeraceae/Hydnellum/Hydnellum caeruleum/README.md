@@ -1,17 +1,16 @@
-Hydnum fulvocoeruleum Britzelm., 1894 SPECIES
-=======
+# Hydnellum caeruleum (Hornem.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 5: 41 (1879)
 
 #### Original name
-null
+Hydnum suaveolens var. caeruleum (Hornem.) Fr., 1838
 
 ### Remarks
 null

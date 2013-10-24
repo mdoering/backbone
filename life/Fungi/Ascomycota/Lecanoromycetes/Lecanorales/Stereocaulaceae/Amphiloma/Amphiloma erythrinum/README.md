@@ -1,5 +1,4 @@
-Amphiloma erythrinum Müll. Arg. SPECIES
-=======
+# Amphiloma erythrinum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

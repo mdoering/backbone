@@ -1,5 +1,4 @@
-Gymnopus cremeimellus Murrill SPECIES
-=======
+# Gymnopus cremeimellus Murrill SPECIES
 
 #### Status
 ACCEPTED

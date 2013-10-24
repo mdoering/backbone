@@ -1,5 +1,4 @@
-Rhynchostoma tinctum (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Rhynchostoma tinctum (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

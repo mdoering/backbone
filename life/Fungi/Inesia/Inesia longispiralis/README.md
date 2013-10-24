@@ -1,5 +1,4 @@
-Inesia longispiralis ined. SPECIES
-=======
+# Inesia longispiralis ined. SPECIES
 
 #### Status
 ACCEPTED

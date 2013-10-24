@@ -1,5 +1,4 @@
-Cyanisticta dubia (Du Rietz) Räsänen SPECIES
-=======
+# Cyanisticta dubia (Du Rietz) Räsänen SPECIES
 
 #### Status
 ACCEPTED

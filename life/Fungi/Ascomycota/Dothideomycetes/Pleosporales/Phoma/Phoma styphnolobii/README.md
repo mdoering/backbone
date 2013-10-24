@@ -1,5 +1,4 @@
-Phoma styphnolobii Brunaud SPECIES
-=======
+# Phoma styphnolobii Brunaud SPECIES
 
 #### Status
 ACCEPTED

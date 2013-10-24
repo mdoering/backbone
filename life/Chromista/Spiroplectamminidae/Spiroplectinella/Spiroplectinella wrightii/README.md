@@ -1,8 +1,7 @@
-Spiroplecta wrightii (Silvestri, 1903) SPECIES
-=======
+# Spiroplectinella wrightii (Silvestri, 1903) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

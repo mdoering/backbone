@@ -1,5 +1,4 @@
-Galera sedata Herp. SPECIES
-=======
+# Galera sedata Herp. SPECIES
 
 #### Status
 ACCEPTED

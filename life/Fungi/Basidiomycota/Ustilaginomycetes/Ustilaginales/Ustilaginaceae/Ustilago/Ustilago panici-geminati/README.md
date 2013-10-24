@@ -1,5 +1,4 @@
-Ustilago panici-geminati Viégas SPECIES
-=======
+# Ustilago panici-geminati Viégas SPECIES
 
 #### Status
 ACCEPTED

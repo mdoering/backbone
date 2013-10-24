@@ -1,5 +1,4 @@
-Ramalina fastigiatofraxinea Hue SPECIES
-=======
+# Ramalina fastigiatofraxinea Hue SPECIES
 
 #### Status
 ACCEPTED

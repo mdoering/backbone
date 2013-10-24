@@ -1,5 +1,4 @@
-Pertusaria clercii Messuti & A. W. Archer SPECIES
-=======
+# Pertusaria clercii Messuti & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

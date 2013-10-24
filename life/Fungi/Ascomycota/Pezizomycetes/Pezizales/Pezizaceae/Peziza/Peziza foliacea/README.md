@@ -1,5 +1,4 @@
-Peziza foliacea Holmsk. SPECIES
-=======
+# Peziza foliacea Holmsk. SPECIES
 
 #### Status
 ACCEPTED

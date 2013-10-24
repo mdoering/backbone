@@ -1,5 +1,4 @@
-Navicella ericarum (Fabre) Kuntze SPECIES
-=======
+# Navicella ericarum (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

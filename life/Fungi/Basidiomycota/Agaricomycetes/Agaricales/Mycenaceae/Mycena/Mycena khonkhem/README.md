@@ -1,5 +1,4 @@
-Mycena khonkhem Desjardin, Boonprat. & Hywel-Jones SPECIES
-=======
+# Mycena khonkhem Desjardin, Boonprat. & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

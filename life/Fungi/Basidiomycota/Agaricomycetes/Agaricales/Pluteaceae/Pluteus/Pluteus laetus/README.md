@@ -1,5 +1,4 @@
-Pluteus laetus var. mixtus Singer VARIETY
-=======
+# Pluteus laetus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 21: 274 (1959)
 
 #### Original name
-Pluteus laetus var. mixtus Singer
+Pluteus laetus Singer
 
 ### Remarks
 null

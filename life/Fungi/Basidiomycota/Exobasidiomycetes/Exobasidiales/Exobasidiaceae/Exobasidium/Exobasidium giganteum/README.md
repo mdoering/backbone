@@ -1,5 +1,4 @@
-Exobasidium giganteum S. Hirata SPECIES
-=======
+# Exobasidium giganteum S. Hirata SPECIES
 
 #### Status
 ACCEPTED

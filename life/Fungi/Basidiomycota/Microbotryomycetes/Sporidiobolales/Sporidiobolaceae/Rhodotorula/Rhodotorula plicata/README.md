@@ -1,5 +1,4 @@
-Rhodotorula plicata F.C. Harrison SPECIES
-=======
+# Rhodotorula plicata F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

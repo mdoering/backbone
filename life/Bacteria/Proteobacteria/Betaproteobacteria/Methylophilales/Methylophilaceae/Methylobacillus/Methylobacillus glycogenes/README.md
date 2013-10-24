@@ -1,5 +1,4 @@
-Methylobacillus glycogenes Yordy and Weaver, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Methylobacillus glycogenes Yordy and Weaver, 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

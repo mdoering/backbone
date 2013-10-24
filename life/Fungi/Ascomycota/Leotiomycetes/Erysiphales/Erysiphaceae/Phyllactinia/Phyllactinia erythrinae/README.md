@@ -1,5 +1,4 @@
-Phyllactinia erythrinae Doidge SPECIES
-=======
+# Phyllactinia erythrinae Doidge SPECIES
 
 #### Status
 ACCEPTED

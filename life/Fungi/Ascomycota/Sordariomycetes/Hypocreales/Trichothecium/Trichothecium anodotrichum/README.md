@@ -1,5 +1,4 @@
-Trichothecium anodotrichum Fr. SPECIES
-=======
+# Trichothecium anodotrichum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hendersonia vagans var. vagans VARIETY
-=======
+# Hendersonia vagans Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 392 (1870)
 
 #### Original name
-null
+Hendersonia vagans Fuckel, 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peniophora laxitexta C.E. Gómez, 1976 SPECIES
-=======
+# Peniophora laxitexta C.E. Gómez, 1976 SPECIES
 
 #### Status
 ACCEPTED

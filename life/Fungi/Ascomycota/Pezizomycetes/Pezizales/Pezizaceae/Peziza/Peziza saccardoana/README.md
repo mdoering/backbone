@@ -1,5 +1,4 @@
-Peziza saccardoana Cooke, 1877 SPECIES
-=======
+# Peziza saccardoana Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED

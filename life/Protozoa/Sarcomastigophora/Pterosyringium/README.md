@@ -1,5 +1,4 @@
-Pterosyringium Haeckel, 1887 GENUS
-=======
+# Pterosyringium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

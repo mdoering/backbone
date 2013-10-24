@@ -1,17 +1,16 @@
-Chondrioderma subdictyospermum Rostaf., 1876 SPECIES
-=======
+# Diderma subdictyospermum (Rostaf.) G. Lister, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Mycetozoa (London), Edn 2 2: 101 (1911)
 
 #### Original name
-null
+Chondrioderma subdictyospermum Rostaf., 1876
 
 ### Remarks
 null

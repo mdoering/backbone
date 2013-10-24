@@ -1,5 +1,4 @@
-Irenopsis goniothalami Hosag. & T.K. Abraham SPECIES
-=======
+# Irenopsis goniothalami Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turbinaria filamentosa Yamada SPECIES
-=======
+# Turbinaria filamentosa Yamada SPECIES
 
 #### Status
 ACCEPTED

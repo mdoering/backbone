@@ -1,5 +1,4 @@
-Corynebacterium afermentans subsp. afermentans Riegel et al., 1993 SUBSPECIES
-=======
+# Corynebacterium afermentans Riegel et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

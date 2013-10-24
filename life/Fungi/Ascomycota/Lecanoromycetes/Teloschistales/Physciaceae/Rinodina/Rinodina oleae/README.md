@@ -1,5 +1,4 @@
-Rinodina oleae Bagl. SPECIES
-=======
+# Rinodina oleae Bagl. SPECIES
 
 #### Status
 ACCEPTED

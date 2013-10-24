@@ -1,5 +1,4 @@
-Didymocyrtis consimilis Vain., 1921 SPECIES
-=======
+# Didymocyrtis consimilis Vain., 1921 SPECIES
 
 #### Status
 ACCEPTED

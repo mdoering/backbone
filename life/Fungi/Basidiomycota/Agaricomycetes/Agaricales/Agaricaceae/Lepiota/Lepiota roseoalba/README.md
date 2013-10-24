@@ -1,5 +1,4 @@
-Lepiota roseoalba Pat. SPECIES
-=======
+# Lepiota roseoalba Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella buxicola Fabre SPECIES
-=======
+# Didymella buxicola Fabre SPECIES
 
 #### Status
 ACCEPTED

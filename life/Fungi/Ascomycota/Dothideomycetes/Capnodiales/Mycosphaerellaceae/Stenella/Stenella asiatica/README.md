@@ -1,5 +1,4 @@
-Stenella asiatica Kamal, A.N. Rai & Morgan-Jones SPECIES
-=======
+# Stenella asiatica Kamal, A.N. Rai & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

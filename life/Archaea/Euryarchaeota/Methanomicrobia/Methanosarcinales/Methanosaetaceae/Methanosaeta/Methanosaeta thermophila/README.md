@@ -1,5 +1,4 @@
-Methanosaeta thermophila SPECIES
-=======
+# Methanosaeta thermophila SPECIES
 
 #### Status
 ACCEPTED

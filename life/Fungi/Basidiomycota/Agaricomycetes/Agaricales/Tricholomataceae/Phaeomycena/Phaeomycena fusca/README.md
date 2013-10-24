@@ -1,5 +1,4 @@
-Phaeomycena fusca G. Stev. & G.M. Taylor, 1964 SPECIES
-=======
+# Phaeomycena fusca G. Stev. & G.M. Taylor, 1964 SPECIES
 
 #### Status
 ACCEPTED

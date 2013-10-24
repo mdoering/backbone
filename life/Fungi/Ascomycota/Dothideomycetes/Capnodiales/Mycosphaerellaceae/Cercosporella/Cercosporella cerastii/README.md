@@ -1,5 +1,4 @@
-Cercosporella cerastii Vasyag. SPECIES
-=======
+# Cercosporella cerastii Vasyag. SPECIES
 
 #### Status
 ACCEPTED

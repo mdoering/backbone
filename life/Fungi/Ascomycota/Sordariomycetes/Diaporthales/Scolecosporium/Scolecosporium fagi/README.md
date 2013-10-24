@@ -1,5 +1,4 @@
-Scolecosporium fagi Lib. SPECIES
-=======
+# Scolecosporium fagi Lib. SPECIES
 
 #### Status
 ACCEPTED

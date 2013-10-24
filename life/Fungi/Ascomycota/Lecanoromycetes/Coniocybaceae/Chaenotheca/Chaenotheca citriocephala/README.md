@@ -1,5 +1,4 @@
-Chaenotheca citriocephala (F. Wilson) Tibell SPECIES
-=======
+# Chaenotheca citriocephala (F. Wilson) Tibell SPECIES
 
 #### Status
 ACCEPTED

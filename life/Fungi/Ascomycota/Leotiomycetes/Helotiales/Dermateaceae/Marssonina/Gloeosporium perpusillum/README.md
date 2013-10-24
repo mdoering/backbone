@@ -1,5 +1,4 @@
-Gloeosporium perpusillum Sacc. SPECIES
-=======
+# Gloeosporium perpusillum Sacc. SPECIES
 
 #### Status
 ACCEPTED

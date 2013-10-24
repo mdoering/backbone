@@ -1,5 +1,4 @@
-Impagidinium variaseptum Marret & DeVernal, 1997 SPECIES
-=======
+# Impagidinium variaseptum Marret & DeVernal, 1997 SPECIES
 
 #### Status
 ACCEPTED

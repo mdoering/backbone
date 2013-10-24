@@ -1,8 +1,7 @@
-Triloculina gualteriana (d'Orbigny, 1839) SPECIES
-=======
+# Massilina gualtieriana (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

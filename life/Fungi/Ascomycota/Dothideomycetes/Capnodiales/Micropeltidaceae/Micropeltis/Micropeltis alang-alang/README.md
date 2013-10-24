@@ -1,5 +1,4 @@
-Micropeltis alang-alang Racib. SPECIES
-=======
+# Micropeltis alang-alang Racib. SPECIES
 
 #### Status
 ACCEPTED

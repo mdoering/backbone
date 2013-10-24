@@ -1,5 +1,4 @@
-Chitonomyces italicus Speg. SPECIES
-=======
+# Chitonomyces italicus Speg. SPECIES
 
 #### Status
 ACCEPTED

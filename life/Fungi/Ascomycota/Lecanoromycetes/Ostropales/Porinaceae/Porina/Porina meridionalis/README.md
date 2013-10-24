@@ -1,5 +1,4 @@
-Porina meridionalis P. M. McCarthy SPECIES
-=======
+# Porina meridionalis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

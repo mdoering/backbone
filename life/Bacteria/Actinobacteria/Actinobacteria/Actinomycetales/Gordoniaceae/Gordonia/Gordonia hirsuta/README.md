@@ -1,5 +1,4 @@
-Gordonia hirsuta Klatte et al., 1996 SPECIES
-=======
+# Gordonia hirsuta Klatte et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

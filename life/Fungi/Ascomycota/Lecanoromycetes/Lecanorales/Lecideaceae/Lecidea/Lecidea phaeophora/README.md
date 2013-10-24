@@ -1,5 +1,4 @@
-Lecidea phaeophora Stizenb. SPECIES
-=======
+# Lecidea phaeophora Stizenb. SPECIES
 
 #### Status
 ACCEPTED

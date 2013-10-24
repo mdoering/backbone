@@ -1,5 +1,4 @@
-Oscillatoria jenneri f. brevis B. Tracanna FORM
-=======
+# Oscillatoria jenneri SPECIES
 
 #### Status
 ACCEPTED

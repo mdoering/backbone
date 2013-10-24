@@ -1,5 +1,4 @@
-Oospora equina (Desm.) Sacc. & Voglino SPECIES
-=======
+# Oospora equina (Desm.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

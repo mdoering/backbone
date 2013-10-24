@@ -1,5 +1,4 @@
-Cryptosporiopsis brunnea Sigler SPECIES
-=======
+# Cryptosporiopsis brunnea Sigler SPECIES
 
 #### Status
 ACCEPTED

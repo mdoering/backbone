@@ -1,5 +1,4 @@
-Suillellus eastwoodiae Murrill SPECIES
-=======
+# Suillellus eastwoodiae Murrill SPECIES
 
 #### Status
 ACCEPTED

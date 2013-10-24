@@ -1,5 +1,4 @@
-Trachydiacrodium legiminiforme Timofeev, 1959 SPECIES
-=======
+# Trachydiacrodium legiminiforme Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

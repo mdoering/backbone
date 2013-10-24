@@ -1,5 +1,4 @@
-Trochila cinerea Pat. SPECIES
-=======
+# Trochila cinerea Pat. SPECIES
 
 #### Status
 ACCEPTED

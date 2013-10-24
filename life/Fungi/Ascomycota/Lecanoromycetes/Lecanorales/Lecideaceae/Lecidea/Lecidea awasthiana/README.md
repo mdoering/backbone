@@ -1,5 +1,4 @@
-Lecidea awasthiana Räsänen SPECIES
-=======
+# Lecidea awasthiana Räsänen SPECIES
 
 #### Status
 ACCEPTED

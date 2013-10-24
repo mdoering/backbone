@@ -1,5 +1,4 @@
-Legionella tucsonensis Thacker et al., 1990 SPECIES
-=======
+# Legionella tucsonensis Thacker et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

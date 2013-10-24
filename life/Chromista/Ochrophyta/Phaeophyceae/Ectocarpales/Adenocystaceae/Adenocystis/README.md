@@ -1,5 +1,4 @@
-Adenocystis J.D.Hooker & Harvey, 1845 GENUS
-=======
+# Adenocystis J.D.Hooker & Harvey, 1845 GENUS
 
 #### Status
 ACCEPTED

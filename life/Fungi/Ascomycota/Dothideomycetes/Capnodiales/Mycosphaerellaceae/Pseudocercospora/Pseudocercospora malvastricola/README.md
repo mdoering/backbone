@@ -1,5 +1,4 @@
-Pseudocercospora malvastricola P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
-=======
+# Pseudocercospora malvastricola P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius brunneifolius Kytöv., Niskanen & Liimatainen SPECIES
-=======
+# Cortinarius brunneifolius Kytöv., Niskanen & Liimatainen SPECIES
 
 #### Status
 ACCEPTED

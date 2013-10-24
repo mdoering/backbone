@@ -1,5 +1,4 @@
-Microdiplodia pyrina Petr. SPECIES
-=======
+# Microdiplodia pyrina Petr. SPECIES
 
 #### Status
 ACCEPTED

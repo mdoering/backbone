@@ -1,5 +1,4 @@
-Phomopsis lobeliae (Berk. & Broome) Petch SPECIES
-=======
+# Phomopsis lobeliae (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

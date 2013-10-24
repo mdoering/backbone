@@ -1,14 +1,13 @@
-Verrucaria pallida (Ach.) Nyl. SPECIES
-=======
+# Endocarpon pallidum Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 301 (1810)
 
 #### Original name
 Endocarpon pallidum Ach.

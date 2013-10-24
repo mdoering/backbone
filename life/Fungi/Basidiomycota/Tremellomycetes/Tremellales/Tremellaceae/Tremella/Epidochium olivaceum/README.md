@@ -1,5 +1,4 @@
-Epidochium olivaceum Ellis & Everh. SPECIES
-=======
+# Epidochium olivaceum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

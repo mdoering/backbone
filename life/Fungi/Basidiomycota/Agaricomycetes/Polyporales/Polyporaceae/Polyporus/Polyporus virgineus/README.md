@@ -1,5 +1,4 @@
-Polyporus virgineus (Schwein.) Fr. SPECIES
-=======
+# Polyporus virgineus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

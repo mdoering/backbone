@@ -1,5 +1,4 @@
-Daturella frigida Hada, 1970 SPECIES
-=======
+# Daturella frigida Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

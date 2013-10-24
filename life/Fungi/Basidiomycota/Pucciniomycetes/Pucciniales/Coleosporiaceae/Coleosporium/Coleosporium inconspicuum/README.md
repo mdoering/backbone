@@ -1,5 +1,4 @@
-Coleosporium inconspicuum (Long) Hedgc. SPECIES
-=======
+# Coleosporium inconspicuum (Long) Hedgc. SPECIES
 
 #### Status
 ACCEPTED

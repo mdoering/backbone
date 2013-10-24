@@ -1,17 +1,16 @@
-Roussoëlla angustispora D.Q. Zhou, L. Cai & K.D. Hyde SPECIES
-=======
+# Roussoella angustispora D.Q. Zhou, L. Cai & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 24(3): 194 (2003)
 
 #### Original name
-Roussoëlla angustispora D.Q. Zhou, L. Cai & K.D. Hyde
+Roussoella angustispora D.Q. Zhou, L. Cai & K.D. Hyde
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sabouraudiella purpurea (H. Bang) Boedijn SPECIES
-=======
+# Sabouraudiella purpurea (H. Bang) Boedijn SPECIES
 
 #### Status
 ACCEPTED

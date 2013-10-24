@@ -1,5 +1,4 @@
-Cortinarius oleaginus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius oleaginus Cleland & J.R. Harris SPECIES
 
 #### Status
 ACCEPTED

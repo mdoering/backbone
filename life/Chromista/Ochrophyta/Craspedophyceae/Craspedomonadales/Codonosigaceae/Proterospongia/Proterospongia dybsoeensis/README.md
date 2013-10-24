@@ -1,5 +1,4 @@
-Proterospongia dybsoeensis (Grøntved, 1956) Loeblich Iii SPECIES
-=======
+# Proterospongia dybsoeensis (Grøntved, 1956) Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

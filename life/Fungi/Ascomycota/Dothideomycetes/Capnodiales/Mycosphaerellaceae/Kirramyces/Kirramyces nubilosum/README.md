@@ -1,14 +1,13 @@
-Colletogloeum nubilosum Ganap. & Corbin, 1979 SPECIES
-=======
+# Kirramyces nubilosum (Ganap. & Corbin) Andjic, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 72(2): 237 (1979)
+Mycol. Res. 111(10): 1192 (2007)
 
 #### Original name
 Colletogloeum nubilosum Ganap. & Corbin, 1979

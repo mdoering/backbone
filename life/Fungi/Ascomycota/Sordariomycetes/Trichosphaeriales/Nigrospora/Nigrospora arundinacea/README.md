@@ -1,5 +1,4 @@
-Nigrospora arundinacea (Cooke & Massee) Potl. SPECIES
-=======
+# Nigrospora arundinacea (Cooke & Massee) Potl. SPECIES
 
 #### Status
 ACCEPTED

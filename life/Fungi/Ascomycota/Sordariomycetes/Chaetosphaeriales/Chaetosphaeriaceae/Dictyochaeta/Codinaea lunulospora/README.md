@@ -1,5 +1,4 @@
-Codinaea lunulospora Hewings & J.L. Crane SPECIES
-=======
+# Codinaea lunulospora Hewings & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

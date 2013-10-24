@@ -1,5 +1,4 @@
-Uredo centumnodii Schumach. SPECIES
-=======
+# Uredo centumnodii Schumach. SPECIES
 
 #### Status
 ACCEPTED

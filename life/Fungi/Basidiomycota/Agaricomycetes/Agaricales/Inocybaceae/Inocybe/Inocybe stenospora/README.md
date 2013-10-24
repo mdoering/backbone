@@ -1,5 +1,4 @@
-Inocybe stenospora Stangl & Bresinsky SPECIES
-=======
+# Inocybe stenospora Stangl & Bresinsky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ferromia Vavrdová, 1978 GENUS
-=======
+# Ferromia Vavrdová, 1978 GENUS
 
 #### Status
 ACCEPTED

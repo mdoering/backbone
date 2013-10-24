@@ -1,5 +1,4 @@
-Geron ludlovense Al-Ruwaili, 2000 SPECIES
-=======
+# Geron ludlovense Al-Ruwaili, 2000 SPECIES
 
 #### Status
 ACCEPTED

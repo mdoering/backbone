@@ -1,5 +1,4 @@
-Aphanandromyces audisioi W. Rossi, 1982 SPECIES
-=======
+# Aphanandromyces audisioi W. Rossi, 1982 SPECIES
 
 #### Status
 ACCEPTED

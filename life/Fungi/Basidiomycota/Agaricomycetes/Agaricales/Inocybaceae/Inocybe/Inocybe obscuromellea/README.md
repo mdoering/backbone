@@ -1,5 +1,4 @@
-Inocybe obscuromellea Poirier SPECIES
-=======
+# Inocybe obscuromellea Poirier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium perejaslawzewae Kahl, 1933 SPECIES
-=======
+# Zoothamnium perejaslawzewae Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

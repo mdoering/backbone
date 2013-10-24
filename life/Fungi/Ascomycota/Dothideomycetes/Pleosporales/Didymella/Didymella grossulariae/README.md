@@ -1,5 +1,4 @@
-Didymella grossulariae Romell SPECIES
-=======
+# Didymella grossulariae Romell SPECIES
 
 #### Status
 ACCEPTED

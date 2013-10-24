@@ -1,5 +1,4 @@
-Aulaxina opegraphina Fée SPECIES
-=======
+# Aulaxina opegraphina Fée SPECIES
 
 #### Status
 ACCEPTED

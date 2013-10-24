@@ -1,5 +1,4 @@
-Polystictus subfulvus (Berk. ex Lloyd) Cleland & Cheel SPECIES
-=======
+# Polystictus subfulvus (Berk. ex Lloyd) Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

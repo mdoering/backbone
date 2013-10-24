@@ -1,5 +1,4 @@
-Buellia talcophila Körb. SPECIES
-=======
+# Buellia talcophila Körb. SPECIES
 
 #### Status
 ACCEPTED

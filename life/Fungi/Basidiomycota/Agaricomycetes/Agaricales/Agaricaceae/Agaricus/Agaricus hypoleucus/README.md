@@ -1,5 +1,4 @@
-Agaricus hypoleucus Berk. SPECIES
-=======
+# Agaricus hypoleucus Berk. SPECIES
 
 #### Status
 ACCEPTED

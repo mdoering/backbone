@@ -1,17 +1,16 @@
-Inocybe reducta J.E. Lange, 1940 SPECIES
-=======
+# Inocybe albomarginata Velen., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Agaric. Danic. 5(Taxon. Consp. ): lV & 101 (1940)
+Ceské Houby 2: 379 (1920)
 
 #### Original name
-Inocybe reducta J.E. Lange, 1940
+Inocybe albomarginata Velen., 1920
 
 ### Remarks
 null

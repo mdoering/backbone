@@ -1,5 +1,4 @@
-Labyrinthomyxa sauvageaui Duboscq SPECIES
-=======
+# Labyrinthomyxa sauvageaui Duboscq SPECIES
 
 #### Status
 ACCEPTED

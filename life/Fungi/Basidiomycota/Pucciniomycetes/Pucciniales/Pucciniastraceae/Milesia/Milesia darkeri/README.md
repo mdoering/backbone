@@ -1,5 +1,4 @@
-Milesia darkeri Faull SPECIES
-=======
+# Milesia darkeri Faull SPECIES
 
 #### Status
 ACCEPTED

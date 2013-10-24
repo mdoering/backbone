@@ -1,5 +1,4 @@
-Barlaea subaurantia (E. Bommer & M. Rousseau) Sacc. SPECIES
-=======
+# Barlaea subaurantia (E. Bommer & M. Rousseau) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemaspora rhuina Fr. SPECIES
-=======
+# Naemaspora rhuina Fr. SPECIES
 
 #### Status
 ACCEPTED

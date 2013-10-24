@@ -1,5 +1,4 @@
-Peronospora hiratsukae S. Ito & Tokun. SPECIES
-=======
+# Peronospora hiratsukae S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

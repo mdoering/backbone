@@ -1,5 +1,4 @@
-Tephrophana GENUS
-=======
+# Tephrophana GENUS
 
 #### Status
 ACCEPTED

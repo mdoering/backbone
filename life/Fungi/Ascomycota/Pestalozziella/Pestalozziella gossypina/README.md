@@ -1,5 +1,4 @@
-Pestalozziella gossypina G.F. Atk. SPECIES
-=======
+# Pestalozziella gossypina G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria lakebarrinensis Goh & K.D. Hyde SPECIES
-=======
+# Dactylaria lakebarrinensis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

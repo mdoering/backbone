@@ -1,5 +1,4 @@
-Urostyla chlorelligera Foissner, 1980 SPECIES
-=======
+# Urostyla chlorelligera Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

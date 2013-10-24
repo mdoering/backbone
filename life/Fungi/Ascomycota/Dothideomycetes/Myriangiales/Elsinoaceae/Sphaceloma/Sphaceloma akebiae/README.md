@@ -1,5 +1,4 @@
-Sphaceloma akebiae Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma akebiae Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella capparigena U. Braun SPECIES
-=======
+# Stenella capparigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

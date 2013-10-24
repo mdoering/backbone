@@ -1,5 +1,4 @@
-Cometodinium whiteii (Deflandre & Courteville, 1939) Stover & Evitt, 1978 SPECIES
-=======
+# Cometodinium whiteii (Deflandre & Courteville, 1939) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

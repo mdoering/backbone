@@ -1,5 +1,4 @@
-Corticium catonii Burgeff SPECIES
-=======
+# Corticium catonii Burgeff SPECIES
 
 #### Status
 ACCEPTED

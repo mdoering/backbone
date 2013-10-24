@@ -1,5 +1,4 @@
-Cortinarius detudis Bidaud & Fillion SPECIES
-=======
+# Cortinarius detudis Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

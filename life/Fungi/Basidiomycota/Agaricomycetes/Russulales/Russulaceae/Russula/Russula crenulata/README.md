@@ -1,17 +1,16 @@
-Russula crenulata var. crenulata VARIETY
-=======
+# Russula crenulata Burl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Russula crenulata Burl.
 
 ### Remarks
 null

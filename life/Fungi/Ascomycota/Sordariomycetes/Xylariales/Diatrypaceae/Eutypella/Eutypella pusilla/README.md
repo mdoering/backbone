@@ -1,5 +1,4 @@
-Eutypella pusilla Speg. SPECIES
-=======
+# Eutypella pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

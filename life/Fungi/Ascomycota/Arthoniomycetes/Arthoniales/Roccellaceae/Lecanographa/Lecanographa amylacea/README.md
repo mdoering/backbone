@@ -1,17 +1,16 @@
-Lecanactis illecebrosa var. illecebrosa VARIETY
-=======
+# Lecanographa amylacea (Ehrh. ex Pers.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 54: 122 (1994)
 
 #### Original name
-Lecanactis illecebrosa var. illecebrosa
+Lichen amylaceus Ehrh.
 
 ### Remarks
 null

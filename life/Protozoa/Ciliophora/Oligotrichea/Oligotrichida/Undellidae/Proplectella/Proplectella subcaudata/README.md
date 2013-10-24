@@ -1,5 +1,4 @@
-Proplectella subcaudata (Jörgensen, 1925) SPECIES
-=======
+# Proplectella subcaudata (Jörgensen, 1925) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocarpa spaerica var. galapagensis Setchell & Gardner VARIETY
-=======
+# Dermocarpa spaerica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema hypotropodes (Nyl.) Hale SPECIES
-=======
+# Parmotrema hypotropodes (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tormentella H.D. Pflug GENUS
-=======
+# Tormentella H.D. Pflug GENUS
 
 #### Status
 ACCEPTED

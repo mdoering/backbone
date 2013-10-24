@@ -1,5 +1,4 @@
-Odontia alutacea SPECIES
-=======
+# Odontia alutacea SPECIES
 
 #### Status
 ACCEPTED

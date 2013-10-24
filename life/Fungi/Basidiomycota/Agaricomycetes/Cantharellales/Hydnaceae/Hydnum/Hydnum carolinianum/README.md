@@ -1,5 +1,4 @@
-Hydnum carolinianum Walter SPECIES
-=======
+# Hydnum carolinianum Walter SPECIES
 
 #### Status
 ACCEPTED

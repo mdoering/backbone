@@ -1,17 +1,16 @@
-Godronia davidsoni E.K. Cash SPECIES
-=======
+# Godronia davidsonii E.K. Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 26: 269 (1934)
 
 #### Original name
-Godronia davidsoni E.K. Cash
+Godronia davidsonii E.K. Cash
 
 ### Remarks
 null

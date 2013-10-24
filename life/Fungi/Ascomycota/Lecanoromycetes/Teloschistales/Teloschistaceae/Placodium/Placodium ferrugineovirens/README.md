@@ -1,5 +1,4 @@
-Placodium ferrugineovirens Vain. SPECIES
-=======
+# Placodium ferrugineovirens Vain. SPECIES
 
 #### Status
 ACCEPTED

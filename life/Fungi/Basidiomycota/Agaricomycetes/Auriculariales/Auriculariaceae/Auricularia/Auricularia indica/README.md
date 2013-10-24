@@ -1,5 +1,4 @@
-Auricularia indica Massee SPECIES
-=======
+# Auricularia indica Massee SPECIES
 
 #### Status
 ACCEPTED

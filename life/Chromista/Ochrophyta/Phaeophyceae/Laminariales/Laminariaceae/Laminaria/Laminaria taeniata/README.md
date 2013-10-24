@@ -1,5 +1,4 @@
-Laminaria taeniata Postels & Ruprecht SPECIES
-=======
+# Laminaria taeniata Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

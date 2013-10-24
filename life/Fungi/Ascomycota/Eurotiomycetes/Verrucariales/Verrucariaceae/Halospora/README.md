@@ -1,5 +1,4 @@
-Halospora GENUS
-=======
+# Halospora GENUS
 
 #### Status
 ACCEPTED

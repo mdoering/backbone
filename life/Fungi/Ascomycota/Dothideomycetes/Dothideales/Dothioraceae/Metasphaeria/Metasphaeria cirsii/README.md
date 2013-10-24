@@ -1,5 +1,4 @@
-Metasphaeria cirsii Feltgen SPECIES
-=======
+# Metasphaeria cirsii Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcogyne sinensis f. sinensis FORM
-=======
+# Sarcogyne sinensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sarcogyne sinensis f. sinensis
+Sarcogyne sinensis H. Magn.
 
 ### Remarks
 null

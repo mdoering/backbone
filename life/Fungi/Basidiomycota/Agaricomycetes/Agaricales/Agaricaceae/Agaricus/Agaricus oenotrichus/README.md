@@ -1,5 +1,4 @@
-Agaricus oenotrichus Heinem. SPECIES
-=======
+# Agaricus oenotrichus Heinem. SPECIES
 
 #### Status
 ACCEPTED

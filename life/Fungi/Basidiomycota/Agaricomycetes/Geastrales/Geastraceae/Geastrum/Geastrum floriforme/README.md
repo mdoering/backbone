@@ -1,5 +1,4 @@
-Geastrum floriforme Vittad., 1842 SPECIES
-=======
+# Geastrum floriforme Vittad., 1842 SPECIES
 
 #### Status
 ACCEPTED

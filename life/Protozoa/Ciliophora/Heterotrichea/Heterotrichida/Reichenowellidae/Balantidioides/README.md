@@ -1,5 +1,4 @@
-Balantidioides Penard in Kahl, 1930 GENUS
-=======
+# Balantidioides Penard in Kahl, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus kuriluensis Beeli SPECIES
-=======
+# Polystictus kuriluensis Beeli SPECIES
 
 #### Status
 ACCEPTED

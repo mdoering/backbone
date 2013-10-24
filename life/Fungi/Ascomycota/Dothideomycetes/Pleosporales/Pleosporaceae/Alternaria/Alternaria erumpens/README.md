@@ -1,5 +1,4 @@
-Alternaria erumpens (Cooke) P. Joly SPECIES
-=======
+# Alternaria erumpens (Cooke) P. Joly SPECIES
 
 #### Status
 ACCEPTED

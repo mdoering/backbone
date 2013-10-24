@@ -1,5 +1,4 @@
-Omphalia ptychophylla (Corda) Sacc. SPECIES
-=======
+# Omphalia ptychophylla (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

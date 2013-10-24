@@ -1,5 +1,4 @@
-Hendersonia caulicola Desm. SPECIES
-=======
+# Hendersonia caulicola Desm. SPECIES
 
 #### Status
 ACCEPTED

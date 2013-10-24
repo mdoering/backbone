@@ -1,5 +1,4 @@
-Acetabula olivacea (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Acetabula olivacea (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

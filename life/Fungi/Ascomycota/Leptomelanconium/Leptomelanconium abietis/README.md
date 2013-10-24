@@ -1,5 +1,4 @@
-Leptomelanconium abietis Vujan. & St-Arn. SPECIES
-=======
+# Leptomelanconium abietis Vujan. & St-Arn. SPECIES
 
 #### Status
 ACCEPTED

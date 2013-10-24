@@ -1,5 +1,4 @@
-Entopeltacites Selkirk GENUS
-=======
+# Entopeltacites Selkirk GENUS
 
 #### Status
 ACCEPTED

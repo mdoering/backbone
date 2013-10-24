@@ -1,5 +1,4 @@
-Pseudopyrenula composita Vain. SPECIES
-=======
+# Pseudopyrenula composita Vain. SPECIES
 
 #### Status
 ACCEPTED

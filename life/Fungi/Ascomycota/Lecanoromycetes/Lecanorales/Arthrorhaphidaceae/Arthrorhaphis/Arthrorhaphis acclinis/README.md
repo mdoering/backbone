@@ -1,5 +1,4 @@
-Arthrorhaphis acclinis A. Massal. SPECIES
-=======
+# Arthrorhaphis acclinis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

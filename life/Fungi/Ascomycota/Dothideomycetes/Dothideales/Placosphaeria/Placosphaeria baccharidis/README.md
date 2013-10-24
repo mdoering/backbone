@@ -1,5 +1,4 @@
-Placosphaeria baccharidis Dearn. & House SPECIES
-=======
+# Placosphaeria baccharidis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

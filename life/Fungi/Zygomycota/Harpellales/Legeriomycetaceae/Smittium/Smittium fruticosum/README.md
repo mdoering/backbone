@@ -1,5 +1,4 @@
-Smittium fruticosum M.C. Williams & Lichtw., 1992 SPECIES
-=======
+# Smittium fruticosum M.C. Williams & Lichtw., 1992 SPECIES
 
 #### Status
 ACCEPTED

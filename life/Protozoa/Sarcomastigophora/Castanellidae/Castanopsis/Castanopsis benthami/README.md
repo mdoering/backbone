@@ -1,5 +1,4 @@
-Castanopsis benthami Ettingsham SPECIES
-=======
+# Castanopsis benthami Ettingsham SPECIES
 
 #### Status
 ACCEPTED

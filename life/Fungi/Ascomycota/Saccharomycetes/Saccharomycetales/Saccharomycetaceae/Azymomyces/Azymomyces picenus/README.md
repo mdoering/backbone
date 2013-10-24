@@ -1,5 +1,4 @@
-Azymomyces picenus (Cif. & Verona) E.K. Novák & Zsolt SPECIES
-=======
+# Azymomyces picenus (Cif. & Verona) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

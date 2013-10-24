@@ -1,5 +1,4 @@
-Pholiota sabulosa Peck SPECIES
-=======
+# Pholiota sabulosa Peck SPECIES
 
 #### Status
 ACCEPTED

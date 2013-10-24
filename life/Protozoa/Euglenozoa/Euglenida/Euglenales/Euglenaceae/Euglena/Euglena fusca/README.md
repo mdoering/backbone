@@ -1,5 +1,4 @@
-Euglena fusca var. laticlavius (Hübner) Lemmermann VARIETY
-=======
+# Euglena fusca (Klebs) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

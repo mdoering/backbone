@@ -1,5 +1,4 @@
-Metasphaeria betulina (Hazsl.) Sacc. & P. Syd. SPECIES
-=======
+# Metasphaeria betulina (Hazsl.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

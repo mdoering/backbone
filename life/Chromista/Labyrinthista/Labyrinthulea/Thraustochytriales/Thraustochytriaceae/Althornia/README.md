@@ -1,5 +1,4 @@
-Althornia E.B.G. Jones & Alderman GENUS
-=======
+# Althornia E.B.G. Jones & Alderman GENUS
 
 #### Status
 ACCEPTED

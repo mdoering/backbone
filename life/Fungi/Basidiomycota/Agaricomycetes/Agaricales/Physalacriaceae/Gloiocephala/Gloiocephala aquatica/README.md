@@ -1,5 +1,4 @@
-Gloiocephala aquatica Desjardin, Mart.-Peck & Rajchenb., 1995 SPECIES
-=======
+# Gloiocephala aquatica Desjardin, Mart.-Peck & Rajchenb., 1995 SPECIES
 
 #### Status
 ACCEPTED

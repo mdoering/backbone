@@ -1,5 +1,4 @@
-Megalodochium inflatum Hol.-Jech. SPECIES
-=======
+# Megalodochium inflatum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria filicicola Speg. SPECIES
-=======
+# Metasphaeria filicicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tepidibacter formicigenes Urios et al., 2004 SPECIES
-=======
+# Tepidibacter formicigenes Urios et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

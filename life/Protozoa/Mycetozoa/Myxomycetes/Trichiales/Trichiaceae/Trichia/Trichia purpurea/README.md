@@ -1,5 +1,4 @@
-Trichia purpurea Schumach. SPECIES
-=======
+# Trichia purpurea Schumach. SPECIES
 
 #### Status
 ACCEPTED

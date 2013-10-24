@@ -1,14 +1,13 @@
-Orbilia calochroa Syd., 1916 SPECIES
-=======
+# Dicephalospora calochroa (Syd.) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 269 (1987)
 
 #### Original name
 Orbilia calochroa Syd., 1916

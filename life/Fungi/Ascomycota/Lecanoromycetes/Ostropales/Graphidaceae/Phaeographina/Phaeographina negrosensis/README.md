@@ -1,5 +1,4 @@
-Phaeographina negrosensis Herre SPECIES
-=======
+# Phaeographina negrosensis Herre SPECIES
 
 #### Status
 ACCEPTED

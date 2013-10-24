@@ -1,5 +1,4 @@
-Diplodia pistaciae Berl. & Bres. SPECIES
-=======
+# Diplodia pistaciae Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

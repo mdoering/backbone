@@ -1,5 +1,4 @@
-Hexagonia levis Berk. SPECIES
-=======
+# Hexagonia levis Berk. SPECIES
 
 #### Status
 ACCEPTED

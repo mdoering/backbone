@@ -1,5 +1,4 @@
-Gymnoglossum areolatum J.W. Cribb SPECIES
-=======
+# Gymnoglossum areolatum J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

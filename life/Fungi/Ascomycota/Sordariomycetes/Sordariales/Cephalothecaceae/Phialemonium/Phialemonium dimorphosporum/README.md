@@ -1,5 +1,4 @@
-Phialemonium dimorphosporum W. Gams & W.B. Cooke, 1983 SPECIES
-=======
+# Phialemonium dimorphosporum W. Gams & W.B. Cooke, 1983 SPECIES
 
 #### Status
 ACCEPTED

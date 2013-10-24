@@ -1,5 +1,4 @@
-Lycoperdon pertusum Sowerby SPECIES
-=======
+# Lycoperdon pertusum Sowerby SPECIES
 
 #### Status
 ACCEPTED

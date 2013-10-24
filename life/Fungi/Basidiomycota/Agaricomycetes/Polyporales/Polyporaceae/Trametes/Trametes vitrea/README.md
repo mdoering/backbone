@@ -1,5 +1,4 @@
-Trametes vitrea Lloyd SPECIES
-=======
+# Trametes vitrea Lloyd SPECIES
 
 #### Status
 ACCEPTED

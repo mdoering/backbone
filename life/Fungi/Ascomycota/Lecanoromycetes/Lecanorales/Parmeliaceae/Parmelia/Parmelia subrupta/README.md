@@ -1,5 +1,4 @@
-Parmelia subrupta Nyl. SPECIES
-=======
+# Parmelia subrupta Nyl. SPECIES
 
 #### Status
 ACCEPTED

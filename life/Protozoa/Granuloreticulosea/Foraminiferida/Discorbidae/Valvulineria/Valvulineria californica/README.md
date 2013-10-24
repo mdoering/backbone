@@ -1,5 +1,4 @@
-Valvulineria californica Cushman SPECIES
-=======
+# Valvulineria californica Cushman SPECIES
 
 #### Status
 ACCEPTED

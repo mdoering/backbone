@@ -1,5 +1,4 @@
-Acinetides urceolata Stokes SPECIES
-=======
+# Acinetides urceolata Stokes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenosira unica Petr., 1957 SPECIES
-=======
+# Selenosira unica Petr., 1957 SPECIES
 
 #### Status
 ACCEPTED

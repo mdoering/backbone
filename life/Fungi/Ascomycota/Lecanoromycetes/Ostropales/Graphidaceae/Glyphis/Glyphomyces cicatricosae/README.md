@@ -1,5 +1,4 @@
-Glyphomyces cicatricosae Cif. & Tomas. SPECIES
-=======
+# Glyphomyces cicatricosae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

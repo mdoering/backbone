@@ -1,5 +1,4 @@
-Huglusphaera zakharovi SPECIES
-=======
+# Huglusphaera zakharovi SPECIES
 
 #### Status
 ACCEPTED

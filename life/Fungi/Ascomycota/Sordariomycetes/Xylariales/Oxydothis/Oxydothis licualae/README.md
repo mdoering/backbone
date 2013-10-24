@@ -1,5 +1,4 @@
-Oxydothis licualae (Syd. & P. Syd.) K.D. Hyde SPECIES
-=======
+# Oxydothis licualae (Syd. & P. Syd.) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

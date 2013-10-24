@@ -1,5 +1,4 @@
-Stschapovia A.D.Zinova, 1954 GENUS
-=======
+# Stschapovia A.D.Zinova, 1954 GENUS
 
 #### Status
 ACCEPTED

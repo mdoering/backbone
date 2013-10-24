@@ -1,8 +1,7 @@
-Acanthostigmella brevispina M.E. Barr & Rogerson, 1983 SPECIES
-=======
+# Tubeufia brevispina (M.E. Barr & Rogerson) J.L. Crane, Shearer & M.E. Barr, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

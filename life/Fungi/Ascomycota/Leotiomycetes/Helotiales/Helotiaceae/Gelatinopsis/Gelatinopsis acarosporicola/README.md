@@ -1,5 +1,4 @@
-Gelatinopsis acarosporicola Kocourk. & K. Knudsen SPECIES
-=======
+# Gelatinopsis acarosporicola Kocourk. & K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

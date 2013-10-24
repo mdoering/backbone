@@ -1,5 +1,4 @@
-Psammetta globosa Schulze, 1906 SPECIES
-=======
+# Psammetta globosa Schulze, 1906 SPECIES
 
 #### Status
 ACCEPTED

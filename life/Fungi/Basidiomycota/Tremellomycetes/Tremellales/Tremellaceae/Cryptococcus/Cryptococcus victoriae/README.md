@@ -1,5 +1,4 @@
-Cryptococcus victoriae M.J. Montes, Belloch, Galiana, M.D. García, C. Andrés, S. Ferrer, Torr.-Rodr. & J. Guinea, 1999 SPECIES
-=======
+# Cryptococcus victoriae M.J. Montes, Belloch, Galiana, M.D. García, C. Andrés, S. Ferrer, Torr.-Rodr. & J. Guinea, 1999 SPECIES
 
 #### Status
 ACCEPTED

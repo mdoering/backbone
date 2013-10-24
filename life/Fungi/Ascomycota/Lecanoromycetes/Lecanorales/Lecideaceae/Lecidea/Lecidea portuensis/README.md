@@ -1,5 +1,4 @@
-Lecidea portuensis Nyl. SPECIES
-=======
+# Lecidea portuensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

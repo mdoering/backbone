@@ -1,5 +1,4 @@
-Buellia tephrodes I.M. Lamb SPECIES
-=======
+# Buellia tephrodes I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

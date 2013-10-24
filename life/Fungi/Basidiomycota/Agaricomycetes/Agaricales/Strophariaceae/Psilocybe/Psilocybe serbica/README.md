@@ -1,5 +1,4 @@
-Psilocybe serbica M.M. Moser & E. Horak SPECIES
-=======
+# Psilocybe serbica M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

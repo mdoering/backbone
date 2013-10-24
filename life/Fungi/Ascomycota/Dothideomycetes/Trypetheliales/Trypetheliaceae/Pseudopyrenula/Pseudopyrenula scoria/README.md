@@ -1,5 +1,4 @@
-Pseudopyrenula scoria (Fée) Vain. SPECIES
-=======
+# Pseudopyrenula scoria (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED

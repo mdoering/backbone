@@ -1,5 +1,4 @@
-Sphaerella oxalidis Kirschst. SPECIES
-=======
+# Sphaerella oxalidis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

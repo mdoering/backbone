@@ -1,5 +1,4 @@
-Cladonia itatiaiae Ahti & Marcelli SPECIES
-=======
+# Cladonia itatiaiae Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

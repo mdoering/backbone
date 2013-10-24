@@ -1,5 +1,4 @@
-Leciographa phloeoica (Nyl.) Arnold SPECIES
-=======
+# Leciographa phloeoica (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

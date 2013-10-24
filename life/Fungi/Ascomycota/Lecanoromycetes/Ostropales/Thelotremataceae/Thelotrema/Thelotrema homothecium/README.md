@@ -1,5 +1,4 @@
-Thelotrema homothecium Vain. SPECIES
-=======
+# Thelotrema homothecium Vain. SPECIES
 
 #### Status
 ACCEPTED

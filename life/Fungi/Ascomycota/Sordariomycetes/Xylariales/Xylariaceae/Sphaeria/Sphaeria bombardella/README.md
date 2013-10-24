@@ -1,5 +1,4 @@
-Sphaeria bombardella Ces. SPECIES
-=======
+# Sphaeria bombardella Ces. SPECIES
 
 #### Status
 ACCEPTED

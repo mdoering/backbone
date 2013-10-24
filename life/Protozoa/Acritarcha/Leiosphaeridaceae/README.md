@@ -1,5 +1,4 @@
-Leiosphaeridaceae Timofeev, 1956 FAMILY
-=======
+# Leiosphaeridaceae Timofeev, 1956 FAMILY
 
 #### Status
 ACCEPTED

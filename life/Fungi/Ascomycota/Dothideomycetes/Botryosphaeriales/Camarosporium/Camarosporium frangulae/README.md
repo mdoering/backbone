@@ -1,5 +1,4 @@
-Camarosporium frangulae Petr., 1924 SPECIES
-=======
+# Camarosporium frangulae Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

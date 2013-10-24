@@ -1,5 +1,4 @@
-Hyalinia orientalis Raitv. SPECIES
-=======
+# Hyalinia orientalis Raitv. SPECIES
 
 #### Status
 ACCEPTED

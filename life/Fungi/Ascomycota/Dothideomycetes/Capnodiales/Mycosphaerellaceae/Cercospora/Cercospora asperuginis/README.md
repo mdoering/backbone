@@ -1,5 +1,4 @@
-Cercospora asperuginis Annal. SPECIES
-=======
+# Cercospora asperuginis Annal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea contraponenda Arnold SPECIES
-=======
+# Porpidia contraponenda (Arnold) Knoph & Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 36: 79 (1886)
+in Hertel & Knoph, Mitt. bot. StSamml. , Münch. 20: 477 (1984)
 
 #### Original name
 Lecidea contraponenda Arnold

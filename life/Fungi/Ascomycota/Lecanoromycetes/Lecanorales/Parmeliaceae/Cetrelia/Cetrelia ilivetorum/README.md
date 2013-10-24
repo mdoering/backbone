@@ -1,5 +1,4 @@
-Cetrelia ilivetorum SPECIES
-=======
+# Cetrelia ilivetorum SPECIES
 
 #### Status
 ACCEPTED

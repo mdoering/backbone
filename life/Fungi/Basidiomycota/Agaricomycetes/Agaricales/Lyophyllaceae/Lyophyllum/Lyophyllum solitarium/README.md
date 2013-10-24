@@ -1,5 +1,4 @@
-Lyophyllum solitarium Alessio SPECIES
-=======
+# Lyophyllum solitarium Alessio SPECIES
 
 #### Status
 ACCEPTED

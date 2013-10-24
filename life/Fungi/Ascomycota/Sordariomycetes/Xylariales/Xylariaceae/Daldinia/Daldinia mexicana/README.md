@@ -1,5 +1,4 @@
-Daldinia mexicana F. San Martín, Y.M. Ju & J.D. Rogers, 1997 SPECIES
-=======
+# Daldinia mexicana F. San Martín, Y.M. Ju & J.D. Rogers, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phlyctorhiza peltata Sparrow, 1950 SPECIES
-=======
+# Catenophlyctis peltata (Sparrow) Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Wash. Acad. Sci. 40: 50 (1950)
+Nova Hedwigia 15: 191-201 (1968)
 
 #### Original name
 Phlyctorhiza peltata Sparrow, 1950

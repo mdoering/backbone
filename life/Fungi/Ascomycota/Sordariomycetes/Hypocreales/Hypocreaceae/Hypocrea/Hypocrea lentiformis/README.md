@@ -1,5 +1,4 @@
-Hypocrea lentiformis Rehm SPECIES
-=======
+# Hypocrea lentiformis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Massaria niessleana Rehm SPECIES
-=======
+# Massaria niessliana Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Massaria niessleana Rehm
+Massaria niessliana Rehm
 
 ### Remarks
 null

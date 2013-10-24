@@ -1,5 +1,4 @@
-Lecythea salicina Lév. SPECIES
-=======
+# Lecythea salicina Lév. SPECIES
 
 #### Status
 ACCEPTED

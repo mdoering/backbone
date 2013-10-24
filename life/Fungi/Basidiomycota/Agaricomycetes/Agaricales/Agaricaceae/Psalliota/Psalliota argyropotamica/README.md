@@ -1,5 +1,4 @@
-Psalliota argyropotamica (Speg.) Herter SPECIES
-=======
+# Psalliota argyropotamica (Speg.) Herter SPECIES
 
 #### Status
 ACCEPTED

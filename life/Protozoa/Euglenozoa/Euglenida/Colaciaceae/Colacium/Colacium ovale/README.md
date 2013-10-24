@@ -1,5 +1,4 @@
-Colacium ovale Playfair SPECIES
-=======
+# Colacium ovale Playfair SPECIES
 
 #### Status
 ACCEPTED

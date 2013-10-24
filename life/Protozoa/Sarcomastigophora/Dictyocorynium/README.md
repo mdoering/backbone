@@ -1,5 +1,4 @@
-Dictyocorynium Haeckel, 1887 GENUS
-=======
+# Dictyocorynium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

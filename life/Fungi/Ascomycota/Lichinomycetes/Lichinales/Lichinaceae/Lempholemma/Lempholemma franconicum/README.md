@@ -1,5 +1,4 @@
-Lempholemma franconicum (A. Massal.) Schwend. SPECIES
-=======
+# Lempholemma franconicum (A. Massal.) Schwend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium tatricum Hazsl. SPECIES
-=======
+# Thelidium tatricum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

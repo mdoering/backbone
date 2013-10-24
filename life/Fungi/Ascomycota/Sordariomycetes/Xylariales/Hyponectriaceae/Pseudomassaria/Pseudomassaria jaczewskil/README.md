@@ -1,5 +1,4 @@
-Pseudomassaria jaczewskil SPECIES
-=======
+# Pseudomassaria jaczewskil SPECIES
 
 #### Status
 ACCEPTED

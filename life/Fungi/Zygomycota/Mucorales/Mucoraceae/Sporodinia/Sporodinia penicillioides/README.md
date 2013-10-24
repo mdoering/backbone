@@ -1,5 +1,4 @@
-Sporodinia penicillioides Speg. SPECIES
-=======
+# Sporodinia penicillioides Speg. SPECIES
 
 #### Status
 ACCEPTED

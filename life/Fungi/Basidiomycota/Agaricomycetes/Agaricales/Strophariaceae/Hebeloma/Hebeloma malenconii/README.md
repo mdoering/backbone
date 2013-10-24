@@ -1,5 +1,4 @@
-Hebeloma malenconii Bellù & Lanzoni SPECIES
-=======
+# Hebeloma malenconii Bellù & Lanzoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicilliopsis togoensis Henn. SPECIES
-=======
+# Penicilliopsis togoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

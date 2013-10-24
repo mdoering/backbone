@@ -1,5 +1,4 @@
-Verrucaria antiquitatis Flörke SPECIES
-=======
+# Verrucaria antiquitatis Flörke SPECIES
 
 #### Status
 ACCEPTED

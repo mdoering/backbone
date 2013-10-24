@@ -1,5 +1,4 @@
-Phoma ardisiae Tassi SPECIES
-=======
+# Phoma ardisiae Tassi SPECIES
 
 #### Status
 ACCEPTED

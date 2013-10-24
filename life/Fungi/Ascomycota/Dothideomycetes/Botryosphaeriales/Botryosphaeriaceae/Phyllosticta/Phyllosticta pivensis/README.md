@@ -1,5 +1,4 @@
-Phyllosticta pivensis Bubák SPECIES
-=======
+# Phyllosticta pivensis Bubák SPECIES
 
 #### Status
 ACCEPTED

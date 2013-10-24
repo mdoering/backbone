@@ -1,5 +1,4 @@
-Laternea spegazzinii Lloyd SPECIES
-=======
+# Laternea spegazzinii Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helolachnum aurantiacum Torrend SPECIES
-=======
+# Helolachnum aurantiacum Torrend SPECIES
 
 #### Status
 ACCEPTED

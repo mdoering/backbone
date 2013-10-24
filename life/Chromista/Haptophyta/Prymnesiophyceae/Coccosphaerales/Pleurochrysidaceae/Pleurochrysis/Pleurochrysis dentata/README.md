@@ -1,5 +1,4 @@
-Pleurochrysis dentata J.R. Johansen, G.J. Doucette & W.R. Barclay SPECIES
-=======
+# Pleurochrysis dentata J.R. Johansen, G.J. Doucette & W.R. Barclay SPECIES
 
 #### Status
 ACCEPTED

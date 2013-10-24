@@ -1,5 +1,4 @@
-Peziza infula Rebent. SPECIES
-=======
+# Peziza infula Rebent. SPECIES
 
 #### Status
 ACCEPTED

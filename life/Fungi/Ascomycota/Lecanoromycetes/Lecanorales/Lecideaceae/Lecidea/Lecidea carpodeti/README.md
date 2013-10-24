@@ -1,5 +1,4 @@
-Lecidea carpodeti Zahlbr. SPECIES
-=======
+# Lecidea carpodeti Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

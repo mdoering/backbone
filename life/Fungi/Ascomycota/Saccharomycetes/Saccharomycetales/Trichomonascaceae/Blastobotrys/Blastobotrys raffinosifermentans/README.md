@@ -1,5 +1,4 @@
-Blastobotrys raffinosifermentans Kurtzman, 2007 SPECIES
-=======
+# Blastobotrys raffinosifermentans Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

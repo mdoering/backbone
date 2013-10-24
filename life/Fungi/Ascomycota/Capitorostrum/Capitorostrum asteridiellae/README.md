@@ -1,5 +1,4 @@
-Capitorostrum asteridiellae Bat., 1957 SPECIES
-=======
+# Capitorostrum asteridiellae Bat., 1957 SPECIES
 
 #### Status
 ACCEPTED

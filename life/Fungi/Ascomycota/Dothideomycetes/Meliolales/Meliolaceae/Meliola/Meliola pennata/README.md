@@ -1,5 +1,4 @@
-Meliola pennata Höhn. SPECIES
-=======
+# Meliola pennata Höhn. SPECIES
 
 #### Status
 ACCEPTED

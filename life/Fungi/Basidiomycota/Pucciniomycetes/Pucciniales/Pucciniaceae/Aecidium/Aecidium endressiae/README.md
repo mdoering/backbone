@@ -1,5 +1,4 @@
-Aecidium endressiae Mayor SPECIES
-=======
+# Aecidium endressiae Mayor SPECIES
 
 #### Status
 ACCEPTED

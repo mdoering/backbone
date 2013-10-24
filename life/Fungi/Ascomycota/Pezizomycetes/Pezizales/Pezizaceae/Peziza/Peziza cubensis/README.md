@@ -1,5 +1,4 @@
-Peziza cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

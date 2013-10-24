@@ -1,5 +1,4 @@
-Mollisia papillata Earle SPECIES
-=======
+# Mollisia papillata Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cycloporellus barbatus Murrill SPECIES
-=======
+# Cycloporellus barbatus Murrill SPECIES
 
 #### Status
 ACCEPTED

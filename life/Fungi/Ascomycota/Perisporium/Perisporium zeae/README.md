@@ -1,5 +1,4 @@
-Perisporium zeae Berk. & M.A. Curtis SPECIES
-=======
+# Perisporium zeae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

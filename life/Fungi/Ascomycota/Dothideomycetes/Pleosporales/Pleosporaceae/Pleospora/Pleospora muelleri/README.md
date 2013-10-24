@@ -1,5 +1,4 @@
-Pleospora muelleri Tilak SPECIES
-=======
+# Pleospora muelleri Tilak SPECIES
 
 #### Status
 ACCEPTED

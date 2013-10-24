@@ -1,5 +1,4 @@
-Exidiopsis fungicola (Hauerslev) Wojewoda SPECIES
-=======
+# Exidiopsis fungicola (Hauerslev) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

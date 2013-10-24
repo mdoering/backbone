@@ -1,5 +1,4 @@
-Hericius GENUS
-=======
+# Hericius GENUS
 
 #### Status
 ACCEPTED

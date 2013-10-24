@@ -1,5 +1,4 @@
-Stigmina polymorpha D.J. Sm. & C.O. Sm. SPECIES
-=======
+# Stigmina polymorpha D.J. Sm. & C.O. Sm. SPECIES
 
 #### Status
 ACCEPTED

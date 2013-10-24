@@ -1,5 +1,4 @@
-Sepedonium pomilianense Jasevoli SPECIES
-=======
+# Sepedonium pomilianense Jasevoli SPECIES
 
 #### Status
 ACCEPTED

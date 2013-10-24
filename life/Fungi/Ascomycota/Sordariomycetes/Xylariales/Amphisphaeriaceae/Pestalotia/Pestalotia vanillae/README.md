@@ -1,5 +1,4 @@
-Pestalotia vanillae Av.-Saccá SPECIES
-=======
+# Pestalotia vanillae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

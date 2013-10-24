@@ -1,5 +1,4 @@
-Lenzites ferruginea (F.C. Harrison) Sacc. & Trotter SPECIES
-=======
+# Lenzites ferruginea (F.C. Harrison) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia orbiculata Fr. SPECIES
-=======
+# Hexagonia orbiculata Fr. SPECIES
 
 #### Status
 ACCEPTED

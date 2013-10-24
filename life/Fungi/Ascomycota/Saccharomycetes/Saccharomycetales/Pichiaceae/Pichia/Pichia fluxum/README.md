@@ -1,5 +1,4 @@
-Pichia fluxum (Pfaff & Knapp) SPECIES
-=======
+# Pichia fluxum (Pfaff & Knapp) SPECIES
 
 #### Status
 ACCEPTED

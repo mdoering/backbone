@@ -1,5 +1,4 @@
-Crenasclerotes Stach & Pickh. GENUS
-=======
+# Crenasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

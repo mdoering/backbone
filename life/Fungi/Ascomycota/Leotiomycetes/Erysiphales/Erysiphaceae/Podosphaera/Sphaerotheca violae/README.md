@@ -1,5 +1,4 @@
-Sphaerotheca violae U. Braun SPECIES
-=======
+# Sphaerotheca violae U. Braun SPECIES
 
 #### Status
 ACCEPTED

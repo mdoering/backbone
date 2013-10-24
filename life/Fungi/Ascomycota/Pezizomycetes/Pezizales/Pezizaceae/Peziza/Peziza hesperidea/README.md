@@ -1,5 +1,4 @@
-Peziza hesperidea Peck & Cooke SPECIES
-=======
+# Peziza hesperidea Peck & Cooke SPECIES
 
 #### Status
 ACCEPTED

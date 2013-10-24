@@ -1,5 +1,4 @@
-Puccinia rapipes Berndt & E. Uhlmann SPECIES
-=======
+# Puccinia rapipes Berndt & E. Uhlmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalotheca zeyheriae C. Ram SPECIES
-=======
+# Cephalotheca zeyheriae C. Ram SPECIES
 
 #### Status
 ACCEPTED

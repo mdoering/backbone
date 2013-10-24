@@ -1,5 +1,4 @@
-Sphaeria cancellata Tode SPECIES
-=======
+# Sphaeria cancellata Tode SPECIES
 
 #### Status
 ACCEPTED

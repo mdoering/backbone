@@ -1,5 +1,4 @@
-Sphaeromma furcatiseta Matzer SPECIES
-=======
+# Sphaeromma furcatiseta Matzer SPECIES
 
 #### Status
 ACCEPTED

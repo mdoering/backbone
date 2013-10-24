@@ -1,5 +1,4 @@
-Septoria ugamica Golovin SPECIES
-=======
+# Septoria ugamica Golovin SPECIES
 
 #### Status
 ACCEPTED

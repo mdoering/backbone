@@ -1,5 +1,4 @@
-Amanita silvatica Guzmán SPECIES
-=======
+# Amanita silvatica Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella bernardiana Dennis SPECIES
-=======
+# Psathyrella bernardiana Dennis SPECIES
 
 #### Status
 ACCEPTED

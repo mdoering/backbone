@@ -1,5 +1,4 @@
-Parmelia vicinior var. bryophila Sambo VARIETY
-=======
+# Parmelia vicinior Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia vicinior var. bryophila Sambo
+Parmelia vicinior Hue
 
 ### Remarks
 null

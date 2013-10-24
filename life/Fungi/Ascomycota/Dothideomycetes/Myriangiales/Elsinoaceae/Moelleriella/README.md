@@ -1,5 +1,4 @@
-Moelleriella GENUS
-=======
+# Moelleriella GENUS
 
 #### Status
 ACCEPTED

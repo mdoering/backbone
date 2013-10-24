@@ -1,5 +1,4 @@
-Citrus dwarfing SPECIES
-=======
+# Citrus dwarfing SPECIES
 
 #### Status
 ACCEPTED

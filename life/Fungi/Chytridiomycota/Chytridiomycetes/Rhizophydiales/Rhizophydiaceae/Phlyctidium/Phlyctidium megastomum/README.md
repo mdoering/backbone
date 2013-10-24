@@ -1,5 +1,4 @@
-Phlyctidium megastomum Sparrow SPECIES
-=======
+# Phlyctidium megastomum Sparrow SPECIES
 
 #### Status
 ACCEPTED

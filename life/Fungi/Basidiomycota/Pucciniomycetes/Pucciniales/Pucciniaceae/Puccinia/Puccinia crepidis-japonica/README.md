@@ -1,5 +1,4 @@
-Puccinia crepidis-japonica (Lindl.) Diet. SPECIES
-=======
+# Puccinia crepidis-japonica (Lindl.) Diet. SPECIES
 
 #### Status
 ACCEPTED

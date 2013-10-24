@@ -1,5 +1,4 @@
-Ustilago muricata (Ces.) Liro SPECIES
-=======
+# Ustilago muricata (Ces.) Liro SPECIES
 
 #### Status
 ACCEPTED

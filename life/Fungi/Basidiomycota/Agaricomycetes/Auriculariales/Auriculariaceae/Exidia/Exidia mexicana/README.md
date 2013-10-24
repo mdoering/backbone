@@ -1,5 +1,4 @@
-Exidia mexicana Lowy SPECIES
-=======
+# Exidia mexicana Lowy SPECIES
 
 #### Status
 ACCEPTED

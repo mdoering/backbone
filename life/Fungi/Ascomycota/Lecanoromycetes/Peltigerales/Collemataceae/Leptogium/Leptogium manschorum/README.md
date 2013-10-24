@@ -1,5 +1,4 @@
-Leptogium manschorum SPECIES
-=======
+# Leptogium manschorum SPECIES
 
 #### Status
 ACCEPTED

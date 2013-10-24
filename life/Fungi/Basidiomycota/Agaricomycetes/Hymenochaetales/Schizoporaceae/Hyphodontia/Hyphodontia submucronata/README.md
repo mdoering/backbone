@@ -1,5 +1,4 @@
-Hyphodontia submucronata Hjortstam & Renvall SPECIES
-=======
+# Hyphodontia submucronata Hjortstam & Renvall SPECIES
 
 #### Status
 ACCEPTED

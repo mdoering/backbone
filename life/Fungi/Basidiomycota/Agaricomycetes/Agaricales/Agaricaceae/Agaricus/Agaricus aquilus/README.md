@@ -1,5 +1,4 @@
-Agaricus aquilus Fr. SPECIES
-=======
+# Agaricus aquilus Fr. SPECIES
 
 #### Status
 ACCEPTED

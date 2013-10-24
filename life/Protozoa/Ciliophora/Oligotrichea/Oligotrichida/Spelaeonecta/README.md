@@ -1,5 +1,4 @@
-Spelaeonecta Jankowski, 1975 GENUS
-=======
+# Spelaeonecta Jankowski, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia irrequisita H.S. Jacks. ex Arthur SPECIES
-=======
+# Puccinia irrequisita H.S. Jacks. ex Arthur SPECIES
 
 #### Status
 ACCEPTED

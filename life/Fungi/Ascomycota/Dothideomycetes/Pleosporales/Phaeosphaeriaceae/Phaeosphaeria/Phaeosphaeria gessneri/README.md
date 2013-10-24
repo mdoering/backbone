@@ -1,5 +1,4 @@
-Phaeosphaeria gessneri Shoemaker & C.E. Babc., 1989 SPECIES
-=======
+# Phaeosphaeria gessneri Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
 ACCEPTED

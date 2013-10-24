@@ -1,5 +1,4 @@
-Paecilomyces subglobosus Misaki, N. Yasui & Okabe SPECIES
-=======
+# Paecilomyces subglobosus Misaki, N. Yasui & Okabe SPECIES
 
 #### Status
 ACCEPTED

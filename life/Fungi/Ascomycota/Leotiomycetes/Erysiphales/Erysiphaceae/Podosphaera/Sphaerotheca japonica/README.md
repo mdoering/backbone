@@ -1,5 +1,4 @@
-Sphaerotheca japonica (E.S. Salmon) Homma SPECIES
-=======
+# Sphaerotheca japonica (E.S. Salmon) Homma SPECIES
 
 #### Status
 ACCEPTED

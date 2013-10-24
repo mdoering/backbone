@@ -1,5 +1,4 @@
-Mycogone flava Rivolta SPECIES
-=======
+# Mycogone flava Rivolta SPECIES
 
 #### Status
 ACCEPTED

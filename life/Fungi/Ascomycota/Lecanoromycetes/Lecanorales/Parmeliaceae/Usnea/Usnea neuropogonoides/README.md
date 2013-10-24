@@ -1,5 +1,4 @@
-Usnea neuropogonoides Motyka SPECIES
-=======
+# Usnea neuropogonoides Motyka SPECIES
 
 #### Status
 ACCEPTED

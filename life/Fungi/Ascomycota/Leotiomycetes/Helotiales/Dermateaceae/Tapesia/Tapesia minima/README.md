@@ -1,5 +1,4 @@
-Tapesia minima Velen. SPECIES
-=======
+# Tapesia minima Velen. SPECIES
 
 #### Status
 ACCEPTED

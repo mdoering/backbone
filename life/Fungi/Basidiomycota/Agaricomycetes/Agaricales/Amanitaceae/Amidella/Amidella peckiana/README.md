@@ -1,5 +1,4 @@
-Amidella peckiana f. peckiana FORM
-=======
+# Amidella peckiana (Kauffman) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Iconogr. Mycol. 27(Suppl. 1): 77 (1941)
 
 #### Original name
-Amidella peckiana f. peckiana
+Amanita peckiana Kauffman
 
 ### Remarks
 null

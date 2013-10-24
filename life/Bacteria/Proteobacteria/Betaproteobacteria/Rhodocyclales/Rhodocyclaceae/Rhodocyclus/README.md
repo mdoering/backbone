@@ -1,5 +1,4 @@
-Rhodocyclus Pfennig, 1978 GENUS
-=======
+# Rhodocyclus Pfennig, 1978 GENUS
 
 #### Status
 ACCEPTED

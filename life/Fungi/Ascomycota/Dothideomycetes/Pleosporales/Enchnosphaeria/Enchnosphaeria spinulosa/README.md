@@ -1,5 +1,4 @@
-Enchnosphaeria spinulosa Speg. SPECIES
-=======
+# Enchnosphaeria spinulosa Speg. SPECIES
 
 #### Status
 ACCEPTED

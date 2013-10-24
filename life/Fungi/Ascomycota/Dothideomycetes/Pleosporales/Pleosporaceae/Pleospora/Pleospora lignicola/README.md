@@ -1,5 +1,4 @@
-Pleospora lignicola J. Webster & M.T. Lucas, 1961 SPECIES
-=======
+# Pleospora lignicola J. Webster & M.T. Lucas, 1961 SPECIES
 
 #### Status
 ACCEPTED

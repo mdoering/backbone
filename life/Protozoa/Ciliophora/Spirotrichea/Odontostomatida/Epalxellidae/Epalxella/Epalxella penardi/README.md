@@ -1,5 +1,4 @@
-Epalxella penardi Wetzel, 1928 SPECIES
-=======
+# Epalxella penardi Wetzel, 1928 SPECIES
 
 #### Status
 ACCEPTED

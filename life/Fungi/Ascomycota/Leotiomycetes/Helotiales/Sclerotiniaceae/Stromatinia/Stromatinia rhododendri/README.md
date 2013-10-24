@@ -1,5 +1,4 @@
-Stromatinia rhododendri (E. Fisch.) Boud. SPECIES
-=======
+# Stromatinia rhododendri (E. Fisch.) Boud. SPECIES
 
 #### Status
 ACCEPTED

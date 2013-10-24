@@ -1,14 +1,13 @@
-Omphalina parvivelutina Clémençon & Irlet, 1982 SPECIES
-=======
+# Arrhenia parvivelutina (Clémençon & Irlet) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. , <b>1982A</b> Sondernummer 123 (<i>Mycologia Helvetica</i>) 15 (1982)
+Mycotaxon 83: 47 (2002)
 
 #### Original name
 Omphalina parvivelutina Clémençon & Irlet, 1982

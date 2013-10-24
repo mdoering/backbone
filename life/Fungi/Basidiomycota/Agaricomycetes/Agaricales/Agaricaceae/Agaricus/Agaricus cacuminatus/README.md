@@ -1,5 +1,4 @@
-Agaricus cacuminatus With. SPECIES
-=======
+# Agaricus cacuminatus With. SPECIES
 
 #### Status
 ACCEPTED

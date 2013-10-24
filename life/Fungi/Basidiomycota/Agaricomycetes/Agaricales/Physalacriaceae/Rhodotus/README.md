@@ -1,5 +1,4 @@
-Rhodotus Maire, 1926 GENUS
-=======
+# Rhodotus Maire, 1926 GENUS
 
 #### Status
 ACCEPTED

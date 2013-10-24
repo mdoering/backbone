@@ -1,17 +1,16 @@
-Discothecium stereocaulicola (Th. Fr. ex Linds.) Vouaux SPECIES
-=======
+# Polycoccum trypethelioides (Th. Fr.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Svensk bot. Tidskr. 54: 505 (1960)
 
 #### Original name
-Sphaeria stereocaulicola Th. Fr. ex Linds.
+Diatrype trypethelioides Th. Fr.
 
 ### Remarks
 null

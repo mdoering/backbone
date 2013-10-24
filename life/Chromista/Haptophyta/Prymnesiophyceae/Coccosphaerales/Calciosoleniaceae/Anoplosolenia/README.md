@@ -1,5 +1,4 @@
-Anoplosolenia Deflandre, 1952 GENUS
-=======
+# Anoplosolenia Deflandre, 1952 GENUS
 
 #### Status
 ACCEPTED

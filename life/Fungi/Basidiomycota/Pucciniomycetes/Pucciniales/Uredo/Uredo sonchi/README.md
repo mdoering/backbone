@@ -1,5 +1,4 @@
-Uredo sonchi Schumach. SPECIES
-=======
+# Uredo sonchi Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula tahitensis Reichardt SPECIES
-=======
+# Pterula tahitensis Reichardt SPECIES
 
 #### Status
 ACCEPTED

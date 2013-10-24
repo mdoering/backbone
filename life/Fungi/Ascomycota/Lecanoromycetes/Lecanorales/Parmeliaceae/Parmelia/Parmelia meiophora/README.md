@@ -1,17 +1,16 @@
-Parmelia meiophora var. meiophora VARIETY
-=======
+# Parmelia meiophora Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parmelia meiophora var. meiophora
+Parmelia meiophora Nyl.
 
 ### Remarks
 null

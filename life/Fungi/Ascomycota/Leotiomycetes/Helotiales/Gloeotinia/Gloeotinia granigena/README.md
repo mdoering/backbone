@@ -1,17 +1,16 @@
-Endoconidium temulentum Prill. & Delacr., 1891 SPECIES
-=======
+# Gloeotinia granigena (Quél.) T. Schumach., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 7: 116 (1891)
+Mycotaxon 8(1): 125 (1979)
 
 #### Original name
-Endoconidium temulentum Prill. & Delacr., 1891
+Phialea granigena Quél., 1883
 
 ### Remarks
 null

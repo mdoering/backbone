@@ -1,5 +1,4 @@
-Gyrophora pennsylvanica (Hoffm.) Ach. SPECIES
-=======
+# Gyrophora pennsylvanica (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

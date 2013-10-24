@@ -1,5 +1,4 @@
-Tremella psoromicola Diederich SPECIES
-=======
+# Tremella psoromicola Diederich SPECIES
 
 #### Status
 ACCEPTED

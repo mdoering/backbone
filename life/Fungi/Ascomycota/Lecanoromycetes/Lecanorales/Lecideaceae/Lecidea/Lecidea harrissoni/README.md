@@ -1,5 +1,4 @@
-Lecidea harrissoni C.W. Dodge SPECIES
-=======
+# Lecidea harrissoni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

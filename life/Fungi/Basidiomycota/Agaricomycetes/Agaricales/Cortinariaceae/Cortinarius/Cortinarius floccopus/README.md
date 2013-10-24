@@ -1,5 +1,4 @@
-Cortinarius floccopus Bidaud SPECIES
-=======
+# Cortinarius floccopus Bidaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina equisetina (Quél.) Kuntze SPECIES
-=======
+# Calycina equisetina (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

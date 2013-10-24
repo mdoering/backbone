@@ -1,5 +1,4 @@
-Lecidea steinsaethorgensis Hav. SPECIES
-=======
+# Lecidea steinsaethorgensis Hav. SPECIES
 
 #### Status
 ACCEPTED

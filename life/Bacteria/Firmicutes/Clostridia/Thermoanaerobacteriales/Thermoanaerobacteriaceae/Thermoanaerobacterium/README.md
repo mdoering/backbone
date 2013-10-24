@@ -1,5 +1,4 @@
-Thermoanaerobacterium Lee et al., 1993 GENUS
-=======
+# Thermoanaerobacterium Lee et al., 1993 GENUS
 
 #### Status
 ACCEPTED

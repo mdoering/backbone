@@ -1,14 +1,13 @@
-Sphaerella thallina Cooke SPECIES
-=======
+# Lichenochora thallina (Cooke) Hafellner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 45): 10 (1879)
+Nova Hedwigia 48(3-4): 363 (1989)
 
 #### Original name
 Sphaerella thallina Cooke

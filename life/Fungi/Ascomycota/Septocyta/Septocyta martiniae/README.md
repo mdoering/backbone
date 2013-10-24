@@ -1,5 +1,4 @@
-Septocyta martiniae (Cooke) Priest SPECIES
-=======
+# Septocyta martiniae (Cooke) Priest SPECIES
 
 #### Status
 ACCEPTED

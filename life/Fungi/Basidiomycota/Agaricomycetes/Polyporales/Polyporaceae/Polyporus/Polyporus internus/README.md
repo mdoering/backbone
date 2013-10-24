@@ -1,5 +1,4 @@
-Polyporus internus Schwein. SPECIES
-=======
+# Polyporus internus Schwein. SPECIES
 
 #### Status
 ACCEPTED

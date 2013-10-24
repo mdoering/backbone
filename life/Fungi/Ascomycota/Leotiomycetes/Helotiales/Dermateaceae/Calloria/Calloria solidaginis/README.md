@@ -1,5 +1,4 @@
-Calloria solidaginis Kanouse SPECIES
-=======
+# Calloria solidaginis Kanouse SPECIES
 
 #### Status
 ACCEPTED

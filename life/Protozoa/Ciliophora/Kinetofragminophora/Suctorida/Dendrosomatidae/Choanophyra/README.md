@@ -1,5 +1,4 @@
-Choanophyra GENUS
-=======
+# Choanophyra GENUS
 
 #### Status
 ACCEPTED

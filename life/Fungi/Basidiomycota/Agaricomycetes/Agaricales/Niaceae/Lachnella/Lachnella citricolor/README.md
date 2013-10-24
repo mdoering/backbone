@@ -1,5 +1,4 @@
-Lachnella citricolor (Berk. & Broome) W. Phillips SPECIES
-=======
+# Lachnella citricolor (Berk. & Broome) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

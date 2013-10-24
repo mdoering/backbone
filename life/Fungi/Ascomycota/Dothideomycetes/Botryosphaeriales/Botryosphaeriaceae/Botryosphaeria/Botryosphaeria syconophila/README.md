@@ -1,5 +1,4 @@
-Botryosphaeria syconophila (De Not.) Ces. & De Not. SPECIES
-=======
+# Botryosphaeria syconophila (De Not.) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

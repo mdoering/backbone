@@ -1,5 +1,4 @@
-Meliola styracicola Speg. SPECIES
-=======
+# Meliola styracicola Speg. SPECIES
 
 #### Status
 ACCEPTED

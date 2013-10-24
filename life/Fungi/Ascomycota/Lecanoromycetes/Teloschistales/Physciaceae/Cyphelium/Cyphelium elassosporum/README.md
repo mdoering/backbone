@@ -1,5 +1,4 @@
-Cyphelium elassosporum Nyl. SPECIES
-=======
+# Cyphelium elassosporum Nyl. SPECIES
 
 #### Status
 ACCEPTED

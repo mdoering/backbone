@@ -1,5 +1,4 @@
-Helminthosporium psammae Oudem. SPECIES
-=======
+# Helminthosporium psammae Oudem. SPECIES
 
 #### Status
 ACCEPTED

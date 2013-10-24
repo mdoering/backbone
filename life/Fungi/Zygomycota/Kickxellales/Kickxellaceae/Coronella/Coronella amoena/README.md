@@ -1,5 +1,4 @@
-Coronella amoena Boud. SPECIES
-=======
+# Coronella amoena Boud. SPECIES
 
 #### Status
 ACCEPTED

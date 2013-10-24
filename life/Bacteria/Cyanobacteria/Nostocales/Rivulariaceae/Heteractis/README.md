@@ -1,5 +1,4 @@
-Heteractis A.P.de Candolle, 1838 GENUS
-=======
+# Heteractis A.P.de Candolle, 1838 GENUS
 
 #### Status
 ACCEPTED

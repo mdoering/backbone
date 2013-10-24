@@ -1,5 +1,4 @@
-Heterosporium echinulatum var. dianthi Losa VARIETY
-=======
+# Heterosporium echinulatum (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Collnea bot. , Barcinone Bot. Instit. 3: 149 (1952)
+null
 
 #### Original name
-Heterosporium echinulatum var. dianthi Losa
+Heterosporium echinulatum (Berk.) Cooke
 
 ### Remarks
 null

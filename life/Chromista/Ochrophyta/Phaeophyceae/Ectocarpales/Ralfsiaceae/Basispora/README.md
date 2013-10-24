@@ -1,5 +1,4 @@
-Basispora D.M.John & G.W.Lawson, 1974 GENUS
-=======
+# Basispora D.M.John & G.W.Lawson, 1974 GENUS
 
 #### Status
 ACCEPTED

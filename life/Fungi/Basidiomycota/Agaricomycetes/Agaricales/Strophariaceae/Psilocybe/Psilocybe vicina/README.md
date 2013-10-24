@@ -1,5 +1,4 @@
-Psilocybe vicina Fr. SPECIES
-=======
+# Psilocybe vicina Fr. SPECIES
 
 #### Status
 ACCEPTED

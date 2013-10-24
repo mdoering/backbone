@@ -1,17 +1,16 @@
-Hygrophorus ceraceus var. ceraceus VARIETY
-=======
+# Hygrocybe ceracea (Wulfen) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 112 (1871)
 
 #### Original name
-null
+Agaricus ceraceus Wulfen, 1781
 
 ### Remarks
 null

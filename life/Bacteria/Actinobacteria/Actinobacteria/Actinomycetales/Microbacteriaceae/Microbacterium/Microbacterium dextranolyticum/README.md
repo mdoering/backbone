@@ -1,5 +1,4 @@
-Microbacterium dextranolyticum Yokota et al., 1993 SPECIES
-=======
+# Microbacterium dextranolyticum Yokota et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

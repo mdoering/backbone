@@ -1,17 +1,16 @@
-Debaryomyces guilliermondii var. guilliermondii VARIETY
-=======
+# Debaryomyces hansenii SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Kreger-van Rij, Yeasts, a taxonomic study (Amsterdam), 3rd Edn 130, 145 (1984)
 
 #### Original name
-Debaryomyces guilliermondii var. guilliermondii
+Saccharomyces hansenii Zopf, 1889
 
 ### Remarks
 null

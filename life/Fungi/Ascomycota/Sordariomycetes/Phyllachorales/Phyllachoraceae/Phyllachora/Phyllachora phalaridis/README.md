@@ -1,5 +1,4 @@
-Phyllachora phalaridis Orton, 1944 SPECIES
-=======
+# Phyllachora phalaridis Orton, 1944 SPECIES
 
 #### Status
 ACCEPTED

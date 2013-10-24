@@ -1,5 +1,4 @@
-Entyloma eryngii-plani Cif. SPECIES
-=======
+# Entyloma eryngii-plani Cif. SPECIES
 
 #### Status
 ACCEPTED

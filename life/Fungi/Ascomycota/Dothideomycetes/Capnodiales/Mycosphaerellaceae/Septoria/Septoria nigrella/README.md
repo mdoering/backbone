@@ -1,5 +1,4 @@
-Septoria nigrella Sacc. SPECIES
-=======
+# Septoria nigrella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella cystidiosa (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella cystidiosa (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus angustisporus Svrcek SPECIES
-=======
+# Hymenoscyphus angustisporus Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa apatela Ellis & Holw. SPECIES
-=======
+# Valsa apatela Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

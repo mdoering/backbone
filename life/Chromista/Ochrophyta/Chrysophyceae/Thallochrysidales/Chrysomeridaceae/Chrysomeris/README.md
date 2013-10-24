@@ -1,5 +1,4 @@
-Chrysomeris Carter, 1937 GENUS
-=======
+# Chrysomeris Carter, 1937 GENUS
 
 #### Status
 ACCEPTED

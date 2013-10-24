@@ -1,5 +1,4 @@
-Solenia palmicola (Henn.) W.B. Cooke SPECIES
-=======
+# Solenia palmicola (Henn.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

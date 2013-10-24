@@ -1,17 +1,16 @@
-Dimorphocystis subcapitatus Corner SPECIES
-=======
+# Dimorphocystis subcapitata Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. Mem. 1: 695 (1950)
 
 #### Original name
-Dimorphocystis subcapitatus Corner
+Dimorphocystis subcapitata Corner, 1950
 
 ### Remarks
 null

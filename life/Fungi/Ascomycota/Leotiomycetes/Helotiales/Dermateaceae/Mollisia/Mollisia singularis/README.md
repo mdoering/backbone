@@ -1,5 +1,4 @@
-Mollisia singularis (Peck) Sacc. SPECIES
-=======
+# Mollisia singularis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

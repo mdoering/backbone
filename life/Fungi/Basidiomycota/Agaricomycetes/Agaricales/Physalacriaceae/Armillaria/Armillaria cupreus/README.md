@@ -1,5 +1,4 @@
-Armillaria cupreus Secr. SPECIES
-=======
+# Armillaria cupreus Secr. SPECIES
 
 #### Status
 ACCEPTED

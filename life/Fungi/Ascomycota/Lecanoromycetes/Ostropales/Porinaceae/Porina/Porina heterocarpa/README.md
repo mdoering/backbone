@@ -1,5 +1,4 @@
-Porina heterocarpa P. M. McCarthy SPECIES
-=======
+# Porina heterocarpa P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

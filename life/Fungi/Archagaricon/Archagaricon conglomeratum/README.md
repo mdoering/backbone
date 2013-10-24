@@ -1,5 +1,4 @@
-Archagaricon conglomeratum A. Hancock & Atthey SPECIES
-=======
+# Archagaricon conglomeratum A. Hancock & Atthey SPECIES
 
 #### Status
 ACCEPTED

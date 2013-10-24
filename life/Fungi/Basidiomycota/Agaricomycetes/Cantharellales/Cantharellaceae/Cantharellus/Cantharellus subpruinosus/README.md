@@ -1,5 +1,4 @@
-Cantharellus subpruinosus Eyssart. & Buyck, 2000 SPECIES
-=======
+# Cantharellus subpruinosus Eyssart. & Buyck, 2000 SPECIES
 
 #### Status
 ACCEPTED

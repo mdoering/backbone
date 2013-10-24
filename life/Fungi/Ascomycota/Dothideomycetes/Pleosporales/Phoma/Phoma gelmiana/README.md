@@ -1,5 +1,4 @@
-Phoma gelmiana Bres. SPECIES
-=======
+# Phoma gelmiana Bres. SPECIES
 
 #### Status
 ACCEPTED

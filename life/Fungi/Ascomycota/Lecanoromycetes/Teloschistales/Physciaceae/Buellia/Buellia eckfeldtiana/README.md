@@ -1,5 +1,4 @@
-Buellia eckfeldtiana J. Steiner ex H. Magn. SPECIES
-=======
+# Buellia eckfeldtiana J. Steiner ex H. Magn. SPECIES
 
 #### Status
 ACCEPTED

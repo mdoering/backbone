@@ -1,5 +1,4 @@
-Cantharellus brownii Berk. & Broome SPECIES
-=======
+# Cantharellus brownii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

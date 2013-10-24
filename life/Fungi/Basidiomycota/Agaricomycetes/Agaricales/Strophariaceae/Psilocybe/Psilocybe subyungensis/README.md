@@ -1,5 +1,4 @@
-Psilocybe subyungensis Guzmán SPECIES
-=======
+# Psilocybe subyungensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

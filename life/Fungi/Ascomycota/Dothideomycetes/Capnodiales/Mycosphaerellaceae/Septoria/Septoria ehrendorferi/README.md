@@ -1,5 +1,4 @@
-Septoria ehrendorferi Petr. SPECIES
-=======
+# Septoria ehrendorferi Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropera sorbi Thüm., 1880 SPECIES
-=======
+# Micropera sorbi Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

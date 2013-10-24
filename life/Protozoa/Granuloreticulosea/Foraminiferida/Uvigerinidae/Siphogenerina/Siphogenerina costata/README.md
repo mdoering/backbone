@@ -1,5 +1,4 @@
-Siphogenerina costata SPECIES
-=======
+# Siphogenerina costata SPECIES
 
 #### Status
 ACCEPTED

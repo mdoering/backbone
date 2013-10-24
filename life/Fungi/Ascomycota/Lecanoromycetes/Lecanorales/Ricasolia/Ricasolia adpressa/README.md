@@ -1,5 +1,4 @@
-Ricasolia adpressa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Ricasolia adpressa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

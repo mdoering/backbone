@@ -1,5 +1,4 @@
-Cantharellus fissilis Fr. SPECIES
-=======
+# Cantharellus fissilis Fr. SPECIES
 
 #### Status
 ACCEPTED

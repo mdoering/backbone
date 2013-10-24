@@ -1,5 +1,4 @@
-Puccinia boliviana H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia boliviana H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

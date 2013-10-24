@@ -1,5 +1,4 @@
-Cortinarius semivelatus Rob. Henry SPECIES
-=======
+# Cortinarius semivelatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

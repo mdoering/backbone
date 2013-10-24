@@ -1,5 +1,4 @@
-Rhabdospora cynoglossi Hollós SPECIES
-=======
+# Rhabdospora cynoglossi Hollós SPECIES
 
 #### Status
 ACCEPTED

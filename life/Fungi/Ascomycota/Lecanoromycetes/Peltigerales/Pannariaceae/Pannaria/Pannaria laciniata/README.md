@@ -1,5 +1,4 @@
-Pannaria laciniata Zahlbr. SPECIES
-=======
+# Pannaria laciniata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

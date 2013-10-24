@@ -1,5 +1,4 @@
-Euplotes bistylus SPECIES
-=======
+# Euplotes bistylus SPECIES
 
 #### Status
 ACCEPTED

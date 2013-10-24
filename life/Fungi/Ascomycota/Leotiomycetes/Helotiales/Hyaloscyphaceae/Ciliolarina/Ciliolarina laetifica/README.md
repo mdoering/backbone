@@ -1,5 +1,4 @@
-Ciliolarina laetifica Huhtinen, 1993 SPECIES
-=======
+# Ciliolarina laetifica Huhtinen, 1993 SPECIES
 
 #### Status
 ACCEPTED

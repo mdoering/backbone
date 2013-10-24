@@ -1,5 +1,4 @@
-Plasmodiophora bicaudata Feldmann SPECIES
-=======
+# Plasmodiophora bicaudata Feldmann SPECIES
 
 #### Status
 ACCEPTED

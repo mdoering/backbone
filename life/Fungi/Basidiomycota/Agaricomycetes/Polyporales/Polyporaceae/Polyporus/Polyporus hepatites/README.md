@@ -1,5 +1,4 @@
-Polyporus hepatites Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus hepatites Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora pumilata Khara SPECIES
-=======
+# Octospora pumilata Khara SPECIES
 
 #### Status
 ACCEPTED

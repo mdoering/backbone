@@ -1,5 +1,4 @@
-Cercospora dissotidis Chupp & Doidge SPECIES
-=======
+# Cercospora dissotidis Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia peregrina Ellis & G. Martin SPECIES
-=======
+# Pestalotia peregrina Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomonas saccari SPECIES
-=======
+# Xanthomonas saccari SPECIES
 
 #### Status
 ACCEPTED

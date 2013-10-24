@@ -1,5 +1,4 @@
-Peteinosphaeridium septuosum Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Peteinosphaeridium septuosum Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

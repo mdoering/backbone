@@ -1,5 +1,4 @@
-Verrucaria tiroliensis Zschacke SPECIES
-=======
+# Verrucaria tiroliensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

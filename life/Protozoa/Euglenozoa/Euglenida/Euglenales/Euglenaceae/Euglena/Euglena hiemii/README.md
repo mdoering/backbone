@@ -1,5 +1,4 @@
-Euglena hiemii Lefèvre SPECIES
-=======
+# Euglena hiemii Lefèvre SPECIES
 
 #### Status
 ACCEPTED

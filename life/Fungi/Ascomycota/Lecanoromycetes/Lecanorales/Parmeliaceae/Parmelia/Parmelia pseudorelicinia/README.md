@@ -1,5 +1,4 @@
-Parmelia pseudorelicinia Jatta SPECIES
-=======
+# Parmelia pseudorelicinia Jatta SPECIES
 
 #### Status
 ACCEPTED

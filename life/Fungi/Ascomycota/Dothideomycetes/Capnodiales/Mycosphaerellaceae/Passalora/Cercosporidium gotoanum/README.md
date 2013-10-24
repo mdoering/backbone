@@ -1,5 +1,4 @@
-Cercosporidium gotoanum (Togashi) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercosporidium gotoanum (Togashi) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

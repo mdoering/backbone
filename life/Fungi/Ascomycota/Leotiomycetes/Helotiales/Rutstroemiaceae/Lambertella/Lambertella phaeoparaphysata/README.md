@@ -1,5 +1,4 @@
-Lambertella phaeoparaphysata Dumont SPECIES
-=======
+# Lambertella phaeoparaphysata Dumont SPECIES
 
 #### Status
 ACCEPTED

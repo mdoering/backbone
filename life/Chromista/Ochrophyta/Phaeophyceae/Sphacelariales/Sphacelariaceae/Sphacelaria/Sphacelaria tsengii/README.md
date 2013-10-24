@@ -1,5 +1,4 @@
-Sphacelaria tsengii Draisma, Keum, Prud'homme van Reine & Lokhorst SPECIES
-=======
+# Sphacelaria tsengii Draisma, Keum, Prud'homme van Reine & Lokhorst SPECIES
 
 #### Status
 ACCEPTED

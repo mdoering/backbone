@@ -1,5 +1,4 @@
-Psathyra goossensiae Beeli SPECIES
-=======
+# Psathyra goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

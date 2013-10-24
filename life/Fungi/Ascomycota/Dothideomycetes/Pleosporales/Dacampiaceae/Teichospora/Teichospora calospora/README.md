@@ -1,5 +1,4 @@
-Teichospora calospora Rolland SPECIES
-=======
+# Teichospora calospora Rolland SPECIES
 
 #### Status
 ACCEPTED

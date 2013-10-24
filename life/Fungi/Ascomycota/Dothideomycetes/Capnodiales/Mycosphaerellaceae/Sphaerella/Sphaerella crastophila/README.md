@@ -1,5 +1,4 @@
-Sphaerella crastophila Sacc. SPECIES
-=======
+# Sphaerella crastophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

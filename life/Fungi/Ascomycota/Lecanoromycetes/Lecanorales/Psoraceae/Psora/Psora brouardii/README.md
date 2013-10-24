@@ -1,8 +1,7 @@
-Psora brouardi B. de Lesd. SPECIES
-=======
+# Psora brouardii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psora brouardi B. de Lesd.
+Psora brouardii B. de Lesd.
 
 ### Remarks
 null

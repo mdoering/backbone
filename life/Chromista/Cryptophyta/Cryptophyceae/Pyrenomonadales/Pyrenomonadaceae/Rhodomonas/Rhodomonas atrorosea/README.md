@@ -1,5 +1,4 @@
-Rhodomonas atrorosea D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhodomonas atrorosea D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

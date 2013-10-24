@@ -1,5 +1,4 @@
-Cymatosira coronata J. Fenner & H. J. Schrader SPECIES
-=======
+# Cymatosira coronata J. Fenner & H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

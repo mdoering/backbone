@@ -1,5 +1,4 @@
-Phoma colorata Peck SPECIES
-=======
+# Phoma colorata Peck SPECIES
 
 #### Status
 ACCEPTED

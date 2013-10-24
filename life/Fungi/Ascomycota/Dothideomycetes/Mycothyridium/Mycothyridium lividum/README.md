@@ -1,14 +1,13 @@
-Xylosphaeria livida (Pers.) Petr., 1950 SPECIES
-=======
+# Mycothyridium lividum (Pers.) Petr., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 19 (1950)
+Sydowia 15: 289 (1962)
 
 #### Original name
 Sphaeria livida Fr., 1823

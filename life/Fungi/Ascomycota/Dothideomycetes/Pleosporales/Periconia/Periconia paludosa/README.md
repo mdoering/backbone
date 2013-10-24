@@ -1,5 +1,4 @@
-Periconia paludosa E.W. Mason & M.B. Ellis, 1953 SPECIES
-=======
+# Periconia paludosa E.W. Mason & M.B. Ellis, 1953 SPECIES
 
 #### Status
 ACCEPTED

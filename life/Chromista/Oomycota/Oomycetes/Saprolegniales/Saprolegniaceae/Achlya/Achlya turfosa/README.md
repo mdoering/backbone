@@ -1,5 +1,4 @@
-Achlya turfosa Johannes, 1950 SPECIES
-=======
+# Achlya turfosa Johannes, 1950 SPECIES
 
 #### Status
 ACCEPTED

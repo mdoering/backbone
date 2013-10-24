@@ -1,5 +1,4 @@
-Cortinarius nothoraphanoides M.M. Moser SPECIES
-=======
+# Cortinarius nothoraphanoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

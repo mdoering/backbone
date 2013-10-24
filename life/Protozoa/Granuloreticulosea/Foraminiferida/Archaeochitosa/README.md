@@ -1,5 +1,4 @@
-Archaeochitosa Eisenack, 1959 GENUS
-=======
+# Archaeochitosa Eisenack, 1959 GENUS
 
 #### Status
 ACCEPTED

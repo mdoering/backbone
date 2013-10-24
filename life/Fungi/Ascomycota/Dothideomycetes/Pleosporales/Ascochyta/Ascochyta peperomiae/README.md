@@ -1,5 +1,4 @@
-Ascochyta peperomiae J.M. Pereira & R.W. Barreto SPECIES
-=======
+# Ascochyta peperomiae J.M. Pereira & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

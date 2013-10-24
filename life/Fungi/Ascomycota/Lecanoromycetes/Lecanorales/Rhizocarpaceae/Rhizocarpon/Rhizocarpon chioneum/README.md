@@ -1,14 +1,13 @@
-Porina chiomela (Norman) Zahlbr. SPECIES
-=======
+# Rhizocarpon chioneum (Norman) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 371 (1922)
+Lich. Scand. (Uppsala) 1: 620 (1874)
 
 #### Original name
 Catillaria chionea Norman

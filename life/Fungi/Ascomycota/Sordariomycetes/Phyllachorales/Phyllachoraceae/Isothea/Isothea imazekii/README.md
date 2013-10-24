@@ -1,5 +1,4 @@
-Isothea imazekii Kobayasi, 1972 SPECIES
-=======
+# Isothea imazekii Kobayasi, 1972 SPECIES
 
 #### Status
 ACCEPTED

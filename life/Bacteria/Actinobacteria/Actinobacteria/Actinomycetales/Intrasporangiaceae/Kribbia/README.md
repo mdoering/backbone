@@ -1,5 +1,4 @@
-Kribbia Jung et al., 2006 GENUS
-=======
+# Kribbia Jung et al., 2006 GENUS
 
 #### Status
 ACCEPTED

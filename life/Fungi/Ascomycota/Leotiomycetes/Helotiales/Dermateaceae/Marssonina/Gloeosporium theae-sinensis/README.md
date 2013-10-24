@@ -1,17 +1,16 @@
-Gloeosporium theae-sinense T. Miyake SPECIES
-=======
+# Gloeosporium theae-sinensis I. Miyake, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mag. , Tokyo 21: 44 (1907)
 
 #### Original name
-Gloeosporium theae-sinense T. Miyake
+Gloeosporium theae-sinensis I. Miyake, 1907
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Melanopsamma nipaecola Cooke & Massee SPECIES
-=======
+# Melanopsamma nipicola Cooke & Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 16(no. 79): 92 (1888)
 
 #### Original name
-Melanopsamma nipaecola Cooke & Massee
+Melanopsamma nipicola Cooke & Massee
 
 ### Remarks
 null

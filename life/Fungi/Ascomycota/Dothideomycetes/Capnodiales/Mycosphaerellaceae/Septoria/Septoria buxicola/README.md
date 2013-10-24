@@ -1,5 +1,4 @@
-Septoria buxicola D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria buxicola D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia herpotrichioides Hepting & R.W. Davidson SPECIES
-=======
+# Rosellinia herpotrichioides Hepting & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

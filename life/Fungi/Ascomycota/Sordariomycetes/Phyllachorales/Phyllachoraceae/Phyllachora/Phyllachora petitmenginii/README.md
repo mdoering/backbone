@@ -1,5 +1,4 @@
-Phyllachora petitmenginii Maire, 1908 SPECIES
-=======
+# Phyllachora petitmenginii Maire, 1908 SPECIES
 
 #### Status
 ACCEPTED

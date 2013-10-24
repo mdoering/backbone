@@ -1,5 +1,4 @@
-Hyaloscypha capreolaria Velen. SPECIES
-=======
+# Hyaloscypha capreolaria Velen. SPECIES
 
 #### Status
 ACCEPTED

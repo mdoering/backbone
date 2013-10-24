@@ -1,5 +1,4 @@
-Heterorhabdus sinuosus Noël, 1970 SPECIES
-=======
+# Heterorhabdus sinuosus Noël, 1970 SPECIES
 
 #### Status
 ACCEPTED

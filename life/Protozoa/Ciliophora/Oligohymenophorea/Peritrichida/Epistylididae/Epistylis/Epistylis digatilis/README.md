@@ -1,5 +1,4 @@
-Epistylis digatilis Ehrenberg, 1838 SPECIES
-=======
+# Epistylis digatilis Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

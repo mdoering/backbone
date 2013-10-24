@@ -1,5 +1,4 @@
-Pyrenula viridescens Fée SPECIES
-=======
+# Pyrenula viridescens Fée SPECIES
 
 #### Status
 ACCEPTED

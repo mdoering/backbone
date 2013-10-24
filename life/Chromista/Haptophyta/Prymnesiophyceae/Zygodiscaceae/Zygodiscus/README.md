@@ -1,5 +1,4 @@
-Zygodiscus Bramlette & F.Sullivan, 1961 GENUS
-=======
+# Zygodiscus Bramlette & F.Sullivan, 1961 GENUS
 
 #### Status
 ACCEPTED

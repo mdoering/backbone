@@ -1,5 +1,4 @@
-Clostridium hathewayi Steer et al., 2002 SPECIES
-=======
+# Clostridium hathewayi Steer et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

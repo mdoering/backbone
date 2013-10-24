@@ -1,5 +1,4 @@
-Eremascopsis GENUS
-=======
+# Eremascopsis GENUS
 
 #### Status
 ACCEPTED

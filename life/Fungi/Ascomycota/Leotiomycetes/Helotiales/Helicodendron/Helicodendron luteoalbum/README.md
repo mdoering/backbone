@@ -1,5 +1,4 @@
-Helicodendron luteoalbum Glen Bott, 1955 SPECIES
-=======
+# Helicodendron luteoalbum Glen Bott, 1955 SPECIES
 
 #### Status
 ACCEPTED

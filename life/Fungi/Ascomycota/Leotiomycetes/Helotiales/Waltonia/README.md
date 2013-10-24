@@ -1,5 +1,4 @@
-Waltonia Saho, 1970 GENUS
-=======
+# Waltonia Saho, 1970 GENUS
 
 #### Status
 ACCEPTED

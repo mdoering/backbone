@@ -1,14 +1,13 @@
-Ricasolia hartmannii Müll. Arg. SPECIES
-=======
+# Lobaria hartmannii (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 66: 45 (1883)
+Cat. Lich. Univers. 3: 302 (1925)
 
 #### Original name
 Ricasolia hartmannii Müll. Arg.

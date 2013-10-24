@@ -1,8 +1,7 @@
-Appendiculella photinicola (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella photiniicola (W. Yamam.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

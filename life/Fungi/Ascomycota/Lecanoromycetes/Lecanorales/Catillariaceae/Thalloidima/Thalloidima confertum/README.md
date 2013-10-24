@@ -1,5 +1,4 @@
-Thalloidima confertum Müll. Arg. SPECIES
-=======
+# Thalloidima confertum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clintoniella GENUS
-=======
+# Clintoniella GENUS
 
 #### Status
 ACCEPTED

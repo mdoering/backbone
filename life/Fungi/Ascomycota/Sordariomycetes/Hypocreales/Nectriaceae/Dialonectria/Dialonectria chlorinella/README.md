@@ -1,5 +1,4 @@
-Dialonectria chlorinella (Cooke) Cooke SPECIES
-=======
+# Dialonectria chlorinella (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype acericola De Not. SPECIES
-=======
+# Diatrype acericola De Not. SPECIES
 
 #### Status
 ACCEPTED

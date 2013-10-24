@@ -1,5 +1,4 @@
-Leptospora hyperici Rabenh. SPECIES
-=======
+# Leptospora hyperici Rabenh. SPECIES
 
 #### Status
 ACCEPTED

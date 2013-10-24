@@ -1,5 +1,4 @@
-Lepiota albosquamosa Rick SPECIES
-=======
+# Lepiota albosquamosa Rick SPECIES
 
 #### Status
 ACCEPTED

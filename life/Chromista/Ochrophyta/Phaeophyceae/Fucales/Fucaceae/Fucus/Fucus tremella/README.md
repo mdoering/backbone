@@ -1,5 +1,4 @@
-Fucus tremella var. porrifolia S.G. Gmelin VARIETY
-=======
+# Fucus tremella SPECIES
 
 #### Status
 ACCEPTED

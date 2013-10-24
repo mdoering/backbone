@@ -1,5 +1,4 @@
-Sphaeria lonicerina P. Karst. SPECIES
-=======
+# Sphaeria lonicerina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

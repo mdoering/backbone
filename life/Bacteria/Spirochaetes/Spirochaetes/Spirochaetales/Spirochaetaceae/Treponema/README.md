@@ -1,5 +1,4 @@
-Treponema GENUS
-=======
+# Treponema GENUS
 
 #### Status
 ACCEPTED

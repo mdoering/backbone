@@ -1,5 +1,4 @@
-Clitopilus smithii Massee SPECIES
-=======
+# Clitopilus smithii Massee SPECIES
 
 #### Status
 ACCEPTED

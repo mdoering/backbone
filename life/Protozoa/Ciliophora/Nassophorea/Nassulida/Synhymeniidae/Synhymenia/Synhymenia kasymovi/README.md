@@ -1,5 +1,4 @@
-Synhymenia kasymovi (Aliev, 1990) Jankowski, 1992 SPECIES
-=======
+# Synhymenia kasymovi (Aliev, 1990) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

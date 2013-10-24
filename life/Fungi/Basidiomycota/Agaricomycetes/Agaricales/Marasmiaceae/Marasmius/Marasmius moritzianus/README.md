@@ -1,5 +1,4 @@
-Marasmius moritzianus Lév. SPECIES
-=======
+# Marasmius moritzianus Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fellhanera mackeei Lücking & Hürl. SPECIES
-=======
+# Fellhanera mackeei Lücking & Hürl. SPECIES
 
 #### Status
 ACCEPTED

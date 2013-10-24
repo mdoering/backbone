@@ -1,5 +1,4 @@
-Lecanora oreina Ach. SPECIES
-=======
+# Lecanora oreina Ach. SPECIES
 
 #### Status
 ACCEPTED

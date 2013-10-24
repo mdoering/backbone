@@ -1,5 +1,4 @@
-Troglomyces manfredii S. Colla, 1932 SPECIES
-=======
+# Troglomyces manfredii S. Colla, 1932 SPECIES
 
 #### Status
 ACCEPTED

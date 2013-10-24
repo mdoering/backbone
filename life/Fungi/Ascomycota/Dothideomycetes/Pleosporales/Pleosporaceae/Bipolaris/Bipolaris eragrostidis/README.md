@@ -1,5 +1,4 @@
-Bipolaris eragrostidis (Henn.) Shoemaker SPECIES
-=======
+# Bipolaris eragrostidis (Henn.) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma pezizoides (Ellis & Everh.) Boerema & Kesteren SPECIES
-=======
+# Phoma pezizoides (Ellis & Everh.) Boerema & Kesteren SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariopsis cubensis Murrill SPECIES
-=======
+# Volvariopsis cubensis Murrill SPECIES
 
 #### Status
 ACCEPTED

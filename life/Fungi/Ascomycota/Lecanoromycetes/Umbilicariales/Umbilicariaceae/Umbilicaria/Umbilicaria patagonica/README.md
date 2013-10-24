@@ -1,5 +1,4 @@
-Umbilicaria patagonica (Räsänen) I.M. Lamb SPECIES
-=======
+# Umbilicaria patagonica (Räsänen) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

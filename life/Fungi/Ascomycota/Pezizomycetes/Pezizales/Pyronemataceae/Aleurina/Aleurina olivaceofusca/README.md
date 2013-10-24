@@ -1,5 +1,4 @@
-Aleurina olivaceofusca (Svrcek & J. Moravec) W.Y. Zhuang & Korf SPECIES
-=======
+# Aleurina olivaceofusca (Svrcek & J. Moravec) W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

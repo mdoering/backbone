@@ -1,5 +1,4 @@
-Calenia submaculans R. Sant. SPECIES
-=======
+# Calenia submaculans R. Sant. SPECIES
 
 #### Status
 ACCEPTED

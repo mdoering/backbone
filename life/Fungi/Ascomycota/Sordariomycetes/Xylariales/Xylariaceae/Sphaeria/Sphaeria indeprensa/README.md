@@ -1,5 +1,4 @@
-Sphaeria indeprensa Durieu & Mont. SPECIES
-=======
+# Sphaeria indeprensa Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum fumosellum Bres. SPECIES
-=======
+# Sporotrichum fumosellum Bres. SPECIES
 
 #### Status
 ACCEPTED

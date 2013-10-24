@@ -1,5 +1,4 @@
-Blepharisma grayi Hartwig & Parker, 1977 SPECIES
-=======
+# Blepharisma grayi Hartwig & Parker, 1977 SPECIES
 
 #### Status
 ACCEPTED

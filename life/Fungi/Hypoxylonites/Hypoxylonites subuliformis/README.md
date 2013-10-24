@@ -1,5 +1,4 @@
-Hypoxylonites subuliformis Elsik SPECIES
-=======
+# Hypoxylonites subuliformis Elsik SPECIES
 
 #### Status
 ACCEPTED

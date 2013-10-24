@@ -1,5 +1,4 @@
-Russula acrifolia Romagn., 1997 SPECIES
-=======
+# Russula acrifolia Romagn., 1997 SPECIES
 
 #### Status
 ACCEPTED

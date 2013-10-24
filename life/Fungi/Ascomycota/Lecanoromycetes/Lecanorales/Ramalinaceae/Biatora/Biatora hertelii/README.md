@@ -1,5 +1,4 @@
-Biatora hertelii Printzen & Etayo SPECIES
-=======
+# Biatora hertelii Printzen & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cora tomentosa Vain. SPECIES
-=======
+# Cora tomentosa Vain. SPECIES
 
 #### Status
 ACCEPTED

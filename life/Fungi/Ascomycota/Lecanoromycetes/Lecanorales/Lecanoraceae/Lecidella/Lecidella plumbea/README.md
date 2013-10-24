@@ -1,5 +1,4 @@
-Lecidella plumbea (Garov.) Körb. SPECIES
-=======
+# Lecidella plumbea (Garov.) Körb. SPECIES
 
 #### Status
 ACCEPTED

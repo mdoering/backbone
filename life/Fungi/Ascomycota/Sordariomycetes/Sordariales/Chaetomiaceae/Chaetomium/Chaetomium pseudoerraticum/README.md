@@ -1,5 +1,4 @@
-Chaetomium pseudoerraticum Lal & J.N. Kapoor SPECIES
-=======
+# Chaetomium pseudoerraticum Lal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

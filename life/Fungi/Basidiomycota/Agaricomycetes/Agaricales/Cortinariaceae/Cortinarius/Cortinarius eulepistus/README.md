@@ -1,5 +1,4 @@
-Cortinarius eulepistus Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius eulepistus Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

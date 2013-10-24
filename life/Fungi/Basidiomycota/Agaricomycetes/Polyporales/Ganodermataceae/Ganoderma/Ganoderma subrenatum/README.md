@@ -1,5 +1,4 @@
-Ganoderma subrenatum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Ganoderma subrenatum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

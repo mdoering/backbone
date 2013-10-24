@@ -1,5 +1,4 @@
-Caeoma thalictri Sommerf. SPECIES
-=======
+# Caeoma thalictri Sommerf. SPECIES
 
 #### Status
 ACCEPTED

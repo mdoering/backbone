@@ -1,5 +1,4 @@
-Pilobolus intermedius (Coem.) P. Karst. SPECIES
-=======
+# Pilobolus intermedius (Coem.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

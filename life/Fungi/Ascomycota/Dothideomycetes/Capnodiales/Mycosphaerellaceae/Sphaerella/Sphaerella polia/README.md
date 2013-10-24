@@ -1,5 +1,4 @@
-Sphaerella polia (Petr.) Kirschst. SPECIES
-=======
+# Sphaerella polia (Petr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytidocaulon canariense (Ach.) Elenk. SPECIES
-=======
+# Rhytidocaulon canariense (Ach.) Elenk. SPECIES
 
 #### Status
 ACCEPTED

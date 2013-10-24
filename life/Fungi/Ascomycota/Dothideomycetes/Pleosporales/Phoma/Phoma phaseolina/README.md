@@ -1,5 +1,4 @@
-Phoma phaseolina Pass., 1889 SPECIES
-=======
+# Phoma phaseolina Pass., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synhymenia azerbaijanica (Aliev, 1990) Jankowski, 1992 SPECIES
-=======
+# Synhymenia azerbaijanica (Aliev, 1990) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

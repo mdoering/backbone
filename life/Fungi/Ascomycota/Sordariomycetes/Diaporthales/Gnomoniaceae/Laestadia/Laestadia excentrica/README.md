@@ -1,5 +1,4 @@
-Laestadia excentrica (Crié) Sacc. SPECIES
-=======
+# Laestadia excentrica (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

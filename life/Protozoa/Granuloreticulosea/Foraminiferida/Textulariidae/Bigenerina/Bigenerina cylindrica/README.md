@@ -1,8 +1,7 @@
-Bigenerina digitata (d'Orbigny, 1826) SPECIES
-=======
+# Bigenerina cylindrica Cushman, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

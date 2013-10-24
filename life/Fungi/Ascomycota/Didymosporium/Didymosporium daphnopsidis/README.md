@@ -1,5 +1,4 @@
-Didymosporium daphnopsidis Bat. & Peres SPECIES
-=======
+# Didymosporium daphnopsidis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

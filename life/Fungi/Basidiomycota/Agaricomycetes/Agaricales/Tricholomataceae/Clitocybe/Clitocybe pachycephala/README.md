@@ -1,5 +1,4 @@
-Clitocybe pachycephala (Massee) Sacc. SPECIES
-=======
+# Clitocybe pachycephala (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

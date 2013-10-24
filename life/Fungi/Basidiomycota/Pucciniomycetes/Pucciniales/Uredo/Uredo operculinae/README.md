@@ -1,5 +1,4 @@
-Uredo operculinae Arthur SPECIES
-=======
+# Uredo operculinae Arthur SPECIES
 
 #### Status
 ACCEPTED

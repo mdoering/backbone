@@ -1,8 +1,7 @@
-Macrophoma anonae Kavkas. SPECIES
-=======
+# Macrophoma annonae Kavkas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma anonae Kavkas.
+Macrophoma annonae Kavkas.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta skagwayensis (R. Sprague) Punith. SPECIES
-=======
+# Ascochyta skagwayensis (R. Sprague) Punith. SPECIES
 
 #### Status
 ACCEPTED

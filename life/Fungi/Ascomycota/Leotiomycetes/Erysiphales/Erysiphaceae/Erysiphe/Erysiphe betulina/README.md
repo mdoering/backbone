@@ -1,5 +1,4 @@
-Erysiphe betulina U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe betulina U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

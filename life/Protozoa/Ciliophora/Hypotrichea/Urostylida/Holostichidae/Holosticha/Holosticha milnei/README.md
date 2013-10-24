@@ -1,5 +1,4 @@
-Holosticha milnei Kahl, 1932 SPECIES
-=======
+# Holosticha milnei Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

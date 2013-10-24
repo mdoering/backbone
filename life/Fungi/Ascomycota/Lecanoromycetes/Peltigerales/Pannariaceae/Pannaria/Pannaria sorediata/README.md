@@ -1,5 +1,4 @@
-Pannaria sorediata C. Knight SPECIES
-=======
+# Pannaria sorediata C. Knight SPECIES
 
 #### Status
 ACCEPTED

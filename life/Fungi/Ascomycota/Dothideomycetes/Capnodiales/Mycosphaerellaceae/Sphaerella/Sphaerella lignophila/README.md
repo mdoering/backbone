@@ -1,5 +1,4 @@
-Sphaerella lignophila SPECIES
-=======
+# Sphaerella lignophila SPECIES
 
 #### Status
 ACCEPTED

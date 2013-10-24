@@ -1,5 +1,4 @@
-Newinia thaiana Kakish. & Y. Ono, 1988 SPECIES
-=======
+# Newinia thaiana Kakish. & Y. Ono, 1988 SPECIES
 
 #### Status
 ACCEPTED

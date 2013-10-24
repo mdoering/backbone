@@ -1,5 +1,4 @@
-Lecidea griseolurida Lindau SPECIES
-=======
+# Lecidea griseolurida Lindau SPECIES
 
 #### Status
 ACCEPTED

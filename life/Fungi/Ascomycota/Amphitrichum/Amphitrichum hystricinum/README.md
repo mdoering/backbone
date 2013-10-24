@@ -1,5 +1,4 @@
-Amphitrichum hystricinum (Cooke) Kuntze SPECIES
-=======
+# Amphitrichum hystricinum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

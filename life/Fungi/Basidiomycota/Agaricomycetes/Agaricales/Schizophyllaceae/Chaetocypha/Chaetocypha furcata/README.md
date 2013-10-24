@@ -1,5 +1,4 @@
-Chaetocypha furcata (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chaetocypha furcata (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

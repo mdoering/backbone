@@ -1,5 +1,4 @@
-Phoma detracta anon. SPECIES
-=======
+# Phoma detracta anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine saxicola SPECIES
-=======
+# Pyxine saxicola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thielaviopsis wallemiaeformis Dominik & Ihnat. SPECIES
-=======
+# Thielaviopsis wallemiiformis Dominik & Ihnat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zesz. nauk. wyzsz. Szk. roln. Szczec. 50: 24 (1975)
 
 #### Original name
-Thielaviopsis wallemiaeformis Dominik & Ihnat.
+Thielaviopsis wallemiiformis Dominik & Ihnat.
 
 ### Remarks
 null

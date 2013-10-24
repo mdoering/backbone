@@ -1,5 +1,4 @@
-Pringsheimia cynodontis J.N. Kapoor & H.S. Gill SPECIES
-=======
+# Pringsheimia cynodontis J.N. Kapoor & H.S. Gill SPECIES
 
 #### Status
 ACCEPTED

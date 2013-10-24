@@ -1,5 +1,4 @@
-Cephalosporium Corda, 1839 GENUS
-=======
+# Cephalosporium Corda, 1839 GENUS
 
 #### Status
 ACCEPTED

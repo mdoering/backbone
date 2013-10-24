@@ -1,5 +1,4 @@
-Aplosporella dulcamarae Dearn. & House SPECIES
-=======
+# Aplosporella dulcamarae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

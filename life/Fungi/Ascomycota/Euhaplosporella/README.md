@@ -1,5 +1,4 @@
-Euhaplosporella Petrak & Sydow, 1926 GENUS
-=======
+# Euhaplosporella Petrak & Sydow, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psammina mariae-theresiae Dias & Teixeira SPECIES
-=======
+# Psammina mariae-theresiae Dias & Teixeira SPECIES
 
 #### Status
 ACCEPTED

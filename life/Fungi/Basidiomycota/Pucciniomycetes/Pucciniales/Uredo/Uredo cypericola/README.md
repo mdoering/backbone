@@ -1,5 +1,4 @@
-Uredo cypericola Henn. SPECIES
-=======
+# Uredo cypericola Henn. SPECIES
 
 #### Status
 ACCEPTED

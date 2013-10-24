@@ -1,5 +1,4 @@
-Microcystis ovalis Hollenberg SPECIES
-=======
+# Microcystis ovalis Hollenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus albescens (Murrill) Redhead SPECIES
-=======
+# Crepidotus albescens (Murrill) Redhead SPECIES
 
 #### Status
 ACCEPTED

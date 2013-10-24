@@ -1,5 +1,4 @@
-Arthothelium dictyophorum Müll. Arg. SPECIES
-=======
+# Arthothelium dictyophorum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

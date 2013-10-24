@@ -1,5 +1,4 @@
-Helminthosporium lusitanicum Sousa da Câmara SPECIES
-=======
+# Helminthosporium lusitanicum Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

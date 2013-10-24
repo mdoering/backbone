@@ -1,5 +1,4 @@
-Aglaospora ocellata (Schwein.) De Not. SPECIES
-=======
+# Aglaospora ocellata (Schwein.) De Not. SPECIES
 
 #### Status
 ACCEPTED

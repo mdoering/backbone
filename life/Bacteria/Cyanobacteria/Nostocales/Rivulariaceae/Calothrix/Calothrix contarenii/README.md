@@ -1,8 +1,7 @@
-Rivularia contarenii Zanardini SPECIES
-=======
+# Calothrix contarenii (Zanardini) Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

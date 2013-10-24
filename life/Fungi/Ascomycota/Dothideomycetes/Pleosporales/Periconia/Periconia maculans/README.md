@@ -1,5 +1,4 @@
-Periconia maculans (Cooke) E.W. Mason & M.B. Ellis SPECIES
-=======
+# Periconia maculans (Cooke) E.W. Mason & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

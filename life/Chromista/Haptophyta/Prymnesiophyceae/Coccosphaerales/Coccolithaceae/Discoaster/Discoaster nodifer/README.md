@@ -1,5 +1,4 @@
-Discoaster nodifer (Bramlette & Riedel, 1954) Bukry, 1973 SPECIES
-=======
+# Discoaster nodifer (Bramlette & Riedel, 1954) Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

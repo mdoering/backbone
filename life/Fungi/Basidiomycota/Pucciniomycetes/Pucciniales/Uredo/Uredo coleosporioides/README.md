@@ -1,5 +1,4 @@
-Uredo coleosporioides Dietel & Holw. SPECIES
-=======
+# Uredo coleosporioides Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

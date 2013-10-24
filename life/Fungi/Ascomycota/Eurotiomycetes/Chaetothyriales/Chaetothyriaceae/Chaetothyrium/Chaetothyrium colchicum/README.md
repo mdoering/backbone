@@ -1,5 +1,4 @@
-Chaetothyrium colchicum Woron. SPECIES
-=======
+# Chaetothyrium colchicum Woron. SPECIES
 
 #### Status
 ACCEPTED

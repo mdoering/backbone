@@ -1,5 +1,4 @@
-Bellerochea Van Heurck GENUS
-=======
+# Bellerochea Van Heurck GENUS
 
 #### Status
 ACCEPTED

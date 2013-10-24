@@ -1,5 +1,4 @@
-Gemmobacter Rothe et al., 1988 GENUS
-=======
+# Gemmobacter Rothe et al., 1988 GENUS
 
 #### Status
 ACCEPTED

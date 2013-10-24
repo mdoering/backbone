@@ -1,5 +1,4 @@
-Ciboria violacea Rehm SPECIES
-=======
+# Ciboria violacea Rehm SPECIES
 
 #### Status
 ACCEPTED

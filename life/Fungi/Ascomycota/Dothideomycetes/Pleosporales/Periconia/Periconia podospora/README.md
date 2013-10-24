@@ -1,5 +1,4 @@
-Periconia podospora Corda SPECIES
-=======
+# Periconia podospora Corda SPECIES
 
 #### Status
 ACCEPTED

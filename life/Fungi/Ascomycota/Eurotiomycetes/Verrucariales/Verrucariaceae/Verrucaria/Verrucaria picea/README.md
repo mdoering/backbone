@@ -1,5 +1,4 @@
-Verrucaria picea C. Knight SPECIES
-=======
+# Verrucaria picea C. Knight SPECIES
 
 #### Status
 ACCEPTED

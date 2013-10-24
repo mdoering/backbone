@@ -1,5 +1,4 @@
-Lichen arietinus Dubois SPECIES
-=======
+# Lichen arietinus Dubois SPECIES
 
 #### Status
 ACCEPTED

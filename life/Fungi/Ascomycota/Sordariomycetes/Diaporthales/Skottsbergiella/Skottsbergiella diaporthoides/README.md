@@ -1,5 +1,4 @@
-Skottsbergiella diaporthoides Petr., 1927 SPECIES
-=======
+# Skottsbergiella diaporthoides Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

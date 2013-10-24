@@ -1,17 +1,16 @@
-Pulina Adans. GENUS
-=======
+# Lepraria Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fam. Pl. 2: 3 (1763)
+Method. Lich. 3 (1803)
 
 #### Original name
-Pulina Adans.
+Lepraria Ach.
 
 ### Remarks
 null

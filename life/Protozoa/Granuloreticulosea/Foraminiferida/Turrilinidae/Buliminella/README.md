@@ -1,5 +1,4 @@
-Buliminella Cushman, 1911 GENUS
-=======
+# Buliminella Cushman, 1911 GENUS
 
 #### Status
 ACCEPTED

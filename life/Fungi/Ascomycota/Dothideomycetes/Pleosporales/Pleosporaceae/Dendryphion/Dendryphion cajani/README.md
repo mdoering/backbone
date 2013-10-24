@@ -1,5 +1,4 @@
-Dendryphion cajani Sawada SPECIES
-=======
+# Dendryphion cajani Sawada SPECIES
 
 #### Status
 ACCEPTED

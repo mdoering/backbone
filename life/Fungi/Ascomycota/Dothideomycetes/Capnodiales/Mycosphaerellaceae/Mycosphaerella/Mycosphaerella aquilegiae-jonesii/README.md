@@ -1,5 +1,4 @@
-Mycosphaerella aquilegiae-jonesii Tomilin SPECIES
-=======
+# Mycosphaerella aquilegiae-jonesii Tomilin SPECIES
 
 #### Status
 ACCEPTED

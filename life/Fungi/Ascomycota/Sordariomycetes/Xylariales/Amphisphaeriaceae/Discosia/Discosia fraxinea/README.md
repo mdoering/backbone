@@ -1,5 +1,4 @@
-Discosia fraxinea (Schwein.) Nag Raj SPECIES
-=======
+# Discosia fraxinea (Schwein.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

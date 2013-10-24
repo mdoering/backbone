@@ -1,17 +1,16 @@
-Chelisporium Speg. GENUS
-=======
+# Sirothecium P. Karst. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 13: 463 (1910)
+Meddn Soc. Fauna Flora fenn. 14: 105 (1887)
 
 #### Original name
-Chelisporium Speg.
+Sirothecium P. Karst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Conocybe detrusa (Peck) Singer SPECIES
-=======
+# Conocybe detrusa (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

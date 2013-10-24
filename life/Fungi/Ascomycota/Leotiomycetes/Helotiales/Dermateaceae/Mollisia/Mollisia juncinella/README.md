@@ -1,5 +1,4 @@
-Mollisia juncinella P. Karst. SPECIES
-=======
+# Mollisia juncinella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

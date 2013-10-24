@@ -1,17 +1,16 @@
-Eudacnus Raf. ex Merr. GENUS
-=======
+# Pisolithus Albertini & Schweinitz, 1805 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Eudacnus Raf. ex Merr.
+null
 
 ### Remarks
 null

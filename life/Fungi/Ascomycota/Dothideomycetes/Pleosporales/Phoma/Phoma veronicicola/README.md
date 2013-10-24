@@ -1,5 +1,4 @@
-Phoma veronicicola Boerema & Loer., 1985 SPECIES
-=======
+# Phoma veronicicola Boerema & Loer., 1985 SPECIES
 
 #### Status
 ACCEPTED

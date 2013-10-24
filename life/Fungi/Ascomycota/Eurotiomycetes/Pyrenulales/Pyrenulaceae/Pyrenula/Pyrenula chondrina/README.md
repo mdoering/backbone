@@ -1,5 +1,4 @@
-Pyrenula chondrina SPECIES
-=======
+# Pyrenula chondrina SPECIES
 
 #### Status
 ACCEPTED

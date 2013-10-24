@@ -1,5 +1,4 @@
-Cytospora sepincola J. Schröt. SPECIES
-=======
+# Cytospora sepincola J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

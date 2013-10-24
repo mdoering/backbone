@@ -1,5 +1,4 @@
-Myxosporium candidissimum Racib. SPECIES
-=======
+# Myxosporium candidissimum Racib. SPECIES
 
 #### Status
 ACCEPTED

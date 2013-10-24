@@ -1,5 +1,4 @@
-Hysterographium artemesiae Pat. SPECIES
-=======
+# Hysterographium artemesiae Pat. SPECIES
 
 #### Status
 ACCEPTED

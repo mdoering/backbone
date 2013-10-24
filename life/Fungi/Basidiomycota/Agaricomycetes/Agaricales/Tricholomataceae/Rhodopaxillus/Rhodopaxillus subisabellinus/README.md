@@ -1,5 +1,4 @@
-Rhodopaxillus subisabellinus (Murrill) Dennis SPECIES
-=======
+# Rhodopaxillus subisabellinus (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

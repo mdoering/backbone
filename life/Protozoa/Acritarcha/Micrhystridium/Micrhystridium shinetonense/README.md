@@ -1,5 +1,4 @@
-Micrhystridium shinetonense Downie, 1958 SPECIES
-=======
+# Micrhystridium shinetonense Downie, 1958 SPECIES
 
 #### Status
 ACCEPTED

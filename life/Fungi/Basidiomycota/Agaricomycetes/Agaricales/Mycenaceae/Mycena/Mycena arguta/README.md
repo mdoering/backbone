@@ -1,5 +1,4 @@
-Mycena arguta Kalchbr. SPECIES
-=======
+# Mycena arguta Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

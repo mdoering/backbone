@@ -1,5 +1,4 @@
-Exserohilum protrudens Alcorn, 1988 SPECIES
-=======
+# Exserohilum protrudens Alcorn, 1988 SPECIES
 
 #### Status
 ACCEPTED

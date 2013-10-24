@@ -1,17 +1,16 @@
-Clitocybe graminicola var. graminicola VARIETY
-=======
+# Clitocybe agrestis Harmaja, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 9(no. 35): 44 (1979)
+Karstenia 10: 91 (1969)
 
 #### Original name
-Clitocybe graminicola var. graminicola
+Clitocybe agrestis Harmaja, 1969
 
 ### Remarks
 null

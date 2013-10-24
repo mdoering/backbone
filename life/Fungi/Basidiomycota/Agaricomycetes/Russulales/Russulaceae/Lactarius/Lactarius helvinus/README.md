@@ -1,5 +1,4 @@
-Lactarius helvinus Britzelm. SPECIES
-=======
+# Lactarius helvinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

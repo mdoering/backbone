@@ -1,5 +1,4 @@
-Echinodothis orchideacearum (Rick) lloyd SPECIES
-=======
+# Echinodothis orchideacearum (Rick) lloyd SPECIES
 
 #### Status
 ACCEPTED

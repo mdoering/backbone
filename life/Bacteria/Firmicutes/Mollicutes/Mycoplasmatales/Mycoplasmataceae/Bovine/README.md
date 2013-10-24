@@ -1,5 +1,4 @@
-Bovine GENUS
-=======
+# Bovine GENUS
 
 #### Status
 ACCEPTED

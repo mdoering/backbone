@@ -1,5 +1,4 @@
-Puccinia avenastri Guyot SPECIES
-=======
+# Puccinia avenastri Guyot SPECIES
 
 #### Status
 ACCEPTED

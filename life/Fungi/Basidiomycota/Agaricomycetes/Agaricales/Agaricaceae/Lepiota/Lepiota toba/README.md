@@ -1,5 +1,4 @@
-Lepiota toba Speg. SPECIES
-=======
+# Lepiota toba Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccammina difflugiformis SPECIES
-=======
+# Saccammina difflugiformis SPECIES
 
 #### Status
 ACCEPTED

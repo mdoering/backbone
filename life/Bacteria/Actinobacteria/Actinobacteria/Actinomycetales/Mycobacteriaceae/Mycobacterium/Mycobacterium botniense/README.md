@@ -1,5 +1,4 @@
-Mycobacterium botniense Torkko et al., 2000 SPECIES
-=======
+# Mycobacterium botniense Torkko et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

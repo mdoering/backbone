@@ -1,5 +1,4 @@
-Cercospora stachydis Ellis & Everh. SPECIES
-=======
+# Cercospora stachydis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

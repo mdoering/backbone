@@ -1,5 +1,4 @@
-Loxolithus D. Noël, 1965 GENUS
-=======
+# Loxolithus D. Noël, 1965 GENUS
 
 #### Status
 ACCEPTED

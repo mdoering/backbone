@@ -1,5 +1,4 @@
-Usnea subfusca Stirt. SPECIES
-=======
+# Usnea subfusca Stirt. SPECIES
 
 #### Status
 ACCEPTED

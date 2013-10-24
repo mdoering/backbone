@@ -1,5 +1,4 @@
-Hospitella manumissum Rhumbler, 1931 SPECIES
-=======
+# Hospitella manumissum Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

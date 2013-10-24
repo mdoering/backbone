@@ -1,5 +1,4 @@
-Irenina confragosa (Syd. & P. Syd.) F. Stevens SPECIES
-=======
+# Irenina confragosa (Syd. & P. Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

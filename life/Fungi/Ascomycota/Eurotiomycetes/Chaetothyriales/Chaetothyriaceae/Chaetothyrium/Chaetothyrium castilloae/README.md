@@ -1,5 +1,4 @@
-Chaetothyrium castilloae (Zimm.) Hansf. SPECIES
-=======
+# Chaetothyrium castilloae (Zimm.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

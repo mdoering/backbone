@@ -1,5 +1,4 @@
-Dasysticta sapindophila Speg., 1912 SPECIES
-=======
+# Dasysticta sapindophila Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

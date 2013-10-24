@@ -1,5 +1,4 @@
-Dermocarpa marchantae Setchell & N.L. Gardner SPECIES
-=======
+# Dermocarpa marchantae Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

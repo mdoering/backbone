@@ -1,5 +1,4 @@
-Phallus glutinolens (Möller) Kuntze SPECIES
-=======
+# Phallus glutinolens (Möller) Kuntze SPECIES
 
 #### Status
 ACCEPTED

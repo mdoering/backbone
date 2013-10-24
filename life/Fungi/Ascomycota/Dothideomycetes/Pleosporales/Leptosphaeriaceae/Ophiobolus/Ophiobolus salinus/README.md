@@ -1,5 +1,4 @@
-Ophiobolus salinus Meyers SPECIES
-=======
+# Ophiobolus salinus Meyers SPECIES
 
 #### Status
 ACCEPTED

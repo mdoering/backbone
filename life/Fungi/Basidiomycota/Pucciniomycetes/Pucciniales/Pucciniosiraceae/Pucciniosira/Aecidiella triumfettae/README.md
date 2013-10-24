@@ -1,5 +1,4 @@
-Aecidiella triumfettae Ellis & Kelsey SPECIES
-=======
+# Aecidiella triumfettae Ellis & Kelsey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma gymnosporiae Thirum. & Naras. SPECIES
-=======
+# Sphaceloma gymnosporiae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

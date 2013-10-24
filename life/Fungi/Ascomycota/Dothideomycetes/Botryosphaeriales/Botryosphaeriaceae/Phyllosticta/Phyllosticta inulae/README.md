@@ -1,5 +1,4 @@
-Phyllosticta inulae Allesch. & Syd. SPECIES
-=======
+# Phyllosticta inulae Allesch. & Syd. SPECIES
 
 #### Status
 ACCEPTED

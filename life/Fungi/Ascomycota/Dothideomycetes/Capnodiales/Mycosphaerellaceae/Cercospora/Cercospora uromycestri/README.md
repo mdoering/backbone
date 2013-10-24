@@ -1,5 +1,4 @@
-Cercospora uromycestri Pollack SPECIES
-=======
+# Cercospora uromycestri Pollack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalosynedra D.M.Williams & F.E.Round, 1986 GENUS
-=======
+# Hyalosynedra D.M.Williams & F.E.Round, 1986 GENUS
 
 #### Status
 ACCEPTED

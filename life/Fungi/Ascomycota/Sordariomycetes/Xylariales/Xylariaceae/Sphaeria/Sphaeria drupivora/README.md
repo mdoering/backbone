@@ -1,5 +1,4 @@
-Sphaeria drupivora Schwein. SPECIES
-=======
+# Sphaeria drupivora Schwein. SPECIES
 
 #### Status
 ACCEPTED

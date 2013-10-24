@@ -1,5 +1,4 @@
-Ramularia conspicua Syd. & P. Syd. SPECIES
-=======
+# Ramularia conspicua Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

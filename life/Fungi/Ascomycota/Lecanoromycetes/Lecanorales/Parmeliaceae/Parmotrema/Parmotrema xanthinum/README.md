@@ -1,5 +1,4 @@
-Parmotrema xanthinum (Müll. Arg.) Hale SPECIES
-=======
+# Parmotrema xanthinum (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fractoricoronula trirhetica Turner, 1984 SPECIES
-=======
+# Fractoricoronula trirhetica Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

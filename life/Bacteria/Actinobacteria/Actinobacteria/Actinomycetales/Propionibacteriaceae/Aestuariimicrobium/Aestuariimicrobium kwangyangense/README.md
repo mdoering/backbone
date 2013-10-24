@@ -1,5 +1,4 @@
-Aestuariimicrobium kwangyangense Jung, Kim, Song, Lee, Oh & Yoon, 2007 SPECIES
-=======
+# Aestuariimicrobium kwangyangense Jung, Kim, Song, Lee, Oh & Yoon, 2007 SPECIES
 
 #### Status
 ACCEPTED

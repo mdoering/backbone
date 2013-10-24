@@ -1,5 +1,4 @@
-Aecidium conorum-abietis Nees SPECIES
-=======
+# Aecidium conorum-abietis Nees SPECIES
 
 #### Status
 ACCEPTED

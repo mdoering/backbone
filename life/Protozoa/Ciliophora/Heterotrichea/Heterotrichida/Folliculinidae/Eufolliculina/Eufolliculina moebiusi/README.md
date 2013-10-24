@@ -1,8 +1,7 @@
-Eufolliculina mobiusi (Kahl, 1932) Hadzi, 1951 SPECIES
-=======
+# Eufolliculina moebiusi (Kahl, 1932) Hadzi, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

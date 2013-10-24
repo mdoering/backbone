@@ -1,5 +1,4 @@
-Leptolyngyba GENUS
-=======
+# Leptolyngyba GENUS
 
 #### Status
 ACCEPTED

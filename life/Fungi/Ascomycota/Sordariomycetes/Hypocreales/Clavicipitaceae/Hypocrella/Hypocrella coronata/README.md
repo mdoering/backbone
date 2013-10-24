@@ -1,5 +1,4 @@
-Hypocrella coronata Höhn. SPECIES
-=======
+# Hypocrella coronata Höhn. SPECIES
 
 #### Status
 ACCEPTED

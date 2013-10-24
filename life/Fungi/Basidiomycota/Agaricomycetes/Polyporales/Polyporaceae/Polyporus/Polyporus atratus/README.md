@@ -1,5 +1,4 @@
-Polyporus atratus Fr. SPECIES
-=======
+# Polyporus atratus Fr. SPECIES
 
 #### Status
 ACCEPTED

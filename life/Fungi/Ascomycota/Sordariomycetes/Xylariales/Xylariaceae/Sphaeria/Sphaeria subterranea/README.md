@@ -1,5 +1,4 @@
-Sphaeria subterranea Schwein. SPECIES
-=======
+# Sphaeria subterranea Schwein. SPECIES
 
 #### Status
 ACCEPTED

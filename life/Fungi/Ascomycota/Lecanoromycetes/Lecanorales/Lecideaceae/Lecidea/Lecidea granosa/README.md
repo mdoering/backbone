@@ -1,5 +1,4 @@
-Lecidea granosa Tuck. SPECIES
-=======
+# Lecidea granosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

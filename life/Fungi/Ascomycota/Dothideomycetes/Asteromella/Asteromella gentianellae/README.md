@@ -1,5 +1,4 @@
-Asteromella gentianellae (C. Massal.) Petr. SPECIES
-=======
+# Asteromella gentianellae (C. Massal.) Petr. SPECIES
 
 #### Status
 ACCEPTED

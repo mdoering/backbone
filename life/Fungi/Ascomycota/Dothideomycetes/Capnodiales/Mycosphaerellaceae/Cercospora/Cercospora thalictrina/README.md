@@ -1,5 +1,4 @@
-Cercospora thalictrina Karak. SPECIES
-=======
+# Cercospora thalictrina Karak. SPECIES
 
 #### Status
 ACCEPTED

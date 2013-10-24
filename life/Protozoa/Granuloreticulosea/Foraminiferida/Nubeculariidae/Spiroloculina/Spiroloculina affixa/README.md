@@ -1,5 +1,4 @@
-Spiroloculina affixa Terquem SPECIES
-=======
+# Spiroloculina affixa Terquem SPECIES
 
 #### Status
 ACCEPTED

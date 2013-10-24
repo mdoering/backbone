@@ -1,5 +1,4 @@
-Toxicocladosporium irritans Crous & U. Braun, 2007 SPECIES
-=======
+# Toxicocladosporium irritans Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

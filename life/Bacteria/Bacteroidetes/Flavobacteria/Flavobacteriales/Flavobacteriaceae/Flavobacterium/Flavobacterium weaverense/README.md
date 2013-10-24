@@ -1,5 +1,4 @@
-Flavobacterium weaverense Yi & Chun, 2006 SPECIES
-=======
+# Flavobacterium weaverense Yi & Chun, 2006 SPECIES
 
 #### Status
 ACCEPTED

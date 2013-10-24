@@ -1,5 +1,4 @@
-Peltaster bertholletiae Bat., Maia & Peres SPECIES
-=======
+# Peltaster bertholletiae Bat., Maia & Peres SPECIES
 
 #### Status
 ACCEPTED

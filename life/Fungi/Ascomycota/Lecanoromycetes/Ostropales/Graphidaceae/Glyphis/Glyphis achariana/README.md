@@ -1,5 +1,4 @@
-Glyphis achariana Tuck. SPECIES
-=======
+# Glyphis achariana Tuck. SPECIES
 
 #### Status
 ACCEPTED

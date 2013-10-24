@@ -1,5 +1,4 @@
-Gymnodinium excavatum Van Meel SPECIES
-=======
+# Gymnodinium excavatum Van Meel SPECIES
 
 #### Status
 ACCEPTED

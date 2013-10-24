@@ -1,5 +1,4 @@
-Sclerographiopsis dalbergiae Deighton, 1973 SPECIES
-=======
+# Sclerographiopsis dalbergiae Deighton, 1973 SPECIES
 
 #### Status
 ACCEPTED

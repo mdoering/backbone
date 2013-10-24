@@ -1,14 +1,13 @@
-Physalospora coccolobae Rehm, 1901 SPECIES
-=======
+# Phyllachora coccolobae (Rehm) Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 113 (1901)
+Annls mycol. 32: 393 (1934)
 
 #### Original name
 Physalospora coccolobae Rehm, 1901

@@ -1,5 +1,4 @@
-Marasmius superbus Henn. SPECIES
-=======
+# Marasmius superbus Henn. SPECIES
 
 #### Status
 ACCEPTED

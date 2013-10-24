@@ -1,5 +1,4 @@
-Asterina ferruginosa Doidge SPECIES
-=======
+# Asterina ferruginosa Doidge SPECIES
 
 #### Status
 ACCEPTED

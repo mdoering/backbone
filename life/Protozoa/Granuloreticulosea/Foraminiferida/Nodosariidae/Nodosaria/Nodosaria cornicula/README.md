@@ -1,5 +1,4 @@
-Nodosaria cornicula d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria cornicula d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

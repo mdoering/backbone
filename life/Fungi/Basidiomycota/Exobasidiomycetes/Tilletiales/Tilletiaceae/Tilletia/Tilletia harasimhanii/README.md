@@ -1,5 +1,4 @@
-Tilletia harasimhanii Thirum. & Safeeulla SPECIES
-=======
+# Tilletia harasimhanii Thirum. & Safeeulla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora subiculosa Pat. SPECIES
-=======
+# Thelephora subiculosa Pat. SPECIES
 
 #### Status
 ACCEPTED

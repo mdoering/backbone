@@ -1,14 +1,13 @@
-Balantidum GENUS
-=======
+# Balantidium Claparède & Lachmann, 1858 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Inst. Genèv. , 5, 247.
 
 #### Original name
 null

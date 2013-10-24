@@ -1,5 +1,4 @@
-Neugeborena Popescu in Cicha et al., 1998 GENUS
-=======
+# Neugeborena Popescu in Cicha et al., 1998 GENUS
 
 #### Status
 ACCEPTED

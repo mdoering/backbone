@@ -1,5 +1,4 @@
-Alysidium guttulatum R.F. Castañeda SPECIES
-=======
+# Alysidium guttulatum R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

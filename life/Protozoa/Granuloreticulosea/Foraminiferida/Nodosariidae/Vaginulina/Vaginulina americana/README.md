@@ -1,5 +1,4 @@
-Vaginulina americana SPECIES
-=======
+# Vaginulina americana SPECIES
 
 #### Status
 ACCEPTED

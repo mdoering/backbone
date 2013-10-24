@@ -1,5 +1,4 @@
-Rhizosolenia interposita M. Hajós SPECIES
-=======
+# Rhizosolenia interposita M. Hajós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia neozelandica var. neozelandica VARIETY
-=======
+# Cladonia neozelandica Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Soc. Fauna Flora fenn. 10: 34 (1894)
 
 #### Original name
-Cladonia neozelandica var. neozelandica
+Cladonia neozelandica Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Colletotrichum yuccae Pollacci SPECIES
-=======
+# Colletotrichum yuccae Pollacci SPECIES
 
 #### Status
 ACCEPTED

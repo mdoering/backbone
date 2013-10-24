@@ -1,5 +1,4 @@
-Thyridaria lopadostoma (Feltgen) Höhn. SPECIES
-=======
+# Thyridaria lopadostoma (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

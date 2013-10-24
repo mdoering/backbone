@@ -1,5 +1,4 @@
-Bifarilaminella Patterson & Richardson, 1987 GENUS
-=======
+# Bifarilaminella Patterson & Richardson, 1987 GENUS
 
 #### Status
 ACCEPTED

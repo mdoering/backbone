@@ -1,17 +1,16 @@
-Psathyrella spadiceogrisea f. spadiceogrisea FORM
-=======
+# Psathyrella spadiceogrisea (Schaeff.) Maire, 1937 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Sci. Nat. Maroc. 45: 113 (1937)
 
 #### Original name
-Psathyrella spadiceogrisea f. spadiceogrisea
+Agaricus spadiceogriseus Schaeff., 1774
 
 ### Remarks
 null

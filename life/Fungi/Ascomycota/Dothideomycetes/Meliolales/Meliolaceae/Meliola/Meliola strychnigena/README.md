@@ -1,5 +1,4 @@
-Meliola strychnigena Hosag. & Manojk. SPECIES
-=======
+# Meliola strychnigena Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

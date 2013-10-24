@@ -1,5 +1,4 @@
-Lecidea diapensiae Th. Fr. SPECIES
-=======
+# Lecidea diapensiae Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium smyrnii P. Crouan & H. Crouan SPECIES
-=======
+# Macrosporium smyrnii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

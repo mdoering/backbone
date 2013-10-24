@@ -1,5 +1,4 @@
-Ramularia anatolica Bremer & Petr. SPECIES
-=======
+# Ramularia anatolica Bremer & Petr. SPECIES
 
 #### Status
 ACCEPTED

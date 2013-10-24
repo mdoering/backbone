@@ -1,17 +1,16 @@
-Glomus reticulatus Bhattacharjee & Mukerji SPECIES
-=======
+# Glomus reticulatum Bhattacharjee & Mukerji SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 33: 14 (1980)
 
 #### Original name
-Glomus reticulatus Bhattacharjee & Mukerji
+Glomus reticulatum Bhattacharjee & Mukerji
 
 ### Remarks
 null

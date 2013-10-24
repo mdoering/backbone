@@ -1,5 +1,4 @@
-Geosmithia langdonii M. Kolarík, Kubátová & Paoutová SPECIES
-=======
+# Geosmithia langdonii M. Kolarík, Kubátová & Paoutová SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetothyrina consociata Syd. SPECIES
-=======
+# Chaetothyrina consociata Syd. SPECIES
 
 #### Status
 ACCEPTED

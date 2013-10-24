@@ -1,8 +1,7 @@
-Cenangium tahitense Pat. SPECIES
-=======
+# Cenangium tahitiense Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenangium tahitense Pat.
+Cenangium tahitiense Pat.
 
 ### Remarks
 null

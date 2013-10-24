@@ -1,5 +1,4 @@
-Phillipsiella graminicola Höhn. SPECIES
-=======
+# Phillipsiella graminicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

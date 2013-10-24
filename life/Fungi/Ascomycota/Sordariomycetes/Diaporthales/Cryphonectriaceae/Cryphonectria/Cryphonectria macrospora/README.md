@@ -1,5 +1,4 @@
-Cryphonectria macrospora (Kobay. {?} & Kaz. Itô) M.E. Barr SPECIES
-=======
+# Cryphonectria macrospora (Kobay. {?} & Kaz. Itô) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

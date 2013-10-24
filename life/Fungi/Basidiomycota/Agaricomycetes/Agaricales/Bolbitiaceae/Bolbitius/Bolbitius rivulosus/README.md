@@ -1,5 +1,4 @@
-Bolbitius rivulosus Berk. & Broome SPECIES
-=======
+# Bolbitius rivulosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

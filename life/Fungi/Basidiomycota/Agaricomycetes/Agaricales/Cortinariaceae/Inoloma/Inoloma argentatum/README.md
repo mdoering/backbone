@@ -1,5 +1,4 @@
-Inoloma argentatum var. argentatum VARIETY
-=======
+# Inoloma argentatum (Pers.) Wünsche SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inoloma argentatum var. argentatum
+Agaricus argentatus Pers.
 
 ### Remarks
 null

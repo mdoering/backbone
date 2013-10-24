@@ -1,5 +1,4 @@
-Sphaceloma vryburgii Zundel SPECIES
-=======
+# Sphaceloma vryburgii Zundel SPECIES
 
 #### Status
 ACCEPTED

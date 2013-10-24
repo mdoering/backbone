@@ -1,17 +1,16 @@
-Galerina allospora var. laurentiana A.H. Sm. VARIETY
-=======
+# Galerina allospora A.H. Sm. & Singer, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 47: 585 (1955)
 
 #### Original name
-Galerina allospora var. laurentiana A.H. Sm.
+Galerina allospora A.H. Sm. & Singer, 1955
 
 ### Remarks
 null

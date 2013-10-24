@@ -1,8 +1,7 @@
-Parapodinium chattoni Chatton, 1920 SPECIES
-=======
+# Apodinium chattoni Cachon & Cachon, 19** SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

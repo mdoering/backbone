@@ -1,5 +1,4 @@
-Alternaria calendulae Ondrej, 1974 SPECIES
-=======
+# Alternaria calendulae Ondrej, 1974 SPECIES
 
 #### Status
 ACCEPTED

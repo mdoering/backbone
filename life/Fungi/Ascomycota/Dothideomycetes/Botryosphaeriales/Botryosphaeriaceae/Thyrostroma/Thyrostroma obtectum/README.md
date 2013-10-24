@@ -1,5 +1,4 @@
-Thyrostroma obtectum Petr. & Esfand. SPECIES
-=======
+# Thyrostroma obtectum Petr. & Esfand. SPECIES
 
 #### Status
 ACCEPTED

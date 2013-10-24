@@ -1,14 +1,13 @@
-Pestalotiopsis acaciae (Thüm.) K. Yokoy. & S. Kaneko, 1980 SPECIES
-=======
+# Pestalotia acaciae Thüm., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kaneko, Rep. Tottori Mycol. Inst. 18: 122 (1980)
+Inst. Rev. Sci. Litt. , Coimbra 28: 41 (1880)
 
 #### Original name
 Pestalotia acaciae Thüm., 1880

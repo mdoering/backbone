@@ -1,5 +1,4 @@
-Arthrobacter psychrophenolicus Margesin et al., 2004 SPECIES
-=======
+# Arthrobacter psychrophenolicus Margesin et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

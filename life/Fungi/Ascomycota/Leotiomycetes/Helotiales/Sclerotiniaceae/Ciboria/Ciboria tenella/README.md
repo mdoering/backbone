@@ -1,5 +1,4 @@
-Ciboria tenella P. Karst. SPECIES
-=======
+# Ciboria tenella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

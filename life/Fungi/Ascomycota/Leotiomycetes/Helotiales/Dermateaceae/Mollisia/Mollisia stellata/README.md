@@ -1,14 +1,13 @@
-Pyrenopeziza stellata (Le Gal) Gremmen, 1958 SPECIES
-=======
+# Mollisia stellata Le Gal, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 28: 45 (1958)
+Revue Mycol. , Paris 4: 60 (1939)
 
 #### Original name
 Mollisia stellata Le Gal, 1939

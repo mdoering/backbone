@@ -1,5 +1,4 @@
-Metasphaeria zollerniae Rehm SPECIES
-=======
+# Metasphaeria zollerniae Rehm SPECIES
 
 #### Status
 ACCEPTED

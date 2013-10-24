@@ -1,5 +1,4 @@
-Hemithecium rimulosum (Müll. Arg.) Mangold, Lumbsch & Kalb SPECIES
-=======
+# Hemithecium rimulosum (Müll. Arg.) Mangold, Lumbsch & Kalb SPECIES
 
 #### Status
 ACCEPTED

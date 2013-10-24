@@ -1,5 +1,4 @@
-Biatora laetior Tuck. SPECIES
-=======
+# Biatora laetior Tuck. SPECIES
 
 #### Status
 ACCEPTED

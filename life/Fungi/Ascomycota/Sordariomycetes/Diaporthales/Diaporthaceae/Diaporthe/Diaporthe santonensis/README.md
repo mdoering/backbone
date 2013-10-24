@@ -1,5 +1,4 @@
-Diaporthe santonensis Sacc. SPECIES
-=======
+# Diaporthe santonensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

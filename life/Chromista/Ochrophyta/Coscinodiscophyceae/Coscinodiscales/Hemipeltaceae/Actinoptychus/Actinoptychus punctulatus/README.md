@@ -1,5 +1,4 @@
-Actinoptychus punctulatus Pantocsek SPECIES
-=======
+# Actinoptychus punctulatus Pantocsek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cheimonophilus Berk. & Broome SPECIES
-=======
+# Agaricus cheimonophilus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

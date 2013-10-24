@@ -1,5 +1,4 @@
-Monochytrium stevensianum Griggs SPECIES
-=======
+# Monochytrium stevensianum Griggs SPECIES
 
 #### Status
 ACCEPTED

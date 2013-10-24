@@ -1,5 +1,4 @@
-Pestalotia nucicola Ellis & Everh. SPECIES
-=======
+# Pestalotia nucicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

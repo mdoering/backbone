@@ -1,14 +1,13 @@
-Myxosporium deplanatum Höhn., 1927 SPECIES
-=======
+# Discosporina deplanata (Höhn.) Höhn., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. Inst. tech. Hochsch. Wien 4(3): 106 (1927)
 
 #### Original name
 Myxosporium deplanatum Höhn., 1927

@@ -1,5 +1,4 @@
-Camarosporium nyssae Allesch. SPECIES
-=======
+# Camarosporium nyssae Allesch. SPECIES
 
 #### Status
 ACCEPTED

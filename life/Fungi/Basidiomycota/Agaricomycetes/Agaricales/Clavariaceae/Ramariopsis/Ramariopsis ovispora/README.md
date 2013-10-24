@@ -1,5 +1,4 @@
-Ramariopsis ovispora R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis ovispora R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

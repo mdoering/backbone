@@ -1,5 +1,4 @@
-Urocystis festucae Ule SPECIES
-=======
+# Urocystis festucae Ule SPECIES
 
 #### Status
 ACCEPTED

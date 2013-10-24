@@ -1,5 +1,4 @@
-Verdipulvinus A.W. Ramaley GENUS
-=======
+# Verdipulvinus A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

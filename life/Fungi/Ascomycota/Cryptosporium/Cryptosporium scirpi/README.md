@@ -1,5 +1,4 @@
-Cryptosporium scirpi Peck SPECIES
-=======
+# Cryptosporium scirpi Peck SPECIES
 
 #### Status
 ACCEPTED

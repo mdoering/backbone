@@ -1,5 +1,4 @@
-Pluricellaesporites elsikii Kalgutkar SPECIES
-=======
+# Pluricellaesporites elsikii Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

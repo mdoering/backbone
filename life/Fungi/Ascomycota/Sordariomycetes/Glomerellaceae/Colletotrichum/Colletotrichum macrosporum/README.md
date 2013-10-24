@@ -1,5 +1,4 @@
-Colletotrichum macrosporum Sacc. SPECIES
-=======
+# Colletotrichum macrosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

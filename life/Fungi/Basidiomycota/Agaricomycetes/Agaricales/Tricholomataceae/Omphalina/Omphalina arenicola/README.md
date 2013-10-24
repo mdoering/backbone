@@ -1,5 +1,4 @@
-Omphalina arenicola P. Karst. SPECIES
-=======
+# Omphalina arenicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

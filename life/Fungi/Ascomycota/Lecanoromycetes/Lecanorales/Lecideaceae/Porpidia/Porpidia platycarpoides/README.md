@@ -1,14 +1,13 @@
-Haplocarpon platycarpoides (Bagl.) Hertel SPECIES
-=======
+# Porpidia platycarpoides (Bagl.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Decheniana 127(1): 62 (1975)
+in Nimis & Poelt, Stud. Geobot. 7(suppl. 1): 187 (1987)
 
 #### Original name
 Lecidea platycarpoides Bagl.

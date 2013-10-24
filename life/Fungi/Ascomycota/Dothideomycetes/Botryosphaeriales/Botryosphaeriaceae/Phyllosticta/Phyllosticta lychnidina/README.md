@@ -1,5 +1,4 @@
-Phyllosticta lychnidina Grove, 1918 SPECIES
-=======
+# Phyllosticta lychnidina Grove, 1918 SPECIES
 
 #### Status
 ACCEPTED

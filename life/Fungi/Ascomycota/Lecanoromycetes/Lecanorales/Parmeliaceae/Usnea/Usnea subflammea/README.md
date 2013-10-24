@@ -1,5 +1,4 @@
-Usnea subflammea P. Clerc SPECIES
-=======
+# Usnea subflammea P. Clerc SPECIES
 
 #### Status
 ACCEPTED

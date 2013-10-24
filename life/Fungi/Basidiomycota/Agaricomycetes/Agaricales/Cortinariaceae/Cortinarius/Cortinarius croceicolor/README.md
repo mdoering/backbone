@@ -1,5 +1,4 @@
-Cortinarius croceicolor Kauffman SPECIES
-=======
+# Cortinarius croceicolor Kauffman SPECIES
 
 #### Status
 ACCEPTED

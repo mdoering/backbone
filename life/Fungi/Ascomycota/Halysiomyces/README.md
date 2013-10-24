@@ -1,5 +1,4 @@
-Halysiomyces E.G. Simmons GENUS
-=======
+# Halysiomyces E.G. Simmons GENUS
 
 #### Status
 ACCEPTED

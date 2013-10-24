@@ -1,5 +1,4 @@
-Collybia piperata (Beeli) Singer SPECIES
-=======
+# Collybia piperata (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

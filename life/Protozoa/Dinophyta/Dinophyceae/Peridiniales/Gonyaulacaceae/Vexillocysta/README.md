@@ -1,5 +1,4 @@
-Vexillocysta Harding, 1990 GENUS
-=======
+# Vexillocysta Harding, 1990 GENUS
 
 #### Status
 ACCEPTED

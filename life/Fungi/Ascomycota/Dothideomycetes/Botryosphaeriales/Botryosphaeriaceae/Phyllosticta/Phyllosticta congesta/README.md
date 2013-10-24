@@ -1,5 +1,4 @@
-Phyllosticta congesta Heald & F.A. Wolf, 1911 SPECIES
-=======
+# Phyllosticta congesta Heald & F.A. Wolf, 1911 SPECIES
 
 #### Status
 ACCEPTED

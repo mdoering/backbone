@@ -1,5 +1,4 @@
-Sphaerocista myelocola Preuss SPECIES
-=======
+# Sphaerocista myelocola Preuss SPECIES
 
 #### Status
 ACCEPTED

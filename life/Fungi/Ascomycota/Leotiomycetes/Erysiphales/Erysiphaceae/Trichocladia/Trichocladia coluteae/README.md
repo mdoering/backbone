@@ -1,5 +1,4 @@
-Trichocladia coluteae SPECIES
-=======
+# Trichocladia coluteae SPECIES
 
 #### Status
 ACCEPTED

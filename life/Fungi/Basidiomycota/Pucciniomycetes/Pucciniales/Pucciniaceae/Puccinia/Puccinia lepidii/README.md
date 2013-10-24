@@ -1,5 +1,4 @@
-Puccinia lepidii Thüm. SPECIES
-=======
+# Puccinia lepidii Thüm. SPECIES
 
 #### Status
 ACCEPTED

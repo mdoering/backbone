@@ -1,5 +1,4 @@
-Lecanora lilacinofusca C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecanora lilacinofusca C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

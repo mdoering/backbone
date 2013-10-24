@@ -1,5 +1,4 @@
-Hymenosphaeridium GENUS
-=======
+# Hymenosphaeridium GENUS
 
 #### Status
 ACCEPTED

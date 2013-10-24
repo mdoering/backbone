@@ -1,5 +1,4 @@
-Coniothyrium leguminicola Jaap SPECIES
-=======
+# Coniothyrium leguminicola Jaap SPECIES
 
 #### Status
 ACCEPTED

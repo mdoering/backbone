@@ -1,5 +1,4 @@
-Maribius Choi, Cho, Lanoil, Giovannoni & Cho, 2007 GENUS
-=======
+# Maribius Choi, Cho, Lanoil, Giovannoni & Cho, 2007 GENUS
 
 #### Status
 ACCEPTED

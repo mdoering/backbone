@@ -1,5 +1,4 @@
-Graphis isidiifera M. Wirth & Hale SPECIES
-=======
+# Graphis isidiifera M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

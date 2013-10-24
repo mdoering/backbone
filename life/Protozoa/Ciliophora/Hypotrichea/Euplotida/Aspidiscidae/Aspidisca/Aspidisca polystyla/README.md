@@ -1,5 +1,4 @@
-Aspidisca polystyla Stein, 1859 SPECIES
-=======
+# Aspidisca polystyla Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

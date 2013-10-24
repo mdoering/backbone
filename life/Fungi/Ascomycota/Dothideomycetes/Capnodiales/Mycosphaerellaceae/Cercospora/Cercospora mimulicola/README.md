@@ -1,17 +1,16 @@
-Cercospora mimuliicola Pavgi SPECIES
-=======
+# Cercospora mimulicola Pavgi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Pavgi & Upadhyay, Mycopath. Mycol. appl. 24: 352 (1964)
 
 #### Original name
-Cercospora mimuliicola Pavgi
+Cercospora mimulicola Pavgi
 
 ### Remarks
 null

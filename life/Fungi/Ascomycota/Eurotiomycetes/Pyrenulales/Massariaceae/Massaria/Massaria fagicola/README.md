@@ -1,5 +1,4 @@
-Massaria fagicola Allesch. SPECIES
-=======
+# Massaria fagicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

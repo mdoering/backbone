@@ -1,5 +1,4 @@
-Rhizocarpon bollanum Zahlbr. SPECIES
-=======
+# Rhizocarpon bollanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

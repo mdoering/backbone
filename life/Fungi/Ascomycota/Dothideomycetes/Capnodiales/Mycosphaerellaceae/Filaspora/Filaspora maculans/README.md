@@ -1,5 +1,4 @@
-Filaspora maculans (Berl. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora maculans (Berl. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

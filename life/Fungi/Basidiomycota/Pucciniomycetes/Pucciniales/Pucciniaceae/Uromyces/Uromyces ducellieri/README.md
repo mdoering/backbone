@@ -1,5 +1,4 @@
-Uromyces ducellieri Maire SPECIES
-=======
+# Uromyces ducellieri Maire SPECIES
 
 #### Status
 ACCEPTED

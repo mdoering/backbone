@@ -1,17 +1,16 @@
-Ramaria americana var. americana VARIETY
-=======
+# Ramaria americana (Corner) R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Biblthca Mycol. 79: 48 (1981)
 
 #### Original name
-Ramaria americana var. americana
+Ramaria nigrescens var. americana Corner, 1950
 
 ### Remarks
 null

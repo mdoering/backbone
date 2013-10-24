@@ -1,5 +1,4 @@
-Phyllosticta paviaecola Brunaud SPECIES
-=======
+# Phyllosticta paviaecola Brunaud SPECIES
 
 #### Status
 ACCEPTED

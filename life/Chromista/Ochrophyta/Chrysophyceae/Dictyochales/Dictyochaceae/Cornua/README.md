@@ -1,5 +1,4 @@
-Cornua P.Schulz GENUS
-=======
+# Cornua P.Schulz GENUS
 
 #### Status
 ACCEPTED

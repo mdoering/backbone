@@ -1,14 +1,13 @@
-Caeomurus pucciniodes (Berk. & F. Muell.) Kuntze SPECIES
-=======
+# Caeomurus puccinioides (Berk. & F. Muell.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 450 (1898)
 
 #### Original name
 Uromyces puccinioides Rabenh., 1851

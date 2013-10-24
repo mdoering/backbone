@@ -1,5 +1,4 @@
-Phellomyces sclerotiophorus A.B. Frank SPECIES
-=======
+# Phellomyces sclerotiophorus A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

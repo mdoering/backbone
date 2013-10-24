@@ -1,5 +1,4 @@
-Agaricus haerens Peck SPECIES
-=======
+# Agaricus haerens Peck SPECIES
 
 #### Status
 ACCEPTED

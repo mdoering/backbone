@@ -1,5 +1,4 @@
-Bacidia inconstans Zahlbr. SPECIES
-=======
+# Bacidia inconstans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

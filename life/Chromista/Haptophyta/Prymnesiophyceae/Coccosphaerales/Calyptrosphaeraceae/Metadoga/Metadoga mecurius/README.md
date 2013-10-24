@@ -1,5 +1,4 @@
-Metadoga mecurius SPECIES
-=======
+# Metadoga mecurius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma pulviscula Sacc., 1878 SPECIES
-=======
+# Aposphaeria pulviscula (Sacc.) Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 259 (1878)
+Michelia 2(no. 6): 4 (1880)
 
 #### Original name
 Phoma pulviscula Sacc., 1878

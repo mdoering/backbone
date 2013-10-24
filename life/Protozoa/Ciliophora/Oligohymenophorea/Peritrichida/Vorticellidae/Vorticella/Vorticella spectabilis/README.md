@@ -1,5 +1,4 @@
-Vorticella spectabilis (Kent, 1881) Kahl, 1932 SPECIES
-=======
+# Vorticella spectabilis (Kent, 1881) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

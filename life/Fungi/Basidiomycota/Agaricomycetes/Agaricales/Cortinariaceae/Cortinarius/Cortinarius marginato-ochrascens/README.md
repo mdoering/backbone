@@ -1,5 +1,4 @@
-Cortinarius marginato-ochrascens Rob. Henry SPECIES
-=======
+# Cortinarius marginato-ochrascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

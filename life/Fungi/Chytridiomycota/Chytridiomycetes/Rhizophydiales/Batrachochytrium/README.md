@@ -1,5 +1,4 @@
-Batrachochytrium Longcore, Pessier & D.K. Nichols GENUS
-=======
+# Batrachochytrium Longcore, Pessier & D.K. Nichols GENUS
 
 #### Status
 ACCEPTED

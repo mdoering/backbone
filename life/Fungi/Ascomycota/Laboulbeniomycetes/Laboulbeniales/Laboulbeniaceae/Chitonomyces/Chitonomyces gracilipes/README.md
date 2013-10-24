@@ -1,5 +1,4 @@
-Chitonomyces gracilipes Thaxt. SPECIES
-=======
+# Chitonomyces gracilipes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe armata Sorokin SPECIES
-=======
+# Erysiphe armata Sorokin SPECIES
 
 #### Status
 ACCEPTED

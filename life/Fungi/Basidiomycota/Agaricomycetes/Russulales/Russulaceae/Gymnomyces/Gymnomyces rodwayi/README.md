@@ -1,5 +1,4 @@
-Gymnomyces rodwayi T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces rodwayi T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

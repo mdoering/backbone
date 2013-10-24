@@ -1,5 +1,4 @@
-Cryptococcus gotti-brazzolae Guég. SPECIES
-=======
+# Cryptococcus gotti-brazzolae Guég. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita fritillaria f. fritillaria FORM
-=======
+# Amanita fritillaria (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita fritillaria f. fritillaria
+Agaricus fritillarius Batsch, 1783
 
 ### Remarks
 null

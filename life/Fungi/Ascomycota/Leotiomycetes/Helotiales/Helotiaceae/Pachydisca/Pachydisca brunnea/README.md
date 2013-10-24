@@ -1,14 +1,13 @@
-Ombrophila brunnea W. Phillips, 1880 SPECIES
-=======
+# Pachydisca brunnea (W. Phillips) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 47): 103 (1880)
+null
 
 #### Original name
 Ombrophila brunnea W. Phillips, 1880

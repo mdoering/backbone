@@ -1,5 +1,4 @@
-Cryptothecia punctulata Makhija & Patw. SPECIES
-=======
+# Cryptothecia punctulata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

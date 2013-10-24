@@ -1,5 +1,4 @@
-Alternaria cyphomandrae E.G. Simmons, 2000 SPECIES
-=======
+# Alternaria cyphomandrae E.G. Simmons, 2000 SPECIES
 
 #### Status
 ACCEPTED

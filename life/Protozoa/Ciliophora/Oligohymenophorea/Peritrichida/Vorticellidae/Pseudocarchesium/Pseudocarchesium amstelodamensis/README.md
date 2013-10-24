@@ -1,5 +1,4 @@
-Pseudocarchesium amstelodamensis SPECIES
-=======
+# Pseudocarchesium amstelodamensis SPECIES
 
 #### Status
 ACCEPTED

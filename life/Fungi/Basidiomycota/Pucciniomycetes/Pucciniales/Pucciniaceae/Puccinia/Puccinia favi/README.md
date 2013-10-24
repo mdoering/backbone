@@ -1,5 +1,4 @@
-Puccinia favi Ardst. {?} SPECIES
-=======
+# Puccinia favi Ardst. {?} SPECIES
 
 #### Status
 ACCEPTED

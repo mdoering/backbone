@@ -1,17 +1,16 @@
-Capnodinula anonae Bat. & Peres SPECIES
-=======
+# Capnodinula annonae Bat. & Peres SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brotéria, sér. Ci. Nat. 31(2): 82 (1962)
 
 #### Original name
-Capnodinula anonae Bat. & Peres
+Capnodinula annonae Bat. & Peres
 
 ### Remarks
 null

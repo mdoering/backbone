@@ -1,5 +1,4 @@
-Agaricus brunneofulva Fr. SPECIES
-=======
+# Agaricus brunneofulva Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoneottiospora patouillardii Nag Raj, 1993 SPECIES
-=======
+# Pseudoneottiospora patouillardii Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

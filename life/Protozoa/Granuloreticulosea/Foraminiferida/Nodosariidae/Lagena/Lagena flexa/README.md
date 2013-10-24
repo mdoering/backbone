@@ -1,5 +1,4 @@
-Lagena flexa Cushman & McCulloch SPECIES
-=======
+# Lagena flexa Cushman & McCulloch SPECIES
 
 #### Status
 ACCEPTED

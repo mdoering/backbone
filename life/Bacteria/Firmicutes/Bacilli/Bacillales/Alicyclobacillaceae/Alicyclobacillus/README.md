@@ -1,5 +1,4 @@
-Alicyclobacillus Wisotzkey, Jurtshuk, Fox, Deinhard & Poralla, 1992 GENUS
-=======
+# Alicyclobacillus Wisotzkey, Jurtshuk, Fox, Deinhard & Poralla, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius mustella (M.M. Moser) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius mustella (M.M. Moser) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

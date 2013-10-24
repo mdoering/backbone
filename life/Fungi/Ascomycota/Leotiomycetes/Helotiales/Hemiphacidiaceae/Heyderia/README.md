@@ -1,17 +1,16 @@
-Mitrula Persoon, 1794 GENUS
-=======
+# Heyderia Link, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 311 (1833)
 
 #### Original name
-Mitrula Persoon, 1794
+Heyderia Link, 1833
 
 ### Remarks
 null

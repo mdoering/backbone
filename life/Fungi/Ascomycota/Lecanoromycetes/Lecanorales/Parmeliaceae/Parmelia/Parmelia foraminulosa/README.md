@@ -1,5 +1,4 @@
-Parmelia foraminulosa Kremp. SPECIES
-=======
+# Parmelia foraminulosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mortierella horticola Linnem., 1941 SPECIES
-=======
+# Mortierella horticola Linnem., 1941 SPECIES
 
 #### Status
 ACCEPTED

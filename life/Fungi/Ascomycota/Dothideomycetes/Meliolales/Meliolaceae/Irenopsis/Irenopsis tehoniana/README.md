@@ -1,5 +1,4 @@
-Irenopsis tehoniana (Trotter) Hansf. SPECIES
-=======
+# Irenopsis tehoniana (Trotter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

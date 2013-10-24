@@ -1,5 +1,4 @@
-Rhodocybe atrigilva (Murrill) T.J. Baroni SPECIES
-=======
+# Rhodocybe atrigilva (Murrill) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

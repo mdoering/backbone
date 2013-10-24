@@ -1,5 +1,4 @@
-Macroplodia alni (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia alni (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca polytriadis (Massee) L. Ling SPECIES
-=======
+# Sphacelotheca polytriadis (Massee) L. Ling SPECIES
 
 #### Status
 ACCEPTED

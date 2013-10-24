@@ -1,5 +1,4 @@
-Diplodina allii Solkina SPECIES
-=======
+# Diplodina allii Solkina SPECIES
 
 #### Status
 ACCEPTED

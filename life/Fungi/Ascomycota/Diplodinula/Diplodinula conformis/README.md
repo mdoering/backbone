@@ -1,5 +1,4 @@
-Diplodinula conformis (Sacc., E. Bommer & M. Rousseau) Tassi SPECIES
-=======
+# Diplodinula conformis (Sacc., E. Bommer & M. Rousseau) Tassi SPECIES
 
 #### Status
 ACCEPTED

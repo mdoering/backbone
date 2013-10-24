@@ -1,5 +1,4 @@
-Flagellospora Ingold GENUS
-=======
+# Flagellospora Ingold GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystopus quadratus Kalchbr. & Cooke SPECIES
-=======
+# Cystopus quadratus Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

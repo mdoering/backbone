@@ -1,5 +1,4 @@
-Asterella trichodea SPECIES
-=======
+# Asterella trichodea SPECIES
 
 #### Status
 ACCEPTED

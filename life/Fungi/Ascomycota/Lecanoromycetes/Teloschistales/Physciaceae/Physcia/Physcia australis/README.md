@@ -1,5 +1,4 @@
-Physcia australis Arnold SPECIES
-=======
+# Physcia australis Arnold SPECIES
 
 #### Status
 ACCEPTED

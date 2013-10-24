@@ -1,5 +1,4 @@
-Synechococcus vescus Copeland SPECIES
-=======
+# Synechococcus vescus Copeland SPECIES
 
 #### Status
 ACCEPTED

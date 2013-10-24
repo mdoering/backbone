@@ -1,5 +1,4 @@
-Russula trimbachii f. trimbachii FORM
-=======
+# Russula trimbachii Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 27(no. 106): 54 (1997)
 
 #### Original name
-Russula trimbachii f. trimbachii
+Russula subintegra J. Blum ex Bon
 
 ### Remarks
 null

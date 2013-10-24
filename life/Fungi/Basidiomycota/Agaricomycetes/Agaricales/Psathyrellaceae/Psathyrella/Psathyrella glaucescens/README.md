@@ -1,5 +1,4 @@
-Psathyrella glaucescens Dennis SPECIES
-=======
+# Psathyrella glaucescens Dennis SPECIES
 
 #### Status
 ACCEPTED

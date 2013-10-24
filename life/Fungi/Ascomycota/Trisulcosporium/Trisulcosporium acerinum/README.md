@@ -1,5 +1,4 @@
-Trisulcosporium acerinum H.J. Huds. & B. Sutton, 1964 SPECIES
-=======
+# Trisulcosporium acerinum H.J. Huds. & B. Sutton, 1964 SPECIES
 
 #### Status
 ACCEPTED

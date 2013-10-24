@@ -1,5 +1,4 @@
-Parmelia corrugata f. corrugata FORM
-=======
+# Parmelia corrugata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia corrugata f. corrugata
+null
 
 ### Remarks
 null

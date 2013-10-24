@@ -1,5 +1,4 @@
-Galerina latispora A.H. Sm. & Singer SPECIES
-=======
+# Galerina latispora A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

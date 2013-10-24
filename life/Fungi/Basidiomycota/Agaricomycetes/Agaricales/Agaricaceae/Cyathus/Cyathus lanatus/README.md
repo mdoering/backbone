@@ -1,5 +1,4 @@
-Cyathus lanatus (H.J. Brodie) R.L. Zhao SPECIES
-=======
+# Cyathus lanatus (H.J. Brodie) R.L. Zhao SPECIES
 
 #### Status
 ACCEPTED

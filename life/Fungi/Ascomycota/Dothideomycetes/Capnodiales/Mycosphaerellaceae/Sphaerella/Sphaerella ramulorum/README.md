@@ -1,5 +1,4 @@
-Sphaerella ramulorum Pass. SPECIES
-=======
+# Sphaerella ramulorum Pass. SPECIES
 
 #### Status
 ACCEPTED

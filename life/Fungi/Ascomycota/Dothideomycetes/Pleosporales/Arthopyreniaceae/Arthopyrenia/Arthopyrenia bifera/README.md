@@ -1,5 +1,4 @@
-Arthopyrenia bifera Zahlbr. SPECIES
-=======
+# Arthopyrenia bifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

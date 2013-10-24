@@ -1,5 +1,4 @@
-Synechocystis C. Sauvageau, 1892 GENUS
-=======
+# Synechocystis C. Sauvageau, 1892 GENUS
 
 #### Status
 ACCEPTED

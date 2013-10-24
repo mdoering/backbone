@@ -1,5 +1,4 @@
-Platystomum fenestrale (Cooke & Ellis) Lindau SPECIES
-=======
+# Platystomum fenestrale (Cooke & Ellis) Lindau SPECIES
 
 #### Status
 ACCEPTED

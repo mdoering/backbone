@@ -1,5 +1,4 @@
-Ascochyta telekiae Vanev & Bakalova SPECIES
-=======
+# Ascochyta telekiae Vanev & Bakalova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chloridium hippotrichoides Corda SPECIES
-=======
+# Pleurophragmium hippotrichoides (Corda) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Abellini) 1: 17 (1837)
+More Dematiaceous Hyphomycetes (Kew) 164118 (1976)
 
 #### Original name
 Chloridium hippotrichoides Corda

@@ -1,5 +1,4 @@
-Agaricus revocans Cooke & Massee SPECIES
-=======
+# Agaricus revocans Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

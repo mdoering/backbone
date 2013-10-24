@@ -1,17 +1,16 @@
-Cortinaria pusillus Murrill SPECIES
-=======
+# Cortinarius pusillus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 319 (1945)
 
 #### Original name
-Cortinaria pusillus Murrill
+Cortinarius pusillus Murrill
 
 ### Remarks
 null

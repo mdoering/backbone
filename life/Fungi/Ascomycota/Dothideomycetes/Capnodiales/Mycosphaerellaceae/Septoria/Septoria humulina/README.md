@@ -1,5 +1,4 @@
-Septoria humulina Bondartsev SPECIES
-=======
+# Septoria humulina Bondartsev SPECIES
 
 #### Status
 ACCEPTED

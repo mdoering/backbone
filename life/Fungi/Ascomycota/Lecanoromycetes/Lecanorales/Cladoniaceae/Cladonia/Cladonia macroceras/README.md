@@ -1,5 +1,4 @@
-Cladonia macroceras (Delise) Ahti SPECIES
-=======
+# Cladonia macroceras (Delise) Ahti SPECIES
 
 #### Status
 ACCEPTED

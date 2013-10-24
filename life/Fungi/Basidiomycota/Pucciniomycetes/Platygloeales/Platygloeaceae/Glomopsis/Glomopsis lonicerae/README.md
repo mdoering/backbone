@@ -1,17 +1,16 @@
-Glomerularia corni var. lonicerae Peck ex Dearn. & House, 1923 VARIETY
-=======
+# Glomopsis lonicerae Donk, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 243-244: 85 (1923)
+Persoonia 4(2): 214 (1966)
 
 #### Original name
-Glomerularia corni var. lonicerae Peck ex Dearn. & House, 1923
+Glomopsis lonicerae Donk, 1966
 
 ### Remarks
 null

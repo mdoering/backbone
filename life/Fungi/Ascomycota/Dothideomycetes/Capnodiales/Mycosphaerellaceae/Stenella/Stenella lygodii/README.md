@@ -1,5 +1,4 @@
-Stenella lygodii Sarbajna SPECIES
-=======
+# Stenella lygodii Sarbajna SPECIES
 
 #### Status
 ACCEPTED

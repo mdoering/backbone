@@ -1,5 +1,4 @@
-Baetimyces ancorae L.G. Valle & Santam., 2002 SPECIES
-=======
+# Baetimyces ancorae L.G. Valle & Santam., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Setonophrys nivalis (Kane, 1969) Clamp, 1991 SPECIES
-=======
+# Setonophrys nivalis (Kane, 1969) Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

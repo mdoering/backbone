@@ -1,17 +1,16 @@
-Caryospora mangrovei K.D. Hyde, 1989 SPECIES
-=======
+# Coronopapilla mangrovei (K.D. Hyde) Kohlm. & Volkm.-Kohlm., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mar. 34(1): 19 (1991)
 
 #### Original name
-null
+Caryospora mangrovei K.D. Hyde, 1989
 
 ### Remarks
 null

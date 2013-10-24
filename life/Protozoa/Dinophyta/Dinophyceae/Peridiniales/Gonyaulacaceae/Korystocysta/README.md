@@ -1,5 +1,4 @@
-Korystocysta Woollam, 1983 GENUS
-=======
+# Korystocysta Woollam, 1983 GENUS
 
 #### Status
 ACCEPTED

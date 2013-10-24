@@ -1,5 +1,4 @@
-Diploschistes perispicillatus Zahlbr. SPECIES
-=======
+# Diploschistes perispicillatus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

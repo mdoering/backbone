@@ -1,5 +1,4 @@
-Sphenolithus conicus Bukry, 1971 SPECIES
-=======
+# Sphenolithus conicus Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

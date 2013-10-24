@@ -1,5 +1,4 @@
-Acarospora africana B. de Lesd. SPECIES
-=======
+# Acarospora africana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria exiguiformis Lange-Bertalot SPECIES
-=======
+# Fragilaria exiguiformis Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

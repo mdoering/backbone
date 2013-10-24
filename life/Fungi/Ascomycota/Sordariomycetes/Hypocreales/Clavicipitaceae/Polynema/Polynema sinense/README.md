@@ -1,5 +1,4 @@
-Polynema sinense W.P. Wu SPECIES
-=======
+# Polynema sinense W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina excrescens Vain. SPECIES
-=======
+# Rinodina excrescens Vain. SPECIES
 
 #### Status
 ACCEPTED

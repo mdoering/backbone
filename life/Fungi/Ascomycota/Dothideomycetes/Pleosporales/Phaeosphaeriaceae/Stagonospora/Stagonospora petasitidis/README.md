@@ -1,5 +1,4 @@
-Stagonospora petasitidis Ellis & Everh. SPECIES
-=======
+# Stagonospora petasitidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

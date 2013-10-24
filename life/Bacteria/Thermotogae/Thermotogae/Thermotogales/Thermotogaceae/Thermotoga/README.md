@@ -1,5 +1,4 @@
-Thermotoga Huber, Langworthy, Konig, Thomm, Woese, Sleytr & Stetter, 1986 GENUS
-=======
+# Thermotoga Huber, Langworthy, Konig, Thomm, Woese, Sleytr & Stetter, 1986 GENUS
 
 #### Status
 ACCEPTED

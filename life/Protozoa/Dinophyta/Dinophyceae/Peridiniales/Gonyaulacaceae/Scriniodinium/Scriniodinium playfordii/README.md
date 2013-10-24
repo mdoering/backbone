@@ -1,5 +1,4 @@
-Scriniodinium playfordii Cookson & Eisenack, 1960 SPECIES
-=======
+# Scriniodinium playfordii Cookson & Eisenack, 1960 SPECIES
 
 #### Status
 ACCEPTED

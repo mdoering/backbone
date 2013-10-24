@@ -1,5 +1,4 @@
-Naemospora sclerotioides Allesch. SPECIES
-=======
+# Naemospora sclerotioides Allesch. SPECIES
 
 #### Status
 ACCEPTED

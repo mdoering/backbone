@@ -1,5 +1,4 @@
-Pistillaria trichomorpha (Schwein.) Corner SPECIES
-=======
+# Pistillaria trichomorpha (Schwein.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltula minuta (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Peltula minuta (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

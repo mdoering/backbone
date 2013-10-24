@@ -1,5 +1,4 @@
-Aspergillus cyaneus (Mattlet) Basgal SPECIES
-=======
+# Aspergillus cyaneus (Mattlet) Basgal SPECIES
 
 #### Status
 ACCEPTED

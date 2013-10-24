@@ -1,5 +1,4 @@
-Placosphaeria dianthi Bubák & Wróbl. SPECIES
-=======
+# Placosphaeria dianthi Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

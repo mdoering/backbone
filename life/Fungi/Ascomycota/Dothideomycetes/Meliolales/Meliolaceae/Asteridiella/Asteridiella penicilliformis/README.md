@@ -1,5 +1,4 @@
-Asteridiella penicilliformis (Gaillard) Hansf. SPECIES
-=======
+# Asteridiella penicilliformis (Gaillard) Hansf. SPECIES
 
 #### Status
 ACCEPTED

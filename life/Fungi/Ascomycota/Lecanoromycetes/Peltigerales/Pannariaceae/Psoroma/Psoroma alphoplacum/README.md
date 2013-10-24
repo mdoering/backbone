@@ -1,5 +1,4 @@
-Psoroma alphoplacum (Wahlenb.) SPECIES
-=======
+# Psoroma alphoplacum (Wahlenb.) SPECIES
 
 #### Status
 ACCEPTED

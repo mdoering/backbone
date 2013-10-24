@@ -1,5 +1,4 @@
-Coelomomyces africanus A.J. Walker ex Couch & Bland SPECIES
-=======
+# Coelomomyces africanus A.J. Walker ex Couch & Bland SPECIES
 
 #### Status
 ACCEPTED

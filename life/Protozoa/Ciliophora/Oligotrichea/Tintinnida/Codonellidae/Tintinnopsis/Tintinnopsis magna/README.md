@@ -1,5 +1,4 @@
-Tintinnopsis magna Merkle, 1909 SPECIES
-=======
+# Tintinnopsis magna Merkle, 1909 SPECIES
 
 #### Status
 ACCEPTED

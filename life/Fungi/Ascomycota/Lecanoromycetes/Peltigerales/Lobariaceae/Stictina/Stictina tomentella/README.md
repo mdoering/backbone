@@ -1,5 +1,4 @@
-Stictina tomentella (Nyl.) Nyl. SPECIES
-=======
+# Stictina tomentella (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

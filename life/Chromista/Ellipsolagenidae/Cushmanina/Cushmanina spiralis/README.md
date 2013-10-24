@@ -1,5 +1,4 @@
-Cushmanina spiralis (Brady, 1884) SPECIES
-=======
+# Cushmanina spiralis (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

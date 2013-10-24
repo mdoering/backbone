@@ -1,5 +1,4 @@
-Diplomitoporus insularis Ryvarden SPECIES
-=======
+# Diplomitoporus insularis Ryvarden SPECIES
 
 #### Status
 ACCEPTED

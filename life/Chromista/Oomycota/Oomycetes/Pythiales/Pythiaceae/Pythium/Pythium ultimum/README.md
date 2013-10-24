@@ -1,17 +1,16 @@
-Pythium haplomitrii Lilienfeld, 1911 SPECIES
-=======
+# Pythium ultimum Trow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. , Lond. 15: 300 (1901)
 
 #### Original name
-null
+Pythium ultimum Trow
 
 ### Remarks
 null

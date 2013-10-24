@@ -1,5 +1,4 @@
-Sordaria cirsii P. Crouan & H. Crouan SPECIES
-=======
+# Sordaria cirsii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenchridinium globosum (Williamson) Stein SPECIES
-=======
+# Cenchridinium globosum (Williamson) Stein SPECIES
 
 #### Status
 ACCEPTED

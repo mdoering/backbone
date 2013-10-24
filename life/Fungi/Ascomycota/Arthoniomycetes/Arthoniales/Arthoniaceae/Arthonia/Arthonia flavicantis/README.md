@@ -1,5 +1,4 @@
-Arthonia flavicantis Wedin & Hafellner SPECIES
-=======
+# Arthonia flavicantis Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

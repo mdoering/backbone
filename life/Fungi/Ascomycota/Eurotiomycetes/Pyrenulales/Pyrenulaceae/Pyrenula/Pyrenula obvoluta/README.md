@@ -1,5 +1,4 @@
-Pyrenula obvoluta (Nyl.) Aptroot SPECIES
-=======
+# Pyrenula obvoluta (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

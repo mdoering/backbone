@@ -1,5 +1,4 @@
-Rhizocarpon kansuense H. Magn. SPECIES
-=======
+# Rhizocarpon kansuense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

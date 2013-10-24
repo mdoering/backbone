@@ -1,5 +1,4 @@
-Dioxys polyceras J. A. Rino SPECIES
-=======
+# Dioxys polyceras J. A. Rino SPECIES
 
 #### Status
 ACCEPTED

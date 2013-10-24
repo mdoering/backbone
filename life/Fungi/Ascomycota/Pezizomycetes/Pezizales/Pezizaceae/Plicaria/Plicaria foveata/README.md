@@ -1,5 +1,4 @@
-Plicaria foveata Fuckel SPECIES
-=======
+# Plicaria foveata Fuckel SPECIES
 
 #### Status
 ACCEPTED

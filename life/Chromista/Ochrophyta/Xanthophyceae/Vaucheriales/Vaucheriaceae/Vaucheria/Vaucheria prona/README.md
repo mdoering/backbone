@@ -1,5 +1,4 @@
-Vaucheria prona T.A. Christensen SPECIES
-=======
+# Vaucheria prona T.A. Christensen SPECIES
 
 #### Status
 ACCEPTED

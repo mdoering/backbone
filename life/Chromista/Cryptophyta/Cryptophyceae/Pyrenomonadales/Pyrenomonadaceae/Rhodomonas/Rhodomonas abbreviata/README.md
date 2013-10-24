@@ -1,5 +1,4 @@
-Rhodomonas abbreviata (R. W. Butcher) D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhodomonas abbreviata (R. W. Butcher) D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

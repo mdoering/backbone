@@ -1,14 +1,13 @@
-Ophiobolus antarcticus Speg. SPECIES
-=======
+# Lindquistomyces antarcticus (Speg.) Aramb., E. Müll. & Gamundí, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 232 (1888)
+in Arambarri, Gamundí, Sydowia 35: 7 (1982)
 
 #### Original name
 Ophiobolus antarcticus Speg.

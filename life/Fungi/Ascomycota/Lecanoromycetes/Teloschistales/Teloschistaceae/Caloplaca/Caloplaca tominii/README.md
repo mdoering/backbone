@@ -1,5 +1,4 @@
-Caloplaca tominii Savicz SPECIES
-=======
+# Caloplaca tominii Savicz SPECIES
 
 #### Status
 ACCEPTED

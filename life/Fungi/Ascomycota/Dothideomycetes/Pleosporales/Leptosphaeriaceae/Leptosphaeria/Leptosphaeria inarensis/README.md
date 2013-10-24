@@ -1,5 +1,4 @@
-Leptosphaeria inarensis (Vain.) Keissl. SPECIES
-=======
+# Leptosphaeria inarensis (Vain.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

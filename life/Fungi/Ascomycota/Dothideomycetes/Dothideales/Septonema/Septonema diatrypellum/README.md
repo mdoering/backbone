@@ -1,5 +1,4 @@
-Septonema diatrypellum Bubák SPECIES
-=======
+# Septonema diatrypellum Bubák SPECIES
 
 #### Status
 ACCEPTED

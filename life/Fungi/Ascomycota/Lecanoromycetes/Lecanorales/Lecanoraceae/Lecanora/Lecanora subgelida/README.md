@@ -1,5 +1,4 @@
-Lecanora subgelida Nyl. SPECIES
-=======
+# Lecanora subgelida Nyl. SPECIES
 
 #### Status
 ACCEPTED

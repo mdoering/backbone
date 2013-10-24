@@ -1,17 +1,16 @@
-Lepiota rufipes f. rufipes FORM
-=======
+# Lepiota rufipes Morgan, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mycol. 12: 156 (1906)
 
 #### Original name
-Lepiota rufipes f. rufipes
+Lepiota rufipes Morgan, 1906
 
 ### Remarks
 null

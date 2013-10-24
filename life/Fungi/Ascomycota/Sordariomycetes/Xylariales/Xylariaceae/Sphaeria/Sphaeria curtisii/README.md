@@ -1,5 +1,4 @@
-Sphaeria curtisii Berk. SPECIES
-=======
+# Sphaeria curtisii Berk. SPECIES
 
 #### Status
 ACCEPTED

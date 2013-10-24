@@ -1,5 +1,4 @@
-Rimelia hawaiiensis (H. Magn.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia hawaiiensis (H. Magn.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

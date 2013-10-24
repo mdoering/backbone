@@ -1,5 +1,4 @@
-Coinostelium quitense Syd. SPECIES
-=======
+# Coinostelium quitense Syd. SPECIES
 
 #### Status
 ACCEPTED

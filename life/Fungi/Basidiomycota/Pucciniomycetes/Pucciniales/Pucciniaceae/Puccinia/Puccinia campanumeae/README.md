@@ -1,5 +1,4 @@
-Puccinia campanumeae Pat. SPECIES
-=======
+# Puccinia campanumeae Pat. SPECIES
 
 #### Status
 ACCEPTED

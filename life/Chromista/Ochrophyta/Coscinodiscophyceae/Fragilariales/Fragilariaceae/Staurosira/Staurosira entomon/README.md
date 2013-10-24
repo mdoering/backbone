@@ -1,5 +1,4 @@
-Staurosira entomon Ehrenberg SPECIES
-=======
+# Staurosira entomon Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

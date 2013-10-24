@@ -1,5 +1,4 @@
-Plasmopara orientalis Constant., 2002 SPECIES
-=======
+# Plasmopara orientalis Constant., 2002 SPECIES
 
 #### Status
 ACCEPTED

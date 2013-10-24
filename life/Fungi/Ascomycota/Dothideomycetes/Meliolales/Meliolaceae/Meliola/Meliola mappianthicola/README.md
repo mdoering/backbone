@@ -1,5 +1,4 @@
-Meliola mappianthicola J.C. Yang SPECIES
-=======
+# Meliola mappianthicola J.C. Yang SPECIES
 
 #### Status
 ACCEPTED

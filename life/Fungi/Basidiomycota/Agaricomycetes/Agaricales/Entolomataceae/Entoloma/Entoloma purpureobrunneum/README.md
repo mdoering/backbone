@@ -1,5 +1,4 @@
-Entoloma purpureobrunneum W.M. Zhang SPECIES
-=======
+# Entoloma purpureobrunneum W.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

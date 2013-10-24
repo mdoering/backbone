@@ -1,5 +1,4 @@
-Calycellina von Höhnel, 1918 GENUS
-=======
+# Calycellina von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichobasis rumicum DC. SPECIES
-=======
+# Trichobasis rumicum DC. SPECIES
 
 #### Status
 ACCEPTED

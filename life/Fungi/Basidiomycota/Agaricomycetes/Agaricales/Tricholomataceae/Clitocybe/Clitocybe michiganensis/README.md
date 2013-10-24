@@ -1,5 +1,4 @@
-Clitocybe michiganensis A.H. Sm. SPECIES
-=======
+# Clitocybe michiganensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

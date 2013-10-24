@@ -1,5 +1,4 @@
-Bacidia rudis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rudis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema planatilobatum (Hale) Hale SPECIES
-=======
+# Parmotrema planatilobatum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

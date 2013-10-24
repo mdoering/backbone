@@ -1,5 +1,4 @@
-Pterula phyllophila (McAlpine) Corner SPECIES
-=======
+# Pterula phyllophila (McAlpine) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus pisiformis Kalchbr. SPECIES
-=======
+# Polyporus pisiformis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

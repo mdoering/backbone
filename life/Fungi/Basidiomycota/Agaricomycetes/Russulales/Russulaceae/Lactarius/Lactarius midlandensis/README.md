@@ -1,5 +1,4 @@
-Lactarius midlandensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius midlandensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

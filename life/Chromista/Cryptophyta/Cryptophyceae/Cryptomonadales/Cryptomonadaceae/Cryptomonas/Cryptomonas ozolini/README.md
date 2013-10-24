@@ -1,5 +1,4 @@
-Cryptomonas ozolini SPECIES
-=======
+# Cryptomonas ozolini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia neyraudiae Syd. & P. Syd. SPECIES
-=======
+# Puccinia neyraudiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

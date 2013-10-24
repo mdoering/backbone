@@ -1,5 +1,4 @@
-Phyllachora lespedezae (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora lespedezae (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

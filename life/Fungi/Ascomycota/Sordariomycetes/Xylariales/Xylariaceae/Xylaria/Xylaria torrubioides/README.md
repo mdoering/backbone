@@ -1,5 +1,4 @@
-Xylaria torrubioides Penz. & Sacc. SPECIES
-=======
+# Xylaria torrubioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microxyphium spathodeae Bat. SPECIES
-=======
+# Microxyphium spathodeae Bat. SPECIES
 
 #### Status
 ACCEPTED

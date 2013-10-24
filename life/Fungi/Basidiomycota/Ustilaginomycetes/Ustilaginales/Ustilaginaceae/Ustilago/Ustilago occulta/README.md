@@ -1,5 +1,4 @@
-Ustilago occulta Henn. SPECIES
-=======
+# Ustilago occulta Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella viridula Bourdot & Galzin, 1924 SPECIES
-=======
+# Tomentella viridula Bourdot & Galzin, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligostroma zelandicum Syd., 1934 SPECIES
-=======
+# Oligostroma zelandicum Syd., 1934 SPECIES
 
 #### Status
 ACCEPTED

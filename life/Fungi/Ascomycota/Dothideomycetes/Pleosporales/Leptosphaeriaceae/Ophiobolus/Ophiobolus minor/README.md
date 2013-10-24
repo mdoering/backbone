@@ -1,5 +1,4 @@
-Ophiobolus minor Bubák SPECIES
-=======
+# Ophiobolus minor Bubák SPECIES
 
 #### Status
 ACCEPTED

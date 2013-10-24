@@ -1,5 +1,4 @@
-Cryptorhynchella lantanae (Died.) Höhn. SPECIES
-=======
+# Cryptorhynchella lantanae (Died.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Astragoxyphium hibiscii Bat., Nascim. & A.F. Vital SPECIES
-=======
+# Astragoxyphium hibisci Bat., Nascim. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista & Ciferri, Quad. Lab. crittogam. , Pavia 31: 48 (1963)
 
 #### Original name
-Astragoxyphium hibiscii Bat., Nascim. & A.F. Vital
+Astragoxyphium hibisci Bat., Nascim. & A.F. Vital
 
 ### Remarks
 null

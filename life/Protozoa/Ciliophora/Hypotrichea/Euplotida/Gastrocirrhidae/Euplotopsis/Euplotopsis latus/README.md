@@ -1,5 +1,4 @@
-Euplotopsis latus SPECIES
-=======
+# Euplotopsis latus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanotus eucalyptinus (Maire & Malençon) E. Horak SPECIES
-=======
+# Melanotus eucalyptinus (Maire & Malençon) E. Horak SPECIES
 
 #### Status
 ACCEPTED

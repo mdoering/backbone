@@ -1,5 +1,4 @@
-Holophrya gulo SPECIES
-=======
+# Holophrya gulo SPECIES
 
 #### Status
 ACCEPTED

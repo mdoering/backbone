@@ -1,5 +1,4 @@
-Verrucaria tristis f. tristis FORM
-=======
+# Verrucaria tristis (A. Massal.) Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 40: 376 (1857)
 
 #### Original name
-Verrucaria tristis f. tristis
+Lithocia tristis A. Massal.
 
 ### Remarks
 null

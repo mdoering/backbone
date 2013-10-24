@@ -1,5 +1,4 @@
-Lecanora cinerascens (Schaer.) Zahlbr. SPECIES
-=======
+# Lecanora cinerascens (Schaer.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

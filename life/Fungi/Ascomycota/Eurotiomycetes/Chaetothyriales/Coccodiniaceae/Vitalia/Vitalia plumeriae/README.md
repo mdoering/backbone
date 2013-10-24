@@ -1,5 +1,4 @@
-Vitalia plumeriae Bat. & Matta SPECIES
-=======
+# Vitalia plumeriae Bat. & Matta SPECIES
 
 #### Status
 ACCEPTED

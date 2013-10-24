@@ -1,5 +1,4 @@
-Parmentaria andamanensis (Ajay Singh & Upreti) Makhija & Patw. SPECIES
-=======
+# Parmentaria andamanensis (Ajay Singh & Upreti) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

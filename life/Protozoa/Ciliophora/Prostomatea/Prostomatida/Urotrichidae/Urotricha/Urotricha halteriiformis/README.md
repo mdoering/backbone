@@ -1,5 +1,4 @@
-Urotricha halteriiformis SPECIES
-=======
+# Urotricha halteriiformis SPECIES
 
 #### Status
 ACCEPTED

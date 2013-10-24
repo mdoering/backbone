@@ -1,5 +1,4 @@
-Cortinarius majusculus Kühner SPECIES
-=======
+# Cortinarius majusculus Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium tabescens Westling SPECIES
-=======
+# Penicillium tabescens Westling SPECIES
 
 #### Status
 ACCEPTED

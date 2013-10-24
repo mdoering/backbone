@@ -1,5 +1,4 @@
-Herpesvirales ORDER
-=======
+# Herpesvirales ORDER
 
 #### Status
 ACCEPTED

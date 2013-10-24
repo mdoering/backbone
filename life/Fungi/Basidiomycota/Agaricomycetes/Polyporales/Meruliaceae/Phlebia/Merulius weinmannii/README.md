@@ -1,5 +1,4 @@
-Merulius weinmannii Spreng. SPECIES
-=======
+# Merulius weinmannii Spreng. SPECIES
 
 #### Status
 ACCEPTED

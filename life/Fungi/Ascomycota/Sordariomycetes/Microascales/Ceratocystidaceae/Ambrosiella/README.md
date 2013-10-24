@@ -1,5 +1,4 @@
-Ambrosiella Brader, 1964 GENUS
-=======
+# Ambrosiella Brader, 1964 GENUS
 
 #### Status
 ACCEPTED

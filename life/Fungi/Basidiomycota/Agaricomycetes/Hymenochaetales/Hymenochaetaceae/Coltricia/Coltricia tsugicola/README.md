@@ -1,5 +1,4 @@
-Coltricia tsugicola Y.C. Dai & B.K. Cui, 2006 SPECIES
-=======
+# Coltricia tsugicola Y.C. Dai & B.K. Cui, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elatommura Haeckel, 1887 GENUS
-=======
+# Elatommura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

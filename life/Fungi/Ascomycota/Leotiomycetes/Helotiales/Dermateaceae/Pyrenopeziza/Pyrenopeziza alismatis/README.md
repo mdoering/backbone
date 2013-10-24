@@ -1,5 +1,4 @@
-Pyrenopeziza alismatis Feltgen SPECIES
-=======
+# Pyrenopeziza alismatis Feltgen SPECIES
 
 #### Status
 ACCEPTED

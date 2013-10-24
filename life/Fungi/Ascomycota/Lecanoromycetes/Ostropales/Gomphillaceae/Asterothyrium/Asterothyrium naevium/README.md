@@ -1,5 +1,4 @@
-Asterothyrium naevium Vain. SPECIES
-=======
+# Asterothyrium naevium Vain. SPECIES
 
 #### Status
 ACCEPTED

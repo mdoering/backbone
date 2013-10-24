@@ -1,14 +1,13 @@
-Stigmatidium stictathecium C. Knight SPECIES
-=======
+# Chiodecton stictathecium (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 42 (1882)
+Cat. Lich. Univers. 2: 482 (1923)
 
 #### Original name
 Stigmatidium stictathecium C. Knight

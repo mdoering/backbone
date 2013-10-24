@@ -1,5 +1,4 @@
-Sphaeria hyperborea Heer SPECIES
-=======
+# Sphaeria hyperborea Heer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jeotgalicoccus pinnipedialis Hoyles et al., 2004 SPECIES
-=======
+# Jeotgalicoccus pinnipedialis Hoyles et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

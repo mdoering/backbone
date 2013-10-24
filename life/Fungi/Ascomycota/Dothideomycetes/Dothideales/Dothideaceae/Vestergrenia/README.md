@@ -1,17 +1,16 @@
-Guignardiella Sacc. & P. Syd. GENUS
-=======
+# Vestergrenia Rehm, 1901 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 465 (1902)
+Hedwigia 40: 100 (1901)
 
 #### Original name
-Guignardiella Sacc. & P. Syd.
+Vestergrenia Rehm, 1901
 
 ### Remarks
 null

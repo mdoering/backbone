@@ -1,5 +1,4 @@
-Lecidea uberrima Hue SPECIES
-=======
+# Lecidea uberrima Hue SPECIES
 
 #### Status
 ACCEPTED

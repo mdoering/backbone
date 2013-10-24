@@ -1,5 +1,4 @@
-Geinitzella Spandel, 1898 GENUS
-=======
+# Geinitzella Spandel, 1898 GENUS
 
 #### Status
 ACCEPTED

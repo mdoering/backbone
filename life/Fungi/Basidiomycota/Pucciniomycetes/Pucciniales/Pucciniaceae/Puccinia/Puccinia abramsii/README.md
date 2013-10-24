@@ -1,5 +1,4 @@
-Puccinia abramsii Parmelee SPECIES
-=======
+# Puccinia abramsii Parmelee SPECIES
 
 #### Status
 ACCEPTED

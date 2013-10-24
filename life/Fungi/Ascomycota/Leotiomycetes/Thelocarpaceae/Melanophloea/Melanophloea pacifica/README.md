@@ -1,5 +1,4 @@
-Melanophloea pacifica P. James & Vezda SPECIES
-=======
+# Melanophloea pacifica P. James & Vezda SPECIES
 
 #### Status
 ACCEPTED

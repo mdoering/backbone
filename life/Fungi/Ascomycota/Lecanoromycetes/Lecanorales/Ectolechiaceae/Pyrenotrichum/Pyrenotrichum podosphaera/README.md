@@ -1,5 +1,4 @@
-Pyrenotrichum podosphaera R. Sant. SPECIES
-=======
+# Pyrenotrichum podosphaera R. Sant. SPECIES
 
 #### Status
 ACCEPTED

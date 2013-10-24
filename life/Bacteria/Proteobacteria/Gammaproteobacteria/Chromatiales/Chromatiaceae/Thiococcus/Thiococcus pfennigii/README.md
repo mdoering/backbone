@@ -1,8 +1,7 @@
-Thiocapsa pfennigii Eimhjellen, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Thiococcus pfennigii (Eimhjellen, 1970) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

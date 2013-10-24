@@ -1,5 +1,4 @@
-Letendraea atrata Penz. & Sacc. SPECIES
-=======
+# Letendraea atrata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma giganteum J.E. Wright SPECIES
-=======
+# Tulostoma giganteum J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

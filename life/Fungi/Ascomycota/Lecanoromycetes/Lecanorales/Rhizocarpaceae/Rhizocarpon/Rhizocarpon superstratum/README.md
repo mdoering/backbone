@@ -1,5 +1,4 @@
-Rhizocarpon superstratum J. Steiner SPECIES
-=======
+# Rhizocarpon superstratum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

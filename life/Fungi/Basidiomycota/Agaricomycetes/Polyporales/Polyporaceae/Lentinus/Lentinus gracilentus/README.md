@@ -1,5 +1,4 @@
-Lentinus gracilentus Cooke & Massee SPECIES
-=======
+# Lentinus gracilentus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

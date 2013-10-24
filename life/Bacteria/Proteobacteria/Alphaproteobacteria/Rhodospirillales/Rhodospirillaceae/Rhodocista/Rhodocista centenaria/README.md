@@ -1,5 +1,4 @@
-Rhodocista centenaria Kawasaki et al., 1994 SPECIES
-=======
+# Rhodocista centenaria Kawasaki et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

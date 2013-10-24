@@ -1,14 +1,13 @@
-Cercospora ocimicola Petr. & Cif., 1932 SPECIES
-=======
+# Pseudocercospora ocimicola (Petr. & Cif.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 30(3-4): 324 (1932)
+Mycol. Pap. 140: 149 (1976)
 
 #### Original name
 Cercospora ocimicola Petr. & Cif., 1932

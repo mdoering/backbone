@@ -1,5 +1,4 @@
-Sphaeria sphingiophora Oudem. SPECIES
-=======
+# Sphaeria sphingiophora Oudem. SPECIES
 
 #### Status
 ACCEPTED

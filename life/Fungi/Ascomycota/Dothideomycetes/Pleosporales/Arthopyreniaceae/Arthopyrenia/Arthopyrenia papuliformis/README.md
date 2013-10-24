@@ -1,5 +1,4 @@
-Arthopyrenia papuliformis (Eckfeldt) Zahlbr. SPECIES
-=======
+# Arthopyrenia papuliformis (Eckfeldt) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

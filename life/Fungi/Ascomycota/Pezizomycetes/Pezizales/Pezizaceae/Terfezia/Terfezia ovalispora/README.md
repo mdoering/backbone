@@ -1,5 +1,4 @@
-Terfezia ovalispora Pat. SPECIES
-=======
+# Terfezia ovalispora Pat. SPECIES
 
 #### Status
 ACCEPTED

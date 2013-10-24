@@ -1,5 +1,4 @@
-Cantharellus coemansii Rabenh. SPECIES
-=======
+# Cantharellus coemansii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

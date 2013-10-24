@@ -1,5 +1,4 @@
-Collybia muciflua Höhn. SPECIES
-=======
+# Collybia muciflua Höhn. SPECIES
 
 #### Status
 ACCEPTED

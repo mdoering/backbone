@@ -1,5 +1,4 @@
-Lactarius foetidus Peck SPECIES
-=======
+# Lactarius foetidus Peck SPECIES
 
 #### Status
 ACCEPTED

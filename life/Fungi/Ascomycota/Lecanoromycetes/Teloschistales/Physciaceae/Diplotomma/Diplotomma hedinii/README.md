@@ -1,14 +1,13 @@
-Diplotomma hedinianum (H. Magn.) P. Clerc & Cl. Roux SPECIES
-=======
+# Diplotomma hedinii (H. Magn.) P. Clerc & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Clerc, Cryptogamica Helvetica 19: 292 (2004)
 
 #### Original name
 Buellia hedinii H. Magn.

@@ -1,5 +1,4 @@
-Heringia Schweinitz ex Berkeley & Curtis, 1853 GENUS
-=======
+# Heringia Schweinitz ex Berkeley & Curtis, 1853 GENUS
 
 #### Status
 ACCEPTED

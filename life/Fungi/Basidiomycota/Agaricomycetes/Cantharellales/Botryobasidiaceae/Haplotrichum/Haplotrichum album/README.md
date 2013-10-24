@@ -1,5 +1,4 @@
-Haplotrichum album (Sumst.) Hol.-Jech. SPECIES
-=======
+# Haplotrichum album (Sumst.) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Braarudosphaera alta Romein, 1979 SPECIES
-=======
+# Braarudosphaera alta Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

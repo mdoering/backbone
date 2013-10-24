@@ -1,5 +1,4 @@
-Dendrophoma tristaniae Tassi SPECIES
-=======
+# Dendrophoma tristaniae Tassi SPECIES
 
 #### Status
 ACCEPTED

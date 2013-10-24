@@ -1,5 +1,4 @@
-Sandarakinotalea Khan, Nakagawa & Harayama, 2006 GENUS
-=======
+# Sandarakinotalea Khan, Nakagawa & Harayama, 2006 GENUS
 
 #### Status
 ACCEPTED

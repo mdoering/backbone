@@ -1,5 +1,4 @@
-Pestalozziella artocarpi Nag Raj & W.B. Kendr., 1972 SPECIES
-=======
+# Pestalozziella artocarpi Nag Raj & W.B. Kendr., 1972 SPECIES
 
 #### Status
 ACCEPTED

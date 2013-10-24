@@ -1,5 +1,4 @@
-Flammulina glutinosa G. Stev. SPECIES
-=======
+# Flammulina glutinosa G. Stev. SPECIES
 
 #### Status
 ACCEPTED

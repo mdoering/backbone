@@ -1,5 +1,4 @@
-Cortinarius ianthinus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius ianthinus Cleland & J.R. Harris SPECIES
 
 #### Status
 ACCEPTED

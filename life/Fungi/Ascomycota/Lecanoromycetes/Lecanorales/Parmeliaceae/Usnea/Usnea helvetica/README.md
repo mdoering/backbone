@@ -1,5 +1,4 @@
-Usnea helvetica Motyka ex Gyeln. SPECIES
-=======
+# Usnea helvetica Motyka ex Gyeln. SPECIES
 
 #### Status
 ACCEPTED

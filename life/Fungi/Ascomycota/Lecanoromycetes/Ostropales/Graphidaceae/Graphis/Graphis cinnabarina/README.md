@@ -1,5 +1,4 @@
-Graphis cinnabarina Fée SPECIES
-=======
+# Graphis cinnabarina Fée SPECIES
 
 #### Status
 ACCEPTED

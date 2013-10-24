@@ -1,5 +1,4 @@
-Stictogongylus Loeblich & Tappan, 1994 GENUS
-=======
+# Stictogongylus Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium lapponicum Bubák & Vleugel SPECIES
-=======
+# Leptothyrium lapponicum Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

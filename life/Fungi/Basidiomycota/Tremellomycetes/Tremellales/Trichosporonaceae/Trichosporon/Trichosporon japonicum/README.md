@@ -1,5 +1,4 @@
-Trichosporon japonicum Sugita & Nakase SPECIES
-=======
+# Trichosporon japonicum Sugita & Nakase SPECIES
 
 #### Status
 ACCEPTED

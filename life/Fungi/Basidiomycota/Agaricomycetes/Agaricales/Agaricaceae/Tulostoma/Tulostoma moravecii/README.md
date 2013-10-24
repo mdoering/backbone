@@ -1,5 +1,4 @@
-Tulostoma moravecii Pouzar SPECIES
-=======
+# Tulostoma moravecii Pouzar SPECIES
 
 #### Status
 ACCEPTED

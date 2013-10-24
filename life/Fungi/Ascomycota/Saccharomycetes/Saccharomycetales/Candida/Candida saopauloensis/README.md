@@ -1,17 +1,16 @@
-Candida saopaulonensis Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
-=======
+# Candida saopauloensis Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ruivo, Lachance, Rosa, Bacci & Pagnocca, Int. J. Syst. Evol. Microbiol. 56(5): 1150 (2006)
 
 #### Original name
-Candida saopaulonensis Ruivo, Pagnocca, Lachance & C.A. Rosa
+Candida saopauloensis Ruivo, Pagnocca, Lachance & C.A. Rosa
 
 ### Remarks
 null

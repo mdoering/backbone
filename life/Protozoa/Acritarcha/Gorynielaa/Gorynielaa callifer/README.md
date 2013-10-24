@@ -1,5 +1,4 @@
-Gorynielaa callifer Timofeev, 1973 SPECIES
-=======
+# Gorynielaa callifer Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

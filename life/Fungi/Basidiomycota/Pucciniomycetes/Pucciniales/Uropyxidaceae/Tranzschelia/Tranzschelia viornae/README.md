@@ -1,5 +1,4 @@
-Tranzschelia viornae (Arthur) Arthur SPECIES
-=======
+# Tranzschelia viornae (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradidymobotryum oblongum C.J.K. Wang & B. Sutton, 1984 SPECIES
-=======
+# Paradidymobotryum oblongum C.J.K. Wang & B. Sutton, 1984 SPECIES
 
 #### Status
 ACCEPTED

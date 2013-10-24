@@ -1,5 +1,4 @@
-Russula purpureofusca Kühner SPECIES
-=======
+# Russula purpureofusca Kühner SPECIES
 
 #### Status
 ACCEPTED

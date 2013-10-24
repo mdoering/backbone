@@ -1,5 +1,4 @@
-Excipula erumpens Berk. SPECIES
-=======
+# Excipula erumpens Berk. SPECIES
 
 #### Status
 ACCEPTED

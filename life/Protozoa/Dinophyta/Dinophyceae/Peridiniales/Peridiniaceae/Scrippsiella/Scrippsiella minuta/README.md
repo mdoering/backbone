@@ -1,5 +1,4 @@
-Scrippsiella minuta X. Gao & J. D. Dodge SPECIES
-=======
+# Scrippsiella minuta X. Gao & J. D. Dodge SPECIES
 
 #### Status
 ACCEPTED

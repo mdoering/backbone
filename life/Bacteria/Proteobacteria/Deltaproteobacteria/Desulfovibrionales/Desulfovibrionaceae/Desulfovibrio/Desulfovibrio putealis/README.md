@@ -1,5 +1,4 @@
-Desulfovibrio putealis Basso et al., 2005 SPECIES
-=======
+# Desulfovibrio putealis Basso et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

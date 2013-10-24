@@ -1,5 +1,4 @@
-Leptonia obscura (Dennis) Dennis SPECIES
-=======
+# Leptonia obscura (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

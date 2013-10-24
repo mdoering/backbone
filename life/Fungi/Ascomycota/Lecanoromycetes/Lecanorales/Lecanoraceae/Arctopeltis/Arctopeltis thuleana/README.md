@@ -1,5 +1,4 @@
-Arctopeltis thuleana Poelt SPECIES
-=======
+# Arctopeltis thuleana Poelt SPECIES
 
 #### Status
 ACCEPTED

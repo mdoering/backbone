@@ -1,5 +1,4 @@
-Oxytricha ambigua Dujardin, 1841 SPECIES
-=======
+# Oxytricha ambigua Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

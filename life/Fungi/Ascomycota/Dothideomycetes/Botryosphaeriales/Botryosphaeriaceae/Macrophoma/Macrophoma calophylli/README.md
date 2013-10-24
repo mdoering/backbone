@@ -1,5 +1,4 @@
-Macrophoma calophylli Syd. SPECIES
-=======
+# Macrophoma calophylli Syd. SPECIES
 
 #### Status
 ACCEPTED

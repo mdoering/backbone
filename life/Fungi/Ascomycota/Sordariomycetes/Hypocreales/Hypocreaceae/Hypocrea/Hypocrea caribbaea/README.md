@@ -1,5 +1,4 @@
-Hypocrea caribbaea Samuels & Schroers SPECIES
-=======
+# Hypocrea caribbaea Samuels & Schroers SPECIES
 
 #### Status
 ACCEPTED

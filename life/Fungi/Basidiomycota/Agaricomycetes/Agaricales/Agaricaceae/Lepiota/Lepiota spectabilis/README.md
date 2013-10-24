@@ -1,5 +1,4 @@
-Lepiota spectabilis Clem. SPECIES
-=======
+# Lepiota spectabilis Clem. SPECIES
 
 #### Status
 ACCEPTED

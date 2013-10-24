@@ -1,5 +1,4 @@
-Entoloma conspicuum E. Horak SPECIES
-=======
+# Entoloma conspicuum E. Horak SPECIES
 
 #### Status
 ACCEPTED

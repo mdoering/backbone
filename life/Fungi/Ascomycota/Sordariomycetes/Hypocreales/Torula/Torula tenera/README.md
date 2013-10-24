@@ -1,5 +1,4 @@
-Torula tenera Link SPECIES
-=======
+# Torula tenera Link SPECIES
 
 #### Status
 ACCEPTED

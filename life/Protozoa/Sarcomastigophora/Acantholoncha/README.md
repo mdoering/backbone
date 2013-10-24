@@ -1,5 +1,4 @@
-Acantholoncha GENUS
-=======
+# Acantholoncha GENUS
 
 #### Status
 ACCEPTED

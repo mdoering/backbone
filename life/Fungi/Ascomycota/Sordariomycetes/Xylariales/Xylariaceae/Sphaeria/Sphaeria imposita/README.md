@@ -1,5 +1,4 @@
-Sphaeria imposita Schwein. SPECIES
-=======
+# Sphaeria imposita Schwein. SPECIES
 
 #### Status
 ACCEPTED

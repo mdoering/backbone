@@ -1,5 +1,4 @@
-Gyrodon caespitosus (Massee) Sacc. SPECIES
-=======
+# Gyrodon caespitosus (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

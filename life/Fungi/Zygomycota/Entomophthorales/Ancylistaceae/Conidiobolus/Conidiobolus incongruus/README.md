@@ -1,5 +1,4 @@
-Conidiobolus incongruus Drechsler, 1960 SPECIES
-=======
+# Conidiobolus incongruus Drechsler, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea microcitrina Yoshim. Doi SPECIES
-=======
+# Hypocrea microcitrina Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

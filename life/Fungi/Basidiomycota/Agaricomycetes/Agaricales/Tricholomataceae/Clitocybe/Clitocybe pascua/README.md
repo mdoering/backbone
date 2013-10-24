@@ -1,5 +1,4 @@
-Clitocybe pascua Cleland SPECIES
-=======
+# Clitocybe pascua Cleland SPECIES
 
 #### Status
 ACCEPTED

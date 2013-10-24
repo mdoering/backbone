@@ -1,5 +1,4 @@
-Gromia nigricans (Pen.) SPECIES
-=======
+# Gromia nigricans (Pen.) SPECIES
 
 #### Status
 ACCEPTED

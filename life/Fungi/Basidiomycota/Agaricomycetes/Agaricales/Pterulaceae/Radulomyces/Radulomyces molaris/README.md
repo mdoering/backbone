@@ -1,17 +1,16 @@
-Radulum molare var. molare VARIETY
-=======
+# Radulomyces molaris (Chaillet ex Fr.) M.P. Christ., 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 151 (1828)
+Dansk bot. Ark. 19(no. 2): 232 (1960)
 
 #### Original name
-Radulum molare var. molare
+Radulum molare Chaillet ex Fr., 1828
 
 ### Remarks
 null

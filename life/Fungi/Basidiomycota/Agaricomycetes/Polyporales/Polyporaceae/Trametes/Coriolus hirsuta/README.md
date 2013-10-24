@@ -1,5 +1,4 @@
-Coriolus (Trametes) hirsuta (Fr.) Pilat SPECIES
-=======
+# Coriolus (Trametes) hirsuta (Fr.) Pilat SPECIES
 
 #### Status
 DOUBTFUL

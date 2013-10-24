@@ -1,5 +1,4 @@
-Verrucaria complanata Mont. SPECIES
-=======
+# Verrucaria complanata Mont. SPECIES
 
 #### Status
 ACCEPTED

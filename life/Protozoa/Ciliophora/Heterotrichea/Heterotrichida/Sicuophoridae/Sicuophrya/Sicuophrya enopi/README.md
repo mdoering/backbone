@@ -1,5 +1,4 @@
-Sicuophrya enopi Puytorac & Grain, 1968 SPECIES
-=======
+# Sicuophrya enopi Puytorac & Grain, 1968 SPECIES
 
 #### Status
 ACCEPTED

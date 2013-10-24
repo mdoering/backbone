@@ -1,5 +1,4 @@
-Karlingia GENUS
-=======
+# Karlingia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia arctica Kytöv. SPECIES
-=======
+# Stropharia arctica Kytöv. SPECIES
 
 #### Status
 ACCEPTED

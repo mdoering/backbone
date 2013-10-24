@@ -1,5 +1,4 @@
-Cheilymenia pediseta (Clem.) J. Moravec SPECIES
-=======
+# Cheilymenia pediseta (Clem.) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

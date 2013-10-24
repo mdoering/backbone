@@ -1,5 +1,4 @@
-Hendersonia geastericola Hollós SPECIES
-=======
+# Hendersonia geastericola Hollós SPECIES
 
 #### Status
 ACCEPTED

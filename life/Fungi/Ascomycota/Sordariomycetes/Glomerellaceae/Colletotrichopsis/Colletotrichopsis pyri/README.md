@@ -1,5 +1,4 @@
-Colletotrichopsis pyri f. pyri FORM
-=======
+# Colletotrichopsis pyri (F. Noack) Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Öst. bot. Z. 54(5): 183 (1904)
+Öst. bot. Z. (1904)
 
 #### Original name
 Colletotrichum piri f. piri F. Noack

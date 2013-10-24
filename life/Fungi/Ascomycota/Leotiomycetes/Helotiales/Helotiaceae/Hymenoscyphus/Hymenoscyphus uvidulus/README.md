@@ -1,5 +1,4 @@
-Hymenoscyphus uvidulus (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus uvidulus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

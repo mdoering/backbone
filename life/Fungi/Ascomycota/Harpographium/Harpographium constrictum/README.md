@@ -1,5 +1,4 @@
-Harpographium constrictum E.F. Morris SPECIES
-=======
+# Harpographium constrictum E.F. Morris SPECIES
 
 #### Status
 ACCEPTED

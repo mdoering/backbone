@@ -1,5 +1,4 @@
-Nesolechia aggregatula (Müll. Arg.) Rehm SPECIES
-=======
+# Nesolechia aggregatula (Müll. Arg.) Rehm SPECIES
 
 #### Status
 ACCEPTED

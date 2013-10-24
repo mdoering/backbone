@@ -1,5 +1,4 @@
-Havrella G.Breton & P.Saulot, 1986 GENUS
-=======
+# Havrella G.Breton & P.Saulot, 1986 GENUS
 
 #### Status
 ACCEPTED

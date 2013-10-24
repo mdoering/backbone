@@ -1,5 +1,4 @@
-Ceratocystis pirilliformis I. Barnes & M.J. Wingf. SPECIES
-=======
+# Ceratocystis pirilliformis I. Barnes & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

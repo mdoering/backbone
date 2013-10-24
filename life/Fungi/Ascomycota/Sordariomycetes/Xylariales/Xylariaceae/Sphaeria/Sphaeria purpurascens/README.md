@@ -1,5 +1,4 @@
-Sphaeria purpurascens DC. SPECIES
-=======
+# Sphaeria purpurascens DC. SPECIES
 
 #### Status
 ACCEPTED

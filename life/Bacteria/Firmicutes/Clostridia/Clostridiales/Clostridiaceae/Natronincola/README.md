@@ -1,5 +1,4 @@
-Natronincola GENUS
-=======
+# Natronincola GENUS
 
 #### Status
 ACCEPTED

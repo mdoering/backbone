@@ -1,14 +1,13 @@
-Graphis serpentinella Nyl. SPECIES
-=======
+# Platythecium serpentinellum (Nyl.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 469 (1863)
+Biblthca Lichenol. 85: 390 (2002)
 
 #### Original name
 Graphis serpentinella Nyl.

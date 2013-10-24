@@ -1,5 +1,4 @@
-Biatora granulosa var. granulosa VARIETY
-=======
+# Biatora granulosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora granulosa var. granulosa
+null
 
 ### Remarks
 null

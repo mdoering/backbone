@@ -1,5 +1,4 @@
-Ustilago trichoneurana Zundel SPECIES
-=======
+# Ustilago trichoneurana Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorinopsis planella (Nyl.) Müll. Arg. SPECIES
-=======
+# Biatorinopsis planella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

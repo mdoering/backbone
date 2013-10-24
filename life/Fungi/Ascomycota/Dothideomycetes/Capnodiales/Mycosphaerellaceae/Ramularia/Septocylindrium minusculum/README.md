@@ -1,5 +1,4 @@
-Septocylindrium minusculum Sacc. SPECIES
-=======
+# Septocylindrium minusculum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sebacina caesiocinerea (Höhn. & Litsch.) D.P. Rogers, 1935 SPECIES
-=======
+# Basidiodendron caesiocinereum (Höhn. & Litsch.) Luck-Allen, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Univ. Iowa Stud. nat. Hist. 17(1): 37 (1935)
+Can. J. Bot. 41: 1036 (1963)
 
 #### Original name
 null

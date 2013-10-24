@@ -1,5 +1,4 @@
-Lophodermium ciliatum Lib. ex Speg. & Roum. SPECIES
-=======
+# Lophodermium ciliatum Lib. ex Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

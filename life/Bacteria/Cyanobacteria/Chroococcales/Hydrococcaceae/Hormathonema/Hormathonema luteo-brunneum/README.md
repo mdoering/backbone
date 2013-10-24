@@ -1,5 +1,4 @@
-Hormathonema luteo-brunneum Ercegovic SPECIES
-=======
+# Hormathonema luteo-brunneum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

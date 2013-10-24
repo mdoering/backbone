@@ -1,5 +1,4 @@
-Peziza melanosperma P. Crouan & H. Crouan SPECIES
-=======
+# Peziza melanosperma P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora kellermanii Ellis & G. Martin SPECIES
-=======
+# Rhabdospora kellermanii Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

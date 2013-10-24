@@ -1,5 +1,4 @@
-Campanella inquilina Romagn. SPECIES
-=======
+# Campanella inquilina Romagn. SPECIES
 
 #### Status
 ACCEPTED

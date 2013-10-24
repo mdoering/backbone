@@ -1,5 +1,4 @@
-Aecidium staphyleae Miura SPECIES
-=======
+# Aecidium staphyleae Miura SPECIES
 
 #### Status
 ACCEPTED

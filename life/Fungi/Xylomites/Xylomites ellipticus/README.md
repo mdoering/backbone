@@ -1,5 +1,4 @@
-Xylomites ellipticus Ettingsh. SPECIES
-=======
+# Xylomites ellipticus Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

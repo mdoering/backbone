@@ -1,5 +1,4 @@
-Colletotrichum smilacinae Tehon & E.Y. Daniels SPECIES
-=======
+# Colletotrichum smilacinae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

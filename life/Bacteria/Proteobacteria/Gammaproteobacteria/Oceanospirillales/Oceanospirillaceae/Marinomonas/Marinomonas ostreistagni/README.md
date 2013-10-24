@@ -1,5 +1,4 @@
-Marinomonas ostreistagni Lau, Ren, Wai, Lau, Qian, Wong & Wu, 2006 SPECIES
-=======
+# Marinomonas ostreistagni Lau, Ren, Wai, Lau, Qian, Wong & Wu, 2006 SPECIES
 
 #### Status
 ACCEPTED

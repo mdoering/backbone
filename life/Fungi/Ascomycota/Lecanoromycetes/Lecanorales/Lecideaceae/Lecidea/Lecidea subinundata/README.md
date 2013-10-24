@@ -1,5 +1,4 @@
-Lecidea subinundata Nyl. SPECIES
-=======
+# Lecidea subinundata Nyl. SPECIES
 
 #### Status
 ACCEPTED

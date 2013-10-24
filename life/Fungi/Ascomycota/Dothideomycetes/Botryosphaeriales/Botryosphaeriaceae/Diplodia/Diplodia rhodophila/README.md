@@ -1,5 +1,4 @@
-Diplodia rhodophila Pass. SPECIES
-=======
+# Diplodia rhodophila Pass. SPECIES
 
 #### Status
 ACCEPTED

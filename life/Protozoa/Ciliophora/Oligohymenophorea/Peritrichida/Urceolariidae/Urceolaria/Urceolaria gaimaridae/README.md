@@ -1,5 +1,4 @@
-Urceolaria gaimaridae Johnstom, 1938 SPECIES
-=======
+# Urceolaria gaimaridae Johnstom, 1938 SPECIES
 
 #### Status
 ACCEPTED

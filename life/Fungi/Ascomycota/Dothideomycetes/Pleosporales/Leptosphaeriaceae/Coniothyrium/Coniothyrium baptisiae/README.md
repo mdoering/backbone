@@ -1,5 +1,4 @@
-Coniothyrium baptisiae (Thüm.) Tassi SPECIES
-=======
+# Coniothyrium baptisiae (Thüm.) Tassi SPECIES
 
 #### Status
 ACCEPTED

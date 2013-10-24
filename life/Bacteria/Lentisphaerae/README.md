@@ -1,5 +1,4 @@
-Lentisphaerae Cho, Vergin, Morris & Giovannoni, 2004 PHYLUM
-=======
+# Lentisphaerae Cho, Vergin, Morris & Giovannoni, 2004 PHYLUM
 
 #### Status
 ACCEPTED

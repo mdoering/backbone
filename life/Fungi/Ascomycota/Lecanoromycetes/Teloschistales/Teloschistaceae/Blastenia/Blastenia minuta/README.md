@@ -1,5 +1,4 @@
-Blastenia minuta H. Magn. SPECIES
-=======
+# Blastenia minuta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

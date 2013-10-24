@@ -1,5 +1,4 @@
-Coxliella ampla Jörgensen SPECIES
-=======
+# Coxliella ampla Jörgensen SPECIES
 
 #### Status
 ACCEPTED

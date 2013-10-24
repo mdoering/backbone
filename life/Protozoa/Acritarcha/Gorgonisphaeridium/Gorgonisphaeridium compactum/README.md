@@ -1,5 +1,4 @@
-Gorgonisphaeridium compactum Colbath, 1990 SPECIES
-=======
+# Gorgonisphaeridium compactum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopatinella A.G. Vologdin, 1962 GENUS
-=======
+# Lopatinella A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

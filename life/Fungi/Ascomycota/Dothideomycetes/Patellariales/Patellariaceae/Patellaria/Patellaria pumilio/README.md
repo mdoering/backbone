@@ -1,5 +1,4 @@
-Patellaria pumilio Velen. SPECIES
-=======
+# Patellaria pumilio Velen. SPECIES
 
 #### Status
 ACCEPTED

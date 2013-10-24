@@ -1,5 +1,4 @@
-Marasmius olenas SPECIES
-=======
+# Marasmius olenas SPECIES
 
 #### Status
 ACCEPTED

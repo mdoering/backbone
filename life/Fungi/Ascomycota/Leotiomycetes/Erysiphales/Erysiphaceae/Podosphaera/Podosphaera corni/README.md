@@ -1,5 +1,4 @@
-Podosphaera corni Bunkina SPECIES
-=======
+# Podosphaera corni Bunkina SPECIES
 
 #### Status
 ACCEPTED

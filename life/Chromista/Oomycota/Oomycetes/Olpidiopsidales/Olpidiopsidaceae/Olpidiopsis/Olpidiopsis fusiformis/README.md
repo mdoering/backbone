@@ -1,17 +1,16 @@
-Olpidiopsis fusiformis var. fusiformis Cornu VARIETY
-=======
+# Olpidiopsis fusiformis Cornu, 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monogr. Saprolegn. 147 (1872)
 
 #### Original name
-Olpidiopsis fusiformis var. fusiformis Cornu
+Olpidiopsis fusiformis Cornu, 1872
 
 ### Remarks
 null

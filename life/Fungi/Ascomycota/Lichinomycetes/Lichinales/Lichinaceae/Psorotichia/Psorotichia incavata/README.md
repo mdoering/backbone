@@ -1,5 +1,4 @@
-Psorotichia incavata H. Magn. SPECIES
-=======
+# Psorotichia incavata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

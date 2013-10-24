@@ -1,5 +1,4 @@
-Agostaea GENUS
-=======
+# Agostaea GENUS
 
 #### Status
 ACCEPTED

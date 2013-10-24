@@ -1,5 +1,4 @@
-Doratomyces castaneus Y.L. Jiang & T.Y. Zhang SPECIES
-=======
+# Doratomyces castaneus Y.L. Jiang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula ochroflavescens Reumaux SPECIES
-=======
+# Russula ochroflavescens Reumaux SPECIES
 
 #### Status
 ACCEPTED

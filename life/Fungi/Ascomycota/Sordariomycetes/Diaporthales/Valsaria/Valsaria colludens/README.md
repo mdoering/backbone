@@ -1,5 +1,4 @@
-Valsaria colludens Rehm SPECIES
-=======
+# Valsaria colludens Rehm SPECIES
 
 #### Status
 ACCEPTED

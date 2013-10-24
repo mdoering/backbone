@@ -1,5 +1,4 @@
-Diorchidium quadrifidum Cummins SPECIES
-=======
+# Diorchidium quadrifidum Cummins SPECIES
 
 #### Status
 ACCEPTED

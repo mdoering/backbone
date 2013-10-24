@@ -1,5 +1,4 @@
-Massariothea themedae Syd., 1939 SPECIES
-=======
+# Massariothea themedae Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

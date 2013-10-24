@@ -1,5 +1,4 @@
-Cordyceps brasiliensis Henn. SPECIES
-=======
+# Cordyceps brasiliensis Henn. SPECIES
 
 #### Status
 ACCEPTED

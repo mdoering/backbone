@@ -1,14 +1,13 @@
-Galera megalospora Jul. Schäff., 1930 SPECIES
-=======
+# Conocybe megalospora (Jul. Schäff.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Pilzk. 9(11): 170 (1930)
+Lilloa 22: 485 (1951)
 
 #### Original name
 Galera megalospora Jul. Schäff., 1930

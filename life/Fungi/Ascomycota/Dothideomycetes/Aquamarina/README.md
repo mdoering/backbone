@@ -1,5 +1,4 @@
-Aquamarina Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
-=======
+# Aquamarina Kohlm., Volkm.-Kohlm. & O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

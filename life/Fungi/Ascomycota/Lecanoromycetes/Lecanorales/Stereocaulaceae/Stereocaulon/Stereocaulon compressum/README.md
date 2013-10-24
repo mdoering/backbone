@@ -1,5 +1,4 @@
-Stereocaulon compressum Linds. SPECIES
-=======
+# Stereocaulon compressum Linds. SPECIES
 
 #### Status
 ACCEPTED

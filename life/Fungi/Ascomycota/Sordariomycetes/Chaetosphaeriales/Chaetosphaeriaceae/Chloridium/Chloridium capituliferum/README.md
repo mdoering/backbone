@@ -1,5 +1,4 @@
-Chloridium capituliferum (Corda) Sacc. SPECIES
-=======
+# Chloridium capituliferum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

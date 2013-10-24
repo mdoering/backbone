@@ -1,5 +1,4 @@
-Puccinia caricis-lanceolatae Morim. SPECIES
-=======
+# Puccinia caricis-lanceolatae Morim. SPECIES
 
 #### Status
 ACCEPTED

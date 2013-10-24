@@ -1,14 +1,13 @@
-Lenzites subferruginea Berk., 1854 SPECIES
-=======
+# Gloeophyllum subferrugineum (Berk.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 6: 134 (1854)
+Annls mycol. 39(1): 64 (1941)
 
 #### Original name
 Lenzites subferruginea Berk., 1854

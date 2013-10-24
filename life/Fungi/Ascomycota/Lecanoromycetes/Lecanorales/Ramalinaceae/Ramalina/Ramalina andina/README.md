@@ -1,5 +1,4 @@
-Ramalina andina V. Marcano & A. Morales SPECIES
-=======
+# Ramalina andina V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

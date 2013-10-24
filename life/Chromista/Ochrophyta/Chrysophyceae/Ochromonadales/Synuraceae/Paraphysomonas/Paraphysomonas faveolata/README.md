@@ -1,5 +1,4 @@
-Paraphysomonas faveolata Rees, Leedale & Cmiech SPECIES
-=======
+# Paraphysomonas faveolata Rees, Leedale & Cmiech SPECIES
 
 #### Status
 ACCEPTED

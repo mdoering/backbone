@@ -1,5 +1,4 @@
-Omphalia detrusa (Fr.) Gillet SPECIES
-=======
+# Omphalia detrusa (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

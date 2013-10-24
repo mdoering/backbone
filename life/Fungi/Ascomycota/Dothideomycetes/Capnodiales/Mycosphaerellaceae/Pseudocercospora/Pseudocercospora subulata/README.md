@@ -1,5 +1,4 @@
-Pseudocercospora subulata Z.Q. Yuan, de Little & C. Mohammed, 2000 SPECIES
-=======
+# Pseudocercospora subulata Z.Q. Yuan, de Little & C. Mohammed, 2000 SPECIES
 
 #### Status
 ACCEPTED

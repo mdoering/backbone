@@ -1,17 +1,16 @@
-Phyllopsora buettneri var. glauca (B. de Lesd.) Brako VARIETY
-=======
+# Phyllopsora buettneri (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 35(1): 12 (1989)
+Cat. Lich. Univers. 4: 396 (1926)
 
 #### Original name
-Phyllopsora parvifolia var. glauca B. de Lesd.
+Psora buettneri Müll. Arg.
 
 ### Remarks
 null

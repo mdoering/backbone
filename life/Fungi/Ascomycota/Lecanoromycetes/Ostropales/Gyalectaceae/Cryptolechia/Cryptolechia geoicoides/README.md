@@ -1,5 +1,4 @@
-Cryptolechia geoicoides (Vain.) Kalb SPECIES
-=======
+# Cryptolechia geoicoides (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

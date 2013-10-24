@@ -1,5 +1,4 @@
-Cymatiogalea membranispina Deunff, 1961 SPECIES
-=======
+# Cymatiogalea membranispina Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

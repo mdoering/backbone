@@ -1,5 +1,4 @@
-Phacomonas pelagica Lohmann SPECIES
-=======
+# Phacomonas pelagica Lohmann SPECIES
 
 #### Status
 ACCEPTED

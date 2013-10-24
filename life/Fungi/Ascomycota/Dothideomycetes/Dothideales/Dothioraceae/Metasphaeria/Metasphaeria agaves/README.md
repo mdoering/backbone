@@ -1,5 +1,4 @@
-Metasphaeria agaves Rolland SPECIES
-=======
+# Metasphaeria agaves Rolland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe rosellicaularis Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe rosellicaularis Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

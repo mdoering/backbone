@@ -1,17 +1,16 @@
-Pleospora helvetica var. helvetica Niessl VARIETY
-=======
+# Pleospora helvetica Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Verh. nat. Ver. Brünn 15: 191 (1876)
 
 #### Original name
-Pleospora helvetica var. helvetica Niessl
+Pleospora helvetica Niessl, 1876
 
 ### Remarks
 null

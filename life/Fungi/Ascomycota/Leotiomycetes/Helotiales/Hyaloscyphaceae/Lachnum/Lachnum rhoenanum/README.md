@@ -1,5 +1,4 @@
-Lachnum rhoenanum Ade SPECIES
-=======
+# Lachnum rhoenanum Ade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces cunninghamii P.R. Johnst., 2000 SPECIES
-=======
+# Coccomyces cunninghamii P.R. Johnst., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoblastus kalioruber Kantvilas SPECIES
-=======
+# Mycoblastus kalioruber Kantvilas SPECIES
 
 #### Status
 ACCEPTED

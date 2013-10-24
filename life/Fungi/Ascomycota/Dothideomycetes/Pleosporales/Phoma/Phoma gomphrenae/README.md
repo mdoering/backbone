@@ -1,5 +1,4 @@
-Phoma gomphrenae Gonz. Frag. SPECIES
-=======
+# Phoma gomphrenae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

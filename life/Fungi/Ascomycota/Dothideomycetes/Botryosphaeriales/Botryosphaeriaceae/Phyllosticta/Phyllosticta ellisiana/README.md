@@ -1,5 +1,4 @@
-Phyllosticta ellisiana F. Lamb. & Fautrey SPECIES
-=======
+# Phyllosticta ellisiana F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

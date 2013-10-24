@@ -1,5 +1,4 @@
-Coriolus membranaceus Murrill SPECIES
-=======
+# Coriolus membranaceus Murrill SPECIES
 
 #### Status
 ACCEPTED

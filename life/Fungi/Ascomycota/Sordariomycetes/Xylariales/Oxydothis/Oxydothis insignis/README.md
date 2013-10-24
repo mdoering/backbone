@@ -1,5 +1,4 @@
-Oxydothis insignis Speg. SPECIES
-=======
+# Oxydothis insignis Speg. SPECIES
 
 #### Status
 ACCEPTED

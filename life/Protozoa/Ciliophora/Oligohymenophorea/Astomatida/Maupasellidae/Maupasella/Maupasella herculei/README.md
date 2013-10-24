@@ -1,5 +1,4 @@
-Maupasella herculei Puytorac, 1954 SPECIES
-=======
+# Maupasella herculei Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

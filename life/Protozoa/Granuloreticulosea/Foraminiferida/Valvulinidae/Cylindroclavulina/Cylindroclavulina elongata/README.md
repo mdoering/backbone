@@ -1,5 +1,4 @@
-Cylindroclavulina elongata Zheng, 1988 SPECIES
-=======
+# Cylindroclavulina elongata Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

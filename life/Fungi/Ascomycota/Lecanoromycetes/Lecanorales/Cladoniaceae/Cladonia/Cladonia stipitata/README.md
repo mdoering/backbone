@@ -1,5 +1,4 @@
-Cladonia stipitata Lendemer & B. P. Hodk. SPECIES
-=======
+# Cladonia stipitata Lendemer & B. P. Hodk. SPECIES
 
 #### Status
 ACCEPTED

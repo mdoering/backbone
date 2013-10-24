@@ -1,5 +1,4 @@
-Sphaeria inaequabilis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria inaequabilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

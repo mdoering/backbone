@@ -1,5 +1,4 @@
-Helotium dearnessii (Ellis & Everh.) W.L. White SPECIES
-=======
+# Helotium dearnessii (Ellis & Everh.) W.L. White SPECIES
 
 #### Status
 ACCEPTED

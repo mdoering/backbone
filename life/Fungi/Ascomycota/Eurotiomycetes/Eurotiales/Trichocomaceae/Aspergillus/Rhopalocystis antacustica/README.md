@@ -1,5 +1,4 @@
-Rhopalocystis antacustica (C.E. Cramer) Grove SPECIES
-=======
+# Rhopalocystis antacustica (C.E. Cramer) Grove SPECIES
 
 #### Status
 ACCEPTED

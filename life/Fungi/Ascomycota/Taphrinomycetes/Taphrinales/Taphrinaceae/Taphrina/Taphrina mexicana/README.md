@@ -1,5 +1,4 @@
-Taphrina mexicana Syd. SPECIES
-=======
+# Taphrina mexicana Syd. SPECIES
 
 #### Status
 ACCEPTED

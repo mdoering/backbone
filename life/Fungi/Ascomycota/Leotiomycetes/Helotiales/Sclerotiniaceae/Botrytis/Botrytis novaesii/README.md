@@ -1,5 +1,4 @@
-Botrytis novaesii F. Noack SPECIES
-=======
+# Botrytis novaesii F. Noack SPECIES
 
 #### Status
 ACCEPTED

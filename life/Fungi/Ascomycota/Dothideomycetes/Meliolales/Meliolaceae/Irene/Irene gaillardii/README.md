@@ -1,5 +1,4 @@
-Irene gaillardii Hansf. SPECIES
-=======
+# Irene gaillardii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosomatella Corliss, 1960 GENUS
-=======
+# Discosomatella Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Costaria reticulata Saunders SPECIES
-=======
+# Dictyoneuropsis reticulata (Saunders) G.M. Smith SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

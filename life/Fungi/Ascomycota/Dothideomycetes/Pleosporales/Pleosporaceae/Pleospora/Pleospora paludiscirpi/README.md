@@ -1,5 +1,4 @@
-Pleospora paludiscirpi E.G. Simmons, 2001 SPECIES
-=======
+# Pleospora paludiscirpi E.G. Simmons, 2001 SPECIES
 
 #### Status
 ACCEPTED

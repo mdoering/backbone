@@ -1,5 +1,4 @@
-Pezizella disseminata Velen. SPECIES
-=======
+# Pezizella disseminata Velen. SPECIES
 
 #### Status
 ACCEPTED

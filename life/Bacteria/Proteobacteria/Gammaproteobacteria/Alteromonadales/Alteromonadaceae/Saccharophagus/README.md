@@ -1,5 +1,4 @@
-Saccharophagus Ekborg et al., 2005 GENUS
-=======
+# Saccharophagus Ekborg et al., 2005 GENUS
 
 #### Status
 ACCEPTED

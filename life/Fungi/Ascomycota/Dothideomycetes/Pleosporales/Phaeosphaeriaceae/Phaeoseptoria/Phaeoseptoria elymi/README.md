@@ -1,5 +1,4 @@
-Phaeoseptoria elymi R. Sprague SPECIES
-=======
+# Phaeoseptoria elymi R. Sprague SPECIES
 
 #### Status
 ACCEPTED

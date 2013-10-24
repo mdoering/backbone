@@ -1,5 +1,4 @@
-Metasphaeria sepulta Pass. SPECIES
-=======
+# Metasphaeria sepulta Pass. SPECIES
 
 #### Status
 ACCEPTED

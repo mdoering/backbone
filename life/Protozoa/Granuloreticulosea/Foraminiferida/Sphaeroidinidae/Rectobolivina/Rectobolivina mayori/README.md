@@ -1,5 +1,4 @@
-Rectobolivina mayori SPECIES
-=======
+# Rectobolivina mayori SPECIES
 
 #### Status
 ACCEPTED

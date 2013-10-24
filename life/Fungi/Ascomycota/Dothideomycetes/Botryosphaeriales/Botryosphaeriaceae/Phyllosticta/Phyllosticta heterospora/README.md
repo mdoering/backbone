@@ -1,5 +1,4 @@
-Phyllosticta heterospora Speg. SPECIES
-=======
+# Phyllosticta heterospora Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilia miniata W. {?} SPECIES
-=======
+# Monilia miniata W. {?} SPECIES
 
 #### Status
 ACCEPTED

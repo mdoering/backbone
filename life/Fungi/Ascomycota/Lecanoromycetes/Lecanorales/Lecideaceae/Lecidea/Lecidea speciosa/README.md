@@ -1,5 +1,4 @@
-Lecidea speciosa Müll. Arg. SPECIES
-=======
+# Lecidea speciosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

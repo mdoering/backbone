@@ -1,5 +1,4 @@
-Bullera pseudovariabilis F.Y. Bai, M. Takash. & Nakase SPECIES
-=======
+# Bullera pseudovariabilis F.Y. Bai, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

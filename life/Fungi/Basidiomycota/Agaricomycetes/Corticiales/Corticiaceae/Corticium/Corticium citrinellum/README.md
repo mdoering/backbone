@@ -1,5 +1,4 @@
-Corticium citrinellum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium citrinellum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

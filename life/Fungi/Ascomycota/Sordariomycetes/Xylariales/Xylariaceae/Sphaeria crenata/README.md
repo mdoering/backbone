@@ -1,5 +1,4 @@
-Sphaeria crenata Fr. SPECIES
-=======
+# Sphaeria crenata Fr. SPECIES
 
 #### Status
 ACCEPTED

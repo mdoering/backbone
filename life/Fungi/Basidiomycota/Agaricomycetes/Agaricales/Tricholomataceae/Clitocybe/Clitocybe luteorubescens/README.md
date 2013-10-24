@@ -1,5 +1,4 @@
-Clitocybe luteorubescens (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Clitocybe luteorubescens (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

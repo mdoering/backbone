@@ -1,5 +1,4 @@
-Cortinarius leucoloma M.M. Moser SPECIES
-=======
+# Cortinarius leucoloma M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglaena lesdainii (Harm.) Tav. SPECIES
-=======
+# Microglaena lesdainii (Harm.) Tav. SPECIES
 
 #### Status
 ACCEPTED

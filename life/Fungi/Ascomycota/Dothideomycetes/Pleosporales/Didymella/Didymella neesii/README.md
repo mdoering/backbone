@@ -1,5 +1,4 @@
-Didymella neesii (Körb.) H. Magn. SPECIES
-=======
+# Didymella neesii (Körb.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

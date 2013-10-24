@@ -1,5 +1,4 @@
-Hymenoscyphus calathicola (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus calathicola (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

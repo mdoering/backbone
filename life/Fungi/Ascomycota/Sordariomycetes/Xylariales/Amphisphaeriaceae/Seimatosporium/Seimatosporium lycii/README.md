@@ -1,5 +1,4 @@
-Seimatosporium lycii Kalchbr. SPECIES
-=======
+# Seimatosporium lycii Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

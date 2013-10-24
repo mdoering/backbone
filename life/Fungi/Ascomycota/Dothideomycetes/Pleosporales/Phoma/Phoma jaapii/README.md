@@ -1,5 +1,4 @@
-Phoma jaapii Bres. SPECIES
-=======
+# Phoma jaapii Bres. SPECIES
 
 #### Status
 ACCEPTED

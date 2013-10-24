@@ -1,5 +1,4 @@
-Laminaria lamourouxii Bory de St.-Vincent SPECIES
-=======
+# Laminaria lamourouxii Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

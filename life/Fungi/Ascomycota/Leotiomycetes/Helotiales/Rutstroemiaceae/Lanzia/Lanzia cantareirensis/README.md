@@ -1,5 +1,4 @@
-Lanzia cantareirensis Henn. SPECIES
-=======
+# Lanzia cantareirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

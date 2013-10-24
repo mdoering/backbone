@@ -1,5 +1,4 @@
-Gnomoniella destruens M.E. Barr & Hodges SPECIES
-=======
+# Gnomoniella destruens M.E. Barr & Hodges SPECIES
 
 #### Status
 ACCEPTED

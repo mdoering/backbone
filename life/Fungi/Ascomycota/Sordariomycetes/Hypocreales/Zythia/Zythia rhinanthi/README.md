@@ -1,5 +1,4 @@
-Zythia rhinanthi (Lib.) Fr. SPECIES
-=======
+# Zythia rhinanthi (Lib.) Fr. SPECIES
 
 #### Status
 ACCEPTED

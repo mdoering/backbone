@@ -1,5 +1,4 @@
-Helicogonium cyathiculae Baral, 1999 SPECIES
-=======
+# Helicogonium cyathiculae Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium gaurinium Peck SPECIES
-=======
+# Aecidium gaurinium Peck SPECIES
 
 #### Status
 ACCEPTED

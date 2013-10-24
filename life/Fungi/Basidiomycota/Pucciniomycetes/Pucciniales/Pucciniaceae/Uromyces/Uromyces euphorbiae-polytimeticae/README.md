@@ -1,5 +1,4 @@
-Uromyces euphorbiae-polytimeticae Zenkova SPECIES
-=======
+# Uromyces euphorbiae-polytimeticae Zenkova SPECIES
 
 #### Status
 ACCEPTED

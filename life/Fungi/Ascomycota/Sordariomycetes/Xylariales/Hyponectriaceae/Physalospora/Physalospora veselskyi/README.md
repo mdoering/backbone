@@ -1,5 +1,4 @@
-Physalospora veselskyi (Auersw.) Sacc. SPECIES
-=======
+# Physalospora veselskyi (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

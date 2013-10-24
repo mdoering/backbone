@@ -1,17 +1,16 @@
-Emericellopsis microspora Backus & Orpurt, 1962 SPECIES
-=======
+# Emericellopsis minima Stolk, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(1): 67 (1962)
+Trans. Br. mycol. Soc. 38: 419 (1955)
 
 #### Original name
-Emericellopsis microspora Backus & Orpurt, 1962
+Emericellopsis minima Stolk, 1955
 
 ### Remarks
 null

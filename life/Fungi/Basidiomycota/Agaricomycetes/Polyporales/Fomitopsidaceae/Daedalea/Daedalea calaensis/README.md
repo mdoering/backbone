@@ -1,5 +1,4 @@
-Daedalea calaensis Beeli SPECIES
-=======
+# Daedalea calaensis Beeli SPECIES
 
 #### Status
 ACCEPTED

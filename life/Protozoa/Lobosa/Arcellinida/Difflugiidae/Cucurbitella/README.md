@@ -1,5 +1,4 @@
-Cucurbitella Penard, 1902 GENUS
-=======
+# Cucurbitella Penard, 1902 GENUS
 
 #### Status
 ACCEPTED

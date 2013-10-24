@@ -1,5 +1,4 @@
-Dilatisphaera complicata Uutela & Tynni, 1991 SPECIES
-=======
+# Dilatisphaera complicata Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

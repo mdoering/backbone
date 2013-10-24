@@ -1,5 +1,4 @@
-Meliola tinomisciicola Y.X. Hu & Ouyang SPECIES
-=======
+# Meliola tinomisciicola Y.X. Hu & Ouyang SPECIES
 
 #### Status
 ACCEPTED

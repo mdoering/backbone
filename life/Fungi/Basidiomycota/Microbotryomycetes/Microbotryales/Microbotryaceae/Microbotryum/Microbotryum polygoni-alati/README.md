@@ -1,14 +1,13 @@
-Bauhinus polygoni-alati (Thirum. & Pavgi) Denchev & R.T. Moore, 2006 SPECIES
-=======
+# Microbotryum polygoni-alati (Thirum. & Pavgi) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Denchev, Moore & Shin, Mycol. Balcanica 3(1): 74 (2006)
+Mycotaxon 67: 49 (1998)
 
 #### Original name
 Ustilago polygoni-alati Thirum. & Pavgi, 1968

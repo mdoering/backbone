@@ -1,5 +1,4 @@
-Asteromella vogelii (A. Henkel) Petr. SPECIES
-=======
+# Asteromella vogelii (A. Henkel) Petr. SPECIES
 
 #### Status
 ACCEPTED

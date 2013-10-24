@@ -1,5 +1,4 @@
-Graphis socotrana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis socotrana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

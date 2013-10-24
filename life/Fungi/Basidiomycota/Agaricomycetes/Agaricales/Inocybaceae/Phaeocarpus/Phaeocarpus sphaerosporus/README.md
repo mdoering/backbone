@@ -1,5 +1,4 @@
-Phaeocarpus sphaerosporus (Speg.) Speg. SPECIES
-=======
+# Phaeocarpus sphaerosporus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria nivalis (L.) Hoffm. SPECIES
-=======
+# Lobaria nivalis (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phyllachora pringlei (Peck) Cooke, 1885 SPECIES
-=======
+# Apodothina pringlei (Peck) Petr., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+Sydowia 23: 277 (1970)
 
 #### Original name
 Dothidea pringlei Peck, 1882

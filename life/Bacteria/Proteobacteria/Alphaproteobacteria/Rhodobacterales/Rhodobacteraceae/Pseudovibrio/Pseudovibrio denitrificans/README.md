@@ -1,5 +1,4 @@
-Pseudovibrio denitrificans Shieh et al., 2004 SPECIES
-=======
+# Pseudovibrio denitrificans Shieh et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

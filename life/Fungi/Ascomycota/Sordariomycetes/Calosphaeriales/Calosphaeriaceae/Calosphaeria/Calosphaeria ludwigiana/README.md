@@ -1,5 +1,4 @@
-Calosphaeria ludwigiana Kirschst. SPECIES
-=======
+# Calosphaeria ludwigiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

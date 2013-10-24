@@ -1,5 +1,4 @@
-Rehmiomycella E. Müll. GENUS
-=======
+# Rehmiomycella E. Müll. GENUS
 
 #### Status
 ACCEPTED

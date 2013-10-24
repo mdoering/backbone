@@ -1,5 +1,4 @@
-Gyrodinium conicum Schiller SPECIES
-=======
+# Gyrodinium conicum Schiller SPECIES
 
 #### Status
 ACCEPTED

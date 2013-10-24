@@ -1,5 +1,4 @@
-Cytospora mammosa McAlpine SPECIES
-=======
+# Cytospora mammosa McAlpine SPECIES
 
 #### Status
 ACCEPTED

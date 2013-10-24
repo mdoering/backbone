@@ -1,5 +1,4 @@
-Pertusaria splendens D.D. Awasthi & Preeti Srivast. SPECIES
-=======
+# Pertusaria splendens D.D. Awasthi & Preeti Srivast. SPECIES
 
 #### Status
 ACCEPTED

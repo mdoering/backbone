@@ -1,5 +1,4 @@
-Burgoa splendens Diederich & Coppins, 2007 SPECIES
-=======
+# Burgoa splendens Diederich & Coppins, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia crucifera Speg. SPECIES
-=======
+# Laboulbenia crucifera Speg. SPECIES
 
 #### Status
 ACCEPTED

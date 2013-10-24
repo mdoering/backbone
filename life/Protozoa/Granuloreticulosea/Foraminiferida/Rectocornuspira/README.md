@@ -1,5 +1,4 @@
-Rectocornuspira Warthin, 1930 GENUS
-=======
+# Rectocornuspira Warthin, 1930 GENUS
 
 #### Status
 ACCEPTED

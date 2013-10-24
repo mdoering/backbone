@@ -1,5 +1,4 @@
-Cyclotella facetia Hohn & Hellerm. SPECIES
-=======
+# Cyclotella facetia Hohn & Hellerm. SPECIES
 
 #### Status
 ACCEPTED

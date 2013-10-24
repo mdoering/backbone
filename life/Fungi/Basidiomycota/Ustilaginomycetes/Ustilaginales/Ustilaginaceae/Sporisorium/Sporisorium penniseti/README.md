@@ -1,5 +1,4 @@
-Sporisorium penniseti (Rabenh.) Ershad SPECIES
-=======
+# Sporisorium penniseti (Rabenh.) Ershad SPECIES
 
 #### Status
 ACCEPTED

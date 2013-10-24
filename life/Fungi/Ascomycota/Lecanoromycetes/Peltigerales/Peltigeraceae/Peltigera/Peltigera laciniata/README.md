@@ -1,5 +1,4 @@
-Peltigera laciniata var. laciniata VARIETY
-=======
+# Peltigera laciniata (G. Merr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nytt Mag. Natur. 68: 270 (1930)
 
 #### Original name
-Peltigera laciniata var. laciniata
+null
 
 ### Remarks
 null

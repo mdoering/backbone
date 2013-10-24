@@ -1,5 +1,4 @@
-Rhombodinium H. Gocht, 1955 GENUS
-=======
+# Rhombodinium H. Gocht, 1955 GENUS
 
 #### Status
 ACCEPTED

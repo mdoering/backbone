@@ -1,5 +1,4 @@
-Passalora congoensis (Syd. & P. Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora congoensis (Syd. & P. Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

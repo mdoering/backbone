@@ -1,5 +1,4 @@
-Pholiotina septentrionalis subsp. septentrionalis SUBSPECIES
-=======
+# Pholiotina septentrionalis (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pholiotina septentrionalis subsp. septentrionalis
+Pholiota septentrionalis A.H. Sm.
 
 ### Remarks
 null

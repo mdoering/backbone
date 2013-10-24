@@ -1,5 +1,4 @@
-Meliola sideroxyli F. Stevens SPECIES
-=======
+# Meliola sideroxyli F. Stevens SPECIES
 
 #### Status
 ACCEPTED

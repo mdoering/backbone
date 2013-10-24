@@ -1,5 +1,4 @@
-Paxillus aureus Lloyd SPECIES
-=======
+# Paxillus aureus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus ligoniformis Bonord. SPECIES
-=======
+# Polyporus ligoniformis Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula neofulva Ajay Singh SPECIES
-=======
+# Pyrenula neofulva Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

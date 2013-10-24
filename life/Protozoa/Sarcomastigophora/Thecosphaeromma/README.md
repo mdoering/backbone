@@ -1,5 +1,4 @@
-Thecosphaeromma Haeckel, 1887 GENUS
-=======
+# Thecosphaeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

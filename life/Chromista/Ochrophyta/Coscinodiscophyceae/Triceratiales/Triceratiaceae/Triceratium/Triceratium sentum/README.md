@@ -1,5 +1,4 @@
-Triceratium sentum Witt SPECIES
-=======
+# Triceratium sentum Witt SPECIES
 
 #### Status
 ACCEPTED

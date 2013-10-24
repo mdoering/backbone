@@ -1,5 +1,4 @@
-Sorosporium assamicum A.K. Roy SPECIES
-=======
+# Sorosporium assamicum A.K. Roy SPECIES
 
 #### Status
 ACCEPTED

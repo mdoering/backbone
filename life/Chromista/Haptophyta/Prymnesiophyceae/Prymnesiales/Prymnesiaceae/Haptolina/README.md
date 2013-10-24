@@ -1,5 +1,4 @@
-Haptolina Edvardsen & Eikrem, 2011 GENUS
-=======
+# Haptolina Edvardsen & Eikrem, 2011 GENUS
 
 #### Status
 ACCEPTED

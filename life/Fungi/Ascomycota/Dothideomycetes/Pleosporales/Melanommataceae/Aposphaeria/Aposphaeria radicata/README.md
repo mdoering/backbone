@@ -1,5 +1,4 @@
-Aposphaeria radicata Naumov SPECIES
-=======
+# Aposphaeria radicata Naumov SPECIES
 
 #### Status
 ACCEPTED

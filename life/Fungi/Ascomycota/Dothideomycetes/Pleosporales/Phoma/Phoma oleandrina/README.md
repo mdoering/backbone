@@ -1,5 +1,4 @@
-Phoma oleandrina Delacr. SPECIES
-=======
+# Phoma oleandrina Delacr. SPECIES
 
 #### Status
 ACCEPTED

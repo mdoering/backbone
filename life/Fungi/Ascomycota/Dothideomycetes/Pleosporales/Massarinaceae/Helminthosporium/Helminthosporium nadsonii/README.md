@@ -1,5 +1,4 @@
-Helminthosporium nadsonii Jacz. SPECIES
-=======
+# Helminthosporium nadsonii Jacz. SPECIES
 
 #### Status
 ACCEPTED

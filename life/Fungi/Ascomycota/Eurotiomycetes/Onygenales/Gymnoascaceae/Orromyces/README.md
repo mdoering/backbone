@@ -1,5 +1,4 @@
-Orromyces B. Sur & G.R. Ghosh GENUS
-=======
+# Orromyces B. Sur & G.R. Ghosh GENUS
 
 #### Status
 ACCEPTED

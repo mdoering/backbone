@@ -1,5 +1,4 @@
-Phyllosticta rubiae Miura SPECIES
-=======
+# Phyllosticta rubiae Miura SPECIES
 
 #### Status
 ACCEPTED

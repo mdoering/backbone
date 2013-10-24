@@ -1,5 +1,4 @@
-Cercospora diodiae Cooke SPECIES
-=======
+# Cercospora diodiae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria asbolae Berk. & Broome SPECIES
-=======
+# Sphaeria asbolae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

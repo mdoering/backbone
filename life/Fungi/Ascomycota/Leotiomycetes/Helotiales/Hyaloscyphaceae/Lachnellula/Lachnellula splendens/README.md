@@ -1,5 +1,4 @@
-Lachnellula splendens (J. Schröt.) Baral & Matheis SPECIES
-=======
+# Lachnellula splendens (J. Schröt.) Baral & Matheis SPECIES
 
 #### Status
 ACCEPTED

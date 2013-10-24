@@ -1,5 +1,4 @@
-Hydropus recedens Singer SPECIES
-=======
+# Hydropus recedens Singer SPECIES
 
 #### Status
 ACCEPTED

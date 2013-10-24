@@ -1,5 +1,4 @@
-Hymenula strobilina Lib. SPECIES
-=======
+# Hymenula strobilina Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Elachista kuckuckiana Schiffner SPECIES
-=======
+# Elachista intermedia P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

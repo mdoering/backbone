@@ -1,5 +1,4 @@
-Inocybe servata (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe servata (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

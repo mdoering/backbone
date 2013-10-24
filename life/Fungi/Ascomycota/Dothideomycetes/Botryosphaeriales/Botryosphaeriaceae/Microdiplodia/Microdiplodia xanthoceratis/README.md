@@ -1,5 +1,4 @@
-Microdiplodia xanthoceratis Hollós SPECIES
-=======
+# Microdiplodia xanthoceratis Hollós SPECIES
 
 #### Status
 ACCEPTED

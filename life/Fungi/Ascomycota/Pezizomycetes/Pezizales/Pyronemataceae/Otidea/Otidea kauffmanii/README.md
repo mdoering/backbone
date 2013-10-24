@@ -1,5 +1,4 @@
-Otidea kauffmanii Kanouse SPECIES
-=======
+# Otidea kauffmanii Kanouse SPECIES
 
 #### Status
 ACCEPTED

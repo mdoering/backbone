@@ -1,5 +1,4 @@
-Meliola gesuitica Speg. SPECIES
-=======
+# Meliola gesuitica Speg. SPECIES
 
 #### Status
 ACCEPTED

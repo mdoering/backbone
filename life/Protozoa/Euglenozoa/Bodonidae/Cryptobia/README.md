@@ -1,5 +1,4 @@
-Cryptobia Leidy, 1846 GENUS
-=======
+# Cryptobia Leidy, 1846 GENUS
 
 #### Status
 ACCEPTED

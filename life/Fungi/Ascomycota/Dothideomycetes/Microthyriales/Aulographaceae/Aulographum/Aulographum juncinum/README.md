@@ -1,5 +1,4 @@
-Aulographum juncinum Lib. SPECIES
-=======
+# Aulographum juncinum Lib. SPECIES
 
 #### Status
 ACCEPTED

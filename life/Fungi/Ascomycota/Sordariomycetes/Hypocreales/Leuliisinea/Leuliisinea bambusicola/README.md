@@ -1,5 +1,4 @@
-Leuliisinea bambusicola Matsush., 1985 SPECIES
-=======
+# Leuliisinea bambusicola Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

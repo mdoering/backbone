@@ -1,5 +1,4 @@
-Spirulina nordstedtii Gomont, 1892 SPECIES
-=======
+# Spirulina nordstedtii Gomont, 1892 SPECIES
 
 #### Status
 ACCEPTED

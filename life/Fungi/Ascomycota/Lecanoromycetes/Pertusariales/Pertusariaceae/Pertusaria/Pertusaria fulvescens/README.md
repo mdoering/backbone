@@ -1,5 +1,4 @@
-Pertusaria fulvescens (Müll. Arg.) Vain. SPECIES
-=======
+# Pertusaria fulvescens (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium pacificum H. Harada SPECIES
-=======
+# Thelidium pacificum H. Harada SPECIES
 
 #### Status
 ACCEPTED

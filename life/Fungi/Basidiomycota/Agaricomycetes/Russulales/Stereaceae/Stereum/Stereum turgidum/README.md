@@ -1,5 +1,4 @@
-Stereum turgidum Lloyd SPECIES
-=======
+# Stereum turgidum Lloyd SPECIES
 
 #### Status
 ACCEPTED

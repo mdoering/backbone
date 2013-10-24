@@ -1,5 +1,4 @@
-Carchesium voigti SPECIES
-=======
+# Carchesium voigti SPECIES
 
 #### Status
 ACCEPTED

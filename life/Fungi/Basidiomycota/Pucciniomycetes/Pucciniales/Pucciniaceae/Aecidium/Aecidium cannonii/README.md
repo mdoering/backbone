@@ -1,5 +1,4 @@
-Aecidium cannonii Griffiths SPECIES
-=======
+# Aecidium cannonii Griffiths SPECIES
 
 #### Status
 ACCEPTED

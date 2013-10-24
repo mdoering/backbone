@@ -1,5 +1,4 @@
-Aliquandostipitaceae Inderb. FAMILY
-=======
+# Aliquandostipitaceae Inderb. FAMILY
 
 #### Status
 ACCEPTED

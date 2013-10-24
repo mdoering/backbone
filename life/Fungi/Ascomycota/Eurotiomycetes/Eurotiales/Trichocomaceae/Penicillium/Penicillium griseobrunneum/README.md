@@ -1,5 +1,4 @@
-Penicillium griseobrunneum Sopp SPECIES
-=======
+# Penicillium griseobrunneum Sopp SPECIES
 
 #### Status
 ACCEPTED

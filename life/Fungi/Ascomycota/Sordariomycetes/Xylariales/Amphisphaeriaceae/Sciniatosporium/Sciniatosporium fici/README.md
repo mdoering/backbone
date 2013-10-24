@@ -1,5 +1,4 @@
-Sciniatosporium fici (S. Ahmad) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium fici (S. Ahmad) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

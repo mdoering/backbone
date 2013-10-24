@@ -1,5 +1,4 @@
-Ophiobolus indigoferae E. Müll. & S. Ahmad SPECIES
-=======
+# Ophiobolus indigoferae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

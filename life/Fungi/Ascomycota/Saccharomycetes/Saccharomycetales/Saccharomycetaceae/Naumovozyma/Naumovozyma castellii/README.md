@@ -1,17 +1,16 @@
-Naumovia castelli (Capr.) Kurtzman SPECIES
-=======
+# Naumovozyma castellii (Capr.) Kurtzman, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Kirk, Cannon, Minter & Stalpers, Ainsworth & Bisby's Dictionary of the Fungi (Wallingford), Edn 10 x (2008)
 
 #### Original name
-null
+Saccharomyces castellii Capr., 1967
 
 ### Remarks
 null

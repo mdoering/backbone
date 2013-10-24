@@ -1,5 +1,4 @@
-Mollisia gentianae Pat. SPECIES
-=======
+# Mollisia gentianae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platismatia regenerans W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia regenerans W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

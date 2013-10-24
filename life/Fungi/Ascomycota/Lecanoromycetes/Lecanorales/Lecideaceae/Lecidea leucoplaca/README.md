@@ -1,5 +1,4 @@
-Lecidea leucoplaca (DC.) Steud. SPECIES
-=======
+# Lecidea leucoplaca (DC.) Steud. SPECIES
 
 #### Status
 ACCEPTED

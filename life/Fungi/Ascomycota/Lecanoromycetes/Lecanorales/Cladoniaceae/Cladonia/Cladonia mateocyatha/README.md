@@ -1,5 +1,4 @@
-Cladonia mateocyatha Robbins SPECIES
-=======
+# Cladonia mateocyatha Robbins SPECIES
 
 #### Status
 ACCEPTED

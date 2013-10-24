@@ -1,5 +1,4 @@
-Henicospora coronata B. Sutton & P.M. Kirk, 1980 SPECIES
-=======
+# Henicospora coronata B. Sutton & P.M. Kirk, 1980 SPECIES
 
 #### Status
 ACCEPTED

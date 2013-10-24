@@ -1,5 +1,4 @@
-Exserticlava S. Hughes GENUS
-=======
+# Exserticlava S. Hughes GENUS
 
 #### Status
 ACCEPTED

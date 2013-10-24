@@ -1,5 +1,4 @@
-Leptographium chlamydatum SPECIES
-=======
+# Leptographium chlamydatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium cinerascens Schwein. SPECIES
-=======
+# Hysterium cinerascens Schwein. SPECIES
 
 #### Status
 ACCEPTED

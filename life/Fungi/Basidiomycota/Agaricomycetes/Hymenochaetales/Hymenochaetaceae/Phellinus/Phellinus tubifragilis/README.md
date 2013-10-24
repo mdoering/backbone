@@ -1,5 +1,4 @@
-Phellinus tubifragilis Corner SPECIES
-=======
+# Phellinus tubifragilis Corner SPECIES
 
 #### Status
 ACCEPTED

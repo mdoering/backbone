@@ -1,17 +1,16 @@
-Microdiplodia zizyphi Subhedar & V.G. Rao SPECIES
-=======
+# Microdiplodia ziziphi Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 52: 319 (1979)
 
 #### Original name
-Microdiplodia zizyphi Subhedar & V.G. Rao
+Microdiplodia ziziphi Subhedar & V.G. Rao
 
 ### Remarks
 null

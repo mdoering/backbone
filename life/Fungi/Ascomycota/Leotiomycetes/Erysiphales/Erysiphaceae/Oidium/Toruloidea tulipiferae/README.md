@@ -1,5 +1,4 @@
-Toruloidea tulipiferae (Ellis & G. Martin) Sumst. SPECIES
-=======
+# Toruloidea tulipiferae (Ellis & G. Martin) Sumst. SPECIES
 
 #### Status
 ACCEPTED

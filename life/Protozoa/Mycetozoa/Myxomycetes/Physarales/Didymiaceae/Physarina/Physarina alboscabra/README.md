@@ -1,5 +1,4 @@
-Physarina alboscabra Nann.-Bremek & Y. Yamam., 1986 SPECIES
-=======
+# Physarina alboscabra Nann.-Bremek & Y. Yamam., 1986 SPECIES
 
 #### Status
 ACCEPTED

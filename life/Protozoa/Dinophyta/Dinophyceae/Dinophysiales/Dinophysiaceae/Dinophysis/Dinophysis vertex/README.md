@@ -1,5 +1,4 @@
-Dinophysis vertex Meunier, 1910 SPECIES
-=======
+# Dinophysis vertex Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

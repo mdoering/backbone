@@ -1,5 +1,4 @@
-Cercospora physocarpi W.W. Ray SPECIES
-=======
+# Cercospora physocarpi W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

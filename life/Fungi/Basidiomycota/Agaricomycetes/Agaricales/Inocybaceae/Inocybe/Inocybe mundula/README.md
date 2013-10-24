@@ -1,5 +1,4 @@
-Inocybe mundula var. mundula VARIETY
-=======
+# Inocybe mundula (J. Favre) E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe mundula var. mundula
+Astrosporina mundula J. Favre
 
 ### Remarks
 null

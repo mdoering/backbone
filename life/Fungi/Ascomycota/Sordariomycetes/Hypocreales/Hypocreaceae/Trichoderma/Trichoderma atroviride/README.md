@@ -1,5 +1,4 @@
-Trichoderma atroviride P. Karst., 1892 SPECIES
-=======
+# Trichoderma atroviride P. Karst., 1892 SPECIES
 
 #### Status
 ACCEPTED

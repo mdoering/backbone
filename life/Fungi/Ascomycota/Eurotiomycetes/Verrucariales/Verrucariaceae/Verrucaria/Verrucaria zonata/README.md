@@ -1,5 +1,4 @@
-Verrucaria zonata Müll. Arg. SPECIES
-=======
+# Verrucaria zonata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

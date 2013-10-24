@@ -1,5 +1,4 @@
-Hysterographium bakeri Tracy & Earle SPECIES
-=======
+# Hysterographium bakeri Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

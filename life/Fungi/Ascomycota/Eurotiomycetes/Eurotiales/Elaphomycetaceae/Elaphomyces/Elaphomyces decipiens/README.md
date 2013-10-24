@@ -1,5 +1,4 @@
-Elaphomyces decipiens Vittad. SPECIES
-=======
+# Elaphomyces decipiens Vittad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platynematum denticulatum (Kahl, 1933) SPECIES
-=======
+# Platynematum denticulatum (Kahl, 1933) SPECIES
 
 #### Status
 ACCEPTED

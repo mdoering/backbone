@@ -1,5 +1,4 @@
-Botryophialophora Linder, 1944 GENUS
-=======
+# Botryophialophora Linder, 1944 GENUS
 
 #### Status
 ACCEPTED

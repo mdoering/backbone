@@ -1,5 +1,4 @@
-Hyponectria populi (G.E. Thomps.) M.E. Barr SPECIES
-=======
+# Hyponectria populi (G.E. Thomps.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

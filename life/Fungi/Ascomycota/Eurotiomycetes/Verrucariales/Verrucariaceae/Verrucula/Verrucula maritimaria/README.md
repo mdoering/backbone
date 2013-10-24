@@ -1,5 +1,4 @@
-Verrucula maritimaria Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula maritimaria Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

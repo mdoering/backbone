@@ -1,5 +1,4 @@
-Lecanora crassilabra Müll. Arg. SPECIES
-=======
+# Lecanora crassilabra Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

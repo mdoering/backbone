@@ -1,5 +1,4 @@
-Lecanora calva (Dicks.) Nyl. SPECIES
-=======
+# Lecanora calva (Dicks.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

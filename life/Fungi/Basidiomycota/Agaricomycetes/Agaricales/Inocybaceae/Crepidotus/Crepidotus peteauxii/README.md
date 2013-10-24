@@ -1,5 +1,4 @@
-Crepidotus peteauxii Quél. SPECIES
-=======
+# Crepidotus peteauxii Quél. SPECIES
 
 #### Status
 ACCEPTED

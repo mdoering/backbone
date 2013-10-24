@@ -1,5 +1,4 @@
-Podosphaera myrtilli Dufrenoy SPECIES
-=======
+# Podosphaera myrtilli Dufrenoy SPECIES
 
 #### Status
 ACCEPTED

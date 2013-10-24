@@ -1,17 +1,16 @@
-Caeomurus verruculosus (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Uromyces verruculosus Berk. & Broome, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jber. schles. Ges. vaterl. Kultur 50: 140 (1873)
 
 #### Original name
-null
+Uromyces verruculosus Berk. & Broome, 1871
 
 ### Remarks
 null

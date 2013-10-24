@@ -1,5 +1,4 @@
-Lichen incarnatus Thundb. SPECIES
-=======
+# Lichen incarnatus Thundb. SPECIES
 
 #### Status
 ACCEPTED

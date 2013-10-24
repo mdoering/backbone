@@ -1,5 +1,4 @@
-Seimatosporiopsis salvadorae B. Sutton, Ghaffer & Abbas, 1972 SPECIES
-=======
+# Seimatosporiopsis salvadorae B. Sutton, Ghaffer & Abbas, 1972 SPECIES
 
 #### Status
 ACCEPTED

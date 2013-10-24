@@ -1,5 +1,4 @@
-Rhizoctonia radiciformis Schwein. SPECIES
-=======
+# Rhizoctonia radiciformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alkalibacillus Jeon et al., 2005 GENUS
-=======
+# Alkalibacillus Jeon et al., 2005 GENUS
 
 #### Status
 ACCEPTED

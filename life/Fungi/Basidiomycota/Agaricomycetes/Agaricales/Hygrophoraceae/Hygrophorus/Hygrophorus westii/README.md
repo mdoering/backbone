@@ -1,5 +1,4 @@
-Hygrophorus westii Murrill SPECIES
-=======
+# Hygrophorus westii Murrill SPECIES
 
 #### Status
 ACCEPTED

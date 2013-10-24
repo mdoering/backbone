@@ -1,14 +1,13 @@
-Sporisorium dichanthicola (Mundk. & Thirum.) Vánky SPECIES
-=======
+# Sporisorium dichanthiicola (Mundk. & Thirum.) Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 15: 229 (2004)
 
 #### Original name
 Sphacelotheca dichanthiicola Mundk. & Thirum.

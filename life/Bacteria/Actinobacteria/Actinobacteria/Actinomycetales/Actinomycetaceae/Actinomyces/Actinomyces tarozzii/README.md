@@ -1,5 +1,4 @@
-Actinomyces tarozzii (Miescher) C.W. Dodge SPECIES
-=======
+# Actinomyces tarozzii (Miescher) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

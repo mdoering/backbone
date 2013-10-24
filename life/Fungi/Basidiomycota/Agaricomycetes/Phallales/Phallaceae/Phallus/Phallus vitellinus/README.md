@@ -1,5 +1,4 @@
-Phallus vitellinus F. Müll. SPECIES
-=======
+# Phallus vitellinus F. Müll. SPECIES
 
 #### Status
 ACCEPTED

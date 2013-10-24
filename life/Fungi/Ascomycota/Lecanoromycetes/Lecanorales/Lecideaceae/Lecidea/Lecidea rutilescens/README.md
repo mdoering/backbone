@@ -1,5 +1,4 @@
-Lecidea rutilescens (Stirt.) Zahlbr. SPECIES
-=======
+# Lecidea rutilescens (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

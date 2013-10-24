@@ -1,5 +1,4 @@
-Bacidia thysanota (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia thysanota (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

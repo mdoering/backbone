@@ -1,5 +1,4 @@
-Polystictus sobrius (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Polystictus sobrius (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

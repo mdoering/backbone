@@ -1,5 +1,4 @@
-Teichospora prosopidis R. Rao SPECIES
-=======
+# Teichospora prosopidis R. Rao SPECIES
 
 #### Status
 ACCEPTED

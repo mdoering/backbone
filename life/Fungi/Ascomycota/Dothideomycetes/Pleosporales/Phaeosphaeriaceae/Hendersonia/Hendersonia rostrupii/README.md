@@ -1,5 +1,4 @@
-Hendersonia rostrupii Lind SPECIES
-=======
+# Hendersonia rostrupii Lind SPECIES
 
 #### Status
 ACCEPTED

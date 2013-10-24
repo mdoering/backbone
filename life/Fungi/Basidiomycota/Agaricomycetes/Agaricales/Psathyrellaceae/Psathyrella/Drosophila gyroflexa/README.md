@@ -1,5 +1,4 @@
-Drosophila gyroflexa (Fr.) Quél. SPECIES
-=======
+# Drosophila gyroflexa (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

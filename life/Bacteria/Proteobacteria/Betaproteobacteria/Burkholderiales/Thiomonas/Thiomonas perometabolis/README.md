@@ -1,8 +1,7 @@
-Thiobacillus perometabolis London and Rittenberg, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Thiomonas perometabolis (London & Rittenberg, 1967) Moreira & Amils, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

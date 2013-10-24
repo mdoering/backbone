@@ -1,5 +1,4 @@
-Taphrina bartholomaei Mix SPECIES
-=======
+# Taphrina bartholomaei Mix SPECIES
 
 #### Status
 ACCEPTED

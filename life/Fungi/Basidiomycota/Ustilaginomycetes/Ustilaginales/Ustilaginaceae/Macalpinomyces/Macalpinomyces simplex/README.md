@@ -1,5 +1,4 @@
-Macalpinomyces simplex Vánky, 2000 SPECIES
-=======
+# Macalpinomyces simplex Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

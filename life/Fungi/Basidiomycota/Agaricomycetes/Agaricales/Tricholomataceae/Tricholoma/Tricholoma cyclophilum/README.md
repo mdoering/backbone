@@ -1,5 +1,4 @@
-Tricholoma cyclophilum (Lasch) Sacc. & Trotter SPECIES
-=======
+# Tricholoma cyclophilum (Lasch) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

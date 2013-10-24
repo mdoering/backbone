@@ -1,5 +1,4 @@
-Russula burgeae Thiers SPECIES
-=======
+# Russula burgeae Thiers SPECIES
 
 #### Status
 ACCEPTED

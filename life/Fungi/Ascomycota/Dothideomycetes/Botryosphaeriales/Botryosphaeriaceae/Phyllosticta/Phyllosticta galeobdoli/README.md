@@ -1,5 +1,4 @@
-Phyllosticta galeobdoli Syd. SPECIES
-=======
+# Phyllosticta galeobdoli Syd. SPECIES
 
 #### Status
 ACCEPTED

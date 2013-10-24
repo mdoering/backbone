@@ -1,5 +1,4 @@
-Acanspthominuscula spumosa Pykhova, 1966 SPECIES
-=======
+# Acanspthominuscula spumosa Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

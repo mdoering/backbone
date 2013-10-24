@@ -1,5 +1,4 @@
-Macrophoma dyckiae Traverso & Spessa SPECIES
-=======
+# Macrophoma dyckiae Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

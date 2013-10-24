@@ -1,5 +1,4 @@
-Barlaea GENUS
-=======
+# Barlaea GENUS
 
 #### Status
 ACCEPTED

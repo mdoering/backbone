@@ -1,5 +1,4 @@
-Vorticella tenuis Dumas, 1929 SPECIES
-=======
+# Vorticella tenuis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

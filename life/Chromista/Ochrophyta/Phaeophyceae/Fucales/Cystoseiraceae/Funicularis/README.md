@@ -1,5 +1,4 @@
-Funicularis GENUS
-=======
+# Funicularis GENUS
 
 #### Status
 ACCEPTED

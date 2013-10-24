@@ -1,5 +1,4 @@
-Phyllosticta lactucae I.E. Brezhnev SPECIES
-=======
+# Phyllosticta lactucae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rostraureum longirostre (Earle) Gryzenh. & M.J. Wingf., 2005 SPECIES
-=======
+# Rostraureum longirostre (Earle) Gryzenh. & M.J. Wingf., 2005 SPECIES
 
 #### Status
 ACCEPTED

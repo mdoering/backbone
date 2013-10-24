@@ -1,5 +1,4 @@
-Arecomyces bruneiensis K.D. Hyde SPECIES
-=======
+# Arecomyces bruneiensis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

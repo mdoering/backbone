@@ -1,5 +1,4 @@
-Entoloma masseei Courtec. SPECIES
-=======
+# Entoloma masseei Courtec. SPECIES
 
 #### Status
 ACCEPTED

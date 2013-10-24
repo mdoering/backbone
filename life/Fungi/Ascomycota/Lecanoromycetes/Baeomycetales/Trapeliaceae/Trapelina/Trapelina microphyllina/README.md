@@ -1,5 +1,4 @@
-Trapelina microphyllina (Fr.) Motyka SPECIES
-=======
+# Trapelina microphyllina (Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

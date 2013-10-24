@@ -1,5 +1,4 @@
-Eriosphaeria rehmiana (Höhn.) E. Müll. SPECIES
-=======
+# Eriosphaeria rehmiana (Höhn.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

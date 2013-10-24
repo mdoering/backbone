@@ -1,5 +1,4 @@
-Fuscoporia formosana (T.T. Chang & W.N. Chou) T. Wagner & M. Fisch. SPECIES
-=======
+# Fuscoporia formosana (T.T. Chang & W.N. Chou) T. Wagner & M. Fisch. SPECIES
 
 #### Status
 ACCEPTED

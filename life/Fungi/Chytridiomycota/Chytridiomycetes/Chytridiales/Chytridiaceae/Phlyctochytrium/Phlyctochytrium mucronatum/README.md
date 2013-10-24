@@ -1,5 +1,4 @@
-Phlyctochytrium mucronatum Canter, 1950 SPECIES
-=======
+# Phlyctochytrium mucronatum Canter, 1950 SPECIES
 
 #### Status
 ACCEPTED

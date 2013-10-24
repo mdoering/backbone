@@ -1,5 +1,4 @@
-Textularia scrupula Lalicker & McCulloch, 1940 SPECIES
-=======
+# Textularia scrupula Lalicker & McCulloch, 1940 SPECIES
 
 #### Status
 ACCEPTED

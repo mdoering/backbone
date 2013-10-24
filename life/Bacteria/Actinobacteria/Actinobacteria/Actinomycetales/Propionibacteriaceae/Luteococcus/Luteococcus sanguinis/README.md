@@ -1,5 +1,4 @@
-Luteococcus sanguinis Collins et al., 2003 SPECIES
-=======
+# Luteococcus sanguinis Collins et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

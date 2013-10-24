@@ -1,5 +1,4 @@
-Pseudocercospora pehriae U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora pehriae U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

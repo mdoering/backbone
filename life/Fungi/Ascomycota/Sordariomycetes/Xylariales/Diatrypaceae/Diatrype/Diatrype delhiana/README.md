@@ -1,5 +1,4 @@
-Diatrype delhiana Mukerji & S. Kapoor SPECIES
-=======
+# Diatrype delhiana Mukerji & S. Kapoor SPECIES
 
 #### Status
 ACCEPTED

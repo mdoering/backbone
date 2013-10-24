@@ -1,5 +1,4 @@
-Chitonomyces procerus Thaxt. SPECIES
-=======
+# Chitonomyces procerus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

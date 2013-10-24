@@ -1,5 +1,4 @@
-Cladonia anaemica (Nyl.) Ahti SPECIES
-=======
+# Cladonia anaemica (Nyl.) Ahti SPECIES
 
 #### Status
 ACCEPTED

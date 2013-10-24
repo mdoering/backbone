@@ -1,5 +1,4 @@
-Polystictus tenuispinifer (Murrill) Murrill SPECIES
-=======
+# Polystictus tenuispinifer (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus discolor (Mont. & Fr.) SPECIES
-=======
+# Hymenoscyphus discolor (Mont. & Fr.) SPECIES
 
 #### Status
 ACCEPTED

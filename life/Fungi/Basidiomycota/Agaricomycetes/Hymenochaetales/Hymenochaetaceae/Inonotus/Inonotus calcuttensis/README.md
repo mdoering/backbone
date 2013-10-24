@@ -1,5 +1,4 @@
-Inonotus calcuttensis (Bose) S. Ahmad SPECIES
-=======
+# Inonotus calcuttensis (Bose) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

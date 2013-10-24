@@ -1,5 +1,4 @@
-Synchytrium holwayi Farl. SPECIES
-=======
+# Synchytrium holwayi Farl. SPECIES
 
 #### Status
 ACCEPTED

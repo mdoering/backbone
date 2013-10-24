@@ -1,5 +1,4 @@
-Leptonia hortensis Peck SPECIES
-=======
+# Leptonia hortensis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces libocedri P.R. Johnst., 1986 SPECIES
-=======
+# Coccomyces libocedri P.R. Johnst., 1986 SPECIES
 
 #### Status
 ACCEPTED

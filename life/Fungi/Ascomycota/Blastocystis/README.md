@@ -1,5 +1,4 @@
-Blastocystis Alexeev, 1911 GENUS
-=======
+# Blastocystis Alexeev, 1911 GENUS
 
 #### Status
 ACCEPTED

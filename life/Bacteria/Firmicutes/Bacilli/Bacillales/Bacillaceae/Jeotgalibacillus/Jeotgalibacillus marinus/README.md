@@ -1,5 +1,4 @@
-Jeotgalibacillus marinus (Ruger & Richter, 1979) Yoon, Kang, Schumann & Oh, 2010 SPECIES
-=======
+# Jeotgalibacillus marinus (Ruger & Richter, 1979) Yoon, Kang, Schumann & Oh, 2010 SPECIES
 
 #### Status
 ACCEPTED

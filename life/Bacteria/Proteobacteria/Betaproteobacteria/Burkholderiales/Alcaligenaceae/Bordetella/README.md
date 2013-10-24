@@ -1,5 +1,4 @@
-Bordetella Moreno-Lopez, 1952 GENUS
-=======
+# Bordetella Moreno-Lopez, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vasichona Jankowksi, 1972 GENUS
-=======
+# Vasichona Jankowksi, 1972 GENUS
 
 #### Status
 ACCEPTED

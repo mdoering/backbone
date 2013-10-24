@@ -1,5 +1,4 @@
-Diaporthe triostei Dearn. & House SPECIES
-=======
+# Diaporthe triostei Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

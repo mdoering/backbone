@@ -1,5 +1,4 @@
-Cortinarius velatus Thiers & A.H. Sm. SPECIES
-=======
+# Cortinarius velatus Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daldinia polyporoides SPECIES
-=======
+# Daldinia polyporoides SPECIES
 
 #### Status
 ACCEPTED

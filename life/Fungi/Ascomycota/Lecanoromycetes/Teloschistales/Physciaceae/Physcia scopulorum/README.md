@@ -1,5 +1,4 @@
-Physcia scopulorum (Lambinon & Vezda) Poelt & Nimis SPECIES
-=======
+# Physcia scopulorum (Lambinon & Vezda) Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

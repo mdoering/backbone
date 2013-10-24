@@ -1,5 +1,4 @@
-Marasmius rufus Henn. SPECIES
-=======
+# Marasmius rufus Henn. SPECIES
 
 #### Status
 ACCEPTED

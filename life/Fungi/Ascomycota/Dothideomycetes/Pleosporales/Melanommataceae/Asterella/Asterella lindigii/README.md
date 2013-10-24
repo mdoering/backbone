@@ -1,5 +1,4 @@
-Asterella lindigii (Pat.) Sacc. SPECIES
-=======
+# Asterella lindigii (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

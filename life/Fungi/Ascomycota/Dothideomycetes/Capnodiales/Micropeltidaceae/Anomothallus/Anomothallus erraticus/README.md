@@ -1,5 +1,4 @@
-Anomothallus erraticus F. Stevens SPECIES
-=======
+# Anomothallus erraticus F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeracineta GENUS
-=======
+# Sphaeracineta GENUS
 
 #### Status
 ACCEPTED

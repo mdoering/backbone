@@ -1,5 +1,4 @@
-Uberispora Piroz. & Hodges GENUS
-=======
+# Uberispora Piroz. & Hodges GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeostagonospora A.W. Ramaley GENUS
-=======
+# Phaeostagonospora A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

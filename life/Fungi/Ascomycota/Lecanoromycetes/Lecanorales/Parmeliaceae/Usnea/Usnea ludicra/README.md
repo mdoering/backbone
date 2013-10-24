@@ -1,5 +1,4 @@
-Usnea ludicra Rizzini SPECIES
-=======
+# Usnea ludicra Rizzini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë indica D.A. Reid SPECIES
-=======
+# Elsinoë indica D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

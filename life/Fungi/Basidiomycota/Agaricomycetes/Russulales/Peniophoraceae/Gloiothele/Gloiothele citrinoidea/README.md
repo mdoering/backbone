@@ -1,5 +1,4 @@
-Gloiothele citrinoidea Sheng H. Wu, 1996 SPECIES
-=======
+# Gloiothele citrinoidea Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus anomalus Mosseray SPECIES
-=======
+# Aspergillus anomalus Mosseray SPECIES
 
 #### Status
 ACCEPTED

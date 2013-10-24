@@ -1,5 +1,4 @@
-Sporocybe tessulata Sacc. SPECIES
-=======
+# Sporocybe tessulata Sacc. SPECIES
 
 #### Status
 ACCEPTED

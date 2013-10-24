@@ -1,14 +1,13 @@
-Parmelia imbricatula Zahlbr. SPECIES
-=======
+# Hypotrachyna imbricatula (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 83: 165 (1909)
+Smithson. Contr. bot. 25: 41 (1975)
 
 #### Original name
 Parmelia imbricatula Zahlbr.

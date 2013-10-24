@@ -1,5 +1,4 @@
-Scolicotrichum asclepiadis Ellis & Everh. SPECIES
-=======
+# Scolicotrichum asclepiadis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

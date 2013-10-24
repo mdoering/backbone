@@ -1,5 +1,4 @@
-Claviceps amamiensis Tanda SPECIES
-=======
+# Claviceps amamiensis Tanda SPECIES
 
 #### Status
 ACCEPTED

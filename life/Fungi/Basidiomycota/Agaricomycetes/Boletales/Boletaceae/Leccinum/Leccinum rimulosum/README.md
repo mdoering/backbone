@@ -1,5 +1,4 @@
-Leccinum rimulosum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum rimulosum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

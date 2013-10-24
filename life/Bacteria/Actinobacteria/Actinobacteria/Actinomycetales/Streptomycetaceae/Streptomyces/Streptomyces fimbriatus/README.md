@@ -1,11 +1,10 @@
-Actinomyces fimbriatus Millard & Burr, 1926 SPECIES
-=======
+# Streptomyces fimbriatus (Millard and Burr, 1926) Waksman and Lechevalier, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

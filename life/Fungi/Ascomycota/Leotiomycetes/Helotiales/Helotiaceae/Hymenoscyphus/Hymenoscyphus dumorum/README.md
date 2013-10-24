@@ -1,5 +1,4 @@
-Hymenoscyphus dumorum (Roberge ex Desm.) SPECIES
-=======
+# Hymenoscyphus dumorum (Roberge ex Desm.) SPECIES
 
 #### Status
 ACCEPTED

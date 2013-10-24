@@ -1,14 +1,13 @@
-Parmelina antillensis (Nyl.) Hale SPECIES
-=======
+# Parmotremopsis antillensis (Nyl.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28(5): 482 (1974)
+Mycotaxon 29: 243 (1987)
 
 #### Original name
 Parmelia antillensis Nyl.

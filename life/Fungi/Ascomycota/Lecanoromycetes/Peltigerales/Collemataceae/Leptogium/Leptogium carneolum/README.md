@@ -1,5 +1,4 @@
-Leptogium carneolum F. Wilson SPECIES
-=======
+# Leptogium carneolum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

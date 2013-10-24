@@ -1,5 +1,4 @@
-Platyarcticus R.T.Wilce & P.M.Petersen GENUS
-=======
+# Platyarcticus R.T.Wilce & P.M.Petersen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta vagans Peck SPECIES
-=======
+# Phyllosticta vagans Peck SPECIES
 
 #### Status
 ACCEPTED

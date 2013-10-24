@@ -1,5 +1,4 @@
-Mycosphaerella dracocephali Urries SPECIES
-=======
+# Mycosphaerella dracocephali Urries SPECIES
 
 #### Status
 ACCEPTED

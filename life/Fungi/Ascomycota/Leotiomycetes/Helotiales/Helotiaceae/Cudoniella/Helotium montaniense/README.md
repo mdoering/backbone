@@ -1,5 +1,4 @@
-Helotium montaniense Ellis & H.W. Anderson SPECIES
-=======
+# Helotium montaniense Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cladonia subsquamosa f. subsquamosa FORM
-=======
+# Cladonia subsquamosa Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Warming, Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 5: 336 (1873)
 
 #### Original name
-Cladonia subsquamosa f. subsquamosa
+Cladonia subsquamosa Kremp.
 
 ### Remarks
 null

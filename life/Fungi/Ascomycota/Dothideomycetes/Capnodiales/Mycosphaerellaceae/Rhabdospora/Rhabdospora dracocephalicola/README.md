@@ -1,5 +1,4 @@
-Rhabdospora dracocephalicola Hollós SPECIES
-=======
+# Rhabdospora dracocephalicola Hollós SPECIES
 
 #### Status
 ACCEPTED

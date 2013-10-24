@@ -1,17 +1,16 @@
-Tylomyces gemmiparus Cortini SPECIES
-=======
+# Tylomyces gummiparus Cortini, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Reale Accad. Lincei, Rendiconti Cl. Sci. Fis. , ser. 5 30: (1921)
 
 #### Original name
-Tylomyces gemmiparus Cortini
+Tylomyces gummiparus Cortini, 1921
 
 ### Remarks
 null

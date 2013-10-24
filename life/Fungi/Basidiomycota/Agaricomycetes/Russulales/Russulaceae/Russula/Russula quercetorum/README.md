@@ -1,5 +1,4 @@
-Russula quercetorum Velen. SPECIES
-=======
+# Russula quercetorum Velen. SPECIES
 
 #### Status
 ACCEPTED

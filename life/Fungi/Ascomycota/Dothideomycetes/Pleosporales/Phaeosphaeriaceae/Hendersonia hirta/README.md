@@ -1,5 +1,4 @@
-Hendersonia hirta (Fr.) Curr. SPECIES
-=======
+# Hendersonia hirta (Fr.) Curr. SPECIES
 
 #### Status
 ACCEPTED

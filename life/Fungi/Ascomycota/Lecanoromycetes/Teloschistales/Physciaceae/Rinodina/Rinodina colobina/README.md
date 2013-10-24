@@ -1,5 +1,4 @@
-Rinodina colobina (Ach.) Th. Fr. SPECIES
-=======
+# Rinodina colobina (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria algovica Servít SPECIES
-=======
+# Verrucaria algovica Servít SPECIES
 
 #### Status
 ACCEPTED

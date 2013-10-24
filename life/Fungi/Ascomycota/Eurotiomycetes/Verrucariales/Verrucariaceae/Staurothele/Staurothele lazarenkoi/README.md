@@ -1,5 +1,4 @@
-Staurothele lazarenkoi Oxner SPECIES
-=======
+# Staurothele lazarenkoi Oxner SPECIES
 
 #### Status
 ACCEPTED

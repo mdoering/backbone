@@ -1,5 +1,4 @@
-Entoloma tibiicystidiatum Arnolds & Noordel. SPECIES
-=======
+# Entoloma tibiicystidiatum Arnolds & Noordel. SPECIES
 
 #### Status
 ACCEPTED

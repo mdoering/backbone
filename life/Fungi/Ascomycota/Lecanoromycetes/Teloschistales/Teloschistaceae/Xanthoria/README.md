@@ -1,14 +1,13 @@
-Zanthoria GENUS
-=======
+# Xanthoria (Fr.) Th. Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 166 (1860)
 
 #### Original name
 null

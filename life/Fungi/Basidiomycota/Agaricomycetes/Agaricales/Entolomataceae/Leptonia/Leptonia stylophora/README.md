@@ -1,5 +1,4 @@
-Leptonia stylophora (Berk. & Broome) Dennis SPECIES
-=======
+# Leptonia stylophora (Berk. & Broome) Dennis SPECIES
 
 #### Status
 ACCEPTED

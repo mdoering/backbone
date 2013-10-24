@@ -1,5 +1,4 @@
-Traumatiophtora Chatton & Lwoff, 1931 GENUS
-=======
+# Traumatiophtora Chatton & Lwoff, 1931 GENUS
 
 #### Status
 ACCEPTED

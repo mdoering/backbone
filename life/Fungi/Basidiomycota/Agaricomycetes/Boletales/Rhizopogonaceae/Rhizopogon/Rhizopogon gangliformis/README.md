@@ -1,5 +1,4 @@
-Rhizopogon gangliformis Corda SPECIES
-=======
+# Rhizopogon gangliformis Corda SPECIES
 
 #### Status
 ACCEPTED

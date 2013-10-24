@@ -1,5 +1,4 @@
-Penzigomyces dissolvens (Hol.-Jech., Mercado & J. Mena) J. Mena SPECIES
-=======
+# Penzigomyces dissolvens (Hol.-Jech., Mercado & J. Mena) J. Mena SPECIES
 
 #### Status
 ACCEPTED

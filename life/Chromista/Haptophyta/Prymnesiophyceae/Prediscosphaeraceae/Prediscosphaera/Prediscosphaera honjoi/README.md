@@ -1,5 +1,4 @@
-Prediscosphaera honjoi Bukry, 1969 SPECIES
-=======
+# Prediscosphaera honjoi Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

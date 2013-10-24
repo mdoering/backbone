@@ -1,5 +1,4 @@
-Phyllachora clusiae Petr., 1948 SPECIES
-=======
+# Phyllachora clusiae Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

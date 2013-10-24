@@ -1,5 +1,4 @@
-Calcitornella Cushman & Waters, 1928 GENUS
-=======
+# Calcitornella Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archagaricon dendriticum A. Hancock & Atthey SPECIES
-=======
+# Archagaricon dendriticum A. Hancock & Atthey SPECIES
 
 #### Status
 ACCEPTED

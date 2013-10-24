@@ -1,5 +1,4 @@
-Phaeodothis polystoma Syd. SPECIES
-=======
+# Phaeodothis polystoma Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepolichen granulatus (Hook. f. & Taylor) Müll. Arg. SPECIES
-=======
+# Lepolichen granulatus (Hook. f. & Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

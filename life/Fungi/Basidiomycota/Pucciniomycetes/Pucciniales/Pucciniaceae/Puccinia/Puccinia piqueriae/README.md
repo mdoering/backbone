@@ -1,5 +1,4 @@
-Puccinia piqueriae H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia piqueriae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

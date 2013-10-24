@@ -1,5 +1,4 @@
-Cenangium labiatarum Ces. SPECIES
-=======
+# Cenangium labiatarum Ces. SPECIES
 
 #### Status
 ACCEPTED

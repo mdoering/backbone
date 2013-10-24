@@ -1,5 +1,4 @@
-Volvaria perplexa Peck SPECIES
-=======
+# Volvaria perplexa Peck SPECIES
 
 #### Status
 ACCEPTED

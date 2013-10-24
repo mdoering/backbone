@@ -1,5 +1,4 @@
-Midotis westii Seaver SPECIES
-=======
+# Midotis westii Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyblastia armericola Walt. Watson SPECIES
-=======
+# Lauderlindsaya borreri (Tul.) J.C. David & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Bot. , London 77: 42 (1939)
+Sydowia 41: 116 (1989)
 
 #### Original name
-Polyblastia armericola Walt. Watson
+Sphaeria borreri Tul.
 
 ### Remarks
 null

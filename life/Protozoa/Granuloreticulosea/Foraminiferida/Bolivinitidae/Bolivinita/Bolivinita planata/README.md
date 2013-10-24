@@ -1,5 +1,4 @@
-Bolivinita planata Cushman, 1927 SPECIES
-=======
+# Bolivinita planata Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

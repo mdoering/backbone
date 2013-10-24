@@ -1,5 +1,4 @@
-Inderites crassus Dyupina, 1970 SPECIES
-=======
+# Inderites crassus Dyupina, 1970 SPECIES
 
 #### Status
 ACCEPTED

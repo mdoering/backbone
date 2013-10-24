@@ -1,5 +1,4 @@
-Sphaeria pandanicola Berk. & Broome SPECIES
-=======
+# Sphaeria pandanicola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

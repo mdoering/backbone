@@ -1,5 +1,4 @@
-Rhodosporidium lusitaniae Á. Fonseca & J.P. Samp. SPECIES
-=======
+# Rhodosporidium lusitaniae Á. Fonseca & J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

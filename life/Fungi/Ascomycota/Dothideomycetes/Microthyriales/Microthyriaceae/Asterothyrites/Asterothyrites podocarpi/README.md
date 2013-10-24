@@ -1,5 +1,4 @@
-Asterothyrites podocarpi (Krassilov) Kalgutkar & Janson. SPECIES
-=======
+# Asterothyrites podocarpi (Krassilov) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

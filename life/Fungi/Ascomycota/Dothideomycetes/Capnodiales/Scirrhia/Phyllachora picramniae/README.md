@@ -1,5 +1,4 @@
-Phyllachora picramniae F. Stevens, 1927 SPECIES
-=======
+# Phyllachora picramniae F. Stevens, 1927 SPECIES
 
 #### Status
 ACCEPTED

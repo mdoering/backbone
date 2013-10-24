@@ -1,5 +1,4 @@
-Agaricus cuculliformis Fr. SPECIES
-=======
+# Agaricus cuculliformis Fr. SPECIES
 
 #### Status
 ACCEPTED

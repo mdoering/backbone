@@ -1,5 +1,4 @@
-Microthelia macquariensis C.W. Dodge SPECIES
-=======
+# Microthelia macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

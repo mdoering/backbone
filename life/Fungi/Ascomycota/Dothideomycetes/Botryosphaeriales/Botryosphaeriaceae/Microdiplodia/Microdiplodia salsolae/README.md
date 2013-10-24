@@ -1,5 +1,4 @@
-Microdiplodia salsolae (Szembel) Frolov SPECIES
-=======
+# Microdiplodia salsolae (Szembel) Frolov SPECIES
 
 #### Status
 ACCEPTED

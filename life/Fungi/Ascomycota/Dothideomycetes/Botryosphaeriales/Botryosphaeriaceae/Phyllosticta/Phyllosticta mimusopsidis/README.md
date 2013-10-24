@@ -1,8 +1,7 @@
-Phyllosticta mimusopsis Cufino SPECIES
-=======
+# Phyllosticta mimusopsidis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta mimusopsis Cufino
+Phyllosticta mimusopsidis Henn.
 
 ### Remarks
 null

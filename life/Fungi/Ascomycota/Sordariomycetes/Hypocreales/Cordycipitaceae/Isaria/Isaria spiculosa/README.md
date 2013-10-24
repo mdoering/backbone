@@ -1,5 +1,4 @@
-Isaria spiculosa Wallr. SPECIES
-=======
+# Isaria spiculosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

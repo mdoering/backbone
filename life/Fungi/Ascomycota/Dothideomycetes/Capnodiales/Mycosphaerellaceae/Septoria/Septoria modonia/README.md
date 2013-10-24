@@ -1,5 +1,4 @@
-Septoria modonia Sacc. SPECIES
-=======
+# Septoria modonia Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia eutochiae A. Weir & W. Rossi SPECIES
-=======
+# Laboulbenia eutochiae A. Weir & W. Rossi SPECIES
 
 #### Status
 ACCEPTED

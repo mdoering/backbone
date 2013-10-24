@@ -1,5 +1,4 @@
-Antrodia luteola X.Q. Zhang & J.D. Zhao SPECIES
-=======
+# Antrodia luteola X.Q. Zhang & J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

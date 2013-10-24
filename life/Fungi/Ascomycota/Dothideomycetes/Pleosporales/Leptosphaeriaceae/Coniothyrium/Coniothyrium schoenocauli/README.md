@@ -1,5 +1,4 @@
-Coniothyrium schoenocauli Syd. SPECIES
-=======
+# Coniothyrium schoenocauli Syd. SPECIES
 
 #### Status
 ACCEPTED

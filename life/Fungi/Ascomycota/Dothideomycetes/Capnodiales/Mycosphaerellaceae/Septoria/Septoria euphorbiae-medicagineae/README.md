@@ -1,5 +1,4 @@
-Septoria euphorbiae-medicagineae Unamuno SPECIES
-=======
+# Septoria euphorbiae-medicagineae Unamuno SPECIES
 
 #### Status
 ACCEPTED

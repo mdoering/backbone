@@ -1,5 +1,4 @@
-Discina caroliniana (Bosc) Eckblad SPECIES
-=======
+# Discina caroliniana (Bosc) Eckblad SPECIES
 
 #### Status
 ACCEPTED

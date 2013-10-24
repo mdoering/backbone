@@ -1,17 +1,16 @@
-Polystictus nothopus (Lév.) Cooke SPECIES
-=======
+# Polystictus notopus (Lév.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 14(no. 71): 79 (1886)
 
 #### Original name
-Polyporus nothopus Lév.
+Polyporus notopus Lév.
 
 ### Remarks
 null

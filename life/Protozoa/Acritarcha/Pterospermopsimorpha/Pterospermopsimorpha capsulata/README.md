@@ -1,5 +1,4 @@
-Pterospermopsimorpha capsulata Jankauskas, 1982 SPECIES
-=======
+# Pterospermopsimorpha capsulata Jankauskas, 1982 SPECIES
 
 #### Status
 ACCEPTED

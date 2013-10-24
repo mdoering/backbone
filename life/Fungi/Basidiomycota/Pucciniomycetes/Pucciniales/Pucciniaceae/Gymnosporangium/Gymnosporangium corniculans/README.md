@@ -1,5 +1,4 @@
-Gymnosporangium corniculans F. Kern, 1910 SPECIES
-=======
+# Gymnosporangium corniculans F. Kern, 1910 SPECIES
 
 #### Status
 ACCEPTED

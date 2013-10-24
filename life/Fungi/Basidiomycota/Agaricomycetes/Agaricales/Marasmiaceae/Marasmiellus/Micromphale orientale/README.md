@@ -1,5 +1,4 @@
-Micromphale orientale Manim. & Leelav. SPECIES
-=======
+# Micromphale orientale Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lopharia nova-granata A.L. Welden SPECIES
-=======
+# Porostereum novae-granatum (A.L. Welden) Hjortstam & Ryvarden, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Fung. (Oslo) 4: 41 (1990)
 
 #### Original name
-Lopharia nova-granata A.L. Welden
+Lopharia novae-granata A.L. Welden, 1975
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Valsaria saccardiana Speg. SPECIES
-=======
+# Valsaria saccardiana Speg. SPECIES
 
 #### Status
 ACCEPTED

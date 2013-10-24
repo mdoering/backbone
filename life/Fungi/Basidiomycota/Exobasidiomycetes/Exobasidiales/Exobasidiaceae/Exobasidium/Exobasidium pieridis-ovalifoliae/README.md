@@ -1,5 +1,4 @@
-Exobasidium pieridis-ovalifoliae Sawada, 1929 SPECIES
-=======
+# Exobasidium pieridis-ovalifoliae Sawada, 1929 SPECIES
 
 #### Status
 ACCEPTED

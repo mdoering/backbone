@@ -1,5 +1,4 @@
-Ixocomus sanguineus SPECIES
-=======
+# Ixocomus sanguineus SPECIES
 
 #### Status
 ACCEPTED

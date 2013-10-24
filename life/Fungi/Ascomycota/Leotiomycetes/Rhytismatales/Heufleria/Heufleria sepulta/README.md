@@ -1,5 +1,4 @@
-Heufleria sepulta Trevis. SPECIES
-=======
+# Heufleria sepulta Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema umbonatum Müll. Arg. SPECIES
-=======
+# Thelotrema umbonatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

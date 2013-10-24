@@ -1,5 +1,4 @@
-Rosellinia microspora (Ces.) Sacc. SPECIES
-=======
+# Rosellinia microspora (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

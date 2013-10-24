@@ -1,5 +1,4 @@
-Biatora dolosa (Duby) Hepp SPECIES
-=======
+# Biatora dolosa (Duby) Hepp SPECIES
 
 #### Status
 ACCEPTED

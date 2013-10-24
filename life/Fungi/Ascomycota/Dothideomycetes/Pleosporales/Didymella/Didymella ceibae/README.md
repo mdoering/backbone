@@ -1,5 +1,4 @@
-Didymella ceibae L.N. Nair & P.G. Reddy SPECIES
-=======
+# Didymella ceibae L.N. Nair & P.G. Reddy SPECIES
 
 #### Status
 ACCEPTED

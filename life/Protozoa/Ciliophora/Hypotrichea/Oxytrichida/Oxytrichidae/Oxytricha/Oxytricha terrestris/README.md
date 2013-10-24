@@ -1,5 +1,4 @@
-Oxytricha terrestris Horwath, 1958 SPECIES
-=======
+# Oxytricha terrestris Horwath, 1958 SPECIES
 
 #### Status
 ACCEPTED

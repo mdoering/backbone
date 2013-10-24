@@ -1,5 +1,4 @@
-Archaeodiscina prima Pykhova, 1966 SPECIES
-=======
+# Archaeodiscina prima Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

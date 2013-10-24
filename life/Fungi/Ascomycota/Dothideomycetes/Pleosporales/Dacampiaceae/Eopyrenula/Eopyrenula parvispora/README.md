@@ -1,5 +1,4 @@
-Eopyrenula parvispora R.C. Harris & Aptroot SPECIES
-=======
+# Eopyrenula parvispora R.C. Harris & Aptroot SPECIES
 
 #### Status
 ACCEPTED

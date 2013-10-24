@@ -1,5 +1,4 @@
-Oscillatoria spadicea Carmichael SPECIES
-=======
+# Oscillatoria spadicea Carmichael SPECIES
 
 #### Status
 ACCEPTED

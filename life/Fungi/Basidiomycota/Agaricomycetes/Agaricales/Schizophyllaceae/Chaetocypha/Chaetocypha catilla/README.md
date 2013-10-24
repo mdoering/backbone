@@ -1,5 +1,4 @@
-Chaetocypha catilla (Sm.) Kuntze SPECIES
-=======
+# Chaetocypha catilla (Sm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

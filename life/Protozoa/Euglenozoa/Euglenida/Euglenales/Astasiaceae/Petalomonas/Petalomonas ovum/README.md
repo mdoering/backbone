@@ -1,5 +1,4 @@
-Petalomonas ovum Matvienko SPECIES
-=======
+# Petalomonas ovum Matvienko SPECIES
 
 #### Status
 ACCEPTED

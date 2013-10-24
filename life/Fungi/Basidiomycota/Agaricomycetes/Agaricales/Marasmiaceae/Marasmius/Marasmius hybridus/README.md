@@ -1,5 +1,4 @@
-Marasmius hybridus Kühner & Romagn. SPECIES
-=======
+# Marasmius hybridus Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

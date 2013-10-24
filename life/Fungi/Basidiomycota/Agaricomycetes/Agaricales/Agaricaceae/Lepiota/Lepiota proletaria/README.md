@@ -1,5 +1,4 @@
-Lepiota proletaria Rick SPECIES
-=======
+# Lepiota proletaria Rick SPECIES
 
 #### Status
 ACCEPTED

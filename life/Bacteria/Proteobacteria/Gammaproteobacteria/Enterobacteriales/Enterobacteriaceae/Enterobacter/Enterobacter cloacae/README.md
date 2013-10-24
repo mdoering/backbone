@@ -1,5 +1,4 @@
-Enterobacter cloacae subsp. cloacae SUBSPECIES
-=======
+# Enterobacter cloacae (Jordan, 1890) Hormaeche and Edwards, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

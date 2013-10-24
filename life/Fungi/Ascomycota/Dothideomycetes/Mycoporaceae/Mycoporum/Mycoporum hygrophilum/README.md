@@ -1,11 +1,10 @@
-Mycoporum hygrophilum var. hygrophilum VARIETY
-=======
+# Mycoporum hygrophilum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

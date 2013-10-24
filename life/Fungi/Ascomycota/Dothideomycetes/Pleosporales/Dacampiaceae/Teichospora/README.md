@@ -1,5 +1,4 @@
-Teichospora Fuckel GENUS
-=======
+# Teichospora Fuckel GENUS
 
 #### Status
 ACCEPTED

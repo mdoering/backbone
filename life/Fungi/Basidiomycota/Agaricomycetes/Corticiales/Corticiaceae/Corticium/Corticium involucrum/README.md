@@ -1,5 +1,4 @@
-Corticium involucrum Burt SPECIES
-=======
+# Corticium involucrum Burt SPECIES
 
 #### Status
 ACCEPTED

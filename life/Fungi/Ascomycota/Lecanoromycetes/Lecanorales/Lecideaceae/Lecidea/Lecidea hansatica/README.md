@@ -1,5 +1,4 @@
-Lecidea hansatica Stizenb. SPECIES
-=======
+# Lecidea hansatica Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rubioxytricha GENUS
-=======
+# Rubrioxytricha Berger, 1999 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr Biol 78: 479.
 
 #### Original name
 null

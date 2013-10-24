@@ -1,5 +1,4 @@
-Microstoma floccosa (Schw.) Rativ. SPECIES
-=======
+# Microstoma floccosa (Schw.) Rativ. SPECIES
 
 #### Status
 ACCEPTED

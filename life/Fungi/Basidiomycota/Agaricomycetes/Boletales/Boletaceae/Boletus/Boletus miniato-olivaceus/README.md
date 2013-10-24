@@ -1,5 +1,4 @@
-Boletus miniato-olivaceus Frost SPECIES
-=======
+# Boletus miniato-olivaceus Frost SPECIES
 
 #### Status
 ACCEPTED

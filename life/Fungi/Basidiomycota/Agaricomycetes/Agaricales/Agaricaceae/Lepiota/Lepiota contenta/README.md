@@ -1,5 +1,4 @@
-Lepiota contenta Herp. SPECIES
-=======
+# Lepiota contenta Herp. SPECIES
 
 #### Status
 ACCEPTED

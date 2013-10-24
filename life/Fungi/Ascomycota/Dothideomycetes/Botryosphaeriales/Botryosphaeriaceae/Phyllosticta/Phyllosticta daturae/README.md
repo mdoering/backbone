@@ -1,5 +1,4 @@
-Phyllosticta daturae Westend. SPECIES
-=======
+# Phyllosticta daturae Westend. SPECIES
 
 #### Status
 ACCEPTED

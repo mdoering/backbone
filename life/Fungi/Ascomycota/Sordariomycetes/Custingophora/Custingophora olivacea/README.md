@@ -1,5 +1,4 @@
-Custingophora olivacea Stolk, Hennebert & Klopotek, 1968 SPECIES
-=======
+# Custingophora olivacea Stolk, Hennebert & Klopotek, 1968 SPECIES
 
 #### Status
 ACCEPTED

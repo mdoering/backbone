@@ -1,5 +1,4 @@
-Bacillidinium parvum Habib & Knapp, 1982 SPECIES
-=======
+# Bacillidinium parvum Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon peladense Vain. SPECIES
-=======
+# Stereocaulon peladense Vain. SPECIES
 
 #### Status
 ACCEPTED

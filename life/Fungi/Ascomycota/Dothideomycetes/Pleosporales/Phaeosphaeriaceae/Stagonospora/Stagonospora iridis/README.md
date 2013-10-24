@@ -1,5 +1,4 @@
-Stagonospora iridis C. Massal. SPECIES
-=======
+# Stagonospora iridis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

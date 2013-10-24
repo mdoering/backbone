@@ -1,5 +1,4 @@
-Cortinarius inhonestus (Weinm.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius inhonestus (Weinm.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

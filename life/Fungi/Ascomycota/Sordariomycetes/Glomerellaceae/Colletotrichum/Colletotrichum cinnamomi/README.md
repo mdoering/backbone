@@ -1,5 +1,4 @@
-Colletotrichum cinnamomi Tharp SPECIES
-=======
+# Colletotrichum cinnamomi Tharp SPECIES
 
 #### Status
 ACCEPTED

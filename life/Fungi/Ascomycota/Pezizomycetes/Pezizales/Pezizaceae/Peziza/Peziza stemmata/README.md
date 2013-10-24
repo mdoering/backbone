@@ -1,5 +1,4 @@
-Peziza stemmata P. Karst. SPECIES
-=======
+# Peziza stemmata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

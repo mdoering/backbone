@@ -1,14 +1,13 @@
-Mycena cephalotricha (Joss. ex Redhead) Romagn., 1992 SPECIES
-=======
+# Hemimycena cephalotricha (Joss. ex Redhead) Singer, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 108(2): 86 (1992)
+Agaric. mod. Tax. (Koenigstein), Edn 4 397 (1986)
 
 #### Original name
 Helotium cephalotrichum Joss. ex Redhead, 1982

@@ -1,5 +1,4 @@
-Chlorangium Rabenhorst, 1857 GENUS
-=======
+# Chlorangium Rabenhorst, 1857 GENUS
 
 #### Status
 ACCEPTED

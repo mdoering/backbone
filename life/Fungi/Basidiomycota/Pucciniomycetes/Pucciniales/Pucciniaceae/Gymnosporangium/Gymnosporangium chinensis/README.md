@@ -1,5 +1,4 @@
-Gymnosporangium chinensis S. Ito SPECIES
-=======
+# Gymnosporangium chinensis S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces mexicanus Ryvarden & Guzmán, 2001 SPECIES
-=======
+# Tyromyces mexicanus Ryvarden & Guzmán, 2001 SPECIES
 
 #### Status
 ACCEPTED

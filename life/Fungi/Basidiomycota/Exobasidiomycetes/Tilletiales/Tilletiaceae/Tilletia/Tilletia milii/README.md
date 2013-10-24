@@ -1,17 +1,16 @@
-Tilletia milli Liro SPECIES
-=======
+# Tilletia milii Liro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 6(no. 1): 2 (1935)
 
 #### Original name
-Tilletia milli Liro
+Tilletia milii Liro
 
 ### Remarks
 null

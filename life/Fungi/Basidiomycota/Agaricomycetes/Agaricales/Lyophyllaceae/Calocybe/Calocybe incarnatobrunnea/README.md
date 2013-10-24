@@ -1,5 +1,4 @@
-Calocybe incarnatobrunnea (Gerhardt) SPECIES
-=======
+# Calocybe incarnatobrunnea (Gerhardt) SPECIES
 
 #### Status
 ACCEPTED

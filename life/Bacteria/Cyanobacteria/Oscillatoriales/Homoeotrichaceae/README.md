@@ -1,5 +1,4 @@
-Homoeotrichaceae FAMILY
-=======
+# Homoeotrichaceae FAMILY
 
 #### Status
 ACCEPTED

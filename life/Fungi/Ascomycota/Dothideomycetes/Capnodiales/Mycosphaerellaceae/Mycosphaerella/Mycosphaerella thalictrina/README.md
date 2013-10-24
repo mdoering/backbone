@@ -1,5 +1,4 @@
-Mycosphaerella thalictrina Petr. SPECIES
-=======
+# Mycosphaerella thalictrina Petr. SPECIES
 
 #### Status
 ACCEPTED

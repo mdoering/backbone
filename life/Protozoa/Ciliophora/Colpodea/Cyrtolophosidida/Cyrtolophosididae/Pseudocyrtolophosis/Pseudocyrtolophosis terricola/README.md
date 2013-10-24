@@ -1,5 +1,4 @@
-Pseudocyrtolophosis terricola Foissner, 1993 SPECIES
-=======
+# Pseudocyrtolophosis terricola Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

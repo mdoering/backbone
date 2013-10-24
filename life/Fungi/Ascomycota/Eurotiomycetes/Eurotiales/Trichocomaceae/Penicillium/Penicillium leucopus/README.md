@@ -1,5 +1,4 @@
-Penicillium leucopus (Pers.) Biourge SPECIES
-=======
+# Penicillium leucopus (Pers.) Biourge SPECIES
 
 #### Status
 ACCEPTED

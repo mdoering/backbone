@@ -1,5 +1,4 @@
-Mycena dendrocystis E. Horak SPECIES
-=======
+# Mycena dendrocystis E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora cotini (Katsuki & Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora cotini (Katsuki & Ts. Kobay.) Deighton SPECIES
 
 #### Status
 ACCEPTED

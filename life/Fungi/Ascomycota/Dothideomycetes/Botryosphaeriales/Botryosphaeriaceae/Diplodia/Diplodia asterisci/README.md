@@ -1,5 +1,4 @@
-Diplodia asterisci Pat. SPECIES
-=======
+# Diplodia asterisci Pat. SPECIES
 
 #### Status
 ACCEPTED

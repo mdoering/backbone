@@ -1,5 +1,4 @@
-Protomyces kriegerianus Büren SPECIES
-=======
+# Protomyces kriegerianus Büren SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodopseudomonas rhenobacensis Hougardy et al., 2000 SPECIES
-=======
+# Rhodopseudomonas rhenobacensis Hougardy et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

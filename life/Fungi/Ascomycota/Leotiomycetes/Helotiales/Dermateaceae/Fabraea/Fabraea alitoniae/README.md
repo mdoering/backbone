@@ -1,5 +1,4 @@
-Fabraea alitoniae var. alitoniae VARIETY
-=======
+# Fabraea alitoniae SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fabraea alitoniae var. alitoniae
+Fabraea alitoniae
 
 ### Remarks
 null

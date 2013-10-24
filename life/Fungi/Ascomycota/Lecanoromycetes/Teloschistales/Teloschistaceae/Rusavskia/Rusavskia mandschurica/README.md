@@ -1,5 +1,4 @@
-Rusavskia mandschurica (Zahlbr.) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia mandschurica (Zahlbr.) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

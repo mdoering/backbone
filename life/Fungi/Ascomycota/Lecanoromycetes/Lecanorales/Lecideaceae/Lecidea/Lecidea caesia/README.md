@@ -1,5 +1,4 @@
-Lecidea caesia Ach. SPECIES
-=======
+# Lecidea caesia Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptothrix atra Berk. & M.A. Curtis SPECIES
-=======
+# Streptothrix atra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria smilacinae Ellis & G. Martin, 1882 SPECIES
-=======
+# Septoria smilacinae Ellis & G. Martin, 1882 SPECIES
 
 #### Status
 ACCEPTED

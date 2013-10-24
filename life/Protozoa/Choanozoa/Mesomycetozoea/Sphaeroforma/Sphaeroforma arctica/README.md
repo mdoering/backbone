@@ -1,5 +1,4 @@
-Sphaeroforma arctica Jostensen, Sperstad, Johansen & Landfald, 2002 SPECIES
-=======
+# Sphaeroforma arctica Jostensen, Sperstad, Johansen & Landfald, 2002 SPECIES
 
 #### Status
 ACCEPTED

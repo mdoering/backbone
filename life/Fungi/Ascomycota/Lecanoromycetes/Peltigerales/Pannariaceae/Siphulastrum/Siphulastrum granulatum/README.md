@@ -1,5 +1,4 @@
-Siphulastrum granulatum P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Siphulastrum granulatum P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

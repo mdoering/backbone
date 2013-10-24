@@ -1,5 +1,4 @@
-Didymella inaequalis Corbaz SPECIES
-=======
+# Didymella inaequalis Corbaz SPECIES
 
 #### Status
 ACCEPTED

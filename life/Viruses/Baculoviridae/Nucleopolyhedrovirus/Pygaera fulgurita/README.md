@@ -1,5 +1,4 @@
-Pygaera fulgurita Npv SPECIES
-=======
+# Pygaera fulgurita Npv SPECIES
 
 #### Status
 ACCEPTED

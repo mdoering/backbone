@@ -1,5 +1,4 @@
-Phytophthora japonica G.M. Waterh. SPECIES
-=======
+# Phytophthora japonica G.M. Waterh. SPECIES
 
 #### Status
 ACCEPTED

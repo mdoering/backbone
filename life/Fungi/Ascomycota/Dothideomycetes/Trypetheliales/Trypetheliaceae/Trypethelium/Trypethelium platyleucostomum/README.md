@@ -1,5 +1,4 @@
-Trypethelium platyleucostomum Makhija & Patw. SPECIES
-=======
+# Trypethelium platyleucostomum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

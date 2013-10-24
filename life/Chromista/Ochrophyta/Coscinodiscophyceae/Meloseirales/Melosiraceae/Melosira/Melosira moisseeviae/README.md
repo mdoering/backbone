@@ -1,5 +1,4 @@
-Melosira moisseeviae E. G. Lupikina SPECIES
-=======
+# Melosira moisseeviae E. G. Lupikina SPECIES
 
 #### Status
 ACCEPTED

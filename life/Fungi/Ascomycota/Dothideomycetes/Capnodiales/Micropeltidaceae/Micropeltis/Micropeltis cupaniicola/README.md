@@ -1,5 +1,4 @@
-Micropeltis cupaniicola Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis cupaniicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

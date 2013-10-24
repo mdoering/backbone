@@ -1,5 +1,4 @@
-Cucurbitaria ferruginea (Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria ferruginea (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

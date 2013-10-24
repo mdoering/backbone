@@ -1,5 +1,4 @@
-Morenoina pteridicola J.P. Ellis, 1984 SPECIES
-=======
+# Morenoina pteridicola J.P. Ellis, 1984 SPECIES
 
 #### Status
 ACCEPTED

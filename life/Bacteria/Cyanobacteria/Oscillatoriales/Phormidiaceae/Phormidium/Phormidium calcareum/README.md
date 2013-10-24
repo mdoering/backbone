@@ -1,5 +1,4 @@
-Phormidium calcareum Kützing SPECIES
-=======
+# Phormidium calcareum Kützing SPECIES
 
 #### Status
 ACCEPTED

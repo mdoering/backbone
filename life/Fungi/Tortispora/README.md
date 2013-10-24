@@ -1,5 +1,4 @@
-Tortispora GENUS
-=======
+# Tortispora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isthmiella abietis (Dearn.) Darker, 1967 SPECIES
-=======
+# Isthmiella abietis (Dearn.) Darker, 1967 SPECIES
 
 #### Status
 ACCEPTED

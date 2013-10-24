@@ -1,5 +1,4 @@
-Micula V.N. Vekschina, 1959 GENUS
-=======
+# Micula V.N. Vekschina, 1959 GENUS
 
 #### Status
 ACCEPTED

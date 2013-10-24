@@ -1,5 +1,4 @@
-Patellaria cognata (Nyl.) SPECIES
-=======
+# Patellaria cognata (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

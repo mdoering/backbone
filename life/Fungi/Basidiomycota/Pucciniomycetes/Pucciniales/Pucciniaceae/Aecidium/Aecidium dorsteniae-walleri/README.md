@@ -1,5 +1,4 @@
-Aecidium dorsteniae-walleri Cant. SPECIES
-=======
+# Aecidium dorsteniae-walleri Cant. SPECIES
 
 #### Status
 ACCEPTED

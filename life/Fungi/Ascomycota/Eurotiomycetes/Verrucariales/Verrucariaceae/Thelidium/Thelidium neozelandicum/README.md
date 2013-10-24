@@ -1,5 +1,4 @@
-Thelidium neozelandicum Zahlbr. SPECIES
-=======
+# Thelidium neozelandicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen ornatus L. f. SPECIES
-=======
+# Lichen ornatus L. f. SPECIES
 
 #### Status
 ACCEPTED

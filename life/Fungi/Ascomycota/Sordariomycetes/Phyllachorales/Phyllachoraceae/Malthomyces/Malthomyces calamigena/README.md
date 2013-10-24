@@ -1,14 +1,13 @@
-Phyllachora calamigena (Berk. & Broome) Sacc., 1883 SPECIES
-=======
+# Malthomyces calamigena (Berk. & Broome) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 606 (1883)
+Mycol. Pap. 175: 70 (1999)
 
 #### Original name
 Dothidea calamigena Berk. & Broome, 1875

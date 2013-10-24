@@ -1,5 +1,4 @@
-Peptococcus anaerobius (Hamm, 1912) Douglas, 1957 SPECIES
-=======
+# Peptococcus anaerobius (Hamm, 1912) Douglas, 1957 SPECIES
 
 #### Status
 ACCEPTED

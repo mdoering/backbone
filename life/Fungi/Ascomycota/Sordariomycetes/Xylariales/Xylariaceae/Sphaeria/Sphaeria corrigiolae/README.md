@@ -1,5 +1,4 @@
-Sphaeria corrigiolae Hoffm. SPECIES
-=======
+# Sphaeria corrigiolae Hoffm. SPECIES
 
 #### Status
 ACCEPTED

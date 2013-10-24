@@ -1,5 +1,4 @@
-Notholepiota sardoa Padovan & Contu SPECIES
-=======
+# Notholepiota sardoa Padovan & Contu SPECIES
 
 #### Status
 ACCEPTED

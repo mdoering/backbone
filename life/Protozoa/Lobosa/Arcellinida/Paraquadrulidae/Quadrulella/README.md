@@ -1,17 +1,16 @@
-Quadrula Schulze, 1875 GENUS
-=======
+# Quadrulella Cockerell, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. mikr. Anat. , 11, 329, 330.
+Zool. Anz. , 34, 565.
 
 #### Original name
-null
+Quadrula Schulze, 1875
 
 ### Remarks
 null

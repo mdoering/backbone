@@ -1,5 +1,4 @@
-Helminthosporium fimbristylidis Sawada SPECIES
-=======
+# Helminthosporium fimbristylidis Sawada SPECIES
 
 #### Status
 ACCEPTED

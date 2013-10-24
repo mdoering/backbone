@@ -1,5 +1,4 @@
-Ustilago kairamoi Liro SPECIES
-=======
+# Ustilago kairamoi Liro SPECIES
 
 #### Status
 ACCEPTED

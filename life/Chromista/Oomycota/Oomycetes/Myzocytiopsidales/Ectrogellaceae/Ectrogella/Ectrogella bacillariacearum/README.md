@@ -1,17 +1,16 @@
-Ectrogella eunotiae Friedmann, 1952 SPECIES
-=======
+# Ectrogella bacillariacearum Zopf, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta Acad. Caes. Leop. -Carol. German. Nat. Cur. 47: (1884)
 
 #### Original name
-Ectrogella eunotiae Friedmann, 1952
+Ectrogella bacillariacearum Zopf, 1884
 
 ### Remarks
 null

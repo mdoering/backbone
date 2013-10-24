@@ -1,5 +1,4 @@
-Cytospora loranthicola Sacc. & Trotter SPECIES
-=======
+# Cytospora loranthicola Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Naevia piniperda Rehm, 1892 SPECIES
-=======
+# Sarcotrochila piniperda (Rehm) Korf, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 54(1): 30 (1962)
 
 #### Original name
 Naevia piniperda Rehm, 1892

@@ -1,5 +1,4 @@
-Glomospira gordialis (Jones & Parker, 1860) SPECIES
-=======
+# Glomospira gordialis (Jones & Parker, 1860) SPECIES
 
 #### Status
 ACCEPTED

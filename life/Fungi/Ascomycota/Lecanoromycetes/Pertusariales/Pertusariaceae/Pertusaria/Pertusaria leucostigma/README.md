@@ -1,5 +1,4 @@
-Pertusaria leucostigma Müll. Arg. SPECIES
-=======
+# Pertusaria leucostigma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

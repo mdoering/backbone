@@ -1,5 +1,4 @@
-Kinorhynchospora japonica A.V. Adrianov & A.V. Rybakov SPECIES
-=======
+# Kinorhynchospora japonica A.V. Adrianov & A.V. Rybakov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella rozei (Quél.) Sacc. SPECIES
-=======
+# Pezizella rozei (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

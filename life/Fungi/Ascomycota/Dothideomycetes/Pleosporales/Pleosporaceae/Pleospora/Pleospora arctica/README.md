@@ -1,5 +1,4 @@
-Pleospora arctica Fuckel SPECIES
-=======
+# Pleospora arctica Fuckel SPECIES
 
 #### Status
 ACCEPTED

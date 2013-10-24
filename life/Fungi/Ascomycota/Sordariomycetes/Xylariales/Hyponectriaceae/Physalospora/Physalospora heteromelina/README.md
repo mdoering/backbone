@@ -1,5 +1,4 @@
-Physalospora heteromelina Fairm. SPECIES
-=======
+# Physalospora heteromelina Fairm. SPECIES
 
 #### Status
 ACCEPTED

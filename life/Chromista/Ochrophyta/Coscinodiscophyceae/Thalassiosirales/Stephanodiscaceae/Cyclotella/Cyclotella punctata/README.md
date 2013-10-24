@@ -1,5 +1,4 @@
-Cyclotella punctata W. Smith SPECIES
-=======
+# Cyclotella punctata W. Smith SPECIES
 
 #### Status
 ACCEPTED

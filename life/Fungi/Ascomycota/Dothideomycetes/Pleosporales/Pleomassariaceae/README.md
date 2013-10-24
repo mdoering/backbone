@@ -1,5 +1,4 @@
-Pleomassariaceae M.E. Barr FAMILY
-=======
+# Pleomassariaceae M.E. Barr FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola rigida var. rigida VARIETY
-=======
+# Meliola rigida Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Roy. Soc. South Africa 5(4): 736 (1917)
 
 #### Original name
-Meliola rigida var. rigida
+Meliola rigida Doidge
 
 ### Remarks
 null

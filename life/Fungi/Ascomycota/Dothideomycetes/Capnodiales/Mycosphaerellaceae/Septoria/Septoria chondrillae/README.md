@@ -1,5 +1,4 @@
-Septoria chondrillae Domashova SPECIES
-=======
+# Septoria chondrillae Domashova SPECIES
 
 #### Status
 ACCEPTED

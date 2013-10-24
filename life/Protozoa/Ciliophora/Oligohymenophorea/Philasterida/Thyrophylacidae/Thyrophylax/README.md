@@ -1,5 +1,4 @@
-Thyrophylax Berger in Corliss, 1961 GENUS
-=======
+# Thyrophylax Berger in Corliss, 1961 GENUS
 
 #### Status
 ACCEPTED

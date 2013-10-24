@@ -1,5 +1,4 @@
-Comasphaeridium pratulum Cramer & Díez, 1977 SPECIES
-=======
+# Comasphaeridium pratulum Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

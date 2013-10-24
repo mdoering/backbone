@@ -1,5 +1,4 @@
-Lauderiaceae (Schütt) Lemmermann FAMILY
-=======
+# Lauderiaceae (Schütt) Lemmermann FAMILY
 
 #### Status
 ACCEPTED

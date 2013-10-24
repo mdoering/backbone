@@ -1,5 +1,4 @@
-Mycospongiaceae Velen. FAMILY
-=======
+# Mycospongiaceae Velen. FAMILY
 
 #### Status
 ACCEPTED

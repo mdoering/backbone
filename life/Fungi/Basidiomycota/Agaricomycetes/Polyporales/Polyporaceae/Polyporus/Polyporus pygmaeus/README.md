@@ -1,5 +1,4 @@
-Polyporus pygmaeus Lloyd SPECIES
-=======
+# Polyporus pygmaeus Lloyd SPECIES
 
 #### Status
 ACCEPTED

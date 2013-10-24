@@ -1,17 +1,16 @@
-Meliolina chardoni Toro SPECIES
-=======
+# Meliolina chardonii Toro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Toro & Chardón, Annls mycol. 32(1/2): 113 (1934)
 
 #### Original name
-Meliolina chardoni Toro
+Meliolina chardonii Toro
 
 ### Remarks
 null

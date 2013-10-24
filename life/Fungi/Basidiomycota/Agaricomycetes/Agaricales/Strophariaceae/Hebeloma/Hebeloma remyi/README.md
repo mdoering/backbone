@@ -1,5 +1,4 @@
-Hebeloma remyi Bruchet SPECIES
-=======
+# Hebeloma remyi Bruchet SPECIES
 
 #### Status
 ACCEPTED

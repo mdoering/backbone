@@ -1,8 +1,7 @@
-Peronospora diptichocarpi Kalymb. SPECIES
-=======
+# Peronospora diptychocarpi Kalymb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora diptichocarpi Kalymb.
+Peronospora diptychocarpi Kalymb.
 
 ### Remarks
 null

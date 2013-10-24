@@ -1,5 +1,4 @@
-Cirsosia irregularis (Syd.) Arx SPECIES
-=======
+# Cirsosia irregularis (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

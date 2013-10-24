@@ -1,5 +1,4 @@
-Psilocybe paludicola Y.S. Chang & A.K. Mills SPECIES
-=======
+# Psilocybe paludicola Y.S. Chang & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

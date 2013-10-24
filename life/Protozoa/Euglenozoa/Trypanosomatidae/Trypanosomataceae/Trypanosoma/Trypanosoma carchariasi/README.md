@@ -1,5 +1,4 @@
-Trypanosoma carchariasi Laveran, 1908 SPECIES
-=======
+# Trypanosoma carchariasi Laveran, 1908 SPECIES
 
 #### Status
 ACCEPTED

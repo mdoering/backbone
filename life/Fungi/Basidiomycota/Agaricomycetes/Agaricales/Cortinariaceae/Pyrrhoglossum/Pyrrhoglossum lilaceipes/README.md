@@ -1,5 +1,4 @@
-Pyrrhoglossum lilaceipes Singer, 1962 SPECIES
-=======
+# Pyrrhoglossum lilaceipes Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED

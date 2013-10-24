@@ -1,5 +1,4 @@
-Lecanora subdepressa SPECIES
-=======
+# Lecanora subdepressa SPECIES
 
 #### Status
 ACCEPTED

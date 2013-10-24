@@ -1,5 +1,4 @@
-Pseudodendromonadaceae FAMILY
-=======
+# Pseudodendromonadaceae FAMILY
 
 #### Status
 ACCEPTED

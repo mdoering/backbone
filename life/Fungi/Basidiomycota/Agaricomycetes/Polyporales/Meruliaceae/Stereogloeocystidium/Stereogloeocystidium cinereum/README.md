@@ -1,5 +1,4 @@
-Stereogloeocystidium cinereum (Rick) Rick SPECIES
-=======
+# Stereogloeocystidium cinereum (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora caricis-jaluensis H.J. Lu & T. Zhang, 2009 SPECIES
-=======
+# Phyllachora caricis-jaluensis H.J. Lu & T. Zhang, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus helvolus Fr., 1828 SPECIES
-=======
+# Coriolopsis helvola (Fr.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 103 (1828)
+Norw. Jl Bot. 19: 230 (1972)
 
 #### Original name
 Polyporus helvolus Fr., 1828

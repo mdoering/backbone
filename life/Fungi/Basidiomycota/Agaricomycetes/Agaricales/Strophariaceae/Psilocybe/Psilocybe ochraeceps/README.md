@@ -1,5 +1,4 @@
-Psilocybe ochraeceps Kauffman SPECIES
-=======
+# Psilocybe ochraeceps Kauffman SPECIES
 
 #### Status
 ACCEPTED

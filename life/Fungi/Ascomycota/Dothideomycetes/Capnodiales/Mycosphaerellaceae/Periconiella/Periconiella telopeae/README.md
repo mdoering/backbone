@@ -1,5 +1,4 @@
-Periconiella telopeae (Hansf.) M.B. Ellis SPECIES
-=======
+# Periconiella telopeae (Hansf.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Septoria passerinii f. passerinii Sacc. FORM
-=======
+# Septoria passerinii Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 560 (1884)
 
 #### Original name
-Septoria passerinii f. passerinii Sacc.
+Septoria murina Pass., 1879
 
 ### Remarks
 null

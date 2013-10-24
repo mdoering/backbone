@@ -1,5 +1,4 @@
-Pestalotiopsis kwangsiensis Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis kwangsiensis Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

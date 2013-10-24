@@ -1,5 +1,4 @@
-Spiropes strychni (Henn.) M.B. Ellis SPECIES
-=======
+# Spiropes strychni (Henn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus arboreus Britzelm. SPECIES
-=======
+# Agaricus arboreus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

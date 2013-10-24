@@ -1,5 +1,4 @@
-Hyaloceras viticola (Cavara) Died. SPECIES
-=======
+# Hyaloceras viticola (Cavara) Died. SPECIES
 
 #### Status
 ACCEPTED

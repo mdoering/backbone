@@ -1,5 +1,4 @@
-Heronallenia wilsoni (Earland & Heron-Allen) SPECIES
-=======
+# Heronallenia wilsoni (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

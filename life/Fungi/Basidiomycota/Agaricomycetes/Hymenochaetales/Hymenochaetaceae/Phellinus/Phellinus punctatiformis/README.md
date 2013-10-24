@@ -1,14 +1,13 @@
-Poria punctatiformis (Murrill) Murrill, 1938 SPECIES
-=======
+# Phellinus punctatiformis (Murrill) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 65: 661 (1938)
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
 Fomitiporia punctatiformis Murrill, 1938

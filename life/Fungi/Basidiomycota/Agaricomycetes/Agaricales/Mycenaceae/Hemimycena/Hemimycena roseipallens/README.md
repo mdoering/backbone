@@ -1,5 +1,4 @@
-Hemimycena roseipallens (Murrill) Singer SPECIES
-=======
+# Hemimycena roseipallens (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

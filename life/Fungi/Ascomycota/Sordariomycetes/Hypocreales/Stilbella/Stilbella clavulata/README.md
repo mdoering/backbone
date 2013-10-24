@@ -1,5 +1,4 @@
-Stilbella clavulata Overeem & D. Overeem, 1922 SPECIES
-=======
+# Stilbella clavulata Overeem & D. Overeem, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea ammannii P. Clerc & M. Herrera-Campos SPECIES
-=======
+# Usnea ammannii P. Clerc & M. Herrera-Campos SPECIES
 
 #### Status
 ACCEPTED

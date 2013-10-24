@@ -1,5 +1,4 @@
-Cercospora modesta Syd. SPECIES
-=======
+# Cercospora modesta Syd. SPECIES
 
 #### Status
 ACCEPTED

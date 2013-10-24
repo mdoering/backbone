@@ -1,17 +1,16 @@
-Agaricus muricatus var. muricatus Vahl VARIETY
-=======
+# Flammulaster muricatus (Fr.) Watling, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 28(1): 66 (1967)
 
 #### Original name
-Agaricus muricatus var. muricatus Vahl
+Agaricus muricatus Fr., 1821
 
 ### Remarks
 null

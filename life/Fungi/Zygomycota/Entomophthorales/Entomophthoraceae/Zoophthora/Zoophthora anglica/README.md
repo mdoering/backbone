@@ -1,14 +1,13 @@
-Entomophthora anglica Petch, 1944 SPECIES
-=======
+# Zoophthora anglica (Petch) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 27: 87 (1944)
+Mycotaxon 34(2): 453 (1989)
 
 #### Original name
 Entomophthora anglica Petch, 1944

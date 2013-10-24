@@ -1,5 +1,4 @@
-Trichia meylanii Ing SPECIES
-=======
+# Trichia meylanii Ing SPECIES
 
 #### Status
 ACCEPTED

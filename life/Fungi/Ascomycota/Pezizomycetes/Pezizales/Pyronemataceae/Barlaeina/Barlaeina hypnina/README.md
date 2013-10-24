@@ -1,5 +1,4 @@
-Barlaeina hypnina (Quél.) Sacc. & Traverso SPECIES
-=======
+# Barlaeina hypnina (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

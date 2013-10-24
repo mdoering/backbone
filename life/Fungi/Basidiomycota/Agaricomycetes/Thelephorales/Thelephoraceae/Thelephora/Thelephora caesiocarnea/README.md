@@ -1,5 +1,4 @@
-Thelephora caesiocarnea Britzelm. SPECIES
-=======
+# Thelephora caesiocarnea Britzelm. SPECIES
 
 #### Status
 ACCEPTED

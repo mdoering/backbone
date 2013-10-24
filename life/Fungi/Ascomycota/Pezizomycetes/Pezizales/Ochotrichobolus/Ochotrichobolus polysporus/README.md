@@ -1,5 +1,4 @@
-Ochotrichobolus polysporus Kimbr. & Korf, 1983 SPECIES
-=======
+# Ochotrichobolus polysporus Kimbr. & Korf, 1983 SPECIES
 
 #### Status
 ACCEPTED

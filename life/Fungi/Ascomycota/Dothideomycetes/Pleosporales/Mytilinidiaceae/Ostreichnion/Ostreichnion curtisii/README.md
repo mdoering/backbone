@@ -1,14 +1,13 @@
-Hysterium curtisii Duby, 1862 SPECIES
-=======
+# Ostreichnion curtisii (Duby) M.E. Barr, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 16(1): 42 (1862)
+Mycotaxon 3(1): 86 (1975)
 
 #### Original name
 Hysterium curtisii Duby, 1862

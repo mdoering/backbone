@@ -1,5 +1,4 @@
-Platygramme pachyspora (Redinger) Staiger SPECIES
-=======
+# Platygramme pachyspora (Redinger) Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balanion planktonicum SPECIES
-=======
+# Balanion planktonicum SPECIES
 
 #### Status
 ACCEPTED

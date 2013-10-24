@@ -1,5 +1,4 @@
-Phoma cajani Rangel, 1925 SPECIES
-=======
+# Phoma cajani Rangel, 1925 SPECIES
 
 #### Status
 ACCEPTED

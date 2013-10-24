@@ -1,5 +1,4 @@
-Glomerella nepholepis Faris SPECIES
-=======
+# Glomerella nepholepis Faris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena succosa (Peck) Sacc. SPECIES
-=======
+# Mycena succosa (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

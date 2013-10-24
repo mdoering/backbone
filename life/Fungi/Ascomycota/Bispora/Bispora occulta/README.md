@@ -1,5 +1,4 @@
-Bispora occulta (Ellis & Barthol.) J.L. Crane & Schokn. SPECIES
-=======
+# Bispora occulta (Ellis & Barthol.) J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

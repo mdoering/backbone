@@ -1,5 +1,4 @@
-Platygrapha epileucoides Nyl. SPECIES
-=======
+# Platygrapha epileucoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

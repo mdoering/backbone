@@ -1,17 +1,16 @@
-Parmelia subramigera var. imbricata Gyeln. VARIETY
-=======
+# Xanthoparmelia subramigera (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 489 (1974)
 
 #### Original name
-Parmelia subramigera var. imbricata Gyeln.
+Parmelia subramigera Gyeln.
 
 ### Remarks
 null

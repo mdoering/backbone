@@ -1,5 +1,4 @@
-Alectoria osteola Gyeln. SPECIES
-=======
+# Alectoria osteola Gyeln. SPECIES
 
 #### Status
 ACCEPTED

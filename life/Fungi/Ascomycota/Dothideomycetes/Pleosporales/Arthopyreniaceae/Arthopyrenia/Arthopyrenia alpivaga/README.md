@@ -1,5 +1,4 @@
-Arthopyrenia alpivaga Norman ex Keissl. SPECIES
-=======
+# Arthopyrenia alpivaga Norman ex Keissl. SPECIES
 
 #### Status
 ACCEPTED

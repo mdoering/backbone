@@ -1,17 +1,16 @@
-Rinodina conradii f. conradii FORM
-=======
+# Rinodina conradii Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. lich. germ. (Breslau) 123 (1855)
 
 #### Original name
-Rinodina conradii f. conradii
+Rinodina conradii Körb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Zifondium lassenensis SPECIES
-=======
+# Zifondium lassenensis SPECIES
 
 #### Status
 ACCEPTED

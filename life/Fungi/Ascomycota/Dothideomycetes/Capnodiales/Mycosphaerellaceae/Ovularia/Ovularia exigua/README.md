@@ -1,5 +1,4 @@
-Ovularia exigua (W.G. Sm.) Sacc. SPECIES
-=======
+# Ovularia exigua (W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

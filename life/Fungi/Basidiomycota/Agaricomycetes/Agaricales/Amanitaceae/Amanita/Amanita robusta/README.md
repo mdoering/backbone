@@ -1,5 +1,4 @@
-Amanita robusta var. spinosa Bouriquet VARIETY
-=======
+# Amanita robusta Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Acad. malgache 24: 62 (1942)
 
 #### Original name
-Amanita robusta var. spinosa Bouriquet
+Amanita robusta Beeli
 
 ### Remarks
 null

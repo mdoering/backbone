@@ -1,5 +1,4 @@
-Passalora solani (Seaver) U. Braun SPECIES
-=======
+# Passalora solani (Seaver) U. Braun SPECIES
 
 #### Status
 ACCEPTED

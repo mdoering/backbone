@@ -1,5 +1,4 @@
-Tintinnus elongatus Jörgensen, 1924 SPECIES
-=======
+# Tintinnus elongatus Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

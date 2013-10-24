@@ -1,5 +1,4 @@
-Pleospora scirrhioides Sacc. SPECIES
-=======
+# Pleospora scirrhioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

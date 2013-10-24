@@ -1,5 +1,4 @@
-Gyalideopsis calabrica Puntillo & Vezda SPECIES
-=======
+# Gyalideopsis calabrica Puntillo & Vezda SPECIES
 
 #### Status
 ACCEPTED

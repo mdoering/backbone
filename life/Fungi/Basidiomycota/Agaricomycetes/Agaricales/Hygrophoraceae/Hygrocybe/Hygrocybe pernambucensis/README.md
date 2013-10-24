@@ -1,5 +1,4 @@
-Hygrocybe pernambucensis (Bat. & A.F. Vital) Putzke SPECIES
-=======
+# Hygrocybe pernambucensis (Bat. & A.F. Vital) Putzke SPECIES
 
 #### Status
 ACCEPTED

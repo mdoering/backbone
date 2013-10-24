@@ -1,5 +1,4 @@
-Ustilago sanctae-catharinae Zundel SPECIES
-=======
+# Ustilago sanctae-catharinae Zundel SPECIES
 
 #### Status
 ACCEPTED

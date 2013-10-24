@@ -1,5 +1,4 @@
-Ascotricha hispanica Stchigel & Guarro SPECIES
-=======
+# Ascotricha hispanica Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leptothyrium nervisequium Rothers SPECIES
-=======
+# Leptothyrium nervisequum Rothers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Opred. Mukor. Gribov (Kiev) 4: 967 (1927)
 
 #### Original name
 Leptothyrium nervisequium Rothers

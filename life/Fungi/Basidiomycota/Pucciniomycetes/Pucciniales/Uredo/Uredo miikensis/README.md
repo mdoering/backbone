@@ -1,5 +1,4 @@
-Uredo miikensis (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo miikensis (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

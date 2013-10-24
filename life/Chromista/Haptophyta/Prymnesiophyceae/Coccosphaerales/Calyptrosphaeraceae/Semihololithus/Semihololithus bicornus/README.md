@@ -1,5 +1,4 @@
-Semihololithus bicornus SPECIES
-=======
+# Semihololithus bicornus SPECIES
 
 #### Status
 ACCEPTED

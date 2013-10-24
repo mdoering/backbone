@@ -1,5 +1,4 @@
-Sporocybe boulangeri Goid. SPECIES
-=======
+# Sporocybe boulangeri Goid. SPECIES
 
 #### Status
 ACCEPTED

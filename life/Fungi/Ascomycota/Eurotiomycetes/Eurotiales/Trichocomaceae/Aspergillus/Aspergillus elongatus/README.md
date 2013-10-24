@@ -1,5 +1,4 @@
-Aspergillus elongatus J.N. Rai & S.C. Agarwal, 1970 SPECIES
-=======
+# Aspergillus elongatus J.N. Rai & S.C. Agarwal, 1970 SPECIES
 
 #### Status
 ACCEPTED

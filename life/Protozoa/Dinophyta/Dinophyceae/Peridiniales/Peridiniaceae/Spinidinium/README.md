@@ -1,5 +1,4 @@
-Spinidinium I.C. Cookson & A. Eisenack, 1962 GENUS
-=======
+# Spinidinium I.C. Cookson & A. Eisenack, 1962 GENUS
 
 #### Status
 ACCEPTED

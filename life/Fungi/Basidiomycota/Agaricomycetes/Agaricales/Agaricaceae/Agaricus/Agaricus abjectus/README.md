@@ -1,5 +1,4 @@
-Agaricus abjectus Berk. & Broome SPECIES
-=======
+# Agaricus abjectus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

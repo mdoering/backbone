@@ -1,5 +1,4 @@
-Quadricrura bicornis Kaz. Tanaka, K. Hirayama & H. Yonez., 2009 SPECIES
-=======
+# Quadricrura bicornis Kaz. Tanaka, K. Hirayama & H. Yonez., 2009 SPECIES
 
 #### Status
 ACCEPTED

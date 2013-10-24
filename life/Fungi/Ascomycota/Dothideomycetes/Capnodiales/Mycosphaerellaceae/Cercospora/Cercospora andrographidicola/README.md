@@ -1,17 +1,16 @@
-Cercospora andrographicola S.Q. Chen & P.K. Chi SPECIES
-=======
+# Cercospora andrographidicola S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chi, [Fungal Diseases of Cultivated Medicinal Plants in Guangdong Province] (Guangdong) 94 (1994)
 
 #### Original name
-Cercospora andrographicola S.Q. Chen & P.K. Chi
+Cercospora andrographidicola S.Q. Chen & P.K. Chi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceracea corticioides (Ellis & Everh.) Pat. SPECIES
-=======
+# Ceracea corticioides (Ellis & Everh.) Pat. SPECIES
 
 #### Status
 ACCEPTED

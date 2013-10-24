@@ -1,5 +1,4 @@
-Pseudohigumastra GENUS
-=======
+# Pseudohigumastra GENUS
 
 #### Status
 ACCEPTED

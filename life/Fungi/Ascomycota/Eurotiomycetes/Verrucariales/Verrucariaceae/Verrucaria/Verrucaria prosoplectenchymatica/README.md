@@ -1,5 +1,4 @@
-Verrucaria prosoplectenchymatica Servít SPECIES
-=======
+# Verrucaria prosoplectenchymatica Servít SPECIES
 
 #### Status
 ACCEPTED

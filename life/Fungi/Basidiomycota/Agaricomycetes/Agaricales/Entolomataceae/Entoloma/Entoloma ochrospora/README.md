@@ -1,5 +1,4 @@
-Entoloma ochrospora Sathe & S.M. Kulk. SPECIES
-=======
+# Entoloma ochrospora Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vararia brevispora S.S. Rattan SPECIES
-=======
+# Vararia brevispora S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

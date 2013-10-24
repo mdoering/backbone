@@ -1,5 +1,4 @@
-Hapalopilus gypseus (Yasuda) Imazeki SPECIES
-=======
+# Hapalopilus gypseus (Yasuda) Imazeki SPECIES
 
 #### Status
 ACCEPTED

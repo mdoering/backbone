@@ -1,5 +1,4 @@
-Botryobasidium yutajense Hjortstam & Ryvarden, 2005 SPECIES
-=======
+# Botryobasidium yutajense Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

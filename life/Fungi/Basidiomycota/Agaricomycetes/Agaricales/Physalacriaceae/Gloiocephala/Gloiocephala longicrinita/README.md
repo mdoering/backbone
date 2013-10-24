@@ -1,5 +1,4 @@
-Gloiocephala longicrinita Singer SPECIES
-=======
+# Gloiocephala longicrinita Singer SPECIES
 
 #### Status
 ACCEPTED

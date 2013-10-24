@@ -1,5 +1,4 @@
-Cribratina Sample, 1934 GENUS
-=======
+# Cribratina Sample, 1934 GENUS
 
 #### Status
 ACCEPTED

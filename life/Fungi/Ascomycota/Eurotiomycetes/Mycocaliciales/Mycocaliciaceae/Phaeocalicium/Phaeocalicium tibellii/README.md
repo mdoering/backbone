@@ -1,5 +1,4 @@
-Phaeocalicium tibellii Kalb SPECIES
-=======
+# Phaeocalicium tibellii Kalb SPECIES
 
 #### Status
 ACCEPTED

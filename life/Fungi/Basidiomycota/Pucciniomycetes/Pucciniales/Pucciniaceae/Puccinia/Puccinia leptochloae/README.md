@@ -1,5 +1,4 @@
-Puccinia leptochloae Arthur & Fromme SPECIES
-=======
+# Puccinia leptochloae Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

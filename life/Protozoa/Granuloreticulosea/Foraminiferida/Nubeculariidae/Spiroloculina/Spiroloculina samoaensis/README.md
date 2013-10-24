@@ -1,5 +1,4 @@
-Spiroloculina samoaensis SPECIES
-=======
+# Spiroloculina samoaensis SPECIES
 
 #### Status
 ACCEPTED

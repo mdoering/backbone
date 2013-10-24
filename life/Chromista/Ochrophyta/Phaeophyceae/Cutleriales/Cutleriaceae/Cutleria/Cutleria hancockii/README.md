@@ -1,5 +1,4 @@
-Cutleria hancockii E.Y. Dawson SPECIES
-=======
+# Cutleria hancockii E.Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

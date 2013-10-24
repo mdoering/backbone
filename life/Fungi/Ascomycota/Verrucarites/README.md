@@ -1,5 +1,4 @@
-Verrucarites Göpp. GENUS
-=======
+# Verrucarites Göpp. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyrtellosphaeridium Naumova GENUS
-=======
+# Hyrtellosphaeridium Naumova GENUS
 
 #### Status
 ACCEPTED

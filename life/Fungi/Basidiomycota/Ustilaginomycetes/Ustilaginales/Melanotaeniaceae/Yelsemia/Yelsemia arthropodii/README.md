@@ -1,5 +1,4 @@
-Yelsemia arthropodii J. Walker, 2001 SPECIES
-=======
+# Yelsemia arthropodii J. Walker, 2001 SPECIES
 
 #### Status
 ACCEPTED

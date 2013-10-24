@@ -1,5 +1,4 @@
-Hysterium thujae (Roberge) House SPECIES
-=======
+# Hysterium thujae (Roberge) House SPECIES
 
 #### Status
 ACCEPTED

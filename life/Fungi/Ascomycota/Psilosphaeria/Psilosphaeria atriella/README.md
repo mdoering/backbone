@@ -1,14 +1,13 @@
-Psilosphaeria atrella (Cooke & Ellis) Cooke SPECIES
-=======
+# Psilosphaeria atriella (Cooke & Ellis) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 16(no. 78): 51 (1887)
 
 #### Original name
 Sphaeria atriella Cooke & Ellis

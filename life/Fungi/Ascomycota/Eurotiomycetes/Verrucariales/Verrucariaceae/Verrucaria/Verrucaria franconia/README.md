@@ -1,5 +1,4 @@
-Verrucaria franconia (Zschacke) Servít SPECIES
-=======
+# Verrucaria franconia (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Spirillum Hassall, 1845 GENUS
-=======
+# Spirulina P.J.F. Turpin ex M. Gomont, 1982 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. Freshw. Alg. , p. 279.
+Ann. Sci. Nat. Bot. , ser. 7, 16: 249.
 
 #### Original name
 null

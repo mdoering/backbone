@@ -1,5 +1,4 @@
-Phyllosticta cardamines-amarae Petr. SPECIES
-=======
+# Phyllosticta cardamines-amarae Petr. SPECIES
 
 #### Status
 ACCEPTED

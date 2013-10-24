@@ -1,5 +1,4 @@
-Stichomyces lepidus Thaxt. SPECIES
-=======
+# Stichomyces lepidus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

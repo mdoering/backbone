@@ -1,5 +1,4 @@
-Dicteridium Raf. GENUS
-=======
+# Dicteridium Raf. GENUS
 
 #### Status
 ACCEPTED

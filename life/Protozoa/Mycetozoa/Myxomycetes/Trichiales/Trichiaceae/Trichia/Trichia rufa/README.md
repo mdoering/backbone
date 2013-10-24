@@ -1,5 +1,4 @@
-Trichia rufa With. SPECIES
-=======
+# Trichia rufa With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium feunchii Henn. SPECIES
-=======
+# Camarosporium feunchii Henn. SPECIES
 
 #### Status
 ACCEPTED

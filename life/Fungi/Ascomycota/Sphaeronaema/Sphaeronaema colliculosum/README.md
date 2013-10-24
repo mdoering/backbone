@@ -1,5 +1,4 @@
-Sphaeronaema colliculosum Kunze SPECIES
-=======
+# Sphaeronaema colliculosum Kunze SPECIES
 
 #### Status
 ACCEPTED

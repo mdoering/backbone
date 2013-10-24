@@ -1,5 +1,4 @@
-Diplodiella balanitis Bacc. SPECIES
-=======
+# Diplodiella balanitis Bacc. SPECIES
 
 #### Status
 ACCEPTED

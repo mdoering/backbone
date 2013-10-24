@@ -1,5 +1,4 @@
-Arthothelium verruculosum Patw. & Makhija SPECIES
-=======
+# Arthothelium verruculosum Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

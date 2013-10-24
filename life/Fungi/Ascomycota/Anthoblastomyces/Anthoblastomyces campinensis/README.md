@@ -1,5 +1,4 @@
-Anthoblastomyces campinensis Verona & Zardetto SPECIES
-=======
+# Anthoblastomyces campinensis Verona & Zardetto SPECIES
 
 #### Status
 ACCEPTED

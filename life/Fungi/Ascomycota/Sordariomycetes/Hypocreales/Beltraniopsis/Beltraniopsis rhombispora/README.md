@@ -1,5 +1,4 @@
-Beltraniopsis rhombispora Matsush. SPECIES
-=======
+# Beltraniopsis rhombispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

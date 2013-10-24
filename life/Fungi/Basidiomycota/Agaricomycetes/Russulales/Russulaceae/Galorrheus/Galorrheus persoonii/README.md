@@ -1,5 +1,4 @@
-Galorrheus persoonii (J. Otto) P. Kumm. SPECIES
-=======
+# Galorrheus persoonii (J. Otto) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

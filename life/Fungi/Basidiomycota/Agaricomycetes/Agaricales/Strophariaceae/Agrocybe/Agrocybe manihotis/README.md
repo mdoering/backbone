@@ -1,5 +1,4 @@
-Agrocybe manihotis Pegler SPECIES
-=======
+# Agrocybe manihotis Pegler SPECIES
 
 #### Status
 ACCEPTED

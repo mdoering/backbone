@@ -1,5 +1,4 @@
-Vorticella catulus Muller, 1773 SPECIES
-=======
+# Vorticella catulus Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

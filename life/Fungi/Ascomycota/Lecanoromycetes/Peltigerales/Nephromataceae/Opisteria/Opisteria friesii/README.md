@@ -1,5 +1,4 @@
-Opisteria friesii SPECIES
-=======
+# Opisteria friesii SPECIES
 
 #### Status
 ACCEPTED

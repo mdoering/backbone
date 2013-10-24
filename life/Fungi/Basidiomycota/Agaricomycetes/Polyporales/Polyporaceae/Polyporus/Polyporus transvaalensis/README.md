@@ -1,5 +1,4 @@
-Polyporus transvaalensis Van der Byl SPECIES
-=======
+# Polyporus transvaalensis Van der Byl SPECIES
 
 #### Status
 ACCEPTED

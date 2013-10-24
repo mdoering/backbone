@@ -1,17 +1,16 @@
-Hypocopra fimicola f. fimicola FORM
-=======
+# Sordaria fimicola (Roberge ex Desm.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 240 (1882)
+Comm. Soc. crittog. Ital. 1: 226 (1863)
 
 #### Original name
-Hypocopra fimicola f. fimicola
+Sphaeria fimicola Roberge ex Desm., 1849
 
 ### Remarks
 null

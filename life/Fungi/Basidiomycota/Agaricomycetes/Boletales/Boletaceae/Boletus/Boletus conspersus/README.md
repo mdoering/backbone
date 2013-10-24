@@ -1,5 +1,4 @@
-Boletus conspersus Velen. SPECIES
-=======
+# Boletus conspersus Velen. SPECIES
 
 #### Status
 ACCEPTED

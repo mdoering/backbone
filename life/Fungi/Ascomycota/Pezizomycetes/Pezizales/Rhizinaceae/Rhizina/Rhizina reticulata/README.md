@@ -1,5 +1,4 @@
-Rhizina reticulata Berk. & Broome SPECIES
-=======
+# Rhizina reticulata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

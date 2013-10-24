@@ -1,5 +1,4 @@
-Parechidnina Kozur, Mostler & Repetski, 1996 GENUS
-=======
+# Parechidnina Kozur, Mostler & Repetski, 1996 GENUS
 
 #### Status
 ACCEPTED

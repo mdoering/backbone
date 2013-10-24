@@ -1,5 +1,4 @@
-Irenina ximeniae Bat. & J. Silva SPECIES
-=======
+# Irenina ximeniae Bat. & J. Silva SPECIES
 
 #### Status
 ACCEPTED

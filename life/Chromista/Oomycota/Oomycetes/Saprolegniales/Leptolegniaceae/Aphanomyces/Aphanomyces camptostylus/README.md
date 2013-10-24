@@ -1,5 +1,4 @@
-Aphanomyces camptostylus Drechsler SPECIES
-=======
+# Aphanomyces camptostylus Drechsler SPECIES
 
 #### Status
 ACCEPTED

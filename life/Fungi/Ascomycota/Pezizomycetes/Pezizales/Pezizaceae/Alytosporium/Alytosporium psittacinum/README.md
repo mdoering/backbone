@@ -1,5 +1,4 @@
-Alytosporium psittacinum (Link) Steud. SPECIES
-=======
+# Alytosporium psittacinum (Link) Steud. SPECIES
 
 #### Status
 ACCEPTED

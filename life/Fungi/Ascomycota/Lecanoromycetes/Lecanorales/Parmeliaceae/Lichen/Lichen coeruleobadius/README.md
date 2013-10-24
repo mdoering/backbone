@@ -1,5 +1,4 @@
-Lichen coeruleobadius Schleich. SPECIES
-=======
+# Lichen coeruleobadius Schleich. SPECIES
 
 #### Status
 ACCEPTED

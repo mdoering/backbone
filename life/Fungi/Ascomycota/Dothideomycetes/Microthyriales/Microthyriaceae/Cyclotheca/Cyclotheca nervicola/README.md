@@ -1,5 +1,4 @@
-Cyclotheca nervicola (Petr.) Arx SPECIES
-=======
+# Cyclotheca nervicola (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

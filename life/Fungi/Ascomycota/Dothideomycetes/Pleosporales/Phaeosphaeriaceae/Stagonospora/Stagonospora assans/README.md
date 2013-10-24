@@ -1,5 +1,4 @@
-Stagonospora assans Pass. SPECIES
-=======
+# Stagonospora assans Pass. SPECIES
 
 #### Status
 ACCEPTED

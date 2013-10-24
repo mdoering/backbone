@@ -1,5 +1,4 @@
-Usnea parvula Motyka SPECIES
-=======
+# Usnea parvula Motyka SPECIES
 
 #### Status
 ACCEPTED

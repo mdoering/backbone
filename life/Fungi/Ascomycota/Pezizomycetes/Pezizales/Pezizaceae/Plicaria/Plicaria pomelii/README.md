@@ -1,5 +1,4 @@
-Plicaria pomelii Maire SPECIES
-=======
+# Plicaria pomelii Maire SPECIES
 
 #### Status
 ACCEPTED

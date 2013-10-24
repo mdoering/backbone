@@ -1,5 +1,4 @@
-Stictina pustulosa F. Wilson SPECIES
-=======
+# Stictina pustulosa F. Wilson SPECIES
 
 #### Status
 ACCEPTED

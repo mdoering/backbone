@@ -1,17 +1,16 @@
-Cyttaria hookeri f. moroidea Marchion., 1940 FORM
-=======
+# Cyttaria johowii Espinosa, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Darwiniana 4(1): 27 (1940)
+Boln Mus. nac. Chile 18: 23 (1940)
 
 #### Original name
-Cyttaria hookeri f. moroidea Marchion., 1940
+Cyttaria johowii Espinosa, 1940
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma intricans M.B. Schwarz, 1922 SPECIES
-=======
+# Phoma intricans M.B. Schwarz, 1922 SPECIES
 
 #### Status
 ACCEPTED

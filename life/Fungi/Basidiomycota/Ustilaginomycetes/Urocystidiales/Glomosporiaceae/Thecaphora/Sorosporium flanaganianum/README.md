@@ -1,5 +1,4 @@
-Sorosporium flanaganianum Zundel SPECIES
-=======
+# Sorosporium flanaganianum Zundel SPECIES
 
 #### Status
 ACCEPTED

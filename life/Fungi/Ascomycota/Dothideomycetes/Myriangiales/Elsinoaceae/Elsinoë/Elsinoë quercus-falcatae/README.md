@@ -1,5 +1,4 @@
-Elsinoë quercus-falcatae J.H. Mill., 1957 SPECIES
-=======
+# Elsinoë quercus-falcatae J.H. Mill., 1957 SPECIES
 
 #### Status
 ACCEPTED

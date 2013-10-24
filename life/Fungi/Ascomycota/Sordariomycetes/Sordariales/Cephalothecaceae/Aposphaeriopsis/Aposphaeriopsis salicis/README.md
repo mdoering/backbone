@@ -1,5 +1,4 @@
-Aposphaeriopsis salicis Beeli SPECIES
-=======
+# Aposphaeriopsis salicis Beeli SPECIES
 
 #### Status
 ACCEPTED

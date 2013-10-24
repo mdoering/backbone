@@ -1,5 +1,4 @@
-Sarcoleotia globosa (Sommerf. ex Fr.) Korf SPECIES
-=======
+# Sarcoleotia globosa (Sommerf. ex Fr.) Korf SPECIES
 
 #### Status
 ACCEPTED

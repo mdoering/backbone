@@ -1,5 +1,4 @@
-Carpomitra inermis (Turner) Kützing SPECIES
-=======
+# Carpomitra inermis (Turner) Kützing SPECIES
 
 #### Status
 ACCEPTED

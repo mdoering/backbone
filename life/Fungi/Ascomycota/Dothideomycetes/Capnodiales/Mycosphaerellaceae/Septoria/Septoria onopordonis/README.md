@@ -1,5 +1,4 @@
-Septoria onopordonis Nagorny SPECIES
-=======
+# Septoria onopordonis Nagorny SPECIES
 
 #### Status
 ACCEPTED

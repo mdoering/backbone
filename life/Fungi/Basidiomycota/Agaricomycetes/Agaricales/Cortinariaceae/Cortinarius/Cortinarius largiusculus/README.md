@@ -1,5 +1,4 @@
-Cortinarius largiusculus Britzelm. SPECIES
-=======
+# Cortinarius largiusculus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

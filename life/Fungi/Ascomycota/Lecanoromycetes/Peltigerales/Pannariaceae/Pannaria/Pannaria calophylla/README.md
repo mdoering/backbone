@@ -1,5 +1,4 @@
-Pannaria calophylla (Müll. Arg.) Passo & Calvelo SPECIES
-=======
+# Pannaria calophylla (Müll. Arg.) Passo & Calvelo SPECIES
 
 #### Status
 ACCEPTED

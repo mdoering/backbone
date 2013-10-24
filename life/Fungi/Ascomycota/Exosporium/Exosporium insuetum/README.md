@@ -1,5 +1,4 @@
-Exosporium insuetum (Petr.) M.B. Ellis SPECIES
-=======
+# Exosporium insuetum (Petr.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

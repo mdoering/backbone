@@ -1,5 +1,4 @@
-Leptosphaeria junci Feltgen SPECIES
-=======
+# Leptosphaeria junci Feltgen SPECIES
 
 #### Status
 ACCEPTED

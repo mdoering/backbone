@@ -1,5 +1,4 @@
-Xylosphaera sessilis (Pat.) Dennis SPECIES
-=======
+# Xylosphaera sessilis (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED

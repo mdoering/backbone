@@ -1,5 +1,4 @@
-Didymocyrtidium Vain. GENUS
-=======
+# Didymocyrtidium Vain. GENUS
 
 #### Status
 ACCEPTED

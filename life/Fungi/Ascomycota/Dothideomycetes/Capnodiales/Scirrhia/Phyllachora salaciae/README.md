@@ -1,5 +1,4 @@
-Phyllachora salaciae (Henn.) Höhn., 1910 SPECIES
-=======
+# Phyllachora salaciae (Henn.) Höhn., 1910 SPECIES
 
 #### Status
 DOUBTFUL

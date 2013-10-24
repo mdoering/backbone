@@ -1,5 +1,4 @@
-Gloniopsis ilicicola (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Gloniopsis ilicicola (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

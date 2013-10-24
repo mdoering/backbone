@@ -1,5 +1,4 @@
-Cladosporium molle Cooke, 1878 SPECIES
-=======
+# Cladosporium molle Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

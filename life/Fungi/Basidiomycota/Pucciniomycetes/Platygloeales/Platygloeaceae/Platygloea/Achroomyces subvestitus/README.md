@@ -1,5 +1,4 @@
-Achroomyces subvestitus (L.S. Olive) Wojewoda SPECIES
-=======
+# Achroomyces subvestitus (L.S. Olive) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

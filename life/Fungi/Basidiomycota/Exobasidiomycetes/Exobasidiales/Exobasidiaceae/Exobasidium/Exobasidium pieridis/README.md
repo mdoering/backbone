@@ -1,5 +1,4 @@
-Exobasidium pieridis Henn. SPECIES
-=======
+# Exobasidium pieridis Henn. SPECIES
 
 #### Status
 ACCEPTED

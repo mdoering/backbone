@@ -1,5 +1,4 @@
-Uromyces loculatus Cummins SPECIES
-=======
+# Uromyces loculatus Cummins SPECIES
 
 #### Status
 ACCEPTED

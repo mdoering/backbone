@@ -1,5 +1,4 @@
-Hygrocybe brunneosquamosa Lodge & S.A. Cantrell SPECIES
-=======
+# Hygrocybe brunneosquamosa Lodge & S.A. Cantrell SPECIES
 
 #### Status
 ACCEPTED

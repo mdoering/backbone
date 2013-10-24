@@ -1,5 +1,4 @@
-Arniella polycercia Jeng & J.C. Krug, 1977 SPECIES
-=======
+# Arniella polycercia Jeng & J.C. Krug, 1977 SPECIES
 
 #### Status
 ACCEPTED

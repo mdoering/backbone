@@ -1,5 +1,4 @@
-Caloplaca subaurantiaca (Fée) Zahlbr. SPECIES
-=======
+# Caloplaca subaurantiaca (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proteus hominis SPECIES
-=======
+# Proteus hominis SPECIES
 
 #### Status
 ACCEPTED

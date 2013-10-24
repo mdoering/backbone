@@ -1,5 +1,4 @@
-Rhodophyllus pallidior Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus pallidior Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

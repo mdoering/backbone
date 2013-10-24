@@ -1,5 +1,4 @@
-Arthroon Renault GENUS
-=======
+# Arthroon Renault GENUS
 
 #### Status
 ACCEPTED

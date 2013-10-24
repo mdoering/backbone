@@ -1,5 +1,4 @@
-Thelenella cinereonigricans Vain. SPECIES
-=======
+# Thelenella cinereonigricans Vain. SPECIES
 
 #### Status
 ACCEPTED

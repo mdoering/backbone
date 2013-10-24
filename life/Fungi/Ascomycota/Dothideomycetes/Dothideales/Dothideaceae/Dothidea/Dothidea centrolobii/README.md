@@ -1,5 +1,4 @@
-Dothidea centrolobii Henn. SPECIES
-=======
+# Dothidea centrolobii Henn. SPECIES
 
 #### Status
 ACCEPTED

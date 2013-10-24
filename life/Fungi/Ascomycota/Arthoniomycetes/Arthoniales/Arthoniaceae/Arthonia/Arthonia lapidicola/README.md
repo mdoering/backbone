@@ -1,17 +1,16 @@
-Allarthonia lapidicola var. lapidicola (Taylor) Zahlbr. VARIETY
-=======
+# Arthonia lapidicola (Taylor) Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Tidsskr. 3: 245 (1869)
 
 #### Original name
-Allarthonia lapidicola var. lapidicola (Taylor) Zahlbr.
+Lecidea lapidicola Taylor
 
 ### Remarks
 null

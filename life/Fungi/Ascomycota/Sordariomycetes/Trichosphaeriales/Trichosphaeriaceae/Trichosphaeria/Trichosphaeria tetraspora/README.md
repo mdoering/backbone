@@ -1,5 +1,4 @@
-Trichosphaeria tetraspora Feltgen SPECIES
-=======
+# Trichosphaeria tetraspora Feltgen SPECIES
 
 #### Status
 ACCEPTED

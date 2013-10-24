@@ -1,5 +1,4 @@
-Zythia citrinella (Lév.) Sacc. SPECIES
-=======
+# Zythia citrinella (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

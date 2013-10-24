@@ -1,5 +1,4 @@
-Platysma dissectum (Sw.) Hoffm. SPECIES
-=======
+# Platysma dissectum (Sw.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptodifflugia Penard, 1890 GENUS
-=======
+# Cryptodifflugia Penard, 1890 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora peliocypha (Wahlenb.) Nyl. SPECIES
-=======
+# Lecanora peliocypha (Wahlenb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

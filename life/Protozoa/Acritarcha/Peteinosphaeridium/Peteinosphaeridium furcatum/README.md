@@ -1,5 +1,4 @@
-Peteinosphaeridium furcatum Combaz & Peniguel, 1972 SPECIES
-=======
+# Peteinosphaeridium furcatum Combaz & Peniguel, 1972 SPECIES
 
 #### Status
 ACCEPTED

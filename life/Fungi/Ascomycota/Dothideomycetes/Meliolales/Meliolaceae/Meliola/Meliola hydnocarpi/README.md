@@ -1,17 +1,16 @@
-Meliola hydnocarpi var. hydnocarpi VARIETY
-=======
+# Meliola hydnocarpi Hansf. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 76 (1957)
 
 #### Original name
-null
+Meliola hydnocarpi Hansf.
 
 ### Remarks
 null

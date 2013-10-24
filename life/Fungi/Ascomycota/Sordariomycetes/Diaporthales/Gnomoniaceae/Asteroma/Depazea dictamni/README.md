@@ -1,5 +1,4 @@
-Depazea dictamni Rabenh. SPECIES
-=======
+# Depazea dictamni Rabenh. SPECIES
 
 #### Status
 ACCEPTED

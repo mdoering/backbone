@@ -1,5 +1,4 @@
-Cladosporium potebniae Pidopl. & Deniak SPECIES
-=======
+# Cladosporium potebniae Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED

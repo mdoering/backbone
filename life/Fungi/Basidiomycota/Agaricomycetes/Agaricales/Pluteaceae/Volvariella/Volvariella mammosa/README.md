@@ -1,5 +1,4 @@
-Volvariella mammosa N.C. Pathak SPECIES
-=======
+# Volvariella mammosa N.C. Pathak SPECIES
 
 #### Status
 ACCEPTED

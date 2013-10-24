@@ -1,5 +1,4 @@
-Stilostomella Guppy, 1895 GENUS
-=======
+# Stilostomella Guppy, 1895 GENUS
 
 #### Status
 ACCEPTED

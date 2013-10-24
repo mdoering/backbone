@@ -1,5 +1,4 @@
-Amphiacantha attenuata J.W. Stubblefield SPECIES
-=======
+# Amphiacantha attenuata J.W. Stubblefield SPECIES
 
 #### Status
 ACCEPTED

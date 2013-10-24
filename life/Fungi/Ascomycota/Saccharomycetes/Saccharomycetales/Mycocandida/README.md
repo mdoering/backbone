@@ -1,5 +1,4 @@
-Mycocandida GENUS
-=======
+# Mycocandida GENUS
 
 #### Status
 ACCEPTED

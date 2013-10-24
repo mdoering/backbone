@@ -1,14 +1,13 @@
-Leptonia virescens (Berk. & M.A. Curtis) Sacc., 1887 SPECIES
-=======
+# Entoloma virescens (Berk. & M.A. Curtis) E. Horak, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 714 (1887)
+Sydowia 28(1-6): 200 (1976)
 
 #### Original name
 Agaricus virescens Schaeff., 1774

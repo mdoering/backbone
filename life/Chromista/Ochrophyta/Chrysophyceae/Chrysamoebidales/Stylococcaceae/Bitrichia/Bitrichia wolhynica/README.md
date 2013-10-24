@@ -1,5 +1,4 @@
-Bitrichia wolhynica Woloszynska SPECIES
-=======
+# Bitrichia wolhynica Woloszynska SPECIES
 
 #### Status
 ACCEPTED

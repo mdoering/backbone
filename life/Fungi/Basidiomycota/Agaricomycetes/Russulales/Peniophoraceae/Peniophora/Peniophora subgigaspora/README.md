@@ -1,5 +1,4 @@
-Peniophora subgigaspora Rick SPECIES
-=======
+# Peniophora subgigaspora Rick SPECIES
 
 #### Status
 ACCEPTED

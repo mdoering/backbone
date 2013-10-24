@@ -1,5 +1,4 @@
-Crystallocystidium intermedium Rick SPECIES
-=======
+# Crystallocystidium intermedium Rick SPECIES
 
 #### Status
 ACCEPTED

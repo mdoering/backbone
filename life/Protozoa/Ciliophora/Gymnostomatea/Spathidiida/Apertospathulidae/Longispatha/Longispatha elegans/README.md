@@ -1,5 +1,4 @@
-Longispatha elegans Foissner, Xu & Kreutz, 2005 SPECIES
-=======
+# Longispatha elegans Foissner, Xu & Kreutz, 2005 SPECIES
 
 #### Status
 ACCEPTED

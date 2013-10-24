@@ -1,14 +1,13 @@
-Plagiostoma cahirensis (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Plagiostoma cahirense (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. linn. Provence, num. spéc. 1: 47 (1989)
 
 #### Original name
 Laestadia cahirensis J. Steiner

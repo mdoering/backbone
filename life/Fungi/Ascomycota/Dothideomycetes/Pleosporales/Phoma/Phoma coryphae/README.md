@@ -1,5 +1,4 @@
-Phoma coryphae Cooke & Massee SPECIES
-=======
+# Phoma coryphae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

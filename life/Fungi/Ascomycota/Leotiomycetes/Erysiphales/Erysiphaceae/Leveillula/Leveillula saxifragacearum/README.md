@@ -1,5 +1,4 @@
-Leveillula saxifragacearum f. saxifragacearum FORM
-=======
+# Leveillula saxifragacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula saxifragacearum f. saxifragacearum
+Leveillula saxifragacearum Golovin
 
 ### Remarks
 null

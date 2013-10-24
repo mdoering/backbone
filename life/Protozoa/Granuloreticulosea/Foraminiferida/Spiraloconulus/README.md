@@ -1,17 +1,16 @@
-Spiroconulus Allemann & Schroeder, 1972 GENUS
-=======
+# Spiraloconulus Allemann & Schroeder, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revta esp. Micropaleont. (Num. extraord. ) 1972: 203.
+Revista esp. Micropaleont. 12 (3): 358.
 
 #### Original name
-null
+Spiroconulus Allemann & Schroeder, 1972
 
 ### Remarks
 null

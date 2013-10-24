@@ -1,5 +1,4 @@
-Cortinarius recensitus Britzelm. SPECIES
-=======
+# Cortinarius recensitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

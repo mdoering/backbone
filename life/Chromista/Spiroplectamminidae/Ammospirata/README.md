@@ -1,5 +1,4 @@
-Ammospirata Cushman, 1933 GENUS
-=======
+# Ammospirata Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

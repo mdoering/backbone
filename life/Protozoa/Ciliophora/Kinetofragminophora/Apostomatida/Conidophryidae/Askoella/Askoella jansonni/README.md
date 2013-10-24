@@ -1,8 +1,7 @@
-Askoella janssoni Fenchel, 1965 SPECIES
-=======
+# Askoella jansonni Fenchel, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

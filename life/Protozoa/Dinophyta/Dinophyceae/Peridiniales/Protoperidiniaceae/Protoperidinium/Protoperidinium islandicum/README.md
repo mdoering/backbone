@@ -1,5 +1,4 @@
-Protoperidinium islandicum (Paulsen) Balech SPECIES
-=======
+# Protoperidinium islandicum (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

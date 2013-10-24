@@ -1,5 +1,4 @@
-Sphaceloma genipae Bitanc., 1937 SPECIES
-=======
+# Sphaceloma genipae Bitanc., 1937 SPECIES
 
 #### Status
 ACCEPTED

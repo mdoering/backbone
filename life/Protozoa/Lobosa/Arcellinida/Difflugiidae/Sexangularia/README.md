@@ -1,5 +1,4 @@
-Sexangularia Averinzew, 1906 GENUS
-=======
+# Sexangularia Averinzew, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia incisa SPECIES
-=======
+# Cothurnia incisa SPECIES
 
 #### Status
 ACCEPTED

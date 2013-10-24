@@ -1,5 +1,4 @@
-Dirinaria leopoldii (Stein) D.D. Awasthi SPECIES
-=======
+# Dirinaria leopoldii (Stein) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

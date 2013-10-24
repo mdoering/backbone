@@ -1,5 +1,4 @@
-Laetiporus discolor (Klotzsch) Corner SPECIES
-=======
+# Laetiporus discolor (Klotzsch) Corner SPECIES
 
 #### Status
 ACCEPTED

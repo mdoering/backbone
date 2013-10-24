@@ -1,5 +1,4 @@
-Asterella gardoquiae Syd. SPECIES
-=======
+# Asterella gardoquiae Syd. SPECIES
 
 #### Status
 ACCEPTED

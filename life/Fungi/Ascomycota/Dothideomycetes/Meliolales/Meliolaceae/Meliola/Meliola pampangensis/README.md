@@ -1,5 +1,4 @@
-Meliola pampangensis Petr. SPECIES
-=======
+# Meliola pampangensis Petr. SPECIES
 
 #### Status
 ACCEPTED

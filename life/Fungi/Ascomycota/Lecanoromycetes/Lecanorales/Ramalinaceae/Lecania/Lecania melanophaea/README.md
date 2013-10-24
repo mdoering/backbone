@@ -1,5 +1,4 @@
-Lecania melanophaea (Anzi) Zahlbr. SPECIES
-=======
+# Lecania melanophaea (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

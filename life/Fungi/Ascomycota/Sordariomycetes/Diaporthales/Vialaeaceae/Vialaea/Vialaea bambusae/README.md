@@ -1,5 +1,4 @@
-Vialaea bambusae Hara SPECIES
-=======
+# Vialaea bambusae Hara SPECIES
 
 #### Status
 ACCEPTED

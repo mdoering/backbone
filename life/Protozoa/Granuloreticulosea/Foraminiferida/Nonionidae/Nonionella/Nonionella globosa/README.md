@@ -1,5 +1,4 @@
-Nonionella globosa Ishiwada, 1950 SPECIES
-=======
+# Nonionella globosa Ishiwada, 1950 SPECIES
 
 #### Status
 ACCEPTED

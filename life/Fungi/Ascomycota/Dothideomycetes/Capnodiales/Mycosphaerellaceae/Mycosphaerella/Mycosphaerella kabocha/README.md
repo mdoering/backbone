@@ -1,5 +1,4 @@
-Mycosphaerella kabocha Hara SPECIES
-=======
+# Mycosphaerella kabocha Hara SPECIES
 
 #### Status
 ACCEPTED

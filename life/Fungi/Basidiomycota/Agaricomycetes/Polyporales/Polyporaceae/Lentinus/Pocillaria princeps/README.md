@@ -1,5 +1,4 @@
-Pocillaria princeps (Fr.) Kuntze SPECIES
-=======
+# Pocillaria princeps (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

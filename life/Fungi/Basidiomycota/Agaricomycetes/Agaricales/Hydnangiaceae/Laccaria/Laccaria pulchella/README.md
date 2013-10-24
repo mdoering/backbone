@@ -1,5 +1,4 @@
-Laccaria pulchella (Speg.) Singer SPECIES
-=======
+# Laccaria pulchella (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

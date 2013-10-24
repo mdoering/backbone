@@ -1,5 +1,4 @@
-Dentalina insecta (Schwager) SPECIES
-=======
+# Dentalina insecta (Schwager) SPECIES
 
 #### Status
 ACCEPTED

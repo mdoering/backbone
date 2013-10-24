@@ -1,5 +1,4 @@
-Phyllopsora spinulosa (Vain.) Zahlbr. SPECIES
-=======
+# Phyllopsora spinulosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

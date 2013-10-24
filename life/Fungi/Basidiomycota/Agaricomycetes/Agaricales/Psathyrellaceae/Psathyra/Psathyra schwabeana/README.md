@@ -1,5 +1,4 @@
-Psathyra schwabeana Henn. SPECIES
-=======
+# Psathyra schwabeana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptosphaeria atraphaxidis Vasyag. SPECIES
-=======
+# Leptosphaeria atraphaxis Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vasyagina, Byzova & Tartenova, Flora Sporovykh Rastenii Kazakhstana (Alma-Ata), Sumchatye. Griby Lokuloaskomitsety (Loculoascomycetes) 125 (1987)
 
 #### Original name
-Leptosphaeria atraphaxidis Vasyag.
+Leptosphaeria atraphaxis Vasyag.
 
 ### Remarks
 null

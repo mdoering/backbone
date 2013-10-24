@@ -1,5 +1,4 @@
-Cyathus fascicularis (Schwein.) De Toni SPECIES
-=======
+# Cyathus fascicularis (Schwein.) De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ramularia phaseoli (O.A. Drumm.) Deighton, 1967 SPECIES
-=======
+# Mycovellosiella phaseoli (O.A. Drumm.) Deighton, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 50: 125 (1967)
+Mycol. Pap. 137: 70 (1974)
 
 #### Original name
 Ovularia phaseoli O.A. Drumm., 1945

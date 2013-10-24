@@ -1,5 +1,4 @@
-Meliola hederae W. Yamam. SPECIES
-=======
+# Meliola hederae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

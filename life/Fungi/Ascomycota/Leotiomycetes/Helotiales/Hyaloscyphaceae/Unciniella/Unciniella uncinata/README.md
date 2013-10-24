@@ -1,5 +1,4 @@
-Unciniella uncinata (W. Phillips) K. Holm & L. Holm SPECIES
-=======
+# Unciniella uncinata (W. Phillips) K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

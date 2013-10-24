@@ -1,5 +1,4 @@
-Sagedia laurina Anzi SPECIES
-=======
+# Sagedia laurina Anzi SPECIES
 
 #### Status
 ACCEPTED

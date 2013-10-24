@@ -1,17 +1,16 @@
-Sphaerospora confusa var. confusa VARIETY
-=======
+# Ciliaria confusa (Cooke) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 190 (1889)
+Icon. Mycol. (Paris) 2: pl. 379 (1907)
 
 #### Original name
-Sphaerospora confusa var. confusa
+Peziza confusa Cooke, 1876
 
 ### Remarks
 null

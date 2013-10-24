@@ -1,5 +1,4 @@
-Synechocystis didemni Lewin SPECIES
-=======
+# Synechocystis didemni Lewin SPECIES
 
 #### Status
 ACCEPTED

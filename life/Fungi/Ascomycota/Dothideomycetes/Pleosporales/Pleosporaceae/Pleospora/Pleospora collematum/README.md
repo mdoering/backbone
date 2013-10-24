@@ -1,5 +1,4 @@
-Pleospora collematum Zukal SPECIES
-=======
+# Pleospora collematum Zukal SPECIES
 
 #### Status
 ACCEPTED

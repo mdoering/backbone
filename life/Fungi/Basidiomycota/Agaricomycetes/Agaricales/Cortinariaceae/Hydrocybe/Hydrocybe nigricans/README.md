@@ -1,5 +1,4 @@
-Hydrocybe nigricans Velen. SPECIES
-=======
+# Hydrocybe nigricans Velen. SPECIES
 
 #### Status
 ACCEPTED

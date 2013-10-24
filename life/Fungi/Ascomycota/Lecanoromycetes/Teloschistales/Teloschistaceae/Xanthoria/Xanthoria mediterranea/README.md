@@ -1,5 +1,4 @@
-Xanthoria mediterranea Giralt, Nimis & Poelt SPECIES
-=======
+# Xanthoria mediterranea Giralt, Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

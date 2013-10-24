@@ -1,5 +1,4 @@
-Dactylella zhongdianensis J. Zhang & K.Q. Zhang SPECIES
-=======
+# Dactylella zhongdianensis J. Zhang & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

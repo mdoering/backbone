@@ -1,5 +1,4 @@
-Laboulbeniella tucumanensis Speg. SPECIES
-=======
+# Laboulbeniella tucumanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

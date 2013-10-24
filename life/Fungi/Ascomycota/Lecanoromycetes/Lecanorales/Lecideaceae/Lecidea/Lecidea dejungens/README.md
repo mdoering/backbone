@@ -1,5 +1,4 @@
-Lecidea dejungens Nyl. SPECIES
-=======
+# Lecidea dejungens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia costina Cummins, 1956 SPECIES
-=======
+# Puccinia costina Cummins, 1956 SPECIES
 
 #### Status
 ACCEPTED

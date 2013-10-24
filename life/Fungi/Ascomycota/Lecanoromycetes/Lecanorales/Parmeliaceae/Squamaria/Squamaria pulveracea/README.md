@@ -1,5 +1,4 @@
-Squamaria pulveracea SPECIES
-=======
+# Squamaria pulveracea SPECIES
 
 #### Status
 ACCEPTED

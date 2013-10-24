@@ -1,5 +1,4 @@
-Dichotomocladium elegans Benny & R.K. Benj., 1975 SPECIES
-=======
+# Dichotomocladium elegans Benny & R.K. Benj., 1975 SPECIES
 
 #### Status
 ACCEPTED

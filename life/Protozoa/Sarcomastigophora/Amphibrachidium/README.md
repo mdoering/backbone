@@ -1,5 +1,4 @@
-Amphibrachidium Haeckel, 1887 GENUS
-=======
+# Amphibrachidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

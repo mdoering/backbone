@@ -1,5 +1,4 @@
-Eponides bradyi SPECIES
-=======
+# Eponides bradyi SPECIES
 
 #### Status
 ACCEPTED

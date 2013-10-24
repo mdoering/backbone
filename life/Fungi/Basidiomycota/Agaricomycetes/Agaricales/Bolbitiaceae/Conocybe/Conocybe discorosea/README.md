@@ -1,5 +1,4 @@
-Conocybe discorosea E. Horak, Hauskn. & Desjardin SPECIES
-=======
+# Conocybe discorosea E. Horak, Hauskn. & Desjardin SPECIES
 
 #### Status
 ACCEPTED

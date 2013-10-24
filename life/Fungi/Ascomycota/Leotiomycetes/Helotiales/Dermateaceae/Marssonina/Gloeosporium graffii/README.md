@@ -1,5 +1,4 @@
-Gloeosporium graffii Syd. & P. Syd. SPECIES
-=======
+# Gloeosporium graffii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

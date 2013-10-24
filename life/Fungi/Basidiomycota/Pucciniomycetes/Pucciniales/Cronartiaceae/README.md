@@ -1,5 +1,4 @@
-Cronartiaceae Dietel FAMILY
-=======
+# Cronartiaceae Dietel FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea cerasi Cooke & Ellis SPECIES
-=======
+# Dothidea cerasi Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

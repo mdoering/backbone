@@ -1,5 +1,4 @@
-Symphysos Bat. & Cavalc. GENUS
-=======
+# Symphysos Bat. & Cavalc. GENUS
 
 #### Status
 ACCEPTED

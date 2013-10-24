@@ -1,5 +1,4 @@
-Pholiota albo-olivasens A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota albo-olivasens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

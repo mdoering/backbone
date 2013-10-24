@@ -1,5 +1,4 @@
-Dichodium GENUS
-=======
+# Dichodium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerographium abditum Sacc. & Scalia SPECIES
-=======
+# Sphaerographium abditum Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

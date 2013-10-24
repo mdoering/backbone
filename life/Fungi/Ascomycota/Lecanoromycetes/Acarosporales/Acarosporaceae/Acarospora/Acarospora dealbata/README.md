@@ -1,5 +1,4 @@
-Acarospora dealbata SPECIES
-=======
+# Acarospora dealbata SPECIES
 
 #### Status
 ACCEPTED

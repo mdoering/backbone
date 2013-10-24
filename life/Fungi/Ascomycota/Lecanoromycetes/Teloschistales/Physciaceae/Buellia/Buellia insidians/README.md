@@ -1,5 +1,4 @@
-Buellia insidians (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia insidians (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

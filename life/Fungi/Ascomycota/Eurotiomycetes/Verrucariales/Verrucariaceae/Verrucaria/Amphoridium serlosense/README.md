@@ -1,5 +1,4 @@
-Amphoridium serlosense (Servít) Servít SPECIES
-=======
+# Amphoridium serlosense (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

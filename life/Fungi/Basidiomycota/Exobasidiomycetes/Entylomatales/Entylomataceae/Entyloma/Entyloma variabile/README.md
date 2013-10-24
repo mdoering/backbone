@@ -1,5 +1,4 @@
-Entyloma variabile Cif. SPECIES
-=======
+# Entyloma variabile Cif. SPECIES
 
 #### Status
 ACCEPTED

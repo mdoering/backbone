@@ -1,5 +1,4 @@
-Leucostoma mangiferae Sathe & Vaidya SPECIES
-=======
+# Leucostoma mangiferae Sathe & Vaidya SPECIES
 
 #### Status
 ACCEPTED

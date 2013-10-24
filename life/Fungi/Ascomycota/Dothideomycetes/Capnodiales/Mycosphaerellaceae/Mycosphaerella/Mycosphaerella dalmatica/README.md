@@ -1,5 +1,4 @@
-Mycosphaerella dalmatica (Picb.) Petr. SPECIES
-=======
+# Mycosphaerella dalmatica (Picb.) Petr. SPECIES
 
 #### Status
 ACCEPTED

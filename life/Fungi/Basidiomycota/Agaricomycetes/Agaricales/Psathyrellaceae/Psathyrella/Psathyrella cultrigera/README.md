@@ -1,5 +1,4 @@
-Psathyrella cultrigera Mouton SPECIES
-=======
+# Psathyrella cultrigera Mouton SPECIES
 
 #### Status
 ACCEPTED

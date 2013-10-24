@@ -1,5 +1,4 @@
-Agaricomycetes Doweld CLASS
-=======
+# Agaricomycetes Doweld CLASS
 
 #### Status
 ACCEPTED

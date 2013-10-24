@@ -1,5 +1,4 @@
-Coelosphaerium natans Lemmermann SPECIES
-=======
+# Coelosphaerium natans Lemmermann SPECIES
 
 #### Status
 ACCEPTED

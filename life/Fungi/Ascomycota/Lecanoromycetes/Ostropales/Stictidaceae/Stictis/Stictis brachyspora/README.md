@@ -1,5 +1,4 @@
-Stictis brachyspora Sacc. & Berl. SPECIES
-=======
+# Stictis brachyspora Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

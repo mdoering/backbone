@@ -1,8 +1,7 @@
-Sargassum vulgare var. sociale Grunow VARIETY
-=======
+# Sargassum sociale (Grunow) Setchell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

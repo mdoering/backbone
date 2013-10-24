@@ -1,5 +1,4 @@
-Pleurotus clusilis (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus clusilis (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

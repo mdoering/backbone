@@ -1,5 +1,4 @@
-Phylloporia psila (Lloyd) Ryvarden, 1972 SPECIES
-=======
+# Phylloporia psila (Lloyd) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED

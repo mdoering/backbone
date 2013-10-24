@@ -1,5 +1,4 @@
-Monilinia alpina L.R. Batra SPECIES
-=======
+# Monilinia alpina L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

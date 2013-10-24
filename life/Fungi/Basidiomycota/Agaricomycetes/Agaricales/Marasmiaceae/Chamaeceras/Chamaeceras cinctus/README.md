@@ -1,5 +1,4 @@
-Chamaeceras cinctus (Berk.) Kuntze SPECIES
-=======
+# Chamaeceras cinctus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

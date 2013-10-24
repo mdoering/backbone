@@ -1,5 +1,4 @@
-Heterodea Nyl. GENUS
-=======
+# Heterodea Nyl. GENUS
 
 #### Status
 ACCEPTED

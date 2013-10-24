@@ -1,5 +1,4 @@
-Taxomyces andreanae Strobel, A. Stierle, D. Stierle & W.M. Hess, 1993 SPECIES
-=======
+# Taxomyces andreanae Strobel, A. Stierle, D. Stierle & W.M. Hess, 1993 SPECIES
 
 #### Status
 ACCEPTED

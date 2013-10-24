@@ -1,5 +1,4 @@
-Xanthoporina GENUS
-=======
+# Xanthoporina GENUS
 
 #### Status
 ACCEPTED

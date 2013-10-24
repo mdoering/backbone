@@ -1,14 +1,13 @@
-Nummularia carabayanse (Mont.) Cooke SPECIES
-=======
+# Nummularia carabayense (Mont.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 12(no. 61): 8 (1883)
 
 #### Original name
 Hypoxylon carabayanse Mont.

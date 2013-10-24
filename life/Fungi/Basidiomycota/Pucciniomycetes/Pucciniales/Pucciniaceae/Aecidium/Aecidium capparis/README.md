@@ -1,17 +1,16 @@
-Aecidium capparidis Sagdull. SPECIES
-=======
+# Aecidium capparis Sagdull. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ramazanova, Faizieva, Sagdullaeva, Kirgizbaeva & Gaponenko, Flora Gribov Uzbekistana (Tashkent), <b>3</b> Rzhavchinnye griby 194 (1986)
 
 #### Original name
-Aecidium capparidis Sagdull.
+Aecidium capparis Sagdull.
 
 ### Remarks
 null

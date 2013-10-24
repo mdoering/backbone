@@ -1,5 +1,4 @@
-Fomes contrarius (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Fomes contrarius (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

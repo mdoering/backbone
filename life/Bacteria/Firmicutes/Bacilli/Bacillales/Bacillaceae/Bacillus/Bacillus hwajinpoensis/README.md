@@ -1,5 +1,4 @@
-Bacillus hwajinpoensis Yoon et al., 2004 SPECIES
-=======
+# Bacillus hwajinpoensis Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

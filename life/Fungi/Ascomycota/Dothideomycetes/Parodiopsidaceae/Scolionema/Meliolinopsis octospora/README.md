@@ -1,5 +1,4 @@
-Meliolinopsis octospora (Cooke) Beeli SPECIES
-=======
+# Meliolinopsis octospora (Cooke) Beeli SPECIES
 
 #### Status
 ACCEPTED

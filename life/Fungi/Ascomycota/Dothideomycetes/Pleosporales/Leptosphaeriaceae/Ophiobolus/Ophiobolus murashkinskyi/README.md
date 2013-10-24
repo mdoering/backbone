@@ -1,5 +1,4 @@
-Ophiobolus murashkinskyi Ziling SPECIES
-=======
+# Ophiobolus murashkinskyi Ziling SPECIES
 
 #### Status
 ACCEPTED

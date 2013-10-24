@@ -1,5 +1,4 @@
-Homostegia durionis Racib. SPECIES
-=======
+# Homostegia durionis Racib. SPECIES
 
 #### Status
 ACCEPTED

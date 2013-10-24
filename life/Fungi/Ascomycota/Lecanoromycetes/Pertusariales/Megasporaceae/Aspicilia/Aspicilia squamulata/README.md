@@ -1,5 +1,4 @@
-Aspicilia squamulata Hue SPECIES
-=======
+# Aspicilia squamulata Hue SPECIES
 
 #### Status
 ACCEPTED

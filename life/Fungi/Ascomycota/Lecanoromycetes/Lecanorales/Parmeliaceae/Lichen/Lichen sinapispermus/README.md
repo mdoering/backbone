@@ -1,5 +1,4 @@
-Lichen sinapispermus Lam. SPECIES
-=======
+# Lichen sinapispermus Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placoma africanum Wille SPECIES
-=======
+# Placoma africanum Wille SPECIES
 
 #### Status
 ACCEPTED

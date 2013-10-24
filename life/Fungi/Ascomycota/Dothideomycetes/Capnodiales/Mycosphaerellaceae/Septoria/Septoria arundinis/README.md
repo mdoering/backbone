@@ -1,5 +1,4 @@
-Septoria arundinis (Mont.) Sacc. SPECIES
-=======
+# Septoria arundinis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

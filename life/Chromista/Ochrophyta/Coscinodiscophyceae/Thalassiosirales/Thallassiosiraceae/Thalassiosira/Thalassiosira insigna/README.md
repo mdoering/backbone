@@ -1,5 +1,4 @@
-Thalassiosira insigna (A. P. Jousé) D. M. Harwood & T. Maruyama SPECIES
-=======
+# Thalassiosira insigna (A. P. Jousé) D. M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

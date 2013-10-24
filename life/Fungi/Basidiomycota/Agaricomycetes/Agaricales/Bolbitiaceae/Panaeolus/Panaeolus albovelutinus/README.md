@@ -1,5 +1,4 @@
-Panaeolus albovelutinus (Rick) Raithelh. SPECIES
-=======
+# Panaeolus albovelutinus (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

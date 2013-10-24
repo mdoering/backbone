@@ -1,5 +1,4 @@
-Hygrophorus hyporrhodius G.H. Otth SPECIES
-=======
+# Hygrophorus hyporrhodius G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

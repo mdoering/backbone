@@ -1,5 +1,4 @@
-Lyngbya bouillonii L. Hoffmann & V. Demoulin SPECIES
-=======
+# Lyngbya bouillonii L. Hoffmann & V. Demoulin SPECIES
 
 #### Status
 ACCEPTED

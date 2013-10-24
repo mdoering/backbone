@@ -1,5 +1,4 @@
-Polysporina oligospora (H. Magn.) K. Knudsen SPECIES
-=======
+# Polysporina oligospora (H. Magn.) K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

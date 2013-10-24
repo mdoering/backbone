@@ -1,5 +1,4 @@
-Naucoria uliginosa Peck SPECIES
-=======
+# Naucoria uliginosa Peck SPECIES
 
 #### Status
 ACCEPTED

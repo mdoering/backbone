@@ -1,5 +1,4 @@
-Ditremis microcarpa Makhija & Patw. SPECIES
-=======
+# Ditremis microcarpa Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

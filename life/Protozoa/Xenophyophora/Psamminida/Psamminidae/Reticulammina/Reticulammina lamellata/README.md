@@ -1,5 +1,4 @@
-Reticulammina lamellata Tendal, 1972 SPECIES
-=======
+# Reticulammina lamellata Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria uvariae Berk. SPECIES
-=======
+# Sphaeria uvariae Berk. SPECIES
 
 #### Status
 ACCEPTED

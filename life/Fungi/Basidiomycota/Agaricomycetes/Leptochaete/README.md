@@ -1,5 +1,4 @@
-Leptochaete Zmitrovich & Spirin, 2006 GENUS
-=======
+# Leptochaete Zmitrovich & Spirin, 2006 GENUS
 
 #### Status
 ACCEPTED

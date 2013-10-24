@@ -1,5 +1,4 @@
-Kabatiella platani (Eddelb. & Engelke) Karak. SPECIES
-=======
+# Kabatiella platani (Eddelb. & Engelke) Karak. SPECIES
 
 #### Status
 ACCEPTED

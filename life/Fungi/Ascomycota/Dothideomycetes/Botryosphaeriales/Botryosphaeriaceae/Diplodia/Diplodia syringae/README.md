@@ -1,5 +1,4 @@
-Diplodia syringae Auersw., 1870 SPECIES
-=======
+# Diplodia syringae Auersw., 1870 SPECIES
 
 #### Status
 ACCEPTED

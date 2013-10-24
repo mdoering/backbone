@@ -1,5 +1,4 @@
-Cortinarius arenarius Quél. SPECIES
-=======
+# Cortinarius arenarius Quél. SPECIES
 
 #### Status
 ACCEPTED

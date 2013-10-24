@@ -1,5 +1,4 @@
-Entoloma cyathiforme Dennis SPECIES
-=======
+# Entoloma cyathiforme Dennis SPECIES
 
 #### Status
 ACCEPTED

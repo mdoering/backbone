@@ -1,5 +1,4 @@
-Astrosporina aberrans E. Horak SPECIES
-=======
+# Astrosporina aberrans E. Horak SPECIES
 
 #### Status
 ACCEPTED

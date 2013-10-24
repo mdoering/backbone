@@ -1,5 +1,4 @@
-Dendrostilbella ailanthi Ranoj. & Bubák SPECIES
-=======
+# Dendrostilbella ailanthi Ranoj. & Bubák SPECIES
 
 #### Status
 ACCEPTED

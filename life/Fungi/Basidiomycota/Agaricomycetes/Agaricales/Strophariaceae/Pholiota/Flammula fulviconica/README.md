@@ -1,5 +1,4 @@
-Flammula fulviconica (Murrill) Murrill SPECIES
-=======
+# Flammula fulviconica (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

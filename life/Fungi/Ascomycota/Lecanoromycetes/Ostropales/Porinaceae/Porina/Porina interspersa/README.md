@@ -1,5 +1,4 @@
-Porina interspersa (Nyl.) Zahlbr. SPECIES
-=======
+# Porina interspersa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

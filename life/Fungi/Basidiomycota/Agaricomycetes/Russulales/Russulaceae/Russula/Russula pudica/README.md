@@ -1,5 +1,4 @@
-Russula pudica Carteret & Reumaux SPECIES
-=======
+# Russula pudica Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

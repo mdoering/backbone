@@ -1,5 +1,4 @@
-Cercospora viticis Sawada SPECIES
-=======
+# Cercospora viticis Sawada SPECIES
 
 #### Status
 ACCEPTED

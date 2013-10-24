@@ -1,5 +1,4 @@
-Diplococcium parcum Hol.-Jech. SPECIES
-=======
+# Diplococcium parcum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma cephalanthae Sawada SPECIES
-=======
+# Macrophoma cephalanthae Sawada SPECIES
 
 #### Status
 ACCEPTED

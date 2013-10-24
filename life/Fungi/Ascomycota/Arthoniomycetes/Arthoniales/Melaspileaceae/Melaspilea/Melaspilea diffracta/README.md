@@ -1,5 +1,4 @@
-Melaspilea diffracta (Fée) Redinger SPECIES
-=======
+# Melaspilea diffracta (Fée) Redinger SPECIES
 
 #### Status
 ACCEPTED

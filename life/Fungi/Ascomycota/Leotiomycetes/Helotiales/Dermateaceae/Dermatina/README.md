@@ -1,5 +1,4 @@
-Dermatina GENUS
-=======
+# Dermatina GENUS
 
 #### Status
 ACCEPTED

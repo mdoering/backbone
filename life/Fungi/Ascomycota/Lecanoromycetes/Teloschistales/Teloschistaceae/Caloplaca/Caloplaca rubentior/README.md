@@ -1,5 +1,4 @@
-Caloplaca rubentior (Zahlbr.) D.J. Galloway SPECIES
-=======
+# Caloplaca rubentior (Zahlbr.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

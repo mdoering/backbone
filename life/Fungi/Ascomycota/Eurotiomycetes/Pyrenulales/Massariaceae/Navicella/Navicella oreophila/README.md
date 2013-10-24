@@ -1,5 +1,4 @@
-Navicella oreophila (Speg.) Kuntze SPECIES
-=======
+# Navicella oreophila (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

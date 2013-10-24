@@ -1,5 +1,4 @@
-Lecanidion tetrasporum (A. Massal. & Morgan) Sacc. & D. Sacc. SPECIES
-=======
+# Lecanidion tetrasporum (A. Massal. & Morgan) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

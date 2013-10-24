@@ -1,5 +1,4 @@
-Pachycudonia S. Imai GENUS
-=======
+# Pachycudonia S. Imai GENUS
 
 #### Status
 ACCEPTED

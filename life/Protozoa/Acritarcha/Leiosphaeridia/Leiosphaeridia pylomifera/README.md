@@ -1,5 +1,4 @@
-Leiosphaeridia pylomifera Paskeviciene in Volkova et al., 1979 SPECIES
-=======
+# Leiosphaeridia pylomifera Paskeviciene in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

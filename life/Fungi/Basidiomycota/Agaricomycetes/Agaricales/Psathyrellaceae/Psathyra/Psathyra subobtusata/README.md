@@ -1,5 +1,4 @@
-Psathyra subobtusata (Britzelm.) Sacc. SPECIES
-=======
+# Psathyra subobtusata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

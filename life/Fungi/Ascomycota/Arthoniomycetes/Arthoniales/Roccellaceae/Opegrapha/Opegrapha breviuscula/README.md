@@ -1,5 +1,4 @@
-Opegrapha breviuscula Fée SPECIES
-=======
+# Opegrapha breviuscula Fée SPECIES
 
 #### Status
 ACCEPTED

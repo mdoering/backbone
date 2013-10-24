@@ -1,5 +1,4 @@
-Odontotrema plantagineum P. Karst. SPECIES
-=======
+# Odontotrema plantagineum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

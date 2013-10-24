@@ -1,5 +1,4 @@
-Panaeolus albidocinereus (Britzelm.) Sacc. SPECIES
-=======
+# Panaeolus albidocinereus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

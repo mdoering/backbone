@@ -1,5 +1,4 @@
-Verrucaria baetica Clemente SPECIES
-=======
+# Verrucaria baetica Clemente SPECIES
 
 #### Status
 ACCEPTED

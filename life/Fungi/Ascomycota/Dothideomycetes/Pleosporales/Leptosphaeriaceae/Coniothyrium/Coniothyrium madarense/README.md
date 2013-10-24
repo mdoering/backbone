@@ -1,5 +1,4 @@
-Coniothyrium madarense SPECIES
-=======
+# Coniothyrium madarense SPECIES
 
 #### Status
 ACCEPTED

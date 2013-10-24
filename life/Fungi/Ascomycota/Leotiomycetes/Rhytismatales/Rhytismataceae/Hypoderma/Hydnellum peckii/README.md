@@ -1,8 +1,7 @@
-Hydnellum rhizopes Coker, 1939 SPECIES
-=======
+# Hydnellum peckii Banker, 1912 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

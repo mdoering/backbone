@@ -1,5 +1,4 @@
-Placynthium radiosum (Anzi) Jatta SPECIES
-=======
+# Placynthium radiosum (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

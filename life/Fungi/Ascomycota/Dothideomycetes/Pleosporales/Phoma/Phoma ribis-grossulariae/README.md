@@ -1,5 +1,4 @@
-Phoma ribis-grossulariae Petr. SPECIES
-=======
+# Phoma ribis-grossulariae Petr. SPECIES
 
 #### Status
 ACCEPTED

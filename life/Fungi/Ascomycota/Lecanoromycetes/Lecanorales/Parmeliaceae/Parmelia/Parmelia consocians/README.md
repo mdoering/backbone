@@ -1,5 +1,4 @@
-Parmelia consocians Vain. SPECIES
-=======
+# Parmelia consocians Vain. SPECIES
 
 #### Status
 ACCEPTED

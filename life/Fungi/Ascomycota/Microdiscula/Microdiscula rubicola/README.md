@@ -1,5 +1,4 @@
-Microdiscula rubicola (Bres.) Höhn., 1915 SPECIES
-=======
+# Microdiscula rubicola (Bres.) Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

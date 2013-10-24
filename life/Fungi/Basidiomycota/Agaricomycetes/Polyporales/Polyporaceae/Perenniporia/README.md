@@ -1,17 +1,16 @@
-Truncospora Pilát ex Pilát GENUS
-=======
+# Perenniporia Murrill, 1942 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sborn. Nár. Mus. v Praze, Rada B, Prír. Vedy 9(2): 108 (1953)
+null
 
 #### Original name
-Truncospora Pilát ex Pilát
+null
 
 ### Remarks
 null

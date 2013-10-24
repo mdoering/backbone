@@ -1,5 +1,4 @@
-Rutstroemia espeletiae Dennis SPECIES
-=======
+# Rutstroemia espeletiae Dennis SPECIES
 
 #### Status
 ACCEPTED

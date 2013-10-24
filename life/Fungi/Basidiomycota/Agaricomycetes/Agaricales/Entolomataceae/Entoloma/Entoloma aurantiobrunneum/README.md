@@ -1,5 +1,4 @@
-Entoloma aurantiobrunneum Hesler SPECIES
-=======
+# Entoloma aurantiobrunneum Hesler SPECIES
 
 #### Status
 ACCEPTED

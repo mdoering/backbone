@@ -1,5 +1,4 @@
-Eponides columbiensis (Cushman, 1925) SPECIES
-=======
+# Eponides columbiensis (Cushman, 1925) SPECIES
 
 #### Status
 ACCEPTED

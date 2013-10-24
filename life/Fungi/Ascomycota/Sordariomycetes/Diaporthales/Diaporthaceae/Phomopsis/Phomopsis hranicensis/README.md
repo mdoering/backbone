@@ -1,5 +1,4 @@
-Phomopsis hranicensis Petr. SPECIES
-=======
+# Phomopsis hranicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca paulii Poelt SPECIES
-=======
+# Caloplaca paulii Poelt SPECIES
 
 #### Status
 ACCEPTED

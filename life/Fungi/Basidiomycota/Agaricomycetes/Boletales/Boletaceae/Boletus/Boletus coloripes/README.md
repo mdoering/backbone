@@ -1,5 +1,4 @@
-Boletus coloripes J. Blum SPECIES
-=======
+# Boletus coloripes J. Blum SPECIES
 
 #### Status
 ACCEPTED

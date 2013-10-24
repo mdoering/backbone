@@ -1,5 +1,4 @@
-Nectria platyspora (Rehm) Weese SPECIES
-=======
+# Nectria platyspora (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

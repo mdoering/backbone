@@ -1,5 +1,4 @@
-Rhabdospora chlorogali Cooke & Harkn. SPECIES
-=======
+# Rhabdospora chlorogali Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

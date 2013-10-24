@@ -1,5 +1,4 @@
-Gloeosporium patavinum Traverso SPECIES
-=======
+# Gloeosporium patavinum Traverso SPECIES
 
 #### Status
 ACCEPTED

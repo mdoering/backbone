@@ -1,5 +1,4 @@
-Predurostyla Yankovskij, 1978 GENUS
-=======
+# Predurostyla Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

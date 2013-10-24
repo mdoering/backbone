@@ -1,5 +1,4 @@
-Ceratocystiopsis crenulata (Olchow. & J. Reid) H.P. Upadhyay SPECIES
-=======
+# Ceratocystiopsis crenulata (Olchow. & J. Reid) H.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

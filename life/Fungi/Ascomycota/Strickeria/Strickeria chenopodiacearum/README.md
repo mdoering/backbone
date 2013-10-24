@@ -1,5 +1,4 @@
-Strickeria chenopodiacearum Koshk. & Frolov SPECIES
-=======
+# Strickeria chenopodiacearum Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

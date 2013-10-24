@@ -1,5 +1,4 @@
-Phaeospora parasitica (Lönnr.) Zopf SPECIES
-=======
+# Phaeospora parasitica (Lönnr.) Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma vomicum (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma vomicum (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

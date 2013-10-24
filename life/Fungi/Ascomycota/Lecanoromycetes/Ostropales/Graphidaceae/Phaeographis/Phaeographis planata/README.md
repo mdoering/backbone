@@ -1,5 +1,4 @@
-Phaeographis planata (Ach.) C.W. Dodge SPECIES
-=======
+# Phaeographis planata (Ach.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

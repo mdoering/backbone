@@ -1,17 +1,16 @@
-Diadema acuta Shoemaker & C.E. Babc., 1989 SPECIES
-=======
+# Diadema acutum Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(5): 1349 (1989)
 
 #### Original name
-Diadema acuta Shoemaker & C.E. Babc., 1989
+Diadema acutum Shoemaker & C.E. Babc., 1989
 
 ### Remarks
 null

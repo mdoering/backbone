@@ -1,5 +1,4 @@
-Verrucaria nigrofusca Servít SPECIES
-=======
+# Verrucaria nigrofusca Servít SPECIES
 
 #### Status
 ACCEPTED

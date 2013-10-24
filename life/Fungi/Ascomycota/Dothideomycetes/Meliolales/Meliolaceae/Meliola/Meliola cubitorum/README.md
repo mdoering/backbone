@@ -1,5 +1,4 @@
-Meliola cubitorum (F. Stevens & Tehon) Cif. SPECIES
-=======
+# Meliola cubitorum (F. Stevens & Tehon) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudozythia pusilla Höhn., 1902 SPECIES
-=======
+# Pseudozythia pusilla Höhn., 1902 SPECIES
 
 #### Status
 ACCEPTED

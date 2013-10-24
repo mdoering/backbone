@@ -1,5 +1,4 @@
-Desulfobulbus rhabdoformis Lien et al., 1998 SPECIES
-=======
+# Desulfobulbus rhabdoformis Lien et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

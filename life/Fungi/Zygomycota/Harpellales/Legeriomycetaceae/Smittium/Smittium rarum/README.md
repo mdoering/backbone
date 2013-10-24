@@ -1,5 +1,4 @@
-Smittium rarum Lichtw., 1990 SPECIES
-=======
+# Smittium rarum Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

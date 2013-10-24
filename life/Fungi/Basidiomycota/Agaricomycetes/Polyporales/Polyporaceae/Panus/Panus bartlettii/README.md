@@ -1,5 +1,4 @@
-Panus bartlettii Massee SPECIES
-=======
+# Panus bartlettii Massee SPECIES
 
 #### Status
 ACCEPTED

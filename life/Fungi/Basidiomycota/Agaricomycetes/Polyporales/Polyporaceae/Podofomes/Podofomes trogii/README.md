@@ -1,14 +1,13 @@
-Polyporus trogii Fr., 1851 SPECIES
-=======
+# Podofomes trogii (Fr.) Pouzar, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 50 (1851)
+Ceská Mykol. 25: 19 (1971)
 
 #### Original name
 Polyporus trogii Fr., 1851

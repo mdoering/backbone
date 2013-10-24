@@ -1,5 +1,4 @@
-Mucor flocculentus Balb. SPECIES
-=======
+# Mucor flocculentus Balb. SPECIES
 
 #### Status
 ACCEPTED

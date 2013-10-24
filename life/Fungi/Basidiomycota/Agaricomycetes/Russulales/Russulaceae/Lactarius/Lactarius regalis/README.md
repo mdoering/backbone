@@ -1,5 +1,4 @@
-Lactarius regalis Peck SPECIES
-=======
+# Lactarius regalis Peck SPECIES
 
 #### Status
 ACCEPTED

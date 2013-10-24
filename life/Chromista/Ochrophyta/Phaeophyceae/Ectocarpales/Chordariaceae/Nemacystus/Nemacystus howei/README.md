@@ -1,8 +1,7 @@
-Castagnea howei W.R. Taylor SPECIES
-=======
+# Nemacystus howei (W.R. Taylor) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

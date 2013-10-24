@@ -1,5 +1,4 @@
-Siphula minor Vain. SPECIES
-=======
+# Siphula minor Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neottiella notarisii Sacc. SPECIES
-=======
+# Neottiella notarisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

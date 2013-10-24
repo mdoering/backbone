@@ -1,5 +1,4 @@
-Pezizella myrtillina (P. Karst.) SPECIES
-=======
+# Pezizella myrtillina (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

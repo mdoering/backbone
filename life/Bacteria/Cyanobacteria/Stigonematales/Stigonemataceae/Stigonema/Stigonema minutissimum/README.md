@@ -1,5 +1,4 @@
-Stigonema minutissimum Borzi SPECIES
-=======
+# Stigonema minutissimum Borzi SPECIES
 
 #### Status
 ACCEPTED

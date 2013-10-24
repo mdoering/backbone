@@ -1,5 +1,4 @@
-Puccinia kenyana Cummins SPECIES
-=======
+# Puccinia kenyana Cummins SPECIES
 
 #### Status
 ACCEPTED

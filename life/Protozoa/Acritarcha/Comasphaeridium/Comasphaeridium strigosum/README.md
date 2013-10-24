@@ -1,5 +1,4 @@
-Comasphaeridium strigosum (Jankauskas in Jankauskas & Posti, 1976) Downie, 1982 SPECIES
-=======
+# Comasphaeridium strigosum (Jankauskas in Jankauskas & Posti, 1976) Downie, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus princeps Singer SPECIES
-=======
+# Polyporus princeps Singer SPECIES
 
 #### Status
 ACCEPTED

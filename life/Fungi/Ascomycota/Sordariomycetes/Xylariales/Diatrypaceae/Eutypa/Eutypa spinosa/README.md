@@ -1,14 +1,13 @@
-Valsa spinosa (Pers.) Nitschke, 1867 SPECIES
-=======
+# Eutypa spinosa (Pers.) Tul. & C. Tul., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 1: 127 (1867)
+Select. fung. carpol. (Paris) 2: 59 (1863)
 
 #### Original name
 Sphaeria spinosa Pers., 1794

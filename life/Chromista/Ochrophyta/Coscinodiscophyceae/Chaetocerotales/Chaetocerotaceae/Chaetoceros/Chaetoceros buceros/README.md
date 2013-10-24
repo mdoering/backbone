@@ -1,5 +1,4 @@
-Chaetoceros buceros Karsten SPECIES
-=======
+# Chaetoceros buceros Karsten SPECIES
 
 #### Status
 ACCEPTED

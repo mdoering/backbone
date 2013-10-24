@@ -1,5 +1,4 @@
-Hirneola eximia Berk. & Cooke SPECIES
-=======
+# Hirneola eximia Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

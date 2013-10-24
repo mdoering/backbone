@@ -1,5 +1,4 @@
-Phragmospathula brachyspathulata Mercado SPECIES
-=======
+# Phragmospathula brachyspathulata Mercado SPECIES
 
 #### Status
 ACCEPTED

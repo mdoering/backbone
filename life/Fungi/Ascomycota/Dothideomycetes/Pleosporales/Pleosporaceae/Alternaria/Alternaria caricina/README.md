@@ -1,5 +1,4 @@
-Alternaria caricina Ondrej SPECIES
-=======
+# Alternaria caricina Ondrej SPECIES
 
 #### Status
 ACCEPTED

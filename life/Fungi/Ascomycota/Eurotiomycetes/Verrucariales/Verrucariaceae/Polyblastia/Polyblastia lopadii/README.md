@@ -1,5 +1,4 @@
-Polyblastia lopadii G. Arnaud SPECIES
-=======
+# Polyblastia lopadii G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

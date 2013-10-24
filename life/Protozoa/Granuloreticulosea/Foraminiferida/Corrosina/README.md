@@ -1,5 +1,4 @@
-Corrosina Nyirö, 1954 GENUS
-=======
+# Corrosina Nyirö, 1954 GENUS
 
 #### Status
 ACCEPTED

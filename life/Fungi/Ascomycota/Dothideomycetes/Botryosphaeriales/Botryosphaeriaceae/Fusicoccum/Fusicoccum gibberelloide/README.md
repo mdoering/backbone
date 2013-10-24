@@ -1,5 +1,4 @@
-Fusicoccum gibberelloide Curzi SPECIES
-=======
+# Fusicoccum gibberelloide Curzi SPECIES
 
 #### Status
 ACCEPTED

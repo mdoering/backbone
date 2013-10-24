@@ -1,5 +1,4 @@
-Pseudocercospora miconiigena U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora miconiigena U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

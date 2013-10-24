@@ -1,5 +1,4 @@
-Escherichia morgani SPECIES
-=======
+# Escherichia morgani SPECIES
 
 #### Status
 ACCEPTED

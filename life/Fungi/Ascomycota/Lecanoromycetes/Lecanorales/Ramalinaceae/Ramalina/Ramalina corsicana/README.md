@@ -1,5 +1,4 @@
-Ramalina corsicana Zahlbr. SPECIES
-=======
+# Ramalina corsicana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

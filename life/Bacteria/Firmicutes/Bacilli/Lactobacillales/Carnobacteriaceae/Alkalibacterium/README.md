@@ -1,5 +1,4 @@
-Alkalibacterium Ntougias & Russell, 2001 GENUS
-=======
+# Alkalibacterium Ntougias & Russell, 2001 GENUS
 
 #### Status
 ACCEPTED

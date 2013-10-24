@@ -1,5 +1,4 @@
-Peridermium ingenuum Arthur SPECIES
-=======
+# Peridermium ingenuum Arthur SPECIES
 
 #### Status
 ACCEPTED

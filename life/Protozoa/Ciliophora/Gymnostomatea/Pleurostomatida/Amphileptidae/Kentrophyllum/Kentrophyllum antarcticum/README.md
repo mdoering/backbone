@@ -1,5 +1,4 @@
-Kentrophyllum antarcticum Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Kentrophyllum antarcticum Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

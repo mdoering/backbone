@@ -1,5 +1,4 @@
-Cheiromyces acutus E. Müll. & Shoemaker SPECIES
-=======
+# Cheiromyces acutus E. Müll. & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

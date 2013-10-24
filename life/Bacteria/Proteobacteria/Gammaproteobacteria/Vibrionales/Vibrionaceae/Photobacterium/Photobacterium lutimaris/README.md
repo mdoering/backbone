@@ -1,5 +1,4 @@
-Photobacterium lutimaris Jung, Jung, Oh & Yoon, 2007 SPECIES
-=======
+# Photobacterium lutimaris Jung, Jung, Oh & Yoon, 2007 SPECIES
 
 #### Status
 ACCEPTED

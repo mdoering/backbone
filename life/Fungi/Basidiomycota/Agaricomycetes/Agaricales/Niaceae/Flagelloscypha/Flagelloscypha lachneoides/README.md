@@ -1,5 +1,4 @@
-Flagelloscypha lachneoides (Pilát) Agerer SPECIES
-=======
+# Flagelloscypha lachneoides (Pilát) Agerer SPECIES
 
 #### Status
 ACCEPTED

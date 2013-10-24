@@ -1,14 +1,13 @@
-Cladosporium strumelloideum Milko & Dunaev, 1986 SPECIES
-=======
+# Penidiella strumelloidea (Milko & Dunaev) Crous & U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 23: 134 (1986)
+in Crous, Braun & Groenewald, Stud. Mycol. 58: 23 (2007)
 
 #### Original name
 Cladosporium strumelloideum Milko & Dunaev, 1986

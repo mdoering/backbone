@@ -1,5 +1,4 @@
-Dysteria derouxi Gong & Song, 2003 SPECIES
-=======
+# Dysteria derouxi Gong & Song, 2003 SPECIES
 
 #### Status
 ACCEPTED

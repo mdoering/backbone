@@ -1,5 +1,4 @@
-Hyalinocysta E.I. Hazard & Oldacre GENUS
-=======
+# Hyalinocysta E.I. Hazard & Oldacre GENUS
 
 #### Status
 ACCEPTED

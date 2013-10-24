@@ -1,5 +1,4 @@
-Bacillus koreensis Lim et al., 2006 SPECIES
-=======
+# Bacillus koreensis Lim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

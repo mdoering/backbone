@@ -1,5 +1,4 @@
-Septoidium hurae (Henn.) G. Arnaud SPECIES
-=======
+# Septoidium hurae (Henn.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psilocybe clavatum Guzmán SPECIES
-=======
+# Psilocybe clavata Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 74: 307 (1983)
 
 #### Original name
-Psilocybe clavatum Guzmán
+Psilocybe clavata Guzmán
 
 ### Remarks
 null

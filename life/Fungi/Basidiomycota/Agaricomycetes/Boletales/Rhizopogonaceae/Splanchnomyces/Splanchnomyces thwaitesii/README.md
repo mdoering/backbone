@@ -1,5 +1,4 @@
-Splanchnomyces thwaitesii Corda SPECIES
-=======
+# Splanchnomyces thwaitesii Corda SPECIES
 
 #### Status
 ACCEPTED

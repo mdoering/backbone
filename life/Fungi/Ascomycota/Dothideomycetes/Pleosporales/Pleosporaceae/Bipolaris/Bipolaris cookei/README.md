@@ -1,5 +1,4 @@
-Bipolaris cookei (Sacc.) Shoemaker SPECIES
-=======
+# Bipolaris cookei (Sacc.) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

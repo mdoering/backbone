@@ -1,5 +1,4 @@
-Phoma erythrinae Arcang. SPECIES
-=======
+# Phoma erythrinae Arcang. SPECIES
 
 #### Status
 ACCEPTED

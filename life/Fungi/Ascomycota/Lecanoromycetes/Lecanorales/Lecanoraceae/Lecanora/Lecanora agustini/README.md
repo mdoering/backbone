@@ -1,5 +1,4 @@
-Lecanora agustini Erichsen SPECIES
-=======
+# Lecanora agustini Erichsen SPECIES
 
 #### Status
 ACCEPTED

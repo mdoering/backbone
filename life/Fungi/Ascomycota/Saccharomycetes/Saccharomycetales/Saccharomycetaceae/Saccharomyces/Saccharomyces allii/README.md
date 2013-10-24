@@ -1,5 +1,4 @@
-Saccharomyces allii Sorokin ex Sorauer SPECIES
-=======
+# Saccharomyces allii Sorokin ex Sorauer SPECIES
 
 #### Status
 ACCEPTED

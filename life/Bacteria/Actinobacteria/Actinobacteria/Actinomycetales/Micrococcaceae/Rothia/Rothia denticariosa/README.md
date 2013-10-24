@@ -1,5 +1,4 @@
-Rothia denticariosa (Onishi) George & Brown SPECIES
-=======
+# Rothia denticariosa (Onishi) George & Brown SPECIES
 
 #### Status
 ACCEPTED

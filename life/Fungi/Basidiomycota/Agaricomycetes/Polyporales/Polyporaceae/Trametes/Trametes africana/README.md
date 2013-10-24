@@ -1,5 +1,4 @@
-Trametes africana Ryvarden, 2004 SPECIES
-=======
+# Trametes africana Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

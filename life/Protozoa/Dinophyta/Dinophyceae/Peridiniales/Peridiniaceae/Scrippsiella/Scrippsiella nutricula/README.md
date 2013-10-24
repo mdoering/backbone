@@ -1,5 +1,4 @@
-Scrippsiella nutricula (Brandt) A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
-=======
+# Scrippsiella nutricula (Brandt) A.T. Banaszak, R. Iglesias-Prieto & R.K. Trench SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora borgiana Theiss. SPECIES
-=======
+# Pleospora borgiana Theiss. SPECIES
 
 #### Status
 ACCEPTED

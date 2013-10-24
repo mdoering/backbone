@@ -1,5 +1,4 @@
-Absconditella pauxilla Vezda & Vivant SPECIES
-=======
+# Absconditella pauxilla Vezda & Vivant SPECIES
 
 #### Status
 ACCEPTED

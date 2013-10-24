@@ -1,5 +1,4 @@
-Metschnikowia koreensis S.G. Hong, J. Chun, H.W. Oh & Bae, 2001 SPECIES
-=======
+# Metschnikowia koreensis S.G. Hong, J. Chun, H.W. Oh & Bae, 2001 SPECIES
 
 #### Status
 ACCEPTED

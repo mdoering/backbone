@@ -1,5 +1,4 @@
-Verrucaria miculiformis Nyl. SPECIES
-=======
+# Verrucaria miculiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

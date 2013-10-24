@@ -1,5 +1,4 @@
-Javonarxia triseptata Subram., 1995 SPECIES
-=======
+# Javonarxia triseptata Subram., 1995 SPECIES
 
 #### Status
 ACCEPTED

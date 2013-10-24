@@ -1,5 +1,4 @@
-Uromyces aviculariae J. Schröt. SPECIES
-=======
+# Uromyces aviculariae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

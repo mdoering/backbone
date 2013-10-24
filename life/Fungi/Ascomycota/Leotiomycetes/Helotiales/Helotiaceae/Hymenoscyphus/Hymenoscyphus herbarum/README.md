@@ -1,17 +1,16 @@
-Helotium herbarum var. eucalypti Dennis VARIETY
-=======
+# Hymenoscyphus herbarum (Pers.) Dennis, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 397 (1957)
+Persoonia 3(1): 77 (1964)
 
 #### Original name
-Helotium herbarum var. eucalypti Dennis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus innocuus J. Kickx f. SPECIES
-=======
+# Agaricus innocuus J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

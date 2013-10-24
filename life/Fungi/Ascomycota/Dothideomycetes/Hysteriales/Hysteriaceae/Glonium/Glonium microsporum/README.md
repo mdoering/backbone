@@ -1,5 +1,4 @@
-Glonium microsporum var. microsporum VARIETY
-=======
+# Glonium microsporum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Glonium microsporum var. microsporum
+Glonium microsporum Sacc.
 
 ### Remarks
 null

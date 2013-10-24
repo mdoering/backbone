@@ -1,5 +1,4 @@
-Septoria guadarramica Gonz. Frag. SPECIES
-=======
+# Septoria guadarramica Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

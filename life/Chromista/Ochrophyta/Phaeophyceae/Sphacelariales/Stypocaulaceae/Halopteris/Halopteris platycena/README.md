@@ -1,5 +1,4 @@
-Halopteris platycena Sauvageau SPECIES
-=======
+# Halopteris platycena Sauvageau SPECIES
 
 #### Status
 ACCEPTED

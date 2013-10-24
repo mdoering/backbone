@@ -1,5 +1,4 @@
-Puccinia escharoides Syd. & P. Syd. SPECIES
-=======
+# Puccinia escharoides Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

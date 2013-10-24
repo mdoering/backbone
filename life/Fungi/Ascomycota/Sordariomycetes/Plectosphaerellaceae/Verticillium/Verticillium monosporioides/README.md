@@ -1,5 +1,4 @@
-Verticillium monosporioides Peyronel SPECIES
-=======
+# Verticillium monosporioides Peyronel SPECIES
 
 #### Status
 ACCEPTED

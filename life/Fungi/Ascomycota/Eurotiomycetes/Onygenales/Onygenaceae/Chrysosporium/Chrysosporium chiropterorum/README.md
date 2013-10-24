@@ -1,5 +1,4 @@
-Chrysosporium chiropterorum Beguin & Larcher SPECIES
-=======
+# Chrysosporium chiropterorum Beguin & Larcher SPECIES
 
 #### Status
 ACCEPTED

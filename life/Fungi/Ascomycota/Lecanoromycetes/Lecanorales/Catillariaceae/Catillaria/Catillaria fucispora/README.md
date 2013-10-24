@@ -1,5 +1,4 @@
-Catillaria fucispora (Hepp) Zahlbr. SPECIES
-=======
+# Catillaria fucispora (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

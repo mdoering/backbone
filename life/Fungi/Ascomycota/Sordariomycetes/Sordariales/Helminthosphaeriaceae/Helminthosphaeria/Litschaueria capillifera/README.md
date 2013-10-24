@@ -1,5 +1,4 @@
-Litschaueria capillifera (Curr.) E.W. Mason SPECIES
-=======
+# Litschaueria capillifera (Curr.) E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

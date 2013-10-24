@@ -1,5 +1,4 @@
-Graphis dracenae Vain. SPECIES
-=======
+# Graphis dracenae Vain. SPECIES
 
 #### Status
 ACCEPTED

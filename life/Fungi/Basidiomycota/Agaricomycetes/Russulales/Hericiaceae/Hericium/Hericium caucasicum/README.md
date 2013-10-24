@@ -1,5 +1,4 @@
-Hericium caucasicum Singer SPECIES
-=======
+# Hericium caucasicum Singer SPECIES
 
 #### Status
 ACCEPTED

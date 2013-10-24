@@ -1,5 +1,4 @@
-Graphis beaumontii Tuck. SPECIES
-=======
+# Graphis beaumontii Tuck. SPECIES
 
 #### Status
 ACCEPTED

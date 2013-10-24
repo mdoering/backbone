@@ -1,5 +1,4 @@
-Cometodendridae FAMILY
-=======
+# Cometodendridae FAMILY
 
 #### Status
 ACCEPTED

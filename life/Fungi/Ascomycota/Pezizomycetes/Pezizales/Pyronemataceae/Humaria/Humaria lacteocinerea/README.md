@@ -1,5 +1,4 @@
-Humaria lacteocinerea Rehm SPECIES
-=======
+# Humaria lacteocinerea Rehm SPECIES
 
 #### Status
 ACCEPTED

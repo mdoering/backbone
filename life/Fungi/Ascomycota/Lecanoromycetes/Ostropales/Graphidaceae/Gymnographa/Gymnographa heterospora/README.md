@@ -1,14 +1,13 @@
-Graphis heterospora Nyl. SPECIES
-=======
+# Gymnographa heterospora (Nyl.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 11: 261 (1859)
+Biblthca Lichenol. 85: 271 (2002)
 
 #### Original name
 Graphis heterospora Nyl.

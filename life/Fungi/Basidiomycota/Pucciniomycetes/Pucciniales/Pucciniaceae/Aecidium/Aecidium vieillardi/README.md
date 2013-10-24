@@ -1,5 +1,4 @@
-Aecidium vieillardi Har. SPECIES
-=======
+# Aecidium vieillardi Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenophrya massula Penard, 1914 SPECIES
-=======
+# Solenophrya massula Penard, 1914 SPECIES
 
 #### Status
 ACCEPTED

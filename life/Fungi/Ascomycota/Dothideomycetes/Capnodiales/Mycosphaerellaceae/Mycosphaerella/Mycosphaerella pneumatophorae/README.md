@@ -1,5 +1,4 @@
-Mycosphaerella pneumatophorae Kohlm., 1966 SPECIES
-=======
+# Mycosphaerella pneumatophorae Kohlm., 1966 SPECIES
 
 #### Status
 ACCEPTED

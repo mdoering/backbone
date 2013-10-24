@@ -1,5 +1,4 @@
-Valsa laurina Cooke & Ellis SPECIES
-=======
+# Valsa laurina Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

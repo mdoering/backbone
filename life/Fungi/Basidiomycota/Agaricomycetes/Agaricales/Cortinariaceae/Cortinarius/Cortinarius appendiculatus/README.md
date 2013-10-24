@@ -1,5 +1,4 @@
-Cortinarius appendiculatus Johns. {?} SPECIES
-=======
+# Cortinarius appendiculatus Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

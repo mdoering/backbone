@@ -1,5 +1,4 @@
-Diaporthe spiraeicola Feltgen SPECIES
-=======
+# Diaporthe spiraeicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

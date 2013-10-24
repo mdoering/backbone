@@ -1,5 +1,4 @@
-Pyrenula nuda Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula nuda Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula maculosa Speg. SPECIES
-=======
+# Torula maculosa Speg. SPECIES
 
 #### Status
 ACCEPTED

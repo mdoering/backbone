@@ -1,5 +1,4 @@
-Caenomorpha lata Kahl, 1927 SPECIES
-=======
+# Caenomorpha lata Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

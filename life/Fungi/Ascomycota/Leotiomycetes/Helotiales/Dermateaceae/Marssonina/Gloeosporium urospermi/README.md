@@ -1,5 +1,4 @@
-Gloeosporium urospermi Politis SPECIES
-=======
+# Gloeosporium urospermi Politis SPECIES
 
 #### Status
 ACCEPTED

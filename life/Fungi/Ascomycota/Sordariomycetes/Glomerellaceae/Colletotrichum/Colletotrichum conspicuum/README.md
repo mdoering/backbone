@@ -1,5 +1,4 @@
-Colletotrichum conspicuum Syd. SPECIES
-=======
+# Colletotrichum conspicuum Syd. SPECIES
 
 #### Status
 ACCEPTED

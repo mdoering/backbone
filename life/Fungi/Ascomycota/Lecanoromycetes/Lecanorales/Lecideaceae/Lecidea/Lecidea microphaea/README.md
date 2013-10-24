@@ -1,5 +1,4 @@
-Lecidea microphaea Nyl. SPECIES
-=======
+# Lecidea microphaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

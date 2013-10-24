@@ -1,5 +1,4 @@
-Agaricus pseudomuralis Speg. SPECIES
-=======
+# Agaricus pseudomuralis Speg. SPECIES
 
 #### Status
 ACCEPTED

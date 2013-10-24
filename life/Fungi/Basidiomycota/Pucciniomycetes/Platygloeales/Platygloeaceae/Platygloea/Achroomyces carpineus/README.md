@@ -1,5 +1,4 @@
-Achroomyces carpineus Grove SPECIES
-=======
+# Achroomyces carpineus Grove SPECIES
 
 #### Status
 ACCEPTED

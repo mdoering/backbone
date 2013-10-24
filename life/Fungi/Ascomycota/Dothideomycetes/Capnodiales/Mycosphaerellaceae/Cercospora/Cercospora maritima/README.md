@@ -1,5 +1,4 @@
-Cercospora maritima Tracy & Earle SPECIES
-=======
+# Cercospora maritima Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

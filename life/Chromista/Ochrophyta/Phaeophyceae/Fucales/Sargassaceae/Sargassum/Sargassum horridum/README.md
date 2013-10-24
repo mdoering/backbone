@@ -1,5 +1,4 @@
-Sargassum horridum Setchell & Gardner SPECIES
-=======
+# Sargassum horridum Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

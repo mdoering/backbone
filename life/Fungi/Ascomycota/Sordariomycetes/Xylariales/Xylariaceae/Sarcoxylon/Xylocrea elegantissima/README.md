@@ -1,5 +1,4 @@
-Xylocrea elegantissima Rick SPECIES
-=======
+# Xylocrea elegantissima Rick SPECIES
 
 #### Status
 ACCEPTED

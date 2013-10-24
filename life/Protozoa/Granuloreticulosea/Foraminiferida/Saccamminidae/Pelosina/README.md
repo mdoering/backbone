@@ -1,5 +1,4 @@
-Pelosina Brady, 1879 GENUS
-=======
+# Pelosina Brady, 1879 GENUS
 
 #### Status
 ACCEPTED

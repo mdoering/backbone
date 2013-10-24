@@ -1,5 +1,4 @@
-Lecanora peruviana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanora peruviana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc membranaceum Gardner SPECIES
-=======
+# Nostoc membranaceum Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotripoconidium sinense Z.F. Yu, Ying Zhang & K.Q. Zhang, 2008 SPECIES
-=======
+# Pseudotripoconidium sinense Z.F. Yu, Ying Zhang & K.Q. Zhang, 2008 SPECIES
 
 #### Status
 ACCEPTED

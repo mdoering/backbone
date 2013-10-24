@@ -1,5 +1,4 @@
-Psathyrella subochracea A.H. Sm. SPECIES
-=======
+# Psathyrella subochracea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

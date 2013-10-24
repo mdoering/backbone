@@ -1,5 +1,4 @@
-Entoloma kerocarpus Hauskn. & Noordel. SPECIES
-=======
+# Entoloma kerocarpus Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

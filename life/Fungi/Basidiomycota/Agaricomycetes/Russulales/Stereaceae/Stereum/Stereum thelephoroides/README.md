@@ -1,5 +1,4 @@
-Stereum thelephoroides McAlpine SPECIES
-=======
+# Stereum thelephoroides McAlpine SPECIES
 
 #### Status
 ACCEPTED

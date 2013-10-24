@@ -1,5 +1,4 @@
-Jackelixia incavata (Stirt.) S. Y. Kondr., Fedorenko, S. Stenroos, Kärnefelt & A. Thell SPECIES
-=======
+# Jackelixia incavata (Stirt.) S. Y. Kondr., Fedorenko, S. Stenroos, Kärnefelt & A. Thell SPECIES
 
 #### Status
 ACCEPTED

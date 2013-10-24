@@ -1,5 +1,4 @@
-Amanita mafingensis Härk. & Saarim. SPECIES
-=======
+# Amanita mafingensis Härk. & Saarim. SPECIES
 
 #### Status
 ACCEPTED

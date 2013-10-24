@@ -1,5 +1,4 @@
-Uromyces malvacearum Speg. SPECIES
-=======
+# Uromyces malvacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

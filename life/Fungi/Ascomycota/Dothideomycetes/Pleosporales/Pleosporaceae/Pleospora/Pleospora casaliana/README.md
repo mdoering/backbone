@@ -1,5 +1,4 @@
-Pleospora casaliana Sacc. & P. Syd. SPECIES
-=======
+# Pleospora casaliana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

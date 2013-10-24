@@ -1,5 +1,4 @@
-Everniastrum scabridum Elix & Pooprang SPECIES
-=======
+# Everniastrum scabridum Elix & Pooprang SPECIES
 
 #### Status
 ACCEPTED

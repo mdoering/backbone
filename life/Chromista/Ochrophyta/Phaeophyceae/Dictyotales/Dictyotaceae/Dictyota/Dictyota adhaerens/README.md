@@ -1,5 +1,4 @@
-Dictyota adhaerens Noda SPECIES
-=======
+# Dictyota adhaerens Noda SPECIES
 
 #### Status
 ACCEPTED

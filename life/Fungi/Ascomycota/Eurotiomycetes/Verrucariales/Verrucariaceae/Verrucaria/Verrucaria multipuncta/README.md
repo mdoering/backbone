@@ -1,5 +1,4 @@
-Verrucaria multipuncta Hoffm. SPECIES
-=======
+# Verrucaria multipuncta Hoffm. SPECIES
 
 #### Status
 ACCEPTED

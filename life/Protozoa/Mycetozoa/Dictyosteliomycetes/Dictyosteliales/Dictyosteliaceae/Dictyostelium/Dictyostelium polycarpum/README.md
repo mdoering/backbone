@@ -1,5 +1,4 @@
-Dictyostelium polycarpum Traub, M. Hohl & Cavender, 1981 SPECIES
-=======
+# Dictyostelium polycarpum Traub, M. Hohl & Cavender, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola peddieae (Doidge) Cif. SPECIES
-=======
+# Meliola peddieae (Doidge) Cif. SPECIES
 
 #### Status
 ACCEPTED

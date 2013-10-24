@@ -1,5 +1,4 @@
-Porina leioplaca Ach. SPECIES
-=======
+# Porina leioplaca Ach. SPECIES
 
 #### Status
 ACCEPTED

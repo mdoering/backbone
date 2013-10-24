@@ -1,5 +1,4 @@
-Furgasonia viridis SPECIES
-=======
+# Furgasonia viridis SPECIES
 
 #### Status
 ACCEPTED

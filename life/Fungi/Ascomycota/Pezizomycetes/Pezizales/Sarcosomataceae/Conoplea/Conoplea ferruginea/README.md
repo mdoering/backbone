@@ -1,5 +1,4 @@
-Conoplea ferruginea Schwein. SPECIES
-=======
+# Conoplea ferruginea Schwein. SPECIES
 
 #### Status
 ACCEPTED

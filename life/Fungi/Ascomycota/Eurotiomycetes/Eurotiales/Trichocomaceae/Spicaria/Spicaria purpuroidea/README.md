@@ -1,5 +1,4 @@
-Spicaria purpuroidea Hara SPECIES
-=======
+# Spicaria purpuroidea Hara SPECIES
 
 #### Status
 ACCEPTED

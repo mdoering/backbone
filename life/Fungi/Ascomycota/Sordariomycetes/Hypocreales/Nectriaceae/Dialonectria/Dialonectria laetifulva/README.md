@@ -1,5 +1,4 @@
-Dialonectria laetifulva (Berk. & Cooke) Cooke SPECIES
-=======
+# Dialonectria laetifulva (Berk. & Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

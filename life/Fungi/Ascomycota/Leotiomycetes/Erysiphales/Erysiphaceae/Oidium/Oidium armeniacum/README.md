@@ -1,5 +1,4 @@
-Oidium armeniacum (Berk. & M.A. Curtis) Linder SPECIES
-=======
+# Oidium armeniacum (Berk. & M.A. Curtis) Linder SPECIES
 
 #### Status
 ACCEPTED

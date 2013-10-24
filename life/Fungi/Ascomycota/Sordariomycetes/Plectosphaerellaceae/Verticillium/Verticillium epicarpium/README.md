@@ -1,5 +1,4 @@
-Verticillium epicarpium Sacc. SPECIES
-=======
+# Verticillium epicarpium Sacc. SPECIES
 
 #### Status
 ACCEPTED

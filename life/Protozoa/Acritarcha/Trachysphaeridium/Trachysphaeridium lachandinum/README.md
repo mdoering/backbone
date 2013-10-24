@@ -1,5 +1,4 @@
-Trachysphaeridium lachandinum Timofeev, 1969 SPECIES
-=======
+# Trachysphaeridium lachandinum Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

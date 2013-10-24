@@ -1,5 +1,4 @@
-Polystictus platypilus (Lév.) Cooke SPECIES
-=======
+# Polystictus platypilus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

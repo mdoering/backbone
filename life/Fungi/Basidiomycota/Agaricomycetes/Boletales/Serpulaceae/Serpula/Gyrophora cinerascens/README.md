@@ -1,5 +1,4 @@
-Gyrophora cinerascens Arnold SPECIES
-=======
+# Gyrophora cinerascens Arnold SPECIES
 
 #### Status
 ACCEPTED

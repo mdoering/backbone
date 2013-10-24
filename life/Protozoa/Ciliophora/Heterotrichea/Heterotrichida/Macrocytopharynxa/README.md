@@ -1,5 +1,4 @@
-Macrocytopharynxa Li, Wang & Xiao, 2002 GENUS
-=======
+# Macrocytopharynxa Li, Wang & Xiao, 2002 GENUS
 
 #### Status
 ACCEPTED

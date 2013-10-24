@@ -1,5 +1,4 @@
-Astrononion italicum Cushman & Edwards SPECIES
-=======
+# Astrononion italicum Cushman & Edwards SPECIES
 
 #### Status
 ACCEPTED

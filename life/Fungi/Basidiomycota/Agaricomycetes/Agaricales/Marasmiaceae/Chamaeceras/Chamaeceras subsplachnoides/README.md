@@ -1,14 +1,13 @@
-Chamaeceras subsplachnodes (Britzelm.) Kuntze SPECIES
-=======
+# Chamaeceras subsplachnoides (Britzelm.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 457 (1898)
 
 #### Original name
 Marasmius subsplachnoides Britzelm.

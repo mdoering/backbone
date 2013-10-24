@@ -1,5 +1,4 @@
-Polyporus subpictilis Henn. SPECIES
-=======
+# Polyporus subpictilis Henn. SPECIES
 
 #### Status
 ACCEPTED

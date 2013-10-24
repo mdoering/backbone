@@ -1,5 +1,4 @@
-Polystictus hutchingsii Lloyd SPECIES
-=======
+# Polystictus hutchingsii Lloyd SPECIES
 
 #### Status
 ACCEPTED

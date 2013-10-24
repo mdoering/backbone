@@ -1,5 +1,4 @@
-Phomatospora admontensis Nograsek SPECIES
-=======
+# Phomatospora admontensis Nograsek SPECIES
 
 #### Status
 ACCEPTED

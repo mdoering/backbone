@@ -1,5 +1,4 @@
-Xenosporium africanum Piroz., 1966 SPECIES
-=======
+# Xenosporium africanum Piroz., 1966 SPECIES
 
 #### Status
 ACCEPTED

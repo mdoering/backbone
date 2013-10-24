@@ -1,5 +1,4 @@
-Schizoderma sparsum (Link) Duby SPECIES
-=======
+# Schizoderma sparsum (Link) Duby SPECIES
 
 #### Status
 ACCEPTED

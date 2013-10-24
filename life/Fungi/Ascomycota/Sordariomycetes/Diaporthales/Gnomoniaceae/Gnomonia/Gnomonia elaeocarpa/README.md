@@ -1,5 +1,4 @@
-Gnomonia elaeocarpa B.C. Paulus, M.E. Barr & K.D. Hyde SPECIES
-=======
+# Gnomonia elaeocarpa B.C. Paulus, M.E. Barr & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

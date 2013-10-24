@@ -1,5 +1,4 @@
-Botryodiplodia scabrosa (Westend.) Sacc. SPECIES
-=======
+# Botryodiplodia scabrosa (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

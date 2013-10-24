@@ -1,5 +1,4 @@
-Buellia flavopolita Zahlbr. SPECIES
-=======
+# Buellia flavopolita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

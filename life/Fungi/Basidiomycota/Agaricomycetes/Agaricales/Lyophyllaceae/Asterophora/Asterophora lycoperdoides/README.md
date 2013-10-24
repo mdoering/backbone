@@ -1,17 +1,16 @@
-Nyctalis agaricoides f. agaricoides FORM
-=======
+# Asterophora lycoperdoides (Bull.) Ditmar, 1809 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bon, Migliozzi & Cherubini, Docums Mycol. 19(no. 76): 74 (1989)
+J. Bot. (Schrader) 3: 56 (1809)
 
 #### Original name
-Nyctalis agaricoides f. agaricoides
+Agaricus lycoperdoides Bull., 1784
 
 ### Remarks
 null

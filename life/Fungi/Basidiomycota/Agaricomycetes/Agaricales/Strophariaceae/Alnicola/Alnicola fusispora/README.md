@@ -1,5 +1,4 @@
-Alnicola fusispora (Velen.) Singer SPECIES
-=======
+# Alnicola fusispora (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

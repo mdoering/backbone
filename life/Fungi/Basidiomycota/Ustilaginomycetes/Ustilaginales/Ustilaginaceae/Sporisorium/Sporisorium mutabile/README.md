@@ -1,5 +1,4 @@
-Sporisorium mutabile (Syd.) Vánky SPECIES
-=======
+# Sporisorium mutabile (Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

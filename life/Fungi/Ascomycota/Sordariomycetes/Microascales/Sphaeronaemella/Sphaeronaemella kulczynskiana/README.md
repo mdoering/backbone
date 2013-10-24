@@ -1,5 +1,4 @@
-Sphaeronaemella kulczynskiana Rouppert SPECIES
-=======
+# Sphaeronaemella kulczynskiana Rouppert SPECIES
 
 #### Status
 ACCEPTED

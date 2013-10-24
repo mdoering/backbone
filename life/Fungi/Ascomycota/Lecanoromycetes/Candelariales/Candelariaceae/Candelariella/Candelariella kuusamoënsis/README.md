@@ -1,5 +1,4 @@
-Candelariella kuusamoënsis var. kuusamoënsis VARIETY
-=======
+# Candelariella kuusamoënsis Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Candelariella kuusamoënsis var. kuusamoënsis
+Candelariella kuusamoënsis Räsänen
 
 ### Remarks
 null

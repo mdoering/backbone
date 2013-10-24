@@ -1,5 +1,4 @@
-Ganoderma bilobum Bres. SPECIES
-=======
+# Ganoderma bilobum Bres. SPECIES
 
 #### Status
 ACCEPTED

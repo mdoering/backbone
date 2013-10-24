@@ -1,5 +1,4 @@
-Phialea perelegans (Saut.) Sacc. SPECIES
-=======
+# Phialea perelegans (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

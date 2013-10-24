@@ -1,5 +1,4 @@
-Kretzschmaria turbinata (Ellis & Everh.) Lloyd SPECIES
-=======
+# Kretzschmaria turbinata (Ellis & Everh.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

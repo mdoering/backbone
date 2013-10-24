@@ -1,5 +1,4 @@
-Kibdelosporangium Shearer et al., 1986 GENUS
-=======
+# Kibdelosporangium Shearer et al., 1986 GENUS
 
 #### Status
 ACCEPTED

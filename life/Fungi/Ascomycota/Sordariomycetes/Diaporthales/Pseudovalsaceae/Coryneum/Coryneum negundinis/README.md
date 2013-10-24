@@ -1,5 +1,4 @@
-Coryneum negundinis Berk. & M.A. Curtis SPECIES
-=======
+# Coryneum negundinis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

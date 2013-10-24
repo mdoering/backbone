@@ -1,17 +1,16 @@
-Tilletia isachnae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Tilletia isachnes A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patil, Indian Phytopath. 59(1): 81 (2006)
 
 #### Original name
-Tilletia isachnae A.R. Patil, T.M. Patil & M.S. Patil
+Tilletia isachnes A.R. Patil, T.M. Patil & M.S. Patil
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trypanosoma gobii Brumpt & Lebailly, 1904 SPECIES
-=======
+# Trypanosoma gobii Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

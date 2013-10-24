@@ -1,5 +1,4 @@
-Doassansia downingiae Liro SPECIES
-=======
+# Doassansia downingiae Liro SPECIES
 
 #### Status
 ACCEPTED

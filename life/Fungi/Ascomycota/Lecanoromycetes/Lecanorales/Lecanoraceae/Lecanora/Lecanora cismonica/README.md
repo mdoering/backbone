@@ -1,5 +1,4 @@
-Lecanora cismonica (Beltr.) Nyl. SPECIES
-=======
+# Lecanora cismonica (Beltr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

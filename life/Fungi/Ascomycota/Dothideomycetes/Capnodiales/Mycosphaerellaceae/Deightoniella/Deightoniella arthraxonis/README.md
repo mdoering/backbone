@@ -1,5 +1,4 @@
-Deightoniella arthraxonis M.B. Ellis SPECIES
-=======
+# Deightoniella arthraxonis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

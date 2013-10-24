@@ -1,5 +1,4 @@
-Trochila epilobii P. Karst. SPECIES
-=======
+# Trochila epilobii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

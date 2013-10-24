@@ -1,5 +1,4 @@
-Porina crenulata Vain. SPECIES
-=======
+# Porina crenulata Vain. SPECIES
 
 #### Status
 ACCEPTED

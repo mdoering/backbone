@@ -1,5 +1,4 @@
-Lecidea pohjoiskorkiensis Vain. SPECIES
-=======
+# Lecidea pohjoiskorkiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

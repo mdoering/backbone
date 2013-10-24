@@ -1,5 +1,4 @@
-Gyalectidium laciniatum Lücking SPECIES
-=======
+# Gyalectidium laciniatum Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum tenuipilosum Svrcek SPECIES
-=======
+# Lachnum tenuipilosum Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella cyanolepra (Tuck.) Herre SPECIES
-=======
+# Parmeliella cyanolepra (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

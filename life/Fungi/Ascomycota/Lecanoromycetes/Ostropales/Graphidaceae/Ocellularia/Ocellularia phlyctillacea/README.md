@@ -1,5 +1,4 @@
-Ocellularia phlyctillacea Müll. Arg. SPECIES
-=======
+# Ocellularia phlyctillacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

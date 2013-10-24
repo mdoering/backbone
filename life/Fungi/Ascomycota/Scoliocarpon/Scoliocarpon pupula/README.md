@@ -1,14 +1,13 @@
-Robergea pupula (Nyl.) R.C. Harris SPECIES
-=======
+# Scoliocarpon pupula (Tuck.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Contr. Univ. Mich. Herb. 11(2): 95 (1975)
+Mém. Soc. Acad. Maine Loire (1858)
 
 #### Original name
 Pyrenastrum pupula Tuck.

@@ -1,5 +1,4 @@
-Palaeoscytonema srivastavae P. K. Maithy & M. Shukla SPECIES
-=======
+# Palaeoscytonema srivastavae P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

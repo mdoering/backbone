@@ -1,5 +1,4 @@
-Gloeosporium propinquum Bubák & Vleugel SPECIES
-=======
+# Gloeosporium propinquum Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

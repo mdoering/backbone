@@ -1,5 +1,4 @@
-Verrucaria polystictoides SPECIES
-=======
+# Verrucaria polystictoides SPECIES
 
 #### Status
 ACCEPTED

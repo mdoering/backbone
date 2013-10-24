@@ -1,5 +1,4 @@
-Septoria rohlenae Bubák SPECIES
-=======
+# Septoria rohlenae Bubák SPECIES
 
 #### Status
 ACCEPTED

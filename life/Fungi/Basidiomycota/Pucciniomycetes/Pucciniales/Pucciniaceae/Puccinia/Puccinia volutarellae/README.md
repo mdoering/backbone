@@ -1,5 +1,4 @@
-Puccinia volutarellae Thirum. SPECIES
-=======
+# Puccinia volutarellae Thirum. SPECIES
 
 #### Status
 ACCEPTED

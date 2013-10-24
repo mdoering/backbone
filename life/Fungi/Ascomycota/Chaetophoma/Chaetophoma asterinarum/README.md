@@ -1,5 +1,4 @@
-Chaetophoma asterinarum Speg. SPECIES
-=======
+# Chaetophoma asterinarum Speg. SPECIES
 
 #### Status
 ACCEPTED

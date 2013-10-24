@@ -1,5 +1,4 @@
-Parmelia ganguellensis C.W. Dodge SPECIES
-=======
+# Parmelia ganguellensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

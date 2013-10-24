@@ -1,5 +1,4 @@
-Trichophyton sarkisovii L.G. Ivanova & I.D. Poljakov SPECIES
-=======
+# Trichophyton sarkisovii L.G. Ivanova & I.D. Poljakov SPECIES
 
 #### Status
 ACCEPTED

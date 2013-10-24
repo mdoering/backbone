@@ -1,5 +1,4 @@
-Peronospora arabidis-strictae Jacz. SPECIES
-=======
+# Peronospora arabidis-strictae Jacz. SPECIES
 
 #### Status
 ACCEPTED

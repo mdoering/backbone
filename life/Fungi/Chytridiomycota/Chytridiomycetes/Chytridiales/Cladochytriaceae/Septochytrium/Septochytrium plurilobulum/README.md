@@ -1,5 +1,4 @@
-Septochytrium plurilobulum Johanson SPECIES
-=======
+# Septochytrium plurilobulum Johanson SPECIES
 
 #### Status
 ACCEPTED

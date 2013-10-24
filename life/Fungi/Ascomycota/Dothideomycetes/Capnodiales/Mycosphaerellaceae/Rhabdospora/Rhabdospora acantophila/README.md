@@ -1,5 +1,4 @@
-Rhabdospora acantophila C. Massal., 1900 SPECIES
-=======
+# Rhabdospora acantophila C. Massal., 1900 SPECIES
 
 #### Status
 ACCEPTED

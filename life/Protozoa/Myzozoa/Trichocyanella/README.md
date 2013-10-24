@@ -1,5 +1,4 @@
-Trichocyanella Skvortzov & Noda GENUS
-=======
+# Trichocyanella Skvortzov & Noda GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia pittieri Henn. SPECIES
-=======
+# Aschersonia pittieri Henn. SPECIES
 
 #### Status
 ACCEPTED

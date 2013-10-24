@@ -1,5 +1,4 @@
-Streptomyces fulvorobeus Vinogradova & Preobrazhenskaya, 1986 SPECIES
-=======
+# Streptomyces fulvorobeus Vinogradova & Preobrazhenskaya, 1986 SPECIES
 
 #### Status
 ACCEPTED

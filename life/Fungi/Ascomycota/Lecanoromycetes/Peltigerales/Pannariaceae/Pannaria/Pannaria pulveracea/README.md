@@ -1,5 +1,4 @@
-Pannaria pulveracea P.M. Jørg. & Henssen SPECIES
-=======
+# Pannaria pulveracea P.M. Jørg. & Henssen SPECIES
 
 #### Status
 ACCEPTED

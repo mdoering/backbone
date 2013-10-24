@@ -1,5 +1,4 @@
-Verrucaria bicincta Zahlbr. SPECIES
-=======
+# Verrucaria bicincta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

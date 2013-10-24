@@ -1,5 +1,4 @@
-Aspicilia subeluta Motyka SPECIES
-=======
+# Aspicilia subeluta Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia polydactyla Krog & Swinscow SPECIES
-=======
+# Hypotrachyna polydactyla (Krog & Swinscow) T. H. Nash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 88(1): 20 (1985)
 
 #### Original name
-null
+Parmelia polydactyla Krog & Swinscow
 
 ### Remarks
 null

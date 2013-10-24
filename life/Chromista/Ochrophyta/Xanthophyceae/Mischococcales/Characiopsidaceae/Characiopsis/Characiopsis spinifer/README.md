@@ -1,5 +1,4 @@
-Characiopsis spinifer var. correntinensis H. Pizarro & G. Tell VARIETY
-=======
+# Characiopsis spinifer Printz, 1914 SPECIES
 
 #### Status
 ACCEPTED

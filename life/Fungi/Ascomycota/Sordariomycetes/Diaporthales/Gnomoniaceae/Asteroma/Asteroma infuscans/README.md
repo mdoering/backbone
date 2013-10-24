@@ -1,5 +1,4 @@
-Asteroma infuscans Ellis & Everh. SPECIES
-=======
+# Asteroma infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

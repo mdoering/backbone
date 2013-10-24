@@ -1,5 +1,4 @@
-Puccinia sedi-triseti Dupias SPECIES
-=======
+# Puccinia sedi-triseti Dupias SPECIES
 
 #### Status
 ACCEPTED

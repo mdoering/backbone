@@ -1,5 +1,4 @@
-Hydnangium ravenelii Farl. SPECIES
-=======
+# Hydnangium ravenelii Farl. SPECIES
 
 #### Status
 ACCEPTED

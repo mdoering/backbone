@@ -1,17 +1,16 @@
-Cercospora balliospermae Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora baliospermi S. Chowdhury SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 27: 90 (1965)
 
 #### Original name
-Cercospora balliospermae Pavgi & U.P. Singh
+Cercospora baliospermi S. Chowdhury
 
 ### Remarks
 null

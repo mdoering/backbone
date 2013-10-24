@@ -1,5 +1,4 @@
-Chaetomeris GENUS
-=======
+# Chaetomeris GENUS
 
 #### Status
 ACCEPTED

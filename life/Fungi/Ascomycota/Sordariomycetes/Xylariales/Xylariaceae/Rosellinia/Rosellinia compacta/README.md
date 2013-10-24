@@ -1,5 +1,4 @@
-Rosellinia compacta Takemoto SPECIES
-=======
+# Rosellinia compacta Takemoto SPECIES
 
 #### Status
 ACCEPTED

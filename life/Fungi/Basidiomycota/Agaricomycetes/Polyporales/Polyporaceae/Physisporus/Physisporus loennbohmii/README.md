@@ -1,5 +1,4 @@
-Physisporus loennbohmii P. Karst. SPECIES
-=======
+# Physisporus loennbohmii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

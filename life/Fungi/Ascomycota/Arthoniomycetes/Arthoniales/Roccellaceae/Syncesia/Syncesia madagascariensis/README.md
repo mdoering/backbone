@@ -1,5 +1,4 @@
-Syncesia madagascariensis Ertz, Killmann, Razafindrahaja, Sérus. & Eb. Fischer SPECIES
-=======
+# Syncesia madagascariensis Ertz, Killmann, Razafindrahaja, Sérus. & Eb. Fischer SPECIES
 
 #### Status
 ACCEPTED

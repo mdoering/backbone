@@ -1,5 +1,4 @@
-Pleurocapsa crepidinum F.S. Collins SPECIES
-=======
+# Pleurocapsa crepidinum F.S. Collins SPECIES
 
 #### Status
 ACCEPTED

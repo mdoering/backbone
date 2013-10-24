@@ -1,5 +1,4 @@
-Pholiota sphagnicola (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota sphagnicola (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

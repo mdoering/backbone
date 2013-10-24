@@ -1,5 +1,4 @@
-Agaricus inattenuatus Britzelm. SPECIES
-=======
+# Agaricus inattenuatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

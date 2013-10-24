@@ -1,5 +1,4 @@
-Cohaesibacter Hwang & Cho, 2008 GENUS
-=======
+# Cohaesibacter Hwang & Cho, 2008 GENUS
 
 #### Status
 ACCEPTED

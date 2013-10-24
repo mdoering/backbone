@@ -1,5 +1,4 @@
-Placus Cohn, 1866 GENUS
-=======
+# Placus Cohn, 1866 GENUS
 
 #### Status
 ACCEPTED

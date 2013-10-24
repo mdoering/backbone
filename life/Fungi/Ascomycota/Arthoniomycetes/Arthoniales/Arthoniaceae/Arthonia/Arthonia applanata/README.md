@@ -1,5 +1,4 @@
-Arthonia applanata Stizenb. SPECIES
-=======
+# Arthonia applanata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

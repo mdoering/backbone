@@ -1,5 +1,4 @@
-Thalassiosira convexa var. aspinosa H.J. Schrader VARIETY
-=======
+# Thalassiosira convexa SPECIES
 
 #### Status
 ACCEPTED

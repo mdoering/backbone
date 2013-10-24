@@ -1,5 +1,4 @@
-Arthoniopsis macrosperma Zahlbr. SPECIES
-=======
+# Arthoniopsis macrosperma Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

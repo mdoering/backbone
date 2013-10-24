@@ -1,5 +1,4 @@
-Arthonia torulosa Fée SPECIES
-=======
+# Arthonia torulosa Fée SPECIES
 
 #### Status
 ACCEPTED

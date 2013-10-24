@@ -1,5 +1,4 @@
-Asterostomella strophanthi Henn. SPECIES
-=======
+# Asterostomella strophanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

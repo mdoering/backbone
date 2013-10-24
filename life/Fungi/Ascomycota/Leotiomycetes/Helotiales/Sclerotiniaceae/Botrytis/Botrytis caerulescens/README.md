@@ -1,5 +1,4 @@
-Botrytis caerulescens (Bonord.) Sacc. SPECIES
-=======
+# Botrytis caerulescens (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

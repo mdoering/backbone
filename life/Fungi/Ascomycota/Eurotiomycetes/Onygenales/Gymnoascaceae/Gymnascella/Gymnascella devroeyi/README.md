@@ -1,14 +1,13 @@
-Arachniotus devroeyi (G.F. Orr) Arx, 1977 SPECIES
-=======
+# Gymnascella devroeyi (G.F. Orr) Currah, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 9(3): 398 (1977)
+Mycotaxon 24: 79 (1985)
 
 #### Original name
 Disarticulatus devroeyi G.F. Orr, 1977

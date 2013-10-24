@@ -1,5 +1,4 @@
-Leiopoda picea Velen. SPECIES
-=======
+# Leiopoda picea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boeremia hedericola (Durieu & Mont.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Boeremia hedericola (Durieu & Mont.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
 
 #### Status
 ACCEPTED

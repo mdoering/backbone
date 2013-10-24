@@ -1,5 +1,4 @@
-Lepista harperi (Murrill) Singer SPECIES
-=======
+# Lepista harperi (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lampteromyces Singer GENUS
-=======
+# Lampteromyces Singer GENUS
 
 #### Status
 ACCEPTED

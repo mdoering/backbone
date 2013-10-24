@@ -1,5 +1,4 @@
-Mycena albibrunneola Corner SPECIES
-=======
+# Mycena albibrunneola Corner SPECIES
 
 #### Status
 ACCEPTED

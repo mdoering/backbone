@@ -1,5 +1,4 @@
-Pyrenochaeta violae Bondartsev SPECIES
-=======
+# Pyrenochaeta violae Bondartsev SPECIES
 
 #### Status
 ACCEPTED

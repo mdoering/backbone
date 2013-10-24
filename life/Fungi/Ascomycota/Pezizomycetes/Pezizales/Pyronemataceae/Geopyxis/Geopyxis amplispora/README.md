@@ -1,5 +1,4 @@
-Geopyxis amplispora (Cooke & Peck) Sacc. SPECIES
-=======
+# Geopyxis amplispora (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

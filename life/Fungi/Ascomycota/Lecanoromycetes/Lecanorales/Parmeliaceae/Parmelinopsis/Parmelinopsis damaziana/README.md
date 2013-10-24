@@ -1,8 +1,7 @@
-Pamelina damaziana (Zahlbr.) Hale SPECIES
-=======
+# Parmelinopsis damaziana (Zahlbr.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

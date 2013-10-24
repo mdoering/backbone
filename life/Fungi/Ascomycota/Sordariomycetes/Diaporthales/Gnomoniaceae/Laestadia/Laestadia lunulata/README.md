@@ -1,5 +1,4 @@
-Laestadia lunulata Rostr. SPECIES
-=======
+# Laestadia lunulata Rostr. SPECIES
 
 #### Status
 ACCEPTED

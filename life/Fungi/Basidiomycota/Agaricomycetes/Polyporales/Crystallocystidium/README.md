@@ -1,5 +1,4 @@
-Crystallocystidium (Rick) Rick, 1940 GENUS
-=======
+# Crystallocystidium (Rick) Rick, 1940 GENUS
 
 #### Status
 ACCEPTED

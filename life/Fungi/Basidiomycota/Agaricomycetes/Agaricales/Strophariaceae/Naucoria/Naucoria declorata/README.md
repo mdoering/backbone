@@ -1,5 +1,4 @@
-Naucoria declorata Malençon ex R. Galán, G. Moreno & A. Ortega SPECIES
-=======
+# Naucoria declorata Malençon ex R. Galán, G. Moreno & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

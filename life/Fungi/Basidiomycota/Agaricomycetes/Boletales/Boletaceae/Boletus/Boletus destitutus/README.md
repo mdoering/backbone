@@ -1,5 +1,4 @@
-Boletus destitutus Corner SPECIES
-=======
+# Boletus destitutus Corner SPECIES
 
 #### Status
 ACCEPTED

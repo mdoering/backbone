@@ -1,5 +1,4 @@
-Sclerogaster liospermus (Tul. & C. Tul.) Soehner SPECIES
-=======
+# Sclerogaster liospermus (Tul. & C. Tul.) Soehner SPECIES
 
 #### Status
 ACCEPTED

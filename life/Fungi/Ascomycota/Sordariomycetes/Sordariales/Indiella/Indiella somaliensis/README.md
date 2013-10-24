@@ -1,5 +1,4 @@
-Indiella somaliensis Brumpt SPECIES
-=======
+# Indiella somaliensis Brumpt SPECIES
 
 #### Status
 ACCEPTED

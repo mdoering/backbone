@@ -1,5 +1,4 @@
-Lycoperdon sphaerale Lév. SPECIES
-=======
+# Lycoperdon sphaerale Lév. SPECIES
 
 #### Status
 ACCEPTED

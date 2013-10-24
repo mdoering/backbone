@@ -1,8 +1,7 @@
-Eutypa capparidis Rehm SPECIES
-=======
+# Eutypa capparis Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypa capparidis Rehm
+Eutypa capparis Rehm
 
 ### Remarks
 null

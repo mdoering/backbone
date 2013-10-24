@@ -1,5 +1,4 @@
-Meliola ceropegia Hosag. & V.S. Ramach. SPECIES
-=======
+# Meliola ceropegia Hosag. & V.S. Ramach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe subporospora Kuyper SPECIES
-=======
+# Inocybe subporospora Kuyper SPECIES
 
 #### Status
 ACCEPTED

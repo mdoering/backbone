@@ -1,5 +1,4 @@
-Sphacelotheca moggii Zundel SPECIES
-=======
+# Sphacelotheca moggii Zundel SPECIES
 
 #### Status
 ACCEPTED

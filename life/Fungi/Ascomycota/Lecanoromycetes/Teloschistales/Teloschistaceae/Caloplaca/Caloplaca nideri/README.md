@@ -1,5 +1,4 @@
-Caloplaca nideri J. Steiner SPECIES
-=======
+# Caloplaca nideri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

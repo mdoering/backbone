@@ -1,5 +1,4 @@
-Fasciculithus bitectus Romein, 1979 SPECIES
-=======
+# Fasciculithus bitectus Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

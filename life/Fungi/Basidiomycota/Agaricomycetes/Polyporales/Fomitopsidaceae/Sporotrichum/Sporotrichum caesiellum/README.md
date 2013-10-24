@@ -1,5 +1,4 @@
-Sporotrichum caesiellum Fr., 1832 SPECIES
-=======
+# Sporotrichum caesiellum Fr., 1832 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium parvum N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium parvum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

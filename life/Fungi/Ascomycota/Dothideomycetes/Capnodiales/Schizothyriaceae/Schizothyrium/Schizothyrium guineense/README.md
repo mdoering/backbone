@@ -1,5 +1,4 @@
-Schizothyrium guineense (Roger) Arx SPECIES
-=======
+# Schizothyrium guineense (Roger) Arx SPECIES
 
 #### Status
 ACCEPTED

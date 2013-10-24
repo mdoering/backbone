@@ -1,5 +1,4 @@
-Mollisia ochronigra Rodway SPECIES
-=======
+# Mollisia ochronigra Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nosema muscularis SPECIES
-=======
+# Nosema muscularis SPECIES
 
 #### Status
 ACCEPTED

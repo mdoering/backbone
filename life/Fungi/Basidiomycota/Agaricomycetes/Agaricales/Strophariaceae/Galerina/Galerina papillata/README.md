@@ -1,5 +1,4 @@
-Galerina papillata Singer SPECIES
-=======
+# Galerina papillata Singer SPECIES
 
 #### Status
 ACCEPTED

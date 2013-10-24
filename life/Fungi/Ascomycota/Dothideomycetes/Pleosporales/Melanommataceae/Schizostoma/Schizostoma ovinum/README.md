@@ -1,5 +1,4 @@
-Schizostoma ovinum Ellis & Everh. SPECIES
-=======
+# Schizostoma ovinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

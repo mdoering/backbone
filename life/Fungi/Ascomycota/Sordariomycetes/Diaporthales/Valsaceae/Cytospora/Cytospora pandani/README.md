@@ -1,5 +1,4 @@
-Cytospora pandani Prill. & Delacr. SPECIES
-=======
+# Cytospora pandani Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

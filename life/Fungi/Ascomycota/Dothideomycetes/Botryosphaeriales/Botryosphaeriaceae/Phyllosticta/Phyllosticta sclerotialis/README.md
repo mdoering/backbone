@@ -1,5 +1,4 @@
-Phyllosticta sclerotialis Cocc. SPECIES
-=======
+# Phyllosticta sclerotialis Cocc. SPECIES
 
 #### Status
 ACCEPTED

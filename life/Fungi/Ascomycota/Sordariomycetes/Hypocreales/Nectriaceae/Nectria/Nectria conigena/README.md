@@ -1,5 +1,4 @@
-Nectria conigena Ellis & Everh. SPECIES
-=======
+# Nectria conigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

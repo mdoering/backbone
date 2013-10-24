@@ -1,5 +1,4 @@
-Phyllosticta disciformis var. disciformis VARIETY
-=======
+# Phyllosticta disciformis Penz. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 6): 40 (1880)
 
 #### Original name
-Phyllosticta disciformis var. disciformis
+Phyllosticta disciformis Penz.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microphyma puiggarii Speg. SPECIES
-=======
+# Microphyma puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

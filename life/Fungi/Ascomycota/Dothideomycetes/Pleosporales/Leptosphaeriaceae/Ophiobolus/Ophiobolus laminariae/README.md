@@ -1,5 +1,4 @@
-Ophiobolus laminariae G.K. Sutherl., 1915 SPECIES
-=======
+# Ophiobolus laminariae G.K. Sutherl., 1915 SPECIES
 
 #### Status
 ACCEPTED

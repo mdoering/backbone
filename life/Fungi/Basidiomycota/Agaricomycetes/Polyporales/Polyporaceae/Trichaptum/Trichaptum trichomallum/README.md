@@ -1,14 +1,13 @@
-Microporus trichomallus (Berk. & Mont.) Kuntze, 1898 SPECIES
-=======
+# Trichaptum trichomallum (Berk. & Mont.) Murrill, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 497 (1898)
+Bull. Torrey bot. Club 31(11): 608 (1904)
 
 #### Original name
 Polyporus trichomallus Berk. & Mont., 1849

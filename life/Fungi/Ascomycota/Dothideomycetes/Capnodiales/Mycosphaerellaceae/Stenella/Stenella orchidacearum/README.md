@@ -1,5 +1,4 @@
-Stenella orchidacearum U. Braun & Sivap. SPECIES
-=======
+# Stenella orchidacearum U. Braun & Sivap. SPECIES
 
 #### Status
 ACCEPTED

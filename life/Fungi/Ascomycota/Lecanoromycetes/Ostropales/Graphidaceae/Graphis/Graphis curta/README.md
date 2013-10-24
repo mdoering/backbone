@@ -1,5 +1,4 @@
-Graphis curta Fée SPECIES
-=======
+# Graphis curta Fée SPECIES
 
 #### Status
 ACCEPTED

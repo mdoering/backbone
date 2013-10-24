@@ -1,5 +1,4 @@
-Fursenkoina titutoensis (Nakamura) SPECIES
-=======
+# Fursenkoina titutoensis (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

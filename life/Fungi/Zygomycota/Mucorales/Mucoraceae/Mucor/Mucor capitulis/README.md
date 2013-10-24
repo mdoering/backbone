@@ -1,5 +1,4 @@
-Mucor capitulis var. capitulis VARIETY
-=======
+# Mucor capitulis anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mucor capitulis var. capitulis
+Mucor capitulis anon.
 
 ### Remarks
 null

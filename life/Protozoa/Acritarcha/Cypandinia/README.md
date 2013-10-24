@@ -1,5 +1,4 @@
-Cypandinia Herman in Herman & Podkovyrov, 2002 GENUS
-=======
+# Cypandinia Herman in Herman & Podkovyrov, 2002 GENUS
 
 #### Status
 ACCEPTED

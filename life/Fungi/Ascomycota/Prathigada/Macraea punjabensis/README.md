@@ -1,5 +1,4 @@
-Macraea punjabensis Subram. SPECIES
-=======
+# Macraea punjabensis Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepocinclis truncata Da Cuncha SPECIES
-=======
+# Lepocinclis truncata Da Cuncha SPECIES
 
 #### Status
 ACCEPTED

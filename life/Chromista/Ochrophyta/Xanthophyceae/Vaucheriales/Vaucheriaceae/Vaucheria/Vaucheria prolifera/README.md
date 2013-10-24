@@ -1,5 +1,4 @@
-Vaucheria prolifera P.A. Dangeard SPECIES
-=======
+# Vaucheria prolifera P.A. Dangeard SPECIES
 
 #### Status
 ACCEPTED

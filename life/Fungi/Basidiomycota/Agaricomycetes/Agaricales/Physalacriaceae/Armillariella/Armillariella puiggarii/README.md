@@ -1,5 +1,4 @@
-Armillariella puiggarii f. puiggarii (Speg.) Singer FORM
-=======
+# Armillariella puiggarii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 22: 216 (1951)
 
 #### Original name
-Armillariella puiggarii f. puiggarii (Speg.) Singer
+Armillaria puiggarii Speg.
 
 ### Remarks
 null

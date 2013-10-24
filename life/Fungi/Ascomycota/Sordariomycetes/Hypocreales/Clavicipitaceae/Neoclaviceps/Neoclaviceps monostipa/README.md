@@ -1,5 +1,4 @@
-Neoclaviceps monostipa J.F. White, Bills, S.C. Alderman & Spatafora, 2001 SPECIES
-=======
+# Neoclaviceps monostipa J.F. White, Bills, S.C. Alderman & Spatafora, 2001 SPECIES
 
 #### Status
 ACCEPTED

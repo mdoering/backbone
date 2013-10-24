@@ -1,5 +1,4 @@
-Fouragea filicina (Mont.) Trevis. SPECIES
-=======
+# Fouragea filicina (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

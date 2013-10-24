@@ -1,5 +1,4 @@
-Vestergrenopsis Gyeln. GENUS
-=======
+# Vestergrenopsis Gyeln. GENUS
 
 #### Status
 ACCEPTED

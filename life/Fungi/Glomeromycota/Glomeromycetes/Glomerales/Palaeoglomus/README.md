@@ -1,5 +1,4 @@
-Palaeoglomus D. Redecker, Kodner & L.E. Graham GENUS
-=======
+# Palaeoglomus D. Redecker, Kodner & L.E. Graham GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora whetzelii Chardón, 1921 SPECIES
-=======
+# Phyllachora whetzelii Chardón, 1921 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Clavulina gallica Corner, 1950 SPECIES
-=======
+# Clavulina gallica Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

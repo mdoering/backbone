@@ -1,5 +1,4 @@
-Buellia subaeruginosa (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Buellia subaeruginosa (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

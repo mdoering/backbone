@@ -1,5 +1,4 @@
-Hypocrea estonica P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea estonica P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

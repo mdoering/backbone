@@ -1,5 +1,4 @@
-Parundella Jörgensen, 1925 GENUS
-=======
+# Parundella Jörgensen, 1925 GENUS
 
 #### Status
 ACCEPTED

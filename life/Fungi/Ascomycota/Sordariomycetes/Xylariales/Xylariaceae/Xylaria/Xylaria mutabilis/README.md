@@ -1,5 +1,4 @@
-Xylaria mutabilis Curr. SPECIES
-=======
+# Xylaria mutabilis Curr. SPECIES
 
 #### Status
 ACCEPTED

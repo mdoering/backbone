@@ -1,5 +1,4 @@
-Cortinarius luxuriatus f. luxuriatus FORM
-=======
+# Cortinarius luxuriatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius luxuriatus f. luxuriatus
+Cortinarius luxuriatus Britzelm.
 
 ### Remarks
 null

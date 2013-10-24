@@ -1,17 +1,16 @@
-Parmelia subrugata var. mexicana Vain. VARIETY
-=======
+# Parmotrema subrugatum (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 339 (1974)
 
 #### Original name
-Parmelia subrugata var. mexicana Vain.
+Parmelia subrugata Kremp.
 
 ### Remarks
 null

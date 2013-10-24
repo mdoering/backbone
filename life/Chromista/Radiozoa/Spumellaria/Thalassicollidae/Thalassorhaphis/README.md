@@ -1,5 +1,4 @@
-Thalassorhaphis Campbell, 1951 GENUS
-=======
+# Thalassorhaphis Campbell, 1951 GENUS
 
 #### Status
 ACCEPTED

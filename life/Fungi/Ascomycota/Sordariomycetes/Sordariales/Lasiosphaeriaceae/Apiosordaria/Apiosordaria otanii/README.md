@@ -1,5 +1,4 @@
-Apiosordaria otanii Udagawa, 1990 SPECIES
-=======
+# Apiosordaria otanii Udagawa, 1990 SPECIES
 
 #### Status
 ACCEPTED

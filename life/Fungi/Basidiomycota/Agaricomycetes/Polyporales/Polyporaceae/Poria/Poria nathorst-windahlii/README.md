@@ -1,5 +1,4 @@
-Poria nathorst-windahlii Pilát SPECIES
-=======
+# Poria nathorst-windahlii Pilát SPECIES
 
 #### Status
 ACCEPTED

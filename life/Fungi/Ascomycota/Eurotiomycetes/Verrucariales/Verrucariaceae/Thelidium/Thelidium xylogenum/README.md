@@ -1,5 +1,4 @@
-Thelidium xylogenum (Norman) Norman SPECIES
-=======
+# Thelidium xylogenum (Norman) Norman SPECIES
 
 #### Status
 ACCEPTED

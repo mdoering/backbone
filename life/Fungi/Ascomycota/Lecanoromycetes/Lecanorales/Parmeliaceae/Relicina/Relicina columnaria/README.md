@@ -1,5 +1,4 @@
-Relicina columnaria Elix & J. Johnst. SPECIES
-=======
+# Relicina columnaria Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

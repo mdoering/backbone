@@ -1,5 +1,4 @@
-Irenina eucleae Hansf. SPECIES
-=======
+# Irenina eucleae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracarpidium johnstonii Müll. Arg. SPECIES
-=======
+# Paracarpidium johnstonii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

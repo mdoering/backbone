@@ -1,5 +1,4 @@
-Arthopyrenia confluens R.C. Harris SPECIES
-=======
+# Arthopyrenia confluens R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

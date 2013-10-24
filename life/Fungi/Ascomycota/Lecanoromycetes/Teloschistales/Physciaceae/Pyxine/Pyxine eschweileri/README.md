@@ -1,5 +1,4 @@
-Pyxine eschweileri (Tuck.) Vain. SPECIES
-=======
+# Pyxine eschweileri (Tuck.) Vain. SPECIES
 
 #### Status
 ACCEPTED

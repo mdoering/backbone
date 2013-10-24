@@ -1,5 +1,4 @@
-Phyllostictina rotalae (Thirum. & Naras.) B. Sutton SPECIES
-=======
+# Phyllostictina rotalae (Thirum. & Naras.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

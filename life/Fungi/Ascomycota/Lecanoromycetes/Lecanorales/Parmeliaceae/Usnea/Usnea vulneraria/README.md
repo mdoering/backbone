@@ -1,5 +1,4 @@
-Usnea vulneraria Motyka SPECIES
-=======
+# Usnea vulneraria Motyka SPECIES
 
 #### Status
 ACCEPTED

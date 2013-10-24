@@ -1,5 +1,4 @@
-Pseudolagarobasidium ochroleucum (Lév.) Hjortstam & K.H. Larss. SPECIES
-=======
+# Pseudolagarobasidium ochroleucum (Lév.) Hjortstam & K.H. Larss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria calathiscus (Corda) Sacc. SPECIES
-=======
+# Aposphaeria calathiscus (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostropella vicinella (Sacc.) E. Müll. SPECIES
-=======
+# Ostropella vicinella (Sacc.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

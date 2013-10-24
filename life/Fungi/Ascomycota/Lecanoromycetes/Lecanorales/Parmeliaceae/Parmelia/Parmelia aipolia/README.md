@@ -1,5 +1,4 @@
-Parmelia aipolia a acrita Ach. SPECIES
-=======
+# Parmelia aipolia a acrita Ach. SPECIES
 
 #### Status
 ACCEPTED

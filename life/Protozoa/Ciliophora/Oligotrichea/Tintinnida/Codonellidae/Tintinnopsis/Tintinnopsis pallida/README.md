@@ -1,5 +1,4 @@
-Tintinnopsis pallida Brandt, 1906 SPECIES
-=======
+# Tintinnopsis pallida Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

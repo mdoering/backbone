@@ -1,5 +1,4 @@
-Leucoagaricus paraplesius Vellinga SPECIES
-=======
+# Leucoagaricus paraplesius Vellinga SPECIES
 
 #### Status
 ACCEPTED

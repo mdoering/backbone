@@ -1,5 +1,4 @@
-Hypomyces trichoderma var. trichoderma VARIETY
-=======
+# Hypomyces trichoderma (Hoffm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypomyces trichoderma var. trichoderma
+Sphaeria trichoderma Hoffm.
 
 ### Remarks
 null

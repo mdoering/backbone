@@ -1,17 +1,16 @@
-Tetramelas regiomontana Marbach SPECIES
-=======
+# Tetramelas regiomontanus Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 324 (2000)
 
 #### Original name
-Tetramelas regiomontana Marbach
+Tetramelas regiomontanus Marbach
 
 ### Remarks
 null

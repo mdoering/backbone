@@ -1,5 +1,4 @@
-Micrhystridium karamurzae Sarjeant, 1970 SPECIES
-=======
+# Micrhystridium karamurzae Sarjeant, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favella adriatica (Imhof, 1886) SPECIES
-=======
+# Favella adriatica (Imhof, 1886) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia voglii E. Senft SPECIES
-=======
+# Arthonia voglii E. Senft SPECIES
 
 #### Status
 ACCEPTED

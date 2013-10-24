@@ -1,17 +1,16 @@
-Graphis inusta var. inusta VARIETY
-=======
+# Phaeographis inusta (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 85 (1814)
+Flora, Jena 65: 383 (1882)
 
 #### Original name
-Graphis inusta var. inusta
+Graphis inusta Ach.
 
 ### Remarks
 null

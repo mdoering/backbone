@@ -1,5 +1,4 @@
-Rhizoplecta GENUS
-=======
+# Rhizoplecta GENUS
 
 #### Status
 ACCEPTED

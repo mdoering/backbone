@@ -1,5 +1,4 @@
-Mitremyces ravenelii var. ravenelii VARIETY
-=======
+# Mitremyces ravenelii Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Linn. Soc. London 22: 130 (1857)
 
 #### Original name
-Mitremyces ravenelii var. ravenelii
+Mitremyces ravenelii Berk.
 
 ### Remarks
 null

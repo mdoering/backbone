@@ -1,5 +1,4 @@
-Massaria platani var. platani VARIETY
-=======
+# Massaria platani Ces. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rabenhorst, Fungi europ. exsicc. no. 323 (1861)
 
 #### Original name
-Massaria platani var. platani
+Massaria platani Ces.
 
 ### Remarks
 null

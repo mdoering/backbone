@@ -1,5 +1,4 @@
-Phlyctochytrium multidentatum Umphlett SPECIES
-=======
+# Phlyctochytrium multidentatum Umphlett SPECIES
 
 #### Status
 ACCEPTED

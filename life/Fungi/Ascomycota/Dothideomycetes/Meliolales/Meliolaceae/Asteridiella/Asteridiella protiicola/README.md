@@ -1,5 +1,4 @@
-Asteridiella protiicola (Bat. & Gayão) Hansf. SPECIES
-=======
+# Asteridiella protiicola (Bat. & Gayão) Hansf. SPECIES
 
 #### Status
 ACCEPTED

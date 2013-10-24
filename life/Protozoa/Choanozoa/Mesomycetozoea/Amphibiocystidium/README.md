@@ -1,5 +1,4 @@
-Amphibiocystidium Pascolini, Daszak, Cunningham, Tei, Vagnetti, Bucci, Fagotti & Di Rosa, 2003 GENUS
-=======
+# Amphibiocystidium Pascolini, Daszak, Cunningham, Tei, Vagnetti, Bucci, Fagotti & Di Rosa, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirozythiella Höhn. GENUS
-=======
+# Sirozythiella Höhn. GENUS
 
 #### Status
 ACCEPTED

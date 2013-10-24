@@ -1,5 +1,4 @@
-Polystictus subflavus (Lév.) Cooke SPECIES
-=======
+# Polystictus subflavus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

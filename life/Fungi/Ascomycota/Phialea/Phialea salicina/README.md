@@ -1,5 +1,4 @@
-Phialea salicina (Pers.) Sacc. SPECIES
-=======
+# Phialea salicina (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

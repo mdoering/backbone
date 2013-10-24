@@ -1,5 +1,4 @@
-Agaricus pinastri Kalchbr. SPECIES
-=======
+# Agaricus pinastri Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

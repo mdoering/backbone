@@ -1,5 +1,4 @@
-Chytridioides schizophylli Trégouboff SPECIES
-=======
+# Chytridioides schizophylli Trégouboff SPECIES
 
 #### Status
 ACCEPTED

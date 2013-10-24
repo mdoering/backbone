@@ -1,5 +1,4 @@
-Trichospermella citricola Bat. SPECIES
-=======
+# Trichospermella citricola Bat. SPECIES
 
 #### Status
 ACCEPTED

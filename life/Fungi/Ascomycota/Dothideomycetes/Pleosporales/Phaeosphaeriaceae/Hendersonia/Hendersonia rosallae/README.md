@@ -1,5 +1,4 @@
-Hendersonia rosallae A.C. Santos SPECIES
-=======
+# Hendersonia rosallae A.C. Santos SPECIES
 
 #### Status
 ACCEPTED

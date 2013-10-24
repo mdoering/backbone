@@ -1,5 +1,4 @@
-Cladomeris maxima (Brot.) Bigeard & H. Guill. SPECIES
-=======
+# Cladomeris maxima (Brot.) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

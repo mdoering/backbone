@@ -1,5 +1,4 @@
-Dematium ochroleucum (Pers.) Link SPECIES
-=======
+# Dematium ochroleucum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella fragrans A.H. Sm. SPECIES
-=======
+# Psathyrella fragrans A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

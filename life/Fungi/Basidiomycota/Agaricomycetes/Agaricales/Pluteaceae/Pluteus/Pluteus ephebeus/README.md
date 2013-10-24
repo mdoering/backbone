@@ -1,17 +1,16 @@
-Pluteus pearsonii P.D. Orton, 1960 SPECIES
-=======
+# Pluteus ephebeus (Fr.) Gillet, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 361 (1960)
+Hyménomycètes (Alençon) 392 (1876)
 
 #### Original name
-Pluteus pearsonii P.D. Orton, 1960
+Agaricus ephebeus Fr., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xylomyces Goos, R.D. Brooks & Lamore GENUS
-=======
+# Xylomyces Goos, R.D. Brooks & Lamore GENUS
 
 #### Status
 ACCEPTED

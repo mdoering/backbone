@@ -1,5 +1,4 @@
-Endomyces nitidus Castell. SPECIES
-=======
+# Endomyces nitidus Castell. SPECIES
 
 #### Status
 ACCEPTED

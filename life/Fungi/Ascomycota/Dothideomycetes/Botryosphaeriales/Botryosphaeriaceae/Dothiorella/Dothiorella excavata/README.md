@@ -1,5 +1,4 @@
-Dothiorella excavata (Preuss) Sacc. SPECIES
-=======
+# Dothiorella excavata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

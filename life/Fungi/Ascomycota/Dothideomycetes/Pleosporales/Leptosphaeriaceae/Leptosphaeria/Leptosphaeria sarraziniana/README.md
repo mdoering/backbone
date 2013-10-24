@@ -1,5 +1,4 @@
-Leptosphaeria sarraziniana Sacc. & Roum. SPECIES
-=======
+# Leptosphaeria sarraziniana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

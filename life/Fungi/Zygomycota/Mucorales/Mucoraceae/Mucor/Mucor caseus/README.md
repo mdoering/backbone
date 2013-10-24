@@ -1,5 +1,4 @@
-Mucor caseus With. SPECIES
-=======
+# Mucor caseus With. SPECIES
 
 #### Status
 ACCEPTED

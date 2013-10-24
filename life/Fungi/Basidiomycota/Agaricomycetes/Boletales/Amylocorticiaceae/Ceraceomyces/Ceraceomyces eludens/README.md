@@ -1,5 +1,4 @@
-Ceraceomyces eludens K.H. Larss. SPECIES
-=======
+# Ceraceomyces eludens K.H. Larss. SPECIES
 
 #### Status
 ACCEPTED

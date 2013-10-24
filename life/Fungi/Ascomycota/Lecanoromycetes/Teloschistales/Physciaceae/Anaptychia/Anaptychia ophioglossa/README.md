@@ -1,5 +1,4 @@
-Anaptychia ophioglossa (Taylor) Kurok. SPECIES
-=======
+# Anaptychia ophioglossa (Taylor) Kurok. SPECIES
 
 #### Status
 ACCEPTED

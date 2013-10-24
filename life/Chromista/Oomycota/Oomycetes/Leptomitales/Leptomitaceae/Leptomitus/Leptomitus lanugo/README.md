@@ -1,5 +1,4 @@
-Leptomitus lanugo C. Agardh SPECIES
-=======
+# Leptomitus lanugo C. Agardh SPECIES
 
 #### Status
 ACCEPTED

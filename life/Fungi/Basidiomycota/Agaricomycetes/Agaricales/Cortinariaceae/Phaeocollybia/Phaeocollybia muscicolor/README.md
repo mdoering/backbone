@@ -1,5 +1,4 @@
-Phaeocollybia muscicolor E. Horak SPECIES
-=======
+# Phaeocollybia muscicolor E. Horak SPECIES
 
 #### Status
 ACCEPTED

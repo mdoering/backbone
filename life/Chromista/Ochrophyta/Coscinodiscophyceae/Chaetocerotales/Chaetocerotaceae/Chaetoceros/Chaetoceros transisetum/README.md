@@ -1,5 +1,4 @@
-Chaetoceros transisetum J. R. Johansen & J. S. Boyer SPECIES
-=======
+# Chaetoceros transisetum J. R. Johansen & J. S. Boyer SPECIES
 
 #### Status
 ACCEPTED

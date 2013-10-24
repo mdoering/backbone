@@ -1,5 +1,4 @@
-Tintinnus pectinis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus pectinis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichomonascus apis G. Péter, Tornai-Leh. & Dlauchy, 2009 SPECIES
-=======
+# Trichomonascus apis G. Péter, Tornai-Leh. & Dlauchy, 2009 SPECIES
 
 #### Status
 ACCEPTED

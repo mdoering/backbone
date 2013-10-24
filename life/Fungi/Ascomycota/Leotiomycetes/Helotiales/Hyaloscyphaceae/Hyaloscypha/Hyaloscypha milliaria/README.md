@@ -1,5 +1,4 @@
-Hyaloscypha milliaria Velen. SPECIES
-=======
+# Hyaloscypha milliaria Velen. SPECIES
 
 #### Status
 ACCEPTED

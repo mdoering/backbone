@@ -1,5 +1,4 @@
-Muciturbo truncatus P.H.B. Talbot, 1989 SPECIES
-=======
+# Muciturbo truncatus P.H.B. Talbot, 1989 SPECIES
 
 #### Status
 ACCEPTED

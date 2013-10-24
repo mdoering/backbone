@@ -1,5 +1,4 @@
-Textulina Saidova, 1975 GENUS
-=======
+# Textulina Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

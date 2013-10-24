@@ -1,5 +1,4 @@
-Fomes braunii Rabenh. SPECIES
-=======
+# Fomes braunii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

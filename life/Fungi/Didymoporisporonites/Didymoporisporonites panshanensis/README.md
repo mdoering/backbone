@@ -1,5 +1,4 @@
-Didymoporisporonites panshanensis P. Ke & Z.Y. Shi SPECIES
-=======
+# Didymoporisporonites panshanensis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

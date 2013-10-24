@@ -1,5 +1,4 @@
-Micrhystridium vigintispinum Staplin, 1961 SPECIES
-=======
+# Micrhystridium vigintispinum Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

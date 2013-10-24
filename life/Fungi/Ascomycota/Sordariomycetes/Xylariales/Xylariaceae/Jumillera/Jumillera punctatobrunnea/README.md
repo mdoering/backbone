@@ -1,17 +1,16 @@
-Nummularia punctatobrunnea var. variabilis Theiss. VARIETY
-=======
+# Jumillera punctatobrunnea (Theiss.) J.D. Rogers, Y.M. Ju & F. San Martín, 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 64: 47 (1997)
 
 #### Original name
-Nummularia punctatobrunnea var. variabilis Theiss.
+Nummularia punctatobrunnea Theiss., 1908
 
 ### Remarks
 null

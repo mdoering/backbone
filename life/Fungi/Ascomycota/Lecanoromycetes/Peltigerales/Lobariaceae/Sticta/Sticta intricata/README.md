@@ -1,5 +1,4 @@
-Sticta intricata var. intricata VARIETY
-=======
+# Sticta intricata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta intricata var. intricata
+null
 
 ### Remarks
 null

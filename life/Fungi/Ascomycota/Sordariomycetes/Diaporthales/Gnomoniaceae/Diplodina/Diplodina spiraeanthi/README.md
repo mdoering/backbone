@@ -1,5 +1,4 @@
-Diplodina spiraeanthi Byzova SPECIES
-=======
+# Diplodina spiraeanthi Byzova SPECIES
 
 #### Status
 ACCEPTED

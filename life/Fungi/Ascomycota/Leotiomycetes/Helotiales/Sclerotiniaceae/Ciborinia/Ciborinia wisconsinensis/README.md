@@ -1,5 +1,4 @@
-Ciborinia wisconsinensis L.R. Batra SPECIES
-=======
+# Ciborinia wisconsinensis L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

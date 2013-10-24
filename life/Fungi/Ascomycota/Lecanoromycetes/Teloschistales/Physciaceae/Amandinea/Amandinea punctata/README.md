@@ -1,17 +1,16 @@
-Buellia myriocarpa var. myriocarpa VARIETY
-=======
+# Amandinea punctata (Hoffm.) Coppins & Scheid. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 25(4): 343 (1993)
 
 #### Original name
-null
+Lecidea punctata
 
 ### Remarks
 null

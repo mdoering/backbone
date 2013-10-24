@@ -1,5 +1,4 @@
-Parmelia pinastri (Scop.) Sommerf. SPECIES
-=======
+# Parmelia pinastri (Scop.) Sommerf. SPECIES
 
 #### Status
 ACCEPTED

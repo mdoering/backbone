@@ -1,5 +1,4 @@
-Sphaceloma ricini Jenkins & C.C. Cheo, 1941 SPECIES
-=======
+# Sphaceloma ricini Jenkins & C.C. Cheo, 1941 SPECIES
 
 #### Status
 ACCEPTED

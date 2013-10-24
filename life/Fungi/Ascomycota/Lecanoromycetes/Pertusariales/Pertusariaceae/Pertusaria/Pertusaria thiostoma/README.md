@@ -1,5 +1,4 @@
-Pertusaria thiostoma Nyl. SPECIES
-=======
+# Pertusaria thiostoma Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothyrium alpestre f. alpestre FORM
-=======
+# Trichothyrium alpestre Theiss. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichothyrium alpestre f. alpestre
+Trichothyrium alpestre Theiss.
 
 ### Remarks
 null

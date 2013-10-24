@@ -1,5 +1,4 @@
-Ceratuim GENUS
-=======
+# Ceratuim GENUS
 
 #### Status
 ACCEPTED

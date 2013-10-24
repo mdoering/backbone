@@ -1,5 +1,4 @@
-Buellia dendritica C.W. Dodge & G.E. Baker SPECIES
-=======
+# Buellia dendritica C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

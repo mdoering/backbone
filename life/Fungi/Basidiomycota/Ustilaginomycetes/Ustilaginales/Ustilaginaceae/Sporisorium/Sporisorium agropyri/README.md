@@ -1,5 +1,4 @@
-Sporisorium agropyri Bag & D.K. Agarwal SPECIES
-=======
+# Sporisorium agropyri Bag & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

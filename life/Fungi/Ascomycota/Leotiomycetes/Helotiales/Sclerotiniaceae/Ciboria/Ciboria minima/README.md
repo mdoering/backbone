@@ -1,5 +1,4 @@
-Ciboria minima Rick SPECIES
-=======
+# Ciboria minima Rick SPECIES
 
 #### Status
 ACCEPTED

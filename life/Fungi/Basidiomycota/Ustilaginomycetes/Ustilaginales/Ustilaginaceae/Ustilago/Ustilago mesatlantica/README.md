@@ -1,5 +1,4 @@
-Ustilago mesatlantica Malençon & Massenot SPECIES
-=======
+# Ustilago mesatlantica Malençon & Massenot SPECIES
 
 #### Status
 ACCEPTED

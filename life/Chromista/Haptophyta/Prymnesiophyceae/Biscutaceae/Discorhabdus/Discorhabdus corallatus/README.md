@@ -1,5 +1,4 @@
-Discorhabdus corallatus SPECIES
-=======
+# Discorhabdus corallatus SPECIES
 
 #### Status
 ACCEPTED

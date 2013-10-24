@@ -1,5 +1,4 @@
-Rocella princeps (A. P. Jousé) J. Fenner SPECIES
-=======
+# Rocella princeps (A. P. Jousé) J. Fenner SPECIES
 
 #### Status
 ACCEPTED

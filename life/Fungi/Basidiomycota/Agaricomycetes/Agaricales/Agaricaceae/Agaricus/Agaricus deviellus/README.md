@@ -1,5 +1,4 @@
-Agaricus deviellus Britzelm. SPECIES
-=======
+# Agaricus deviellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

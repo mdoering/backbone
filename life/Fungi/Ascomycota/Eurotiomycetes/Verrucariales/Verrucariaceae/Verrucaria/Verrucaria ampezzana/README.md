@@ -1,5 +1,4 @@
-Verrucaria ampezzana Servít SPECIES
-=======
+# Verrucaria ampezzana Servít SPECIES
 
 #### Status
 ACCEPTED

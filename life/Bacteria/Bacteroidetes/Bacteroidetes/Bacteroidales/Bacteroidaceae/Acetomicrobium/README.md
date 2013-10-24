@@ -1,5 +1,4 @@
-Acetomicrobium Soutschek et al., 1985 GENUS
-=======
+# Acetomicrobium Soutschek et al., 1985 GENUS
 
 #### Status
 ACCEPTED

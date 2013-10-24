@@ -1,5 +1,4 @@
-Gloniopsis tecta Paoli SPECIES
-=======
+# Gloniopsis tecta Paoli SPECIES
 
 #### Status
 ACCEPTED

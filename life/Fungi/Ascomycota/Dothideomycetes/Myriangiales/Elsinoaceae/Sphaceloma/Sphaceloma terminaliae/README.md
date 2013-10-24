@@ -1,17 +1,16 @@
-Sphaceloma terminali Bitanc. SPECIES
-=======
+# Sphaceloma terminaliae Bitanc., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Archos Inst. biol. , S Paulo 8(no. 13): 197 (1937)
 
 #### Original name
-Sphaceloma terminali Bitanc.
+Sphaceloma terminaliae Bitanc., 1937
 
 ### Remarks
 null

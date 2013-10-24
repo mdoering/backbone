@@ -1,17 +1,16 @@
-Lentodiellum Murrill GENUS
-=======
+# Lentinus E.M. Fries, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 7(4): 216 (1915)
+null
 
 #### Original name
-Lentodiellum Murrill
+null
 
 ### Remarks
 null

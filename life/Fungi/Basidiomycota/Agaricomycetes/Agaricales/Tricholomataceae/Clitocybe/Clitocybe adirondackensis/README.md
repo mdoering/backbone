@@ -1,5 +1,4 @@
-Clitocybe adirondackensis var. adirondackensis VARIETY
-=======
+# Clitocybe adirondackensis Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitocybe adirondackensis var. adirondackensis
+Clitocybe adirondackensis Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uroleptus poianae SPECIES
-=======
+# Uroleptus poianae SPECIES
 
 #### Status
 ACCEPTED

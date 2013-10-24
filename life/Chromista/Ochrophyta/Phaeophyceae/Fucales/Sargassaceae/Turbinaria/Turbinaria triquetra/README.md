@@ -1,8 +1,7 @@
-Turbinaria vulgaris var. triquetra J. Agardh VARIETY
-=======
+# Turbinaria triquetra (J. Agardh) Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Puccinia polymniae H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia polymniae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyadosporites substrangulatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites substrangulatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

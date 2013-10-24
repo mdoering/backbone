@@ -1,5 +1,4 @@
-Lecidea aurantiella (Nyl.) Hue SPECIES
-=======
+# Lecidea aurantiella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora amphibola Syd., 1926 SPECIES
-=======
+# Phyllachora amphibola Syd., 1926 SPECIES
 
 #### Status
 DOUBTFUL

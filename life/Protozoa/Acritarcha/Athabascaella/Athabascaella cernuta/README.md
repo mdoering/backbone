@@ -1,5 +1,4 @@
-Athabascaella cernuta Vavrdová, 1990 SPECIES
-=======
+# Athabascaella cernuta Vavrdová, 1990 SPECIES
 
 #### Status
 ACCEPTED

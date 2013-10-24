@@ -1,5 +1,4 @@
-Phragmidium yamadanum Hirats. f., 1935 SPECIES
-=======
+# Phragmidium yamadanum Hirats. f., 1935 SPECIES
 
 #### Status
 ACCEPTED

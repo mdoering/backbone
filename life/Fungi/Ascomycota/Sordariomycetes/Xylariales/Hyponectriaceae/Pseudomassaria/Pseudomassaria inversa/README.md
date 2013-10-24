@@ -1,5 +1,4 @@
-Pseudomassaria inversa M.E. Barr SPECIES
-=======
+# Pseudomassaria inversa M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

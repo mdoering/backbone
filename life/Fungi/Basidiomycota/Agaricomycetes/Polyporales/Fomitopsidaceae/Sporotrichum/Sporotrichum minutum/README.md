@@ -1,5 +1,4 @@
-Sporotrichum minutum Grev. SPECIES
-=======
+# Sporotrichum minutum Grev. SPECIES
 
 #### Status
 ACCEPTED

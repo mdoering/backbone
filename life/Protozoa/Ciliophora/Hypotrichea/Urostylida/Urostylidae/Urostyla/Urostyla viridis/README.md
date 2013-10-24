@@ -1,8 +1,7 @@
-Paraurostyla viridis (Stein, 1859) Borror, 1972 SPECIES
-=======
+# Urostyla viridis Stein, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

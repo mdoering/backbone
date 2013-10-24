@@ -1,5 +1,4 @@
-Pyrenodesmia variabilis var. variabilis VARIETY
-=======
+# Pyrenodesmia variabilis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenodesmia variabilis var. variabilis
+null
 
 ### Remarks
 null

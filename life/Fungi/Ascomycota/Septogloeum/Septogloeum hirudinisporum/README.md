@@ -1,5 +1,4 @@
-Septogloeum hirudinisporum Speg. SPECIES
-=======
+# Septogloeum hirudinisporum Speg. SPECIES
 
 #### Status
 ACCEPTED

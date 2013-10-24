@@ -1,5 +1,4 @@
-Agaricus subsquamuliferus Kalamees SPECIES
-=======
+# Agaricus subsquamuliferus Kalamees SPECIES
 
 #### Status
 ACCEPTED

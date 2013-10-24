@@ -1,5 +1,4 @@
-Cercospora lonchitidis Chupp SPECIES
-=======
+# Cercospora lonchitidis Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus pusillus Velen. SPECIES
-=======
+# Panus pusillus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hazlinszkya inarensis Vain. SPECIES
-=======
+# Hazlinszkya inarensis Vain. SPECIES
 
 #### Status
 ACCEPTED

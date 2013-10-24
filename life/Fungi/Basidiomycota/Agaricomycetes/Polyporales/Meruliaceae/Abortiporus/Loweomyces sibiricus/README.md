@@ -1,5 +1,4 @@
-Loweomyces sibiricus (Penzina & Ryvarden) Spirin SPECIES
-=======
+# Loweomyces sibiricus (Penzina & Ryvarden) Spirin SPECIES
 
 #### Status
 ACCEPTED

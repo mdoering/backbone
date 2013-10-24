@@ -1,5 +1,4 @@
-Englerulaster sinensis Syd. SPECIES
-=======
+# Englerulaster sinensis Syd. SPECIES
 
 #### Status
 ACCEPTED

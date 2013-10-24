@@ -1,5 +1,4 @@
-Megacladosporium GENUS
-=======
+# Megacladosporium GENUS
 
 #### Status
 ACCEPTED

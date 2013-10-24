@@ -1,5 +1,4 @@
-Albigo lanestris (Harkn.) Kuntze SPECIES
-=======
+# Albigo lanestris (Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

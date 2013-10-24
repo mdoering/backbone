@@ -1,5 +1,4 @@
-Parmelia ferruginea (Huds.) Fr. SPECIES
-=======
+# Parmelia ferruginea (Huds.) Fr. SPECIES
 
 #### Status
 ACCEPTED

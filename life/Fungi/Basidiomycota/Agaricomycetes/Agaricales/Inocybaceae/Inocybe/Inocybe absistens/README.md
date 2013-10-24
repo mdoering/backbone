@@ -1,5 +1,4 @@
-Inocybe absistens (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe absistens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellina diaphana Bayl. Ell. & O.P. Stansf., 1923 SPECIES
-=======
+# Patellina diaphana Bayl. Ell. & O.P. Stansf., 1923 SPECIES
 
 #### Status
 ACCEPTED

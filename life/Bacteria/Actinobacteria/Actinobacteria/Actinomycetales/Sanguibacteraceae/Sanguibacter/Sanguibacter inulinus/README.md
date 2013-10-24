@@ -1,5 +1,4 @@
-Sanguibacter inulinus Pascual et al., 1996 SPECIES
-=======
+# Sanguibacter inulinus Pascual et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

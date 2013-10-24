@@ -1,5 +1,4 @@
-Boletus xanthosporus Krombh. SPECIES
-=======
+# Boletus xanthosporus Krombh. SPECIES
 
 #### Status
 ACCEPTED

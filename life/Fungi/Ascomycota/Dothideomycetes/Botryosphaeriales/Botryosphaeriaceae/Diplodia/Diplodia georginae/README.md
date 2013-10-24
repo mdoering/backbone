@@ -1,5 +1,4 @@
-Diplodia georginae (Corda) Lév. SPECIES
-=======
+# Diplodia georginae (Corda) Lév. SPECIES
 
 #### Status
 ACCEPTED

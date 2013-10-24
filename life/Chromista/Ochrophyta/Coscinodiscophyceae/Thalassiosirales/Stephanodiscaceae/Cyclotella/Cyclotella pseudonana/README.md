@@ -1,5 +1,4 @@
-Cyclotella pseudonana T. P. Chang SPECIES
-=======
+# Cyclotella pseudonana T. P. Chang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Godronia fuckeliana J.W. Groves SPECIES
-=======
+# Godronia fuckeliana J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boliniaceae Rick FAMILY
-=======
+# Boliniaceae Rick FAMILY
 
 #### Status
 ACCEPTED

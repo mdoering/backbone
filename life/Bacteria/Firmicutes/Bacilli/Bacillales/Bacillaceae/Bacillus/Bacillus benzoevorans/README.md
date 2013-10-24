@@ -1,5 +1,4 @@
-Bacillus benzoevorans Pichinoty et al., 1987 SPECIES
-=======
+# Bacillus benzoevorans Pichinoty et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

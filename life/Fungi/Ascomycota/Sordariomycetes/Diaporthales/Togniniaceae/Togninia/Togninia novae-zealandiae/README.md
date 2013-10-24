@@ -1,5 +1,4 @@
-Togninia novae-zealandiae Georg Hausner, Eyjólfsd. & J. Reid, 1992 SPECIES
-=======
+# Togninia novae-zealandiae Georg Hausner, Eyjólfsd. & J. Reid, 1992 SPECIES
 
 #### Status
 ACCEPTED

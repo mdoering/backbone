@@ -1,5 +1,4 @@
-Pertusaria debaryana var. debaryana VARIETY
-=======
+# Pertusaria debaryana Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria debaryana var. debaryana
+Pertusaria debaryana Hepp
 
 ### Remarks
 null

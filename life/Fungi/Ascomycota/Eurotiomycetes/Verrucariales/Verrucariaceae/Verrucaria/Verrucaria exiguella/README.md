@@ -1,5 +1,4 @@
-Verrucaria exiguella Nyl. SPECIES
-=======
+# Verrucaria exiguella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus effusus Pegler SPECIES
-=======
+# Crepidotus effusus Pegler SPECIES
 
 #### Status
 ACCEPTED

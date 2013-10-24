@@ -1,5 +1,4 @@
-Aplosporella hesperidica Speg. SPECIES
-=======
+# Aplosporella hesperidica Speg. SPECIES
 
 #### Status
 ACCEPTED

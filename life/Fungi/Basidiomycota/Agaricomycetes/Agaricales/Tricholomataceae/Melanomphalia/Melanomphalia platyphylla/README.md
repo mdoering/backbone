@@ -1,5 +1,4 @@
-Melanomphalia platyphylla Singer SPECIES
-=======
+# Melanomphalia platyphylla Singer SPECIES
 
 #### Status
 ACCEPTED

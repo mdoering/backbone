@@ -1,5 +1,4 @@
-Eulophospyris Campbell, 1951 GENUS
-=======
+# Eulophospyris Campbell, 1951 GENUS
 
 #### Status
 ACCEPTED

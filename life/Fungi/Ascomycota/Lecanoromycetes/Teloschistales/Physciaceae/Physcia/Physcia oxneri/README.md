@@ -1,5 +1,4 @@
-Physcia oxneri Inaschv. SPECIES
-=======
+# Physcia oxneri Inaschv. SPECIES
 
 #### Status
 ACCEPTED

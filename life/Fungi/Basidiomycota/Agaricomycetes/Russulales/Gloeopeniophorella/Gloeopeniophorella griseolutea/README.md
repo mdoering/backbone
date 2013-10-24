@@ -1,5 +1,4 @@
-Gloeopeniophorella griseolutea Rick SPECIES
-=======
+# Gloeopeniophorella griseolutea Rick SPECIES
 
 #### Status
 ACCEPTED

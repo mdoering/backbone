@@ -1,17 +1,16 @@
-Zukaliopsis Henn. GENUS
-=======
+# Molleriella G. Winter, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 367 (1904)
+Bolm Soc. broteriana, Coimbra 4: 199 (1886)
 
 #### Original name
-Zukaliopsis Henn.
+Molleriella G. Winter, 1886
 
 ### Remarks
 null

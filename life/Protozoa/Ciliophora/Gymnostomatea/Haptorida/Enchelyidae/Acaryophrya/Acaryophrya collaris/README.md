@@ -1,5 +1,4 @@
-Acaryophrya collaris Kahl, 1926 SPECIES
-=======
+# Acaryophrya collaris Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

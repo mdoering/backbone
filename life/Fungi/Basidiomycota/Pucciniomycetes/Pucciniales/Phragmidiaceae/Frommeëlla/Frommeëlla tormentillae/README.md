@@ -1,14 +1,13 @@
-Phragmidium tormentillae Fuckel, 1870 SPECIES
-=======
+# Frommeëlla tormentillae (Fuckel) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 46 (1870)
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
 
 #### Original name
 Phragmidium tormentillae Fuckel, 1870

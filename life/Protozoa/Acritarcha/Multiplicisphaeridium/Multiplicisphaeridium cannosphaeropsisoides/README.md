@@ -1,5 +1,4 @@
-Multiplicisphaeridium cannosphaeropsisoides (Stockmans & Willière, 1962) Eisenack et al., 1973 SPECIES
-=======
+# Multiplicisphaeridium cannosphaeropsisoides (Stockmans & Willière, 1962) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

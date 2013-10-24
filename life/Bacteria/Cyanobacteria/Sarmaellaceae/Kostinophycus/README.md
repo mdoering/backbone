@@ -1,5 +1,4 @@
-Kostinophycus Vologdin GENUS
-=======
+# Kostinophycus Vologdin GENUS
 
 #### Status
 ACCEPTED

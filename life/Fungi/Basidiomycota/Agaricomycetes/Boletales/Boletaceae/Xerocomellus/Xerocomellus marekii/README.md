@@ -1,5 +1,4 @@
-Xerocomellus marekii (Sutara & Skála) Sutara SPECIES
-=======
+# Xerocomellus marekii (Sutara & Skála) Sutara SPECIES
 
 #### Status
 ACCEPTED

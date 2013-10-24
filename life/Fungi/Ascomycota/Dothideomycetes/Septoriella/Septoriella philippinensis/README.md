@@ -1,5 +1,4 @@
-Septoriella philippinensis Sacc. SPECIES
-=======
+# Septoriella philippinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

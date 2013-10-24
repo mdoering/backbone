@@ -1,17 +1,16 @@
-Polyporus gilvus var. gilvus VARIETY
-=======
+# Phellinus gilvus (Schwein.) Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 82 (1900)
 
 #### Original name
-Polyporus gilvus var. gilvus
+Boletus gilvus Schwein., 1822
 
 ### Remarks
 null

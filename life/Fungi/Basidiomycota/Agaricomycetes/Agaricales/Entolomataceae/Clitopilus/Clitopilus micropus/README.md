@@ -1,5 +1,4 @@
-Clitopilus micropus Peck SPECIES
-=======
+# Clitopilus micropus Peck SPECIES
 
 #### Status
 ACCEPTED

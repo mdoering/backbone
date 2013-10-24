@@ -1,5 +1,4 @@
-Rinodina applanata H. Magn. SPECIES
-=======
+# Rinodina applanata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium rubicola Brunaud SPECIES
-=======
+# Coniothyrium rubicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

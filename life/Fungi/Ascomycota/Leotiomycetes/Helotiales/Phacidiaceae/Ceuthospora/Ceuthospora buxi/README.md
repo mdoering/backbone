@@ -1,5 +1,4 @@
-Ceuthospora buxi (Fr.) Petr., 1929 SPECIES
-=======
+# Ceuthospora buxi (Fr.) Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

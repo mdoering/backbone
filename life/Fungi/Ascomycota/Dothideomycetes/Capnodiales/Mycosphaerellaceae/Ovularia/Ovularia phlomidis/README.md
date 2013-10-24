@@ -1,5 +1,4 @@
-Ovularia phlomidis Bubák & Wróbl. SPECIES
-=======
+# Ovularia phlomidis Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

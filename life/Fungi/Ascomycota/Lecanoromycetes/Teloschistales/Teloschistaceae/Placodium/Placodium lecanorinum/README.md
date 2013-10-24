@@ -1,5 +1,4 @@
-Placodium lecanorinum C. Knight SPECIES
-=======
+# Placodium lecanorinum C. Knight SPECIES
 
 #### Status
 ACCEPTED

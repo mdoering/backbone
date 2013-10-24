@@ -1,5 +1,4 @@
-Mitrula lateritiorosea Vacek SPECIES
-=======
+# Mitrula lateritiorosea Vacek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus hygrophilus Pers. SPECIES
-=======
+# Agaricus hygrophilus Pers. SPECIES
 
 #### Status
 ACCEPTED

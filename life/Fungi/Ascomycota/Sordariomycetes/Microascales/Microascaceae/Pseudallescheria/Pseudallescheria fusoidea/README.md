@@ -1,14 +1,13 @@
-Pseudallescheria fusoideum (Arx) McGinnis, A.A. Padhye & Ajello SPECIES
-=======
+# Pseudallescheria fusoidea (Arx) McGinnis, A.A. Padhye & Ajello, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 14(1): 98 (1982)
 
 #### Original name
 Petriellidium fusoideum Arx, 1973

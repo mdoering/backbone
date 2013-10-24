@@ -1,5 +1,4 @@
-Physarum rayssiae Ramon, 1969 SPECIES
-=======
+# Physarum rayssiae Ramon, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wellmanellinella Cherif, 1973 GENUS
-=======
+# Wellmanellinella Cherif, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudanabaena biceps Böcher, 1946 SPECIES
-=======
+# Pseudanabaena biceps Böcher, 1946 SPECIES
 
 #### Status
 ACCEPTED

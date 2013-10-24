@@ -1,5 +1,4 @@
-Xylaria polyramosa Y.X. Li & H.J. Li SPECIES
-=======
+# Xylaria polyramosa Y.X. Li & H.J. Li SPECIES
 
 #### Status
 ACCEPTED

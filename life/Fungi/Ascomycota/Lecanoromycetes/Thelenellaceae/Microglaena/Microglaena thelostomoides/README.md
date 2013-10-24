@@ -1,5 +1,4 @@
-Microglaena thelostomoides (Nyl.) Zahlbr. SPECIES
-=======
+# Microglaena thelostomoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

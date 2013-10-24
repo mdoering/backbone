@@ -1,5 +1,4 @@
-Trichia hemisphaerica Trentep. SPECIES
-=======
+# Trichia hemisphaerica Trentep. SPECIES
 
 #### Status
 ACCEPTED

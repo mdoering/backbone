@@ -1,5 +1,4 @@
-Orcitolites Gümbel, 1868 GENUS
-=======
+# Orcitolites Gümbel, 1868 GENUS
 
 #### Status
 ACCEPTED

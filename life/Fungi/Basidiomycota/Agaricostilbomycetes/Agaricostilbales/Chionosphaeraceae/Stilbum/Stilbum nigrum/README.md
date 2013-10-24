@@ -1,5 +1,4 @@
-Stilbum nigrum DC. SPECIES
-=======
+# Stilbum nigrum DC. SPECIES
 
 #### Status
 ACCEPTED

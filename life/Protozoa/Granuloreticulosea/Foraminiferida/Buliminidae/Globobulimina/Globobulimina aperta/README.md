@@ -1,5 +1,4 @@
-Globobulimina aperta Hofker, 1956 SPECIES
-=======
+# Globobulimina aperta Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

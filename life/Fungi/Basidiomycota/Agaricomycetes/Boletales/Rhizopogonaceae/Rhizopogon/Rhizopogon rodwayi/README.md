@@ -1,5 +1,4 @@
-Rhizopogon rodwayi McAlpine SPECIES
-=======
+# Rhizopogon rodwayi McAlpine SPECIES
 
 #### Status
 ACCEPTED

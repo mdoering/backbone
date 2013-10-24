@@ -1,5 +1,4 @@
-Citreimonas Choi & Cho, 2006 GENUS
-=======
+# Citreimonas Choi & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

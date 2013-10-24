@@ -1,5 +1,4 @@
-Guignardia ulmariae Miura SPECIES
-=======
+# Guignardia ulmariae Miura SPECIES
 
 #### Status
 ACCEPTED

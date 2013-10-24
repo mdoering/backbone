@@ -1,5 +1,4 @@
-Volutella putaminum Kirschst. SPECIES
-=======
+# Volutella putaminum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquabacterium Kalmbach et al., 1999 GENUS
-=======
+# Aquabacterium Kalmbach et al., 1999 GENUS
 
 #### Status
 ACCEPTED

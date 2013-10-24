@@ -1,5 +1,4 @@
-Schizodiplodia leptodactyli (Earle) Zambett. SPECIES
-=======
+# Schizodiplodia leptodactyli (Earle) Zambett. SPECIES
 
 #### Status
 ACCEPTED

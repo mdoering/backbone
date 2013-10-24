@@ -1,5 +1,4 @@
-Sporormiella capybarae (Speg.) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella capybarae (Speg.) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

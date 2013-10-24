@@ -1,5 +1,4 @@
-Scutellinia hydrogeton Gamundí SPECIES
-=======
+# Scutellinia hydrogeton Gamundí SPECIES
 
 #### Status
 ACCEPTED

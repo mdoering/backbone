@@ -1,5 +1,4 @@
-Hymenostilbe furcata Aung, J.C. Kang, Z.Q. Liang, Soytong & K.D. Hyde SPECIES
-=======
+# Hymenostilbe furcata Aung, J.C. Kang, Z.Q. Liang, Soytong & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

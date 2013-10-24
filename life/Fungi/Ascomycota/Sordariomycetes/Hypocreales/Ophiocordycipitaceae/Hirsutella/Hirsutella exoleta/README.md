@@ -1,5 +1,4 @@
-Hirsutella exoleta (Fr.) Petch SPECIES
-=======
+# Hirsutella exoleta (Fr.) Petch SPECIES
 
 #### Status
 ACCEPTED

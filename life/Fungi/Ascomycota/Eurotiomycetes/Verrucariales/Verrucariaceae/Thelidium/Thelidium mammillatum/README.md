@@ -1,5 +1,4 @@
-Thelidium mammillatum Bagl. SPECIES
-=======
+# Thelidium mammillatum Bagl. SPECIES
 
 #### Status
 ACCEPTED

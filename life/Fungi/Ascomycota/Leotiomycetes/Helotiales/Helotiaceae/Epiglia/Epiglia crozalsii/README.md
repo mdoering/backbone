@@ -1,8 +1,7 @@
-Epiglia crozalsi Grelet SPECIES
-=======
+# Epiglia crozalsii Grelet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Epiglia crozalsi Grelet
+Epiglia crozalsii Grelet
 
 ### Remarks
 null

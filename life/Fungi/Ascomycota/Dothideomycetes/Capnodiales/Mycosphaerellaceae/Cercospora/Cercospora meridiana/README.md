@@ -1,5 +1,4 @@
-Cercospora meridiana Chupp SPECIES
-=======
+# Cercospora meridiana Chupp SPECIES
 
 #### Status
 ACCEPTED

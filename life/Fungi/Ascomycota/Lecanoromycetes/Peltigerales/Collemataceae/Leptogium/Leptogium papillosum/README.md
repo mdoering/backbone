@@ -1,5 +1,4 @@
-Leptogium papillosum (B. de Lesd.) C.W. Dodge SPECIES
-=======
+# Leptogium papillosum (B. de Lesd.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

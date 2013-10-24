@@ -1,5 +1,4 @@
-Stelomorpha Yin, 1994 GENUS
-=======
+# Stelomorpha Yin, 1994 GENUS
 
 #### Status
 ACCEPTED

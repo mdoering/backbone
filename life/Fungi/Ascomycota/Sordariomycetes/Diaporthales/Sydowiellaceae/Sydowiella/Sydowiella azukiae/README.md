@@ -1,5 +1,4 @@
-Sydowiella azukiae I. Hino & Katum. SPECIES
-=======
+# Sydowiella azukiae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

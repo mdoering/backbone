@@ -1,5 +1,4 @@
-Amphoridium subtile (Müll. Arg.) Servít SPECIES
-=======
+# Amphoridium subtile (Müll. Arg.) Servít SPECIES
 
 #### Status
 ACCEPTED

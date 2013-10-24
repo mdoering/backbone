@@ -1,5 +1,4 @@
-Valsa gemmata Berk. & M.A. Curtis SPECIES
-=======
+# Valsa gemmata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

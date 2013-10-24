@@ -1,5 +1,4 @@
-Pleurotus fuscifrons (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus fuscifrons (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

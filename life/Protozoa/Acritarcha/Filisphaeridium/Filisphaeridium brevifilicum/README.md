@@ -1,5 +1,4 @@
-Filisphaeridium brevifilicum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium brevifilicum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

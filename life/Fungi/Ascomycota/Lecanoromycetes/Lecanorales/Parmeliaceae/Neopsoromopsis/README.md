@@ -1,5 +1,4 @@
-Neopsoromopsis Gyeln. GENUS
-=======
+# Neopsoromopsis Gyeln. GENUS
 
 #### Status
 ACCEPTED

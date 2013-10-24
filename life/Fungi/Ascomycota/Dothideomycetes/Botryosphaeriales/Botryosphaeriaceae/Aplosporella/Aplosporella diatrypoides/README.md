@@ -1,5 +1,4 @@
-Aplosporella diatrypoides Ellis & Barthol. SPECIES
-=======
+# Aplosporella diatrypoides Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

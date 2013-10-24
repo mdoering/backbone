@@ -1,5 +1,4 @@
-Phoma haloxyli Terjajeva SPECIES
-=======
+# Phoma haloxyli Terjajeva SPECIES
 
 #### Status
 ACCEPTED

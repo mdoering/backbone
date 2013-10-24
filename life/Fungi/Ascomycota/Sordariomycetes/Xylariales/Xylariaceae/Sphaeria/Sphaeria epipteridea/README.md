@@ -1,5 +1,4 @@
-Sphaeria epipteridea Cooke & Harkn. SPECIES
-=======
+# Sphaeria epipteridea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

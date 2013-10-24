@@ -1,5 +1,4 @@
-Irenopsis benguetensis F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Irenopsis benguetensis F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

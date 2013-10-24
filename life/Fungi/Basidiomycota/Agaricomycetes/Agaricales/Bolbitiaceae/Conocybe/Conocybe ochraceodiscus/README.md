@@ -1,5 +1,4 @@
-Conocybe ochraceodiscus Watling SPECIES
-=======
+# Conocybe ochraceodiscus Watling SPECIES
 
 #### Status
 ACCEPTED

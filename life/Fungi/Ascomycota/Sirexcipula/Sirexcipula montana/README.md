@@ -1,5 +1,4 @@
-Sirexcipula montana (Höhn.) B. Sutton SPECIES
-=======
+# Sirexcipula montana (Höhn.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

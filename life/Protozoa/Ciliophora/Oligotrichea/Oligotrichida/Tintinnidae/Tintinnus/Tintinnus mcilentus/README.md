@@ -1,5 +1,4 @@
-Tintinnus mcilentus Jörgensen, 1924 SPECIES
-=======
+# Tintinnus mcilentus Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

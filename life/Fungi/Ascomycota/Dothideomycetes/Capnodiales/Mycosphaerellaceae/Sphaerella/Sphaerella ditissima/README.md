@@ -1,5 +1,4 @@
-Sphaerella ditissima (Syd. & P. Syd.) Sacc. SPECIES
-=======
+# Sphaerella ditissima (Syd. & P. Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora fraserae (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora fraserae (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

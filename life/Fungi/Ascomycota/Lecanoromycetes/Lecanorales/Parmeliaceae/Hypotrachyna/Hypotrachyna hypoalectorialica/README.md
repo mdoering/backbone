@@ -1,5 +1,4 @@
-Hypotrachyna hypoalectorialica Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna hypoalectorialica Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

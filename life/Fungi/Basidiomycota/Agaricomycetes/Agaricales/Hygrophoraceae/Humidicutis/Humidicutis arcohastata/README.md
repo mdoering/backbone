@@ -1,5 +1,4 @@
-Humidicutis arcohastata (A.M. Young) A.M. Young SPECIES
-=======
+# Humidicutis arcohastata (A.M. Young) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

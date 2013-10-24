@@ -1,5 +1,4 @@
-Evolutinella GENUS
-=======
+# Evolutinella GENUS
 
 #### Status
 ACCEPTED

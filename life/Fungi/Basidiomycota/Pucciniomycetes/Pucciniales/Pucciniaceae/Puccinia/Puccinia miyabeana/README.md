@@ -1,5 +1,4 @@
-Puccinia miyabeana T. Miyake SPECIES
-=======
+# Puccinia miyabeana T. Miyake SPECIES
 
 #### Status
 ACCEPTED

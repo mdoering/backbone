@@ -1,5 +1,4 @@
-Laboulbenia pitraeana Sorokin SPECIES
-=======
+# Laboulbenia pitraeana Sorokin SPECIES
 
 #### Status
 ACCEPTED

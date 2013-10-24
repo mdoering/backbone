@@ -1,5 +1,4 @@
-Spiculosiphon radiata Christiansen, 1964 SPECIES
-=======
+# Spiculosiphon radiata Christiansen, 1964 SPECIES
 
 #### Status
 ACCEPTED

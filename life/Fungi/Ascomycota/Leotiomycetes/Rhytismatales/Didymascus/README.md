@@ -1,5 +1,4 @@
-Didymascus Sacc. GENUS
-=======
+# Didymascus Sacc. GENUS
 
 #### Status
 ACCEPTED

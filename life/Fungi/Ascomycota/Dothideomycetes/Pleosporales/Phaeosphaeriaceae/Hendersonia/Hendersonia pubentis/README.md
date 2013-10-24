@@ -1,5 +1,4 @@
-Hendersonia pubentis Cooke SPECIES
-=======
+# Hendersonia pubentis Cooke SPECIES
 
 #### Status
 ACCEPTED

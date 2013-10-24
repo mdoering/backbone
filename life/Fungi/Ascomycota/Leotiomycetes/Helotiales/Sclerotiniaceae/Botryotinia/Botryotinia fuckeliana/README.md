@@ -1,17 +1,16 @@
-Botrytis vulgaris subsp. vulgaris SUBSPECIES
-=======
+# Botryotinia fuckeliana (de Bary) Whetzel, 1945 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 398 (1832)
+Mycologia 37(6): 679 (1945)
 
 #### Original name
-Polyactis vulgaris Link, 1809
+null
 
 ### Remarks
 null

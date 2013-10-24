@@ -1,5 +1,4 @@
-Phyllosticta nicotianicola Speg. SPECIES
-=======
+# Phyllosticta nicotianicola Speg. SPECIES
 
 #### Status
 ACCEPTED

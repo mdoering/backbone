@@ -1,5 +1,4 @@
-Peziza wisconsinensis (Rehm) Sacc. & D. Sacc. SPECIES
-=======
+# Peziza wisconsinensis (Rehm) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

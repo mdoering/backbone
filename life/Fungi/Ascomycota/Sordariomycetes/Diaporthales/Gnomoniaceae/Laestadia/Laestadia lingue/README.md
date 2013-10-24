@@ -1,5 +1,4 @@
-Laestadia lingue Speg. SPECIES
-=======
+# Laestadia lingue Speg. SPECIES
 
 #### Status
 ACCEPTED

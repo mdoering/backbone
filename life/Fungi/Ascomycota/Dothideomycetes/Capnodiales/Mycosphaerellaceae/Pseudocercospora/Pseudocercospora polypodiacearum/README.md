@@ -1,5 +1,4 @@
-Pseudocercospora polypodiacearum D.N. Shukla, A.K. Singh, P. Kumar & Kamal SPECIES
-=======
+# Pseudocercospora polypodiacearum D.N. Shukla, A.K. Singh, P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Ehrenbergia Gieszczykiewicz, 1939 GENUS
-=======
+# Spirochaeta GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

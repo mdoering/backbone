@@ -1,5 +1,4 @@
-Valsaria pustulans Rehm SPECIES
-=======
+# Valsaria pustulans Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropsalliota luteotacta Heinem. SPECIES
-=======
+# Micropsalliota luteotacta Heinem. SPECIES
 
 #### Status
 ACCEPTED

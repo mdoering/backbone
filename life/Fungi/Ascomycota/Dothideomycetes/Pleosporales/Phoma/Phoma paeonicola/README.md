@@ -1,5 +1,4 @@
-Phoma paeonicola Hollós SPECIES
-=======
+# Phoma paeonicola Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia insularis Zahlbr. SPECIES
-=======
+# Bacidia insularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria postmessia E.G. Simmons SPECIES
-=======
+# Alternaria postmessia E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

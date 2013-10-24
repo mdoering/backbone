@@ -1,5 +1,4 @@
-Aquaticola triseptata K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
-=======
+# Aquaticola triseptata K.M. Tsui, Hodgkiss & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella alpigena (Sacc.) H. Ruppr. SPECIES
-=======
+# Asteromella alpigena (Sacc.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

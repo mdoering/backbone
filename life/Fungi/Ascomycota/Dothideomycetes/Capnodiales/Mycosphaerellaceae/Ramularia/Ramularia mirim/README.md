@@ -1,5 +1,4 @@
-Ramularia mirim Viégas SPECIES
-=======
+# Ramularia mirim Viégas SPECIES
 
 #### Status
 ACCEPTED

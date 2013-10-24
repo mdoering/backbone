@@ -1,5 +1,4 @@
-Chaetomella indica Syd. SPECIES
-=======
+# Chaetomella indica Syd. SPECIES
 
 #### Status
 ACCEPTED

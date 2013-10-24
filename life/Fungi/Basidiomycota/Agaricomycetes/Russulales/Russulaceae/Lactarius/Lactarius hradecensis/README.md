@@ -1,5 +1,4 @@
-Lactarius hradecensis Z. Schaef. SPECIES
-=======
+# Lactarius hradecensis Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon macrocarpum Pouzar, 1978 SPECIES
-=======
+# Hypoxylon macrocarpum Pouzar, 1978 SPECIES
 
 #### Status
 ACCEPTED

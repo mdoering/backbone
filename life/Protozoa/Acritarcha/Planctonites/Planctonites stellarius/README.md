@@ -1,5 +1,4 @@
-Planctonites stellarius (R. Potonié, 1934) Krutzsch & Vanhoorne, 1977 SPECIES
-=======
+# Planctonites stellarius (R. Potonié, 1934) Krutzsch & Vanhoorne, 1977 SPECIES
 
 #### Status
 ACCEPTED

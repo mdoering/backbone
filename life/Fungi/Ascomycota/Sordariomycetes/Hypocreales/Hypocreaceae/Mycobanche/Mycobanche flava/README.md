@@ -1,5 +1,4 @@
-Mycobanche flava Wallr. SPECIES
-=======
+# Mycobanche flava Wallr. SPECIES
 
 #### Status
 ACCEPTED

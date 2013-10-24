@@ -1,17 +1,16 @@
-Pertusaria phymatodes var. phymatodes VARIETY
-=======
+# Pertusaria coccodes (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 116 (1857)
 
 #### Original name
-Pertusaria phymatodes var. phymatodes
+Lichen coccodes Ach.
 
 ### Remarks
 null

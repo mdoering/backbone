@@ -1,5 +1,4 @@
-Dialonectria martialis (Kalchbr. & Cooke) Cooke SPECIES
-=======
+# Dialonectria martialis (Kalchbr. & Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

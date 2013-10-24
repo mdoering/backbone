@@ -1,17 +1,16 @@
-Pyrenula marginata var. marginata VARIETY
-=======
+# Pyrenula mamillana (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kunth, Syn. pl. 1: 20 (1822)
+Conspectus Verruc. 13 (1860)
 
 #### Original name
-Pyrenula marginata var. marginata
+Verrucaria mamillana Ach.
 
 ### Remarks
 null

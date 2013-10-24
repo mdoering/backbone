@@ -1,5 +1,4 @@
-Triadelphia inquinans (Sacc.) S. Hughes & Piroz. SPECIES
-=======
+# Triadelphia inquinans (Sacc.) S. Hughes & Piroz. SPECIES
 
 #### Status
 ACCEPTED

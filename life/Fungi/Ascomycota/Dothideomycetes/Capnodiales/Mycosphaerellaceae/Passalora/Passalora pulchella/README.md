@@ -1,14 +1,13 @@
-Cercospora pulchella T.S. Ramakr., 1951 SPECIES
-=======
+# Passalora pulchella (T.S. Ramakr.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian Acad. Sci. , Sect. B 34: 163 (1951)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 341 (2003)
 
 #### Original name
 Cercospora pulchella T.S. Ramakr., 1951

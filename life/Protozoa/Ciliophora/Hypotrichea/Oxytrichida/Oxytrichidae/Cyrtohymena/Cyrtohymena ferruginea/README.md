@@ -1,5 +1,4 @@
-Cyrtohymena ferruginea Stein, 1859 SPECIES
-=======
+# Cyrtohymena ferruginea Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

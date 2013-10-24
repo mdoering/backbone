@@ -1,5 +1,4 @@
-Spirillum anserum SPECIES
-=======
+# Spirillum anserum SPECIES
 
 #### Status
 ACCEPTED

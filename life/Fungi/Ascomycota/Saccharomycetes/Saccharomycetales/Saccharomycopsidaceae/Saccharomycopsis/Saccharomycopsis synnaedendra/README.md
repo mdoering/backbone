@@ -1,17 +1,16 @@
-Saccharomycopsis microspora (L.R. Batra) Kurtzman, 1999 SPECIES
-=======
+# Saccharomycopsis synnaedendra D.B. Scott & Van der Walt, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 44(2): 102 (1971)
 
 #### Original name
-null
+Saccharomycopsis synnaedendra D.B. Scott & Van der Walt, 1971
 
 ### Remarks
 null

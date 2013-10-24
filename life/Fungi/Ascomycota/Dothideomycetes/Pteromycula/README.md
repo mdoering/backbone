@@ -1,5 +1,4 @@
-Pteromycula P.F. Cannon GENUS
-=======
+# Pteromycula P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

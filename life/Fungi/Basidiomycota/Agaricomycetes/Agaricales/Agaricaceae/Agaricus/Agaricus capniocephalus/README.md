@@ -1,5 +1,4 @@
-Agaricus capniocephalus Bull. SPECIES
-=======
+# Agaricus capniocephalus Bull. SPECIES
 
 #### Status
 ACCEPTED

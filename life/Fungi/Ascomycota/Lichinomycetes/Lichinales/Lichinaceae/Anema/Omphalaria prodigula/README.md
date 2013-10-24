@@ -1,5 +1,4 @@
-Omphalaria prodigula Nyl. SPECIES
-=======
+# Omphalaria prodigula Nyl. SPECIES
 
 #### Status
 ACCEPTED

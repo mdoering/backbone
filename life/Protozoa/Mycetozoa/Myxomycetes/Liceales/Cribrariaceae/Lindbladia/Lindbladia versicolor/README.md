@@ -1,5 +1,4 @@
-Lindbladia versicolor (Fr.) Rostaf. SPECIES
-=======
+# Lindbladia versicolor (Fr.) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

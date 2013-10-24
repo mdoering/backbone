@@ -1,5 +1,4 @@
-Favolaschia rubra (Bres.) Kuntze, 1898 SPECIES
-=======
+# Favolaschia rubra (Bres.) Kuntze, 1898 SPECIES
 
 #### Status
 ACCEPTED

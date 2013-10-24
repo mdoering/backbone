@@ -1,5 +1,4 @@
-Eleutherascus tuberculatus Samson & Luiten, 1975 SPECIES
-=======
+# Eleutherascus tuberculatus Samson & Luiten, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria phloeodes Stirt. SPECIES
-=======
+# Pannaria phloeodes Stirt. SPECIES
 
 #### Status
 ACCEPTED

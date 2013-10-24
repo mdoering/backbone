@@ -1,5 +1,4 @@
-Amazonia acronychiae Hosag. SPECIES
-=======
+# Amazonia acronychiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microporus xalapensis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microporus xalapensis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

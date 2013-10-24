@@ -1,14 +1,13 @@
-Vorarlbergia medioincrassata Grummann SPECIES
-=======
+# Epigloea medioincrassata (Grummann) Döbbeler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 22(1-4): 220 (1969)
+Beih. Nova Hedwigia 79: 223 (1984)
 
 #### Original name
 Vorarlbergia medioincrassata Grummann

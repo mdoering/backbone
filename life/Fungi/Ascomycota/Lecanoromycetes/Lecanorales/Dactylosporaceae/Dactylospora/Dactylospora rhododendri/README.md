@@ -1,5 +1,4 @@
-Dactylospora rhododendri Remler SPECIES
-=======
+# Dactylospora rhododendri Remler SPECIES
 
 #### Status
 ACCEPTED

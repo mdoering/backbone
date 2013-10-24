@@ -1,5 +1,4 @@
-Scolecopeltidium guttulatum Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium guttulatum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

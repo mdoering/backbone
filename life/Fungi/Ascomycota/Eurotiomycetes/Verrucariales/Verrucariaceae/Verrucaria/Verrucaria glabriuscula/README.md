@@ -1,5 +1,4 @@
-Verrucaria glabriuscula Nyl. SPECIES
-=======
+# Verrucaria glabriuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

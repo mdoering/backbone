@@ -1,5 +1,4 @@
-Eccilia camerunensis Henn. SPECIES
-=======
+# Eccilia camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

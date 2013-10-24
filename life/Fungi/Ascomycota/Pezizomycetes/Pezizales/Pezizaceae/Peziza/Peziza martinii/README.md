@@ -1,17 +1,16 @@
-Peziza martini Donadini SPECIES
-=======
+# Peziza martinii Donadini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. linn. Provence 36: 171 (1985)
 
 #### Original name
-Peziza martini Donadini
+Peziza martinii Donadini
 
 ### Remarks
 null

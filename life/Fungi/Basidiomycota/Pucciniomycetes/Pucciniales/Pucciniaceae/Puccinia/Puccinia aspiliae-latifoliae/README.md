@@ -1,5 +1,4 @@
-Puccinia aspiliae-latifoliae Cummins SPECIES
-=======
+# Puccinia aspiliae-latifoliae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporopodium lucidum Aptroot & Sipman SPECIES
-=======
+# Sporopodium lucidum Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

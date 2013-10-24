@@ -1,5 +1,4 @@
-Erinella tomentella Penz. & Sacc. SPECIES
-=======
+# Erinella tomentella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

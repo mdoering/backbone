@@ -1,5 +1,4 @@
-Hypospila ambigua Syd. SPECIES
-=======
+# Hypospila ambigua Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora tuberculata (Seaver) Caillet & Moyne SPECIES
-=======
+# Octospora tuberculata (Seaver) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

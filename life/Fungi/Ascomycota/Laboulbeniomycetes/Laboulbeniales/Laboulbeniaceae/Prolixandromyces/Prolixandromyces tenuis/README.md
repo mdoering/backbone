@@ -1,5 +1,4 @@
-Prolixandromyces tenuis R.K. Benj., 1981 SPECIES
-=======
+# Prolixandromyces tenuis R.K. Benj., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum fissifolium var. furcaefolium Grunow VARIETY
-=======
+# Sargassum fissifolium (Mertens) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

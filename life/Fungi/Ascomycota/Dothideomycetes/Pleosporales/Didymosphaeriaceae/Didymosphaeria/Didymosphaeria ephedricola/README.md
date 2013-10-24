@@ -1,5 +1,4 @@
-Didymosphaeria ephedricola Frolov SPECIES
-=======
+# Didymosphaeria ephedricola Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia pseudocolasiana Balazuc SPECIES
-=======
+# Laboulbenia pseudocolasiana Balazuc SPECIES
 
 #### Status
 ACCEPTED

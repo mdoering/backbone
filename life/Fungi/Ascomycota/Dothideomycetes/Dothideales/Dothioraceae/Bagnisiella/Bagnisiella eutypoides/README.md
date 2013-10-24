@@ -1,5 +1,4 @@
-Bagnisiella eutypoides Ellis & Everh. SPECIES
-=======
+# Bagnisiella eutypoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

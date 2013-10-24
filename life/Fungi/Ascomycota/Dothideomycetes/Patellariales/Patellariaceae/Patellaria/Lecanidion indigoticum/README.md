@@ -1,5 +1,4 @@
-Lecanidion indigoticum (Cooke & Peck) Sacc. SPECIES
-=======
+# Lecanidion indigoticum (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachybasidiella polyspora Bubák & Syd. SPECIES
-=======
+# Pachybasidiella polyspora Bubák & Syd. SPECIES
 
 #### Status
 ACCEPTED

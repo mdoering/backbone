@@ -1,5 +1,4 @@
-Belonopeziza advena (P. Karst.) Nannf. SPECIES
-=======
+# Belonopeziza advena (P. Karst.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

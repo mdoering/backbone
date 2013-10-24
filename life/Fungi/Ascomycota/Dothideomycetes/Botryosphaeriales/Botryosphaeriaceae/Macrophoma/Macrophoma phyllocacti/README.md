@@ -1,5 +1,4 @@
-Macrophoma phyllocacti Speg. SPECIES
-=======
+# Macrophoma phyllocacti Speg. SPECIES
 
 #### Status
 ACCEPTED

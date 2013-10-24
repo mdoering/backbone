@@ -1,5 +1,4 @@
-Amoebidae FAMILY
-=======
+# Amoebidae FAMILY
 
 #### Status
 ACCEPTED

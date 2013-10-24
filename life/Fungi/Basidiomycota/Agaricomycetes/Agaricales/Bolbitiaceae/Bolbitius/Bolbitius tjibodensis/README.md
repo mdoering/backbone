@@ -1,5 +1,4 @@
-Bolbitius tjibodensis Henn. SPECIES
-=======
+# Bolbitius tjibodensis Henn. SPECIES
 
 #### Status
 ACCEPTED

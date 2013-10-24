@@ -1,5 +1,4 @@
-Gloeosporium corallinum (Peyl) Sacc. & Traverso SPECIES
-=======
+# Gloeosporium corallinum (Peyl) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

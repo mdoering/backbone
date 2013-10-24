@@ -1,5 +1,4 @@
-Lyromma dolichobellum Cavalc. SPECIES
-=======
+# Lyromma dolichobellum Cavalc. SPECIES
 
 #### Status
 ACCEPTED

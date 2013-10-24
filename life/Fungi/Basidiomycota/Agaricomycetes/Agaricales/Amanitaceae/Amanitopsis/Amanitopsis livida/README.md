@@ -1,5 +1,4 @@
-Amanitopsis livida Pers. SPECIES
-=======
+# Amanitopsis livida Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus dusenii Bres. SPECIES
-=======
+# Panus dusenii Bres. SPECIES
 
 #### Status
 ACCEPTED

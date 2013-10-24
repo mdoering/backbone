@@ -1,5 +1,4 @@
-Agaricus croceolamellatus Letell. SPECIES
-=======
+# Agaricus croceolamellatus Letell. SPECIES
 
 #### Status
 ACCEPTED

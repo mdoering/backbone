@@ -1,5 +1,4 @@
-Hendersonia sisymbrii Petr. SPECIES
-=======
+# Hendersonia sisymbrii Petr. SPECIES
 
 #### Status
 ACCEPTED

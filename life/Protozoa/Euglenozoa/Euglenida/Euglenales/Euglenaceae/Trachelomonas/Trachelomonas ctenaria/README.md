@@ -1,5 +1,4 @@
-Trachelomonas ctenaria Tschernov SPECIES
-=======
+# Trachelomonas ctenaria Tschernov SPECIES
 
 #### Status
 ACCEPTED

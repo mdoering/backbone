@@ -1,5 +1,4 @@
-Mimeomyces rostratus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Mimeomyces rostratus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

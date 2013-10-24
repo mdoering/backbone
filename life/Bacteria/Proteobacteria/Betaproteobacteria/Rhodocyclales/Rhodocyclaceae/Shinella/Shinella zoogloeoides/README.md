@@ -1,5 +1,4 @@
-Shinella zoogloeoides An et al., 2006 SPECIES
-=======
+# Shinella zoogloeoides An et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

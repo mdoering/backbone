@@ -1,5 +1,4 @@
-Pholiota connata A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota connata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

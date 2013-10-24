@@ -1,5 +1,4 @@
-Anthostomella cornicola Ellis & Everh. SPECIES
-=======
+# Anthostomella cornicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

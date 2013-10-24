@@ -1,5 +1,4 @@
-Pluteus congolensis Beeli SPECIES
-=======
+# Pluteus congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

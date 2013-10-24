@@ -1,5 +1,4 @@
-Maclayina Saltovskaya, 1981 GENUS
-=======
+# Maclayina Saltovskaya, 1981 GENUS
 
 #### Status
 ACCEPTED

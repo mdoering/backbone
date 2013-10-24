@@ -1,5 +1,4 @@
-Tricholoma vacini Velen. SPECIES
-=======
+# Tricholoma vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

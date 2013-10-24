@@ -1,5 +1,4 @@
-Gibberella thapsina Klittich, J.F. Leslie, P.E. Nelson & Marasas, 1997 SPECIES
-=======
+# Gibberella thapsina Klittich, J.F. Leslie, P.E. Nelson & Marasas, 1997 SPECIES
 
 #### Status
 ACCEPTED

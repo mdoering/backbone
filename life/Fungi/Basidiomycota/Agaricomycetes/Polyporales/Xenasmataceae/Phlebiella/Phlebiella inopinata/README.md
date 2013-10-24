@@ -1,5 +1,4 @@
-Phlebiella inopinata (H.S. Jacks.) K.H. Larss. & Hjortstam SPECIES
-=======
+# Phlebiella inopinata (H.S. Jacks.) K.H. Larss. & Hjortstam SPECIES
 
 #### Status
 ACCEPTED

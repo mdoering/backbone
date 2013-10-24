@@ -1,17 +1,16 @@
-Fistulinella campinaranae var. campinaranae Singer, 1978 VARIETY
-=======
+# Fistulinella campinaranae Singer, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 9(4): 436 (1978)
 
 #### Original name
-Fistulinella campinaranae var. campinaranae Singer, 1978
+Fistulinella campinaranae Singer, 1978
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecania clauzadei B. de Lesd. SPECIES
-=======
+# Lecania clauzadei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

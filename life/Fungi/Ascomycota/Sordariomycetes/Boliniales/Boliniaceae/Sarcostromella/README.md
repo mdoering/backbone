@@ -1,5 +1,4 @@
-Sarcostromella GENUS
-=======
+# Sarcostromella GENUS
 
 #### Status
 ACCEPTED

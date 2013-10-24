@@ -1,5 +1,4 @@
-Thelephora pteruloides Berk. & M.A. Curtis SPECIES
-=======
+# Thelephora pteruloides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

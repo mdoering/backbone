@@ -1,5 +1,4 @@
-Characiopsis minor Pascher SPECIES
-=======
+# Characiopsis minor Pascher SPECIES
 
 #### Status
 ACCEPTED

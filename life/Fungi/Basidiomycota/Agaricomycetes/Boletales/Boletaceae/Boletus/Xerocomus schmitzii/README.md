@@ -1,5 +1,4 @@
-Xerocomus schmitzii Heinem. SPECIES
-=======
+# Xerocomus schmitzii Heinem. SPECIES
 
 #### Status
 ACCEPTED

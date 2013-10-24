@@ -1,5 +1,4 @@
-Jiroveciana J.I.R. Larsson GENUS
-=======
+# Jiroveciana J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

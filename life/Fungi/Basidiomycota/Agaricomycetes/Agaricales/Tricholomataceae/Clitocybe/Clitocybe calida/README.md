@@ -1,5 +1,4 @@
-Clitocybe calida Velen. SPECIES
-=======
+# Clitocybe calida Velen. SPECIES
 
 #### Status
 ACCEPTED

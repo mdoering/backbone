@@ -1,5 +1,4 @@
-Leccinum brunneo-olivaceum Snell, E.A. Dick & Hesler SPECIES
-=======
+# Leccinum brunneo-olivaceum Snell, E.A. Dick & Hesler SPECIES
 
 #### Status
 ACCEPTED

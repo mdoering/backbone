@@ -1,5 +1,4 @@
-Cryptocline nigricans (Cooke & Massee) B. Sutton SPECIES
-=======
+# Cryptocline nigricans (Cooke & Massee) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

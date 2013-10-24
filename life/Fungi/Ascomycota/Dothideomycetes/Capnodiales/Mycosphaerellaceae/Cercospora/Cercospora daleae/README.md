@@ -1,5 +1,4 @@
-Cercospora daleae Ellis & Kellerm. SPECIES
-=======
+# Cercospora daleae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

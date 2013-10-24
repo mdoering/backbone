@@ -1,5 +1,4 @@
-Desulfovibrio termitidis Trinkerl et al., 1991 SPECIES
-=======
+# Desulfovibrio termitidis Trinkerl et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe nemoralis Harmaja SPECIES
-=======
+# Conocybe nemoralis Harmaja SPECIES
 
 #### Status
 ACCEPTED

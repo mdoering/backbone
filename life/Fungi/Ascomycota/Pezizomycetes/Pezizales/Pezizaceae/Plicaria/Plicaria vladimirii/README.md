@@ -1,5 +1,4 @@
-Plicaria vladimirii Vacek SPECIES
-=======
+# Plicaria vladimirii Vacek SPECIES
 
 #### Status
 ACCEPTED

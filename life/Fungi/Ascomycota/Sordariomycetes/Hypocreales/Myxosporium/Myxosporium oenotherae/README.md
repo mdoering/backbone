@@ -1,5 +1,4 @@
-Myxosporium oenotherae Dearn. SPECIES
-=======
+# Myxosporium oenotherae Dearn. SPECIES
 
 #### Status
 ACCEPTED

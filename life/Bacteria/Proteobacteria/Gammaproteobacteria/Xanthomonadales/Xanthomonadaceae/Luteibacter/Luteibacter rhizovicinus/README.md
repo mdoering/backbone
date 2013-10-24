@@ -1,5 +1,4 @@
-Luteibacter rhizovicinus Johansen et al., 2005 SPECIES
-=======
+# Luteibacter rhizovicinus Johansen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

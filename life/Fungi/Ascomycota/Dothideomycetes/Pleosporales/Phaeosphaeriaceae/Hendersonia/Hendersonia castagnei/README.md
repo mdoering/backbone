@@ -1,5 +1,4 @@
-Hendersonia castagnei Mont. SPECIES
-=======
+# Hendersonia castagnei Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina quercicola Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina quercicola Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spinifermonas GENUS
-=======
+# Spinifermonas GENUS
 
 #### Status
 ACCEPTED

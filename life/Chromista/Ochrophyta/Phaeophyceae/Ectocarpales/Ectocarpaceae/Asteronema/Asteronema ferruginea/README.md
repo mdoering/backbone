@@ -1,8 +1,7 @@
-Sphacella ferruginea (Harvey) Womersley SPECIES
-=======
+# Asteronema ferruginea (Harvey) Delépine & Asensi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,14 +1,13 @@
-Stephanophorus javanicus Mont. & Bosch SPECIES
-=======
+# Leptogium javanicum Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gatlung Asterina 379 (1856)
 
 #### Original name
 Stephanophorus javanicus Mont. & Bosch

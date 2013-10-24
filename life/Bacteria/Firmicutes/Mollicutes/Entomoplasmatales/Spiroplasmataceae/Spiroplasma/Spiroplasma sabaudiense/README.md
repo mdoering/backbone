@@ -1,5 +1,4 @@
-Spiroplasma sabaudiense Abalain-Colloc et al., 1987 SPECIES
-=======
+# Spiroplasma sabaudiense Abalain-Colloc et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

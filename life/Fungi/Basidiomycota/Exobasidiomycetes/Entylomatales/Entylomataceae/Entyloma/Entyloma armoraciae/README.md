@@ -1,5 +1,4 @@
-Entyloma armoraciae Cif. SPECIES
-=======
+# Entyloma armoraciae Cif. SPECIES
 
 #### Status
 ACCEPTED

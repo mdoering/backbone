@@ -1,5 +1,4 @@
-Physconia subpulverulenta (Szatala) Poelt SPECIES
-=======
+# Physconia subpulverulenta (Szatala) Poelt SPECIES
 
 #### Status
 ACCEPTED

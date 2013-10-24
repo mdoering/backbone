@@ -1,5 +1,4 @@
-Puccinia cavatica H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia cavatica H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

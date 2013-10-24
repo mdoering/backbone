@@ -1,5 +1,4 @@
-Corticium papyraceum Massee SPECIES
-=======
+# Corticium papyraceum Massee SPECIES
 
 #### Status
 ACCEPTED

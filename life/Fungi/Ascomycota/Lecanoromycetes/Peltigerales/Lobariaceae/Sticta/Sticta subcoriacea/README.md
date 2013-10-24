@@ -1,5 +1,4 @@
-Sticta subcoriacea Nyl. SPECIES
-=======
+# Sticta subcoriacea Nyl. SPECIES
 
 #### Status
 ACCEPTED

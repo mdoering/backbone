@@ -1,5 +1,4 @@
-Entorrhiza guttiformis M. Piepenbr. & S.R. Wang, 2002 SPECIES
-=======
+# Entorrhiza guttiformis M. Piepenbr. & S.R. Wang, 2002 SPECIES
 
 #### Status
 ACCEPTED

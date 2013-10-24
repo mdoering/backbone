@@ -1,5 +1,4 @@
-Polyporus aurantioporus Quanten, 1996 SPECIES
-=======
+# Polyporus aurantioporus Quanten, 1996 SPECIES
 
 #### Status
 ACCEPTED

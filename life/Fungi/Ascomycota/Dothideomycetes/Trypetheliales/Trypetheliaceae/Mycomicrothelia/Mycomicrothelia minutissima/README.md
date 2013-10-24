@@ -1,5 +1,4 @@
-Mycomicrothelia minutissima (C. Knight) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia minutissima (C. Knight) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gabura anomala (Nyl.) Kuntze SPECIES
-=======
+# Gabura anomala (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

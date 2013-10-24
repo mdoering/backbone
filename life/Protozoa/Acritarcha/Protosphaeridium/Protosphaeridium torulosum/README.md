@@ -1,5 +1,4 @@
-Protosphaeridium torulosum Timofeev, 1966 SPECIES
-=======
+# Protosphaeridium torulosum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

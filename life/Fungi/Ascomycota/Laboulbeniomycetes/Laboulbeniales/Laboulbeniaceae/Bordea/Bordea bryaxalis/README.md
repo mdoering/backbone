@@ -1,5 +1,4 @@
-Bordea bryaxalis (Thaxt.) R.K. Benj. SPECIES
-=======
+# Bordea bryaxalis (Thaxt.) R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

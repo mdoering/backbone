@@ -1,5 +1,4 @@
-Russula zonatula Ebbesen & Jul. Schäff., 1952 SPECIES
-=======
+# Russula zonatula Ebbesen & Jul. Schäff., 1952 SPECIES
 
 #### Status
 ACCEPTED

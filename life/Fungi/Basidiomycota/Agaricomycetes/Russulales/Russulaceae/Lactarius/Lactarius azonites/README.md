@@ -1,17 +1,16 @@
-Lactarius azonites var. azonites VARIETY
-=======
+# Lactarius azonites (Bull.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 343 (1838)
 
 #### Original name
-Lactarius azonites var. azonites
+Agaricus azonites Bull., 1791
 
 ### Remarks
 null

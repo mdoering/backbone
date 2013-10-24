@@ -1,5 +1,4 @@
-Acrospermum gaubae Petr. SPECIES
-=======
+# Acrospermum gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

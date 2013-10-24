@@ -1,5 +1,4 @@
-Usnea indica Motyka SPECIES
-=======
+# Usnea indica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium anserinum Velen. SPECIES
-=======
+# Phlegmacium anserinum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta hibiscina Ellis & Everh. SPECIES
-=======
+# Phyllosticta hibiscina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

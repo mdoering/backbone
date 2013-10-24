@@ -1,5 +1,4 @@
-Thyridium floridanum Petr. SPECIES
-=======
+# Thyridium floridanum Petr. SPECIES
 
 #### Status
 ACCEPTED

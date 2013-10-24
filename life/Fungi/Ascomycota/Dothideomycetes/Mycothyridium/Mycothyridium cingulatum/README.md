@@ -1,5 +1,4 @@
-Mycothyridium cingulatum (Mont.) Petr. SPECIES
-=======
+# Mycothyridium cingulatum (Mont.) Petr. SPECIES
 
 #### Status
 ACCEPTED

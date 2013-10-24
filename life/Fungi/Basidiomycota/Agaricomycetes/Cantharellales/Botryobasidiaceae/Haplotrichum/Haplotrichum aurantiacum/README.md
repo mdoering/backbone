@@ -1,5 +1,4 @@
-Haplotrichum aurantiacum Coem. SPECIES
-=======
+# Haplotrichum aurantiacum Coem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium sidae F. Stevens & P.A. Young SPECIES
-=======
+# Leptothyrium sidae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

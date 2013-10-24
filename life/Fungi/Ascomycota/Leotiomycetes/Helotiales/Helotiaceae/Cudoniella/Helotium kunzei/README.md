@@ -1,5 +1,4 @@
-Helotium kunzei (Saut.) Sacc. SPECIES
-=======
+# Helotium kunzei (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

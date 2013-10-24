@@ -1,5 +1,4 @@
-Technitella arenacea Zheng, 1988 SPECIES
-=======
+# Technitella arenacea Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

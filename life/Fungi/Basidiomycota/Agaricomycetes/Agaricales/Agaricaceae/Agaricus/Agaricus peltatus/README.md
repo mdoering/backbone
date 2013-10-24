@@ -1,5 +1,4 @@
-Agaricus peltatus Fr. SPECIES
-=======
+# Agaricus peltatus Fr. SPECIES
 
 #### Status
 ACCEPTED

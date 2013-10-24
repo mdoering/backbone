@@ -1,5 +1,4 @@
-Pluteus glabrescens Murrill SPECIES
-=======
+# Pluteus glabrescens Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora odoardii (Bagl.) Stizenb. SPECIES
-=======
+# Lecanora odoardii (Bagl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

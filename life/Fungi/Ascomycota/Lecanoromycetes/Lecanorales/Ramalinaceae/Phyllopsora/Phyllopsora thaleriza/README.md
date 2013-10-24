@@ -1,5 +1,4 @@
-Phyllopsora thaleriza (Stirt.) Gotth. Schneid. ex Brako SPECIES
-=======
+# Phyllopsora thaleriza (Stirt.) Gotth. Schneid. ex Brako SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microthyrium arizoniensis A.W. Ramaley SPECIES
-=======
+# Microthyrium arizonensis A.W. Ramaley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 70: 9 (1999)
 
 #### Original name
-Microthyrium arizoniensis A.W. Ramaley
+Microthyrium arizonensis A.W. Ramaley
 
 ### Remarks
 null

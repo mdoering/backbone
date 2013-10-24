@@ -1,5 +1,4 @@
-Sclerotium omnivorum Wolk SPECIES
-=======
+# Sclerotium omnivorum Wolk SPECIES
 
 #### Status
 ACCEPTED

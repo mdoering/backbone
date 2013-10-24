@@ -1,17 +1,16 @@
-Mollisia asteroma (Fuckel) Baral, 2008 SPECIES
-=======
+# Belonopsis asteroma (Fuckel) Aebi, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 23(1): 102 (1972)
 
 #### Original name
-null
+Arachnopeziza asteroma Fuckel, 1870
 
 ### Remarks
 null

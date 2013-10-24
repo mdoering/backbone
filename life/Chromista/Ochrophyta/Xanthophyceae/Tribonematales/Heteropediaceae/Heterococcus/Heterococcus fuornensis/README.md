@@ -1,5 +1,4 @@
-Heterococcus fuornensis Vischer SPECIES
-=======
+# Heterococcus fuornensis Vischer SPECIES
 
 #### Status
 ACCEPTED

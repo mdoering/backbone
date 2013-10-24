@@ -1,5 +1,4 @@
-Stysanus stilboides Speg. SPECIES
-=======
+# Stysanus stilboides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes sinicus Jiang, Zhang, Hu, Shao, Al-Rasheid & Song, 2010 SPECIES
-=======
+# Euplotes sinicus Jiang, Zhang, Hu, Shao, Al-Rasheid & Song, 2010 SPECIES
 
 #### Status
 ACCEPTED

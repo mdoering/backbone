@@ -1,5 +1,4 @@
-Inocybe subargentea Singer SPECIES
-=======
+# Inocybe subargentea Singer SPECIES
 
 #### Status
 ACCEPTED

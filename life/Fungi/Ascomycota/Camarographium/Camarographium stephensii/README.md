@@ -1,14 +1,13 @@
-Camarosporium stephensii (Berk. & Broome) Sacc., 1884 SPECIES
-=======
+# Camarographium stephensii (Berk. & Broome) Bubák, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 469 (1884)
+Ber. dt. bot. Ges. 34: 306 (1916)
 
 #### Original name
 Hendersonia stephensii Berk. & Broome

@@ -1,5 +1,4 @@
-Fernaldia GENUS
-=======
+# Fernaldia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia lactea Pat. & R. Heim SPECIES
-=======
+# Laschia lactea Pat. & R. Heim SPECIES
 
 #### Status
 ACCEPTED

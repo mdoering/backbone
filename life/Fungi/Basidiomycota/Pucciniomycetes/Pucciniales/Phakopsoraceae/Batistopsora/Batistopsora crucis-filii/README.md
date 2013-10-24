@@ -1,5 +1,4 @@
-Batistopsora crucis-filii Dianese, R.B. Medeiros & L.T.P. Santos, 1993 SPECIES
-=======
+# Batistopsora crucis-filii Dianese, R.B. Medeiros & L.T.P. Santos, 1993 SPECIES
 
 #### Status
 ACCEPTED

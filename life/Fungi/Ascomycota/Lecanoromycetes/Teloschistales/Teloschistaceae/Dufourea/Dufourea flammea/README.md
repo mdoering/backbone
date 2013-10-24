@@ -1,5 +1,4 @@
-Dufourea flammea (L. f.) Ach. SPECIES
-=======
+# Dufourea flammea (L. f.) Ach. SPECIES
 
 #### Status
 ACCEPTED

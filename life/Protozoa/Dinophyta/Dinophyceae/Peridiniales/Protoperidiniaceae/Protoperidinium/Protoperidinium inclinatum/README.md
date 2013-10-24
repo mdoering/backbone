@@ -1,5 +1,4 @@
-Protoperidinium inclinatum (Balech, 1964) Balech, 1974 SPECIES
-=======
+# Protoperidinium inclinatum (Balech, 1964) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

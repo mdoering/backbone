@@ -1,5 +1,4 @@
-Volutella cylindrospora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Volutella cylindrospora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

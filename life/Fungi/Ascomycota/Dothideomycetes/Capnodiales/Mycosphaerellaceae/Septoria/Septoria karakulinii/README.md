@@ -1,5 +1,4 @@
-Septoria karakulinii Melnik SPECIES
-=======
+# Septoria karakulinii Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium ramosum Cooke SPECIES
-=======
+# Capnodium ramosum Cooke SPECIES
 
 #### Status
 ACCEPTED

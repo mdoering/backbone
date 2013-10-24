@@ -1,5 +1,4 @@
-Rostrophrya camerounensis (Njine, 1979) Foissner, 1993 SPECIES
-=======
+# Rostrophrya camerounensis (Njine, 1979) Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

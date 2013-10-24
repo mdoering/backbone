@@ -1,5 +1,4 @@
-Laboulbenia planeticola Speg. SPECIES
-=======
+# Laboulbenia planeticola Speg. SPECIES
 
 #### Status
 ACCEPTED

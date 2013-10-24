@@ -1,5 +1,4 @@
-Lateriramulosa minitriangularia Matsush., 1975 SPECIES
-=======
+# Lateriramulosa minitriangularia Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

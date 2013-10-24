@@ -1,5 +1,4 @@
-Peltigera friesiorum Gyeln. SPECIES
-=======
+# Peltigera friesiorum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strasseria phomopsimorpha A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Strasseria phomopsimorpha A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

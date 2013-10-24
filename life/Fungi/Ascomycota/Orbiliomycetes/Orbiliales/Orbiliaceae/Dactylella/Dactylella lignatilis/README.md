@@ -1,5 +1,4 @@
-Dactylella lignatilis M.H. Mo & K.Q. Zhang SPECIES
-=======
+# Dactylella lignatilis M.H. Mo & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

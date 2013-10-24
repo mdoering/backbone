@@ -1,8 +1,7 @@
-Mycosphaerella maydis (Pass.) Lindau SPECIES
-=======
+# Mycosphaerella maydina (Pass.) Tomilin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

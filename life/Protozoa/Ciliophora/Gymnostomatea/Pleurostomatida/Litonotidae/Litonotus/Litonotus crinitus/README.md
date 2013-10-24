@@ -1,5 +1,4 @@
-Litonotus crinitus Grandori & Grandori, 1934 SPECIES
-=======
+# Litonotus crinitus Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

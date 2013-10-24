@@ -1,5 +1,4 @@
-Galactinia amplissima (Boud.) Svrcek SPECIES
-=======
+# Galactinia amplissima (Boud.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

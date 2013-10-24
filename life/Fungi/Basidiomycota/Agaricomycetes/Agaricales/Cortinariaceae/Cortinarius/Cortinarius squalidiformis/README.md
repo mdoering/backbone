@@ -1,17 +1,16 @@
-Cortinaria squalidiformis Murrill SPECIES
-=======
+# Cortinarius squalidiformis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 283 (1946)
 
 #### Original name
-Cortinaria squalidiformis Murrill
+Cortinarius squalidiformis Murrill
 
 ### Remarks
 null

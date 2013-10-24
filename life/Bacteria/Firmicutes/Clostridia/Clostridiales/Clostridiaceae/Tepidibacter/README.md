@@ -1,5 +1,4 @@
-Tepidibacter Slobodkin, Tourova, Kostrikina, Chernyh, Bonch-Osmolovskaya, Jeanthon & Jones, 2003 GENUS
-=======
+# Tepidibacter Slobodkin, Tourova, Kostrikina, Chernyh, Bonch-Osmolovskaya, Jeanthon & Jones, 2003 GENUS
 
 #### Status
 ACCEPTED

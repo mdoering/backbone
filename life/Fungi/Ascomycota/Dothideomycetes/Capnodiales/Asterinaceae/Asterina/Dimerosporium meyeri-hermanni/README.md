@@ -1,5 +1,4 @@
-Dimerosporium meyeri-hermanni Henn. SPECIES
-=======
+# Dimerosporium meyeri-hermanni Henn. SPECIES
 
 #### Status
 ACCEPTED

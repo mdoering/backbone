@@ -1,14 +1,13 @@
-Clavariopsis pulchella Pat. & Har., 1912 SPECIES
-=======
+# Holtermannia pulchella (Pat. & Har.) Kobayasi, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28: 280 (1912)
+Sci. Rep. Tokyo Bunrika Daig. , Sect. B 3: 80 (1937)
 
 #### Original name
 Clavariopsis pulchella Pat. & Har., 1912

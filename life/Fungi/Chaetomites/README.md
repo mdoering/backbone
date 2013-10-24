@@ -1,5 +1,4 @@
-Chaetomites Pampal. GENUS
-=======
+# Chaetomites Pampal. GENUS
 
 #### Status
 ACCEPTED

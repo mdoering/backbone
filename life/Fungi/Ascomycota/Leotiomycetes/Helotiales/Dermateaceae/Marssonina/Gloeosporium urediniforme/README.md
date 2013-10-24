@@ -1,5 +1,4 @@
-Gloeosporium urediniforme Speg. SPECIES
-=======
+# Gloeosporium urediniforme Speg. SPECIES
 
 #### Status
 ACCEPTED

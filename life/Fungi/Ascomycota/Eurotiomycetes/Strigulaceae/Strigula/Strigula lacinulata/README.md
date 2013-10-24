@@ -1,5 +1,4 @@
-Strigula lacinulata Vain. SPECIES
-=======
+# Strigula lacinulata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea phalerata Stizenb. SPECIES
-=======
+# Lecidea phalerata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

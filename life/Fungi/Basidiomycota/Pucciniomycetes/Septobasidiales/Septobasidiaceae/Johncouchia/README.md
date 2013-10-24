@@ -1,5 +1,4 @@
-Johncouchia S. Hughes & Cavalc. GENUS
-=======
+# Johncouchia S. Hughes & Cavalc. GENUS
 
 #### Status
 ACCEPTED

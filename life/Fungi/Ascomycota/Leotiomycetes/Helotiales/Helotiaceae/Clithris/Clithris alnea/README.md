@@ -1,5 +1,4 @@
-Clithris alnea (Fr.) Rehm SPECIES
-=======
+# Clithris alnea (Fr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

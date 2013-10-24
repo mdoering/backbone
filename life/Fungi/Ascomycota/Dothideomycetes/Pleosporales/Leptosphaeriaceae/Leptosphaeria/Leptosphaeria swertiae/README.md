@@ -1,5 +1,4 @@
-Leptosphaeria swertiae Thirum. SPECIES
-=======
+# Leptosphaeria swertiae Thirum. SPECIES
 
 #### Status
 ACCEPTED

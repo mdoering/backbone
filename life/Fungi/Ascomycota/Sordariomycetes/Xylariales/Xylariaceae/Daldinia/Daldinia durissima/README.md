@@ -1,5 +1,4 @@
-Daldinia durissima (Fr.) Sacc. SPECIES
-=======
+# Daldinia durissima (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

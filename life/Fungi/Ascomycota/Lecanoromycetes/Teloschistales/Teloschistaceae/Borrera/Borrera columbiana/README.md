@@ -1,5 +1,4 @@
-Borrera columbiana Nutt. SPECIES
-=======
+# Borrera columbiana Nutt. SPECIES
 
 #### Status
 ACCEPTED

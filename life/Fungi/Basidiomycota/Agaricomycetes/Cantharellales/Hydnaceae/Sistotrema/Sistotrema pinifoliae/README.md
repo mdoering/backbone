@@ -1,5 +1,4 @@
-Sistotrema pinifoliae Boidin & Gilles SPECIES
-=======
+# Sistotrema pinifoliae Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

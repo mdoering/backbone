@@ -1,5 +1,4 @@
-Hypoxylon haematozonum Sacc. SPECIES
-=======
+# Hypoxylon haematozonum Sacc. SPECIES
 
 #### Status
 ACCEPTED

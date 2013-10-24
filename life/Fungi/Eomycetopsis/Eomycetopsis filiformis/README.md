@@ -1,5 +1,4 @@
-Eomycetopsis filiformis J.W. Schopf SPECIES
-=======
+# Eomycetopsis filiformis J.W. Schopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex sprucei Berk. SPECIES
-=======
+# Irpex sprucei Berk. SPECIES
 
 #### Status
 ACCEPTED

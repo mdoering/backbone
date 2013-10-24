@@ -1,5 +1,4 @@
-Stictina membranacea SPECIES
-=======
+# Stictina membranacea SPECIES
 
 #### Status
 ACCEPTED

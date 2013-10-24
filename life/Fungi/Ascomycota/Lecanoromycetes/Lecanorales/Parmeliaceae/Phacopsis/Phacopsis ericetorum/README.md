@@ -1,5 +1,4 @@
-Phacopsis ericetorum (Flot.) Vouaux SPECIES
-=======
+# Phacopsis ericetorum (Flot.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

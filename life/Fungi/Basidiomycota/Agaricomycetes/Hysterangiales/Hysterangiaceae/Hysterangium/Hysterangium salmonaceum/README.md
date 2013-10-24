@@ -1,5 +1,4 @@
-Hysterangium salmonaceum G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Hysterangium salmonaceum G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

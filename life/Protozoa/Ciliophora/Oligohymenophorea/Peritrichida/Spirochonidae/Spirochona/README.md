@@ -1,5 +1,4 @@
-Spirochona Stein, 1852 GENUS
-=======
+# Spirochona Stein, 1852 GENUS
 
 #### Status
 ACCEPTED

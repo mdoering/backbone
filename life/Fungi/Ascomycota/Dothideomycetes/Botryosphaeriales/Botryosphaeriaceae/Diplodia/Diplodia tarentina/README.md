@@ -1,5 +1,4 @@
-Diplodia tarentina Pass. SPECIES
-=======
+# Diplodia tarentina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium canum Kirschst. SPECIES
-=======
+# Helotium canum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

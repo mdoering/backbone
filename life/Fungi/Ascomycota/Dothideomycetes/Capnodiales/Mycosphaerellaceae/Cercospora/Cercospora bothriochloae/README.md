@@ -1,5 +1,4 @@
-Cercospora bothriochloae U. Braun & Crous SPECIES
-=======
+# Cercospora bothriochloae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

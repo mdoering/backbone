@@ -1,5 +1,4 @@
-Sphaeria crustulata Lév. SPECIES
-=======
+# Sphaeria crustulata Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia neglecta Moberg SPECIES
-=======
+# Physcia neglecta Moberg SPECIES
 
 #### Status
 ACCEPTED

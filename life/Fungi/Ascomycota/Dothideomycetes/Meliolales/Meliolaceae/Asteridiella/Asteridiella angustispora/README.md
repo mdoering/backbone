@@ -1,5 +1,4 @@
-Asteridiella angustispora F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Asteridiella angustispora F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

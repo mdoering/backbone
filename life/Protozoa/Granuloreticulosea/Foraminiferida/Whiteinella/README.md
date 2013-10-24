@@ -1,5 +1,4 @@
-Whiteinella Pessagno, 1967 GENUS
-=======
+# Whiteinella Pessagno, 1967 GENUS
 
 #### Status
 ACCEPTED

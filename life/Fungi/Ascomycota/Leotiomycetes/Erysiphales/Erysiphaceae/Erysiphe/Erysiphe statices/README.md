@@ -1,5 +1,4 @@
-Erysiphe statices (Potebnia) V.P. Heluta, Tikhon., Burgyuk. & Dudka SPECIES
-=======
+# Erysiphe statices (Potebnia) V.P. Heluta, Tikhon., Burgyuk. & Dudka SPECIES
 
 #### Status
 ACCEPTED

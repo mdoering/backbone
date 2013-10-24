@@ -1,5 +1,4 @@
-Cyanisticta thouarsii SPECIES
-=======
+# Cyanisticta thouarsii SPECIES
 
 #### Status
 ACCEPTED

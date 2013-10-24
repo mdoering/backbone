@@ -1,5 +1,4 @@
-Cephalothecium microsporum Eichelb. SPECIES
-=======
+# Cephalothecium microsporum Eichelb. SPECIES
 
 #### Status
 ACCEPTED

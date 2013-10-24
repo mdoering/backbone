@@ -1,5 +1,4 @@
-Stictis bromeliae Starbäck SPECIES
-=======
+# Stictis bromeliae Starbäck SPECIES
 
 #### Status
 ACCEPTED

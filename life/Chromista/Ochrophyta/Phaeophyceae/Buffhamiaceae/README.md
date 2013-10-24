@@ -1,5 +1,4 @@
-Buffhamiaceae FAMILY
-=======
+# Buffhamiaceae FAMILY
 
 #### Status
 ACCEPTED

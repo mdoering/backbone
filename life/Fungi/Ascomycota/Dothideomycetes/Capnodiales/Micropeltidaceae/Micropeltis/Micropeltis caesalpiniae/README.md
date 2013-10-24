@@ -1,5 +1,4 @@
-Micropeltis caesalpiniae Tassi SPECIES
-=======
+# Micropeltis caesalpiniae Tassi SPECIES
 
 #### Status
 ACCEPTED

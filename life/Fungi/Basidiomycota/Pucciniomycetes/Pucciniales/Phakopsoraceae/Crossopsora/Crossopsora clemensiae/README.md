@@ -1,5 +1,4 @@
-Crossopsora clemensiae Cummins SPECIES
-=======
+# Crossopsora clemensiae Cummins SPECIES
 
 #### Status
 ACCEPTED

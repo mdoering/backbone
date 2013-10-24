@@ -1,5 +1,4 @@
-Amanita javanica (Corner & Bas) T. Oda, C. Tanaka & Tsuda SPECIES
-=======
+# Amanita javanica (Corner & Bas) T. Oda, C. Tanaka & Tsuda SPECIES
 
 #### Status
 ACCEPTED

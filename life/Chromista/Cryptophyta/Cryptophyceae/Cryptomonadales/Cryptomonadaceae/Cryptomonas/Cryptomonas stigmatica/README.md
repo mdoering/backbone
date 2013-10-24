@@ -1,5 +1,4 @@
-Cryptomonas stigmatica Wislouch SPECIES
-=======
+# Cryptomonas stigmatica Wislouch SPECIES
 
 #### Status
 ACCEPTED

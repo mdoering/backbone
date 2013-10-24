@@ -1,5 +1,4 @@
-Lichen aeruginosus Jacq. SPECIES
-=======
+# Lichen aeruginosus Jacq. SPECIES
 
 #### Status
 ACCEPTED

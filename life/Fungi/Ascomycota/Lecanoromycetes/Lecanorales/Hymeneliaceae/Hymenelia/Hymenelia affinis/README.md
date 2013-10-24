@@ -1,5 +1,4 @@
-Hymenelia affinis A. Massal. SPECIES
-=======
+# Hymenelia affinis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

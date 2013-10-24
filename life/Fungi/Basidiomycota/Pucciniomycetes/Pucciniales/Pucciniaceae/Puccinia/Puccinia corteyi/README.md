@@ -1,5 +1,4 @@
-Puccinia corteyi Ranoj. SPECIES
-=======
+# Puccinia corteyi Ranoj. SPECIES
 
 #### Status
 ACCEPTED

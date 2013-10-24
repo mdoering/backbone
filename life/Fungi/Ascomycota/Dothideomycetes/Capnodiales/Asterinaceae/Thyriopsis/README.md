@@ -1,5 +1,4 @@
-Thyriopsis Theiss. & Syd. GENUS
-=======
+# Thyriopsis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

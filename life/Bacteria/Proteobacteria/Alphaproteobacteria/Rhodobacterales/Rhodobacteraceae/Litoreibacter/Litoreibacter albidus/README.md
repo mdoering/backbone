@@ -1,5 +1,4 @@
-Litoreibacter albidus Romanenko, Tanaka, Frolova, Svetashev & Mikhailov, 2011 SPECIES
-=======
+# Litoreibacter albidus Romanenko, Tanaka, Frolova, Svetashev & Mikhailov, 2011 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus wettsteini Drezepolski SPECIES
-=======
+# Phacus wettsteini Drezepolski SPECIES
 
 #### Status
 ACCEPTED

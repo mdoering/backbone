@@ -1,5 +1,4 @@
-Desulfatibacillum alkenivorans Cravo-Laureau et al., 2004 SPECIES
-=======
+# Desulfatibacillum alkenivorans Cravo-Laureau et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

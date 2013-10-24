@@ -1,5 +1,4 @@
-Triceratium divisum Grunow SPECIES
-=======
+# Triceratium divisum Grunow SPECIES
 
 #### Status
 ACCEPTED

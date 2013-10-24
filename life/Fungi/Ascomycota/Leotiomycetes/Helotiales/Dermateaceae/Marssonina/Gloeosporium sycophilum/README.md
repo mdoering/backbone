@@ -1,5 +1,4 @@
-Gloeosporium sycophilum Trinchieri SPECIES
-=======
+# Gloeosporium sycophilum Trinchieri SPECIES
 
 #### Status
 ACCEPTED

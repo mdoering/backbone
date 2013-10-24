@@ -1,17 +1,16 @@
-Parmelia pristiloba Brusse SPECIES
-=======
+# Xanthoparmelia pristiloba (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 401 (2003)
 
 #### Original name
-null
+Parmelia pristiloba Brusse
 
 ### Remarks
 null

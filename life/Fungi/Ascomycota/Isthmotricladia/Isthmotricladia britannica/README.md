@@ -1,5 +1,4 @@
-Isthmotricladia britannica Descals, 1982 SPECIES
-=======
+# Isthmotricladia britannica Descals, 1982 SPECIES
 
 #### Status
 ACCEPTED

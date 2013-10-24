@@ -1,5 +1,4 @@
-Coronotelium schweinfurthii (Henn.) Syd. SPECIES
-=======
+# Coronotelium schweinfurthii (Henn.) Syd. SPECIES
 
 #### Status
 ACCEPTED

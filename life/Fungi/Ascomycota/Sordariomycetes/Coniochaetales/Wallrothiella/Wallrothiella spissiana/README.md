@@ -1,5 +1,4 @@
-Wallrothiella spissiana (F. Lamb. & Fautrey) Kirschst. SPECIES
-=======
+# Wallrothiella spissiana (F. Lamb. & Fautrey) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

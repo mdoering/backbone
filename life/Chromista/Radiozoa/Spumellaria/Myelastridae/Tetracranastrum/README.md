@@ -1,5 +1,4 @@
-Tetracranastrum Haeckel, 1887 GENUS
-=======
+# Tetracranastrum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

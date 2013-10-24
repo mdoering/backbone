@@ -1,5 +1,4 @@
-Gloeosporium coelogynes Syd. {?} SPECIES
-=======
+# Gloeosporium coelogynes Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

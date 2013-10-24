@@ -1,5 +1,4 @@
-Otthia golovinii Frolov SPECIES
-=======
+# Otthia golovinii Frolov SPECIES
 
 #### Status
 ACCEPTED

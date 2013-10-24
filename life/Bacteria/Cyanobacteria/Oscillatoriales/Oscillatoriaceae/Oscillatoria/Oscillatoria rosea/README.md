@@ -1,5 +1,4 @@
-Oscillatoria rosea (P. Crouan & H. Crouan) Batters SPECIES
-=======
+# Oscillatoria rosea (P. Crouan & H. Crouan) Batters SPECIES
 
 #### Status
 ACCEPTED

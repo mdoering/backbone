@@ -1,5 +1,4 @@
-Russula viridipes Bonn. {?} & Peck SPECIES
-=======
+# Russula viridipes Bonn. {?} & Peck SPECIES
 
 #### Status
 ACCEPTED

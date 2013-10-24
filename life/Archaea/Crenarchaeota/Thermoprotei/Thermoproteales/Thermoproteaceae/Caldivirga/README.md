@@ -1,5 +1,4 @@
-Caldivirga Itoh et al., 1999 GENUS
-=======
+# Caldivirga Itoh et al., 1999 GENUS
 
 #### Status
 ACCEPTED

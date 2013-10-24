@@ -1,5 +1,4 @@
-Vorticella picta subsp. longa SUBSPECIES
-=======
+# Vorticella picta (Ehrenberg, 1831) Ehr, 1838 SPECIES
 
 #### Status
 ACCEPTED

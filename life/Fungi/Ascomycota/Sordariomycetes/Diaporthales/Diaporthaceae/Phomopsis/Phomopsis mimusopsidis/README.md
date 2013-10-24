@@ -1,5 +1,4 @@
-Phomopsis mimusopsidis (Henn.) Aa SPECIES
-=======
+# Phomopsis mimusopsidis (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

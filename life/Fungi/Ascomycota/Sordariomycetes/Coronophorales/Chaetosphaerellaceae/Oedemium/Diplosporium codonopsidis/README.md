@@ -1,5 +1,4 @@
-Diplosporium codonopsidis Togashi & Onuma SPECIES
-=======
+# Diplosporium codonopsidis Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

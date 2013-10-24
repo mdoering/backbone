@@ -1,5 +1,4 @@
-Spheconisca italica Norman SPECIES
-=======
+# Spheconisca italica Norman SPECIES
 
 #### Status
 ACCEPTED

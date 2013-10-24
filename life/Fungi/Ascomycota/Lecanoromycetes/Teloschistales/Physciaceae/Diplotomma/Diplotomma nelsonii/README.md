@@ -1,8 +1,7 @@
-Diplotomma nelsoni (Darb.) C.W. Dodge SPECIES
-=======
+# Diplotomma nelsonii (Darb.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

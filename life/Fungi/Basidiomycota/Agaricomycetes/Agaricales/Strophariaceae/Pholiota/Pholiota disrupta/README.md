@@ -1,5 +1,4 @@
-Pholiota disrupta (Cooke & Massee) McAlpine SPECIES
-=======
+# Pholiota disrupta (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

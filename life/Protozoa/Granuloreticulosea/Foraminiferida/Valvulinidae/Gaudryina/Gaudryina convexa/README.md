@@ -1,5 +1,4 @@
-Gaudryina convexa SPECIES
-=======
+# Gaudryina convexa SPECIES
 
 #### Status
 ACCEPTED

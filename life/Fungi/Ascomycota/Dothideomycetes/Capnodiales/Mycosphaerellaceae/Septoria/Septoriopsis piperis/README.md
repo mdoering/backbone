@@ -1,5 +1,4 @@
-Septoriopsis piperis F. Stevens & Dalbey SPECIES
-=======
+# Septoriopsis piperis F. Stevens & Dalbey SPECIES
 
 #### Status
 ACCEPTED

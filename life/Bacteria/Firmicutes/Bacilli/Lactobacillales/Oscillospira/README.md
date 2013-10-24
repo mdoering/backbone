@@ -1,5 +1,4 @@
-Oscillospira GENUS
-=======
+# Oscillospira GENUS
 
 #### Status
 ACCEPTED

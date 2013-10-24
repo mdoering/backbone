@@ -1,5 +1,4 @@
-Lecanidion neoguineense Henn. SPECIES
-=======
+# Lecanidion neoguineense Henn. SPECIES
 
 #### Status
 ACCEPTED

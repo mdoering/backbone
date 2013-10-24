@@ -1,5 +1,4 @@
-Laschia pustulata Berk. & Broome SPECIES
-=======
+# Laschia pustulata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

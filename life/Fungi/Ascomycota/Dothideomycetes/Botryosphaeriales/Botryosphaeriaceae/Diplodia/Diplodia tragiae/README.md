@@ -1,5 +1,4 @@
-Diplodia tragiae Massee SPECIES
-=======
+# Diplodia tragiae Massee SPECIES
 
 #### Status
 ACCEPTED

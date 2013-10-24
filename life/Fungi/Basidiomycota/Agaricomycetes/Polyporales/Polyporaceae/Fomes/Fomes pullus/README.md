@@ -1,5 +1,4 @@
-Fomes pullus (Mont. & Berk.) Cooke SPECIES
-=======
+# Fomes pullus (Mont. & Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

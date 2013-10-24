@@ -1,5 +1,4 @@
-Stigmatea cremasporae Hansf. SPECIES
-=======
+# Stigmatea cremasporae Hansf. SPECIES
 
 #### Status
 ACCEPTED

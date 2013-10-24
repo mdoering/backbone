@@ -1,5 +1,4 @@
-Cladosporium longipes Sorokin SPECIES
-=======
+# Cladosporium longipes Sorokin SPECIES
 
 #### Status
 ACCEPTED

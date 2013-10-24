@@ -1,5 +1,4 @@
-Opegrapha angolensis Vain. SPECIES
-=======
+# Opegrapha angolensis Vain. SPECIES
 
 #### Status
 ACCEPTED

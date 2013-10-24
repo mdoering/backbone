@@ -1,5 +1,4 @@
-Eutypella isariphora (Nitschke) Sacc. SPECIES
-=======
+# Eutypella isariphora (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

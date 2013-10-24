@@ -1,5 +1,4 @@
-Haptophrya discoglossi SPECIES
-=======
+# Haptophrya discoglossi SPECIES
 
 #### Status
 ACCEPTED

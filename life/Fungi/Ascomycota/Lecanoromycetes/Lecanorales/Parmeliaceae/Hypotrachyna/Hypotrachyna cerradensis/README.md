@@ -1,5 +1,4 @@
-Hypotrachyna cerradensis Sipman, Elix, & T. H. Nash SPECIES
-=======
+# Hypotrachyna cerradensis Sipman, Elix, & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

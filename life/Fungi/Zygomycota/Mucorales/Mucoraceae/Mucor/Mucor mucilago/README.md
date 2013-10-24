@@ -1,5 +1,4 @@
-Mucor mucilago Scop. SPECIES
-=======
+# Mucor mucilago Scop. SPECIES
 
 #### Status
 ACCEPTED

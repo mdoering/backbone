@@ -1,5 +1,4 @@
-Pseudocyphellaria hamatoides D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria hamatoides D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

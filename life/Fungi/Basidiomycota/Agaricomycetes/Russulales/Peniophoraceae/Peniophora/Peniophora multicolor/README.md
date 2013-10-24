@@ -1,5 +1,4 @@
-Peniophora multicolor Rick SPECIES
-=======
+# Peniophora multicolor Rick SPECIES
 
 #### Status
 ACCEPTED

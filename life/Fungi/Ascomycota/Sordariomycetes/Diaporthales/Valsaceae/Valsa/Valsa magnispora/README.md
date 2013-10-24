@@ -1,5 +1,4 @@
-Valsa magnispora Ellis & Everh. SPECIES
-=======
+# Valsa magnispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

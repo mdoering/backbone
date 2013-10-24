@@ -1,5 +1,4 @@
-Encoelia ulmi (Tul. & C. Tul.) Boud. SPECIES
-=======
+# Encoelia ulmi (Tul. & C. Tul.) Boud. SPECIES
 
 #### Status
 ACCEPTED

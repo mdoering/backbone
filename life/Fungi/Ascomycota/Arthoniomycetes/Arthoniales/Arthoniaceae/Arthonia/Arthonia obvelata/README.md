@@ -1,5 +1,4 @@
-Arthonia obvelata (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia obvelata (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

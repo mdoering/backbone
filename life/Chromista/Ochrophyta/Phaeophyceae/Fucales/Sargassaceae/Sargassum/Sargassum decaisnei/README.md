@@ -1,5 +1,4 @@
-Sargassum decaisnei J.Agardh, 1848 SPECIES
-=======
+# Sargassum decaisnei J.Agardh, 1848 SPECIES
 
 #### Status
 ACCEPTED

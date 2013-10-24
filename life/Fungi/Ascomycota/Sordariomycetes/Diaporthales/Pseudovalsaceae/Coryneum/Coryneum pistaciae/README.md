@@ -1,5 +1,4 @@
-Coryneum pistaciae Pat. SPECIES
-=======
+# Coryneum pistaciae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella trollii (Jacz.) Bubák SPECIES
-=======
+# Cercosporella trollii (Jacz.) Bubák SPECIES
 
 #### Status
 ACCEPTED

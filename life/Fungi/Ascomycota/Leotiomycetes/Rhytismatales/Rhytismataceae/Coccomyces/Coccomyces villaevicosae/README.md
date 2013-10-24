@@ -1,5 +1,4 @@
-Coccomyces villaevicosae Torrend SPECIES
-=======
+# Coccomyces villaevicosae Torrend SPECIES
 
 #### Status
 ACCEPTED

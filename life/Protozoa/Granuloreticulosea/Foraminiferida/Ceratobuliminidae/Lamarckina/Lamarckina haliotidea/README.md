@@ -1,5 +1,4 @@
-Lamarckina haliotidea (Heron-Allen & Earland) SPECIES
-=======
+# Lamarckina haliotidea (Heron-Allen & Earland) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenelia macrospora Øvstedal SPECIES
-=======
+# Hymenelia macrospora Øvstedal SPECIES
 
 #### Status
 ACCEPTED

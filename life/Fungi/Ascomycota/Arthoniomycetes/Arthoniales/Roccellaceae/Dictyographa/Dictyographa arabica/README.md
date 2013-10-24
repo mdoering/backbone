@@ -1,5 +1,4 @@
-Dictyographa arabica Müll. Arg. SPECIES
-=======
+# Dictyographa arabica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

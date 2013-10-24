@@ -1,5 +1,4 @@
-Okibacterium Evtushenko et al., 2002 GENUS
-=======
+# Okibacterium Evtushenko et al., 2002 GENUS
 
 #### Status
 ACCEPTED

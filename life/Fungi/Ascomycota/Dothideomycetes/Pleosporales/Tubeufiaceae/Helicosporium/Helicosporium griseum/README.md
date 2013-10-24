@@ -1,17 +1,16 @@
-Helicomyces cinereus (Peck) Morgan, 1892 SPECIES
-=======
+# Helicosporium griseum Berk. & M.A. Curtis, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 26): 51 (1874)
 
 #### Original name
-Helicosporium cinereum Peck, 1885
+Helicosporium griseum Berk. & M.A. Curtis, 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stilbum coccorum Petch SPECIES
-=======
+# Stilbum coccorum Petch SPECIES
 
 #### Status
 ACCEPTED

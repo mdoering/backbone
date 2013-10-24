@@ -1,5 +1,4 @@
-Ditopella obducens Rick SPECIES
-=======
+# Ditopella obducens Rick SPECIES
 
 #### Status
 ACCEPTED

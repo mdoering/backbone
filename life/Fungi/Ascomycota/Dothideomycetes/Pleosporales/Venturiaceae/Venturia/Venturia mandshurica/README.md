@@ -1,5 +1,4 @@
-Venturia mandshurica M. Morelet, 1993 SPECIES
-=======
+# Venturia mandshurica M. Morelet, 1993 SPECIES
 
 #### Status
 ACCEPTED

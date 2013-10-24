@@ -1,5 +1,4 @@
-Microdochium Sydow, 1924 GENUS
-=======
+# Microdochium Sydow, 1924 GENUS
 
 #### Status
 ACCEPTED

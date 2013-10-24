@@ -1,5 +1,4 @@
-Sulfurivirga Takai et al., 2006 GENUS
-=======
+# Sulfurivirga Takai et al., 2006 GENUS
 
 #### Status
 ACCEPTED

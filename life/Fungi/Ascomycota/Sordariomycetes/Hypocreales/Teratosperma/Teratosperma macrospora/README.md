@@ -1,5 +1,4 @@
-Teratosperma macrospora W.P. Wu SPECIES
-=======
+# Teratosperma macrospora W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

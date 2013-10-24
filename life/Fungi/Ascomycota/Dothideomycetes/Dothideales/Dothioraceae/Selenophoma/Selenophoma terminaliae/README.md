@@ -1,5 +1,4 @@
-Selenophoma terminaliae Tilak SPECIES
-=======
+# Selenophoma terminaliae Tilak SPECIES
 
 #### Status
 ACCEPTED

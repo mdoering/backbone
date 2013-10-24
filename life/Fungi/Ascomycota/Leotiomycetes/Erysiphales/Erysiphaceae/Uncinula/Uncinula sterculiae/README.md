@@ -1,5 +1,4 @@
-Uncinula sterculiae Yadav SPECIES
-=======
+# Uncinula sterculiae Yadav SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta arida McAlpine SPECIES
-=======
+# Ascochyta arida McAlpine SPECIES
 
 #### Status
 ACCEPTED

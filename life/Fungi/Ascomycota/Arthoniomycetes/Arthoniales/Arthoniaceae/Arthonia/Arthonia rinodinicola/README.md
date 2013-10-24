@@ -1,5 +1,4 @@
-Arthonia rinodinicola Candan & Halici SPECIES
-=======
+# Arthonia rinodinicola Candan & Halici SPECIES
 
 #### Status
 ACCEPTED

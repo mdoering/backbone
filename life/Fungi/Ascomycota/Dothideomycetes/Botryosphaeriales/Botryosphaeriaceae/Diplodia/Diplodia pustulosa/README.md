@@ -1,5 +1,4 @@
-Diplodia pustulosa Lév. SPECIES
-=======
+# Diplodia pustulosa Lév. SPECIES
 
 #### Status
 ACCEPTED

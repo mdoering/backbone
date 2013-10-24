@@ -1,5 +1,4 @@
-Coniothyrium bergii Speg. SPECIES
-=======
+# Coniothyrium bergii Speg. SPECIES
 
 #### Status
 ACCEPTED

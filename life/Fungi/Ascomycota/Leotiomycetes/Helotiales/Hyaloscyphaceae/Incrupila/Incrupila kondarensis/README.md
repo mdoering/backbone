@@ -1,5 +1,4 @@
-Incrupila kondarensis Raitv. SPECIES
-=======
+# Incrupila kondarensis Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius emergens Berk. SPECIES
-=======
+# Marasmius emergens Berk. SPECIES
 
 #### Status
 ACCEPTED

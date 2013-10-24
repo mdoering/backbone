@@ -1,5 +1,4 @@
-Claviceps cinerea Griffiths SPECIES
-=======
+# Claviceps cinerea Griffiths SPECIES
 
 #### Status
 ACCEPTED

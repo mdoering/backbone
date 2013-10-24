@@ -1,5 +1,4 @@
-Praeparafusulina Tumanskaya, 1962 GENUS
-=======
+# Praeparafusulina Tumanskaya, 1962 GENUS
 
 #### Status
 ACCEPTED

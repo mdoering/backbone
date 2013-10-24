@@ -1,5 +1,4 @@
-Orbulina suturalis Bronnimann SPECIES
-=======
+# Orbulina suturalis Bronnimann SPECIES
 
 #### Status
 ACCEPTED

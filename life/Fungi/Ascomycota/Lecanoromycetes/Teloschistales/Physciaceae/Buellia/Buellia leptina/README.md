@@ -1,5 +1,4 @@
-Buellia leptina J. Steiner SPECIES
-=======
+# Buellia leptina J. Steiner SPECIES
 
 #### Status
 ACCEPTED

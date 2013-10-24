@@ -1,5 +1,4 @@
-Coprolepa intermedia Speg. SPECIES
-=======
+# Coprolepa intermedia Speg. SPECIES
 
 #### Status
 ACCEPTED

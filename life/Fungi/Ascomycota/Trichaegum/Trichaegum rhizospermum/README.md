@@ -1,5 +1,4 @@
-Trichaegum rhizospermum Corda SPECIES
-=======
+# Trichaegum rhizospermum Corda SPECIES
 
 #### Status
 ACCEPTED

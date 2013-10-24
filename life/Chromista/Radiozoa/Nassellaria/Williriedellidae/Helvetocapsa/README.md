@@ -1,5 +1,4 @@
-Helvetocapsa O'Dogherty, Gorican & Dumitrica, 2006 GENUS
-=======
+# Helvetocapsa O'Dogherty, Gorican & Dumitrica, 2006 GENUS
 
 #### Status
 ACCEPTED

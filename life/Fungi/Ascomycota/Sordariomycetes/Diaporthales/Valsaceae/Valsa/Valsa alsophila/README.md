@@ -1,5 +1,4 @@
-Valsa alsophila (Mont.) Sacc. SPECIES
-=======
+# Valsa alsophila (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

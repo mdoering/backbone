@@ -1,5 +1,4 @@
-Thyridium philadelphi Richon SPECIES
-=======
+# Thyridium philadelphi Richon SPECIES
 
 #### Status
 ACCEPTED

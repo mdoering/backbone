@@ -1,5 +1,4 @@
-Cercospora kakivora Hara SPECIES
-=======
+# Cercospora kakivora Hara SPECIES
 
 #### Status
 ACCEPTED

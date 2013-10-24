@@ -1,5 +1,4 @@
-Odontia subraduloides Rick SPECIES
-=======
+# Odontia subraduloides Rick SPECIES
 
 #### Status
 ACCEPTED

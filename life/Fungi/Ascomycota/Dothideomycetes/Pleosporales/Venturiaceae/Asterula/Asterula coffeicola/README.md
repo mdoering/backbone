@@ -1,5 +1,4 @@
-Asterula coffeicola Tassi SPECIES
-=======
+# Asterula coffeicola Tassi SPECIES
 
 #### Status
 ACCEPTED

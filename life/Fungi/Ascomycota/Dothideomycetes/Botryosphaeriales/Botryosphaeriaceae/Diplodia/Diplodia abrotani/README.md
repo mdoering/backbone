@@ -1,5 +1,4 @@
-Diplodia abrotani Fuckel SPECIES
-=======
+# Diplodia abrotani Fuckel SPECIES
 
 #### Status
 ACCEPTED

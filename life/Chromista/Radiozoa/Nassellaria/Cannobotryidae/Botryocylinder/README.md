@@ -1,5 +1,4 @@
-Botryocylinder Petrushevskaya, 1975 GENUS
-=======
+# Botryocylinder Petrushevskaya, 1975 GENUS
 
 #### Status
 ACCEPTED

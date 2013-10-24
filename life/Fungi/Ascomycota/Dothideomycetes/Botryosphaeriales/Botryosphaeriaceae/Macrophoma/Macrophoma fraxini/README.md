@@ -1,5 +1,4 @@
-Macrophoma fraxini Delacr., 1890 SPECIES
-=======
+# Macrophoma fraxini Delacr., 1890 SPECIES
 
 #### Status
 ACCEPTED

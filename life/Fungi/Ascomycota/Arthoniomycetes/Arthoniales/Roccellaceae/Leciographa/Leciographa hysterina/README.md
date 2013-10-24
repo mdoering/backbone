@@ -1,5 +1,4 @@
-Leciographa hysterina Starbäck SPECIES
-=======
+# Leciographa hysterina Starbäck SPECIES
 
 #### Status
 ACCEPTED

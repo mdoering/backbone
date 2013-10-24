@@ -1,5 +1,4 @@
-Androsaceus myrciae Pat. SPECIES
-=======
+# Androsaceus myrciae Pat. SPECIES
 
 #### Status
 ACCEPTED

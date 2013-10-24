@@ -1,5 +1,4 @@
-Phomopsis nidulans (Grognot) Höhn. SPECIES
-=======
+# Phomopsis nidulans (Grognot) Höhn. SPECIES
 
 #### Status
 ACCEPTED

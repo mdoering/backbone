@@ -1,5 +1,4 @@
-Pyrenopeziza islebiensis J. Kunze SPECIES
-=======
+# Pyrenopeziza islebiensis J. Kunze SPECIES
 
 #### Status
 ACCEPTED

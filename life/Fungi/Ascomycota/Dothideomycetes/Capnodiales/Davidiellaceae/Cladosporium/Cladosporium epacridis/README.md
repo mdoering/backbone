@@ -1,5 +1,4 @@
-Cladosporium epacridis McAlpine SPECIES
-=======
+# Cladosporium epacridis McAlpine SPECIES
 
 #### Status
 ACCEPTED

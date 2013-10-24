@@ -1,5 +1,4 @@
-Laboulbenia alpestris F. Picard SPECIES
-=======
+# Laboulbenia alpestris F. Picard SPECIES
 
 #### Status
 ACCEPTED

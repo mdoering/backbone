@@ -1,5 +1,4 @@
-Coniothyrium sorghi Saccas SPECIES
-=======
+# Coniothyrium sorghi Saccas SPECIES
 
 #### Status
 ACCEPTED

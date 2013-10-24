@@ -1,14 +1,13 @@
-Hendersonia rubicola Sacc., 1878 SPECIES
-=======
+# Camarosporium rubicola (Sacc.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 209 (1878)
+Syll. fung. (Abellini) 3: 462 (1884)
 
 #### Original name
 Hendersonia rubicola Sacc., 1878

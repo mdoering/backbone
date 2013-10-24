@@ -1,5 +1,4 @@
-Ethmorhabdus anglicus SPECIES
-=======
+# Ethmorhabdus anglicus SPECIES
 
 #### Status
 ACCEPTED

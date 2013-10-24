@@ -1,5 +1,4 @@
-Anomalina glabrata (Cushman) SPECIES
-=======
+# Anomalina glabrata (Cushman) SPECIES
 
 #### Status
 ACCEPTED

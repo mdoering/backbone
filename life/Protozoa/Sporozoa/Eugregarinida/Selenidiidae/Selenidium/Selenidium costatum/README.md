@@ -1,5 +1,4 @@
-Selenidium costatum Siedlecki, 1903 SPECIES
-=======
+# Selenidium costatum Siedlecki, 1903 SPECIES
 
 #### Status
 ACCEPTED

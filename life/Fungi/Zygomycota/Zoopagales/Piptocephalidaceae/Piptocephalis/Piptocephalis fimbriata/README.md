@@ -1,5 +1,4 @@
-Piptocephalis fimbriata M.J. Richardson & Leadb., 1972 SPECIES
-=======
+# Piptocephalis fimbriata M.J. Richardson & Leadb., 1972 SPECIES
 
 #### Status
 ACCEPTED

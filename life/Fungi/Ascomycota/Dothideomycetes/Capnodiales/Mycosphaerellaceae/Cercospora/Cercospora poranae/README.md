@@ -1,5 +1,4 @@
-Cercospora poranae Suj. Singh SPECIES
-=======
+# Cercospora poranae Suj. Singh SPECIES
 
 #### Status
 ACCEPTED

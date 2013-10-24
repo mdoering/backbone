@@ -1,5 +1,4 @@
-Podospora dakotensis (Griffiths) J.H. Mirza & Cain, 1970 SPECIES
-=======
+# Podospora dakotensis (Griffiths) J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

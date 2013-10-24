@@ -1,17 +1,16 @@
-Atylospora bulbillosa (Fr.) Murrill SPECIES
-=======
+# Astylospora bulbillosa (Fr.) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 10(1): 22 (1918)
 
 #### Original name
-Agaricus bulbillosa Fr.
+Psathyra bulbillosa Fr.
 
 ### Remarks
 null

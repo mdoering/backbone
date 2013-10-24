@@ -1,5 +1,4 @@
-Phyllosticta markhamiae Marchal & Steyaert SPECIES
-=======
+# Phyllosticta markhamiae Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus beatiei Banning SPECIES
-=======
+# Polyporus beatiei Banning SPECIES
 
 #### Status
 ACCEPTED

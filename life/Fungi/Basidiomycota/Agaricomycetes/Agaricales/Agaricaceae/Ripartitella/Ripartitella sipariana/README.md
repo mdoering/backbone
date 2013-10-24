@@ -1,14 +1,13 @@
-Cystoderma siparianum (Dennis) Thoen, 1969 SPECIES
-=======
+# Ripartitella sipariana (Dennis) Dennis, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 3: 58 (1970)
 
 #### Original name
 Lepiota sipariana Dennis, 1952

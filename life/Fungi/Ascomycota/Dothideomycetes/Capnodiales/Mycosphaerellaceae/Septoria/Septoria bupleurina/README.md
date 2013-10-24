@@ -1,5 +1,4 @@
-Septoria bupleurina Géneau SPECIES
-=======
+# Septoria bupleurina Géneau SPECIES
 
 #### Status
 ACCEPTED

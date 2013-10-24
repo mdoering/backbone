@@ -1,5 +1,4 @@
-Hypocrella edwalliana Henn. SPECIES
-=======
+# Hypocrella edwalliana Henn. SPECIES
 
 #### Status
 ACCEPTED

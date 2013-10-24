@@ -1,5 +1,4 @@
-Hypotrachyna adaffinis Sipman SPECIES
-=======
+# Hypotrachyna adaffinis Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium lagenula Faure-Fremiet, 1924 SPECIES
-=======
+# Strombidium lagenula Faure-Fremiet, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora condensata var. desmanthi Ellis & Kellerm., 1885 VARIETY
-=======
+# Passalora desmanthi (Ellis & Kellerm.) U. Braun, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 1(1): 2 (1885)
+Schlechtendalia 2: 5 (1999)
 
 #### Original name
 Cercospora condensata var. desmanthi Ellis & Kellerm., 1885

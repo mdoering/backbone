@@ -1,5 +1,4 @@
-Cyttaria exigua Gamundí, 1971 SPECIES
-=======
+# Cyttaria exigua Gamundí, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma penicillatum Wallr. SPECIES
-=======
+# Trichoderma penicillatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

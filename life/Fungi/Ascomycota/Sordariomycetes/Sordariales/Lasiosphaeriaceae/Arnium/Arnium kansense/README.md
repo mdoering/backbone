@@ -1,5 +1,4 @@
-Arnium kansense (Griffiths) J.C. Krug & Cain SPECIES
-=======
+# Arnium kansense (Griffiths) J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphogenerinoides cretacea Cushman, 1929 SPECIES
-=======
+# Siphogenerinoides cretacea Cushman, 1929 SPECIES
 
 #### Status
 ACCEPTED

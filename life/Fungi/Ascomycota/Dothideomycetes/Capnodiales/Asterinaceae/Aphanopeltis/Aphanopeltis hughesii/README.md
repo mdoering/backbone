@@ -1,5 +1,4 @@
-Aphanopeltis hughesii Bat. & H. Maia SPECIES
-=======
+# Aphanopeltis hughesii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

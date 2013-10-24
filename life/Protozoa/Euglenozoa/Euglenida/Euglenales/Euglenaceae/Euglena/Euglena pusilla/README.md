@@ -1,5 +1,4 @@
-Euglena pusilla var. longa Playfair VARIETY
-=======
+# Euglena pusilla Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida nigra-canadensis Berger, Beaudry & Gaumond SPECIES
-=======
+# Candida nigra-canadensis Berger, Beaudry & Gaumond SPECIES
 
 #### Status
 ACCEPTED

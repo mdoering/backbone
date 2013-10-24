@@ -1,5 +1,4 @@
-Taliaferria Hegner & Rees, 1933 GENUS
-=======
+# Taliaferria Hegner & Rees, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamellodiscorbis dimidiata SPECIES
-=======
+# Lamellodiscorbis dimidiata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia venusta (Stizenb.) Hepp SPECIES
-=======
+# Bacidia venusta (Stizenb.) Hepp SPECIES
 
 #### Status
 ACCEPTED

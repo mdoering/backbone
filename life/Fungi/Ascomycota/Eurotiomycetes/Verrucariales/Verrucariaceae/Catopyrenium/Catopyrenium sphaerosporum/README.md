@@ -1,5 +1,4 @@
-Catopyrenium sphaerosporum (Anzi) Arnold SPECIES
-=======
+# Catopyrenium sphaerosporum (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycoccum condensatum Saut. SPECIES
-=======
+# Polycoccum condensatum Saut. SPECIES
 
 #### Status
 ACCEPTED

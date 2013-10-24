@@ -1,5 +1,4 @@
-Aspergillus digitatus Pers. SPECIES
-=======
+# Aspergillus digitatus Pers. SPECIES
 
 #### Status
 ACCEPTED

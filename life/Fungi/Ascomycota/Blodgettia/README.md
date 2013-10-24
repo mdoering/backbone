@@ -1,17 +1,16 @@
-Blodgettiomyces Feldmann GENUS
-=======
+# Blodgettia Harvey, 1858 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Bryol. Lichénol. 11: 157 (1939)
+Nereis Bor. Am. 3: 42, 46 (1858)
 
 #### Original name
-Blodgettiomyces Feldmann
+Blodgettia Harvey, 1858
 
 ### Remarks
 null

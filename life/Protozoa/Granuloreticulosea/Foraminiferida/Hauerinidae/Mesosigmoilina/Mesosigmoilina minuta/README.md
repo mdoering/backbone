@@ -1,5 +1,4 @@
-Mesosigmoilina minuta (Zheng, 1979) SPECIES
-=======
+# Mesosigmoilina minuta (Zheng, 1979) SPECIES
 
 #### Status
 ACCEPTED

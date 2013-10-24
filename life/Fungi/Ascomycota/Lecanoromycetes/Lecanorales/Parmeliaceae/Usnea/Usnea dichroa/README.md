@@ -1,5 +1,4 @@
-Usnea dichroa var. dichroa VARIETY
-=======
+# Usnea dichroa Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea dichroa var. dichroa
+Usnea dichroa Motyka
 
 ### Remarks
 null

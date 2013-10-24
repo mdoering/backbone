@@ -1,5 +1,4 @@
-Meliola elaeidis F. Stevens SPECIES
-=======
+# Meliola elaeidis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

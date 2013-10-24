@@ -1,5 +1,4 @@
-Actinomadura vinacea Lavrova and Preobrazhenskaya, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Actinomadura vinacea Lavrova and Preobrazhenskaya, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

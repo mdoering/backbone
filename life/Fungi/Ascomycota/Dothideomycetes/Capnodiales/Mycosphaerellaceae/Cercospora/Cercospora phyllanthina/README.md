@@ -1,5 +1,4 @@
-Cercospora phyllanthina Petr. & Cif. SPECIES
-=======
+# Cercospora phyllanthina Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

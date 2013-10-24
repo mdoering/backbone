@@ -1,5 +1,4 @@
-Podospora dactylina N. Lundq., 1970 SPECIES
-=======
+# Podospora dactylina N. Lundq., 1970 SPECIES
 
 #### Status
 ACCEPTED

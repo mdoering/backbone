@@ -1,14 +1,13 @@
-Poria oleracea R.W. Davidson & Lombard, 1947 SPECIES
-=======
+# Antrodia oleracea (R.W. Davidson & Lombard) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 39(3): 317 (1947)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 252 (1980)
 
 #### Original name
 Poria oleracea R.W. Davidson & Lombard, 1947

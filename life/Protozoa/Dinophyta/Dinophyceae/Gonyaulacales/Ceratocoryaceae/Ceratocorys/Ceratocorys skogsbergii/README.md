@@ -1,5 +1,4 @@
-Ceratocorys skogsbergii Graham, 1942 SPECIES
-=======
+# Ceratocorys skogsbergii Graham, 1942 SPECIES
 
 #### Status
 ACCEPTED

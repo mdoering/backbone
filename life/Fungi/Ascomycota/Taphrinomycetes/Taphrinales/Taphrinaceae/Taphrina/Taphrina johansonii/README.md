@@ -1,5 +1,4 @@
-Taphrina johansonii Sadeb., 1890 SPECIES
-=======
+# Taphrina johansonii Sadeb., 1890 SPECIES
 
 #### Status
 ACCEPTED

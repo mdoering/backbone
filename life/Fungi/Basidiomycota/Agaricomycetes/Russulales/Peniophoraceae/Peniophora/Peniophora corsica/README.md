@@ -1,5 +1,4 @@
-Peniophora corsica Höhn. & Litsch. SPECIES
-=======
+# Peniophora corsica Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

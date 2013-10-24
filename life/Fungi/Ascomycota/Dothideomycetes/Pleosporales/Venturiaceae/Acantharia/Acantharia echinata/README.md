@@ -1,14 +1,13 @@
-Venturia echinata (Ellis & Everh.) Theiss., 1912 SPECIES
-=======
+# Acantharia echinata (Ellis & Everh.) Theiss. & Syd., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. , Abt. 2 29: 60 (1912)
+Annls mycol. 16(1/2): 15 (1918)
 
 #### Original name
 Dimerosporium echinatum Ellis & Everh., 1893

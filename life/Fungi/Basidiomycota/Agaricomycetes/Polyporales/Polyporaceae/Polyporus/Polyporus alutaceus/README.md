@@ -1,5 +1,4 @@
-Polyporus alutaceus Fr., 1821 SPECIES
-=======
+# Polyporus alutaceus Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED

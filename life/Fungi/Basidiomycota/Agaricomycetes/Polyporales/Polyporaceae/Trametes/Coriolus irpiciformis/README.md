@@ -1,5 +1,4 @@
-Coriolus irpiciformis Murrill SPECIES
-=======
+# Coriolus irpiciformis Murrill SPECIES
 
 #### Status
 ACCEPTED

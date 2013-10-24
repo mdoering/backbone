@@ -1,14 +1,13 @@
-Passalora caladii (F. Stevens) Poonam Srivast., 1994 SPECIES
-=======
+# Helminthosporium caladii F. Stevens, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Living World 1(2): 113 (1994)
+Trans. Ill. St. Acad. Sci. 10: 209 (1917)
 
 #### Original name
 Helminthosporium caladii F. Stevens, 1917

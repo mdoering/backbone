@@ -1,5 +1,4 @@
-Stereum tenerum Petch SPECIES
-=======
+# Stereum tenerum Petch SPECIES
 
 #### Status
 ACCEPTED

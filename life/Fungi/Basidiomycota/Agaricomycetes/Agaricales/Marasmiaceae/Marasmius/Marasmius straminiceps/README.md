@@ -1,5 +1,4 @@
-Marasmius straminiceps Wannathes, Desjardin & Lumyong SPECIES
-=======
+# Marasmius straminiceps Wannathes, Desjardin & Lumyong SPECIES
 
 #### Status
 ACCEPTED

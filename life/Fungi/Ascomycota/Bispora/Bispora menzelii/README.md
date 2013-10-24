@@ -1,5 +1,4 @@
-Bispora menzelii Corda SPECIES
-=======
+# Bispora menzelii Corda SPECIES
 
 #### Status
 ACCEPTED

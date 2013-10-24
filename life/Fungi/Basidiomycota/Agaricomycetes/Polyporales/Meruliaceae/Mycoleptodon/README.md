@@ -1,5 +1,4 @@
-Mycoleptodon GENUS
-=======
+# Mycoleptodon GENUS
 
 #### Status
 ACCEPTED

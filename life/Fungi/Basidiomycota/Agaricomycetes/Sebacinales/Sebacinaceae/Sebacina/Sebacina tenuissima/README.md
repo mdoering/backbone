@@ -1,5 +1,4 @@
-Sebacina tenuissima Rick SPECIES
-=======
+# Sebacina tenuissima Rick SPECIES
 
 #### Status
 ACCEPTED

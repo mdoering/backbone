@@ -1,5 +1,4 @@
-Archaeomarasmius leggetti Hibbett, D. Grimaldi & Donoghue SPECIES
-=======
+# Archaeomarasmius leggetti Hibbett, D. Grimaldi & Donoghue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligosphaeridium asterigerum (Gocht, 1959) Davey & Williams SPECIES
-=======
+# Oligosphaeridium asterigerum (Gocht, 1959) Davey & Williams SPECIES
 
 #### Status
 ACCEPTED

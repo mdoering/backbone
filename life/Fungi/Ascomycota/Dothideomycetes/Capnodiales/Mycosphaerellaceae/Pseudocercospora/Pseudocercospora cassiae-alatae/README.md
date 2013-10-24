@@ -1,5 +1,4 @@
-Pseudocercospora cassiae-alatae (J.M. Yen & Lim) J.M. Yen SPECIES
-=======
+# Pseudocercospora cassiae-alatae (J.M. Yen & Lim) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

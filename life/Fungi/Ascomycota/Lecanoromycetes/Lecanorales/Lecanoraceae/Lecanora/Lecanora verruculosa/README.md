@@ -1,5 +1,4 @@
-Lecanora verruculosa Jatta SPECIES
-=======
+# Lecanora verruculosa Jatta SPECIES
 
 #### Status
 ACCEPTED

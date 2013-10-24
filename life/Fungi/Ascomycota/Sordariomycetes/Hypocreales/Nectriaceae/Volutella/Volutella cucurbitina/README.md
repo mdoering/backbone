@@ -1,5 +1,4 @@
-Volutella cucurbitina Peck SPECIES
-=======
+# Volutella cucurbitina Peck SPECIES
 
 #### Status
 ACCEPTED

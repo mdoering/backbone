@@ -1,5 +1,4 @@
-Xyloma tiliae Fr. SPECIES
-=======
+# Xyloma tiliae Fr. SPECIES
 
 #### Status
 ACCEPTED

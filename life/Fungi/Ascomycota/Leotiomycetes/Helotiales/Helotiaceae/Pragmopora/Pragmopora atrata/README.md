@@ -1,5 +1,4 @@
-Pragmopora atrata Körb. SPECIES
-=======
+# Pragmopora atrata Körb. SPECIES
 
 #### Status
 ACCEPTED

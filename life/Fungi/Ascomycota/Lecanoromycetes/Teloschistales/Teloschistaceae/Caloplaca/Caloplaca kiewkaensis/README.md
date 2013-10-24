@@ -1,5 +1,4 @@
-Caloplaca kiewkaensis L. S. Yakovczenko, I. A. Galanina & S. Y. Kondr. SPECIES
-=======
+# Caloplaca kiewkaensis L. S. Yakovczenko, I. A. Galanina & S. Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

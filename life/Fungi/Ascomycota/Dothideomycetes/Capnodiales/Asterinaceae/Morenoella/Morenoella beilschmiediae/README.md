@@ -1,5 +1,4 @@
-Morenoella beilschmiediae H.S. Yates SPECIES
-=======
+# Morenoella beilschmiediae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniella clypeata Matsush. SPECIES
-=======
+# Coniella clypeata Matsush. SPECIES
 
 #### Status
 ACCEPTED

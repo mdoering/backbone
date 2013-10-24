@@ -1,14 +1,13 @@
-Acrospermum viridulum Berk. & M.A. Curtis SPECIES
-=======
+# Cyanodermella viridula (Berk. & M.A. Curtis) O.E. Erikss. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Grevillea 4(no. 32): 161 (1876)
+Op. bot. 60: 155 (1981)
 
 #### Original name
 Acrospermum viridulum Berk. & M.A. Curtis

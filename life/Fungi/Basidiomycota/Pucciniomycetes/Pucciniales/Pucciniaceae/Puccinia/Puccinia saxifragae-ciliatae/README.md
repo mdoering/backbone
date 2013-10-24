@@ -1,14 +1,13 @@
-Dicaeoma saxifragae-ciliatae (Barclay) Kuntze, 1898 SPECIES
-=======
+# Puccinia saxifragae-ciliatae Barclay, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Descr. List Ured. Simla 2: 234 (1889)
 
 #### Original name
 Puccinia saxifragae-ciliatae Barclay, 1889

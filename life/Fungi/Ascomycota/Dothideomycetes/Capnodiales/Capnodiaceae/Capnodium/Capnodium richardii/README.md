@@ -1,8 +1,7 @@
-Capnodium richardi Thüm. SPECIES
-=======
+# Capnodium richardii Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Capnodium richardi Thüm.
+Capnodium richardii Thüm.
 
 ### Remarks
 null

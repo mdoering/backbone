@@ -1,5 +1,4 @@
-Endozoicomonas elysicola Kurahashi & Yokota, 2007 SPECIES
-=======
+# Endozoicomonas elysicola Kurahashi & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

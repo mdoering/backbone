@@ -1,5 +1,4 @@
-Amanita pallidobrunnea A.E. Wood SPECIES
-=======
+# Amanita pallidobrunnea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

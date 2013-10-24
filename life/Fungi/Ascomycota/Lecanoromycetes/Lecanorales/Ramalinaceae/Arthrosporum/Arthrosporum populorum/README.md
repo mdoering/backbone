@@ -1,17 +1,16 @@
-Lecidea acclinis Flot. SPECIES
-=======
+# Arthrosporum populorum A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Memor. Lichenogr. 128 (1853)
 
 #### Original name
-null
+Arthrosporum populorum A. Massal.
 
 ### Remarks
 null

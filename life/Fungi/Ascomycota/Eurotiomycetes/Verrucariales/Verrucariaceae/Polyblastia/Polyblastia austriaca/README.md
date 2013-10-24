@@ -1,5 +1,4 @@
-Polyblastia austriaca var. austriaca VARIETY
-=======
+# Polyblastia austriaca (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia austriaca var. austriaca
+Thelidium austriacum Zschacke
 
 ### Remarks
 null

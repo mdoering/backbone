@@ -1,5 +1,4 @@
-Collybia clypeolata Beeli SPECIES
-=======
+# Collybia clypeolata Beeli SPECIES
 
 #### Status
 ACCEPTED

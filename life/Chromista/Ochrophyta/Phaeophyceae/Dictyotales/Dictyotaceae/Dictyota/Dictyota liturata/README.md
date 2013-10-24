@@ -1,5 +1,4 @@
-Dictyota liturata J. Agardh SPECIES
-=======
+# Dictyota liturata J. Agardh SPECIES
 
 #### Status
 ACCEPTED

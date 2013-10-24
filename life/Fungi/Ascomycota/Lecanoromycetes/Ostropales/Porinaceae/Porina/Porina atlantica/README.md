@@ -1,17 +1,16 @@
-Porina nucula var. heterospora Fink ex J. Hedrick VARIETY
-=======
+# Porina atlantica (Erichsen) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 25: 308 (1933)
+Graphis Scripta 12(1): 1 (2000)
 
 #### Original name
-Porina nucula var. heterospora Fink ex J. Hedrick
+Ocellularia atlantica Erichsen
 
 ### Remarks
 null

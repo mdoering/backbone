@@ -1,5 +1,4 @@
-Filisphaeridium confusum (Jankauskas, 1975) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium confusum (Jankauskas, 1975) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

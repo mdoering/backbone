@@ -1,14 +1,13 @@
-Polyporus spiculifer Cooke, 1886 SPECIES
-=======
+# Fistulina spiculifera (Cooke) D.A. Reid, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 73): 20 (1886)
+Kew Bull. 17: 280 (1963)
 
 #### Original name
 Polyporus spiculifer Cooke, 1886

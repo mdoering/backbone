@@ -1,5 +1,4 @@
-Navicella corni (Pass.) Kuntze SPECIES
-=======
+# Navicella corni (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

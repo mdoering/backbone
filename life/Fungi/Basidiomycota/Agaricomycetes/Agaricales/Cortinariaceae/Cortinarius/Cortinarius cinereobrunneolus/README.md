@@ -1,5 +1,4 @@
-Cortinarius cinereobrunneolus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius cinereobrunneolus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

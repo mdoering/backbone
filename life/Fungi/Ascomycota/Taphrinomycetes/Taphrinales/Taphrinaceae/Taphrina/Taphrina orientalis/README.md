@@ -1,5 +1,4 @@
-Taphrina orientalis Mix SPECIES
-=======
+# Taphrina orientalis Mix SPECIES
 
 #### Status
 ACCEPTED

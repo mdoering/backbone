@@ -1,5 +1,4 @@
-Rhodotorula aclotiana (Kuff.) F.C. Harrison SPECIES
-=======
+# Rhodotorula aclotiana (Kuff.) F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

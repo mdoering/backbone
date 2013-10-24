@@ -1,5 +1,4 @@
-Phellodon gracilis (Fr.) P. Karst. SPECIES
-=======
+# Phellodon gracilis (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

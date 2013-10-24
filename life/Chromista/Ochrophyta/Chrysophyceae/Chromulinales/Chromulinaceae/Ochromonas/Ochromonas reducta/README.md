@@ -1,5 +1,4 @@
-Ochromonas reducta Skuja ex T. Willén SPECIES
-=======
+# Ochromonas reducta Skuja ex T. Willén SPECIES
 
 #### Status
 ACCEPTED

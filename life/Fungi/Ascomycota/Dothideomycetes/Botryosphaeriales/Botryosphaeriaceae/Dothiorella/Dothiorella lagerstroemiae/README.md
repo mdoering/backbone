@@ -1,5 +1,4 @@
-Dothiorella lagerstroemiae S. Ahmad SPECIES
-=======
+# Dothiorella lagerstroemiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

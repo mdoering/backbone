@@ -1,5 +1,4 @@
-Paracoccus alcaliphilus Urakami et al., 1989 SPECIES
-=======
+# Paracoccus alcaliphilus Urakami et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

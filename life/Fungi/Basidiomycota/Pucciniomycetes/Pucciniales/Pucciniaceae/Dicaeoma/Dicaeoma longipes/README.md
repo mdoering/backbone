@@ -1,5 +1,4 @@
-Dicaeoma longipes (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma longipes (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

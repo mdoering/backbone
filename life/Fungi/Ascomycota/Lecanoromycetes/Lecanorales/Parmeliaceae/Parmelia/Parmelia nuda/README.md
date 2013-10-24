@@ -1,5 +1,4 @@
-Parmelia nuda f. nuda FORM
-=======
+# Parmelia nuda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia nuda f. nuda
+null
 
 ### Remarks
 null

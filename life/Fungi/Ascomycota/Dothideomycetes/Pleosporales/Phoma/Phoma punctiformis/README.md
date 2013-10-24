@@ -1,5 +1,4 @@
-Phoma punctiformis Desm. SPECIES
-=======
+# Phoma punctiformis Desm. SPECIES
 
 #### Status
 ACCEPTED

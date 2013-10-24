@@ -1,5 +1,4 @@
-Clavaria cochleariformis Schumach. SPECIES
-=======
+# Clavaria cochleariformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

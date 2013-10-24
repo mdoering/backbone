@@ -1,5 +1,4 @@
-Dictyostelium boomeransporum Cavender, Vadell, J.C. Landolt & S.L. Stephenson SPECIES
-=======
+# Dictyostelium boomeransporum Cavender, Vadell, J.C. Landolt & S.L. Stephenson SPECIES
 
 #### Status
 ACCEPTED

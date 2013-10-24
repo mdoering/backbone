@@ -1,5 +1,4 @@
-Lecanora franconica H. Magn. SPECIES
-=======
+# Lecanora franconica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uleomyces struthanthi G. Arnaud, 1925 SPECIES
-=======
+# Uleomyces struthanthi G. Arnaud, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pseudohinnuleus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius pseudohinnuleus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

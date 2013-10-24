@@ -1,5 +1,4 @@
-Chaetomium subspirilliferum Sergeeva, 1960 SPECIES
-=======
+# Chaetomium subspirilliferum Sergeeva, 1960 SPECIES
 
 #### Status
 ACCEPTED

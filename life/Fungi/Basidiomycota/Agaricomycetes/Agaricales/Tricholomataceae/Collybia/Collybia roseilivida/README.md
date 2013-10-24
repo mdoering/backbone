@@ -1,5 +1,4 @@
-Collybia roseilivida (Murrill) Murrill SPECIES
-=======
+# Collybia roseilivida (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

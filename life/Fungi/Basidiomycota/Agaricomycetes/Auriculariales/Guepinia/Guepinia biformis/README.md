@@ -1,5 +1,4 @@
-Guepinia biformis Peck SPECIES
-=======
+# Guepinia biformis Peck SPECIES
 
 #### Status
 ACCEPTED

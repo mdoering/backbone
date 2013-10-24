@@ -1,5 +1,4 @@
-Keronopsis pulchra Kahl, 1932 SPECIES
-=======
+# Keronopsis pulchra Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

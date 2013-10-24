@@ -1,5 +1,4 @@
-Stichotricha sapropelica SPECIES
-=======
+# Stichotricha sapropelica SPECIES
 
 #### Status
 ACCEPTED

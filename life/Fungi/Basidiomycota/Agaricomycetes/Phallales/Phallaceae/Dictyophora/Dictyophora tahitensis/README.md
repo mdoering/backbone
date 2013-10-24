@@ -1,5 +1,4 @@
-Dictyophora tahitensis (Schltdl.) E. Fisch. SPECIES
-=======
+# Dictyophora tahitensis (Schltdl.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

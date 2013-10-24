@@ -1,5 +1,4 @@
-Melanomma cyrillicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Melanomma cyrillicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

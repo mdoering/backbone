@@ -1,5 +1,4 @@
-Irenopsis senecionis Hansf. SPECIES
-=======
+# Irenopsis senecionis Hansf. SPECIES
 
 #### Status
 ACCEPTED

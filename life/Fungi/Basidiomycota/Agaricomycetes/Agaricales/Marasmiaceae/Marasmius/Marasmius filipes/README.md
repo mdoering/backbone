@@ -1,5 +1,4 @@
-Marasmius filipes Peck SPECIES
-=======
+# Marasmius filipes Peck SPECIES
 
 #### Status
 ACCEPTED

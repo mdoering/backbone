@@ -1,5 +1,4 @@
-Pharcidia rhachiana Kohlm., 1973 SPECIES
-=======
+# Pharcidia rhachiana Kohlm., 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus vestidus (Earle) Sacc. & Traverso SPECIES
-=======
+# Lentinus vestidus (Earle) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

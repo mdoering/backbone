@@ -1,5 +1,4 @@
-Arthopyrenia albidoatra (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia albidoatra (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

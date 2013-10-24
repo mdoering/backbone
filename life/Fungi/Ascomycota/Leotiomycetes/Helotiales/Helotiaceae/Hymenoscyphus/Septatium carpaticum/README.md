@@ -1,5 +1,4 @@
-Septatium carpaticum Velen. SPECIES
-=======
+# Septatium carpaticum Velen. SPECIES
 
 #### Status
 ACCEPTED

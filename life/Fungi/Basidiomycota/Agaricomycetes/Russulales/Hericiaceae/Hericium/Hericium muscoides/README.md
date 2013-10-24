@@ -1,5 +1,4 @@
-Hericium muscoides (Scop.) Pers. SPECIES
-=======
+# Hericium muscoides (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

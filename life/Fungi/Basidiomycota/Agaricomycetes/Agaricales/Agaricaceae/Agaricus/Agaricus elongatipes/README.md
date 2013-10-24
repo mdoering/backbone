@@ -1,5 +1,4 @@
-Agaricus elongatipes Peck SPECIES
-=======
+# Agaricus elongatipes Peck SPECIES
 
 #### Status
 ACCEPTED

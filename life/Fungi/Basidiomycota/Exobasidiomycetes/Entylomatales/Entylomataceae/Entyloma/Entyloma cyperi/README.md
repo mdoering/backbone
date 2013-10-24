@@ -1,5 +1,4 @@
-Entyloma cyperi S. Ahmad SPECIES
-=======
+# Entyloma cyperi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

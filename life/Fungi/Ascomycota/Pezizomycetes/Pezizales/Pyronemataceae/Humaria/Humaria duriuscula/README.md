@@ -1,5 +1,4 @@
-Humaria duriuscula Velen. SPECIES
-=======
+# Humaria duriuscula Velen. SPECIES
 
 #### Status
 ACCEPTED

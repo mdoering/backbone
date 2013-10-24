@@ -1,5 +1,4 @@
-Candida sojae Nakase, M. Suzuki, M. Takash., Yozo Miyak., Kagaya, Fukaz. & Komag., 1994 SPECIES
-=======
+# Candida sojae Nakase, M. Suzuki, M. Takash., Yozo Miyak., Kagaya, Fukaz. & Komag., 1994 SPECIES
 
 #### Status
 ACCEPTED

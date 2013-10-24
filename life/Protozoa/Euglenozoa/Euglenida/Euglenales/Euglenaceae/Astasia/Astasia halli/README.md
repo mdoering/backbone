@@ -1,5 +1,4 @@
-Astasia halli SPECIES
-=======
+# Astasia halli SPECIES
 
 #### Status
 ACCEPTED

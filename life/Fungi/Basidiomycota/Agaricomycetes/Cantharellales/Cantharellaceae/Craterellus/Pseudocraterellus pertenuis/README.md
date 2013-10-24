@@ -1,14 +1,13 @@
-Cotylidia pertenuis (Skovst.) Boidin, 1959 SPECIES
-=======
+# Pseudocraterellus pertenuis (Skovst.) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 24: 202 (1959)
+Persoonia 2(2): 122 (1962)
 
 #### Original name
 Podoscypha pertenuis Skovst., 1956

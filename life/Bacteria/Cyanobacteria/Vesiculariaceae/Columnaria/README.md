@@ -1,5 +1,4 @@
-Columnaria Vologdin, 1962 GENUS
-=======
+# Columnaria Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

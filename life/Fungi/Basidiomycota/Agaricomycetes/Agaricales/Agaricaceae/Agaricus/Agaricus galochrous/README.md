@@ -1,5 +1,4 @@
-Agaricus galochrous Fr. SPECIES
-=======
+# Agaricus galochrous Fr. SPECIES
 
 #### Status
 ACCEPTED

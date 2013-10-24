@@ -1,5 +1,4 @@
-Microthyrium cubense Berk. & M.A. Curtis SPECIES
-=======
+# Microthyrium cubense Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

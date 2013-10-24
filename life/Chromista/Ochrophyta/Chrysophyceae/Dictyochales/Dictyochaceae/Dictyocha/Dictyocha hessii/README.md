@@ -1,5 +1,4 @@
-Dictyocha hessii D. Bukry SPECIES
-=======
+# Dictyocha hessii D. Bukry SPECIES
 
 #### Status
 ACCEPTED

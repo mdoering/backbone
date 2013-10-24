@@ -1,5 +1,4 @@
-Marasmius confertus var. confertus VARIETY
-=======
+# Marasmius confertus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius confertus var. confertus
+Marasmius confertus Berk. & Broome
 
 ### Remarks
 null

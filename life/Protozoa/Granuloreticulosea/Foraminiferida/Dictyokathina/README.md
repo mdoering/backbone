@@ -1,5 +1,4 @@
-Dictyokathina Smout, 1954 GENUS
-=======
+# Dictyokathina Smout, 1954 GENUS
 
 #### Status
 ACCEPTED

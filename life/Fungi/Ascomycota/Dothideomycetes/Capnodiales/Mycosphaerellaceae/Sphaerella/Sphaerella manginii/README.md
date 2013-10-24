@@ -1,8 +1,7 @@
-Sphaerella niangini (Savul. & Sandu) Sandu SPECIES
-=======
+# Sphaerella manginii (Savul. & Sandu) Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

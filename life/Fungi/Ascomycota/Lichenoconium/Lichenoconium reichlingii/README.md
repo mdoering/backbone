@@ -1,5 +1,4 @@
-Lichenoconium reichlingii Diederich, 1986 SPECIES
-=======
+# Lichenoconium reichlingii Diederich, 1986 SPECIES
 
 #### Status
 ACCEPTED

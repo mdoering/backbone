@@ -1,5 +1,4 @@
-Schismatomma permutans (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma permutans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia stipicola Speg. SPECIES
-=======
+# Puccinia stipicola Speg. SPECIES
 
 #### Status
 ACCEPTED

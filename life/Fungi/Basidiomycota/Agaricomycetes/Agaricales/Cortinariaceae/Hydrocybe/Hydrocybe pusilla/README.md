@@ -1,5 +1,4 @@
-Hydrocybe pusilla (Peck) Murrill SPECIES
-=======
+# Hydrocybe pusilla (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

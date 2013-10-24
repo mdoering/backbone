@@ -1,5 +1,4 @@
-Diaporthe fuckelii Kunze SPECIES
-=======
+# Diaporthe fuckelii Kunze SPECIES
 
 #### Status
 ACCEPTED

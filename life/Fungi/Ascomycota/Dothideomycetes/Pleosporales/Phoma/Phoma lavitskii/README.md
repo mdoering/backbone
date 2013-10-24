@@ -1,5 +1,4 @@
-Phoma lavitskii Zerova SPECIES
-=======
+# Phoma lavitskii Zerova SPECIES
 
 #### Status
 ACCEPTED

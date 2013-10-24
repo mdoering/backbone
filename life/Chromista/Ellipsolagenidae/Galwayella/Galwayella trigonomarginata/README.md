@@ -1,5 +1,4 @@
-Galwayella trigonomarginata (Parker & Jones, 1865) SPECIES
-=======
+# Galwayella trigonomarginata (Parker & Jones, 1865) SPECIES
 
 #### Status
 ACCEPTED

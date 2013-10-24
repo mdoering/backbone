@@ -1,17 +1,16 @@
-Agaricus epigaeus var. epigaeus VARIETY
-=======
+# Entoloma depluens (Batsch) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 23: 16 (1967)
 
 #### Original name
-null
+Agaricus depluens Batsch, 1786
 
 ### Remarks
 null

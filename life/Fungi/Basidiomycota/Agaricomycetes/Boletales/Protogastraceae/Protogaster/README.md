@@ -1,5 +1,4 @@
-Protogaster Thaxt. GENUS
-=======
+# Protogaster Thaxt. GENUS
 
 #### Status
 ACCEPTED

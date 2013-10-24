@@ -1,5 +1,4 @@
-Scutopycnis Bat. GENUS
-=======
+# Scutopycnis Bat. GENUS
 
 #### Status
 ACCEPTED

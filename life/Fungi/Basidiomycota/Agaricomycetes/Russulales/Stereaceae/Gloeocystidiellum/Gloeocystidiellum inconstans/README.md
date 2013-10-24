@@ -1,14 +1,13 @@
-Boidinia inconstans (G. Cunn.) Sheng H. Wu, 1996 SPECIES
-=======
+# Gloeocystidiellum inconstans (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 58: 60 (1996)
+N. Z. Jl Bot. 29(3): 336 (1991)
 
 #### Original name
 Peniophora inconstans G. Cunn., 1955

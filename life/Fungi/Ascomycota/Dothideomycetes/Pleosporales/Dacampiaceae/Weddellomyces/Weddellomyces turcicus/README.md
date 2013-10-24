@@ -1,5 +1,4 @@
-Weddellomyces turcicus Halici & Orange SPECIES
-=======
+# Weddellomyces turcicus Halici & Orange SPECIES
 
 #### Status
 ACCEPTED

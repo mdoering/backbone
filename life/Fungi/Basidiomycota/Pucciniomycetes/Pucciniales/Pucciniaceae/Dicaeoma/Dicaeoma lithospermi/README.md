@@ -1,5 +1,4 @@
-Dicaeoma lithospermi (Trel.) Kuntze SPECIES
-=======
+# Dicaeoma lithospermi (Trel.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

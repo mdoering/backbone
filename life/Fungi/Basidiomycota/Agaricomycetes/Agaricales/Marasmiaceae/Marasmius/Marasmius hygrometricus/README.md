@@ -1,5 +1,4 @@
-Marasmius hygrometricus (V. Brig.) Sacc. SPECIES
-=======
+# Marasmius hygrometricus (V. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

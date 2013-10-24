@@ -1,17 +1,16 @@
-Boletellus violaceosporus G. Stev. SPECIES
-=======
+# Fistulinella violaceipora (G. Stev.) Pegler & T.W.K. Young, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 76(1): 142 (1981)
 
 #### Original name
-Boletellus violaceosporus G. Stev.
+Boletellus violaceiporus G. Stev., 1962
 
 ### Remarks
 null

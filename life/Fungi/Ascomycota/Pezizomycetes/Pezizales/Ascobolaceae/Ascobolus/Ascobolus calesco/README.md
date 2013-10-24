@@ -1,17 +1,16 @@
-Ascobolus quezelii SPECIES
-=======
+# Ascobolus calesco A.E. Bell & Mahoney, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Planet, no. 21: [22] (2007)
 
 #### Original name
-Ascobolus quezelii
+Ascobolus calesco A.E. Bell & Mahoney, 2007
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Teberdinia hygrophila Sogonov, W. Gams, Summerb. & Schroers, 2005 SPECIES
-=======
+# Teberdinia hygrophila Sogonov, W. Gams, Summerb. & Schroers, 2005 SPECIES
 
 #### Status
 ACCEPTED

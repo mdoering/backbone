@@ -1,5 +1,4 @@
-Peridinium geminum Playfair SPECIES
-=======
+# Peridinium geminum Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea nemorea Höhn. SPECIES
-=======
+# Lachnea nemorea Höhn. SPECIES
 
 #### Status
 ACCEPTED

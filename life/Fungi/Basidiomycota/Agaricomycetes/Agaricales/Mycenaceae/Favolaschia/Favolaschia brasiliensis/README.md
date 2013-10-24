@@ -1,5 +1,4 @@
-Favolaschia brasiliensis Henn. SPECIES
-=======
+# Favolaschia brasiliensis Henn. SPECIES
 
 #### Status
 ACCEPTED

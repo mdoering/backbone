@@ -1,5 +1,4 @@
-Helicascus Kohlm. GENUS
-=======
+# Helicascus Kohlm. GENUS
 
 #### Status
 ACCEPTED

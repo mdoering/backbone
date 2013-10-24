@@ -1,5 +1,4 @@
-Agaricus mammillaris Pass. SPECIES
-=======
+# Agaricus mammillaris Pass. SPECIES
 
 #### Status
 ACCEPTED

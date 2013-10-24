@@ -1,5 +1,4 @@
-Cladonia rugicaulis Ahti SPECIES
-=======
+# Cladonia rugicaulis Ahti SPECIES
 
 #### Status
 ACCEPTED

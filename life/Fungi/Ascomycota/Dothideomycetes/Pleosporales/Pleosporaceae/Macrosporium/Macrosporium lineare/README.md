@@ -1,5 +1,4 @@
-Macrosporium lineare Sacc. SPECIES
-=======
+# Macrosporium lineare Sacc. SPECIES
 
 #### Status
 ACCEPTED

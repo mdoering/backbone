@@ -1,5 +1,4 @@
-Volutella bombycina Speg. SPECIES
-=======
+# Volutella bombycina Speg. SPECIES
 
 #### Status
 ACCEPTED

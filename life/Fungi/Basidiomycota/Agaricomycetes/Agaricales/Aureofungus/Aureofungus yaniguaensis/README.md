@@ -1,5 +1,4 @@
-Aureofungus yaniguaensis Hibbett, Manfr. Binder & K.D. Wang SPECIES
-=======
+# Aureofungus yaniguaensis Hibbett, Manfr. Binder & K.D. Wang SPECIES
 
 #### Status
 ACCEPTED

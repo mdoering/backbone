@@ -1,5 +1,4 @@
-Hyalopeziza graminicola (Raitv.) Raitv. SPECIES
-=======
+# Hyalopeziza graminicola (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

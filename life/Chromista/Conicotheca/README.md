@@ -1,5 +1,4 @@
-Conicotheca Gooday, 2008 GENUS
-=======
+# Conicotheca Gooday, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliomyces sprucei Berk. SPECIES
-=======
+# Heliomyces sprucei Berk. SPECIES
 
 #### Status
 ACCEPTED

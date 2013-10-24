@@ -1,5 +1,4 @@
-Laboulbenia hemipteralis Thaxt. SPECIES
-=======
+# Laboulbenia hemipteralis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

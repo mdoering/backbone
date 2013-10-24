@@ -1,5 +1,4 @@
-Bacidia millegrana f. millegrana FORM
-=======
+# Bacidia millegrana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Russula hydrophila var. grisescens (Bon & Gaugué) Bidaud, Moënne-Locc. & Reumaux VARIETY
-=======
+# Russulaceae FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Russules Rares ou Méconnues (Marlioz) 285 (1996)
+null
 
 #### Original name
-Russula emetica var. grisescens Bon & Gaugué
+null
 
 ### Remarks
 null

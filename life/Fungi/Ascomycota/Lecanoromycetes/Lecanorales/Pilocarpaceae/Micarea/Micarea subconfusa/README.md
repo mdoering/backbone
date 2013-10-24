@@ -1,17 +1,16 @@
-Lecidea submoestula Nyl. SPECIES
-=======
+# Micarea subconfusa (Nyl.) Alstrup SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 59: 235 (1876)
+in Alstrup, Christensen, Hansen & Svane, Fródskaparrit, Annales Societatis Scientiarium Færoensis 40: 96 (1994)
 
 #### Original name
-Lecidea submoestula Nyl.
+Lecidea subconfusa Nyl.
 
 ### Remarks
 null

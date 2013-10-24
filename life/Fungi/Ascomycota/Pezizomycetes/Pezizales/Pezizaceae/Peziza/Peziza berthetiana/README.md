@@ -1,5 +1,4 @@
-Peziza berthetiana Donadini SPECIES
-=======
+# Peziza berthetiana Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera alhagi (Golovin) U. Braun SPECIES
-=======
+# Microsphaera alhagi (Golovin) U. Braun SPECIES
 
 #### Status
 ACCEPTED

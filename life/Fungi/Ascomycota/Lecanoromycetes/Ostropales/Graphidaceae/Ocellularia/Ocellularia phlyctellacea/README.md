@@ -1,5 +1,4 @@
-Ocellularia phlyctellacea var. phlyctellacea VARIETY
-=======
+# Ocellularia phlyctellacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ocellularia phlyctellacea var. phlyctellacea
+Ocellularia phlyctellacea Müll. Arg.
 
 ### Remarks
 null

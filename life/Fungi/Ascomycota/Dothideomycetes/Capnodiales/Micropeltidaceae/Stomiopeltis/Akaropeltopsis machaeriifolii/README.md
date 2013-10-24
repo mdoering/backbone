@@ -1,5 +1,4 @@
-Akaropeltopsis machaeriifolii Bat. & Peres SPECIES
-=======
+# Akaropeltopsis machaeriifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sebacina prolifera D.P. Rogers, 1936 SPECIES
-=======
+# Ceratosebacina prolifera (D.P. Rogers) P. Roberts, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 28: 350 (1936)
+Rhizoctonia-Forming Fungi (Richmond) 117 (1999)
 
 #### Original name
 Sebacina prolifera D.P. Rogers, 1936

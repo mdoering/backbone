@@ -1,5 +1,4 @@
-Synedra subula Sande Lacoste & Suringar SPECIES
-=======
+# Synedra subula Sande Lacoste & Suringar SPECIES
 
 #### Status
 ACCEPTED

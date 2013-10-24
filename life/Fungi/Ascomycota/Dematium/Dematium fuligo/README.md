@@ -1,5 +1,4 @@
-Dematium fuligo Schwein. SPECIES
-=======
+# Dematium fuligo Schwein. SPECIES
 
 #### Status
 ACCEPTED

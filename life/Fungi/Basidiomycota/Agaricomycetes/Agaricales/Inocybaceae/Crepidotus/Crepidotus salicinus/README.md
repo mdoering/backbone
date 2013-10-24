@@ -1,5 +1,4 @@
-Crepidotus salicinus Velen. SPECIES
-=======
+# Crepidotus salicinus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoleptodiscus minimus (Berk. & M.A. Curtis) Vanev SPECIES
-=======
+# Mycoleptodiscus minimus (Berk. & M.A. Curtis) Vanev SPECIES
 
 #### Status
 ACCEPTED

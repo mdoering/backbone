@@ -1,5 +1,4 @@
-Stichomyces europaeus T. Majewski SPECIES
-=======
+# Stichomyces europaeus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

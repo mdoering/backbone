@@ -1,8 +1,7 @@
-Elphidium incertum var. lene Cushman & McCulloch, 1940 VARIETY
-=======
+# Elphidium lene Cushman & McCulloch, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

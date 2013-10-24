@@ -1,5 +1,4 @@
-Sporidesmium melloae Bat. & R. Garnier SPECIES
-=======
+# Sporidesmium melloae Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

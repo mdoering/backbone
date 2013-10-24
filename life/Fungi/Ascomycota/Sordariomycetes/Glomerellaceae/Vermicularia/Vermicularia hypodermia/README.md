@@ -1,5 +1,4 @@
-Vermicularia hypodermia (Link) Fr. SPECIES
-=======
+# Vermicularia hypodermia (Link) Fr. SPECIES
 
 #### Status
 ACCEPTED

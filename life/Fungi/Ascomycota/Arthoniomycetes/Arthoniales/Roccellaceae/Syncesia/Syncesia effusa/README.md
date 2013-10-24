@@ -1,8 +1,7 @@
-Chiodecton perplexum var. caesium Nyl. VARIETY
-=======
+# Syncesia effusa (Fée) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

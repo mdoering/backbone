@@ -1,5 +1,4 @@
-Hypoxylon subterraneum Fuckel SPECIES
-=======
+# Hypoxylon subterraneum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma jaczewskii Sacc. & P. Syd. SPECIES
-=======
+# Phoma jaczewskii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

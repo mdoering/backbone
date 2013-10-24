@@ -1,5 +1,4 @@
-Carinolithus clavatus (Deflandre in Deflandre & Fert, 1954) Medd, 1979 SPECIES
-=======
+# Carinolithus clavatus (Deflandre in Deflandre & Fert, 1954) Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

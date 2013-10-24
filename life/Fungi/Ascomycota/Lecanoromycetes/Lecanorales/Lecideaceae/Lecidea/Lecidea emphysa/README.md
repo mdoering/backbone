@@ -1,5 +1,4 @@
-Lecidea emphysa Stirt. SPECIES
-=======
+# Lecidea emphysa Stirt. SPECIES
 
 #### Status
 ACCEPTED

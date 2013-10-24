@@ -1,5 +1,4 @@
-Collybia subagricola (Murrill) Murrill SPECIES
-=======
+# Collybia subagricola (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

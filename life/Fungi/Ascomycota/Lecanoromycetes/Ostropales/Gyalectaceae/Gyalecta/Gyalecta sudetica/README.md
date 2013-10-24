@@ -1,5 +1,4 @@
-Gyalecta sudetica Vezda SPECIES
-=======
+# Gyalecta sudetica Vezda SPECIES
 
 #### Status
 ACCEPTED

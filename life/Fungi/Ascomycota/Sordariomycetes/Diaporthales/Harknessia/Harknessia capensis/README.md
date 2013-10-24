@@ -1,5 +1,4 @@
-Harknessia capensis S.J. Lee & Crous SPECIES
-=======
+# Harknessia capensis S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

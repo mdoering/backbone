@@ -1,5 +1,4 @@
-Pyrenula fetivica (Kremp.) Müll. Arg. SPECIES
-=======
+# Pyrenula fetivica (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

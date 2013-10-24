@@ -1,5 +1,4 @@
-Rhodophyllus brunneoloroseus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus brunneoloroseus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

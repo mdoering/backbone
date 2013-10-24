@@ -1,5 +1,4 @@
-Vibrio logei (Harwood et al., 1980) Baumann et al., 1981 SPECIES
-=======
+# Vibrio logei (Harwood et al., 1980) Baumann et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

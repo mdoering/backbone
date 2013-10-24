@@ -1,5 +1,4 @@
-Meliola lagunculariae Earle SPECIES
-=======
+# Meliola lagunculariae Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kregervanrija Kurtzman GENUS
-=======
+# Kregervanrija Kurtzman GENUS
 
 #### Status
 ACCEPTED

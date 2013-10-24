@@ -1,14 +1,13 @@
-Phaeotrema obscurum Hale SPECIES
-=======
+# Ocellularia obscura (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 16: 31 (1974)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Phaeotrema obscurum Hale

@@ -1,5 +1,4 @@
-Chaetomidium ellipticum Lodha SPECIES
-=======
+# Chaetomidium ellipticum Lodha SPECIES
 
 #### Status
 ACCEPTED

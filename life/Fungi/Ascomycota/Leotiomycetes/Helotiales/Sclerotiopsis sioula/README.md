@@ -1,5 +1,4 @@
-Sclerotiopsis sioula Scalia SPECIES
-=======
+# Sclerotiopsis sioula Scalia SPECIES
 
 #### Status
 ACCEPTED

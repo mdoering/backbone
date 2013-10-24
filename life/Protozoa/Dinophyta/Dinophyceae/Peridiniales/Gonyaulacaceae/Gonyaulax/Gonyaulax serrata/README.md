@@ -1,5 +1,4 @@
-Gonyaulax serrata Cookson & Eisenack SPECIES
-=======
+# Gonyaulax serrata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

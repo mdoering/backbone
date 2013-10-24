@@ -1,5 +1,4 @@
-Pyricularia variabilis Bussaban SPECIES
-=======
+# Pyricularia variabilis Bussaban SPECIES
 
 #### Status
 ACCEPTED

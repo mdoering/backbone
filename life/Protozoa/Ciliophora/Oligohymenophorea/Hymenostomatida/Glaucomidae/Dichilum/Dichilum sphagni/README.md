@@ -1,5 +1,4 @@
-Dichilum sphagni SPECIES
-=======
+# Dichilum sphagni SPECIES
 
 #### Status
 ACCEPTED

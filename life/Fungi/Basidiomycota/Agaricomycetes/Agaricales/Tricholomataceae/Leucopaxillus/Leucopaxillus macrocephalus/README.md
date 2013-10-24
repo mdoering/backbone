@@ -1,14 +1,13 @@
-Coolia macrocephala (Schulzer) Huijsman, 1943 SPECIES
-=======
+# Leucopaxillus macrocephalus (Schulzer) Bohus, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Medded. Nedl. Mycol. Ver. 28: 60 (1943)
+Fragm. Bot. Mus. Hist. -Nat. Hung. 4(1-4): 37 (1966)
 
 #### Original name
 Agaricus macrocephalus Berk., 1836

@@ -1,5 +1,4 @@
-Aspicilia tofacea Hue SPECIES
-=======
+# Aspicilia tofacea Hue SPECIES
 
 #### Status
 ACCEPTED

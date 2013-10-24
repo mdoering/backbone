@@ -1,5 +1,4 @@
-Ascoclavulina sakaii Y. Otani, 1974 SPECIES
-=======
+# Ascoclavulina sakaii Y. Otani, 1974 SPECIES
 
 #### Status
 ACCEPTED

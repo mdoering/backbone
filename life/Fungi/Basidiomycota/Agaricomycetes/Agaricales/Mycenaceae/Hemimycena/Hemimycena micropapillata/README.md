@@ -1,5 +1,4 @@
-Hemimycena micropapillata (Dennis) Dennis SPECIES
-=======
+# Hemimycena micropapillata (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

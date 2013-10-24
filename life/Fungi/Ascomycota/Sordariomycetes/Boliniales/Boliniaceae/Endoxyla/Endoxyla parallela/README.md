@@ -1,17 +1,16 @@
-Xylosphaeria parallela (Fr.) SPECIES
-=======
+# Endoxyla parallela (Fr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 181 (1882)
 
 #### Original name
-null
+Sphaeria parallela Fr., 1816
 
 ### Remarks
 null

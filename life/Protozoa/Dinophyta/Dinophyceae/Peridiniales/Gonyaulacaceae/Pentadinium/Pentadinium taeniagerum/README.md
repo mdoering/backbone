@@ -1,5 +1,4 @@
-Pentadinium taeniagerum Gerlach, 1961 SPECIES
-=======
+# Pentadinium taeniagerum Gerlach, 1961 SPECIES
 
 #### Status
 ACCEPTED

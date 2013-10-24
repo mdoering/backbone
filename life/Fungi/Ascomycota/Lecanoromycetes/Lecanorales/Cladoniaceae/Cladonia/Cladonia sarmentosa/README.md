@@ -1,17 +1,16 @@
-Cladonia gracilis subvar. campbelliana Vain. SUBVARIETY
-=======
+# Cladonia sarmentosa (Hook. f. & Taylor) C. W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+B. A. N. Z. Antarct. Res. Exped. Rep. , Ser. B 7: 129 (1948)
 
 #### Original name
-Cladonia gracilis subvar. campbelliana Vain.
+Cenomyce sarmentosa Hook. f. & Taylor
 
 ### Remarks
 null

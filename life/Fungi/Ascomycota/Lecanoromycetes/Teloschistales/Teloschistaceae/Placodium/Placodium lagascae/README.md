@@ -1,5 +1,4 @@
-Placodium lagascae (Ach.) Link SPECIES
-=======
+# Placodium lagascae (Ach.) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium cinerea var. cinerea VARIETY
-=======
+# Fusarium cinerea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium cinerea var. cinerea
+Fusarium cinerea
 
 ### Remarks
 null

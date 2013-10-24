@@ -1,5 +1,4 @@
-Gephyrocapsa ornata Heimdal, 1973 SPECIES
-=======
+# Gephyrocapsa ornata Heimdal, 1973 SPECIES
 
 #### Status
 ACCEPTED

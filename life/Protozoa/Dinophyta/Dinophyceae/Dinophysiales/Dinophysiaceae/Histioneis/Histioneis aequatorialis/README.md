@@ -1,5 +1,4 @@
-Histioneis aequatorialis Wood, 1963 SPECIES
-=======
+# Histioneis aequatorialis Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

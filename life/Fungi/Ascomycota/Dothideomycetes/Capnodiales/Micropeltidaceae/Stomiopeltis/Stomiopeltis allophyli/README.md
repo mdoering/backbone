@@ -1,5 +1,4 @@
-Stomiopeltis allophyli (Hansf.) Bat. SPECIES
-=======
+# Stomiopeltis allophyli (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus bipindensis Henn. SPECIES
-=======
+# Pleurotus bipindensis Henn. SPECIES
 
 #### Status
 ACCEPTED

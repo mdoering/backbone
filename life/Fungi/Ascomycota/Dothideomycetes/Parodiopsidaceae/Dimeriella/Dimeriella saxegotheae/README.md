@@ -1,5 +1,4 @@
-Dimeriella saxegotheae (Henn.) Theiss. SPECIES
-=======
+# Dimeriella saxegotheae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

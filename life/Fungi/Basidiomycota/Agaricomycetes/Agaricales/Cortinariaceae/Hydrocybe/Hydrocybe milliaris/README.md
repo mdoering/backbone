@@ -1,5 +1,4 @@
-Hydrocybe milliaris Velen. SPECIES
-=======
+# Hydrocybe milliaris Velen. SPECIES
 
 #### Status
 ACCEPTED

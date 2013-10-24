@@ -1,5 +1,4 @@
-Psilocybe subfimetaria Guzmán & A.H. Sm. SPECIES
-=======
+# Psilocybe subfimetaria Guzmán & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

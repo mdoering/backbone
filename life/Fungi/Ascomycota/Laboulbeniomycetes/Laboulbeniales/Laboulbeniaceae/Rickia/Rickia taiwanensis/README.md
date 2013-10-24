@@ -1,5 +1,4 @@
-Rickia taiwanensis Terada SPECIES
-=======
+# Rickia taiwanensis Terada SPECIES
 
 #### Status
 ACCEPTED

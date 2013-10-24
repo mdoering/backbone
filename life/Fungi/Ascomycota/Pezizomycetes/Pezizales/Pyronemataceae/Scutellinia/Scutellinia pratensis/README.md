@@ -1,5 +1,4 @@
-Scutellinia pratensis (Velen.) Le Gal SPECIES
-=======
+# Scutellinia pratensis (Velen.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirodesmium compositum (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Sirodesmium compositum (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia caesiopruinosa (H. Magn.) J.W. Thomson SPECIES
-=======
+# Aspicilia caesiopruinosa (H. Magn.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

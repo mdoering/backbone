@@ -1,5 +1,4 @@
-Sporidesmium triglochinis Berk. & Broome SPECIES
-=======
+# Sporidesmium triglochinis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

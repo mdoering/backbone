@@ -1,11 +1,10 @@
-Bartonella muris Mayer, 1921 SPECIES
-=======
+# Mycoplasma haemomuris Neimark et al., 2001. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Raffaelea quercivora Kubono & Shin. Ito, 2002 SPECIES
-=======
+# Raffaelea quercivora Kubono & Shin. Ito, 2002 SPECIES
 
 #### Status
 ACCEPTED

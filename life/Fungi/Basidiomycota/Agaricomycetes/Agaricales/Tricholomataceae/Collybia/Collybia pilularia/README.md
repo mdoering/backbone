@@ -1,5 +1,4 @@
-Collybia pilularia Mont. SPECIES
-=======
+# Collybia pilularia Mont. SPECIES
 
 #### Status
 ACCEPTED

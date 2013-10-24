@@ -1,5 +1,4 @@
-Clitocybe hypotheja Bellù SPECIES
-=======
+# Clitocybe hypotheja Bellù SPECIES
 
 #### Status
 ACCEPTED

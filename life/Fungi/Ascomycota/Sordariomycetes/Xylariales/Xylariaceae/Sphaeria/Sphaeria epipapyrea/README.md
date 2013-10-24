@@ -1,5 +1,4 @@
-Sphaeria epipapyrea Wallr. SPECIES
-=======
+# Sphaeria epipapyrea Wallr. SPECIES
 
 #### Status
 ACCEPTED

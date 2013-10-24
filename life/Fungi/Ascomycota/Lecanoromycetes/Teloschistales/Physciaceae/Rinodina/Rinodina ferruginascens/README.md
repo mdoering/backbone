@@ -1,5 +1,4 @@
-Rinodina ferruginascens SPECIES
-=======
+# Rinodina ferruginascens SPECIES
 
 #### Status
 ACCEPTED

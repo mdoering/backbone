@@ -1,5 +1,4 @@
-Lophidium ramorum (Nitschke) Sacc. SPECIES
-=======
+# Lophidium ramorum (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

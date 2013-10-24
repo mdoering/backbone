@@ -1,5 +1,4 @@
-Peziza palmicola Berk. & M.A. Curtis SPECIES
-=======
+# Peziza palmicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

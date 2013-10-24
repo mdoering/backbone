@@ -1,5 +1,4 @@
-Melanaspicilia aethalea (Ach.) Vain. SPECIES
-=======
+# Melanaspicilia aethalea (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED

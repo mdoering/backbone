@@ -1,5 +1,4 @@
-Oligostroma GENUS
-=======
+# Oligostroma GENUS
 
 #### Status
 ACCEPTED

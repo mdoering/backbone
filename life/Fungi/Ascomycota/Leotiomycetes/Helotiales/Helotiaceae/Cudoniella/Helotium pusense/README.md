@@ -1,5 +1,4 @@
-Helotium pusense Syd. & P. Syd. SPECIES
-=======
+# Helotium pusense Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

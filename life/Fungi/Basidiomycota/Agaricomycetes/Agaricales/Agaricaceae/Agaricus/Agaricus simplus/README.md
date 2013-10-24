@@ -1,5 +1,4 @@
-Agaricus simplus Lasch SPECIES
-=======
+# Agaricus simplus Lasch SPECIES
 
 #### Status
 ACCEPTED

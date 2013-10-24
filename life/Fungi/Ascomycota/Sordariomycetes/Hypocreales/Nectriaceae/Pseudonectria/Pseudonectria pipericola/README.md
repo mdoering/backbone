@@ -1,5 +1,4 @@
-Pseudonectria pipericola F. Stevens SPECIES
-=======
+# Pseudonectria pipericola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

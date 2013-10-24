@@ -1,5 +1,4 @@
-Helotiella rehmii (Strasser) Sacc. & Trotter SPECIES
-=======
+# Helotiella rehmii (Strasser) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

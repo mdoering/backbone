@@ -1,5 +1,4 @@
-Macrophoma thujana Cooke & Massee SPECIES
-=======
+# Macrophoma thujana Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

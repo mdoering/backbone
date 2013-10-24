@@ -1,5 +1,4 @@
-Depazea lycoctoni Kirchn. SPECIES
-=======
+# Depazea lycoctoni Kirchn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyropyxis Egger GENUS
-=======
+# Pyropyxis Egger GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sinuloculina subglobiformis Zheng, 1988 SPECIES
-=======
+# Sinuloculina subglobiformis Zheng, 1988 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Thalassobacter Macián et al., 2005 GENUS
-=======
+# Thalassobacter Macián et al., 2005 GENUS
 
 #### Status
 ACCEPTED

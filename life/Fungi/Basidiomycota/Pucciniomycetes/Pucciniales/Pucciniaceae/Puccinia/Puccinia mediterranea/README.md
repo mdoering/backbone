@@ -1,5 +1,4 @@
-Puccinia mediterranea Trotter SPECIES
-=======
+# Puccinia mediterranea Trotter SPECIES
 
 #### Status
 ACCEPTED

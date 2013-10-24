@@ -1,5 +1,4 @@
-Aspergillus flavidus Berk. & Broome SPECIES
-=======
+# Aspergillus flavidus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

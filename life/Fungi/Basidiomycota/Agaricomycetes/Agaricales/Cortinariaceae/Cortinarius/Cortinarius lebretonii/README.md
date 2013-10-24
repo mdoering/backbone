@@ -1,5 +1,4 @@
-Cortinarius lebretonii Quél., 1880 SPECIES
-=======
+# Cortinarius lebretonii Quél., 1880 SPECIES
 
 #### Status
 ACCEPTED

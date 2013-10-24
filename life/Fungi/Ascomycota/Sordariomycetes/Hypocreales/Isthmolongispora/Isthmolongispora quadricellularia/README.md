@@ -1,5 +1,4 @@
-Isthmolongispora quadricellularia Matsush. SPECIES
-=======
+# Isthmolongispora quadricellularia Matsush. SPECIES
 
 #### Status
 ACCEPTED

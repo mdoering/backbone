@@ -1,5 +1,4 @@
-Endoxyla comata Starbäck SPECIES
-=======
+# Endoxyla comata Starbäck SPECIES
 
 #### Status
 ACCEPTED

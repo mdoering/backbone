@@ -1,5 +1,4 @@
-Gloeosporium kalchbrenneri Rabenh. SPECIES
-=======
+# Gloeosporium kalchbrenneri Rabenh. SPECIES
 
 #### Status
 ACCEPTED

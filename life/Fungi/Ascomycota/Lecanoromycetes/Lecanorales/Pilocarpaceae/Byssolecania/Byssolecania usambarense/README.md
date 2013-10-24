@@ -1,5 +1,4 @@
-Byssolecania usambarense Vezda SPECIES
-=======
+# Byssolecania usambarense Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirillina semidecarta Earland & Heron-Allen SPECIES
-=======
+# Spirillina semidecarta Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostroma Corda GENUS
-=======
+# Chaetostroma Corda GENUS
 
 #### Status
 ACCEPTED

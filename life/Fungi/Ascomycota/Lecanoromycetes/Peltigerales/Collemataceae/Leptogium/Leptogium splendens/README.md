@@ -1,5 +1,4 @@
-Leptogium splendens Asahina SPECIES
-=======
+# Leptogium splendens Asahina SPECIES
 
 #### Status
 ACCEPTED

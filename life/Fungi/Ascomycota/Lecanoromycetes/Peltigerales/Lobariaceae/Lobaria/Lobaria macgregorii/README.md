@@ -1,5 +1,4 @@
-Lobaria macgregorii Vain. SPECIES
-=======
+# Lobaria macgregorii Vain. SPECIES
 
 #### Status
 ACCEPTED

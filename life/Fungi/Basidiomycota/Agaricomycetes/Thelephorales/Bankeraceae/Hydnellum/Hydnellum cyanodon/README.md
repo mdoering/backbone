@@ -1,5 +1,4 @@
-Hydnellum cyanodon K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum cyanodon K.A. Harrison, 1964 SPECIES
 
 #### Status
 ACCEPTED

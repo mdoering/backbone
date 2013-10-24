@@ -1,5 +1,4 @@
-Phoma stroeseana Staritz SPECIES
-=======
+# Phoma stroeseana Staritz SPECIES
 
 #### Status
 ACCEPTED

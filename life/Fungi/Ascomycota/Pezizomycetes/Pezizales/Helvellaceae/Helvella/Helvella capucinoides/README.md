@@ -1,5 +1,4 @@
-Helvella capucinoides Peck SPECIES
-=======
+# Helvella capucinoides Peck SPECIES
 
 #### Status
 ACCEPTED

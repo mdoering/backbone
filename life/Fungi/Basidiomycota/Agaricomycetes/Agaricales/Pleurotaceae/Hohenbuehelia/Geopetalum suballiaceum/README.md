@@ -1,5 +1,4 @@
-Geopetalum suballiaceum Murrill SPECIES
-=======
+# Geopetalum suballiaceum Murrill SPECIES
 
 #### Status
 ACCEPTED

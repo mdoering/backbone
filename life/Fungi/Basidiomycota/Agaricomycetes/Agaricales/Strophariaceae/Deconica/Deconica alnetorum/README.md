@@ -1,5 +1,4 @@
-Deconica alnetorum Singer SPECIES
-=======
+# Deconica alnetorum Singer SPECIES
 
 #### Status
 ACCEPTED

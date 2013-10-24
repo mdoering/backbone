@@ -1,5 +1,4 @@
-Colletotrichum necator Massee SPECIES
-=======
+# Colletotrichum necator Massee SPECIES
 
 #### Status
 ACCEPTED

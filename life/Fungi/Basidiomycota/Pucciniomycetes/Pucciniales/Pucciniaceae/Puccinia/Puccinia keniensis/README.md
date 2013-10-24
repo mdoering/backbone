@@ -1,5 +1,4 @@
-Puccinia keniensis Jørst. SPECIES
-=======
+# Puccinia keniensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

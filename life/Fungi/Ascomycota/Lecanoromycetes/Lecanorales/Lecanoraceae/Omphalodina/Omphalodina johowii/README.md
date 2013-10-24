@@ -1,5 +1,4 @@
-Omphalodina johowii Follmann & Redón SPECIES
-=======
+# Omphalodina johowii Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

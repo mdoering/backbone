@@ -1,5 +1,4 @@
-Lecania diplotommoides Bagl. SPECIES
-=======
+# Lecania diplotommoides Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe subviridis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Psilocybe subviridis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

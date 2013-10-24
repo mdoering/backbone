@@ -1,14 +1,13 @@
-Terana tabacina (Cooke) Kuntze, 1891 SPECIES
-=======
+# Campylomyces tabacinus (Cooke) Nakasone, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 873 (1891)
+Sydowia 56(2): 264 (2004)
 
 #### Original name
 Aleurodiscus tabacinus Cooke, 1885

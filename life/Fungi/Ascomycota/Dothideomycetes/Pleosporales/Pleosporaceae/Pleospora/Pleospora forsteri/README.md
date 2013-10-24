@@ -1,5 +1,4 @@
-Pleospora forsteri Speg. SPECIES
-=======
+# Pleospora forsteri Speg. SPECIES
 
 #### Status
 ACCEPTED

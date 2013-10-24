@@ -1,5 +1,4 @@
-Moraxella equi Hughes and Pugh, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Moraxella equi Hughes and Pugh, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

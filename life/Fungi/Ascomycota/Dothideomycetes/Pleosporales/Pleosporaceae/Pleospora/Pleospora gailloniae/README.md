@@ -1,5 +1,4 @@
-Pleospora gailloniae Bubák SPECIES
-=======
+# Pleospora gailloniae Bubák SPECIES
 
 #### Status
 ACCEPTED

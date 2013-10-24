@@ -1,5 +1,4 @@
-Streptosporangium fragile Shearer et al., 1983 SPECIES
-=======
+# Streptosporangium fragile Shearer et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

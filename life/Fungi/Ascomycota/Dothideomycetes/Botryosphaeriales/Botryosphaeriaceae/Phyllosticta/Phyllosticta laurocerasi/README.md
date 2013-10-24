@@ -1,5 +1,4 @@
-Phyllosticta laurocerasi Vassiljeva-Pupysheva {?} SPECIES
-=======
+# Phyllosticta laurocerasi Vassiljeva-Pupysheva {?} SPECIES
 
 #### Status
 ACCEPTED

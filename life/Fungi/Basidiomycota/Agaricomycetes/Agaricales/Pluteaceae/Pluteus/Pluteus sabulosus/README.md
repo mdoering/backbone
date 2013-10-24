@@ -1,5 +1,4 @@
-Pluteus sabulosus E. Horak SPECIES
-=======
+# Pluteus sabulosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

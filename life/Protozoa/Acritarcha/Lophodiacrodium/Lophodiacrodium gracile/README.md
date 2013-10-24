@@ -1,5 +1,4 @@
-Lophodiacrodium gracile Timofeev, 1959 SPECIES
-=======
+# Lophodiacrodium gracile Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

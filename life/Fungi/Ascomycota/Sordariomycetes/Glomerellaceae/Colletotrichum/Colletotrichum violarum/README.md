@@ -1,5 +1,4 @@
-Colletotrichum violarum Davis SPECIES
-=======
+# Colletotrichum violarum Davis SPECIES
 
 #### Status
 ACCEPTED

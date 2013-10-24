@@ -1,5 +1,4 @@
-Prauserella alba Li et al., 2003 SPECIES
-=======
+# Prauserella alba Li et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

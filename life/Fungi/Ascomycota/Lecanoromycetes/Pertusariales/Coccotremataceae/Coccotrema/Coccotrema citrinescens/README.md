@@ -1,5 +1,4 @@
-Coccotrema citrinescens P. James & Coppins SPECIES
-=======
+# Coccotrema citrinescens P. James & Coppins SPECIES
 
 #### Status
 ACCEPTED

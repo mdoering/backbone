@@ -1,5 +1,4 @@
-Kretzschmaria stilbophora Rehm SPECIES
-=======
+# Kretzschmaria stilbophora Rehm SPECIES
 
 #### Status
 ACCEPTED

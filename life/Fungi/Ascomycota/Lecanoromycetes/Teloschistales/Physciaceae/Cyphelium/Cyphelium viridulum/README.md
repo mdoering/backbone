@@ -1,5 +1,4 @@
-Cyphelium viridulum Ach. SPECIES
-=======
+# Cyphelium viridulum Ach. SPECIES
 
 #### Status
 ACCEPTED

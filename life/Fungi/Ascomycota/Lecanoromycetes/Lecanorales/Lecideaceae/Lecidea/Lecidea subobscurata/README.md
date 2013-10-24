@@ -1,5 +1,4 @@
-Lecidea subobscurata Vain. SPECIES
-=======
+# Lecidea subobscurata Vain. SPECIES
 
 #### Status
 ACCEPTED

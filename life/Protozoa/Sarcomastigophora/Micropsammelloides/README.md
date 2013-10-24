@@ -1,5 +1,4 @@
-Micropsammelloides Sudzuki, 1979 GENUS
-=======
+# Micropsammelloides Sudzuki, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spizellomyces dolichospermus D.J.S. Barr, 1984 SPECIES
-=======
+# Spizellomyces dolichospermus D.J.S. Barr, 1984 SPECIES
 
 #### Status
 ACCEPTED

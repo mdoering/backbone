@@ -1,5 +1,4 @@
-Evernia jubata (L.) Fr. SPECIES
-=======
+# Evernia jubata (L.) Fr. SPECIES
 
 #### Status
 ACCEPTED

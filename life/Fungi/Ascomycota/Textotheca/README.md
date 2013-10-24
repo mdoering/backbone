@@ -1,5 +1,4 @@
-Textotheca Matsush. GENUS
-=======
+# Textotheca Matsush. GENUS
 
 #### Status
 ACCEPTED

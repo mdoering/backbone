@@ -1,5 +1,4 @@
-Leiopoda poincola Velen. SPECIES
-=======
+# Leiopoda poincola Velen. SPECIES
 
 #### Status
 ACCEPTED

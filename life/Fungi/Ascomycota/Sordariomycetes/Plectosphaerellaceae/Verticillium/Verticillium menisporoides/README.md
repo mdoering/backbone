@@ -1,5 +1,4 @@
-Verticillium menisporoides Petch, 1948 SPECIES
-=======
+# Verticillium menisporoides Petch, 1948 SPECIES
 
 #### Status
 ACCEPTED

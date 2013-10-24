@@ -1,5 +1,4 @@
-Coniothecium stilesianum Rivolta SPECIES
-=======
+# Coniothecium stilesianum Rivolta SPECIES
 
 #### Status
 ACCEPTED

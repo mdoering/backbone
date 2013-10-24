@@ -1,5 +1,4 @@
-Thecaphora hieronymi J. Schröt. SPECIES
-=======
+# Thecaphora hieronymi J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

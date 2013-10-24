@@ -1,5 +1,4 @@
-Thalassiphyllum clathrus SPECIES
-=======
+# Thalassiphyllum clathrus SPECIES
 
 #### Status
 ACCEPTED

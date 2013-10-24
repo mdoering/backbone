@@ -1,5 +1,4 @@
-Corticium gemmiferum SPECIES
-=======
+# Corticium gemmiferum SPECIES
 
 #### Status
 ACCEPTED

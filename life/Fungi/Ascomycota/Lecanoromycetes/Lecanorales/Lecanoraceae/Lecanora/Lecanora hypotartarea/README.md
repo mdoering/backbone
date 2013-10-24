@@ -1,5 +1,4 @@
-Lecanora hypotartarea Nyl. SPECIES
-=======
+# Lecanora hypotartarea Nyl. SPECIES
 
 #### Status
 ACCEPTED

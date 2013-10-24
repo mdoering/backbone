@@ -1,17 +1,16 @@
-Amanitaria muscaria f. sp FORM
-=======
+# Amanita muscaria (L.) Hook., 1797 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 76 (1941)
+null
 
 #### Original name
-Amanitaria muscaria f. sp
+Amanita muscaria (L.) Hook., 1797
 
 ### Remarks
 null

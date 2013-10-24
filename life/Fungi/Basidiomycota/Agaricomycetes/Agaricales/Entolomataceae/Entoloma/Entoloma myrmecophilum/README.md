@@ -1,17 +1,16 @@
-Entoloma myrmecophilum var. myrmecophilum VARIETY
-=======
+# Entoloma myrmecophilum (Romagn.) M.M. Moser, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 197 (1978)
 
 #### Original name
-Entoloma myrmecophilum var. myrmecophilum
+Rhodophyllus myrmecophilus Romagn., 1974
 
 ### Remarks
 null

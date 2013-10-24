@@ -1,14 +1,13 @@
-Craterellus subundulatus (Peck) Peck, 1903 SPECIES
-=======
+# Pseudocraterellus subundulatus (Peck) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 67: 27 (1903)
+Persoonia 2(2): 166 (1962)
 
 #### Original name
 Thelephora subundulata Peck, 1895

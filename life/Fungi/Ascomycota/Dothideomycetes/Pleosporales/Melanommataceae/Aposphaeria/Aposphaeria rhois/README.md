@@ -1,5 +1,4 @@
-Aposphaeria rhois Sacc. & Trotter SPECIES
-=======
+# Aposphaeria rhois Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

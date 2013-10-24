@@ -1,5 +1,4 @@
-Sporodictyon ochraceoflavum (Nyl.) Trevis. SPECIES
-=======
+# Sporodictyon ochraceoflavum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

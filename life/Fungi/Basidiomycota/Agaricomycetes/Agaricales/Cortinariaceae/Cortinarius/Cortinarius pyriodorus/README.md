@@ -1,5 +1,4 @@
-Cortinarius pyriodorus Kauffman SPECIES
-=======
+# Cortinarius pyriodorus Kauffman SPECIES
 
 #### Status
 ACCEPTED

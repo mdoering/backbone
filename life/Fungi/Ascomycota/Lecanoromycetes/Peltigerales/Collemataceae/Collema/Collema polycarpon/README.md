@@ -1,17 +1,16 @@
-Collema polycarpon subsp. polycarpon SUBSPECIES
-=======
+# Collema polycarpon Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Fl. (Erlangen), Zweiter Theil (1796)
 
 #### Original name
-null
+Collema polycarpon Hoffm.
 
 ### Remarks
 null

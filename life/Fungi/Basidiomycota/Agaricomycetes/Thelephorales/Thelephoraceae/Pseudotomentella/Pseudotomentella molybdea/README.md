@@ -1,5 +1,4 @@
-Pseudotomentella molybdea M.J. Larsen SPECIES
-=======
+# Pseudotomentella molybdea M.J. Larsen SPECIES
 
 #### Status
 ACCEPTED

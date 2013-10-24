@@ -1,5 +1,4 @@
-Helminthosporium obclavatulum Bubák & Syd. SPECIES
-=======
+# Helminthosporium obclavatulum Bubák & Syd. SPECIES
 
 #### Status
 ACCEPTED

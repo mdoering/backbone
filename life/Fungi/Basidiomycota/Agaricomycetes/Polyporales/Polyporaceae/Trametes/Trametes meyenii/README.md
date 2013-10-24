@@ -1,17 +1,16 @@
-Polystictus meyenii f. meyenii (Klotzsch) Cooke FORM
-=======
+# Trametes meyenii (Klotzsch) Lloyd, 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 71): 83 (1886)
+Mycol. Writ. 5(no. 67): 14 (1918)
 
 #### Original name
-Polystictus meyenii f. meyenii (Klotzsch) Cooke
+Polyporus meyenii Klotzsch, 1843
 
 ### Remarks
 null

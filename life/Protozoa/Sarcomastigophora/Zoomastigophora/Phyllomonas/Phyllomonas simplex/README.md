@@ -1,5 +1,4 @@
-Phyllomonas simplex Griessmann SPECIES
-=======
+# Phyllomonas simplex Griessmann SPECIES
 
 #### Status
 ACCEPTED

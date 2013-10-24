@@ -1,5 +1,4 @@
-Camarosporium crataegi Oudem. SPECIES
-=======
+# Camarosporium crataegi Oudem. SPECIES
 
 #### Status
 ACCEPTED

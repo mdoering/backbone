@@ -1,5 +1,4 @@
-Trematosphaeria alaterni (Fabre) Sacc. SPECIES
-=======
+# Trematosphaeria alaterni (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

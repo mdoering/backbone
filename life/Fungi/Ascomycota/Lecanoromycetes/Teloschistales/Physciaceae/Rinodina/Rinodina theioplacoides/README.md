@@ -1,5 +1,4 @@
-Rinodina theioplacoides Vain. SPECIES
-=======
+# Rinodina theioplacoides Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerobolus minimus Sacc. SPECIES
-=======
+# Sphaerobolus minimus Sacc. SPECIES
 
 #### Status
 ACCEPTED

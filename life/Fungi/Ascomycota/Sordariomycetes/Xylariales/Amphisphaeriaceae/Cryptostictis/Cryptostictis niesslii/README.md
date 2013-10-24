@@ -1,5 +1,4 @@
-Cryptostictis niesslii Oudem. SPECIES
-=======
+# Cryptostictis niesslii Oudem. SPECIES
 
 #### Status
 ACCEPTED

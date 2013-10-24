@@ -1,5 +1,4 @@
-Endocarpon petrolepideum (Nyl.) Hue SPECIES
-=======
+# Endocarpon petrolepideum (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

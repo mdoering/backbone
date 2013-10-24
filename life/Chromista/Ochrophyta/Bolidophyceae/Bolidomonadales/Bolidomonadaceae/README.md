@@ -1,5 +1,4 @@
-Bolidomonadaceae L. Guillou & M.-J. Chrétiennot-Dinet FAMILY
-=======
+# Bolidomonadaceae L. Guillou & M.-J. Chrétiennot-Dinet FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella rosae G.H. Otth SPECIES
-=======
+# Eutypella rosae G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

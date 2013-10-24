@@ -1,5 +1,4 @@
-Ceratostoma robustum Mouton SPECIES
-=======
+# Ceratostoma robustum Mouton SPECIES
 
 #### Status
 ACCEPTED

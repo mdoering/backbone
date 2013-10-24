@@ -1,5 +1,4 @@
-Phialea vitigena Feltgen SPECIES
-=======
+# Phialea vitigena Feltgen SPECIES
 
 #### Status
 ACCEPTED

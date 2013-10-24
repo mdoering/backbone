@@ -1,5 +1,4 @@
-Lecanora superfluens H. Magn. SPECIES
-=======
+# Lecanora superfluens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

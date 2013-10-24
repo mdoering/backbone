@@ -1,17 +1,16 @@
-Ascidium tetrasporum Stirt. SPECIES
-=======
+# Thelotrema tetrasporum Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 17: 123 (1965)
 
 #### Original name
-Ascidium tetrasporum Stirt.
+Thelotrema tetrasporum Stirt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Synnemapestaloides T. Handa & Y. Harada GENUS
-=======
+# Synnemapestaloides T. Handa & Y. Harada GENUS
 
 #### Status
 ACCEPTED

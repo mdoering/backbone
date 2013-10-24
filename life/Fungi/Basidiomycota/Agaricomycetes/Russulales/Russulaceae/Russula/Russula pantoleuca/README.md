@@ -1,5 +1,4 @@
-Russula pantoleuca Singer SPECIES
-=======
+# Russula pantoleuca Singer SPECIES
 
 #### Status
 ACCEPTED

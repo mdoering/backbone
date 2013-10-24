@@ -1,5 +1,4 @@
-Fusarium scolecoides Sacc. & Ellis SPECIES
-=======
+# Fusarium scolecoides Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

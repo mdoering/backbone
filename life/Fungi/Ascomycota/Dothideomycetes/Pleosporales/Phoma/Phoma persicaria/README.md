@@ -1,5 +1,4 @@
-Phoma persicaria Schulzer & Sacc. SPECIES
-=======
+# Phoma persicaria Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

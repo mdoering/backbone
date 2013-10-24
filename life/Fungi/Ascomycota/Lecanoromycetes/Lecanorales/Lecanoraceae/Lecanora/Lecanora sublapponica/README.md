@@ -1,5 +1,4 @@
-Lecanora sublapponica Zahlbr. SPECIES
-=======
+# Lecanora sublapponica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

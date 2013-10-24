@@ -1,5 +1,4 @@
-Pluteus curtus P. Karst. SPECIES
-=======
+# Pluteus curtus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

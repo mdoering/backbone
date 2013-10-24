@@ -1,5 +1,4 @@
-Sphaerella lycii Ellis & Everh. SPECIES
-=======
+# Sphaerella lycii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora freticola Speg. SPECIES
-=======
+# Pyrenophora freticola Speg. SPECIES
 
 #### Status
 ACCEPTED

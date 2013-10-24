@@ -1,5 +1,4 @@
-Aecidium purpusiorum Henn. SPECIES
-=======
+# Aecidium purpusiorum Henn. SPECIES
 
 #### Status
 ACCEPTED

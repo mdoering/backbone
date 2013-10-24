@@ -1,17 +1,16 @@
-Meliola coccolobidis-nodosae Hansf. SPECIES
-=======
+# Meliola coccolobae-nodosae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9: 13 (1955)
 
 #### Original name
-Meliola coccolobidis-nodosae Hansf.
+Meliola coccolobae-nodosae Hansf.
 
 ### Remarks
 null

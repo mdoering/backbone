@@ -1,5 +1,4 @@
-Spicaria aleyrodis J.R. Johnst. SPECIES
-=======
+# Spicaria aleyrodis J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

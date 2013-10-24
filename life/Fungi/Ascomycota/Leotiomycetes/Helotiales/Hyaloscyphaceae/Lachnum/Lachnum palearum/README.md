@@ -1,17 +1,16 @@
-Dasyscyphus patens var. patens VARIETY
-=======
+# Lachnum palearum (Desm.) Korf, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascomycetes no. 156 (1873)
+Mycotaxon 14(1): 2 (1982)
 
 #### Original name
-Dasyscyphus patens var. patens
+null
 
 ### Remarks
 null

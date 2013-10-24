@@ -1,5 +1,4 @@
-Lecidea atroflavens Kremp. SPECIES
-=======
+# Lecidea atroflavens Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rhodinula Nyl. SPECIES
-=======
+# Lecidea rhodinula Nyl. SPECIES
 
 #### Status
 ACCEPTED

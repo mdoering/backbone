@@ -1,5 +1,4 @@
-Percolomonas Fenchel & Patterson, 1986 GENUS
-=======
+# Percolomonas Fenchel & Patterson, 1986 GENUS
 
 #### Status
 ACCEPTED

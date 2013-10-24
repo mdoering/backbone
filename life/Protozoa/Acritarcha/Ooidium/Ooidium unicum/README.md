@@ -1,5 +1,4 @@
-Ooidium unicum N. Umnova, 1975 SPECIES
-=======
+# Ooidium unicum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

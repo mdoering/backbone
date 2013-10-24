@@ -1,5 +1,4 @@
-Trullula australiensis Petr. SPECIES
-=======
+# Trullula australiensis Petr. SPECIES
 
 #### Status
 ACCEPTED

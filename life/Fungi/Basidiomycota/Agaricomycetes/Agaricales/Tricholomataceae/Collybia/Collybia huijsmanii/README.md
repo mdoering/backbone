@@ -1,5 +1,4 @@
-Collybia huijsmanii (Antonín & Noordel.) Bon SPECIES
-=======
+# Collybia huijsmanii (Antonín & Noordel.) Bon SPECIES
 
 #### Status
 ACCEPTED

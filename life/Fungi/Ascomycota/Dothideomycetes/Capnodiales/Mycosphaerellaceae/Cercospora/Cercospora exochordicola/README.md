@@ -1,5 +1,4 @@
-Cercospora exochordicola U. Braun & Bulgakov SPECIES
-=======
+# Cercospora exochordicola U. Braun & Bulgakov SPECIES
 
 #### Status
 ACCEPTED

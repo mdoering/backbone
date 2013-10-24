@@ -1,5 +1,4 @@
-Hebeloma gomezii Singer SPECIES
-=======
+# Hebeloma gomezii Singer SPECIES
 
 #### Status
 ACCEPTED

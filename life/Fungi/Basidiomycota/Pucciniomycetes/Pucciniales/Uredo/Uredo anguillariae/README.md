@@ -1,5 +1,4 @@
-Uredo anguillariae Cooke SPECIES
-=======
+# Uredo anguillariae Cooke SPECIES
 
 #### Status
 ACCEPTED

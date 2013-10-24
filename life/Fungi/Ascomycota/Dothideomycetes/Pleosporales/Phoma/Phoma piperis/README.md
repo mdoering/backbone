@@ -1,5 +1,4 @@
-Phoma piperis (Tassi) Aa & Boerema, 1993 SPECIES
-=======
+# Phoma piperis (Tassi) Aa & Boerema, 1993 SPECIES
 
 #### Status
 ACCEPTED

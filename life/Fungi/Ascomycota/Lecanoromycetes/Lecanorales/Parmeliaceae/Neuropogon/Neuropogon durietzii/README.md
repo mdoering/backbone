@@ -1,5 +1,4 @@
-Neuropogon durietzii (Motyka) D.J. Galloway & Quilhot SPECIES
-=======
+# Neuropogon durietzii (Motyka) D.J. Galloway & Quilhot SPECIES
 
 #### Status
 ACCEPTED

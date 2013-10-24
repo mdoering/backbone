@@ -1,5 +1,4 @@
-Cytosporium persicae Brunaud SPECIES
-=======
+# Cytosporium persicae Brunaud SPECIES
 
 #### Status
 ACCEPTED

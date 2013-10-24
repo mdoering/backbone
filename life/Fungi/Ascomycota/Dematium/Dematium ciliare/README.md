@@ -1,5 +1,4 @@
-Dematium ciliare var. ciliare VARIETY
-=======
+# Dematium ciliare Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dematium ciliare var. ciliare
+Dematium ciliare Pers.
 
 ### Remarks
 null

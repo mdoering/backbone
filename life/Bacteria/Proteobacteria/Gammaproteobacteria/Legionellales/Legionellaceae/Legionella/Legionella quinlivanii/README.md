@@ -1,5 +1,4 @@
-Legionella quinlivanii Benson et al., 1990 SPECIES
-=======
+# Legionella quinlivanii Benson et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

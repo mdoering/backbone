@@ -1,5 +1,4 @@
-Milesia intermedia Faull SPECIES
-=======
+# Milesia intermedia Faull SPECIES
 
 #### Status
 ACCEPTED

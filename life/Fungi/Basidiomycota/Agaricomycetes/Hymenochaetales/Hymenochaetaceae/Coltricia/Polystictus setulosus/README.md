@@ -1,5 +1,4 @@
-Polystictus setulosus (Henn.) Lloyd SPECIES
-=======
+# Polystictus setulosus (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

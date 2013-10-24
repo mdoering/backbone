@@ -1,5 +1,4 @@
-Gnomonia salina E.B.G. Jones, 1962 SPECIES
-=======
+# Gnomonia salina E.B.G. Jones, 1962 SPECIES
 
 #### Status
 ACCEPTED

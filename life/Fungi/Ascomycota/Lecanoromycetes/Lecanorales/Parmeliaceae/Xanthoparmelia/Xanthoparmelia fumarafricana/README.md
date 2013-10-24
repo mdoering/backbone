@@ -1,5 +1,4 @@
-Xanthoparmelia fumarafricana Elix SPECIES
-=======
+# Xanthoparmelia fumarafricana Elix SPECIES
 
 #### Status
 ACCEPTED

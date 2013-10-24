@@ -1,17 +1,16 @@
-Hebeloma lignicolum Rick SPECIES
-=======
+# Hebeloma lignicola Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lilloa 3: 433 (1938)
 
 #### Original name
-Hebeloma lignicolum Rick
+Hebeloma lignicola Rick
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca tabidella (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca tabidella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanobacterium formicicum Schnellen, 1947 (Approved Lists, 1980) SPECIES
-=======
+# Methanobacterium formicicum Schnellen, 1947 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

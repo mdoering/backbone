@@ -1,5 +1,4 @@
-Spirillina tuberculata var. plana Wiesner, 1931 VARIETY
-=======
+# Spirillina tuberculata Brady, 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gubkinella Suleimanov, 1955 GENUS
-=======
+# Gubkinella Suleimanov, 1955 GENUS
 
 #### Status
 ACCEPTED

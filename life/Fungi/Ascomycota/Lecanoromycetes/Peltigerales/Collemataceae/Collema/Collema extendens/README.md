@@ -1,5 +1,4 @@
-Collema extendens Nyl. SPECIES
-=======
+# Collema extendens Nyl. SPECIES
 
 #### Status
 ACCEPTED

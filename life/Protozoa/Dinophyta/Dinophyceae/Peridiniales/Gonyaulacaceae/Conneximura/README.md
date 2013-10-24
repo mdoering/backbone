@@ -1,5 +1,4 @@
-Conneximura F.E. May, 1980 GENUS
-=======
+# Conneximura F.E. May, 1980 GENUS
 
 #### Status
 ACCEPTED

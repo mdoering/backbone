@@ -1,5 +1,4 @@
-Rhizophydium mammillatum (A. Braun) A. Fisch. SPECIES
-=======
+# Rhizophydium mammillatum (A. Braun) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nigromacula hypotrachynae Etayo, 2002 SPECIES
-=======
+# Nigromacula uniseptata (D. Hawksw.) D. Hawksw., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 84: 87 (2002)
+Lichenologist 35(3): 214 (2003)
 
 #### Original name
-Nigromacula hypotrachynae Etayo, 2002
+Vouauxiella uniseptata D. Hawksw., 1978
 
 ### Remarks
 null

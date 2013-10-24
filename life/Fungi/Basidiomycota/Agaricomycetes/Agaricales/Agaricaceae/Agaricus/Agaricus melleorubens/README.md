@@ -1,5 +1,4 @@
-Agaricus melleorubens Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus melleorubens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

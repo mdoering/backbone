@@ -1,5 +1,4 @@
-Parmelia abstrusoides Abbayes SPECIES
-=======
+# Parmelia abstrusoides Abbayes SPECIES
 
 #### Status
 ACCEPTED

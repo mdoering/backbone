@@ -1,14 +1,13 @@
-Rhizidiomycopsis bullata Sparrow, 1977 SPECIES
-=======
+# Rhizidiomyces bullatus (Sparrow) Karling, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 69(4): 665 (1977)
+Nova Hedwigia 34(3 & 4): 672 (1981)
 
 #### Original name
 Rhizidiomycopsis bullata Sparrow, 1977

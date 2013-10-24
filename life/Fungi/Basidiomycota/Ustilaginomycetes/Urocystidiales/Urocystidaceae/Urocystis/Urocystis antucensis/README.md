@@ -1,5 +1,4 @@
-Urocystis antucensis (Liro) Piatek SPECIES
-=======
+# Urocystis antucensis (Liro) Piatek SPECIES
 
 #### Status
 ACCEPTED

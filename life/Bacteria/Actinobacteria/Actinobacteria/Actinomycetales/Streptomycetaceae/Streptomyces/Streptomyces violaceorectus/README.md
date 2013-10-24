@@ -1,11 +1,10 @@
-Actinomyces violaceorectus Ryabova & Preobrazhenskaya, 1957 in Gauze et al., 1957 SPECIES
-=======
+# Streptomyces violaceorectus (Ryabova and Preobrazhenskaya, 1957) Pridham et al., 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Hebeloma griseoscabrosum (Peck) Sacc. SPECIES
-=======
+# Hebeloma griseoscabrosum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

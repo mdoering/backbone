@@ -1,5 +1,4 @@
-Puccinia jaliscensis Holw. SPECIES
-=======
+# Puccinia jaliscensis Holw. SPECIES
 
 #### Status
 ACCEPTED

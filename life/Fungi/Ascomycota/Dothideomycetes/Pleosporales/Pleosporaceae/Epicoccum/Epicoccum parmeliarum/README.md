@@ -1,5 +1,4 @@
-Epicoccum parmeliarum H. Olivier SPECIES
-=======
+# Epicoccum parmeliarum H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teloschistes validus (Müll. Arg.) Hillmann SPECIES
-=======
+# Teloschistes validus (Müll. Arg.) Hillmann SPECIES
 
 #### Status
 ACCEPTED

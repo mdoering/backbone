@@ -1,5 +1,4 @@
-Opegrapha fumosa Coppins & P. James SPECIES
-=======
+# Opegrapha fumosa Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

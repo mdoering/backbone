@@ -1,5 +1,4 @@
-Physcia laciniatula Stirt. SPECIES
-=======
+# Physcia laciniatula Stirt. SPECIES
 
 #### Status
 ACCEPTED

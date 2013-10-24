@@ -1,5 +1,4 @@
-Ophiostoma kryptum K. Jacobs & Kirisits SPECIES
-=======
+# Ophiostoma kryptum K. Jacobs & Kirisits SPECIES
 
 #### Status
 ACCEPTED

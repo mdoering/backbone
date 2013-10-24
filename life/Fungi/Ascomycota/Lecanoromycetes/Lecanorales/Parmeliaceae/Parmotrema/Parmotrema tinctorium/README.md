@@ -1,5 +1,4 @@
-Parmotrema tinctorium (Despr. ex Nyl.) Hale SPECIES
-=======
+# Parmotrema tinctorium (Despr. ex Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

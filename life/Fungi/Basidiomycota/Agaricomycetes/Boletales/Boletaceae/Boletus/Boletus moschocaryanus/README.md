@@ -1,5 +1,4 @@
-Boletus moschocaryanus Rumph. SPECIES
-=======
+# Boletus moschocaryanus Rumph. SPECIES
 
 #### Status
 ACCEPTED

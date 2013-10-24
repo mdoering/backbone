@@ -1,5 +1,4 @@
-Microsphaeropsis paliformis Matsush. SPECIES
-=======
+# Microsphaeropsis paliformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

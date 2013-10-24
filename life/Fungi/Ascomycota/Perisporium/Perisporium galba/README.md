@@ -1,5 +1,4 @@
-Perisporium galba Fr. SPECIES
-=======
+# Perisporium galba Fr. SPECIES
 
 #### Status
 ACCEPTED

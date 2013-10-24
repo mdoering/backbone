@@ -1,5 +1,4 @@
-Teichospora minima Ellis & Everh. SPECIES
-=======
+# Teichospora minima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

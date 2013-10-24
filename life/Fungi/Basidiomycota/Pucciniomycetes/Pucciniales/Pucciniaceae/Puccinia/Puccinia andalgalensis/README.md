@@ -1,5 +1,4 @@
-Puccinia andalgalensis J.C. Lindq. SPECIES
-=======
+# Puccinia andalgalensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

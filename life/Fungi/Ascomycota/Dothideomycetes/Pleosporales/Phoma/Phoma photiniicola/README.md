@@ -1,8 +1,7 @@
-Phoma photinicola Brunaud SPECIES
-=======
+# Phoma photiniicola Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma photinicola Brunaud
+Phoma photiniicola Brunaud
 
 ### Remarks
 null

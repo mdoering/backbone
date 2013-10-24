@@ -1,14 +1,13 @@
-Clathrospora cookei Wehm., 1952 SPECIES
-=======
+# Platysporoides cookei (Wehm.) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 44(5): 653 (1952)
+Can. J. Bot. 70(8): 1652 (1992)
 
 #### Original name
 Clathrospora cookei Wehm., 1952

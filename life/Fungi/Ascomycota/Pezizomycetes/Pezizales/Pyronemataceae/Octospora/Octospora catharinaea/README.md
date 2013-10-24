@@ -1,5 +1,4 @@
-Octospora catharinaea (McLennan & F. Halsey) Caillet & Moyne SPECIES
-=======
+# Octospora catharinaea (McLennan & F. Halsey) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

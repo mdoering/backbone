@@ -1,5 +1,4 @@
-Phomopsis sacchari Punith. SPECIES
-=======
+# Phomopsis sacchari Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fungus bernardii (Quél.) Kuntze, 1898 SPECIES
-=======
+# Agaricus bernardii Quél., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 479 (1898)
+Syll. fung. (Abellini) 5: 999 (1887)
 
 #### Original name
 Agaricus bernardii Quél., 1878

@@ -1,5 +1,4 @@
-Lachnum fuscidulum (Cooke) Raitv. SPECIES
-=======
+# Lachnum fuscidulum (Cooke) Raitv. SPECIES
 
 #### Status
 ACCEPTED

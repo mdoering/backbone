@@ -1,14 +1,13 @@
-Veronaea simplex Papendorf, 1969 SPECIES
-=======
+# Veronaeopsis simplex (Papendorf) Arzanlou & Crous, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 52: 486 (1969)
+in Arzanlou, Groenewald, Gams, Braun, Shin & Crous, Stud. Mycol. 58: 91 (2007)
 
 #### Original name
 Veronaea simplex Papendorf, 1969

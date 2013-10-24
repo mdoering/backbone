@@ -1,17 +1,16 @@
-Paraparmelia brownlieae Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia brownlieae (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 32(1): 401 (1988)
+null
 
 #### Original name
-Paraparmelia brownlieae Elix & J. Johnst.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea trigemmis Stizenb. SPECIES
-=======
+# Lecidea trigemmis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

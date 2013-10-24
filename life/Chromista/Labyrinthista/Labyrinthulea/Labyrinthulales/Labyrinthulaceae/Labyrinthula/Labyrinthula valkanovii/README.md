@@ -1,5 +1,4 @@
-Labyrinthula valkanovii Karling SPECIES
-=======
+# Labyrinthula valkanovii Karling SPECIES
 
 #### Status
 ACCEPTED

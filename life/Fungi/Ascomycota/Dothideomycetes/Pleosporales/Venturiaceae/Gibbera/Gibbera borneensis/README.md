@@ -1,5 +1,4 @@
-Gibbera borneensis Ces. SPECIES
-=======
+# Gibbera borneensis Ces. SPECIES
 
 #### Status
 ACCEPTED

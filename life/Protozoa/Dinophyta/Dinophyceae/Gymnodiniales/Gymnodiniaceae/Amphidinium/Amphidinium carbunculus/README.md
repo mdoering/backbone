@@ -1,5 +1,4 @@
-Amphidinium carbunculus Conrad & Kufferath SPECIES
-=======
+# Amphidinium carbunculus Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

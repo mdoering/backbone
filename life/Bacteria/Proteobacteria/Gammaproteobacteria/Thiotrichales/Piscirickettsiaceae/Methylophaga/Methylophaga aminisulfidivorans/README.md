@@ -1,5 +1,4 @@
-Methylophaga aminisulfidivorans Kim, Doronina, Trotsenko & Kim, 2007 SPECIES
-=======
+# Methylophaga aminisulfidivorans Kim, Doronina, Trotsenko & Kim, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria acuta Peck SPECIES
-=======
+# Xylaria acuta Peck SPECIES
 
 #### Status
 ACCEPTED

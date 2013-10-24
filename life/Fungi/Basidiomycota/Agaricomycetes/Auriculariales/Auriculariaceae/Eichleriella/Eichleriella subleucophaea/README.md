@@ -1,5 +1,4 @@
-Eichleriella subleucophaea McNabb, 1969 SPECIES
-=======
+# Eichleriella subleucophaea McNabb, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota tournefortii (Lamouroux) Poiret SPECIES
-=======
+# Dictyota tournefortii (Lamouroux) Poiret SPECIES
 
 #### Status
 ACCEPTED

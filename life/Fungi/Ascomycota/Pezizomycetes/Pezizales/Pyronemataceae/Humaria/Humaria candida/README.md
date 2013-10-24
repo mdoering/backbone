@@ -1,5 +1,4 @@
-Humaria candida Rodway SPECIES
-=======
+# Humaria candida Rodway SPECIES
 
 #### Status
 ACCEPTED

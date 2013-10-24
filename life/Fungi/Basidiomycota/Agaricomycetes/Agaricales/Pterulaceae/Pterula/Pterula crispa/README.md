@@ -1,5 +1,4 @@
-Pterula crispa Rick SPECIES
-=======
+# Pterula crispa Rick SPECIES
 
 #### Status
 ACCEPTED

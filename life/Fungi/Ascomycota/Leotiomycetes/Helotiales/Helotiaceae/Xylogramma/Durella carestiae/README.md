@@ -1,14 +1,13 @@
-Triblidium carestiae (De Not.) Rehm, 1888 SPECIES
-=======
+# Durella carestiae (De Not.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 197 (1888)
+Syll. fung. (Abellini) 8: 791 (1889)
 
 #### Original name
 Blitridium carestiae De Not., 1868

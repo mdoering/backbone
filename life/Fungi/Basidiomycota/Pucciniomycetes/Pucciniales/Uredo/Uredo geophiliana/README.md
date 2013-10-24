@@ -1,5 +1,4 @@
-Uredo geophiliana J.M. Yen & Gilles SPECIES
-=======
+# Uredo geophiliana J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Batistiaceae Samuels & K.F. Rodrigues FAMILY
-=======
+# Batistiaceae Samuels & K.F. Rodrigues FAMILY
 
 #### Status
 ACCEPTED

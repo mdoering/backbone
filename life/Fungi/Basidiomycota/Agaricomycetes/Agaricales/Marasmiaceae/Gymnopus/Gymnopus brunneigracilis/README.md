@@ -1,5 +1,4 @@
-Gymnopus brunneigracilis (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus brunneigracilis (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

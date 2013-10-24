@@ -1,5 +1,4 @@
-Leptothyrella rosae Edward et al. {?} SPECIES
-=======
+# Leptothyrella rosae Edward et al. {?} SPECIES
 
 #### Status
 ACCEPTED

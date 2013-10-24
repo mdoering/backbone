@@ -1,5 +1,4 @@
-Phyllosticta amaryllidicola Aa SPECIES
-=======
+# Phyllosticta amaryllidicola Aa SPECIES
 
 #### Status
 ACCEPTED

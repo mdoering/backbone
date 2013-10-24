@@ -1,5 +1,4 @@
-Bacidia alaskensis (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia alaskensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

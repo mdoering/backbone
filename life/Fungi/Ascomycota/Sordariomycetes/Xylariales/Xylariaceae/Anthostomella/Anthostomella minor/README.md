@@ -1,5 +1,4 @@
-Anthostomella minor var. minor VARIETY
-=======
+# Anthostomella minor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 3(4): 43 (1887)
 
 #### Original name
-Anthostomella minor var. minor
+Anthostomella minor Ellis & Everh.
 
 ### Remarks
 null

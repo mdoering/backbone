@@ -1,5 +1,4 @@
-Staurothele acarosporoides var. acarosporoides VARIETY
-=======
+# Staurothele acarosporoides Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Bot. , London 34: 264 (1896)
 
 #### Original name
-Staurothele acarosporoides var. acarosporoides
+Staurothele acarosporoides Vain.
 
 ### Remarks
 null

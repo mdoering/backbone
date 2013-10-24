@@ -1,5 +1,4 @@
-Mycosphaerella cucurbitae (Rostr.) Lind SPECIES
-=======
+# Mycosphaerella cucurbitae (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

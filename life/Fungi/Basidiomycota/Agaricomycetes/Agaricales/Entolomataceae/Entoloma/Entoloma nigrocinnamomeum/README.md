@@ -1,5 +1,4 @@
-Entoloma nigrocinnamomeum (Kalchbr. & Schulzer) Sacc. SPECIES
-=======
+# Entoloma nigrocinnamomeum (Kalchbr. & Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

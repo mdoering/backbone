@@ -1,5 +1,4 @@
-Spiropes bakeri M.B. Ellis SPECIES
-=======
+# Spiropes bakeri M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

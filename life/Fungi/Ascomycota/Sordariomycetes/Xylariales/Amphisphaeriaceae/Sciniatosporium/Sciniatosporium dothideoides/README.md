@@ -1,5 +1,4 @@
-Sciniatosporium dothideoides (Ellis & Everh.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium dothideoides (Ellis & Everh.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

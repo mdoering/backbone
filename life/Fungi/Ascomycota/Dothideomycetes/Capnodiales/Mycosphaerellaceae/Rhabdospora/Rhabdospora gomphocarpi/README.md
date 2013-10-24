@@ -1,5 +1,4 @@
-Rhabdospora gomphocarpi Tassi SPECIES
-=======
+# Rhabdospora gomphocarpi Tassi SPECIES
 
 #### Status
 ACCEPTED

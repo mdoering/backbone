@@ -1,5 +1,4 @@
-Agrocybe microspora Singer SPECIES
-=======
+# Agrocybe microspora Singer SPECIES
 
 #### Status
 ACCEPTED

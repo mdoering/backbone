@@ -1,5 +1,4 @@
-Graphis cheilomegas Fée SPECIES
-=======
+# Graphis cheilomegas Fée SPECIES
 
 #### Status
 ACCEPTED

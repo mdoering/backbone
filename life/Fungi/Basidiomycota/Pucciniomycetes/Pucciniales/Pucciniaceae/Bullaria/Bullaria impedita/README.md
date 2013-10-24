@@ -1,5 +1,4 @@
-Bullaria impedita (Mains & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria impedita (Mains & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

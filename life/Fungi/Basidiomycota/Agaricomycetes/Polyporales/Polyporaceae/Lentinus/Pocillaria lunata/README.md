@@ -1,5 +1,4 @@
-Pocillaria lunata (Fr.) Kuntze SPECIES
-=======
+# Pocillaria lunata (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

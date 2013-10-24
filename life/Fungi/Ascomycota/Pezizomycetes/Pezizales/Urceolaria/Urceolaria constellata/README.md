@@ -1,5 +1,4 @@
-Urceolaria constellata (Ach.) Müll. Arg. SPECIES
-=======
+# Urceolaria constellata (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

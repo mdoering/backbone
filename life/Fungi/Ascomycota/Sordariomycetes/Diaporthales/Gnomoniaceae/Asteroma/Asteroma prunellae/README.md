@@ -1,5 +1,4 @@
-Asteroma prunellae Purton, 1836 SPECIES
-=======
+# Asteroma prunellae Purton, 1836 SPECIES
 
 #### Status
 ACCEPTED

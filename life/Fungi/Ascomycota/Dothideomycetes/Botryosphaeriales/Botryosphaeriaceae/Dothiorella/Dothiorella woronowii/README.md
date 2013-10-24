@@ -1,5 +1,4 @@
-Dothiorella woronowii Petr. SPECIES
-=======
+# Dothiorella woronowii Petr. SPECIES
 
 #### Status
 ACCEPTED

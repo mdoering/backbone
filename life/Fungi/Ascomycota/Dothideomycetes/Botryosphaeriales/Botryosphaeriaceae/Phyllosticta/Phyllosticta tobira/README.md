@@ -1,5 +1,4 @@
-Phyllosticta tobira Gucevic SPECIES
-=======
+# Phyllosticta tobira Gucevic SPECIES
 
 #### Status
 ACCEPTED

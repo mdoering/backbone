@@ -1,5 +1,4 @@
-Rhytisma xylostei Naumov SPECIES
-=======
+# Rhytisma xylostei Naumov SPECIES
 
 #### Status
 ACCEPTED

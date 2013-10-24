@@ -1,5 +1,4 @@
-Macrophoma heterospora Traverso & Migliardi SPECIES
-=======
+# Macrophoma heterospora Traverso & Migliardi SPECIES
 
 #### Status
 ACCEPTED

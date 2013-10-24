@@ -1,5 +1,4 @@
-Platysticta GENUS
-=======
+# Platysticta GENUS
 
 #### Status
 ACCEPTED

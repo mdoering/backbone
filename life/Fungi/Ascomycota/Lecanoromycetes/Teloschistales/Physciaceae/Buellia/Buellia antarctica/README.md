@@ -1,5 +1,4 @@
-Buellia antarctica SPECIES
-=======
+# Buellia antarctica SPECIES
 
 #### Status
 ACCEPTED

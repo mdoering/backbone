@@ -1,5 +1,4 @@
-Creonectria granuligera (Starbäck) Seaver SPECIES
-=======
+# Creonectria granuligera (Starbäck) Seaver SPECIES
 
 #### Status
 ACCEPTED

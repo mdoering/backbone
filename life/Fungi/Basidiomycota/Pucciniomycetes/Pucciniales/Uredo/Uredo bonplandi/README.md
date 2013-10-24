@@ -1,17 +1,16 @@
-Uredo bonplandii Speg. SPECIES
-=======
+# Uredo bonplandi Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista Argent. Bot. 1(2-3): 134 (1925)
 
 #### Original name
-Uredo bonplandii Speg.
+Uredo bonplandi Speg.
 
 ### Remarks
 null

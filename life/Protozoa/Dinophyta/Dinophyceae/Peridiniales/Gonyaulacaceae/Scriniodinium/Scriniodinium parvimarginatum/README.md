@@ -1,5 +1,4 @@
-Scriniodinium parvimarginatum Cookson & Eisenack SPECIES
-=======
+# Scriniodinium parvimarginatum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula xyloides (Eschw.) Müll. Arg. SPECIES
-=======
+# Pyrenula xyloides (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

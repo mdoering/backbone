@@ -1,5 +1,4 @@
-Clavaria corticalis Batsch SPECIES
-=======
+# Clavaria corticalis Batsch SPECIES
 
 #### Status
 ACCEPTED

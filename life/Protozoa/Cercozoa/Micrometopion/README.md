@@ -1,5 +1,4 @@
-Micrometopion Cavalier-Smith, 2011 GENUS
-=======
+# Micrometopion Cavalier-Smith, 2011 GENUS
 
 #### Status
 ACCEPTED

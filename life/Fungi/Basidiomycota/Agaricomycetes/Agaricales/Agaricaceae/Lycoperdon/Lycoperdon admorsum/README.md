@@ -1,5 +1,4 @@
-Lycoperdon admorsum J.F. Gmel. SPECIES
-=======
+# Lycoperdon admorsum J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

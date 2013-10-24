@@ -1,5 +1,4 @@
-Lepiota imerinensis (Bouriquet) Bouriquet SPECIES
-=======
+# Lepiota imerinensis (Bouriquet) Bouriquet SPECIES
 
 #### Status
 ACCEPTED

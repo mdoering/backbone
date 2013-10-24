@@ -1,5 +1,4 @@
-Fusarium vinosum Greco SPECIES
-=======
+# Fusarium vinosum Greco SPECIES
 
 #### Status
 ACCEPTED

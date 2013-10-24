@@ -1,5 +1,4 @@
-Entoloma dissimile (Singer) E. Horak SPECIES
-=======
+# Entoloma dissimile (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

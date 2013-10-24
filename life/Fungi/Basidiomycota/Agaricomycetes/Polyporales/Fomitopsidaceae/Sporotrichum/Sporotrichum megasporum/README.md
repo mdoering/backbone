@@ -1,5 +1,4 @@
-Sporotrichum megasporum Elphick & G. Sm. SPECIES
-=======
+# Sporotrichum megasporum Elphick & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

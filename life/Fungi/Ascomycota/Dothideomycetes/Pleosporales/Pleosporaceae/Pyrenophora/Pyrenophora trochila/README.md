@@ -1,5 +1,4 @@
-Pyrenophora trochila (Fr.) Starbäck SPECIES
-=======
+# Pyrenophora trochila (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

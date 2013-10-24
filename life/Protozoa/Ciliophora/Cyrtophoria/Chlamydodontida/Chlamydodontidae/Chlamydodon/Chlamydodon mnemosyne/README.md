@@ -1,8 +1,7 @@
-Chlamydodon mnemosine Ehrenberg, 1835 SPECIES
-=======
+# Chlamydodon mnemosyne Ehrenberg, 1835 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

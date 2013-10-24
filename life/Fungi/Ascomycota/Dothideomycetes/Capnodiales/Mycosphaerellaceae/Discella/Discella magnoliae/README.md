@@ -1,5 +1,4 @@
-Discella magnoliae Berk. & M.A. Curtis SPECIES
-=======
+# Discella magnoliae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

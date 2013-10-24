@@ -1,5 +1,4 @@
-Cercospora laburni W.W. Ray SPECIES
-=======
+# Cercospora laburni W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

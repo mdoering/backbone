@@ -1,5 +1,4 @@
-Lecidea luridella Tuck. SPECIES
-=======
+# Lecidea luridella Tuck. SPECIES
 
 #### Status
 ACCEPTED

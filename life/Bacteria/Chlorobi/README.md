@@ -1,5 +1,4 @@
-Chlorobi Garrity & Holt, 2001 PHYLUM
-=======
+# Chlorobi Garrity & Holt, 2001 PHYLUM
 
 #### Status
 ACCEPTED

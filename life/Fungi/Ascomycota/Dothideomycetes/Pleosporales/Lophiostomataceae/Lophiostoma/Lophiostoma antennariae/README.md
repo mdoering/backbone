@@ -1,5 +1,4 @@
-Lophiostoma antennariae Cherepanov {?} SPECIES
-=======
+# Lophiostoma antennariae Cherepanov {?} SPECIES
 
 #### Status
 ACCEPTED

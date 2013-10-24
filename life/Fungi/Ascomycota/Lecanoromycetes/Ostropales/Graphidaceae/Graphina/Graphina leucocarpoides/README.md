@@ -1,5 +1,4 @@
-Graphina leucocarpoides (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina leucocarpoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

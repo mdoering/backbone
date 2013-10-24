@@ -1,5 +1,4 @@
-Cortinarius aerugineoconicus E. Horak, 1990 SPECIES
-=======
+# Cortinarius aerugineoconicus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

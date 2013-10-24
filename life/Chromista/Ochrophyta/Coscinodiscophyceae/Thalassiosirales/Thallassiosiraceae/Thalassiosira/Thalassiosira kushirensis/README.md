@@ -1,8 +1,7 @@
-Thalassiosira solitaria Gayoso SPECIES
-=======
+# Thalassiosira kushirensis Takano SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

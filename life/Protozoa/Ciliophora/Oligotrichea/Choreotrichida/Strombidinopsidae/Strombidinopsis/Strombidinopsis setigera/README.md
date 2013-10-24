@@ -1,5 +1,4 @@
-Strombidinopsis setigera Stokes, 1885 SPECIES
-=======
+# Strombidinopsis setigera Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

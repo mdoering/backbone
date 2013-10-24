@@ -1,5 +1,4 @@
-Carpathiella Myatlyuk, 1966 GENUS
-=======
+# Carpathiella Myatlyuk, 1966 GENUS
 
 #### Status
 ACCEPTED

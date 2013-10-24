@@ -1,5 +1,4 @@
-Kazachstania sinensis (M.X. Li, X.H. Fu & R.G. Tang) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania sinensis (M.X. Li, X.H. Fu & R.G. Tang) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

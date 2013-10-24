@@ -1,5 +1,4 @@
-Acompsomyces pauperculus Thaxt. SPECIES
-=======
+# Acompsomyces pauperculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria crenulata P. M. Jørg. SPECIES
-=======
+# Pannaria crenulata P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

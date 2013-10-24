@@ -1,5 +1,4 @@
-Lepiota cycadearum Henn. SPECIES
-=======
+# Lepiota cycadearum Henn. SPECIES
 
 #### Status
 ACCEPTED

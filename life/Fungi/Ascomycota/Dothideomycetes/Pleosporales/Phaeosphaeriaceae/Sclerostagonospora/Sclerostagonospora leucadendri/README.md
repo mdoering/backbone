@@ -1,5 +1,4 @@
-Sclerostagonospora leucadendri Crous & M.E. Palm SPECIES
-=======
+# Sclerostagonospora leucadendri Crous & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

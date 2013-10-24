@@ -1,5 +1,4 @@
-Stephanopyxis kulmii H. J. Schrader SPECIES
-=======
+# Stephanopyxis kulmii H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

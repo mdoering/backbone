@@ -1,5 +1,4 @@
-Pyronema wagnerianum Rehm SPECIES
-=======
+# Pyronema wagnerianum Rehm SPECIES
 
 #### Status
 ACCEPTED

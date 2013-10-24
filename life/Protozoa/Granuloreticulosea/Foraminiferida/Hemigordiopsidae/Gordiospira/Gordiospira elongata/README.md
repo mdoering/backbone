@@ -1,5 +1,4 @@
-Gordiospira elongata (Collins, 1958) SPECIES
-=======
+# Gordiospira elongata (Collins, 1958) SPECIES
 
 #### Status
 ACCEPTED

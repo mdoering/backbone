@@ -1,5 +1,4 @@
-Micropeltidium psychotriae (Bat.) Bat. SPECIES
-=======
+# Micropeltidium psychotriae (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

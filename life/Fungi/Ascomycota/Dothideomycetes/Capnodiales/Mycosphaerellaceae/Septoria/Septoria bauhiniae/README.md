@@ -1,5 +1,4 @@
-Septoria bauhiniae M.S. Ali & Saikia SPECIES
-=======
+# Septoria bauhiniae M.S. Ali & Saikia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Condylostoma reichi Wilbert & Kahan, 1981 SPECIES
-=======
+# Condylostoma reichi Wilbert & Kahan, 1981 SPECIES
 
 #### Status
 ACCEPTED

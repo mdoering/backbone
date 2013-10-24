@@ -1,5 +1,4 @@
-Pythium autumnale Sadeb. SPECIES
-=======
+# Pythium autumnale Sadeb. SPECIES
 
 #### Status
 ACCEPTED

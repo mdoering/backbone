@@ -1,5 +1,4 @@
-Conoplea sphaerica (Pers.) Pers. SPECIES
-=======
+# Conoplea sphaerica (Pers.) Pers. SPECIES
 
 #### Status
 ACCEPTED

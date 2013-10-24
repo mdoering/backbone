@@ -1,5 +1,4 @@
-Uredo amazonensis Henn. SPECIES
-=======
+# Uredo amazonensis Henn. SPECIES
 
 #### Status
 ACCEPTED

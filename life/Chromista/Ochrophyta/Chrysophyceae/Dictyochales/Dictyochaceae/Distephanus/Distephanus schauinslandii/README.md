@@ -1,5 +1,4 @@
-Distephanus schauinslandii Lemmermann SPECIES
-=======
+# Distephanus schauinslandii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

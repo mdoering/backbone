@@ -1,5 +1,4 @@
-Lepiota pseudoroseola Dennis SPECIES
-=======
+# Lepiota pseudoroseola Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium lugubre (Servít) Servít SPECIES
-=======
+# Amphoridium lugubre (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

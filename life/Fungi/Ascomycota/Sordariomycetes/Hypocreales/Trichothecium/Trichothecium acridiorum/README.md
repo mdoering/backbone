@@ -1,5 +1,4 @@
-Trichothecium acridiorum (Trab.) Madelin SPECIES
-=======
+# Trichothecium acridiorum (Trab.) Madelin SPECIES
 
 #### Status
 ACCEPTED

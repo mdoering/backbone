@@ -1,5 +1,4 @@
-Stigmidium icmadophilae R. Sant. SPECIES
-=======
+# Stigmidium icmadophilae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

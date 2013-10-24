@@ -1,5 +1,4 @@
-Puccinia osmorrhizae Cooke & Peck SPECIES
-=======
+# Puccinia osmorrhizae Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

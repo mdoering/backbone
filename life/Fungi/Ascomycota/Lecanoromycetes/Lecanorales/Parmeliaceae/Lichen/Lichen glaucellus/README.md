@@ -1,5 +1,4 @@
-Lichen glaucellus (Flörke) Lam. SPECIES
-=======
+# Lichen glaucellus (Flörke) Lam. SPECIES
 
 #### Status
 ACCEPTED

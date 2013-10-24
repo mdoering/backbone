@@ -1,5 +1,4 @@
-Ravenelia echinata var. echinata VARIETY
-=======
+# Ravenelia echinata Lagerh. & Dietel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 33: 45 & 65 (1894)
 
 #### Original name
-Ravenelia echinata var. echinata
+Ravenelia echinata Lagerh. & Dietel
 
 ### Remarks
 null

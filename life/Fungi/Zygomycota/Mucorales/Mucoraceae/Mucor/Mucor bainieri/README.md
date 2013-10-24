@@ -1,17 +1,16 @@
-Mucor racemosus var. tenuis (Bainier) Burgeff, 1924 VARIETY
-=======
+# Mucor bainieri B.S. Mehrotra & Baijal, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Abh. 4: 41 (1924)
+Aliso 5: 237 (1963)
 
 #### Original name
-Mucor tenuis Bainier, 1883
+Mucor bainieri B.S. Mehrotra & Baijal, 1963
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Sphaeria rimularum Cooke, 1878 SPECIES
-=======
+# Metasphaeria rimularum (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 6(no. 40): 146 (1878)
+Syll. fung. (Abellini) 2: 181 (1883)
 
 #### Original name
 Sphaeria rimularum Cooke, 1878

@@ -1,5 +1,4 @@
-Camarosporium farsetiae S. Ahmad SPECIES
-=======
+# Camarosporium farsetiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

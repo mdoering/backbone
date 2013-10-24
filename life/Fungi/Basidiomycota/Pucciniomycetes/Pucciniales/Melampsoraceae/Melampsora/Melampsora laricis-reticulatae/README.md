@@ -1,5 +1,4 @@
-Melampsora laricis-reticulatae W.G. Schneid. SPECIES
-=======
+# Melampsora laricis-reticulatae W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

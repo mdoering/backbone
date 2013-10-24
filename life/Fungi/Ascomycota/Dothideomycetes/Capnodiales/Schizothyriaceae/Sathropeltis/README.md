@@ -1,5 +1,4 @@
-Sathropeltis GENUS
-=======
+# Sathropeltis GENUS
 
 #### Status
 ACCEPTED

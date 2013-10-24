@@ -1,5 +1,4 @@
-Parmelia leonora Spreng. ex A. Massal. SPECIES
-=======
+# Parmelia leonora Spreng. ex A. Massal. SPECIES
 
 #### Status
 ACCEPTED

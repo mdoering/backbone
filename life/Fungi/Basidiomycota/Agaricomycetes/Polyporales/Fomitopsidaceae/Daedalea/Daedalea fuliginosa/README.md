@@ -1,5 +1,4 @@
-Daedalea fuliginosa Lév. SPECIES
-=======
+# Daedalea fuliginosa Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tarichium oplitidis Balazy & J. Wisn. SPECIES
-=======
+# Tarichium oplitidis Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

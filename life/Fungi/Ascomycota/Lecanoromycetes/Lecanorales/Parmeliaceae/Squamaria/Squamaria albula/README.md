@@ -1,5 +1,4 @@
-Squamaria albula Nyl. SPECIES
-=======
+# Squamaria albula Nyl. SPECIES
 
 #### Status
 ACCEPTED

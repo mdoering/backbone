@@ -1,5 +1,4 @@
-Trichopeziza floccosa (Lasch) Sacc. SPECIES
-=======
+# Trichopeziza floccosa (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

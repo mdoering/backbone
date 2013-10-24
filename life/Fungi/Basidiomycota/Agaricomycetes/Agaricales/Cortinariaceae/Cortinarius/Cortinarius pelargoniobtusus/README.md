@@ -1,5 +1,4 @@
-Cortinarius pelargoniobtusus Rob. Henry SPECIES
-=======
+# Cortinarius pelargoniobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

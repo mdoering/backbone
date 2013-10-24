@@ -1,5 +1,4 @@
-Lecanora diffusilis Nyl. SPECIES
-=======
+# Lecanora diffusilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

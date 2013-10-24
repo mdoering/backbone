@@ -1,5 +1,4 @@
-Gomphidius britannicus A.Z.M. Khan & Hora SPECIES
-=======
+# Gomphidius britannicus A.Z.M. Khan & Hora SPECIES
 
 #### Status
 ACCEPTED

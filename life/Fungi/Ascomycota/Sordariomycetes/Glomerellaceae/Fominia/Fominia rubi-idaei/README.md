@@ -1,5 +1,4 @@
-Fominia rubi-idaei Girz. SPECIES
-=======
+# Fominia rubi-idaei Girz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia mangiferae (Koord.) Petr. SPECIES
-=======
+# Botryodiplodia mangiferae (Koord.) Petr. SPECIES
 
 #### Status
 ACCEPTED

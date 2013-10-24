@@ -1,5 +1,4 @@
-Lacrimasporonites cupuliformis (Sheffy & Dilcher) D.L.E. Glass, D.D. Br. & Elsik SPECIES
-=======
+# Lacrimasporonites cupuliformis (Sheffy & Dilcher) D.L.E. Glass, D.D. Br. & Elsik SPECIES
 
 #### Status
 ACCEPTED

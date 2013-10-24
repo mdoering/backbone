@@ -1,17 +1,16 @@
-Fusarium microsera var. microsera VARIETY
-=======
+# Fusarium microsera Bilai SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fusarii 292 (1955)
 
 #### Original name
-null
+Fusarium microsera Bilai
 
 ### Remarks
 null

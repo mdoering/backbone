@@ -1,5 +1,4 @@
-Lepraria murorum Grev. SPECIES
-=======
+# Lepraria murorum Grev. SPECIES
 
 #### Status
 ACCEPTED

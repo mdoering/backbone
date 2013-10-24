@@ -1,5 +1,4 @@
-Dictyopeltis erythroxyli Bat. & A.F. Vital SPECIES
-=======
+# Dictyopeltis erythroxyli Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

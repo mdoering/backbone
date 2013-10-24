@@ -1,5 +1,4 @@
-Clara Eigner, 1997 GENUS
-=======
+# Clara Eigner, 1997 GENUS
 
 #### Status
 ACCEPTED

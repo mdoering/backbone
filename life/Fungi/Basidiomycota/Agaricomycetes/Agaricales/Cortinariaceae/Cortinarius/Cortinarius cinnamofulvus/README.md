@@ -1,5 +1,4 @@
-Cortinarius cinnamofulvus Rob. Henry SPECIES
-=======
+# Cortinarius cinnamofulvus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

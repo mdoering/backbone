@@ -1,14 +1,13 @@
-Polyporus pudens Berk., 1854 SPECIES
-=======
+# Amauroderma pudens (Berk.) Ryvarden, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 6: 138 (1854)
+Norw. Jl Bot. 24: 225 (1977)
 
 #### Original name
 Polyporus pudens Berk., 1854

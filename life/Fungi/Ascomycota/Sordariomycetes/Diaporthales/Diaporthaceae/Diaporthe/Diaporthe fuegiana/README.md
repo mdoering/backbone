@@ -1,5 +1,4 @@
-Diaporthe fuegiana Speg. SPECIES
-=======
+# Diaporthe fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

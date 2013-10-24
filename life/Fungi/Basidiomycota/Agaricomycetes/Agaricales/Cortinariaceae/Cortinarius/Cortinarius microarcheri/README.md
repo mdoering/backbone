@@ -1,5 +1,4 @@
-Cortinarius microarcheri Cleland SPECIES
-=======
+# Cortinarius microarcheri Cleland SPECIES
 
 #### Status
 ACCEPTED

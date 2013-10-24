@@ -1,5 +1,4 @@
-Phlegmacium roseolimbatum Secr. ex M.M. Moser SPECIES
-=======
+# Phlegmacium roseolimbatum Secr. ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia glaucoatra (Nyl.) Clauzade SPECIES
-=======
+# Buellia glaucoatra (Nyl.) Clauzade SPECIES
 
 #### Status
 ACCEPTED

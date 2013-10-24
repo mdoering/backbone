@@ -1,5 +1,4 @@
-Tephromela taurica Motyka SPECIES
-=======
+# Tephromela taurica Motyka SPECIES
 
 #### Status
 ACCEPTED

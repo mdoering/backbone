@@ -1,5 +1,4 @@
-Sporophlyctis Serbinow GENUS
-=======
+# Sporophlyctis Serbinow GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora pseudopannosa anon. SPECIES
-=======
+# Thelephora pseudopannosa anon. SPECIES
 
 #### Status
 ACCEPTED

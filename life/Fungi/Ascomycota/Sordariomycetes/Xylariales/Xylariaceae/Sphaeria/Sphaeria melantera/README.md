@@ -1,5 +1,4 @@
-Sphaeria melantera Peck SPECIES
-=======
+# Sphaeria melantera Peck SPECIES
 
 #### Status
 ACCEPTED

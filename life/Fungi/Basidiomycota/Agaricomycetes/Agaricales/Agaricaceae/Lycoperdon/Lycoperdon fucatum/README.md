@@ -1,5 +1,4 @@
-Lycoperdon fucatum Lév. SPECIES
-=======
+# Lycoperdon fucatum Lév. SPECIES
 
 #### Status
 ACCEPTED

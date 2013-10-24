@@ -1,17 +1,16 @@
-Dothidea repens var. repens (Corda) Berk. VARIETY
-=======
+# Phyllachora repens (Corda) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 6: 231 (1854)
+Syll. fung. (Abellini) 2: 597 (1883)
 
 #### Original name
-Dothidea repens var. repens (Corda) Berk.
+Sphaeria repens Corda, 1840
 
 ### Remarks
 null

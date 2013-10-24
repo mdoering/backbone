@@ -1,5 +1,4 @@
-Acrotheca campiniae Rambelli SPECIES
-=======
+# Acrotheca campiniae Rambelli SPECIES
 
 #### Status
 ACCEPTED

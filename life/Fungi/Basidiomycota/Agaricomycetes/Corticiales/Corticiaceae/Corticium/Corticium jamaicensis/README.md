@@ -1,17 +1,16 @@
-Corticium jamaicense Burt SPECIES
-=======
+# Corticium jamaicensis Burt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 13(3): 273 (1926)
 
 #### Original name
-Corticium jamaicense Burt
+Corticium jamaicensis Burt
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Linocarpon maritimum (Sacc.) Petr. SPECIES
-=======
+# Linocarpon maritimum (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

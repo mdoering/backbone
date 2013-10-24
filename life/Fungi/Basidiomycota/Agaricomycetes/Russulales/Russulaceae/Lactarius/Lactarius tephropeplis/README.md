@@ -1,5 +1,4 @@
-Lactarius tephropeplis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius tephropeplis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

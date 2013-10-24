@@ -1,5 +1,4 @@
-Puccinia gei McAlpine, 1895 SPECIES
-=======
+# Puccinia gei McAlpine, 1895 SPECIES
 
 #### Status
 ACCEPTED

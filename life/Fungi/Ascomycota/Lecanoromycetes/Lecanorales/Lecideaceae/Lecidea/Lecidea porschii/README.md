@@ -1,5 +1,4 @@
-Lecidea porschii (Jatta) J. Steiner SPECIES
-=======
+# Lecidea porschii (Jatta) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

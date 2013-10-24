@@ -1,5 +1,4 @@
-Paxillus chrysites Berk. SPECIES
-=======
+# Paxillus chrysites Berk. SPECIES
 
 #### Status
 ACCEPTED

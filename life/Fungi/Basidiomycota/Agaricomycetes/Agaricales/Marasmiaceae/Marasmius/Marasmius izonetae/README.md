@@ -1,5 +1,4 @@
-Marasmius izonetae Singer SPECIES
-=======
+# Marasmius izonetae Singer SPECIES
 
 #### Status
 ACCEPTED

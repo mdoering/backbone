@@ -1,5 +1,4 @@
-Sistotremastrum suecicum Litsch. ex J. Erikss., 1958 SPECIES
-=======
+# Sistotremastrum suecicum Litsch. ex J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED

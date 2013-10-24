@@ -1,5 +1,4 @@
-Puccinia pachycarpi Kalchbr. & Cooke SPECIES
-=======
+# Puccinia pachycarpi Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

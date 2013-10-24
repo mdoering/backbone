@@ -1,5 +1,4 @@
-Phyllosticta allantella Sacc. SPECIES
-=======
+# Phyllosticta allantella Sacc. SPECIES
 
 #### Status
 ACCEPTED

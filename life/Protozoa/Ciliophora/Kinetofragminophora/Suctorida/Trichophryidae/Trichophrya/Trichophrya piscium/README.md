@@ -1,8 +1,7 @@
-Capriniana aurantiaca (Mazzarelli, 1906) Strand, 1928 SPECIES
-=======
+# Trichophrya piscium Bütschli, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

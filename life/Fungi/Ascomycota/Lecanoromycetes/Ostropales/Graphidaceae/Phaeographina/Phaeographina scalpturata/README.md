@@ -1,5 +1,4 @@
-Phaeographina scalpturata var. scalpturata VARIETY
-=======
+# Phaeographina scalpturata (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 65: 399 (1882)
 
 #### Original name
-Phaeographina scalpturata var. scalpturata
+Graphis scalpturata Ach.
 
 ### Remarks
 null

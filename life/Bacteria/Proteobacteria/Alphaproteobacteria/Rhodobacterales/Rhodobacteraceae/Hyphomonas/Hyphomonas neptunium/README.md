@@ -1,14 +1,13 @@
-Hyphomicrobium neptunium Leifson, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Hyphomonas neptunium (Leifson, 1964) Moore et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Leifson, E. "Hyphomicrobium neptunium sp. n. " Antonie van Leeuwenhoek J. Microbiol. Serol. (1964) 30: 249-256.
 
 #### Original name
 null

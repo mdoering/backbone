@@ -1,5 +1,4 @@
-Phormidium mucicola f. crassum Skuja FORM
-=======
+# Phormidium mucicola Huber-PeStalozzi & Naumann SPECIES
 
 #### Status
 ACCEPTED

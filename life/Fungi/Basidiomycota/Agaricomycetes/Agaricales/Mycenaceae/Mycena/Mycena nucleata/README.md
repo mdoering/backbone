@@ -1,5 +1,4 @@
-Mycena nucleata X. He & X.D. Fang SPECIES
-=======
+# Mycena nucleata X. He & X.D. Fang SPECIES
 
 #### Status
 ACCEPTED

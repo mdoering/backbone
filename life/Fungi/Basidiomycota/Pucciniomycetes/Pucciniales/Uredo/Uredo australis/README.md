@@ -1,5 +1,4 @@
-Uredo australis Dietel & Neger SPECIES
-=======
+# Uredo australis Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

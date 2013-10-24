@@ -1,5 +1,4 @@
-Tricladium terrestre D. Park, 1974 SPECIES
-=======
+# Tricladium terrestre D. Park, 1974 SPECIES
 
 #### Status
 ACCEPTED

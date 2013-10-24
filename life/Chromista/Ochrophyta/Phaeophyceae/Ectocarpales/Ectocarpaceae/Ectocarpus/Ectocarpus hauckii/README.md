@@ -1,5 +1,4 @@
-Ectocarpus hauckii A. Ercegovic SPECIES
-=======
+# Ectocarpus hauckii A. Ercegovic SPECIES
 
 #### Status
 ACCEPTED

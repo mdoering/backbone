@@ -1,5 +1,4 @@
-Cladosporium epimyces Cooke, 1882 SPECIES
-=======
+# Cladosporium epimyces Cooke, 1882 SPECIES
 
 #### Status
 ACCEPTED

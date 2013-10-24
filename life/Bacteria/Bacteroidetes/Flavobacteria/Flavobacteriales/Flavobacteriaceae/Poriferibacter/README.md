@@ -1,5 +1,4 @@
-Poriferibacter GENUS
-=======
+# Poriferibacter GENUS
 
 #### Status
 ACCEPTED

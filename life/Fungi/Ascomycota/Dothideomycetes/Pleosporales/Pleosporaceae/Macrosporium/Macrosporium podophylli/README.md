@@ -1,5 +1,4 @@
-Macrosporium podophylli Ellis & Everh. SPECIES
-=======
+# Macrosporium podophylli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

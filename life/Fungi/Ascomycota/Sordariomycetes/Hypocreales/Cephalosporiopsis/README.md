@@ -1,5 +1,4 @@
-Cephalosporiopsis Peyronel, 1915 GENUS
-=======
+# Cephalosporiopsis Peyronel, 1915 GENUS
 
 #### Status
 ACCEPTED

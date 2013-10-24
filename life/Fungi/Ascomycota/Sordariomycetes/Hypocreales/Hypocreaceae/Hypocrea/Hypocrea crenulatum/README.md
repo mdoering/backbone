@@ -1,5 +1,4 @@
-Hypocrea crenulatum Berk. SPECIES
-=======
+# Hypocrea crenulatum Berk. SPECIES
 
 #### Status
 ACCEPTED

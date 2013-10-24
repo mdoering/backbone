@@ -1,5 +1,4 @@
-Bacidia embergeri Werner SPECIES
-=======
+# Bacidia embergeri Werner SPECIES
 
 #### Status
 ACCEPTED

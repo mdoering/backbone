@@ -1,5 +1,4 @@
-Paenibacillus fonticola Jui-Hsing Chou, 2007 SPECIES
-=======
+# Paenibacillus fonticola Jui-Hsing Chou, 2007 SPECIES
 
 #### Status
 ACCEPTED

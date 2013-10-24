@@ -1,5 +1,4 @@
-Massaria bihyalina Höhn. SPECIES
-=======
+# Massaria bihyalina Höhn. SPECIES
 
 #### Status
 ACCEPTED

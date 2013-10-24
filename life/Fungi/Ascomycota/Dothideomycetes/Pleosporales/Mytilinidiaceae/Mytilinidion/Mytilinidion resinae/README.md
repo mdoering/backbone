@@ -1,17 +1,16 @@
-Mytilidion resinae Speer SPECIES
-=======
+# Mytilinidion resinae Speer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 102(1): 98 (1986)
 
 #### Original name
-Mytilidion resinae Speer
+Mytilinidion resinae Speer
 
 ### Remarks
 null

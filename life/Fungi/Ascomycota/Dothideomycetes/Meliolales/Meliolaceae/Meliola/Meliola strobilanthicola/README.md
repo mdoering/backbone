@@ -1,5 +1,4 @@
-Meliola strobilanthicola Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Meliola strobilanthicola Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

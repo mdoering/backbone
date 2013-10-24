@@ -1,8 +1,7 @@
-Mycena galericulata var. calopus (Fr.) P. Karst. VARIETY
-=======
+# Mycena inclinata (Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

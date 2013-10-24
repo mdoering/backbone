@@ -1,5 +1,4 @@
-Gasparrinia bohlinii (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Gasparrinia bohlinii (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

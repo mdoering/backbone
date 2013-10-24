@@ -1,5 +1,4 @@
-Sphaeria ligea Sacc. SPECIES
-=======
+# Sphaeria ligea Sacc. SPECIES
 
 #### Status
 ACCEPTED

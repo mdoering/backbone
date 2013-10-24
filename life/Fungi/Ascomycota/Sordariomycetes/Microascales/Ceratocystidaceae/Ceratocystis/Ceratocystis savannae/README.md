@@ -1,5 +1,4 @@
-Ceratocystis savannae Kamgan & Jol. Roux SPECIES
-=======
+# Ceratocystis savannae Kamgan & Jol. Roux SPECIES
 
 #### Status
 ACCEPTED

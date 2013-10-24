@@ -1,5 +1,4 @@
-Umbilicaria brevis SPECIES
-=======
+# Umbilicaria brevis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis actinophora (Berk. & Broome) Singer SPECIES
-=======
+# Crinipellis actinophora (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

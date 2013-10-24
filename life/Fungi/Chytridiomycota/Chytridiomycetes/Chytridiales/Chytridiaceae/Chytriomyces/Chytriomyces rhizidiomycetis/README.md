@@ -1,17 +1,16 @@
-Chytriomyces rhizidiomycis Dogma SPECIES
-=======
+# Chytriomyces rhizidiomycetis Dogma, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kalikasan 12(3): 386 (1983)
 
 #### Original name
-Chytriomyces rhizidiomycis Dogma
+Chytriomyces rhizidiomycetis Dogma, 1983
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora ubatubensis Chupp & Viégas SPECIES
-=======
+# Cercospora ubatubensis Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

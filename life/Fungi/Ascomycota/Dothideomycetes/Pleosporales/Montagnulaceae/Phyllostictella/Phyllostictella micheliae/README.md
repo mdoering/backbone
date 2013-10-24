@@ -1,5 +1,4 @@
-Phyllostictella micheliae (Henn.) Tassi SPECIES
-=======
+# Phyllostictella micheliae (Henn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

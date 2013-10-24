@@ -1,5 +1,4 @@
-Asterina bataanensis Petr. SPECIES
-=======
+# Asterina bataanensis Petr. SPECIES
 
 #### Status
 ACCEPTED

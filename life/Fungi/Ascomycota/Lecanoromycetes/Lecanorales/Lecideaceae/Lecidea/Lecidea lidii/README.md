@@ -1,5 +1,4 @@
-Lecidea lidii Lynge SPECIES
-=======
+# Lecidea lidii Lynge SPECIES
 
 #### Status
 ACCEPTED

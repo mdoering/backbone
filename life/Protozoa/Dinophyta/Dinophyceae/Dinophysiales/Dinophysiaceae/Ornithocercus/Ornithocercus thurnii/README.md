@@ -1,5 +1,4 @@
-Ornithocercus thurnii (Schmidr) Kofoid & Skogsberg SPECIES
-=======
+# Ornithocercus thurnii (Schmidr) Kofoid & Skogsberg SPECIES
 
 #### Status
 ACCEPTED

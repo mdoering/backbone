@@ -1,5 +1,4 @@
-Lecanora lacunosa (Mereschk.) Tomin SPECIES
-=======
+# Lecanora lacunosa (Mereschk.) Tomin SPECIES
 
 #### Status
 ACCEPTED

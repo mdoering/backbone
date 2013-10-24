@@ -1,5 +1,4 @@
-Parmeliella furfurascens (Nyl.) Lynge SPECIES
-=======
+# Parmeliella furfurascens (Nyl.) Lynge SPECIES
 
 #### Status
 ACCEPTED

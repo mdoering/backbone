@@ -1,5 +1,4 @@
-Helicomyces candidus (Preuss) Sacc. SPECIES
-=======
+# Helicomyces candidus (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neosartorya indohii Y. Horie SPECIES
-=======
+# Neosartorya indohii Y. Horie SPECIES
 
 #### Status
 ACCEPTED

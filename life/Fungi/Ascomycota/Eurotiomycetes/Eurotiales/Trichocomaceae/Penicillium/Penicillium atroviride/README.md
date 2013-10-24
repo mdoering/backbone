@@ -1,5 +1,4 @@
-Penicillium atroviride Dierckx SPECIES
-=======
+# Penicillium atroviride Dierckx SPECIES
 
 #### Status
 ACCEPTED

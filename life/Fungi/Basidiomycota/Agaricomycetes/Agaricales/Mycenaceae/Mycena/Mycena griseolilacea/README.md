@@ -1,5 +1,4 @@
-Mycena griseolilacea Maas Geest. & E. Horak SPECIES
-=======
+# Mycena griseolilacea Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

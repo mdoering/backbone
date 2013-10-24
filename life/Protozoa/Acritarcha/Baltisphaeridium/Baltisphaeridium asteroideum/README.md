@@ -1,5 +1,4 @@
-Baltisphaeridium asteroideum (Maslov, 1956) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium asteroideum (Maslov, 1956) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

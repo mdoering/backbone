@@ -1,5 +1,4 @@
-Synchytrium variabile Karling SPECIES
-=======
+# Synchytrium variabile Karling SPECIES
 
 #### Status
 ACCEPTED

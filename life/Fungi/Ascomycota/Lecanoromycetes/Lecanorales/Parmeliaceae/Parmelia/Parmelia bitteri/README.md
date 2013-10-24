@@ -1,5 +1,4 @@
-Parmelia bitteri var. bitteri VARIETY
-=======
+# Parmelia bitteri Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia bitteri var. bitteri
+Parmelia bitteri Lynge
 
 ### Remarks
 null

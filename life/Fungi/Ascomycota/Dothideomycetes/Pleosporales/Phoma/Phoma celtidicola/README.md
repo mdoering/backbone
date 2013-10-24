@@ -1,5 +1,4 @@
-Phoma celtidicola var. celtidicola VARIETY
-=======
+# Phoma celtidicola Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma celtidicola var. celtidicola
+Phoma celtidicola Brunaud
 
 ### Remarks
 null

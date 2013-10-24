@@ -1,5 +1,4 @@
-Phoma diaporthella Sacc. SPECIES
-=======
+# Phoma diaporthella Sacc. SPECIES
 
 #### Status
 ACCEPTED

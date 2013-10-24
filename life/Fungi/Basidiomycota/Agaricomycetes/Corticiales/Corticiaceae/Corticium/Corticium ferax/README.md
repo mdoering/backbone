@@ -1,5 +1,4 @@
-Corticium ferax Ellis & Everh. SPECIES
-=======
+# Corticium ferax Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

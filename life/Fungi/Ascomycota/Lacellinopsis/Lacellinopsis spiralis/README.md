@@ -1,5 +1,4 @@
-Lacellinopsis spiralis M.B. Ellis SPECIES
-=======
+# Lacellinopsis spiralis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

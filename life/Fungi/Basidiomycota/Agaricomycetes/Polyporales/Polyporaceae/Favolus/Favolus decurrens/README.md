@@ -1,5 +1,4 @@
-Favolus decurrens Berk. & M.A. Curtis SPECIES
-=======
+# Favolus decurrens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

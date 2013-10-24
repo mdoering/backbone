@@ -1,5 +1,4 @@
-Phallus speciosus Schltdl. SPECIES
-=======
+# Phallus speciosus Schltdl. SPECIES
 
 #### Status
 ACCEPTED

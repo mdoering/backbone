@@ -1,5 +1,4 @@
-Halteria bifurcata Tamar, 1968 SPECIES
-=======
+# Halteria bifurcata Tamar, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium anomalum Gonz. Frag. SPECIES
-=======
+# Stemphylium anomalum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

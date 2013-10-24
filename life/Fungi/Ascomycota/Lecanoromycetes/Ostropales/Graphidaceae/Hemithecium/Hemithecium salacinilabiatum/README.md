@@ -1,5 +1,4 @@
-Hemithecium salacinilabiatum (Patw. & C.R. Kulk.) Chitale & Makhija SPECIES
-=======
+# Hemithecium salacinilabiatum (Patw. & C.R. Kulk.) Chitale & Makhija SPECIES
 
 #### Status
 ACCEPTED

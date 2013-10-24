@@ -1,5 +1,4 @@
-Agaricus luridatus Britzelm. SPECIES
-=======
+# Agaricus luridatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

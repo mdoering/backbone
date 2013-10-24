@@ -1,5 +1,4 @@
-Sargassum gracile var. pseudogranuliferum Grunow VARIETY
-=======
+# Sargassum gracile J. Agardh SPECIES
 
 #### Status
 ACCEPTED

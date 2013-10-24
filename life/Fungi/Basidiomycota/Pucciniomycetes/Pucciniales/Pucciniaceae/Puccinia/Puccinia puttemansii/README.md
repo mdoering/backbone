@@ -1,5 +1,4 @@
-Puccinia puttemansii Henn. SPECIES
-=======
+# Puccinia puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

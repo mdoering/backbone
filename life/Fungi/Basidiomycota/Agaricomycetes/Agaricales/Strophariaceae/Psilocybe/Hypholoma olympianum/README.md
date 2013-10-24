@@ -1,5 +1,4 @@
-Hypholoma olympianum A.H. Sm. SPECIES
-=======
+# Hypholoma olympianum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

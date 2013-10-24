@@ -1,5 +1,4 @@
-Pholiota floridana Murrill SPECIES
-=======
+# Pholiota floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

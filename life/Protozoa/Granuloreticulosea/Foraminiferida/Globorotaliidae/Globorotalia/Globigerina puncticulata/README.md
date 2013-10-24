@@ -1,5 +1,4 @@
-Globigerina puncticulata SPECIES
-=======
+# Globigerina puncticulata SPECIES
 
 #### Status
 DOUBTFUL

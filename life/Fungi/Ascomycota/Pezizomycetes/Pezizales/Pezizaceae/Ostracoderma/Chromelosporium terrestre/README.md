@@ -1,14 +1,13 @@
-Ostracoderma terrestre (Fr.) Nannf., 1959 SPECIES
-=======
+# Chromelosporium terrestre (Fr.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lundell & Nannfeldt, Fungi Exsiccati Suecici 53-54: 40 (1959)
+More Dematiaceous Hyphomycetes (Kew) 154 (1976)
 
 #### Original name
 Hyphelia terrestris Fr., 1829

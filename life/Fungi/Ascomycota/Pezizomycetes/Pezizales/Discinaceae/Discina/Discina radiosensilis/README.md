@@ -1,5 +1,4 @@
-Discina radiosensilis Falck SPECIES
-=======
+# Discina radiosensilis Falck SPECIES
 
 #### Status
 ACCEPTED

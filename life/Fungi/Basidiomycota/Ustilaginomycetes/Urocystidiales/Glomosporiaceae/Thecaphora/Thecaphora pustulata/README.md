@@ -1,5 +1,4 @@
-Thecaphora pustulata G.P. Clinton SPECIES
-=======
+# Thecaphora pustulata G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella tormentillae Rehm SPECIES
-=======
+# Pezizella tormentillae Rehm SPECIES
 
 #### Status
 ACCEPTED

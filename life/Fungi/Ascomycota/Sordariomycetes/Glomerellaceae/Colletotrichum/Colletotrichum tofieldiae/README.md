@@ -1,8 +1,7 @@
-Vermicularia tofieldiae Pat., 1886 SPECIES
-=======
+# Colletotrichum tofieldiae (Pat.) Damm, P.F. Cannon & Crous, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

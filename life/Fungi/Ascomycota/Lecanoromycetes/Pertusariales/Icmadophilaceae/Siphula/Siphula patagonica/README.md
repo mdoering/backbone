@@ -1,5 +1,4 @@
-Siphula patagonica Vain. SPECIES
-=======
+# Siphula patagonica Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma simile C.S. Parker SPECIES
-=======
+# Hypholoma simile C.S. Parker SPECIES
 
 #### Status
 ACCEPTED

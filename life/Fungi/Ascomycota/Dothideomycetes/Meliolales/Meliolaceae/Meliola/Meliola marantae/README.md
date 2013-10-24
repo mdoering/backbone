@@ -1,5 +1,4 @@
-Meliola marantae F. Stevens SPECIES
-=======
+# Meliola marantae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pulchella Motyka SPECIES
-=======
+# Lecanora pulchella Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria orni Pass. SPECIES
-=======
+# Septoria orni Pass. SPECIES
 
 #### Status
 ACCEPTED

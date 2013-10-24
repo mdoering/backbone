@@ -1,5 +1,4 @@
-Mycoarthopyrenia analeptellae Cif. & Tomas. SPECIES
-=======
+# Mycoarthopyrenia analeptellae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

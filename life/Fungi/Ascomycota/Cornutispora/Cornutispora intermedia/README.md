@@ -1,5 +1,4 @@
-Cornutispora intermedia Punith. & D. Hawksw. SPECIES
-=======
+# Cornutispora intermedia Punith. & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

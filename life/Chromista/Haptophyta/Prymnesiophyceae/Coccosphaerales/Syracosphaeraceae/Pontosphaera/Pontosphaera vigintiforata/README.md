@@ -1,5 +1,4 @@
-Pontosphaera vigintiforata (Kamptner) F. Proto Decima, F. Medizza & L. Todesco SPECIES
-=======
+# Pontosphaera vigintiforata (Kamptner) F. Proto Decima, F. Medizza & L. Todesco SPECIES
 
 #### Status
 ACCEPTED

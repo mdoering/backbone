@@ -1,5 +1,4 @@
-Rhizopogon abietis A.H. Sm. SPECIES
-=======
+# Rhizopogon abietis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

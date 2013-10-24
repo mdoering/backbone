@@ -1,14 +1,13 @@
-Puccinia periodica Racib., 1900 SPECIES
-=======
+# Sorataea periodica (Racib.) Eboh & Cummins, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parasit. Alg. Pilze Java's (Jakarta) 2: 26 (1900)
+Mycologia 72(1): 204 (1980)
 
 #### Original name
 Puccinia periodica Racib., 1900

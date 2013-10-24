@@ -1,5 +1,4 @@
-Patellaria lathyri Velen. SPECIES
-=======
+# Patellaria lathyri Velen. SPECIES
 
 #### Status
 ACCEPTED

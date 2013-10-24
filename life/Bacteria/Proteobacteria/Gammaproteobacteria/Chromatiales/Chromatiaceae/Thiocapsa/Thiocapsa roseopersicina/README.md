@@ -1,11 +1,10 @@
-Thiocapsa minima Isachenko, 1929 SPECIES
-=======
+# Thiocapsa roseopersicina Winogradsky, 1888 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

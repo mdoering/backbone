@@ -1,5 +1,4 @@
-Aegerita cordae Sacc. SPECIES
-=======
+# Aegerita cordae Sacc. SPECIES
 
 #### Status
 ACCEPTED

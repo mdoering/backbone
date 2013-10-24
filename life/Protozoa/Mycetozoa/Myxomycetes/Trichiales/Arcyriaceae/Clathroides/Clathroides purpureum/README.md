@@ -1,5 +1,4 @@
-Clathroides purpureum P. Micheli SPECIES
-=======
+# Clathroides purpureum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

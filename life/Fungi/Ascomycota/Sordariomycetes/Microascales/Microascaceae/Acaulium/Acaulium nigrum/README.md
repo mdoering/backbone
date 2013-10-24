@@ -1,5 +1,4 @@
-Acaulium nigrum var. nigrum VARIETY
-=======
+# Acaulium nigrum Sopp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acaulium nigrum var. nigrum
+Acaulium nigrum Sopp
 
 ### Remarks
 null

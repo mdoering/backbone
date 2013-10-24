@@ -1,5 +1,4 @@
-Bovista argentea Berk. SPECIES
-=======
+# Bovista argentea Berk. SPECIES
 
 #### Status
 ACCEPTED

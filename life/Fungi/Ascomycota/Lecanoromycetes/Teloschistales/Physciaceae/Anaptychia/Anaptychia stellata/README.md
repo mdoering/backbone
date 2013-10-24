@@ -1,5 +1,4 @@
-Anaptychia stellata (Vain.) Kurok. SPECIES
-=======
+# Anaptychia stellata (Vain.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

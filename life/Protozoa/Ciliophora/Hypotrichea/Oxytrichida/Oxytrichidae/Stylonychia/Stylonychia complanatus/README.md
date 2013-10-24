@@ -1,5 +1,4 @@
-Stylonychia complanatus SPECIES
-=======
+# Stylonychia complanatus SPECIES
 
 #### Status
 ACCEPTED

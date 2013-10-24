@@ -1,5 +1,4 @@
-Apodachlya minima Coker & J. Leitn., 1938 SPECIES
-=======
+# Apodachlya minima Coker & J. Leitn., 1938 SPECIES
 
 #### Status
 ACCEPTED

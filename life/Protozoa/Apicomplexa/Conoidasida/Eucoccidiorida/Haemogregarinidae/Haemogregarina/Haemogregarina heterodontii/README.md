@@ -1,5 +1,4 @@
-Haemogregarina heterodontii von Prowazek, 1910 SPECIES
-=======
+# Haemogregarina heterodontii von Prowazek, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora eupatorii-fortunei P.K. Chi & Z.D. Jiang SPECIES
-=======
+# Cercospora eupatorii-fortunei P.K. Chi & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

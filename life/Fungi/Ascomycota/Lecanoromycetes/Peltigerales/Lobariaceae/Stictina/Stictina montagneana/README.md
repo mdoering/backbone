@@ -1,5 +1,4 @@
-Stictina montagneana Shirley SPECIES
-=======
+# Stictina montagneana Shirley SPECIES
 
 #### Status
 ACCEPTED

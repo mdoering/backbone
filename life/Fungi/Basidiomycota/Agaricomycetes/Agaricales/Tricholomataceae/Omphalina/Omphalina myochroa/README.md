@@ -1,5 +1,4 @@
-Omphalina myochroa (Fr.) Quél. SPECIES
-=======
+# Omphalina myochroa (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

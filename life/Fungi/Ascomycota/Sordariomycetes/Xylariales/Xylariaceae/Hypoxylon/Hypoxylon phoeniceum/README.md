@@ -1,5 +1,4 @@
-Hypoxylon phoeniceum Bull. SPECIES
-=======
+# Hypoxylon phoeniceum Bull. SPECIES
 
 #### Status
 ACCEPTED

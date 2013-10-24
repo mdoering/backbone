@@ -1,5 +1,4 @@
-Xylomites rhamni-aizoonis Ettingsh. SPECIES
-=======
+# Xylomites rhamni-aizoonis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

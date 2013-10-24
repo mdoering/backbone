@@ -1,5 +1,4 @@
-Lepiota ecitodora G.F. Atk. SPECIES
-=======
+# Lepiota ecitodora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Diplopsalis torta Abé SPECIES
-=======
+# Oblea torta (Abé, 1941) Balech, 1964 ex Sournia, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

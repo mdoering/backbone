@@ -1,5 +1,4 @@
-Ulospora D. Hawksw., Malloch & Sivan. GENUS
-=======
+# Ulospora D. Hawksw., Malloch & Sivan. GENUS
 
 #### Status
 ACCEPTED

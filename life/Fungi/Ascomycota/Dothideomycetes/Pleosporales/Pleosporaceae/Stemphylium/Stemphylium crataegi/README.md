@@ -1,5 +1,4 @@
-Stemphylium crataegi (Ellis & Everh.) Höhn. SPECIES
-=======
+# Stemphylium crataegi (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

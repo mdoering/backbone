@@ -1,5 +1,4 @@
-Discophrya endogama SPECIES
-=======
+# Discophrya endogama SPECIES
 
 #### Status
 ACCEPTED

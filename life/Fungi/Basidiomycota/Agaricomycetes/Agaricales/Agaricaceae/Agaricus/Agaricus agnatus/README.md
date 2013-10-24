@@ -1,5 +1,4 @@
-Agaricus agnatus Britzelm. SPECIES
-=======
+# Agaricus agnatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

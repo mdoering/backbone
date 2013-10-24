@@ -1,5 +1,4 @@
-Trypethelium assimile Stirt. SPECIES
-=======
+# Trypethelium assimile Stirt. SPECIES
 
 #### Status
 ACCEPTED

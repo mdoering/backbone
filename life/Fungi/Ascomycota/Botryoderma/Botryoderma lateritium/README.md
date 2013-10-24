@@ -1,5 +1,4 @@
-Botryoderma lateritium Papendorf & H.P. Upadhyay, 1969 SPECIES
-=======
+# Botryoderma lateritium Papendorf & H.P. Upadhyay, 1969 SPECIES
 
 #### Status
 ACCEPTED

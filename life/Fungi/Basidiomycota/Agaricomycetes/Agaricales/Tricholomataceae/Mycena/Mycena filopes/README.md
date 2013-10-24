@@ -1,8 +1,7 @@
-Mycena amygdalina (Pers.) Singer, 1961 SPECIES
-=======
+# Mycena filopes (Bull. Fr.) P. Kumm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

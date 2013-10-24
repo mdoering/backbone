@@ -1,5 +1,4 @@
-Concentrodiscus G.C.Khursevich, A.I.Moisseeva & G.A.Sukhova, 1989 GENUS
-=======
+# Concentrodiscus G.C.Khursevich, A.I.Moisseeva & G.A.Sukhova, 1989 GENUS
 
 #### Status
 ACCEPTED

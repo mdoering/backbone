@@ -1,5 +1,4 @@
-Stereogloeocystidium lobatoplicatum Rick SPECIES
-=======
+# Stereogloeocystidium lobatoplicatum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clelandia bulundari G.W. Beaton, 1982 SPECIES
-=======
+# Mycoclelandia bulundari (G.W. Beaton) Trappe & G.W. Beaton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Beaton & Weste, Trans. Br. mycol. Soc. 79(3): 459 (1982)
+Trans. Br. mycol. Soc. 83(3): 536 (1984)
 
 #### Original name
 Clelandia bulundari G.W. Beaton, 1982

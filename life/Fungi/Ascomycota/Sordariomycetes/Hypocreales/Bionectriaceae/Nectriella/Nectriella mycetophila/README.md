@@ -1,5 +1,4 @@
-Nectriella mycetophila (Peck) Sacc. SPECIES
-=======
+# Nectriella mycetophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

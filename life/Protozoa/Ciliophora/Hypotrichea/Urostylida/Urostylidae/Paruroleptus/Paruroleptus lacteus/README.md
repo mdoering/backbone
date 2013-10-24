@@ -1,5 +1,4 @@
-Paruroleptus lacteus Kahl, 1932 SPECIES
-=======
+# Paruroleptus lacteus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

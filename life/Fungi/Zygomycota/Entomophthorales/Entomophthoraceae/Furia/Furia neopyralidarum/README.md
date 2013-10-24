@@ -1,5 +1,4 @@
-Furia neopyralidarum (Ben Ze'ev) Humber, 1989 SPECIES
-=======
+# Furia neopyralidarum (Ben Ze'ev) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

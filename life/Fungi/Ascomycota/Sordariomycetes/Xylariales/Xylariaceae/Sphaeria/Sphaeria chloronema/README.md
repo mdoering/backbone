@@ -1,5 +1,4 @@
-Sphaeria chloronema Berk. & Broome SPECIES
-=======
+# Sphaeria chloronema Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

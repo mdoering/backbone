@@ -1,5 +1,4 @@
-Merulius ochraceus (Gillet) Kuntze SPECIES
-=======
+# Merulius ochraceus (Gillet) Kuntze SPECIES
 
 #### Status
 ACCEPTED

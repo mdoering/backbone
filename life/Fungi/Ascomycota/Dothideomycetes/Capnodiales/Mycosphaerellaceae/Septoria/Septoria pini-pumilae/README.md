@@ -1,5 +1,4 @@
-Septoria pini-pumilae Sawada SPECIES
-=======
+# Septoria pini-pumilae Sawada SPECIES
 
 #### Status
 ACCEPTED

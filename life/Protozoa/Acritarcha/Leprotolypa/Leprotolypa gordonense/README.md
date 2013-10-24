@@ -1,5 +1,4 @@
-Leprotolypa gordonense (Cramer, 1964) Colbath, 1979 SPECIES
-=======
+# Leprotolypa gordonense (Cramer, 1964) Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

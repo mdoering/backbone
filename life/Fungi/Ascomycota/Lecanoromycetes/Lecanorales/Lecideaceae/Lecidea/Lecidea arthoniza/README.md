@@ -1,5 +1,4 @@
-Lecidea arthoniza Nyl. SPECIES
-=======
+# Lecidea arthoniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria culmigena Sacc. & Speg. SPECIES
-=======
+# Sordaria culmigena Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

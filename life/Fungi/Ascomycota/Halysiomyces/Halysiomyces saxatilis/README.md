@@ -1,5 +1,4 @@
-Halysiomyces saxatilis E.G. Simmons, 1981 SPECIES
-=======
+# Halysiomyces saxatilis E.G. Simmons, 1981 SPECIES
 
 #### Status
 ACCEPTED

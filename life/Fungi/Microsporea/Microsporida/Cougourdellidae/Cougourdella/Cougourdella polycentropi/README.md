@@ -1,5 +1,4 @@
-Cougourdella polycentropi Weiser SPECIES
-=======
+# Cougourdella polycentropi Weiser SPECIES
 
 #### Status
 ACCEPTED

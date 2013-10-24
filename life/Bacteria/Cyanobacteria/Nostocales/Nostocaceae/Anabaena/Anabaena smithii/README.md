@@ -1,5 +1,4 @@
-Anabaena smithii (Komárek) M. Watanabe SPECIES
-=======
+# Anabaena smithii (Komárek) M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

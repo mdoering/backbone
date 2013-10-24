@@ -1,5 +1,4 @@
-Elaphomyces atropurpureus Vittad. SPECIES
-=======
+# Elaphomyces atropurpureus Vittad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialonectria sulfurea Ellis & Everh. SPECIES
-=======
+# Dialonectria sulfurea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

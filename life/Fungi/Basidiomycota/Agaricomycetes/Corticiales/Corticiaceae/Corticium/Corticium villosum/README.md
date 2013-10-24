@@ -1,5 +1,4 @@
-Corticium villosum (Bonord.) Sacc. & Traverso SPECIES
-=======
+# Corticium villosum (Bonord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora turnerae (Ellis & Everh.) Deighton SPECIES
-=======
+# Pseudocercospora turnerae (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

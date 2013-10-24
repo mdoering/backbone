@@ -1,5 +1,4 @@
-Helicoön dendroides Voglmayr SPECIES
-=======
+# Helicoön dendroides Voglmayr SPECIES
 
 #### Status
 ACCEPTED

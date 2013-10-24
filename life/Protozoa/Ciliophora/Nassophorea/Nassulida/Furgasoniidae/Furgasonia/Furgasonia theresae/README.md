@@ -1,8 +1,7 @@
-Nassula theresae Fabre-Domergue, 1891 SPECIES
-=======
+# Furgasonia theresae (Fabre-Domergue, 1891) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

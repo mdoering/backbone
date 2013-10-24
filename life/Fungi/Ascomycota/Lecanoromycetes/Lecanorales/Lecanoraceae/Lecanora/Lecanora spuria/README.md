@@ -1,5 +1,4 @@
-Lecanora spuria Motyka SPECIES
-=======
+# Lecanora spuria Motyka SPECIES
 
 #### Status
 ACCEPTED

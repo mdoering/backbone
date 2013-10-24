@@ -1,5 +1,4 @@
-Flammula subdryophila (Murrill) Murrill SPECIES
-=======
+# Flammula subdryophila (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

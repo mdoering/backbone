@@ -1,17 +1,16 @@
-Hypoxylon antracoderma Speg. SPECIES
-=======
+# Hypoxylon monticulosum Mont., 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. gen. sp. crypt. (Paris) 214 (1856)
 
 #### Original name
-Hypoxylon antracoderma Speg.
+Hypoxylon monticulosum Mont., 1856
 
 ### Remarks
 null

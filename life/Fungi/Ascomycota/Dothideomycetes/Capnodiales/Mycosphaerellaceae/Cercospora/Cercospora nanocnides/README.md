@@ -1,5 +1,4 @@
-Cercospora nanocnides N. Naito SPECIES
-=======
+# Cercospora nanocnides N. Naito SPECIES
 
 #### Status
 ACCEPTED

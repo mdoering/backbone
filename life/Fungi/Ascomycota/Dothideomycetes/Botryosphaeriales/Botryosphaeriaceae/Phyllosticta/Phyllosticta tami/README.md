@@ -1,5 +1,4 @@
-Phyllosticta tami Sacc. SPECIES
-=======
+# Phyllosticta tami Sacc. SPECIES
 
 #### Status
 ACCEPTED

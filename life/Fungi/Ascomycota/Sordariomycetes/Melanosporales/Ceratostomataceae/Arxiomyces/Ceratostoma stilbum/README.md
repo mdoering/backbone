@@ -1,5 +1,4 @@
-Ceratostoma stilbum (J.C. Schmidt) Fr. SPECIES
-=======
+# Ceratostoma stilbum (J.C. Schmidt) Fr. SPECIES
 
 #### Status
 ACCEPTED

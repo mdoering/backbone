@@ -1,5 +1,4 @@
-Buellia maculiformis (Hepp) Hazsl. SPECIES
-=======
+# Buellia maculiformis (Hepp) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

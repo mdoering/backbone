@@ -1,5 +1,4 @@
-Peronospora potentillae-reptantis Gäum., 1923 SPECIES
-=======
+# Peronospora potentillae-reptantis Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

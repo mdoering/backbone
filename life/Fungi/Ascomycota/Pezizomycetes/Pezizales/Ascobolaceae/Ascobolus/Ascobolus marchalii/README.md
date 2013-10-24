@@ -1,5 +1,4 @@
-Ascobolus marchalii E. Bommer & M. Rousseau SPECIES
-=======
+# Ascobolus marchalii E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

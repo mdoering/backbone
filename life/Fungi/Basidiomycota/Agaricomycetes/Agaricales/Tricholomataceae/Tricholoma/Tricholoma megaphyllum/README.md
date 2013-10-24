@@ -1,5 +1,4 @@
-Tricholoma megaphyllum Boud. SPECIES
-=======
+# Tricholoma megaphyllum Boud. SPECIES
 
 #### Status
 ACCEPTED

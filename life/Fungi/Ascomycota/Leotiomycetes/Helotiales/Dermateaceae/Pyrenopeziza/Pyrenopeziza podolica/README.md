@@ -1,5 +1,4 @@
-Pyrenopeziza podolica Grabowski {?} SPECIES
-=======
+# Pyrenopeziza podolica Grabowski {?} SPECIES
 
 #### Status
 ACCEPTED

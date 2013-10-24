@@ -1,5 +1,4 @@
-Enretisphaeridium abnormum Yin Leiming, 1979 SPECIES
-=======
+# Enretisphaeridium abnormum Yin Leiming, 1979 SPECIES
 
 #### Status
 ACCEPTED

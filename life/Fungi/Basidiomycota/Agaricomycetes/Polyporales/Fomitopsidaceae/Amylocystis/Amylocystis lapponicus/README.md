@@ -1,14 +1,13 @@
-Polyporus lapponicus Romell, 1911 SPECIES
-=======
+# Amylocystis lapponicus (Romell) Bondartsev & Singer, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 11(3): 17 (1911)
+in Singer, Mycologia 36(1): 67 (1944)
 
 #### Original name
 Polyporus lapponicus Romell, 1911

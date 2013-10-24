@@ -1,5 +1,4 @@
-Staurothele dalmatica Servít SPECIES
-=======
+# Staurothele dalmatica Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola malacensis Sacc. SPECIES
-=======
+# Meliola malacensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

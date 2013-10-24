@@ -1,5 +1,4 @@
-Desulfobacca acetoxidans Oude Elferink et al., 1999 SPECIES
-=======
+# Desulfobacca acetoxidans Oude Elferink et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

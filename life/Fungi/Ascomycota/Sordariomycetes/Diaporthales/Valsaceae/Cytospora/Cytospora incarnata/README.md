@@ -1,17 +1,16 @@
-Cytispora incarnata Fr. SPECIES
-=======
+# Cytospora incarnata Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 541 (1823)
 
 #### Original name
-Cytispora incarnata Fr.
+Cytospora incarnata Fr.
 
 ### Remarks
 null

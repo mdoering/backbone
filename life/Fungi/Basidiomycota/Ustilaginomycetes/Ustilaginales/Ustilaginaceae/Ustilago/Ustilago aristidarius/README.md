@@ -1,5 +1,4 @@
-Ustilago aristidarius Durán SPECIES
-=======
+# Ustilago aristidarius Durán SPECIES
 
 #### Status
 ACCEPTED

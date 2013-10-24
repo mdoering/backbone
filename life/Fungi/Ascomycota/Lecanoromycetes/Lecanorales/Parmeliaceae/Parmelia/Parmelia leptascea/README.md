@@ -1,5 +1,4 @@
-Parmelia leptascea J. Steiner SPECIES
-=======
+# Parmelia leptascea J. Steiner SPECIES
 
 #### Status
 ACCEPTED

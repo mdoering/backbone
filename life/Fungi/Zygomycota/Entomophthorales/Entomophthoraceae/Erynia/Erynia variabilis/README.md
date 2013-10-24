@@ -1,14 +1,13 @@
-Entomophthora variabilis (Thaxt.) Sacc. & Traverso, 1891 SPECIES
-=======
+# Erynia variabilis (Thaxt.) Remaud. & Hennebert, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 9: 354 (1891)
+Mycotaxon 11(1): 302 (1980)
 
 #### Original name
 Empusa variabilis Thaxt., 1888

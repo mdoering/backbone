@@ -1,14 +1,13 @@
-Stradnerius Bilal ul Haq, 1968 GENUS
-=======
+# Dictyococcites M.Black, 1967 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stockh. Contr. Geol. 18: 31.
+Proc. Geol. Soc. No. 1640: 141.
 
 #### Original name
 null

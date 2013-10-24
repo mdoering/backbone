@@ -1,5 +1,4 @@
-Aspergillus kambarensis Sugiy., 1967 SPECIES
-=======
+# Aspergillus kambarensis Sugiy., 1967 SPECIES
 
 #### Status
 ACCEPTED

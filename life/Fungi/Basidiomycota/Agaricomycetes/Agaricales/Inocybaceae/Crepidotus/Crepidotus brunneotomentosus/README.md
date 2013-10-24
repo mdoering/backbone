@@ -1,5 +1,4 @@
-Crepidotus brunneotomentosus var. brunneotomentosus VARIETY
-=======
+# Crepidotus brunneotomentosus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crepidotus brunneotomentosus var. brunneotomentosus
+Crepidotus brunneotomentosus
 
 ### Remarks
 null

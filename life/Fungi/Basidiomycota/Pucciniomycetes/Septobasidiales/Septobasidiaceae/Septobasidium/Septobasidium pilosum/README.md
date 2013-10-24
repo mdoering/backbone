@@ -1,5 +1,4 @@
-Septobasidium pilosum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium pilosum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

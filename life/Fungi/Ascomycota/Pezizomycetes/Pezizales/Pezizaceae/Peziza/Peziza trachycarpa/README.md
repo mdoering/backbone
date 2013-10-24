@@ -1,14 +1,13 @@
-Curreyella trachycarpa (Curr.) Massee & Crossl. SPECIES
-=======
+# Peziza trachycarpa Curr., 1864 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Linn. Soc. London 24: 493 (1864)
 
 #### Original name
 Peziza trachycarpa Curr., 1864

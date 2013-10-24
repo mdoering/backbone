@@ -1,5 +1,4 @@
-Lecanora leucoderma (Anzi) Stizenb. SPECIES
-=======
+# Lecanora leucoderma (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

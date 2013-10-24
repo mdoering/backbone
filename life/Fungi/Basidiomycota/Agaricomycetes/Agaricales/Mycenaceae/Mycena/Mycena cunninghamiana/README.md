@@ -1,5 +1,4 @@
-Mycena cunninghamiana Cleland SPECIES
-=======
+# Mycena cunninghamiana Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida kazuoi Nakase, Jindam., Limtong, Am-in & Imanishi SPECIES
-=======
+# Candida kazuoi Nakase, Jindam., Limtong, Am-in & Imanishi SPECIES
 
 #### Status
 ACCEPTED

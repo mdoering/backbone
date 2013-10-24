@@ -1,5 +1,4 @@
-Sclerotium nervale (Alb. & Schwein.) Fr. SPECIES
-=======
+# Sclerotium nervale (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

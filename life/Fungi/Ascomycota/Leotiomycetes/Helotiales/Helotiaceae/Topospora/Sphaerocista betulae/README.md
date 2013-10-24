@@ -1,5 +1,4 @@
-Sphaerocista betulae Preuss SPECIES
-=======
+# Sphaerocista betulae Preuss SPECIES
 
 #### Status
 ACCEPTED

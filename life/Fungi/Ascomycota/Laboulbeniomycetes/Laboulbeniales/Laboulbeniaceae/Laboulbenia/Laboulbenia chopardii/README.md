@@ -1,17 +1,16 @@
-Laboulbenia chopardi Balazuc SPECIES
-=======
+# Laboulbenia chopardii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 37(5): 259 (1973)
 
 #### Original name
-Laboulbenia chopardi Balazuc
+Laboulbenia chopardii Balazuc
 
 ### Remarks
 null

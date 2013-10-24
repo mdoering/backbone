@@ -1,5 +1,4 @@
-Uredo sarcocollae Mennicken, Berndt & Oberw. SPECIES
-=======
+# Uredo sarcocollae Mennicken, Berndt & Oberw. SPECIES
 
 #### Status
 ACCEPTED

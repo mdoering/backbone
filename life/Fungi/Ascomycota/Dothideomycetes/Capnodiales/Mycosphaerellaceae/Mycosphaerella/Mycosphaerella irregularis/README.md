@@ -1,5 +1,4 @@
-Mycosphaerella irregularis Cheew., K.D. Hyde & Crous, 2008 SPECIES
-=======
+# Mycosphaerella irregularis Cheew., K.D. Hyde & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

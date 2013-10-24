@@ -1,5 +1,4 @@
-Aplosporella burnhamii Dearn. SPECIES
-=======
+# Aplosporella burnhamii Dearn. SPECIES
 
 #### Status
 ACCEPTED

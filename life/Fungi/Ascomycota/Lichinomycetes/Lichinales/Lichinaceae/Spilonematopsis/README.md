@@ -1,5 +1,4 @@
-Spilonematopsis GENUS
-=======
+# Spilonematopsis GENUS
 
 #### Status
 ACCEPTED

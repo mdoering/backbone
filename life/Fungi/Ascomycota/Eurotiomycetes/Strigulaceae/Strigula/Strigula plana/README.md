@@ -1,5 +1,4 @@
-Strigula plana Müll. Arg. SPECIES
-=======
+# Strigula plana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

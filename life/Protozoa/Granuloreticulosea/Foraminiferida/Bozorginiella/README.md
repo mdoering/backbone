@@ -1,5 +1,4 @@
-Bozorginiella GENUS
-=======
+# Bozorginiella GENUS
 
 #### Status
 ACCEPTED

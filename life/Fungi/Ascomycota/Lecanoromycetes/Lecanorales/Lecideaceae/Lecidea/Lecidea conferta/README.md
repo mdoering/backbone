@@ -1,5 +1,4 @@
-Lecidea conferta SPECIES
-=======
+# Lecidea conferta SPECIES
 
 #### Status
 ACCEPTED

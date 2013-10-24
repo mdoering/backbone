@@ -1,5 +1,4 @@
-Cortinarius medius Rob. Henry SPECIES
-=======
+# Cortinarius medius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma atroalbum (L.) Jatta SPECIES
-=======
+# Diplotomma atroalbum (L.) Jatta SPECIES
 
 #### Status
 ACCEPTED

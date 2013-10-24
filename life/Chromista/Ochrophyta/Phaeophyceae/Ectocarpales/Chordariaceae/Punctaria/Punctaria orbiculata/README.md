@@ -1,5 +1,4 @@
-Punctaria orbiculata C.C. Jao SPECIES
-=======
+# Punctaria orbiculata C.C. Jao SPECIES
 
 #### Status
 ACCEPTED

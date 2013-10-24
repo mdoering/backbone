@@ -1,5 +1,4 @@
-Lophodermium montanum Ferraris SPECIES
-=======
+# Lophodermium montanum Ferraris SPECIES
 
 #### Status
 ACCEPTED

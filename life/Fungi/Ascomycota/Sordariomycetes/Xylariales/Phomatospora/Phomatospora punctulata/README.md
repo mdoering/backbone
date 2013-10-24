@@ -1,5 +1,4 @@
-Phomatospora punctulata I. Hino & Katum. SPECIES
-=======
+# Phomatospora punctulata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mycosphaerella eupatoricola Höhn. SPECIES
-=======
+# Mycosphaerella eupatoriicola Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella eupatoricola Höhn.
+Mycosphaerella eupatoriicola Höhn.
 
 ### Remarks
 null

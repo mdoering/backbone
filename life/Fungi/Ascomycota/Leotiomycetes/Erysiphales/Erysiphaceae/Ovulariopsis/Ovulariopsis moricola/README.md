@@ -1,5 +1,4 @@
-Ovulariopsis moricola Delacr. SPECIES
-=======
+# Ovulariopsis moricola Delacr. SPECIES
 
 #### Status
 ACCEPTED

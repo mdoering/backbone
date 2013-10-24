@@ -1,17 +1,16 @@
-Cicinnobolus sporophagus Golovin SPECIES
-=======
+# Cicinobolus sporophagus Golovin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy Sredneaz. Univ. 14(5): 28 (1950)
 
 #### Original name
-Cicinnobolus sporophagus Golovin
+Cicinobolus sporophagus Golovin
 
 ### Remarks
 null

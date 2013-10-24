@@ -1,5 +1,4 @@
-Methanogenium Romesser et al., 1981 GENUS
-=======
+# Methanogenium Romesser et al., 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactaria limacina Beardslee & Burl. SPECIES
-=======
+# Lactarius limacinus Beardslee & Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32: 579 (1940)
 
 #### Original name
-Lactaria limacina Beardslee & Burl.
+Lactarius limacinus Beardslee & Burl.
 
 ### Remarks
 null

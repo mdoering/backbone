@@ -1,5 +1,4 @@
-Aphanostigme glycosmidis Srinivasulu & P.G. Sathe SPECIES
-=======
+# Aphanostigme glycosmidis Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia elatina (Ach.) Fr. SPECIES
-=======
+# Parmelia elatina (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

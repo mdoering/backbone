@@ -1,5 +1,4 @@
-Peziza fibrosa Wallr. SPECIES
-=======
+# Peziza fibrosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

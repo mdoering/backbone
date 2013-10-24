@@ -1,5 +1,4 @@
-Agaricus flavogriseus Berk. SPECIES
-=======
+# Agaricus flavogriseus Berk. SPECIES
 
 #### Status
 ACCEPTED

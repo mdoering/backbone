@@ -1,5 +1,4 @@
-Vararia gallichroa Boidin, Gilles & Lanq. SPECIES
-=======
+# Vararia gallichroa Boidin, Gilles & Lanq. SPECIES
 
 #### Status
 ACCEPTED

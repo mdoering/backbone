@@ -1,5 +1,4 @@
-Leptosphaeria physalidis Ellis & Everh. SPECIES
-=======
+# Leptosphaeria physalidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

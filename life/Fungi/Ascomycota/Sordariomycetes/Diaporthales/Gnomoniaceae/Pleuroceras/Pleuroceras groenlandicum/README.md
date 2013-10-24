@@ -1,14 +1,13 @@
-Pleuroceras groenlandica (Rostr.) M.E. Barr SPECIES
-=======
+# Pleuroceras groenlandicum (Rostr.) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 7: 120 (1978)
 
 #### Original name
 Hypospila groenlandica Rostr., 1888

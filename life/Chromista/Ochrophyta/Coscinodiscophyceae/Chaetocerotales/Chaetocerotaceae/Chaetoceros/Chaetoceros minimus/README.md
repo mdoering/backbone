@@ -1,5 +1,4 @@
-Chaetoceros minimus (Levander) D. Marino, G. Giuffre, M. Montresor & A. Zingone, 1991 SPECIES
-=======
+# Chaetoceros minimus (Levander) D. Marino, G. Giuffre, M. Montresor & A. Zingone, 1991 SPECIES
 
 #### Status
 ACCEPTED

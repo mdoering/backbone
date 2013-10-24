@@ -1,5 +1,4 @@
-Erysiphe itoana (Y. Nomura, Tanada & U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe itoana (Y. Nomura, Tanada & U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

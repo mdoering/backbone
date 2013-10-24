@@ -1,5 +1,4 @@
-Favososphaeridium B.V. Timofeev, 1966 GENUS
-=======
+# Favososphaeridium B.V. Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

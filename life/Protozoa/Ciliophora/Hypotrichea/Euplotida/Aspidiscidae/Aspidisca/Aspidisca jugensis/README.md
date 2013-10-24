@@ -1,5 +1,4 @@
-Aspidisca jugensis SPECIES
-=======
+# Aspidisca jugensis SPECIES
 
 #### Status
 ACCEPTED

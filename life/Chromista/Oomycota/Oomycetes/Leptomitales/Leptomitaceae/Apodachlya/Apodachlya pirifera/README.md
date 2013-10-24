@@ -1,8 +1,7 @@
-Apodachlya pirifera f. macrosporangia (Tiesenh.) Sparrow, 1960 FORM
-=======
+# Apodachlya pirifera Zopf, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Delitschia intonsa Luck-Allen SPECIES
-=======
+# Delitschia intonsa Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola opiliae var. opiliae VARIETY
-=======
+# Meliola opiliae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 11(3): 327 (1913)
 
 #### Original name
-Meliola opiliae var. opiliae
+Meliola opiliae Syd. & P. Syd.
 
 ### Remarks
 null

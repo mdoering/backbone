@@ -1,5 +1,4 @@
-Furgasonia Jankowski, 1964 GENUS
-=======
+# Furgasonia Jankowski, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xeromphalina campanelloides Redhead, 1988 SPECIES
-=======
+# Xeromphalina campanelloides Redhead, 1988 SPECIES
 
 #### Status
 ACCEPTED

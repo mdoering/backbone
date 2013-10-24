@@ -1,5 +1,4 @@
-Stemphylium incarvilleae Byzova SPECIES
-=======
+# Stemphylium incarvilleae Byzova SPECIES
 
 #### Status
 ACCEPTED

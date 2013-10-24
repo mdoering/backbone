@@ -1,5 +1,4 @@
-Placocarpus Trevis. GENUS
-=======
+# Placocarpus Trevis. GENUS
 
 #### Status
 ACCEPTED

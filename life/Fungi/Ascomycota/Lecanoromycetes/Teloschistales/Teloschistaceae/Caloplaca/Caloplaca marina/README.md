@@ -1,17 +1,16 @@
-Placodium lobulatum var. lobulatum VARIETY
-=======
+# Caloplaca marina (Wedd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meth. Grund. Mod. Pflanzensoziol. 170 (1873)
 
 #### Original name
-Lecanora lobulata Flörke
+Caloplaca marina (Wedd.) Zahlbr.
 
 ### Remarks
 null

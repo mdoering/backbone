@@ -1,5 +1,4 @@
-Gornostachia P.N. Kolosov, 1982 GENUS
-=======
+# Gornostachia P.N. Kolosov, 1982 GENUS
 
 #### Status
 ACCEPTED

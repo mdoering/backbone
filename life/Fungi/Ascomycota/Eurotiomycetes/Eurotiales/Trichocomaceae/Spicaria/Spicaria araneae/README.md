@@ -1,5 +1,4 @@
-Spicaria araneae Petch SPECIES
-=======
+# Spicaria araneae Petch SPECIES
 
 #### Status
 ACCEPTED

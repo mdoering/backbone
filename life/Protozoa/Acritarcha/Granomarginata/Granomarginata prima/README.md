@@ -1,5 +1,4 @@
-Granomarginata prima Naumova, 1961 SPECIES
-=======
+# Granomarginata prima Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

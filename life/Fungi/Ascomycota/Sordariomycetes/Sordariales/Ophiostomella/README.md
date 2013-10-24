@@ -1,5 +1,4 @@
-Ophiostomella GENUS
-=======
+# Ophiostomella GENUS
 
 #### Status
 ACCEPTED

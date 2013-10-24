@@ -1,5 +1,4 @@
-Stevensea GENUS
-=======
+# Stevensea GENUS
 
 #### Status
 ACCEPTED

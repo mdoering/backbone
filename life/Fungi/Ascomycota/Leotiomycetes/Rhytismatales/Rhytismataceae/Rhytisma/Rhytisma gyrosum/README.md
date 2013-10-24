@@ -1,5 +1,4 @@
-Rhytisma gyrosum Mont. SPECIES
-=======
+# Rhytisma gyrosum Mont. SPECIES
 
 #### Status
 ACCEPTED

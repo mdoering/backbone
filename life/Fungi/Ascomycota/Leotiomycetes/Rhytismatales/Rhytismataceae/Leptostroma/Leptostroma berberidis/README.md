@@ -1,5 +1,4 @@
-Leptostroma berberidis (Thüm. & G. Winter) Nannf. SPECIES
-=======
+# Leptostroma berberidis (Thüm. & G. Winter) Nannf. SPECIES
 
 #### Status
 ACCEPTED

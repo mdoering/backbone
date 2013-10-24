@@ -1,14 +1,13 @@
-Patellaria signata Ellis & Everh. SPECIES
-=======
+# Tryblis signata (Ellis & Everh.) Magnes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 165: 102 (1997)
 
 #### Original name
 Patellaria signata Ellis & Everh.

@@ -1,5 +1,4 @@
-Astrothelium africanum Zahlbr. SPECIES
-=======
+# Astrothelium africanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

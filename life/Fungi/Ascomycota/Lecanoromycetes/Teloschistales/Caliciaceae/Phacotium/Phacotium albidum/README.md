@@ -1,5 +1,4 @@
-Phacotium albidum (Körb.) Trevis. SPECIES
-=======
+# Phacotium albidum (Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

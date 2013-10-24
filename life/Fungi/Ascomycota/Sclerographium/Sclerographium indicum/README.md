@@ -1,5 +1,4 @@
-Sclerographium indicum N. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Sclerographium indicum N. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cristella filia (Bres.) Donk, 1957 SPECIES
-=======
+# Cristinia filia (Bres.) Liberta, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 27: 20 (1957)
+Can. J. Bot. 51: 1891 (1973)
 
 #### Original name
 null

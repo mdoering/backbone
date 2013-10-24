@@ -1,5 +1,4 @@
-Seynesiella G. Arnaud GENUS
-=======
+# Seynesiella G. Arnaud GENUS
 
 #### Status
 ACCEPTED

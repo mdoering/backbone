@@ -1,5 +1,4 @@
-Caseobacter Crombach, 1978 (Approved Lists, 1980) GENUS
-=======
+# Caseobacter Crombach, 1978 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

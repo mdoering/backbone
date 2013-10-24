@@ -1,5 +1,4 @@
-Craterellus peckii R.H. Petersen, 1976 SPECIES
-=======
+# Craterellus peckii R.H. Petersen, 1976 SPECIES
 
 #### Status
 ACCEPTED

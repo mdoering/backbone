@@ -1,5 +1,4 @@
-Corticium mississippiense (Lentz) M.J. Larsen, 1990 SPECIES
-=======
+# Corticium mississippiense (Lentz) M.J. Larsen, 1990 SPECIES
 
 #### Status
 ACCEPTED

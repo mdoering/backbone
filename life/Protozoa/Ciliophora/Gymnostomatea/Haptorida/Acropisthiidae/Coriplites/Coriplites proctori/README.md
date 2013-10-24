@@ -1,5 +1,4 @@
-Coriplites proctori Oertel, Wolf, Al-Rasheid & Foissner, 2008 SPECIES
-=======
+# Coriplites proctori Oertel, Wolf, Al-Rasheid & Foissner, 2008 SPECIES
 
 #### Status
 ACCEPTED

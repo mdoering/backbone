@@ -1,5 +1,4 @@
-Cantharellus schmitzii Heinem. SPECIES
-=======
+# Cantharellus schmitzii Heinem. SPECIES
 
 #### Status
 ACCEPTED

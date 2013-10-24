@@ -1,5 +1,4 @@
-Whitfordia warburgiana (Henn.) Murrill SPECIES
-=======
+# Whitfordia warburgiana (Henn.) Murrill SPECIES
 
 #### Status
 ACCEPTED

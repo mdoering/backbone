@@ -1,5 +1,4 @@
-Sporocystis fulva Höhn. SPECIES
-=======
+# Sporocystis fulva Höhn. SPECIES
 
 #### Status
 ACCEPTED

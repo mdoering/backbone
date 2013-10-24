@@ -1,5 +1,4 @@
-Lacrymaria acuta Kahl, 1933 SPECIES
-=======
+# Lacrymaria acuta Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

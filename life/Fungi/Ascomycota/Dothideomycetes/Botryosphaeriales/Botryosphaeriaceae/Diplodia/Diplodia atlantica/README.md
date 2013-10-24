@@ -1,5 +1,4 @@
-Diplodia atlantica Rieuf SPECIES
-=======
+# Diplodia atlantica Rieuf SPECIES
 
 #### Status
 ACCEPTED

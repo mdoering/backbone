@@ -1,14 +1,13 @@
-Leucoporus gracilis (Klotzsch) Pat., 1903 SPECIES
-=======
+# Filoboletus gracilis (Klotzsch ex Berk.) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 25 (1903)
+Lloydia 8: 216 (1945)
 
 #### Original name
 Polyporus gracilis Klotzsch, 1839

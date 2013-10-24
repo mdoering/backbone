@@ -1,5 +1,4 @@
-Haematomma nothofagi Kalb & Staiger SPECIES
-=======
+# Haematomma nothofagi Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

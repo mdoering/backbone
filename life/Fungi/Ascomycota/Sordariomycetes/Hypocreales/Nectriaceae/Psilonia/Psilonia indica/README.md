@@ -1,5 +1,4 @@
-Psilonia indica Niessl SPECIES
-=======
+# Psilonia indica Niessl SPECIES
 
 #### Status
 ACCEPTED

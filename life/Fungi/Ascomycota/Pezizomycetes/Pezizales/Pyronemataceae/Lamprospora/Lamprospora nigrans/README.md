@@ -1,5 +1,4 @@
-Lamprospora nigrans (Morgan) Seaver SPECIES
-=======
+# Lamprospora nigrans (Morgan) Seaver SPECIES
 
 #### Status
 ACCEPTED

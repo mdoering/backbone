@@ -1,5 +1,4 @@
-Rigidiporus vinctus (Berk.) Ryv., 1972 SPECIES
-=======
+# Rigidiporus vinctus (Berk.) Ryv., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Yurrajia J.V. Harv. GENUS
-=======
+# Yurrajia J.V. Harv. GENUS
 
 #### Status
 ACCEPTED

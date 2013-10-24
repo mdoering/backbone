@@ -1,5 +1,4 @@
-Coccotrichum carneum Wallr. SPECIES
-=======
+# Coccotrichum carneum Wallr. SPECIES
 
 #### Status
 ACCEPTED

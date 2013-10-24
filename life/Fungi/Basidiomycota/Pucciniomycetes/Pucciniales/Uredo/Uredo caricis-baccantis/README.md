@@ -1,5 +1,4 @@
-Uredo caricis-baccantis Sawada SPECIES
-=======
+# Uredo caricis-baccantis Sawada SPECIES
 
 #### Status
 ACCEPTED

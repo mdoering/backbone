@@ -1,5 +1,4 @@
-Irenina strombosiae Hansf. SPECIES
-=======
+# Irenina strombosiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

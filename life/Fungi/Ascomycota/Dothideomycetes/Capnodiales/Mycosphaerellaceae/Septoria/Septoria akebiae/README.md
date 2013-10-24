@@ -1,5 +1,4 @@
-Septoria akebiae N. Naito SPECIES
-=======
+# Septoria akebiae N. Naito SPECIES
 
 #### Status
 ACCEPTED

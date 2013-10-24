@@ -1,14 +1,13 @@
-Hypholoma trinitensis (Dennis) Pegler SPECIES
-=======
+# Hypholoma trinitense (Dennis) Pegler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 9: 509 (1983)
 
 #### Original name
 Pholiota trinitensis Dennis

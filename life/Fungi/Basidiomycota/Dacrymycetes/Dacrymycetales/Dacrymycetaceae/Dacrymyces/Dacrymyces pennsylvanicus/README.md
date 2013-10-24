@@ -1,5 +1,4 @@
-Dacrymyces pennsylvanicus Ginns & M.N.L. Lefebvre SPECIES
-=======
+# Dacrymyces pennsylvanicus Ginns & M.N.L. Lefebvre SPECIES
 
 #### Status
 ACCEPTED

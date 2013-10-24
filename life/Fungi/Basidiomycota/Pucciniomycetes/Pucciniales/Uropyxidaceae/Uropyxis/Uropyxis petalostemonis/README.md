@@ -1,17 +1,16 @@
-Uropyxis affinis Arthur, 1934 SPECIES
-=======
+# Uropyxis petalostemonis (Farl.) De Toni, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Manual of the Rusts in the United States & Canada 76 (1934)
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 735 (1888)
 
 #### Original name
-Uropyxis affinis Arthur, 1934
+Puccinia petalostemonis Farl., 1884
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Sphaeropsis passifloricola (Grove) J.F. Lu & P.K. Chi, 1992 SPECIES
-=======
+# Macrophoma passifloricola Grove, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of South China Agricultural University 13(4): 93 (1992)
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 127 (1935)
 
 #### Original name
 Macrophoma passifloricola Grove, 1935

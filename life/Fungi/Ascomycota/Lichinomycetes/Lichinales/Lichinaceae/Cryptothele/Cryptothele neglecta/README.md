@@ -1,5 +1,4 @@
-Cryptothele neglecta Henssen SPECIES
-=======
+# Cryptothele neglecta Henssen SPECIES
 
 #### Status
 ACCEPTED

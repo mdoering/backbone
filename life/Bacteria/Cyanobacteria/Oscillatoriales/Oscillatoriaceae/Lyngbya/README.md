@@ -1,14 +1,13 @@
-Cyclosperma Bonnemaison, 1822 GENUS
-=======
+# Lyngbya C.A. Agardh ex Gomont, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Phys. 44: 179.
+Ann. Sci. Nat. Bot. , ser. 7, 16: 118.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Lecanora sverdrupiana Øvstedal SPECIES
-=======
+# Lecanora sverdrupiana Øvstedal SPECIES
 
 #### Status
 ACCEPTED

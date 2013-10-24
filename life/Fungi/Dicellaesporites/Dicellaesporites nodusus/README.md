@@ -1,5 +1,4 @@
-Dicellaesporites nodusus V.S. Ediger SPECIES
-=======
+# Dicellaesporites nodusus V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina bylii (Vain.) Zahlbr. SPECIES
-=======
+# Graphina bylii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

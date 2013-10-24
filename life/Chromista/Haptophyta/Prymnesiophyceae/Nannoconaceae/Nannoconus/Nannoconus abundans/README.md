@@ -1,5 +1,4 @@
-Nannoconus abundans Stradner & Grün, 1973 SPECIES
-=======
+# Nannoconus abundans Stradner & Grün, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria euphorbiicola S. Ahmad SPECIES
-=======
+# Leptosphaeria euphorbiicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora dipsaci Hollós SPECIES
-=======
+# Cercospora dipsaci Hollós SPECIES
 
 #### Status
 ACCEPTED

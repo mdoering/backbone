@@ -1,5 +1,4 @@
-Salinicoccus roseus Ventosa et al., 1990 SPECIES
-=======
+# Salinicoccus roseus Ventosa et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

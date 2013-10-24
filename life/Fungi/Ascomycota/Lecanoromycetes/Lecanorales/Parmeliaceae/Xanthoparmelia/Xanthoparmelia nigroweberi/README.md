@@ -1,5 +1,4 @@
-Xanthoparmelia nigroweberi T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia nigroweberi T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

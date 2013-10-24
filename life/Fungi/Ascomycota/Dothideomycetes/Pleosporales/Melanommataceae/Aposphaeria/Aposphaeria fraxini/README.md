@@ -1,5 +1,4 @@
-Aposphaeria fraxini Zerova SPECIES
-=======
+# Aposphaeria fraxini Zerova SPECIES
 
 #### Status
 ACCEPTED

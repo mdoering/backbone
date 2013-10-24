@@ -1,5 +1,4 @@
-Usnea bogotensis Vain. SPECIES
-=======
+# Usnea bogotensis Vain. SPECIES
 
 #### Status
 ACCEPTED

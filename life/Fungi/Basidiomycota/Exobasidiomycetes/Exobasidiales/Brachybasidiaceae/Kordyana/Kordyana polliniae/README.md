@@ -1,5 +1,4 @@
-Kordyana polliniae Sawada SPECIES
-=======
+# Kordyana polliniae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halteria geleiana Szabo, 1935 SPECIES
-=======
+# Halteria geleiana Szabo, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parastasiellaceae FAMILY
-=======
+# Parastasiellaceae FAMILY
 
 #### Status
 ACCEPTED

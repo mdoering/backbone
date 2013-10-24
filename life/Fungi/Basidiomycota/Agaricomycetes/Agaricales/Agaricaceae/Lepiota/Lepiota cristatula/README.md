@@ -1,5 +1,4 @@
-Lepiota cristatula SPECIES
-=======
+# Lepiota cristatula SPECIES
 
 #### Status
 ACCEPTED

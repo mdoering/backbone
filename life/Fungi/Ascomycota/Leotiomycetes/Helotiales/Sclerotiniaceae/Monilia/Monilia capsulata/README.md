@@ -1,5 +1,4 @@
-Monilia capsulata Lindner & P. Knuth SPECIES
-=======
+# Monilia capsulata Lindner & P. Knuth SPECIES
 
 #### Status
 ACCEPTED

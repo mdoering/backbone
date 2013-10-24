@@ -1,5 +1,4 @@
-Banksiamyces macrocarpus G.W. Beaton, 1982 SPECIES
-=======
+# Banksiamyces macrocarpus G.W. Beaton, 1982 SPECIES
 
 #### Status
 ACCEPTED

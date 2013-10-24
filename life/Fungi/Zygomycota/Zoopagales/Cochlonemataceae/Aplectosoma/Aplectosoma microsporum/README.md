@@ -1,5 +1,4 @@
-Aplectosoma microsporum Drechsler, 1951 SPECIES
-=======
+# Aplectosoma microsporum Drechsler, 1951 SPECIES
 
 #### Status
 ACCEPTED

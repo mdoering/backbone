@@ -1,5 +1,4 @@
-Peziza penicillata Schwein. SPECIES
-=======
+# Peziza penicillata Schwein. SPECIES
 
 #### Status
 ACCEPTED

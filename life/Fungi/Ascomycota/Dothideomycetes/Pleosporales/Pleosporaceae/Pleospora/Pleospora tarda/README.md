@@ -1,5 +1,4 @@
-Pleospora tarda E.G. Simmons, 1986 SPECIES
-=======
+# Pleospora tarda E.G. Simmons, 1986 SPECIES
 
 #### Status
 ACCEPTED

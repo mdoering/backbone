@@ -1,5 +1,4 @@
-Charltonina Bermudez, 1952 GENUS
-=======
+# Charltonina Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flexibacter polymorphus Lewin, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Flexibacter polymorphus Lewin, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

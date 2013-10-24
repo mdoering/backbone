@@ -1,5 +1,4 @@
-Phyllachora deminuta Syd., 1930 SPECIES
-=======
+# Phyllachora deminuta Syd., 1930 SPECIES
 
 #### Status
 DOUBTFUL

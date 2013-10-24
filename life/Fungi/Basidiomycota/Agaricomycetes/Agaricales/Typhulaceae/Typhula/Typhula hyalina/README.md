@@ -1,14 +1,13 @@
-Pistillaria hyalina (Quél.) Sacc., 1888 SPECIES
-=======
+# Typhula hyalina (Quél.) Berthier, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 759 (1888)
+Bull. mens. Soc. linn. Lyon 45: 79 (1976)
 
 #### Original name
 Pistillina hyalina Quél., 1880

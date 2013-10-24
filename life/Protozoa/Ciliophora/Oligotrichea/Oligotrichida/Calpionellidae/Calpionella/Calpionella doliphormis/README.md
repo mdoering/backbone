@@ -1,5 +1,4 @@
-Calpionella doliphormis SPECIES
-=======
+# Calpionella doliphormis SPECIES
 
 #### Status
 ACCEPTED

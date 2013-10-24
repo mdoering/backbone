@@ -1,5 +1,4 @@
-Nucellosphaeridium macronucleotum Luo Qiling, 1985 SPECIES
-=======
+# Nucellosphaeridium macronucleotum Luo Qiling, 1985 SPECIES
 
 #### Status
 ACCEPTED

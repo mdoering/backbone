@@ -1,5 +1,4 @@
-Pallitrichodina stephani Van As & Basson, 1993 SPECIES
-=======
+# Pallitrichodina stephani Van As & Basson, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stereocaulon pseudoarbuscula Asahina SPECIES
-=======
+# Leprocaulon pseudoarbuscula (Asahina) I.M. Lamb & A.M. Ward SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 38: 533 (1974)
 
 #### Original name
 Stereocaulon pseudoarbuscula Asahina

@@ -1,5 +1,4 @@
-Humaria pictilis Quél. SPECIES
-=======
+# Humaria pictilis Quél. SPECIES
 
 #### Status
 ACCEPTED

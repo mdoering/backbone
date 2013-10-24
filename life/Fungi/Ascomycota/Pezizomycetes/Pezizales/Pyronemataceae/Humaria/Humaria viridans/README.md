@@ -1,5 +1,4 @@
-Humaria viridans (Hedw.) Sacc. SPECIES
-=======
+# Humaria viridans (Hedw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

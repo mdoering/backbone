@@ -1,5 +1,4 @@
-Mycobilimbia hunana (Zahlbr.) D.D. Awasthi SPECIES
-=======
+# Mycobilimbia hunana (Zahlbr.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

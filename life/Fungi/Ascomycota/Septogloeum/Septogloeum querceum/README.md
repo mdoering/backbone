@@ -1,5 +1,4 @@
-Septogloeum querceum Davis SPECIES
-=======
+# Septogloeum querceum Davis SPECIES
 
 #### Status
 ACCEPTED

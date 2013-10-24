@@ -1,17 +1,16 @@
-Endothiella coccolobii Roane SPECIES
-=======
+# Endothiella coccolobae Roane SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Chestnut blight, other Endothia diseases, and the genus Endothia (St. Paul) 36 (1986)
 
 #### Original name
-Endothiella coccolobii Roane
+Endothiella coccolobae Roane
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lamproderma alpestroides Mar. Mey. & Poulain SPECIES
-=======
+# Lamproderma alpestroides Mar. Mey. & Poulain SPECIES
 
 #### Status
 ACCEPTED

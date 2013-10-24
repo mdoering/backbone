@@ -1,5 +1,4 @@
-Pyrenula arthoniotheca Upreti SPECIES
-=======
+# Pyrenula arthoniotheca Upreti SPECIES
 
 #### Status
 ACCEPTED

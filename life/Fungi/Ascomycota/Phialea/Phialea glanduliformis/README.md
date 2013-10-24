@@ -1,5 +1,4 @@
-Phialea glanduliformis var. glanduliformis VARIETY
-=======
+# Phialea glanduliformis (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phialea glanduliformis var. glanduliformis
+null
 
 ### Remarks
 null

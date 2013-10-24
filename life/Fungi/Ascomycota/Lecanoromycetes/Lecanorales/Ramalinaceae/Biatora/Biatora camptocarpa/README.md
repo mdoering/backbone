@@ -1,5 +1,4 @@
-Biatora camptocarpa Tuck. SPECIES
-=======
+# Biatora camptocarpa Tuck. SPECIES
 
 #### Status
 ACCEPTED

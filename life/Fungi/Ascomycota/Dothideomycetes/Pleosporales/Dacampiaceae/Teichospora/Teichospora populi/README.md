@@ -1,5 +1,4 @@
-Teichospora populi (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Teichospora populi (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

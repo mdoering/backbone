@@ -1,5 +1,4 @@
-Cintractia caricicola Henn. SPECIES
-=======
+# Cintractia caricicola Henn. SPECIES
 
 #### Status
 ACCEPTED

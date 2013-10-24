@@ -1,5 +1,4 @@
-Melaniella R. Bauer, Vánky, Begerow & Oberwinkler, 1999 GENUS
-=======
+# Melaniella R. Bauer, Vánky, Begerow & Oberwinkler, 1999 GENUS
 
 #### Status
 ACCEPTED

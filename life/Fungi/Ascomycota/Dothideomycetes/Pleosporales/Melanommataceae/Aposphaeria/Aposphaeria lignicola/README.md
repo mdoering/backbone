@@ -1,5 +1,4 @@
-Aposphaeria lignicola S. Ahmad SPECIES
-=======
+# Aposphaeria lignicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

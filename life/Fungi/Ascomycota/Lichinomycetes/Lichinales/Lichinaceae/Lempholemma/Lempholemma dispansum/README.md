@@ -1,5 +1,4 @@
-Lempholemma dispansum H. Magn. SPECIES
-=======
+# Lempholemma dispansum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

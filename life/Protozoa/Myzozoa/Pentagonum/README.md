@@ -1,5 +1,4 @@
-Pentagonum T.F.Vozzhennikova GENUS
-=======
+# Pentagonum T.F.Vozzhennikova GENUS
 
 #### Status
 ACCEPTED

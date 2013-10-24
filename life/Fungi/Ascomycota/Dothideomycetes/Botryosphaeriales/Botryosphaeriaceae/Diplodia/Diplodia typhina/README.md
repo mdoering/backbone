@@ -1,5 +1,4 @@
-Diplodia typhina Sacc. SPECIES
-=======
+# Diplodia typhina Sacc. SPECIES
 
 #### Status
 ACCEPTED

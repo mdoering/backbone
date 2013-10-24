@@ -1,5 +1,4 @@
-Mycena bresadolae Schulzer SPECIES
-=======
+# Mycena bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia cohabitans Coppins SPECIES
-=======
+# Arthonia cohabitans Coppins SPECIES
 
 #### Status
 ACCEPTED

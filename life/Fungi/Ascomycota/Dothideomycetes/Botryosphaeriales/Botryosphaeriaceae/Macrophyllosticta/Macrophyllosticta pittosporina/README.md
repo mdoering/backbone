@@ -1,5 +1,4 @@
-Macrophyllosticta pittosporina Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta pittosporina Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria albidoflava Schild, 1992 SPECIES
-=======
+# Ramaria albidoflava Schild, 1992 SPECIES
 
 #### Status
 ACCEPTED

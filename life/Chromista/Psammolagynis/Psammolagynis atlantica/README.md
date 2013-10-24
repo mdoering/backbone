@@ -1,5 +1,4 @@
-Psammolagynis atlantica Golemansky, 2000 SPECIES
-=======
+# Psammolagynis atlantica Golemansky, 2000 SPECIES
 
 #### Status
 ACCEPTED

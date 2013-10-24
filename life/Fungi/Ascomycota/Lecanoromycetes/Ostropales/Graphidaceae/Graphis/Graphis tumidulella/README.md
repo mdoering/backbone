@@ -1,5 +1,4 @@
-Graphis tumidulella Fink SPECIES
-=======
+# Graphis tumidulella Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria basaltica Müll. Arg. SPECIES
-=======
+# Patellaria basaltica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus odini Fr., 1863 SPECIES
-=======
+# Gymnopilus odini (Fr.) Bon & P. Roux, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 300 (1863)
+Fungi Non Delineati, Raro vel Haud Perspecte et Explorate Descripti aut Definite Picti 17: 10 (2002)
 
 #### Original name
 Agaricus odini Fr., 1863

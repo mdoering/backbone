@@ -1,8 +1,7 @@
-Coniothyrium zizyphinum S. Ahmad SPECIES
-=======
+# Coniothyrium ziziphinum S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium zizyphinum S. Ahmad
+Coniothyrium ziziphinum S. Ahmad
 
 ### Remarks
 null

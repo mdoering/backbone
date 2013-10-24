@@ -1,5 +1,4 @@
-Schulzeria goossensiae Beeli SPECIES
-=======
+# Schulzeria goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphilomopsis citrina Jatta SPECIES
-=======
+# Amphilomopsis citrina Jatta SPECIES
 
 #### Status
 ACCEPTED

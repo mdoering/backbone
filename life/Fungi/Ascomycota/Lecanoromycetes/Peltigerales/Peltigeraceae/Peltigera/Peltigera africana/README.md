@@ -1,5 +1,4 @@
-Peltigera africana f. congesta Inumaru FORM
-=======
+# Peltigera africana (Jatta) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera africana f. congesta Inumaru
+null
 
 ### Remarks
 null

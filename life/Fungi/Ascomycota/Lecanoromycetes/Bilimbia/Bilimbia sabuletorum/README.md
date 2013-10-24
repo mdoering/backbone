@@ -1,17 +1,16 @@
-Bilimbia sabuletorum f. sabuletorum FORM
-=======
+# Bilimbia sabuletorum (Schreb.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 19: 637 (1869)
 
 #### Original name
-null
+Lichen sabuletorum Schreb.
 
 ### Remarks
 null

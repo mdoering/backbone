@@ -1,5 +1,4 @@
-Clitocybe flavolamellata Rick SPECIES
-=======
+# Clitocybe flavolamellata Rick SPECIES
 
 #### Status
 ACCEPTED

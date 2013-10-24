@@ -1,5 +1,4 @@
-Volutella violae Stoneman SPECIES
-=======
+# Volutella violae Stoneman SPECIES
 
 #### Status
 ACCEPTED

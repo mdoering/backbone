@@ -1,5 +1,4 @@
-Cortinarius rhodophyllus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius rhodophyllus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

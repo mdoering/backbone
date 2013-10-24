@@ -1,5 +1,4 @@
-Cladospyris Haeckel, 1881 GENUS
-=======
+# Cladospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

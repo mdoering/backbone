@@ -1,5 +1,4 @@
-Polystictus subbulbipes Henn. SPECIES
-=======
+# Polystictus subbulbipes Henn. SPECIES
 
 #### Status
 ACCEPTED

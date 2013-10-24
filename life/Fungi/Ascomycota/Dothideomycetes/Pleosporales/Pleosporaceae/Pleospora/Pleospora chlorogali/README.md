@@ -1,17 +1,16 @@
-Pleospora chlorogalli Fairm. SPECIES
-=======
+# Pleospora chlorogali Fairm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Millspaugh & Nuttall, Publications of the Field Museum of Natural History, Botany Series 5(no. 212): 352 (1923)
 
 #### Original name
-Pleospora chlorogalli Fairm.
+Pleospora chlorogali Fairm.
 
 ### Remarks
 null

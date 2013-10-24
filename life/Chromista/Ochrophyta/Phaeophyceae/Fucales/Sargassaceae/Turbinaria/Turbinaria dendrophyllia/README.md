@@ -1,5 +1,4 @@
-Turbinaria dendrophyllia Bernard SPECIES
-=======
+# Turbinaria dendrophyllia Bernard SPECIES
 
 #### Status
 ACCEPTED

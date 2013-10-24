@@ -1,8 +1,7 @@
-Coprinus britzelmayri Sacc. & Cub. SPECIES
-=======
+# Coprinus britzelmayrii Sacc. & Cub. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coprinus britzelmayri Sacc. & Cub.
+Coprinus britzelmayrii Sacc. & Cub.
 
 ### Remarks
 null

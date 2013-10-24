@@ -1,5 +1,4 @@
-Gloeocapsa docorticans (A. Brown) P. Richter SPECIES
-=======
+# Gloeocapsa docorticans (A. Brown) P. Richter SPECIES
 
 #### Status
 ACCEPTED

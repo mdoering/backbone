@@ -1,17 +1,16 @@
-Cryptococcus curiosus (Komag. & Nakase) Rodr. Mir. & Weijman, 1988 SPECIES
-=======
+# Mrakia frigida (Fell, Statzell, I.L. Hunter & Phaff) Y. Yamada & Komag., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 33(5): 457 (1987)
 
 #### Original name
-null
+Leucosporidium frigidum Fell, Statzell, I.L. Hunter & Phaff, 1970
 
 ### Remarks
 null

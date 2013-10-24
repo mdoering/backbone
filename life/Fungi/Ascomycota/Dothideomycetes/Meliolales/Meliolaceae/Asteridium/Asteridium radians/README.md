@@ -1,5 +1,4 @@
-Asteridium radians Rehm SPECIES
-=======
+# Asteridium radians Rehm SPECIES
 
 #### Status
 ACCEPTED

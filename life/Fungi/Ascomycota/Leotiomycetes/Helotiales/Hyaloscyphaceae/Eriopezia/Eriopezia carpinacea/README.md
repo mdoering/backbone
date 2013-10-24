@@ -1,5 +1,4 @@
-Eriopezia carpinacea Velen. SPECIES
-=======
+# Eriopezia carpinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia zebrina Petch SPECIES
-=======
+# Diplodia zebrina Petch SPECIES
 
 #### Status
 ACCEPTED

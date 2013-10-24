@@ -1,5 +1,4 @@
-Prospodium stizophylli H.S. Jacks. & Holw. SPECIES
-=======
+# Prospodium stizophylli H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

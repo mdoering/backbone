@@ -1,5 +1,4 @@
-Pleospora polymorpha Maubl. SPECIES
-=======
+# Pleospora polymorpha Maubl. SPECIES
 
 #### Status
 ACCEPTED

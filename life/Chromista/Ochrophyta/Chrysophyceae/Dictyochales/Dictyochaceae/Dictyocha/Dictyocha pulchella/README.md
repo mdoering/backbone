@@ -1,5 +1,4 @@
-Dictyocha pulchella var. inflata D. Bukry VARIETY
-=======
+# Dictyocha pulchella D. Bukry SPECIES
 
 #### Status
 ACCEPTED

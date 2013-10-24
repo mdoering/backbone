@@ -1,5 +1,4 @@
-Stagonospora cyani Czerepan. SPECIES
-=======
+# Stagonospora cyani Czerepan. SPECIES
 
 #### Status
 ACCEPTED

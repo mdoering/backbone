@@ -1,5 +1,4 @@
-Calyptrosphaera heimdalae R.E. Norris SPECIES
-=======
+# Calyptrosphaera heimdalae R.E. Norris SPECIES
 
 #### Status
 ACCEPTED

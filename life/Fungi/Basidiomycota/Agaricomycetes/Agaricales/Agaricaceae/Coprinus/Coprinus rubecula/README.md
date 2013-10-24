@@ -1,5 +1,4 @@
-Coprinus rubecula Berk. & Broome SPECIES
-=======
+# Coprinus rubecula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

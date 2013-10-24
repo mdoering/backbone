@@ -1,5 +1,4 @@
-Fusisporium coccinellum Kalchbr. SPECIES
-=======
+# Fusisporium coccinellum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

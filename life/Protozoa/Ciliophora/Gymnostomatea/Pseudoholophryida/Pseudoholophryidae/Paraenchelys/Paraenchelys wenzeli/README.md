@@ -1,5 +1,4 @@
-Paraenchelys wenzeli Foissner, 1984 SPECIES
-=======
+# Paraenchelys wenzeli Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

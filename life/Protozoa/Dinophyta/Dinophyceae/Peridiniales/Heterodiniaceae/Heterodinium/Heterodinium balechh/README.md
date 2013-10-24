@@ -1,5 +1,4 @@
-Heterodinium balechh Rampi SPECIES
-=======
+# Heterodinium balechh Rampi SPECIES
 
 #### Status
 ACCEPTED

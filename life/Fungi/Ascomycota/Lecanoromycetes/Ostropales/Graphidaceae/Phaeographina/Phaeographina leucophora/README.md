@@ -1,5 +1,4 @@
-Phaeographina leucophora (Nyl.) C.W. Dodge SPECIES
-=======
+# Phaeographina leucophora (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pogonospora GENUS
-=======
+# Pogonospora GENUS
 
 #### Status
 ACCEPTED

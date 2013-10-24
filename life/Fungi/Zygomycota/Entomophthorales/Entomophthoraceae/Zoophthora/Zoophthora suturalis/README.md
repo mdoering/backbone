@@ -1,5 +1,4 @@
-Zoophthora suturalis (Ben Ze'ev) Balazy SPECIES
-=======
+# Zoophthora suturalis (Ben Ze'ev) Balazy SPECIES
 
 #### Status
 ACCEPTED

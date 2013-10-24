@@ -1,5 +1,4 @@
-Oudemansiella venosolamellata (Imazeki & Toki) Imazeki & Hongo SPECIES
-=======
+# Oudemansiella venosolamellata (Imazeki & Toki) Imazeki & Hongo SPECIES
 
 #### Status
 ACCEPTED

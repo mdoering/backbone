@@ -1,5 +1,4 @@
-Cacumisporium curvularioides R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Cacumisporium curvularioides R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

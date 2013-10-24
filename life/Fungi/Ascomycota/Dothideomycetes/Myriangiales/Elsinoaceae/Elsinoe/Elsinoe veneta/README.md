@@ -1,5 +1,4 @@
-Elsinoe veneta (Burkh.) Jenkins, 1932 SPECIES
-=======
+# Elsinoe veneta (Burkh.) Jenkins, 1932 SPECIES
 
 #### Status
 ACCEPTED

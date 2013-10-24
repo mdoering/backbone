@@ -1,5 +1,4 @@
-Tricholoma tottenii (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma tottenii (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

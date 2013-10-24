@@ -1,5 +1,4 @@
-Cucurbitaria aurantium (Wallr.) Kuntze SPECIES
-=======
+# Cucurbitaria aurantium (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

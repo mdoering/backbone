@@ -1,5 +1,4 @@
-Lactifluus repraesentaneus (Brizelm.) Kuntze SPECIES
-=======
+# Lactifluus repraesentaneus (Brizelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

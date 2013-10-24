@@ -1,5 +1,4 @@
-Lacellinopsis glomerulosa (Penz. & Sacc.) S. Hughes SPECIES
-=======
+# Lacellinopsis glomerulosa (Penz. & Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

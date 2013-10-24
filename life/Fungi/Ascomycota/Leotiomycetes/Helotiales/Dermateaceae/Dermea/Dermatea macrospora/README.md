@@ -1,5 +1,4 @@
-Dermatea macrospora Clem. SPECIES
-=======
+# Dermatea macrospora Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrosporium compactum (Cooke & Ellis) Sumst. SPECIES
-=======
+# Acrosporium compactum (Cooke & Ellis) Sumst. SPECIES
 
 #### Status
 ACCEPTED

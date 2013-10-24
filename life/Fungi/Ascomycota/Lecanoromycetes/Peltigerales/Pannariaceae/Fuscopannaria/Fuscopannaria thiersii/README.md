@@ -1,5 +1,4 @@
-Fuscopannaria thiersii P. M. Jørg. SPECIES
-=======
+# Fuscopannaria thiersii P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

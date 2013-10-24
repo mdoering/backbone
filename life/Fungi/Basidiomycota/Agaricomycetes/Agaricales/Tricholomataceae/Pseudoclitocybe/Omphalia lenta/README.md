@@ -1,5 +1,4 @@
-Omphalia lenta (Murrill) Murrill SPECIES
-=======
+# Omphalia lenta (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

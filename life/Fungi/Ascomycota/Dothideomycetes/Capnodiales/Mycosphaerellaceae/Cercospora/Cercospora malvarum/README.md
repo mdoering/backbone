@@ -1,5 +1,4 @@
-Cercospora malvarum Sacc., 1881 SPECIES
-=======
+# Cercospora malvarum Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED

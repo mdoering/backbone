@@ -1,5 +1,4 @@
-Helicoön gigantisporum Goh & K.D. Hyde SPECIES
-=======
+# Helicoön gigantisporum Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Psathyrella euthugramma (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Psathyrella euthygramma (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 15(1): 127 (1961)
 
 #### Original name
 Agaricus euthygrammus Berk. & M.A. Curtis

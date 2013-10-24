@@ -1,5 +1,4 @@
-Agaricus summissus Britzelm. SPECIES
-=======
+# Agaricus summissus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

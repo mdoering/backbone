@@ -1,8 +1,7 @@
-Spathidium plurinucleatum André, 1916 SPECIES
-=======
+# Spathidium chorelligerum Kahl, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

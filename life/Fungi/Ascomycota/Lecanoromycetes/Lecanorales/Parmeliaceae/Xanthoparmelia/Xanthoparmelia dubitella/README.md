@@ -1,5 +1,4 @@
-Xanthoparmelia dubitella Elix SPECIES
-=======
+# Xanthoparmelia dubitella Elix SPECIES
 
 #### Status
 ACCEPTED

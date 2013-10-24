@@ -1,5 +1,4 @@
-Uleodothella aphanes (Rehm) Syd. & P. Syd. SPECIES
-=======
+# Uleodothella aphanes (Rehm) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

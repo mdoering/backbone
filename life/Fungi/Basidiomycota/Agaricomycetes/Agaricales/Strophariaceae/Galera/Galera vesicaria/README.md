@@ -1,5 +1,4 @@
-Galera vesicaria Velen. SPECIES
-=======
+# Galera vesicaria Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia morina Syd. & P. Syd. SPECIES
-=======
+# Diplodia morina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halobacter Wainoe, Tindall & Ingvorsen, 1999 GENUS
-=======
+# Halobacter Wainoe, Tindall & Ingvorsen, 1999 GENUS
 
 #### Status
 ACCEPTED

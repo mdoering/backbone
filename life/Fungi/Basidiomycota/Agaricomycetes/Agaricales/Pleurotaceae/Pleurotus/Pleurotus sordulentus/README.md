@@ -1,5 +1,4 @@
-Pleurotus sordulentus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pleurotus sordulentus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

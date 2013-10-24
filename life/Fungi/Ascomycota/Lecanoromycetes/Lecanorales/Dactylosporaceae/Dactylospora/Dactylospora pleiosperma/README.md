@@ -1,5 +1,4 @@
-Dactylospora pleiosperma Triebel SPECIES
-=======
+# Dactylospora pleiosperma Triebel SPECIES
 
 #### Status
 ACCEPTED

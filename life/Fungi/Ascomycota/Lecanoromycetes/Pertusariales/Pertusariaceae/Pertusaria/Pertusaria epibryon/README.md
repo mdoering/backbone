@@ -1,5 +1,4 @@
-Pertusaria epibryon Redón SPECIES
-=======
+# Pertusaria epibryon Redón SPECIES
 
 #### Status
 ACCEPTED

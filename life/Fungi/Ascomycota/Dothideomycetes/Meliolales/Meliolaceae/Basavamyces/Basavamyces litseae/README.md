@@ -1,5 +1,4 @@
-Basavamyces litseae Hosag., C.K. Biju & T.K. Abraham, 2005 SPECIES
-=======
+# Basavamyces litseae Hosag., C.K. Biju & T.K. Abraham, 2005 SPECIES
 
 #### Status
 ACCEPTED

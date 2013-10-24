@@ -1,5 +1,4 @@
-Pocillaria haematopus (Berk.) Kuntze SPECIES
-=======
+# Pocillaria haematopus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

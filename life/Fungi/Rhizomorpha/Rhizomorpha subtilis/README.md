@@ -1,5 +1,4 @@
-Rhizomorpha subtilis Opiz SPECIES
-=======
+# Rhizomorpha subtilis Opiz SPECIES
 
 #### Status
 ACCEPTED

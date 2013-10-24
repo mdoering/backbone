@@ -1,5 +1,4 @@
-Sterigmatocystis luteonigra M.L. Lutz SPECIES
-=======
+# Sterigmatocystis luteonigra M.L. Lutz SPECIES
 
 #### Status
 ACCEPTED

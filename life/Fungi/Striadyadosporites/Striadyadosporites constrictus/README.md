@@ -1,5 +1,4 @@
-Striadyadosporites constrictus Dueñas SPECIES
-=======
+# Striadyadosporites constrictus Dueñas SPECIES
 
 #### Status
 ACCEPTED

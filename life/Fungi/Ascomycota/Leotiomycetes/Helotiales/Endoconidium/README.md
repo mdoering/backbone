@@ -1,5 +1,4 @@
-Endoconidium Prill. & Delacr. GENUS
-=======
+# Endoconidium Prill. & Delacr. GENUS
 
 #### Status
 ACCEPTED

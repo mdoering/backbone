@@ -1,17 +1,16 @@
-Lactaria cognoscibilis Beardslee & Burl. SPECIES
-=======
+# Lactarius cognoscibilis Beardslee & Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32: 577 (1940)
 
 #### Original name
-Lactaria cognoscibilis Beardslee & Burl.
+Lactarius cognoscibilis Beardslee & Burl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fomitopsis sanmingensis J.D. Zhao & X.Q. Zhang, 1991 SPECIES
-=======
+# Fomitopsis sanmingensis J.D. Zhao & X.Q. Zhang, 1991 SPECIES
 
 #### Status
 ACCEPTED

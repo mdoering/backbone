@@ -1,5 +1,4 @@
-Endophyllum singulare Dietel & Holw. SPECIES
-=======
+# Endophyllum singulare Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

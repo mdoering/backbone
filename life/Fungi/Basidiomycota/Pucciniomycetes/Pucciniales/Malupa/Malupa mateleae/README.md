@@ -1,5 +1,4 @@
-Malupa mateleae Buriticá SPECIES
-=======
+# Malupa mateleae Buriticá SPECIES
 
 #### Status
 ACCEPTED

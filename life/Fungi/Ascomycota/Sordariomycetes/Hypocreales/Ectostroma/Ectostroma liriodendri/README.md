@@ -1,5 +1,4 @@
-Ectostroma liriodendri (Kunze) Fr. SPECIES
-=======
+# Ectostroma liriodendri (Kunze) Fr. SPECIES
 
 #### Status
 ACCEPTED

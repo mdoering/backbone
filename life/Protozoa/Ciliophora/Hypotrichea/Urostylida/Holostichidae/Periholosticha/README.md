@@ -1,5 +1,4 @@
-Periholosticha Hemberger, 1985 GENUS
-=======
+# Periholosticha Hemberger, 1985 GENUS
 
 #### Status
 ACCEPTED

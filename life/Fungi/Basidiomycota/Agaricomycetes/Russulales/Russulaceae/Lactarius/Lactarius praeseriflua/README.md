@@ -1,8 +1,7 @@
-Lactaria praeseriflua Murrill SPECIES
-=======
+# Lactarius praeseriflua Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lactaria praeseriflua Murrill
+Lactarius praeseriflua Murrill
 
 ### Remarks
 null

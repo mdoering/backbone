@@ -1,5 +1,4 @@
-Aecidium lobatum Körn. SPECIES
-=======
+# Aecidium lobatum Körn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterococcus corniculatus Pitschmann SPECIES
-=======
+# Heterococcus corniculatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

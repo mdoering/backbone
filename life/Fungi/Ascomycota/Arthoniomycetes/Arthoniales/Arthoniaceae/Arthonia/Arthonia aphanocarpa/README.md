@@ -1,5 +1,4 @@
-Arthonia aphanocarpa Nyl. SPECIES
-=======
+# Arthonia aphanocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

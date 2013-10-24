@@ -1,5 +1,4 @@
-Endohyalina insularis (Arnold) Giralt, van den Boom & Elix SPECIES
-=======
+# Endohyalina insularis (Arnold) Giralt, van den Boom & Elix SPECIES
 
 #### Status
 ACCEPTED

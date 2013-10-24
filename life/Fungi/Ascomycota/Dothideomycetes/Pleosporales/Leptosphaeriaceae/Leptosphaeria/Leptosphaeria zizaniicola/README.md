@@ -1,5 +1,4 @@
-Leptosphaeria zizaniicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria zizaniicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

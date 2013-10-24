@@ -1,5 +1,4 @@
-Cyathella catiniformis Brot. SPECIES
-=======
+# Cyathella catiniformis Brot. SPECIES
 
 #### Status
 ACCEPTED

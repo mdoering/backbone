@@ -1,5 +1,4 @@
-Graphis nematodiza Vain. SPECIES
-=======
+# Graphis nematodiza Vain. SPECIES
 
 #### Status
 ACCEPTED

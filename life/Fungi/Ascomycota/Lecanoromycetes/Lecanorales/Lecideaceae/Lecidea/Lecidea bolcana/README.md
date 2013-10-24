@@ -1,5 +1,4 @@
-Lecidea bolcana Pollich SPECIES
-=======
+# Lecidea bolcana Pollich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe scandens Singer SPECIES
-=======
+# Clitocybe scandens Singer SPECIES
 
 #### Status
 ACCEPTED

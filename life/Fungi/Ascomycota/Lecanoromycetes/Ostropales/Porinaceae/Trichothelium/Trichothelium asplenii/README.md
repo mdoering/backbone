@@ -1,5 +1,4 @@
-Trichothelium asplenii (Zahlbr.) R. Sant. SPECIES
-=======
+# Trichothelium asplenii (Zahlbr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

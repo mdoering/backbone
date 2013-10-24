@@ -1,5 +1,4 @@
-Leptosphaeria anarithmoides Sacc. & Speg. SPECIES
-=======
+# Leptosphaeria anarithmoides Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

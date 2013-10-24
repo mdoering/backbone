@@ -1,5 +1,4 @@
-Placopsis parellina var. parellina VARIETY
-=======
+# Placopsis parellina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Results of the Norwegian Scientific Expedition to Tristan da Cunha 1937-1938 3: 3 (1940)
+null
 
 #### Original name
-Placopsis parellina var. parellina
+null
 
 ### Remarks
 null

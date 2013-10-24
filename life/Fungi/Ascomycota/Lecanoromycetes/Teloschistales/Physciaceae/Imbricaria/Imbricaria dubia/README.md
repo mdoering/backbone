@@ -1,5 +1,4 @@
-Imbricaria dubia (Wulfen) Arnold SPECIES
-=======
+# Imbricaria dubia (Wulfen) Arnold SPECIES
 
 #### Status
 ACCEPTED

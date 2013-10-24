@@ -1,5 +1,4 @@
-Tritirachium purpureum (Saito) J.F.H. Beyma SPECIES
-=======
+# Tritirachium purpureum (Saito) J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

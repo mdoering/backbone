@@ -1,5 +1,4 @@
-Sphaerulina quitensis Petr. SPECIES
-=======
+# Sphaerulina quitensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea mahluensis (Räsänen) H. Magn. SPECIES
-=======
+# Lecidea mahluensis (Räsänen) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

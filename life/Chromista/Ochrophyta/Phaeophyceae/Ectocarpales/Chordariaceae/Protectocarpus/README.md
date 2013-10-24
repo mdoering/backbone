@@ -1,5 +1,4 @@
-Protectocarpus Kornmann, 1955 GENUS
-=======
+# Protectocarpus Kornmann, 1955 GENUS
 
 #### Status
 ACCEPTED

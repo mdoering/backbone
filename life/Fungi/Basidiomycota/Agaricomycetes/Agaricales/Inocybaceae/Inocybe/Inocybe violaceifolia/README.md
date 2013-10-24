@@ -1,5 +1,4 @@
-Inocybe violaceifolia Peck SPECIES
-=======
+# Inocybe violaceifolia Peck SPECIES
 
 #### Status
 ACCEPTED

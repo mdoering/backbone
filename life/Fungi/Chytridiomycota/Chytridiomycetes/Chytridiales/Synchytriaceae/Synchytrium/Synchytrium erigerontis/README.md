@@ -1,5 +1,4 @@
-Synchytrium erigerontis M.T. Cook SPECIES
-=======
+# Synchytrium erigerontis M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

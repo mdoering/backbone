@@ -1,5 +1,4 @@
-Helminthosporium marantae Sawada & Katsuki SPECIES
-=======
+# Helminthosporium marantae Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

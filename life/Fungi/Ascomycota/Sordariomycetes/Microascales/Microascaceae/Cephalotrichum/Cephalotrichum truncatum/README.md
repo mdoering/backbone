@@ -1,5 +1,4 @@
-Cephalotrichum truncatum (Cooke & Peck) Kuntze SPECIES
-=======
+# Cephalotrichum truncatum (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema exanthasmicarpum Leight. SPECIES
-=======
+# Thelotrema exanthasmicarpum Leight. SPECIES
 
 #### Status
 ACCEPTED

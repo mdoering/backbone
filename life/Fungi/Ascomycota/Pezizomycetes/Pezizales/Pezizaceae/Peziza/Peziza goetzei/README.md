@@ -1,5 +1,4 @@
-Peziza goetzei (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Peziza goetzei (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

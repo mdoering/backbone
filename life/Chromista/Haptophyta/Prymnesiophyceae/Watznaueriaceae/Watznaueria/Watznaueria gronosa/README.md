@@ -1,5 +1,4 @@
-Watznaueria gronosa (L.E. Stover) J.B. Risatti SPECIES
-=======
+# Watznaueria gronosa (L.E. Stover) J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

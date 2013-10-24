@@ -1,14 +1,13 @@
-Nodulosphaeria engadinensis (E. Müll.) Shoemaker & C.E. Babc., 1987 SPECIES
-=======
+# Wettsteinina engadinensis E. Müll., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 65(9): 1921 (1987)
+Sydowia 4: 202 (1950)
 
 #### Original name
 Wettsteinina engadinensis E. Müll., 1950

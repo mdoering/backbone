@@ -1,5 +1,4 @@
-Sphaeronaema putrefaciens Naumov SPECIES
-=======
+# Sphaeronaema putrefaciens Naumov SPECIES
 
 #### Status
 ACCEPTED

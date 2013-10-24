@@ -1,5 +1,4 @@
-Lophodermium svalbardense Lind, 1928 SPECIES
-=======
+# Lophodermium svalbardense Lind, 1928 SPECIES
 
 #### Status
 ACCEPTED

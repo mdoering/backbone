@@ -1,5 +1,4 @@
-Didymaria nasturtii Pospelov SPECIES
-=======
+# Didymaria nasturtii Pospelov SPECIES
 
 #### Status
 ACCEPTED

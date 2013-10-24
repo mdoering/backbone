@@ -1,5 +1,4 @@
-Dexiotricha lucida SPECIES
-=======
+# Dexiotricha lucida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Linostoma Yankovskij, 1978 GENUS
-=======
+# Linostomella Aescht in Foissner, Berger & Schaumberg, 1999 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-In Borkin [Ed. ] [Morphology, Systematics and evolution of animals. Collection of scientific work completed in 1976 and 1977. ] Tezisy Dokl. Zool. Inst. Akad. Nauk SSSR Leningrad: 39.
+in Foissner, Berger & Schaumberg, Infber Bayer Landesamtes Wasserwirtsch 3: 655.
 
 #### Original name
-null
+Linostoma Yankovskij, 1978
 
 ### Remarks
 null

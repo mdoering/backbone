@@ -1,5 +1,4 @@
-Spiroloculina robusta SPECIES
-=======
+# Spiroloculina robusta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete berkeleyana (Mont.) Cooke SPECIES
-=======
+# Hymenochaete berkeleyana (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

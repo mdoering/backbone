@@ -1,5 +1,4 @@
-Pleurotus semitectus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus semitectus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

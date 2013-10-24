@@ -1,5 +1,4 @@
-Septoria ligustrina Sacc. SPECIES
-=======
+# Septoria ligustrina Sacc. SPECIES
 
 #### Status
 ACCEPTED

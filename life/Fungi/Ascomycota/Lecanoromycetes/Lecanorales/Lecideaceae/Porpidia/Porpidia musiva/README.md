@@ -1,17 +1,16 @@
-Lecidea contigua f. contigua FORM
-=======
+# Porpidia musiva (Körb.) Hertel & Knoph SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. carniol. (Wien), Edn 2 14 (1827)
+null
 
 #### Original name
-Lecidea contigua f. contigua
+null
 
 ### Remarks
 null

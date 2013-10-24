@@ -1,5 +1,4 @@
-Eurotium ferrugineum Kuntze SPECIES
-=======
+# Eurotium ferrugineum Kuntze SPECIES
 
 #### Status
 ACCEPTED

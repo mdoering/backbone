@@ -1,5 +1,4 @@
-Pseudodictyomitrella badouxi SPECIES
-=======
+# Pseudodictyomitrella badouxi SPECIES
 
 #### Status
 ACCEPTED

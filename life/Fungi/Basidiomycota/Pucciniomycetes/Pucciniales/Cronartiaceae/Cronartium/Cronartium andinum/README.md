@@ -1,5 +1,4 @@
-Cronartium andinum Lagerh. SPECIES
-=======
+# Cronartium andinum Lagerh. SPECIES
 
 #### Status
 ACCEPTED

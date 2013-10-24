@@ -1,5 +1,4 @@
-Gymnochilus campestris Earle SPECIES
-=======
+# Gymnochilus campestris Earle SPECIES
 
 #### Status
 ACCEPTED

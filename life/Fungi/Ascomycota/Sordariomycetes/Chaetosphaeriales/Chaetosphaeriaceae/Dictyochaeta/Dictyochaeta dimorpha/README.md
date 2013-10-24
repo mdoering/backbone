@@ -1,5 +1,4 @@
-Dictyochaeta dimorpha (Toyaz. & Udagawa) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta dimorpha (Toyaz. & Udagawa) Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

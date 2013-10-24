@@ -1,5 +1,4 @@
-Microthorax hungaricus SPECIES
-=======
+# Microthorax hungaricus SPECIES
 
 #### Status
 ACCEPTED

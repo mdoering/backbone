@@ -1,5 +1,4 @@
-Acanthocystis horrida Boedijn SPECIES
-=======
+# Acanthocystis horrida Boedijn SPECIES
 
 #### Status
 ACCEPTED

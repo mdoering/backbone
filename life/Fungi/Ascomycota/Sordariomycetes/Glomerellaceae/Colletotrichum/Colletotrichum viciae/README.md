@@ -1,5 +1,4 @@
-Colletotrichum viciae Dearn. & Overh. SPECIES
-=======
+# Colletotrichum viciae Dearn. & Overh. SPECIES
 
 #### Status
 ACCEPTED

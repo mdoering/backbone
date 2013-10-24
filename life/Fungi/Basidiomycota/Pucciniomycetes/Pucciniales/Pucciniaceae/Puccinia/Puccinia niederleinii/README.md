@@ -1,5 +1,4 @@
-Puccinia niederleinii Henn. SPECIES
-=======
+# Puccinia niederleinii Henn. SPECIES
 
 #### Status
 ACCEPTED

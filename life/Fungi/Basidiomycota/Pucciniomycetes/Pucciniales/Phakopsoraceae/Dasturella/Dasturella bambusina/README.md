@@ -1,5 +1,4 @@
-Dasturella bambusina Mundk. & Khesw., 1943 SPECIES
-=======
+# Dasturella bambusina Mundk. & Khesw., 1943 SPECIES
 
 #### Status
 ACCEPTED

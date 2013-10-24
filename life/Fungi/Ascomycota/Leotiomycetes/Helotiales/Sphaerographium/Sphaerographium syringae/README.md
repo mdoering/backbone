@@ -1,5 +1,4 @@
-Sphaerographium syringae Richon SPECIES
-=======
+# Sphaerographium syringae Richon SPECIES
 
 #### Status
 ACCEPTED

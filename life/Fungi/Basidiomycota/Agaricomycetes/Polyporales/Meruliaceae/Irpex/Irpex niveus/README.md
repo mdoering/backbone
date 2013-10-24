@@ -1,5 +1,4 @@
-Irpex niveus (Schwein.) Schwein. SPECIES
-=======
+# Irpex niveus (Schwein.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

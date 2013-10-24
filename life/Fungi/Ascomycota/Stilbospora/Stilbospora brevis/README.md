@@ -1,5 +1,4 @@
-Stilbospora brevis Berk. & Ravenel SPECIES
-=======
+# Stilbospora brevis Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

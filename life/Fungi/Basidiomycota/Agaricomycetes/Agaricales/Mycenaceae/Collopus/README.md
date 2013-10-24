@@ -1,5 +1,4 @@
-Collopus GENUS
-=======
+# Collopus GENUS
 
 #### Status
 ACCEPTED

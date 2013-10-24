@@ -1,5 +1,4 @@
-Verrucaria elaeospila Nyl. SPECIES
-=======
+# Verrucaria elaeospila Nyl. SPECIES
 
 #### Status
 ACCEPTED

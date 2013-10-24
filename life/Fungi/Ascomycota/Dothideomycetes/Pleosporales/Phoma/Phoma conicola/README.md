@@ -1,5 +1,4 @@
-Phoma conicola Bayl. Ell. SPECIES
-=======
+# Phoma conicola Bayl. Ell. SPECIES
 
 #### Status
 ACCEPTED

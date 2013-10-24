@@ -1,5 +1,4 @@
-Puccinia itatiayensis J.C. Lindq. SPECIES
-=======
+# Puccinia itatiayensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

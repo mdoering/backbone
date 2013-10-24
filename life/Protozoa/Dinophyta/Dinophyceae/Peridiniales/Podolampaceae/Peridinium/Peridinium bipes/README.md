@@ -1,8 +1,7 @@
-Peridinium bipes var. exisum Lemmermann VARIETY
-=======
+# Peridinium bipes F.Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

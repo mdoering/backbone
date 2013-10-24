@@ -1,5 +1,4 @@
-Graphium hamamelidis J.M. Hook SPECIES
-=======
+# Graphium hamamelidis J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Majewskia japonica Y.B. Lee & K. Sugiy., 1986 SPECIES
-=======
+# Majewskia japonica Y.B. Lee & K. Sugiy., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus crassus Fr. SPECIES
-=======
+# Polyporus crassus Fr. SPECIES
 
 #### Status
 ACCEPTED

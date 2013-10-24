@@ -1,5 +1,4 @@
-Stictis immersa (Pass. ex Sacc.) Sherwood SPECIES
-=======
+# Stictis immersa (Pass. ex Sacc.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

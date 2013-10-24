@@ -1,5 +1,4 @@
-Bahusandhika compacta Rikhy, Mukerji & G. Malhotra SPECIES
-=======
+# Bahusandhika compacta Rikhy, Mukerji & G. Malhotra SPECIES
 
 #### Status
 ACCEPTED

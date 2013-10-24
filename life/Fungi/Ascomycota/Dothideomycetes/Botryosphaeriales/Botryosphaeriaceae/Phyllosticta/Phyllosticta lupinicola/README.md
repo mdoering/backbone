@@ -1,5 +1,4 @@
-Phyllosticta lupinicola Rothers SPECIES
-=======
+# Phyllosticta lupinicola Rothers SPECIES
 
 #### Status
 ACCEPTED

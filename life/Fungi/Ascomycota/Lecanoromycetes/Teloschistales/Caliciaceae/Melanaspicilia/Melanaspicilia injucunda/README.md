@@ -1,5 +1,4 @@
-Melanaspicilia injucunda SPECIES
-=======
+# Melanaspicilia injucunda SPECIES
 
 #### Status
 ACCEPTED

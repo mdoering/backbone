@@ -1,5 +1,4 @@
-Gymnodinium allophron J. Larsen SPECIES
-=======
+# Gymnodinium allophron J. Larsen SPECIES
 
 #### Status
 ACCEPTED

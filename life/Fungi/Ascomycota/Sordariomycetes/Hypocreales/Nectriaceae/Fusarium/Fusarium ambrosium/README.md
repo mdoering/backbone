@@ -1,5 +1,4 @@
-Fusarium ambrosium (Gadd & Loos) Agnihothr. & Nirenberg SPECIES
-=======
+# Fusarium ambrosium (Gadd & Loos) Agnihothr. & Nirenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eomicrocystis V.K. Golovenoc & M.J. Belova, 1984 GENUS
-=======
+# Eomicrocystis V.K. Golovenoc & M.J. Belova, 1984 GENUS
 
 #### Status
 ACCEPTED

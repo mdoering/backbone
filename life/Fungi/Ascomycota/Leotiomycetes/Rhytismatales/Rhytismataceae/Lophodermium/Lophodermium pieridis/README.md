@@ -1,5 +1,4 @@
-Lophodermium pieridis Keissl. SPECIES
-=======
+# Lophodermium pieridis Keissl. SPECIES
 
 #### Status
 ACCEPTED

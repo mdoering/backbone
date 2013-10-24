@@ -1,5 +1,4 @@
-Cladosporium pericarpium Cooke, 1883 SPECIES
-=======
+# Cladosporium pericarpium Cooke, 1883 SPECIES
 
 #### Status
 ACCEPTED

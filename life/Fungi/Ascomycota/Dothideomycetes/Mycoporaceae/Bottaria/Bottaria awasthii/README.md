@@ -1,5 +1,4 @@
-Bottaria awasthii Makhija & Patw. SPECIES
-=======
+# Bottaria awasthii Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

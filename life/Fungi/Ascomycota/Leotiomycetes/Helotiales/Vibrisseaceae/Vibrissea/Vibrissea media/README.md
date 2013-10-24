@@ -1,5 +1,4 @@
-Vibrissea media Velen. SPECIES
-=======
+# Vibrissea media Velen. SPECIES
 
 #### Status
 ACCEPTED

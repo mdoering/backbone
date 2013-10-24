@@ -1,14 +1,13 @@
-Helminthosporium chusqueae Petr., 1950 SPECIES
-=======
+# Spiropes chusqueae (Petr.) P.M. Kirk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 580 (1950)
+null
 
 #### Original name
 Helminthosporium chusqueae Petr., 1950

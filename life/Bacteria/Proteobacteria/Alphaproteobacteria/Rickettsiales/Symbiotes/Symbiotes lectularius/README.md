@@ -1,5 +1,4 @@
-Symbiotes lectularius (Arkwright et al., 1921) Philip, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Symbiotes lectularius (Arkwright et al., 1921) Philip, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

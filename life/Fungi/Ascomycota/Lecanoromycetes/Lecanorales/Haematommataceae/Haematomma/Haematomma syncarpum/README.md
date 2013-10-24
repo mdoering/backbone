@@ -1,5 +1,4 @@
-Haematomma syncarpum Zahlbr. SPECIES
-=======
+# Haematomma syncarpum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

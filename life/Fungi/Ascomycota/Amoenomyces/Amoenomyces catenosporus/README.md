@@ -1,5 +1,4 @@
-Amoenomyces catenosporus R.F. Castañeda, Saikawa & Hennebert, 1996 SPECIES
-=======
+# Amoenomyces catenosporus R.F. Castañeda, Saikawa & Hennebert, 1996 SPECIES
 
 #### Status
 ACCEPTED

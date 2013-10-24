@@ -1,5 +1,4 @@
-Hypoxylon Mérat, 1821 GENUS
-=======
+# Hypoxylon Mérat, 1821 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trinacrium indica Soosamma, Lekha, Sreekala & Bhat SPECIES
-=======
+# Trinacrium indica Soosamma, Lekha, Sreekala & Bhat SPECIES
 
 #### Status
 ACCEPTED

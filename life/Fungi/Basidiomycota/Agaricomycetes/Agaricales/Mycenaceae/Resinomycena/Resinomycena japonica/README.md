@@ -1,5 +1,4 @@
-Resinomycena japonica Redhead & Nagas., 1987 SPECIES
-=======
+# Resinomycena japonica Redhead & Nagas., 1987 SPECIES
 
 #### Status
 ACCEPTED

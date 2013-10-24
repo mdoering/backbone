@@ -1,17 +1,16 @@
-Septorella Allescher, 1897 GENUS
-=======
+# Fusarium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 241 (1897)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 10 (1809)
 
 #### Original name
-Septorella Allescher, 1897
+Fusarium Link, 1809
 
 ### Remarks
 null

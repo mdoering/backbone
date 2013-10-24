@@ -1,5 +1,4 @@
-Caloplaca polioterodes J. Steiner SPECIES
-=======
+# Caloplaca polioterodes J. Steiner SPECIES
 
 #### Status
 ACCEPTED

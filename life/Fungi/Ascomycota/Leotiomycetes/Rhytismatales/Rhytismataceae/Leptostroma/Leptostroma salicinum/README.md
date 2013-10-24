@@ -1,5 +1,4 @@
-Leptostroma salicinum Link SPECIES
-=======
+# Leptostroma salicinum Link SPECIES
 
 #### Status
 ACCEPTED

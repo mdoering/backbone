@@ -1,17 +1,16 @@
-Splanchnomyces webbii Corda SPECIES
-=======
+# Splanchnomyces webbiana Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 6: 40 (1854)
 
 #### Original name
-Splanchnomyces webbii Corda
+Splanchnomyces webbiana Corda
 
 ### Remarks
 null

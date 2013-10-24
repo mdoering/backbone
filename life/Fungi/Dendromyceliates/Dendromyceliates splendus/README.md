@@ -1,5 +1,4 @@
-Dendromyceliates splendus K.P. Jain & R.K. Kar SPECIES
-=======
+# Dendromyceliates splendus K.P. Jain & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

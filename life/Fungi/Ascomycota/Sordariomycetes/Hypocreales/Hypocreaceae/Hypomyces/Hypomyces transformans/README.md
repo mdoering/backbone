@@ -1,5 +1,4 @@
-Hypomyces transformans Peck SPECIES
-=======
+# Hypomyces transformans Peck SPECIES
 
 #### Status
 ACCEPTED

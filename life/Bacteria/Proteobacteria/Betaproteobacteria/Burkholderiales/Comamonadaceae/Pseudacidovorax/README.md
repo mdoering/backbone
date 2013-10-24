@@ -1,5 +1,4 @@
-Pseudacidovorax Kämpfer et al., 2008 GENUS
-=======
+# Pseudacidovorax Kämpfer et al., 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma camphorosmatis Szembel SPECIES
-=======
+# Phoma camphorosmatis Szembel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Athelia septentrionalis J. Erikss., 1958 SPECIES
-=======
+# Leptosporomyces septentrionalis (J. Erikss.) Krieglst., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 16(no. 1): 88 (1958)
+Z. Mykol. 57(1): 53 (1991)
 
 #### Original name
 Athelia septentrionalis J. Erikss., 1958

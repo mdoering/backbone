@@ -1,5 +1,4 @@
-Squamaria domingensis SPECIES
-=======
+# Squamaria domingensis SPECIES
 
 #### Status
 ACCEPTED

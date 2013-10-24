@@ -1,5 +1,4 @@
-Erysiphe rhamnicola (Y.N. Yu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe rhamnicola (Y.N. Yu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

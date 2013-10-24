@@ -1,5 +1,4 @@
-Phialomyces macrosporus P.C. Misra & P.H.B. Talbot, 1964 SPECIES
-=======
+# Phialomyces macrosporus P.C. Misra & P.H.B. Talbot, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta caulescens De Not. SPECIES
-=======
+# Sticta caulescens De Not. SPECIES
 
 #### Status
 ACCEPTED

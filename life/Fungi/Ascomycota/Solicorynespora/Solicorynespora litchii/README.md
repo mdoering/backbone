@@ -1,14 +1,13 @@
-Teratosperma litchii Matsush., 1980 SPECIES
-=======
+# Solicorynespora litchii (Matsush.) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Matsush. Mycol. Mem. , no. 1 1: 73 (1980)
+Univ. Waterloo Biol. Ser. 33: 42 (1990)
 
 #### Original name
 Teratosperma litchii Matsush., 1980

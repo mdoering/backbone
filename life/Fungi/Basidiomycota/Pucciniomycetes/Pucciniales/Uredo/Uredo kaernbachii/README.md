@@ -1,5 +1,4 @@
-Uredo kaernbachii Henn. SPECIES
-=======
+# Uredo kaernbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heptameria obiones (P. Crouan & H. Crouan) Cooke, 1889 SPECIES
-=======
+# Passeriniella obiones (P. Crouan & H. Crouan) K.D. Hyde & Mouzouras, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 91(1): 183 (1988)
 
 #### Original name
-null
+Pleospora obiones P. Crouan & H. Crouan, 1867
 
 ### Remarks
 null

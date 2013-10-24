@@ -1,5 +1,4 @@
-Aecidium verbenae Speg., 1880 SPECIES
-=======
+# Aecidium verbenae Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

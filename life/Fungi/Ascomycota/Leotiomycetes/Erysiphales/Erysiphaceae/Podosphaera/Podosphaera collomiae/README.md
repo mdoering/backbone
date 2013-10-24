@@ -1,5 +1,4 @@
-Podosphaera collomiae (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera collomiae (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

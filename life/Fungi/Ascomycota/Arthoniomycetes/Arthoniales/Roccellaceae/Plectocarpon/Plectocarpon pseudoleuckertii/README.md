@@ -1,5 +1,4 @@
-Plectocarpon pseudoleuckertii Diederich, Ertz & Wedin SPECIES
-=======
+# Plectocarpon pseudoleuckertii Diederich, Ertz & Wedin SPECIES
 
 #### Status
 ACCEPTED

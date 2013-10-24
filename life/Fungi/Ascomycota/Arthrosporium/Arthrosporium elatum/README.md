@@ -1,5 +1,4 @@
-Arthrosporium elatum Massee SPECIES
-=======
+# Arthrosporium elatum Massee SPECIES
 
 #### Status
 ACCEPTED

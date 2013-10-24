@@ -1,5 +1,4 @@
-Metasphaeria oxyspora Feltgen SPECIES
-=======
+# Metasphaeria oxyspora Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia callosa Jørst. SPECIES
-=======
+# Puccinia callosa Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium alpinum Gellert, 1956 SPECIES
-=======
+# Spathidium alpinum Gellert, 1956 SPECIES
 
 #### Status
 ACCEPTED

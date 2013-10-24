@@ -1,5 +1,4 @@
-Cortinarius nudipes Earle SPECIES
-=======
+# Cortinarius nudipes Earle SPECIES
 
 #### Status
 ACCEPTED

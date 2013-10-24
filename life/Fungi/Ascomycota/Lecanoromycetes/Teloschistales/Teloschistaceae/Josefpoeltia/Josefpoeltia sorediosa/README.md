@@ -1,5 +1,4 @@
-Josefpoeltia sorediosa S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Josefpoeltia sorediosa S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

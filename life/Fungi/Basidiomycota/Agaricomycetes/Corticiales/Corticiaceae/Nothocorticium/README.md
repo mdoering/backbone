@@ -1,5 +1,4 @@
-Nothocorticium Gresl. & Rajchenb. GENUS
-=======
+# Nothocorticium Gresl. & Rajchenb. GENUS
 
 #### Status
 ACCEPTED

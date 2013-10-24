@@ -1,5 +1,4 @@
-Thelotrema subconcretum Leight. SPECIES
-=======
+# Thelotrema subconcretum Leight. SPECIES
 
 #### Status
 ACCEPTED

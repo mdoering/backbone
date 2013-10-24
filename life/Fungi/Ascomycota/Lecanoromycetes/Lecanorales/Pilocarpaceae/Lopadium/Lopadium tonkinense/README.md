@@ -1,5 +1,4 @@
-Lopadium tonkinense Zahlbr. SPECIES
-=======
+# Lopadium tonkinense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

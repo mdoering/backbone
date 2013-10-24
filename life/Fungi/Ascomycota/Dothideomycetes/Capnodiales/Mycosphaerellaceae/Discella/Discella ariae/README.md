@@ -1,5 +1,4 @@
-Discella ariae Oudem. SPECIES
-=======
+# Discella ariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

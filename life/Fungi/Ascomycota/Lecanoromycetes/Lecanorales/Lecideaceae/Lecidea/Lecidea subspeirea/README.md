@@ -1,5 +1,4 @@
-Lecidea subspeirea Coppins, P. James & Hertel SPECIES
-=======
+# Lecidea subspeirea Coppins, P. James & Hertel SPECIES
 
 #### Status
 ACCEPTED

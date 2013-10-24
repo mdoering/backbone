@@ -1,5 +1,4 @@
-Trematosphaeria hypoxyloides Rehm SPECIES
-=======
+# Trematosphaeria hypoxyloides Rehm SPECIES
 
 #### Status
 ACCEPTED

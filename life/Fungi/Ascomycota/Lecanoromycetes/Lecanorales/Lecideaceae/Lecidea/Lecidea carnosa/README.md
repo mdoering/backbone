@@ -1,5 +1,4 @@
-Lecidea carnosa var. carnosa VARIETY
-=======
+# Lecidea carnosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea carnosa var. carnosa
+null
 
 ### Remarks
 null

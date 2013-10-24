@@ -1,14 +1,13 @@
-Cetraria delisei f. fastigiata (Delise) Rass. FORM
-=======
+# Cetrariella fastigiata (Delise ex Nyl.) Kärnefelt & A. Thell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Kopachevskaya et al. , Nov. sist. Niz. Rast. 10: 199 (1973)
+Bryologist 96(3): 403 (1993)
 
 #### Original name
 Cetraria delisei var. fastigiata Delise ex Nyl.

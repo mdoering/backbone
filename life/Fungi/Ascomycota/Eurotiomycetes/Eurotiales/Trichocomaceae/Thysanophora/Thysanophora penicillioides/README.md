@@ -1,5 +1,4 @@
-Thysanophora penicillioides (Roum.) W.B. Kendr., 1961 SPECIES
-=======
+# Thysanophora penicillioides (Roum.) W.B. Kendr., 1961 SPECIES
 
 #### Status
 ACCEPTED

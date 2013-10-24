@@ -1,5 +1,4 @@
-Simocybe pantelaeodes (Singer) Singer SPECIES
-=======
+# Simocybe pantelaeodes (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

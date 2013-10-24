@@ -1,5 +1,4 @@
-Bathysphaeridae FAMILY
-=======
+# Bathysphaeridae FAMILY
 
 #### Status
 ACCEPTED

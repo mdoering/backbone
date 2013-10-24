@@ -1,5 +1,4 @@
-Hendersonia obtusa Cooke SPECIES
-=======
+# Hendersonia obtusa Cooke SPECIES
 
 #### Status
 ACCEPTED

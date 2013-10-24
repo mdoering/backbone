@@ -1,5 +1,4 @@
-Pouzarella autumnalis (Velen.) Mazzer SPECIES
-=======
+# Pouzarella autumnalis (Velen.) Mazzer SPECIES
 
 #### Status
 ACCEPTED

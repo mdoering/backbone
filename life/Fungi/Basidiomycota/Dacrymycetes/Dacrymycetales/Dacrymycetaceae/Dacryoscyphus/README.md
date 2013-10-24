@@ -1,5 +1,4 @@
-Dacryoscyphus GENUS
-=======
+# Dacryoscyphus GENUS
 
 #### Status
 ACCEPTED

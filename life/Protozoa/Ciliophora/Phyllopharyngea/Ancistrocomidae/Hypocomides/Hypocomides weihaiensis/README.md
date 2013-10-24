@@ -1,5 +1,4 @@
-Hypocomides weihaiensis Xu & Song, 1998 SPECIES
-=======
+# Hypocomides weihaiensis Xu & Song, 1998 SPECIES
 
 #### Status
 ACCEPTED

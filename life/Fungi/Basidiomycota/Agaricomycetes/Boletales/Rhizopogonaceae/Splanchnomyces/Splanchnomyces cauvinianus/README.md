@@ -1,5 +1,4 @@
-Splanchnomyces cauvinianus Corda SPECIES
-=======
+# Splanchnomyces cauvinianus Corda SPECIES
 
 #### Status
 ACCEPTED

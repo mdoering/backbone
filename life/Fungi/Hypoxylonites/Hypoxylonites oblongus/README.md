@@ -1,5 +1,4 @@
-Hypoxylonites oblongus Elsik SPECIES
-=======
+# Hypoxylonites oblongus Elsik SPECIES
 
 #### Status
 ACCEPTED

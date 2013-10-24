@@ -1,5 +1,4 @@
-Diversocallis O.Dragastan, 1967 GENUS
-=======
+# Diversocallis O.Dragastan, 1967 GENUS
 
 #### Status
 ACCEPTED

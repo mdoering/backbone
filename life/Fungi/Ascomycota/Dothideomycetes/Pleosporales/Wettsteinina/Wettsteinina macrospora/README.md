@@ -1,5 +1,4 @@
-Wettsteinina macrospora (Wehm.) Petr. SPECIES
-=======
+# Wettsteinina macrospora (Wehm.) Petr. SPECIES
 
 #### Status
 ACCEPTED

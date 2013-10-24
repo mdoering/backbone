@@ -1,5 +1,4 @@
-Rhabdospora ononidis Moesz SPECIES
-=======
+# Rhabdospora ononidis Moesz SPECIES
 
 #### Status
 ACCEPTED

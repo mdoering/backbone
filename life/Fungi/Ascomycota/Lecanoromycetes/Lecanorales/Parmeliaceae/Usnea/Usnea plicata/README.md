@@ -1,5 +1,4 @@
-Usnea plicata f. plicata FORM
-=======
+# Usnea plicata (L.) Weber ex F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Prim. fl. holsat. (Kiliae) 91 (1780)
 
 #### Original name
-Usnea plicata f. plicata
+Lichen plicatus L.
 
 ### Remarks
 null

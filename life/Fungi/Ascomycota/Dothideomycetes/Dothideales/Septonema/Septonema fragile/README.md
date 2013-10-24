@@ -1,17 +1,16 @@
-Septonema fragilis R.F. Castañeda SPECIES
-=======
+# Septonema fragile R.F. Castañeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi Cubenses III (La Habana) 11 (1988)
 
 #### Original name
-Septonema fragilis R.F. Castañeda
+Septonema fragile R.F. Castañeda
 
 ### Remarks
 null

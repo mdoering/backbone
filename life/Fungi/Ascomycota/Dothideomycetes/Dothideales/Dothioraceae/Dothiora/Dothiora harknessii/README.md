@@ -1,5 +1,4 @@
-Dothiora harknessii (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Dothiora harknessii (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

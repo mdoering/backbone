@@ -1,5 +1,4 @@
-Thermomonospora Henssen GENUS
-=======
+# Thermomonospora Henssen GENUS
 
 #### Status
 ACCEPTED

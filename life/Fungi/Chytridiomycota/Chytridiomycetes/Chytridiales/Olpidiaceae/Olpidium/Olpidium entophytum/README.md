@@ -1,5 +1,4 @@
-Olpidium entophytum A. Braun, 1855 SPECIES
-=======
+# Olpidium entophytum A. Braun, 1855 SPECIES
 
 #### Status
 ACCEPTED

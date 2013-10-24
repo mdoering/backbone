@@ -1,5 +1,4 @@
-Cercospora cornicola Tracy & Earle SPECIES
-=======
+# Cercospora cornicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetramitus rotundatus Skuja SPECIES
-=======
+# Tetramitus rotundatus Skuja SPECIES
 
 #### Status
 ACCEPTED

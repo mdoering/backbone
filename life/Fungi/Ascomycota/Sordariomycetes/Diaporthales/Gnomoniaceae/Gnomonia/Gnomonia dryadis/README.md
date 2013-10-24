@@ -1,5 +1,4 @@
-Gnomonia dryadis Auersw. SPECIES
-=======
+# Gnomonia dryadis Auersw. SPECIES
 
 #### Status
 ACCEPTED

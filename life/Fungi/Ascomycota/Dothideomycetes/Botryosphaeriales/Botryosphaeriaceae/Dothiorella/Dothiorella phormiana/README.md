@@ -1,5 +1,4 @@
-Dothiorella phormiana (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella phormiana (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

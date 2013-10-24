@@ -1,5 +1,4 @@
-Dictyolus pusillus A. Racov. SPECIES
-=======
+# Dictyolus pusillus A. Racov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelinopsis subinflata (Hale) Benatti & Marcelli SPECIES
-=======
+# Parmelinopsis subinflata (Hale) Benatti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

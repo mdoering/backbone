@@ -1,5 +1,4 @@
-Agaricus porphyroleucus Bull. SPECIES
-=======
+# Agaricus porphyroleucus Bull. SPECIES
 
 #### Status
 ACCEPTED

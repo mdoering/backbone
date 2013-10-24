@@ -1,5 +1,4 @@
-Parmelia mitrovicensis Gyeln. SPECIES
-=======
+# Parmelia mitrovicensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

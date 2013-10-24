@@ -1,5 +1,4 @@
-Thialkalivibrio paradoxus SPECIES
-=======
+# Thialkalivibrio paradoxus SPECIES
 
 #### Status
 ACCEPTED

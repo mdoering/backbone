@@ -1,5 +1,4 @@
-Patellaria difformis Schwein. SPECIES
-=======
+# Patellaria difformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

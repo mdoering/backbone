@@ -1,5 +1,4 @@
-Delitschia pachylospora Luck-Allen & Cain, 1975 SPECIES
-=======
+# Delitschia pachylospora Luck-Allen & Cain, 1975 SPECIES
 
 #### Status
 ACCEPTED

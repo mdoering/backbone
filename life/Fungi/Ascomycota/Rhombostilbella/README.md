@@ -1,5 +1,4 @@
-Rhombostilbella Zimm. GENUS
-=======
+# Rhombostilbella Zimm. GENUS
 
 #### Status
 ACCEPTED

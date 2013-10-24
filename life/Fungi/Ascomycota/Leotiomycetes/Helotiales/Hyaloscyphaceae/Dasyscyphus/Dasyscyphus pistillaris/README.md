@@ -1,14 +1,13 @@
-Dasyscypha pistillaris (Henn. & Kirschst.) Sacc. & P. Syd. SPECIES
-=======
+# Dasyscyphus pistillaris (Henn. & Kirschst.) Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 16: 735 (1902)
 
 #### Original name
 Lachnum pistillare Henn. & Kirschst.

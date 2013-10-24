@@ -1,5 +1,4 @@
-Lophiotrema glandium Fabre SPECIES
-=======
+# Lophiotrema glandium Fabre SPECIES
 
 #### Status
 ACCEPTED

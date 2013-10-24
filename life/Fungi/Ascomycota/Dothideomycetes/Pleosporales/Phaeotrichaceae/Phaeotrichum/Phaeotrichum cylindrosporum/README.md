@@ -1,5 +1,4 @@
-Phaeotrichum cylindrosporum Malloch & Cain, 1972 SPECIES
-=======
+# Phaeotrichum cylindrosporum Malloch & Cain, 1972 SPECIES
 
 #### Status
 ACCEPTED

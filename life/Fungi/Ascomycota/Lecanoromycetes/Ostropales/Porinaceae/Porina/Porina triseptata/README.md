@@ -1,5 +1,4 @@
-Porina triseptata (Vezda) Lücking SPECIES
-=======
+# Porina triseptata (Vezda) Lücking SPECIES
 
 #### Status
 ACCEPTED

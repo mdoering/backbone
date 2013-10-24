@@ -1,5 +1,4 @@
-Sporidesmiopsis goanensis Bhat & W.B. Kendr. SPECIES
-=======
+# Sporidesmiopsis goanensis Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

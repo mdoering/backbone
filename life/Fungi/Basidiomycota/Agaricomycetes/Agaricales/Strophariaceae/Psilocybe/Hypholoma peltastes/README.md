@@ -1,5 +1,4 @@
-Hypholoma peltastes (Kalchbr.) McAlpine SPECIES
-=======
+# Hypholoma peltastes (Kalchbr.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia maculata I. Miyake & Hara SPECIES
-=======
+# Diplodia maculata I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptopezia mirabilis Höhn., 1919 SPECIES
-=======
+# Cryptopezia mirabilis Höhn., 1919 SPECIES
 
 #### Status
 ACCEPTED

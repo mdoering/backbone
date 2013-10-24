@@ -1,5 +1,4 @@
-Cortinarius privignorum Rob. Henry SPECIES
-=======
+# Cortinarius privignorum Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

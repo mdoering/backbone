@@ -1,5 +1,4 @@
-Phoma trabutiana Sacc. SPECIES
-=======
+# Phoma trabutiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

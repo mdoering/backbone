@@ -1,5 +1,4 @@
-Xylaria cupressoides Bertault SPECIES
-=======
+# Xylaria cupressoides Bertault SPECIES
 
 #### Status
 ACCEPTED

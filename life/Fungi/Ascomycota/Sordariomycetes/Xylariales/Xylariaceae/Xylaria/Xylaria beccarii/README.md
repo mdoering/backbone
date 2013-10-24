@@ -1,5 +1,4 @@
-Xylaria beccarii Lloyd SPECIES
-=======
+# Xylaria beccarii Lloyd SPECIES
 
 #### Status
 ACCEPTED

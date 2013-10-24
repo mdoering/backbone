@@ -1,5 +1,4 @@
-Strickeria sophorae Koshk. & Frolov SPECIES
-=======
+# Strickeria sophorae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

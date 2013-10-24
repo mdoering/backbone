@@ -1,5 +1,4 @@
-Nelchinopsis kostromiensis (Vozzhennikova, 1967) Wiggins, 1992 SPECIES
-=======
+# Nelchinopsis kostromiensis (Vozzhennikova, 1967) Wiggins, 1992 SPECIES
 
 #### Status
 ACCEPTED

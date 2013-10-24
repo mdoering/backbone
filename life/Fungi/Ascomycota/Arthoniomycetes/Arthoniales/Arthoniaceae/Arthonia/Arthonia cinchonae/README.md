@@ -1,5 +1,4 @@
-Arthonia cinchonae Müll. Arg. SPECIES
-=======
+# Arthonia cinchonae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

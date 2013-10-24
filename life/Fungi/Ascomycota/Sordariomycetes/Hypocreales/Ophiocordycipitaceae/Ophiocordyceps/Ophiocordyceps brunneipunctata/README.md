@@ -1,5 +1,4 @@
-Ophiocordyceps brunneipunctata (Hywel-Jones) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps brunneipunctata (Hywel-Jones) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

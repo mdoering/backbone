@@ -1,5 +1,4 @@
-Phyllosticta macropycnidia Hasija SPECIES
-=======
+# Phyllosticta macropycnidia Hasija SPECIES
 
 #### Status
 ACCEPTED

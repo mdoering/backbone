@@ -1,17 +1,16 @@
-Micropeltis caerulescens Rehm SPECIES
-=======
+# Micropeltis coerulescens Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 37: 326 (1898)
 
 #### Original name
-Micropeltis caerulescens Rehm
+Micropeltis coerulescens Rehm
 
 ### Remarks
 null

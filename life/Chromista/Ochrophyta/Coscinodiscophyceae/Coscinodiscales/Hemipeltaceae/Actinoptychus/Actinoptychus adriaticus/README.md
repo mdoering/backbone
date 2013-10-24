@@ -1,5 +1,4 @@
-Actinoptychus adriaticus Grunow, 1863 SPECIES
-=======
+# Actinoptychus adriaticus Grunow, 1863 SPECIES
 
 #### Status
 ACCEPTED

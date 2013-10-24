@@ -1,5 +1,4 @@
-Thelotrema lindigianum (Müll. Arg.) Harm. SPECIES
-=======
+# Thelotrema lindigianum (Müll. Arg.) Harm. SPECIES
 
 #### Status
 ACCEPTED

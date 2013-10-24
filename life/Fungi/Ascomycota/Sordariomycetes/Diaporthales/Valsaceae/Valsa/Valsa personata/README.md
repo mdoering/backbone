@@ -1,5 +1,4 @@
-Valsa personata Cooke & Ellis SPECIES
-=======
+# Valsa personata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

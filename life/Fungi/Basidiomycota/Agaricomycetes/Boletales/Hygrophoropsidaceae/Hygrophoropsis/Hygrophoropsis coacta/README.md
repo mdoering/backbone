@@ -1,5 +1,4 @@
-Hygrophoropsis coacta McNabb SPECIES
-=======
+# Hygrophoropsis coacta McNabb SPECIES
 
 #### Status
 ACCEPTED

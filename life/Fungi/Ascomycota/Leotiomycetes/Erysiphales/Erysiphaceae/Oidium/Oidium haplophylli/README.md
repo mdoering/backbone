@@ -1,5 +1,4 @@
-Oidium haplophylli H. Magn. SPECIES
-=======
+# Oidium haplophylli H. Magn. SPECIES
 
 #### Status
 ACCEPTED

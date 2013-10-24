@@ -1,5 +1,4 @@
-Cercospora integrifoliae S.L. Jain, A.N. Rai & P. Mehta SPECIES
-=======
+# Cercospora integrifoliae S.L. Jain, A.N. Rai & P. Mehta SPECIES
 
 #### Status
 ACCEPTED

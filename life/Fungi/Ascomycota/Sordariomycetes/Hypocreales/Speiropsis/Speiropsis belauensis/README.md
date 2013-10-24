@@ -1,5 +1,4 @@
-Speiropsis belauensis Matsush. SPECIES
-=======
+# Speiropsis belauensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

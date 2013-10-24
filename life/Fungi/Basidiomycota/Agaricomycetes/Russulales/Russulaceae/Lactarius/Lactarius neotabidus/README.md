@@ -1,5 +1,4 @@
-Lactarius neotabidus A.H. Sm. SPECIES
-=======
+# Lactarius neotabidus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

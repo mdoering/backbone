@@ -1,5 +1,4 @@
-Tetracytum lauri Vanderw., 1945 SPECIES
-=======
+# Tetracytum lauri Vanderw., 1945 SPECIES
 
 #### Status
 ACCEPTED

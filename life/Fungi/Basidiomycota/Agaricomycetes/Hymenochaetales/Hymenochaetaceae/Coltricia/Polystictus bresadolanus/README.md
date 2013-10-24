@@ -1,17 +1,16 @@
-Polystictus bresadolianus Speg. SPECIES
-=======
+# Polystictus bresadolanus Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Acad. nac. Cienc. Córdoba 23(3/4): 420 (1919)
 
 #### Original name
-Polystictus bresadolianus Speg.
+Polystictus bresadolanus Speg.
 
 ### Remarks
 null

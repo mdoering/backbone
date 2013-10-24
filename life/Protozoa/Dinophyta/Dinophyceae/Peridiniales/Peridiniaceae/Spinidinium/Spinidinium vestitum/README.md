@@ -1,5 +1,4 @@
-Spinidinium vestitum Brideaux, 1971 SPECIES
-=======
+# Spinidinium vestitum Brideaux, 1971 SPECIES
 
 #### Status
 ACCEPTED

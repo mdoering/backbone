@@ -1,17 +1,16 @@
-Sporormiella sporomiella Sultana & Malik SPECIES
-=======
+# Sporormiella sultanii Sultana & Malik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of Mycology, Faisalabad 1: 33 (1980)
 
 #### Original name
-Sporormiella sporomiella Sultana & Malik
+Sporormiella sultanii Sultana & Malik
 
 ### Remarks
 null

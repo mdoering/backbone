@@ -1,5 +1,4 @@
-Tympanis amphiboloides Nyl. SPECIES
-=======
+# Tympanis amphiboloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

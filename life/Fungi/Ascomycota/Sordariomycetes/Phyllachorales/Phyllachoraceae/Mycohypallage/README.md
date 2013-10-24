@@ -1,5 +1,4 @@
-Mycohypallage B. Sutton GENUS
-=======
+# Mycohypallage B. Sutton GENUS
 
 #### Status
 ACCEPTED

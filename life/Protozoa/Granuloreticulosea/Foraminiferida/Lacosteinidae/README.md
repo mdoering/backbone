@@ -1,5 +1,4 @@
-Lacosteinidae Sigal, 1952 FAMILY
-=======
+# Lacosteinidae Sigal, 1952 FAMILY
 
 #### Status
 ACCEPTED

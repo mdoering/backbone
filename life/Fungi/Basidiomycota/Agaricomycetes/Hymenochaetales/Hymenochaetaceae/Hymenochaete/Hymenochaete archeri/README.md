@@ -1,5 +1,4 @@
-Hymenochaete archeri (Berk.) Cooke SPECIES
-=======
+# Hymenochaete archeri (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

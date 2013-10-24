@@ -1,5 +1,4 @@
-Sphaeria ampla Fr. SPECIES
-=======
+# Sphaeria ampla Fr. SPECIES
 
 #### Status
 ACCEPTED

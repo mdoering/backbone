@@ -1,14 +1,13 @@
-Sorolpidium betae Nemec, 1911 SPECIES
-=======
+# Ligniera betae (Nemec) Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 29: (1911)
+Plasmodiophorales (New York), Edn 2 81 (1968)
 
 #### Original name
 Sorolpidium betae Nemec, 1911

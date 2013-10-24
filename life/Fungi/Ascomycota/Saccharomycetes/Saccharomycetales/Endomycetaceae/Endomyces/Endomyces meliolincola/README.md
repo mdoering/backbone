@@ -1,5 +1,4 @@
-Endomyces meliolincola Rehm SPECIES
-=======
+# Endomyces meliolincola Rehm SPECIES
 
 #### Status
 ACCEPTED

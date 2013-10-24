@@ -1,5 +1,4 @@
-Baltisphaeridium orbum Legault, 1982 SPECIES
-=======
+# Baltisphaeridium orbum Legault, 1982 SPECIES
 
 #### Status
 ACCEPTED

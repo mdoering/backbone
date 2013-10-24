@@ -1,5 +1,4 @@
-Diaporthe ceanothi Dearn. & House SPECIES
-=======
+# Diaporthe ceanothi Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

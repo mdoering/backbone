@@ -1,5 +1,4 @@
-Phaeophacidium abietinum Sacc. SPECIES
-=======
+# Phaeophacidium abietinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

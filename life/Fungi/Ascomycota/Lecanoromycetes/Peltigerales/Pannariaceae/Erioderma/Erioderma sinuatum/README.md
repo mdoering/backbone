@@ -1,5 +1,4 @@
-Erioderma sinuatum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma sinuatum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

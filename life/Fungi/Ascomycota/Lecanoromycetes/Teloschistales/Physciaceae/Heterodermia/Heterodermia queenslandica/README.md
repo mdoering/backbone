@@ -1,5 +1,4 @@
-Heterodermia queenslandica Elix SPECIES
-=======
+# Heterodermia queenslandica Elix SPECIES
 
 #### Status
 ACCEPTED

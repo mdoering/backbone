@@ -1,5 +1,4 @@
-Collybia ocellata (Fr.) P. Kumm. SPECIES
-=======
+# Collybia ocellata (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

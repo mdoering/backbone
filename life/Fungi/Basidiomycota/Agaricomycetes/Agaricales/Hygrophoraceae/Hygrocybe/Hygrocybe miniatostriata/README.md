@@ -1,5 +1,4 @@
-Hygrocybe miniatostriata (S. Ito & S. Imai) S. Ito SPECIES
-=======
+# Hygrocybe miniatostriata (S. Ito & S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

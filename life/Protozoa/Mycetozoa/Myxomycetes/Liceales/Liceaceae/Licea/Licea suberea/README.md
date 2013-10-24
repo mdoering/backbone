@@ -1,5 +1,4 @@
-Licea suberea (Chevall.) Fr. SPECIES
-=======
+# Licea suberea (Chevall.) Fr. SPECIES
 
 #### Status
 ACCEPTED

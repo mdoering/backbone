@@ -1,5 +1,4 @@
-Septoria thelygoni Sacc. SPECIES
-=======
+# Septoria thelygoni Sacc. SPECIES
 
 #### Status
 ACCEPTED

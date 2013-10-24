@@ -1,5 +1,4 @@
-Monilia penicillata Fr. SPECIES
-=======
+# Monilia penicillata Fr. SPECIES
 
 #### Status
 ACCEPTED

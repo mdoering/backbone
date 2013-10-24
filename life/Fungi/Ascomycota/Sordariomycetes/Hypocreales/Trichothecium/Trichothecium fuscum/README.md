@@ -1,5 +1,4 @@
-Trichothecium fuscum Fr. SPECIES
-=======
+# Trichothecium fuscum Fr. SPECIES
 
 #### Status
 ACCEPTED

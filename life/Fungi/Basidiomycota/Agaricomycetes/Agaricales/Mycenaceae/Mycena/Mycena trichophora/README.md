@@ -1,5 +1,4 @@
-Mycena trichophora Rexer SPECIES
-=======
+# Mycena trichophora Rexer SPECIES
 
 #### Status
 ACCEPTED

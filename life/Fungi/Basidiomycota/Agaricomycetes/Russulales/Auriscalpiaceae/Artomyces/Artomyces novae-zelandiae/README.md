@@ -1,5 +1,4 @@
-Artomyces novae-zelandiae Lickey, 2003 SPECIES
-=======
+# Artomyces novae-zelandiae Lickey, 2003 SPECIES
 
 #### Status
 ACCEPTED

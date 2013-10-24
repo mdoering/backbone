@@ -1,5 +1,4 @@
-Discoaster calcaris Gartner, 1967 SPECIES
-=======
+# Discoaster calcaris Gartner, 1967 SPECIES
 
 #### Status
 ACCEPTED

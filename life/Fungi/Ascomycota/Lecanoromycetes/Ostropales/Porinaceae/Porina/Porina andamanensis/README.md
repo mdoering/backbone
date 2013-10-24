@@ -1,5 +1,4 @@
-Porina andamanensis Upreti & Ajay Singh SPECIES
-=======
+# Porina andamanensis Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

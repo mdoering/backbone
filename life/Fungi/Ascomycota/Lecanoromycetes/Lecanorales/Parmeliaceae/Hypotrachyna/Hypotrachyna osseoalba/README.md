@@ -1,14 +1,13 @@
-Parmelia osseoalba Vain. SPECIES
-=======
+# Hypotrachyna osseoalba (Vain.) Y. S. Park & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 38(1): 88 (1989)
 
 #### Original name
 Parmelia osseoalba Vain.

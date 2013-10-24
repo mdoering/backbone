@@ -1,5 +1,4 @@
-Trichodytes anemones Kleb. SPECIES
-=======
+# Trichodytes anemones Kleb. SPECIES
 
 #### Status
 ACCEPTED

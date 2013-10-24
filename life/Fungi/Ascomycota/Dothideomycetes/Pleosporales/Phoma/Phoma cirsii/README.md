@@ -1,5 +1,4 @@
-Phoma cirsii Dietel & P. Syd., 1899 SPECIES
-=======
+# Phoma cirsii Dietel & P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomus atrouva McGee & Pattinson SPECIES
-=======
+# Glomus atrouva McGee & Pattinson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella dimorpha SPECIES
-=======
+# Vorticella dimorpha SPECIES
 
 #### Status
 ACCEPTED

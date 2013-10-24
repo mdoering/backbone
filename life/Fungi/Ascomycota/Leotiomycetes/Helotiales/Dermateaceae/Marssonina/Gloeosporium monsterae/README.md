@@ -1,5 +1,4 @@
-Gloeosporium monsterae Gutner SPECIES
-=======
+# Gloeosporium monsterae Gutner SPECIES
 
 #### Status
 ACCEPTED

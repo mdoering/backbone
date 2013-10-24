@@ -1,5 +1,4 @@
-Didymium atrichum Henney & Alexop., 1980 SPECIES
-=======
+# Didymium atrichum Henney & Alexop., 1980 SPECIES
 
 #### Status
 ACCEPTED

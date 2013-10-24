@@ -1,5 +1,4 @@
-Scolecobasidium cornutum Matsush. SPECIES
-=======
+# Scolecobasidium cornutum Matsush. SPECIES
 
 #### Status
 ACCEPTED

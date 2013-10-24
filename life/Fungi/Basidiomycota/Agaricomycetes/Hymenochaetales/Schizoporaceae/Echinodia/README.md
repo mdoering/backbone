@@ -1,5 +1,4 @@
-Echinodia Pat. GENUS
-=======
+# Echinodia Pat. GENUS
 
 #### Status
 ACCEPTED

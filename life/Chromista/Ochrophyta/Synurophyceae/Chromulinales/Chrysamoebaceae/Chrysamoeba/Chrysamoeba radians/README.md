@@ -1,5 +1,4 @@
-Chrysamoeba radians G.A. Klebs SPECIES
-=======
+# Chrysamoeba radians G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

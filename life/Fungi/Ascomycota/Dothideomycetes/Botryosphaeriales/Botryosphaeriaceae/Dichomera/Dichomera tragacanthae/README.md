@@ -1,17 +1,16 @@
-Dichomera tragacanthi Kurbans. SPECIES
-=======
+# Dichomera tragacanthae Kurbans. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 17: 44 (1980)
 
 #### Original name
-Dichomera tragacanthi Kurbans.
+Dichomera tragacanthae Kurbans.
 
 ### Remarks
 null

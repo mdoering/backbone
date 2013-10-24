@@ -1,5 +1,4 @@
-Helotium javanicum var. fleischerianum Sacc. VARIETY
-=======
+# Helotium javanicum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helotium javanicum var. fleischerianum Sacc.
+Helotium javanicum Penz. & Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lithopteratidae FAMILY
-=======
+# Lithopteratidae FAMILY
 
 #### Status
 ACCEPTED

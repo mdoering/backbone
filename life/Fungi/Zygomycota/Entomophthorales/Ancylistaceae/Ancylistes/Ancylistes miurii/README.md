@@ -1,5 +1,4 @@
-Ancylistes miurii Skvortsov, 1925 SPECIES
-=======
+# Ancylistes miurii Skvortsov, 1925 SPECIES
 
 #### Status
 ACCEPTED

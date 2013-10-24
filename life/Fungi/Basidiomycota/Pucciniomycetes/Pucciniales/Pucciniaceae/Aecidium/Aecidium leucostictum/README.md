@@ -1,5 +1,4 @@
-Aecidium leucostictum Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium leucostictum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

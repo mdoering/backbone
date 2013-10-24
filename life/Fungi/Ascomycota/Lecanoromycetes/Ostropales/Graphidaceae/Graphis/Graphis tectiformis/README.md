@@ -1,5 +1,4 @@
-Graphis tectiformis (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Graphis tectiformis (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

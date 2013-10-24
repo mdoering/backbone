@@ -1,5 +1,4 @@
-Intranstylum intermedium Song, 1986 SPECIES
-=======
+# Intranstylum intermedium Song, 1986 SPECIES
 
 #### Status
 ACCEPTED

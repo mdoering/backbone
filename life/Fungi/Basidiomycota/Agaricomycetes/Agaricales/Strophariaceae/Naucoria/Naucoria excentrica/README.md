@@ -1,5 +1,4 @@
-Naucoria excentrica Velen. SPECIES
-=======
+# Naucoria excentrica Velen. SPECIES
 
 #### Status
 ACCEPTED

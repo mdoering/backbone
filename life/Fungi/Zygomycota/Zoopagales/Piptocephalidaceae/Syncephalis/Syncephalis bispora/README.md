@@ -1,14 +1,13 @@
-Syncephalopsis bispora (Racib.) Boedijn, 1959 SPECIES
-=======
+# Syncephalis bispora Racib., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 12: 353 (1959)
+Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 3: 347 (1909)
 
 #### Original name
 Syncephalis bispora Racib., 1909

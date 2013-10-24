@@ -1,5 +1,4 @@
-Clitocybe hygrophoroides H.E. Bigelow SPECIES
-=======
+# Clitocybe hygrophoroides H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

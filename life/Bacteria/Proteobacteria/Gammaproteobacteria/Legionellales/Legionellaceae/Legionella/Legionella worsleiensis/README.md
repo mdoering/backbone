@@ -1,5 +1,4 @@
-Legionella worsleiensis Dennis et al., 1993 SPECIES
-=======
+# Legionella worsleiensis Dennis et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

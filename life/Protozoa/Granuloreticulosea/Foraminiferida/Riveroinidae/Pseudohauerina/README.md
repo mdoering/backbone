@@ -1,5 +1,4 @@
-Pseudohauerina Ponder, 1972 GENUS
-=======
+# Pseudohauerina Ponder, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria gracilenta Syd. {?} SPECIES
-=======
+# Metasphaeria gracilenta Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

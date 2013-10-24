@@ -1,5 +1,4 @@
-Scampanella asymmetrica K. Perch-Nielsen SPECIES
-=======
+# Scampanella asymmetrica K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon oceanicum Fryday SPECIES
-=======
+# Rhizocarpon oceanicum Fryday SPECIES
 
 #### Status
 ACCEPTED

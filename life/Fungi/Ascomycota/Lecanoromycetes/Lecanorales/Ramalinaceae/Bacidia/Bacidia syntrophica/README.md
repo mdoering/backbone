@@ -1,5 +1,4 @@
-Bacidia syntrophica (Vain.) H. Magn. SPECIES
-=======
+# Bacidia syntrophica (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

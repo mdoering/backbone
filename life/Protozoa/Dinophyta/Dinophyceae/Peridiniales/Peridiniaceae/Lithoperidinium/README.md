@@ -1,14 +1,13 @@
-Peridinites M. Lefèvre, 1933 GENUS
-=======
+# Lithoperidinium G. Deflandre, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-C. R. Acad. Sci. Paris, 197, 81.
+Bull. Soc. Zool. France, 58, 265.
 
 #### Original name
 null

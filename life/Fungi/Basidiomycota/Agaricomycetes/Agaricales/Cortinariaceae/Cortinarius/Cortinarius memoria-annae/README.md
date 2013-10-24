@@ -1,5 +1,4 @@
-Cortinarius memoria-annae Gasparini SPECIES
-=======
+# Cortinarius memoria-annae Gasparini SPECIES
 
 #### Status
 ACCEPTED

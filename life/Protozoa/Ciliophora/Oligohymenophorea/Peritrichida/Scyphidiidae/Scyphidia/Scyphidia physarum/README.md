@@ -1,5 +1,4 @@
-Scyphidia physarum Lachmann, 1856 SPECIES
-=======
+# Scyphidia physarum Lachmann, 1856 SPECIES
 
 #### Status
 ACCEPTED

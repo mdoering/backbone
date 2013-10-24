@@ -1,5 +1,4 @@
-Coleophoma cylindrosporica Bat., J.L. Bezerra & C.T. Vasconc. SPECIES
-=======
+# Coleophoma cylindrosporica Bat., J.L. Bezerra & C.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

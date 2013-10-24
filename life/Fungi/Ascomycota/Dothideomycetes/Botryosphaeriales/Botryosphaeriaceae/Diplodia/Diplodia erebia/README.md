@@ -1,5 +1,4 @@
-Diplodia erebia Sacc. SPECIES
-=======
+# Diplodia erebia Sacc. SPECIES
 
 #### Status
 ACCEPTED

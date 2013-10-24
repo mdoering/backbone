@@ -1,5 +1,4 @@
-Alternaria typhonii T.Y. Zhang & J.Z. Zhang SPECIES
-=======
+# Alternaria typhonii T.Y. Zhang & J.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

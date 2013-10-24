@@ -1,5 +1,4 @@
-Lobaria ochracea Inumaru SPECIES
-=======
+# Lobaria ochracea Inumaru SPECIES
 
 #### Status
 ACCEPTED

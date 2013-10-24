@@ -1,5 +1,4 @@
-Pertusaria violaria Nyl. SPECIES
-=======
+# Pertusaria violaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

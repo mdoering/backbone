@@ -1,5 +1,4 @@
-Colletotrichum arachidis Sawada SPECIES
-=======
+# Colletotrichum arachidis Sawada SPECIES
 
 #### Status
 ACCEPTED

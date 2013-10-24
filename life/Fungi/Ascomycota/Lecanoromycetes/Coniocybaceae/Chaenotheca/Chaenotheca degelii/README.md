@@ -1,5 +1,4 @@
-Chaenotheca degelii Tibell SPECIES
-=======
+# Chaenotheca degelii Tibell SPECIES
 
 #### Status
 ACCEPTED

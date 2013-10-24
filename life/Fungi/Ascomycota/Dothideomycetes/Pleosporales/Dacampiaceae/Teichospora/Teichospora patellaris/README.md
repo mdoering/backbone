@@ -1,5 +1,4 @@
-Teichospora patellaris P. Karst. SPECIES
-=======
+# Teichospora patellaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus subochraceus Lloyd SPECIES
-=======
+# Polystictus subochraceus Lloyd SPECIES
 
 #### Status
 ACCEPTED

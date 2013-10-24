@@ -1,5 +1,4 @@
-Clitocybe himantiigena Speg. SPECIES
-=======
+# Clitocybe himantiigena Speg. SPECIES
 
 #### Status
 ACCEPTED

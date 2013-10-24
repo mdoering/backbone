@@ -1,5 +1,4 @@
-Boreloides GENUS
-=======
+# Boreloides GENUS
 
 #### Status
 ACCEPTED

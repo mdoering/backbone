@@ -1,5 +1,4 @@
-Pachyella habrospora Pfister SPECIES
-=======
+# Pachyella habrospora Pfister SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechococcus ambiguus Skuja SPECIES
-=======
+# Synechococcus ambiguus Skuja SPECIES
 
 #### Status
 ACCEPTED

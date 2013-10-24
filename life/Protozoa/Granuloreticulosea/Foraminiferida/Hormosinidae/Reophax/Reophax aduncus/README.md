@@ -1,5 +1,4 @@
-Reophax aduncus SPECIES
-=======
+# Reophax aduncus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geisleria alpina Servít SPECIES
-=======
+# Geisleria alpina Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon vorax Poelt & Hafellner SPECIES
-=======
+# Rhizocarpon vorax Poelt & Hafellner SPECIES
 
 #### Status
 ACCEPTED

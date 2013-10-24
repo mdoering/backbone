@@ -1,5 +1,4 @@
-Pleurotus eucalyptorum (Fr.) Sacc. SPECIES
-=======
+# Pleurotus eucalyptorum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

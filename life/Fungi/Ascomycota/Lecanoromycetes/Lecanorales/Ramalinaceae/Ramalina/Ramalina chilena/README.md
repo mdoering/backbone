@@ -1,5 +1,4 @@
-Ramalina chilena (Nyl.) Kashiw. SPECIES
-=======
+# Ramalina chilena (Nyl.) Kashiw. SPECIES
 
 #### Status
 ACCEPTED

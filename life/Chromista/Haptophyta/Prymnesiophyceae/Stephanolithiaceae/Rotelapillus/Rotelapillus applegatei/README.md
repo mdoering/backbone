@@ -1,5 +1,4 @@
-Rotelapillus applegatei SPECIES
-=======
+# Rotelapillus applegatei SPECIES
 
 #### Status
 ACCEPTED

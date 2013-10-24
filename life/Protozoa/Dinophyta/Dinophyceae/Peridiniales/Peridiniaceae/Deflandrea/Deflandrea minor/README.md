@@ -1,5 +1,4 @@
-Deflandrea minor Cookson & Eisenack SPECIES
-=======
+# Deflandrea minor Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

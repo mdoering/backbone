@@ -1,5 +1,4 @@
-Parmelia stirtonii Zahlbr. SPECIES
-=======
+# Parmelia stirtonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

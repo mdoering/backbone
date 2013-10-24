@@ -1,5 +1,4 @@
-Belonidium discolor (Mouton) Raitv. SPECIES
-=======
+# Belonidium discolor (Mouton) Raitv. SPECIES
 
 #### Status
 ACCEPTED

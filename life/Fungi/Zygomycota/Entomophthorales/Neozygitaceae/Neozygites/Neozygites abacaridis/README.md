@@ -1,5 +1,4 @@
-Neozygites abacaridis Mietk. & Balazy, 2003 SPECIES
-=======
+# Neozygites abacaridis Mietk. & Balazy, 2003 SPECIES
 
 #### Status
 ACCEPTED

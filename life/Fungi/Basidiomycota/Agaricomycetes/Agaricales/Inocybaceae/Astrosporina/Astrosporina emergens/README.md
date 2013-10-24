@@ -1,5 +1,4 @@
-Astrosporina emergens Cleland SPECIES
-=======
+# Astrosporina emergens Cleland SPECIES
 
 #### Status
 ACCEPTED

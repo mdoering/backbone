@@ -1,5 +1,4 @@
-Cortinarius gravis Melot SPECIES
-=======
+# Cortinarius gravis Melot SPECIES
 
 #### Status
 ACCEPTED

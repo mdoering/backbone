@@ -1,17 +1,16 @@
-Corticium insinuans var. insinuans VARIETY
-=======
+# Corticium insinuans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Brotéria, sér. Ci. Nat. 3: 157 (1934)
+null
 
 #### Original name
-Corticium insinuans var. insinuans
+null
 
 ### Remarks
 null

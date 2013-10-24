@@ -1,5 +1,4 @@
-Clavaria propera Bourdot SPECIES
-=======
+# Clavaria propera Bourdot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus erytropus Alb. & Schwein. SPECIES
-=======
+# Agaricus erytropus Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

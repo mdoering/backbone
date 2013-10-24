@@ -1,5 +1,4 @@
-Agaricus pellucidulus Britzelm. SPECIES
-=======
+# Agaricus pellucidulus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

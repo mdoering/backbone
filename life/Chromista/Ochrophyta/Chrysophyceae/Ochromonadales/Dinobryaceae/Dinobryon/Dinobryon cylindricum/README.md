@@ -1,11 +1,10 @@
-Dinobryon cylindricum cylindricum Imhof VARIETY
-=======
+# Dinobryon cylindricum O.E. Imhof SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

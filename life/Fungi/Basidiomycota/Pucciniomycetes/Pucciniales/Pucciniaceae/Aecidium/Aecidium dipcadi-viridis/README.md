@@ -1,5 +1,4 @@
-Aecidium dipcadi-viridis Doidge SPECIES
-=======
+# Aecidium dipcadi-viridis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homostegia hertelii D. Hawksw., V. Atienza & M.S. Cole, 2004 SPECIES
-=======
+# Homostegia hertelii D. Hawksw., V. Atienza & M.S. Cole, 2004 SPECIES
 
 #### Status
 ACCEPTED

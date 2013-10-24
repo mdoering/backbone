@@ -1,5 +1,4 @@
-Botryosphaeria yedoensis Sawada SPECIES
-=======
+# Botryosphaeria yedoensis Sawada SPECIES
 
 #### Status
 ACCEPTED

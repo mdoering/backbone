@@ -1,5 +1,4 @@
-Chromulina placentula J.H.Belcher & Swale SPECIES
-=======
+# Chromulina placentula J.H.Belcher & Swale SPECIES
 
 #### Status
 ACCEPTED

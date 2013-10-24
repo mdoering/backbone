@@ -1,5 +1,4 @@
-Pleurotus terrestris Velen. SPECIES
-=======
+# Pleurotus terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

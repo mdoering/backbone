@@ -1,14 +1,13 @@
-Xylosphaera arntzenii (Theiss.) Dennis, 1970 SPECIES
-=======
+# Penzigia arntzenii Theiss., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. , Addit. Ser. 3: 303 (1970)
+Annls mycol. 6(4): 346 (1908)
 
 #### Original name
 Penzigia arntzenii Theiss., 1908

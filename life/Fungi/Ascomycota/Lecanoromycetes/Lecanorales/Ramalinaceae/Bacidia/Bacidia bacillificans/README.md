@@ -1,5 +1,4 @@
-Bacidia bacillificans (Nyl.) H. Olivier SPECIES
-=======
+# Bacidia bacillificans (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

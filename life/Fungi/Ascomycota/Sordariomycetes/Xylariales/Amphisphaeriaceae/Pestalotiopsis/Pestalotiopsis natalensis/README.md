@@ -1,5 +1,4 @@
-Pestalotiopsis natalensis (J.F.H. Beyma) Steyaert SPECIES
-=======
+# Pestalotiopsis natalensis (J.F.H. Beyma) Steyaert SPECIES
 
 #### Status
 ACCEPTED

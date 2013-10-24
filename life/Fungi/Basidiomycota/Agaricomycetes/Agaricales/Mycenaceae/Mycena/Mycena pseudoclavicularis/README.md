@@ -1,5 +1,4 @@
-Mycena pseudoclavicularis A.H. Sm. SPECIES
-=======
+# Mycena pseudoclavicularis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

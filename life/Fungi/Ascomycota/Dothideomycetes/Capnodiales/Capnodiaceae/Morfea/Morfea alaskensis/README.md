@@ -1,5 +1,4 @@
-Morfea alaskensis var. alaskensis VARIETY
-=======
+# Morfea alaskensis (Sacc. & Scalia) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Saccardoa 2: 142 (1963)
 
 #### Original name
-Morfea alaskensis var. alaskensis
+Limacinia alaskensis Sacc. & Scalia
 
 ### Remarks
 null

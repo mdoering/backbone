@@ -1,5 +1,4 @@
-Pertusaria xenismota A. W. Archer & Elix SPECIES
-=======
+# Pertusaria xenismota A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

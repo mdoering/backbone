@@ -1,17 +1,16 @@
-Scolecobasis Clem. & Shear GENUS
-=======
+# Scolecobasidium E.V. Abbott GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 396 (1931)
+Mycologia 19(1): 30 (1927)
 
 #### Original name
-Scolecobasis Clem. & Shear
+Scolecobasidium E.V. Abbott
 
 ### Remarks
 null

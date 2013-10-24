@@ -1,5 +1,4 @@
-Panaeolus queletii var. queletii VARIETY
-=======
+# Panaeolus queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Panaeolus queletii var. queletii
+Panaeolus queletii Schulzer
 
 ### Remarks
 null

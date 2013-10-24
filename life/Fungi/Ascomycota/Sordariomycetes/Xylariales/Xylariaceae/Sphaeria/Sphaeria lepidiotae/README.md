@@ -1,5 +1,4 @@
-Sphaeria lepidiotae (Anzi) H. Olivier SPECIES
-=======
+# Sphaeria lepidiotae (Anzi) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

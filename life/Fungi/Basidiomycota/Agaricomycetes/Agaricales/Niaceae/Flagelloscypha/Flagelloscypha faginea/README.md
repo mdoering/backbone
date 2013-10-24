@@ -1,14 +1,13 @@
-Chaetocypha faginea (Lib.) Kuntze, 1891 SPECIES
-=======
+# Flagelloscypha faginea (Lib.) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 847 (1891)
+Beih. Sydowia 4: 60 (1961)
 
 #### Original name
 Cyphella faginea Lib., 1837

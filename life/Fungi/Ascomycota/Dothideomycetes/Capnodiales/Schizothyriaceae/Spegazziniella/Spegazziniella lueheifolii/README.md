@@ -1,5 +1,4 @@
-Spegazziniella lueheifolii Bat. & Cavalc. SPECIES
-=======
+# Spegazziniella lueheifolii Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus earlei Murrill SPECIES
-=======
+# Pluteus earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

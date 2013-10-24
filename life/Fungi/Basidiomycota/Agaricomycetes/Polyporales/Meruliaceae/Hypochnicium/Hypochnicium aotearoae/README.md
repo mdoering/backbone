@@ -1,5 +1,4 @@
-Hypochnicium aotearoae B.C. Paulus, H. Nilsson & Hallenb., 2007 SPECIES
-=======
+# Hypochnicium aotearoae B.C. Paulus, H. Nilsson & Hallenb., 2007 SPECIES
 
 #### Status
 ACCEPTED

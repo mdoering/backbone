@@ -1,17 +1,16 @@
-Gymnosporangium torminali-juniperinum E. Fisch. SPECIES
-=======
+# Gymnosporangium torminali-juniperini E. Fisch., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Bot. 2: 759 (1910)
 
 #### Original name
-Gymnosporangium torminali-juniperinum E. Fisch.
+Gymnosporangium torminali-juniperini E. Fisch., 1910
 
 ### Remarks
 null

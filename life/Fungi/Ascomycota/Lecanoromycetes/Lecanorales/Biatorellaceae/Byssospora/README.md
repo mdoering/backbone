@@ -1,5 +1,4 @@
-Byssospora Massal. GENUS
-=======
+# Byssospora Massal. GENUS
 
 #### Status
 ACCEPTED

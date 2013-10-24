@@ -1,5 +1,4 @@
-Pseudozonosphaera asperella Sin & Liu in Wang & Chen, 1987 SPECIES
-=======
+# Pseudozonosphaera asperella Sin & Liu in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

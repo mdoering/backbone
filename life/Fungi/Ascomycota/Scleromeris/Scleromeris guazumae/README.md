@@ -1,5 +1,4 @@
-Scleromeris guazumae Syd., 1926 SPECIES
-=======
+# Scleromeris guazumae Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

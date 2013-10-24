@@ -1,5 +1,4 @@
-Boletus crinitus Spreng. SPECIES
-=======
+# Boletus crinitus Spreng. SPECIES
 
 #### Status
 ACCEPTED

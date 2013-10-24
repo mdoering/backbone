@@ -1,5 +1,4 @@
-Sphaeria ciliatula Fr. SPECIES
-=======
+# Sphaeria ciliatula Fr. SPECIES
 
 #### Status
 ACCEPTED

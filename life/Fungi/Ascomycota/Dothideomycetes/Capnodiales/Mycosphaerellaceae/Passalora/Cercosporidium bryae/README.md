@@ -1,5 +1,4 @@
-Cercosporidium bryae Deighton SPECIES
-=======
+# Cercosporidium bryae Deighton SPECIES
 
 #### Status
 ACCEPTED

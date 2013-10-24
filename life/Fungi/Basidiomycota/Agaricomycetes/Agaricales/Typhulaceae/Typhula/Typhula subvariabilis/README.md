@@ -1,5 +1,4 @@
-Typhula subvariabilis Berthier, 1974 SPECIES
-=======
+# Typhula subvariabilis Berthier, 1974 SPECIES
 
 #### Status
 ACCEPTED

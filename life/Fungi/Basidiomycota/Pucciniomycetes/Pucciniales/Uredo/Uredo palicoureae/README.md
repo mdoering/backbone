@@ -1,5 +1,4 @@
-Uredo palicoureae Henn. SPECIES
-=======
+# Uredo palicoureae Henn. SPECIES
 
 #### Status
 ACCEPTED

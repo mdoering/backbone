@@ -1,5 +1,4 @@
-Psilocybe isauri Singer SPECIES
-=======
+# Psilocybe isauri Singer SPECIES
 
 #### Status
 ACCEPTED

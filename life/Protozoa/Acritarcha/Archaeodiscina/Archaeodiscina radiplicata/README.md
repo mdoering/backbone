@@ -1,5 +1,4 @@
-Archaeodiscina radiplicata Yin Leiming, 1983 SPECIES
-=======
+# Archaeodiscina radiplicata Yin Leiming, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodothis Syd. GENUS
-=======
+# Placodothis Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea aurantiacoatra f. aurantiacoatra FORM
-=======
+# Usnea aurantiacoatra (Jacq.) Bory SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea aurantiacoatra f. aurantiacoatra
+Lichen aurantiacoater Jacq.
 
 ### Remarks
 null

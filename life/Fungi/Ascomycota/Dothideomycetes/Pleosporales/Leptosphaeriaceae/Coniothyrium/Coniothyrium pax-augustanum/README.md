@@ -1,5 +1,4 @@
-Coniothyrium pax-augustanum Urries SPECIES
-=======
+# Coniothyrium pax-augustanum Urries SPECIES
 
 #### Status
 ACCEPTED

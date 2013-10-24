@@ -1,5 +1,4 @@
-Lepiota rubrobrunnea Gubitz SPECIES
-=======
+# Lepiota rubrobrunnea Gubitz SPECIES
 
 #### Status
 ACCEPTED

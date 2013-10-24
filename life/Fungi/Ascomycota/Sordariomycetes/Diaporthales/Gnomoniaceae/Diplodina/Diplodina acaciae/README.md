@@ -1,5 +1,4 @@
-Diplodina acaciae Trotter SPECIES
-=======
+# Diplodina acaciae Trotter SPECIES
 
 #### Status
 ACCEPTED

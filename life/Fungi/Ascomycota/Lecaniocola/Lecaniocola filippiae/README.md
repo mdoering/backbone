@@ -1,5 +1,4 @@
-Lecaniocola filippiae Brain SPECIES
-=======
+# Lecaniocola filippiae Brain SPECIES
 
 #### Status
 ACCEPTED

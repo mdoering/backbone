@@ -1,5 +1,4 @@
-Diplodia ficina S. Ahmad SPECIES
-=======
+# Diplodia ficina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

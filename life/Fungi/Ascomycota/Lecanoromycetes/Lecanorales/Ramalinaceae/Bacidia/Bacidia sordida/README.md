@@ -1,5 +1,4 @@
-Bacidia sordida (Anzi) Lettau SPECIES
-=======
+# Bacidia sordida (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

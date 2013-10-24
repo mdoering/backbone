@@ -1,5 +1,4 @@
-Macroplodia carpinea (Sacc. & Briard) Kuntze SPECIES
-=======
+# Macroplodia carpinea (Sacc. & Briard) Kuntze SPECIES
 
 #### Status
 ACCEPTED

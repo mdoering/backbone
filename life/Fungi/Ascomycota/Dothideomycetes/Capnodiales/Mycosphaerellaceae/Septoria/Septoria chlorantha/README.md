@@ -1,5 +1,4 @@
-Septoria chlorantha Dearn. & House SPECIES
-=======
+# Septoria chlorantha Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

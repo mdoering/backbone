@@ -1,5 +1,4 @@
-Oidium ixodiae Cunningt., Beilharz & Pascoe SPECIES
-=======
+# Oidium ixodiae Cunningt., Beilharz & Pascoe SPECIES
 
 #### Status
 ACCEPTED

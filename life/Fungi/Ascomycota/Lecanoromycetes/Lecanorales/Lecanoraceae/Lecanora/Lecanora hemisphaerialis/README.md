@@ -1,5 +1,4 @@
-Lecanora hemisphaerialis Motyka SPECIES
-=======
+# Lecanora hemisphaerialis Motyka SPECIES
 
 #### Status
 ACCEPTED

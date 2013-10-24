@@ -1,5 +1,4 @@
-Uromyces tanaceti Rabenh. SPECIES
-=======
+# Uromyces tanaceti Rabenh. SPECIES
 
 #### Status
 ACCEPTED

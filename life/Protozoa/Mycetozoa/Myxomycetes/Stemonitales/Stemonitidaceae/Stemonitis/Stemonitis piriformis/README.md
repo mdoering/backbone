@@ -1,5 +1,4 @@
-Stemonitis piriformis Pers. SPECIES
-=======
+# Stemonitis piriformis Pers. SPECIES
 
 #### Status
 ACCEPTED

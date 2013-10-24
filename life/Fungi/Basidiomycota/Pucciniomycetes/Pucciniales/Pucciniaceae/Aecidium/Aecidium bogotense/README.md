@@ -1,5 +1,4 @@
-Aecidium bogotense Mayor SPECIES
-=======
+# Aecidium bogotense Mayor SPECIES
 
 #### Status
 ACCEPTED

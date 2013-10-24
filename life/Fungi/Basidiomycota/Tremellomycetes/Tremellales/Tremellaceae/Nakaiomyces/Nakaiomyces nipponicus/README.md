@@ -1,5 +1,4 @@
-Nakaiomyces nipponicus Kobayasi SPECIES
-=======
+# Nakaiomyces nipponicus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

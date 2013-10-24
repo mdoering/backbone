@@ -1,5 +1,4 @@
-Amaurodon sumatranus Miettinen & Kõljalg, 2007 SPECIES
-=======
+# Amaurodon sumatranus Miettinen & Kõljalg, 2007 SPECIES
 
 #### Status
 ACCEPTED

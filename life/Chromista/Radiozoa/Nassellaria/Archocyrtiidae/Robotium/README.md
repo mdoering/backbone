@@ -1,5 +1,4 @@
-Robotium Cheng, 1986 GENUS
-=======
+# Robotium Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon athallon Spreng. SPECIES
-=======
+# Endocarpon athallon Spreng. SPECIES
 
 #### Status
 ACCEPTED

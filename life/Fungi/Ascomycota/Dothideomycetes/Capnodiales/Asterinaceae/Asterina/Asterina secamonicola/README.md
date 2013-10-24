@@ -1,5 +1,4 @@
-Asterina secamonicola Doidge SPECIES
-=======
+# Asterina secamonicola Doidge SPECIES
 
 #### Status
 ACCEPTED

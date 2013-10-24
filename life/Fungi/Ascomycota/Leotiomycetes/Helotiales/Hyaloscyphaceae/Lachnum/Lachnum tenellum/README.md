@@ -1,5 +1,4 @@
-Lachnum tenellum Velen. SPECIES
-=======
+# Lachnum tenellum Velen. SPECIES
 
 #### Status
 ACCEPTED

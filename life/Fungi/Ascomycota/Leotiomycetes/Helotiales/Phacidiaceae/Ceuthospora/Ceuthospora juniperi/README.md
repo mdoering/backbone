@@ -1,5 +1,4 @@
-Ceuthospora juniperi (Fr.) Höhn. SPECIES
-=======
+# Ceuthospora juniperi (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia euploca Vain. SPECIES
-=======
+# Heppia euploca Vain. SPECIES
 
 #### Status
 ACCEPTED

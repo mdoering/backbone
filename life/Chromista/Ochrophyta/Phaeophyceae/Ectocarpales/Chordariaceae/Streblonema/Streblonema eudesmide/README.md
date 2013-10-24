@@ -1,5 +1,4 @@
-Streblonema eudesmide Tokida SPECIES
-=======
+# Streblonema eudesmide Tokida SPECIES
 
 #### Status
 ACCEPTED

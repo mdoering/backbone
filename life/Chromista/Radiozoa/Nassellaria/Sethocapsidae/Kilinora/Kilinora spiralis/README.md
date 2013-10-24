@@ -1,5 +1,4 @@
-Kilinora spiralis SPECIES
-=======
+# Kilinora spiralis SPECIES
 
 #### Status
 ACCEPTED

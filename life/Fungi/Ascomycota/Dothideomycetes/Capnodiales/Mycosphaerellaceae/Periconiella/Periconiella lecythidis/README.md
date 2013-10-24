@@ -1,5 +1,4 @@
-Periconiella lecythidis Mafia, E.M. Ferreira, F.A. Ferreira, U. Braun & O.L. Pereira, 2008 SPECIES
-=======
+# Periconiella lecythidis Mafia, E.M. Ferreira, F.A. Ferreira, U. Braun & O.L. Pereira, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Podisoma juniperi-virginianae (Schwein.) Fr., 1832 SPECIES
-=======
+# Gymnosporangium juniperi-virginianae Schwein., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 507 (1832)
+Schr. naturf. Ges. Leipzig 1: 74 (1822)
 
 #### Original name
 Gymnosporangium juniperi-virginianae Schwein., 1822

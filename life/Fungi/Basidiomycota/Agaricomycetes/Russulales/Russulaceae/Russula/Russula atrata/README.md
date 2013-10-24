@@ -1,5 +1,4 @@
-Russula atrata Shaffer SPECIES
-=======
+# Russula atrata Shaffer SPECIES
 
 #### Status
 ACCEPTED

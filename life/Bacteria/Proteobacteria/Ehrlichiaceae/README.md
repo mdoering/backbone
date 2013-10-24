@@ -1,5 +1,4 @@
-Ehrlichiaceae FAMILY
-=======
+# Ehrlichiaceae FAMILY
 
 #### Status
 ACCEPTED

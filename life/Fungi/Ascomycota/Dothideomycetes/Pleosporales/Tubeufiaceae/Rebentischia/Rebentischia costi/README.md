@@ -1,5 +1,4 @@
-Rebentischia costi Bat., J.L. Bezerra & Matta SPECIES
-=======
+# Rebentischia costi Bat., J.L. Bezerra & Matta SPECIES
 
 #### Status
 ACCEPTED

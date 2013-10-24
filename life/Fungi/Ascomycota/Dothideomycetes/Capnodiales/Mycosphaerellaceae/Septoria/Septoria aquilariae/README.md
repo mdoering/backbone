@@ -1,5 +1,4 @@
-Septoria aquilariae J.F. Lue & P.K. Chi SPECIES
-=======
+# Septoria aquilariae J.F. Lue & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

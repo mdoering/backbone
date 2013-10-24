@@ -1,5 +1,4 @@
-Passalora halstedii (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora halstedii (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

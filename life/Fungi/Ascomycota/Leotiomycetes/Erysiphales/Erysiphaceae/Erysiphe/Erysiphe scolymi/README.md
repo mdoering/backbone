@@ -1,5 +1,4 @@
-Erysiphe scolymi Prost SPECIES
-=======
+# Erysiphe scolymi Prost SPECIES
 
 #### Status
 ACCEPTED

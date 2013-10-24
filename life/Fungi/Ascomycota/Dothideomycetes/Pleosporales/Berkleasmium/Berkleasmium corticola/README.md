@@ -1,5 +1,4 @@
-Berkleasmium corticola (P. Karst.) R.T. Moore SPECIES
-=======
+# Berkleasmium corticola (P. Karst.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

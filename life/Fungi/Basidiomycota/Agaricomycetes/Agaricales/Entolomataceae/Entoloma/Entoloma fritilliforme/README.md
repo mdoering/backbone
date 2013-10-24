@@ -1,5 +1,4 @@
-Entoloma fritilliforme Romagn. SPECIES
-=======
+# Entoloma fritilliforme Romagn. SPECIES
 
 #### Status
 ACCEPTED

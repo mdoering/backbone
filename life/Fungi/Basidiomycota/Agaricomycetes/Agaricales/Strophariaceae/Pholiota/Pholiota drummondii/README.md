@@ -1,5 +1,4 @@
-Pholiota drummondii (Berk.) Pegler SPECIES
-=======
+# Pholiota drummondii (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

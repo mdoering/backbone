@@ -1,5 +1,4 @@
-Cryptosporiopsis balsameae Robak, 1950 SPECIES
-=======
+# Cryptosporiopsis balsameae Robak, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialonectria mobilis (Tode) Cooke SPECIES
-=======
+# Dialonectria mobilis (Tode) Cooke SPECIES
 
 #### Status
 ACCEPTED

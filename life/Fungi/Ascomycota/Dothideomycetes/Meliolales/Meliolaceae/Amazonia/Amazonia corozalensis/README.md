@@ -1,5 +1,4 @@
-Amazonia corozalensis Bat. & Nascim. SPECIES
-=======
+# Amazonia corozalensis Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

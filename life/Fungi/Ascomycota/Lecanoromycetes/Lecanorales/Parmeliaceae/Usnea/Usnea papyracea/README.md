@@ -1,5 +1,4 @@
-Usnea papyracea Motyka SPECIES
-=======
+# Usnea papyracea Motyka SPECIES
 
 #### Status
 ACCEPTED

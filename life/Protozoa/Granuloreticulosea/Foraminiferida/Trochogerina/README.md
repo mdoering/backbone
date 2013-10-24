@@ -1,5 +1,4 @@
-Trochogerina Kuznetsova, 2002 GENUS
-=======
+# Trochogerina Kuznetsova, 2002 GENUS
 
 #### Status
 ACCEPTED

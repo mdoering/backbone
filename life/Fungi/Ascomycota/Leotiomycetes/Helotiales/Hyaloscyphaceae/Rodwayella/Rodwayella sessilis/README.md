@@ -1,14 +1,13 @@
-Pezicula sessilis (Rodway) Dennis, 1958 SPECIES
-=======
+# Rodwayella sessilis (Rodway) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 348 (1958)
+Biblthca Mycol. 116: 652 (1987)
 
 #### Original name
 Helotium sessile Rodway, 1925

@@ -1,5 +1,4 @@
-Phyllosticta terminaliae Henn. SPECIES
-=======
+# Phyllosticta terminaliae Henn. SPECIES
 
 #### Status
 ACCEPTED

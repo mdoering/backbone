@@ -1,5 +1,4 @@
-Homogammina Gooday & Tendal, 1988 GENUS
-=======
+# Homogammina Gooday & Tendal, 1988 GENUS
 
 #### Status
 ACCEPTED

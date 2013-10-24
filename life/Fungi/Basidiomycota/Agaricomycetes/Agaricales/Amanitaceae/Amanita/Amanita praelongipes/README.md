@@ -1,5 +1,4 @@
-Amanita praelongipes Kärcher & Contu SPECIES
-=======
+# Amanita praelongipes Kärcher & Contu SPECIES
 
 #### Status
 ACCEPTED

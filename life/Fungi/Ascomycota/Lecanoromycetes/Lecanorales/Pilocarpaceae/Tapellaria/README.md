@@ -1,17 +1,16 @@
-Pazschkea Rehm GENUS
-=======
+# Tapellaria Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Pazschke, Rabh. -Pazschke. Fung. extra-europ. 22: 4172 (1898)
+Lich. Epiph. Novi 11 (1890)
 
 #### Original name
-Pazschkea Rehm
+Tapellaria Müll. Arg.
 
 ### Remarks
 null

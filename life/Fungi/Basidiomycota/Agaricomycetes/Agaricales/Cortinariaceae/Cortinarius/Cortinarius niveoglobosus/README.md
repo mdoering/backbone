@@ -1,5 +1,4 @@
-Cortinarius niveoglobosus H. Lindstr. SPECIES
-=======
+# Cortinarius niveoglobosus H. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

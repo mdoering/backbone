@@ -1,5 +1,4 @@
-Coniochaeta tilakii S.B. Kale SPECIES
-=======
+# Coniochaeta tilakii S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

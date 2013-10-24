@@ -1,5 +1,4 @@
-Alloiococcus otitis Aguirre & Collins, 1992 SPECIES
-=======
+# Alloiococcus otitis Aguirre & Collins, 1992 SPECIES
 
 #### Status
 ACCEPTED

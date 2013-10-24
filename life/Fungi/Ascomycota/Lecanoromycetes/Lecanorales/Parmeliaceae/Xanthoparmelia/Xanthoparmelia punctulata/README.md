@@ -1,17 +1,16 @@
-Parmelia punctulata Gyeln. SPECIES
-=======
+# Xanthoparmelia punctulata (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 33: 405 (1988)
 
 #### Original name
-null
+Parmelia punctulata Gyeln.
 
 ### Remarks
 null

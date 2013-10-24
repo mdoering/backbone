@@ -1,5 +1,4 @@
-Verticillium fimeti Oudem. SPECIES
-=======
+# Verticillium fimeti Oudem. SPECIES
 
 #### Status
 ACCEPTED

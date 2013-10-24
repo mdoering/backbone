@@ -1,5 +1,4 @@
-Ditopellopsis sophorae Kobay. {?} SPECIES
-=======
+# Ditopellopsis sophorae Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

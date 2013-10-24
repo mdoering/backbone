@@ -1,5 +1,4 @@
-Hysterium exaridum Cooke & Peck SPECIES
-=======
+# Hysterium exaridum Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

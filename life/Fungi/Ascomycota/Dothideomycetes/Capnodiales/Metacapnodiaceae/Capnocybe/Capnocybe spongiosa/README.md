@@ -1,14 +1,13 @@
-Arthrobotryum spongiosum Hoerl, 1939 SPECIES
-=======
+# Capnocybe spongiosa (Hoerl) S. Hughes, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Madroño 5: 75 (1939)
+N. Z. Jl Bot. 4: 349 (1966)
 
 #### Original name
 Arthrobotryum spongiosum Hoerl, 1939

@@ -1,5 +1,4 @@
-Clavaria pampeana Speg. SPECIES
-=======
+# Clavaria pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

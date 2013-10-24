@@ -1,5 +1,4 @@
-Hysterographium macrum Sacc. & Berl. SPECIES
-=======
+# Hysterographium macrum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

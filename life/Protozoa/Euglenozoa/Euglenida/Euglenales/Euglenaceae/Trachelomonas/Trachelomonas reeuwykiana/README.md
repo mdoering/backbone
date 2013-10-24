@@ -1,5 +1,4 @@
-Trachelomonas reeuwykiana Conrad SPECIES
-=======
+# Trachelomonas reeuwykiana Conrad SPECIES
 
 #### Status
 ACCEPTED

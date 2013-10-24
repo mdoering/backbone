@@ -1,5 +1,4 @@
-Uredo ficus Ravenel SPECIES
-=======
+# Uredo ficus Ravenel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus pyrocephala Berk. & Broome SPECIES
-=======
+# Agaricus pyrocephalus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 11(no. 56): 504 (1871)
 
 #### Original name
-Agaricus pyrocephala Berk. & Broome
+Agaricus pyrocephalus Berk. & Broome
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trametes suberosa Quél. SPECIES
-=======
+# Trametes suberosa Quél. SPECIES
 
 #### Status
 ACCEPTED

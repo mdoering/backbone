@@ -1,5 +1,4 @@
-Marasmius cavipes Velen. SPECIES
-=======
+# Marasmius cavipes Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protosphaeridium ace Timofeev, 1966 SPECIES
-=======
+# Protosphaeridium ace Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

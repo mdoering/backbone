@@ -1,5 +1,4 @@
-Uleopeltis bambusina Syd. {?} SPECIES
-=======
+# Uleopeltis bambusina Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

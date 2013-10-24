@@ -1,5 +1,4 @@
-Parmeliella coelestina Zahlbr. SPECIES
-=======
+# Parmeliella coelestina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

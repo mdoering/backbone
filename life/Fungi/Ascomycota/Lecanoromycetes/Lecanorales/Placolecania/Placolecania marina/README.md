@@ -1,5 +1,4 @@
-Placolecania marina Zahlbr. SPECIES
-=======
+# Placolecania marina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

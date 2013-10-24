@@ -1,5 +1,4 @@
-Entoloma chloroxanthum G. Stev., 1962 SPECIES
-=======
+# Entoloma chloroxanthum G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

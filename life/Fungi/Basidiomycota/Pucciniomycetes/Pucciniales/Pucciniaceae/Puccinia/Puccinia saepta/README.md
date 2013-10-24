@@ -1,5 +1,4 @@
-Puccinia saepta Jørst. SPECIES
-=======
+# Puccinia saepta Jørst. SPECIES
 
 #### Status
 ACCEPTED

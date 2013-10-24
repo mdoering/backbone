@@ -1,5 +1,4 @@
-Acarospora gelatinosa (Anzi) SPECIES
-=======
+# Acarospora gelatinosa (Anzi) SPECIES
 
 #### Status
 ACCEPTED

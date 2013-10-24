@@ -1,5 +1,4 @@
-Rhabdostyla arenaria Fabre-Domergue, 1888 SPECIES
-=======
+# Rhabdostyla arenaria Fabre-Domergue, 1888 SPECIES
 
 #### Status
 ACCEPTED

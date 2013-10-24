@@ -1,17 +1,16 @@
-Pleosporopsis strobilina (Alb. & Schwein.) Oerst., 1873 SPECIES
-=======
+# Pucciniastrum areolatum (Fr.) G.H. Otth, 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. naturf. Ges. Bern 85 (1863)
 
 #### Original name
-Licea strobilina Alb. & Schwein., 1805
+null
 
 ### Remarks
 null

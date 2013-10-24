@@ -1,5 +1,4 @@
-Lichen petraeus SPECIES
-=======
+# Lichen petraeus SPECIES
 
 #### Status
 ACCEPTED

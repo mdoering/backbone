@@ -1,5 +1,4 @@
-Cometodendron longimanum Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron longimanum Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

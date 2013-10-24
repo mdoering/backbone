@@ -1,5 +1,4 @@
-Leptosphaeria monticola Ellis & Everh. SPECIES
-=======
+# Leptosphaeria monticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

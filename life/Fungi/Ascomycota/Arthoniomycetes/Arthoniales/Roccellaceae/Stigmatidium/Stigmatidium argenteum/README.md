@@ -1,5 +1,4 @@
-Stigmatidium argenteum (Fée) Spreng. SPECIES
-=======
+# Stigmatidium argenteum (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

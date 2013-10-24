@@ -1,17 +1,16 @@
-Evulla Kavina GENUS
-=======
+# Neobulgaria Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Bot. Cechoslav. 2: 23 (1939)
+Annls mycol. 19(1/2): 44 (1921)
 
 #### Original name
-Evulla Kavina
+Neobulgaria Petr.
 
 ### Remarks
 null

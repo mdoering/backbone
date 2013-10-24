@@ -1,5 +1,4 @@
-Alternaria palandui Ayyangar SPECIES
-=======
+# Alternaria palandui Ayyangar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria kansriae var. kansriae VARIETY
-=======
+# Pertusaria kansriae Jariangpr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 91: 284 (2005)
 
 #### Original name
-Pertusaria kansriae var. kansriae
+Pertusaria kansriae Jariangpr.
 
 ### Remarks
 null

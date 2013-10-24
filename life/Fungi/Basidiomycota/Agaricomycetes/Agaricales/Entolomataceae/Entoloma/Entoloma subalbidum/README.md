@@ -1,5 +1,4 @@
-Entoloma subalbidum Murrill SPECIES
-=======
+# Entoloma subalbidum Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium capsici F. Kern & Whetzel SPECIES
-=======
+# Aecidium capsici F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

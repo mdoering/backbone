@@ -1,17 +1,16 @@
-Lachnum brevispora M.P. Sharma SPECIES
-=======
+# Lachnum brevisporum (Y. Otani) Spooner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 116: 460 (1987)
 
 #### Original name
-Lachnum brevispora M.P. Sharma
+Dasyscyphus fimbriifer var. brevisporus Y. Otani
 
 ### Remarks
 null

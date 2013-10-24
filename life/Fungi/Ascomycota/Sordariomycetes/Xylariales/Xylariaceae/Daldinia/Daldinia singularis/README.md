@@ -1,5 +1,4 @@
-Daldinia singularis Y.M. Ju, Lar.N. Vassiljeva & J.D. Rogers, 1999 SPECIES
-=======
+# Daldinia singularis Y.M. Ju, Lar.N. Vassiljeva & J.D. Rogers, 1999 SPECIES
 
 #### Status
 ACCEPTED

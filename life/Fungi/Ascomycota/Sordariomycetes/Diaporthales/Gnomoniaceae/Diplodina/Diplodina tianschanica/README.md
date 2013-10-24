@@ -1,5 +1,4 @@
-Diplodina tianschanica Byzova SPECIES
-=======
+# Diplodina tianschanica Byzova SPECIES
 
 #### Status
 ACCEPTED

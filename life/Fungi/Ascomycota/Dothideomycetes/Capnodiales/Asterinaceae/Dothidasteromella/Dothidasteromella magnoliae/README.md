@@ -1,5 +1,4 @@
-Dothidasteromella magnoliae (Tracy & Earle) M.L. Farr SPECIES
-=======
+# Dothidasteromella magnoliae (Tracy & Earle) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

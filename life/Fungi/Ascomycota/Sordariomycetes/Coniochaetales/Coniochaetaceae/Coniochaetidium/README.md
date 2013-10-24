@@ -1,5 +1,4 @@
-Coniochaetidium Malloch & Cain GENUS
-=======
+# Coniochaetidium Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

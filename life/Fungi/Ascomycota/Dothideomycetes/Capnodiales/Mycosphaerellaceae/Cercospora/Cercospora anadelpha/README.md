@@ -1,5 +1,4 @@
-Cercospora anadelpha Syd. SPECIES
-=======
+# Cercospora anadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

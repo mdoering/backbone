@@ -1,5 +1,4 @@
-Tricholoma anatolicum H.H. Dogan & Intini, 2004 SPECIES
-=======
+# Tricholoma anatolicum H.H. Dogan & Intini, 2004 SPECIES
 
 #### Status
 ACCEPTED

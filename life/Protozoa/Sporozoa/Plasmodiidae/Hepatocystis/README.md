@@ -1,5 +1,4 @@
-Hepatocystis Levaditi & Schoen, 1932 GENUS
-=======
+# Hepatocystis Levaditi & Schoen, 1932 GENUS
 
 #### Status
 ACCEPTED

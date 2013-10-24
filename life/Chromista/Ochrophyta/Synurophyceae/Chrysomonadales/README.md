@@ -1,5 +1,4 @@
-Chrysomonadales ORDER
-=======
+# Chrysomonadales ORDER
 
 #### Status
 ACCEPTED

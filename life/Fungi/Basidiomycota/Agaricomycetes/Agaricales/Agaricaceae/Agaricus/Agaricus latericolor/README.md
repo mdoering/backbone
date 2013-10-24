@@ -1,5 +1,4 @@
-Agaricus latericolor Mont. SPECIES
-=======
+# Agaricus latericolor Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ambylospora GENUS
-=======
+# Ambylospora GENUS
 
 #### Status
 ACCEPTED

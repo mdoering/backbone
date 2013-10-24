@@ -1,5 +1,4 @@
-Endodesmidium Canter GENUS
-=======
+# Endodesmidium Canter GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uroleptus magnificus SPECIES
-=======
+# Uroleptus magnificus SPECIES
 
 #### Status
 ACCEPTED

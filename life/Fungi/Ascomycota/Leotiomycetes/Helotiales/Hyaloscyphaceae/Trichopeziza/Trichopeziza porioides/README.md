@@ -1,5 +1,4 @@
-Trichopeziza porioides Penz. & Sacc. SPECIES
-=======
+# Trichopeziza porioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

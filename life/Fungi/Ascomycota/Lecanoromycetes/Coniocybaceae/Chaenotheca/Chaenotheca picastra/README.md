@@ -1,5 +1,4 @@
-Chaenotheca picastra (Le Prévost) Zahlbr. SPECIES
-=======
+# Chaenotheca picastra (Le Prévost) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

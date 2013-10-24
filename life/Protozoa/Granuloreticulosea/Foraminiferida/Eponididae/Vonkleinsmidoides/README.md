@@ -1,5 +1,4 @@
-Vonkleinsmidoides McCulloch, 1977 GENUS
-=======
+# Vonkleinsmidoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

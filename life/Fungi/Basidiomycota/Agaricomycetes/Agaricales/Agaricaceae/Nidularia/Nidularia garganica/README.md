@@ -1,5 +1,4 @@
-Nidularia garganica Rabenh. SPECIES
-=======
+# Nidularia garganica Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cornutispora herteliana Knoph SPECIES
-=======
+# Cornutispora herteliana Knoph SPECIES
 
 #### Status
 ACCEPTED

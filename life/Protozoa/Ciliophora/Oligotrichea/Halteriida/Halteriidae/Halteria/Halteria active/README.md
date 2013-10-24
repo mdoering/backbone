@@ -1,5 +1,4 @@
-Halteria active Smith, 1900 SPECIES
-=======
+# Halteria active Smith, 1900 SPECIES
 
 #### Status
 ACCEPTED

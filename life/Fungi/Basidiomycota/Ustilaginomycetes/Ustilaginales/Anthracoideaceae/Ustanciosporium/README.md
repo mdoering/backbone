@@ -1,17 +1,16 @@
-Gymnocintractia M. Piepenbr., Begerow & Oberw. GENUS
-=======
+# Ustanciosporium Vánky GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 91(3): 496 (1999)
+Mycotaxon 70: 31 (1999)
 
 #### Original name
-Gymnocintractia M. Piepenbr., Begerow & Oberw.
+Ustanciosporium Vánky
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Merulius berkeleyi Kuntze SPECIES
-=======
+# Merulius berkeleyi Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Olpidium entosphaericum (Cohn) A. Fisher SPECIES
-=======
+# Chytridium entosphaericum E. Cohn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Chytridium entosphaericum E. Cohn
 
 ### Remarks
 null

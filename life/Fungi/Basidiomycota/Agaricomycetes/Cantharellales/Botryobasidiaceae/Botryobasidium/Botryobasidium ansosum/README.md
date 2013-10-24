@@ -1,14 +1,13 @@
-Pellicularia ansosa H.S. Jacks. & D.P. Rogers, 1943 SPECIES
-=======
+# Botryobasidium ansosum (H.S. Jacks. & D.P. Rogers) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1(1): 103 (1943)
+Consp. System. Corticiac. (Tartu) 51 (1968)
 
 #### Original name
 Pellicularia ansosa H.S. Jacks. & D.P. Rogers, 1943

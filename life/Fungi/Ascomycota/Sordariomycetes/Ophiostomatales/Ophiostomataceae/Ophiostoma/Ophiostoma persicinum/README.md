@@ -1,5 +1,4 @@
-Ophiostoma persicinum Govi & Di Caro SPECIES
-=======
+# Ophiostoma persicinum Govi & Di Caro SPECIES
 
 #### Status
 ACCEPTED

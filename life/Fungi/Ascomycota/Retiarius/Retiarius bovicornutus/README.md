@@ -1,5 +1,4 @@
-Retiarius bovicornutus D.L. Olivier, 1978 SPECIES
-=======
+# Retiarius bovicornutus D.L. Olivier, 1978 SPECIES
 
 #### Status
 ACCEPTED

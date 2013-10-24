@@ -1,5 +1,4 @@
-Merulius uliginosus Pers. SPECIES
-=======
+# Merulius uliginosus Pers. SPECIES
 
 #### Status
 ACCEPTED

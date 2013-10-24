@@ -1,5 +1,4 @@
-Oropogon mexicanus Essl. SPECIES
-=======
+# Oropogon mexicanus Essl. SPECIES
 
 #### Status
 ACCEPTED

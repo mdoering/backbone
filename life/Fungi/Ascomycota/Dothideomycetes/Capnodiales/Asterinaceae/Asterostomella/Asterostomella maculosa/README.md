@@ -1,5 +1,4 @@
-Asterostomella maculosa (Sacc.) S. Hughes SPECIES
-=======
+# Asterostomella maculosa (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

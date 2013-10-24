@@ -1,5 +1,4 @@
-Repetobasidium erikssonii Oberw., 1965 SPECIES
-=======
+# Repetobasidium erikssonii Oberw., 1965 SPECIES
 
 #### Status
 ACCEPTED

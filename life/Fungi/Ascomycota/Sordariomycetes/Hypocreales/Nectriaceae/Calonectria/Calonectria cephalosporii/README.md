@@ -1,5 +1,4 @@
-Calonectria cephalosporii Hansf. SPECIES
-=======
+# Calonectria cephalosporii Hansf. SPECIES
 
 #### Status
 ACCEPTED

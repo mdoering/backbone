@@ -1,5 +1,4 @@
-Diacanthum D. Habib, 1972 GENUS
-=======
+# Diacanthum D. Habib, 1972 GENUS
 
 #### Status
 ACCEPTED

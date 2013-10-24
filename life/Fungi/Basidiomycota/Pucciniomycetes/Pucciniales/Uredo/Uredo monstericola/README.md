@@ -1,5 +1,4 @@
-Uredo monstericola F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Uredo monstericola F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

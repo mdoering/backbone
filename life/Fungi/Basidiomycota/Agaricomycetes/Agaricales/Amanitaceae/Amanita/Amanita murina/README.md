@@ -1,5 +1,4 @@
-Amanita murina (Cooke & Massee) Sacc. SPECIES
-=======
+# Amanita murina (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

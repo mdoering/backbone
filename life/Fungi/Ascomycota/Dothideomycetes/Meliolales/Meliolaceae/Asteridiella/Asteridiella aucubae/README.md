@@ -1,5 +1,4 @@
-Asteridiella aucubae (Henn.) Hansf. SPECIES
-=======
+# Asteridiella aucubae (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

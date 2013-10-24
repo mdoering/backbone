@@ -1,5 +1,4 @@
-Hyaloscypha rubi-fruticosi Svrcek SPECIES
-=======
+# Hyaloscypha rubi-fruticosi Svrcek SPECIES
 
 #### Status
 ACCEPTED

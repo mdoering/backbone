@@ -1,17 +1,16 @@
-Gyalectina Vezda GENUS
-=======
+# Cryptolechia A. Massalongo, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia geobot. phytotax. bohemoslov. 4: 444 (1970)
+Alcuni Gen. Lich. 13 (1853)
 
 #### Original name
-Gyalectina Vezda
+Cryptolechia A. Massalongo, 1853
 
 ### Remarks
 null

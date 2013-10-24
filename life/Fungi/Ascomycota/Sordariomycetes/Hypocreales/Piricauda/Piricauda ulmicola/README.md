@@ -1,5 +1,4 @@
-Piricauda ulmicola (Sacc.) R.T. Moore SPECIES
-=======
+# Piricauda ulmicola (Sacc.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

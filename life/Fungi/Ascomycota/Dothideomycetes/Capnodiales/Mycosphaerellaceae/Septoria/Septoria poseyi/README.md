@@ -1,5 +1,4 @@
-Septoria poseyi R. Sprague SPECIES
-=======
+# Septoria poseyi R. Sprague SPECIES
 
 #### Status
 ACCEPTED

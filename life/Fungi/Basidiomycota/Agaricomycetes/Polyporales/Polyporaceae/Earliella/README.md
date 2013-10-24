@@ -1,5 +1,4 @@
-Earliella Murrill GENUS
-=======
+# Earliella Murrill GENUS
 
 #### Status
 ACCEPTED

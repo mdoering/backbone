@@ -1,5 +1,4 @@
-Mycena clavata (Peck) Redhead SPECIES
-=======
+# Mycena clavata (Peck) Redhead SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina drouillonii Saccas SPECIES
-=======
+# Diplodina drouillonii Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chilomonas amygdalum Kent, 1880 SPECIES
-=======
+# Chilomonas amygdalum Kent, 1880 SPECIES
 
 #### Status
 ACCEPTED

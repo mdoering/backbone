@@ -1,5 +1,4 @@
-Erineum pseudoplatani (J.C. Schmidt) Pers. SPECIES
-=======
+# Erineum pseudoplatani (J.C. Schmidt) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena trachelina Fr. SPECIES
-=======
+# Mycena trachelina Fr. SPECIES
 
 #### Status
 ACCEPTED

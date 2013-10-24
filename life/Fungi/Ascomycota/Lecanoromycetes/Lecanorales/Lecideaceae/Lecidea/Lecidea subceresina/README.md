@@ -1,5 +1,4 @@
-Lecidea subceresina Zahlbr. SPECIES
-=======
+# Lecidea subceresina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

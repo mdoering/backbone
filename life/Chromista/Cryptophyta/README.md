@@ -1,5 +1,4 @@
-Cryptophyta Cavalier-Smith, 1986 PHYLUM
-=======
+# Cryptophyta Cavalier-Smith, 1986 PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps deliquescens (Speg.) Hauman SPECIES
-=======
+# Claviceps deliquescens (Speg.) Hauman SPECIES
 
 #### Status
 ACCEPTED

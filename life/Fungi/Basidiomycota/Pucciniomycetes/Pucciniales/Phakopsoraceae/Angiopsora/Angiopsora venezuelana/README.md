@@ -1,5 +1,4 @@
-Angiopsora venezuelana (Syd.) Thirum. & F. Kern SPECIES
-=======
+# Angiopsora venezuelana (Syd.) Thirum. & F. Kern SPECIES
 
 #### Status
 ACCEPTED

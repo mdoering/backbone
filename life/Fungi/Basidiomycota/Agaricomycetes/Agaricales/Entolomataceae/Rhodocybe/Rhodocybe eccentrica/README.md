@@ -1,5 +1,4 @@
-Rhodocybe eccentrica T.J. Baroni & Ovrebo SPECIES
-=======
+# Rhodocybe eccentrica T.J. Baroni & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

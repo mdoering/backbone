@@ -1,17 +1,16 @@
-Placodium refellens (Nyl.) A.L. Sm. SPECIES
-=======
+# Caloplaca obscurella (J. Lahm ex Körb.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 1: 216 (1918)
+Lich. Scand. (Uppsala) 1: 182 (1871)
 
 #### Original name
-Lecanora refellens Nyl.
+Blastenia obscurella J. Lahm ex Körb.
 
 ### Remarks
 null

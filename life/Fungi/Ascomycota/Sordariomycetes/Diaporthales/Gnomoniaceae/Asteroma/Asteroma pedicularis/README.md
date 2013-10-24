@@ -1,5 +1,4 @@
-Asteroma pedicularis (DC.) Jaap SPECIES
-=======
+# Asteroma pedicularis (DC.) Jaap SPECIES
 
 #### Status
 ACCEPTED

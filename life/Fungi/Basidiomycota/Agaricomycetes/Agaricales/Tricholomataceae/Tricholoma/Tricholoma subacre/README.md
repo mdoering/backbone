@@ -1,5 +1,4 @@
-Tricholoma subacre (Murrill) Murrill SPECIES
-=======
+# Tricholoma subacre (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

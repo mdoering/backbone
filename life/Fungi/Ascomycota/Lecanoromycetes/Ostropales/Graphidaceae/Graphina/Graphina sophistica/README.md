@@ -1,5 +1,4 @@
-Graphina sophistica var. sophistica VARIETY
-=======
+# Graphina sophistica (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 63: 23 (1880)
 
 #### Original name
-Graphina sophistica var. sophistica
+Graphis sophistica
 
 ### Remarks
 null

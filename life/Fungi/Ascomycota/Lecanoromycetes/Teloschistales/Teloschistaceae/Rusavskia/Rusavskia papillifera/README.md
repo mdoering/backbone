@@ -1,5 +1,4 @@
-Rusavskia papillifera (Vain.) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia papillifera (Vain.) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chadefaudiella quezelii Faurel & Schotter, 1959 SPECIES
-=======
+# Chadefaudiella quezelii Faurel & Schotter, 1959 SPECIES
 
 #### Status
 ACCEPTED

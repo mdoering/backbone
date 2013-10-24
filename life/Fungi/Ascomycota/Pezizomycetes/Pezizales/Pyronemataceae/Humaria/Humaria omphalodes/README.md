@@ -1,5 +1,4 @@
-Humaria omphalodes (Bull.) SPECIES
-=======
+# Humaria omphalodes (Bull.) SPECIES
 
 #### Status
 ACCEPTED

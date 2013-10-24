@@ -1,5 +1,4 @@
-Lactarius epitheliosus Buyck & Courtec. SPECIES
-=======
+# Lactarius epitheliosus Buyck & Courtec. SPECIES
 
 #### Status
 ACCEPTED

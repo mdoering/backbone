@@ -1,5 +1,4 @@
-Chamaecalyx Komárek & Anagnostidis, 1986 GENUS
-=======
+# Chamaecalyx Komárek & Anagnostidis, 1986 GENUS
 
 #### Status
 ACCEPTED

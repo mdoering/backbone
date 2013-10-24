@@ -1,5 +1,4 @@
-Hemileia canthii Berk. & Broome SPECIES
-=======
+# Hemileia canthii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordierites fasciculata Möller SPECIES
-=======
+# Cordierites fasciculata Möller SPECIES
 
 #### Status
 ACCEPTED

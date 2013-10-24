@@ -1,5 +1,4 @@
-Nectria placenta Höhn. SPECIES
-=======
+# Nectria placenta Höhn. SPECIES
 
 #### Status
 ACCEPTED

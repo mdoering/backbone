@@ -1,5 +1,4 @@
-Microthelia ammophilae (Fautrey & Roum.) Kuntze SPECIES
-=======
+# Microthelia ammophilae (Fautrey & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

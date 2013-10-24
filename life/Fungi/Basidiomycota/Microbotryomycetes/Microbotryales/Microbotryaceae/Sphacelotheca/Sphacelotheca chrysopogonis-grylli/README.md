@@ -1,5 +1,4 @@
-Sphacelotheca chrysopogonis-grylli Thirum. & Pavgi SPECIES
-=======
+# Sphacelotheca chrysopogonis-grylli Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

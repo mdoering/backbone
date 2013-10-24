@@ -1,14 +1,13 @@
-Carlia latebrosa (Cooke) Höhn., 1920 SPECIES
-=======
+# Mycosphaerella latebrosa (Cooke) J. Schröt., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 62: 73 (1920)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 334 (1894)
 
 #### Original name
 Sphaerella latebrosa Cooke, 1871

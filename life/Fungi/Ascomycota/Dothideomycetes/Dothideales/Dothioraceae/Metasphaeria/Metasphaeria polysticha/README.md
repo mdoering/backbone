@@ -1,5 +1,4 @@
-Metasphaeria polysticha Feltgen SPECIES
-=======
+# Metasphaeria polysticha Feltgen SPECIES
 
 #### Status
 ACCEPTED

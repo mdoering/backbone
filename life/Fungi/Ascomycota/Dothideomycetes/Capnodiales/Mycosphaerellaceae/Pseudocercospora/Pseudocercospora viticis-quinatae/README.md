@@ -1,5 +1,4 @@
-Pseudocercospora viticis-quinatae (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora viticis-quinatae (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

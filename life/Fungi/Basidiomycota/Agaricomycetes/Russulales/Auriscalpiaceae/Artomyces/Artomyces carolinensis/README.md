@@ -1,5 +1,4 @@
-Artomyces carolinensis Lickey, 2003 SPECIES
-=======
+# Artomyces carolinensis Lickey, 2003 SPECIES
 
 #### Status
 ACCEPTED

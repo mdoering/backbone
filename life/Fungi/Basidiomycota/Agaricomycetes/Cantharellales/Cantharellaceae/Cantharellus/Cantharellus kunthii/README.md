@@ -1,5 +1,4 @@
-Cantharellus kunthii Chevall. SPECIES
-=======
+# Cantharellus kunthii Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea concrescens H. Magn. SPECIES
-=======
+# Lecidea concrescens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

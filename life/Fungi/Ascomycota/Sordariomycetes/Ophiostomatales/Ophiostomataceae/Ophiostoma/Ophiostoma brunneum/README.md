@@ -1,14 +1,13 @@
-Ceratocystis brunnea R.W. Davidson, 1959 SPECIES
-=======
+# Ophiostoma brunneum (R.W. Davidson) Georg Hausner & J. Reid, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 50(5): 663 (1958)
+Can. J. Bot. 81(8): 874 (2003)
 
 #### Original name
 Ceratocystis brunnea R.W. Davidson, 1959

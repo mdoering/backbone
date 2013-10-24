@@ -1,5 +1,4 @@
-Arcispora bisagittaria Marvanová & Bärl., 1998 SPECIES
-=======
+# Arcispora bisagittaria Marvanová & Bärl., 1998 SPECIES
 
 #### Status
 ACCEPTED

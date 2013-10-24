@@ -1,5 +1,4 @@
-Aecidium odoratum G. Winter SPECIES
-=======
+# Aecidium odoratum G. Winter SPECIES
 
 #### Status
 ACCEPTED

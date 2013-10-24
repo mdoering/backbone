@@ -1,5 +1,4 @@
-Archaeoglobus Stetter, 1988 GENUS
-=======
+# Archaeoglobus Stetter, 1988 GENUS
 
 #### Status
 ACCEPTED

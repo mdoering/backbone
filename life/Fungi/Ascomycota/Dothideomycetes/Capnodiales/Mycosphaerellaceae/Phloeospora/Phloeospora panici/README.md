@@ -1,5 +1,4 @@
-Phloeospora panici H.C. Greene SPECIES
-=======
+# Phloeospora panici H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

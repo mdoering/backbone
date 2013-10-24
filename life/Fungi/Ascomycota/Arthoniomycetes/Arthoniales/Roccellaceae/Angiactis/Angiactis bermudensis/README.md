@@ -1,5 +1,4 @@
-Angiactis bermudensis LaGreca SPECIES
-=======
+# Angiactis bermudensis LaGreca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria sanguinea Pers. SPECIES
-=======
+# Patellaria sanguinea Pers. SPECIES
 
 #### Status
 ACCEPTED

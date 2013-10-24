@@ -1,5 +1,4 @@
-Pyrenula pulchella var. pulchella Müll. Arg. VARIETY
-=======
+# Pyrenula pulchella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenula pulchella var. pulchella Müll. Arg.
+Pyrenula pulchella Müll. Arg.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Porosira dichotomica O.G. Kozlova SPECIES
-=======
+# Thalassiosira dichotomica (O.G. Kozlova) G.A. Fryxell & G.R. Hasle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

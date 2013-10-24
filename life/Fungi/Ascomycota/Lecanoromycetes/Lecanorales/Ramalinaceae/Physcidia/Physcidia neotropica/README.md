@@ -1,5 +1,4 @@
-Physcidia neotropica Kalb & Elix SPECIES
-=======
+# Physcidia neotropica Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

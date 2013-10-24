@@ -1,5 +1,4 @@
-Labyrinthodinium Piasecki, 1980 GENUS
-=======
+# Labyrinthodinium Piasecki, 1980 GENUS
 
 #### Status
 ACCEPTED

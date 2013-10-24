@@ -1,5 +1,4 @@
-Macrotyphula rhizomorpha R.H. Petersen, 1988 SPECIES
-=======
+# Macrotyphula rhizomorpha R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

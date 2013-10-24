@@ -1,5 +1,4 @@
-Pirogaster stahelii E. Fisch. SPECIES
-=======
+# Pirogaster stahelii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

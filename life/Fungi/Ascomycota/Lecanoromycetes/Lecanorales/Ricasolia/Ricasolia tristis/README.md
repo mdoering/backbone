@@ -1,5 +1,4 @@
-Ricasolia tristis Müll. Arg. SPECIES
-=======
+# Ricasolia tristis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

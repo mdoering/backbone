@@ -1,5 +1,4 @@
-Clitocybe incorporata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe incorporata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

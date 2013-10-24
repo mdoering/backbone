@@ -1,5 +1,4 @@
-Chaetoceros fragile Meunier SPECIES
-=======
+# Chaetoceros fragile Meunier SPECIES
 
 #### Status
 ACCEPTED

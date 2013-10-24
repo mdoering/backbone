@@ -1,5 +1,4 @@
-Tetraporina S.N. Naumova, 1939 GENUS
-=======
+# Tetraporina S.N. Naumova, 1939 GENUS
 
 #### Status
 ACCEPTED

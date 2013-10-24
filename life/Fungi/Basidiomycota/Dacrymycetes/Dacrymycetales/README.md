@@ -1,5 +1,4 @@
-Dacrymycetales Henn. ORDER
-=======
+# Dacrymycetales Henn. ORDER
 
 #### Status
 ACCEPTED

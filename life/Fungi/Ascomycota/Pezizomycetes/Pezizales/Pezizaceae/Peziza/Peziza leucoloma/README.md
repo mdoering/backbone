@@ -1,5 +1,4 @@
-Peziza leucoloma var. leucoloma VARIETY
-=======
+# Peziza leucoloma P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Peziza leucoloma P. Karst.
 
 ### Remarks
 null

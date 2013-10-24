@@ -1,5 +1,4 @@
-Sclerotium entogenum Westend. SPECIES
-=======
+# Sclerotium entogenum Westend. SPECIES
 
 #### Status
 ACCEPTED

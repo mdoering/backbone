@@ -1,5 +1,4 @@
-Mycena conidina Velen. SPECIES
-=======
+# Mycena conidina Velen. SPECIES
 
 #### Status
 ACCEPTED

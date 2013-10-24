@@ -1,5 +1,4 @@
-Uromyces euphorbiae var. euphorbiae (Schwein.) Cooke & Peck VARIETY
-=======
+# Uromyces euphorbiae (Schwein.) Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Peck, Ann. Rep. Reg. Univ. St. N. Y. 25: 90 (1873)
 
 #### Original name
-Uromyces euphorbiae var. euphorbiae (Schwein.) Cooke & Peck
+null
 
 ### Remarks
 null

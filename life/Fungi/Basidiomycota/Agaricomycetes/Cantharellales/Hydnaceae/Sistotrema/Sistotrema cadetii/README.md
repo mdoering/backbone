@@ -1,5 +1,4 @@
-Sistotrema cadetii Boidin & Gilles SPECIES
-=======
+# Sistotrema cadetii Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

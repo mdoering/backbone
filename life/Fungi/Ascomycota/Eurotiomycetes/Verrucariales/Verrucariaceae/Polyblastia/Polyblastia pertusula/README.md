@@ -1,5 +1,4 @@
-Polyblastia pertusula (Nyl.) Zschacke SPECIES
-=======
+# Polyblastia pertusula (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

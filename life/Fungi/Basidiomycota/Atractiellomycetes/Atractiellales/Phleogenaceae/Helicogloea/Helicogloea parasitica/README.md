@@ -1,5 +1,4 @@
-Helicogloea parasitica L.S. Olive SPECIES
-=======
+# Helicogloea parasitica L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

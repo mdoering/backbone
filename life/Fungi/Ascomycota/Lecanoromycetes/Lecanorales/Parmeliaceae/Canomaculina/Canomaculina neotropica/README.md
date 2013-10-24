@@ -1,5 +1,4 @@
-Canomaculina neotropica (Kurok.) Elix SPECIES
-=======
+# Canomaculina neotropica (Kurok.) Elix SPECIES
 
 #### Status
 ACCEPTED

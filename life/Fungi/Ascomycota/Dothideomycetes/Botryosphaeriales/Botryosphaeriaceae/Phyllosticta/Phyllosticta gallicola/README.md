@@ -1,5 +1,4 @@
-Phyllosticta gallicola Ellis & Everh. SPECIES
-=======
+# Phyllosticta gallicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

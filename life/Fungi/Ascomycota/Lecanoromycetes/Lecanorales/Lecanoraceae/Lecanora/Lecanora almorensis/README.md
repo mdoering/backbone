@@ -1,5 +1,4 @@
-Lecanora almorensis (Räsänen) D.D. Awasthi SPECIES
-=======
+# Lecanora almorensis (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

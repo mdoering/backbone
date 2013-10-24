@@ -1,5 +1,4 @@
-Cryptodiscus libertianus var. libertianus VARIETY
-=======
+# Cryptodiscus libertianus Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cryptodiscus libertianus var. libertianus
+Cryptodiscus libertianus Sacc. & Roum.
 
 ### Remarks
 null

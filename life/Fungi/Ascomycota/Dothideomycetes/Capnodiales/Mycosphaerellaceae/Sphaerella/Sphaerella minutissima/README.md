@@ -1,5 +1,4 @@
-Sphaerella minutissima House SPECIES
-=======
+# Sphaerella minutissima House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas subcaudata Messikommer SPECIES
-=======
+# Trachelomonas subcaudata Messikommer SPECIES
 
 #### Status
 ACCEPTED

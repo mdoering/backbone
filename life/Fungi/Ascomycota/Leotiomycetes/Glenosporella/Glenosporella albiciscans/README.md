@@ -1,5 +1,4 @@
-Glenosporella albiciscans (Nieuwenh.) Nann. SPECIES
-=======
+# Glenosporella albiciscans (Nieuwenh.) Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium rhois Sacc. & Trotter SPECIES
-=======
+# Coniothecium rhois Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

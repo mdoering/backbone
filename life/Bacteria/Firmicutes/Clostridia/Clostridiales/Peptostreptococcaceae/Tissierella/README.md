@@ -1,5 +1,4 @@
-Tissierella Collins & Shah, 1986 GENUS
-=======
+# Tissierella Collins & Shah, 1986 GENUS
 
 #### Status
 ACCEPTED

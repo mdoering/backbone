@@ -1,5 +1,4 @@
-Phyllosticta ramicola Petch SPECIES
-=======
+# Phyllosticta ramicola Petch SPECIES
 
 #### Status
 ACCEPTED

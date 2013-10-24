@@ -1,5 +1,4 @@
-Puccinia lithophragmae Holw. SPECIES
-=======
+# Puccinia lithophragmae Holw. SPECIES
 
 #### Status
 ACCEPTED

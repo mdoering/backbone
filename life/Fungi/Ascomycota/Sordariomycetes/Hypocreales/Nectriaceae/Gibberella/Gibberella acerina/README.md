@@ -1,5 +1,4 @@
-Gibberella acerina Massa SPECIES
-=======
+# Gibberella acerina Massa SPECIES
 
 #### Status
 ACCEPTED

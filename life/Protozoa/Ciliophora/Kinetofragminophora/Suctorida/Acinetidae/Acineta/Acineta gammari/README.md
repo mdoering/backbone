@@ -1,5 +1,4 @@
-Acineta gammari Penard, 1912 SPECIES
-=======
+# Acineta gammari Penard, 1912 SPECIES
 
 #### Status
 ACCEPTED

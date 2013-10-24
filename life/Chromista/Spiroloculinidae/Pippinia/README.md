@@ -1,5 +1,4 @@
-Pippinia McCulloch, 1977 GENUS
-=======
+# Pippinia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

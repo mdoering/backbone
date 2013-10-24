@@ -1,5 +1,4 @@
-Sphaeria socialis Heer SPECIES
-=======
+# Sphaeria socialis Heer SPECIES
 
 #### Status
 ACCEPTED

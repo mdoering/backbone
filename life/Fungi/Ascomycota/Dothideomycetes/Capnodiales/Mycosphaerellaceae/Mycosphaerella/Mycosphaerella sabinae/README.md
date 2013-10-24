@@ -1,5 +1,4 @@
-Mycosphaerella sabinae Feltgen SPECIES
-=======
+# Mycosphaerella sabinae Feltgen SPECIES
 
 #### Status
 ACCEPTED

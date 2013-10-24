@@ -1,5 +1,4 @@
-Leuconectria grandis Y. Nong & W.Y. Zhuang SPECIES
-=======
+# Leuconectria grandis Y. Nong & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Acetomadura flexuosa Krasil'nikov & Agre, 1964 SPECIES
-=======
+# Thermopolyspora flexuosa (Meyer, 1989) Goodfellow et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

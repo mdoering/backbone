@@ -1,5 +1,4 @@
-Sertiseria Sugiyama, 1994 GENUS
-=======
+# Sertiseria Sugiyama, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryobasidium sphaericosporum Boidin, Cand. & Lanq., 1989 SPECIES
-=======
+# Botryobasidium sphaericosporum Boidin, Cand. & Lanq., 1989 SPECIES
 
 #### Status
 ACCEPTED

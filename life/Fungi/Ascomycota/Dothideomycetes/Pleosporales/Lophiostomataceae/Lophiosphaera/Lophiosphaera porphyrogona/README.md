@@ -1,5 +1,4 @@
-Lophiosphaera porphyrogona Kirschst. SPECIES
-=======
+# Lophiosphaera porphyrogona Kirschst. SPECIES
 
 #### Status
 ACCEPTED

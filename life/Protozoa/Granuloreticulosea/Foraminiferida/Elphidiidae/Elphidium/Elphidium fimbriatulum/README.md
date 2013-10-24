@@ -1,5 +1,4 @@
-Elphidium fimbriatulum (Cushman, 1918) SPECIES
-=======
+# Elphidium fimbriatulum (Cushman, 1918) SPECIES
 
 #### Status
 ACCEPTED

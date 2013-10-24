@@ -1,5 +1,4 @@
-Thelotrema vesiculiferum Vain. SPECIES
-=======
+# Thelotrema vesiculiferum Vain. SPECIES
 
 #### Status
 ACCEPTED

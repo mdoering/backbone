@@ -1,5 +1,4 @@
-Anthracoidea onumae Shirai SPECIES
-=======
+# Anthracoidea onumae Shirai SPECIES
 
 #### Status
 ACCEPTED

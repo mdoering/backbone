@@ -1,5 +1,4 @@
-Helminthosporium olivaceum Berk. & Ravenel SPECIES
-=======
+# Helminthosporium olivaceum Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

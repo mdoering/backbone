@@ -1,5 +1,4 @@
-Alstoniamitus Skvortzov GENUS
-=======
+# Alstoniamitus Skvortzov GENUS
 
 #### Status
 ACCEPTED

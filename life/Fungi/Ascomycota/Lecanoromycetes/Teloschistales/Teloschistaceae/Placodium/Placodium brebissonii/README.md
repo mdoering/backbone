@@ -1,17 +1,16 @@
-Placodium brebissonii var. brebissonii VARIETY
-=======
+# Placodium brebissonii (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Lecidea brebissonii Fée
 
 ### Remarks
 null

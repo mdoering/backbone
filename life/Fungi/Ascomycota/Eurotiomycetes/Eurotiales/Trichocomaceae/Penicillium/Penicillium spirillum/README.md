@@ -1,17 +1,16 @@
-Talaromyces helicus var. helicus (Raper & Fennell) C.R. Benj. VARIETY
-=======
+# Penicillium spirillum Pitt, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 2: 19 (1972)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 476 (1980)
 
 #### Original name
-Talaromyces helicus var. helicus (Raper & Fennell) C.R. Benj.
+Penicillium spirillum Pitt, 1980
 
 ### Remarks
 null

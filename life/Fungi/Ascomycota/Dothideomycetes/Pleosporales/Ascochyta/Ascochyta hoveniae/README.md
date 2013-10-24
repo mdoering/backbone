@@ -1,5 +1,4 @@
-Ascochyta hoveniae Sawada SPECIES
-=======
+# Ascochyta hoveniae Sawada SPECIES
 
 #### Status
 ACCEPTED

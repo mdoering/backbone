@@ -1,5 +1,4 @@
-Lepiota imbricata Henn. SPECIES
-=======
+# Lepiota imbricata Henn. SPECIES
 
 #### Status
 ACCEPTED

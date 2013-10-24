@@ -1,5 +1,4 @@
-Caeoma superficialis Speg. SPECIES
-=======
+# Caeoma superficialis Speg. SPECIES
 
 #### Status
 ACCEPTED

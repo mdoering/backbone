@@ -1,5 +1,4 @@
-Clinterium pulchrum (Sacc.) Höhn. SPECIES
-=======
+# Clinterium pulchrum (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

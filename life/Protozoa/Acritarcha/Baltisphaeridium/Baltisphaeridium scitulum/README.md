@@ -1,5 +1,4 @@
-Baltisphaeridium scitulum Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Baltisphaeridium scitulum Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

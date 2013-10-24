@@ -1,5 +1,4 @@
-Urophlyctites Magnus GENUS
-=======
+# Urophlyctites Magnus GENUS
 
 #### Status
 ACCEPTED

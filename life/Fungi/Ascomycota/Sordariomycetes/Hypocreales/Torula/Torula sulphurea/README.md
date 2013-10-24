@@ -1,5 +1,4 @@
-Torula sulphurea Preuss SPECIES
-=======
+# Torula sulphurea Preuss SPECIES
 
 #### Status
 ACCEPTED

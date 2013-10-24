@@ -1,5 +1,4 @@
-Thraustochytrium visergense Ulken SPECIES
-=======
+# Thraustochytrium visergense Ulken SPECIES
 
 #### Status
 ACCEPTED

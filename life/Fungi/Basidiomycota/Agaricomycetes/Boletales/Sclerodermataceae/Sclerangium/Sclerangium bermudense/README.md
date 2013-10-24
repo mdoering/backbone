@@ -1,5 +1,4 @@
-Sclerangium bermudense var. bermudense VARIETY
-=======
+# Sclerangium bermudense (Coker) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 31(3): 681 (1977)
 
 #### Original name
-Sclerangium bermudense var. bermudense
+Scleroderma bermudense Coker
 
 ### Remarks
 null

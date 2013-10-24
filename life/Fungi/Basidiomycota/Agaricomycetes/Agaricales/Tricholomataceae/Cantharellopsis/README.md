@@ -1,5 +1,4 @@
-Cantharellopsis Kuyper GENUS
-=======
+# Cantharellopsis Kuyper GENUS
 
 #### Status
 ACCEPTED

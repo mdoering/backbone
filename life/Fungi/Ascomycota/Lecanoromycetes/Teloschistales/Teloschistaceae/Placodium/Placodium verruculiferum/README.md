@@ -1,5 +1,4 @@
-Placodium verruculiferum Oxner SPECIES
-=======
+# Placodium verruculiferum Oxner SPECIES
 
 #### Status
 ACCEPTED

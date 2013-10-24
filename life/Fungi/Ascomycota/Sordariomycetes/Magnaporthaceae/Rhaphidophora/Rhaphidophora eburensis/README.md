@@ -1,5 +1,4 @@
-Rhaphidophora eburensis Sacc. SPECIES
-=======
+# Rhaphidophora eburensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

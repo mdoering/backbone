@@ -1,5 +1,4 @@
-Schizophyllum palmatum Jungh. ex W.B. Cooke SPECIES
-=======
+# Schizophyllum palmatum Jungh. ex W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

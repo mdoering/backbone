@@ -1,5 +1,4 @@
-Janetia euphorbiae M.B. Ellis, 1976 SPECIES
-=======
+# Janetia euphorbiae M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

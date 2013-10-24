@@ -1,5 +1,4 @@
-Psathyrella nassa (Berk.) Manjula SPECIES
-=======
+# Psathyrella nassa (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

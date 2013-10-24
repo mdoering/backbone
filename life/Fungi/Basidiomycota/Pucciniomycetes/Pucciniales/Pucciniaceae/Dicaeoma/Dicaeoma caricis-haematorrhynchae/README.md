@@ -1,14 +1,13 @@
-Dicaeoma caricia-haematorrhynchae (Dietel & Neger) Syd. SPECIES
-=======
+# Dicaeoma caricis-haematorrhynchae (Dietel & Neger) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20(3): 117 (1922)
 
 #### Original name
 Puccinia caricis-haematorrhynchae Dietel & Neger

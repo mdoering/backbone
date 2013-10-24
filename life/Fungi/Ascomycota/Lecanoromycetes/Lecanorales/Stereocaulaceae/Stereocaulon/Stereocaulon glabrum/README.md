@@ -1,5 +1,4 @@
-Stereocaulon glabrum (Müll. Arg.) Vain. SPECIES
-=======
+# Stereocaulon glabrum (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

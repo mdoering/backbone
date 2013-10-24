@@ -1,5 +1,4 @@
-Sirolpidiaceae Sparrow ex Cejp FAMILY
-=======
+# Sirolpidiaceae Sparrow ex Cejp FAMILY
 
 #### Status
 ACCEPTED

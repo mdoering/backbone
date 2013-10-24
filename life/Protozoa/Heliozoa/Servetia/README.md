@@ -1,17 +1,16 @@
-Haeckelina Mereschkowsky, 1879 GENUS
-=======
+# Servetia Poche, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. mikr. Anat. , 16, 211.
+Arch. Protistenk. , 30, 188.
 
 #### Original name
-null
+Haeckelina Mereschkowsky, 1879
 
 ### Remarks
 null

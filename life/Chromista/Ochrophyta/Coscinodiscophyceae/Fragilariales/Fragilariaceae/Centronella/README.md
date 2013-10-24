@@ -1,5 +1,4 @@
-Centronella Max Voigt, 1902 GENUS
-=======
+# Centronella Max Voigt, 1902 GENUS
 
 #### Status
 ACCEPTED

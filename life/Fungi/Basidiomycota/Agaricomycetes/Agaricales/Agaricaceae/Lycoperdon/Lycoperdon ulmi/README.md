@@ -1,5 +1,4 @@
-Lycoperdon ulmi Bell. {?} SPECIES
-=======
+# Lycoperdon ulmi Bell. {?} SPECIES
 
 #### Status
 ACCEPTED

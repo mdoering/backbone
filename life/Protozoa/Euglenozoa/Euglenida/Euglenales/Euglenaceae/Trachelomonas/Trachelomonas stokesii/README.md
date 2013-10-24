@@ -1,5 +1,4 @@
-Trachelomonas stokesii Drezepolski SPECIES
-=======
+# Trachelomonas stokesii Drezepolski SPECIES
 
 #### Status
 ACCEPTED

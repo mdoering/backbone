@@ -1,5 +1,4 @@
-Homaromyces epieri R.K. Benj., 1955 SPECIES
-=======
+# Homaromyces epieri R.K. Benj., 1955 SPECIES
 
 #### Status
 ACCEPTED

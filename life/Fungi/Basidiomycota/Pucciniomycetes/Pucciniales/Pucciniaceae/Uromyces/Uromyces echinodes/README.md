@@ -1,5 +1,4 @@
-Uromyces echinodes (Kunze) Henn. SPECIES
-=======
+# Uromyces echinodes (Kunze) Henn. SPECIES
 
 #### Status
 ACCEPTED

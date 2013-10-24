@@ -1,5 +1,4 @@
-Corticium sulphureum SPECIES
-=======
+# Corticium sulphureum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum larvicola Peck SPECIES
-=======
+# Sporotrichum larvicola Peck SPECIES
 
 #### Status
 ACCEPTED

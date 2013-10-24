@@ -1,5 +1,4 @@
-Cymatella minima Pat., 1899 SPECIES
-=======
+# Cymatella minima Pat., 1899 SPECIES
 
 #### Status
 ACCEPTED

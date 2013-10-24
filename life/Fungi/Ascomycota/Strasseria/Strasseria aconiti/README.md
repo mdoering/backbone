@@ -1,5 +1,4 @@
-Strasseria aconiti Negru & Crisan SPECIES
-=======
+# Strasseria aconiti Negru & Crisan SPECIES
 
 #### Status
 ACCEPTED

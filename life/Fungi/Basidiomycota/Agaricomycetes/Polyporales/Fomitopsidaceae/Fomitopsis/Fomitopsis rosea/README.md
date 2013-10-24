@@ -1,17 +1,16 @@
-Fomes roseus f. roseus FORM
-=======
+# Fomitopsis rosea (Alb. & Schwein.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 189 (1888)
+Meddn Soc. Fauna Flora fenn. 6: 9 (1881)
 
 #### Original name
-Fomes roseus f. roseus
+Boletus roseus Alb. & Schwein., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endomycopsis lindneri Saito SPECIES
-=======
+# Endomycopsis lindneri Saito SPECIES
 
 #### Status
 ACCEPTED

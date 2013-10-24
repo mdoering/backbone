@@ -1,5 +1,4 @@
-Candida sergipensis R.C. Trindade, M.A. Resende, Lachance & C.A. Rosa SPECIES
-=======
+# Candida sergipensis R.C. Trindade, M.A. Resende, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

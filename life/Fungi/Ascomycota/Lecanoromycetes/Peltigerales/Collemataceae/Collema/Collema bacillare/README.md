@@ -1,5 +1,4 @@
-Collema bacillare (Wallr.) Wallr. SPECIES
-=======
+# Collema bacillare (Wallr.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

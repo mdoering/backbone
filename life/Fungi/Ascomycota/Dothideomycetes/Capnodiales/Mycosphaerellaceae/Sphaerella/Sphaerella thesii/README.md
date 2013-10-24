@@ -1,5 +1,4 @@
-Sphaerella thesii var. thesii VARIETY
-=======
+# Sphaerella thesii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella thesii var. thesii
+Sphaerella thesii J. Schröt.
 
 ### Remarks
 null

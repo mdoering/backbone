@@ -1,5 +1,4 @@
-Agaricus glandulosus var. glandulosus VARIETY
-=======
+# Agaricus glandulosus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Herb. Fr. 9: tab. 426 (1789)
+Syn. meth. fung. (Göttingen) 2: 476 (1801)
 
 #### Original name
-Agaricus glandulosus var. glandulosus
+Agaricus glandulosus Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sampaioa pinastri Gonz. Frag. SPECIES
-=======
+# Sampaioa pinastri Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenodesmia paepalostoma (Anzi) Arnold SPECIES
-=======
+# Pyrenodesmia paepalostoma (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

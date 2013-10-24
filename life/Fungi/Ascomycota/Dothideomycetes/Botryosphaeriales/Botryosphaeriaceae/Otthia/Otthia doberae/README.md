@@ -1,5 +1,4 @@
-Otthia doberae Pass. SPECIES
-=======
+# Otthia doberae Pass. SPECIES
 
 #### Status
 ACCEPTED

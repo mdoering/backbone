@@ -1,5 +1,4 @@
-Cantharellus wellingtonensis McNabb, 1971 SPECIES
-=======
+# Cantharellus wellingtonensis McNabb, 1971 SPECIES
 
 #### Status
 ACCEPTED

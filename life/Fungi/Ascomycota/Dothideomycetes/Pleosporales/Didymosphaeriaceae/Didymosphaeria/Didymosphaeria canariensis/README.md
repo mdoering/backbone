@@ -1,5 +1,4 @@
-Didymosphaeria canariensis Petr. SPECIES
-=======
+# Didymosphaeria canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

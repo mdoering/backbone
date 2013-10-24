@@ -1,5 +1,4 @@
-Metasphaeria oryzae (Catt.) Sacc. SPECIES
-=======
+# Metasphaeria oryzae (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

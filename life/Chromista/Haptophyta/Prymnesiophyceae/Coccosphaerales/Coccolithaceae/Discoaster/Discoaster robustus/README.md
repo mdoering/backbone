@@ -1,5 +1,4 @@
-Discoaster robustus Haq, 1969 SPECIES
-=======
+# Discoaster robustus Haq, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sulcatellus Heinem. SPECIES
-=======
+# Agaricus sulcatellus Heinem. SPECIES
 
 #### Status
 ACCEPTED

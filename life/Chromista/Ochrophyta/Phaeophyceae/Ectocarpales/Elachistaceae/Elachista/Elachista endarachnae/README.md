@@ -1,5 +1,4 @@
-Elachista endarachnae Stegenga, J.J. Bolton & R.J. Anderson SPECIES
-=======
+# Elachista endarachnae Stegenga, J.J. Bolton & R.J. Anderson SPECIES
 
 #### Status
 ACCEPTED

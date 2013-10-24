@@ -1,5 +1,4 @@
-Tremella cerasi Schumach. SPECIES
-=======
+# Tremella cerasi Schumach. SPECIES
 
 #### Status
 ACCEPTED

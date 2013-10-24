@@ -1,17 +1,16 @@
-Anhelia tabebuiae Inácio & Dianese, 1998 SPECIES
-=======
+# Anhellia tabebuiae Inácio & Dianese, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 102(6): 695 (1998)
 
 #### Original name
-Anhelia tabebuiae Inácio & Dianese, 1998
+Anhellia tabebuiae Inácio & Dianese, 1998
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Synchytrium hydrocotyles M.T. Cook SPECIES
-=======
+# Synchytrium hydrocotyles M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidothelium insigne Vain. SPECIES
-=======
+# Aspidothelium insigne Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudonodosaria glans SPECIES
-=======
+# Pseudonodosaria glans SPECIES
 
 #### Status
 ACCEPTED

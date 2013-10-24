@@ -1,5 +1,4 @@
-Verrucaria heterochroa Mont. SPECIES
-=======
+# Verrucaria heterochroa Mont. SPECIES
 
 #### Status
 ACCEPTED

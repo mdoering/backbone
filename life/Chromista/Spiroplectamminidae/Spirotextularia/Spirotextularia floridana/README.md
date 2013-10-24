@@ -1,5 +1,4 @@
-Spirotextularia floridana (Cushman, 1922) SPECIES
-=======
+# Spirotextularia floridana (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

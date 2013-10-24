@@ -1,8 +1,7 @@
-Isaria pistillariaeformis Pat. SPECIES
-=======
+# Isaria pistillariiformis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Isaria pistillariaeformis Pat.
+Isaria pistillariiformis Pat.
 
 ### Remarks
 null

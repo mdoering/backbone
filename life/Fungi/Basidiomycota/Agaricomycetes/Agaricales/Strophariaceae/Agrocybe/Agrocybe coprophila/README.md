@@ -1,5 +1,4 @@
-Agrocybe coprophila Katajev SPECIES
-=======
+# Agrocybe coprophila Katajev SPECIES
 
 #### Status
 ACCEPTED

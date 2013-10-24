@@ -1,5 +1,4 @@
-Cercosporella azimae Thirum. & Naras. SPECIES
-=======
+# Cercosporella azimae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

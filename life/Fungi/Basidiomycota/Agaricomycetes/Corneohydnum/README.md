@@ -1,5 +1,4 @@
-Corneohydnum Lloyd GENUS
-=======
+# Corneohydnum Lloyd GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curvularia graminis Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Curvularia graminis Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

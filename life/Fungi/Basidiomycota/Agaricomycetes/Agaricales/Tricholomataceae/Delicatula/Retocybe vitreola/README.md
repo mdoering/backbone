@@ -1,5 +1,4 @@
-Retocybe vitreola Velen. SPECIES
-=======
+# Retocybe vitreola Velen. SPECIES
 
 #### Status
 ACCEPTED

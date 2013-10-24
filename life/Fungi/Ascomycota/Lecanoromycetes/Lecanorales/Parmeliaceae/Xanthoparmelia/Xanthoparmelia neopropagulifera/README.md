@@ -1,5 +1,4 @@
-Xanthoparmelia neopropagulifera (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia neopropagulifera (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

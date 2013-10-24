@@ -1,17 +1,16 @@
-Mundkurella mohgaoense Chitaley & Yawale SPECIES
-=======
+# Mundkurella mohgaoensis Chitaley & Yawale, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botanique, Nagpur 7(4): 193 + pl. 1, figs 5-6 (1978)
 
 #### Original name
-Mundkurella mohgaoense Chitaley & Yawale
+Mundkurella mohgaoensis Chitaley & Yawale, 1978
 
 ### Remarks
 null

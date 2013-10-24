@@ -1,14 +1,13 @@
-Peziza ciliata Bull., 1790 SPECIES
-=======
+# Cheilymenia ciliata (Bull.) Maas Geest., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 10: pl. 438, fig. 2 (1790)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 72: 313 (1969)
 
 #### Original name
 Peziza ciliata Bull., 1790

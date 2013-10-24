@@ -1,5 +1,4 @@
-Coelomomyces lativittatus Couch & H.R. Dodge SPECIES
-=======
+# Coelomomyces lativittatus Couch & H.R. Dodge SPECIES
 
 #### Status
 ACCEPTED

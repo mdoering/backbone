@@ -1,5 +1,4 @@
-Physcia anaptychiella Zahlbr. SPECIES
-=======
+# Physcia anaptychiella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

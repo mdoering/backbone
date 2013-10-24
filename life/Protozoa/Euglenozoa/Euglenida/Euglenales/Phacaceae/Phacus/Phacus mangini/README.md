@@ -1,5 +1,4 @@
-Phacus mangini Lefèvre SPECIES
-=======
+# Phacus mangini Lefèvre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetramitus salinus Entz, 1883 SPECIES
-=======
+# Tetramitus salinus Entz, 1883 SPECIES
 
 #### Status
 ACCEPTED

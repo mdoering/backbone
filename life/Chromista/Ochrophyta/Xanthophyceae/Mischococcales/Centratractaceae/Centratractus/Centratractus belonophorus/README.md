@@ -1,8 +1,7 @@
-Centritractis belonophorus SPECIES
-=======
+# Centratractus belonophorus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

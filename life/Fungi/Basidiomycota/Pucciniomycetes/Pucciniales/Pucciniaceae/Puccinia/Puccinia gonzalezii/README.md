@@ -1,17 +1,16 @@
-Puccinia gonzalezi Mayor SPECIES
-=======
+# Puccinia gonzalezii Mayor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. neuchât. de Sc. Nat. 5: 502 (1913)
 
 #### Original name
-Puccinia gonzalezi Mayor
+Puccinia gonzalezii Mayor
 
 ### Remarks
 null

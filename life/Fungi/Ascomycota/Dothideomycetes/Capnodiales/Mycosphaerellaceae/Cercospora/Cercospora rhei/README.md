@@ -1,5 +1,4 @@
-Cercospora rhei Grognot SPECIES
-=======
+# Cercospora rhei Grognot SPECIES
 
 #### Status
 ACCEPTED

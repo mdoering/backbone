@@ -1,17 +1,16 @@
-Acanthocyrtis Haeckel, 1887 GENUS
-=======
+# Phormostichoartus Campbell, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Voy. Challenger, Zool. , 18, (2), 1461.
+J. Paleont. , 25, 530.
 
 #### Original name
-null
+Acanthocyrtis Haeckel, 1887
 
 ### Remarks
 null

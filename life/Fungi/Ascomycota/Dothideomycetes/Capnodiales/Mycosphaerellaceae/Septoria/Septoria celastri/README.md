@@ -1,5 +1,4 @@
-Septoria celastri Hemmi & N. Naito SPECIES
-=======
+# Septoria celastri Hemmi & N. Naito SPECIES
 
 #### Status
 ACCEPTED

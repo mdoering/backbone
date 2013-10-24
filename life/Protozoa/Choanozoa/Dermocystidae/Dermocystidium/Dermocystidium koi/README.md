@@ -1,5 +1,4 @@
-Dermocystidium koi Hoshina {?} & Sahara {?} SPECIES
-=======
+# Dermocystidium koi Hoshina {?} & Sahara {?} SPECIES
 
 #### Status
 ACCEPTED

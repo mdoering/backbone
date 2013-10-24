@@ -1,5 +1,4 @@
-Russula juniperina var. juniperina VARIETY
-=======
+# Russula juniperina Ubaldi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Micol. Ital. 14(3): 25 (1985)
 
 #### Original name
-Russula juniperina var. juniperina
+Russula juniperina Ubaldi
 
 ### Remarks
 null

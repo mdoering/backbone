@@ -1,5 +1,4 @@
-Amanita curtipes f. curtipes FORM
-=======
+# Amanita curtipes E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Iconogr. Mycol. 27(Supplementum 1): 279 (1941)
 
 #### Original name
-Amanita curtipes f. curtipes
+Amanita curtipes E.-J. Gilbert
 
 ### Remarks
 null

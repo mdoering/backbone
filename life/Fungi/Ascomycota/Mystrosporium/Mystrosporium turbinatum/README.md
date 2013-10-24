@@ -1,5 +1,4 @@
-Mystrosporium turbinatum Cooke & Harkn. SPECIES
-=======
+# Mystrosporium turbinatum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

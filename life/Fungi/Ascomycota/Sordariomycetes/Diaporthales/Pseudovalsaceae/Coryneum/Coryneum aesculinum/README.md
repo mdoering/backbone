@@ -1,5 +1,4 @@
-Coryneum aesculinum Strasser SPECIES
-=======
+# Coryneum aesculinum Strasser SPECIES
 
 #### Status
 ACCEPTED

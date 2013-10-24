@@ -1,5 +1,4 @@
-Amazonia rubiacearum Mibey SPECIES
-=======
+# Amazonia rubiacearum Mibey SPECIES
 
 #### Status
 ACCEPTED

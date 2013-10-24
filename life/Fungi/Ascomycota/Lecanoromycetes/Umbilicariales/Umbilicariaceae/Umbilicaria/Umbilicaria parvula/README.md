@@ -1,5 +1,4 @@
-Umbilicaria parvula Hue SPECIES
-=======
+# Umbilicaria parvula Hue SPECIES
 
 #### Status
 ACCEPTED

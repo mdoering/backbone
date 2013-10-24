@@ -1,8 +1,7 @@
-Massartia glandula Schiller SPECIES
-=======
+# Katodinium glandulum (Herdman) Loeblich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

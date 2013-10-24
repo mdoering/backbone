@@ -1,5 +1,4 @@
-Inocybe acriolens Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe acriolens Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

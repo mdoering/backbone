@@ -1,5 +1,4 @@
-Marinitalea Kim, Park, Hahm & Cha, 2011 GENUS
-=======
+# Marinitalea Kim, Park, Hahm & Cha, 2011 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clitopilus albovelutinum (G. Stev.) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodocybe albovelutina (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 9(3): 407 (1971)
 
 #### Original name
-null
+Lentinus albovelutinus G. Stev., 1964
 
 ### Remarks
 null

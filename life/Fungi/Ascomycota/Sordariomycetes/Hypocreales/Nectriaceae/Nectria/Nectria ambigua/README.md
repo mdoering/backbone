@@ -1,5 +1,4 @@
-Nectria ambigua var. ambigua VARIETY
-=======
+# Nectria ambigua Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nectria ambigua var. ambigua
+Nectria ambigua Penz. & Sacc.
 
 ### Remarks
 null

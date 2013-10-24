@@ -1,5 +1,4 @@
-Arthrorhaphis vacillans Th. Fr. & Almq. ex Th. Fr. SPECIES
-=======
+# Arthrorhaphis vacillans Th. Fr. & Almq. ex Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

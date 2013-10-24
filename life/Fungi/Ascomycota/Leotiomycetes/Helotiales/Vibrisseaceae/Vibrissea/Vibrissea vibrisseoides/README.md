@@ -1,14 +1,13 @@
-Helotium vibrisseoides Peck, 1878 SPECIES
-=======
+# Vibrissea vibrisseoides (Peck) Kjøller, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 30: 48 (1878)
+Bot. Tidsskr. 56: 242 (1960)
 
 #### Original name
 Helotium vibrisseoides Peck, 1878

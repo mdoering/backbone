@@ -1,5 +1,4 @@
-Entoloma murrillii Hesler SPECIES
-=======
+# Entoloma murrillii Hesler SPECIES
 
 #### Status
 ACCEPTED

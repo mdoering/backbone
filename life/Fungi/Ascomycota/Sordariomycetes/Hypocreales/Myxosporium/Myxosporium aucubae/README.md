@@ -1,5 +1,4 @@
-Myxosporium aucubae Grove SPECIES
-=======
+# Myxosporium aucubae Grove SPECIES
 
 #### Status
 ACCEPTED

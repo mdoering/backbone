@@ -1,5 +1,4 @@
-Gyrophora atropruinosa Dufour SPECIES
-=======
+# Gyrophora atropruinosa Dufour SPECIES
 
 #### Status
 ACCEPTED

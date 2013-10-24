@@ -1,5 +1,4 @@
-Sarcodon Quélet ex P. Karsten, 1881 GENUS
-=======
+# Sarcodon Quélet ex P. Karsten, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pseudodecorus Snell & E.A. Dick SPECIES
-=======
+# Boletus pseudodecorus Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia opuntiella (Müll. Arg.) Hue SPECIES
-=======
+# Parmelia opuntiella (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

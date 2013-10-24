@@ -1,5 +1,4 @@
-Stylacontarium bispiculum Popofsky, 1912 SPECIES
-=======
+# Stylacontarium bispiculum Popofsky, 1912 SPECIES
 
 #### Status
 ACCEPTED

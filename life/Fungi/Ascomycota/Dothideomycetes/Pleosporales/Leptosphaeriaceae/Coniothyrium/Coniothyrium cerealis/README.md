@@ -1,5 +1,4 @@
-Coniothyrium cerealis E. Müll., 1951 SPECIES
-=======
+# Coniothyrium cerealis E. Müll., 1951 SPECIES
 
 #### Status
 ACCEPTED

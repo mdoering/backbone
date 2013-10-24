@@ -1,5 +1,4 @@
-Amphiacanthidae FAMILY
-=======
+# Amphiacanthidae FAMILY
 
 #### Status
 ACCEPTED

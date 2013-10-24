@@ -1,5 +1,4 @@
-Lecidella crystallina V. Wirth & Vezda SPECIES
-=======
+# Lecidella crystallina V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED

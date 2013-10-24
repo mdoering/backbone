@@ -1,5 +1,4 @@
-Meliola lantanae Syd. {?} SPECIES
-=======
+# Meliola lantanae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

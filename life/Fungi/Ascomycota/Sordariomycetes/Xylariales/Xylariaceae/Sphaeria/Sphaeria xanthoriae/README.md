@@ -1,5 +1,4 @@
-Sphaeria xanthoriae Wedd. SPECIES
-=======
+# Sphaeria xanthoriae Wedd. SPECIES
 
 #### Status
 ACCEPTED

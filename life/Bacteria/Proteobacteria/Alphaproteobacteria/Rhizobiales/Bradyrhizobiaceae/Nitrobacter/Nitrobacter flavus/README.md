@@ -1,5 +1,4 @@
-Nitrobacter flavus SPECIES
-=======
+# Nitrobacter flavus SPECIES
 
 #### Status
 ACCEPTED

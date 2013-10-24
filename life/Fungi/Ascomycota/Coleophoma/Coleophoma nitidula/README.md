@@ -1,5 +1,4 @@
-Coleophoma nitidula (E. Bommer, M. Rousseau, Sacc.) Höhn. SPECIES
-=======
+# Coleophoma nitidula (E. Bommer, M. Rousseau, Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

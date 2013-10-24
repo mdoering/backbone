@@ -1,5 +1,4 @@
-Smartiella avicenniae Abdel-Wahab, El-Sharouny & E.B.G. Jones SPECIES
-=======
+# Smartiella avicenniae Abdel-Wahab, El-Sharouny & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

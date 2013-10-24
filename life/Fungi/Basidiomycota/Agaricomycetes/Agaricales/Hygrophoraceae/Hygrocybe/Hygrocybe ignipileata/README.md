@@ -1,5 +1,4 @@
-Hygrocybe ignipileata Pegler SPECIES
-=======
+# Hygrocybe ignipileata Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa juliana (Meneghini) Kützing SPECIES
-=======
+# Gloeocapsa juliana (Meneghini) Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cesatia spartii Rabenh. SPECIES
-=======
+# Cesatia spartii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

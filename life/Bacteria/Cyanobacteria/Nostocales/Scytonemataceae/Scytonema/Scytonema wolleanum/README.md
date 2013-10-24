@@ -1,5 +1,4 @@
-Scytonema wolleanum Forti SPECIES
-=======
+# Scytonema wolleanum Forti SPECIES
 
 #### Status
 ACCEPTED

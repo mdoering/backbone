@@ -1,5 +1,4 @@
-Alternaria metachromatica E.G. Simmons, 1994 SPECIES
-=======
+# Alternaria metachromatica E.G. Simmons, 1994 SPECIES
 
 #### Status
 ACCEPTED

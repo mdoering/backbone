@@ -1,5 +1,4 @@
-Sphaeria achreia Ettingsh. SPECIES
-=======
+# Sphaeria achreia Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

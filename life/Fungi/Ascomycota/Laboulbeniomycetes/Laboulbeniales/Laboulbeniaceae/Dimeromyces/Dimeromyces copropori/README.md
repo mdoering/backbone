@@ -1,5 +1,4 @@
-Dimeromyces copropori Thaxt. SPECIES
-=======
+# Dimeromyces copropori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

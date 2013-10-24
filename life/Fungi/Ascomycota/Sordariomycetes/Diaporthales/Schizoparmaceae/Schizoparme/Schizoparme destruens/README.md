@@ -1,5 +1,4 @@
-Schizoparme destruens (M.E. Barr & Hodges) Samuels, M.E. Barr & Lowen SPECIES
-=======
+# Schizoparme destruens (M.E. Barr & Hodges) Samuels, M.E. Barr & Lowen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lateriticolor Heinem. SPECIES
-=======
+# Agaricus lateriticolor Heinem. SPECIES
 
 #### Status
 ACCEPTED

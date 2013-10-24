@@ -1,5 +1,4 @@
-Aecidium polygoni-convolvuli Liro SPECIES
-=======
+# Aecidium polygoni-convolvuli Liro SPECIES
 
 #### Status
 ACCEPTED

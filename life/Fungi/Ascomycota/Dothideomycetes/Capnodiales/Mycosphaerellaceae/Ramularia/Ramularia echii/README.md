@@ -1,5 +1,4 @@
-Ramularia echii Hollós SPECIES
-=======
+# Ramularia echii Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria harrissonii var. amphitetras Grunow VARIETY
-=======
+# Fragilaria harrissonii W. Smith SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorogloea gessneri Schiller SPECIES
-=======
+# Chlorogloea gessneri Schiller SPECIES
 
 #### Status
 ACCEPTED

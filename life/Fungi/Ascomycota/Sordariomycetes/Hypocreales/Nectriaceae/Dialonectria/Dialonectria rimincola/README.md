@@ -1,5 +1,4 @@
-Dialonectria rimincola (Cooke) Cooke SPECIES
-=======
+# Dialonectria rimincola (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

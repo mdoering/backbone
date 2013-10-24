@@ -1,5 +1,4 @@
-Cercospora sordida Sacc. SPECIES
-=======
+# Cercospora sordida Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curtobacterium GENUS
-=======
+# Curtobacterium GENUS
 
 #### Status
 ACCEPTED

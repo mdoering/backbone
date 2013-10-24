@@ -1,5 +1,4 @@
-Lacnellula P. A. Karsten GENUS
-=======
+# Lacnellula P. A. Karsten GENUS
 
 #### Status
 ACCEPTED

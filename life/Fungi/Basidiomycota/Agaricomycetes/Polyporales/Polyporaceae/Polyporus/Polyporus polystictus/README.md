@@ -1,5 +1,4 @@
-Polyporus polystictus Pers. SPECIES
-=======
+# Polyporus polystictus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria microsperma Speg. SPECIES
-=======
+# Xylaria microsperma Speg. SPECIES
 
 #### Status
 ACCEPTED

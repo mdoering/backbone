@@ -1,14 +1,13 @@
-Favolus campestris (Quél.) Zmitr., 2001 SPECIES
-=======
+# Dichomitus campestris (Quél.) Domanski & Orlicz, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycena 1(1): 92 (2001)
+Acta Soc. Bot. Pol. 35: 627 (1966)
 
 #### Original name
 Trametes campestris Quél., 1872

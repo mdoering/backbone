@@ -1,5 +1,4 @@
-Diplodia eriobotryae Sacc. SPECIES
-=======
+# Diplodia eriobotryae Sacc. SPECIES
 
 #### Status
 ACCEPTED

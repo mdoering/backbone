@@ -1,5 +1,4 @@
-Fomes oleicola Henn. SPECIES
-=======
+# Fomes oleicola Henn. SPECIES
 
 #### Status
 ACCEPTED

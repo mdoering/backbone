@@ -1,5 +1,4 @@
-Chaetopsina pinarensis R.F. Castañeda SPECIES
-=======
+# Chaetopsina pinarensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

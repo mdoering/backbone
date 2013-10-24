@@ -1,5 +1,4 @@
-Desertella globulifera Mouch., 1979 SPECIES
-=======
+# Desertella globulifera Mouch., 1979 SPECIES
 
 #### Status
 ACCEPTED

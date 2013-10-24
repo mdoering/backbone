@@ -1,5 +1,4 @@
-Ramalina luxurians H. Magn. SPECIES
-=======
+# Ramalina luxurians H. Magn. SPECIES
 
 #### Status
 ACCEPTED

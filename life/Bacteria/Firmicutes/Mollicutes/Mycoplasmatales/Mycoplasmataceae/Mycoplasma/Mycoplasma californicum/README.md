@@ -1,5 +1,4 @@
-Mycoplasma californicum Jasper et al., 1981 SPECIES
-=======
+# Mycoplasma californicum Jasper et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena rigelliae Velen. SPECIES
-=======
+# Mycena rigelliae Velen. SPECIES
 
 #### Status
 ACCEPTED

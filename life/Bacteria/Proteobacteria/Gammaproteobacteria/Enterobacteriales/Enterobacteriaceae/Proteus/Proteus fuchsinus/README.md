@@ -1,5 +1,4 @@
-Proteus fuchsinus SPECIES
-=======
+# Proteus fuchsinus SPECIES
 
 #### Status
 ACCEPTED

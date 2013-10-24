@@ -1,5 +1,4 @@
-Muderongia mcwhaei Cookson & Eisenack SPECIES
-=======
+# Muderongia mcwhaei Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

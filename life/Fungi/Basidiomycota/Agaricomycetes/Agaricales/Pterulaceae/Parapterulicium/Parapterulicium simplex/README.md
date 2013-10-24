@@ -1,5 +1,4 @@
-Parapterulicium simplex Corner, 1957 SPECIES
-=======
+# Parapterulicium simplex Corner, 1957 SPECIES
 
 #### Status
 ACCEPTED

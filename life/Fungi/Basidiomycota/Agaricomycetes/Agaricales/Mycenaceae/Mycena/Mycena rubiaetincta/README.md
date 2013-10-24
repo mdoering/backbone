@@ -1,5 +1,4 @@
-Mycena rubiaetincta Berk. SPECIES
-=======
+# Mycena rubiaetincta Berk. SPECIES
 
 #### Status
 ACCEPTED

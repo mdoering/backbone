@@ -1,5 +1,4 @@
-Ustilago dregeanoides Vánky & C. Vánky, 1997 SPECIES
-=======
+# Ustilago dregeanoides Vánky & C. Vánky, 1997 SPECIES
 
 #### Status
 ACCEPTED

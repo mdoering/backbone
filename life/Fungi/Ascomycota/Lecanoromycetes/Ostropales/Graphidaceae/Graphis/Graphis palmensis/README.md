@@ -1,5 +1,4 @@
-Graphis palmensis Vain. SPECIES
-=======
+# Graphis palmensis Vain. SPECIES
 
 #### Status
 ACCEPTED

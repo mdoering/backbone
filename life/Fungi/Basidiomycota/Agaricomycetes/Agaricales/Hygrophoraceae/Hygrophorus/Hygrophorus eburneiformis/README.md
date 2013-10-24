@@ -1,5 +1,4 @@
-Hygrophorus eburneiformis Murrill SPECIES
-=======
+# Hygrophorus eburneiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

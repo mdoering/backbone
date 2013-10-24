@@ -1,5 +1,4 @@
-Pickelhaube furtiva SPECIES
-=======
+# Pickelhaube furtiva SPECIES
 
 #### Status
 ACCEPTED

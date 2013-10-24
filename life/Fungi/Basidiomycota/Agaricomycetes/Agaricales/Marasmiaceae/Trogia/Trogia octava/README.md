@@ -1,5 +1,4 @@
-Trogia octava Corner SPECIES
-=======
+# Trogia octava Corner SPECIES
 
 #### Status
 ACCEPTED

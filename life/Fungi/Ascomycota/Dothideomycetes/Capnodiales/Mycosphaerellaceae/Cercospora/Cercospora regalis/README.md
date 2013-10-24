@@ -1,5 +1,4 @@
-Cercospora regalis Tharp SPECIES
-=======
+# Cercospora regalis Tharp SPECIES
 
 #### Status
 ACCEPTED

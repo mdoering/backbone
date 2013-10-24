@@ -1,5 +1,4 @@
-Psathyrella dissecta (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella dissecta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

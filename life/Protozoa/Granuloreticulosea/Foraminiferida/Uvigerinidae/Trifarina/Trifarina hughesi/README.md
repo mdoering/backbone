@@ -1,8 +1,7 @@
-Angulogerina hughesi (Galloway & Wissler, 1927) SPECIES
-=======
+# Trifarina hughesi (Galloway & Wissler, 1927) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

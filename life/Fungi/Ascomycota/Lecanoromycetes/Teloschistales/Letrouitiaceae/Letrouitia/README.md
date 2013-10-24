@@ -1,5 +1,4 @@
-Letrouitia Hafellner & Bellem. GENUS
-=======
+# Letrouitia Hafellner & Bellem. GENUS
 
 #### Status
 ACCEPTED

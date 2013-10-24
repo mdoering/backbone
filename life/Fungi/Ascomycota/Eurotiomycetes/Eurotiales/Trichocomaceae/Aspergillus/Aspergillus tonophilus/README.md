@@ -1,5 +1,4 @@
-Aspergillus tonophilus Ohtsuki, 1962 SPECIES
-=======
+# Aspergillus tonophilus Ohtsuki, 1962 SPECIES
 
 #### Status
 ACCEPTED

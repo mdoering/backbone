@@ -1,5 +1,4 @@
-Chaetocypha gilletii (Pat.) Kuntze SPECIES
-=======
+# Chaetocypha gilletii (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

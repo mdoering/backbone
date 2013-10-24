@@ -1,14 +1,13 @@
-Polyporus phlebophorus Berk., 1855 SPECIES
-=======
+# Gloeoporus phlebophorus (Berk.) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botany of the Antarctic Voyage of H. M. Discovery Ships Erebus and Terror, in the years 1839-1843, I. 2: 177 (1855)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 110 (1965)
 
 #### Original name
 Polyporus phlebophorus Berk., 1855

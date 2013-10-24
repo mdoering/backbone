@@ -1,5 +1,4 @@
-Gymnopus dentatus Murrill SPECIES
-=======
+# Gymnopus dentatus Murrill SPECIES
 
 #### Status
 ACCEPTED

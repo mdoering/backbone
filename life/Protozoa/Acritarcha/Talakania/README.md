@@ -1,5 +1,4 @@
-Talakania P.N. Kolosov, 1983 GENUS
-=======
+# Talakania P.N. Kolosov, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dasyobolus elegans (J. Klein) Svrcek, 1979 SPECIES
-=======
+# Ascobolus elegans J. Klein, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sb. nár. Mus. Praze 32B(2-4): 117 (1979)
+Verh. zool. -bot. Ges. Wien 20: 566 (1870)
 
 #### Original name
 Ascobolus elegans J. Klein, 1870

@@ -1,5 +1,4 @@
-Oospora rubens Harz SPECIES
-=======
+# Oospora rubens Harz SPECIES
 
 #### Status
 ACCEPTED

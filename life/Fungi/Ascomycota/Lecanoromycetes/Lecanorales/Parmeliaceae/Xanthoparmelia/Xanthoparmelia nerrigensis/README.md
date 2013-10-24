@@ -1,5 +1,4 @@
-Xanthoparmelia nerrigensis Elix SPECIES
-=======
+# Xanthoparmelia nerrigensis Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanopeltis aphanella (Syd.) Arx SPECIES
-=======
+# Aphanopeltis aphanella (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium jadinianum Gomont SPECIES
-=======
+# Phormidium jadinianum Gomont SPECIES
 
 #### Status
 ACCEPTED

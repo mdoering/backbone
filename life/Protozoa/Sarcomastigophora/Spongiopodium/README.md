@@ -1,5 +1,4 @@
-Spongiopodium Nishimura, 1990 GENUS
-=======
+# Spongiopodium Nishimura, 1990 GENUS
 
 #### Status
 ACCEPTED

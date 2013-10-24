@@ -1,5 +1,4 @@
-Flavoparmelia salazinica Elix SPECIES
-=======
+# Flavoparmelia salazinica Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea niparensis Asahina SPECIES
-=======
+# Usnea niparensis Asahina SPECIES
 
 #### Status
 ACCEPTED

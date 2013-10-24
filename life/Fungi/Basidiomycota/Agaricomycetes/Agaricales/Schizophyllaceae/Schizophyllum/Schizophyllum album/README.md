@@ -1,5 +1,4 @@
-Schizophyllum album Rick SPECIES
-=======
+# Schizophyllum album Rick SPECIES
 
 #### Status
 ACCEPTED

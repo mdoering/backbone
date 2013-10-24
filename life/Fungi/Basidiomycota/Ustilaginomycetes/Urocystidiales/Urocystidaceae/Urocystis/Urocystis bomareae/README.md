@@ -1,5 +1,4 @@
-Urocystis bomareae Dietel & Neger SPECIES
-=======
+# Urocystis bomareae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

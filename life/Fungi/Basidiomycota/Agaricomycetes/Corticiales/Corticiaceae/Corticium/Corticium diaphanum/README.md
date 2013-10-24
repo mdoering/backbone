@@ -1,5 +1,4 @@
-Corticium diaphanum Speg. SPECIES
-=======
+# Corticium diaphanum Speg. SPECIES
 
 #### Status
 ACCEPTED

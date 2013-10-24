@@ -1,5 +1,4 @@
-Candelariella boikoi Khodos. & S. Y. Kondr. SPECIES
-=======
+# Candelariella boikoi Khodos. & S. Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius fuscus M.M. Moser SPECIES
-=======
+# Cortinarius fuscus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

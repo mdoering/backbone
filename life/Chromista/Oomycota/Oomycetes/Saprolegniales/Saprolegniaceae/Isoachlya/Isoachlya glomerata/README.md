@@ -1,5 +1,4 @@
-Isoachlya glomerata (Tiesenh.) SPECIES
-=======
+# Isoachlya glomerata (Tiesenh.) SPECIES
 
 #### Status
 ACCEPTED

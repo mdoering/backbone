@@ -1,5 +1,4 @@
-Hormiscium tiliae P. Karst. SPECIES
-=======
+# Hormiscium tiliae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

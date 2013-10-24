@@ -1,5 +1,4 @@
-Ravenelia whetzelii Arthur SPECIES
-=======
+# Ravenelia whetzelii Arthur SPECIES
 
 #### Status
 ACCEPTED

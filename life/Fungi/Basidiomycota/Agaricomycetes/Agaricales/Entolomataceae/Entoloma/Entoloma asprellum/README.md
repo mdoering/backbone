@@ -1,17 +1,16 @@
-Rhodophyllus asprellus var. asprellus VARIETY
-=======
+# Entoloma asprellum (Fr.) Fayod, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 7 9: 383 (1889)
 
 #### Original name
-Rhodophyllus asprellus var. asprellus
+Agaricus asprellus Fr., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Homostegia polypodii Aggéry SPECIES
-=======
+# Homostegia polypodii Aggéry SPECIES
 
 #### Status
 ACCEPTED

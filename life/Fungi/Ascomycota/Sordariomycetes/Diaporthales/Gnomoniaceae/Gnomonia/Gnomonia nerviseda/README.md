@@ -1,5 +1,4 @@
-Gnomonia nerviseda Cole, 1933 SPECIES
-=======
+# Gnomonia nerviseda Cole, 1933 SPECIES
 
 #### Status
 ACCEPTED

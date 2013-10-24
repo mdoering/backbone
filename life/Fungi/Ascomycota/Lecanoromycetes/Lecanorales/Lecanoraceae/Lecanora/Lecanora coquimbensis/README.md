@@ -1,5 +1,4 @@
-Lecanora coquimbensis Zahlbr. SPECIES
-=======
+# Lecanora coquimbensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

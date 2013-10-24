@@ -1,5 +1,4 @@
-Stigmosphaeridae FAMILY
-=======
+# Stigmosphaeridae FAMILY
 
 #### Status
 ACCEPTED

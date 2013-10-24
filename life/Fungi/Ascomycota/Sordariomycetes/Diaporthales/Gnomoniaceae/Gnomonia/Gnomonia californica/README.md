@@ -1,5 +1,4 @@
-Gnomonia californica M. Monod SPECIES
-=======
+# Gnomonia californica M. Monod SPECIES
 
 #### Status
 ACCEPTED

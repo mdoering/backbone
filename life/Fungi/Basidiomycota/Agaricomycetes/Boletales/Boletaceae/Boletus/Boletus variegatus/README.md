@@ -1,5 +1,4 @@
-Boletus variegatus var. variegatus VARIETY
-=======
+# Boletus variegatus Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fung. Bavar. Palat. 4: 90 (1774)
 
 #### Original name
-Boletus variegatus var. variegatus
+Boletus variegatus Schaeff.
 
 ### Remarks
 null

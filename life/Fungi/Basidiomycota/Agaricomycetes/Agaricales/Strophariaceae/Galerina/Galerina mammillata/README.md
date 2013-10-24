@@ -1,5 +1,4 @@
-Galerina mammillata (Murrill) A.H. Sm. & Singer SPECIES
-=======
+# Galerina mammillata (Murrill) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus giganteus Massee SPECIES
-=======
+# Pluteus giganteus Massee SPECIES
 
 #### Status
 ACCEPTED

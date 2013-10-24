@@ -1,5 +1,4 @@
-Bostrichonema candidum (Schwein.) Sacc. SPECIES
-=======
+# Bostrichonema candidum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citromyces brevis Bainier & Sartory SPECIES
-=======
+# Citromyces brevis Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

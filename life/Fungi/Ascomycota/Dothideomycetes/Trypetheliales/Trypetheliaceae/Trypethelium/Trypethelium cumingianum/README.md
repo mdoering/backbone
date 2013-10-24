@@ -1,5 +1,4 @@
-Trypethelium cumingianum Stirt. SPECIES
-=======
+# Trypethelium cumingianum Stirt. SPECIES
 
 #### Status
 ACCEPTED

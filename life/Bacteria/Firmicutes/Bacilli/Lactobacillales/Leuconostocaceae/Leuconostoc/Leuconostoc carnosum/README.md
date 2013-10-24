@@ -1,5 +1,4 @@
-Leuconostoc carnosum Shaw & Harding, 1989 SPECIES
-=======
+# Leuconostoc carnosum Shaw & Harding, 1989 SPECIES
 
 #### Status
 ACCEPTED

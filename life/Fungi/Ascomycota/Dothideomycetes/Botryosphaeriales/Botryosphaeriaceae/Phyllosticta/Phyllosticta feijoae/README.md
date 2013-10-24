@@ -1,5 +1,4 @@
-Phyllosticta feijoae Artemiev SPECIES
-=======
+# Phyllosticta feijoae Artemiev SPECIES
 
 #### Status
 ACCEPTED

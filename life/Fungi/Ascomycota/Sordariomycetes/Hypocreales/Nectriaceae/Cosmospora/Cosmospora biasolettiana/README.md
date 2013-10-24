@@ -1,5 +1,4 @@
-Cosmospora biasolettiana (Briosi & Farneti) Rossman & Samuels SPECIES
-=======
+# Cosmospora biasolettiana (Briosi & Farneti) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

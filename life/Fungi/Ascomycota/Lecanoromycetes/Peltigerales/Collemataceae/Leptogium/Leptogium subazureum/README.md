@@ -1,5 +1,4 @@
-Leptogium subazureum Dube & Makhija SPECIES
-=======
+# Leptogium subazureum Dube & Makhija SPECIES
 
 #### Status
 ACCEPTED

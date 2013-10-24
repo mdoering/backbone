@@ -1,5 +1,4 @@
-Nematosphaeropsis lemniscata J. P. Bujak SPECIES
-=======
+# Nematosphaeropsis lemniscata J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria striata Hoffm. SPECIES
-=======
+# Clavaria striata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

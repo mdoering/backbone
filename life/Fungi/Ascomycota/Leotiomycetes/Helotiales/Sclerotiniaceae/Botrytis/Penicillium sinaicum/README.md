@@ -1,5 +1,4 @@
-Penicillium sinaicum Udagawa & S. Ueda, 1982 SPECIES
-=======
+# Penicillium sinaicum Udagawa & S. Ueda, 1982 SPECIES
 
 #### Status
 DOUBTFUL

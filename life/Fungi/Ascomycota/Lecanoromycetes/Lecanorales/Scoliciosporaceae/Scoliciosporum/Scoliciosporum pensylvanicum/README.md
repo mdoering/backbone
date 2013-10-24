@@ -1,5 +1,4 @@
-Scoliciosporum pensylvanicum R. C. Harris SPECIES
-=======
+# Scoliciosporum pensylvanicum R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

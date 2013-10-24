@@ -1,5 +1,4 @@
-Earlea GENUS
-=======
+# Earlea GENUS
 
 #### Status
 ACCEPTED

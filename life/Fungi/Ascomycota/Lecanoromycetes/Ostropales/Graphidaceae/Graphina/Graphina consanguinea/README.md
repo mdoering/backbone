@@ -1,5 +1,4 @@
-Graphina consanguinea Müll. Arg. SPECIES
-=======
+# Graphina consanguinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

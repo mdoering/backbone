@@ -1,5 +1,4 @@
-Usnea fallax Motyka SPECIES
-=======
+# Usnea fallax Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium alpiniae (Syd. & P. Syd.) Chupp SPECIES
-=======
+# Helminthosporium alpiniae (Syd. & P. Syd.) Chupp SPECIES
 
 #### Status
 ACCEPTED

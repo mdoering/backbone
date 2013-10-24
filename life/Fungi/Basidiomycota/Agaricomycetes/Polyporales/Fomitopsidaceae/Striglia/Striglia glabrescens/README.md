@@ -1,5 +1,4 @@
-Striglia glabrescens (Berk.) Kuntze SPECIES
-=======
+# Striglia glabrescens (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

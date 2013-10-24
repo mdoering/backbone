@@ -1,5 +1,4 @@
-Monographella stevensonii (Petr.) Arx SPECIES
-=======
+# Monographella stevensonii (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

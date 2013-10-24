@@ -1,5 +1,4 @@
-Clitocybe putrida H.E. Bigelow SPECIES
-=======
+# Clitocybe putrida H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

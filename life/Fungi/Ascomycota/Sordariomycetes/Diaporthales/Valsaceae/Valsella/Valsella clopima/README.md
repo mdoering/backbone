@@ -1,5 +1,4 @@
-Valsella clopima (Fr.) Sacc. SPECIES
-=======
+# Valsella clopima (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

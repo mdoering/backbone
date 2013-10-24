@@ -1,5 +1,4 @@
-Discosporium eugeniae (Allesch.) B. Sutton, 1980 SPECIES
-=======
+# Discosporium eugeniae (Allesch.) B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnomyces compactus Singer & A.H. Sm. SPECIES
-=======
+# Gymnomyces compactus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

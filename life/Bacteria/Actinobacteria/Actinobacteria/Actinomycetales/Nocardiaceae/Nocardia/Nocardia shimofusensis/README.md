@@ -1,5 +1,4 @@
-Nocardia shimofusensis Kageyama et al., 2004 SPECIES
-=======
+# Nocardia shimofusensis Kageyama et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

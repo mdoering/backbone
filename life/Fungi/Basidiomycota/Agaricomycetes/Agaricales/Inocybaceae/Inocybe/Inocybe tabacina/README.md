@@ -1,5 +1,4 @@
-Inocybe tabacina Furrer-Ziogas, 1952 SPECIES
-=======
+# Inocybe tabacina Furrer-Ziogas, 1952 SPECIES
 
 #### Status
 ACCEPTED

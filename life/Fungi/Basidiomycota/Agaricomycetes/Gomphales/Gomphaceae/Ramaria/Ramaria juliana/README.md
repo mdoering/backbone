@@ -1,5 +1,4 @@
-Ramaria juliana Velen. SPECIES
-=======
+# Ramaria juliana Velen. SPECIES
 
 #### Status
 ACCEPTED

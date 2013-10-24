@@ -1,17 +1,16 @@
-Dendrographa leucophaea f. leucophaea FORM
-=======
+# Dendrographa leucophaea (Tuck.) Darb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Dendrographa leucophaea f. leucophaea
+Roccella leucophaea Tuck.
 
 ### Remarks
 null

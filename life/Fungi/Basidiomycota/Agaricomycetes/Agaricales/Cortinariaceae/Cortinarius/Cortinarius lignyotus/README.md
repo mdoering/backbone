@@ -1,5 +1,4 @@
-Cortinarius lignyotus E. Horak SPECIES
-=======
+# Cortinarius lignyotus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphenolithus radians Deflandre in Grassé, 1952 SPECIES
-=======
+# Sphenolithus radians Deflandre in Grassé, 1952 SPECIES
 
 #### Status
 ACCEPTED

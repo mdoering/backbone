@@ -1,5 +1,4 @@
-Rhabdospora adenophorae Gucevic SPECIES
-=======
+# Rhabdospora adenophorae Gucevic SPECIES
 
 #### Status
 ACCEPTED

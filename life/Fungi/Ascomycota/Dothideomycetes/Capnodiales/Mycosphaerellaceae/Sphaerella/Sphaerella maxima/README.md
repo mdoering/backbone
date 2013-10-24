@@ -1,5 +1,4 @@
-Sphaerella maxima (Miles) Sacc. SPECIES
-=======
+# Sphaerella maxima (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

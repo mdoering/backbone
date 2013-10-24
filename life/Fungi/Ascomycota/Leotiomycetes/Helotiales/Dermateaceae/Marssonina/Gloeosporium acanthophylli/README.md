@@ -1,5 +1,4 @@
-Gloeosporium acanthophylli Vasyag. SPECIES
-=======
+# Gloeosporium acanthophylli Vasyag. SPECIES
 
 #### Status
 ACCEPTED

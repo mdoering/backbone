@@ -1,5 +1,4 @@
-Trichia cinerea Trentep. SPECIES
-=======
+# Trichia cinerea Trentep. SPECIES
 
 #### Status
 ACCEPTED

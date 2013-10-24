@@ -1,5 +1,4 @@
-Agaricus singaporensis Heinem. SPECIES
-=======
+# Agaricus singaporensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

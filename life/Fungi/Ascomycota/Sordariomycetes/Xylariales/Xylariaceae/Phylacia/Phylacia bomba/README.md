@@ -1,5 +1,4 @@
-Phylacia bomba (Mont.) Pat. SPECIES
-=======
+# Phylacia bomba (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

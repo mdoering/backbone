@@ -1,5 +1,4 @@
-Pleurotus subrufulus P. Karst. SPECIES
-=======
+# Pleurotus subrufulus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

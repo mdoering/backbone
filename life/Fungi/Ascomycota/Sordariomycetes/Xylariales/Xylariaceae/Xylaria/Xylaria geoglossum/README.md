@@ -1,5 +1,4 @@
-Xylaria geoglossum (Schwein.) Fr. SPECIES
-=======
+# Xylaria geoglossum (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

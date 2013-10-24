@@ -1,5 +1,4 @@
-Verrucaria saxicola C. Knight SPECIES
-=======
+# Verrucaria saxicola C. Knight SPECIES
 
 #### Status
 ACCEPTED

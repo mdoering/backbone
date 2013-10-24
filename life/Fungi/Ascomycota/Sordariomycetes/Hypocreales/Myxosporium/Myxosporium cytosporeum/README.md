@@ -1,5 +1,4 @@
-Myxosporium cytosporeum Sacc. SPECIES
-=======
+# Myxosporium cytosporeum Sacc. SPECIES
 
 #### Status
 ACCEPTED

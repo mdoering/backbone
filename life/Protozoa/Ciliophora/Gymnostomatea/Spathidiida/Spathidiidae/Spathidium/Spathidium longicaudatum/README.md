@@ -1,8 +1,7 @@
-Spathidium caudatum Wetzel, 1927 SPECIES
-=======
+# Spathidium longicaudatum (Buitkamp & Wilbert, 1974) Buitkamp, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

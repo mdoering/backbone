@@ -1,5 +1,4 @@
-Puccinia serpylli Lindr. SPECIES
-=======
+# Puccinia serpylli Lindr. SPECIES
 
 #### Status
 ACCEPTED

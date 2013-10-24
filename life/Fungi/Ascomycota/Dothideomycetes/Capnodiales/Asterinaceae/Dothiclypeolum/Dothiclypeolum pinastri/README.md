@@ -1,5 +1,4 @@
-Dothiclypeolum pinastri Höhn. SPECIES
-=======
+# Dothiclypeolum pinastri Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe rigelliae Velen. SPECIES
-=======
+# Hydrocybe rigelliae Velen. SPECIES
 
 #### Status
 ACCEPTED

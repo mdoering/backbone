@@ -1,5 +1,4 @@
-Galera hygrophana Rick SPECIES
-=======
+# Galera hygrophana Rick SPECIES
 
 #### Status
 ACCEPTED

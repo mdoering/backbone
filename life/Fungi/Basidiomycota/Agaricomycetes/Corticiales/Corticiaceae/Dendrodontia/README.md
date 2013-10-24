@@ -1,5 +1,4 @@
-Dendrodontia Hjortstam & Ryvarden GENUS
-=======
+# Dendrodontia Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

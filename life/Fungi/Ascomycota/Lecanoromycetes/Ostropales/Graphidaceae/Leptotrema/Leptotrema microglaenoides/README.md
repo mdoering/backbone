@@ -1,14 +1,13 @@
-Thelotrema microglaenoides Vain. SPECIES
-=======
+# Leptotrema microglaenoides (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 637 (1923)
 
 #### Original name
 Thelotrema microglaenoides Vain.

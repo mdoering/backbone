@@ -1,5 +1,4 @@
-Graphis sexlocularis Vain. SPECIES
-=======
+# Graphis sexlocularis Vain. SPECIES
 
 #### Status
 ACCEPTED

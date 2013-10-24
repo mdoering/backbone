@@ -1,5 +1,4 @@
-Clitopilus gigantosporus M. Zang SPECIES
-=======
+# Clitopilus gigantosporus M. Zang SPECIES
 
 #### Status
 ACCEPTED

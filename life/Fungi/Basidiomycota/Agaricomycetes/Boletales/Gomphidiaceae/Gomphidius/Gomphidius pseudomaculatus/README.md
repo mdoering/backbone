@@ -1,5 +1,4 @@
-Gomphidius pseudomaculatus O.K. Mill. SPECIES
-=======
+# Gomphidius pseudomaculatus O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

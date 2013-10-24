@@ -1,5 +1,4 @@
-Agaricus approximans Peck SPECIES
-=======
+# Agaricus approximans Peck SPECIES
 
 #### Status
 ACCEPTED

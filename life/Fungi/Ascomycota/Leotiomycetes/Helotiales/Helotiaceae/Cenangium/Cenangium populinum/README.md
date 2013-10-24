@@ -1,5 +1,4 @@
-Cenangium populinum f. populinum Schwein. FORM
-=======
+# Cenangium populinum Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenangium populinum f. populinum Schwein.
+Cenangium populinum Fuckel
 
 ### Remarks
 null

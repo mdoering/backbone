@@ -1,5 +1,4 @@
-Elaphocephala Pouzar GENUS
-=======
+# Elaphocephala Pouzar GENUS
 
 #### Status
 ACCEPTED

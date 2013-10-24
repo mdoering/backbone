@@ -1,5 +1,4 @@
-Darluca filispora Cooke SPECIES
-=======
+# Darluca filispora Cooke SPECIES
 
 #### Status
 ACCEPTED

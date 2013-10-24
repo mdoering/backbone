@@ -1,5 +1,4 @@
-Claudopus sphaerosporus var. sphaerosporus VARIETY
-=======
+# Crepidotus cesatii (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 5: 734 (1887)
+Michelia 1(no. 1): 2 (1877)
 
 #### Original name
-Claudopus sphaerosporus var. sphaerosporus
+Agaricus cesatii Rabenh.
 
 ### Remarks
 null

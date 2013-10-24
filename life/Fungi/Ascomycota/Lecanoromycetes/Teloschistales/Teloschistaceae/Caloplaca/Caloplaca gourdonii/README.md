@@ -1,5 +1,4 @@
-Caloplaca gourdonii SPECIES
-=======
+# Caloplaca gourdonii SPECIES
 
 #### Status
 ACCEPTED

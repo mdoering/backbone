@@ -1,5 +1,4 @@
-Lachnocladium hookeri Berk. SPECIES
-=======
+# Lachnocladium hookeri Berk. SPECIES
 
 #### Status
 ACCEPTED

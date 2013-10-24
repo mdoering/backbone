@@ -1,5 +1,4 @@
-Peridermium praelongum Syd. & P. Syd. SPECIES
-=======
+# Peridermium praelongum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

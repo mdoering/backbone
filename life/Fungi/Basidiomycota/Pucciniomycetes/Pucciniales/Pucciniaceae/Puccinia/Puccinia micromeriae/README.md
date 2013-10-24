@@ -1,5 +1,4 @@
-Puccinia micromeriae Dudley & C.H. Thomps. SPECIES
-=======
+# Puccinia micromeriae Dudley & C.H. Thomps. SPECIES
 
 #### Status
 ACCEPTED

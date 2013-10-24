@@ -1,5 +1,4 @@
-Lachnea hirtella (Rehm) Sacc. SPECIES
-=======
+# Lachnea hirtella (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

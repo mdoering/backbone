@@ -1,5 +1,4 @@
-Lisea pulicaris Speg. SPECIES
-=======
+# Lisea pulicaris Speg. SPECIES
 
 #### Status
 ACCEPTED

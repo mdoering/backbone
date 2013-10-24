@@ -1,5 +1,4 @@
-Lophosphaeridium galeatum Hill, 1974 SPECIES
-=======
+# Lophosphaeridium galeatum Hill, 1974 SPECIES
 
 #### Status
 ACCEPTED

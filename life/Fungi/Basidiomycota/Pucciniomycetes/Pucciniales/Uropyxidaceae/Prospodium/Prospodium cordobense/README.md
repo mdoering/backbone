@@ -1,5 +1,4 @@
-Prospodium cordobense (Henn.) Cummins SPECIES
-=======
+# Prospodium cordobense (Henn.) Cummins SPECIES
 
 #### Status
 ACCEPTED

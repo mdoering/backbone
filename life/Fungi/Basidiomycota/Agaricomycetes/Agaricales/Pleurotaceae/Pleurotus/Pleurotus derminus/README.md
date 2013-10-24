@@ -1,5 +1,4 @@
-Pleurotus derminus (Lév.) Sacc. SPECIES
-=======
+# Pleurotus derminus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

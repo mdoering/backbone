@@ -1,5 +1,4 @@
-Sphaeronaema pallidum Peck SPECIES
-=======
+# Sphaeronaema pallidum Peck SPECIES
 
 #### Status
 ACCEPTED

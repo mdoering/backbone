@@ -1,5 +1,4 @@
-Hygrophorus croceophyllus Bres. SPECIES
-=======
+# Hygrophorus croceophyllus Bres. SPECIES
 
 #### Status
 ACCEPTED

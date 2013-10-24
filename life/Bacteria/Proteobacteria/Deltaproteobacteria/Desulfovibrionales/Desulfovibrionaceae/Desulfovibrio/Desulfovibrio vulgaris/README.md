@@ -1,5 +1,4 @@
-Desulfovibrio vulgaris subsp. vulgaris SUBSPECIES
-=======
+# Desulfovibrio vulgaris Postgate & Campbell, 1966 SPECIES
 
 #### Status
 ACCEPTED

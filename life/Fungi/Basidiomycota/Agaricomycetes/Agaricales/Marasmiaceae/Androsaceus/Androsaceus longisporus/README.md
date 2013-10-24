@@ -1,5 +1,4 @@
-Androsaceus longisporus Pat. & Gaillard SPECIES
-=======
+# Androsaceus longisporus Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

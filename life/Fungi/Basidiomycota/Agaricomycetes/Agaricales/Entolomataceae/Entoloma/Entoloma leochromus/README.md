@@ -1,5 +1,4 @@
-Entoloma leochromus Noordel. & Liiv SPECIES
-=======
+# Entoloma leochromus Noordel. & Liiv SPECIES
 
 #### Status
 ACCEPTED

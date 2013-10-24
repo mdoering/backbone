@@ -1,5 +1,4 @@
-Peniophora media (Bourdot & Galzin) Weresub SPECIES
-=======
+# Peniophora media (Bourdot & Galzin) Weresub SPECIES
 
 #### Status
 ACCEPTED

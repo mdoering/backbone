@@ -1,11 +1,10 @@
-Chaetoceros muelleri var. muelleri VARIETY
-=======
+# Chaetoceros muelleri Lemm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Integrated Taxonomic Information System
 
 #### Published in
 null

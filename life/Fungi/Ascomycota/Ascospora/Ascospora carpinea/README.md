@@ -1,5 +1,4 @@
-Ascospora carpinea Fr. SPECIES
-=======
+# Ascospora carpinea Fr. SPECIES
 
 #### Status
 ACCEPTED

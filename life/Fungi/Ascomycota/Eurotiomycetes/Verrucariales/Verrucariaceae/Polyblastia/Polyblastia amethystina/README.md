@@ -1,5 +1,4 @@
-Polyblastia amethystina Servít SPECIES
-=======
+# Polyblastia amethystina Servít SPECIES
 
 #### Status
 ACCEPTED

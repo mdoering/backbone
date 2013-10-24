@@ -1,5 +1,4 @@
-Acaulospora myriocarpa Spain, Sieverd. & N.C. Schenck, 1986 SPECIES
-=======
+# Acaulospora myriocarpa Spain, Sieverd. & N.C. Schenck, 1986 SPECIES
 
 #### Status
 ACCEPTED

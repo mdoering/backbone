@@ -1,5 +1,4 @@
-Lecidea elaeiza Nyl. SPECIES
-=======
+# Lecidea elaeiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

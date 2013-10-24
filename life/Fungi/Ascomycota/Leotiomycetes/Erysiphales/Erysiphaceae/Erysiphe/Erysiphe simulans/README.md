@@ -1,5 +1,4 @@
-Erysiphe simulans var. simulans VARIETY
-=======
+# Erysiphe simulans (E.S. Salmon) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 23 (2000)
 
 #### Original name
-Erysiphe simulans var. simulans
+Uncinula simulans E.S. Salmon
 
 ### Remarks
 null

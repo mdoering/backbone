@@ -1,5 +1,4 @@
-Trichocladium sigmoidea Manohar., N.K. Rao, Kunwar & D.K. Agarwal SPECIES
-=======
+# Trichocladium sigmoidea Manohar., N.K. Rao, Kunwar & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

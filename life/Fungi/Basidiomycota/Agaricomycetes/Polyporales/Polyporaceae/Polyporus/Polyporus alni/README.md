@@ -1,5 +1,4 @@
-Polyporus alni Sorokin SPECIES
-=======
+# Polyporus alni Sorokin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma consors Cooke & Ellis SPECIES
-=======
+# Phoma consors Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

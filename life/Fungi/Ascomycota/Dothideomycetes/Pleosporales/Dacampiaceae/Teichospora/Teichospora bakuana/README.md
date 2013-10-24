@@ -1,5 +1,4 @@
-Teichospora bakuana Rehm SPECIES
-=======
+# Teichospora bakuana Rehm SPECIES
 
 #### Status
 ACCEPTED

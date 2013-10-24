@@ -1,5 +1,4 @@
-Coprinus goudensis Uljé SPECIES
-=======
+# Coprinus goudensis Uljé SPECIES
 
 #### Status
 ACCEPTED

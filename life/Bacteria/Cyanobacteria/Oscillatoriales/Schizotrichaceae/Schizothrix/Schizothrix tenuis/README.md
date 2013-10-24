@@ -1,5 +1,4 @@
-Schizothrix tenuis Woronichin SPECIES
-=======
+# Schizothrix tenuis Woronichin SPECIES
 
 #### Status
 ACCEPTED

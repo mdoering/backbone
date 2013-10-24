@@ -1,11 +1,10 @@
-Retortamonadaceae FAMILY
-=======
+# Retortamonadidae Wenrich, 1932 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
 null

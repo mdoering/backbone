@@ -1,5 +1,4 @@
-Crossopsora fici Arthur & Cummins SPECIES
-=======
+# Crossopsora fici Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

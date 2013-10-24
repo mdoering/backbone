@@ -1,5 +1,4 @@
-Sargassum phamhoangii Nguyen Huu Dai SPECIES
-=======
+# Sargassum phamhoangii Nguyen Huu Dai SPECIES
 
 #### Status
 ACCEPTED

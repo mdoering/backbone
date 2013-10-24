@@ -1,5 +1,4 @@
-Lichen verniciformis Roth SPECIES
-=======
+# Lichen verniciformis Roth SPECIES
 
 #### Status
 ACCEPTED

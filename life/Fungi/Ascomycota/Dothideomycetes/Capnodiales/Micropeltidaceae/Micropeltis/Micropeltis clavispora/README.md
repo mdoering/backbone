@@ -1,5 +1,4 @@
-Micropeltis clavispora (Syd. & P. Syd.) D.R. Reynolds & G.S. Gilbert SPECIES
-=======
+# Micropeltis clavispora (Syd. & P. Syd.) D.R. Reynolds & G.S. Gilbert SPECIES
 
 #### Status
 ACCEPTED

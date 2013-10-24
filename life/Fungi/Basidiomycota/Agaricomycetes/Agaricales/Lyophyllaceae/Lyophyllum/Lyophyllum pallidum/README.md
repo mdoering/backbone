@@ -1,5 +1,4 @@
-Lyophyllum pallidum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum pallidum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

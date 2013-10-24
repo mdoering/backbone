@@ -1,5 +1,4 @@
-Puccinia gonospermi Magnus SPECIES
-=======
+# Puccinia gonospermi Magnus SPECIES
 
 #### Status
 ACCEPTED

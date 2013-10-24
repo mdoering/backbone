@@ -1,5 +1,4 @@
-Mycena myrifica Corner SPECIES
-=======
+# Mycena myrifica Corner SPECIES
 
 #### Status
 ACCEPTED

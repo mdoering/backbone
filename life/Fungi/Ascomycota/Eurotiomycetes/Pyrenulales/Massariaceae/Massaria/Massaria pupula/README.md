@@ -1,5 +1,4 @@
-Massaria pupula (Fr.) Sacc. SPECIES
-=======
+# Massaria pupula (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora lacustris Sacc. SPECIES
-=======
+# Stagonospora lacustris Sacc. SPECIES
 
 #### Status
 ACCEPTED

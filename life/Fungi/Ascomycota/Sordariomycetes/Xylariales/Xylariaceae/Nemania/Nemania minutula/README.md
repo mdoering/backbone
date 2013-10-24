@@ -1,14 +1,13 @@
-Hypoxylon minutulum (Penz. & Sacc.) J.H. Mill. ex Teng, 1939 SPECIES
-=======
+# Nemania minutula (Penz. & Sacc.) Y.M. Ju & J.D. Rogers, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. to Our Knowledge of the Higher Fungi of China 125 (1939)
+Mycotaxon 73: 382 (1999)
 
 #### Original name
 Nummularia minutula Penz. & Sacc., 1897

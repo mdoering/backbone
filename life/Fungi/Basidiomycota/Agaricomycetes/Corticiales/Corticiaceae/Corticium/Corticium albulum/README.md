@@ -1,5 +1,4 @@
-Corticium albulum (G.F. Atk. & Burt) D.P. Rogers & H.S. Jacks. SPECIES
-=======
+# Corticium albulum (G.F. Atk. & Burt) D.P. Rogers & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

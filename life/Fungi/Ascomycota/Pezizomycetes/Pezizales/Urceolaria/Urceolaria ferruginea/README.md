@@ -1,5 +1,4 @@
-Urceolaria ferruginea Harm. SPECIES
-=======
+# Urceolaria ferruginea Harm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella eluta Körb. SPECIES
-=======
+# Lecidella eluta Körb. SPECIES
 
 #### Status
 ACCEPTED

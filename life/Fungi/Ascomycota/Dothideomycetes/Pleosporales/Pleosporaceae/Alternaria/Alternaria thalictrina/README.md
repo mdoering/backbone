@@ -1,5 +1,4 @@
-Alternaria thalictrina Ondrej SPECIES
-=======
+# Alternaria thalictrina Ondrej SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithographa serpentina Coppins & Friday SPECIES
-=======
+# Lithographa serpentina Coppins & Friday SPECIES
 
 #### Status
 ACCEPTED

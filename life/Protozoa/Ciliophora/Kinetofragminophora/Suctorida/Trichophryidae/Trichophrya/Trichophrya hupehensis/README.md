@@ -1,5 +1,4 @@
-Trichophrya hupehensis Chen & Hsieh, 1964 SPECIES
-=======
+# Trichophrya hupehensis Chen & Hsieh, 1964 SPECIES
 
 #### Status
 ACCEPTED

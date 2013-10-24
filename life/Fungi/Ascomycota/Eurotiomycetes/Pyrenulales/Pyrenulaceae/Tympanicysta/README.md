@@ -1,5 +1,4 @@
-Tympanicysta Malme, 1980 GENUS
-=======
+# Tympanicysta Malme, 1980 GENUS
 
 #### Status
 ACCEPTED

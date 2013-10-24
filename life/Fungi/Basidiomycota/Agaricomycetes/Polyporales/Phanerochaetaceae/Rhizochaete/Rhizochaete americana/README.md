@@ -1,14 +1,13 @@
-Ceraceomyces americanus Nakasone, C.R. Bergman & Burds., 1994 SPECIES
-=======
+# Rhizochaete americana (Nakasone, C.R. Bergman & Burds.) Gresl., Nakasone & Rajchenb., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 46(1): 56 (1994)
+Mycologia 96(2): 267 (2004)
 
 #### Original name
 Ceraceomyces americanus Nakasone, C.R. Bergman & Burds., 1994

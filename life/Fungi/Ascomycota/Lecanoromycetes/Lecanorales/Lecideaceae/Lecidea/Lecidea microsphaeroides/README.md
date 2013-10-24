@@ -1,5 +1,4 @@
-Lecidea microsphaeroides Vain. SPECIES
-=======
+# Lecidea microsphaeroides Vain. SPECIES
 
 #### Status
 ACCEPTED

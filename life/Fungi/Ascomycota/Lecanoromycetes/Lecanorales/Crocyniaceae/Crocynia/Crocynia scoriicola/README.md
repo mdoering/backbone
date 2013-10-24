@@ -1,5 +1,4 @@
-Crocynia scoriicola Hue SPECIES
-=======
+# Crocynia scoriicola Hue SPECIES
 
 #### Status
 ACCEPTED

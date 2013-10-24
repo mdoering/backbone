@@ -1,5 +1,4 @@
-Glyphopeltis Brusse, 1985 GENUS
-=======
+# Glyphopeltis Brusse, 1985 GENUS
 
 #### Status
 ACCEPTED

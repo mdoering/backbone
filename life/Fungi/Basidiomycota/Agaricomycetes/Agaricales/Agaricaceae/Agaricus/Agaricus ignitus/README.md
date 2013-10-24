@@ -1,5 +1,4 @@
-Agaricus ignitus Britzelm. SPECIES
-=======
+# Agaricus ignitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

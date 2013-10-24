@@ -1,5 +1,4 @@
-Puccinia hypochoeridis-cretensis Petr. SPECIES
-=======
+# Puccinia hypochoeridis-cretensis Petr. SPECIES
 
 #### Status
 ACCEPTED

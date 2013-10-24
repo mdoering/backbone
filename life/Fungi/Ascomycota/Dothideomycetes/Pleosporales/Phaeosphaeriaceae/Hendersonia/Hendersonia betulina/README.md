@@ -1,5 +1,4 @@
-Hendersonia betulina Rostr. SPECIES
-=======
+# Hendersonia betulina Rostr. SPECIES
 
 #### Status
 ACCEPTED

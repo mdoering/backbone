@@ -1,5 +1,4 @@
-Astrosporina graveolens E. Horak, 1978 SPECIES
-=======
+# Astrosporina graveolens E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

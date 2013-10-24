@@ -1,5 +1,4 @@
-Acholeplasma parvum Atobe et al., 1983 SPECIES
-=======
+# Acholeplasma parvum Atobe et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

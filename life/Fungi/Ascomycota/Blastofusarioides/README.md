@@ -1,5 +1,4 @@
-Blastofusarioides Matsush. GENUS
-=======
+# Blastofusarioides Matsush. GENUS
 
 #### Status
 ACCEPTED

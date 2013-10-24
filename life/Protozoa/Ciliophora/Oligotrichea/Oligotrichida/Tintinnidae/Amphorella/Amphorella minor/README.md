@@ -1,5 +1,4 @@
-Amphorella minor Jörgensen, 1924 SPECIES
-=======
+# Amphorella minor Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

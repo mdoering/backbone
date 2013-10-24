@@ -1,5 +1,4 @@
-Panus hymenorrhizus Speg. SPECIES
-=======
+# Panus hymenorrhizus Speg. SPECIES
 
 #### Status
 ACCEPTED

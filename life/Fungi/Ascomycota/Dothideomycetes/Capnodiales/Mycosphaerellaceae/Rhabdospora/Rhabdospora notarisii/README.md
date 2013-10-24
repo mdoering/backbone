@@ -1,5 +1,4 @@
-Rhabdospora notarisii Sacc. SPECIES
-=======
+# Rhabdospora notarisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

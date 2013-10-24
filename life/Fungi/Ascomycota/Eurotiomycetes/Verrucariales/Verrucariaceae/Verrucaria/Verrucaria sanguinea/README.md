@@ -1,5 +1,4 @@
-Verrucaria sanguinea Willd. SPECIES
-=======
+# Verrucaria sanguinea Willd. SPECIES
 
 #### Status
 ACCEPTED

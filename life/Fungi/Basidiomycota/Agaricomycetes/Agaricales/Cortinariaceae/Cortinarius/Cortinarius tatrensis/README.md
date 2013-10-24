@@ -1,5 +1,4 @@
-Cortinarius tatrensis R. Fellner & Landa SPECIES
-=======
+# Cortinarius tatrensis R. Fellner & Landa SPECIES
 
 #### Status
 ACCEPTED

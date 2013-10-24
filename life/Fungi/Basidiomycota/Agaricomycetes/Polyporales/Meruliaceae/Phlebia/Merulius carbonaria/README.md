@@ -1,5 +1,4 @@
-Merulius carbonaria Lloyd SPECIES
-=======
+# Merulius carbonaria Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus lachnocephalus (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus lachnocephalus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria corollae Syd. SPECIES
-=======
+# Septoria corollae Syd. SPECIES
 
 #### Status
 ACCEPTED

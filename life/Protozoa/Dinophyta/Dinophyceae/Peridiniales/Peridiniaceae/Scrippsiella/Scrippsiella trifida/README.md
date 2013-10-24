@@ -1,5 +1,4 @@
-Scrippsiella trifida J. Lewis SPECIES
-=======
+# Scrippsiella trifida J. Lewis SPECIES
 
 #### Status
 ACCEPTED

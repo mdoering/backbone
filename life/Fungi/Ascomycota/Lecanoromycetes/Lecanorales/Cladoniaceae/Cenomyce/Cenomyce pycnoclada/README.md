@@ -1,5 +1,4 @@
-Cenomyce pycnoclada Pers. SPECIES
-=======
+# Cenomyce pycnoclada Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Calosporella J. Schröt. GENUS
-=======
+# Prosthecium Fresen. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(4): 442 (1897)
+Beitr. Mykol. 2: 62 (1852)
 
 #### Original name
-Calosporella J. Schröt.
+Prosthecium Fresen.
 
 ### Remarks
 null

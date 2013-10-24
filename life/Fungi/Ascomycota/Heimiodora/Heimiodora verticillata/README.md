@@ -1,5 +1,4 @@
-Heimiodora verticillata Nicot, 1960 SPECIES
-=======
+# Heimiodora verticillata Nicot, 1960 SPECIES
 
 #### Status
 ACCEPTED

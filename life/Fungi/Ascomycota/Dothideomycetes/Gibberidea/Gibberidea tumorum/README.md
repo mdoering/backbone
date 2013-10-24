@@ -1,5 +1,4 @@
-Gibberidea tumorum (Schwein.) Kuntze SPECIES
-=======
+# Gibberidea tumorum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

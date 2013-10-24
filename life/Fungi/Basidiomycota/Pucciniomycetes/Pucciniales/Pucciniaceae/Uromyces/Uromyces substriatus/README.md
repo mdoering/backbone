@@ -1,5 +1,4 @@
-Uromyces substriatus Syd. & P. Syd. SPECIES
-=======
+# Uromyces substriatus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

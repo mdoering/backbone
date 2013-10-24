@@ -1,5 +1,4 @@
-Collema thysaneoides Nyl. SPECIES
-=======
+# Collema thysaneoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

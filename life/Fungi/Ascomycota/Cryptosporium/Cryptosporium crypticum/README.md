@@ -1,5 +1,4 @@
-Cryptosporium crypticum Cooke ex Grove, 1937 SPECIES
-=======
+# Cryptosporium crypticum Cooke ex Grove, 1937 SPECIES
 
 #### Status
 ACCEPTED

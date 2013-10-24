@@ -1,5 +1,4 @@
-Pestalotiopsis mangifolia (Guba) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis mangifolia (Guba) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

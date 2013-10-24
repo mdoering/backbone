@@ -1,5 +1,4 @@
-Megalaria granulosa Kalb SPECIES
-=======
+# Megalaria granulosa Kalb SPECIES
 
 #### Status
 ACCEPTED

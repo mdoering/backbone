@@ -1,5 +1,4 @@
-Daedalea incarnatoalbida Chodat & C. Martín SPECIES
-=======
+# Daedalea incarnatoalbida Chodat & C. Martín SPECIES
 
 #### Status
 ACCEPTED

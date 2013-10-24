@@ -1,5 +1,4 @@
-Synchytrium geranii Clendenin, 1895 SPECIES
-=======
+# Synchytrium geranii Clendenin, 1895 SPECIES
 
 #### Status
 ACCEPTED

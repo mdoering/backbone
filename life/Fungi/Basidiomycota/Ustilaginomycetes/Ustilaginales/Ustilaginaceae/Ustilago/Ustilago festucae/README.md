@@ -1,5 +1,4 @@
-Ustilago festucae Zundel SPECIES
-=======
+# Ustilago festucae Zundel SPECIES
 
 #### Status
 ACCEPTED

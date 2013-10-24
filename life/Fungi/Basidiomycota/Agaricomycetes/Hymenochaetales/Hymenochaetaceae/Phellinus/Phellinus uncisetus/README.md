@@ -1,5 +1,4 @@
-Phellinus uncisetus Robledo, Urcelay & Rajchenb. SPECIES
-=======
+# Phellinus uncisetus Robledo, Urcelay & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

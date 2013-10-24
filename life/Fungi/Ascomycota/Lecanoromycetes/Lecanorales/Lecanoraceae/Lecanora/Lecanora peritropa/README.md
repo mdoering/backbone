@@ -1,5 +1,4 @@
-Lecanora peritropa Nyl. SPECIES
-=======
+# Lecanora peritropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cantharellus patouillardi Sacc. SPECIES
-=======
+# Cantharellus patouillardii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 65 (1891)
 
 #### Original name
-Cantharellus patouillardi Sacc.
+Cantharellus patouillardii Sacc.
 
 ### Remarks
 null

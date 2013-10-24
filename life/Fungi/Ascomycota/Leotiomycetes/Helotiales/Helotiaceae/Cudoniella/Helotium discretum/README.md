@@ -1,5 +1,4 @@
-Helotium discretum P. Karst. SPECIES
-=======
+# Helotium discretum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

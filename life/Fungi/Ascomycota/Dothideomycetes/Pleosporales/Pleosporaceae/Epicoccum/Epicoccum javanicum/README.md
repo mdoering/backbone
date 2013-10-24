@@ -1,5 +1,4 @@
-Epicoccum javanicum Koord. SPECIES
-=======
+# Epicoccum javanicum Koord. SPECIES
 
 #### Status
 ACCEPTED

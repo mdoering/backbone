@@ -1,5 +1,4 @@
-Lyngbya orsinii Piccone SPECIES
-=======
+# Lyngbya orsinii Piccone SPECIES
 
 #### Status
 ACCEPTED

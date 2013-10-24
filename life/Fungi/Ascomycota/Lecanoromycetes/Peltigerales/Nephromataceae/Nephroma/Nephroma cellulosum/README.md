@@ -1,5 +1,4 @@
-Nephroma cellulosum var. cellulosum VARIETY
-=======
+# Nephroma cellulosum (Sm. ex Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Lich. univ. 523 (1810)
 
 #### Original name
-Nephroma cellulosum var. cellulosum
+Lichen cellulosus Sm.
 
 ### Remarks
 null

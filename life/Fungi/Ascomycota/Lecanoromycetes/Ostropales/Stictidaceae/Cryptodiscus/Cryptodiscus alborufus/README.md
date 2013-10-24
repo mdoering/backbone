@@ -1,5 +1,4 @@
-Cryptodiscus alborufus (Berk. & Broome) Sacc. SPECIES
-=======
+# Cryptodiscus alborufus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

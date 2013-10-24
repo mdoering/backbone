@@ -1,5 +1,4 @@
-Septobasidium prosopidicola Speg. SPECIES
-=======
+# Septobasidium prosopidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

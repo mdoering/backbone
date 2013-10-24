@@ -1,14 +1,13 @@
-Hypoxylon piceum Ellis, 1883 SPECIES
-=======
+# Pyrenomyxa picea (Ellis) M. Stadler, Laessøe & Lar.N. Vassiljeva, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Nat. 17: 194 (1883)
+Mycologia 97(5): 1135 (2006)
 
 #### Original name
 Hypoxylon piceum Ellis, 1883

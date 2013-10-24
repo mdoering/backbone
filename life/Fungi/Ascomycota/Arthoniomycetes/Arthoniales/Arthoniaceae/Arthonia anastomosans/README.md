@@ -1,5 +1,4 @@
-Arthonia anastomosans Nyl. SPECIES
-=======
+# Arthonia anastomosans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnoascus japonicus (Uchiy., Kamiya & Udagawa) M. Solé, Cano & Guarro SPECIES
-=======
+# Gymnoascus japonicus (Uchiy., Kamiya & Udagawa) M. Solé, Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

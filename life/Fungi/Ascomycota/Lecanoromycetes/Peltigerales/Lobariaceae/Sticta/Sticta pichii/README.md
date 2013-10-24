@@ -1,5 +1,4 @@
-Sticta pichii Zahlbr. SPECIES
-=======
+# Sticta pichii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

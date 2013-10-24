@@ -1,5 +1,4 @@
-Graphis aterrima Müll. Arg. SPECIES
-=======
+# Graphis aterrima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

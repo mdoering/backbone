@@ -1,5 +1,4 @@
-Puccinia jonesii-lindrothii (Syd.) Arthur SPECIES
-=======
+# Puccinia jonesii-lindrothii (Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

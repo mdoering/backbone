@@ -1,5 +1,4 @@
-Austroclitocybe Raithelh. GENUS
-=======
+# Austroclitocybe Raithelh. GENUS
 
 #### Status
 ACCEPTED

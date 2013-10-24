@@ -1,5 +1,4 @@
-Cortinarius muricinicolor Moënne-Locc. SPECIES
-=======
+# Cortinarius muricinicolor Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

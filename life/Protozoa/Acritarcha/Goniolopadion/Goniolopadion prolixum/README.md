@@ -1,5 +1,4 @@
-Goniolopadion prolixum Playford, 1977 SPECIES
-=======
+# Goniolopadion prolixum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

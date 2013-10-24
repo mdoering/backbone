@@ -1,5 +1,4 @@
-Puccinia heterospora-valerianae Katajev SPECIES
-=======
+# Puccinia heterospora-valerianae Katajev SPECIES
 
 #### Status
 ACCEPTED

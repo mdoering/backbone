@@ -1,5 +1,4 @@
-Phyllosticta yerbae Speg. SPECIES
-=======
+# Phyllosticta yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces galbus Frommer, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces galbus Frommer, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

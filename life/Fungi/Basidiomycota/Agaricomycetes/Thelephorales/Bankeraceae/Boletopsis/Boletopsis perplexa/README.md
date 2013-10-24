@@ -1,5 +1,4 @@
-Boletopsis perplexa Watling & J. Milne, 2006 SPECIES
-=======
+# Boletopsis perplexa Watling & J. Milne, 2006 SPECIES
 
 #### Status
 ACCEPTED

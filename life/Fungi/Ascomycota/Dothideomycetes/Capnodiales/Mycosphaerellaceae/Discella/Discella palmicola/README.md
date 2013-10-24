@@ -1,5 +1,4 @@
-Discella palmicola Cooke & Massee SPECIES
-=======
+# Discella palmicola Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

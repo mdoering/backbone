@@ -1,5 +1,4 @@
-Fulvimarina Cho & Giovannoni, 2003 GENUS
-=======
+# Fulvimarina Cho & Giovannoni, 2003 GENUS
 
 #### Status
 ACCEPTED

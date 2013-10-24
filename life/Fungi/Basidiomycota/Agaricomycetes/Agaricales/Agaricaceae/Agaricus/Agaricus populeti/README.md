@@ -1,5 +1,4 @@
-Agaricus populeti Britzelm. SPECIES
-=======
+# Agaricus populeti Britzelm. SPECIES
 
 #### Status
 ACCEPTED

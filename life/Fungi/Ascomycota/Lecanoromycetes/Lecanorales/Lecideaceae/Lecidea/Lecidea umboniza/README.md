@@ -1,5 +1,4 @@
-Lecidea umboniza Nádv. SPECIES
-=======
+# Lecidea umboniza Nádv. SPECIES
 
 #### Status
 ACCEPTED

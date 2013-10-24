@@ -1,5 +1,4 @@
-Zignoëlla australis Speg. SPECIES
-=======
+# Zignoëlla australis Speg. SPECIES
 
 #### Status
 ACCEPTED

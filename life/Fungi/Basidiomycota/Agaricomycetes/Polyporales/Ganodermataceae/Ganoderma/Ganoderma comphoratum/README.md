@@ -1,5 +1,4 @@
-Ganoderma comphoratum M. Zang & C.H. Su SPECIES
-=======
+# Ganoderma comphoratum M. Zang & C.H. Su SPECIES
 
 #### Status
 ACCEPTED

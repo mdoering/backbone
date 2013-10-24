@@ -1,5 +1,4 @@
-Sorosporium pretouense Zundel SPECIES
-=======
+# Sorosporium pretouense Zundel SPECIES
 
 #### Status
 ACCEPTED

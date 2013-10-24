@@ -1,5 +1,4 @@
-Multicellaesporites megareniformis Z.C. Song SPECIES
-=======
+# Multicellaesporites megareniformis Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

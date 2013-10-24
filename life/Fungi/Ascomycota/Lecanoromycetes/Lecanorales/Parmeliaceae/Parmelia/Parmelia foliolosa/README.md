@@ -1,5 +1,4 @@
-Parmelia foliolosa C.W. Dodge SPECIES
-=======
+# Parmelia foliolosa C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

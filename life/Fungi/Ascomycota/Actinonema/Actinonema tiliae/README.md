@@ -1,5 +1,4 @@
-Actinonema tiliae Allesch. SPECIES
-=======
+# Actinonema tiliae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirelella Ozgen-Erdem, 2002 GENUS
-=======
+# Sirelella Ozgen-Erdem, 2002 GENUS
 
 #### Status
 ACCEPTED

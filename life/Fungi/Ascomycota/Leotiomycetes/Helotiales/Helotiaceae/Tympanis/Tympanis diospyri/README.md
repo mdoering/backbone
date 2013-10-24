@@ -1,5 +1,4 @@
-Tympanis diospyri J.W. Groves, 1952 SPECIES
-=======
+# Tympanis diospyri J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

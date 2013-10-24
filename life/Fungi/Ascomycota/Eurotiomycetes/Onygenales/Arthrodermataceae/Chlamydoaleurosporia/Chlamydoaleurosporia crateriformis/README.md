@@ -1,5 +1,4 @@
-Chlamydoaleurosporia crateriformis (Sabour.) Grigorakis {?} SPECIES
-=======
+# Chlamydoaleurosporia crateriformis (Sabour.) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

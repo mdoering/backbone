@@ -1,5 +1,4 @@
-Lecanora agardhanioides var. agardhanioides VARIETY
-=======
+# Lecanora agardhanioides SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora agardhanioides var. agardhanioides
+null
 
 ### Remarks
 null

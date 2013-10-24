@@ -1,5 +1,4 @@
-Trichocladia coluteae f. coluteae FORM
-=======
+# Trichocladia coluteae Potebnia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichocladia coluteae f. coluteae
+Trichocladia coluteae Potebnia
 
 ### Remarks
 null

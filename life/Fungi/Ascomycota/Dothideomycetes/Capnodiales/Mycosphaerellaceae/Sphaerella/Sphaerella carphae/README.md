@@ -1,5 +1,4 @@
-Sphaerella carphae Speg. SPECIES
-=======
+# Sphaerella carphae Speg. SPECIES
 
 #### Status
 ACCEPTED

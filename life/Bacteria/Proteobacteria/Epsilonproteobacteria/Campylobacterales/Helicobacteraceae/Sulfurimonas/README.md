@@ -1,5 +1,4 @@
-Sulfurimonas Inagaki, Takai, Kobayashi, Nealson & Horikoshi, 2005 GENUS
-=======
+# Sulfurimonas Inagaki, Takai, Kobayashi, Nealson & Horikoshi, 2005 GENUS
 
 #### Status
 ACCEPTED

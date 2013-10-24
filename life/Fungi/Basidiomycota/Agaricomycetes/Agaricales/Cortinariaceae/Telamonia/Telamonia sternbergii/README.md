@@ -1,5 +1,4 @@
-Telamonia sternbergii Velen. SPECIES
-=======
+# Telamonia sternbergii Velen. SPECIES
 
 #### Status
 ACCEPTED

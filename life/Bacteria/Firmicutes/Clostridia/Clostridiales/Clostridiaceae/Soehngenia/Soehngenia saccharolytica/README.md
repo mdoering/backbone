@@ -1,5 +1,4 @@
-Soehngenia saccharolytica Parshina et al., 2003 SPECIES
-=======
+# Soehngenia saccharolytica Parshina et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

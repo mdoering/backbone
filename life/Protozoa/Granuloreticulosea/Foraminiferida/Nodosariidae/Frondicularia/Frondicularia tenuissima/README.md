@@ -1,5 +1,4 @@
-Frondicularia tenuissima Hantken SPECIES
-=======
+# Frondicularia tenuissima Hantken SPECIES
 
 #### Status
 ACCEPTED

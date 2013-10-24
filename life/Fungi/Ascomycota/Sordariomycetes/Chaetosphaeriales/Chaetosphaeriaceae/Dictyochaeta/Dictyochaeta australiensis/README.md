@@ -1,14 +1,13 @@
-Dictyochaeta australensis (B. Sutton) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta australiensis (B. Sutton) Whitton, McKenzie & K.D. Hyde, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity 4: 137 (2000)
 
 #### Original name
 Codinaea australiensis B. Sutton, 1980

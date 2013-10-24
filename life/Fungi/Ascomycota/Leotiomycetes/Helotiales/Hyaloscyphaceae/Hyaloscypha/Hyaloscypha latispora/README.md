@@ -1,5 +1,4 @@
-Hyaloscypha latispora Huhtinen SPECIES
-=======
+# Hyaloscypha latispora Huhtinen SPECIES
 
 #### Status
 ACCEPTED

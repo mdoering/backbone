@@ -1,5 +1,4 @@
-Puccinia phelloptericola Sawada SPECIES
-=======
+# Puccinia phelloptericola Sawada SPECIES
 
 #### Status
 ACCEPTED

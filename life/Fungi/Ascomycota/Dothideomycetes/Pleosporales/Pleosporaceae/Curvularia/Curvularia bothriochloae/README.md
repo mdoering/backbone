@@ -1,5 +1,4 @@
-Curvularia bothriochloae Sivan., Alcorn & R.G. Shivas, 2003 SPECIES
-=======
+# Curvularia bothriochloae Sivan., Alcorn & R.G. Shivas, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eponides fijiana Cushman, 1933 SPECIES
-=======
+# Eponides fijiana Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

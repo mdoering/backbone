@@ -1,5 +1,4 @@
-Russula fuscomaculata Romagn. SPECIES
-=======
+# Russula fuscomaculata Romagn. SPECIES
 
 #### Status
 ACCEPTED

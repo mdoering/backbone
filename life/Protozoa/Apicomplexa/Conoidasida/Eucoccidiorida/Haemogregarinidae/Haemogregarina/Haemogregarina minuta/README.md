@@ -1,5 +1,4 @@
-Haemogregarina minuta Neumann, 1909 SPECIES
-=======
+# Haemogregarina minuta Neumann, 1909 SPECIES
 
 #### Status
 ACCEPTED

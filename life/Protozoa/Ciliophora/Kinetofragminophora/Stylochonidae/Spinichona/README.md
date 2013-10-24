@@ -1,5 +1,4 @@
-Spinichona Jankowski, 1973 GENUS
-=======
+# Spinichona Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

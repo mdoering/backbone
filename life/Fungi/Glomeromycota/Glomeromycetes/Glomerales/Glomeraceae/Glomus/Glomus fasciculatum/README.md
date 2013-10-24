@@ -1,14 +1,13 @@
-Glomus fasciculatus (Thaxt.) Gerd. & Trappe SPECIES
-=======
+# Glomus fasciculatum (Thaxt.) Gerd. & Trappe, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 5: 51 (1974)
 
 #### Original name
 Endogone fasciculata Thaxt., 1922

@@ -1,17 +1,16 @@
-Massarina capparidicola A.K. Kar & Maity SPECIES
-=======
+# Massarina capparicola A.K. Kar & Maity SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 48(7): 1295 (1970)
 
 #### Original name
-Massarina capparidicola A.K. Kar & Maity
+Massarina capparicola A.K. Kar & Maity
 
 ### Remarks
 null

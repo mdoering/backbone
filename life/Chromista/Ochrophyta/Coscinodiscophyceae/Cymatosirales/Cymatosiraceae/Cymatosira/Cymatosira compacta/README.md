@@ -1,5 +1,4 @@
-Cymatosira compacta H. J. Schrader & J. Fenner SPECIES
-=======
+# Cymatosira compacta H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

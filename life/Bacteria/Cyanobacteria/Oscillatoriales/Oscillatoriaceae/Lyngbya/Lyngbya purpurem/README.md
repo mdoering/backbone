@@ -1,5 +1,4 @@
-Lyngbya purpurem SPECIES
-=======
+# Lyngbya purpurem SPECIES
 
 #### Status
 ACCEPTED

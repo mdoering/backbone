@@ -1,5 +1,4 @@
-Allogromia mollis Gruber, 1881 SPECIES
-=======
+# Allogromia mollis Gruber, 1881 SPECIES
 
 #### Status
 ACCEPTED

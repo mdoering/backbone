@@ -1,17 +1,16 @@
-Parmelia subplumbeata C. W. Dodge SPECIES
-=======
+# Hypotrachyna subplumbeata (C. W. Dodge) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 67 (1975)
 
 #### Original name
-null
+Parmelia subplumbeata C. W. Dodge
 
 ### Remarks
 null

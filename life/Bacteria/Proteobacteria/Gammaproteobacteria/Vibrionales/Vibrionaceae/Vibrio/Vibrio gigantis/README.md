@@ -1,5 +1,4 @@
-Vibrio gigantis Le Roux et al., 2005 SPECIES
-=======
+# Vibrio gigantis Le Roux et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

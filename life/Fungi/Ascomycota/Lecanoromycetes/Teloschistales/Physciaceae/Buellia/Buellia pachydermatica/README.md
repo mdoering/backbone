@@ -1,5 +1,4 @@
-Buellia pachydermatica Vain. SPECIES
-=======
+# Buellia pachydermatica Vain. SPECIES
 
 #### Status
 ACCEPTED

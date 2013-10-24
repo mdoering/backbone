@@ -1,5 +1,4 @@
-Verrucaria turgidella Nyl. SPECIES
-=======
+# Verrucaria turgidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

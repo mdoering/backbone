@@ -1,17 +1,16 @@
-Phoma acaciae Henn., 1891 SPECIES
-=======
+# Phoma henningsii Sacc., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 10: 139 (1892)
 
 #### Original name
-null
+Phoma henningsii Sacc., 1892
 
 ### Remarks
 null

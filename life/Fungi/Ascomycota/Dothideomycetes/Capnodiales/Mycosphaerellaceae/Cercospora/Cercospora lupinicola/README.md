@@ -1,5 +1,4 @@
-Cercospora lupinicola Lieneman SPECIES
-=======
+# Cercospora lupinicola Lieneman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella bacillispora (Kabát & Bubák) Aa SPECIES
-=======
+# Asteromella bacillispora (Kabát & Bubák) Aa SPECIES
 
 #### Status
 ACCEPTED

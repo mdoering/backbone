@@ -1,14 +1,13 @@
-Thelotrema parvulum Kremp. SPECIES
-=======
+# Ocellularia parvula (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 20 (1875)
+Cat. Lich. Univers. 2: 597 (1923)
 
 #### Original name
 Thelotrema parvulum Kremp.

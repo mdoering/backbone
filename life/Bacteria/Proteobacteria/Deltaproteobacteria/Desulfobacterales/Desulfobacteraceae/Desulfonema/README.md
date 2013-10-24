@@ -1,5 +1,4 @@
-Desulfonema Widdel, 1981 GENUS
-=======
+# Desulfonema Widdel, 1981 GENUS
 
 #### Status
 ACCEPTED

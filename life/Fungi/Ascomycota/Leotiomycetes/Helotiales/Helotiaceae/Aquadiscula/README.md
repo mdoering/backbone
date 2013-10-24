@@ -1,5 +1,4 @@
-Aquadiscula Shearer & J.L. Crane GENUS
-=======
+# Aquadiscula Shearer & J.L. Crane GENUS
 
 #### Status
 ACCEPTED

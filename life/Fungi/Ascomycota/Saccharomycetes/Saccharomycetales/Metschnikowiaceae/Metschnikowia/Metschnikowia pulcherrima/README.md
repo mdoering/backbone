@@ -1,17 +1,16 @@
-Torula pulcherrima Lindner, 1901 SPECIES
-=======
+# Metschnikowia pulcherrima Pitt & M.W. Mill., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 60(3): 669 (1968)
 
 #### Original name
-null
+Metschnikowia pulcherrima Pitt & M.W. Mill., 1968
 
 ### Remarks
 null

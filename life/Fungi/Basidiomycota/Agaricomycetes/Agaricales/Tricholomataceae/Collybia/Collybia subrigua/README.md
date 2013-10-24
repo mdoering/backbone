@@ -1,5 +1,4 @@
-Collybia subrigua Banning & Peck SPECIES
-=======
+# Collybia subrigua Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Angelina maura Ellis SPECIES
-=======
+# Angelina maura Ellis SPECIES
 
 #### Status
 ACCEPTED

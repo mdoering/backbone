@@ -1,5 +1,4 @@
-Aecidium inornatum Kalchbr. SPECIES
-=======
+# Aecidium inornatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

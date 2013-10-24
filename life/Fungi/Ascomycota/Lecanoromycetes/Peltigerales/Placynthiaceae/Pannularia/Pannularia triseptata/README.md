@@ -1,5 +1,4 @@
-Pannularia triseptata (Nyl.) Cromb. SPECIES
-=======
+# Pannularia triseptata (Nyl.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

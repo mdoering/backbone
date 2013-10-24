@@ -1,5 +1,4 @@
-Coryne aquatica Massee & Crossl., 1904 SPECIES
-=======
+# Coryne aquatica Massee & Crossl., 1904 SPECIES
 
 #### Status
 ACCEPTED

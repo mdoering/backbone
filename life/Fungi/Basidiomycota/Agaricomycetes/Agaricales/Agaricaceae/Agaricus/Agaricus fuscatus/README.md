@@ -1,5 +1,4 @@
-Agaricus fuscatus Lév. SPECIES
-=======
+# Agaricus fuscatus Lév. SPECIES
 
 #### Status
 ACCEPTED

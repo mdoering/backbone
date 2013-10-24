@@ -1,5 +1,4 @@
-Oospora caprae (Silb.) Sartory SPECIES
-=======
+# Oospora caprae (Silb.) Sartory SPECIES
 
 #### Status
 ACCEPTED

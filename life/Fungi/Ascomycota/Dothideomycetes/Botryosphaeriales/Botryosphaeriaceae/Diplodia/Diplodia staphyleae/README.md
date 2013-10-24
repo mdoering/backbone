@@ -1,5 +1,4 @@
-Diplodia staphyleae Sacc. & Penz. SPECIES
-=======
+# Diplodia staphyleae Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

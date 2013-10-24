@@ -1,5 +1,4 @@
-Pseudocercospora photiniae (Fukui) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora photiniae (Fukui) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium auberianum Mont., 1842 SPECIES
-=======
+# Corticium auberianum Mont., 1842 SPECIES
 
 #### Status
 ACCEPTED

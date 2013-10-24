@@ -1,5 +1,4 @@
-Macrosporium schemnitziense Bäumler SPECIES
-=======
+# Macrosporium schemnitziense Bäumler SPECIES
 
 #### Status
 ACCEPTED

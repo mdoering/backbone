@@ -1,5 +1,4 @@
-Trichodinella Lom, 1963 GENUS
-=======
+# Trichodinella Lom, 1963 GENUS
 
 #### Status
 ACCEPTED

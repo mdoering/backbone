@@ -1,5 +1,4 @@
-Entoloma howellii (Peck) Dennis SPECIES
-=======
+# Entoloma howellii (Peck) Dennis SPECIES
 
 #### Status
 ACCEPTED

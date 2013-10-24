@@ -1,5 +1,4 @@
-Heterococcus subterrestris Lokhorst SPECIES
-=======
+# Heterococcus subterrestris Lokhorst SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium scrofulaceum Prissick and Masson, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium scrofulaceum Prissick and Masson, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

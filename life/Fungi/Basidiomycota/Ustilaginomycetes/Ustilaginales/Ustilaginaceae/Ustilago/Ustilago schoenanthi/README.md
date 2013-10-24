@@ -1,5 +1,4 @@
-Ustilago schoenanthi Syd. & P. Syd. SPECIES
-=======
+# Ustilago schoenanthi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

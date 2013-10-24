@@ -1,14 +1,13 @@
-Cercospora tithoniae R.E.D. Baker & W.T. Dale, 1951 SPECIES
-=======
+# Passalora tithoniae (R.E.D. Baker & W.T. Dale) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 33: 106 (1951)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 404 (2003)
 
 #### Original name
 Cercospora tithoniae R.E.D. Baker & W.T. Dale, 1951

@@ -1,5 +1,4 @@
-Fusarium carpini Schulzer & Sacc. SPECIES
-=======
+# Fusarium carpini Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

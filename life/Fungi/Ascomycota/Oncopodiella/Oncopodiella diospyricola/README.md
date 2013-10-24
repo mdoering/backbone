@@ -1,5 +1,4 @@
-Oncopodiella diospyricola G.Z. Zhao & T.Y. Zhang SPECIES
-=======
+# Oncopodiella diospyricola G.Z. Zhao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora acharii f. acharii FORM
-=======
+# Lecanora acharii (Ach.) Sommerf. SPECIES
 
 #### Status
 ACCEPTED

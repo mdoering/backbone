@@ -1,5 +1,4 @@
-Sphaeria mobilis Schumach. SPECIES
-=======
+# Sphaeria mobilis Schumach. SPECIES
 
 #### Status
 ACCEPTED

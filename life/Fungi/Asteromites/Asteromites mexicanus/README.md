@@ -1,5 +1,4 @@
-Asteromites mexicanus Poinar SPECIES
-=======
+# Asteromites mexicanus Poinar SPECIES
 
 #### Status
 ACCEPTED

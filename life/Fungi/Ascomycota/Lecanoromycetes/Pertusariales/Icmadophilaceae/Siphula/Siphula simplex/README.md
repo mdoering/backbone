@@ -1,5 +1,4 @@
-Siphula simplex (Taylor) Nyl. SPECIES
-=======
+# Siphula simplex (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

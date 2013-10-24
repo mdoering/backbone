@@ -1,5 +1,4 @@
-Uromyces chaetobromi Gjaerum, 1988 SPECIES
-=======
+# Uromyces chaetobromi Gjaerum, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea oroantarctica Øvstedal SPECIES
-=======
+# Lecidea oroantarctica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

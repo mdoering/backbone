@@ -1,5 +1,4 @@
-Volutellaria fuliginea I. Hino & Katum. SPECIES
-=======
+# Volutellaria fuliginea I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen papyraceus Wulfen SPECIES
-=======
+# Lichen papyraceus Wulfen SPECIES
 
 #### Status
 ACCEPTED

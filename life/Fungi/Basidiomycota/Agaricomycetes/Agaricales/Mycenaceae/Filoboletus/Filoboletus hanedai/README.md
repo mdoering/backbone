@@ -1,5 +1,4 @@
-Filoboletus hanedai (Kobayasi) Hongo SPECIES
-=======
+# Filoboletus hanedai (Kobayasi) Hongo SPECIES
 
 #### Status
 ACCEPTED

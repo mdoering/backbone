@@ -1,5 +1,4 @@
-Cercospora crotalariae-junceae Sawada SPECIES
-=======
+# Cercospora crotalariae-junceae Sawada SPECIES
 
 #### Status
 ACCEPTED

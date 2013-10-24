@@ -1,17 +1,16 @@
-Selenophoma donacis var. donacis VARIETY
-=======
+# Pseudoseptoria donacis (Pass.) B. Sutton, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32(3): 415 (1940)
+Mycol. Pap. 141: 169 (1977)
 
 #### Original name
-Selenophoma donacis var. donacis
+null
 
 ### Remarks
 null

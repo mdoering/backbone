@@ -1,5 +1,4 @@
-Tilletia ulei J. Schröt. & Henn. SPECIES
-=======
+# Tilletia ulei J. Schröt. & Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum gregoryi B. Sutton SPECIES
-=======
+# Coryneum gregoryi B. Sutton SPECIES
 
 #### Status
 ACCEPTED

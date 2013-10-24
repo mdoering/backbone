@@ -1,5 +1,4 @@
-Mycosphaerella agrostidis (Castagne) Lindau SPECIES
-=======
+# Mycosphaerella agrostidis (Castagne) Lindau SPECIES
 
 #### Status
 ACCEPTED

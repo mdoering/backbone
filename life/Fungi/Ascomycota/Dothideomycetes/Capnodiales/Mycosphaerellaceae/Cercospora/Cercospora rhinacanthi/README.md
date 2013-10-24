@@ -1,17 +1,16 @@
-Cercospora rhynacanthi Höhn. SPECIES
-=======
+# Cercospora rhinacanthi Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 121: 414 (1912)
 
 #### Original name
-Cercospora rhynacanthi Höhn.
+Cercospora rhinacanthi Höhn.
 
 ### Remarks
 null

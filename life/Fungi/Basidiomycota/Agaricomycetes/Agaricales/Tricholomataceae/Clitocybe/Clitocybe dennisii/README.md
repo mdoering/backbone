@@ -1,5 +1,4 @@
-Clitocybe dennisii (Singer) Raithelh. SPECIES
-=======
+# Clitocybe dennisii (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus brunneirubens Corner SPECIES
-=======
+# Boletus brunneirubens Corner SPECIES
 
 #### Status
 ACCEPTED

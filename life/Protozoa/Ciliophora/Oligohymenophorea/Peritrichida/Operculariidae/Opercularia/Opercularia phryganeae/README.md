@@ -1,5 +1,4 @@
-Opercularia phryganeae Kahl, 1935 SPECIES
-=======
+# Opercularia phryganeae Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

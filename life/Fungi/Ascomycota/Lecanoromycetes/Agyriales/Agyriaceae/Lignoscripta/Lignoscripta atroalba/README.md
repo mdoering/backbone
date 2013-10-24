@@ -1,5 +1,4 @@
-Lignoscripta atroalba B.D. Ryan & T.H. Nash SPECIES
-=======
+# Lignoscripta atroalba B.D. Ryan & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

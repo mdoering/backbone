@@ -1,5 +1,4 @@
-Saccardoella minuta L. Cai & K.D. Hyde SPECIES
-=======
+# Saccardoella minuta L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

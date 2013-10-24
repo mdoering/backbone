@@ -1,5 +1,4 @@
-Tetranacriella papillata Kohlm. & Volkm.-Kohlm., 2001 SPECIES
-=======
+# Tetranacriella papillata Kohlm. & Volkm.-Kohlm., 2001 SPECIES
 
 #### Status
 ACCEPTED

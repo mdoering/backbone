@@ -1,5 +1,4 @@
-Agaricus pactolus Cooke ex F. Muell. SPECIES
-=======
+# Agaricus pactolus Cooke ex F. Muell. SPECIES
 
 #### Status
 ACCEPTED

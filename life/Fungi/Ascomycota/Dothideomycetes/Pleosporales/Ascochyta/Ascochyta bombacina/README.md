@@ -1,5 +1,4 @@
-Ascochyta bombacina A. Mehrotra, M.D. Mehrotra & M. Basu SPECIES
-=======
+# Ascochyta bombacina A. Mehrotra, M.D. Mehrotra & M. Basu SPECIES
 
 #### Status
 ACCEPTED

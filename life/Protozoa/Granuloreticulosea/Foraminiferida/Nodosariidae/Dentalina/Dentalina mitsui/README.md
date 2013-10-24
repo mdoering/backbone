@@ -1,5 +1,4 @@
-Dentalina mitsui Hada, 1931 SPECIES
-=======
+# Dentalina mitsui Hada, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Powellomyces Longcore, D.J.S. Barr & Désauln. GENUS
-=======
+# Powellomyces Longcore, D.J.S. Barr & Désauln. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fusarium scirpi var. filiferum (Preuss) Wollenw., 1931 VARIETY
-=======
+# Fusarium filiferum (Preuss) Wollenw., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusaria autographica delineata 3(3): 337 (1931)
+Fusaria autographica delineata, Edn 1 no. 220 (1916)
 
 #### Original name
 Fusoma filiferum Preuss, 1852

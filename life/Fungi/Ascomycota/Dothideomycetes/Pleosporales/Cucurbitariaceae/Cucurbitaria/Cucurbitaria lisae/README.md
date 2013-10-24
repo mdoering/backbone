@@ -1,5 +1,4 @@
-Cucurbitaria lisae Ces., 1863 SPECIES
-=======
+# Cucurbitaria lisae Ces., 1863 SPECIES
 
 #### Status
 ACCEPTED

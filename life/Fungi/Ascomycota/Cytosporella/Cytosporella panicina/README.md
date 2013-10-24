@@ -1,5 +1,4 @@
-Cytosporella panicina S. Ahmad SPECIES
-=======
+# Cytosporella panicina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

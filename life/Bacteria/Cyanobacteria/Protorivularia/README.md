@@ -1,5 +1,4 @@
-Protorivularia R.V. Butin, 1959 GENUS
-=======
+# Protorivularia R.V. Butin, 1959 GENUS
 
 #### Status
 ACCEPTED

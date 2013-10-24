@@ -1,5 +1,4 @@
-Peziza schroeteri Cooke SPECIES
-=======
+# Peziza schroeteri Cooke SPECIES
 
 #### Status
 ACCEPTED

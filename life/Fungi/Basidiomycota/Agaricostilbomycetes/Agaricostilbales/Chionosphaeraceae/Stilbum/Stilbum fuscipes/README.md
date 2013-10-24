@@ -1,5 +1,4 @@
-Stilbum fuscipes Speg. SPECIES
-=======
+# Stilbum fuscipes Speg. SPECIES
 
 #### Status
 ACCEPTED

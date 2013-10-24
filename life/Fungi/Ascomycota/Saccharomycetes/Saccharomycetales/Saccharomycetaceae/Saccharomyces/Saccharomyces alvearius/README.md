@@ -1,5 +1,4 @@
-Saccharomyces alvearius (Preuss) A.B. Frank SPECIES
-=======
+# Saccharomyces alvearius (Preuss) A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

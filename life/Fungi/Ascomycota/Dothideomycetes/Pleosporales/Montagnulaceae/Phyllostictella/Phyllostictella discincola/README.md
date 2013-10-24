@@ -1,5 +1,4 @@
-Phyllostictella discincola (Ellis & Everh.) Tassi SPECIES
-=======
+# Phyllostictella discincola (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

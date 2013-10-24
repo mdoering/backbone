@@ -1,5 +1,4 @@
-Massaria bataanensis Rehm SPECIES
-=======
+# Massaria bataanensis Rehm SPECIES
 
 #### Status
 ACCEPTED

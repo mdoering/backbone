@@ -1,5 +1,4 @@
-Corynelia tripospora Cooke SPECIES
-=======
+# Corynelia tripospora Cooke SPECIES
 
 #### Status
 ACCEPTED

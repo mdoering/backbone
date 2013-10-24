@@ -1,17 +1,16 @@
-Pharcidia laminaricola Kohlm. SPECIES
-=======
+# Pharcidia laminariicola Kohlm., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mar. 16(4): 209 (1974)
 
 #### Original name
-null
+Pharcidia laminariicola Kohlm., 1973
 
 ### Remarks
 null

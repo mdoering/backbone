@@ -1,5 +1,4 @@
-Druridgea De Toni, 1894 GENUS
-=======
+# Druridgea De Toni, 1894 GENUS
 
 #### Status
 ACCEPTED

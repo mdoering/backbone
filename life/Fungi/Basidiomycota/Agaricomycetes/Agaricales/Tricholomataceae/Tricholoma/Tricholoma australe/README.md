@@ -1,5 +1,4 @@
-Tricholoma australe (Murrill) Murrill SPECIES
-=======
+# Tricholoma australe (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

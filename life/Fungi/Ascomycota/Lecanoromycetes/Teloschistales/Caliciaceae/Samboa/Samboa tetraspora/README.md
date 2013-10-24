@@ -1,5 +1,4 @@
-Samboa tetraspora (De Not.) Cif. & Tomas. SPECIES
-=======
+# Samboa tetraspora (De Not.) Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

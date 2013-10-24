@@ -1,5 +1,4 @@
-Hydnochaete tabacina (Berk. & M.A. Curtis ex Fr.) Ryvarden, 1982 SPECIES
-=======
+# Hydnochaete tabacina (Berk. & M.A. Curtis ex Fr.) Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

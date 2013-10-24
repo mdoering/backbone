@@ -1,5 +1,4 @@
-Coscinaria GENUS
-=======
+# Coscinaria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Virgariella fusca (Cooke) S. Hughes SPECIES
-=======
+# Virgariella fusca (Cooke) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

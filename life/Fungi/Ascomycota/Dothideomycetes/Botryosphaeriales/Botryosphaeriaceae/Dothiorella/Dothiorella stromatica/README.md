@@ -1,5 +1,4 @@
-Dothiorella stromatica (Preuss) Sacc. SPECIES
-=======
+# Dothiorella stromatica (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothrix fuscescens Kützing SPECIES
-=======
+# Schizothrix fuscescens Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces lactucae-debilis Sawada, 1925 SPECIES
-=======
+# Protomyces lactucae-debilis Sawada, 1925 SPECIES
 
 #### Status
 ACCEPTED

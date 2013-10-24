@@ -1,5 +1,4 @@
-Septoria angustissima Peck SPECIES
-=======
+# Septoria angustissima Peck SPECIES
 
 #### Status
 ACCEPTED

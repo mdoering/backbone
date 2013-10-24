@@ -1,5 +1,4 @@
-Tricholoma sanguinescens Velen. SPECIES
-=======
+# Tricholoma sanguinescens Velen. SPECIES
 
 #### Status
 ACCEPTED

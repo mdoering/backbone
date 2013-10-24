@@ -1,5 +1,4 @@
-Uromyces waipoua McNabb, 1966 SPECIES
-=======
+# Uromyces waipoua McNabb, 1966 SPECIES
 
 #### Status
 ACCEPTED

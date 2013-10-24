@@ -1,5 +1,4 @@
-Peziza repandoides (Rehm) Sacc. & Trotter SPECIES
-=======
+# Peziza repandoides (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

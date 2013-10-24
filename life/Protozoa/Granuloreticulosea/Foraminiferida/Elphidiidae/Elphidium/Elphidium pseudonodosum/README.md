@@ -1,5 +1,4 @@
-Elphidium pseudonodosum Cushman SPECIES
-=======
+# Elphidium pseudonodosum Cushman SPECIES
 
 #### Status
 ACCEPTED

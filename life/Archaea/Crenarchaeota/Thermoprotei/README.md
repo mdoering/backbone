@@ -1,5 +1,4 @@
-Thermoprotei Reysenbach, 2002 CLASS
-=======
+# Thermoprotei Reysenbach, 2002 CLASS
 
 #### Status
 ACCEPTED

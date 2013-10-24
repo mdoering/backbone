@@ -1,5 +1,4 @@
-Septoria festucae Died. SPECIES
-=======
+# Septoria festucae Died. SPECIES
 
 #### Status
 ACCEPTED

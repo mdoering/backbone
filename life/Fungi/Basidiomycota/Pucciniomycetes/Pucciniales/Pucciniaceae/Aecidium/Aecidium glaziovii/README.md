@@ -1,5 +1,4 @@
-Aecidium glaziovii Henn. SPECIES
-=======
+# Aecidium glaziovii Henn. SPECIES
 
 #### Status
 ACCEPTED

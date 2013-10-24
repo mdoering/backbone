@@ -1,5 +1,4 @@
-Pertusaria stalactizoides Savicz SPECIES
-=======
+# Pertusaria stalactizoides Savicz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paulanoblella Kozur & Repetski, 2002 GENUS
-=======
+# Paulanoblella Kozur & Repetski, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craspedomyoschiston Precht, 1935 GENUS
-=======
+# Craspedomyoschiston Precht, 1935 GENUS
 
 #### Status
 ACCEPTED

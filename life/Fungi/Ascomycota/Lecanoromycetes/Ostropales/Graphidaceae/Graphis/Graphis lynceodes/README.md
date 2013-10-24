@@ -1,5 +1,4 @@
-Graphis lynceodes Nyl. SPECIES
-=======
+# Graphis lynceodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

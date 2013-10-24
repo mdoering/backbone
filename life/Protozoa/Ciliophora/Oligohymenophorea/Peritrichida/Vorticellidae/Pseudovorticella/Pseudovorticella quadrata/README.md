@@ -1,5 +1,4 @@
-Pseudovorticella quadrata Foissner, 1979 SPECIES
-=======
+# Pseudovorticella quadrata Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

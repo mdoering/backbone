@@ -1,5 +1,4 @@
-Hendersonula pinicola Dearn. SPECIES
-=======
+# Hendersonula pinicola Dearn. SPECIES
 
 #### Status
 ACCEPTED

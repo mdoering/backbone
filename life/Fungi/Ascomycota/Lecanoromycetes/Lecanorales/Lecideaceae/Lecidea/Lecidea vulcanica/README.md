@@ -1,5 +1,4 @@
-Lecidea vulcanica Zahlbr. SPECIES
-=======
+# Lecidea vulcanica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

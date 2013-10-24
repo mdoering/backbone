@@ -1,5 +1,4 @@
-Lecanora ventosiformis Nyl. SPECIES
-=======
+# Lecanora ventosiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus gussonei (Scalia) Bres. SPECIES
-=======
+# Pleurotus gussonei (Scalia) Bres. SPECIES
 
 #### Status
 ACCEPTED

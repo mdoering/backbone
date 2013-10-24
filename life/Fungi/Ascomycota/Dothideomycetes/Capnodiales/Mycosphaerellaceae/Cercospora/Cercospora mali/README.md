@@ -1,5 +1,4 @@
-Cercospora mali Ellis & Everh. SPECIES
-=======
+# Cercospora mali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

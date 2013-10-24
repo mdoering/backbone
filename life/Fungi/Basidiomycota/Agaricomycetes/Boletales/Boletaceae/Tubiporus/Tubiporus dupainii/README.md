@@ -1,5 +1,4 @@
-Tubiporus dupainii (Boud.) Maire SPECIES
-=======
+# Tubiporus dupainii (Boud.) Maire SPECIES
 
 #### Status
 ACCEPTED

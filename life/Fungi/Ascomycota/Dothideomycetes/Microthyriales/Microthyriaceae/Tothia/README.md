@@ -1,5 +1,4 @@
-Tothia Bat. GENUS
-=======
+# Tothia Bat. GENUS
 
 #### Status
 ACCEPTED

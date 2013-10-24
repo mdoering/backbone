@@ -1,5 +1,4 @@
-Meliola gordoniae Hosag. SPECIES
-=======
+# Meliola gordoniae Hosag. SPECIES
 
 #### Status
 ACCEPTED

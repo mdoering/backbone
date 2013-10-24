@@ -1,5 +1,4 @@
-Dictyonema melvinii Chaves, Lücking & Umaña, 2004 SPECIES
-=======
+# Dictyonema melvinii Chaves, Lücking & Umaña, 2004 SPECIES
 
 #### Status
 ACCEPTED

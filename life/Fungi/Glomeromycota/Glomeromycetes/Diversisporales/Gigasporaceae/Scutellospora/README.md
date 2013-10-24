@@ -1,5 +1,4 @@
-Scutellospora C. Walker & F.E. Sanders GENUS
-=======
+# Scutellospora C. Walker & F.E. Sanders GENUS
 
 #### Status
 ACCEPTED

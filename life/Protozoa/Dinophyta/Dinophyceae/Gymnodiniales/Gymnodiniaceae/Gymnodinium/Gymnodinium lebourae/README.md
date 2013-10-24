@@ -1,5 +1,4 @@
-Gymnodinium lebourae Pavillard SPECIES
-=======
+# Gymnodinium lebourae Pavillard SPECIES
 
 #### Status
 ACCEPTED

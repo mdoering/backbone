@@ -1,17 +1,16 @@
-Trichoderma lactea Bissett SPECIES
-=======
+# Trichoderma lacteum Bissett SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 69(11): 2367 (1992)
 
 #### Original name
-Trichoderma lactea Bissett
+Trichoderma lacteum Bissett
 
 ### Remarks
 null

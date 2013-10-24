@@ -1,5 +1,4 @@
-Lecanora psoroides Tomin SPECIES
-=======
+# Lecanora psoroides Tomin SPECIES
 
 #### Status
 ACCEPTED

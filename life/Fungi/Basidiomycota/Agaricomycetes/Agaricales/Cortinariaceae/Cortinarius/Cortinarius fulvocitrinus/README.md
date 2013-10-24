@@ -1,5 +1,4 @@
-Cortinarius fulvocitrinus Brandrud SPECIES
-=======
+# Cortinarius fulvocitrinus Brandrud SPECIES
 
 #### Status
 ACCEPTED

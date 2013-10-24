@@ -1,5 +1,4 @@
-Pertusaria stenhammarii var. stenhammarii VARIETY
-=======
+# Pertusaria stenhammarii Hellb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria stenhammarii var. stenhammarii
+Pertusaria stenhammarii Hellb.
 
 ### Remarks
 null

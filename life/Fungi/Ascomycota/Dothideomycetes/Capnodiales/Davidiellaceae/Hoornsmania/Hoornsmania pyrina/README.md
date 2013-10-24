@@ -1,5 +1,4 @@
-Hoornsmania pyrina Crous, 2007 SPECIES
-=======
+# Hoornsmania pyrina Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

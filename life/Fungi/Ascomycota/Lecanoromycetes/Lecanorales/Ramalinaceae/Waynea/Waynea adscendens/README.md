@@ -1,5 +1,4 @@
-Waynea adscendens V.J. Rico SPECIES
-=======
+# Waynea adscendens V.J. Rico SPECIES
 
 #### Status
 ACCEPTED

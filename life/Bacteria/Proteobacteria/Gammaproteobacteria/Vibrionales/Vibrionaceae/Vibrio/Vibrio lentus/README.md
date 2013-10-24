@@ -1,5 +1,4 @@
-Vibrio lentus Macián et al., 2001 SPECIES
-=======
+# Vibrio lentus Macián et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

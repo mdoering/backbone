@@ -1,17 +1,16 @@
-Peyronellaea eucalyptica (Sacc.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma eucalyptica Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 78 (1884)
 
 #### Original name
-null
+Phoma eucalyptica Sacc., 1884
 
 ### Remarks
 null

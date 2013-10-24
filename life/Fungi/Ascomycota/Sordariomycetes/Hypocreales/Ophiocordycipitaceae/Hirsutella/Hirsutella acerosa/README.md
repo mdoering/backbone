@@ -1,5 +1,4 @@
-Hirsutella acerosa H.C. Evans & Samson SPECIES
-=======
+# Hirsutella acerosa H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

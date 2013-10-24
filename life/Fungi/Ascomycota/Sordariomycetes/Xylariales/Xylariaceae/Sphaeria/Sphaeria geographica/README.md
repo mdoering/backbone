@@ -1,5 +1,4 @@
-Sphaeria geographica DC. SPECIES
-=======
+# Sphaeria geographica DC. SPECIES
 
 #### Status
 ACCEPTED

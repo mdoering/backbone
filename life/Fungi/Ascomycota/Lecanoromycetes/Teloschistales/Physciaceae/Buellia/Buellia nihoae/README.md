@@ -1,5 +1,4 @@
-Buellia nihoae H. Magn. SPECIES
-=======
+# Buellia nihoae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina hirsuta Quél. SPECIES
-=======
+# Omphalina hirsuta Quél. SPECIES
 
 #### Status
 ACCEPTED

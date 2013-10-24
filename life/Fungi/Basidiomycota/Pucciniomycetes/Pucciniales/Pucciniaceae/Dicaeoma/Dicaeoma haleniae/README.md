@@ -1,5 +1,4 @@
-Dicaeoma haleniae (Arthur & Holw.) Kuntze SPECIES
-=======
+# Dicaeoma haleniae (Arthur & Holw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

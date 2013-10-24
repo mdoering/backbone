@@ -1,5 +1,4 @@
-Lecidea cerasentera (C. Knight) SPECIES
-=======
+# Lecidea cerasentera (C. Knight) SPECIES
 
 #### Status
 ACCEPTED

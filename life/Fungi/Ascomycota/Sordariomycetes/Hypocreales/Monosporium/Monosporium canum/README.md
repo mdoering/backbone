@@ -1,5 +1,4 @@
-Monosporium canum Bonord. SPECIES
-=======
+# Monosporium canum Bonord. SPECIES
 
 #### Status
 ACCEPTED

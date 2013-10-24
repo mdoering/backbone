@@ -1,5 +1,4 @@
-Hysterium curtum P. Karst. SPECIES
-=======
+# Hysterium curtum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

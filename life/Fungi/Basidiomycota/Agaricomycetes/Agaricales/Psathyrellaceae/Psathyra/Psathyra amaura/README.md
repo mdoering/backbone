@@ -1,5 +1,4 @@
-Psathyra amaura Berk. & Broome SPECIES
-=======
+# Psathyra amaura Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

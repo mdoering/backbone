@@ -1,5 +1,4 @@
-Globulina dura Velen. SPECIES
-=======
+# Globulina dura Velen. SPECIES
 
 #### Status
 ACCEPTED

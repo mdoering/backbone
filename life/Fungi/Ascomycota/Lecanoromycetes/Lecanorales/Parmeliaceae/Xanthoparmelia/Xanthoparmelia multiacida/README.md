@@ -1,5 +1,4 @@
-Xanthoparmelia multiacida Elix SPECIES
-=======
+# Xanthoparmelia multiacida Elix SPECIES
 
 #### Status
 ACCEPTED

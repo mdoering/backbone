@@ -1,5 +1,4 @@
-Dichomitus efibulatus Ainsw. & Ryvarden SPECIES
-=======
+# Dichomitus efibulatus Ainsw. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

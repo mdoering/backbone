@@ -1,5 +1,4 @@
-Gorgadesia Tav. GENUS
-=======
+# Gorgadesia Tav. GENUS
 
 #### Status
 ACCEPTED

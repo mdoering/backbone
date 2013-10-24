@@ -1,5 +1,4 @@
-Thamnocephalis Blakeslee GENUS
-=======
+# Thamnocephalis Blakeslee GENUS
 
 #### Status
 ACCEPTED

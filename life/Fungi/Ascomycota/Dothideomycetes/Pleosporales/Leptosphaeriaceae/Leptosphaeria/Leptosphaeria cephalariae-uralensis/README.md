@@ -1,5 +1,4 @@
-Leptosphaeria cephalariae-uralensis Naumov {?} SPECIES
-=======
+# Leptosphaeria cephalariae-uralensis Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

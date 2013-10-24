@@ -1,14 +1,13 @@
-Ramularia typhae Vasyag. SPECIES
-=======
+# Kreiseliella typhae (Vasyag.) U. Braun, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Shvartsman et al. , Flora Sporovykh Rastenii Kazakhstana [Cryptogamic Flora of Kazakhstan], 8, Fungi Imperfecti (Deuteromycetes), 1. Moniliales (Alma-Ata) (Alma-Ata) 353 (1973)
+Boletus 15(2): 39 (1991)
 
 #### Original name
 Ramularia typhae Vasyag.

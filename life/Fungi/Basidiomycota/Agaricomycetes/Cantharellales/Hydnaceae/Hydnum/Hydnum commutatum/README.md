@@ -1,5 +1,4 @@
-Hydnum commutatum (Bourdot & Galzin) Pouzar SPECIES
-=======
+# Hydnum commutatum (Bourdot & Galzin) Pouzar SPECIES
 
 #### Status
 ACCEPTED

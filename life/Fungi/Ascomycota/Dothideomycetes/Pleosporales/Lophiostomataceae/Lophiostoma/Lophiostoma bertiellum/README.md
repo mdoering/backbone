@@ -1,5 +1,4 @@
-Lophiostoma bertiellum Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma bertiellum Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

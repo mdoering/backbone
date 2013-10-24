@@ -1,5 +1,4 @@
-Mycena subfumosa Murrill SPECIES
-=======
+# Mycena subfumosa Murrill SPECIES
 
 #### Status
 ACCEPTED

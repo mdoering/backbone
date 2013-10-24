@@ -1,14 +1,13 @@
-Ophiostoma brevicolla (R.W. Davidson) de Hoog & R.J. Scheff. SPECIES
-=======
+# Ophiostoma brevicolle (R.W. Davidson) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 76(2): 297 (1984)
 
 #### Original name
 Ceratocystis brevicollis R.W. Davidson, 1959

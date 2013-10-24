@@ -1,5 +1,4 @@
-Myiophagus Thaxt. ex Sparrow GENUS
-=======
+# Myiophagus Thaxt. ex Sparrow GENUS
 
 #### Status
 ACCEPTED

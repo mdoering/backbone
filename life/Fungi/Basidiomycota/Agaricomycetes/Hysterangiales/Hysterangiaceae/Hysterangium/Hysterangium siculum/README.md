@@ -1,5 +1,4 @@
-Hysterangium siculum Mattir. SPECIES
-=======
+# Hysterangium siculum Mattir. SPECIES
 
 #### Status
 ACCEPTED

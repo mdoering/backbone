@@ -1,5 +1,4 @@
-Septoria leptosphaeriicola Bat., Cavalc. & S.H. Iqbal SPECIES
-=======
+# Septoria leptosphaeriicola Bat., Cavalc. & S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

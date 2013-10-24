@@ -1,5 +1,4 @@
-Meliola meibomiae var. meibomiae (F. Stevens) Cif. VARIETY
-=======
+# Meliola meibomiae F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 7: 87 (1954)
 
 #### Original name
-Meliola meibomiae var. meibomiae (F. Stevens) Cif.
+Meliola meibomiae F. Stevens & Tehon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidesmium cucumis Niessl SPECIES
-=======
+# Sporidesmium cucumis Niessl SPECIES
 
 #### Status
 ACCEPTED

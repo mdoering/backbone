@@ -1,5 +1,4 @@
-Ramaria intricatissima (Speg.) Corner SPECIES
-=======
+# Ramaria intricatissima (Speg.) Corner SPECIES
 
 #### Status
 ACCEPTED

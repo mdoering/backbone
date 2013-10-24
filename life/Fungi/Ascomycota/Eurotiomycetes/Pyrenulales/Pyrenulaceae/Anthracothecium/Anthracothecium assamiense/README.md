@@ -1,5 +1,4 @@
-Anthracothecium assamiense (Stirt.) Ajay Singh SPECIES
-=======
+# Anthracothecium assamiense (Stirt.) Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

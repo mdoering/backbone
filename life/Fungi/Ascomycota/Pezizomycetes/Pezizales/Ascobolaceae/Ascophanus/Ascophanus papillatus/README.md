@@ -1,5 +1,4 @@
-Ascophanus papillatus Boud. SPECIES
-=======
+# Ascophanus papillatus Boud. SPECIES
 
 #### Status
 ACCEPTED

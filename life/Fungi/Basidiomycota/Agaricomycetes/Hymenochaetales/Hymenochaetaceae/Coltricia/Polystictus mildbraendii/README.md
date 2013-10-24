@@ -1,5 +1,4 @@
-Polystictus mildbraendii Herter SPECIES
-=======
+# Polystictus mildbraendii Herter SPECIES
 
 #### Status
 ACCEPTED

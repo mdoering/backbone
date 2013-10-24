@@ -1,5 +1,4 @@
-Lecidea pleistophragmoides Nyl. SPECIES
-=======
+# Lecidea pleistophragmoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

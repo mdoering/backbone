@@ -1,5 +1,4 @@
-Irenopsis chiococcae (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis chiococcae (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

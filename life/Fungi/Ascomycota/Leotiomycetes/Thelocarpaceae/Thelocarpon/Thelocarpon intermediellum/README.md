@@ -1,17 +1,16 @@
-Thelocarpon intermixtulum var. intermixtulum Nyl. VARIETY
-=======
+# Thelocarpon intermediellum Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 48: 221 (1865)
 
 #### Original name
-Thelocarpon intermixtulum var. intermixtulum Nyl.
+Thelocarpon intermediellum Nyl.
 
 ### Remarks
 null

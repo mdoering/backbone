@@ -1,5 +1,4 @@
-Lecudina krusadiensis Ganapati, 1946 SPECIES
-=======
+# Lecudina krusadiensis Ganapati, 1946 SPECIES
 
 #### Status
 ACCEPTED

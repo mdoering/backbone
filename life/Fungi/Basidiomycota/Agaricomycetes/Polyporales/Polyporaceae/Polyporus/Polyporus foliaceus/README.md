@@ -1,5 +1,4 @@
-Polyporus foliaceus (Scop.) Pers. SPECIES
-=======
+# Polyporus foliaceus (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

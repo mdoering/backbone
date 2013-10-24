@@ -1,17 +1,16 @@
-Oidium lycopersicum Cooke & Massee SPECIES
-=======
+# Oidium lycopersici Cooke & Massee, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 16(no. 80): 114 (1888)
 
 #### Original name
-Oidium lycopersicum Cooke & Massee
+Oidium lycopersici Cooke & Massee, 1888
 
 ### Remarks
 null

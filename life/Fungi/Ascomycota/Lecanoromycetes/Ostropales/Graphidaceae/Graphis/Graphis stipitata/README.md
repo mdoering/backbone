@@ -1,5 +1,4 @@
-Graphis stipitata A.W. Archer SPECIES
-=======
+# Graphis stipitata A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

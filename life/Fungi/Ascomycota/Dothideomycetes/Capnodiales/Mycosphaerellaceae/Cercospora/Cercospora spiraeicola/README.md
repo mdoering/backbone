@@ -1,5 +1,4 @@
-Cercospora spiraeicola A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora spiraeicola A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haematomyces petchii Trotter SPECIES
-=======
+# Haematomyces petchii Trotter SPECIES
 
 #### Status
 ACCEPTED

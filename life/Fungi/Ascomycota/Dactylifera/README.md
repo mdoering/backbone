@@ -1,5 +1,4 @@
-Dactylifera Alcorn GENUS
-=======
+# Dactylifera Alcorn GENUS
 
 #### Status
 ACCEPTED

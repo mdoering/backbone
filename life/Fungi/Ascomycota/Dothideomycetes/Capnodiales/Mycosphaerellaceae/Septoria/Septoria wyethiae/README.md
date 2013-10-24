@@ -1,5 +1,4 @@
-Septoria wyethiae Harkn. SPECIES
-=======
+# Septoria wyethiae Harkn. SPECIES
 
 #### Status
 ACCEPTED

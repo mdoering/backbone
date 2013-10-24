@@ -1,17 +1,16 @@
-Erysiphe actinostemmae U. Braun SPECIES
-=======
+# Erysiphe actinostemmatis U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 18(1): 123 (1983)
 
 #### Original name
-Erysiphe actinostemmae U. Braun
+Erysiphe actinostemmatis U. Braun
 
 ### Remarks
 null

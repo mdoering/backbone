@@ -1,5 +1,4 @@
-Spathidium kreutzi Foissner ß SPECIES
-=======
+# Spathidium kreutzi Foissner ß SPECIES
 
 #### Status
 ACCEPTED

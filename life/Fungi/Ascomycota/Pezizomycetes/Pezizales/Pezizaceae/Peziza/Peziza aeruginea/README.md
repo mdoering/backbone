@@ -1,5 +1,4 @@
-Peziza aeruginea Berk. SPECIES
-=======
+# Peziza aeruginea Berk. SPECIES
 
 #### Status
 ACCEPTED

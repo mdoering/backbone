@@ -1,5 +1,4 @@
-Phaeotrema sticticum Hale, 1975 SPECIES
-=======
+# Phaeotrema sticticum Hale, 1975 SPECIES
 
 #### Status
 ACCEPTED

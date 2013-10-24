@@ -1,5 +1,4 @@
-Parmelia tropica var. deformis Vain. VARIETY
-=======
+# Parmelia tropica Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 34: 33 (1896)
 
 #### Original name
-Parmelia tropica var. deformis Vain.
+Parmelia tropica Vain.
 
 ### Remarks
 null

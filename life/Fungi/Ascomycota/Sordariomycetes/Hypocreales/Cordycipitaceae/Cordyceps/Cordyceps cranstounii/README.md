@@ -1,17 +1,16 @@
-Cordyceps cranstouni Olliff SPECIES
-=======
+# Cordyceps cranstounii Olliff SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agric. Gaz. N. S. W. , Sydney 6: 408 (1895)
 
 #### Original name
-Cordyceps cranstouni Olliff
+Cordyceps cranstounii Olliff
 
 ### Remarks
 null

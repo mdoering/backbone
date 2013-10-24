@@ -1,5 +1,4 @@
-Parmelia hypotropodes Nyl. SPECIES
-=======
+# Parmelia hypotropodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

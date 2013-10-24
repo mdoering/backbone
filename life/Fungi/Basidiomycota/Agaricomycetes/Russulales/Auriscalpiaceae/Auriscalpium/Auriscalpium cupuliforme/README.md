@@ -1,5 +1,4 @@
-Auriscalpium cupuliforme (Henn.) Kuntze SPECIES
-=======
+# Auriscalpium cupuliforme (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

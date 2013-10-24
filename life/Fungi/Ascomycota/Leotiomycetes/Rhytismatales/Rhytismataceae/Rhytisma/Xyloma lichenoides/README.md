@@ -1,5 +1,4 @@
-Xyloma lichenoides DC. SPECIES
-=======
+# Xyloma lichenoides DC. SPECIES
 
 #### Status
 ACCEPTED

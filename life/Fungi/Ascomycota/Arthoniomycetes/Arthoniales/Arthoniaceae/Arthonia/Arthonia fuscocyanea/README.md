@@ -1,5 +1,4 @@
-Arthonia fuscocyanea U. Becker & Lücking SPECIES
-=======
+# Arthonia fuscocyanea U. Becker & Lücking SPECIES
 
 #### Status
 ACCEPTED

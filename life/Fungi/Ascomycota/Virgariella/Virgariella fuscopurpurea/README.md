@@ -1,5 +1,4 @@
-Virgariella fuscopurpurea (Berk. & M.A. Curtis) S. Hughes SPECIES
-=======
+# Virgariella fuscopurpurea (Berk. & M.A. Curtis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

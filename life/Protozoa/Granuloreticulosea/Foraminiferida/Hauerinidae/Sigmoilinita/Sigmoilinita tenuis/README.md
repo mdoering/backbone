@@ -1,5 +1,4 @@
-Sigmoilinita tenuis (Czjek, 1848) SPECIES
-=======
+# Sigmoilinita tenuis (Czjek, 1848) SPECIES
 
 #### Status
 ACCEPTED

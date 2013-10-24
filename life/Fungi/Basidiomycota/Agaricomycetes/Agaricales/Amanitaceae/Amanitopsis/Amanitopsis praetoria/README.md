@@ -1,5 +1,4 @@
-Amanitopsis praetoria (Fr.) Sacc. SPECIES
-=======
+# Amanitopsis praetoria (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

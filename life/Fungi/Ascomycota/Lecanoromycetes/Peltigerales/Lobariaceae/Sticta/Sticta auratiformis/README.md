@@ -1,5 +1,4 @@
-Sticta auratiformis (Räsänen) Zahlbr. SPECIES
-=======
+# Sticta auratiformis (Räsänen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

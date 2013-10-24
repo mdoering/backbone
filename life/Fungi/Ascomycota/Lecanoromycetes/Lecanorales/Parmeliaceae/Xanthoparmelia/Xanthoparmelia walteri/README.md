@@ -1,5 +1,4 @@
-Xanthoparmelia walteri M. D. E. Knox SPECIES
-=======
+# Xanthoparmelia walteri M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

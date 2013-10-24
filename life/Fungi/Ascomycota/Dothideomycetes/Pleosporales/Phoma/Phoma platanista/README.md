@@ -1,5 +1,4 @@
-Phoma platanista Fautrey SPECIES
-=======
+# Phoma platanista Fautrey SPECIES
 
 #### Status
 ACCEPTED

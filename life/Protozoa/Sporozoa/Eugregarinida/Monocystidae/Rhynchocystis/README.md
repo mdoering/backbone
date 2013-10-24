@@ -1,5 +1,4 @@
-Rhynchocystis Hesse, 1909 GENUS
-=======
+# Rhynchocystis Hesse, 1909 GENUS
 
 #### Status
 ACCEPTED

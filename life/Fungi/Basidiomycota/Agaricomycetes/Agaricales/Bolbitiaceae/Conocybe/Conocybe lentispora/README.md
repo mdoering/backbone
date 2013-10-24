@@ -1,5 +1,4 @@
-Conocybe lentispora Singer SPECIES
-=======
+# Conocybe lentispora Singer SPECIES
 
 #### Status
 ACCEPTED

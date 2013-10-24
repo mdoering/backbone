@@ -1,5 +1,4 @@
-Druppatractus variabilis Dumitrica, 1973 SPECIES
-=======
+# Druppatractus variabilis Dumitrica, 1973 SPECIES
 
 #### Status
 ACCEPTED

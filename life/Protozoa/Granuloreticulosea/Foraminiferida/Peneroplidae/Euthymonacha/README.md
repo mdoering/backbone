@@ -1,5 +1,4 @@
-Euthymonacha Loeblich & Tappan, 1994 GENUS
-=======
+# Euthymonacha Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

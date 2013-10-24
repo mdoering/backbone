@@ -1,5 +1,4 @@
-Barria Z.Q. Yuan GENUS
-=======
+# Barria Z.Q. Yuan GENUS
 
 #### Status
 ACCEPTED

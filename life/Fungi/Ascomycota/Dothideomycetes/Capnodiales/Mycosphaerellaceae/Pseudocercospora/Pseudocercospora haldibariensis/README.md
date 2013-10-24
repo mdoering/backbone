@@ -1,5 +1,4 @@
-Pseudocercospora haldibariensis (A.K. Kar & M. Mandal) U. Braun SPECIES
-=======
+# Pseudocercospora haldibariensis (A.K. Kar & M. Mandal) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septogloeum bullatum Syd. & P. Syd. SPECIES
-=======
+# Septogloeum bullatum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

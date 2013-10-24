@@ -1,5 +1,4 @@
-Geasterites Pia GENUS
-=======
+# Geasterites Pia GENUS
 
 #### Status
 ACCEPTED

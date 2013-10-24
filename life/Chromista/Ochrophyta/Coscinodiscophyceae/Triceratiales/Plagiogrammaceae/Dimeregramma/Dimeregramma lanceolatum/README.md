@@ -1,5 +1,4 @@
-Dimeregramma lanceolatum H. Peragallo & M. Peragallo SPECIES
-=======
+# Dimeregramma lanceolatum H. Peragallo & M. Peragallo SPECIES
 
 #### Status
 ACCEPTED

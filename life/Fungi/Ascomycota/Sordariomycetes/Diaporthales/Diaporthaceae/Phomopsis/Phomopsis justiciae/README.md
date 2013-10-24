@@ -1,5 +1,4 @@
-Phomopsis justiciae (Tassi) M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phomopsis justiciae (Tassi) M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

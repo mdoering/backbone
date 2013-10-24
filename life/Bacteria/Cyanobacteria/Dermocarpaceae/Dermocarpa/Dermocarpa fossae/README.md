@@ -1,5 +1,4 @@
-Dermocarpa fossae Fjerdingstad SPECIES
-=======
+# Dermocarpa fossae Fjerdingstad SPECIES
 
 #### Status
 ACCEPTED

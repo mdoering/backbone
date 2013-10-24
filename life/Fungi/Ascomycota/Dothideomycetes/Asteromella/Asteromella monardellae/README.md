@@ -1,5 +1,4 @@
-Asteromella monardellae (W.B. Cooke) Petr. SPECIES
-=======
+# Asteromella monardellae (W.B. Cooke) Petr. SPECIES
 
 #### Status
 ACCEPTED

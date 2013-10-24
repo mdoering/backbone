@@ -1,5 +1,4 @@
-Monoporisporites ovaliformis (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites ovaliformis (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

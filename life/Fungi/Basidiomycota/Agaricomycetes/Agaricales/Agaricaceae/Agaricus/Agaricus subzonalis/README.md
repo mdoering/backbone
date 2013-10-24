@@ -1,5 +1,4 @@
-Agaricus subzonalis Peck SPECIES
-=======
+# Agaricus subzonalis Peck SPECIES
 
 #### Status
 ACCEPTED

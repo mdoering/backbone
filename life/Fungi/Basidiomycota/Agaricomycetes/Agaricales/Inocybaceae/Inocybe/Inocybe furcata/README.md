@@ -1,5 +1,4 @@
-Inocybe furcata Takah. Kobay. SPECIES
-=======
+# Inocybe furcata Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

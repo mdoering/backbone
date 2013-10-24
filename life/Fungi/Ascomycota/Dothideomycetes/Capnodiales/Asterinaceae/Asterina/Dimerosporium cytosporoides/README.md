@@ -1,5 +1,4 @@
-Dimerosporium cytosporoides (Sacc.) B. Sutton SPECIES
-=======
+# Dimerosporium cytosporoides (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

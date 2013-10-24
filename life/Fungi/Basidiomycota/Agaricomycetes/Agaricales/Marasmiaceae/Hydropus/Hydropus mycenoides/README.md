@@ -1,5 +1,4 @@
-Hydropus mycenoides (Dennis) Singer SPECIES
-=======
+# Hydropus mycenoides (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

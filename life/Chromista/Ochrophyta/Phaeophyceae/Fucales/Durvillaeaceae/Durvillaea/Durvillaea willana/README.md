@@ -1,5 +1,4 @@
-Durvillaea willana Lindauer SPECIES
-=======
+# Durvillaea willana Lindauer SPECIES
 
 #### Status
 ACCEPTED

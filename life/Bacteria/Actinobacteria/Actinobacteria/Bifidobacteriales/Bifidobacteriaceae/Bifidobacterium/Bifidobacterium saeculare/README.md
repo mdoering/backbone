@@ -1,5 +1,4 @@
-Bifidobacterium saeculare Biavati et al., 1992 SPECIES
-=======
+# Bifidobacterium saeculare Biavati et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

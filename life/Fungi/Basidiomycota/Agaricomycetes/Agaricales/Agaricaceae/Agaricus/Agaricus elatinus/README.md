@@ -1,5 +1,4 @@
-Agaricus elatinus Pers. SPECIES
-=======
+# Agaricus elatinus Pers. SPECIES
 
 #### Status
 ACCEPTED

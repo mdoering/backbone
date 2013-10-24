@@ -1,5 +1,4 @@
-Coniothyrium dioscoreae V.P. Sahni SPECIES
-=======
+# Coniothyrium dioscoreae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

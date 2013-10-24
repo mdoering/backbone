@@ -1,5 +1,4 @@
-Clavaria miyabeana S. Ito SPECIES
-=======
+# Clavaria miyabeana S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe wassonii R. Heim SPECIES
-=======
+# Psilocybe wassonii R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacella myxodictyon (Berk. & Broome) Pegler SPECIES
-=======
+# Limacella myxodictyon (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

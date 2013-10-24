@@ -1,17 +1,16 @@
-Stigmatomyces pseudomedialis Thaxt. SPECIES
-=======
+# Stigmatomyces pseudomedalis Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. Amer. Acad. Arts 16: 167 (1931)
 
 #### Original name
-Stigmatomyces pseudomedialis Thaxt.
+Stigmatomyces pseudomedalis Thaxt.
 
 ### Remarks
 null

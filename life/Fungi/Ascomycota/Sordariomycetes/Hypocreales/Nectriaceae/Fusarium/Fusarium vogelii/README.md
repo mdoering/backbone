@@ -1,5 +1,4 @@
-Fusarium vogelii Henn. SPECIES
-=======
+# Fusarium vogelii Henn. SPECIES
 
 #### Status
 ACCEPTED

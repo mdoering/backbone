@@ -1,5 +1,4 @@
-Priscotheca diadela Loeblich & Tappan, 1978 SPECIES
-=======
+# Priscotheca diadela Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

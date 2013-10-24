@@ -1,5 +1,4 @@
-Lecanora peliscypha var. peliscypha VARIETY
-=======
+# Lecanora peliscypha Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora peliscypha var. peliscypha
+Lecanora peliscypha Nyl.
 
 ### Remarks
 null

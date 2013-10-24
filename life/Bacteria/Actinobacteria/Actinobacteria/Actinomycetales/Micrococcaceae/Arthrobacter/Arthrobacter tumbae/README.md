@@ -1,5 +1,4 @@
-Arthrobacter tumbae Heyrman et al., 2005 SPECIES
-=======
+# Arthrobacter tumbae Heyrman et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

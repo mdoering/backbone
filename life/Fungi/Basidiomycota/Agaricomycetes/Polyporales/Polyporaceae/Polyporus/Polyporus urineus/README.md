@@ -1,5 +1,4 @@
-Polyporus urineus Velen. SPECIES
-=======
+# Polyporus urineus Velen. SPECIES
 
 #### Status
 ACCEPTED

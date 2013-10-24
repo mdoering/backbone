@@ -1,5 +1,4 @@
-Russula dura Burl. SPECIES
-=======
+# Russula dura Burl. SPECIES
 
 #### Status
 ACCEPTED

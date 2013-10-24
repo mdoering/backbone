@@ -1,5 +1,4 @@
-Ascochyta marginata Davis SPECIES
-=======
+# Ascochyta marginata Davis SPECIES
 
 #### Status
 ACCEPTED

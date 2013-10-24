@@ -1,5 +1,4 @@
-Zignoëlla arengae Rehm SPECIES
-=======
+# Zignoëlla arengae Rehm SPECIES
 
 #### Status
 ACCEPTED

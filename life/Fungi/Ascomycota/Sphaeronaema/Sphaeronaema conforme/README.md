@@ -1,5 +1,4 @@
-Sphaeronaema conforme Peck SPECIES
-=======
+# Sphaeronaema conforme Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma hederacea Arcang. SPECIES
-=======
+# Phoma hederacea Arcang. SPECIES
 
 #### Status
 ACCEPTED

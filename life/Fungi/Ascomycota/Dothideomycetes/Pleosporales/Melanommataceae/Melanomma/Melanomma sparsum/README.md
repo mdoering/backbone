@@ -1,17 +1,16 @@
-Melanomma sparsa Fuckel SPECIES
-=======
+# Melanomma sparsum Fuckel, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 27-28: 30 (1874)
 
 #### Original name
-Melanomma sparsa Fuckel
+Melanomma sparsum Fuckel, 1874
 
 ### Remarks
 null

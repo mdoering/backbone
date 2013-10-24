@@ -1,5 +1,4 @@
-Irenina rinoreae (Doidge) F. Stevens SPECIES
-=======
+# Irenina rinoreae (Doidge) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

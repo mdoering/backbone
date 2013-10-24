@@ -1,5 +1,4 @@
-Bacidia populicola Vezda SPECIES
-=======
+# Bacidia populicola Vezda SPECIES
 
 #### Status
 ACCEPTED

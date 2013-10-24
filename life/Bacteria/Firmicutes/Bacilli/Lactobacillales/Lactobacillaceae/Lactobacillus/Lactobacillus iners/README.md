@@ -1,5 +1,4 @@
-Lactobacillus iners Falsen et al., 1999 SPECIES
-=======
+# Lactobacillus iners Falsen et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

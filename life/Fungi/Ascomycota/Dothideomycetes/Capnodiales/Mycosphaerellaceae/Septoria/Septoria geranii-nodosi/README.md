@@ -1,5 +1,4 @@
-Septoria geranii-nodosi var. geranii-nodosi VARIETY
-=======
+# Septoria geranii-nodosi C. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti 59(2): 689 (1900)
 
 #### Original name
-Septoria geranii-nodosi var. geranii-nodosi
+Septoria geranii-nodosi C. Massal.
 
 ### Remarks
 null

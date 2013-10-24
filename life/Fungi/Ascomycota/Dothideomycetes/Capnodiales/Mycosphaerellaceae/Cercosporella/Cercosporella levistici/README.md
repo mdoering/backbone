@@ -1,5 +1,4 @@
-Cercosporella levistici Kwashn. SPECIES
-=======
+# Cercosporella levistici Kwashn. SPECIES
 
 #### Status
 ACCEPTED

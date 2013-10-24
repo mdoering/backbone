@@ -1,14 +1,13 @@
-Phyllosticta embelina (N.D. Sharma) Aa & Vanev SPECIES
-=======
+# Phyllosticta embeliina (N.D. Sharma) Aa & Vanev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+A Revision of the Species Described in Phyllosticta (Utrecht) 29 (2002)
 
 #### Original name
 Phyllostictina embeliina N.D. Sharma

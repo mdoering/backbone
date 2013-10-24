@@ -1,5 +1,4 @@
-Catastoma maculatum Har. & Pat. SPECIES
-=======
+# Catastoma maculatum Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

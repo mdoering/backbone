@@ -1,5 +1,4 @@
-Sticta curvata Ach. SPECIES
-=======
+# Sticta curvata Ach. SPECIES
 
 #### Status
 ACCEPTED

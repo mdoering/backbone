@@ -1,5 +1,4 @@
-Torula epilobii Corda SPECIES
-=======
+# Torula epilobii Corda SPECIES
 
 #### Status
 ACCEPTED

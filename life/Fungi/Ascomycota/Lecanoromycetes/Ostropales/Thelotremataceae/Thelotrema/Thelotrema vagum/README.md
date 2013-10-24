@@ -1,5 +1,4 @@
-Thelotrema vagum Vain. SPECIES
-=======
+# Thelotrema vagum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium aucupariae Henn. SPECIES
-=======
+# Gloeosporium aucupariae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium gracile SPECIES
-=======
+# Balantidium gracile SPECIES
 
 #### Status
 ACCEPTED

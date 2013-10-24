@@ -1,5 +1,4 @@
-Pleospora cylindrospora Wehm. SPECIES
-=======
+# Pleospora cylindrospora Wehm. SPECIES
 
 #### Status
 ACCEPTED

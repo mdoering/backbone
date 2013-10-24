@@ -1,5 +1,4 @@
-Lecidea subfurfurosa Nyl. SPECIES
-=======
+# Lecidea subfurfurosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

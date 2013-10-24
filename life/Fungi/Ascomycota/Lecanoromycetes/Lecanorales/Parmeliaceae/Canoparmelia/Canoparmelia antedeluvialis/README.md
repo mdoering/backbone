@@ -1,17 +1,16 @@
-Parmelia antedeluvialis Brusse & Sipman SPECIES
-=======
+# Canoparmelia antedeluvialis (Brusse & Sipman) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 63: 340 (1997)
 
 #### Original name
-null
+Parmelia antedeluvialis Brusse & Sipman
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma tremellae Pat. SPECIES
-=======
+# Phoma tremellae Pat. SPECIES
 
 #### Status
 ACCEPTED

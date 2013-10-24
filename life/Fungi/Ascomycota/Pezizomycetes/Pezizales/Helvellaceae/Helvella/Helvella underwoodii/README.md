@@ -1,17 +1,16 @@
-Elvela underwoodii Seaver SPECIES
-=======
+# Helvella underwoodii Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+North American Cup-fungi (New York), (Operculates) 254 (1928)
 
 #### Original name
-Elvela underwoodii Seaver
+Helvella underwoodii Seaver
 
 ### Remarks
 null

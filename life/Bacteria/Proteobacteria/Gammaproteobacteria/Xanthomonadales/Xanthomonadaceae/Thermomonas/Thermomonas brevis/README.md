@@ -1,5 +1,4 @@
-Thermomonas brevis Mergaert et al., 2003 SPECIES
-=======
+# Thermomonas brevis Mergaert et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

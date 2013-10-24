@@ -1,5 +1,4 @@
-Arthonia phlyctidicola (Vouaux) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia phlyctidicola (Vouaux) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

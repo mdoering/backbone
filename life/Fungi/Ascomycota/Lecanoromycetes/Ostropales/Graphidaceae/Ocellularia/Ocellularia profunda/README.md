@@ -1,17 +1,16 @@
-Ascidium profundum Stirt. SPECIES
-=======
+# Ocellularia profunda (Stirt.) Mangold, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 70 (1881)
+null
 
 #### Original name
-Ascidium profundum Stirt.
+null
 
 ### Remarks
 null

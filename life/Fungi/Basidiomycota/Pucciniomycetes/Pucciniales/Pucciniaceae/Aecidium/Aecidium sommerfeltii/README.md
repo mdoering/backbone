@@ -1,5 +1,4 @@
-Aecidium sommerfeltii Johanson SPECIES
-=======
+# Aecidium sommerfeltii Johanson SPECIES
 
 #### Status
 ACCEPTED

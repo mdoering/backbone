@@ -1,5 +1,4 @@
-Lernella inflata (Le Roy, 1944) SPECIES
-=======
+# Lernella inflata (Le Roy, 1944) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocorys reticulata Graham, 1942 SPECIES
-=======
+# Ceratocorys reticulata Graham, 1942 SPECIES
 
 #### Status
 ACCEPTED

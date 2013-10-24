@@ -1,5 +1,4 @@
-Cercosporina verbenae-strictae (Peck) Sacc. SPECIES
-=======
+# Cercosporina verbenae-strictae (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

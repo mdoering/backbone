@@ -1,5 +1,4 @@
-Lactobacillus harbinensis Miyamoto et al., 2006 SPECIES
-=======
+# Lactobacillus harbinensis Miyamoto et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

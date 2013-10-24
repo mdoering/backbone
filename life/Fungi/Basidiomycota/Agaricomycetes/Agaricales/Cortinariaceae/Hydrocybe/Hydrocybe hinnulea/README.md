@@ -1,5 +1,4 @@
-Hydrocybe hinnulea (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe hinnulea (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

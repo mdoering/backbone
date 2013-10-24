@@ -1,5 +1,4 @@
-Pseudocercospora lepidagathidis U. Braun & Crous SPECIES
-=======
+# Pseudocercospora lepidagathidis U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

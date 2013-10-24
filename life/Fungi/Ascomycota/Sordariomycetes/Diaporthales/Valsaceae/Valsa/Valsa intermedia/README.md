@@ -1,5 +1,4 @@
-Valsa intermedia Nitschke, 1870 SPECIES
-=======
+# Valsa intermedia Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium nubilosum Ellis & Everh. SPECIES
-=======
+# Cryptosporium nubilosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

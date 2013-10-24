@@ -1,5 +1,4 @@
-Kordyanella austriaca Höhn. SPECIES
-=======
+# Kordyanella austriaca Höhn. SPECIES
 
 #### Status
 ACCEPTED

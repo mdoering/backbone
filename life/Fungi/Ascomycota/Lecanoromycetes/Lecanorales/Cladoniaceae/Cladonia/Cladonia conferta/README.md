@@ -1,5 +1,4 @@
-Cladonia conferta Stirt. SPECIES
-=======
+# Cladonia conferta Stirt. SPECIES
 
 #### Status
 ACCEPTED

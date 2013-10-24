@@ -1,5 +1,4 @@
-Mucor fuscipes Sowerby SPECIES
-=======
+# Mucor fuscipes Sowerby SPECIES
 
 #### Status
 ACCEPTED

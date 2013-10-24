@@ -1,5 +1,4 @@
-Cladosporium clavatum Schwabe SPECIES
-=======
+# Cladosporium clavatum Schwabe SPECIES
 
 #### Status
 ACCEPTED

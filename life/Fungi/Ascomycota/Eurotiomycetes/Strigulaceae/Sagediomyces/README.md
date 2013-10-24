@@ -1,5 +1,4 @@
-Sagediomyces GENUS
-=======
+# Sagediomyces GENUS
 
 #### Status
 ACCEPTED

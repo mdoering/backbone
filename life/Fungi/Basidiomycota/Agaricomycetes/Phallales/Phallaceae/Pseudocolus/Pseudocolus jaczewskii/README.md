@@ -1,5 +1,4 @@
-Pseudocolus jaczewskii Woronow SPECIES
-=======
+# Pseudocolus jaczewskii Woronow SPECIES
 
 #### Status
 ACCEPTED

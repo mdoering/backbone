@@ -1,17 +1,16 @@
-Phyllosticta mellae Ellis & Everh. SPECIES
-=======
+# Phyllosticta meliae Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 4(1): 9 (1888)
 
 #### Original name
-Phyllosticta mellae Ellis & Everh.
+Phyllosticta meliae Ellis & Everh.
 
 ### Remarks
 null

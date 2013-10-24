@@ -1,5 +1,4 @@
-Dothiorella rhaphidophorae (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella rhaphidophorae (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

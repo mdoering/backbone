@@ -1,5 +1,4 @@
-Asteroma pseudacori Allesch. SPECIES
-=======
+# Asteroma pseudacori Allesch. SPECIES
 
 #### Status
 ACCEPTED

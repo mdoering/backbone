@@ -1,5 +1,4 @@
-Simonyella J. Steiner GENUS
-=======
+# Simonyella J. Steiner GENUS
 
 #### Status
 ACCEPTED

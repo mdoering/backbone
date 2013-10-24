@@ -1,5 +1,4 @@
-Desulfocapsa sulfexigens Finster, Liesack & Thamdrup, 1998 SPECIES
-=======
+# Desulfocapsa sulfexigens Finster, Liesack & Thamdrup, 1998 SPECIES
 
 #### Status
 ACCEPTED

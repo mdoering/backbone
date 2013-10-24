@@ -1,5 +1,4 @@
-Mundkurella japonica Denchev & Kakish. SPECIES
-=======
+# Mundkurella japonica Denchev & Kakish. SPECIES
 
 #### Status
 ACCEPTED

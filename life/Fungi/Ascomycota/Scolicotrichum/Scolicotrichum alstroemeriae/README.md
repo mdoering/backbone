@@ -1,5 +1,4 @@
-Scolicotrichum alstroemeriae Allesch. SPECIES
-=======
+# Scolicotrichum alstroemeriae Allesch. SPECIES
 
 #### Status
 ACCEPTED

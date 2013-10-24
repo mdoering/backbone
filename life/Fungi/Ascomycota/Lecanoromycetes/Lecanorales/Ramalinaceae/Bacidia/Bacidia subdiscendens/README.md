@@ -1,5 +1,4 @@
-Bacidia subdiscendens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subdiscendens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

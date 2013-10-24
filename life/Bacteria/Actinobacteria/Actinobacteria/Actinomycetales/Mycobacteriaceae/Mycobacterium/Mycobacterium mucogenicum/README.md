@@ -1,5 +1,4 @@
-Mycobacterium mucogenicum Springer et al., 1995 SPECIES
-=======
+# Mycobacterium mucogenicum Springer et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

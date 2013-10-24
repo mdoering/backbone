@@ -1,5 +1,4 @@
-Coelomycidium Debais. GENUS
-=======
+# Coelomycidium Debais. GENUS
 
 #### Status
 ACCEPTED

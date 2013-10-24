@@ -1,5 +1,4 @@
-Phoma costaricensis Echandi, 1957 SPECIES
-=======
+# Phoma costaricensis Echandi, 1957 SPECIES
 
 #### Status
 ACCEPTED

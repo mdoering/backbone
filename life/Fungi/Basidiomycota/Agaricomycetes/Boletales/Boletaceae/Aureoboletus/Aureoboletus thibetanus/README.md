@@ -1,14 +1,13 @@
-Boletus thibetanus Pat., 1895 SPECIES
-=======
+# Aureoboletus thibetanus (Pat.) Hongo & Nagas., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11: 196 (1895)
+Rep. Tottori Mycol. Inst. 18: 133 (1980)
 
 #### Original name
 Boletus thibetanus Pat., 1895

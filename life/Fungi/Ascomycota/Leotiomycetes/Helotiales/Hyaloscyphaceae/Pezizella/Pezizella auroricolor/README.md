@@ -1,5 +1,4 @@
-Pezizella auroricolor Rehm SPECIES
-=======
+# Pezizella auroricolor Rehm SPECIES
 
 #### Status
 ACCEPTED

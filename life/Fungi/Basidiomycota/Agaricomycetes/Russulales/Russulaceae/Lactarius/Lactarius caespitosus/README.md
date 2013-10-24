@@ -1,5 +1,4 @@
-Lactarius caespitosus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius caespitosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

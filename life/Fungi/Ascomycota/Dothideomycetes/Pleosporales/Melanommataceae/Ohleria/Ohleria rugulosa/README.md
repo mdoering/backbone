@@ -1,5 +1,4 @@
-Ohleria rugulosa Fuckel, 1870 SPECIES
-=======
+# Ohleria rugulosa Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcosoma GENUS
-=======
+# Arcosoma GENUS
 
 #### Status
 ACCEPTED

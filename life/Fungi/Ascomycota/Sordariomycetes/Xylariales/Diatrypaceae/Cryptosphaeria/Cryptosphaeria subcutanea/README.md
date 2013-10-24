@@ -1,14 +1,13 @@
-Eutypa subcutanea (Wahlenb.) Sacc., 1882 SPECIES
-=======
+# Cryptosphaeria subcutanea (Wahlenb.) Rappaz, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 165 (1882)
+Mycotaxon 20(2): 581 (1984)
 
 #### Original name
 Sphaeria subcutanea Wahlenb., 1812

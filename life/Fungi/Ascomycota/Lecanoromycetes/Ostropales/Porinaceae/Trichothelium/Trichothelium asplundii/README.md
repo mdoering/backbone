@@ -1,5 +1,4 @@
-Trichothelium asplundii R. Sant. SPECIES
-=======
+# Trichothelium asplundii R. Sant. SPECIES
 
 #### Status
 ACCEPTED

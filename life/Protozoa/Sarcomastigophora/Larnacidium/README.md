@@ -1,5 +1,4 @@
-Larnacidium Haeckel, 1887 GENUS
-=======
+# Larnacidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

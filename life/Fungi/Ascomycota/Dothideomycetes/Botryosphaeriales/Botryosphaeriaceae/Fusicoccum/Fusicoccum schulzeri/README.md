@@ -1,5 +1,4 @@
-Fusicoccum schulzeri Sacc. SPECIES
-=======
+# Fusicoccum schulzeri Sacc. SPECIES
 
 #### Status
 ACCEPTED

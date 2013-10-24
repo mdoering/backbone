@@ -1,5 +1,4 @@
-Gloeosporium cathami Hori & Hemmi SPECIES
-=======
+# Gloeosporium cathami Hori & Hemmi SPECIES
 
 #### Status
 ACCEPTED

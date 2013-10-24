@@ -1,5 +1,4 @@
-Drechslera neergaardii Danquah SPECIES
-=======
+# Drechslera neergaardii Danquah SPECIES
 
 #### Status
 ACCEPTED

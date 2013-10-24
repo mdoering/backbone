@@ -1,5 +1,4 @@
-Colletotrichum catechu Died. SPECIES
-=======
+# Colletotrichum catechu Died. SPECIES
 
 #### Status
 ACCEPTED

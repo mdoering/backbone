@@ -1,5 +1,4 @@
-Uromyces chorizanthis Ellis & Harkn. SPECIES
-=======
+# Uromyces chorizanthis Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

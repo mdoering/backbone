@@ -1,5 +1,4 @@
-Pertusaria rhexostoma Nyl. SPECIES
-=======
+# Pertusaria rhexostoma Nyl. SPECIES
 
 #### Status
 ACCEPTED

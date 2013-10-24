@@ -1,5 +1,4 @@
-Puccinia winteri Pazschke SPECIES
-=======
+# Puccinia winteri Pazschke SPECIES
 
 #### Status
 ACCEPTED

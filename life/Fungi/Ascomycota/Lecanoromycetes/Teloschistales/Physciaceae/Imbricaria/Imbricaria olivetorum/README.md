@@ -1,5 +1,4 @@
-Imbricaria olivetorum (Ach.) Arnold SPECIES
-=======
+# Imbricaria olivetorum (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum aureum P. Crouan & H. Crouan SPECIES
-=======
+# Stilbum aureum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

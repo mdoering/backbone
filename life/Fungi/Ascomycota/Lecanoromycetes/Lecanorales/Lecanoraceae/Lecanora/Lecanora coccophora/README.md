@@ -1,5 +1,4 @@
-Lecanora coccophora (Mont.) Nyl. SPECIES
-=======
+# Lecanora coccophora (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

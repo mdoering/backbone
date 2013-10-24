@@ -1,5 +1,4 @@
-Meionomyces astenicola Thaxt., 1931 SPECIES
-=======
+# Meionomyces astenicola Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

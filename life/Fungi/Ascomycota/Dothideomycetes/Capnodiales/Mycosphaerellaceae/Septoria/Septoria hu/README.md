@@ -1,5 +1,4 @@
-Septoria hu Speg. SPECIES
-=======
+# Septoria hu Speg. SPECIES
 
 #### Status
 ACCEPTED

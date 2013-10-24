@@ -1,5 +1,4 @@
-Protocreopsis Yoshim. Doi GENUS
-=======
+# Protocreopsis Yoshim. Doi GENUS
 
 #### Status
 ACCEPTED

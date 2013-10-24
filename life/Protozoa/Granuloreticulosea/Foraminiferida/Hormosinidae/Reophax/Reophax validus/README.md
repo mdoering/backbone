@@ -1,5 +1,4 @@
-Reophax validus Hada, 1957 SPECIES
-=======
+# Reophax validus Hada, 1957 SPECIES
 
 #### Status
 ACCEPTED

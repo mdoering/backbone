@@ -1,5 +1,4 @@
-Metasphaeria epipteridea (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Metasphaeria epipteridea (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyplaca Torres & Schwarzbold, 2002 GENUS
-=======
+# Polyplaca Torres & Schwarzbold, 2002 GENUS
 
 #### Status
 ACCEPTED

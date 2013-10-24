@@ -1,5 +1,4 @@
-Zonooidium disciforme Timofeev, 1957 SPECIES
-=======
+# Zonooidium disciforme Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

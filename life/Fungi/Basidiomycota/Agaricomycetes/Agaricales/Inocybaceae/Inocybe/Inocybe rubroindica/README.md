@@ -1,5 +1,4 @@
-Inocybe rubroindica Bonn. {?} & Peck SPECIES
-=======
+# Inocybe rubroindica Bonn. {?} & Peck SPECIES
 
 #### Status
 ACCEPTED

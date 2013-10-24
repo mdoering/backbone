@@ -1,5 +1,4 @@
-Beltraniopsis aquatica R.F. Castañeda & M. Stadler SPECIES
-=======
+# Beltraniopsis aquatica R.F. Castañeda & M. Stadler SPECIES
 
 #### Status
 ACCEPTED

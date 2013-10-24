@@ -1,5 +1,4 @@
-Phoma verrucariae Vouaux SPECIES
-=======
+# Phoma verrucariae Vouaux SPECIES
 
 #### Status
 ACCEPTED

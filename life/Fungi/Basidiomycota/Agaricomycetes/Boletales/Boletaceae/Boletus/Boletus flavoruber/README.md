@@ -1,5 +1,4 @@
-Boletus flavoruber Halling & M. Mata SPECIES
-=======
+# Boletus flavoruber Halling & M. Mata SPECIES
 
 #### Status
 ACCEPTED

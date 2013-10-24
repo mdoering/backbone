@@ -1,5 +1,4 @@
-Polyangium simplex Thaxt. SPECIES
-=======
+# Polyangium simplex Thaxt. SPECIES
 
 #### Status
 ACCEPTED

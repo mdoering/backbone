@@ -1,5 +1,4 @@
-Stschapovia flagellaris A.D.Zinova SPECIES
-=======
+# Stschapovia flagellaris A.D.Zinova SPECIES
 
 #### Status
 ACCEPTED

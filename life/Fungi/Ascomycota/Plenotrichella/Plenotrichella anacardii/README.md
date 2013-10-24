@@ -1,5 +1,4 @@
-Plenotrichella anacardii Bat. & C.A.A. Costa SPECIES
-=======
+# Plenotrichella anacardii Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

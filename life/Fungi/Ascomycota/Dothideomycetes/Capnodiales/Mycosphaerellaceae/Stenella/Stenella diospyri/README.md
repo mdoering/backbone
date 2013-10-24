@@ -1,5 +1,4 @@
-Stenella diospyri (Thüm.) U. Braun SPECIES
-=======
+# Stenella diospyri (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

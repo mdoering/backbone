@@ -1,5 +1,4 @@
-Valsa detrusa (Fr.) SPECIES
-=======
+# Valsa detrusa (Fr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella oculata (Syd.) Sacc. SPECIES
-=======
+# Sphaerella oculata (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

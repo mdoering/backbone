@@ -1,5 +1,4 @@
-Lecanora dubertretii Werner SPECIES
-=======
+# Lecanora dubertretii Werner SPECIES
 
 #### Status
 ACCEPTED

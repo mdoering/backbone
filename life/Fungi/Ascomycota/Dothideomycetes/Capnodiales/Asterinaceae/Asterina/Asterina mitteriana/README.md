@@ -1,5 +1,4 @@
-Asterina mitteriana Syd. SPECIES
-=======
+# Asterina mitteriana Syd. SPECIES
 
 #### Status
 ACCEPTED

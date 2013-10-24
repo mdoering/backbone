@@ -1,5 +1,4 @@
-Phomopsis myriosticta Sacc. SPECIES
-=======
+# Phomopsis myriosticta Sacc. SPECIES
 
 #### Status
 ACCEPTED

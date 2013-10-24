@@ -1,5 +1,4 @@
-Resupinatus dorotheae G. Stev. SPECIES
-=======
+# Resupinatus dorotheae G. Stev. SPECIES
 
 #### Status
 ACCEPTED

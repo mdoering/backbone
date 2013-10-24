@@ -1,5 +1,4 @@
-Phlegmacium pseudoglaucopus Jul. Schäff. ex M.M. Moser SPECIES
-=======
+# Phlegmacium pseudoglaucopus Jul. Schäff. ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

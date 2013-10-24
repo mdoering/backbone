@@ -1,5 +1,4 @@
-Hypocrea cornu-damae Pat. SPECIES
-=======
+# Hypocrea cornu-damae Pat. SPECIES
 
 #### Status
 ACCEPTED

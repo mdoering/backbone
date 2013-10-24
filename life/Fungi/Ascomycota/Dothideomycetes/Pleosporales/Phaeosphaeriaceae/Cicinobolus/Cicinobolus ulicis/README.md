@@ -1,8 +1,7 @@
-Cicinnobolus ulicis J.F. Adams SPECIES
-=======
+# Cicinobolus ulicis J.F. Adams SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus ulicis J.F. Adams
+Cicinobolus ulicis J.F. Adams
 
 ### Remarks
 null

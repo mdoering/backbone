@@ -1,5 +1,4 @@
-Oospora placentiformis (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora placentiformis (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

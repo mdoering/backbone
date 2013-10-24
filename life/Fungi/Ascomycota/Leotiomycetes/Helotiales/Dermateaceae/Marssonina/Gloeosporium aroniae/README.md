@@ -1,5 +1,4 @@
-Gloeosporium aroniae Kill. SPECIES
-=======
+# Gloeosporium aroniae Kill. SPECIES
 
 #### Status
 ACCEPTED

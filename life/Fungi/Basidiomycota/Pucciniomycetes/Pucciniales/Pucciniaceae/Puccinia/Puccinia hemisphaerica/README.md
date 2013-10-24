@@ -1,5 +1,4 @@
-Puccinia hemisphaerica Lindr. SPECIES
-=======
+# Puccinia hemisphaerica Lindr. SPECIES
 
 #### Status
 ACCEPTED

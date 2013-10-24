@@ -1,5 +1,4 @@
-Genea macrosiphon Gilkey SPECIES
-=======
+# Genea macrosiphon Gilkey SPECIES
 
 #### Status
 ACCEPTED

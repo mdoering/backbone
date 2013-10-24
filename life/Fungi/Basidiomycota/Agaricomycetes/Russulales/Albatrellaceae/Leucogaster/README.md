@@ -1,5 +1,4 @@
-Leucogaster R. Hesse GENUS
-=======
+# Leucogaster R. Hesse GENUS
 
 #### Status
 ACCEPTED

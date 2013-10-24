@@ -1,5 +1,4 @@
-Lenticulina cushmani SPECIES
-=======
+# Lenticulina cushmani SPECIES
 
 #### Status
 ACCEPTED

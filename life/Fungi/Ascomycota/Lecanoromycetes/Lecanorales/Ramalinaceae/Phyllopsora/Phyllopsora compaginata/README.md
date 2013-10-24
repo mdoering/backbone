@@ -1,5 +1,4 @@
-Phyllopsora compaginata (Müll. Arg.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora compaginata (Müll. Arg.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

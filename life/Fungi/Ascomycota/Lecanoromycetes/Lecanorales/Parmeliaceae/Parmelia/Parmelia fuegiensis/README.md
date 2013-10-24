@@ -1,5 +1,4 @@
-Parmelia fuegiensis C.W. Dodge SPECIES
-=======
+# Parmelia fuegiensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

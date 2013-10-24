@@ -1,5 +1,4 @@
-Diaporthe albocincta (Cooke & Peck) Sacc. SPECIES
-=======
+# Diaporthe albocincta (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

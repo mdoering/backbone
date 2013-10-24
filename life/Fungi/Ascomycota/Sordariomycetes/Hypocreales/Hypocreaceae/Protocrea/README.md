@@ -1,5 +1,4 @@
-Protocrea Petch, 1937 GENUS
-=======
+# Protocrea Petch, 1937 GENUS
 
 #### Status
 ACCEPTED

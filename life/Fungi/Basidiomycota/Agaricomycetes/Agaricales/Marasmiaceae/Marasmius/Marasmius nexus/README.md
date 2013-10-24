@@ -1,5 +1,4 @@
-Marasmius nexus Desjardin & E. Horak SPECIES
-=======
+# Marasmius nexus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

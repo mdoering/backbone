@@ -1,5 +1,4 @@
-Russula fosteriana Murrill SPECIES
-=======
+# Russula fosteriana Murrill SPECIES
 
 #### Status
 ACCEPTED

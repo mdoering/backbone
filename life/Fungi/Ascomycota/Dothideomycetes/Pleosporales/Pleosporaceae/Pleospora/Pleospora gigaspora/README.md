@@ -1,17 +1,16 @@
-Pleospora gigaspora var. gigaspora VARIETY
-=======
+# Pleospora gigaspora P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 23: 37 (1884)
 
 #### Original name
-Pleospora gigaspora var. gigaspora
+Pleospora gigaspora P. Karst., 1884
 
 ### Remarks
 null

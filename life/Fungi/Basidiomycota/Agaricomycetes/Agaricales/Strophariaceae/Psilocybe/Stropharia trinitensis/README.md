@@ -1,5 +1,4 @@
-Stropharia trinitensis (Dennis) Cortez SPECIES
-=======
+# Stropharia trinitensis (Dennis) Cortez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagedia bivinacea Norman SPECIES
-=======
+# Sagedia bivinacea Norman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe fibulata Pegler SPECIES
-=======
+# Rhodocybe fibulata Pegler SPECIES
 
 #### Status
 ACCEPTED

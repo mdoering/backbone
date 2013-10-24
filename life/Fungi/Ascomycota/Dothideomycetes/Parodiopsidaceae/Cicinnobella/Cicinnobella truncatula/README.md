@@ -1,5 +1,4 @@
-Cicinnobella truncatula Cif. SPECIES
-=======
+# Cicinnobella truncatula Cif. SPECIES
 
 #### Status
 ACCEPTED

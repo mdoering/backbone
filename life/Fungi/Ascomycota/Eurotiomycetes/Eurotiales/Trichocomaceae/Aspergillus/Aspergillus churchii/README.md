@@ -1,5 +1,4 @@
-Aspergillus churchii Mosseray SPECIES
-=======
+# Aspergillus churchii Mosseray SPECIES
 
 #### Status
 ACCEPTED

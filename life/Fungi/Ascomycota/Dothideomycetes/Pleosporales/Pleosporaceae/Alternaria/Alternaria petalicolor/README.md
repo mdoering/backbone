@@ -1,5 +1,4 @@
-Alternaria petalicolor (Sorokin) E.G. Simmons SPECIES
-=======
+# Alternaria petalicolor (Sorokin) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

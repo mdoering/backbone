@@ -1,5 +1,4 @@
-Tylopilus rubrobrunneus Mazzer & A.H. Sm. SPECIES
-=======
+# Tylopilus rubrobrunneus Mazzer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

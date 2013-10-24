@@ -1,5 +1,4 @@
-Peziza cordovensis Cooke SPECIES
-=======
+# Peziza cordovensis Cooke SPECIES
 
 #### Status
 ACCEPTED

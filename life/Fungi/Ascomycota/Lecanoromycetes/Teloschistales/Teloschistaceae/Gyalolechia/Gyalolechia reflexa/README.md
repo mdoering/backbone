@@ -1,5 +1,4 @@
-Gyalolechia reflexa (Nyl.) Dalla Torre & Sarnth. SPECIES
-=======
+# Gyalolechia reflexa (Nyl.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus nucidae V. Brig. SPECIES
-=======
+# Agaricus nucidae V. Brig. SPECIES
 
 #### Status
 ACCEPTED

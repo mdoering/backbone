@@ -1,5 +1,4 @@
-Cyclotella ocellata-kutzingiana, nom. illeg. SPECIES
-=======
+# Cyclotella ocellata-kutzingiana, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

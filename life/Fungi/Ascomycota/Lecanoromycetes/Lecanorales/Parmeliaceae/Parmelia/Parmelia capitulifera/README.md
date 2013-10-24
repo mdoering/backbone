@@ -1,5 +1,4 @@
-Parmelia capitulifera Zahlbr. SPECIES
-=======
+# Parmelia capitulifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

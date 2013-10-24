@@ -1,5 +1,4 @@
-Marasmius leptus Singer SPECIES
-=======
+# Marasmius leptus Singer SPECIES
 
 #### Status
 ACCEPTED

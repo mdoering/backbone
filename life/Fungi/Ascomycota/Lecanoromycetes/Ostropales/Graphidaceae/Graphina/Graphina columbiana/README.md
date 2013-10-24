@@ -1,5 +1,4 @@
-Graphina columbiana (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina columbiana (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

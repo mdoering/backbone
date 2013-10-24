@@ -1,5 +1,4 @@
-Lachnella subfalcispora D.A. Reid SPECIES
-=======
+# Lachnella subfalcispora D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

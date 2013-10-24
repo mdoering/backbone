@@ -1,5 +1,4 @@
-Volutella punctata (Preuss) Sacc. SPECIES
-=======
+# Volutella punctata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

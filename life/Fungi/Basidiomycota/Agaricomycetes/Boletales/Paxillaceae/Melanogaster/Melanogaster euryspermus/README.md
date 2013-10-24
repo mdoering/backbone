@@ -1,5 +1,4 @@
-Melanogaster euryspermus (Zeller & C.W. Dodge) Zeller SPECIES
-=======
+# Melanogaster euryspermus (Zeller & C.W. Dodge) Zeller SPECIES
 
 #### Status
 ACCEPTED

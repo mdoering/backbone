@@ -1,5 +1,4 @@
-Sphaerella exigua (Syd.) Sacc. SPECIES
-=======
+# Sphaerella exigua (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peltosphaeria monosporae Srinivasulu & P.G. Sathe SPECIES
-=======
+# Peltosphaeria monospora Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 6(2): 61 (1971)
 
 #### Original name
-Peltosphaeria monosporae Srinivasulu & P.G. Sathe
+Peltosphaeria monospora Srinivasulu & P.G. Sathe
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Praeconosphaera GENUS
-=======
+# Praeconosphaera GENUS
 
 #### Status
 ACCEPTED

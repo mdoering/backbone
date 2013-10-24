@@ -1,5 +1,4 @@
-Cryptovalsa arundinacea Sacc. SPECIES
-=======
+# Cryptovalsa arundinacea Sacc. SPECIES
 
 #### Status
 ACCEPTED

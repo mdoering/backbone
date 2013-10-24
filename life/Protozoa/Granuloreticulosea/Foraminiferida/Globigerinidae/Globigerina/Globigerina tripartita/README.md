@@ -1,5 +1,4 @@
-Globigerina tripartita Koch SPECIES
-=======
+# Globigerina tripartita Koch SPECIES
 
 #### Status
 ACCEPTED

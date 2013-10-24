@@ -1,5 +1,4 @@
-Smittium biforme M.M. White & Lichtw., 2004 SPECIES
-=======
+# Smittium biforme M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

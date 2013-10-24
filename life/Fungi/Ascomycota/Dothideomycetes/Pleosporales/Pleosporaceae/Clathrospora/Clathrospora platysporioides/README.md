@@ -1,5 +1,4 @@
-Clathrospora platysporioides M.L. Farr & Horner SPECIES
-=======
+# Clathrospora platysporioides M.L. Farr & Horner SPECIES
 
 #### Status
 ACCEPTED

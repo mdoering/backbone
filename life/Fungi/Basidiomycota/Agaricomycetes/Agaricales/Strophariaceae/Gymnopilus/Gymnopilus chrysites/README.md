@@ -1,5 +1,4 @@
-Gymnopilus chrysites (Berk.) Singer SPECIES
-=======
+# Gymnopilus chrysites (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

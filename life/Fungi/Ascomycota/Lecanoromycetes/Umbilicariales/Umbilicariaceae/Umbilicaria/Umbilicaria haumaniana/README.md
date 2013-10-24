@@ -1,5 +1,4 @@
-Umbilicaria haumaniana Frey SPECIES
-=======
+# Umbilicaria haumaniana Frey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma eatoniae Tassi SPECIES
-=======
+# Phoma eatoniae Tassi SPECIES
 
 #### Status
 ACCEPTED

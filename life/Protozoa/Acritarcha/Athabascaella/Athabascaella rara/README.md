@@ -1,5 +1,4 @@
-Athabascaella rara Yin Leiming, 1995 SPECIES
-=======
+# Athabascaella rara Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

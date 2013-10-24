@@ -1,5 +1,4 @@
-Phaeospora catolechiae Zopf SPECIES
-=======
+# Phaeospora catolechiae Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia viridifarinosa Coppins & P. James SPECIES
-=======
+# Bacidia viridifarinosa Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

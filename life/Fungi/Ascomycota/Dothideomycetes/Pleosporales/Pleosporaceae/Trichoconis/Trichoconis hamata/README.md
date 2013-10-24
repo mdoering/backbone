@@ -1,5 +1,4 @@
-Trichoconis hamata (Hansf.) Deighton & Piroz. SPECIES
-=======
+# Trichoconis hamata (Hansf.) Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

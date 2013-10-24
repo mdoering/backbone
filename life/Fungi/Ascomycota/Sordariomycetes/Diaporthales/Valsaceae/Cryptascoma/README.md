@@ -1,5 +1,4 @@
-Cryptascoma Ananthap. GENUS
-=======
+# Cryptascoma Ananthap. GENUS
 
 #### Status
 ACCEPTED

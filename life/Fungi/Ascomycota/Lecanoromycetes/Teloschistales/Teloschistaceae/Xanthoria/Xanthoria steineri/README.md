@@ -1,5 +1,4 @@
-Xanthoria steineri Poelt SPECIES
-=======
+# Xanthoria steineri Poelt SPECIES
 
 #### Status
 ACCEPTED

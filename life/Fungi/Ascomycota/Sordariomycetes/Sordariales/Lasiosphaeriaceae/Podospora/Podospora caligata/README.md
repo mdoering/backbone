@@ -1,5 +1,4 @@
-Podospora caligata R.S. Khan & Cain SPECIES
-=======
+# Podospora caligata R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

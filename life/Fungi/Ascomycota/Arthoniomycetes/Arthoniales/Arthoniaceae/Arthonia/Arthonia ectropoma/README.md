@@ -1,5 +1,4 @@
-Arthonia ectropoma (A. Massal.) Trevis. SPECIES
-=======
+# Arthonia ectropoma (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

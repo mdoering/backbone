@@ -1,5 +1,4 @@
-Ascochyta funkiae-sieboldianae Punith. SPECIES
-=======
+# Ascochyta funkiae-sieboldianae Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zwackhiomyces arenicola R.C. Harris SPECIES
-=======
+# Zwackhiomyces arenicola R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

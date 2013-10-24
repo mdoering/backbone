@@ -1,5 +1,4 @@
-Cortinarius cervinoporphyreus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius cervinoporphyreus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

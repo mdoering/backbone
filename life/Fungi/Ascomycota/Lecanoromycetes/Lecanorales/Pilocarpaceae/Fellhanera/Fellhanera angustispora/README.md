@@ -1,5 +1,4 @@
-Fellhanera angustispora Lücking SPECIES
-=======
+# Fellhanera angustispora Lücking SPECIES
 
 #### Status
 ACCEPTED

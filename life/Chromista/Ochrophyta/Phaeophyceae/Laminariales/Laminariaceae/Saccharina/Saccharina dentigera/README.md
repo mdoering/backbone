@@ -1,5 +1,4 @@
-Saccharina dentigera (Kjellman) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2005 SPECIES
-=======
+# Saccharina dentigera (Kjellman) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2005 SPECIES
 
 #### Status
 ACCEPTED

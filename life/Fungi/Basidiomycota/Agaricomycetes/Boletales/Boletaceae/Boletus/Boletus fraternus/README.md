@@ -1,5 +1,4 @@
-Boletus fraternus Peck SPECIES
-=======
+# Boletus fraternus Peck SPECIES
 
 #### Status
 ACCEPTED

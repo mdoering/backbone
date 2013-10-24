@@ -1,5 +1,4 @@
-Winogradskyella epiphytica Nedashkovskaya et al., 2005 SPECIES
-=======
+# Winogradskyella epiphytica Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

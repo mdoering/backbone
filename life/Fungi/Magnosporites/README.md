@@ -1,5 +1,4 @@
-Magnosporites Rouse GENUS
-=======
+# Magnosporites Rouse GENUS
 
 #### Status
 ACCEPTED

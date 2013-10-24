@@ -1,5 +1,4 @@
-Ophiobolus spina (Speg.) Sacc. SPECIES
-=======
+# Ophiobolus spina (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca ferruginascens (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca ferruginascens (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

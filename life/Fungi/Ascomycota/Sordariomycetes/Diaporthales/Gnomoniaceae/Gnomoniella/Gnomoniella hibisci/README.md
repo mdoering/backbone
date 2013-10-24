@@ -1,5 +1,4 @@
-Gnomoniella hibisci Sawada SPECIES
-=======
+# Gnomoniella hibisci Sawada SPECIES
 
 #### Status
 ACCEPTED

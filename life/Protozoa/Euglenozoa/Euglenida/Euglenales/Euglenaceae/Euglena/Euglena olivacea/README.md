@@ -1,5 +1,4 @@
-Euglena olivacea Schmitz SPECIES
-=======
+# Euglena olivacea Schmitz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagenoma Stolk & G.F. Orr GENUS
-=======
+# Sagenoma Stolk & G.F. Orr GENUS
 
 #### Status
 ACCEPTED

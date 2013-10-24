@@ -1,5 +1,4 @@
-Agaricus tenellus Batsch SPECIES
-=======
+# Agaricus tenellus Batsch SPECIES
 
 #### Status
 ACCEPTED

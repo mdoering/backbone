@@ -1,5 +1,4 @@
-Patellina rosarum J. Lindau SPECIES
-=======
+# Patellina rosarum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

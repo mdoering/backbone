@@ -1,5 +1,4 @@
-Cercospora californiensis Chupp SPECIES
-=======
+# Cercospora californiensis Chupp SPECIES
 
 #### Status
 ACCEPTED

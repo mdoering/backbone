@@ -1,5 +1,4 @@
-Eolichenomyces heppii Cif. & Tomas. SPECIES
-=======
+# Eolichenomyces heppii Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

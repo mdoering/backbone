@@ -1,5 +1,4 @@
-Peziza krascheninikowii Weinm. SPECIES
-=======
+# Peziza krascheninikowii Weinm. SPECIES
 
 #### Status
 ACCEPTED

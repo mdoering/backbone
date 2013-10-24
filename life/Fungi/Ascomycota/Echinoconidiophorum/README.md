@@ -1,5 +1,4 @@
-Echinoconidiophorum Pereira-Carvalho & Dianese GENUS
-=======
+# Echinoconidiophorum Pereira-Carvalho & Dianese GENUS
 
 #### Status
 ACCEPTED

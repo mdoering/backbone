@@ -1,5 +1,4 @@
-Russula vassilievae Bulach SPECIES
-=======
+# Russula vassilievae Bulach SPECIES
 
 #### Status
 ACCEPTED

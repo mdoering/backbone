@@ -1,5 +1,4 @@
-Ascochyta lycii Rostr. SPECIES
-=======
+# Ascochyta lycii Rostr. SPECIES
 
 #### Status
 ACCEPTED

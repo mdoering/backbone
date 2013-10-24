@@ -1,5 +1,4 @@
-Stagonospora nuciseda Fairm. SPECIES
-=======
+# Stagonospora nuciseda Fairm. SPECIES
 
 #### Status
 ACCEPTED

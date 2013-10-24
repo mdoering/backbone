@@ -1,5 +1,4 @@
-Lactifluus affinis (Peck) Kuntze SPECIES
-=======
+# Lactifluus affinis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

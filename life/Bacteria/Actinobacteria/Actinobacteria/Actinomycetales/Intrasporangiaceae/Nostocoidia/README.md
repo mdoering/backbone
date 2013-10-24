@@ -1,5 +1,4 @@
-Nostocoidia GENUS
-=======
+# Nostocoidia GENUS
 
 #### Status
 ACCEPTED

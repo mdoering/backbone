@@ -1,5 +1,4 @@
-Sarcogyne lugens (Stizenb.) H. Magn. SPECIES
-=======
+# Sarcogyne lugens (Stizenb.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

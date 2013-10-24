@@ -1,5 +1,4 @@
-Inocybe observabilis (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe observabilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

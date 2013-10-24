@@ -1,5 +1,4 @@
-Leptogium platynum (Tuck.) Herre SPECIES
-=======
+# Leptogium platynum (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

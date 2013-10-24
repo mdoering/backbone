@@ -1,14 +1,13 @@
-Penicillium aurantiogriseum var. polonicum (K.M. Zalessky) Frisvad & Filt., 1990 VARIETY
-=======
+# Penicillium polonicum K.M. Zalessky, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 81(6): 850 (1990)
+Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 445 (1927)
 
 #### Original name
 Penicillium polonicum K.M. Zalessky, 1927

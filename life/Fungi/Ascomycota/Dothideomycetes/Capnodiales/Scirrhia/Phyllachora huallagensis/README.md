@@ -1,5 +1,4 @@
-Phyllachora huallagensis Henn., 1904 SPECIES
-=======
+# Phyllachora huallagensis Henn., 1904 SPECIES
 
 #### Status
 DOUBTFUL

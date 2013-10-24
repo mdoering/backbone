@@ -1,5 +1,4 @@
-Relindellidae Kozur & Mostler, 1980 FAMILY
-=======
+# Relindellidae Kozur & Mostler, 1980 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoomastigophora CLASS
-=======
+# Zoomastigophora CLASS
 
 #### Status
 ACCEPTED

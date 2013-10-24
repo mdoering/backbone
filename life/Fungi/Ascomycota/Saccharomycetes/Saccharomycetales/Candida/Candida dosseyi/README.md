@@ -1,5 +1,4 @@
-Candida dosseyi N.H. Nguyen, S.O. Suh & M. Blackw., 2008 SPECIES
-=======
+# Candida dosseyi N.H. Nguyen, S.O. Suh & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

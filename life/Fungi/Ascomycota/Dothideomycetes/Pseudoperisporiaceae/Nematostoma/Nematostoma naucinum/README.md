@@ -1,5 +1,4 @@
-Nematostoma naucinum (Syd.) Petr. SPECIES
-=======
+# Nematostoma naucinum (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

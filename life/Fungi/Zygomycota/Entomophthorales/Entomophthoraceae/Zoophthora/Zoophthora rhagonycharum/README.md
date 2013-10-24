@@ -1,5 +1,4 @@
-Zoophthora rhagonycharum (Balazy) S. Keller SPECIES
-=======
+# Zoophthora rhagonycharum (Balazy) S. Keller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria ceratispora Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria ceratispora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

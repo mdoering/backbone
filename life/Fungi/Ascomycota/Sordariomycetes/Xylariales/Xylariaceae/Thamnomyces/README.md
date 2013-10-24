@@ -1,5 +1,4 @@
-Thamnomyces Ehrenb. GENUS
-=======
+# Thamnomyces Ehrenb. GENUS
 
 #### Status
 ACCEPTED

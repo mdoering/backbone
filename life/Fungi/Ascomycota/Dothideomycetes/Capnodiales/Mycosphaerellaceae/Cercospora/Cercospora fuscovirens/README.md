@@ -1,5 +1,4 @@
-Cercospora fuscovirens Sacc. SPECIES
-=======
+# Cercospora fuscovirens Sacc. SPECIES
 
 #### Status
 ACCEPTED

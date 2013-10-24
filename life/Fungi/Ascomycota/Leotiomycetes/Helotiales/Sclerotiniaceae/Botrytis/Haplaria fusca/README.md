@@ -1,5 +1,4 @@
-Haplaria fusca Cooke SPECIES
-=======
+# Haplaria fusca Cooke SPECIES
 
 #### Status
 ACCEPTED

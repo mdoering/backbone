@@ -1,5 +1,4 @@
-Coniothyrium coffeanum Saccas SPECIES
-=======
+# Coniothyrium coffeanum Saccas SPECIES
 
 #### Status
 ACCEPTED

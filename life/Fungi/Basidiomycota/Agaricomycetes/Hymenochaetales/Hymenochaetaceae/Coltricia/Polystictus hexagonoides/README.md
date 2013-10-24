@@ -1,5 +1,4 @@
-Polystictus hexagonoides Lloyd SPECIES
-=======
+# Polystictus hexagonoides Lloyd SPECIES
 
 #### Status
 ACCEPTED

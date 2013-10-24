@@ -1,5 +1,4 @@
-Phyllachora tjapukaiensis C.A. Pearce, Reddell & K.D. Hyde, 2001 SPECIES
-=======
+# Phyllachora tjapukaiensis C.A. Pearce, Reddell & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

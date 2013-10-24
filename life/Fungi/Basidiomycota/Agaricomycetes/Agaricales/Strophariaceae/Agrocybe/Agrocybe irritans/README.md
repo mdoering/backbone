@@ -1,5 +1,4 @@
-Agrocybe irritans Raithelh. SPECIES
-=======
+# Agrocybe irritans Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conoplea juniperi S. Hughes SPECIES
-=======
+# Conoplea juniperi S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asperatopsophosphaera D.A. Schepeleva ex E.A. Assejeva in P.L. Shulga, 1976 GENUS
-=======
+# Asperatopsophosphaera D.A. Schepeleva ex E.A. Assejeva in P.L. Shulga, 1976 GENUS
 
 #### Status
 ACCEPTED

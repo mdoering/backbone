@@ -1,5 +1,4 @@
-Catastoma pila Long SPECIES
-=======
+# Catastoma pila Long SPECIES
 
 #### Status
 ACCEPTED

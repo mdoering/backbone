@@ -1,5 +1,4 @@
-Phyllosticta pyricola Sacc. & Speg. SPECIES
-=======
+# Phyllosticta pyricola Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

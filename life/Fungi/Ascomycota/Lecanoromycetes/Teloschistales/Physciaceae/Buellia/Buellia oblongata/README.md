@@ -1,5 +1,4 @@
-Buellia oblongata (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Buellia oblongata (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

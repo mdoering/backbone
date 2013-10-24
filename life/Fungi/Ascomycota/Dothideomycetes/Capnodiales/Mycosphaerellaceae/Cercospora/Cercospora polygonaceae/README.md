@@ -1,5 +1,4 @@
-Cercospora polygonaceae Ellis & Everh. SPECIES
-=======
+# Cercospora polygonaceae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomitopsis incarnatus K.M. Kim, J.S.Lee & H.S. Jung SPECIES
-=======
+# Fomitopsis incarnatus K.M. Kim, J.S.Lee & H.S. Jung SPECIES
 
 #### Status
 ACCEPTED

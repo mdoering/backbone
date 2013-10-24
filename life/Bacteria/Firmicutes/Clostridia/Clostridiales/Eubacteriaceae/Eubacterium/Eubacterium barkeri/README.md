@@ -1,8 +1,7 @@
-Clostridium barkeri Stadtman et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Eubacterium barkeri (Stadtman et al., 1972) Collins et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

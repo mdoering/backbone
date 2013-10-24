@@ -1,5 +1,4 @@
-Agaricus pearsonii Bon & Boisselet SPECIES
-=======
+# Agaricus pearsonii Bon & Boisselet SPECIES
 
 #### Status
 ACCEPTED

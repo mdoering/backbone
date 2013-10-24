@@ -1,14 +1,13 @@
-Leptocapnodium juniperi (W. Phillips & Plowr.) Bat. & Cif., 1963 SPECIES
-=======
+# Metacapnodium juniperi (W. Phillips & Plowr.) Speg., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Saccardoa 2: 122 (1963)
+Physis, Buenos Aires 4: 288 (1918)
 
 #### Original name
 Capnodium juniperi W. Phillips & Plowr., 1885

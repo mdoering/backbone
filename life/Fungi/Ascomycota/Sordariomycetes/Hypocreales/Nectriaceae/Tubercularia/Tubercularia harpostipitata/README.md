@@ -1,5 +1,4 @@
-Tubercularia harpostipitata Seifert SPECIES
-=======
+# Tubercularia harpostipitata Seifert SPECIES
 
 #### Status
 ACCEPTED

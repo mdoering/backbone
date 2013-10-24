@@ -1,5 +1,4 @@
-Calycina fastidiosa Peck SPECIES
-=======
+# Calycina fastidiosa Peck SPECIES
 
 #### Status
 ACCEPTED

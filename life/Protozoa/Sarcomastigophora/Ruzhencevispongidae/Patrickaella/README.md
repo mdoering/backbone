@@ -1,5 +1,4 @@
-Patrickaella GENUS
-=======
+# Patrickaella GENUS
 
 #### Status
 ACCEPTED

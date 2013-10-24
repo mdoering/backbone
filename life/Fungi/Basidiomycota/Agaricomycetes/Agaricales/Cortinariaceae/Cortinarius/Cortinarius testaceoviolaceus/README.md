@@ -1,5 +1,4 @@
-Cortinarius testaceoviolaceus Rob. Henry, 1957 SPECIES
-=======
+# Cortinarius testaceoviolaceus Rob. Henry, 1957 SPECIES
 
 #### Status
 ACCEPTED

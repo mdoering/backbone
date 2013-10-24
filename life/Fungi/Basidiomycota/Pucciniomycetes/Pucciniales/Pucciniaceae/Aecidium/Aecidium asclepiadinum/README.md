@@ -1,5 +1,4 @@
-Aecidium asclepiadinum Speg. SPECIES
-=======
+# Aecidium asclepiadinum Speg. SPECIES
 
 #### Status
 ACCEPTED

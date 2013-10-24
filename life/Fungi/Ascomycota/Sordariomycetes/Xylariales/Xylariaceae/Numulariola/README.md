@@ -1,5 +1,4 @@
-Numulariola GENUS
-=======
+# Numulariola GENUS
 
 #### Status
 ACCEPTED

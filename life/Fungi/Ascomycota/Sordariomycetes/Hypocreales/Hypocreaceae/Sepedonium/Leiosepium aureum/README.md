@@ -1,5 +1,4 @@
-Leiosepium aureum Sacc. & Fautrey SPECIES
-=======
+# Leiosepium aureum Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

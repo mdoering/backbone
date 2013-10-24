@@ -1,5 +1,4 @@
-Sagedia macularis (Wallr.) Körb. SPECIES
-=======
+# Sagedia macularis (Wallr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

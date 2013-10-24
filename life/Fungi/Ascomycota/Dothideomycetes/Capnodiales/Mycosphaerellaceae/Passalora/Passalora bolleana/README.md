@@ -1,14 +1,13 @@
-Pseudocercospora bolleana (Thüm.) Sivan., 1984 SPECIES
-=======
+# Passalora bolleana (Thüm.) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bitunicate Ascomycetes and their Anamorphs (Vaduz) 206 (1984)
+Mycotaxon 55: 228 (1995)
 
 #### Original name
 Septosporium bolleanum Thüm., 1877

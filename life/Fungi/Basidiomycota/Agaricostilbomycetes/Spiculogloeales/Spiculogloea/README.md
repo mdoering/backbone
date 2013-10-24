@@ -1,5 +1,4 @@
-Spiculogloea P. Roberts, 1996 GENUS
-=======
+# Spiculogloea P. Roberts, 1996 GENUS
 
 #### Status
 ACCEPTED

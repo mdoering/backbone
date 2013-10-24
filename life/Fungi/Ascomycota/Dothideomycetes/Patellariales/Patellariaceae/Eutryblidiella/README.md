@@ -1,5 +1,4 @@
-Eutryblidiella GENUS
-=======
+# Eutryblidiella GENUS
 
 #### Status
 ACCEPTED

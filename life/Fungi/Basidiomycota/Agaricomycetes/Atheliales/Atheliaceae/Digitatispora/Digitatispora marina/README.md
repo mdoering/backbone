@@ -1,5 +1,4 @@
-Digitatispora marina Doguet, 1962 SPECIES
-=======
+# Digitatispora marina Doguet, 1962 SPECIES
 
 #### Status
 ACCEPTED

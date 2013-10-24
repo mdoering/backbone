@@ -1,5 +1,4 @@
-Melanomma juniperinum (P. Karst.) Sacc. SPECIES
-=======
+# Melanomma juniperinum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovum de Wever, 1982 GENUS
-=======
+# Ovum de Wever, 1982 GENUS
 
 #### Status
 ACCEPTED

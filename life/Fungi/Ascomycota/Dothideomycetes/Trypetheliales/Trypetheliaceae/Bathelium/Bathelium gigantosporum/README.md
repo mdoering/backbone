@@ -1,5 +1,4 @@
-Bathelium gigantosporum Müll. Arg. SPECIES
-=======
+# Bathelium gigantosporum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

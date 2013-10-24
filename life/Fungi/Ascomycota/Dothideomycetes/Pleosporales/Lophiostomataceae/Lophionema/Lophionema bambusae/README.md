@@ -1,5 +1,4 @@
-Lophionema bambusae Höhn. SPECIES
-=======
+# Lophionema bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

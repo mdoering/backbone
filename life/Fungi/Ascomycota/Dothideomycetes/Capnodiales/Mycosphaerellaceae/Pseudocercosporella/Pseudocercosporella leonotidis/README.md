@@ -1,5 +1,4 @@
-Pseudocercosporella leonotidis B.K. Gupta & Kamal SPECIES
-=======
+# Pseudocercosporella leonotidis B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

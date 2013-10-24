@@ -1,5 +1,4 @@
-Dothiorella pinicola S. Ahmad SPECIES
-=======
+# Dothiorella pinicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium bonordenii var. bonordenii VARIETY
-=======
+# Clasterosporium bonordenii Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 385 (1886)
 
 #### Original name
-Clasterosporium bonordenii var. bonordenii
+Macrosporium clavatum Bonord.
 
 ### Remarks
 null

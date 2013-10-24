@@ -1,5 +1,4 @@
-Agaricus iocephalus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus iocephalus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochytella penstemonii Jenkins SPECIES
-=======
+# Ascochytella penstemonii Jenkins SPECIES
 
 #### Status
 ACCEPTED

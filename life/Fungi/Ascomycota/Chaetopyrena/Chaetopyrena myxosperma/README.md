@@ -1,5 +1,4 @@
-Chaetopyrena myxosperma Kirschst. SPECIES
-=======
+# Chaetopyrena myxosperma Kirschst. SPECIES
 
 #### Status
 ACCEPTED

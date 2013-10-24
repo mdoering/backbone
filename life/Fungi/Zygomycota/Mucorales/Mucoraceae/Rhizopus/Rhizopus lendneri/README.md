@@ -1,5 +1,4 @@
-Rhizopus lendneri Zurikoff {?} SPECIES
-=======
+# Rhizopus lendneri Zurikoff {?} SPECIES
 
 #### Status
 ACCEPTED

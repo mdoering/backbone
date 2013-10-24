@@ -1,5 +1,4 @@
-Exosporium melampsoroides Sacc. SPECIES
-=======
+# Exosporium melampsoroides Sacc. SPECIES
 
 #### Status
 ACCEPTED

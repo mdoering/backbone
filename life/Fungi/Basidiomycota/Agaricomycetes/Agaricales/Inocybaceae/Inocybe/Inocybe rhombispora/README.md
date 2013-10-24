@@ -1,5 +1,4 @@
-Inocybe rhombispora Massee SPECIES
-=======
+# Inocybe rhombispora Massee SPECIES
 
 #### Status
 ACCEPTED

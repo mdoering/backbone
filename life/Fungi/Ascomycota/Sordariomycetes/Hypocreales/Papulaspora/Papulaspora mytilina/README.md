@@ -1,5 +1,4 @@
-Papulaspora mytilina M.L. Lohman SPECIES
-=======
+# Papulaspora mytilina M.L. Lohman SPECIES
 
 #### Status
 ACCEPTED

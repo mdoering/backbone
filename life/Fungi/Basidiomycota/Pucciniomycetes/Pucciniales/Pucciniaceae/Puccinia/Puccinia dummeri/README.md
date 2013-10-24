@@ -1,5 +1,4 @@
-Puccinia dummeri Wakef. SPECIES
-=======
+# Puccinia dummeri Wakef. SPECIES
 
 #### Status
 ACCEPTED

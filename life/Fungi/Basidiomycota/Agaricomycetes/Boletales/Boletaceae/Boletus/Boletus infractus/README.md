@@ -1,5 +1,4 @@
-Boletus infractus Fr. SPECIES
-=======
+# Boletus infractus Fr. SPECIES
 
 #### Status
 ACCEPTED

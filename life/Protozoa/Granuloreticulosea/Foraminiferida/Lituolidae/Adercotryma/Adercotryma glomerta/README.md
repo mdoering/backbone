@@ -1,5 +1,4 @@
-Adercotryma glomerta SPECIES
-=======
+# Adercotryma glomerta SPECIES
 
 #### Status
 ACCEPTED

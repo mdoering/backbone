@@ -1,17 +1,16 @@
-Naetrocymbe depressum Bat. SPECIES
-=======
+# Naetrocymbe depressa Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 5: 155 (1951)
 
 #### Original name
-Naetrocymbe depressum Bat.
+Naetrocymbe depressa Bat.
 
 ### Remarks
 null

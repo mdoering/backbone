@@ -1,5 +1,4 @@
-Gibbera vitis Schulzer SPECIES
-=======
+# Gibbera vitis Schulzer SPECIES
 
 #### Status
 ACCEPTED

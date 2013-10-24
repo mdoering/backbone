@@ -1,5 +1,4 @@
-Curvularia hexamera Vegh & Benoit, 1974 SPECIES
-=======
+# Curvularia hexamera Vegh & Benoit, 1974 SPECIES
 
 #### Status
 ACCEPTED

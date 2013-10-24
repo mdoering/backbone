@@ -1,5 +1,4 @@
-Dothiorella negundinis Ellis & Barthol. SPECIES
-=======
+# Dothiorella negundinis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

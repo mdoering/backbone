@@ -1,5 +1,4 @@
-Peterjamesia D. Hawksw. GENUS
-=======
+# Peterjamesia D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

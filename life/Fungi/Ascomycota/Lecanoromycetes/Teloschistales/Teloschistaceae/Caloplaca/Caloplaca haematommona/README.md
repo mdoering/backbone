@@ -1,5 +1,4 @@
-Caloplaca haematommona Elix & S.Y. Kondr. SPECIES
-=======
+# Caloplaca haematommona Elix & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

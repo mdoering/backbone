@@ -1,5 +1,4 @@
-Ectocarpus polysiphoniae Noda SPECIES
-=======
+# Ectocarpus polysiphoniae Noda SPECIES
 
 #### Status
 ACCEPTED

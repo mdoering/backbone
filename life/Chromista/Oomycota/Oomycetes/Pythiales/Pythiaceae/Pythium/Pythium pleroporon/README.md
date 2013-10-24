@@ -1,5 +1,4 @@
-Pythium pleroporon Sideris SPECIES
-=======
+# Pythium pleroporon Sideris SPECIES
 
 #### Status
 ACCEPTED

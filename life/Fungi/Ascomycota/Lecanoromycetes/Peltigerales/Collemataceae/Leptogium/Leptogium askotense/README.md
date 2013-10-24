@@ -1,5 +1,4 @@
-Leptogium askotense D. D. Awasthi SPECIES
-=======
+# Leptogium askotense D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

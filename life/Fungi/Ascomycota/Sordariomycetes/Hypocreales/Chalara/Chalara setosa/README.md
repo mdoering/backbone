@@ -1,14 +1,13 @@
-Chaetochalara setosa (Harkn.) Nag Raj & W.B. Kendr., 1975 SPECIES
-=======
+# Chalara setosa Harkn., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Chalara Allied Genera (Waterloo) 155 (1975)
+Bull. Calif. Acad. Sci. 3: 164 (1885)
 
 #### Original name
 Chalara setosa Harkn., 1885

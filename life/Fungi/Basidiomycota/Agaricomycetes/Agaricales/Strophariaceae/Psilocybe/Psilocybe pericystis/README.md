@@ -1,5 +1,4 @@
-Psilocybe pericystis Singer SPECIES
-=======
+# Psilocybe pericystis Singer SPECIES
 
 #### Status
 ACCEPTED

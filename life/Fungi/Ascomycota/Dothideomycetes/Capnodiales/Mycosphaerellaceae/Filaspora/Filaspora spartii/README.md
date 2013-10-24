@@ -1,5 +1,4 @@
-Filaspora spartii (Pass. & Brunaud) Kuntze SPECIES
-=======
+# Filaspora spartii (Pass. & Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

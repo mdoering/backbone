@@ -1,5 +1,4 @@
-Hypsotheca ephemera (Zwackh) Sacc. SPECIES
-=======
+# Hypsotheca ephemera (Zwackh) Sacc. SPECIES
 
 #### Status
 ACCEPTED

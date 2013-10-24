@@ -1,5 +1,4 @@
-Cladonia paradoxa (Elenkin & Savicz) H. Magn. ex Trass SPECIES
-=======
+# Cladonia paradoxa (Elenkin & Savicz) H. Magn. ex Trass SPECIES
 
 #### Status
 ACCEPTED

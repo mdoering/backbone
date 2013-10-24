@@ -1,5 +1,4 @@
-Endothiella longirostris Roane SPECIES
-=======
+# Endothiella longirostris Roane SPECIES
 
 #### Status
 ACCEPTED

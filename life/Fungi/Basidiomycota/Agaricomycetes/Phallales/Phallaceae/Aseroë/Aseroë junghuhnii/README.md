@@ -1,5 +1,4 @@
-Aseroë junghuhnii Schltdl. SPECIES
-=======
+# Aseroë junghuhnii Schltdl. SPECIES
 
 #### Status
 ACCEPTED

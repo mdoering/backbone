@@ -1,5 +1,4 @@
-Gloniella pinophylla Höhn. SPECIES
-=======
+# Gloniella pinophylla Höhn. SPECIES
 
 #### Status
 ACCEPTED

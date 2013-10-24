@@ -1,14 +1,13 @@
-Dactylella cionopaga Drechsler, 1950 SPECIES
-=======
+# Dactylellina cionopaga (Drechsler) Ying Yang & Xing Z. Liu, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 42(1): 30 (1950)
+Mycotaxon 97: 158 (2006)
 
 #### Original name
 Dactylella cionopaga Drechsler, 1950

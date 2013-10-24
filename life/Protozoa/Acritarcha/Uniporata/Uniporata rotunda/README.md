@@ -1,5 +1,4 @@
-Uniporata rotunda Pykhova, 1969 SPECIES
-=======
+# Uniporata rotunda Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

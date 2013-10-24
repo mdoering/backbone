@@ -1,5 +1,4 @@
-Ascochyta microspora Trail, 1887 SPECIES
-=======
+# Ascochyta microspora Trail, 1887 SPECIES
 
 #### Status
 ACCEPTED

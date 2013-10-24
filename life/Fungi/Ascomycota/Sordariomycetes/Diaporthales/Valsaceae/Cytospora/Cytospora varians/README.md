@@ -1,5 +1,4 @@
-Cytospora varians Sacc. SPECIES
-=======
+# Cytospora varians Sacc. SPECIES
 
 #### Status
 ACCEPTED

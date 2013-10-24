@@ -1,5 +1,4 @@
-Lactarius subrubescens A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius subrubescens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

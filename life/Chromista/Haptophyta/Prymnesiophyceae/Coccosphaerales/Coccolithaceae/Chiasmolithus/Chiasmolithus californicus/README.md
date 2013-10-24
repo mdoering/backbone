@@ -1,5 +1,4 @@
-Chiasmolithus californicus (Sullivan, 1964) Hay & Mohler, 1967 SPECIES
-=======
+# Chiasmolithus californicus (Sullivan, 1964) Hay & Mohler, 1967 SPECIES
 
 #### Status
 ACCEPTED

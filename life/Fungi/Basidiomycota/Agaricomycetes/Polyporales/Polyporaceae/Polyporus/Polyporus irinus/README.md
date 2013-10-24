@@ -1,5 +1,4 @@
-Polyporus irinus Pat. & Gaillard SPECIES
-=======
+# Polyporus irinus Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

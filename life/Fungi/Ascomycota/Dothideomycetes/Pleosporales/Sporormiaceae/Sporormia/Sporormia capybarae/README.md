@@ -1,5 +1,4 @@
-Sporormia capybarae Speg. SPECIES
-=======
+# Sporormia capybarae Speg. SPECIES
 
 #### Status
 ACCEPTED

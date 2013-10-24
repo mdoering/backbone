@@ -1,14 +1,13 @@
-Doassansia hygrophilae Thirum., 1946 SPECIES
-=======
+# Heterodoassansia hygrophilae (Thirum.) Vánky, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 9: 29 (1946)
+Mycotaxon 95: 56 (2006)
 
 #### Original name
 Doassansia hygrophilae Thirum., 1946

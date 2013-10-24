@@ -1,5 +1,4 @@
-Sebacina tenuis L.S. Olive SPECIES
-=======
+# Sebacina tenuis L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

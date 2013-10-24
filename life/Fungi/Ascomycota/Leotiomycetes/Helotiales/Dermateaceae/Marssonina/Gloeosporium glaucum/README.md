@@ -1,5 +1,4 @@
-Gloeosporium glaucum Cooke & Massee SPECIES
-=======
+# Gloeosporium glaucum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

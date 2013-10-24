@@ -1,17 +1,16 @@
-Phoma spinaciae Bubák & Krieg., 1912 SPECIES
-=======
+# Pleospora betae Björl., 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bubák, Annls mycol. 10(1): 47 (1912)
+Griby rossi exsiccati 247 (1915)
 
 #### Original name
-Phoma spinaciae Bubák & Krieg., 1912
+Pleospora betae Björl., 1944
 
 ### Remarks
 null

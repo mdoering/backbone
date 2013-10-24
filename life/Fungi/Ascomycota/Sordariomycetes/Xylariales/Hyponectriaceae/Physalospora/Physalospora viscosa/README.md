@@ -1,5 +1,4 @@
-Physalospora viscosa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Physalospora viscosa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

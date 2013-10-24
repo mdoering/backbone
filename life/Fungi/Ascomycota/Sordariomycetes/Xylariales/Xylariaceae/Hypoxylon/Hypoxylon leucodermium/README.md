@@ -1,5 +1,4 @@
-Hypoxylon leucodermium Shear SPECIES
-=======
+# Hypoxylon leucodermium Shear SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocarpopsis devensis G. Salisb. SPECIES
-=======
+# Leucocarpopsis devensis G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

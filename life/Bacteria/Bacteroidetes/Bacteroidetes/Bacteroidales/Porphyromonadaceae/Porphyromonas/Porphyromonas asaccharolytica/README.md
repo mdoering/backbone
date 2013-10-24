@@ -1,8 +1,7 @@
-Bacteroides asaccharolyticus (Holdeman and Moore, 1970) Finegold and Barnes, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Porphyromonas asaccharolytica (Holdeman & Moore, 1970) Shah & Collins, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

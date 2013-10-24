@@ -1,5 +1,4 @@
-Protosteliomycetes Alexop. & Mims CLASS
-=======
+# Protosteliomycetes Alexop. & Mims CLASS
 
 #### Status
 ACCEPTED

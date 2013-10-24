@@ -1,5 +1,4 @@
-Pholiotella tigrina Rick SPECIES
-=======
+# Pholiotella tigrina Rick SPECIES
 
 #### Status
 ACCEPTED

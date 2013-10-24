@@ -1,5 +1,4 @@
-Tricholoma cifuentesii Courtec. SPECIES
-=======
+# Tricholoma cifuentesii Courtec. SPECIES
 
 #### Status
 ACCEPTED

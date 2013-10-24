@@ -1,5 +1,4 @@
-Echinoplaca heterella (Stirt.) R. Sant. SPECIES
-=======
+# Echinoplaca heterella (Stirt.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

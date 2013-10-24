@@ -1,5 +1,4 @@
-Cortinarius bulbosomustellinus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius bulbosomustellinus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

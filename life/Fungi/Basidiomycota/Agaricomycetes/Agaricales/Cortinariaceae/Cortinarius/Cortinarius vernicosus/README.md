@@ -1,5 +1,4 @@
-Cortinarius vernicosus M.T. Seidl SPECIES
-=======
+# Cortinarius vernicosus M.T. Seidl SPECIES
 
 #### Status
 ACCEPTED

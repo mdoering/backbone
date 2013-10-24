@@ -1,5 +1,4 @@
-Chromulina granulosa SPECIES
-=======
+# Chromulina granulosa SPECIES
 
 #### Status
 ACCEPTED

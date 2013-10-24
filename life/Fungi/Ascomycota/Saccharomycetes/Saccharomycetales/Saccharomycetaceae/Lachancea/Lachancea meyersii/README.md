@@ -1,5 +1,4 @@
-Lachancea meyersii Fell, Statzell & Kurtzman, 2004 SPECIES
-=======
+# Lachancea meyersii Fell, Statzell & Kurtzman, 2004 SPECIES
 
 #### Status
 ACCEPTED

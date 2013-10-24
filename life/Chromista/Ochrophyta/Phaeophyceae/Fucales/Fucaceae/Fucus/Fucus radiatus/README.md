@@ -1,5 +1,4 @@
-Fucus radiatus Turner, nom. illeg. SPECIES
-=======
+# Fucus radiatus Turner, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

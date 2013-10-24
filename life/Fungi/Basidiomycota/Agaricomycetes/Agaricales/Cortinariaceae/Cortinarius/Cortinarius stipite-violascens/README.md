@@ -1,5 +1,4 @@
-Cortinarius stipite-violascens Rob. Henry SPECIES
-=======
+# Cortinarius stipite-violascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

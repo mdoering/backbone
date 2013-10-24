@@ -1,5 +1,4 @@
-Pocillaria subtomentosa Kuntze SPECIES
-=======
+# Pocillaria subtomentosa Kuntze SPECIES
 
 #### Status
 ACCEPTED

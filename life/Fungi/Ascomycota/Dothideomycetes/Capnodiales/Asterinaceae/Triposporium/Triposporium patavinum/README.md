@@ -1,5 +1,4 @@
-Triposporium patavinum Gaja SPECIES
-=======
+# Triposporium patavinum Gaja SPECIES
 
 #### Status
 ACCEPTED

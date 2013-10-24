@@ -1,5 +1,4 @@
-Pelagibaca Cho & Giovannoni, 2006 GENUS
-=======
+# Pelagibaca Cho & Giovannoni, 2006 GENUS
 
 #### Status
 ACCEPTED

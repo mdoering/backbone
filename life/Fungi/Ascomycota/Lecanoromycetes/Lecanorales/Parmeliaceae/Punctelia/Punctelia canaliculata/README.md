@@ -1,5 +1,4 @@
-Punctelia canaliculata (Lynge) Krog SPECIES
-=======
+# Punctelia canaliculata (Lynge) Krog SPECIES
 
 #### Status
 ACCEPTED

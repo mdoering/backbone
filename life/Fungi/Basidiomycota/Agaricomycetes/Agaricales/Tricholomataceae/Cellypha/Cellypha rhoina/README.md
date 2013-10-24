@@ -1,5 +1,4 @@
-Cellypha rhoina (W.B. Cooke) W.B. Cooke SPECIES
-=======
+# Cellypha rhoina (W.B. Cooke) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

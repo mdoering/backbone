@@ -1,5 +1,4 @@
-Hypholoma californicum Earle SPECIES
-=======
+# Hypholoma californicum Earle SPECIES
 
 #### Status
 ACCEPTED

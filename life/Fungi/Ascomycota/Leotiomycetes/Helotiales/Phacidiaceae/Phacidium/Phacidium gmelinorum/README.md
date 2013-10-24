@@ -1,5 +1,4 @@
-Phacidium gmelinorum Heer SPECIES
-=======
+# Phacidium gmelinorum Heer SPECIES
 
 #### Status
 ACCEPTED

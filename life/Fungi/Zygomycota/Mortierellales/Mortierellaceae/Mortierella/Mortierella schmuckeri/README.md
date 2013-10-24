@@ -1,5 +1,4 @@
-Mortierella schmuckeri Linnem., 1958 SPECIES
-=======
+# Mortierella schmuckeri Linnem., 1958 SPECIES
 
 #### Status
 ACCEPTED

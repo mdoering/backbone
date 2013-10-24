@@ -1,5 +1,4 @@
-Agaricus ligatus Fr. SPECIES
-=======
+# Agaricus ligatus Fr. SPECIES
 
 #### Status
 ACCEPTED

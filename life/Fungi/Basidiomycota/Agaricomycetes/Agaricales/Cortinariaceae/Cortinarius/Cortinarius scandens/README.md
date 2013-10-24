@@ -1,17 +1,16 @@
-Cortinarius obtusus var. gracilis Quél., 1880 VARIETY
-=======
+# Cortinarius scandens Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8: 8, pl. 129, fig. 1 (1880)
+Epicr. syst. mycol. (Upsaliae) 312 (1838)
 
 #### Original name
-Cortinarius obtusus var. gracilis Quél., 1880
+Cortinarius scandens Fr., 1838
 
 ### Remarks
 null

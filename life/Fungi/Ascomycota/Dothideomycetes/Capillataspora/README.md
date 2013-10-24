@@ -1,5 +1,4 @@
-Capillataspora K.D. Hyde GENUS
-=======
+# Capillataspora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

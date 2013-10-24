@@ -1,5 +1,4 @@
-Sphaeridium miniatum Sacc., 1882 SPECIES
-=======
+# Sphaeridium miniatum Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

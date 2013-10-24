@@ -1,5 +1,4 @@
-Pseudocercospora cordiana Crous & Bench. SPECIES
-=======
+# Pseudocercospora cordiana Crous & Bench. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora pseudorussellii Timdal SPECIES
-=======
+# Psora pseudorussellii Timdal SPECIES
 
 #### Status
 ACCEPTED

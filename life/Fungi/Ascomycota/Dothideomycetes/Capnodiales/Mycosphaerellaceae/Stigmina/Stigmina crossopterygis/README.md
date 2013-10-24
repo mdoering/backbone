@@ -1,5 +1,4 @@
-Stigmina crossopterygis M.B. Ellis SPECIES
-=======
+# Stigmina crossopterygis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

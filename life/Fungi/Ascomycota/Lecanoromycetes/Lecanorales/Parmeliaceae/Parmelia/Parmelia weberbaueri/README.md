@@ -1,5 +1,4 @@
-Parmelia weberbaueri Lindau SPECIES
-=======
+# Parmelia weberbaueri Lindau SPECIES
 
 #### Status
 ACCEPTED

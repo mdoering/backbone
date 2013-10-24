@@ -1,5 +1,4 @@
-Sphacelaria norrisi SPECIES
-=======
+# Sphacelaria norrisi SPECIES
 
 #### Status
 ACCEPTED

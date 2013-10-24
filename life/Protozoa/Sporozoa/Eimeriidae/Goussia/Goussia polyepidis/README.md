@@ -1,5 +1,4 @@
-Goussia polyepidis Alvarez-Pellitero & Gonzalez-Lanza, 1985 SPECIES
-=======
+# Goussia polyepidis Alvarez-Pellitero & Gonzalez-Lanza, 1985 SPECIES
 
 #### Status
 ACCEPTED

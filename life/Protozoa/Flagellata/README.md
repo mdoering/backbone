@@ -1,5 +1,4 @@
-Flagellata PHYLUM
-=======
+# Flagellata PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria tiliacea Vacek SPECIES
-=======
+# Plicaria tiliacea Vacek SPECIES
 
 #### Status
 ACCEPTED

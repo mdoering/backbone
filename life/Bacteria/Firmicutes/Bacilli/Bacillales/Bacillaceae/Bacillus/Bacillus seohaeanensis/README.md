@@ -1,5 +1,4 @@
-Bacillus seohaeanensis Lee et al., 2006 SPECIES
-=======
+# Bacillus seohaeanensis Lee et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

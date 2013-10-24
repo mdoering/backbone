@@ -1,5 +1,4 @@
-Sistotrema taurinum Pers. SPECIES
-=======
+# Sistotrema taurinum Pers. SPECIES
 
 #### Status
 ACCEPTED

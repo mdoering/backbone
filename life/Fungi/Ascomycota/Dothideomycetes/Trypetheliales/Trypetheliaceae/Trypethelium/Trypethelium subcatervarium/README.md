@@ -1,5 +1,4 @@
-Trypethelium subcatervarium Malme SPECIES
-=======
+# Trypethelium subcatervarium Malme SPECIES
 
 #### Status
 ACCEPTED

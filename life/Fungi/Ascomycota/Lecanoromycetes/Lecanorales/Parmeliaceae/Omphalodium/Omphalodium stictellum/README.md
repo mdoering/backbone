@@ -1,5 +1,4 @@
-Omphalodium stictellum (A. Massal.) C.W. Dodge SPECIES
-=======
+# Omphalodium stictellum (A. Massal.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

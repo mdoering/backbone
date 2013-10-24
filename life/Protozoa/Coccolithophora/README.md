@@ -1,5 +1,4 @@
-Coccolithophora Lohmann, 1902 GENUS
-=======
+# Coccolithophora Lohmann, 1902 GENUS
 
 #### Status
 ACCEPTED

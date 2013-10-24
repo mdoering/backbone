@@ -1,5 +1,4 @@
-Stenella erythroxylicola Dorn.-Silva & Dianese SPECIES
-=======
+# Stenella erythroxylicola Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

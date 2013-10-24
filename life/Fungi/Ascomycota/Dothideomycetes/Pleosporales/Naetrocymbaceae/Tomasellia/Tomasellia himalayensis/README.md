@@ -1,5 +1,4 @@
-Tomasellia himalayensis D.D. Awasthi & M.R. Agarwal SPECIES
-=======
+# Tomasellia himalayensis D.D. Awasthi & M.R. Agarwal SPECIES
 
 #### Status
 ACCEPTED

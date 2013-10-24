@@ -1,5 +1,4 @@
-Trypetheliaceae Zenker FAMILY
-=======
+# Trypetheliaceae Zenker FAMILY
 
 #### Status
 ACCEPTED

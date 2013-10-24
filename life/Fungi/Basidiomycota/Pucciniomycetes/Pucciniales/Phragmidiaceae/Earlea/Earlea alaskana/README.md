@@ -1,5 +1,4 @@
-Earlea alaskana Arthur SPECIES
-=======
+# Earlea alaskana Arthur SPECIES
 
 #### Status
 ACCEPTED

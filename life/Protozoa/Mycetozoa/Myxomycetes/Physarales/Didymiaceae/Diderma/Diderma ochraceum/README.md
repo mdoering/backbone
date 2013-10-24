@@ -1,17 +1,16 @@
-Diderma ochraceum var. izawae Y. Yamam. & Nann.-Bremek. VARIETY
-=======
+# Diderma ochraceum Hoffm., 1795 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. 98(3): 327 (1995)
+Einige Discom. 2: tab. 9, fig. 2b (1795)
 
 #### Original name
-Diderma ochraceum var. izawae Y. Yamam. & Nann.-Bremek.
+Diderma ochraceum Hoffm., 1795
 
 ### Remarks
 null

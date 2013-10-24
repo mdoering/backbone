@@ -1,5 +1,4 @@
-Valsella minima var. minima VARIETY
-=======
+# Valsella minima Niessl SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsella minima var. minima
+Valsella minima Niessl
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Phylloporina corruscans (R. Sant.) Szatala SPECIES
-=======
+# Porina corruscans (Rehm) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls hist. -nat. Mus. natn. hung. 7: 21 (1956)
+Symb. bot. upsal. 12(no. 1): 223 (1952)
 
 #### Original name
 Metasphaeria corruscans Rehm

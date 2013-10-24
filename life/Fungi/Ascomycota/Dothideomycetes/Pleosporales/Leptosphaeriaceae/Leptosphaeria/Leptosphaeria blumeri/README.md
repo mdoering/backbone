@@ -1,5 +1,4 @@
-Leptosphaeria blumeri E. Müll. SPECIES
-=======
+# Leptosphaeria blumeri E. Müll. SPECIES
 
 #### Status
 ACCEPTED

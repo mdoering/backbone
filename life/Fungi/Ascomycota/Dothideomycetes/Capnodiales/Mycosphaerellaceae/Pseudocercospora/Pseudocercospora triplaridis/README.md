@@ -1,5 +1,4 @@
-Pseudocercospora triplaridis U. Braun & R. Urtiaga SPECIES
-=======
+# Pseudocercospora triplaridis U. Braun & R. Urtiaga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyriella cydoniae (Prostak. & Marzina) Popuschoj SPECIES
-=======
+# Coniothyriella cydoniae (Prostak. & Marzina) Popuschoj SPECIES
 
 #### Status
 ACCEPTED

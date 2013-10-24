@@ -1,5 +1,4 @@
-Actinosphaera Hollande & Enjumet, 1960 GENUS
-=======
+# Actinosphaera Hollande & Enjumet, 1960 GENUS
 
 #### Status
 ACCEPTED

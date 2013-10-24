@@ -1,5 +1,4 @@
-Lobaria crassiformis Hoffm. SPECIES
-=======
+# Lobaria crassiformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora katongensis (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora katongensis (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

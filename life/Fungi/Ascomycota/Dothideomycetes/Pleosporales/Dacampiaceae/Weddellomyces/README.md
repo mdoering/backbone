@@ -1,5 +1,4 @@
-Weddellomyces D. Hawksw. GENUS
-=======
+# Weddellomyces D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

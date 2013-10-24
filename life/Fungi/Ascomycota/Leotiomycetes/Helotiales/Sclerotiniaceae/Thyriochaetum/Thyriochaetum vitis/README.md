@@ -1,5 +1,4 @@
-Thyriochaetum vitis Frolov SPECIES
-=======
+# Thyriochaetum vitis Frolov SPECIES
 
 #### Status
 ACCEPTED

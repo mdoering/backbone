@@ -1,17 +1,16 @@
-Bensingtonia sakaguchi Sugita, M. Takash., Hamam. & Nakase SPECIES
-=======
+# Bensingtonia sakaguchii Sugita, M. Takash., Hamam. & Nakase SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sugita, Takashima, Hamamoto, Budhaka & Nakase, J. gen. appl. Microbiol. , Tokyo 43(4): 232 (1997)
 
 #### Original name
-Bensingtonia sakaguchi Sugita, M. Takash., Hamam. & Nakase
+Bensingtonia sakaguchii Sugita, M. Takash., Hamam. & Nakase
 
 ### Remarks
 null

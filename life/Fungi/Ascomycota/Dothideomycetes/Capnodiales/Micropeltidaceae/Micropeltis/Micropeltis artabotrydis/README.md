@@ -1,5 +1,4 @@
-Micropeltis artabotrydis Bat. & H. Maia SPECIES
-=======
+# Micropeltis artabotrydis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

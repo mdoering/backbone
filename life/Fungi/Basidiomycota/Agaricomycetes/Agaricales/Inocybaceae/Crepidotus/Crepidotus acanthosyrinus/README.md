@@ -1,5 +1,4 @@
-Crepidotus acanthosyrinus Singer SPECIES
-=======
+# Crepidotus acanthosyrinus Singer SPECIES
 
 #### Status
 ACCEPTED

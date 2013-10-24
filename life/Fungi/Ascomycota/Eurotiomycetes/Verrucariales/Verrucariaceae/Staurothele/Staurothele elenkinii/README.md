@@ -1,5 +1,4 @@
-Staurothele elenkinii Oxner SPECIES
-=======
+# Staurothele elenkinii Oxner SPECIES
 
 #### Status
 ACCEPTED

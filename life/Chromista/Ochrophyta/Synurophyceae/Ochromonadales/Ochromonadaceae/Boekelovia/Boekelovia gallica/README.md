@@ -1,5 +1,4 @@
-Boekelovia gallica Bourrelly SPECIES
-=======
+# Boekelovia gallica Bourrelly SPECIES
 
 #### Status
 ACCEPTED

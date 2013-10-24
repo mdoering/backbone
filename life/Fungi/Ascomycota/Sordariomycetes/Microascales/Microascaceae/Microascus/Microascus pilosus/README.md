@@ -1,5 +1,4 @@
-Microascus pilosus Valldos. & Guarro SPECIES
-=======
+# Microascus pilosus Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

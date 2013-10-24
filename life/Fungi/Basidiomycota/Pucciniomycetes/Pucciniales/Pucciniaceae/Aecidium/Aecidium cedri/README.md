@@ -1,5 +1,4 @@
-Aecidium cedri Barclay SPECIES
-=======
+# Aecidium cedri Barclay SPECIES
 
 #### Status
 ACCEPTED

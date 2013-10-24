@@ -1,5 +1,4 @@
-Ustilago salviae (Ferraris) Cif. SPECIES
-=======
+# Ustilago salviae (Ferraris) Cif. SPECIES
 
 #### Status
 ACCEPTED

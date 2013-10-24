@@ -1,5 +1,4 @@
-Opegrapha phlyctidicola (Vouaux) Etayo SPECIES
-=======
+# Opegrapha phlyctidicola (Vouaux) Etayo SPECIES
 
 #### Status
 ACCEPTED

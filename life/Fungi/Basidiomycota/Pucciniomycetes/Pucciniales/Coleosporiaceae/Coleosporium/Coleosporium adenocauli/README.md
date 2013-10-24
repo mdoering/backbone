@@ -1,17 +1,16 @@
-Coleosporium adenocaulonis H.S. Jacks. SPECIES
-=======
+# Coleosporium adenocauli H.S. Jacks. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of the Brooklyn botanical Garden 1: 202 (1918)
 
 #### Original name
-Coleosporium adenocaulonis H.S. Jacks.
+Coleosporium adenocauli H.S. Jacks.
 
 ### Remarks
 null

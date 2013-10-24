@@ -1,5 +1,4 @@
-Oospora cascarae Sacc. SPECIES
-=======
+# Oospora cascarae Sacc. SPECIES
 
 #### Status
 ACCEPTED

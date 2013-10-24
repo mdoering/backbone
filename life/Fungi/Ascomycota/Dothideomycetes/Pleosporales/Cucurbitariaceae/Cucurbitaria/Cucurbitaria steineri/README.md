@@ -1,5 +1,4 @@
-Cucurbitaria steineri Petr. SPECIES
-=======
+# Cucurbitaria steineri Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces imbricatus J.D. Zhao & X.Q. Zhang SPECIES
-=======
+# Tyromyces imbricatus J.D. Zhao & X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

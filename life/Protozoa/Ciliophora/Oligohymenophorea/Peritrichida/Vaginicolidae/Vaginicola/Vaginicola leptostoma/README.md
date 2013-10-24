@@ -1,5 +1,4 @@
-Vaginicola leptostoma Stokes SPECIES
-=======
+# Vaginicola leptostoma Stokes SPECIES
 
 #### Status
 ACCEPTED

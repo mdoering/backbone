@@ -1,5 +1,4 @@
-Dicaeoma momordicae (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Dicaeoma momordicae (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

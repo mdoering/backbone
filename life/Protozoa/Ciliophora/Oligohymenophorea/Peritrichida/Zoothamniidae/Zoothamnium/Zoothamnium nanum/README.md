@@ -1,5 +1,4 @@
-Zoothamnium nanum Kahl, 1933 SPECIES
-=======
+# Zoothamnium nanum Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

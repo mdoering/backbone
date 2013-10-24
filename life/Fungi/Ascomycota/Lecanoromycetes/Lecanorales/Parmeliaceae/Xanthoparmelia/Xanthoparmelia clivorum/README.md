@@ -1,17 +1,16 @@
-Parmelia clivorum Brusse SPECIES
-=======
+# Xanthoparmelia clivorum (Brusse) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 33: 402 (1988)
 
 #### Original name
-null
+Parmelia clivorum Brusse
 
 ### Remarks
 null

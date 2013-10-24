@@ -1,5 +1,4 @@
-Stilbocrea Pat. GENUS
-=======
+# Stilbocrea Pat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Repetobasidiopsis Dhingra & Avneet P. Singh GENUS
-=======
+# Repetobasidiopsis Dhingra & Avneet P. Singh GENUS
 
 #### Status
 ACCEPTED

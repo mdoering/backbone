@@ -1,5 +1,4 @@
-Dicarpella liquidambaris-styracifluae M. Monod SPECIES
-=======
+# Dicarpella liquidambaris-styracifluae M. Monod SPECIES
 
 #### Status
 ACCEPTED

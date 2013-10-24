@@ -1,5 +1,4 @@
-Cordyceps velutipes Massee SPECIES
-=======
+# Cordyceps velutipes Massee SPECIES
 
 #### Status
 ACCEPTED

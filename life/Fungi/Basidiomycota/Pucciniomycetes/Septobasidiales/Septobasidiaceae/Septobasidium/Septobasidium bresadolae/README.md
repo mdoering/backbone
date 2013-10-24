@@ -1,5 +1,4 @@
-Septobasidium bresadolae Pat. SPECIES
-=======
+# Septobasidium bresadolae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea melizea Ach. SPECIES
-=======
+# Lecidea melizea Ach. SPECIES
 
 #### Status
 ACCEPTED

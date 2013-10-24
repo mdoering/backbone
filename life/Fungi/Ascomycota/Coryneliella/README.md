@@ -1,5 +1,4 @@
-Coryneliella Har. & P. Karst. GENUS
-=======
+# Coryneliella Har. & P. Karst. GENUS
 
 #### Status
 ACCEPTED

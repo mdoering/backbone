@@ -1,5 +1,4 @@
-Coccochrysis W. Conrad, 1926 GENUS
-=======
+# Coccochrysis W. Conrad, 1926 GENUS
 
 #### Status
 ACCEPTED

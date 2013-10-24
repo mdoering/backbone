@@ -1,5 +1,4 @@
-Colletotrichum sapindi S. Chandra & Tandon SPECIES
-=======
+# Colletotrichum sapindi S. Chandra & Tandon SPECIES
 
 #### Status
 ACCEPTED

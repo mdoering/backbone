@@ -1,5 +1,4 @@
-Hygrocybe fuligineosquamosa (Cleland) Grgur. SPECIES
-=======
+# Hygrocybe fuligineosquamosa (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

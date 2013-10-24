@@ -1,5 +1,4 @@
-Submersisphaeria palmae Pinnoi, 2004 SPECIES
-=======
+# Submersisphaeria palmae Pinnoi, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea rupiseda Motyka SPECIES
-=======
+# Usnea rupiseda Motyka SPECIES
 
 #### Status
 ACCEPTED

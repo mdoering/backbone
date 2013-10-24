@@ -1,5 +1,4 @@
-Arthonia fuscocinerea Zwackh SPECIES
-=======
+# Arthonia fuscocinerea Zwackh SPECIES
 
 #### Status
 ACCEPTED

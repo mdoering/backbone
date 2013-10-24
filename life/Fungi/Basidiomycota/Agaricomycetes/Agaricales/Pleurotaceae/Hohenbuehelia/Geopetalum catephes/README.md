@@ -1,5 +1,4 @@
-Geopetalum catephes (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Geopetalum catephes (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

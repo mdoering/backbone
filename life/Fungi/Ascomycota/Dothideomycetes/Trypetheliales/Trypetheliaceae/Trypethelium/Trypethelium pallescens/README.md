@@ -1,5 +1,4 @@
-Trypethelium pallescens Fée SPECIES
-=======
+# Trypethelium pallescens Fée SPECIES
 
 #### Status
 ACCEPTED

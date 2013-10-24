@@ -1,5 +1,4 @@
-Puccinia hyoseridis-scabrae Maire SPECIES
-=======
+# Puccinia hyoseridis-scabrae Maire SPECIES
 
 #### Status
 ACCEPTED

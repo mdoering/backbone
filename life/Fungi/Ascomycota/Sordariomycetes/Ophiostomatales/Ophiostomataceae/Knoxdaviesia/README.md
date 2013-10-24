@@ -1,5 +1,4 @@
-Knoxdaviesia M.J. Wingf., P.S. van Wyk & Marasas GENUS
-=======
+# Knoxdaviesia M.J. Wingf., P.S. van Wyk & Marasas GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia moxleyi Plitt SPECIES
-=======
+# Crocynia moxleyi Plitt SPECIES
 
 #### Status
 ACCEPTED

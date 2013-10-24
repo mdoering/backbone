@@ -1,5 +1,4 @@
-Sphaeria leveillei Tul. {?} SPECIES
-=======
+# Sphaeria leveillei Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coryne gelatinosa (Sacc.) Rehm, 1907 SPECIES
-=======
+# Calloriopsis gelatinosa (Sacc.) Syd. & P. Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5(6): 518 (1907)
+Annls mycol. 15(3/4): 254 (1917)
 
 #### Original name
 Orbilia gelatinosa Sacc., 1889

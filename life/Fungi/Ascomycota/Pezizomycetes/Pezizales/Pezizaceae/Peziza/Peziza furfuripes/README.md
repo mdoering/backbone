@@ -1,5 +1,4 @@
-Peziza furfuripes Berk. & M.A. Curtis SPECIES
-=======
+# Peziza furfuripes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epalxis longiciliata Kahl, 1926 SPECIES
-=======
+# Epalxis longiciliata Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

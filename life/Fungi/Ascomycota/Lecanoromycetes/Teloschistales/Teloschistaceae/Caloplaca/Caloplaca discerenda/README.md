@@ -1,5 +1,4 @@
-Caloplaca discerenda SPECIES
-=======
+# Caloplaca discerenda SPECIES
 
 #### Status
 ACCEPTED

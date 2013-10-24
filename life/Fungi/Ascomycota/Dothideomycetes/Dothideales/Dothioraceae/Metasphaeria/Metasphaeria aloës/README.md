@@ -1,5 +1,4 @@
-Metasphaeria aloës Trinchieri SPECIES
-=======
+# Metasphaeria aloës Trinchieri SPECIES
 
 #### Status
 ACCEPTED

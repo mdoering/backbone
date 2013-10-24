@@ -1,5 +1,4 @@
-Inocybe luteifolia (E. Horak) Garrido SPECIES
-=======
+# Inocybe luteifolia (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

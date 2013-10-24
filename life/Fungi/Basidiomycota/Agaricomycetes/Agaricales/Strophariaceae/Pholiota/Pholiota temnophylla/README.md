@@ -1,5 +1,4 @@
-Pholiota temnophylla Peck SPECIES
-=======
+# Pholiota temnophylla Peck SPECIES
 
 #### Status
 ACCEPTED

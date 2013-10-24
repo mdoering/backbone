@@ -1,5 +1,4 @@
-Ascophanus miniatus (Preuss) Sacc. SPECIES
-=======
+# Ascophanus miniatus (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta ligulariae Kalymb. SPECIES
-=======
+# Ascochyta ligulariae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

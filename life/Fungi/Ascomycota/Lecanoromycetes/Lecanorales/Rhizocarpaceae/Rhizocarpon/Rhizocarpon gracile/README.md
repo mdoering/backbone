@@ -1,5 +1,4 @@
-Rhizocarpon gracile SPECIES
-=======
+# Rhizocarpon gracile SPECIES
 
 #### Status
 ACCEPTED

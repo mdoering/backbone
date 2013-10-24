@@ -1,5 +1,4 @@
-Vacuolariaceae FAMILY
-=======
+# Vacuolariaceae FAMILY
 
 #### Status
 ACCEPTED

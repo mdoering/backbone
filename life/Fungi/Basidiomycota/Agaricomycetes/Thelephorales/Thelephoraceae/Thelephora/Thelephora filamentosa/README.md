@@ -1,5 +1,4 @@
-Thelephora filamentosa Berk. & M.A. Curtis SPECIES
-=======
+# Thelephora filamentosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

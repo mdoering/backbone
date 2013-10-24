@@ -1,5 +1,4 @@
-Phloeosporella filipendulae (Thüm.) M.A. Will. & E.C. Bernard SPECIES
-=======
+# Phloeosporella filipendulae (Thüm.) M.A. Will. & E.C. Bernard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entomosporium maculatum f. maculatum FORM
-=======
+# Diplocarpon mespili (Sorauer) B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 3: 31 (1857)
+The Coelomycetes (Kew) 150 (1980)
 
 #### Original name
-Entomosporium maculatum f. maculatum
+Stigmatea mespili Sorauer, 1878
 
 ### Remarks
 null

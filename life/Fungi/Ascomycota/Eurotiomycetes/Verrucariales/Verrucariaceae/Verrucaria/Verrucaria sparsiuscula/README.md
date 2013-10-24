@@ -1,5 +1,4 @@
-Verrucaria sparsiuscula Nyl. SPECIES
-=======
+# Verrucaria sparsiuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

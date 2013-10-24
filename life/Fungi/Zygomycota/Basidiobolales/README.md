@@ -1,5 +1,4 @@
-Basidiobolales Caval.-Sm. ORDER
-=======
+# Basidiobolales Caval.-Sm. ORDER
 
 #### Status
 ACCEPTED

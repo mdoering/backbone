@@ -1,5 +1,4 @@
-Polychidium stipitatum Vezda & W.A. Weber SPECIES
-=======
+# Polychidium stipitatum Vezda & W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

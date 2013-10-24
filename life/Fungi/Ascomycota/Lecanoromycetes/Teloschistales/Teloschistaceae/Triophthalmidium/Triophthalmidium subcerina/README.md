@@ -1,5 +1,4 @@
-Triophthalmidium subcerina (Nyl.) Gyeln. SPECIES
-=======
+# Triophthalmidium subcerina (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

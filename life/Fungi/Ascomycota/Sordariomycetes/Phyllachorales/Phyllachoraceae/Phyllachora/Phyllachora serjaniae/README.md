@@ -1,14 +1,13 @@
-Physalospora serjaniae Rehm, 1904 SPECIES
-=======
+# Phyllachora serjaniae (Rehm) Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 44: 5 (1904)
+Annls mycol. 32: 386 (1934)
 
 #### Original name
 Physalospora serjaniae Rehm, 1904

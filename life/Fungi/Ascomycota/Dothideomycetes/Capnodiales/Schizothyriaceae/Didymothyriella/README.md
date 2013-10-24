@@ -1,5 +1,4 @@
-Didymothyriella GENUS
-=======
+# Didymothyriella GENUS
 
 #### Status
 ACCEPTED

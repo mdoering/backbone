@@ -1,5 +1,4 @@
-Xanthoparmelia capnoexillima Elix SPECIES
-=======
+# Xanthoparmelia capnoexillima Elix SPECIES
 
 #### Status
 ACCEPTED

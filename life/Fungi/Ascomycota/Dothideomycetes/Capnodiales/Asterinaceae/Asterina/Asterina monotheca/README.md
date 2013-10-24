@@ -1,5 +1,4 @@
-Asterina monotheca Pat. & Gaillard SPECIES
-=======
+# Asterina monotheca Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conchophthirius acuminatus SPECIES
-=======
+# Conchophthirius acuminatus SPECIES
 
 #### Status
 ACCEPTED

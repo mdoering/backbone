@@ -1,5 +1,4 @@
-Cordyceps falcata Berk. SPECIES
-=======
+# Cordyceps falcata Berk. SPECIES
 
 #### Status
 ACCEPTED

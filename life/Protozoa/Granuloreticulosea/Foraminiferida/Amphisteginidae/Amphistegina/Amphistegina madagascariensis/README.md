@@ -1,5 +1,4 @@
-Amphistegina madagascariensis d'Orbigny, 1903 SPECIES
-=======
+# Amphistegina madagascariensis d'Orbigny, 1903 SPECIES
 
 #### Status
 ACCEPTED

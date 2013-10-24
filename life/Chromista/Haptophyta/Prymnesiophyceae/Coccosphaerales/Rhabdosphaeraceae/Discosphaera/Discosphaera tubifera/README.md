@@ -1,5 +1,4 @@
-Discosphaera tubifera (Murray & Blackman) Ostenfeld, 1900 SPECIES
-=======
+# Discosphaera tubifera (Murray & Blackman) Ostenfeld, 1900 SPECIES
 
 #### Status
 ACCEPTED

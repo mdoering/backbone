@@ -1,5 +1,4 @@
-Diaporthe platasca (Peck) Sacc. SPECIES
-=======
+# Diaporthe platasca (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

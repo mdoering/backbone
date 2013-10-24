@@ -1,5 +1,4 @@
-Diplodia rheae Cooke SPECIES
-=======
+# Diplodia rheae Cooke SPECIES
 
 #### Status
 ACCEPTED

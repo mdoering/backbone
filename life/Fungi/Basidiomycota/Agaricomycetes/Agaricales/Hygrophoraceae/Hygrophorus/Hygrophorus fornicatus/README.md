@@ -1,5 +1,4 @@
-Hygrophorus fornicatus SPECIES
-=======
+# Hygrophorus fornicatus SPECIES
 
 #### Status
 ACCEPTED

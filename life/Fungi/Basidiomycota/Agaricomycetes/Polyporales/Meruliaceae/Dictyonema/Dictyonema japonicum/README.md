@@ -1,5 +1,4 @@
-Dictyonema japonicum Asahina SPECIES
-=======
+# Dictyonema japonicum Asahina SPECIES
 
 #### Status
 ACCEPTED

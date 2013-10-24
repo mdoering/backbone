@@ -1,5 +1,4 @@
-Mucor globifer Link SPECIES
-=======
+# Mucor globifer Link SPECIES
 
 #### Status
 ACCEPTED

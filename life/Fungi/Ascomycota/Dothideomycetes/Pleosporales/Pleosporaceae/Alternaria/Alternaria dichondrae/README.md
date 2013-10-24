@@ -1,5 +1,4 @@
-Alternaria dichondrae Gambogi, Vannacci & Triolo, 1975 SPECIES
-=======
+# Alternaria dichondrae Gambogi, Vannacci & Triolo, 1975 SPECIES
 
 #### Status
 ACCEPTED

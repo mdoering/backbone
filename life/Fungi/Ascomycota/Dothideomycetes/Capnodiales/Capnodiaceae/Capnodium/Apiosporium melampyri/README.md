@@ -1,5 +1,4 @@
-Apiosporium melampyri Sacc. SPECIES
-=======
+# Apiosporium melampyri Sacc. SPECIES
 
 #### Status
 ACCEPTED

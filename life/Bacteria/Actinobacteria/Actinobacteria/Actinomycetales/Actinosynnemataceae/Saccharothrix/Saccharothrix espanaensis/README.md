@@ -1,5 +1,4 @@
-Saccharothrix espanaensis Labeda & Lechevalier, 1989 SPECIES
-=======
+# Saccharothrix espanaensis Labeda & Lechevalier, 1989 SPECIES
 
 #### Status
 ACCEPTED

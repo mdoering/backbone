@@ -1,5 +1,4 @@
-Gyalecta thelotremoides (Nyl.) Kremp. SPECIES
-=======
+# Gyalecta thelotremoides (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platycola striata (Fromentel, 1876) ? SPECIES
-=======
+# Platycola striata (Fromentel, 1876) ? SPECIES
 
 #### Status
 ACCEPTED

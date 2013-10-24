@@ -1,14 +1,13 @@
-Hypospila bavarica Rehm, 1908 SPECIES
-=======
+# Plagiostoma bavaricum (Rehm) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 7: 112 (1978)
 
 #### Original name
 Hypospila bavarica Rehm, 1908

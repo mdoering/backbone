@@ -1,5 +1,4 @@
-Sclerostagonospora GENUS
-=======
+# Sclerostagonospora GENUS
 
 #### Status
 ACCEPTED

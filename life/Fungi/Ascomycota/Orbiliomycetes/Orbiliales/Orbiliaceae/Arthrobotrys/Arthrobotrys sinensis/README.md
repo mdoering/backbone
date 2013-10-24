@@ -1,5 +1,4 @@
-Arthrobotrys sinensis (Xing Z. Liu & K.Q. Zhang) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Arthrobotrys sinensis (Xing Z. Liu & K.Q. Zhang) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

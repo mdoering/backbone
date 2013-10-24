@@ -1,17 +1,16 @@
-Xylodon hellenbergii (Sheng H. Wu) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia hallenbergii Sheng H. Wu, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 93(5): 1020 (2001)
 
 #### Original name
-null
+Hyphodontia hallenbergii Sheng H. Wu, 2001
 
 ### Remarks
 null

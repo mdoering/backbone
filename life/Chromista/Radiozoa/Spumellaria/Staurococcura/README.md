@@ -1,5 +1,4 @@
-Staurococcura Carter, 1896 GENUS
-=======
+# Staurococcura Carter, 1896 GENUS
 
 #### Status
 ACCEPTED

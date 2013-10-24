@@ -1,5 +1,4 @@
-Lepiota nainitala Rawla SPECIES
-=======
+# Lepiota nainitala Rawla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus aureolus (Rabenh.) Kuntze SPECIES
-=======
+# Hymenoscyphus aureolus (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

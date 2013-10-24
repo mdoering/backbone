@@ -1,5 +1,4 @@
-Psathyrella fallax A.H. Sm. SPECIES
-=======
+# Psathyrella fallax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

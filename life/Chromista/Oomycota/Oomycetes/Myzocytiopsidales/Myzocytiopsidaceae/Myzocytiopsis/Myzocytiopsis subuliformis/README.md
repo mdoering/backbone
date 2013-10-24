@@ -1,5 +1,4 @@
-Myzocytiopsis subuliformis M.W. Dick, 1997 SPECIES
-=======
+# Myzocytiopsis subuliformis M.W. Dick, 1997 SPECIES
 
 #### Status
 ACCEPTED

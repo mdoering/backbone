@@ -1,5 +1,4 @@
-Lachnum hystriculum P. Karst. SPECIES
-=======
+# Lachnum hystriculum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

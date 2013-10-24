@@ -1,5 +1,4 @@
-Lecidea vigilans var. vigilans VARIETY
-=======
+# Lecidea vigilans Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea vigilans var. vigilans
+Lecidea vigilans Taylor
 
 ### Remarks
 null

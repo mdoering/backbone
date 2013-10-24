@@ -1,5 +1,4 @@
-Hymenoscyphus borraginaceus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus borraginaceus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

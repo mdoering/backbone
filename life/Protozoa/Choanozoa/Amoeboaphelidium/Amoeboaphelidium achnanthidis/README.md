@@ -1,5 +1,4 @@
-Amoeboaphelidium achnanthidis Scherff. SPECIES
-=======
+# Amoeboaphelidium achnanthidis Scherff. SPECIES
 
 #### Status
 ACCEPTED

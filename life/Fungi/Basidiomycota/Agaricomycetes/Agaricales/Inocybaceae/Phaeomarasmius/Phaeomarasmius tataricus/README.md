@@ -1,5 +1,4 @@
-Phaeomarasmius tataricus Singer SPECIES
-=======
+# Phaeomarasmius tataricus Singer SPECIES
 
 #### Status
 ACCEPTED

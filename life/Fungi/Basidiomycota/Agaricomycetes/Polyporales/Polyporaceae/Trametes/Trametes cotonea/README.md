@@ -1,14 +1,13 @@
-Polyporus cotoneus Pat. & Har., 1893 SPECIES
-=======
+# Trametes cotonea (Pat. & Har.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 9: 208 (1893)
+Norw. Jl Bot. 19: 236 (1972)
 
 #### Original name
 Polyporus cotoneus Pat. & Har., 1893

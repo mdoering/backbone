@@ -1,5 +1,4 @@
-Echinopyxis Pantocsek, 1913 GENUS
-=======
+# Echinopyxis Pantocsek, 1913 GENUS
 
 #### Status
 ACCEPTED

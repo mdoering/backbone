@@ -1,5 +1,4 @@
-Hyperammina cylindrica Parr, 1950 SPECIES
-=======
+# Hyperammina cylindrica Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED

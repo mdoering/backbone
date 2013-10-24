@@ -1,5 +1,4 @@
-Uredo cyperi-stoloniferi J.M. Yen SPECIES
-=======
+# Uredo cyperi-stoloniferi J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

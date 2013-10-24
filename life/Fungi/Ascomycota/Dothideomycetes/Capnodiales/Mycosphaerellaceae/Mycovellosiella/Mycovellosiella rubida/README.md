@@ -1,5 +1,4 @@
-Mycovellosiella rubida (A.S. Mull. & Chupp) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Mycovellosiella rubida (A.S. Mull. & Chupp) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

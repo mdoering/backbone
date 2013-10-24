@@ -1,5 +1,4 @@
-Hypholoma roystoniae (Earle) Morgan SPECIES
-=======
+# Hypholoma roystoniae (Earle) Morgan SPECIES
 
 #### Status
 ACCEPTED

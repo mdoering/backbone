@@ -1,5 +1,4 @@
-Amphisphaeria elaeagni Rehm SPECIES
-=======
+# Amphisphaeria elaeagni Rehm SPECIES
 
 #### Status
 ACCEPTED

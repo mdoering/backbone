@@ -1,5 +1,4 @@
-Hypotrachyna aspera C. H. Ribeiro & Marcelli SPECIES
-=======
+# Hypotrachyna aspera C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium tiara Berk. & Ravenel SPECIES
-=======
+# Helminthosporium tiara Berk. & Ravenel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 27): 104 (1875)
 
 #### Original name
-Helmisporium tiara Berk. & Ravenel
+Helminthosporium tiara Berk. & Ravenel
 
 ### Remarks
 null

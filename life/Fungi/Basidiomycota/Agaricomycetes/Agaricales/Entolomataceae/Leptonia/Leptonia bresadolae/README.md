@@ -1,5 +1,4 @@
-Leptonia bresadolae Schulzer SPECIES
-=======
+# Leptonia bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

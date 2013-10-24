@@ -1,5 +1,4 @@
-Amphisphaeria bambusae Traverso SPECIES
-=======
+# Amphisphaeria bambusae Traverso SPECIES
 
 #### Status
 ACCEPTED

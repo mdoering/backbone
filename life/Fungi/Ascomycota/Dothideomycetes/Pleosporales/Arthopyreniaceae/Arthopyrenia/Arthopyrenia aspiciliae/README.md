@@ -1,5 +1,4 @@
-Arthopyrenia aspiciliae J. Lahm SPECIES
-=======
+# Arthopyrenia aspiciliae J. Lahm SPECIES
 
 #### Status
 ACCEPTED

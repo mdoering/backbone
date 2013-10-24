@@ -1,5 +1,4 @@
-Clisosporium staphyleae (Peck) Kuntze SPECIES
-=======
+# Clisosporium staphyleae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

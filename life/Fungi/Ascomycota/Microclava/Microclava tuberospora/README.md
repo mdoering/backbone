@@ -1,5 +1,4 @@
-Microclava tuberospora G.C. Zhao & N. Li SPECIES
-=======
+# Microclava tuberospora G.C. Zhao & N. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia compressa Trentep. SPECIES
-=======
+# Trichia compressa Trentep. SPECIES
 
 #### Status
 ACCEPTED

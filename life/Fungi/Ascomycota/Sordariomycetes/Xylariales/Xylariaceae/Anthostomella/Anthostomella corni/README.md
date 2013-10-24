@@ -1,5 +1,4 @@
-Anthostomella corni Fabre SPECIES
-=======
+# Anthostomella corni Fabre SPECIES
 
 #### Status
 ACCEPTED

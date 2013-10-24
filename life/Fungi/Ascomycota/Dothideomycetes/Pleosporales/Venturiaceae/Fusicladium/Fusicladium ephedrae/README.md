@@ -1,5 +1,4 @@
-Fusicladium ephedrae Cruchet SPECIES
-=======
+# Fusicladium ephedrae Cruchet SPECIES
 
 #### Status
 ACCEPTED

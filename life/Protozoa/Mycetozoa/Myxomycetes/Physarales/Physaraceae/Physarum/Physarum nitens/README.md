@@ -1,14 +1,13 @@
-Physarum virescens var. nitens Lister VARIETY
-=======
+# Physarum nitens (Lister) Ing, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London), 3rd Edn 64 (1925)
+Trans. Br. mycol. Soc. 78(3): 444 (1982)
 
 #### Original name
 Physarum virescens var. nitens Lister

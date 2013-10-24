@@ -1,5 +1,4 @@
-Baltisphaeridium multispinosum C. Singh SPECIES
-=======
+# Baltisphaeridium multispinosum C. Singh SPECIES
 
 #### Status
 ACCEPTED

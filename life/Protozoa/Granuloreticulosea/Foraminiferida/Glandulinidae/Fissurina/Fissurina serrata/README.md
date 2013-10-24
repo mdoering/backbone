@@ -1,5 +1,4 @@
-Fissurina serrata (Schlumberger) SPECIES
-=======
+# Fissurina serrata (Schlumberger) SPECIES
 
 #### Status
 ACCEPTED

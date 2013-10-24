@@ -1,5 +1,4 @@
-Usnea substrigulosa (I.M. Lamb) C.W. Dodge SPECIES
-=======
+# Usnea substrigulosa (I.M. Lamb) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

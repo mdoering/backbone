@@ -1,5 +1,4 @@
-Mycena algeriensis Maire SPECIES
-=======
+# Mycena algeriensis Maire SPECIES
 
 #### Status
 ACCEPTED

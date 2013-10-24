@@ -1,5 +1,4 @@
-Leptosphaeria straminis Cooke & Harkn. SPECIES
-=======
+# Leptosphaeria straminis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

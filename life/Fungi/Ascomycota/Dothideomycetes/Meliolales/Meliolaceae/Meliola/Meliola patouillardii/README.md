@@ -1,17 +1,16 @@
-Meliola patouillardi Gaillard SPECIES
-=======
+# Meliola patouillardii Gaillard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Le Genre Meliola 109 (1892)
 
 #### Original name
-Meliola patouillardi Gaillard
+Meliola patouillardii Gaillard
 
 ### Remarks
 null

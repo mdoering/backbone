@@ -1,5 +1,4 @@
-Uredo utriculosa Duby SPECIES
-=======
+# Uredo utriculosa Duby SPECIES
 
 #### Status
 ACCEPTED

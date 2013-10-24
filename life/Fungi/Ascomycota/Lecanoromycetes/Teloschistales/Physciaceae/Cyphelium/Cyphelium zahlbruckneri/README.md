@@ -1,5 +1,4 @@
-Cyphelium zahlbruckneri SPECIES
-=======
+# Cyphelium zahlbruckneri SPECIES
 
 #### Status
 ACCEPTED

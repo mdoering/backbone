@@ -1,5 +1,4 @@
-Cylindrosporium ramicola Laubert SPECIES
-=======
+# Cylindrosporium ramicola Laubert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium arenarium Shaposhnikov {?} & Manteifel {?} SPECIES
-=======
+# Penicillium arenarium Shaposhnikov {?} & Manteifel {?} SPECIES
 
 #### Status
 ACCEPTED

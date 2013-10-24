@@ -1,5 +1,4 @@
-Asterina hyphaster Henn. SPECIES
-=======
+# Asterina hyphaster Henn. SPECIES
 
 #### Status
 ACCEPTED

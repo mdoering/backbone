@@ -1,5 +1,4 @@
-Bacidia albocarnea Nyl. SPECIES
-=======
+# Bacidia albocarnea Nyl. SPECIES
 
 #### Status
 ACCEPTED

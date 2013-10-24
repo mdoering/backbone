@@ -1,5 +1,4 @@
-Filisphaeridium densum (Takahashi, 1971) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium densum (Takahashi, 1971) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

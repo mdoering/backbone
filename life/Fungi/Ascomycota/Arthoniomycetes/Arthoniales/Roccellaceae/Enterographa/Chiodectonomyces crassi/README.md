@@ -1,5 +1,4 @@
-Chiodectonomyces crassi Cif. & Tomas. SPECIES
-=======
+# Chiodectonomyces crassi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

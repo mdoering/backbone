@@ -1,5 +1,4 @@
-Hygrophorus carnescens S. Imai SPECIES
-=======
+# Hygrophorus carnescens S. Imai SPECIES
 
 #### Status
 ACCEPTED

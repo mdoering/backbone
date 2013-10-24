@@ -1,5 +1,4 @@
-Coccocarpia elegans Müll. Arg. SPECIES
-=======
+# Coccocarpia elegans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

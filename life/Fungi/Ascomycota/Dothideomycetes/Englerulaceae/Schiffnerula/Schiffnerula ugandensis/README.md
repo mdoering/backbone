@@ -1,5 +1,4 @@
-Schiffnerula ugandensis (Hansf.) S. Hughes SPECIES
-=======
+# Schiffnerula ugandensis (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

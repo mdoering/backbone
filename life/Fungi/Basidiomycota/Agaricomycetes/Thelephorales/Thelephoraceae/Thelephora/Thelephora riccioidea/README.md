@@ -1,5 +1,4 @@
-Thelephora riccioidea Berk. SPECIES
-=======
+# Thelephora riccioidea Berk. SPECIES
 
 #### Status
 ACCEPTED

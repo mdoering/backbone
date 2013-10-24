@@ -1,5 +1,4 @@
-Dimeiospora A.V. Simakova, T.F. Pankova & I.V. Issi GENUS
-=======
+# Dimeiospora A.V. Simakova, T.F. Pankova & I.V. Issi GENUS
 
 #### Status
 ACCEPTED

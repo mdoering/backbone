@@ -1,5 +1,4 @@
-Diplomyces Thaxt. GENUS
-=======
+# Diplomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

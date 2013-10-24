@@ -1,5 +1,4 @@
-Pleurage brevicaudata (Speg.) C. Moreau SPECIES
-=======
+# Pleurage brevicaudata (Speg.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen flammeus L. f. SPECIES
-=======
+# Lichen flammeus L. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pediococcus urinaeequi (ex Mees, 1934) Garvie, 1988 SPECIES
-=======
+# Aerococcus urinaeequi (Garvie, 1988) Felis et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

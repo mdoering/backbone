@@ -1,5 +1,4 @@
-Bifidobacterium dentium Scardovi and Crociani, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium dentium Scardovi and Crociani, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

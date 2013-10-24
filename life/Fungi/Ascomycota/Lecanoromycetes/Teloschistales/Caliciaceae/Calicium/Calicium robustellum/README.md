@@ -1,17 +1,16 @@
-Calicium stenosporum F. Wilson SPECIES
-=======
+# Calicium robustellum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Bot. Bull. Dept. Agric. , Queensland 7: 29 (1891)
+Annls Sci. Nat. , Bot. , sér. 4 15: 39 (1861)
 
 #### Original name
-Calicium stenosporum F. Wilson
+Calicium robustellum Nyl.
 
 ### Remarks
 null

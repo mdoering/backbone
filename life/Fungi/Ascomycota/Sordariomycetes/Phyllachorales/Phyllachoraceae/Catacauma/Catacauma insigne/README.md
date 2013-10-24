@@ -1,5 +1,4 @@
-Catacauma insigne (Cooke) Theiss. SPECIES
-=======
+# Catacauma insigne (Cooke) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella astilbincola Petr. SPECIES
-=======
+# Asteridiella astilbincola Petr. SPECIES
 
 #### Status
 ACCEPTED

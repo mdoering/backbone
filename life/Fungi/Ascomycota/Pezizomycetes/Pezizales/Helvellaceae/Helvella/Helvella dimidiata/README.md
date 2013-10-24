@@ -1,5 +1,4 @@
-Helvella dimidiata Bull. SPECIES
-=======
+# Helvella dimidiata Bull. SPECIES
 
 #### Status
 ACCEPTED

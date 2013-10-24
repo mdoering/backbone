@@ -1,5 +1,4 @@
-Flavoparmelia ecuadoriensis T. H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia ecuadoriensis T. H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

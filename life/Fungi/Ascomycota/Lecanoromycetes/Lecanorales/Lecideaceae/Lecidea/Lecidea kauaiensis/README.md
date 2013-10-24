@@ -1,5 +1,4 @@
-Lecidea kauaiensis H. Magn. SPECIES
-=======
+# Lecidea kauaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

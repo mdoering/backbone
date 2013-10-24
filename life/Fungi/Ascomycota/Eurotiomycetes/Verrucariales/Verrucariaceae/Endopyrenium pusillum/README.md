@@ -1,5 +1,4 @@
-Endopyrenium pusillum Körb. SPECIES
-=======
+# Endopyrenium pusillum Körb. SPECIES
 
 #### Status
 ACCEPTED

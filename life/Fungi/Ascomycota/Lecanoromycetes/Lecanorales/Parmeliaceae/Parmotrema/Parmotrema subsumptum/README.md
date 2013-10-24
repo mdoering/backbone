@@ -1,8 +1,7 @@
-Parmelia urceolata var. nuda Müll. Arg. VARIETY
-=======
+# Parmotrema subsumptum (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

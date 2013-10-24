@@ -1,5 +1,4 @@
-Lecidea permutabilis Müll. Arg. SPECIES
-=======
+# Lecidea permutabilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusisporium erubescens Durieu & Mont. SPECIES
-=======
+# Fusisporium erubescens Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

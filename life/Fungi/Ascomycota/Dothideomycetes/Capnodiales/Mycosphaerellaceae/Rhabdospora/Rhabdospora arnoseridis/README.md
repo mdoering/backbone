@@ -1,5 +1,4 @@
-Rhabdospora arnoseridis Lind SPECIES
-=======
+# Rhabdospora arnoseridis Lind SPECIES
 
 #### Status
 ACCEPTED

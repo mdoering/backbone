@@ -1,5 +1,4 @@
-Hypocrea subcarnea Ellis & Everh. SPECIES
-=======
+# Hypocrea subcarnea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

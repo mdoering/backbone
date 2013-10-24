@@ -1,5 +1,4 @@
-Hemisphaeria GENUS
-=======
+# Hemisphaeria GENUS
 
 #### Status
 ACCEPTED

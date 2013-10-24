@@ -1,5 +1,4 @@
-Ascophanus dentatus Boud. SPECIES
-=======
+# Ascophanus dentatus Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora atylosiae (Thirum. & Govindu) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora atylosiae (Thirum. & Govindu) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

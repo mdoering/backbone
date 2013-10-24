@@ -1,5 +1,4 @@
-Plagiostigme neolitseae Tak. Kobay. SPECIES
-=======
+# Plagiostigme neolitseae Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

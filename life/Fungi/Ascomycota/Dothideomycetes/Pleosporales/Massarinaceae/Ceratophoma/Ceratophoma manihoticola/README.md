@@ -1,5 +1,4 @@
-Ceratophoma manihoticola Chevaug. SPECIES
-=======
+# Ceratophoma manihoticola Chevaug. SPECIES
 
 #### Status
 ACCEPTED

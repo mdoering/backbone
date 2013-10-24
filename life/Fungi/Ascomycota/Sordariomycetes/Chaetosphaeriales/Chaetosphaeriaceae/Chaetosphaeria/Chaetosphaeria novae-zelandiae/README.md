@@ -1,5 +1,4 @@
-Chaetosphaeria novae-zelandiae S. Hughes & Shoemaker, 1965 SPECIES
-=======
+# Chaetosphaeria novae-zelandiae S. Hughes & Shoemaker, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe australis (Singer) Watling SPECIES
-=======
+# Conocybe australis (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

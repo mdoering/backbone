@@ -1,5 +1,4 @@
-Biddulphia tridentata Ehrenberg SPECIES
-=======
+# Biddulphia tridentata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

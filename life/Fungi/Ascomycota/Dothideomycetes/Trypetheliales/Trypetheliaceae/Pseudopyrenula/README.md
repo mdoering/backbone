@@ -1,5 +1,4 @@
-Pseudopyrenula Müll. Arg. GENUS
-=======
+# Pseudopyrenula Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathroides GENUS
-=======
+# Clathroides GENUS
 
 #### Status
 ACCEPTED

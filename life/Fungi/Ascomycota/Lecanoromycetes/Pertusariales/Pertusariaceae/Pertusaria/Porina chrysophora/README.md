@@ -1,8 +1,7 @@
-Verrucaria chrysophora Stirt., 1877 SPECIES
-=======
+# Porina chrysophora (Stirt.) R. Sant., 1952 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

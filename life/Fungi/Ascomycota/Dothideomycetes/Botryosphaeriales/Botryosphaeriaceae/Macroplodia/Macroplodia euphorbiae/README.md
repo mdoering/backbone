@@ -1,5 +1,4 @@
-Macroplodia euphorbiae (Pass.) Kuntze SPECIES
-=======
+# Macroplodia euphorbiae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

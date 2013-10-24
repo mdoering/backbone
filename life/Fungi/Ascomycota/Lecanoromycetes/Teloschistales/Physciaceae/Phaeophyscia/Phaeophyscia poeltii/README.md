@@ -1,5 +1,4 @@
-Phaeophyscia poeltii (Frey) Clauzade & Cl. Roux SPECIES
-=======
+# Phaeophyscia poeltii (Frey) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

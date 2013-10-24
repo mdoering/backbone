@@ -1,5 +1,4 @@
-Melanographa hysteriospora (Leight.) Müll. Arg. SPECIES
-=======
+# Melanographa hysteriospora (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paleasphaeridium Yin Chongyu, 1985 GENUS
-=======
+# Paleasphaeridium Yin Chongyu, 1985 GENUS
 
 #### Status
 ACCEPTED

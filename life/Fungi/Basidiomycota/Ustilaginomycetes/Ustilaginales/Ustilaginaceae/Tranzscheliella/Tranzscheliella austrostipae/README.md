@@ -1,5 +1,4 @@
-Tranzscheliella austrostipae R.G. Shivas & Vánky SPECIES
-=======
+# Tranzscheliella austrostipae R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

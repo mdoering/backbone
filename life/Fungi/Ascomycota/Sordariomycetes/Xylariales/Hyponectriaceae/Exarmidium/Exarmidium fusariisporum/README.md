@@ -1,5 +1,4 @@
-Exarmidium fusariisporum (Ellis & Everh.) Theiss. & Syd. SPECIES
-=======
+# Exarmidium fusariisporum (Ellis & Everh.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

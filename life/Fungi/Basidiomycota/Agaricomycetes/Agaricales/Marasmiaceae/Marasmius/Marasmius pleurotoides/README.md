@@ -1,5 +1,4 @@
-Marasmius pleurotoides Henn. SPECIES
-=======
+# Marasmius pleurotoides Henn. SPECIES
 
 #### Status
 ACCEPTED

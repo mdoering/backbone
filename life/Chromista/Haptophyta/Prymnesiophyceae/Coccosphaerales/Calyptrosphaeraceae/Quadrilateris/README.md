@@ -1,14 +1,13 @@
-Quadrilateralis O. Varol, 1991 GENUS
-=======
+# Quadrilateris O. Varol, 1991 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Neues Jahrb Geol Palaeontol Abh 182 (2): 224.
 
 #### Original name
 null

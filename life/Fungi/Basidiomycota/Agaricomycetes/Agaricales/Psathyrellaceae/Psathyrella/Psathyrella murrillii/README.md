@@ -1,5 +1,4 @@
-Psathyrella murrillii A.H. Sm. SPECIES
-=======
+# Psathyrella murrillii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

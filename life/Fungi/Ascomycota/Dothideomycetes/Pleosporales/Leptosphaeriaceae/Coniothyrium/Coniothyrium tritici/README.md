@@ -1,5 +1,4 @@
-Coniothyrium tritici (Cooke & Massee) Tassi SPECIES
-=======
+# Coniothyrium tritici (Cooke & Massee) Tassi SPECIES
 
 #### Status
 ACCEPTED

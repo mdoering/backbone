@@ -1,5 +1,4 @@
-Septoria anomala Sacc. & Fautrey SPECIES
-=======
+# Septoria anomala Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

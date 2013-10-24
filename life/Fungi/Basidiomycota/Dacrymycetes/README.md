@@ -1,5 +1,4 @@
-Dacrymycetes Doweld CLASS
-=======
+# Dacrymycetes Doweld CLASS
 
 #### Status
 ACCEPTED

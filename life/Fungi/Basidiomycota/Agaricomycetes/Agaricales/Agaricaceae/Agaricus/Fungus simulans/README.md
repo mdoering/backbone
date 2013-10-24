@@ -1,5 +1,4 @@
-Fungus simulans (Berk.) Kuntze SPECIES
-=======
+# Fungus simulans (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

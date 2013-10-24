@@ -1,5 +1,4 @@
-Rhodophyllus rubellus (Scop.) Quél. SPECIES
-=======
+# Rhodophyllus rubellus (Scop.) Quél. SPECIES
 
 #### Status
 ACCEPTED

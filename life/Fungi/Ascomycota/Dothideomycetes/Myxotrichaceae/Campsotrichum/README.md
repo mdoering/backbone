@@ -1,5 +1,4 @@
-Campsotrichum GENUS
-=======
+# Campsotrichum GENUS
 
 #### Status
 ACCEPTED

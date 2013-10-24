@@ -1,5 +1,4 @@
-Marasmius subannulatus Trog SPECIES
-=======
+# Marasmius subannulatus Trog SPECIES
 
 #### Status
 ACCEPTED

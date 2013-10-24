@@ -1,5 +1,4 @@
-Hypoxylonites ovaloides Elsik SPECIES
-=======
+# Hypoxylonites ovaloides Elsik SPECIES
 
 #### Status
 ACCEPTED

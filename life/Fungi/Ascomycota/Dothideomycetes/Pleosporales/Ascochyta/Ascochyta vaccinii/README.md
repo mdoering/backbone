@@ -1,5 +1,4 @@
-Ascochyta vaccinii Lib. SPECIES
-=======
+# Ascochyta vaccinii Lib. SPECIES
 
 #### Status
 ACCEPTED

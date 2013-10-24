@@ -1,8 +1,7 @@
-Gononema alariae P.M. Pedersen SPECIES
-=======
+# Microspongium alariae (P.M. Pedersen) A.F. Peters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

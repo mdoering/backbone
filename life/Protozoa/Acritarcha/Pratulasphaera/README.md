@@ -1,5 +1,4 @@
-Pratulasphaera R.Wicander & G.Playford, 1985 GENUS
-=======
+# Pratulasphaera R.Wicander & G.Playford, 1985 GENUS
 
 #### Status
 ACCEPTED

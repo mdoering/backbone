@@ -1,5 +1,4 @@
-Eutypella berchemiae (Cooke) Sacc. SPECIES
-=======
+# Eutypella berchemiae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

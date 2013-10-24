@@ -1,5 +1,4 @@
-Rubelia verruculosa (Berk. & Broome) Nieuwl. SPECIES
-=======
+# Rubelia verruculosa (Berk. & Broome) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

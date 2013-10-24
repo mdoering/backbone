@@ -1,5 +1,4 @@
-Tuberculina solanina Speg. SPECIES
-=======
+# Tuberculina solanina Speg. SPECIES
 
 #### Status
 ACCEPTED

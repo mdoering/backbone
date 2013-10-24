@@ -1,5 +1,4 @@
-Clitocybe bipindiensis Henn. SPECIES
-=======
+# Clitocybe bipindiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

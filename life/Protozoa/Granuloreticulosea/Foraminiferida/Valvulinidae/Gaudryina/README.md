@@ -1,14 +1,13 @@
-Gaudrina d'Orbigny, 1846 GENUS
-=======
+# Gaudryina d'Orbigny, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Foram. Foss. Vienne, 197.
+in Sagra, Hist. Cuba, 2 (Foram. ), 112 (as Gaudryna p. 219).
 
 #### Original name
 null

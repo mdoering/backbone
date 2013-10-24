@@ -1,5 +1,4 @@
-Coniothecium helicoideum Sacc. & Roum. SPECIES
-=======
+# Coniothecium helicoideum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

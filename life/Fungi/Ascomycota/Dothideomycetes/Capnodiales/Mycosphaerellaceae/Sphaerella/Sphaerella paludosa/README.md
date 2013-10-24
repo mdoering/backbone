@@ -1,5 +1,4 @@
-Sphaerella paludosa Ellis & Everh. SPECIES
-=======
+# Sphaerella paludosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

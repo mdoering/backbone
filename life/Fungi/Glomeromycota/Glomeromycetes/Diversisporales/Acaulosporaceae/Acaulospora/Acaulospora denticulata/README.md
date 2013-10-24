@@ -1,5 +1,4 @@
-Acaulospora denticulata Sieverd. & S. Toro, 1987 SPECIES
-=======
+# Acaulospora denticulata Sieverd. & S. Toro, 1987 SPECIES
 
 #### Status
 ACCEPTED

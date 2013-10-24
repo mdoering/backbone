@@ -1,5 +1,4 @@
-Thecaphora trailii Cooke, 1883 SPECIES
-=======
+# Thecaphora trailii Cooke, 1883 SPECIES
 
 #### Status
 ACCEPTED

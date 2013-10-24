@@ -1,5 +1,4 @@
-Collybia estensis Morgan SPECIES
-=======
+# Collybia estensis Morgan SPECIES
 
 #### Status
 ACCEPTED

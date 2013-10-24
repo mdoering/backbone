@@ -1,5 +1,4 @@
-Glabratella carinata Seiglie & Bermúdez, 1965 SPECIES
-=======
+# Glabratella carinata Seiglie & Bermúdez, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium sesami (Y.S. Paul & J.N. Kapoor) Hosag., Vijay., Udaiyan & Manian, 1992 SPECIES
-=======
+# Oidium sesami (Y.S. Paul & J.N. Kapoor) Hosag., Vijay., Udaiyan & Manian, 1992 SPECIES
 
 #### Status
 ACCEPTED

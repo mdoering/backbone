@@ -1,5 +1,4 @@
-Septoria grandicipis Joanne E. Taylor & Crous SPECIES
-=======
+# Septoria grandicipis Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

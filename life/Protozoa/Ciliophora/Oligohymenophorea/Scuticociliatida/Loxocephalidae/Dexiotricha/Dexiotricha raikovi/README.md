@@ -1,5 +1,4 @@
-Dexiotricha raikovi SPECIES
-=======
+# Dexiotricha raikovi SPECIES
 
 #### Status
 ACCEPTED

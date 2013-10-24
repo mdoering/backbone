@@ -1,5 +1,4 @@
-Inodosporus Overstreet & Weidner GENUS
-=======
+# Inodosporus Overstreet & Weidner GENUS
 
 #### Status
 ACCEPTED

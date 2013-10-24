@@ -1,5 +1,4 @@
-Patellaria enteroleuca (Ach.) Duby SPECIES
-=======
+# Patellaria enteroleuca (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

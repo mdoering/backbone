@@ -1,5 +1,4 @@
-Lophiotrema vigheffulense (Pass.) Berl. SPECIES
-=======
+# Lophiotrema vigheffulense (Pass.) Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora hamata Schulzer & Sacc. SPECIES
-=======
+# Rhabdospora hamata Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

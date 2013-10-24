@@ -1,5 +1,4 @@
-Uromyces satarensis P.B. Chavan & Bakare SPECIES
-=======
+# Uromyces satarensis P.B. Chavan & Bakare SPECIES
 
 #### Status
 ACCEPTED

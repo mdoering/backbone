@@ -1,5 +1,4 @@
-Actinomadura helvata Nonomura & Ohara, 1971 SPECIES
-=======
+# Actinomadura helvata Nonomura & Ohara, 1971 SPECIES
 
 #### Status
 ACCEPTED

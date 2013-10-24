@@ -1,5 +1,4 @@
-Vainiona trypetheliza (Nyl.) Werner SPECIES
-=======
+# Vainiona trypetheliza (Nyl.) Werner SPECIES
 
 #### Status
 ACCEPTED

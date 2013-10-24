@@ -1,5 +1,4 @@
-Mitremyces japonicus (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Mitremyces japonicus (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

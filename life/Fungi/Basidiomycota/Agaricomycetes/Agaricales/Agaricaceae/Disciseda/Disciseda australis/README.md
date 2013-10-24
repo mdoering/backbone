@@ -1,5 +1,4 @@
-Disciseda australis G. Cunn. SPECIES
-=======
+# Disciseda australis G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

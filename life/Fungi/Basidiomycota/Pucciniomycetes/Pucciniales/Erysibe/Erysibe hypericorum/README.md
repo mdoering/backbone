@@ -1,5 +1,4 @@
-Erysibe hypericorum Wallr. SPECIES
-=======
+# Erysibe hypericorum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidiomycetes Begerow, M. Stoll, R. Bauer CLASS
-=======
+# Exobasidiomycetes Begerow, M. Stoll, R. Bauer CLASS
 
 #### Status
 ACCEPTED

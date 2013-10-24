@@ -1,5 +1,4 @@
-Puccinia sierrensis Cummins SPECIES
-=======
+# Puccinia sierrensis Cummins SPECIES
 
 #### Status
 ACCEPTED

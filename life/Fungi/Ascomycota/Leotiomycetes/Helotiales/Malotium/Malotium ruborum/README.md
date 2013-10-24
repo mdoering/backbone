@@ -1,5 +1,4 @@
-Malotium ruborum Velen. SPECIES
-=======
+# Malotium ruborum Velen. SPECIES
 
 #### Status
 ACCEPTED

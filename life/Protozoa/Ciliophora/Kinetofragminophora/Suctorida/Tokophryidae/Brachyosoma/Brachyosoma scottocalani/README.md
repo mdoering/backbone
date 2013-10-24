@@ -1,5 +1,4 @@
-Brachyosoma scottocalani SPECIES
-=======
+# Brachyosoma scottocalani SPECIES
 
 #### Status
 ACCEPTED

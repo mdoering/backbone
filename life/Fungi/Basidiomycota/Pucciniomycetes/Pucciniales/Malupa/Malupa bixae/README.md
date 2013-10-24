@@ -1,5 +1,4 @@
-Malupa bixae (Arthur) Buriticá SPECIES
-=======
+# Malupa bixae (Arthur) Buriticá SPECIES
 
 #### Status
 ACCEPTED

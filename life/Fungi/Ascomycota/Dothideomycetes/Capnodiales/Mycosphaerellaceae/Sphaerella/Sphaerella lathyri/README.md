@@ -1,5 +1,4 @@
-Sphaerella lathyri (Potebnia) Sacc. & Traverso SPECIES
-=======
+# Sphaerella lathyri (Potebnia) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

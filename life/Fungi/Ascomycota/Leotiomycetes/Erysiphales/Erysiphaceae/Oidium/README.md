@@ -1,17 +1,16 @@
-Amphiblistrum Corda GENUS
-=======
+# Oidium Link ex E.M. Fries, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 11 (1837)
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 121 (1824)
 
 #### Original name
-Amphiblistrum Corda
+Oidium Link ex E.M. Fries, 1821
 
 ### Remarks
 null

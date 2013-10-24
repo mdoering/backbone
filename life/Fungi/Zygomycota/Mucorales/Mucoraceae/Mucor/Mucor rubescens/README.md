@@ -1,5 +1,4 @@
-Mucor rubescens Léger SPECIES
-=======
+# Mucor rubescens Léger SPECIES
 
 #### Status
 ACCEPTED

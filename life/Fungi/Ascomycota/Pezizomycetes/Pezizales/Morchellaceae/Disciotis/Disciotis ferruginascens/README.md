@@ -1,5 +1,4 @@
-Disciotis ferruginascens Boud. SPECIES
-=======
+# Disciotis ferruginascens Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe erythrojonipoda Fayod SPECIES
-=======
+# Hydrocybe erythrojonipoda Fayod SPECIES
 
 #### Status
 ACCEPTED

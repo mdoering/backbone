@@ -1,5 +1,4 @@
-Ceratonema rigidum Roth SPECIES
-=======
+# Ceratonema rigidum Roth SPECIES
 
 #### Status
 ACCEPTED

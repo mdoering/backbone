@@ -1,5 +1,4 @@
-Hericium americanum Ginns, 1984 SPECIES
-=======
+# Hericium americanum Ginns, 1984 SPECIES
 
 #### Status
 ACCEPTED

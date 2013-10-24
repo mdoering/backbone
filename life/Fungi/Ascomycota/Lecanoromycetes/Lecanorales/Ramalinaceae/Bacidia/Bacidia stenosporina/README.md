@@ -1,5 +1,4 @@
-Bacidia stenosporina (Müll. Arg.) Hellb. SPECIES
-=======
+# Bacidia stenosporina (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

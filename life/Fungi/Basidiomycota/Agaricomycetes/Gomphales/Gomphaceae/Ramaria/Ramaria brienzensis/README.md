@@ -1,5 +1,4 @@
-Ramaria brienzensis Schild, 1992 SPECIES
-=======
+# Ramaria brienzensis Schild, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagerheimina scruposa (Schreb.) Kuntze SPECIES
-=======
+# Lagerheimina scruposa (Schreb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

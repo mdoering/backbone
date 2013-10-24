@@ -1,5 +1,4 @@
-Stereum rhythidocyclum Sacc. & F. Sacc. SPECIES
-=======
+# Stereum rhythidocyclum Sacc. & F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

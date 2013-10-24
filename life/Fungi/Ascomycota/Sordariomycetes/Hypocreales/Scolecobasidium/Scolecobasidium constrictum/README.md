@@ -1,17 +1,16 @@
-Dactylaria constricta var. constricta (E.V. Abbott) D.M. Dixon & Salkin VARIETY
-=======
+# Scolecobasidium constrictum E.V. Abbott, 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Clin. Microbiol. 24(1): 13 (1986)
+Mycologia 19(1): 30 (1927)
 
 #### Original name
-Dactylaria constricta var. constricta (E.V. Abbott) D.M. Dixon & Salkin
+Scolecobasidium constrictum E.V. Abbott, 1927
 
 ### Remarks
 null

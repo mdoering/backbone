@@ -1,5 +1,4 @@
-Stilbospora lodoiceae Henn. SPECIES
-=======
+# Stilbospora lodoiceae Henn. SPECIES
 
 #### Status
 ACCEPTED

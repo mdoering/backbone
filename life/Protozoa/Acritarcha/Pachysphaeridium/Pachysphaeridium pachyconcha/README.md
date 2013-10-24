@@ -1,5 +1,4 @@
-Pachysphaeridium pachyconcha Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium pachyconcha Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

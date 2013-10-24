@@ -1,5 +1,4 @@
-Asterostomella gregariella Petr. & Cif. SPECIES
-=======
+# Asterostomella gregariella Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

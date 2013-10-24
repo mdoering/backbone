@@ -1,17 +1,16 @@
-Graphis subtricosa C. Knight SPECIES
-=======
+# Phaeographis subintricata (C. Knight) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 40 (1882)
+Bull. Herb. Boissier 3: 320 (1895)
 
 #### Original name
-Graphis subtricosa C. Knight
+Graphis subintricata C. Knight
 
 ### Remarks
 null

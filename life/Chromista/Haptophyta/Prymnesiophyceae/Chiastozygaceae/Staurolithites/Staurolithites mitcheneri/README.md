@@ -1,5 +1,4 @@
-Staurolithites mitcheneri SPECIES
-=======
+# Staurolithites mitcheneri SPECIES
 
 #### Status
 ACCEPTED

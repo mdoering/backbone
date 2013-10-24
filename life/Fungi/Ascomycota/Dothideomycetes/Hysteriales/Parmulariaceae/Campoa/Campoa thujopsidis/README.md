@@ -1,5 +1,4 @@
-Campoa thujopsidis Sawada, 1950 SPECIES
-=======
+# Campoa thujopsidis Sawada, 1950 SPECIES
 
 #### Status
 ACCEPTED

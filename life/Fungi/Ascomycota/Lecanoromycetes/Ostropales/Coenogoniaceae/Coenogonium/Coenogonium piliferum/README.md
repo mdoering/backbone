@@ -1,5 +1,4 @@
-Coenogonium piliferum (Vezda) Kalb & Lücking SPECIES
-=======
+# Coenogonium piliferum (Vezda) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

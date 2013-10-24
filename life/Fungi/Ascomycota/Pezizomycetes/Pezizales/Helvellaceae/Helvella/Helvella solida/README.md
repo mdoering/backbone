@@ -1,5 +1,4 @@
-Helvella solida Velen. SPECIES
-=======
+# Helvella solida Velen. SPECIES
 
 #### Status
 ACCEPTED

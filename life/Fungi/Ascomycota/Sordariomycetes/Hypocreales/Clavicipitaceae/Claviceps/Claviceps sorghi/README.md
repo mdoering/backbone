@@ -1,5 +1,4 @@
-Claviceps sorghi B.G.P. Kulk., Seshadri & Hegde, 1976 SPECIES
-=======
+# Claviceps sorghi B.G.P. Kulk., Seshadri & Hegde, 1976 SPECIES
 
 #### Status
 ACCEPTED

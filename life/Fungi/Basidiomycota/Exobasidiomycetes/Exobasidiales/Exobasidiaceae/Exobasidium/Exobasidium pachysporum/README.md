@@ -1,5 +1,4 @@
-Exobasidium pachysporum Nannf., 1981 SPECIES
-=======
+# Exobasidium pachysporum Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

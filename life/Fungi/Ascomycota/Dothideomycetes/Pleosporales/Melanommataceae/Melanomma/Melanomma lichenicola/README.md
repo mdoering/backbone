@@ -1,5 +1,4 @@
-Melanomma lichenicola Diederich SPECIES
-=======
+# Melanomma lichenicola Diederich SPECIES
 
 #### Status
 ACCEPTED

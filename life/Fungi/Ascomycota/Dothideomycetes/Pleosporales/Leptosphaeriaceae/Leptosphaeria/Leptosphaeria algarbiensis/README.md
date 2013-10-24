@@ -1,5 +1,4 @@
-Leptosphaeria algarbiensis M.T. Lucas SPECIES
-=======
+# Leptosphaeria algarbiensis M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

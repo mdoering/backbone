@@ -1,5 +1,4 @@
-Leptothyrium hrubi Bubák SPECIES
-=======
+# Leptothyrium hrubi Bubák SPECIES
 
 #### Status
 ACCEPTED

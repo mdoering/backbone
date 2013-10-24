@@ -1,5 +1,4 @@
-Astrophacilla Haeckel, 1887 GENUS
-=======
+# Astrophacilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

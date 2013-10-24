@@ -1,5 +1,4 @@
-Steccherinum crassiusculum K.A. Harrison SPECIES
-=======
+# Steccherinum crassiusculum K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

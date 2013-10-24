@@ -1,5 +1,4 @@
-Peziza pomicolor Berk. & Ravenel SPECIES
-=======
+# Peziza pomicolor Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

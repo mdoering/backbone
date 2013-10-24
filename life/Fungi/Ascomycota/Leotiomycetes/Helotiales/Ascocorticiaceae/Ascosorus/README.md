@@ -1,5 +1,4 @@
-Ascosorus Henn. & Ruhland GENUS
-=======
+# Ascosorus Henn. & Ruhland GENUS
 
 #### Status
 ACCEPTED

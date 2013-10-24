@@ -1,5 +1,4 @@
-Suillosporium caricis Kotir. & Saaren. SPECIES
-=======
+# Suillosporium caricis Kotir. & Saaren. SPECIES
 
 #### Status
 ACCEPTED

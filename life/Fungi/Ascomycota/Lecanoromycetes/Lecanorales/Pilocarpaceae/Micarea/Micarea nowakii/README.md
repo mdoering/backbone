@@ -1,5 +1,4 @@
-Micarea nowakii Czarnota & Coppins SPECIES
-=======
+# Micarea nowakii Czarnota & Coppins SPECIES
 
 #### Status
 ACCEPTED

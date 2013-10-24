@@ -1,5 +1,4 @@
-Aecidium monocystis Berk., 1855 SPECIES
-=======
+# Aecidium monocystis Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

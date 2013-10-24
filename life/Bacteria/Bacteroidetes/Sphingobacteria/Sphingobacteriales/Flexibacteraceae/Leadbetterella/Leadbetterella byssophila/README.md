@@ -1,5 +1,4 @@
-Leadbetterella byssophila Weon et al., 2005 SPECIES
-=======
+# Leadbetterella byssophila Weon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium pallidoflavescens var. pallidoflavescens VARIETY
-=======
+# Cenangium pallidoflavescens Feltgen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenangium pallidoflavescens var. pallidoflavescens
+Cenangium pallidoflavescens Feltgen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca gallowayi S.Y. Kondr., Kärnefelt & Filson SPECIES
-=======
+# Caloplaca gallowayi S.Y. Kondr., Kärnefelt & Filson SPECIES
 
 #### Status
 ACCEPTED

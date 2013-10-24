@@ -1,14 +1,13 @@
-Stigmatidium anguinellum Nyl. SPECIES
-=======
+# Opegrapha anguinella (Nyl.) Ertz & Diederich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 19: 381 (1863)
+in Ertz, Miadlikowska, Lutzoni, Dessein, Raspé, Vigneron, Hofstetter & Deiderich, Mycol. Res. 113(1): 146 (2009)
 
 #### Original name
 Stigmatidium anguinellum Nyl.

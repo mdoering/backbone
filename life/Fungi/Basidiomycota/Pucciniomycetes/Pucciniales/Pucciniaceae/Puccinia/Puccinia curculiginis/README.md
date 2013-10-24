@@ -1,17 +1,16 @@
-Puccinia curculigo Racib. SPECIES
-=======
+# Puccinia curculiginis Racib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Parasit. Alg. Pilze Java's (Jakarta) 1: 21 (1900)
 
 #### Original name
-Puccinia curculigo Racib.
+Puccinia curculiginis Racib.
 
 ### Remarks
 null

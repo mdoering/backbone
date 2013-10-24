@@ -1,17 +1,16 @@
-Helmisporium helleri F. Stevens SPECIES
-=======
+# Spiropes helleri (F. Stevens) M.B. Ellis, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 114: 14 (1968)
 
 #### Original name
-Helmisporium helleri F. Stevens
+Helminthosporium helleri F. Stevens, 1918
 
 ### Remarks
 null

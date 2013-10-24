@@ -1,8 +1,7 @@
-Peptococcus indolicus (Christiansen, 1934) Sorensen, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Peptoniphilus indolicus (Christiansen, 1934) Ezaki et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Acineta euchaetae Sewell, 1951 SPECIES
-=======
+# Acineta euchaetae Sewell, 1951 SPECIES
 
 #### Status
 ACCEPTED

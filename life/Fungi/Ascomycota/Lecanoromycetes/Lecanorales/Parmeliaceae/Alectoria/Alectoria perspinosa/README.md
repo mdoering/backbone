@@ -1,5 +1,4 @@
-Alectoria perspinosa Bystrek SPECIES
-=======
+# Alectoria perspinosa Bystrek SPECIES
 
 #### Status
 ACCEPTED

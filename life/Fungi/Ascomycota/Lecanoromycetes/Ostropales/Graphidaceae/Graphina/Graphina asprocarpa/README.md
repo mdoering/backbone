@@ -1,5 +1,4 @@
-Graphina asprocarpa A.W. Archer SPECIES
-=======
+# Graphina asprocarpa A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

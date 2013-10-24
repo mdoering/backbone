@@ -1,5 +1,4 @@
-Lysobacter brunescens Christensen and Cook, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Lysobacter brunescens Christensen and Cook, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

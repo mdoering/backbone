@@ -1,5 +1,4 @@
-Agaricus quercifolius (Scop.) Pers. SPECIES
-=======
+# Agaricus quercifolius (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvaria palmicola Beeli SPECIES
-=======
+# Volvaria palmicola Beeli SPECIES
 
 #### Status
 ACCEPTED

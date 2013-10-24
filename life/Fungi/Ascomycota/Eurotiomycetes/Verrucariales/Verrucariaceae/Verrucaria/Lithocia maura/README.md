@@ -1,5 +1,4 @@
-Lithocia maura (Sm.) Gray SPECIES
-=======
+# Lithocia maura (Sm.) Gray SPECIES
 
 #### Status
 ACCEPTED

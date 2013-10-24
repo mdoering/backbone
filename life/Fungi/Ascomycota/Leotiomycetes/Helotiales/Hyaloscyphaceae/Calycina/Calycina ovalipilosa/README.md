@@ -1,5 +1,4 @@
-Calycina ovalipilosa Raitv. SPECIES
-=======
+# Calycina ovalipilosa Raitv. SPECIES
 
 #### Status
 ACCEPTED

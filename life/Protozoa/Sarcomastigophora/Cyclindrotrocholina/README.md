@@ -1,5 +1,4 @@
-Cyclindrotrocholina Loeblich & Tappan, 1986 GENUS
-=======
+# Cyclindrotrocholina Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

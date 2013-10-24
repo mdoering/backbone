@@ -1,5 +1,4 @@
-Tubercularia armeniaca (Berk. & Broome) Höhn. SPECIES
-=======
+# Tubercularia armeniaca (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Molliardiomyces pfisterii Paden SPECIES
-=======
+# Molliardiomyces pfisteri Paden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 62(3): 215 (1984)
 
 #### Original name
-Molliardiomyces pfisterii Paden
+Molliardiomyces pfisteri Paden
 
 ### Remarks
 null

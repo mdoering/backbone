@@ -1,5 +1,4 @@
-Psilocybe acutissima R. Heim SPECIES
-=======
+# Psilocybe acutissima R. Heim SPECIES
 
 #### Status
 ACCEPTED

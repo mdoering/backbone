@@ -1,5 +1,4 @@
-Rhizocyphus GENUS
-=======
+# Rhizocyphus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria caesiocinerata Zahlbr. SPECIES
-=======
+# Verrucaria caesiocinerata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

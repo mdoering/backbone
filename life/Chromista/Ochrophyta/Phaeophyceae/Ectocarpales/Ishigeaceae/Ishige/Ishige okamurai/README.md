@@ -1,5 +1,4 @@
-Ishige okamurai Yendo, 1907 SPECIES
-=======
+# Ishige okamurai Yendo, 1907 SPECIES
 
 #### Status
 ACCEPTED

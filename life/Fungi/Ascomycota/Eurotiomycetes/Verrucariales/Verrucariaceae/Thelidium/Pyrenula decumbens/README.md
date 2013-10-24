@@ -1,5 +1,4 @@
-Pyrenula decumbens (Müll. Arg.) Upreti, 1998 SPECIES
-=======
+# Pyrenula decumbens (Müll. Arg.) Upreti, 1998 SPECIES
 
 #### Status
 DOUBTFUL

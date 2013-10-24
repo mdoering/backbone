@@ -1,5 +1,4 @@
-Haploravenelia mexicana (Tranzschel) Syd. SPECIES
-=======
+# Haploravenelia mexicana (Tranzschel) Syd. SPECIES
 
 #### Status
 ACCEPTED

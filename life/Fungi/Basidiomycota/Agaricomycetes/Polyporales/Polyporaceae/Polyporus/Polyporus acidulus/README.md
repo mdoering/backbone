@@ -1,5 +1,4 @@
-Polyporus acidulus Fr. SPECIES
-=======
+# Polyporus acidulus Fr. SPECIES
 
 #### Status
 ACCEPTED

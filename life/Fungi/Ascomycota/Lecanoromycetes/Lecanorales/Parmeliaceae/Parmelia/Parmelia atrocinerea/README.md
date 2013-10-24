@@ -1,5 +1,4 @@
-Parmelia atrocinerea (Dicks.) Fr. SPECIES
-=======
+# Parmelia atrocinerea (Dicks.) Fr. SPECIES
 
 #### Status
 ACCEPTED

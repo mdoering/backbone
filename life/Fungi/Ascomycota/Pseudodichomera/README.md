@@ -1,5 +1,4 @@
-Pseudodichomera Höhn. GENUS
-=======
+# Pseudodichomera Höhn. GENUS
 
 #### Status
 ACCEPTED

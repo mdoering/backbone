@@ -1,5 +1,4 @@
-Cortinarius mitratus Herp. SPECIES
-=======
+# Cortinarius mitratus Herp. SPECIES
 
 #### Status
 ACCEPTED

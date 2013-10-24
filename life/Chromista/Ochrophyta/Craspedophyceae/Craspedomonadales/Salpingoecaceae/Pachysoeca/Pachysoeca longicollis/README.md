@@ -1,5 +1,4 @@
-Pachysoeca longicollis Ellis, 1933 SPECIES
-=======
+# Pachysoeca longicollis Ellis, 1933 SPECIES
 
 #### Status
 ACCEPTED

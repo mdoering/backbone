@@ -1,17 +1,16 @@
-Tetradium Schlechtendal, 1852 GENUS
-=======
+# Bremia Regel, 1843 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 620 (1852)
+Bot. Ztg. 1: 665 (1843)
 
 #### Original name
-Tetradium Schlechtendal, 1852
+Bremia Regel, 1843
 
 ### Remarks
 null

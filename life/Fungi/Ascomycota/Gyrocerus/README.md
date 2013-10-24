@@ -1,5 +1,4 @@
-Gyrocerus GENUS
-=======
+# Gyrocerus GENUS
 
 #### Status
 ACCEPTED

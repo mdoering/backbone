@@ -1,5 +1,4 @@
-Comasphaeridium brevispinosum (Lister, 1970) emend. Mullins, 2001 SPECIES
-=======
+# Comasphaeridium brevispinosum (Lister, 1970) emend. Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

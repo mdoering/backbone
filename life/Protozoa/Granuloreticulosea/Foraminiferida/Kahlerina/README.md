@@ -1,5 +1,4 @@
-Kahlerina Kochansky-Devidé & Ramovs, 1955 GENUS
-=======
+# Kahlerina Kochansky-Devidé & Ramovs, 1955 GENUS
 
 #### Status
 ACCEPTED

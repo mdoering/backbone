@@ -1,5 +1,4 @@
-Hirsutella nutans Kobayasi SPECIES
-=======
+# Hirsutella nutans Kobayasi SPECIES
 
 #### Status
 ACCEPTED

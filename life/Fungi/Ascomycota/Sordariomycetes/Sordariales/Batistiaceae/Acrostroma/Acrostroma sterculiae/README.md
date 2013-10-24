@@ -1,5 +1,4 @@
-Acrostroma sterculiae R.K. Verma, N. Sharma & Soni SPECIES
-=======
+# Acrostroma sterculiae R.K. Verma, N. Sharma & Soni SPECIES
 
 #### Status
 ACCEPTED

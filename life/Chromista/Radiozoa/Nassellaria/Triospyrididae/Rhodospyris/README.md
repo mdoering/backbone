@@ -1,5 +1,4 @@
-Rhodospyris Haeckel, 1881 GENUS
-=======
+# Rhodospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

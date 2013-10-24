@@ -1,5 +1,4 @@
-Phyllachora tabernaemontanae F. Stevens, 1923 SPECIES
-=======
+# Phyllachora tabernaemontanae F. Stevens, 1923 SPECIES
 
 #### Status
 ACCEPTED

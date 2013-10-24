@@ -1,5 +1,4 @@
-Septoria lanneae Cejp SPECIES
-=======
+# Septoria lanneae Cejp SPECIES
 
 #### Status
 ACCEPTED

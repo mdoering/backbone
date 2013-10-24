@@ -1,5 +1,4 @@
-Graphis patwardhanii C.R. Kulk. SPECIES
-=======
+# Graphis patwardhanii C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

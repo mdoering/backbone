@@ -1,5 +1,4 @@
-Colletotrichum roseolum Henn. SPECIES
-=======
+# Colletotrichum roseolum Henn. SPECIES
 
 #### Status
 ACCEPTED

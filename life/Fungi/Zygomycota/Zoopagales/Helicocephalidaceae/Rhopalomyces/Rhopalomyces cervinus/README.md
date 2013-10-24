@@ -1,17 +1,16 @@
-Rhopalomyces cervinum Cooke SPECIES
-=======
+# Rhopalomyces cervinus Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ravenel, Grevillea 12(no. 61): 27 (1883)
 
 #### Original name
-Rhopalomyces cervinum Cooke
+Rhopalomyces cervinus Cooke
 
 ### Remarks
 null

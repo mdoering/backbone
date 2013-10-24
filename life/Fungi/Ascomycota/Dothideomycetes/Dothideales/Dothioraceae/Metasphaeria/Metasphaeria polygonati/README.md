@@ -1,5 +1,4 @@
-Metasphaeria polygonati Sacc. & Fautrey SPECIES
-=======
+# Metasphaeria polygonati Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

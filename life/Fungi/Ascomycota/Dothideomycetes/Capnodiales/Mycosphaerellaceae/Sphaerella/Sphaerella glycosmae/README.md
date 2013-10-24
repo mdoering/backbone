@@ -1,5 +1,4 @@
-Sphaerella glycosmae (Tracy & Earle) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella glycosmae (Tracy & Earle) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

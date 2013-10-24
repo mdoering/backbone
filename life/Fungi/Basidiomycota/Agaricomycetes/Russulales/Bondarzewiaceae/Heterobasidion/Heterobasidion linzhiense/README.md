@@ -1,5 +1,4 @@
-Heterobasidion linzhiense Y.C. Dai & Korhonen SPECIES
-=======
+# Heterobasidion linzhiense Y.C. Dai & Korhonen SPECIES
 
 #### Status
 ACCEPTED

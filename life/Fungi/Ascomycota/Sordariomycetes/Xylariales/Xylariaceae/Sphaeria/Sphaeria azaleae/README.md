@@ -1,5 +1,4 @@
-Sphaeria azaleae Schwein. SPECIES
-=======
+# Sphaeria azaleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

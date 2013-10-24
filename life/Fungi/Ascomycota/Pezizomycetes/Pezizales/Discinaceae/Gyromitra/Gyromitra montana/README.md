@@ -1,5 +1,4 @@
-Gyromitra montana Harmaja SPECIES
-=======
+# Gyromitra montana Harmaja SPECIES
 
 #### Status
 ACCEPTED

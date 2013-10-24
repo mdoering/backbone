@@ -1,17 +1,16 @@
-Myxarium leptocystidiatum Hauerslev, 1993 SPECIES
-=======
+# Stypella glaira (Lloyd) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 49: 243 (1993)
+Mycotaxon 69: 219 (1998)
 
 #### Original name
-Myxarium leptocystidiatum Hauerslev, 1993
+null
 
 ### Remarks
 null

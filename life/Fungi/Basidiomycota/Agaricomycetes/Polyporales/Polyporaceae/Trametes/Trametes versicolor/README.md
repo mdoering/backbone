@@ -1,17 +1,16 @@
-Polystictus versicolor var. versicolor VARIETY
-=======
+# Trametes versicolor (L.) Lloyd, 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. Symb. Myc. 86 (1851)
+Mycol. Notes (Cincinnati) 65: 1045 (1921)
 
 #### Original name
-Polystictus versicolor var. versicolor
+Boletus versicolor Rostk., 1844
 
 ### Remarks
 null

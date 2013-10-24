@@ -1,8 +1,7 @@
-Gymnodinium pseudopalustre Woloszynska SPECIES
-=======
+# Woloszynskia pseudopalustris (Woloszynska) Kiselev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

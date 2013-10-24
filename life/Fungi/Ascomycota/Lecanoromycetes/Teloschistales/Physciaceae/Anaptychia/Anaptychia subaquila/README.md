@@ -1,5 +1,4 @@
-Anaptychia subaquila (Nyl.) Kurok. SPECIES
-=======
+# Anaptychia subaquila (Nyl.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

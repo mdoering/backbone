@@ -1,5 +1,4 @@
-Septoria citrulli Ellis & Everh. SPECIES
-=======
+# Septoria citrulli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

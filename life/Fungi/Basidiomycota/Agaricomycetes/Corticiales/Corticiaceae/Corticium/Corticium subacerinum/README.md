@@ -1,5 +1,4 @@
-Corticium subacerinum (Höhn. & Litsch.) Sacc. & Traverso SPECIES
-=======
+# Corticium subacerinum (Höhn. & Litsch.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

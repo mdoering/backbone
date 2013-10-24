@@ -1,17 +1,16 @@
-Guignardia castanopsis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Guignardia castanopsidis W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 101(8): 901 (1997)
 
 #### Original name
-Guignardia castanopsis W.H. Hsieh, Chi Y. Chen & Sivan.
+Guignardia castanopsidis W.H. Hsieh, Chi Y. Chen & Sivan.
 
 ### Remarks
 null

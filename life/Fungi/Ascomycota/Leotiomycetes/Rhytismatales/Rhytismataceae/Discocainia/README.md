@@ -1,5 +1,4 @@
-Discocainia J. Reid & A. Funk GENUS
-=======
+# Discocainia J. Reid & A. Funk GENUS
 
 #### Status
 ACCEPTED

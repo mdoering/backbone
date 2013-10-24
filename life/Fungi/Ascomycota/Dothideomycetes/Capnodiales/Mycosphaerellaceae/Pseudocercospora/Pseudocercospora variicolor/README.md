@@ -1,5 +1,4 @@
-Pseudocercospora variicolor (G. Winter) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora variicolor (G. Winter) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

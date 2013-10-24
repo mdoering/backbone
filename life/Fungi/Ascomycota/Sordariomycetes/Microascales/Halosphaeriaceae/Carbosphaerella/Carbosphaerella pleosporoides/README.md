@@ -1,5 +1,4 @@
-Carbosphaerella pleosporoides I. Schmidt, 1969 SPECIES
-=======
+# Carbosphaerella pleosporoides I. Schmidt, 1969 SPECIES
 
 #### Status
 ACCEPTED

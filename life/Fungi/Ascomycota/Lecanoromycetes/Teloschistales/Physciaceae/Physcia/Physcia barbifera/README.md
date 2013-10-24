@@ -1,5 +1,4 @@
-Physcia barbifera SPECIES
-=======
+# Physcia barbifera SPECIES
 
 #### Status
 ACCEPTED

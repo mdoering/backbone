@@ -1,5 +1,4 @@
-Tulostoma parvissimum Long & S. Ahmad SPECIES
-=======
+# Tulostoma parvissimum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

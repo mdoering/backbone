@@ -1,5 +1,4 @@
-Pezizella agropyri Velen. SPECIES
-=======
+# Pezizella agropyri Velen. SPECIES
 
 #### Status
 ACCEPTED

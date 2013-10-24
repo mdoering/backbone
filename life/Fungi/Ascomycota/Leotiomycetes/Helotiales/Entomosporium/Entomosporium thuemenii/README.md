@@ -1,5 +1,4 @@
-Entomosporium thuemenii (Cooke) Sacc. SPECIES
-=======
+# Entomosporium thuemenii (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

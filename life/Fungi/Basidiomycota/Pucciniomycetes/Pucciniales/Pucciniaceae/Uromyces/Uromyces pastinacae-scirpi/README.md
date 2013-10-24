@@ -1,5 +1,4 @@
-Uromyces pastinacae-scirpi Kleb. SPECIES
-=======
+# Uromyces pastinacae-scirpi Kleb. SPECIES
 
 #### Status
 ACCEPTED

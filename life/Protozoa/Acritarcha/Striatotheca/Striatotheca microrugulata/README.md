@@ -1,5 +1,4 @@
-Striatotheca microrugulata (Vavrdová, 1972) Martin, 1975 SPECIES
-=======
+# Striatotheca microrugulata (Vavrdová, 1972) Martin, 1975 SPECIES
 
 #### Status
 ACCEPTED

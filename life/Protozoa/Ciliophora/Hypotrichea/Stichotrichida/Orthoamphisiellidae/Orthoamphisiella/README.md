@@ -1,5 +1,4 @@
-Orthoamphisiella Eigner & Foissner, 1991 GENUS
-=======
+# Orthoamphisiella Eigner & Foissner, 1991 GENUS
 
 #### Status
 ACCEPTED

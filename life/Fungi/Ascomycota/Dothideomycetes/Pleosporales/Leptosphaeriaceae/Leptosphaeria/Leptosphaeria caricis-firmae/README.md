@@ -1,5 +1,4 @@
-Leptosphaeria caricis-firmae Petr. SPECIES
-=======
+# Leptosphaeria caricis-firmae Petr. SPECIES
 
 #### Status
 ACCEPTED

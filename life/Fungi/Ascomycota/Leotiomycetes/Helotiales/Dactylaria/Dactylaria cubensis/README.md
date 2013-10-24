@@ -1,5 +1,4 @@
-Dactylaria cubensis R.F. Castañeda SPECIES
-=======
+# Dactylaria cubensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula watsoniana Murrill SPECIES
-=======
+# Russula watsoniana Murrill SPECIES
 
 #### Status
 ACCEPTED

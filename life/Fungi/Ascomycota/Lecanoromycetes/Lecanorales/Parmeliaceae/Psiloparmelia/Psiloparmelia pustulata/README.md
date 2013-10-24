@@ -1,5 +1,4 @@
-Psiloparmelia pustulata Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia pustulata Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

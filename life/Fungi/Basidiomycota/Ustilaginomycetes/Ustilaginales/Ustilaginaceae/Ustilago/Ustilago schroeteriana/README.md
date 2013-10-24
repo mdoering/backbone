@@ -1,5 +1,4 @@
-Ustilago schroeteriana Henn. SPECIES
-=======
+# Ustilago schroeteriana Henn. SPECIES
 
 #### Status
 ACCEPTED

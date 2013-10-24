@@ -1,5 +1,4 @@
-Globotruncanella Reiss, 1957 GENUS
-=======
+# Globotruncanella Reiss, 1957 GENUS
 
 #### Status
 ACCEPTED

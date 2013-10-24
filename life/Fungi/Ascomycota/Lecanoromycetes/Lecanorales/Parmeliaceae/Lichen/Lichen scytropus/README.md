@@ -1,5 +1,4 @@
-Lichen scytropus Ach. SPECIES
-=======
+# Lichen scytropus Ach. SPECIES
 
 #### Status
 ACCEPTED

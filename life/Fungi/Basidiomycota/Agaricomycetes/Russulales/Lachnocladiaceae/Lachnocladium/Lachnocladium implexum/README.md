@@ -1,5 +1,4 @@
-Lachnocladium implexum (Lév.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnocladium implexum (Lév.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

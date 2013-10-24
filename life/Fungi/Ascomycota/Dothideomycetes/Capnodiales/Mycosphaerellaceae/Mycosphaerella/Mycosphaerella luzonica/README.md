@@ -1,5 +1,4 @@
-Mycosphaerella luzonica Syd. SPECIES
-=======
+# Mycosphaerella luzonica Syd. SPECIES
 
 #### Status
 ACCEPTED

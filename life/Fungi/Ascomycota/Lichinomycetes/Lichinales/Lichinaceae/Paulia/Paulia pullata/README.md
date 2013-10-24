@@ -1,5 +1,4 @@
-Paulia pullata Fée SPECIES
-=======
+# Paulia pullata Fée SPECIES
 
 #### Status
 ACCEPTED

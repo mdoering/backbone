@@ -1,5 +1,4 @@
-Clavaria pistilliforma Pers. SPECIES
-=======
+# Clavaria pistilliforma Pers. SPECIES
 
 #### Status
 ACCEPTED

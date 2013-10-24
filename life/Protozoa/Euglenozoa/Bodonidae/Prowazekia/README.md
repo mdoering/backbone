@@ -1,5 +1,4 @@
-Prowazekia Hartmann & Chagas, 1910 GENUS
-=======
+# Prowazekia Hartmann & Chagas, 1910 GENUS
 
 #### Status
 ACCEPTED

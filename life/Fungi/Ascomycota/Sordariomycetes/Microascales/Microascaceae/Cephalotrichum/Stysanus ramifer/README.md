@@ -1,5 +1,4 @@
-Stysanus ramifer Rolland SPECIES
-=======
+# Stysanus ramifer Rolland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo stellarium Link SPECIES
-=======
+# Uredo stellarium Link SPECIES
 
 #### Status
 ACCEPTED

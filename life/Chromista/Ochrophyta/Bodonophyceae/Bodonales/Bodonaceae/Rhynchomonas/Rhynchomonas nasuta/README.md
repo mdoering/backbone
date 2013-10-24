@@ -1,5 +1,4 @@
-Rhynchomonas nasuta (Stokes) Klebs SPECIES
-=======
+# Rhynchomonas nasuta (Stokes) Klebs SPECIES
 
 #### Status
 ACCEPTED

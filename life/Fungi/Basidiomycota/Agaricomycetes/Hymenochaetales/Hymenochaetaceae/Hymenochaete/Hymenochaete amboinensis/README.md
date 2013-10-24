@@ -1,5 +1,4 @@
-Hymenochaete amboinensis Henn. SPECIES
-=======
+# Hymenochaete amboinensis Henn. SPECIES
 
 #### Status
 ACCEPTED

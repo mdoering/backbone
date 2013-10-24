@@ -1,5 +1,4 @@
-Nectria aurora (Fr.) Sacc. SPECIES
-=======
+# Nectria aurora (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

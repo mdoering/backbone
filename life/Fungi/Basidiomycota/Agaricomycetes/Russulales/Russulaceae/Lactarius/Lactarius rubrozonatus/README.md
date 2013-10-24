@@ -1,5 +1,4 @@
-Lactarius rubrozonatus f. rubrozonatus FORM
-=======
+# Lactarius rubrozonatus Lalli & Pacioni SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Lalli, Pacioni & Leonardi, Micol. Veg. Medit. 17(2): 127 (2003)
 
 #### Original name
-Lactarius rubrozonatus f. rubrozonatus
+Lactarius rubrozonatus Lalli & Pacioni
 
 ### Remarks
 null

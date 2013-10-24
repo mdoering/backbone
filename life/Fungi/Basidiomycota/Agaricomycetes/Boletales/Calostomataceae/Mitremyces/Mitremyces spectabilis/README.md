@@ -1,5 +1,4 @@
-Mitremyces spectabilis Kirschst. SPECIES
-=======
+# Mitremyces spectabilis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

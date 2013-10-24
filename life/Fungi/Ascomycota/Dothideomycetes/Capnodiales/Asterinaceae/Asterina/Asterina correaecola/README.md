@@ -1,5 +1,4 @@
-Asterina correaecola Sacc. SPECIES
-=======
+# Asterina correaecola Sacc. SPECIES
 
 #### Status
 ACCEPTED

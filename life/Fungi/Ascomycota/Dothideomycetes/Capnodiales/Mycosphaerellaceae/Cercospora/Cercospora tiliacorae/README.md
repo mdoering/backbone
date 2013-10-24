@@ -1,5 +1,4 @@
-Cercospora tiliacorae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora tiliacorae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

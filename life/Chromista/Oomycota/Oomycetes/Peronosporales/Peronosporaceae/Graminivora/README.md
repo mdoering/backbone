@@ -1,5 +1,4 @@
-Graminivora Thines & Göker GENUS
-=======
+# Graminivora Thines & Göker GENUS
 
 #### Status
 ACCEPTED

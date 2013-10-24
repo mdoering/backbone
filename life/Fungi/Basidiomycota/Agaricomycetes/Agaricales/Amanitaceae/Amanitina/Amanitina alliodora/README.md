@@ -1,8 +1,7 @@
-Amanitina alliiodora (Pat.) E.-J. Gilbert SPECIES
-=======
+# Amanitina alliodora (Pat.) E.-J. Gilbert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

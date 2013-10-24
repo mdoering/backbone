@@ -1,5 +1,4 @@
-Morchella rhodopoda Krombh. SPECIES
-=======
+# Morchella rhodopoda Krombh. SPECIES
 
 #### Status
 ACCEPTED

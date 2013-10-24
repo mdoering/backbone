@@ -1,5 +1,4 @@
-Meliolinites spinksii (Dilcher) Selkirk SPECIES
-=======
+# Meliolinites spinksii (Dilcher) Selkirk SPECIES
 
 #### Status
 ACCEPTED

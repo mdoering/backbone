@@ -1,5 +1,4 @@
-Peltula tortuosa (Nees) Wetmore SPECIES
-=======
+# Peltula tortuosa (Nees) Wetmore SPECIES
 
 #### Status
 ACCEPTED

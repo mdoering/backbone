@@ -1,5 +1,4 @@
-Cantharomyces italicus Speg., 1915 SPECIES
-=======
+# Cantharomyces italicus Speg., 1915 SPECIES
 
 #### Status
 ACCEPTED

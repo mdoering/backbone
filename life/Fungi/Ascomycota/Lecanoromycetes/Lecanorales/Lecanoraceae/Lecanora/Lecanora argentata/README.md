@@ -1,17 +1,16 @@
-Lecanora subfuscata var. subfuscata VARIETY
-=======
+# Lecanora argentata (Ach.) Malme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta horti gotoburg. 7: 79 (1932)
+null
 
 #### Original name
-Lecanora subfuscata var. subfuscata
+Parmelia subfusca var. argentata Ach.
 
 ### Remarks
 null

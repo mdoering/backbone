@@ -1,5 +1,4 @@
-Cryptostictis betulicola Ade SPECIES
-=======
+# Cryptostictis betulicola Ade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella albiziae Hansf. SPECIES
-=======
+# Cercosporella albiziae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia congesta McCune & C.F. Culb. SPECIES
-=======
+# Hypogymnia congesta McCune & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

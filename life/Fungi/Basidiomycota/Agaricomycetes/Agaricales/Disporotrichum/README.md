@@ -1,5 +1,4 @@
-Disporotrichum Stalpers, 1984 GENUS
-=======
+# Disporotrichum Stalpers, 1984 GENUS
 
 #### Status
 ACCEPTED

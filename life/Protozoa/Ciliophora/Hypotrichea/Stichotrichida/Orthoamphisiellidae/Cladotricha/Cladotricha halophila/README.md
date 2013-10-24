@@ -1,5 +1,4 @@
-Cladotricha halophila Wilbert, 1995 SPECIES
-=======
+# Cladotricha halophila Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

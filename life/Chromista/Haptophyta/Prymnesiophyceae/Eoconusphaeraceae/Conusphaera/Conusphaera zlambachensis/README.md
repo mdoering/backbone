@@ -1,8 +1,7 @@
-Eoconusphaera tollmanniae Jafar, 1983 SPECIES
-=======
+# Conusphaera zlambachensis Moshkovitz, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

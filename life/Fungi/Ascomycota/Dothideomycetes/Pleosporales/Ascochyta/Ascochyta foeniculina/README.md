@@ -1,5 +1,4 @@
-Ascochyta foeniculina McAlpine SPECIES
-=======
+# Ascochyta foeniculina McAlpine SPECIES
 
 #### Status
 ACCEPTED

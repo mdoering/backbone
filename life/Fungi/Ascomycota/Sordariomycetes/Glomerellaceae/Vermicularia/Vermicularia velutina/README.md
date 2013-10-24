@@ -1,5 +1,4 @@
-Vermicularia velutina Ellis & Everh. SPECIES
-=======
+# Vermicularia velutina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

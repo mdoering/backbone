@@ -1,5 +1,4 @@
-Reophax regularis Höglund, 1947 SPECIES
-=======
+# Reophax regularis Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

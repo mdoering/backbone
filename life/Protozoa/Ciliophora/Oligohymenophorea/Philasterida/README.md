@@ -1,5 +1,4 @@
-Philasterida Small, 1967 ORDER
-=======
+# Philasterida Small, 1967 ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbricaria sprengelii (Flörke) Körb. SPECIES
-=======
+# Imbricaria sprengelii (Flörke) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia gyrinidarum Thaxt., 1892 SPECIES
-=======
+# Laboulbenia gyrinidarum Thaxt., 1892 SPECIES
 
 #### Status
 ACCEPTED

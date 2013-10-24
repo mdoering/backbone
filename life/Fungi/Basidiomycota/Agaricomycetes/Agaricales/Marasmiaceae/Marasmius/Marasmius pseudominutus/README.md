@@ -1,5 +1,4 @@
-Marasmius pseudominutus Singer SPECIES
-=======
+# Marasmius pseudominutus Singer SPECIES
 
 #### Status
 ACCEPTED

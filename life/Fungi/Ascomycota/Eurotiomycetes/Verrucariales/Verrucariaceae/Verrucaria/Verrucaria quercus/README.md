@@ -1,5 +1,4 @@
-Verrucaria quercus Garov. SPECIES
-=======
+# Verrucaria quercus Garov. SPECIES
 
 #### Status
 ACCEPTED

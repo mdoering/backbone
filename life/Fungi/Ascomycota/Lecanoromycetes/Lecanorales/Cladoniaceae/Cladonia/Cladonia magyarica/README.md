@@ -1,5 +1,4 @@
-Cladonia magyarica var. magyarica VARIETY
-=======
+# Cladonia magyarica Vain. ex Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia magyarica var. magyarica
+Cladonia magyarica Vain. ex Gyeln.
 
 ### Remarks
 null

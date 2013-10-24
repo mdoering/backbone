@@ -1,5 +1,4 @@
-Lempholemma wrightii (Tuck.) Henssen SPECIES
-=======
+# Lempholemma wrightii (Tuck.) Henssen SPECIES
 
 #### Status
 ACCEPTED

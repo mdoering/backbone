@@ -1,5 +1,4 @@
-Ruakituria Kennett, 1967 GENUS
-=======
+# Ruakituria Kennett, 1967 GENUS
 
 #### Status
 ACCEPTED

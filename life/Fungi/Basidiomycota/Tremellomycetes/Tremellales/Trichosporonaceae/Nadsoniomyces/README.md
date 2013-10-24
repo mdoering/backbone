@@ -1,5 +1,4 @@
-Nadsoniomyces Kudrjanzev, 1932 GENUS
-=======
+# Nadsoniomyces Kudrjanzev, 1932 GENUS
 
 #### Status
 ACCEPTED

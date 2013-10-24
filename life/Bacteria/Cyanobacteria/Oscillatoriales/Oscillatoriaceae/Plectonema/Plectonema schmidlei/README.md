@@ -1,5 +1,4 @@
-Plectonema schmidlei Limanowska SPECIES
-=======
+# Plectonema schmidlei Limanowska SPECIES
 
 #### Status
 ACCEPTED

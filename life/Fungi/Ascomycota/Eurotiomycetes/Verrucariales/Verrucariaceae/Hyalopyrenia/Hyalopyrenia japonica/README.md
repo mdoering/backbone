@@ -1,5 +1,4 @@
-Hyalopyrenia japonica H. Harada SPECIES
-=======
+# Hyalopyrenia japonica H. Harada SPECIES
 
 #### Status
 ACCEPTED

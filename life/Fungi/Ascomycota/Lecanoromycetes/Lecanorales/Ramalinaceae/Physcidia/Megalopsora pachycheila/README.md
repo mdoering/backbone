@@ -1,5 +1,4 @@
-Megalopsora pachycheila SPECIES
-=======
+# Megalopsora pachycheila SPECIES
 
 #### Status
 DOUBTFUL

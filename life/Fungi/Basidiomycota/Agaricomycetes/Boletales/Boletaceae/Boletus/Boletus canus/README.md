@@ -1,5 +1,4 @@
-Boletus canus Batsch SPECIES
-=======
+# Boletus canus Batsch SPECIES
 
 #### Status
 ACCEPTED

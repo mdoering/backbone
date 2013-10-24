@@ -1,14 +1,13 @@
-Caeomurus tepperianus (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Uromycladium tepperianum (Sacc.) McAlpine, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 451 (1898)
+Rusts of Australia 111 (1906)
 
 #### Original name
 Uromyces tepperianus Sacc., 1889

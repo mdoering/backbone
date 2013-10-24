@@ -1,5 +1,4 @@
-Aecidium vitis A.L. Sm. SPECIES
-=======
+# Aecidium vitis A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

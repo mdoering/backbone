@@ -1,5 +1,4 @@
-Lecanora pisana Motyka SPECIES
-=======
+# Lecanora pisana Motyka SPECIES
 
 #### Status
 ACCEPTED

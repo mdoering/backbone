@@ -1,5 +1,4 @@
-Phoma alcearum Cooke SPECIES
-=======
+# Phoma alcearum Cooke SPECIES
 
 #### Status
 ACCEPTED

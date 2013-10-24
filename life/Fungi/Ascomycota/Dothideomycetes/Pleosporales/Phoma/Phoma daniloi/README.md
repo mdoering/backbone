@@ -1,5 +1,4 @@
-Phoma daniloi Bubák SPECIES
-=======
+# Phoma daniloi Bubák SPECIES
 
 #### Status
 ACCEPTED

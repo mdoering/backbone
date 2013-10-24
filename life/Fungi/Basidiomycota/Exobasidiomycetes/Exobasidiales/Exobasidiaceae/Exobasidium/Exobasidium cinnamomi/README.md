@@ -1,5 +1,4 @@
-Exobasidium cinnamomi Petch SPECIES
-=======
+# Exobasidium cinnamomi Petch SPECIES
 
 #### Status
 ACCEPTED

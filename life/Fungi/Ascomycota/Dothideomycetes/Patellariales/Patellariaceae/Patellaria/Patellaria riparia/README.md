@@ -1,5 +1,4 @@
-Patellaria riparia Müll. Arg. SPECIES
-=======
+# Patellaria riparia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

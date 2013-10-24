@@ -1,5 +1,4 @@
-Pseudoecteinomyces W. Rossi GENUS
-=======
+# Pseudoecteinomyces W. Rossi GENUS
 
 #### Status
 ACCEPTED

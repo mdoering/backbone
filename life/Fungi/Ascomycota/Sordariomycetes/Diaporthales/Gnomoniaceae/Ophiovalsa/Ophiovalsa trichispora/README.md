@@ -1,5 +1,4 @@
-Ophiovalsa trichispora (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Ophiovalsa trichispora (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

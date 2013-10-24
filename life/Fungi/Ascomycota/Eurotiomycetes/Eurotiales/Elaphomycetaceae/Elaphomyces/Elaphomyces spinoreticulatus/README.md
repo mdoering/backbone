@@ -1,5 +1,4 @@
-Elaphomyces spinoreticulatus B.C. Zhang & Minter SPECIES
-=======
+# Elaphomyces spinoreticulatus B.C. Zhang & Minter SPECIES
 
 #### Status
 ACCEPTED

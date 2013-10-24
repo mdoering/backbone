@@ -1,5 +1,4 @@
-Gymnodinium lanskoi Rouchijajnen, 1968 SPECIES
-=======
+# Gymnodinium lanskoi Rouchijajnen, 1968 SPECIES
 
 #### Status
 ACCEPTED

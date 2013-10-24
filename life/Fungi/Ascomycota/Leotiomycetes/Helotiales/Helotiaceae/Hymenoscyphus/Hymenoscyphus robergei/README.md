@@ -1,5 +1,4 @@
-Hymenoscyphus robergei (Dennis) SPECIES
-=======
+# Hymenoscyphus robergei (Dennis) SPECIES
 
 #### Status
 ACCEPTED

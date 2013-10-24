@@ -1,5 +1,4 @@
-Hypholoma silvaticum (Peck) A.H. Sm. SPECIES
-=======
+# Hypholoma silvaticum (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

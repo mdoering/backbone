@@ -1,5 +1,4 @@
-Orcheomyces neottiae H. Wolff SPECIES
-=======
+# Orcheomyces neottiae H. Wolff SPECIES
 
 #### Status
 ACCEPTED

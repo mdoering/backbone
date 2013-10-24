@@ -1,5 +1,4 @@
-Lepiota madagascariensis L.M. Dufour SPECIES
-=======
+# Lepiota madagascariensis L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

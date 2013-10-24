@@ -1,5 +1,4 @@
-Marasmius epochnous Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius epochnous Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

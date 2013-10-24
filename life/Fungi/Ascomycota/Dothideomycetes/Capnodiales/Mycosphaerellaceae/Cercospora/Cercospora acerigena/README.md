@@ -1,5 +1,4 @@
-Cercospora acerigena U. Braun & Crous SPECIES
-=======
+# Cercospora acerigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

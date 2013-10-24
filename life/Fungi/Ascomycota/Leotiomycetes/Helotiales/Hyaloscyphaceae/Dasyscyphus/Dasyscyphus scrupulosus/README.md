@@ -1,5 +1,4 @@
-Dasyscyphus scrupulosus (P. Karst.) SPECIES
-=======
+# Dasyscyphus scrupulosus (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha leucophila Nyl. SPECIES
-=======
+# Opegrapha leucophila Nyl. SPECIES
 
 #### Status
 ACCEPTED

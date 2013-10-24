@@ -1,5 +1,4 @@
-Cytoplea avellanae (Oudem.) Petr. & Syd. SPECIES
-=======
+# Cytoplea avellanae (Oudem.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

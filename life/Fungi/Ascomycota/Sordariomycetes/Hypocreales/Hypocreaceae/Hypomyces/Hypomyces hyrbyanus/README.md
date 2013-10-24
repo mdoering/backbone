@@ -1,5 +1,4 @@
-Hypomyces hyrbyanus SPECIES
-=======
+# Hypomyces hyrbyanus SPECIES
 
 #### Status
 ACCEPTED

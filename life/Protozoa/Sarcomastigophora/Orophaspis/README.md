@@ -1,5 +1,4 @@
-Orophaspis Haeckel, 1881 GENUS
-=======
+# Orophaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

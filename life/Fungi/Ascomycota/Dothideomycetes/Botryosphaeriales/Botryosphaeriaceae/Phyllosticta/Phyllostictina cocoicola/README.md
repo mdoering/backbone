@@ -1,5 +1,4 @@
-Phyllostictina cocoicola Bat. SPECIES
-=======
+# Phyllostictina cocoicola Bat. SPECIES
 
 #### Status
 ACCEPTED

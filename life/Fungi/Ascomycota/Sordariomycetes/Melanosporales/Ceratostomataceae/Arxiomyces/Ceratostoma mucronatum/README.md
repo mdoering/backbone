@@ -1,5 +1,4 @@
-Ceratostoma mucronatum (Schwein.) Sacc. SPECIES
-=======
+# Ceratostoma mucronatum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

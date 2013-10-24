@@ -1,5 +1,4 @@
-Saccharomyces olei Tiegh. SPECIES
-=======
+# Saccharomyces olei Tiegh. SPECIES
 
 #### Status
 ACCEPTED

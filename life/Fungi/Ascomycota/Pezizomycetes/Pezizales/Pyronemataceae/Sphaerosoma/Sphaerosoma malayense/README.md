@@ -1,5 +1,4 @@
-Sphaerosoma malayense E.K. Cash & Corner SPECIES
-=======
+# Sphaerosoma malayense E.K. Cash & Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum sardoa (Pass.) Vanev SPECIES
-=======
+# Fusicoccum sardoa (Pass.) Vanev SPECIES
 
 #### Status
 ACCEPTED

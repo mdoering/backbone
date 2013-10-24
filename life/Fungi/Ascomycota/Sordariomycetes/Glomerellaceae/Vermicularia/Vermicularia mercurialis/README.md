@@ -1,5 +1,4 @@
-Vermicularia mercurialis Westend. SPECIES
-=======
+# Vermicularia mercurialis Westend. SPECIES
 
 #### Status
 ACCEPTED

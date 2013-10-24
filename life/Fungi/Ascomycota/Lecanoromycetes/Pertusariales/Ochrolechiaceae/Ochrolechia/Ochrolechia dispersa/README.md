@@ -1,5 +1,4 @@
-Ochrolechia dispersa R. Sant. SPECIES
-=======
+# Ochrolechia dispersa R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea paradoxa (Zahlbr.) Motyka SPECIES
-=======
+# Usnea paradoxa (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

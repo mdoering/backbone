@@ -1,5 +1,4 @@
-Lecanora quadica Zahlbr. SPECIES
-=======
+# Lecanora quadica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

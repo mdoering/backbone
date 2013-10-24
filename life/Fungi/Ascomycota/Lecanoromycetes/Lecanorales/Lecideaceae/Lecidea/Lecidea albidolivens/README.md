@@ -1,5 +1,4 @@
-Lecidea albidolivens Nyl. SPECIES
-=======
+# Lecidea albidolivens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmocephala hughesii W.P. Wu SPECIES
-=======
+# Phragmocephala hughesii W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

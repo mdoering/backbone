@@ -1,5 +1,4 @@
-Autoicomyces melanocerus Speg. SPECIES
-=======
+# Autoicomyces melanocerus Speg. SPECIES
 
 #### Status
 ACCEPTED

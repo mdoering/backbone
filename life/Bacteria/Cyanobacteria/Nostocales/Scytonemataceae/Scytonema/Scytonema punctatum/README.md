@@ -1,5 +1,4 @@
-Scytonema punctatum Gardner SPECIES
-=======
+# Scytonema punctatum Gardner SPECIES
 
 #### Status
 ACCEPTED

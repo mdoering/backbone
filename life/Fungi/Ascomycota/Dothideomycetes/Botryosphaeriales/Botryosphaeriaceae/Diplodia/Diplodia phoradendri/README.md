@@ -1,5 +1,4 @@
-Diplodia phoradendri Cooke SPECIES
-=======
+# Diplodia phoradendri Cooke SPECIES
 
 #### Status
 ACCEPTED

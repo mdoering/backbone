@@ -1,5 +1,4 @@
-Dicaeoma cameliae (Mayor) Arthur SPECIES
-=======
+# Dicaeoma cameliae (Mayor) Arthur SPECIES
 
 #### Status
 ACCEPTED

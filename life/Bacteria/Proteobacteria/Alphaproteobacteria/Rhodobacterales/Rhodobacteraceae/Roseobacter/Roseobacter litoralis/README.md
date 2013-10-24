@@ -1,5 +1,4 @@
-Roseobacter litoralis Shiba, 1991 SPECIES
-=======
+# Roseobacter litoralis Shiba, 1991 SPECIES
 
 #### Status
 ACCEPTED

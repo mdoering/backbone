@@ -1,5 +1,4 @@
-Hystrichosphaeridium maslovii Timofeev, 1963 SPECIES
-=======
+# Hystrichosphaeridium maslovii Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

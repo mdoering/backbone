@@ -1,5 +1,4 @@
-Dingleya tessellata (G.W. Beaton & Weste) Trappe, Castellano & Malajczuk SPECIES
-=======
+# Dingleya tessellata (G.W. Beaton & Weste) Trappe, Castellano & Malajczuk SPECIES
 
 #### Status
 ACCEPTED

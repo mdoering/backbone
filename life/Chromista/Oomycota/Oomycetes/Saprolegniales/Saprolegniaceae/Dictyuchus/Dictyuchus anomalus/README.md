@@ -1,5 +1,4 @@
-Dictyuchus anomalus Nagai SPECIES
-=======
+# Dictyuchus anomalus Nagai SPECIES
 
 #### Status
 ACCEPTED

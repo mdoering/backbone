@@ -1,5 +1,4 @@
-Phyllostictina plumbaginis Ponnappa SPECIES
-=======
+# Phyllostictina plumbaginis Ponnappa SPECIES
 
 #### Status
 ACCEPTED

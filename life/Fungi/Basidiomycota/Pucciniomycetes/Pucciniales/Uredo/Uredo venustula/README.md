@@ -1,5 +1,4 @@
-Uredo venustula Arthur SPECIES
-=======
+# Uredo venustula Arthur SPECIES
 
 #### Status
 ACCEPTED

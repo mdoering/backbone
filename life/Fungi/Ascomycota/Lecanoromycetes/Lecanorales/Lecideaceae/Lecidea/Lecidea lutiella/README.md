@@ -1,5 +1,4 @@
-Lecidea lutiella Nyl. SPECIES
-=======
+# Lecidea lutiella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomassaria huwerae K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
-=======
+# Pseudomassaria huwerae K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

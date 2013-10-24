@@ -1,5 +1,4 @@
-Antrodia hingganensis Y.C. Dai & Pentillä SPECIES
-=======
+# Antrodia hingganensis Y.C. Dai & Pentillä SPECIES
 
 #### Status
 ACCEPTED

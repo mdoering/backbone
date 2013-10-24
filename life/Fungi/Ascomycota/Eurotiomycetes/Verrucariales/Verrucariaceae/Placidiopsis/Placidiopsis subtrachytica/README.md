@@ -1,5 +1,4 @@
-Placidiopsis subtrachytica (B. de Lesd.) Zschacke SPECIES
-=======
+# Placidiopsis subtrachytica (B. de Lesd.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

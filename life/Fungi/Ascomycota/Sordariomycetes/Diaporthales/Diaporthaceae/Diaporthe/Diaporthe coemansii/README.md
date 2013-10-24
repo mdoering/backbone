@@ -1,5 +1,4 @@
-Diaporthe coemansii Nitschke SPECIES
-=======
+# Diaporthe coemansii Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cistella arctica Raitv. SPECIES
-=======
+# Cistella arctica Raitv. SPECIES
 
 #### Status
 ACCEPTED

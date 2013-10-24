@@ -1,14 +1,13 @@
-Agaricus deliquescens Bull., 1786 SPECIES
-=======
+# Coprinellus deliquescens (Bull.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. tab. 558 (1786)
+Bidr. Känn. Finl. Nat. Folk 32: 542 (1879)
 
 #### Original name
 Agaricus deliquescens Bull., 1786

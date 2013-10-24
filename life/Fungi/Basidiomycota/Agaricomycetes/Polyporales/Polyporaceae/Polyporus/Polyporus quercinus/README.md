@@ -1,5 +1,4 @@
-Polyporus quercinus Pers. SPECIES
-=======
+# Polyporus quercinus Pers. SPECIES
 
 #### Status
 ACCEPTED

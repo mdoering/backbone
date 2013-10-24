@@ -1,5 +1,4 @@
-Phoma arisari Bres. SPECIES
-=======
+# Phoma arisari Bres. SPECIES
 
 #### Status
 ACCEPTED

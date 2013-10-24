@@ -1,5 +1,4 @@
-Anthostomella perseicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Anthostomella perseicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

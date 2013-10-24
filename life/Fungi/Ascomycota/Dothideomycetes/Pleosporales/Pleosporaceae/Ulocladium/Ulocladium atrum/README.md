@@ -1,14 +1,13 @@
-Stemphylium atrum (Preuss) Sacc., 1886 SPECIES
-=======
+# Ulocladium atrum Preuss, 1852 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 520 (1886)
+Linnaea 25: 75 (1852)
 
 #### Original name
 Ulocladium atrum Preuss, 1852

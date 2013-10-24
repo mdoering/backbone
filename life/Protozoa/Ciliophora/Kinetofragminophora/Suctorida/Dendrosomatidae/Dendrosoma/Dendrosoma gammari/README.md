@@ -1,5 +1,4 @@
-Dendrosoma gammari SPECIES
-=======
+# Dendrosoma gammari SPECIES
 
 #### Status
 ACCEPTED

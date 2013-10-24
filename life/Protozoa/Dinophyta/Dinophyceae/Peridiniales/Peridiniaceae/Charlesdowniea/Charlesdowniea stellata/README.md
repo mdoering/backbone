@@ -1,5 +1,4 @@
-Charlesdowniea stellata (S. P. Damassa) J. K. Lentin & T. F. Vozzhennikova SPECIES
-=======
+# Charlesdowniea stellata (S. P. Damassa) J. K. Lentin & T. F. Vozzhennikova SPECIES
 
 #### Status
 ACCEPTED

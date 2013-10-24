@@ -1,5 +1,4 @@
-Crepidotus muscigenus Velen., 1947 SPECIES
-=======
+# Crepidotus muscigenus Velen., 1947 SPECIES
 
 #### Status
 ACCEPTED

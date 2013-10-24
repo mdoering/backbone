@@ -1,5 +1,4 @@
-Drechslera arundinis (Sawada) S. Ito SPECIES
-=======
+# Drechslera arundinis (Sawada) S. Ito SPECIES
 
 #### Status
 ACCEPTED

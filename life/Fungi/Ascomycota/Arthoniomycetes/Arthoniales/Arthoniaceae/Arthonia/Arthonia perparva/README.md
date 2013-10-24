@@ -1,14 +1,13 @@
-Bacidia perparva Zahlbr. SPECIES
-=======
+# Arthonia perparva (Zahlbr.) Matzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. New Zealand Inst. 59: 311 (1928)
+Mycol. Pap. 171: 176 (1996)
 
 #### Original name
 Bacidia perparva Zahlbr.

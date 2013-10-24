@@ -1,5 +1,4 @@
-Camillea turbinata var. turbinata VARIETY
-=======
+# Camillea turbinata (Berk.) Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Camillea turbinata var. turbinata
+Hypoxylon turbinatum Berk.
 
 ### Remarks
 null

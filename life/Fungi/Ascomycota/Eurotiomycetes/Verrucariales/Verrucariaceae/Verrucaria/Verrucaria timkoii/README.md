@@ -1,5 +1,4 @@
-Verrucaria timkoii Servít SPECIES
-=======
+# Verrucaria timkoii Servít SPECIES
 
 #### Status
 ACCEPTED

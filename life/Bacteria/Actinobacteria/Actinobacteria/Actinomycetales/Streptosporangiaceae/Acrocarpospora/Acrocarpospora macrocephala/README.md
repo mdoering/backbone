@@ -1,5 +1,4 @@
-Acrocarpospora macrocephala Tamura et al., 2000 SPECIES
-=======
+# Acrocarpospora macrocephala Tamura et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

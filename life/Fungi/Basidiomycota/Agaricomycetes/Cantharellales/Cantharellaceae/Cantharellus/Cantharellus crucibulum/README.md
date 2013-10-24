@@ -1,5 +1,4 @@
-Cantharellus crucibulum (Fr.) Fr. SPECIES
-=======
+# Cantharellus crucibulum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

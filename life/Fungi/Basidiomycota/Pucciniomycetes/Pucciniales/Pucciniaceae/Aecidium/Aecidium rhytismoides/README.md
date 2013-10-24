@@ -1,5 +1,4 @@
-Aecidium rhytismoides Racib. SPECIES
-=======
+# Aecidium rhytismoides Racib. SPECIES
 
 #### Status
 ACCEPTED

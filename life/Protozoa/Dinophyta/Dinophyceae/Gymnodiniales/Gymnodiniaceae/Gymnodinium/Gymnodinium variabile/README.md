@@ -1,5 +1,4 @@
-Gymnodinium variabile Herdman SPECIES
-=======
+# Gymnodinium variabile Herdman SPECIES
 
 #### Status
 ACCEPTED

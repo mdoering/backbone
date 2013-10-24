@@ -1,5 +1,4 @@
-Mucosphaera geophila A.J. Dop & Van Beem SPECIES
-=======
+# Mucosphaera geophila A.J. Dop & Van Beem SPECIES
 
 #### Status
 ACCEPTED

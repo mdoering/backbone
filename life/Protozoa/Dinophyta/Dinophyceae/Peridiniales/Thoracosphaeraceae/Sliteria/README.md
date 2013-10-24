@@ -1,5 +1,4 @@
-Sliteria Krasheninnikov & Basov, 1983 GENUS
-=======
+# Sliteria Krasheninnikov & Basov, 1983 GENUS
 
 #### Status
 ACCEPTED

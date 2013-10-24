@@ -1,5 +1,4 @@
-Fungus diminutivus (Peck) Kuntze SPECIES
-=======
+# Fungus diminutivus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

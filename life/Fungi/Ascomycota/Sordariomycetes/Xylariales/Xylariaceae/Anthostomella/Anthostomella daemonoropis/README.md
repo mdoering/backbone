@@ -1,5 +1,4 @@
-Anthostomella daemonoropis K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella daemonoropis K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria delphinii Rabenh. SPECIES
-=======
+# Sphaeria delphinii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

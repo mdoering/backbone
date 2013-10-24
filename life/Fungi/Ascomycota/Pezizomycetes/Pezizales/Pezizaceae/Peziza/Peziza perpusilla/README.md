@@ -1,5 +1,4 @@
-Peziza perpusilla E. Bommer & M. Rousseau SPECIES
-=======
+# Peziza perpusilla E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene buddleiae (Hansf.) Hansf. SPECIES
-=======
+# Irene buddleiae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

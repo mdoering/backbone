@@ -1,5 +1,4 @@
-Porina herculina (Rehm) Suza SPECIES
-=======
+# Porina herculina (Rehm) Suza SPECIES
 
 #### Status
 ACCEPTED

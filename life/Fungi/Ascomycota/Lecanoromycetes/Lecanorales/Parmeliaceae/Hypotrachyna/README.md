@@ -1,5 +1,4 @@
-Hypotrachyna (Vainio) Hale, 1974 GENUS
-=======
+# Hypotrachyna (Vainio) Hale, 1974 GENUS
 
 #### Status
 ACCEPTED

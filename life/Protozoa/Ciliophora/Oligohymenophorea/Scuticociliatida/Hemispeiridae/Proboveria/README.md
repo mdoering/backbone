@@ -1,5 +1,4 @@
-Proboveria Chatton & Lwoff, 1936 GENUS
-=======
+# Proboveria Chatton & Lwoff, 1936 GENUS
 
 #### Status
 ACCEPTED

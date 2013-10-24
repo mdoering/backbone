@@ -1,5 +1,4 @@
-Lagenosolenia alatospinata Albani & Yassini, 1989 SPECIES
-=======
+# Lagenosolenia alatospinata Albani & Yassini, 1989 SPECIES
 
 #### Status
 ACCEPTED

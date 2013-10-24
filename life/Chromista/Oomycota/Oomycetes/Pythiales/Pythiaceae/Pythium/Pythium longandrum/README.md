@@ -1,5 +1,4 @@
-Pythium longandrum B. Paul SPECIES
-=======
+# Pythium longandrum B. Paul SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannopilus hemisphaericus f. polyommata P. Schulz FORM
-=======
+# Cannopilus hemisphaericus SPECIES
 
 #### Status
 ACCEPTED

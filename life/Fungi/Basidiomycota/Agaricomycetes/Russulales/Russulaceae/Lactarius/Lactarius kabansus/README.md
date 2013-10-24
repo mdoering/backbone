@@ -1,5 +1,4 @@
-Lactarius kabansus var. kabansus VARIETY
-=======
+# Lactarius kabansus Pegler & Piearce SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. 35(3): 487 (1980)
 
 #### Original name
-Lactarius kabansus var. kabansus
+Lactarius kabansus Pegler & Piearce
 
 ### Remarks
 null

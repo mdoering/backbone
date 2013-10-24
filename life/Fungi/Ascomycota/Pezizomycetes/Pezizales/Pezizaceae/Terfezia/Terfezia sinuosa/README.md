@@ -1,5 +1,4 @@
-Terfezia sinuosa (Lázaro Ibiza) Malençon SPECIES
-=======
+# Terfezia sinuosa (Lázaro Ibiza) Malençon SPECIES
 
 #### Status
 ACCEPTED

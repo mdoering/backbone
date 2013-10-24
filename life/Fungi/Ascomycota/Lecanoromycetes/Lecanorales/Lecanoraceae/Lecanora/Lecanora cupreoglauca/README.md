@@ -1,5 +1,4 @@
-Lecanora cupreoglauca (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora cupreoglauca (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

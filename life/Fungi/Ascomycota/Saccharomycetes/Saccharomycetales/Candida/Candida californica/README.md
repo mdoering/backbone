@@ -1,17 +1,16 @@
-Torulopsis californicus Mrak & McClung SPECIES
-=======
+# Candida californica (Mrak & McClung ex H.W. Anderson & C.E. Skinner) F.Y. Bai, Z.W. Wu & V. Robert, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Wu, Robert & Bai, FEMS Yeast Res. 6(3): 458 (2006)
 
 #### Original name
-Torulopsis californicus Mrak & McClung
+Torulopsis californica Mrak & McClung, 1940
 
 ### Remarks
 null

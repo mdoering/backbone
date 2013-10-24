@@ -1,5 +1,4 @@
-Kazachstania viticola Zubcova, 1971 SPECIES
-=======
+# Kazachstania viticola Zubcova, 1971 SPECIES
 
 #### Status
 ACCEPTED

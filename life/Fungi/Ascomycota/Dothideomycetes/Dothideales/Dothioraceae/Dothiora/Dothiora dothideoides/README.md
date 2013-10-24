@@ -1,5 +1,4 @@
-Dothiora dothideoides (Dearn. & Barthol.) M.E. Barr SPECIES
-=======
+# Dothiora dothideoides (Dearn. & Barthol.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

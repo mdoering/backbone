@@ -1,5 +1,4 @@
-Gloniopsis ilicis Rostr. SPECIES
-=======
+# Gloniopsis ilicis Rostr. SPECIES
 
 #### Status
 ACCEPTED

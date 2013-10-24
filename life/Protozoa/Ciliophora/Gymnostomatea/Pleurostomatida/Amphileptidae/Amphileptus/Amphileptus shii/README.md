@@ -1,5 +1,4 @@
-Amphileptus shii SPECIES
-=======
+# Amphileptus shii SPECIES
 
 #### Status
 ACCEPTED

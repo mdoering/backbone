@@ -1,5 +1,4 @@
-Torulomyces viscosus Delitsch SPECIES
-=======
+# Torulomyces viscosus Delitsch SPECIES
 
 #### Status
 ACCEPTED

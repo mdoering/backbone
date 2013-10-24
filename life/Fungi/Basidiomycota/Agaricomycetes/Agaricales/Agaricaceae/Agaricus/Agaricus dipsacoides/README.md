@@ -1,5 +1,4 @@
-Agaricus dipsacoides With. SPECIES
-=======
+# Agaricus dipsacoides With. SPECIES
 
 #### Status
 ACCEPTED

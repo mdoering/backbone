@@ -1,17 +1,16 @@
-Russula sanguinea f. sanguinea FORM
-=======
+# Russula sanguinaria (Schumach.) Rauschert, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 43(4): 204 (1989)
 
 #### Original name
-Russula sanguinea f. sanguinea
+Agaricus sanguinarius Schumach., 1803
 
 ### Remarks
 null

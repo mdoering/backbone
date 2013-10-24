@@ -1,5 +1,4 @@
-Hemisphaeridium fenestratum Bujak in Bujak, Downie, Eaton & Williams, 1980 SPECIES
-=======
+# Hemisphaeridium fenestratum Bujak in Bujak, Downie, Eaton & Williams, 1980 SPECIES
 
 #### Status
 ACCEPTED

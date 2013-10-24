@@ -1,5 +1,4 @@
-Caloplaca minuta H. Magn. SPECIES
-=======
+# Caloplaca minuta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

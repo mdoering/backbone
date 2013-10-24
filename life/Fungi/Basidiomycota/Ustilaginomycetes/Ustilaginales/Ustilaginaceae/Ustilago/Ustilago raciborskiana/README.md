@@ -1,5 +1,4 @@
-Ustilago raciborskiana Siemaszko & Wróbl. SPECIES
-=======
+# Ustilago raciborskiana Siemaszko & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

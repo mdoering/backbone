@@ -1,5 +1,4 @@
-Delitschia corticola A.I. Romero & Samuels SPECIES
-=======
+# Delitschia corticola A.I. Romero & Samuels SPECIES
 
 #### Status
 ACCEPTED

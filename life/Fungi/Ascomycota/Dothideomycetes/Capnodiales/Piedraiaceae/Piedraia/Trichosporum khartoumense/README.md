@@ -1,5 +1,4 @@
-Trichosporum khartoumense (Chalm. & R.G. Archibald) C.W. Dodge SPECIES
-=======
+# Trichosporum khartoumense (Chalm. & R.G. Archibald) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

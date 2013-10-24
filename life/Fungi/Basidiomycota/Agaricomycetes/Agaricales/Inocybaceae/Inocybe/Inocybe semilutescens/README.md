@@ -1,5 +1,4 @@
-Inocybe semilutescens Singer SPECIES
-=======
+# Inocybe semilutescens Singer SPECIES
 
 #### Status
 ACCEPTED

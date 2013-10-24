@@ -1,14 +1,13 @@
-Pseudomelasmia lauracearum Henn., 1902 SPECIES
-=======
+# Phyllachora lauracearum (Henn.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 41: 115 (1902)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 930 (1910)
 
 #### Original name
 Pseudomelasmia lauracearum Henn., 1902

@@ -1,5 +1,4 @@
-Placodium ruderum (Malbr.) H. Olivier SPECIES
-=======
+# Placodium ruderum (Malbr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

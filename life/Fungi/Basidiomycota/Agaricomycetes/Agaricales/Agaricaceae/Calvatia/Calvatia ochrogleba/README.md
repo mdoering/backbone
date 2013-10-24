@@ -1,5 +1,4 @@
-Calvatia ochrogleba Zeller SPECIES
-=======
+# Calvatia ochrogleba Zeller SPECIES
 
 #### Status
 ACCEPTED

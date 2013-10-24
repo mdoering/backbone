@@ -1,5 +1,4 @@
-Cercospora helianthicola Chupp & Viégas, 1945 SPECIES
-=======
+# Cercospora helianthicola Chupp & Viégas, 1945 SPECIES
 
 #### Status
 ACCEPTED

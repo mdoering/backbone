@@ -1,5 +1,4 @@
-Phoma buddleiana Gucevic SPECIES
-=======
+# Phoma buddleiana Gucevic SPECIES
 
 #### Status
 ACCEPTED

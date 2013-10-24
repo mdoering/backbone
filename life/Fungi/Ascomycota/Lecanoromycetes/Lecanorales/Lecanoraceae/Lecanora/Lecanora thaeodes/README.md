@@ -1,5 +1,4 @@
-Lecanora thaeodes (A. Massal.) SPECIES
-=======
+# Lecanora thaeodes (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

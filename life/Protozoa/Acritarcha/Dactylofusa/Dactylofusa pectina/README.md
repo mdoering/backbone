@@ -1,5 +1,4 @@
-Dactylofusa pectina Rodriguez-Gonzalez, 1983 SPECIES
-=======
+# Dactylofusa pectina Rodriguez-Gonzalez, 1983 SPECIES
 
 #### Status
 ACCEPTED

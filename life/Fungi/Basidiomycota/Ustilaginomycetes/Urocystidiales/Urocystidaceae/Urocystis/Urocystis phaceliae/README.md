@@ -1,5 +1,4 @@
-Urocystis phaceliae J.C. Lindq. & Gamundí SPECIES
-=======
+# Urocystis phaceliae J.C. Lindq. & Gamundí SPECIES
 
 #### Status
 ACCEPTED

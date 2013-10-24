@@ -1,5 +1,4 @@
-Calonectria belonospora J. Schröt. SPECIES
-=======
+# Calonectria belonospora J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

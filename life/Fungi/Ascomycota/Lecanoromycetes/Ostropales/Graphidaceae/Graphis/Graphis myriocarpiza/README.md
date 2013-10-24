@@ -1,5 +1,4 @@
-Graphis myriocarpiza Vain. SPECIES
-=======
+# Graphis myriocarpiza Vain. SPECIES
 
 #### Status
 ACCEPTED

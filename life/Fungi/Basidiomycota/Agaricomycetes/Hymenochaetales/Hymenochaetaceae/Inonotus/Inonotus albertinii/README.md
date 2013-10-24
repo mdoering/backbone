@@ -1,14 +1,13 @@
-Cycloporus albertinii (Lloyd) Ryvarden, 1972 SPECIES
-=======
+# Inonotus albertinii (Lloyd) P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 19: 237 (1972)
+Mycotaxon 31(1): 12 (1988)
 
 #### Original name
 Polyporus albertinii Lloyd, 1912

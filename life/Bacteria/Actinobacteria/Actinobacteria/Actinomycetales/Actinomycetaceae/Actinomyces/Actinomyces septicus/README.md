@@ -1,5 +1,4 @@
-Actinomyces septicus MacNeal & Blevins SPECIES
-=======
+# Actinomyces septicus MacNeal & Blevins SPECIES
 
 #### Status
 ACCEPTED

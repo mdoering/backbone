@@ -1,5 +1,4 @@
-Dinemasporium calamophila anon. SPECIES
-=======
+# Dinemasporium calamophila anon. SPECIES
 
 #### Status
 ACCEPTED

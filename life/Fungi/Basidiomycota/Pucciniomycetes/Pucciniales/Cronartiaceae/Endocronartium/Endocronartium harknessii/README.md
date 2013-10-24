@@ -1,17 +1,16 @@
-Peridermium harknessi J.P. Moore SPECIES
-=======
+# Endocronartium harknessii (J.P. Moore) Hirats., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 47: 1493 (1969)
 
 #### Original name
-Peridermium harknessi J.P. Moore
+Peridermium harknessii J.P. Moore, 1884
 
 ### Remarks
 null

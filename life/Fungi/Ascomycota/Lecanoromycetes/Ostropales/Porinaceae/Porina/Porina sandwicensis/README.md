@@ -1,5 +1,4 @@
-Porina sandwicensis H. Magn. SPECIES
-=======
+# Porina sandwicensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

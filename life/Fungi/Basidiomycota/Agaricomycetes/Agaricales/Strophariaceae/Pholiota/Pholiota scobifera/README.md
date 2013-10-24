@@ -1,5 +1,4 @@
-Pholiota scobifera (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Pholiota scobifera (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

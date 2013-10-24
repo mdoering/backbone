@@ -1,5 +1,4 @@
-Scutellinia heimii Le Gal SPECIES
-=======
+# Scutellinia heimii Le Gal SPECIES
 
 #### Status
 ACCEPTED

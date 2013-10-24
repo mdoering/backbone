@@ -1,5 +1,4 @@
-Delitschia megatetraspora Luck-Allen & Cain SPECIES
-=======
+# Delitschia megatetraspora Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

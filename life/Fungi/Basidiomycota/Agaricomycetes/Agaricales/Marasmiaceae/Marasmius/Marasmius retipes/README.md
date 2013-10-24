@@ -1,5 +1,4 @@
-Marasmius retipes Lasch SPECIES
-=======
+# Marasmius retipes Lasch SPECIES
 
 #### Status
 ACCEPTED

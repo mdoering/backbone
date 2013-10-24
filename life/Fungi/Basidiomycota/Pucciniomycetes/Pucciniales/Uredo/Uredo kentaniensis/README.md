@@ -1,5 +1,4 @@
-Uredo kentaniensis Gjaerum SPECIES
-=======
+# Uredo kentaniensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

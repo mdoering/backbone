@@ -1,5 +1,4 @@
-Difflugia garmen SPECIES
-=======
+# Difflugia garmen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis zelandica Vezda & Malcolm SPECIES
-=======
+# Gyalideopsis zelandica Vezda & Malcolm SPECIES
 
 #### Status
 ACCEPTED

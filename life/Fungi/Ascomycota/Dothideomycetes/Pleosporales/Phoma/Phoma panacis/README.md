@@ -1,5 +1,4 @@
-Phoma panacis Nakata & S. Takim. SPECIES
-=======
+# Phoma panacis Nakata & S. Takim. SPECIES
 
 #### Status
 ACCEPTED

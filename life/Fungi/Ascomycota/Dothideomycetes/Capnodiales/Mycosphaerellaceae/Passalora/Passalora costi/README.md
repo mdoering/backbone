@@ -1,5 +1,4 @@
-Passalora costi (A.K. Singh, S.K. Singh & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora costi (A.K. Singh, S.K. Singh & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

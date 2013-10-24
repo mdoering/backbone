@@ -1,5 +1,4 @@
-Arthopyrenia leucochlora Müll. Arg. SPECIES
-=======
+# Arthopyrenia leucochlora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

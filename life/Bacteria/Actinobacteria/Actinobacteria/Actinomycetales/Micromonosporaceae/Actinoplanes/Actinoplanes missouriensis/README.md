@@ -1,5 +1,4 @@
-Actinoplanes missouriensis Couch, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes missouriensis Couch, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

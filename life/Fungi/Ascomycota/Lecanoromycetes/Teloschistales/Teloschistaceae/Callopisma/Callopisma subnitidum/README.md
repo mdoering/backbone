@@ -1,5 +1,4 @@
-Callopisma subnitidum Malme SPECIES
-=======
+# Callopisma subnitidum Malme SPECIES
 
 #### Status
 ACCEPTED

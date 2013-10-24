@@ -1,5 +1,4 @@
-Fusidomus pulicaris Grove, 1929 SPECIES
-=======
+# Fusidomus pulicaris Grove, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola caseariae-guianensis Hansf. SPECIES
-=======
+# Meliola caseariae-guianensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoblastidium Codreanu GENUS
-=======
+# Endoblastidium Codreanu GENUS
 
 #### Status
 ACCEPTED

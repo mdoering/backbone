@@ -1,5 +1,4 @@
-Oospora subramosum (Link) Wallr. SPECIES
-=======
+# Oospora subramosum (Link) Wallr. SPECIES
 
 #### Status
 ACCEPTED

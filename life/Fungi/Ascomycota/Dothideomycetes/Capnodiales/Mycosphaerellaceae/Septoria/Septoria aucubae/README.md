@@ -1,5 +1,4 @@
-Septoria aucubae Westend. SPECIES
-=======
+# Septoria aucubae Westend. SPECIES
 
 #### Status
 ACCEPTED

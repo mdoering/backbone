@@ -1,5 +1,4 @@
-Marasmiellus earlei (Murrill) Pegler SPECIES
-=======
+# Marasmiellus earlei (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Puccinia vanderysti Henn. SPECIES
-=======
+# Puccinia vanderystii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia vanderysti Henn.
+Puccinia vanderystii Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cerebella inquinans (Berk. & Broome) Petch SPECIES
-=======
+# Cerebella inquinans (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

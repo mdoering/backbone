@@ -1,5 +1,4 @@
-Bombyliospora japonica f. purpurascens Asahina FORM
-=======
+# Bombyliospora japonica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bombyliospora japonica f. purpurascens Asahina
+Bombyliospora japonica Zahlbr.
 
 ### Remarks
 null

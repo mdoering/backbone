@@ -1,5 +1,4 @@
-Satka granulosa Jankauskas, 1980 SPECIES
-=======
+# Satka granulosa Jankauskas, 1980 SPECIES
 
 #### Status
 ACCEPTED

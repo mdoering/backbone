@@ -1,5 +1,4 @@
-Dothidea parsimons Schwein. ex Fr. SPECIES
-=======
+# Dothidea parsimons Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

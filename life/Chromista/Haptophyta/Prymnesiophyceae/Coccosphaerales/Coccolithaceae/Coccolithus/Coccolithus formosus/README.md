@@ -1,5 +1,4 @@
-Coccolithus formosus (Kamptner) S.W. Wise SPECIES
-=======
+# Coccolithus formosus (Kamptner) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

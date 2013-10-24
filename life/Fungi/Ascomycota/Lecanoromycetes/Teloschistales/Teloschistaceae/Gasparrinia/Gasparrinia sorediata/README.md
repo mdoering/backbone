@@ -1,5 +1,4 @@
-Gasparrinia sorediata (Vain.) Oxner SPECIES
-=======
+# Gasparrinia sorediata (Vain.) Oxner SPECIES
 
 #### Status
 ACCEPTED

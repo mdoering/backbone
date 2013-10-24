@@ -1,5 +1,4 @@
-Adoneis pacifica G.W. Andrews & P. Rivera SPECIES
-=======
+# Adoneis pacifica G.W. Andrews & P. Rivera SPECIES
 
 #### Status
 ACCEPTED

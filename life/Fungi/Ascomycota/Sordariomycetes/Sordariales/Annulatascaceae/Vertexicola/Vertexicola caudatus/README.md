@@ -1,5 +1,4 @@
-Vertexicola caudatus K.D. Hyde, S.W. Wong & Ranghoo, 2000 SPECIES
-=======
+# Vertexicola caudatus K.D. Hyde, S.W. Wong & Ranghoo, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonyaulax culmula G. Norris SPECIES
-=======
+# Gonyaulax culmula G. Norris SPECIES
 
 #### Status
 ACCEPTED

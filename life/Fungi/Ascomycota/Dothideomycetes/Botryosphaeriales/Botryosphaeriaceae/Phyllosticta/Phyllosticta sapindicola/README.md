@@ -1,5 +1,4 @@
-Phyllosticta sapindicola Sawada SPECIES
-=======
+# Phyllosticta sapindicola Sawada SPECIES
 
 #### Status
 ACCEPTED

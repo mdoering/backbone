@@ -1,14 +1,13 @@
-Sphaerella uliginosa W. Phillips & Plowr., 1881 SPECIES
-=======
+# Leptosphaeria uliginosa (W. Phillips & Plowr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 10(no. 54): 74 (1881)
+Syll. fung. (Abellini) 2: 47 (1883)
 
 #### Original name
 Sphaerella uliginosa W. Phillips & Plowr., 1881

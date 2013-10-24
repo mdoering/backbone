@@ -1,5 +1,4 @@
-Polyedrosphaeridium giganteum Wang Naiwen, 1989 SPECIES
-=======
+# Polyedrosphaeridium giganteum Wang Naiwen, 1989 SPECIES
 
 #### Status
 ACCEPTED

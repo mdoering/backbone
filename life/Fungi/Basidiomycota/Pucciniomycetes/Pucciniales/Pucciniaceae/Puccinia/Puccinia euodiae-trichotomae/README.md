@@ -1,17 +1,16 @@
-Puccinia evodiae-trichotomae J.Y. Zhuang SPECIES
-=======
+# Puccinia euodiae-trichotomae J.Y. Zhuang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema, Suppl. 4: 87 (1991)
 
 #### Original name
-Puccinia evodiae-trichotomae J.Y. Zhuang
+Puccinia euodiae-trichotomae J.Y. Zhuang
 
 ### Remarks
 null

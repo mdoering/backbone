@@ -1,5 +1,4 @@
-Lacrimasporonites bellus A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Lacrimasporonites bellus A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

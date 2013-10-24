@@ -1,5 +1,4 @@
-Glenodinium lemmermannii Zacharius SPECIES
-=======
+# Glenodinium lemmermannii Zacharius SPECIES
 
 #### Status
 ACCEPTED

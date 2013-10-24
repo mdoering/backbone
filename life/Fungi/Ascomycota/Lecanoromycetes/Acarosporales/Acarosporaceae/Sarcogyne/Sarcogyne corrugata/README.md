@@ -1,5 +1,4 @@
-Sarcogyne corrugata Flot. SPECIES
-=======
+# Sarcogyne corrugata Flot. SPECIES
 
 #### Status
 ACCEPTED

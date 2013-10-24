@@ -1,5 +1,4 @@
-Uronema elegans Maupas, 1883 SPECIES
-=======
+# Uronema elegans Maupas, 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma ochraceum Krombh. SPECIES
-=======
+# Tricholoma ochraceum Krombh. SPECIES
 
 #### Status
 ACCEPTED

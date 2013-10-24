@@ -1,17 +1,16 @@
-Luttrellia monoceras (Drechsler) Khokhr., 1978 SPECIES
-=======
+# Setosphaeria monoceras Alcorn, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Azbukina et al. (eds) in Gornostai, Vodorosli, Griby i Mkhi Dal'nego Vostoka (Vladivostok) 81 (1978)
+Mycotaxon 7(2): 411 (1978)
 
 #### Original name
-Helminthosporium monoceras Drechsler, 1923
+Setosphaeria monoceras Alcorn, 1978
 
 ### Remarks
 null

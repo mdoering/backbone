@@ -1,5 +1,4 @@
-Agaricus erythrojonipus Fayod SPECIES
-=======
+# Agaricus erythrojonipus Fayod SPECIES
 
 #### Status
 ACCEPTED

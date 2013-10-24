@@ -1,5 +1,4 @@
-Levinea Kori, 1985 GENUS
-=======
+# Levinea Kori, 1985 GENUS
 
 #### Status
 ACCEPTED

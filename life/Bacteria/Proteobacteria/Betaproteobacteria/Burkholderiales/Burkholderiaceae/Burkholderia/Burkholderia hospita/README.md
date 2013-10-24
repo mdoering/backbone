@@ -1,5 +1,4 @@
-Burkholderia hospita Goris et al., 2003 SPECIES
-=======
+# Burkholderia hospita Goris et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

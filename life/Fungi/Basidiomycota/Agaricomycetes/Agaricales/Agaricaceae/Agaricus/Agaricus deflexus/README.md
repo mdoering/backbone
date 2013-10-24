@@ -1,5 +1,4 @@
-Agaricus deflexus Lindblad SPECIES
-=======
+# Agaricus deflexus Lindblad SPECIES
 
 #### Status
 ACCEPTED

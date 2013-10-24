@@ -1,17 +1,16 @@
-Imperfecta Busch, 1948 GENUS
-=======
+# Buschiella Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mitt. Mus. Naturk. Magdeb. , 1, (2), 131.
+J. Protozool. 7: 273, 274.
 
 #### Original name
-null
+Imperfecta Busch, 1948
 
 ### Remarks
 null

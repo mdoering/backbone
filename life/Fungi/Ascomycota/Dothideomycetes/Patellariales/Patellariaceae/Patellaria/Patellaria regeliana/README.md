@@ -1,5 +1,4 @@
-Patellaria regeliana (Hepp) SPECIES
-=======
+# Patellaria regeliana (Hepp) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeroderma sepultariae Wheldon, 1919 SPECIES
-=======
+# Sphaeroderma sepultariae Wheldon, 1919 SPECIES
 
 #### Status
 ACCEPTED

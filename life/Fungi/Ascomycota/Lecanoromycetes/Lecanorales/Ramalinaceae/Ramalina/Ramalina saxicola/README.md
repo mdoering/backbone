@@ -1,5 +1,4 @@
-Ramalina saxicola H. Magn. SPECIES
-=======
+# Ramalina saxicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

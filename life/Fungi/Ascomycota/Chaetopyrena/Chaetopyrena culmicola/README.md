@@ -1,5 +1,4 @@
-Chaetopyrena culmicola (Sacc.) Sacc. SPECIES
-=======
+# Chaetopyrena culmicola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe eccentrica X.H. Wang & P.G. Liu SPECIES
-=======
+# Clitocybe eccentrica X.H. Wang & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

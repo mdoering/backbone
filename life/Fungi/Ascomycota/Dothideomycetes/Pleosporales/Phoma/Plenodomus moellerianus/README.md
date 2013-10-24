@@ -1,17 +1,16 @@
-Plenodomus mollerianus Bres. SPECIES
-=======
+# Plenodomus moellerianus Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bolm Soc. broteriana, Coimbra 9: 6 (1891)
 
 #### Original name
-Plenodomus mollerianus Bres.
+Plenodomus moellerianus Bres.
 
 ### Remarks
 null

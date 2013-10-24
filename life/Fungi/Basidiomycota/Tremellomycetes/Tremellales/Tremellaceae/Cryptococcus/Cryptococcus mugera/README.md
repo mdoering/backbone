@@ -1,5 +1,4 @@
-Cryptococcus mugera Mattlet SPECIES
-=======
+# Cryptococcus mugera Mattlet SPECIES
 
 #### Status
 ACCEPTED

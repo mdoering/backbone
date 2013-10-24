@@ -1,5 +1,4 @@
-Ramaria brunneomaculata Schild, 1992 SPECIES
-=======
+# Ramaria brunneomaculata Schild, 1992 SPECIES
 
 #### Status
 ACCEPTED

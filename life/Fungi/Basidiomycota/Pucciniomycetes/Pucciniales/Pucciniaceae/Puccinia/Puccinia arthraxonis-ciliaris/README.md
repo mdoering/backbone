@@ -1,5 +1,4 @@
-Puccinia arthraxonis-ciliaris Cummins SPECIES
-=======
+# Puccinia arthraxonis-ciliaris Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema murinum Zahlbr. SPECIES
-=======
+# Thelotrema murinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

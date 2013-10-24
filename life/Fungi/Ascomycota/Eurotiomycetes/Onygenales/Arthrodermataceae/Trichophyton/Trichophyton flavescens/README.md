@@ -1,5 +1,4 @@
-Trichophyton flavescens A.A. Padhye & J.W. Carmich. SPECIES
-=======
+# Trichophyton flavescens A.A. Padhye & J.W. Carmich. SPECIES
 
 #### Status
 ACCEPTED

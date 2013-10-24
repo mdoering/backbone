@@ -1,5 +1,4 @@
-Dothidea cladonema (Wedd.) Vouaux SPECIES
-=======
+# Dothidea cladonema (Wedd.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

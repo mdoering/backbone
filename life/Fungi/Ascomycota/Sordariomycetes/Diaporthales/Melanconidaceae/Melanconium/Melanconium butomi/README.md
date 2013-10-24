@@ -1,5 +1,4 @@
-Melanconium butomi Pisareva SPECIES
-=======
+# Melanconium butomi Pisareva SPECIES
 
 #### Status
 ACCEPTED

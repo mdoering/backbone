@@ -1,5 +1,4 @@
-Cryptococcus interdigitalis Pollacci & Nann. SPECIES
-=======
+# Cryptococcus interdigitalis Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

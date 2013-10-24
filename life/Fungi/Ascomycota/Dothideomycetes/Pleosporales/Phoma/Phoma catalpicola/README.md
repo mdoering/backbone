@@ -1,5 +1,4 @@
-Phoma catalpicola Oudem. SPECIES
-=======
+# Phoma catalpicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

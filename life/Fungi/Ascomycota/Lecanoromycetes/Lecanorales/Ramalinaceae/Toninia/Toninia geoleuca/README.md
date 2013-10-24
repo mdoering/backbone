@@ -1,5 +1,4 @@
-Toninia geoleuca (Nyl.) Zahlbr. SPECIES
-=======
+# Toninia geoleuca (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

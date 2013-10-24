@@ -1,5 +1,4 @@
-Hyaloscypha ulmacea Velen. SPECIES
-=======
+# Hyaloscypha ulmacea Velen. SPECIES
 
 #### Status
 ACCEPTED

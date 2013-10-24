@@ -1,5 +1,4 @@
-Leuvenia natans Gardner SPECIES
-=======
+# Leuvenia natans Gardner SPECIES
 
 #### Status
 ACCEPTED

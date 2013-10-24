@@ -1,5 +1,4 @@
-Aspicilia perradiata var. perradiata (Nyl.) J.W. Thomson VARIETY
-=======
+# Aspicilia perradiata (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Bird, Thomson, Marsh, Scotter & Wong, Can. J. Bot. 59(7): 1241 (1981)
+Can. J. Bot. (1912)
 
 #### Original name
-Aspicilia perradiata var. perradiata (Nyl.) J.W. Thomson
+Lecanora perradiata Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerophorus J.E. Gray, 1864 GENUS
-=======
+# Sphaerophorus J.E. Gray, 1864 GENUS
 
 #### Status
 ACCEPTED

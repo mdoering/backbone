@@ -1,5 +1,4 @@
-Lepraria isidiata (Llimona) Llimona & A. Crespo SPECIES
-=======
+# Lepraria isidiata (Llimona) Llimona & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Anabaena constricta (Szafer) Geitler SPECIES
-=======
+# Komvophoron constrictum (Szafer) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

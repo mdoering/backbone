@@ -1,5 +1,4 @@
-Sphinctrina leucopodoides Nyl. SPECIES
-=======
+# Sphinctrina leucopodoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

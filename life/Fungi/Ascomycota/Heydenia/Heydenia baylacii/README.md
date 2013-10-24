@@ -1,5 +1,4 @@
-Heydenia baylacii (Roum.) Sacc. SPECIES
-=======
+# Heydenia baylacii (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

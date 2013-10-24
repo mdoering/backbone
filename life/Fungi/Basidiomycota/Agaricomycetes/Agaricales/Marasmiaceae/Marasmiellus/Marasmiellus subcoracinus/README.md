@@ -1,5 +1,4 @@
-Marasmiellus subcoracinus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus subcoracinus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

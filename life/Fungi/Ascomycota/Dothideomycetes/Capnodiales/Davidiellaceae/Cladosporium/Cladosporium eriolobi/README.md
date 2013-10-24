@@ -1,17 +1,16 @@
-Zasmidium eriolobi (Thaung) K. Schub. & U. Braun, 2010 SPECIES
-=======
+# Cladosporium eriolobi Thaung, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 63(3): 620 (1974)
 
 #### Original name
-null
+Cladosporium eriolobi Thaung, 1974
 
 ### Remarks
 null

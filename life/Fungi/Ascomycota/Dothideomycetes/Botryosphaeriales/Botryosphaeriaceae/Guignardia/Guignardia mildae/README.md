@@ -1,5 +1,4 @@
-Guignardia mildae Treigiene, 2006 SPECIES
-=======
+# Guignardia mildae Treigiene, 2006 SPECIES
 
 #### Status
 ACCEPTED

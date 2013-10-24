@@ -1,5 +1,4 @@
-Parmelia royi Stirt. SPECIES
-=======
+# Parmelia royi Stirt. SPECIES
 
 #### Status
 ACCEPTED

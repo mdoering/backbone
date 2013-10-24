@@ -1,17 +1,16 @@
-Cladosporium elegans var. elegans Penz. VARIETY
-=======
+# Cladosporium elegans Penz., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 8): 471 (1882)
 
 #### Original name
-Cladosporium elegans var. elegans Penz.
+Cladosporium elegans Penz., 1882
 
 ### Remarks
 null

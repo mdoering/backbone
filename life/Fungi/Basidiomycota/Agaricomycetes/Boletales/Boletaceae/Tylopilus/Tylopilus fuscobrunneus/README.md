@@ -1,5 +1,4 @@
-Tylopilus fuscobrunneus Watling SPECIES
-=======
+# Tylopilus fuscobrunneus Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladosporium caducum Davis, 1924 SPECIES
-=======
+# Fusicladium caducum (Davis) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Wis. Acad. Sci. Arts Lett. 21: 298 (1924)
+Mycotaxon 92: 65 (2005)
 
 #### Original name
 Cladosporium caducum Davis, 1924

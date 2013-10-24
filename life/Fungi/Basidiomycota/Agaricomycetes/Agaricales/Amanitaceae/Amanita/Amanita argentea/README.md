@@ -1,17 +1,16 @@
-Amanita mairei f. mairei FORM
-=======
+# Amanita argentea Huijsman, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Hist. nat. Afr. Nord. , Hors. sér. 2: 117 (1949)
+Bull. trimest. Soc. mycol. Fr. 75(1): 14 (1959)
 
 #### Original name
-Amanita mairei f. mairei
+Amanita argentea Huijsman, 1959
 
 ### Remarks
 null

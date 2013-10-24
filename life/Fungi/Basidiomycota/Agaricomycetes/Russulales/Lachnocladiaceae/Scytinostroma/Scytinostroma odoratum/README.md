@@ -1,8 +1,7 @@
-Scytinostroma odoratum var. odoratum (Fr.) Donk, 1956 VARIETY
-=======
+# Scytinostroma odoratum (Fr.) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Fungus, Wageningen 26: 20 (1956)
 
 #### Original name
-Scytinostroma odoratum var. odoratum (Fr.) Donk, 1956
+Thelephora odorata Fr., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diatrype artemisiae Tilak SPECIES
-=======
+# Diatrype artemisiae Tilak SPECIES
 
 #### Status
 ACCEPTED

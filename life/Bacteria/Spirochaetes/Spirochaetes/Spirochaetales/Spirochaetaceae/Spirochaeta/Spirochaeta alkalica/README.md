@@ -1,5 +1,4 @@
-Spirochaeta alkalica Zhilina et al., 1996 SPECIES
-=======
+# Spirochaeta alkalica Zhilina et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

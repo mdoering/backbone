@@ -1,5 +1,4 @@
-Cyathicula vulgaris De Not. SPECIES
-=======
+# Cyathicula vulgaris De Not. SPECIES
 
 #### Status
 ACCEPTED

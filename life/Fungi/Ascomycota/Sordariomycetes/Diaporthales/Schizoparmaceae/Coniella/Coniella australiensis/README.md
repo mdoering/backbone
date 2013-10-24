@@ -1,5 +1,4 @@
-Coniella australiensis Petr., 1955 SPECIES
-=======
+# Coniella australiensis Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

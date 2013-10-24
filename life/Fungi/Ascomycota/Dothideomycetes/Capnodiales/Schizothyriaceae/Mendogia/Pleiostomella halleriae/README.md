@@ -1,5 +1,4 @@
-Pleiostomella halleriae Doidge SPECIES
-=======
+# Pleiostomella halleriae Doidge SPECIES
 
 #### Status
 ACCEPTED

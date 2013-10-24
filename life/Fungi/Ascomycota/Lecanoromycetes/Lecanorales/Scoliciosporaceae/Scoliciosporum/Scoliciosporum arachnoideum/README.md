@@ -1,5 +1,4 @@
-Scoliciosporum arachnoideum Aptroot SPECIES
-=======
+# Scoliciosporum arachnoideum Aptroot SPECIES
 
 #### Status
 ACCEPTED

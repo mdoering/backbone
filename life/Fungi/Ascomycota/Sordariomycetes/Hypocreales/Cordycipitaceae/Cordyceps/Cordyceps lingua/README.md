@@ -1,5 +1,4 @@
-Cordyceps lingua Lév. SPECIES
-=======
+# Cordyceps lingua Lév. SPECIES
 
 #### Status
 ACCEPTED

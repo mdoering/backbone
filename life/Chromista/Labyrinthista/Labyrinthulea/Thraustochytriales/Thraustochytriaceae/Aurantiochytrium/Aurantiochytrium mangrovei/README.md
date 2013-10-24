@@ -1,14 +1,13 @@
-Schizochytrium mangrovei Raghuk., 1988 SPECIES
-=======
+# Aurantiochytrium mangrovei (Raghuk.) R. Yokoy. & D. Honda, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 90(4): 627 (1988)
+Mycoscience 48(4): 203 (2007)
 
 #### Original name
 Schizochytrium mangrovei Raghuk., 1988

@@ -1,5 +1,4 @@
-Clitocybe vernicosa (Fr.) Gillet SPECIES
-=======
+# Clitocybe vernicosa (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

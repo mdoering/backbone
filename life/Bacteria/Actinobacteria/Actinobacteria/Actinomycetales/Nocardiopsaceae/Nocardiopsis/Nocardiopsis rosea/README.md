@@ -1,5 +1,4 @@
-Nocardiopsis rosea Li et al., 2006 SPECIES
-=======
+# Nocardiopsis rosea Li et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

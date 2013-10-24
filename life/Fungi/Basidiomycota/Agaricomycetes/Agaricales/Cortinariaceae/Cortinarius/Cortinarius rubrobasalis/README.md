@@ -1,5 +1,4 @@
-Cortinarius rubrobasalis M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius rubrobasalis M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

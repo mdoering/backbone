@@ -1,5 +1,4 @@
-Phialea buccina Quél. SPECIES
-=======
+# Phialea buccina Quél. SPECIES
 
 #### Status
 ACCEPTED

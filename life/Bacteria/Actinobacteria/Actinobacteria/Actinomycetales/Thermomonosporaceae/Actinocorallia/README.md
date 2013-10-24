@@ -1,5 +1,4 @@
-Actinocorallia Iinuma et al., 1994 GENUS
-=======
+# Actinocorallia Iinuma et al., 1994 GENUS
 
 #### Status
 ACCEPTED

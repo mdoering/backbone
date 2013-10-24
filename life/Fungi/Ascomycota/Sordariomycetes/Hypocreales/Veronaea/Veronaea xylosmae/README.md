@@ -1,5 +1,4 @@
-Veronaea xylosmae A.K. Srivast. SPECIES
-=======
+# Veronaea xylosmae A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

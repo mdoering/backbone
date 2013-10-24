@@ -1,5 +1,4 @@
-Lepiota affinis Velen. SPECIES
-=======
+# Lepiota affinis Velen. SPECIES
 
 #### Status
 ACCEPTED

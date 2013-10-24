@@ -1,5 +1,4 @@
-Halococcus salifodinae Denner et al., 1994 SPECIES
-=======
+# Halococcus salifodinae Denner et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

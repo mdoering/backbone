@@ -1,5 +1,4 @@
-Pluteus microspermus E. Horak, 2008 SPECIES
-=======
+# Pluteus microspermus E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

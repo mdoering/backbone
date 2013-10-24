@@ -1,5 +1,4 @@
-Cintractia pseudoaxicola Zundel SPECIES
-=======
+# Cintractia pseudoaxicola Zundel SPECIES
 
 #### Status
 ACCEPTED

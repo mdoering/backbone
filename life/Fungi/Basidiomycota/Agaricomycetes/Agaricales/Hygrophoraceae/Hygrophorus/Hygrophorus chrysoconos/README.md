@@ -1,5 +1,4 @@
-Hygrophorus chrysoconos S. Imai SPECIES
-=======
+# Hygrophorus chrysoconos S. Imai SPECIES
 
 #### Status
 ACCEPTED

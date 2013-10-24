@@ -1,5 +1,4 @@
-Septoria acericola Petr. SPECIES
-=======
+# Septoria acericola Petr. SPECIES
 
 #### Status
 ACCEPTED

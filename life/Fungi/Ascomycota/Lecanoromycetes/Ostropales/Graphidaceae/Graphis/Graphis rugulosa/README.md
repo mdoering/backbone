@@ -1,5 +1,4 @@
-Graphis rugulosa Vain. SPECIES
-=======
+# Graphis rugulosa Vain. SPECIES
 
 #### Status
 ACCEPTED

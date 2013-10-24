@@ -1,17 +1,16 @@
-Megalodochium indica R. Begum & Rizwana SPECIES
-=======
+# Megalodochium indicum R. Begum & Rizwana SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 48(2): 74 (1979)
 
 #### Original name
-Megalodochium indica R. Begum & Rizwana
+Megalodochium indicum R. Begum & Rizwana
 
 ### Remarks
 null

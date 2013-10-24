@@ -1,5 +1,4 @@
-Pyrenopeziza carniolica Rehm SPECIES
-=======
+# Pyrenopeziza carniolica Rehm SPECIES
 
 #### Status
 ACCEPTED

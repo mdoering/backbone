@@ -1,5 +1,4 @@
-Cruciplacolithus edwardsii A. J. T. Romein SPECIES
-=======
+# Cruciplacolithus edwardsii A. J. T. Romein SPECIES
 
 #### Status
 ACCEPTED

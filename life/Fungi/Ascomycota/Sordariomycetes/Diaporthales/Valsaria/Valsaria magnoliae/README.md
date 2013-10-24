@@ -1,5 +1,4 @@
-Valsaria magnoliae Ellis & Everh. SPECIES
-=======
+# Valsaria magnoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

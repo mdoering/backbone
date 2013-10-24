@@ -1,5 +1,4 @@
-Lecanora squamulosa J. Steiner SPECIES
-=======
+# Lecanora squamulosa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

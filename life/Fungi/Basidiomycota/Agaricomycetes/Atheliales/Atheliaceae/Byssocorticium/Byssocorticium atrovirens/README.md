@@ -1,14 +1,13 @@
-Terana atrovirens (Fr.) Kuntze, 1891 SPECIES
-=======
+# Byssocorticium atrovirens (Fr.) Bondartsev & Singer, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+in Singer, Mycologia 36(1): 69 (1944)
 
 #### Original name
 Thelephora atrovirens Fr., 1828

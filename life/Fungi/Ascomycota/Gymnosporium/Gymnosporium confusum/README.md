@@ -1,5 +1,4 @@
-Gymnosporium confusum Berk. & Broome SPECIES
-=======
+# Gymnosporium confusum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

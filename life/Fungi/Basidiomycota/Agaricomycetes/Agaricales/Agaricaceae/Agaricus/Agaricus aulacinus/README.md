@@ -1,5 +1,4 @@
-Agaricus aulacinus Fr. SPECIES
-=======
+# Agaricus aulacinus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum polyedron Schwein. SPECIES
-=======
+# Physarum polyedron Schwein. SPECIES
 
 #### Status
 ACCEPTED

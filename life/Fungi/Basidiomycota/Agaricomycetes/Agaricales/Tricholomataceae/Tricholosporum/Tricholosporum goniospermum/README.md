@@ -1,17 +1,16 @@
-Tricholoma goniospermum f. goniospermum Bres. FORM
-=======
+# Tricholosporum goniospermum (Bres.) Guzmán ex T.J. Baroni, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 74(6): 868 (1982)
 
 #### Original name
-Tricholoma goniospermum f. goniospermum Bres.
+Tricholoma goniospermum Bres., 1881
 
 ### Remarks
 null

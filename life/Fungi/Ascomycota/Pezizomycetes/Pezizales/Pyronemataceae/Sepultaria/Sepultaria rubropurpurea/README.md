@@ -1,5 +1,4 @@
-Sepultaria rubropurpurea Clem. SPECIES
-=======
+# Sepultaria rubropurpurea Clem. SPECIES
 
 #### Status
 ACCEPTED

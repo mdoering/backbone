@@ -1,5 +1,4 @@
-Oceanospirillales ORDER
-=======
+# Oceanospirillales ORDER
 
 #### Status
 ACCEPTED

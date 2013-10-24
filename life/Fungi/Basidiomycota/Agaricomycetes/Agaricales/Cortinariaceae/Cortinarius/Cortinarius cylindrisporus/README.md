@@ -1,17 +1,16 @@
-Cortinaria cylindrispora Murrill SPECIES
-=======
+# Cortinarius cylindrisporus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 8: 282 (1946)
 
 #### Original name
-Cortinaria cylindrispora Murrill
+Cortinarius cylindrisporus Murrill
 
 ### Remarks
 null

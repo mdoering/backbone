@@ -1,5 +1,4 @@
-Hohenbuehelia atrolucida (Lloyd) Pegler SPECIES
-=======
+# Hohenbuehelia atrolucida (Lloyd) Pegler SPECIES
 
 #### Status
 ACCEPTED

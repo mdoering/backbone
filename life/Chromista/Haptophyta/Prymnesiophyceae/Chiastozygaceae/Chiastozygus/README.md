@@ -1,14 +1,13 @@
-Ellipsochiastozygus Prins, 1969 GENUS
-=======
+# Chiastozygus Gartner, 1968 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Kansas Paleontol. Contr. Art. 48: 26.
 
 #### Original name
 null

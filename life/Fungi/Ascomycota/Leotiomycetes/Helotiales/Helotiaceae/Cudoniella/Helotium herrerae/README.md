@@ -1,5 +1,4 @@
-Helotium herrerae (Singer) Redhead SPECIES
-=======
+# Helotium herrerae (Singer) Redhead SPECIES
 
 #### Status
 ACCEPTED

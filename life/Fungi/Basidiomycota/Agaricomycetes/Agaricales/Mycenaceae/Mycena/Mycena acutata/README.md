@@ -1,5 +1,4 @@
-Mycena acutata (Kalchbr. & F. Muell.) Sacc. SPECIES
-=======
+# Mycena acutata (Kalchbr. & F. Muell.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

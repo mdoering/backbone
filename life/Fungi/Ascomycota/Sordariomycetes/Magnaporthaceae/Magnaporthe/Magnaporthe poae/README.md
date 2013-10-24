@@ -1,5 +1,4 @@
-Magnaporthe poae Landsch. & N. Jacks., 1989 SPECIES
-=======
+# Magnaporthe poae Landsch. & N. Jacks., 1989 SPECIES
 
 #### Status
 ACCEPTED

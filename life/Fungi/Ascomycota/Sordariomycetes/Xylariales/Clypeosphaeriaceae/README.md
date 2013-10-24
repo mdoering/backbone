@@ -1,5 +1,4 @@
-Clypeosphaeriaceae G. Winter FAMILY
-=======
+# Clypeosphaeriaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepidoderma trevelyanii (Grev.) Poulain & Mar.Mey., 2002 SPECIES
-=======
+# Lepidoderma trevelyanii (Grev.) Poulain & Mar.Mey., 2002 SPECIES
 
 #### Status
 ACCEPTED

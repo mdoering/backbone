@@ -1,5 +1,4 @@
-Merismopedia hyalina (Ehrenberg) Kützing SPECIES
-=======
+# Merismopedia hyalina (Ehrenberg) Kützing SPECIES
 
 #### Status
 ACCEPTED

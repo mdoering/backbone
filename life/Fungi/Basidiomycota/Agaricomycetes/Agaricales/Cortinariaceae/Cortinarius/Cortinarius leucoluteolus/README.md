@@ -1,5 +1,4 @@
-Cortinarius leucoluteolus Rob. Henry SPECIES
-=======
+# Cortinarius leucoluteolus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

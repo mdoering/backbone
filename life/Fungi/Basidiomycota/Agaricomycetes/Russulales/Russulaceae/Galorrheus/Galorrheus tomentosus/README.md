@@ -1,5 +1,4 @@
-Galorrheus tomentosus (J. Otto) P. Kumm. SPECIES
-=======
+# Galorrheus tomentosus (J. Otto) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

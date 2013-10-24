@@ -1,5 +1,4 @@
-Clitocybe pleurotus Singer SPECIES
-=======
+# Clitocybe pleurotus Singer SPECIES
 
 #### Status
 ACCEPTED

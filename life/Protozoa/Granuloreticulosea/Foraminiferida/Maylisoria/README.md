@@ -1,5 +1,4 @@
-Maylisoria Bykova, 1961 GENUS
-=======
+# Maylisoria Bykova, 1961 GENUS
 
 #### Status
 ACCEPTED

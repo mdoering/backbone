@@ -1,14 +1,13 @@
-Spondylocladium mori Sawada, 1919 SPECIES
-=======
+# Gonatophragmium mori (Sawada) Deighton, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Special Bulletin Agricultural Experiment Station Formosa 19: 665 (1919)
+in Cejp & Deighton, Mycol. Pap. 117: 13 (1969)
 
 #### Original name
 Spondylocladium mori Sawada, 1919

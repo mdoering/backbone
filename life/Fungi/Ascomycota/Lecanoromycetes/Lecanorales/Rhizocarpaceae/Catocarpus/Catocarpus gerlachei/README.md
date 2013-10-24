@@ -1,5 +1,4 @@
-Catocarpus gerlachei (Vain.) C.W. Dodge SPECIES
-=======
+# Catocarpus gerlachei (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

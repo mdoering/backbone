@@ -1,5 +1,4 @@
-Cryptodiscus sordidulus Speg. SPECIES
-=======
+# Cryptodiscus sordidulus Speg. SPECIES
 
 #### Status
 ACCEPTED

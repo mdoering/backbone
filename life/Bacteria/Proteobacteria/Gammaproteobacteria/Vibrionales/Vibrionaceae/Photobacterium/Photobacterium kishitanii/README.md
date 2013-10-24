@@ -1,5 +1,4 @@
-Photobacterium kishitanii Ast, Cleenwerck, Engelbeen, Urbanczyk, Thompson, De Vos & Dunlap, 2007 SPECIES
-=======
+# Photobacterium kishitanii Ast, Cleenwerck, Engelbeen, Urbanczyk, Thompson, De Vos & Dunlap, 2007 SPECIES
 
 #### Status
 ACCEPTED

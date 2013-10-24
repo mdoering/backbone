@@ -1,5 +1,4 @@
-Cenangium striatum (Bertier {?} ) Fr. SPECIES
-=======
+# Cenangium striatum (Bertier {?} ) Fr. SPECIES
 
 #### Status
 ACCEPTED

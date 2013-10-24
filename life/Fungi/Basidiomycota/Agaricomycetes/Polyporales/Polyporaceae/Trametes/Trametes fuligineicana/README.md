@@ -1,5 +1,4 @@
-Trametes fuligineicana Corner SPECIES
-=======
+# Trametes fuligineicana Corner SPECIES
 
 #### Status
 ACCEPTED

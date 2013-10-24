@@ -1,5 +1,4 @@
-Lachnella subiculosa Agerer, 1983 SPECIES
-=======
+# Lachnella subiculosa Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

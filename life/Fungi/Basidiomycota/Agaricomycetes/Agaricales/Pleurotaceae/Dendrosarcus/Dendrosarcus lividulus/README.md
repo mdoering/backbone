@@ -1,5 +1,4 @@
-Dendrosarcus lividulus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus lividulus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

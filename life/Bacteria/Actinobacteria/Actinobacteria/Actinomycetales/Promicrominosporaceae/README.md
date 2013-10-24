@@ -1,5 +1,4 @@
-Promicrominosporaceae FAMILY
-=======
+# Promicrominosporaceae FAMILY
 
 #### Status
 ACCEPTED

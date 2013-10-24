@@ -1,5 +1,4 @@
-Opegrapha trassii S.Y. Kondr. & Coppins SPECIES
-=======
+# Opegrapha trassii S.Y. Kondr. & Coppins SPECIES
 
 #### Status
 ACCEPTED

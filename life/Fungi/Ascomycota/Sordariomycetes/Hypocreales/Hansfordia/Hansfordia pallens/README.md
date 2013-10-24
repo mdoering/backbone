@@ -1,5 +1,4 @@
-Hansfordia pallens K.X. Hu & S.X. Guo SPECIES
-=======
+# Hansfordia pallens K.X. Hu & S.X. Guo SPECIES
 
 #### Status
 ACCEPTED

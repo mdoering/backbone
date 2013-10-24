@@ -1,5 +1,4 @@
-Pseudosporopsis rotatoriorum Scherff. SPECIES
-=======
+# Pseudosporopsis rotatoriorum Scherff. SPECIES
 
 #### Status
 ACCEPTED

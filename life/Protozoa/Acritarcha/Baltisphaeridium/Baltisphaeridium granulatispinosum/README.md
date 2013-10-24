@@ -1,5 +1,4 @@
-Baltisphaeridium granulatispinosum Downie, 1963 SPECIES
-=======
+# Baltisphaeridium granulatispinosum Downie, 1963 SPECIES
 
 #### Status
 ACCEPTED

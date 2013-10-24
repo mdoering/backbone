@@ -1,5 +1,4 @@
-Lentisphaera araneosa Cho et al., 2004 SPECIES
-=======
+# Lentisphaera araneosa Cho et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

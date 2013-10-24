@@ -1,5 +1,4 @@
-Sphaerodinella H. Keupp & Versteegh, 1989 GENUS
-=======
+# Sphaerodinella H. Keupp & Versteegh, 1989 GENUS
 
 #### Status
 ACCEPTED

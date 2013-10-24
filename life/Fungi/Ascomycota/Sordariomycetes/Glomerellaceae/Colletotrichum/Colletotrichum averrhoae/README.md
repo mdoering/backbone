@@ -1,5 +1,4 @@
-Colletotrichum averrhoae Bat. SPECIES
-=======
+# Colletotrichum averrhoae Bat. SPECIES
 
 #### Status
 ACCEPTED

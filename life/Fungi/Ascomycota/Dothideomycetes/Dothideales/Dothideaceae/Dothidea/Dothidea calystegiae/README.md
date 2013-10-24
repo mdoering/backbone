@@ -1,5 +1,4 @@
-Dothidea calystegiae Cooke & Harkn. SPECIES
-=======
+# Dothidea calystegiae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

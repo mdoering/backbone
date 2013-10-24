@@ -1,5 +1,4 @@
-Phyllosticta ficicola Pat. SPECIES
-=======
+# Phyllosticta ficicola Pat. SPECIES
 
 #### Status
 ACCEPTED

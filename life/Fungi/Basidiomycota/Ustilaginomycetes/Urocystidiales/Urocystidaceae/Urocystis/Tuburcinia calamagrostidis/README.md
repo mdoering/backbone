@@ -1,17 +1,16 @@
-Tuburcinia calamagrostis Liro SPECIES
-=======
+# Tuburcinia calamagrostidis Lavrov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. I. Liro Mycotheca Fennica, Fasc. 16 111 (1939)
 
 #### Original name
-Tuburcinia calamagrostis Liro
+Tuburcinia calamagrostidis Lavrov
 
 ### Remarks
 null

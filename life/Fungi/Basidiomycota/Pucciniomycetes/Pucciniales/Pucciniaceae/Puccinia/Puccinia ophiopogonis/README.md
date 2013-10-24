@@ -1,5 +1,4 @@
-Puccinia ophiopogonis (Syd. & P. Syd.) Cummins SPECIES
-=======
+# Puccinia ophiopogonis (Syd. & P. Syd.) Cummins SPECIES
 
 #### Status
 ACCEPTED

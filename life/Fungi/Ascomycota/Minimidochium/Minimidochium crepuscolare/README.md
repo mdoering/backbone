@@ -1,5 +1,4 @@
-Minimidochium crepuscolare C. Ciccar. SPECIES
-=======
+# Minimidochium crepuscolare C. Ciccar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecaphora andropogonis Speg. SPECIES
-=======
+# Thecaphora andropogonis Speg. SPECIES
 
 #### Status
 ACCEPTED

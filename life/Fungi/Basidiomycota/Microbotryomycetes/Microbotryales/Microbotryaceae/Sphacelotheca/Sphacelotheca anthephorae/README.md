@@ -1,5 +1,4 @@
-Sphacelotheca anthephorae (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca anthephorae (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

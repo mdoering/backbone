@@ -1,5 +1,4 @@
-Clitocybe salmoneus Peck SPECIES
-=======
+# Clitocybe salmoneus Peck SPECIES
 
 #### Status
 ACCEPTED

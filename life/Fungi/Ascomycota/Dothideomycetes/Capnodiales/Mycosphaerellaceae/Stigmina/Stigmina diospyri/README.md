@@ -1,5 +1,4 @@
-Stigmina diospyri G.P. Agarwal & N.D. Sharma SPECIES
-=======
+# Stigmina diospyri G.P. Agarwal & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

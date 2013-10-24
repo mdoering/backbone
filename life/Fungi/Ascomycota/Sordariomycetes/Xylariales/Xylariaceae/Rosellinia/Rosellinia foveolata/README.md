@@ -1,5 +1,4 @@
-Rosellinia foveolata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rosellinia foveolata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

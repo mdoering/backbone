@@ -1,5 +1,4 @@
-Allophoron farinosum Nádv. SPECIES
-=======
+# Allophoron farinosum Nádv. SPECIES
 
 #### Status
 ACCEPTED

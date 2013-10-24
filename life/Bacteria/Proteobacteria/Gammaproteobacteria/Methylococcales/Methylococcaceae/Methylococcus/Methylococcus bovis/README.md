@@ -1,5 +1,4 @@
-Methylococcus bovis Romanovskaya et al., 1981 SPECIES
-=======
+# Methylococcus bovis Romanovskaya et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

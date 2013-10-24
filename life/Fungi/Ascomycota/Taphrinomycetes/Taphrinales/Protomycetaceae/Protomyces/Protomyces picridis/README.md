@@ -1,5 +1,4 @@
-Protomyces picridis Büren SPECIES
-=======
+# Protomyces picridis Büren SPECIES
 
 #### Status
 ACCEPTED

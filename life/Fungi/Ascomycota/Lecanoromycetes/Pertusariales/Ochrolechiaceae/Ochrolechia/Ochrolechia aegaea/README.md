@@ -1,5 +1,4 @@
-Ochrolechia aegaea Kukwa SPECIES
-=======
+# Ochrolechia aegaea Kukwa SPECIES
 
 #### Status
 ACCEPTED

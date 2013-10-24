@@ -1,5 +1,4 @@
-Macowania agaricina Kalchbr. ex Berk. SPECIES
-=======
+# Macowania agaricina Kalchbr. ex Berk. SPECIES
 
 #### Status
 ACCEPTED

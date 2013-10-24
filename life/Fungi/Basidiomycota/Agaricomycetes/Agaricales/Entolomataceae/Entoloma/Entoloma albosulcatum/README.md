@@ -1,5 +1,4 @@
-Entoloma albosulcatum Corner & E. Horak SPECIES
-=======
+# Entoloma albosulcatum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

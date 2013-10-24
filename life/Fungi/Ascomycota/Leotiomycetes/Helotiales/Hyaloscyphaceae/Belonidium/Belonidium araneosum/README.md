@@ -1,5 +1,4 @@
-Belonidium araneosum (Berk.) Sacc. SPECIES
-=======
+# Belonidium araneosum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

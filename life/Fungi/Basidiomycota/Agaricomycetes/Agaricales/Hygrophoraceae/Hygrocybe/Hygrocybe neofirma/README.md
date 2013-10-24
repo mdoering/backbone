@@ -1,5 +1,4 @@
-Hygrocybe neofirma S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe neofirma S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha punctata Rees, 1884 SPECIES
-=======
+# Holosticha punctata Rees, 1884 SPECIES
 
 #### Status
 ACCEPTED

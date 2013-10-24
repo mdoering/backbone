@@ -1,5 +1,4 @@
-Allarthonia wagneriana Szatala SPECIES
-=======
+# Allarthonia wagneriana Szatala SPECIES
 
 #### Status
 ACCEPTED

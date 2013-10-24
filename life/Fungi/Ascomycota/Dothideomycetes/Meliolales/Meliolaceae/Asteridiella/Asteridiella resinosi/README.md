@@ -1,5 +1,4 @@
-Asteridiella resinosi Hosag. SPECIES
-=======
+# Asteridiella resinosi Hosag. SPECIES
 
 #### Status
 ACCEPTED

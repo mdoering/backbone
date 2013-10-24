@@ -1,5 +1,4 @@
-Eucapsis terrestris Akiyama SPECIES
-=======
+# Eucapsis terrestris Akiyama SPECIES
 
 #### Status
 ACCEPTED

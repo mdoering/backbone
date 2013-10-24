@@ -1,5 +1,4 @@
-Physalospora kirulisii Kirschst. SPECIES
-=======
+# Physalospora kirulisii Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina deformans (Cooke & Massee) Magnus SPECIES
-=======
+# Marssonina deformans (Cooke & Massee) Magnus SPECIES
 
 #### Status
 ACCEPTED

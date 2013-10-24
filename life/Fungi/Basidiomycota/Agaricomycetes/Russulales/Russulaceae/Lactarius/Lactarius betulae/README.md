@@ -1,5 +1,4 @@
-Lactarius betulae A.H. Sm. SPECIES
-=======
+# Lactarius betulae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

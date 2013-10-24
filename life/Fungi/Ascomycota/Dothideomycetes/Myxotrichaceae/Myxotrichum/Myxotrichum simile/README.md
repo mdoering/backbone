@@ -1,5 +1,4 @@
-Myxotrichum simile Berk. & M.A. Curtis SPECIES
-=======
+# Myxotrichum simile Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

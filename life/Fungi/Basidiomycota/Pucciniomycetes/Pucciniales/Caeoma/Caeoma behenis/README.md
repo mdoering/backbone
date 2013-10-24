@@ -1,5 +1,4 @@
-Caeoma behenis Link SPECIES
-=======
+# Caeoma behenis Link SPECIES
 
 #### Status
 ACCEPTED

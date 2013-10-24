@@ -1,5 +1,4 @@
-Dendrodochium javanicum Penz. & Sacc. SPECIES
-=======
+# Dendrodochium javanicum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krombholziella pseudoscaber (Secr. ex Singer) SPECIES
-=======
+# Krombholziella pseudoscaber (Secr. ex Singer) SPECIES
 
 #### Status
 ACCEPTED

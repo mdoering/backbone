@@ -1,5 +1,4 @@
-Niebla laminaria Spjut SPECIES
-=======
+# Niebla laminaria Spjut SPECIES
 
 #### Status
 ACCEPTED

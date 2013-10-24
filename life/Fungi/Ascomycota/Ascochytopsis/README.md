@@ -1,5 +1,4 @@
-Ascochytopsis Henn. GENUS
-=======
+# Ascochytopsis Henn. GENUS
 
 #### Status
 ACCEPTED

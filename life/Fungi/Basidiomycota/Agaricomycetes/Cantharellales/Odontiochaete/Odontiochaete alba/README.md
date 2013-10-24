@@ -1,17 +1,16 @@
-Odontiochaete album Rick SPECIES
-=======
+# Odontiochaete alba Rick, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 38(1): 60 (1940)
 
 #### Original name
-Odontiochaete album Rick
+Odontiochaete alba Rick, 1940
 
 ### Remarks
 null

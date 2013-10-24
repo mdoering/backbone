@@ -1,5 +1,4 @@
-Camarosporium hazslinszkyi Sacc. SPECIES
-=======
+# Camarosporium hazslinszkyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

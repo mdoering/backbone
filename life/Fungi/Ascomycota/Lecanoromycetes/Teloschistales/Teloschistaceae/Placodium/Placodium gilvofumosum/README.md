@@ -1,5 +1,4 @@
-Placodium gilvofumosum Vain. SPECIES
-=======
+# Placodium gilvofumosum Vain. SPECIES
 
 #### Status
 ACCEPTED

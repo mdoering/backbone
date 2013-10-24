@@ -1,5 +1,4 @@
-Ceratoporia perplexa Ryvarden & de Meijer, 2002 SPECIES
-=======
+# Ceratoporia perplexa Ryvarden & de Meijer, 2002 SPECIES
 
 #### Status
 ACCEPTED

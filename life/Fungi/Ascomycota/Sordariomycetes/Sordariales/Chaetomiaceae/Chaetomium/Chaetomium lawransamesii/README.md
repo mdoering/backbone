@@ -1,5 +1,4 @@
-Chaetomium lawransamesii Mukerji & M. Khanna SPECIES
-=======
+# Chaetomium lawransamesii Mukerji & M. Khanna SPECIES
 
 #### Status
 ACCEPTED

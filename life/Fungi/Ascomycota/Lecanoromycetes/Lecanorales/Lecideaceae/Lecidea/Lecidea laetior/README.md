@@ -1,5 +1,4 @@
-Lecidea laetior Nyl. SPECIES
-=======
+# Lecidea laetior Nyl. SPECIES
 
 #### Status
 ACCEPTED

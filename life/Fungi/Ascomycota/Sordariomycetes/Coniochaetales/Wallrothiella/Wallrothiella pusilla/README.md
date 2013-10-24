@@ -1,5 +1,4 @@
-Wallrothiella pusilla Pass. SPECIES
-=======
+# Wallrothiella pusilla Pass. SPECIES
 
 #### Status
 ACCEPTED

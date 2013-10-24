@@ -1,5 +1,4 @@
-Mycosphaerella tabebuiae Miles SPECIES
-=======
+# Mycosphaerella tabebuiae Miles SPECIES
 
 #### Status
 ACCEPTED

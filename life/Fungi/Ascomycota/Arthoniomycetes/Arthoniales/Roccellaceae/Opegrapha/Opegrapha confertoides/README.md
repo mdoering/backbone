@@ -1,5 +1,4 @@
-Opegrapha confertoides Torrente & Egea SPECIES
-=======
+# Opegrapha confertoides Torrente & Egea SPECIES
 
 #### Status
 ACCEPTED

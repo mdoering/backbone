@@ -1,5 +1,4 @@
-Inocybe conica P. Larsen SPECIES
-=======
+# Inocybe conica P. Larsen SPECIES
 
 #### Status
 ACCEPTED

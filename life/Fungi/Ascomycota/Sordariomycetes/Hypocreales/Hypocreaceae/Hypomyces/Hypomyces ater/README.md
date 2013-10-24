@@ -1,5 +1,4 @@
-Hypomyces ater Fr. SPECIES
-=======
+# Hypomyces ater Fr. SPECIES
 
 #### Status
 ACCEPTED

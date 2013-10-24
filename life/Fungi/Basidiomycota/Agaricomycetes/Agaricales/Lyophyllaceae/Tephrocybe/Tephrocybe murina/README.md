@@ -1,17 +1,16 @@
-Collybia murina var. murina VARIETY
-=======
+# Tephrocybe murina (Batsch) M.M. Moser, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 249 (1887)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 116 (1967)
 
 #### Original name
-Collybia murina var. murina
+Agaricus murinus Sowerby, 1798
 
 ### Remarks
 null

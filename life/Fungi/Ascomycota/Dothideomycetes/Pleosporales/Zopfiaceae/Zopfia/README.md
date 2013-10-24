@@ -1,17 +1,16 @@
-Pontoporeia Kohlm. GENUS
-=======
+# Zopfia Rabenh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 6: 5-6 (1963)
+Fungi europ. exsicc. no. 1734 (1874)
 
 #### Original name
-Pontoporeia Kohlm.
+Zopfia Rabenh.
 
 ### Remarks
 null

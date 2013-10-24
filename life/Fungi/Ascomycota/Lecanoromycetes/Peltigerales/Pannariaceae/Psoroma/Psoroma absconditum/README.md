@@ -1,5 +1,4 @@
-Psoroma absconditum Øvstedal SPECIES
-=======
+# Psoroma absconditum Øvstedal SPECIES
 
 #### Status
 ACCEPTED

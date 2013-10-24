@@ -1,5 +1,4 @@
-Leccinum decipiens (Singer) Pilát & Dermek SPECIES
-=======
+# Leccinum decipiens (Singer) Pilát & Dermek SPECIES
 
 #### Status
 ACCEPTED

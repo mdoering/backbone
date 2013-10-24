@@ -1,5 +1,4 @@
-Rhodophyllus cuboidosporus var. cuboidosporus VARIETY
-=======
+# Rhodophyllus cuboidosporus (Beeli) Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 26: 171 (1956)
 
 #### Original name
-Rhodophyllus cuboidosporus var. cuboidosporus
+Tubaria cuboidospora Beeli
 
 ### Remarks
 null

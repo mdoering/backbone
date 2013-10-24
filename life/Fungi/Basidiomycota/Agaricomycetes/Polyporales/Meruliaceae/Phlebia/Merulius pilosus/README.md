@@ -1,5 +1,4 @@
-Merulius pilosus Zeller SPECIES
-=======
+# Merulius pilosus Zeller SPECIES
 
 #### Status
 ACCEPTED

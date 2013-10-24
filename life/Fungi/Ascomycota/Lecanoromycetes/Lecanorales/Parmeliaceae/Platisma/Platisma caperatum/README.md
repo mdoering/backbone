@@ -1,5 +1,4 @@
-Platisma caperatum (L.) Hoffm. SPECIES
-=======
+# Platisma caperatum (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

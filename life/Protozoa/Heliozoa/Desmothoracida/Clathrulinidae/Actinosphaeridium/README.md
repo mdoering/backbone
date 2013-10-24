@@ -1,5 +1,4 @@
-Actinosphaeridium Zacharias, 1893 GENUS
-=======
+# Actinosphaeridium Zacharias, 1893 GENUS
 
 #### Status
 ACCEPTED

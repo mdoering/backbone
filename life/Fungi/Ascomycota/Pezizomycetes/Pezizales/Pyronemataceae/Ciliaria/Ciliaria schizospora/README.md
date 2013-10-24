@@ -1,14 +1,13 @@
-Peziza schizospora W. Phillips, 1875 SPECIES
-=======
+# Ciliaria schizospora (W. Phillips) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3: pl. 30, fig. 59 (1875)
+null
 
 #### Original name
 Peziza schizospora W. Phillips, 1875

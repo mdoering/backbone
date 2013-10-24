@@ -1,5 +1,4 @@
-Verrucaria elevata (Nyl.) Zschacke SPECIES
-=======
+# Verrucaria elevata (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria ribeyi F.E. Drouet SPECIES
-=======
+# Oscillatoria ribeyi F.E. Drouet SPECIES
 
 #### Status
 ACCEPTED

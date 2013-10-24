@@ -1,17 +1,16 @@
-Pluteus plautus f. semibulbosus (J.E. Lange) FORM
-=======
+# Pluteus plautus (Weinm.) Gillet, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 394 (1876)
 
 #### Original name
-null
+Agaricus plautus Weinm., 1836
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Torula janthina Thüm. SPECIES
-=======
+# Torula janthina Thüm. SPECIES
 
 #### Status
 ACCEPTED

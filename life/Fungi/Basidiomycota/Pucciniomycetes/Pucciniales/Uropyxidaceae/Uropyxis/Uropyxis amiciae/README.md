@@ -1,17 +1,16 @@
-Puccinia amiciae Vestergr., 1909 SPECIES
-=======
+# Uropyxis amiciae Vestergr. ex H.S. Jacks. & Holw., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Micromyc. rar. sel. no. 1363 (1909)
+in Jackson, Mycologia 23: 356 (1931)
 
 #### Original name
-Puccinia amiciae Vestergr., 1909
+Uropyxis amiciae Vestergr. ex H.S. Jacks. & Holw., 1931
 
 ### Remarks
 null

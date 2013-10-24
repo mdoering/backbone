@@ -1,5 +1,4 @@
-Parmularia vulcanicola B. de Lesd. SPECIES
-=======
+# Parmularia vulcanicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

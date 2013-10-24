@@ -1,5 +1,4 @@
-Delitschia excentrica Griffiths SPECIES
-=======
+# Delitschia excentrica Griffiths SPECIES
 
 #### Status
 ACCEPTED

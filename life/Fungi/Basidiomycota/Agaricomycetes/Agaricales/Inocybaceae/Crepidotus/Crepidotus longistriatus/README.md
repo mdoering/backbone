@@ -1,5 +1,4 @@
-Crepidotus longistriatus S. Imai SPECIES
-=======
+# Crepidotus longistriatus S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gassicurtia vaccinii (Vain.) Marbach, Elix & Kalb SPECIES
-=======
+# Gassicurtia vaccinii (Vain.) Marbach, Elix & Kalb SPECIES
 
 #### Status
 ACCEPTED

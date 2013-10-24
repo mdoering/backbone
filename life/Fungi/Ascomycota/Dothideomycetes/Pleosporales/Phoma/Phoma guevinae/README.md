@@ -1,5 +1,4 @@
-Phoma guevinae Speg. SPECIES
-=======
+# Phoma guevinae Speg. SPECIES
 
 #### Status
 ACCEPTED

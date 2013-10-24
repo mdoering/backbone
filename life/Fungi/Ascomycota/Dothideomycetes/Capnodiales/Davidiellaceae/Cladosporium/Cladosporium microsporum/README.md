@@ -1,5 +1,4 @@
-Cladosporium microsporum Rabenh. SPECIES
-=======
+# Cladosporium microsporum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

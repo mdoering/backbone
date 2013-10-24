@@ -1,5 +1,4 @@
-Opegrapha acervulata Dufour SPECIES
-=======
+# Opegrapha acervulata Dufour SPECIES
 
 #### Status
 ACCEPTED

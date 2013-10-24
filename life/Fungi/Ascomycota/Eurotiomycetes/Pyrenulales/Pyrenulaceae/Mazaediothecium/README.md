@@ -1,5 +1,4 @@
-Mazaediothecium Aptroot GENUS
-=======
+# Mazaediothecium Aptroot GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia proserpinacae Farl. SPECIES
-=======
+# Puccinia proserpinacae Farl. SPECIES
 
 #### Status
 ACCEPTED

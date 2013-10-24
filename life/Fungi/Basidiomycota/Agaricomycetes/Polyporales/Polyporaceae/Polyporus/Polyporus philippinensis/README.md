@@ -1,17 +1,16 @@
-Hexagonia luzonensis Murrill, 1908 SPECIES
-=======
+# Polyporus philippinensis Berk., 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 35: 401 (1908)
+J. Bot. , London 1(3): 148 (1842)
 
 #### Original name
-Hexagonia luzonensis Murrill, 1908
+Polyporus philippinensis Berk., 1842
 
 ### Remarks
 null

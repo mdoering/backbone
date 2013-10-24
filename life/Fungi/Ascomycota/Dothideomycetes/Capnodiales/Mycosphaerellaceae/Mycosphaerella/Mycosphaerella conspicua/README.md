@@ -1,5 +1,4 @@
-Mycosphaerella conspicua (Syd.) Bat. & Cavalc. SPECIES
-=======
+# Mycosphaerella conspicua (Syd.) Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

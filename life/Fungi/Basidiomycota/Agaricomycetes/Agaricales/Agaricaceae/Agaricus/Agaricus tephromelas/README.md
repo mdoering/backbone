@@ -1,5 +1,4 @@
-Agaricus tephromelas Pers. SPECIES
-=======
+# Agaricus tephromelas Pers. SPECIES
 
 #### Status
 ACCEPTED

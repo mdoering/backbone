@@ -1,17 +1,16 @@
-Meliola glabroides var. glabroides VARIETY
-=======
+# Fumiglobus glabroides (F. Stevens) D.R. Reynolds & G.S. Gilbert, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 27(3): 254 (2006)
 
 #### Original name
-Meliola glabroides var. glabroides
+Meliola glabroides F. Stevens, 1916
 
 ### Remarks
 null

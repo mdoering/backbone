@@ -1,5 +1,4 @@
-Encephalitozoon Levaditi, Nicolau & Schoen GENUS
-=======
+# Encephalitozoon Levaditi, Nicolau & Schoen GENUS
 
 #### Status
 ACCEPTED

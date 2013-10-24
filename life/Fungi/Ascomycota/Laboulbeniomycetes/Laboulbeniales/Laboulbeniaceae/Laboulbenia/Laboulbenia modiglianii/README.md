@@ -1,5 +1,4 @@
-Laboulbenia modiglianii Speg. SPECIES
-=======
+# Laboulbenia modiglianii Speg. SPECIES
 
 #### Status
 ACCEPTED

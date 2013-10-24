@@ -1,5 +1,4 @@
-Sychnogonia GENUS
-=======
+# Sychnogonia GENUS
 
 #### Status
 ACCEPTED

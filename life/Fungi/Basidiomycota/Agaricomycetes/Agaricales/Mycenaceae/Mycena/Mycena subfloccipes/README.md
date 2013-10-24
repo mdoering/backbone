@@ -1,5 +1,4 @@
-Mycena subfloccipes (Murrill) Murrill SPECIES
-=======
+# Mycena subfloccipes (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

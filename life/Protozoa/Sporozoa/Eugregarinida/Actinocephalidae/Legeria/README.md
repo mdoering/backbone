@@ -1,11 +1,10 @@
-Légeria Labbé, 1899 GENUS
-=======
+# Legeria Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
 Tierreich, 5, 24.

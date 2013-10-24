@@ -1,5 +1,4 @@
-Sporopodium vermiculiferum Vain. SPECIES
-=======
+# Sporopodium vermiculiferum Vain. SPECIES
 
 #### Status
 ACCEPTED

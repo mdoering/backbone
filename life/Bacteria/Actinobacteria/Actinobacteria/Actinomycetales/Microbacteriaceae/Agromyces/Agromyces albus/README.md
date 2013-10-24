@@ -1,5 +1,4 @@
-Agromyces albus Dorofeeva et al., 2003 SPECIES
-=======
+# Agromyces albus Dorofeeva et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanothece cylindracea (Gardner) Komárek & Anagnostidis SPECIES
-=======
+# Aphanothece cylindracea (Gardner) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystolepiota amazonica Singer SPECIES
-=======
+# Cystolepiota amazonica Singer SPECIES
 
 #### Status
 ACCEPTED

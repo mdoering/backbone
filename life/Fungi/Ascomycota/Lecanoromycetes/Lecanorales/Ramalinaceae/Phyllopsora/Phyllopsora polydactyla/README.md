@@ -1,5 +1,4 @@
-Phyllopsora polydactyla (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Phyllopsora polydactyla (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

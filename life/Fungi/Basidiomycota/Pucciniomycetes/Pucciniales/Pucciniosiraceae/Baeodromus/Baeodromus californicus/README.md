@@ -1,5 +1,4 @@
-Baeodromus californicus Arthur, 1905 SPECIES
-=======
+# Baeodromus californicus Arthur, 1905 SPECIES
 
 #### Status
 ACCEPTED

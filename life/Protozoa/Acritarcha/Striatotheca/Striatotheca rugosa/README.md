@@ -1,5 +1,4 @@
-Striatotheca rugosa Tongiorgi, Yin & Di Milia, 1995 SPECIES
-=======
+# Striatotheca rugosa Tongiorgi, Yin & Di Milia, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria cantareiensis (Henn.) Weese SPECIES
-=======
+# Botryosphaeria cantareiensis (Henn.) Weese SPECIES
 
 #### Status
 ACCEPTED

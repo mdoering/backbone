@@ -1,5 +1,4 @@
-Cortinarius calyculatus M.M. Moser SPECIES
-=======
+# Cortinarius calyculatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

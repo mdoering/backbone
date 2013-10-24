@@ -1,5 +1,4 @@
-Aecidium tenerius Arthur & Holw. SPECIES
-=======
+# Aecidium tenerius Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

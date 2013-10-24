@@ -1,5 +1,4 @@
-Placopsis rhodophthalma f. rhodophthalma FORM
-=======
+# Placopsis rhodophthalma (Müll. Arg.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2(1): 25 (1932)
 
 #### Original name
-Placopsis rhodophthalma f. rhodophthalma
+Lecanora rhodophthalma
 
 ### Remarks
 null

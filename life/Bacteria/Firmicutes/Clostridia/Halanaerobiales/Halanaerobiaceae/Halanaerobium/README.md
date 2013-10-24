@@ -1,5 +1,4 @@
-Halanaerobium GENUS
-=======
+# Halanaerobium GENUS
 
 #### Status
 ACCEPTED

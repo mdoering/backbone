@@ -1,5 +1,4 @@
-Lecidea alboflavescens Vain. SPECIES
-=======
+# Lecidea alboflavescens Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastrocybe iberica G. Moreno, Illana & Heykoop SPECIES
-=======
+# Gastrocybe iberica G. Moreno, Illana & Heykoop SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium naiadis Strongman & S.Q. Xu, 2006 SPECIES
-=======
+# Smittium naiadis Strongman & S.Q. Xu, 2006 SPECIES
 
 #### Status
 ACCEPTED

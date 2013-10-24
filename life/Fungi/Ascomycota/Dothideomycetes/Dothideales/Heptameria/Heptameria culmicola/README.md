@@ -1,5 +1,4 @@
-Heptameria culmicola anon. SPECIES
-=======
+# Heptameria culmicola anon. SPECIES
 
 #### Status
 ACCEPTED

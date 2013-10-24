@@ -1,17 +1,16 @@
-Pestalotia lagerstromiae Mhaiskar SPECIES
-=======
+# Pestalotia lagerstroemiae Mhaiskar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 36: 104 (1969)
 
 #### Original name
-Pestalotia lagerstromiae Mhaiskar
+Pestalotia lagerstroemiae Mhaiskar
 
 ### Remarks
 null

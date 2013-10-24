@@ -1,5 +1,4 @@
-Metasphaeria nervisequa (G. Winter) Berl. & Voglino SPECIES
-=======
+# Metasphaeria nervisequa (G. Winter) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

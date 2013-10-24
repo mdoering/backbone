@@ -1,5 +1,4 @@
-Symploca funicularis Setchell & N.L. Gardner SPECIES
-=======
+# Symploca funicularis Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

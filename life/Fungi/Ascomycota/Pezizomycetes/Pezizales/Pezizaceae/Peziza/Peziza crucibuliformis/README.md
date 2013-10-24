@@ -1,5 +1,4 @@
-Peziza crucibuliformis Schumach. SPECIES
-=======
+# Peziza crucibuliformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

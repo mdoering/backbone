@@ -1,5 +1,4 @@
-Cordyceps iriomoteana Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps iriomoteana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

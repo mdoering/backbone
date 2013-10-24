@@ -1,5 +1,4 @@
-Xylomites asteriformis Braun SPECIES
-=======
+# Xylomites asteriformis Braun SPECIES
 
 #### Status
 ACCEPTED

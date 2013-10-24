@@ -1,5 +1,4 @@
-Umbilicaria formosana Frey SPECIES
-=======
+# Umbilicaria formosana Frey SPECIES
 
 #### Status
 ACCEPTED

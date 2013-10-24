@@ -1,5 +1,4 @@
-Heliscus versaillensis G. Arnaud SPECIES
-=======
+# Heliscus versaillensis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

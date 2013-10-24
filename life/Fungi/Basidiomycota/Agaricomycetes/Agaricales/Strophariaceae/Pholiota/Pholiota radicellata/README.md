@@ -1,5 +1,4 @@
-Pholiota radicellata Gillet SPECIES
-=======
+# Pholiota radicellata Gillet SPECIES
 
 #### Status
 ACCEPTED

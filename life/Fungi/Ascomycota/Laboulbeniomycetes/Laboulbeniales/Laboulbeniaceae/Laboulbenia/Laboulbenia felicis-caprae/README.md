@@ -1,8 +1,7 @@
-Laboulbenia feliciscaprai W. Rossi SPECIES
-=======
+# Laboulbenia felicis-caprae W. Rossi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia feliciscaprai W. Rossi
+Laboulbenia felicis-caprae W. Rossi
 
 ### Remarks
 null

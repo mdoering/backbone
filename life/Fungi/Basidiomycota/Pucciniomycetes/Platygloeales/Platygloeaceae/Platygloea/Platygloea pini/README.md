@@ -1,5 +1,4 @@
-Platygloea pini Höhn. SPECIES
-=======
+# Platygloea pini Höhn. SPECIES
 
 #### Status
 ACCEPTED

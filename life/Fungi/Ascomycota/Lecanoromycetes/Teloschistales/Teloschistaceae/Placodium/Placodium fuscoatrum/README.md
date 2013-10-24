@@ -1,5 +1,4 @@
-Placodium fuscoatrum var. fuscoatrum VARIETY
-=======
+# Placodium fuscoatrum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium fuscoatrum var. fuscoatrum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corynespora aquatica R.F. Castañeda, Heredia & R.M. Arias SPECIES
-=======
+# Corynespora aquatica R.F. Castañeda, Heredia & R.M. Arias SPECIES
 
 #### Status
 ACCEPTED

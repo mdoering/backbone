@@ -1,5 +1,4 @@
-Pyricularia echinochloae Siwasin & Giatgong SPECIES
-=======
+# Pyricularia echinochloae Siwasin & Giatgong SPECIES
 
 #### Status
 ACCEPTED

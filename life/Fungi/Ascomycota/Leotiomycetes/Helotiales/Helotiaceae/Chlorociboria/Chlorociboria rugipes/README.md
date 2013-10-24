@@ -1,5 +1,4 @@
-Chlorociboria rugipes (Peck) C.S. Ramamurthi & Korf SPECIES
-=======
+# Chlorociboria rugipes (Peck) C.S. Ramamurthi & Korf SPECIES
 
 #### Status
 ACCEPTED

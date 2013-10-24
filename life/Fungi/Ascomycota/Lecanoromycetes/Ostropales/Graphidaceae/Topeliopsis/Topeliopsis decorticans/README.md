@@ -1,14 +1,13 @@
-Thelotrema decorticans Müll. Arg. SPECIES
-=======
+# Topeliopsis decorticans (Müll. Arg.) Frisch & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 1: 54 (1893)
+Lichenologist 38(1): 44 (2006)
 
 #### Original name
 Thelotrema decorticans Müll. Arg.

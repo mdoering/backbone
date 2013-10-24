@@ -1,5 +1,4 @@
-Pyrenula mozambica Vain. SPECIES
-=======
+# Pyrenula mozambica Vain. SPECIES
 
 #### Status
 ACCEPTED

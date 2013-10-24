@@ -1,5 +1,4 @@
-Rinodina ochrocea Fink SPECIES
-=======
+# Rinodina ochrocea Fink SPECIES
 
 #### Status
 ACCEPTED

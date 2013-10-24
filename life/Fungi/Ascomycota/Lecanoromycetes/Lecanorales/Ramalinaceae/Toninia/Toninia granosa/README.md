@@ -1,5 +1,4 @@
-Toninia granosa (Tuck.) B. de Lesd. SPECIES
-=======
+# Toninia granosa (Tuck.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

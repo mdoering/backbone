@@ -1,5 +1,4 @@
-Synedra simalongis W. Smith SPECIES
-=======
+# Synedra simalongis W. Smith SPECIES
 
 #### Status
 ACCEPTED

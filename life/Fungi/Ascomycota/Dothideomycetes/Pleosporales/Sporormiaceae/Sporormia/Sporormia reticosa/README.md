@@ -1,5 +1,4 @@
-Sporormia reticosa A. Bayer SPECIES
-=======
+# Sporormia reticosa A. Bayer SPECIES
 
 #### Status
 ACCEPTED

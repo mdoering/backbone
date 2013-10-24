@@ -1,5 +1,4 @@
-Hymenochaete ungulata Burt, 1918 SPECIES
-=======
+# Hymenochaete ungulata Burt, 1918 SPECIES
 
 #### Status
 ACCEPTED

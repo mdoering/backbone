@@ -1,5 +1,4 @@
-Zygodesmus pubidus Ellis & Everh. SPECIES
-=======
+# Zygodesmus pubidus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

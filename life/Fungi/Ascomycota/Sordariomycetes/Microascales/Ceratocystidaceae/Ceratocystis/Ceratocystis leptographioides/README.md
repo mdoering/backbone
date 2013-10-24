@@ -1,14 +1,13 @@
-Ceratocystis leptographoides (R.W. Davidson) J. Hunt SPECIES
-=======
+# Ceratocystis leptographioides (R.W. Davidson) J. Hunt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 19: 28 (1956)
 
 #### Original name
 Ceratostomella leptographioides R.W. Davidson

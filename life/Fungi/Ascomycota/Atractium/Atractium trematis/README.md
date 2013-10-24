@@ -1,17 +1,16 @@
-Atractium tremae Hansf. SPECIES
-=======
+# Atractium trematis Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 2: 124 (1944)
 
 #### Original name
-Atractium tremae Hansf.
+Atractium trematis Hansf.
 
 ### Remarks
 null

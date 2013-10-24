@@ -1,5 +1,4 @@
-Cryptophiale apicalis Bhat & W.B. Kendr. SPECIES
-=======
+# Cryptophiale apicalis Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

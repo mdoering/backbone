@@ -1,5 +1,4 @@
-Trichopeziza myricacea (Peck) Sacc. SPECIES
-=======
+# Trichopeziza myricacea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

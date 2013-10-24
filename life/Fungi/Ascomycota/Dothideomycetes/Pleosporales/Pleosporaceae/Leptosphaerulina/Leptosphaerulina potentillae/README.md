@@ -1,5 +1,4 @@
-Leptosphaerulina potentillae (E. Müll.) Crivelli, 1983 SPECIES
-=======
+# Leptosphaerulina potentillae (E. Müll.) Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linospora graminea Rehm SPECIES
-=======
+# Linospora graminea Rehm SPECIES
 
 #### Status
 ACCEPTED

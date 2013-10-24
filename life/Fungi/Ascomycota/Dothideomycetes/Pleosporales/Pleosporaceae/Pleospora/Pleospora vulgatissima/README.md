@@ -1,5 +1,4 @@
-Pleospora vulgatissima Speg., 1882 SPECIES
-=======
+# Pleospora vulgatissima Speg., 1882 SPECIES
 
 #### Status
 ACCEPTED

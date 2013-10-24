@@ -1,5 +1,4 @@
-Merophora GENUS
-=======
+# Merophora GENUS
 
 #### Status
 ACCEPTED

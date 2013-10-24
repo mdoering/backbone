@@ -1,5 +1,4 @@
-Phyllachora ruizii Chardón, 1934 SPECIES
-=======
+# Phyllachora ruizii Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

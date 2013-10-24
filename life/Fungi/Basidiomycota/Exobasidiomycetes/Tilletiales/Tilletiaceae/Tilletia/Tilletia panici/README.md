@@ -1,5 +1,4 @@
-Tilletia panici Mundk. SPECIES
-=======
+# Tilletia panici Mundk. SPECIES
 
 #### Status
 ACCEPTED

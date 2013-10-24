@@ -1,14 +1,13 @@
-Epipolaeum tsugae (Dearn.) Shoemaker, 1965 SPECIES
-=======
+# Rasutoria tsugae (Dearn.) M.E. Barr, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 43: 635 (1965)
+Mycotaxon 29: 502 (1987)
 
 #### Original name
 Dimerosporium tsugae Dearn., 1924

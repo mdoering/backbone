@@ -1,5 +1,4 @@
-Lepocinclis acuta Prescott SPECIES
-=======
+# Lepocinclis acuta Prescott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus inocephalus Lév. SPECIES
-=======
+# Lentinus inocephalus Lév. SPECIES
 
 #### Status
 ACCEPTED

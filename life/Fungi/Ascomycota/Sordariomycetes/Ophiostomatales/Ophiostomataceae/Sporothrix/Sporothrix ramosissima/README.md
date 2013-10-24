@@ -1,5 +1,4 @@
-Sporothrix ramosissima G. Arnaud ex de Hoog, 1974 SPECIES
-=======
+# Sporothrix ramosissima G. Arnaud ex de Hoog, 1974 SPECIES
 
 #### Status
 ACCEPTED

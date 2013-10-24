@@ -1,5 +1,4 @@
-Hypomyces viridigriseus K. Põldmaa & Samuels, 1997 SPECIES
-=======
+# Hypomyces viridigriseus K. Põldmaa & Samuels, 1997 SPECIES
 
 #### Status
 ACCEPTED

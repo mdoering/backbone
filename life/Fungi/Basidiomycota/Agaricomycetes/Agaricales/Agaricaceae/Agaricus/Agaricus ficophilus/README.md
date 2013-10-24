@@ -1,5 +1,4 @@
-Agaricus ficophilus Heinem. SPECIES
-=======
+# Agaricus ficophilus Heinem. SPECIES
 
 #### Status
 ACCEPTED

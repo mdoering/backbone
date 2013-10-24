@@ -1,5 +1,4 @@
-Aecidium gregarium Hazsl. SPECIES
-=======
+# Aecidium gregarium Hazsl. SPECIES
 
 #### Status
 ACCEPTED

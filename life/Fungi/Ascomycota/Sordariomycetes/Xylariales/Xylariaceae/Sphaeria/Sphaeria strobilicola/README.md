@@ -1,5 +1,4 @@
-Sphaeria strobilicola Lib. ex Sacc. SPECIES
-=======
+# Sphaeria strobilicola Lib. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

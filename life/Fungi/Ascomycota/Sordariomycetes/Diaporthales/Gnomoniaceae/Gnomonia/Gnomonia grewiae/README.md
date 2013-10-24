@@ -1,5 +1,4 @@
-Gnomonia grewiae Anahosur SPECIES
-=======
+# Gnomonia grewiae Anahosur SPECIES
 
 #### Status
 ACCEPTED

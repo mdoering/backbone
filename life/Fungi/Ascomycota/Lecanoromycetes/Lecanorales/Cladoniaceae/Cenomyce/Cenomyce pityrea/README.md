@@ -1,5 +1,4 @@
-Cenomyce pityrea var. pityrea VARIETY
-=======
+# Cenomyce pityrea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce pityrea var. pityrea
+Cenomyce pityrea
 
 ### Remarks
 null

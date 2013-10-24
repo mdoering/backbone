@@ -1,5 +1,4 @@
-Claussenomyces allenii (A.L. Sm.) SPECIES
-=======
+# Claussenomyces allenii (A.L. Sm.) SPECIES
 
 #### Status
 ACCEPTED

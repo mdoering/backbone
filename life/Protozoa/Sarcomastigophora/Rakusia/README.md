@@ -1,5 +1,4 @@
-Rakusia Salaj in Salaj, Biely & Bystricky, 1967 GENUS
-=======
+# Rakusia Salaj in Salaj, Biely & Bystricky, 1967 GENUS
 
 #### Status
 ACCEPTED

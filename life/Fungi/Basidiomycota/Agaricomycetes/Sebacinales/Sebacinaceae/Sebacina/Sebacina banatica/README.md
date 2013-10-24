@@ -1,5 +1,4 @@
-Sebacina banatica Pilát SPECIES
-=======
+# Sebacina banatica Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalozzina linariae (Baudy & Picb.) Ondrej SPECIES
-=======
+# Pestalozzina linariae (Baudy & Picb.) Ondrej SPECIES
 
 #### Status
 ACCEPTED

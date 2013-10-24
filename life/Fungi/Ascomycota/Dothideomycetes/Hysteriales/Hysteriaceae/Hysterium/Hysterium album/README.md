@@ -1,5 +1,4 @@
-Hysterium album Schumach. SPECIES
-=======
+# Hysterium album Schumach. SPECIES
 
 #### Status
 ACCEPTED

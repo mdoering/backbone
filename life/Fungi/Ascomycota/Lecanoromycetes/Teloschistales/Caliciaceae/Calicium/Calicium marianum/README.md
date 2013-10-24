@@ -1,5 +1,4 @@
-Calicium marianum (Nádv.) Nádv. SPECIES
-=======
+# Calicium marianum (Nádv.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

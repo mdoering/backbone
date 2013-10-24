@@ -1,5 +1,4 @@
-Marasmiellus berkeleyi Singer SPECIES
-=======
+# Marasmiellus berkeleyi Singer SPECIES
 
 #### Status
 ACCEPTED

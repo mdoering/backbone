@@ -1,5 +1,4 @@
-Methanobacterium espanolae Patel et al., 1990 SPECIES
-=======
+# Methanobacterium espanolae Patel et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

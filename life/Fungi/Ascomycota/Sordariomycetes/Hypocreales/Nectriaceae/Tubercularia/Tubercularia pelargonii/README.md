@@ -1,5 +1,4 @@
-Tubercularia pelargonii Speg. SPECIES
-=======
+# Tubercularia pelargonii Speg. SPECIES
 
 #### Status
 ACCEPTED

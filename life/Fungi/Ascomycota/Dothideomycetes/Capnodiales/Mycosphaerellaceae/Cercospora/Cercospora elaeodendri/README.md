@@ -1,17 +1,16 @@
-Cercospora elaeodendronis G.P. Agarwal & Hasija SPECIES
-=======
+# Cercospora elaeodendri G.P. Agarwal & Hasija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Agarwal & Hasija, Sydowia 20: 33 (1968)
 
 #### Original name
-Cercospora elaeodendronis G.P. Agarwal & Hasija
+Cercospora elaeodendri G.P. Agarwal & Hasija
 
 ### Remarks
 null

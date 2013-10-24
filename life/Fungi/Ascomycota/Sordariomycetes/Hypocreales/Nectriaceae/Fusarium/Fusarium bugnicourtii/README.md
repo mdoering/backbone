@@ -1,5 +1,4 @@
-Fusarium bugnicourtii Brayford, 1987 SPECIES
-=======
+# Fusarium bugnicourtii Brayford, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola stizolobii var. stizolobii VARIETY
-=======
+# Meliola stizolobii Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 31 (1948)
 
 #### Original name
-Meliola stizolobii var. stizolobii
+Meliola stizolobii Hansf. & Deighton
 
 ### Remarks
 null

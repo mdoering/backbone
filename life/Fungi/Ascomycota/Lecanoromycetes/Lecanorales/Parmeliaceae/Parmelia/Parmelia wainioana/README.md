@@ -1,5 +1,4 @@
-Parmelia wainioana Lynge SPECIES
-=======
+# Parmelia wainioana Lynge SPECIES
 
 #### Status
 ACCEPTED

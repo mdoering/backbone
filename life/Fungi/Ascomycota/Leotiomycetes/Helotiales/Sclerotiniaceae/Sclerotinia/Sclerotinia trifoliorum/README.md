@@ -1,17 +1,16 @@
-Sclerotinia trifoliorum var. trifoliorum Erikss., 1880 VARIETY
-=======
+# Sclerotinia trifoliorum Erikss., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. Landtbraksakoemiens handlingar och tidskrift 19: 28 (1880)
 
 #### Original name
-Sclerotinia trifoliorum var. trifoliorum Erikss., 1880
+Sclerotinia trifoliorum Erikss., 1880
 
 ### Remarks
 null

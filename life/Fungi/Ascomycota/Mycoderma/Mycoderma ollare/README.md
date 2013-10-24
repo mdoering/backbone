@@ -1,5 +1,4 @@
-Mycoderma ollare Pers. SPECIES
-=======
+# Mycoderma ollare Pers. SPECIES
 
 #### Status
 ACCEPTED

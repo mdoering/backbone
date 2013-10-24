@@ -1,5 +1,4 @@
-Trichodinium Eisenack & Cookson, 1960 GENUS
-=======
+# Trichodinium Eisenack & Cookson, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia subcyrtodes Willey SPECIES
-=======
+# Arthonia subcyrtodes Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingopyxis Takeuchi et al., 2001 GENUS
-=======
+# Sphingopyxis Takeuchi et al., 2001 GENUS
 
 #### Status
 ACCEPTED

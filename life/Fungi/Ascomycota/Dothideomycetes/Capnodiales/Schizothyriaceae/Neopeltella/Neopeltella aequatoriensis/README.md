@@ -1,5 +1,4 @@
-Neopeltella aequatoriensis Petr., 1950 SPECIES
-=======
+# Neopeltella aequatoriensis Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

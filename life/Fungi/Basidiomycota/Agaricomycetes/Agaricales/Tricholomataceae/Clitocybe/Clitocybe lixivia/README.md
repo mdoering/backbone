@@ -1,5 +1,4 @@
-Clitocybe lixivia (Fr.) Singer SPECIES
-=======
+# Clitocybe lixivia (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

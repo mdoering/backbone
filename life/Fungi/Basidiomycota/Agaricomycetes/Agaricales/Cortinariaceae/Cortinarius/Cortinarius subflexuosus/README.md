@@ -1,5 +1,4 @@
-Cortinarius subflexuosus Britzelm. SPECIES
-=======
+# Cortinarius subflexuosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nanoscypha denisonii C.M. Das & D.C. Pant, 1984 SPECIES
-=======
+# Nanoscypha denisonii C.M. Das & D.C. Pant, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena paradoxa SPECIES
-=======
+# Lagena paradoxa SPECIES
 
 #### Status
 ACCEPTED

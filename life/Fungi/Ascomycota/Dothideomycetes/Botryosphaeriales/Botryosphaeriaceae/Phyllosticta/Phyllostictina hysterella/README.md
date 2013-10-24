@@ -1,5 +1,4 @@
-Phyllostictina hysterella (Sacc.) Petr. SPECIES
-=======
+# Phyllostictina hysterella (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

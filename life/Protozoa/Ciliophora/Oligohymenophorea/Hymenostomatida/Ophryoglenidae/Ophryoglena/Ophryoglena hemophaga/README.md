@@ -1,5 +1,4 @@
-Ophryoglena hemophaga Molloy, Lynn & Giamberini, 2005 SPECIES
-=======
+# Ophryoglena hemophaga Molloy, Lynn & Giamberini, 2005 SPECIES
 
 #### Status
 ACCEPTED

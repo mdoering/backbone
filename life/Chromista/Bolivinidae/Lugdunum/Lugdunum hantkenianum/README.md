@@ -1,8 +1,7 @@
-Bolivina hantkeniana Brady, 1881 SPECIES
-=======
+# Lugdunum hantkenianum (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

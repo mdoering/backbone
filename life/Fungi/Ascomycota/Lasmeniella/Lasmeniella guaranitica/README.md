@@ -1,5 +1,4 @@
-Lasmeniella guaranitica (Speg.) Petr. & Syd. SPECIES
-=======
+# Lasmeniella guaranitica (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

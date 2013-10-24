@@ -1,5 +1,4 @@
-Clitopilus crispus Pat. SPECIES
-=======
+# Clitopilus crispus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis amelanchieris J.W. Groves, 1952 SPECIES
-=======
+# Tympanis amelanchieris J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

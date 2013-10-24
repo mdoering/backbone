@@ -1,5 +1,4 @@
-Pochonia microbactrospora W. Gams & Zare, 2001 SPECIES
-=======
+# Pochonia microbactrospora W. Gams & Zare, 2001 SPECIES
 
 #### Status
 ACCEPTED

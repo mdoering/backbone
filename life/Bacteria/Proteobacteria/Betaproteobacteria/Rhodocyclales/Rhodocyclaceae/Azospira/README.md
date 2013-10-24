@@ -1,5 +1,4 @@
-Azospira Reinhold-Hurek & Hurek, 2000 GENUS
-=======
+# Azospira Reinhold-Hurek & Hurek, 2000 GENUS
 
 #### Status
 ACCEPTED

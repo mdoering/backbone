@@ -1,5 +1,4 @@
-Phoma obstrudens Tassi SPECIES
-=======
+# Phoma obstrudens Tassi SPECIES
 
 #### Status
 ACCEPTED

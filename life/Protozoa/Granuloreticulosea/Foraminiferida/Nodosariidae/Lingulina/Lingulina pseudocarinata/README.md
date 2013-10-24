@@ -1,5 +1,4 @@
-Lingulina pseudocarinata Buchner, 1942 SPECIES
-=======
+# Lingulina pseudocarinata Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

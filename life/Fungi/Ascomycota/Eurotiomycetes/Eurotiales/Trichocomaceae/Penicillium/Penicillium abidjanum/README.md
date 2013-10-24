@@ -1,8 +1,7 @@
-Eupenicillium abidjanum Stolk, 1968 SPECIES
-=======
+# Penicillium abidjanum Stolk, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Antonie van Leeuwenhoek 34: 49 (1968)
 
 #### Original name
-Eupenicillium abidjanum Stolk, 1968
+Penicillium abidjanum Stolk, 1968
 
 ### Remarks
 null

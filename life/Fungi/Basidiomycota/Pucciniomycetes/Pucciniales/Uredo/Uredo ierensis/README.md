@@ -1,5 +1,4 @@
-Uredo ierensis W.T. Dale SPECIES
-=======
+# Uredo ierensis W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

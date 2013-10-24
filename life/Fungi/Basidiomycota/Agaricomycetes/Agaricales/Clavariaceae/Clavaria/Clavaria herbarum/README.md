@@ -1,5 +1,4 @@
-Clavaria herbarum var. herbarum VARIETY
-=======
+# Clavaria herbarum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Neues Mag. Bot. 1: 118 (1794)
 
 #### Original name
-Clavaria herbarum var. herbarum
+Clavaria herbarum Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microglaena macrospora B. de Lesd. SPECIES
-=======
+# Microglaena macrospora B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia betulina Mouton SPECIES
-=======
+# Venturia betulina Mouton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporella juglandis (Rabenh.) Petr. SPECIES
-=======
+# Cylindrosporella juglandis (Rabenh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

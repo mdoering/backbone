@@ -1,5 +1,4 @@
-Crocynia dissecta Hue SPECIES
-=======
+# Crocynia dissecta Hue SPECIES
 
 #### Status
 ACCEPTED

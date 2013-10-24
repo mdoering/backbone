@@ -1,5 +1,4 @@
-Lophodermium sichuanense D.X. Qiu & Y.G. Liu SPECIES
-=======
+# Lophodermium sichuanense D.X. Qiu & Y.G. Liu SPECIES
 
 #### Status
 ACCEPTED

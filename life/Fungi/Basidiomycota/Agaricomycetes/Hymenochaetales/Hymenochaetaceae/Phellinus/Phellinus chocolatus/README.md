@@ -1,5 +1,4 @@
-Phellinus chocolatus var. chocolatus VARIETY
-=======
+# Phellinus chocolatus Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 101: 63 (1991)
 
 #### Original name
-Phellinus chocolatus var. chocolatus
+Phellinus chocolatus Corner
 
 ### Remarks
 null

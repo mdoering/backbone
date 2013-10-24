@@ -1,5 +1,4 @@
-Lobaria sublaevis (Nyl.) Yoshim. SPECIES
-=======
+# Lobaria sublaevis (Nyl.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

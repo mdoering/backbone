@@ -1,5 +1,4 @@
-Globulina glacialis SPECIES
-=======
+# Globulina glacialis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia organicola Rieuf SPECIES
-=======
+# Diplodia organicola Rieuf SPECIES
 
 #### Status
 ACCEPTED

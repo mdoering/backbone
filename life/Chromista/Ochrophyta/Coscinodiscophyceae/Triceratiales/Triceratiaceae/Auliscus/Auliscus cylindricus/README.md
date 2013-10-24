@@ -1,5 +1,4 @@
-Auliscus cylindricus C.G. Ehrenberg SPECIES
-=======
+# Auliscus cylindricus C.G. Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

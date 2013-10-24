@@ -1,5 +1,4 @@
-Parapedinella S.M.Pedersen, P.L.Beech & H.A.Thomsen, 1986 GENUS
-=======
+# Parapedinella S.M.Pedersen, P.L.Beech & H.A.Thomsen, 1986 GENUS
 
 #### Status
 ACCEPTED

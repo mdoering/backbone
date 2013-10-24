@@ -1,5 +1,4 @@
-Lactarius flavidulus S. Imai SPECIES
-=======
+# Lactarius flavidulus S. Imai SPECIES
 
 #### Status
 ACCEPTED

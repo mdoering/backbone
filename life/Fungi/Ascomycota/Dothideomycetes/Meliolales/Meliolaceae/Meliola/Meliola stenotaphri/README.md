@@ -1,5 +1,4 @@
-Meliola stenotaphri F. Stevens SPECIES
-=======
+# Meliola stenotaphri F. Stevens SPECIES
 
 #### Status
 ACCEPTED

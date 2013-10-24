@@ -1,14 +1,13 @@
-Clitocybe alachuana Murrill, 1945 SPECIES
-=======
+# Lulesia alachuana (Murrill) Singer, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 3: 17 (1970)
 
 #### Original name
 Clitocybe alachuana Murrill, 1945

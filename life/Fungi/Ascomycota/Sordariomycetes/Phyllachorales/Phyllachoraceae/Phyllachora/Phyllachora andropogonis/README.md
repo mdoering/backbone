@@ -1,5 +1,4 @@
-Phyllachora andropogonis P. Karst. & Har., 1890 SPECIES
-=======
+# Phyllachora andropogonis P. Karst. & Har., 1890 SPECIES
 
 #### Status
 ACCEPTED

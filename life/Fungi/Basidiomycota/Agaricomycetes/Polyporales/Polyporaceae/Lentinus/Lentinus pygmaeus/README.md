@@ -1,5 +1,4 @@
-Lentinus pygmaeus Colenso SPECIES
-=======
+# Lentinus pygmaeus Colenso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endomyces Reess, 1870 GENUS
-=======
+# Endomyces Reess, 1870 GENUS
 
 #### Status
 ACCEPTED

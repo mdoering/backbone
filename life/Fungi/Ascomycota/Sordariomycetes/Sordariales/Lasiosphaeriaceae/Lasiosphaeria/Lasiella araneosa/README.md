@@ -1,5 +1,4 @@
-Lasiella araneosa (Pers.) Quél. SPECIES
-=======
+# Lasiella araneosa (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma viridirufum (Ach.) Arnold SPECIES
-=======
+# Callopisma viridirufum (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

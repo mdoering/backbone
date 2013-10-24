@@ -1,5 +1,4 @@
-Puccinia polygoni-amphibui Pers. SPECIES
-=======
+# Puccinia polygoni-amphibui Pers. SPECIES
 
 #### Status
 ACCEPTED

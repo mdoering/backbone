@@ -1,5 +1,4 @@
-Octospora arctowskii Olech & Mleczko SPECIES
-=======
+# Octospora arctowskii Olech & Mleczko SPECIES
 
 #### Status
 ACCEPTED

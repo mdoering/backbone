@@ -1,5 +1,4 @@
-Meliola daviesii var. daviesii VARIETY
-=======
+# Meliola daviesii Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Linn. Soc. London 157: 176 (1946)
 
 #### Original name
-Meliola daviesii var. daviesii
+Meliola daviesii Hansf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Halobacteroides Oren, Weisburg, Kessel & Woese, 1984 GENUS
-=======
+# Halobacteroides Oren, Weisburg, Kessel & Woese, 1984 GENUS
 
 #### Status
 ACCEPTED

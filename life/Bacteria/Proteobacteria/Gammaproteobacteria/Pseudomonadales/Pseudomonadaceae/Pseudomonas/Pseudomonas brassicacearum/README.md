@@ -1,5 +1,4 @@
-Pseudomonas brassicacearum Achouak et al., 2000 SPECIES
-=======
+# Pseudomonas brassicacearum Achouak et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paranaplasma GENUS
-=======
+# Paranaplasma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces streblae Thaxt. SPECIES
-=======
+# Stigmatomyces streblae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

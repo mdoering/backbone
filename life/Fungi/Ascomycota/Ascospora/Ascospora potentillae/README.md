@@ -1,5 +1,4 @@
-Ascospora potentillae Miura SPECIES
-=======
+# Ascospora potentillae Miura SPECIES
 
 #### Status
 ACCEPTED

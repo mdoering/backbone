@@ -1,5 +1,4 @@
-Phacus granulatus var. laevis Z.X. Shi VARIETY
-=======
+# Phacus granulatus SPECIES
 
 #### Status
 ACCEPTED

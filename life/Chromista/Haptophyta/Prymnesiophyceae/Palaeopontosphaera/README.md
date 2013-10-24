@@ -1,5 +1,4 @@
-Palaeopontosphaera Noël, 1965 GENUS
-=======
+# Palaeopontosphaera Noël, 1965 GENUS
 
 #### Status
 ACCEPTED

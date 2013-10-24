@@ -1,5 +1,4 @@
-Lepiota flava Beeli SPECIES
-=======
+# Lepiota flava Beeli SPECIES
 
 #### Status
 ACCEPTED

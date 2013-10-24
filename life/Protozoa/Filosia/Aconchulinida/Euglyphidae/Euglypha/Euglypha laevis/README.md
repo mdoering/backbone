@@ -1,5 +1,4 @@
-Euglypha laevis Perty, 1849 SPECIES
-=======
+# Euglypha laevis Perty, 1849 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium balearicum Gonz. Frag. SPECIES
-=======
+# Aecidium balearicum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

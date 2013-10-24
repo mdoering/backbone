@@ -1,5 +1,4 @@
-Lactifluus distans (Peck) Kuntze SPECIES
-=======
+# Lactifluus distans (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

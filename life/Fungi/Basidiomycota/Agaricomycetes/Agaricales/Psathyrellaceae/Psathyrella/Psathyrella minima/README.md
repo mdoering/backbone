@@ -1,5 +1,4 @@
-Psathyrella minima Peck SPECIES
-=======
+# Psathyrella minima Peck SPECIES
 
 #### Status
 ACCEPTED

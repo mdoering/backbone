@@ -1,5 +1,4 @@
-Gloeosporium ferrugineum Dearn. SPECIES
-=======
+# Gloeosporium ferrugineum Dearn. SPECIES
 
 #### Status
 ACCEPTED

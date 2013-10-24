@@ -1,5 +1,4 @@
-Leptothyrium cantareirense Henn. SPECIES
-=======
+# Leptothyrium cantareirense Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phialina parenchymatosa (Velen.) Graddon, 1979 SPECIES
-=======
+# Calycellina myriadea (Mouton) Huhtinen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 73(1): 181 (1979)
+Karstenia 29(2): 239 (1990)
 
 #### Original name
-Hyaloscypha parenchymatosa Velen., 1947
+Pezizella myriadea Mouton, 1897
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Omphalina barbularum (Romagn.) Bon, 1975 SPECIES
-=======
+# Clitocybe barbularum (Romagn.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 5(no. 19): 22 (1975)
+Trans. Br. mycol. Soc. 43: 174 (1960)
 
 #### Original name
 Omphalia barbularum Romagn., 1952

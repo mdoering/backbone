@@ -1,5 +1,4 @@
-Chaetomium ampulliellum X.Wei Wang SPECIES
-=======
+# Chaetomium ampulliellum X.Wei Wang SPECIES
 
 #### Status
 ACCEPTED

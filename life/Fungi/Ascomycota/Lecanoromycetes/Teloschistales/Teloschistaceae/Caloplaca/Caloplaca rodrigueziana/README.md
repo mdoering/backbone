@@ -1,5 +1,4 @@
-Caloplaca rodrigueziana Zahlbr. SPECIES
-=======
+# Caloplaca rodrigueziana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

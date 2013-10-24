@@ -1,5 +1,4 @@
-Lycoperdon ashantiense Dring SPECIES
-=======
+# Lycoperdon ashantiense Dring SPECIES
 
 #### Status
 ACCEPTED

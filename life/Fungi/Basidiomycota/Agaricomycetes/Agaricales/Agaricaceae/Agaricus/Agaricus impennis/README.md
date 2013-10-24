@@ -1,5 +1,4 @@
-Agaricus impennis Fr. SPECIES
-=======
+# Agaricus impennis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon trabutii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon trabutii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

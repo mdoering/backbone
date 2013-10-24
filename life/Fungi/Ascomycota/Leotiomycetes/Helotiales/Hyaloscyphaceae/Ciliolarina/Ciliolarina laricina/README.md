@@ -1,17 +1,16 @@
-Cistella piceae var. laricinum (Velen.) Dennis VARIETY
-=======
+# Ciliolarina laricina (Raitv.) Svrcek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 31(4): 199 (1977)
 
 #### Original name
-Belonium piceae var. laricinum Velen., 1934
+Clavidisculum laricinum Raitv., 1970
 
 ### Remarks
 null

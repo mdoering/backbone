@@ -1,5 +1,4 @@
-Marasmius discipes Henn. SPECIES
-=======
+# Marasmius discipes Henn. SPECIES
 
 #### Status
 ACCEPTED

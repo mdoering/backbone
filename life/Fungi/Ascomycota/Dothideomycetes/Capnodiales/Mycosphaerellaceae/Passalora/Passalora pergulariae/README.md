@@ -1,5 +1,4 @@
-Passalora pergulariae (Dublish & P.N. Singh) U. Braun & Crous SPECIES
-=======
+# Passalora pergulariae (Dublish & P.N. Singh) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

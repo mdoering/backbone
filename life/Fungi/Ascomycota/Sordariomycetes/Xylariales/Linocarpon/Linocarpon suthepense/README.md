@@ -1,17 +1,16 @@
-Linocarpon suthepensis Thongk. SPECIES
-=======
+# Linocarpon suthepense Thongk., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Thongkantha, Lumyong, Lumyong, Whitton, McKenzie & Hyde, Mycologia 95(2): 364 (2003)
 
 #### Original name
-Linocarpon suthepensis Thongk.
+Linocarpon suthepense Thongk., 2003
 
 ### Remarks
 null

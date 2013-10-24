@@ -1,5 +1,4 @@
-Agaricus punicellus Fr. SPECIES
-=======
+# Agaricus punicellus Fr. SPECIES
 
 #### Status
 ACCEPTED

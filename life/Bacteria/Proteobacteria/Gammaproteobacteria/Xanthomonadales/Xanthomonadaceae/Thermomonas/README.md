@@ -1,5 +1,4 @@
-Thermomonas Busse et al., 2002 GENUS
-=======
+# Thermomonas Busse et al., 2002 GENUS
 
 #### Status
 ACCEPTED

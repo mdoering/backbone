@@ -1,5 +1,4 @@
-Anchihauerina McCulloch, 1977 GENUS
-=======
+# Anchihauerina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xenogloea Syd. & P. Syd. GENUS
-=======
+# Kriegeria Bresadola, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 17(1): 44 (1919)
+Revue mycol. , Toulouse 13: 14 (1891)
 
 #### Original name
-Xenogloea Syd. & P. Syd.
+Kriegeria Bresadola, 1891
 
 ### Remarks
 null

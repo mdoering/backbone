@@ -1,5 +1,4 @@
-Sphaeria ceanothina Peck SPECIES
-=======
+# Sphaeria ceanothina Peck SPECIES
 
 #### Status
 ACCEPTED

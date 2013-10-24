@@ -1,5 +1,4 @@
-Phaeoisariopsis sorbi (Peck) Ouell. SPECIES
-=======
+# Phaeoisariopsis sorbi (Peck) Ouell. SPECIES
 
 #### Status
 ACCEPTED

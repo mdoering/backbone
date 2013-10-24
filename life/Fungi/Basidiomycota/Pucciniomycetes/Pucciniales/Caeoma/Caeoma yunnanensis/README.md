@@ -1,5 +1,4 @@
-Caeoma yunnanensis P.E. Crane SPECIES
-=======
+# Caeoma yunnanensis P.E. Crane SPECIES
 
 #### Status
 ACCEPTED

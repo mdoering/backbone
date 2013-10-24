@@ -1,5 +1,4 @@
-Camarosporium kurdicum Petr. SPECIES
-=======
+# Camarosporium kurdicum Petr. SPECIES
 
 #### Status
 ACCEPTED

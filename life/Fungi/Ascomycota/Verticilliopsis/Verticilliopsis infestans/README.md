@@ -1,5 +1,4 @@
-Verticilliopsis infestans Costantin SPECIES
-=======
+# Verticilliopsis infestans Costantin SPECIES
 
 #### Status
 ACCEPTED

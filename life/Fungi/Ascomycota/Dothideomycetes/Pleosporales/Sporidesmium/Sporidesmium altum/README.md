@@ -1,14 +1,13 @@
-Podoconis alta (Preuss) E.W. Mason & S. Hughes, 1953 SPECIES
-=======
+# Sporidesmium altum (Preuss) M.B. Ellis, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hughes, Naturalist, London 846: 119 (1953)
+Mycol. Pap. 70: 46 (1958)
 
 #### Original name
 Helminthosporium altum Preuss, 1848

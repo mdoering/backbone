@@ -1,5 +1,4 @@
-Rinodina lecidotropa SPECIES
-=======
+# Rinodina lecidotropa SPECIES
 
 #### Status
 ACCEPTED

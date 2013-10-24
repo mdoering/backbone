@@ -1,5 +1,4 @@
-Cortinarius areolatoimbricatus Cleland SPECIES
-=======
+# Cortinarius areolatoimbricatus Cleland SPECIES
 
 #### Status
 ACCEPTED

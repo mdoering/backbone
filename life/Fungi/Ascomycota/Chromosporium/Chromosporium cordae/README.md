@@ -1,5 +1,4 @@
-Chromosporium cordae Sacc. SPECIES
-=======
+# Chromosporium cordae Sacc. SPECIES
 
 #### Status
 ACCEPTED

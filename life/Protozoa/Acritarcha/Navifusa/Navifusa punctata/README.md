@@ -1,5 +1,4 @@
-Navifusa punctata Loeblich & Tappan, 1978 SPECIES
-=======
+# Navifusa punctata Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

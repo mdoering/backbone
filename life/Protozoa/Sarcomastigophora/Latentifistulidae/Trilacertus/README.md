@@ -1,5 +1,4 @@
-Trilacertus Cheng, 1986 GENUS
-=======
+# Trilacertus Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

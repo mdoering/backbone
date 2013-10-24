@@ -1,5 +1,4 @@
-Cryptocline cypripedii (H.C. Greene) Punith. SPECIES
-=======
+# Cryptocline cypripedii (H.C. Greene) Punith. SPECIES
 
 #### Status
 ACCEPTED

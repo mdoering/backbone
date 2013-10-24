@@ -1,14 +1,13 @@
-Filaspora fusicoccodes (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora fusicoccoides (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 477 (1898)
 
 #### Original name
 Septoria fusicoccoides Sacc. & Roum.

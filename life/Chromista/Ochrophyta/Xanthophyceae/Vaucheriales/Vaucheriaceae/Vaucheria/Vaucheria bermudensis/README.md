@@ -1,5 +1,4 @@
-Vaucheria bermudensis W.R. Taylor & Bernatowicz SPECIES
-=======
+# Vaucheria bermudensis W.R. Taylor & Bernatowicz SPECIES
 
 #### Status
 ACCEPTED

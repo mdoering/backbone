@@ -1,5 +1,4 @@
-Multiclavula sharpii R.H. Petersen, 1967 SPECIES
-=======
+# Multiclavula sharpii R.H. Petersen, 1967 SPECIES
 
 #### Status
 ACCEPTED

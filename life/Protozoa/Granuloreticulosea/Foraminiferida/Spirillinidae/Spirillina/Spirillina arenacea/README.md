@@ -1,5 +1,4 @@
-Spirillina arenacea Williamson, 1858 SPECIES
-=======
+# Spirillina arenacea Williamson, 1858 SPECIES
 
 #### Status
 ACCEPTED

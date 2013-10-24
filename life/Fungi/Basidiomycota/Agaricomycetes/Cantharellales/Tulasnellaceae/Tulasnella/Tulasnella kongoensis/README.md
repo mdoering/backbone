@@ -1,5 +1,4 @@
-Tulasnella kongoensis P. Roberts, 1997 SPECIES
-=======
+# Tulasnella kongoensis P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca obamae K. Knudsen SPECIES
-=======
+# Caloplaca obamae K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

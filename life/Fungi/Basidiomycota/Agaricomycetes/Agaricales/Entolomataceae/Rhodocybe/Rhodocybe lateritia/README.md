@@ -1,5 +1,4 @@
-Rhodocybe lateritia T.J. Baroni & G.M. Gates SPECIES
-=======
+# Rhodocybe lateritia T.J. Baroni & G.M. Gates SPECIES
 
 #### Status
 ACCEPTED

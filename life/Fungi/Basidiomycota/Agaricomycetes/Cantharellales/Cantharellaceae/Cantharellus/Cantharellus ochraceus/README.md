@@ -1,5 +1,4 @@
-Cantharellus ochraceus (Pat.) Sacc. & D. Sacc. SPECIES
-=======
+# Cantharellus ochraceus (Pat.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

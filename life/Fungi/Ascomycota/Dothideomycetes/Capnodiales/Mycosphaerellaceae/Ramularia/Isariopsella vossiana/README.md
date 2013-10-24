@@ -1,5 +1,4 @@
-Isariopsella vossiana (Thüm.) Höhn. SPECIES
-=======
+# Isariopsella vossiana (Thüm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pestalotia triseta (Moreau & V. Moreau) Guba, 1961 SPECIES
-=======
+# Pestalotiopsis triseta (Moreau & V. Moreau) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 244 (1961)
+Bull. Jard. bot. État Brux. 14: 337 (1949)
 
 #### Original name
 Pestalotia funerea f. triseta Moreau & V. Moreau, 1941

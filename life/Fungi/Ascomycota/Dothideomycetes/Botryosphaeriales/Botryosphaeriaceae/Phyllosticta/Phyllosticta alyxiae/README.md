@@ -1,5 +1,4 @@
-Phyllosticta alyxiae Hansf. SPECIES
-=======
+# Phyllosticta alyxiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

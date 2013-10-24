@@ -1,5 +1,4 @@
-Coniothyrium chengii Gucevic SPECIES
-=======
+# Coniothyrium chengii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus taienus W.F. Chiu SPECIES
-=======
+# Boletus taienus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

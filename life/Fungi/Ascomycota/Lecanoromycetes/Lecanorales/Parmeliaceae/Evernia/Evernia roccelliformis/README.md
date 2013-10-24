@@ -1,5 +1,4 @@
-Evernia roccelliformis (Bory) Mont. SPECIES
-=======
+# Evernia roccelliformis (Bory) Mont. SPECIES
 
 #### Status
 ACCEPTED

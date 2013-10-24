@@ -1,5 +1,4 @@
-Calciosolenia fossilis SPECIES
-=======
+# Calciosolenia fossilis SPECIES
 
 #### Status
 ACCEPTED

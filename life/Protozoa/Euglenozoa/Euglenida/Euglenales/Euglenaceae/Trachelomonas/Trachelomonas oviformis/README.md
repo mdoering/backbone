@@ -1,5 +1,4 @@
-Trachelomonas oviformis var. duplex V. Conforti VARIETY
-=======
+# Trachelomonas oviformis Drezepolski SPECIES
 
 #### Status
 ACCEPTED

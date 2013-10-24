@@ -1,17 +1,16 @@
-Opegrapha actophila Nyl. SPECIES
-=======
+# Opegrapha areniseda Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 63: 13 (1880)
+Flora, Jena 58: 446 (1875)
 
 #### Original name
-Opegrapha actophila Nyl.
+Opegrapha areniseda Nyl.
 
 ### Remarks
 null

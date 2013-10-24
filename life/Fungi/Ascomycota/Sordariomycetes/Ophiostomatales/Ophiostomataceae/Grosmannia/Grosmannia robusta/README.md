@@ -1,14 +1,13 @@
-Ophiostoma robustum (Rob.-Jeffr. & R.W. Davidson) T.C. Harr., 1987 SPECIES
-=======
+# Grosmannia robusta (Rob.-Jeffr. & R.W. Davidson) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(1): 42 (1987)
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 91 (2006)
 
 #### Original name
 Europhium robustum Rob.-Jeffr. & R.W. Davidson, 1968

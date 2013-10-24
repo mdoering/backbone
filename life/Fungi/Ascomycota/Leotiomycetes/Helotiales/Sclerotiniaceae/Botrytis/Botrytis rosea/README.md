@@ -1,5 +1,4 @@
-Botrytis rosea Link, 1815 SPECIES
-=======
+# Botrytis rosea Link, 1815 SPECIES
 
 #### Status
 ACCEPTED

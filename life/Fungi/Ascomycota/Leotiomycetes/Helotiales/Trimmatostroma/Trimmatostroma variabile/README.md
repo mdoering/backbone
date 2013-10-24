@@ -1,5 +1,4 @@
-Trimmatostroma variabile Goh & Yipp SPECIES
-=======
+# Trimmatostroma variabile Goh & Yipp SPECIES
 
 #### Status
 ACCEPTED

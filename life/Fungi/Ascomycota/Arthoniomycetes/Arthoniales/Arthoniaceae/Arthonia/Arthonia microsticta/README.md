@@ -1,5 +1,4 @@
-Arthonia microsticta Vain. SPECIES
-=======
+# Arthonia microsticta Vain. SPECIES
 
 #### Status
 ACCEPTED

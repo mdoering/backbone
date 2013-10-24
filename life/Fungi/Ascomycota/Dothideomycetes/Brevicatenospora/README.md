@@ -1,5 +1,4 @@
-Brevicatenospora R.F. Castañeda, Minter & Saikawa GENUS
-=======
+# Brevicatenospora R.F. Castañeda, Minter & Saikawa GENUS
 
 #### Status
 ACCEPTED

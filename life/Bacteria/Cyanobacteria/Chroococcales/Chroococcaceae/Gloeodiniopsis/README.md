@@ -1,5 +1,4 @@
-Gloeodiniopsis J.W. Schopf, 1968 GENUS
-=======
+# Gloeodiniopsis J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

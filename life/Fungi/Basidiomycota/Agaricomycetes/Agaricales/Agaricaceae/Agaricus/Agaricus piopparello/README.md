@@ -1,5 +1,4 @@
-Agaricus piopparello Viv. SPECIES
-=======
+# Agaricus piopparello Viv. SPECIES
 
 #### Status
 ACCEPTED

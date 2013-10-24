@@ -1,5 +1,4 @@
-Dothiorella caballeroi (Bubák & Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella caballeroi (Bubák & Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

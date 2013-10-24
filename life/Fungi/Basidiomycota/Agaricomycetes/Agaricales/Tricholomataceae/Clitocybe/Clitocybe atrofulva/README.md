@@ -1,5 +1,4 @@
-Clitocybe atrofulva H.E. Bigelow SPECIES
-=======
+# Clitocybe atrofulva H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

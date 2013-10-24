@@ -1,5 +1,4 @@
-Bactrodesmium moenitum (J.L. Crane & Shearer) M.E. Palm & E.L. Stewart SPECIES
-=======
+# Bactrodesmium moenitum (J.L. Crane & Shearer) M.E. Palm & E.L. Stewart SPECIES
 
 #### Status
 ACCEPTED

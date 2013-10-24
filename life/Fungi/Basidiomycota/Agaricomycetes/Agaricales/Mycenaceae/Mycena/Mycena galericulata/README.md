@@ -1,17 +1,16 @@
-Mycena galericulata subsp. galericulata SUBSPECIES
-=======
+# Mycena galericulata (Scop.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nat. Arr. Brit. Pl. (London) 1: 619 (1821)
 
 #### Original name
-Mycena galericulata subsp. galericulata
+Agaricus galericulatus Scop., 1772
 
 ### Remarks
 null

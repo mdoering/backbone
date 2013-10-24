@@ -1,5 +1,4 @@
-Dictyolus pedicellatus Lázaro Ibiza SPECIES
-=======
+# Dictyolus pedicellatus Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

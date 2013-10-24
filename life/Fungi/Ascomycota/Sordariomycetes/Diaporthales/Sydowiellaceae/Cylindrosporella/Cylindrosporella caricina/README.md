@@ -1,5 +1,4 @@
-Cylindrosporella caricina H.C. Greene SPECIES
-=======
+# Cylindrosporella caricina H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

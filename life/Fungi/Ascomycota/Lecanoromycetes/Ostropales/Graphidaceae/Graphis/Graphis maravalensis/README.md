@@ -1,5 +1,4 @@
-Graphis maravalensis Vain. SPECIES
-=======
+# Graphis maravalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

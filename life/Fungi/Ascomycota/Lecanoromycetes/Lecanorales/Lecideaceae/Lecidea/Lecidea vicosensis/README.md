@@ -1,5 +1,4 @@
-Lecidea vicosensis Herre SPECIES
-=======
+# Lecidea vicosensis Herre SPECIES
 
 #### Status
 ACCEPTED

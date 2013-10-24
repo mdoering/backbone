@@ -1,5 +1,4 @@
-Bacidia vivantii Vezda SPECIES
-=======
+# Bacidia vivantii Vezda SPECIES
 
 #### Status
 ACCEPTED

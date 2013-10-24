@@ -1,5 +1,4 @@
-Spathidium geobium Lepsi, 1951 SPECIES
-=======
+# Spathidium geobium Lepsi, 1951 SPECIES
 
 #### Status
 ACCEPTED

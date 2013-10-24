@@ -1,5 +1,4 @@
-Rhabdostyla hungarica Stiller, 1931 SPECIES
-=======
+# Rhabdostyla hungarica Stiller, 1931 SPECIES
 
 #### Status
 ACCEPTED

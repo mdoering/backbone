@@ -1,5 +1,4 @@
-Verrucaria albata (Ach.) Malbr. SPECIES
-=======
+# Verrucaria albata (Ach.) Malbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella clintoniana House, 1919 SPECIES
-=======
+# Mycosphaerella rhododendri Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 205-206: 40 (1919)
+null
 
 #### Original name
-Sphaerella rhododendri Cooke, 1883
+Mycosphaerella rhododendri Lindau, 1903
 
 ### Remarks
 null

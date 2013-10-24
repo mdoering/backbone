@@ -1,17 +1,16 @@
-Cercospora odontonemae Chupp SPECIES
-=======
+# Cercospora odontonematis Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 25 (1954)
 
 #### Original name
-Cercospora odontonemae Chupp
+Cercospora odontonematis Chupp
 
 ### Remarks
 null

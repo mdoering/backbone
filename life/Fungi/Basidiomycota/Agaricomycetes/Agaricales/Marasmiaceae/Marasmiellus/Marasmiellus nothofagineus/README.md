@@ -1,5 +1,4 @@
-Marasmiellus nothofagineus Singer SPECIES
-=======
+# Marasmiellus nothofagineus Singer SPECIES
 
 #### Status
 ACCEPTED

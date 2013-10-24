@@ -1,5 +1,4 @@
-Polyporus puttemansii Henn. SPECIES
-=======
+# Polyporus puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

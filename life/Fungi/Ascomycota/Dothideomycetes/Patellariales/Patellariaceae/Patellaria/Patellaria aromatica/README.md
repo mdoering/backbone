@@ -1,5 +1,4 @@
-Patellaria aromatica (Turner) Mathieu SPECIES
-=======
+# Patellaria aromatica (Turner) Mathieu SPECIES
 
 #### Status
 ACCEPTED

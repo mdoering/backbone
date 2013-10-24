@@ -1,5 +1,4 @@
-Chrysococcus punctiformis Pascher SPECIES
-=======
+# Chrysococcus punctiformis Pascher SPECIES
 
 #### Status
 ACCEPTED

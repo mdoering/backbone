@@ -1,5 +1,4 @@
-Guignardia alternantherae (Sacc.) S. Hughes SPECIES
-=======
+# Guignardia alternantherae (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

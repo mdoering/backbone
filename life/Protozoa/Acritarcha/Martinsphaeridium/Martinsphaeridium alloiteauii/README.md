@@ -1,5 +1,4 @@
-Martinsphaeridium alloiteauii (Deunff, 1955) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Martinsphaeridium alloiteauii (Deunff, 1955) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

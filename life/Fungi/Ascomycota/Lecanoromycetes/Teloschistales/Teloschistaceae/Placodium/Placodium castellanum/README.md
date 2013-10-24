@@ -1,5 +1,4 @@
-Placodium castellanum Räsänen SPECIES
-=======
+# Placodium castellanum Räsänen SPECIES
 
 #### Status
 ACCEPTED

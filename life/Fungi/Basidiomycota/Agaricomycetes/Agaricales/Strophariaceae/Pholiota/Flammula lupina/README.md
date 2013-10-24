@@ -1,5 +1,4 @@
-Flammula lupina (Fr.) P. Karst. SPECIES
-=======
+# Flammula lupina (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

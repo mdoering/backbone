@@ -1,5 +1,4 @@
-Phyllachora negeriana Henn. & Lindau, 1897 SPECIES
-=======
+# Phyllachora negeriana Henn. & Lindau, 1897 SPECIES
 
 #### Status
 DOUBTFUL

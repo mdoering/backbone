@@ -1,17 +1,16 @@
-Cercospora heterophragmiae M.S. Patil SPECIES
-=======
+# Cercospora heterophragmatis M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 6(4): 219 (1975)
 
 #### Original name
-Cercospora heterophragmiae M.S. Patil
+Cercospora heterophragmatis M.S. Patil
 
 ### Remarks
 null

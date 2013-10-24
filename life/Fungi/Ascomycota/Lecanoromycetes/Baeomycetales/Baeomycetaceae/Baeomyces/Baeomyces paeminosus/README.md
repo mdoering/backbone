@@ -1,5 +1,4 @@
-Baeomyces paeminosus Kremp. SPECIES
-=======
+# Baeomyces paeminosus Kremp. SPECIES
 
 #### Status
 ACCEPTED

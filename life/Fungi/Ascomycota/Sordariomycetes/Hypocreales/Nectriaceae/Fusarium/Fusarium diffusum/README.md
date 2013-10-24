@@ -1,5 +1,4 @@
-Fusarium diffusum Carm. {?} SPECIES
-=======
+# Fusarium diffusum Carm. {?} SPECIES
 
 #### Status
 ACCEPTED

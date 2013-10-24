@@ -1,5 +1,4 @@
-Rhabdospora tanaceti Oudem. SPECIES
-=======
+# Rhabdospora tanaceti Oudem. SPECIES
 
 #### Status
 ACCEPTED

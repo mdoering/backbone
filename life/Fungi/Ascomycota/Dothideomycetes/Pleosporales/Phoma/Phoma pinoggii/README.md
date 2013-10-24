@@ -1,5 +1,4 @@
-Phoma pinoggii Servazzi SPECIES
-=======
+# Phoma pinoggii Servazzi SPECIES
 
 #### Status
 ACCEPTED

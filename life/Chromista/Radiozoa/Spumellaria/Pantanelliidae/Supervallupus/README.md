@@ -1,5 +1,4 @@
-Supervallupus Yang & Pessagno, 1989 GENUS
-=======
+# Supervallupus Yang & Pessagno, 1989 GENUS
 
 #### Status
 ACCEPTED

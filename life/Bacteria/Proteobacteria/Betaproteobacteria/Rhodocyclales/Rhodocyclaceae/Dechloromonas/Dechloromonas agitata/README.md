@@ -1,5 +1,4 @@
-Dechloromonas agitata Achenbach et al., 2001 SPECIES
-=======
+# Dechloromonas agitata Achenbach et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

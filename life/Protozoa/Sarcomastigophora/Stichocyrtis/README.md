@@ -1,5 +1,4 @@
-Stichocyrtis Haeckel, 1881 GENUS
-=======
+# Stichocyrtis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulaxina corticola Kalb & Vezda SPECIES
-=======
+# Aulaxina corticola Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton coccineum Katoh {?} SPECIES
-=======
+# Trichophyton coccineum Katoh {?} SPECIES
 
 #### Status
 ACCEPTED

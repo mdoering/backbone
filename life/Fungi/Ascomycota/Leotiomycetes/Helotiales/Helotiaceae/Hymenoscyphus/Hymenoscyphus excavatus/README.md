@@ -1,5 +1,4 @@
-Hymenoscyphus excavatus (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus excavatus (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

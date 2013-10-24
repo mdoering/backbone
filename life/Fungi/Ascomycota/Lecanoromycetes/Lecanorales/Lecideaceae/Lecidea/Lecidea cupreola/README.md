@@ -1,5 +1,4 @@
-Lecidea cupreola (Müll. Arg.) Puget SPECIES
-=======
+# Lecidea cupreola (Müll. Arg.) Puget SPECIES
 
 #### Status
 ACCEPTED

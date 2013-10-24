@@ -1,5 +1,4 @@
-Acolium viridulum Körb. SPECIES
-=======
+# Acolium viridulum Körb. SPECIES
 
 #### Status
 ACCEPTED

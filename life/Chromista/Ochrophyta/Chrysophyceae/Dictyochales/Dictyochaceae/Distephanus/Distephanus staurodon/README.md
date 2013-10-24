@@ -1,5 +1,4 @@
-Distephanus staurodon f. quadrangula A. Bachmann FORM
-=======
+# Distephanus staurodon SPECIES
 
 #### Status
 ACCEPTED

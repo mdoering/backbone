@@ -1,5 +1,4 @@
-Pestalotia banksiana Cavara SPECIES
-=======
+# Pestalotia banksiana Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora panici E. Young SPECIES
-=======
+# Cercospora panici E. Young SPECIES
 
 #### Status
 ACCEPTED

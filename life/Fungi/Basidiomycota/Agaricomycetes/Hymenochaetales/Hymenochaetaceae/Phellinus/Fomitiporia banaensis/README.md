@@ -1,5 +1,4 @@
-Fomitiporia banaensis Y.C. Dai SPECIES
-=======
+# Fomitiporia banaensis Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium subsiduum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelidium subsiduum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

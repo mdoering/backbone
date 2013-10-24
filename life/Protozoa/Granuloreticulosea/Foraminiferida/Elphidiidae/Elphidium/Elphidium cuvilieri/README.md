@@ -1,5 +1,4 @@
-Elphidium cuvilieri Levy, 1966 SPECIES
-=======
+# Elphidium cuvilieri Levy, 1966 SPECIES
 
 #### Status
 ACCEPTED

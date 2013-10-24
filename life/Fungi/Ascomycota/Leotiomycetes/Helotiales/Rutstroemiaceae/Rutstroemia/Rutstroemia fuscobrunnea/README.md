@@ -1,5 +1,4 @@
-Rutstroemia fuscobrunnea (Pat. & Gaillard) Le Gal SPECIES
-=======
+# Rutstroemia fuscobrunnea (Pat. & Gaillard) Le Gal SPECIES
 
 #### Status
 ACCEPTED

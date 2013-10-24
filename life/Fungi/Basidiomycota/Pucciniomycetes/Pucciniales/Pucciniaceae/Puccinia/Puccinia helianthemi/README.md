@@ -1,5 +1,4 @@
-Puccinia helianthemi Kravtzev SPECIES
-=======
+# Puccinia helianthemi Kravtzev SPECIES
 
 #### Status
 ACCEPTED

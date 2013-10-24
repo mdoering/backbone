@@ -1,5 +1,4 @@
-Agaricus pseudolutosus (G. Moreno, Esteve-Rav., Illana & Heykoop) G. Moreno, L.A. Parra, Esteve-Rav. & Heykoop SPECIES
-=======
+# Agaricus pseudolutosus (G. Moreno, Esteve-Rav., Illana & Heykoop) G. Moreno, L.A. Parra, Esteve-Rav. & Heykoop SPECIES
 
 #### Status
 ACCEPTED

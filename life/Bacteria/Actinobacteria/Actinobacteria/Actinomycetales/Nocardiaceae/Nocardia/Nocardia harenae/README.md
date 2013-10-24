@@ -1,5 +1,4 @@
-Nocardia harenae Seo & Lee, 2006 SPECIES
-=======
+# Nocardia harenae Seo & Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus tectulum Paulet SPECIES
-=======
+# Agaricus tectulum Paulet SPECIES
 
 #### Status
 ACCEPTED

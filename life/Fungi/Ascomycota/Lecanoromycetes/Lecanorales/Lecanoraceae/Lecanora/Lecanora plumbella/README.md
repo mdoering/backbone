@@ -1,5 +1,4 @@
-Lecanora plumbella SPECIES
-=======
+# Lecanora plumbella SPECIES
 
 #### Status
 ACCEPTED

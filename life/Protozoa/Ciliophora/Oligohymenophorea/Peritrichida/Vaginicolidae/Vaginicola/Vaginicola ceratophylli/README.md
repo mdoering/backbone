@@ -1,5 +1,4 @@
-Vaginicola ceratophylli Penard, 1922 SPECIES
-=======
+# Vaginicola ceratophylli Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grubyella formosensis Haseg. SPECIES
-=======
+# Grubyella formosensis Haseg. SPECIES
 
 #### Status
 ACCEPTED

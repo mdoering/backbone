@@ -1,5 +1,4 @@
-Dothiorella phoenicis S. Ahmad SPECIES
-=======
+# Dothiorella phoenicis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

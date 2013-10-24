@@ -1,5 +1,4 @@
-Hypogymnia oceanica Goward SPECIES
-=======
+# Hypogymnia oceanica Goward SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia fastigiata Thaxt. SPECIES
-=======
+# Rickia fastigiata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycauliona theloschistoides (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Polycauliona theloschistoides (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

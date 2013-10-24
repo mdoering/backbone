@@ -1,5 +1,4 @@
-Arachnophora pulneyensis (Subram. & Bhat) R.F. Castañeda SPECIES
-=======
+# Arachnophora pulneyensis (Subram. & Bhat) R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

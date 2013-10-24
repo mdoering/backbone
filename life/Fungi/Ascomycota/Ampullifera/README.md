@@ -1,17 +1,16 @@
-Ampulliferella Bat. & Cavalc. GENUS
-=======
+# Ampullifera Deighton GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Portug. acta biol. , Sér. B 7: 348 (1964)
+Mycol. Pap. 78: 36 (1960)
 
 #### Original name
-Ampulliferella Bat. & Cavalc.
+Ampullifera Deighton
 
 ### Remarks
 null

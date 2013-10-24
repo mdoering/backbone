@@ -1,5 +1,4 @@
-Armillaria casimiri Velen. SPECIES
-=======
+# Armillaria casimiri Velen. SPECIES
 
 #### Status
 ACCEPTED

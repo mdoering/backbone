@@ -1,5 +1,4 @@
-Palaeodecaradium Goodbody, 1986 GENUS
-=======
+# Palaeodecaradium Goodbody, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia norstrigosa Elix SPECIES
-=======
+# Xanthoparmelia norstrigosa Elix SPECIES
 
 #### Status
 ACCEPTED

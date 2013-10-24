@@ -1,14 +1,13 @@
-Corticium chrysocreas Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Crustodontia chrysocreas (Berk. & M.A. Curtis) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 12): 178 (1873)
+Syn. Fung. (Oslo) 20: 36 (2005)
 
 #### Original name
 Corticium chrysocreas Berk. & M.A. Curtis, 1873

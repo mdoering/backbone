@@ -1,5 +1,4 @@
-Uredo aspiliae-latifoliae Cummins SPECIES
-=======
+# Uredo aspiliae-latifoliae Cummins SPECIES
 
 #### Status
 ACCEPTED

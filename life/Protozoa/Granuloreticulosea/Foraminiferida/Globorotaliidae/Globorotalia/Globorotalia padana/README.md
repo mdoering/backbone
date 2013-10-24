@@ -1,5 +1,4 @@
-Globorotalia padana Dondi & Papetti SPECIES
-=======
+# Globorotalia padana Dondi & Papetti SPECIES
 
 #### Status
 ACCEPTED

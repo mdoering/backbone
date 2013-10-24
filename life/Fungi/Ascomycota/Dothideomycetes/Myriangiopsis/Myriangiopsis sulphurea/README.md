@@ -1,14 +1,13 @@
-Ascomycetella sulphurea G. Winter, 1885 SPECIES
-=======
+# Myriangiopsis sulphurea (G. Winter) Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia (1902)
 
 #### Original name
 null

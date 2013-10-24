@@ -1,5 +1,4 @@
-Pleospora balsamorrhizae Tracy & Earle SPECIES
-=======
+# Pleospora balsamorrhizae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

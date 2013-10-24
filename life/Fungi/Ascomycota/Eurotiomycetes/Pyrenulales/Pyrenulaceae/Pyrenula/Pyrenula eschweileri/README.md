@@ -1,5 +1,4 @@
-Pyrenula eschweileri (Mont.) Trevis. SPECIES
-=======
+# Pyrenula eschweileri (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

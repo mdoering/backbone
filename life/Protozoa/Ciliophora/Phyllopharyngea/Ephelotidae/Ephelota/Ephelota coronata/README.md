@@ -1,5 +1,4 @@
-Ephelota coronata SPECIES
-=======
+# Ephelota coronata SPECIES
 
 #### Status
 ACCEPTED

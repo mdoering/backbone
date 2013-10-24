@@ -1,5 +1,4 @@
-Aulosira africana Frémy SPECIES
-=======
+# Aulosira africana Frémy SPECIES
 
 #### Status
 ACCEPTED

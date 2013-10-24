@@ -1,5 +1,4 @@
-Caloplaca iomma Olech & Søchting SPECIES
-=======
+# Caloplaca iomma Olech & Søchting SPECIES
 
 #### Status
 ACCEPTED

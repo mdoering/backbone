@@ -1,5 +1,4 @@
-Hypochniciellum Hjortstam & Ryvarden, 1980 GENUS
-=======
+# Hypochniciellum Hjortstam & Ryvarden, 1980 GENUS
 
 #### Status
 ACCEPTED

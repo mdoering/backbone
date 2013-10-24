@@ -1,5 +1,4 @@
-Fulgensia pruinosa var. pruinosa VARIETY
-=======
+# Fulgensia pruinosa (Körb.) Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fulgensia pruinosa var. pruinosa
+Gyalolechia pruinosa Körb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cheiropolyschema ghaticum Bhat & W.B. Kendr. SPECIES
-=======
+# Cheiropolyschema ghaticum Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

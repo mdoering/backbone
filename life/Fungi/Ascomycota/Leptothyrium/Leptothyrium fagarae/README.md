@@ -1,5 +1,4 @@
-Leptothyrium fagarae Dias, M.T. Lucas, A.T. Vasconc. & Sousa da Câmara SPECIES
-=======
+# Leptothyrium fagarae Dias, M.T. Lucas, A.T. Vasconc. & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

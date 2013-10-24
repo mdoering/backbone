@@ -1,5 +1,4 @@
-Anaptychia dactyliza f. dactyliza FORM
-=======
+# Anaptychia dactyliza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. , 2 (Bot. ) 3(11): 403 (1924)
 
 #### Original name
-Anaptychia dactyliza f. dactyliza
+Siphula dactyliza Nyl.
 
 ### Remarks
 null

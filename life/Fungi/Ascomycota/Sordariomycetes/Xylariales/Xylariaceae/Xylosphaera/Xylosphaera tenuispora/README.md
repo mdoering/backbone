@@ -1,5 +1,4 @@
-Xylosphaera tenuispora Dennis SPECIES
-=======
+# Xylosphaera tenuispora Dennis SPECIES
 
 #### Status
 ACCEPTED

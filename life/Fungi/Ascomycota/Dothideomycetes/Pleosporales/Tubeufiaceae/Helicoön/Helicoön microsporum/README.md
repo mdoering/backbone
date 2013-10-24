@@ -1,5 +1,4 @@
-Helicoön microsporum Abdullah, Guarro & Figueras SPECIES
-=======
+# Helicoön microsporum Abdullah, Guarro & Figueras SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora miurae (Syd. & P. Syd.) U. Braun & H.D. Shin SPECIES
-=======
+# Passalora miurae (Syd. & P. Syd.) U. Braun & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

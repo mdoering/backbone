@@ -1,5 +1,4 @@
-Dicaeoma gilbertii (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma gilbertii (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

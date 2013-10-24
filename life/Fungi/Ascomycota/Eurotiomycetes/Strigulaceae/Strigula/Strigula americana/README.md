@@ -1,5 +1,4 @@
-Strigula americana R.C. Harris SPECIES
-=======
+# Strigula americana R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

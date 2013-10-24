@@ -1,5 +1,4 @@
-Ceuthospora acerina (Aderh.) Höhn. SPECIES
-=======
+# Ceuthospora acerina (Aderh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

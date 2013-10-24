@@ -1,5 +1,4 @@
-Clathroporina amygdalina (Müll. Arg.) Fink SPECIES
-=======
+# Clathroporina amygdalina (Müll. Arg.) Fink SPECIES
 
 #### Status
 ACCEPTED

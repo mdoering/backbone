@@ -1,5 +1,4 @@
-Peziza trifoliorum Lib. SPECIES
-=======
+# Peziza trifoliorum Lib. SPECIES
 
 #### Status
 ACCEPTED

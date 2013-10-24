@@ -1,5 +1,4 @@
-Mycosphaerella didymelloides Petr. SPECIES
-=======
+# Mycosphaerella didymelloides Petr. SPECIES
 
 #### Status
 ACCEPTED

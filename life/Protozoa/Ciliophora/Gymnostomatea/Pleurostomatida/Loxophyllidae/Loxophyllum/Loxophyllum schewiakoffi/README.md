@@ -1,5 +1,4 @@
-Loxophyllum schewiakoffi Burkovsky, 1970 SPECIES
-=======
+# Loxophyllum schewiakoffi Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

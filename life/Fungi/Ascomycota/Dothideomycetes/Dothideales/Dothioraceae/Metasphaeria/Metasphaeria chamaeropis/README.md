@@ -1,5 +1,4 @@
-Metasphaeria chamaeropis Pass. SPECIES
-=======
+# Metasphaeria chamaeropis Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus squamulosus (Mont.) Pegler SPECIES
-=======
+# Leucocoprinus squamulosus (Mont.) Pegler SPECIES
 
 #### Status
 ACCEPTED

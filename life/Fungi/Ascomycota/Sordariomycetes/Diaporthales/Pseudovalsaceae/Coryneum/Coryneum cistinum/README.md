@@ -1,5 +1,4 @@
-Coryneum cistinum Cooke SPECIES
-=======
+# Coryneum cistinum Cooke SPECIES
 
 #### Status
 ACCEPTED

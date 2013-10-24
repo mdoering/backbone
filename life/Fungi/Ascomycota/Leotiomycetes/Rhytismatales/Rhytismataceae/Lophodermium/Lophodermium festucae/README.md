@@ -1,14 +1,13 @@
-Lophodermium culmigenum f. festucae Roum., 1897 FORM
-=======
+# Lophodermium festucae (Roum.) Terrier, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 19: 55 (1897)
+Beitr. Kryptfl. Schweiz 9(no. 2): 24 (1942)
 
 #### Original name
 Lophodermium culmigenum f. festucae Roum., 1897

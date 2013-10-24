@@ -1,5 +1,4 @@
-Lachnea rufobrunnea Henn. SPECIES
-=======
+# Lachnea rufobrunnea Henn. SPECIES
 
 #### Status
 ACCEPTED

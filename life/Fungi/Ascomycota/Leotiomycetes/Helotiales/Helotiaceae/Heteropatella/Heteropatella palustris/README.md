@@ -1,5 +1,4 @@
-Heteropatella palustris (Brunaud) Sacc. SPECIES
-=======
+# Heteropatella palustris (Brunaud) Sacc. SPECIES
 
 #### Status
 ACCEPTED

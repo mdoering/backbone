@@ -1,5 +1,4 @@
-Jubatasphaera dispariluma Loeblich & Wicander, 1976 SPECIES
-=======
+# Jubatasphaera dispariluma Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

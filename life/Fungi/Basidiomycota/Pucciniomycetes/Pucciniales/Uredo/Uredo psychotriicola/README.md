@@ -1,5 +1,4 @@
-Uredo psychotriicola Henn. SPECIES
-=======
+# Uredo psychotriicola Henn. SPECIES
 
 #### Status
 ACCEPTED

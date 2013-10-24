@@ -1,5 +1,4 @@
-Puccinia kentrophylli P. Syd. & Syd. SPECIES
-=======
+# Puccinia kentrophylli P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

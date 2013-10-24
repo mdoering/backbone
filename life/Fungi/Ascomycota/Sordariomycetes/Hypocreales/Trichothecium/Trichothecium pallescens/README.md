@@ -1,5 +1,4 @@
-Trichothecium pallescens SPECIES
-=======
+# Trichothecium pallescens SPECIES
 
 #### Status
 ACCEPTED

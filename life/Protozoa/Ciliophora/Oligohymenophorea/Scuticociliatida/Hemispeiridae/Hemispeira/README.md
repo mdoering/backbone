@@ -1,5 +1,4 @@
-Hemispeira Fabre-Domergue, 1888 GENUS
-=======
+# Hemispeira Fabre-Domergue, 1888 GENUS
 
 #### Status
 ACCEPTED

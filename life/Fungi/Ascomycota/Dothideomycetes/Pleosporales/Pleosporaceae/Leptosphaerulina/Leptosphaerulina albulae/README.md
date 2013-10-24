@@ -1,5 +1,4 @@
-Leptosphaerulina albulae Crivelli, 1983 SPECIES
-=======
+# Leptosphaerulina albulae Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED

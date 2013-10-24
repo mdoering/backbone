@@ -1,5 +1,4 @@
-Terpsinoe americana Ehrenberg, 1941 SPECIES
-=======
+# Terpsinoe americana Ehrenberg, 1941 SPECIES
 
 #### Status
 ACCEPTED

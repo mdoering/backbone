@@ -1,5 +1,4 @@
-Acanthostomella Jørgensen GENUS
-=======
+# Acanthostomella Jørgensen GENUS
 
 #### Status
 ACCEPTED

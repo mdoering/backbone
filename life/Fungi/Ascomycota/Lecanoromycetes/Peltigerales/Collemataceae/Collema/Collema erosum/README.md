@@ -1,5 +1,4 @@
-Collema erosum (Ach.) Röhl. SPECIES
-=======
+# Collema erosum (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

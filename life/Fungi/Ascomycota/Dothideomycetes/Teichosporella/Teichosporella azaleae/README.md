@@ -1,5 +1,4 @@
-Teichosporella azaleae (Schwein.) Cooke SPECIES
-=======
+# Teichosporella azaleae (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

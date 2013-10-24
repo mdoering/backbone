@@ -1,5 +1,4 @@
-Valsa fagicola Ellis & Everh. SPECIES
-=======
+# Valsa fagicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

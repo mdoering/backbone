@@ -1,5 +1,4 @@
-Thiobacillus albertis Bryant et al., 1988 SPECIES
-=======
+# Thiobacillus albertis Bryant et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

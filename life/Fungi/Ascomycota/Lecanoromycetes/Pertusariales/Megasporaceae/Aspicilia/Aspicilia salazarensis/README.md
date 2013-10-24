@@ -1,5 +1,4 @@
-Aspicilia salazarensis B. de Lesd. SPECIES
-=======
+# Aspicilia salazarensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

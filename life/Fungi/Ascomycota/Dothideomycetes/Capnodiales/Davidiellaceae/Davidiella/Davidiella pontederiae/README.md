@@ -1,5 +1,4 @@
-Davidiella pontederiae (Peck) Aptroot, 2006 SPECIES
-=======
+# Davidiella pontederiae (Peck) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

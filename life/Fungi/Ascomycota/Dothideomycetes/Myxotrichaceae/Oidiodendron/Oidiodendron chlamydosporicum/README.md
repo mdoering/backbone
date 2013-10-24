@@ -1,5 +1,4 @@
-Oidiodendron chlamydosporicum Morrall, 1968 SPECIES
-=======
+# Oidiodendron chlamydosporicum Morrall, 1968 SPECIES
 
 #### Status
 ACCEPTED

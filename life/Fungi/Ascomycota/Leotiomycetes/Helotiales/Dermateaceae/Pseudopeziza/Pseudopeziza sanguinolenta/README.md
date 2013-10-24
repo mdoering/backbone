@@ -1,5 +1,4 @@
-Pseudopeziza sanguinolenta Speg. SPECIES
-=======
+# Pseudopeziza sanguinolenta Speg. SPECIES
 
 #### Status
 ACCEPTED

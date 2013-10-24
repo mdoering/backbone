@@ -1,5 +1,4 @@
-Tetracrium puttemansii G. Arnaud SPECIES
-=======
+# Tetracrium puttemansii G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

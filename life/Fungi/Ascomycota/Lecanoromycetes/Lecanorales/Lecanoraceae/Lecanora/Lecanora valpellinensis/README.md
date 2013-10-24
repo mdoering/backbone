@@ -1,5 +1,4 @@
-Lecanora valpellinensis f. valpellinensis FORM
-=======
+# Lecanora valpellinensis (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora valpellinensis f. valpellinensis
+Verrucaria valpellinensis B. de Lesd.
 
 ### Remarks
 null

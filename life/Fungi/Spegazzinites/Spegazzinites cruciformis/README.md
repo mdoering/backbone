@@ -1,5 +1,4 @@
-Spegazzinites cruciformis Félix SPECIES
-=======
+# Spegazzinites cruciformis Félix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothyra indica Garud SPECIES
-=======
+# Schizothyra indica Garud SPECIES
 
 #### Status
 ACCEPTED

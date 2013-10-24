@@ -1,5 +1,4 @@
-Botrytis brunneola Rabenh. SPECIES
-=======
+# Botrytis brunneola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

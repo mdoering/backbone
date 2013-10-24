@@ -1,5 +1,4 @@
-Tricholoma praecox (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma praecox (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

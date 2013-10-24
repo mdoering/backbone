@@ -1,5 +1,4 @@
-Microthelia buxina (Pass.) Kuntze SPECIES
-=======
+# Microthelia buxina (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

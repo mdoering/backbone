@@ -1,14 +1,13 @@
-Ascospora sutherlandiae (Cooke & Kalchbr.) Kuntze, 1898 SPECIES
-=======
+# Stigmatula sutherlandiae (Kalchbr. & Cooke) Syd. & P. Syd., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 444 (1898)
+Bull. Herb. Boissier, 2 sér. 1: 78 (1901)
 
 #### Original name
 Stigmatea sutherlandiae Kalchbr. & Cooke, 1880

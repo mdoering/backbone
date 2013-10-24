@@ -1,5 +1,4 @@
-Lobaria fraxinea (L.) Hoffm. SPECIES
-=======
+# Lobaria fraxinea (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

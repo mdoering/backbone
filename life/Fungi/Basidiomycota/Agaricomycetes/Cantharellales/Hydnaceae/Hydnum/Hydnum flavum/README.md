@@ -1,5 +1,4 @@
-Hydnum flavum Berk. SPECIES
-=======
+# Hydnum flavum Berk. SPECIES
 
 #### Status
 ACCEPTED

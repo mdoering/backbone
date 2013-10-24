@@ -1,5 +1,4 @@
-Alisum parvum Górka, 1965 SPECIES
-=======
+# Alisum parvum Górka, 1965 SPECIES
 
 #### Status
 ACCEPTED

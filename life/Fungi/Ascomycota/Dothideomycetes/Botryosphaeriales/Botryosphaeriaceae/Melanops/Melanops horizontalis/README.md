@@ -1,5 +1,4 @@
-Melanops horizontalis (Berk. & M.A. Curtis) Weese SPECIES
-=======
+# Melanops horizontalis (Berk. & M.A. Curtis) Weese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerotus partitus (Berk.) Sacc. SPECIES
-=======
+# Xerotus partitus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

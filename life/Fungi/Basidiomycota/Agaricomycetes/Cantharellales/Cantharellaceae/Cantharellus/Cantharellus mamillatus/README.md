@@ -1,5 +1,4 @@
-Cantharellus mamillatus A. Blytt SPECIES
-=======
+# Cantharellus mamillatus A. Blytt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictina aleuritidis (Cif. & Gonz. Frag.) Bond.-Mont. SPECIES
-=======
+# Phyllostictina aleuritidis (Cif. & Gonz. Frag.) Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

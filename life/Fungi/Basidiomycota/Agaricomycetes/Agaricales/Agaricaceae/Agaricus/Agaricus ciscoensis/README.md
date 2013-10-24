@@ -1,5 +1,4 @@
-Agaricus ciscoensis A.H. Sm. SPECIES
-=======
+# Agaricus ciscoensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

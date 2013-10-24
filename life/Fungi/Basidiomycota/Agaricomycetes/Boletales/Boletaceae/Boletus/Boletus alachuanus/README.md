@@ -1,5 +1,4 @@
-Boletus alachuanus (Murrill) Murrill SPECIES
-=======
+# Boletus alachuanus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

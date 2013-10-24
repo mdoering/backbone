@@ -1,5 +1,4 @@
-Rossiomyces R.K. Benj. GENUS
-=======
+# Rossiomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

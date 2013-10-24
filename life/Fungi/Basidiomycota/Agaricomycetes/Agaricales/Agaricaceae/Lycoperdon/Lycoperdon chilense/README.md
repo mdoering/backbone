@@ -1,5 +1,4 @@
-Lycoperdon chilense Speg. SPECIES
-=======
+# Lycoperdon chilense Speg. SPECIES
 
 #### Status
 ACCEPTED

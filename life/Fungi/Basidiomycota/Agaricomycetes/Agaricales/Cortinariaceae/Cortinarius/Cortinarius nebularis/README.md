@@ -1,5 +1,4 @@
-Cortinarius nebularis Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius nebularis Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

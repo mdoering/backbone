@@ -1,5 +1,4 @@
-Hormiscium septonema (Preuss) P. Karst. SPECIES
-=======
+# Hormiscium septonema (Preuss) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

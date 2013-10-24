@@ -1,5 +1,4 @@
-Strombomonas subcurvata var. africana Bourrelly & Gayral VARIETY
-=======
+# Strombomonas subcurvata (Proskina-Lavrenko) Deflandre SPECIES
 
 #### Status
 ACCEPTED

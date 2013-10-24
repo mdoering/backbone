@@ -1,5 +1,4 @@
-Cortinarius brunneolimosus A. Pearson SPECIES
-=======
+# Cortinarius brunneolimosus A. Pearson SPECIES
 
 #### Status
 ACCEPTED

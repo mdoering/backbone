@@ -1,5 +1,4 @@
-Peronospora scutellariae Gäum. SPECIES
-=======
+# Peronospora scutellariae Gäum. SPECIES
 
 #### Status
 ACCEPTED

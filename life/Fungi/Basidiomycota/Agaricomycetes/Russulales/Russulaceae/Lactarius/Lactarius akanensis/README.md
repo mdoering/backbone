@@ -1,5 +1,4 @@
-Lactarius akanensis S. Imai SPECIES
-=======
+# Lactarius akanensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

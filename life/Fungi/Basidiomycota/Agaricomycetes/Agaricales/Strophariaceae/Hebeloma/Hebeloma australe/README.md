@@ -1,5 +1,4 @@
-Hebeloma australe Murrill SPECIES
-=======
+# Hebeloma australe Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seimatosporium ignobilis (Fautrey) Vanev SPECIES
-=======
+# Seimatosporium ignobilis (Fautrey) Vanev SPECIES
 
 #### Status
 ACCEPTED

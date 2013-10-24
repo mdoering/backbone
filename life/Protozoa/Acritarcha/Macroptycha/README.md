@@ -1,5 +1,4 @@
-Macroptycha Timofeev, 1973 ex Timofeev et al., 1976 GENUS
-=======
+# Macroptycha Timofeev, 1973 ex Timofeev et al., 1976 GENUS
 
 #### Status
 ACCEPTED

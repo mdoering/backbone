@@ -1,5 +1,4 @@
-Discina scrobiculata Fr. SPECIES
-=======
+# Discina scrobiculata Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula mariae var. mariae VARIETY
-=======
+# Russula mariae Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. & Proc. Roy. Soc. S. Australia 43: 275 (1919)
 
 #### Original name
-Russula mariae var. mariae
+Russula mariae Peck
 
 ### Remarks
 null

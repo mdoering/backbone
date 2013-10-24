@@ -1,5 +1,4 @@
-Hypocrella warneckeana Henn. SPECIES
-=======
+# Hypocrella warneckeana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amoeba striata Pen. SPECIES
-=======
+# Amoeba striata Pen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Osagia W.H. Twenhofel, 1919 GENUS
-=======
+# Osagia W.H. Twenhofel, 1919 GENUS
 
 #### Status
 ACCEPTED

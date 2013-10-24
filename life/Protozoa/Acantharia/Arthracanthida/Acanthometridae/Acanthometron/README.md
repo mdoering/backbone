@@ -1,5 +1,4 @@
-Acanthometron GENUS
-=======
+# Acanthometron GENUS
 
 #### Status
 ACCEPTED

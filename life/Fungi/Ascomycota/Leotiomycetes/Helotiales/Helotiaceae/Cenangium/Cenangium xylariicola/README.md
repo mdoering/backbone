@@ -1,5 +1,4 @@
-Cenangium xylariicola (Berk.) Sacc. & Traverso SPECIES
-=======
+# Cenangium xylariicola (Berk.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

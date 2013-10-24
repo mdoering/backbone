@@ -1,5 +1,4 @@
-Lecidea gneissacea Zahlbr. SPECIES
-=======
+# Lecidea gneissacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

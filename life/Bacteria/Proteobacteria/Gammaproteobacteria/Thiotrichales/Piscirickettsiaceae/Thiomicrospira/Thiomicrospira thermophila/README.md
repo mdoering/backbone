@@ -1,5 +1,4 @@
-Thiomicrospira thermophila Takai et al., 2004 SPECIES
-=======
+# Thiomicrospira thermophila Takai et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

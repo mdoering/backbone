@@ -1,5 +1,4 @@
-Teloschistes bioretii SPECIES
-=======
+# Teloschistes bioretii SPECIES
 
 #### Status
 ACCEPTED

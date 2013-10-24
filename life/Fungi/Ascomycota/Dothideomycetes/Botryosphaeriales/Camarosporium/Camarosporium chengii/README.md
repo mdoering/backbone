@@ -1,5 +1,4 @@
-Camarosporium chengii Gucevic SPECIES
-=======
+# Camarosporium chengii Gucevic SPECIES
 
 #### Status
 ACCEPTED

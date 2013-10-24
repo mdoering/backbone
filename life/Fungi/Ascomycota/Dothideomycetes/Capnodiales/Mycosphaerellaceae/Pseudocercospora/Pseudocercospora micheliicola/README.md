@@ -1,5 +1,4 @@
-Pseudocercospora micheliicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora micheliicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

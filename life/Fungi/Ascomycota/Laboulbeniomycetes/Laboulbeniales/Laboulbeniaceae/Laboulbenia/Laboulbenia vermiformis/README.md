@@ -1,5 +1,4 @@
-Laboulbenia vermiformis Balazuc SPECIES
-=======
+# Laboulbenia vermiformis Balazuc SPECIES
 
 #### Status
 ACCEPTED

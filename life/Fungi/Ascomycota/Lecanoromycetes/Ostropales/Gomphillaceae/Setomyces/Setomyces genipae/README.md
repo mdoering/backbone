@@ -1,5 +1,4 @@
-Setomyces genipae Bat. & Peres SPECIES
-=======
+# Setomyces genipae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

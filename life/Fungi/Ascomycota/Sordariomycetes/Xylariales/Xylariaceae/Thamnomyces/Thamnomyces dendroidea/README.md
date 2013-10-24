@@ -1,8 +1,7 @@
-Xylaria dendroidea (Cooke & Massee) Sacc., 1891 SPECIES
-=======
+# Thamnomyces dendroidea Cooke & Massee, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

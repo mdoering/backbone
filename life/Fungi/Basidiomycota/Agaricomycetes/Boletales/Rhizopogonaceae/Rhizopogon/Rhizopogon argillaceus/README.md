@@ -1,5 +1,4 @@
-Rhizopogon argillaceus A.H. Sm. SPECIES
-=======
+# Rhizopogon argillaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinioides aselli SPECIES
-=======
+# Gymnodinioides aselli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Copicyntra Nazarov & Ormiston, 1985 GENUS
-=======
+# Copicyntra Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

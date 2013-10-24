@@ -1,5 +1,4 @@
-Marasmius nocticolor De Seynes SPECIES
-=======
+# Marasmius nocticolor De Seynes SPECIES
 
 #### Status
 ACCEPTED

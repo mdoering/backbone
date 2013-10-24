@@ -1,5 +1,4 @@
-Gymnodinium scaphium Van Meel SPECIES
-=======
+# Gymnodinium scaphium Van Meel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha mesophlebia Nyl. SPECIES
-=======
+# Opegrapha mesophlebia Nyl. SPECIES
 
 #### Status
 ACCEPTED

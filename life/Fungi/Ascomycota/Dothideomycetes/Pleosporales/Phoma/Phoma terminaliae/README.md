@@ -1,5 +1,4 @@
-Phoma terminaliae Henn. SPECIES
-=======
+# Phoma terminaliae Henn. SPECIES
 
 #### Status
 ACCEPTED

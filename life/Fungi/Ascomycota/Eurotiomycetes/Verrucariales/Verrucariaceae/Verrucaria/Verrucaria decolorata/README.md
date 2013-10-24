@@ -1,5 +1,4 @@
-Verrucaria decolorata Fée SPECIES
-=======
+# Verrucaria decolorata Fée SPECIES
 
 #### Status
 ACCEPTED

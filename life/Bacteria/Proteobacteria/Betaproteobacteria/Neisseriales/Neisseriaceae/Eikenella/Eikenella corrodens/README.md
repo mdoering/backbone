@@ -1,11 +1,10 @@
-Bacteroides corrodens Eiken, 1958 SPECIES
-=======
+# Eikenella corrodens (Eiken, 1958) Jackson and Goodman, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

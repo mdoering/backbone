@@ -1,5 +1,4 @@
-Bacidia malayana Vain. SPECIES
-=======
+# Bacidia malayana Vain. SPECIES
 
 #### Status
 ACCEPTED

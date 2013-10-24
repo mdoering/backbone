@@ -1,5 +1,4 @@
-Streptomyces virginiae Grundy et al., 1952 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces virginiae Grundy et al., 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

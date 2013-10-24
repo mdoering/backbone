@@ -1,5 +1,4 @@
-Cortinarius rufior Reumaux SPECIES
-=======
+# Cortinarius rufior Reumaux SPECIES
 
 #### Status
 ACCEPTED

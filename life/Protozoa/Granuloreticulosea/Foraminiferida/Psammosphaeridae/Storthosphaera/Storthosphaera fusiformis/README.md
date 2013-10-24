@@ -1,5 +1,4 @@
-Storthosphaera fusiformis Wiesner, 1931 SPECIES
-=======
+# Storthosphaera fusiformis Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

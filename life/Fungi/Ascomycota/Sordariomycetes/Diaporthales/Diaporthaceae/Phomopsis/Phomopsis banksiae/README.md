@@ -1,5 +1,4 @@
-Phomopsis banksiae Novoss. SPECIES
-=======
+# Phomopsis banksiae Novoss. SPECIES
 
 #### Status
 ACCEPTED

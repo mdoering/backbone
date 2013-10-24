@@ -1,5 +1,4 @@
-Septonema orchidophilum var. orchidophilum VARIETY
-=======
+# Septonema orchidophilum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septonema orchidophilum var. orchidophilum
+Septonema orchidophilum Speg.
 
 ### Remarks
 null

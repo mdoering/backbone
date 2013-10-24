@@ -1,5 +1,4 @@
-Gyropodium GENUS
-=======
+# Gyropodium GENUS
 
 #### Status
 ACCEPTED

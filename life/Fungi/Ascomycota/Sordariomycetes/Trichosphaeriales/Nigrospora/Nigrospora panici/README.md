@@ -1,5 +1,4 @@
-Nigrospora panici Zimm., 1902 SPECIES
-=======
+# Nigrospora panici Zimm., 1902 SPECIES
 
 #### Status
 ACCEPTED

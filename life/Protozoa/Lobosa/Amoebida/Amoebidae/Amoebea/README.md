@@ -1,5 +1,4 @@
-Amoebea Gros, 1849 GENUS
-=======
+# Amoebea Gros, 1849 GENUS
 
 #### Status
 ACCEPTED

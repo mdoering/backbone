@@ -1,5 +1,4 @@
-Neoarachnotheca flexuosa ined. SPECIES
-=======
+# Neoarachnotheca flexuosa ined. SPECIES
 
 #### Status
 ACCEPTED

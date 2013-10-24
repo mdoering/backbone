@@ -1,5 +1,4 @@
-Poria rhododendri (Schwein.) Cooke SPECIES
-=======
+# Poria rhododendri (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

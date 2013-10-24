@@ -1,5 +1,4 @@
-Helvella nigra Velen. SPECIES
-=======
+# Helvella nigra Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius croceocoeruleus (Pers. Fr.) Fr. SPECIES
-=======
+# Cortinarius croceocoeruleus (Pers. Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia illota var. illota VARIETY
-=======
+# Stropharia illota (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

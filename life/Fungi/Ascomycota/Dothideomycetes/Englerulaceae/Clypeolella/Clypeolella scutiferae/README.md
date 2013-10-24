@@ -1,5 +1,4 @@
-Clypeolella scutiferae Rehm SPECIES
-=======
+# Clypeolella scutiferae Rehm SPECIES
 
 #### Status
 ACCEPTED

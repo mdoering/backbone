@@ -1,5 +1,4 @@
-Nosema shingidis SPECIES
-=======
+# Nosema shingidis SPECIES
 
 #### Status
 ACCEPTED

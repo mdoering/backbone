@@ -1,5 +1,4 @@
-Octaedryxium dentatum Timofeev, 1973 SPECIES
-=======
+# Octaedryxium dentatum Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

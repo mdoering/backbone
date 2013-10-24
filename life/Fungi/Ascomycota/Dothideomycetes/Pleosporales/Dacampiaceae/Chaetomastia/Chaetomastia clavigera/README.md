@@ -1,5 +1,4 @@
-Chaetomastia clavigera (Cooke & Ellis) Huhndorf SPECIES
-=======
+# Chaetomastia clavigera (Cooke & Ellis) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

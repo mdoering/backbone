@@ -1,5 +1,4 @@
-Pyrenopsis australiensis Müll. Arg. SPECIES
-=======
+# Pyrenopsis australiensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

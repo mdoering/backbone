@@ -1,8 +1,7 @@
-Valsaria theisseni Rehm SPECIES
-=======
+# Valsaria theissenii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsaria theisseni Rehm
+Valsaria theissenii Rehm
 
 ### Remarks
 null

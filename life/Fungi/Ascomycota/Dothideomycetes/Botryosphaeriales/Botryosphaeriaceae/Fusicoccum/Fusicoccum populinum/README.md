@@ -1,5 +1,4 @@
-Fusicoccum populinum Delacr. SPECIES
-=======
+# Fusicoccum populinum Delacr. SPECIES
 
 #### Status
 ACCEPTED

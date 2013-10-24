@@ -1,5 +1,4 @@
-Graphina multistriata Müll. Arg. SPECIES
-=======
+# Graphina multistriata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

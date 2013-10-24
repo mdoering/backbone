@@ -1,5 +1,4 @@
-Metadiplodia ramulicola f. ramulicola FORM
-=======
+# Metadiplodia ramulicola (Desm.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 70: 292 (1955)
 
 #### Original name
-Metadiplodia ramulicola f. ramulicola
+Diplodia ramulicola Sacc., 1850
 
 ### Remarks
 null

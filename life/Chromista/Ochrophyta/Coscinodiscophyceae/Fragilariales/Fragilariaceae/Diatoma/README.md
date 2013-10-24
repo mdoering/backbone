@@ -1,5 +1,4 @@
-Diatoma Bory de Saint-Vincent, 1824 GENUS
-=======
+# Diatoma Bory de Saint-Vincent, 1824 GENUS
 
 #### Status
 ACCEPTED

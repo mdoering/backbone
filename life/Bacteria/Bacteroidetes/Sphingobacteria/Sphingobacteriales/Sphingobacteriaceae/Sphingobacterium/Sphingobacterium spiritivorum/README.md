@@ -1,8 +1,7 @@
-Flavobacterium spiritivorum Holmes et al., 1982 SPECIES
-=======
+# Sphingobacterium spiritivorum (Holmes et al., 1982) Yabuuchi et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

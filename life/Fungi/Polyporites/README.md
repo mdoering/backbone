@@ -1,5 +1,4 @@
-Polyporites Daugherty, 1941 GENUS
-=======
+# Polyporites Daugherty, 1941 GENUS
 
 #### Status
 ACCEPTED

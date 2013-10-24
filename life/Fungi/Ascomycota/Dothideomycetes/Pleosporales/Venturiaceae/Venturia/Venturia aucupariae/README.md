@@ -1,5 +1,4 @@
-Venturia aucupariae (Lasch) O. Rostr., 1913 SPECIES
-=======
+# Venturia aucupariae (Lasch) O. Rostr., 1913 SPECIES
 
 #### Status
 ACCEPTED

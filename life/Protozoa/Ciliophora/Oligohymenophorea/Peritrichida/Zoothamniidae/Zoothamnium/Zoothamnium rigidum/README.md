@@ -1,5 +1,4 @@
-Zoothamnium rigidum Precht, 1935 SPECIES
-=======
+# Zoothamnium rigidum Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypnodinium monodisparatum Hilgert SPECIES
-=======
+# Hypnodinium monodisparatum Hilgert SPECIES
 
 #### Status
 ACCEPTED

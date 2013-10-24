@@ -1,14 +1,13 @@
-Skeletocutis stramenticus (G. Cunn.) Rajchenb. SPECIES
-=======
+# Skeletocutis stramentica (G. Cunn.) Rajchenb., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 33(1): 105 (1995)
 
 #### Original name
 Tyromyces stramenticus G. Cunn., 1965

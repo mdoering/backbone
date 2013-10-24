@@ -1,5 +1,4 @@
-Torula epistromata Cif. SPECIES
-=======
+# Torula epistromata Cif. SPECIES
 
 #### Status
 ACCEPTED

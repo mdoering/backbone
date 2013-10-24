@@ -1,5 +1,4 @@
-Endoxyla austriaca Bäumler SPECIES
-=======
+# Endoxyla austriaca Bäumler SPECIES
 
 #### Status
 ACCEPTED

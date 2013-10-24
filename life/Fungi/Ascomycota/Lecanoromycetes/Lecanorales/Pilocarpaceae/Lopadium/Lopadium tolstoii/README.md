@@ -1,5 +1,4 @@
-Lopadium tolstoii H. Magn. SPECIES
-=======
+# Lopadium tolstoii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

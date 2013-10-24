@@ -1,5 +1,4 @@
-Septocylindrium suspectum Massee SPECIES
-=======
+# Septocylindrium suspectum Massee SPECIES
 
 #### Status
 ACCEPTED

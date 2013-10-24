@@ -1,5 +1,4 @@
-Erysiphe floccosa (Piroz.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe floccosa (Piroz.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius grammoloma E.H.L. Krause SPECIES
-=======
+# Lactarius grammoloma E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

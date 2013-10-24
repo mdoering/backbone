@@ -1,5 +1,4 @@
-Inocybe strobilomyces E. Horak, 1978 SPECIES
-=======
+# Inocybe strobilomyces E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

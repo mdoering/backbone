@@ -1,17 +1,16 @@
-Sporotrichum fiedleri Rabenh., 1851 SPECIES
-=======
+# Nodulisporium geochroum (Desm.) Stalpers, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 669 (1851)
+in Stalpers, Stud. Mycol. 24: 58 (1984)
 
 #### Original name
-Sporotrichum fiedleri Rabenh., 1851
+Sporotrichum geochroum Desm., 1832
 
 ### Remarks
 null

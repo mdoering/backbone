@@ -1,5 +1,4 @@
-Ophiocapnodium usteri (Speg.) Speg. SPECIES
-=======
+# Ophiocapnodium usteri (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

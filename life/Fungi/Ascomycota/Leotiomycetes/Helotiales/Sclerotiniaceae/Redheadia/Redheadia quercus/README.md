@@ -1,5 +1,4 @@
-Redheadia quercus Y. Suto & Suyama, 2005 SPECIES
-=======
+# Redheadia quercus Y. Suto & Suyama, 2005 SPECIES
 
 #### Status
 ACCEPTED

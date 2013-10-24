@@ -1,5 +1,4 @@
-Cortinarius renidentoides Rob. Henry SPECIES
-=======
+# Cortinarius renidentoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

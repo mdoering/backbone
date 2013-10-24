@@ -1,5 +1,4 @@
-Phibalis pinastri (Cooke & Peck) Korf & L.M. Kohn SPECIES
-=======
+# Phibalis pinastri (Cooke & Peck) Korf & L.M. Kohn SPECIES
 
 #### Status
 ACCEPTED

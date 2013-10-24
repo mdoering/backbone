@@ -1,5 +1,4 @@
-Opegrapha allorgei B. de Lesd. SPECIES
-=======
+# Opegrapha allorgei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

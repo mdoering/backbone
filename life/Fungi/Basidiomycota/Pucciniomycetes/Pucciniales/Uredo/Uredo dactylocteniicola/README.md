@@ -1,5 +1,4 @@
-Uredo dactylocteniicola Speg. SPECIES
-=======
+# Uredo dactylocteniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cheiromycella occidentalis anon. SPECIES
-=======
+# Cheiromycella occidentalis anon. SPECIES
 
 #### Status
 ACCEPTED

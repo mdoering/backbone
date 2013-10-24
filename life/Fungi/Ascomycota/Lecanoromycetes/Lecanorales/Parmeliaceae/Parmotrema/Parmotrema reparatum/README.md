@@ -1,17 +1,16 @@
-Parmelia virens f. virens Müll. Arg. FORM
-=======
+# Parmotrema reparatum (Stirt.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 69: 255 (1886)
+Mycologia 97(1): 157 (2005)
 
 #### Original name
-Parmelia virens f. virens Müll. Arg.
+Parmelia reparata Stirt.
 
 ### Remarks
 null

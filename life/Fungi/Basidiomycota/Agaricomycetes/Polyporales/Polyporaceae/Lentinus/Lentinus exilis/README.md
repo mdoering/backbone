@@ -1,5 +1,4 @@
-Lentinus exilis Klotzsch SPECIES
-=======
+# Lentinus exilis Klotzsch SPECIES
 
 #### Status
 ACCEPTED

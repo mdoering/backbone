@@ -1,5 +1,4 @@
-Stauracturium Haeckel, 1887 GENUS
-=======
+# Stauracturium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

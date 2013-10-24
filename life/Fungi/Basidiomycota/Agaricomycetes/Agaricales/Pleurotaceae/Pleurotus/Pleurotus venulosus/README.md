@@ -1,5 +1,4 @@
-Pleurotus venulosus (Lév.) Sacc. SPECIES
-=======
+# Pleurotus venulosus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

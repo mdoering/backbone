@@ -1,5 +1,4 @@
-Lichinales Henssen & Büdel ORDER
-=======
+# Lichinales Henssen & Büdel ORDER
 
 #### Status
 ACCEPTED

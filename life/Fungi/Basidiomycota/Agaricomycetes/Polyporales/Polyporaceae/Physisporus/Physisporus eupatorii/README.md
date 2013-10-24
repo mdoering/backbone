@@ -1,5 +1,4 @@
-Physisporus eupatorii P. Karst. SPECIES
-=======
+# Physisporus eupatorii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

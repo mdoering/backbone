@@ -1,5 +1,4 @@
-Mycosphaerella campanulae (Ellis & Kellerm.) Naumov SPECIES
-=======
+# Mycosphaerella campanulae (Ellis & Kellerm.) Naumov SPECIES
 
 #### Status
 ACCEPTED

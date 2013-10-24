@@ -1,5 +1,4 @@
-Diaporthe ligustrina Petr. SPECIES
-=======
+# Diaporthe ligustrina Petr. SPECIES
 
 #### Status
 ACCEPTED

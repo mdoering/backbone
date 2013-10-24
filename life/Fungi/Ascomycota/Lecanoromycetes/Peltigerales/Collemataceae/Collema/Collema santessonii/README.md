@@ -1,5 +1,4 @@
-Collema santessonii Degel. SPECIES
-=======
+# Collema santessonii Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza meleagris (Ellis) Raitv. SPECIES
-=======
+# Trichopeziza meleagris (Ellis) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Icosasparium Haeckel, 1887 GENUS
-=======
+# Icosasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

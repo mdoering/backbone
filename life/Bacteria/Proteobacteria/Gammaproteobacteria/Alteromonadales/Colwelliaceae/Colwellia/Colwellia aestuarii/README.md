@@ -1,5 +1,4 @@
-Colwellia aestuarii Jung et al., 2006 SPECIES
-=======
+# Colwellia aestuarii Jung et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

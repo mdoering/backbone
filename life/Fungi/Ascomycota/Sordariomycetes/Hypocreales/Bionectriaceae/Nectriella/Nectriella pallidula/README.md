@@ -1,5 +1,4 @@
-Nectriella pallidula Penz. & Sacc. SPECIES
-=======
+# Nectriella pallidula Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

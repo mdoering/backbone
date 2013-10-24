@@ -1,17 +1,16 @@
-Meliola evodiicola Hansf. SPECIES
-=======
+# Meliola euodiicola Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Reinwardtia 3: 105 (1954)
 
 #### Original name
-Meliola evodiicola Hansf.
+Meliola euodiicola Hansf.
 
 ### Remarks
 null

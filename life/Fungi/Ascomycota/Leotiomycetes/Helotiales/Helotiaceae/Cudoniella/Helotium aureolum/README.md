@@ -1,5 +1,4 @@
-Helotium aureolum Sacc. SPECIES
-=======
+# Helotium aureolum Sacc. SPECIES
 
 #### Status
 ACCEPTED

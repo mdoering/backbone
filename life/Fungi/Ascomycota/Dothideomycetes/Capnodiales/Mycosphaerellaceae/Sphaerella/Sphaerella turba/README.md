@@ -1,5 +1,4 @@
-Sphaerella turba Fuckel SPECIES
-=======
+# Sphaerella turba Fuckel SPECIES
 
 #### Status
 ACCEPTED

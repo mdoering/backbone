@@ -1,5 +1,4 @@
-Gnomonia trientensis M. Monod SPECIES
-=======
+# Gnomonia trientensis M. Monod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius croceus Burl. SPECIES
-=======
+# Lactarius croceus Burl. SPECIES
 
 #### Status
 ACCEPTED

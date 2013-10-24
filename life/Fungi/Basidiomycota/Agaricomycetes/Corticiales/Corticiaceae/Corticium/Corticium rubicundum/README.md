@@ -1,5 +1,4 @@
-Corticium rubicundum Burt SPECIES
-=======
+# Corticium rubicundum Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium vaccae Bönicke and Juhasz, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium vaccae Bönicke and Juhasz, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

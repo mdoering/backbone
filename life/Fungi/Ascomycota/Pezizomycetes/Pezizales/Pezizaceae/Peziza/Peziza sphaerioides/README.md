@@ -1,5 +1,4 @@
-Peziza sphaerioides Pers. SPECIES
-=======
+# Peziza sphaerioides Pers. SPECIES
 
 #### Status
 ACCEPTED

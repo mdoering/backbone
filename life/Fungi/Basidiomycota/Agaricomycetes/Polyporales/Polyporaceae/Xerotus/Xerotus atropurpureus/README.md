@@ -1,5 +1,4 @@
-Xerotus atropurpureus Speg. SPECIES
-=======
+# Xerotus atropurpureus Speg. SPECIES
 
 #### Status
 ACCEPTED

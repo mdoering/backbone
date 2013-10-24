@@ -1,5 +1,4 @@
-Melampsoridium indicum Sathe SPECIES
-=======
+# Melampsoridium indicum Sathe SPECIES
 
 #### Status
 ACCEPTED

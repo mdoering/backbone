@@ -1,5 +1,4 @@
-Metatrichia Ing, 1964 GENUS
-=======
+# Metatrichia Ing, 1964 GENUS
 
 #### Status
 ACCEPTED

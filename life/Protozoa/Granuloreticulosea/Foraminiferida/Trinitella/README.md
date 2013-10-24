@@ -1,5 +1,4 @@
-Trinitella Brönnimann, 1952 GENUS
-=======
+# Trinitella Brönnimann, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zeora aurantiaca (Lightf.) Flot. SPECIES
-=======
+# Zeora aurantiaca (Lightf.) Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella riparia (Vain.) SPECIES
-=======
+# Dimerella riparia (Vain.) SPECIES
 
 #### Status
 ACCEPTED

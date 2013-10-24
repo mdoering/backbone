@@ -1,5 +1,4 @@
-Spermatodium chioneum Trevis. SPECIES
-=======
+# Spermatodium chioneum Trevis. SPECIES
 
 #### Status
 ACCEPTED

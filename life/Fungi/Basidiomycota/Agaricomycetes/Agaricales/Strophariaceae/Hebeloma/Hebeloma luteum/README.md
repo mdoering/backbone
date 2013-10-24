@@ -1,5 +1,4 @@
-Hebeloma luteum Murrill SPECIES
-=======
+# Hebeloma luteum Murrill SPECIES
 
 #### Status
 ACCEPTED

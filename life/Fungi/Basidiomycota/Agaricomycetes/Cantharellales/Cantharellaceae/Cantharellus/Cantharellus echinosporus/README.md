@@ -1,5 +1,4 @@
-Cantharellus echinosporus Velen. SPECIES
-=======
+# Cantharellus echinosporus Velen. SPECIES
 
 #### Status
 ACCEPTED

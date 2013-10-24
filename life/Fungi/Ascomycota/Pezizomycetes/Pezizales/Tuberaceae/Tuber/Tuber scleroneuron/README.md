@@ -1,5 +1,4 @@
-Tuber scleroneuron Berk. & Broome, 1851 SPECIES
-=======
+# Tuber scleroneuron Berk. & Broome, 1851 SPECIES
 
 #### Status
 ACCEPTED

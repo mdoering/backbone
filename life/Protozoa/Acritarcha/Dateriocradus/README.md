@@ -1,5 +1,4 @@
-Dateriocradus H.Tappan & A.R.Loeblich Jr., 1972 GENUS
-=======
+# Dateriocradus H.Tappan & A.R.Loeblich Jr., 1972 GENUS
 
 #### Status
 ACCEPTED

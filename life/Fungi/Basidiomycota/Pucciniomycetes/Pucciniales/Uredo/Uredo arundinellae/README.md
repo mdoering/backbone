@@ -1,5 +1,4 @@
-Uredo arundinellae Arthur & Holw. SPECIES
-=======
+# Uredo arundinellae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

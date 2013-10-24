@@ -1,5 +1,4 @@
-Trogia montagnei Fr. SPECIES
-=======
+# Trogia montagnei Fr. SPECIES
 
 #### Status
 ACCEPTED

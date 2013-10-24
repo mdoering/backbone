@@ -1,5 +1,4 @@
-Scolecopeltidella palmarum J.M. Mend. SPECIES
-=======
+# Scolecopeltidella palmarum J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

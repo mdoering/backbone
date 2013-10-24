@@ -1,5 +1,4 @@
-Graphis rhabdotis (Fée) Spreng. SPECIES
-=======
+# Graphis rhabdotis (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

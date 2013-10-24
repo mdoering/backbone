@@ -1,5 +1,4 @@
-Rinodina terrestris Tomin SPECIES
-=======
+# Rinodina terrestris Tomin SPECIES
 
 #### Status
 ACCEPTED

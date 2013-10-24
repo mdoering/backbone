@@ -1,5 +1,4 @@
-Graphis rockii Redinger SPECIES
-=======
+# Graphis rockii Redinger SPECIES
 
 #### Status
 ACCEPTED

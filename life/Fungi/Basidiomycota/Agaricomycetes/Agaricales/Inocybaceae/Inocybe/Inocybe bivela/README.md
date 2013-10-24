@@ -1,5 +1,4 @@
-Inocybe bivela Kühner SPECIES
-=======
+# Inocybe bivela Kühner SPECIES
 
 #### Status
 ACCEPTED

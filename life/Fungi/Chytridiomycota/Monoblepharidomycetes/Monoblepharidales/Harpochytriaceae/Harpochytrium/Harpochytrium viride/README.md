@@ -1,5 +1,4 @@
-Harpochytrium viride Scherff. SPECIES
-=======
+# Harpochytrium viride Scherff. SPECIES
 
 #### Status
 ACCEPTED

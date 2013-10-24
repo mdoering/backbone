@@ -1,5 +1,4 @@
-Cortinarius pseudoarmeniacoides Carteret & Reumaux SPECIES
-=======
+# Cortinarius pseudoarmeniacoides Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

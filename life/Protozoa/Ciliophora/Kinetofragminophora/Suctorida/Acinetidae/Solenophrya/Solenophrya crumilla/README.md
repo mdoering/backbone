@@ -1,5 +1,4 @@
-Solenophrya crumilla Dumas, 1930 SPECIES
-=======
+# Solenophrya crumilla Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

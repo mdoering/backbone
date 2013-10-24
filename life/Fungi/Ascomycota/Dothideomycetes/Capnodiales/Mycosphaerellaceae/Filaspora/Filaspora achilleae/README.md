@@ -1,5 +1,4 @@
-Filaspora achilleae (Bres.) Kuntze SPECIES
-=======
+# Filaspora achilleae (Bres.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma albogranulosum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma albogranulosum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

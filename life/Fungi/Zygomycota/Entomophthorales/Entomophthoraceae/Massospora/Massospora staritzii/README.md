@@ -1,5 +1,4 @@
-Massospora staritzii Bres. SPECIES
-=======
+# Massospora staritzii Bres. SPECIES
 
 #### Status
 ACCEPTED

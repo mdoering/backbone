@@ -1,5 +1,4 @@
-Macrophoma cocos Pass. SPECIES
-=======
+# Macrophoma cocos Pass. SPECIES
 
 #### Status
 ACCEPTED

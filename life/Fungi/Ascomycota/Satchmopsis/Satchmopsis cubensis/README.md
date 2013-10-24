@@ -1,5 +1,4 @@
-Satchmopsis cubensis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Satchmopsis cubensis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctema buffoniae Mont. SPECIES
-=======
+# Phlyctema buffoniae Mont. SPECIES
 
 #### Status
 ACCEPTED

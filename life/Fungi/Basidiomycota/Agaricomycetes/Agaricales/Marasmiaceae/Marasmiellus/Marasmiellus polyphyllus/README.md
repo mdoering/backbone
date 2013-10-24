@@ -1,5 +1,4 @@
-Marasmiellus polyphyllus Singer SPECIES
-=======
+# Marasmiellus polyphyllus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia junci var. junci VARIETY
-=======
+# Puccinia junci (F. Strauss) G. Winter, 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Am. phil. Soc. , New Series 4: 295 (1832)
 
 #### Original name
-Puccinia junci var. junci
+Puccinia junci (F. Strauss) G. Winter, 1880
 
 ### Remarks
 null

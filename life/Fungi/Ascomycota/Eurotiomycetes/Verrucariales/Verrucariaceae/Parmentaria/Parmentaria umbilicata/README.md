@@ -1,17 +1,16 @@
-Pyrenula subumbilicata (C. Knight) Aptroot SPECIES
-=======
+# Parmentaria umbilicata (C. Knight) Shirley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Australasian Lichenology 60: 39 (2007)
+Lich. Fl. Queensland 4: 161 (1889)
 
 #### Original name
-Trypethelium subumbilicatum C. Knight
+Trypethelium umbilicatum Fr.
 
 ### Remarks
 null

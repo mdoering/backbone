@@ -1,5 +1,4 @@
-Multicellaesporites capsularis Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites capsularis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

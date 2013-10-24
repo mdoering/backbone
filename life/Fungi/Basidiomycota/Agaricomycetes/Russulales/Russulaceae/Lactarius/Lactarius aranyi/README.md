@@ -1,5 +1,4 @@
-Lactarius aranyi Schulzer SPECIES
-=======
+# Lactarius aranyi Schulzer SPECIES
 
 #### Status
 ACCEPTED

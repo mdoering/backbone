@@ -1,14 +1,13 @@
-Pseudoarachniotus aurantiacus Kamyschko, 1967 SPECIES
-=======
+# Arachniotus aurantiacus (Kamyschko) Arx, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1967 224 (1967)
+Persoonia 6(3): 373 (1971)
 
 #### Original name
 Pseudoarachniotus aurantiacus Kamyschko, 1967

@@ -1,5 +1,4 @@
-Pestalotia everhartii Sacc. SPECIES
-=======
+# Pestalotia everhartii Sacc. SPECIES
 
 #### Status
 ACCEPTED

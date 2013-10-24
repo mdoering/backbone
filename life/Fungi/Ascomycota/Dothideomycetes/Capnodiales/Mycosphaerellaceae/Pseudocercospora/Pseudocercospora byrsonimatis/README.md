@@ -1,5 +1,4 @@
-Pseudocercospora byrsonimatis (Maubl.) U. Braun & Mouch. SPECIES
-=======
+# Pseudocercospora byrsonimatis (Maubl.) U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

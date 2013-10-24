@@ -1,5 +1,4 @@
-Histioneis dolon Murray & Whitting, 1899 SPECIES
-=======
+# Histioneis dolon Murray & Whitting, 1899 SPECIES
 
 #### Status
 ACCEPTED

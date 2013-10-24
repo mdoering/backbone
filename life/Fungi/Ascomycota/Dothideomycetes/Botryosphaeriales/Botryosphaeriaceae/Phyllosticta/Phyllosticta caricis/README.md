@@ -1,5 +1,4 @@
-Phyllosticta caricis (Fuckel) Sacc. SPECIES
-=======
+# Phyllosticta caricis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

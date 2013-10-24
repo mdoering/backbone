@@ -1,5 +1,4 @@
-Panus suborbicularis Berk. & Broome SPECIES
-=======
+# Panus suborbicularis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

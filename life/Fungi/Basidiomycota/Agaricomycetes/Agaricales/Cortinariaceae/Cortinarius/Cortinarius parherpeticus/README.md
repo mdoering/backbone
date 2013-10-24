@@ -1,5 +1,4 @@
-Cortinarius parherpeticus Rob. Henry SPECIES
-=======
+# Cortinarius parherpeticus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

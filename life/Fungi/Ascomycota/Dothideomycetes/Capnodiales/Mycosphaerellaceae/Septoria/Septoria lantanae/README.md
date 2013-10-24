@@ -1,5 +1,4 @@
-Septoria lantanae Garman SPECIES
-=======
+# Septoria lantanae Garman SPECIES
 
 #### Status
 ACCEPTED

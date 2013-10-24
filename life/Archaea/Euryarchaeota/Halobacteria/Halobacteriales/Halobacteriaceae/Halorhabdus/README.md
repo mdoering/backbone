@@ -1,5 +1,4 @@
-Halorhabdus Wainø et al., 2000 GENUS
-=======
+# Halorhabdus Wainø et al., 2000 GENUS
 
 #### Status
 ACCEPTED

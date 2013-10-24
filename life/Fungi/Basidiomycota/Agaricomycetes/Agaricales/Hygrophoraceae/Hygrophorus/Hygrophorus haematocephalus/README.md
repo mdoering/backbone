@@ -1,5 +1,4 @@
-Hygrophorus haematocephalus Berk. & M.A. Curtis SPECIES
-=======
+# Hygrophorus haematocephalus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia sesleriae Juel SPECIES
-=======
+# Tilletia sesleriae Juel SPECIES
 
 #### Status
 ACCEPTED

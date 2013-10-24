@@ -1,5 +1,4 @@
-Streptomyces pseudogriseolus Okami and Umezawa, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces pseudogriseolus Okami and Umezawa, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lophiostoma macrostomoides subsp. macrostomoides SUBSPECIES
-=======
+# Thyridaria macrostomoides (De Not.) M.E. Barr, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schem. di Classif. Sferiacei 219 (1863)
+N. Amer. Fl. (New York), Ser. 2 13: 34 (1990)
 
 #### Original name
-Lophiostoma macrostomoides subsp. macrostomoides
+Lophiostoma macrostomoides De Not., 1863
 
 ### Remarks
 null

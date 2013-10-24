@@ -1,5 +1,4 @@
-Opegrapha prominuloides Zahlbr. SPECIES
-=======
+# Opegrapha prominuloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

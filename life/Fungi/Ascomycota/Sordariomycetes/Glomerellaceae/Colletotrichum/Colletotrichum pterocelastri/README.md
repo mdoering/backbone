@@ -1,5 +1,4 @@
-Colletotrichum pterocelastri Wakef. SPECIES
-=======
+# Colletotrichum pterocelastri Wakef. SPECIES
 
 #### Status
 ACCEPTED

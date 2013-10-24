@@ -1,5 +1,4 @@
-Asteromella paliuri (Lév.) Arx SPECIES
-=======
+# Asteromella paliuri (Lév.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus lacteus (Fr.) Bonord. SPECIES
-=======
+# Hypochnus lacteus (Fr.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

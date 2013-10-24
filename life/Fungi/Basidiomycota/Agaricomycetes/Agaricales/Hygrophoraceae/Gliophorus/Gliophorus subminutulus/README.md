@@ -1,5 +1,4 @@
-Gliophorus subminutulus (Murrill) Kovalenko SPECIES
-=======
+# Gliophorus subminutulus (Murrill) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

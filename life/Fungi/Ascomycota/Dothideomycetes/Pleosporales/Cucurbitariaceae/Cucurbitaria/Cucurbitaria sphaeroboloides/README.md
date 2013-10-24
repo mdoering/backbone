@@ -1,14 +1,13 @@
-Cucurbitaria sphaerobolodes (Starbäck) Kuntze SPECIES
-=======
+# Cucurbitaria sphaeroboloides (Starbäck) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 461 (1898)
 
 #### Original name
 Nectria sphaeroboloides Starbäck

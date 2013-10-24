@@ -1,5 +1,4 @@
-Sphaerella chionanthi (Berk. & Broome) Cooke SPECIES
-=======
+# Sphaerella chionanthi (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe praeandina Singer SPECIES
-=======
+# Clitocybe praeandina Singer SPECIES
 
 #### Status
 ACCEPTED

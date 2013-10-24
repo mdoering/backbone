@@ -1,5 +1,4 @@
-Sphaerella cicutae Kirchn. SPECIES
-=======
+# Sphaerella cicutae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

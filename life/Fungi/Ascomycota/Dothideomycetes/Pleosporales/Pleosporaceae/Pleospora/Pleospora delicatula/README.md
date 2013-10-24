@@ -1,5 +1,4 @@
-Pleospora delicatula (Vestergr.) Wehm. SPECIES
-=======
+# Pleospora delicatula (Vestergr.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

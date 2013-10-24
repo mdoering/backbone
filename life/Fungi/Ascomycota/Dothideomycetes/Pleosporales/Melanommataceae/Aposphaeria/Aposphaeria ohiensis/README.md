@@ -1,5 +1,4 @@
-Aposphaeria ohiensis Ellis & Everh. SPECIES
-=======
+# Aposphaeria ohiensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

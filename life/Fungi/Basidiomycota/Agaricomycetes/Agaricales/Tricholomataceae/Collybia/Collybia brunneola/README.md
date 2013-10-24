@@ -1,5 +1,4 @@
-Collybia brunneola Vilgalys & O.K. Mill. SPECIES
-=======
+# Collybia brunneola Vilgalys & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus socialis Vishniac SPECIES
-=======
+# Cryptococcus socialis Vishniac SPECIES
 
 #### Status
 ACCEPTED

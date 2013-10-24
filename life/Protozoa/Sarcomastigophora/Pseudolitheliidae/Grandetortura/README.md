@@ -1,5 +1,4 @@
-Grandetortura Sashida & Tonishi, 1991 GENUS
-=======
+# Grandetortura Sashida & Tonishi, 1991 GENUS
 
 #### Status
 ACCEPTED

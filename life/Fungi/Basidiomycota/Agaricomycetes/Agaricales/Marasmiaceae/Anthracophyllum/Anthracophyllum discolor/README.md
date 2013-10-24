@@ -1,14 +1,13 @@
-Xerotus discolor Mont., 1850 SPECIES
-=======
+# Anthracophyllum discolor (Mont.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gay, Fl. Chil. 7: 353 (1850)
+Lilloa 22: 206 (1951)
 
 #### Original name
 Xerotus discolor Mont., 1850

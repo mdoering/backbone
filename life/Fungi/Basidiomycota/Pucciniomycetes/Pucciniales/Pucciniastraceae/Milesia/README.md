@@ -1,5 +1,4 @@
-Milesia F.B. White, 1878 GENUS
-=======
+# Milesia F.B. White, 1878 GENUS
 
 #### Status
 ACCEPTED

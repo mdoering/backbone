@@ -1,5 +1,4 @@
-Clitopilus erythrosporus Peck SPECIES
-=======
+# Clitopilus erythrosporus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhopalomyces candidus Berk. & Broome, 1851 SPECIES
-=======
+# Rhopalomyces candidus Berk. & Broome, 1851 SPECIES
 
 #### Status
 ACCEPTED

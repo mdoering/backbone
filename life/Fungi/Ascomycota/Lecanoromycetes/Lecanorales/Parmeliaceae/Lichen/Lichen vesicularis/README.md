@@ -1,5 +1,4 @@
-Lichen vesicularis Hoffm. SPECIES
-=======
+# Lichen vesicularis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

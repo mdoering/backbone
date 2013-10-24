@@ -1,5 +1,4 @@
-Mycena rhaeborrhiza (Lasch) P. Kumm. SPECIES
-=======
+# Mycena rhaeborrhiza (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

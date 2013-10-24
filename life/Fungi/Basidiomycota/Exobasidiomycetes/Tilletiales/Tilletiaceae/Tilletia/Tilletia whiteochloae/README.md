@@ -1,5 +1,4 @@
-Tilletia whiteochloae R.G. Shivas & Vánky, 2001 SPECIES
-=======
+# Tilletia whiteochloae R.G. Shivas & Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon areolatum Schaeff. SPECIES
-=======
+# Lycoperdon areolatum Schaeff. SPECIES
 
 #### Status
 ACCEPTED

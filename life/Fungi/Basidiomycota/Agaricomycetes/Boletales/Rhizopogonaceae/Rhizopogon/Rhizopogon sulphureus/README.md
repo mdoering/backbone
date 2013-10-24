@@ -1,5 +1,4 @@
-Rhizopogon sulphureus Velen. SPECIES
-=======
+# Rhizopogon sulphureus Velen. SPECIES
 
 #### Status
 ACCEPTED

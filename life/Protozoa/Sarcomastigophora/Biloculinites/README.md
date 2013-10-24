@@ -1,5 +1,4 @@
-Biloculinites Rahaghi, 1983 GENUS
-=======
+# Biloculinites Rahaghi, 1983 GENUS
 
 #### Status
 ACCEPTED

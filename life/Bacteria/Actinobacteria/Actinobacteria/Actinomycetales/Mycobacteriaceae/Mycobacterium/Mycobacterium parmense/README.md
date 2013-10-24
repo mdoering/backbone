@@ -1,5 +1,4 @@
-Mycobacterium parmense Fanti et al., 2004 SPECIES
-=======
+# Mycobacterium parmense Fanti et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

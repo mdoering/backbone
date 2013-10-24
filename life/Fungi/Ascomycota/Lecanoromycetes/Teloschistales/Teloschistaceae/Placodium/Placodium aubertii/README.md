@@ -1,5 +1,4 @@
-Placodium aubertii (B. de Lesd.) SPECIES
-=======
+# Placodium aubertii (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

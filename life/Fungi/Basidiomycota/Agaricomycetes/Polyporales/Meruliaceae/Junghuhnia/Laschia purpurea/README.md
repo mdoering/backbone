@@ -1,5 +1,4 @@
-Laschia purpurea Berk. & M.A. Curtis SPECIES
-=======
+# Laschia purpurea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

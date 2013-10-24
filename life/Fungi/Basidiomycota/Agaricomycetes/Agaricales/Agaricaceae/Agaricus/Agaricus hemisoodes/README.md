@@ -1,5 +1,4 @@
-Agaricus hemisoodes Berk. SPECIES
-=======
+# Agaricus hemisoodes Berk. SPECIES
 
 #### Status
 ACCEPTED

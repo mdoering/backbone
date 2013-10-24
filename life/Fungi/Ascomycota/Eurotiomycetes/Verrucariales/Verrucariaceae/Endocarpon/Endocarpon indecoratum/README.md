@@ -1,5 +1,4 @@
-Endocarpon indecoratum Sommerf. SPECIES
-=======
+# Endocarpon indecoratum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

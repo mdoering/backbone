@@ -1,5 +1,4 @@
-Biatorella lapponica (Ach.) Almq. SPECIES
-=======
+# Biatorella lapponica (Ach.) Almq. SPECIES
 
 #### Status
 ACCEPTED

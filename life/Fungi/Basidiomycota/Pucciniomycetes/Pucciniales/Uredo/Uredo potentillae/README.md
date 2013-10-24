@@ -1,5 +1,4 @@
-Uredo potentillae Schumach. SPECIES
-=======
+# Uredo potentillae Schumach. SPECIES
 
 #### Status
 ACCEPTED

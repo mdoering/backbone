@@ -1,5 +1,4 @@
-Mycosphaerella cinxia (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella cinxia (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

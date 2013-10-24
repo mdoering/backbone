@@ -1,5 +1,4 @@
-Puccinia rhytismoides Johanson SPECIES
-=======
+# Puccinia rhytismoides Johanson SPECIES
 
 #### Status
 ACCEPTED

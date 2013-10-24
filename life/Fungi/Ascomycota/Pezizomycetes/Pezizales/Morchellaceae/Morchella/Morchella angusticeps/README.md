@@ -1,17 +1,16 @@
-Morchella angusticeps var. ovoideobrunnea C.J. Mu VARIETY
-=======
+# Morchella angusticeps Peck, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycol. Sin. 6(2): 122 (1987)
+Bull. N. Y. St. Mus. 2: 19 (1887)
 
 #### Original name
-Morchella angusticeps var. ovoideobrunnea C.J. Mu
+Morchella angusticeps Peck, 1887
 
 ### Remarks
 null

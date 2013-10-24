@@ -1,5 +1,4 @@
-Hypocrella japonica Lloyd SPECIES
-=======
+# Hypocrella japonica Lloyd SPECIES
 
 #### Status
 ACCEPTED

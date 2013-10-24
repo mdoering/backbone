@@ -1,5 +1,4 @@
-Plicatofusa L.I. Sheshegova, 1984 GENUS
-=======
+# Plicatofusa L.I. Sheshegova, 1984 GENUS
 
 #### Status
 ACCEPTED

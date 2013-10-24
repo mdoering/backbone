@@ -1,5 +1,4 @@
-Diplodia antiqua Pass. SPECIES
-=======
+# Diplodia antiqua Pass. SPECIES
 
 #### Status
 ACCEPTED

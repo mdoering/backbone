@@ -1,5 +1,4 @@
-Sordaria arenicola Grove, 1930 SPECIES
-=======
+# Sordaria arenicola Grove, 1930 SPECIES
 
 #### Status
 ACCEPTED

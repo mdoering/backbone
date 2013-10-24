@@ -1,5 +1,4 @@
-Haplophragmoides hancocki SPECIES
-=======
+# Haplophragmoides hancocki SPECIES
 
 #### Status
 ACCEPTED

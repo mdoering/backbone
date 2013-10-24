@@ -1,5 +1,4 @@
-Stigmatidium candidum (Müll. Arg.) Stizenb. SPECIES
-=======
+# Stigmatidium candidum (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

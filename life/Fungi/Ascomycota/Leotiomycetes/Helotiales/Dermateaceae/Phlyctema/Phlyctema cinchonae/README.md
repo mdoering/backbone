@@ -1,5 +1,4 @@
-Phlyctema cinchonae Vincens SPECIES
-=======
+# Phlyctema cinchonae Vincens SPECIES
 
 #### Status
 ACCEPTED

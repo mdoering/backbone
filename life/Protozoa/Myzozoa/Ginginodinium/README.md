@@ -1,5 +1,4 @@
-Ginginodinium Cookson & Eisenack GENUS
-=======
+# Ginginodinium Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

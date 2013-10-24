@@ -1,17 +1,16 @@
-Helotium robustius f. robustius FORM
-=======
+# Hymenoscyphus robustior (P. Karst.) Dennis, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 119 (1871)
+Persoonia 3(1): 75 (1964)
 
 #### Original name
-Helotium robustius f. robustius
+null
 
 ### Remarks
 null

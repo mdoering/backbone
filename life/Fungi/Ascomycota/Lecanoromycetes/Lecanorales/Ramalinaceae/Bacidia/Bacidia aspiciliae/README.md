@@ -1,5 +1,4 @@
-Bacidia aspiciliae H. Olivier SPECIES
-=======
+# Bacidia aspiciliae H. Olivier SPECIES
 
 #### Status
 ACCEPTED

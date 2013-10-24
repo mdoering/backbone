@@ -1,5 +1,4 @@
-Cephalotrichum tessulatum (Sacc.) Kuntze SPECIES
-=======
+# Cephalotrichum tessulatum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

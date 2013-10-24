@@ -1,5 +1,4 @@
-Galerina macquariensis A.H. Sm. & Singer SPECIES
-=======
+# Galerina macquariensis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

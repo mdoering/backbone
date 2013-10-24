@@ -1,5 +1,4 @@
-Xeromphalina tropicalis Singer SPECIES
-=======
+# Xeromphalina tropicalis Singer SPECIES
 
 #### Status
 ACCEPTED

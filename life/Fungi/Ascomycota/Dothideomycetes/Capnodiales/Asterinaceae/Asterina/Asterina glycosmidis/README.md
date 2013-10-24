@@ -1,5 +1,4 @@
-Asterina glycosmidis Hosag. & C.K. Biju, 2005 SPECIES
-=======
+# Asterina glycosmidis Hosag. & C.K. Biju, 2005 SPECIES
 
 #### Status
 ACCEPTED

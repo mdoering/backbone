@@ -1,17 +1,16 @@
-Marssonina brunnea f. sp FORM
-=======
+# Drepanopeziza punctiformis Gremmen, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publication of the Soil Conservation Centre, Aokautere (Palmerston North) 4: 6 (1983)
+Nova Hedwigia 9: 172 (1965)
 
 #### Original name
-Marssonina brunnea f. sp
+Drepanopeziza punctiformis Gremmen, 1965
 
 ### Remarks
 null

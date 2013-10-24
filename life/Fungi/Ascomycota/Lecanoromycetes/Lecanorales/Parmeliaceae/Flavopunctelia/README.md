@@ -1,5 +1,4 @@
-Flavopunctelia (Krog) Hale, 1984 GENUS
-=======
+# Flavopunctelia (Krog) Hale, 1984 GENUS
 
 #### Status
 ACCEPTED

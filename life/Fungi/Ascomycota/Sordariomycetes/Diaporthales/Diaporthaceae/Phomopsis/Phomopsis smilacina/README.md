@@ -1,5 +1,4 @@
-Phomopsis smilacina Gonz. Frag. SPECIES
-=======
+# Phomopsis smilacina Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

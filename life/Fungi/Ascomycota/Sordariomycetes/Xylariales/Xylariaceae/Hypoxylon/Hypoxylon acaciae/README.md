@@ -1,5 +1,4 @@
-Hypoxylon acaciae Henn. SPECIES
-=======
+# Hypoxylon acaciae Henn. SPECIES
 
 #### Status
 ACCEPTED

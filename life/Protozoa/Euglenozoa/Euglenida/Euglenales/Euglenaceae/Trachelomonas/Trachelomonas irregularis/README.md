@@ -1,5 +1,4 @@
-Trachelomonas irregularis var. minor Svirenko VARIETY
-=======
+# Trachelomonas irregularis Svirenko SPECIES
 
 #### Status
 ACCEPTED

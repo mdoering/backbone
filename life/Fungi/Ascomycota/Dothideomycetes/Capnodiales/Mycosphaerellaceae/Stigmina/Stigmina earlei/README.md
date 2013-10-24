@@ -1,5 +1,4 @@
-Stigmina earlei Deighton SPECIES
-=======
+# Stigmina earlei Deighton SPECIES
 
 #### Status
 ACCEPTED

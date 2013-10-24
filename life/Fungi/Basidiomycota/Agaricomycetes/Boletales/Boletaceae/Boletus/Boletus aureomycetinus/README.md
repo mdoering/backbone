@@ -1,5 +1,4 @@
-Boletus aureomycetinus Pat. & C.F. Baker SPECIES
-=======
+# Boletus aureomycetinus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula tuberculosa R. Heim SPECIES
-=======
+# Russula tuberculosa R. Heim SPECIES
 
 #### Status
 ACCEPTED

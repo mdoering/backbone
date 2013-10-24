@@ -1,5 +1,4 @@
-Comamonas odontotermites Chou et al., 2007 SPECIES
-=======
+# Comamonas odontotermites Chou et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

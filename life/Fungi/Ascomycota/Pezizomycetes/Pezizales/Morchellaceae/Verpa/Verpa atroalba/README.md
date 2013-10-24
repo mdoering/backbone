@@ -1,5 +1,4 @@
-Verpa atroalba Fr. SPECIES
-=======
+# Verpa atroalba Fr. SPECIES
 
 #### Status
 ACCEPTED

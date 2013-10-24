@@ -1,14 +1,13 @@
-Hollandeia Özdikmen, 2009 GENUS
-=======
+# Perkinsela Dyková, Fiala & Pecková, 2008 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mun. Ent. Zool. 4, 238.
+European J. Protistol. 44, 270.
 
 #### Original name
 Perkinsiella Hollande, 1981

@@ -1,5 +1,4 @@
-Clintoniella apiculata (Cooke & Peck) Sacc. & P. Syd. SPECIES
-=======
+# Clintoniella apiculata (Cooke & Peck) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

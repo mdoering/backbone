@@ -1,5 +1,4 @@
-Ophryoglena semivirescens SPECIES
-=======
+# Ophryoglena semivirescens SPECIES
 
 #### Status
 ACCEPTED

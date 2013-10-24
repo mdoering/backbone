@@ -1,5 +1,4 @@
-Agaricus rhodophaeus Mont. SPECIES
-=======
+# Agaricus rhodophaeus Mont. SPECIES
 
 #### Status
 ACCEPTED

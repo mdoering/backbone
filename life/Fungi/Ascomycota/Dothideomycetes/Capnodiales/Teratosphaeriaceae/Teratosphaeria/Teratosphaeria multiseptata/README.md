@@ -1,5 +1,4 @@
-Teratosphaeria multiseptata (Carnegie) Carnegie, 2009 SPECIES
-=======
+# Teratosphaeria multiseptata (Carnegie) Carnegie, 2009 SPECIES
 
 #### Status
 ACCEPTED

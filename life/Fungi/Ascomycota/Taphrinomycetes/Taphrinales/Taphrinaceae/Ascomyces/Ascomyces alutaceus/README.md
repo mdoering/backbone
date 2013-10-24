@@ -1,5 +1,4 @@
-Ascomyces alutaceus Thüm. SPECIES
-=======
+# Ascomyces alutaceus Thüm. SPECIES
 
 #### Status
 ACCEPTED

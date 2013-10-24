@@ -1,5 +1,4 @@
-Opegrapha gracilescens Zahlbr. SPECIES
-=======
+# Opegrapha gracilescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

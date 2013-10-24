@@ -1,5 +1,4 @@
-Acrodictys stilboidea J. Mena & Mercado SPECIES
-=======
+# Acrodictys stilboidea J. Mena & Mercado SPECIES
 
 #### Status
 ACCEPTED

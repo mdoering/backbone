@@ -1,5 +1,4 @@
-Pseudocercospora sidae (Marchal & Steyaert) Deighton SPECIES
-=======
+# Pseudocercospora sidae (Marchal & Steyaert) Deighton SPECIES
 
 #### Status
 ACCEPTED

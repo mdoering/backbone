@@ -1,5 +1,4 @@
-Balladyna entebbeensis (Hansf.) Arx SPECIES
-=======
+# Balladyna entebbeensis (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

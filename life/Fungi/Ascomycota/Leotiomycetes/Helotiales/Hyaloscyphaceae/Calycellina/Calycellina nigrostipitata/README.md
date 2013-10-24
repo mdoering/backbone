@@ -1,5 +1,4 @@
-Calycellina nigrostipitata (Svrcek) Svrcek SPECIES
-=======
+# Calycellina nigrostipitata (Svrcek) Svrcek SPECIES
 
 #### Status
 ACCEPTED

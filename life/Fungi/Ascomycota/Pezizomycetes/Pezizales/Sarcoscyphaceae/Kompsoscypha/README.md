@@ -1,5 +1,4 @@
-Kompsoscypha Pfister GENUS
-=======
+# Kompsoscypha Pfister GENUS
 
 #### Status
 ACCEPTED

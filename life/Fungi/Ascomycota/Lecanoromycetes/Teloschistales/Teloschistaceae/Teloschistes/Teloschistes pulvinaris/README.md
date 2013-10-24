@@ -1,5 +1,4 @@
-Teloschistes pulvinaris (Zahlbr.) Almb. SPECIES
-=======
+# Teloschistes pulvinaris (Zahlbr.) Almb. SPECIES
 
 #### Status
 ACCEPTED

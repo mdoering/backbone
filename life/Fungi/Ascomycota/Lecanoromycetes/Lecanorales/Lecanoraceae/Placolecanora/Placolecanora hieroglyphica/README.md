@@ -1,5 +1,4 @@
-Placolecanora hieroglyphica (Poelt) Kopach. SPECIES
-=======
+# Placolecanora hieroglyphica (Poelt) Kopach. SPECIES
 
 #### Status
 ACCEPTED

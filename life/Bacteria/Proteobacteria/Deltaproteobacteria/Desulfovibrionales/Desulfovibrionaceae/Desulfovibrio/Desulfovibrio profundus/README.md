@@ -1,5 +1,4 @@
-Desulfovibrio profundus Bale et al., 1997 SPECIES
-=======
+# Desulfovibrio profundus Bale et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanium Haeckel, 1881 GENUS
-=======
+# Tympanium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

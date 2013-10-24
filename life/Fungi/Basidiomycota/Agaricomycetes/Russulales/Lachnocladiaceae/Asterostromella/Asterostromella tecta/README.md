@@ -1,5 +1,4 @@
-Asterostromella tecta Rick SPECIES
-=======
+# Asterostromella tecta Rick SPECIES
 
 #### Status
 ACCEPTED

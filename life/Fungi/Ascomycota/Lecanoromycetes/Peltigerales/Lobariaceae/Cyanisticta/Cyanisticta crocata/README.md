@@ -1,5 +1,4 @@
-Cyanisticta crocata SPECIES
-=======
+# Cyanisticta crocata SPECIES
 
 #### Status
 ACCEPTED

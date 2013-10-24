@@ -1,5 +1,4 @@
-Craticuloscuta escobari Kozloff, 1965 SPECIES
-=======
+# Craticuloscuta escobari Kozloff, 1965 SPECIES
 
 #### Status
 ACCEPTED

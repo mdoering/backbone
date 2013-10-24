@@ -1,5 +1,4 @@
-Gibberidea occultata (Oudem.) Kuntze SPECIES
-=======
+# Gibberidea occultata (Oudem.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

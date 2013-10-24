@@ -1,5 +1,4 @@
-Evittia thyrae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Evittia thyrae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

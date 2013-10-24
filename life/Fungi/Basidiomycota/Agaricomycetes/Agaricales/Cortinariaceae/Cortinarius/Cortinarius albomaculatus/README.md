@@ -1,5 +1,4 @@
-Cortinarius albomaculatus Rob. Henry SPECIES
-=======
+# Cortinarius albomaculatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

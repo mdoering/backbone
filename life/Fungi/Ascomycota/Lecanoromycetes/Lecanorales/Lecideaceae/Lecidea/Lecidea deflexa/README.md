@@ -1,5 +1,4 @@
-Lecidea deflexa Nyl. SPECIES
-=======
+# Lecidea deflexa Nyl. SPECIES
 
 #### Status
 ACCEPTED

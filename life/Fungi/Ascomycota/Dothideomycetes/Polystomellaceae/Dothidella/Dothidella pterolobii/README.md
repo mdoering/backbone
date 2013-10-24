@@ -1,5 +1,4 @@
-Dothidella pterolobii Rostr. SPECIES
-=======
+# Dothidella pterolobii Rostr. SPECIES
 
 #### Status
 ACCEPTED

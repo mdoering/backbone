@@ -1,5 +1,4 @@
-Coprinus rapidus Fr. SPECIES
-=======
+# Coprinus rapidus Fr. SPECIES
 
 #### Status
 ACCEPTED

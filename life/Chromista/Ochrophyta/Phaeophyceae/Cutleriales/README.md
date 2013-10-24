@@ -1,5 +1,4 @@
-Cutleriales Bessey, 1907 ORDER
-=======
+# Cutleriales Bessey, 1907 ORDER
 
 #### Status
 ACCEPTED

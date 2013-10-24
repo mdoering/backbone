@@ -1,5 +1,4 @@
-Elsinoë fecunda Joanne E. Taylor & Crous SPECIES
-=======
+# Elsinoë fecunda Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago panici-latifolii Henn. SPECIES
-=======
+# Ustilago panici-latifolii Henn. SPECIES
 
 #### Status
 ACCEPTED

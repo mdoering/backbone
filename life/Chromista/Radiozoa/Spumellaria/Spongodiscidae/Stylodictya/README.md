@@ -1,5 +1,4 @@
-Stylodictya Ehrenberg, 1847 GENUS
-=======
+# Stylodictya Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus ciliciopodius (Corda) Kuntze SPECIES
-=======
+# Fungus ciliciopodius (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

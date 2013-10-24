@@ -1,5 +1,4 @@
-Russula cupraeoviolacea J. Blum SPECIES
-=======
+# Russula cupraeoviolacea J. Blum SPECIES
 
 #### Status
 ACCEPTED

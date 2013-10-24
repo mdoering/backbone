@@ -1,5 +1,4 @@
-Dimeromyces minutus Thaxt. SPECIES
-=======
+# Dimeromyces minutus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

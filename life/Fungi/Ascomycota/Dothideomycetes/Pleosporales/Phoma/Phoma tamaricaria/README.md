@@ -1,5 +1,4 @@
-Phoma tamaricaria Sacc. SPECIES
-=======
+# Phoma tamaricaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

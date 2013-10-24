@@ -1,5 +1,4 @@
-Salpingoeca megacheila Ellis, 1930 SPECIES
-=======
+# Salpingoeca megacheila Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

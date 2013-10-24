@@ -1,5 +1,4 @@
-Polyporus laurencii Berk. SPECIES
-=======
+# Polyporus laurencii Berk. SPECIES
 
 #### Status
 ACCEPTED

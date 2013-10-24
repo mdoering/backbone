@@ -1,5 +1,4 @@
-Armillaria pallidula Kile & Watling SPECIES
-=======
+# Armillaria pallidula Kile & Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ebeni Pantidou & D.M. Hend. SPECIES
-=======
+# Uredo ebeni Pantidou & D.M. Hend. SPECIES
 
 #### Status
 ACCEPTED

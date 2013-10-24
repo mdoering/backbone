@@ -1,5 +1,4 @@
-Entyloma cynoglossi Savul. & Rayss SPECIES
-=======
+# Entyloma cynoglossi Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

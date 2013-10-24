@@ -1,5 +1,4 @@
-Hebeloma queletii Schulzer SPECIES
-=======
+# Hebeloma queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria cicatrisata Preuss SPECIES
-=======
+# Sphaeria cicatrisata Preuss SPECIES
 
 #### Status
 ACCEPTED

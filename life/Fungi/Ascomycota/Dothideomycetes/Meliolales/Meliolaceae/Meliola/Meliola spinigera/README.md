@@ -1,5 +1,4 @@
-Meliola spinigera Speg. SPECIES
-=======
+# Meliola spinigera Speg. SPECIES
 
 #### Status
 ACCEPTED

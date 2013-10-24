@@ -1,5 +1,4 @@
-Fomes exotephrus (Berk.) Sacc. SPECIES
-=======
+# Fomes exotephrus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

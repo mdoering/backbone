@@ -1,5 +1,4 @@
-Phaeoisariopsis tinosporae P.N. Mathur SPECIES
-=======
+# Phaeoisariopsis tinosporae P.N. Mathur SPECIES
 
 #### Status
 ACCEPTED

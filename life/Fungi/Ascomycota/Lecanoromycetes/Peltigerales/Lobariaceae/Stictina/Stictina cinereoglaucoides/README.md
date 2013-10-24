@@ -1,5 +1,4 @@
-Stictina cinereoglaucoides C.W. Dodge SPECIES
-=======
+# Stictina cinereoglaucoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

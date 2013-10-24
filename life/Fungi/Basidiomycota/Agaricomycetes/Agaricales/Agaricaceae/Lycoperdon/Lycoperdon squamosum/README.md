@@ -1,5 +1,4 @@
-Lycoperdon squamosum J.F. Gmel. SPECIES
-=======
+# Lycoperdon squamosum J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

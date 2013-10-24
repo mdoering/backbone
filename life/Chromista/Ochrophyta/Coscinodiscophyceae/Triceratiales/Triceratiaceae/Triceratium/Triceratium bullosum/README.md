@@ -1,5 +1,4 @@
-Triceratium bullosum O.N. Witt, 1873 SPECIES
-=======
+# Triceratium bullosum O.N. Witt, 1873 SPECIES
 
 #### Status
 ACCEPTED

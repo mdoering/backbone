@@ -1,5 +1,4 @@
-Comasphaeridium pollostum Zang Wen-long in Zang Wen-long & Walter SPECIES
-=======
+# Comasphaeridium pollostum Zang Wen-long in Zang Wen-long & Walter SPECIES
 
 #### Status
 ACCEPTED

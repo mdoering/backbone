@@ -1,5 +1,4 @@
-Xerula hongoi Dörfelt SPECIES
-=======
+# Xerula hongoi Dörfelt SPECIES
 
 #### Status
 ACCEPTED

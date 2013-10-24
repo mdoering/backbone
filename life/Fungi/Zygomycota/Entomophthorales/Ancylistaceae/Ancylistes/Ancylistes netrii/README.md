@@ -1,5 +1,4 @@
-Ancylistes netrii Couch ex B.E. Tucker, 1981 SPECIES
-=======
+# Ancylistes netrii Couch ex B.E. Tucker, 1981 SPECIES
 
 #### Status
 ACCEPTED

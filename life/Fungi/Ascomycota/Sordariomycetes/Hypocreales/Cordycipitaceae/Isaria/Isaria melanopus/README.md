@@ -1,5 +1,4 @@
-Isaria melanopus Speg. SPECIES
-=======
+# Isaria melanopus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta tiliacorae A.L. Sm. SPECIES
-=======
+# Ascochyta tiliacorae A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

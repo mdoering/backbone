@@ -1,5 +1,4 @@
-Clisosporium epimyces (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Clisosporium epimyces (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia persicae Sacc. SPECIES
-=======
+# Diplodia persicae Sacc. SPECIES
 
 #### Status
 ACCEPTED

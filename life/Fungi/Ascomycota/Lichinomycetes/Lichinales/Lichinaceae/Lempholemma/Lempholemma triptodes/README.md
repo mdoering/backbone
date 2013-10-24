@@ -1,5 +1,4 @@
-Lempholemma triptodes (Nyl.) Zahlbr. SPECIES
-=======
+# Lempholemma triptodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

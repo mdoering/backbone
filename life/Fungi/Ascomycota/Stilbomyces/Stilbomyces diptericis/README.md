@@ -1,5 +1,4 @@
-Stilbomyces diptericis Bat. & J.L. Bezerra SPECIES
-=======
+# Stilbomyces diptericis Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

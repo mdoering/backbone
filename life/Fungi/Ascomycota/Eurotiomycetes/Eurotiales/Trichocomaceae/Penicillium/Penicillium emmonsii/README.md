@@ -1,17 +1,16 @@
-Talaromyces stipitatus (Thom) C.R. Benj., 1955 SPECIES
-=======
+# Penicillium emmonsii Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 47(5): 684 (1955)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 479 (1980)
 
 #### Original name
-Penicillium stipitatum Thom ex C.W. Emmons, 1935
+Penicillium emmonsii Pitt, 1980
 
 ### Remarks
 null

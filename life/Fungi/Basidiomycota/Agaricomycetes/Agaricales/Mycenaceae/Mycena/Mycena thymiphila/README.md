@@ -1,5 +1,4 @@
-Mycena thymiphila Velen. SPECIES
-=======
+# Mycena thymiphila Velen. SPECIES
 
 #### Status
 ACCEPTED

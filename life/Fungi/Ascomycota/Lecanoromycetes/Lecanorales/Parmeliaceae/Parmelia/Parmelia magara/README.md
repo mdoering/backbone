@@ -1,5 +1,4 @@
-Parmelia magara SPECIES
-=======
+# Parmelia magara SPECIES
 
 #### Status
 ACCEPTED

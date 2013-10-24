@@ -1,17 +1,16 @@
-Pyrrhoderma andinopatagonicus J.E. Wright & J.R. Deschamps SPECIES
-=======
+# Pyrrhoderma andinopatagonicum J.E. Wright & J.R. Deschamps SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rev. Invest. Agrop. INTA V, Pat. Veg. 9 154 (1972)
 
 #### Original name
-Pyrrhoderma andinopatagonicus J.E. Wright & J.R. Deschamps
+Pyrrhoderma andinopatagonicum J.E. Wright & J.R. Deschamps
 
 ### Remarks
 null

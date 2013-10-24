@@ -1,5 +1,4 @@
-Lophodermium cephalotaxi S.J. Wang, Y.B. Liu & Y.R. Lin, 2007 SPECIES
-=======
+# Lophodermium cephalotaxi S.J. Wang, Y.B. Liu & Y.R. Lin, 2007 SPECIES
 
 #### Status
 ACCEPTED

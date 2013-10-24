@@ -1,5 +1,4 @@
-Candida cylindracea Koichi Yamada & Machida ex S.A. Mey. & Yarrow, 1998 SPECIES
-=======
+# Candida cylindracea Koichi Yamada & Machida ex S.A. Mey. & Yarrow, 1998 SPECIES
 
 #### Status
 ACCEPTED

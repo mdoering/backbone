@@ -1,5 +1,4 @@
-Microthyrium microspermum Speg. SPECIES
-=======
+# Microthyrium microspermum Speg. SPECIES
 
 #### Status
 ACCEPTED

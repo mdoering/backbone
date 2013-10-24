@@ -1,5 +1,4 @@
-Belonopsis vaginalis Arendh. & R. Sharma SPECIES
-=======
+# Belonopsis vaginalis Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

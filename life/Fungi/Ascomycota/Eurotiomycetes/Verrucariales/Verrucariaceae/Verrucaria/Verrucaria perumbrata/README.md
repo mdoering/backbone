@@ -1,5 +1,4 @@
-Verrucaria perumbrata Nyl. SPECIES
-=======
+# Verrucaria perumbrata Nyl. SPECIES
 
 #### Status
 ACCEPTED

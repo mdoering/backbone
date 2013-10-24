@@ -1,5 +1,4 @@
-Epibryon lichenicola Matzer, 1996 SPECIES
-=======
+# Epibryon lichenicola Matzer, 1996 SPECIES
 
 #### Status
 ACCEPTED

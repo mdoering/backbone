@@ -1,5 +1,4 @@
-Cryptocolax clarnensis R.A. Scott SPECIES
-=======
+# Cryptocolax clarnensis R.A. Scott SPECIES
 
 #### Status
 ACCEPTED

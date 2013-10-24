@@ -1,5 +1,4 @@
-Psalliota odoratissima Velen. SPECIES
-=======
+# Psalliota odoratissima Velen. SPECIES
 
 #### Status
 ACCEPTED

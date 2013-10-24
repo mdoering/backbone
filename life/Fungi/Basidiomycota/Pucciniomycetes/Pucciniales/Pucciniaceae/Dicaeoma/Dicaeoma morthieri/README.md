@@ -1,5 +1,4 @@
-Dicaeoma morthieri (Körn.) Kuntze SPECIES
-=======
+# Dicaeoma morthieri (Körn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

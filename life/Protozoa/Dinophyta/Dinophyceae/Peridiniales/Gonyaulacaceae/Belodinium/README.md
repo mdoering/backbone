@@ -1,5 +1,4 @@
-Belodinium I.C. Cookson & A. Eisenack, 1960 GENUS
-=======
+# Belodinium I.C. Cookson & A. Eisenack, 1960 GENUS
 
 #### Status
 ACCEPTED

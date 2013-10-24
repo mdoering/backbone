@@ -1,5 +1,4 @@
-Phaeoisariopsis bambusae (Cooke) Deighton SPECIES
-=======
+# Phaeoisariopsis bambusae (Cooke) Deighton SPECIES
 
 #### Status
 ACCEPTED

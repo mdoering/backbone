@@ -1,5 +1,4 @@
-Lycoperdon calcareum Velen. SPECIES
-=======
+# Lycoperdon calcareum Velen. SPECIES
 
 #### Status
 ACCEPTED

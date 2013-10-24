@@ -1,5 +1,4 @@
-Verrucaria verruculifera Servít SPECIES
-=======
+# Verrucaria verruculifera Servít SPECIES
 
 #### Status
 ACCEPTED

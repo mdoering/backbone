@@ -1,14 +1,13 @@
-Retractocephlaus GENUS
-=======
+# Retractocephalus Haldar & Chakraborty, 1976 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Curr. Sci. 45: 668.
 
 #### Original name
 null

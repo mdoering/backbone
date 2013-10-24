@@ -1,5 +1,4 @@
-Camarosporium staphyleae Cooke SPECIES
-=======
+# Camarosporium staphyleae Cooke SPECIES
 
 #### Status
 ACCEPTED

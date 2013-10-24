@@ -1,5 +1,4 @@
-Cytospora syringae var. brevipes Potebnia VARIETY
-=======
+# Cytospora syringae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 272 (1884)
 
 #### Original name
-Cytospora syringae var. brevipes Potebnia
+Cytospora syringae Sacc.
 
 ### Remarks
 null

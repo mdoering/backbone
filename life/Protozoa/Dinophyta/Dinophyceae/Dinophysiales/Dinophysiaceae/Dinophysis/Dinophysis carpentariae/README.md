@@ -1,5 +1,4 @@
-Dinophysis carpentariae Wood, 1963 SPECIES
-=======
+# Dinophysis carpentariae Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

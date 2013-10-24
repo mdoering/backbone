@@ -1,5 +1,4 @@
-Monilia glauca var. glauca VARIETY
-=======
+# Monilia glauca Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Neues Mag. Bot. 1: 120 (1794)
 
 #### Original name
-Monilia glauca var. glauca
+Monilia glauca Pers.
 
 ### Remarks
 null

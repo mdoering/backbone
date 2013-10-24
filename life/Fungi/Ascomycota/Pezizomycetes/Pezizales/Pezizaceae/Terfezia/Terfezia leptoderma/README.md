@@ -1,5 +1,4 @@
-Terfezia leptoderma Tul., 1844 SPECIES
-=======
+# Terfezia leptoderma Tul., 1844 SPECIES
 
 #### Status
 ACCEPTED

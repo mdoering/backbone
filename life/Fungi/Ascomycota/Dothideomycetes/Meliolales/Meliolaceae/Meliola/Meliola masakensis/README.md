@@ -1,5 +1,4 @@
-Meliola masakensis (Hansf.) Cif. SPECIES
-=======
+# Meliola masakensis (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

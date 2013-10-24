@@ -1,17 +1,16 @@
-Polystictus circinatus var. circinatus VARIETY
-=======
+# Onnia circinata (Fr.) P. Karst., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 71): 77 (1886)
+Bidr. Känn. Finl. Nat. Folk 48: 326 (1889)
 
 #### Original name
-Polystictus circinatus var. circinatus
+Trametes circinatus Fr.
 
 ### Remarks
 null

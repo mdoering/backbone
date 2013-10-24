@@ -1,5 +1,4 @@
-Dethiosulfovibrio Magot, Ravot, Campaignolle, Ollivier, Patel, Fardeau, Thomas, Crolet & Garcia, 1997 GENUS
-=======
+# Dethiosulfovibrio Magot, Ravot, Campaignolle, Ollivier, Patel, Fardeau, Thomas, Crolet & Garcia, 1997 GENUS
 
 #### Status
 ACCEPTED

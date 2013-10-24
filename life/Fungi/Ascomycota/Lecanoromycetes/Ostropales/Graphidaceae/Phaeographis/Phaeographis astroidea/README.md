@@ -1,5 +1,4 @@
-Phaeographis astroidea (Vain.) Redgr. SPECIES
-=======
+# Phaeographis astroidea (Vain.) Redgr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatina finkii Zahlbr. SPECIES
-=======
+# Dermatina finkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

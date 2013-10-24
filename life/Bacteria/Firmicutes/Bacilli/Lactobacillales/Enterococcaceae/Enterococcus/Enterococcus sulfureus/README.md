@@ -1,5 +1,4 @@
-Enterococcus sulfureus Martinez-Murcia & Collins, 1991 SPECIES
-=======
+# Enterococcus sulfureus Martinez-Murcia & Collins, 1991 SPECIES
 
 #### Status
 ACCEPTED

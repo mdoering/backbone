@@ -1,5 +1,4 @@
-Lecanora phaeolucens Nyl. SPECIES
-=======
+# Lecanora phaeolucens Nyl. SPECIES
 
 #### Status
 ACCEPTED

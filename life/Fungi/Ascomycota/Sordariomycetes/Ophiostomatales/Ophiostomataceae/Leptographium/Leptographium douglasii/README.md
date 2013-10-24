@@ -1,5 +1,4 @@
-Leptographium douglasii M.J. Wingf., T.C. Harr. & Crous, 1994 SPECIES
-=======
+# Leptographium douglasii M.J. Wingf., T.C. Harr. & Crous, 1994 SPECIES
 
 #### Status
 ACCEPTED

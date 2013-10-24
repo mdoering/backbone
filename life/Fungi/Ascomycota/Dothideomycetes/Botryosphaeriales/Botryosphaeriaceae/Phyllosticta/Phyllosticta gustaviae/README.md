@@ -1,5 +1,4 @@
-Phyllosticta gustaviae Sacc. SPECIES
-=======
+# Phyllosticta gustaviae Sacc. SPECIES
 
 #### Status
 ACCEPTED

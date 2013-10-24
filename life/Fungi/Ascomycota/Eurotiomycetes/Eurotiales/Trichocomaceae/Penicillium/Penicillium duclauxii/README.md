@@ -1,17 +1,16 @@
-Penicillium clavigerum Demelius, 1923 SPECIES
-=======
+# Penicillium duclauxii Delacr., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wien 72: 74 (1923)
+Annals de la Soc. Scientifique Bruxelles 6 (1892)
 
 #### Original name
-Penicillium clavigerum Demelius, 1923
+Penicillium duclauxii Delacr., 1892
 
 ### Remarks
 null

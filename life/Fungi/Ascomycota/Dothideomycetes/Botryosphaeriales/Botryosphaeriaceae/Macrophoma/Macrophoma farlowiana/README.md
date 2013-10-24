@@ -1,5 +1,4 @@
-Macrophoma farlowiana (Viala & Sauv.) Tassi SPECIES
-=======
+# Macrophoma farlowiana (Viala & Sauv.) Tassi SPECIES
 
 #### Status
 ACCEPTED

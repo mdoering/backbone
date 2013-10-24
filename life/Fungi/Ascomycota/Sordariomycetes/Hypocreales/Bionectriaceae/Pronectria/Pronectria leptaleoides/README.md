@@ -1,5 +1,4 @@
-Pronectria leptaleoides Etayo SPECIES
-=======
+# Pronectria leptaleoides Etayo SPECIES
 
 #### Status
 ACCEPTED

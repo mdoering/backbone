@@ -1,5 +1,4 @@
-Mycosphaerella ardisiae (Cif. & Gonz. Frag.) Cif. SPECIES
-=======
+# Mycosphaerella ardisiae (Cif. & Gonz. Frag.) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula lamprocarpa Müll. Arg. SPECIES
-=======
+# Pyrenula lamprocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

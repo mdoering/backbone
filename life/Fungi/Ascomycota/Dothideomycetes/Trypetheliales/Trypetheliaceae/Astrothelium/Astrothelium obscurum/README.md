@@ -1,5 +1,4 @@
-Astrothelium obscurum Müll. Arg. SPECIES
-=======
+# Astrothelium obscurum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

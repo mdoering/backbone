@@ -1,5 +1,4 @@
-Tilletia vankyi Carris & Castl. SPECIES
-=======
+# Tilletia vankyi Carris & Castl. SPECIES
 
 #### Status
 ACCEPTED

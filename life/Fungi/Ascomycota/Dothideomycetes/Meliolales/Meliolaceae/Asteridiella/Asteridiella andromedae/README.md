@@ -1,5 +1,4 @@
-Asteridiella andromedae (Pat.) Hansf. SPECIES
-=======
+# Asteridiella andromedae (Pat.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

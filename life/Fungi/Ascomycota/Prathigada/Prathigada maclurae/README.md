@@ -1,5 +1,4 @@
-Prathigada maclurae (Thüm.) U. Braun SPECIES
-=======
+# Prathigada maclurae (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

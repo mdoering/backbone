@@ -1,5 +1,4 @@
-Candelariella viae-lacteae G. Thor & V. Wirth SPECIES
-=======
+# Candelariella viae-lacteae G. Thor & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlya oryzae S. Ito & Nagai SPECIES
-=======
+# Achlya oryzae S. Ito & Nagai SPECIES
 
 #### Status
 ACCEPTED

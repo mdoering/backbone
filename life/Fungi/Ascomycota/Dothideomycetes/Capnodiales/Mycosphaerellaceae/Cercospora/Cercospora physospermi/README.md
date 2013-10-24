@@ -1,5 +1,4 @@
-Cercospora physospermi Deighton, 1969 SPECIES
-=======
+# Cercospora physospermi Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

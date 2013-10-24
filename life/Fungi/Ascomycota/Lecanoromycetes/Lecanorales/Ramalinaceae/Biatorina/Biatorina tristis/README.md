@@ -1,5 +1,4 @@
-Biatorina tristis Jatta SPECIES
-=======
+# Biatorina tristis Jatta SPECIES
 
 #### Status
 ACCEPTED

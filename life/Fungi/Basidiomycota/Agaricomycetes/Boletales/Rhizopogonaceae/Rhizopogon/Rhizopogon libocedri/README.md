@@ -1,5 +1,4 @@
-Rhizopogon libocedri A.H. Sm. SPECIES
-=======
+# Rhizopogon libocedri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

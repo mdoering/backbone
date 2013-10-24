@@ -1,8 +1,7 @@
-Streptococcus hansenii Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Ruminococcus hansenii (Holdeman & Moore, 1974) Ezaki et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

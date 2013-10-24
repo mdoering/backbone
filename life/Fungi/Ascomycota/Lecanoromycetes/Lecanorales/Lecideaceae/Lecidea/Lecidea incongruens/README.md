@@ -1,5 +1,4 @@
-Lecidea incongruens Stirt. SPECIES
-=======
+# Lecidea incongruens Stirt. SPECIES
 
 #### Status
 ACCEPTED

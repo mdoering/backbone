@@ -1,5 +1,4 @@
-Ustilago bicornis Henn. SPECIES
-=======
+# Ustilago bicornis Henn. SPECIES
 
 #### Status
 ACCEPTED

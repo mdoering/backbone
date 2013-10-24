@@ -1,5 +1,4 @@
-Rosellinia plana (Preuss) Sacc. SPECIES
-=======
+# Rosellinia plana (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

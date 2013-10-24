@@ -1,5 +1,4 @@
-Phaeographina neotricosa f. neotricosa FORM
-=======
+# Phaeographina neotricosa Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina neotricosa f. neotricosa
+Phaeographina neotricosa Redinger
 
 ### Remarks
 null

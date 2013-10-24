@@ -1,5 +1,4 @@
-Cortinarius subinfucatus Britzelm. SPECIES
-=======
+# Cortinarius subinfucatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

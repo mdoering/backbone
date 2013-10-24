@@ -1,5 +1,4 @@
-Agaricus oxyosmus Mont. SPECIES
-=======
+# Agaricus oxyosmus Mont. SPECIES
 
 #### Status
 ACCEPTED

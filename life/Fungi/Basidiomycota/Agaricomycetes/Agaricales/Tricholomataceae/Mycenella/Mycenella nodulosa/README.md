@@ -1,5 +1,4 @@
-Mycenella nodulosa (A.H. Sm.) Boekhout SPECIES
-=======
+# Mycenella nodulosa (A.H. Sm.) Boekhout SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mundkurella schefflerae Vánky, C. Vánky & McKenzie, 1999 SPECIES
-=======
+# Mundkurella schefflerae Vánky, C. Vánky & McKenzie, 1999 SPECIES
 
 #### Status
 ACCEPTED

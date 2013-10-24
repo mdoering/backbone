@@ -1,5 +1,4 @@
-Cerebella moravica Picb. SPECIES
-=======
+# Cerebella moravica Picb. SPECIES
 
 #### Status
 ACCEPTED

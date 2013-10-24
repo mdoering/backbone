@@ -1,17 +1,16 @@
-Uredo sinuatotunicata Berndt SPECIES
-=======
+# Uredo sinuatitunicata Berndt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 75(3-4): 419 (2002)
 
 #### Original name
-Uredo sinuatotunicata Berndt
+Uredo sinuatitunicata Berndt
 
 ### Remarks
 null

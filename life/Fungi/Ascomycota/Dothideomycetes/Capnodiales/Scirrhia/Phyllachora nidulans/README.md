@@ -1,5 +1,4 @@
-Phyllachora nidulans Pat., 1891 SPECIES
-=======
+# Phyllachora nidulans Pat., 1891 SPECIES
 
 #### Status
 DOUBTFUL

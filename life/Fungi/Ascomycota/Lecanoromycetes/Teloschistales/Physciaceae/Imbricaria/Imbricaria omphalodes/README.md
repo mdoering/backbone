@@ -1,5 +1,4 @@
-Imbricaria omphalodes (L.) Jatta SPECIES
-=======
+# Imbricaria omphalodes (L.) Jatta SPECIES
 
 #### Status
 ACCEPTED

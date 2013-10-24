@@ -1,5 +1,4 @@
-Astrocystis eleiodoxae E.B.G. Jones, Sakay., Suetrong, Somrith. & K.L. Pang, 2010 SPECIES
-=======
+# Astrocystis eleiodoxae E.B.G. Jones, Sakay., Suetrong, Somrith. & K.L. Pang, 2010 SPECIES
 
 #### Status
 ACCEPTED

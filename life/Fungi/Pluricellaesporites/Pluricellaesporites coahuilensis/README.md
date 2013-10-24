@@ -1,5 +1,4 @@
-Pluricellaesporites coahuilensis (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites coahuilensis (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

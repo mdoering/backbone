@@ -1,17 +1,16 @@
-Arthonia digitospora Etayo SPECIES
-=======
+# Arthonia digitispora Etayo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 84: 25 (2002)
 
 #### Original name
-Arthonia digitospora Etayo
+Arthonia digitispora Etayo
 
 ### Remarks
 null

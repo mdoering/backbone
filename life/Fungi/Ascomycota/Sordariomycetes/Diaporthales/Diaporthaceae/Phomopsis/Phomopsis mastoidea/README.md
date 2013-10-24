@@ -1,5 +1,4 @@
-Phomopsis mastoidea M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phomopsis mastoidea M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

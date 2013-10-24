@@ -1,5 +1,4 @@
-Coprinus digitalis (Batsch) Fr. SPECIES
-=======
+# Coprinus digitalis (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

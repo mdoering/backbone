@@ -1,5 +1,4 @@
-Thielavia rapa-nuiensis Stchigel & Guarro SPECIES
-=======
+# Thielavia rapa-nuiensis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

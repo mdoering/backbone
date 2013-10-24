@@ -1,5 +1,4 @@
-Rickia cornuti Thaxt. SPECIES
-=======
+# Rickia cornuti Thaxt. SPECIES
 
 #### Status
 ACCEPTED

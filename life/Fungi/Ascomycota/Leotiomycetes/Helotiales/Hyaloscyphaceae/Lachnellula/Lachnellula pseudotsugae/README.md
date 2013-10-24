@@ -1,14 +1,13 @@
-Lachnella pseudotsugae (G.G. Hahn) Seaver, 1951 SPECIES
-=======
+# Lachnellula pseudotsugae (G.G. Hahn) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(2): 184 (1962)
 
 #### Original name
 Dasyscyphus pseudotsugae G.G. Hahn, 1940

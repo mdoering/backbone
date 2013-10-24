@@ -1,5 +1,4 @@
-Tephromela campestricola (Nyl.) Rambold & Triebel SPECIES
-=======
+# Tephromela campestricola (Nyl.) Rambold & Triebel SPECIES
 
 #### Status
 ACCEPTED

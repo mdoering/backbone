@@ -1,5 +1,4 @@
-Bulimina d'Orbigny, 1826 GENUS
-=======
+# Bulimina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

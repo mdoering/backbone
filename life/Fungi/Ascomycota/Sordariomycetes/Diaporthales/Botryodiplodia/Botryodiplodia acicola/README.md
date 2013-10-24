@@ -1,17 +1,16 @@
-Diplodia acicola var. acicola VARIETY
-=======
+# Botryodiplodia acicola (Sacc.) Petr., 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 268 (1881)
+in Petrak & Sydow, Annls mycol. 24: 147 (1926)
 
 #### Original name
-Diplodia acicola var. acicola
+Diplodia acicola Sacc., 1881
 
 ### Remarks
 null

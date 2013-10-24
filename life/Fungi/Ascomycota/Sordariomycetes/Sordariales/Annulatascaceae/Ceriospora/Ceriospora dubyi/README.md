@@ -1,5 +1,4 @@
-Ceriospora dubyi Niessl, 1876 SPECIES
-=======
+# Ceriospora dubyi Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED

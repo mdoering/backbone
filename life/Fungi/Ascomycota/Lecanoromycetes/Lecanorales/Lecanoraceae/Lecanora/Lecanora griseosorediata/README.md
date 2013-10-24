@@ -1,5 +1,4 @@
-Lecanora griseosorediata Øvstedal SPECIES
-=======
+# Lecanora griseosorediata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

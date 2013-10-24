@@ -1,5 +1,4 @@
-Methanolacinia Zellner, Messner, Kneifel, Tindall, Winter & Stackebrandt, 1990 GENUS
-=======
+# Methanolacinia Zellner, Messner, Kneifel, Tindall, Winter & Stackebrandt, 1990 GENUS
 
 #### Status
 ACCEPTED

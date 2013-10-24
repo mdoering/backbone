@@ -1,5 +1,4 @@
-Inocybe subornata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe subornata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

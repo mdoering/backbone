@@ -1,5 +1,4 @@
-Rickia pachyiuli M. Bechet & I. Bechet SPECIES
-=======
+# Rickia pachyiuli M. Bechet & I. Bechet SPECIES
 
 #### Status
 ACCEPTED

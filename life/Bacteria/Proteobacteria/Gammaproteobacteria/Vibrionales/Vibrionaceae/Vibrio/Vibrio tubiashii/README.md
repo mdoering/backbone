@@ -1,5 +1,4 @@
-Vibrio tubiashii Hada et al., 1984 SPECIES
-=======
+# Vibrio tubiashii Hada et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

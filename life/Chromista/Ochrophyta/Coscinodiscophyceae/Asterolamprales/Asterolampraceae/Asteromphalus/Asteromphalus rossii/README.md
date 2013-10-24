@@ -1,5 +1,4 @@
-Asteromphalus rossii C.G. Ehrenberg SPECIES
-=======
+# Asteromphalus rossii C.G. Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

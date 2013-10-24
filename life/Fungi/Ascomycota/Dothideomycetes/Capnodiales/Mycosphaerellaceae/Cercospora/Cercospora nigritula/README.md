@@ -1,5 +1,4 @@
-Cercospora nigritula Syd. SPECIES
-=======
+# Cercospora nigritula Syd. SPECIES
 
 #### Status
 ACCEPTED

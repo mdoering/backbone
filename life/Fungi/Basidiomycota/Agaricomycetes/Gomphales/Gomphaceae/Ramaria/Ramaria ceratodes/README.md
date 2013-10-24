@@ -1,5 +1,4 @@
-Ramaria ceratodes Holmsk. SPECIES
-=======
+# Ramaria ceratodes Holmsk. SPECIES
 
 #### Status
 ACCEPTED

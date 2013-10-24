@@ -1,5 +1,4 @@
-Macrophoma allantospora C. Massal. SPECIES
-=======
+# Macrophoma allantospora C. Massal. SPECIES
 
 #### Status
 ACCEPTED

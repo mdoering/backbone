@@ -1,5 +1,4 @@
-Hygrocybe monteverdae Bañares & Arnolds SPECIES
-=======
+# Hygrocybe monteverdae Bañares & Arnolds SPECIES
 
 #### Status
 ACCEPTED

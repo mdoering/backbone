@@ -1,5 +1,4 @@
-Septoria tomskiana Melnik SPECIES
-=======
+# Septoria tomskiana Melnik SPECIES
 
 #### Status
 ACCEPTED

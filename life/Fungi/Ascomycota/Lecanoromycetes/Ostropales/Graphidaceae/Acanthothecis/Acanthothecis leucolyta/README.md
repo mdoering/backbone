@@ -1,5 +1,4 @@
-Acanthothecis leucolyta (Nyl.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis leucolyta (Nyl.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

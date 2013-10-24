@@ -1,5 +1,4 @@
-Sphaeria regulina Berk. & Broome SPECIES
-=======
+# Sphaeria regulina Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

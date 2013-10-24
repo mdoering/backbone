@@ -1,5 +1,4 @@
-Bacidia propinquella (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia propinquella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

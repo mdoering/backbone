@@ -1,5 +1,4 @@
-Endocarpon alaicum Tomin SPECIES
-=======
+# Endocarpon alaicum Tomin SPECIES
 
 #### Status
 ACCEPTED

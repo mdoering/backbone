@@ -1,5 +1,4 @@
-Boletellus ananaeceps (Berk.) Singer SPECIES
-=======
+# Boletellus ananaeceps (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

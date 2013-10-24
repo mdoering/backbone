@@ -1,5 +1,4 @@
-Sargassum torvum J. Agardh SPECIES
-=======
+# Sargassum torvum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

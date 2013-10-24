@@ -1,5 +1,4 @@
-Pyrenophora allosuri Cruchet SPECIES
-=======
+# Pyrenophora allosuri Cruchet SPECIES
 
 #### Status
 ACCEPTED

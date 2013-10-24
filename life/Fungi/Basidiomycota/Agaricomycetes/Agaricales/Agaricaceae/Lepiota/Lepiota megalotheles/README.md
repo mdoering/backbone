@@ -1,5 +1,4 @@
-Lepiota megalotheles Kalchbr. SPECIES
-=======
+# Lepiota megalotheles Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

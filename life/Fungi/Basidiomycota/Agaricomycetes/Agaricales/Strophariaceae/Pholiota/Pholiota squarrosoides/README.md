@@ -1,5 +1,4 @@
-Pholiota squarrosoides (Peck) Sacc. SPECIES
-=======
+# Pholiota squarrosoides (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

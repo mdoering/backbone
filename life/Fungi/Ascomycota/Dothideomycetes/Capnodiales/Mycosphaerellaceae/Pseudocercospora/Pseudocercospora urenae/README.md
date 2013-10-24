@@ -1,5 +1,4 @@
-Pseudocercospora urenae (Viégas & Chupp) A. Hern. Gut. & Dianese SPECIES
-=======
+# Pseudocercospora urenae (Viégas & Chupp) A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

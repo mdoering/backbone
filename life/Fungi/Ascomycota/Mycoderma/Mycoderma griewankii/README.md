@@ -1,5 +1,4 @@
-Mycoderma griewankii Neveu-Lem. SPECIES
-=======
+# Mycoderma griewankii Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

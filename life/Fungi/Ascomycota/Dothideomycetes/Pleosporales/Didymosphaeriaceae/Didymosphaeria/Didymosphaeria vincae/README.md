@@ -1,5 +1,4 @@
-Didymosphaeria vincae M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Didymosphaeria vincae M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

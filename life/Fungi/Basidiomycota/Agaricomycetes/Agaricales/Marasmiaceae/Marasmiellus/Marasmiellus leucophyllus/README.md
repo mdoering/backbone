@@ -1,5 +1,4 @@
-Marasmiellus leucophyllus Singer SPECIES
-=======
+# Marasmiellus leucophyllus Singer SPECIES
 
 #### Status
 ACCEPTED

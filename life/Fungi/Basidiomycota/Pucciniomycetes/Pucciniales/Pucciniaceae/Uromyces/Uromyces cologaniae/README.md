@@ -1,5 +1,4 @@
-Uromyces cologaniae Arthur SPECIES
-=======
+# Uromyces cologaniae Arthur SPECIES
 
 #### Status
 ACCEPTED

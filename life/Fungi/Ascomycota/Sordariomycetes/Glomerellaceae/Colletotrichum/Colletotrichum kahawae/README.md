@@ -1,5 +1,4 @@
-Colletotrichum kahawae J.M. Waller & Bridge, 1993 SPECIES
-=======
+# Colletotrichum kahawae J.M. Waller & Bridge, 1993 SPECIES
 
 #### Status
 ACCEPTED

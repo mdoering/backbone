@@ -1,14 +1,13 @@
-Plasmoverna anemones-ranunculoides (Savul. & O. Savul.) Constant., Voglmayr, Fatehi & Thines SPECIES
-=======
+# Plasmoverna anemones-ranunculoidis (Savul. & O. Savul.) Constant., Voglmayr, Fatehi & Thines, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 54(3): 819 (2005)
 
 #### Original name
 Plasmopara anemones-ranunculoidis Savul. & O. Savul., 1951

@@ -1,5 +1,4 @@
-Botryosporium leucostachys Zopf SPECIES
-=======
+# Botryosporium leucostachys Zopf SPECIES
 
 #### Status
 ACCEPTED

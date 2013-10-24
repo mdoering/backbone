@@ -1,5 +1,4 @@
-Aulographum anaxaeum Sacc. & D. Sacc. SPECIES
-=======
+# Aulographum anaxaeum Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

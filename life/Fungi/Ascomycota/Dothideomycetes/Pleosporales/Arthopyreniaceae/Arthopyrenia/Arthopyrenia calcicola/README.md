@@ -1,5 +1,4 @@
-Arthopyrenia calcicola Werner SPECIES
-=======
+# Arthopyrenia calcicola Werner SPECIES
 
 #### Status
 ACCEPTED

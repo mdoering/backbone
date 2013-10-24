@@ -1,5 +1,4 @@
-Ramonia intermedia Kalb SPECIES
-=======
+# Ramonia intermedia Kalb SPECIES
 
 #### Status
 ACCEPTED

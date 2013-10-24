@@ -1,17 +1,16 @@
-Acremonium sordidulum f. sp FORM
-=======
+# Acremonium sordidulum W. Gams & D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Trans. Br. mycol. Soc. 64(3): 392 (1975)
 
 #### Original name
-Acremonium sordidulum f. sp
+Acremonium sordidulum W. Gams & D. Hawksw., 1975
 
 ### Remarks
 null

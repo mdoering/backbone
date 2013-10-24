@@ -1,5 +1,4 @@
-Phyllosticta linosyris Hollós SPECIES
-=======
+# Phyllosticta linosyris Hollós SPECIES
 
 #### Status
 ACCEPTED

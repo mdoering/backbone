@@ -1,17 +1,16 @@
-Hormisciomyces prepusum Bat. & Nascim. SPECIES
-=======
+# Hormisciomyces prepusus Bat. & Nascim., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 15(2): 350 (1957)
 
 #### Original name
-Hormisciomyces prepusum Bat. & Nascim.
+Hormisciomyces prepusus Bat. & Nascim., 1957
 
 ### Remarks
 null

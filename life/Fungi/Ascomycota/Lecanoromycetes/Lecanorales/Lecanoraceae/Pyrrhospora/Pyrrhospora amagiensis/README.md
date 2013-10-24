@@ -1,5 +1,4 @@
-Pyrrhospora amagiensis (Räsänen) Hafellner SPECIES
-=======
+# Pyrrhospora amagiensis (Räsänen) Hafellner SPECIES
 
 #### Status
 ACCEPTED

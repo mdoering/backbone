@@ -1,5 +1,4 @@
-Didymosphaeria minima Feltgen SPECIES
-=======
+# Didymosphaeria minima Feltgen SPECIES
 
 #### Status
 ACCEPTED

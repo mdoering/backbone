@@ -1,5 +1,4 @@
-Graphis fruticicola Vain. SPECIES
-=======
+# Graphis fruticicola Vain. SPECIES
 
 #### Status
 ACCEPTED

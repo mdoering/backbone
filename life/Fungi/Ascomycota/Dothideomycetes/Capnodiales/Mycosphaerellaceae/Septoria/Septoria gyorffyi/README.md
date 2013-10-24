@@ -1,5 +1,4 @@
-Septoria gyorffyi Moesz SPECIES
-=======
+# Septoria gyorffyi Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homostegia leucosticta Pat. SPECIES
-=======
+# Homostegia leucosticta Pat. SPECIES
 
 #### Status
 ACCEPTED

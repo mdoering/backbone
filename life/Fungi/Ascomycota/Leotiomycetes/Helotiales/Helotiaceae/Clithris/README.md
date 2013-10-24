@@ -1,5 +1,4 @@
-Clithris GENUS
-=======
+# Clithris GENUS
 
 #### Status
 ACCEPTED

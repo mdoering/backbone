@@ -1,5 +1,4 @@
-Septoria ellisiana Sacc. & P. Syd. SPECIES
-=======
+# Septoria ellisiana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

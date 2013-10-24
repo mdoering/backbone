@@ -1,5 +1,4 @@
-Verrucula helvetica (B. de Lesd.) Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula helvetica (B. de Lesd.) Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

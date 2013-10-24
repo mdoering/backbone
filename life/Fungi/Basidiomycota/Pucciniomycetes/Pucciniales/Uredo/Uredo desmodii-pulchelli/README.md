@@ -1,5 +1,4 @@
-Uredo desmodii-pulchelli Syd. & P. Syd. SPECIES
-=======
+# Uredo desmodii-pulchelli Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

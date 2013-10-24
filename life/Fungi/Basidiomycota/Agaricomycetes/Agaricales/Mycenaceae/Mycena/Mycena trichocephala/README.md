@@ -1,5 +1,4 @@
-Mycena trichocephala Singer SPECIES
-=======
+# Mycena trichocephala Singer SPECIES
 
 #### Status
 ACCEPTED

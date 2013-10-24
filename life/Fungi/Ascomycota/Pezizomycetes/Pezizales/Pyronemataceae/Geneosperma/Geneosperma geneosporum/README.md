@@ -1,5 +1,4 @@
-Geneosperma geneosporum Rifai SPECIES
-=======
+# Geneosperma geneosporum Rifai SPECIES
 
 #### Status
 ACCEPTED

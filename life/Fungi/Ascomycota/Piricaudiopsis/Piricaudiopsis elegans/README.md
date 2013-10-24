@@ -1,5 +1,4 @@
-Piricaudiopsis elegans J. Mena & Mercado, 1987 SPECIES
-=======
+# Piricaudiopsis elegans J. Mena & Mercado, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota diemensis Kützing SPECIES
-=======
+# Dictyota diemensis Kützing SPECIES
 
 #### Status
 ACCEPTED

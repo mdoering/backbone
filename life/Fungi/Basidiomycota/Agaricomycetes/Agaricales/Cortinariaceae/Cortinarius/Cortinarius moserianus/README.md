@@ -1,5 +1,4 @@
-Cortinarius moserianus Bohus SPECIES
-=======
+# Cortinarius moserianus Bohus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium dermatinum (Ach.) Leight. SPECIES
-=======
+# Leptogium dermatinum (Ach.) Leight. SPECIES
 
 #### Status
 ACCEPTED

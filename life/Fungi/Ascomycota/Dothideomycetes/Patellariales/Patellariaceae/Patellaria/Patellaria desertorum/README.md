@@ -1,5 +1,4 @@
-Patellaria desertorum Kravtzev SPECIES
-=======
+# Patellaria desertorum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

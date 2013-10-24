@@ -1,5 +1,4 @@
-Multicellaesporites maximus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites maximus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

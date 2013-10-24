@@ -1,5 +1,4 @@
-Septoria passiflorae Syd., 1939 SPECIES
-=======
+# Septoria passiflorae Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

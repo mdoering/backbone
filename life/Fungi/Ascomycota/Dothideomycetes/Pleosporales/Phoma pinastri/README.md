@@ -1,5 +1,4 @@
-Phoma pinastri Thüm. SPECIES
-=======
+# Phoma pinastri Thüm. SPECIES
 
 #### Status
 ACCEPTED

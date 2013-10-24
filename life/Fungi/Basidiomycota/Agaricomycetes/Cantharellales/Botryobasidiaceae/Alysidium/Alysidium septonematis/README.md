@@ -1,5 +1,4 @@
-Alysidium septonematis (Corda) Bonord. SPECIES
-=======
+# Alysidium septonematis (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

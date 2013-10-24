@@ -1,5 +1,4 @@
-Mucronella styriaca Maas Geest., 1977 SPECIES
-=======
+# Mucronella styriaca Maas Geest., 1977 SPECIES
 
 #### Status
 ACCEPTED

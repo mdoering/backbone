@@ -1,5 +1,4 @@
-Cortinarius clandestinus Kauffman SPECIES
-=======
+# Cortinarius clandestinus Kauffman SPECIES
 
 #### Status
 ACCEPTED

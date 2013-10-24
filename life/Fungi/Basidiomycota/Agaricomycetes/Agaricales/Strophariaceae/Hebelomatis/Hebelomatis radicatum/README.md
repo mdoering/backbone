@@ -1,5 +1,4 @@
-Hebelomatis radicatum (Maire) Locq. SPECIES
-=======
+# Hebelomatis radicatum (Maire) Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diplodia leguminum Desm. SPECIES
-=======
+# Diplodia leguminis-cytisi Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 293 (1846)
 
 #### Original name
-null
+Diplodia leguminis-cytisi Lév.
 
 ### Remarks
 null

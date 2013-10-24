@@ -1,5 +1,4 @@
-Agaricus dryadeus Scop. SPECIES
-=======
+# Agaricus dryadeus Scop. SPECIES
 
 #### Status
 ACCEPTED

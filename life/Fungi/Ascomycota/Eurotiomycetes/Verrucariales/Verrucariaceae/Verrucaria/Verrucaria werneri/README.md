@@ -1,5 +1,4 @@
-Verrucaria werneri Breuss SPECIES
-=======
+# Verrucaria werneri Breuss SPECIES
 
 #### Status
 ACCEPTED

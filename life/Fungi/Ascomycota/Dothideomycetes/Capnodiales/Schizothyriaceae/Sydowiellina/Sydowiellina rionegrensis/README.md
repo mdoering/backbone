@@ -1,5 +1,4 @@
-Sydowiellina rionegrensis Bat., Holanda & Peres SPECIES
-=======
+# Sydowiellina rionegrensis Bat., Holanda & Peres SPECIES
 
 #### Status
 ACCEPTED

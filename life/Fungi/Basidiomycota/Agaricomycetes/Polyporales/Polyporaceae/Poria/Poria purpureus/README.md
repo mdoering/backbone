@@ -1,5 +1,4 @@
-Poria purpureus Rostk. SPECIES
-=======
+# Poria purpureus Rostk. SPECIES
 
 #### Status
 ACCEPTED

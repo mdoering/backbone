@@ -1,5 +1,4 @@
-Mycobacidia dagamensis Vain. SPECIES
-=======
+# Mycobacidia dagamensis Vain. SPECIES
 
 #### Status
 ACCEPTED

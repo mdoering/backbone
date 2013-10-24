@@ -1,5 +1,4 @@
-Morchella patagonica Speg. SPECIES
-=======
+# Morchella patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

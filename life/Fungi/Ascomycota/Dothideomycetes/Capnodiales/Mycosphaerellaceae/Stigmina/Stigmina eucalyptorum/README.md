@@ -1,5 +1,4 @@
-Stigmina eucalyptorum Crous & T.A. Cout. SPECIES
-=======
+# Stigmina eucalyptorum Crous & T.A. Cout. SPECIES
 
 #### Status
 ACCEPTED

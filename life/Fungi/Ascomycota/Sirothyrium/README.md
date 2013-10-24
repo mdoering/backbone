@@ -1,5 +1,4 @@
-Sirothyrium Syd. & P. Syd. GENUS
-=======
+# Sirothyrium Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella acutipilis Speg. SPECIES
-=======
+# Volutella acutipilis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Edaphoallogromia Meisterfeld, Holzmann & Pawlowski, 2001 GENUS
-=======
+# Edaphoallogromia Meisterfeld, Holzmann & Pawlowski, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanochloris clausiliae Geitler SPECIES
-=======
+# Trypanochloris clausiliae Geitler SPECIES
 
 #### Status
 ACCEPTED

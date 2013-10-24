@@ -1,5 +1,4 @@
-Phoma djacovensis Sousa da Câmara SPECIES
-=======
+# Phoma djacovensis Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

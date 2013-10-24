@@ -1,5 +1,4 @@
-Chaetomium fimisedum P. Karst. SPECIES
-=======
+# Chaetomium fimisedum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

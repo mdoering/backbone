@@ -1,5 +1,4 @@
-Octospora elastica Hedw. SPECIES
-=======
+# Octospora elastica Hedw. SPECIES
 
 #### Status
 ACCEPTED

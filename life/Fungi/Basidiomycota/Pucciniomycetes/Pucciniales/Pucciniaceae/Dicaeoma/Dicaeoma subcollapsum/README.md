@@ -1,5 +1,4 @@
-Dicaeoma subcollapsum (Ellis) Kuntze SPECIES
-=======
+# Dicaeoma subcollapsum (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

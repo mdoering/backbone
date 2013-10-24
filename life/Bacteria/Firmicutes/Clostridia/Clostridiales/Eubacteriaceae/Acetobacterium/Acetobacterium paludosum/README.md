@@ -1,5 +1,4 @@
-Acetobacterium paludosum Kotsyurbenko et al., 1997 SPECIES
-=======
+# Acetobacterium paludosum Kotsyurbenko et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

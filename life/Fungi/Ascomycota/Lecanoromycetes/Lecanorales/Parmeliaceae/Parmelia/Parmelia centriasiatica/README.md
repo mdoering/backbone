@@ -1,5 +1,4 @@
-Parmelia centriasiatica Gyeln. SPECIES
-=======
+# Parmelia centriasiatica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

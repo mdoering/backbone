@@ -1,5 +1,4 @@
-Dothidea stryphnodendri Henn. SPECIES
-=======
+# Dothidea stryphnodendri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria reicheltii (Voigt) L-B SPECIES
-=======
+# Fragilaria reicheltii (Voigt) L-B SPECIES
 
 #### Status
 ACCEPTED

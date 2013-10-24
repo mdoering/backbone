@@ -1,5 +1,4 @@
-Dictyopteris jolyana E. C. Oliveira & R. P. Furtado SPECIES
-=======
+# Dictyopteris jolyana E. C. Oliveira & R. P. Furtado SPECIES
 
 #### Status
 ACCEPTED

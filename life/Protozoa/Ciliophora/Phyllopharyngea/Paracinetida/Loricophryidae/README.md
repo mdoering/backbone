@@ -1,5 +1,4 @@
-Loricophryidae FAMILY
-=======
+# Loricophryidae FAMILY
 
 #### Status
 ACCEPTED

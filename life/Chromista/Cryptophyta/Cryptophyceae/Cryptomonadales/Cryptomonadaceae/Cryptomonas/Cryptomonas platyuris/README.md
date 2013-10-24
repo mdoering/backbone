@@ -1,5 +1,4 @@
-Cryptomonas platyuris Skuja SPECIES
-=======
+# Cryptomonas platyuris Skuja SPECIES
 
 #### Status
 ACCEPTED

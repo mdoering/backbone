@@ -1,5 +1,4 @@
-Sporormiella dalensis P.F. Cannon SPECIES
-=======
+# Sporormiella dalensis P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

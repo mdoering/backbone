@@ -1,5 +1,4 @@
-Sporopodium podosphaera Lücking & R. Sant. SPECIES
-=======
+# Sporopodium podosphaera Lücking & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

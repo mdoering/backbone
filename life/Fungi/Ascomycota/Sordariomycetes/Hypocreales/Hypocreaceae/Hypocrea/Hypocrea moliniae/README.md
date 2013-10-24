@@ -1,5 +1,4 @@
-Hypocrea moliniae Pass. SPECIES
-=======
+# Hypocrea moliniae Pass. SPECIES
 
 #### Status
 ACCEPTED

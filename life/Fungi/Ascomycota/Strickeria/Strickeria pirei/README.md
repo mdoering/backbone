@@ -1,14 +1,13 @@
-Strickera pirei (Westend.) Kuntze SPECIES
-=======
+# Strickeria pirei (Westend.) H. Wegelin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. thurgau. naturf. Ges. 11: 9 (1894)
 
 #### Original name
 Sphaeria pirei Westend.

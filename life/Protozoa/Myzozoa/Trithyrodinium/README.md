@@ -1,5 +1,4 @@
-Trithyrodinium W.S.Drugg GENUS
-=======
+# Trithyrodinium W.S.Drugg GENUS
 
 #### Status
 ACCEPTED

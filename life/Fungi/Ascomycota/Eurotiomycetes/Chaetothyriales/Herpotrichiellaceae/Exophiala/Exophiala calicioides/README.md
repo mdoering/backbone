@@ -1,17 +1,16 @@
-Periconia calicioides SPECIES
-=======
+# Exophiala calicioides (Fr.) G. Okada & Seifert, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Okada, Jacobs, Kirisits, Louis-Seize, Seifert, Sugita, Takematsu & Wingfield, Stud. Mycol. 45: 184 (2000)
 
 #### Original name
-Periconia calicioides
+Sporocybe calicioides Fr., 1832
 
 ### Remarks
 null

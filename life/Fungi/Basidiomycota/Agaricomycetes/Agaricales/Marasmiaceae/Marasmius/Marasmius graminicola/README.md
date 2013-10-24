@@ -1,5 +1,4 @@
-Marasmius graminicola Speg. SPECIES
-=======
+# Marasmius graminicola Speg. SPECIES
 
 #### Status
 ACCEPTED

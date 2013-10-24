@@ -1,5 +1,4 @@
-Pandanicola graminella (Höhn.) B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Pandanicola graminella (Höhn.) B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

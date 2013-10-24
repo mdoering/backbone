@@ -1,17 +1,16 @@
-Microdiplodia visci (DC.) Potebnia, 1910 SPECIES
-=======
+# Gibberidea visci Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 8(1): 63 (1910)
+Jb. nassau. Ver. Naturk. 23-24: 168 (1870)
 
 #### Original name
-Sphaeria visci DC., 1815
+Gibberidea visci Fuckel, 1870
 
 ### Remarks
 null

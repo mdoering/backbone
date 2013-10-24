@@ -1,5 +1,4 @@
-Aulacoseira alpigena (Grunov) Krammer SPECIES
-=======
+# Aulacoseira alpigena (Grunov) Krammer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Buellia interpolata (Stirt.) A.L. Sm. SPECIES
-=======
+# Rinodina interpolata (Stirt.) Sheard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 168 (1911)
+Lichenologist 5(5-6): 461 (1973)
 
 #### Original name
 Lecidea interpolata Stirt.

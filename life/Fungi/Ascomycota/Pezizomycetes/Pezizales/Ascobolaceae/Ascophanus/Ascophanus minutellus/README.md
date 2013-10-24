@@ -1,14 +1,13 @@
-Peziza minutella P. Karst., 1869 SPECIES
-=======
+# Ascophanus minutellus (P. Karst.) P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 10: 121 (1869)
+Mycoth. fenn. (Helsinki) 1: 51 (1870)
 
 #### Original name
 Peziza minutella P. Karst., 1869

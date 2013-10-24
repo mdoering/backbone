@@ -1,5 +1,4 @@
-Bactrosphaeria Penz. & Sacc. GENUS
-=======
+# Bactrosphaeria Penz. & Sacc. GENUS
 
 #### Status
 ACCEPTED

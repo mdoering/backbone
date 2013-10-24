@@ -1,5 +1,4 @@
-Pseudodiplodia farsetiae Riedl SPECIES
-=======
+# Pseudodiplodia farsetiae Riedl SPECIES
 
 #### Status
 ACCEPTED

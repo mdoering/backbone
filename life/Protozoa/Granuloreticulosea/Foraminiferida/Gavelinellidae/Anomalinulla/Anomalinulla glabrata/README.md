@@ -1,5 +1,4 @@
-Anomalinulla glabrata (Cushman, 1924) SPECIES
-=======
+# Anomalinulla glabrata (Cushman, 1924) SPECIES
 
 #### Status
 ACCEPTED

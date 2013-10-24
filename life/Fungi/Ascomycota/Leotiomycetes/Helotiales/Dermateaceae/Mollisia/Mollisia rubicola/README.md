@@ -1,5 +1,4 @@
-Mollisia rubicola Pat. SPECIES
-=======
+# Mollisia rubicola Pat. SPECIES
 
 #### Status
 ACCEPTED

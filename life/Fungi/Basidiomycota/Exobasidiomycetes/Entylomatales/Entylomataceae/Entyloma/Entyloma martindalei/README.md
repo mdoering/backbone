@@ -1,17 +1,16 @@
-Protomyces martindalii Peck SPECIES
-=======
+# Entyloma martindalei (Peck) Piatek, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 93: 324 (2005)
 
 #### Original name
-Protomyces martindalii Peck
+Protomyces martindalei Peck, 1874
 
 ### Remarks
 null

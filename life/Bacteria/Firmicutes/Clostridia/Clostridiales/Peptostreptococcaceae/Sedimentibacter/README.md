@@ -1,5 +1,4 @@
-Sedimentibacter Breitenstein et al., 2002 GENUS
-=======
+# Sedimentibacter Breitenstein et al., 2002 GENUS
 
 #### Status
 ACCEPTED

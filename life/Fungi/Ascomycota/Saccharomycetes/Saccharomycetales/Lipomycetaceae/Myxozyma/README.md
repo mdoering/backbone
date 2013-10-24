@@ -1,5 +1,4 @@
-Myxozyma Van der Walt, Weijman & Arx GENUS
-=======
+# Myxozyma Van der Walt, Weijman & Arx GENUS
 
 #### Status
 ACCEPTED

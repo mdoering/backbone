@@ -1,8 +1,7 @@
-Oxytricha acuminata Stokes, 1887 SPECIES
-=======
+# Urosoma acuminata (Stokes, 1887) Bütschli, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

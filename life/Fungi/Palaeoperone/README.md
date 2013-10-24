@@ -1,5 +1,4 @@
-Palaeoperone D.E. Ether. GENUS
-=======
+# Palaeoperone D.E. Ether. GENUS
 
 #### Status
 ACCEPTED

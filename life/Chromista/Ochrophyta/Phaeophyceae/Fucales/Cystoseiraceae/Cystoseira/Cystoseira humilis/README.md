@@ -1,8 +1,7 @@
-Cystoseira abrotanifolia subsp. pustulata Ercegovic SUBSPECIES
-=======
+# Cystoseira humilis Schousboe ex Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

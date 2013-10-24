@@ -1,8 +1,7 @@
-Sphingomonas terrae Takeuchi et al., 1993 SPECIES
-=======
+# Sphingopyxis terrae (Takeuchi et al., 1993) Takeuchi et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Peniculistoma Jankowksi, 1964 GENUS
-=======
+# Peniculistoma Jankowksi, 1964 GENUS
 
 #### Status
 ACCEPTED

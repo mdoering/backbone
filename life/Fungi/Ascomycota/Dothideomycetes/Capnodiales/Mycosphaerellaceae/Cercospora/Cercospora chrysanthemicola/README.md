@@ -1,5 +1,4 @@
-Cercospora chrysanthemicola J.M. Yen SPECIES
-=======
+# Cercospora chrysanthemicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

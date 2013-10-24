@@ -1,5 +1,4 @@
-Entyloma debonianum Sacc. SPECIES
-=======
+# Entyloma debonianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium betulae Dearn. & Barthol. SPECIES
-=======
+# Camarosporium betulae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

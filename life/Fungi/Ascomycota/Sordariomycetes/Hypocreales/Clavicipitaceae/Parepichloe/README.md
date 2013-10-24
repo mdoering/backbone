@@ -1,5 +1,4 @@
-Parepichloe J.F. White & P.V. Reddy, 1998 GENUS
-=======
+# Parepichloe J.F. White & P.V. Reddy, 1998 GENUS
 
 #### Status
 ACCEPTED

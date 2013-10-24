@@ -1,5 +1,4 @@
-Hypotrachyna malesiana Louwhoff & Elix SPECIES
-=======
+# Hypotrachyna malesiana Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

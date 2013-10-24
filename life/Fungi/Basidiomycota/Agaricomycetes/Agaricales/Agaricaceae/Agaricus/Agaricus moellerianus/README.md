@@ -1,14 +1,13 @@
-Agaricus campestris var. floccipes (F.H. Møller) Pilát, 1951 VARIETY
-=======
+# Agaricus moellerianus Bon, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sborn. Nár. Mus. v Praze, Rada B, Prír. Vedy 7(1): 14 (1951)
+Docums Mycol. 15(no. 60): 6 (1985)
 
 #### Original name
 Psalliota campestris var. floccipes F.H. Møller, 1950

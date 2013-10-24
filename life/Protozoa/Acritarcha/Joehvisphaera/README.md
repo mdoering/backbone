@@ -1,5 +1,4 @@
-Joehvisphaera Uutela & Tynni, 1991 GENUS
-=======
+# Joehvisphaera Uutela & Tynni, 1991 GENUS
 
 #### Status
 ACCEPTED

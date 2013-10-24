@@ -1,5 +1,4 @@
-Micropsalliota campestroides var. campestroides VARIETY
-=======
+# Micropsalliota campestroides (Heinem. & Gooss.-Font.) Heinem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. Bot. Nat. Belg. 58(3-4): 542 (1988)
 
 #### Original name
-Micropsalliota campestroides var. campestroides
+Agaricus campestroides Heinem. & Gooss.-Font.
 
 ### Remarks
 null

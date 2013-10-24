@@ -1,5 +1,4 @@
-Calonectria chorleyi Hansf. SPECIES
-=======
+# Calonectria chorleyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina urticae Peyronel SPECIES
-=======
+# Diplodina urticae Peyronel SPECIES
 
 #### Status
 ACCEPTED

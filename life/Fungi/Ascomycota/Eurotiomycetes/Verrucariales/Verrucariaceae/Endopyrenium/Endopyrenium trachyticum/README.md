@@ -1,5 +1,4 @@
-Endopyrenium trachyticum Hazsl. SPECIES
-=======
+# Endopyrenium trachyticum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

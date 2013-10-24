@@ -1,5 +1,4 @@
-Didymella aegaea Petr. SPECIES
-=======
+# Didymella aegaea Petr. SPECIES
 
 #### Status
 ACCEPTED

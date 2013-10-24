@@ -1,5 +1,4 @@
-Phacus dihiston Conrad SPECIES
-=======
+# Phacus dihiston Conrad SPECIES
 
 #### Status
 ACCEPTED

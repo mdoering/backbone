@@ -1,5 +1,4 @@
-Cymatiogalea cuvillieri (Deunff, 1961) Deunff, 1964 SPECIES
-=======
+# Cymatiogalea cuvillieri (Deunff, 1961) Deunff, 1964 SPECIES
 
 #### Status
 ACCEPTED

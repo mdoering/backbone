@@ -1,17 +1,16 @@
-Colletotrichum asplenifoliae Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum aspleniifoliae Pavgi & U.P. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 27: 85 (1965)
 
 #### Original name
-Colletotrichum asplenifoliae Pavgi & U.P. Singh
+Colletotrichum aspleniifoliae Pavgi & U.P. Singh
 
 ### Remarks
 null

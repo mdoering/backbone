@@ -1,5 +1,4 @@
-Pyrenochaeta dalbergiae S. Ahmad SPECIES
-=======
+# Pyrenochaeta dalbergiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

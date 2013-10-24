@@ -1,5 +1,4 @@
-Pluteus phaeoleucus E. Horak SPECIES
-=======
+# Pluteus phaeoleucus E. Horak SPECIES
 
 #### Status
 ACCEPTED

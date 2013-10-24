@@ -1,5 +1,4 @@
-Brachysporisporites infacetus Kalgutkar SPECIES
-=======
+# Brachysporisporites infacetus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

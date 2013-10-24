@@ -1,5 +1,4 @@
-Clitocybe leucodiatreta Bon SPECIES
-=======
+# Clitocybe leucodiatreta Bon SPECIES
 
 #### Status
 ACCEPTED

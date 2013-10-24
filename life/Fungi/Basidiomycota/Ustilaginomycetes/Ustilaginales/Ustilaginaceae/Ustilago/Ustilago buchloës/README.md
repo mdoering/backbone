@@ -1,5 +1,4 @@
-Ustilago buchloës Ellis & Tracy, 1890 SPECIES
-=======
+# Ustilago buchloës Ellis & Tracy, 1890 SPECIES
 
 #### Status
 ACCEPTED

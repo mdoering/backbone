@@ -1,5 +1,4 @@
-Calenia maculans (Vain.) R. Sant. SPECIES
-=======
+# Calenia maculans (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

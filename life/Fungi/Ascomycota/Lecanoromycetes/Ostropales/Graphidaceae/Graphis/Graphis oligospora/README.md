@@ -1,5 +1,4 @@
-Graphis oligospora Zahlbr. SPECIES
-=======
+# Graphis oligospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

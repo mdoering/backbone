@@ -1,14 +1,13 @@
-Lopadium tayabasense (Vain.) Zahlbr. SPECIES
-=======
+# Calopadiopsis tayabasensis (Vain.) Lücking & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 315 (1926)
+Bryologist 105(1): 58 (2002)
 
 #### Original name
 Sporopodium tayabasense

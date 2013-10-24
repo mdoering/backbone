@@ -1,5 +1,4 @@
-Stereum vittiforme Fr. SPECIES
-=======
+# Stereum vittiforme Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma paniculata (Ellis & Dearn.) Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma paniculata (Ellis & Dearn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

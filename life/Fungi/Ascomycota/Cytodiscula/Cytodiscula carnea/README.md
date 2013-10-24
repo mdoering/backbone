@@ -1,5 +1,4 @@
-Cytodiscula carnea Petr., 1931 SPECIES
-=======
+# Cytodiscula carnea Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

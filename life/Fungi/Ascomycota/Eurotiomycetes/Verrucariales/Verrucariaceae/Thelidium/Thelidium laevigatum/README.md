@@ -1,5 +1,4 @@
-Thelidium laevigatum f. laevigatum FORM
-=======
+# Thelidium laevigatum (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium laevigatum f. laevigatum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Miyakeomyces Hara GENUS
-=======
+# Miyakeomyces Hara GENUS
 
 #### Status
 ACCEPTED

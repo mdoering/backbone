@@ -1,5 +1,4 @@
-Caloplaca nigrescens N.S. Golubk. & Savicz SPECIES
-=======
+# Caloplaca nigrescens N.S. Golubk. & Savicz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astraeus Morgan, 1889 GENUS
-=======
+# Astraeus Morgan, 1889 GENUS
 
 #### Status
 ACCEPTED

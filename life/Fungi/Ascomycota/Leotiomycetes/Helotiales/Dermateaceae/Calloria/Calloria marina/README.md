@@ -1,5 +1,4 @@
-Calloria marina W. Phillips, 1908 SPECIES
-=======
+# Calloria marina W. Phillips, 1908 SPECIES
 
 #### Status
 ACCEPTED

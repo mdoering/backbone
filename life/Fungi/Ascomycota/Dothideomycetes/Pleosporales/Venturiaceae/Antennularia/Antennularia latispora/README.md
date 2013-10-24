@@ -1,5 +1,4 @@
-Antennularia latispora M.E. Barr SPECIES
-=======
+# Antennularia latispora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

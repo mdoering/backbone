@@ -1,14 +1,13 @@
-Plectodiscella piri Woron. SPECIES
-=======
+# Elsinoë piri (Woron.) Jenkins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mykol. Zentbl. 4: (1914)
+Journal of Agricultural Research 44: 696 (1932)
 
 #### Original name
 Plectodiscella piri Woron.

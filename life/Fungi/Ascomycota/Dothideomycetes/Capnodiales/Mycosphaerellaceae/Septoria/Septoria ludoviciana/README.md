@@ -1,5 +1,4 @@
-Septoria ludoviciana Ellis & Everh. SPECIES
-=======
+# Septoria ludoviciana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

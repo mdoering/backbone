@@ -1,5 +1,4 @@
-Chaenothecopsis amurensis Titov SPECIES
-=======
+# Chaenothecopsis amurensis Titov SPECIES
 
 #### Status
 ACCEPTED

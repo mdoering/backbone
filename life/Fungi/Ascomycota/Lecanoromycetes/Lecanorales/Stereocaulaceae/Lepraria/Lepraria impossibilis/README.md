@@ -1,5 +1,4 @@
-Lepraria impossibilis Sipman SPECIES
-=======
+# Lepraria impossibilis Sipman SPECIES
 
 #### Status
 ACCEPTED

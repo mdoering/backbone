@@ -1,5 +1,4 @@
-Helminthosporium magnisporum Shirouzu & Y. Harada SPECIES
-=======
+# Helminthosporium magnisporum Shirouzu & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

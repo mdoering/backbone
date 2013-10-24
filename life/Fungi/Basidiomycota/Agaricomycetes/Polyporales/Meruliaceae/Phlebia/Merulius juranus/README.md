@@ -1,5 +1,4 @@
-Merulius juranus (Quél. & Pat.) Kuntze SPECIES
-=======
+# Merulius juranus (Quél. & Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

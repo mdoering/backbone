@@ -1,5 +1,4 @@
-Mycoderma infestans (Moses & Vianna) Fonseca & Leão SPECIES
-=======
+# Mycoderma infestans (Moses & Vianna) Fonseca & Leão SPECIES
 
 #### Status
 ACCEPTED

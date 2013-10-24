@@ -1,5 +1,4 @@
-Exobasidium formosanum Sawada SPECIES
-=======
+# Exobasidium formosanum Sawada SPECIES
 
 #### Status
 ACCEPTED

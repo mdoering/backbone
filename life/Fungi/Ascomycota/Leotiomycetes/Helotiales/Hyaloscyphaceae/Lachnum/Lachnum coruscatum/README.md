@@ -1,5 +1,4 @@
-Lachnum coruscatum (Graddon) SPECIES
-=======
+# Lachnum coruscatum (Graddon) SPECIES
 
 #### Status
 ACCEPTED

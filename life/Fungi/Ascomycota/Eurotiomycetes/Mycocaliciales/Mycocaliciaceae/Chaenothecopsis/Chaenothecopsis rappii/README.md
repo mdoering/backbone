@@ -1,5 +1,4 @@
-Chaenothecopsis rappii (Nádv.) R.C. Harris SPECIES
-=======
+# Chaenothecopsis rappii (Nádv.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia reptans Kurok. SPECIES
-=======
+# Xanthoparmelia reptans (Kurok.) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Baker et al. , Aust. J. Bot. 21: 137 (1973)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 316 (1986)
 
 #### Original name
 Parmelia reptans Kurok.

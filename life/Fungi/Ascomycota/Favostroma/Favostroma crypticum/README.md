@@ -1,5 +1,4 @@
-Favostroma crypticum B. Sutton & E.M. Davison, 1983 SPECIES
-=======
+# Favostroma crypticum B. Sutton & E.M. Davison, 1983 SPECIES
 
 #### Status
 ACCEPTED

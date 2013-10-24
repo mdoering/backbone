@@ -1,5 +1,4 @@
-Clastostelium L.S. Olive & Stoian. GENUS
-=======
+# Clastostelium L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

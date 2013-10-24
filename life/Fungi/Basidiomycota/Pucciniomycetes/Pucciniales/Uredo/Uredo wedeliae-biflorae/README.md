@@ -1,5 +1,4 @@
-Uredo wedeliae-biflorae Syd. & P. Syd. SPECIES
-=======
+# Uredo wedeliae-biflorae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

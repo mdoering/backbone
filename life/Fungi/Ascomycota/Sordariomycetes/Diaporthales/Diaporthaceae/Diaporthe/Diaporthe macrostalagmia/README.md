@@ -1,5 +1,4 @@
-Diaporthe macrostalagmia Tassi SPECIES
-=======
+# Diaporthe macrostalagmia Tassi SPECIES
 
 #### Status
 ACCEPTED

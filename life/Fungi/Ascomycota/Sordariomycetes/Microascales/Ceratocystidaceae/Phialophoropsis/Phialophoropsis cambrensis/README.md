@@ -1,5 +1,4 @@
-Phialophoropsis cambrensis B.L. Brady & B. Sutton, 1979 SPECIES
-=======
+# Phialophoropsis cambrensis B.L. Brady & B. Sutton, 1979 SPECIES
 
 #### Status
 ACCEPTED

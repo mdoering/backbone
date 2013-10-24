@@ -1,5 +1,4 @@
-Pseudocercospora mitteriana Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora mitteriana Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycidium cuneatum Stirt. SPECIES
-=======
+# Calycidium cuneatum Stirt. SPECIES
 
 #### Status
 ACCEPTED

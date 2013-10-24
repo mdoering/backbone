@@ -1,5 +1,4 @@
-Nectria caespiticia Syd. SPECIES
-=======
+# Nectria caespiticia Syd. SPECIES
 
 #### Status
 ACCEPTED

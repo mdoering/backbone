@@ -1,5 +1,4 @@
-Psilocybe interjungens (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe interjungens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

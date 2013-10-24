@@ -1,5 +1,4 @@
-Porina austropacifica P. M. McCarthy SPECIES
-=======
+# Porina austropacifica P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

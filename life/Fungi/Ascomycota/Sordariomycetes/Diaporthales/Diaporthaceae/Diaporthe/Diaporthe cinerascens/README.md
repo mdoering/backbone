@@ -1,17 +1,16 @@
-Phoma cinerescens Sacc., 1879 SPECIES
-=======
+# Diaporthe cinerascens Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 521 (1879)
+Syll. fung. (Abellini) 1: 679 (1882)
 
 #### Original name
-Phoma cinerescens Sacc., 1879
+Diaporthe cinerascens Sacc., 1882
 
 ### Remarks
 null

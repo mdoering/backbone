@@ -1,5 +1,4 @@
-Pertusaria chilena Zahlbr. SPECIES
-=======
+# Pertusaria chilena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

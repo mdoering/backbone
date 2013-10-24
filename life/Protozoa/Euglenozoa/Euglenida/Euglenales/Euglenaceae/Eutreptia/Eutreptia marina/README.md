@@ -1,5 +1,4 @@
-Eutreptia marina SPECIES
-=======
+# Eutreptia marina SPECIES
 
 #### Status
 ACCEPTED

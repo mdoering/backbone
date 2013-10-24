@@ -1,5 +1,4 @@
-Dendritina antillarum SPECIES
-=======
+# Dendritina antillarum SPECIES
 
 #### Status
 ACCEPTED

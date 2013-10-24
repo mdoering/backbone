@@ -1,5 +1,4 @@
-Cinetochilum australiense Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Cinetochilum australiense Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera austroamericana var. austroamericana VARIETY
-=======
+# Peltigera austroamericana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cat. Lich. Univers. 3: 456 (1925)
 
 #### Original name
-Peltigera austroamericana var. austroamericana
+Peltigera americana Spreng.
 
 ### Remarks
 null

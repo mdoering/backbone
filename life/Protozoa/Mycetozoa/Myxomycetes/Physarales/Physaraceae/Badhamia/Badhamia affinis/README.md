@@ -1,17 +1,16 @@
-Badhamia affinis var. microspora (Meyl.) Nann.-Bremek. & Y. Yamam. VARIETY
-=======
+# Badhamia affinis Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 89(2): 221 (1986)
+Sluzowce monogr. (Paryz) 143 (1875)
 
 #### Original name
-Badhamia orbiculata var. microspora Meyl.
+Badhamia affinis Rostaf., 1874
 
 ### Remarks
 null

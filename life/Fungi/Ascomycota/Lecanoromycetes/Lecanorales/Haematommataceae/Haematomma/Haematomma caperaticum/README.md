@@ -1,5 +1,4 @@
-Haematomma caperaticum Brodo, W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Haematomma caperaticum Brodo, W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria atra Lynge SPECIES
-=======
+# Pertusaria atra Lynge SPECIES
 
 #### Status
 ACCEPTED

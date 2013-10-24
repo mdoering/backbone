@@ -1,5 +1,4 @@
-Lepiota alliciens Berk. SPECIES
-=======
+# Lepiota alliciens Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor sessilis Gled. SPECIES
-=======
+# Mucor sessilis Gled. SPECIES
 
 #### Status
 ACCEPTED

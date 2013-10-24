@@ -1,5 +1,4 @@
-Tilletia flectens Lagerh. SPECIES
-=======
+# Tilletia flectens Lagerh. SPECIES
 
 #### Status
 ACCEPTED

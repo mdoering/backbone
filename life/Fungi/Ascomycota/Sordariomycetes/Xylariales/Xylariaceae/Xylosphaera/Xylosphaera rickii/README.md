@@ -1,5 +1,4 @@
-Xylosphaera rickii (Theiss.) Dennis SPECIES
-=======
+# Xylosphaera rickii (Theiss.) Dennis SPECIES
 
 #### Status
 ACCEPTED

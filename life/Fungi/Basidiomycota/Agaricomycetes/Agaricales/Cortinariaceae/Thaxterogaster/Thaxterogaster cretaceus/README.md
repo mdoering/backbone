@@ -1,5 +1,4 @@
-Thaxterogaster cretaceus E. Horak SPECIES
-=======
+# Thaxterogaster cretaceus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium cinereorufescens (Vain.) R. Sant. SPECIES
-=======
+# Calicium cinereorufescens (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

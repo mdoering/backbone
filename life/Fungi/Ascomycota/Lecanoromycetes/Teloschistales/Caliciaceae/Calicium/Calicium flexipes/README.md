@@ -1,5 +1,4 @@
-Calicium flexipes Ach. SPECIES
-=======
+# Calicium flexipes Ach. SPECIES
 
 #### Status
 ACCEPTED

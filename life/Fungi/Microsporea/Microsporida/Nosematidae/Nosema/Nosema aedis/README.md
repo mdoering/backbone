@@ -1,5 +1,4 @@
-Nosema aedis R. Kudo SPECIES
-=======
+# Nosema aedis R. Kudo SPECIES
 
 #### Status
 ACCEPTED

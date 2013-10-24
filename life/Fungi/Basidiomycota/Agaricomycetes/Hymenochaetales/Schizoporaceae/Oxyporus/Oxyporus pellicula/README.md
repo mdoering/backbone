@@ -1,17 +1,16 @@
-Poria proxima Bres., 1925 SPECIES
-=======
+# Oxyporus pellicula (Jungh.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 17(2): 76 (1925)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 455 (1980)
 
 #### Original name
-Poria proxima Bres., 1925
+Polyporus pellicula Jungh., 1838
 
 ### Remarks
 null

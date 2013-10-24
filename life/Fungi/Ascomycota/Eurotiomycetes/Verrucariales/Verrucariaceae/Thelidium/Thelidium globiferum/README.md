@@ -1,5 +1,4 @@
-Thelidium globiferum Servít SPECIES
-=======
+# Thelidium globiferum Servít SPECIES
 
 #### Status
 ACCEPTED

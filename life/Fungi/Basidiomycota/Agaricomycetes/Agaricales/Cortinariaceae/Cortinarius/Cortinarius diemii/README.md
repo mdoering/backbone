@@ -1,5 +1,4 @@
-Cortinarius diemii M.M. Moser SPECIES
-=======
+# Cortinarius diemii M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

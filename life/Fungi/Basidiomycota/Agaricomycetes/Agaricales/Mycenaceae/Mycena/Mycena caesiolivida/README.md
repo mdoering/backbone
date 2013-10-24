@@ -1,5 +1,4 @@
-Mycena caesiolivida Bres. SPECIES
-=======
+# Mycena caesiolivida Bres. SPECIES
 
 #### Status
 ACCEPTED

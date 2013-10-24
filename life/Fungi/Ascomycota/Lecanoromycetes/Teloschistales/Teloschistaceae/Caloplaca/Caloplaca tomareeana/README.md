@@ -1,5 +1,4 @@
-Caloplaca tomareeana S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca tomareeana S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

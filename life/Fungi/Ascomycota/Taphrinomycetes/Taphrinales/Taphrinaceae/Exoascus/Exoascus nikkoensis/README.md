@@ -1,5 +1,4 @@
-Exoascus nikkoensis (Kusano) Sacc. & Trotter SPECIES
-=======
+# Exoascus nikkoensis (Kusano) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

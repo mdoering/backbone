@@ -1,17 +1,16 @@
-Cercosporina danaecola Vienn.-Bourg. SPECIES
-=======
+# Cercosporina danaicola Vienn.-Bourg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Viennot-Bourgin, Ale-Agha & Ershad, Ann. Mus. Civ. Stor. Nat. Genova 2(4): 716 (1970)
 
 #### Original name
-Cercosporina danaecola Vienn.-Bourg.
+Cercosporina danaicola Vienn.-Bourg.
 
 ### Remarks
 null

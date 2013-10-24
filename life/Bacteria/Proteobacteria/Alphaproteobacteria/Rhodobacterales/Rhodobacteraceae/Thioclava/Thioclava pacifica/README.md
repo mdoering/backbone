@@ -1,5 +1,4 @@
-Thioclava pacifica Sorokin et al., 2005 SPECIES
-=======
+# Thioclava pacifica Sorokin et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

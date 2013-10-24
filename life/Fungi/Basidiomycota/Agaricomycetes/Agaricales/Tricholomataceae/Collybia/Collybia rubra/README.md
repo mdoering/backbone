@@ -1,5 +1,4 @@
-Collybia rubra Rick SPECIES
-=======
+# Collybia rubra Rick SPECIES
 
 #### Status
 ACCEPTED

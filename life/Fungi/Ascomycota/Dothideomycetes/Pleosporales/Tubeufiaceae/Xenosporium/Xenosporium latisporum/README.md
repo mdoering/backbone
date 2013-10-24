@@ -1,5 +1,4 @@
-Xenosporium latisporum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Xenosporium latisporum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

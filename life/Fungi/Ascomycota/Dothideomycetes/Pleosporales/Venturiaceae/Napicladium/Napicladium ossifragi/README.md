@@ -1,5 +1,4 @@
-Napicladium ossifragi Rostr. SPECIES
-=======
+# Napicladium ossifragi Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Polystomella poeyanum d'Orbigny, 1826 SPECIES
-=======
+# Cribroelphidium poeyanum (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

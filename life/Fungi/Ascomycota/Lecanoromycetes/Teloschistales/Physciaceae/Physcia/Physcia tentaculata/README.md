@@ -1,5 +1,4 @@
-Physcia tentaculata Zahlbr. SPECIES
-=======
+# Physcia tentaculata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

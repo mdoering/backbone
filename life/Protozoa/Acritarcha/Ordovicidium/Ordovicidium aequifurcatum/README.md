@@ -1,5 +1,4 @@
-Ordovicidium aequifurcatum (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
-=======
+# Ordovicidium aequifurcatum (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

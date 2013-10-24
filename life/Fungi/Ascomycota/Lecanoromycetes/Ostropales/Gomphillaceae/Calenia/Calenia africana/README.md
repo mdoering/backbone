@@ -1,5 +1,4 @@
-Calenia africana Sérus. SPECIES
-=======
+# Calenia africana Sérus. SPECIES
 
 #### Status
 ACCEPTED

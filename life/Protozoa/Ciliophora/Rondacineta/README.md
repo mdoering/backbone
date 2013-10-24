@@ -1,5 +1,4 @@
-Rondacineta Yankovskii, 1978 GENUS
-=======
+# Rondacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

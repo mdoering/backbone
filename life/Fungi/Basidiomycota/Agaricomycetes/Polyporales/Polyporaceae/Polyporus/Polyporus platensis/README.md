@@ -1,5 +1,4 @@
-Polyporus platensis Speg., 1881 SPECIES
-=======
+# Polyporus platensis Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

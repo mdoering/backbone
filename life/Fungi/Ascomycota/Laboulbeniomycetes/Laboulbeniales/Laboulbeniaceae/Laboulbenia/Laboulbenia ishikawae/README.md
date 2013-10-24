@@ -1,8 +1,7 @@
-Laboulbenia ishikawai Sugiy. SPECIES
-=======
+# Laboulbenia ishikawae Sugiy. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia ishikawai Sugiy.
+Laboulbenia ishikawae Sugiy.
 
 ### Remarks
 null

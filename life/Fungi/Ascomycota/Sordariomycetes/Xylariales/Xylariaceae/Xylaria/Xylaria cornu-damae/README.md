@@ -1,5 +1,4 @@
-Xylaria cornu-damae (Schwein.) Berk., 1873 SPECIES
-=======
+# Xylaria cornu-damae (Schwein.) Berk., 1873 SPECIES
 
 #### Status
 ACCEPTED

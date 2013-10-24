@@ -1,5 +1,4 @@
-Protocoronospora phoradendri Darling SPECIES
-=======
+# Protocoronospora phoradendri Darling SPECIES
 
 #### Status
 ACCEPTED

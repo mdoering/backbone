@@ -1,5 +1,4 @@
-Cryptodiscus speratus Sherwood SPECIES
-=======
+# Cryptodiscus speratus Sherwood SPECIES
 
 #### Status
 ACCEPTED

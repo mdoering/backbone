@@ -1,5 +1,4 @@
-Usnea lesdainii Motyka SPECIES
-=======
+# Usnea lesdainii Motyka SPECIES
 
 #### Status
 ACCEPTED

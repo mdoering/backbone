@@ -1,5 +1,4 @@
-Canninginopsis tabulata (Davey & Verdier, 1974) Duxbury SPECIES
-=======
+# Canninginopsis tabulata (Davey & Verdier, 1974) Duxbury SPECIES
 
 #### Status
 ACCEPTED

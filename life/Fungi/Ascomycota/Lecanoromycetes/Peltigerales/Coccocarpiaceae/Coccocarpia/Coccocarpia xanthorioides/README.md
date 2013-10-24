@@ -1,5 +1,4 @@
-Coccocarpia xanthorioides Arv. SPECIES
-=======
+# Coccocarpia xanthorioides Arv. SPECIES
 
 #### Status
 ACCEPTED

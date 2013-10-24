@@ -1,5 +1,4 @@
-Sphaerulina pterocarpi (Racib.) Arx & E. Müll. SPECIES
-=======
+# Sphaerulina pterocarpi (Racib.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

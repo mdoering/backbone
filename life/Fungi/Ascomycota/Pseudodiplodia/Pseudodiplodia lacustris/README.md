@@ -1,5 +1,4 @@
-Pseudodiplodia lacustris Riedl SPECIES
-=======
+# Pseudodiplodia lacustris Riedl SPECIES
 
 #### Status
 ACCEPTED

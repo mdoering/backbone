@@ -1,5 +1,4 @@
-Hymenoscyphus fossarum (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus fossarum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

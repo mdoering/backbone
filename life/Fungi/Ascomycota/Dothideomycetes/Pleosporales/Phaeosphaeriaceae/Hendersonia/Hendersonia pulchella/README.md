@@ -1,5 +1,4 @@
-Hendersonia pulchella var. pulchella VARIETY
-=======
+# Hendersonia pulchella Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 1): 112 (1877)
 
 #### Original name
-Hendersonia pulchella var. pulchella
+Hendersonia pulchella Sacc.
 
 ### Remarks
 null

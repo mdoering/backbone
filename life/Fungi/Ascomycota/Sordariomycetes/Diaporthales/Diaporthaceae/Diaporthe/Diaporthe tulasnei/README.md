@@ -1,17 +1,16 @@
-Phomopsis tulasnei Sacc., 1906 SPECIES
-=======
+# Diaporthe tulasnei Niessl, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. 2: 222 (1906)
+Pyrenomycetes Germanici 274 (1870)
 
 #### Original name
-Phomopsis tulasnei Sacc., 1906
+Diaporthe tulasnei Niessl, 1870
 
 ### Remarks
 null

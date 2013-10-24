@@ -1,5 +1,4 @@
-Corticium syringae (Fuckel) G. Winter SPECIES
-=======
+# Corticium syringae (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

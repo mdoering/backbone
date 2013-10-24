@@ -1,5 +1,4 @@
-Tricholoma bulliardii Velen. SPECIES
-=======
+# Tricholoma bulliardii Velen. SPECIES
 
 #### Status
 ACCEPTED

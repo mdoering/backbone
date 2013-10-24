@@ -1,5 +1,4 @@
-Sorogena stoianovitchae Bradbury & Olive, 1980 SPECIES
-=======
+# Sorogena stoianovitchae Bradbury & Olive, 1980 SPECIES
 
 #### Status
 ACCEPTED

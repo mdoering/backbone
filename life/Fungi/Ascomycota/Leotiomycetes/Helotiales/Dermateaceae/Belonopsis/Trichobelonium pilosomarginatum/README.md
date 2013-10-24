@@ -1,5 +1,4 @@
-Trichobelonium pilosomarginatum Feltgen SPECIES
-=======
+# Trichobelonium pilosomarginatum Feltgen SPECIES
 
 #### Status
 ACCEPTED

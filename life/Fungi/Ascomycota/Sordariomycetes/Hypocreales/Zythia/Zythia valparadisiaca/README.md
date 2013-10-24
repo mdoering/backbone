@@ -1,5 +1,4 @@
-Zythia valparadisiaca Speg. SPECIES
-=======
+# Zythia valparadisiaca Speg. SPECIES
 
 #### Status
 ACCEPTED

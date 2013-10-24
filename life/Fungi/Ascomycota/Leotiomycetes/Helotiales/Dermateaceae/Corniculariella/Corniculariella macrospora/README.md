@@ -1,5 +1,4 @@
-Corniculariella macrospora (Berk. & M.A. Curtis) SPECIES
-=======
+# Corniculariella macrospora (Berk. & M.A. Curtis) SPECIES
 
 #### Status
 ACCEPTED

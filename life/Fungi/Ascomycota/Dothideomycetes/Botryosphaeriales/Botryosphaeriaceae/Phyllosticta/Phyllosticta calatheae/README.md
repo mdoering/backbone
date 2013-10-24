@@ -1,5 +1,4 @@
-Phyllosticta calatheae Verpl. & Claess. SPECIES
-=======
+# Phyllosticta calatheae Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

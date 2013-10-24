@@ -1,5 +1,4 @@
-Tapellariopsis Lücking GENUS
-=======
+# Tapellariopsis Lücking GENUS
 
 #### Status
 ACCEPTED

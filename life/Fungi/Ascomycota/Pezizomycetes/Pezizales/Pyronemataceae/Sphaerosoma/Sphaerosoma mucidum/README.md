@@ -1,5 +1,4 @@
-Sphaerosoma mucidum (Rodway) Hansf. SPECIES
-=======
+# Sphaerosoma mucidum (Rodway) Hansf. SPECIES
 
 #### Status
 ACCEPTED

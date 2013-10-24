@@ -1,5 +1,4 @@
-Dothiorella frangulae Died. SPECIES
-=======
+# Dothiorella frangulae Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urospora cocciferae Fabre SPECIES
-=======
+# Urospora cocciferae Fabre SPECIES
 
 #### Status
 ACCEPTED

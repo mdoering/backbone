@@ -1,5 +1,4 @@
-Rhachomyces grenadinus Thaxt. SPECIES
-=======
+# Rhachomyces grenadinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenonia anatina Vandamme et al., 1999 SPECIES
-=======
+# Coenonia anatina Vandamme et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bartonella taylorii Birtles et al., 1995 SPECIES
-=======
+# Bartonella taylorii Birtles et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

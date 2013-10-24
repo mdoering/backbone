@@ -1,5 +1,4 @@
-Schismatosphaeridium rugulosum Dorning, 1981 emend. Mullins, 2001 SPECIES
-=======
+# Schismatosphaeridium rugulosum Dorning, 1981 emend. Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

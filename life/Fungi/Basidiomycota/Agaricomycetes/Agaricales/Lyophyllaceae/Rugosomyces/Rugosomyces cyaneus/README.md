@@ -1,5 +1,4 @@
-Rugosomyces cyaneus (Singer ex Redhead & Singer) Bon SPECIES
-=======
+# Rugosomyces cyaneus (Singer ex Redhead & Singer) Bon SPECIES
 
 #### Status
 ACCEPTED

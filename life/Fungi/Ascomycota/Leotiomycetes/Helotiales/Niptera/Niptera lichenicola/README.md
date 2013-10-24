@@ -1,5 +1,4 @@
-Niptera lichenicola (Speg.) Sacc. SPECIES
-=======
+# Niptera lichenicola (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

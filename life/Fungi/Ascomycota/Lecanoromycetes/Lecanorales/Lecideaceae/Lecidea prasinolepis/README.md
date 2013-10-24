@@ -1,5 +1,4 @@
-Lecidea prasinolepis Nyl. SPECIES
-=======
+# Lecidea prasinolepis Nyl. SPECIES
 
 #### Status
 ACCEPTED

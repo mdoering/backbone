@@ -1,14 +1,13 @@
-Parmelia subsimilis H. Magn. SPECIES
-=======
+# Menegazzia subsimilis (H. Magn.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 30B(no. 3): 5 (1942)
+Ark. Bot. 30A(no. 11): 13 (1943)
 
 #### Original name
 Parmelia subsimilis H. Magn.

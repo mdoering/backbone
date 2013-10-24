@@ -1,5 +1,4 @@
-Cortinarius argutiformis Rob. Henry SPECIES
-=======
+# Cortinarius argutiformis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

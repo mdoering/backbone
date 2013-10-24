@@ -1,5 +1,4 @@
-Lecidea strepsodina Leight. SPECIES
-=======
+# Lecidea strepsodina Leight. SPECIES
 
 #### Status
 ACCEPTED

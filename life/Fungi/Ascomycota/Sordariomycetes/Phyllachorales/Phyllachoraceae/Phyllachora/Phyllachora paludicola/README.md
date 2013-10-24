@@ -1,5 +1,4 @@
-Phyllachora paludicola Kohlm. & Volkm.-Kohlm., 2003 SPECIES
-=======
+# Phyllachora paludicola Kohlm. & Volkm.-Kohlm., 2003 SPECIES
 
 #### Status
 ACCEPTED

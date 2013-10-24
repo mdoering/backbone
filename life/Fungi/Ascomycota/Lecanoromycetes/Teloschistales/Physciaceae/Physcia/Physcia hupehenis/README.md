@@ -1,5 +1,4 @@
-Physcia hupehenis J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
-=======
+# Physcia hupehenis J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
 
 #### Status
 ACCEPTED

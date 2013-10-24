@@ -1,5 +1,4 @@
-Paratrichaegum stercorarium Faurel & Schotter SPECIES
-=======
+# Paratrichaegum stercorarium Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dermocarpa incrassata (Lemmermann) Geitler SPECIES
-=======
+# Chamaecalyx incrassatus (Lemmermann) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

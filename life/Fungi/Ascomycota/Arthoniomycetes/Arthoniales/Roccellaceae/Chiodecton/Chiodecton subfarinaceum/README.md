@@ -1,5 +1,4 @@
-Chiodecton subfarinaceum Stirt. SPECIES
-=======
+# Chiodecton subfarinaceum Stirt. SPECIES
 
 #### Status
 ACCEPTED

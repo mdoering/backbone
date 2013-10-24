@@ -1,5 +1,4 @@
-Eubacterium minutum Poco et al., 1996 SPECIES
-=======
+# Eubacterium minutum Poco et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

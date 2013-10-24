@@ -1,5 +1,4 @@
-Cercospora jujubae S. Chowdhury SPECIES
-=======
+# Cercospora jujubae S. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

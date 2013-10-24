@@ -1,5 +1,4 @@
-Aristastoma jaculum B. Sutton SPECIES
-=======
+# Aristastoma jaculum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

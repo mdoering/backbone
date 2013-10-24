@@ -1,5 +1,4 @@
-Diplodia asterigmatica Vestergr. SPECIES
-=======
+# Diplodia asterigmatica Vestergr. SPECIES
 
 #### Status
 ACCEPTED

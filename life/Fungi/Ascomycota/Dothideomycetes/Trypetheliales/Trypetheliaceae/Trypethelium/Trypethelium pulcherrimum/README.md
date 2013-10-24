@@ -1,5 +1,4 @@
-Trypethelium pulcherrimum Fée SPECIES
-=======
+# Trypethelium pulcherrimum Fée SPECIES
 
 #### Status
 ACCEPTED

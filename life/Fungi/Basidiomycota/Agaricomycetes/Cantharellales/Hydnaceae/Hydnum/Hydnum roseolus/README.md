@@ -1,5 +1,4 @@
-Hydnum roseolus Banker SPECIES
-=======
+# Hydnum roseolus Banker SPECIES
 
 #### Status
 ACCEPTED

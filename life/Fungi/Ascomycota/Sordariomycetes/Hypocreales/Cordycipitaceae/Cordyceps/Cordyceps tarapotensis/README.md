@@ -1,5 +1,4 @@
-Cordyceps tarapotensis Henn. SPECIES
-=======
+# Cordyceps tarapotensis Henn. SPECIES
 
 #### Status
 ACCEPTED

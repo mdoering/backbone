@@ -1,5 +1,4 @@
-Graphina filiformis Zahlbr. SPECIES
-=======
+# Graphina filiformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

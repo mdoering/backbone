@@ -1,5 +1,4 @@
-Otomonas Léger, 1902 GENUS
-=======
+# Otomonas Léger, 1902 GENUS
 
 #### Status
 ACCEPTED

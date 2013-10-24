@@ -1,5 +1,4 @@
-Stereum phalenarum Kalchbr. ex Bres. SPECIES
-=======
+# Stereum phalenarum Kalchbr. ex Bres. SPECIES
 
 #### Status
 ACCEPTED

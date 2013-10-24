@@ -1,5 +1,4 @@
-Balaniopsis kirkii Whitton, McKenzie & K.D. Hyde, 2002 SPECIES
-=======
+# Balaniopsis kirkii Whitton, McKenzie & K.D. Hyde, 2002 SPECIES
 
 #### Status
 ACCEPTED

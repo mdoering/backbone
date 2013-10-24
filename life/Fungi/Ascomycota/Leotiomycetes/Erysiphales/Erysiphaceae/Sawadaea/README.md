@@ -1,5 +1,4 @@
-Sawadaea Miyabe, 1914 GENUS
-=======
+# Sawadaea Miyabe, 1914 GENUS
 
 #### Status
 ACCEPTED

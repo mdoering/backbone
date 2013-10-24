@@ -1,17 +1,16 @@
-Dothideopsella phyllanthae Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Dothideopsella phyllanthi Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 23(1-6): 26 (1970)
 
 #### Original name
-Dothideopsella phyllanthae Tilak, S.B. Kale & S.V.S. Kale
+Dothideopsella phyllanthi Tilak, S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

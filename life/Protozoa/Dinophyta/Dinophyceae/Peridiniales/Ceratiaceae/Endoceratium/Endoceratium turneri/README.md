@@ -1,5 +1,4 @@
-Endoceratium turneri (Cookson & Eisenack, 1958) Stover & Evitt, 1978 SPECIES
-=======
+# Endoceratium turneri (Cookson & Eisenack, 1958) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

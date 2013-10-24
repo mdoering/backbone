@@ -1,5 +1,4 @@
-Boletus squamigeri Staude & Lenz SPECIES
-=======
+# Boletus squamigeri Staude & Lenz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gobia baltica (Gobi) Reinke SPECIES
-=======
+# Dictyosiphon chordarius Areschoug SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

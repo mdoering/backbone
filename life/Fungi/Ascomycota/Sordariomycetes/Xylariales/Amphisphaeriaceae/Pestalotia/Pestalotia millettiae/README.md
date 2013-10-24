@@ -1,5 +1,4 @@
-Pestalotia millettiae Laughton SPECIES
-=======
+# Pestalotia millettiae Laughton SPECIES
 
 #### Status
 ACCEPTED

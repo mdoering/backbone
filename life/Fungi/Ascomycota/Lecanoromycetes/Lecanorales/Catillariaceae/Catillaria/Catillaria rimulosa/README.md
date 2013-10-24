@@ -1,5 +1,4 @@
-Catillaria rimulosa B. de Lesd. SPECIES
-=======
+# Catillaria rimulosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

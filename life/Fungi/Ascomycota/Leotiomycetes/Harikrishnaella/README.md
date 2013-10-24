@@ -1,5 +1,4 @@
-Harikrishnaella GENUS
-=======
+# Harikrishnaella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Natrialba taiwanensis Hezayen et al., 2001 SPECIES
-=======
+# Natrialba taiwanensis Hezayen et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

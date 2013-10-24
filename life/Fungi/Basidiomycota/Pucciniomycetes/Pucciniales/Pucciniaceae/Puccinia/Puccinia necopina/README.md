@@ -1,5 +1,4 @@
-Puccinia necopina Grove SPECIES
-=======
+# Puccinia necopina Grove SPECIES
 
 #### Status
 ACCEPTED

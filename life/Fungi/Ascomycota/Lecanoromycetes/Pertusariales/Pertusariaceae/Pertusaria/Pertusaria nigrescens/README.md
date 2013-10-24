@@ -1,5 +1,4 @@
-Pertusaria nigrescens Preeti Srivast. & D.D. Awasthi SPECIES
-=======
+# Pertusaria nigrescens Preeti Srivast. & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

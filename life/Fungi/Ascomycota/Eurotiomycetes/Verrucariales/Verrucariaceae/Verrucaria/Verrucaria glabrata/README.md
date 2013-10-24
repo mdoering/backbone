@@ -1,5 +1,4 @@
-Verrucaria glabrata Ach. SPECIES
-=======
+# Verrucaria glabrata Ach. SPECIES
 
 #### Status
 ACCEPTED

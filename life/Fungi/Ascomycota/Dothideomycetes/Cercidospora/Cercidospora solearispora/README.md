@@ -1,5 +1,4 @@
-Cercidospora solearispora Calat., Nav.-Ros. & Hafellner, 2009 SPECIES
-=======
+# Cercidospora solearispora Calat., Nav.-Ros. & Hafellner, 2009 SPECIES
 
 #### Status
 ACCEPTED

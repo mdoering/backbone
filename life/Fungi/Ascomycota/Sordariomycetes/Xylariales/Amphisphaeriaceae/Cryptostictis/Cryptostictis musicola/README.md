@@ -1,5 +1,4 @@
-Cryptostictis musicola (Nicot-Toul.) B. Sutton SPECIES
-=======
+# Cryptostictis musicola (Nicot-Toul.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

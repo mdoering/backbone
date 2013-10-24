@@ -1,5 +1,4 @@
-Asteridiella stevensonii (Cif.) Hansf. SPECIES
-=======
+# Asteridiella stevensonii (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

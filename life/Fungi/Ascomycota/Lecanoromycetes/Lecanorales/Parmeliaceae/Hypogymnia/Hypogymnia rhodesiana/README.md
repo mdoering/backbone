@@ -1,5 +1,4 @@
-Hypogymnia rhodesiana C.W. Dodge SPECIES
-=======
+# Hypogymnia rhodesiana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis emicis R.G. Shivas, 1992 SPECIES
-=======
+# Phomopsis emicis R.G. Shivas, 1992 SPECIES
 
 #### Status
 ACCEPTED

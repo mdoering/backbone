@@ -1,5 +1,4 @@
-Phomopsis brevistylospora Ts. Kobay. & Tak. Ohsawa SPECIES
-=======
+# Phomopsis brevistylospora Ts. Kobay. & Tak. Ohsawa SPECIES
 
 #### Status
 ACCEPTED

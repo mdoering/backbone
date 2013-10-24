@@ -1,5 +1,4 @@
-Coprinus gelatinosus D.A. Reid & Eicker SPECIES
-=======
+# Coprinus gelatinosus D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

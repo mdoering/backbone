@@ -1,5 +1,4 @@
-Shewanella marisflavi Yoon et al., 2004 SPECIES
-=======
+# Shewanella marisflavi Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Debaryomyces globularis Krassiln. SPECIES
-=======
+# Debaryomyces globularis Krassiln. SPECIES
 
 #### Status
 ACCEPTED

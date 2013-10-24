@@ -1,5 +1,4 @@
-Metarhizium viridicolumnare (Matsush.) Matsush. SPECIES
-=======
+# Metarhizium viridicolumnare (Matsush.) Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia variabilis Müll. Arg. SPECIES
-=======
+# Arthonia variabilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

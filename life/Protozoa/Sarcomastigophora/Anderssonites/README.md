@@ -1,5 +1,4 @@
-Anderssonites Syomina, Solovieva & Bensh in Semina, Solovieva & Bensh, 1987 GENUS
-=======
+# Anderssonites Syomina, Solovieva & Bensh in Semina, Solovieva & Bensh, 1987 GENUS
 
 #### Status
 ACCEPTED

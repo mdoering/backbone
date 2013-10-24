@@ -1,5 +1,4 @@
-Fungoides multiplex SPECIES
-=======
+# Fungoides multiplex SPECIES
 
 #### Status
 ACCEPTED

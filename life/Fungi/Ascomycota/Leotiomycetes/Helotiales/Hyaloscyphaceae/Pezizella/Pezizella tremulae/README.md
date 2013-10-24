@@ -1,5 +1,4 @@
-Pezizella tremulae Velen. SPECIES
-=======
+# Pezizella tremulae Velen. SPECIES
 
 #### Status
 ACCEPTED

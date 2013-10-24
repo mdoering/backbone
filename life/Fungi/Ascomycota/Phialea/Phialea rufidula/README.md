@@ -1,5 +1,4 @@
-Phialea rufidula Bres. SPECIES
-=======
+# Phialea rufidula Bres. SPECIES
 
 #### Status
 ACCEPTED

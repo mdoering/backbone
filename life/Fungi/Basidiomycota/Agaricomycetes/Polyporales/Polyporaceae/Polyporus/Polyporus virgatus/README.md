@@ -1,5 +1,4 @@
-Polyporus virgatus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus virgatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

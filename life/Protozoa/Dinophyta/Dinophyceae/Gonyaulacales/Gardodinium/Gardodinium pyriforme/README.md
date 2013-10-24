@@ -1,5 +1,4 @@
-Gardodinium pyriforme T. F. Vozzhennikova SPECIES
-=======
+# Gardodinium pyriforme T. F. Vozzhennikova SPECIES
 
 #### Status
 ACCEPTED

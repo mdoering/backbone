@@ -1,5 +1,4 @@
-Sporidesmium kielmeyerae M.L. Farr SPECIES
-=======
+# Sporidesmium kielmeyerae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

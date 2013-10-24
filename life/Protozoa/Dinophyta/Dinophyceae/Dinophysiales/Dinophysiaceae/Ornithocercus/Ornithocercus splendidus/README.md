@@ -1,11 +1,10 @@
-Histioneis splendida Murray & Whitting, 1899 SPECIES
-=======
+# Ornithocercus splendidus Schutt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

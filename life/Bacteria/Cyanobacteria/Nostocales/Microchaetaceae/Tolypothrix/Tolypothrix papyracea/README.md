@@ -1,5 +1,4 @@
-Tolypothrix papyracea Gardner SPECIES
-=======
+# Tolypothrix papyracea Gardner SPECIES
 
 #### Status
 ACCEPTED

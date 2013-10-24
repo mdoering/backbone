@@ -1,5 +1,4 @@
-Triphragmium graminicola Beeli SPECIES
-=======
+# Triphragmium graminicola Beeli SPECIES
 
 #### Status
 ACCEPTED

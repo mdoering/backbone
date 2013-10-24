@@ -1,5 +1,4 @@
-Dendrosarcus moricola (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus moricola (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

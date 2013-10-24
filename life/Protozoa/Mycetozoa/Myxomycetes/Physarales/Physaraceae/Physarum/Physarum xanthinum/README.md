@@ -1,5 +1,4 @@
-Physarum xanthinum Nann.-Bremek. & Döbbeler, 1976 SPECIES
-=======
+# Physarum xanthinum Nann.-Bremek. & Döbbeler, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maravalia kevorkianii (Cummins) Cummins & Y. Hirats. SPECIES
-=======
+# Maravalia kevorkianii (Cummins) Cummins & Y. Hirats. SPECIES
 
 #### Status
 ACCEPTED

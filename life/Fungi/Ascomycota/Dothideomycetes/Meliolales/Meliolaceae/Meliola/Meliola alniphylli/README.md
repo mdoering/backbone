@@ -1,5 +1,4 @@
-Meliola alniphylli var. alniphylli W. Yamam. VARIETY
-=======
+# Meliola alniphylli W. Yamam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola alniphylli var. alniphylli W. Yamam.
+Meliola alniphylli W. Yamam.
 
 ### Remarks
 null

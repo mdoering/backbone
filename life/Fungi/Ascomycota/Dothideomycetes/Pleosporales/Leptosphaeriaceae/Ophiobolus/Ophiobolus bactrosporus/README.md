@@ -1,5 +1,4 @@
-Ophiobolus bactrosporus Feltgen SPECIES
-=======
+# Ophiobolus bactrosporus Feltgen SPECIES
 
 #### Status
 ACCEPTED

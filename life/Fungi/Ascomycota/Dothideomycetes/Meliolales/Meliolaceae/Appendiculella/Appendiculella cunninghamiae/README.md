@@ -1,5 +1,4 @@
-Appendiculella cunninghamiae Y.X. Hu & B. Song SPECIES
-=======
+# Appendiculella cunninghamiae Y.X. Hu & B. Song SPECIES
 
 #### Status
 ACCEPTED

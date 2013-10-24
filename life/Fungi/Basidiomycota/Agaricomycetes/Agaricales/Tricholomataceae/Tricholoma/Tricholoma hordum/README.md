@@ -1,5 +1,4 @@
-Tricholoma hordum (Fr.) Quél. SPECIES
-=======
+# Tricholoma hordum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

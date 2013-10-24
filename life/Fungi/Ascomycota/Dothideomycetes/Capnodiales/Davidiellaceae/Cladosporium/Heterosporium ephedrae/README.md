@@ -1,5 +1,4 @@
-Heterosporium ephedrae Potebnia SPECIES
-=======
+# Heterosporium ephedrae Potebnia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius kalospermus (Beeli) Verbeken & Walleyn SPECIES
-=======
+# Lactarius kalospermus (Beeli) Verbeken & Walleyn SPECIES
 
 #### Status
 ACCEPTED

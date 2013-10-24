@@ -1,5 +1,4 @@
-Botryodiplodia alamina Sacc. SPECIES
-=======
+# Botryodiplodia alamina Sacc. SPECIES
 
 #### Status
 ACCEPTED

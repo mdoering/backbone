@@ -1,5 +1,4 @@
-Mycena griseinitrosa Corner SPECIES
-=======
+# Mycena griseinitrosa Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium grummannii Servít SPECIES
-=======
+# Thelidium grummannii Servít SPECIES
 
 #### Status
 ACCEPTED

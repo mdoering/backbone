@@ -1,5 +1,4 @@
-Rinodina posthabita (Nyl.) Aptroot SPECIES
-=======
+# Rinodina posthabita (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

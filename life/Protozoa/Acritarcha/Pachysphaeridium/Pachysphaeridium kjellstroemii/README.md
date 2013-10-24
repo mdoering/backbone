@@ -1,5 +1,4 @@
-Pachysphaeridium kjellstroemii Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium kjellstroemii Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

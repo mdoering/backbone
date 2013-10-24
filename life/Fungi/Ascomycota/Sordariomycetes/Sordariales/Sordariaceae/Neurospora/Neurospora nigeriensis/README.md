@@ -1,5 +1,4 @@
-Neurospora nigeriensis Stchigel & Guarro SPECIES
-=======
+# Neurospora nigeriensis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

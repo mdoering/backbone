@@ -1,5 +1,4 @@
-Nectria resinae Fr. SPECIES
-=======
+# Nectria resinae Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora citrullina var. citrullina Cooke VARIETY
-=======
+# Didymella bryoniae (Fuckel) Rehm, 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 61): 31 (1883)
+Ber. naturw. Augsburg 26: 27 (1881)
 
 #### Original name
-Cercospora citrullina var. citrullina Cooke
+Sphaeria bryoniae Fuckel, 1870
 
 ### Remarks
 null

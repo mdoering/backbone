@@ -1,5 +1,4 @@
-Xerocomus brasiliensis (Rick) Singer SPECIES
-=======
+# Xerocomus brasiliensis (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

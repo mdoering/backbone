@@ -1,5 +1,4 @@
-Pontibacillus halophilus Chen, Zhang, Xiao, Liu, Yi, Shi, Zhi, Cui & Li, 2009 SPECIES
-=======
+# Pontibacillus halophilus Chen, Zhang, Xiao, Liu, Yi, Shi, Zhi, Cui & Li, 2009 SPECIES
 
 #### Status
 ACCEPTED

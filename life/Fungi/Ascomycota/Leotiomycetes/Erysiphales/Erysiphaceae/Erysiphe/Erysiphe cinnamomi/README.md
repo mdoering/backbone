@@ -1,5 +1,4 @@
-Erysiphe cinnamomi Sawada SPECIES
-=======
+# Erysiphe cinnamomi Sawada SPECIES
 
 #### Status
 ACCEPTED

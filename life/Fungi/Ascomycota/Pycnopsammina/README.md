@@ -1,5 +1,4 @@
-Pycnopsammina Diederich & Etayo GENUS
-=======
+# Pycnopsammina Diederich & Etayo GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Biatora phaeops (Nyl.) Arnold SPECIES
-=======
+# Lecidea phaeops Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 53: 476 (1870)
+Not. Sallsk. Faun. Fl. Fenn. Forhandl. , Ny Ser. 1: 5 (1859)
 
 #### Original name
 Lecidea phaeops Nyl.

@@ -1,8 +1,7 @@
-Remanella dragesco Agamaliev, 1966 SPECIES
-=======
+# Remanella dragescoi Agamaliev, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

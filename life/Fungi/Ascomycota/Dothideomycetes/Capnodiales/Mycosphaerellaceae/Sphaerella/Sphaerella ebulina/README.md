@@ -1,5 +1,4 @@
-Sphaerella ebulina (Petr.) Sacc. SPECIES
-=======
+# Sphaerella ebulina (Petr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

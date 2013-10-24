@@ -1,5 +1,4 @@
-Callopisma vitellinulum var. cerinoides Räsänen VARIETY
-=======
+# Callopisma vitellinulum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Callopisma vitellinulum var. cerinoides Räsänen
+Callopisma vitellinulum
 
 ### Remarks
 null

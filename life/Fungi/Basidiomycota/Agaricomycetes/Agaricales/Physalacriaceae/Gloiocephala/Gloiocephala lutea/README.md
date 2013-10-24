@@ -1,5 +1,4 @@
-Gloiocephala lutea Singer SPECIES
-=======
+# Gloiocephala lutea Singer SPECIES
 
 #### Status
 ACCEPTED

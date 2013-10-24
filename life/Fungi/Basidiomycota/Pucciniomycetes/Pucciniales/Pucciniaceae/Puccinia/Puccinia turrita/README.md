@@ -1,5 +1,4 @@
-Puccinia turrita Arthur SPECIES
-=======
+# Puccinia turrita Arthur SPECIES
 
 #### Status
 ACCEPTED

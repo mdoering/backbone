@@ -1,5 +1,4 @@
-Massilina pratti SPECIES
-=======
+# Massilina pratti SPECIES
 
 #### Status
 ACCEPTED

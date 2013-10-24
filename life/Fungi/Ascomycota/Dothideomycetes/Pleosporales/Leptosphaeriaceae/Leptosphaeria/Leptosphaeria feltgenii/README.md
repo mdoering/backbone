@@ -1,8 +1,7 @@
-Leptosphaeria feltgeni Sacc. & P. Syd. SPECIES
-=======
+# Leptosphaeria feltgenii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria feltgeni Sacc. & P. Syd.
+Leptosphaeria feltgenii Sacc. & P. Syd.
 
 ### Remarks
 null

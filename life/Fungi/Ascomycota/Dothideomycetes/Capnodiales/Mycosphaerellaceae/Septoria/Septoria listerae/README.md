@@ -1,5 +1,4 @@
-Septoria listerae Allesch. SPECIES
-=======
+# Septoria listerae Allesch. SPECIES
 
 #### Status
 ACCEPTED

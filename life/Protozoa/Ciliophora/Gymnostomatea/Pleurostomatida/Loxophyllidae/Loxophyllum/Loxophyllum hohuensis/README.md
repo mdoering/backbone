@@ -1,5 +1,4 @@
-Loxophyllum hohuensis SPECIES
-=======
+# Loxophyllum hohuensis SPECIES
 
 #### Status
 ACCEPTED

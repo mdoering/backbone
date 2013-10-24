@@ -1,5 +1,4 @@
-Thelephora bufonia Pers. SPECIES
-=======
+# Thelephora bufonia Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mycosphaerella zingiberi Shirai & Hara SPECIES
-=======
+# Mycosphaerella zingiberis Shirai & Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella zingiberi Shirai & Hara
+Mycosphaerella zingiberis Shirai & Hara
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acontium ustilaginicola B.T. Dicks. SPECIES
-=======
+# Acontium ustilaginicola B.T. Dicks. SPECIES
 
 #### Status
 ACCEPTED

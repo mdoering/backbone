@@ -1,5 +1,4 @@
-Cruciplacolithus mutatus Perch-Nielsen, 1971 SPECIES
-=======
+# Cruciplacolithus mutatus Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

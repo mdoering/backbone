@@ -1,5 +1,4 @@
-Phyllosticta mecranii (Petr. & Cif.) Aa SPECIES
-=======
+# Phyllosticta mecranii (Petr. & Cif.) Aa SPECIES
 
 #### Status
 ACCEPTED

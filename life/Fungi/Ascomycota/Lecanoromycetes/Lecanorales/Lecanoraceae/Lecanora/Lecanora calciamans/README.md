@@ -1,5 +1,4 @@
-Lecanora calciamans Stizenb. SPECIES
-=======
+# Lecanora calciamans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictochorella jasminicola (Desm.) Höhn. SPECIES
-=======
+# Stictochorella jasminicola (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

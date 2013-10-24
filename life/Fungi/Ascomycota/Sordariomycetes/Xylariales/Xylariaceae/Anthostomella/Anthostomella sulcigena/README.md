@@ -1,5 +1,4 @@
-Anthostomella sulcigena (Mont.) Sacc. SPECIES
-=======
+# Anthostomella sulcigena (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

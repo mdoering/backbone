@@ -1,5 +1,4 @@
-Choanephora circinas (Naganishi & Kawakami) Hesseltine & Benjaman, 1957 SPECIES
-=======
+# Choanephora circinas (Naganishi & Kawakami) Hesseltine & Benjaman, 1957 SPECIES
 
 #### Status
 ACCEPTED

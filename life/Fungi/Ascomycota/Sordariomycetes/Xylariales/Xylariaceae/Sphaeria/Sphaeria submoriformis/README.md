@@ -1,5 +1,4 @@
-Sphaeria submoriformis Plowr. SPECIES
-=======
+# Sphaeria submoriformis Plowr. SPECIES
 
 #### Status
 ACCEPTED

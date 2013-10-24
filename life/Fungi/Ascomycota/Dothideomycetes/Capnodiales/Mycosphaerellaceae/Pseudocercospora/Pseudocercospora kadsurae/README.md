@@ -1,5 +1,4 @@
-Pseudocercospora kadsurae (Togashi & Katsuki) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora kadsurae (Togashi & Katsuki) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

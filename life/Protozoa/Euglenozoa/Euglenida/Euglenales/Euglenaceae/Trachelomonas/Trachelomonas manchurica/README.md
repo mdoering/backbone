@@ -1,5 +1,4 @@
-Trachelomonas manchurica var. arnoldiana Skvortzov VARIETY
-=======
+# Trachelomonas manchurica Skvortzov SPECIES
 
 #### Status
 ACCEPTED

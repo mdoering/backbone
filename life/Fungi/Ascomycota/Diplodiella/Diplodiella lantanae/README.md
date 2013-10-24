@@ -1,5 +1,4 @@
-Diplodiella lantanae Briard SPECIES
-=======
+# Diplodiella lantanae Briard SPECIES
 
 #### Status
 ACCEPTED

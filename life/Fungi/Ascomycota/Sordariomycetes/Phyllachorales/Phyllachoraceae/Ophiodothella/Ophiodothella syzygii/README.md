@@ -1,5 +1,4 @@
-Ophiodothella syzygii C.A. Pearce & K.D. Hyde, 1993 SPECIES
-=======
+# Ophiodothella syzygii C.A. Pearce & K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

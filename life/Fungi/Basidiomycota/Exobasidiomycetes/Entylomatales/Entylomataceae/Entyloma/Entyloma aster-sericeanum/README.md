@@ -1,5 +1,4 @@
-Entyloma aster-sericeanum Zundel SPECIES
-=======
+# Entyloma aster-sericeanum Zundel SPECIES
 
 #### Status
 ACCEPTED

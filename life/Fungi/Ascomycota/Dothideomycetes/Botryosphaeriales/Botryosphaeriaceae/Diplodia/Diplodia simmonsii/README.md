@@ -1,5 +1,4 @@
-Diplodia simmonsii Rostr. SPECIES
-=======
+# Diplodia simmonsii Rostr. SPECIES
 
 #### Status
 ACCEPTED

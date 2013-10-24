@@ -1,5 +1,4 @@
-Tremella parmeliellae Diederich & Sérus. SPECIES
-=======
+# Tremella parmeliellae Diederich & Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globulites Nemkov, 1967 GENUS
-=======
+# Globulites Nemkov, 1967 GENUS
 
 #### Status
 ACCEPTED

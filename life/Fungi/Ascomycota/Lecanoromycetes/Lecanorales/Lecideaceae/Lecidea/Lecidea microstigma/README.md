@@ -1,5 +1,4 @@
-Lecidea microstigma Nyl. SPECIES
-=======
+# Lecidea microstigma Nyl. SPECIES
 
 #### Status
 ACCEPTED

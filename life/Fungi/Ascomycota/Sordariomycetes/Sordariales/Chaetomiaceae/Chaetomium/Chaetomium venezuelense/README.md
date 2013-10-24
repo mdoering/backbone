@@ -1,5 +1,4 @@
-Chaetomium venezuelense L.M. Ames SPECIES
-=======
+# Chaetomium venezuelense L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

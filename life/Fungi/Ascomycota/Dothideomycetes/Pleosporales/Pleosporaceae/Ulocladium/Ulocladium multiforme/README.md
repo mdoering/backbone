@@ -1,5 +1,4 @@
-Ulocladium multiforme E.G. Simmons, 1999 SPECIES
-=======
+# Ulocladium multiforme E.G. Simmons, 1999 SPECIES
 
 #### Status
 ACCEPTED

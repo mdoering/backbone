@@ -1,5 +1,4 @@
-Conida oxyspora (Almq.) Sacc. & D. Sacc. SPECIES
-=======
+# Conida oxyspora (Almq.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

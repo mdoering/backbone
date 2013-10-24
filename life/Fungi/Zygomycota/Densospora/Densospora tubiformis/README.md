@@ -1,14 +1,13 @@
-Densospora tubaeformis (P.A. Tandy) McGee SPECIES
-=======
+# Densospora tubiformis (P.A. Tandy) McGee, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 9(3): 330 (1996)
 
 #### Original name
 null

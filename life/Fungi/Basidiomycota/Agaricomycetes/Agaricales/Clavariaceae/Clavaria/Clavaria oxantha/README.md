@@ -1,5 +1,4 @@
-Clavaria oxantha Raf. SPECIES
-=======
+# Clavaria oxantha Raf. SPECIES
 
 #### Status
 ACCEPTED

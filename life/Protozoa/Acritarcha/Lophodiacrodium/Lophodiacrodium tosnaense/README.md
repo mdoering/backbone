@@ -1,5 +1,4 @@
-Lophodiacrodium tosnaense (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium tosnaense (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

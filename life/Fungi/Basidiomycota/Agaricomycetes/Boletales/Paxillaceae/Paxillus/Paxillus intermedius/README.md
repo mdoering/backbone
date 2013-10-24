@@ -1,5 +1,4 @@
-Paxillus intermedius A. Blytt SPECIES
-=======
+# Paxillus intermedius A. Blytt SPECIES
 
 #### Status
 ACCEPTED

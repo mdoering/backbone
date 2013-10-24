@@ -1,5 +1,4 @@
-Hemileia thomasii Thirum. & Naras. SPECIES
-=======
+# Hemileia thomasii Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

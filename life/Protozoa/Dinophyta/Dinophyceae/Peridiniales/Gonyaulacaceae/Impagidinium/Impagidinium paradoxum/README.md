@@ -1,5 +1,4 @@
-Impagidinium paradoxum (D. Wall, 1967) Stover & Evitt, 1978 SPECIES
-=======
+# Impagidinium paradoxum (D. Wall, 1967) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

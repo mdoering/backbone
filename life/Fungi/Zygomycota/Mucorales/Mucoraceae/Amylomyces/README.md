@@ -1,5 +1,4 @@
-Amylomyces Calmette GENUS
-=======
+# Amylomyces Calmette GENUS
 
 #### Status
 ACCEPTED

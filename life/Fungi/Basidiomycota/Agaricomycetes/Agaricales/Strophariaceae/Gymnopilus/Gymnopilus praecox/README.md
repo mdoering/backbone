@@ -1,5 +1,4 @@
-Gymnopilus praecox (Peck) Murrill SPECIES
-=======
+# Gymnopilus praecox (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

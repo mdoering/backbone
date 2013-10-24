@@ -1,5 +1,4 @@
-Cercosporina chevalieri Sacc. SPECIES
-=======
+# Cercosporina chevalieri Sacc. SPECIES
 
 #### Status
 ACCEPTED

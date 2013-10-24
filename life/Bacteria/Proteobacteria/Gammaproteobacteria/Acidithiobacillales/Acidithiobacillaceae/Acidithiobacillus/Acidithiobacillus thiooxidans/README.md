@@ -1,11 +1,10 @@
-Thiobacillus lobatus Emoto, 1929 SPECIES
-=======
+# Acidithiobacillus thiooxidans (Waksman & Joffe, 1922) Kelly & Wood, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

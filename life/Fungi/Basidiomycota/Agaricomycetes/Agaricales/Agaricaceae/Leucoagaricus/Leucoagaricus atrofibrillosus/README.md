@@ -1,5 +1,4 @@
-Leucoagaricus atrofibrillosus Singer SPECIES
-=======
+# Leucoagaricus atrofibrillosus Singer SPECIES
 
 #### Status
 ACCEPTED

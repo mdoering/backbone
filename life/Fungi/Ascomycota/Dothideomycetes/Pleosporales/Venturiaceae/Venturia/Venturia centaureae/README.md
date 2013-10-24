@@ -1,5 +1,4 @@
-Venturia centaureae Arx, 1950 SPECIES
-=======
+# Venturia centaureae Arx, 1950 SPECIES
 
 #### Status
 ACCEPTED

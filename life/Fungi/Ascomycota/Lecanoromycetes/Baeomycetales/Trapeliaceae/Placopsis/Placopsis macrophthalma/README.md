@@ -1,14 +1,13 @@
-Placodium macrophthalmum (Hook. f. & Taylor) SPECIES
-=======
+# Placopsis macrophthalma (Taylor) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 15: 106 (1877)
 
 #### Original name
 null

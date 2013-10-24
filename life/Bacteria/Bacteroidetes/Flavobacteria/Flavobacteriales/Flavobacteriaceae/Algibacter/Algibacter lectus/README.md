@@ -1,5 +1,4 @@
-Algibacter lectus Nedashkovskaya et al., 2004 SPECIES
-=======
+# Algibacter lectus Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

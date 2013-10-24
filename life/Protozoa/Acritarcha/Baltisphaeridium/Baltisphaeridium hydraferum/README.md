@@ -1,5 +1,4 @@
-Baltisphaeridium hydraferum Stockmans & Willière, 1962 SPECIES
-=======
+# Baltisphaeridium hydraferum Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

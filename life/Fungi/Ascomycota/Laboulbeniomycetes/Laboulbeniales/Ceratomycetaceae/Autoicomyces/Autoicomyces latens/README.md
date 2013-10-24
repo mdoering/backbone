@@ -1,5 +1,4 @@
-Autoicomyces latens Thaxt. SPECIES
-=======
+# Autoicomyces latens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia aequatorialis Thaxt. SPECIES
-=======
+# Laboulbenia aequatorialis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

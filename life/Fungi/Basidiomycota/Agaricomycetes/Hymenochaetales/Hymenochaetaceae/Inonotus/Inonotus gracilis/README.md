@@ -1,5 +1,4 @@
-Inonotus gracilis Ryvarden, 2005 SPECIES
-=======
+# Inonotus gracilis Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllachora gracilis Speg., 1888 SPECIES
-=======
+# Phyllachora eximia Syd. & P. Syd., 1904 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

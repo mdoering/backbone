@@ -1,5 +1,4 @@
-Baltisphaeridium giganteum Rasul, 1979 SPECIES
-=======
+# Baltisphaeridium giganteum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

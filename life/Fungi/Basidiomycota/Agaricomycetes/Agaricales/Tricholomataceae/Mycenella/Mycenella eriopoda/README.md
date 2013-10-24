@@ -1,5 +1,4 @@
-Mycenella eriopoda (Sacc. & P. Syd.) Singer SPECIES
-=======
+# Mycenella eriopoda (Sacc. & P. Syd.) Singer SPECIES
 
 #### Status
 ACCEPTED

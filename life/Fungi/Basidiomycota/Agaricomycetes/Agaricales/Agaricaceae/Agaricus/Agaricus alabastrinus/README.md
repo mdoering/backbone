@@ -1,5 +1,4 @@
-Agaricus alabastrinus J.F. Gmel. SPECIES
-=======
+# Agaricus alabastrinus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

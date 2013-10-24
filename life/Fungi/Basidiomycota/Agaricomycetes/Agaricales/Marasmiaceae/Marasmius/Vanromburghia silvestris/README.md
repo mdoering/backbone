@@ -1,5 +1,4 @@
-Vanromburghia silvestris Holterm. SPECIES
-=======
+# Vanromburghia silvestris Holterm. SPECIES
 
 #### Status
 ACCEPTED

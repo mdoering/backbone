@@ -1,5 +1,4 @@
-Dendrophoma populi (Peck) Dearn. & House SPECIES
-=======
+# Dendrophoma populi (Peck) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

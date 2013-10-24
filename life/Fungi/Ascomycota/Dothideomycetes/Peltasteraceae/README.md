@@ -1,5 +1,4 @@
-Peltasteraceae Bat. & Cif. FAMILY
-=======
+# Peltasteraceae Bat. & Cif. FAMILY
 
 #### Status
 ACCEPTED

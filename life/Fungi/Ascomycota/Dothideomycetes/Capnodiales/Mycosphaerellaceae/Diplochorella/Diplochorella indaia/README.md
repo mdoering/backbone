@@ -1,5 +1,4 @@
-Diplochorella indaia Viégas SPECIES
-=======
+# Diplochorella indaia Viégas SPECIES
 
 #### Status
 ACCEPTED

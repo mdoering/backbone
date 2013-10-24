@@ -1,5 +1,4 @@
-Schismatosphaeridium faveolatum N. Umnova, 1975 SPECIES
-=======
+# Schismatosphaeridium faveolatum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

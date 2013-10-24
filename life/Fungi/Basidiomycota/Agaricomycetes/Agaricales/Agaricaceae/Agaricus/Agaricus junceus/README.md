@@ -1,5 +1,4 @@
-Agaricus junceus var. junceus Fr. VARIETY
-=======
+# Agaricus junceus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. mycol. (Lundae) 1: 208 (1821)
 
 #### Original name
-Agaricus junceus var. junceus Fr.
+Agaricus junceus Fr.
 
 ### Remarks
 null

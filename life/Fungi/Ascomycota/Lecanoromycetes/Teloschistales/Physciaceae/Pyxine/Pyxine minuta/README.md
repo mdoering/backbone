@@ -1,5 +1,4 @@
-Pyxine minuta Vain. SPECIES
-=======
+# Pyxine minuta Vain. SPECIES
 
 #### Status
 ACCEPTED

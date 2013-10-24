@@ -1,5 +1,4 @@
-Puccinia monoica Arthur SPECIES
-=======
+# Puccinia monoica Arthur SPECIES
 
 #### Status
 ACCEPTED

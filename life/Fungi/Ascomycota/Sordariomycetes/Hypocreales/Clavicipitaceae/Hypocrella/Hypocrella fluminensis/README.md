@@ -1,5 +1,4 @@
-Hypocrella fluminensis J.C. Krug SPECIES
-=======
+# Hypocrella fluminensis J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

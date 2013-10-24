@@ -1,5 +1,4 @@
-Coccomyces canarii Rehm, 1913 SPECIES
-=======
+# Coccomyces canarii Rehm, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcangeliella parva Thiers SPECIES
-=======
+# Arcangeliella parva Thiers SPECIES
 
 #### Status
 ACCEPTED

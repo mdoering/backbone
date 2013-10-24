@@ -1,5 +1,4 @@
-Angiopsora hansfordii Cummins SPECIES
-=======
+# Angiopsora hansfordii Cummins SPECIES
 
 #### Status
 ACCEPTED

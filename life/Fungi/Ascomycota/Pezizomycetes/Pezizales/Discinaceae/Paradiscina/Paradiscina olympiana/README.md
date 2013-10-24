@@ -1,5 +1,4 @@
-Paradiscina olympiana (Kanouse) Benedix SPECIES
-=======
+# Paradiscina olympiana (Kanouse) Benedix SPECIES
 
 #### Status
 ACCEPTED

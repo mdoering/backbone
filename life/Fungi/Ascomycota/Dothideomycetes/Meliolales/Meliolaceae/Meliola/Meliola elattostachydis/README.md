@@ -1,5 +1,4 @@
-Meliola elattostachydis Petr. SPECIES
-=======
+# Meliola elattostachydis Petr. SPECIES
 
 #### Status
 ACCEPTED

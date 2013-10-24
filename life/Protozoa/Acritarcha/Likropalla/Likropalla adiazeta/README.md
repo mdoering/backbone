@@ -1,5 +1,4 @@
-Likropalla adiazeta Colbath, 1979 SPECIES
-=======
+# Likropalla adiazeta Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

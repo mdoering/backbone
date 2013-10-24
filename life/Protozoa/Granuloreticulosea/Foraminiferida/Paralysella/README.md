@@ -1,5 +1,4 @@
-Paralysella Cozar & Vachard, 2001 GENUS
-=======
+# Paralysella Cozar & Vachard, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mycena siskyouensis A.H. Sm. SPECIES
-=======
+# Mycena siskiyouensis A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 28: 414 (1936)
 
 #### Original name
-Mycena siskyouensis A.H. Sm.
+Mycena siskiyouensis A.H. Sm.
 
 ### Remarks
 null

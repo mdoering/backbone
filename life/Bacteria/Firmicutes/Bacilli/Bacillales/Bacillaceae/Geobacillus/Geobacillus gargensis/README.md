@@ -1,5 +1,4 @@
-Geobacillus gargensis Nazina et al., 2004 SPECIES
-=======
+# Geobacillus gargensis Nazina et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

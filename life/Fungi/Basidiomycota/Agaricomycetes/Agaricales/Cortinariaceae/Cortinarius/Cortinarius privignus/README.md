@@ -1,5 +1,4 @@
-Cortinarius privignus (Fr.) Fr. SPECIES
-=======
+# Cortinarius privignus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

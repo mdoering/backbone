@@ -1,5 +1,4 @@
-Lloydella ochracea Rick SPECIES
-=======
+# Lloydella ochracea Rick SPECIES
 
 #### Status
 ACCEPTED

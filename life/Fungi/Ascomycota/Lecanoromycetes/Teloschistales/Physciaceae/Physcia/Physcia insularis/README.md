@@ -1,5 +1,4 @@
-Physcia insularis Zahlbr. SPECIES
-=======
+# Physcia insularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

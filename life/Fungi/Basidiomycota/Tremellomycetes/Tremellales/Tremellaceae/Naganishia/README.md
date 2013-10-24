@@ -1,5 +1,4 @@
-Naganishia GENUS
-=======
+# Naganishia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pusillula Nyl. SPECIES
-=======
+# Lecidea pusillula Nyl. SPECIES
 
 #### Status
 ACCEPTED

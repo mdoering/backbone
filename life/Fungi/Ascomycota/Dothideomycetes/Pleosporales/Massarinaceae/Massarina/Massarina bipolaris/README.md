@@ -1,17 +1,16 @@
-Lophiostoma bipolare (K.D. Hyde) E.C.Y. Liew, Aptroot & K.D. Hyde, 2002 SPECIES
-=======
+# Massarina bipolaris K.D. Hyde, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 61(1-2): 131 (1995)
 
 #### Original name
-null
+Massarina bipolaris K.D. Hyde, 1995
 
 ### Remarks
 null

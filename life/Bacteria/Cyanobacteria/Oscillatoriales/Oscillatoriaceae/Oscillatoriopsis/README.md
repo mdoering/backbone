@@ -1,5 +1,4 @@
-Oscillatoriopsis J.W.Schopf, 1968 GENUS
-=======
+# Oscillatoriopsis J.W.Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

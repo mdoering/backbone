@@ -1,5 +1,4 @@
-Peptostreptococcaceae FAMILY
-=======
+# Peptostreptococcaceae FAMILY
 
 #### Status
 ACCEPTED

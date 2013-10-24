@@ -1,5 +1,4 @@
-Hygrophorus pygmaeus Berk. & Broome SPECIES
-=======
+# Hygrophorus pygmaeus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

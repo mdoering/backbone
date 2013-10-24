@@ -1,5 +1,4 @@
-Agaricus asininus Kalchbr. SPECIES
-=======
+# Agaricus asininus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

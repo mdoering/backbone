@@ -1,5 +1,4 @@
-Milesia polystichi-vestiti McKenzie, 2008 SPECIES
-=======
+# Milesia polystichi-vestiti McKenzie, 2008 SPECIES
 
 #### Status
 ACCEPTED

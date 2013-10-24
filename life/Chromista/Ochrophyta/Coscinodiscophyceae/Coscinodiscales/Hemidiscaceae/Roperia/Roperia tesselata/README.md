@@ -1,11 +1,10 @@
-Actinocyclus tessellatus (Roper) Ralfs ex Pritchard SPECIES
-=======
+# Roperia tesselata (Roper) Grunow ex Pelletan, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

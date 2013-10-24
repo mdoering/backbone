@@ -1,5 +1,4 @@
-Bryometopus balantidioides Foissner, 1993 SPECIES
-=======
+# Bryometopus balantidioides Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

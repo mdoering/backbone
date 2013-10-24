@@ -1,5 +1,4 @@
-Thecaphora oxytropis S.R. Wang SPECIES
-=======
+# Thecaphora oxytropis S.R. Wang SPECIES
 
 #### Status
 ACCEPTED

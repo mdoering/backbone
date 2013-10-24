@@ -1,5 +1,4 @@
-Cunninghamella multiverticillata R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Cunninghamella multiverticillata R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

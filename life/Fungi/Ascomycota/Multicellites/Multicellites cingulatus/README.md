@@ -1,5 +1,4 @@
-Multicellites cingulatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites cingulatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

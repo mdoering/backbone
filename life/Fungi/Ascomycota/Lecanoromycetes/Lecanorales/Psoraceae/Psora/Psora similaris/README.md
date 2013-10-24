@@ -1,5 +1,4 @@
-Psora similaris Hoffm. SPECIES
-=======
+# Psora similaris Hoffm. SPECIES
 
 #### Status
 ACCEPTED

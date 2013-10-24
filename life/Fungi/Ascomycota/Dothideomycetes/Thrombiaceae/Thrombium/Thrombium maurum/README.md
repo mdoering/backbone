@@ -1,5 +1,4 @@
-Thrombium maurum Werner SPECIES
-=======
+# Thrombium maurum Werner SPECIES
 
 #### Status
 ACCEPTED

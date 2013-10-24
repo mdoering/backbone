@@ -1,17 +1,16 @@
-Appendiculella michelicola J.C. Yang SPECIES
-=======
+# Appendiculella micheliicola J.C. Yang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 8(1): 2 (1989)
 
 #### Original name
-Appendiculella michelicola J.C. Yang
+Appendiculella micheliicola J.C. Yang
 
 ### Remarks
 null

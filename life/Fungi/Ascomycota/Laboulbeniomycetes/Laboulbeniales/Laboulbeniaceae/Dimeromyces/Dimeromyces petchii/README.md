@@ -1,5 +1,4 @@
-Dimeromyces petchii Thaxt. SPECIES
-=======
+# Dimeromyces petchii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

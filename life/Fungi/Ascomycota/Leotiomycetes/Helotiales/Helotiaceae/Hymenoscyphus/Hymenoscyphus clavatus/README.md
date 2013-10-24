@@ -1,14 +1,13 @@
-Helotium clavatum (Pers.) P. Karst. SPECIES
-=======
+# Hymenoscyphus clavatus (Pers.) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Discomyc. (London) 141 (1887)
 
 #### Original name
 null

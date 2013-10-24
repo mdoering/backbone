@@ -1,5 +1,4 @@
-Platycola hydrobiae Hofker, 1930 SPECIES
-=======
+# Platycola hydrobiae Hofker, 1930 SPECIES
 
 #### Status
 ACCEPTED

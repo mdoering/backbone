@@ -1,5 +1,4 @@
-Polystomella piperis Viégas SPECIES
-=======
+# Polystomella piperis Viégas SPECIES
 
 #### Status
 ACCEPTED

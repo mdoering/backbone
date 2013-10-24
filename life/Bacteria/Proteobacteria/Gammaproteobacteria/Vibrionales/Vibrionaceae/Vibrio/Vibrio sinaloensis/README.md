@@ -1,5 +1,4 @@
-Vibrio sinaloensis Gomez-Gil, Fajer-Avila, Macian, Pujalte, Garay & Roque, 2008 SPECIES
-=======
+# Vibrio sinaloensis Gomez-Gil, Fajer-Avila, Macian, Pujalte, Garay & Roque, 2008 SPECIES
 
 #### Status
 ACCEPTED

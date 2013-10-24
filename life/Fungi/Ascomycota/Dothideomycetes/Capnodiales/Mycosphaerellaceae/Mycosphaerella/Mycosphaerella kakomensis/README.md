@@ -1,5 +1,4 @@
-Mycosphaerella kakomensis Esfand. SPECIES
-=======
+# Mycosphaerella kakomensis Esfand. SPECIES
 
 #### Status
 ACCEPTED

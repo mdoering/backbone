@@ -1,5 +1,4 @@
-Leucostoma kunzei (Fr.) Munk ex H. Kern, 1955 SPECIES
-=======
+# Leucostoma kunzei (Fr.) Munk ex H. Kern, 1955 SPECIES
 
 #### Status
 ACCEPTED

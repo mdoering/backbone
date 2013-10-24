@@ -1,5 +1,4 @@
-Buellia inturgescens Müll. Arg. SPECIES
-=======
+# Buellia inturgescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

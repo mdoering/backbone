@@ -1,5 +1,4 @@
-Lipomyces yamadae Van der Walt & M.T. Sm., 1999 SPECIES
-=======
+# Lipomyces yamadae Van der Walt & M.T. Sm., 1999 SPECIES
 
 #### Status
 ACCEPTED

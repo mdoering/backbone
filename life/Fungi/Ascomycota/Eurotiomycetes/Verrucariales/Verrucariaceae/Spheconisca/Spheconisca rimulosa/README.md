@@ -1,5 +1,4 @@
-Spheconisca rimulosa Norman SPECIES
-=======
+# Spheconisca rimulosa Norman SPECIES
 
 #### Status
 ACCEPTED

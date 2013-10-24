@@ -1,5 +1,4 @@
-Patellaria miculata (Ach.) Trevis. SPECIES
-=======
+# Patellaria miculata (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

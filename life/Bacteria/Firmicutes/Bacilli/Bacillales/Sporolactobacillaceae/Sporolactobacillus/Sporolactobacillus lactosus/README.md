@@ -1,5 +1,4 @@
-Sporolactobacillus lactosus Yanagida et al., 1997 SPECIES
-=======
+# Sporolactobacillus lactosus Yanagida et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

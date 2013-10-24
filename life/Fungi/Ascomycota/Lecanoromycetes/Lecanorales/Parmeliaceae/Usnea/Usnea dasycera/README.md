@@ -1,5 +1,4 @@
-Usnea dasycera (Nyl.) Vain. SPECIES
-=======
+# Usnea dasycera (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

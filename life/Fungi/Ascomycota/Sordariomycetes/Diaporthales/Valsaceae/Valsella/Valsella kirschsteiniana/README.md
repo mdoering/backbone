@@ -1,5 +1,4 @@
-Valsella kirschsteiniana Jaap SPECIES
-=======
+# Valsella kirschsteiniana Jaap SPECIES
 
 #### Status
 ACCEPTED

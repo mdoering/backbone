@@ -1,14 +1,13 @@
-Pezizellaster serrata (Hoffm.) Dennis SPECIES
-=======
+# Pezizellaster serratus (Hoffm.) Dennis, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 32: 62 (1949)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Crustomyces indecorus Hjortstam, 1987 SPECIES
-=======
+# Crustomyces indecorus Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

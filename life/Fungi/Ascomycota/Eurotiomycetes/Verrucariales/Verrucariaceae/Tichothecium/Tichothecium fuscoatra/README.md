@@ -1,5 +1,4 @@
-Tichothecium fuscoatra Stein SPECIES
-=======
+# Tichothecium fuscoatra Stein SPECIES
 
 #### Status
 ACCEPTED

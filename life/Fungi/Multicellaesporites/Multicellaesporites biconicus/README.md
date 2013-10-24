@@ -1,5 +1,4 @@
-Multicellaesporites biconicus Z.C. Song SPECIES
-=======
+# Multicellaesporites biconicus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

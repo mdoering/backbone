@@ -1,5 +1,4 @@
-Lasiosphaeriella nitida Huhndorf & F.A. Fernández SPECIES
-=======
+# Lasiosphaeriella nitida Huhndorf & F.A. Fernández SPECIES
 
 #### Status
 ACCEPTED

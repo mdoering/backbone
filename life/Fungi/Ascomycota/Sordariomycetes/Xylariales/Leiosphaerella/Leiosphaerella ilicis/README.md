@@ -1,5 +1,4 @@
-Leiosphaerella ilicis Katum. SPECIES
-=======
+# Leiosphaerella ilicis Katum. SPECIES
 
 #### Status
 ACCEPTED

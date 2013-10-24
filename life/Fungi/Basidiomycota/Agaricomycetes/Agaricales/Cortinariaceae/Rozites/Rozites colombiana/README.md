@@ -1,5 +1,4 @@
-Rozites colombiana Halling & Ovrebo SPECIES
-=======
+# Rozites colombiana Halling & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

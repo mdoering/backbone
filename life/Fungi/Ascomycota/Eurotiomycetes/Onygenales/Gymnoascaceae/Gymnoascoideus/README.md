@@ -1,5 +1,4 @@
-Gymnoascoideus G.F. Orr, K. Roy & G.R. Ghosh GENUS
-=======
+# Gymnoascoideus G.F. Orr, K. Roy & G.R. Ghosh GENUS
 
 #### Status
 ACCEPTED

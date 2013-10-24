@@ -1,5 +1,4 @@
-Collema minor (Pachunoff {?} ) Tomin ex Schaf. {?} SPECIES
-=======
+# Collema minor (Pachunoff {?} ) Tomin ex Schaf. {?} SPECIES
 
 #### Status
 ACCEPTED

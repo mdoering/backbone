@@ -1,5 +1,4 @@
-Naucoria cerealis Boewe SPECIES
-=======
+# Naucoria cerealis Boewe SPECIES
 
 #### Status
 ACCEPTED

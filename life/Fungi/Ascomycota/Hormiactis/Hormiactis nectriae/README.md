@@ -1,5 +1,4 @@
-Hormiactis nectriae P. Karst. SPECIES
-=======
+# Hormiactis nectriae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

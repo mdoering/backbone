@@ -1,5 +1,4 @@
-Patellaria hirneola Berk. & Broome SPECIES
-=======
+# Patellaria hirneola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

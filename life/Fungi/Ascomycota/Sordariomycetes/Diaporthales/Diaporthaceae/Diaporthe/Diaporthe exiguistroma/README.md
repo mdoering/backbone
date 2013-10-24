@@ -1,5 +1,4 @@
-Diaporthe exiguistroma Dearn. SPECIES
-=======
+# Diaporthe exiguistroma Dearn. SPECIES
 
 #### Status
 ACCEPTED

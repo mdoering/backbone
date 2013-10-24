@@ -1,5 +1,4 @@
-Ganoderma fulvellum Bres. SPECIES
-=======
+# Ganoderma fulvellum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diademaceae Shoemaker & C.E. Babc. FAMILY
-=======
+# Diademaceae Shoemaker & C.E. Babc. FAMILY
 
 #### Status
 ACCEPTED

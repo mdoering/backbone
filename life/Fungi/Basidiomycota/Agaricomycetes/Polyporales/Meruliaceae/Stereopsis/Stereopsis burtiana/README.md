@@ -1,14 +1,13 @@
-Stereum burtianum Peck, 1904 SPECIES
-=======
+# Stereopsis burtiana (Peck) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 67: 21 (1904)
+Beih. Nova Hedwigia 18: 292 (1965)
 
 #### Original name
 Stereum burtianum Peck, 1904

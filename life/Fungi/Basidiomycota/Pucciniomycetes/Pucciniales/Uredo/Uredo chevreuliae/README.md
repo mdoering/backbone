@@ -1,5 +1,4 @@
-Uredo chevreuliae Speg. SPECIES
-=======
+# Uredo chevreuliae Speg. SPECIES
 
 #### Status
 ACCEPTED

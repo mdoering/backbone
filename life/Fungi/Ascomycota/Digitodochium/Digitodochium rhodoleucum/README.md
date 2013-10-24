@@ -1,5 +1,4 @@
-Digitodochium rhodoleucum Tubaki & Kubono, 1989 SPECIES
-=======
+# Digitodochium rhodoleucum Tubaki & Kubono, 1989 SPECIES
 
 #### Status
 ACCEPTED

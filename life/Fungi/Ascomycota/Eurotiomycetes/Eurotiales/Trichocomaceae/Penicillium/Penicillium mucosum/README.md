@@ -1,5 +1,4 @@
-Penicillium mucosum Stapp & Bortels SPECIES
-=======
+# Penicillium mucosum Stapp & Bortels SPECIES
 
 #### Status
 ACCEPTED

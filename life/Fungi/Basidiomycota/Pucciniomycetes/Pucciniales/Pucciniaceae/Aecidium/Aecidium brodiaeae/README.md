@@ -1,5 +1,4 @@
-Aecidium brodiaeae Ellis & Harkn. SPECIES
-=======
+# Aecidium brodiaeae Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

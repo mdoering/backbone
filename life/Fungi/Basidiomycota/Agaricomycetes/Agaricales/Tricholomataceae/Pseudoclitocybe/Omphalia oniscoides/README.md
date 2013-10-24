@@ -1,5 +1,4 @@
-Omphalia oniscoides P. Karst. SPECIES
-=======
+# Omphalia oniscoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

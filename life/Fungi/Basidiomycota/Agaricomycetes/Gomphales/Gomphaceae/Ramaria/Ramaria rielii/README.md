@@ -1,17 +1,16 @@
-Ramaria rieli Boud. SPECIES
-=======
+# Ramaria rielii Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 13: 13 (1897)
 
 #### Original name
-Ramaria rieli Boud.
+Ramaria rielii Boud.
 
 ### Remarks
 null

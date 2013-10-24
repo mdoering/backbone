@@ -1,14 +1,13 @@
-Dicaeoma conclusum (Thüm.) Kuntze, 1898 SPECIES
-=======
+# Puccinia conclusa Thüm., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+Journal Sci. math. phys. nat. Lisboa, 1 Ser. 6(no. 24): 237 (1878)
 
 #### Original name
 Puccinia conclusa Thüm., 1878

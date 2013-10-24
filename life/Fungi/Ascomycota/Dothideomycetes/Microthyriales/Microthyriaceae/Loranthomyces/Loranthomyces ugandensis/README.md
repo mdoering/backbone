@@ -1,5 +1,4 @@
-Loranthomyces ugandensis Hansf. SPECIES
-=======
+# Loranthomyces ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thaxterogaster leoninum E. Horak SPECIES
-=======
+# Cortinarius luteobrunneus Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 180 (2002)
 
 #### Original name
-Thaxterogaster leoninum E. Horak
+Thaxterogaster leoninus E. Horak, 1973
 
 ### Remarks
 null

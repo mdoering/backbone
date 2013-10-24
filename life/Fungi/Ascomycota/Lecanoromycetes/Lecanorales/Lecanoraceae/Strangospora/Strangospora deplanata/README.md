@@ -1,17 +1,16 @@
-Biatorella deplanata var. deplanata VARIETY
-=======
+# Strangospora deplanata (Almq.) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Abassi Maaf & Roux, Bull. Soc. linn. Provence 36: 199 (1985)
 
 #### Original name
-Biatorella deplanata var. deplanata
+Biatorella deplanata Almq.
 
 ### Remarks
 null

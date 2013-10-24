@@ -1,5 +1,4 @@
-Catenomycopsis Tibell & Constant. GENUS
-=======
+# Catenomycopsis Tibell & Constant. GENUS
 
 #### Status
 ACCEPTED

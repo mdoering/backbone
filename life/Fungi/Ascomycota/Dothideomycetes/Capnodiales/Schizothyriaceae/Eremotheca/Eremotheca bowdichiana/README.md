@@ -1,5 +1,4 @@
-Eremotheca bowdichiana Bat. & A.F. Vital SPECIES
-=======
+# Eremotheca bowdichiana Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia ploseliana Stein SPECIES
-=======
+# Microthelia ploseliana Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosporella rosae Edward et al. {?} SPECIES
-=======
+# Leptosporella rosae Edward et al. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochromonadales Pascher, 1910 ORDER
-=======
+# Ochromonadales Pascher, 1910 ORDER
 
 #### Status
 ACCEPTED

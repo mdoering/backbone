@@ -1,5 +1,4 @@
-Cortinarius campoi Speg. SPECIES
-=======
+# Cortinarius campoi Speg. SPECIES
 
 #### Status
 ACCEPTED

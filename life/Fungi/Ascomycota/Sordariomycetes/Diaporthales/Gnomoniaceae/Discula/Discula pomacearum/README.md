@@ -1,5 +1,4 @@
-Discula pomacearum Höhn. SPECIES
-=======
+# Discula pomacearum Höhn. SPECIES
 
 #### Status
 ACCEPTED

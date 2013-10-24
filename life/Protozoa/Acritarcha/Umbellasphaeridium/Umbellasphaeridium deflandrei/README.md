@@ -1,5 +1,4 @@
-Umbellasphaeridium deflandrei Moreau-Benoît, 1967 ex Jardiné et al., 1972 SPECIES
-=======
+# Umbellasphaeridium deflandrei Moreau-Benoît, 1967 ex Jardiné et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

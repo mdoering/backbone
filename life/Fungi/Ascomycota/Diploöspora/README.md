@@ -1,5 +1,4 @@
-Diploöspora Grove GENUS
-=======
+# Diploöspora Grove GENUS
 
 #### Status
 ACCEPTED

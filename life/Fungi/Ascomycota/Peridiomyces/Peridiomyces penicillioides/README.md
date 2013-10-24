@@ -1,5 +1,4 @@
-Peridiomyces penicillioides H. Karst. SPECIES
-=======
+# Peridiomyces penicillioides H. Karst. SPECIES
 
 #### Status
 ACCEPTED

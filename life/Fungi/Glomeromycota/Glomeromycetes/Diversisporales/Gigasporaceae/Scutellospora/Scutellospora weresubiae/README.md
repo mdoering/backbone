@@ -1,17 +1,16 @@
-Racocetra weresubiae (Koske & C. Walker) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora weresubiae Koske & C. Walker, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 224 (1986)
 
 #### Original name
-null
+Scutellospora weresubiae Koske & C. Walker, 1986
 
 ### Remarks
 null

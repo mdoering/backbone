@@ -1,5 +1,4 @@
-Sphaeria globularis Batsch SPECIES
-=======
+# Sphaeria globularis Batsch SPECIES
 
 #### Status
 ACCEPTED

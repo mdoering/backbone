@@ -1,5 +1,4 @@
-Uredinopsis athyrii Kamei SPECIES
-=======
+# Uredinopsis athyrii Kamei SPECIES
 
 #### Status
 ACCEPTED

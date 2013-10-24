@@ -1,5 +1,4 @@
-Cantharellus convolvulatus A.H. Sm. SPECIES
-=======
+# Cantharellus convolvulatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

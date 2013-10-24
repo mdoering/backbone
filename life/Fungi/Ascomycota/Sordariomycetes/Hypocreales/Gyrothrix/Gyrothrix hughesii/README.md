@@ -1,5 +1,4 @@
-Gyrothrix hughesii Piroz., 1962 SPECIES
-=======
+# Gyrothrix hughesii Piroz., 1962 SPECIES
 
 #### Status
 ACCEPTED

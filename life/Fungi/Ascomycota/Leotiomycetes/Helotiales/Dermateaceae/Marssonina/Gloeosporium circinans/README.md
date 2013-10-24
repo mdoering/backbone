@@ -1,5 +1,4 @@
-Gloeosporium circinans (Fuckel) Sacc. SPECIES
-=======
+# Gloeosporium circinans (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

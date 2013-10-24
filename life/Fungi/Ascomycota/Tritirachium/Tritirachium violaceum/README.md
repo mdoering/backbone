@@ -1,5 +1,4 @@
-Tritirachium violaceum Tatarenko SPECIES
-=======
+# Tritirachium violaceum Tatarenko SPECIES
 
 #### Status
 ACCEPTED

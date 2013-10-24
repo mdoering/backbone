@@ -1,5 +1,4 @@
-Lentomita GENUS
-=======
+# Lentomita GENUS
 
 #### Status
 ACCEPTED

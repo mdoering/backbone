@@ -1,11 +1,10 @@
-Laboea ovalis Leegaard, 1915 SPECIES
-=======
+# Strombidium ovale Leegaard, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

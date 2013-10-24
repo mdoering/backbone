@@ -1,5 +1,4 @@
-Cenomyce australis Pers. SPECIES
-=======
+# Cenomyce australis Pers. SPECIES
 
 #### Status
 ACCEPTED

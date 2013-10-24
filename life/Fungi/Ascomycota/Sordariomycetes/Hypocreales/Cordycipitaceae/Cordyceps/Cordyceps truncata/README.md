@@ -1,5 +1,4 @@
-Cordyceps truncata Moureau SPECIES
-=======
+# Cordyceps truncata Moureau SPECIES
 
 #### Status
 ACCEPTED

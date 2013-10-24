@@ -1,5 +1,4 @@
-Leptosphaeria antarctica Speg. SPECIES
-=======
+# Leptosphaeria antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

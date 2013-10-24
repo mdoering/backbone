@@ -1,5 +1,4 @@
-Metasphaeria lichenis-sordidi (Massee) Sacc. SPECIES
-=======
+# Metasphaeria lichenis-sordidi (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

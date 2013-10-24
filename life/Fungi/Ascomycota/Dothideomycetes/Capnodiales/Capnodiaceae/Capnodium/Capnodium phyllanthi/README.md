@@ -1,17 +1,16 @@
-Capnodium phyllanthae D.K. Kulk. & U.K. Kulk. SPECIES
-=======
+# Capnodium phyllanthi D.K. Kulk. & U.K. Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 7(2): 199 (1981)
 
 #### Original name
-Capnodium phyllanthae D.K. Kulk. & U.K. Kulk.
+Capnodium phyllanthi D.K. Kulk. & U.K. Kulk.
 
 ### Remarks
 null

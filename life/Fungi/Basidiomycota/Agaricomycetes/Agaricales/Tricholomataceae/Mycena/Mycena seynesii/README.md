@@ -1,5 +1,4 @@
-Mycena seynesii Quél., 1877 SPECIES
-=======
+# Mycena seynesii Quél., 1877 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula renidens Ruots., Sarnari & Vauras, 1998 SPECIES
-=======
+# Russula renidens Ruots., Sarnari & Vauras, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buttiauxella ferragutiae Müller et al., 1996 SPECIES
-=======
+# Buttiauxella ferragutiae Müller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

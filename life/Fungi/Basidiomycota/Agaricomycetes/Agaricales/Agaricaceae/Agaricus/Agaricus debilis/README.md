@@ -1,5 +1,4 @@
-Agaricus debilis Fr. SPECIES
-=======
+# Agaricus debilis Fr. SPECIES
 
 #### Status
 ACCEPTED

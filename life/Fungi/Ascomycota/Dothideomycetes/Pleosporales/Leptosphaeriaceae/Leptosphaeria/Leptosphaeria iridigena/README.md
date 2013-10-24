@@ -1,5 +1,4 @@
-Leptosphaeria iridigena f. iridigena FORM
-=======
+# Leptosphaeria iridigena Fautrey SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 17: 168 (1895)
 
 #### Original name
-Leptosphaeria iridigena f. iridigena
+Leptosphaeria iridigena Fautrey
 
 ### Remarks
 null

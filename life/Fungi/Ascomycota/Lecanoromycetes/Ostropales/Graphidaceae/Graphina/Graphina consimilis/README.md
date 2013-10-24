@@ -1,5 +1,4 @@
-Graphina consimilis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina consimilis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

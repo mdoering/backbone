@@ -1,5 +1,4 @@
-Chromotorula ochracea F.C. Harrison SPECIES
-=======
+# Chromotorula ochracea F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

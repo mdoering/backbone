@@ -1,5 +1,4 @@
-Asteridiella strombosiae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella strombosiae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

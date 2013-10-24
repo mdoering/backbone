@@ -1,5 +1,4 @@
-Sporoschisma stilboideum Bat. & J.L. Bezerra SPECIES
-=======
+# Sporoschisma stilboideum Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

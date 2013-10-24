@@ -1,14 +1,13 @@
-Helminthocarpon lojkanum Müll. Arg. SPECIES
-=======
+# Cyclographina lojkana (Müll. Arg.) D.D. Awasthi & M. Joshi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 70: 423 (1887)
+Norw. Jl Bot. 26: 175 (1979)
 
 #### Original name
 Helminthocarpon lojkanum Müll. Arg.

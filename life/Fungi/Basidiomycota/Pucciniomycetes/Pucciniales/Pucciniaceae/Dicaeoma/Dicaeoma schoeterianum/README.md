@@ -1,5 +1,4 @@
-Dicaeoma schoeterianum (Kleb.) Kuntze SPECIES
-=======
+# Dicaeoma schoeterianum (Kleb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

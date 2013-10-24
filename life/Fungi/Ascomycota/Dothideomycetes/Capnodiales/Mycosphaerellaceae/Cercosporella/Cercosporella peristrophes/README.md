@@ -1,5 +1,4 @@
-Cercosporella peristrophes var. peristrophes VARIETY
-=======
+# Cercosporella peristrophes Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Sydow & Mitter, Annls mycol. 31: 93 (1933)
 
 #### Original name
-Cercosporella peristrophes var. peristrophes
+Cercosporella peristrophes Syd.
 
 ### Remarks
 null

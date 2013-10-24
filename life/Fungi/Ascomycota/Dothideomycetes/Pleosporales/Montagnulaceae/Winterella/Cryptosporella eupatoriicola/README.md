@@ -1,17 +1,16 @@
-Cryptosporella eupatoriincola Rehm SPECIES
-=======
+# Cryptosporella eupatoriicola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 44: 6 (1905)
 
 #### Original name
-Cryptosporella eupatoriincola Rehm
+Cryptosporella eupatoriicola Rehm
 
 ### Remarks
 null

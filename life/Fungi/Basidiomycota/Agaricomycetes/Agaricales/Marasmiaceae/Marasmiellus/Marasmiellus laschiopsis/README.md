@@ -1,5 +1,4 @@
-Marasmiellus laschiopsis Singer SPECIES
-=======
+# Marasmiellus laschiopsis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria yerbae Speg. SPECIES
-=======
+# Didymosphaeria yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

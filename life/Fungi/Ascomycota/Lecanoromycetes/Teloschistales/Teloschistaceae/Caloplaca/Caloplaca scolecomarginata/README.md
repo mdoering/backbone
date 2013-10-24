@@ -1,5 +1,4 @@
-Caloplaca scolecomarginata Søchting & Olech SPECIES
-=======
+# Caloplaca scolecomarginata Søchting & Olech SPECIES
 
 #### Status
 ACCEPTED

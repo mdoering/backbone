@@ -1,5 +1,4 @@
-Hyalothyridium leptitanum Sacc. & Trotter SPECIES
-=======
+# Hyalothyridium leptitanum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

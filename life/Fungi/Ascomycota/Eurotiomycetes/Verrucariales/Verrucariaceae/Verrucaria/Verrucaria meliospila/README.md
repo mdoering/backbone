@@ -1,5 +1,4 @@
-Verrucaria meliospila Nyl. SPECIES
-=======
+# Verrucaria meliospila Nyl. SPECIES
 
 #### Status
 ACCEPTED

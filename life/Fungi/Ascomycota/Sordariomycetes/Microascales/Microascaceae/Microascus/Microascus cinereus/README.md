@@ -1,5 +1,4 @@
-Microascus cinereus Curzi, 1931 SPECIES
-=======
+# Microascus cinereus Curzi, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora tulipiferae Died. SPECIES
-=======
+# Cytospora tulipiferae Died. SPECIES
 
 #### Status
 ACCEPTED

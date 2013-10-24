@@ -1,5 +1,4 @@
-Thelenella geminella (Nyl.) Vain. SPECIES
-=======
+# Thelenella geminella (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

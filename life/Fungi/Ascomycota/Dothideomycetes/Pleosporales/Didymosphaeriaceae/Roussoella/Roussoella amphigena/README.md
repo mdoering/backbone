@@ -1,5 +1,4 @@
-Roussoella amphigena Rick SPECIES
-=======
+# Roussoella amphigena Rick SPECIES
 
 #### Status
 ACCEPTED

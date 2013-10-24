@@ -1,5 +1,4 @@
-Savoryella grandispora K.D. Hyde, 1994 SPECIES
-=======
+# Savoryella grandispora K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

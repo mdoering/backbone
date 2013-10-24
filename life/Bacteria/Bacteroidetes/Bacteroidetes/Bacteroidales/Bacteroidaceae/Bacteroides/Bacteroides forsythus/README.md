@@ -1,5 +1,4 @@
-Bacteroides forsythus Tanner et al., 1986 SPECIES
-=======
+# Bacteroides forsythus Tanner et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

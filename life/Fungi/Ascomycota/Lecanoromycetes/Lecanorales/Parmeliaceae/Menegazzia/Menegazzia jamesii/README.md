@@ -1,5 +1,4 @@
-Menegazzia jamesii Louwhoff & Kantvilas SPECIES
-=======
+# Menegazzia jamesii Louwhoff & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

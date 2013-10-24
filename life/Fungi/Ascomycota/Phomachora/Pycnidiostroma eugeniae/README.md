@@ -1,17 +1,16 @@
-Pycnidiostroma eugenicae F. Stevens SPECIES
-=======
+# Pycnidiostroma eugeniae F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 11: (1927)
 
 #### Original name
-Pycnidiostroma eugenicae F. Stevens
+Pycnidiostroma eugeniae F. Stevens
 
 ### Remarks
 null

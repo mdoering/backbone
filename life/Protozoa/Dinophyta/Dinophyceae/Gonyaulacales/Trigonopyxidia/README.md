@@ -1,17 +1,16 @@
-Trigonopyxis I.C. Cookson & A. Eisenack, 1960 GENUS
-=======
+# Trigonopyxidia I.C. Cookson & A. Eisenack, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Micropaleontology 6: 11.
+Proc. R. Soc. Vict. 74: 75.
 
 #### Original name
-null
+Trigonopyxis I.C. Cookson & A. Eisenack, 1960
 
 ### Remarks
 null

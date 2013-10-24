@@ -1,5 +1,4 @@
-Pleospora notarisii (Sacc.) Petr. SPECIES
-=======
+# Pleospora notarisii (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

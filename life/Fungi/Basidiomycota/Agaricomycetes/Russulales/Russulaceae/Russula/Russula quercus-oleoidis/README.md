@@ -1,5 +1,4 @@
-Russula quercus-oleoidis Singer SPECIES
-=======
+# Russula quercus-oleoidis Singer SPECIES
 
 #### Status
 ACCEPTED

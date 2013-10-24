@@ -1,5 +1,4 @@
-Synchytrium pilificum F. Thomas SPECIES
-=======
+# Synchytrium pilificum F. Thomas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella planodisca (Peck & Clinton) Sacc. SPECIES
-=======
+# Pezizella planodisca (Peck & Clinton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

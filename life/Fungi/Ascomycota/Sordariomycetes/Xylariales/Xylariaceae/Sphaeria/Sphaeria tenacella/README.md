@@ -1,5 +1,4 @@
-Sphaeria tenacella Fr. SPECIES
-=======
+# Sphaeria tenacella Fr. SPECIES
 
 #### Status
 ACCEPTED

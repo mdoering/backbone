@@ -1,5 +1,4 @@
-Priceomyces haplophilus (Shifrine & Phaff) M. Suzuki & Kurtzman, 2010 SPECIES
-=======
+# Priceomyces haplophilus (Shifrine & Phaff) M. Suzuki & Kurtzman, 2010 SPECIES
 
 #### Status
 ACCEPTED

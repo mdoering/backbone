@@ -1,5 +1,4 @@
-Boletus pusillus Berk. SPECIES
-=======
+# Boletus pusillus Berk. SPECIES
 
 #### Status
 ACCEPTED

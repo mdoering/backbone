@@ -1,17 +1,16 @@
-Cenomyce firma Laurer SPECIES
-=======
+# Cladonia murrayi W. Martin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 2: 44 (1827)
+Trans. Roy. Soc. New Zealand, Bot. 2: 40 (1962)
 
 #### Original name
-Cenomyce firma Laurer
+Cladonia murrayi W. Martin
 
 ### Remarks
 null

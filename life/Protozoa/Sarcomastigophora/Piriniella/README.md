@@ -1,5 +1,4 @@
-Piriniella Blau, 1986 GENUS
-=======
+# Piriniella Blau, 1986 GENUS
 
 #### Status
 ACCEPTED

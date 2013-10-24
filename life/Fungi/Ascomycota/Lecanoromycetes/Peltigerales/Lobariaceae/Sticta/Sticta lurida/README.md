@@ -1,5 +1,4 @@
-Sticta lurida Meyen & Flot. SPECIES
-=======
+# Sticta lurida Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bensingtonia Ingold GENUS
-=======
+# Bensingtonia Ingold GENUS
 
 #### Status
 ACCEPTED

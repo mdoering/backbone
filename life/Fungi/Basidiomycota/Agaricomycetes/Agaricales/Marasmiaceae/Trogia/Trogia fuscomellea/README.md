@@ -1,5 +1,4 @@
-Trogia fuscomellea Corner SPECIES
-=======
+# Trogia fuscomellea Corner SPECIES
 
 #### Status
 ACCEPTED

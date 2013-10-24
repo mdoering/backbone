@@ -1,5 +1,4 @@
-Sporidesmium salinum E.B.G. Jones, 1963 SPECIES
-=======
+# Sporidesmium salinum E.B.G. Jones, 1963 SPECIES
 
 #### Status
 ACCEPTED

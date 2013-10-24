@@ -1,5 +1,4 @@
-Strobilomyces areolatus H.A. Wen & J.Z. Ying SPECIES
-=======
+# Strobilomyces areolatus H.A. Wen & J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

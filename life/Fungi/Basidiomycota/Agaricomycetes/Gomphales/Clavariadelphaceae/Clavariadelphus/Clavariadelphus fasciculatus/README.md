@@ -1,5 +1,4 @@
-Clavariadelphus fasciculatus Methven & Guzmán, 1989 SPECIES
-=======
+# Clavariadelphus fasciculatus Methven & Guzmán, 1989 SPECIES
 
 #### Status
 ACCEPTED

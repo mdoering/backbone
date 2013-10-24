@@ -1,17 +1,16 @@
-Diplodina euphorbicola Sousa da Câmara SPECIES
-=======
+# Diplodina euphorbiicola Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bol. Agric. Lisboa 2(1): 45 (1936)
 
 #### Original name
-Diplodina euphorbicola Sousa da Câmara
+Diplodina euphorbiicola Sousa da Câmara
 
 ### Remarks
 null

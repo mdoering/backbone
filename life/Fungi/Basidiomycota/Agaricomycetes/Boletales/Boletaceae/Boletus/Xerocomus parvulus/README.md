@@ -1,5 +1,4 @@
-Xerocomus parvulus Hongo SPECIES
-=======
+# Xerocomus parvulus Hongo SPECIES
 
 #### Status
 ACCEPTED

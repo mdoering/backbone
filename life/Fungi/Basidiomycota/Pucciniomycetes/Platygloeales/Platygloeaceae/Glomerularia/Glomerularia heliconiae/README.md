@@ -1,17 +1,16 @@
-Glomerularia heliconii L. Herrera SPECIES
-=======
+# Glomerularia heliconiae L. Herrera SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Centro Agrícola, Cuba 21(1): 95 (1994)
 
 #### Original name
-Glomerularia heliconii L. Herrera
+Glomerularia heliconiae L. Herrera
 
 ### Remarks
 null

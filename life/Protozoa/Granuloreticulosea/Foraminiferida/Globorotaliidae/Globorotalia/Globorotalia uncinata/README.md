@@ -1,5 +1,4 @@
-Globorotalia uncinata SPECIES
-=======
+# Globorotalia uncinata SPECIES
 
 #### Status
 ACCEPTED

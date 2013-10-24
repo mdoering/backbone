@@ -1,5 +1,4 @@
-Hypholoma stipatum (Pers.) S. Imai SPECIES
-=======
+# Hypholoma stipatum (Pers.) S. Imai SPECIES
 
 #### Status
 ACCEPTED

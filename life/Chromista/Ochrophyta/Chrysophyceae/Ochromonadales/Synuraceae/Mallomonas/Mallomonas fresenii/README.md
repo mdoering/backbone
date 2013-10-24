@@ -1,5 +1,4 @@
-Mallomonas fresenii Kent SPECIES
-=======
+# Mallomonas fresenii Kent SPECIES
 
 #### Status
 ACCEPTED

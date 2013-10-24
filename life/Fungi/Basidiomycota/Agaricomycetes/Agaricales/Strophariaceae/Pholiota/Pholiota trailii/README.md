@@ -1,5 +1,4 @@
-Pholiota trailii (Berk. & Cooke) SPECIES
-=======
+# Pholiota trailii (Berk. & Cooke) SPECIES
 
 #### Status
 ACCEPTED

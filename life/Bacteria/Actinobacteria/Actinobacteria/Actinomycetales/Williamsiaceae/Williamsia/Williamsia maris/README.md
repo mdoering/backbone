@@ -1,5 +1,4 @@
-Williamsia maris Stach et al., 2004 SPECIES
-=======
+# Williamsia maris Stach et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

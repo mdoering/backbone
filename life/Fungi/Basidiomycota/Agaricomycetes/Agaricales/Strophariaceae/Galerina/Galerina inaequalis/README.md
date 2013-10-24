@@ -1,5 +1,4 @@
-Galerina inaequalis E. Horak SPECIES
-=======
+# Galerina inaequalis E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orcheomyces tenthrediniferae Burgeff SPECIES
-=======
+# Orcheomyces tenthrediniferae Burgeff SPECIES
 
 #### Status
 ACCEPTED

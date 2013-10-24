@@ -1,5 +1,4 @@
-Pyrenopeziza symphoricarpi (Ellis & Everh.) Dennis SPECIES
-=======
+# Pyrenopeziza symphoricarpi (Ellis & Everh.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora alternantherae A.K. Roy SPECIES
-=======
+# Physalospora alternantherae A.K. Roy SPECIES
 
 #### Status
 ACCEPTED

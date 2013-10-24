@@ -1,5 +1,4 @@
-Botryohypochnus verrucisporus Burds. & Gilb. SPECIES
-=======
+# Botryohypochnus verrucisporus Burds. & Gilb. SPECIES
 
 #### Status
 ACCEPTED

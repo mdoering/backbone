@@ -1,5 +1,4 @@
-Peziza oxyacantha Pers. SPECIES
-=======
+# Peziza oxyacantha Pers. SPECIES
 
 #### Status
 ACCEPTED

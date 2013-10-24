@@ -1,5 +1,4 @@
-Phloiocaulon spectabile Reinke SPECIES
-=======
+# Phloiocaulon spectabile Reinke SPECIES
 
 #### Status
 ACCEPTED

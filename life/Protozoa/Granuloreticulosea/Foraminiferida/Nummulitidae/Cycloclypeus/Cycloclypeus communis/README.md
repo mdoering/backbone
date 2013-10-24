@@ -1,5 +1,4 @@
-Cycloclypeus communis Martin SPECIES
-=======
+# Cycloclypeus communis Martin SPECIES
 
 #### Status
 ACCEPTED

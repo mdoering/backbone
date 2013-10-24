@@ -1,5 +1,4 @@
-Chlamydodontida Deroux, 1970 ORDER
-=======
+# Chlamydodontida Deroux, 1970 ORDER
 
 #### Status
 ACCEPTED

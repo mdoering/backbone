@@ -1,5 +1,4 @@
-Pterocanium korotnevi (Dogel) in Dogel & Reshetnyak, 1952 SPECIES
-=======
+# Pterocanium korotnevi (Dogel) in Dogel & Reshetnyak, 1952 SPECIES
 
 #### Status
 ACCEPTED

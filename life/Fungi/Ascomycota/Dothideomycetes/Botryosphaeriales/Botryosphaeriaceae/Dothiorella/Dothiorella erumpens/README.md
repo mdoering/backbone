@@ -1,5 +1,4 @@
-Dothiorella erumpens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dothiorella erumpens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

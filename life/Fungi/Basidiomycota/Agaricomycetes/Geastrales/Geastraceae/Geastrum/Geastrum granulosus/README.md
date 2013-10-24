@@ -1,8 +1,7 @@
-Geaster granulosus Fuckel SPECIES
-=======
+# Geastrum granulosus Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster granulosus Fuckel
+Geastrum granulosus Fuckel
 
 ### Remarks
 null

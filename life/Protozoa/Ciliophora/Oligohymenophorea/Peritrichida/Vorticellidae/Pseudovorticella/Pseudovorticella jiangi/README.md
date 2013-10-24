@@ -1,5 +1,4 @@
-Pseudovorticella jiangi Sun, Song & Warren, 2006 SPECIES
-=======
+# Pseudovorticella jiangi Sun, Song & Warren, 2006 SPECIES
 
 #### Status
 ACCEPTED

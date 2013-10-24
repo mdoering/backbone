@@ -1,5 +1,4 @@
-Caloplaca nigricans H. Olivier SPECIES
-=======
+# Caloplaca nigricans H. Olivier SPECIES
 
 #### Status
 ACCEPTED

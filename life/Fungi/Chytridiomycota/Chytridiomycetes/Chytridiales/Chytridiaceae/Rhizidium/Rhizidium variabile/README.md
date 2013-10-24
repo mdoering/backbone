@@ -1,5 +1,4 @@
-Rhizidium variabile Canter SPECIES
-=======
+# Rhizidium variabile Canter SPECIES
 
 #### Status
 ACCEPTED

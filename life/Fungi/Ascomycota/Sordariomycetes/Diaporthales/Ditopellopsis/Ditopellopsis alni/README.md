@@ -1,5 +1,4 @@
-Ditopellopsis alni (G.E. Thomps. & J.H. Mill.) M.E. Barr SPECIES
-=======
+# Ditopellopsis alni (G.E. Thomps. & J.H. Mill.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

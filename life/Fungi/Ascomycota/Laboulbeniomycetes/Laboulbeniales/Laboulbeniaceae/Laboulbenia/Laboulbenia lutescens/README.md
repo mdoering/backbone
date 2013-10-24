@@ -1,5 +1,4 @@
-Laboulbenia lutescens Thaxt. SPECIES
-=======
+# Laboulbenia lutescens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

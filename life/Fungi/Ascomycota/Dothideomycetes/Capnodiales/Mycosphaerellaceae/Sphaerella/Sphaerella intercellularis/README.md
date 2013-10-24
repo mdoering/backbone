@@ -1,5 +1,4 @@
-Sphaerella intercellularis (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sphaerella intercellularis (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

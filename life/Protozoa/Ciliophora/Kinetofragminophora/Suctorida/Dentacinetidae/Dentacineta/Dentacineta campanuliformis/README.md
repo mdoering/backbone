@@ -1,8 +1,7 @@
-Acinetopsis campanuliformis Collin, 1909 SPECIES
-=======
+# Dentacineta campanuliformis (Collin, 1909) Jankowski, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

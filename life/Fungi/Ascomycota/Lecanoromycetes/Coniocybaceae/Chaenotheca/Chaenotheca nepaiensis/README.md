@@ -1,5 +1,4 @@
-Chaenotheca nepaiensis Alb. Schmidt SPECIES
-=======
+# Chaenotheca nepaiensis Alb. Schmidt SPECIES
 
 #### Status
 ACCEPTED

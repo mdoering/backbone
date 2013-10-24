@@ -1,5 +1,4 @@
-Verrucaria buekkensis Servít SPECIES
-=======
+# Verrucaria buekkensis Servít SPECIES
 
 #### Status
 ACCEPTED

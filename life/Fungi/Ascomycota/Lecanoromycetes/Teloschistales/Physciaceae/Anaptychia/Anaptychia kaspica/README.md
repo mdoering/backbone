@@ -1,5 +1,4 @@
-Anaptychia kaspica Gyeln. SPECIES
-=======
+# Anaptychia kaspica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

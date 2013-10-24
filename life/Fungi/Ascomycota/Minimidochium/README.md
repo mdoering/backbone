@@ -1,5 +1,4 @@
-Minimidochium B. Sutton GENUS
-=======
+# Minimidochium B. Sutton GENUS
 
 #### Status
 ACCEPTED

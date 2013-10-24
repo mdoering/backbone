@@ -1,5 +1,4 @@
-Chaetomium cruentatum Sörgel SPECIES
-=======
+# Chaetomium cruentatum Sörgel SPECIES
 
 #### Status
 ACCEPTED

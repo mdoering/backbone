@@ -1,5 +1,4 @@
-Marginulina cocoaensis Cushman SPECIES
-=======
+# Marginulina cocoaensis Cushman SPECIES
 
 #### Status
 ACCEPTED

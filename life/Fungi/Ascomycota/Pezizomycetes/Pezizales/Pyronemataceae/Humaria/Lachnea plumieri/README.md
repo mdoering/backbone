@@ -1,5 +1,4 @@
-Lachnea plumieri subsp. plumieri SUBSPECIES
-=======
+# Lachnea plumieri (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lachnea plumieri subsp. plumieri
+Peziza plumieri Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Halopelagius Cui, Li, Gao, Xu, Zhou, Liu, Oren & Zhou, 2010 GENUS
-=======
+# Halopelagius Cui, Li, Gao, Xu, Zhou, Liu, Oren & Zhou, 2010 GENUS
 
 #### Status
 ACCEPTED

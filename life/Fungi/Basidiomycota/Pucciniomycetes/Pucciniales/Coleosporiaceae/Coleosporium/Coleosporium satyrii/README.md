@@ -1,5 +1,4 @@
-Coleosporium satyrii Mundk. & Thirum. SPECIES
-=======
+# Coleosporium satyrii Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

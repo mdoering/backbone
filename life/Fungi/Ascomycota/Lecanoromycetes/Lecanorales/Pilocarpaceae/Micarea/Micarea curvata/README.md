@@ -1,5 +1,4 @@
-Micarea curvata Coppins SPECIES
-=======
+# Micarea curvata Coppins SPECIES
 
 #### Status
 ACCEPTED

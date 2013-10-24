@@ -1,5 +1,4 @@
-Vanudenia nectandrae Bat. & H. Maia SPECIES
-=======
+# Vanudenia nectandrae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Streblonema macrocystis A.F. Peters SPECIES
-=======
+# Laminariocolax macrocystis (A.F. Peters) A.F. Peters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

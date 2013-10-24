@@ -1,5 +1,4 @@
-Cladosporium agoseridis U. Braun & Rogerson, 1995 SPECIES
-=======
+# Cladosporium agoseridis U. Braun & Rogerson, 1995 SPECIES
 
 #### Status
 ACCEPTED

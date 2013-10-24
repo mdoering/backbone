@@ -1,5 +1,4 @@
-Alternaria junci-glauci P. Joly SPECIES
-=======
+# Alternaria junci-glauci P. Joly SPECIES
 
 #### Status
 ACCEPTED

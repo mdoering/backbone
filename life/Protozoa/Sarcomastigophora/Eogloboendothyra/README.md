@@ -1,5 +1,4 @@
-Eogloboendothyra Vdovenko, 1972 GENUS
-=======
+# Eogloboendothyra Vdovenko, 1972 GENUS
 
 #### Status
 ACCEPTED

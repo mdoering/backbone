@@ -1,5 +1,4 @@
-Pichiaceae Zender FAMILY
-=======
+# Pichiaceae Zender FAMILY
 
 #### Status
 ACCEPTED

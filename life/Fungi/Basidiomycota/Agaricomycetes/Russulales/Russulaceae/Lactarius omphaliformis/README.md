@@ -1,5 +1,4 @@
-Lactarius omphaliformis SPECIES
-=======
+# Lactarius omphaliformis SPECIES
 
 #### Status
 ACCEPTED

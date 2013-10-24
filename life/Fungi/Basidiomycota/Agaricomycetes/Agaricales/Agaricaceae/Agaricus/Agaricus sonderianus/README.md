@@ -1,5 +1,4 @@
-Agaricus sonderianus Berk. SPECIES
-=======
+# Agaricus sonderianus Berk. SPECIES
 
 #### Status
 ACCEPTED

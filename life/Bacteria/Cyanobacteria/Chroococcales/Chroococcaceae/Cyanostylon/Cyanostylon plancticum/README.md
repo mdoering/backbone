@@ -1,5 +1,4 @@
-Cyanostylon plancticum F. Hindák SPECIES
-=======
+# Cyanostylon plancticum F. Hindák SPECIES
 
 #### Status
 ACCEPTED

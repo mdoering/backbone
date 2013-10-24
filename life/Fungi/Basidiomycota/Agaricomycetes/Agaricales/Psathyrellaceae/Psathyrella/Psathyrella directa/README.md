@@ -1,5 +1,4 @@
-Psathyrella directa A.H. Sm. SPECIES
-=======
+# Psathyrella directa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

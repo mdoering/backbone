@@ -1,5 +1,4 @@
-Peltigera chlorophylla (Willd.) Willd. SPECIES
-=======
+# Peltigera chlorophylla (Willd.) Willd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomnema Britzelm. GENUS
-=======
+# Hypomnema Britzelm. GENUS
 
 #### Status
 ACCEPTED

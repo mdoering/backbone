@@ -1,5 +1,4 @@
-Lachnocladium strictissimum Henn. SPECIES
-=======
+# Lachnocladium strictissimum Henn. SPECIES
 
 #### Status
 ACCEPTED

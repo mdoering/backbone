@@ -1,5 +1,4 @@
-Camarosporium poterii Pass. SPECIES
-=======
+# Camarosporium poterii Pass. SPECIES
 
 #### Status
 ACCEPTED

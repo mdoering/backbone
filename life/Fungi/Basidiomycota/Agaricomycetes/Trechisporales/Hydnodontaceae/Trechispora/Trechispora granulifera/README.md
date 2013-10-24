@@ -1,5 +1,4 @@
-Trechispora granulifera Hallenb., 1978 SPECIES
-=======
+# Trechispora granulifera Hallenb., 1978 SPECIES
 
 #### Status
 ACCEPTED

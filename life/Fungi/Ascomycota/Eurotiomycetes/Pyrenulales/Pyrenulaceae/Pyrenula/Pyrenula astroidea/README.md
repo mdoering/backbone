@@ -1,14 +1,13 @@
-Parmentaria astroidea Fée SPECIES
-=======
+# Pyrenula astroidea (Fée) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Crypt. Exot. (Paris) 1: 70 (1825)
+Mem. N. Y. bot. Gdn 49: 87 (1989)
 
 #### Original name
 Parmentaria astroidea Fée

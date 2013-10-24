@@ -1,5 +1,4 @@
-Russula parvula Burl. SPECIES
-=======
+# Russula parvula Burl. SPECIES
 
 #### Status
 ACCEPTED

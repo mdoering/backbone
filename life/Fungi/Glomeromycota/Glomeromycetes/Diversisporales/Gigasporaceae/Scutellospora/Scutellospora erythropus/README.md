@@ -1,17 +1,16 @@
-Quatunica erythropa (Koske & C. Walker) F.A. Souza, Sieverd. & Oehl, 2009 SPECIES
-=======
+# Scutellospora erythropus (Koske & C. Walker) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 181 (1986)
 
 #### Original name
-null
+Gigaspora erythropus Koske & C. Walker, 1984
 
 ### Remarks
 null

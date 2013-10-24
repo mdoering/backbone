@@ -1,5 +1,4 @@
-Verrucaria paklenicae Servít SPECIES
-=======
+# Verrucaria paklenicae Servít SPECIES
 
 #### Status
 ACCEPTED

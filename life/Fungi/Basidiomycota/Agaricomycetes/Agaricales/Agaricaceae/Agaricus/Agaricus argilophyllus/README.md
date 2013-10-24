@@ -1,5 +1,4 @@
-Agaricus argilophyllus Berk. & Broome SPECIES
-=======
+# Agaricus argilophyllus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

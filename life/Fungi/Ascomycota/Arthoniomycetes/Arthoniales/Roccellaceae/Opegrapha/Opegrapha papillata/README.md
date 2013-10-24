@@ -1,5 +1,4 @@
-Opegrapha papillata Chevall. SPECIES
-=======
+# Opegrapha papillata Chevall. SPECIES
 
 #### Status
 ACCEPTED

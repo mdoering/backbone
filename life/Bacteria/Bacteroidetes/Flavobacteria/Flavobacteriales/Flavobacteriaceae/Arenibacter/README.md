@@ -1,5 +1,4 @@
-Arenibacter Ivanova, Nedashkovskaya, Chun, Lysenko, Frolova, Svetashev, Vysotskii, Mikhailov, Huq & Colwell, 2001 GENUS
-=======
+# Arenibacter Ivanova, Nedashkovskaya, Chun, Lysenko, Frolova, Svetashev, Vysotskii, Mikhailov, Huq & Colwell, 2001 GENUS
 
 #### Status
 ACCEPTED

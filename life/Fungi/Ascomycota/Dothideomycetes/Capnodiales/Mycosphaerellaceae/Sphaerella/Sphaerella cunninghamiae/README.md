@@ -1,5 +1,4 @@
-Sphaerella cunninghamiae Woron. SPECIES
-=======
+# Sphaerella cunninghamiae Woron. SPECIES
 
 #### Status
 ACCEPTED

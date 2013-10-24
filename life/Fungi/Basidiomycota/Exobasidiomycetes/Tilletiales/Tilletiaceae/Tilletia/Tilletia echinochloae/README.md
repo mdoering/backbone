@@ -1,5 +1,4 @@
-Tilletia echinochloae f. echinochloae FORM
-=======
+# Tilletia echinochloae Lavrov SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tilletia echinochloae f. echinochloae
+Tilletia echinochloae Lavrov
 
 ### Remarks
 null

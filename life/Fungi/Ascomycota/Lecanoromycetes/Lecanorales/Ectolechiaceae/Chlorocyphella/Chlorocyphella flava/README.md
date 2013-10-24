@@ -1,5 +1,4 @@
-Chlorocyphella flava anon. SPECIES
-=======
+# Chlorocyphella flava anon. SPECIES
 
 #### Status
 ACCEPTED

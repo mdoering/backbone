@@ -1,8 +1,7 @@
-Hagiastriidae FAMILY
-=======
+# Hagiastridae Riedel, 1971 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

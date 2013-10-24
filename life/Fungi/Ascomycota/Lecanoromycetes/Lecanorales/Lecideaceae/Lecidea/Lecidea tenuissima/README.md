@@ -1,5 +1,4 @@
-Lecidea tenuissima Lynge SPECIES
-=======
+# Lecidea tenuissima Lynge SPECIES
 
 #### Status
 ACCEPTED

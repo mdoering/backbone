@@ -1,5 +1,4 @@
-Nectria phycophora (Döbbeler) Rossman SPECIES
-=======
+# Nectria phycophora (Döbbeler) Rossman SPECIES
 
 #### Status
 ACCEPTED

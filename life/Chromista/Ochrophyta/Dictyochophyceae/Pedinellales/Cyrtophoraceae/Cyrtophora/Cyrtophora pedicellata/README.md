@@ -1,5 +1,4 @@
-Cyrtophora pedicellata Pascher SPECIES
-=======
+# Cyrtophora pedicellata Pascher SPECIES
 
 #### Status
 ACCEPTED

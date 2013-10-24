@@ -1,5 +1,4 @@
-Ectostroma robiniae Castagne SPECIES
-=======
+# Ectostroma robiniae Castagne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium ellisii Cooke SPECIES
-=======
+# Helicosporium ellisii Cooke SPECIES
 
 #### Status
 ACCEPTED

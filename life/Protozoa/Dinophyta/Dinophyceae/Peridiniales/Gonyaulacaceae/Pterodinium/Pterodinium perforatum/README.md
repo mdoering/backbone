@@ -1,5 +1,4 @@
-Pterodinium perforatum (Clarke & Verdier, 1967) Davey & Verdier SPECIES
-=======
+# Pterodinium perforatum (Clarke & Verdier, 1967) Davey & Verdier SPECIES
 
 #### Status
 ACCEPTED

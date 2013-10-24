@@ -1,5 +1,4 @@
-Clavulicium Boidin GENUS
-=======
+# Clavulicium Boidin GENUS
 
 #### Status
 ACCEPTED

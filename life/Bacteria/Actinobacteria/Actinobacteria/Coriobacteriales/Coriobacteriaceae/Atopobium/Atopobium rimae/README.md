@@ -1,8 +1,7 @@
-Lactobacillus rimae Olsen et al., 1991 SPECIES
-=======
+# Atopobium rimae (Olsen et al., 1991) Collins & Wallbanks, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

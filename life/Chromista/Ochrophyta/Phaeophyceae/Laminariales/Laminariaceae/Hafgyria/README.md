@@ -1,5 +1,4 @@
-Hafgyria GENUS
-=======
+# Hafgyria GENUS
 
 #### Status
 ACCEPTED

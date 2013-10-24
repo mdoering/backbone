@@ -1,17 +1,16 @@
-Naemaspora belluda Preuss, 1851 SPECIES
-=======
+# Myxosporium belludum (Preuss) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 727 (1884)
 
 #### Original name
-null
+Naemaspora belluda Preuss
 
 ### Remarks
 null

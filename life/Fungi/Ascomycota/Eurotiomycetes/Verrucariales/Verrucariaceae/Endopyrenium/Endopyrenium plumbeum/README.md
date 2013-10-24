@@ -1,5 +1,4 @@
-Endopyrenium plumbeum B. de Lesd. SPECIES
-=======
+# Endopyrenium plumbeum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

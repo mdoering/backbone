@@ -1,5 +1,4 @@
-Porina rechingeri Szatala SPECIES
-=======
+# Porina rechingeri Szatala SPECIES
 
 #### Status
 ACCEPTED

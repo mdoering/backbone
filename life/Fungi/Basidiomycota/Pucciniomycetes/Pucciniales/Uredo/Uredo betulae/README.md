@@ -1,5 +1,4 @@
-Uredo betulae Schumach. SPECIES
-=======
+# Uredo betulae Schumach. SPECIES
 
 #### Status
 ACCEPTED

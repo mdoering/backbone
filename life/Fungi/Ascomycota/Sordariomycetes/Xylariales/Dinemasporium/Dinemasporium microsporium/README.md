@@ -1,5 +1,4 @@
-Dinemasporium microsporium Sacc. SPECIES
-=======
+# Dinemasporium microsporium Sacc. SPECIES
 
 #### Status
 ACCEPTED

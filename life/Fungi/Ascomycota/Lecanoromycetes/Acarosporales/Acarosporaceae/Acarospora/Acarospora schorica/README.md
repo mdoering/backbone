@@ -1,5 +1,4 @@
-Acarospora schorica Vodopjanova {?} SPECIES
-=======
+# Acarospora schorica Vodopjanova {?} SPECIES
 
 #### Status
 ACCEPTED

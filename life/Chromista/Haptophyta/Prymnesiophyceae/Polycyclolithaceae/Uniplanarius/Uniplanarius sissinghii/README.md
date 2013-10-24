@@ -1,5 +1,4 @@
-Uniplanarius sissinghii SPECIES
-=======
+# Uniplanarius sissinghii SPECIES
 
 #### Status
 ACCEPTED

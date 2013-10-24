@@ -1,5 +1,4 @@
-Pharus simulacrum F.H. Wind & S.W. Wise SPECIES
-=======
+# Pharus simulacrum F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

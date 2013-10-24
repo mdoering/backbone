@@ -1,5 +1,4 @@
-Patellaria microsticta Durieu & Lév. SPECIES
-=======
+# Patellaria microsticta Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

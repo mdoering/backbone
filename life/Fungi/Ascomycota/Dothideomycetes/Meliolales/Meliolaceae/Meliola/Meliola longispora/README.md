@@ -1,5 +1,4 @@
-Meliola longispora (Gaillard) F. Stevens SPECIES
-=======
+# Meliola longispora (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

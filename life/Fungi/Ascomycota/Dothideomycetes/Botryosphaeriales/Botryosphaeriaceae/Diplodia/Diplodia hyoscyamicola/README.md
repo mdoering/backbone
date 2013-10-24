@@ -1,5 +1,4 @@
-Diplodia hyoscyamicola Bubák & Kabát SPECIES
-=======
+# Diplodia hyoscyamicola Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

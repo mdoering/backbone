@@ -1,5 +1,4 @@
-Eriocercospora moghaniae Suj. Singh SPECIES
-=======
+# Eriocercospora moghaniae Suj. Singh SPECIES
 
 #### Status
 ACCEPTED

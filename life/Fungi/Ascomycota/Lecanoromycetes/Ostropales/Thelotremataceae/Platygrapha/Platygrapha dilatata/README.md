@@ -1,5 +1,4 @@
-Platygrapha dilatata Nyl. SPECIES
-=======
+# Platygrapha dilatata Nyl. SPECIES
 
 #### Status
 ACCEPTED

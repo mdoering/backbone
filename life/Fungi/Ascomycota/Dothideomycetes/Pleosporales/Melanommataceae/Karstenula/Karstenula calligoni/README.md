@@ -1,5 +1,4 @@
-Karstenula calligoni Frolov SPECIES
-=======
+# Karstenula calligoni Frolov SPECIES
 
 #### Status
 ACCEPTED

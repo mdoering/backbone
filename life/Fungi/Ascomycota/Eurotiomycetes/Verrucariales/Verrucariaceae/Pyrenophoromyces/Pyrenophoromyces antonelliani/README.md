@@ -1,5 +1,4 @@
-Pyrenophoromyces antonelliani Cif. & Tomas. SPECIES
-=======
+# Pyrenophoromyces antonelliani Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

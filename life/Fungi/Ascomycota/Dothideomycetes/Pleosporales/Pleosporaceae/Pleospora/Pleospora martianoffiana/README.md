@@ -1,5 +1,4 @@
-Pleospora martianoffiana Thüm. SPECIES
-=======
+# Pleospora martianoffiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraophiodina lacrima Vejdovsky, 1882 SPECIES
-=======
+# Paraophiodina lacrima Vejdovsky, 1882 SPECIES
 
 #### Status
 ACCEPTED

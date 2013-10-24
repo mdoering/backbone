@@ -1,5 +1,4 @@
-Mycosphaerella mozambica Arzanlou & Crous, 2008 SPECIES
-=======
+# Mycosphaerella mozambica Arzanlou & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

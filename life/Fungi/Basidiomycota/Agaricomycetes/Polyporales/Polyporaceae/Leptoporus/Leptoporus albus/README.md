@@ -1,5 +1,4 @@
-Leptoporus albus (Huds.) Quél. SPECIES
-=======
+# Leptoporus albus (Huds.) Quél. SPECIES
 
 #### Status
 ACCEPTED

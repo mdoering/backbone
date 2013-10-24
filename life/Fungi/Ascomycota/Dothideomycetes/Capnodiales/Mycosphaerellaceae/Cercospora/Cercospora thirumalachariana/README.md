@@ -1,5 +1,4 @@
-Cercospora thirumalachariana Pavgi & H.P. Upadhyay SPECIES
-=======
+# Cercospora thirumalachariana Pavgi & H.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

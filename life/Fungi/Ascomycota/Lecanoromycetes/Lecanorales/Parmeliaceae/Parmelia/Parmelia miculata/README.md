@@ -1,5 +1,4 @@
-Parmelia miculata (Ach.) Spreng. SPECIES
-=======
+# Parmelia miculata (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

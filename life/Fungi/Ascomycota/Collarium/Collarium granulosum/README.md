@@ -1,5 +1,4 @@
-Collarium granulosum (Mart.) Fr. SPECIES
-=======
+# Collarium granulosum (Mart.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aderkomyces brevipilosus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces brevipilosus (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

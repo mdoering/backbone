@@ -1,8 +1,7 @@
-Dermoloma emilli-dlouhyi Svrcek SPECIES
-=======
+# Dermoloma emiliae-dlouhyi Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermoloma emilli-dlouhyi Svrcek
+Dermoloma emiliae-dlouhyi Svrcek
 
 ### Remarks
 null

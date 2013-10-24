@@ -1,5 +1,4 @@
-Pyrenopeziza arnoldiana (Rehm) Petr. & Syd. SPECIES
-=======
+# Pyrenopeziza arnoldiana (Rehm) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

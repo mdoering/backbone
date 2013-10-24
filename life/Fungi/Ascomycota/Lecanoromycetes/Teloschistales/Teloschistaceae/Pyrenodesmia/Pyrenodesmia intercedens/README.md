@@ -1,5 +1,4 @@
-Pyrenodesmia intercedens Trevis. SPECIES
-=======
+# Pyrenodesmia intercedens Trevis. SPECIES
 
 #### Status
 ACCEPTED

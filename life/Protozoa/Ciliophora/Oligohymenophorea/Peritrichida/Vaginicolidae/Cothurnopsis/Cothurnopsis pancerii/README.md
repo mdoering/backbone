@@ -1,5 +1,4 @@
-Cothurnopsis pancerii SPECIES
-=======
+# Cothurnopsis pancerii SPECIES
 
 #### Status
 ACCEPTED

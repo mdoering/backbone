@@ -1,5 +1,4 @@
-Cortinarius laquellus Soop, 2005 SPECIES
-=======
+# Cortinarius laquellus Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

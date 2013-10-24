@@ -1,5 +1,4 @@
-Rimelia subisidiosa (Müll. Arg.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia subisidiosa (Müll. Arg.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

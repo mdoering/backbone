@@ -1,5 +1,4 @@
-Ophiocordyceps kniphofioides var. kniphofioides VARIETY
-=======
+# Ophiocordyceps kniphofioides (H.C. Evans & Samson) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Stud. Mycol. 57: 44 (2007)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 44 (2007)
 
 #### Original name
 Cordyceps kniphofioides H.C. Evans & Samson

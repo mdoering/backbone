@@ -1,5 +1,4 @@
-Pyrenopsis macrospora SPECIES
-=======
+# Pyrenopsis macrospora SPECIES
 
 #### Status
 ACCEPTED

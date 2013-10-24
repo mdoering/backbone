@@ -1,5 +1,4 @@
-Hymenochaete geniculata Parmasto SPECIES
-=======
+# Hymenochaete geniculata Parmasto SPECIES
 
 #### Status
 ACCEPTED

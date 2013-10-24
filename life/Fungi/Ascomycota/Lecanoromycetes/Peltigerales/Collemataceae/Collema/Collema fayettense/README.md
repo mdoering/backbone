@@ -1,5 +1,4 @@
-Collema fayettense Fink ex J. Hedrick SPECIES
-=======
+# Collema fayettense Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

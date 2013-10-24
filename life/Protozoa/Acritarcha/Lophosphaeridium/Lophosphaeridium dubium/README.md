@@ -1,5 +1,4 @@
-Lophosphaeridium dubium Jankauskas & Vaitekunene, 1972 SPECIES
-=======
+# Lophosphaeridium dubium Jankauskas & Vaitekunene, 1972 SPECIES
 
 #### Status
 ACCEPTED

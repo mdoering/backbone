@@ -1,5 +1,4 @@
-Chiodecton elegantulum (Nyl.) Vain. SPECIES
-=======
+# Chiodecton elegantulum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

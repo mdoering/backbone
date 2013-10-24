@@ -1,14 +1,13 @@
-Rhabdospora detospora (Sacc.) Allesch. SPECIES
-=======
+# Titaeospora detospora (Sacc.) Bubák, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(6): 901 (1900)
+Annls mycol. 14(5): 345 (1916)
 
 #### Original name
 null

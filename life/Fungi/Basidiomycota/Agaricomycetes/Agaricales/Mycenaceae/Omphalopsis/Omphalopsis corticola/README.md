@@ -1,5 +1,4 @@
-Omphalopsis corticola (Peck) Murrill SPECIES
-=======
+# Omphalopsis corticola (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

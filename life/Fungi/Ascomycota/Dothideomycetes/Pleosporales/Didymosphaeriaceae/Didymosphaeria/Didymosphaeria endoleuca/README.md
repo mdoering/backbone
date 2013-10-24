@@ -1,5 +1,4 @@
-Didymosphaeria endoleuca Pass. SPECIES
-=======
+# Didymosphaeria endoleuca Pass. SPECIES
 
 #### Status
 ACCEPTED

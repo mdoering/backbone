@@ -1,5 +1,4 @@
-Clavulinopsis fleischeriana (Henn.) Corner SPECIES
-=======
+# Clavulinopsis fleischeriana (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

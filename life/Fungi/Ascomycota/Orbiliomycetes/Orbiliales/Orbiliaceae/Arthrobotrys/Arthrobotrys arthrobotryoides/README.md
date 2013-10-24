@@ -1,17 +1,16 @@
-Didymozoophaga arthrobotryoides var. arthrobotryoides VARIETY
-=======
+# Arthrobotrys arthrobotryoides (Berl.) Lindau, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microbiol. , Reading 20: 493 (1951)
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(8): 371 (1905)
 
 #### Original name
-Didymozoophaga arthrobotryoides var. arthrobotryoides
+Cephalothecium roseum var. arthrobotryoides Berl., 1887
 
 ### Remarks
 null

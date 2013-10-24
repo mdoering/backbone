@@ -1,5 +1,4 @@
-Dactylaria africana (S. Hughes) G.C. Bhatt & W.B. Kendr. SPECIES
-=======
+# Dactylaria africana (S. Hughes) G.C. Bhatt & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

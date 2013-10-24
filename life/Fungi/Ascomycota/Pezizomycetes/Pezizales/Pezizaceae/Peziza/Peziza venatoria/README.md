@@ -1,5 +1,4 @@
-Peziza venatoria Speg. SPECIES
-=======
+# Peziza venatoria Speg. SPECIES
 
 #### Status
 ACCEPTED

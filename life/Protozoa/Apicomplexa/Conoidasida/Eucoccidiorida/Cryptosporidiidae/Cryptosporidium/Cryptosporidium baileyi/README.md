@@ -1,5 +1,4 @@
-Cryptosporidium baileyi Current, Upton & Haynes, 1986 SPECIES
-=======
+# Cryptosporidium baileyi Current, Upton & Haynes, 1986 SPECIES
 
 #### Status
 ACCEPTED

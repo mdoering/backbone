@@ -1,5 +1,4 @@
-Clitocybe pallidospora (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe pallidospora (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

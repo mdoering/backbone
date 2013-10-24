@@ -1,17 +1,16 @@
-Tupia L. Marchand GENUS
-=======
+# Icmadophila Trevisan, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bijdr. Natuurk. Wetensch. 5: 191 (1830)
+null
 
 #### Original name
-Tupia L. Marchand
+null
 
 ### Remarks
 null

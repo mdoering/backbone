@@ -1,5 +1,4 @@
-Cercospora gangetica Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora gangetica Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

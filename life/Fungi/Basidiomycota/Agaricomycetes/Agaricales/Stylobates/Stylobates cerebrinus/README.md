@@ -1,5 +1,4 @@
-Stylobates cerebrinus Pat. SPECIES
-=======
+# Stylobates cerebrinus Pat. SPECIES
 
 #### Status
 ACCEPTED

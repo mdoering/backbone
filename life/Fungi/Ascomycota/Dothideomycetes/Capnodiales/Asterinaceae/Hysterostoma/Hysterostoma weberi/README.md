@@ -1,5 +1,4 @@
-Hysterostoma weberi Westend. SPECIES
-=======
+# Hysterostoma weberi Westend. SPECIES
 
 #### Status
 ACCEPTED

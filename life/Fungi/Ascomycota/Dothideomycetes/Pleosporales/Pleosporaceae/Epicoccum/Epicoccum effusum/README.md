@@ -1,5 +1,4 @@
-Epicoccum effusum Fuckel, 1870 SPECIES
-=======
+# Epicoccum effusum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

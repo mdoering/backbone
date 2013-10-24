@@ -1,5 +1,4 @@
-Amphitholus Schütt, 1895 GENUS
-=======
+# Amphitholus Schütt, 1895 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporina fusarium (Niessl) Sacc. SPECIES
-=======
+# Cytosporina fusarium (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

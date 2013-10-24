@@ -1,5 +1,4 @@
-Stenocalyx J. Schiller, 1926 GENUS
-=======
+# Stenocalyx J. Schiller, 1926 GENUS
 
 #### Status
 ACCEPTED

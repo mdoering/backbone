@@ -1,5 +1,4 @@
-Leptothyrium caspicum Naumov & Szemb. SPECIES
-=======
+# Leptothyrium caspicum Naumov & Szemb. SPECIES
 
 #### Status
 ACCEPTED

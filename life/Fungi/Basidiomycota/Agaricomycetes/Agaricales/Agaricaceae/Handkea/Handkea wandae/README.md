@@ -1,5 +1,4 @@
-Handkea wandae Skirg. SPECIES
-=======
+# Handkea wandae Skirg. SPECIES
 
 #### Status
 ACCEPTED

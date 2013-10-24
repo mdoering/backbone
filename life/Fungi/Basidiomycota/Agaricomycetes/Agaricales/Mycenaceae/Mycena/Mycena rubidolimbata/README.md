@@ -1,5 +1,4 @@
-Mycena rubidolimbata Maas Geest. & E. Horak SPECIES
-=======
+# Mycena rubidolimbata Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

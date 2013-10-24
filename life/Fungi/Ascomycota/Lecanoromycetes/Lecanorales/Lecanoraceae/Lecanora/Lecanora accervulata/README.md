@@ -1,5 +1,4 @@
-Lecanora accervulata SPECIES
-=======
+# Lecanora accervulata SPECIES
 
 #### Status
 ACCEPTED

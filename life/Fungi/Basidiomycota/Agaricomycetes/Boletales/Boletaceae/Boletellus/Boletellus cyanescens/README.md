@@ -1,5 +1,4 @@
-Boletellus cyanescens E. Horak SPECIES
-=======
+# Boletellus cyanescens E. Horak SPECIES
 
 #### Status
 ACCEPTED

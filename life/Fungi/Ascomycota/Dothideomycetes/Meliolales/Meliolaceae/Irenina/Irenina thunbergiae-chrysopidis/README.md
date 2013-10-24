@@ -1,5 +1,4 @@
-Irenina thunbergiae-chrysopidis Hansf. & Deighton SPECIES
-=======
+# Irenina thunbergiae-chrysopidis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

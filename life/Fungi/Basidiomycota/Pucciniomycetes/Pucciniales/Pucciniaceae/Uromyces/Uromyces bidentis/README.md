@@ -1,5 +1,4 @@
-Uromyces bidentis Lagerh. SPECIES
-=======
+# Uromyces bidentis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jenningsia Schaeffer, 1918 GENUS
-=======
+# Jenningsia Schaeffer, 1918 GENUS
 
 #### Status
 ACCEPTED

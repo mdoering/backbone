@@ -1,5 +1,4 @@
-Micrhystridium asagaiense K. Takahashi SPECIES
-=======
+# Micrhystridium asagaiense K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis heteriformis Pasricha & Mukerji SPECIES
-=======
+# Syncephalis heteriformis Pasricha & Mukerji SPECIES
 
 #### Status
 ACCEPTED

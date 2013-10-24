@@ -1,5 +1,4 @@
-Anabaenopsis elenkenii Miller, 1923 SPECIES
-=======
+# Anabaenopsis elenkenii Miller, 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe amorphae Ellis & Everh. SPECIES
-=======
+# Diaporthe amorphae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

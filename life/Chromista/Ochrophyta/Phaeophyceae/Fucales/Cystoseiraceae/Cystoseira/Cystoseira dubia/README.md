@@ -1,8 +1,7 @@
-Cystoseira fucoides Ercegovic SPECIES
-=======
+# Cystoseira dubia Valiante SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

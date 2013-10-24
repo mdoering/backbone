@@ -1,5 +1,4 @@
-Mesenterica caerulea Pers. SPECIES
-=======
+# Mesenterica caerulea Pers. SPECIES
 
 #### Status
 ACCEPTED

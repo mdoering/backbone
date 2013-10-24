@@ -1,5 +1,4 @@
-Pseudospiropes bambusicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudospiropes bambusicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

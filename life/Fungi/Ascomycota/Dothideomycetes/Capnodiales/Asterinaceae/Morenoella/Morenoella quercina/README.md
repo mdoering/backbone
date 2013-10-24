@@ -1,5 +1,4 @@
-Morenoella quercina (Ellis & G. Martin) Theiss. SPECIES
-=======
+# Morenoella quercina (Ellis & G. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

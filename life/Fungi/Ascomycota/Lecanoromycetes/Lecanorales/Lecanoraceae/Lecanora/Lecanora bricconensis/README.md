@@ -1,5 +1,4 @@
-Lecanora bricconensis (Hue) Zahlbr. SPECIES
-=======
+# Lecanora bricconensis (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

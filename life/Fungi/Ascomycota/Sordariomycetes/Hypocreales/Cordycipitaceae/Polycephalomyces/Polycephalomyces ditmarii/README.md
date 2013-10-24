@@ -1,5 +1,4 @@
-Polycephalomyces ditmarii Van Vooren & Audibert SPECIES
-=======
+# Polycephalomyces ditmarii Van Vooren & Audibert SPECIES
 
 #### Status
 ACCEPTED

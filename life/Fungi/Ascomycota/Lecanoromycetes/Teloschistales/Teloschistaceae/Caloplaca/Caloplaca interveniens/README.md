@@ -1,5 +1,4 @@
-Caloplaca interveniens Müll. Arg. SPECIES
-=======
+# Caloplaca interveniens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

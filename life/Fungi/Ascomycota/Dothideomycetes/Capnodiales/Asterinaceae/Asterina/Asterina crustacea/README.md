@@ -1,5 +1,4 @@
-Asterina crustacea (Ellis & Everh.) Sacc. & Trotter SPECIES
-=======
+# Asterina crustacea (Ellis & Everh.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

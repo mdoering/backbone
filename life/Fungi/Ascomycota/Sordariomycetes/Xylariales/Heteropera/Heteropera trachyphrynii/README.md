@@ -1,5 +1,4 @@
-Heteropera trachyphrynii C. Moreau & Moreau SPECIES
-=======
+# Heteropera trachyphrynii C. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

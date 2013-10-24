@@ -1,5 +1,4 @@
-Conocybe spinulosa Hauskn. & Krisai SPECIES
-=======
+# Conocybe spinulosa Hauskn. & Krisai SPECIES
 
 #### Status
 ACCEPTED

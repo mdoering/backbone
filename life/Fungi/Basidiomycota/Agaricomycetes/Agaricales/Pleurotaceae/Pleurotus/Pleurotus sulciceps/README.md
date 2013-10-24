@@ -1,5 +1,4 @@
-Pleurotus sulciceps (Cooke & Massee) Sacc. SPECIES
-=======
+# Pleurotus sulciceps (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

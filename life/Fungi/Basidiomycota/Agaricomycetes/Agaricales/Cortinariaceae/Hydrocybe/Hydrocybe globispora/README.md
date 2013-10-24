@@ -1,5 +1,4 @@
-Hydrocybe globispora Velen. SPECIES
-=======
+# Hydrocybe globispora Velen. SPECIES
 
 #### Status
 ACCEPTED

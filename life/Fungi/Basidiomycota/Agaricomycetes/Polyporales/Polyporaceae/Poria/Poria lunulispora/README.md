@@ -1,5 +1,4 @@
-Poria lunulispora Pilát SPECIES
-=======
+# Poria lunulispora Pilát SPECIES
 
 #### Status
 ACCEPTED

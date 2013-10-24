@@ -1,5 +1,4 @@
-Bakuella kreuzkampii SPECIES
-=======
+# Bakuella kreuzkampii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pavillardinium biconica (Murray & Whitting) Pavillard, 1931 SPECIES
-=======
+# Pavillardinium biconica (Murray & Whitting) Pavillard, 1931 SPECIES
 
 #### Status
 ACCEPTED

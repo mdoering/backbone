@@ -1,5 +1,4 @@
-Dactylaria leersiae Sawada SPECIES
-=======
+# Dactylaria leersiae Sawada SPECIES
 
 #### Status
 ACCEPTED

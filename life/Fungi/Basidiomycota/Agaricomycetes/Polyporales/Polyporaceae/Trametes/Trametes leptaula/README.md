@@ -1,5 +1,4 @@
-Trametes leptaula Speg. SPECIES
-=======
+# Trametes leptaula Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnothyriella Bat. GENUS
-=======
+# Pycnothyriella Bat. GENUS
 
 #### Status
 ACCEPTED

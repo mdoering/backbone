@@ -1,8 +1,7 @@
-Coniothyrium trigonicolum Rangel SPECIES
-=======
+# Coniothyrium trigonicola Rangel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium trigonicolum Rangel
+Coniothyrium trigonicola Rangel
 
 ### Remarks
 null

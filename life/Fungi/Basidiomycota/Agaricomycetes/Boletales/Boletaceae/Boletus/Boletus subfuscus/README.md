@@ -1,5 +1,4 @@
-Boletus subfuscus With. SPECIES
-=======
+# Boletus subfuscus With. SPECIES
 
 #### Status
 ACCEPTED

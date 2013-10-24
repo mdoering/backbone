@@ -1,5 +1,4 @@
-Calcarina calcar SPECIES
-=======
+# Calcarina calcar SPECIES
 
 #### Status
 ACCEPTED

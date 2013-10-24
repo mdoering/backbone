@@ -1,5 +1,4 @@
-Candida lignohabitans Kurtzman SPECIES
-=======
+# Candida lignohabitans Kurtzman SPECIES
 
 #### Status
 ACCEPTED

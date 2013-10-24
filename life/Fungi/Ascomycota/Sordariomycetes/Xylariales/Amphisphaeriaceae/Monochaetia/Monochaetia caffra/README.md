@@ -1,17 +1,16 @@
-Monochaetia caffera Matsush. SPECIES
-=======
+# Monochaetia caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 17 (1996)
 
 #### Original name
-Monochaetia caffera Matsush.
+Monochaetia caffra Matsush.
 
 ### Remarks
 null

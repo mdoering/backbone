@@ -1,5 +1,4 @@
-Synchytrium celosiae J.C.S. Gupta & S. Sinha SPECIES
-=======
+# Synchytrium celosiae J.C.S. Gupta & S. Sinha SPECIES
 
 #### Status
 ACCEPTED

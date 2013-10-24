@@ -1,5 +1,4 @@
-Opegrapha tribulodes Tuck. SPECIES
-=======
+# Opegrapha tribulodes Tuck. SPECIES
 
 #### Status
 ACCEPTED

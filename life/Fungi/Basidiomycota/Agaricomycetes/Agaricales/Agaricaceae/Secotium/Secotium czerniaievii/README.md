@@ -1,17 +1,16 @@
-Secotium czerniaevii Mont. SPECIES
-=======
+# Secotium czerniaievii Mont., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rev. Bot. , Rec. Mens. 1: 511 (1845)
 
 #### Original name
-Secotium czerniaevii Mont.
+Secotium czerniaievii Mont., 1845
 
 ### Remarks
 null

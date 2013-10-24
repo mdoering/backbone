@@ -1,5 +1,4 @@
-Pestalotia congensis Henn. SPECIES
-=======
+# Pestalotia congensis Henn. SPECIES
 
 #### Status
 ACCEPTED

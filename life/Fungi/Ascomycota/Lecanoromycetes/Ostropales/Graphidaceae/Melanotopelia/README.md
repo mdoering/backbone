@@ -1,5 +1,4 @@
-Melanotopelia Lumbsch & Mangold GENUS
-=======
+# Melanotopelia Lumbsch & Mangold GENUS
 
 #### Status
 ACCEPTED

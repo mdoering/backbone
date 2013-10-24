@@ -1,5 +1,4 @@
-Zahlbrucknerella fabispora Henssen SPECIES
-=======
+# Zahlbrucknerella fabispora Henssen SPECIES
 
 #### Status
 ACCEPTED

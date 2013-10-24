@@ -1,5 +1,4 @@
-Trichophyton saltense Mazza, Niño & Cornejo SPECIES
-=======
+# Trichophyton saltense Mazza, Niño & Cornejo SPECIES
 
 #### Status
 ACCEPTED

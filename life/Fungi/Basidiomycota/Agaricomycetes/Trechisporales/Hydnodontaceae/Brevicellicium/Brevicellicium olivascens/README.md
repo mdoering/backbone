@@ -1,17 +1,16 @@
-Odontia chromoflava Rick, 1932 SPECIES
-=======
+# Brevicellicium olivascens (Bres.) K.H. Larss. & Hjortstam, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(1): 119 (1978)
 
 #### Original name
-null
+Odontia olivascens Bres., 1892
 
 ### Remarks
 null

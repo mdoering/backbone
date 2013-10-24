@@ -1,5 +1,4 @@
-Arthothelium fuscoroseum Makhija & Patw. SPECIES
-=======
+# Arthothelium fuscoroseum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

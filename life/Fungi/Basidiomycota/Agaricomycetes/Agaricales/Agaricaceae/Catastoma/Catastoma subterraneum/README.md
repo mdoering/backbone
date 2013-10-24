@@ -1,5 +1,4 @@
-Catastoma subterraneum (Peck) Morgan SPECIES
-=======
+# Catastoma subterraneum (Peck) Morgan SPECIES
 
 #### Status
 ACCEPTED

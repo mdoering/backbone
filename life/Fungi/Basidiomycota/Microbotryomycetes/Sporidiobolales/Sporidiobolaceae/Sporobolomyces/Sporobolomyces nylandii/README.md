@@ -1,5 +1,4 @@
-Sporobolomyces nylandii M. Takash. & Nakase SPECIES
-=======
+# Sporobolomyces nylandii M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

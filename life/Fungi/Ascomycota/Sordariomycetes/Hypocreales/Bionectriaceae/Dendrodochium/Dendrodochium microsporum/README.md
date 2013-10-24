@@ -1,5 +1,4 @@
-Dendrodochium microsporum Sacc. SPECIES
-=======
+# Dendrodochium microsporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

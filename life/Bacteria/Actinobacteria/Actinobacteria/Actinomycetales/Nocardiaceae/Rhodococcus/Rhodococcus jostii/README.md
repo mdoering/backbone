@@ -1,5 +1,4 @@
-Rhodococcus jostii Takeuchi et al., 2002 SPECIES
-=======
+# Rhodococcus jostii Takeuchi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

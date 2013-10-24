@@ -1,5 +1,4 @@
-Adonnadonna Gombos, 1982 GENUS
-=======
+# Adonnadonna Gombos, 1982 GENUS
 
 #### Status
 ACCEPTED

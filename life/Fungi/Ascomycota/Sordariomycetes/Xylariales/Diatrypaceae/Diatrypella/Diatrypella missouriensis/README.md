@@ -1,5 +1,4 @@
-Diatrypella missouriensis Ellis & Everh. SPECIES
-=======
+# Diatrypella missouriensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

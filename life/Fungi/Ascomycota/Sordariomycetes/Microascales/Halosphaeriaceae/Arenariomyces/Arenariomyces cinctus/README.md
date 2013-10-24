@@ -1,5 +1,4 @@
-Arenariomyces cinctus Höhnk, 1954 SPECIES
-=======
+# Arenariomyces cinctus Höhnk, 1954 SPECIES
 
 #### Status
 ACCEPTED

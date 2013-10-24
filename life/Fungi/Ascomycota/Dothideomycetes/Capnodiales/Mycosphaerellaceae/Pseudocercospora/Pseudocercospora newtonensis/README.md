@@ -1,5 +1,4 @@
-Pseudocercospora newtonensis (Deighton) Deighton SPECIES
-=======
+# Pseudocercospora newtonensis (Deighton) Deighton SPECIES
 
 #### Status
 ACCEPTED

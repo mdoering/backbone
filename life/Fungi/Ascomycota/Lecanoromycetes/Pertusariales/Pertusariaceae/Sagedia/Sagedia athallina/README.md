@@ -1,5 +1,4 @@
-Sagedia athallina Bagl. & Carestia SPECIES
-=======
+# Sagedia athallina Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

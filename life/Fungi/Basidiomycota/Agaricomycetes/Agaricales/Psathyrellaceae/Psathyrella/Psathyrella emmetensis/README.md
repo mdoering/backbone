@@ -1,5 +1,4 @@
-Psathyrella emmetensis A.H. Sm. SPECIES
-=======
+# Psathyrella emmetensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

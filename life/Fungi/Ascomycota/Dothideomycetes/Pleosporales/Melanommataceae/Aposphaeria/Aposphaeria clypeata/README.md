@@ -1,5 +1,4 @@
-Aposphaeria clypeata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Aposphaeria clypeata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaucoma macrostoma Schewiakoff, 1889 SPECIES
-=======
+# Glaucoma macrostoma Schewiakoff, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria leucoplacoides (Kremp.) Müll. Arg. SPECIES
-=======
+# Patellaria leucoplacoides (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

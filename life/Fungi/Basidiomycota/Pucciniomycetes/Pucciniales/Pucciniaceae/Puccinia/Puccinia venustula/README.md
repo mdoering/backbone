@@ -1,5 +1,4 @@
-Puccinia venustula (Arthur) Arthur SPECIES
-=======
+# Puccinia venustula (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

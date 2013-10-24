@@ -1,5 +1,4 @@
-Lecidea atriumbrina H. Magn. SPECIES
-=======
+# Lecidea atriumbrina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

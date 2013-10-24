@@ -1,5 +1,4 @@
-Astrocystis cepiformis Dulym., P.F. Cannon & Peerally SPECIES
-=======
+# Astrocystis cepiformis Dulym., P.F. Cannon & Peerally SPECIES
 
 #### Status
 ACCEPTED

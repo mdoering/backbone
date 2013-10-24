@@ -1,5 +1,4 @@
-Hydrocybe umidicola (Kauffman) M.M. Moser SPECIES
-=======
+# Hydrocybe umidicola (Kauffman) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

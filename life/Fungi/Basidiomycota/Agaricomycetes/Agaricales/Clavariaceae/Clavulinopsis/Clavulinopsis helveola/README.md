@@ -1,5 +1,4 @@
-Clavulinopsis helveola (Pers. Fr.) Corner SPECIES
-=======
+# Clavulinopsis helveola (Pers. Fr.) Corner SPECIES
 
 #### Status
 ACCEPTED

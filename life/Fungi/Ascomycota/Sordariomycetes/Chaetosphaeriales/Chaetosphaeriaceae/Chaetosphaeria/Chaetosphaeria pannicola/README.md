@@ -1,5 +1,4 @@
-Chaetosphaeria pannicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Chaetosphaeria pannicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

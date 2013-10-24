@@ -1,5 +1,4 @@
-Amanita kotohiraensis Nagas. & Mitani SPECIES
-=======
+# Amanita kotohiraensis Nagas. & Mitani SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina nivalis (Körb.) Th. Fr. SPECIES
-=======
+# Biatorina nivalis (Körb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

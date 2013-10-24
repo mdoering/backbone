@@ -1,5 +1,4 @@
-Nidularia castanea (Ellis & Everh. ex V.S. White) Sacc. SPECIES
-=======
+# Nidularia castanea (Ellis & Everh. ex V.S. White) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cleistonium Speer GENUS
-=======
+# Cleistonium Speer GENUS
 
 #### Status
 ACCEPTED

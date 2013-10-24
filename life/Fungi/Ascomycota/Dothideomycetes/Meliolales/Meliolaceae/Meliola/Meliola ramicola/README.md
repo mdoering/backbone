@@ -1,5 +1,4 @@
-Meliola ramicola Hansf. SPECIES
-=======
+# Meliola ramicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

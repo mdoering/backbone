@@ -1,5 +1,4 @@
-Leciographa circinans W. Phillips SPECIES
-=======
+# Leciographa circinans W. Phillips SPECIES
 
 #### Status
 ACCEPTED

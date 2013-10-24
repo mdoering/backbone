@@ -1,5 +1,4 @@
-Passalora gonostegiae (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
-=======
+# Passalora gonostegiae (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

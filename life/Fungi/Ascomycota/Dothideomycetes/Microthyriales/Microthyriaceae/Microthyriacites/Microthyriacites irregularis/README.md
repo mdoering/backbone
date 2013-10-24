@@ -1,5 +1,4 @@
-Microthyriacites irregularis Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Microthyriacites irregularis Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
 ACCEPTED

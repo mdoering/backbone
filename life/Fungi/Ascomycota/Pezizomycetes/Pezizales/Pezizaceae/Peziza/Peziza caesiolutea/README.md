@@ -1,5 +1,4 @@
-Peziza caesiolutea Berk. & Broome SPECIES
-=======
+# Peziza caesiolutea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

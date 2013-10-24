@@ -1,5 +1,4 @@
-Pseudocercospora pluriseptata C.D. Sharma, Gadp., A.N. Rai & K.M. Vyas SPECIES
-=======
+# Pseudocercospora pluriseptata C.D. Sharma, Gadp., A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

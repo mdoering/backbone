@@ -1,5 +1,4 @@
-Mycena subconcolor A.H. Sm. SPECIES
-=======
+# Mycena subconcolor A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

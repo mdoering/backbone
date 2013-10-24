@@ -1,5 +1,4 @@
-Thecacineta Collin, 1909 GENUS
-=======
+# Thecacineta Collin, 1909 GENUS
 
 #### Status
 ACCEPTED

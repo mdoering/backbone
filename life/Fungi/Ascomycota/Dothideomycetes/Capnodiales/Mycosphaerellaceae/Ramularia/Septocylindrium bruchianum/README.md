@@ -1,5 +1,4 @@
-Septocylindrium bruchianum Speg. SPECIES
-=======
+# Septocylindrium bruchianum Speg. SPECIES
 
 #### Status
 ACCEPTED

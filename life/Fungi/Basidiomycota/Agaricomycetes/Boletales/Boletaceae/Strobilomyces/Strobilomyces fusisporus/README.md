@@ -1,5 +1,4 @@
-Strobilomyces fusisporus A. Kawam. SPECIES
-=======
+# Strobilomyces fusisporus A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

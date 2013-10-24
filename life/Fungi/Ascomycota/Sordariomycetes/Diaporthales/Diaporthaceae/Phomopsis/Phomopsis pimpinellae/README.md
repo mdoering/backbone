@@ -1,5 +1,4 @@
-Phomopsis pimpinellae (Ellis) H.C. Greene SPECIES
-=======
+# Phomopsis pimpinellae (Ellis) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

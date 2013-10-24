@@ -1,5 +1,4 @@
-Puccinia cephalandrae Thüm. SPECIES
-=======
+# Puccinia cephalandrae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis inamoena Zahlbr. SPECIES
-=======
+# Graphis inamoena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

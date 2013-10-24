@@ -1,5 +1,4 @@
-Ustilago tonkinensis Henn. SPECIES
-=======
+# Ustilago tonkinensis Henn. SPECIES
 
 #### Status
 ACCEPTED

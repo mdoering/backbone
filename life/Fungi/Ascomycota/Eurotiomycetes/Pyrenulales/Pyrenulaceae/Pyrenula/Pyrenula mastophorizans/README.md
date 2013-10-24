@@ -1,14 +1,13 @@
-Verrucaria mastophorizans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Pyrenula mastophorizans Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 68: 515 (1885)
 
 #### Original name
 Pyrenula mastophorizans Müll. Arg.

@@ -1,5 +1,4 @@
-Boletus punctatofumosus W.F. Chiu SPECIES
-=======
+# Boletus punctatofumosus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Charonectria sambuci Höhn. SPECIES
-=======
+# Charonectria sambuci Höhn. SPECIES
 
 #### Status
 ACCEPTED

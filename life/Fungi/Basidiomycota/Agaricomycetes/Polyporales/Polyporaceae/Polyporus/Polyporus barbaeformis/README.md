@@ -1,5 +1,4 @@
-Polyporus barbaeformis Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus barbaeformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

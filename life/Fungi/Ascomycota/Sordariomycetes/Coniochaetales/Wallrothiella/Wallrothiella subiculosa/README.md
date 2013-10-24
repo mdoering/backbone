@@ -1,5 +1,4 @@
-Wallrothiella subiculosa Höhn., 1912 SPECIES
-=======
+# Wallrothiella subiculosa Höhn., 1912 SPECIES
 
 #### Status
 ACCEPTED

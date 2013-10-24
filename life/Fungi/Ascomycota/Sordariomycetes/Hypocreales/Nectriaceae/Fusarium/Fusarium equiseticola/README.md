@@ -1,5 +1,4 @@
-Fusarium equiseticola Allesch. SPECIES
-=======
+# Fusarium equiseticola Allesch. SPECIES
 
 #### Status
 ACCEPTED

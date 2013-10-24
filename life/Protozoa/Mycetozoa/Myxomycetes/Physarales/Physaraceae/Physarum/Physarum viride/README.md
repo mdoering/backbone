@@ -1,17 +1,16 @@
-Physarum viride subsp. viride SUBSPECIES
-=======
+# Physarum viride (Bull.) Pers., 1795 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Physarum viride (Bull.) Pers., 1795
 
 ### Remarks
 null

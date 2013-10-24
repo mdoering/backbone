@@ -1,5 +1,4 @@
-Cercospora erysimi Davis, 1915 SPECIES
-=======
+# Cercospora erysimi Davis, 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Saccammina sphaerica var. catenulata Cushman, 1917 VARIETY
-=======
+# Saccammina sphaerica Brady, 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Patellaria montagnei P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria montagnei P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma sinense J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
-=======
+# Ganoderma sinense J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma xanthina Sacc. SPECIES
-=======
+# Phoma xanthina Sacc. SPECIES
 
 #### Status
 ACCEPTED

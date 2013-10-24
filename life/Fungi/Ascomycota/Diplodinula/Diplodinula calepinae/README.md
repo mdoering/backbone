@@ -1,5 +1,4 @@
-Diplodinula calepinae (Tassi) Tassi SPECIES
-=======
+# Diplodinula calepinae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

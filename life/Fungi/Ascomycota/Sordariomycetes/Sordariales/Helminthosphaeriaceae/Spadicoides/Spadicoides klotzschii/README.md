@@ -1,5 +1,4 @@
-Spadicoides klotzschii S. Hughes SPECIES
-=======
+# Spadicoides klotzschii S. Hughes SPECIES
 
 #### Status
 ACCEPTED

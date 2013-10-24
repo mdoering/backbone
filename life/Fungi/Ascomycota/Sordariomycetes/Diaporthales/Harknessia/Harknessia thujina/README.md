@@ -1,5 +1,4 @@
-Harknessia thujina Ellis & Everh. SPECIES
-=======
+# Harknessia thujina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bodo globosus Stein SPECIES
-=======
+# Bodo globosus Stein SPECIES
 
 #### Status
 ACCEPTED

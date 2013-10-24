@@ -1,17 +1,16 @@
-Physarum umbilicifera Y. Yamam. & Nann.-Bremek. SPECIES
-=======
+# Physarum umbiliciferum Y. Yamam. & Nann.-Bremek, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nannenga-Bremekamp & Yamamoto, Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 93(3): 276 (1990)
 
 #### Original name
-Physarum umbilicifera Y. Yamam. & Nann.-Bremek.
+Physarum umbiliciferum Y. Yamam. & Nann.-Bremek, 1990
 
 ### Remarks
 null

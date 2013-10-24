@@ -1,5 +1,4 @@
-Fusarium trifolii Jacz. SPECIES
-=======
+# Fusarium trifolii Jacz. SPECIES
 
 #### Status
 ACCEPTED

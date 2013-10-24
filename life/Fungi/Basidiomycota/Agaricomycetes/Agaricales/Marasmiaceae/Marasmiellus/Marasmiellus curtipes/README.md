@@ -1,5 +1,4 @@
-Marasmiellus curtipes (Murrill) Singer SPECIES
-=======
+# Marasmiellus curtipes (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

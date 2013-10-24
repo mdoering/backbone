@@ -1,17 +1,16 @@
-Oxyflavus Ryvarden GENUS
-=======
+# Leucophellinus Bondartsev & Singer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 20: 4 (1973)
+in Singer, Mycologia 36(1): 68 (1944)
 
 #### Original name
-Oxyflavus Ryvarden
+Leucophellinus Bondartsev & Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia dissiliens Cooke SPECIES
-=======
+# Puccinia dissiliens Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Levieuxia equiseti Hollós SPECIES
-=======
+# Levieuxia equiseti Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beauveria sobolifera Zuo Y. Liu, Z.Q. Liang, Whalley, A.Y. Liu & Y.J. Yao SPECIES
-=======
+# Beauveria sobolifera Zuo Y. Liu, Z.Q. Liang, Whalley, A.Y. Liu & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

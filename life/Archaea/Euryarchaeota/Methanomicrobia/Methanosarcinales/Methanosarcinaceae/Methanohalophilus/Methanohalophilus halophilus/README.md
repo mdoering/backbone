@@ -1,8 +1,7 @@
-Methanococcus halophilus Zhilina, 1984 SPECIES
-=======
+# Methanohalophilus halophilus (Zhilina, 1984) Wilharm et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

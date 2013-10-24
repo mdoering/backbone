@@ -1,5 +1,4 @@
-Staurothele fauriei SPECIES
-=======
+# Staurothele fauriei SPECIES
 
 #### Status
 ACCEPTED

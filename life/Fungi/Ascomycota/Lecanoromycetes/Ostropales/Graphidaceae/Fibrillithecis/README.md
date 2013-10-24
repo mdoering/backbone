@@ -1,5 +1,4 @@
-Fibrillithecis A. Frisch GENUS
-=======
+# Fibrillithecis A. Frisch GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella argillospora Singer SPECIES
-=======
+# Psathyrella argillospora Singer SPECIES
 
 #### Status
 ACCEPTED

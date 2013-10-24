@@ -1,5 +1,4 @@
-Mortierella epigama W. Gams & Domsch, 1972 SPECIES
-=======
+# Mortierella epigama W. Gams & Domsch, 1972 SPECIES
 
 #### Status
 ACCEPTED

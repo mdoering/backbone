@@ -1,5 +1,4 @@
-Trichormus khannae (Skuja) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus khannae (Skuja) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

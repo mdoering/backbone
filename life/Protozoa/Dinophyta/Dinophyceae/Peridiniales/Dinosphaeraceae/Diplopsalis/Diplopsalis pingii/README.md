@@ -1,5 +1,4 @@
-Diplopsalis pingii D. Nie SPECIES
-=======
+# Diplopsalis pingii D. Nie SPECIES
 
 #### Status
 ACCEPTED

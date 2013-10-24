@@ -1,5 +1,4 @@
-Puccinia croci Gäum. & Terrier SPECIES
-=======
+# Puccinia croci Gäum. & Terrier SPECIES
 
 #### Status
 ACCEPTED

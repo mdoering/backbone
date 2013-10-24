@@ -1,5 +1,4 @@
-Xerocomus hypoxanthus Singer SPECIES
-=======
+# Xerocomus hypoxanthus Singer SPECIES
 
 #### Status
 ACCEPTED

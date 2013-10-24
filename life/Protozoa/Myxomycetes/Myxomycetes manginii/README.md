@@ -1,8 +1,7 @@
-Myxomycetes mangini Renault SPECIES
-=======
+# Myxomycetes manginii Renault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Myxomycetes mangini Renault
+Myxomycetes manginii Renault
 
 ### Remarks
 null

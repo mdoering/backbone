@@ -1,5 +1,4 @@
-Paullicorticium delicatissimum (H.S. Jacks.) Liberta, 1962 SPECIES
-=======
+# Paullicorticium delicatissimum (H.S. Jacks.) Liberta, 1962 SPECIES
 
 #### Status
 ACCEPTED

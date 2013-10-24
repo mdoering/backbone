@@ -1,5 +1,4 @@
-Euglena multiformis Schiller SPECIES
-=======
+# Euglena multiformis Schiller SPECIES
 
 #### Status
 ACCEPTED

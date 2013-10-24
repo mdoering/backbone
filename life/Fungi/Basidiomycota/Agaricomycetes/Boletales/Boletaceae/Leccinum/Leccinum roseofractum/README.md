@@ -1,14 +1,13 @@
-Boletus roseofractus (Watling) Hlavácek, 1989 SPECIES
-=======
+# Leccinum roseofractum Watling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologický Sborník 66(3): 83 (1989)
+Notes R. bot. Gdn Edinb. 28(3): 313 (1968)
 
 #### Original name
 Leccinum roseofractum Watling, 1968

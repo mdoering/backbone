@@ -1,5 +1,4 @@
-Agaricus lanatorubescens K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus lanatorubescens K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

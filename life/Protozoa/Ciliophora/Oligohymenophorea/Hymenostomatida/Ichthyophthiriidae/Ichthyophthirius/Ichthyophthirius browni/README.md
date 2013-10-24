@@ -1,5 +1,4 @@
-Ichthyophthirius browni Roque & Puytorac, 1966 SPECIES
-=======
+# Ichthyophthirius browni Roque & Puytorac, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina trichinii Henn. SPECIES
-=======
+# Diplodina trichinii Henn. SPECIES
 
 #### Status
 ACCEPTED

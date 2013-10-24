@@ -1,5 +1,4 @@
-Proteomyces goensis C.W. Dodge SPECIES
-=======
+# Proteomyces goensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

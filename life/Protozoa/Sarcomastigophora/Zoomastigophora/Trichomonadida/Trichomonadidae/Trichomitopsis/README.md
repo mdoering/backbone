@@ -1,5 +1,4 @@
-Trichomitopsis Kofoid & Swezy, 1919 GENUS
-=======
+# Trichomitopsis Kofoid & Swezy, 1919 GENUS
 
 #### Status
 ACCEPTED

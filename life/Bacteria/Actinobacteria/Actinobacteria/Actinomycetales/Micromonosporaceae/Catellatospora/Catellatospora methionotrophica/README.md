@@ -1,8 +1,7 @@
-Catellatospora citrea subsp. methionotrophica Asano & Kawamoto, 1988 SUBSPECIES
-=======
+# Catellatospora methionotrophica (Asano & Kawamoto, 1988) Ara & Kudo, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

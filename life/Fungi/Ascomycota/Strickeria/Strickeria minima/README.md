@@ -1,14 +1,13 @@
-Strickera minima (Ellis & Everh.) Kuntze SPECIES
-=======
+# Strickeria minima (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 534 (1898)
 
 #### Original name
 Teichospora minima Ellis & Everh.

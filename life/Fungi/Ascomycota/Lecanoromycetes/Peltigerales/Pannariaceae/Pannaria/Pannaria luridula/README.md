@@ -1,5 +1,4 @@
-Pannaria luridula Nyl. SPECIES
-=======
+# Pannaria luridula Nyl. SPECIES
 
 #### Status
 ACCEPTED

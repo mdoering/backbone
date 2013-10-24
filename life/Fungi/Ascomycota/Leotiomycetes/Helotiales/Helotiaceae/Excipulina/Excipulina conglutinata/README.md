@@ -1,5 +1,4 @@
-Excipulina conglutinata (Ellis & Everh.) Sacc. SPECIES
-=======
+# Excipulina conglutinata (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

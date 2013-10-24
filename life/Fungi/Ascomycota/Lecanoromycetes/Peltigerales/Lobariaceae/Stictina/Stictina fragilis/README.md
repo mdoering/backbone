@@ -1,5 +1,4 @@
-Stictina fragilis SPECIES
-=======
+# Stictina fragilis SPECIES
 
 #### Status
 ACCEPTED

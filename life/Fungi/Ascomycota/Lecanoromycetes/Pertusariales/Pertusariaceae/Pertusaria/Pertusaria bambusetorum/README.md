@@ -1,5 +1,4 @@
-Pertusaria bambusetorum SPECIES
-=======
+# Pertusaria bambusetorum SPECIES
 
 #### Status
 ACCEPTED

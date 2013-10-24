@@ -1,5 +1,4 @@
-Barlaea arvensis Velen. SPECIES
-=======
+# Barlaea arvensis Velen. SPECIES
 
 #### Status
 ACCEPTED

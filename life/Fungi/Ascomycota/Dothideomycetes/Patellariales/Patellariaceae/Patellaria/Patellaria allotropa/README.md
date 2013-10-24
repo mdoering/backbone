@@ -1,5 +1,4 @@
-Patellaria allotropa (Nyl.) SPECIES
-=======
+# Patellaria allotropa (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

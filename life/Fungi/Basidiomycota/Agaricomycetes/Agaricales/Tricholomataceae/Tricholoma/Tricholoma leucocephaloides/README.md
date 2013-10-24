@@ -1,5 +1,4 @@
-Tricholoma leucocephaloides Peck SPECIES
-=======
+# Tricholoma leucocephaloides Peck SPECIES
 
 #### Status
 ACCEPTED

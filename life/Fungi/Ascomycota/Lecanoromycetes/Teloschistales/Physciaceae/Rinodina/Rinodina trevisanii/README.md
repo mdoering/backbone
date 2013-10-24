@@ -1,5 +1,4 @@
-Rinodina trevisanii (Hepp) Körb. SPECIES
-=======
+# Rinodina trevisanii (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

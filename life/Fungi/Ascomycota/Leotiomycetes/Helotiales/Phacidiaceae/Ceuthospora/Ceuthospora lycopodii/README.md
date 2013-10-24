@@ -1,5 +1,4 @@
-Ceuthospora lycopodii Lind SPECIES
-=======
+# Ceuthospora lycopodii Lind SPECIES
 
 #### Status
 ACCEPTED

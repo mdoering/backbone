@@ -1,5 +1,4 @@
-Trichosperma aeruginosa Höhn. SPECIES
-=======
+# Trichosperma aeruginosa Höhn. SPECIES
 
 #### Status
 ACCEPTED

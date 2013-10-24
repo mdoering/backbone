@@ -1,5 +1,4 @@
-Puccinia granchacoensis Jørst. SPECIES
-=======
+# Puccinia granchacoensis Jørst. SPECIES
 
 #### Status
 ACCEPTED

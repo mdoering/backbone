@@ -1,5 +1,4 @@
-Phaeopeltosphaeria indica Naphade SPECIES
-=======
+# Phaeopeltosphaeria indica Naphade SPECIES
 
 #### Status
 ACCEPTED

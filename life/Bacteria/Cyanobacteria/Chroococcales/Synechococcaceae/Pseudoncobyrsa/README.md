@@ -1,5 +1,4 @@
-Pseudoncobyrsa Geitler, 1925 GENUS
-=======
+# Pseudoncobyrsa Geitler, 1925 GENUS
 
 #### Status
 ACCEPTED

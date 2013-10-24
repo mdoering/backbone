@@ -1,5 +1,4 @@
-Monas mica O.F. Müller SPECIES
-=======
+# Monas mica O.F. Müller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella heveana Sacc. SPECIES
-=======
+# Sphaerella heveana Sacc. SPECIES
 
 #### Status
 ACCEPTED

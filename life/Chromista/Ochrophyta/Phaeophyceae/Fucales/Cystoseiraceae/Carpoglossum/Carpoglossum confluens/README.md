@@ -1,8 +1,7 @@
-Fucus confluens R.Brown ex Turner SPECIES
-=======
+# Carpoglossum confluens (R.Brown ex Turner) Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

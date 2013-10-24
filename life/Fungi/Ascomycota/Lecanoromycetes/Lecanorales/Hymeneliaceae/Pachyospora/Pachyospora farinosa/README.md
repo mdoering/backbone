@@ -1,5 +1,4 @@
-Pachyospora farinosa (Flörke) A. Massal. SPECIES
-=======
+# Pachyospora farinosa (Flörke) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

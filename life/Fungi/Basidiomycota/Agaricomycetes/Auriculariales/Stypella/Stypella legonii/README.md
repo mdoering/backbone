@@ -1,17 +1,16 @@
-Protodontia ellipsospora D.A. Reid, 1990 SPECIES
-=======
+# Stypella legonii P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 94(1): 104 (1990)
+Mycotaxon 69: 228 (1998)
 
 #### Original name
-Protodontia ellipsospora D.A. Reid, 1990
+Stypella legonii P. Roberts, 1998
 
 ### Remarks
 null

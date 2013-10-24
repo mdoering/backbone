@@ -1,5 +1,4 @@
-Virson Adanson, 1763 GENUS
-=======
+# Virson Adanson, 1763 GENUS
 
 #### Status
 ACCEPTED

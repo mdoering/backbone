@@ -1,17 +1,16 @@
-Tulostoma kansense V.S. White, 1901 SPECIES
-=======
+# Tulostoma obesum Cooke & Ellis, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 28: 430 (1901)
+null
 
 #### Original name
-Tulostoma kansense V.S. White, 1901
+Tulostoma obesum Cooke & Ellis, 1878
 
 ### Remarks
 null

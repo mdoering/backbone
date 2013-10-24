@@ -1,5 +1,4 @@
-Aecidium anemarrhenae Z.H. Zhou & Z. Liu SPECIES
-=======
+# Aecidium anemarrhenae Z.H. Zhou & Z. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocopra natalitia Speg. SPECIES
-=======
+# Hypocopra natalitia Speg. SPECIES
 
 #### Status
 ACCEPTED

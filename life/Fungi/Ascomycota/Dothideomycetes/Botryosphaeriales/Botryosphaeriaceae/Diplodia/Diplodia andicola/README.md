@@ -1,5 +1,4 @@
-Diplodia andicola Speg. SPECIES
-=======
+# Diplodia andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

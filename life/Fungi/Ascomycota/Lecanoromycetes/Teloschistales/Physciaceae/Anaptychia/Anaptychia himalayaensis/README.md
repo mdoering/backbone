@@ -1,5 +1,4 @@
-Anaptychia himalayaensis D.D. Awasthi SPECIES
-=======
+# Anaptychia himalayaensis D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

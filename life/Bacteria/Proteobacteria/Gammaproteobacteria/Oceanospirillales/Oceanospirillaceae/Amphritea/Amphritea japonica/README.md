@@ -1,5 +1,4 @@
-Amphritea japonica Miyazaki, Nogi, Fujiwara, Kawato, Nagahama, Kubokawa & Horikoshi, 2008 SPECIES
-=======
+# Amphritea japonica Miyazaki, Nogi, Fujiwara, Kawato, Nagahama, Kubokawa & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea insignis Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea insignis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

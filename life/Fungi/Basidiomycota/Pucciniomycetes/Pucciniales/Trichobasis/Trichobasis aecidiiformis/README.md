@@ -1,5 +1,4 @@
-Trichobasis aecidiiformis (Pers.) Lév. SPECIES
-=======
+# Trichobasis aecidiiformis (Pers.) Lév. SPECIES
 
 #### Status
 ACCEPTED

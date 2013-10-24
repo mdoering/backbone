@@ -1,5 +1,4 @@
-Phyllerites callicomae (Engelhard) Mesch. SPECIES
-=======
+# Phyllerites callicomae (Engelhard) Mesch. SPECIES
 
 #### Status
 ACCEPTED

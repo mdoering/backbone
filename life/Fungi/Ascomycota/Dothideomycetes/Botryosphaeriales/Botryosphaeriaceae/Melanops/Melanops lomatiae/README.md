@@ -1,5 +1,4 @@
-Melanops lomatiae Petr. SPECIES
-=======
+# Melanops lomatiae Petr. SPECIES
 
 #### Status
 ACCEPTED

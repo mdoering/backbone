@@ -1,5 +1,4 @@
-Lecidea punctuliformis var. punctuliformis VARIETY
-=======
+# Lecidea punctuliformis Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea punctuliformis var. punctuliformis
+Lecidea punctuliformis Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mesocena pappii A. Bachmann SPECIES
-=======
+# Mesocena pappii A. Bachmann SPECIES
 
 #### Status
 ACCEPTED

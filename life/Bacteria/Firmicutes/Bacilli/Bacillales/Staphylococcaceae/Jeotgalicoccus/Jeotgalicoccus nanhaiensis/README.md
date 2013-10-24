@@ -1,5 +1,4 @@
-Jeotgalicoccus nanhaiensis Liu, Chen, Tang, Zhang, He, Chen, Li & Chen, 2010 SPECIES
-=======
+# Jeotgalicoccus nanhaiensis Liu, Chen, Tang, Zhang, He, Chen, Li & Chen, 2010 SPECIES
 
 #### Status
 ACCEPTED

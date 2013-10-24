@@ -1,5 +1,4 @@
-Crocynia biatorina f. pannosa (Müll. Arg.) Hue FORM
-=======
+# Crocynia biatorina (Mont.) Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Byssocaulon pannosum Müll. Arg.
+Parmelia gossypina var. biatorina Mont.
 
 ### Remarks
 null

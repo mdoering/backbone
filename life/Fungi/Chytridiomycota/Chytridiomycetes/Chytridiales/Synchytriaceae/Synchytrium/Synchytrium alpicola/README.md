@@ -1,5 +1,4 @@
-Synchytrium alpicola Rytz SPECIES
-=======
+# Synchytrium alpicola Rytz SPECIES
 
 #### Status
 ACCEPTED

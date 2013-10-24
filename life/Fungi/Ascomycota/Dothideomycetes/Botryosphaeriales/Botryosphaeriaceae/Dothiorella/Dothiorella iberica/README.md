@@ -1,5 +1,4 @@
-Dothiorella iberica A.J.L. Phillips, J. Luque & A. Alves SPECIES
-=======
+# Dothiorella iberica A.J.L. Phillips, J. Luque & A. Alves SPECIES
 
 #### Status
 ACCEPTED

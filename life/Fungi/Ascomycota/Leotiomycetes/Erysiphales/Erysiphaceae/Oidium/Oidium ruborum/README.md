@@ -1,5 +1,4 @@
-Oidium ruborum Rabenh. SPECIES
-=======
+# Oidium ruborum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

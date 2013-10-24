@@ -1,5 +1,4 @@
-Craterellus roseus (Schwein.) Fr. SPECIES
-=======
+# Craterellus roseus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

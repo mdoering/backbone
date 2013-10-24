@@ -1,5 +1,4 @@
-Lecanora alboeffigurata f. alboeffigurata FORM
-=======
+# Lecanora alboeffigurata (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora alboeffigurata f. alboeffigurata
+Squamaria alboeffigurata Anzi
 
 ### Remarks
 null

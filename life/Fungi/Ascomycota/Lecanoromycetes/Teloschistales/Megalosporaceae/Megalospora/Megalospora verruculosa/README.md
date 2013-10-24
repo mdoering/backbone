@@ -1,5 +1,4 @@
-Megalospora verruculosa Makhija & Nagarkar SPECIES
-=======
+# Megalospora verruculosa Makhija & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

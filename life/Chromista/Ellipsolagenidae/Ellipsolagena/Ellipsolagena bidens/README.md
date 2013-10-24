@@ -1,5 +1,4 @@
-Ellipsolagena bidens Cushman, 1930 SPECIES
-=======
+# Ellipsolagena bidens Cushman, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum baeomycioides (C. Massal.) Sacc. SPECIES
-=======
+# Stilbum baeomycioides (C. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

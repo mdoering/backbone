@@ -1,5 +1,4 @@
-Puccinia subcorticium G. Winter SPECIES
-=======
+# Puccinia subcorticium G. Winter SPECIES
 
 #### Status
 ACCEPTED

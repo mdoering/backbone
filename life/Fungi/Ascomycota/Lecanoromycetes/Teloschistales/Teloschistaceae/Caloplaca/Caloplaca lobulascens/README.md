@@ -1,5 +1,4 @@
-Caloplaca lobulascens Poelt & Hinter. SPECIES
-=======
+# Caloplaca lobulascens Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

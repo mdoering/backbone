@@ -1,5 +1,4 @@
-Chrysoxis maior Skuja SPECIES
-=======
+# Chrysoxis maior Skuja SPECIES
 
 #### Status
 ACCEPTED

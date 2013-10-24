@@ -1,5 +1,4 @@
-Cantharellus attenuatus Cleland, 1934 SPECIES
-=======
+# Cantharellus attenuatus Cleland, 1934 SPECIES
 
 #### Status
 ACCEPTED

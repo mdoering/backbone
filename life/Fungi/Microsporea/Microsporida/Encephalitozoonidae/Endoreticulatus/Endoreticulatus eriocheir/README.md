@@ -1,5 +1,4 @@
-Endoreticulatus eriocheir Wen Wang & Jain Xiu Chen SPECIES
-=======
+# Endoreticulatus eriocheir Wen Wang & Jain Xiu Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochila leopoldina Rehm SPECIES
-=======
+# Trochila leopoldina Rehm SPECIES
 
 #### Status
 ACCEPTED

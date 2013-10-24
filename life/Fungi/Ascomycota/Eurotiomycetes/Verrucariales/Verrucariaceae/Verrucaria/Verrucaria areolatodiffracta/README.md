@@ -1,5 +1,4 @@
-Verrucaria areolatodiffracta SPECIES
-=======
+# Verrucaria areolatodiffracta SPECIES
 
 #### Status
 ACCEPTED

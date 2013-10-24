@@ -1,5 +1,4 @@
-Lenzites gussonei Scalia SPECIES
-=======
+# Lenzites gussonei Scalia SPECIES
 
 #### Status
 ACCEPTED

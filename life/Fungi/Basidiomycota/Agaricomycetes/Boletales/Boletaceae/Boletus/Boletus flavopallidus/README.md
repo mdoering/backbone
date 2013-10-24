@@ -1,5 +1,4 @@
-Boletus flavopallidus Cetto SPECIES
-=======
+# Boletus flavopallidus Cetto SPECIES
 
 #### Status
 ACCEPTED

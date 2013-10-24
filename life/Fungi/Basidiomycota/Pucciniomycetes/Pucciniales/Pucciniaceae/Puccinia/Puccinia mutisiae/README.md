@@ -1,5 +1,4 @@
-Puccinia mutisiae Lagerh. SPECIES
-=======
+# Puccinia mutisiae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

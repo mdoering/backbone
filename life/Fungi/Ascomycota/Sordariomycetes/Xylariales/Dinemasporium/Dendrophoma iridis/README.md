@@ -1,5 +1,4 @@
-Dendrophoma iridis Roum. & Fautrey SPECIES
-=======
+# Dendrophoma iridis Roum. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

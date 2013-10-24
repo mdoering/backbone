@@ -1,5 +1,4 @@
-Anarhyma M.H. Pei & Z.W. Yuan GENUS
-=======
+# Anarhyma M.H. Pei & Z.W. Yuan GENUS
 
 #### Status
 ACCEPTED

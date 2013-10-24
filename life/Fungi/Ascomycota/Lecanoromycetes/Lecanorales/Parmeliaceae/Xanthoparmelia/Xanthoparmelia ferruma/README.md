@@ -1,5 +1,4 @@
-Xanthoparmelia ferruma Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia ferruma Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

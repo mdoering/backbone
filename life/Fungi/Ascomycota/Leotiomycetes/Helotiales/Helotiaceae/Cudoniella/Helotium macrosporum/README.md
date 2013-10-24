@@ -1,5 +1,4 @@
-Helotium macrosporum Velen., 1934 SPECIES
-=======
+# Helotium macrosporum Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

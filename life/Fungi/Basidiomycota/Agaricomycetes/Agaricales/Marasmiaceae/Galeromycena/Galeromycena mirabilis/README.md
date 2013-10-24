@@ -1,5 +1,4 @@
-Galeromycena mirabilis Velen. SPECIES
-=======
+# Galeromycena mirabilis Velen. SPECIES
 
 #### Status
 ACCEPTED

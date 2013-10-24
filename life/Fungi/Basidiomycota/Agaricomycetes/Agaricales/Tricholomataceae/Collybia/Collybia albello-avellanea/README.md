@@ -1,5 +1,4 @@
-Collybia albello-avellanea Singer SPECIES
-=======
+# Collybia albello-avellanea Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia parastroidea Lamy SPECIES
-=======
+# Arthonia parastroidea Lamy SPECIES
 
 #### Status
 ACCEPTED

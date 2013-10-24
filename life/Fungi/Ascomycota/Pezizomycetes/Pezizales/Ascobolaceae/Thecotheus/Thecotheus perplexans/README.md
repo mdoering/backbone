@@ -1,5 +1,4 @@
-Thecotheus perplexans (Faurel & Schotter) J.C. Krug & R.S. Khan SPECIES
-=======
+# Thecotheus perplexans (Faurel & Schotter) J.C. Krug & R.S. Khan SPECIES
 
 #### Status
 ACCEPTED

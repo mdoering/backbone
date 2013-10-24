@@ -1,5 +1,4 @@
-Cardiobacteriales ORDER
-=======
+# Cardiobacteriales ORDER
 
 #### Status
 ACCEPTED

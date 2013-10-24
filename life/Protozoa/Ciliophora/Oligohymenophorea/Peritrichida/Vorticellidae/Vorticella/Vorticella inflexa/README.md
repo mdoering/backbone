@@ -1,5 +1,4 @@
-Vorticella inflexa Dumas, 1929 SPECIES
-=======
+# Vorticella inflexa Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Didymosporium complanatum Nees, 1816 SPECIES
-=======
+# Coniothecium complanatum (Nees) Sacc., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. Pilze (Würzburg) 33 (1816)
+Michelia 1(no. 5): 537 (1879)
 
 #### Original name
 Didymosporium complanatum Nees, 1816

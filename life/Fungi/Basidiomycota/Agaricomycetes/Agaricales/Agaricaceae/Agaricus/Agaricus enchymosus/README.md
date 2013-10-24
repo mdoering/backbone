@@ -1,5 +1,4 @@
-Agaricus enchymosus Fr. SPECIES
-=======
+# Agaricus enchymosus Fr. SPECIES
 
 #### Status
 ACCEPTED

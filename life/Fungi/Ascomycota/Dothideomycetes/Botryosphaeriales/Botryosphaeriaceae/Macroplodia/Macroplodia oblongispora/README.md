@@ -1,5 +1,4 @@
-Macroplodia oblongispora (Massee) Kuntze SPECIES
-=======
+# Macroplodia oblongispora (Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

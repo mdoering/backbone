@@ -1,5 +1,4 @@
-Cercospora pipturi F. Stevens & Glick SPECIES
-=======
+# Cercospora pipturi F. Stevens & Glick SPECIES
 
 #### Status
 ACCEPTED

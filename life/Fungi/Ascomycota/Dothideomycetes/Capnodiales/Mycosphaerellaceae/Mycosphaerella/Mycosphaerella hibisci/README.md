@@ -1,5 +1,4 @@
-Mycosphaerella hibisci Gutner SPECIES
-=======
+# Mycosphaerella hibisci Gutner SPECIES
 
 #### Status
 ACCEPTED

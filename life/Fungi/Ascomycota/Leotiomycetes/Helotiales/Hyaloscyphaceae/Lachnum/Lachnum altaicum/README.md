@@ -1,5 +1,4 @@
-Lachnum altaicum (Raitv.) Raitv. SPECIES
-=======
+# Lachnum altaicum (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

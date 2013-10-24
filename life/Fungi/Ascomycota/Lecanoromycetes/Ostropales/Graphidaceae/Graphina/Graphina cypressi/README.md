@@ -1,5 +1,4 @@
-Graphina cypressi Müll. Arg. SPECIES
-=======
+# Graphina cypressi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

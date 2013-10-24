@@ -1,5 +1,4 @@
-Clypeothecium sacchari Mundk. & S. Ahmad SPECIES
-=======
+# Clypeothecium sacchari Mundk. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

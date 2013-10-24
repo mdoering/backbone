@@ -1,5 +1,4 @@
-Macrophoma aceris (Desm.) Sacc. SPECIES
-=======
+# Macrophoma aceris (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus mutatus Peck SPECIES
-=======
+# Agaricus mutatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen rufus J.F. Gmel. SPECIES
-=======
+# Lichen rufus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

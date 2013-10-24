@@ -1,5 +1,4 @@
-Tapesia sesleriae Velen. SPECIES
-=======
+# Tapesia sesleriae Velen. SPECIES
 
 #### Status
 ACCEPTED

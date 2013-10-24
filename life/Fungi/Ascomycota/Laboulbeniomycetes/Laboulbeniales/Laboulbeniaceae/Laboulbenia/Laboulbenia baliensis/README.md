@@ -1,5 +1,4 @@
-Laboulbenia baliensis K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia baliensis K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placoma violaceum Setchell & Gardner SPECIES
-=======
+# Placoma violaceum Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

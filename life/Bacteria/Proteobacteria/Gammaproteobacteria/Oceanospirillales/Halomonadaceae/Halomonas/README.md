@@ -1,5 +1,4 @@
-Halomonas Vreeland et al., 1980 GENUS
-=======
+# Halomonas Vreeland et al., 1980 GENUS
 
 #### Status
 ACCEPTED

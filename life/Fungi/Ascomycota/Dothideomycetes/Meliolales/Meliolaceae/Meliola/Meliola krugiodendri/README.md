@@ -1,5 +1,4 @@
-Meliola krugiodendri Cif. SPECIES
-=======
+# Meliola krugiodendri Cif. SPECIES
 
 #### Status
 ACCEPTED

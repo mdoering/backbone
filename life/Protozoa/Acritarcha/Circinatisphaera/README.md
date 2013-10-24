@@ -1,5 +1,4 @@
-Circinatisphaera Miller, 1987 GENUS
-=======
+# Circinatisphaera Miller, 1987 GENUS
 
 #### Status
 ACCEPTED

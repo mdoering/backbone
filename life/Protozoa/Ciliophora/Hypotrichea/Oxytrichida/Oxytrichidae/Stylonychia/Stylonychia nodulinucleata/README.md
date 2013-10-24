@@ -1,5 +1,4 @@
-Stylonychia nodulinucleata Shi & Li, 1993 SPECIES
-=======
+# Stylonychia nodulinucleata Shi & Li, 1993 SPECIES
 
 #### Status
 ACCEPTED

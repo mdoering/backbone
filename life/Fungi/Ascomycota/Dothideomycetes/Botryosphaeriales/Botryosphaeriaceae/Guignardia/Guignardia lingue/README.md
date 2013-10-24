@@ -1,5 +1,4 @@
-Guignardia lingue (Speg.) Sacc. & Trotter SPECIES
-=======
+# Guignardia lingue (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

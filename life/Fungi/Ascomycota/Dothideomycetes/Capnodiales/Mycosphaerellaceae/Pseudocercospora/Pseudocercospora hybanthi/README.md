@@ -1,5 +1,4 @@
-Pseudocercospora hybanthi U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora hybanthi U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

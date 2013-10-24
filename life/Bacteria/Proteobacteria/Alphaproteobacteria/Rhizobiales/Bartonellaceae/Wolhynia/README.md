@@ -1,5 +1,4 @@
-Wolhynia GENUS
-=======
+# Wolhynia GENUS
 
 #### Status
 ACCEPTED

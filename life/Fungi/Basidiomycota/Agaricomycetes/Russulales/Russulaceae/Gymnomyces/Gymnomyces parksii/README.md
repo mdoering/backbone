@@ -1,5 +1,4 @@
-Gymnomyces parksii Singer & A.H. Sm. SPECIES
-=======
+# Gymnomyces parksii Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

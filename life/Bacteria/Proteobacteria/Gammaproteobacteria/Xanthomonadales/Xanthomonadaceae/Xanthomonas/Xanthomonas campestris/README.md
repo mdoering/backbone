@@ -1,11 +1,10 @@
-Xanthomonas campestris subsp. campestris SUBSPECIES
-=======
+# Xanthomonas campestris (Pammel, 1895) Dowson, 1939 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

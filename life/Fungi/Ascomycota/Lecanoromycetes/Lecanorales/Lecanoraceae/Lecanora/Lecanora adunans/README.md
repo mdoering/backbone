@@ -1,5 +1,4 @@
-Lecanora adunans Nyl. SPECIES
-=======
+# Lecanora adunans Nyl. SPECIES
 
 #### Status
 ACCEPTED

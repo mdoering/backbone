@@ -1,5 +1,4 @@
-Entophysalis magnoliae Farlow SPECIES
-=======
+# Entophysalis magnoliae Farlow SPECIES
 
 #### Status
 ACCEPTED

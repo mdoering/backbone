@@ -1,5 +1,4 @@
-Leptothyriomyces Kräusel GENUS
-=======
+# Leptothyriomyces Kräusel GENUS
 
 #### Status
 ACCEPTED

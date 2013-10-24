@@ -1,5 +1,4 @@
-Caloplaca abuensis Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca abuensis Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

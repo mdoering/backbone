@@ -1,5 +1,4 @@
-Acarospora cretica J. Steiner SPECIES
-=======
+# Acarospora cretica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

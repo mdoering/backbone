@@ -1,5 +1,4 @@
-Strickeria pruniformis (Nyl.) Cooke SPECIES
-=======
+# Strickeria pruniformis (Nyl.) Cooke SPECIES
 
 #### Status
 ACCEPTED

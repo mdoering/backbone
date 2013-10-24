@@ -1,5 +1,4 @@
-Phyllachora wightianae Sawada SPECIES
-=======
+# Phyllachora wightianae Sawada SPECIES
 
 #### Status
 ACCEPTED

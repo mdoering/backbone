@@ -1,5 +1,4 @@
-Nankinella Lee, 1934 GENUS
-=======
+# Nankinella Lee, 1934 GENUS
 
 #### Status
 ACCEPTED

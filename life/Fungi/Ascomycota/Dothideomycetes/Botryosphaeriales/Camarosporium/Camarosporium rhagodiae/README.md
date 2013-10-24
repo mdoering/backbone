@@ -1,5 +1,4 @@
-Camarosporium rhagodiae f. rhagodiae FORM
-=======
+# Camarosporium rhagodiae Tassi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Camarosporium rhagodiae f. rhagodiae
+Camarosporium rhagodiae Tassi
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Leptosphaeria thujaecola Hara SPECIES
-=======
+# Leptosphaeria thujicola Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria thujaecola Hara
+Leptosphaeria thujicola Hara
 
 ### Remarks
 null

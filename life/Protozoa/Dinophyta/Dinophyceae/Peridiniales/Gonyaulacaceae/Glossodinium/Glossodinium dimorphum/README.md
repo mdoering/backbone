@@ -1,5 +1,4 @@
-Glossodinium dimorphum Ioannides, Stavrinos & Downie, 1977 SPECIES
-=======
+# Glossodinium dimorphum Ioannides, Stavrinos & Downie, 1977 SPECIES
 
 #### Status
 ACCEPTED

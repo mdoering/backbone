@@ -1,14 +1,13 @@
-Odontotrema pini Romell SPECIES
-=======
+# Paschelkiella pini (Romell) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bot. Notiser 75 (1895)
+Mycotaxon 28(1): 168 (1987)
 
 #### Original name
 Odontotrema pini Romell

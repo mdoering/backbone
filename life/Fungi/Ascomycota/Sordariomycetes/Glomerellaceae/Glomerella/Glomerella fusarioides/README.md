@@ -1,5 +1,4 @@
-Glomerella fusarioides Edgerton SPECIES
-=======
+# Glomerella fusarioides Edgerton SPECIES
 
 #### Status
 ACCEPTED

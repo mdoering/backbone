@@ -1,5 +1,4 @@
-Gloeosporium beckianum Bäumler SPECIES
-=======
+# Gloeosporium beckianum Bäumler SPECIES
 
 #### Status
 ACCEPTED

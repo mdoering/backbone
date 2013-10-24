@@ -1,5 +1,4 @@
-Cryptothele permiscens (Nyl.) Th. Fr. SPECIES
-=======
+# Cryptothele permiscens (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium pulogense Syd. SPECIES
-=======
+# Aecidium pulogense Syd. SPECIES
 
 #### Status
 ACCEPTED

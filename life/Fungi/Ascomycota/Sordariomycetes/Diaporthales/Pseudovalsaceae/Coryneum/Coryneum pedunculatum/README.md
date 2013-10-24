@@ -1,5 +1,4 @@
-Coryneum pedunculatum (Ellis & Everh.) S. Hughes SPECIES
-=======
+# Coryneum pedunculatum (Ellis & Everh.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

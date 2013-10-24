@@ -1,5 +1,4 @@
-Peltigera polydactyloides var. polydactyloides VARIETY
-=======
+# Peltigera polydactyloides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera polydactyloides var. polydactyloides
+Peltigera polydactyloides Nyl.
 
 ### Remarks
 null

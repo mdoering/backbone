@@ -1,5 +1,4 @@
-Celidium andocarpicola SPECIES
-=======
+# Celidium andocarpicola SPECIES
 
 #### Status
 ACCEPTED

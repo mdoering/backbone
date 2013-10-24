@@ -1,5 +1,4 @@
-Agaricus subliquescens Schumach. SPECIES
-=======
+# Agaricus subliquescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ichnusella Dieni & Massari, 1966 GENUS
-=======
+# Ichnusella Dieni & Massari, 1966 GENUS
 
 #### Status
 ACCEPTED

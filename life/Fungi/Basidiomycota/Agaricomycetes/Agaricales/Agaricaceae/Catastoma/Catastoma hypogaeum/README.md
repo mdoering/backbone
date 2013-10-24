@@ -1,5 +1,4 @@
-Catastoma hypogaeum (Cooke & Massee) Lloyd SPECIES
-=======
+# Catastoma hypogaeum (Cooke & Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

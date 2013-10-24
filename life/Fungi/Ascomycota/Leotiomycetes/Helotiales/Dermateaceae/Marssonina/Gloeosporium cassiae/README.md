@@ -1,5 +1,4 @@
-Gloeosporium cassiae F. Patt. SPECIES
-=======
+# Gloeosporium cassiae F. Patt. SPECIES
 
 #### Status
 ACCEPTED

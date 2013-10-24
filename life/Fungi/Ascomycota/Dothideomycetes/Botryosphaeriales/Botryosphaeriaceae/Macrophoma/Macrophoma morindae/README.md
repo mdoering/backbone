@@ -1,5 +1,4 @@
-Macrophoma morindae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Macrophoma morindae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

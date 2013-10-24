@@ -1,14 +1,13 @@
-Nectria balsamea Cooke & Peck, 1874 SPECIES
-=======
+# Thyronectria balsamea (Cooke & Peck) Seeler, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Arnold Arbor. 21: 442 (1940)
 
 #### Original name
 Nectria balsamea Cooke & Peck, 1874

@@ -1,5 +1,4 @@
-Trematophoma lignicola Petr., 1924 SPECIES
-=======
+# Trematophoma lignicola Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

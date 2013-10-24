@@ -1,8 +1,7 @@
-Wilsonia dendrio-thamnodes Cheel ex Dughi SPECIES
-=======
+# Wilsonia dendriothamnodes Cheel ex Dughi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Wilsonia dendrio-thamnodes Cheel ex Dughi
+Wilsonia dendriothamnodes Cheel ex Dughi
 
 ### Remarks
 null

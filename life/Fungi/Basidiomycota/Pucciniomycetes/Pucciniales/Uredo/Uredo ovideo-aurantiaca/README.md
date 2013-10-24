@@ -1,5 +1,4 @@
-Uredo ovideo-aurantiaca Bonord. SPECIES
-=======
+# Uredo ovideo-aurantiaca Bonord. SPECIES
 
 #### Status
 ACCEPTED

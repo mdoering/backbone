@@ -1,5 +1,4 @@
-Sclerotium apiosporioides Speg. SPECIES
-=======
+# Sclerotium apiosporioides Speg. SPECIES
 
 #### Status
 ACCEPTED

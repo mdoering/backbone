@@ -1,5 +1,4 @@
-Pseudolachnea scolecospora Teng & C.I. Chen SPECIES
-=======
+# Pseudolachnea scolecospora Teng & C.I. Chen SPECIES
 
 #### Status
 ACCEPTED

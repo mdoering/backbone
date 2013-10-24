@@ -1,5 +1,4 @@
-Onychaspis Stein, 1859 GENUS
-=======
+# Onychaspis Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

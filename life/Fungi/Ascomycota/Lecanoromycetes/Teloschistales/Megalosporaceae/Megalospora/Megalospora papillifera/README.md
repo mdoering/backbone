@@ -1,5 +1,4 @@
-Megalospora papillifera H. Magn. SPECIES
-=======
+# Megalospora papillifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

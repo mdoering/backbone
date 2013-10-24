@@ -1,17 +1,16 @@
-Rehmiomyces Hennings, 1904 GENUS
-=======
+# Dictyonia Sydow, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 270 (1904)
+Annls mycol. 2: 549 (1904)
 
 #### Original name
-Rehmiomyces Hennings, 1904
+Dictyonia Sydow, 1904
 
 ### Remarks
 null

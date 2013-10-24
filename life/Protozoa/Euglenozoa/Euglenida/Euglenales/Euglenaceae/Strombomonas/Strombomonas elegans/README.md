@@ -1,5 +1,4 @@
-Strombomonas elegans V. Conforti & G.-J. Joo SPECIES
-=======
+# Strombomonas elegans V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

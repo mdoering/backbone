@@ -1,5 +1,4 @@
-Phoma chorizemae Tassi SPECIES
-=======
+# Phoma chorizemae Tassi SPECIES
 
 #### Status
 ACCEPTED

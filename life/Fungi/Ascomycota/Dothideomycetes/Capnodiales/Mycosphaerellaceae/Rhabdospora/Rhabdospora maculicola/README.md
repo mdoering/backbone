@@ -1,5 +1,4 @@
-Rhabdospora maculicola Voglino SPECIES
-=======
+# Rhabdospora maculicola Voglino SPECIES
 
 #### Status
 ACCEPTED

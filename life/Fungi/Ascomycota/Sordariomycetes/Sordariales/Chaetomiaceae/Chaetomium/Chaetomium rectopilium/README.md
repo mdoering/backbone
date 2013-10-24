@@ -1,5 +1,4 @@
-Chaetomium rectopilium Fergus & Amelung SPECIES
-=======
+# Chaetomium rectopilium Fergus & Amelung SPECIES
 
 #### Status
 ACCEPTED

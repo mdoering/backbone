@@ -1,5 +1,4 @@
-Verrucaria lacrimans Zahlbr. SPECIES
-=======
+# Verrucaria lacrimans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

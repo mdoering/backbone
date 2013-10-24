@@ -1,5 +1,4 @@
-Pyrgidium Nylander, 1867 GENUS
-=======
+# Pyrgidium Nylander, 1867 GENUS
 
 #### Status
 ACCEPTED

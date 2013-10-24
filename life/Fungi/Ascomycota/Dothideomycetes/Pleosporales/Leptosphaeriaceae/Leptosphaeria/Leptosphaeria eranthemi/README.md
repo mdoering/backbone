@@ -1,5 +1,4 @@
-Leptosphaeria eranthemi Pat. SPECIES
-=======
+# Leptosphaeria eranthemi Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella macrospora Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
-=======
+# Astrosphaeriella macrospora Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

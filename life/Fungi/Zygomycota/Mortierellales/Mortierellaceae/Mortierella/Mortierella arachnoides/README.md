@@ -1,5 +1,4 @@
-Mortierella arachnoides Therry & Thierry SPECIES
-=======
+# Mortierella arachnoides Therry & Thierry SPECIES
 
 #### Status
 ACCEPTED

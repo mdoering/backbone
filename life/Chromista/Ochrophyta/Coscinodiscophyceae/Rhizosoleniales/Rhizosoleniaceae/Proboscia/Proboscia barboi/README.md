@@ -1,5 +1,4 @@
-Proboscia barboi (J. Brun) R. W. Jordan & J. Priddle SPECIES
-=======
+# Proboscia barboi (J. Brun) R. W. Jordan & J. Priddle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla iranica Petr. SPECIES
-=======
+# Zignoëlla iranica Petr. SPECIES
 
 #### Status
 ACCEPTED

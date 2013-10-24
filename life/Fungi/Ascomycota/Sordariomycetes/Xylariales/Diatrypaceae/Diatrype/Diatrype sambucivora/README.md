@@ -1,5 +1,4 @@
-Diatrype sambucivora (Schwein.) Cooke SPECIES
-=======
+# Diatrype sambucivora (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

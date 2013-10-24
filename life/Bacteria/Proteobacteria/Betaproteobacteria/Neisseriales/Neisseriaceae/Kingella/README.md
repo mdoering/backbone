@@ -1,5 +1,4 @@
-Kingella GENUS
-=======
+# Kingella GENUS
 
 #### Status
 ACCEPTED

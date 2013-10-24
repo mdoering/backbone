@@ -1,5 +1,4 @@
-Phaeoisaria magnifica Deighton SPECIES
-=======
+# Phaeoisaria magnifica Deighton SPECIES
 
 #### Status
 ACCEPTED

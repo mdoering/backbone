@@ -1,5 +1,4 @@
-Austroboletus malaccensis (Pat. & C.F. Baker) Wolfe SPECIES
-=======
+# Austroboletus malaccensis (Pat. & C.F. Baker) Wolfe SPECIES
 
 #### Status
 ACCEPTED

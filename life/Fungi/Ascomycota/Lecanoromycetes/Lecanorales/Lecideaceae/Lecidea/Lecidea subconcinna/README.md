@@ -1,5 +1,4 @@
-Lecidea subconcinna SPECIES
-=======
+# Lecidea subconcinna SPECIES
 
 #### Status
 ACCEPTED

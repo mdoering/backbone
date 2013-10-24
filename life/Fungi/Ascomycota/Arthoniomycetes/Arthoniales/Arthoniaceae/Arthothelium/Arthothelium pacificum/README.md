@@ -1,5 +1,4 @@
-Arthothelium pacificum Follmann SPECIES
-=======
+# Arthothelium pacificum Follmann SPECIES
 
 #### Status
 ACCEPTED

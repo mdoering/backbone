@@ -1,5 +1,4 @@
-Metchnikovillus GENUS
-=======
+# Metchnikovillus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brigantiaea purpurata (Zahlbr.) Hafellner & Bellem. SPECIES
-=======
+# Brigantiaea purpurata (Zahlbr.) Hafellner & Bellem. SPECIES
 
 #### Status
 ACCEPTED

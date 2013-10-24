@@ -1,5 +1,4 @@
-Hydnellum crustulinum Maas Geest., 1971 SPECIES
-=======
+# Hydnellum crustulinum Maas Geest., 1971 SPECIES
 
 #### Status
 DOUBTFUL

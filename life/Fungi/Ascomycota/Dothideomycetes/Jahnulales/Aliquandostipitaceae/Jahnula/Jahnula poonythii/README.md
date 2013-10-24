@@ -1,5 +1,4 @@
-Jahnula poonythii K.D. Hyde & S.W. Wong, 1999 SPECIES
-=======
+# Jahnula poonythii K.D. Hyde & S.W. Wong, 1999 SPECIES
 
 #### Status
 ACCEPTED

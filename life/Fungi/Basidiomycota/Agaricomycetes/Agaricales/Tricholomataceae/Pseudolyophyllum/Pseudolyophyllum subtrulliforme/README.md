@@ -1,17 +1,16 @@
-Pseudolyophyllum subtrullaeformis Raithelh. SPECIES
-=======
+# Pseudolyophyllum subtrulliforme Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 23(1): 7 (1995)
 
 #### Original name
-Pseudolyophyllum subtrullaeformis Raithelh.
+Pseudolyophyllum subtrulliforme Raithelh.
 
 ### Remarks
 null

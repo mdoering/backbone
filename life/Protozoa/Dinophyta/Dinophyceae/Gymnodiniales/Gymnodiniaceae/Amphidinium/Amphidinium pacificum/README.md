@@ -1,5 +1,4 @@
-Amphidinium pacificum Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium pacificum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

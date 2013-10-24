@@ -1,5 +1,4 @@
-Merulius roseus Schwein. SPECIES
-=======
+# Merulius roseus Schwein. SPECIES
 
 #### Status
 ACCEPTED

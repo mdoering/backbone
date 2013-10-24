@@ -1,5 +1,4 @@
-Entoloma lineum Corner & E. Horak SPECIES
-=======
+# Entoloma lineum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

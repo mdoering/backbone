@@ -1,5 +1,4 @@
-Xanthoria karrooensis S. Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria karrooensis S. Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

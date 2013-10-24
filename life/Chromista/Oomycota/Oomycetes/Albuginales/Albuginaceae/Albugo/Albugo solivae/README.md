@@ -1,5 +1,4 @@
-Albugo solivae J. Schröt. SPECIES
-=======
+# Albugo solivae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

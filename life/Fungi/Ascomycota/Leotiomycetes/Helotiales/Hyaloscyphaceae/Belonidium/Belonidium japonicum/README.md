@@ -1,5 +1,4 @@
-Belonidium japonicum Hara SPECIES
-=======
+# Belonidium japonicum Hara SPECIES
 
 #### Status
 ACCEPTED

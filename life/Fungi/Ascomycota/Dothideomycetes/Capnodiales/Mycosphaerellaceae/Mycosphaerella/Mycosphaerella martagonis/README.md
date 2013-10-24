@@ -1,5 +1,4 @@
-Mycosphaerella martagonis Arx, 1949 SPECIES
-=======
+# Mycosphaerella martagonis Arx, 1949 SPECIES
 
 #### Status
 ACCEPTED

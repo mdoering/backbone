@@ -1,8 +1,7 @@
-Caloplaca tromsoeënsis H. Magn. SPECIES
-=======
+# Caloplaca tromsoënsis H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca tromsoeënsis H. Magn.
+Caloplaca tromsoënsis H. Magn.
 
 ### Remarks
 null

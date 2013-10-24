@@ -1,5 +1,4 @@
-Synchytrium callicarpae M.T. Cook SPECIES
-=======
+# Synchytrium callicarpae M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

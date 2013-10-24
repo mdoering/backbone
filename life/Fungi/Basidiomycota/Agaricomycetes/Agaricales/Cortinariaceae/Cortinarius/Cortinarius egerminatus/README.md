@@ -1,5 +1,4 @@
-Cortinarius egerminatus Britzelm. SPECIES
-=======
+# Cortinarius egerminatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

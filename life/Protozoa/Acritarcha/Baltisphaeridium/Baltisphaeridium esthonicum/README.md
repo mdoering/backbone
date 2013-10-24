@@ -1,5 +1,4 @@
-Baltisphaeridium esthonicum Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium esthonicum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

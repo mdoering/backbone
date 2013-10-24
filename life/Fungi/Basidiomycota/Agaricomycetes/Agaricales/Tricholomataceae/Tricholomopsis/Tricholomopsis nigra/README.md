@@ -1,5 +1,4 @@
-Tricholomopsis nigra (Petch) Pegler SPECIES
-=======
+# Tricholomopsis nigra (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia inulae A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Diplodia inulae A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

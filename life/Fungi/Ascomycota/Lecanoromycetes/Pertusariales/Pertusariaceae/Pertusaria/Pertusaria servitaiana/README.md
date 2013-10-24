@@ -1,5 +1,4 @@
-Pertusaria servitaiana SPECIES
-=======
+# Pertusaria servitaiana SPECIES
 
 #### Status
 ACCEPTED

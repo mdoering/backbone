@@ -1,17 +1,16 @@
-Pertusaria subventosa var. subventosa VARIETY
-=======
+# Pertusaria subventosa Malme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 28A(9): 7 (1936)
+null
 
 #### Original name
-Pertusaria subventosa var. subventosa
+null
 
 ### Remarks
 null

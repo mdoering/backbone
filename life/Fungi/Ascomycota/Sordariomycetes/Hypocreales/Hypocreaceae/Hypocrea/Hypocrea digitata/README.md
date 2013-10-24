@@ -1,5 +1,4 @@
-Hypocrea digitata Ellis & Everh. SPECIES
-=======
+# Hypocrea digitata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

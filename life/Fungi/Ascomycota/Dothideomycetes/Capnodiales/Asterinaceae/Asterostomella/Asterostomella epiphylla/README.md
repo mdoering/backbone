@@ -1,5 +1,4 @@
-Asterostomella epiphylla Höhn. & Litsch. SPECIES
-=======
+# Asterostomella epiphylla Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia caesia Hue SPECIES
-=======
+# Heppia caesia Hue SPECIES
 
 #### Status
 ACCEPTED

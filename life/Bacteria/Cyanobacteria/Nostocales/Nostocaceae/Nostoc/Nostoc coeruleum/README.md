@@ -1,5 +1,4 @@
-Nostoc coeruleum var. planctonicum V.S. Poretsky & V.K. Tschernow VARIETY
-=======
+# Nostoc coeruleum (Lyngbye) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

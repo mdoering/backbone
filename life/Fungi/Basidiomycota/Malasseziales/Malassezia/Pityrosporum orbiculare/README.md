@@ -1,5 +1,4 @@
-Pityrosporum orbiculare M.A. Gordon SPECIES
-=======
+# Pityrosporum orbiculare M.A. Gordon SPECIES
 
 #### Status
 ACCEPTED

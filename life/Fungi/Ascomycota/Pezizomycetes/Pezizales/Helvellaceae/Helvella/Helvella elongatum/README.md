@@ -1,5 +1,4 @@
-Helvella elongatum Schumach. SPECIES
-=======
+# Helvella elongatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

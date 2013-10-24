@@ -1,14 +1,13 @@
-Clavulinopsis tenuiramosa (Corner) Jülich, 1985 SPECIES
-=======
+# Ramariopsis tenuiramosa Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 2(1): 121 (1985)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 700 (1950)
 
 #### Original name
 Ramariopsis tenuiramosa Corner, 1950

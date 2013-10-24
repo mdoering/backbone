@@ -1,5 +1,4 @@
-Russula granulosula Murrill SPECIES
-=======
+# Russula granulosula Murrill SPECIES
 
 #### Status
 ACCEPTED

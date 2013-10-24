@@ -1,5 +1,4 @@
-Diplomitoporus incisus Ryvarden, 2000 SPECIES
-=======
+# Diplomitoporus incisus Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidisca bengalensis (Ghosh, 1921) Kahl, 1932 SPECIES
-=======
+# Aspidisca bengalensis (Ghosh, 1921) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

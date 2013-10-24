@@ -1,5 +1,4 @@
-Cornicularia (Schreber) Hoffmann, 1792 GENUS
-=======
+# Cornicularia (Schreber) Hoffmann, 1792 GENUS
 
 #### Status
 ACCEPTED

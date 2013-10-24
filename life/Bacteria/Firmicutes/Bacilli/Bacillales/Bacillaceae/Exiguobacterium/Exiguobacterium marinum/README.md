@@ -1,5 +1,4 @@
-Exiguobacterium marinum Kim et al., 2005 SPECIES
-=======
+# Exiguobacterium marinum Kim et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

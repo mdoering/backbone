@@ -1,5 +1,4 @@
-Trichocladia euphorbiae (Berk. & M.A. Curtis) Jacz. SPECIES
-=======
+# Trichocladia euphorbiae (Berk. & M.A. Curtis) Jacz. SPECIES
 
 #### Status
 ACCEPTED

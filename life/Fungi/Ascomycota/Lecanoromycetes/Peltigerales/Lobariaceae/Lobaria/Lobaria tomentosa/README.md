@@ -1,5 +1,4 @@
-Lobaria tomentosa (Sw.) Räuschel SPECIES
-=======
+# Lobaria tomentosa (Sw.) Räuschel SPECIES
 
 #### Status
 ACCEPTED

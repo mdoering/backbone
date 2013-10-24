@@ -1,17 +1,16 @@
-Prasiola crispa var. antarctica (Kützing) Knebel, 1935 VARIETY
-=======
+# Mastodia antarctica (Kütz.) C.W. Dodge, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 58 (1948)
 
 #### Original name
-null
+Prasiola antarctica Kütz., 1849
 
 ### Remarks
 null

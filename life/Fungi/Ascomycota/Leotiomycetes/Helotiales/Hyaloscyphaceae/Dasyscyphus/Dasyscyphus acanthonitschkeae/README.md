@@ -1,17 +1,16 @@
-Dasyscypha acanthonitschkeae E.K. Cash & R.W. Davidson SPECIES
-=======
+# Dasyscyphus acanthonitschkeae E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32: 730 (1940)
 
 #### Original name
-Dasyscypha acanthonitschkeae E.K. Cash & R.W. Davidson
+Dasyscyphus acanthonitschkeae E.K. Cash & R.W. Davidson
 
 ### Remarks
 null

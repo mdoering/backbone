@@ -1,5 +1,4 @@
-Trachyhystrichosphaera bothnica Tynni & Donner, 1980 SPECIES
-=======
+# Trachyhystrichosphaera bothnica Tynni & Donner, 1980 SPECIES
 
 #### Status
 ACCEPTED

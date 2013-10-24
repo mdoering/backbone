@@ -1,5 +1,4 @@
-Candida thailandica Jindam., Limtong, Yongman., Tuntir., Potach., H. Kawas. & Nakase SPECIES
-=======
+# Candida thailandica Jindam., Limtong, Yongman., Tuntir., Potach., H. Kawas. & Nakase SPECIES
 
 #### Status
 ACCEPTED

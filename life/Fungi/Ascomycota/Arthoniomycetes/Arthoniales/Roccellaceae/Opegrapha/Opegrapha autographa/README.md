@@ -1,5 +1,4 @@
-Opegrapha autographa (Nyl.) Nyl. SPECIES
-=======
+# Opegrapha autographa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

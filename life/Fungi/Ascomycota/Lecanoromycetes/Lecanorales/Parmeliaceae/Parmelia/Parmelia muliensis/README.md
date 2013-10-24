@@ -1,5 +1,4 @@
-Parmelia muliensis Zahlbr. SPECIES
-=======
+# Parmelia muliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

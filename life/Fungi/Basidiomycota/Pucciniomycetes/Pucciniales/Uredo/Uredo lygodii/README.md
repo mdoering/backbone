@@ -1,5 +1,4 @@
-Uredo lygodii Har. SPECIES
-=======
+# Uredo lygodii Har. SPECIES
 
 #### Status
 ACCEPTED

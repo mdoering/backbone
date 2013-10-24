@@ -1,5 +1,4 @@
-Phyllosticta leucospila (Pass.) Allesch. SPECIES
-=======
+# Phyllosticta leucospila (Pass.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

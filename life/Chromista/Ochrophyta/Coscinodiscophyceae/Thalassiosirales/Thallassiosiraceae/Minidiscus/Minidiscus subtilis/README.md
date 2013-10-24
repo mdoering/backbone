@@ -1,5 +1,4 @@
-Minidiscus subtilis Guo, Cheng & Chin SPECIES
-=======
+# Minidiscus subtilis Guo, Cheng & Chin SPECIES
 
 #### Status
 ACCEPTED

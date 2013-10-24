@@ -1,5 +1,4 @@
-Puccinia silvaticella Arthur & Cummins SPECIES
-=======
+# Puccinia silvaticella Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

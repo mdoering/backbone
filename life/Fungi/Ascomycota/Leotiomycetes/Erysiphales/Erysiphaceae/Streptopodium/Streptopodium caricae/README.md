@@ -1,5 +1,4 @@
-Streptopodium caricae Liberato & R.W. Barreto SPECIES
-=======
+# Streptopodium caricae Liberato & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

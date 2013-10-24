@@ -1,5 +1,4 @@
-Cryptosphaeria pullmanensis Glawe SPECIES
-=======
+# Cryptosphaeria pullmanensis Glawe SPECIES
 
 #### Status
 ACCEPTED

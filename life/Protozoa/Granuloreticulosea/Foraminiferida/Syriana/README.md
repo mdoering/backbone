@@ -1,5 +1,4 @@
-Syriana Fourcade & Mouty, 1995 GENUS
-=======
+# Syriana Fourcade & Mouty, 1995 GENUS
 
 #### Status
 ACCEPTED

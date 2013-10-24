@@ -1,5 +1,4 @@
-Agaricus ascophorus Peck SPECIES
-=======
+# Agaricus ascophorus Peck SPECIES
 
 #### Status
 ACCEPTED

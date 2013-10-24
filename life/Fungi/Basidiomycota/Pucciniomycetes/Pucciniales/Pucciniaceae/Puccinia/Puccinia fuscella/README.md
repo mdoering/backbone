@@ -1,5 +1,4 @@
-Puccinia fuscella Arthur & J.R. Johnst. SPECIES
-=======
+# Puccinia fuscella Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

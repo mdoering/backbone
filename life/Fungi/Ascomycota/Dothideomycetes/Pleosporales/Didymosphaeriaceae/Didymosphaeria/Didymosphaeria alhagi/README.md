@@ -1,17 +1,16 @@
-Didymosphaeria alhaginis Szemb. SPECIES
-=======
+# Didymosphaeria alhagi Lobik, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Materialy po floristicheskim i faunisticheskim obsledovaniyam Terskogo okruga 22 (1928)
 
 #### Original name
-Didymosphaeria alhaginis Szemb.
+Didymosphaeria alhagi Lobik, 1928
 
 ### Remarks
 null

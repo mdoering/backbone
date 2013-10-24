@@ -1,5 +1,4 @@
-Lactarius chelidonioides A.H. Sm. SPECIES
-=======
+# Lactarius chelidonioides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

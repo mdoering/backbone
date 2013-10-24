@@ -1,5 +1,4 @@
-Bacidia limacheana Räsänen SPECIES
-=======
+# Bacidia limacheana Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyricularia ebbelsii M.B. Ellis SPECIES
-=======
+# Pyricularia ebbelsii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

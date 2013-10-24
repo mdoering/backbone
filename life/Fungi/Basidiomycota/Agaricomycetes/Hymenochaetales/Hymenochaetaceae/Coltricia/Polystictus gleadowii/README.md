@@ -1,5 +1,4 @@
-Polystictus gleadowii Massee SPECIES
-=======
+# Polystictus gleadowii Massee SPECIES
 
 #### Status
 ACCEPTED

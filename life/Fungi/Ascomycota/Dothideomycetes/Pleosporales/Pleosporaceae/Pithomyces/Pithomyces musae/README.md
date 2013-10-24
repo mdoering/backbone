@@ -1,5 +1,4 @@
-Pithomyces musae X.G. Zhang & Y.M. Wu SPECIES
-=======
+# Pithomyces musae X.G. Zhang & Y.M. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octogonium vanguestainii Martin, 1973 SPECIES
-=======
+# Octogonium vanguestainii Martin, 1973 SPECIES
 
 #### Status
 ACCEPTED

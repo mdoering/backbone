@@ -1,5 +1,4 @@
-Psathyrella spintrigeroides P.D. Orton, 1960 SPECIES
-=======
+# Psathyrella spintrigeroides P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polynema aurelia Fuckel SPECIES
-=======
+# Polynema aurelia Fuckel SPECIES
 
 #### Status
 ACCEPTED

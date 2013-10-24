@@ -1,5 +1,4 @@
-Marasmius cenospilus Singer SPECIES
-=======
+# Marasmius cenospilus Singer SPECIES
 
 #### Status
 ACCEPTED

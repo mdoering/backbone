@@ -1,5 +1,4 @@
-Inocybe pallidicremea Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe pallidicremea Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Irenina pithecolobii W. Yamam. SPECIES
-=======
+# Irenina pithecellobii W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irenina pithecolobii W. Yamam.
+Irenina pithecellobii W. Yamam.
 
 ### Remarks
 null

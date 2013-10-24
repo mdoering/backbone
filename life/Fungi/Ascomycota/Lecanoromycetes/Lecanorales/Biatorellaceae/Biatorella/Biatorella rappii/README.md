@@ -1,5 +1,4 @@
-Biatorella rappii Zahlbr. SPECIES
-=======
+# Biatorella rappii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

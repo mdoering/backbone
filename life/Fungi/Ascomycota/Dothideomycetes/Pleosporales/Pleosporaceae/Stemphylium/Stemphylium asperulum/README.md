@@ -1,5 +1,4 @@
-Stemphylium asperulum Sacc. SPECIES
-=======
+# Stemphylium asperulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

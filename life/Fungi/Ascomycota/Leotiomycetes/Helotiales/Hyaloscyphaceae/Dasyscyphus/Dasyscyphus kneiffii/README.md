@@ -1,8 +1,7 @@
-Dasyscypha kneiffii Rehm SPECIES
-=======
+# Dasyscyphus kneiffii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha kneiffii Rehm
+Dasyscyphus kneiffii Rehm
 
 ### Remarks
 null

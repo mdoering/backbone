@@ -1,5 +1,4 @@
-Lithastrinus quadricuspis SPECIES
-=======
+# Lithastrinus quadricuspis SPECIES
 
 #### Status
 ACCEPTED

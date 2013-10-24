@@ -1,5 +1,4 @@
-Laschia similis Lloyd SPECIES
-=======
+# Laschia similis Lloyd SPECIES
 
 #### Status
 ACCEPTED

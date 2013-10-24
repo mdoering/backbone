@@ -1,5 +1,4 @@
-Microdiplodia cocoes-capitatae Caball. SPECIES
-=======
+# Microdiplodia cocoes-capitatae Caball. SPECIES
 
 #### Status
 ACCEPTED

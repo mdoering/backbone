@@ -1,5 +1,4 @@
-Phyllosticta fusca Cejp SPECIES
-=======
+# Phyllosticta fusca Cejp SPECIES
 
 #### Status
 ACCEPTED

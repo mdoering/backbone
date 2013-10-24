@@ -1,5 +1,4 @@
-Coniothyrium fallax Rolland SPECIES
-=======
+# Coniothyrium fallax Rolland SPECIES
 
 #### Status
 ACCEPTED

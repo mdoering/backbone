@@ -1,5 +1,4 @@
-Spiroloculina andereni SPECIES
-=======
+# Spiroloculina andereni SPECIES
 
 #### Status
 ACCEPTED

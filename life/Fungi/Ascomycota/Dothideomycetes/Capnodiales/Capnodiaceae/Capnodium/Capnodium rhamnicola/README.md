@@ -1,5 +1,4 @@
-Capnodium rhamnicola Rabenh. SPECIES
-=======
+# Capnodium rhamnicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

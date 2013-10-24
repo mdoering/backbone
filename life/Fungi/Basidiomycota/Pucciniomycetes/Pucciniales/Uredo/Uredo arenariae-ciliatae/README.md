@@ -1,5 +1,4 @@
-Uredo arenariae-ciliatae Dupias SPECIES
-=======
+# Uredo arenariae-ciliatae Dupias SPECIES
 
 #### Status
 ACCEPTED

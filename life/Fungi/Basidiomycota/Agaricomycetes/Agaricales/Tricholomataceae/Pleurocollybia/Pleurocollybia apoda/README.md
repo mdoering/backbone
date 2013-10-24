@@ -1,5 +1,4 @@
-Pleurocollybia apoda Singer SPECIES
-=======
+# Pleurocollybia apoda Singer SPECIES
 
 #### Status
 ACCEPTED

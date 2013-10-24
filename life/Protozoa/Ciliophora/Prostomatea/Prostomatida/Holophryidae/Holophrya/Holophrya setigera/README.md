@@ -1,5 +1,4 @@
-Holophrya setigera Dumas, 1930 SPECIES
-=======
+# Holophrya setigera Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

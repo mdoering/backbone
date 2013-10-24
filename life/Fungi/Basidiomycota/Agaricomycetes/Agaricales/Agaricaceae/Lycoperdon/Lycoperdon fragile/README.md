@@ -1,5 +1,4 @@
-Lycoperdon fragile Velen. SPECIES
-=======
+# Lycoperdon fragile Velen. SPECIES
 
 #### Status
 ACCEPTED

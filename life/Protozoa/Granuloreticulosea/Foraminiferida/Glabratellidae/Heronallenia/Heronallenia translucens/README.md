@@ -1,5 +1,4 @@
-Heronallenia translucens Parr, 1945 SPECIES
-=======
+# Heronallenia translucens Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

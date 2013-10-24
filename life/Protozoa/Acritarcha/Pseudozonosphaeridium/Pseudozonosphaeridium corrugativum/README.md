@@ -1,5 +1,4 @@
-Pseudozonosphaeridium corrugativum Andreeva, 1973 SPECIES
-=======
+# Pseudozonosphaeridium corrugativum Andreeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

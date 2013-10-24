@@ -1,5 +1,4 @@
-Oospora destructor (Metschn.) Delacr. SPECIES
-=======
+# Oospora destructor (Metschn.) Delacr. SPECIES
 
 #### Status
 ACCEPTED

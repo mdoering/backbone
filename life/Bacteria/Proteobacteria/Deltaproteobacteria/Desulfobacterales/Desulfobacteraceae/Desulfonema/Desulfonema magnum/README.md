@@ -1,5 +1,4 @@
-Desulfonema magnum Widdel, 1981 SPECIES
-=======
+# Desulfonema magnum Widdel, 1981 SPECIES
 
 #### Status
 ACCEPTED

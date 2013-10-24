@@ -1,5 +1,4 @@
-Lembosina psychotriae (G. Arnaud) Arx SPECIES
-=======
+# Lembosina psychotriae (G. Arnaud) Arx SPECIES
 
 #### Status
 ACCEPTED

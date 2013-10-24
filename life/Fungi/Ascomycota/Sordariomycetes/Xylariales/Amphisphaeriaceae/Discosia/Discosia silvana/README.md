@@ -1,5 +1,4 @@
-Discosia silvana Sacc. SPECIES
-=======
+# Discosia silvana Sacc. SPECIES
 
 #### Status
 ACCEPTED

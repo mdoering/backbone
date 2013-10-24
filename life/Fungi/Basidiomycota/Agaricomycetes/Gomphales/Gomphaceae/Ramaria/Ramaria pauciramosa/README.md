@@ -1,5 +1,4 @@
-Ramaria pauciramosa Velen. SPECIES
-=======
+# Ramaria pauciramosa Velen. SPECIES
 
 #### Status
 ACCEPTED

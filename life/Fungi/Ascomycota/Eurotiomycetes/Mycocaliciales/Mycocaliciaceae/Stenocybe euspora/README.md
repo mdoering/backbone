@@ -1,5 +1,4 @@
-Stenocybe euspora (Nyl.) Anzi SPECIES
-=======
+# Stenocybe euspora (Nyl.) Anzi SPECIES
 
 #### Status
 ACCEPTED

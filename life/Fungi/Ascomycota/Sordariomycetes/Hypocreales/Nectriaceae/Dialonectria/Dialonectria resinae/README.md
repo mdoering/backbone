@@ -1,5 +1,4 @@
-Dialonectria resinae (Fr.) Cooke SPECIES
-=======
+# Dialonectria resinae (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

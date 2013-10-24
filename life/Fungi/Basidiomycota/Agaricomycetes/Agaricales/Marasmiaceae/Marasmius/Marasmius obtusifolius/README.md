@@ -1,5 +1,4 @@
-Marasmius obtusifolius Rea SPECIES
-=======
+# Marasmius obtusifolius Rea SPECIES
 
 #### Status
 ACCEPTED

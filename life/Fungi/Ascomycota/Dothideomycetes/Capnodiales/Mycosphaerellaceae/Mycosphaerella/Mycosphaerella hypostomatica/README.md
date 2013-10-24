@@ -1,5 +1,4 @@
-Mycosphaerella hypostomatica Höhn. SPECIES
-=======
+# Mycosphaerella hypostomatica Höhn. SPECIES
 
 #### Status
 ACCEPTED

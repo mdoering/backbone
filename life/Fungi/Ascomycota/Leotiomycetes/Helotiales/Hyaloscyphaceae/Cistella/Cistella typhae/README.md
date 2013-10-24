@@ -1,5 +1,4 @@
-Cistella typhae (Svrcek) Raitv. SPECIES
-=======
+# Cistella typhae (Svrcek) Raitv. SPECIES
 
 #### Status
 ACCEPTED

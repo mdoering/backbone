@@ -1,5 +1,4 @@
-Leathesia mucosa var. condensata Feldmann VARIETY
-=======
+# Leathesia mucosa Feldmann SPECIES
 
 #### Status
 ACCEPTED

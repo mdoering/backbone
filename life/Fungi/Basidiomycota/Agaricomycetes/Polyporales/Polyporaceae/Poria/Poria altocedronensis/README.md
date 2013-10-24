@@ -1,5 +1,4 @@
-Poria altocedronensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria altocedronensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

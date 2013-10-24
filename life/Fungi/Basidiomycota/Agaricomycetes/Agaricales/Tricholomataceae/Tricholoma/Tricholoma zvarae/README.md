@@ -1,5 +1,4 @@
-Tricholoma zvarae Velen. SPECIES
-=======
+# Tricholoma zvarae Velen. SPECIES
 
 #### Status
 ACCEPTED

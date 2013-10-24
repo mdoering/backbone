@@ -1,5 +1,4 @@
-Lecanora cedricola Werner SPECIES
-=======
+# Lecanora cedricola Werner SPECIES
 
 #### Status
 ACCEPTED

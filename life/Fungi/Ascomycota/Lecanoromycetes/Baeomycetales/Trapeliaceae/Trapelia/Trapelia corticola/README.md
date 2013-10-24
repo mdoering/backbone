@@ -1,17 +1,16 @@
-Lecidea elegantior Grummann SPECIES
-=======
+# Trapelia corticola Coppins & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 16(3): 254 (1984)
 
 #### Original name
-null
+Trapelia corticola Coppins & P. James
 
 ### Remarks
 null

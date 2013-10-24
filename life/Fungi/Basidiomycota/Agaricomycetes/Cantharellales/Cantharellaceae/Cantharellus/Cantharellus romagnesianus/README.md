@@ -1,5 +1,4 @@
-Cantharellus romagnesianus Eyssart. & Buyck SPECIES
-=======
+# Cantharellus romagnesianus Eyssart. & Buyck SPECIES
 
 #### Status
 ACCEPTED

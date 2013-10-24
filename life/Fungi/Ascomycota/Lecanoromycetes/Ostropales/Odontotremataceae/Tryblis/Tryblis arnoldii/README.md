@@ -1,14 +1,13 @@
-Pseudographis arnoldii (Rehm) Rehm SPECIES
-=======
+# Tryblis arnoldii (Rehm) Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ascomyceten, Fasc. 3 no. 32 (1881)
+Gen. fung. (Minneapolis) 312 (1931)
 
 #### Original name
 Blitridium arnoldii Rehm

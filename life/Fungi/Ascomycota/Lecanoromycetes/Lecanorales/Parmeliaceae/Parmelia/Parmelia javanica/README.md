@@ -1,5 +1,4 @@
-Parmelia javanica Mont. & Bosch SPECIES
-=======
+# Parmelia javanica Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

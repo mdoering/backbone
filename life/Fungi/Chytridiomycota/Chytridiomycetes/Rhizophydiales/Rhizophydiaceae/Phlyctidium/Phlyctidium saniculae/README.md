@@ -1,5 +1,4 @@
-Phlyctidium saniculae Wallr. SPECIES
-=======
+# Phlyctidium saniculae Wallr. SPECIES
 
 #### Status
 ACCEPTED

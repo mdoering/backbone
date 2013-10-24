@@ -1,5 +1,4 @@
-Meliola martiniana Gaillard SPECIES
-=======
+# Meliola martiniana Gaillard SPECIES
 
 #### Status
 ACCEPTED

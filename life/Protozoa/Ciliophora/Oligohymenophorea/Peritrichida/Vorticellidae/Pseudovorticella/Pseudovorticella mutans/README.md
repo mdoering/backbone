@@ -1,8 +1,7 @@
-Vorticella mutans Penard, 1922 SPECIES
-=======
+# Pseudovorticella mutans (Penard, 1922) Foissner, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

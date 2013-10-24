@@ -1,5 +1,4 @@
-Massarina syringae Kirschst. SPECIES
-=======
+# Massarina syringae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

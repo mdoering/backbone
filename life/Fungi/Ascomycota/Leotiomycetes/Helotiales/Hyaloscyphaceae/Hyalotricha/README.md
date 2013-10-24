@@ -1,5 +1,4 @@
-Hyalotricha GENUS
-=======
+# Hyalotricha GENUS
 
 #### Status
 ACCEPTED

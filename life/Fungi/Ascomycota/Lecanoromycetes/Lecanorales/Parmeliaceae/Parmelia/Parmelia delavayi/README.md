@@ -1,5 +1,4 @@
-Parmelia delavayi Hue SPECIES
-=======
+# Parmelia delavayi Hue SPECIES
 
 #### Status
 ACCEPTED

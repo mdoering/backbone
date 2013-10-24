@@ -1,5 +1,4 @@
-Phoma gaillardiae du Plessis SPECIES
-=======
+# Phoma gaillardiae du Plessis SPECIES
 
 #### Status
 ACCEPTED

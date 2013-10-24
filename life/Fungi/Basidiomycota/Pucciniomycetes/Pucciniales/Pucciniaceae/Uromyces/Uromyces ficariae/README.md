@@ -1,17 +1,16 @@
-Coeomurus ficariae (DC.) Gray, 1821 SPECIES
-=======
+# Uromyces ficariae (Schumach.) Lév., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. Nassau Ver. Nat. 15: 20 (1860)
 
 #### Original name
-null
+Uredo ficariae Schumach., 1803
 
 ### Remarks
 null

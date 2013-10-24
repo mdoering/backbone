@@ -1,5 +1,4 @@
-Discammina Lacroix, 1932 GENUS
-=======
+# Discammina Lacroix, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema trachelium Lév. SPECIES
-=======
+# Sphaeronaema trachelium Lév. SPECIES
 
 #### Status
 ACCEPTED

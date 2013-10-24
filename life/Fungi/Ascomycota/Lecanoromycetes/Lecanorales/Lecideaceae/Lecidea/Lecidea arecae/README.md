@@ -1,5 +1,4 @@
-Lecidea arecae Spreng. SPECIES
-=======
+# Lecidea arecae Spreng. SPECIES
 
 #### Status
 ACCEPTED

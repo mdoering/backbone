@@ -1,5 +1,4 @@
-Trochammina helgolandica Rhumbler, 1938 SPECIES
-=======
+# Trochammina helgolandica Rhumbler, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria calamina (Durieu & Mont.) Sacc. SPECIES
-=======
+# Metasphaeria calamina (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

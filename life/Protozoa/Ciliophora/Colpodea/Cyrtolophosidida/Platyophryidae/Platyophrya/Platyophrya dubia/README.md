@@ -1,5 +1,4 @@
-Platyophrya dubia Foissner, 1980 SPECIES
-=======
+# Platyophrya dubia Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

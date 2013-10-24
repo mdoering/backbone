@@ -1,17 +1,16 @@
-Pucciniosira arthuri Buriticá & J.F. Hennen SPECIES
-=======
+# Pucciniosira arthurii Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 24: 31 (1980)
 
 #### Original name
-Pucciniosira arthuri Buriticá & J.F. Hennen
+Pucciniosira arthurii Buriticá & J.F. Hennen, 1980
 
 ### Remarks
 null

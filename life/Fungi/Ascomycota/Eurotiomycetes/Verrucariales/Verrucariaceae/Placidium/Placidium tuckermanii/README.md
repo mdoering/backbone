@@ -1,5 +1,4 @@
-Placidium tuckermanii (Rav. ex Mont.) Breuss SPECIES
-=======
+# Placidium tuckermanii (Rav. ex Mont.) Breuss SPECIES
 
 #### Status
 ACCEPTED

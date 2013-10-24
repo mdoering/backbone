@@ -1,5 +1,4 @@
-Hendersonia biseptata f. biseptata Sacc. FORM
-=======
+# Hendersonia biseptata ? pruni-domesticae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Michelia 1(no. 1): 95 (1877)
+Syll. fung. (Abellini) 3: 419 (1884)
 
 #### Original name
-Hendersonia biseptata f. biseptata Sacc.
+Hendersonia biseptata ? pruni-domesticae Sacc.
 
 ### Remarks
 null

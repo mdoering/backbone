@@ -1,5 +1,4 @@
-Puccinia inquinans Wallr. SPECIES
-=======
+# Puccinia inquinans Wallr. SPECIES
 
 #### Status
 ACCEPTED

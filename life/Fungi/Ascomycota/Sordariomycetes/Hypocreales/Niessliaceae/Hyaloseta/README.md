@@ -1,5 +1,4 @@
-Hyaloseta A.W. Ramaley GENUS
-=======
+# Hyaloseta A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

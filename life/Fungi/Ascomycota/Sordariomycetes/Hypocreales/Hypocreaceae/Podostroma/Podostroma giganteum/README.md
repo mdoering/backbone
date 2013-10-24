@@ -1,5 +1,4 @@
-Podostroma giganteum S. Imai SPECIES
-=======
+# Podostroma giganteum S. Imai SPECIES
 
 #### Status
 ACCEPTED

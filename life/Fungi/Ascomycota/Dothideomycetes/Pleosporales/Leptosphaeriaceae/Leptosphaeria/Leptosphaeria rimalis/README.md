@@ -1,5 +1,4 @@
-Leptosphaeria rimalis Niessl SPECIES
-=======
+# Leptosphaeria rimalis Niessl SPECIES
 
 #### Status
 ACCEPTED

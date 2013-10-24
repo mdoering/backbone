@@ -1,5 +1,4 @@
-Phoma erythrella Thüm. SPECIES
-=======
+# Phoma erythrella Thüm. SPECIES
 
 #### Status
 ACCEPTED

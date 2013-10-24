@@ -1,8 +1,7 @@
-Pannaria moseni C.W. Dodge SPECIES
-=======
+# Pannaria mosenii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pannaria moseni C.W. Dodge
+Pannaria mosenii C.W. Dodge
 
 ### Remarks
 null

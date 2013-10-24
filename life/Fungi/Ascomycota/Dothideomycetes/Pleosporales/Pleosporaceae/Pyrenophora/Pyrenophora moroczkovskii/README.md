@@ -1,5 +1,4 @@
-Pyrenophora moroczkovskii Gucevic SPECIES
-=======
+# Pyrenophora moroczkovskii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Arcyria stellfeldi Hertel SPECIES
-=======
+# Arcyria stellfeldii Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Dusenia 5: 122 (1954)
 
 #### Original name
-Arcyria stellfeldi Hertel
+Arcyria stellfeldii Hertel
 
 ### Remarks
 null

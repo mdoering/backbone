@@ -1,5 +1,4 @@
-Caeoma apocyni McAlpine SPECIES
-=======
+# Caeoma apocyni McAlpine SPECIES
 
 #### Status
 ACCEPTED

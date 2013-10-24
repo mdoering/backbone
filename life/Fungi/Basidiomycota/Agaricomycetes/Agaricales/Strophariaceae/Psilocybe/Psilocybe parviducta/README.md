@@ -1,5 +1,4 @@
-Psilocybe parviducta (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe parviducta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulasnella traumatica (Bourdot & Galzin) Sacc. & Trotter SPECIES
-=======
+# Tulasnella traumatica (Bourdot & Galzin) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

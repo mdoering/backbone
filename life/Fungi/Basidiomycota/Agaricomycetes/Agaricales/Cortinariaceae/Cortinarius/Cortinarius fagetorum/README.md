@@ -1,5 +1,4 @@
-Cortinarius fagetorum M.M. Moser ex M.M. Moser SPECIES
-=======
+# Cortinarius fagetorum M.M. Moser ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

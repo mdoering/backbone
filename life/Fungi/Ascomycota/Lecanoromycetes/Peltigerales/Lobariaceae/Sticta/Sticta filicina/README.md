@@ -1,5 +1,4 @@
-Sticta filicina f. filicina FORM
-=======
+# Sticta filicina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Method. Lich. 275 (1803)
+null
 
 #### Original name
-Sticta filicina f. filicina
+null
 
 ### Remarks
 null

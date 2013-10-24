@@ -1,5 +1,4 @@
-Leioligotriletes compactus Timofeev, 1959 SPECIES
-=======
+# Leioligotriletes compactus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

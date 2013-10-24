@@ -1,5 +1,4 @@
-Calyptammina Nagy & Basov, 1998 GENUS
-=======
+# Calyptammina Nagy & Basov, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe echinosimilis (E. Horak) Garrido SPECIES
-=======
+# Inocybe echinosimilis (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

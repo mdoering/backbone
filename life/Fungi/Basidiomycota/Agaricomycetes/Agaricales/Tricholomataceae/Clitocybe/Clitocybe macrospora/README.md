@@ -1,5 +1,4 @@
-Clitocybe macrospora G.Y. Zheng & Loh SPECIES
-=======
+# Clitocybe macrospora G.Y. Zheng & Loh SPECIES
 
 #### Status
 ACCEPTED

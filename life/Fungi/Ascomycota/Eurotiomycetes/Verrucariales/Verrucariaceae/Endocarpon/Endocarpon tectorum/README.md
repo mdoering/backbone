@@ -1,5 +1,4 @@
-Endocarpon tectorum B. de Lesd. SPECIES
-=======
+# Endocarpon tectorum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

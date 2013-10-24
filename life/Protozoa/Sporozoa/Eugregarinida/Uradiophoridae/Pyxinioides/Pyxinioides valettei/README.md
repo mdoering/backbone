@@ -1,8 +1,7 @@
-Gregarina valettei Nussbaum, 1890 SPECIES
-=======
+# Pyxinioides valettei (Nussbaum, 1890) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

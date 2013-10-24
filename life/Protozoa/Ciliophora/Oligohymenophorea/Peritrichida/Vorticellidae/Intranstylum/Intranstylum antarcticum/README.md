@@ -1,5 +1,4 @@
-Intranstylum antarcticum Wilbert & Song, 2005 SPECIES
-=======
+# Intranstylum antarcticum Wilbert & Song, 2005 SPECIES
 
 #### Status
 ACCEPTED

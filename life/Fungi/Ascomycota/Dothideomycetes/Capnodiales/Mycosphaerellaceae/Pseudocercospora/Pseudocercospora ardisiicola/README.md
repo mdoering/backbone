@@ -1,5 +1,4 @@
-Pseudocercospora ardisiicola B.K. Gupta & Kamal SPECIES
-=======
+# Pseudocercospora ardisiicola B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

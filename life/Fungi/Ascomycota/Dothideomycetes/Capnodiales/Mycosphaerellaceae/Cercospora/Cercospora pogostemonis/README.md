@@ -1,17 +1,16 @@
-Cercospora pogostemonae Chidd. SPECIES
-=======
+# Cercospora pogostemonis S. Chowdhury SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 14: 189 (1962)
 
 #### Original name
-Cercospora pogostemonae Chidd.
+Cercospora pogostemonis S. Chowdhury
 
 ### Remarks
 null

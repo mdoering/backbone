@@ -1,5 +1,4 @@
-Laccaria goossensiae (Beeli) Contu SPECIES
-=======
+# Laccaria goossensiae (Beeli) Contu SPECIES
 
 #### Status
 ACCEPTED

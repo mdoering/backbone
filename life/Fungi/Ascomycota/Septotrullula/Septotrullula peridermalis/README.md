@@ -1,5 +1,4 @@
-Septotrullula peridermalis Höhn. SPECIES
-=======
+# Septotrullula peridermalis Höhn. SPECIES
 
 #### Status
 ACCEPTED

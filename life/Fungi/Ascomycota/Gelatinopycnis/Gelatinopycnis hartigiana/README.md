@@ -1,14 +1,13 @@
-Pseudocenangium hartigianum Allesch., 1896 SPECIES
-=======
+# Gelatinopycnis hartigiana (Allesch.) Dyko & B. Sutton, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. bayer. bot. Ges. 4: 36 (1896)
+Can. J. Bot. 57(4): 375 (1979)
 
 #### Original name
 Pseudocenangium hartigianum Allesch., 1896

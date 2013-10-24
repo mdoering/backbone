@@ -1,5 +1,4 @@
-Porina austriaca (Körb.) Arnold SPECIES
-=======
+# Porina austriaca (Körb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

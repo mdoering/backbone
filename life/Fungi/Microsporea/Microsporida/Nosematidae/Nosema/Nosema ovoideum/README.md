@@ -1,5 +1,4 @@
-Nosema ovoideum (Thélohan) Labbé SPECIES
-=======
+# Nosema ovoideum (Thélohan) Labbé SPECIES
 
 #### Status
 ACCEPTED

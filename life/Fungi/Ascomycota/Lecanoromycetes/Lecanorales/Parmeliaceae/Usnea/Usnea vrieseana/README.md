@@ -1,5 +1,4 @@
-Usnea vrieseana Mont. & Bosch SPECIES
-=======
+# Usnea vrieseana Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

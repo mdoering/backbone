@@ -1,14 +1,13 @@
-Chiodecton micrographum (Nyl.) Zahlbr. SPECIES
-=======
+# Enterographa micrographa (Nyl.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 480 (1923)
+Repert. Spec. Nov. Regni Veg. 43: 56 (1938)
 
 #### Original name
 Stigmidium micrographum Nyl.

@@ -1,5 +1,4 @@
-Mycena tenuipes Robich SPECIES
-=======
+# Mycena tenuipes Robich SPECIES
 
 #### Status
 ACCEPTED

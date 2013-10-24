@@ -1,14 +1,13 @@
-Endophragmia australiensis G.W. Beaton & M.B. Ellis, 1966 SPECIES
-=======
+# Melanocephala australiensis (G.W. Beaton & M.B. Ellis) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ellis, Mycol. Pap. 106: 54 (1966)
+N. Z. Jl Bot. 17(2): 169 (1979)
 
 #### Original name
 Endophragmia australiensis G.W. Beaton & M.B. Ellis, 1966

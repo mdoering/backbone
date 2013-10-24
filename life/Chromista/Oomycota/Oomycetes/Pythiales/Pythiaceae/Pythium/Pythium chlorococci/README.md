@@ -1,5 +1,4 @@
-Pythium chlorococci Lohde SPECIES
-=======
+# Pythium chlorococci Lohde SPECIES
 
 #### Status
 ACCEPTED

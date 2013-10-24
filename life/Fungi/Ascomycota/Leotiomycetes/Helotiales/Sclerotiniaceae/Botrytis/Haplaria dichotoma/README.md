@@ -1,5 +1,4 @@
-Haplaria dichotoma Sawada SPECIES
-=======
+# Haplaria dichotoma Sawada SPECIES
 
 #### Status
 ACCEPTED

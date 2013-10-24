@@ -1,5 +1,4 @@
-Placopsilina bradyi SPECIES
-=======
+# Placopsilina bradyi SPECIES
 
 #### Status
 ACCEPTED

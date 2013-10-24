@@ -1,5 +1,4 @@
-Rhytismites hederae (Heer) Mesch. SPECIES
-=======
+# Rhytismites hederae (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

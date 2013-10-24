@@ -1,5 +1,4 @@
-Fissurina pseudostromatica Lücking & Rivas Plata SPECIES
-=======
+# Fissurina pseudostromatica Lücking & Rivas Plata SPECIES
 
 #### Status
 ACCEPTED

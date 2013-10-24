@@ -1,5 +1,4 @@
-Alternaria angustiovoidea E.G. Simmons, 1986 SPECIES
-=======
+# Alternaria angustiovoidea E.G. Simmons, 1986 SPECIES
 
 #### Status
 ACCEPTED

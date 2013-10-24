@@ -1,14 +1,13 @@
-Albugo capparidis (de Bary) Kuntze SPECIES
-=======
+# Albugo capparis (de Bary) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 658 (1891)
 
 #### Original name
 Cystopus capparis de Bary

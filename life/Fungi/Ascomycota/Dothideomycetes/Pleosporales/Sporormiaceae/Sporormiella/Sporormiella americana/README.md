@@ -1,5 +1,4 @@
-Sporormiella americana (Griffiths) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella americana (Griffiths) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

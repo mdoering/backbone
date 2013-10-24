@@ -1,8 +1,7 @@
-Coccidium lucidum Labbé, 1893 SPECIES
-=======
+# Goussia lucida (Labbé, 1893) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

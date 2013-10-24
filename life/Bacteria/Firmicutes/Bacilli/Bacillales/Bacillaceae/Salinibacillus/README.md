@@ -1,5 +1,4 @@
-Salinibacillus Ren & Zhou, 2005 GENUS
-=======
+# Salinibacillus Ren & Zhou, 2005 GENUS
 
 #### Status
 ACCEPTED

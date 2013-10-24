@@ -1,5 +1,4 @@
-Lactarius alachuanus var. alachuanus VARIETY
-=======
+# Lactarius alachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 30: 360 (1938)
 
 #### Original name
-Lactarius alachuanus var. alachuanus
+Lactarius alachuanus Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Catillaria ophthalmocarpa Vain. SPECIES
-=======
+# Catillaria ophthalmocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

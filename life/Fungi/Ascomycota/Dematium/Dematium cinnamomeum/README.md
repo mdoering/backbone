@@ -1,5 +1,4 @@
-Dematium cinnamomeum Schwein. SPECIES
-=======
+# Dematium cinnamomeum Schwein. SPECIES
 
 #### Status
 ACCEPTED

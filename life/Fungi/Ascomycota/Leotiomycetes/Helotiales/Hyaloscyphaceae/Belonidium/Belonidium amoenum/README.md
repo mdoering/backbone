@@ -1,5 +1,4 @@
-Belonidium amoenum Speg. SPECIES
-=======
+# Belonidium amoenum Speg. SPECIES
 
 #### Status
 ACCEPTED

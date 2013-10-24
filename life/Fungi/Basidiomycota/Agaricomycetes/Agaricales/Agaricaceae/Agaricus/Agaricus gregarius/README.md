@@ -1,5 +1,4 @@
-Agaricus gregarius Blonski, 1889 SPECIES
-=======
+# Agaricus gregarius Blonski, 1889 SPECIES
 
 #### Status
 ACCEPTED

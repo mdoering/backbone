@@ -1,5 +1,4 @@
-Krassnigia GENUS
-=======
+# Krassnigia GENUS
 
 #### Status
 ACCEPTED

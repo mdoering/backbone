@@ -1,5 +1,4 @@
-Cladococcus cervicornis Haeckel, 1860 SPECIES
-=======
+# Cladococcus cervicornis Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

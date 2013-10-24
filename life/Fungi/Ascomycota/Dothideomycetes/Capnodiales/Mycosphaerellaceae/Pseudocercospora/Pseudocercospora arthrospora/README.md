@@ -1,5 +1,4 @@
-Pseudocercospora arthrospora D.J. Soares, R.W. Barreto & U. Braun SPECIES
-=======
+# Pseudocercospora arthrospora D.J. Soares, R.W. Barreto & U. Braun SPECIES
 
 #### Status
 ACCEPTED

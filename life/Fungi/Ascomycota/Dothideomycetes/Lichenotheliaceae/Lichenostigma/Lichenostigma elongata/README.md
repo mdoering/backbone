@@ -1,5 +1,4 @@
-Lichenostigma elongata Nav.-Ros. & Hafellner SPECIES
-=======
+# Lichenostigma elongata Nav.-Ros. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sillia theae Hara SPECIES
-=======
+# Sillia theae Hara SPECIES
 
 #### Status
 ACCEPTED

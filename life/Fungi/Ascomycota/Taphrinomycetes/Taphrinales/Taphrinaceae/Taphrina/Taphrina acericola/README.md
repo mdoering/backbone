@@ -1,5 +1,4 @@
-Taphrina acericola C. Massal. SPECIES
-=======
+# Taphrina acericola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium tanganyikeanum (Zundel) Vánky SPECIES
-=======
+# Sporisorium tanganyikeanum (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

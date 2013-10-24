@@ -1,5 +1,4 @@
-Phoma pectinata Dearn. & House SPECIES
-=======
+# Phoma pectinata Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

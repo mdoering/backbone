@@ -1,5 +1,4 @@
-Poronia macrospora Peck SPECIES
-=======
+# Poronia macrospora Peck SPECIES
 
 #### Status
 ACCEPTED

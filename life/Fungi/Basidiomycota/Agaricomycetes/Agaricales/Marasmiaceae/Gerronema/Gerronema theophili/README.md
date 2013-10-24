@@ -1,5 +1,4 @@
-Gerronema theophili Singer SPECIES
-=======
+# Gerronema theophili Singer SPECIES
 
 #### Status
 ACCEPTED

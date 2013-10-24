@@ -1,5 +1,4 @@
-Podospora natalitia (Speg.) Niessl SPECIES
-=======
+# Podospora natalitia (Speg.) Niessl SPECIES
 
 #### Status
 ACCEPTED

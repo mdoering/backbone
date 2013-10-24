@@ -1,5 +1,4 @@
-Parmeliella fuscata P.M. Jørg. SPECIES
-=======
+# Parmeliella fuscata P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus pentagonosporus Bogart SPECIES
-=======
+# Coprinus pentagonosporus Bogart SPECIES
 
 #### Status
 ACCEPTED

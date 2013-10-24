@@ -1,5 +1,4 @@
-Pseudocercospora cassiae-fistulae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora cassiae-fistulae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

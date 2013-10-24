@@ -1,8 +1,7 @@
-Vibrio damsela Love et al., 1982 SPECIES
-=======
+# Photobacterium damselae SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

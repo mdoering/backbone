@@ -1,5 +1,4 @@
-Rhabdospora erythraeae Naumov SPECIES
-=======
+# Rhabdospora erythraeae Naumov SPECIES
 
 #### Status
 ACCEPTED

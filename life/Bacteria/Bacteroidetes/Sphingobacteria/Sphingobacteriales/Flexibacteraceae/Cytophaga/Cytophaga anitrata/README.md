@@ -1,5 +1,4 @@
-Cytophaga anitrata SPECIES
-=======
+# Cytophaga anitrata SPECIES
 
 #### Status
 ACCEPTED

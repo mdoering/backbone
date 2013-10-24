@@ -1,5 +1,4 @@
-Heptameria uncinata (Niessl) Rehm SPECIES
-=======
+# Heptameria uncinata (Niessl) Rehm SPECIES
 
 #### Status
 ACCEPTED

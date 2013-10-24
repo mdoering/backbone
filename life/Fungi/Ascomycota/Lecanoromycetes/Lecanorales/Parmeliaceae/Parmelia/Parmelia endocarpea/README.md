@@ -1,5 +1,4 @@
-Parmelia endocarpea Fr. SPECIES
-=======
+# Parmelia endocarpea Fr. SPECIES
 
 #### Status
 ACCEPTED

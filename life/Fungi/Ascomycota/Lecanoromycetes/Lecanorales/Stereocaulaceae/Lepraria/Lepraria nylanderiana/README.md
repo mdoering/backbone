@@ -1,5 +1,4 @@
-Lepraria nylanderiana Kümmerl. & Leuckert SPECIES
-=======
+# Lepraria nylanderiana Kümmerl. & Leuckert SPECIES
 
 #### Status
 ACCEPTED

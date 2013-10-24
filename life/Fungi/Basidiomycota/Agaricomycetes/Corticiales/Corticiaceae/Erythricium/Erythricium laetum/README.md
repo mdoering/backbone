@@ -1,17 +1,16 @@
-Corticium laetum (P. Karst.) Bres., 1903 SPECIES
-=======
+# Erythricium laetum (P. Karst.) J. Erikss. & Hjortstam, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 64(2): 166 (1970)
 
 #### Original name
-null
+Hyphoderma laetum P. Karst., 1889
 
 ### Remarks
 null

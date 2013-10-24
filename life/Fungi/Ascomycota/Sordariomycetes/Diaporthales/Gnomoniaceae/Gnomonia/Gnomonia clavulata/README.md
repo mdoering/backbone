@@ -1,5 +1,4 @@
-Gnomonia clavulata Ellis SPECIES
-=======
+# Gnomonia clavulata Ellis SPECIES
 
 #### Status
 ACCEPTED

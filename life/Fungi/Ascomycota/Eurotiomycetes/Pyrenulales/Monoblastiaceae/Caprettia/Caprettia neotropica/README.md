@@ -1,5 +1,4 @@
-Caprettia neotropica Lücking & Sérus. SPECIES
-=======
+# Caprettia neotropica Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

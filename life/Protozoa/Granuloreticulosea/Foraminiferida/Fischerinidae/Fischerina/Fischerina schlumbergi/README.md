@@ -1,5 +1,4 @@
-Fischerina schlumbergi (Sidebottom) SPECIES
-=======
+# Fischerina schlumbergi (Sidebottom) SPECIES
 
 #### Status
 ACCEPTED

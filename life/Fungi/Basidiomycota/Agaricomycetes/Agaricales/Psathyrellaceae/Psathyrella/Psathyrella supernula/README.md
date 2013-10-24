@@ -1,5 +1,4 @@
-Psathyrella supernula (Britzelm.) Örstadius & Enderle SPECIES
-=======
+# Psathyrella supernula (Britzelm.) Örstadius & Enderle SPECIES
 
 #### Status
 ACCEPTED

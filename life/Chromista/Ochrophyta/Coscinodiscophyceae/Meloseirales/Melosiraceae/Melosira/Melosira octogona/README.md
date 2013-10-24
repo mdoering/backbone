@@ -1,5 +1,4 @@
-Melosira octogona Schmidt SPECIES
-=======
+# Melosira octogona Schmidt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothamnion confervicola Kütz. SPECIES
-=======
+# Mycothamnion confervicola Kütz. SPECIES
 
 #### Status
 ACCEPTED

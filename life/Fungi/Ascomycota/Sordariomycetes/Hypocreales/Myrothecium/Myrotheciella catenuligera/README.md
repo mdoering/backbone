@@ -1,5 +1,4 @@
-Myrotheciella catenuligera Speg. SPECIES
-=======
+# Myrotheciella catenuligera Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicymatia lichenicola (C. Massal.) Sacc. SPECIES
-=======
+# Epicymatia lichenicola (C. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

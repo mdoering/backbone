@@ -1,5 +1,4 @@
-Hysteropezizella caricis (Peck) Syd. SPECIES
-=======
+# Hysteropezizella caricis (Peck) Syd. SPECIES
 
 #### Status
 ACCEPTED

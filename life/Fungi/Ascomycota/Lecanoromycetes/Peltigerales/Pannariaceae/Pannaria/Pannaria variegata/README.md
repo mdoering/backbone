@@ -1,5 +1,4 @@
-Pannaria variegata Stirt. SPECIES
-=======
+# Pannaria variegata Stirt. SPECIES
 
 #### Status
 ACCEPTED

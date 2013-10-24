@@ -1,5 +1,4 @@
-Scolecopeltidium mirabile F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium mirabile F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

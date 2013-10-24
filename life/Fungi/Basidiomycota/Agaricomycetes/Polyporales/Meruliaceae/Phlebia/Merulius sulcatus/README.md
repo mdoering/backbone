@@ -1,5 +1,4 @@
-Merulius sulcatus Peck SPECIES
-=======
+# Merulius sulcatus Peck SPECIES
 
 #### Status
 ACCEPTED

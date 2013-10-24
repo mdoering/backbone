@@ -1,5 +1,4 @@
-Cortinarius aureifer f. aureifer FORM
-=======
+# Cortinarius aureifer Reumaux SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires, Hors-Serie 1: 145 (1997)
 
 #### Original name
-Cortinarius aureifer f. aureifer
+Cortinarius aureifer Reumaux
 
 ### Remarks
 null

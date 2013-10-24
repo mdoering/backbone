@@ -1,5 +1,4 @@
-Agrocybe cameobrunneus Watling SPECIES
-=======
+# Agrocybe cameobrunneus Watling SPECIES
 
 #### Status
 ACCEPTED

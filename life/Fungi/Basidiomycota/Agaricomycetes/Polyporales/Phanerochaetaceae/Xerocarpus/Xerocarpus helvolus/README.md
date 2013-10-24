@@ -1,5 +1,4 @@
-Xerocarpus helvolus P. Karst. SPECIES
-=======
+# Xerocarpus helvolus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

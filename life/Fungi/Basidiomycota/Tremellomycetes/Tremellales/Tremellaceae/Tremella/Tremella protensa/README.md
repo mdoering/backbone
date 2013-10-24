@@ -1,5 +1,4 @@
-Tremella protensa Berk. SPECIES
-=======
+# Tremella protensa Berk. SPECIES
 
 #### Status
 ACCEPTED

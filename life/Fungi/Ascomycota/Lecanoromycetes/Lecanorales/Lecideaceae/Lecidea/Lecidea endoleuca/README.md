@@ -1,5 +1,4 @@
-Lecidea endoleuca (Nyl.) Nyl. SPECIES
-=======
+# Lecidea endoleuca (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

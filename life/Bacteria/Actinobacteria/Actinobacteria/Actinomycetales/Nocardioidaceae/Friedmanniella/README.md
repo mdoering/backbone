@@ -1,5 +1,4 @@
-Friedmanniella Schumann et al., 1997 GENUS
-=======
+# Friedmanniella Schumann et al., 1997 GENUS
 
 #### Status
 ACCEPTED

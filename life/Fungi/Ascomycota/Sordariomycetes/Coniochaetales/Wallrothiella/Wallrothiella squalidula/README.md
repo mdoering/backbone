@@ -1,5 +1,4 @@
-Wallrothiella squalidula (Cooke & Peck) Sacc. SPECIES
-=======
+# Wallrothiella squalidula (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

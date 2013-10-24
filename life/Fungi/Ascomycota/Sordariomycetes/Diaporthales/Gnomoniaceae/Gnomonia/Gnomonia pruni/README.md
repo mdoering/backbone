@@ -1,5 +1,4 @@
-Gnomonia pruni Fuckel, 1870 SPECIES
-=======
+# Gnomonia pruni Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Telastromataceae FAMILY
-=======
+# Telastromataceae FAMILY
 
 #### Status
 ACCEPTED

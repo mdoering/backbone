@@ -1,5 +1,4 @@
-Lalaria arrabidae Á. Fonseca, J. Inácio & M.G. Rodrigues SPECIES
-=======
+# Lalaria arrabidae Á. Fonseca, J. Inácio & M.G. Rodrigues SPECIES
 
 #### Status
 ACCEPTED

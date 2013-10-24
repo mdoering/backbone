@@ -1,5 +1,4 @@
-Brachysporium noblesiae G.P. White & Illman SPECIES
-=======
+# Brachysporium noblesiae G.P. White & Illman SPECIES
 
 #### Status
 ACCEPTED

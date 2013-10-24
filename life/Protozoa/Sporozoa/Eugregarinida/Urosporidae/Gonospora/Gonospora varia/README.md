@@ -1,5 +1,4 @@
-Gonospora varia (Léger, 1892) SPECIES
-=======
+# Gonospora varia (Léger, 1892) SPECIES
 
 #### Status
 ACCEPTED

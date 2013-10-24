@@ -1,5 +1,4 @@
-Endoscrinium pharo S. Duxbury SPECIES
-=======
+# Endoscrinium pharo S. Duxbury SPECIES
 
 #### Status
 ACCEPTED

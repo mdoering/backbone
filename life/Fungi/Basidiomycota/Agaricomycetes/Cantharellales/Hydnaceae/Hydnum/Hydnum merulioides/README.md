@@ -1,5 +1,4 @@
-Hydnum merulioides Berk. & Broome SPECIES
-=======
+# Hydnum merulioides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

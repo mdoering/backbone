@@ -1,5 +1,4 @@
-Marasmius rhodocephalus var. rhodocephalus VARIETY
-=======
+# Marasmius rhodocephalus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius rhodocephalus var. rhodocephalus
+Marasmius rhodocephalus Fr.
 
 ### Remarks
 null

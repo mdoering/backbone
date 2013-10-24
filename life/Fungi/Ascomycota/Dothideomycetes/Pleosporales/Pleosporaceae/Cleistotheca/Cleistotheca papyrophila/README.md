@@ -1,5 +1,4 @@
-Cleistotheca papyrophila Zukal SPECIES
-=======
+# Cleistotheca papyrophila Zukal SPECIES
 
 #### Status
 ACCEPTED

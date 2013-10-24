@@ -1,17 +1,16 @@
-Aspergillus luchuensis var. luchuensis VARIETY
-=======
+# Aspergillus awamori Nakaz., 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Coll. of Sci. , Imp. Univ. Japan 13: 469 (1901)
+Report of the Department of Agriculture, Government Research Institute of Formosa 4: (1915)
 
 #### Original name
-Aspergillus luchuensis var. luchuensis
+Aspergillus awamori Nakaz., 1915
 
 ### Remarks
 null

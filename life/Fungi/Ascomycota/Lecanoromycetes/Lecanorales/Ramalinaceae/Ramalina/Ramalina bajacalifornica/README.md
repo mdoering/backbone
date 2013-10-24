@@ -1,5 +1,4 @@
-Ramalina bajacalifornica Bowler & Rundel SPECIES
-=======
+# Ramalina bajacalifornica Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrodermataceae Locq. ex Currah FAMILY
-=======
+# Arthrodermataceae Locq. ex Currah FAMILY
 
 #### Status
 ACCEPTED

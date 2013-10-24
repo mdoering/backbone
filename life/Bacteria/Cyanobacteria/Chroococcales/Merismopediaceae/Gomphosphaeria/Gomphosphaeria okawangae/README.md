@@ -1,5 +1,4 @@
-Gomphosphaeria okawangae Komárek & Cronberg SPECIES
-=======
+# Gomphosphaeria okawangae Komárek & Cronberg SPECIES
 
 #### Status
 ACCEPTED

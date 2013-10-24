@@ -1,5 +1,4 @@
-Conocybe alachuana (Murrill) Hesler SPECIES
-=======
+# Conocybe alachuana (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

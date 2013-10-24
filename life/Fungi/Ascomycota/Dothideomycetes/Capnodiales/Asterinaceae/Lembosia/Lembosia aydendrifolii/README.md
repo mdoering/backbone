@@ -1,5 +1,4 @@
-Lembosia aydendrifolii Bat. & J.L. Bezerra SPECIES
-=======
+# Lembosia aydendrifolii Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

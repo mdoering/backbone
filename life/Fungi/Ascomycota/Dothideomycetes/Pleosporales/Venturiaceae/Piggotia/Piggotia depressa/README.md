@@ -1,5 +1,4 @@
-Piggotia depressa Dearn. SPECIES
-=======
+# Piggotia depressa Dearn. SPECIES
 
 #### Status
 ACCEPTED

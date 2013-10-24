@@ -1,5 +1,4 @@
-Rhabdospora hortensis (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora hortensis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

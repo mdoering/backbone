@@ -1,5 +1,4 @@
-Pyrenophora setigera (Niessl) Sacc. SPECIES
-=======
+# Pyrenophora setigera (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora uromycestri (Pollack) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora uromycestri (Pollack) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

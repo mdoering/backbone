@@ -1,5 +1,4 @@
-Sphaerellopsis anomala Nag Raj SPECIES
-=======
+# Sphaerellopsis anomala Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Melanospora mangini Vincens SPECIES
-=======
+# Melanospora manginii Vincens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanospora mangini Vincens
+Melanospora manginii Vincens
 
 ### Remarks
 null

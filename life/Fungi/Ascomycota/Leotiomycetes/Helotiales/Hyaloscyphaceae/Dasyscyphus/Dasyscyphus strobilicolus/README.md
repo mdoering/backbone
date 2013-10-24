@@ -1,8 +1,7 @@
-Dasyscypha strobilicolus Bäumler SPECIES
-=======
+# Dasyscyphus strobilicolus Bäumler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha strobilicolus Bäumler
+Dasyscyphus strobilicolus Bäumler
 
 ### Remarks
 null

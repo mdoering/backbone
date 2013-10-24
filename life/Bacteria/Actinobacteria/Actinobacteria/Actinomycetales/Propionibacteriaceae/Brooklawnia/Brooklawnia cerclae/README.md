@@ -1,5 +1,4 @@
-Brooklawnia cerclae Rainey et al., 2006 (authorship reads Rainey, da Costa and Moe) SPECIES
-=======
+# Brooklawnia cerclae Rainey et al., 2006 (authorship reads Rainey, da Costa and Moe) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hippoperdon crucibulum Mont. SPECIES
-=======
+# Hippoperdon crucibulum Mont. SPECIES
 
 #### Status
 ACCEPTED

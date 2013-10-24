@@ -1,5 +1,4 @@
-Thraustochytrium rossii Bahnweg & Sparrow, 1974 SPECIES
-=======
+# Thraustochytrium rossii Bahnweg & Sparrow, 1974 SPECIES
 
 #### Status
 ACCEPTED

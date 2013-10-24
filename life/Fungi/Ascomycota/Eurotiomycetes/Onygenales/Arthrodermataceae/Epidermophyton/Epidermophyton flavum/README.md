@@ -1,5 +1,4 @@
-Epidermophyton flavum Kesteven SPECIES
-=======
+# Epidermophyton flavum Kesteven SPECIES
 
 #### Status
 ACCEPTED

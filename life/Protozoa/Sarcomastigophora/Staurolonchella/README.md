@@ -1,5 +1,4 @@
-Staurolonchella Haeckel, 1887 GENUS
-=======
+# Staurolonchella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

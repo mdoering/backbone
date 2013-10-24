@@ -1,5 +1,4 @@
-Eutypella staphyleae Dearn. & House SPECIES
-=======
+# Eutypella staphyleae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

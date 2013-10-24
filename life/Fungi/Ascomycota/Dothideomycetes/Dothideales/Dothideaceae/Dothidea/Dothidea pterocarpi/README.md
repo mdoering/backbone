@@ -1,5 +1,4 @@
-Dothidea pterocarpi Syd. SPECIES
-=======
+# Dothidea pterocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synangium GENUS
-=======
+# Synangium GENUS
 
 #### Status
 ACCEPTED

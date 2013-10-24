@@ -1,5 +1,4 @@
-Rhinosporidaceae FAMILY
-=======
+# Rhinosporidaceae FAMILY
 
 #### Status
 ACCEPTED

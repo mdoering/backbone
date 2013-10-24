@@ -1,5 +1,4 @@
-Sparrowmyces GENUS
-=======
+# Sparrowmyces GENUS
 
 #### Status
 ACCEPTED

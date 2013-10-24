@@ -1,5 +1,4 @@
-Gloeocystidiellum tabacinum Sheng H. Wu, 1996 SPECIES
-=======
+# Gloeocystidiellum tabacinum Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

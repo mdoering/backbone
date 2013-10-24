@@ -1,5 +1,4 @@
-Paramoeba perniciosa SPECIES
-=======
+# Paramoeba perniciosa SPECIES
 
 #### Status
 ACCEPTED

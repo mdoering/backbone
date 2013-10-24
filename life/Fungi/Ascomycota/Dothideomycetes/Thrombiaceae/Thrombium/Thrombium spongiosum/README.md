@@ -1,5 +1,4 @@
-Thrombium spongiosum Wallr. SPECIES
-=======
+# Thrombium spongiosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citrobacter youngae Brenner et al., 1993 SPECIES
-=======
+# Citrobacter youngae Brenner et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

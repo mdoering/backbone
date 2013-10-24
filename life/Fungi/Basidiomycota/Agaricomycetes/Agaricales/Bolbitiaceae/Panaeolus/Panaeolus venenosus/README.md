@@ -1,5 +1,4 @@
-Panaeolus venenosus Murrill SPECIES
-=======
+# Panaeolus venenosus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum ricini Petch SPECIES
-=======
+# Colletotrichum ricini Petch SPECIES
 
 #### Status
 ACCEPTED

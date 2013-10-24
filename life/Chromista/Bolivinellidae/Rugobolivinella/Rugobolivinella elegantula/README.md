@@ -1,5 +1,4 @@
-Rugobolivinella elegantula Hayward, 1990 SPECIES
-=======
+# Rugobolivinella elegantula Hayward, 1990 SPECIES
 
 #### Status
 ACCEPTED

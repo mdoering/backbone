@@ -1,14 +1,13 @@
-Rubinoboletus phlebopoides Heinem. & Rammeloo, 1983 SPECIES
-=======
+# Chalciporus phlebopoides (Heinem. & Rammeloo) Klofac & Krisai, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Nat. Belg. 53(1/2): 296 (1983)
+Öst. Z. Pilzk. 15: 51 (2006)
 
 #### Original name
 Rubinoboletus phlebopoides Heinem. & Rammeloo, 1983

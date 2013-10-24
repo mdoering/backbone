@@ -1,8 +1,7 @@
-Podium Hovasse, 1932 GENUS
-=======
+# Podamphora Gemeinhardt, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

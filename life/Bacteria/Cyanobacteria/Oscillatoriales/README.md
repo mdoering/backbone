@@ -1,5 +1,4 @@
-Oscillatoriales Cavalier-Smith, 2002 ORDER
-=======
+# Oscillatoriales Cavalier-Smith, 2002 ORDER
 
 #### Status
 ACCEPTED

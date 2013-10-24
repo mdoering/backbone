@@ -1,5 +1,4 @@
-Lysurus borealis var. borealis VARIETY
-=======
+# Lysurus borealis (Burt) Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 41(Beibl. ): 172 (1902)
 
 #### Original name
-Lysurus borealis var. borealis
+Anthurus borealis Burt
 
 ### Remarks
 null

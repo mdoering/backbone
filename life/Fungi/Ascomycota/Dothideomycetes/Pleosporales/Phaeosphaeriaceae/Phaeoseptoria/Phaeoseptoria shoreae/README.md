@@ -1,5 +1,4 @@
-Phaeoseptoria shoreae R.K. Verma, Soni & N. Sharma SPECIES
-=======
+# Phaeoseptoria shoreae R.K. Verma, Soni & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

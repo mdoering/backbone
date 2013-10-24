@@ -1,5 +1,4 @@
-Termitariopsis M. Blackw., Samson & Kimbr. GENUS
-=======
+# Termitariopsis M. Blackw., Samson & Kimbr. GENUS
 
 #### Status
 ACCEPTED

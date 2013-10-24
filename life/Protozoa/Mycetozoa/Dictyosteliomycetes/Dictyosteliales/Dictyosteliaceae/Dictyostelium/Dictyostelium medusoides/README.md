@@ -1,5 +1,4 @@
-Dictyostelium medusoides Vadell, M.T. Holmes & Cavender, 1995 SPECIES
-=======
+# Dictyostelium medusoides Vadell, M.T. Holmes & Cavender, 1995 SPECIES
 
 #### Status
 ACCEPTED

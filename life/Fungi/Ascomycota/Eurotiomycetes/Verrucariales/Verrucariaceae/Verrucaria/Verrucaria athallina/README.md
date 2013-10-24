@@ -1,5 +1,4 @@
-Verrucaria athallina (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Verrucaria athallina (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

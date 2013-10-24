@@ -1,5 +1,4 @@
-Barnettozyma vustinii Yurkov, A.M. Schäfer & Begerow, 2010 SPECIES
-=======
+# Barnettozyma vustinii Yurkov, A.M. Schäfer & Begerow, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyothyriella mucosa (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
-=======
+# Dictyothyriella mucosa (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

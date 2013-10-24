@@ -1,5 +1,4 @@
-Strelitziana africana Arzanlou & Crous, 2006 SPECIES
-=======
+# Strelitziana africana Arzanlou & Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

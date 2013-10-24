@@ -1,5 +1,4 @@
-Aprobolocysta varigranosa Duxbury SPECIES
-=======
+# Aprobolocysta varigranosa Duxbury SPECIES
 
 #### Status
 ACCEPTED

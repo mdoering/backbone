@@ -1,5 +1,4 @@
-Striadiporites minor (Z.C. Song & Z.H. Sun) Z.C. Song SPECIES
-=======
+# Striadiporites minor (Z.C. Song & Z.H. Sun) Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

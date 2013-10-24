@@ -1,8 +1,7 @@
-Gymnopus jamaicense Murrill SPECIES
-=======
+# Gymnopus jamaicensis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gymnopus jamaicense Murrill
+Gymnopus jamaicensis Murrill
 
 ### Remarks
 null

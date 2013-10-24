@@ -1,17 +1,16 @@
-Rosellinia sordaria var. sordaria (Fr.) Rehm VARIETY
-=======
+# Coniochaeta sordaria (Fr.) Petr., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 7: 124 (1953)
 
 #### Original name
-Rosellinia sordaria var. sordaria (Fr.) Rehm
+Sphaeria sordaria Fr., 1823
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea italica B. de Lesd. SPECIES
-=======
+# Lecidea italica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

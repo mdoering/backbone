@@ -1,5 +1,4 @@
-Arrhenia elegans (Pers.) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia elegans (Pers.) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

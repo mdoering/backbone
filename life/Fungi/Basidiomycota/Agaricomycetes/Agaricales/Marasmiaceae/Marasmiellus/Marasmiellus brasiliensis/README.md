@@ -1,5 +1,4 @@
-Marasmiellus brasiliensis (Berk. & Mont.) Singer SPECIES
-=======
+# Marasmiellus brasiliensis (Berk. & Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

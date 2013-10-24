@@ -1,17 +1,16 @@
-Cercosporidium helicteri Soni, Dadwal & Jamaluddin SPECIES
-=======
+# Cercosporidium helicteretis Soni, Dadwal & Jamaluddin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 53(16): 877 (1984)
 
 #### Original name
-Cercosporidium helicteri Soni, Dadwal & Jamaluddin
+Cercosporidium helicteretis Soni, Dadwal & Jamaluddin
 
 ### Remarks
 null

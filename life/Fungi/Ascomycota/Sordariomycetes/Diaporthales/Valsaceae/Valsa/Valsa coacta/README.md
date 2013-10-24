@@ -1,5 +1,4 @@
-Valsa coacta Sacc. & Speg. SPECIES
-=======
+# Valsa coacta Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

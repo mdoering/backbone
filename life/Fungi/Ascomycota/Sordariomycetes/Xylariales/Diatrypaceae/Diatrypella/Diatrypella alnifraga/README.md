@@ -1,5 +1,4 @@
-Diatrypella alnifraga Ces. SPECIES
-=======
+# Diatrypella alnifraga Ces. SPECIES
 
 #### Status
 ACCEPTED

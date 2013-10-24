@@ -1,5 +1,4 @@
-Sphaeria schomburgkii Berk. SPECIES
-=======
+# Sphaeria schomburgkii Berk. SPECIES
 
 #### Status
 ACCEPTED

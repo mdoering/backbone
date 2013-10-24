@@ -1,5 +1,4 @@
-Artostrobium Haeckel, 1887 GENUS
-=======
+# Artostrobium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

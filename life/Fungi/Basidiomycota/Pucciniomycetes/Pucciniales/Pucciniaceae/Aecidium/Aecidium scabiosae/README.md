@@ -1,17 +1,16 @@
-Caeoma scabiosae Dozy & Molk., 1846 SPECIES
-=======
+# Aecidium scabiosae Dozy & Molk., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ned. kruidk. Archf 1(1): 56 (1846)
+Pilze Deutschl. 1: 264 (1882)
 
 #### Original name
-Caeoma scabiosae Dozy & Molk., 1846
+Aecidium scabiosae Dozy & Molk., 1882
 
 ### Remarks
 null

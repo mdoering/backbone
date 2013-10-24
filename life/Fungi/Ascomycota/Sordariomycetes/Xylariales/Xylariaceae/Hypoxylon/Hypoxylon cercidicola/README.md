@@ -1,14 +1,13 @@
-Hypoxylon cercidicolum (Berk. & M.A. Curtis ex Peck) Y.M. Ju & J.D. Rogers SPECIES
-=======
+# Hypoxylon cercidicola (Berk. & M.A. Curtis ex Peck) Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 20: 95 (1996)
 
 #### Original name
 Diatrype cercidicola Berk. & M.A. Curtis ex Peck, 1873

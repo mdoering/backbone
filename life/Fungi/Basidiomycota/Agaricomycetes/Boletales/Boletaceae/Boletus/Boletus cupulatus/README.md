@@ -1,5 +1,4 @@
-Boletus cupulatus anon. SPECIES
-=======
+# Boletus cupulatus anon. SPECIES
 
 #### Status
 ACCEPTED

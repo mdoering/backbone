@@ -1,5 +1,4 @@
-Apiognomonia magnoliae (M.E. Barr) M.E. Barr SPECIES
-=======
+# Apiognomonia magnoliae (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

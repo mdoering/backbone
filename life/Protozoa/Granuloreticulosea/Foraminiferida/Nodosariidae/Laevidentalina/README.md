@@ -1,5 +1,4 @@
-Laevidentalina Loeblich & Tappan, 1986 GENUS
-=======
+# Laevidentalina Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

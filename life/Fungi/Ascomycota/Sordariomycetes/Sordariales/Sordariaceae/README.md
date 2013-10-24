@@ -1,5 +1,4 @@
-Sordariaceae G. Winter FAMILY
-=======
+# Sordariaceae G. Winter FAMILY
 
 #### Status
 ACCEPTED

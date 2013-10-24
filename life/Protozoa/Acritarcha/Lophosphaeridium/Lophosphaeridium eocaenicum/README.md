@@ -1,5 +1,4 @@
-Lophosphaeridium eocaenicum Aristova, 1971 SPECIES
-=======
+# Lophosphaeridium eocaenicum Aristova, 1971 SPECIES
 
 #### Status
 ACCEPTED

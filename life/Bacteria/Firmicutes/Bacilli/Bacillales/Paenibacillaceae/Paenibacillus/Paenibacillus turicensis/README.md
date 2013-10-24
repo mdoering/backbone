@@ -1,5 +1,4 @@
-Paenibacillus turicensis Bosshard et al., 2002 SPECIES
-=======
+# Paenibacillus turicensis Bosshard et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

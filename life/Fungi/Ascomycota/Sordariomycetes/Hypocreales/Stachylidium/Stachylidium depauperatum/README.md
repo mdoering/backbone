@@ -1,5 +1,4 @@
-Stachylidium depauperatum Maire & Sacc. SPECIES
-=======
+# Stachylidium depauperatum Maire & Sacc. SPECIES
 
 #### Status
 ACCEPTED

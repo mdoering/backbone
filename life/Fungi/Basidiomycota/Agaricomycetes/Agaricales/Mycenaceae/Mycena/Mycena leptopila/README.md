@@ -1,5 +1,4 @@
-Mycena leptopila Mont. SPECIES
-=======
+# Mycena leptopila Mont. SPECIES
 
 #### Status
 ACCEPTED

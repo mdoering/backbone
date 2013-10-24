@@ -1,5 +1,4 @@
-Ramularia castilleyae Ellis & Everh. SPECIES
-=======
+# Ramularia castilleyae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

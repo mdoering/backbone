@@ -1,14 +1,13 @@
-Clavaria acutissima Berk., 1850 SPECIES
-=======
+# Ramaria acutissima (Berk.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Montagne, Hist. fis. y Politic. Chile, Bot. 7: 386 (1850)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 554 (1950)
 
 #### Original name
 Clavaria acutissima Berk., 1850

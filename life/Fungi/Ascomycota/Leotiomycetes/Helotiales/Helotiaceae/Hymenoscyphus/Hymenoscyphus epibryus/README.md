@@ -1,5 +1,4 @@
-Hymenoscyphus epibryus (Höhn.) Haluwyn SPECIES
-=======
+# Hymenoscyphus epibryus (Höhn.) Haluwyn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina nipponica Jankowski, 1992 SPECIES
-=======
+# Trichodina nipponica Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

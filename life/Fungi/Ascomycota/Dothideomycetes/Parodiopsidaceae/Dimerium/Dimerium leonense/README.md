@@ -1,5 +1,4 @@
-Dimerium leonense Hansf. SPECIES
-=======
+# Dimerium leonense Hansf. SPECIES
 
 #### Status
 ACCEPTED

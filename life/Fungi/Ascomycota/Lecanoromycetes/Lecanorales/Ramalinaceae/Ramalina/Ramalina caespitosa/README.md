@@ -1,5 +1,4 @@
-Ramalina caespitosa H. Magn. SPECIES
-=======
+# Ramalina caespitosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

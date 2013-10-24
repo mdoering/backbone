@@ -1,5 +1,4 @@
-Gymnomyces sublevisporus Mor.-Arr., Llistos. & L. Romero SPECIES
-=======
+# Gymnomyces sublevisporus Mor.-Arr., Llistos. & L. Romero SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactrodesmium mastigophorum Syd. SPECIES
-=======
+# Bactrodesmium mastigophorum Syd. SPECIES
 
 #### Status
 ACCEPTED

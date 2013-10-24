@@ -1,5 +1,4 @@
-Leptosphaeria carpophila Sacc. SPECIES
-=======
+# Leptosphaeria carpophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

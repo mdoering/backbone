@@ -1,5 +1,4 @@
-Pallidogramme indica A. Dube & Makhija SPECIES
-=======
+# Pallidogramme indica A. Dube & Makhija SPECIES
 
 #### Status
 ACCEPTED

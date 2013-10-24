@@ -1,5 +1,4 @@
-Spiculidendron corallicolum Richardson & Rützler, 1996 SPECIES
-=======
+# Spiculidendron corallicolum Richardson & Rützler, 1996 SPECIES
 
 #### Status
 ACCEPTED

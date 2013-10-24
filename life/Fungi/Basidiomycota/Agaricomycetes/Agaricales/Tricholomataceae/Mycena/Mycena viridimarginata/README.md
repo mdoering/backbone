@@ -1,5 +1,4 @@
-Mycena viridimarginata P. Karst. SPECIES
-=======
+# Mycena viridimarginata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza spiraeae Kirchn. SPECIES
-=======
+# Peziza spiraeae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

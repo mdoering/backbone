@@ -1,5 +1,4 @@
-Dermatocarpon serpentini Servít SPECIES
-=======
+# Dermatocarpon serpentini Servít SPECIES
 
 #### Status
 ACCEPTED

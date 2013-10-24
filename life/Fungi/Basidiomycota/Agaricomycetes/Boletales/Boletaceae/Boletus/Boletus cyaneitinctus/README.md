@@ -1,5 +1,4 @@
-Boletus cyaneitinctus (Murrill) Coker & Beers SPECIES
-=======
+# Boletus cyaneitinctus (Murrill) Coker & Beers SPECIES
 
 #### Status
 ACCEPTED

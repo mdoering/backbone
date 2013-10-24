@@ -1,5 +1,4 @@
-Pseudoplacodium albulum (Nyl.) Motyka SPECIES
-=======
+# Pseudoplacodium albulum (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

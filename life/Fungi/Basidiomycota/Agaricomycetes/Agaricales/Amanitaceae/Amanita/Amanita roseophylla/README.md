@@ -1,5 +1,4 @@
-Amanita roseophylla D.T. Jenkins SPECIES
-=======
+# Amanita roseophylla D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

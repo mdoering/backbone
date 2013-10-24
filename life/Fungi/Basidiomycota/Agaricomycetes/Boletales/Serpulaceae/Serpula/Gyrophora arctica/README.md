@@ -1,5 +1,4 @@
-Gyrophora arctica SPECIES
-=======
+# Gyrophora arctica SPECIES
 
 #### Status
 ACCEPTED

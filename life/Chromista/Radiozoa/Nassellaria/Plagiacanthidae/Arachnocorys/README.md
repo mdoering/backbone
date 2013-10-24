@@ -1,5 +1,4 @@
-Arachnocorys Haeckel, 1860 GENUS
-=======
+# Arachnocorys Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

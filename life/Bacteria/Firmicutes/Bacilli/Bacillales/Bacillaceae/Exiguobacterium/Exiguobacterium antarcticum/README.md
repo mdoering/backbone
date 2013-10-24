@@ -1,5 +1,4 @@
-Exiguobacterium antarcticum Frühling et al., 2002 SPECIES
-=======
+# Exiguobacterium antarcticum Frühling et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

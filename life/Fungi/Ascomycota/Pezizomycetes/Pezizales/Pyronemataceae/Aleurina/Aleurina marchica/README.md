@@ -1,5 +1,4 @@
-Aleurina marchica (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina marchica (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthostigma dimerosporioides Speg. SPECIES
-=======
+# Acanthostigma dimerosporioides Speg. SPECIES
 
 #### Status
 ACCEPTED

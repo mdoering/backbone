@@ -1,5 +1,4 @@
-Oidium hardenbergiae Boesew., 1977 SPECIES
-=======
+# Oidium hardenbergiae Boesew., 1977 SPECIES
 
 #### Status
 ACCEPTED

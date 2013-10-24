@@ -1,5 +1,4 @@
-Dichothrix catalaunica P. González SPECIES
-=======
+# Dichothrix catalaunica P. González SPECIES
 
 #### Status
 ACCEPTED

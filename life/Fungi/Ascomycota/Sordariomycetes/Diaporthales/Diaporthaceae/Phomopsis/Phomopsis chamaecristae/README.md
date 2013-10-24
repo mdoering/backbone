@@ -1,5 +1,4 @@
-Phomopsis chamaecristae Petr. SPECIES
-=======
+# Phomopsis chamaecristae Petr. SPECIES
 
 #### Status
 ACCEPTED

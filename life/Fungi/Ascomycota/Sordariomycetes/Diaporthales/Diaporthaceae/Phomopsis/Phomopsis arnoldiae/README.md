@@ -1,5 +1,4 @@
-Phomopsis arnoldiae B. Sutton SPECIES
-=======
+# Phomopsis arnoldiae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora fuliginosa var. fuliginosa VARIETY
-=======
+# Biatora fuliginosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora fuliginosa var. fuliginosa
+null
 
 ### Remarks
 null

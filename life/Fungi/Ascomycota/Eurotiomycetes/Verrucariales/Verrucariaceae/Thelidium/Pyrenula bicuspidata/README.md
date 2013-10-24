@@ -1,5 +1,4 @@
-Pyrenula bicuspidata Müll. Arg., 1893 SPECIES
-=======
+# Pyrenula bicuspidata Müll. Arg., 1893 SPECIES
 
 #### Status
 DOUBTFUL

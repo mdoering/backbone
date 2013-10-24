@@ -1,5 +1,4 @@
-Guignardia arachidis Punith. SPECIES
-=======
+# Guignardia arachidis Punith. SPECIES
 
 #### Status
 ACCEPTED

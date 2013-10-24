@@ -1,5 +1,4 @@
-Boletus congoensis (Beeli) Heinem. SPECIES
-=======
+# Boletus congoensis (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

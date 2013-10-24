@@ -1,14 +1,13 @@
-Ceriosporella bicalcarata (Ces.) Berl., 1894 SPECIES
-=======
+# Frondispora bicalcarata (Ces.) K.D. Hyde, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 45(2): 208 (1993)
 
 #### Original name
 Sphaerella bicalcarata Ces.

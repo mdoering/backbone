@@ -1,5 +1,4 @@
-Sargassum divaricatum Greville SPECIES
-=======
+# Sargassum divaricatum Greville SPECIES
 
 #### Status
 ACCEPTED

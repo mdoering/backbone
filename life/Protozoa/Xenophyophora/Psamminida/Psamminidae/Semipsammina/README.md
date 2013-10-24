@@ -1,5 +1,4 @@
-Semipsammina Tendal, 1975 GENUS
-=======
+# Semipsammina Tendal, 1975 GENUS
 
 #### Status
 ACCEPTED

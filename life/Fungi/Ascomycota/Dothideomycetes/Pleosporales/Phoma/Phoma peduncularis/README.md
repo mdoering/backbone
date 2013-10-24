@@ -1,5 +1,4 @@
-Phoma peduncularis Sacc. SPECIES
-=======
+# Phoma peduncularis Sacc. SPECIES
 
 #### Status
 ACCEPTED

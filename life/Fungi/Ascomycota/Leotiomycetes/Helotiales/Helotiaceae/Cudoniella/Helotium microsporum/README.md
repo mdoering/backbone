@@ -1,5 +1,4 @@
-Helotium microsporum Velen. SPECIES
-=======
+# Helotium microsporum Velen. SPECIES
 
 #### Status
 ACCEPTED

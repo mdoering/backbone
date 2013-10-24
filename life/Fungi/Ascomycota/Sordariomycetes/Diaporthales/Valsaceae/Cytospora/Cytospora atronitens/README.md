@@ -1,5 +1,4 @@
-Cytospora atronitens Chevall. SPECIES
-=======
+# Cytospora atronitens Chevall. SPECIES
 
 #### Status
 ACCEPTED

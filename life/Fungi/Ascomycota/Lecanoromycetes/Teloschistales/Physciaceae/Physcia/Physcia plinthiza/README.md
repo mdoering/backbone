@@ -1,5 +1,4 @@
-Physcia plinthiza SPECIES
-=======
+# Physcia plinthiza SPECIES
 
 #### Status
 ACCEPTED

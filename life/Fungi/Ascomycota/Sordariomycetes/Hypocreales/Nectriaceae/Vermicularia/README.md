@@ -1,5 +1,4 @@
-Vermicularia E.M. Fries, 1825 GENUS
-=======
+# Vermicularia E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

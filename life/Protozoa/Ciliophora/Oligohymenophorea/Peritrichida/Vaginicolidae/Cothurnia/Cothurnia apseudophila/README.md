@@ -1,5 +1,4 @@
-Cothurnia apseudophila SPECIES
-=======
+# Cothurnia apseudophila SPECIES
 
 #### Status
 ACCEPTED

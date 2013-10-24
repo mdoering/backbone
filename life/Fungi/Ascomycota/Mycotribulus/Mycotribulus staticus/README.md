@@ -1,5 +1,4 @@
-Mycotribulus staticus B. Sutton SPECIES
-=======
+# Mycotribulus staticus B. Sutton SPECIES
 
 #### Status
 ACCEPTED

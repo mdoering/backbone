@@ -1,5 +1,4 @@
-Amphisia capitata SPECIES
-=======
+# Amphisia capitata SPECIES
 
 #### Status
 ACCEPTED

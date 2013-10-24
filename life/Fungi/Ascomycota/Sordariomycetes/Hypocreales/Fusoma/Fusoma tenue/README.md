@@ -1,5 +1,4 @@
-Fusoma tenue Grove SPECIES
-=======
+# Fusoma tenue Grove SPECIES
 
 #### Status
 ACCEPTED

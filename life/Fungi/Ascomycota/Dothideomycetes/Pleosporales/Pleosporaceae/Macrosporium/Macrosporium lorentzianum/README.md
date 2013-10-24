@@ -1,5 +1,4 @@
-Macrosporium lorentzianum Thüm. SPECIES
-=======
+# Macrosporium lorentzianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

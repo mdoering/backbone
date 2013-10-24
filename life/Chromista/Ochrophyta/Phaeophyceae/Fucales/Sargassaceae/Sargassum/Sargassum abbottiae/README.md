@@ -1,5 +1,4 @@
-Sargassum abbottiae G.C. Trono SPECIES
-=======
+# Sargassum abbottiae G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

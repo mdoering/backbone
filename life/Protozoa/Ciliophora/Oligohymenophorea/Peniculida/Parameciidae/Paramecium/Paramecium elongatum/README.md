@@ -1,5 +1,4 @@
-Paramecium elongatum Dumas, 1930 SPECIES
-=======
+# Paramecium elongatum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

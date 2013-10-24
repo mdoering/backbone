@@ -1,5 +1,4 @@
-Coreomyces elongatus Speg. SPECIES
-=======
+# Coreomyces elongatus Speg. SPECIES
 
 #### Status
 ACCEPTED

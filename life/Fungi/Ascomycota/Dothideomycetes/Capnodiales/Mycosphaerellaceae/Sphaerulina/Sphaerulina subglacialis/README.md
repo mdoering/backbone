@@ -1,5 +1,4 @@
-Sphaerulina subglacialis Rehm SPECIES
-=======
+# Sphaerulina subglacialis Rehm SPECIES
 
 #### Status
 ACCEPTED

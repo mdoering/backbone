@@ -1,5 +1,4 @@
-Aspicilia cupreoglauca B. de Lesd. SPECIES
-=======
+# Aspicilia cupreoglauca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

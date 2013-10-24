@@ -1,5 +1,4 @@
-Odontia Persoon, 1794 GENUS
-=======
+# Odontia Persoon, 1794 GENUS
 
 #### Status
 ACCEPTED

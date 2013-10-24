@@ -1,14 +1,13 @@
-Cylindrosporium polygoni Unger, 1855 SPECIES
-=======
+# Bostrichonema polygoni (Unger) J. Schröt., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(4): 484 (1897)
 
 #### Original name
 Cylindrosporium polygoni Unger, 1855

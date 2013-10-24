@@ -1,5 +1,4 @@
-Sphaerella asensioi Unamuno SPECIES
-=======
+# Sphaerella asensioi Unamuno SPECIES
 
 #### Status
 ACCEPTED

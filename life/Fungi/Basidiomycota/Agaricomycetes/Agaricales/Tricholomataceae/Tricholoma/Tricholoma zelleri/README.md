@@ -1,5 +1,4 @@
-Tricholoma zelleri (D.E. Stuntz & A.H. Sm.) Ovrebo & Tylutki SPECIES
-=======
+# Tricholoma zelleri (D.E. Stuntz & A.H. Sm.) Ovrebo & Tylutki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Argotelium GENUS
-=======
+# Argotelium GENUS
 
 #### Status
 ACCEPTED

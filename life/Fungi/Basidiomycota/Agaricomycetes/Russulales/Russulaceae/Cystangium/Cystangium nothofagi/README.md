@@ -1,14 +1,13 @@
-Elasmomyces nothofagi E. Horak, 1962 SPECIES
-=======
+# Cystangium nothofagi (E. Horak) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 17(1-6): 211-212 (1962)
+Mycotaxon 81: 198 (2002)
 
 #### Original name
 Elasmomyces nothofagi E. Horak, 1962

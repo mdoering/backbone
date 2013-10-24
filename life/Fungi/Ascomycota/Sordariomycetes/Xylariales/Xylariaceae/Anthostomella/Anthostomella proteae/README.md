@@ -1,5 +1,4 @@
-Anthostomella proteae S.J. Lee & Crous, 2003 SPECIES
-=======
+# Anthostomella proteae S.J. Lee & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

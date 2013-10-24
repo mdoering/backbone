@@ -1,14 +1,13 @@
-Collema granuliforme Nyl. SPECIES
-=======
+# Cryptothele granuliforme (Nyl.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Not. Sallsk. Faun. Fl. Fenn. Forhandl. , Ny Ser. 1: 230 (1859)
+Beih. Nova Hedwigia 79: 381 (1984)
 
 #### Original name
 Collema granuliforme Nyl.

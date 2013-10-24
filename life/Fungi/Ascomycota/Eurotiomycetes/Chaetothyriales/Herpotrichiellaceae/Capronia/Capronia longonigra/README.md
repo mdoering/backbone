@@ -1,5 +1,4 @@
-Capronia longonigra (Norman) M.B. Aguirre SPECIES
-=======
+# Capronia longonigra (Norman) M.B. Aguirre SPECIES
 
 #### Status
 ACCEPTED

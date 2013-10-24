@@ -1,5 +1,4 @@
-Punctelia soredica (Nyl.) Krog SPECIES
-=======
+# Punctelia soredica (Nyl.) Krog SPECIES
 
 #### Status
 ACCEPTED

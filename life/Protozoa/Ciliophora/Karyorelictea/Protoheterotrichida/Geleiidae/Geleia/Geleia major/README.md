@@ -1,5 +1,4 @@
-Geleia major (Dragesco, 1954) Foissner, 1998 SPECIES
-=======
+# Geleia major (Dragesco, 1954) Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

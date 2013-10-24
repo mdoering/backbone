@@ -1,17 +1,16 @@
-Dentiscutata reticulata (Koske, D.D. Mill. & C. Walker) Sieverd., F.A. Souza & Oehl, 2008 SPECIES
-=======
+# Scutellospora reticulata (Koske, D.D. Mill. & C. Walker) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 181 (1986)
 
 #### Original name
-null
+Gigaspora reticulata Koske, D.D. Mill. & C. Walker, 1983
 
 ### Remarks
 null

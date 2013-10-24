@@ -1,5 +1,4 @@
-Coprinopsis pseudonivea (Bender & Uljé) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis pseudonivea (Bender & Uljé) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

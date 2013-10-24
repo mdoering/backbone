@@ -1,5 +1,4 @@
-Gyromitra chirripoensis L.D. Gómez SPECIES
-=======
+# Gyromitra chirripoensis L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

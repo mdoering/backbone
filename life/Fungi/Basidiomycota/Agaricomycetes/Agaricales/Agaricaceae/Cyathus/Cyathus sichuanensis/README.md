@@ -1,5 +1,4 @@
-Cyathus sichuanensis B. Liu & Y.M. Li SPECIES
-=======
+# Cyathus sichuanensis B. Liu & Y.M. Li SPECIES
 
 #### Status
 ACCEPTED

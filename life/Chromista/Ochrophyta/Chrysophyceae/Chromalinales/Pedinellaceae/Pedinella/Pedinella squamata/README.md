@@ -1,5 +1,4 @@
-Pedinella squamata Sekiguchi, Kawachi, Nakayama & Inouye, 2003 SPECIES
-=======
+# Pedinella squamata Sekiguchi, Kawachi, Nakayama & Inouye, 2003 SPECIES
 
 #### Status
 ACCEPTED

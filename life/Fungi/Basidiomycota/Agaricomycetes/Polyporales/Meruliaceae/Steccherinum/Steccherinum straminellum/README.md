@@ -1,14 +1,13 @@
-Odontia straminella Bres., 1902 SPECIES
-=======
+# Steccherinum straminellum (Bres.) Melo, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Acad. Agiato Rovereto 8(2): 131 (1902)
+Mycotaxon 54: 126 (1995)
 
 #### Original name
 Odontia straminella Bres., 1902

@@ -1,5 +1,4 @@
-Microglaena austrogeorgica D.C. Linds. SPECIES
-=======
+# Microglaena austrogeorgica D.C. Linds. SPECIES
 
 #### Status
 ACCEPTED

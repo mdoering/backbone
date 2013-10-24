@@ -1,17 +1,16 @@
-Sphaerotheca ferruginea var. ferruginea VARIETY
-=======
+# Podosphaera ferruginea (Schltdl.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 4: 28 (2000)
 
 #### Original name
-null
+Alphitomorpha ferruginea Schltdl., 1819
 
 ### Remarks
 null

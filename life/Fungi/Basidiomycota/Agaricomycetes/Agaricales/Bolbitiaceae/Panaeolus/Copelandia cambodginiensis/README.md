@@ -1,5 +1,4 @@
-Copelandia cambodginiensis (Ola'h & R. Heim) Singer & R.A. Weeks SPECIES
-=======
+# Copelandia cambodginiensis (Ola'h & R. Heim) Singer & R.A. Weeks SPECIES
 
 #### Status
 ACCEPTED

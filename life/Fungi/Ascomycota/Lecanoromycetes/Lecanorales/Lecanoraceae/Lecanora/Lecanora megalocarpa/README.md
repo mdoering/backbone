@@ -1,5 +1,4 @@
-Lecanora megalocarpa Müll. Arg. SPECIES
-=======
+# Lecanora megalocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

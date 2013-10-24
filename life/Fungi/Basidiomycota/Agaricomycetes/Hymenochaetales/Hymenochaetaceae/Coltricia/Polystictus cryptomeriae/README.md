@@ -1,5 +1,4 @@
-Polystictus cryptomeriae Henn. SPECIES
-=======
+# Polystictus cryptomeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

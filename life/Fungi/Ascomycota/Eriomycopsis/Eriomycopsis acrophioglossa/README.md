@@ -1,5 +1,4 @@
-Eriomycopsis acrophioglossa Cif. SPECIES
-=======
+# Eriomycopsis acrophioglossa Cif. SPECIES
 
 #### Status
 ACCEPTED

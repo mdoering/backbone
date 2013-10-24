@@ -1,5 +1,4 @@
-Parmelia phricodes (Stirt.) C.W. Dodge SPECIES
-=======
+# Parmelia phricodes (Stirt.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

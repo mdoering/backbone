@@ -1,5 +1,4 @@
-Peziza exilis Hoffm. SPECIES
-=======
+# Peziza exilis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

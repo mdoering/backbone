@@ -1,5 +1,4 @@
-Hysterites Göppert, 1836 GENUS
-=======
+# Hysterites Göppert, 1836 GENUS
 
 #### Status
 ACCEPTED

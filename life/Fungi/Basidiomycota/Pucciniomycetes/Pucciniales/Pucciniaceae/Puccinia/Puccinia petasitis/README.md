@@ -1,5 +1,4 @@
-Puccinia petasitis Vestergr., 1909 SPECIES
-=======
+# Puccinia petasitis Vestergr., 1909 SPECIES
 
 #### Status
 ACCEPTED

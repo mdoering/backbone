@@ -1,5 +1,4 @@
-Mycena voluptabilis Herp. SPECIES
-=======
+# Mycena voluptabilis Herp. SPECIES
 
 #### Status
 ACCEPTED

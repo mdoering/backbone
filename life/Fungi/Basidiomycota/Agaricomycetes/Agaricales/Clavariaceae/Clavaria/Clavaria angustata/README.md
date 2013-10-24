@@ -1,5 +1,4 @@
-Clavaria angustata Pers. SPECIES
-=======
+# Clavaria angustata Pers. SPECIES
 
 #### Status
 ACCEPTED

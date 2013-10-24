@@ -1,5 +1,4 @@
-Bispora intermedia Corda SPECIES
-=======
+# Bispora intermedia Corda SPECIES
 
 #### Status
 ACCEPTED

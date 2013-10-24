@@ -1,5 +1,4 @@
-Opegrapha phyllobathelii Matzer & R. Sant. SPECIES
-=======
+# Opegrapha phyllobathelii Matzer & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

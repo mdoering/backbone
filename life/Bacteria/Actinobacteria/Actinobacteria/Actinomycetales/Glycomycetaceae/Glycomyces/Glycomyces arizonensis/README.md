@@ -1,5 +1,4 @@
-Glycomyces arizonensis Labeda & Kroppenstedt, 2004 SPECIES
-=======
+# Glycomyces arizonensis Labeda & Kroppenstedt, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia purpurascens (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Hexagonia purpurascens (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

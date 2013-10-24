@@ -1,5 +1,4 @@
-Rinodina capeverdeana Giralt & van den Boom SPECIES
-=======
+# Rinodina capeverdeana Giralt & van den Boom SPECIES
 
 #### Status
 ACCEPTED

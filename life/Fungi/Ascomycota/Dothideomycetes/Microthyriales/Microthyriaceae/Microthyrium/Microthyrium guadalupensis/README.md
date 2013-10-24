@@ -1,5 +1,4 @@
-Microthyrium guadalupensis A.W. Ramaley SPECIES
-=======
+# Microthyrium guadalupensis A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus cinereofuscus M.A. Curtis SPECIES
-=======
+# Polyporus cinereofuscus M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora melaleuca Ferd. & Winge SPECIES
-=======
+# Ceuthospora melaleuca Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fistulariella almquistii (Vain.) Bowler & Rundel SPECIES
-=======
+# Fistulariella almquistii (Vain.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

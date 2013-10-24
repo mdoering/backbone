@@ -1,5 +1,4 @@
-Podospora absimilis Cain SPECIES
-=======
+# Podospora absimilis Cain SPECIES
 
 #### Status
 ACCEPTED

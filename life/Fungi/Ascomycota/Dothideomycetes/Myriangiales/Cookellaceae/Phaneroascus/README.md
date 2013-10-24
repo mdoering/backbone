@@ -1,5 +1,4 @@
-Phaneroascus GENUS
-=======
+# Phaneroascus GENUS
 
 #### Status
 ACCEPTED

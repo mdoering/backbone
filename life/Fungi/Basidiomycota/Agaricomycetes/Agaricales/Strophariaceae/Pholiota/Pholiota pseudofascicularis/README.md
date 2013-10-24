@@ -1,5 +1,4 @@
-Pholiota pseudofascicularis Speg., 1898 SPECIES
-=======
+# Pholiota pseudofascicularis Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED

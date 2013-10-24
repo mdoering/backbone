@@ -1,5 +1,4 @@
-Caloplaca marinoides H. Magn. SPECIES
-=======
+# Caloplaca marinoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eoquasiendothyra Durkina, 1963 GENUS
-=======
+# Eoquasiendothyra Durkina, 1963 GENUS
 
 #### Status
 ACCEPTED

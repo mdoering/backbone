@@ -1,5 +1,4 @@
-Cantharellus canalipes (Lázaro Ibiza) Sacc. & Trotter SPECIES
-=======
+# Cantharellus canalipes (Lázaro Ibiza) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

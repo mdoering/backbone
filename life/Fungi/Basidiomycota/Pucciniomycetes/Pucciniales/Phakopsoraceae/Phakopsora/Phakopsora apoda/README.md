@@ -1,14 +1,13 @@
-Puccinia apoda Har. & Pat., 1909 SPECIES
-=======
+# Phakopsora apoda (Har. & Pat.) Mains, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 30(1): 45 (1938)
 
 #### Original name
 Puccinia apoda Har. & Pat., 1909

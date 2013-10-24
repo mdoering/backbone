@@ -1,5 +1,4 @@
-Lecidea fuscolutea var. fuscolutea VARIETY
-=======
+# Lecidea fuscolutea Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-K. Vetensk-Acad. Nya Handl. 266 (1808)
+null
 
 #### Original name
-Lichen fuscoluteus Dicks.
+Lecidea fuscolutea Ach.
 
 ### Remarks
 null

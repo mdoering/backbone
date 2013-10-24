@@ -1,5 +1,4 @@
-Rhodosporidium kratochvilovae Hamam., Sugiy. & Komag. SPECIES
-=======
+# Rhodosporidium kratochvilovae Hamam., Sugiy. & Komag. SPECIES
 
 #### Status
 ACCEPTED

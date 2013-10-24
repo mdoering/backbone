@@ -1,5 +1,4 @@
-Amphorellina lanceolata SPECIES
-=======
+# Amphorellina lanceolata SPECIES
 
 #### Status
 ACCEPTED

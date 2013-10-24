@@ -1,5 +1,4 @@
-Florilus sloani SPECIES
-=======
+# Florilus sloani SPECIES
 
 #### Status
 ACCEPTED

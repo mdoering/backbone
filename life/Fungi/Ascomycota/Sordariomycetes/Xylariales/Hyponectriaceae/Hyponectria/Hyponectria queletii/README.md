@@ -1,5 +1,4 @@
-Hyponectria queletii P. Karst. SPECIES
-=======
+# Hyponectria queletii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brunneosporella aquatica Ranghoo & K.D. Hyde, 2001 SPECIES
-=======
+# Brunneosporella aquatica Ranghoo & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

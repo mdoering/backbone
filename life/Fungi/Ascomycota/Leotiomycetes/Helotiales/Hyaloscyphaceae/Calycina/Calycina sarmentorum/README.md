@@ -1,5 +1,4 @@
-Calycina sarmentorum (De Not.) Kuntze SPECIES
-=======
+# Calycina sarmentorum (De Not.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

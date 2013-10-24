@@ -1,5 +1,4 @@
-Leptosphaeria pachytheca Sacc. SPECIES
-=======
+# Leptosphaeria pachytheca Sacc. SPECIES
 
 #### Status
 ACCEPTED

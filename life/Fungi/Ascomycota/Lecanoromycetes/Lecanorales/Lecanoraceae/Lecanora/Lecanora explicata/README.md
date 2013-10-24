@@ -1,5 +1,4 @@
-Lecanora explicata Chaub. SPECIES
-=======
+# Lecanora explicata Chaub. SPECIES
 
 #### Status
 ACCEPTED

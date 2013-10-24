@@ -1,5 +1,4 @@
-Pseudolembosia magnahypha Syd. SPECIES
-=======
+# Pseudolembosia magnahypha Syd. SPECIES
 
 #### Status
 ACCEPTED

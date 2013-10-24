@@ -1,5 +1,4 @@
-Hygrophorus pulcherrimus Velen. SPECIES
-=======
+# Hygrophorus pulcherrimus Velen. SPECIES
 
 #### Status
 ACCEPTED

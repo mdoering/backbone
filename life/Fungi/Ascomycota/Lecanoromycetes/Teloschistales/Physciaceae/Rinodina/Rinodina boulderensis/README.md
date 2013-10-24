@@ -1,5 +1,4 @@
-Rinodina boulderensis Sheard SPECIES
-=======
+# Rinodina boulderensis Sheard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius citrinolilacinus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius citrinolilacinus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

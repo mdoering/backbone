@@ -1,11 +1,10 @@
-Histioneis francescae Murray in Murray & Whitting, 1899 SPECIES
-=======
+# Ornithocercus francescae (Murray, 1899) Balech, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

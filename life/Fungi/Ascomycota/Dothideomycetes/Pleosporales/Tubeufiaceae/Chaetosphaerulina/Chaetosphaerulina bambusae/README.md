@@ -1,5 +1,4 @@
-Chaetosphaerulina bambusae A. Pande & V.G. Rao, 1997 SPECIES
-=======
+# Chaetosphaerulina bambusae A. Pande & V.G. Rao, 1997 SPECIES
 
 #### Status
 ACCEPTED

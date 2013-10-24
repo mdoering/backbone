@@ -1,5 +1,4 @@
-Rhachomyces longissimus Thaxt. SPECIES
-=======
+# Rhachomyces longissimus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

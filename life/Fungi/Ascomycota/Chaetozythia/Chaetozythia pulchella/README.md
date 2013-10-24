@@ -1,5 +1,4 @@
-Chaetozythia pulchella P. Karst. SPECIES
-=======
+# Chaetozythia pulchella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

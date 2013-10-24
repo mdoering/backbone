@@ -1,17 +1,16 @@
-Cintractiaceae FAMILY
-=======
+# Anthracoideaceae Denchev FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 65: 413 (1997)
 
 #### Original name
-null
+Anthracoideaceae Denchev
 
 ### Remarks
 null

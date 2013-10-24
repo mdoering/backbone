@@ -1,5 +1,4 @@
-Opegrapha chionoplaca Redinger SPECIES
-=======
+# Opegrapha chionoplaca Redinger SPECIES
 
 #### Status
 ACCEPTED

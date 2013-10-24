@@ -1,5 +1,4 @@
-Ascochyta banosensis Syd. {?} SPECIES
-=======
+# Ascochyta banosensis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

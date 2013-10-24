@@ -1,5 +1,4 @@
-Caloplaca ignea Arup SPECIES
-=======
+# Caloplaca ignea Arup SPECIES
 
 #### Status
 ACCEPTED

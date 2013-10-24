@@ -1,5 +1,4 @@
-Acrodictys fimicola M.B. Ellis & Gunnell SPECIES
-=======
+# Acrodictys fimicola M.B. Ellis & Gunnell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus propriorichromapes Wolfe & Bougher SPECIES
-=======
+# Tylopilus propriorichromapes Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

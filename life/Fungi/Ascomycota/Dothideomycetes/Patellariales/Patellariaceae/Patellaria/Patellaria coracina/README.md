@@ -1,5 +1,4 @@
-Patellaria coracina (Hoffm.) Duby SPECIES
-=======
+# Patellaria coracina (Hoffm.) Duby SPECIES
 
 #### Status
 ACCEPTED

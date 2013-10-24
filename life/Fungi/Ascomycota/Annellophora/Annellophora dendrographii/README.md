@@ -1,5 +1,4 @@
-Annellophora dendrographii M.B. Ellis SPECIES
-=======
+# Annellophora dendrographii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

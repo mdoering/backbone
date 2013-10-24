@@ -1,5 +1,4 @@
-Leiosphaeridia A.Eisenack, 1958 GENUS
-=======
+# Leiosphaeridia A.Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis lambinonii Vezda SPECIES
-=======
+# Gyalideopsis lambinonii Vezda SPECIES
 
 #### Status
 ACCEPTED

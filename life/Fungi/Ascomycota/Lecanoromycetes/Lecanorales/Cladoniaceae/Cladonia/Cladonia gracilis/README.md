@@ -1,17 +1,16 @@
-Cladonia gracilis var. gracilis VARIETY
-=======
+# Cladonia gracilis (L.) Willd. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. Berol. Prodr. 363 (1787)
 
 #### Original name
-Cladonia gracilis var. gracilis
+Lichen gracilis L.
 
 ### Remarks
 null

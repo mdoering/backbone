@@ -1,5 +1,4 @@
-Phyllosticta corchori Sawada SPECIES
-=======
+# Phyllosticta corchori Sawada SPECIES
 
 #### Status
 ACCEPTED

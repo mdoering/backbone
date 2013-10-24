@@ -1,5 +1,4 @@
-Botryodiplodia aterrima Scalia SPECIES
-=======
+# Botryodiplodia aterrima Scalia SPECIES
 
 #### Status
 ACCEPTED

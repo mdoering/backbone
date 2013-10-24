@@ -1,5 +1,4 @@
-Oscillatorites P. Palik, 1966 GENUS
-=======
+# Oscillatorites P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

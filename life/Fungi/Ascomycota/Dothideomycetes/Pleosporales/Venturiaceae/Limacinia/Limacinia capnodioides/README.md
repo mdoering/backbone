@@ -1,5 +1,4 @@
-Limacinia capnodioides (Thüm.) Sacc. SPECIES
-=======
+# Limacinia capnodioides (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

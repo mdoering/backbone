@@ -1,5 +1,4 @@
-Flagellospora saccata Marvanová & Bärl. SPECIES
-=======
+# Flagellospora saccata Marvanová & Bärl. SPECIES
 
 #### Status
 ACCEPTED

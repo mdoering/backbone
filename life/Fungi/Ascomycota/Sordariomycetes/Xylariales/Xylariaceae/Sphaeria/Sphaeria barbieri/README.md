@@ -1,5 +1,4 @@
-Sphaeria barbieri Westend. SPECIES
-=======
+# Sphaeria barbieri Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria melastomella Nyl. SPECIES
-=======
+# Pertusaria melastomella Nyl. SPECIES
 
 #### Status
 ACCEPTED

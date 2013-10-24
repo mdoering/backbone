@@ -1,5 +1,4 @@
-Coprinus simulans var. simulans VARIETY
-=======
+# Coprinus simulans Bogart SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 The Genus Coprinus in Washington and Adjacent Western States [Ph. D. dissertation] (Seattle) 209 (1975)
 
 #### Original name
-Coprinus simulans var. simulans
+Coprinus simulans Bogart
 
 ### Remarks
 null

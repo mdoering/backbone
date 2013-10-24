@@ -1,5 +1,4 @@
-Sirobasidium japonicum Kobayasi SPECIES
-=======
+# Sirobasidium japonicum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

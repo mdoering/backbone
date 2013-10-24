@@ -1,5 +1,4 @@
-Inocybe capucina (Fr.) P. Karst. SPECIES
-=======
+# Inocybe capucina (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

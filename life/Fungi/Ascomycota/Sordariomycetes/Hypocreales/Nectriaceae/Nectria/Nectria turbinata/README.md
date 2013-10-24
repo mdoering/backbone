@@ -1,5 +1,4 @@
-Nectria turbinata Fuckel SPECIES
-=======
+# Nectria turbinata Fuckel SPECIES
 
 #### Status
 ACCEPTED

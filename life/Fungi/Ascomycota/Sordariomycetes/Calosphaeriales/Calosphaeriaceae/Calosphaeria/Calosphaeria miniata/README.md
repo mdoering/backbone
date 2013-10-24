@@ -1,5 +1,4 @@
-Calosphaeria miniata Tul. SPECIES
-=======
+# Calosphaeria miniata Tul. SPECIES
 
 #### Status
 ACCEPTED

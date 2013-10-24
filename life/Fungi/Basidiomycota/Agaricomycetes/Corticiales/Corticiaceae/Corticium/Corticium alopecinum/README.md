@@ -1,5 +1,4 @@
-Corticium alopecinum Berk. & Broome SPECIES
-=======
+# Corticium alopecinum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

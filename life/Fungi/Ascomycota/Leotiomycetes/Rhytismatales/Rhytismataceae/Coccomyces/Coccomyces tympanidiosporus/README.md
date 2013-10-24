@@ -1,5 +1,4 @@
-Coccomyces tympanidiosporus Sherwood, 1980 SPECIES
-=======
+# Coccomyces tympanidiosporus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

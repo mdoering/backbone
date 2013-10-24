@@ -1,5 +1,4 @@
-Koskinobigenerina Eickhoff, 1968 GENUS
-=======
+# Koskinobigenerina Eickhoff, 1968 GENUS
 
 #### Status
 ACCEPTED

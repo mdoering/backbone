@@ -1,5 +1,4 @@
-Eutreptiella eupharyngea Ø. Moestrup & R. E. Norris SPECIES
-=======
+# Eutreptiella eupharyngea Ø. Moestrup & R. E. Norris SPECIES
 
 #### Status
 ACCEPTED

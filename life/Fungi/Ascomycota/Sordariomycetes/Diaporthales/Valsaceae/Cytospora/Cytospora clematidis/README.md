@@ -1,5 +1,4 @@
-Cytospora clematidis Oudem. SPECIES
-=======
+# Cytospora clematidis Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium saccharolyticum Murray et al., 1982 SPECIES
-=======
+# Clostridium saccharolyticum Murray et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

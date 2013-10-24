@@ -1,5 +1,4 @@
-Cercospora minima Tracy & Earle SPECIES
-=======
+# Cercospora minima Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

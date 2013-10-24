@@ -1,5 +1,4 @@
-Vaginicola swarczewskyi Kahl, 1935 SPECIES
-=======
+# Vaginicola swarczewskyi Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

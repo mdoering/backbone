@@ -1,5 +1,4 @@
-Pezizella infixa (Wallr.) Sacc. SPECIES
-=======
+# Pezizella infixa (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

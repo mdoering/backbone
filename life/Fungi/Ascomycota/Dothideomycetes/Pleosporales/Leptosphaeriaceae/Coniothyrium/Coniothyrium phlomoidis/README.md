@@ -1,5 +1,4 @@
-Coniothyrium phlomoidis Jaap SPECIES
-=======
+# Coniothyrium phlomoidis Jaap SPECIES
 
 #### Status
 ACCEPTED

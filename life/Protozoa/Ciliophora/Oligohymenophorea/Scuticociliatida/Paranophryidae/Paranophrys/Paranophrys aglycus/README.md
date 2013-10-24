@@ -1,5 +1,4 @@
-Paranophrys aglycus (Powers, 1935) SPECIES
-=======
+# Paranophrys aglycus (Powers, 1935) SPECIES
 
 #### Status
 ACCEPTED

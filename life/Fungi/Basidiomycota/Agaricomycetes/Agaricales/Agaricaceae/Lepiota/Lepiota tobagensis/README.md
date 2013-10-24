@@ -1,5 +1,4 @@
-Lepiota tobagensis Dennis SPECIES
-=======
+# Lepiota tobagensis Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea superlata Vain. SPECIES
-=======
+# Lecidea superlata Vain. SPECIES
 
 #### Status
 ACCEPTED

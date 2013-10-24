@@ -1,5 +1,4 @@
-Parapyxicola Jankowski, 1985 GENUS
-=======
+# Parapyxicola Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

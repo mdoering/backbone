@@ -1,5 +1,4 @@
-Parmotrema platyphyllinum (Vain.) Elix SPECIES
-=======
+# Parmotrema platyphyllinum (Vain.) Elix SPECIES
 
 #### Status
 ACCEPTED

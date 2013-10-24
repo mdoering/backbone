@@ -1,5 +1,4 @@
-Micromyces Grüber, 1891 GENUS
-=======
+# Micromyces Grüber, 1891 GENUS
 
 #### Status
 ACCEPTED

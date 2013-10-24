@@ -1,5 +1,4 @@
-Phaeoidiomyces Dorn.-Silva & Dianese GENUS
-=======
+# Phaeoidiomyces Dorn.-Silva & Dianese GENUS
 
 #### Status
 ACCEPTED

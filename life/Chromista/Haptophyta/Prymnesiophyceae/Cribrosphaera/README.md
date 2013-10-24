@@ -1,5 +1,4 @@
-Cribrosphaera GENUS
-=======
+# Cribrosphaera GENUS
 
 #### Status
 ACCEPTED

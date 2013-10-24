@@ -1,5 +1,4 @@
-Pleospora montagnitis Hollós SPECIES
-=======
+# Pleospora montagnitis Hollós SPECIES
 
 #### Status
 ACCEPTED

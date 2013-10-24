@@ -1,5 +1,4 @@
-Apodospora Cain & J.H. Mirza GENUS
-=======
+# Apodospora Cain & J.H. Mirza GENUS
 
 #### Status
 ACCEPTED

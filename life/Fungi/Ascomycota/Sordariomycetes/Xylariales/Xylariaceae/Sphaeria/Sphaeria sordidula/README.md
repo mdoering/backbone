@@ -1,5 +1,4 @@
-Sphaeria sordidula Lév. SPECIES
-=======
+# Sphaeria sordidula Lév. SPECIES
 
 #### Status
 ACCEPTED

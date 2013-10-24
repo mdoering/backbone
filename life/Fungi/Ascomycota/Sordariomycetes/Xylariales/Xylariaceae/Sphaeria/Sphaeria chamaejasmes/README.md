@@ -1,5 +1,4 @@
-Sphaeria chamaejasmes Fuckel SPECIES
-=======
+# Sphaeria chamaejasmes Fuckel SPECIES
 
 #### Status
 ACCEPTED

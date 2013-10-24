@@ -1,5 +1,4 @@
-Zignoëlla ligustrina Pass. SPECIES
-=======
+# Zignoëlla ligustrina Pass. SPECIES
 
 #### Status
 ACCEPTED

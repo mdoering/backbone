@@ -1,5 +1,4 @@
-Catenosynnema micheliae Kodsueb, K.D. Hyde & W.H. Ho, 2007 SPECIES
-=======
+# Catenosynnema micheliae Kodsueb, K.D. Hyde & W.H. Ho, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Togninia ambigua Berl. SPECIES
-=======
+# Togninia ambigua Berl. SPECIES
 
 #### Status
 ACCEPTED

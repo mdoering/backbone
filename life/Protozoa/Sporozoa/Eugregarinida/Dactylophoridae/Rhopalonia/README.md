@@ -1,5 +1,4 @@
-Rhopalonia Léger, 1894 GENUS
-=======
+# Rhopalonia Léger, 1894 GENUS
 
 #### Status
 ACCEPTED

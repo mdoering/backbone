@@ -1,5 +1,4 @@
-Xanthomonas phaseoli (ex Smith, 1897) Gabriel et al., 1989 SPECIES
-=======
+# Xanthomonas phaseoli (ex Smith, 1897) Gabriel et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

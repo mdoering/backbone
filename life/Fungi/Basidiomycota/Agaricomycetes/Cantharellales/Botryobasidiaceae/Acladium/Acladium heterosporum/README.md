@@ -1,5 +1,4 @@
-Acladium heterosporum Wallr. SPECIES
-=======
+# Acladium heterosporum Wallr. SPECIES
 
 #### Status
 ACCEPTED

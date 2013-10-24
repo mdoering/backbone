@@ -1,5 +1,4 @@
-Thialkalivibrio nitratis SPECIES
-=======
+# Thialkalivibrio nitratis SPECIES
 
 #### Status
 ACCEPTED

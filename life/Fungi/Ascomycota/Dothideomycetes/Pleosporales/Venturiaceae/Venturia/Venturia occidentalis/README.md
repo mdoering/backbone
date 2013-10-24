@@ -1,5 +1,4 @@
-Venturia occidentalis Ellis & Everh. SPECIES
-=======
+# Venturia occidentalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

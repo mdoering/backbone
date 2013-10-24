@@ -1,5 +1,4 @@
-Microstroma pallidum Niessl SPECIES
-=======
+# Microstroma pallidum Niessl SPECIES
 
 #### Status
 ACCEPTED

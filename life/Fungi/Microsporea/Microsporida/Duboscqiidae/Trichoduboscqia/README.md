@@ -1,5 +1,4 @@
-Trichoduboscqia L. Léger GENUS
-=======
+# Trichoduboscqia L. Léger GENUS
 
 #### Status
 ACCEPTED

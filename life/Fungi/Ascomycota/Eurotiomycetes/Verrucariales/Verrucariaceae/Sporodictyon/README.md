@@ -1,5 +1,4 @@
-Sporodictyon GENUS
-=======
+# Sporodictyon GENUS
 
 #### Status
 ACCEPTED

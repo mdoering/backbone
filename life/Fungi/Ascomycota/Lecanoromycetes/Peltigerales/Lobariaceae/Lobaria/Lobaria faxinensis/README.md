@@ -1,5 +1,4 @@
-Lobaria faxinensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria faxinensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

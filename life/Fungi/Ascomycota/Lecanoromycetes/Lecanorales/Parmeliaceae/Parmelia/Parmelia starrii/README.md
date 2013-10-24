@@ -1,5 +1,4 @@
-Parmelia starrii C.W. Dodge SPECIES
-=======
+# Parmelia starrii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

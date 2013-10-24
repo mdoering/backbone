@@ -1,5 +1,4 @@
-Pyrenopsis lugubris (A. Massal.) Nyl. SPECIES
-=======
+# Pyrenopsis lugubris (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

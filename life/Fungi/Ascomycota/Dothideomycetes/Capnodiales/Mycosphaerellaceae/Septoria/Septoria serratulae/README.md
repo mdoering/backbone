@@ -1,5 +1,4 @@
-Septoria serratulae (Wallr.) Sacc. SPECIES
-=======
+# Septoria serratulae (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

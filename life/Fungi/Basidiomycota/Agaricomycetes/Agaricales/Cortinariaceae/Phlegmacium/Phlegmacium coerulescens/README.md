@@ -1,5 +1,4 @@
-Phlegmacium coerulescens var. coerulescens VARIETY
-=======
+# Phlegmacium coerulescens (Schaeff.) Wünsche SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium coerulescens var. coerulescens
+null
 
 ### Remarks
 null

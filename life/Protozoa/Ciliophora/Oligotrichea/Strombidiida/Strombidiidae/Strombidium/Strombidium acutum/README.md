@@ -1,5 +1,4 @@
-Strombidium acutum (Leegaard, 1915) ? SPECIES
-=======
+# Strombidium acutum (Leegaard, 1915) ? SPECIES
 
 #### Status
 ACCEPTED

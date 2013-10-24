@@ -1,5 +1,4 @@
-Fucus rigidus Turra SPECIES
-=======
+# Fucus rigidus Turra SPECIES
 
 #### Status
 ACCEPTED

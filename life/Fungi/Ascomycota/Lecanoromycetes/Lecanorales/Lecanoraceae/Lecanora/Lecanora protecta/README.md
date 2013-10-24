@@ -1,5 +1,4 @@
-Lecanora protecta Bagl. & Carestia SPECIES
-=======
+# Lecanora protecta Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

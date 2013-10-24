@@ -1,5 +1,4 @@
-Arthropsis Sigler, M.T. Dunn & J.W. Carmich. GENUS
-=======
+# Arthropsis Sigler, M.T. Dunn & J.W. Carmich. GENUS
 
 #### Status
 ACCEPTED

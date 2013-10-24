@@ -1,5 +1,4 @@
-Corticium orbiculare Durieu & Lév. SPECIES
-=======
+# Corticium orbiculare Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

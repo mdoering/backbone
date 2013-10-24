@@ -1,5 +1,4 @@
-Pyrenopeziza osiliensis Vestergr., 1899 SPECIES
-=======
+# Pyrenopeziza osiliensis Vestergr., 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia cauliculata Thaxt. SPECIES
-=======
+# Laboulbenia cauliculata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

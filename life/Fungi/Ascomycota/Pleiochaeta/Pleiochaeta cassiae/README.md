@@ -1,5 +1,4 @@
-Pleiochaeta cassiae Govindu, K.S. Shetty & Chann. SPECIES
-=======
+# Pleiochaeta cassiae Govindu, K.S. Shetty & Chann. SPECIES
 
 #### Status
 ACCEPTED

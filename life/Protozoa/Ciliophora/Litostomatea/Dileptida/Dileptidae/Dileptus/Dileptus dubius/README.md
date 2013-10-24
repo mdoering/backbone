@@ -1,5 +1,4 @@
-Dileptus dubius Vuxanovici, 1959 SPECIES
-=======
+# Dileptus dubius Vuxanovici, 1959 SPECIES
 
 #### Status
 ACCEPTED

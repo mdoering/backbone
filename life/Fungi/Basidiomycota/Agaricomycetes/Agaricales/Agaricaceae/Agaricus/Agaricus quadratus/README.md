@@ -1,5 +1,4 @@
-Agaricus quadratus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus quadratus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

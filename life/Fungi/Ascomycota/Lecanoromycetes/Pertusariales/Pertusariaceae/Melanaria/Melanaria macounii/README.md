@@ -1,5 +1,4 @@
-Melanaria macounii var. macounii VARIETY
-=======
+# Melanaria macounii I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanaria macounii var. macounii
+Melanaria macounii I.M. Lamb
 
 ### Remarks
 null

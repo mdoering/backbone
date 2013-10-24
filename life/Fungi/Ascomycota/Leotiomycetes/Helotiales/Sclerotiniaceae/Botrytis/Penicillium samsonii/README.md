@@ -1,5 +1,4 @@
-Penicillium samsonii Quintan., 1985 SPECIES
-=======
+# Penicillium samsonii Quintan., 1985 SPECIES
 
 #### Status
 DOUBTFUL

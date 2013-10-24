@@ -1,5 +1,4 @@
-Psoromaria subdescendens (Nyl.) Nyl. ex Hue SPECIES
-=======
+# Psoromaria subdescendens (Nyl.) Nyl. ex Hue SPECIES
 
 #### Status
 ACCEPTED

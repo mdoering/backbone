@@ -1,17 +1,16 @@
-Metschnikowiella Genkel GENUS
-=======
+# Metschnikowia T. Kamienski, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kratkii Ogerk Sporovych Rastenii (Moscow) 17 (1913)
+Trudy imp. S-peterb. Obshch. Estest. 30: 364 (1899)
 
 #### Original name
-Metschnikowiella Genkel
+Metschnikowia T. Kamienski, 1899
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peckiella GENUS
-=======
+# Peckiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticulophrgmoides GENUS
-=======
+# Reticulophrgmoides GENUS
 
 #### Status
 ACCEPTED

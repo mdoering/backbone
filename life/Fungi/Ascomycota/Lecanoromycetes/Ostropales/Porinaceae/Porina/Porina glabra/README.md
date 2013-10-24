@@ -1,5 +1,4 @@
-Porina glabra (A. Massal.) Zahlbr. SPECIES
-=======
+# Porina glabra (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis monilifera W. Phillips & Harkn. SPECIES
-=======
+# Stictis monilifera W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

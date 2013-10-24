@@ -1,5 +1,4 @@
-Clavaria dubia Pers. SPECIES
-=======
+# Clavaria dubia Pers. SPECIES
 
 #### Status
 ACCEPTED

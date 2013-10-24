@@ -1,5 +1,4 @@
-Lycoperdon cupricolor Lloyd SPECIES
-=======
+# Lycoperdon cupricolor Lloyd SPECIES
 
 #### Status
 ACCEPTED

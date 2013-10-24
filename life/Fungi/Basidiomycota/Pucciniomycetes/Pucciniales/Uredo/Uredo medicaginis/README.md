@@ -1,5 +1,4 @@
-Uredo medicaginis Speg. SPECIES
-=======
+# Uredo medicaginis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia longipes Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Sporormia longipes Massee & E.S. Salmon, 1901 SPECIES
 
 #### Status
 ACCEPTED

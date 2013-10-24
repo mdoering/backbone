@@ -1,5 +1,4 @@
-Lepiota canescens A. Pearson SPECIES
-=======
+# Lepiota canescens A. Pearson SPECIES
 
 #### Status
 ACCEPTED

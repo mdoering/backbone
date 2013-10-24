@@ -1,8 +1,7 @@
-Holosticha discocephala Kahl, 1932 SPECIES
-=======
+# Biholosticha discocephalus (Kahl, 1932) Berger, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

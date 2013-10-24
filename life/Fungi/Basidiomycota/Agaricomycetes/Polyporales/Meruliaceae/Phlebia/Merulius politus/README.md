@@ -1,5 +1,4 @@
-Merulius politus (Cooke & Massee) Kuntze SPECIES
-=======
+# Merulius politus (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

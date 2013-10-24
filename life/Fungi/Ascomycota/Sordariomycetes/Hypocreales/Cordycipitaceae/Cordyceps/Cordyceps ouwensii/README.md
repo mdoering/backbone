@@ -1,5 +1,4 @@
-Cordyceps ouwensii Höhn. SPECIES
-=======
+# Cordyceps ouwensii Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyopyxis areolata Cookson & Eisenack SPECIES
-=======
+# Dictyopyxis areolata Cookson & Eisenack SPECIES
 
 #### Status
 DOUBTFUL

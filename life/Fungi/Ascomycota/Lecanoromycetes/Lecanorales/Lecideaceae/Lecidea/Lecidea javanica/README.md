@@ -1,5 +1,4 @@
-Lecidea javanica Schaer. SPECIES
-=======
+# Lecidea javanica Schaer. SPECIES
 
 #### Status
 ACCEPTED

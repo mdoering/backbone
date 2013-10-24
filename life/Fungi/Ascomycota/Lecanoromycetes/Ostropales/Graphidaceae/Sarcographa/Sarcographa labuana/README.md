@@ -1,5 +1,4 @@
-Sarcographa labuana (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa labuana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

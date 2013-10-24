@@ -1,5 +1,4 @@
-Legionellales ORDER
-=======
+# Legionellales ORDER
 
 #### Status
 ACCEPTED

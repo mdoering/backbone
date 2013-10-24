@@ -1,17 +1,16 @@
-Mollisia lignicola var. lignicola VARIETY
-=======
+# Mollisia ligni (Desm.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 113 (1877)
+Mycoth. fenn. (Helsinki) 1: 204 (1871)
 
 #### Original name
-Mollisia lignicola var. lignicola
+Cenangium ligni Desm., 1845
 
 ### Remarks
 null

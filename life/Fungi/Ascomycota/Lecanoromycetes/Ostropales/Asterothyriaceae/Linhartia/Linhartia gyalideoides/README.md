@@ -1,5 +1,4 @@
-Linhartia gyalideoides Vezda SPECIES
-=======
+# Linhartia gyalideoides Vezda SPECIES
 
 #### Status
 ACCEPTED

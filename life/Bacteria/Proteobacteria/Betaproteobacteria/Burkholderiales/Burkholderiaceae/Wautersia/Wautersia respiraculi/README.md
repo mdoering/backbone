@@ -1,8 +1,7 @@
-Ralstonia respiraculi Coenye et al., 2003 SPECIES
-=======
+# Wautersia respiraculi (Coenye et al., 2003) Vaneechoutte et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

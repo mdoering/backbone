@@ -1,5 +1,4 @@
-Opegrapha apex Fée SPECIES
-=======
+# Opegrapha apex Fée SPECIES
 
 #### Status
 ACCEPTED

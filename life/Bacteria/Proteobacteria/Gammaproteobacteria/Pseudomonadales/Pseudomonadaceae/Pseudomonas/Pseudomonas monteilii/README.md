@@ -1,5 +1,4 @@
-Pseudomonas monteilii Elomari et al., 1997 SPECIES
-=======
+# Pseudomonas monteilii Elomari et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma arbuscula Butin & Kehr SPECIES
-=======
+# Phoma arbuscula Butin & Kehr SPECIES
 
 #### Status
 ACCEPTED

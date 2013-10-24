@@ -1,11 +1,10 @@
-Glypholecia scabra var. scabra (Pers.) Müll. Arg. VARIETY
-=======
+# Glypholecia scabra (Pers.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Assilina discoidalis (d'Orbigny, 1826) SPECIES
-=======
+# Assilina discoidalis (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

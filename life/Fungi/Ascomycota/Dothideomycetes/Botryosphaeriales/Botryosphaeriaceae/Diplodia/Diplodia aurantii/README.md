@@ -1,5 +1,4 @@
-Diplodia aurantii Catt. & Garov. SPECIES
-=======
+# Diplodia aurantii Catt. & Garov. SPECIES
 
 #### Status
 ACCEPTED

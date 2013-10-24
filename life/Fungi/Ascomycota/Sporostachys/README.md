@@ -1,5 +1,4 @@
-Sporostachys GENUS
-=======
+# Sporostachys GENUS
 
 #### Status
 ACCEPTED

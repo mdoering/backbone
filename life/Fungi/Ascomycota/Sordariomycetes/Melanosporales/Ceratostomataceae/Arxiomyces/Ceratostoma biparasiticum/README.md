@@ -1,5 +1,4 @@
-Ceratostoma biparasiticum Ellis & Everh. SPECIES
-=======
+# Ceratostoma biparasiticum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

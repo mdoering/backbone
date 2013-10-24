@@ -1,5 +1,4 @@
-Asterella peribebuyensis (Speg.) Sacc. SPECIES
-=======
+# Asterella peribebuyensis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

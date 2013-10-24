@@ -1,17 +1,16 @@
-Mortierella ericetorum Linnem., 1953 SPECIES
-=======
+# Mortierella globulifera O. Rostr., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 107: 228 (1953)
+Dansk bot. Ark. 2(no. 5): 2 (1916)
 
 #### Original name
-Mortierella ericetorum Linnem., 1953
+Mortierella globulifera O. Rostr., 1916
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Oidium tenue P. Mazé SPECIES
-=======
+# Oospora tenuis (P. Mazé) Berkhout, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+De Schimmelgesl. Monilia, Oidium, Oospora en Torula, Disset. Ultrecht 48 (1923)
 
 #### Original name
-null
+Oidium tenuis P. Mazé
 
 ### Remarks
 null

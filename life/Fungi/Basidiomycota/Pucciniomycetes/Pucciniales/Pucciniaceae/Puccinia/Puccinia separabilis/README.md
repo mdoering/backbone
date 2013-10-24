@@ -1,5 +1,4 @@
-Puccinia separabilis J.C. Lindq. SPECIES
-=======
+# Puccinia separabilis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

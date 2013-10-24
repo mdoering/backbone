@@ -1,5 +1,4 @@
-Coltricia cylindrospora Ryvarden SPECIES
-=======
+# Coltricia cylindrospora Ryvarden SPECIES
 
 #### Status
 ACCEPTED

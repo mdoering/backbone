@@ -1,5 +1,4 @@
-Laboulbenia percolaspidis A. Weir & W. Rossi SPECIES
-=======
+# Laboulbenia percolaspidis A. Weir & W. Rossi SPECIES
 
 #### Status
 ACCEPTED

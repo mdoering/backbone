@@ -1,5 +1,4 @@
-Lentinus microspermus Peck SPECIES
-=======
+# Lentinus microspermus Peck SPECIES
 
 #### Status
 ACCEPTED

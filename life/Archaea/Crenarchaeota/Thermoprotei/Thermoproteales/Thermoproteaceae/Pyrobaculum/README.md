@@ -1,5 +1,4 @@
-Pyrobaculum Huber, Kristjansson & Stetter, 1988 GENUS
-=======
+# Pyrobaculum Huber, Kristjansson & Stetter, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichaptum lacunosum Corner, 1987 SPECIES
-=======
+# Trichaptum lacunosum Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

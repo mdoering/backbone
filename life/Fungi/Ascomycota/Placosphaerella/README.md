@@ -1,5 +1,4 @@
-Placosphaerella Pat. GENUS
-=======
+# Placosphaerella Pat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago mauritiana Vánky, 2002 SPECIES
-=======
+# Ustilago mauritiana Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

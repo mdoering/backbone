@@ -1,5 +1,4 @@
-Hydropus paradoxus M.M. Moser SPECIES
-=======
+# Hydropus paradoxus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

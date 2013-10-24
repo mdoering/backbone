@@ -1,5 +1,4 @@
-Pseudocercospora artanthes (Henn.) Y.L. Guo SPECIES
-=======
+# Pseudocercospora artanthes (Henn.) Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

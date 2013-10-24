@@ -1,5 +1,4 @@
-Omphalina acuminata Murrill SPECIES
-=======
+# Omphalina acuminata Murrill SPECIES
 
 #### Status
 ACCEPTED

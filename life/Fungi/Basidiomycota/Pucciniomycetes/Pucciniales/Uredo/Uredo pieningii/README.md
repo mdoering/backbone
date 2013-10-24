@@ -1,5 +1,4 @@
-Uredo pieningii Cummins SPECIES
-=======
+# Uredo pieningii Cummins SPECIES
 
 #### Status
 ACCEPTED

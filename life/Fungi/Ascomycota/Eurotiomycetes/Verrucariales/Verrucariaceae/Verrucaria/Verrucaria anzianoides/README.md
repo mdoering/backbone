@@ -1,5 +1,4 @@
-Verrucaria anzianoides H. Magn. SPECIES
-=======
+# Verrucaria anzianoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

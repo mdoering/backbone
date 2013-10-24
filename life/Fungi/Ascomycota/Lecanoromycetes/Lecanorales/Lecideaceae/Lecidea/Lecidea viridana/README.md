@@ -1,5 +1,4 @@
-Lecidea viridana Röhl. SPECIES
-=======
+# Lecidea viridana Röhl. SPECIES
 
 #### Status
 ACCEPTED

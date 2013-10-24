@@ -1,5 +1,4 @@
-Ophiognomonia elasticae (Koord.) M. Monod SPECIES
-=======
+# Ophiognomonia elasticae (Koord.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

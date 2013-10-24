@@ -1,5 +1,4 @@
-Sphaeria albidostoma Peck SPECIES
-=======
+# Sphaeria albidostoma Peck SPECIES
 
 #### Status
 ACCEPTED

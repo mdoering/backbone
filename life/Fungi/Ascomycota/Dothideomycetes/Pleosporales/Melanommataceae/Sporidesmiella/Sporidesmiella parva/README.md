@@ -1,17 +1,16 @@
-Sporidesmiella parva var. palauensis Matsush. VARIETY
-=======
+# Sporidesmiella parva (M.B. Ellis) P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Matsush. Mycol. Mem. 4: 16 (1985)
+Trans. Br. mycol. Soc. 79(3): 486 (1982)
 
 #### Original name
-Sporidesmiella parva var. palauensis Matsush.
+Endophragmia parva M.B. Ellis, 1976
 
 ### Remarks
 null

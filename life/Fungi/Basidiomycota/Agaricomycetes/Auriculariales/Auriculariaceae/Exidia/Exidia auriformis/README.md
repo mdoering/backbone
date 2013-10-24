@@ -1,5 +1,4 @@
-Exidia auriformis (Schwein.) Fr. SPECIES
-=======
+# Exidia auriformis (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

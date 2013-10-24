@@ -1,5 +1,4 @@
-Nectria cinchorae Zimm. SPECIES
-=======
+# Nectria cinchorae Zimm. SPECIES
 
 #### Status
 ACCEPTED

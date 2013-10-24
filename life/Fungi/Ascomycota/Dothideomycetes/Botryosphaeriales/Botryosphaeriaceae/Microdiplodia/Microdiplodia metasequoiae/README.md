@@ -1,5 +1,4 @@
-Microdiplodia metasequoiae Gucevic SPECIES
-=======
+# Microdiplodia metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

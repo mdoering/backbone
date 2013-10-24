@@ -1,5 +1,4 @@
-Lecanora applegatei Herre SPECIES
-=======
+# Lecanora applegatei Herre SPECIES
 
 #### Status
 ACCEPTED

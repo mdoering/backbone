@@ -1,5 +1,4 @@
-Clasterosporium javanicum Koord. SPECIES
-=======
+# Clasterosporium javanicum Koord. SPECIES
 
 #### Status
 ACCEPTED

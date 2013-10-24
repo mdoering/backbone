@@ -1,5 +1,4 @@
-Parmelia transvaalensis (Hale, T.H. Nash & Elix) Brusse SPECIES
-=======
+# Parmelia transvaalensis (Hale, T.H. Nash & Elix) Brusse SPECIES
 
 #### Status
 ACCEPTED

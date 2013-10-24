@@ -1,5 +1,4 @@
-Granulobacter GENUS
-=======
+# Granulobacter GENUS
 
 #### Status
 ACCEPTED

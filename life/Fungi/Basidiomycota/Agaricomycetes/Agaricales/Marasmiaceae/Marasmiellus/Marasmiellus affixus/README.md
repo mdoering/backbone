@@ -1,14 +1,13 @@
-Agaricus affixus Berk., 1848 SPECIES
-=======
+# Marasmiellus affixus (Berk.) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 7: 573 (1848)
+Beih. Nova Hedwigia 44: 4 (1973)
 
 #### Original name
 Agaricus affixus Berk., 1848

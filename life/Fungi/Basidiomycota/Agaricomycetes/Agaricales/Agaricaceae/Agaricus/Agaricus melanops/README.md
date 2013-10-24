@@ -1,5 +1,4 @@
-Agaricus melanops Westend. SPECIES
-=======
+# Agaricus melanops Westend. SPECIES
 
 #### Status
 ACCEPTED

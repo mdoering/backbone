@@ -1,8 +1,7 @@
-Lactobacillus divergens Holzapfel & Gerber, 1984 SPECIES
-=======
+# Carnobacterium divergens (Holzapfel & Gerber, 1984) Collins et al., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

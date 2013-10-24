@@ -1,5 +1,4 @@
-Lycoperdon palmatum Batsch SPECIES
-=======
+# Lycoperdon palmatum Batsch SPECIES
 
 #### Status
 ACCEPTED

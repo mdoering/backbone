@@ -1,5 +1,4 @@
-Laestadia polygonorum (Auersw.) Sacc., 1883 SPECIES
-=======
+# Laestadia polygonorum (Auersw.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

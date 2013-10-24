@@ -1,5 +1,4 @@
-Agrocybe ochracea Nauta SPECIES
-=======
+# Agrocybe ochracea Nauta SPECIES
 
 #### Status
 ACCEPTED

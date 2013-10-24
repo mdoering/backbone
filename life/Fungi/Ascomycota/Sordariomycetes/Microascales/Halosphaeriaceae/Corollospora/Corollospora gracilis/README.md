@@ -1,5 +1,4 @@
-Corollospora gracilis Nakagiri & Tokura, 1988 SPECIES
-=======
+# Corollospora gracilis Nakagiri & Tokura, 1988 SPECIES
 
 #### Status
 ACCEPTED

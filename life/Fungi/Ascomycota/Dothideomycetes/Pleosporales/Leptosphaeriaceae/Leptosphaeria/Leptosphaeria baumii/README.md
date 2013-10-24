@@ -1,5 +1,4 @@
-Leptosphaeria baumii Arx & E. Müll. SPECIES
-=======
+# Leptosphaeria baumii Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

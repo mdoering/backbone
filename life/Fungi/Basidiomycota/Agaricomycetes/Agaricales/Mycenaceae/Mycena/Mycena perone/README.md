@@ -1,5 +1,4 @@
-Mycena perone Berk. & Broome SPECIES
-=======
+# Mycena perone Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

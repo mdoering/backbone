@@ -1,5 +1,4 @@
-Agaricus caricicola var. caricicola VARIETY
-=======
+# Agaricus caricicola Lasch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus caricicola var. caricicola
+Agaricus caricicola Lasch
 
 ### Remarks
 null

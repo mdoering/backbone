@@ -1,5 +1,4 @@
-Xenophilus azovorans Blümel et al., 2001 SPECIES
-=======
+# Xenophilus azovorans Blümel et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

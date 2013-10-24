@@ -1,5 +1,4 @@
-Parasterina leeae (S. Hughes) Bat. & H. Maia SPECIES
-=======
+# Parasterina leeae (S. Hughes) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

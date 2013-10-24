@@ -1,5 +1,4 @@
-Sphaeria celastri Schwein. ex Fr. SPECIES
-=======
+# Sphaeria celastri Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

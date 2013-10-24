@@ -1,5 +1,4 @@
-Eowedekindellina Ektova, 1977 GENUS
-=======
+# Eowedekindellina Ektova, 1977 GENUS
 
 #### Status
 ACCEPTED

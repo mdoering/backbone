@@ -1,5 +1,4 @@
-Cortinarius maulensis M.M. Moser SPECIES
-=======
+# Cortinarius maulensis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

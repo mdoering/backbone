@@ -1,5 +1,4 @@
-Tubaria phaeophylla P. Karst. SPECIES
-=======
+# Tubaria phaeophylla P. Karst. SPECIES
 
 #### Status
 ACCEPTED

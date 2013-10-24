@@ -1,5 +1,4 @@
-Sporisorium pseudomaranguense (Zundel) Vánky SPECIES
-=======
+# Sporisorium pseudomaranguense (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

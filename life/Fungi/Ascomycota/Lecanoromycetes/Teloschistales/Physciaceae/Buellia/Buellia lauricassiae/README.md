@@ -1,5 +1,4 @@
-Buellia lauricassiae SPECIES
-=======
+# Buellia lauricassiae SPECIES
 
 #### Status
 ACCEPTED

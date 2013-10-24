@@ -1,5 +1,4 @@
-Varicosporium trimosum Wolfe, 1976 SPECIES
-=======
+# Varicosporium trimosum Wolfe, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophrya danae Grøntved, 1951 SPECIES
-=======
+# Trichophrya danae Grøntved, 1951 SPECIES
 
 #### Status
 ACCEPTED

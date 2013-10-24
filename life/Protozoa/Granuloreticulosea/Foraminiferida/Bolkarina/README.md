@@ -1,5 +1,4 @@
-Bolkarina Sirel, 1981 GENUS
-=======
+# Bolkarina Sirel, 1981 GENUS
 
 #### Status
 ACCEPTED

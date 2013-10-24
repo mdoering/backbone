@@ -1,5 +1,4 @@
-Oxydothis grisea Penz. & Sacc., 1897 SPECIES
-=======
+# Oxydothis grisea Penz. & Sacc., 1897 SPECIES
 
 #### Status
 ACCEPTED

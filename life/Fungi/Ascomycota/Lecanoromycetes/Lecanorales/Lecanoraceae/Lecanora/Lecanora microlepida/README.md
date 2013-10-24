@@ -1,5 +1,4 @@
-Lecanora microlepida SPECIES
-=======
+# Lecanora microlepida SPECIES
 
 #### Status
 ACCEPTED

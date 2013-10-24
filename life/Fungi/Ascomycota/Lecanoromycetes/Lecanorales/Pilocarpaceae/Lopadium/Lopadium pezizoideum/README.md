@@ -1,14 +1,13 @@
-Sporopodium pezizoideum (Ach.) Vain. SPECIES
-=======
+# Lopadium pezizoideum (Ach.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 210 (1855)
 
 #### Original name
 Lecidea pezizoidea Ach.

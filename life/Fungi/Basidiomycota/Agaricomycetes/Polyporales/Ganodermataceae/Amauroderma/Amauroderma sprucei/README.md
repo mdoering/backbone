@@ -1,17 +1,16 @@
-Polyporus dubiopansus Lloyd, 1912 SPECIES
-=======
+# Amauroderma sprucei (Pat.) Torrend, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 3 (Syn. Stip. Polyporoids) 125 (1912)
+Brotéria, sér. bot. 18: 121 (1920)
 
 #### Original name
-Polyporus dubiopansus Lloyd, 1912
+Ganoderma sprucei Pat., 1894
 
 ### Remarks
 null

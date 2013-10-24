@@ -1,5 +1,4 @@
-Verrucaria iwatsukii H. Harada SPECIES
-=======
+# Verrucaria iwatsukii H. Harada SPECIES
 
 #### Status
 ACCEPTED

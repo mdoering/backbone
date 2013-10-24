@@ -1,5 +1,4 @@
-Mallotium hildenbrandii Garov. SPECIES
-=======
+# Mallotium hildenbrandii Garov. SPECIES
 
 #### Status
 ACCEPTED

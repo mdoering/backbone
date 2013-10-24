@@ -1,5 +1,4 @@
-Stegilla discolor Rabenh. SPECIES
-=======
+# Stegilla discolor Rabenh. SPECIES
 
 #### Status
 ACCEPTED

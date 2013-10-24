@@ -1,5 +1,4 @@
-Verrucaria arthoniza C. Knight SPECIES
-=======
+# Verrucaria arthoniza C. Knight SPECIES
 
 #### Status
 ACCEPTED

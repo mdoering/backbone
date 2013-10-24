@@ -1,5 +1,4 @@
-Ixoreis Massin, Jangoux & Sibuet, 1978 GENUS
-=======
+# Ixoreis Massin, Jangoux & Sibuet, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thoracaspis Haeckel, 1881 GENUS
-=======
+# Thoracaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora lathyrina Ellis & Everh. SPECIES
-=======
+# Cercospora lathyrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

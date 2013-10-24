@@ -1,5 +1,4 @@
-Lactobacillus graminis Beck et al., 1989 SPECIES
-=======
+# Lactobacillus graminis Beck et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urotricha labiata Edmondson, 1920 SPECIES
-=======
+# Urotricha labiata Edmondson, 1920 SPECIES
 
 #### Status
 ACCEPTED

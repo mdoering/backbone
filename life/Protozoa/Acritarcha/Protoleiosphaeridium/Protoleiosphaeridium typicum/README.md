@@ -1,5 +1,4 @@
-Protoleiosphaeridium typicum (Naumova, 1968) Fensome et al., 1990 SPECIES
-=======
+# Protoleiosphaeridium typicum (Naumova, 1968) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

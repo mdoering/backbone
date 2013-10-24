@@ -1,5 +1,4 @@
-Gonyaulax expansa Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax expansa Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

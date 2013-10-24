@@ -1,5 +1,4 @@
-Colpoda oblonga Dragesco, 1972 SPECIES
-=======
+# Colpoda oblonga Dragesco, 1972 SPECIES
 
 #### Status
 ACCEPTED

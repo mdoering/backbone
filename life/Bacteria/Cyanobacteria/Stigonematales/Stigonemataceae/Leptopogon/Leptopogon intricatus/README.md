@@ -1,8 +1,7 @@
-Schizosiphon intricatus A. Braun SPECIES
-=======
+# Leptopogon intricatus (A. Braun) Borzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

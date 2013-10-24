@@ -1,5 +1,4 @@
-Dicaeoma arechavaletae (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma arechavaletae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia caviculata Kurok. SPECIES
-=======
+# Xanthoparmelia caviculata Kurok. SPECIES
 
 #### Status
 ACCEPTED

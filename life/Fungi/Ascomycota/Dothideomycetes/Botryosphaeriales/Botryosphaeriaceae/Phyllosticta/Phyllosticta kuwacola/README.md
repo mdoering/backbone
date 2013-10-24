@@ -1,8 +1,7 @@
-Phyllosticta kuwaecola Hara SPECIES
-=======
+# Phyllosticta kuwacola Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta kuwaecola Hara
+Phyllosticta kuwacola Hara
 
 ### Remarks
 null

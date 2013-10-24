@@ -1,5 +1,4 @@
-Collybia cubensis (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Collybia cubensis (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

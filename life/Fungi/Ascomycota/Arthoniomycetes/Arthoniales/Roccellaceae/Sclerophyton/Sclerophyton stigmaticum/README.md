@@ -1,5 +1,4 @@
-Sclerophyton stigmaticum (Kremp.) Sparrius SPECIES
-=======
+# Sclerophyton stigmaticum (Kremp.) Sparrius SPECIES
 
 #### Status
 ACCEPTED

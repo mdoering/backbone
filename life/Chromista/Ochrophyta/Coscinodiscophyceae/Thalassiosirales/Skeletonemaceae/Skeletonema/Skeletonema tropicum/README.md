@@ -1,5 +1,4 @@
-Skeletonema tropicum Cleve SPECIES
-=======
+# Skeletonema tropicum Cleve SPECIES
 
 #### Status
 ACCEPTED

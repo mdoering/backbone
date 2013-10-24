@@ -1,5 +1,4 @@
-Hydroclathrus tenuis C.K. Tseng & Lu SPECIES
-=======
+# Hydroclathrus tenuis C.K. Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

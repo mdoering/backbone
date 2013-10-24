@@ -1,5 +1,4 @@
-Phyllosticta cruenta var. cruenta VARIETY
-=======
+# Phyllosticta cruenta (Fr.) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Crypt. Flandres 1: 412 (1867)
 
 #### Original name
-Phyllosticta cruenta var. cruenta
+Sphaeria cruenta Fr.
 
 ### Remarks
 null

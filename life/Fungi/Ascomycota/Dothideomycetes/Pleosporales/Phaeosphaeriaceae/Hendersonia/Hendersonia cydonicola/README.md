@@ -1,5 +1,4 @@
-Hendersonia cydonicola Thüm. & Pass. SPECIES
-=======
+# Hendersonia cydonicola Thüm. & Pass. SPECIES
 
 #### Status
 ACCEPTED

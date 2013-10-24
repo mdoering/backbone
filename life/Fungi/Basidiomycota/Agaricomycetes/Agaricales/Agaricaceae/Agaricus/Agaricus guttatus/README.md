@@ -1,5 +1,4 @@
-Agaricus guttatus Schaeff. SPECIES
-=======
+# Agaricus guttatus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

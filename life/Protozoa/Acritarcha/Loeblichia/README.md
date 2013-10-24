@@ -1,5 +1,4 @@
-Loeblichia Playford & Wicander, 1988 GENUS
-=======
+# Loeblichia Playford & Wicander, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gorgonisphaeridium amazonense de Quadros, 1986 SPECIES
-=======
+# Gorgonisphaeridium amazonense de Quadros, 1986 SPECIES
 
 #### Status
 ACCEPTED

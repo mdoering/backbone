@@ -1,5 +1,4 @@
-Lecidea shantungensis Moreau SPECIES
-=======
+# Lecidea shantungensis Moreau SPECIES
 
 #### Status
 ACCEPTED

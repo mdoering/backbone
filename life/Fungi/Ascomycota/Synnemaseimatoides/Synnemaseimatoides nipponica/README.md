@@ -1,5 +1,4 @@
-Synnemaseimatoides nipponica K. Matsush. & Matsush., 1996 SPECIES
-=======
+# Synnemaseimatoides nipponica K. Matsush. & Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

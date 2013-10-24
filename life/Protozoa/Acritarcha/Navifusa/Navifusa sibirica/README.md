@@ -1,5 +1,4 @@
-Navifusa sibirica Faizulina & Treshchetenkova in Nikolskii et al., 1984 SPECIES
-=======
+# Navifusa sibirica Faizulina & Treshchetenkova in Nikolskii et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

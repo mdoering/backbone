@@ -1,5 +1,4 @@
-Staphylococcus intermedius Hajek, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Staphylococcus intermedius Hajek, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

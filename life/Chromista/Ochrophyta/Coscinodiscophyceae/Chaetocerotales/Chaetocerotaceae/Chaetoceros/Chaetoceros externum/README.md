@@ -1,5 +1,4 @@
-Chaetoceros externum Gran SPECIES
-=======
+# Chaetoceros externum Gran SPECIES
 
 #### Status
 ACCEPTED

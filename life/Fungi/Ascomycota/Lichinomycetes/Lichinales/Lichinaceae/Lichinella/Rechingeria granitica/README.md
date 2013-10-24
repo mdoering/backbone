@@ -1,5 +1,4 @@
-Rechingeria granitica (Samp.) Poelt SPECIES
-=======
+# Rechingeria granitica (Samp.) Poelt SPECIES
 
 #### Status
 ACCEPTED

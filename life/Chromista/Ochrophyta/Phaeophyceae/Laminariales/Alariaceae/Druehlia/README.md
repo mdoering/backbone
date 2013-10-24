@@ -1,5 +1,4 @@
-Druehlia C.E.Lane & G.W.Saunders, 2007 GENUS
-=======
+# Druehlia C.E.Lane & G.W.Saunders, 2007 GENUS
 
 #### Status
 SYNONYM

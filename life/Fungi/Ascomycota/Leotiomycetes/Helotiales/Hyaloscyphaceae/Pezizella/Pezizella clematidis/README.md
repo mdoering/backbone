@@ -1,5 +1,4 @@
-Pezizella clematidis Fautrey SPECIES
-=======
+# Pezizella clematidis Fautrey SPECIES
 
 #### Status
 ACCEPTED

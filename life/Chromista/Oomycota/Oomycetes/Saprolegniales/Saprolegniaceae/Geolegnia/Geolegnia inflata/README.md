@@ -1,5 +1,4 @@
-Geolegnia inflata Coker & J.V. Harv., 1925 SPECIES
-=======
+# Geolegnia inflata Coker & J.V. Harv., 1925 SPECIES
 
 #### Status
 ACCEPTED

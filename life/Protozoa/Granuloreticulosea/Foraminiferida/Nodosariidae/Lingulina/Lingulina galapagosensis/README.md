@@ -1,5 +1,4 @@
-Lingulina galapagosensis McCulloch, 1977 SPECIES
-=======
+# Lingulina galapagosensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nassula longinassa Foissner, 1979 SPECIES
-=======
+# Nassula longinassa Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

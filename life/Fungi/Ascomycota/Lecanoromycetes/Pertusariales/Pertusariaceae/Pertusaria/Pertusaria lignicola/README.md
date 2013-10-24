@@ -1,5 +1,4 @@
-Pertusaria lignicola Malme SPECIES
-=======
+# Pertusaria lignicola Malme SPECIES
 
 #### Status
 ACCEPTED

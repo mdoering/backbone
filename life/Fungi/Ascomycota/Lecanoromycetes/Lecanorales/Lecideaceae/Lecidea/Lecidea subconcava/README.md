@@ -1,5 +1,4 @@
-Lecidea subconcava H. Magn. SPECIES
-=======
+# Lecidea subconcava H. Magn. SPECIES
 
 #### Status
 ACCEPTED

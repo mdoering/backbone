@@ -1,17 +1,16 @@
-Phoma indianensis (K.B. Deshp. & Mantri) Boerema, Dorenb. & Kesteren SPECIES
-=======
+# Didymella holci (Tehon) Arx, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 5(2): 203 (1968)
+null
 
 #### Original name
-Peyronellaea indianensis K.B. Deshp. & Mantri
+null
 
 ### Remarks
 null

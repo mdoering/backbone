@@ -1,5 +1,4 @@
-Nonomuraea rubra (Sveshnikova et al., 1969) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea rubra (Sveshnikova et al., 1969) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

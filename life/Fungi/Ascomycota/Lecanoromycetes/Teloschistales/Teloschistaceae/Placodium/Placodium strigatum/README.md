@@ -1,5 +1,4 @@
-Placodium strigatum (Nyl.) Müll. Arg. SPECIES
-=======
+# Placodium strigatum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

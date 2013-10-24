@@ -1,5 +1,4 @@
-Acarospora heppii f. heppii FORM
-=======
+# Acarospora heppii (Nägeli) Nägeli SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora heppii f. heppii
+null
 
 ### Remarks
 null

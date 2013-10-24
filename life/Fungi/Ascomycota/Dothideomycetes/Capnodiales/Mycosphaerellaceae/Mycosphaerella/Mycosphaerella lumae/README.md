@@ -1,5 +1,4 @@
-Mycosphaerella lumae Syd. SPECIES
-=======
+# Mycosphaerella lumae Syd. SPECIES
 
 #### Status
 ACCEPTED

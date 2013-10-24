@@ -1,5 +1,4 @@
-Melanaria subochracea (Stirt.) I.M. Lamb SPECIES
-=======
+# Melanaria subochracea (Stirt.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

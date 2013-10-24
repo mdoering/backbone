@@ -1,5 +1,4 @@
-Methanobacillus GENUS
-=======
+# Methanobacillus GENUS
 
 #### Status
 ACCEPTED

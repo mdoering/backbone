@@ -1,5 +1,4 @@
-Peziza coriacea Bull. SPECIES
-=======
+# Peziza coriacea Bull. SPECIES
 
 #### Status
 ACCEPTED

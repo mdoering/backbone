@@ -1,5 +1,4 @@
-Mycena limonia Maas Geest. SPECIES
-=======
+# Mycena limonia Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

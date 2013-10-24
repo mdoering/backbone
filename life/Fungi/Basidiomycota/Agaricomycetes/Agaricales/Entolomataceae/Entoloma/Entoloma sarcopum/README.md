@@ -1,5 +1,4 @@
-Entoloma sarcopum Nagas. & Hongo SPECIES
-=======
+# Entoloma sarcopum Nagas. & Hongo SPECIES
 
 #### Status
 ACCEPTED

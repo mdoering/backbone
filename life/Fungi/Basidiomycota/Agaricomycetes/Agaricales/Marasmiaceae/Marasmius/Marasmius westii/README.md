@@ -1,5 +1,4 @@
-Marasmius westii Petch SPECIES
-=======
+# Marasmius westii Petch SPECIES
 
 #### Status
 ACCEPTED

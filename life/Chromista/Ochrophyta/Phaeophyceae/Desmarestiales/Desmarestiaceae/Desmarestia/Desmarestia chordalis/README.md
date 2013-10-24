@@ -1,5 +1,4 @@
-Desmarestia chordalis J.D. Hooker & Harvey SPECIES
-=======
+# Desmarestia chordalis J.D. Hooker & Harvey SPECIES
 
 #### Status
 ACCEPTED

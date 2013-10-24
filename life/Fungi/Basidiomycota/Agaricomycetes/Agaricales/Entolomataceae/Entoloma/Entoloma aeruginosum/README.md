@@ -1,14 +1,13 @@
-Rhodophyllus aeruginosus (Hiroë) Hongo, 1954 SPECIES
-=======
+# Entoloma aeruginosum Hiroë, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 29(3): 92 (1954)
+[Applied Mushroom Science] 4: 1 (1939)
 
 #### Original name
 Entoloma aeruginosum Hiroë, 1939

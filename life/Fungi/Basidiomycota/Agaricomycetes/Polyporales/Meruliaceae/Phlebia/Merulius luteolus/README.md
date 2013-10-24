@@ -1,5 +1,4 @@
-Merulius luteolus Kuntze SPECIES
-=======
+# Merulius luteolus Kuntze SPECIES
 
 #### Status
 ACCEPTED

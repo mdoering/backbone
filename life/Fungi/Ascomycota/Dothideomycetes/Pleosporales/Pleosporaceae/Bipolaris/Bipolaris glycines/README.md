@@ -1,5 +1,4 @@
-Bipolaris glycines (S. Naray. & Durairaj) B.A. Khasanov SPECIES
-=======
+# Bipolaris glycines (S. Naray. & Durairaj) B.A. Khasanov SPECIES
 
 #### Status
 ACCEPTED

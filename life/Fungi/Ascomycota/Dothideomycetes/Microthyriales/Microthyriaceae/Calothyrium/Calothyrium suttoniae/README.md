@@ -1,5 +1,4 @@
-Calothyrium suttoniae F. Stevens & R.W. Ryan SPECIES
-=======
+# Calothyrium suttoniae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

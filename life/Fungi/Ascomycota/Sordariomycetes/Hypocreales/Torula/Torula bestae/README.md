@@ -1,5 +1,4 @@
-Torula bestae Pollacci SPECIES
-=======
+# Torula bestae Pollacci SPECIES
 
 #### Status
 ACCEPTED

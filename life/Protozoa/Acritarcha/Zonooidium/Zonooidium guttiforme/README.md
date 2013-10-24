@@ -1,5 +1,4 @@
-Zonooidium guttiforme Timofeev, 1957 SPECIES
-=======
+# Zonooidium guttiforme Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium elaeagni N.P. Golovina SPECIES
-=======
+# Coniothyrium elaeagni N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

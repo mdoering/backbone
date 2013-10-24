@@ -1,5 +1,4 @@
-Ustilago deyeuxiae L. Guo SPECIES
-=======
+# Ustilago deyeuxiae L. Guo SPECIES
 
 #### Status
 ACCEPTED

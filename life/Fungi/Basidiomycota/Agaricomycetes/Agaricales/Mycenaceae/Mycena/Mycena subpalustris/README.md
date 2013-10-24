@@ -1,5 +1,4 @@
-Mycena subpalustris (Murrill) Murrill SPECIES
-=======
+# Mycena subpalustris (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

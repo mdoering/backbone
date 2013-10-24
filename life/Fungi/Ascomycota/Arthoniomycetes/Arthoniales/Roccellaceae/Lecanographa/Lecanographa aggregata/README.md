@@ -1,5 +1,4 @@
-Lecanographa aggregata Egea & Torrente SPECIES
-=======
+# Lecanographa aggregata Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

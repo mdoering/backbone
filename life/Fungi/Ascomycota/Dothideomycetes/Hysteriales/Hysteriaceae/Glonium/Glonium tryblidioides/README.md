@@ -1,5 +1,4 @@
-Glonium tryblidioides Ellis & Everh. SPECIES
-=======
+# Glonium tryblidioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

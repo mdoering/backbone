@@ -1,5 +1,4 @@
-Fusarium putrefaciens Osterw. SPECIES
-=======
+# Fusarium putrefaciens Osterw. SPECIES
 
 #### Status
 ACCEPTED

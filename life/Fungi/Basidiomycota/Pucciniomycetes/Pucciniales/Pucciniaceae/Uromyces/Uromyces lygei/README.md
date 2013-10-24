@@ -1,5 +1,4 @@
-Uromyces lygei Syd. & P. Syd. SPECIES
-=======
+# Uromyces lygei Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

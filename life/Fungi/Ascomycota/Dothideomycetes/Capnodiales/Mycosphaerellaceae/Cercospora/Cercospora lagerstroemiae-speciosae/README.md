@@ -1,5 +1,4 @@
-Cercospora lagerstroemiae-speciosae R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
-=======
+# Cercospora lagerstroemiae-speciosae R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

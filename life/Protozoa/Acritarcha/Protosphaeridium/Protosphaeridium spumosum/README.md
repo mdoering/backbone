@@ -1,5 +1,4 @@
-Protosphaeridium spumosum Andreeva, 1973 SPECIES
-=======
+# Protosphaeridium spumosum Andreeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

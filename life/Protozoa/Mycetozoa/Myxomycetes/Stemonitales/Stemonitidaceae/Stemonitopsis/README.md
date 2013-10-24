@@ -1,5 +1,4 @@
-Stemonitopsis (Nannenga-Bremekamp) Nannenga-Bremekamp, 1975 GENUS
-=======
+# Stemonitopsis (Nannenga-Bremekamp) Nannenga-Bremekamp, 1975 GENUS
 
 #### Status
 ACCEPTED

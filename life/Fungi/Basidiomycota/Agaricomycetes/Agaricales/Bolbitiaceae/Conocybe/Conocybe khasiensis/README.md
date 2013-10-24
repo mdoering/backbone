@@ -1,5 +1,4 @@
-Conocybe khasiensis (Berk.) Watling SPECIES
-=======
+# Conocybe khasiensis (Berk.) Watling SPECIES
 
 #### Status
 ACCEPTED

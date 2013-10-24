@@ -1,5 +1,4 @@
-Leucocoprinus flos-sulphuris var. flos-sulphuris VARIETY
-=======
+# Leucocoprinus flos-sulphuris (Schnizl.) Cejp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leucocoprinus flos-sulphuris var. flos-sulphuris
+Agaricus flos-sulphuris Schnizl.
 
 ### Remarks
 null

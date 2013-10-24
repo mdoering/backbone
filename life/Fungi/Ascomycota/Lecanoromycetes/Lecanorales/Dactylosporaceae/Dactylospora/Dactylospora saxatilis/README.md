@@ -1,5 +1,4 @@
-Dactylospora saxatilis (Schaer.) Hafellner SPECIES
-=======
+# Dactylospora saxatilis (Schaer.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microascus decorticatus C. Ram SPECIES
-=======
+# Microascus decorticatus C. Ram SPECIES
 
 #### Status
 ACCEPTED

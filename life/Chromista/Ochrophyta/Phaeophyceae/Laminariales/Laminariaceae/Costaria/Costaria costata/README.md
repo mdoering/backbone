@@ -1,8 +1,7 @@
-Costaria quadrinervia Ruprecht SPECIES
-=======
+# Costaria costata (C. Agardh) Saunders SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

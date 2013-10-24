@@ -1,5 +1,4 @@
-Phloeospora aetiopica Sankaran & B. Sutton SPECIES
-=======
+# Phloeospora aetiopica Sankaran & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

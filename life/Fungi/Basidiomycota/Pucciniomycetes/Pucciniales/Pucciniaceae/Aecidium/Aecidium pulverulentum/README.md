@@ -1,5 +1,4 @@
-Aecidium pulverulentum Arthur SPECIES
-=======
+# Aecidium pulverulentum Arthur SPECIES
 
 #### Status
 ACCEPTED

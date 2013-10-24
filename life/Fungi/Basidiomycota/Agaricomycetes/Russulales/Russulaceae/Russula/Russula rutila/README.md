@@ -1,17 +1,16 @@
-Russula rutila f. rutila FORM
-=======
+# Russula rutila Romagn., 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. linn. Lyon 21: 112 (1952)
 
 #### Original name
-Russula rutila f. rutila
+Russula rutila Romagn., 1952
 
 ### Remarks
 null

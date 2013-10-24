@@ -1,5 +1,4 @@
-Inocybe squamosa Bres. SPECIES
-=======
+# Inocybe squamosa Bres. SPECIES
 
 #### Status
 ACCEPTED

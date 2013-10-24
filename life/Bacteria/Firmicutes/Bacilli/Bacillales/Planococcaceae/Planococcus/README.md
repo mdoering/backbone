@@ -1,5 +1,4 @@
-Planococcus Migula, 1894 GENUS
-=======
+# Planococcus Migula, 1894 GENUS
 
 #### Status
 ACCEPTED

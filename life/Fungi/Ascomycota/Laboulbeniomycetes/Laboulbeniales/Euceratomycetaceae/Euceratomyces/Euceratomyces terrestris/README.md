@@ -1,5 +1,4 @@
-Euceratomyces terrestris Thaxt., 1931 SPECIES
-=======
+# Euceratomyces terrestris Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

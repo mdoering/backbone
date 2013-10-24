@@ -1,5 +1,4 @@
-Verticillium fumosum Seman SPECIES
-=======
+# Verticillium fumosum Seman SPECIES
 
 #### Status
 ACCEPTED

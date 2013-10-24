@@ -1,5 +1,4 @@
-Mastigina Frenzel, 1892 GENUS
-=======
+# Mastigina Frenzel, 1892 GENUS
 
 #### Status
 ACCEPTED

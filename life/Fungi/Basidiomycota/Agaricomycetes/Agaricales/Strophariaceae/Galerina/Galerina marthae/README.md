@@ -1,5 +1,4 @@
-Galerina marthae Singer SPECIES
-=======
+# Galerina marthae Singer SPECIES
 
 #### Status
 ACCEPTED

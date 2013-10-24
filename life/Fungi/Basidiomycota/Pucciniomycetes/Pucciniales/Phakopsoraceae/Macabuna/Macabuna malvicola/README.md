@@ -1,14 +1,13 @@
-Cerotelium malvicola (Speg.) Dietel, 1928 SPECIES
-=======
+# Macabuna malvicola (Speg.) Buriticá, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 6: 57 (1928)
+Revta Acad. colomb. cienc. exact. fís. nat. 19(no. 74): 464 (1995)
 
 #### Original name
 Uredo malvicola Speg., 1884

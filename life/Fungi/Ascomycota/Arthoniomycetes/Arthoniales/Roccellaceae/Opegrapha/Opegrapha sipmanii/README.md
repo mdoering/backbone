@@ -1,5 +1,4 @@
-Opegrapha sipmanii Matzer SPECIES
-=======
+# Opegrapha sipmanii Matzer SPECIES
 
 #### Status
 ACCEPTED

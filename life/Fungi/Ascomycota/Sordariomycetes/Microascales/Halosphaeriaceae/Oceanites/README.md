@@ -1,5 +1,4 @@
-Oceanites Kohlmeyer, 1977 GENUS
-=======
+# Oceanites Kohlmeyer, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eubacterium aggregans Mechichi et al., 2000 SPECIES
-=======
+# Eubacterium aggregans Mechichi et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

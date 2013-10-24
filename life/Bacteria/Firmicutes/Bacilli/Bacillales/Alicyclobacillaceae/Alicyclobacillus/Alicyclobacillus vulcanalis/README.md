@@ -1,5 +1,4 @@
-Alicyclobacillus vulcanalis Simbahan et al., 2004 SPECIES
-=======
+# Alicyclobacillus vulcanalis Simbahan et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

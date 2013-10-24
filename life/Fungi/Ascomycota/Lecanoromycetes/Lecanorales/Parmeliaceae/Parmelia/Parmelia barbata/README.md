@@ -1,5 +1,4 @@
-Parmelia barbata (L.) Spreng. SPECIES
-=======
+# Parmelia barbata (L.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

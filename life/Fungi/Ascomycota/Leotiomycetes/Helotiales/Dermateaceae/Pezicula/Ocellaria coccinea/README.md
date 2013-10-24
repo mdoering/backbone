@@ -1,5 +1,4 @@
-Ocellaria coccinea (Fr.) Rehm SPECIES
-=======
+# Ocellaria coccinea (Fr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

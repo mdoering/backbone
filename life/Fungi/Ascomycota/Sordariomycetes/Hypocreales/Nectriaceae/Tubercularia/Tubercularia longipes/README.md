@@ -1,5 +1,4 @@
-Tubercularia longipes Peyl SPECIES
-=======
+# Tubercularia longipes Peyl SPECIES
 
 #### Status
 ACCEPTED

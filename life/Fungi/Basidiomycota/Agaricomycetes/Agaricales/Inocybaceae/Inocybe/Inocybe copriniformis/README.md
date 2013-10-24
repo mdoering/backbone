@@ -1,5 +1,4 @@
-Inocybe copriniformis Reumaux SPECIES
-=======
+# Inocybe copriniformis Reumaux SPECIES
 
 #### Status
 ACCEPTED

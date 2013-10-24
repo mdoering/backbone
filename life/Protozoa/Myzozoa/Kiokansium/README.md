@@ -1,5 +1,4 @@
-Kiokansium Stover & Evitt GENUS
-=======
+# Kiokansium Stover & Evitt GENUS
 
 #### Status
 ACCEPTED

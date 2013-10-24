@@ -1,17 +1,16 @@
-Cortinarius deflexa Murrill SPECIES
-=======
+# Cortinarius deflexus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 317 (1945)
 
 #### Original name
-Cortinarius deflexa Murrill
+Cortinarius deflexus Murrill
 
 ### Remarks
 null

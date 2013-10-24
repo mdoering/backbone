@@ -1,5 +1,4 @@
-Triceratium campechianum Grunow, 1878 SPECIES
-=======
+# Triceratium campechianum Grunow, 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella occidentalis Ellis & H.W. Anderson SPECIES
-=======
+# Volutella occidentalis Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

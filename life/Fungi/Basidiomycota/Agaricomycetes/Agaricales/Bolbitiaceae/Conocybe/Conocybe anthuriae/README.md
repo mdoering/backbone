@@ -1,5 +1,4 @@
-Conocybe anthuriae Watling & Hauskn. SPECIES
-=======
+# Conocybe anthuriae Watling & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

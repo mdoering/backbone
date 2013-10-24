@@ -1,5 +1,4 @@
-Entoloma platyphylloides (Romagn.) Largent SPECIES
-=======
+# Entoloma platyphylloides (Romagn.) Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta polyanthis Gonz. Frag. SPECIES
-=======
+# Phyllosticta polyanthis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

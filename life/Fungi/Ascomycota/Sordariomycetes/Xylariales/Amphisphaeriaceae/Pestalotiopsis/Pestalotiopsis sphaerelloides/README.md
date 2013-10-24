@@ -1,5 +1,4 @@
-Pestalotiopsis sphaerelloides (Ellis & Langl.) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis sphaerelloides (Ellis & Langl.) Y.X. Chen SPECIES
 
 #### Status
 ACCEPTED

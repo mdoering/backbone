@@ -1,5 +1,4 @@
-Nolanea pusillipapillata Largent SPECIES
-=======
+# Nolanea pusillipapillata Largent SPECIES
 
 #### Status
 ACCEPTED

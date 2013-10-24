@@ -1,5 +1,4 @@
-Stachylidium verticillatum (Hoffm.) S. Hughes SPECIES
-=======
+# Stachylidium verticillatum (Hoffm.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

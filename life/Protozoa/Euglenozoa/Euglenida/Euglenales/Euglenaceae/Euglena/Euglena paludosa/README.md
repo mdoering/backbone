@@ -1,5 +1,4 @@
-Euglena paludosa Mainx SPECIES
-=======
+# Euglena paludosa Mainx SPECIES
 
 #### Status
 ACCEPTED

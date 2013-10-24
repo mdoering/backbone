@@ -1,5 +1,4 @@
-Hypoxylon rosieri J.D. Rogers & Lar.N. Vassiljeva SPECIES
-=======
+# Hypoxylon rosieri J.D. Rogers & Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

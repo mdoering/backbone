@@ -1,5 +1,4 @@
-Endocarpon zschackei M. Choisy SPECIES
-=======
+# Endocarpon zschackei M. Choisy SPECIES
 
 #### Status
 ACCEPTED

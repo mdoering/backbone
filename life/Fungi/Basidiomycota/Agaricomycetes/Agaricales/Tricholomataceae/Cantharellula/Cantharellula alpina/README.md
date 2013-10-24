@@ -1,5 +1,4 @@
-Cantharellula alpina G. Stev., 1964 SPECIES
-=======
+# Cantharellula alpina G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

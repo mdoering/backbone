@@ -1,5 +1,4 @@
-Sporisorium fastigiatum Vánky, 2000 SPECIES
-=======
+# Sporisorium fastigiatum Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

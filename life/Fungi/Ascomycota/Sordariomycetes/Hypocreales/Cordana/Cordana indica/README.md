@@ -1,5 +1,4 @@
-Cordana indica S.K. Srivast. SPECIES
-=======
+# Cordana indica S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

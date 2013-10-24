@@ -1,5 +1,4 @@
-Scutellinia doelloi (Speg.) Cash SPECIES
-=======
+# Scutellinia doelloi (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

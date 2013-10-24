@@ -1,5 +1,4 @@
-Nitrobacter punctata SPECIES
-=======
+# Nitrobacter punctata SPECIES
 
 #### Status
 ACCEPTED

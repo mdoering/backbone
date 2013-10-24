@@ -1,5 +1,4 @@
-Magnifolliculina alata Uhlig, 1964 SPECIES
-=======
+# Magnifolliculina alata Uhlig, 1964 SPECIES
 
 #### Status
 ACCEPTED

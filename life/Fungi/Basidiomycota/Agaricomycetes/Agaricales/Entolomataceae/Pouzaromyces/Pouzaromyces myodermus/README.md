@@ -1,14 +1,13 @@
-Agaricus myodermus Berk. & Broome, 1871 SPECIES
-=======
+# Pouzaromyces myodermus (Berk. & Broome) Pegler, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 523 (1871)
+Kew Bull. , Addit. Ser. 32(1): 198 (1977)
 
 #### Original name
 Agaricus myodermus Berk. & Broome, 1871

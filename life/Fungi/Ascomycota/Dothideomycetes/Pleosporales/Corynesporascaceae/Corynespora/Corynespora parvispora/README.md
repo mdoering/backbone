@@ -1,5 +1,4 @@
-Corynespora parvispora Subram. SPECIES
-=======
+# Corynespora parvispora Subram. SPECIES
 
 #### Status
 ACCEPTED

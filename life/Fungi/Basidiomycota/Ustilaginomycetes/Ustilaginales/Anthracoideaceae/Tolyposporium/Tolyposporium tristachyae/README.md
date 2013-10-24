@@ -1,5 +1,4 @@
-Tolyposporium tristachyae (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Tolyposporium tristachyae (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

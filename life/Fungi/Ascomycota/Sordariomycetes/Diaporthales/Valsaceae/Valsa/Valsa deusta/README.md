@@ -1,5 +1,4 @@
-Valsa deusta Ellis & Everh. SPECIES
-=======
+# Valsa deusta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

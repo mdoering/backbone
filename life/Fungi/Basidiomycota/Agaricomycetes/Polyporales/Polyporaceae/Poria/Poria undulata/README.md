@@ -1,5 +1,4 @@
-Poria undulata (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria undulata (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

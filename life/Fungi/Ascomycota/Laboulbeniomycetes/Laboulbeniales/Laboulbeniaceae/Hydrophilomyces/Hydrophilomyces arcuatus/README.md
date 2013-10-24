@@ -1,5 +1,4 @@
-Hydrophilomyces arcuatus Huldén SPECIES
-=======
+# Hydrophilomyces arcuatus Huldén SPECIES
 
 #### Status
 ACCEPTED

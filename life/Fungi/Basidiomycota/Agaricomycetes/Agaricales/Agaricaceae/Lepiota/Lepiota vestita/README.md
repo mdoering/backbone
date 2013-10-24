@@ -1,5 +1,4 @@
-Lepiota vestita G.H. Otth SPECIES
-=======
+# Lepiota vestita G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

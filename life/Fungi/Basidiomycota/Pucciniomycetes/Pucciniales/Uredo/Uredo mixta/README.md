@@ -1,5 +1,4 @@
-Uredo mixta Link SPECIES
-=======
+# Uredo mixta Link SPECIES
 
 #### Status
 ACCEPTED

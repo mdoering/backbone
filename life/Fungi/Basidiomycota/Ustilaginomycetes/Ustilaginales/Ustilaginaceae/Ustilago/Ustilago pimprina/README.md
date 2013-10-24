@@ -1,5 +1,4 @@
-Ustilago pimprina Thirum. & Pavgi SPECIES
-=======
+# Ustilago pimprina Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

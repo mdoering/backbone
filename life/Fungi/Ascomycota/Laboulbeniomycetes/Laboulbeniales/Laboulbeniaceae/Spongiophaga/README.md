@@ -1,5 +1,4 @@
-Spongiophaga Carter, 1878 GENUS
-=======
+# Spongiophaga Carter, 1878 GENUS
 
 #### Status
 ACCEPTED

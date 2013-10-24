@@ -1,5 +1,4 @@
-Periconia pseudolateralis de Hoog & V. Rao SPECIES
-=======
+# Periconia pseudolateralis de Hoog & V. Rao SPECIES
 
 #### Status
 ACCEPTED

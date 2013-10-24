@@ -1,5 +1,4 @@
-Zwackhiomyces kiszkianus D. Hawksw. & Miadl. SPECIES
-=======
+# Zwackhiomyces kiszkianus D. Hawksw. & Miadl. SPECIES
 
 #### Status
 ACCEPTED

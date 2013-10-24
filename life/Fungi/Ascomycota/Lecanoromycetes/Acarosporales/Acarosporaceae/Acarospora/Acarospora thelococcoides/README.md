@@ -1,5 +1,4 @@
-Acarospora thelococcoides (Nyl.) Zahlbr. SPECIES
-=======
+# Acarospora thelococcoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

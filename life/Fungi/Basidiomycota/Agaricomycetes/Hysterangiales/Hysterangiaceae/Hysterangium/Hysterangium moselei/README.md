@@ -1,5 +1,4 @@
-Hysterangium moselei (Berk. & Broome) Zeller & C.W. Dodge SPECIES
-=======
+# Hysterangium moselei (Berk. & Broome) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

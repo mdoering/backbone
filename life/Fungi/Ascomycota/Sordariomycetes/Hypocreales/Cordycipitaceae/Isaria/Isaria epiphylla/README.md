@@ -1,5 +1,4 @@
-Isaria epiphylla Pers. SPECIES
-=======
+# Isaria epiphylla Pers. SPECIES
 
 #### Status
 ACCEPTED

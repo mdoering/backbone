@@ -1,5 +1,4 @@
-Clavaria parallela Rick SPECIES
-=======
+# Clavaria parallela Rick SPECIES
 
 #### Status
 ACCEPTED

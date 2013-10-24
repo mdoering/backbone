@@ -1,5 +1,4 @@
-Dictyosphaera rugosa Chen Jinbiao et al., 1980 SPECIES
-=======
+# Dictyosphaera rugosa Chen Jinbiao et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

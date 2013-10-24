@@ -1,5 +1,4 @@
-Lenticulina pseudo-costata (Plummer) SPECIES
-=======
+# Lenticulina pseudo-costata (Plummer) SPECIES
 
 #### Status
 ACCEPTED

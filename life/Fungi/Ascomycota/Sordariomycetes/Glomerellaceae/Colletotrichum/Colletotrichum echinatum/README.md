@@ -1,5 +1,4 @@
-Colletotrichum echinatum Massee SPECIES
-=======
+# Colletotrichum echinatum Massee SPECIES
 
 #### Status
 ACCEPTED

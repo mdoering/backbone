@@ -1,5 +1,4 @@
-Arthopyrenia platycarpa Müll. Arg. SPECIES
-=======
+# Arthopyrenia platycarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

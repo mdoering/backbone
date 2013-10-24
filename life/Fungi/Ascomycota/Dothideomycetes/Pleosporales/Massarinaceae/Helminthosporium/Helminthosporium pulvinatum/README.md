@@ -1,5 +1,4 @@
-Helminthosporium pulvinatum Syd. & Hara SPECIES
-=======
+# Helminthosporium pulvinatum Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED

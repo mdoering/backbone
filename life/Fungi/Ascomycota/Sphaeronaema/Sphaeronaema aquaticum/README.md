@@ -1,5 +1,4 @@
-Sphaeronaema aquaticum Jacz. SPECIES
-=======
+# Sphaeronaema aquaticum Jacz. SPECIES
 
 #### Status
 ACCEPTED

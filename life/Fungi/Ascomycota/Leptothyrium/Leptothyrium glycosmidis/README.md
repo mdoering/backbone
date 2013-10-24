@@ -1,5 +1,4 @@
-Leptothyrium glycosmidis Keissl. SPECIES
-=======
+# Leptothyrium glycosmidis Keissl. SPECIES
 
 #### Status
 ACCEPTED

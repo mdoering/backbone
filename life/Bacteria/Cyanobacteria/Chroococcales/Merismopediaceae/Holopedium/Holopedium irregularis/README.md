@@ -1,5 +1,4 @@
-Holopedium irregularis Lagerheim SPECIES
-=======
+# Holopedium irregularis Lagerheim SPECIES
 
 #### Status
 ACCEPTED

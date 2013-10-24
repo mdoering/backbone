@@ -1,5 +1,4 @@
-Phakopsora fenestrala (Arthur) Arthur SPECIES
-=======
+# Phakopsora fenestrala (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

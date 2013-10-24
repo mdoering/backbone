@@ -1,5 +1,4 @@
-Schizacrospermum Henn. GENUS
-=======
+# Schizacrospermum Henn. GENUS
 
 #### Status
 ACCEPTED

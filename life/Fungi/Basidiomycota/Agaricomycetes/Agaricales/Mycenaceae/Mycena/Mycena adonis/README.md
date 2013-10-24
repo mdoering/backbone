@@ -1,17 +1,16 @@
-Agaricus coccineus var. coccineus VARIETY
-=======
+# Mycena adonis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 4: 70 (1774)
+null
 
 #### Original name
-Agaricus coccineus var. coccineus
+null
 
 ### Remarks
 null

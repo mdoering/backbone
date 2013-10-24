@@ -1,5 +1,4 @@
-Ceratocystis californica DeVay, R.W. Davidson & W.J. Moller SPECIES
-=======
+# Ceratocystis californica DeVay, R.W. Davidson & W.J. Moller SPECIES
 
 #### Status
 ACCEPTED

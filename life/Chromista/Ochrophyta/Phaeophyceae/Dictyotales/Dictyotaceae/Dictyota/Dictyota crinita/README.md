@@ -1,5 +1,4 @@
-Dictyota crinita (J. Agardh) Hörnig, Schnetter & Prud'homme van Reine SPECIES
-=======
+# Dictyota crinita (J. Agardh) Hörnig, Schnetter & Prud'homme van Reine SPECIES
 
 #### Status
 ACCEPTED

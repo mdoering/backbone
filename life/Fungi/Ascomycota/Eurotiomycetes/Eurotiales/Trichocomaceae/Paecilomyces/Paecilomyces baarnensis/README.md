@@ -1,17 +1,16 @@
-Paecilomyces baarnense Fassat. SPECIES
-=======
+# Paecilomyces baarnensis Fassat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 21: 157 (1967)
 
 #### Original name
-Paecilomyces baarnense Fassat.
+Paecilomyces baarnensis Fassat.
 
 ### Remarks
 null

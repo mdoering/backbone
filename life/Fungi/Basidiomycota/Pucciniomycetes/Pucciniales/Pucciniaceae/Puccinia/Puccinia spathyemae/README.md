@@ -1,5 +1,4 @@
-Puccinia spathyemae Miura ex Hirats. f. SPECIES
-=======
+# Puccinia spathyemae Miura ex Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

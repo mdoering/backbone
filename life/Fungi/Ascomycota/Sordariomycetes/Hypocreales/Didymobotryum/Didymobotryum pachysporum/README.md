@@ -1,5 +1,4 @@
-Didymobotryum pachysporum Penz. & Sacc. SPECIES
-=======
+# Didymobotryum pachysporum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

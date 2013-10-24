@@ -1,14 +1,13 @@
-Dematium grumosum Pers., 1822 SPECIES
-=======
+# Cladosporium grumosum (Pers.) Link, 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 16 (1822)
+in Willdenow, Sp. pl. , Edn 4 42 (1824)
 
 #### Original name
 Dematium grumosum Pers., 1822

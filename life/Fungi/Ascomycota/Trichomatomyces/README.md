@@ -1,5 +1,4 @@
-Trichomatomyces Dorn.-Silva & Dianese GENUS
-=======
+# Trichomatomyces Dorn.-Silva & Dianese GENUS
 
 #### Status
 ACCEPTED

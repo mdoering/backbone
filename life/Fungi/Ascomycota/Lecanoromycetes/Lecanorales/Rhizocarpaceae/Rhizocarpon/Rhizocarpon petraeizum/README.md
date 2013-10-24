@@ -1,5 +1,4 @@
-Rhizocarpon petraeizum (Nyl.) Kieffer SPECIES
-=======
+# Rhizocarpon petraeizum (Nyl.) Kieffer SPECIES
 
 #### Status
 ACCEPTED

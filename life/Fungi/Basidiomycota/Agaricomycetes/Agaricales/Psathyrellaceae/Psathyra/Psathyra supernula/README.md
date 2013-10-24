@@ -1,5 +1,4 @@
-Psathyra supernula (Britzelm.) Sacc. SPECIES
-=======
+# Psathyra supernula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

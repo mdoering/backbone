@@ -1,14 +1,13 @@
-Veronaea apiculata (J.H. Mill., Giddens & A.A. Foster) M.B. Ellis, 1976 SPECIES
-=======
+# Ramichloridium apiculatum (J.H. Mill., Giddens & A.A. Foster) de Hoog, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-More Dematiaceous Hyphomycetes (Kew) 209 (1976)
+Stud. Mycol. 15: 69 (1977)
 
 #### Original name
 null

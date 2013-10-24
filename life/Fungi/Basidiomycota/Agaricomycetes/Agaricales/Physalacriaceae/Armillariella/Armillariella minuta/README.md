@@ -1,5 +1,4 @@
-Armillariella minuta Singer & Digilio SPECIES
-=======
+# Armillariella minuta Singer & Digilio SPECIES
 
 #### Status
 ACCEPTED

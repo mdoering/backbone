@@ -1,5 +1,4 @@
-Bayrhofferia spadicea (Flot.) SPECIES
-=======
+# Bayrhofferia spadicea (Flot.) SPECIES
 
 #### Status
 ACCEPTED

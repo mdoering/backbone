@@ -1,5 +1,4 @@
-Fermentolunospora GENUS
-=======
+# Fermentolunospora GENUS
 
 #### Status
 ACCEPTED

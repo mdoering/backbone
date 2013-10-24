@@ -1,5 +1,4 @@
-Typhula sclerotiicola (Allesch.) Corner SPECIES
-=======
+# Typhula sclerotiicola (Allesch.) Corner SPECIES
 
 #### Status
 ACCEPTED

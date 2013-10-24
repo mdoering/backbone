@@ -1,5 +1,4 @@
-Hoegklintia visbyense (Eisenack, 1959) Dorning, 1981 SPECIES
-=======
+# Hoegklintia visbyense (Eisenack, 1959) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

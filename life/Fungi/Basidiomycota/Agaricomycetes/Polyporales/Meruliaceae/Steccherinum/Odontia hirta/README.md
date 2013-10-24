@@ -1,5 +1,4 @@
-Odontia hirta Pat. SPECIES
-=======
+# Odontia hirta Pat. SPECIES
 
 #### Status
 ACCEPTED

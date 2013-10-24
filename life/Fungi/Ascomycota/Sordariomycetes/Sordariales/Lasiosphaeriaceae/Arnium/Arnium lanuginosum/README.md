@@ -1,17 +1,16 @@
-Arnium lanuginosa Nitschke SPECIES
-=======
+# Arnium lanuginosum Nitschke, 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 31: 450 (1873)
 
 #### Original name
-Arnium lanuginosa Nitschke
+Arnium lanuginosum Nitschke, 1873
 
 ### Remarks
 null

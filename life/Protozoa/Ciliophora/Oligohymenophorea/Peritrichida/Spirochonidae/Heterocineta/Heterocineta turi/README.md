@@ -1,5 +1,4 @@
-Heterocineta turi Jarocki, 1935 SPECIES
-=======
+# Heterocineta turi Jarocki, 1935 SPECIES
 
 #### Status
 ACCEPTED

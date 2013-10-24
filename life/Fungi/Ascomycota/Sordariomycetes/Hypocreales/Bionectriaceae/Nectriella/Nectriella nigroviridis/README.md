@@ -1,5 +1,4 @@
-Nectriella nigroviridis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Nectriella nigroviridis (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

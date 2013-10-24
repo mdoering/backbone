@@ -1,5 +1,4 @@
-Schulzeria pellucida Massee SPECIES
-=======
+# Schulzeria pellucida Massee SPECIES
 
 #### Status
 ACCEPTED

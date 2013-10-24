@@ -1,5 +1,4 @@
-Aecidium ligulariae Thüm. SPECIES
-=======
+# Aecidium ligulariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

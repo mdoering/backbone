@@ -1,5 +1,4 @@
-Exoascus populi Thüm. SPECIES
-=======
+# Exoascus populi Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria leptospora Räsänen SPECIES
-=======
+# Pseudocyphellaria leptospora Räsänen SPECIES
 
 #### Status
 ACCEPTED

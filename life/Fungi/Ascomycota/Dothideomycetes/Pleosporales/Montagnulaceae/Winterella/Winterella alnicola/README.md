@@ -1,5 +1,4 @@
-Winterella alnicola (Höhn.) J. Reid & C. Booth SPECIES
-=======
+# Winterella alnicola (Höhn.) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

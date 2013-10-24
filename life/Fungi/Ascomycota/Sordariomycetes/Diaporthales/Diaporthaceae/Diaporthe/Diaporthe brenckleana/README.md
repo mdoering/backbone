@@ -1,5 +1,4 @@
-Diaporthe brenckleana Sacc. SPECIES
-=======
+# Diaporthe brenckleana Sacc. SPECIES
 
 #### Status
 ACCEPTED

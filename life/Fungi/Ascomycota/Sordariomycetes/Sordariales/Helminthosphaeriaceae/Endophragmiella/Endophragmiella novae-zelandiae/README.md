@@ -1,5 +1,4 @@
-Endophragmiella novae-zelandiae S. Hughes, 1978 SPECIES
-=======
+# Endophragmiella novae-zelandiae S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

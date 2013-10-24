@@ -1,5 +1,4 @@
-Phlyctis himalayensis (Nyl.) D.D. Awasthi SPECIES
-=======
+# Phlyctis himalayensis (Nyl.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

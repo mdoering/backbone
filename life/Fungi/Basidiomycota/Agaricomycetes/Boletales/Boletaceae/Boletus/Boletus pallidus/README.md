@@ -1,5 +1,4 @@
-Boletus pallidus Frost SPECIES
-=======
+# Boletus pallidus Frost SPECIES
 
 #### Status
 ACCEPTED

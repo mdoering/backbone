@@ -1,5 +1,4 @@
-Uredo clusiae Arthur SPECIES
-=======
+# Uredo clusiae Arthur SPECIES
 
 #### Status
 ACCEPTED

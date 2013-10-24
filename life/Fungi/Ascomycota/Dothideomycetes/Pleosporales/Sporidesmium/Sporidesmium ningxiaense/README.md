@@ -1,5 +1,4 @@
-Sporidesmium ningxiaense W.P. Wu SPECIES
-=======
+# Sporidesmium ningxiaense W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

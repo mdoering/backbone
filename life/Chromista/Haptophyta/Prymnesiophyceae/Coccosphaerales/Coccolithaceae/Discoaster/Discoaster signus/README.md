@@ -1,5 +1,4 @@
-Discoaster signus Bukry, 1971 SPECIES
-=======
+# Discoaster signus Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

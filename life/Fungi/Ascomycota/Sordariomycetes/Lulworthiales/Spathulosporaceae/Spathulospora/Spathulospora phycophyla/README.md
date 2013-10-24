@@ -1,5 +1,4 @@
-Spathulospora phycophyla Cavaliere & Johnson SPECIES
-=======
+# Spathulospora phycophyla Cavaliere & Johnson SPECIES
 
 #### Status
 ACCEPTED

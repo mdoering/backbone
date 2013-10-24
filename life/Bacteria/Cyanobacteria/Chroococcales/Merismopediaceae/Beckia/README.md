@@ -1,5 +1,4 @@
-Beckia Elenkin, 1933 GENUS
-=======
+# Beckia Elenkin, 1933 GENUS
 
 #### Status
 SYNONYM

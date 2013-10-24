@@ -1,5 +1,4 @@
-Psathyrella potteri A.H. Sm. SPECIES
-=======
+# Psathyrella potteri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

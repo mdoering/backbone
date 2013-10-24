@@ -1,5 +1,4 @@
-Olpidium euglenae P.A. Dang. SPECIES
-=======
+# Olpidium euglenae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

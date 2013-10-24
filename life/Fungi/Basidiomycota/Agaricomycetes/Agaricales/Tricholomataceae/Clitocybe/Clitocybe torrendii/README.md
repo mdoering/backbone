@@ -1,5 +1,4 @@
-Clitocybe torrendii Pegler SPECIES
-=======
+# Clitocybe torrendii Pegler SPECIES
 
 #### Status
 ACCEPTED

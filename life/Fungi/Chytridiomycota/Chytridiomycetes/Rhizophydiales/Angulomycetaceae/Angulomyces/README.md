@@ -1,5 +1,4 @@
-Angulomyces Letcher GENUS
-=======
+# Angulomyces Letcher GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ijuhya hongkongensis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Ijuhya hongkongensis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

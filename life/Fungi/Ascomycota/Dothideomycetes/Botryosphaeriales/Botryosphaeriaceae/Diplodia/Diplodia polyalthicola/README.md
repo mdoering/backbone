@@ -1,5 +1,4 @@
-Diplodia polyalthicola V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Diplodia polyalthicola V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
 ACCEPTED

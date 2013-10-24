@@ -1,5 +1,4 @@
-Ceratochona Jankowksi, 1973 GENUS
-=======
+# Ceratochona Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

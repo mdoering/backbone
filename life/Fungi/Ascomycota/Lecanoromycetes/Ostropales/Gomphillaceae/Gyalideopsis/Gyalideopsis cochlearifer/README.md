@@ -1,5 +1,4 @@
-Gyalideopsis cochlearifer Lücking & Sérus. SPECIES
-=======
+# Gyalideopsis cochlearifer Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

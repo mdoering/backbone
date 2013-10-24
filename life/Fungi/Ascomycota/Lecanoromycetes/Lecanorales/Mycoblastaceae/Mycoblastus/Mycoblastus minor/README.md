@@ -1,5 +1,4 @@
-Mycoblastus minor Zahlbr. SPECIES
-=======
+# Mycoblastus minor Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

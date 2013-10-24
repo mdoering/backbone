@@ -1,5 +1,4 @@
-Acineta cucullus Claparède & Lachmann, 1859 SPECIES
-=======
+# Acineta cucullus Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

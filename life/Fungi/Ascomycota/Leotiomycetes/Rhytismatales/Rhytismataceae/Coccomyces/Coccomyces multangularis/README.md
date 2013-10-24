@@ -1,5 +1,4 @@
-Coccomyces multangularis Y.R. Lin & Z.Z. Li, 2001 SPECIES
-=======
+# Coccomyces multangularis Y.R. Lin & Z.Z. Li, 2001 SPECIES
 
 #### Status
 ACCEPTED

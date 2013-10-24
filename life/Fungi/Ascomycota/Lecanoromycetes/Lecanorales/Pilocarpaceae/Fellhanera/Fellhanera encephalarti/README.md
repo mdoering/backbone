@@ -1,5 +1,4 @@
-Fellhanera encephalarti (Vezda) Vezda SPECIES
-=======
+# Fellhanera encephalarti (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

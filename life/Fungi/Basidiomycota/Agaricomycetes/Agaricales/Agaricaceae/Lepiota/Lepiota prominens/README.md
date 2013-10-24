@@ -1,5 +1,4 @@
-Lepiota prominens (Fr.) Sacc. SPECIES
-=======
+# Lepiota prominens (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Halopteris brachycarpa Sauvageau SPECIES
-=======
+# Halopteris pseudospicata Sauvageau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

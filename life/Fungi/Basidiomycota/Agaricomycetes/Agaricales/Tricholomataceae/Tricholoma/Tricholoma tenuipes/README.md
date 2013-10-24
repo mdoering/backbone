@@ -1,5 +1,4 @@
-Tricholoma tenuipes Murrill SPECIES
-=======
+# Tricholoma tenuipes Murrill SPECIES
 
 #### Status
 ACCEPTED

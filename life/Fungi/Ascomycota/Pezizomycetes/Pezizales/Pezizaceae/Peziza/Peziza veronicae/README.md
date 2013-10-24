@@ -1,5 +1,4 @@
-Peziza veronicae Lasch SPECIES
-=======
+# Peziza veronicae Lasch SPECIES
 
 #### Status
 ACCEPTED

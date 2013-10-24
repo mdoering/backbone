@@ -1,5 +1,4 @@
-Buellia catasema (Tuck.) Tuck. SPECIES
-=======
+# Buellia catasema (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

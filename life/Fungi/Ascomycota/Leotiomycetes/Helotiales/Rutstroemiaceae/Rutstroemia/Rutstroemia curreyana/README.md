@@ -1,5 +1,4 @@
-Rutstroemia curreyana P. Karst. SPECIES
-=======
+# Rutstroemia curreyana P. Karst. SPECIES
 
 #### Status
 ACCEPTED

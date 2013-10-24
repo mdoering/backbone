@@ -1,5 +1,4 @@
-Tricholoma subterreum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subterreum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

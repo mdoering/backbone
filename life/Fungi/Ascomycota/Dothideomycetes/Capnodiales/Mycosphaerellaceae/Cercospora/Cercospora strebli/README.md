@@ -1,5 +1,4 @@
-Cercospora strebli M. Mandal SPECIES
-=======
+# Cercospora strebli M. Mandal SPECIES
 
 #### Status
 ACCEPTED

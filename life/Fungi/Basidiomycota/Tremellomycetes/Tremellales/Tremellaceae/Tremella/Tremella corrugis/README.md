@@ -1,5 +1,4 @@
-Tremella corrugis Fr. SPECIES
-=======
+# Tremella corrugis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia corticalis Allesch. SPECIES
-=======
+# Rosellinia corticalis Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella cirsii Cruchet SPECIES
-=======
+# Mycosphaerella cirsii Cruchet SPECIES
 
 #### Status
 ACCEPTED

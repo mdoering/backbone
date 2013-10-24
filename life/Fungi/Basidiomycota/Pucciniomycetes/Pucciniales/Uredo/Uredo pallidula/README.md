@@ -1,5 +1,4 @@
-Uredo pallidula Cooke & Massee SPECIES
-=======
+# Uredo pallidula Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

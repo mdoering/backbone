@@ -1,5 +1,4 @@
-Cylindrosporium exiguum Syd. SPECIES
-=======
+# Cylindrosporium exiguum Syd. SPECIES
 
 #### Status
 ACCEPTED

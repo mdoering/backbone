@@ -1,5 +1,4 @@
-Psoromatomyces GENUS
-=======
+# Psoromatomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tretosohyrtana korma Colbath, 1979 SPECIES
-=======
+# Tretosohyrtana korma Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

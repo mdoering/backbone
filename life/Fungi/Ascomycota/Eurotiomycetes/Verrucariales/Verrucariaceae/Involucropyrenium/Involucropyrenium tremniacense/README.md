@@ -1,14 +1,13 @@
-Verrucaria tremniacensis (A. Massal.) Nyl. SPECIES
-=======
+# Involucropyrenium tremniacense (A. Massal.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 38 (1996)
 
 #### Original name
 Catopyrenium tremniacense A. Massal.

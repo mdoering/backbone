@@ -1,17 +1,16 @@
-Cercospora campi-silii Riess SPECIES
-=======
+# Passalora campi-silii (Speg.) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 55: 228 (1995)
 
 #### Original name
-Cercospora campi-silii Riess
+Cercosporidium campi-silii (Riess) X.J. Liu & Y.L. Guo, 1982
 
 ### Remarks
 null

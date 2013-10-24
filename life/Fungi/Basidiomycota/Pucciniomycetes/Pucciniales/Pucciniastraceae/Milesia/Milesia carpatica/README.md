@@ -1,5 +1,4 @@
-Milesia carpatica var. carpatica VARIETY
-=======
+# Milesia carpatica (Wróbl.) Faull SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Contr. Arnold Arbor. 2: 55 (1932)
 
 #### Original name
-Milesia carpatica var. carpatica
+Milesina carpatica Wróbl.
 
 ### Remarks
 null

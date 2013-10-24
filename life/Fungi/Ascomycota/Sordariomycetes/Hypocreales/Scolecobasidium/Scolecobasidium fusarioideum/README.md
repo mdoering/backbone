@@ -1,14 +1,13 @@
-Paratrichoconis fusarioidea (Matsush.) R.F. Castañeda, Guarro & Cano, 1997 SPECIES
-=======
+# Scolecobasidium fusarioideum Matsush., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 63: 173 (1997)
+Matsush. Mycol. Mem. 7: 65 (1993)
 
 #### Original name
 Scolecobasidium fusarioideum Matsush., 1993

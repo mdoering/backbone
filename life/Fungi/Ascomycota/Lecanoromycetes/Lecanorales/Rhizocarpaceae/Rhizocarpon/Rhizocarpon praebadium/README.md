@@ -1,5 +1,4 @@
-Rhizocarpon praebadium (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon praebadium (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

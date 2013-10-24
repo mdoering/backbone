@@ -1,14 +1,13 @@
-Arthoniopsis nigratula Müll. Arg. SPECIES
-=======
+# Arthonia nigratula (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 18 (1890)
+Symb. bot. upsal. 12(no. 1): 86 (1952)
 
 #### Original name
 Arthoniopsis nigratula Müll. Arg.

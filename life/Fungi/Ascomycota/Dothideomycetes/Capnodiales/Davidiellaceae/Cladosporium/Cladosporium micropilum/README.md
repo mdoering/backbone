@@ -1,5 +1,4 @@
-Cladosporium micropilum Syd. {?} SPECIES
-=======
+# Cladosporium micropilum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

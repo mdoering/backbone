@@ -1,5 +1,4 @@
-Diplodina mespili Ferraris SPECIES
-=======
+# Diplodina mespili Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barathrisphaeridium Wicander GENUS
-=======
+# Barathrisphaeridium Wicander GENUS
 
 #### Status
 ACCEPTED

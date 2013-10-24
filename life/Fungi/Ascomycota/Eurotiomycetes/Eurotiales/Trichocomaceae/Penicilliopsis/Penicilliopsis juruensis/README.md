@@ -1,5 +1,4 @@
-Penicilliopsis juruensis Henn. SPECIES
-=======
+# Penicilliopsis juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

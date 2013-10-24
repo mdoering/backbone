@@ -1,5 +1,4 @@
-Pterospermopsimorpha mogilevica Timofeev, 1973 SPECIES
-=======
+# Pterospermopsimorpha mogilevica Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

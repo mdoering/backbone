@@ -1,5 +1,4 @@
-Sphaerella lantanae (Nitschke) Auersw. SPECIES
-=======
+# Sphaerella lantanae (Nitschke) Auersw. SPECIES
 
 #### Status
 ACCEPTED

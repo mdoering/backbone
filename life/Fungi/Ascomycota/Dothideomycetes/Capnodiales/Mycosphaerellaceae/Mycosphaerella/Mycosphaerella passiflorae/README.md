@@ -1,5 +1,4 @@
-Mycosphaerella passiflorae Rehm SPECIES
-=======
+# Mycosphaerella passiflorae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina medicaginis f. medicaginis FORM
-=======
+# Diplodina medicaginis Oudem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodina medicaginis f. medicaginis
+Diplodina medicaginis Oudem.
 
 ### Remarks
 null

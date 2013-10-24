@@ -1,5 +1,4 @@
-Dimerella subzonata Lücking SPECIES
-=======
+# Dimerella subzonata Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Monas semen C.G. Ehrenberg SPECIES
-=======
+# Gonyostomum semen (C.G. Ehrenberg) Diesing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

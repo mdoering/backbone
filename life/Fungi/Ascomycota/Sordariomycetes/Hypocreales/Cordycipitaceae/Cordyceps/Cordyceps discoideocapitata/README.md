@@ -1,5 +1,4 @@
-Cordyceps discoideocapitata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps discoideocapitata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

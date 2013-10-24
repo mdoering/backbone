@@ -1,5 +1,4 @@
-Stanjehughesia ventricosa Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Stanjehughesia ventricosa Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

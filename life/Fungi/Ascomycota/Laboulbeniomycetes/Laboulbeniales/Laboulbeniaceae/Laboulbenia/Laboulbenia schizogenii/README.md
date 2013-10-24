@@ -1,5 +1,4 @@
-Laboulbenia schizogenii Thaxt. SPECIES
-=======
+# Laboulbenia schizogenii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

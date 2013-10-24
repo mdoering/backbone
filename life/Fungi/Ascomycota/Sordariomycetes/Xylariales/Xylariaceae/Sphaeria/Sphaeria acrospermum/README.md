@@ -1,5 +1,4 @@
-Sphaeria acrospermum Tode SPECIES
-=======
+# Sphaeria acrospermum Tode SPECIES
 
 #### Status
 ACCEPTED

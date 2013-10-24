@@ -1,5 +1,4 @@
-Xylographa hians Tuck. SPECIES
-=======
+# Xylographa hians Tuck. SPECIES
 
 #### Status
 ACCEPTED

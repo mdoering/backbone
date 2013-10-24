@@ -1,14 +1,13 @@
-Neofuscelia convexa Elix SPECIES
-=======
+# Xanthoparmelia convexa (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 485 (1997)
+Taxon 53(4): 967 (2004)
 
 #### Original name
 Neofuscelia convexa Elix

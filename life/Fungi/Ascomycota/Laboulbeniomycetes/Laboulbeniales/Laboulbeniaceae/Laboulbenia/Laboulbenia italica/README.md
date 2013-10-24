@@ -1,5 +1,4 @@
-Laboulbenia italica Thaxt. SPECIES
-=======
+# Laboulbenia italica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

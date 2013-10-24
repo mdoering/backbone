@@ -1,5 +1,4 @@
-Hendersonia oleariae Petr., 1954 SPECIES
-=======
+# Hendersonia oleariae Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

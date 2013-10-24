@@ -1,5 +1,4 @@
-Diehlia GENUS
-=======
+# Diehlia GENUS
 
 #### Status
 ACCEPTED

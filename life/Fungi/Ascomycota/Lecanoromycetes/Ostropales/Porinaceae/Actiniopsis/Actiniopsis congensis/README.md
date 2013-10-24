@@ -1,5 +1,4 @@
-Actiniopsis congensis Henn. SPECIES
-=======
+# Actiniopsis congensis Henn. SPECIES
 
 #### Status
 ACCEPTED

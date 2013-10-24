@@ -1,5 +1,4 @@
-Leccinum subrobustum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum subrobustum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

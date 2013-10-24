@@ -1,5 +1,4 @@
-Buellia mutata Malme SPECIES
-=======
+# Buellia mutata Malme SPECIES
 
 #### Status
 ACCEPTED

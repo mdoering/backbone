@@ -1,5 +1,4 @@
-Lecidea incarnata Ach. SPECIES
-=======
+# Lecidea incarnata Ach. SPECIES
 
 #### Status
 ACCEPTED

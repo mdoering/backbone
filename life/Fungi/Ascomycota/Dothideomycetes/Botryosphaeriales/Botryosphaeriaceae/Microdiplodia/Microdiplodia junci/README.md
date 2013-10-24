@@ -1,5 +1,4 @@
-Microdiplodia junci Died., 1914 SPECIES
-=======
+# Microdiplodia junci Died., 1914 SPECIES
 
 #### Status
 ACCEPTED

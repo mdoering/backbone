@@ -1,5 +1,4 @@
-Ephelota truncata Fraipont, 1878 SPECIES
-=======
+# Ephelota truncata Fraipont, 1878 SPECIES
 
 #### Status
 ACCEPTED

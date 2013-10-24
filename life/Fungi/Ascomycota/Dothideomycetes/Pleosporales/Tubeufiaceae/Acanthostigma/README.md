@@ -1,5 +1,4 @@
-Acanthostigma De Notaris, 1863 GENUS
-=======
+# Acanthostigma De Notaris, 1863 GENUS
 
 #### Status
 ACCEPTED

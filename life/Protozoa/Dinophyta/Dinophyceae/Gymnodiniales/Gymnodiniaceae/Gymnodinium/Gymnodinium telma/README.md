@@ -1,5 +1,4 @@
-Gymnodinium telma Van Meel SPECIES
-=======
+# Gymnodinium telma Van Meel SPECIES
 
 #### Status
 ACCEPTED

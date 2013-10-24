@@ -1,5 +1,4 @@
-Septobasidium leprieurii (Mont.) Pat. SPECIES
-=======
+# Septobasidium leprieurii (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

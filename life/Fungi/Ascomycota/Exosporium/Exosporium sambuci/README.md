@@ -1,5 +1,4 @@
-Exosporium sambuci Tracy & Earle SPECIES
-=======
+# Exosporium sambuci Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

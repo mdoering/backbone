@@ -1,5 +1,4 @@
-Tricholoma dulciolens Kytöv. SPECIES
-=======
+# Tricholoma dulciolens Kytöv. SPECIES
 
 #### Status
 ACCEPTED

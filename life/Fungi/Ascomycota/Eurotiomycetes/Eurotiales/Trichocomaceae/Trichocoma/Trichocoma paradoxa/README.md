@@ -1,17 +1,16 @@
-Trichocoma paradoxum Jungh. SPECIES
-=======
+# Trichocoma paradoxa Jungh., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Praemissa in floram cryptogamicam Javae insulae (Batavia) 1: 9 (1838)
 
 #### Original name
-Trichocoma paradoxum Jungh.
+Trichocoma paradoxa Jungh., 1838
 
 ### Remarks
 null

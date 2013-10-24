@@ -1,5 +1,4 @@
-Inocybe albipes Gillet SPECIES
-=======
+# Inocybe albipes Gillet SPECIES
 
 #### Status
 ACCEPTED

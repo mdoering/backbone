@@ -1,5 +1,4 @@
-Luffisphaera striata Thomsen (unpubl) SPECIES
-=======
+# Luffisphaera striata Thomsen (unpubl) SPECIES
 
 #### Status
 ACCEPTED

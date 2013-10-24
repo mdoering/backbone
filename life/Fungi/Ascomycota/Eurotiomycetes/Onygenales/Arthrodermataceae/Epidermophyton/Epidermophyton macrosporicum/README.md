@@ -1,5 +1,4 @@
-Epidermophyton macrosporicum Kesteven SPECIES
-=======
+# Epidermophyton macrosporicum Kesteven SPECIES
 
 #### Status
 ACCEPTED

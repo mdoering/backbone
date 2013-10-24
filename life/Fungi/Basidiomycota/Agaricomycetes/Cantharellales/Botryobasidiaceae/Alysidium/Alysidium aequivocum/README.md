@@ -1,5 +1,4 @@
-Alysidium aequivocum (Corda) Kuntze SPECIES
-=======
+# Alysidium aequivocum (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

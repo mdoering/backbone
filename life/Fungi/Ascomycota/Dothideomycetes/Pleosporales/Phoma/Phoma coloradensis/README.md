@@ -1,5 +1,4 @@
-Phoma coloradensis Tracy & Earle SPECIES
-=======
+# Phoma coloradensis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

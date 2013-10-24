@@ -1,5 +1,4 @@
-Aecidium ranunculi-insignis G. Cunn., 1930 SPECIES
-=======
+# Aecidium ranunculi-insignis G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dekkeromyces delphensis (Van der Walt & Tscheuschner) E.K. Novák & Zsolt, 1961 SPECIES
-=======
+# Nakaseomyces delphensis (van der Walt & Tscheuschner) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta microbiol. hung. 7: 126 (1961)
+FEMS Yeast Res. 4(3): 240 (2003)
 
 #### Original name
 Saccharomyces delphensis Van der Walt & Tscheuschner, 1956

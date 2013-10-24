@@ -1,14 +1,13 @@
-Physarum spinisporum Eliasson & N. Lundq., 1979 SPECIES
-=======
+# Badhamia spinispora (Eliasson & N. Lundq.) H.W. Keller & Schokn., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 132(4): 563 (1979)
+Mycologia 81(4): 632 (1989)
 
 #### Original name
 Physarum spinisporum Eliasson & N. Lundq., 1979

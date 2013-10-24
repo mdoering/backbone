@@ -1,5 +1,4 @@
-Phyllosticta alcides f. americana Sacc. & D. Sacc. FORM
-=======
+# Phyllosticta alcides Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 135 (1878)
 
 #### Original name
-Phyllosticta alcides f. americana Sacc. & D. Sacc.
+Phyllosticta alcides Sacc.
 
 ### Remarks
 null

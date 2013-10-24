@@ -1,5 +1,4 @@
-Polystigma pusillum Syd. & P. Syd., 1904 SPECIES
-=======
+# Polystigma pusillum Syd. & P. Syd., 1904 SPECIES
 
 #### Status
 ACCEPTED

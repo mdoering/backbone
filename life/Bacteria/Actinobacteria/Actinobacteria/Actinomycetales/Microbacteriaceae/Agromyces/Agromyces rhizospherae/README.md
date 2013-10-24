@@ -1,5 +1,4 @@
-Agromyces rhizospherae Takeuchi & Hatano, 2001 SPECIES
-=======
+# Agromyces rhizospherae Takeuchi & Hatano, 2001 SPECIES
 
 #### Status
 ACCEPTED

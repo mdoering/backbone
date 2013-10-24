@@ -1,5 +1,4 @@
-Entyloma catabrosae Johanson SPECIES
-=======
+# Entyloma catabrosae Johanson SPECIES
 
 #### Status
 ACCEPTED

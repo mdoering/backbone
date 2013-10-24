@@ -1,5 +1,4 @@
-Collybia orbispora Britzelm. SPECIES
-=======
+# Collybia orbispora Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea gayerii Szatala SPECIES
-=======
+# Lecidea gayerii Szatala SPECIES
 
 #### Status
 ACCEPTED

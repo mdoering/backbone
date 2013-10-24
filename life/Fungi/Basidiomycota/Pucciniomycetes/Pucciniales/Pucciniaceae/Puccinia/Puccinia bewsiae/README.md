@@ -1,5 +1,4 @@
-Puccinia bewsiae Cummins SPECIES
-=======
+# Puccinia bewsiae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pinacisca amphorella (Nyl.) Hue SPECIES
-=======
+# Pinacisca amphorella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

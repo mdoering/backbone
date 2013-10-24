@@ -1,5 +1,4 @@
-Sclerophoma betulae Died. SPECIES
-=======
+# Sclerophoma betulae Died. SPECIES
 
 #### Status
 ACCEPTED

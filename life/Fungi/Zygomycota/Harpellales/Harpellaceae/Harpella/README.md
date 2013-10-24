@@ -1,5 +1,4 @@
-Harpella L. Léger & Duboscq, 1929 GENUS
-=======
+# Harpella L. Léger & Duboscq, 1929 GENUS
 
 #### Status
 ACCEPTED

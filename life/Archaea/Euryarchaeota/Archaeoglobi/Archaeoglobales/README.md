@@ -1,5 +1,4 @@
-Archaeoglobales ORDER
-=======
+# Archaeoglobales ORDER
 
 #### Status
 ACCEPTED

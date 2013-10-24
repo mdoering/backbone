@@ -1,5 +1,4 @@
-Asteromassaria berberidicola (G.H. Otth) Boise SPECIES
-=======
+# Asteromassaria berberidicola (G.H. Otth) Boise SPECIES
 
 #### Status
 ACCEPTED

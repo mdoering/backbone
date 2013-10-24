@@ -1,5 +1,4 @@
-Azobacter GENUS
-=======
+# Azobacter GENUS
 
 #### Status
 ACCEPTED

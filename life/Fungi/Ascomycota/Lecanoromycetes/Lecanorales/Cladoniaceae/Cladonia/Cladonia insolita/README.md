@@ -1,5 +1,4 @@
-Cladonia insolita Ahti & Krog SPECIES
-=======
+# Cladonia insolita Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

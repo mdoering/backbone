@@ -1,5 +1,4 @@
-Pseudocercospora chionanthicola C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora chionanthicola C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

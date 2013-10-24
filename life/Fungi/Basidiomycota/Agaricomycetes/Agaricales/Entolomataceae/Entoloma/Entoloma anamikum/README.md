@@ -1,5 +1,4 @@
-Entoloma anamikum Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma anamikum Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

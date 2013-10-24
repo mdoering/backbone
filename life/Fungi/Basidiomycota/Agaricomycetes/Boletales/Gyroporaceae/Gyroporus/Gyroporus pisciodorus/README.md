@@ -1,5 +1,4 @@
-Gyroporus pisciodorus Murrill SPECIES
-=======
+# Gyroporus pisciodorus Murrill SPECIES
 
 #### Status
 ACCEPTED

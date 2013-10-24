@@ -1,5 +1,4 @@
-Puccinia micranthae Griffiths SPECIES
-=======
+# Puccinia micranthae Griffiths SPECIES
 
 #### Status
 ACCEPTED

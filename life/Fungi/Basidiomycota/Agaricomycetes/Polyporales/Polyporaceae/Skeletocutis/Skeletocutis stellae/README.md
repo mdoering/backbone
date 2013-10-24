@@ -1,14 +1,13 @@
-Poria stellae Pilát, 1953 SPECIES
-=======
+# Skeletocutis stellae (Pilát) Jean Keller, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sborn. Nár. Mus. v Praze, Rada B, Prír. Vedy 9(2): 107 (1953)
+Nov. Sist. vjssh. niz. Rast. , 1976 353 (1979)
 
 #### Original name
 Poria stellae Pilát, 1953

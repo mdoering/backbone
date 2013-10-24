@@ -1,5 +1,4 @@
-Acremonium flexuosum Peck SPECIES
-=======
+# Acremonium flexuosum Peck SPECIES
 
 #### Status
 ACCEPTED

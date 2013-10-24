@@ -1,5 +1,4 @@
-Truncatoscaphus pauciramus SPECIES
-=======
+# Truncatoscaphus pauciramus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporonema diamandidis Minter, 1980 SPECIES
-=======
+# Micraspis strobilina Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Bot. Soc. Edinb. 43(3): 183 (1980)
+Kew Bull. 25(2): 362 (1971)
 
 #### Original name
-Sporonema diamandidis Minter, 1980
+Micraspis strobilina Dennis, 1971
 
 ### Remarks
 null

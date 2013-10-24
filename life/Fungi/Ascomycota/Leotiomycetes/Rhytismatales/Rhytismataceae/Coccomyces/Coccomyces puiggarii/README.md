@@ -1,5 +1,4 @@
-Coccomyces puiggarii Speg., 1919 SPECIES
-=======
+# Coccomyces puiggarii Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

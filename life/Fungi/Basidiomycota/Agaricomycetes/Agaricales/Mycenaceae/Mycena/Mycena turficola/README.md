@@ -1,5 +1,4 @@
-Mycena turficola Singer SPECIES
-=======
+# Mycena turficola Singer SPECIES
 
 #### Status
 ACCEPTED

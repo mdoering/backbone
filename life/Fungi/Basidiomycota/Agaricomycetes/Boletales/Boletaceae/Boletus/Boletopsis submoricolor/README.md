@@ -1,5 +1,4 @@
-Boletopsis submoricolor (Frost) Henn. SPECIES
-=======
+# Boletopsis submoricolor (Frost) Henn. SPECIES
 
 #### Status
 ACCEPTED

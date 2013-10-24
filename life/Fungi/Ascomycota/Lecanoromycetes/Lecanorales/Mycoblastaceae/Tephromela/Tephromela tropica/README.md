@@ -1,5 +1,4 @@
-Tephromela tropica Kalb SPECIES
-=======
+# Tephromela tropica Kalb SPECIES
 
 #### Status
 ACCEPTED

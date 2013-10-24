@@ -1,5 +1,4 @@
-Eutypella cheirolophi Maire SPECIES
-=======
+# Eutypella cheirolophi Maire SPECIES
 
 #### Status
 ACCEPTED

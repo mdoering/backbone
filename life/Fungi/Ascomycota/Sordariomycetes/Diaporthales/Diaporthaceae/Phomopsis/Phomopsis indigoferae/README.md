@@ -1,5 +1,4 @@
-Phomopsis indigoferae (Sacc.) Traverso & Spessa SPECIES
-=======
+# Phomopsis indigoferae (Sacc.) Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

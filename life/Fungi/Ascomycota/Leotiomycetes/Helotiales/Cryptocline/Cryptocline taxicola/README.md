@@ -1,14 +1,13 @@
-Gloeosporium taxicola Allesch., 1896 SPECIES
-=======
+# Cryptocline taxicola (Allesch.) Petr., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 35: 34 (1896)
+Annls mycol. 23(1/2): 24 (1925)
 
 #### Original name
 Gloeosporium taxicola Allesch., 1896

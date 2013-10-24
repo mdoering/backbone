@@ -1,5 +1,4 @@
-Kluyveromyces phaffii Van der Walt, 1971 SPECIES
-=======
+# Kluyveromyces phaffii Van der Walt, 1971 SPECIES
 
 #### Status
 ACCEPTED

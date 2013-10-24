@@ -1,5 +1,4 @@
-Phyllosticta heteromeles Cooke & Harkn. SPECIES
-=======
+# Phyllosticta heteromeles Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

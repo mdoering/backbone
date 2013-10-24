@@ -1,14 +1,13 @@
-Olpidiopsis feldmannii Aleem, 1952 SPECIES
-=======
+# Pontisma feldmannii (Aleem) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc Acad. Sci. , Paris, Paris 235: 1250 (1952)
+Straminipilous Fungi (Dordrecht) 362 (2001)
 
 #### Original name
 Olpidiopsis feldmannii Aleem, 1952

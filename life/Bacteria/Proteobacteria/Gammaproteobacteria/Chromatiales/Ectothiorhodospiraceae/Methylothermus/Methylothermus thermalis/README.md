@@ -1,5 +1,4 @@
-Methylothermus thermalis Tsubota et al., 2005 SPECIES
-=======
+# Methylothermus thermalis Tsubota et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

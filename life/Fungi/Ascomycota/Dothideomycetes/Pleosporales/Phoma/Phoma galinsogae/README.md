@@ -1,5 +1,4 @@
-Phoma galinsogae Allesch. SPECIES
-=======
+# Phoma galinsogae Allesch. SPECIES
 
 #### Status
 ACCEPTED

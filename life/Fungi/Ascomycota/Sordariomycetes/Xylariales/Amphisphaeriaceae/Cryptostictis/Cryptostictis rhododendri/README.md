@@ -1,5 +1,4 @@
-Cryptostictis rhododendri (Sousa da Câmara) B. Sutton SPECIES
-=======
+# Cryptostictis rhododendri (Sousa da Câmara) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

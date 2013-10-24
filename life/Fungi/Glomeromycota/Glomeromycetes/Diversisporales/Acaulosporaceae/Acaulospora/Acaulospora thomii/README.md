@@ -1,5 +1,4 @@
-Acaulospora thomii Blaszk., 1988 SPECIES
-=======
+# Acaulospora thomii Blaszk., 1988 SPECIES
 
 #### Status
 ACCEPTED

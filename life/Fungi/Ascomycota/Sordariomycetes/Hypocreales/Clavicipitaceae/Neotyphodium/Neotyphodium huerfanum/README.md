@@ -1,14 +1,13 @@
-Acremonium huerfanum J.F. White, G.T. Cole & Morgan-Jones, 1987 SPECIES
-=======
+# Neotyphodium huerfanum (J.F. White, G.T. Cole & Morgan-Jones) Glenn, C.W. Bacon & Hanlin, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 79(1): 150 (1987)
+in Glenn, Bacon, Price & Hanlin, Mycologia 88(3): 378 (1996)
 
 #### Original name
 Acremonium huerfanum J.F. White, G.T. Cole & Morgan-Jones, 1987

@@ -1,5 +1,4 @@
-Psorothecium tiroliensis Zahlbr. SPECIES
-=======
+# Psorothecium tiroliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

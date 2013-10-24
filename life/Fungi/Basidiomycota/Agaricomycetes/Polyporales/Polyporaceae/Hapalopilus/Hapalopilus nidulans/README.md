@@ -1,17 +1,16 @@
-Polyporus nidulans subsp. nidulans SUBSPECIES
-=======
+# Hapalopilus nidulans (Fr.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 362 (1821)
+Revue mycol. , Toulouse 3(9): 18 (1881)
 
 #### Original name
-Polyporus nidulans subsp. nidulans
+Polyporus nidulans Fr., 1821
 
 ### Remarks
 null

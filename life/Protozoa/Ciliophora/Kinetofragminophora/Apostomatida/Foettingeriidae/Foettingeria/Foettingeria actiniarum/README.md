@@ -1,5 +1,4 @@
-Foettingeria actiniarum (Claparède, 1863) Caullery & Mesnil, 1903 SPECIES
-=======
+# Foettingeria actiniarum (Claparède, 1863) Caullery & Mesnil, 1903 SPECIES
 
 #### Status
 ACCEPTED

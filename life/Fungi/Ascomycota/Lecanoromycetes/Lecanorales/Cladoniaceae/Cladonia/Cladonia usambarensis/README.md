@@ -1,5 +1,4 @@
-Cladonia usambarensis Ahti & Krog SPECIES
-=======
+# Cladonia usambarensis Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

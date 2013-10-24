@@ -1,5 +1,4 @@
-Macroplodia endophloea (Pass.) Kuntze SPECIES
-=======
+# Macroplodia endophloea (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paulia tessellata Henssen SPECIES
-=======
+# Paulia tessellata Henssen SPECIES
 
 #### Status
 ACCEPTED

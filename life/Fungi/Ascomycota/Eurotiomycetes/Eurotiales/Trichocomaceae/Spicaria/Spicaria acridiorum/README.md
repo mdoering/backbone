@@ -1,5 +1,4 @@
-Spicaria acridiorum (Trab.) Vuill. SPECIES
-=======
+# Spicaria acridiorum (Trab.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

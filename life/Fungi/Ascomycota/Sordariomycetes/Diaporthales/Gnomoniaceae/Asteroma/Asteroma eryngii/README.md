@@ -1,5 +1,4 @@
-Asteroma eryngii Auersw. SPECIES
-=======
+# Asteroma eryngii Auersw. SPECIES
 
 #### Status
 ACCEPTED

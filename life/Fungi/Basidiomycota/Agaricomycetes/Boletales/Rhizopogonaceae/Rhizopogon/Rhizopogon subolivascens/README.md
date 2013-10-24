@@ -1,5 +1,4 @@
-Rhizopogon subolivascens A.H. Sm. SPECIES
-=======
+# Rhizopogon subolivascens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

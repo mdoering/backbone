@@ -1,5 +1,4 @@
-Amphidinium boekhoutensis Caljon, 1983 SPECIES
-=======
+# Amphidinium boekhoutensis Caljon, 1983 SPECIES
 
 #### Status
 ACCEPTED

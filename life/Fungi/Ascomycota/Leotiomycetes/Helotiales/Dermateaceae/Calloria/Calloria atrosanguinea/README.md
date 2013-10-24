@@ -1,5 +1,4 @@
-Calloria atrosanguinea Rehm SPECIES
-=======
+# Calloria atrosanguinea Rehm SPECIES
 
 #### Status
 ACCEPTED

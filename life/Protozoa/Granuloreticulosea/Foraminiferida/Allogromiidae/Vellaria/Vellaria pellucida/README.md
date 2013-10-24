@@ -1,5 +1,4 @@
-Vellaria pellucida Gooday & Fernando, 1992 SPECIES
-=======
+# Vellaria pellucida Gooday & Fernando, 1992 SPECIES
 
 #### Status
 ACCEPTED

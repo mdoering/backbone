@@ -1,5 +1,4 @@
-Uredo duchesneae (Arthur) SPECIES
-=======
+# Uredo duchesneae (Arthur) SPECIES
 
 #### Status
 ACCEPTED

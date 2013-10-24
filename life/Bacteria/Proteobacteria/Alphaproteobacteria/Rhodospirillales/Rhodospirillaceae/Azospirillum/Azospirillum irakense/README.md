@@ -1,5 +1,4 @@
-Azospirillum irakense Khammas et al., 1991 SPECIES
-=======
+# Azospirillum irakense Khammas et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

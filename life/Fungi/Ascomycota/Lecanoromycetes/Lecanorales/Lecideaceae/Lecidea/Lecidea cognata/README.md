@@ -1,5 +1,4 @@
-Lecidea cognata Nyl. SPECIES
-=======
+# Lecidea cognata Nyl. SPECIES
 
 #### Status
 ACCEPTED

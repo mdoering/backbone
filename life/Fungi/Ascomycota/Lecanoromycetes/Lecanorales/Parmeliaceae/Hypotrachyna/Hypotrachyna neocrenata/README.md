@@ -1,5 +1,4 @@
-Hypotrachyna neocrenata Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna neocrenata Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

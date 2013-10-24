@@ -1,5 +1,4 @@
-Halteria minima Gelei, 1954 SPECIES
-=======
+# Halteria minima Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerebella italica (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Cerebella italica (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

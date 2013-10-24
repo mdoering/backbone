@@ -1,5 +1,4 @@
-Leptolyngbya calotrichoides (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Leptolyngbya calotrichoides (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

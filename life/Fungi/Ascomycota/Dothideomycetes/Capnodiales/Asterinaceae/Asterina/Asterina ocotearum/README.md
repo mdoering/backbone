@@ -1,5 +1,4 @@
-Asterina ocotearum Petr. & Cif. SPECIES
-=======
+# Asterina ocotearum Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

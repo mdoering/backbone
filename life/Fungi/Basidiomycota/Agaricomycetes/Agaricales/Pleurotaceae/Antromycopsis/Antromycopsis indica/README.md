@@ -1,5 +1,4 @@
-Antromycopsis indica Henn. SPECIES
-=======
+# Antromycopsis indica Henn. SPECIES
 
 #### Status
 ACCEPTED

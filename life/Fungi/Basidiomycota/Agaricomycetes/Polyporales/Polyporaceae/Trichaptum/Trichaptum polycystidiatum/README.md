@@ -1,5 +1,4 @@
-Trichaptum polycystidiatum (Pilát) Y.C. Dai SPECIES
-=======
+# Trichaptum polycystidiatum (Pilát) Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

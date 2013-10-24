@@ -1,5 +1,4 @@
-Hymenochaete australis Parmasto & Gresl. SPECIES
-=======
+# Hymenochaete australis Parmasto & Gresl. SPECIES
 
 #### Status
 ACCEPTED

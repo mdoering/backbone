@@ -1,5 +1,4 @@
-Jattaea mookgoponga Damm & Crous SPECIES
-=======
+# Jattaea mookgoponga Damm & Crous SPECIES
 
 #### Status
 ACCEPTED

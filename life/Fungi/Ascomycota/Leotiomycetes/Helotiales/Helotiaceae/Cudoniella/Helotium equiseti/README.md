@@ -1,5 +1,4 @@
-Helotium equiseti Velen. SPECIES
-=======
+# Helotium equiseti Velen. SPECIES
 
 #### Status
 ACCEPTED

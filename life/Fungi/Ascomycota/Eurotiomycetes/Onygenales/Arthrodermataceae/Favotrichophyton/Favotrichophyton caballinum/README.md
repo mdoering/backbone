@@ -1,5 +1,4 @@
-Favotrichophyton caballinum Neveu-Lem. SPECIES
-=======
+# Favotrichophyton caballinum Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

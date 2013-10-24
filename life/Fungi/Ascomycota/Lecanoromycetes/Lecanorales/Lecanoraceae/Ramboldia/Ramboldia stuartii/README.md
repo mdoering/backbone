@@ -1,17 +1,16 @@
-Ramboldia elabens (Fr.) Kantvilas & Elix SPECIES
-=======
+# Ramboldia stuartii (Hampe) Kantvilas & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 39(2): 139 (2007)
+Bryologist 97(3): 299 (1994)
 
 #### Original name
-Lecidea elabens Th. Fr.
+Lecidea stuartii Hampe
 
 ### Remarks
 null

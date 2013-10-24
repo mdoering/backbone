@@ -1,14 +1,13 @@
-Lentinus ventricosus Peck, 1896 SPECIES
-=======
+# Catathelasma ventricosum (Peck) Singer, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 23: 414 (1896)
+Revue Mycol. , Paris 5: 9 (1940)
 
 #### Original name
 Lentinus ventricosus Peck, 1896

@@ -1,5 +1,4 @@
-Arthonia rubiginella Nyl. SPECIES
-=======
+# Arthonia rubiginella Nyl. SPECIES
 
 #### Status
 ACCEPTED

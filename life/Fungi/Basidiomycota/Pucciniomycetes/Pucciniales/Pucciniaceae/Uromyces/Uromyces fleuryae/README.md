@@ -1,5 +1,4 @@
-Uromyces fleuryae J.M. Yen SPECIES
-=======
+# Uromyces fleuryae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

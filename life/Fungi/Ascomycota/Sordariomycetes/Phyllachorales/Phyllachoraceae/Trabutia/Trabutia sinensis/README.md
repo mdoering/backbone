@@ -1,5 +1,4 @@
-Trabutia sinensis Arx & E. Müll. SPECIES
-=======
+# Trabutia sinensis Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

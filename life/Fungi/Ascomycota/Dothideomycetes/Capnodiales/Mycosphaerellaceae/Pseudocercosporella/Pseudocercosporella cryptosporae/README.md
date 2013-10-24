@@ -1,5 +1,4 @@
-Pseudocercosporella cryptosporae (Byzova) U. Braun SPECIES
-=======
+# Pseudocercosporella cryptosporae (Byzova) U. Braun SPECIES
 
 #### Status
 ACCEPTED

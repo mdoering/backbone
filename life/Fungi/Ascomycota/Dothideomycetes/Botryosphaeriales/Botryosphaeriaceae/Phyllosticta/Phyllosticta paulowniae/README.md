@@ -1,5 +1,4 @@
-Phyllosticta paulowniae Sacc. SPECIES
-=======
+# Phyllosticta paulowniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

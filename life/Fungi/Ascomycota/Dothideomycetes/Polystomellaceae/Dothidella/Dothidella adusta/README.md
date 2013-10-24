@@ -1,5 +1,4 @@
-Dothidella adusta Lind SPECIES
-=======
+# Dothidella adusta Lind SPECIES
 
 #### Status
 ACCEPTED

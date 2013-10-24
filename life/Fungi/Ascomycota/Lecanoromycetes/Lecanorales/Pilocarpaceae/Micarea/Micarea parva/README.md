@@ -1,5 +1,4 @@
-Micarea parva Coppins SPECIES
-=======
+# Micarea parva Coppins SPECIES
 
 #### Status
 ACCEPTED

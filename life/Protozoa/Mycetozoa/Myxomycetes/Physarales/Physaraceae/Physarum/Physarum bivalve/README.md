@@ -1,17 +1,16 @@
-Lignydium sinuosum (Bull.) Kuntze, 1898 SPECIES
-=======
+# Physarum bivalve Pers., 1795 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. (Usteri) 15: 5 (1795)
 
 #### Original name
-null
+Physarum bivalve Pers., 1795
 
 ### Remarks
 null

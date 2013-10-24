@@ -1,5 +1,4 @@
-Rosellinia langloisii Ellis & Everh. SPECIES
-=======
+# Rosellinia langloisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

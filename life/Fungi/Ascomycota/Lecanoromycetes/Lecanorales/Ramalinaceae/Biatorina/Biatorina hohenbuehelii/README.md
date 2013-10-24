@@ -1,5 +1,4 @@
-Biatorina hohenbuehelii Poetsch SPECIES
-=======
+# Biatorina hohenbuehelii Poetsch SPECIES
 
 #### Status
 ACCEPTED

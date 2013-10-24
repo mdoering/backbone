@@ -1,5 +1,4 @@
-Teichospora pomiformis var. pomiformis VARIETY
-=======
+# Teichospora pomiformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teichospora pomiformis var. pomiformis
+Teichospora pomiformis P. Karst.
 
 ### Remarks
 null

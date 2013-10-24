@@ -1,5 +1,4 @@
-Platygrapha atomella Stirt. SPECIES
-=======
+# Platygrapha atomella Stirt. SPECIES
 
 #### Status
 ACCEPTED

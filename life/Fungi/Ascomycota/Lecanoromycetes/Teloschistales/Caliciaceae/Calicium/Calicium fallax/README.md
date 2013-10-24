@@ -1,5 +1,4 @@
-Calicium fallax Auersw. SPECIES
-=======
+# Calicium fallax Auersw. SPECIES
 
 #### Status
 ACCEPTED

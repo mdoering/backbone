@@ -1,5 +1,4 @@
-Bacillus jeotgali Yoon et al., 2001 SPECIES
-=======
+# Bacillus jeotgali Yoon et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia distendens Nyl. SPECIES
-=======
+# Arthonia distendens Nyl. SPECIES
 
 #### Status
 ACCEPTED

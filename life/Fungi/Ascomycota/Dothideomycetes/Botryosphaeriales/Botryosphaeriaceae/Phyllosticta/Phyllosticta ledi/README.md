@@ -1,5 +1,4 @@
-Phyllosticta ledi Rostr. SPECIES
-=======
+# Phyllosticta ledi Rostr. SPECIES
 
 #### Status
 ACCEPTED

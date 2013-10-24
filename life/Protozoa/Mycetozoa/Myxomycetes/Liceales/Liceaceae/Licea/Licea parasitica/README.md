@@ -1,17 +1,16 @@
-Cylichnium operculatum Wallr., 1833 SPECIES
-=======
+# Licea parasitica (Zukal) G.W. Martin, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 34(6): 702 (1942)
 
 #### Original name
-null
+Hymenobolus parasiticus Zukal, 1893
 
 ### Remarks
 null

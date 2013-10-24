@@ -1,5 +1,4 @@
-Groenlandiella Kol, 1964 GENUS
-=======
+# Groenlandiella Kol, 1964 GENUS
 
 #### Status
 ACCEPTED

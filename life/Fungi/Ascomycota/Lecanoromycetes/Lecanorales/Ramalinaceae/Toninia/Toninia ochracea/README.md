@@ -1,5 +1,4 @@
-Toninia ochracea Werner SPECIES
-=======
+# Toninia ochracea Werner SPECIES
 
 #### Status
 ACCEPTED

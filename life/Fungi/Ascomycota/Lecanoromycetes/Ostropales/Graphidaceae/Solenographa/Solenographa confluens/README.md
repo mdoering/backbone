@@ -1,5 +1,4 @@
-Solenographa confluens (Mont.) A. Massal. SPECIES
-=======
+# Solenographa confluens (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prospodium constrictum Cummins SPECIES
-=======
+# Prospodium constrictum Cummins SPECIES
 
 #### Status
 ACCEPTED

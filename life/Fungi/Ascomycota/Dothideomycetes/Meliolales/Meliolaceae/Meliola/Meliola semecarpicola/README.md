@@ -1,5 +1,4 @@
-Meliola semecarpicola Hansf. SPECIES
-=======
+# Meliola semecarpicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia lethariicola Alstrup & M.S. Cole SPECIES
-=======
+# Arthonia lethariicola Alstrup & M.S. Cole SPECIES
 
 #### Status
 ACCEPTED

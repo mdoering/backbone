@@ -1,5 +1,4 @@
-Sphaerospora flavovirens (Fuckel) Sacc. SPECIES
-=======
+# Sphaerospora flavovirens (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria charvatii Pilát SPECIES
-=======
+# Naucoria charvatii Pilát SPECIES
 
 #### Status
 ACCEPTED

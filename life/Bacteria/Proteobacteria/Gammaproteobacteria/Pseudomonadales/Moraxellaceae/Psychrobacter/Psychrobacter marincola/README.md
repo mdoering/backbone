@@ -1,5 +1,4 @@
-Psychrobacter marincola Romanenko et al., 2002 SPECIES
-=======
+# Psychrobacter marincola Romanenko et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia harknessii (Sacc.) Tassi SPECIES
-=======
+# Microdiplodia harknessii (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

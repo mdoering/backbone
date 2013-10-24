@@ -1,5 +1,4 @@
-Senelella Tekin, 1999 GENUS
-=======
+# Senelella Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

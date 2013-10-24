@@ -1,5 +1,4 @@
-Lermontovaephycus Vologdin GENUS
-=======
+# Lermontovaephycus Vologdin GENUS
 
 #### Status
 ACCEPTED

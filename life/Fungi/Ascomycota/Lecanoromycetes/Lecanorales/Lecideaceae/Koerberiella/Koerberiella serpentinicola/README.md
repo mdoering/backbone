@@ -1,5 +1,4 @@
-Koerberiella serpentinicola (Räsänen) Motyka SPECIES
-=======
+# Koerberiella serpentinicola (Räsänen) Motyka SPECIES
 
 #### Status
 ACCEPTED

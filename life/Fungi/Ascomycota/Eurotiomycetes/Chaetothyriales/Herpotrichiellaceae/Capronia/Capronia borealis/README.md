@@ -1,5 +1,4 @@
-Capronia borealis M.E. Barr SPECIES
-=======
+# Capronia borealis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

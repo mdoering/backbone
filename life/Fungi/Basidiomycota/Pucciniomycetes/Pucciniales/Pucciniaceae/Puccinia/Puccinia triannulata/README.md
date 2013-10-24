@@ -1,5 +1,4 @@
-Puccinia triannulata (Berk. & M.A. Curtis) H.S. Jacks. SPECIES
-=======
+# Puccinia triannulata (Berk. & M.A. Curtis) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

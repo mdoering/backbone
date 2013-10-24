@@ -1,5 +1,4 @@
-Neohauerina McCulloch, 1977 GENUS
-=======
+# Neohauerina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

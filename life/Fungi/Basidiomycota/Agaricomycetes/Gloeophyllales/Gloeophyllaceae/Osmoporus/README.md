@@ -1,5 +1,4 @@
-Osmoporus Singer GENUS
-=======
+# Osmoporus Singer GENUS
 
 #### Status
 ACCEPTED

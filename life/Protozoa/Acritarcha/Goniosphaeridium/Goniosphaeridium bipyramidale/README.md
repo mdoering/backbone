@@ -1,5 +1,4 @@
-Goniosphaeridium bipyramidale E. D. Pöthe de Baldis SPECIES
-=======
+# Goniosphaeridium bipyramidale E. D. Pöthe de Baldis SPECIES
 
 #### Status
 ACCEPTED

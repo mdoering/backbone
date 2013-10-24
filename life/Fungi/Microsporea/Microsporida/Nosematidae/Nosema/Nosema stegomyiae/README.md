@@ -1,5 +1,4 @@
-Nosema stegomyiae SPECIES
-=======
+# Nosema stegomyiae SPECIES
 
 #### Status
 ACCEPTED

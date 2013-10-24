@@ -1,5 +1,4 @@
-Uredinopsis investita Faull SPECIES
-=======
+# Uredinopsis investita Faull SPECIES
 
 #### Status
 ACCEPTED

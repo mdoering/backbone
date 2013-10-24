@@ -1,5 +1,4 @@
-Lepiota cristatiformis Murrill SPECIES
-=======
+# Lepiota cristatiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

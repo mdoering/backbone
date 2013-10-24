@@ -1,5 +1,4 @@
-Puccinia ziziae Ellis & Everh. SPECIES
-=======
+# Puccinia ziziae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

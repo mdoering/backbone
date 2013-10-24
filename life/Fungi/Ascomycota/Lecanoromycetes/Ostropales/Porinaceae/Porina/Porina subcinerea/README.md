@@ -1,5 +1,4 @@
-Porina subcinerea (Nyl.) Zahlbr. SPECIES
-=======
+# Porina subcinerea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

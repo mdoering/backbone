@@ -1,5 +1,4 @@
-Antrodiella pallasii Renvall, Johann. & Stenlid SPECIES
-=======
+# Antrodiella pallasii Renvall, Johann. & Stenlid SPECIES
 
 #### Status
 ACCEPTED

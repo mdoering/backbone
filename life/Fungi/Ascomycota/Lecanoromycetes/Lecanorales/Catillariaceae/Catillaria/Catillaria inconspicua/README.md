@@ -1,5 +1,4 @@
-Catillaria inconspicua C.W. Dodge & G.E. Baker SPECIES
-=======
+# Catillaria inconspicua C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

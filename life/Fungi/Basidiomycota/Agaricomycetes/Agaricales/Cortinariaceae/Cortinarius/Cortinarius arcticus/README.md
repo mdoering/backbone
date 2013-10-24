@@ -1,5 +1,4 @@
-Cortinarius arcticus Singer SPECIES
-=======
+# Cortinarius arcticus Singer SPECIES
 
 #### Status
 ACCEPTED

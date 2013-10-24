@@ -1,5 +1,4 @@
-Ruminococcus luti Simmering et al., 2002 SPECIES
-=======
+# Ruminococcus luti Simmering et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

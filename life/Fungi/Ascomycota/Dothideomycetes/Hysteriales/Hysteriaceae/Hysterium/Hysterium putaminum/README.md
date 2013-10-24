@@ -1,5 +1,4 @@
-Hysterium putaminum Cooke SPECIES
-=======
+# Hysterium putaminum Cooke SPECIES
 
 #### Status
 ACCEPTED

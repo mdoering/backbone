@@ -1,5 +1,4 @@
-Marasmius pyramidalis (Scop.) Fr. SPECIES
-=======
+# Marasmius pyramidalis (Scop.) Fr. SPECIES
 
 #### Status
 ACCEPTED

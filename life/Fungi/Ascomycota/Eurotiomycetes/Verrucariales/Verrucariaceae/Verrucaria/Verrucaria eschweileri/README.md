@@ -1,5 +1,4 @@
-Verrucaria eschweileri Mont. SPECIES
-=======
+# Verrucaria eschweileri Mont. SPECIES
 
 #### Status
 ACCEPTED

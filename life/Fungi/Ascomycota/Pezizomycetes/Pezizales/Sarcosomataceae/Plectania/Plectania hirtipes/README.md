@@ -1,5 +1,4 @@
-Plectania hirtipes (Cooke) Sacc. SPECIES
-=======
+# Plectania hirtipes (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

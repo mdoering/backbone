@@ -1,5 +1,4 @@
-Parasterina hansfordii (Syd.) Bat. SPECIES
-=======
+# Parasterina hansfordii (Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

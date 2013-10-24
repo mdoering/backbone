@@ -1,5 +1,4 @@
-Inocybe rostrata Velen. SPECIES
-=======
+# Inocybe rostrata Velen. SPECIES
 
 #### Status
 ACCEPTED

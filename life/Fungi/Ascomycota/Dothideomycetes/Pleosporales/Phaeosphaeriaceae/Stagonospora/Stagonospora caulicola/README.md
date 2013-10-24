@@ -1,5 +1,4 @@
-Stagonospora caulicola (Desm.) Sacc. SPECIES
-=======
+# Stagonospora caulicola (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

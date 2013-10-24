@@ -1,5 +1,4 @@
-Agaricus fagicola Lasch SPECIES
-=======
+# Agaricus fagicola Lasch SPECIES
 
 #### Status
 ACCEPTED

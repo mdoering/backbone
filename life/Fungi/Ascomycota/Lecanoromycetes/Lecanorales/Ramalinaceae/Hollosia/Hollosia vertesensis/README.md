@@ -1,5 +1,4 @@
-Hollosia vertesensis Gyeln. SPECIES
-=======
+# Hollosia vertesensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

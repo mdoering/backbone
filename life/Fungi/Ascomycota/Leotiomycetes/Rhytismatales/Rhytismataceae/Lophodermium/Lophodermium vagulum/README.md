@@ -1,5 +1,4 @@
-Lophodermium vagulum M. Wilson & N.F. Robertson, 1947 SPECIES
-=======
+# Lophodermium vagulum M. Wilson & N.F. Robertson, 1947 SPECIES
 
 #### Status
 ACCEPTED

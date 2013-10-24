@@ -1,5 +1,4 @@
-Lecanora streimannii Lumbsch SPECIES
-=======
+# Lecanora streimannii Lumbsch SPECIES
 
 #### Status
 ACCEPTED

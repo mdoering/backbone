@@ -1,8 +1,7 @@
-Dasyscypha ochroleucus Penz. & Sacc. SPECIES
-=======
+# Dasyscyphus ochroleucus Penz. & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha ochroleucus Penz. & Sacc.
+Dasyscyphus ochroleucus Penz. & Sacc.
 
 ### Remarks
 null

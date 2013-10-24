@@ -1,5 +1,4 @@
-Psathyrella acadiensis A.H. Sm. SPECIES
-=======
+# Psathyrella acadiensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

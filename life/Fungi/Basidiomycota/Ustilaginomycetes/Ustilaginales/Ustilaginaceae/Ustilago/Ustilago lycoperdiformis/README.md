@@ -1,5 +1,4 @@
-Ustilago lycoperdiformis Zundel SPECIES
-=======
+# Ustilago lycoperdiformis Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aspicilia alpina subsp. alpina SUBSPECIES
-=======
+# Bellemerea alpina (Sommerf.) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 21: 1107 (1871)
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 15: 129 (1984)
 
 #### Original name
-Aspicilia alpina subsp. alpina
+Lecanora alpina Sommerf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calenia meiospora Vain. SPECIES
-=======
+# Calenia meiospora Vain. SPECIES
 
 #### Status
 ACCEPTED

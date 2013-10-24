@@ -1,14 +1,13 @@
-Bactridium triseptatum (Sacc.) Wollenw., 1916 SPECIES
-=======
+# Fusoma triseptatum Sacc., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusaria autographica delineata, Edn 1 no. 457 (1916)
+Syll. fung. (Abellini) 10: 566 (1892)
 
 #### Original name
 Fusoma triseptatum Sacc., 1892

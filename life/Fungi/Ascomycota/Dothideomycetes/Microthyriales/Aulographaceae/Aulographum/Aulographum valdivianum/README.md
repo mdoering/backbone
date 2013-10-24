@@ -1,5 +1,4 @@
-Aulographum valdivianum Speg. SPECIES
-=======
+# Aulographum valdivianum Speg. SPECIES
 
 #### Status
 ACCEPTED

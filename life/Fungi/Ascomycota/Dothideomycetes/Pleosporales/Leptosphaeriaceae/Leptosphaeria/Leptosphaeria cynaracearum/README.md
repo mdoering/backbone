@@ -1,5 +1,4 @@
-Leptosphaeria cynaracearum Auersw. & Niessl SPECIES
-=======
+# Leptosphaeria cynaracearum Auersw. & Niessl SPECIES
 
 #### Status
 ACCEPTED

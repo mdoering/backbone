@@ -1,5 +1,4 @@
-Ochromonas cosmopolita Ruinen SPECIES
-=======
+# Ochromonas cosmopolita Ruinen SPECIES
 
 #### Status
 ACCEPTED

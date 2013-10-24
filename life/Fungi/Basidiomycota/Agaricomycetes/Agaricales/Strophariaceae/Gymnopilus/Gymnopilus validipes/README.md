@@ -1,5 +1,4 @@
-Gymnopilus validipes (Peck) Hesler SPECIES
-=======
+# Gymnopilus validipes (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

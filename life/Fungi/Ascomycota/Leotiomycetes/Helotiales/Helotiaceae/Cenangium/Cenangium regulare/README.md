@@ -1,5 +1,4 @@
-Cenangium regulare Fr. SPECIES
-=======
+# Cenangium regulare Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kolpoda triangulata Bory, 1824 SPECIES
-=======
+# Kolpoda triangulata Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

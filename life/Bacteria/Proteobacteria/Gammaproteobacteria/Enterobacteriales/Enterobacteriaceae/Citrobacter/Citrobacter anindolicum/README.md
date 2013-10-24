@@ -1,5 +1,4 @@
-Citrobacter anindolicum SPECIES
-=======
+# Citrobacter anindolicum SPECIES
 
 #### Status
 ACCEPTED

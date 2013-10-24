@@ -1,14 +1,13 @@
-Allantozythia asparagi (Fautrey & Roum.) Petr., 1923 SPECIES
-=======
+# Phlyctema asparagi Fautrey & Roum., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 21: 23 (1923)
+Krypt. -Fl. Brandenburg (Leipzig) 9: 700 (1914)
 
 #### Original name
 Phlyctema asparagi Fautrey & Roum., 1892

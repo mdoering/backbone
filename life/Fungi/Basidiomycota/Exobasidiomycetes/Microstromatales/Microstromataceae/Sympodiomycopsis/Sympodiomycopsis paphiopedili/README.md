@@ -1,5 +1,4 @@
-Sympodiomycopsis paphiopedili Sugiy., Tokuoka & Komag., 1991 SPECIES
-=======
+# Sympodiomycopsis paphiopedili Sugiy., Tokuoka & Komag., 1991 SPECIES
 
 #### Status
 ACCEPTED

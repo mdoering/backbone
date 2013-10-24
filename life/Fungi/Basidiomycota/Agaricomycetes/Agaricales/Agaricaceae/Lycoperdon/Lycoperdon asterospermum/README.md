@@ -1,5 +1,4 @@
-Lycoperdon asterospermum Durieu & Mont. SPECIES
-=======
+# Lycoperdon asterospermum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

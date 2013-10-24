@@ -1,5 +1,4 @@
-Chaetomium mareoticum Besada & Yusef, 1969 SPECIES
-=======
+# Chaetomium mareoticum Besada & Yusef, 1969 SPECIES
 
 #### Status
 ACCEPTED

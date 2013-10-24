@@ -1,5 +1,4 @@
-Excipula lanuginosa Peck SPECIES
-=======
+# Excipula lanuginosa Peck SPECIES
 
 #### Status
 ACCEPTED

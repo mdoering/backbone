@@ -1,5 +1,4 @@
-Ramalea myriocladella Müll. Arg. SPECIES
-=======
+# Ramalea myriocladella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

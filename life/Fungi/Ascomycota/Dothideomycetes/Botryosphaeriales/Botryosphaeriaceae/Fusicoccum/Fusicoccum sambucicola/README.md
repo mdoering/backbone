@@ -1,5 +1,4 @@
-Fusicoccum sambucicola Scalia SPECIES
-=======
+# Fusicoccum sambucicola Scalia SPECIES
 
 #### Status
 ACCEPTED

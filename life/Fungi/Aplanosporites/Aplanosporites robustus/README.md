@@ -1,5 +1,4 @@
-Aplanosporites robustus R.K. Kar SPECIES
-=======
+# Aplanosporites robustus R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

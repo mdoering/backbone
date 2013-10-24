@@ -1,5 +1,4 @@
-Cercosporina physalidicola Speg. SPECIES
-=======
+# Cercosporina physalidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Zignoëlla aterrima (Fuckel) Sacc., 1879 SPECIES
-=======
+# Chaetosphaeria aterrima (Fuckel) Réblová, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Czech Mycol. 50(3): 165 (1998)
 
 #### Original name
-null
+Melanopsamma aterrima Fuckel
 
 ### Remarks
 null

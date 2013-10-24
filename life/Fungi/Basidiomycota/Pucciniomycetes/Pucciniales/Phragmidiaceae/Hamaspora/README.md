@@ -1,17 +1,16 @@
-Hamasporella Höhn. GENUS
-=======
+# Hamaspora Körn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Gärungsphysiol. 1: 226 (1912)
+Hedwigia 16: 22 (1877)
 
 #### Original name
-Hamasporella Höhn.
+Hamaspora Körn.
 
 ### Remarks
 null

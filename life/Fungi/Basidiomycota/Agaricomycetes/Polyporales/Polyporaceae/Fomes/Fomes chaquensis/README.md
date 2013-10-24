@@ -1,14 +1,13 @@
-Phellinus chaquensis (Iaconis & J.E. Wright) J.E. Wright & Blumenf., 1984 SPECIES
-=======
+# Fomes chaquensis Iaconis & J.E. Wright, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 21: 416 (1984)
+Anal. Soc. cient. argent. 156(1): 14 (1953)
 
 #### Original name
 Fomes chaquensis Iaconis & J.E. Wright, 1953

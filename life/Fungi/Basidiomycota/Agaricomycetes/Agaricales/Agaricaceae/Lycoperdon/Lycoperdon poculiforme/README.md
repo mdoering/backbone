@@ -1,5 +1,4 @@
-Lycoperdon poculiforme Jacq. SPECIES
-=======
+# Lycoperdon poculiforme Jacq. SPECIES
 
 #### Status
 ACCEPTED

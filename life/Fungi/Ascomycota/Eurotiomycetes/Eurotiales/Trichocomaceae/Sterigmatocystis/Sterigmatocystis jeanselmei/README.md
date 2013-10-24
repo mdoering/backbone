@@ -1,5 +1,4 @@
-Sterigmatocystis jeanselmei (N. Ota) Nann. SPECIES
-=======
+# Sterigmatocystis jeanselmei (N. Ota) Nann. SPECIES
 
 #### Status
 ACCEPTED

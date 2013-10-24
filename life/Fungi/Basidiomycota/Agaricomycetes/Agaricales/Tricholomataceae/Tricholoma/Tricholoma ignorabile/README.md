@@ -1,5 +1,4 @@
-Tricholoma ignorabile (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma ignorabile (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

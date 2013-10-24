@@ -1,5 +1,4 @@
-Melampsora vernalis Niessl, 1881 SPECIES
-=======
+# Melampsora vernalis Niessl, 1881 SPECIES
 
 #### Status
 ACCEPTED

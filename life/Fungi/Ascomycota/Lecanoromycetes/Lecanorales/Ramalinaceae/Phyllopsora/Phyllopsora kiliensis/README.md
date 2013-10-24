@@ -1,5 +1,4 @@
-Phyllopsora kiliensis (Vain.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora kiliensis (Vain.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

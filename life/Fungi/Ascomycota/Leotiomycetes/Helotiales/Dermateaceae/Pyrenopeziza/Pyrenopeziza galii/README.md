@@ -1,17 +1,16 @@
-Pyrenopeziza galii f. galii Fuckel FORM
-=======
+# Pyrenopeziza galii Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 295 (1870)
 
 #### Original name
-Pyrenopeziza galii f. galii Fuckel
+Pyrenopeziza galii Fuckel, 1870
 
 ### Remarks
 null

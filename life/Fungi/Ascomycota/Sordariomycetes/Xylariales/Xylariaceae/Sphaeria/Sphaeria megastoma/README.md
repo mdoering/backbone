@@ -1,5 +1,4 @@
-Sphaeria megastoma Peck SPECIES
-=======
+# Sphaeria megastoma Peck SPECIES
 
 #### Status
 ACCEPTED

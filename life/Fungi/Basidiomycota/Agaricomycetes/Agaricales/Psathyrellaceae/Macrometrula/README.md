@@ -1,5 +1,4 @@
-Macrometrula Donk & Singer GENUS
-=======
+# Macrometrula Donk & Singer GENUS
 
 #### Status
 ACCEPTED

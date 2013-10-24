@@ -1,8 +1,7 @@
-Parmotrema dubia (Wulfen) M. Choisy SPECIES
-=======
+# Parmotrema dubium (Wulfen) M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

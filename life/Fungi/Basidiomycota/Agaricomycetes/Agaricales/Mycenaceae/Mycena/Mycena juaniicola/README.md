@@ -1,5 +1,4 @@
-Mycena juaniicola Singer SPECIES
-=======
+# Mycena juaniicola Singer SPECIES
 
 #### Status
 ACCEPTED

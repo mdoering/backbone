@@ -1,5 +1,4 @@
-Melanaria atacamae C.W. Dodge SPECIES
-=======
+# Melanaria atacamae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

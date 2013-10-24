@@ -1,5 +1,4 @@
-Astrosphaera Haeckel, 1887 GENUS
-=======
+# Astrosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium leptobactrum W. Gams, 1971 SPECIES
-=======
+# Verticillium leptobactrum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

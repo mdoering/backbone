@@ -1,5 +1,4 @@
-Euplotes salina Yocom, 1930 SPECIES
-=======
+# Euplotes salina Yocom, 1930 SPECIES
 
 #### Status
 ACCEPTED

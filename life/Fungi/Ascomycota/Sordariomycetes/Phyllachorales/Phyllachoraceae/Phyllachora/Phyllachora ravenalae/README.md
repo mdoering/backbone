@@ -1,14 +1,13 @@
-Catacauma ravenalae (Pat. & Har.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora ravenalae Pat. & Har., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 374 (1915)
+Bull. Soc. mycol. Fr. 28: 283 (1912)
 
 #### Original name
 Phyllachora ravenalae Pat. & Har., 1912

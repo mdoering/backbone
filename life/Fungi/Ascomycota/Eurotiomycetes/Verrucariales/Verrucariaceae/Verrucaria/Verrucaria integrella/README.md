@@ -1,5 +1,4 @@
-Verrucaria integrella (Hue) Nyl. SPECIES
-=======
+# Verrucaria integrella (Hue) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria jussieae Ellis & Kellerm. SPECIES
-=======
+# Septoria jussieae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza pusiola P. Karst. SPECIES
-=======
+# Peziza pusiola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

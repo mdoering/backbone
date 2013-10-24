@@ -1,5 +1,4 @@
-Methylocapsa Dedysh et al., 2002 GENUS
-=======
+# Methylocapsa Dedysh et al., 2002 GENUS
 
 #### Status
 ACCEPTED

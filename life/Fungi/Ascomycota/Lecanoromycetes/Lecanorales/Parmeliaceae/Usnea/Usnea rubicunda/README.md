@@ -1,17 +1,16 @@
-Usnea rubicunda subsp. rubicunda Stirt. SUBSPECIES
-=======
+# Usnea rubicunda Stirt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Scott. Natural. 6: 102 (1881)
 
 #### Original name
-Usnea rubicunda subsp. rubicunda Stirt.
+Usnea rubicunda Stirt.
 
 ### Remarks
 null

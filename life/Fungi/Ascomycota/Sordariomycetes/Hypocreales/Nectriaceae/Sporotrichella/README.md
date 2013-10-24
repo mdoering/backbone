@@ -1,5 +1,4 @@
-Sporotrichella GENUS
-=======
+# Sporotrichella GENUS
 
 #### Status
 ACCEPTED

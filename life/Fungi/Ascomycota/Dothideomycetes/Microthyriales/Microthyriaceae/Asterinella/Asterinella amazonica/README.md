@@ -1,5 +1,4 @@
-Asterinella amazonica Syd. & P. Syd. SPECIES
-=======
+# Asterinella amazonica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

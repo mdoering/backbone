@@ -1,5 +1,4 @@
-Candida alimentaria Knutsen, V. Robert & M.T. Sm. SPECIES
-=======
+# Candida alimentaria Knutsen, V. Robert & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

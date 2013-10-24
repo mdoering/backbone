@@ -1,5 +1,4 @@
-Calothrix simplex Gardner SPECIES
-=======
+# Calothrix simplex Gardner SPECIES
 
 #### Status
 ACCEPTED

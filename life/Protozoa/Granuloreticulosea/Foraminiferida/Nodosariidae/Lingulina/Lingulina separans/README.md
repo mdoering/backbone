@@ -1,5 +1,4 @@
-Lingulina separans Buchner, 1940 SPECIES
-=======
+# Lingulina separans Buchner, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyadosporites minor Sal.-Cheb. & Locq. SPECIES
-=======
+# Dyadosporites minor Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora rostkoviae P.R. Johnst. & P.F. Cannon, 2004 SPECIES
-=======
+# Phyllachora rostkoviae P.R. Johnst. & P.F. Cannon, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotidium nanum Sacc. SPECIES
-=======
+# Helotidium nanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoporellum leucoplacum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Mycoporellum leucoplacum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

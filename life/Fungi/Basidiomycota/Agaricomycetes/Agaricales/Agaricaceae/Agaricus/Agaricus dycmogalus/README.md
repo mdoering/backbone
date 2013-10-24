@@ -1,5 +1,4 @@
-Agaricus dycmogalus Bull. SPECIES
-=======
+# Agaricus dycmogalus Bull. SPECIES
 
 #### Status
 ACCEPTED

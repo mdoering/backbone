@@ -1,5 +1,4 @@
-Dactylosporangium Thiemann, Pagani & Beretta GENUS
-=======
+# Dactylosporangium Thiemann, Pagani & Beretta GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora dipsacea (Sacc., E. Bommer & M. Rousseau) Kuntze SPECIES
-=======
+# Filaspora dipsacea (Sacc., E. Bommer & M. Rousseau) Kuntze SPECIES
 
 #### Status
 ACCEPTED

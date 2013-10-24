@@ -1,5 +1,4 @@
-Prorocentrum arcuatum Issle SPECIES
-=======
+# Prorocentrum arcuatum Issle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium diedickeanum Reichert SPECIES
-=======
+# Coniothyrium diedickeanum Reichert SPECIES
 
 #### Status
 ACCEPTED

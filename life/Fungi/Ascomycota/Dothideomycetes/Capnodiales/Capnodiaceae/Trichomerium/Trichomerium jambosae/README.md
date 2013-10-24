@@ -1,5 +1,4 @@
-Trichomerium jambosae Bat. & Cif. SPECIES
-=======
+# Trichomerium jambosae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

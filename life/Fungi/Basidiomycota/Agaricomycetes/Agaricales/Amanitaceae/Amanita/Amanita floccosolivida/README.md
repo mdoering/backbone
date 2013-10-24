@@ -1,5 +1,4 @@
-Amanita floccosolivida Beeli SPECIES
-=======
+# Amanita floccosolivida Beeli SPECIES
 
 #### Status
 ACCEPTED

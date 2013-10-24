@@ -1,5 +1,4 @@
-Crepidotus sepiarius Peck SPECIES
-=======
+# Crepidotus sepiarius Peck SPECIES
 
 #### Status
 ACCEPTED

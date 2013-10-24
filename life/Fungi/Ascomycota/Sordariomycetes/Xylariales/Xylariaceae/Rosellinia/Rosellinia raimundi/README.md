@@ -1,5 +1,4 @@
-Rosellinia raimundi Sacc. SPECIES
-=======
+# Rosellinia raimundi Sacc. SPECIES
 
 #### Status
 ACCEPTED

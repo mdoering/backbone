@@ -1,17 +1,16 @@
-Brachysporium minutus Bat. & H. Maia SPECIES
-=======
+# Brachysporium minutum Bat. & H. Maia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista et al. , Publções Inst. Micol. Recife 446: 4 (1965)
 
 #### Original name
-Brachysporium minutus Bat. & H. Maia
+Brachysporium minutum Bat. & H. Maia
 
 ### Remarks
 null

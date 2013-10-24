@@ -1,5 +1,4 @@
-Belonium tympanoides (Ellis & Everh.) Seaver SPECIES
-=======
+# Belonium tympanoides (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

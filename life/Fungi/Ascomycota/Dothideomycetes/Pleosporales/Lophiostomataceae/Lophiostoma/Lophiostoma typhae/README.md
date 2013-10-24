@@ -1,5 +1,4 @@
-Lophiostoma typhae Nitschke SPECIES
-=======
+# Lophiostoma typhae Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium atypicum K.S. Deshp. & K.B. Deshp. SPECIES
-=======
+# Helminthosporium atypicum K.S. Deshp. & K.B. Deshp. SPECIES
 
 #### Status
 ACCEPTED

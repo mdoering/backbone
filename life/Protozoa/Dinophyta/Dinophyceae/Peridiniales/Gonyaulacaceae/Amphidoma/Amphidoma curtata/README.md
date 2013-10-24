@@ -1,5 +1,4 @@
-Amphidoma curtata Kofoid & Swezy, 1911 SPECIES
-=======
+# Amphidoma curtata Kofoid & Swezy, 1911 SPECIES
 
 #### Status
 ACCEPTED

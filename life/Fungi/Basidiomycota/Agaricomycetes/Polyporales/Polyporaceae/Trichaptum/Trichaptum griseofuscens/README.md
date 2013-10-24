@@ -1,5 +1,4 @@
-Trichaptum griseofuscens Ryvarden & Iturr. SPECIES
-=======
+# Trichaptum griseofuscens Ryvarden & Iturr. SPECIES
 
 #### Status
 ACCEPTED

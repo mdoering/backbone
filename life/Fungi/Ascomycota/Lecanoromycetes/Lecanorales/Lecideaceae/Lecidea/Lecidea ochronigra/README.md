@@ -1,5 +1,4 @@
-Lecidea ochronigra (J. Steiner) Hue SPECIES
-=======
+# Lecidea ochronigra (J. Steiner) Hue SPECIES
 
 #### Status
 ACCEPTED

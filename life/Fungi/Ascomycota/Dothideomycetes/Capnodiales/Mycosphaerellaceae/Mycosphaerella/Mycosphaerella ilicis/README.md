@@ -1,5 +1,4 @@
-Mycosphaerella ilicis (Ellis) Lindau SPECIES
-=======
+# Mycosphaerella ilicis (Ellis) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus chacaritae Raithelh. SPECIES
-=======
+# Coprinus chacaritae Raithelh. SPECIES
 
 #### Status
 ACCEPTED

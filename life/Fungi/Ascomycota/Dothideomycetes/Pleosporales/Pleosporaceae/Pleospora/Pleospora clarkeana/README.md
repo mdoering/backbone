@@ -1,5 +1,4 @@
-Pleospora clarkeana Ellis & Everh. SPECIES
-=======
+# Pleospora clarkeana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

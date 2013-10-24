@@ -1,5 +1,4 @@
-Lepocinclis pseudo-ovum Conrad SPECIES
-=======
+# Lepocinclis pseudo-ovum Conrad SPECIES
 
 #### Status
 ACCEPTED

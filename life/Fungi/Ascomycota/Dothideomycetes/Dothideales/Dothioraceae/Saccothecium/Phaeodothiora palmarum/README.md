@@ -1,5 +1,4 @@
-Phaeodothiora palmarum (Höhn.) Petr. SPECIES
-=======
+# Phaeodothiora palmarum (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

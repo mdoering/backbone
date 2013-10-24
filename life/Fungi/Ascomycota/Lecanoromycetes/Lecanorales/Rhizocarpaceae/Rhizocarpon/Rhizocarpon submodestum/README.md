@@ -1,14 +1,13 @@
-Lecidea submodesta Vain. SPECIES
-=======
+# Rhizocarpon submodestum (Vain.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 10: 137 (1883)
+Acta Soc. Fauna Flora fenn. 53(no. 1): 301 (1922)
 
 #### Original name
 Lecidea submodesta Vain.

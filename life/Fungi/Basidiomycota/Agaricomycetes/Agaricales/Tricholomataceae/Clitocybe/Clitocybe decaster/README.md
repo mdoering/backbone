@@ -1,5 +1,4 @@
-Clitocybe decaster Fr. SPECIES
-=======
+# Clitocybe decaster Fr. SPECIES
 
 #### Status
 ACCEPTED

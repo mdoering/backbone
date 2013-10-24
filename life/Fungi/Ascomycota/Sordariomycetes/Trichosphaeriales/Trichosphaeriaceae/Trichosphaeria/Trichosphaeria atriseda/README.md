@@ -1,5 +1,4 @@
-Trichosphaeria atriseda Feltgen SPECIES
-=======
+# Trichosphaeria atriseda Feltgen SPECIES
 
 #### Status
 ACCEPTED

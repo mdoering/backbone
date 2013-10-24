@@ -1,5 +1,4 @@
-Pythium porphyrae M. Takah. & M. Sasaki, 1977 SPECIES
-=======
+# Pythium porphyrae M. Takah. & M. Sasaki, 1977 SPECIES
 
 #### Status
 ACCEPTED

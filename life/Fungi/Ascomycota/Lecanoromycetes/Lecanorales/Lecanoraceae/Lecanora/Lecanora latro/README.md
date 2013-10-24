@@ -1,5 +1,4 @@
-Lecanora latro Poelt SPECIES
-=======
+# Lecanora latro Poelt SPECIES
 
 #### Status
 ACCEPTED

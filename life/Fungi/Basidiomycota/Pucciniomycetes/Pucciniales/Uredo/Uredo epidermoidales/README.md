@@ -1,5 +1,4 @@
-Uredo epidermoidales R. Hartig SPECIES
-=======
+# Uredo epidermoidales R. Hartig SPECIES
 
 #### Status
 ACCEPTED

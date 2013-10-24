@@ -1,5 +1,4 @@
-Cornuspirella Cushman, 1928 GENUS
-=======
+# Cornuspirella Cushman, 1928 GENUS
 
 #### Status
 ACCEPTED

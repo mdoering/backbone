@@ -1,5 +1,4 @@
-Scoleconectria GENUS
-=======
+# Scoleconectria GENUS
 
 #### Status
 ACCEPTED

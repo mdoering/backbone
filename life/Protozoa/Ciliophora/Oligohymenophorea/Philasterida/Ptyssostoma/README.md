@@ -1,5 +1,4 @@
-Ptyssostoma Hentschel, 1927 GENUS
-=======
+# Ptyssostoma Hentschel, 1927 GENUS
 
 #### Status
 ACCEPTED

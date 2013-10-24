@@ -1,5 +1,4 @@
-Debaryomyces mycophilus Thanh, Van Dyk & M.J. Wingf., 2002 SPECIES
-=======
+# Debaryomyces mycophilus Thanh, Van Dyk & M.J. Wingf., 2002 SPECIES
 
 #### Status
 ACCEPTED

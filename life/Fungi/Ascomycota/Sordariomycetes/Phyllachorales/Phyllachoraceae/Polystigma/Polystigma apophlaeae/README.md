@@ -1,5 +1,4 @@
-Polystigma apophlaeae Kohlm., 1981 SPECIES
-=======
+# Polystigma apophlaeae Kohlm., 1981 SPECIES
 
 #### Status
 ACCEPTED

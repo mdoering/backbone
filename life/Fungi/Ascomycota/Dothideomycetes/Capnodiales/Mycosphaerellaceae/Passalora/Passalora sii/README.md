@@ -1,5 +1,4 @@
-Passalora sii (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora sii (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

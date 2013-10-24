@@ -1,5 +1,4 @@
-Leiosphaerella longispora Sivan., D.E. Shaw & J.S. Br. SPECIES
-=======
+# Leiosphaerella longispora Sivan., D.E. Shaw & J.S. Br. SPECIES
 
 #### Status
 ACCEPTED

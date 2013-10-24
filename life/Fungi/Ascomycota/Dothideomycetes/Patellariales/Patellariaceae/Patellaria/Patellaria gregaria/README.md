@@ -1,5 +1,4 @@
-Patellaria gregaria Kirschst. SPECIES
-=======
+# Patellaria gregaria Kirschst. SPECIES
 
 #### Status
 ACCEPTED

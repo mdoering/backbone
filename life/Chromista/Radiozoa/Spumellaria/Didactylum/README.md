@@ -1,5 +1,4 @@
-Didactylum Baumgartner, 1980 GENUS
-=======
+# Didactylum Baumgartner, 1980 GENUS
 
 #### Status
 ACCEPTED

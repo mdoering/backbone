@@ -1,5 +1,4 @@
-Tubercularia sulcata Schumach. SPECIES
-=======
+# Tubercularia sulcata Schumach. SPECIES
 
 #### Status
 ACCEPTED

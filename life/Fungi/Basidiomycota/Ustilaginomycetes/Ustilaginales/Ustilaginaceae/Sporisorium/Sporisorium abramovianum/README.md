@@ -1,5 +1,4 @@
-Sporisorium abramovianum (Lavrov) Karatygin SPECIES
-=======
+# Sporisorium abramovianum (Lavrov) Karatygin SPECIES
 
 #### Status
 ACCEPTED

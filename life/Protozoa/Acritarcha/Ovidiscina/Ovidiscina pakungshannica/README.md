@@ -1,5 +1,4 @@
-Ovidiscina pakungshannica Zheng Wenwu in Yang Qinghe et al., 1980 SPECIES
-=======
+# Ovidiscina pakungshannica Zheng Wenwu in Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

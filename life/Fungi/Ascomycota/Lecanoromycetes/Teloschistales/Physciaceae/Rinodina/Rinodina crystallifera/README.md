@@ -1,5 +1,4 @@
-Rinodina crystallifera SPECIES
-=======
+# Rinodina crystallifera SPECIES
 
 #### Status
 ACCEPTED

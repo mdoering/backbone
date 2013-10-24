@@ -1,5 +1,4 @@
-Asterina trachycarpa Syd. & P. Syd. SPECIES
-=======
+# Asterina trachycarpa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

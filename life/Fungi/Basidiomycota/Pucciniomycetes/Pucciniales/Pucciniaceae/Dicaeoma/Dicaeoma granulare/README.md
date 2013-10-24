@@ -1,5 +1,4 @@
-Dicaeoma granulare (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Dicaeoma granulare (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

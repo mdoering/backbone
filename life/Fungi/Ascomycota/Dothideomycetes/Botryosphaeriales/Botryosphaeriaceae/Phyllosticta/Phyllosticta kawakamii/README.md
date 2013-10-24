@@ -1,5 +1,4 @@
-Phyllosticta kawakamii Sawada SPECIES
-=======
+# Phyllosticta kawakamii Sawada SPECIES
 
 #### Status
 ACCEPTED

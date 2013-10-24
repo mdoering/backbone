@@ -1,5 +1,4 @@
-Botrytis campsotricha var. campsotricha VARIETY
-=======
+# Botrytis campsotricha Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 117 (1886)
 
 #### Original name
-Botrytis campsotricha var. campsotricha
+Campsotrichum album Bonord.
 
 ### Remarks
 null

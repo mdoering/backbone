@@ -1,5 +1,4 @@
-Depazea increscens (A. Braun) Heer SPECIES
-=======
+# Depazea increscens (A. Braun) Heer SPECIES
 
 #### Status
 ACCEPTED

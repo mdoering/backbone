@@ -1,5 +1,4 @@
-Lepiota oenocephala (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota oenocephala (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

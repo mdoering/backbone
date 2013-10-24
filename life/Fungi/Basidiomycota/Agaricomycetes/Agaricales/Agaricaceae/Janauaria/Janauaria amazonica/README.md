@@ -1,5 +1,4 @@
-Janauaria amazonica Singer, 1986 SPECIES
-=======
+# Janauaria amazonica Singer, 1986 SPECIES
 
 #### Status
 ACCEPTED

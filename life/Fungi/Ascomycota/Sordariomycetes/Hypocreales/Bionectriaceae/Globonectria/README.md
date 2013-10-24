@@ -1,5 +1,4 @@
-Globonectria Etayo GENUS
-=======
+# Globonectria Etayo GENUS
 
 #### Status
 ACCEPTED

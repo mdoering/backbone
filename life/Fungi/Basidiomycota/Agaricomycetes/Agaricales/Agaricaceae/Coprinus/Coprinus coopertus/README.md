@@ -1,5 +1,4 @@
-Coprinus coopertus Fr., 1838 SPECIES
-=======
+# Coprinus coopertus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

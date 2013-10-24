@@ -1,5 +1,4 @@
-Lentibacillus juripiscarius Namwong et al., 2005 SPECIES
-=======
+# Lentibacillus juripiscarius Namwong et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

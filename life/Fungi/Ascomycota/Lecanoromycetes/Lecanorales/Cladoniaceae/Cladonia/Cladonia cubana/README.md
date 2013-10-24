@@ -1,5 +1,4 @@
-Cladonia cubana B. de Lesd. SPECIES
-=======
+# Cladonia cubana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus gratus Schumach. SPECIES
-=======
+# Agaricus gratus Schumach. SPECIES
 
 #### Status
 ACCEPTED

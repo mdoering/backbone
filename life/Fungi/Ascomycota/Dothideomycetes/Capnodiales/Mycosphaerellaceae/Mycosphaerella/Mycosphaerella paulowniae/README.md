@@ -1,5 +1,4 @@
-Mycosphaerella paulowniae Syd. SPECIES
-=======
+# Mycosphaerella paulowniae Syd. SPECIES
 
 #### Status
 ACCEPTED

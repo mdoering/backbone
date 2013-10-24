@@ -1,5 +1,4 @@
-Micronectria pterocarpi Racib. SPECIES
-=======
+# Micronectria pterocarpi Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rubroporus Log.-Leite, Ryvarden & Groposo GENUS
-=======
+# Rubroporus Log.-Leite, Ryvarden & Groposo GENUS
 
 #### Status
 ACCEPTED

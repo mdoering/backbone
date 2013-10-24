@@ -1,5 +1,4 @@
-Ammobaculites Cushman, 1910 GENUS
-=======
+# Ammobaculites Cushman, 1910 GENUS
 
 #### Status
 ACCEPTED

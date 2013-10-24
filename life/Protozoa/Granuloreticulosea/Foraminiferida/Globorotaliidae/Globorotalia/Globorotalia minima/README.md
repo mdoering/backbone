@@ -1,5 +1,4 @@
-Globorotalia minima SPECIES
-=======
+# Globorotalia minima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia placodiomorpha Vain. SPECIES
-=======
+# Buellia placodiomorpha Vain. SPECIES
 
 #### Status
 ACCEPTED

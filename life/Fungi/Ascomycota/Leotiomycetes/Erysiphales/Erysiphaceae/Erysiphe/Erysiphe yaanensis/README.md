@@ -1,5 +1,4 @@
-Erysiphe yaanensis (J.F. Tao & T.J. Li) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe yaanensis (J.F. Tao & T.J. Li) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

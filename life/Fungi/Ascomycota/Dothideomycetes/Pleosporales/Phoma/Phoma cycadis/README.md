@@ -1,5 +1,4 @@
-Phoma cycadis Sacc. & Berl. SPECIES
-=======
+# Phoma cycadis Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

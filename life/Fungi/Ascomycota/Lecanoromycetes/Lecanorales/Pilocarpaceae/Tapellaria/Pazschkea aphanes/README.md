@@ -1,5 +1,4 @@
-Pazschkea aphanes Rehm SPECIES
-=======
+# Pazschkea aphanes Rehm SPECIES
 
 #### Status
 ACCEPTED

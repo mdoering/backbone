@@ -1,5 +1,4 @@
-Urceolaria obscurascens (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria obscurascens (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

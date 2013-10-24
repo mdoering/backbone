@@ -1,5 +1,4 @@
-Halorubrum lipolyticum Cui et al., 2006 SPECIES
-=======
+# Halorubrum lipolyticum Cui et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

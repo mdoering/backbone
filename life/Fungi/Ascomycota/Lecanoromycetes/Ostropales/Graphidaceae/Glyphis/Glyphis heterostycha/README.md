@@ -1,5 +1,4 @@
-Glyphis heterostycha Hepp SPECIES
-=======
+# Glyphis heterostycha Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhopographella clavispora (Cooke & Peck) Sacc. SPECIES
-=======
+# Rhopographella clavispora (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

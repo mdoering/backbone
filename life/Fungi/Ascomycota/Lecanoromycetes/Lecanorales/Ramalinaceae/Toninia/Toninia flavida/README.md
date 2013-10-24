@@ -1,5 +1,4 @@
-Toninia flavida Tomin SPECIES
-=======
+# Toninia flavida Tomin SPECIES
 
 #### Status
 ACCEPTED

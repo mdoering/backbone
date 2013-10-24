@@ -1,5 +1,4 @@
-Clavigerinella Bolli, Loeblich & Tappan, 1957 GENUS
-=======
+# Clavigerinella Bolli, Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

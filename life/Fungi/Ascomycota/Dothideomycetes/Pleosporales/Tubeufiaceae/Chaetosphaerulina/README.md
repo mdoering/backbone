@@ -1,17 +1,16 @@
-Thaxteriellopsis Sivan., Panwar & S.J. Kaur GENUS
-=======
+# Chaetosphaerulina I. Hino GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 4: 39 (1977)
+Bulletin Miyazaki Coll. Agric. Forest. 10: 62 (1938)
 
 #### Original name
-Thaxteriellopsis Sivan., Panwar & S.J. Kaur
+Chaetosphaerulina I. Hino
 
 ### Remarks
 null

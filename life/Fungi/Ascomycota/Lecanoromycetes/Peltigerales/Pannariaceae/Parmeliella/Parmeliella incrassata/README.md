@@ -1,5 +1,4 @@
-Parmeliella incrassata P.M. Jørg. SPECIES
-=======
+# Parmeliella incrassata P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

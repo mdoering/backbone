@@ -1,5 +1,4 @@
-Valsella papyriferae (Schwein.) Berl. & Voglino SPECIES
-=======
+# Valsella papyriferae (Schwein.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

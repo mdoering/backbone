@@ -1,5 +1,4 @@
-Deichmannia verrucispora Alstrup & D. Hawksw., 1990 SPECIES
-=======
+# Deichmannia verrucispora Alstrup & D. Hawksw., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea dichromospora Yoshim. Doi, 1968 SPECIES
-=======
+# Hypocrea dichromospora Yoshim. Doi, 1968 SPECIES
 
 #### Status
 ACCEPTED

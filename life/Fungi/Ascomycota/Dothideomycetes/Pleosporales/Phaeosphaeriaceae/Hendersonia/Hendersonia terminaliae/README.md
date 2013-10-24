@@ -1,5 +1,4 @@
-Hendersonia terminaliae Petr. SPECIES
-=======
+# Hendersonia terminaliae Petr. SPECIES
 
 #### Status
 ACCEPTED

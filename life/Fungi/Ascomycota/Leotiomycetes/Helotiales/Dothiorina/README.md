@@ -1,5 +1,4 @@
-Dothiorina Höhn. GENUS
-=======
+# Dothiorina Höhn. GENUS
 
 #### Status
 ACCEPTED

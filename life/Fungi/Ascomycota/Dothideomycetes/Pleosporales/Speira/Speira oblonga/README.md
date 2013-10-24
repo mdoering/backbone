@@ -1,5 +1,4 @@
-Speira oblonga Fuckel SPECIES
-=======
+# Speira oblonga Fuckel SPECIES
 
 #### Status
 ACCEPTED

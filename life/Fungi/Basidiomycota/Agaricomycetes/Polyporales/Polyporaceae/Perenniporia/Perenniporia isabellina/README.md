@@ -1,17 +1,16 @@
-Polyporus isabellinus Pat. & Gaillard, 1888 SPECIES
-=======
+# Perenniporia isabellina (Pat.) Ryvarden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4(2): 35 (1888)
+Occ. Pap. Farlow Herb. Crypt. Bot. 18: 22 (1983)
 
 #### Original name
-Polyporus isabellinus Pat. & Gaillard, 1888
+Poria isabellina Pat., 1888
 
 ### Remarks
 null

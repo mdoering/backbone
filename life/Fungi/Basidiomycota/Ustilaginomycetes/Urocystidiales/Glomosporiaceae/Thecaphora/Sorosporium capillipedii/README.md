@@ -1,5 +1,4 @@
-Sorosporium capillipedii Mishra SPECIES
-=======
+# Sorosporium capillipedii Mishra SPECIES
 
 #### Status
 ACCEPTED

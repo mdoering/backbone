@@ -1,5 +1,4 @@
-Agaricus paragaudis Fr. SPECIES
-=======
+# Agaricus paragaudis Fr. SPECIES
 
 #### Status
 ACCEPTED

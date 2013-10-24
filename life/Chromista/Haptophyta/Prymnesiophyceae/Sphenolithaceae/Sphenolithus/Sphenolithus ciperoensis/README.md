@@ -1,5 +1,4 @@
-Sphenolithus ciperoensis Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Sphenolithus ciperoensis Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

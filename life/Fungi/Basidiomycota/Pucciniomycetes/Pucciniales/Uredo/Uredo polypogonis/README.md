@@ -1,5 +1,4 @@
-Uredo polypogonis Speg. SPECIES
-=======
+# Uredo polypogonis Speg. SPECIES
 
 #### Status
 ACCEPTED

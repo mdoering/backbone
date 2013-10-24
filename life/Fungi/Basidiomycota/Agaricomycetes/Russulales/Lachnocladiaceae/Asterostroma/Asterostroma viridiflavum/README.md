@@ -1,5 +1,4 @@
-Asterostroma viridiflavum Rick SPECIES
-=======
+# Asterostroma viridiflavum Rick SPECIES
 
 #### Status
 ACCEPTED

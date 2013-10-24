@@ -1,5 +1,4 @@
-Rhabdosphaeraceae Lemmerman, 1908 FAMILY
-=======
+# Rhabdosphaeraceae Lemmerman, 1908 FAMILY
 
 #### Status
 ACCEPTED

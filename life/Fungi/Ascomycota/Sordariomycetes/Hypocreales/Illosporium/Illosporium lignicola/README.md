@@ -1,5 +1,4 @@
-Illosporium lignicola Delacr. SPECIES
-=======
+# Illosporium lignicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe aurantiifolia Beller SPECIES
-=======
+# Inocybe aurantiifolia Beller SPECIES
 
 #### Status
 ACCEPTED

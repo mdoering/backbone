@@ -1,14 +1,13 @@
-Sthughesia juniperi (Dearn.) M.E. Barr, 1987 SPECIES
-=======
+# Xenomeris juniperi (Dearn.) M.E. Barr & E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 29: 503 (1987)
+Beitr. Kryptfl. Schweiz 11(no. 2): 449 (1962)
 
 #### Original name
 null

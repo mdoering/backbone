@@ -1,17 +1,16 @@
-Candida globosa Yarrow & S.A. Mey., 1978 SPECIES
-=======
+# Citeromyces matritensis (Santa María) Santa María, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bol. Inst. Invest. Agron. Madr. 17(no. 37): 275 (1957)
 
 #### Original name
-null
+Hansenula matritensis Santa María, 1956
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora fici-gibbosae Ullasa, 1969 SPECIES
-=======
+# Phyllachora fici-gibbosae Ullasa, 1969 SPECIES
 
 #### Status
 DOUBTFUL

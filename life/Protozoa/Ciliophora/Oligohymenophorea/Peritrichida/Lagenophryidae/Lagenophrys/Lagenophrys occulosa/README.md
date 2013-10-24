@@ -1,5 +1,4 @@
-Lagenophrys occulosa Kane, 1965 SPECIES
-=======
+# Lagenophrys occulosa Kane, 1965 SPECIES
 
 #### Status
 ACCEPTED

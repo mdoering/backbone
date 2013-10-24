@@ -1,5 +1,4 @@
-Endodiniaceae FAMILY
-=======
+# Endodiniaceae FAMILY
 
 #### Status
 ACCEPTED

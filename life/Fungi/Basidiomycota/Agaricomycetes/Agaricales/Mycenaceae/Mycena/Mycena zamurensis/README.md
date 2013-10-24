@@ -1,5 +1,4 @@
-Mycena zamurensis Pat. & Gaillard SPECIES
-=======
+# Mycena zamurensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

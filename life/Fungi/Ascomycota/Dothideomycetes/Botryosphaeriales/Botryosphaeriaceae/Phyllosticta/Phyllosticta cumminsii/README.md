@@ -1,5 +1,4 @@
-Phyllosticta cumminsii Bissett SPECIES
-=======
+# Phyllosticta cumminsii Bissett SPECIES
 
 #### Status
 ACCEPTED

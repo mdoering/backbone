@@ -1,5 +1,4 @@
-Ramularia hordei McAlpine SPECIES
-=======
+# Ramularia hordei McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia rhodi Szatala SPECIES
-=======
+# Bacidia rhodi Szatala SPECIES
 
 #### Status
 ACCEPTED

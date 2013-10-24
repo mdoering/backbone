@@ -1,5 +1,4 @@
-Desulfobacter halotolerans Brandt & Ingvorsen, 1998 SPECIES
-=======
+# Desulfobacter halotolerans Brandt & Ingvorsen, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tremella sarnensis P. Roberts SPECIES
-=======
+# Tremella sarniensis P. Roberts, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologist 15(4): 147 (2001)
 
 #### Original name
-Tremella sarnensis P. Roberts
+Tremella sarniensis P. Roberts, 2001
 
 ### Remarks
 null

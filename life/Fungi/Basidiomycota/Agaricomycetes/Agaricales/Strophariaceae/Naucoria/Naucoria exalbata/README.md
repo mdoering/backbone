@@ -1,5 +1,4 @@
-Naucoria exalbata Velen. SPECIES
-=======
+# Naucoria exalbata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus homomorphus (Romagn.) Singer SPECIES
-=======
+# Rhodophyllus homomorphus (Romagn.) Singer SPECIES
 
 #### Status
 ACCEPTED

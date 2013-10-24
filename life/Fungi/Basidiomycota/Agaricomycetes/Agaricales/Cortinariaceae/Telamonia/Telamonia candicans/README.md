@@ -1,5 +1,4 @@
-Telamonia candicans Velen. SPECIES
-=======
+# Telamonia candicans Velen. SPECIES
 
 #### Status
 ACCEPTED

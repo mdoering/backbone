@@ -1,5 +1,4 @@
-Mathasterites inconspicuus SPECIES
-=======
+# Mathasterites inconspicuus SPECIES
 
 #### Status
 ACCEPTED

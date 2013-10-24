@@ -1,5 +1,4 @@
-Tapellaria intermedia Flakus & Lücking SPECIES
-=======
+# Tapellaria intermedia Flakus & Lücking SPECIES
 
 #### Status
 ACCEPTED

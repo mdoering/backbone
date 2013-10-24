@@ -1,5 +1,4 @@
-Marasmius multiceps Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius multiceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

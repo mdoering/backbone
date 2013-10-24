@@ -1,5 +1,4 @@
-Edaphospathula gracilis Foissner & Xu, 2007 SPECIES
-=======
+# Edaphospathula gracilis Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

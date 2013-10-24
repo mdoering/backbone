@@ -1,5 +1,4 @@
-Clostridium isatidis Padden et al., 1999 SPECIES
-=======
+# Clostridium isatidis Padden et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

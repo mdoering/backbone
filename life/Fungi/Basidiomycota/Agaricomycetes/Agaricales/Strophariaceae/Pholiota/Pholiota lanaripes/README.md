@@ -1,5 +1,4 @@
-Pholiota lanaripes Rick SPECIES
-=======
+# Pholiota lanaripes Rick SPECIES
 
 #### Status
 ACCEPTED

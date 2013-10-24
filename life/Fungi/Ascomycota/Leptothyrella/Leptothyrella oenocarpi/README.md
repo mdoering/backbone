@@ -1,5 +1,4 @@
-Leptothyrella oenocarpi Henn. SPECIES
-=======
+# Leptothyrella oenocarpi Henn. SPECIES
 
 #### Status
 ACCEPTED

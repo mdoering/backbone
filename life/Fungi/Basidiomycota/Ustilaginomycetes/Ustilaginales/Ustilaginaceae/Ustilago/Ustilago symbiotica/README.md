@@ -1,5 +1,4 @@
-Ustilago symbiotica Grasso SPECIES
-=======
+# Ustilago symbiotica Grasso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium ladaniferi Thüm. SPECIES
-=======
+# Oidium ladaniferi Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa intexta Curr. SPECIES
-=======
+# Valsa intexta Curr. SPECIES
 
 #### Status
 ACCEPTED

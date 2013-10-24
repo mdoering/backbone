@@ -1,5 +1,4 @@
-Arthonia cordiae Vain. SPECIES
-=======
+# Arthonia cordiae Vain. SPECIES
 
 #### Status
 ACCEPTED

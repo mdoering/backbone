@@ -1,5 +1,4 @@
-Psathyra pseudotenera (Fr.) Sacc. SPECIES
-=======
+# Psathyra pseudotenera (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulacoseira nygaardii Camburn SPECIES
-=======
+# Aulacoseira nygaardii Camburn SPECIES
 
 #### Status
 ACCEPTED

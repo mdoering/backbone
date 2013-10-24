@@ -1,5 +1,4 @@
-Microthelia euryasca (Ellis & Galloway) Kuntze SPECIES
-=======
+# Microthelia euryasca (Ellis & Galloway) Kuntze SPECIES
 
 #### Status
 ACCEPTED

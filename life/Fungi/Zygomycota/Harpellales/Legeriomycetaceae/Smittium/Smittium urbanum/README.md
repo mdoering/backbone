@@ -1,5 +1,4 @@
-Smittium urbanum López-Lastra, M.G. Mazzucch. & Lichtw., 2000 SPECIES
-=======
+# Smittium urbanum López-Lastra, M.G. Mazzucch. & Lichtw., 2000 SPECIES
 
 #### Status
 ACCEPTED

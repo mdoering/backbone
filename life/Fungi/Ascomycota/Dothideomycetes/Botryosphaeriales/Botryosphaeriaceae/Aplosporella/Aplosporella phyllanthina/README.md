@@ -1,5 +1,4 @@
-Aplosporella phyllanthina Syd. SPECIES
-=======
+# Aplosporella phyllanthina Syd. SPECIES
 
 #### Status
 ACCEPTED

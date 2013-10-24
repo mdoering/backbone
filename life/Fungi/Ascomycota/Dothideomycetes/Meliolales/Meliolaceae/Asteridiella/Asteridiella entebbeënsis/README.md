@@ -1,5 +1,4 @@
-Asteridiella entebbeënsis SPECIES
-=======
+# Asteridiella entebbeënsis SPECIES
 
 #### Status
 ACCEPTED

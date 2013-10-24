@@ -1,5 +1,4 @@
-Cercospora fici-chartaceae J.M. Yen & Lim SPECIES
-=======
+# Cercospora fici-chartaceae J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

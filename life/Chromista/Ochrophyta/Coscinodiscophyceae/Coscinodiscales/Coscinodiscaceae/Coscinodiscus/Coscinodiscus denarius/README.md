@@ -1,5 +1,4 @@
-Coscinodiscus denarius A.W.F. Schmidt SPECIES
-=======
+# Coscinodiscus denarius A.W.F. Schmidt SPECIES
 
 #### Status
 ACCEPTED

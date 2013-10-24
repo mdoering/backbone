@@ -1,5 +1,4 @@
-Phoma piriformis Briosi & Farneti SPECIES
-=======
+# Phoma piriformis Briosi & Farneti SPECIES
 
 #### Status
 ACCEPTED

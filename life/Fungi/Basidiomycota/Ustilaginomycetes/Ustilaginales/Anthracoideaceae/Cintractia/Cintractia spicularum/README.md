@@ -1,5 +1,4 @@
-Cintractia spicularum Racib. SPECIES
-=======
+# Cintractia spicularum Racib. SPECIES
 
 #### Status
 ACCEPTED

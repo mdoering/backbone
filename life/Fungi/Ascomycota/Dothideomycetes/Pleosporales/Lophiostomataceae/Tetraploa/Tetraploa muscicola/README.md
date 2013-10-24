@@ -1,5 +1,4 @@
-Tetraploa muscicola Gonz. Frag. SPECIES
-=======
+# Tetraploa muscicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

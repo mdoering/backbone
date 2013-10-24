@@ -1,5 +1,4 @@
-Cladochytrium indicum S.L. Singh & Pavgi SPECIES
-=======
+# Cladochytrium indicum S.L. Singh & Pavgi SPECIES
 
 #### Status
 ACCEPTED

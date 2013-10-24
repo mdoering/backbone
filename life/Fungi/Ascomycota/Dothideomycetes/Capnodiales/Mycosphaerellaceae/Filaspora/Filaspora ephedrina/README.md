@@ -1,5 +1,4 @@
-Filaspora ephedrina (Sacc.) Kuntze SPECIES
-=======
+# Filaspora ephedrina (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

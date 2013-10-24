@@ -1,5 +1,4 @@
-Synchytrium spirogyrae (Skvortsov) Karling SPECIES
-=======
+# Synchytrium spirogyrae (Skvortsov) Karling SPECIES
 
 #### Status
 ACCEPTED

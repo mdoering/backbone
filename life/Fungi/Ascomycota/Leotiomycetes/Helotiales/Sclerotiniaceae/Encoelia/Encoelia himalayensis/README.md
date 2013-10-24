@@ -1,5 +1,4 @@
-Encoelia himalayensis Arendh. & R. Sharma SPECIES
-=======
+# Encoelia himalayensis Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

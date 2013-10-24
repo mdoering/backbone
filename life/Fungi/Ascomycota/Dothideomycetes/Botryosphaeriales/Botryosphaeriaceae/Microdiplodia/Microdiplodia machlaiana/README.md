@@ -1,5 +1,4 @@
-Microdiplodia machlaiana Reichert SPECIES
-=======
+# Microdiplodia machlaiana Reichert SPECIES
 
 #### Status
 ACCEPTED

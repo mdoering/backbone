@@ -1,5 +1,4 @@
-Cantharellus ochreatus Duby SPECIES
-=======
+# Cantharellus ochreatus Duby SPECIES
 
 #### Status
 ACCEPTED

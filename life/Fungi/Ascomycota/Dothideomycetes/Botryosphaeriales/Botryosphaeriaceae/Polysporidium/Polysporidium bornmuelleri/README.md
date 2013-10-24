@@ -1,5 +1,4 @@
-Polysporidium bornmuelleri Syd. & P. Syd. SPECIES
-=======
+# Polysporidium bornmuelleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

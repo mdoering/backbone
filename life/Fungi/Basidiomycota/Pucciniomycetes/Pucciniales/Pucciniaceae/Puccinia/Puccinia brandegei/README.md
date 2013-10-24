@@ -1,5 +1,4 @@
-Puccinia brandegei Peck SPECIES
-=======
+# Puccinia brandegei Peck SPECIES
 
 #### Status
 ACCEPTED

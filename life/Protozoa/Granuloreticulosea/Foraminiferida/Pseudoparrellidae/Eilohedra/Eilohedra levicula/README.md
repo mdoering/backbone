@@ -1,5 +1,4 @@
-Eilohedra levicula (Resig, 1958) SPECIES
-=======
+# Eilohedra levicula (Resig, 1958) SPECIES
 
 #### Status
 ACCEPTED

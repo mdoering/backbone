@@ -1,5 +1,4 @@
-Colletotrichum unamunoi Cash SPECIES
-=======
+# Colletotrichum unamunoi Cash SPECIES
 
 #### Status
 ACCEPTED

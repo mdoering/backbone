@@ -1,5 +1,4 @@
-Bosea thiooxidans Das et al., 1996 SPECIES
-=======
+# Bosea thiooxidans Das et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

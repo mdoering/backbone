@@ -1,5 +1,4 @@
-Russula viroviolacea Imler SPECIES
-=======
+# Russula viroviolacea Imler SPECIES
 
 #### Status
 ACCEPTED

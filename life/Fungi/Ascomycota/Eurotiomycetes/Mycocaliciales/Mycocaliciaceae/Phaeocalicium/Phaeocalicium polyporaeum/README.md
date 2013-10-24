@@ -1,17 +1,16 @@
-Calicium polyporaceum Nyl. SPECIES
-=======
+# Phaeocalicium polyporaeum (Nyl.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Calicium polyporaceum Nyl.
+Calicium polyporaeum Nyl.
 
 ### Remarks
 null

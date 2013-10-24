@@ -1,5 +1,4 @@
-Opegrapha pedonta Ach. SPECIES
-=======
+# Opegrapha pedonta Ach. SPECIES
 
 #### Status
 ACCEPTED

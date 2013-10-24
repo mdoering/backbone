@@ -1,17 +1,16 @@
-Zoiaella Loeblich & Tappan, 1962 GENUS
-=======
+# Zoyaella Loeblich & Tappan, 1962 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Proc. Biol. Soc. Wash. 75: 109.
 
 #### Original name
-null
+Ceratina Goes, 1894
 
 ### Remarks
 null

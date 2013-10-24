@@ -1,5 +1,4 @@
-Lecanora macra (Sommerf.) Motyka SPECIES
-=======
+# Lecanora macra (Sommerf.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis alabamensis Earle SPECIES
-=======
+# Micropeltis alabamensis Earle SPECIES
 
 #### Status
 ACCEPTED

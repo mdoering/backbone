@@ -1,5 +1,4 @@
-Nacoleia octosema Npv SPECIES
-=======
+# Nacoleia octosema Npv SPECIES
 
 #### Status
 ACCEPTED

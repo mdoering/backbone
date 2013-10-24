@@ -1,5 +1,4 @@
-Shachella Zhu, 1995 GENUS
-=======
+# Shachella Zhu, 1995 GENUS
 
 #### Status
 ACCEPTED

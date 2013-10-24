@@ -1,5 +1,4 @@
-Teichospora trimorpha G.F. Atk. SPECIES
-=======
+# Teichospora trimorpha G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

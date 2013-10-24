@@ -1,8 +1,7 @@
-Neoerysiphe nevoi var. scolymi V.P. Heluta & S. Takam., 2010 VARIETY
-=======
+# Neoerysiphe nevoi V.P. Heluta & S. Takam., 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

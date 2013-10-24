@@ -1,5 +1,4 @@
-Lecanactis meiophragmia (Nyl.) D.J. Galloway SPECIES
-=======
+# Lecanactis meiophragmia (Nyl.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

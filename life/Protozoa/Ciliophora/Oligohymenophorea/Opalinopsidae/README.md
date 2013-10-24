@@ -1,5 +1,4 @@
-Opalinopsidae Hartog, 1906 FAMILY
-=======
+# Opalinopsidae Hartog, 1906 FAMILY
 
 #### Status
 ACCEPTED

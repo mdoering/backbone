@@ -1,14 +1,13 @@
-Leptogium minutissimum var. intermedium Arnold VARIETY
-=======
+# Leptogium intermedium (Arnold) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Amis Sci. Nat. Rouen, Série II 2: 363 (1866)
+Flora, Jena 68: 212 (1885)
 
 #### Original name
 Leptogium minutissimum var. intermedium Arnold

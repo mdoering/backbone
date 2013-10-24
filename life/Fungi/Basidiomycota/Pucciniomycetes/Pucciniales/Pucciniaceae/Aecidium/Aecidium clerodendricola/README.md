@@ -1,5 +1,4 @@
-Aecidium clerodendricola Henn. SPECIES
-=======
+# Aecidium clerodendricola Henn. SPECIES
 
 #### Status
 ACCEPTED

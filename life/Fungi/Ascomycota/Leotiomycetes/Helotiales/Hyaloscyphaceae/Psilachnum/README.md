@@ -1,5 +1,4 @@
-Psilachnum von Höhnel, 1926 GENUS
-=======
+# Psilachnum von Höhnel, 1926 GENUS
 
 #### Status
 ACCEPTED

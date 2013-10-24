@@ -1,5 +1,4 @@
-Stenozonoligotriletes acutus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes acutus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

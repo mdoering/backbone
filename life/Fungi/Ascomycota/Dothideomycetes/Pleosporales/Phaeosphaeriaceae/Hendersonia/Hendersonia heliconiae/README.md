@@ -1,5 +1,4 @@
-Hendersonia heliconiae Mont. SPECIES
-=======
+# Hendersonia heliconiae Mont. SPECIES
 
 #### Status
 ACCEPTED

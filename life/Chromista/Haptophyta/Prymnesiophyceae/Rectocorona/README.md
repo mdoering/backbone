@@ -1,5 +1,4 @@
-Rectocorona B. Lambert, 1987 GENUS
-=======
+# Rectocorona B. Lambert, 1987 GENUS
 
 #### Status
 ACCEPTED

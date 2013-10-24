@@ -1,5 +1,4 @@
-Hypochnicium rickii Hjortstam & Ryvarden SPECIES
-=======
+# Hypochnicium rickii Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

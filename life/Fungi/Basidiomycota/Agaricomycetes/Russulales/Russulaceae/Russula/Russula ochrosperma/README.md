@@ -1,5 +1,4 @@
-Russula ochrosperma Moënne-Locc. SPECIES
-=======
+# Russula ochrosperma Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

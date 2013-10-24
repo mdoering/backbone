@@ -1,5 +1,4 @@
-Ligniera pilorum Fron & Gaillat, 1925 SPECIES
-=======
+# Ligniera pilorum Fron & Gaillat, 1925 SPECIES
 
 #### Status
 ACCEPTED

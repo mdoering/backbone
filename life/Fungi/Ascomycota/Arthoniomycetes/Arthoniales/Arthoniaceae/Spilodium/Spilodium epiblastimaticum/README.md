@@ -1,5 +1,4 @@
-Spilodium epiblastimaticum (Wallr.) Nieuwl. SPECIES
-=======
+# Spilodium epiblastimaticum (Wallr.) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

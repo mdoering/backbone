@@ -1,5 +1,4 @@
-Polyporus neesii Fr. SPECIES
-=======
+# Polyporus neesii Fr. SPECIES
 
 #### Status
 ACCEPTED

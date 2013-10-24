@@ -1,5 +1,4 @@
-Phacidites Mesch. GENUS
-=======
+# Phacidites Mesch. GENUS
 
 #### Status
 ACCEPTED

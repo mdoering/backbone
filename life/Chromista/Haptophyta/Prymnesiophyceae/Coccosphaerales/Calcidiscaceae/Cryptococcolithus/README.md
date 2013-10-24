@@ -1,5 +1,4 @@
-Cryptococcolithus S.Gartner, 1992 GENUS
-=======
+# Cryptococcolithus S.Gartner, 1992 GENUS
 
 #### Status
 ACCEPTED

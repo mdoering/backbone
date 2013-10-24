@@ -1,5 +1,4 @@
-Ellisiodothis elmeri Syd. SPECIES
-=======
+# Ellisiodothis elmeri Syd. SPECIES
 
 #### Status
 ACCEPTED

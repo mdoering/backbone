@@ -1,5 +1,4 @@
-Loeblichella Pessagno, 1967 GENUS
-=======
+# Loeblichella Pessagno, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniangium gibberulosum (Ach.) Arnold SPECIES
-=======
+# Coniangium gibberulosum (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

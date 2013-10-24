@@ -1,5 +1,4 @@
-Lecanora fuegiensis (Räsänen) Guderley SPECIES
-=======
+# Lecanora fuegiensis (Räsänen) Guderley SPECIES
 
 #### Status
 ACCEPTED

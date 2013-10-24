@@ -1,5 +1,4 @@
-Septoria goodeniicola B. Sutton & Pascoe SPECIES
-=======
+# Septoria goodeniicola B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

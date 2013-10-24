@@ -1,5 +1,4 @@
-Meliola voacangae var. voacangae VARIETY
-=======
+# Meliola voacangae Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 51: 284 (1937)
 
 #### Original name
-Meliola voacangae var. voacangae
+Meliola voacangae Hansf. & F. Stevens
 
 ### Remarks
 null

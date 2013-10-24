@@ -1,5 +1,4 @@
-Denticularia modesta (Syd.) Deighton, 1972 SPECIES
-=======
+# Denticularia modesta (Syd.) Deighton, 1972 SPECIES
 
 #### Status
 ACCEPTED

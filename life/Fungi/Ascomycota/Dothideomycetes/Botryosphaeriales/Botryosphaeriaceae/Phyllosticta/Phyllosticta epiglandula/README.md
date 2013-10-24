@@ -1,5 +1,4 @@
-Phyllosticta epiglandula (Tassi) Allesch. SPECIES
-=======
+# Phyllosticta epiglandula (Tassi) Allesch. SPECIES
 
 #### Status
 ACCEPTED

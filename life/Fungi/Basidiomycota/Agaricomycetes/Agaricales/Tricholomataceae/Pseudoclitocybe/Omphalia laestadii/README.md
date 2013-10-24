@@ -1,5 +1,4 @@
-Omphalia laestadii (Fr.) P. Karst. SPECIES
-=======
+# Omphalia laestadii (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

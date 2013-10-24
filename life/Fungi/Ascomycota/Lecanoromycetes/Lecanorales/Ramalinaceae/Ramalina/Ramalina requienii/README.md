@@ -1,5 +1,4 @@
-Ramalina requienii (De Not.) Jatta SPECIES
-=======
+# Ramalina requienii (De Not.) Jatta SPECIES
 
 #### Status
 ACCEPTED

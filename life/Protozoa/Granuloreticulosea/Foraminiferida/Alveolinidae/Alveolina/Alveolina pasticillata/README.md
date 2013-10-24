@@ -1,5 +1,4 @@
-Alveolina pasticillata Schwager SPECIES
-=======
+# Alveolina pasticillata Schwager SPECIES
 
 #### Status
 ACCEPTED

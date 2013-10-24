@@ -1,5 +1,4 @@
-Peziza caricina Lib. SPECIES
-=======
+# Peziza caricina Lib. SPECIES
 
 #### Status
 ACCEPTED

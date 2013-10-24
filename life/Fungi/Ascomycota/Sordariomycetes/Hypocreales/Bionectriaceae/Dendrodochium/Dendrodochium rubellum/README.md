@@ -1,5 +1,4 @@
-Dendrodochium rubellum var. rubellum VARIETY
-=======
+# Dendrodochium rubellum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dendrodochium rubellum var. rubellum
+Dendrodochium rubellum Sacc.
 
 ### Remarks
 null

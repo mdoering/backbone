@@ -1,5 +1,4 @@
-Verrucaria despecta Servít SPECIES
-=======
+# Verrucaria despecta Servít SPECIES
 
 #### Status
 ACCEPTED

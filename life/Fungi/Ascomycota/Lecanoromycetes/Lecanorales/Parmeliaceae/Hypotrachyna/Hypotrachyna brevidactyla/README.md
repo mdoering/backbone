@@ -1,5 +1,4 @@
-Hypotrachyna brevidactyla Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna brevidactyla Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina ligustri Delacr. SPECIES
-=======
+# Diplodina ligustri Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia indica H. Magn. SPECIES
-=======
+# Anaptychia indica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

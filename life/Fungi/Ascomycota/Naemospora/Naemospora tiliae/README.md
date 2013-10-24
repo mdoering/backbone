@@ -1,5 +1,4 @@
-Naemospora tiliae Delacr. SPECIES
-=======
+# Naemospora tiliae Delacr. SPECIES
 
 #### Status
 ACCEPTED

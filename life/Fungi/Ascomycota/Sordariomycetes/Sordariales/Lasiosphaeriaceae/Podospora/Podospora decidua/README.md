@@ -1,5 +1,4 @@
-Podospora decidua Cailleux, 1969 SPECIES
-=======
+# Podospora decidua Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia carpophila Thüm. SPECIES
-=======
+# Diplodia carpophila Thüm. SPECIES
 
 #### Status
 ACCEPTED

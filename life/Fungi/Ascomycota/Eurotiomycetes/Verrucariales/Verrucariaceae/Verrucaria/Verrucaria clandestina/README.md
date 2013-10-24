@@ -1,5 +1,4 @@
-Verrucaria clandestina Ach. SPECIES
-=======
+# Verrucaria clandestina Ach. SPECIES
 
 #### Status
 ACCEPTED

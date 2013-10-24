@@ -1,5 +1,4 @@
-Hygrophorus fulvus Berk. SPECIES
-=======
+# Hygrophorus fulvus Berk. SPECIES
 
 #### Status
 ACCEPTED

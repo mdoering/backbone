@@ -1,5 +1,4 @@
-Dimerina hypsophila Syd. SPECIES
-=======
+# Dimerina hypsophila Syd. SPECIES
 
 #### Status
 ACCEPTED

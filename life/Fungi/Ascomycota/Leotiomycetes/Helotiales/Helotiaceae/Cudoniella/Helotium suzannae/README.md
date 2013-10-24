@@ -1,5 +1,4 @@
-Helotium suzannae Boud. SPECIES
-=======
+# Helotium suzannae Boud. SPECIES
 
 #### Status
 ACCEPTED

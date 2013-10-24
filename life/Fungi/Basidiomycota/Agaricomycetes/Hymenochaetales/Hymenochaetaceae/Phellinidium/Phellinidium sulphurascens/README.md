@@ -1,5 +1,4 @@
-Phellinidium sulphurascens (Pilát) Y.C. Dai SPECIES
-=======
+# Phellinidium sulphurascens (Pilát) Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

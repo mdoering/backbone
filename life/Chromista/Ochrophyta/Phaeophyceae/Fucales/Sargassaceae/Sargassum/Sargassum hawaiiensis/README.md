@@ -1,5 +1,4 @@
-Sargassum hawaiiensis Doty & Newhouse SPECIES
-=======
+# Sargassum hawaiiensis Doty & Newhouse SPECIES
 
 #### Status
 ACCEPTED

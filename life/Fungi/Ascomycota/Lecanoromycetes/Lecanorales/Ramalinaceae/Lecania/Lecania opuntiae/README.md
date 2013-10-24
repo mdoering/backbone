@@ -1,5 +1,4 @@
-Lecania opuntiae Bagl. SPECIES
-=======
+# Lecania opuntiae Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora moricola H.S.G. Rao, S. Narayan & Poonam Srivast. SPECIES
-=======
+# Pseudocercospora moricola H.S.G. Rao, S. Narayan & Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

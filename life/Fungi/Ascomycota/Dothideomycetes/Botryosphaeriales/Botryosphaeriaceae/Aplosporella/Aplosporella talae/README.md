@@ -1,5 +1,4 @@
-Aplosporella talae Speg. SPECIES
-=======
+# Aplosporella talae Speg. SPECIES
 
 #### Status
 ACCEPTED

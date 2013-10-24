@@ -1,5 +1,4 @@
-Metasphaeria araceae Henn. SPECIES
-=======
+# Metasphaeria araceae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocystis spinifera Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis spinifera Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

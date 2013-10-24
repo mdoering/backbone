@@ -1,8 +1,7 @@
-Myxosarcina sphaerica Proskina-Lavrenko SPECIES
-=======
+# Pseudocapsa sphaerica (Proskina-Lavrenko) Kovácik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

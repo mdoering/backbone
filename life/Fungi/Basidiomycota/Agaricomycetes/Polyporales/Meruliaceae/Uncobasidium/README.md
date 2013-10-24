@@ -1,5 +1,4 @@
-Uncobasidium Hjortstam & Ryvarden GENUS
-=======
+# Uncobasidium Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

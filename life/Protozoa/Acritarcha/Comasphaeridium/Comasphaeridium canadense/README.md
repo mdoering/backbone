@@ -1,5 +1,4 @@
-Comasphaeridium canadense (Staplin, Jansonius & Pocock, 1965) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Comasphaeridium canadense (Staplin, Jansonius & Pocock, 1965) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

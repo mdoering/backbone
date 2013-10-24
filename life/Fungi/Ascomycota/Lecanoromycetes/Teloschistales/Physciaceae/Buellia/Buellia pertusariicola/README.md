@@ -1,5 +1,4 @@
-Buellia pertusariicola Willey ex Tuck. SPECIES
-=======
+# Buellia pertusariicola Willey ex Tuck. SPECIES
 
 #### Status
 ACCEPTED

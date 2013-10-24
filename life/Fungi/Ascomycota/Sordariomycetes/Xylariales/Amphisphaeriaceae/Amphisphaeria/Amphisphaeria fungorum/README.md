@@ -1,5 +1,4 @@
-Amphisphaeria fungorum Licent SPECIES
-=======
+# Amphisphaeria fungorum Licent SPECIES
 
 #### Status
 ACCEPTED

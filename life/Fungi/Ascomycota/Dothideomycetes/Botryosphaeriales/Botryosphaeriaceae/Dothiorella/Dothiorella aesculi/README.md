@@ -1,5 +1,4 @@
-Dothiorella aesculi (Sacc.) Petr. SPECIES
-=======
+# Dothiorella aesculi (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

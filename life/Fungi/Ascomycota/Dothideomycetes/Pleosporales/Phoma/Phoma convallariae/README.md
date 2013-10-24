@@ -1,5 +1,4 @@
-Phoma convallariae subsp. convallariae SUBSPECIES
-=======
+# Phoma convallariae Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma convallariae subsp. convallariae
+Phoma convallariae Westend.
 
 ### Remarks
 null

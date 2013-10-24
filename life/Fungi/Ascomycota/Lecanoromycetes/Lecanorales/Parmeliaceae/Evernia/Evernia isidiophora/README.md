@@ -1,5 +1,4 @@
-Evernia isidiophora Zopf SPECIES
-=======
+# Evernia isidiophora Zopf SPECIES
 
 #### Status
 ACCEPTED

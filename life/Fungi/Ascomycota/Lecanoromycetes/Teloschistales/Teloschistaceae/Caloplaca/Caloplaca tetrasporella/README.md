@@ -1,5 +1,4 @@
-Caloplaca tetrasporella (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca tetrasporella (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

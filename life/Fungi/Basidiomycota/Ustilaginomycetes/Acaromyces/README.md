@@ -1,5 +1,4 @@
-Acaromyces Boekhout, Scorzetti, Gerson & Sztejnberg, 2003 GENUS
-=======
+# Acaromyces Boekhout, Scorzetti, Gerson & Sztejnberg, 2003 GENUS
 
 #### Status
 ACCEPTED

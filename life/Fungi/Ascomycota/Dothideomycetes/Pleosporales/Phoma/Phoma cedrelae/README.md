@@ -1,5 +1,4 @@
-Phoma cedrelae Pat. SPECIES
-=======
+# Phoma cedrelae Pat. SPECIES
 
 #### Status
 ACCEPTED

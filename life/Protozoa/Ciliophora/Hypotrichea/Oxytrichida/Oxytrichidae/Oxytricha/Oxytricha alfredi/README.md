@@ -1,5 +1,4 @@
-Oxytricha alfredi Berger, 1999 SPECIES
-=======
+# Oxytricha alfredi Berger, 1999 SPECIES
 
 #### Status
 ACCEPTED

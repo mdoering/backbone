@@ -1,5 +1,4 @@
-Chaetosphaerites obscurus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Chaetosphaerites obscurus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

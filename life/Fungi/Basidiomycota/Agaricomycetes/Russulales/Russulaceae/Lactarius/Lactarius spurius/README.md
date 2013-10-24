@@ -1,5 +1,4 @@
-Lactarius spurius Romagn. SPECIES
-=======
+# Lactarius spurius Romagn. SPECIES
 
 #### Status
 ACCEPTED

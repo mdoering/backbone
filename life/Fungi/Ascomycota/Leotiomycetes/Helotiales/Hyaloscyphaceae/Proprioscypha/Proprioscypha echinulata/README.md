@@ -1,5 +1,4 @@
-Proprioscypha echinulata Raitv. & Leenurm SPECIES
-=======
+# Proprioscypha echinulata Raitv. & Leenurm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelaria axilaris Takamatsu SPECIES
-=======
+# Sphacelaria axilaris Takamatsu SPECIES
 
 #### Status
 ACCEPTED

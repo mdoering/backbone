@@ -1,5 +1,4 @@
-Stictodiscus punctatus A. P. Jousé SPECIES
-=======
+# Stictodiscus punctatus A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

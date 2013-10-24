@@ -1,5 +1,4 @@
-Sporodictyon theleodes Th. Fr. SPECIES
-=======
+# Sporodictyon theleodes Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

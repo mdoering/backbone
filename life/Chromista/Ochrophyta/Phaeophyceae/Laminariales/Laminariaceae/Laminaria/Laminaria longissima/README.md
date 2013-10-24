@@ -1,8 +1,7 @@
-Laminaria angustata var. longissima (Miyabe) Miyabe VARIETY
-=======
+# Laminaria longissima Miyabe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

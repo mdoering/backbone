@@ -1,5 +1,4 @@
-Leptonia validipes Peck SPECIES
-=======
+# Leptonia validipes Peck SPECIES
 
 #### Status
 ACCEPTED

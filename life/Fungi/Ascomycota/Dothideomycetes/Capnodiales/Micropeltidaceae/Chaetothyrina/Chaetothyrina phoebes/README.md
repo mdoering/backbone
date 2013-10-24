@@ -1,5 +1,4 @@
-Chaetothyrina phoebes Syd. SPECIES
-=======
+# Chaetothyrina phoebes Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora interstitialis (Cooke & Peck) Sacc. SPECIES
-=======
+# Teichospora interstitialis (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

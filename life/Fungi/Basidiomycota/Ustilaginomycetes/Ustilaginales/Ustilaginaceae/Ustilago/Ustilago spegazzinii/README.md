@@ -1,5 +1,4 @@
-Ustilago spegazzinii var. spegazzinii VARIETY
-=======
+# Ustilago spegazzinii Hirschh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago spegazzinii var. spegazzinii
+Ustilago spegazzinii Hirschh.
 
 ### Remarks
 null

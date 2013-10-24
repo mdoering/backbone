@@ -1,5 +1,4 @@
-Phoma stagonosporioides Trail, 1889 SPECIES
-=======
+# Phoma stagonosporioides Trail, 1889 SPECIES
 
 #### Status
 ACCEPTED

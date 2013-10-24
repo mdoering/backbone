@@ -1,5 +1,4 @@
-Anthostomella paraguayensis Speg. SPECIES
-=======
+# Anthostomella paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercophora nainitalensis Mukerji, R.N. Kumar & N. Singh SPECIES
-=======
+# Cercophora nainitalensis Mukerji, R.N. Kumar & N. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster formosus Martini & Worsley, 1971 SPECIES
-=======
+# Discoaster formosus Martini & Worsley, 1971 SPECIES
 
 #### Status
 ACCEPTED

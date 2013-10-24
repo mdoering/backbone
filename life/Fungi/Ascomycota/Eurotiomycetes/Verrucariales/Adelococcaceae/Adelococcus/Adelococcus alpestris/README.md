@@ -1,14 +1,13 @@
-Rosellinia alpestris Zopf SPECIES
-=======
+# Adelococcus alpestris (Zopf) Theiss. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 35: 314 (1896)
+Annls mycol. 16: (1918)
 
 #### Original name
 Rosellinia alpestris Zopf

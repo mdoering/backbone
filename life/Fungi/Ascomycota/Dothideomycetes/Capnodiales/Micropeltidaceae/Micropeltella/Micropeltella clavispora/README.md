@@ -1,5 +1,4 @@
-Micropeltella clavispora Syd. & P. Syd. SPECIES
-=======
+# Micropeltella clavispora Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria astoma Maire & Werner SPECIES
-=======
+# Septoria astoma Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

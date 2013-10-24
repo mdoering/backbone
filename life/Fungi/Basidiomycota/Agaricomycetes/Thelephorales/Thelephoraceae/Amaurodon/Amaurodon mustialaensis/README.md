@@ -1,17 +1,16 @@
-Hypochnus mustialensis P. Karst. SPECIES
-=======
+# Amaurodon mustialaensis (P. Karst.) Kõljalg & K.H. Larss., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Kõljalg, Syn. Fung. (Oslo) 9: 33 (1996)
 
 #### Original name
-Hypochnus mustialensis P. Karst.
+Hypochnus mustialaensis P. Karst., 1871
 
 ### Remarks
 null

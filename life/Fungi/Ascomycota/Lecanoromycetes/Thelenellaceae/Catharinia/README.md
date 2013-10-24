@@ -1,5 +1,4 @@
-Catharinia GENUS
-=======
+# Catharinia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora glacialis Niessl SPECIES
-=======
+# Pleospora glacialis Niessl SPECIES
 
 #### Status
 ACCEPTED

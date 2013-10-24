@@ -1,5 +1,4 @@
-Taifanglania biformis (Z.Q. Liang, H.L. Chu & Y.F. Han) Z.Q. Liang, Y.F. Han & H.L. Chu SPECIES
-=======
+# Taifanglania biformis (Z.Q. Liang, H.L. Chu & Y.F. Han) Z.Q. Liang, Y.F. Han & H.L. Chu SPECIES
 
 #### Status
 ACCEPTED

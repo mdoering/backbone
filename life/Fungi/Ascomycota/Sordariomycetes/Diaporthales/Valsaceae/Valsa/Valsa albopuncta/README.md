@@ -1,5 +1,4 @@
-Valsa albopuncta Ellis & Everh. SPECIES
-=======
+# Valsa albopuncta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

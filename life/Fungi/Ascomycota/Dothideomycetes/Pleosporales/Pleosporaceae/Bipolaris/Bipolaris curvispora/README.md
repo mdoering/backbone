@@ -1,5 +1,4 @@
-Bipolaris curvispora (El Shafie) Sivan. SPECIES
-=======
+# Bipolaris curvispora (El Shafie) Sivan. SPECIES
 
 #### Status
 ACCEPTED

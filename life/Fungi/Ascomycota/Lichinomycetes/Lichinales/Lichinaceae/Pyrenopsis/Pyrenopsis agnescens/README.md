@@ -1,5 +1,4 @@
-Pyrenopsis agnescens Stirt. SPECIES
-=======
+# Pyrenopsis agnescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

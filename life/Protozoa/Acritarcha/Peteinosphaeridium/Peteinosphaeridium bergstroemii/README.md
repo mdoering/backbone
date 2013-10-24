@@ -1,5 +1,4 @@
-Peteinosphaeridium bergstroemii Staplin, Jansonius & Pocock, 1965 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Peteinosphaeridium bergstroemii Staplin, Jansonius & Pocock, 1965 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

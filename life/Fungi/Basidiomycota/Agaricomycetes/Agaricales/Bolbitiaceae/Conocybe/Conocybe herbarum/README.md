@@ -1,5 +1,4 @@
-Conocybe herbarum Hauskn. SPECIES
-=======
+# Conocybe herbarum Hauskn. SPECIES
 
 #### Status
 ACCEPTED

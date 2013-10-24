@@ -1,5 +1,4 @@
-Pseudocercospora chebulae B. Sutton SPECIES
-=======
+# Pseudocercospora chebulae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

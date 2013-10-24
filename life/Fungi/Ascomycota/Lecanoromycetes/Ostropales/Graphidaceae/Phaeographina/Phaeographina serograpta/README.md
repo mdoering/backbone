@@ -1,5 +1,4 @@
-Phaeographina serograpta (Spreng.) Müll. Arg. SPECIES
-=======
+# Phaeographina serograpta (Spreng.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

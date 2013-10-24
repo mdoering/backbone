@@ -1,5 +1,4 @@
-Heppia mossamedana Vain. SPECIES
-=======
+# Heppia mossamedana Vain. SPECIES
 
 #### Status
 ACCEPTED

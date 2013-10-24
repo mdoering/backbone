@@ -1,5 +1,4 @@
-Tolonia P.N. Kolosov, 1983 GENUS
-=======
+# Tolonia P.N. Kolosov, 1983 GENUS
 
 #### Status
 ACCEPTED

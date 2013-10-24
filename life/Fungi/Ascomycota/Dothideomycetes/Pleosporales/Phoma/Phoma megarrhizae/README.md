@@ -1,5 +1,4 @@
-Phoma megarrhizae Fairm. SPECIES
-=======
+# Phoma megarrhizae Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas spiculifera Palmer SPECIES
-=======
+# Trachelomonas spiculifera Palmer SPECIES
 
 #### Status
 ACCEPTED

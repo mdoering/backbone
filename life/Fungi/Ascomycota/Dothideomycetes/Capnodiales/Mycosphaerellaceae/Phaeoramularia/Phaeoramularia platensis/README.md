@@ -1,5 +1,4 @@
-Phaeoramularia platensis (Speg.) Deighton SPECIES
-=======
+# Phaeoramularia platensis (Speg.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorocyphella subtropica f. subtropica Speg. FORM
-=======
+# Chlorocyphella subtropica Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annals Mus. Nac. Hist. Nat. , Buenos Aires 19: 279 (1909)
 
 #### Original name
-Chlorocyphella subtropica f. subtropica Speg.
+Chlorocyphella subtropica Speg.
 
 ### Remarks
 null

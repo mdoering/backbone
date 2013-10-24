@@ -1,5 +1,4 @@
-Lichen tabacinus Ramond SPECIES
-=======
+# Lichen tabacinus Ramond SPECIES
 
 #### Status
 ACCEPTED

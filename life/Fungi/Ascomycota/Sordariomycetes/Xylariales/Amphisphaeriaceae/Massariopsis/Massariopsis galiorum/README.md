@@ -1,5 +1,4 @@
-Massariopsis galiorum (Fuckel) Kirschst. SPECIES
-=======
+# Massariopsis galiorum (Fuckel) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

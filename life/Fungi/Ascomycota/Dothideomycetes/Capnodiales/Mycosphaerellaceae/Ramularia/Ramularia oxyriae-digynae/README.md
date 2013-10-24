@@ -1,5 +1,4 @@
-Ramularia oxyriae-digynae Gjaerum SPECIES
-=======
+# Ramularia oxyriae-digynae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

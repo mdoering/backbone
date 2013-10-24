@@ -1,5 +1,4 @@
-Verrucaria cernaensis Zschacke SPECIES
-=======
+# Verrucaria cernaensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

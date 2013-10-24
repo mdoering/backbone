@@ -1,5 +1,4 @@
-Flammula areolata Murrill SPECIES
-=======
+# Flammula areolata Murrill SPECIES
 
 #### Status
 ACCEPTED

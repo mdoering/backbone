@@ -1,5 +1,4 @@
-Galerina odora A.H. Sm. SPECIES
-=======
+# Galerina odora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

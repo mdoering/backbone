@@ -1,5 +1,4 @@
-Aspicilia pontica Motyka SPECIES
-=======
+# Aspicilia pontica Motyka SPECIES
 
 #### Status
 ACCEPTED

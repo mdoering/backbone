@@ -1,5 +1,4 @@
-Cladosporothyrium nepalense Katum. SPECIES
-=======
+# Cladosporothyrium nepalense Katum. SPECIES
 
 #### Status
 ACCEPTED

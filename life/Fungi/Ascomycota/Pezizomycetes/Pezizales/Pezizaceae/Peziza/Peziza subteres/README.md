@@ -1,5 +1,4 @@
-Peziza subteres Alb. & Schwein. SPECIES
-=======
+# Peziza subteres Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria murina Velen. SPECIES
-=======
+# Clavaria murina Velen. SPECIES
 
 #### Status
 ACCEPTED

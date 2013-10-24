@@ -1,5 +1,4 @@
-Corticium pampeanum Speg. SPECIES
-=======
+# Corticium pampeanum Speg. SPECIES
 
 #### Status
 ACCEPTED

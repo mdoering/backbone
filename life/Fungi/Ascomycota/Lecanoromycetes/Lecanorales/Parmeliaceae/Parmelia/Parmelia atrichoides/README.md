@@ -1,5 +1,4 @@
-Parmelia atrichoides Nyl. SPECIES
-=======
+# Parmelia atrichoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

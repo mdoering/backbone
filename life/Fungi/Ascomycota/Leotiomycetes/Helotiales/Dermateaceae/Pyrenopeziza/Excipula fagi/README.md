@@ -1,5 +1,4 @@
-Excipula fagi Kirchn. SPECIES
-=======
+# Excipula fagi Kirchn. SPECIES
 
 #### Status
 ACCEPTED

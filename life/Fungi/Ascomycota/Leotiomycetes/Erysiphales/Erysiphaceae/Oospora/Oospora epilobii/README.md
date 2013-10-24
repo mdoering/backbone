@@ -1,5 +1,4 @@
-Oospora epilobii (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora epilobii (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

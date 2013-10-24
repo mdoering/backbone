@@ -1,5 +1,4 @@
-Carinoposthium Yankovskij, 1980 GENUS
-=======
+# Carinoposthium Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe lichenoides Trab. & Sacc. SPECIES
-=======
+# Erysiphe lichenoides Trab. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

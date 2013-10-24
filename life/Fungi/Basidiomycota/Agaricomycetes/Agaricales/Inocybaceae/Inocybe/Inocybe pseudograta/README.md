@@ -1,5 +1,4 @@
-Inocybe pseudograta Alessio SPECIES
-=======
+# Inocybe pseudograta Alessio SPECIES
 
 #### Status
 ACCEPTED

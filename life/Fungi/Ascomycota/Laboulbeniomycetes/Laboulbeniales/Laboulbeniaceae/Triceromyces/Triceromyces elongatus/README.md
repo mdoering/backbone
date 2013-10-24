@@ -1,5 +1,4 @@
-Triceromyces elongatus R.K. Benj. SPECIES
-=======
+# Triceromyces elongatus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

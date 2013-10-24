@@ -1,5 +1,4 @@
-Inocybe amblyspora Kühner SPECIES
-=======
+# Inocybe amblyspora Kühner SPECIES
 
 #### Status
 ACCEPTED

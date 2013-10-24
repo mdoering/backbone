@@ -1,5 +1,4 @@
-Entoloma bicolor Murrill SPECIES
-=======
+# Entoloma bicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago andropogonis Kellerm. & Swingle SPECIES
-=======
+# Ustilago andropogonis Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea decorosa Arnold SPECIES
-=======
+# Lecidea decorosa Arnold SPECIES
 
 #### Status
 ACCEPTED

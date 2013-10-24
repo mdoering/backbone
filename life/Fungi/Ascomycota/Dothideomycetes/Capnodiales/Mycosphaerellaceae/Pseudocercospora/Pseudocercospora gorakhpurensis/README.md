@@ -1,5 +1,4 @@
-Pseudocercospora gorakhpurensis H.S.G. Rao, S. Chandra & Kamal SPECIES
-=======
+# Pseudocercospora gorakhpurensis H.S.G. Rao, S. Chandra & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Poria carbonica Overh., 1943 SPECIES
-=======
+# Antrodia carbonica (Overh.) Ryvarden & Gilb., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 21: 232 (1943)
+Mycotaxon 19: 139 (1984)
 
 #### Original name
 Poria carbonica Overh., 1943

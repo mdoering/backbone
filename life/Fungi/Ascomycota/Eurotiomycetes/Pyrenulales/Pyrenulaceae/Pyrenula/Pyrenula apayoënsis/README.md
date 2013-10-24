@@ -1,5 +1,4 @@
-Pyrenula apayoënsis Vain. SPECIES
-=======
+# Pyrenula apayoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

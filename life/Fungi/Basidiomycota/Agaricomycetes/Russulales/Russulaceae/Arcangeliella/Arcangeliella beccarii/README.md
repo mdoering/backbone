@@ -1,5 +1,4 @@
-Arcangeliella beccarii (Petri) Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella beccarii (Petri) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

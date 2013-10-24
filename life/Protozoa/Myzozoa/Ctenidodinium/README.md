@@ -1,14 +1,13 @@
-Hystrichogonyaulax W.A.S. Sarjeant in R.J. Davey et al., 1969 GENUS
-=======
+# Ctenidodinium Deflandre GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Trav. Sta. Zool. Wimereux, 13, 181.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Polyporus infulgens Lloyd SPECIES
-=======
+# Polyporus infulgens Lloyd SPECIES
 
 #### Status
 ACCEPTED

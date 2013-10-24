@@ -1,5 +1,4 @@
-Podospora alexandri Doveri SPECIES
-=======
+# Podospora alexandri Doveri SPECIES
 
 #### Status
 ACCEPTED

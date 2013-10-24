@@ -1,5 +1,4 @@
-Massarinula clypeata (Petr.) Petr. SPECIES
-=======
+# Massarinula clypeata (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

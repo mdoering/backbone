@@ -1,5 +1,4 @@
-Ascochyta aricola A.L. Sm. & Ramsb. SPECIES
-=======
+# Ascochyta aricola A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

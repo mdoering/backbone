@@ -1,5 +1,4 @@
-Lecanora hyaliza Zahlbr. SPECIES
-=======
+# Lecanora hyaliza Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

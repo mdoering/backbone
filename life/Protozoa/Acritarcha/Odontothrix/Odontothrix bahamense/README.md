@@ -1,5 +1,4 @@
-Odontothrix bahamense Habib & Knapp, 1982 SPECIES
-=======
+# Odontothrix bahamense Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

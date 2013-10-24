@@ -1,5 +1,4 @@
-Ramalina implexa (Nyl.) Krog SPECIES
-=======
+# Ramalina implexa (Nyl.) Krog SPECIES
 
 #### Status
 ACCEPTED

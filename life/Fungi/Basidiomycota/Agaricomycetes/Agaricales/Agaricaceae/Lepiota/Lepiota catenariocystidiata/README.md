@@ -1,5 +1,4 @@
-Lepiota catenariocystidiata Han C. Wang & Zhu L. Yang SPECIES
-=======
+# Lepiota catenariocystidiata Han C. Wang & Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

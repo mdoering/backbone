@@ -1,5 +1,4 @@
-Phoma splachni Rostr. SPECIES
-=======
+# Phoma splachni Rostr. SPECIES
 
 #### Status
 ACCEPTED

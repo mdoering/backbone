@@ -1,5 +1,4 @@
-Puccinia bromicola (Mains) A.L. Guyot SPECIES
-=======
+# Puccinia bromicola (Mains) A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

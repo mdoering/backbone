@@ -1,5 +1,4 @@
-Arthrospira gomontiana Setchell, 1895 SPECIES
-=======
+# Arthrospira gomontiana Setchell, 1895 SPECIES
 
 #### Status
 ACCEPTED

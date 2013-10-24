@@ -1,5 +1,4 @@
-Platygloea fimicola J. Schröt. SPECIES
-=======
+# Platygloea fimicola J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

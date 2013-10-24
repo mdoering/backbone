@@ -1,5 +1,4 @@
-Phyllosticta fici-caricae Rothers SPECIES
-=======
+# Phyllosticta fici-caricae Rothers SPECIES
 
 #### Status
 ACCEPTED

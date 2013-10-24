@@ -1,5 +1,4 @@
-Heppia olifera H. Magn. SPECIES
-=======
+# Heppia olifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype conferta Doidge SPECIES
-=======
+# Diatrype conferta Doidge SPECIES
 
 #### Status
 ACCEPTED

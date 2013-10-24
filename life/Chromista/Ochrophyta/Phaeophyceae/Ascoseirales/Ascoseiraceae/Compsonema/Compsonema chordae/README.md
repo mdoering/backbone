@@ -1,5 +1,4 @@
-Compsonema chordae Noda SPECIES
-=======
+# Compsonema chordae Noda SPECIES
 
 #### Status
 ACCEPTED

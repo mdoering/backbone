@@ -1,5 +1,4 @@
-Limnococcus (Komárek & Anagnostidis) Komárková, Jezberová, O.Komárek & Zapomelová, 2010 GENUS
-=======
+# Limnococcus (Komárek & Anagnostidis) Komárková, Jezberová, O.Komárek & Zapomelová, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius inurbanus Britzelm. SPECIES
-=======
+# Cortinarius inurbanus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

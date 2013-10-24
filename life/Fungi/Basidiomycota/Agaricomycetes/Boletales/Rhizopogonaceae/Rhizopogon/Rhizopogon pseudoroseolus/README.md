@@ -1,5 +1,4 @@
-Rhizopogon pseudoroseolus A.H. Sm. SPECIES
-=======
+# Rhizopogon pseudoroseolus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

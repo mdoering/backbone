@@ -1,5 +1,4 @@
-Flammula armillata (Murrill) Murrill SPECIES
-=======
+# Flammula armillata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

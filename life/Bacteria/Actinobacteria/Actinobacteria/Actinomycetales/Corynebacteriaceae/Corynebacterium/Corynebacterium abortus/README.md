@@ -1,5 +1,4 @@
-Corynebacterium abortus SPECIES
-=======
+# Corynebacterium abortus SPECIES
 
 #### Status
 ACCEPTED

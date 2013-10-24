@@ -1,5 +1,4 @@
-Dothidella indica Sacc. SPECIES
-=======
+# Dothidella indica Sacc. SPECIES
 
 #### Status
 ACCEPTED

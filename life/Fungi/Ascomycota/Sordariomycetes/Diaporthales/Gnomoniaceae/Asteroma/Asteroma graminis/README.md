@@ -1,5 +1,4 @@
-Asteroma graminis Westend. SPECIES
-=======
+# Asteroma graminis Westend. SPECIES
 
 #### Status
 ACCEPTED

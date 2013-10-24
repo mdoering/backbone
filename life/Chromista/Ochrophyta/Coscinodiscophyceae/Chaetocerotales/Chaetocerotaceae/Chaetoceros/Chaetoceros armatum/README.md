@@ -1,5 +1,4 @@
-Chaetoceros armatum T. West SPECIES
-=======
+# Chaetoceros armatum T. West SPECIES
 
 #### Status
 ACCEPTED

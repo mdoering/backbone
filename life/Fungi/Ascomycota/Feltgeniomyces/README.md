@@ -1,5 +1,4 @@
-Feltgeniomyces Dieder. GENUS
-=======
+# Feltgeniomyces Dieder. GENUS
 
 #### Status
 ACCEPTED

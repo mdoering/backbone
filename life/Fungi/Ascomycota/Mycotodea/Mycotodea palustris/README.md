@@ -1,5 +1,4 @@
-Mycotodea palustris Schief. SPECIES
-=======
+# Mycotodea palustris Schief. SPECIES
 
 #### Status
 ACCEPTED

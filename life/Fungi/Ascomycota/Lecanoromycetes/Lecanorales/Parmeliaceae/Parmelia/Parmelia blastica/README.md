@@ -1,5 +1,4 @@
-Parmelia blastica Vain. SPECIES
-=======
+# Parmelia blastica Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora cestri-parquii Lall & H.S. Gill SPECIES
-=======
+# Cercospora cestri-parqui Lall & H.S. Gill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 15(3-4): 243 (1963)
 
 #### Original name
-Cercospora cestri-parquii Lall & H.S. Gill
+Cercospora cestri-parqui Lall & H.S. Gill
 
 ### Remarks
 null

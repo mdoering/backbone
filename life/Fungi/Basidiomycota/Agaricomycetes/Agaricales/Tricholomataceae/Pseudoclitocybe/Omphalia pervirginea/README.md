@@ -1,5 +1,4 @@
-Omphalia pervirginea (Murrill) Murrill SPECIES
-=======
+# Omphalia pervirginea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

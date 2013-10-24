@@ -1,5 +1,4 @@
-Phyllosticta coriariae Sawada SPECIES
-=======
+# Phyllosticta coriariae Sawada SPECIES
 
 #### Status
 ACCEPTED

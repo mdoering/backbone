@@ -1,5 +1,4 @@
-Pseudocercospora malloti-repandi (Bhalla, S.K. Singh & A.K. Srivast.) U. Braun SPECIES
-=======
+# Pseudocercospora malloti-repandi (Bhalla, S.K. Singh & A.K. Srivast.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

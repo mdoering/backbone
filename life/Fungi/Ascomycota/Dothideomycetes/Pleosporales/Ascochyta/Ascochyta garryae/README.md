@@ -1,5 +1,4 @@
-Ascochyta garryae Sacc. SPECIES
-=======
+# Ascochyta garryae Sacc. SPECIES
 
 #### Status
 ACCEPTED

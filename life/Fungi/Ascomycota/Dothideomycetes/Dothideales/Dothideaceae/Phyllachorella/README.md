@@ -1,5 +1,4 @@
-Phyllachorella Syd. GENUS
-=======
+# Phyllachorella Syd. GENUS
 
 #### Status
 ACCEPTED

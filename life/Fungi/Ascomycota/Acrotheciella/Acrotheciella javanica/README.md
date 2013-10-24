@@ -1,5 +1,4 @@
-Acrotheciella javanica Koord., 1907 SPECIES
-=======
+# Acrotheciella javanica Koord., 1907 SPECIES
 
 #### Status
 ACCEPTED

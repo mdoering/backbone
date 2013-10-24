@@ -1,5 +1,4 @@
-Lecanora lateritigena Lindau SPECIES
-=======
+# Lecanora lateritigena Lindau SPECIES
 
 #### Status
 ACCEPTED

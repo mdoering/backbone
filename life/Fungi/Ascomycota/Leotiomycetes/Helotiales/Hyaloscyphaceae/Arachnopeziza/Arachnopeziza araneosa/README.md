@@ -1,14 +1,13 @@
-Pyronemella araneosa (Sacc.) Sacc., 1889 SPECIES
-=======
+# Arachnopeziza araneosa (Sacc.) Korf, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 194 (1889)
+Lloydia 14: 165 (1952)
 
 #### Original name
 null

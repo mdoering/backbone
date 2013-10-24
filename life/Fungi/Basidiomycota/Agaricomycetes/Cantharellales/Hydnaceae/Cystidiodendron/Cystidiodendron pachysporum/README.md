@@ -1,5 +1,4 @@
-Cystidiodendron pachysporum Rick SPECIES
-=======
+# Cystidiodendron pachysporum Rick SPECIES
 
 #### Status
 ACCEPTED

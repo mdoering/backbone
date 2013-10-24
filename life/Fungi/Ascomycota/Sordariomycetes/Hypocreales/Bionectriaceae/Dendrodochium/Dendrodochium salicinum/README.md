@@ -1,5 +1,4 @@
-Dendrodochium salicinum Kirschst. SPECIES
-=======
+# Dendrodochium salicinum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

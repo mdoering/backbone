@@ -1,5 +1,4 @@
-Agrocybe pediales (Fr. Fr.) Fayod SPECIES
-=======
+# Agrocybe pediales (Fr. Fr.) Fayod SPECIES
 
 #### Status
 ACCEPTED

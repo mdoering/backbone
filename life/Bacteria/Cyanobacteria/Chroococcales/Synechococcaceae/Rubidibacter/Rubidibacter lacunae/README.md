@@ -1,5 +1,4 @@
-Rubidibacter lacunae D.H.Choi, J.H.Lee, C.M.Lee & S.Rho, 2008 SPECIES
-=======
+# Rubidibacter lacunae D.H.Choi, J.H.Lee, C.M.Lee & S.Rho, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum gleicheniae E.K. Cash SPECIES
-=======
+# Lachnum gleicheniae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

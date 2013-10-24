@@ -1,5 +1,4 @@
-Protoperidinium joubinii (P. Dangeard, 1927) Balech, 1974 SPECIES
-=======
+# Protoperidinium joubinii (P. Dangeard, 1927) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

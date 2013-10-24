@@ -1,5 +1,4 @@
-Physalospora hosackiae (Cooke & Harkn.) Cooke SPECIES
-=======
+# Physalospora hosackiae (Cooke & Harkn.) Cooke SPECIES
 
 #### Status
 ACCEPTED

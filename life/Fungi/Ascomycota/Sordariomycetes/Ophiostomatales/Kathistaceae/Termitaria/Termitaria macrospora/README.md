@@ -1,5 +1,4 @@
-Termitaria macrospora Kimbr. & M. Lenz SPECIES
-=======
+# Termitaria macrospora Kimbr. & M. Lenz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis phillophila Petr. SPECIES
-=======
+# Phomopsis phillophila Petr. SPECIES
 
 #### Status
 ACCEPTED

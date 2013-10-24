@@ -1,5 +1,4 @@
-Corynetes microspora (Cooke & Peck) SPECIES
-=======
+# Corynetes microspora (Cooke & Peck) SPECIES
 
 #### Status
 ACCEPTED

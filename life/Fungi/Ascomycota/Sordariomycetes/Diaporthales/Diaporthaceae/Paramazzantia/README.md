@@ -1,5 +1,4 @@
-Paramazzantia GENUS
-=======
+# Paramazzantia GENUS
 
 #### Status
 ACCEPTED

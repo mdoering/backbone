@@ -1,5 +1,4 @@
-Valsa sabalina Cooke SPECIES
-=======
+# Valsa sabalina Cooke SPECIES
 
 #### Status
 ACCEPTED

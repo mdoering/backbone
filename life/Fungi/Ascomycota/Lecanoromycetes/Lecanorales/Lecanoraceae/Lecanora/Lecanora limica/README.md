@@ -1,5 +1,4 @@
-Lecanora limica B. de Lesd. & Samp. SPECIES
-=======
+# Lecanora limica B. de Lesd. & Samp. SPECIES
 
 #### Status
 ACCEPTED

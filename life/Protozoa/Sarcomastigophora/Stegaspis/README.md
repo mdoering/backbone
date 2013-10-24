@@ -1,5 +1,4 @@
-Stegaspis Haeckel, 1881 GENUS
-=======
+# Stegaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

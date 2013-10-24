@@ -1,5 +1,4 @@
-Pseudomonas grimontii Baïda et al., 2002 SPECIES
-=======
+# Pseudomonas grimontii Baïda et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

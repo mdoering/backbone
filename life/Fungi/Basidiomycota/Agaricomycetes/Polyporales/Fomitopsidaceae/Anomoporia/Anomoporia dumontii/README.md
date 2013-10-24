@@ -1,5 +1,4 @@
-Anomoporia dumontii Hjortstam & Ryvarden, 1987 SPECIES
-=======
+# Anomoporia dumontii Hjortstam & Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

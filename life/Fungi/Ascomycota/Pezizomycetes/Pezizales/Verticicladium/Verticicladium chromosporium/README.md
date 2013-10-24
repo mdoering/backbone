@@ -1,5 +1,4 @@
-Verticicladium chromosporium Sousa da Câmara SPECIES
-=======
+# Verticicladium chromosporium Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota ivoriensis R. Heim SPECIES
-=======
+# Lepiota ivoriensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

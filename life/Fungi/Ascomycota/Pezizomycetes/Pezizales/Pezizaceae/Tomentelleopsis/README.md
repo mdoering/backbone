@@ -1,5 +1,4 @@
-Tomentelleopsis GENUS
-=======
+# Tomentelleopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium hoheriae J.D. Atk. SPECIES
-=======
+# Myxosporium hoheriae J.D. Atk. SPECIES
 
 #### Status
 ACCEPTED

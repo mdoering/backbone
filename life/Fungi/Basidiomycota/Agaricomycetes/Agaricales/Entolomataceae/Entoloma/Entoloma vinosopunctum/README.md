@@ -1,5 +1,4 @@
-Entoloma vinosopunctum E. Horak SPECIES
-=======
+# Entoloma vinosopunctum E. Horak SPECIES
 
 #### Status
 ACCEPTED

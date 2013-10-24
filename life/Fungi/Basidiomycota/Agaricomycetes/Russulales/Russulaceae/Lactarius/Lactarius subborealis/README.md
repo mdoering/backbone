@@ -1,5 +1,4 @@
-Lactarius subborealis A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius subborealis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

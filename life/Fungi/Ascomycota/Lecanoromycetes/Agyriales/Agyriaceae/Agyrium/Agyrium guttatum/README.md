@@ -1,5 +1,4 @@
-Agyrium guttatum Wallr. SPECIES
-=======
+# Agyrium guttatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

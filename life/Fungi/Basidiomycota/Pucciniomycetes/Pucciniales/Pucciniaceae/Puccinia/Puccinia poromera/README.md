@@ -1,5 +1,4 @@
-Puccinia poromera Holw. SPECIES
-=======
+# Puccinia poromera Holw. SPECIES
 
 #### Status
 ACCEPTED

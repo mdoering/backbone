@@ -1,5 +1,4 @@
-Clitocybula (Singer) Singer ex Métrod GENUS
-=======
+# Clitocybula (Singer) Singer ex Métrod GENUS
 
 #### Status
 ACCEPTED

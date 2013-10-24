@@ -1,5 +1,4 @@
-Cordella myristicae Bat. SPECIES
-=======
+# Cordella myristicae Bat. SPECIES
 
 #### Status
 ACCEPTED

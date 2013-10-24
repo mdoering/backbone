@@ -1,17 +1,16 @@
-Zygopichia humboldtii (Rodr. Mir. & Török) Kock.-Krat., 1990 SPECIES
-=======
+# Magnusiomyces ingens (de Hoog, M.T. Sm. & E. Guého) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 50(2): 511 (2004)
 
 #### Original name
-null
+Dipodascus ingens de Hoog, M.T. Sm. & E. Guého, 1997
 
 ### Remarks
 null

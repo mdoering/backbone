@@ -1,5 +1,4 @@
-Calonectria sceptri (P. Karst.) Sacc. SPECIES
-=======
+# Calonectria sceptri (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

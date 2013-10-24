@@ -1,5 +1,4 @@
-Asteroma zeae Westend. SPECIES
-=======
+# Asteroma zeae Westend. SPECIES
 
 #### Status
 ACCEPTED

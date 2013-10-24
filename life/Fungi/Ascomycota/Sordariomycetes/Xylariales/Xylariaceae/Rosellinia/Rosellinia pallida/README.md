@@ -1,5 +1,4 @@
-Rosellinia pallida Mouton SPECIES
-=======
+# Rosellinia pallida Mouton SPECIES
 
 #### Status
 ACCEPTED

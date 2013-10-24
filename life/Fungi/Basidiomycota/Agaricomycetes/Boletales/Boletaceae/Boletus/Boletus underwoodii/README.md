@@ -1,5 +1,4 @@
-Boletus underwoodii Peck SPECIES
-=======
+# Boletus underwoodii Peck SPECIES
 
 #### Status
 ACCEPTED

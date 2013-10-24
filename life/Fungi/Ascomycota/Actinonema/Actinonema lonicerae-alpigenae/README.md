@@ -1,5 +1,4 @@
-Actinonema lonicerae-alpigenae Allesch. SPECIES
-=======
+# Actinonema lonicerae-alpigenae Allesch. SPECIES
 
 #### Status
 ACCEPTED

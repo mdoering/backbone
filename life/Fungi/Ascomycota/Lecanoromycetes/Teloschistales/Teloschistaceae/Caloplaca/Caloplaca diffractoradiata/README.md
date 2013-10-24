@@ -1,5 +1,4 @@
-Caloplaca diffractoradiata (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca diffractoradiata (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudomonas paucimobilis Holmes et al., 1977 (Approved Lists, 1980) SPECIES
-=======
+# Sphingomonas paucimobilis (Holmes et al., 1977) Yabuuchi et al., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

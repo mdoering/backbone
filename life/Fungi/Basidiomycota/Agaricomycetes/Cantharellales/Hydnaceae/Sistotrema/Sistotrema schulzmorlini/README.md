@@ -1,5 +1,4 @@
-Sistotrema schulzmorlini Spreng. SPECIES
-=======
+# Sistotrema schulzmorlini Spreng. SPECIES
 
 #### Status
 ACCEPTED

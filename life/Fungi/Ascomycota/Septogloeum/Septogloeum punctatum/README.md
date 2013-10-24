@@ -1,5 +1,4 @@
-Septogloeum punctatum Wakef. SPECIES
-=======
+# Septogloeum punctatum Wakef. SPECIES
 
 #### Status
 ACCEPTED

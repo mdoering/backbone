@@ -1,5 +1,4 @@
-Thelephora acicularis Lév. SPECIES
-=======
+# Thelephora acicularis Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatea atra Velen. SPECIES
-=======
+# Dermatea atra Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linodochium sideroxyli Dulym., P.M. Kirk & Peerally SPECIES
-=======
+# Linodochium sideroxyli Dulym., P.M. Kirk & Peerally SPECIES
 
 #### Status
 ACCEPTED

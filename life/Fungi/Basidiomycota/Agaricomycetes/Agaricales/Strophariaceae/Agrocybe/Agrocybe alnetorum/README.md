@@ -1,5 +1,4 @@
-Agrocybe alnetorum Lamoure SPECIES
-=======
+# Agrocybe alnetorum Lamoure SPECIES
 
 #### Status
 ACCEPTED

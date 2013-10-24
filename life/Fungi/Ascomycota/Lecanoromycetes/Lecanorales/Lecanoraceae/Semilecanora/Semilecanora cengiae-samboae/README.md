@@ -1,5 +1,4 @@
-Semilecanora cengiae-samboae (Szatala) Motyka SPECIES
-=======
+# Semilecanora cengiae-samboae (Szatala) Motyka SPECIES
 
 #### Status
 ACCEPTED

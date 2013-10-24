@@ -1,5 +1,4 @@
-Campylospora Ranzoni GENUS
-=======
+# Campylospora Ranzoni GENUS
 
 #### Status
 ACCEPTED

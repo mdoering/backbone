@@ -1,5 +1,4 @@
-Venturia alnea (Fr.) E. Müll. SPECIES
-=======
+# Venturia alnea (Fr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

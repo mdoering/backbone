@@ -1,5 +1,4 @@
-Aposphaeria citrispora Speg. SPECIES
-=======
+# Aposphaeria citrispora Speg. SPECIES
 
 #### Status
 ACCEPTED

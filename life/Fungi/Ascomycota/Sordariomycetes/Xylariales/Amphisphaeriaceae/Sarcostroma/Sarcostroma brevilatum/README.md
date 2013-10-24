@@ -1,14 +1,13 @@
-Seimatosporium brevilatum H.J. Swart & D.A. Griffiths, 1974 SPECIES
-=======
+# Sarcostroma brevilatum (H.J. Swart & D.A. Griffiths) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 62(2): 360 (1974)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 780 (1993)
 
 #### Original name
 Seimatosporium brevilatum H.J. Swart & D.A. Griffiths, 1974

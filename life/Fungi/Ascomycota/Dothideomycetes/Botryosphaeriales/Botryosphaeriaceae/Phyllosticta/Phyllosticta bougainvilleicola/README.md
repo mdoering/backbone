@@ -1,5 +1,4 @@
-Phyllosticta bougainvilleicola V.G. Rao SPECIES
-=======
+# Phyllosticta bougainvilleicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

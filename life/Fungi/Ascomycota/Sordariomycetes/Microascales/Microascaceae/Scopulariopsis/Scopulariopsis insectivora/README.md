@@ -1,5 +1,4 @@
-Scopulariopsis insectivora (Sopp) Thom SPECIES
-=======
+# Scopulariopsis insectivora (Sopp) Thom SPECIES
 
 #### Status
 ACCEPTED

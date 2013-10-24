@@ -1,5 +1,4 @@
-Nectria balansae Speg., 1885 SPECIES
-=======
+# Nectria balansae Speg., 1885 SPECIES
 
 #### Status
 ACCEPTED

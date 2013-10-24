@@ -1,5 +1,4 @@
-Schizothrix tinctoria (C.Agardh) ex Gomont SPECIES
-=======
+# Schizothrix tinctoria (C.Agardh) ex Gomont SPECIES
 
 #### Status
 ACCEPTED

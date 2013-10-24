@@ -1,5 +1,4 @@
-Lecanora flavidopallens Nyl. SPECIES
-=======
+# Lecanora flavidopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

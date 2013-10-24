@@ -1,5 +1,4 @@
-Trihyphites Kalgutkar & Janson. GENUS
-=======
+# Trihyphites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

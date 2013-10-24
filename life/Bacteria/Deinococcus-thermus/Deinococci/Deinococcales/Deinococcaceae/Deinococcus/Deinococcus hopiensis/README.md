@@ -1,5 +1,4 @@
-Deinococcus hopiensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus hopiensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

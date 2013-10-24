@@ -1,5 +1,4 @@
-Euglena circularis Gojdics SPECIES
-=======
+# Euglena circularis Gojdics SPECIES
 
 #### Status
 ACCEPTED

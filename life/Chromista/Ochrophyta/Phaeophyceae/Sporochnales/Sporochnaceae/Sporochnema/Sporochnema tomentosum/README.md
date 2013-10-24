@@ -1,5 +1,4 @@
-Sporochnema tomentosum Womersley SPECIES
-=======
+# Sporochnema tomentosum Womersley SPECIES
 
 #### Status
 ACCEPTED

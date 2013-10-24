@@ -1,5 +1,4 @@
-Agaricus rufipes Massee & W.G. Sm., 1903 SPECIES
-=======
+# Agaricus rufipes Massee & W.G. Sm., 1903 SPECIES
 
 #### Status
 ACCEPTED

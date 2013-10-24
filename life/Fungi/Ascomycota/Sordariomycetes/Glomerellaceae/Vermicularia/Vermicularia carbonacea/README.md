@@ -1,5 +1,4 @@
-Vermicularia carbonacea Berk. & M.A. Curtis SPECIES
-=======
+# Vermicularia carbonacea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

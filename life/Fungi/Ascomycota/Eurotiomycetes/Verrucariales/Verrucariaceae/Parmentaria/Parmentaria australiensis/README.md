@@ -1,14 +1,13 @@
-Plagiothelium australiense Stirt. SPECIES
-=======
+# Parmentaria australiensis (Stirt.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 75 (1881)
+Nuovo Giorn. Bot. Ital. 23: 401 (1891)
 
 #### Original name
 Plagiothelium australiense Stirt.

@@ -1,5 +1,4 @@
-Trichopeziza vitis (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza vitis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

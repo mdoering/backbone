@@ -1,5 +1,4 @@
-Discostroma polymorphum Brockmann SPECIES
-=======
+# Discostroma polymorphum Brockmann SPECIES
 
 #### Status
 ACCEPTED

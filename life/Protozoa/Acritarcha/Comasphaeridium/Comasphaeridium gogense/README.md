@@ -1,5 +1,4 @@
-Comasphaeridium gogense (Downie, 1982) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium gogense (Downie, 1982) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

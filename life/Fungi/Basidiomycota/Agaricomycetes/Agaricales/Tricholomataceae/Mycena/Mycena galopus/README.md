@@ -1,11 +1,10 @@
-Mycena galopus var. galopus VARIETY
-=======
+# Mycena galopus (Pers. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Belgian Species List
 
 #### Published in
 null

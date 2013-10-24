@@ -1,5 +1,4 @@
-Polystictus puroalbus Lloyd SPECIES
-=======
+# Polystictus puroalbus Lloyd SPECIES
 
 #### Status
 ACCEPTED

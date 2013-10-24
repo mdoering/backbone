@@ -1,14 +1,13 @@
-Leptotrema subgeminum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelotrema subgeminum (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 640 (1923)
+Sert. Lich. Trop. Labuan Singapore 5 (1891)
 
 #### Original name
 Thelotrema monosporum var. subgeminum Nyl.

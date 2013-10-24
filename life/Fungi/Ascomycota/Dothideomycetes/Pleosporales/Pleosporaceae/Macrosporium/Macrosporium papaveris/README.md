@@ -1,5 +1,4 @@
-Macrosporium papaveris Parisi SPECIES
-=======
+# Macrosporium papaveris Parisi SPECIES
 
 #### Status
 ACCEPTED

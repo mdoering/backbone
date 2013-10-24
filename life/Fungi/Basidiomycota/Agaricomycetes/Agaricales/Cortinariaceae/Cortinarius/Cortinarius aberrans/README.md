@@ -1,5 +1,4 @@
-Cortinarius aberrans Rob. Henry SPECIES
-=======
+# Cortinarius aberrans Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

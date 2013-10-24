@@ -1,5 +1,4 @@
-Rosellinia chusqueae Pat., 1895 SPECIES
-=======
+# Rosellinia chusqueae Pat., 1895 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinellus sinensis R.H. Petersen SPECIES
-=======
+# Lentinellus sinensis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

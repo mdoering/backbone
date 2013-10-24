@@ -1,5 +1,4 @@
-Entomophthora helvetica S. Keller & Ben Ze'ev, 1985 SPECIES
-=======
+# Entomophthora helvetica S. Keller & Ben Ze'ev, 1985 SPECIES
 
 #### Status
 ACCEPTED

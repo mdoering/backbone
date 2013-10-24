@@ -1,8 +1,7 @@
-Stagonospora typhoidearum sparganii Fuckel, 1870 INFRASPECIFIC_NAME
-=======
+# Stagonospora sparganii (Fuckel) Mussat, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Stagonospora sparganii (Fuckel) Mussat, 1900
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cylindrosporium cisti Gonz. Frag. SPECIES
-=======
+# Cylindrosporium cisti Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

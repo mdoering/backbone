@@ -1,5 +1,4 @@
-Laboulbenia pucallpae K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia pucallpae K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

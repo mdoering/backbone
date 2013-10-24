@@ -1,5 +1,4 @@
-Stictodiscus hardmanianus var. coronatus A.P. Jousé VARIETY
-=======
+# Stictodiscus hardmanianus SPECIES
 
 #### Status
 ACCEPTED

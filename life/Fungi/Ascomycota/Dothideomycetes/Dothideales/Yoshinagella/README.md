@@ -1,5 +1,4 @@
-Yoshinagella Höhn. GENUS
-=======
+# Yoshinagella Höhn. GENUS
 
 #### Status
 ACCEPTED

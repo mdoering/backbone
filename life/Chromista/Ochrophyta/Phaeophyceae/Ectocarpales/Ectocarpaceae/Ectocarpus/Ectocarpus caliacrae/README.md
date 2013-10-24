@@ -1,5 +1,4 @@
-Ectocarpus caliacrae Celan SPECIES
-=======
+# Ectocarpus caliacrae Celan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius variosimilis M.M. Moser & Ammirati SPECIES
-=======
+# Cortinarius variosimilis M.M. Moser & Ammirati SPECIES
 
 #### Status
 ACCEPTED

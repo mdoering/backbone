@@ -1,5 +1,4 @@
-Mycena querquecina Losa SPECIES
-=======
+# Mycena querquecina Losa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia tiroliensis (Erichsen) Hafellner & Türk SPECIES
-=======
+# Ochrolechia tiroliensis (Erichsen) Hafellner & Türk SPECIES
 
 #### Status
 ACCEPTED

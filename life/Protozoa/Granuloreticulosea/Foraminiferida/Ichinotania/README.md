@@ -1,5 +1,4 @@
-Ichinotania Adachi, 1980 GENUS
-=======
+# Ichinotania Adachi, 1980 GENUS
 
 #### Status
 ACCEPTED

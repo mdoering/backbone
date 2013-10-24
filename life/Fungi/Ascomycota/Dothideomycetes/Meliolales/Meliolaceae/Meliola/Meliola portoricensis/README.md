@@ -1,5 +1,4 @@
-Meliola portoricensis (F. Stevens) Cif. SPECIES
-=======
+# Meliola portoricensis (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

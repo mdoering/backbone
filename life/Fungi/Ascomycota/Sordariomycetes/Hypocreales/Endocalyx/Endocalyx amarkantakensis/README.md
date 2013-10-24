@@ -1,17 +1,16 @@
-Endocalyx amarkantakenis U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
-=======
+# Endocalyx amarkantakensis U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 28 & 29: 36 (2001)
 
 #### Original name
-Endocalyx amarkantakenis U.S. Patel, A.K. Pandey & R.C. Rajak
+Endocalyx amarkantakensis U.S. Patel, A.K. Pandey & R.C. Rajak
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pluteus montellicus Sacc. SPECIES
-=======
+# Pluteus montellicus Sacc. SPECIES
 
 #### Status
 ACCEPTED

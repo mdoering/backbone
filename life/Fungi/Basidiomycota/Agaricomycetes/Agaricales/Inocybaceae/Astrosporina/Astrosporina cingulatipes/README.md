@@ -1,5 +1,4 @@
-Astrosporina cingulatipes Corner & E. Horak SPECIES
-=======
+# Astrosporina cingulatipes Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

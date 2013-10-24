@@ -1,5 +1,4 @@
-Gutzia McCulloch, 1977 GENUS
-=======
+# Gutzia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

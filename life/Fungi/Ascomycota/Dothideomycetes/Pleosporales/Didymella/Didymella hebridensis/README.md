@@ -1,5 +1,4 @@
-Didymella hebridensis Dennis, 1975 SPECIES
-=======
+# Didymella hebridensis Dennis, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrina buxicola Bat. SPECIES
-=======
+# Microthyrina buxicola Bat. SPECIES
 
 #### Status
 ACCEPTED

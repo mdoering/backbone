@@ -1,5 +1,4 @@
-Punctelia Krog, 1982 GENUS
-=======
+# Punctelia Krog, 1982 GENUS
 
 #### Status
 ACCEPTED

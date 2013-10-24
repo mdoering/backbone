@@ -1,5 +1,4 @@
-Meliola hiptages (W. Yamam.) Cif. SPECIES
-=======
+# Meliola hiptages (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

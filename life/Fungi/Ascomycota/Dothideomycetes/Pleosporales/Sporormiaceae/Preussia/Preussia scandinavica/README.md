@@ -1,5 +1,4 @@
-Preussia scandinavica (I. Egeland) Guarro SPECIES
-=======
+# Preussia scandinavica (I. Egeland) Guarro SPECIES
 
 #### Status
 ACCEPTED

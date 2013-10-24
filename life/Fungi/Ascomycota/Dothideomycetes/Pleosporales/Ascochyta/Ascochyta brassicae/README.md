@@ -1,5 +1,4 @@
-Ascochyta brassicae Thüm., 1879 SPECIES
-=======
+# Ascochyta brassicae Thüm., 1879 SPECIES
 
 #### Status
 ACCEPTED

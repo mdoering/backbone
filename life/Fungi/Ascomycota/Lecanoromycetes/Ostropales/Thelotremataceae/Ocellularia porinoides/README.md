@@ -1,5 +1,4 @@
-Ocellularia porinoides (Ach.) Spreng. SPECIES
-=======
+# Ocellularia porinoides (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

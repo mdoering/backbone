@@ -1,14 +1,13 @@
-Scortechinia acanthostroma (Mont.) Sacc. & Berl., 1884 SPECIES
-=======
+# Nitschkia acanthostroma (Mont.) Nannf., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 69(1): 58 (1975)
 
 #### Original name
 Sphaeria acanthostroma Mont., 1855

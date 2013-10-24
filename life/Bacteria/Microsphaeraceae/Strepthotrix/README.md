@@ -1,5 +1,4 @@
-Strepthotrix GENUS
-=======
+# Strepthotrix GENUS
 
 #### Status
 ACCEPTED

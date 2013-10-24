@@ -1,5 +1,4 @@
-Anthostomella ludoviciana Ellis & Langl., 1890 SPECIES
-=======
+# Anthostomella ludoviciana Ellis & Langl., 1890 SPECIES
 
 #### Status
 ACCEPTED

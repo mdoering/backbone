@@ -1,5 +1,4 @@
-Arthonia varia (Ach.) Nyl. SPECIES
-=======
+# Arthonia varia (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

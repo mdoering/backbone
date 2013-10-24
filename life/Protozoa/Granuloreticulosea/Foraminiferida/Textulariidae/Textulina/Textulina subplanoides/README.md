@@ -1,5 +1,4 @@
-Textulina subplanoides (Zheng, 1988) SPECIES
-=======
+# Textulina subplanoides (Zheng, 1988) SPECIES
 
 #### Status
 ACCEPTED

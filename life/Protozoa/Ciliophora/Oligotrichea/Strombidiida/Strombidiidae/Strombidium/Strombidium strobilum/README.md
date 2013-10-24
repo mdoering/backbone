@@ -1,5 +1,4 @@
-Strombidium strobilum Lohmann, 1908 SPECIES
-=======
+# Strombidium strobilum Lohmann, 1908 SPECIES
 
 #### Status
 ACCEPTED

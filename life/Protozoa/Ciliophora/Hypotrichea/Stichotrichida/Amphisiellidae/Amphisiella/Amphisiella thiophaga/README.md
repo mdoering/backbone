@@ -1,5 +1,4 @@
-Amphisiella thiophaga Kahl, 1928 SPECIES
-=======
+# Amphisiella thiophaga Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

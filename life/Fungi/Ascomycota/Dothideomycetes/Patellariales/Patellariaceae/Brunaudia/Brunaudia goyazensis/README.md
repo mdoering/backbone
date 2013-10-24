@@ -1,5 +1,4 @@
-Brunaudia goyazensis (Henn.) Kuntze SPECIES
-=======
+# Brunaudia goyazensis (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium pulchellum Sacc. SPECIES
-=======
+# Sporidesmium pulchellum Sacc. SPECIES
 
 #### Status
 ACCEPTED

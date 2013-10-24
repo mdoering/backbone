@@ -1,5 +1,4 @@
-Verrucaria scutata Stirt. SPECIES
-=======
+# Verrucaria scutata Stirt. SPECIES
 
 #### Status
 ACCEPTED

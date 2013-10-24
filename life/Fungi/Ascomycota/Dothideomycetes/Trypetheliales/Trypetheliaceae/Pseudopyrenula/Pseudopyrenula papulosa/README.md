@@ -1,5 +1,4 @@
-Pseudopyrenula papulosa (Nyl.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula papulosa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

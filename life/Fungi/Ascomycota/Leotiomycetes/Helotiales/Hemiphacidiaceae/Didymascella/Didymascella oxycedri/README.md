@@ -1,5 +1,4 @@
-Didymascella oxycedri Maire & Sacc., 1903 SPECIES
-=======
+# Didymascella oxycedri Maire & Sacc., 1903 SPECIES
 
 #### Status
 ACCEPTED

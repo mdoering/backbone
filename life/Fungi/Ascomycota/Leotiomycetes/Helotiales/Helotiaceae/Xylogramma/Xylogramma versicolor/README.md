@@ -1,5 +1,4 @@
-Xylogramma versicolor Wallr. SPECIES
-=======
+# Xylogramma versicolor Wallr. SPECIES
 
 #### Status
 ACCEPTED

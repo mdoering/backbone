@@ -1,5 +1,4 @@
-Anthracophyllum paxilloides Singer, 1955 SPECIES
-=======
+# Anthracophyllum paxilloides Singer, 1955 SPECIES
 
 #### Status
 ACCEPTED

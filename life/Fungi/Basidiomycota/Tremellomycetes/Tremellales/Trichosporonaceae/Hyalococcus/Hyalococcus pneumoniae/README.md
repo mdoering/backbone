@@ -1,5 +1,4 @@
-Hyalococcus pneumoniae J. Schröt. SPECIES
-=======
+# Hyalococcus pneumoniae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

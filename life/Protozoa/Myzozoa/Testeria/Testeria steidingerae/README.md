@@ -1,5 +1,4 @@
-Testeria steidingerae Faust, 2003 SPECIES
-=======
+# Testeria steidingerae Faust, 2003 SPECIES
 
 #### Status
 ACCEPTED

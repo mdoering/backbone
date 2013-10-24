@@ -1,5 +1,4 @@
-Jenkinsella Kennett & Srinivasan, 1983 GENUS
-=======
+# Jenkinsella Kennett & Srinivasan, 1983 GENUS
 
 #### Status
 ACCEPTED

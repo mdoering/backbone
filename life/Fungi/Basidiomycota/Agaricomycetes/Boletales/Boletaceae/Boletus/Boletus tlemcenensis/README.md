@@ -1,5 +1,4 @@
-Boletus tlemcenensis Maire SPECIES
-=======
+# Boletus tlemcenensis Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pseudonaevosus Rob. Henry SPECIES
-=======
+# Cortinarius pseudonaevosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

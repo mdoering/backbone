@@ -1,5 +1,4 @@
-Hypha papyracea (Pers.) Rabenh. SPECIES
-=======
+# Hypha papyracea (Pers.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

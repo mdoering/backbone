@@ -1,5 +1,4 @@
-Ascobius claparedei Hadzi, 1951 SPECIES
-=======
+# Ascobius claparedei Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

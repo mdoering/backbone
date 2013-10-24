@@ -1,5 +1,4 @@
-Mycena coprinoides P. Karst. SPECIES
-=======
+# Mycena coprinoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

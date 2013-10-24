@@ -1,5 +1,4 @@
-Lichen stellariformis Hoffm. SPECIES
-=======
+# Lichen stellariformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

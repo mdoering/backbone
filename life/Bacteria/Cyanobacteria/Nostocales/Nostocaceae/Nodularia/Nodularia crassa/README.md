@@ -1,5 +1,4 @@
-Nodularia crassa (Voronikhin) J. Komárek, M. Hübel, H. Hübel & J. Smarda SPECIES
-=======
+# Nodularia crassa (Voronikhin) J. Komárek, M. Hübel, H. Hübel & J. Smarda SPECIES
 
 #### Status
 ACCEPTED

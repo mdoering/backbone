@@ -1,5 +1,4 @@
-Scutopeltis alafiae Bat. & H. Maia, 1957 SPECIES
-=======
+# Scutopeltis alafiae Bat. & H. Maia, 1957 SPECIES
 
 #### Status
 ACCEPTED

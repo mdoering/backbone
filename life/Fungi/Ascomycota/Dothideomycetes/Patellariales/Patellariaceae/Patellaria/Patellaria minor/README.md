@@ -1,5 +1,4 @@
-Patellaria minor P. Karst. SPECIES
-=======
+# Patellaria minor P. Karst. SPECIES
 
 #### Status
 ACCEPTED

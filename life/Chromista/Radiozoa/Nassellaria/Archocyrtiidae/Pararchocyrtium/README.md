@@ -1,5 +1,4 @@
-Pararchocyrtium GENUS
-=======
+# Pararchocyrtium GENUS
 
 #### Status
 ACCEPTED

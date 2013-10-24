@@ -1,5 +1,4 @@
-Uncinula clintoniopsis R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Uncinula clintoniopsis R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Confertobasidium Jülich GENUS
-=======
+# Scytinostromella Parmasto, 1968 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Willdenowia, Beih. 7: 167 (1972)
+null
 
 #### Original name
-Confertobasidium Jülich
+null
 
 ### Remarks
 null

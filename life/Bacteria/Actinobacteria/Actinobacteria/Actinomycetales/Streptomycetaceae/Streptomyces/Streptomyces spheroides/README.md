@@ -1,5 +1,4 @@
-Streptomyces spheroides Wallick et al., 1956 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces spheroides Wallick et al., 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

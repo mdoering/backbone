@@ -1,5 +1,4 @@
-Hysterium seriatum Göpp. SPECIES
-=======
+# Hysterium seriatum Göpp. SPECIES
 
 #### Status
 ACCEPTED

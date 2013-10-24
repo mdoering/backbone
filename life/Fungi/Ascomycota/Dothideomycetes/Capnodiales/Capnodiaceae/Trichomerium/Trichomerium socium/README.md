@@ -1,5 +1,4 @@
-Trichomerium socium Bat., Nascim. & Cif. SPECIES
-=======
+# Trichomerium socium Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

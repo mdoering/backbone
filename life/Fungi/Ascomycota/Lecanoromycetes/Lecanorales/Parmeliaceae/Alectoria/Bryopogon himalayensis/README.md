@@ -1,14 +1,13 @@
-Bryopogon himalayanus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon himalayensis (Motyka) Bystrek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Univ. Mariae Curie-Sklodowska, Sect. C, Biol. 26(21): 273 (1971)
 
 #### Original name
 Alectoria himalayensis Motyka

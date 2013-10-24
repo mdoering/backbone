@@ -1,5 +1,4 @@
-Asterina gymnemae Hosag. & Jac. Thomas, 2010 SPECIES
-=======
+# Asterina gymnemae Hosag. & Jac. Thomas, 2010 SPECIES
 
 #### Status
 ACCEPTED

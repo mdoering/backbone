@@ -1,5 +1,4 @@
-Ityorhoptrum P.M. Kirk GENUS
-=======
+# Ityorhoptrum P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

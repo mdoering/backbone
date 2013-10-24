@@ -1,17 +1,16 @@
-Ulocladium manihoticolum J.M. Yen SPECIES
-=======
+# Ulocladium manihoticola J.M. Yen, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 97(3): 132 (1981)
 
 #### Original name
-Ulocladium manihoticolum J.M. Yen
+Ulocladium manihoticola J.M. Yen, 1981
 
 ### Remarks
 null

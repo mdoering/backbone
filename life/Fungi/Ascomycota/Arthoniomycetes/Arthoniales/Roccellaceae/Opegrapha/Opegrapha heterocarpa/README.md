@@ -1,5 +1,4 @@
-Opegrapha heterocarpa Fée SPECIES
-=======
+# Opegrapha heterocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

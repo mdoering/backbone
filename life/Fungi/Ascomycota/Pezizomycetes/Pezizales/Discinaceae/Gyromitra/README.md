@@ -1,17 +1,16 @@
-Maublancomyces Herter GENUS
-=======
+# Gyromitra E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Südam. de Botanica 8: 161 (1950)
+Summa veg. Scand. (Stockholm), Section Post. 346 (1849)
 
 #### Original name
-Maublancomyces Herter
+Gyromitra E.M. Fries, 1849
 
 ### Remarks
 null

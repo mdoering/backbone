@@ -1,5 +1,4 @@
-Heppia paulina Marton SPECIES
-=======
+# Heppia paulina Marton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena wisconsinensis Prescott SPECIES
-=======
+# Anabaena wisconsinensis Prescott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Kneiffiella nesporii (Bres.) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphodontia nesporii (Bres.) J. Erikss. & Hjortstam, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

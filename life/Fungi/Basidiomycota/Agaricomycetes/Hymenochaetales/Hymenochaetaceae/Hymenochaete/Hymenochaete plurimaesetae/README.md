@@ -1,5 +1,4 @@
-Hymenochaete plurimaesetae G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete plurimaesetae G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

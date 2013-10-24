@@ -1,5 +1,4 @@
-Lagotia obstretrica (Wright, 1862) Hadzi, 1951 SPECIES
-=======
+# Lagotia obstretrica (Wright, 1862) Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

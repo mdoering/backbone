@@ -1,5 +1,4 @@
-Actidium pulchra (Teng) H. Zogg SPECIES
-=======
+# Actidium pulchra (Teng) H. Zogg SPECIES
 
 #### Status
 ACCEPTED

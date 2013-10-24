@@ -1,5 +1,4 @@
-Xylaria coccineum (Bull.) SPECIES
-=======
+# Xylaria coccineum (Bull.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nonionella iridea Heron-Allen & Earland, 1932 SPECIES
-=======
+# Nonionella iridea Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

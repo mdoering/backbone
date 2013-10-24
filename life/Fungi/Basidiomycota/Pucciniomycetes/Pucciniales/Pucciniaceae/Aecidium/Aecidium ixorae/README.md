@@ -1,5 +1,4 @@
-Aecidium ixorae Arthur SPECIES
-=======
+# Aecidium ixorae Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium ericincola Rehm SPECIES
-=======
+# Belonidium ericincola Rehm SPECIES
 
 #### Status
 ACCEPTED

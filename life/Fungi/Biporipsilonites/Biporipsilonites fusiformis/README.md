@@ -1,5 +1,4 @@
-Biporipsilonites fusiformis (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites fusiformis (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

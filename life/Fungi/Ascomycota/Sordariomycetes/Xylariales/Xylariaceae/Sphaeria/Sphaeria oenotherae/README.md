@@ -1,5 +1,4 @@
-Sphaeria oenotherae Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria oenotherae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

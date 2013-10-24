@@ -1,5 +1,4 @@
-Collybia nobilior Singer SPECIES
-=======
+# Collybia nobilior Singer SPECIES
 
 #### Status
 ACCEPTED

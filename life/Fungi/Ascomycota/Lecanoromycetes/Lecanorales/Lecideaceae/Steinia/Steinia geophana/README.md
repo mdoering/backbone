@@ -1,17 +1,16 @@
-Nesolechia insita (Stirt.) Vouaux SPECIES
-=======
+# Steinia geophana (Nyl.) Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Schlesien (Breslau) 2(2): 209 (1879)
 
 #### Original name
-Lecidea insita Stirt.
+Lecidea geophana Nyl.
 
 ### Remarks
 null

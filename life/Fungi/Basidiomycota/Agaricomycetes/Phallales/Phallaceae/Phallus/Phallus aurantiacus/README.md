@@ -1,5 +1,4 @@
-Phallus aurantiacus var. aurantiacus VARIETY
-=======
+# Phallus aurantiacus Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phallus aurantiacus var. aurantiacus
+Phallus aurantiacus Mont.
 
 ### Remarks
 null

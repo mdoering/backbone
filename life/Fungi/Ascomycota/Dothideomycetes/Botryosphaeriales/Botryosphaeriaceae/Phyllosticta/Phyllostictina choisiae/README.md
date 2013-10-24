@@ -1,5 +1,4 @@
-Phyllostictina choisiae (Siemaszko) Petr. SPECIES
-=======
+# Phyllostictina choisiae (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

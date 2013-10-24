@@ -1,5 +1,4 @@
-Melanoleuca subvelata Murrill SPECIES
-=======
+# Melanoleuca subvelata Murrill SPECIES
 
 #### Status
 ACCEPTED

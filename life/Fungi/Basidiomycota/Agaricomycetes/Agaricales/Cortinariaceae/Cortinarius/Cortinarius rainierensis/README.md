@@ -1,5 +1,4 @@
-Cortinarius rainierensis A.H. Sm. & D.E. Stuntz SPECIES
-=======
+# Cortinarius rainierensis A.H. Sm. & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

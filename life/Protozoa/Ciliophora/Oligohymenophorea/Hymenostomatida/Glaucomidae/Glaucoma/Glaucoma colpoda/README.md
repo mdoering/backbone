@@ -1,5 +1,4 @@
-Glaucoma colpoda SPECIES
-=======
+# Glaucoma colpoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alteromonas macleodii Baumann et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Alteromonas macleodii Baumann et al., 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chonosaurus galeatus Jankowski, 1973 SPECIES
-=======
+# Chonosaurus galeatus Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

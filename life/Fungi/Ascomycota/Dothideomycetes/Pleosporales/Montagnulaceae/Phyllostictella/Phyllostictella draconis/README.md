@@ -1,5 +1,4 @@
-Phyllostictella draconis Nann. SPECIES
-=======
+# Phyllostictella draconis Nann. SPECIES
 
 #### Status
 ACCEPTED

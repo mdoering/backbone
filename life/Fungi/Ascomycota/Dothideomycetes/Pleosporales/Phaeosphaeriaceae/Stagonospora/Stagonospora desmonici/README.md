@@ -1,5 +1,4 @@
-Stagonospora desmonici Henn. SPECIES
-=======
+# Stagonospora desmonici Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola sphaeropoda Cif. SPECIES
-=======
+# Meliola sphaeropoda Cif. SPECIES
 
 #### Status
 ACCEPTED

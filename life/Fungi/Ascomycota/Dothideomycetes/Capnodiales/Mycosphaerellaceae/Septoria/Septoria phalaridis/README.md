@@ -1,5 +1,4 @@
-Septoria phalaridis var. phalaridis VARIETY
-=======
+# Septoria phalaridis Cocc. & Morini SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Enum. Funghi della provincia di Bologna 3: 24 (1884)
 
 #### Original name
-Septoria phalaridis var. phalaridis
+Septoria phalaridis Cocc. & Morini
 
 ### Remarks
 null

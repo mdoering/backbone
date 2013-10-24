@@ -1,5 +1,4 @@
-Alternaria zinniae M.B. Ellis, 1972 SPECIES
-=======
+# Alternaria zinniae M.B. Ellis, 1972 SPECIES
 
 #### Status
 ACCEPTED

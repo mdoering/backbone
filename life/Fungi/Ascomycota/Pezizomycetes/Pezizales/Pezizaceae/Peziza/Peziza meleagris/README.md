@@ -1,5 +1,4 @@
-Peziza meleagris Ellis SPECIES
-=======
+# Peziza meleagris Ellis SPECIES
 
 #### Status
 ACCEPTED

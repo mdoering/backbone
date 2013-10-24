@@ -1,5 +1,4 @@
-Stilbum euphorbiae Pat. SPECIES
-=======
+# Stilbum euphorbiae Pat. SPECIES
 
 #### Status
 ACCEPTED

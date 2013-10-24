@@ -1,5 +1,4 @@
-Xylaria lingua (Lév.) Fr. SPECIES
-=======
+# Xylaria lingua (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

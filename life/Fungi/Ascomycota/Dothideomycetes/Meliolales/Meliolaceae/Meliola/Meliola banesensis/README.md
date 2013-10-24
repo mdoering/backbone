@@ -1,5 +1,4 @@
-Meliola banesensis Syd. & P. Syd. SPECIES
-=======
+# Meliola banesensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

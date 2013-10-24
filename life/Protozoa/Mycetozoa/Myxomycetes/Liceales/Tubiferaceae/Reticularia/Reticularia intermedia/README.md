@@ -1,5 +1,4 @@
-Reticularia intermedia Nann.-Bremek., 1958 SPECIES
-=======
+# Reticularia intermedia Nann.-Bremek., 1958 SPECIES
 
 #### Status
 ACCEPTED

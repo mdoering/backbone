@@ -1,5 +1,4 @@
-Lachnum patens P. Karst. SPECIES
-=======
+# Lachnum patens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

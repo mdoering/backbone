@@ -1,5 +1,4 @@
-Gymnopus amygdalisporus Polemis & Noordel. SPECIES
-=======
+# Gymnopus amygdalisporus Polemis & Noordel. SPECIES
 
 #### Status
 ACCEPTED

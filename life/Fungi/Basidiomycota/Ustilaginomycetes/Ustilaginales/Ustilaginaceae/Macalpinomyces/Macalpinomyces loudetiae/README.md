@@ -1,14 +1,13 @@
-Sorosporium loudetiae Vienn.-Bourg., 1951 SPECIES
-=======
+# Macalpinomyces loudetiae (Vienn.-Bourg.) Vánky, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 16(Suppl. Colon. no. 2): 104 (1951)
+Mycotaxon 62: 130 (1997)
 
 #### Original name
 Sorosporium loudetiae Vienn.-Bourg., 1951

@@ -1,5 +1,4 @@
-Craterellus cantharelloides var. cantharelloides VARIETY
-=======
+# Craterellus cantharelloides Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Craterellus cantharelloides var. cantharelloides
+Craterellus cantharelloides Quél.
 
 ### Remarks
 null

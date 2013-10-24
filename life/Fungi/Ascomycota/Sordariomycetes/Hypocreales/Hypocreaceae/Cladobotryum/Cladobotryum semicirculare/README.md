@@ -1,5 +1,4 @@
-Cladobotryum semicirculare G.R.W. Arnold, R. Kirschner & Chee J. Chen, 2007 SPECIES
-=======
+# Cladobotryum semicirculare G.R.W. Arnold, R. Kirschner & Chee J. Chen, 2007 SPECIES
 
 #### Status
 ACCEPTED

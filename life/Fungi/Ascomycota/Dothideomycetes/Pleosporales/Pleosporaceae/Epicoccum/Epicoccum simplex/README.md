@@ -1,5 +1,4 @@
-Epicoccum simplex Berk. & M.A. Curtis SPECIES
-=======
+# Epicoccum simplex Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

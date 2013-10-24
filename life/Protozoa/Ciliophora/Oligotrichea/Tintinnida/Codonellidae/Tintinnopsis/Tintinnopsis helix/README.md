@@ -1,5 +1,4 @@
-Tintinnopsis helix (Claparède & Lachmann, 1858) ?, ? SPECIES
-=======
+# Tintinnopsis helix (Claparède & Lachmann, 1858) ?, ? SPECIES
 
 #### Status
 ACCEPTED

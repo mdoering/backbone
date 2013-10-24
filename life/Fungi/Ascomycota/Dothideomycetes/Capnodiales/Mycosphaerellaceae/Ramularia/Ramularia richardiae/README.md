@@ -1,5 +1,4 @@
-Ramularia richardiae Kalchbr. & Cooke SPECIES
-=======
+# Ramularia richardiae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

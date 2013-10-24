@@ -1,5 +1,4 @@
-Syncephalis cordata Tiegh. & G. Le Monn., 1873 SPECIES
-=======
+# Syncephalis cordata Tiegh. & G. Le Monn., 1873 SPECIES
 
 #### Status
 ACCEPTED

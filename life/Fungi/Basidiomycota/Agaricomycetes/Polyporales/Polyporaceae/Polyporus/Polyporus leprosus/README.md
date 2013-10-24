@@ -1,5 +1,4 @@
-Polyporus leprosus Fr. SPECIES
-=======
+# Polyporus leprosus Fr. SPECIES
 
 #### Status
 ACCEPTED

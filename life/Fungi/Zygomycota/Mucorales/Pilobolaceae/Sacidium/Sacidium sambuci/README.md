@@ -1,5 +1,4 @@
-Sacidium sambuci Mont. SPECIES
-=======
+# Sacidium sambuci Mont. SPECIES
 
 #### Status
 ACCEPTED

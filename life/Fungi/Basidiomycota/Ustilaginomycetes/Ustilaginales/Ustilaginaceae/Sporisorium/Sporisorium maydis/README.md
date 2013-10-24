@@ -1,5 +1,4 @@
-Sporisorium maydis Ces. SPECIES
-=======
+# Sporisorium maydis Ces. SPECIES
 
 #### Status
 ACCEPTED

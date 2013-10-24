@@ -1,5 +1,4 @@
-Laestadia cabelludae Rangel SPECIES
-=======
+# Laestadia cabelludae Rangel SPECIES
 
 #### Status
 ACCEPTED

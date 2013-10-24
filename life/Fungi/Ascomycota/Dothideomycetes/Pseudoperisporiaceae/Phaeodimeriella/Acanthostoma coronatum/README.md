@@ -1,5 +1,4 @@
-Acanthostoma coronatum (Speg.) Theiss. SPECIES
-=======
+# Acanthostoma coronatum (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

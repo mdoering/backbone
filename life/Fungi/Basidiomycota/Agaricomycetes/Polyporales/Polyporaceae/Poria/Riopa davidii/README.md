@@ -1,5 +1,4 @@
-Riopa davidii D.A. Reid SPECIES
-=======
+# Riopa davidii D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

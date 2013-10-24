@@ -1,5 +1,4 @@
-Axillariella constricta (Harvey) P.C. Silva SPECIES
-=======
+# Axillariella constricta (Harvey) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium chartarum Peck SPECIES
-=======
+# Macrosporium chartarum Peck SPECIES
 
 #### Status
 ACCEPTED

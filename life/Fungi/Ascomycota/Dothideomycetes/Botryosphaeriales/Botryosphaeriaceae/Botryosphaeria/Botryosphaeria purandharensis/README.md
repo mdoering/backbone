@@ -1,5 +1,4 @@
-Botryosphaeria purandharensis C. Ramesh SPECIES
-=======
+# Botryosphaeria purandharensis C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

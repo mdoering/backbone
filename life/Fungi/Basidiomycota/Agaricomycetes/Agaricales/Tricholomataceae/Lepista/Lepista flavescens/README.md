@@ -1,5 +1,4 @@
-Lepista flavescens Beeli SPECIES
-=======
+# Lepista flavescens Beeli SPECIES
 
 #### Status
 ACCEPTED

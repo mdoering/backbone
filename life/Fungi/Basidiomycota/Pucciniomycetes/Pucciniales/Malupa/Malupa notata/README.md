@@ -1,5 +1,4 @@
-Malupa notata (Arthur) Buriticá SPECIES
-=======
+# Malupa notata (Arthur) Buriticá SPECIES
 
 #### Status
 ACCEPTED

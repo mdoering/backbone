@@ -1,5 +1,4 @@
-Mitrophora GENUS
-=======
+# Mitrophora GENUS
 
 #### Status
 ACCEPTED

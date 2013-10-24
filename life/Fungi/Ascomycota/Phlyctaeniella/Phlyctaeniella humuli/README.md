@@ -1,5 +1,4 @@
-Phlyctaeniella humuli Petr., 1929 SPECIES
-=======
+# Phlyctaeniella humuli Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

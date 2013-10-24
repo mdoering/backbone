@@ -1,17 +1,16 @@
-Arachnidiumia Strand, 1928 GENUS
-=======
+# Strobilidium Schewiakoff GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Naturgesch. , 92, A8, 1926, 30.
+Verh. Ver. Heidelb. , (N. S. ) 4 (5), 559.
 
 #### Original name
-Arachnidium Kent, 1881-82
+null
 
 ### Remarks
 null

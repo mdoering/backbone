@@ -1,5 +1,4 @@
-Infundibulicybe dryadum (Bon) Harmaja SPECIES
-=======
+# Infundibulicybe dryadum (Bon) Harmaja SPECIES
 
 #### Status
 ACCEPTED

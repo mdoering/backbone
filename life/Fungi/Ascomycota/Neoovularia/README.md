@@ -1,5 +1,4 @@
-Neoovularia U. Braun GENUS
-=======
+# Neoovularia U. Braun GENUS
 
 #### Status
 ACCEPTED

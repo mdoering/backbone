@@ -1,5 +1,4 @@
-Anomaloplaisum tappaniae Cramer & Díez, 1977 SPECIES
-=======
+# Anomaloplaisum tappaniae Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

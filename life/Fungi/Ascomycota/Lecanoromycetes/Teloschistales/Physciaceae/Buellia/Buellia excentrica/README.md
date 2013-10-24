@@ -1,5 +1,4 @@
-Buellia excentrica (Ach.) Eckfeldt SPECIES
-=======
+# Buellia excentrica (Ach.) Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

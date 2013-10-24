@@ -1,17 +1,16 @@
-Gnomonia erythrostoma f. armeniaca I.A. Bondar FORM
-=======
+# Apiognomonia erythrostoma (Pers.) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Gnomonia erythrostoma f. armeniaca I.A. Bondar
+Sphaeria erythrostoma Pers., 1800
 
 ### Remarks
 null

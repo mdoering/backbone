@@ -1,5 +1,4 @@
-Meliola cryptocaryae Doidge SPECIES
-=======
+# Meliola cryptocaryae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus rhizomatophorus (Henn.) Lloyd SPECIES
-=======
+# Polyporus rhizomatophorus (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

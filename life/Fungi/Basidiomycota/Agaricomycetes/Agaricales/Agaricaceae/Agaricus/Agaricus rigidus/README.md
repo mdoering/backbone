@@ -1,5 +1,4 @@
-Agaricus rigidus Bolton SPECIES
-=======
+# Agaricus rigidus Bolton SPECIES
 
 #### Status
 ACCEPTED

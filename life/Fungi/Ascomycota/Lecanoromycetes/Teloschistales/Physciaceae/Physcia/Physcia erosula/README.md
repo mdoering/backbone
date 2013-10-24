@@ -1,5 +1,4 @@
-Physcia erosula Nyl. SPECIES
-=======
+# Physcia erosula Nyl. SPECIES
 
 #### Status
 ACCEPTED

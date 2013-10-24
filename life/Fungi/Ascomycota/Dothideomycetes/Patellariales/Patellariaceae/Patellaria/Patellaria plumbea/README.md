@@ -1,5 +1,4 @@
-Patellaria plumbea P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria plumbea P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia setulosipes (Murrill) Dennis SPECIES
-=======
+# Collybia setulosipes (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Blastenia melanocarpa var. melanocarpa VARIETY
-=======
+# Caloplaca tiroliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Caloplaca ferruginea var. melanocarpa Th. Fr.
+Caloplaca tiroliensis Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria trapae-natantis J. Wisn. SPECIES
-=======
+# Septoria trapae-natantis J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

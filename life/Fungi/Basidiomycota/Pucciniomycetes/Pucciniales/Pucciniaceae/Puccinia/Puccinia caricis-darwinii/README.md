@@ -1,5 +1,4 @@
-Puccinia caricis-darwinii Speg. SPECIES
-=======
+# Puccinia caricis-darwinii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudothuricola dionisii SPECIES
-=======
+# Pseudothuricola dionyisi (Penard, 1914) Kahl, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

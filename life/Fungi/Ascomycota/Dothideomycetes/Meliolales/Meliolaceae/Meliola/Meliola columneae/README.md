@@ -1,5 +1,4 @@
-Meliola columneae F. Stevens SPECIES
-=======
+# Meliola columneae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

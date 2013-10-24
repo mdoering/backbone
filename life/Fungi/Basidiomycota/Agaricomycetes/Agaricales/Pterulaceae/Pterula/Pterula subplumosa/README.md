@@ -1,5 +1,4 @@
-Pterula subplumosa Henn. SPECIES
-=======
+# Pterula subplumosa Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystophora subfarcinata (Mertens) J. Agardh SPECIES
-=======
+# Cystophora subfarcinata (Mertens) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

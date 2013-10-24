@@ -1,5 +1,4 @@
-Metarhizium leptophyei Giard SPECIES
-=======
+# Metarhizium leptophyei Giard SPECIES
 
 #### Status
 ACCEPTED

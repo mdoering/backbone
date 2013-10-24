@@ -1,5 +1,4 @@
-Sepultaria herinkii Svrcek SPECIES
-=======
+# Sepultaria herinkii Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Haptophrya gigantea Maupas, 1879 SPECIES
-=======
+# Cepedietta gigantea (Maupas, 1879) Corliss, Puytorac & Lom, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

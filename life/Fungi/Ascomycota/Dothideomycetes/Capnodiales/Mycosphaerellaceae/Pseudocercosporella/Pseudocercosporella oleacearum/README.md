@@ -1,5 +1,4 @@
-Pseudocercosporella oleacearum Kamal SPECIES
-=======
+# Pseudocercosporella oleacearum Kamal SPECIES
 
 #### Status
 ACCEPTED

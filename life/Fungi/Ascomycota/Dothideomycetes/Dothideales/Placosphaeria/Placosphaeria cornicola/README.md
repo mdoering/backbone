@@ -1,5 +1,4 @@
-Placosphaeria cornicola Dearn. SPECIES
-=======
+# Placosphaeria cornicola Dearn. SPECIES
 
 #### Status
 ACCEPTED

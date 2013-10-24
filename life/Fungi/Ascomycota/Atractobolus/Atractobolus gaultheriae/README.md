@@ -1,5 +1,4 @@
-Atractobolus gaultheriae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Atractobolus gaultheriae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

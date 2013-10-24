@@ -1,5 +1,4 @@
-Epistylis pyriformis D'Udekem, 1862 SPECIES
-=======
+# Epistylis pyriformis D'Udekem, 1862 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira visurgis Hustedt SPECIES
-=======
+# Thalassiosira visurgis Hustedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina pacifica Asahina SPECIES
-=======
+# Ramalina pacifica Asahina SPECIES
 
 #### Status
 ACCEPTED

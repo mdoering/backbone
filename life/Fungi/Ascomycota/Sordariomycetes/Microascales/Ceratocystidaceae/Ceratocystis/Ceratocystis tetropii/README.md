@@ -1,17 +1,16 @@
-Ceratocystis tetropic (Math.-Käärik) J. Hunt, 1956 SPECIES
-=======
+# Ceratocystis tetropii (Math.-Käärik) J. Hunt, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 19: 45 (1956)
 
 #### Original name
-null
+Ophiostoma tetropii Math.-Käärik, 1951
 
 ### Remarks
 null

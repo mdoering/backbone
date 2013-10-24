@@ -1,5 +1,4 @@
-Tremella erecta Chantr. {?} SPECIES
-=======
+# Tremella erecta Chantr. {?} SPECIES
 
 #### Status
 ACCEPTED

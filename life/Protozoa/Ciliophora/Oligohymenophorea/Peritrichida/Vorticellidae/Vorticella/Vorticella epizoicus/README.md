@@ -1,5 +1,4 @@
-Vorticella epizoicus SPECIES
-=======
+# Vorticella epizoicus SPECIES
 
 #### Status
 ACCEPTED

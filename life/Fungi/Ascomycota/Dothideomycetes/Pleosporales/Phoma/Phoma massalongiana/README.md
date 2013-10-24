@@ -1,5 +1,4 @@
-Phoma massalongiana Trotter SPECIES
-=======
+# Phoma massalongiana Trotter SPECIES
 
 #### Status
 ACCEPTED

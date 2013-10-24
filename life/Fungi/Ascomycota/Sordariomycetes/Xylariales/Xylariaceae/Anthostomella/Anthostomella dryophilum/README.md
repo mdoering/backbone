@@ -1,5 +1,4 @@
-Anthostomella dryophilum (Curr.) SPECIES
-=======
+# Anthostomella dryophilum (Curr.) SPECIES
 
 #### Status
 ACCEPTED

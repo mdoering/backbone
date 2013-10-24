@@ -1,5 +1,4 @@
-Lentodium GENUS
-=======
+# Lentodium GENUS
 
 #### Status
 ACCEPTED

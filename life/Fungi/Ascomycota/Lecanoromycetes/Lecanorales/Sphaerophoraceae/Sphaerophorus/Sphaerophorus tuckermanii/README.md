@@ -1,5 +1,4 @@
-Sphaerophorus tuckermanii Räsänen SPECIES
-=======
+# Sphaerophorus tuckermanii Räsänen SPECIES
 
 #### Status
 ACCEPTED

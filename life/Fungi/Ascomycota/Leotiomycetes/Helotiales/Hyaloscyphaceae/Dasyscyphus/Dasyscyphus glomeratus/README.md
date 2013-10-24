@@ -1,17 +1,16 @@
-Dasyscypha glomeratus Velen. SPECIES
-=======
+# Dasyscyphus glomeratus Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 234 (1934)
 
 #### Original name
-Dasyscypha glomeratus Velen.
+Dasyscyphus glomeratus Velen.
 
 ### Remarks
 null

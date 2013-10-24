@@ -1,5 +1,4 @@
-Gassicurtia bellardii (Sipman) Marbach SPECIES
-=======
+# Gassicurtia bellardii (Sipman) Marbach SPECIES
 
 #### Status
 ACCEPTED

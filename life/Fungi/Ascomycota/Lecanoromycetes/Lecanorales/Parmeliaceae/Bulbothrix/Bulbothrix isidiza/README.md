@@ -1,17 +1,16 @@
-Parmelia isidiza var. isidiza VARIETY
-=======
+# Bulbothrix isidiza (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bolm Soc. broteriana 3: 130 (1884)
+Phytologia 28: 480 (1974)
 
 #### Original name
-Parmelia isidiza var. isidiza
+Parmelia isidiza Nyl.
 
 ### Remarks
 null

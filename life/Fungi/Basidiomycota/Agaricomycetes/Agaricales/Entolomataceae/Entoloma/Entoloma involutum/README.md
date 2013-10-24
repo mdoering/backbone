@@ -1,5 +1,4 @@
-Entoloma involutum Velen. SPECIES
-=======
+# Entoloma involutum Velen. SPECIES
 
 #### Status
 ACCEPTED

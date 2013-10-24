@@ -1,5 +1,4 @@
-Mallomonas hamata Asmund SPECIES
-=======
+# Mallomonas hamata Asmund SPECIES
 
 #### Status
 ACCEPTED

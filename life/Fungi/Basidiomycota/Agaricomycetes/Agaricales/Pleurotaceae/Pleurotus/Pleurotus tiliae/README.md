@@ -1,5 +1,4 @@
-Pleurotus tiliae G.H. Otth SPECIES
-=======
+# Pleurotus tiliae G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

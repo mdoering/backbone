@@ -1,5 +1,4 @@
-Phylloporina leptalea (Stirt.) Müll. Arg. SPECIES
-=======
+# Phylloporina leptalea (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrothyria fontana Nyl. SPECIES
-=======
+# Hydrothyria fontana Nyl. SPECIES
 
 #### Status
 ACCEPTED

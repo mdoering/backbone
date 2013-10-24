@@ -1,5 +1,4 @@
-Scorpiosporium chaetocladium (Ingold) Dyko SPECIES
-=======
+# Scorpiosporium chaetocladium (Ingold) Dyko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalacria togoensis (Henn.) Corner SPECIES
-=======
+# Physalacria togoensis (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

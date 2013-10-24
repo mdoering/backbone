@@ -1,5 +1,4 @@
-Homoeothrix hansgirgi (Schmidle) Lemmermann SPECIES
-=======
+# Homoeothrix hansgirgi (Schmidle) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

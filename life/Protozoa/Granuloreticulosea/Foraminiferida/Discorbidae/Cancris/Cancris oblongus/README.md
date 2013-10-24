@@ -1,5 +1,4 @@
-Cancris oblongus (Williamson, 1848) SPECIES
-=======
+# Cancris oblongus (Williamson, 1848) SPECIES
 
 #### Status
 ACCEPTED

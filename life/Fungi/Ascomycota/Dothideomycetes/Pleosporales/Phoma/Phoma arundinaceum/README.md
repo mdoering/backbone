@@ -1,5 +1,4 @@
-Phoma arundinaceum Ces. SPECIES
-=======
+# Phoma arundinaceum Ces. SPECIES
 
 #### Status
 ACCEPTED

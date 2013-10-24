@@ -1,5 +1,4 @@
-Coniochaeta polymegasperma M.J. Richardson, 1998 SPECIES
-=======
+# Coniochaeta polymegasperma M.J. Richardson, 1998 SPECIES
 
 #### Status
 ACCEPTED

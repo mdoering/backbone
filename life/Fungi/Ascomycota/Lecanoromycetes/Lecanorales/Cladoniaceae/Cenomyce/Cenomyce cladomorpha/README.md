@@ -1,5 +1,4 @@
-Cenomyce cladomorpha Delise SPECIES
-=======
+# Cenomyce cladomorpha Delise SPECIES
 
 #### Status
 ACCEPTED

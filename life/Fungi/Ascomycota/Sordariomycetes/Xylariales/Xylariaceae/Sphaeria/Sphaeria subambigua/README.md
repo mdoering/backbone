@@ -1,5 +1,4 @@
-Sphaeria subambigua Cooke SPECIES
-=======
+# Sphaeria subambigua Cooke SPECIES
 
 #### Status
 ACCEPTED

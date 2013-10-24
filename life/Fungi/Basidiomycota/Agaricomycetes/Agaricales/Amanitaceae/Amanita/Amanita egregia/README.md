@@ -1,5 +1,4 @@
-Amanita egregia D.A. Reid SPECIES
-=======
+# Amanita egregia D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

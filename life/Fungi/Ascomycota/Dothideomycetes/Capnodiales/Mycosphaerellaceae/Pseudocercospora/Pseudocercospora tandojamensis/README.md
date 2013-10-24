@@ -1,5 +1,4 @@
-Pseudocercospora tandojamensis (S.A. Khan & Kamal) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora tandojamensis (S.A. Khan & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

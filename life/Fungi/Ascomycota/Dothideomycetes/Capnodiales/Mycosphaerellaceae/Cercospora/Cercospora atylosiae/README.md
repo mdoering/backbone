@@ -1,5 +1,4 @@
-Cercospora atylosiae Thirum. & Govindu SPECIES
-=======
+# Cercospora atylosiae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gloeosporium guaraniticum Speg., 1886 SPECIES
-=======
+# Colletotrichum guaraniticum (Speg.) Speg., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 23: 529 (1919)
 
 #### Original name
 Gloeosporium guaraniticum Speg., 1886

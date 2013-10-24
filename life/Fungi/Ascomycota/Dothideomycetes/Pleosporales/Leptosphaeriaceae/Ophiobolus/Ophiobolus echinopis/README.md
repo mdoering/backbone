@@ -1,5 +1,4 @@
-Ophiobolus echinopis Gucevic SPECIES
-=======
+# Ophiobolus echinopis Gucevic SPECIES
 
 #### Status
 ACCEPTED

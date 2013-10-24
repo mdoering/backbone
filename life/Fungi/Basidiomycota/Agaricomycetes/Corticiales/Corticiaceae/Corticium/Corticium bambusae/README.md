@@ -1,5 +1,4 @@
-Corticium bambusae Burt SPECIES
-=======
+# Corticium bambusae Burt SPECIES
 
 #### Status
 ACCEPTED

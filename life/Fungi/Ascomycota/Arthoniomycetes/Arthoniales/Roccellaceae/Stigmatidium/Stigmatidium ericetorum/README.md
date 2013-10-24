@@ -1,5 +1,4 @@
-Stigmatidium ericetorum Flot. ex Körb. SPECIES
-=======
+# Stigmatidium ericetorum Flot. ex Körb. SPECIES
 
 #### Status
 ACCEPTED

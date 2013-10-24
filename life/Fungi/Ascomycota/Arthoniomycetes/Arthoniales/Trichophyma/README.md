@@ -1,5 +1,4 @@
-Trichophyma Rehm GENUS
-=======
+# Trichophyma Rehm GENUS
 
 #### Status
 ACCEPTED

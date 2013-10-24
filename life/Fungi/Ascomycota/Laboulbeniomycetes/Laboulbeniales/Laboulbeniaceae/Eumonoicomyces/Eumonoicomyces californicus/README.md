@@ -1,5 +1,4 @@
-Eumonoicomyces californicus Thaxt., 1901 SPECIES
-=======
+# Eumonoicomyces californicus Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

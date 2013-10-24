@@ -1,5 +1,4 @@
-Epilithia A. Ercegovic, 1932 GENUS
-=======
+# Epilithia A. Ercegovic, 1932 GENUS
 
 #### Status
 ACCEPTED

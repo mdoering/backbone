@@ -1,14 +1,13 @@
-Collema asperellum Ach. SPECIES
-=======
+# Placynthium asperellum (Ach.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+Lichenotheca Veneta no. 98 (1869)
 
 #### Original name
 Collema asperellum Ach.

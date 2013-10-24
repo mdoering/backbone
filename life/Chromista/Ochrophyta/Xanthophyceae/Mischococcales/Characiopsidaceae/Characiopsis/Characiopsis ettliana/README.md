@@ -1,5 +1,4 @@
-Characiopsis ettliana H. N. Pizarro SPECIES
-=======
+# Characiopsis ettliana H. N. Pizarro SPECIES
 
 #### Status
 ACCEPTED

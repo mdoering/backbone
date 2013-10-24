@@ -1,5 +1,4 @@
-Bryonora peltata Øvstedal SPECIES
-=======
+# Bryonora peltata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

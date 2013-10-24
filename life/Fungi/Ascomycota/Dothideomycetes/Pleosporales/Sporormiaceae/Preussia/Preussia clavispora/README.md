@@ -1,5 +1,4 @@
-Preussia clavispora Guarro, 1990 SPECIES
-=======
+# Preussia clavispora Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

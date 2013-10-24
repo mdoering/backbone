@@ -1,5 +1,4 @@
-Septotinia Whetzel ex J.W. Groves & M.E. Elliott, 1961 GENUS
-=======
+# Septotinia Whetzel ex J.W. Groves & M.E. Elliott, 1961 GENUS
 
 #### Status
 ACCEPTED

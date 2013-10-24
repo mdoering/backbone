@@ -1,5 +1,4 @@
-Amanitopsis floridana Murrill SPECIES
-=======
+# Amanitopsis floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

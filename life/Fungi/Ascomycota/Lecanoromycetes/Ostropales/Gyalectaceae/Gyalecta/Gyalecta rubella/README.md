@@ -1,5 +1,4 @@
-Gyalecta rubella Zahlbr. SPECIES
-=======
+# Gyalecta rubella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

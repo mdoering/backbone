@@ -1,5 +1,4 @@
-Phyllosticta dryopteris Verwoerd & Du Plessis SPECIES
-=======
+# Phyllosticta dryopteris Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

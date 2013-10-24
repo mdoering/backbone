@@ -1,5 +1,4 @@
-Sarcinella jarwaensis Satish Chandra, N. Srivast. & R. Chaudhary SPECIES
-=======
+# Sarcinella jarwaensis Satish Chandra, N. Srivast. & R. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

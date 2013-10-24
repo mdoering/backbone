@@ -1,5 +1,4 @@
-Copperia Walcott GENUS
-=======
+# Copperia Walcott GENUS
 
 #### Status
 ACCEPTED

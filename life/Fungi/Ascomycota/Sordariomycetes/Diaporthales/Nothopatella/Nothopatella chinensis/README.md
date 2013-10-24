@@ -1,17 +1,16 @@
-Nothopatella sinensis I. Miyake SPECIES
-=======
+# Nothopatella chinensis I. Miyake SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 26: 59 (1912)
 
 #### Original name
-Nothopatella sinensis I. Miyake
+Nothopatella chinensis I. Miyake
 
 ### Remarks
 null

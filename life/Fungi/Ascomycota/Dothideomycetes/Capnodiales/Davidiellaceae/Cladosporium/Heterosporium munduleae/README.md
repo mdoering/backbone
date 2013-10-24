@@ -1,5 +1,4 @@
-Heterosporium munduleae Syd. & P. Syd. SPECIES
-=======
+# Heterosporium munduleae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

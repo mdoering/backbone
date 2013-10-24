@@ -1,5 +1,4 @@
-Bovista favosa Rostk. SPECIES
-=======
+# Bovista favosa Rostk. SPECIES
 
 #### Status
 ACCEPTED

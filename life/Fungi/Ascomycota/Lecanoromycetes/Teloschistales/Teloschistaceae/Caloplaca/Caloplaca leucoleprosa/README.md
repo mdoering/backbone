@@ -1,5 +1,4 @@
-Caloplaca leucoleprosa (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca leucoleprosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

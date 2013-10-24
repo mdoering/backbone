@@ -1,5 +1,4 @@
-Collybia dysodes Halling SPECIES
-=======
+# Collybia dysodes Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia aestivalis Dietel SPECIES
-=======
+# Puccinia aestivalis Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplopyrenula acervata Müll. Arg. SPECIES
-=======
+# Haplopyrenula acervata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

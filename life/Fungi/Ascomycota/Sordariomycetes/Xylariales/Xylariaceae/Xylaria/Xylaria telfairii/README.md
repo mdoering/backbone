@@ -1,5 +1,4 @@
-Xylaria telfairii var. telfairii VARIETY
-=======
+# Xylaria telfairii (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 1: 320 (1882)
 
 #### Original name
-Xylaria telfairii var. telfairii
+Sphaeria telfairii Berk.
 
 ### Remarks
 null

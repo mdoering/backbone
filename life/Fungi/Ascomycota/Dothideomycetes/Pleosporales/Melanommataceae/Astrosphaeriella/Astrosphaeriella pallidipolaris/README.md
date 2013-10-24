@@ -1,5 +1,4 @@
-Astrosphaeriella pallidipolaris Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
-=======
+# Astrosphaeriella pallidipolaris Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

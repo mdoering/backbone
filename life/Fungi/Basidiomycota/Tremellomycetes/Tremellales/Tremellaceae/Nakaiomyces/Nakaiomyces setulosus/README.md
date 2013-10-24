@@ -1,5 +1,4 @@
-Nakaiomyces setulosus (Henn.) Kobayasi SPECIES
-=======
+# Nakaiomyces setulosus (Henn.) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium aloysiae Wolcan, S. Takam. & Havryl. SPECIES
-=======
+# Oidium aloysiae Wolcan, S. Takam. & Havryl. SPECIES
 
 #### Status
 ACCEPTED

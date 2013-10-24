@@ -1,5 +1,4 @@
-Amphidoma elongata Kofoid & Swezy, 1911 SPECIES
-=======
+# Amphidoma elongata Kofoid & Swezy, 1911 SPECIES
 
 #### Status
 ACCEPTED

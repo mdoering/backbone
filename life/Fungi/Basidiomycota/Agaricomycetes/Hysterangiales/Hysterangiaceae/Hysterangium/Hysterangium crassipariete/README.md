@@ -1,5 +1,4 @@
-Hysterangium crassipariete Castellano & J.J. Muchovej SPECIES
-=======
+# Hysterangium crassipariete Castellano & J.J. Muchovej SPECIES
 
 #### Status
 ACCEPTED

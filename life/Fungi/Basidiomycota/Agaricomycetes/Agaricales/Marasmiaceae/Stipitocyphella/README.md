@@ -1,5 +1,4 @@
-Stipitocyphella G. Kost GENUS
-=======
+# Stipitocyphella G. Kost GENUS
 
 #### Status
 ACCEPTED

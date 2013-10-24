@@ -1,17 +1,16 @@
-Paradiacheopsis fimbriata var. penicillata (Nann.-Bremek. & Y. Yamam.) Y. Yamam. VARIETY
-=======
+# Paradiacheopsis fimbriata (G. Lister & Cran) Hertel ex Nann.-Bremek., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 583 (1998)
+Nederlandse Myxomyceten (Amsterdam) 233 (1975)
 
 #### Original name
-Comatricha penicillata Nann.-Bremek. & Y. Yamam., 1983
+Comatricha fimbriata G. Lister & Cran, 1917
 
 ### Remarks
 null

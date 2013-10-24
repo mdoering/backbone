@@ -1,14 +1,13 @@
-Clavariachaete rubiginosum (Berk. & M.A. Curtis ex Cooke) Corner SPECIES
-=======
+# Clavariachaete rubiginosa (Berk. & M.A. Curtis ex Cooke) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. Mem. 1: 269 (1950)
 
 #### Original name
 Lachnocladium rubiginosum Berk. & M.A. Curtis ex Cooke, 1891

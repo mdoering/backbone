@@ -1,5 +1,4 @@
-Austrolecia Hertel GENUS
-=======
+# Austrolecia Hertel GENUS
 
 #### Status
 ACCEPTED

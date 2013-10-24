@@ -1,5 +1,4 @@
-Methanoculleus Maestrojuan, Boone, Xun, Mah & Zhang, 1990 GENUS
-=======
+# Methanoculleus Maestrojuan, Boone, Xun, Mah & Zhang, 1990 GENUS
 
 #### Status
 ACCEPTED

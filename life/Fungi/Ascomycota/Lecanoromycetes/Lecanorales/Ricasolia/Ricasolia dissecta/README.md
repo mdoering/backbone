@@ -1,5 +1,4 @@
-Ricasolia dissecta Nyl. SPECIES
-=======
+# Ricasolia dissecta Nyl. SPECIES
 
 #### Status
 ACCEPTED

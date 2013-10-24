@@ -1,5 +1,4 @@
-Schizothrix mexicana Gomont SPECIES
-=======
+# Schizothrix mexicana Gomont SPECIES
 
 #### Status
 ACCEPTED

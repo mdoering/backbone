@@ -1,5 +1,4 @@
-Polyporus fuligineus (Pers.) Fr. SPECIES
-=======
+# Polyporus fuligineus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

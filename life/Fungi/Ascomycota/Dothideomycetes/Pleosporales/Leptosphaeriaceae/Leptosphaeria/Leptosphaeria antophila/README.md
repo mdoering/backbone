@@ -1,5 +1,4 @@
-Leptosphaeria antophila Sacc. & Speg. SPECIES
-=======
+# Leptosphaeria antophila Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

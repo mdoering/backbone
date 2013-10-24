@@ -1,17 +1,16 @@
-Coryne sarcoides var. urnalis (Nyl.) Rehm VARIETY
-=======
+# Ascocoryne cylichnium (Tul.) Korf, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 21(4): 202 (1971)
 
 #### Original name
-Bulgaria urnalis Nyl., 1868
+Peziza cylichnium Tul.
 
 ### Remarks
 null

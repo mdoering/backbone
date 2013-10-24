@@ -1,5 +1,4 @@
-Sclerotinia tetraspora Holst-Jensen & T. Schumach. SPECIES
-=======
+# Sclerotinia tetraspora Holst-Jensen & T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

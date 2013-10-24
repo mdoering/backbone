@@ -1,5 +1,4 @@
-Biciliospora velutina Petr. SPECIES
-=======
+# Biciliospora velutina Petr. SPECIES
 
 #### Status
 ACCEPTED

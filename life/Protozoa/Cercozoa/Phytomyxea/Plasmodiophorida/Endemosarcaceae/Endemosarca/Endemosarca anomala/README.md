@@ -1,5 +1,4 @@
-Endemosarca anomala Erdos, 1973 SPECIES
-=======
+# Endemosarca anomala Erdos, 1973 SPECIES
 
 #### Status
 ACCEPTED

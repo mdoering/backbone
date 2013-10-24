@@ -1,5 +1,4 @@
-Pertusaria subflavens Müll. Arg. SPECIES
-=======
+# Pertusaria subflavens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

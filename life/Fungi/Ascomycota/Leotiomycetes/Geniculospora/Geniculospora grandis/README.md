@@ -1,5 +1,4 @@
-Geniculospora grandis (Greath.) Sv. Nilsson SPECIES
-=======
+# Geniculospora grandis (Greath.) Sv. Nilsson SPECIES
 
 #### Status
 ACCEPTED

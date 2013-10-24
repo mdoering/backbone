@@ -1,5 +1,4 @@
-Septobasidium phyllophilum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium phyllophilum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

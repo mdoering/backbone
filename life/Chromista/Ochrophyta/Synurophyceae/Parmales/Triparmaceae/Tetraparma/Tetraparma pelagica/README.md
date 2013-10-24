@@ -1,5 +1,4 @@
-Tetraparma pelagica B.C. Booth & H.J. Marchant SPECIES
-=======
+# Tetraparma pelagica B.C. Booth & H.J. Marchant SPECIES
 
 #### Status
 ACCEPTED

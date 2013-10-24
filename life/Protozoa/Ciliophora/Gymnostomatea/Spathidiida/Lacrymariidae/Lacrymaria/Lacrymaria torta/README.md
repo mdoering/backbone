@@ -1,5 +1,4 @@
-Lacrymaria torta Kahl, 1926 SPECIES
-=======
+# Lacrymaria torta Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

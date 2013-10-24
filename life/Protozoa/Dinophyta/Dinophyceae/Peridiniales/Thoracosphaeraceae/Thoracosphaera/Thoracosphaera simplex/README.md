@@ -1,5 +1,4 @@
-Thoracosphaera simplex Chongyou Wang SPECIES
-=======
+# Thoracosphaera simplex Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

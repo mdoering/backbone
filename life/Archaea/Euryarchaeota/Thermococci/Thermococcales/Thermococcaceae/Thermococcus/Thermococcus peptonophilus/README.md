@@ -1,5 +1,4 @@
-Thermococcus peptonophilus González et al., 1996 SPECIES
-=======
+# Thermococcus peptonophilus González et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

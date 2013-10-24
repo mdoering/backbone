@@ -1,5 +1,4 @@
-Cristella trimitica Corner SPECIES
-=======
+# Cristella trimitica Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptodidymosphaerites princetonensis Currah, Stockey & B.A. LePage SPECIES
-=======
+# Cryptodidymosphaerites princetonensis Currah, Stockey & B.A. LePage SPECIES
 
 #### Status
 ACCEPTED

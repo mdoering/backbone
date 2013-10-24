@@ -1,5 +1,4 @@
-Phillipsia ranomafanensis J. Moravec SPECIES
-=======
+# Phillipsia ranomafanensis J. Moravec SPECIES
 
 #### Status
 ACCEPTED

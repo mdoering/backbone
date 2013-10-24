@@ -1,14 +1,13 @@
-Cordyceps minazukiensis Kobayasi & Shimizu, 1982 SPECIES
-=======
+# Elaphocordyceps minazukiensis (Kobayasi & Shimizu) G.H. Sung, J.M. Sung & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 8(4): 117 (1982)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 37 (2007)
 
 #### Original name
 Cordyceps minazukiensis Kobayasi & Shimizu, 1982

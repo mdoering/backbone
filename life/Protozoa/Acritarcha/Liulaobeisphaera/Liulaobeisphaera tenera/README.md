@@ -1,5 +1,4 @@
-Liulaobeisphaera tenera Yang Qinghe et al., 1980 SPECIES
-=======
+# Liulaobeisphaera tenera Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

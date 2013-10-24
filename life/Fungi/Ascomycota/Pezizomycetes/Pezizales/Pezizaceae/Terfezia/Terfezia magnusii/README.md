@@ -1,5 +1,4 @@
-Terfezia magnusii Mattir. SPECIES
-=======
+# Terfezia magnusii Mattir. SPECIES
 
 #### Status
 ACCEPTED

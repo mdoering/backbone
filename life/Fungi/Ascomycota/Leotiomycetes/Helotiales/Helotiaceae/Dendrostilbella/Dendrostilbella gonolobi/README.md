@@ -1,5 +1,4 @@
-Dendrostilbella gonolobi Naumov SPECIES
-=======
+# Dendrostilbella gonolobi Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora hamatospora (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Rhabdospora hamatospora (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

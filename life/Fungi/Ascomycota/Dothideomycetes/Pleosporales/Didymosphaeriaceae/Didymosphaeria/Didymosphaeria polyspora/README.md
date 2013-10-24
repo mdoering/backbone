@@ -1,5 +1,4 @@
-Didymosphaeria polyspora Cant. SPECIES
-=======
+# Didymosphaeria polyspora Cant. SPECIES
 
 #### Status
 ACCEPTED

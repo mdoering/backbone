@@ -1,5 +1,4 @@
-Ancistrum macomae Chatton & Lwoff, 1949 SPECIES
-=======
+# Ancistrum macomae Chatton & Lwoff, 1949 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglaena fauriei SPECIES
-=======
+# Microglaena fauriei SPECIES
 
 #### Status
 ACCEPTED

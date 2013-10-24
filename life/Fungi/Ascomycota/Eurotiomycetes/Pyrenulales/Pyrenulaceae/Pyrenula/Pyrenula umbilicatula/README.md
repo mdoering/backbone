@@ -1,5 +1,4 @@
-Pyrenula umbilicatula Müll. Arg. SPECIES
-=======
+# Pyrenula umbilicatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

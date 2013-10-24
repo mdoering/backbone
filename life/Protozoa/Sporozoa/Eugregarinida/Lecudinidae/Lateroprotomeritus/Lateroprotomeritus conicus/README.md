@@ -1,5 +1,4 @@
-Lateroprotomeritus conicus Théodoridès & Desportes, 1975 SPECIES
-=======
+# Lateroprotomeritus conicus Théodoridès & Desportes, 1975 SPECIES
 
 #### Status
 ACCEPTED

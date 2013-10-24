@@ -1,8 +1,7 @@
-Fomes inamaenus (Mont.) Cooke SPECIES
-=======
+# Fomes inamoenus (Mont.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Monostachys transversalis G. Arnaud SPECIES
-=======
+# Monostachys transversalis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita altipes Zhu L. Yang, M. Weiss & Oberw. SPECIES
-=======
+# Amanita altipes Zhu L. Yang, M. Weiss & Oberw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora cupressi Gutner SPECIES
-=======
+# Cytospora cupressi Gutner SPECIES
 
 #### Status
 ACCEPTED

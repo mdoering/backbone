@@ -1,5 +1,4 @@
-Rhabdospora subroseola Bubák & Serebrian. SPECIES
-=======
+# Rhabdospora subroseola Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

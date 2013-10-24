@@ -1,5 +1,4 @@
-Culicinomyces bisporalis Sigler, Frances & C. Panter, 1987 SPECIES
-=======
+# Culicinomyces bisporalis Sigler, Frances & C. Panter, 1987 SPECIES
 
 #### Status
 ACCEPTED

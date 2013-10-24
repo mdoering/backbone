@@ -1,5 +1,4 @@
-Meruliopsis albostramineus (Torrend) Jülich & Stalpers SPECIES
-=======
+# Meruliopsis albostramineus (Torrend) Jülich & Stalpers SPECIES
 
 #### Status
 ACCEPTED

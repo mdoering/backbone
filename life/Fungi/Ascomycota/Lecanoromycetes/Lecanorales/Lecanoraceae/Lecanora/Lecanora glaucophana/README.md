@@ -1,5 +1,4 @@
-Lecanora glaucophana Hasse SPECIES
-=======
+# Lecanora glaucophana Hasse SPECIES
 
 #### Status
 ACCEPTED

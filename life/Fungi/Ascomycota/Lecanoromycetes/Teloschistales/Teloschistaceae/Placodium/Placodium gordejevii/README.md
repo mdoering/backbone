@@ -1,5 +1,4 @@
-Placodium gordejevii Tomin SPECIES
-=======
+# Placodium gordejevii Tomin SPECIES
 
 #### Status
 ACCEPTED

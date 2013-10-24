@@ -1,5 +1,4 @@
-Polystictus obliquus Massee SPECIES
-=======
+# Polystictus obliquus Massee SPECIES
 
 #### Status
 ACCEPTED

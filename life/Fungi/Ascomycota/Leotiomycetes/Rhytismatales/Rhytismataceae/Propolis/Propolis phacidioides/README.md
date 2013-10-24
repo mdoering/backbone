@@ -1,17 +1,16 @@
-Coccomyces quadratus subsp. ursinus Sacc. & Paol. SUBSPECIES
-=======
+# Propolis phacidioides Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 28: 96 (1889)
+Summa veg. Scand. (Stockholm), Section Post. 372 (1849)
 
 #### Original name
-Coccomyces quadratus subsp. ursinus Sacc. & Paol.
+Propolis phacidioides Fr., 1849
 
 ### Remarks
 null

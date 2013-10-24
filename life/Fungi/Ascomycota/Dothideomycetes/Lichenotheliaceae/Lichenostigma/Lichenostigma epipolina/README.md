@@ -1,5 +1,4 @@
-Lichenostigma epipolina Nav.-Ros., Calat. & Hafellner SPECIES
-=======
+# Lichenostigma epipolina Nav.-Ros., Calat. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

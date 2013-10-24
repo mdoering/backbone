@@ -1,5 +1,4 @@
-Sphaeria fuscospora Schwein. SPECIES
-=======
+# Sphaeria fuscospora Schwein. SPECIES
 
 #### Status
 ACCEPTED

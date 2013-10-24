@@ -1,5 +1,4 @@
-Protaspis verrucosa Larsen & Patterson, 1990 SPECIES
-=======
+# Protaspis verrucosa Larsen & Patterson, 1990 SPECIES
 
 #### Status
 DOUBTFUL

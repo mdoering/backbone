@@ -1,5 +1,4 @@
-Nyctotheroides spirostomatus A & S, 1968 SPECIES
-=======
+# Nyctotheroides spirostomatus A & S, 1968 SPECIES
 
 #### Status
 ACCEPTED

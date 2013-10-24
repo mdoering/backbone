@@ -1,5 +1,4 @@
-Visbysphaera impetuosa Martin, 1984 SPECIES
-=======
+# Visbysphaera impetuosa Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

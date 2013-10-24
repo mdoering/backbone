@@ -1,5 +1,4 @@
-Cercospora tabernaemontanicola J.M. Yen SPECIES
-=======
+# Cercospora tabernaemontanicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

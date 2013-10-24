@@ -1,5 +1,4 @@
-Gonyaulacysta teicha R. J. Davey SPECIES
-=======
+# Gonyaulacysta teicha R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

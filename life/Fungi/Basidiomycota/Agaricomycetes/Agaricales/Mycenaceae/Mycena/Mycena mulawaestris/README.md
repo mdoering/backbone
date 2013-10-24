@@ -1,5 +1,4 @@
-Mycena mulawaestris Grgur. SPECIES
-=======
+# Mycena mulawaestris Grgur. SPECIES
 
 #### Status
 ACCEPTED

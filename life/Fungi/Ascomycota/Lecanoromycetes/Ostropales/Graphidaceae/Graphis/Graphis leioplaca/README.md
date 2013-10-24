@@ -1,5 +1,4 @@
-Graphis leioplaca Müll. Arg. SPECIES
-=======
+# Graphis leioplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

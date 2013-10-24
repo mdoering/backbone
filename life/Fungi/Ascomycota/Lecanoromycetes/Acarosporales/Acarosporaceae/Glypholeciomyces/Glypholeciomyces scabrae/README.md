@@ -1,5 +1,4 @@
-Glypholeciomyces scabrae Cif. & Tomas. SPECIES
-=======
+# Glypholeciomyces scabrae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

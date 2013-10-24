@@ -1,5 +1,4 @@
-Catharinia hyalospora (Speg.) Sacc. SPECIES
-=======
+# Catharinia hyalospora (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

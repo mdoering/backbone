@@ -1,5 +1,4 @@
-Micrococcus eburneus SPECIES
-=======
+# Micrococcus eburneus SPECIES
 
 #### Status
 ACCEPTED

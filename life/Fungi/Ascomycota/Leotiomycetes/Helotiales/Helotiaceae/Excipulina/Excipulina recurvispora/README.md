@@ -1,5 +1,4 @@
-Excipulina recurvispora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Excipulina recurvispora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

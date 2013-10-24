@@ -1,5 +1,4 @@
-Sporopodium muscicola Lambley & Sérus. SPECIES
-=======
+# Sporopodium muscicola Lambley & Sérus. SPECIES
 
 #### Status
 ACCEPTED

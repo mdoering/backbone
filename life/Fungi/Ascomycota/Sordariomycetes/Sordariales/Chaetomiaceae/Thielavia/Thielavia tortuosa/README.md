@@ -1,5 +1,4 @@
-Thielavia tortuosa Udagawa & Y. Sugiy., 1981 SPECIES
-=======
+# Thielavia tortuosa Udagawa & Y. Sugiy., 1981 SPECIES
 
 #### Status
 ACCEPTED

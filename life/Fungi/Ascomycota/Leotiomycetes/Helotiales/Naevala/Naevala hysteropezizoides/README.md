@@ -1,14 +1,13 @@
-Mollisia hysteropezizoidis Rehm SPECIES
-=======
+# Naevala hysteropezizoides (Rehm) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Willdenowia 9: 86 (1976)
 
 #### Original name
 Mollisia hysteropezizoidis Rehm

@@ -1,5 +1,4 @@
-Lophosphaeridium angulosum Colbath, 1990 SPECIES
-=======
+# Lophosphaeridium angulosum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

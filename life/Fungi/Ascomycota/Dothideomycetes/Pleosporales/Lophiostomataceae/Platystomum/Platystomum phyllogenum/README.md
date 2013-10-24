@@ -1,5 +1,4 @@
-Platystomum phyllogenum Fairm. SPECIES
-=======
+# Platystomum phyllogenum Fairm. SPECIES
 
 #### Status
 ACCEPTED

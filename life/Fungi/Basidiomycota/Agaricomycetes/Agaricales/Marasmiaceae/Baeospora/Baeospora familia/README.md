@@ -1,5 +1,4 @@
-Baeospora familia Singer SPECIES
-=======
+# Baeospora familia Singer SPECIES
 
 #### Status
 ACCEPTED

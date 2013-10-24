@@ -1,5 +1,4 @@
-Marasmius leucophaeus (Berk. & Broome) Petch SPECIES
-=======
+# Marasmius leucophaeus (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

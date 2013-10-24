@@ -1,8 +1,7 @@
-Parvicorbicula pulchella Leadbeater, 1974 SPECIES
-=======
+# Syndetophyllum pulchellum (Leadbeater, 1974) Thomsen & Moestrup, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

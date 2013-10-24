@@ -1,5 +1,4 @@
-Nummulites somaliensis Brighton & Nuttall SPECIES
-=======
+# Nummulites somaliensis Brighton & Nuttall SPECIES
 
 #### Status
 ACCEPTED

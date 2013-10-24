@@ -1,5 +1,4 @@
-Pseudocercospora cycleae (Chidd.) Deighton SPECIES
-=======
+# Pseudocercospora cycleae (Chidd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

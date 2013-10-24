@@ -1,5 +1,4 @@
-Mucor speciosus Oudem. SPECIES
-=======
+# Mucor speciosus Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium utahense Solheim SPECIES
-=======
+# Cylindrosporium utahense Solheim SPECIES
 
 #### Status
 ACCEPTED

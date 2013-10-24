@@ -1,5 +1,4 @@
-Elsinoe australis Bitanc. & Jenkins, 1936 SPECIES
-=======
+# Elsinoe australis Bitanc. & Jenkins, 1936 SPECIES
 
 #### Status
 ACCEPTED

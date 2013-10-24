@@ -1,5 +1,4 @@
-Sphaerulina albispiculata Tubaki, 1967 SPECIES
-=======
+# Sphaerulina albispiculata Tubaki, 1967 SPECIES
 
 #### Status
 ACCEPTED

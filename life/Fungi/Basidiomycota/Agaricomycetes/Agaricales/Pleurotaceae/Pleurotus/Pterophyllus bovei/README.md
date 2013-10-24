@@ -1,5 +1,4 @@
-Pterophyllus bovei Lév. SPECIES
-=======
+# Pterophyllus bovei Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium piricularioidis Dearn. & House SPECIES
-=======
+# Cladosporium piricularioidis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

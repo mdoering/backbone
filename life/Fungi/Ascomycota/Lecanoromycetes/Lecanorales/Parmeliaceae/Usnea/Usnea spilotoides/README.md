@@ -1,5 +1,4 @@
-Usnea spilotoides C.W. Dodge SPECIES
-=======
+# Usnea spilotoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

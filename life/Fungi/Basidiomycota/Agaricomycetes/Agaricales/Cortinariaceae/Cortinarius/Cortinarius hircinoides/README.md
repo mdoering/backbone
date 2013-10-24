@@ -1,5 +1,4 @@
-Cortinarius hircinoides Reumaux SPECIES
-=======
+# Cortinarius hircinoides Reumaux SPECIES
 
 #### Status
 ACCEPTED

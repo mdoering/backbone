@@ -1,5 +1,4 @@
-Parmentariomyces GENUS
-=======
+# Parmentariomyces GENUS
 
 #### Status
 ACCEPTED

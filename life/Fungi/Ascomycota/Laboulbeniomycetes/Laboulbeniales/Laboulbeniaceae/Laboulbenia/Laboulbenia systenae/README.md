@@ -1,5 +1,4 @@
-Laboulbenia systenae Speg. SPECIES
-=======
+# Laboulbenia systenae Speg. SPECIES
 
 #### Status
 ACCEPTED

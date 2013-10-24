@@ -1,5 +1,4 @@
-Cothurnia inclinata Fromentel, 1876 SPECIES
-=======
+# Cothurnia inclinata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

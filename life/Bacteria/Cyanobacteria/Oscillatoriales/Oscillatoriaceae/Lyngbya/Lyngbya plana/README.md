@@ -1,5 +1,4 @@
-Lyngbya plana Dickie SPECIES
-=======
+# Lyngbya plana Dickie SPECIES
 
 #### Status
 ACCEPTED

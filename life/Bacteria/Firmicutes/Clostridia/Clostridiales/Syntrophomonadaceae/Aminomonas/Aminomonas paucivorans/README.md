@@ -1,5 +1,4 @@
-Aminomonas paucivorans Baena et al., 1999 SPECIES
-=======
+# Aminomonas paucivorans Baena et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

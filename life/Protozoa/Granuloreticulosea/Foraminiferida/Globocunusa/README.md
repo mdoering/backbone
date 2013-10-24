@@ -1,5 +1,4 @@
-Globocunusa GENUS
-=======
+# Globocunusa GENUS
 
 #### Status
 ACCEPTED

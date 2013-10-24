@@ -1,5 +1,4 @@
-Anthracothecium interponens (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium interponens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

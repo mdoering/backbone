@@ -1,17 +1,16 @@
-Pyxine isidolenta R. W. Rogers SPECIES
-=======
+# Pyxine keralensis D. D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytomorphology 30(4): 372 (1982)
 
 #### Original name
-null
+Pyxine keralensis D. D. Awasthi
 
 ### Remarks
 null

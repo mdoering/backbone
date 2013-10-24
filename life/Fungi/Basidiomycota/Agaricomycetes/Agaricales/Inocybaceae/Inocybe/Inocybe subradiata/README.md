@@ -1,5 +1,4 @@
-Inocybe subradiata Murrill SPECIES
-=======
+# Inocybe subradiata Murrill SPECIES
 
 #### Status
 ACCEPTED

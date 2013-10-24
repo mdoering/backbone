@@ -1,17 +1,16 @@
-Parmotrema claudelii (Harm.) M. Choisy SPECIES
-=======
+# Parmotrema stuppeum (Taylor) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 339 (1974)
 
 #### Original name
-Parmelia perforata var. claudelii Harm.
+Parmelia stuppea Taylor
 
 ### Remarks
 null

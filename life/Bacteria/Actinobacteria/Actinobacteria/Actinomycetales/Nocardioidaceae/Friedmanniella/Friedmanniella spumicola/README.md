@@ -1,5 +1,4 @@
-Friedmanniella spumicola Maszenan et al., 1999 SPECIES
-=======
+# Friedmanniella spumicola Maszenan et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

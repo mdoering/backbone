@@ -1,5 +1,4 @@
-Flammula brevipes Cleland SPECIES
-=======
+# Flammula brevipes Cleland SPECIES
 
 #### Status
 ACCEPTED

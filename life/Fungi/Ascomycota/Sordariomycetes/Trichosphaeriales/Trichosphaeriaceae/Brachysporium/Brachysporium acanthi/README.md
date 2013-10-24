@@ -1,5 +1,4 @@
-Brachysporium acanthi Hansf. SPECIES
-=======
+# Brachysporium acanthi Hansf. SPECIES
 
 #### Status
 ACCEPTED

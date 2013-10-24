@@ -1,5 +1,4 @@
-Caryospora argentati Schwalbacj, 1959 SPECIES
-=======
+# Caryospora argentati Schwalbacj, 1959 SPECIES
 
 #### Status
 ACCEPTED

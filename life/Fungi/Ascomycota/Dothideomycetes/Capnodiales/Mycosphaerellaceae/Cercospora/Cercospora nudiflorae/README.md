@@ -1,5 +1,4 @@
-Cercospora nudiflorae Chupp SPECIES
-=======
+# Cercospora nudiflorae Chupp SPECIES
 
 #### Status
 ACCEPTED

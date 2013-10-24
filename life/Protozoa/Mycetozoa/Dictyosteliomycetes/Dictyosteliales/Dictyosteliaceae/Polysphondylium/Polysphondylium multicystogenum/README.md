@@ -1,5 +1,4 @@
-Polysphondylium multicystogenum S. Kawak. & H. Hagiw., 2008 SPECIES
-=======
+# Polysphondylium multicystogenum S. Kawak. & H. Hagiw., 2008 SPECIES
 
 #### Status
 ACCEPTED

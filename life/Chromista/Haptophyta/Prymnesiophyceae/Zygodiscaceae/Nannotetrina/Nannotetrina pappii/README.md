@@ -1,5 +1,4 @@
-Nannotetrina pappii (Stradner, 1959) Perch-Nielsen, 1971 SPECIES
-=======
+# Nannotetrina pappii (Stradner, 1959) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca intermedia U. Braun SPECIES
-=======
+# Sphaerotheca intermedia U. Braun SPECIES
 
 #### Status
 ACCEPTED

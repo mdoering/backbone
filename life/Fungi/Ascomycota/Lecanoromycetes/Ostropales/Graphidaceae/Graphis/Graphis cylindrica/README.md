@@ -1,5 +1,4 @@
-Graphis cylindrica (L.) Wallr. SPECIES
-=======
+# Graphis cylindrica (L.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

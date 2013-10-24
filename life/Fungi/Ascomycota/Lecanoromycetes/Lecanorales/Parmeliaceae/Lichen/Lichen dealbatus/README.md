@@ -1,5 +1,4 @@
-Lichen dealbatus Ach. SPECIES
-=======
+# Lichen dealbatus Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delitschia canina Mouton, 1887 SPECIES
-=======
+# Delitschia canina Mouton, 1887 SPECIES
 
 #### Status
 ACCEPTED

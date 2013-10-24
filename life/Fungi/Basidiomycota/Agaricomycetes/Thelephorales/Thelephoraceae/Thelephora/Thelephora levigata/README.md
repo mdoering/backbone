@@ -1,5 +1,4 @@
-Thelephora levigata Fr. SPECIES
-=======
+# Thelephora levigata Fr. SPECIES
 
 #### Status
 ACCEPTED

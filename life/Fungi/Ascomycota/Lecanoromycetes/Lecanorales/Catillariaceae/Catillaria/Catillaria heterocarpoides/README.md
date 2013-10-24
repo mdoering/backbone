@@ -1,5 +1,4 @@
-Catillaria heterocarpoides Zahlbr. SPECIES
-=======
+# Catillaria heterocarpoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

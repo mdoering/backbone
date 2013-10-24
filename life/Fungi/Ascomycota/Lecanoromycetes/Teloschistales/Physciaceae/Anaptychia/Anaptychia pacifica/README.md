@@ -1,5 +1,4 @@
-Anaptychia pacifica Kurok. SPECIES
-=======
+# Anaptychia pacifica Kurok. SPECIES
 
 #### Status
 ACCEPTED

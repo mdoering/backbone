@@ -1,5 +1,4 @@
-Ramularia evanida (J.G. Kühn) Sacc., 1886 SPECIES
-=======
+# Ramularia evanida (J.G. Kühn) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

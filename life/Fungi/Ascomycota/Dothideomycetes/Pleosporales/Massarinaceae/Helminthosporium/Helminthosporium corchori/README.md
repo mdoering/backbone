@@ -1,5 +1,4 @@
-Helminthosporium corchori Sawada & Katsuki SPECIES
-=======
+# Helminthosporium corchori Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

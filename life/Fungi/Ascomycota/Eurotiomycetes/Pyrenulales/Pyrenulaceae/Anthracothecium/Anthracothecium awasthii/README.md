@@ -1,5 +1,4 @@
-Anthracothecium awasthii Ajay Singh SPECIES
-=======
+# Anthracothecium awasthii Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

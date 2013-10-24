@@ -1,5 +1,4 @@
-Cercospora madisonensis H.C. Greene SPECIES
-=======
+# Cercospora madisonensis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

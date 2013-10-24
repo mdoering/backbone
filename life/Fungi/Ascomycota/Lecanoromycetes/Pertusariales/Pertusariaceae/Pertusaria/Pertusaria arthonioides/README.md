@@ -1,5 +1,4 @@
-Pertusaria arthonioides Vain. SPECIES
-=======
+# Pertusaria arthonioides Vain. SPECIES
 
 #### Status
 ACCEPTED

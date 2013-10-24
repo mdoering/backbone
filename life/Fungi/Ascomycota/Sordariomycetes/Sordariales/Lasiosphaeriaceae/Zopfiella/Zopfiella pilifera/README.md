@@ -1,14 +1,13 @@
-Triangularia pilifera (Udagawa & Furuya) Guarro, 1988 SPECIES
-=======
+# Zopfiella pilifera Udagawa & Furuya, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Guarro & Cano, Trans. Br. mycol. Soc. 91(4): 589 (1988)
+Trans. Mycol. Soc. Japan 13(4): 255 (1972)
 
 #### Original name
 Zopfiella pilifera Udagawa & Furuya, 1972

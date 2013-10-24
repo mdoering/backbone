@@ -1,5 +1,4 @@
-Schizothrix vaginata (Kützing) Gomont SPECIES
-=======
+# Schizothrix vaginata (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

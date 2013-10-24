@@ -1,5 +1,4 @@
-Metathyriella brenesii Petr. SPECIES
-=======
+# Metathyriella brenesii Petr. SPECIES
 
 #### Status
 ACCEPTED

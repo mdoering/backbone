@@ -1,5 +1,4 @@
-Fragilaria lacus-baicali Skvortzov SPECIES
-=======
+# Fragilaria lacus-baicali Skvortzov SPECIES
 
 #### Status
 ACCEPTED

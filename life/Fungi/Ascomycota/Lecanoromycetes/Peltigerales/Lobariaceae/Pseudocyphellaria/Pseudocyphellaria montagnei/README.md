@@ -1,5 +1,4 @@
-Pseudocyphellaria montagnei (C. Bab.) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria montagnei (C. Bab.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

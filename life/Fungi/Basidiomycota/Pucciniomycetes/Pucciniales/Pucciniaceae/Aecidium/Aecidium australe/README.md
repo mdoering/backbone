@@ -1,5 +1,4 @@
-Aecidium australe Speg. SPECIES
-=======
+# Aecidium australe Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Khuskia H.J. Huds. GENUS
-=======
+# Khuskia H.J. Huds. GENUS
 
 #### Status
 ACCEPTED

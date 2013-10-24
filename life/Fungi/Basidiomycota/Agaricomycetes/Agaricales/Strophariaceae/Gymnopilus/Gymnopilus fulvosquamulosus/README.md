@@ -1,5 +1,4 @@
-Gymnopilus fulvosquamulosus Hesler SPECIES
-=======
+# Gymnopilus fulvosquamulosus Hesler SPECIES
 
 #### Status
 ACCEPTED

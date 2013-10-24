@@ -1,5 +1,4 @@
-Sorataea Syd. GENUS
-=======
+# Sorataea Syd. GENUS
 
 #### Status
 ACCEPTED

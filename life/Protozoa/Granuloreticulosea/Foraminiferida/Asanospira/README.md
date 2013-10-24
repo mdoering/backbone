@@ -1,5 +1,4 @@
-Asanospira Takayanagi, 1960 GENUS
-=======
+# Asanospira Takayanagi, 1960 GENUS
 
 #### Status
 ACCEPTED

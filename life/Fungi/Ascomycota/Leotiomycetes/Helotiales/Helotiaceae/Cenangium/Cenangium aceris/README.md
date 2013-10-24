@@ -1,5 +1,4 @@
-Cenangium aceris Hazsl. SPECIES
-=======
+# Cenangium aceris Hazsl. SPECIES
 
 #### Status
 ACCEPTED

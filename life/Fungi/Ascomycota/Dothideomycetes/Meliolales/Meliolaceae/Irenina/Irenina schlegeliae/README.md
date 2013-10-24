@@ -1,5 +1,4 @@
-Irenina schlegeliae (F. Stevens) Hansf. SPECIES
-=======
+# Irenina schlegeliae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

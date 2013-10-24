@@ -1,5 +1,4 @@
-Isthmiella crepidiformis (Darker) Darker, 1967 SPECIES
-=======
+# Isthmiella crepidiformis (Darker) Darker, 1967 SPECIES
 
 #### Status
 ACCEPTED

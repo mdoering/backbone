@@ -1,5 +1,4 @@
-Labridium hians Vestergr. SPECIES
-=======
+# Labridium hians Vestergr. SPECIES
 
 #### Status
 ACCEPTED

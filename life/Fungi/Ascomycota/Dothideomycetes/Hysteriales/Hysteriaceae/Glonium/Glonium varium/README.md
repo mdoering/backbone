@@ -1,5 +1,4 @@
-Glonium varium (Fr.) Sacc., 1883 SPECIES
-=======
+# Glonium varium (Fr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

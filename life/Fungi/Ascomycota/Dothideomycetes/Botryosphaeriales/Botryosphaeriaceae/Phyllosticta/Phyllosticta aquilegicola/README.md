@@ -1,5 +1,4 @@
-Phyllosticta aquilegicola Brunaud SPECIES
-=======
+# Phyllosticta aquilegicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

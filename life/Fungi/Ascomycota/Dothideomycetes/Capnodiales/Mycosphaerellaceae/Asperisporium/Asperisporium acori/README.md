@@ -1,5 +1,4 @@
-Asperisporium acori Tehon SPECIES
-=======
+# Asperisporium acori Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe gigaspora Natarajan & Raman SPECIES
-=======
+# Psilocybe gigaspora Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

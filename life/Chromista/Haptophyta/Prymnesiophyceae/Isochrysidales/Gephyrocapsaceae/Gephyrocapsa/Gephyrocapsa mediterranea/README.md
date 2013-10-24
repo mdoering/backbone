@@ -1,5 +1,4 @@
-Gephyrocapsa mediterranea Pirini Radrizzani & Valleri, 1977 SPECIES
-=======
+# Gephyrocapsa mediterranea Pirini Radrizzani & Valleri, 1977 SPECIES
 
 #### Status
 ACCEPTED

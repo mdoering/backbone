@@ -1,5 +1,4 @@
-Alectoria splendida Motyka SPECIES
-=======
+# Alectoria splendida Motyka SPECIES
 
 #### Status
 ACCEPTED

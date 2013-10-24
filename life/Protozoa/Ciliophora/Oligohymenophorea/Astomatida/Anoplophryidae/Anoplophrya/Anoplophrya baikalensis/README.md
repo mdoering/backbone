@@ -1,5 +1,4 @@
-Anoplophrya baikalensis Rossolimo, 1926 SPECIES
-=======
+# Anoplophrya baikalensis Rossolimo, 1926 SPECIES
 
 #### Status
 ACCEPTED

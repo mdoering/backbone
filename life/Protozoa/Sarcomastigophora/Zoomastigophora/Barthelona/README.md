@@ -1,5 +1,4 @@
-Barthelona Bernard, Simpson & Patterson, 2000 GENUS
-=======
+# Barthelona Bernard, Simpson & Patterson, 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micarea tomentosa Czarnota & Coppins SPECIES
-=======
+# Micarea tomentosa Czarnota & Coppins SPECIES
 
 #### Status
 ACCEPTED

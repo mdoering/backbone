@@ -1,5 +1,4 @@
-Diplodia teucrii Gonz. Frag. SPECIES
-=======
+# Diplodia teucrii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

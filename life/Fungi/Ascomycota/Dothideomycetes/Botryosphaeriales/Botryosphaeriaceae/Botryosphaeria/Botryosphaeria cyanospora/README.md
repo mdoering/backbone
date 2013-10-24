@@ -1,5 +1,4 @@
-Botryosphaeria cyanospora (E. Bommer & M. Rousseau) Weese SPECIES
-=======
+# Botryosphaeria cyanospora (E. Bommer & M. Rousseau) Weese SPECIES
 
 #### Status
 ACCEPTED

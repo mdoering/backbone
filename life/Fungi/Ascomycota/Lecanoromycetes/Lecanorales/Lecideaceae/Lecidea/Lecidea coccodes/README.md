@@ -1,5 +1,4 @@
-Lecidea coccodes (Bél.) Nyl. SPECIES
-=======
+# Lecidea coccodes (Bél.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

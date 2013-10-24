@@ -1,5 +1,4 @@
-Lactobacillus coleohominis Nikolaitchouk et al., 2001 SPECIES
-=======
+# Lactobacillus coleohominis Nikolaitchouk et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

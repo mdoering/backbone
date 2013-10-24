@@ -1,5 +1,4 @@
-Amyloathelia crassiuscula Hjortstam & Ryvarden, 1979 SPECIES
-=======
+# Amyloathelia crassiuscula Hjortstam & Ryvarden, 1979 SPECIES
 
 #### Status
 ACCEPTED

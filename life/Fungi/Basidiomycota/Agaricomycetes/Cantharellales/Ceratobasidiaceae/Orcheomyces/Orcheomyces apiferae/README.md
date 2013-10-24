@@ -1,5 +1,4 @@
-Orcheomyces apiferae Burgeff SPECIES
-=======
+# Orcheomyces apiferae Burgeff SPECIES
 
 #### Status
 ACCEPTED

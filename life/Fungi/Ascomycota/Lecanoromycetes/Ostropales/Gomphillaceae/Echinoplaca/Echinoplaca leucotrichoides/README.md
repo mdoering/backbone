@@ -1,14 +1,13 @@
-Calenia leucotrichoides Vain. SPECIES
-=======
+# Echinoplaca leucotrichoides (Vain.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 166 (1921)
+in Thorold, J. Ecol. 40: 129 (1952)
 
 #### Original name
 Calenia leucotrichoides Vain.

@@ -1,5 +1,4 @@
-Patellaria polygonia (Vill.) Trevis. SPECIES
-=======
+# Patellaria polygonia (Vill.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

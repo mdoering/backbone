@@ -1,17 +1,16 @@
-Sphaerophoron australe var. proliferum F. Wilson VARIETY
-=======
+# Bunodophoron insigne (Laurer) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Syst. Evol. 187(1-4): 233 (1993)
 
 #### Original name
-null
+Sphaerophorus insignis Laurer
 
 ### Remarks
 null

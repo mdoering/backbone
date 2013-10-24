@@ -1,5 +1,4 @@
-Thamnolia theloschistoides (Zahlbr.) Gyeln. SPECIES
-=======
+# Thamnolia theloschistoides (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

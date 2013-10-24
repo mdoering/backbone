@@ -1,11 +1,10 @@
-Gonococcus neisseri Lindau, 1898 SPECIES
-=======
+# Neisseria gonorrhoeae (Zopf, 1885) Trevisan, 1885 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

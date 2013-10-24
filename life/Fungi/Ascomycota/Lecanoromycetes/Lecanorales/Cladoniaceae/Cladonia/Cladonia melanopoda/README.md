@@ -1,5 +1,4 @@
-Cladonia melanopoda Ahti SPECIES
-=======
+# Cladonia melanopoda Ahti SPECIES
 
 #### Status
 ACCEPTED

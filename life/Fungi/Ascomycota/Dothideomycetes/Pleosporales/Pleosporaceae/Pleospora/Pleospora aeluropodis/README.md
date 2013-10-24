@@ -1,5 +1,4 @@
-Pleospora aeluropodis Lobik SPECIES
-=======
+# Pleospora aeluropodis Lobik SPECIES
 
 #### Status
 ACCEPTED

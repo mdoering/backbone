@@ -1,5 +1,4 @@
-Sageria A. Funk GENUS
-=======
+# Sageria A. Funk GENUS
 
 #### Status
 ACCEPTED

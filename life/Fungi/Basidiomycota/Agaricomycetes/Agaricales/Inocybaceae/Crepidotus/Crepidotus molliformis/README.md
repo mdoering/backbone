@@ -1,5 +1,4 @@
-Crepidotus molliformis Singer SPECIES
-=======
+# Crepidotus molliformis Singer SPECIES
 
 #### Status
 ACCEPTED

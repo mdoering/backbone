@@ -1,5 +1,4 @@
-Lobaria subdissecta (Nyl.) Vain. SPECIES
-=======
+# Lobaria subdissecta (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

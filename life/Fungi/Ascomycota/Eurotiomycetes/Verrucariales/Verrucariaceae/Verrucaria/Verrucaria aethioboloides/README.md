@@ -1,5 +1,4 @@
-Verrucaria aethioboloides Zschacke SPECIES
-=======
+# Verrucaria aethioboloides Zschacke SPECIES
 
 #### Status
 ACCEPTED

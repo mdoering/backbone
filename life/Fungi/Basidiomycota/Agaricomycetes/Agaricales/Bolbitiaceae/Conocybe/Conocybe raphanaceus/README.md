@@ -1,5 +1,4 @@
-Conocybe raphanaceus Watling SPECIES
-=======
+# Conocybe raphanaceus Watling SPECIES
 
 #### Status
 ACCEPTED

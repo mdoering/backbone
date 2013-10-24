@@ -1,5 +1,4 @@
-Biatora myriocarpella G. Merr. SPECIES
-=======
+# Biatora myriocarpella G. Merr. SPECIES
 
 #### Status
 ACCEPTED

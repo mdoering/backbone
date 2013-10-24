@@ -1,17 +1,16 @@
-Dentiscutata nigra (J.F. Redhead) Sieverd., F.A. Souza & Oehl, 2008 SPECIES
-=======
+# Scutellospora nigra (J.F. Redhead) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 181 (1986)
 
 #### Original name
-null
+Gigaspora nigra J.F. Redhead, 1979
 
 ### Remarks
 null

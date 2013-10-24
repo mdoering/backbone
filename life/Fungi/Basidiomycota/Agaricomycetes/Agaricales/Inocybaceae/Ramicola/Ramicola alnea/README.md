@@ -1,5 +1,4 @@
-Ramicola alnea Velen. SPECIES
-=======
+# Ramicola alnea Velen. SPECIES
 
 #### Status
 ACCEPTED

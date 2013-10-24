@@ -1,17 +1,16 @@
-Rhodophyllus aprilis f. aprilis (Britzelm.) Romagn. FORM
-=======
+# Entoloma aprile (Britzelm.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 63: 195 (1947)
+Syll. fung. (Abellini) 5: 696 (1887)
 
 #### Original name
-Rhodophyllus aprilis f. aprilis (Britzelm.) Romagn.
+Agaricus aprilis Britzelm., 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus cephalocystis Heinem. SPECIES
-=======
+# Agaricus cephalocystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena odora Maas Geest. & E. Horak SPECIES
-=======
+# Mycena odora Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

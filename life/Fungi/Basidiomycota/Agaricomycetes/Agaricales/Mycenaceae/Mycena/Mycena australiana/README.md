@@ -1,5 +1,4 @@
-Mycena australiana Cleland SPECIES
-=======
+# Mycena australiana Cleland SPECIES
 
 #### Status
 ACCEPTED

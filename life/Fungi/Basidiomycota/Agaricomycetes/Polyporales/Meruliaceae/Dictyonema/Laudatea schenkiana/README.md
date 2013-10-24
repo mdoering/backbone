@@ -1,5 +1,4 @@
-Laudatea schenkiana Müll. Arg. SPECIES
-=======
+# Laudatea schenkiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

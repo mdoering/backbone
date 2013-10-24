@@ -1,5 +1,4 @@
-Phyllachora leucospila Syd., 1939 SPECIES
-=======
+# Phyllachora leucospila Syd., 1939 SPECIES
 
 #### Status
 DOUBTFUL

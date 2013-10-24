@@ -1,5 +1,4 @@
-Gibbera anthonothae Sivan. SPECIES
-=======
+# Gibbera anthonothae Sivan. SPECIES
 
 #### Status
 ACCEPTED

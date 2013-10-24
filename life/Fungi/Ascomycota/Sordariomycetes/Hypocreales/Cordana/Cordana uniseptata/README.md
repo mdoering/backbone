@@ -1,5 +1,4 @@
-Cordana uniseptata L. Cai, McKenzie & K.D. Hyde SPECIES
-=======
+# Cordana uniseptata L. Cai, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

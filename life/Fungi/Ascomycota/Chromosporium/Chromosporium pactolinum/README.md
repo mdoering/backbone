@@ -1,5 +1,4 @@
-Chromosporium pactolinum (Cooke & Harkn.) Cooke SPECIES
-=======
+# Chromosporium pactolinum (Cooke & Harkn.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophomarginata incrustata Pykhova, 1969 SPECIES
-=======
+# Lophomarginata incrustata Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

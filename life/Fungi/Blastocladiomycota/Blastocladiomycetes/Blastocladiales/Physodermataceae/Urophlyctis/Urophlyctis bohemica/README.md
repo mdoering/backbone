@@ -1,5 +1,4 @@
-Urophlyctis bohemica Bubák SPECIES
-=======
+# Urophlyctis bohemica Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea bresadolae Rick SPECIES
-=======
+# Gibberidea bresadolae Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum juglandis C. Massal. SPECIES
-=======
+# Fusicoccum juglandis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

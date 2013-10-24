@@ -1,5 +1,4 @@
-Peridinium gutwinskii Woloszynska SPECIES
-=======
+# Peridinium gutwinskii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

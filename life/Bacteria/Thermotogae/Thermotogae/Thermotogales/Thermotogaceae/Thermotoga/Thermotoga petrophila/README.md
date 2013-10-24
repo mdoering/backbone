@@ -1,5 +1,4 @@
-Thermotoga petrophila Takahata et al., 2001 SPECIES
-=======
+# Thermotoga petrophila Takahata et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium scholeriae Auersw. SPECIES
-=======
+# Aecidium scholeriae Auersw. SPECIES
 
 #### Status
 ACCEPTED

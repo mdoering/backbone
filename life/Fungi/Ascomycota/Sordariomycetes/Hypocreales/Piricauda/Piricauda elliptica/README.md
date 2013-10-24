@@ -1,5 +1,4 @@
-Piricauda elliptica (Cooke) R.T. Moore SPECIES
-=======
+# Piricauda elliptica (Cooke) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

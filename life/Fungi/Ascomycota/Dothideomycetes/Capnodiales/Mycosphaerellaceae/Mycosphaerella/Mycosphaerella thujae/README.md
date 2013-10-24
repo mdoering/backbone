@@ -1,5 +1,4 @@
-Mycosphaerella thujae Petr. SPECIES
-=======
+# Mycosphaerella thujae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mazaediothecium album Aptroot SPECIES
-=======
+# Mazaediothecium album Aptroot SPECIES
 
 #### Status
 ACCEPTED

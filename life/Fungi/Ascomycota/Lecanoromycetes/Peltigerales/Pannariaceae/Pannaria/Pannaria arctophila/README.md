@@ -1,5 +1,4 @@
-Pannaria arctophila Th. Fr. SPECIES
-=======
+# Pannaria arctophila Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

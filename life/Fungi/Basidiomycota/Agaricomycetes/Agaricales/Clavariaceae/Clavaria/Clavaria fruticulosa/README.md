@@ -1,5 +1,4 @@
-Clavaria fruticulosa Batsch SPECIES
-=======
+# Clavaria fruticulosa Batsch SPECIES
 
 #### Status
 ACCEPTED

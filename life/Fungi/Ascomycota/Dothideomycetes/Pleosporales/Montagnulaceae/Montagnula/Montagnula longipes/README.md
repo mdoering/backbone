@@ -1,5 +1,4 @@
-Montagnula longipes (Trab.) Aptroot SPECIES
-=======
+# Montagnula longipes (Trab.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

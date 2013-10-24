@@ -1,5 +1,4 @@
-Helotium brunneolum Pat. SPECIES
-=======
+# Helotium brunneolum Pat. SPECIES
 
 #### Status
 ACCEPTED

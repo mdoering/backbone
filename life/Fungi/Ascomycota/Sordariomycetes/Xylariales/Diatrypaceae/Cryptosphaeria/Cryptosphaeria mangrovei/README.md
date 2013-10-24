@@ -1,5 +1,4 @@
-Cryptosphaeria mangrovei K.D. Hyde, 1993 SPECIES
-=======
+# Cryptosphaeria mangrovei K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

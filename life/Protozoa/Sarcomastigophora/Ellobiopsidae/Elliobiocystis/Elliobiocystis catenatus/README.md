@@ -1,5 +1,4 @@
-Elliobiocystis catenatus Coutière, 1911 SPECIES
-=======
+# Elliobiocystis catenatus Coutière, 1911 SPECIES
 
 #### Status
 ACCEPTED

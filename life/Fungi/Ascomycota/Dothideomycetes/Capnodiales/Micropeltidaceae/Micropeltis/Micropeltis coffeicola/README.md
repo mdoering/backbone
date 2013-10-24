@@ -1,5 +1,4 @@
-Micropeltis coffeicola Henn. SPECIES
-=======
+# Micropeltis coffeicola Henn. SPECIES
 
 #### Status
 ACCEPTED

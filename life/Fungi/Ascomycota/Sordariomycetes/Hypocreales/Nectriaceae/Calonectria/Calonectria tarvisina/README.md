@@ -1,5 +1,4 @@
-Calonectria tarvisina Speg. SPECIES
-=======
+# Calonectria tarvisina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella melastomatacearum (Speg.) Hansf. SPECIES
-=======
+# Asteridiella melastomatacearum (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

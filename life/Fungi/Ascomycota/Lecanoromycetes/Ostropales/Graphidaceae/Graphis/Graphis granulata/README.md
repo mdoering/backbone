@@ -1,5 +1,4 @@
-Graphis granulata Fée SPECIES
-=======
+# Graphis granulata Fée SPECIES
 
 #### Status
 ACCEPTED

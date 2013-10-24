@@ -1,5 +1,4 @@
-Graphis mocimboënsis Vain. SPECIES
-=======
+# Graphis mocimboënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

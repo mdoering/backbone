@@ -1,5 +1,4 @@
-Uredo manilensis Syd. & P. Syd. SPECIES
-=======
+# Uredo manilensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

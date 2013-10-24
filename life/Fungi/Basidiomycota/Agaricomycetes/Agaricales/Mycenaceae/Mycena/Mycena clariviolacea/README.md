@@ -1,5 +1,4 @@
-Mycena clariviolacea Har. Takah. SPECIES
-=======
+# Mycena clariviolacea Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

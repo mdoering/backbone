@@ -1,5 +1,4 @@
-Papulosporonites Schmied. & A.J. Schwab GENUS
-=======
+# Papulosporonites Schmied. & A.J. Schwab GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella zamiae (Corda) Sacc. SPECIES
-=======
+# Volutella zamiae (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

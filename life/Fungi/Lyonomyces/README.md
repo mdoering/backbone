@@ -1,5 +1,4 @@
-Lyonomyces T.N. Taylor, Hass & W. Remy GENUS
-=======
+# Lyonomyces T.N. Taylor, Hass & W. Remy GENUS
 
 #### Status
 ACCEPTED

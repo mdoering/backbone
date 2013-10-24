@@ -1,5 +1,4 @@
-Porphyrellus festivus Singer SPECIES
-=======
+# Porphyrellus festivus Singer SPECIES
 
 #### Status
 ACCEPTED

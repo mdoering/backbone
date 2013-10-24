@@ -1,5 +1,4 @@
-Microdiplodia strelitziae Gonz. Frag. SPECIES
-=======
+# Microdiplodia strelitziae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

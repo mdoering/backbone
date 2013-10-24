@@ -1,5 +1,4 @@
-Exobasidium shiraianum Henn., 1902 SPECIES
-=======
+# Exobasidium shiraianum Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

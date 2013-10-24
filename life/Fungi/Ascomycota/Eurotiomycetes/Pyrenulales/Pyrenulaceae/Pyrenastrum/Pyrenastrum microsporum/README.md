@@ -1,5 +1,4 @@
-Pyrenastrum microsporum Malme SPECIES
-=======
+# Pyrenastrum microsporum Malme SPECIES
 
 #### Status
 ACCEPTED

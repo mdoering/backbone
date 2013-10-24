@@ -1,5 +1,4 @@
-Vogtlandia simplex Moczydlowska, 1998 SPECIES
-=======
+# Vogtlandia simplex Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

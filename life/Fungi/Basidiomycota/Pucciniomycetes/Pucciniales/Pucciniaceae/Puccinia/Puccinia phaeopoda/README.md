@@ -1,5 +1,4 @@
-Puccinia phaeopoda Syd. SPECIES
-=======
+# Puccinia phaeopoda Syd. SPECIES
 
 #### Status
 ACCEPTED

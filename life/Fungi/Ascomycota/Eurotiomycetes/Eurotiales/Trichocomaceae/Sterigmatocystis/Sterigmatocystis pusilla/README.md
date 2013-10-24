@@ -1,5 +1,4 @@
-Sterigmatocystis pusilla Peyronel SPECIES
-=======
+# Sterigmatocystis pusilla Peyronel SPECIES
 
 #### Status
 ACCEPTED

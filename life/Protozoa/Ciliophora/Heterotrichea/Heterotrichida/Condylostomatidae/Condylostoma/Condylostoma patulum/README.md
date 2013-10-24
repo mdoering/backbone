@@ -1,5 +1,4 @@
-Condylostoma patulum Claparède & Lachmann, 1858 SPECIES
-=======
+# Condylostoma patulum Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

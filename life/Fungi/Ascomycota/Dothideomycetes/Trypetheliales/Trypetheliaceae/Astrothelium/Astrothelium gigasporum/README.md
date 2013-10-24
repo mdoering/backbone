@@ -1,5 +1,4 @@
-Astrothelium gigasporum R.C. Harris SPECIES
-=======
+# Astrothelium gigasporum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

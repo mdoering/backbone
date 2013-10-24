@@ -1,5 +1,4 @@
-Sclerotium petiolorum Schwein. SPECIES
-=======
+# Sclerotium petiolorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

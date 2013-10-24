@@ -1,5 +1,4 @@
-Aspergillus homomorphus Steiman, Guiraud, Sage & Seigle-Mur. ex Samson & Frisvad, 2004 SPECIES
-=======
+# Aspergillus homomorphus Steiman, Guiraud, Sage & Seigle-Mur. ex Samson & Frisvad, 2004 SPECIES
 
 #### Status
 ACCEPTED

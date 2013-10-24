@@ -1,5 +1,4 @@
-Crinipellis pseudostipitaria subsp. pseudostipitaria SUBSPECIES
-=======
+# Crinipellis pseudostipitaria Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 8: 470 (1943)
 
 #### Original name
-Crinipellis pseudostipitaria subsp. pseudostipitaria
+Crinipellis pseudostipitaria Singer
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Russula purpurea-nigra Petch SPECIES
-=======
+# Russula purpureonigra Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Reumaux, Bidaud & Moënne-Loccoz, Russules Rares ou Méconnues (Marlioz) 288 (1996)
 
 #### Original name
-Russula purpurea-nigra Petch
+Russula purpureonigra Petch
 
 ### Remarks
 null

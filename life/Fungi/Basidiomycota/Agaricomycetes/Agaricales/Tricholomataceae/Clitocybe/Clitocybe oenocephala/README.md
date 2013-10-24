@@ -1,5 +1,4 @@
-Clitocybe oenocephala Mont. SPECIES
-=======
+# Clitocybe oenocephala Mont. SPECIES
 
 #### Status
 ACCEPTED

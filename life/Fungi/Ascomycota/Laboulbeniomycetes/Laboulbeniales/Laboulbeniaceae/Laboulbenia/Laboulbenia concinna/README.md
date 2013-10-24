@@ -1,5 +1,4 @@
-Laboulbenia concinna Thaxt. SPECIES
-=======
+# Laboulbenia concinna Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia perminuta Arthur SPECIES
-=======
+# Puccinia perminuta Arthur SPECIES
 
 #### Status
 ACCEPTED

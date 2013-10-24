@@ -1,5 +1,4 @@
-Cortinarius perfulmineus Bidaud, Bernaer & Moënne-Locc. SPECIES
-=======
+# Cortinarius perfulmineus Bidaud, Bernaer & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

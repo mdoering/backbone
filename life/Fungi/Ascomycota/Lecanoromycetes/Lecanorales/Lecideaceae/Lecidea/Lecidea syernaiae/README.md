@@ -1,5 +1,4 @@
-Lecidea syernaiae Lynge SPECIES
-=======
+# Lecidea syernaiae Lynge SPECIES
 
 #### Status
 ACCEPTED

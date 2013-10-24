@@ -1,5 +1,4 @@
-Pyrenophora venziana (Sacc.) Sacc. SPECIES
-=======
+# Pyrenophora venziana (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

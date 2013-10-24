@@ -1,5 +1,4 @@
-Dothiorella caryotae (Syd.) Syd. SPECIES
-=======
+# Dothiorella caryotae (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

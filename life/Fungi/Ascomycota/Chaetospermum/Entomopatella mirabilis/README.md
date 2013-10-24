@@ -1,5 +1,4 @@
-Entomopatella mirabilis Petr. SPECIES
-=======
+# Entomopatella mirabilis Petr. SPECIES
 
 #### Status
 ACCEPTED

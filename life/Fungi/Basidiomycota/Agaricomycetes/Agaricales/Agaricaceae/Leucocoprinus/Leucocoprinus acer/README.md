@@ -1,5 +1,4 @@
-Leucocoprinus acer Raithelh. SPECIES
-=======
+# Leucocoprinus acer Raithelh. SPECIES
 
 #### Status
 ACCEPTED

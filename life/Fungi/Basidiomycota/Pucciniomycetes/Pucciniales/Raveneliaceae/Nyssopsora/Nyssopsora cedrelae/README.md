@@ -1,14 +1,13 @@
-Oplophora cedrelae (Hori) Syd., 1921 SPECIES
-=======
+# Nyssopsora cedrelae (Hori) Tranzschel, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1/2): 170 (1921)
+Zhurnal russk. bot. Obshch. 8: 129 (1925)
 
 #### Original name
 Triphragmium cedrelae Hori, 1892

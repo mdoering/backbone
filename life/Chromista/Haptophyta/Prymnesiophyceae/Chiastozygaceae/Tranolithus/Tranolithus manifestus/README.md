@@ -1,5 +1,4 @@
-Tranolithus manifestus Stover, 1966 SPECIES
-=======
+# Tranolithus manifestus Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

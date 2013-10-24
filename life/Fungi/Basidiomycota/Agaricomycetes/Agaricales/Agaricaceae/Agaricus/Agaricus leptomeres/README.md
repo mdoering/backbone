@@ -1,5 +1,4 @@
-Agaricus leptomeres Berk. & Broome SPECIES
-=======
+# Agaricus leptomeres Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

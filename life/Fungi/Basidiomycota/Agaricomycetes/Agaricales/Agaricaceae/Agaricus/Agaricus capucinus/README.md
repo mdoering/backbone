@@ -1,5 +1,4 @@
-Agaricus capucinus Fr. SPECIES
-=======
+# Agaricus capucinus Fr. SPECIES
 
 #### Status
 ACCEPTED

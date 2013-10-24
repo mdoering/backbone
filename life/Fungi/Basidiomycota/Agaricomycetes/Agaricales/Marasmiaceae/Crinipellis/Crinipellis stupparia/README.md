@@ -1,5 +1,4 @@
-Crinipellis stupparia (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Crinipellis stupparia (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

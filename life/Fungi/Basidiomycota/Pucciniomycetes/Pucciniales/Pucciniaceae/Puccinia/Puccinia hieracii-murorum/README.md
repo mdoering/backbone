@@ -1,5 +1,4 @@
-Puccinia hieracii-murorum Castagne SPECIES
-=======
+# Puccinia hieracii-murorum Castagne SPECIES
 
 #### Status
 ACCEPTED

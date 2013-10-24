@@ -1,5 +1,4 @@
-Puccinia turyutensis Speg. SPECIES
-=======
+# Puccinia turyutensis Speg. SPECIES
 
 #### Status
 ACCEPTED

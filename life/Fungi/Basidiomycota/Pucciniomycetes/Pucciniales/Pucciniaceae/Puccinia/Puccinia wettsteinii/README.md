@@ -1,5 +1,4 @@
-Puccinia wettsteinii De Toni SPECIES
-=======
+# Puccinia wettsteinii De Toni SPECIES
 
 #### Status
 ACCEPTED

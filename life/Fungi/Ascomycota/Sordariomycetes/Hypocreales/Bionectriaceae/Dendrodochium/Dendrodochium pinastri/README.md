@@ -1,5 +1,4 @@
-Dendrodochium pinastri Paol., 1887 SPECIES
-=======
+# Dendrodochium pinastri Paol., 1887 SPECIES
 
 #### Status
 ACCEPTED

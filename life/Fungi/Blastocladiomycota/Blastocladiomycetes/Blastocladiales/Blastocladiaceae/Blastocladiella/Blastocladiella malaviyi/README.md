@@ -1,8 +1,7 @@
-Blastocladiella malaviyii Bhasin {?} & Pavgi ined. SPECIES
-=======
+# Blastocladiella malaviyi Bhasin {?} & Pavgi ined. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Blastocladiella malaviyii Bhasin {?} & Pavgi ined.
+Blastocladiella malaviyi Bhasin {?} & Pavgi ined.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Monosporidium euphorbiae Barclay, 1888 SPECIES
-=======
+# Monosporidium euphorbiae Barclay, 1888 SPECIES
 
 #### Status
 ACCEPTED

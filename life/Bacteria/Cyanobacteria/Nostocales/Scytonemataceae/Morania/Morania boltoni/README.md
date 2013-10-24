@@ -1,5 +1,4 @@
-Morania boltoni SPECIES
-=======
+# Morania boltoni SPECIES
 
 #### Status
 ACCEPTED

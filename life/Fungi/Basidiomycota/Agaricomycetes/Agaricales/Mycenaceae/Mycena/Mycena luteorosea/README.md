@@ -1,5 +1,4 @@
-Mycena luteorosea Beeli SPECIES
-=======
+# Mycena luteorosea Beeli SPECIES
 
 #### Status
 ACCEPTED

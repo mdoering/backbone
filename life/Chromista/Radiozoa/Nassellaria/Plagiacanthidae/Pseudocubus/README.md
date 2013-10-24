@@ -1,5 +1,4 @@
-Pseudocubus Haeckel, 1887 GENUS
-=======
+# Pseudocubus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

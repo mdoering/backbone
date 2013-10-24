@@ -1,5 +1,4 @@
-Enteromyces callianassae Lichtw., 1961 SPECIES
-=======
+# Enteromyces callianassae Lichtw., 1961 SPECIES
 
 #### Status
 ACCEPTED

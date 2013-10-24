@@ -1,5 +1,4 @@
-Stenella ateramni R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Stenella ateramni R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolomyces leonis (Tul. & C. Tul.) Sherwood SPECIES
-=======
+# Propolomyces leonis (Tul. & C. Tul.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

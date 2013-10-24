@@ -1,5 +1,4 @@
-Lycoperdon indicum K.S. Thind & I.P.S. Thind SPECIES
-=======
+# Lycoperdon indicum K.S. Thind & I.P.S. Thind SPECIES
 
 #### Status
 ACCEPTED

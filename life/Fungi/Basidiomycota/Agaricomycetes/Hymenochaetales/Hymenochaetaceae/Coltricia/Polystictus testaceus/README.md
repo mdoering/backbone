@@ -1,5 +1,4 @@
-Polystictus testaceus (Fr.) Gillot & Lucand SPECIES
-=======
+# Polystictus testaceus (Fr.) Gillot & Lucand SPECIES
 
 #### Status
 ACCEPTED

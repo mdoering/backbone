@@ -1,5 +1,4 @@
-Tuberculina praeandina Speg. SPECIES
-=======
+# Tuberculina praeandina Speg. SPECIES
 
 #### Status
 ACCEPTED

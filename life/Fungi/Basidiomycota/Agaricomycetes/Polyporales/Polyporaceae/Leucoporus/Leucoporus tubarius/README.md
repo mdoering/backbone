@@ -1,5 +1,4 @@
-Leucoporus tubarius (Quél.) Quél. SPECIES
-=======
+# Leucoporus tubarius (Quél.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma baccae Catt. SPECIES
-=======
+# Phoma baccae Catt. SPECIES
 
 #### Status
 ACCEPTED

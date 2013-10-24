@@ -1,5 +1,4 @@
-Spumosata nova Pykhova, 1966 SPECIES
-=======
+# Spumosata nova Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius scaurocaninus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius scaurocaninus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

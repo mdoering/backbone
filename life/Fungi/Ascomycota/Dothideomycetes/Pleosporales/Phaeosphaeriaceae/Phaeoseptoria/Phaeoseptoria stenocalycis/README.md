@@ -1,5 +1,4 @@
-Phaeoseptoria stenocalycis Bat., H.P. Upadhyay & J.P. Costa SPECIES
-=======
+# Phaeoseptoria stenocalycis Bat., H.P. Upadhyay & J.P. Costa SPECIES
 
 #### Status
 ACCEPTED

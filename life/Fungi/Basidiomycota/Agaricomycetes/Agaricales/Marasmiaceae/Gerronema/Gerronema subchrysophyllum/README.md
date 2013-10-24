@@ -1,5 +1,4 @@
-Gerronema subchrysophyllum Singer SPECIES
-=======
+# Gerronema subchrysophyllum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyospoirum GENUS
-=======
+# Dictyospoirum GENUS
 
 #### Status
 ACCEPTED

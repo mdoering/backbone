@@ -1,5 +1,4 @@
-Ramularia curvula Fautrey SPECIES
-=======
+# Ramularia curvula Fautrey SPECIES
 
 #### Status
 ACCEPTED

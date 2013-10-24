@@ -1,5 +1,4 @@
-Thelotrema loandense Vain. SPECIES
-=======
+# Thelotrema loandense Vain. SPECIES
 
 #### Status
 ACCEPTED

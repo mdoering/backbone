@@ -1,5 +1,4 @@
-Pelamoviroid: GENUS
-=======
+# Pelamoviroid: GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lyomyces erastii (Saaren. & Kotir.) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia erastii Saaren. & Kotir., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Kotiranta & Saarenoksa, Ann. bot. fenn. 37(4): 267 (2000)
 
 #### Original name
-null
+Hyphodontia erastii Saaren. & Kotir., 2000
 
 ### Remarks
 null

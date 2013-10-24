@@ -1,5 +1,4 @@
-Lactarius subindigo Verbeken & E. Horak SPECIES
-=======
+# Lactarius subindigo Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

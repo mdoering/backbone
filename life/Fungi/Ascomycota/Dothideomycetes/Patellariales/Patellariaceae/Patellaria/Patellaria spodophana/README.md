@@ -1,5 +1,4 @@
-Patellaria spodophana (Nyl.) SPECIES
-=======
+# Patellaria spodophana (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha bonplandii var. bonplandii VARIETY
-=======
+# Opegrapha bonplandii Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Essai Crypt. Exot. (Paris) 1: 25 (1825)
 
 #### Original name
-Opegrapha bonplandii var. bonplandii
+Opegrapha bonplandii Fée
 
 ### Remarks
 null

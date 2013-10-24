@@ -1,14 +1,13 @@
-Hygrophorus helobius Arnolds, 1974 SPECIES
-=======
+# Hygrocybe helobia (Arnolds) Bon, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 8(1): 99 (1974)
+Docums Mycol. 6(no. 24): 43 (1976)
 
 #### Original name
 Hygrophorus helobius Arnolds, 1974

@@ -1,8 +1,7 @@
-Planococcus alkanoclasticus Engelhardt et al., 2001 SPECIES
-=======
+# Planomicrobium alkanoclasticum (Engelhardt et al., 2001) Dai et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

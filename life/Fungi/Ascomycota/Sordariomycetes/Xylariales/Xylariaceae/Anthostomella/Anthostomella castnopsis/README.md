@@ -1,5 +1,4 @@
-Anthostomella castnopsis W. H. Hsieh & C. Y. Chen, 2000 SPECIES
-=======
+# Anthostomella castnopsis W. H. Hsieh & C. Y. Chen, 2000 SPECIES
 
 #### Status
 ACCEPTED

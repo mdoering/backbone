@@ -1,5 +1,4 @@
-Arthrobotrys botryospora G.L. Barron, 1979 SPECIES
-=======
+# Arthrobotrys botryospora G.L. Barron, 1979 SPECIES
 
 #### Status
 ACCEPTED

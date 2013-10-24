@@ -1,5 +1,4 @@
-Isaria fulvipes Peck SPECIES
-=======
+# Isaria fulvipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporum farinulentum (Sabour.) Guiart & Grigoraki SPECIES
-=======
+# Microsporum farinulentum (Sabour.) Guiart & Grigoraki SPECIES
 
 #### Status
 ACCEPTED

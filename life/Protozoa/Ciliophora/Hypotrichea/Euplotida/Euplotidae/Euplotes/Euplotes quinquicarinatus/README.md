@@ -1,5 +1,4 @@
-Euplotes quinquicarinatus Gelei, 1950 SPECIES
-=======
+# Euplotes quinquicarinatus Gelei, 1950 SPECIES
 
 #### Status
 ACCEPTED

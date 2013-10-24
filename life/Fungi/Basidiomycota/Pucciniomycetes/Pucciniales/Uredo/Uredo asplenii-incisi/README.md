@@ -1,5 +1,4 @@
-Uredo asplenii-incisi (Faull) Hirats. f. SPECIES
-=======
+# Uredo asplenii-incisi (Faull) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

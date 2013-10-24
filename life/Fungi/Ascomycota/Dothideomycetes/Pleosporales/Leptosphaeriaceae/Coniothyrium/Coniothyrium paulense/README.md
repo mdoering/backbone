@@ -1,5 +1,4 @@
-Coniothyrium paulense Henn. SPECIES
-=======
+# Coniothyrium paulense Henn. SPECIES
 
 #### Status
 ACCEPTED

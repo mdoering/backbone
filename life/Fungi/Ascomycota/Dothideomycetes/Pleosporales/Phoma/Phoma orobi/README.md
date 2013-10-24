@@ -1,5 +1,4 @@
-Phoma orobi Hollós SPECIES
-=======
+# Phoma orobi Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella ebenacearum Kamal SPECIES
-=======
+# Stenella ebenacearum Kamal SPECIES
 
 #### Status
 ACCEPTED

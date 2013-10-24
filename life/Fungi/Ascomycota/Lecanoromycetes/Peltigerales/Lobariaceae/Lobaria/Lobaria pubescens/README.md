@@ -1,5 +1,4 @@
-Lobaria pubescens Hellb. SPECIES
-=======
+# Lobaria pubescens Hellb. SPECIES
 
 #### Status
 ACCEPTED

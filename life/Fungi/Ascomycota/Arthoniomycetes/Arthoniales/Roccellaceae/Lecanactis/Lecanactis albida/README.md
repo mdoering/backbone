@@ -1,5 +1,4 @@
-Lecanactis albida Groenh. SPECIES
-=======
+# Lecanactis albida Groenh. SPECIES
 
 #### Status
 ACCEPTED

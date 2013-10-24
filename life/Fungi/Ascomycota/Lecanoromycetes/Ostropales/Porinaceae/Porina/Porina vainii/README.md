@@ -1,5 +1,4 @@
-Porina vainii Fink SPECIES
-=======
+# Porina vainii Fink SPECIES
 
 #### Status
 ACCEPTED

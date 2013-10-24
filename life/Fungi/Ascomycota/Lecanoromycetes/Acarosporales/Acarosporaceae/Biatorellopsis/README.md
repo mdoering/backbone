@@ -1,5 +1,4 @@
-Biatorellopsis GENUS
-=======
+# Biatorellopsis GENUS
 
 #### Status
 ACCEPTED

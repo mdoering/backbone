@@ -1,5 +1,4 @@
-Psathyrella polycystidiosa var. polycystidiosa VARIETY
-=======
+# Psathyrella polycystidiosa Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 190 (1969)
 
 #### Original name
-Psathyrella polycystidiosa var. polycystidiosa
+Psathyrella polycystidiosa Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenula brachysperma Müll. Arg. SPECIES
-=======
+# Pyrenula brachysperma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

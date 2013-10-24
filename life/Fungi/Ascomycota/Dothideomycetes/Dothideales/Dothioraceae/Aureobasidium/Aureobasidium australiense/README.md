@@ -1,5 +1,4 @@
-Aureobasidium australiense McAlpine SPECIES
-=======
+# Aureobasidium australiense McAlpine SPECIES
 
 #### Status
 ACCEPTED

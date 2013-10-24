@@ -1,5 +1,4 @@
-Umbellina A.R.Loeblich, Jr. & H.Tappan GENUS
-=======
+# Umbellina A.R.Loeblich, Jr. & H.Tappan GENUS
 
 #### Status
 ACCEPTED

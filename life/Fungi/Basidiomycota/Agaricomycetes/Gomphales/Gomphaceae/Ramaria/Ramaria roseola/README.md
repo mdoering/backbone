@@ -1,5 +1,4 @@
-Ramaria roseola Schild SPECIES
-=======
+# Ramaria roseola Schild SPECIES
 
 #### Status
 ACCEPTED

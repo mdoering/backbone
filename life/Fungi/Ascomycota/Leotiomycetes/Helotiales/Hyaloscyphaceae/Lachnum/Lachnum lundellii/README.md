@@ -1,5 +1,4 @@
-Lachnum lundellii (Le Gal) Nannf. SPECIES
-=======
+# Lachnum lundellii (Le Gal) Nannf. SPECIES
 
 #### Status
 ACCEPTED

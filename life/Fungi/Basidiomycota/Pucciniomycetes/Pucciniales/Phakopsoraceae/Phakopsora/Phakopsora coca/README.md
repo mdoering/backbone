@@ -1,5 +1,4 @@
-Phakopsora coca Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora coca Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

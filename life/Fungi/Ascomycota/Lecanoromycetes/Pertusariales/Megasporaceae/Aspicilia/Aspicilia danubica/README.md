@@ -1,5 +1,4 @@
-Aspicilia danubica Szatala SPECIES
-=======
+# Aspicilia danubica Szatala SPECIES
 
 #### Status
 ACCEPTED

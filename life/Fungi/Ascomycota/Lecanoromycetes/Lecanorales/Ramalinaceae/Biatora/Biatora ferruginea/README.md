@@ -1,5 +1,4 @@
-Biatora ferruginea SPECIES
-=======
+# Biatora ferruginea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraurostyla coronata SPECIES
-=======
+# Paraurostyla coronata SPECIES
 
 #### Status
 ACCEPTED

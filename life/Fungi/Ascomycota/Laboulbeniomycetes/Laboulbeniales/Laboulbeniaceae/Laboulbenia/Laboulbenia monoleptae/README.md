@@ -1,5 +1,4 @@
-Laboulbenia monoleptae Balazuc SPECIES
-=======
+# Laboulbenia monoleptae Balazuc SPECIES
 
 #### Status
 ACCEPTED

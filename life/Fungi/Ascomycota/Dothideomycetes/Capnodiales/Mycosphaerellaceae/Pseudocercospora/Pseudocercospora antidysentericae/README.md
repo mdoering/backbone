@@ -1,5 +1,4 @@
-Pseudocercospora antidysentericae A.K. Srivast. SPECIES
-=======
+# Pseudocercospora antidysentericae A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

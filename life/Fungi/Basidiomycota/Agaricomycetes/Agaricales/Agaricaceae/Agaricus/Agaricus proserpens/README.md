@@ -1,5 +1,4 @@
-Agaricus proserpens E.H.L. Krause SPECIES
-=======
+# Agaricus proserpens E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

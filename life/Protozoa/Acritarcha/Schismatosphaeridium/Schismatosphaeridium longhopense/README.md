@@ -1,5 +1,4 @@
-Schismatosphaeridium longhopense Dorning, 1981 SPECIES
-=======
+# Schismatosphaeridium longhopense Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

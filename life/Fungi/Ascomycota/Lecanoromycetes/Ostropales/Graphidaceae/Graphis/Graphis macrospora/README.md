@@ -1,5 +1,4 @@
-Graphis macrospora Kremp. SPECIES
-=======
+# Graphis macrospora Kremp. SPECIES
 
 #### Status
 ACCEPTED

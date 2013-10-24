@@ -1,5 +1,4 @@
-Trimastix marina Kent, 1880 SPECIES
-=======
+# Trimastix marina Kent, 1880 SPECIES
 
 #### Status
 ACCEPTED

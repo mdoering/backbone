@@ -1,5 +1,4 @@
-Astrothelium umbilicatum Fr. SPECIES
-=======
+# Astrothelium umbilicatum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melitasphaeridium R. Harland & J. Hill, 1979 GENUS
-=======
+# Melitasphaeridium R. Harland & J. Hill, 1979 GENUS
 
 #### Status
 ACCEPTED

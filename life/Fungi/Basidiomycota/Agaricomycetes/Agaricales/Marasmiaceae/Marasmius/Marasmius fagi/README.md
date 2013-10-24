@@ -1,5 +1,4 @@
-Marasmius fagi (Kalamees) Kalamees SPECIES
-=======
+# Marasmius fagi (Kalamees) Kalamees SPECIES
 
 #### Status
 ACCEPTED

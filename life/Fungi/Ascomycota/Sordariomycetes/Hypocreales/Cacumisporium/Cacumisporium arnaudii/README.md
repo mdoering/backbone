@@ -1,5 +1,4 @@
-Cacumisporium arnaudii (Zeller & Tóth) M.B. Ellis SPECIES
-=======
+# Cacumisporium arnaudii (Zeller & Tóth) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

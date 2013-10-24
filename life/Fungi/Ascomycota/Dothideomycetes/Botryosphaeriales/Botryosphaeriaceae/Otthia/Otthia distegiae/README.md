@@ -1,5 +1,4 @@
-Otthia distegiae Tracy & Earle SPECIES
-=======
+# Otthia distegiae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphiopsis geranii (Voglino) Goid. SPECIES
-=======
+# Graphiopsis geranii (Voglino) Goid. SPECIES
 
 #### Status
 ACCEPTED

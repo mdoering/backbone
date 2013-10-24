@@ -1,5 +1,4 @@
-Scleroderma nitidum Lloyd SPECIES
-=======
+# Scleroderma nitidum Lloyd SPECIES
 
 #### Status
 ACCEPTED

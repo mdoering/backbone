@@ -1,5 +1,4 @@
-Pestalotia coffeicola Sawada SPECIES
-=======
+# Pestalotia coffeicola Sawada SPECIES
 
 #### Status
 ACCEPTED

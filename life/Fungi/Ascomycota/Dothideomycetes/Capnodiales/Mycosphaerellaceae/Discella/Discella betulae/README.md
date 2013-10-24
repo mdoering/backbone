@@ -1,5 +1,4 @@
-Discella betulae E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Discella betulae E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

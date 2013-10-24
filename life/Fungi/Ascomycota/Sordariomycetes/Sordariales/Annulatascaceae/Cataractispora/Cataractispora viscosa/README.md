@@ -1,5 +1,4 @@
-Cataractispora viscosa K.D. Hyde, S.W. Wong & E.B.G. Jones, 1999 SPECIES
-=======
+# Cataractispora viscosa K.D. Hyde, S.W. Wong & E.B.G. Jones, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca orientalis Zahlbr. SPECIES
-=======
+# Caloplaca orientalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

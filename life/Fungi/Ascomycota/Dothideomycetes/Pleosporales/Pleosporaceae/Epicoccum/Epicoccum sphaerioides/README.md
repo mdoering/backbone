@@ -1,5 +1,4 @@
-Epicoccum sphaerioides Corda SPECIES
-=======
+# Epicoccum sphaerioides Corda SPECIES
 
 #### Status
 ACCEPTED

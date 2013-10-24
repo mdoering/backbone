@@ -1,5 +1,4 @@
-Circinaria contorta subsp. contorta (L.) A. Nordin, Savic & Tibell SUBSPECIES
-=======
+# Circinaria contorta (L.) A. Nordin, Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

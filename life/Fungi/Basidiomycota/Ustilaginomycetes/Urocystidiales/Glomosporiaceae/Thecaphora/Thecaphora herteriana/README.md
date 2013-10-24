@@ -1,5 +1,4 @@
-Thecaphora herteriana Cif. SPECIES
-=======
+# Thecaphora herteriana Cif. SPECIES
 
 #### Status
 ACCEPTED

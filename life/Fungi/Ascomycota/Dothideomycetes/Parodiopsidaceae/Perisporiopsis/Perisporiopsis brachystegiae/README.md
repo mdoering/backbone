@@ -1,5 +1,4 @@
-Perisporiopsis brachystegiae (Henn.) Arx SPECIES
-=======
+# Perisporiopsis brachystegiae (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia filicina (G. Winter) Kuntze SPECIES
-=======
+# Microthelia filicina (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma lekokiae (Kotschy {?} ) Kuntze SPECIES
-=======
+# Dicaeoma lekokiae (Kotschy {?} ) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pulverata Cromb. SPECIES
-=======
+# Lecidea pulverata Cromb. SPECIES
 
 #### Status
 ACCEPTED

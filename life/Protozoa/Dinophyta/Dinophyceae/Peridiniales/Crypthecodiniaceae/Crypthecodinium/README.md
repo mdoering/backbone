@@ -1,5 +1,4 @@
-Crypthecodinium B. Biecheler, 1952 GENUS
-=======
+# Crypthecodinium B. Biecheler, 1952 GENUS
 
 #### Status
 ACCEPTED

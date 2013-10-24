@@ -1,5 +1,4 @@
-Cenangium aeruginosum Schwein. SPECIES
-=======
+# Cenangium aeruginosum Schwein. SPECIES
 
 #### Status
 ACCEPTED

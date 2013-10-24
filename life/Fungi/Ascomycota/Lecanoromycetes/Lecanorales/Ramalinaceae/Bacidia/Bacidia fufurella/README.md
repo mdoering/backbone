@@ -1,5 +1,4 @@
-Bacidia fufurella SPECIES
-=======
+# Bacidia fufurella SPECIES
 
 #### Status
 ACCEPTED

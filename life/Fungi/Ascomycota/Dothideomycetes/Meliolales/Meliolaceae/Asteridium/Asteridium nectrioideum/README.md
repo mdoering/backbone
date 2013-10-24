@@ -1,5 +1,4 @@
-Asteridium nectrioideum Rehm SPECIES
-=======
+# Asteridium nectrioideum Rehm SPECIES
 
 #### Status
 ACCEPTED

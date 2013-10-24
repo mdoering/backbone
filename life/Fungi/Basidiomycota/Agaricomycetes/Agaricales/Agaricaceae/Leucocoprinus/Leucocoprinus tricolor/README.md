@@ -1,5 +1,4 @@
-Leucocoprinus tricolor H.V. Sm. SPECIES
-=======
+# Leucocoprinus tricolor H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED

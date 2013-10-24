@@ -1,17 +1,16 @@
-Stagonospora paludosa var. paludosa VARIETY
-=======
+# Stagonospora paludosa (Sacc. & Speg.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 453 (1884)
 
 #### Original name
-Stagonospora paludosa var. paludosa
+Hendersonia paludosa Sacc. & Speg., 1878
 
 ### Remarks
 null

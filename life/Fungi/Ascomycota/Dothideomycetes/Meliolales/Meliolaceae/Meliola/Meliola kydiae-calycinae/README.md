@@ -1,5 +1,4 @@
-Meliola kydiae-calycinae Hansf. & Thirum. SPECIES
-=======
+# Meliola kydiae-calycinae Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

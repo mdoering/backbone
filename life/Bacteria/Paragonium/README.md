@@ -1,5 +1,4 @@
-Paragonium Sokoloff & Ancona GENUS
-=======
+# Paragonium Sokoloff & Ancona GENUS
 
 #### Status
 ACCEPTED

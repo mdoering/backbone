@@ -1,17 +1,16 @@
-Eustilbum Arnold GENUS
-=======
+# Dendrostilbella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 55: 22 (1905)
 
 #### Original name
-Eustilbum Arnold
+Dendrostilbella Höhn.
 
 ### Remarks
 null

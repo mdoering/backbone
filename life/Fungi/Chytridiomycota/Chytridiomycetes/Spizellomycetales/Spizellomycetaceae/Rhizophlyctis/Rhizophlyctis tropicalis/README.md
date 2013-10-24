@@ -1,5 +1,4 @@
-Rhizophlyctis tropicalis Sparrow & Dogma SPECIES
-=======
+# Rhizophlyctis tropicalis Sparrow & Dogma SPECIES
 
 #### Status
 ACCEPTED

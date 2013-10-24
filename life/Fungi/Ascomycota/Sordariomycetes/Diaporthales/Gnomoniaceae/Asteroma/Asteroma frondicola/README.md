@@ -1,5 +1,4 @@
-Asteroma frondicola (Fr.) M. Morelet SPECIES
-=======
+# Asteroma frondicola (Fr.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

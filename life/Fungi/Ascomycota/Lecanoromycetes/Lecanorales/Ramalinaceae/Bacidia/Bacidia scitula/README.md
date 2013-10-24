@@ -1,5 +1,4 @@
-Bacidia scitula (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia scitula (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

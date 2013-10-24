@@ -1,5 +1,4 @@
-Lactarius tenellus Verbeken & Walleyn SPECIES
-=======
+# Lactarius tenellus Verbeken & Walleyn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium pseudoplatystomum Makhija & Patw. SPECIES
-=======
+# Trypethelium pseudoplatystomum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

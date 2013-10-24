@@ -1,5 +1,4 @@
-Redbia Deighton & Piroz. GENUS
-=======
+# Redbia Deighton & Piroz. GENUS
 
 #### Status
 ACCEPTED

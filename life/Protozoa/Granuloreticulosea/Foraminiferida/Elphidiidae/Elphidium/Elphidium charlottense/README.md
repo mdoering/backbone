@@ -1,8 +1,7 @@
-Elphidiononion charlottensis Vella, 1957 SPECIES
-=======
+# Elphidium charlottense (Vella, 1957) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

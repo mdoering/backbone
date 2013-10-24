@@ -1,5 +1,4 @@
-Trematosphaeria porphyrostoma (Kunze) Fuckel SPECIES
-=======
+# Trematosphaeria porphyrostoma (Kunze) Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium uncinatum Peck & Clinton SPECIES
-=======
+# Clasterosporium uncinatum Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Woloszynskia polonica (Woloszynska) Thompson SPECIES
-=======
+# Woloszynskia pascheri (Suchlandt) Stosch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

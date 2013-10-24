@@ -1,5 +1,4 @@
-Tuburcinia lolii Kawecka-Starmachowa {?} SPECIES
-=======
+# Tuburcinia lolii Kawecka-Starmachowa {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina gomphandrae Hosag. & C.K. Biju SPECIES
-=======
+# Asterina gomphandrae Hosag. & C.K. Biju SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius carminascens Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius carminascens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

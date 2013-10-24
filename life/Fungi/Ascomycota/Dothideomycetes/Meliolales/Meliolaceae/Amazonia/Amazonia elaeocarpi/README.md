@@ -1,5 +1,4 @@
-Amazonia elaeocarpi Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
-=======
+# Amazonia elaeocarpi Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
 
 #### Status
 ACCEPTED

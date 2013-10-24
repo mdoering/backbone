@@ -1,5 +1,4 @@
-Puccinia blyttii De Toni SPECIES
-=======
+# Puccinia blyttii De Toni SPECIES
 
 #### Status
 ACCEPTED

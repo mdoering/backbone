@@ -1,5 +1,4 @@
-Methylomonas aurantiaca Bowman et al., 1990 SPECIES
-=======
+# Methylomonas aurantiaca Bowman et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanotaenium ari var. ari (Cooke) Lagerh. VARIETY
-=======
+# Melanustilospora ari (Cooke) Denchev, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 15: 98 (1899)
+Mycotaxon 87: 476 (2003)
 
 #### Original name
-Melanotaenium ari var. ari (Cooke) Lagerh.
+Protomyces ari Cooke, 1872
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora atroflavens (Kremp.) Vain. SPECIES
-=======
+# Lecanora atroflavens (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED

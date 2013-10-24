@@ -1,5 +1,4 @@
-Syncephalidium penicillatum Badura SPECIES
-=======
+# Syncephalidium penicillatum Badura SPECIES
 
 #### Status
 ACCEPTED

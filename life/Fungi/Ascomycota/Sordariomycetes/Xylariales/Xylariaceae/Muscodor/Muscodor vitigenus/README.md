@@ -1,5 +1,4 @@
-Muscodor vitigenus Daisy, Strobel, Ezra & W.M. Hess, 2002 SPECIES
-=======
+# Muscodor vitigenus Daisy, Strobel, Ezra & W.M. Hess, 2002 SPECIES
 
 #### Status
 ACCEPTED

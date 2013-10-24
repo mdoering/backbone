@@ -1,17 +1,16 @@
-Helmisporium asterinoides Sacc. & P. Syd. SPECIES
-=======
+# Helminthosporium asterinoides Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Saccardo, Mem. Reale Ist. Veneto Sci. 13 (reprint) (1902)
 
 #### Original name
-Helmisporium asterinoides Sacc. & P. Syd.
+Helminthosporium asterinoides Sacc. & P. Syd.
 
 ### Remarks
 null

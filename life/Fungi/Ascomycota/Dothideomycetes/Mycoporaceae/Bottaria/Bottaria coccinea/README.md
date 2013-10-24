@@ -1,5 +1,4 @@
-Bottaria coccinea (Müll. Arg.) Vain. SPECIES
-=======
+# Bottaria coccinea (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

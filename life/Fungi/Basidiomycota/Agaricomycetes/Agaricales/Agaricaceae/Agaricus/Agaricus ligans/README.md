@@ -1,5 +1,4 @@
-Agaricus ligans Britzelm. SPECIES
-=======
+# Agaricus ligans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

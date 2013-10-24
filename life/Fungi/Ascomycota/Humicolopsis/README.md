@@ -1,5 +1,4 @@
-Humicolopsis Verona, 1977 GENUS
-=======
+# Humicolopsis Verona, 1977 GENUS
 
 #### Status
 ACCEPTED

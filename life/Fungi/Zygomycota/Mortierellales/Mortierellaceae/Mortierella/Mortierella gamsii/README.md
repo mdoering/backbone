@@ -1,17 +1,16 @@
-Mortierella spinosa var. spinosa Linnem. VARIETY
-=======
+# Mortierella gamsii Milko, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 130: 214 (1936)
+Opred. Mukor. Gribov (Kiev) 76 (1974)
 
 #### Original name
-Mortierella spinosa var. spinosa Linnem.
+Mortierella gamsii Milko, 1974
 
 ### Remarks
 null

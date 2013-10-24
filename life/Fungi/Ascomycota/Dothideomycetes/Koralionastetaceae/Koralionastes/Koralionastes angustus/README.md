@@ -1,5 +1,4 @@
-Koralionastes angustus Kohlm. & Volkm.-Kohlm., 1987 SPECIES
-=======
+# Koralionastes angustus Kohlm. & Volkm.-Kohlm., 1987 SPECIES
 
 #### Status
 ACCEPTED

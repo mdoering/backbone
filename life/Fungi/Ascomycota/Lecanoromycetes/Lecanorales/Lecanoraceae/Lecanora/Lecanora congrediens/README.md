@@ -1,5 +1,4 @@
-Lecanora congrediens Nyl. SPECIES
-=======
+# Lecanora congrediens Nyl. SPECIES
 
 #### Status
 ACCEPTED

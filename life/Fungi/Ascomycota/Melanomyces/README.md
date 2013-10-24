@@ -1,5 +1,4 @@
-Melanomyces Syd. & P. Syd. GENUS
-=======
+# Melanomyces Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

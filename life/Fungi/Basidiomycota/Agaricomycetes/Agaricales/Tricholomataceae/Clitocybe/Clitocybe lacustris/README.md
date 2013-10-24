@@ -1,5 +1,4 @@
-Clitocybe lacustris Ferry SPECIES
-=======
+# Clitocybe lacustris Ferry SPECIES
 
 #### Status
 ACCEPTED

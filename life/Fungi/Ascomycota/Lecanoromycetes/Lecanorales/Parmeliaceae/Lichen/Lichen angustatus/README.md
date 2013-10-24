@@ -1,5 +1,4 @@
-Lichen angustatus Hoffm. SPECIES
-=======
+# Lichen angustatus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

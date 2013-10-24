@@ -1,5 +1,4 @@
-Caeoma parnassiatum Link SPECIES
-=======
+# Caeoma parnassiatum Link SPECIES
 
 #### Status
 ACCEPTED

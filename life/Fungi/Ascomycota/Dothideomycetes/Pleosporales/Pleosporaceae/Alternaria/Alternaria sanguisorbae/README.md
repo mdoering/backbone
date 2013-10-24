@@ -1,5 +1,4 @@
-Alternaria sanguisorbae M.X. Gao & T.Y. Zhang SPECIES
-=======
+# Alternaria sanguisorbae M.X. Gao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

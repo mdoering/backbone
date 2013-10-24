@@ -1,5 +1,4 @@
-Psychospyris Riedel & Sanfilippo, 1971 GENUS
-=======
+# Psychospyris Riedel & Sanfilippo, 1971 GENUS
 
 #### Status
 ACCEPTED

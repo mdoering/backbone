@@ -1,5 +1,4 @@
-Gymnopilus aurantiobrunneus Z.S. Bi SPECIES
-=======
+# Gymnopilus aurantiobrunneus Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

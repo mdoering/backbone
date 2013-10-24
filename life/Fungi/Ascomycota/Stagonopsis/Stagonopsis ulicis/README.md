@@ -1,5 +1,4 @@
-Stagonopsis ulicis Dias & Sousa da Câmara SPECIES
-=======
+# Stagonopsis ulicis Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

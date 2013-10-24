@@ -1,5 +1,4 @@
-Ceratostoma barbata Fr. SPECIES
-=======
+# Ceratostoma barbata Fr. SPECIES
 
 #### Status
 ACCEPTED

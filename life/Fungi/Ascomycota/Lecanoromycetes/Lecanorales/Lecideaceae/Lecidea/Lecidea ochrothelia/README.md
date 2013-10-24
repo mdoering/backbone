@@ -1,5 +1,4 @@
-Lecidea ochrothelia Vain. SPECIES
-=======
+# Lecidea ochrothelia Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium nolinae A.W. Ramaley SPECIES
-=======
+# Microthyrium nolinae A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

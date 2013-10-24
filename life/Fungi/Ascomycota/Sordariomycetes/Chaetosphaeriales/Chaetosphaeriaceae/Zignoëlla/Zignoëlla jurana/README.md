@@ -1,5 +1,4 @@
-Zignoëlla jurana Sacc. & Berl. SPECIES
-=======
+# Zignoëlla jurana Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

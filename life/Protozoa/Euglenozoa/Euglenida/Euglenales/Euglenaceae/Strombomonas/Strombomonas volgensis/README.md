@@ -1,5 +1,4 @@
-Strombomonas volgensis var. humerosa Tschernow VARIETY
-=======
+# Strombomonas volgensis (Lemmermann) Deflandre SPECIES
 
 #### Status
 ACCEPTED

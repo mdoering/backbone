@@ -1,5 +1,4 @@
-Malcolmiella rhodopsis (Tuck.) Kalb & Lücking SPECIES
-=======
+# Malcolmiella rhodopsis (Tuck.) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

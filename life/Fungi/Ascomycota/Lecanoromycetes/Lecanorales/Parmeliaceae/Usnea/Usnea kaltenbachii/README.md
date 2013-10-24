@@ -1,5 +1,4 @@
-Usnea kaltenbachii Riedl SPECIES
-=======
+# Usnea kaltenbachii Riedl SPECIES
 
 #### Status
 ACCEPTED

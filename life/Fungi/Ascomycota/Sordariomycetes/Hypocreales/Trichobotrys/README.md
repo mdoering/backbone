@@ -1,5 +1,4 @@
-Trichobotrys Penz. & Sacc. GENUS
-=======
+# Trichobotrys Penz. & Sacc. GENUS
 
 #### Status
 ACCEPTED

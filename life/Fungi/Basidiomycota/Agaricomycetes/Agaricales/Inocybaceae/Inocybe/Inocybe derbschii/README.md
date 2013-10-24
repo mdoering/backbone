@@ -1,5 +1,4 @@
-Inocybe derbschii Schwöbel & Stangl SPECIES
-=======
+# Inocybe derbschii Schwöbel & Stangl SPECIES
 
 #### Status
 ACCEPTED

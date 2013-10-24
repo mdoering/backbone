@@ -1,5 +1,4 @@
-Cortinarius pseudophlegma Rob. Henry SPECIES
-=======
+# Cortinarius pseudophlegma Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

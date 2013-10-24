@@ -1,5 +1,4 @@
-Laboulbenia insularis Thaxt. SPECIES
-=======
+# Laboulbenia insularis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

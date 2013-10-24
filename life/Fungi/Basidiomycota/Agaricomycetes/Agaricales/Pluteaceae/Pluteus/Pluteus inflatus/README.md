@@ -1,5 +1,4 @@
-Pluteus inflatus var. alneus Velen. VARIETY
-=======
+# Pluteus inflatus Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Novitates Mycologicae 145 (1939)
+Ceské Houby 3: 609 (1921)
 
 #### Original name
-Pluteus inflatus var. alneus Velen.
+Pluteus inflatus Velen.
 
 ### Remarks
 null

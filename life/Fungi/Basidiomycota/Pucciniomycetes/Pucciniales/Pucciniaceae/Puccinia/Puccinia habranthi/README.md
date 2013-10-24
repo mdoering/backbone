@@ -1,5 +1,4 @@
-Puccinia habranthi Dietel & Neger SPECIES
-=======
+# Puccinia habranthi Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

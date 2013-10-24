@@ -1,5 +1,4 @@
-Stereum rimosum Berk. SPECIES
-=======
+# Stereum rimosum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria cryptosphaeria Fuckel SPECIES
-=======
+# Sphaeria cryptosphaeria Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lasiella mutabilis (Pers.) Quél. SPECIES
-=======
+# Pseudotrichia mutabilis (Pers.) Wehm., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi of Maritime Provinces 35 (1950)
 
 #### Original name
 Sphaeria mutabilis Pers., 1798

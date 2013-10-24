@@ -1,5 +1,4 @@
-Micropeltis aroidicola F. Stevens & Manter SPECIES
-=======
+# Micropeltis aroidicola F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

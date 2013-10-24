@@ -1,5 +1,4 @@
-Sphaerella guadarramica Gonz. Frag. SPECIES
-=======
+# Sphaerella guadarramica Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

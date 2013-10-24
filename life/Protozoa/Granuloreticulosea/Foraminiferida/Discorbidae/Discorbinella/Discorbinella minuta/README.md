@@ -1,5 +1,4 @@
-Discorbinella minuta SPECIES
-=======
+# Discorbinella minuta SPECIES
 
 #### Status
 ACCEPTED

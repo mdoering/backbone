@@ -1,14 +1,13 @@
-Bovistoides torrendii Lloyd, 1922 SPECIES
-=======
+# Acutocapillitium torrendii (Lloyd) P. Ponce de León, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7(66): 1116 (1922)
+Fieldiana, Bot. 38(4): 25 (1976)
 
 #### Original name
 Bovistoides torrendii Lloyd, 1922

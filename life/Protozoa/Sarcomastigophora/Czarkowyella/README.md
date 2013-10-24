@@ -1,5 +1,4 @@
-Czarkowyella Gawor-Biedowa, 1987 GENUS
-=======
+# Czarkowyella Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

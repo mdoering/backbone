@@ -1,5 +1,4 @@
-Mallomonas miriabilis SPECIES
-=======
+# Mallomonas miriabilis SPECIES
 
 #### Status
 ACCEPTED

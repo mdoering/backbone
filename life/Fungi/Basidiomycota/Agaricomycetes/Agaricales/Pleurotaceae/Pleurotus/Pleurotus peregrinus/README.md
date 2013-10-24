@@ -1,5 +1,4 @@
-Pleurotus peregrinus Hazsl. SPECIES
-=======
+# Pleurotus peregrinus Hazsl. SPECIES
 
 #### Status
 ACCEPTED

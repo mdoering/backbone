@@ -1,5 +1,4 @@
-Dothiorella aucubae (Gabotto) Petr. & Syd. SPECIES
-=======
+# Dothiorella aucubae (Gabotto) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

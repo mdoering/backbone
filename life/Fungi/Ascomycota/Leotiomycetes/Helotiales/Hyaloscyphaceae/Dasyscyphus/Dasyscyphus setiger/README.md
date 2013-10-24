@@ -1,5 +1,4 @@
-Dasyscyphus setiger (W. Phillips) Dennis SPECIES
-=======
+# Dasyscyphus setiger (W. Phillips) Dennis SPECIES
 
 #### Status
 ACCEPTED

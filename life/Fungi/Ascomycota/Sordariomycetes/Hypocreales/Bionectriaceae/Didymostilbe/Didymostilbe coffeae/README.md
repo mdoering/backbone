@@ -1,5 +1,4 @@
-Didymostilbe coffeae Henn., 1902 SPECIES
-=======
+# Didymostilbe coffeae Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

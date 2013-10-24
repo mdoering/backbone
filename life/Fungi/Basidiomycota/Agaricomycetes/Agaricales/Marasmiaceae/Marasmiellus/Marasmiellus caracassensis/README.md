@@ -1,5 +1,4 @@
-Marasmiellus caracassensis Dennis ex Singer SPECIES
-=======
+# Marasmiellus caracassensis Dennis ex Singer SPECIES
 
 #### Status
 ACCEPTED

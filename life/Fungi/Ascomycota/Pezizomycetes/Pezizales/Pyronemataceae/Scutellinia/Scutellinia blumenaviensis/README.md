@@ -1,5 +1,4 @@
-Scutellinia blumenaviensis (Henn.) Le Gal SPECIES
-=======
+# Scutellinia blumenaviensis (Henn.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

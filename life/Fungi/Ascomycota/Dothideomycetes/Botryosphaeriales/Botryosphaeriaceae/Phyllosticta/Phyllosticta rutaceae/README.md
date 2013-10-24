@@ -1,5 +1,4 @@
-Phyllosticta rutaceae Henn. SPECIES
-=======
+# Phyllosticta rutaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptococcus pluranimalium Devriese et al., 1999 SPECIES
-=======
+# Streptococcus pluranimalium Devriese et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

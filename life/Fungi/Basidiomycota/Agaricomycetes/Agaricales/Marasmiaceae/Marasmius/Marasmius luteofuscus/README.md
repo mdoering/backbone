@@ -1,5 +1,4 @@
-Marasmius luteofuscus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius luteofuscus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

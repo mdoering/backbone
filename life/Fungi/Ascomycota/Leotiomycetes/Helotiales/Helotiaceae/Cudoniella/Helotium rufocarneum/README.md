@@ -1,5 +1,4 @@
-Helotium rufocarneum Berk. & Broome SPECIES
-=======
+# Helotium rufocarneum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium corni (P. Karst.) Sacc. SPECIES
-=======
+# Corticium corni (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

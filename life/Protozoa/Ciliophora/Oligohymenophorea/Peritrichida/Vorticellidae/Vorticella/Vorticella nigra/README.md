@@ -1,5 +1,4 @@
-Vorticella nigra sensu Dumas, 1930 SPECIES
-=======
+# Vorticella nigra sensu Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia umbraticoides Corner SPECIES
-=======
+# Collybia umbraticoides Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea allinita Nyl. SPECIES
-=======
+# Lecidea allinita Nyl. SPECIES
 
 #### Status
 ACCEPTED

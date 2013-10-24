@@ -1,5 +1,4 @@
-Poria bresadolae Bourdot & Galzin SPECIES
-=======
+# Poria bresadolae Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

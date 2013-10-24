@@ -1,5 +1,4 @@
-Ganoderma wuhuense X.F. Ren SPECIES
-=======
+# Ganoderma wuhuense X.F. Ren SPECIES
 
 #### Status
 ACCEPTED

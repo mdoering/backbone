@@ -1,5 +1,4 @@
-Belonium intermedium (Rehm) Seaver SPECIES
-=======
+# Belonium intermedium (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

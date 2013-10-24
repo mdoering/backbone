@@ -1,5 +1,4 @@
-Discosporina commutata Petr., 1952 SPECIES
-=======
+# Discosporina commutata Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

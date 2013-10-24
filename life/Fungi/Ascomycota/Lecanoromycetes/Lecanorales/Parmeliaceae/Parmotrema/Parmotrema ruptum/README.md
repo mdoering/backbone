@@ -1,5 +1,4 @@
-Parmotrema ruptum (Lynge) Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Parmotrema ruptum (Lynge) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

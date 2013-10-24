@@ -1,5 +1,4 @@
-Diplodina melaena anon. SPECIES
-=======
+# Diplodina melaena anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete ochromarginata P.H.B. Talbot, 1948 SPECIES
-=======
+# Hymenochaete ochromarginata P.H.B. Talbot, 1948 SPECIES
 
 #### Status
 ACCEPTED

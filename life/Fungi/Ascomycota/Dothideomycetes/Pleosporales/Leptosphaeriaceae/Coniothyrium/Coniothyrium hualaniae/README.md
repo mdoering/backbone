@@ -1,5 +1,4 @@
-Coniothyrium hualaniae (Speg.) Petr. & Syd. SPECIES
-=======
+# Coniothyrium hualaniae (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

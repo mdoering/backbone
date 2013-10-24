@@ -1,5 +1,4 @@
-Panus subtorulosus Cooke SPECIES
-=======
+# Panus subtorulosus Cooke SPECIES
 
 #### Status
 ACCEPTED

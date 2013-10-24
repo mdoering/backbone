@@ -1,14 +1,13 @@
-Paxillus muelleri Berk., 1887 SPECIES
-=======
+# Austropaxillus muelleri (Berk.) Bresinsky & Jarosch, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 986 (1887)
+in Bresinsky, Jarosch, Fischer, Schönberger & Wittmann-Bresinsky, Pl. Biol. 1(3): 332 (1999)
 
 #### Original name
 Paxillus muelleri Berk., 1887

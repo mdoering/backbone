@@ -1,5 +1,4 @@
-Cortinarius melitosarx Soop SPECIES
-=======
+# Cortinarius melitosarx Soop SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia geranii-phaei (C. Massal.) Magnus SPECIES
-=======
+# Ramularia geranii-phaei (C. Massal.) Magnus SPECIES
 
 #### Status
 ACCEPTED

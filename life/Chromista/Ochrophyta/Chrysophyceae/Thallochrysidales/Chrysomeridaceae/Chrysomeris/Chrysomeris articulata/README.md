@@ -1,5 +1,4 @@
-Chrysomeris articulata N. Carter SPECIES
-=======
+# Chrysomeris articulata N. Carter SPECIES
 
 #### Status
 ACCEPTED

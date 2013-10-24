@@ -1,5 +1,4 @@
-Hygrophorus mollis (Berk. & Broome) Kauffman SPECIES
-=======
+# Hygrophorus mollis (Berk. & Broome) Kauffman SPECIES
 
 #### Status
 ACCEPTED

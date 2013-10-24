@@ -1,5 +1,4 @@
-Tremella setulosa Henn. SPECIES
-=======
+# Tremella setulosa Henn. SPECIES
 
 #### Status
 ACCEPTED

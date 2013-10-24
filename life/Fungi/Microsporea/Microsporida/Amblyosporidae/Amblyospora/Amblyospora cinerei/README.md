@@ -1,5 +1,4 @@
-Amblyospora cinerei SPECIES
-=======
+# Amblyospora cinerei SPECIES
 
 #### Status
 ACCEPTED

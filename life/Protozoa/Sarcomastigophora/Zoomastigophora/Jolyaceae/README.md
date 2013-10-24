@@ -1,5 +1,4 @@
-Jolyaceae FAMILY
-=======
+# Jolyaceae FAMILY
 
 #### Status
 ACCEPTED

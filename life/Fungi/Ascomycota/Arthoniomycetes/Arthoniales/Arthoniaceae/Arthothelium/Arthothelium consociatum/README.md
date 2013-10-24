@@ -1,5 +1,4 @@
-Arthothelium consociatum Makhija & Patw. SPECIES
-=======
+# Arthothelium consociatum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

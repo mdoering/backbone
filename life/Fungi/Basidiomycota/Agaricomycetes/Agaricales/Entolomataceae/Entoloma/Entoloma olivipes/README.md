@@ -1,5 +1,4 @@
-Entoloma olivipes A. Pearson ex Pegler SPECIES
-=======
+# Entoloma olivipes A. Pearson ex Pegler SPECIES
 
 #### Status
 ACCEPTED

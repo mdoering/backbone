@@ -1,5 +1,4 @@
-Scopulariopsis castellanii M. Ota & Komaya SPECIES
-=======
+# Scopulariopsis castellanii M. Ota & Komaya SPECIES
 
 #### Status
 ACCEPTED

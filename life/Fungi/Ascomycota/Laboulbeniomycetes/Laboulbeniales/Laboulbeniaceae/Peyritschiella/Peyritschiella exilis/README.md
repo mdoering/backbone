@@ -1,5 +1,4 @@
-Peyritschiella exilis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella exilis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha griseus Pers. SPECIES
-=======
+# Dasyscyphus griseus Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha griseus Pers.
+Dasyscyphus griseus Pers.
 
 ### Remarks
 null

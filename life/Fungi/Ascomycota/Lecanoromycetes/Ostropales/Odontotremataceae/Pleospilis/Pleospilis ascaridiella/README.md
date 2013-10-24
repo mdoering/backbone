@@ -1,14 +1,13 @@
-Spilomela ascaridiella (Nyl.) D. Hawksw. SPECIES
-=======
+# Pleospilis ascaridiella (Nyl.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Notes R. bot. Gdn Edinb. 38(1): 175 (1980)
+Lichenologist 15(1): 22 (1983)
 
 #### Original name
 Lecidea ascaridiella Nyl.

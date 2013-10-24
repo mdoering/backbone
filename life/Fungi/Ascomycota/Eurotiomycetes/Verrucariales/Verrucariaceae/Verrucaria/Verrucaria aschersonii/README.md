@@ -1,5 +1,4 @@
-Verrucaria aschersonii (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria aschersonii (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

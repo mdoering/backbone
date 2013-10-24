@@ -1,5 +1,4 @@
-Caloplaca athallina Darb. SPECIES
-=======
+# Caloplaca athallina Darb. SPECIES
 
 #### Status
 ACCEPTED

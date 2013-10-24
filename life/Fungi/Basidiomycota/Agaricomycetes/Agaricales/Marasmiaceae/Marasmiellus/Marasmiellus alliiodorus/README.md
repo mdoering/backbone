@@ -1,5 +1,4 @@
-Marasmiellus alliiodorus (Mont.) Singer SPECIES
-=======
+# Marasmiellus alliiodorus (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

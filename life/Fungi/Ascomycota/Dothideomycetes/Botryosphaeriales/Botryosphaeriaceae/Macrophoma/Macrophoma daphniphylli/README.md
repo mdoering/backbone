@@ -1,5 +1,4 @@
-Macrophoma daphniphylli Dzhalag. SPECIES
-=======
+# Macrophoma daphniphylli Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

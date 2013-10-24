@@ -1,5 +1,4 @@
-Cryptodiscus Corda, 1838 GENUS
-=======
+# Cryptodiscus Corda, 1838 GENUS
 
 #### Status
 ACCEPTED

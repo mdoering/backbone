@@ -1,17 +1,16 @@
-Pyricularia higginsii var. higginsii VARIETY
-=======
+# Dactylaria higginsii (Luttr.) M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 46(6): 810 (1954)
+Dematiaceous Hyphomycetes (Kew) 173 (1976)
 
 #### Original name
-Pyricularia higginsii var. higginsii
+Pyricularia higginsii Luttr., 1954
 
 ### Remarks
 null

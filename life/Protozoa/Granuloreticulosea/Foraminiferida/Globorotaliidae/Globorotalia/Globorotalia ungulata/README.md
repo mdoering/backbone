@@ -1,5 +1,4 @@
-Globorotalia ungulata Bermúdez, 1960 SPECIES
-=======
+# Globorotalia ungulata Bermúdez, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amarenographium O.E. Erikss. GENUS
-=======
+# Amarenographium O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

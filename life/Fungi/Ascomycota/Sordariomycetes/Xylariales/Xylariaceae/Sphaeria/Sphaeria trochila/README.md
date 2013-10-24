@@ -1,5 +1,4 @@
-Sphaeria trochila Fr. SPECIES
-=======
+# Sphaeria trochila Fr. SPECIES
 
 #### Status
 ACCEPTED

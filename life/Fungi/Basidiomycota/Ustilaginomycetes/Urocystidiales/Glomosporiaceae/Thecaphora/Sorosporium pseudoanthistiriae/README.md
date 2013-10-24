@@ -1,5 +1,4 @@
-Sorosporium pseudoanthistiriae Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Sorosporium pseudoanthistiriae Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia indigens (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia indigens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerophaga Denger, K., Warthmann, R., Ludwig, W. & Schink GENUS
-=======
+# Anaerophaga Denger, K., Warthmann, R., Ludwig, W. & Schink GENUS
 
 #### Status
 ACCEPTED

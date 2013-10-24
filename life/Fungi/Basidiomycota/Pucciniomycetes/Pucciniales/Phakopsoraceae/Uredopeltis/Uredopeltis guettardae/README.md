@@ -1,5 +1,4 @@
-Uredopeltis guettardae Buriticá & J.F. Hennen, 1998 SPECIES
-=======
+# Uredopeltis guettardae Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
 ACCEPTED

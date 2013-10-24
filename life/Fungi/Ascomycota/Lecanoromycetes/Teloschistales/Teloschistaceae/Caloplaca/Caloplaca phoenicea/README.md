@@ -1,5 +1,4 @@
-Caloplaca phoenicea (Hepp) Tav. SPECIES
-=======
+# Caloplaca phoenicea (Hepp) Tav. SPECIES
 
 #### Status
 ACCEPTED

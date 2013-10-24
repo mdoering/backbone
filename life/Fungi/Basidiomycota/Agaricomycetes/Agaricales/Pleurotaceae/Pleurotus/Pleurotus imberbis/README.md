@@ -1,5 +1,4 @@
-Pleurotus imberbis (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus imberbis (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

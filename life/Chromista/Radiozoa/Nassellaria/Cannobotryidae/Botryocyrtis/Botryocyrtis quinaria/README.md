@@ -1,5 +1,4 @@
-Botryocyrtis quinaria Ehrenberg, 1872 SPECIES
-=======
+# Botryocyrtis quinaria Ehrenberg, 1872 SPECIES
 
 #### Status
 ACCEPTED

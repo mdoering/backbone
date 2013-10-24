@@ -1,5 +1,4 @@
-Calicium aspersum Pers. SPECIES
-=======
+# Calicium aspersum Pers. SPECIES
 
 #### Status
 ACCEPTED

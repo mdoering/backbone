@@ -1,5 +1,4 @@
-Alcaligenaceae FAMILY
-=======
+# Alcaligenaceae FAMILY
 
 #### Status
 ACCEPTED

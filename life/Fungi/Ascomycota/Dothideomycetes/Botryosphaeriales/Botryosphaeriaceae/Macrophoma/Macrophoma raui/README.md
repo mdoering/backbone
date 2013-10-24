@@ -1,5 +1,4 @@
-Macrophoma raui (Peck) Berl. & Voglino SPECIES
-=======
+# Macrophoma raui (Peck) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

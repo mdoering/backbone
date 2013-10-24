@@ -1,5 +1,4 @@
-Eupropolis europaea Sacc. SPECIES
-=======
+# Eupropolis europaea Sacc. SPECIES
 
 #### Status
 ACCEPTED

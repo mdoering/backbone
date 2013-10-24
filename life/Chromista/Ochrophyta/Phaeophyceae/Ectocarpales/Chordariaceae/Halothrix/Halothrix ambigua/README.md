@@ -1,5 +1,4 @@
-Halothrix ambigua Yamada SPECIES
-=======
+# Halothrix ambigua Yamada SPECIES
 
 #### Status
 ACCEPTED

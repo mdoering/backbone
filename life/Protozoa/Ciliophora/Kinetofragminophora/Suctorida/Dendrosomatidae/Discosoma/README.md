@@ -1,5 +1,4 @@
-Discosoma Swarczewski, 1928 GENUS
-=======
+# Discosoma Swarczewski, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria rimosa Oudem. SPECIES
-=======
+# Placosphaeria rimosa Oudem. SPECIES
 
 #### Status
 ACCEPTED

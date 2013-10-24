@@ -1,5 +1,4 @@
-Uredo hilariae Ellis & Tracy SPECIES
-=======
+# Uredo hilariae Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

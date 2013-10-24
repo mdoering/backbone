@@ -1,5 +1,4 @@
-Septoria scabra Rodigin SPECIES
-=======
+# Septoria scabra Rodigin SPECIES
 
 #### Status
 ACCEPTED

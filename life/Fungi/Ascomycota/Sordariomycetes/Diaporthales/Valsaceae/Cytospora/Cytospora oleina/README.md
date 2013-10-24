@@ -1,5 +1,4 @@
-Cytospora oleina Berl. SPECIES
-=======
+# Cytospora oleina Berl. SPECIES
 
 #### Status
 ACCEPTED

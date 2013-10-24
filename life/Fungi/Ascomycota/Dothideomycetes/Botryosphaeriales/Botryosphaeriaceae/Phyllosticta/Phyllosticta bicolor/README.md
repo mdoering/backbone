@@ -1,5 +1,4 @@
-Phyllosticta bicolor Peck SPECIES
-=======
+# Phyllosticta bicolor Peck SPECIES
 
 #### Status
 ACCEPTED

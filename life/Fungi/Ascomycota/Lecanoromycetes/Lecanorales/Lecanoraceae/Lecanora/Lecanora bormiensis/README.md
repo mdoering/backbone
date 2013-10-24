@@ -1,5 +1,4 @@
-Lecanora bormiensis Nyl. SPECIES
-=======
+# Lecanora bormiensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

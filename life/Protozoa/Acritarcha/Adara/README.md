@@ -1,5 +1,4 @@
-Adara A. Fombella Blanco, 1977 GENUS
-=======
+# Adara A. Fombella Blanco, 1977 GENUS
 
 #### Status
 ACCEPTED

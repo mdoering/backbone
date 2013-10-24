@@ -1,5 +1,4 @@
-Marasmius molfinoanus Speg. SPECIES
-=======
+# Marasmius molfinoanus Speg. SPECIES
 
 #### Status
 ACCEPTED

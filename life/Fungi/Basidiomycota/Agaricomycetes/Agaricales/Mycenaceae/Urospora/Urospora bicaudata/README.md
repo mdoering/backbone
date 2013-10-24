@@ -1,5 +1,4 @@
-Urospora bicaudata Pass. SPECIES
-=======
+# Urospora bicaudata Pass. SPECIES
 
 #### Status
 ACCEPTED

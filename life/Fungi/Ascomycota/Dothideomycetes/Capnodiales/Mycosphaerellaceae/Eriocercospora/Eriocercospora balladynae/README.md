@@ -1,14 +1,13 @@
-Helminthosporium balladynae Hansf., 1945 SPECIES
-=======
+# Eriocercospora balladynae (Hansf.) Deighton, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 157(1944-45): 39 (1945)
+Mycol. Pap. 118: 6 (1969)
 
 #### Original name
 Helminthosporium balladynae Hansf., 1945

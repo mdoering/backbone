@@ -1,5 +1,4 @@
-Sciniatosporium pedunculatum (Ellis & Everh.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium pedunculatum (Ellis & Everh.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

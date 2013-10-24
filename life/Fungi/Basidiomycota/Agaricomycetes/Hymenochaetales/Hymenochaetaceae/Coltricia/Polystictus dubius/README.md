@@ -1,5 +1,4 @@
-Polystictus dubius (Berk.) Cooke SPECIES
-=======
+# Polystictus dubius (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

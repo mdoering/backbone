@@ -1,5 +1,4 @@
-Clavaria subtilissima S. Imai SPECIES
-=======
+# Clavaria subtilissima S. Imai SPECIES
 
 #### Status
 ACCEPTED

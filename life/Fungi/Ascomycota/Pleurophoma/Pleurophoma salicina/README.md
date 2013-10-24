@@ -1,5 +1,4 @@
-Pleurophoma salicina Bubák & Picb., 1937 SPECIES
-=======
+# Pleurophoma salicina Bubák & Picb., 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera patagonica Räsänen SPECIES
-=======
+# Peltigera patagonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

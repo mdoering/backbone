@@ -1,5 +1,4 @@
-Uredo quercus-myrsinifoliae Henn. SPECIES
-=======
+# Uredo quercus-myrsinifoliae Henn. SPECIES
 
 #### Status
 ACCEPTED

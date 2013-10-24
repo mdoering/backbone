@@ -1,5 +1,4 @@
-Aecidium rhagadioli Pass. SPECIES
-=======
+# Aecidium rhagadioli Pass. SPECIES
 
 #### Status
 ACCEPTED

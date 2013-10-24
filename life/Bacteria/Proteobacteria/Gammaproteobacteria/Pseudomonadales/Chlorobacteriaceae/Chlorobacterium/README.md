@@ -1,5 +1,4 @@
-Chlorobacterium Lauterborn, 1916 GENUS
-=======
+# Chlorobacterium Lauterborn, 1916 GENUS
 
 #### Status
 ACCEPTED

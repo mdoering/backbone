@@ -1,5 +1,4 @@
-Uredo hawaiiensis Arthur SPECIES
-=======
+# Uredo hawaiiensis Arthur SPECIES
 
 #### Status
 ACCEPTED

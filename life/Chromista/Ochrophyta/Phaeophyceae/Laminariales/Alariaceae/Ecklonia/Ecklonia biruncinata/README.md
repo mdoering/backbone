@@ -1,8 +1,7 @@
-Capea biruncinata (Bory de Saint-Vincent) Montagne SPECIES
-=======
+# Ecklonia biruncinata (Bory de Saint-Vincent) Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

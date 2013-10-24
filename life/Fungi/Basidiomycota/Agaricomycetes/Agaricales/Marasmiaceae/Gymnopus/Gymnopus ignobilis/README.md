@@ -1,5 +1,4 @@
-Gymnopus ignobilis (P. Karst.) Murrill SPECIES
-=======
+# Gymnopus ignobilis (P. Karst.) Murrill SPECIES
 
 #### Status
 ACCEPTED

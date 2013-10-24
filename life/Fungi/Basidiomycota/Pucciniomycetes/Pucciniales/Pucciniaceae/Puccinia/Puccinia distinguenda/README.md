@@ -1,5 +1,4 @@
-Puccinia distinguenda P. Syd. SPECIES
-=======
+# Puccinia distinguenda P. Syd. SPECIES
 
 #### Status
 ACCEPTED

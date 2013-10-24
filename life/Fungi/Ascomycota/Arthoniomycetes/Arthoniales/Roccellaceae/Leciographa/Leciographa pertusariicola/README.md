@@ -1,5 +1,4 @@
-Leciographa pertusariicola (Willey ex Tuck.) Fink SPECIES
-=======
+# Leciographa pertusariicola (Willey ex Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrocollema Vain. GENUS
-=======
+# Gyrocollema Vain. GENUS
 
 #### Status
 ACCEPTED

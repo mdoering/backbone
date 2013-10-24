@@ -1,5 +1,4 @@
-Meliola hancorniae J.L. Bezerra & T.T. Barros SPECIES
-=======
+# Meliola hancorniae J.L. Bezerra & T.T. Barros SPECIES
 
 #### Status
 ACCEPTED

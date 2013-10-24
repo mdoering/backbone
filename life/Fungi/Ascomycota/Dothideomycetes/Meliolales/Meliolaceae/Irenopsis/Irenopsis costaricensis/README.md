@@ -1,5 +1,4 @@
-Irenopsis costaricensis F. Stevens SPECIES
-=======
+# Irenopsis costaricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

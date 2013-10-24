@@ -1,5 +1,4 @@
-Cyphella cyatheae S. Ito & S. Imai SPECIES
-=======
+# Cyphella cyatheae S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

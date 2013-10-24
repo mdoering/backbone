@@ -1,5 +1,4 @@
-Asteridium scabiosae (Richon) Sacc. SPECIES
-=======
+# Asteridium scabiosae (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

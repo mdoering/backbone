@@ -1,5 +1,4 @@
-Striglia fuliginosa (Lév.) Kuntze SPECIES
-=======
+# Striglia fuliginosa (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

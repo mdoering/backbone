@@ -1,5 +1,4 @@
-Sphaerostylomma Haeckel, 1887 GENUS
-=======
+# Sphaerostylomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

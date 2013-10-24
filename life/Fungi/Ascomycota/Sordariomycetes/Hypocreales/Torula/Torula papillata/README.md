@@ -1,5 +1,4 @@
-Torula papillata Bonord. SPECIES
-=======
+# Torula papillata Bonord. SPECIES
 
 #### Status
 ACCEPTED

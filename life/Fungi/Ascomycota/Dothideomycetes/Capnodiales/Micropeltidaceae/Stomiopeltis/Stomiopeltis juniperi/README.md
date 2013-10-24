@@ -1,5 +1,4 @@
-Stomiopeltis juniperi Dennis & Spooner SPECIES
-=======
+# Stomiopeltis juniperi Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

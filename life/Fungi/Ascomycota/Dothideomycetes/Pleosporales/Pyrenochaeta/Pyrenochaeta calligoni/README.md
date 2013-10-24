@@ -1,5 +1,4 @@
-Pyrenochaeta calligoni Kravtzev SPECIES
-=======
+# Pyrenochaeta calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

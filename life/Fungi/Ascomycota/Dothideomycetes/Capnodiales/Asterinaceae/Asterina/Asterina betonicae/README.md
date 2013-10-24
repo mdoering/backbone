@@ -1,5 +1,4 @@
-Asterina betonicae Hosag. & Goos SPECIES
-=======
+# Asterina betonicae Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

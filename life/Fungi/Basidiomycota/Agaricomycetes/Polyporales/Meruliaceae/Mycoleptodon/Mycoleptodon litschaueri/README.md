@@ -1,5 +1,4 @@
-Mycoleptodon litschaueri Bourdot & Galzin SPECIES
-=======
+# Mycoleptodon litschaueri Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

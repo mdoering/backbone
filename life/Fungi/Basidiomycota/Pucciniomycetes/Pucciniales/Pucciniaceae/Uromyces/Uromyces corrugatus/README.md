@@ -1,5 +1,4 @@
-Uromyces corrugatus Speg. SPECIES
-=======
+# Uromyces corrugatus Speg. SPECIES
 
 #### Status
 ACCEPTED

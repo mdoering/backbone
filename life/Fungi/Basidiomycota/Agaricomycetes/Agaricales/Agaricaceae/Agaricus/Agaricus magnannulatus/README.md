@@ -1,5 +1,4 @@
-Agaricus magnannulatus Kalchbr. SPECIES
-=======
+# Agaricus magnannulatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

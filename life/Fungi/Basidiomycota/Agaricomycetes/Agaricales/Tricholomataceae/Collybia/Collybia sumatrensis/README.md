@@ -1,5 +1,4 @@
-Collybia sumatrensis Lév. SPECIES
-=======
+# Collybia sumatrensis Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gazelletta hexanema Haeckel, 1887 SPECIES
-=======
+# Gazelletta hexanema Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

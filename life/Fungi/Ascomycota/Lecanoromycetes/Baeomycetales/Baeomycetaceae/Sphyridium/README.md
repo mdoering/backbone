@@ -1,5 +1,4 @@
-Sphyridium GENUS
-=======
+# Sphyridium GENUS
 
 #### Status
 ACCEPTED

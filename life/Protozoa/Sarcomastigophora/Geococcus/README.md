@@ -1,5 +1,4 @@
-Geococcus Francé, 1913 GENUS
-=======
+# Geococcus Francé, 1913 GENUS
 
 #### Status
 ACCEPTED

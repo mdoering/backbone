@@ -1,17 +1,16 @@
-Camarosporium berberidicolum Delacr. SPECIES
-=======
+# Camarosporium berberidicola Delacr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 6: 141 (1890)
 
 #### Original name
-Camarosporium berberidicolum Delacr.
+Camarosporium berberidicola Delacr.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Pocillaria tahitensis (Reichardt) Kuntze, 1898 SPECIES
-=======
+# Panus tahitensis Reichardt, 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 506 (1898)
+Verh. zool. -bot. Ges. Wein 16: 375 (1866)
 
 #### Original name
 Panus tahitensis Reichardt, 1866

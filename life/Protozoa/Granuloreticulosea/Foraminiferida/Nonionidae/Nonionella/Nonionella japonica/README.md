@@ -1,5 +1,4 @@
-Nonionella japonica var. mexicana Cushman & McCulloch, 1940 VARIETY
-=======
+# Nonionella japonica (Asano, 1938) SPECIES
 
 #### Status
 ACCEPTED

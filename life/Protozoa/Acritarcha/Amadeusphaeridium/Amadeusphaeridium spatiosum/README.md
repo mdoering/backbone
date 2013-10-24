@@ -1,5 +1,4 @@
-Amadeusphaeridium spatiosum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Amadeusphaeridium spatiosum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

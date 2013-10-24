@@ -1,5 +1,4 @@
-Arthonia semi-immersa Wedin & Hafellner SPECIES
-=======
+# Arthonia semi-immersa Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

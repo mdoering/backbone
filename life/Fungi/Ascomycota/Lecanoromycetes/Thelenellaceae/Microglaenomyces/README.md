@@ -1,5 +1,4 @@
-Microglaenomyces GENUS
-=======
+# Microglaenomyces GENUS
 
 #### Status
 ACCEPTED

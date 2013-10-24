@@ -1,5 +1,4 @@
-Octospora spinulosa (Seaver) Yei Z. Wang SPECIES
-=======
+# Octospora spinulosa (Seaver) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

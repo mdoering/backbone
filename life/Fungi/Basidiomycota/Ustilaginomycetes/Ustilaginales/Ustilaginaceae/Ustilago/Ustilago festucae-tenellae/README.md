@@ -1,5 +1,4 @@
-Ustilago festucae-tenellae Henn. SPECIES
-=======
+# Ustilago festucae-tenellae Henn. SPECIES
 
 #### Status
 ACCEPTED

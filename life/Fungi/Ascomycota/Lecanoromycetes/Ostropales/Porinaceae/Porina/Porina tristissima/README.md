@@ -1,5 +1,4 @@
-Porina tristissima Vain. SPECIES
-=======
+# Porina tristissima Vain. SPECIES
 
 #### Status
 ACCEPTED

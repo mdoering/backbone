@@ -1,5 +1,4 @@
-Phragmitensis K.M. Wong, Poon & K.D. Hyde GENUS
-=======
+# Phragmitensis K.M. Wong, Poon & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium ferrugineum Kofoid, 1931 SPECIES
-=======
+# Gyrodinium ferrugineum Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

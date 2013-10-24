@@ -1,5 +1,4 @@
-Propolina Sacc. GENUS
-=======
+# Propolina Sacc. GENUS
 
 #### Status
 ACCEPTED

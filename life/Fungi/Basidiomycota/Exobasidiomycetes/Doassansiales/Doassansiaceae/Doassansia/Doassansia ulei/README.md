@@ -1,5 +1,4 @@
-Doassansia ulei J. Schröt. SPECIES
-=======
+# Doassansia ulei J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus spectabilis M. Chr. & Raper, 1978 SPECIES
-=======
+# Aspergillus spectabilis M. Chr. & Raper, 1978 SPECIES
 
 #### Status
 ACCEPTED

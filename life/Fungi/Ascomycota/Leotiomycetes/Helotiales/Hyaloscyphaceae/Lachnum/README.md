@@ -1,17 +1,16 @@
-Hyphoscypha Bres. GENUS
-=======
+# Lachnum Retzius, 1795 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Brotéria, sér. bot. 2: 89, errata (1903)
+null
 
 #### Original name
-Hyphoscypha Bres.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septolpidium Sparrow GENUS
-=======
+# Septolpidium Sparrow GENUS
 
 #### Status
 ACCEPTED

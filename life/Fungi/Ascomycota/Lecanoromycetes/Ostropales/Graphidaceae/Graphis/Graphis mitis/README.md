@@ -1,5 +1,4 @@
-Graphis mitis Vain. SPECIES
-=======
+# Graphis mitis Vain. SPECIES
 
 #### Status
 ACCEPTED

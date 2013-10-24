@@ -1,5 +1,4 @@
-Elongobula Finlay, 1939 GENUS
-=======
+# Elongobula Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

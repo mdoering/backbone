@@ -1,5 +1,4 @@
-Cryptothecia griseoalba Groenh. SPECIES
-=======
+# Cryptothecia griseoalba Groenh. SPECIES
 
 #### Status
 ACCEPTED

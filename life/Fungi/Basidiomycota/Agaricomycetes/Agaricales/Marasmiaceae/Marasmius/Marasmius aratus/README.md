@@ -1,5 +1,4 @@
-Marasmius aratus Kalchbr. SPECIES
-=======
+# Marasmius aratus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

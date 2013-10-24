@@ -1,5 +1,4 @@
-Bombyliospora angela Herre SPECIES
-=======
+# Bombyliospora angela Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria asphodeli Westend. SPECIES
-=======
+# Septoria asphodeli Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplocladiella scalaroides G. Arnaud ex M.B. Ellis, 1976 SPECIES
-=======
+# Diplocladiella scalaroides G. Arnaud ex M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

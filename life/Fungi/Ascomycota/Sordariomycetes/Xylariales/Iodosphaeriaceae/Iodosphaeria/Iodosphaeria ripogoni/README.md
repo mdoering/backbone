@@ -1,5 +1,4 @@
-Iodosphaeria ripogoni Samuels, E. Müll. & Petrini, 1987 SPECIES
-=======
+# Iodosphaeria ripogoni Samuels, E. Müll. & Petrini, 1987 SPECIES
 
 #### Status
 ACCEPTED

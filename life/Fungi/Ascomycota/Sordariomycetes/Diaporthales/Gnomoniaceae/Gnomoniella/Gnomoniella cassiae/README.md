@@ -1,5 +1,4 @@
-Gnomoniella cassiae Tilak SPECIES
-=======
+# Gnomoniella cassiae Tilak SPECIES
 
 #### Status
 ACCEPTED

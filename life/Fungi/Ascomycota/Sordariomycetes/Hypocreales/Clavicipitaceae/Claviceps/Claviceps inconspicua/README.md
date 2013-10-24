@@ -1,5 +1,4 @@
-Claviceps inconspicua Langdon SPECIES
-=======
+# Claviceps inconspicua Langdon SPECIES
 
 #### Status
 ACCEPTED

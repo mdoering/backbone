@@ -1,5 +1,4 @@
-Lecidea chilena Zahlbr. SPECIES
-=======
+# Lecidea chilena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Emiliania W.W. Hay & H. Mohler in W.W. Hay et al., 1967 GENUS
-=======
+# Emiliania W.W. Hay & H. Mohler in W.W. Hay et al., 1967 GENUS
 
 #### Status
 ACCEPTED

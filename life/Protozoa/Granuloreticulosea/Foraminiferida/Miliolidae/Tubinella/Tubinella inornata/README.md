@@ -1,5 +1,4 @@
-Tubinella inornata SPECIES
-=======
+# Tubinella inornata SPECIES
 
 #### Status
 ACCEPTED

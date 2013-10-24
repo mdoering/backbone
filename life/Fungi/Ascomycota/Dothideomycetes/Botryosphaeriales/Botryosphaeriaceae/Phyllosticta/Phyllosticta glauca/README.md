@@ -1,5 +1,4 @@
-Phyllosticta glauca Cooke SPECIES
-=======
+# Phyllosticta glauca Cooke SPECIES
 
 #### Status
 ACCEPTED

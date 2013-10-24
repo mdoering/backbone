@@ -1,5 +1,4 @@
-Spirochaeta smaragdinae Magot et al., 1998 SPECIES
-=======
+# Spirochaeta smaragdinae Magot et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

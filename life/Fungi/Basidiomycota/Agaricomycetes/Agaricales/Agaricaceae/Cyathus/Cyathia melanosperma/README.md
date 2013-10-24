@@ -1,5 +1,4 @@
-Cyathia melanosperma (Schwein.) V.S. White SPECIES
-=======
+# Cyathia melanosperma (Schwein.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

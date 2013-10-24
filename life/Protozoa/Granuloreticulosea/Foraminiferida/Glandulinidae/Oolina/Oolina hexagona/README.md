@@ -1,5 +1,4 @@
-Oolina hexagona SPECIES
-=======
+# Oolina hexagona SPECIES
 
 #### Status
 ACCEPTED

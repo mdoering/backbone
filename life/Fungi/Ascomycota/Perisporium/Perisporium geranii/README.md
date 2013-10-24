@@ -1,5 +1,4 @@
-Perisporium geranii Bonord. SPECIES
-=======
+# Perisporium geranii Bonord. SPECIES
 
 #### Status
 ACCEPTED

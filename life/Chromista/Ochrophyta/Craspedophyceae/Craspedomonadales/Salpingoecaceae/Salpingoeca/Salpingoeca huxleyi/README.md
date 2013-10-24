@@ -1,5 +1,4 @@
-Salpingoeca huxleyi Ellis, 1930 SPECIES
-=======
+# Salpingoeca huxleyi Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

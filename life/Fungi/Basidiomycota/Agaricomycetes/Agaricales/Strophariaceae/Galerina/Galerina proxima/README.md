@@ -1,5 +1,4 @@
-Galerina proxima A.H. Sm. & Singer SPECIES
-=======
+# Galerina proxima A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

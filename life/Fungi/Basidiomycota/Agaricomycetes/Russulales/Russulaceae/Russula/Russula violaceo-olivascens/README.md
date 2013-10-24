@@ -1,5 +1,4 @@
-Russula violaceo-olivascens Bidaud SPECIES
-=======
+# Russula violaceo-olivascens Bidaud SPECIES
 
 #### Status
 ACCEPTED

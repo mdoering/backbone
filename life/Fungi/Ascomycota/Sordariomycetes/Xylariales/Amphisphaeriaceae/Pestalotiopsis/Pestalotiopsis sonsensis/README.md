@@ -1,5 +1,4 @@
-Pestalotiopsis sonsensis (Henn.) Steyaert SPECIES
-=======
+# Pestalotiopsis sonsensis (Henn.) Steyaert SPECIES
 
 #### Status
 ACCEPTED

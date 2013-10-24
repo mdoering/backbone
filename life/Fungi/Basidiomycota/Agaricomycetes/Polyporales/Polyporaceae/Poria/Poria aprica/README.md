@@ -1,5 +1,4 @@
-Poria aprica (Berk.) Sacc. SPECIES
-=======
+# Poria aprica (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

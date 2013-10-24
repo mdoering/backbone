@@ -1,5 +1,4 @@
-Panus japonicus (Yasuda) Yasuda SPECIES
-=======
+# Panus japonicus (Yasuda) Yasuda SPECIES
 
 #### Status
 ACCEPTED

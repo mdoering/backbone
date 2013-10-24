@@ -1,17 +1,16 @@
-Lecidea undulata H. Magn. SPECIES
-=======
+# Anamylopsora pulcherrima (Vain.) Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 42: 250 (1991)
 
 #### Original name
-null
+Lecidea pulcherrima Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stropharia longistriata Murrill SPECIES
-=======
+# Stropharia longistriata Murrill SPECIES
 
 #### Status
 ACCEPTED

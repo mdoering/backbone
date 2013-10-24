@@ -1,5 +1,4 @@
-Endocarpon ambrosianum (A. Massal.) Servít SPECIES
-=======
+# Endocarpon ambrosianum (A. Massal.) Servít SPECIES
 
 #### Status
 ACCEPTED

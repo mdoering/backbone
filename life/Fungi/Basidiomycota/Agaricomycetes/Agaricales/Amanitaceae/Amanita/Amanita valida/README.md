@@ -1,5 +1,4 @@
-Amanita valida f. valida FORM
-=======
+# Amanita valida Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita valida f. valida
+Amanita valida Fr.
 
 ### Remarks
 null

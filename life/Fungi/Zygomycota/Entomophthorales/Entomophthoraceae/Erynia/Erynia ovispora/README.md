@@ -1,14 +1,13 @@
-Entomophthora ovispora Nowak., 1877 SPECIES
-=======
+# Erynia ovispora (Nowak.) Remaud. & Hennebert, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zeitschr. 219 (1877)
+Mycotaxon 11(1): 301 (1980)
 
 #### Original name
 Entomophthora ovispora Nowak., 1877

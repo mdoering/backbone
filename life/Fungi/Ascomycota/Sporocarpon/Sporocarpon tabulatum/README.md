@@ -1,5 +1,4 @@
-Sporocarpon tabulatum Will. SPECIES
-=======
+# Sporocarpon tabulatum Will. SPECIES
 
 #### Status
 ACCEPTED

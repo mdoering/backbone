@@ -1,5 +1,4 @@
-Pertusaria calderae Hern.-Padr., Etayo, I. Pérez-Vargas & Elix SPECIES
-=======
+# Pertusaria calderae Hern.-Padr., Etayo, I. Pérez-Vargas & Elix SPECIES
 
 #### Status
 ACCEPTED

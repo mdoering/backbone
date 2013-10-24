@@ -1,17 +1,16 @@
-Biatora coarctata subsp. obtegens Th. Fr. SUBSPECIES
-=======
+# Trapelia obtegens (Th. Fr.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Vortr. GesGeb. Bot. 4: 181 (1970)
 
 #### Original name
-null
+Biatora coarctata subsp. obtegens Th. Fr.
 
 ### Remarks
 null

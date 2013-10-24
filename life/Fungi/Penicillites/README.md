@@ -1,5 +1,4 @@
-Penicillites Mesch. GENUS
-=======
+# Penicillites Mesch. GENUS
 
 #### Status
 ACCEPTED

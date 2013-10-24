@@ -1,5 +1,4 @@
-Graphis nigeriensis C.W. Dodge SPECIES
-=======
+# Graphis nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

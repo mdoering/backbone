@@ -1,17 +1,16 @@
-Eutryblidiella pyrosynskii L.N. Nair & P.G. Reddy SPECIES
-=======
+# Eutryblidiella pirozynskii L.N. Nair & P.G. Reddy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fourth International Mycological Congress Abstracts (Regensburg) 41 (1990)
 
 #### Original name
-Eutryblidiella pyrosynskii L.N. Nair & P.G. Reddy
+Eutryblidiella pirozynskii L.N. Nair & P.G. Reddy
 
 ### Remarks
 null

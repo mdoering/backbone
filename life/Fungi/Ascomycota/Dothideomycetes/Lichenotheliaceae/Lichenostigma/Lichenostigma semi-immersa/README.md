@@ -1,5 +1,4 @@
-Lichenostigma semi-immersa Hafellner SPECIES
-=======
+# Lichenostigma semi-immersa Hafellner SPECIES
 
 #### Status
 ACCEPTED

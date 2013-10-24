@@ -1,14 +1,13 @@
-Hypodermella ampla (Davis) Dearn., 1924 SPECIES
-=======
+# Davisomycella ampla (Davis) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 16(4): 152 (1924)
+Can. J. Bot. 45: 1423 (1967)
 
 #### Original name
 Lophodermium pinastri var. amplum Davis, 1915

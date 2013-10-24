@@ -1,5 +1,4 @@
-Heimiella Lohmann, 1913 GENUS
-=======
+# Heimiella Lohmann, 1913 GENUS
 
 #### Status
 ACCEPTED

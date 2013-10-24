@@ -1,5 +1,4 @@
-Psalliota bulbosa Velen. SPECIES
-=======
+# Psalliota bulbosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe splendidissima Carteret & Reumaux SPECIES
-=======
+# Inocybe splendidissima Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

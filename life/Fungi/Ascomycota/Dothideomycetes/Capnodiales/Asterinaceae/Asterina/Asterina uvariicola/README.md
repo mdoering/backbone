@@ -1,5 +1,4 @@
-Asterina uvariicola Hansf. SPECIES
-=======
+# Asterina uvariicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

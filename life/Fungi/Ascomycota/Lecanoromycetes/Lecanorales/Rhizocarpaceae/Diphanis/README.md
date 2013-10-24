@@ -1,5 +1,4 @@
-Diphanis GENUS
-=======
+# Diphanis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora jefrensis Trotter SPECIES
-=======
+# Rhabdospora jefrensis Trotter SPECIES
 
 #### Status
 ACCEPTED

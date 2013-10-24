@@ -1,5 +1,4 @@
-Diatrype microstega Ellis & Everh., 1892 SPECIES
-=======
+# Diatrype microstega Ellis & Everh., 1892 SPECIES
 
 #### Status
 ACCEPTED

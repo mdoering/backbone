@@ -1,8 +1,7 @@
-Peziza solitaria P. Karst., 1869 SPECIES
-=======
+# Helvella solitaria P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

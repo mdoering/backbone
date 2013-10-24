@@ -1,5 +1,4 @@
-Humaria aquatica (Lam. & DC.) Sacc. SPECIES
-=======
+# Humaria aquatica (Lam. & DC.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

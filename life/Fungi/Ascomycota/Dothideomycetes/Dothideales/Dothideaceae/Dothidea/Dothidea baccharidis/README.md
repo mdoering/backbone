@@ -1,5 +1,4 @@
-Dothidea baccharidis Berk. & M.A. Curtis SPECIES
-=======
+# Dothidea baccharidis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

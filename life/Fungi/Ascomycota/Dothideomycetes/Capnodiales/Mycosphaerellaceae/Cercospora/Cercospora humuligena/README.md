@@ -1,5 +1,4 @@
-Cercospora humuligena Y.L. Guo & Li Xu SPECIES
-=======
+# Cercospora humuligena Y.L. Guo & Li Xu SPECIES
 
 #### Status
 ACCEPTED

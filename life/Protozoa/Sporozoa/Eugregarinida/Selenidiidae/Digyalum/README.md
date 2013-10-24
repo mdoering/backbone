@@ -1,5 +1,4 @@
-Digyalum Koura, Grahame, Owen & Kamel, 1990 GENUS
-=======
+# Digyalum Koura, Grahame, Owen & Kamel, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongiibacter Graeber et al., 2008 GENUS
-=======
+# Spongiibacter Graeber et al., 2008 GENUS
 
 #### Status
 ACCEPTED

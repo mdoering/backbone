@@ -1,5 +1,4 @@
-Tetracrium musicola Sherwood SPECIES
-=======
+# Tetracrium musicola Sherwood SPECIES
 
 #### Status
 ACCEPTED

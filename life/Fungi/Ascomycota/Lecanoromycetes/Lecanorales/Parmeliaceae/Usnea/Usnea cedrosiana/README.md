@@ -1,5 +1,4 @@
-Usnea cedrosiana P. Clerc SPECIES
-=======
+# Usnea cedrosiana P. Clerc SPECIES
 
 #### Status
 ACCEPTED

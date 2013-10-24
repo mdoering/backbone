@@ -1,5 +1,4 @@
-Pseudocercosporella tetradenise SPECIES
-=======
+# Pseudocercosporella tetradenise SPECIES
 
 #### Status
 ACCEPTED

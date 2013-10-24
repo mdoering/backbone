@@ -1,5 +1,4 @@
-Nectria diversispora Petch, 1906 SPECIES
-=======
+# Nectria diversispora Petch, 1906 SPECIES
 
 #### Status
 ACCEPTED

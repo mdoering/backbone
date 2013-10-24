@@ -1,14 +1,13 @@
-Brotzenia Horowitz, 1975 GENUS
-=======
+# Dichadogonyaulax W.A.S. Sarjeant, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revue Micropaleont. 18: 25.
+null
 
 #### Original name
 null

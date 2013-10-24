@@ -1,5 +1,4 @@
-Leccinum palustre M. Korhonen, 1995 SPECIES
-=======
+# Leccinum palustre M. Korhonen, 1995 SPECIES
 
 #### Status
 ACCEPTED

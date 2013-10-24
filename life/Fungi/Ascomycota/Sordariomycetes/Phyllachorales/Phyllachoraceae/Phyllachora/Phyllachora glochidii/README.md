@@ -1,5 +1,4 @@
-Phyllachora glochidii Syd. & P. Syd., 1911 SPECIES
-=======
+# Phyllachora glochidii Syd. & P. Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora mexicana (Arthur) Sacc. & Trotter SPECIES
-=======
+# Melampsora mexicana (Arthur) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

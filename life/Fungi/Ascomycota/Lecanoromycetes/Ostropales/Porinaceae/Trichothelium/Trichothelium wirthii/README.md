@@ -1,5 +1,4 @@
-Trichothelium wirthii Lücking SPECIES
-=======
+# Trichothelium wirthii Lücking SPECIES
 
 #### Status
 ACCEPTED

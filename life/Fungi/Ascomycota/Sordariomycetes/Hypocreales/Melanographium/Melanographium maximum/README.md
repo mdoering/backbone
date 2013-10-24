@@ -1,5 +1,4 @@
-Melanographium maximum (Sacc.) Sacc. SPECIES
-=======
+# Melanographium maximum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

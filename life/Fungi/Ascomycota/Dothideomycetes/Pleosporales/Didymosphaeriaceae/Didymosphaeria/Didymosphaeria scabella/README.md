@@ -1,5 +1,4 @@
-Didymosphaeria scabella (Quél.) Berl. & Voglino SPECIES
-=======
+# Didymosphaeria scabella (Quél.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

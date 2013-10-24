@@ -1,5 +1,4 @@
-Sporobolomyces subroseus Nakase & M. Suzuki SPECIES
-=======
+# Sporobolomyces subroseus Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

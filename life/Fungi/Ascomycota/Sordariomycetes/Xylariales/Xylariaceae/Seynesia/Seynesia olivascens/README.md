@@ -1,5 +1,4 @@
-Seynesia olivascens Speg. SPECIES
-=======
+# Seynesia olivascens Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella aptrootii Knoph & Garnitz SPECIES
-=======
+# Lecidella aptrootii Knoph & Garnitz SPECIES
 
 #### Status
 ACCEPTED

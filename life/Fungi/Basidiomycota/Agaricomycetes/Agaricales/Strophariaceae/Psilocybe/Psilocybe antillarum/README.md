@@ -1,5 +1,4 @@
-Psilocybe antillarum var. antillarum VARIETY
-=======
+# Psilocybe antillarum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 5: 1052 (1887)
 
 #### Original name
-Psilocybe antillarum var. antillarum
+Agaricus antillarum Fr.
 
 ### Remarks
 null

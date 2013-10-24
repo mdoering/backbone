@@ -1,14 +1,13 @@
-Peziza stereicola Cooke SPECIES
-=======
+# Cistellina stereicola (Cooke) Raitv., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sistematiki i Rasprostranenie Gribov (Tartu) 157 (1978)
 
 #### Original name
 Peziza stereicola Cooke

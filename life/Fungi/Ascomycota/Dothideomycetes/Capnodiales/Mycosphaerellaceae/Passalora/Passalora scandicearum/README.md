@@ -1,14 +1,13 @@
-Cercospora scandicearum Magnus, 1893 SPECIES
-=======
+# Passalora scandicearum (Magnus) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 35: 68 (1893)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 368 (2003)
 
 #### Original name
 Cercospora scandicearum Magnus, 1893

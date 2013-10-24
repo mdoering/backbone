@@ -1,5 +1,4 @@
-Castanidium Haeckel, 1887 GENUS
-=======
+# Castanidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

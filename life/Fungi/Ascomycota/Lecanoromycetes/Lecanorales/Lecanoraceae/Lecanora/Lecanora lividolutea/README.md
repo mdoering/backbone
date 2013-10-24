@@ -1,5 +1,4 @@
-Lecanora lividolutea H. Magn. SPECIES
-=======
+# Lecanora lividolutea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

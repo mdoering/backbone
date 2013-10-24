@@ -1,5 +1,4 @@
-Linospora quercicola Unamuno SPECIES
-=======
+# Linospora quercicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

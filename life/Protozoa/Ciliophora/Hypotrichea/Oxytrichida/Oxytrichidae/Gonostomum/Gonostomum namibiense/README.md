@@ -1,5 +1,4 @@
-Gonostomum namibiense Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Gonostomum namibiense Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

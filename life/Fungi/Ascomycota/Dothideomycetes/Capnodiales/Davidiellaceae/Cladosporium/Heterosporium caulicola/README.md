@@ -1,5 +1,4 @@
-Heterosporium caulicola Ellis & Everh. SPECIES
-=======
+# Heterosporium caulicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

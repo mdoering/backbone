@@ -1,5 +1,4 @@
-Sistotrema spongiosum Schwein. SPECIES
-=======
+# Sistotrema spongiosum Schwein. SPECIES
 
 #### Status
 ACCEPTED

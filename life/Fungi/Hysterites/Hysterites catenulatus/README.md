@@ -1,5 +1,4 @@
-Hysterites catenulatus (R. Ludw.) Mesch. SPECIES
-=======
+# Hysterites catenulatus (R. Ludw.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

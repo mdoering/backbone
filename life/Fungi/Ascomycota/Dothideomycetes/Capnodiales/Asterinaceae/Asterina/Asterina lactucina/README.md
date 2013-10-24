@@ -1,5 +1,4 @@
-Asterina lactucina Syd. SPECIES
-=======
+# Asterina lactucina Syd. SPECIES
 
 #### Status
 ACCEPTED

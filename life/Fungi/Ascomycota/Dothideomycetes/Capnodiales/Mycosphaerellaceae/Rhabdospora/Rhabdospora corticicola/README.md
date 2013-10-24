@@ -1,5 +1,4 @@
-Rhabdospora corticicola McAlpine SPECIES
-=======
+# Rhabdospora corticicola McAlpine SPECIES
 
 #### Status
 ACCEPTED

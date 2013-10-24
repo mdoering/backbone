@@ -1,5 +1,4 @@
-Tirisporella E.B.G. Jones, K.D. Hyde & Alias GENUS
-=======
+# Tirisporella E.B.G. Jones, K.D. Hyde & Alias GENUS
 
 #### Status
 ACCEPTED

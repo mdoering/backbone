@@ -1,5 +1,4 @@
-Dicaeoma eximium (Arthur & Holw.) Arthur SPECIES
-=======
+# Dicaeoma eximium (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

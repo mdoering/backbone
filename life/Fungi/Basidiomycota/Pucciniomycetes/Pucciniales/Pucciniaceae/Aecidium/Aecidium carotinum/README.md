@@ -1,5 +1,4 @@
-Aecidium carotinum Bubák SPECIES
-=======
+# Aecidium carotinum Bubák SPECIES
 
 #### Status
 ACCEPTED

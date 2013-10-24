@@ -1,5 +1,4 @@
-Loxocineta Yankovskij, 1979 GENUS
-=======
+# Loxocineta Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus planodiscus (Peck & Clinton) Lindau SPECIES
-=======
+# Hymenoscyphus planodiscus (Peck & Clinton) Lindau SPECIES
 
 #### Status
 ACCEPTED

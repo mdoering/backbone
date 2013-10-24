@@ -1,5 +1,4 @@
-Arthopyrenia mesobola (Nyl.) Boistel SPECIES
-=======
+# Arthopyrenia mesobola (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

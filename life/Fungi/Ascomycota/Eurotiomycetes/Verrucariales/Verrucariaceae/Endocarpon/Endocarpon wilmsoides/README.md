@@ -1,5 +1,4 @@
-Endocarpon wilmsoides Zahlbr. SPECIES
-=======
+# Endocarpon wilmsoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

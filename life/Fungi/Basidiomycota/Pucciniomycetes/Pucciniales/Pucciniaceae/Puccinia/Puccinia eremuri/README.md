@@ -1,5 +1,4 @@
-Puccinia eremuri Kom. SPECIES
-=======
+# Puccinia eremuri Kom. SPECIES
 
 #### Status
 ACCEPTED

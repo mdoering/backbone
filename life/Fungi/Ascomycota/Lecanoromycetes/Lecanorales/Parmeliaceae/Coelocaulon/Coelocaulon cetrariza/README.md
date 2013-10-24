@@ -1,5 +1,4 @@
-Coelocaulon cetrariza (Nyl.) Gyeln. SPECIES
-=======
+# Coelocaulon cetrariza (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

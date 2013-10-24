@@ -1,5 +1,4 @@
-Stenella aeglicola (S. Das) McKenzie SPECIES
-=======
+# Stenella aeglicola (S. Das) McKenzie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia cocoaensis Cushman, 1928 SPECIES
-=======
+# Globorotalia cocoaensis Cushman, 1928 SPECIES
 
 #### Status
 ACCEPTED

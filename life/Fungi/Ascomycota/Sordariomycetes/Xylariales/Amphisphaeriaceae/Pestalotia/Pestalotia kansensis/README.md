@@ -1,5 +1,4 @@
-Pestalotia kansensis Ellis & Barthol. SPECIES
-=======
+# Pestalotia kansensis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

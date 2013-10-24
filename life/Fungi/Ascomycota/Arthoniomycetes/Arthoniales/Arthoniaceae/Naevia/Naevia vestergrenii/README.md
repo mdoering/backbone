@@ -1,5 +1,4 @@
-Naevia vestergrenii Rehm SPECIES
-=======
+# Naevia vestergrenii Rehm SPECIES
 
 #### Status
 ACCEPTED

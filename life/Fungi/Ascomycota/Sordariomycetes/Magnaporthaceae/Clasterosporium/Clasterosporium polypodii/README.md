@@ -1,5 +1,4 @@
-Clasterosporium polypodii J.A. Stev. SPECIES
-=======
+# Clasterosporium polypodii J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

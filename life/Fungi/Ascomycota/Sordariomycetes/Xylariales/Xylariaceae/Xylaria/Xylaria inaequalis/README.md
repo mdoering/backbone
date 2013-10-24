@@ -1,5 +1,4 @@
-Xylaria inaequalis Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria inaequalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

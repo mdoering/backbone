@@ -1,5 +1,4 @@
-Peziza incondita Ellis SPECIES
-=======
+# Peziza incondita Ellis SPECIES
 
 #### Status
 ACCEPTED

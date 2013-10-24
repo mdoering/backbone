@@ -1,5 +1,4 @@
-Hendersonia microphylla Cooke SPECIES
-=======
+# Hendersonia microphylla Cooke SPECIES
 
 #### Status
 ACCEPTED

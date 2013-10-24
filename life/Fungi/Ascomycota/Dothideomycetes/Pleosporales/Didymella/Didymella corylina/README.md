@@ -1,5 +1,4 @@
-Didymella corylina Ellis & Everh. SPECIES
-=======
+# Didymella corylina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora bartholomei (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Passalora bartholomei (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

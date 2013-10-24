@@ -1,5 +1,4 @@
-Reophax gaussi Wiesner, 1931 SPECIES
-=======
+# Reophax gaussi Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

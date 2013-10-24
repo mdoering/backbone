@@ -1,5 +1,4 @@
-Coprobia elaphorum (Rehm) Boud. SPECIES
-=======
+# Coprobia elaphorum (Rehm) Boud. SPECIES
 
 #### Status
 ACCEPTED

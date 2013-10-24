@@ -1,5 +1,4 @@
-Lactarius allochrous Singer SPECIES
-=======
+# Lactarius allochrous Singer SPECIES
 
 #### Status
 ACCEPTED

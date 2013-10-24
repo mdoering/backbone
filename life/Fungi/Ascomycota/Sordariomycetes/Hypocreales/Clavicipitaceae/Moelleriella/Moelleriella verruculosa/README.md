@@ -1,5 +1,4 @@
-Moelleriella verruculosa (A. Møller) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella verruculosa (A. Møller) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

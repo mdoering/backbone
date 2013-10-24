@@ -1,5 +1,4 @@
-Agaricus guttatomarmorata Britzelm. SPECIES
-=======
+# Agaricus guttatomarmorata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

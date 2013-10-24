@@ -1,17 +1,16 @@
-Graphina novae-zelandiae (C. Knight) G.C. Hayw. SPECIES
-=======
+# Graphina novae-zealandiae (C. Knight) G.C. Hayw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Z. Jl Bot. 15(3): 568 (1977)
 
 #### Original name
-Fissurina novae-zelandiae C. Knight
+Fissurina novae-zealandiae C. Knight
 
 ### Remarks
 null

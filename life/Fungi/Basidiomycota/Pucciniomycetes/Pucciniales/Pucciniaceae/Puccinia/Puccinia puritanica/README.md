@@ -1,5 +1,4 @@
-Puccinia puritanica Cummins SPECIES
-=======
+# Puccinia puritanica Cummins SPECIES
 
 #### Status
 ACCEPTED

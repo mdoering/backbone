@@ -1,5 +1,4 @@
-Achaetomium umbonatum K. Rodr., Stchigel & Guarro, 2004 SPECIES
-=======
+# Achaetomium umbonatum K. Rodr., Stchigel & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma subrubescens A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma subrubescens A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

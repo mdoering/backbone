@@ -1,5 +1,4 @@
-Triangumorpha gigantea Yin Leiming & Li Zaiping, 1978 SPECIES
-=======
+# Triangumorpha gigantea Yin Leiming & Li Zaiping, 1978 SPECIES
 
 #### Status
 ACCEPTED

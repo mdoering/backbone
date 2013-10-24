@@ -1,5 +1,4 @@
-Cryptosporium aucupariae f. aucupariae FORM
-=======
+# Cryptosporium aucupariae Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ber. bayer. bot. Ges. 4: 37 (1896)
 
 #### Original name
-Cryptosporium aucupariae f. aucupariae
+Cryptosporium aucupariae Allesch.
 
 ### Remarks
 null

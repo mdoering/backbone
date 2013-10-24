@@ -1,5 +1,4 @@
-Marginulina subaculeata SPECIES
-=======
+# Marginulina subaculeata SPECIES
 
 #### Status
 ACCEPTED

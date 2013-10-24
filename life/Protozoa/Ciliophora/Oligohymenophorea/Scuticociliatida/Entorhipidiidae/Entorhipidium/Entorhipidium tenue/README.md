@@ -1,5 +1,4 @@
-Entorhipidium tenue Lynch, 1929 SPECIES
-=======
+# Entorhipidium tenue Lynch, 1929 SPECIES
 
 #### Status
 ACCEPTED

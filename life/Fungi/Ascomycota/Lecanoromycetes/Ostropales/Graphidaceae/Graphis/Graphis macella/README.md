@@ -1,5 +1,4 @@
-Graphis macella Kremp. SPECIES
-=======
+# Graphis macella Kremp. SPECIES
 
 #### Status
 ACCEPTED

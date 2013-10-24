@@ -1,5 +1,4 @@
-Trichomonascus petasosporus Kurtzman, 2004 SPECIES
-=======
+# Trichomonascus petasosporus Kurtzman, 2004 SPECIES
 
 #### Status
 ACCEPTED

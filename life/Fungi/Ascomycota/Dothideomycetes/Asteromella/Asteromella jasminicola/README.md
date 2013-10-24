@@ -1,5 +1,4 @@
-Asteromella jasminicola Petr. SPECIES
-=======
+# Asteromella jasminicola Petr. SPECIES
 
 #### Status
 ACCEPTED

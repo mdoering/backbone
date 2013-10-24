@@ -1,5 +1,4 @@
-Parmelia saltensis Bitter SPECIES
-=======
+# Parmelia saltensis Bitter SPECIES
 
 #### Status
 ACCEPTED

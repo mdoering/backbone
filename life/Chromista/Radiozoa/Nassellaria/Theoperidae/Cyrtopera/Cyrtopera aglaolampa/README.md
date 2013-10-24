@@ -1,5 +1,4 @@
-Cyrtopera aglaolampa Takahashi, 1991 SPECIES
-=======
+# Cyrtopera aglaolampa Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

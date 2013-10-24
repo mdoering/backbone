@@ -1,5 +1,4 @@
-Phoma saginae Rostr. SPECIES
-=======
+# Phoma saginae Rostr. SPECIES
 
 #### Status
 ACCEPTED

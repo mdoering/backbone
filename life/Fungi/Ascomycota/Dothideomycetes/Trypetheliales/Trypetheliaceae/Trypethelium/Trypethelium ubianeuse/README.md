@@ -1,5 +1,4 @@
-Trypethelium ubianeuse SPECIES
-=======
+# Trypethelium ubianeuse SPECIES
 
 #### Status
 ACCEPTED

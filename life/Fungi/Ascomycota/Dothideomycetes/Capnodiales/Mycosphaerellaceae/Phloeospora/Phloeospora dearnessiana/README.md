@@ -1,5 +1,4 @@
-Phloeospora dearnessiana Sacc. SPECIES
-=======
+# Phloeospora dearnessiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

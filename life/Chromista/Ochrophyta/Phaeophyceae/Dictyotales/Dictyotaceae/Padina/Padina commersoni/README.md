@@ -1,5 +1,4 @@
-Padina commersoni SPECIES
-=======
+# Padina commersoni SPECIES
 
 #### Status
 ACCEPTED

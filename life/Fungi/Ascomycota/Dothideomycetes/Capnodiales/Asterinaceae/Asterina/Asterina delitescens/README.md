@@ -1,5 +1,4 @@
-Asterina delitescens Ellis & G. Martin, 1883 SPECIES
-=======
+# Asterina delitescens Ellis & G. Martin, 1883 SPECIES
 
 #### Status
 ACCEPTED

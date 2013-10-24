@@ -1,5 +1,4 @@
-Lichen didactylos With. SPECIES
-=======
+# Lichen didactylos With. SPECIES
 
 #### Status
 ACCEPTED

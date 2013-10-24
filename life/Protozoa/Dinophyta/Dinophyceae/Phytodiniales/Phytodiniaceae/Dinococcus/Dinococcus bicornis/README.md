@@ -1,8 +1,7 @@
-Cystodinium bicorne (Woloszynska) Huber-PeStalozzi SPECIES
-=======
+# Dinococcus bicornis (Woloszynska) Fott SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

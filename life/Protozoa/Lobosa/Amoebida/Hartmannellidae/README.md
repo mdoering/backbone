@@ -1,5 +1,4 @@
-Hartmannellidae FAMILY
-=======
+# Hartmannellidae FAMILY
 
 #### Status
 ACCEPTED

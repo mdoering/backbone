@@ -1,5 +1,4 @@
-Floccularia Pouzar GENUS
-=======
+# Floccularia Pouzar GENUS
 
 #### Status
 ACCEPTED

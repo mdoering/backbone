@@ -1,5 +1,4 @@
-Chroomonas breviciliata Nygaard SPECIES
-=======
+# Chroomonas breviciliata Nygaard SPECIES
 
 #### Status
 ACCEPTED

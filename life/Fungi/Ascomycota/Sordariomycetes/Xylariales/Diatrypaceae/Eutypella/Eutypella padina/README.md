@@ -1,5 +1,4 @@
-Eutypella padina (Nitschke) Nannf. SPECIES
-=======
+# Eutypella padina (Nitschke) Nannf. SPECIES
 
 #### Status
 ACCEPTED

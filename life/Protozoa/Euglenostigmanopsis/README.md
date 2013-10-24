@@ -1,5 +1,4 @@
-Euglenostigmanopsis Skvortzov & M.Noda GENUS
-=======
+# Euglenostigmanopsis Skvortzov & M.Noda GENUS
 
 #### Status
 ACCEPTED

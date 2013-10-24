@@ -1,5 +1,4 @@
-Buelliastrum Zahlbr. GENUS
-=======
+# Buelliastrum Zahlbr. GENUS
 
 #### Status
 ACCEPTED

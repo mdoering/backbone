@@ -1,5 +1,4 @@
-Turrisphaera polybotrys H. A. Thomsen SPECIES
-=======
+# Turrisphaera polybotrys H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

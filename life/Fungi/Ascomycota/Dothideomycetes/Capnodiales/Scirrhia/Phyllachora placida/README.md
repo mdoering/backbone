@@ -1,5 +1,4 @@
-Phyllachora placida (Syd.) Theiss., 1916 SPECIES
-=======
+# Phyllachora placida (Syd.) Theiss., 1916 SPECIES
 
 #### Status
 DOUBTFUL

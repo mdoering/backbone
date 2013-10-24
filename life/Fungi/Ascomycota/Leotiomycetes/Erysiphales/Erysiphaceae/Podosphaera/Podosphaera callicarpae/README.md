@@ -1,5 +1,4 @@
-Podosphaera callicarpae (Tanda & Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera callicarpae (Tanda & Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

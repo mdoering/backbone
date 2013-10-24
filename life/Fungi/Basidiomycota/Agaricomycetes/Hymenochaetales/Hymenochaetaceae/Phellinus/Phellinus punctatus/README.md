@@ -1,17 +1,16 @@
-Poria maxoni (Murrill) Sacc. & Trotter SPECIES
-=======
+# Phellinus punctatus (Fr.) Pilát, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atlas des Champignons de l'Europe, Polyporaceae 3(1): 530 (1942)
 
 #### Original name
-Fomitiporia maxonii Murrill, 1907
+Polyporus punctatus Jungh., 1838
 
 ### Remarks
 null

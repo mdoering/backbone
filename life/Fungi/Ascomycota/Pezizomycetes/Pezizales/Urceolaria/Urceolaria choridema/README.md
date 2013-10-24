@@ -1,5 +1,4 @@
-Urceolaria choridema SPECIES
-=======
+# Urceolaria choridema SPECIES
 
 #### Status
 ACCEPTED

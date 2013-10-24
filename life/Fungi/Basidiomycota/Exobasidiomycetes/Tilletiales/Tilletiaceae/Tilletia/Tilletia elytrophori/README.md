@@ -1,5 +1,4 @@
-Tilletia elytrophori Dennis SPECIES
-=======
+# Tilletia elytrophori Dennis SPECIES
 
 #### Status
 ACCEPTED

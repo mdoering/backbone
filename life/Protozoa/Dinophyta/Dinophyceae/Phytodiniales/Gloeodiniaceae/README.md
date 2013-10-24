@@ -1,5 +1,4 @@
-Gloeodiniaceae Pascher ex Schiller, 1937 FAMILY
-=======
+# Gloeodiniaceae Pascher ex Schiller, 1937 FAMILY
 
 #### Status
 ACCEPTED

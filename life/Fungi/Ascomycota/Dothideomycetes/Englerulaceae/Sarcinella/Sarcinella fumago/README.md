@@ -1,5 +1,4 @@
-Sarcinella fumago Pat. & Har. SPECIES
-=======
+# Sarcinella fumago Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

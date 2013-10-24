@@ -1,5 +1,4 @@
-Trichobelonium crataegi Velen. SPECIES
-=======
+# Trichobelonium crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma primatum Del Giudice et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma primatum Del Giudice et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

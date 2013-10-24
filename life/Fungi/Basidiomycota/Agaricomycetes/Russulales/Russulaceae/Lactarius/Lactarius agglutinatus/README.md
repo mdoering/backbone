@@ -1,5 +1,4 @@
-Lactarius agglutinatus Burl. SPECIES
-=======
+# Lactarius agglutinatus Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia chirophora Speg. SPECIES
-=======
+# Laboulbenia chirophora Speg. SPECIES
 
 #### Status
 ACCEPTED

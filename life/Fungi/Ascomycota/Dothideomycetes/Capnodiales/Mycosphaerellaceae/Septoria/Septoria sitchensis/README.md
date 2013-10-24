@@ -1,5 +1,4 @@
-Septoria sitchensis Dearn. SPECIES
-=======
+# Septoria sitchensis Dearn. SPECIES
 
 #### Status
 ACCEPTED

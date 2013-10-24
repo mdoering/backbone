@@ -1,17 +1,16 @@
-Lepiota albosericea J.E. Lange, 1935 SPECIES
-=======
+# Lepiota subalba Kühner ex P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Agaric. Danic. 1: 32 (1935)
+Trans. Br. mycol. Soc. 43(2): 287 (1960)
 
 #### Original name
-Lepiota albosericea J.E. Lange, 1935
+Lepiota subalba Kühner ex P.D. Orton, 1960
 
 ### Remarks
 null

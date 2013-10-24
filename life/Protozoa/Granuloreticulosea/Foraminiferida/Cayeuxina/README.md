@@ -1,5 +1,4 @@
-Cayeuxina Galloway, 1933 GENUS
-=======
+# Cayeuxina Galloway, 1933 GENUS
 
 #### Status
 ACCEPTED

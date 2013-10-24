@@ -1,5 +1,4 @@
-Lingulina alata d’Orbigny, 1826 SPECIES
-=======
+# Lingulina alata d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

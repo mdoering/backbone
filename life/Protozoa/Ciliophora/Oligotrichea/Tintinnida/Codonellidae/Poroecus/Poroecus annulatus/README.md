@@ -1,5 +1,4 @@
-Poroecus annulatus Kofoid & Campbell, 1929 SPECIES
-=======
+# Poroecus annulatus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

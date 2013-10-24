@@ -1,17 +1,16 @@
-Phlebia macra f. macra FORM
-=======
+# Phlebia mellea Overh., 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 49(3-4): 288 (1933)
+Mycologia 22(5): 241 (1930)
 
 #### Original name
-Phlebia macra f. macra
+Phlebia mellea Overh., 1930
 
 ### Remarks
 null

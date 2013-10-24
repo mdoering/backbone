@@ -1,5 +1,4 @@
-Lecidea psoroides (Hepp) Bagl. & Carestia SPECIES
-=======
+# Lecidea psoroides (Hepp) Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

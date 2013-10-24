@@ -1,17 +1,16 @@
-Sistotrema laevigatum var. laevigatum VARIETY
-=======
+# Sistotrema laevigatum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Mycol. eur. (Erlanga) 2: 195 (1825)
+null
 
 #### Original name
-Sistotrema laevigatum var. laevigatum
+null
 
 ### Remarks
 null

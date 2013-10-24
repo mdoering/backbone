@@ -1,5 +1,4 @@
-Lecidea subtrabalis Vain. SPECIES
-=======
+# Lecidea subtrabalis Vain. SPECIES
 
 #### Status
 ACCEPTED

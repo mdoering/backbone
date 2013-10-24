@@ -1,5 +1,4 @@
-Winterella wehmeyeriana J. Reid & C. Booth SPECIES
-=======
+# Winterella wehmeyeriana J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

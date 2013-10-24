@@ -1,5 +1,4 @@
-Entoloma squamifolium (Murrill) Singer SPECIES
-=======
+# Entoloma squamifolium (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

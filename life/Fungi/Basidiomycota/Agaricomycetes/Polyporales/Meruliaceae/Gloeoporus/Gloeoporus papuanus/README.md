@@ -1,5 +1,4 @@
-Gloeoporus papuanus Corner, 1989 SPECIES
-=======
+# Gloeoporus papuanus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

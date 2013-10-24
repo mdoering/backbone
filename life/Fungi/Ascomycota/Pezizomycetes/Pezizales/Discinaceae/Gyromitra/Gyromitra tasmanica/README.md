@@ -1,5 +1,4 @@
-Gyromitra tasmanica Berk. & Cooke, 1878 SPECIES
-=======
+# Gyromitra tasmanica Berk. & Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

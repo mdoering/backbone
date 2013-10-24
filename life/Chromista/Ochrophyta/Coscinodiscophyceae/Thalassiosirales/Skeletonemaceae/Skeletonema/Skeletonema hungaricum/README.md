@@ -1,5 +1,4 @@
-Skeletonema hungaricum SPECIES
-=======
+# Skeletonema hungaricum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus rompelii Rick SPECIES
-=======
+# Polyporus rompelii Rick SPECIES
 
 #### Status
 ACCEPTED

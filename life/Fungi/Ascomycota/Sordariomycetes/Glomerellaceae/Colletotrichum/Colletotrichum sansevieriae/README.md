@@ -1,5 +1,4 @@
-Colletotrichum sansevieriae M. Nakamura & M. Ohzono SPECIES
-=======
+# Colletotrichum sansevieriae M. Nakamura & M. Ohzono SPECIES
 
 #### Status
 ACCEPTED

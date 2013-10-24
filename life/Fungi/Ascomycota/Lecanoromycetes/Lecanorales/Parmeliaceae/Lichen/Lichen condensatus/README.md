@@ -1,5 +1,4 @@
-Lichen condensatus Ach. SPECIES
-=======
+# Lichen condensatus Ach. SPECIES
 
 #### Status
 ACCEPTED

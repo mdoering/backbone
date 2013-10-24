@@ -1,5 +1,4 @@
-Dictyothyriella coerulescens (Rehm) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella coerulescens (Rehm) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

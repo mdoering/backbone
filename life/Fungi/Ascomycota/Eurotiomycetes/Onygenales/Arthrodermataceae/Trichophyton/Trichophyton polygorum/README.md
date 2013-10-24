@@ -1,5 +1,4 @@
-Trichophyton polygorum Uriburu SPECIES
-=======
+# Trichophyton polygorum Uriburu SPECIES
 
 #### Status
 ACCEPTED

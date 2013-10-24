@@ -1,5 +1,4 @@
-Cyttarocylis plagiostoma Daday, 1887 SPECIES
-=======
+# Cyttarocylis plagiostoma Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

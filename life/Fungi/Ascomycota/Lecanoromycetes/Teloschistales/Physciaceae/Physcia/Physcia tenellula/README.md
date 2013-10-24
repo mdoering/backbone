@@ -1,5 +1,4 @@
-Physcia tenellula Moberg SPECIES
-=======
+# Physcia tenellula Moberg SPECIES
 
 #### Status
 ACCEPTED

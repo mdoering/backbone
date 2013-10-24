@@ -1,5 +1,4 @@
-Sphaceloma quercus-ilicis Martelli & Laviola SPECIES
-=======
+# Sphaceloma quercus-ilicis Martelli & Laviola SPECIES
 
 #### Status
 ACCEPTED

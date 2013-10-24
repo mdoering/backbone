@@ -1,5 +1,4 @@
-Coccomyces mertensianae Sherwood, 1986 SPECIES
-=======
+# Coccomyces mertensianae Sherwood, 1986 SPECIES
 
 #### Status
 ACCEPTED

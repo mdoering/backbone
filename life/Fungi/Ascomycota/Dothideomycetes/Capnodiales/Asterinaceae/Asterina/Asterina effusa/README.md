@@ -1,5 +1,4 @@
-Asterina effusa Cooke & Massee, 1887 SPECIES
-=======
+# Asterina effusa Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED

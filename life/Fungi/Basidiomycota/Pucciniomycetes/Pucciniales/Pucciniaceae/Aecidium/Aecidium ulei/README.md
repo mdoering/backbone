@@ -1,5 +1,4 @@
-Aecidium ulei Henn. SPECIES
-=======
+# Aecidium ulei Henn. SPECIES
 
 #### Status
 ACCEPTED

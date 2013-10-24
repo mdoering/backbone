@@ -1,5 +1,4 @@
-Chaetostroma cyperacearum Ces. SPECIES
-=======
+# Chaetostroma cyperacearum Ces. SPECIES
 
 #### Status
 ACCEPTED

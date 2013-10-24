@@ -1,5 +1,4 @@
-Inonotus agathidis Corner SPECIES
-=======
+# Inonotus agathidis Corner SPECIES
 
 #### Status
 ACCEPTED

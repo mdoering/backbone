@@ -1,5 +1,4 @@
-Puccinia stenotaphri Cummins SPECIES
-=======
+# Puccinia stenotaphri Cummins SPECIES
 
 #### Status
 ACCEPTED

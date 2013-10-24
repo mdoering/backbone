@@ -1,5 +1,4 @@
-Diatrypella missionum Speg. SPECIES
-=======
+# Diatrypella missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

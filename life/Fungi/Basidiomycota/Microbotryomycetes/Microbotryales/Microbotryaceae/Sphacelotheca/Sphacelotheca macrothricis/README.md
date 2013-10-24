@@ -1,5 +1,4 @@
-Sphacelotheca macrothricis Zundel SPECIES
-=======
+# Sphacelotheca macrothricis Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria longipes Beeli SPECIES
-=======
+# Ciboria longipes Beeli SPECIES
 
 #### Status
 ACCEPTED

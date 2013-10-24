@@ -1,14 +1,13 @@
-Opegrapha dialeuca Cromb. SPECIES
-=======
+# Lecanographa dialeuca (Cromb.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 16: 214 (1877)
+Biblthca Lichenol. 54: 126 (1994)
 
 #### Original name
 Opegrapha dialeuca Cromb.

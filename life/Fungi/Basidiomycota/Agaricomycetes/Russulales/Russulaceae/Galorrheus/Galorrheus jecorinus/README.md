@@ -1,5 +1,4 @@
-Galorrheus jecorinus (Fr.) P. Kumm. SPECIES
-=======
+# Galorrheus jecorinus (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanidion coorgicii Anahosur SPECIES
-=======
+# Lecanidion coorgica Anahosur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 178 (1971)
 
 #### Original name
-Lecanidion coorgicii Anahosur
+Lecanidion coorgica Anahosur
 
 ### Remarks
 null

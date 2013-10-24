@@ -1,17 +1,16 @@
-Trichophyton indicum H.S. Randhawa & R.S. Sandhu, 1963 SPECIES
-=======
+# Aphanoascus terreus (H.S. Randhawa & R.S. Sandhu) Apinis, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 20: 227 (1963)
+Mycopath. Mycol. appl. 35: 99 (1968)
 
 #### Original name
-Trichophyton indicum H.S. Randhawa & R.S. Sandhu, 1963
+Keratinophyton terreum H.S. Randhawa & R.S. Sandhu, 1964
 
 ### Remarks
 null

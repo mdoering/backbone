@@ -1,5 +1,4 @@
-Pleospora mendax (De Not.) Sacc. SPECIES
-=======
+# Pleospora mendax (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

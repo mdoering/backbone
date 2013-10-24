@@ -1,5 +1,4 @@
-Gondwanaria campanulaeformis (Campbell & Clark) Sugiyama & Furutani, 1992 SPECIES
-=======
+# Gondwanaria campanulaeformis (Campbell & Clark) Sugiyama & Furutani, 1992 SPECIES
 
 #### Status
 ACCEPTED

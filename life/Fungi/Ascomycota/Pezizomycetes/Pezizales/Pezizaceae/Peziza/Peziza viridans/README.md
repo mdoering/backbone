@@ -1,5 +1,4 @@
-Peziza viridans (Hedw.) Fr. SPECIES
-=======
+# Peziza viridans (Hedw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

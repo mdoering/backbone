@@ -1,5 +1,4 @@
-Hyalopeziza nectrioides (Rehm) Raschle, 1977 SPECIES
-=======
+# Hyalopeziza nectrioides (Rehm) Raschle, 1977 SPECIES
 
 #### Status
 ACCEPTED

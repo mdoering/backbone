@@ -1,5 +1,4 @@
-Estiastra tenua Pöthé de Baldis, 1975 SPECIES
-=======
+# Estiastra tenua Pöthé de Baldis, 1975 SPECIES
 
 #### Status
 ACCEPTED

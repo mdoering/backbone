@@ -1,5 +1,4 @@
-Placodium flavidulum SPECIES
-=======
+# Placodium flavidulum SPECIES
 
 #### Status
 ACCEPTED

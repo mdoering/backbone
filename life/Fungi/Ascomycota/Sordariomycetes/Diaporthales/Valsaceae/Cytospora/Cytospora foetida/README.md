@@ -1,5 +1,4 @@
-Cytospora foetida Vlasov & Krangauz {?} SPECIES
-=======
+# Cytospora foetida Vlasov & Krangauz {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taeniellopsis flexilis R.A. Poiss., 1929 SPECIES
-=======
+# Taeniellopsis flexilis R.A. Poiss., 1929 SPECIES
 
 #### Status
 ACCEPTED

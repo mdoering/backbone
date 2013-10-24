@@ -1,5 +1,4 @@
-Streptomyces ghanaensis Wallhäusser et al., 1966 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces ghanaensis Wallhäusser et al., 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

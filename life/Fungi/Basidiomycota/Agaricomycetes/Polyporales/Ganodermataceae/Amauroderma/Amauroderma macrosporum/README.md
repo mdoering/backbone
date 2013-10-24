@@ -1,5 +1,4 @@
-Amauroderma macrosporum J.S. Furtado, 1968 SPECIES
-=======
+# Amauroderma macrosporum J.S. Furtado, 1968 SPECIES
 
 #### Status
 ACCEPTED

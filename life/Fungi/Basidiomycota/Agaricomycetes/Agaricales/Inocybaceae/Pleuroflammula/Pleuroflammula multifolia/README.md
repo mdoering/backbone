@@ -1,5 +1,4 @@
-Pleuroflammula multifolia (Peck) E. Horak SPECIES
-=======
+# Pleuroflammula multifolia (Peck) E. Horak SPECIES
 
 #### Status
 ACCEPTED

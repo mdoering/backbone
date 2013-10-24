@@ -1,8 +1,7 @@
-Laminaria pallida var. iberica G.Hamel VARIETY
-=======
+# Laminaria ochroleuca Bachelot de la Pylaie SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Arthrobacter scleromae Huang et al., 2005 SPECIES
-=======
+# Arthrobacter scleromae Huang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

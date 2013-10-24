@@ -1,5 +1,4 @@
-Melanaspicilia immersa (Lynge) Räsänen SPECIES
-=======
+# Melanaspicilia immersa (Lynge) Räsänen SPECIES
 
 #### Status
 ACCEPTED

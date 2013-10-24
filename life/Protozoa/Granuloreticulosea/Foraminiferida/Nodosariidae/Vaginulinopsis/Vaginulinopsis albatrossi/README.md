@@ -1,5 +1,4 @@
-Vaginulinopsis albatrossi (Cushman) SPECIES
-=======
+# Vaginulinopsis albatrossi (Cushman) SPECIES
 
 #### Status
 ACCEPTED

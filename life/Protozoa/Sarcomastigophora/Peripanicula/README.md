@@ -1,5 +1,4 @@
-Peripanicula Haeckel, 1887 GENUS
-=======
+# Peripanicula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

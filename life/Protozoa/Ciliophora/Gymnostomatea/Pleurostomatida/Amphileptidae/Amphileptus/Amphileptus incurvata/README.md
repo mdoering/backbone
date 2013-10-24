@@ -1,5 +1,4 @@
-Amphileptus incurvata SPECIES
-=======
+# Amphileptus incurvata SPECIES
 
 #### Status
 ACCEPTED

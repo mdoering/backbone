@@ -1,5 +1,4 @@
-Bombyliospora granularis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bombyliospora granularis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

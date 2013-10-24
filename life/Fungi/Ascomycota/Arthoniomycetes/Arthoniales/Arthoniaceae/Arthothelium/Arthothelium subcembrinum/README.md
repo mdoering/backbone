@@ -1,5 +1,4 @@
-Arthothelium subcembrinum (Anzi) Rehm SPECIES
-=======
+# Arthothelium subcembrinum (Anzi) Rehm SPECIES
 
 #### Status
 ACCEPTED

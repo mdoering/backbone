@@ -1,5 +1,4 @@
-Cortinarius parahumilis Garnica SPECIES
-=======
+# Cortinarius parahumilis Garnica SPECIES
 
 #### Status
 ACCEPTED

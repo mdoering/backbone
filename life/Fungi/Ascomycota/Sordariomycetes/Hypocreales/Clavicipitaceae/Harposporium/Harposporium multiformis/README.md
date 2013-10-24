@@ -1,17 +1,16 @@
-Harposporium multisporum C.Y. Wang, K.Q. Zhang SPECIES
-=======
+# Harposporium multiformis C.Y. Wang, K.Q. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang, Mo, Li, Tian & Zhang, Fungal Diversity 26(1): 292 (2007)
 
 #### Original name
-Harposporium multisporum C.Y. Wang, K.Q. Zhang
+Harposporium multiformis C.Y. Wang, K.Q. Zhang
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helminthogloea ramosa Pascher SPECIES
-=======
+# Helminthogloea ramosa Pascher SPECIES
 
 #### Status
 ACCEPTED

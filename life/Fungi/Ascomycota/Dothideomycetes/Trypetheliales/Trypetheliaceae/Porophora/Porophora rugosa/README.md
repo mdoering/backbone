@@ -1,5 +1,4 @@
-Porophora rugosa Spreng. SPECIES
-=======
+# Porophora rugosa Spreng. SPECIES
 
 #### Status
 ACCEPTED

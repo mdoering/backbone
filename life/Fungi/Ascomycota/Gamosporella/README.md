@@ -1,5 +1,4 @@
-Gamosporella Speg. GENUS
-=======
+# Gamosporella Speg. GENUS
 
 #### Status
 ACCEPTED

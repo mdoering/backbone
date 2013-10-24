@@ -1,5 +1,4 @@
-Dentalina frobisherensis Loeblich & Tappan, 1953 SPECIES
-=======
+# Dentalina frobisherensis Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

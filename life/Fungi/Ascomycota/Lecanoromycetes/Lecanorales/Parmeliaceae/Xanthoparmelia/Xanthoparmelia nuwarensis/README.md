@@ -1,5 +1,4 @@
-Xanthoparmelia nuwarensis Hale SPECIES
-=======
+# Xanthoparmelia nuwarensis Hale SPECIES
 
 #### Status
 ACCEPTED

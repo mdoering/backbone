@@ -1,5 +1,4 @@
-Cortinarius procerus Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius procerus Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

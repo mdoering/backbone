@@ -1,5 +1,4 @@
-Calicium sepincola (Ach.) Duby SPECIES
-=======
+# Calicium sepincola (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

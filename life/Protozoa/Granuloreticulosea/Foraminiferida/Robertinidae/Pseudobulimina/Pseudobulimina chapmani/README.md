@@ -1,5 +1,4 @@
-Pseudobulimina chapmani (Heron-Allen & Earland, 1922) SPECIES
-=======
+# Pseudobulimina chapmani (Heron-Allen & Earland, 1922) SPECIES
 
 #### Status
 ACCEPTED

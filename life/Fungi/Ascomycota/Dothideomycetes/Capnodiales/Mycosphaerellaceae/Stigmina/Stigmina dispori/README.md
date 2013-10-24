@@ -1,5 +1,4 @@
-Stigmina dispori U. Braun SPECIES
-=======
+# Stigmina dispori U. Braun SPECIES
 
 #### Status
 ACCEPTED

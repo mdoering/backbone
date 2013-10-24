@@ -1,5 +1,4 @@
-Pseudodermatosorus Vánky GENUS
-=======
+# Pseudodermatosorus Vánky GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus miamensis Mont. SPECIES
-=======
+# Agaricus miamensis Mont. SPECIES
 
 #### Status
 ACCEPTED

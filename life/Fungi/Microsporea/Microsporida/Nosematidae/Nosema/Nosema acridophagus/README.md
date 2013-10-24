@@ -1,5 +1,4 @@
-Nosema acridophagus J.E. Henry SPECIES
-=======
+# Nosema acridophagus J.E. Henry SPECIES
 
 #### Status
 ACCEPTED

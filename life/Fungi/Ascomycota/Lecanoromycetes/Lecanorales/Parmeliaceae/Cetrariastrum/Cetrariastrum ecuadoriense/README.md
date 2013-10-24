@@ -1,14 +1,13 @@
-Cetrariastrum equadoriensis (R. Sant.) Sipman SPECIES
-=======
+# Cetrariastrum ecuadoriense (R. Sant.) Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 83(4): 343 (1980)
 
 #### Original name
 Parmelia equadoriensis R. Sant.

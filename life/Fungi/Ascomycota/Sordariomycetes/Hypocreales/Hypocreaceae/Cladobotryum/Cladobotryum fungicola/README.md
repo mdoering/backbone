@@ -1,14 +1,13 @@
-Sibirina fungicola G.R.W. Arnold, 1970 SPECIES
-=======
+# Cladobotryum fungicola (G.R.W. Arnold) Rogerson & Samuels, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 18(1-2): 300 (1970)
+Mycologia 85(2): 262 (1993)
 
 #### Original name
 Sibirina fungicola G.R.W. Arnold, 1970

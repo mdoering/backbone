@@ -1,5 +1,4 @@
-Euglena convoluta var. dimidiis Z.X. Shi VARIETY
-=======
+# Euglena convoluta Korsikov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella fabacearum K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella fabacearum K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

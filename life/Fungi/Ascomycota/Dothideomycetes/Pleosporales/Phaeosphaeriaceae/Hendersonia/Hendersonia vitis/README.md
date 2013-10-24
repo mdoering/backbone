@@ -1,5 +1,4 @@
-Hendersonia vitis (Schulzer) Sacc. SPECIES
-=======
+# Hendersonia vitis (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

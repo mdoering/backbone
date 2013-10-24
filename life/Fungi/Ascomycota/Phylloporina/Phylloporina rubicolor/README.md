@@ -1,5 +1,4 @@
-Phylloporina rubicolor (Stirt.) Müll. Arg. SPECIES
-=======
+# Phylloporina rubicolor (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

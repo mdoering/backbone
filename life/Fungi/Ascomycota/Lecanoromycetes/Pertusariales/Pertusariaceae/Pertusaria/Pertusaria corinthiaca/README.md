@@ -1,5 +1,4 @@
-Pertusaria corinthiaca Erichsen SPECIES
-=======
+# Pertusaria corinthiaca Erichsen SPECIES
 
 #### Status
 ACCEPTED

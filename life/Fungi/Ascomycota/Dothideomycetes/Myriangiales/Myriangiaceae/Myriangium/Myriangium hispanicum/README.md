@@ -1,5 +1,4 @@
-Myriangium hispanicum J.B. Martínez, 1931 SPECIES
-=======
+# Myriangium hispanicum J.B. Martínez, 1931 SPECIES
 
 #### Status
 ACCEPTED

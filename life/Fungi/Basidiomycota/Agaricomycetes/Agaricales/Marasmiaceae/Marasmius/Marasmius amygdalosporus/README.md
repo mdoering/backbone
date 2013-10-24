@@ -1,5 +1,4 @@
-Marasmius amygdalosporus Manim. & Leelav. SPECIES
-=======
+# Marasmius amygdalosporus Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

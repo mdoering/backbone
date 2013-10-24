@@ -1,14 +1,13 @@
-Agaricus fracticus Britzelm., 1893 SPECIES
-=======
+# Tricholoma fracticum (Britzelm.) Kreisel, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Augsburg 9: tab. 111 (1893)
+Feddes Repert. Spec. Nov. Regni Veg. 95(9-10): 700 (1984)
 
 #### Original name
 Agaricus fracticus Britzelm., 1893

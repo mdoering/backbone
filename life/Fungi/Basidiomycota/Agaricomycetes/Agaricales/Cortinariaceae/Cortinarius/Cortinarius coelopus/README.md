@@ -1,5 +1,4 @@
-Cortinarius coelopus Gasparini SPECIES
-=======
+# Cortinarius coelopus Gasparini SPECIES
 
 #### Status
 ACCEPTED

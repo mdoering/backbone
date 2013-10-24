@@ -1,5 +1,4 @@
-Lithobotrys Ehrenberg, 1844 GENUS
-=======
+# Lithobotrys Ehrenberg, 1844 GENUS
 
 #### Status
 ACCEPTED

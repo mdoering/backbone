@@ -1,5 +1,4 @@
-Opegrapha brattiae Egea & Ertz SPECIES
-=======
+# Opegrapha brattiae Egea & Ertz SPECIES
 
 #### Status
 ACCEPTED

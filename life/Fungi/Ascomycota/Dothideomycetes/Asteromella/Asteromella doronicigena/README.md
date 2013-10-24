@@ -1,5 +1,4 @@
-Asteromella doronicigena (Bubák) Petr. SPECIES
-=======
+# Asteromella doronicigena (Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

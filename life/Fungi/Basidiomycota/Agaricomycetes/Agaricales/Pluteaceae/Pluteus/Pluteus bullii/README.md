@@ -1,5 +1,4 @@
-Pluteus bullii (Cooke) Rea SPECIES
-=======
+# Pluteus bullii (Cooke) Rea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adelococcus porocyphi Zelenko & S.Y. Kondr. SPECIES
-=======
+# Adelococcus porocyphi Zelenko & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

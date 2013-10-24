@@ -1,5 +1,4 @@
-Sporocadus rubi Preuss SPECIES
-=======
+# Sporocadus rubi Preuss SPECIES
 
 #### Status
 ACCEPTED

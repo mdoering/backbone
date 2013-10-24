@@ -1,5 +1,4 @@
-Graphis sordida Fée SPECIES
-=======
+# Graphis sordida Fée SPECIES
 
 #### Status
 ACCEPTED

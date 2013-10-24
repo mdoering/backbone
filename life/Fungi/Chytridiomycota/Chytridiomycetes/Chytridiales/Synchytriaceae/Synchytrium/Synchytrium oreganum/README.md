@@ -1,5 +1,4 @@
-Synchytrium oreganum Karling SPECIES
-=======
+# Synchytrium oreganum Karling SPECIES
 
 #### Status
 ACCEPTED

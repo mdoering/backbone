@@ -1,5 +1,4 @@
-Lecidea chloroplaca Fée SPECIES
-=======
+# Lecidea chloroplaca Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus difformis Pers. SPECIES
-=======
+# Agaricus difformis Pers. SPECIES
 
 #### Status
 ACCEPTED

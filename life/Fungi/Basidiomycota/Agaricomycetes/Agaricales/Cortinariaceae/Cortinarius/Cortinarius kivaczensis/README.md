@@ -1,5 +1,4 @@
-Cortinarius kivaczensis Singer SPECIES
-=======
+# Cortinarius kivaczensis Singer SPECIES
 
 #### Status
 ACCEPTED

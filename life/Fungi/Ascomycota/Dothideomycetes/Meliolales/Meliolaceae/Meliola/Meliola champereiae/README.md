@@ -1,5 +1,4 @@
-Meliola champereiae Syd. & P. Syd. SPECIES
-=======
+# Meliola champereiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

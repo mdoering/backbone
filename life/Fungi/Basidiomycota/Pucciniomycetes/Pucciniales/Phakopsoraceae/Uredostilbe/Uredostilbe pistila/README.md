@@ -1,5 +1,4 @@
-Uredostilbe pistila Buriticá & J.F. Hennen, 1994 SPECIES
-=======
+# Uredostilbe pistila Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
 ACCEPTED

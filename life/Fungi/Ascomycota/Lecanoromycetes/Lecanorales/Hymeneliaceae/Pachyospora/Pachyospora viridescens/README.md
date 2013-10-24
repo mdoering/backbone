@@ -1,5 +1,4 @@
-Pachyospora viridescens A. Massal. SPECIES
-=======
+# Pachyospora viridescens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

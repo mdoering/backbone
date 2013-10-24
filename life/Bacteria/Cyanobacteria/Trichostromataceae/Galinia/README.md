@@ -1,5 +1,4 @@
-Galinia A.G. Vologdin, 1962 GENUS
-=======
+# Galinia A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia acaciae Hansf. SPECIES
-=======
+# Guignardia acaciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitonella Small & Lynn, 1985 GENUS
-=======
+# Chitonella Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

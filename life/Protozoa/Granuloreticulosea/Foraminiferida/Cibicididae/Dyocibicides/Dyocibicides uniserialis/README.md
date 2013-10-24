@@ -1,5 +1,4 @@
-Dyocibicides uniserialis Thalmann, 1933 SPECIES
-=======
+# Dyocibicides uniserialis Thalmann, 1933 SPECIES
 
 #### Status
 ACCEPTED

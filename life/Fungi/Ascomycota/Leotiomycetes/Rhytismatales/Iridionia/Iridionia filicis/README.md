@@ -1,5 +1,4 @@
-Iridionia filicis Racib. SPECIES
-=======
+# Iridionia filicis Racib. SPECIES
 
 #### Status
 ACCEPTED

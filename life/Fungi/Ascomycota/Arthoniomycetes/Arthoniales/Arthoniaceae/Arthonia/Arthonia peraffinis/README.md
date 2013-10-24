@@ -1,5 +1,4 @@
-Arthonia peraffinis Nyl. SPECIES
-=======
+# Arthonia peraffinis Nyl. SPECIES
 
 #### Status
 ACCEPTED

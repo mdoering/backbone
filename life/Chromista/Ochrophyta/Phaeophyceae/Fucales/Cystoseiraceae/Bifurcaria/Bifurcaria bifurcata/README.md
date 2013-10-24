@@ -1,8 +1,7 @@
-Pycnophycus tuberculatus (Stackhouse) Kützing SPECIES
-=======
+# Bifurcaria bifurcata R. Ross SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

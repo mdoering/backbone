@@ -1,5 +1,4 @@
-Sporoblastia nivalis (Körb.) Trevis. SPECIES
-=======
+# Sporoblastia nivalis (Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

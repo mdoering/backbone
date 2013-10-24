@@ -1,5 +1,4 @@
-Collema apalachense Tuck. SPECIES
-=======
+# Collema apalachense Tuck. SPECIES
 
 #### Status
 ACCEPTED

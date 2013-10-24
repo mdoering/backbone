@@ -1,5 +1,4 @@
-Karlingia lacustris Hassan SPECIES
-=======
+# Karlingia lacustris Hassan SPECIES
 
 #### Status
 ACCEPTED

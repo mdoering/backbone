@@ -1,5 +1,4 @@
-Pertusaria isidiosa A. W. Archer SPECIES
-=======
+# Pertusaria isidiosa A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

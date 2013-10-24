@@ -1,5 +1,4 @@
-Omphalia paurophylla Berk. SPECIES
-=======
+# Omphalia paurophylla Berk. SPECIES
 
 #### Status
 ACCEPTED

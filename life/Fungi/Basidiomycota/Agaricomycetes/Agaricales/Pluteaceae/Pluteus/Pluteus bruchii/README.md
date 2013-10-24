@@ -1,5 +1,4 @@
-Pluteus bruchii (Speg.) Singer SPECIES
-=======
+# Pluteus bruchii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halteria acuta Fromentel, 1876 SPECIES
-=======
+# Halteria acuta Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

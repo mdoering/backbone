@@ -1,5 +1,4 @@
-Acrostalagmus ochraceus Demelius SPECIES
-=======
+# Acrostalagmus ochraceus Demelius SPECIES
 
 #### Status
 ACCEPTED

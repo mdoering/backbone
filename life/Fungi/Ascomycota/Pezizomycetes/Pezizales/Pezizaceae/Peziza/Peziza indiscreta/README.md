@@ -1,5 +1,4 @@
-Peziza indiscreta W. Phillips & Plowr., 1880 SPECIES
-=======
+# Peziza indiscreta W. Phillips & Plowr., 1880 SPECIES
 
 #### Status
 ACCEPTED

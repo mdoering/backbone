@@ -1,5 +1,4 @@
-Phoma dacrydii Tassi SPECIES
-=======
+# Phoma dacrydii Tassi SPECIES
 
 #### Status
 ACCEPTED

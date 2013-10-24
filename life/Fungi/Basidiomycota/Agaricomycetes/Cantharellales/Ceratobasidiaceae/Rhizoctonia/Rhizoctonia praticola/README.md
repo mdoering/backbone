@@ -1,5 +1,4 @@
-Rhizoctonia praticola H.K. Saksena & Vaartaja SPECIES
-=======
+# Rhizoctonia praticola H.K. Saksena & Vaartaja SPECIES
 
 #### Status
 ACCEPTED

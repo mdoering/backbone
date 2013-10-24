@@ -1,5 +1,4 @@
-Irpex modestus Berk. ex Cooke SPECIES
-=======
+# Irpex modestus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

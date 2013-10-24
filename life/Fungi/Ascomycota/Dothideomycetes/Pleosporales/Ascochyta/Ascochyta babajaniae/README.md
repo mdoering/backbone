@@ -1,5 +1,4 @@
-Ascochyta babajaniae Tasl. SPECIES
-=======
+# Ascochyta babajaniae Tasl. SPECIES
 
 #### Status
 ACCEPTED

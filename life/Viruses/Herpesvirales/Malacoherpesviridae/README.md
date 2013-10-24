@@ -1,5 +1,4 @@
-Malacoherpesviridae FAMILY
-=======
+# Malacoherpesviridae FAMILY
 
 #### Status
 ACCEPTED

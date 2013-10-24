@@ -1,5 +1,4 @@
-Mycena asterocephala Mont. SPECIES
-=======
+# Mycena asterocephala Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia physostegiae (Peck & G.P. Clinton) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia physostegiae (Peck & G.P. Clinton) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

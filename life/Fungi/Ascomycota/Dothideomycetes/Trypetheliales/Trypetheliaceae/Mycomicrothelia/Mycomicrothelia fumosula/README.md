@@ -1,5 +1,4 @@
-Mycomicrothelia fumosula (Zahlbr.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia fumosula (Zahlbr.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

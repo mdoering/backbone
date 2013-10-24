@@ -1,5 +1,4 @@
-Navicella menthae (Kirchn.) Kuntze SPECIES
-=======
+# Navicella menthae (Kirchn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

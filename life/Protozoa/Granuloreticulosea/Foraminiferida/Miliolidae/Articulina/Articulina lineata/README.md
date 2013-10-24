@@ -1,5 +1,4 @@
-Articulina lineata SPECIES
-=======
+# Articulina lineata SPECIES
 
 #### Status
 ACCEPTED

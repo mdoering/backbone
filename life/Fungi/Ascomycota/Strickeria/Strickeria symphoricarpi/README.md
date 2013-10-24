@@ -1,5 +1,4 @@
-Strickeria symphoricarpi Tracy & Earle SPECIES
-=======
+# Strickeria symphoricarpi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

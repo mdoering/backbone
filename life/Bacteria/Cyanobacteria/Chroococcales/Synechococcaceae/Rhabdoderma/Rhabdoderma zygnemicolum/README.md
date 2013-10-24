@@ -1,5 +1,4 @@
-Rhabdoderma zygnemicolum Copeland SPECIES
-=======
+# Rhabdoderma zygnemicolum Copeland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrococcus woesei Zillig, 1988 SPECIES
-=======
+# Pyrococcus woesei Zillig, 1988 SPECIES
 
 #### Status
 ACCEPTED

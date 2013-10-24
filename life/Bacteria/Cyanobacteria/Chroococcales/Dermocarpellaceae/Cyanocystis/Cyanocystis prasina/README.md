@@ -1,5 +1,4 @@
-Cyanocystis prasina (Reinsch) Komárek & Anagnostidis SPECIES
-=======
+# Cyanocystis prasina (Reinsch) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

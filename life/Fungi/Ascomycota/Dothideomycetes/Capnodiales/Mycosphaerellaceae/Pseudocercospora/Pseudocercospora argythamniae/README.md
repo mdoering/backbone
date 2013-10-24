@@ -1,14 +1,13 @@
-Pseudocercospora argyrothamniae (Dearn. & House) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora argythamniae (Dearn. & House) U. Braun & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 64 (2003)
 
 #### Original name
 Cercospora argythamniae Dearn. & House

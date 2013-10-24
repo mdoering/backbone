@@ -1,5 +1,4 @@
-Synchytrium athyrii Lagerh. SPECIES
-=======
+# Synchytrium athyrii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

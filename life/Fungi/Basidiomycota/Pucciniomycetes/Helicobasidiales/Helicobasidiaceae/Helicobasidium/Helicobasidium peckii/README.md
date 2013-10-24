@@ -1,5 +1,4 @@
-Helicobasidium peckii Burt SPECIES
-=======
+# Helicobasidium peckii Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria subcandicans (Müll. Arg.) SPECIES
-=======
+# Squamaria subcandicans (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

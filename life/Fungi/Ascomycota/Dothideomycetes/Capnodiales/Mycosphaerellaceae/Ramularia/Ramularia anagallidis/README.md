@@ -1,5 +1,4 @@
-Ramularia anagallidis Lindr., 1902 SPECIES
-=======
+# Ramularia anagallidis Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED

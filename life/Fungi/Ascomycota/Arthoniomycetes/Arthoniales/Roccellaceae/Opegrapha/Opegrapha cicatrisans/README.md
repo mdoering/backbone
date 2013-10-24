@@ -1,5 +1,4 @@
-Opegrapha cicatrisans Ach. SPECIES
-=======
+# Opegrapha cicatrisans Ach. SPECIES
 
 #### Status
 ACCEPTED

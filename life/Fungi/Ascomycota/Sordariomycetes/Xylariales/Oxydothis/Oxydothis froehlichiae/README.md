@@ -1,17 +1,16 @@
-Oxydothis froehlichii K.D. Hyde SPECIES
-=======
+# Oxydothis froehlichiae K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 46(2): 283 (1994)
 
 #### Original name
-Oxydothis froehlichii K.D. Hyde
+Oxydothis froehlichiae K.D. Hyde
 
 ### Remarks
 null

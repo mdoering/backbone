@@ -1,5 +1,4 @@
-Xylaria xanthiceps Berk. SPECIES
-=======
+# Xylaria xanthiceps Berk. SPECIES
 
 #### Status
 ACCEPTED

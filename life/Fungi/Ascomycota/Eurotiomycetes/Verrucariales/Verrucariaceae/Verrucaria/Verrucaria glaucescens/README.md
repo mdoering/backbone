@@ -1,5 +1,4 @@
-Verrucaria glaucescens (Müll. Arg.) Nyl. SPECIES
-=======
+# Verrucaria glaucescens (Müll. Arg.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus alliaceus (Beeli) Heinem. SPECIES
-=======
+# Xerocomus alliaceus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

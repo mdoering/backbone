@@ -1,5 +1,4 @@
-Hypholoma peltostes Kalchbr. SPECIES
-=======
+# Hypholoma peltostes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

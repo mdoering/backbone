@@ -1,5 +1,4 @@
-Macroplodia tritici (Cooke & Massee) Kuntze SPECIES
-=======
+# Macroplodia tritici (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

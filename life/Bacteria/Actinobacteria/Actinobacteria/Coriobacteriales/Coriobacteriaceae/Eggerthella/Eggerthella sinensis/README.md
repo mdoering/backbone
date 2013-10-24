@@ -1,5 +1,4 @@
-Eggerthella sinensis Lau et al., 2006 SPECIES
-=======
+# Eggerthella sinensis Lau et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora interrupta (Ehrenb.) Vain. SPECIES
-=======
+# Acarospora interrupta (Ehrenb.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirstomum teres Claparède & Lachmann, 1859 SPECIES
-=======
+# Spirstomum teres Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

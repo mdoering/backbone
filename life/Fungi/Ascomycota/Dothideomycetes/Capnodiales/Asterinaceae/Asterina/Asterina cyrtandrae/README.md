@@ -1,5 +1,4 @@
-Asterina cyrtandrae Hansf. SPECIES
-=======
+# Asterina cyrtandrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

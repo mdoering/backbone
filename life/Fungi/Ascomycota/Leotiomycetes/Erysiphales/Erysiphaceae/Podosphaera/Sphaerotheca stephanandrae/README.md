@@ -1,5 +1,4 @@
-Sphaerotheca stephanandrae Jacz. SPECIES
-=======
+# Sphaerotheca stephanandrae Jacz. SPECIES
 
 #### Status
 ACCEPTED

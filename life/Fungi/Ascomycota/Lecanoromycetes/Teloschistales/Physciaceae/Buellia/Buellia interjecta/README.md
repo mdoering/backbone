@@ -1,5 +1,4 @@
-Buellia interjecta Müll. Arg. SPECIES
-=======
+# Buellia interjecta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

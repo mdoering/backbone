@@ -1,5 +1,4 @@
-Oriundogutta Nazarov & Ormiston, 1990 GENUS
-=======
+# Oriundogutta Nazarov & Ormiston, 1990 GENUS
 
 #### Status
 ACCEPTED

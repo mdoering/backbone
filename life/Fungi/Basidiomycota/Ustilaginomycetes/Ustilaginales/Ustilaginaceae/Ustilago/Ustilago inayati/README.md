@@ -1,5 +1,4 @@
-Ustilago inayati Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Ustilago inayati Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

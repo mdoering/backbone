@@ -1,5 +1,4 @@
-Thekopsora hakkodensis S. Ito & Hirats. SPECIES
-=======
+# Thekopsora hakkodensis S. Ito & Hirats. SPECIES
 
 #### Status
 ACCEPTED

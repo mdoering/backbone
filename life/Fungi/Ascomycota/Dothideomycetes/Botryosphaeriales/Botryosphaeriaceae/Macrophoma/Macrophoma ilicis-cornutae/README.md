@@ -1,5 +1,4 @@
-Macrophoma ilicis-cornutae Teng SPECIES
-=======
+# Macrophoma ilicis-cornutae Teng SPECIES
 
 #### Status
 ACCEPTED

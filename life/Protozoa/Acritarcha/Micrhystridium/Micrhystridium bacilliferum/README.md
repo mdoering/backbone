@@ -1,5 +1,4 @@
-Micrhystridium bacilliferum Deflandre, 1946 SPECIES
-=======
+# Micrhystridium bacilliferum Deflandre, 1946 SPECIES
 
 #### Status
 ACCEPTED

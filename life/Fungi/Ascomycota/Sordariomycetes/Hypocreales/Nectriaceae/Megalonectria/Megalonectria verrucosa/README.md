@@ -1,5 +1,4 @@
-Megalonectria verrucosa Möller SPECIES
-=======
+# Megalonectria verrucosa Möller SPECIES
 
 #### Status
 ACCEPTED

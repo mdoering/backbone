@@ -1,5 +1,4 @@
-Euthymonacha polita (Chapman, 1900) SPECIES
-=======
+# Euthymonacha polita (Chapman, 1900) SPECIES
 
 #### Status
 ACCEPTED

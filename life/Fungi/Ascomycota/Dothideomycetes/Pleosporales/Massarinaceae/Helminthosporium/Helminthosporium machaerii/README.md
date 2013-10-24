@@ -1,5 +1,4 @@
-Helminthosporium machaerii Viégas SPECIES
-=======
+# Helminthosporium machaerii Viégas SPECIES
 
 #### Status
 ACCEPTED

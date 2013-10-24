@@ -1,5 +1,4 @@
-Laguncula M. Black, 1971 GENUS
-=======
+# Laguncula M. Black, 1971 GENUS
 
 #### Status
 ACCEPTED

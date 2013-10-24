@@ -1,5 +1,4 @@
-Lespiaultinia GENUS
-=======
+# Lespiaultinia GENUS
 
 #### Status
 ACCEPTED

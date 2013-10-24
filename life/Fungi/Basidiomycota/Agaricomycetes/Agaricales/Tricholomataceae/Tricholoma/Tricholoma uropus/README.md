@@ -1,5 +1,4 @@
-Tricholoma uropus Corner SPECIES
-=======
+# Tricholoma uropus Corner SPECIES
 
 #### Status
 ACCEPTED

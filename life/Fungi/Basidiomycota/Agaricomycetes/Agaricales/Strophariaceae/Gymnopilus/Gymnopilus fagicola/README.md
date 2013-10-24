@@ -1,5 +1,4 @@
-Gymnopilus fagicola Murrill SPECIES
-=======
+# Gymnopilus fagicola Murrill SPECIES
 
 #### Status
 ACCEPTED

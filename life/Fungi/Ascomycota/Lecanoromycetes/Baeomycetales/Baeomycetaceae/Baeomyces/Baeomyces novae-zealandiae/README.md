@@ -1,17 +1,16 @@
-Baeomyces novae-zelandiae C. Knight SPECIES
-=======
+# Baeomyces novae-zealandiae C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. New Zealand Inst. 15: 348 (1883)
 
 #### Original name
-Baeomyces novae-zelandiae C. Knight
+Baeomyces novae-zealandiae C. Knight
 
 ### Remarks
 null

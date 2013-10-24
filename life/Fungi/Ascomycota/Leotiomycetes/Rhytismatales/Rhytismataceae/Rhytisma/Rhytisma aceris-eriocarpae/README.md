@@ -1,5 +1,4 @@
-Rhytisma aceris-eriocarpae Schwein. SPECIES
-=======
+# Rhytisma aceris-eriocarpae Schwein. SPECIES
 
 #### Status
 ACCEPTED

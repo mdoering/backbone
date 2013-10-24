@@ -1,5 +1,4 @@
-Balladynopsis urtiagae Sivan. SPECIES
-=======
+# Balladynopsis urtiagae Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opercularia corethrae Keiser, 1921 SPECIES
-=======
+# Opercularia corethrae Keiser, 1921 SPECIES
 
 #### Status
 ACCEPTED

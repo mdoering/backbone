@@ -1,17 +1,16 @@
-Aspergillus chevalieri var. ruber Y. Sasaki VARIETY
-=======
+# Eurotium intermedium Blaser, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 28(1-6): 41 (1976)
 
 #### Original name
-Aspergillus chevalieri var. ruber Y. Sasaki
+Eurotium intermedium Blaser, 1976
 
 ### Remarks
 null

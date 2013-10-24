@@ -1,5 +1,4 @@
-Parmelia homochroa SPECIES
-=======
+# Parmelia homochroa SPECIES
 
 #### Status
 ACCEPTED

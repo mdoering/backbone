@@ -1,5 +1,4 @@
-Cassidulinella pliocenica Natland, 1940 SPECIES
-=======
+# Cassidulinella pliocenica Natland, 1940 SPECIES
 
 #### Status
 ACCEPTED

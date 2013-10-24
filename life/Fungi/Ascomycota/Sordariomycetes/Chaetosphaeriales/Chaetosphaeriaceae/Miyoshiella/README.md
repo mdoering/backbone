@@ -1,5 +1,4 @@
-Miyoshiella GENUS
-=======
+# Miyoshiella GENUS
 
 #### Status
 ACCEPTED

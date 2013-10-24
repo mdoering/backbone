@@ -1,5 +1,4 @@
-Haploangium GENUS
-=======
+# Haploangium GENUS
 
 #### Status
 ACCEPTED

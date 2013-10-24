@@ -1,17 +1,16 @@
-Microeccrina Maessen GENUS
-=======
+# Arthromitus Leidy GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Parasitologische Schriftenreihe 2: 120 (1955)
+Proc. Acad. nat. Sci. Philad. 4: 227 (1850)
 
 #### Original name
-Microeccrina Maessen
+Arthromitus Leidy
 
 ### Remarks
 null

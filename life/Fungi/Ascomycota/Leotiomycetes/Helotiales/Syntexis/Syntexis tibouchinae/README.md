@@ -1,5 +1,4 @@
-Syntexis tibouchinae (Henn.) Theiss. SPECIES
-=======
+# Syntexis tibouchinae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

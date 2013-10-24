@@ -1,5 +1,4 @@
-Phlyctema lapparum Höhn. SPECIES
-=======
+# Phlyctema lapparum Höhn. SPECIES
 
 #### Status
 ACCEPTED

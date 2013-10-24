@@ -1,5 +1,4 @@
-Phlegmacium multiforme var. multiforme VARIETY
-=======
+# Phlegmacium multiforme (Fr.) Wünsche SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium multiforme var. multiforme
+Agaricus multiformis Schaeff., 1774
 
 ### Remarks
 null

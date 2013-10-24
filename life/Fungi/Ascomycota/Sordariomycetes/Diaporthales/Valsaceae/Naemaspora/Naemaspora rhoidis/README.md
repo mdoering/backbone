@@ -1,5 +1,4 @@
-Naemaspora rhoidis Berk. & M.A. Curtis SPECIES
-=======
+# Naemaspora rhoidis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

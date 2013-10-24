@@ -1,5 +1,4 @@
-Collybia ludoviciana (Murrill) Murrill SPECIES
-=======
+# Collybia ludoviciana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

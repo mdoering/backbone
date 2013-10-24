@@ -1,5 +1,4 @@
-Lenticulina convergens SPECIES
-=======
+# Lenticulina convergens SPECIES
 
 #### Status
 ACCEPTED

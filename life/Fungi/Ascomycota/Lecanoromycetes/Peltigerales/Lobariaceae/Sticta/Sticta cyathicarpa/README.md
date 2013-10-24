@@ -1,5 +1,4 @@
-Sticta cyathicarpa Delise SPECIES
-=======
+# Sticta cyathicarpa Delise SPECIES
 
 #### Status
 ACCEPTED

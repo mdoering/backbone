@@ -1,5 +1,4 @@
-Aspergillus coreanus S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Aspergillus coreanus S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

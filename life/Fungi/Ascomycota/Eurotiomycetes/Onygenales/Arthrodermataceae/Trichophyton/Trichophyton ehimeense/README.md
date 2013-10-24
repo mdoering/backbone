@@ -1,5 +1,4 @@
-Trichophyton ehimeense H. Fujii SPECIES
-=======
+# Trichophyton ehimeense H. Fujii SPECIES
 
 #### Status
 ACCEPTED

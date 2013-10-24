@@ -1,5 +1,4 @@
-Echinochaete D.A. Reid GENUS
-=======
+# Echinochaete D.A. Reid GENUS
 
 #### Status
 ACCEPTED

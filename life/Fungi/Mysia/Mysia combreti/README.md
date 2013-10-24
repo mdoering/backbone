@@ -1,5 +1,4 @@
-Mysia combreti Bat. SPECIES
-=======
+# Mysia combreti Bat. SPECIES
 
 #### Status
 ACCEPTED

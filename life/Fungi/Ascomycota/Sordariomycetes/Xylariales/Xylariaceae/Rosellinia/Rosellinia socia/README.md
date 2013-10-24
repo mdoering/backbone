@@ -1,5 +1,4 @@
-Rosellinia socia (De Not.) Sacc. SPECIES
-=======
+# Rosellinia socia (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

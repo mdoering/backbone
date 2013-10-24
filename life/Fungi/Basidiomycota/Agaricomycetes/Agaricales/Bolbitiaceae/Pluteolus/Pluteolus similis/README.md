@@ -1,5 +1,4 @@
-Pluteolus similis (Rick) Rick SPECIES
-=======
+# Pluteolus similis (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

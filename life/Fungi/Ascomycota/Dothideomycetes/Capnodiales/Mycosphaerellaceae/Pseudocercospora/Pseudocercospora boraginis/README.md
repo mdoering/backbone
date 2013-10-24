@@ -1,5 +1,4 @@
-Pseudocercospora boraginis (G.P. Agarwal & N.D. Sharma) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora boraginis (G.P. Agarwal & N.D. Sharma) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

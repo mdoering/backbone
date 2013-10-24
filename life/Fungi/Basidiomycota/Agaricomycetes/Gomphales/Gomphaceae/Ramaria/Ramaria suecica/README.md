@@ -1,17 +1,16 @@
-Ramaria circinans var. anceps Marr & D.E. Stuntz VARIETY
-=======
+# Ramaria suecica (Fr.) Donk, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 38: 130 (1974)
+Rev. Niederl. Homob. Aphyll. 2: 105 (1933)
 
 #### Original name
-Ramaria circinans var. anceps Marr & D.E. Stuntz
+Clavaria suecica Fr., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyathosphaera Haeckel GENUS
-=======
+# Cyathosphaera Haeckel GENUS
 
 #### Status
 ACCEPTED

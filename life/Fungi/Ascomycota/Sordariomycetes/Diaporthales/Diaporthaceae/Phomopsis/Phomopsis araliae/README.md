@@ -1,5 +1,4 @@
-Phomopsis araliae Koval SPECIES
-=======
+# Phomopsis araliae Koval SPECIES
 
 #### Status
 ACCEPTED

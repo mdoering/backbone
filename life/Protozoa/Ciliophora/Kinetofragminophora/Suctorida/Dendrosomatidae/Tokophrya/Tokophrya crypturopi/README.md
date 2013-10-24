@@ -1,5 +1,4 @@
-Tokophrya crypturopi SPECIES
-=======
+# Tokophrya crypturopi SPECIES
 
 #### Status
 ACCEPTED

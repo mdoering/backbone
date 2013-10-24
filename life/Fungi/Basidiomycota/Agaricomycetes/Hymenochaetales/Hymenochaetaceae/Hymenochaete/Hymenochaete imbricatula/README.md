@@ -1,8 +1,7 @@
-Hymenochaete imbricata (Schwein.) Lév. SPECIES
-=======
+# Hymenochaete imbricatula (Schwein.) Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

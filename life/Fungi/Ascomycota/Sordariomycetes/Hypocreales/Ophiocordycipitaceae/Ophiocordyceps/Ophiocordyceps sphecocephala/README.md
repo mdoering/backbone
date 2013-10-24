@@ -1,17 +1,16 @@
-Cordyceps sphecocephala f. sphecocephala FORM
-=======
+# Ophiocordyceps sphecocephala (Klotzsch ex Berk.) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora, 2007 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 47 (2007)
 
 #### Original name
-null
+Sphaeria sphecocephala Klotzsch ex Berk., 1843
 
 ### Remarks
 null

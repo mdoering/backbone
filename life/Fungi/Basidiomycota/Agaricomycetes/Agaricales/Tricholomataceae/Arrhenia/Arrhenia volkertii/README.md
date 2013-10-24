@@ -1,5 +1,4 @@
-Arrhenia volkertii (Murrill) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia volkertii (Murrill) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

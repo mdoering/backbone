@@ -1,5 +1,4 @@
-Skyttea pertusariicola Diederich & Etayo SPECIES
-=======
+# Skyttea pertusariicola Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Punctaria hesperia Setchell & N.L. Gardner SPECIES
-=======
+# Punctaria hesperia Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

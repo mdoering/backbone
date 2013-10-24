@@ -1,5 +1,4 @@
-Tricholoma foliicola Har. Takah. SPECIES
-=======
+# Tricholoma foliicola Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria pubens Schwein. SPECIES
-=======
+# Sphaeria pubens Schwein. SPECIES
 
 #### Status
 ACCEPTED

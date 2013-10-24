@@ -1,5 +1,4 @@
-Periconiella levispora Arzanlou, W. Gams & Crous SPECIES
-=======
+# Periconiella levispora Arzanlou, W. Gams & Crous SPECIES
 
 #### Status
 ACCEPTED

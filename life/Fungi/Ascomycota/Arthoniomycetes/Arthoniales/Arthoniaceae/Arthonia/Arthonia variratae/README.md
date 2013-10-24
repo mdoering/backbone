@@ -1,5 +1,4 @@
-Arthonia variratae Aptroot & Sipman SPECIES
-=======
+# Arthonia variratae Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Uredo betae convolvuli Alb. & Schwein., 1805 INFRASPECIFIC_NAME
-=======
+# Puccinia polygoni-amphibii Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

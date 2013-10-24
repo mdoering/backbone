@@ -1,5 +1,4 @@
-Hymenelia haematina (Körb.) Lutzoni SPECIES
-=======
+# Hymenelia haematina (Körb.) Lutzoni SPECIES
 
 #### Status
 ACCEPTED

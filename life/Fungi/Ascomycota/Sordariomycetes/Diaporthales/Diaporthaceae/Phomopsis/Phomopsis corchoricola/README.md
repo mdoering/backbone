@@ -1,5 +1,4 @@
-Phomopsis corchoricola A.Z.M. Khan & S.K. Das SPECIES
-=======
+# Phomopsis corchoricola A.Z.M. Khan & S.K. Das SPECIES
 
 #### Status
 ACCEPTED

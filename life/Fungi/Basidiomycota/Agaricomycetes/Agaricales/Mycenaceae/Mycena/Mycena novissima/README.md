@@ -1,5 +1,4 @@
-Mycena novissima (Speg.) Singer SPECIES
-=======
+# Mycena novissima (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

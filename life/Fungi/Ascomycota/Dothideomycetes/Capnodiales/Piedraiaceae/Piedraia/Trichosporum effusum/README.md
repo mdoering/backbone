@@ -1,17 +1,16 @@
-Trichosporum effusum var. effusum VARIETY
-=======
+# Trichosporum effusum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 294 (1886)
 
 #### Original name
-null
+Memnonium effusum Corda
 
 ### Remarks
 null

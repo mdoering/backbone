@@ -1,5 +1,4 @@
-Hebeloma ischnostylum (Cooke) Sacc. SPECIES
-=======
+# Hebeloma ischnostylum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

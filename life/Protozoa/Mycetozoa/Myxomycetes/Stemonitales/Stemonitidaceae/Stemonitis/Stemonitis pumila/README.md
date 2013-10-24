@@ -1,5 +1,4 @@
-Stemonitis pumila Fr. SPECIES
-=======
+# Stemonitis pumila Fr. SPECIES
 
 #### Status
 ACCEPTED

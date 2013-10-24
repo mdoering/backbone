@@ -1,5 +1,4 @@
-Dinemasporium fusiforme W.P. Wu & J.X. Duan SPECIES
-=======
+# Dinemasporium fusiforme W.P. Wu & J.X. Duan SPECIES
 
 #### Status
 ACCEPTED

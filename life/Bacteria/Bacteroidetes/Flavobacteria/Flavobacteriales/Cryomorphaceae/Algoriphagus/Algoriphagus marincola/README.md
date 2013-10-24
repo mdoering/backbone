@@ -1,5 +1,4 @@
-Algoriphagus marincola (Yoon, Kang & Oh, 2004) Nedashkovskaya, Vancanneyt, Van Trappen, Vandemeulebroecke, Lysenko, Rohde, Falsen, Frolova, Mikhailov & Swings, 2007 SPECIES
-=======
+# Algoriphagus marincola (Yoon, Kang & Oh, 2004) Nedashkovskaya, Vancanneyt, Van Trappen, Vandemeulebroecke, Lysenko, Rohde, Falsen, Frolova, Mikhailov & Swings, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea paraspeirea Stizenb. SPECIES
-=======
+# Lecidea paraspeirea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

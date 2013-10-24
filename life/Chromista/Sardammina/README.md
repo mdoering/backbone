@@ -1,5 +1,4 @@
-Sardammina GENUS
-=======
+# Sardammina GENUS
 
 #### Status
 ACCEPTED

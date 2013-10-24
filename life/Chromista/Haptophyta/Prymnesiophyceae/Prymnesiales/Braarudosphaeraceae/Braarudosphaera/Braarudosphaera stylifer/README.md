@@ -1,5 +1,4 @@
-Braarudosphaera stylifer Troelsen & Quadros, 1971 SPECIES
-=======
+# Braarudosphaera stylifer Troelsen & Quadros, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus californicus Peck SPECIES
-=======
+# Agaricus californicus Peck SPECIES
 
 #### Status
 ACCEPTED

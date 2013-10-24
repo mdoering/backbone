@@ -1,5 +1,4 @@
-Sphenolithus delphix Bukry, 1973 SPECIES
-=======
+# Sphenolithus delphix Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

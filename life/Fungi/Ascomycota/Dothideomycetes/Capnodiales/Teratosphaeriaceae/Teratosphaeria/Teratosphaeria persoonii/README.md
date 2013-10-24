@@ -1,5 +1,4 @@
-Teratosphaeria persoonii Crous & L. Mostert, 2008 SPECIES
-=======
+# Teratosphaeria persoonii Crous & L. Mostert, 2008 SPECIES
 
 #### Status
 ACCEPTED

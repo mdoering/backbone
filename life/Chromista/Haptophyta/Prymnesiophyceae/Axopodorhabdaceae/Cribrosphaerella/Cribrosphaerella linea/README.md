@@ -1,5 +1,4 @@
-Cribrosphaerella linea S. Gartner SPECIES
-=======
+# Cribrosphaerella linea S. Gartner SPECIES
 
 #### Status
 ACCEPTED

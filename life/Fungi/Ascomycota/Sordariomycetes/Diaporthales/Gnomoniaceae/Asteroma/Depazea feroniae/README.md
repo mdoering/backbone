@@ -1,5 +1,4 @@
-Depazea feroniae Ettingsh. SPECIES
-=======
+# Depazea feroniae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudolagarobasidium acaciicola Ginns SPECIES
-=======
+# Pseudolagarobasidium acaciicola Ginns SPECIES
 
 #### Status
 ACCEPTED

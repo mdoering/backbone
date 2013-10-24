@@ -1,5 +1,4 @@
-Polymeridium campylothelioides Aptroot & Sipman SPECIES
-=======
+# Polymeridium campylothelioides Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

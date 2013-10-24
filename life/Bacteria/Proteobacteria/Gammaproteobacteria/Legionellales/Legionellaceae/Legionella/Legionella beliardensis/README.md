@@ -1,5 +1,4 @@
-Legionella beliardensis Lo Presti et al., 2001 SPECIES
-=======
+# Legionella beliardensis Lo Presti et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

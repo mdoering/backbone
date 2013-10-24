@@ -1,5 +1,4 @@
-Hendersonula varians Curzi & Barbaini SPECIES
-=======
+# Hendersonula varians Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dothidea dalibardae Peck, 1875 SPECIES
-=======
+# Phyllachora dalibardae (Peck) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 27: 109 (1875)
+Syll. fung. (Abellini) 2: 600 (1883)
 
 #### Original name
 Dothidea dalibardae Peck, 1875

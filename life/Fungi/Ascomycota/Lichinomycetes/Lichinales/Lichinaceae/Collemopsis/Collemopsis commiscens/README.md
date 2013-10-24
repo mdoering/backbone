@@ -1,5 +1,4 @@
-Collemopsis commiscens Nyl. SPECIES
-=======
+# Collemopsis commiscens Nyl. SPECIES
 
 #### Status
 ACCEPTED

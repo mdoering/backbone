@@ -1,5 +1,4 @@
-Lecanora victoriae (C. Knight ex F. Wilson) Tibell SPECIES
-=======
+# Lecanora victoriae (C. Knight ex F. Wilson) Tibell SPECIES
 
 #### Status
 ACCEPTED

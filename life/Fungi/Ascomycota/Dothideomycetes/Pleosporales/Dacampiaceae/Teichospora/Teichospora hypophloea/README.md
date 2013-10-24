@@ -1,5 +1,4 @@
-Teichospora hypophloea Kirschst. SPECIES
-=======
+# Teichospora hypophloea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

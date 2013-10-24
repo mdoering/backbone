@@ -1,17 +1,16 @@
-Leptogium diaphanum f. coralloideum Meyen & Flot. FORM
-=======
+# Leptogium coralloideum (Meyen & Flot.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta Acad. Caes. Leop. -Carol. 19(Suppl. ): 226 (1843)
+Ann. Acad. Sci. fenn. , Ser. A 6(7): 110 (1915)
 
 #### Original name
-Leptogium diaphanum f. coralloideum Meyen & Flot.
+Leptogium diaphanum var. coralloideum (Meyen & Flot.)
 
 ### Remarks
 null

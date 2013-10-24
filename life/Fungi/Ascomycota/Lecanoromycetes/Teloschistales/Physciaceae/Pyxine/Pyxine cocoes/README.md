@@ -1,5 +1,4 @@
-Pyxine cocoes (Sw.) Nyl. SPECIES
-=======
+# Pyxine cocoes (Sw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

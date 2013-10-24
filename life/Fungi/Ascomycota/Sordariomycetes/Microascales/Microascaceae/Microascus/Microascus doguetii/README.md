@@ -1,5 +1,4 @@
-Microascus doguetii Moreau, 1953 SPECIES
-=======
+# Microascus doguetii Moreau, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collemodium triptophylloides (Nyl.) Nyl. SPECIES
-=======
+# Collemodium triptophylloides (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola chandleri (Hansf.) Cif. SPECIES
-=======
+# Meliola chandleri (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

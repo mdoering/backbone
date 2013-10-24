@@ -1,5 +1,4 @@
-Pseudocercospora woodfordiae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora woodfordiae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

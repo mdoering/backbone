@@ -1,5 +1,4 @@
-Tuber eisenii Harkn. SPECIES
-=======
+# Tuber eisenii Harkn. SPECIES
 
 #### Status
 ACCEPTED

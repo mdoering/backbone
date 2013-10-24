@@ -1,5 +1,4 @@
-Zernya Petr. GENUS
-=======
+# Zernya Petr. GENUS
 
 #### Status
 ACCEPTED

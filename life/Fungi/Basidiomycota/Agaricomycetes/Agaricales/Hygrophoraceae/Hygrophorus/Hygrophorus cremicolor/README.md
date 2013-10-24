@@ -1,5 +1,4 @@
-Hygrophorus cremicolor (Murrill) Murrill SPECIES
-=======
+# Hygrophorus cremicolor (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

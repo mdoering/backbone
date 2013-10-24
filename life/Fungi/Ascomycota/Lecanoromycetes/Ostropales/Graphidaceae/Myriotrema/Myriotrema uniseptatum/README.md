@@ -1,5 +1,4 @@
-Myriotrema uniseptatum (Hale) Hale SPECIES
-=======
+# Myriotrema uniseptatum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea galbinifera Asahina SPECIES
-=======
+# Usnea galbinifera Asahina SPECIES
 
 #### Status
 ACCEPTED

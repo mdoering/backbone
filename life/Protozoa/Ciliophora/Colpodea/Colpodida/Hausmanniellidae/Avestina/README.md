@@ -1,5 +1,4 @@
-Avestina Yankovskij, 1980 GENUS
-=======
+# Avestina Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

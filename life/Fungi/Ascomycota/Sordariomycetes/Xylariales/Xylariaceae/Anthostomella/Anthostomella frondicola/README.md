@@ -1,5 +1,4 @@
-Anthostomella frondicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
-=======
+# Anthostomella frondicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta veraltiana C. Massal. ex Sacc. SPECIES
-=======
+# Phyllosticta veraltiana C. Massal. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

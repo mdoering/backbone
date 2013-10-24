@@ -1,5 +1,4 @@
-Ciboria carniolica Rehm SPECIES
-=======
+# Ciboria carniolica Rehm SPECIES
 
 #### Status
 ACCEPTED

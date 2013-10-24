@@ -1,5 +1,4 @@
-Diplodina fructigena P. Karst. SPECIES
-=======
+# Diplodina fructigena P. Karst. SPECIES
 
 #### Status
 ACCEPTED

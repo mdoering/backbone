@@ -1,5 +1,4 @@
-Vaginulinopsis elegans SPECIES
-=======
+# Vaginulinopsis elegans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula lurida Pers. SPECIES
-=======
+# Russula lurida Pers. SPECIES
 
 #### Status
 ACCEPTED

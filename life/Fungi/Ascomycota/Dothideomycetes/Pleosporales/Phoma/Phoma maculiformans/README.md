@@ -1,5 +1,4 @@
-Phoma maculiformans Ihlen SPECIES
-=======
+# Phoma maculiformans Ihlen SPECIES
 
 #### Status
 ACCEPTED

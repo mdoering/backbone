@@ -1,5 +1,4 @@
-Merocystis kathae Dakin, 1911 SPECIES
-=======
+# Merocystis kathae Dakin, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonosphaera Jørgensen in Nordgaard & Joergensen, 1905 GENUS
-=======
+# Gonosphaera Jørgensen in Nordgaard & Joergensen, 1905 GENUS
 
 #### Status
 ACCEPTED

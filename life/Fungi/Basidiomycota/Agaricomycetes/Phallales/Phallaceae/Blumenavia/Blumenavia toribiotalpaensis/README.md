@@ -1,5 +1,4 @@
-Blumenavia toribiotalpaensis Vargas-Rodr., 2006 SPECIES
-=======
+# Blumenavia toribiotalpaensis Vargas-Rodr., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudomonas saccharophila Doudoroff, 1940 (Approved Lists, 1980) SPECIES
-=======
+# Pelomonas saccharophila (Doudoroff, 1940) Xie & Yokota, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

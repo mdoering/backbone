@@ -1,5 +1,4 @@
-Elsinoë purpurascens (Rehm) Viégas SPECIES
-=======
+# Elsinoë purpurascens (Rehm) Viégas SPECIES
 
 #### Status
 ACCEPTED

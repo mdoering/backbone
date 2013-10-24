@@ -1,5 +1,4 @@
-Scytonema variabile Gardner SPECIES
-=======
+# Scytonema variabile Gardner SPECIES
 
 #### Status
 ACCEPTED

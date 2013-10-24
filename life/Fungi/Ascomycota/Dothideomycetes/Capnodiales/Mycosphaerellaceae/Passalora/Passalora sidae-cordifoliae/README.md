@@ -1,5 +1,4 @@
-Passalora sidae-cordifoliae Crous, U. Braun & Alfenas SPECIES
-=======
+# Passalora sidae-cordifoliae Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

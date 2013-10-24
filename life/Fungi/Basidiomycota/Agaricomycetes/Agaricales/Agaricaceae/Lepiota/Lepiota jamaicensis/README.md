@@ -1,17 +1,16 @@
-Lepiota jamaicense Murrill SPECIES
-=======
+# Lepiota jamaicensis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 3(2): 87 (1911)
 
 #### Original name
-Lepiota jamaicense Murrill
+Lepiota jamaicensis Murrill
 
 ### Remarks
 null

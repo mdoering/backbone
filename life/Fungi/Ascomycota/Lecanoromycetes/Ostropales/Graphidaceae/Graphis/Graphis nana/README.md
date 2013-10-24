@@ -1,5 +1,4 @@
-Graphis nana (Fée) Spreng. SPECIES
-=======
+# Graphis nana (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

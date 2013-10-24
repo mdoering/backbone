@@ -1,5 +1,4 @@
-Pyrenastrum oleaginum (Fée) Müll. Arg. SPECIES
-=======
+# Pyrenastrum oleaginum (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

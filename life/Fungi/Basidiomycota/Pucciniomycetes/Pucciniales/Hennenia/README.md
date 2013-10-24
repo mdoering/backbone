@@ -1,5 +1,4 @@
-Hennenia Buriticá GENUS
-=======
+# Hennenia Buriticá GENUS
 
 #### Status
 ACCEPTED

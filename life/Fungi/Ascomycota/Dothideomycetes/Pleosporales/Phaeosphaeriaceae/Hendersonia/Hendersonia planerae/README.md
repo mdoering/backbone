@@ -1,5 +1,4 @@
-Hendersonia planerae Cooke & Massee SPECIES
-=======
+# Hendersonia planerae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

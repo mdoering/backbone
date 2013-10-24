@@ -1,14 +1,13 @@
-Nematoloma irroratum (P. Karst.) SPECIES
-=======
+# Naematoloma irroratum (P. Karst.) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 35: 44 (1896)
 
 #### Original name
 Hypholoma irroratum (P. Karst.) Sacc.

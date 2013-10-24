@@ -1,5 +1,4 @@
-Evernia villosa (Ach.) Fr. SPECIES
-=======
+# Evernia villosa (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria anguinea (Fr.) Sacc. SPECIES
-=======
+# Naucoria anguinea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

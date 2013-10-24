@@ -1,5 +1,4 @@
-Arenaea macrospora Penz. & Sacc. SPECIES
-=======
+# Arenaea macrospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

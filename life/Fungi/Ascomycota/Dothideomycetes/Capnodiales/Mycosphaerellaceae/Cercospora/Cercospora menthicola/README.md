@@ -1,5 +1,4 @@
-Cercospora menthicola Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora menthicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

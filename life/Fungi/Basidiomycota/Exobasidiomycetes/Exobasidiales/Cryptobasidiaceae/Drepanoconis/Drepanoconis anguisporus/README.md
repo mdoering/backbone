@@ -1,5 +1,4 @@
-Drepanoconis anguisporus (Pat. & Lagerh.) Linder SPECIES
-=======
+# Drepanoconis anguisporus (Pat. & Lagerh.) Linder SPECIES
 
 #### Status
 ACCEPTED

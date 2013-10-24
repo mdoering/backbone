@@ -1,5 +1,4 @@
-Protoperidinium stellatum (Wall, 1968) Balech, 1994 SPECIES
-=======
+# Protoperidinium stellatum (Wall, 1968) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winteria oxyspora Penz. & Sacc. SPECIES
-=======
+# Winteria oxyspora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Priscogalea distincta S. M. Rasul SPECIES
-=======
+# Priscogalea distincta S. M. Rasul SPECIES
 
 #### Status
 ACCEPTED

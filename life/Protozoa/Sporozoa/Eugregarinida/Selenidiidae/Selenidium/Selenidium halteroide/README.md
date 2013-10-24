@@ -1,5 +1,4 @@
-Selenidium halteroide Hasselman, 1926 SPECIES
-=======
+# Selenidium halteroide Hasselman, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora guazumae (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora guazumae (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

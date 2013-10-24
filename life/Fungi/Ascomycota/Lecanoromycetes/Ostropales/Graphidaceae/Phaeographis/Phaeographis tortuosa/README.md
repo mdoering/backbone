@@ -1,5 +1,4 @@
-Phaeographis tortuosa (Ach.) Müll. Arg. SPECIES
-=======
+# Phaeographis tortuosa (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

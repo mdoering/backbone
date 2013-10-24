@@ -1,5 +1,4 @@
-Eurotium rhodosporum Jasevoli SPECIES
-=======
+# Eurotium rhodosporum Jasevoli SPECIES
 
 #### Status
 ACCEPTED

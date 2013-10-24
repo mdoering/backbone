@@ -1,5 +1,4 @@
-Peronospora crossostephii Sawada SPECIES
-=======
+# Peronospora crossostephii Sawada SPECIES
 
 #### Status
 ACCEPTED

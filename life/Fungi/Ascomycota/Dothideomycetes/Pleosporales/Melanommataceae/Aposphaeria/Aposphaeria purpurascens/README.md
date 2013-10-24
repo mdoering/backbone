@@ -1,5 +1,4 @@
-Aposphaeria purpurascens Peyronel SPECIES
-=======
+# Aposphaeria purpurascens Peyronel SPECIES
 
 #### Status
 ACCEPTED

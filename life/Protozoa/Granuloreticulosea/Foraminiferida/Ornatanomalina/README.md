@@ -1,5 +1,4 @@
-Ornatanomalina Haque, 1956 GENUS
-=======
+# Ornatanomalina Haque, 1956 GENUS
 
 #### Status
 ACCEPTED

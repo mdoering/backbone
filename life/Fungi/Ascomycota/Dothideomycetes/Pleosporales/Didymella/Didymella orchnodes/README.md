@@ -1,5 +1,4 @@
-Didymella orchnodes Rehm SPECIES
-=======
+# Didymella orchnodes Rehm SPECIES
 
 #### Status
 ACCEPTED

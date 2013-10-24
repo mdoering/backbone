@@ -1,5 +1,4 @@
-Trichopeltospora reticulata Bat., J.L. Bezerra & Valle SPECIES
-=======
+# Trichopeltospora reticulata Bat., J.L. Bezerra & Valle SPECIES
 
 #### Status
 ACCEPTED

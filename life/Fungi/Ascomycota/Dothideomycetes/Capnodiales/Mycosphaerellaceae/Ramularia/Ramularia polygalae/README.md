@@ -1,5 +1,4 @@
-Ramularia polygalae (J. Schröt.) Sacc. & P. Syd. SPECIES
-=======
+# Ramularia polygalae (J. Schröt.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

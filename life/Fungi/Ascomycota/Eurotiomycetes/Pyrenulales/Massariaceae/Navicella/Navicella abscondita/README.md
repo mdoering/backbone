@@ -1,5 +1,4 @@
-Navicella abscondita (Pass.) Kuntze SPECIES
-=======
+# Navicella abscondita (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

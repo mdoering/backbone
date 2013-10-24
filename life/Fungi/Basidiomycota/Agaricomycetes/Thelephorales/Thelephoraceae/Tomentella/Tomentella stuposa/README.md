@@ -1,17 +1,16 @@
-Hypochnus subfuscus var. radiosus P. Karst. VARIETY
-=======
+# Tomentella stuposa (Link) Stalpers, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 9: 71 (1882)
+Stud. Mycol. 24: 86 (1984)
 
 #### Original name
-Hypochnus subfuscus var. radiosus P. Karst.
+Sporotrichum stuposum Link, 1809
 
 ### Remarks
 null

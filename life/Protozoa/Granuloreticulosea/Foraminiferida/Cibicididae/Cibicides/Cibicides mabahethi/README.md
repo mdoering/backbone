@@ -1,5 +1,4 @@
-Cibicides mabahethi Said, 1949 SPECIES
-=======
+# Cibicides mabahethi Said, 1949 SPECIES
 
 #### Status
 ACCEPTED

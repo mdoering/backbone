@@ -1,5 +1,4 @@
-Polydesmus petalicolor Sorokin SPECIES
-=======
+# Polydesmus petalicolor Sorokin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia celtigena Ellis & Barthol. SPECIES
-=======
+# Diplodia celtigena Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

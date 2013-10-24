@@ -1,5 +1,4 @@
-Lecanora albocaesiella B. D. Ryan & T. H. Nash SPECIES
-=======
+# Lecanora albocaesiella B. D. Ryan & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium leersiae Bag & D.K. Agarwal SPECIES
-=======
+# Sporisorium leersiae Bag & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

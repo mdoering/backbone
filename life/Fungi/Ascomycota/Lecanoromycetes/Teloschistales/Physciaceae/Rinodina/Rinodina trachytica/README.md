@@ -1,14 +1,13 @@
-Lecanora trachytica (A. Massal.) Stizenb. SPECIES
-=======
+# Rinodina trachytica (A. Massal.) Bagl. & Carestia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Soc. Crittogam. Ital. 2: 209 (1880)
 
 #### Original name
 Mischoblastia lecanorina var. trachytica A. Massal.

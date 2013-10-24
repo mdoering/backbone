@@ -1,5 +1,4 @@
-Zygorhizidium parallelosede Canter, 1954 SPECIES
-=======
+# Zygorhizidium parallelosede Canter, 1954 SPECIES
 
 #### Status
 ACCEPTED

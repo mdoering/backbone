@@ -1,5 +1,4 @@
-Lichenothelia echinulata Henssen SPECIES
-=======
+# Lichenothelia echinulata Henssen SPECIES
 
 #### Status
 ACCEPTED

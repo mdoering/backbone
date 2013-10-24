@@ -1,5 +1,4 @@
-Marasmius auriformis Henn. SPECIES
-=======
+# Marasmius auriformis Henn. SPECIES
 
 #### Status
 ACCEPTED

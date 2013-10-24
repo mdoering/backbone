@@ -1,5 +1,4 @@
-Pucciniola claytoniae (Cooke & Massee) Arthur SPECIES
-=======
+# Pucciniola claytoniae (Cooke & Massee) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersoniella Tassi, 1900 GENUS
-=======
+# Hendersoniella Tassi, 1900 GENUS
 
 #### Status
 ACCEPTED

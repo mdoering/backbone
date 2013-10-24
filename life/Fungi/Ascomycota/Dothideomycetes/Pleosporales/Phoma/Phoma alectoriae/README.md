@@ -1,5 +1,4 @@
-Phoma alectoriae Vouaux SPECIES
-=======
+# Phoma alectoriae Vouaux SPECIES
 
 #### Status
 ACCEPTED

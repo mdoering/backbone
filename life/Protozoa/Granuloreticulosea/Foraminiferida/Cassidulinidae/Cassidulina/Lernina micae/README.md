@@ -1,11 +1,10 @@
-Lernina micae subsp. micae SUBSPECIES
-=======
+# Lernina micae Saidova, 1975 SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

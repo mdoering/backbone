@@ -1,5 +1,4 @@
-Amanita nitida (Fr.) Gillet SPECIES
-=======
+# Amanita nitida (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

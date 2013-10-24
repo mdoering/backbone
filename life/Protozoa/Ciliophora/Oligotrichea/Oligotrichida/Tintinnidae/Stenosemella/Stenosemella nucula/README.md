@@ -1,5 +1,4 @@
-Stenosemella nucula (Fol, 1884) Jörgensen, 1924 SPECIES
-=======
+# Stenosemella nucula (Fol, 1884) Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

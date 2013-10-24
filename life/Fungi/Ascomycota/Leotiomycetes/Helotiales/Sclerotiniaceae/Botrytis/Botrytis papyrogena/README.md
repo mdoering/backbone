@@ -1,5 +1,4 @@
-Botrytis papyrogena Ellis & Barthol. SPECIES
-=======
+# Botrytis papyrogena Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia antarctica Speg. SPECIES
-=======
+# Tubercularia antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

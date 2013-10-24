@@ -1,8 +1,7 @@
-Neouvigerina hispida (Schwager, 1866) SPECIES
-=======
+# Siphouvigerina hispida (Schwager, 1866) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

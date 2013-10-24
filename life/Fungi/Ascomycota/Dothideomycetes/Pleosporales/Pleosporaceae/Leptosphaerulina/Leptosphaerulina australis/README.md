@@ -1,17 +1,16 @@
-Pleospora gaeumanni E. Müll. SPECIES
-=======
+# Leptosphaerulina australis McAlpine, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus Diseases of stone-fruit trees in Australia 103 (1902)
 
 #### Original name
-Pleospora gaeumanni E. Müll.
+Leptosphaerulina australis McAlpine, 1902
 
 ### Remarks
 null

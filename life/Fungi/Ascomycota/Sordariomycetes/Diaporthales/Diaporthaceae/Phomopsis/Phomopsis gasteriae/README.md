@@ -1,5 +1,4 @@
-Phomopsis gasteriae Sacc. SPECIES
-=======
+# Phomopsis gasteriae Sacc. SPECIES
 
 #### Status
 ACCEPTED

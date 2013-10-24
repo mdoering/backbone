@@ -1,5 +1,4 @@
-Hexagonia variabilis Lloyd SPECIES
-=======
+# Hexagonia variabilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

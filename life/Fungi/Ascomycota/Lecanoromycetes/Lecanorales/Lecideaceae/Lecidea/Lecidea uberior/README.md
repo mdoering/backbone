@@ -1,5 +1,4 @@
-Lecidea uberior SPECIES
-=======
+# Lecidea uberior SPECIES
 
 #### Status
 ACCEPTED

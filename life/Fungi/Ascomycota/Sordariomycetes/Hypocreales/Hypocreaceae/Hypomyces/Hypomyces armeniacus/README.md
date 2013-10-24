@@ -1,5 +1,4 @@
-Hypomyces armeniacus Tul. & C. Tul., 1860 SPECIES
-=======
+# Hypomyces armeniacus Tul. & C. Tul., 1860 SPECIES
 
 #### Status
 ACCEPTED

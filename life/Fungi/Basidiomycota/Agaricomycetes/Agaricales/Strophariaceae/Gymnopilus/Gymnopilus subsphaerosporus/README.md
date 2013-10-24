@@ -1,5 +1,4 @@
-Gymnopilus subsphaerosporus (Joss.) Kühner & Romagn. SPECIES
-=======
+# Gymnopilus subsphaerosporus (Joss.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula viscida Peck SPECIES
-=======
+# Flammula viscida Peck SPECIES
 
 #### Status
 ACCEPTED

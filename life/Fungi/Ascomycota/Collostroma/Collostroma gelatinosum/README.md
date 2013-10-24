@@ -1,5 +1,4 @@
-Collostroma gelatinosum Petr., 1947 SPECIES
-=======
+# Collostroma gelatinosum Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

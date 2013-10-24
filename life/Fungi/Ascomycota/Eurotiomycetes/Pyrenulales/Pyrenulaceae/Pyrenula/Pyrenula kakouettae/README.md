@@ -1,5 +1,4 @@
-Pyrenula kakouettae Sérus. SPECIES
-=======
+# Pyrenula kakouettae Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia leonis W. Rossi SPECIES
-=======
+# Rickia leonis W. Rossi SPECIES
 
 #### Status
 ACCEPTED

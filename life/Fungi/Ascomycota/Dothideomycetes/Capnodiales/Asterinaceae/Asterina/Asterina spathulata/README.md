@@ -1,5 +1,4 @@
-Asterina spathulata Seaver & Chardón SPECIES
-=======
+# Asterina spathulata Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

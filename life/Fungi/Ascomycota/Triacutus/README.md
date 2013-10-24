@@ -1,5 +1,4 @@
-Triacutus G.L. Barron & Tzean GENUS
-=======
+# Triacutus G.L. Barron & Tzean GENUS
 
 #### Status
 ACCEPTED

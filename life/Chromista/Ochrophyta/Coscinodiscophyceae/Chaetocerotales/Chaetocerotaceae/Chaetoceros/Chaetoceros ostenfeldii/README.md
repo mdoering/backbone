@@ -1,5 +1,4 @@
-Chaetoceros ostenfeldii P.T. Cleve SPECIES
-=======
+# Chaetoceros ostenfeldii P.T. Cleve SPECIES
 
 #### Status
 ACCEPTED

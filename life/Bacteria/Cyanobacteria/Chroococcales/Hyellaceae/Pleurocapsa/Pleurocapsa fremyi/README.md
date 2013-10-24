@@ -1,5 +1,4 @@
-Pleurocapsa fremyi f. minor Bourrelly FORM
-=======
+# Pleurocapsa fremyi Bourrelly SPECIES
 
 #### Status
 ACCEPTED

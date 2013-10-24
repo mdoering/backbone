@@ -1,5 +1,4 @@
-Lecidea hampeana (Hepp) Hepp SPECIES
-=======
+# Lecidea hampeana (Hepp) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella alhaginis Szembel SPECIES
-=======
+# Didymella alhaginis Szembel SPECIES
 
 #### Status
 ACCEPTED

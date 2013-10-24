@@ -1,5 +1,4 @@
-Collecephalus J.A. Spencer GENUS
-=======
+# Collecephalus J.A. Spencer GENUS
 
 #### Status
 ACCEPTED

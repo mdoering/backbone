@@ -1,5 +1,4 @@
-Cyclostephanos ponticus (A.P. Jousé) G.K. Khursevich SPECIES
-=======
+# Cyclostephanos ponticus (A.P. Jousé) G.K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorovitta Schiller, 1926 GENUS
-=======
+# Chlorovitta Schiller, 1926 GENUS
 
 #### Status
 ACCEPTED

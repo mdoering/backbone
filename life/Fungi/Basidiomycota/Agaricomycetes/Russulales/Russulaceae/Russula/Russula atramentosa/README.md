@@ -1,5 +1,4 @@
-Russula atramentosa Sarnari SPECIES
-=======
+# Russula atramentosa Sarnari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia grimmiae Filson SPECIES
-=======
+# Buellia grimmiae Filson SPECIES
 
 #### Status
 ACCEPTED

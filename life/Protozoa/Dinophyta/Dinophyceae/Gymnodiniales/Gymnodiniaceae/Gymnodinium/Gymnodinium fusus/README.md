@@ -1,5 +1,4 @@
-Gymnodinium fusus Schutt SPECIES
-=======
+# Gymnodinium fusus Schutt SPECIES
 
 #### Status
 ACCEPTED

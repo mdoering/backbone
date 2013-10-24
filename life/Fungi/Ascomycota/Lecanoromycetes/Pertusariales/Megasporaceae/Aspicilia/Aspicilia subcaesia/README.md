@@ -1,5 +1,4 @@
-Aspicilia subcaesia (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia subcaesia (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

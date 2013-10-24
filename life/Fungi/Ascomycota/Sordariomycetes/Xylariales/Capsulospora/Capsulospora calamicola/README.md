@@ -1,5 +1,4 @@
-Capsulospora calamicola K.D. Hyde SPECIES
-=======
+# Capsulospora calamicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

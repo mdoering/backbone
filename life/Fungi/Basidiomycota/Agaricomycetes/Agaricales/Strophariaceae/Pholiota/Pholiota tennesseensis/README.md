@@ -1,5 +1,4 @@
-Pholiota tennesseensis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota tennesseensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

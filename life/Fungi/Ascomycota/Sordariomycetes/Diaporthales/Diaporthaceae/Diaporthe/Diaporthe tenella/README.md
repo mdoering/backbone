@@ -1,5 +1,4 @@
-Diaporthe tenella (Schwein.) Starbäck SPECIES
-=======
+# Diaporthe tenella (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

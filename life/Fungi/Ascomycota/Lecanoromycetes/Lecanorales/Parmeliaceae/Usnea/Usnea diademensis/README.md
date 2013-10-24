@@ -1,5 +1,4 @@
-Usnea diademensis Vain. SPECIES
-=======
+# Usnea diademensis Vain. SPECIES
 
 #### Status
 ACCEPTED

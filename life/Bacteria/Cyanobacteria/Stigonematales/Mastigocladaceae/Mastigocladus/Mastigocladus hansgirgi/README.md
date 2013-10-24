@@ -1,5 +1,4 @@
-Mastigocladus hansgirgi Schmidle SPECIES
-=======
+# Mastigocladus hansgirgi Schmidle SPECIES
 
 #### Status
 ACCEPTED

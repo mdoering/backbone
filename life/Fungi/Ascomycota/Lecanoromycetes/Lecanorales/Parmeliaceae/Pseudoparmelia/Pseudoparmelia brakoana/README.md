@@ -1,5 +1,4 @@
-Pseudoparmelia brakoana Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia brakoana Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

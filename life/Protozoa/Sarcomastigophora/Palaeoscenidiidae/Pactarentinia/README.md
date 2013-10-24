@@ -1,5 +1,4 @@
-Pactarentinia GENUS
-=======
+# Pactarentinia GENUS
 
 #### Status
 ACCEPTED

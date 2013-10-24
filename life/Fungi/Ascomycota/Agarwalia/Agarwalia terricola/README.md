@@ -1,5 +1,4 @@
-Agarwalia terricola D.P. Tiwari & P.D. Agrawal, 1974 SPECIES
-=======
+# Agarwalia terricola D.P. Tiwari & P.D. Agrawal, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium foliicola (Desm.) R.T. Moore SPECIES
-=======
+# Stegonsporium foliicola (Desm.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

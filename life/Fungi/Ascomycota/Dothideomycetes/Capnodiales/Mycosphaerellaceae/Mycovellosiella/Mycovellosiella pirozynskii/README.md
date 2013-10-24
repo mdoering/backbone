@@ -1,5 +1,4 @@
-Mycovellosiella pirozynskii Deighton SPECIES
-=======
+# Mycovellosiella pirozynskii Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces turgidiscabies Miyajima et al., 1998 SPECIES
-=======
+# Streptomyces turgidiscabies Miyajima et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

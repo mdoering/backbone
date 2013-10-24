@@ -1,5 +1,4 @@
-Lecanora variana (Ach.) Röhl. SPECIES
-=======
+# Lecanora variana (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

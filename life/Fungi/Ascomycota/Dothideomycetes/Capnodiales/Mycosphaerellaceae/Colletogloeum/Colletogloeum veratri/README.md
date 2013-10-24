@@ -1,5 +1,4 @@
-Colletogloeum veratri (Ellis & Everh.) Morgan-Jones & R.A. Phelps SPECIES
-=======
+# Colletogloeum veratri (Ellis & Everh.) Morgan-Jones & R.A. Phelps SPECIES
 
 #### Status
 ACCEPTED

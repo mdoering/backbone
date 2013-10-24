@@ -1,5 +1,4 @@
-Gloeosporium perexiguum Sacc. SPECIES
-=======
+# Gloeosporium perexiguum Sacc. SPECIES
 
 #### Status
 ACCEPTED

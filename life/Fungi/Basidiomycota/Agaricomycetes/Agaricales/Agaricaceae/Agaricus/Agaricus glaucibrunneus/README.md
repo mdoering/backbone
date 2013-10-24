@@ -1,5 +1,4 @@
-Agaricus glaucibrunneus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus glaucibrunneus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

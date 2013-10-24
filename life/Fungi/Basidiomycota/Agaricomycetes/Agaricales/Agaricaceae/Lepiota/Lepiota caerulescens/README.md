@@ -1,5 +1,4 @@
-Lepiota caerulescens Peck SPECIES
-=======
+# Lepiota caerulescens Peck SPECIES
 
 #### Status
 ACCEPTED

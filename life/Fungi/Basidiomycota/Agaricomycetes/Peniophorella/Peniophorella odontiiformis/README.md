@@ -1,17 +1,16 @@
-Hyphoderma odontiaeforme Boidin & Berthier SPECIES
-=======
+# Peniophorella odontiiformis (Boidin & Berthier) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
-Hyphoderma odontiaeforme Boidin & Berthier
+Hyphoderma odontiiforme Boidin & Berthier, 1966
 
 ### Remarks
 null

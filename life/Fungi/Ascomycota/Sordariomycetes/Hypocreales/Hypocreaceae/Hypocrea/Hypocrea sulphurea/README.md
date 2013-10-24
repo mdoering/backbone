@@ -1,17 +1,16 @@
-Hypocrea sulphurea f. macrospora Yoshim. Doi FORM
-=======
+# Hypocrea sulphurea (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo 15(4): 699 (1972)
+Syll. fung. (Abellini) 2: 535 (1883)
 
 #### Original name
-Hypocrea sulphurea f. macrospora Yoshim. Doi
+Sphaeria sulphurea Schwein., 1832
 
 ### Remarks
 null

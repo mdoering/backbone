@@ -1,5 +1,4 @@
-Coscinodiscus princeps A.P. Jousé SPECIES
-=======
+# Coscinodiscus princeps A.P. Jousé SPECIES
 
 #### Status
 ACCEPTED

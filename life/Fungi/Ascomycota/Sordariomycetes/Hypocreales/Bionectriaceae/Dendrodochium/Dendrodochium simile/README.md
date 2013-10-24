@@ -1,5 +1,4 @@
-Dendrodochium simile Ellis & Everh. SPECIES
-=======
+# Dendrodochium simile Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza clavicularis Wallr. SPECIES
-=======
+# Peziza clavicularis Wallr. SPECIES
 
 #### Status
 ACCEPTED

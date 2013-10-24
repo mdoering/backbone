@@ -1,5 +1,4 @@
-Massarina desmonci (Syd. & P. Syd.) K.D. Hyde & Aptroot SPECIES
-=======
+# Massarina desmonci (Syd. & P. Syd.) K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

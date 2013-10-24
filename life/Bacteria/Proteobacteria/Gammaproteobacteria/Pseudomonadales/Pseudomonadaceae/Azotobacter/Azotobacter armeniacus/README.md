@@ -1,5 +1,4 @@
-Azotobacter armeniacus Thompson & Skerman, 1981 SPECIES
-=======
+# Azotobacter armeniacus Thompson & Skerman, 1981 SPECIES
 
 #### Status
 ACCEPTED

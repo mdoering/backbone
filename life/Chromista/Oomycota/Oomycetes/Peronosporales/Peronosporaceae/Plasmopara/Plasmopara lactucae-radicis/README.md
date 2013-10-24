@@ -1,5 +1,4 @@
-Plasmopara lactucae-radicis Stangh. & Gilb. SPECIES
-=======
+# Plasmopara lactucae-radicis Stangh. & Gilb. SPECIES
 
 #### Status
 ACCEPTED

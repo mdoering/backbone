@@ -1,5 +1,4 @@
-Dimerosporium dendriticum Sacc. & P. Syd. SPECIES
-=======
+# Dimerosporium dendriticum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

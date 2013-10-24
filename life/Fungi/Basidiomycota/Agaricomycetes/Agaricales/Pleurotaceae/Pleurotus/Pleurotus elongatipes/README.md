@@ -1,5 +1,4 @@
-Pleurotus elongatipes Peck SPECIES
-=======
+# Pleurotus elongatipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia rappii Zahlbr. SPECIES
-=======
+# Arthopyrenia rappii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

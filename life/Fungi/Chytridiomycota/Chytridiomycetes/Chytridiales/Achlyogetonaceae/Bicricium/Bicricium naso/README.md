@@ -1,5 +1,4 @@
-Bicricium naso Sorokin SPECIES
-=======
+# Bicricium naso Sorokin SPECIES
 
 #### Status
 ACCEPTED

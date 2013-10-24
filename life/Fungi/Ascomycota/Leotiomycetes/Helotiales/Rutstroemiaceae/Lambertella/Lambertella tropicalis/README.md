@@ -1,5 +1,4 @@
-Lambertella tropicalis (Kanouse) Whetzel SPECIES
-=======
+# Lambertella tropicalis (Kanouse) Whetzel SPECIES
 
 #### Status
 ACCEPTED

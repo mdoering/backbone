@@ -1,5 +1,4 @@
-Catillaria nideri J. Steiner SPECIES
-=======
+# Catillaria nideri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota caldariorum Gillet SPECIES
-=======
+# Lepiota caldariorum Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena stipularis (Fr.) Quél. SPECIES
-=======
+# Mycena stipularis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea kujalae Räsänen SPECIES
-=======
+# Lecidea kujalae Räsänen SPECIES
 
 #### Status
 ACCEPTED

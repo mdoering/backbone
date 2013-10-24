@@ -1,5 +1,4 @@
-Mycena impromiscua (Britzelm.) Lapl. SPECIES
-=======
+# Mycena impromiscua (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

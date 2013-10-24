@@ -1,5 +1,4 @@
-Lecidea lycopodina Mont. SPECIES
-=======
+# Lecidea lycopodina Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizidium aciforme Zopf SPECIES
-=======
+# Rhizidium aciforme Zopf SPECIES
 
 #### Status
 ACCEPTED

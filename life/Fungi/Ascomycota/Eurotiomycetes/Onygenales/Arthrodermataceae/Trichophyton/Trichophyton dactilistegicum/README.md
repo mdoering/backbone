@@ -1,5 +1,4 @@
-Trichophyton dactilistegicum Szathmáry SPECIES
-=======
+# Trichophyton dactilistegicum Szathmáry SPECIES
 
 #### Status
 ACCEPTED

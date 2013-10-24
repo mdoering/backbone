@@ -1,5 +1,4 @@
-Ramalina americana Hale SPECIES
-=======
+# Ramalina americana Hale SPECIES
 
 #### Status
 ACCEPTED

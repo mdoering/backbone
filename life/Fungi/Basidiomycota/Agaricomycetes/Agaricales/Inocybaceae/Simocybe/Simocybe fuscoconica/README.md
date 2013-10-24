@@ -1,5 +1,4 @@
-Simocybe fuscoconica E. Horak SPECIES
-=======
+# Simocybe fuscoconica E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lophodermium acacicolum Tehon SPECIES
-=======
+# Lophodermium acacicola Tehon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 13(4): 39 (1935)
 
 #### Original name
-Lophodermium acacicolum Tehon
+Lophodermium acacicola Tehon
 
 ### Remarks
 null

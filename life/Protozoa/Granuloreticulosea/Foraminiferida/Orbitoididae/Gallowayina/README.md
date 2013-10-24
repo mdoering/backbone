@@ -1,5 +1,4 @@
-Gallowayina Ellis, 1932 GENUS
-=======
+# Gallowayina Ellis, 1932 GENUS
 
 #### Status
 ACCEPTED

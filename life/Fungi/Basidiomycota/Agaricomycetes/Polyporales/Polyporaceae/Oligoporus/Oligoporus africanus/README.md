@@ -1,5 +1,4 @@
-Oligoporus africanus Ryvarden SPECIES
-=======
+# Oligoporus africanus Ryvarden SPECIES
 
 #### Status
 ACCEPTED

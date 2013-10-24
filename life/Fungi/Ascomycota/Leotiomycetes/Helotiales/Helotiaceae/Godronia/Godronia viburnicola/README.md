@@ -1,5 +1,4 @@
-Godronia viburnicola Seaver SPECIES
-=======
+# Godronia viburnicola Seaver SPECIES
 
 #### Status
 ACCEPTED

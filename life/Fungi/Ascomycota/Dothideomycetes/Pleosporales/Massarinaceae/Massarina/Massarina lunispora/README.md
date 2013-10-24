@@ -1,5 +1,4 @@
-Massarina lunispora K.D. Hyde & Goh SPECIES
-=======
+# Massarina lunispora K.D. Hyde & Goh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca navasiana Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Caloplaca navasiana Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

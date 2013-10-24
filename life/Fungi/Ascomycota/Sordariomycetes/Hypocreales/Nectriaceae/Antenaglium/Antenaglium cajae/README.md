@@ -1,17 +1,16 @@
-Antenaglium cajanei F.C. Albuq. & Figueiredo SPECIES
-=======
+# Antenaglium cajae F.C. Albuq. & Figueiredo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Albuquerque, Figueiredo & Reis, Ann. Oenol. 5 (1969)
 
 #### Original name
-Antenaglium cajanei F.C. Albuq. & Figueiredo
+Antenaglium cajae F.C. Albuq. & Figueiredo
 
 ### Remarks
 null

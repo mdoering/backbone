@@ -1,5 +1,4 @@
-Pleurotus subapplicatus Cleland SPECIES
-=======
+# Pleurotus subapplicatus Cleland SPECIES
 
 #### Status
 ACCEPTED

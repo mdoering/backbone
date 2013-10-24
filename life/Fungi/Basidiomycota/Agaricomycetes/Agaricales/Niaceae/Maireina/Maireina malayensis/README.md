@@ -1,5 +1,4 @@
-Maireina malayensis W.B. Cooke SPECIES
-=======
+# Maireina malayensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

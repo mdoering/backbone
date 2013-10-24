@@ -1,5 +1,4 @@
-Hypochnicium J. Eriksson, 1958 GENUS
-=======
+# Hypochnicium J. Eriksson, 1958 GENUS
 
 #### Status
 ACCEPTED

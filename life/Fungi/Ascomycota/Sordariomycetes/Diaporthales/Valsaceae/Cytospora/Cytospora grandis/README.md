@@ -1,5 +1,4 @@
-Cytospora grandis Peck SPECIES
-=======
+# Cytospora grandis Peck SPECIES
 
 #### Status
 ACCEPTED

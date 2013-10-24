@@ -1,5 +1,4 @@
-Cercospora capreolata Ellis & Everh. SPECIES
-=======
+# Cercospora capreolata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

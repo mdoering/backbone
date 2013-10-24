@@ -1,5 +1,4 @@
-Eutypella premnae Rehm SPECIES
-=======
+# Eutypella premnae Rehm SPECIES
 
 #### Status
 ACCEPTED

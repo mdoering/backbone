@@ -1,5 +1,4 @@
-Sphaerulina dioscoreae Hara SPECIES
-=======
+# Sphaerulina dioscoreae Hara SPECIES
 
 #### Status
 ACCEPTED

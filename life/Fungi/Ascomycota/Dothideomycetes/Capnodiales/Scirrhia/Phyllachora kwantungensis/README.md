@@ -1,5 +1,4 @@
-Phyllachora kwantungensis Petr., 1955 SPECIES
-=======
+# Phyllachora kwantungensis Petr., 1955 SPECIES
 
 #### Status
 DOUBTFUL

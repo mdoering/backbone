@@ -1,17 +1,16 @@
-Heppia africana Jatta SPECIES
-=======
+# Peltula africana (Jatta) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 26(3): 217 (1979)
 
 #### Original name
-null
+Heppia africana Jatta
 
 ### Remarks
 null

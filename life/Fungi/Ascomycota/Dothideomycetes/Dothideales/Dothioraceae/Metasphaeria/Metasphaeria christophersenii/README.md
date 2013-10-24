@@ -1,5 +1,4 @@
-Metasphaeria christophersenii Verona SPECIES
-=======
+# Metasphaeria christophersenii Verona SPECIES
 
 #### Status
 ACCEPTED

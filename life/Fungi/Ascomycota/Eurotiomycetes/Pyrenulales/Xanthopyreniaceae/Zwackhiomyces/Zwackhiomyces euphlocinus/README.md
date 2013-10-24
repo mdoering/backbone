@@ -1,5 +1,4 @@
-Zwackhiomyces euphlocinus Hafellner, Grube & Egan SPECIES
-=======
+# Zwackhiomyces euphlocinus Hafellner, Grube & Egan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces howei (Peck) De Toni SPECIES
-=======
+# Uromyces howei (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

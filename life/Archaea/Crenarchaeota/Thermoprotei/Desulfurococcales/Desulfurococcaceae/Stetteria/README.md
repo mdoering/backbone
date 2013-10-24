@@ -1,5 +1,4 @@
-Stetteria Jochimsen, Peinemann-Simon, Volker, Stuben, Botz, Stoffers, Dando & Thomm, 1998 GENUS
-=======
+# Stetteria Jochimsen, Peinemann-Simon, Volker, Stuben, Botz, Stoffers, Dando & Thomm, 1998 GENUS
 
 #### Status
 ACCEPTED

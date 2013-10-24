@@ -1,5 +1,4 @@
-Sporisorium compactum Vánky SPECIES
-=======
+# Sporisorium compactum Vánky SPECIES
 
 #### Status
 ACCEPTED

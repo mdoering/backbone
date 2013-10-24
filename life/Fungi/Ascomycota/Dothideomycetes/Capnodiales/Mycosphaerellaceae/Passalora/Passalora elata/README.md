@@ -1,5 +1,4 @@
-Passalora elata (Sacc.) U. Braun & Crous SPECIES
-=======
+# Passalora elata (Sacc.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

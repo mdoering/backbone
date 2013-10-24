@@ -1,17 +1,16 @@
-Pachyderma strassmayeri Schulzer SPECIES
-=======
+# Pachyderma strossmayeri Schulzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 16: 44 (1876)
 
 #### Original name
-Pachyderma strassmayeri Schulzer
+Pachyderma strossmayeri Schulzer
 
 ### Remarks
 null

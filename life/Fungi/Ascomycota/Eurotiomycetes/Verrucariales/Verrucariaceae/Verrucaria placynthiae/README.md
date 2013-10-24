@@ -1,5 +1,4 @@
-Verrucaria placynthiae SPECIES
-=======
+# Verrucaria placynthiae SPECIES
 
 #### Status
 ACCEPTED

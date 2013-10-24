@@ -1,5 +1,4 @@
-Agaricus chlorophos Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus chlorophos Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

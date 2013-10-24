@@ -1,5 +1,4 @@
-Arrhenia rainierensis (H.E. Bigelow) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia rainierensis (H.E. Bigelow) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

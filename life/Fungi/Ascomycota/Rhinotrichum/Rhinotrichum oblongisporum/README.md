@@ -1,5 +1,4 @@
-Rhinotrichum oblongisporum Preuss SPECIES
-=======
+# Rhinotrichum oblongisporum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Jacksoniella holwayi (H.S. Jacks.) J.C. Lindq., 1972 SPECIES
-=======
+# Dietelia holwayi (H.S. Jacks.) Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 25: 78 (1972)
+Fl. Neotrop. , Monogr. 24: 17 (1980)
 
 #### Original name
 Endophyllum holwayi H.S. Jacks., 1932

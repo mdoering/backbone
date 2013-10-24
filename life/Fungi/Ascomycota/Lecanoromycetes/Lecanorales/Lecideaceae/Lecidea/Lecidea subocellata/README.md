@@ -1,5 +1,4 @@
-Lecidea subocellata Stizenb. SPECIES
-=======
+# Lecidea subocellata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

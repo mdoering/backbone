@@ -1,17 +1,16 @@
-Aecidium belizensis Mains SPECIES
-=======
+# Dietelia belizensis (Mains) Z. Urb., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 28: 49 (1990)
 
 #### Original name
-Aecidium belizensis Mains
+Aecidium belizense Mains, 1939
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clavaria alnea Schulzer SPECIES
-=======
+# Clavaria alnea Schulzer SPECIES
 
 #### Status
 ACCEPTED

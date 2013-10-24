@@ -1,5 +1,4 @@
-Marasmius subingratus Dennis SPECIES
-=======
+# Marasmius subingratus Dennis SPECIES
 
 #### Status
 ACCEPTED

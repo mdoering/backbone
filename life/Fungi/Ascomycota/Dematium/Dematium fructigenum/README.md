@@ -1,5 +1,4 @@
-Dematium fructigenum Thüm. SPECIES
-=======
+# Dematium fructigenum Thüm. SPECIES
 
 #### Status
 ACCEPTED

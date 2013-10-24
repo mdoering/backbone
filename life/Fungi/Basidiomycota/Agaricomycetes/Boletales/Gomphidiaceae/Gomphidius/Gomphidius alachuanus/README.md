@@ -1,5 +1,4 @@
-Gomphidius alachuanus Murrill SPECIES
-=======
+# Gomphidius alachuanus Murrill SPECIES
 
 #### Status
 ACCEPTED

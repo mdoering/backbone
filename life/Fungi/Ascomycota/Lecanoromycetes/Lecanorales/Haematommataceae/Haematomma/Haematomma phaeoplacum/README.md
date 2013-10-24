@@ -1,5 +1,4 @@
-Haematomma phaeoplacum (Stirt.) Zahlbr. SPECIES
-=======
+# Haematomma phaeoplacum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulographum bambusinum Petr., 1931 SPECIES
-=======
+# Aulographum bambusinum Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

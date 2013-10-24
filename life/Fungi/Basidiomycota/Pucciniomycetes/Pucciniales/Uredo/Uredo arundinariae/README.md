@@ -1,5 +1,4 @@
-Uredo arundinariae Syd. & P. Syd. SPECIES
-=======
+# Uredo arundinariae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

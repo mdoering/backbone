@@ -1,5 +1,4 @@
-Lecanora citrinella (Samp.) SPECIES
-=======
+# Lecanora citrinella (Samp.) SPECIES
 
 #### Status
 ACCEPTED

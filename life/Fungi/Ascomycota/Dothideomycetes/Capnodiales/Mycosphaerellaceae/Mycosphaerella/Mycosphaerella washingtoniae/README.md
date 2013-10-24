@@ -1,5 +1,4 @@
-Mycosphaerella washingtoniae Rehm SPECIES
-=======
+# Mycosphaerella washingtoniae Rehm SPECIES
 
 #### Status
 ACCEPTED

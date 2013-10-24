@@ -1,5 +1,4 @@
-Corticium fugax Bref. SPECIES
-=======
+# Corticium fugax Bref. SPECIES
 
 #### Status
 ACCEPTED

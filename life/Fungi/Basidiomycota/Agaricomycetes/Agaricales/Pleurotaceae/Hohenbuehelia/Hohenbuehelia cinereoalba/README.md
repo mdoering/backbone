@@ -1,5 +1,4 @@
-Hohenbuehelia cinereoalba (Pat. & Gaillard) Singer SPECIES
-=======
+# Hohenbuehelia cinereoalba (Pat. & Gaillard) Singer SPECIES
 
 #### Status
 ACCEPTED

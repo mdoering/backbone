@@ -1,5 +1,4 @@
-Fomes inzengae (Ces. & De Not.) Cooke SPECIES
-=======
+# Fomes inzengae (Ces. & De Not.) Cooke SPECIES
 
 #### Status
 ACCEPTED

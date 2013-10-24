@@ -1,5 +1,4 @@
-Mollisia myceliicola Henn. SPECIES
-=======
+# Mollisia myceliicola Henn. SPECIES
 
 #### Status
 ACCEPTED

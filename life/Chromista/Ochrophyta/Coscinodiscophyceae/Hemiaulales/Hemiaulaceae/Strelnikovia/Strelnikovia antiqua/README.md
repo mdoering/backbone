@@ -1,8 +1,7 @@
-Rutilaria antiqua Strelnikova SPECIES
-=======
+# Strelnikovia antiqua (Strelnikova) R. Ross & P.A. Sims SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Triceratium shadboltianum R.K. Greville SPECIES
-=======
+# Triceratium shadboltianum R.K. Greville SPECIES
 
 #### Status
 ACCEPTED

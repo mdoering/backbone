@@ -1,5 +1,4 @@
-Lambertella korfii W.Y. Zhuang SPECIES
-=======
+# Lambertella korfii W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

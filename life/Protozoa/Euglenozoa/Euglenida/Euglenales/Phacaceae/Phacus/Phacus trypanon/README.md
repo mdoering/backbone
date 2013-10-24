@@ -1,5 +1,4 @@
-Phacus trypanon Pochmann SPECIES
-=======
+# Phacus trypanon Pochmann SPECIES
 
 #### Status
 ACCEPTED

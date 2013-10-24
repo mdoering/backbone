@@ -1,5 +1,4 @@
-Trichia papillata Adamonyte, 2003 SPECIES
-=======
+# Trichia papillata Adamonyte, 2003 SPECIES
 
 #### Status
 ACCEPTED

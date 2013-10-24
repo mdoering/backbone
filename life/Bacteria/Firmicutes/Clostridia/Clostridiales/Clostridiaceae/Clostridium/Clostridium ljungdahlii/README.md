@@ -1,5 +1,4 @@
-Clostridium ljungdahlii Tanner et al., 1993 SPECIES
-=======
+# Clostridium ljungdahlii Tanner et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

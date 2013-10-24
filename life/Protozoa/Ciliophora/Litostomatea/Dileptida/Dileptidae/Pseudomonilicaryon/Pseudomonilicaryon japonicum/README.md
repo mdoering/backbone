@@ -1,5 +1,4 @@
-Pseudomonilicaryon japonicum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Pseudomonilicaryon japonicum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

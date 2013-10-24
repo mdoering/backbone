@@ -1,5 +1,4 @@
-Amphisphaeria tumulata (Cooke) Sacc. SPECIES
-=======
+# Amphisphaeria tumulata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

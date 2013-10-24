@@ -1,5 +1,4 @@
-Lepraria multiacida Aptroot SPECIES
-=======
+# Lepraria multiacida Aptroot SPECIES
 
 #### Status
 ACCEPTED

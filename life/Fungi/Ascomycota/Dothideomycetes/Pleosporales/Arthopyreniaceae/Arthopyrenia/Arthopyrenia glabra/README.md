@@ -1,5 +1,4 @@
-Arthopyrenia glabra (A. Massal.) R.O. Novak & Tobol. SPECIES
-=======
+# Arthopyrenia glabra (A. Massal.) R.O. Novak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

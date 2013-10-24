@@ -1,5 +1,4 @@
-Globaria tomentosa Quél. SPECIES
-=======
+# Globaria tomentosa Quél. SPECIES
 
 #### Status
 ACCEPTED

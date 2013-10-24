@@ -1,17 +1,16 @@
-Cycloschizon elaeicolum (Maubl.) G. Arnaud, 1918 SPECIES
-=======
+# Hysterostomella elaeicola Maubl., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 23: 143 (1907)
 
 #### Original name
-null
+Hysterostomella elaeicola Maubl., 1907
 
 ### Remarks
 null

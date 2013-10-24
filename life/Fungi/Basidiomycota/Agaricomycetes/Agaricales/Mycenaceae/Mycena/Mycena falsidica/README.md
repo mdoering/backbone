@@ -1,5 +1,4 @@
-Mycena falsidica E. Horak SPECIES
-=======
+# Mycena falsidica E. Horak SPECIES
 
 #### Status
 ACCEPTED

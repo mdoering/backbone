@@ -1,5 +1,4 @@
-Megalospora megacarpa (Nyl.) Malme SPECIES
-=======
+# Megalospora megacarpa (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

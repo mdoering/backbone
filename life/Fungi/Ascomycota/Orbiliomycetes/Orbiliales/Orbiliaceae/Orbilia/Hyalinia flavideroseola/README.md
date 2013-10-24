@@ -1,5 +1,4 @@
-Hyalinia flavideroseola (Rehm) Svrcek SPECIES
-=======
+# Hyalinia flavideroseola (Rehm) Svrcek SPECIES
 
 #### Status
 ACCEPTED

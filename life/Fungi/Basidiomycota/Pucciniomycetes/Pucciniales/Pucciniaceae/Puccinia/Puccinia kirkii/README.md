@@ -1,5 +1,4 @@
-Puccinia kirkii G. Cunn., 1923 SPECIES
-=======
+# Puccinia kirkii G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

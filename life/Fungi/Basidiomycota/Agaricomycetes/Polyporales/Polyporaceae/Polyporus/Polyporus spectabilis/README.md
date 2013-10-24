@@ -1,5 +1,4 @@
-Polyporus spectabilis Fr. SPECIES
-=======
+# Polyporus spectabilis Fr. SPECIES
 
 #### Status
 ACCEPTED

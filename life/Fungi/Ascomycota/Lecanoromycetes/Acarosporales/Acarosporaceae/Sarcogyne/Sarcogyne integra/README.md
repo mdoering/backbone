@@ -1,5 +1,4 @@
-Sarcogyne integra (B. de Lesd.) H. Magn. SPECIES
-=======
+# Sarcogyne integra (B. de Lesd.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

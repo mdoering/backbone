@@ -1,5 +1,4 @@
-Physcia erythrocardia (Tuck.) Vain. SPECIES
-=======
+# Physcia erythrocardia (Tuck.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cheiromyceopsis Mercado & J. Mena GENUS
-=======
+# Cheiromyceopsis Mercado & J. Mena GENUS
 
 #### Status
 ACCEPTED

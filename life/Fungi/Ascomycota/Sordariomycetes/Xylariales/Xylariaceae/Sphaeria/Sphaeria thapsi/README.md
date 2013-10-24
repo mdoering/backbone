@@ -1,5 +1,4 @@
-Sphaeria thapsi Schwein. SPECIES
-=======
+# Sphaeria thapsi Schwein. SPECIES
 
 #### Status
 ACCEPTED

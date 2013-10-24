@@ -1,5 +1,4 @@
-Physcia lilacina (Arnold) Poelt SPECIES
-=======
+# Physcia lilacina (Arnold) Poelt SPECIES
 
 #### Status
 ACCEPTED

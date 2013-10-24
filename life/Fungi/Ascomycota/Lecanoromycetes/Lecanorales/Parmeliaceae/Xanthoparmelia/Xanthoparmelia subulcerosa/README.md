@@ -1,5 +1,4 @@
-Xanthoparmelia subulcerosa T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia subulcerosa T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

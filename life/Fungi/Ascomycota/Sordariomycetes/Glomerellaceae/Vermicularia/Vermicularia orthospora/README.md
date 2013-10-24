@@ -1,5 +1,4 @@
-Vermicularia orthospora Sacc. & Roum. SPECIES
-=======
+# Vermicularia orthospora Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

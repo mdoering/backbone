@@ -1,8 +1,7 @@
-Myriactis pulvinata Kützing SPECIES
-=======
+# Myriactula pulvinata (Kützing) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Ceratomyces camptosporus Thaxt. SPECIES
-=======
+# Ceratomyces camptosporus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor acicularis Wallr. SPECIES
-=======
+# Mucor acicularis Wallr. SPECIES
 
 #### Status
 ACCEPTED

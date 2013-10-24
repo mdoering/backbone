@@ -1,5 +1,4 @@
-Septobasidium sydowii Couch SPECIES
-=======
+# Septobasidium sydowii Couch SPECIES
 
 #### Status
 ACCEPTED

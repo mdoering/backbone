@@ -1,17 +1,16 @@
-Delacroixia Sacc. & P. Syd. GENUS
-=======
+# Conidiobolus Bref. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14: 457 (1899)
+Mykol. Untersuch. 4: 35 (1884)
 
 #### Original name
-Delacroixia Sacc. & P. Syd.
+Conidiobolus Bref.
 
 ### Remarks
 null

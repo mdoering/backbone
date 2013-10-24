@@ -1,5 +1,4 @@
-Microxyphium hirtum (Speg.) Speg. SPECIES
-=======
+# Microxyphium hirtum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

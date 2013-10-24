@@ -1,5 +1,4 @@
-Leptostroma ludovicianum Har. SPECIES
-=======
+# Leptostroma ludovicianum Har. SPECIES
 
 #### Status
 ACCEPTED

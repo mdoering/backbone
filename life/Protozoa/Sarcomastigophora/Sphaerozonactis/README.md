@@ -1,5 +1,4 @@
-Sphaerozonactis Haeckel, 1887 GENUS
-=======
+# Sphaerozonactis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

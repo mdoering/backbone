@@ -1,5 +1,4 @@
-Daucina Bornemann, 1855 GENUS
-=======
+# Daucina Bornemann, 1855 GENUS
 
 #### Status
 ACCEPTED

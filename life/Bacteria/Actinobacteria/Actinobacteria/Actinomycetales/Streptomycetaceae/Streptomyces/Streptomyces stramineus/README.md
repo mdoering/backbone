@@ -1,5 +1,4 @@
-Streptomyces stramineus Labeda et al., 1997 SPECIES
-=======
+# Streptomyces stramineus Labeda et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

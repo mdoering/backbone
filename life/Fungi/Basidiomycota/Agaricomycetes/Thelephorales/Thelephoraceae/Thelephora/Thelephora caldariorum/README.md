@@ -1,5 +1,4 @@
-Thelephora caldariorum Weinm. SPECIES
-=======
+# Thelephora caldariorum Weinm. SPECIES
 
 #### Status
 ACCEPTED

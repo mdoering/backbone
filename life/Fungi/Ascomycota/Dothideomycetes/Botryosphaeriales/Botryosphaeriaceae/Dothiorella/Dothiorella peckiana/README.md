@@ -1,5 +1,4 @@
-Dothiorella peckiana Sacc. SPECIES
-=======
+# Dothiorella peckiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

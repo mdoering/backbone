@@ -1,5 +1,4 @@
-Puccinia puta H.S. Jacks. & Holw. ex F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Puccinia puta H.S. Jacks. & Holw. ex F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

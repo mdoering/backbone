@@ -1,5 +1,4 @@
-Ramularia betae Rostr., 1899 SPECIES
-=======
+# Ramularia betae Rostr., 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochammina inflata SPECIES
-=======
+# Trochammina inflata SPECIES
 
 #### Status
 ACCEPTED

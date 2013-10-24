@@ -1,5 +1,4 @@
-Chitonomyces dextricola Thaxt. SPECIES
-=======
+# Chitonomyces dextricola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alveosphaera locellata Kiryanov, 1978 SPECIES
-=======
+# Alveosphaera locellata Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

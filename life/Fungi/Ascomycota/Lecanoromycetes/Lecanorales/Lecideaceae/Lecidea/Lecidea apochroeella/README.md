@@ -1,5 +1,4 @@
-Lecidea apochroeella f. apochroeella FORM
-=======
+# Lecidea apochroeella Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea apochroeella f. apochroeella
+Lecidea apochroeella Nyl.
 
 ### Remarks
 null

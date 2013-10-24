@@ -1,5 +1,4 @@
-Buellia crassa SPECIES
-=======
+# Buellia crassa SPECIES
 
 #### Status
 ACCEPTED

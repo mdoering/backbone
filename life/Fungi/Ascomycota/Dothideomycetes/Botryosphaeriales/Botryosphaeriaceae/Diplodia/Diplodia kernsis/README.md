@@ -1,5 +1,4 @@
-Diplodia kernsis Pass. SPECIES
-=======
+# Diplodia kernsis Pass. SPECIES
 
 #### Status
 ACCEPTED

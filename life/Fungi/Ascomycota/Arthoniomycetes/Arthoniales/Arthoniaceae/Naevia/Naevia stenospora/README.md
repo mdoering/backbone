@@ -1,5 +1,4 @@
-Naevia stenospora Sacc. SPECIES
-=======
+# Naevia stenospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

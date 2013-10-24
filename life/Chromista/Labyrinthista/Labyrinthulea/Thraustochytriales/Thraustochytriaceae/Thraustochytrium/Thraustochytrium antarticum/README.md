@@ -1,5 +1,4 @@
-Thraustochytrium antarticum Bahnweg & Sparrow SPECIES
-=======
+# Thraustochytrium antarticum Bahnweg & Sparrow SPECIES
 
 #### Status
 ACCEPTED

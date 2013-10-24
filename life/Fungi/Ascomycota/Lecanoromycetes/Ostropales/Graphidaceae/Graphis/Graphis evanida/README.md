@@ -1,5 +1,4 @@
-Graphis evanida Vain. SPECIES
-=======
+# Graphis evanida Vain. SPECIES
 
 #### Status
 ACCEPTED

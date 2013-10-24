@@ -1,5 +1,4 @@
-Leptographium costaricense G. Weber, Spaaij & M.J. Wingf. SPECIES
-=======
+# Leptographium costaricense G. Weber, Spaaij & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria liriodendri Schwein. SPECIES
-=======
+# Sphaeria liriodendri Schwein. SPECIES
 
 #### Status
 ACCEPTED

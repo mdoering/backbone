@@ -1,5 +1,4 @@
-Pyrenocarpon montinii (A. Massal.) Trevis. SPECIES
-=======
+# Pyrenocarpon montinii (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

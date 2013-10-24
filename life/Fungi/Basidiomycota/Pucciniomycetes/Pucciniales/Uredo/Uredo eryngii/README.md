@@ -1,5 +1,4 @@
-Uredo eryngii Chevall. SPECIES
-=======
+# Uredo eryngii Chevall. SPECIES
 
 #### Status
 ACCEPTED

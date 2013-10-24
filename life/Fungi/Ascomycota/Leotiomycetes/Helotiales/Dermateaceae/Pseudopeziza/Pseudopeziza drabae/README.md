@@ -1,5 +1,4 @@
-Pseudopeziza drabae (Nannf.) Nannf. SPECIES
-=======
+# Pseudopeziza drabae (Nannf.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

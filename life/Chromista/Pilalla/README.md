@@ -1,5 +1,4 @@
-Pilalla Rhumbler, 1935 GENUS
-=======
+# Pilalla Rhumbler, 1935 GENUS
 
 #### Status
 ACCEPTED

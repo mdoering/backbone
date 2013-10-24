@@ -1,5 +1,4 @@
-Lachnocladium subpteruloides Henn., 1898 SPECIES
-=======
+# Lachnocladium subpteruloides Henn., 1898 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dimerella lisowskii Vezda SPECIES
-=======
+# Coenogonium lisowskii (Vezda) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Folia geobot. phytotax. 4: 445 (1969)
+Lichenologist 33(3): 201 (2001)
 
 #### Original name
 Dimerella lisowskii Vezda

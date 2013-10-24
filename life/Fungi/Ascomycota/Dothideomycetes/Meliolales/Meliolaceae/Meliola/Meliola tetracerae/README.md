@@ -1,5 +1,4 @@
-Meliola tetracerae (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola tetracerae (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

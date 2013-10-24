@@ -1,5 +1,4 @@
-Sphaeria adusta Fr. SPECIES
-=======
+# Sphaeria adusta Fr. SPECIES
 
 #### Status
 ACCEPTED

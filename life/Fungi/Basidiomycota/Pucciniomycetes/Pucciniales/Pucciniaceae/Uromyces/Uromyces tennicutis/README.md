@@ -1,5 +1,4 @@
-Uromyces tennicutis McAlp. SPECIES
-=======
+# Uromyces tennicutis McAlp. SPECIES
 
 #### Status
 ACCEPTED

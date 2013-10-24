@@ -1,5 +1,4 @@
-Tricharia vezdae W.R. Buck SPECIES
-=======
+# Tricharia vezdae W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola livistoniae H.S. Yates SPECIES
-=======
+# Meliola livistoniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

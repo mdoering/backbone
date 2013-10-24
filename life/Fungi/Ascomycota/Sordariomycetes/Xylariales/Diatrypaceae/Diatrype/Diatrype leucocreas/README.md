@@ -1,5 +1,4 @@
-Diatrype leucocreas Mont. SPECIES
-=======
+# Diatrype leucocreas Mont. SPECIES
 
 #### Status
 ACCEPTED

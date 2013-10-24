@@ -1,5 +1,4 @@
-Metasphaeria ampelogena Sacc. & P. Syd. SPECIES
-=======
+# Metasphaeria ampelogena Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

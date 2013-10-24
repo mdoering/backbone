@@ -1,5 +1,4 @@
-Crepidotus lagenicystis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus lagenicystis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

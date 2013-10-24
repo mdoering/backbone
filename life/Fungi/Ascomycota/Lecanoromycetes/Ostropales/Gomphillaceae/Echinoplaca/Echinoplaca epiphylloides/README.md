@@ -1,5 +1,4 @@
-Echinoplaca epiphylloides Lücking SPECIES
-=======
+# Echinoplaca epiphylloides Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus luteocontextus D.A. Reid SPECIES
-=======
+# Inonotus luteocontextus D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

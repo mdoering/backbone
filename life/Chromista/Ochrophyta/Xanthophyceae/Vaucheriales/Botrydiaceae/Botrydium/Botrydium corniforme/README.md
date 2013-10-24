@@ -1,5 +1,4 @@
-Botrydium corniforme Wodenitscharov SPECIES
-=======
+# Botrydium corniforme Wodenitscharov SPECIES
 
 #### Status
 ACCEPTED

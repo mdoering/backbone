@@ -1,5 +1,4 @@
-Syncephalis hypogena R.K. Benj., 1985 SPECIES
-=======
+# Syncephalis hypogena R.K. Benj., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera curta (Fr.) Dennis SPECIES
-=======
+# Xylosphaera curta (Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

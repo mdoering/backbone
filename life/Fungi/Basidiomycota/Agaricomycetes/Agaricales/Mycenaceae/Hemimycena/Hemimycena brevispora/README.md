@@ -1,5 +1,4 @@
-Hemimycena brevispora Pegler SPECIES
-=======
+# Hemimycena brevispora Pegler SPECIES
 
 #### Status
 ACCEPTED

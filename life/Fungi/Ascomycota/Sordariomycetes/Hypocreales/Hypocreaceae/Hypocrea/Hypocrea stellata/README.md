@@ -1,5 +1,4 @@
-Hypocrea stellata B.S. Lu, Druzhin. & Samuels, 2004 SPECIES
-=======
+# Hypocrea stellata B.S. Lu, Druzhin. & Samuels, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siberiella Haman, 1988 GENUS
-=======
+# Siberiella Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

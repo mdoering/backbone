@@ -1,5 +1,4 @@
-Rhodothermaceae FAMILY
-=======
+# Rhodothermaceae FAMILY
 
 #### Status
 ACCEPTED

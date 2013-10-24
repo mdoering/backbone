@@ -1,5 +1,4 @@
-Anabaena mucosa J. Komárková-Legnerová & P. Eloranta SPECIES
-=======
+# Anabaena mucosa J. Komárková-Legnerová & P. Eloranta SPECIES
 
 #### Status
 ACCEPTED

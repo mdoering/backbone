@@ -1,5 +1,4 @@
-Sphaeria californica Cooke & Harkn. SPECIES
-=======
+# Sphaeria californica Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

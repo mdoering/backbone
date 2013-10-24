@@ -1,5 +1,4 @@
-Lecidea pallidoatra Nyl. SPECIES
-=======
+# Lecidea pallidoatra Nyl. SPECIES
 
 #### Status
 ACCEPTED

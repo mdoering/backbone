@@ -1,5 +1,4 @@
-Synchytrium tecomae M.T. Cook SPECIES
-=======
+# Synchytrium tecomae M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

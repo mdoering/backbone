@@ -1,5 +1,4 @@
-Prillieuxina garciniae Hosag., 2004 SPECIES
-=======
+# Prillieuxina garciniae Hosag., 2004 SPECIES
 
 #### Status
 ACCEPTED

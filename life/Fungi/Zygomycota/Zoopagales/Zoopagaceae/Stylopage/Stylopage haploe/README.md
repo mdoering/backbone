@@ -1,5 +1,4 @@
-Stylopage haploe Drechsler, 1935 SPECIES
-=======
+# Stylopage haploe Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

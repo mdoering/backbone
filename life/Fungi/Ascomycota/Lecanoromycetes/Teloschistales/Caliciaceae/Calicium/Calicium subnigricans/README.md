@@ -1,5 +1,4 @@
-Calicium subnigricans Js. Murray SPECIES
-=======
+# Calicium subnigricans Js. Murray SPECIES
 
 #### Status
 ACCEPTED

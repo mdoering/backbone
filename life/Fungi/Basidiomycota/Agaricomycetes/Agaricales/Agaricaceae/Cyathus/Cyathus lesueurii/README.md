@@ -1,5 +1,4 @@
-Cyathus lesueurii var. lesueurii VARIETY
-=======
+# Cyathus lesueurii Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cyathus lesueurii var. lesueurii
+Cyathus lesueurii Tul. & C. Tul.
 
 ### Remarks
 null

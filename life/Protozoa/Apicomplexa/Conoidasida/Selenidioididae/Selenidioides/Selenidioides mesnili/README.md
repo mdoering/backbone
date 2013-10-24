@@ -1,8 +1,7 @@
-Selenidium mesnili Brasil, 1909 SPECIES
-=======
+# Selenidioides mesnili Brasil, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

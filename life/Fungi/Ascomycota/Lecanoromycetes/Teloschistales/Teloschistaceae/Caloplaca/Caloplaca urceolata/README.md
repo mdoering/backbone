@@ -1,5 +1,4 @@
-Caloplaca urceolata B. de Lesd. SPECIES
-=======
+# Caloplaca urceolata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

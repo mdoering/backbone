@@ -1,5 +1,4 @@
-Drechslera holci Ondrej SPECIES
-=======
+# Drechslera holci Ondrej SPECIES
 
 #### Status
 ACCEPTED

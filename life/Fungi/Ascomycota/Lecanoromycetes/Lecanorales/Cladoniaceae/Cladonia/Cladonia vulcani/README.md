@@ -1,5 +1,4 @@
-Cladonia vulcani Savicz SPECIES
-=======
+# Cladonia vulcani Savicz SPECIES
 
 #### Status
 ACCEPTED

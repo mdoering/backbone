@@ -1,5 +1,4 @@
-Phyllosticta pallidior Peck SPECIES
-=======
+# Phyllosticta pallidior Peck SPECIES
 
 #### Status
 ACCEPTED

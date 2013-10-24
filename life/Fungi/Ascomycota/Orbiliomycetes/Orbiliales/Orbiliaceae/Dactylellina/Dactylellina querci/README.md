@@ -1,5 +1,4 @@
-Dactylellina querci Bin Liu, Xing Z. Liu & W.Y. Zhuang SPECIES
-=======
+# Dactylellina querci Bin Liu, Xing Z. Liu & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

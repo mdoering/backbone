@@ -1,5 +1,4 @@
-Aecidium torquens McAlpine SPECIES
-=======
+# Aecidium torquens McAlpine SPECIES
 
 #### Status
 ACCEPTED

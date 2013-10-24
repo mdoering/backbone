@@ -1,5 +1,4 @@
-Spirochaeta caldaria Pohlschroeder et al., 1995 SPECIES
-=======
+# Spirochaeta caldaria Pohlschroeder et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

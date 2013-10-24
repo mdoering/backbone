@@ -1,5 +1,4 @@
-Psathyrella heterocystis A.H. Sm. SPECIES
-=======
+# Psathyrella heterocystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

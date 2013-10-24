@@ -1,5 +1,4 @@
-Orthosphaeridium vibrissiferum Loeblich & Tappan, 1971 SPECIES
-=======
+# Orthosphaeridium vibrissiferum Loeblich & Tappan, 1971 SPECIES
 
 #### Status
 ACCEPTED

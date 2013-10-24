@@ -1,5 +1,4 @@
-Seirophora villosa (Ach.) Frödén SPECIES
-=======
+# Seirophora villosa (Ach.) Frödén SPECIES
 
 #### Status
 ACCEPTED

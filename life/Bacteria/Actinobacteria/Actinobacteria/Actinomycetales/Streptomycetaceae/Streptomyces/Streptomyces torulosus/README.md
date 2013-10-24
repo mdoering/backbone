@@ -1,5 +1,4 @@
-Streptomyces torulosus Lyons and Pridham, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces torulosus Lyons and Pridham, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

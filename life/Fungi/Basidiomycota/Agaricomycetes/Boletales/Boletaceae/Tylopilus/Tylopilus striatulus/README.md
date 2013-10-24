@@ -1,5 +1,4 @@
-Tylopilus striatulus Heinem. SPECIES
-=======
+# Tylopilus striatulus Heinem. SPECIES
 
 #### Status
 ACCEPTED

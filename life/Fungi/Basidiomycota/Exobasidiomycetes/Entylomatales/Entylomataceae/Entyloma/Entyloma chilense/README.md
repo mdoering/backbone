@@ -1,5 +1,4 @@
-Entyloma chilense Speg. SPECIES
-=======
+# Entyloma chilense Speg. SPECIES
 
 #### Status
 ACCEPTED

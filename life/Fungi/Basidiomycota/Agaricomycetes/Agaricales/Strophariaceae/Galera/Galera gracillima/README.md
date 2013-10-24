@@ -1,5 +1,4 @@
-Galera gracillima Velen. SPECIES
-=======
+# Galera gracillima Velen. SPECIES
 
 #### Status
 ACCEPTED

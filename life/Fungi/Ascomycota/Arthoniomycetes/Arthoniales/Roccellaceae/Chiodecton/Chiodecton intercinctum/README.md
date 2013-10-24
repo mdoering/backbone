@@ -1,5 +1,4 @@
-Chiodecton intercinctum Kremp. SPECIES
-=======
+# Chiodecton intercinctum Kremp. SPECIES
 
 #### Status
 ACCEPTED

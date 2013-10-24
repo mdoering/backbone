@@ -1,8 +1,7 @@
-Clastidium setigerum var. rivulare Hansgirg VARIETY
-=======
+# Clastidium rivulare (Hansgirg) Hansgirg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

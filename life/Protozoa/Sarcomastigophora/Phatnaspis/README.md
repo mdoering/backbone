@@ -1,5 +1,4 @@
-Phatnaspis Haeckel, 1881 GENUS
-=======
+# Phatnaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

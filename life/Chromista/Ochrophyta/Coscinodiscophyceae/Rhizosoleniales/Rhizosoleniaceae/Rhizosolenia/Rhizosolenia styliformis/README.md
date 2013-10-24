@@ -1,8 +1,7 @@
-Rhizosolenia styliformis var. longispina Hustedt, 1914 VARIETY
-=======
+# Rhizosolenia styliformis Brightwell, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Rhizomorpha achariana Fr. SPECIES
-=======
+# Rhizomorpha achariana Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus hiulcus Fr. SPECIES
-=======
+# Agaricus hiulcus Fr. SPECIES
 
 #### Status
 ACCEPTED

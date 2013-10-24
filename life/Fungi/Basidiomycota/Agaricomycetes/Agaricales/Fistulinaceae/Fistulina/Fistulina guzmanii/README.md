@@ -1,5 +1,4 @@
-Fistulina guzmanii Brusis, 1973 SPECIES
-=======
+# Fistulina guzmanii Brusis, 1973 SPECIES
 
 #### Status
 ACCEPTED

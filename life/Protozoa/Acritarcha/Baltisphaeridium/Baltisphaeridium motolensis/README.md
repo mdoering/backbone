@@ -1,5 +1,4 @@
-Baltisphaeridium motolensis Dufka & Pacltova, 1988 SPECIES
-=======
+# Baltisphaeridium motolensis Dufka & Pacltova, 1988 SPECIES
 
 #### Status
 ACCEPTED

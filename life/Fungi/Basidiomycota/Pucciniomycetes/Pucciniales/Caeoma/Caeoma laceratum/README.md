@@ -1,5 +1,4 @@
-Caeoma laceratum Link SPECIES
-=======
+# Caeoma laceratum Link SPECIES
 
 #### Status
 ACCEPTED

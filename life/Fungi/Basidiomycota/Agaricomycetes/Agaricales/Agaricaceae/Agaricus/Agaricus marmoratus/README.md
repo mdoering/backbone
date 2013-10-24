@@ -1,5 +1,4 @@
-Agaricus marmoratus Berk. & Broome SPECIES
-=======
+# Agaricus marmoratus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

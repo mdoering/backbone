@@ -1,5 +1,4 @@
-Leiosphaeridia undulata Timofeev, 1973 SPECIES
-=======
+# Leiosphaeridia undulata Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

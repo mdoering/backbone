@@ -1,5 +1,4 @@
-Didymosphaeria destruens Rehm SPECIES
-=======
+# Didymosphaeria destruens Rehm SPECIES
 
 #### Status
 ACCEPTED

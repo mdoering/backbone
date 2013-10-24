@@ -1,5 +1,4 @@
-Catillaria subnigratula (Eitner) Zahlbr. SPECIES
-=======
+# Catillaria subnigratula (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

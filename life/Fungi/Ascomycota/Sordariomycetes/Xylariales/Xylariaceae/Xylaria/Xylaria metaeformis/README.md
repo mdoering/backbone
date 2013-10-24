@@ -1,5 +1,4 @@
-Xylaria metaeformis Lév. SPECIES
-=======
+# Xylaria metaeformis Lév. SPECIES
 
 #### Status
 ACCEPTED

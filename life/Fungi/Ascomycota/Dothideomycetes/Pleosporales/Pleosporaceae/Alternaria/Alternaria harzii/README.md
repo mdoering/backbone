@@ -1,5 +1,4 @@
-Alternaria harzii P. Joly SPECIES
-=======
+# Alternaria harzii P. Joly SPECIES
 
 #### Status
 ACCEPTED

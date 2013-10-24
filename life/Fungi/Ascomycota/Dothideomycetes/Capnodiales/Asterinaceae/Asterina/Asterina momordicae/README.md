@@ -1,5 +1,4 @@
-Asterina momordicae H.S. Yates SPECIES
-=======
+# Asterina momordicae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

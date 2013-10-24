@@ -1,5 +1,4 @@
-Penzigomyces sympodiophorus Subram. SPECIES
-=======
+# Penzigomyces sympodiophorus Subram. SPECIES
 
 #### Status
 ACCEPTED

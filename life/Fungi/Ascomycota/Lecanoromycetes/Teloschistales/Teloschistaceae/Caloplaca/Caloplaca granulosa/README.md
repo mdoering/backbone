@@ -1,17 +1,16 @@
-Caloplaca granulosa var. granulosa VARIETY
-=======
+# Caloplaca granulosa (Müll. Arg.) Jatta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Sylloge Lich. Ital. 237 (1900)
 
 #### Original name
-Caloplaca granulosa var. granulosa
+Amphiloma granulosum Müll. Arg.
 
 ### Remarks
 null

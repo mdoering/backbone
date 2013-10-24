@@ -1,14 +1,13 @@
-Valsa woolworthii Peck, 1876 SPECIES
-=======
+# Diaporthe woolworthii (Peck) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 615 (1882)
 
 #### Original name
 Valsa woolworthii Peck, 1876

@@ -1,5 +1,4 @@
-Rinodina microplaca SPECIES
-=======
+# Rinodina microplaca SPECIES
 
 #### Status
 ACCEPTED

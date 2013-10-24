@@ -1,5 +1,4 @@
-Biddulphia S. F. Gray, 1821 GENUS
-=======
+# Biddulphia S. F. Gray, 1821 GENUS
 
 #### Status
 ACCEPTED

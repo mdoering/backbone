@@ -1,5 +1,4 @@
-Hypholoma nitidipes Peck SPECIES
-=======
+# Hypholoma nitidipes Peck SPECIES
 
 #### Status
 ACCEPTED

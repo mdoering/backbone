@@ -1,5 +1,4 @@
-Pestalotia swieteniae Gonz. Frag. & Cif. SPECIES
-=======
+# Pestalotia swieteniae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

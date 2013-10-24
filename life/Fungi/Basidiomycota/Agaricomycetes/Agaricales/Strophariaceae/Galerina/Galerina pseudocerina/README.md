@@ -1,5 +1,4 @@
-Galerina pseudocerina A.H. Sm. & Singer, 1958 SPECIES
-=======
+# Galerina pseudocerina A.H. Sm. & Singer, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula macrocarpa Vain. SPECIES
-=======
+# Strigula macrocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

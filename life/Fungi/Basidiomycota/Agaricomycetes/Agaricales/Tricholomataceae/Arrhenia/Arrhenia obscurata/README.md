@@ -1,14 +1,13 @@
-Omphalina obscurata (Kühner) M. Lange, 1955 SPECIES
-=======
+# Arrhenia obscurata (D.A. Reid) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 41(4): 419 (1958)
+Mycotaxon 83: 47 (2002)
 
 #### Original name
 Omphalina obscurata (Kühner) M. Lange, 1955

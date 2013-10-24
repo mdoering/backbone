@@ -1,5 +1,4 @@
-Synchytrium oldenlandiae Lingappa SPECIES
-=======
+# Synchytrium oldenlandiae Lingappa SPECIES
 
 #### Status
 ACCEPTED

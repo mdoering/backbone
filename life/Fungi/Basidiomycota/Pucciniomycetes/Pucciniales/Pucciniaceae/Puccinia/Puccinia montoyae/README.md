@@ -1,5 +1,4 @@
-Puccinia montoyae Mayor SPECIES
-=======
+# Puccinia montoyae Mayor SPECIES
 
 #### Status
 ACCEPTED

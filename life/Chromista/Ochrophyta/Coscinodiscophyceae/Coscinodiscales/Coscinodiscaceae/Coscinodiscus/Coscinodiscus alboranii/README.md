@@ -1,5 +1,4 @@
-Coscinodiscus alboranii Pavillard, 1925 SPECIES
-=======
+# Coscinodiscus alboranii Pavillard, 1925 SPECIES
 
 #### Status
 ACCEPTED

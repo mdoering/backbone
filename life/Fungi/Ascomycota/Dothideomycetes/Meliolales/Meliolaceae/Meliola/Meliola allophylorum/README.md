@@ -1,5 +1,4 @@
-Meliola allophylorum Mibey SPECIES
-=======
+# Meliola allophylorum Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella fascicularis Singer SPECIES
-=======
+# Psathyrella fascicularis Singer SPECIES
 
 #### Status
 ACCEPTED

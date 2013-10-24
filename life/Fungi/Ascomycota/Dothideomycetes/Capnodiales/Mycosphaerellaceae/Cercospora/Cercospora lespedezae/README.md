@@ -1,5 +1,4 @@
-Cercospora lespedezae Ellis & Everh. SPECIES
-=======
+# Cercospora lespedezae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

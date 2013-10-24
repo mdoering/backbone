@@ -1,5 +1,4 @@
-Uredo canavaliae Henn. SPECIES
-=======
+# Uredo canavaliae Henn. SPECIES
 
 #### Status
 ACCEPTED

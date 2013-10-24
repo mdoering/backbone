@@ -1,5 +1,4 @@
-Verrucaria caerulea var. caerulea VARIETY
-=======
+# Verrucaria caerulea DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 318 (1805)
 
 #### Original name
-Verrucaria caerulea var. caerulea
+Verrucaria caerulea DC.
 
 ### Remarks
 null

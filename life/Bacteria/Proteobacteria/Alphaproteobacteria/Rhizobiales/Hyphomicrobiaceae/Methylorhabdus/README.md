@@ -1,5 +1,4 @@
-Methylorhabdus Doronina et al., 1996 GENUS
-=======
+# Methylorhabdus Doronina et al., 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps coronilla Höhn. SPECIES
-=======
+# Cordyceps coronilla Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavaria sinapicolor Cleland, 1931 SPECIES
-=======
+# Ramaria lorithamnus (Berk.) R.H. Petersen, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. South Australia 60: 159 (1931)
+Sydowia 35: 184 (1982)
 
 #### Original name
-Clavaria sinapicolor Cleland, 1931
+Clavaria lorithamnus Berk., 1872
 
 ### Remarks
 null

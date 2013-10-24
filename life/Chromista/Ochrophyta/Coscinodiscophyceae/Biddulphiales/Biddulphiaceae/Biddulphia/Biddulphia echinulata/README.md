@@ -1,5 +1,4 @@
-Biddulphia echinulata A. P. Jousé SPECIES
-=======
+# Biddulphia echinulata A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trullula spartii Rabenh. SPECIES
-=======
+# Trullula spartii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

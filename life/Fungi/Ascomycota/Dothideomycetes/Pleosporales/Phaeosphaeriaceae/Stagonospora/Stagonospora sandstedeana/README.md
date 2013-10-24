@@ -1,5 +1,4 @@
-Stagonospora sandstedeana Keissl. SPECIES
-=======
+# Stagonospora sandstedeana Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta centaureae Voglino SPECIES
-=======
+# Pyrenochaeta centaureae Voglino SPECIES
 
 #### Status
 ACCEPTED

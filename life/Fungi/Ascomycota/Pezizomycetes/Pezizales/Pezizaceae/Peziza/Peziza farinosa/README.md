@@ -1,5 +1,4 @@
-Peziza farinosa Wallr. SPECIES
-=======
+# Peziza farinosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

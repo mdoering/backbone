@@ -1,5 +1,4 @@
-Cyathus cinereus Purton SPECIES
-=======
+# Cyathus cinereus Purton SPECIES
 
 #### Status
 ACCEPTED

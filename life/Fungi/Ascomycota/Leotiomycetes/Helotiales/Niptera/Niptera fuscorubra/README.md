@@ -1,5 +1,4 @@
-Niptera fuscorubra Rehm SPECIES
-=======
+# Niptera fuscorubra Rehm SPECIES
 
 #### Status
 ACCEPTED

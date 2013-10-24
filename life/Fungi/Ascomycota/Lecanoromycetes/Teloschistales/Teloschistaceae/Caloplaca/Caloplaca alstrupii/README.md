@@ -1,5 +1,4 @@
-Caloplaca alstrupii Søchting SPECIES
-=======
+# Caloplaca alstrupii Søchting SPECIES
 
 #### Status
 ACCEPTED

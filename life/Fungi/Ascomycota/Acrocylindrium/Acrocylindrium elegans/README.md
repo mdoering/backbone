@@ -1,5 +1,4 @@
-Acrocylindrium elegans Bonord. SPECIES
-=======
+# Acrocylindrium elegans Bonord. SPECIES
 
 #### Status
 ACCEPTED

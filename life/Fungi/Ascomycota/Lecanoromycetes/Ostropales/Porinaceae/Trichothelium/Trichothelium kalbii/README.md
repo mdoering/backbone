@@ -1,5 +1,4 @@
-Trichothelium kalbii Lücking SPECIES
-=======
+# Trichothelium kalbii Lücking SPECIES
 
 #### Status
 ACCEPTED

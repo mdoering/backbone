@@ -1,5 +1,4 @@
-Hyphozyma lignicola L.J. Hutchison, Sigler & Y. Hirats., 1993 SPECIES
-=======
+# Hyphozyma lignicola L.J. Hutchison, Sigler & Y. Hirats., 1993 SPECIES
 
 #### Status
 ACCEPTED

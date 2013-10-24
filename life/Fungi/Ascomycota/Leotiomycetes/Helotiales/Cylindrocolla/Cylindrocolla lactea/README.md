@@ -1,5 +1,4 @@
-Cylindrocolla lactea Sacc. & Ellis SPECIES
-=======
+# Cylindrocolla lactea Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

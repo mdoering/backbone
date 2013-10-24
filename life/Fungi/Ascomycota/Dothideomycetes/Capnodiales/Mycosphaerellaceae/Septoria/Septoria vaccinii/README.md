@@ -1,5 +1,4 @@
-Septoria vaccinii Henn. SPECIES
-=======
+# Septoria vaccinii Henn. SPECIES
 
 #### Status
 ACCEPTED

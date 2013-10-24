@@ -1,5 +1,4 @@
-Apyrenium lignatile (Fr.) Fr. SPECIES
-=======
+# Apyrenium lignatile (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

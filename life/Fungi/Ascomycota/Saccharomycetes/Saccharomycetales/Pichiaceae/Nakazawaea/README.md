@@ -1,5 +1,4 @@
-Nakazawaea GENUS
-=======
+# Nakazawaea GENUS
 
 #### Status
 ACCEPTED

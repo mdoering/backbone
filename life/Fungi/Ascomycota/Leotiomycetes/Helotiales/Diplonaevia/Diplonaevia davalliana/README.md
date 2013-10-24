@@ -1,5 +1,4 @@
-Diplonaevia davalliana B. Hein & Scheuer SPECIES
-=======
+# Diplonaevia davalliana B. Hein & Scheuer SPECIES
 
 #### Status
 ACCEPTED

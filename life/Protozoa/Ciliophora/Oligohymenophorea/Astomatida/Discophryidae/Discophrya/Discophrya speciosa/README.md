@@ -1,5 +1,4 @@
-Discophrya speciosa Lachmann, 1859 SPECIES
-=======
+# Discophrya speciosa Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

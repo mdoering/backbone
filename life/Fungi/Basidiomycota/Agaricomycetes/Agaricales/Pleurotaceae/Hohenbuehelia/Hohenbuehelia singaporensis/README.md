@@ -1,5 +1,4 @@
-Hohenbuehelia singaporensis Corner SPECIES
-=======
+# Hohenbuehelia singaporensis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis lanceolata Wood, 1963 SPECIES
-=======
+# Histioneis lanceolata Wood, 1963 SPECIES
 
 #### Status
 ACCEPTED

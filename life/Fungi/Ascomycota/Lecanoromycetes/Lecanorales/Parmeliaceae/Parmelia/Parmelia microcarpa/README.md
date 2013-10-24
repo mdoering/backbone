@@ -1,5 +1,4 @@
-Parmelia microcarpa Clemente SPECIES
-=======
+# Parmelia microcarpa Clemente SPECIES
 
 #### Status
 ACCEPTED

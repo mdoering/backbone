@@ -1,5 +1,4 @@
-Cylindrosporium tubeufianum Allesch. SPECIES
-=======
+# Cylindrosporium tubeufianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca alaskensis Wetmore SPECIES
-=======
+# Caloplaca alaskensis Wetmore SPECIES
 
 #### Status
 ACCEPTED

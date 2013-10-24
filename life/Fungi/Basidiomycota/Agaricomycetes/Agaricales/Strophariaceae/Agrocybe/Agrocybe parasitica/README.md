@@ -1,5 +1,4 @@
-Agrocybe parasitica G. Stev., 1982 SPECIES
-=======
+# Agrocybe parasitica G. Stev., 1982 SPECIES
 
 #### Status
 ACCEPTED

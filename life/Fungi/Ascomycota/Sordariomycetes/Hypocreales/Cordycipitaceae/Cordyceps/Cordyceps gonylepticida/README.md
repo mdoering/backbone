@@ -1,5 +1,4 @@
-Cordyceps gonylepticida Möller SPECIES
-=======
+# Cordyceps gonylepticida Möller SPECIES
 
 #### Status
 ACCEPTED

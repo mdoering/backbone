@@ -1,5 +1,4 @@
-Verrucaria langei Zschacke SPECIES
-=======
+# Verrucaria langei Zschacke SPECIES
 
 #### Status
 ACCEPTED

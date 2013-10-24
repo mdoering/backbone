@@ -1,5 +1,4 @@
-Pyrenophora dichromotricha Speg. SPECIES
-=======
+# Pyrenophora dichromotricha Speg. SPECIES
 
 #### Status
 ACCEPTED

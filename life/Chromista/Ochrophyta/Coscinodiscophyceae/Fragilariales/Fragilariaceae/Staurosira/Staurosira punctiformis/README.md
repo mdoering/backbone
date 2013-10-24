@@ -1,5 +1,4 @@
-Staurosira punctiformis Witkowski SPECIES
-=======
+# Staurosira punctiformis Witkowski SPECIES
 
 #### Status
 ACCEPTED

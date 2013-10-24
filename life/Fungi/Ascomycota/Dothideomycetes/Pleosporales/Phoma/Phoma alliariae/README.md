@@ -1,5 +1,4 @@
-Phoma alliariae Delacr. SPECIES
-=======
+# Phoma alliariae Delacr. SPECIES
 
 #### Status
 ACCEPTED

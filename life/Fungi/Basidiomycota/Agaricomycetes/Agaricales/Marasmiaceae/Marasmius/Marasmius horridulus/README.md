@@ -1,5 +1,4 @@
-Marasmius horridulus Singer SPECIES
-=======
+# Marasmius horridulus Singer SPECIES
 
 #### Status
 ACCEPTED

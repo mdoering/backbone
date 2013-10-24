@@ -1,5 +1,4 @@
-Colpoda tripartita Kahl, 1931 SPECIES
-=======
+# Colpoda tripartita Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

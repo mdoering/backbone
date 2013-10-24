@@ -1,5 +1,4 @@
-Cilioplea amplispora M.E. Barr SPECIES
-=======
+# Cilioplea amplispora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

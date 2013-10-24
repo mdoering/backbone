@@ -1,5 +1,4 @@
-Elmerina unguliformis Corner SPECIES
-=======
+# Elmerina unguliformis Corner SPECIES
 
 #### Status
 ACCEPTED

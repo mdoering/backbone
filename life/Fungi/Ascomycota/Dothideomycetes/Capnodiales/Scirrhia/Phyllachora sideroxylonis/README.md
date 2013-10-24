@@ -1,5 +1,4 @@
-Phyllachora sideroxylonis (Gonz. Frag. & Cif.) Petr., 1931 SPECIES
-=======
+# Phyllachora sideroxylonis (Gonz. Frag. & Cif.) Petr., 1931 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,17 +1,16 @@
-Lirula pakistanense S. Kaneko SPECIES
-=======
+# Lirula pakistanensis S. Kaneko SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptogamic Flora of Pakistan (Tokyo), Vol. <b>2</b> 150 (1993)
 
 #### Original name
-Lirula pakistanense S. Kaneko
+Lirula pakistanensis S. Kaneko
 
 ### Remarks
 null

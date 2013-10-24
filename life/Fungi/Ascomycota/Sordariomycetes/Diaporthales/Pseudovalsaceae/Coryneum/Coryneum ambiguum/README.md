@@ -1,5 +1,4 @@
-Coryneum ambiguum P. Karst. SPECIES
-=======
+# Coryneum ambiguum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

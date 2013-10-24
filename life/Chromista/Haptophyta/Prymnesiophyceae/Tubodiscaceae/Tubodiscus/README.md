@@ -1,5 +1,4 @@
-Tubodiscus Thierstein GENUS
-=======
+# Tubodiscus Thierstein GENUS
 
 #### Status
 ACCEPTED

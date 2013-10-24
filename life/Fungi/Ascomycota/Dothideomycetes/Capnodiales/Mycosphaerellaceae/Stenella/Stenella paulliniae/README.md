@@ -1,17 +1,16 @@
-Zasmidium paulliniae (Deighton) K. Schub. & U. Braun, 2010 SPECIES
-=======
+# Stenella paulliniae (Deighton) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Progr. 4(2): 107 (2005)
 
 #### Original name
-null
+Cladosporium paulliniae Deighton, 1979
 
 ### Remarks
 null

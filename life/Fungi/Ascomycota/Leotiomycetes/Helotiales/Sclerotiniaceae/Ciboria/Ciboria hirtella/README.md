@@ -1,5 +1,4 @@
-Ciboria hirtella (Boud.) SPECIES
-=======
+# Ciboria hirtella (Boud.) SPECIES
 
 #### Status
 ACCEPTED

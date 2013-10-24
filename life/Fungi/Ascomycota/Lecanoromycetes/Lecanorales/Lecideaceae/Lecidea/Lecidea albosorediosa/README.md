@@ -1,5 +1,4 @@
-Lecidea albosorediosa H. Magn. SPECIES
-=======
+# Lecidea albosorediosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

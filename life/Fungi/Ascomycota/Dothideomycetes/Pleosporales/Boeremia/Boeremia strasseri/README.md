@@ -1,5 +1,4 @@
-Boeremia strasseri (Moesz) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Boeremia strasseri (Moesz) Aveskamp, Gruyter & Verkley, 2010 SPECIES
 
 #### Status
 ACCEPTED

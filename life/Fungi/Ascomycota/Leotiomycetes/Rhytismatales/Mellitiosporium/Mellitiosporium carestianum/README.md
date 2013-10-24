@@ -1,8 +1,7 @@
-Melittosporium carestianum Sacc. SPECIES
-=======
+# Mellitiosporium carestianum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melittosporium carestianum Sacc.
+Mellitiosporium carestianum Sacc.
 
 ### Remarks
 null

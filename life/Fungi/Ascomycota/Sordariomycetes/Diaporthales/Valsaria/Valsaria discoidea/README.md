@@ -1,5 +1,4 @@
-Valsaria discoidea Rehm SPECIES
-=======
+# Valsaria discoidea Rehm SPECIES
 
 #### Status
 ACCEPTED

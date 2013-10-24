@@ -1,5 +1,4 @@
-Sarcodon wrightii (Berk. & M.A. Curtis) Maas Geest., 1967 SPECIES
-=======
+# Sarcodon wrightii (Berk. & M.A. Curtis) Maas Geest., 1967 SPECIES
 
 #### Status
 ACCEPTED

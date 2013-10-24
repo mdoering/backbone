@@ -1,5 +1,4 @@
-Bachmannocena occidentalis (G.D. Hanna ex D. Bukry) K. McCartney & S.W. Wise SPECIES
-=======
+# Bachmannocena occidentalis (G.D. Hanna ex D. Bukry) K. McCartney & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia alexandrina Nyl. SPECIES
-=======
+# Arthonia alexandrina Nyl. SPECIES
 
 #### Status
 ACCEPTED

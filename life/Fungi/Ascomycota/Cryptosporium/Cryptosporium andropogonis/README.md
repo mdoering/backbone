@@ -1,5 +1,4 @@
-Cryptosporium andropogonis Morochk. SPECIES
-=======
+# Cryptosporium andropogonis Morochk. SPECIES
 
 #### Status
 ACCEPTED

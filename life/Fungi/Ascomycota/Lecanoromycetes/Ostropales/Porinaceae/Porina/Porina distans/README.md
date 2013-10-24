@@ -1,5 +1,4 @@
-Porina distans Vezda & Vivant SPECIES
-=======
+# Porina distans Vezda & Vivant SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus limpidodes (P. Karst.) Kuntze SPECIES
-=======
+# Dendrosarcus limpidodes (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

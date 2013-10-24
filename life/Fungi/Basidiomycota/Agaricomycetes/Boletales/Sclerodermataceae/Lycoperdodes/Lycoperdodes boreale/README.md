@@ -1,5 +1,4 @@
-Lycoperdodes boreale (P. Karst.) Kuntze SPECIES
-=======
+# Lycoperdodes boreale (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

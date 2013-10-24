@@ -1,5 +1,4 @@
-Oospora catenata Schaede SPECIES
-=======
+# Oospora catenata Schaede SPECIES
 
 #### Status
 ACCEPTED

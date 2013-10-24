@@ -1,5 +1,4 @@
-Paramphitrema Valkanov, 1970 GENUS
-=======
+# Paramphitrema Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

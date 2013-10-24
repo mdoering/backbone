@@ -1,5 +1,4 @@
-Cenangium paraense Henn. SPECIES
-=======
+# Cenangium paraense Henn. SPECIES
 
 #### Status
 ACCEPTED

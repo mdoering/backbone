@@ -1,5 +1,4 @@
-Leohumicola terminalis Hambl., Seifert & N.L. Nick., 2005 SPECIES
-=======
+# Leohumicola terminalis Hambl., Seifert & N.L. Nick., 2005 SPECIES
 
 #### Status
 ACCEPTED

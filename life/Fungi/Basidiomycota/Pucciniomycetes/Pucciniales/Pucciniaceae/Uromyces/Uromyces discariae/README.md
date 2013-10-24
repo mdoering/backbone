@@ -1,5 +1,4 @@
-Uromyces discariae G. Cunn., 1923 SPECIES
-=======
+# Uromyces discariae G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

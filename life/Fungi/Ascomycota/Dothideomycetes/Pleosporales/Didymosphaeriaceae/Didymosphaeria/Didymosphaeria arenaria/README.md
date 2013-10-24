@@ -1,17 +1,16 @@
-Didymosphaeria arenaria var. arenaria Mouton VARIETY
-=======
+# Didymosphaeria arenaria Mont., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. R. Bot. Belg. 28(C. R. ): 75 (1889)
 
 #### Original name
-Didymosphaeria arenaria var. arenaria Mouton
+Didymosphaeria arenaria Mont., 1889
 
 ### Remarks
 null

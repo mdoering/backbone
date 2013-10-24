@@ -1,5 +1,4 @@
-Rutstroemia rivularis (P. Crouan & H. Crouan) Le Gal SPECIES
-=======
+# Rutstroemia rivularis (P. Crouan & H. Crouan) Le Gal SPECIES
 
 #### Status
 ACCEPTED

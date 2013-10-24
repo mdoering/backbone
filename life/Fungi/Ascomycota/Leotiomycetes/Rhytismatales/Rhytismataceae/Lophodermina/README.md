@@ -1,5 +1,4 @@
-Lophodermina GENUS
-=======
+# Lophodermina GENUS
 
 #### Status
 ACCEPTED

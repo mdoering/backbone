@@ -1,5 +1,4 @@
-Dasyscyphella dryina (P. Karst.) Raitv. SPECIES
-=======
+# Dasyscyphella dryina (P. Karst.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

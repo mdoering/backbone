@@ -1,5 +1,4 @@
-Sarcosoma celebicum (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Sarcosoma celebicum (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

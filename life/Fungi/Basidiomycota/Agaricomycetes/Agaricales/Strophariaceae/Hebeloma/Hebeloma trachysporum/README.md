@@ -1,5 +1,4 @@
-Hebeloma trachysporum Petch SPECIES
-=======
+# Hebeloma trachysporum Petch SPECIES
 
 #### Status
 ACCEPTED

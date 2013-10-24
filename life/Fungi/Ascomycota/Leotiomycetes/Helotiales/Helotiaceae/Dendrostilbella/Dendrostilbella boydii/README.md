@@ -1,5 +1,4 @@
-Dendrostilbella boydii Shear SPECIES
-=======
+# Dendrostilbella boydii Shear SPECIES
 
 #### Status
 ACCEPTED

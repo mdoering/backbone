@@ -1,5 +1,4 @@
-Anthostomella pholidigena (Ellis) Berl. & Voglino SPECIES
-=======
+# Anthostomella pholidigena (Ellis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

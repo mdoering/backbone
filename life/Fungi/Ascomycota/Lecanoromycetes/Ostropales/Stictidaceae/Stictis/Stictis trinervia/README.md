@@ -1,5 +1,4 @@
-Stictis trinervia P.R. Johnst. SPECIES
-=======
+# Stictis trinervia P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

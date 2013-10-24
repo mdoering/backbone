@@ -1,5 +1,4 @@
-Triadelphia queenslandica Matsush. SPECIES
-=======
+# Triadelphia queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chaenia crassa SPECIES
-=======
+# Chaenea crassa Maskell, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

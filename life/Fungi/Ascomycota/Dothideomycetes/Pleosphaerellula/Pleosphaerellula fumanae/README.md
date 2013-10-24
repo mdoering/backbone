@@ -1,5 +1,4 @@
-Pleosphaerellula fumanae Tóth SPECIES
-=======
+# Pleosphaerellula fumanae Tóth SPECIES
 
 #### Status
 ACCEPTED

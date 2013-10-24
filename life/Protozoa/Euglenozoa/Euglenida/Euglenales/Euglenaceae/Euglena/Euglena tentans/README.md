@@ -1,5 +1,4 @@
-Euglena tentans Gojdics SPECIES
-=======
+# Euglena tentans Gojdics SPECIES
 
 #### Status
 ACCEPTED

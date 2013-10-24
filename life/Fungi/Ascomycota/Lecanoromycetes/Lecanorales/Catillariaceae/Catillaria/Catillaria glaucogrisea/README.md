@@ -1,5 +1,4 @@
-Catillaria glaucogrisea Fryday SPECIES
-=======
+# Catillaria glaucogrisea Fryday SPECIES
 
 #### Status
 ACCEPTED

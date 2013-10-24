@@ -1,5 +1,4 @@
-Kockovaella Nakase, I. Banno & Y. Yamada GENUS
-=======
+# Kockovaella Nakase, I. Banno & Y. Yamada GENUS
 
 #### Status
 ACCEPTED

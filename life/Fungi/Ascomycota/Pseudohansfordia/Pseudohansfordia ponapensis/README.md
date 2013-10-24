@@ -1,5 +1,4 @@
-Pseudohansfordia ponapensis Matsush. SPECIES
-=======
+# Pseudohansfordia ponapensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

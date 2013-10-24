@@ -1,14 +1,13 @@
-Biatora rubiginans (Nyl.) Hult. SPECIES
-=======
+# Pyrrhospora rubiginans (Nyl.) P. James & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Poelt & Vezda, Biblthca Lichenol. 16: 365 (1981)
 
 #### Original name
 Lecanora rubiginans Nyl.

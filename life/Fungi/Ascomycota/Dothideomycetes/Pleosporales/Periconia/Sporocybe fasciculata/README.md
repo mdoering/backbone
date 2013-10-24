@@ -1,5 +1,4 @@
-Sporocybe fasciculata (Schwein.) Sacc. SPECIES
-=======
+# Sporocybe fasciculata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

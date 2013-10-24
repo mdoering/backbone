@@ -1,5 +1,4 @@
-Coniothyrium sepium Fairm. SPECIES
-=======
+# Coniothyrium sepium Fairm. SPECIES
 
 #### Status
 ACCEPTED

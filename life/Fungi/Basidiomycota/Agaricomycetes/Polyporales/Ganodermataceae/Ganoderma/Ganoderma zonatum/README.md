@@ -1,14 +1,13 @@
-Polyporus lucidus var. zonatus (Murrill) Overh., 1953 VARIETY
-=======
+# Ganoderma zonatum Murrill, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-University of Michigan Studies, Science Series 19(nil): 210 (1953)
+Bull. Torrey bot. Club 29: 606 (1902)
 
 #### Original name
 Ganoderma zonatum Murrill, 1902

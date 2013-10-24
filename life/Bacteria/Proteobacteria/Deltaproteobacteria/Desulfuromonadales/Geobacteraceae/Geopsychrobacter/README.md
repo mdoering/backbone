@@ -1,5 +1,4 @@
-Geopsychrobacter Holmes et al., 2005 GENUS
-=======
+# Geopsychrobacter Holmes et al., 2005 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterothyrites menonii (K.P. Jain & R.C. Gupta) Kalgutkar & Janson. SPECIES
-=======
+# Asterothyrites menonii (K.P. Jain & R.C. Gupta) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

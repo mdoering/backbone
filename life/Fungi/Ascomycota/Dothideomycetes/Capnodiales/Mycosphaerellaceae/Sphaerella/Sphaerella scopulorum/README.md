@@ -1,5 +1,4 @@
-Sphaerella scopulorum Sacc. & Cavara SPECIES
-=======
+# Sphaerella scopulorum Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

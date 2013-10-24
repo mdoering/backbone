@@ -1,5 +1,4 @@
-Panus semirudis Singer SPECIES
-=======
+# Panus semirudis Singer SPECIES
 
 #### Status
 ACCEPTED

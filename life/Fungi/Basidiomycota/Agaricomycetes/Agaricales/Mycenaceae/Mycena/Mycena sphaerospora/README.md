@@ -1,5 +1,4 @@
-Mycena sphaerospora Massee SPECIES
-=======
+# Mycena sphaerospora Massee SPECIES
 
 #### Status
 ACCEPTED

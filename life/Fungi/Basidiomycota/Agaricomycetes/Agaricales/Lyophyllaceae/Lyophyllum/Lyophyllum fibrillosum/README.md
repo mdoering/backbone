@@ -1,5 +1,4 @@
-Lyophyllum fibrillosum (Singer) Singer SPECIES
-=======
+# Lyophyllum fibrillosum (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

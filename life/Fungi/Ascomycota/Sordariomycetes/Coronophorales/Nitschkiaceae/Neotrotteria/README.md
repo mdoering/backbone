@@ -1,5 +1,4 @@
-Neotrotteria GENUS
-=======
+# Neotrotteria GENUS
 
 #### Status
 ACCEPTED

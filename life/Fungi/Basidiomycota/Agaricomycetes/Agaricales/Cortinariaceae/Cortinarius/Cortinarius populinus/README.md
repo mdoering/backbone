@@ -1,5 +1,4 @@
-Cortinarius populinus Brandrud SPECIES
-=======
+# Cortinarius populinus Brandrud SPECIES
 
 #### Status
 ACCEPTED

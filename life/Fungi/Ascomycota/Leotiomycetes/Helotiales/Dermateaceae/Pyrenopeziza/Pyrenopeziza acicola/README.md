@@ -1,5 +1,4 @@
-Pyrenopeziza acicola Sacc. & Speg. SPECIES
-=======
+# Pyrenopeziza acicola Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

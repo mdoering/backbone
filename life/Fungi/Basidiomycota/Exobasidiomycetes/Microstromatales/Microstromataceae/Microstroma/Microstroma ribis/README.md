@@ -1,5 +1,4 @@
-Microstroma ribis (Vassiljevsky) W.B. Cooke SPECIES
-=======
+# Microstroma ribis (Vassiljevsky) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

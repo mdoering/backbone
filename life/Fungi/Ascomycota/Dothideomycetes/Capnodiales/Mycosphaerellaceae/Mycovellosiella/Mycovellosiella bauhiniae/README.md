@@ -1,5 +1,4 @@
-Mycovellosiella bauhiniae (Ellis & Everh.) U. Braun SPECIES
-=======
+# Mycovellosiella bauhiniae (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

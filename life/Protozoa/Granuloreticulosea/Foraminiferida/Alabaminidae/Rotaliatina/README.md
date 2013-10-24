@@ -1,5 +1,4 @@
-Rotaliatina Cushman, 1925 GENUS
-=======
+# Rotaliatina Cushman, 1925 GENUS
 
 #### Status
 ACCEPTED

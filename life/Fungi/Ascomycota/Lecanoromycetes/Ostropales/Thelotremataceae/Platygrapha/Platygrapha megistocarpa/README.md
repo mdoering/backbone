@@ -1,5 +1,4 @@
-Platygrapha megistocarpa Leight. SPECIES
-=======
+# Platygrapha megistocarpa Leight. SPECIES
 
 #### Status
 ACCEPTED

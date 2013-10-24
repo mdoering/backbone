@@ -1,5 +1,4 @@
-Gymnopilus pulchrifolius (Peck) Murrill SPECIES
-=======
+# Gymnopilus pulchrifolius (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

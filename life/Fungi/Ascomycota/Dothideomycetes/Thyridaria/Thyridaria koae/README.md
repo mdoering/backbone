@@ -1,5 +1,4 @@
-Thyridaria koae Petr. SPECIES
-=======
+# Thyridaria koae Petr. SPECIES
 
 #### Status
 ACCEPTED

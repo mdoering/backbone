@@ -1,5 +1,4 @@
-Kleidiomyces hoplandriae Thaxt., 1931 SPECIES
-=======
+# Kleidiomyces hoplandriae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

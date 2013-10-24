@@ -1,5 +1,4 @@
-Hypolyssus paeonius (Berk. & Broome) Kuntze SPECIES
-=======
+# Hypolyssus paeonius (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

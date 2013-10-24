@@ -1,5 +1,4 @@
-Pestalotia aceris Henn. SPECIES
-=======
+# Pestalotia aceris Henn. SPECIES
 
 #### Status
 ACCEPTED

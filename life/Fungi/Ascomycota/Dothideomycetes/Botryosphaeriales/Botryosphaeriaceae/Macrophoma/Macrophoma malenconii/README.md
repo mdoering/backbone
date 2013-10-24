@@ -1,5 +1,4 @@
-Macrophoma malenconii Rieuf SPECIES
-=======
+# Macrophoma malenconii Rieuf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis fischeri-eduardi Bubák SPECIES
-=======
+# Phomopsis fischeri-eduardi Bubák SPECIES
 
 #### Status
 ACCEPTED

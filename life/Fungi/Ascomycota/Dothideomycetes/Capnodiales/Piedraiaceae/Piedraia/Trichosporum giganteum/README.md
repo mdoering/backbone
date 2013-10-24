@@ -1,5 +1,4 @@
-Trichosporum giganteum Vuill. SPECIES
-=======
+# Trichosporum giganteum Vuill. SPECIES
 
 #### Status
 ACCEPTED

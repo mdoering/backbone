@@ -1,5 +1,4 @@
-Phoma montteae Speg. SPECIES
-=======
+# Phoma montteae Speg. SPECIES
 
 #### Status
 ACCEPTED

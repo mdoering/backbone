@@ -1,5 +1,4 @@
-Botryosphaeria hyperborea M.E. Barr, 1970 SPECIES
-=======
+# Botryosphaeria hyperborea M.E. Barr, 1970 SPECIES
 
 #### Status
 ACCEPTED

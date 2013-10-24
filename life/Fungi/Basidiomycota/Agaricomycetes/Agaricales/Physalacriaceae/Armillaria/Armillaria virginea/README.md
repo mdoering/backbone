@@ -1,5 +1,4 @@
-Armillaria virginea Rick SPECIES
-=======
+# Armillaria virginea Rick SPECIES
 
 #### Status
 ACCEPTED

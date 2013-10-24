@@ -1,14 +1,13 @@
-Peziza kerguelensis Berk., 1847 SPECIES
-=======
+# Scutellinia kerguelensis (Berk.) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Fl. Antarct. 2: 451 (1847)
+Revis. gen. pl. (Leipzig) 2: 869 (1891)
 
 #### Original name
 Peziza kerguelensis Berk., 1847

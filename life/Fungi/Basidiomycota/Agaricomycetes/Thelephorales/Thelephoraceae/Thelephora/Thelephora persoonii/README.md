@@ -1,5 +1,4 @@
-Thelephora persoonii Lam. & DC. SPECIES
-=======
+# Thelephora persoonii Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus luteorubescens Britzelm. SPECIES
-=======
+# Agaricus luteorubescens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta dracocephali Dearn. & Bisby SPECIES
-=======
+# Phyllosticta dracocephali Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

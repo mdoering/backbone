@@ -1,5 +1,4 @@
-Gliocladium beticola Pidopl. SPECIES
-=======
+# Gliocladium beticola Pidopl. SPECIES
 
 #### Status
 ACCEPTED

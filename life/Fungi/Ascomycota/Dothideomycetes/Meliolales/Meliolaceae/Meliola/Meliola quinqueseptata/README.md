@@ -1,5 +1,4 @@
-Meliola quinqueseptata Rehm SPECIES
-=======
+# Meliola quinqueseptata Rehm SPECIES
 
 #### Status
 ACCEPTED

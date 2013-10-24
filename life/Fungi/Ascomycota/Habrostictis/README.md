@@ -1,5 +1,4 @@
-Habrostictis Clements, 1909 GENUS
-=======
+# Habrostictis Clements, 1909 GENUS
 
 #### Status
 ACCEPTED

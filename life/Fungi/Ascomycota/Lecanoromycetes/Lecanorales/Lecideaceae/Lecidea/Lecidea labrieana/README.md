@@ -1,5 +1,4 @@
-Lecidea labrieana B. de Lesd. SPECIES
-=======
+# Lecidea labrieana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

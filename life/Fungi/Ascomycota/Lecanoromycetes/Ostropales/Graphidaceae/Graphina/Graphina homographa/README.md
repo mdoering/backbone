@@ -1,5 +1,4 @@
-Graphina homographa (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina homographa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

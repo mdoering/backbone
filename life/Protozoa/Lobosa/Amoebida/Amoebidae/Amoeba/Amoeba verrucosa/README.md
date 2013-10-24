@@ -1,5 +1,4 @@
-Amoeba verrucosa Ehrenberg SPECIES
-=======
+# Amoeba verrucosa Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

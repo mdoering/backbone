@@ -1,17 +1,16 @@
-Lloydella schomburgkii var. brunnea Bres. VARIETY
-=======
+# Duportella schomburgkii (Berk.) G. Cunn., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 45 (1920)
+Proc. Linn. Soc. N. S. W. 77: 292 (1953)
 
 #### Original name
-Lloydella schomburgkii var. brunnea Bres.
+Stereum schomburgkii Berk., 1873
 
 ### Remarks
 null

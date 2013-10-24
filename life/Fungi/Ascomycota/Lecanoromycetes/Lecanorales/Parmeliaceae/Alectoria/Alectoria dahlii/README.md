@@ -1,5 +1,4 @@
-Alectoria dahlii P.M. Jørg. SPECIES
-=======
+# Alectoria dahlii P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

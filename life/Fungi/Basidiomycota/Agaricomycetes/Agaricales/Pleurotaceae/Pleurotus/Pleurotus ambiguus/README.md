@@ -1,5 +1,4 @@
-Pleurotus ambiguus (Lév.) Sacc. & Traverso SPECIES
-=======
+# Pleurotus ambiguus (Lév.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

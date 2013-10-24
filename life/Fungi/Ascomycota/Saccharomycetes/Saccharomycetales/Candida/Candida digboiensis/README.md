@@ -1,5 +1,4 @@
-Candida digboiensis G.S. Prasad, Mayilraj, Sood & Ban. Lal SPECIES
-=======
+# Candida digboiensis G.S. Prasad, Mayilraj, Sood & Ban. Lal SPECIES
 
 #### Status
 ACCEPTED

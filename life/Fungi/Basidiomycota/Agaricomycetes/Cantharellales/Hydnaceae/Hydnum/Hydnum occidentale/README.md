@@ -1,5 +1,4 @@
-Hydnum occidentale (Paulet) Fr. SPECIES
-=======
+# Hydnum occidentale (Paulet) Fr. SPECIES
 
 #### Status
 ACCEPTED

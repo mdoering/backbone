@@ -1,5 +1,4 @@
-Trichomonadidae FAMILY
-=======
+# Trichomonadidae FAMILY
 
 #### Status
 ACCEPTED

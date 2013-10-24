@@ -1,5 +1,4 @@
-Russula kavinae Melzer & Zvára SPECIES
-=======
+# Russula kavinae Melzer & Zvára SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium vincae Bolay SPECIES
-=======
+# Oidium vincae Bolay SPECIES
 
 #### Status
 ACCEPTED

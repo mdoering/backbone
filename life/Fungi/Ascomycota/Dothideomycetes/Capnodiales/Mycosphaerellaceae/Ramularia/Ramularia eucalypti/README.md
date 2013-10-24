@@ -1,5 +1,4 @@
-Ramularia eucalypti Crous SPECIES
-=======
+# Ramularia eucalypti Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tryblidaria pongamiae R. Rao SPECIES
-=======
+# Tryblidaria pongamiae R. Rao SPECIES
 
 #### Status
 ACCEPTED

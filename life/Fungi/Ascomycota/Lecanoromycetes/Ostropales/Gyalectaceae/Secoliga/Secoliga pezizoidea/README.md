@@ -1,5 +1,4 @@
-Secoliga pezizoidea (Naegeli) Stizenb. SPECIES
-=======
+# Secoliga pezizoidea (Naegeli) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

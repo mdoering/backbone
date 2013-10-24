@@ -1,5 +1,4 @@
-Nectria ananatis Seaver & Chardón SPECIES
-=======
+# Nectria ananatis Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

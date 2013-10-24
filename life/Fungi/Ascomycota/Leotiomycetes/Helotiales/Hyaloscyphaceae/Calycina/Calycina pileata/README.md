@@ -1,5 +1,4 @@
-Calycina pileata (Peck) Kuntze SPECIES
-=======
+# Calycina pileata (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

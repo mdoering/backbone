@@ -1,5 +1,4 @@
-Massaria plumigera var. plumigera VARIETY
-=======
+# Massaria plumigera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 N. Amer. Pyren. (Newfield) 404 (1892)
 
 #### Original name
-Massaria plumigera var. plumigera
+Massaria plumigera Ellis & Everh.
 
 ### Remarks
 null

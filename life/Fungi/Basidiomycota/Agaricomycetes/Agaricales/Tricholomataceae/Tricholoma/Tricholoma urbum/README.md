@@ -1,5 +1,4 @@
-Tricholoma urbum (Fr.) Sacc. SPECIES
-=======
+# Tricholoma urbum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

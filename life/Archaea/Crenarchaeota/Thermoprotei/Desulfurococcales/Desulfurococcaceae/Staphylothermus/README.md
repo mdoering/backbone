@@ -1,5 +1,4 @@
-Staphylothermus Fiala, Stetter, Jannasch, Langworthy & Madon, 1996 GENUS
-=======
+# Staphylothermus Fiala, Stetter, Jannasch, Langworthy & Madon, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora fusca F.V. Rand, 1914 SPECIES
-=======
+# Cercospora fusca F.V. Rand, 1914 SPECIES
 
 #### Status
 ACCEPTED

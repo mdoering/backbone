@@ -1,5 +1,4 @@
-Lecanora sphaerothallina var. plicatula J. Steiner VARIETY
-=======
+# Lecanora sphaerothallina J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora sphaerothallina var. plicatula J. Steiner
+Lecanora sphaerothallina J. Steiner
 
 ### Remarks
 null

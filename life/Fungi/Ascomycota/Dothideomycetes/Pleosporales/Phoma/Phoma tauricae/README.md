@@ -1,5 +1,4 @@
-Phoma tauricae Gucevic SPECIES
-=======
+# Phoma tauricae Gucevic SPECIES
 
 #### Status
 ACCEPTED

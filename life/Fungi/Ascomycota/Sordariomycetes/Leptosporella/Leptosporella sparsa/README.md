@@ -1,5 +1,4 @@
-Leptosporella sparsa Penz. & Sacc. SPECIES
-=======
+# Leptosporella sparsa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

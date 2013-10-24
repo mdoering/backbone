@@ -1,5 +1,4 @@
-Sticta philippinica SPECIES
-=======
+# Sticta philippinica SPECIES
 
 #### Status
 ACCEPTED

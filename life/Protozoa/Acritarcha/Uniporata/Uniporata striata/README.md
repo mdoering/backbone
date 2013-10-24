@@ -1,5 +1,4 @@
-Uniporata striata Lopukhin, 1966 SPECIES
-=======
+# Uniporata striata Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster bovista Klotzsch SPECIES
-=======
+# Geastrum bovista Klotzsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster bovista Klotzsch
+Geastrum bovista Klotzsch
 
 ### Remarks
 null

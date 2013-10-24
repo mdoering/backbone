@@ -1,5 +1,4 @@
-Rhizomyces kamerunus Thaxt., 1918 SPECIES
-=======
+# Rhizomyces kamerunus Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

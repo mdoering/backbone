@@ -1,5 +1,4 @@
-Cercospora tectoniae F. Stevens SPECIES
-=======
+# Cercospora tectoniae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

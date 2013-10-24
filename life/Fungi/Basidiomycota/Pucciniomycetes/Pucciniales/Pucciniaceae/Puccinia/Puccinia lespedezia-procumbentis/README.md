@@ -1,5 +1,4 @@
-Puccinia lespedezia-procumbentis Schwein. SPECIES
-=======
+# Puccinia lespedezia-procumbentis Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Alternaria citri var. citri VARIETY
-=======
+# Alternaria citri Ellis & N. Pierce, 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 15: 43 (1901)
+in Pierce, Bot. Gaz. 33: 234 (1902)
 
 #### Original name
-Alternaria citri var. citri
+Alternaria citri Ellis & N. Pierce, 1902
 
 ### Remarks
 null

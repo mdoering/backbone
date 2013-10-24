@@ -1,5 +1,4 @@
-Lecidea brunneola (Rehm) Zahlbr. SPECIES
-=======
+# Lecidea brunneola (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

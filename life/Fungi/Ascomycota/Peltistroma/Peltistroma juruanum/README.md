@@ -1,17 +1,16 @@
-Peltistroma juruana Henn. SPECIES
-=======
+# Peltistroma juruanum Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 43(6): 391 (1904)
 
 #### Original name
-Peltistroma juruana Henn.
+Peltistroma juruanum Henn., 1904
 
 ### Remarks
 null

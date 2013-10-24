@@ -1,5 +1,4 @@
-Misgomyces devexirostris (Speg.) Thaxt. SPECIES
-=======
+# Misgomyces devexirostris (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

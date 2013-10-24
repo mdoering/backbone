@@ -1,5 +1,4 @@
-Rutstroemia hedwigiae Kirschst. SPECIES
-=======
+# Rutstroemia hedwigiae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

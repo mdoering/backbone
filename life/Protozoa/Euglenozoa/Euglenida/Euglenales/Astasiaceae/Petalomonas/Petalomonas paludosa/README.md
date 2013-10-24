@@ -1,5 +1,4 @@
-Petalomonas paludosa Christen SPECIES
-=======
+# Petalomonas paludosa Christen SPECIES
 
 #### Status
 ACCEPTED

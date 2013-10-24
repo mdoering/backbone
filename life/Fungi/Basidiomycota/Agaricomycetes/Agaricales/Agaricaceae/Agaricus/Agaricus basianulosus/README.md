@@ -1,5 +1,4 @@
-Agaricus basianulosus Paracer & Chahal SPECIES
-=======
+# Agaricus basianulosus Paracer & Chahal SPECIES
 
 #### Status
 ACCEPTED

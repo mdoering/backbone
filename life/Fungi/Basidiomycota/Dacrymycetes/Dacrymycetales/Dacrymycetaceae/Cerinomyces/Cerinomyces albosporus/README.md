@@ -1,5 +1,4 @@
-Cerinomyces albosporus Boidin & Gilles, 1986 SPECIES
-=======
+# Cerinomyces albosporus Boidin & Gilles, 1986 SPECIES
 
 #### Status
 ACCEPTED

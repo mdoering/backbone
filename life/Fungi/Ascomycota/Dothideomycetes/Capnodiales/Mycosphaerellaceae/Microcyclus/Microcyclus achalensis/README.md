@@ -1,14 +1,13 @@
-Phyllachora achalensis (Speg.) Cooke, 1885 SPECIES
-=======
+# Microcyclus achalensis (Speg.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 370 (1962)
 
 #### Original name
 Dothidella achalensis Speg., 1881

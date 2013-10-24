@@ -1,5 +1,4 @@
-Echinoplaca hymenocarpoides (Vain.) Lücking SPECIES
-=======
+# Echinoplaca hymenocarpoides (Vain.) Lücking SPECIES
 
 #### Status
 ACCEPTED

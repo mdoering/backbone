@@ -1,5 +1,4 @@
-Parastrongylidium oswaldi Aescht & Foissner, 1992 SPECIES
-=======
+# Parastrongylidium oswaldi Aescht & Foissner, 1992 SPECIES
 
 #### Status
 ACCEPTED

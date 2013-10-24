@@ -1,5 +1,4 @@
-Pseudocercospora strychni (Syd.) U. Braun, Bagyan. & Jagad. SPECIES
-=======
+# Pseudocercospora strychni (Syd.) U. Braun, Bagyan. & Jagad. SPECIES
 
 #### Status
 ACCEPTED

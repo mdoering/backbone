@@ -1,5 +1,4 @@
-Geotrichum sulfureum Dominik & Majchr. SPECIES
-=======
+# Geotrichum sulfureum Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

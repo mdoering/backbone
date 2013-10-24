@@ -1,5 +1,4 @@
-Solisphaeridium flexipilosum Slavíková, 1968 emend. Moczydlowska, 1998 SPECIES
-=======
+# Solisphaeridium flexipilosum Slavíková, 1968 emend. Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

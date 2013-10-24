@@ -1,5 +1,4 @@
-Beltraminia stipitata (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Beltraminia stipitata (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

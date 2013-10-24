@@ -1,5 +1,4 @@
-Ialomitzia cavernicola Gruia, 1964 SPECIES
-=======
+# Ialomitzia cavernicola Gruia, 1964 SPECIES
 
 #### Status
 ACCEPTED

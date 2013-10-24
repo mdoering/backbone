@@ -1,5 +1,4 @@
-Isaria terrestris Fr. SPECIES
-=======
+# Isaria terrestris Fr. SPECIES
 
 #### Status
 ACCEPTED

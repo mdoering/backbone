@@ -1,5 +1,4 @@
-Meliola polyalthiae Hansf. SPECIES
-=======
+# Meliola polyalthiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

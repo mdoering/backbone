@@ -1,5 +1,4 @@
-Cercospora codiaei Gonz. Frag. & Cif. SPECIES
-=======
+# Cercospora codiaei Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

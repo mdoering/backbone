@@ -1,5 +1,4 @@
-Tetradia T. Johnson, 1904 GENUS
-=======
+# Tetradia T. Johnson, 1904 GENUS
 
 #### Status
 ACCEPTED

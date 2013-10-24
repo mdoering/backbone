@@ -1,17 +1,16 @@
-Stylonites fulviceps Fr., 1848 SPECIES
-=======
+# Physarum flavicomum Berk., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hooker's J. Bot. 4: 66 (1845)
 
 #### Original name
-null
+Physarum flavicomum Berk., 1845
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Serpula lacrymans var. lacrymans VARIETY
-=======
+# Serpula lacrymans (Wulfen) J. Schröt., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Meddn Soc. Fauna Flora fenn. 11: 21 (1885)
 
 #### Original name
-Serpula lacrymans var. lacrymans
+Boletus lacrymans Wulfen, 1781
 
 ### Remarks
 null

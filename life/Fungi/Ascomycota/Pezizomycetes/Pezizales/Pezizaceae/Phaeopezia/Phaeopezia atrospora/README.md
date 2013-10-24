@@ -1,5 +1,4 @@
-Phaeopezia atrospora (Fuckel) Sacc. SPECIES
-=======
+# Phaeopezia atrospora (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

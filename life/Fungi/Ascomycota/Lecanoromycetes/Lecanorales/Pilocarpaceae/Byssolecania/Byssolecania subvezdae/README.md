@@ -1,5 +1,4 @@
-Byssolecania subvezdae Lücking SPECIES
-=======
+# Byssolecania subvezdae Lücking SPECIES
 
 #### Status
 ACCEPTED

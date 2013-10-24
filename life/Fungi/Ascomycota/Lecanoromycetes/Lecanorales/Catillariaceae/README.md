@@ -1,5 +1,4 @@
-Catillariaceae Hafellner FAMILY
-=======
+# Catillariaceae Hafellner FAMILY
 
 #### Status
 ACCEPTED

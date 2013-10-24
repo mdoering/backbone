@@ -1,5 +1,4 @@
-Umbilicaria indica var. indica VARIETY
-=======
+# Umbilicaria indica Frey SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria indica var. indica
+Umbilicaria indica Frey
 
 ### Remarks
 null

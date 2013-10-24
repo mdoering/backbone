@@ -1,14 +1,13 @@
-Pezizella samarae Velen., 1934 SPECIES
-=======
+# Parorbiliopsis samarae (Velen.) Svrcek, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 170, tab. XII, fig. 30 (1934)
+Ceská Mykol. 45(4): 138 (1992)
 
 #### Original name
 Pezizella samarae Velen., 1934

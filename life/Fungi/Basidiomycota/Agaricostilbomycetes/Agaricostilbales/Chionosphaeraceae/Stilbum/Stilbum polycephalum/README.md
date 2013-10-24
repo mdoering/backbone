@@ -1,5 +1,4 @@
-Stilbum polycephalum Pat. SPECIES
-=======
+# Stilbum polycephalum Pat. SPECIES
 
 #### Status
 ACCEPTED

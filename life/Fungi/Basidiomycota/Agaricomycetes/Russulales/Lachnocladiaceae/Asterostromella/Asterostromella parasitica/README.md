@@ -1,5 +1,4 @@
-Asterostromella parasitica Rick SPECIES
-=======
+# Asterostromella parasitica Rick SPECIES
 
 #### Status
 ACCEPTED

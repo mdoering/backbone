@@ -1,5 +1,4 @@
-Cercospora hardwarensis Naras. SPECIES
-=======
+# Cercospora hardwarensis Naras. SPECIES
 
 #### Status
 ACCEPTED

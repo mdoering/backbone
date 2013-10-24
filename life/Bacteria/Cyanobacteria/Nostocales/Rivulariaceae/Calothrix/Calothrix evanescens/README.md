@@ -1,5 +1,4 @@
-Calothrix evanescens Gardner SPECIES
-=======
+# Calothrix evanescens Gardner SPECIES
 
 #### Status
 ACCEPTED

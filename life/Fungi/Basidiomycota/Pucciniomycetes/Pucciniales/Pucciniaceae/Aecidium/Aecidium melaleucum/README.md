@@ -1,5 +1,4 @@
-Aecidium melaleucum Syd. & P. Syd. SPECIES
-=======
+# Aecidium melaleucum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

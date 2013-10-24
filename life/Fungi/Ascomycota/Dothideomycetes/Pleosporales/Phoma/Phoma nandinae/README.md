@@ -1,5 +1,4 @@
-Phoma nandinae Tassi SPECIES
-=======
+# Phoma nandinae Tassi SPECIES
 
 #### Status
 ACCEPTED

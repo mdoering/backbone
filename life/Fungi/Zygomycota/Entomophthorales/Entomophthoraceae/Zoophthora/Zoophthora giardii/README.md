@@ -1,5 +1,4 @@
-Zoophthora giardii Balazy, 1993 SPECIES
-=======
+# Zoophthora giardii Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

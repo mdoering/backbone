@@ -1,5 +1,4 @@
-Boletus pseudocalopus Hongo SPECIES
-=======
+# Boletus pseudocalopus Hongo SPECIES
 
 #### Status
 ACCEPTED

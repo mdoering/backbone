@@ -1,5 +1,4 @@
-Usnea effusa G. N. Stevens SPECIES
-=======
+# Usnea effusa G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

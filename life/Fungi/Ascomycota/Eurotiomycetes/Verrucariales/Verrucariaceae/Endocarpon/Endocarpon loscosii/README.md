@@ -1,5 +1,4 @@
-Endocarpon loscosii Müll. Arg. SPECIES
-=======
+# Endocarpon loscosii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

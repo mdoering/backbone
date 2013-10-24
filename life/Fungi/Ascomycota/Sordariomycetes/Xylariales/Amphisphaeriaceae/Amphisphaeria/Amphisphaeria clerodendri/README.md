@@ -1,5 +1,4 @@
-Amphisphaeria clerodendri Rehm SPECIES
-=======
+# Amphisphaeria clerodendri Rehm SPECIES
 
 #### Status
 ACCEPTED

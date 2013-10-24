@@ -1,5 +1,4 @@
-Xerocomus scrobiculatus Singer SPECIES
-=======
+# Xerocomus scrobiculatus Singer SPECIES
 
 #### Status
 ACCEPTED

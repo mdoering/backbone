@@ -1,5 +1,4 @@
-Mediocris Rozovskaya, 1961 GENUS
-=======
+# Mediocris Rozovskaya, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia iriensis Morim. SPECIES
-=======
+# Puccinia iriensis Morim. SPECIES
 
 #### Status
 ACCEPTED

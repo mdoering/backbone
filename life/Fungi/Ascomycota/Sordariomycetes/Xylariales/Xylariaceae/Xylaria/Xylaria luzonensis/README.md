@@ -1,5 +1,4 @@
-Xylaria luzonensis Henn. SPECIES
-=======
+# Xylaria luzonensis Henn. SPECIES
 
 #### Status
 ACCEPTED

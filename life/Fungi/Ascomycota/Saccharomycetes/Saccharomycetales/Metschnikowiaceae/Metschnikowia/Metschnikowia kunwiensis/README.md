@@ -1,5 +1,4 @@
-Metschnikowia kunwiensis Brysch-Herzb., 2004 SPECIES
-=======
+# Metschnikowia kunwiensis Brysch-Herzb., 2004 SPECIES
 
 #### Status
 ACCEPTED

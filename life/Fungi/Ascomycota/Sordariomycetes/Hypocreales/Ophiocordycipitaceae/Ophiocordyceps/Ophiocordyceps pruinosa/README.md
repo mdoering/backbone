@@ -1,5 +1,4 @@
-Ophiocordyceps pruinosa (Petch) D. Johnson, G.H. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps pruinosa (Petch) D. Johnson, G.H. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

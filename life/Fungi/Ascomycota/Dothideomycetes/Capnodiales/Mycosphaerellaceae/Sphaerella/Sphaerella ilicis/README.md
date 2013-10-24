@@ -1,5 +1,4 @@
-Sphaerella ilicis Ellis SPECIES
-=======
+# Sphaerella ilicis Ellis SPECIES
 
 #### Status
 ACCEPTED

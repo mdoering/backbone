@@ -1,5 +1,4 @@
-Coniothyrium australe var. australe VARIETY
-=======
+# Coniothyrium australe ß tiliae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium australe var. australe
+Coniothyrium australe ß tiliae Sacc.
 
 ### Remarks
 null

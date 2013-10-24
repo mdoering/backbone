@@ -1,5 +1,4 @@
-Auricularia mollis Lloyd SPECIES
-=======
+# Auricularia mollis Lloyd SPECIES
 
 #### Status
 ACCEPTED

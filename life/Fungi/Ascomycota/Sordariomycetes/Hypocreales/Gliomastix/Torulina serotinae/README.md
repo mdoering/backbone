@@ -1,5 +1,4 @@
-Torulina serotinae (Oudem.) Sacc. & D. Sacc. SPECIES
-=======
+# Torulina serotinae (Oudem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus drentensis Heyrman et al., 2004 SPECIES
-=======
+# Bacillus drentensis Heyrman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrocybe sacchari (Murrill) Dennis SPECIES
-=======
+# Agrocybe sacchari (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

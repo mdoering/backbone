@@ -1,5 +1,4 @@
-Larssoniella J. Weiser & David GENUS
-=======
+# Larssoniella J. Weiser & David GENUS
 
 #### Status
 ACCEPTED

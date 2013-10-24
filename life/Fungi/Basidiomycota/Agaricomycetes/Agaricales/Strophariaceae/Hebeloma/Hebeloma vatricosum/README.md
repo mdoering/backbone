@@ -1,5 +1,4 @@
-Hebeloma vatricosum (Fr.) Murrill SPECIES
-=======
+# Hebeloma vatricosum (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

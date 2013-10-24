@@ -1,5 +1,4 @@
-Ecklonia brevipes J. Agardh SPECIES
-=======
+# Ecklonia brevipes J. Agardh SPECIES
 
 #### Status
 ACCEPTED

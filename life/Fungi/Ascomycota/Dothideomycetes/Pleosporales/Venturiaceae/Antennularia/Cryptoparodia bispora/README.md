@@ -1,5 +1,4 @@
-Cryptoparodia bispora Petr. SPECIES
-=======
+# Cryptoparodia bispora Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium myriosporum Sacc. SPECIES
-=======
+# Melanconium myriosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

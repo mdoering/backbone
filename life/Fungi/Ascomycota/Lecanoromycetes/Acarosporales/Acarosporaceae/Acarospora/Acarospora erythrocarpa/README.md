@@ -1,5 +1,4 @@
-Acarospora erythrocarpa (Malbr.) Hue SPECIES
-=======
+# Acarospora erythrocarpa (Malbr.) Hue SPECIES
 
 #### Status
 ACCEPTED

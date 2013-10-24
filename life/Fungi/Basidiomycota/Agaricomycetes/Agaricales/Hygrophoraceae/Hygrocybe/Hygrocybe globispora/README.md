@@ -1,5 +1,4 @@
-Hygrocybe globispora Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe globispora Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

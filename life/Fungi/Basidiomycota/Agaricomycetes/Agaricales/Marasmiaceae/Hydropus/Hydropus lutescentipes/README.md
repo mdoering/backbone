@@ -1,5 +1,4 @@
-Hydropus lutescentipes Singer SPECIES
-=======
+# Hydropus lutescentipes Singer SPECIES
 
 #### Status
 ACCEPTED

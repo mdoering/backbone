@@ -1,5 +1,4 @@
-Rhizopogon cinerascens A.H. Sm. SPECIES
-=======
+# Rhizopogon cinerascens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

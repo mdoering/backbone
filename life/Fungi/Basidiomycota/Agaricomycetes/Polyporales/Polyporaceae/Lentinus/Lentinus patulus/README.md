@@ -1,5 +1,4 @@
-Lentinus patulus Lév. SPECIES
-=======
+# Lentinus patulus Lév. SPECIES
 
 #### Status
 ACCEPTED

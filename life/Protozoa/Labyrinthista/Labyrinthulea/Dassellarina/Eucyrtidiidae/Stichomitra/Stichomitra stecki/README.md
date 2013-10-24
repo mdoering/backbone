@@ -1,5 +1,4 @@
-Stichomitra stecki SPECIES
-=======
+# Stichomitra stecki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema scabiomarginatum Hale SPECIES
-=======
+# Thelotrema scabiomarginatum Hale SPECIES
 
 #### Status
 ACCEPTED

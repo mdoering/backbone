@@ -1,5 +1,4 @@
-Octosporea bayeri Jírovec SPECIES
-=======
+# Octosporea bayeri Jírovec SPECIES
 
 #### Status
 ACCEPTED

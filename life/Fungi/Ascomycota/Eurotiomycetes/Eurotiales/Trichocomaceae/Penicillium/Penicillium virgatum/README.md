@@ -1,5 +1,4 @@
-Penicillium virgatum Nirenberg & Kwasna, 2005 SPECIES
-=======
+# Penicillium virgatum Nirenberg & Kwasna, 2005 SPECIES
 
 #### Status
 ACCEPTED

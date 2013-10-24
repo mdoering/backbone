@@ -1,5 +1,4 @@
-Trametes heterospora Mont. SPECIES
-=======
+# Trametes heterospora Mont. SPECIES
 
 #### Status
 ACCEPTED

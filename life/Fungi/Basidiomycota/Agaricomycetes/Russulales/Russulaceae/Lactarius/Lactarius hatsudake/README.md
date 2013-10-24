@@ -1,5 +1,4 @@
-Lactarius hatsudake Nobuj. Tanaka SPECIES
-=======
+# Lactarius hatsudake Nobuj. Tanaka SPECIES
 
 #### Status
 ACCEPTED

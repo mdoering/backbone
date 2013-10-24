@@ -1,5 +1,4 @@
-Gorgonisphaeridium imitatum (Deflandre, 1945) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Gorgonisphaeridium imitatum (Deflandre, 1945) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

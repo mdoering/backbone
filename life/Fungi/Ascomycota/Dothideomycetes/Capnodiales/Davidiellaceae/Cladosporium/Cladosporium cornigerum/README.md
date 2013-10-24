@@ -1,5 +1,4 @@
-Cladosporium cornigerum Bubák SPECIES
-=======
+# Cladosporium cornigerum Bubák SPECIES
 
 #### Status
 ACCEPTED

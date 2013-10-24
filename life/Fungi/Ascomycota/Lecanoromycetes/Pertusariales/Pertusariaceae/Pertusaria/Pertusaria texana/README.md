@@ -1,5 +1,4 @@
-Pertusaria texana Müll. Arg. SPECIES
-=======
+# Pertusaria texana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

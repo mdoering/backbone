@@ -1,5 +1,4 @@
-Russula deremensis Henn. SPECIES
-=======
+# Russula deremensis Henn. SPECIES
 
 #### Status
 ACCEPTED

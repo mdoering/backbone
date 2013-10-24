@@ -1,5 +1,4 @@
-Spirillospora rubra (ex Schäfer, 1973) Vobis & Kothe, 1989 SPECIES
-=======
+# Spirillospora rubra (ex Schäfer, 1973) Vobis & Kothe, 1989 SPECIES
 
 #### Status
 ACCEPTED

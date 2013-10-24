@@ -1,5 +1,4 @@
-Parmelia richardsonii (Hook.) Nyl. SPECIES
-=======
+# Parmelia richardsonii (Hook.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

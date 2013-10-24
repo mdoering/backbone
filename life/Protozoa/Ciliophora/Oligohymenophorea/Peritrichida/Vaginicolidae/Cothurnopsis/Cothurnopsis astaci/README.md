@@ -1,8 +1,7 @@
-Cothurnia astaci Stein, 1854 SPECIES
-=======
+# Cothurnopsis astaci (Stein, 1854) Entz, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

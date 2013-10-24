@@ -1,5 +1,4 @@
-Lecidea valerii (Anzi) Jatta SPECIES
-=======
+# Lecidea valerii (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

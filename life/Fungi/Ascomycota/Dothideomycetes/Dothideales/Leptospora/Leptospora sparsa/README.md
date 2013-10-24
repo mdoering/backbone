@@ -1,5 +1,4 @@
-Leptospora sparsa Sacc. & Fairm. SPECIES
-=======
+# Leptospora sparsa Sacc. & Fairm. SPECIES
 
 #### Status
 ACCEPTED

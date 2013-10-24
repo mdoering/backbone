@@ -1,5 +1,4 @@
-Prolixoplecta Loeblich & Tappan, 1985 GENUS
-=======
+# Prolixoplecta Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

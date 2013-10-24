@@ -1,5 +1,4 @@
-Phyllosticta haleniae Murashk. SPECIES
-=======
+# Phyllosticta haleniae Murashk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmophiale epidendri (Rehm) Zahlbr. SPECIES
-=======
+# Phlegmophiale epidendri (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

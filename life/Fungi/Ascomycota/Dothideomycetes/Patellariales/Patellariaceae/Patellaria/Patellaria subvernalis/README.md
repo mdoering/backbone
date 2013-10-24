@@ -1,5 +1,4 @@
-Patellaria subvernalis (Tuck.) Müll. Arg. SPECIES
-=======
+# Patellaria subvernalis (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

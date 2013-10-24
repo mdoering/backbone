@@ -1,5 +1,4 @@
-Abaphospora recessa (Cooke & Peck) Kirschst. SPECIES
-=======
+# Abaphospora recessa (Cooke & Peck) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

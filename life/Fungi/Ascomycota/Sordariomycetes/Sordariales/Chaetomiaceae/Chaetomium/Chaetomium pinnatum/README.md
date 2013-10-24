@@ -1,5 +1,4 @@
-Chaetomium pinnatum L.M. Ames SPECIES
-=======
+# Chaetomium pinnatum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

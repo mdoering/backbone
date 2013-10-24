@@ -1,5 +1,4 @@
-Eutreptia pertyi Pringsheim SPECIES
-=======
+# Eutreptia pertyi Pringsheim SPECIES
 
 #### Status
 ACCEPTED

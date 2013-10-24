@@ -1,5 +1,4 @@
-Trametes lignicola Lasch SPECIES
-=======
+# Trametes lignicola Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiobacter subterraneus Hirayama et al., 2005 SPECIES
-=======
+# Thiobacter subterraneus Hirayama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

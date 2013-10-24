@@ -1,8 +1,7 @@
-Thurammina sphaerica (Höglund, 1947) SPECIES
-=======
+# Crithionina sphaerica (Höglund, 1947) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Micropeltidium hansfordiicola Bat. SPECIES
-=======
+# Micropeltidium hansfordiicola Bat. SPECIES
 
 #### Status
 ACCEPTED

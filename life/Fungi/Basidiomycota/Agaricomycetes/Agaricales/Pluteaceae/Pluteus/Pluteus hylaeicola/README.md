@@ -1,5 +1,4 @@
-Pluteus hylaeicola Singer SPECIES
-=======
+# Pluteus hylaeicola Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia mesospora C. Knight SPECIES
-=======
+# Bacidia mesospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

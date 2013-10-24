@@ -1,5 +1,4 @@
-Aremoricanium tenuiprocessum Burmann, 1970 SPECIES
-=======
+# Aremoricanium tenuiprocessum Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

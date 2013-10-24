@@ -1,5 +1,4 @@
-Sorokina blasteniospora Rehm SPECIES
-=======
+# Sorokina blasteniospora Rehm SPECIES
 
 #### Status
 ACCEPTED

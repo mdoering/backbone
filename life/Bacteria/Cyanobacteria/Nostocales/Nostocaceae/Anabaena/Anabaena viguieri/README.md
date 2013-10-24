@@ -1,5 +1,4 @@
-Anabaena viguieri var. danica Nygaard VARIETY
-=======
+# Anabaena viguieri Denis & Frémy SPECIES
 
 #### Status
 ACCEPTED

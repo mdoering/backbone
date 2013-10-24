@@ -1,5 +1,4 @@
-Hydnum multiplex Fr. SPECIES
-=======
+# Hydnum multiplex Fr. SPECIES
 
 #### Status
 ACCEPTED

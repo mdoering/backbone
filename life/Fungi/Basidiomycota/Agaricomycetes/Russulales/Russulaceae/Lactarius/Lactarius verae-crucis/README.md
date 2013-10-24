@@ -1,17 +1,16 @@
-Lactarius veraecrucis Singer SPECIES
-=======
+# Lactarius verae-crucis Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 7: 104 (1973)
 
 #### Original name
-Lactarius veraecrucis Singer
+Lactarius verae-crucis Singer
 
 ### Remarks
 null

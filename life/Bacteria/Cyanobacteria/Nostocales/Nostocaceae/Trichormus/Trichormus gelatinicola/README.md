@@ -1,5 +1,4 @@
-Trichormus gelatinicola (S. L. Ghose) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus gelatinicola (S. L. Ghose) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

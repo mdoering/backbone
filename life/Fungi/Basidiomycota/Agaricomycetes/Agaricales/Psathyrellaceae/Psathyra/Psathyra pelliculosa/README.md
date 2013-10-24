@@ -1,5 +1,4 @@
-Psathyra pelliculosa A.H. Sm. SPECIES
-=======
+# Psathyra pelliculosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

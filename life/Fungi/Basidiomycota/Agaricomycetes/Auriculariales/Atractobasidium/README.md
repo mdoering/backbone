@@ -1,5 +1,4 @@
-Atractobasidium GENUS
-=======
+# Atractobasidium GENUS
 
 #### Status
 ACCEPTED

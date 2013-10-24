@@ -1,8 +1,7 @@
-Pseudomonas lanceolata Leifson, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Curvibacter lanceolatus (Leifson, 1962) Ding & Yokota, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

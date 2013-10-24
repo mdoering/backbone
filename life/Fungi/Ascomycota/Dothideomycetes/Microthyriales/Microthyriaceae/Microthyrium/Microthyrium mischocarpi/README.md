@@ -1,5 +1,4 @@
-Microthyrium mischocarpi Syd. SPECIES
-=======
+# Microthyrium mischocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

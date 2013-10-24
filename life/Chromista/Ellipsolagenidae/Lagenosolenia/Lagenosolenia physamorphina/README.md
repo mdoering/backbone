@@ -1,5 +1,4 @@
-Lagenosolenia physamorphina Loeblich & Tappan, 1994 SPECIES
-=======
+# Lagenosolenia physamorphina Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

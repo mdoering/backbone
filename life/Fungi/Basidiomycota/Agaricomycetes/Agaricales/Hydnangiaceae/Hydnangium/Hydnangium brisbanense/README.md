@@ -1,5 +1,4 @@
-Hydnangium brisbanense Berk. SPECIES
-=======
+# Hydnangium brisbanense Berk. SPECIES
 
 #### Status
 ACCEPTED

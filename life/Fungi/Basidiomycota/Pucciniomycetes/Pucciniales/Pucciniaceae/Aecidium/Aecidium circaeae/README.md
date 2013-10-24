@@ -1,5 +1,4 @@
-Aecidium circaeae Ces. SPECIES
-=======
+# Aecidium circaeae Ces. SPECIES
 
 #### Status
 ACCEPTED

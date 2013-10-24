@@ -1,5 +1,4 @@
-Sphaerella wakkeri Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella wakkeri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

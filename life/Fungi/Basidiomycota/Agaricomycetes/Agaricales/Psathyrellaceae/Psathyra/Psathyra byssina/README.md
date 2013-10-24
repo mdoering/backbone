@@ -1,5 +1,4 @@
-Psathyra byssina Murrill SPECIES
-=======
+# Psathyra byssina Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria hiascens Sacc. SPECIES
-=======
+# Septoria hiascens Sacc. SPECIES
 
 #### Status
 ACCEPTED

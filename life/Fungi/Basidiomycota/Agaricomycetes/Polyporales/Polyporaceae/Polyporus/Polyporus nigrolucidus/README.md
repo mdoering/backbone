@@ -1,5 +1,4 @@
-Polyporus nigrolucidus Lloyd SPECIES
-=======
+# Polyporus nigrolucidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

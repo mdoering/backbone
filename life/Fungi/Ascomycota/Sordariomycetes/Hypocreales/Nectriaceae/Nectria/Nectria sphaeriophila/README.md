@@ -1,5 +1,4 @@
-Nectria sphaeriophila Theiss. SPECIES
-=======
+# Nectria sphaeriophila Theiss. SPECIES
 
 #### Status
 ACCEPTED

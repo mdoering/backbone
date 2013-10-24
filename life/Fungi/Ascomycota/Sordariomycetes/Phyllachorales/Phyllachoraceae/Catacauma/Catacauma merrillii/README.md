@@ -1,5 +1,4 @@
-Catacauma merrillii Syd. SPECIES
-=======
+# Catacauma merrillii Syd. SPECIES
 
 #### Status
 ACCEPTED

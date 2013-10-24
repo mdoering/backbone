@@ -1,5 +1,4 @@
-Panaeolus squamulosus Velen. SPECIES
-=======
+# Panaeolus squamulosus Velen. SPECIES
 
 #### Status
 ACCEPTED

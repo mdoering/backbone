@@ -1,5 +1,4 @@
-Melanopsichium missouriense M.D. Whitehead & Thirum. SPECIES
-=======
+# Melanopsichium missouriense M.D. Whitehead & Thirum. SPECIES
 
 #### Status
 ACCEPTED

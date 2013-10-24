@@ -1,5 +1,4 @@
-Macrophoma dianthi Gabotto SPECIES
-=======
+# Macrophoma dianthi Gabotto SPECIES
 
 #### Status
 ACCEPTED

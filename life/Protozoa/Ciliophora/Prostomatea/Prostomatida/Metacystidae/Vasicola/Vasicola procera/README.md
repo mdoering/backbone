@@ -1,5 +1,4 @@
-Vasicola procera Tucolesco, 1962 SPECIES
-=======
+# Vasicola procera Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

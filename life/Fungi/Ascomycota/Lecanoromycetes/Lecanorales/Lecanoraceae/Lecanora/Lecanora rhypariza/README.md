@@ -1,5 +1,4 @@
-Lecanora rhypariza SPECIES
-=======
+# Lecanora rhypariza SPECIES
 
 #### Status
 ACCEPTED

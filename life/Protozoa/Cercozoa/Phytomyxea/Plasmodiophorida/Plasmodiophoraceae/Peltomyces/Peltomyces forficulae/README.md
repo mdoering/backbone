@@ -1,5 +1,4 @@
-Peltomyces forficulae L. Léger SPECIES
-=======
+# Peltomyces forficulae L. Léger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconiella andina (Petr.) Arx SPECIES
-=======
+# Periconiella andina (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

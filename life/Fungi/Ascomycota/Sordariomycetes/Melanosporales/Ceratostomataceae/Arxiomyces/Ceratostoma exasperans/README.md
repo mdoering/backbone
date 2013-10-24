@@ -1,5 +1,4 @@
-Ceratostoma exasperans (P. Karst.) Petr. & Syd. SPECIES
-=======
+# Ceratostoma exasperans (P. Karst.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

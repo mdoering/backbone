@@ -1,5 +1,4 @@
-Leptosphaeria mysorensis A. Pande, 2008 SPECIES
-=======
+# Leptosphaeria mysorensis A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

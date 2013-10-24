@@ -1,5 +1,4 @@
-Lagynus vestitus Kahl, 1927 SPECIES
-=======
+# Lagynus vestitus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

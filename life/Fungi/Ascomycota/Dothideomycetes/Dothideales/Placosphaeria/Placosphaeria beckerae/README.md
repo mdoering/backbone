@@ -1,5 +1,4 @@
-Placosphaeria beckerae Henn. SPECIES
-=======
+# Placosphaeria beckerae Henn. SPECIES
 
 #### Status
 ACCEPTED

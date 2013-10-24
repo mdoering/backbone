@@ -1,5 +1,4 @@
-Groveolopsis Boedijn GENUS
-=======
+# Groveolopsis Boedijn GENUS
 
 #### Status
 ACCEPTED

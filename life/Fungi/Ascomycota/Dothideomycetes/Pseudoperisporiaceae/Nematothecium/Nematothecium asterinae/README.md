@@ -1,5 +1,4 @@
-Nematothecium asterinae Hansf. SPECIES
-=======
+# Nematothecium asterinae Hansf. SPECIES
 
 #### Status
 ACCEPTED

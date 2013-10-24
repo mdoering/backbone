@@ -1,5 +1,4 @@
-Pezizella dilutelloides Rehm SPECIES
-=======
+# Pezizella dilutelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

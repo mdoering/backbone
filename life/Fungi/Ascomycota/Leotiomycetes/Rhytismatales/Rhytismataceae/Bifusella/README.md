@@ -1,5 +1,4 @@
-Bifusella Höhn. GENUS
-=======
+# Bifusella Höhn. GENUS
 
 #### Status
 ACCEPTED

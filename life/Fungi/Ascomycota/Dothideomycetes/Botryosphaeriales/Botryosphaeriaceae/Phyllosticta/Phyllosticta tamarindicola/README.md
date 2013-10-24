@@ -1,5 +1,4 @@
-Phyllosticta tamarindicola V.G. Rao SPECIES
-=======
+# Phyllosticta tamarindicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

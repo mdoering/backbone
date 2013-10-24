@@ -1,5 +1,4 @@
-Saccharomyces joergensenii Lasch SPECIES
-=======
+# Saccharomyces joergensenii Lasch SPECIES
 
 #### Status
 ACCEPTED

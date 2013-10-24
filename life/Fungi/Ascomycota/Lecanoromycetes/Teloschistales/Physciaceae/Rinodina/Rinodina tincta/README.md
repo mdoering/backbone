@@ -1,5 +1,4 @@
-Rinodina tincta SPECIES
-=======
+# Rinodina tincta SPECIES
 
 #### Status
 ACCEPTED

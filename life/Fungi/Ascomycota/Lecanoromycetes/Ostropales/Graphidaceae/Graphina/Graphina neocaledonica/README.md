@@ -1,5 +1,4 @@
-Graphina neocaledonica B. de Lesd. SPECIES
-=======
+# Graphina neocaledonica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

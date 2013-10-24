@@ -1,8 +1,7 @@
-Pseudopyrgo globulus Hofker, 1976 SPECIES
-=======
+# Nummulopyrgo globulus (Hofker, 1976) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

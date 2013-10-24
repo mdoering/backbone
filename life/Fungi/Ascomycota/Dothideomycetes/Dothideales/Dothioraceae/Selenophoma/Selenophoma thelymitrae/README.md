@@ -1,5 +1,4 @@
-Selenophoma thelymitrae (McAlpine) Priest SPECIES
-=======
+# Selenophoma thelymitrae (McAlpine) Priest SPECIES
 
 #### Status
 ACCEPTED

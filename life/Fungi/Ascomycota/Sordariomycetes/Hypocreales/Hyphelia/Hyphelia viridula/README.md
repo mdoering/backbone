@@ -1,5 +1,4 @@
-Hyphelia viridula Wallr. SPECIES
-=======
+# Hyphelia viridula Wallr. SPECIES
 
 #### Status
 ACCEPTED

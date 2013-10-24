@@ -1,5 +1,4 @@
-Coniosporium xylographoides (Corda) Sacc. SPECIES
-=======
+# Coniosporium xylographoides (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

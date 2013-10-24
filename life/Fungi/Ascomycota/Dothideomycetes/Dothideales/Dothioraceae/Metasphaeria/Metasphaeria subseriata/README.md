@@ -1,5 +1,4 @@
-Metasphaeria subseriata Ellis & Everh. SPECIES
-=======
+# Metasphaeria subseriata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

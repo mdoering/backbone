@@ -1,5 +1,4 @@
-Collybia altissima Massee SPECIES
-=======
+# Collybia altissima Massee SPECIES
 
 #### Status
 ACCEPTED

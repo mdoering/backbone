@@ -1,5 +1,4 @@
-Stictina scholanderi C.W. Dodge SPECIES
-=======
+# Stictina scholanderi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

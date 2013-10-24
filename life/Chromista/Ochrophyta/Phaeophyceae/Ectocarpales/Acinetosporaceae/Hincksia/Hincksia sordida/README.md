@@ -1,5 +1,4 @@
-Hincksia sordida (Harvey) P.C. Silva SPECIES
-=======
+# Hincksia sordida (Harvey) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

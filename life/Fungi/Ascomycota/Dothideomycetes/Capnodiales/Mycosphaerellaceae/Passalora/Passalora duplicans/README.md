@@ -1,5 +1,4 @@
-Passalora duplicans (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora duplicans (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

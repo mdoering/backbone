@@ -1,5 +1,4 @@
-Poria rubescens Petch SPECIES
-=======
+# Poria rubescens Petch SPECIES
 
 #### Status
 ACCEPTED

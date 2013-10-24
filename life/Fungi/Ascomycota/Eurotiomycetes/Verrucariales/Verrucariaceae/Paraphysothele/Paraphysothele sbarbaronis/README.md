@@ -1,5 +1,4 @@
-Paraphysothele sbarbaronis Servít SPECIES
-=======
+# Paraphysothele sbarbaronis Servít SPECIES
 
 #### Status
 ACCEPTED

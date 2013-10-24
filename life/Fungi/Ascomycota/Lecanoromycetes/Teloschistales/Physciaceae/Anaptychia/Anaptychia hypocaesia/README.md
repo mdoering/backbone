@@ -1,5 +1,4 @@
-Anaptychia hypocaesia Vain. SPECIES
-=======
+# Anaptychia hypocaesia Vain. SPECIES
 
 #### Status
 ACCEPTED

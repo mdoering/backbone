@@ -1,5 +1,4 @@
-Hypochnus anthochrous SPECIES
-=======
+# Hypochnus anthochrous SPECIES
 
 #### Status
 ACCEPTED

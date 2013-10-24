@@ -1,5 +1,4 @@
-Sphaeridium Fresenius, 1852 GENUS
-=======
+# Sphaeridium Fresenius, 1852 GENUS
 
 #### Status
 ACCEPTED

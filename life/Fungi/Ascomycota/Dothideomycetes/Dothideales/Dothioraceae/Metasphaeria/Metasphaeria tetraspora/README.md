@@ -1,5 +1,4 @@
-Metasphaeria tetraspora Delacr. SPECIES
-=======
+# Metasphaeria tetraspora Delacr. SPECIES
 
 #### Status
 ACCEPTED

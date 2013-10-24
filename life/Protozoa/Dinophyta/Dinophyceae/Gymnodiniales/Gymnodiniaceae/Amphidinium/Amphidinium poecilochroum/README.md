@@ -1,5 +1,4 @@
-Amphidinium poecilochroum Larsen SPECIES
-=======
+# Amphidinium poecilochroum Larsen SPECIES
 
 #### Status
 ACCEPTED

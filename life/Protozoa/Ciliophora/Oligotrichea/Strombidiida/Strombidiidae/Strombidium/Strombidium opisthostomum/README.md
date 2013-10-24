@@ -1,5 +1,4 @@
-Strombidium opisthostomum Tucolesco, 1962 SPECIES
-=======
+# Strombidium opisthostomum Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora neerlandica Benkert & Brouwer SPECIES
-=======
+# Octospora neerlandica Benkert & Brouwer SPECIES
 
 #### Status
 ACCEPTED

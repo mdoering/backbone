@@ -1,5 +1,4 @@
-Coniosporium fumago (Schwein.) Sacc. SPECIES
-=======
+# Coniosporium fumago (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

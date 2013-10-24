@@ -1,5 +1,4 @@
-Phomopsis salmalica A.H. Khan SPECIES
-=======
+# Phomopsis salmalica A.H. Khan SPECIES
 
 #### Status
 ACCEPTED

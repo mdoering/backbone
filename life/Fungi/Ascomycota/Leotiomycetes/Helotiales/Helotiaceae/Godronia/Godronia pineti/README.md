@@ -1,5 +1,4 @@
-Godronia pineti Jørst. SPECIES
-=======
+# Godronia pineti Jørst. SPECIES
 
 #### Status
 ACCEPTED

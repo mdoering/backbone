@@ -1,5 +1,4 @@
-Actinomyces fasciculus Krassiln. SPECIES
-=======
+# Actinomyces fasciculus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

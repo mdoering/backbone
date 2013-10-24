@@ -1,5 +1,4 @@
-Melanoleuca subfuliginea Murrill SPECIES
-=======
+# Melanoleuca subfuliginea Murrill SPECIES
 
 #### Status
 ACCEPTED

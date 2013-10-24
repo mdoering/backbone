@@ -1,5 +1,4 @@
-Prillieuxina melastomacearum (R.W. Ryan) R.W. Ryan SPECIES
-=======
+# Prillieuxina melastomacearum (R.W. Ryan) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

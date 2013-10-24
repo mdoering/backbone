@@ -1,14 +1,13 @@
-Parmelia scotophylla Kurok. SPECIES
-=======
+# Xanthoparmelia scotophylla (Kurok.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hale & Kurokawa, Contr. U. S. natnl. Herb. 36: 185 (1964)
+Mycotaxon 87: 401 (2003)
 
 #### Original name
 Parmelia scotophylla Kurok.

@@ -1,5 +1,4 @@
-Polyblastiopsis GENUS
-=======
+# Polyblastiopsis GENUS
 
 #### Status
 ACCEPTED

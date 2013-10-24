@@ -1,5 +1,4 @@
-Ripartites flabellatus Natarajan & Raman SPECIES
-=======
+# Ripartites flabellatus Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

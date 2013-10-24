@@ -1,5 +1,4 @@
-Anaptychia granulifera var. granulifera VARIETY
-=======
+# Anaptychia granulifera (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anaptychia granulifera var. granulifera
+null
 
 ### Remarks
 null

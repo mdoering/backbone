@@ -1,5 +1,4 @@
-Collema nematosporum (A.L. Sm.) Zahlbr. SPECIES
-=======
+# Collema nematosporum (A.L. Sm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

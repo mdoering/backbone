@@ -1,5 +1,4 @@
-Stroemia B.V. Skvortzov & M. Noda, 1969 GENUS
-=======
+# Stroemia B.V. Skvortzov & M. Noda, 1969 GENUS
 
 #### Status
 ACCEPTED

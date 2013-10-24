@@ -1,5 +1,4 @@
-Kitasatospora viridis Liu et al., 2005 SPECIES
-=======
+# Kitasatospora viridis Liu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

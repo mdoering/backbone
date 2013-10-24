@@ -1,5 +1,4 @@
-Monoporisporites rigens Kalgutkar SPECIES
-=======
+# Monoporisporites rigens Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

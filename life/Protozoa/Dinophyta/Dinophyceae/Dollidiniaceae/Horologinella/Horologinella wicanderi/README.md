@@ -1,5 +1,4 @@
-Horologinella wicanderi Martin, 1984 SPECIES
-=======
+# Horologinella wicanderi Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

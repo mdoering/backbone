@@ -1,5 +1,4 @@
-Numulariola punctulata (Berk. & Ravenel) P.M.D. Martin SPECIES
-=======
+# Numulariola punctulata (Berk. & Ravenel) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

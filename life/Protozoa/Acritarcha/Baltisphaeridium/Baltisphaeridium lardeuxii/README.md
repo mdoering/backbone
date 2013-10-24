@@ -1,5 +1,4 @@
-Baltisphaeridium lardeuxii Elaouad-Debbaj, 1978 SPECIES
-=======
+# Baltisphaeridium lardeuxii Elaouad-Debbaj, 1978 SPECIES
 
 #### Status
 ACCEPTED

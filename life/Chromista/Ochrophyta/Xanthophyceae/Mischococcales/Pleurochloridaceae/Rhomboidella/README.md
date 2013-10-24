@@ -1,5 +1,4 @@
-Rhomboidella Pascher, 1937 GENUS
-=======
+# Rhomboidella Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

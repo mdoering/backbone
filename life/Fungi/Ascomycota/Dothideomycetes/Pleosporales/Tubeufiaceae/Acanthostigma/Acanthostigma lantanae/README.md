@@ -1,5 +1,4 @@
-Acanthostigma lantanae Theiss. SPECIES
-=======
+# Acanthostigma lantanae Theiss. SPECIES
 
 #### Status
 ACCEPTED

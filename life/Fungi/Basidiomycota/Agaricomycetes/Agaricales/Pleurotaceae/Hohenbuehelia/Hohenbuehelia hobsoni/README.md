@@ -1,5 +1,4 @@
-Hohenbuehelia hobsoni (Berk.) Bi SPECIES
-=======
+# Hohenbuehelia hobsoni (Berk.) Bi SPECIES
 
 #### Status
 ACCEPTED

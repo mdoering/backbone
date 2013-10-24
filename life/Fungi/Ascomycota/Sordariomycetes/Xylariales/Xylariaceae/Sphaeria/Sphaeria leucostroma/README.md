@@ -1,5 +1,4 @@
-Sphaeria leucostroma Mont. SPECIES
-=======
+# Sphaeria leucostroma Mont. SPECIES
 
 #### Status
 ACCEPTED

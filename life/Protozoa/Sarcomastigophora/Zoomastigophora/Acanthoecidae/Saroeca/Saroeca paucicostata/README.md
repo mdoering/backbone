@@ -1,5 +1,4 @@
-Saroeca paucicostata Hara & Takahashi SPECIES
-=======
+# Saroeca paucicostata Hara & Takahashi SPECIES
 
 #### Status
 ACCEPTED

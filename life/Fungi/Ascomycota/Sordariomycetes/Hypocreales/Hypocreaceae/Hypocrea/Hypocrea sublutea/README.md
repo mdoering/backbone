@@ -1,5 +1,4 @@
-Hypocrea sublutea Yoshim. Doi SPECIES
-=======
+# Hypocrea sublutea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

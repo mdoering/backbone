@@ -1,5 +1,4 @@
-Tulostoma transvaalii Lloyd SPECIES
-=======
+# Tulostoma transvaalii Lloyd SPECIES
 
 #### Status
 ACCEPTED

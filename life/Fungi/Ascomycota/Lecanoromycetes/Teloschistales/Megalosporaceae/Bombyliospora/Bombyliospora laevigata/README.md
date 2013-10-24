@@ -1,5 +1,4 @@
-Bombyliospora laevigata D.D. Awasthi & M.R. Agarwal SPECIES
-=======
+# Bombyliospora laevigata D.D. Awasthi & M.R. Agarwal SPECIES
 
 #### Status
 ACCEPTED

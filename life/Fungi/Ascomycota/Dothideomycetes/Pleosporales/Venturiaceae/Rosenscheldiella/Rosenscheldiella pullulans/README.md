@@ -1,14 +1,13 @@
-Lizonia pullulans (Berk.) Sacc., 1882 SPECIES
-=======
+# Rosenscheldiella pullulans (Berk.) Hansf., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 575 (1882)
+Proc. Linn. Soc. N. S. W. 82: 219 (1957)
 
 #### Original name
 Sphaeria pullulans Berk., 1855

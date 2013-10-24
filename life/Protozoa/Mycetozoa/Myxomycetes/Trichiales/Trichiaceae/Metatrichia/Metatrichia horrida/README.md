@@ -1,5 +1,4 @@
-Metatrichia horrida Ing, 1964 SPECIES
-=======
+# Metatrichia horrida Ing, 1964 SPECIES
 
 #### Status
 ACCEPTED

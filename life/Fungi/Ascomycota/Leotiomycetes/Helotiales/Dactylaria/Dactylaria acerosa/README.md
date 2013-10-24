@@ -1,5 +1,4 @@
-Dactylaria acerosa Matsush., 1975 SPECIES
-=======
+# Dactylaria acerosa Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

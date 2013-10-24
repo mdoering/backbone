@@ -1,5 +1,4 @@
-Pseudodiplodia rudis (Bubák) Petr. & Syd. SPECIES
-=======
+# Pseudodiplodia rudis (Bubák) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

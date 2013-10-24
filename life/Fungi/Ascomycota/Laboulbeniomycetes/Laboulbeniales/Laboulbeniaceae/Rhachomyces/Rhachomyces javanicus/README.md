@@ -1,5 +1,4 @@
-Rhachomyces javanicus Thaxt. SPECIES
-=======
+# Rhachomyces javanicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

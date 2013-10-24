@@ -1,5 +1,4 @@
-Trichophyton conicum Cazalbou SPECIES
-=======
+# Trichophyton conicum Cazalbou SPECIES
 
 #### Status
 ACCEPTED

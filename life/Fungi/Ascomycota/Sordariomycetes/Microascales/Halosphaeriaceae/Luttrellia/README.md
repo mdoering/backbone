@@ -1,5 +1,4 @@
-Luttrellia Shearer, 1978 GENUS
-=======
+# Luttrellia Shearer, 1978 GENUS
 
 #### Status
 ACCEPTED

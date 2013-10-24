@@ -1,5 +1,4 @@
-Naemaspora incarnata Kunze SPECIES
-=======
+# Naemaspora incarnata Kunze SPECIES
 
 #### Status
 ACCEPTED

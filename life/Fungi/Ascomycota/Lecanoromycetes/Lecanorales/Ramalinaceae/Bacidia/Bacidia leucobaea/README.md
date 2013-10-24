@@ -1,5 +1,4 @@
-Bacidia leucobaea (Nyl.) Blomb. & Forssel SPECIES
-=======
+# Bacidia leucobaea (Nyl.) Blomb. & Forssel SPECIES
 
 #### Status
 ACCEPTED

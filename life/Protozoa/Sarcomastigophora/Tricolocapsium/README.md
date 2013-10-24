@@ -1,5 +1,4 @@
-Tricolocapsium Haeckel, 1887 GENUS
-=======
+# Tricolocapsium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

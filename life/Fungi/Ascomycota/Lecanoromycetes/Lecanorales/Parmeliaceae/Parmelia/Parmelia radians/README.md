@@ -1,5 +1,4 @@
-Parmelia radians Lynge SPECIES
-=======
+# Parmelia radians Lynge SPECIES
 
 #### Status
 ACCEPTED

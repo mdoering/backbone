@@ -1,5 +1,4 @@
-Ellisembia gelatinosa (Matsush.) Subram. SPECIES
-=======
+# Ellisembia gelatinosa (Matsush.) Subram. SPECIES
 
 #### Status
 ACCEPTED

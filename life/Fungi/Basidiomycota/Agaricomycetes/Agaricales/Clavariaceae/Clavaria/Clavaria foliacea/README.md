@@ -1,5 +1,4 @@
-Clavaria foliacea St.-Amans SPECIES
-=======
+# Clavaria foliacea St.-Amans SPECIES
 
 #### Status
 ACCEPTED

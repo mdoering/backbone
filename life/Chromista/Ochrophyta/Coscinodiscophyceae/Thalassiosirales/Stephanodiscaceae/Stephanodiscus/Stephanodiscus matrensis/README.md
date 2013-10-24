@@ -1,5 +1,4 @@
-Stephanodiscus matrensis Pantocsek SPECIES
-=======
+# Stephanodiscus matrensis Pantocsek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoannellomyces McGinnis & Schell, 1985 GENUS
-=======
+# Phaeoannellomyces McGinnis & Schell, 1985 GENUS
 
 #### Status
 ACCEPTED

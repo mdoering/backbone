@@ -1,5 +1,4 @@
-Tuber phlebodermum (Gilkey) Trappe SPECIES
-=======
+# Tuber phlebodermum (Gilkey) Trappe SPECIES
 
 #### Status
 ACCEPTED

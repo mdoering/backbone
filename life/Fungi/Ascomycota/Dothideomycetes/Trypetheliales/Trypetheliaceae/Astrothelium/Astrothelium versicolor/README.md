@@ -1,5 +1,4 @@
-Astrothelium versicolor Müll. Arg. SPECIES
-=======
+# Astrothelium versicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea austropatagonica Zahlbr. SPECIES
-=======
+# Lecidea austropatagonica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

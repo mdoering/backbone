@@ -1,5 +1,4 @@
-Coelomomyces uranotaeniae Couch SPECIES
-=======
+# Coelomomyces uranotaeniae Couch SPECIES
 
 #### Status
 ACCEPTED

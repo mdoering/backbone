@@ -1,5 +1,4 @@
-Helicosporium pallidum Ces. SPECIES
-=======
+# Helicosporium pallidum Ces. SPECIES
 
 #### Status
 ACCEPTED

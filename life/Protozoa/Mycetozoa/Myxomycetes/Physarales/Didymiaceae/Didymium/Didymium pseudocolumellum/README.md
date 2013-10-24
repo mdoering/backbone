@@ -1,5 +1,4 @@
-Didymium pseudocolumellum H.Z. Li, Yu Li & Q. Wang, 1996 SPECIES
-=======
+# Didymium pseudocolumellum H.Z. Li, Yu Li & Q. Wang, 1996 SPECIES
 
 #### Status
 ACCEPTED

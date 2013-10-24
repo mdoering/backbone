@@ -1,5 +1,4 @@
-Cercospora lanneae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora lanneae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

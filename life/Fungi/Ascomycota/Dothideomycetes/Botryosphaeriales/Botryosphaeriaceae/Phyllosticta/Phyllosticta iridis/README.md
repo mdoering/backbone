@@ -1,5 +1,4 @@
-Phyllosticta iridis Ellis & G. Martin SPECIES
-=======
+# Phyllosticta iridis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

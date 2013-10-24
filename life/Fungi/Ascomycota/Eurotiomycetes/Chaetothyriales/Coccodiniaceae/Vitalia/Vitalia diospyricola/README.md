@@ -1,5 +1,4 @@
-Vitalia diospyricola Bat., H. Maia & Cif. SPECIES
-=======
+# Vitalia diospyricola Bat., H. Maia & Cif. SPECIES
 
 #### Status
 ACCEPTED

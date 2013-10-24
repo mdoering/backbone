@@ -1,5 +1,4 @@
-Thermosipho africanus Huber et al., 1989 SPECIES
-=======
+# Thermosipho africanus Huber et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

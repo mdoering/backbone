@@ -1,5 +1,4 @@
-Septoria simulans Berk. & M.A. Curtis SPECIES
-=======
+# Septoria simulans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

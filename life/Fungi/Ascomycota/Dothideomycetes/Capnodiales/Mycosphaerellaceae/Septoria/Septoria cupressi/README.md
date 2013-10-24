@@ -1,5 +1,4 @@
-Septoria cupressi (Gucevic) Andrian. SPECIES
-=======
+# Septoria cupressi (Gucevic) Andrian. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urotricha dragescoi Foissner, 1984 SPECIES
-=======
+# Urotricha dragescoi Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

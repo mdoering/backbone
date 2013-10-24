@@ -1,5 +1,4 @@
-Acanthostigmella pallida Dennis & M.E. Barr, 1977 SPECIES
-=======
+# Acanthostigmella pallida Dennis & M.E. Barr, 1977 SPECIES
 
 #### Status
 ACCEPTED

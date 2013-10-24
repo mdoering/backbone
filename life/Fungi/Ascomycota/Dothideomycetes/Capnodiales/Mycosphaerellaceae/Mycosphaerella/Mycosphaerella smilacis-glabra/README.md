@@ -1,5 +1,4 @@
-Mycosphaerella smilacis-glabra Sawada SPECIES
-=======
+# Mycosphaerella smilacis-glabra Sawada SPECIES
 
 #### Status
 ACCEPTED

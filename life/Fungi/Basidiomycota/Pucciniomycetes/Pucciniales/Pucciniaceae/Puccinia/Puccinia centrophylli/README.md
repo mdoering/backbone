@@ -1,5 +1,4 @@
-Puccinia centrophylli Syd. {?} SPECIES
-=======
+# Puccinia centrophylli Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

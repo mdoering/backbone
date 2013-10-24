@@ -1,5 +1,4 @@
-Quinqueloculina inca d'Orbigny SPECIES
-=======
+# Quinqueloculina inca d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

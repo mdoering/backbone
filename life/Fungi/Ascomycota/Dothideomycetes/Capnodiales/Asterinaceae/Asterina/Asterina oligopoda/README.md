@@ -1,5 +1,4 @@
-Asterina oligopoda Syd. SPECIES
-=======
+# Asterina oligopoda Syd. SPECIES
 
 #### Status
 ACCEPTED

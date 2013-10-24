@@ -1,5 +1,4 @@
-Vermicularia relicina Fr. SPECIES
-=======
+# Vermicularia relicina Fr. SPECIES
 
 #### Status
 ACCEPTED

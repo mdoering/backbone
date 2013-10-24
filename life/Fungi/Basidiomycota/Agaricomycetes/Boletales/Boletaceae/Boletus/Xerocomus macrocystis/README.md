@@ -1,5 +1,4 @@
-Xerocomus macrocystis Heinem. SPECIES
-=======
+# Xerocomus macrocystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma lysimachiae (Schltdl.) Kuntze SPECIES
-=======
+# Dicaeoma lysimachiae (Schltdl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

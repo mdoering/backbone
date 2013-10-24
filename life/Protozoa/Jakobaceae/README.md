@@ -1,5 +1,4 @@
-Jakobaceae FAMILY
-=======
+# Jakobaceae FAMILY
 
 #### Status
 ACCEPTED

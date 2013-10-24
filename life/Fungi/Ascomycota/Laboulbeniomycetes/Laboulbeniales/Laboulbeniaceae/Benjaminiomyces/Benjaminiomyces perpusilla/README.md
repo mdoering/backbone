@@ -1,14 +1,13 @@
-Benjaminella perpusilla (Speg.) I.I. Tav., 1981 SPECIES
-=======
+# Benjaminiomyces perpusilla (Speg.) I.I. Tav., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 12(2): 436 (1981)
+Mycotaxon 75: 206 (2000)
 
 #### Original name
 Rickia perpusilla Speg., 1917

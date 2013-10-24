@@ -1,5 +1,4 @@
-Histopalla languida González, Moreno & Playford, 2005 SPECIES
-=======
+# Histopalla languida González, Moreno & Playford, 2005 SPECIES
 
 #### Status
 ACCEPTED

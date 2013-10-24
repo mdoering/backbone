@@ -1,5 +1,4 @@
-Lycoperdon bombacinum Batsch SPECIES
-=======
+# Lycoperdon bombacinum Batsch SPECIES
 
 #### Status
 ACCEPTED

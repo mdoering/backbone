@@ -1,5 +1,4 @@
-Trichophaea pallidibrunnea W.Y. Zhuang & Korf SPECIES
-=======
+# Trichophaea pallidibrunnea W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

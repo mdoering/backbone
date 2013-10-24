@@ -1,5 +1,4 @@
-Discorbinella papillata (Chapman, W D, Collins & Parr, W J) SPECIES
-=======
+# Discorbinella papillata (Chapman, W D, Collins & Parr, W J) SPECIES
 
 #### Status
 ACCEPTED

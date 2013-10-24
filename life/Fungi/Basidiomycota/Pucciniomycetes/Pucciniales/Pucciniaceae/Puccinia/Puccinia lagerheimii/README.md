@@ -1,5 +1,4 @@
-Puccinia lagerheimii Lindr. SPECIES
-=======
+# Puccinia lagerheimii Lindr. SPECIES
 
 #### Status
 ACCEPTED

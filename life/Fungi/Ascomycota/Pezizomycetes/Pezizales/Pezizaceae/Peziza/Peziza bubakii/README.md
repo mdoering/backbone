@@ -1,14 +1,13 @@
-Peziza bubacii (Velen.) Svrcek SPECIES
-=======
+# Peziza bubakii (Velen.) Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 30(3-4): 136 (1976)
 
 #### Original name
 Plicaria bubakii Velen.

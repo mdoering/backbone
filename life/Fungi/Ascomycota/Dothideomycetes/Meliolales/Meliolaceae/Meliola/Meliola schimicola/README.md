@@ -1,5 +1,4 @@
-Meliola schimicola W. Yamam. SPECIES
-=======
+# Meliola schimicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

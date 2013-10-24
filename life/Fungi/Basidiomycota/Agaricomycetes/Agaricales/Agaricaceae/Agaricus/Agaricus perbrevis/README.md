@@ -1,5 +1,4 @@
-Agaricus perbrevis Weinm. SPECIES
-=======
+# Agaricus perbrevis Weinm. SPECIES
 
 #### Status
 ACCEPTED

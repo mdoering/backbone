@@ -1,5 +1,4 @@
-Phoma leptospora f. leptospora FORM
-=======
+# Phoma leptospora Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Univ. nac. La Plata 6(1): 145 (1910)
 
 #### Original name
-Phoma leptospora f. leptospora
+Phoma leptospora Sacc.
 
 ### Remarks
 null

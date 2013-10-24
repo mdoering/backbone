@@ -1,5 +1,4 @@
-Coscinodiscophyceae CLASS
-=======
+# Coscinodiscophyceae CLASS
 
 #### Status
 ACCEPTED

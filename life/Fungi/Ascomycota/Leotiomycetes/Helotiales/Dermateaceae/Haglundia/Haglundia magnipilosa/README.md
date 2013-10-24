@@ -1,5 +1,4 @@
-Haglundia magnipilosa Svrcek SPECIES
-=======
+# Haglundia magnipilosa Svrcek SPECIES
 
 #### Status
 ACCEPTED

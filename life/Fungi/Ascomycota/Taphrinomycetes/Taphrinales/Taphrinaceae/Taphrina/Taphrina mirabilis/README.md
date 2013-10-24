@@ -1,17 +1,16 @@
-Exoascus mirabilis var. mirabilis G.F. Atk. VARIETY
-=======
+# Taphrina mirabilis (G.F. Atk.) Giesenh., 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Exoascus mirabilis var. mirabilis G.F. Atk.
+Exoascus mirabilis G.F. Atk.
 
 ### Remarks
 null

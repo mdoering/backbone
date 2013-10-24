@@ -1,5 +1,4 @@
-Entoloma subsinuatum Murrill SPECIES
-=======
+# Entoloma subsinuatum Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curreya harknessii Ellis & Everh. SPECIES
-=======
+# Curreya harknessii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

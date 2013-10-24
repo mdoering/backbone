@@ -1,5 +1,4 @@
-Cryptococcus wrightensis Vishniac & Baharaeen SPECIES
-=======
+# Cryptococcus wrightensis Vishniac & Baharaeen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta anthraspis Ach. SPECIES
-=======
+# Sticta anthraspis Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium meloforme Udagawa & Y. Horie, 1973 SPECIES
-=======
+# Penicillium meloforme Udagawa & Y. Horie, 1973 SPECIES
 
 #### Status
 ACCEPTED

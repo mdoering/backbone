@@ -1,5 +1,4 @@
-Cortinarius iringa Soop, 2003 SPECIES
-=======
+# Cortinarius iringa Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

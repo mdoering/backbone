@@ -1,5 +1,4 @@
-Cytospora myricae Henn. SPECIES
-=======
+# Cytospora myricae Henn. SPECIES
 
 #### Status
 ACCEPTED

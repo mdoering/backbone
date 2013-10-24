@@ -1,5 +1,4 @@
-Lenzites pallida Berk. SPECIES
-=======
+# Lenzites pallida Berk. SPECIES
 
 #### Status
 ACCEPTED

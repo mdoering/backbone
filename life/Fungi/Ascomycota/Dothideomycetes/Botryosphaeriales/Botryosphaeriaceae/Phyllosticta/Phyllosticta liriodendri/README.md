@@ -1,5 +1,4 @@
-Phyllosticta liriodendri Thüm. SPECIES
-=======
+# Phyllosticta liriodendri Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma sorghicola Speg. SPECIES
-=======
+# Macrophoma sorghicola Speg. SPECIES
 
 #### Status
 ACCEPTED

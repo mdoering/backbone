@@ -1,5 +1,4 @@
-Phaeocyphella hibisci Pat. SPECIES
-=======
+# Phaeocyphella hibisci Pat. SPECIES
 
 #### Status
 ACCEPTED

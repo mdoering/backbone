@@ -1,5 +1,4 @@
-Acarospora peliocypha f. peliocypha FORM
-=======
+# Acarospora peliocypha (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

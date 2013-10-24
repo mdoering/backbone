@@ -1,5 +1,4 @@
-Trypethelium phlyctaena Fée SPECIES
-=======
+# Trypethelium phlyctaena Fée SPECIES
 
 #### Status
 ACCEPTED

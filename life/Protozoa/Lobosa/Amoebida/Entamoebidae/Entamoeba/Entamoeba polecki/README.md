@@ -1,5 +1,4 @@
-Entamoeba polecki SPECIES
-=======
+# Entamoeba polecki SPECIES
 
 #### Status
 ACCEPTED

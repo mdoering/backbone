@@ -1,5 +1,4 @@
-Acremonium psammosporum W. Gams, 1961 SPECIES
-=======
+# Acremonium psammosporum W. Gams, 1961 SPECIES
 
 #### Status
 ACCEPTED

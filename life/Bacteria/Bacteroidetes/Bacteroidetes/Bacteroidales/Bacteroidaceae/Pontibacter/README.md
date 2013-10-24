@@ -1,5 +1,4 @@
-Pontibacter Nedashkovskaya, Kim, Suzuki, Shevchenko, Lee, Lee, Park, Frolova, Oh, Bae, Park & Mikhailov, 2005 GENUS
-=======
+# Pontibacter Nedashkovskaya, Kim, Suzuki, Shevchenko, Lee, Lee, Park, Frolova, Oh, Bae, Park & Mikhailov, 2005 GENUS
 
 #### Status
 ACCEPTED

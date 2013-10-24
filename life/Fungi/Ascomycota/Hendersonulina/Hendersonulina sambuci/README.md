@@ -1,5 +1,4 @@
-Hendersonulina sambuci (Justus Müll.) Tassi SPECIES
-=======
+# Hendersonulina sambuci (Justus Müll.) Tassi SPECIES
 
 #### Status
 ACCEPTED

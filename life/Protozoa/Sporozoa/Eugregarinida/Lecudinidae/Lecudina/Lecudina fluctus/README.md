@@ -1,8 +1,7 @@
-Lecudina fluktus Iitsuka of H. Hoshide, 1958 SPECIES
-=======
+# Lecudina fluctus Iitsuka, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

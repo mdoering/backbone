@@ -1,5 +1,4 @@
-Polycystis luzulae J. Schröt. SPECIES
-=======
+# Polycystis luzulae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

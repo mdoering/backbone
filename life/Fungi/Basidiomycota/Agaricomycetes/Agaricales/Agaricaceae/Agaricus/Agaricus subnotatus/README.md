@@ -1,5 +1,4 @@
-Agaricus subnotatus Pers. SPECIES
-=======
+# Agaricus subnotatus Pers. SPECIES
 
 #### Status
 ACCEPTED

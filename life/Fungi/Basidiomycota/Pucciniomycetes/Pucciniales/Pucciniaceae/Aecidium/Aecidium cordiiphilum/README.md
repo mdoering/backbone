@@ -1,5 +1,4 @@
-Aecidium cordiiphilum Speg. SPECIES
-=======
+# Aecidium cordiiphilum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arachnopeziza variepilosa (R. Galán & Raitv.) Huhtinen, 1987 SPECIES
-=======
+# Protounguicularia variepilosa R. Galán & Raitv., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 30: 14 (1987)
+in Raitviir & Galán, Int. J. Mycol. Lichenol. 2(2-3): 223 (1986)
 
 #### Original name
 Protounguicularia variepilosa R. Galán & Raitv., 1986

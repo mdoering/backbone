@@ -1,5 +1,4 @@
-Camarosporium lonicerae S. Ahmad SPECIES
-=======
+# Camarosporium lonicerae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

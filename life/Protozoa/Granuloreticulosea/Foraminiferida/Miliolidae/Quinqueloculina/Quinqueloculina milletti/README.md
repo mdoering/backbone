@@ -1,8 +1,7 @@
-Massilina milletti (Wiesner, 1923) SPECIES
-=======
+# Quinqueloculina milletti (Wiesner, 1923) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

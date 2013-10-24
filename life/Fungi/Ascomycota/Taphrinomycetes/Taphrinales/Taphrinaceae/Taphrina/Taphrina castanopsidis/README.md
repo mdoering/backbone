@@ -1,5 +1,4 @@
-Taphrina castanopsidis Ellis & Everh. ex Jenkins SPECIES
-=======
+# Taphrina castanopsidis Ellis & Everh. ex Jenkins SPECIES
 
 #### Status
 ACCEPTED

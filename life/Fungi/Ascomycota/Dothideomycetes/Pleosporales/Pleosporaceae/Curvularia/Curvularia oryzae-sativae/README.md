@@ -1,5 +1,4 @@
-Curvularia oryzae-sativae Sivan., 1987 SPECIES
-=======
+# Curvularia oryzae-sativae Sivan., 1987 SPECIES
 
 #### Status
 ACCEPTED

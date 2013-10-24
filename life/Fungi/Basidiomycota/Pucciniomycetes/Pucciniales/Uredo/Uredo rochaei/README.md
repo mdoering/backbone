@@ -1,5 +1,4 @@
-Uredo rochaei Puttemans SPECIES
-=======
+# Uredo rochaei Puttemans SPECIES
 
 #### Status
 ACCEPTED

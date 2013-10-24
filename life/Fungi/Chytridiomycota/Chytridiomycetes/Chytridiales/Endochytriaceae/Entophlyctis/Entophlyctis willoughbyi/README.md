@@ -1,5 +1,4 @@
-Entophlyctis willoughbyi W.H. Bradley SPECIES
-=======
+# Entophlyctis willoughbyi W.H. Bradley SPECIES
 
 #### Status
 ACCEPTED

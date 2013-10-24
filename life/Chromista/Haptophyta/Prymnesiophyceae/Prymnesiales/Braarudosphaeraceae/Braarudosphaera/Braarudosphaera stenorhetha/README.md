@@ -1,5 +1,4 @@
-Braarudosphaera stenorhetha Hill, 1976 SPECIES
-=======
+# Braarudosphaera stenorhetha Hill, 1976 SPECIES
 
 #### Status
 ACCEPTED

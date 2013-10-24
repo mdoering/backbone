@@ -1,5 +1,4 @@
-Lecanidion simile (W.R. Gerard) E.T. Butler SPECIES
-=======
+# Lecanidion simile (W.R. Gerard) E.T. Butler SPECIES
 
 #### Status
 ACCEPTED

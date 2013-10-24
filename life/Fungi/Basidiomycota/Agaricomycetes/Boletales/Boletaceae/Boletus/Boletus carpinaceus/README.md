@@ -1,5 +1,4 @@
-Boletus carpinaceus Velen. SPECIES
-=======
+# Boletus carpinaceus Velen. SPECIES
 
 #### Status
 ACCEPTED

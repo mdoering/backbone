@@ -1,5 +1,4 @@
-Anzia americana Yoshim. & Sharp SPECIES
-=======
+# Anzia americana Yoshim. & Sharp SPECIES
 
 #### Status
 ACCEPTED

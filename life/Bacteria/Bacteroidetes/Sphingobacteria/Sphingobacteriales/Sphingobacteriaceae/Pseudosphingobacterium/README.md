@@ -1,5 +1,4 @@
-Pseudosphingobacterium Vaz-Moreira et al., 2007 GENUS
-=======
+# Pseudosphingobacterium Vaz-Moreira et al., 2007 GENUS
 
 #### Status
 ACCEPTED

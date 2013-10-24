@@ -1,5 +1,4 @@
-Sticta polyschista (Meyen & Flot.) Zahlbr. SPECIES
-=======
+# Sticta polyschista (Meyen & Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

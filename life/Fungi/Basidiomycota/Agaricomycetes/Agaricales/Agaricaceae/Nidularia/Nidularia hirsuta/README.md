@@ -1,5 +1,4 @@
-Nidularia hirsuta (Schrank) Sowerby SPECIES
-=======
+# Nidularia hirsuta (Schrank) Sowerby SPECIES
 
 #### Status
 ACCEPTED

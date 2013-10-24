@@ -1,5 +1,4 @@
-Lyophyllum albellum (Schaeff.) Consiglio & Contu SPECIES
-=======
+# Lyophyllum albellum (Schaeff.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

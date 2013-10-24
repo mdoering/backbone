@@ -1,5 +1,4 @@
-Galerina bryophila (Murrill) A.H. Sm. & Singer SPECIES
-=======
+# Galerina bryophila (Murrill) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

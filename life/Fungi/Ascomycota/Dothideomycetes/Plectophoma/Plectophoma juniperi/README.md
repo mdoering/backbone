@@ -1,5 +1,4 @@
-Plectophoma juniperi Höhn. SPECIES
-=======
+# Plectophoma juniperi Höhn. SPECIES
 
 #### Status
 ACCEPTED

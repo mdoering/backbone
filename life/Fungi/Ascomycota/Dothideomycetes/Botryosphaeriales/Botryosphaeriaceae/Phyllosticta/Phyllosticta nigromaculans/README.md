@@ -1,5 +1,4 @@
-Phyllosticta nigromaculans Sacc. SPECIES
-=======
+# Phyllosticta nigromaculans Sacc. SPECIES
 
 #### Status
 ACCEPTED

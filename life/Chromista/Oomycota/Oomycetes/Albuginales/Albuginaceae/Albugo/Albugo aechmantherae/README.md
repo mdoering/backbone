@@ -1,5 +1,4 @@
-Albugo aechmantherae Z.Y. Zhang & Ying X. Wang SPECIES
-=======
+# Albugo aechmantherae Z.Y. Zhang & Ying X. Wang SPECIES
 
 #### Status
 ACCEPTED

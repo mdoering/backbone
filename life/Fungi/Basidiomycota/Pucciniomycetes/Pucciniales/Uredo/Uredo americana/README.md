@@ -1,5 +1,4 @@
-Uredo americana (Mass. {?} ) Arthur SPECIES
-=======
+# Uredo americana (Mass. {?} ) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karstenula dumorum Mouton SPECIES
-=======
+# Karstenula dumorum Mouton SPECIES
 
 #### Status
 ACCEPTED

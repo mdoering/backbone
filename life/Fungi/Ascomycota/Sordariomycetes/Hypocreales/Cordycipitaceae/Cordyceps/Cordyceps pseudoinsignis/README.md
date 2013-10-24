@@ -1,5 +1,4 @@
-Cordyceps pseudoinsignis Moureau SPECIES
-=======
+# Cordyceps pseudoinsignis Moureau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria baeomyces (L. f.) Willd. SPECIES
-=======
+# Verrucaria baeomyces (L. f.) Willd. SPECIES
 
 #### Status
 ACCEPTED

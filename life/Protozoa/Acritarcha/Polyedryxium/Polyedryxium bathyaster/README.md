@@ -1,5 +1,4 @@
-Polyedryxium bathyaster Deunff, 1954 ex Deunff, 1961 SPECIES
-=======
+# Polyedryxium bathyaster Deunff, 1954 ex Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

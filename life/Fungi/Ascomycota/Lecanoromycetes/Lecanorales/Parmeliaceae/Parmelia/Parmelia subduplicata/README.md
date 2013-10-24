@@ -1,5 +1,4 @@
-Parmelia subduplicata Rass. SPECIES
-=======
+# Parmelia subduplicata Rass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia leucochlora Tuck. SPECIES
-=======
+# Parmelia leucochlora Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micarea hedlundii Coppins SPECIES
-=======
+# Micarea hedlundii Coppins SPECIES
 
 #### Status
 ACCEPTED

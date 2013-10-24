@@ -1,5 +1,4 @@
-Amazonomyces Bat. & Cavalc. GENUS
-=======
+# Amazonomyces Bat. & Cavalc. GENUS
 
 #### Status
 ACCEPTED

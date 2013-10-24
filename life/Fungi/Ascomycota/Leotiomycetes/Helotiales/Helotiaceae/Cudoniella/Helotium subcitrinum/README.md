@@ -1,5 +1,4 @@
-Helotium subcitrinum Velen. SPECIES
-=======
+# Helotium subcitrinum Velen. SPECIES
 
 #### Status
 ACCEPTED

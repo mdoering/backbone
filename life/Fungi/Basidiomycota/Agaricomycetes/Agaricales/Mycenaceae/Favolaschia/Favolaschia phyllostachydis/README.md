@@ -1,5 +1,4 @@
-Favolaschia phyllostachydis Imazeki & Kobayasi, 1952 SPECIES
-=======
+# Favolaschia phyllostachydis Imazeki & Kobayasi, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Proteonella alta Saidova, 1975 SPECIES
-=======
+# Lagenammina alta (Saidova, 1975) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

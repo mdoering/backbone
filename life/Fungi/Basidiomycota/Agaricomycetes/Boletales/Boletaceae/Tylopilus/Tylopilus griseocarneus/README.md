@@ -1,5 +1,4 @@
-Tylopilus griseocarneus Wolfe & Halling SPECIES
-=======
+# Tylopilus griseocarneus Wolfe & Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoceratium pepo Kofoid & Michener SPECIES
-=======
+# Protoceratium pepo Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

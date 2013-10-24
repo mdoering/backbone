@@ -1,5 +1,4 @@
-Saccharina coriacea (Miyabe) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
-=======
+# Saccharina coriacea (Miyabe) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cellularia labyrinthica (Quél. & Schulzer) Kuntze SPECIES
-=======
+# Cellularia labyrinthica (Quél. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

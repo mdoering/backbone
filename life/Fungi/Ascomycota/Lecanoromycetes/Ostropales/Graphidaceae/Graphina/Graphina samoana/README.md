@@ -1,5 +1,4 @@
-Graphina samoana Zahlbr. SPECIES
-=======
+# Graphina samoana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

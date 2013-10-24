@@ -1,5 +1,4 @@
-Phlyctochytrium furcatum Sparrow SPECIES
-=======
+# Phlyctochytrium furcatum Sparrow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prathigada condensata (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Prathigada condensata (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

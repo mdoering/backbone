@@ -1,5 +1,4 @@
-Tuber lucidum Vittad. SPECIES
-=======
+# Tuber lucidum Vittad. SPECIES
 
 #### Status
 ACCEPTED

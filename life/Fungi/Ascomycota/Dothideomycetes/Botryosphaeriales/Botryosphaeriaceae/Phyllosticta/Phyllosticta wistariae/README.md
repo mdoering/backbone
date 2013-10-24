@@ -1,5 +1,4 @@
-Phyllosticta wistariae Sacc., 1882 SPECIES
-=======
+# Phyllosticta wistariae Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lecanora pellodella Nyl. SPECIES
-=======
+# Caloplaca pellodella (Nyl.) Hasse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

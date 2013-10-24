@@ -1,5 +1,4 @@
-Hemimycena reducta E. Horak & Desjardin, 1994 SPECIES
-=======
+# Hemimycena reducta E. Horak & Desjardin, 1994 SPECIES
 
 #### Status
 ACCEPTED

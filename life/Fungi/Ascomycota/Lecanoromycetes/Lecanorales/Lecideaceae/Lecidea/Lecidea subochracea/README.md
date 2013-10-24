@@ -1,5 +1,4 @@
-Lecidea subochracea Nyl. SPECIES
-=======
+# Lecidea subochracea Nyl. SPECIES
 
 #### Status
 ACCEPTED

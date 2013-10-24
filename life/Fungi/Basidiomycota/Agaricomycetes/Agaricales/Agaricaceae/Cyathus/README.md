@@ -1,5 +1,4 @@
-Cyathus Persoon, 1801 GENUS
-=======
+# Cyathus Persoon, 1801 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium stalactiticum Hepp SPECIES
-=======
+# Placodium stalactiticum Hepp SPECIES
 
 #### Status
 ACCEPTED

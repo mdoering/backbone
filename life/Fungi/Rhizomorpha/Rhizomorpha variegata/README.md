@@ -1,5 +1,4 @@
-Rhizomorpha variegata Sowerby SPECIES
-=======
+# Rhizomorpha variegata Sowerby SPECIES
 
 #### Status
 ACCEPTED

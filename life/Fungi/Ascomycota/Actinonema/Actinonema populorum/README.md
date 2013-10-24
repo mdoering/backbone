@@ -1,5 +1,4 @@
-Actinonema populorum Fuckel SPECIES
-=======
+# Actinonema populorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

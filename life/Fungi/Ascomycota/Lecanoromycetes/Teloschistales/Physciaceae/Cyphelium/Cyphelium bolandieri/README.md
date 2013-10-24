@@ -1,5 +1,4 @@
-Cyphelium bolandieri Fuckel SPECIES
-=======
+# Cyphelium bolandieri Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora gelidioides Corner, 1968 SPECIES
-=======
+# Thelephora gelidioides Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

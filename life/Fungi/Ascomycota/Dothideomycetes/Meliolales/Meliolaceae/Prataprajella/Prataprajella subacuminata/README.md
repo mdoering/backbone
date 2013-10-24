@@ -1,5 +1,4 @@
-Prataprajella subacuminata (W. Yamam.) B. Song & Y.X. Hu SPECIES
-=======
+# Prataprajella subacuminata (W. Yamam.) B. Song & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

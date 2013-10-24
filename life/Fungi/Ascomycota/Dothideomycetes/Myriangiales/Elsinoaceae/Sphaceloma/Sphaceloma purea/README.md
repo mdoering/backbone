@@ -1,5 +1,4 @@
-Sphaceloma purea anon. SPECIES
-=======
+# Sphaceloma purea anon. SPECIES
 
 #### Status
 ACCEPTED

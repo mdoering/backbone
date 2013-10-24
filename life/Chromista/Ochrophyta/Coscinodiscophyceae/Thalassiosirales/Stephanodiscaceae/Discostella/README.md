@@ -1,5 +1,4 @@
-Discostella Houk & Klee, 2004 GENUS
-=======
+# Discostella Houk & Klee, 2004 GENUS
 
 #### Status
 ACCEPTED

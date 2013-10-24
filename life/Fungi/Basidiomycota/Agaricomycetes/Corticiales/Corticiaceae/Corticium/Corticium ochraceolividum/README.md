@@ -1,5 +1,4 @@
-Corticium ochraceolividum Pat. SPECIES
-=======
+# Corticium ochraceolividum Pat. SPECIES
 
 #### Status
 ACCEPTED

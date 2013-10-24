@@ -1,5 +1,4 @@
-Stylospongidium Haeckel, 1881 GENUS
-=======
+# Stylospongidium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

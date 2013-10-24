@@ -1,14 +1,13 @@
-Deckenbachia consuens (K.N. Deckenb.) Jacz., 1931 SPECIES
-=======
+# Coenomyces consuens K.N. Deckenb., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Key to Fungi, Perfectifungi, I. Phycomycetes (1931)
+Bot. Zap. 19: (1901)
 
 #### Original name
 Coenomyces consuens K.N. Deckenb., 1901

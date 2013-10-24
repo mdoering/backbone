@@ -1,5 +1,4 @@
-Pyramidomonas Averintsev, 1916 GENUS
-=======
+# Pyramidomonas Averintsev, 1916 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Labrenzia Biebl, Pukall, Lunsdorf, Schulz, Allgaier, Tindall & Wagner-Dobler, 2007 GENUS
-=======
+# Labrenzia Biebl, Pukall, Lunsdorf, Schulz, Allgaier, Tindall & Wagner-Dobler, 2007 GENUS
 
 #### Status
 ACCEPTED

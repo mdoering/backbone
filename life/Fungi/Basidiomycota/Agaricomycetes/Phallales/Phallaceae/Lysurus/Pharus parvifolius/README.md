@@ -1,5 +1,4 @@
-Pharus parvifolius T.H. Nash SPECIES
-=======
+# Pharus parvifolius T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

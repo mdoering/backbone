@@ -1,5 +1,4 @@
-Gnomonia tithymalina Sacc. & Briard SPECIES
-=======
+# Gnomonia tithymalina Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

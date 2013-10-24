@@ -1,5 +1,4 @@
-Ferromia filosa Vavrdová, 1978 SPECIES
-=======
+# Ferromia filosa Vavrdová, 1978 SPECIES
 
 #### Status
 ACCEPTED

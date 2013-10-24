@@ -1,5 +1,4 @@
-Thiobaca trueperi Rees et al., 2002 SPECIES
-=======
+# Thiobaca trueperi Rees et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

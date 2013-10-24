@@ -1,5 +1,4 @@
-Didymium platense Speg. SPECIES
-=======
+# Didymium platense Speg. SPECIES
 
 #### Status
 ACCEPTED

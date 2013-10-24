@@ -1,5 +1,4 @@
-Entoloma glaucoroseum E. Horak, 2008 SPECIES
-=======
+# Entoloma glaucoroseum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

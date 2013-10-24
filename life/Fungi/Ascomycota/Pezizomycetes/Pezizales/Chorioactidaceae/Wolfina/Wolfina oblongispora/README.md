@@ -1,5 +1,4 @@
-Wolfina oblongispora (J.Z. Cao) W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Wolfina oblongispora (J.Z. Cao) W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

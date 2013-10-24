@@ -1,17 +1,16 @@
-Yoshinagella polymorpha var. polymorpha Lyon ex F. Stevens VARIETY
-=======
+# Coccodiella polymorpha (Lyon ex F. Stevens) I. Hino & Katum., 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stevens, Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 14 (1925)
+J. Jap. Bot. 43: 282 (1968)
 
 #### Original name
-Yoshinagella polymorpha var. polymorpha Lyon ex F. Stevens
+Yoshinagella polymorpha Lyon ex F. Stevens, 1925
 
 ### Remarks
 null

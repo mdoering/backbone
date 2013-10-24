@@ -1,5 +1,4 @@
-Aliquandostipite khaoyaiensis Inderb., 2001 SPECIES
-=======
+# Aliquandostipite khaoyaiensis Inderb., 2001 SPECIES
 
 #### Status
 ACCEPTED

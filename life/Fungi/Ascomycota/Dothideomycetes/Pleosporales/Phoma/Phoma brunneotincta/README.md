@@ -1,5 +1,4 @@
-Phoma brunneotincta Berk. & M.A. Curtis SPECIES
-=======
+# Phoma brunneotincta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria acanthi var. acanthi VARIETY
-=======
+# Septoria acanthi Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Contrib. Flor. Mycol. Lusitan. 1: 25
 
 #### Original name
-Septoria acanthi var. acanthi
+Septoria acanthi Thüm.
 
 ### Remarks
 null

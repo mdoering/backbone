@@ -1,5 +1,4 @@
-Asterina malaisiae Syd. SPECIES
-=======
+# Asterina malaisiae Syd. SPECIES
 
 #### Status
 ACCEPTED

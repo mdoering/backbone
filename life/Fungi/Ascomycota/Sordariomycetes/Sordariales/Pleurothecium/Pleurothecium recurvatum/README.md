@@ -1,14 +1,13 @@
-Acrothecium recurvatum Morgan, 1895 SPECIES
-=======
+# Pleurothecium recurvatum (Morgan) Höhn., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Cincinnati Soc. Nat. Hist. 18: 44 (1895)
+Zentbl. Bakt. ParasitKde, Abt. II 60: 26 (1923)
 
 #### Original name
 Acrothecium recurvatum Morgan, 1895

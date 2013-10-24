@@ -1,5 +1,4 @@
-Ogataea henricii (Wick.) Y. Yamada, K. Maeda & Mikata, 1994 SPECIES
-=======
+# Ogataea henricii (Wick.) Y. Yamada, K. Maeda & Mikata, 1994 SPECIES
 
 #### Status
 ACCEPTED

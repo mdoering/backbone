@@ -1,5 +1,4 @@
-Leptosphaeria didymellae-vincetoxici E. Müll. SPECIES
-=======
+# Leptosphaeria didymellae-vincetoxici E. Müll. SPECIES
 
 #### Status
 ACCEPTED

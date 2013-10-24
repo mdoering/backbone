@@ -1,5 +1,4 @@
-Pertusaria henricii var. henricii VARIETY
-=======
+# Pertusaria henricii (Harm.) Erikss. SPECIES
 
 #### Status
 ACCEPTED

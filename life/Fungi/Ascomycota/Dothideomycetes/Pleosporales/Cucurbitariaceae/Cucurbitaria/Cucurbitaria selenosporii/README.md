@@ -1,5 +1,4 @@
-Cucurbitaria selenosporii (Tul.) Kuntze SPECIES
-=======
+# Cucurbitaria selenosporii (Tul.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

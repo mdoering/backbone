@@ -1,5 +1,4 @@
-Myxococcus virescens Thaxter, 1892 (Approved Lists, 1980) SPECIES
-=======
+# Myxococcus virescens Thaxter, 1892 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

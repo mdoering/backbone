@@ -1,5 +1,4 @@
-Pyrenopeziza granulosa E. Müll. SPECIES
-=======
+# Pyrenopeziza granulosa E. Müll. SPECIES
 
 #### Status
 ACCEPTED

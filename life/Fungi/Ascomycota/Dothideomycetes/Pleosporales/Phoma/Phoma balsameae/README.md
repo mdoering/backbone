@@ -1,5 +1,4 @@
-Phoma balsameae Brunaud SPECIES
-=======
+# Phoma balsameae Brunaud SPECIES
 
 #### Status
 ACCEPTED

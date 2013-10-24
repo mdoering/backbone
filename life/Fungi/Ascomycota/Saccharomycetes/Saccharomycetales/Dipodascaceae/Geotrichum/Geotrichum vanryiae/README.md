@@ -1,5 +1,4 @@
-Geotrichum vanryiae Saëz SPECIES
-=======
+# Geotrichum vanryiae Saëz SPECIES
 
 #### Status
 ACCEPTED

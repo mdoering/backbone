@@ -1,5 +1,4 @@
-Conidophrys guttipotor SPECIES
-=======
+# Conidophrys guttipotor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella uspenskajae Mashkina & Tomilin SPECIES
-=======
+# Mycosphaerella uspenskajae Mashkina & Tomilin SPECIES
 
 #### Status
 ACCEPTED

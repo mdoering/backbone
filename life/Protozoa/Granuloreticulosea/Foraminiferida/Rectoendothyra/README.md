@@ -1,5 +1,4 @@
-Rectoendothyra Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
-=======
+# Rectoendothyra Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
 
 #### Status
 ACCEPTED

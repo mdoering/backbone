@@ -1,5 +1,4 @@
-Psorotheciella GENUS
-=======
+# Psorotheciella GENUS
 
 #### Status
 ACCEPTED

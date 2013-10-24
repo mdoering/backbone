@@ -1,5 +1,4 @@
-Agaricus amboensis (Fayod) Sacc. SPECIES
-=======
+# Agaricus amboensis (Fayod) Sacc. SPECIES
 
 #### Status
 ACCEPTED

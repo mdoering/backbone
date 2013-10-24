@@ -1,5 +1,4 @@
-Vallacerta hannae Deflandre SPECIES
-=======
+# Vallacerta hannae Deflandre SPECIES
 
 #### Status
 ACCEPTED

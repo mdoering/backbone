@@ -1,5 +1,4 @@
-Virgulinella pertusa SPECIES
-=======
+# Virgulinella pertusa SPECIES
 
 #### Status
 ACCEPTED

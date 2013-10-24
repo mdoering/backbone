@@ -1,14 +1,13 @@
-Melanospora plejospora J. Schröt. SPECIES
-=======
+# Scopinella pleiospora (J. Schröt.) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 953 (1891)
 
 #### Original name
 Melanospora plejospora J. Schröt.

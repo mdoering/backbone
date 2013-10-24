@@ -1,5 +1,4 @@
-Protunuma ochiensis SPECIES
-=======
+# Protunuma ochiensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thelephora calcea subsp. calcea SUBSPECIES
-=======
+# Exidiopsis calcea (Pers.) K. Wells, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Thelephora calcea subsp. calcea
+null
 
 ### Remarks
 null

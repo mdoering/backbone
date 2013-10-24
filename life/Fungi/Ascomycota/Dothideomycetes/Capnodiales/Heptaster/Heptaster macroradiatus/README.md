@@ -1,17 +1,16 @@
-Heptaster macroradiata Cif., Bat. & Nascim. SPECIES
-=======
+# Heptaster macroradiatus Cif., Bat. & Nascim. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 46: 4 (1956)
 
 #### Original name
-Heptaster macroradiata Cif., Bat. & Nascim.
+Heptaster macroradiatus Cif., Bat. & Nascim.
 
 ### Remarks
 null

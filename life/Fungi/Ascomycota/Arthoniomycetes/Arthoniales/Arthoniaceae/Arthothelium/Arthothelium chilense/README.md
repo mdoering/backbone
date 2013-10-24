@@ -1,5 +1,4 @@
-Arthothelium chilense C.W. Dodge SPECIES
-=======
+# Arthothelium chilense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

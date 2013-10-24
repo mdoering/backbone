@@ -1,5 +1,4 @@
-Fomes variabilis var. variabilis VARIETY
-=======
+# Fomes variabilis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fomes variabilis var. variabilis
+Polyporus variabilis Berk.
 
 ### Remarks
 null

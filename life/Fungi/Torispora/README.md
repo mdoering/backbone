@@ -1,5 +1,4 @@
-Torispora B.E. Balme, 1952 GENUS
-=======
+# Torispora B.E. Balme, 1952 GENUS
 
 #### Status
 ACCEPTED

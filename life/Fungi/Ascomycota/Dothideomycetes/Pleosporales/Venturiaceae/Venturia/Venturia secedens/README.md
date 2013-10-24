@@ -1,5 +1,4 @@
-Venturia secedens Tassi SPECIES
-=======
+# Venturia secedens Tassi SPECIES
 
 #### Status
 ACCEPTED

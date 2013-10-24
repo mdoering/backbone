@@ -1,5 +1,4 @@
-Lecanora migdina Nyl. SPECIES
-=======
+# Lecanora migdina Nyl. SPECIES
 
 #### Status
 ACCEPTED

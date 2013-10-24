@@ -1,5 +1,4 @@
-Chitonomyces hyalinus Thaxt. SPECIES
-=======
+# Chitonomyces hyalinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius erubescens Verbeken & E. Horak SPECIES
-=======
+# Lactarius erubescens Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

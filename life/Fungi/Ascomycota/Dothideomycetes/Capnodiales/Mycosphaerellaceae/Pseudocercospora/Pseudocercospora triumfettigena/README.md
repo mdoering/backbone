@@ -1,5 +1,4 @@
-Pseudocercospora triumfettigena (J.M. Yen & Gilles) Deighton SPECIES
-=======
+# Pseudocercospora triumfettigena (J.M. Yen & Gilles) Deighton SPECIES
 
 #### Status
 ACCEPTED

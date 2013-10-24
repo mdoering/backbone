@@ -1,5 +1,4 @@
-Sclerotinia ploettneriana Kirschst. SPECIES
-=======
+# Sclerotinia ploettneriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

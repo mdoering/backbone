@@ -1,14 +1,13 @@
-Lecanora bolanderi Tuck. SPECIES
-=======
+# Cladidium bolanderi (Tuck.) B. D. Ryan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 34(2): 699 (1989)
 
 #### Original name
 Lecanora bolanderi Tuck.

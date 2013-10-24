@@ -1,5 +1,4 @@
-Rhabdospora nebula (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora nebula (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

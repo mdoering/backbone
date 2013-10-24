@@ -1,5 +1,4 @@
-Diplodia bessimyanii Lind SPECIES
-=======
+# Diplodia bessimyanii Lind SPECIES
 
 #### Status
 ACCEPTED

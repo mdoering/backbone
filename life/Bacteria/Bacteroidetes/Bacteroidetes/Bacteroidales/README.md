@@ -1,5 +1,4 @@
-Bacteroidales ORDER
-=======
+# Bacteroidales ORDER
 
 #### Status
 ACCEPTED

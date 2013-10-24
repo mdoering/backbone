@@ -1,17 +1,16 @@
-Trypethelium ochroleucum var. pallescens (Fée) Müll. Arg. VARIETY
-=======
+# Trypethelium ochroleucum (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Trypethelium pallescens Fée
+Verrucaria ochroleuca Eschw.
 
 ### Remarks
 null

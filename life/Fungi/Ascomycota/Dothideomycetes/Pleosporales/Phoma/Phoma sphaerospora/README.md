@@ -1,5 +1,4 @@
-Phoma sphaerospora Sacc. SPECIES
-=======
+# Phoma sphaerospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

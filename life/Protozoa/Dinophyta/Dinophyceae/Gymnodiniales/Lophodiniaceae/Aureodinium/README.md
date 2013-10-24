@@ -1,5 +1,4 @@
-Aureodinium J. Dodge, 1967 GENUS
-=======
+# Aureodinium J. Dodge, 1967 GENUS
 
 #### Status
 ACCEPTED

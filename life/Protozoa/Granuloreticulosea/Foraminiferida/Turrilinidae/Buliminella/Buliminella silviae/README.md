@@ -1,5 +1,4 @@
-Buliminella silviae SPECIES
-=======
+# Buliminella silviae SPECIES
 
 #### Status
 ACCEPTED

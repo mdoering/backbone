@@ -1,5 +1,4 @@
-Lycoperdon angulatum Dissing & M. Lange SPECIES
-=======
+# Lycoperdon angulatum Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

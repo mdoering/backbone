@@ -1,5 +1,4 @@
-Cytotriplospora pini Bayl. Ell. & Chance, 1921 SPECIES
-=======
+# Cytotriplospora pini Bayl. Ell. & Chance, 1921 SPECIES
 
 #### Status
 ACCEPTED

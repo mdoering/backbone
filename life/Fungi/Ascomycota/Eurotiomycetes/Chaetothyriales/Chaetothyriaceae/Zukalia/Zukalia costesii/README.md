@@ -1,17 +1,16 @@
-Zukalia costesi Speg. SPECIES
-=======
+# Zukalia costesii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 25: 41 (1921)
 
 #### Original name
-Zukalia costesi Speg.
+Zukalia costesii Speg.
 
 ### Remarks
 null

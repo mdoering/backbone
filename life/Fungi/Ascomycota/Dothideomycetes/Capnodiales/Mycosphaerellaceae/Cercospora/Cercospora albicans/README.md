@@ -1,5 +1,4 @@
-Cercospora albicans (Ellis & Everh.) U. Braun SPECIES
-=======
+# Cercospora albicans (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

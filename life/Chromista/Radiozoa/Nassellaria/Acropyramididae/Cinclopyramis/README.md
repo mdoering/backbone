@@ -1,14 +1,13 @@
-Cinelopyramis Certes, 1889 GENUS
-=======
+# Cinclopyramis Haeckel, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Miss. Cap Horn, 6 (3), Protoz. , 41.
+Schöpfungsgesch. , ed. 7, 705.
 
 #### Original name
 null

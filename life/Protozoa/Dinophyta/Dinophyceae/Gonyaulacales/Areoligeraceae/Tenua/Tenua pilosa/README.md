@@ -1,5 +1,4 @@
-Tenua pilosa (Ehrenberg) W.A.S. Sarjeant SPECIES
-=======
+# Tenua pilosa (Ehrenberg) W.A.S. Sarjeant SPECIES
 
 #### Status
 ACCEPTED

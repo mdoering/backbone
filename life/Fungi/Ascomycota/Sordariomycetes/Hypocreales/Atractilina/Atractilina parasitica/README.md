@@ -1,14 +1,13 @@
-Arthrobotryum parasiticum (G. Winter) Hansf., 1943 SPECIES
-=======
+# Atractilina parasitica (G. Winter) Deighton & Piroz., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 64 (1943)
+Mycol. Pap. 128: 34 (1972)
 
 #### Original name
 Arthrosporium parasiticum G. Winter, 1886

@@ -1,5 +1,4 @@
-Sphaeria convallariae-majalis Kirchn. SPECIES
-=======
+# Sphaeria convallariae-majalis Kirchn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daldinia pyrenaica M. Stadler & Wollw., 2001 SPECIES
-=======
+# Daldinia pyrenaica M. Stadler & Wollw., 2001 SPECIES
 
 #### Status
 ACCEPTED

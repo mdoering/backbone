@@ -1,5 +1,4 @@
-Fragilaria construens var. binodis (Ehrenberg) Grunow VARIETY
-=======
+# Fragilaria construens (Ehrenberg) Grunow SPECIES
 
 #### Status
 ACCEPTED

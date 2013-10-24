@@ -1,5 +1,4 @@
-Septoria tanaceti-macrophylli Bubák SPECIES
-=======
+# Septoria tanaceti-macrophylli Bubák SPECIES
 
 #### Status
 ACCEPTED

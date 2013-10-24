@@ -1,5 +1,4 @@
-Patinella tasmanica (Berk.) Sacc. SPECIES
-=======
+# Patinella tasmanica (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

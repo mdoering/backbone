@@ -1,5 +1,4 @@
-Lecanora subaeruginosa (Nyl.) Nyl. SPECIES
-=======
+# Lecanora subaeruginosa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

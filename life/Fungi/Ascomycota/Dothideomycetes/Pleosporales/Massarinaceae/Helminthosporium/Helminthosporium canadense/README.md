@@ -1,5 +1,4 @@
-Helminthosporium canadense (Ellis & Everh.) Pound & Clem. SPECIES
-=======
+# Helminthosporium canadense (Ellis & Everh.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

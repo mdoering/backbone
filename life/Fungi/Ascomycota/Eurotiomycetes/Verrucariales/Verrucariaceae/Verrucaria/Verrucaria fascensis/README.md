@@ -1,5 +1,4 @@
-Verrucaria fascensis var. fascensis VARIETY
-=======
+# Verrucaria fascensis Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria fascensis var. fascensis
+Verrucaria fascensis Servít
 
 ### Remarks
 null

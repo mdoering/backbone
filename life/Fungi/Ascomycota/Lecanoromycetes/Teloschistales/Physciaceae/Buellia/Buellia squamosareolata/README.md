@@ -1,5 +1,4 @@
-Buellia squamosareolata SPECIES
-=======
+# Buellia squamosareolata SPECIES
 
 #### Status
 ACCEPTED

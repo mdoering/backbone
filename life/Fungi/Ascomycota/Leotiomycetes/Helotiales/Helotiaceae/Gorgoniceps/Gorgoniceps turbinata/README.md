@@ -1,5 +1,4 @@
-Gorgoniceps turbinata Sacc. SPECIES
-=======
+# Gorgoniceps turbinata Sacc. SPECIES
 
 #### Status
 ACCEPTED

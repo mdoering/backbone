@@ -1,5 +1,4 @@
-Fusarium butleri Wollenw. SPECIES
-=======
+# Fusarium butleri Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaviridae FAMILY
-=======
+# Clavaviridae FAMILY
 
 #### Status
 ACCEPTED

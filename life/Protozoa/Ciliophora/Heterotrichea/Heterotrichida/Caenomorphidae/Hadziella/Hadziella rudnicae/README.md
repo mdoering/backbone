@@ -1,5 +1,4 @@
-Hadziella rudnicae Bole, 1992 SPECIES
-=======
+# Hadziella rudnicae Bole, 1992 SPECIES
 
 #### Status
 ACCEPTED

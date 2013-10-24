@@ -1,5 +1,4 @@
-Sphaerotheca caricae-papayae Tanda & U. Braun SPECIES
-=======
+# Sphaerotheca caricae-papayae Tanda & U. Braun SPECIES
 
 #### Status
 ACCEPTED

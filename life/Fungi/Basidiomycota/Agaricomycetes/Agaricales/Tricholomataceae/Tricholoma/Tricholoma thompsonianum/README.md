@@ -1,5 +1,4 @@
-Tricholoma thompsonianum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma thompsonianum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

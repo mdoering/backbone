@@ -1,5 +1,4 @@
-Anthracothecium americanum (Ach.) Müll. Arg. SPECIES
-=======
+# Anthracothecium americanum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proteus insecticolens SPECIES
-=======
+# Proteus insecticolens SPECIES
 
 #### Status
 ACCEPTED

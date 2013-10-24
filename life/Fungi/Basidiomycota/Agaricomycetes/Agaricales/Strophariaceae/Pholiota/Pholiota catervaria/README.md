@@ -1,5 +1,4 @@
-Pholiota catervaria (Lév.) Manjula SPECIES
-=======
+# Pholiota catervaria (Lév.) Manjula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Piptocephalis sphaerocephala L. Mangin, 1899 SPECIES
-=======
+# Piptocephalis cylindrospora Bainier, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , Paris 13(10): 376 (1899)
+Étud. Mucor. (Paris), (Thèse, Paris) 92 (1882)
 
 #### Original name
-Piptocephalis sphaerocephala L. Mangin, 1899
+Piptocephalis cylindrospora Bainier, 1882
 
 ### Remarks
 null

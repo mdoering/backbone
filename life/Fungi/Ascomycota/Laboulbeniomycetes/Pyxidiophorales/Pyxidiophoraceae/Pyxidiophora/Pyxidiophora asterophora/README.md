@@ -1,14 +1,13 @@
-Hypomyces asterophorus Tul. & C. Tul., 1865 SPECIES
-=======
+# Pyxidiophora asterophora (Tul.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 3: 54 (1865)
+Annls mycol. 9: 316 (1897)
 
 #### Original name
 Hypomyces asterophorus Tul. & C. Tul., 1865

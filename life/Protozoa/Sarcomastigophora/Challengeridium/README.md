@@ -1,5 +1,4 @@
-Challengeridium Haeckel, 1887 GENUS
-=======
+# Challengeridium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

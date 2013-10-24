@@ -1,5 +1,4 @@
-Lecanora erythrina (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora erythrina (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

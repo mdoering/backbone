@@ -1,5 +1,4 @@
-Rosellinia dingleyae L.E. Petrini, 2003 SPECIES
-=======
+# Rosellinia dingleyae L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

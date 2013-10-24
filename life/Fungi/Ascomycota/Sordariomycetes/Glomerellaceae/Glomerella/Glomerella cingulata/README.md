@@ -1,17 +1,16 @@
-Glomerella cingulata f. sp FORM
-=======
+# Glomerella cingulata (Stoneman) Spauld. & H. Schrenk, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kimati & Galli, Anais da Escola Superior de Agricultura 'Luiz de Queiroz' 27: 432 (1970)
+in Schrenk & Spaulding, Science, N. Y. 17: 751 (1903)
 
 #### Original name
-Glomerella cingulata f. sp
+Gnomoniopsis cingulata Stoneman, 1898
 
 ### Remarks
 null

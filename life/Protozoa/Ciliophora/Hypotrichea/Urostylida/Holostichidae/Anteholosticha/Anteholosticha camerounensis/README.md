@@ -1,8 +1,7 @@
-Holosticha camerounensis Dragesco, 1970 SPECIES
-=======
+# Anteholosticha camerounensis (Dragesco, 1970) Berger, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Ganoderma concinnum Ryvarden SPECIES
-=======
+# Ganoderma concinnum Ryvarden SPECIES
 
 #### Status
 ACCEPTED

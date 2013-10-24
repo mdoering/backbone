@@ -1,5 +1,4 @@
-Cyclodomus comosi Sawada SPECIES
-=======
+# Cyclodomus comosi Sawada SPECIES
 
 #### Status
 ACCEPTED

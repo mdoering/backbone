@@ -1,5 +1,4 @@
-Ardhachandra GENUS
-=======
+# Ardhachandra GENUS
 
 #### Status
 ACCEPTED

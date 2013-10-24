@@ -1,5 +1,4 @@
-Phaeoramularia ambrosiae (Chupp) Deighton SPECIES
-=======
+# Phaeoramularia ambrosiae (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

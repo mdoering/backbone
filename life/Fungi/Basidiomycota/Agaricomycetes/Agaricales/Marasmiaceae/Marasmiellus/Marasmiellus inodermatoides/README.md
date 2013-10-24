@@ -1,5 +1,4 @@
-Marasmiellus inodermatoides Singer SPECIES
-=======
+# Marasmiellus inodermatoides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metabotryon GENUS
-=======
+# Metabotryon GENUS
 
 #### Status
 ACCEPTED

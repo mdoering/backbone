@@ -1,5 +1,4 @@
-Psilocybe singeri Guzmán SPECIES
-=======
+# Psilocybe singeri Guzmán SPECIES
 
 #### Status
 ACCEPTED

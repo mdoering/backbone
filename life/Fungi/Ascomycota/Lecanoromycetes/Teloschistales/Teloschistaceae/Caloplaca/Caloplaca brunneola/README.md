@@ -1,5 +1,4 @@
-Caloplaca brunneola Wetmore SPECIES
-=======
+# Caloplaca brunneola Wetmore SPECIES
 
 #### Status
 ACCEPTED

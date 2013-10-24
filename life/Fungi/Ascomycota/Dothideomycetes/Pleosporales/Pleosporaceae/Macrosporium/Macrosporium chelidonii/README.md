@@ -1,5 +1,4 @@
-Macrosporium chelidonii Rabenh. SPECIES
-=======
+# Macrosporium chelidonii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

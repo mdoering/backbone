@@ -1,5 +1,4 @@
-Crocynia semicylindrata Hue SPECIES
-=======
+# Crocynia semicylindrata Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoscypha gallica SPECIES
-=======
+# Trichoscypha gallica SPECIES
 
 #### Status
 ACCEPTED

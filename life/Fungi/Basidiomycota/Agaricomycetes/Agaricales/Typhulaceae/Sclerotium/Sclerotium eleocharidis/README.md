@@ -1,5 +1,4 @@
-Sclerotium eleocharidis Thüm. SPECIES
-=======
+# Sclerotium eleocharidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

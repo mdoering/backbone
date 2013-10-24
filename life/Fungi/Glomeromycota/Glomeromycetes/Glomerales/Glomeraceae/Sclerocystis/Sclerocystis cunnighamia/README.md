@@ -1,5 +1,4 @@
-Sclerocystis cunnighamia Hu SPECIES
-=======
+# Sclerocystis cunnighamia Hu SPECIES
 
 #### Status
 ACCEPTED

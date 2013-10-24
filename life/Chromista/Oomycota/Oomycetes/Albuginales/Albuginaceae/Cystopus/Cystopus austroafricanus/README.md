@@ -1,5 +1,4 @@
-Cystopus austroafricanus (Syd. & P. Syd.) Sacc. & Trotter SPECIES
-=======
+# Cystopus austroafricanus (Syd. & P. Syd.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

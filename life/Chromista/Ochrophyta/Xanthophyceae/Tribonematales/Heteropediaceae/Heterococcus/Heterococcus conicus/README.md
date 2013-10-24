@@ -1,5 +1,4 @@
-Heterococcus conicus Pitschmann SPECIES
-=======
+# Heterococcus conicus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

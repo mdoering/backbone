@@ -1,5 +1,4 @@
-Laestadia scabiosa Lambotte & Fautrey SPECIES
-=======
+# Laestadia scabiosa Lambotte & Fautrey SPECIES
 
 #### Status
 ACCEPTED

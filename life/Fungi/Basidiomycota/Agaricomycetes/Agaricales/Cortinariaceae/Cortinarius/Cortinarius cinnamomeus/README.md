@@ -1,17 +1,16 @@
-Dermocybe cinnamomea var. cinnamomea VARIETY
-=======
+# Cortinarius cinnamomeus (L.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 288 (1838)
 
 #### Original name
-Dermocybe cinnamomea var. cinnamomea
+Agaricus cinnamomeus L., 1753
 
 ### Remarks
 null

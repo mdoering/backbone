@@ -1,17 +1,16 @@
-Sphaeria nivea var. nivea Hoffm., 1787 VARIETY
-=======
+# Valsa nivea (Hoffm.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Veg. Crypt. 1: 28 (1787)
+Summa veg. Scand. (Stockholm), Section Post. 411 (1849)
 
 #### Original name
-Sphaeria nivea var. nivea Hoffm., 1787
+Sphaeria nivea Sowerby
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Trichosphaeria vermicularia (Nees) Fuckel, 1870 SPECIES
-=======
+# Eriosphaeria vermicularia (Nees) Sacc., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 145 (1870)
+Gatt. Phlegm. 4: 86 (1875)
 
 #### Original name
 Sphaeria vermicularia Nees, 1816

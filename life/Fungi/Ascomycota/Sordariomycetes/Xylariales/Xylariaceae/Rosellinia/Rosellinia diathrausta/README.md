@@ -1,5 +1,4 @@
-Rosellinia diathrausta (Rehm) L.E. Petrini SPECIES
-=======
+# Rosellinia diathrausta (Rehm) L.E. Petrini SPECIES
 
 #### Status
 ACCEPTED

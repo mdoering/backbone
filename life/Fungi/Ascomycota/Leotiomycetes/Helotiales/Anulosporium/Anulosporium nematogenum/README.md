@@ -1,5 +1,4 @@
-Anulosporium nematogenum Sherb. SPECIES
-=======
+# Anulosporium nematogenum Sherb. SPECIES
 
 #### Status
 ACCEPTED

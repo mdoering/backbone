@@ -1,5 +1,4 @@
-Lagenosolenia walleriana (Wright, 1886) SPECIES
-=======
+# Lagenosolenia walleriana (Wright, 1886) SPECIES
 
 #### Status
 ACCEPTED

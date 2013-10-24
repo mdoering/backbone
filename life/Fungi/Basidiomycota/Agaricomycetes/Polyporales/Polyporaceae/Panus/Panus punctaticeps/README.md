@@ -1,14 +1,13 @@
-Pocillaria punctaticeps (Berk. & Broome) Kuntze, 1891 SPECIES
-=======
+# Panus punctaticeps (Berk. & Broome) T.W. May & A.E. Wood, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Mycotaxon 54: 148 (1995)
 
 #### Original name
 Lentinus punctaticeps Berk. & Broome, 1882

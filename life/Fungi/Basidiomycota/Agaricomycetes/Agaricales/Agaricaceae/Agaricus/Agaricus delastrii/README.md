@@ -1,5 +1,4 @@
-Agaricus delastrii Mont. SPECIES
-=======
+# Agaricus delastrii Mont. SPECIES
 
 #### Status
 ACCEPTED

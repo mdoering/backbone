@@ -1,5 +1,4 @@
-Sphaeria onosmodina Peck & M.A. Curtis SPECIES
-=======
+# Sphaeria onosmodina Peck & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

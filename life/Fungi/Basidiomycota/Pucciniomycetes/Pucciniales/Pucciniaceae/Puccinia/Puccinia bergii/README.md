@@ -1,5 +1,4 @@
-Puccinia bergii Speg. SPECIES
-=======
+# Puccinia bergii Speg. SPECIES
 
 #### Status
 ACCEPTED

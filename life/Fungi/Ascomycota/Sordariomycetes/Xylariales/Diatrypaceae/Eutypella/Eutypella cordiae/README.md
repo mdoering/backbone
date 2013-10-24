@@ -1,5 +1,4 @@
-Eutypella cordiae Syd. SPECIES
-=======
+# Eutypella cordiae Syd. SPECIES
 
 #### Status
 ACCEPTED

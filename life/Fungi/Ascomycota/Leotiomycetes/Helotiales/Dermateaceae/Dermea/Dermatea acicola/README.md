@@ -1,5 +1,4 @@
-Dermatea acicola Briard & Sacc. SPECIES
-=======
+# Dermatea acicola Briard & Sacc. SPECIES
 
 #### Status
 ACCEPTED

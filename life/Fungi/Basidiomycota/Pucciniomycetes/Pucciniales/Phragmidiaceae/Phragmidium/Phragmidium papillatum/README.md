@@ -1,5 +1,4 @@
-Phragmidium papillatum Dietel SPECIES
-=======
+# Phragmidium papillatum Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia ivae Dearn. SPECIES
-=======
+# Ramularia ivae Dearn. SPECIES
 
 #### Status
 ACCEPTED

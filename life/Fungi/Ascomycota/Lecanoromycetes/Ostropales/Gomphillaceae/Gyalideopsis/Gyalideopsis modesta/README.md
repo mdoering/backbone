@@ -1,5 +1,4 @@
-Gyalideopsis modesta Vezda & Poelt SPECIES
-=======
+# Gyalideopsis modesta Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

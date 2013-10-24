@@ -1,5 +1,4 @@
-Pucciniastrum potentillae Körn. SPECIES
-=======
+# Pucciniastrum potentillae Körn. SPECIES
 
 #### Status
 ACCEPTED

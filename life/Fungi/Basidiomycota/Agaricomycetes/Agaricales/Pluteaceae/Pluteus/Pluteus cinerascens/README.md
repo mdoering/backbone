@@ -1,5 +1,4 @@
-Pluteus cinerascens P. Banerjee & Sundb. SPECIES
-=======
+# Pluteus cinerascens P. Banerjee & Sundb. SPECIES
 
 #### Status
 ACCEPTED

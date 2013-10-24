@@ -1,5 +1,4 @@
-Septoria globosa Strasser SPECIES
-=======
+# Septoria globosa Strasser SPECIES
 
 #### Status
 ACCEPTED

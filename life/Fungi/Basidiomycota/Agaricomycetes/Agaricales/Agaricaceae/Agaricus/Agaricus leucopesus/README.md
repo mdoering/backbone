@@ -1,5 +1,4 @@
-Agaricus leucopesus Holmsk. SPECIES
-=======
+# Agaricus leucopesus Holmsk. SPECIES
 
 #### Status
 ACCEPTED

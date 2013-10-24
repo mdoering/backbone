@@ -1,8 +1,7 @@
-Diplobacillus moraxenfeld McNab, 1904 SPECIES
-=======
+# Diplobacillus GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

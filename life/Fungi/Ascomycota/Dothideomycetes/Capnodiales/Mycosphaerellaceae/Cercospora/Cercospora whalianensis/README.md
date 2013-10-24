@@ -1,5 +1,4 @@
-Cercospora whalianensis J.M. Yen & S.H. Sun SPECIES
-=======
+# Cercospora whalianensis J.M. Yen & S.H. Sun SPECIES
 
 #### Status
 ACCEPTED

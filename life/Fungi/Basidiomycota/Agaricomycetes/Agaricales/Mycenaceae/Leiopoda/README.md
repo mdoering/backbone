@@ -1,5 +1,4 @@
-Leiopoda GENUS
-=======
+# Leiopoda GENUS
 
 #### Status
 ACCEPTED

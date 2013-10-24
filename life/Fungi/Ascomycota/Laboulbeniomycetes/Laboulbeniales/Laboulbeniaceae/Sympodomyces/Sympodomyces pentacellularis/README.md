@@ -1,5 +1,4 @@
-Sympodomyces pentacellularis R.K. Benj., 1973 SPECIES
-=======
+# Sympodomyces pentacellularis R.K. Benj., 1973 SPECIES
 
 #### Status
 ACCEPTED

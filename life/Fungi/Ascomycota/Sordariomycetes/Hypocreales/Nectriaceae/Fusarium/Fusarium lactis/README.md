@@ -1,14 +1,13 @@
-Fusarium moniliforme var. lactis (Pirotta & Riboni) Bilai, 1987 VARIETY
-=======
+# Fusarium lactis Pirotta, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikrobiol. Zh. 49(6): 7 (1987)
+Arch. Critt. 2: 316 (1879)
 
 #### Original name
 Fusarium lactis Pirotta, 1879

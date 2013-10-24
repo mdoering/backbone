@@ -1,5 +1,4 @@
-Syncladium Rabenh. GENUS
-=======
+# Syncladium Rabenh. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphlosporonites discitypicus P. Ke & Z.Y. Shi SPECIES
-=======
+# Staphlosporonites discitypicus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus weberianus Murrill SPECIES
-=======
+# Agaricus weberianus Murrill SPECIES
 
 #### Status
 ACCEPTED

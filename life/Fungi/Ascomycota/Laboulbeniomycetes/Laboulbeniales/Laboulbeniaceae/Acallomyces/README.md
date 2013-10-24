@@ -1,5 +1,4 @@
-Acallomyces Thaxt. GENUS
-=======
+# Acallomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

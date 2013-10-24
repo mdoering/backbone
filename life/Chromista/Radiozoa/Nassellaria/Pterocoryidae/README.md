@@ -1,5 +1,4 @@
-Pterocoryidae Haeckel, 1881 FAMILY
-=======
+# Pterocoryidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

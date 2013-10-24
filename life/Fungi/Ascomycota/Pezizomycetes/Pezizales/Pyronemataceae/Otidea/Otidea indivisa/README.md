@@ -1,5 +1,4 @@
-Otidea indivisa Velen. SPECIES
-=======
+# Otidea indivisa Velen. SPECIES
 
 #### Status
 ACCEPTED

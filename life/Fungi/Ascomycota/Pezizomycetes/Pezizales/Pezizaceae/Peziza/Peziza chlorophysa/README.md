@@ -1,5 +1,4 @@
-Peziza chlorophysa (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Peziza chlorophysa (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

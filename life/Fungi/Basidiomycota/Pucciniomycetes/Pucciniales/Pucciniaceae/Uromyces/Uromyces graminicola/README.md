@@ -1,5 +1,4 @@
-Uromyces graminicola Burrill SPECIES
-=======
+# Uromyces graminicola Burrill SPECIES
 
 #### Status
 ACCEPTED

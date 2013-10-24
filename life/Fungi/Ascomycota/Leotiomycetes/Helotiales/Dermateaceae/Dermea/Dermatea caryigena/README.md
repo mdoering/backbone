@@ -1,5 +1,4 @@
-Dermatea caryigena Ellis & Everh. SPECIES
-=======
+# Dermatea caryigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium favaceum Arthur SPECIES
-=======
+# Aecidium favaceum Arthur SPECIES
 
 #### Status
 ACCEPTED

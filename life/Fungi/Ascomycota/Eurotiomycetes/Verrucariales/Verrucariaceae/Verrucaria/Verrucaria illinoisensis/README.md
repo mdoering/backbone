@@ -1,5 +1,4 @@
-Verrucaria illinoisensis Servít SPECIES
-=======
+# Verrucaria illinoisensis Servít SPECIES
 
 #### Status
 ACCEPTED

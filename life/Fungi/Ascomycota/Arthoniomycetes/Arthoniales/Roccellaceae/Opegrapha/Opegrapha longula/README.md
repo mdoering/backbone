@@ -1,5 +1,4 @@
-Opegrapha longula Nyl. SPECIES
-=======
+# Opegrapha longula Nyl. SPECIES
 
 #### Status
 ACCEPTED

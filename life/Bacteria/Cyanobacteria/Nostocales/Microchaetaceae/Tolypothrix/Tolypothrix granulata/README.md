@@ -1,8 +1,7 @@
-Hassallia granulata Gardner SPECIES
-=======
+# Tolypothrix granulata (Gardner) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

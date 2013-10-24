@@ -1,5 +1,4 @@
-Septoria abeliae Byzova SPECIES
-=======
+# Septoria abeliae Byzova SPECIES
 
 #### Status
 ACCEPTED

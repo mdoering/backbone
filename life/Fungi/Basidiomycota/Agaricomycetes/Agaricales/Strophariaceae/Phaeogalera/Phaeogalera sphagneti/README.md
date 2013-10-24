@@ -1,5 +1,4 @@
-Phaeogalera sphagneti Kühner, 1973 SPECIES
-=======
+# Phaeogalera sphagneti Kühner, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvasporina Bene GENUS
-=======
+# Uvasporina Bene GENUS
 
 #### Status
 ACCEPTED

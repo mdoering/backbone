@@ -1,5 +1,4 @@
-Synchytrium piriforme Reinsch SPECIES
-=======
+# Synchytrium piriforme Reinsch SPECIES
 
 #### Status
 ACCEPTED

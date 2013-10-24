@@ -1,5 +1,4 @@
-Chamaeceras putredinis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras putredinis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

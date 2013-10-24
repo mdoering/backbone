@@ -1,5 +1,4 @@
-Navicella intermedia (Sacc.) Kuntze SPECIES
-=======
+# Navicella intermedia (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

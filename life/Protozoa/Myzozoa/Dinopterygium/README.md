@@ -1,14 +1,13 @@
-Toolongia I.C. Cookson & A. Eisenack, 1960 GENUS
-=======
+# Dinopterygium Deflandre, 1935 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Micropaleontology 6: 14.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Anabaena elliptica Lemmermann SPECIES
-=======
+# Anabaena elliptica Lemmermann SPECIES
 
 #### Status
 ACCEPTED

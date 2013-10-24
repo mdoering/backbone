@@ -1,5 +1,4 @@
-Clavaria brasiliensis (Lév.) Mont. SPECIES
-=======
+# Clavaria brasiliensis (Lév.) Mont. SPECIES
 
 #### Status
 ACCEPTED

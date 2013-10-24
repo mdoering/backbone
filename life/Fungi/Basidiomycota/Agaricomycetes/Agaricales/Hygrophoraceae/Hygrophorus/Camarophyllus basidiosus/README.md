@@ -1,5 +1,4 @@
-Camarophyllus basidiosus (Peck) Murrill SPECIES
-=======
+# Camarophyllus basidiosus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

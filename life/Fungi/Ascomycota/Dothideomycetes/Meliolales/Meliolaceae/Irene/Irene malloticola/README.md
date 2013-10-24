@@ -1,5 +1,4 @@
-Irene malloticola W. Yamam. SPECIES
-=======
+# Irene malloticola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

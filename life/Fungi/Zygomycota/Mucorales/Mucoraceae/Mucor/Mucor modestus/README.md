@@ -1,5 +1,4 @@
-Mucor modestus Bainier SPECIES
-=======
+# Mucor modestus Bainier SPECIES
 
 #### Status
 ACCEPTED

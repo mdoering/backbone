@@ -1,5 +1,4 @@
-Gyrocerus divergens Peck SPECIES
-=======
+# Gyrocerus divergens Peck SPECIES
 
 #### Status
 ACCEPTED

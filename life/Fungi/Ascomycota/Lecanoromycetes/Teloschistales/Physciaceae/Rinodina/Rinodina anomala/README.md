@@ -1,5 +1,4 @@
-Rinodina anomala (Zahlbr.) H. Mayrhofer & Giralt SPECIES
-=======
+# Rinodina anomala (Zahlbr.) H. Mayrhofer & Giralt SPECIES
 
 #### Status
 ACCEPTED

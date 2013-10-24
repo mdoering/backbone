@@ -1,5 +1,4 @@
-Amphimorphina Neugeboren, 1850 GENUS
-=======
+# Amphimorphina Neugeboren, 1850 GENUS
 
 #### Status
 ACCEPTED

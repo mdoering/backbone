@@ -1,5 +1,4 @@
-Meliola malpighiae (Hansf.) Cif. SPECIES
-=======
+# Meliola malpighiae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

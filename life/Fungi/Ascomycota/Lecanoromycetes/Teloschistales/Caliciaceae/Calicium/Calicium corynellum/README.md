@@ -1,17 +1,16 @@
-Calicium paroicum subsp. paroicum Ach. SUBSPECIES
-=======
+# Calicium corynellum (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Method. Lich. 94 (1803)
 
 #### Original name
-Calicium paroicum subsp. paroicum Ach.
+Lichen corynellus Ach.
 
 ### Remarks
 null

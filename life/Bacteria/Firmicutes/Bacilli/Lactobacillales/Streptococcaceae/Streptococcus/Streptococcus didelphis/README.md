@@ -1,5 +1,4 @@
-Streptococcus didelphis Rurangirwa et al., 2000 SPECIES
-=======
+# Streptococcus didelphis Rurangirwa et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

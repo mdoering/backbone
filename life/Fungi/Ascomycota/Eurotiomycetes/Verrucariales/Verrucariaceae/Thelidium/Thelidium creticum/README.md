@@ -1,5 +1,4 @@
-Thelidium creticum J. Steiner SPECIES
-=======
+# Thelidium creticum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

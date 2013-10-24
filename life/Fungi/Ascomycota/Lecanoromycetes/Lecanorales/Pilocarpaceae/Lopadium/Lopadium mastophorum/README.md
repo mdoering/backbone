@@ -1,5 +1,4 @@
-Lopadium mastophorum (Vain.) SPECIES
-=======
+# Lopadium mastophorum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

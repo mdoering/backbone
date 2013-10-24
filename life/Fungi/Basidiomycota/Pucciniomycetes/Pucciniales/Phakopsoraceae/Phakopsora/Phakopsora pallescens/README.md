@@ -1,5 +1,4 @@
-Phakopsora pallescens (Arthur) Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora pallescens (Arthur) Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia seijoensis Hirats. f. & S. Sato SPECIES
-=======
+# Puccinia seijoensis Hirats. f. & S. Sato SPECIES
 
 #### Status
 ACCEPTED

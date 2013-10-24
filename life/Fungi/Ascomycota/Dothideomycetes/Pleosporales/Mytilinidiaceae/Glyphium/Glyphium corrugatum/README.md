@@ -1,5 +1,4 @@
-Glyphium corrugatum (Ellis & Everh.) Goree SPECIES
-=======
+# Glyphium corrugatum (Ellis & Everh.) Goree SPECIES
 
 #### Status
 ACCEPTED

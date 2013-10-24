@@ -1,5 +1,4 @@
-Phloeospora J.E. Areschoug, 1873 GENUS
-=======
+# Phloeospora J.E. Areschoug, 1873 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Falcipatella galii Gucevic SPECIES
-=======
+# Falcipatella galii Gucevic SPECIES
 
 #### Status
 ACCEPTED

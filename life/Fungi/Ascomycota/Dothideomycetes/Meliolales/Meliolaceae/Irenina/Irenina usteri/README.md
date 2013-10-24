@@ -1,5 +1,4 @@
-Irenina usteri Hansf. SPECIES
-=======
+# Irenina usteri Hansf. SPECIES
 
 #### Status
 ACCEPTED

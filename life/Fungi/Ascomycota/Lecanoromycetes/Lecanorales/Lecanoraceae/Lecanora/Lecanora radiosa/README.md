@@ -1,5 +1,4 @@
-Lecanora radiosa var. radiosa VARIETY
-=======
+# Lecanora radiosa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Enum. critic. lich. europ. (Bern) 61 (1850)
+null
 
 #### Original name
-Lecanora radiosa var. radiosa
+null
 
 ### Remarks
 null

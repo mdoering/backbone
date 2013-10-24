@@ -1,14 +1,13 @@
-Dermocybe olivaceofusca (Kühner) Quadr., 1985 SPECIES
-=======
+# Cortinarius olivaceofuscus Kühner, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 14(no. 56): 27 (1985)
+Bull. mens. Soc. linn. Lyon 24(2): 39 (1955)
 
 #### Original name
 Cortinarius olivaceofuscus Kühner, 1955

@@ -1,5 +1,4 @@
-Septoria riparia Pass., 1879 SPECIES
-=======
+# Septoria riparia Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED

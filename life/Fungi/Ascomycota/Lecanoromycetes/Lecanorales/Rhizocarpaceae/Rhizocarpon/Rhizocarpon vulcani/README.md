@@ -1,5 +1,4 @@
-Rhizocarpon vulcani May. Inoue SPECIES
-=======
+# Rhizocarpon vulcani May. Inoue SPECIES
 
 #### Status
 ACCEPTED

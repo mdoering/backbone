@@ -1,17 +1,16 @@
-Dasyscypha bubakii Klika SPECIES
-=======
+# Dasyscyphus bubakii Klika SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20(5/6): 290 (1922)
 
 #### Original name
-Dasyscypha bubakii Klika
+Dasyscyphus bubakii Klika
 
 ### Remarks
 null

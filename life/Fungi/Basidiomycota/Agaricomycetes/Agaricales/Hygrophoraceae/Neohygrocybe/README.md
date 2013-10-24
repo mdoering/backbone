@@ -1,5 +1,4 @@
-Neohygrocybe GENUS
-=======
+# Neohygrocybe GENUS
 
 #### Status
 ACCEPTED

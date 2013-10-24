@@ -1,5 +1,4 @@
-Graphis subnitens Nyl. SPECIES
-=======
+# Graphis subnitens Nyl. SPECIES
 
 #### Status
 ACCEPTED

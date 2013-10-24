@@ -1,5 +1,4 @@
-Hymenoscyphus cremeus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus cremeus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

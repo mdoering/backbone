@@ -1,5 +1,4 @@
-Marasmius schizopus Secr. ex Sacc. SPECIES
-=======
+# Marasmius schizopus Secr. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

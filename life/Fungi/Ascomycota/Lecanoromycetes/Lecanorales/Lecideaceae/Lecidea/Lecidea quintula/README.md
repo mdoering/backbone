@@ -1,5 +1,4 @@
-Lecidea quintula Nyl. SPECIES
-=======
+# Lecidea quintula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthostigma curvisetum McAlpine SPECIES
-=======
+# Acanthostigma curvisetum McAlpine SPECIES
 
 #### Status
 ACCEPTED

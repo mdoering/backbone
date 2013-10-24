@@ -1,5 +1,4 @@
-Spongipellis chubutensis J.E. Wright & J.R. Deschamps, 1972 SPECIES
-=======
+# Spongipellis chubutensis J.E. Wright & J.R. Deschamps, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium expansum Arthur SPECIES
-=======
+# Aecidium expansum Arthur SPECIES
 
 #### Status
 ACCEPTED

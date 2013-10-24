@@ -1,5 +1,4 @@
-Menisporopsis theobromae S. Hughes, 1952 SPECIES
-=======
+# Menisporopsis theobromae S. Hughes, 1952 SPECIES
 
 #### Status
 ACCEPTED

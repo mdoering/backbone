@@ -1,5 +1,4 @@
-Fusarium fragariae ined. SPECIES
-=======
+# Fusarium fragariae ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena charkowiensis Swirenkq SPECIES
-=======
+# Euglena charkowiensis Swirenkq SPECIES
 
 #### Status
 ACCEPTED

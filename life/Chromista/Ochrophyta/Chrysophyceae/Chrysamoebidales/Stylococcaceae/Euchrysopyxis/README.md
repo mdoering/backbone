@@ -1,5 +1,4 @@
-Euchrysopyxis Lemmermann, 1899 GENUS
-=======
+# Euchrysopyxis Lemmermann, 1899 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum pandani Henn. SPECIES
-=======
+# Epicoccum pandani Henn. SPECIES
 
 #### Status
 ACCEPTED

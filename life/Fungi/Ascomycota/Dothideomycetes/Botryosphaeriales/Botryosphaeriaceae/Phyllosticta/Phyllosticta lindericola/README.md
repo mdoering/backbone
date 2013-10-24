@@ -1,5 +1,4 @@
-Phyllosticta lindericola Ellis & Everh. SPECIES
-=======
+# Phyllosticta lindericola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

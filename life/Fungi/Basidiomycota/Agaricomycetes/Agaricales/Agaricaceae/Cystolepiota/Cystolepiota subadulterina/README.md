@@ -1,5 +1,4 @@
-Cystolepiota subadulterina Bon SPECIES
-=======
+# Cystolepiota subadulterina Bon SPECIES
 
 #### Status
 ACCEPTED

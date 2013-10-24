@@ -1,5 +1,4 @@
-Cortinarius phaeocephalus E. Horak SPECIES
-=======
+# Cortinarius phaeocephalus E. Horak SPECIES
 
 #### Status
 ACCEPTED

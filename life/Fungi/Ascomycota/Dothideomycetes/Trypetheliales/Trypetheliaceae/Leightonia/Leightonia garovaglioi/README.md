@@ -1,8 +1,7 @@
-Leightonia garovaglii (Mont.) Trevis. SPECIES
-=======
+# Leightonia garovaglioi (Mont.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

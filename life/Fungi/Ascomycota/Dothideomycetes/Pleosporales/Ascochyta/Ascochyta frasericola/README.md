@@ -1,17 +1,16 @@
-Ascochyta fraseriicola Melnik SPECIES
-=======
+# Ascochyta frasericola Melnik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 8: 211 (1971)
 
 #### Original name
-Ascochyta fraseriicola Melnik
+Ascochyta fraserae Sacc.
 
 ### Remarks
 null

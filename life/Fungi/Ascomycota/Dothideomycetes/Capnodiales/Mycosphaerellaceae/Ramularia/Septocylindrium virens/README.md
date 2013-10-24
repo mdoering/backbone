@@ -1,5 +1,4 @@
-Septocylindrium virens Sacc. SPECIES
-=======
+# Septocylindrium virens Sacc. SPECIES
 
 #### Status
 ACCEPTED

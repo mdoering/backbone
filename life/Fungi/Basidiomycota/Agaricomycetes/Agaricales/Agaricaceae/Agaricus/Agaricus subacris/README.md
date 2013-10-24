@@ -1,5 +1,4 @@
-Agaricus subacris Cumino SPECIES
-=======
+# Agaricus subacris Cumino SPECIES
 
 #### Status
 ACCEPTED

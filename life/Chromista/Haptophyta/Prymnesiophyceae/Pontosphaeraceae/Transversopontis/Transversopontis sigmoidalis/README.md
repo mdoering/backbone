@@ -1,5 +1,4 @@
-Transversopontis sigmoidalis Locker, 1967 SPECIES
-=======
+# Transversopontis sigmoidalis Locker, 1967 SPECIES
 
 #### Status
 ACCEPTED

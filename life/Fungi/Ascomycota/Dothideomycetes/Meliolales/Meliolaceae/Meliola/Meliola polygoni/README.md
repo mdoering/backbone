@@ -1,5 +1,4 @@
-Meliola polygoni Srinivasulu SPECIES
-=======
+# Meliola polygoni Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

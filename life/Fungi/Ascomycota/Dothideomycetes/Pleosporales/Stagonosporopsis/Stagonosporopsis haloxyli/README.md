@@ -1,5 +1,4 @@
-Stagonosporopsis haloxyli Syd. & P. Syd. SPECIES
-=======
+# Stagonosporopsis haloxyli Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

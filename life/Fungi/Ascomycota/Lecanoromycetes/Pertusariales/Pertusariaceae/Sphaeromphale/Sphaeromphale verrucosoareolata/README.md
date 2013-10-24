@@ -1,5 +1,4 @@
-Sphaeromphale verrucosoareolata (Schaer.) Mudd SPECIES
-=======
+# Sphaeromphale verrucosoareolata (Schaer.) Mudd SPECIES
 
 #### Status
 ACCEPTED

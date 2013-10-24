@@ -1,5 +1,4 @@
-Sinainella El-Dakkak, 1975 GENUS
-=======
+# Sinainella El-Dakkak, 1975 GENUS
 
 #### Status
 ACCEPTED

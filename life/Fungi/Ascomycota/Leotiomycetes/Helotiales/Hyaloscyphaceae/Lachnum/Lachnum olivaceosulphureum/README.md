@@ -1,5 +1,4 @@
-Lachnum olivaceosulphureum Rick SPECIES
-=======
+# Lachnum olivaceosulphureum Rick SPECIES
 
 #### Status
 ACCEPTED

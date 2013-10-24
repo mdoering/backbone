@@ -1,5 +1,4 @@
-Lecidella granulosula (Nyl.) Knoph & Leuckert SPECIES
-=======
+# Lecidella granulosula (Nyl.) Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

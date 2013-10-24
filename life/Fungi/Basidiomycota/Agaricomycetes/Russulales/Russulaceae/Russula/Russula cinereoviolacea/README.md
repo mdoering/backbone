@@ -1,5 +1,4 @@
-Russula cinereoviolacea Allesch. SPECIES
-=======
+# Russula cinereoviolacea Allesch. SPECIES
 
 #### Status
 ACCEPTED

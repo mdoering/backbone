@@ -1,17 +1,16 @@
-Phacidiella Potebnia GENUS
-=======
+# Potebniamyces Smerlis, 1962 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Z. PflKrankh. PflPath. PflSchutz 22: 147 (1912)
+null
 
 #### Original name
-Phacidiella Potebnia
+null
 
 ### Remarks
 null

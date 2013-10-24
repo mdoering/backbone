@@ -1,5 +1,4 @@
-Didymosphaeria cocoes-capitatae Caball. SPECIES
-=======
+# Didymosphaeria cocoes-capitatae Caball. SPECIES
 
 #### Status
 ACCEPTED

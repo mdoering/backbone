@@ -1,5 +1,4 @@
-Biatora pezizoidea Naegeli SPECIES
-=======
+# Biatora pezizoidea Naegeli SPECIES
 
 #### Status
 ACCEPTED

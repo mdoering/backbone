@@ -1,5 +1,4 @@
-Uncinuliella simulans var. simulans VARIETY
-=======
+# Uncinuliella simulans (E.S. Salmon) R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta microbiol. sin. 19(3): 286 (1979)
 
 #### Original name
-Uncinuliella simulans var. simulans
+Uncinula simulans E.S. Salmon
 
 ### Remarks
 null

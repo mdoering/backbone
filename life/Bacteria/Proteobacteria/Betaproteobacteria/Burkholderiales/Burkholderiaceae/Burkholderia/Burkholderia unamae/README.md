@@ -1,5 +1,4 @@
-Burkholderia unamae Caballero-Mellado et al., 2004 SPECIES
-=======
+# Burkholderia unamae Caballero-Mellado et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

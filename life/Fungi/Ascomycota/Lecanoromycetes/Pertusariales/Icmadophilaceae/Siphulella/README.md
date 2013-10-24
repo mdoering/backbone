@@ -1,5 +1,4 @@
-Siphulella Kantvilas, Elix & P. James GENUS
-=======
+# Siphulella Kantvilas, Elix & P. James GENUS
 
 #### Status
 ACCEPTED

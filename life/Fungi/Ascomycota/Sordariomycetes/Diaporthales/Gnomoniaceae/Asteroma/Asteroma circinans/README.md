@@ -1,5 +1,4 @@
-Asteroma circinans Desm. SPECIES
-=======
+# Asteroma circinans Desm. SPECIES
 
 #### Status
 ACCEPTED

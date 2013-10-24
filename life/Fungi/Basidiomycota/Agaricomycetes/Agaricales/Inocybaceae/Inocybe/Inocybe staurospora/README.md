@@ -1,5 +1,4 @@
-Inocybe staurospora (E. Horak) Garrido SPECIES
-=======
+# Inocybe staurospora (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

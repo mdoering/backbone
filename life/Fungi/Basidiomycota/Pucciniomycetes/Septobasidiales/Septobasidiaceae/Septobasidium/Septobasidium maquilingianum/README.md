@@ -1,5 +1,4 @@
-Septobasidium maquilingianum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium maquilingianum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerophragmium monodorae Vienn.-Bourg., 1952 SPECIES
-=======
+# Sphaerophragmium chevalieri Har. & Pat., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 67: 433 (1952)
+Bull. Soc. mycol. Fr. 25: 2 (1909)
 
 #### Original name
-Sphaerophragmium monodorae Vienn.-Bourg., 1952
+Sphaerophragmium chevalieri Har. & Pat., 1909
 
 ### Remarks
 null

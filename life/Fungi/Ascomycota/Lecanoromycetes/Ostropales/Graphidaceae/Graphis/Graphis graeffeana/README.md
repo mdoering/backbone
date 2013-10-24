@@ -1,5 +1,4 @@
-Graphis graeffeana Kremp. SPECIES
-=======
+# Graphis graeffeana Kremp. SPECIES
 
 #### Status
 ACCEPTED

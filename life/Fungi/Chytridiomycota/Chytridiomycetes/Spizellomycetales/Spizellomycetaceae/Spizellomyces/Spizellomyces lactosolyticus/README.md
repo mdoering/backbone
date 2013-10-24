@@ -1,5 +1,4 @@
-Spizellomyces lactosolyticus D.J.S. Barr, 1984 SPECIES
-=======
+# Spizellomyces lactosolyticus D.J.S. Barr, 1984 SPECIES
 
 #### Status
 ACCEPTED

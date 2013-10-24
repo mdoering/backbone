@@ -1,5 +1,4 @@
-Clavaria granulata Balb. SPECIES
-=======
+# Clavaria granulata Balb. SPECIES
 
 #### Status
 ACCEPTED

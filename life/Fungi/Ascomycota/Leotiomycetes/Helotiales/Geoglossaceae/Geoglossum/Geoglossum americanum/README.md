@@ -1,5 +1,4 @@
-Geoglossum americanum Cooke SPECIES
-=======
+# Geoglossum americanum Cooke SPECIES
 
 #### Status
 ACCEPTED

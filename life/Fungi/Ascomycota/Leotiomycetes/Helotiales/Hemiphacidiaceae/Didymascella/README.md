@@ -1,17 +1,16 @@
-Keithia Sacc. GENUS
-=======
+# Didymascella Maire & Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 49 (1892)
+Annls mycol. 1(5): 418 (1903)
 
 #### Original name
-Keithia Sacc.
+Didymascella Maire & Sacc.
 
 ### Remarks
 null

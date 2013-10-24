@@ -1,5 +1,4 @@
-Cylindrosporium kelloggii Ellis & Everh. SPECIES
-=======
+# Cylindrosporium kelloggii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

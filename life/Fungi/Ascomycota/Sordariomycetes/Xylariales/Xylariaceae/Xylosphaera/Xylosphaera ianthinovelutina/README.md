@@ -1,5 +1,4 @@
-Xylosphaera ianthinovelutina (Mont.) Dennis SPECIES
-=======
+# Xylosphaera ianthinovelutina (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

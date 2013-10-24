@@ -1,5 +1,4 @@
-Pseudotripoconidium Z.F. Yu, Ying Zhang & K.Q. Zhang GENUS
-=======
+# Pseudotripoconidium Z.F. Yu, Ying Zhang & K.Q. Zhang GENUS
 
 #### Status
 ACCEPTED

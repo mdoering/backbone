@@ -1,5 +1,4 @@
-Pestalotia gibberosa Sacc. SPECIES
-=======
+# Pestalotia gibberosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

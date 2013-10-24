@@ -1,5 +1,4 @@
-Usnea tahitiensis Räsänen SPECIES
-=======
+# Usnea tahitiensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium absinthii Peck SPECIES
-=======
+# Helminthosporium absinthii Peck SPECIES
 
 #### Status
 ACCEPTED

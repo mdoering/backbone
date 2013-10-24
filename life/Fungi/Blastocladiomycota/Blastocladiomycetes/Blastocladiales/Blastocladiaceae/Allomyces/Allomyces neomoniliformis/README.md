@@ -1,5 +1,4 @@
-Allomyces neomoniliformis Indoh, 1940 SPECIES
-=======
+# Allomyces neomoniliformis Indoh, 1940 SPECIES
 
 #### Status
 ACCEPTED

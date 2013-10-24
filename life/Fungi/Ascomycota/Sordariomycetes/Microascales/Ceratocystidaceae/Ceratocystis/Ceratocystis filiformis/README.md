@@ -1,5 +1,4 @@
-Ceratocystis filiformis Roldan SPECIES
-=======
+# Ceratocystis filiformis Roldan SPECIES
 
 #### Status
 ACCEPTED

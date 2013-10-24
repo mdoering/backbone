@@ -1,8 +1,7 @@
-Cellulomonas cellulans (Metcalf & Brown, 1957) Stackebrandt & Keddie, 1988 SPECIES
-=======
+# Cellulosimicrobium cellulans (Metcalf & Brown, 1957) Schumann et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

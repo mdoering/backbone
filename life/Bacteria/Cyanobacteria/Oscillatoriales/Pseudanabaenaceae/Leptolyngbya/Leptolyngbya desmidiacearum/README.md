@@ -1,5 +1,4 @@
-Leptolyngbya desmidiacearum (Noda) I. Umezaki & M. Watanabe SPECIES
-=======
+# Leptolyngbya desmidiacearum (Noda) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium freneyi Renaud et al., 2001 SPECIES
-=======
+# Corynebacterium freneyi Renaud et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conotrochammina abyssorum Saidova, 1975 SPECIES
-=======
+# Conotrochammina abyssorum Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

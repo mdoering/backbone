@@ -1,5 +1,4 @@
-Asteromella moliniae Syd. SPECIES
-=======
+# Asteromella moliniae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora psoraleae-bituminosa Savul. & Sandu SPECIES
-=======
+# Cercospora psoraleae-bituminosae Savul. & Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. Sect. sci. Acad. Roum. , Ser. 3 15: 485 (1940)
 
 #### Original name
-Cercospora psoraleae-bituminosa Savul. & Sandu
+Cercospora psoraleae-bituminosae Savul. & Sandu
 
 ### Remarks
 null

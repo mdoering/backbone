@@ -1,5 +1,4 @@
-Pseudocercosporella eryngii (Westend.) U. Braun SPECIES
-=======
+# Pseudocercosporella eryngii (Westend.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

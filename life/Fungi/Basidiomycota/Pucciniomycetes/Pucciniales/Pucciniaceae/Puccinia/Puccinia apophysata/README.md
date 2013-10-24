@@ -1,5 +1,4 @@
-Puccinia apophysata Rabenh. SPECIES
-=======
+# Puccinia apophysata Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eiffellithus striatus SPECIES
-=======
+# Eiffellithus striatus SPECIES
 
 #### Status
 ACCEPTED

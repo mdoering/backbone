@@ -1,5 +1,4 @@
-Trombetta rugiceps (Berk. & Cooke) Kuntze SPECIES
-=======
+# Trombetta rugiceps (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

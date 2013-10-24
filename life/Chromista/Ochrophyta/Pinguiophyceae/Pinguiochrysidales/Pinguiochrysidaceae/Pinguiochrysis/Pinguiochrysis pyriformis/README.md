@@ -1,5 +1,4 @@
-Pinguiochrysis pyriformis Kawachi, M., Atsumi, M., Ikemoto, H. & Miyachi, S. SPECIES
-=======
+# Pinguiochrysis pyriformis Kawachi, M., Atsumi, M., Ikemoto, H. & Miyachi, S. SPECIES
 
 #### Status
 ACCEPTED

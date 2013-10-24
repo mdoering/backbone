@@ -1,17 +1,16 @@
-Thelotrema glaucescens var. glaucescens VARIETY
-=======
+# Leucodecton glaucescens (Nyl.) Frisch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 92: 162 (2006)
 
 #### Original name
-Thelotrema glaucescens var. glaucescens
+Thelotrema glaucescens Nyl.
 
 ### Remarks
 null

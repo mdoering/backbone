@@ -1,5 +1,4 @@
-Ectotrichophyton nodiformans (Castell.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton nodiformans (Castell.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

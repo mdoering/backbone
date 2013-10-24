@@ -1,5 +1,4 @@
-Punctelia colombiana Sérus. SPECIES
-=======
+# Punctelia colombiana Sérus. SPECIES
 
 #### Status
 ACCEPTED

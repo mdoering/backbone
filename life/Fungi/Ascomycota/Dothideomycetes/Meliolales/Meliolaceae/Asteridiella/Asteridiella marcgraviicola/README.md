@@ -1,5 +1,4 @@
-Asteridiella marcgraviicola Hansf. SPECIES
-=======
+# Asteridiella marcgraviicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora carrollii Linds. SPECIES
-=======
+# Lecanora carrollii Linds. SPECIES
 
 #### Status
 ACCEPTED

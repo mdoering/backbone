@@ -1,5 +1,4 @@
-Rinodina deflectens (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Rinodina deflectens (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

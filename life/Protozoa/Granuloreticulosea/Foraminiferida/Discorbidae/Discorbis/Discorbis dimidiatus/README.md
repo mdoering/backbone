@@ -1,5 +1,4 @@
-Discorbis dimidiatus SPECIES
-=======
+# Discorbis dimidiatus SPECIES
 
 #### Status
 ACCEPTED

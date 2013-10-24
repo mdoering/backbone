@@ -1,5 +1,4 @@
-Porina colchica Vezda SPECIES
-=======
+# Porina colchica Vezda SPECIES
 
 #### Status
 ACCEPTED

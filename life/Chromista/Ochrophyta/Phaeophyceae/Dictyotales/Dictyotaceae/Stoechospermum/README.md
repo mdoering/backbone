@@ -1,5 +1,4 @@
-Stoechospermum Kützing, 1843 GENUS
-=======
+# Stoechospermum Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

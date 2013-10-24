@@ -1,17 +1,16 @@
-Cercospora cephalentherae Ondrej & Zavrel SPECIES
-=======
+# Cercospora cephalantherae Ondrej & Zavrel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cas. slezsk. Mus. Opave 20(1): 22 (1971)
 
 #### Original name
-Cercospora cephalentherae Ondrej & Zavrel
+Cercospora cephalantherae Ondrej & Zavrel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Melaspilea proximella f. proximella FORM
-=======
+# Melaspilea proximella (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Norrlin, Not. Sällsk. Fauna et Fl. Fenn. Förh. 13: 342 (1873)
 
 #### Original name
-Melaspilea proximella f. proximella
+Arthonia proximella Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gloeocystidiellum fimbriatum Burds., Nakasone & G.W. Freeman, 1981 SPECIES
-=======
+# Gloeocystidiellum fimbriatum Burds., Nakasone & G.W. Freeman, 1981 SPECIES
 
 #### Status
 ACCEPTED

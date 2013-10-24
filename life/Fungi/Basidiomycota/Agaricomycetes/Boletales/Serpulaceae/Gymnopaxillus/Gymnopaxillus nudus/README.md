@@ -1,5 +1,4 @@
-Gymnopaxillus nudus Claridge, Trappe & Castellano, 2001 SPECIES
-=======
+# Gymnopaxillus nudus Claridge, Trappe & Castellano, 2001 SPECIES
 
 #### Status
 ACCEPTED

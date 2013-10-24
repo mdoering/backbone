@@ -1,5 +1,4 @@
-Systematophora areolata Klement, 1960 SPECIES
-=======
+# Systematophora areolata Klement, 1960 SPECIES
 
 #### Status
 ACCEPTED

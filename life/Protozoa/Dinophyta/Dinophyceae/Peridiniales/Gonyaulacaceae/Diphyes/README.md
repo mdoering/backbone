@@ -1,14 +1,13 @@
-Lingulasphaera W.S. Drugg, 1970 GENUS
-=======
+# Diphyes I.C. Cookson, 1965 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. R. Soc. Vict. 78: 85.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Gloeosporium silenicola Annal. SPECIES
-=======
+# Gloeosporium silenicola Annal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella subfulva (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diatrypella subfulva (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

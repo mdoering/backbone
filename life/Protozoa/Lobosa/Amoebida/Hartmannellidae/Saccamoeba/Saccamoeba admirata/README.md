@@ -1,5 +1,4 @@
-Saccamoeba admirata Goodkov & Buryakov, 1987 SPECIES
-=======
+# Saccamoeba admirata Goodkov & Buryakov, 1987 SPECIES
 
 #### Status
 ACCEPTED

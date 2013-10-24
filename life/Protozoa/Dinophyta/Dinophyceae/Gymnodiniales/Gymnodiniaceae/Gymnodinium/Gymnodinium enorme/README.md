@@ -1,5 +1,4 @@
-Gymnodinium enorme Ballantine SPECIES
-=======
+# Gymnodinium enorme Ballantine SPECIES
 
 #### Status
 ACCEPTED

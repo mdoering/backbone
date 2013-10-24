@@ -1,5 +1,4 @@
-Catapyrenium elisavetae (Tomin) Baibul. SPECIES
-=======
+# Catapyrenium elisavetae (Tomin) Baibul. SPECIES
 
 #### Status
 ACCEPTED

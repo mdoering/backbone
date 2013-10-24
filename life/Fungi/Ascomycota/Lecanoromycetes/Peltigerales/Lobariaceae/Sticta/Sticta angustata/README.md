@@ -1,5 +1,4 @@
-Sticta angustata Delise SPECIES
-=======
+# Sticta angustata Delise SPECIES
 
 #### Status
 ACCEPTED

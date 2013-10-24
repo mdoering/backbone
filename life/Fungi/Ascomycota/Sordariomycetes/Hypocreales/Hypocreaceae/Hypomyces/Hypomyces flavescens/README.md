@@ -1,5 +1,4 @@
-Hypomyces flavescens (Schwein.) Cooke SPECIES
-=======
+# Hypomyces flavescens (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

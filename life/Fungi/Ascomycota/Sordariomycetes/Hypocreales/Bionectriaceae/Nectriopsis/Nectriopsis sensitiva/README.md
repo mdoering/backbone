@@ -1,5 +1,4 @@
-Nectriopsis sensitiva (Rehm) Samuels SPECIES
-=======
+# Nectriopsis sensitiva (Rehm) Samuels SPECIES
 
 #### Status
 ACCEPTED

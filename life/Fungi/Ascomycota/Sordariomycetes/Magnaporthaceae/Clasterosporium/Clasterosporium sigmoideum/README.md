@@ -1,5 +1,4 @@
-Clasterosporium sigmoideum Ellis & Everh. SPECIES
-=======
+# Clasterosporium sigmoideum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

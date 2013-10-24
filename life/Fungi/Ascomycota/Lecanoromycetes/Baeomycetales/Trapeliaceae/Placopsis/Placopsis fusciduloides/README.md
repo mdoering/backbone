@@ -1,5 +1,4 @@
-Placopsis fusciduloides D. J. Galloway SPECIES
-=======
+# Placopsis fusciduloides D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

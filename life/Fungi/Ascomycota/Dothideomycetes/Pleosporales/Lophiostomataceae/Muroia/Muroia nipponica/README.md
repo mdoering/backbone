@@ -1,5 +1,4 @@
-Muroia nipponica I. Hino & Katum., 1958 SPECIES
-=======
+# Muroia nipponica I. Hino & Katum., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella sabaligena Ellis & Everh. SPECIES
-=======
+# Sphaerella sabaligena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

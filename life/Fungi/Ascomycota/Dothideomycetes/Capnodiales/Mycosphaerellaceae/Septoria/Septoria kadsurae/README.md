@@ -1,5 +1,4 @@
-Septoria kadsurae Tassi SPECIES
-=======
+# Septoria kadsurae Tassi SPECIES
 
 #### Status
 ACCEPTED

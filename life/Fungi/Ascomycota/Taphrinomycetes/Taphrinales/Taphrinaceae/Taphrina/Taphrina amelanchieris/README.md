@@ -1,5 +1,4 @@
-Taphrina amelanchieris Mix SPECIES
-=======
+# Taphrina amelanchieris Mix SPECIES
 
 #### Status
 ACCEPTED

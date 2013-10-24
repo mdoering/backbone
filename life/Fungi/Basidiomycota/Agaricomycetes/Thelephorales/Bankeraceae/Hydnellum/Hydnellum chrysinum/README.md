@@ -1,5 +1,4 @@
-Hydnellum chrysinum K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum chrysinum K.A. Harrison, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotiniaceae Whetzel FAMILY
-=======
+# Sclerotiniaceae Whetzel FAMILY
 
 #### Status
 ACCEPTED

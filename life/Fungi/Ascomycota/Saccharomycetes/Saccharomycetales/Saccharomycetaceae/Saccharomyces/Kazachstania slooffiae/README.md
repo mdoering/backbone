@@ -1,5 +1,4 @@
-Kazachstania slooffiae Kurtzman & Robnett, 2005 SPECIES
-=======
+# Kazachstania slooffiae Kurtzman & Robnett, 2005 SPECIES
 
 #### Status
 ACCEPTED

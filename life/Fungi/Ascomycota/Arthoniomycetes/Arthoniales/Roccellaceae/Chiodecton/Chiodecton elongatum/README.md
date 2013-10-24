@@ -1,5 +1,4 @@
-Chiodecton elongatum Vain. SPECIES
-=======
+# Chiodecton elongatum Vain. SPECIES
 
 #### Status
 ACCEPTED

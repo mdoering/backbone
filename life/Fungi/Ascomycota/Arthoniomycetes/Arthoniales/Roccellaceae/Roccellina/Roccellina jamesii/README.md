@@ -1,5 +1,4 @@
-Roccellina jamesii Tehler SPECIES
-=======
+# Roccellina jamesii Tehler SPECIES
 
 #### Status
 ACCEPTED

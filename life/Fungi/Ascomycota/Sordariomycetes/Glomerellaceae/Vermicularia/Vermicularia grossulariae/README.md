@@ -1,5 +1,4 @@
-Vermicularia grossulariae Fuckel SPECIES
-=======
+# Vermicularia grossulariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

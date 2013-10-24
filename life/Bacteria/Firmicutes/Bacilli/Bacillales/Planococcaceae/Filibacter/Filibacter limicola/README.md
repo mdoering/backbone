@@ -1,5 +1,4 @@
-Filibacter limicola Maiden & Jones, 1985 SPECIES
-=======
+# Filibacter limicola Maiden & Jones, 1985 SPECIES
 
 #### Status
 ACCEPTED

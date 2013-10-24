@@ -1,5 +1,4 @@
-Passalora incarnata (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora incarnata (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

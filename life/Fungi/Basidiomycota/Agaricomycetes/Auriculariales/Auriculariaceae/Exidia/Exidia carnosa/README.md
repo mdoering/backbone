@@ -1,5 +1,4 @@
-Exidia carnosa Holterm. SPECIES
-=======
+# Exidia carnosa Holterm. SPECIES
 
 #### Status
 ACCEPTED

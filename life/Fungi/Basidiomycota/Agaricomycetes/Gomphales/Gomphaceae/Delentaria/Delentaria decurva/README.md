@@ -1,5 +1,4 @@
-Delentaria decurva Corner, 1970 SPECIES
-=======
+# Delentaria decurva Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

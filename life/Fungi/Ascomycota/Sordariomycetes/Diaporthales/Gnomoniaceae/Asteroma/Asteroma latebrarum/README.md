@@ -1,5 +1,4 @@
-Asteroma latebrarum Grognot SPECIES
-=======
+# Asteroma latebrarum Grognot SPECIES
 
 #### Status
 ACCEPTED

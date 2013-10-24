@@ -1,5 +1,4 @@
-Gymnosporangium corniculus F. Kern SPECIES
-=======
+# Gymnosporangium corniculus F. Kern SPECIES
 
 #### Status
 ACCEPTED

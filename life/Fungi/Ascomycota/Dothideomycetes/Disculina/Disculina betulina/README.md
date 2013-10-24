@@ -1,5 +1,4 @@
-Disculina betulina (Sacc.) Höhn. SPECIES
-=======
+# Disculina betulina (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

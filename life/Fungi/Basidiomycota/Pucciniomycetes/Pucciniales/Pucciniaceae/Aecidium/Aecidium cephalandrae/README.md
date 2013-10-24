@@ -1,5 +1,4 @@
-Aecidium cephalandrae Cooke SPECIES
-=======
+# Aecidium cephalandrae Cooke SPECIES
 
 #### Status
 ACCEPTED

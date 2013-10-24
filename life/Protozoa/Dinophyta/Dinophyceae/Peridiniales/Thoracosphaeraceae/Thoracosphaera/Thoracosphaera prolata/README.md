@@ -1,5 +1,4 @@
-Thoracosphaera prolata Bukry & Bramlette, 1969 SPECIES
-=======
+# Thoracosphaera prolata Bukry & Bramlette, 1969 SPECIES
 
 #### Status
 ACCEPTED

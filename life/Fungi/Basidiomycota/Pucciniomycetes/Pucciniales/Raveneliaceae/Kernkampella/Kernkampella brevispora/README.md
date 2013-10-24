@@ -1,14 +1,13 @@
-Ravenelia brevispora Hirats. f. & Hashioka, 1935 SPECIES
-=======
+# Kernkampella brevispora (Hirats. f. & Hashioka) G.F. Laundon, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 49: 522 (1935)
+Mycotaxon 3(1): 142 (1975)
 
 #### Original name
 Ravenelia brevispora Hirats. f. & Hashioka, 1935

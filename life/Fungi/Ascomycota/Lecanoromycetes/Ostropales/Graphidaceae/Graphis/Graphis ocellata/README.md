@@ -1,5 +1,4 @@
-Graphis ocellata Zahlbr. SPECIES
-=======
+# Graphis ocellata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

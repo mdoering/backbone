@@ -1,5 +1,4 @@
-Stereum lignosum Bacc. SPECIES
-=======
+# Stereum lignosum Bacc. SPECIES
 
 #### Status
 ACCEPTED

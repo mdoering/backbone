@@ -1,5 +1,4 @@
-Pterula aciculaeformis Lloyd SPECIES
-=======
+# Pterula aciculaeformis Lloyd SPECIES
 
 #### Status
 ACCEPTED

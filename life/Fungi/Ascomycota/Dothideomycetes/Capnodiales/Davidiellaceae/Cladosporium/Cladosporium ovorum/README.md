@@ -1,5 +1,4 @@
-Cladosporium ovorum Pidopl. & Deniak SPECIES
-=======
+# Cladosporium ovorum Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED

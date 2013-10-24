@@ -1,5 +1,4 @@
-Trochila juncicola Rostr. SPECIES
-=======
+# Trochila juncicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

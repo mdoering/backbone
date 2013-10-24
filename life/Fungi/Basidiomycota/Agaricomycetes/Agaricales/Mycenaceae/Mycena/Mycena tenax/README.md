@@ -1,5 +1,4 @@
-Mycena tenax A.H. Sm. SPECIES
-=======
+# Mycena tenax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

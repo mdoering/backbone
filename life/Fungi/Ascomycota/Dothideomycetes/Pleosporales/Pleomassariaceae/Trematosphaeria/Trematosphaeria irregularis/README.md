@@ -1,5 +1,4 @@
-Trematosphaeria irregularis Fabre SPECIES
-=======
+# Trematosphaeria irregularis Fabre SPECIES
 
 #### Status
 ACCEPTED

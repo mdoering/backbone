@@ -1,5 +1,4 @@
-Graphina babingtonii (Mont.) Zahlbr. SPECIES
-=======
+# Graphina babingtonii (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

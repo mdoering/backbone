@@ -1,5 +1,4 @@
-Ramalina caespitella G. N. Stevens SPECIES
-=======
+# Ramalina caespitella G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

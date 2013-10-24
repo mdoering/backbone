@@ -1,8 +1,7 @@
-Valsa rubincola (Schwein.) Cooke SPECIES
-=======
+# Valsa rubicola (Schwein.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

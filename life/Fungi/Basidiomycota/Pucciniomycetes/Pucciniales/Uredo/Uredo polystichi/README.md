@@ -1,5 +1,4 @@
-Uredo polystichi Wineland SPECIES
-=======
+# Uredo polystichi Wineland SPECIES
 
 #### Status
 ACCEPTED

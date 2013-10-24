@@ -1,5 +1,4 @@
-Cortinarius aleuriodor Rob. Henry SPECIES
-=======
+# Cortinarius aleuriodor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

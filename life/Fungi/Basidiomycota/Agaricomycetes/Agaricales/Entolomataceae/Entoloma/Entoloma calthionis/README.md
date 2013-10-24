@@ -1,5 +1,4 @@
-Entoloma calthionis Arnolds & Noordel., 1979 SPECIES
-=======
+# Entoloma calthionis Arnolds & Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED

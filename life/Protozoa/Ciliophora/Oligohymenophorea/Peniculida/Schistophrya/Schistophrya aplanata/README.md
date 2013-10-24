@@ -1,5 +1,4 @@
-Schistophrya aplanata Kahl, 1933 SPECIES
-=======
+# Schistophrya aplanata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

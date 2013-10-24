@@ -1,5 +1,4 @@
-Pezizella millaris anon. SPECIES
-=======
+# Pezizella millaris anon. SPECIES
 
 #### Status
 ACCEPTED

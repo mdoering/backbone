@@ -1,5 +1,4 @@
-Placodium subcaeruleum Maheu & Werner SPECIES
-=======
+# Placodium subcaeruleum Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

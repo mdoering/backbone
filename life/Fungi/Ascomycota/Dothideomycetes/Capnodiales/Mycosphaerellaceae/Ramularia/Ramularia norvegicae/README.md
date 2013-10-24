@@ -1,5 +1,4 @@
-Ramularia norvegicae Peck SPECIES
-=======
+# Ramularia norvegicae Peck SPECIES
 
 #### Status
 ACCEPTED

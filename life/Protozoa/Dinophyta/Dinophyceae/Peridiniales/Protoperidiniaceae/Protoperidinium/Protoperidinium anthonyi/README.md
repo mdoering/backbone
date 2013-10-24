@@ -1,5 +1,4 @@
-Protoperidinium anthonyi (F. Fremiet) Balech SPECIES
-=======
+# Protoperidinium anthonyi (F. Fremiet) Balech SPECIES
 
 #### Status
 ACCEPTED

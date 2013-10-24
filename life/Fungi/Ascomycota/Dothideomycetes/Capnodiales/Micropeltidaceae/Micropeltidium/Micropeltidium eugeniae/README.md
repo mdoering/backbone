@@ -1,5 +1,4 @@
-Micropeltidium eugeniae Bat. & Peres SPECIES
-=======
+# Micropeltidium eugeniae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

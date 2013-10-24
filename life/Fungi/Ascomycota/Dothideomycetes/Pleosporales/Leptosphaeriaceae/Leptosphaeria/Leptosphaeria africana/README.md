@@ -1,5 +1,4 @@
-Leptosphaeria africana Saccas SPECIES
-=======
+# Leptosphaeria africana Saccas SPECIES
 
 #### Status
 ACCEPTED

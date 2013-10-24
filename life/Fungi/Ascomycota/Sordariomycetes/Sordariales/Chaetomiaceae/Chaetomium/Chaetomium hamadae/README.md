@@ -1,17 +1,16 @@
-Thielavia variospora Cain, 1961 SPECIES
-=======
+# Chaetomium hamadae (Udagawa) Arx, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 39: 1234 (1961)
+Proc. Indian Acad. Sci. , Pl. Sci. 94(2-3): 343 (1985)
 
 #### Original name
-Thielavia variospora Cain, 1961
+Achaetomium hamadae Udagawa, 1982
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletopsis Fayod, 1889 GENUS
-=======
+# Boletopsis Fayod, 1889 GENUS
 
 #### Status
 ACCEPTED

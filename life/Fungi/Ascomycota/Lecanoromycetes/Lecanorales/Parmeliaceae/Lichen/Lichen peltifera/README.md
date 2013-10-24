@@ -1,5 +1,4 @@
-Lichen peltifera Wulfen SPECIES
-=======
+# Lichen peltifera Wulfen SPECIES
 
 #### Status
 ACCEPTED

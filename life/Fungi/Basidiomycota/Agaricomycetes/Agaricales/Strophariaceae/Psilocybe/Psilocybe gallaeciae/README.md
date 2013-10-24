@@ -1,5 +1,4 @@
-Psilocybe gallaeciae Guzmán & M.L. Castro SPECIES
-=======
+# Psilocybe gallaeciae Guzmán & M.L. Castro SPECIES
 
 #### Status
 ACCEPTED

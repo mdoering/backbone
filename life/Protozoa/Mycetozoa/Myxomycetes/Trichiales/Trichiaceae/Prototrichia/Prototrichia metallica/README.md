@@ -1,17 +1,16 @@
-Trichia flagellifera Berk. & Broome SPECIES
-=======
+# Prototrichia metallica (Berk.) Massee, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 18: 56 (1866)
+J. Roy. Microscop. Soc. 350 (1889)
 
 #### Original name
-Trichia flagellifera Berk. & Broome
+Trichia metallica Berk., 1859
 
 ### Remarks
 null
