@@ -1,5 +1,4 @@
-Sphaerostilbe rosea Kalchbr. & Cooke SPECIES
-=======
+# Sphaerostilbe rosea Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

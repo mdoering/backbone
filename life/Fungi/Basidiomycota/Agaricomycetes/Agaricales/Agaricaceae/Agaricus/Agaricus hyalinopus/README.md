@@ -1,5 +1,4 @@
-Agaricus hyalinopus Secr. SPECIES
-=======
+# Agaricus hyalinopus Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus vilis (Fr.) Sacc. SPECIES
-=======
+# Clitopilus vilis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

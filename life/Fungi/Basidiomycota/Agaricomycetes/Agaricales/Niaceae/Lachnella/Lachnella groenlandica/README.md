@@ -1,5 +1,4 @@
-Lachnella groenlandica Rostr. SPECIES
-=======
+# Lachnella groenlandica Rostr. SPECIES
 
 #### Status
 ACCEPTED

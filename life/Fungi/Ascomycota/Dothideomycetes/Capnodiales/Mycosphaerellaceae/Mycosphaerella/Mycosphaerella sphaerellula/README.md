@@ -1,5 +1,4 @@
-Mycosphaerella sphaerellula (Peck) M.E. Barr SPECIES
-=======
+# Mycosphaerella sphaerellula (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

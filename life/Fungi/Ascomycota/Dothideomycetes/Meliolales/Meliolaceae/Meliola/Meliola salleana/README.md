@@ -1,5 +1,4 @@
-Meliola salleana var. salleana Hansf. VARIETY
-=======
+# Meliola salleana Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Beih. Sydowia (1961)
+Sydowia 16: 310 (1963)
 
 #### Original name
-Meliola salleana var. salleana Hansf.
+Meliola salleana Hansf.
 
 ### Remarks
 null

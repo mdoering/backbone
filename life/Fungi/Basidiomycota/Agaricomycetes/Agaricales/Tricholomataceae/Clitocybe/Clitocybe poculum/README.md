@@ -1,5 +1,4 @@
-Clitocybe poculum Peck SPECIES
-=======
+# Clitocybe poculum Peck SPECIES
 
 #### Status
 ACCEPTED

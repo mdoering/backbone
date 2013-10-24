@@ -1,5 +1,4 @@
-Sphaeria aequilinearis Schwein. SPECIES
-=======
+# Sphaeria aequilinearis Schwein. SPECIES
 
 #### Status
 ACCEPTED

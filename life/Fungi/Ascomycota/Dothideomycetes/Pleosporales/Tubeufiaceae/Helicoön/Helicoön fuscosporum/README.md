@@ -1,5 +1,4 @@
-Helicoön fuscosporum Linder, 1929 SPECIES
-=======
+# Helicoön fuscosporum Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

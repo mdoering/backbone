@@ -1,5 +1,4 @@
-Pestalotiopsis acrocomiarum Bat. SPECIES
-=======
+# Pestalotiopsis acrocomiarum Bat. SPECIES
 
 #### Status
 ACCEPTED

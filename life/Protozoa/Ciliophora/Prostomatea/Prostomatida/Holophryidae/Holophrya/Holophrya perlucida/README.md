@@ -1,5 +1,4 @@
-Holophrya perlucida Gajevskaja, 1927 SPECIES
-=======
+# Holophrya perlucida Gajevskaja, 1927 SPECIES
 
 #### Status
 ACCEPTED

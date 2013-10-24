@@ -1,14 +1,13 @@
-Celothelium stenobelum (Nyl.) M.B. Aguirre SPECIES
-=======
+# Celothelium stenobolum (Nyl.) M.B. Aguirre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 21(2): 143 (1991)
 
 #### Original name
 Verrucaria stenobola Nyl.

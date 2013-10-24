@@ -1,5 +1,4 @@
-Cortinarius persicanus Soop, 2001 SPECIES
-=======
+# Cortinarius persicanus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

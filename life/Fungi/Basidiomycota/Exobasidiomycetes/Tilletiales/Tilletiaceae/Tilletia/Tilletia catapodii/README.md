@@ -1,5 +1,4 @@
-Tilletia catapodii H. Scholz & Vánky, 2001 SPECIES
-=======
+# Tilletia catapodii H. Scholz & Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

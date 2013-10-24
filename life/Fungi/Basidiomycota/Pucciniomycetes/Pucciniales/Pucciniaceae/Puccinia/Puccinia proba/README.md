@@ -1,5 +1,4 @@
-Puccinia proba H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia proba H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

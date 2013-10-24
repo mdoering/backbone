@@ -1,14 +1,13 @@
-Myriotrema schizostomum (Tuck.) Hale SPECIES
-=======
+# Stegobolus schizostomus (Tuck.) Frisch & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 135 (1980)
+Biblthca Lichenol. 92: 487 (2006)
 
 #### Original name
 Thelotrema schizostomum Tuck.

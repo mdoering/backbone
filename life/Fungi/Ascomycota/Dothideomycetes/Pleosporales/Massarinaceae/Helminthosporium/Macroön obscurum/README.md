@@ -1,5 +1,4 @@
-Macroön obscurum Corda SPECIES
-=======
+# Macroön obscurum Corda SPECIES
 
 #### Status
 ACCEPTED

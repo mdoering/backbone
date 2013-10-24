@@ -1,5 +1,4 @@
-Thyrea confusa Henssen SPECIES
-=======
+# Thyrea confusa Henssen SPECIES
 
 #### Status
 ACCEPTED

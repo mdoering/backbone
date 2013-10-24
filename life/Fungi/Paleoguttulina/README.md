@@ -1,5 +1,4 @@
-Paleoguttulina Locquin & Misík, 1983 GENUS
-=======
+# Paleoguttulina Locquin & Misík, 1983 GENUS
 
 #### Status
 ACCEPTED

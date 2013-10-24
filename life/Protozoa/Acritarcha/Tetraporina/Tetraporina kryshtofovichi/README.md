@@ -1,5 +1,4 @@
-Tetraporina kryshtofovichi Naumova in Einor, 1986 SPECIES
-=======
+# Tetraporina kryshtofovichi Naumova in Einor, 1986 SPECIES
 
 #### Status
 ACCEPTED

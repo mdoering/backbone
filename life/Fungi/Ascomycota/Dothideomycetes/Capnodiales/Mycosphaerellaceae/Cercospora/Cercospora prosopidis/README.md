@@ -1,5 +1,4 @@
-Cercospora prosopidis Heald & F.A. Wolf SPECIES
-=======
+# Cercospora prosopidis Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

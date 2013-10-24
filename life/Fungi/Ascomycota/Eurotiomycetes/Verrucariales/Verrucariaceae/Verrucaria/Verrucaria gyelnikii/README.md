@@ -1,5 +1,4 @@
-Verrucaria gyelnikii var. gyelnikii VARIETY
-=======
+# Verrucaria gyelnikii Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria gyelnikii var. gyelnikii
+Verrucaria gyelnikii Servít
 
 ### Remarks
 null

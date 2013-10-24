@@ -1,5 +1,4 @@
-Cercosporina sarachae Syd. SPECIES
-=======
+# Cercosporina sarachae Syd. SPECIES
 
 #### Status
 ACCEPTED

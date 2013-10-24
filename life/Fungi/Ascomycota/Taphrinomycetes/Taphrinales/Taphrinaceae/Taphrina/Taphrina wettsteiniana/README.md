@@ -1,5 +1,4 @@
-Taphrina wettsteiniana Herzfeld, 1910 SPECIES
-=======
+# Taphrina wettsteiniana Herzfeld, 1910 SPECIES
 
 #### Status
 ACCEPTED

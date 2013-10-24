@@ -1,5 +1,4 @@
-Dicaeoma erraticum (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma erraticum (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

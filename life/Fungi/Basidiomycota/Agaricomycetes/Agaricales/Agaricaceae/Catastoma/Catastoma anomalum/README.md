@@ -1,5 +1,4 @@
-Catastoma anomalum (Cooke & Massee) Lloyd SPECIES
-=======
+# Catastoma anomalum (Cooke & Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

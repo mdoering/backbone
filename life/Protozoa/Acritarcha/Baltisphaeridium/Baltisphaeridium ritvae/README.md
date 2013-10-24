@@ -1,5 +1,4 @@
-Baltisphaeridium ritvae Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium ritvae Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

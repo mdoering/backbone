@@ -1,5 +1,4 @@
-Volutella scopula Boulanger SPECIES
-=======
+# Volutella scopula Boulanger SPECIES
 
 #### Status
 ACCEPTED

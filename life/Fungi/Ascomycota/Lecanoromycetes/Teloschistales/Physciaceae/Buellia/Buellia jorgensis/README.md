@@ -1,5 +1,4 @@
-Buellia jorgensis Zahlbr. SPECIES
-=======
+# Buellia jorgensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

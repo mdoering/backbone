@@ -1,5 +1,4 @@
-Cornutosphaera Sin, 1973 GENUS
-=======
+# Cornutosphaera Sin, 1973 GENUS
 
 #### Status
 ACCEPTED

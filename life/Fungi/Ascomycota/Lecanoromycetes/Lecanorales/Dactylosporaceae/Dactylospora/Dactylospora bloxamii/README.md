@@ -1,14 +1,13 @@
-Karschia bloxamii (Berk. & W. Phillips) Sacc. SPECIES
-=======
+# Dactylospora bloxamii (Berk.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 8: 781 (1889)
+Nova Hedwigia, Beih. 62: 103 (1979)
 
 #### Original name
 null

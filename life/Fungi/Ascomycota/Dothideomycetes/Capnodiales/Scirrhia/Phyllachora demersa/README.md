@@ -1,5 +1,4 @@
-Phyllachora demersa (Corda) Sacc., 1883 SPECIES
-=======
+# Phyllachora demersa (Corda) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

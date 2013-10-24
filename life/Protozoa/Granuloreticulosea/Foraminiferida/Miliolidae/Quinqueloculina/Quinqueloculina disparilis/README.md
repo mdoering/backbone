@@ -1,5 +1,4 @@
-Quinqueloculina disparilis SPECIES
-=======
+# Quinqueloculina disparilis SPECIES
 
 #### Status
 ACCEPTED

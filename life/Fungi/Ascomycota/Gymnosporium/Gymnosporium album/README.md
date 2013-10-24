@@ -1,5 +1,4 @@
-Gymnosporium album Corda SPECIES
-=======
+# Gymnosporium album Corda SPECIES
 
 #### Status
 ACCEPTED

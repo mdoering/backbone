@@ -1,14 +1,13 @@
-Nectria candicans (Plowr.) Samuels, 1973 SPECIES
-=======
+# Nectriopsis candicans (Plowr.) Maire, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(2): 412 (1973)
+Annls mycol. 9(4): 324 (1911)
 
 #### Original name
 Hypomyces candicans Plowr., 1882

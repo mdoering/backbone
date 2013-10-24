@@ -1,5 +1,4 @@
-Laboulbenia bradycelli Balazuc SPECIES
-=======
+# Laboulbenia bradycelli Balazuc SPECIES
 
 #### Status
 ACCEPTED

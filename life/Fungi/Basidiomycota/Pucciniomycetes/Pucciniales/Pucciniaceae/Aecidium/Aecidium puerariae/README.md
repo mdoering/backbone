@@ -1,5 +1,4 @@
-Aecidium puerariae Henn. SPECIES
-=======
+# Aecidium puerariae Henn. SPECIES
 
 #### Status
 ACCEPTED

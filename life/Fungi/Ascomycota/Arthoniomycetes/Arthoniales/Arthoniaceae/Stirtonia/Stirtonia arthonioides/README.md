@@ -1,5 +1,4 @@
-Stirtonia arthonioides Groenh. SPECIES
-=======
+# Stirtonia arthonioides Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora egenula Syd., 1938 SPECIES
-=======
+# Phyllachora egenula Syd., 1938 SPECIES
 
 #### Status
 DOUBTFUL

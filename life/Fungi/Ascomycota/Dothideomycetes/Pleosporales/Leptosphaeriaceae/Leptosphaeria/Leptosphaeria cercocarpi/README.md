@@ -1,5 +1,4 @@
-Leptosphaeria cercocarpi Syd. & P. Syd. SPECIES
-=======
+# Leptosphaeria cercocarpi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

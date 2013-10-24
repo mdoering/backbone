@@ -1,17 +1,16 @@
-Lecanora hagenii f. hagenii FORM
-=======
+# Lecanora hagenii (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. 367 (1810)
 
 #### Original name
-Lecanora hagenii f. hagenii
+Lichen hagenii Ach.
 
 ### Remarks
 null

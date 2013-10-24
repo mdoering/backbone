@@ -1,5 +1,4 @@
-Caloplaca tauriliana (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca tauriliana (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

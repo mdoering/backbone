@@ -1,5 +1,4 @@
-Dimelaena speciosa SPECIES
-=======
+# Dimelaena speciosa SPECIES
 
 #### Status
 ACCEPTED

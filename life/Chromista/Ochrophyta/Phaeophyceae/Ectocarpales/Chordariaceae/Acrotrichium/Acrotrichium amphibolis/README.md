@@ -1,5 +1,4 @@
-Acrotrichium amphibolis Womersley & Skinner SPECIES
-=======
+# Acrotrichium amphibolis Womersley & Skinner SPECIES
 
 #### Status
 ACCEPTED

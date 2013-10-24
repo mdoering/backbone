@@ -1,5 +1,4 @@
-Lichen urceolaris Schrank SPECIES
-=======
+# Lichen urceolaris Schrank SPECIES
 
 #### Status
 ACCEPTED

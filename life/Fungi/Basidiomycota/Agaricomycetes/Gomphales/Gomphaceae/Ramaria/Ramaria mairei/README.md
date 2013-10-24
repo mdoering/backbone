@@ -1,5 +1,4 @@
-Ramaria mairei Donk SPECIES
-=======
+# Ramaria mairei Donk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus longipes Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus longipes Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

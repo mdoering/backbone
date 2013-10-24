@@ -1,5 +1,4 @@
-Cristigera constricta Madsen, ? SPECIES
-=======
+# Cristigera constricta Madsen, ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Notorotalia Finlay, 1939 GENUS
-=======
+# Notorotalia Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

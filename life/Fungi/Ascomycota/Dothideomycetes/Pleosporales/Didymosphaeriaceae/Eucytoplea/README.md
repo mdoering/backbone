@@ -1,5 +1,4 @@
-Eucytoplea Petrak & Sydow, 1927 GENUS
-=======
+# Eucytoplea Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

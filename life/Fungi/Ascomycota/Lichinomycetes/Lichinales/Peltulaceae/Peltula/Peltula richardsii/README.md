@@ -1,5 +1,4 @@
-Peltula richardsii (Herre) Wetmore SPECIES
-=======
+# Peltula richardsii (Herre) Wetmore SPECIES
 
 #### Status
 ACCEPTED

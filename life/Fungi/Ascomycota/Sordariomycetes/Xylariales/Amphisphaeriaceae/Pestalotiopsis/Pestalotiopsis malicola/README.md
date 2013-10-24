@@ -1,5 +1,4 @@
-Pestalotiopsis malicola (Hori) X.A. Sun & Q.X. Ge SPECIES
-=======
+# Pestalotiopsis malicola (Hori) X.A. Sun & Q.X. Ge SPECIES
 
 #### Status
 ACCEPTED

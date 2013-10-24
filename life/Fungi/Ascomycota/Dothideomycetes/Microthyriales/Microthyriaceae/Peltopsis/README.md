@@ -1,5 +1,4 @@
-Peltopsis GENUS
-=======
+# Peltopsis GENUS
 
 #### Status
 ACCEPTED

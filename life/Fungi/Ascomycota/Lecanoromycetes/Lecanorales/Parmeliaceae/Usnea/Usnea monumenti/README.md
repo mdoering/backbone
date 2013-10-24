@@ -1,5 +1,4 @@
-Usnea monumenti Fée SPECIES
-=======
+# Usnea monumenti Fée SPECIES
 
 #### Status
 ACCEPTED

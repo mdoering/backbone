@@ -1,5 +1,4 @@
-Verrucaria pallidocarpa Servít SPECIES
-=======
+# Verrucaria pallidocarpa Servít SPECIES
 
 #### Status
 ACCEPTED

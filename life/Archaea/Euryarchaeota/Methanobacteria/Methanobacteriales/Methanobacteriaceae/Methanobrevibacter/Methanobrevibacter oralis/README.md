@@ -1,5 +1,4 @@
-Methanobrevibacter oralis Ferrari et al., 1995 SPECIES
-=======
+# Methanobrevibacter oralis Ferrari et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

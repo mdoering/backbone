@@ -1,5 +1,4 @@
-Cercospora celosiarum A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora celosiarum A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

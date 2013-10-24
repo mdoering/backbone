@@ -1,5 +1,4 @@
-Vaucheria lii Rieth SPECIES
-=======
+# Vaucheria lii Rieth SPECIES
 
 #### Status
 ACCEPTED

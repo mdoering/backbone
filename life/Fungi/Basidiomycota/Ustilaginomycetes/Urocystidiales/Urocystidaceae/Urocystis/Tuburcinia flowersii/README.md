@@ -1,5 +1,4 @@
-Tuburcinia flowersii (Garrett) Cif. SPECIES
-=======
+# Tuburcinia flowersii (Garrett) Cif. SPECIES
 
 #### Status
 ACCEPTED

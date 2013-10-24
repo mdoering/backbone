@@ -1,5 +1,4 @@
-Phyllachora apiahyna Speg., 1889 SPECIES
-=======
+# Phyllachora apiahyna Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

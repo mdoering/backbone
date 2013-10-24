@@ -1,5 +1,4 @@
-Neonema quadratum Pascher SPECIES
-=======
+# Neonema quadratum Pascher SPECIES
 
 #### Status
 ACCEPTED

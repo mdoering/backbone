@@ -1,5 +1,4 @@
-Cryptomonas cryophila D. L. Taylor & C. C. Lee SPECIES
-=======
+# Cryptomonas cryophila D. L. Taylor & C. C. Lee SPECIES
 
 #### Status
 ACCEPTED

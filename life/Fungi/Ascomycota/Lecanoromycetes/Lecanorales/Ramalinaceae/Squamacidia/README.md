@@ -1,5 +1,4 @@
-Squamacidia Brako GENUS
-=======
+# Squamacidia Brako GENUS
 
 #### Status
 ACCEPTED

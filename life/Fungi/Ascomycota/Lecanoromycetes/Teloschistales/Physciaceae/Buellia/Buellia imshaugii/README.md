@@ -1,5 +1,4 @@
-Buellia imshaugii Hafellner SPECIES
-=======
+# Buellia imshaugii Hafellner SPECIES
 
 #### Status
 ACCEPTED

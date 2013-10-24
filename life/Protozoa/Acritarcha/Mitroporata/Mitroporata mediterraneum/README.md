@@ -1,5 +1,4 @@
-Mitroporata mediterraneum Pittau, 1985 SPECIES
-=======
+# Mitroporata mediterraneum Pittau, 1985 SPECIES
 
 #### Status
 ACCEPTED

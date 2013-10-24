@@ -1,5 +1,4 @@
-Coniocybe farinosa Boistel SPECIES
-=======
+# Coniocybe farinosa Boistel SPECIES
 
 #### Status
 ACCEPTED

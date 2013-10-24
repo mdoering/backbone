@@ -1,5 +1,4 @@
-Penicillium hispalense C. Ramírez & A.T. Martínez SPECIES
-=======
+# Penicillium hispalense C. Ramírez & A.T. Martínez SPECIES
 
 #### Status
 ACCEPTED

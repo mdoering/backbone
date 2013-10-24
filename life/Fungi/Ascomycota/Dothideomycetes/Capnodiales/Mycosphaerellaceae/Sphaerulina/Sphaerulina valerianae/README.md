@@ -1,5 +1,4 @@
-Sphaerulina valerianae Speg. SPECIES
-=======
+# Sphaerulina valerianae Speg. SPECIES
 
 #### Status
 ACCEPTED

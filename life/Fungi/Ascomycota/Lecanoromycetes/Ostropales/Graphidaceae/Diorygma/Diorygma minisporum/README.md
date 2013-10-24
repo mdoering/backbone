@@ -1,5 +1,4 @@
-Diorygma minisporum Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma minisporum Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

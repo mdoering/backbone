@@ -1,14 +1,13 @@
-Preussia leporina (Niessl) Arx, 1973 SPECIES
-=======
+# Sporormiella leporina (Niessl) S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 76(3): 294 (1973)
+Can. J. Bot. 50(3): 447 (1972)
 
 #### Original name
 Sporormia leporina Niessl, 1878

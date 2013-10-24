@@ -1,5 +1,4 @@
-Dictyota hamifera Setchell SPECIES
-=======
+# Dictyota hamifera Setchell SPECIES
 
 #### Status
 ACCEPTED

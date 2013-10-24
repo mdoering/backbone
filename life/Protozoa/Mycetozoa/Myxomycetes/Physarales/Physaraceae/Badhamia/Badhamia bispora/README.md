@@ -1,5 +1,4 @@
-Badhamia bispora K.D. Whitney, 1978 SPECIES
-=======
+# Badhamia bispora K.D. Whitney, 1978 SPECIES
 
 #### Status
 ACCEPTED

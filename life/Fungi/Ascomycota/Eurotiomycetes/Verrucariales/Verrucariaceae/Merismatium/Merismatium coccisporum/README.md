@@ -1,5 +1,4 @@
-Merismatium coccisporum (Norman) Vouaux SPECIES
-=======
+# Merismatium coccisporum (Norman) Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium grenseri Auersw. SPECIES
-=======
+# Helotium grenseri Auersw. SPECIES
 
 #### Status
 ACCEPTED

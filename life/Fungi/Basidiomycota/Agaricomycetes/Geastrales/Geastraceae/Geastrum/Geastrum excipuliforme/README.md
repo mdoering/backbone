@@ -1,5 +1,4 @@
-Geastrum excipuliforme anon. SPECIES
-=======
+# Geastrum excipuliforme anon. SPECIES
 
 #### Status
 ACCEPTED

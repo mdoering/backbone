@@ -1,5 +1,4 @@
-Solanella rosea Vanha, 1910 SPECIES
-=======
+# Solanella rosea Vanha, 1910 SPECIES
 
 #### Status
 ACCEPTED

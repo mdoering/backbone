@@ -1,5 +1,4 @@
-Physcia tretiachii Moberg SPECIES
-=======
+# Physcia tretiachii Moberg SPECIES
 
 #### Status
 ACCEPTED

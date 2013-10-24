@@ -1,5 +1,4 @@
-Melosira tethera Haworth SPECIES
-=======
+# Melosira tethera Haworth SPECIES
 
 #### Status
 ACCEPTED

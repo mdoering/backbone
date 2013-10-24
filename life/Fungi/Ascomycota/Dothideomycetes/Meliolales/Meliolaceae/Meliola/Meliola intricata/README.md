@@ -1,5 +1,4 @@
-Meliola intricata Syd. & P. Syd. SPECIES
-=======
+# Meliola intricata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

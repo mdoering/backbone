@@ -1,5 +1,4 @@
-Occultammina profunda Tendal, Swinbanks & Shirayama, 1982 SPECIES
-=======
+# Occultammina profunda Tendal, Swinbanks & Shirayama, 1982 SPECIES
 
 #### Status
 ACCEPTED

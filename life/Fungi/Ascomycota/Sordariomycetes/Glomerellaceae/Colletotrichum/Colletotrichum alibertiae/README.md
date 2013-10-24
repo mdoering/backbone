@@ -1,5 +1,4 @@
-Colletotrichum alibertiae Novoss. SPECIES
-=======
+# Colletotrichum alibertiae Novoss. SPECIES
 
 #### Status
 ACCEPTED

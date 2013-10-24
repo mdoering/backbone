@@ -1,5 +1,4 @@
-Striatotheca loculifera Volkova, 1990 SPECIES
-=======
+# Striatotheca loculifera Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

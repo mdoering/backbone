@@ -1,5 +1,4 @@
-Phyllosticta phaea Sacc. SPECIES
-=======
+# Phyllosticta phaea Sacc. SPECIES
 
 #### Status
 ACCEPTED

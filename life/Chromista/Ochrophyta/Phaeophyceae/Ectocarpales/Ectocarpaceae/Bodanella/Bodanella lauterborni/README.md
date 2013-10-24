@@ -1,5 +1,4 @@
-Bodanella lauterborni SPECIES
-=======
+# Bodanella lauterborni SPECIES
 
 #### Status
 ACCEPTED

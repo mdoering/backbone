@@ -1,5 +1,4 @@
-Hypotrachyna microblastella Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna microblastella Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

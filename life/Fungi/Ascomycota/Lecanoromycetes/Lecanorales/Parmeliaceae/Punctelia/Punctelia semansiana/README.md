@@ -1,5 +1,4 @@
-Punctelia semansiana (W.L. Culb. & C.F. Culb.) Krog SPECIES
-=======
+# Punctelia semansiana (W.L. Culb. & C.F. Culb.) Krog SPECIES
 
 #### Status
 ACCEPTED

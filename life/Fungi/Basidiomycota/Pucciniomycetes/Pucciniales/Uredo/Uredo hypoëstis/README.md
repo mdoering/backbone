@@ -1,5 +1,4 @@
-Uredo hypoëstis (Cooke) De Toni SPECIES
-=======
+# Uredo hypoëstis (Cooke) De Toni SPECIES
 
 #### Status
 ACCEPTED

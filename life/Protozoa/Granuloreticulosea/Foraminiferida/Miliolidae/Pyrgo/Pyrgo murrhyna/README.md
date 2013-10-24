@@ -1,5 +1,4 @@
-Pyrgo murrhyna (Schwager) SPECIES
-=======
+# Pyrgo murrhyna (Schwager) SPECIES
 
 #### Status
 ACCEPTED

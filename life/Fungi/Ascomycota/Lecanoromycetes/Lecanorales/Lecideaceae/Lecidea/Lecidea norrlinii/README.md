@@ -1,5 +1,4 @@
-Lecidea norrlinii Lamy SPECIES
-=======
+# Lecidea norrlinii Lamy SPECIES
 
 #### Status
 ACCEPTED

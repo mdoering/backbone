@@ -1,5 +1,4 @@
-Gorgonisphaeridium triangulatum (Downie, 1963) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium triangulatum (Downie, 1963) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

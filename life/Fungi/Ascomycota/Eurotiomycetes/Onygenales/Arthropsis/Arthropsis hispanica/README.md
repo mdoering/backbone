@@ -1,5 +1,4 @@
-Arthropsis hispanica Gené, Ulfig & Guarro, 1995 SPECIES
-=======
+# Arthropsis hispanica Gené, Ulfig & Guarro, 1995 SPECIES
 
 #### Status
 ACCEPTED

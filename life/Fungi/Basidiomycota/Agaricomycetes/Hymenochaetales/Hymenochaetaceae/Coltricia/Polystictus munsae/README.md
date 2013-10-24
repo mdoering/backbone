@@ -1,5 +1,4 @@
-Polystictus munsae Henn. SPECIES
-=======
+# Polystictus munsae Henn. SPECIES
 
 #### Status
 ACCEPTED

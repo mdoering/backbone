@@ -1,5 +1,4 @@
-Stropharia earlei Norvell & Redhead SPECIES
-=======
+# Stropharia earlei Norvell & Redhead SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes focardii Valbonesi & Luporini, 1990 SPECIES
-=======
+# Euplotes focardii Valbonesi & Luporini, 1990 SPECIES
 
 #### Status
 ACCEPTED

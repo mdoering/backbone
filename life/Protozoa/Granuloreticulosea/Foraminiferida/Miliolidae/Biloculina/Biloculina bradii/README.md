@@ -1,5 +1,4 @@
-Biloculina bradii Schlumberger, 1891 SPECIES
-=======
+# Biloculina bradii Schlumberger, 1891 SPECIES
 
 #### Status
 ACCEPTED

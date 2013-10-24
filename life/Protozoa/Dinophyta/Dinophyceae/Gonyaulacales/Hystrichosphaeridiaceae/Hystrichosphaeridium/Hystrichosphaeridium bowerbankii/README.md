@@ -1,5 +1,4 @@
-Hystrichosphaeridium bowerbankii Davey & Williams, 1966 SPECIES
-=======
+# Hystrichosphaeridium bowerbankii Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

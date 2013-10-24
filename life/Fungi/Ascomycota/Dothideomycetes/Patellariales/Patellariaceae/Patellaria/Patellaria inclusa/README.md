@@ -1,5 +1,4 @@
-Patellaria inclusa P. Karst. SPECIES
-=======
+# Patellaria inclusa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

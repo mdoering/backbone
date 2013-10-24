@@ -1,5 +1,4 @@
-Cultellothrix lionotiformis (Kahl, 1930) Foissner, 2003 SPECIES
-=======
+# Cultellothrix lionotiformis (Kahl, 1930) Foissner, 2003 SPECIES
 
 #### Status
 ACCEPTED

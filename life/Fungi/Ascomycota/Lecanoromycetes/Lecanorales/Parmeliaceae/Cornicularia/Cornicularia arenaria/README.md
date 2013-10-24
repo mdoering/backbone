@@ -1,5 +1,4 @@
-Cornicularia arenaria Fr. SPECIES
-=======
+# Cornicularia arenaria Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina pasquaensis Saidova, 1975 SPECIES
-=======
+# Uvigerina pasquaensis Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

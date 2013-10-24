@@ -1,5 +1,4 @@
-Oscillatoria ionica Skuja SPECIES
-=======
+# Oscillatoria ionica Skuja SPECIES
 
 #### Status
 ACCEPTED

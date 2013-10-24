@@ -1,5 +1,4 @@
-Cortinarius conocyboides Carteret SPECIES
-=======
+# Cortinarius conocyboides Carteret SPECIES
 
 #### Status
 ACCEPTED

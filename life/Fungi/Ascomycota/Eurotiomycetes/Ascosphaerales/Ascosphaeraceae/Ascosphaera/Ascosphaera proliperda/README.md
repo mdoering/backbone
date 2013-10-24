@@ -1,5 +1,4 @@
-Ascosphaera proliperda Skou, 1972 SPECIES
-=======
+# Ascosphaera proliperda Skou, 1972 SPECIES
 
 #### Status
 ACCEPTED

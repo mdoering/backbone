@@ -1,5 +1,4 @@
-Toroformis bellus Lopukhin, 1972 SPECIES
-=======
+# Toroformis bellus Lopukhin, 1972 SPECIES
 
 #### Status
 ACCEPTED

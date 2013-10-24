@@ -1,5 +1,4 @@
-Centrospora ohlsenii Neerg. SPECIES
-=======
+# Centrospora ohlsenii Neerg. SPECIES
 
 #### Status
 ACCEPTED

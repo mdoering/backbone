@@ -1,5 +1,4 @@
-Micropeltis leoniae Henn. SPECIES
-=======
+# Micropeltis leoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

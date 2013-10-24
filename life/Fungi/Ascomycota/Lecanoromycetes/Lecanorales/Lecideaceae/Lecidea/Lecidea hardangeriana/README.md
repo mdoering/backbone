@@ -1,5 +1,4 @@
-Lecidea hardangeriana H. Magn. SPECIES
-=======
+# Lecidea hardangeriana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

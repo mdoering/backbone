@@ -1,5 +1,4 @@
-Resupinatus campanulatus (Peck) Murrill SPECIES
-=======
+# Resupinatus campanulatus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

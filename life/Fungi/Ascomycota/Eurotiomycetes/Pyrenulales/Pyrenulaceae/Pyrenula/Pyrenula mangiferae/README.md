@@ -1,5 +1,4 @@
-Pyrenula mangiferae SPECIES
-=======
+# Pyrenula mangiferae SPECIES
 
 #### Status
 ACCEPTED

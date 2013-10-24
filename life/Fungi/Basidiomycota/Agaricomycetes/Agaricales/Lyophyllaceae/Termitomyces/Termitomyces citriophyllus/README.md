@@ -1,5 +1,4 @@
-Termitomyces citriophyllus R. Heim SPECIES
-=======
+# Termitomyces citriophyllus R. Heim SPECIES
 
 #### Status
 ACCEPTED

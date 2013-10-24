@@ -1,5 +1,4 @@
-Dothichloë epichloë Weese SPECIES
-=======
+# Dothichloë epichloë Weese SPECIES
 
 #### Status
 ACCEPTED

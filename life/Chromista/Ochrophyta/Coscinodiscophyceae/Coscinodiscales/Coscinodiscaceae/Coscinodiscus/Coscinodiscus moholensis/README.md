@@ -1,5 +1,4 @@
-Coscinodiscus moholensis H.J. Schrader SPECIES
-=======
+# Coscinodiscus moholensis H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

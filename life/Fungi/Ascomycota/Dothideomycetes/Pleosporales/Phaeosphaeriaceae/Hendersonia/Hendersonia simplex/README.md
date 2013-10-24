@@ -1,5 +1,4 @@
-Hendersonia simplex J. Schröt. SPECIES
-=======
+# Hendersonia simplex J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

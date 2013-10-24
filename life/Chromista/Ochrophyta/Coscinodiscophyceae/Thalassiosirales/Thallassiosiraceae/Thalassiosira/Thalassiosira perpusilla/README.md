@@ -1,5 +1,4 @@
-Thalassiosira perpusilla Kozlova SPECIES
-=======
+# Thalassiosira perpusilla Kozlova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia fagicola Noelli {?} SPECIES
-=======
+# Mollisia fagicola Noelli {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hannaella zeae (Molnár & Prillinger) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Hannaella zeae (Molnár & Prillinger) F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

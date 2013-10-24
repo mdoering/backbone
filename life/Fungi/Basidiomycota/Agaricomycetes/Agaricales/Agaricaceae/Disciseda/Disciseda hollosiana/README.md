@@ -1,5 +1,4 @@
-Disciseda hollosiana Henn. SPECIES
-=======
+# Disciseda hollosiana Henn. SPECIES
 
 #### Status
 ACCEPTED

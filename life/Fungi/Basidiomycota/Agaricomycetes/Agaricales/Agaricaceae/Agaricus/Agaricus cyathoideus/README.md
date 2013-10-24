@@ -1,5 +1,4 @@
-Agaricus cyathoideus Cooke & Massee SPECIES
-=======
+# Agaricus cyathoideus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

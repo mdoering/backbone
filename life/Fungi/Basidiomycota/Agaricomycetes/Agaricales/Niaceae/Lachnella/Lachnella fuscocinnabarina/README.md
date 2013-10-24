@@ -1,5 +1,4 @@
-Lachnella fuscocinnabarina Rehm SPECIES
-=======
+# Lachnella fuscocinnabarina Rehm SPECIES
 
 #### Status
 ACCEPTED

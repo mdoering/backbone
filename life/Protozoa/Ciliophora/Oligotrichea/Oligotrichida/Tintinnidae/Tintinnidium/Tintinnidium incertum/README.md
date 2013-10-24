@@ -1,5 +1,4 @@
-Tintinnidium incertum Brandt, 1906 SPECIES
-=======
+# Tintinnidium incertum Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

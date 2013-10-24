@@ -1,5 +1,4 @@
-Agaricus subcernuus Schulzer SPECIES
-=======
+# Agaricus subcernuus Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces aurantiacus Henn. SPECIES
-=======
+# Dacrymyces aurantiacus Henn. SPECIES
 
 #### Status
 ACCEPTED

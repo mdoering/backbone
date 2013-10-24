@@ -1,5 +1,4 @@
-Polyporus argenteofulvus Van der Byl SPECIES
-=======
+# Polyporus argenteofulvus Van der Byl SPECIES
 
 #### Status
 ACCEPTED

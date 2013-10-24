@@ -1,5 +1,4 @@
-Chaetosphaeria lignomollis F.A. Fernández & Huhndorf SPECIES
-=======
+# Chaetosphaeria lignomollis F.A. Fernández & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

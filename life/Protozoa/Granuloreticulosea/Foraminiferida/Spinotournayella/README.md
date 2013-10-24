@@ -1,5 +1,4 @@
-Spinotournayella GENUS
-=======
+# Spinotournayella GENUS
 
 #### Status
 ACCEPTED

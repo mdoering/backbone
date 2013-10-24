@@ -1,5 +1,4 @@
-Achoropeltis modesta Syd., 1929 SPECIES
-=======
+# Achoropeltis modesta Syd., 1929 SPECIES
 
 #### Status
 ACCEPTED

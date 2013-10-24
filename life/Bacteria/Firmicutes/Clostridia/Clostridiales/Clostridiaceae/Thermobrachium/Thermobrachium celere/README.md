@@ -1,5 +1,4 @@
-Thermobrachium celere Engle et al., 1996 SPECIES
-=======
+# Thermobrachium celere Engle et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

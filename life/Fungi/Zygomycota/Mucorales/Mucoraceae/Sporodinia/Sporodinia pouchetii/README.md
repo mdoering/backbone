@@ -1,5 +1,4 @@
-Sporodinia pouchetii (Mont.) Berl. & De Toni SPECIES
-=======
+# Sporodinia pouchetii (Mont.) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

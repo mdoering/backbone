@@ -1,5 +1,4 @@
-Meliola merremiae Rehm SPECIES
-=======
+# Meliola merremiae Rehm SPECIES
 
 #### Status
 ACCEPTED

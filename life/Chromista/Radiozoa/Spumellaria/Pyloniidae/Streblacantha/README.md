@@ -1,5 +1,4 @@
-Streblacantha Haeckel, 1887 GENUS
-=======
+# Streblacantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

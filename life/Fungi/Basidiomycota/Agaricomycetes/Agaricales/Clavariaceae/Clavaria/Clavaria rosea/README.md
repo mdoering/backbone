@@ -1,17 +1,16 @@
-Clavaria rosea var. pallida Corner VARIETY
-=======
+# Clavaria rosea Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 50: 41 (1967)
+Syst. mycol. (Lundae) 1: 482 (1821)
 
 #### Original name
-Clavaria rosea var. pallida Corner
+Clavaria rosea Fr., 1821
 
 ### Remarks
 null

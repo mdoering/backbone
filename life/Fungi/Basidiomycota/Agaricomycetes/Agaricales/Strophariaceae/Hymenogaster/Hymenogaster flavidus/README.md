@@ -1,5 +1,4 @@
-Hymenogaster flavidus Bonord. SPECIES
-=======
+# Hymenogaster flavidus Bonord. SPECIES
 
 #### Status
 ACCEPTED

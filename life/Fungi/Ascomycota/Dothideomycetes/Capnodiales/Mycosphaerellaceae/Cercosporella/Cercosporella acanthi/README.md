@@ -1,5 +1,4 @@
-Cercosporella acanthi (Pass.) D. Sacc. SPECIES
-=======
+# Cercosporella acanthi (Pass.) D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

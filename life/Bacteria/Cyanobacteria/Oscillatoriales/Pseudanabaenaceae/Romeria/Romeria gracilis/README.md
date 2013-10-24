@@ -1,5 +1,4 @@
-Romeria gracilis Koczwara SPECIES
-=======
+# Romeria gracilis Koczwara SPECIES
 
 #### Status
 ACCEPTED

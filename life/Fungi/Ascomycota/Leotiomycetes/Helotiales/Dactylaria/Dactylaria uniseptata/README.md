@@ -1,5 +1,4 @@
-Dactylaria uniseptata Matsush. SPECIES
-=======
+# Dactylaria uniseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

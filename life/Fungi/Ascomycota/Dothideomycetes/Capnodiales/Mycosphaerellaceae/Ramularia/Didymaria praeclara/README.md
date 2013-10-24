@@ -1,5 +1,4 @@
-Didymaria praeclara Rehm SPECIES
-=======
+# Didymaria praeclara Rehm SPECIES
 
 #### Status
 ACCEPTED

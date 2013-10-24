@@ -1,8 +1,7 @@
-Aggregata mingazzinii Moroff, 1908 SPECIES
-=======
+# Aggregata eberthi (Labbé, 1895) Léger & Duboscq, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

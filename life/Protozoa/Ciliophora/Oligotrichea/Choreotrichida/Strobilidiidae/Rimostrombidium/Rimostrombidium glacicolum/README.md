@@ -1,5 +1,4 @@
-Rimostrombidium glacicolum Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Rimostrombidium glacicolum Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

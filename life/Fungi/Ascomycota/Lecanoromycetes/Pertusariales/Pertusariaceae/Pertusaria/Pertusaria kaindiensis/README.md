@@ -1,5 +1,4 @@
-Pertusaria kaindiensis A.W. Archer, Elix & Streimann SPECIES
-=======
+# Pertusaria kaindiensis A.W. Archer, Elix & Streimann SPECIES
 
 #### Status
 ACCEPTED

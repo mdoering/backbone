@@ -1,5 +1,4 @@
-Tubercularia hoheriae (J.D. Atk.) Dingley SPECIES
-=======
+# Tubercularia hoheriae (J.D. Atk.) Dingley SPECIES
 
 #### Status
 ACCEPTED

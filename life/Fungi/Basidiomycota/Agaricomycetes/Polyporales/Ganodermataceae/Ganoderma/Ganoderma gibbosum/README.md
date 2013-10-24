@@ -1,5 +1,4 @@
-Ganoderma gibbosum (Blume & T. Nees) Pat. SPECIES
-=======
+# Ganoderma gibbosum (Blume & T. Nees) Pat. SPECIES
 
 #### Status
 ACCEPTED

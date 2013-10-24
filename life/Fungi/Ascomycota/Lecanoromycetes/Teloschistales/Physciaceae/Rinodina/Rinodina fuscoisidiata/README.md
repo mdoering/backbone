@@ -1,5 +1,4 @@
-Rinodina fuscoisidiata Giralt, Kalb & Elix SPECIES
-=======
+# Rinodina fuscoisidiata Giralt, Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

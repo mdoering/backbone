@@ -1,5 +1,4 @@
-Tricholoma buxeum Maire SPECIES
-=======
+# Tricholoma buxeum Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina cocculi Crous & U. Braun SPECIES
-=======
+# Stigmina cocculi Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

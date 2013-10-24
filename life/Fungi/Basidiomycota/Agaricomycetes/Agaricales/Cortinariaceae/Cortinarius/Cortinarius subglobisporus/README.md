@@ -1,17 +1,16 @@
-Cortinaria subglobispora Murrill SPECIES
-=======
+# Cortinarius subglobisporus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 319 (1945)
 
 #### Original name
-Cortinaria subglobispora Murrill
+Cortinarius subglobisporus Murrill
 
 ### Remarks
 null

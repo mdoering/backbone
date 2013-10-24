@@ -1,5 +1,4 @@
-Balladyna ajrekarii Subhedar & V.G. Rao SPECIES
-=======
+# Balladyna ajrekarii Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

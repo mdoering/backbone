@@ -1,5 +1,4 @@
-Lecidea amplificans Nyl. SPECIES
-=======
+# Lecidea amplificans Nyl. SPECIES
 
 #### Status
 ACCEPTED

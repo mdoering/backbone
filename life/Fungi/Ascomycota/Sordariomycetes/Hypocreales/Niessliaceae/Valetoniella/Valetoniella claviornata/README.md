@@ -1,5 +1,4 @@
-Valetoniella claviornata Samuels & M.E. Barr, 1998 SPECIES
-=======
+# Valetoniella claviornata Samuels & M.E. Barr, 1998 SPECIES
 
 #### Status
 ACCEPTED

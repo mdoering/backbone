@@ -1,5 +1,4 @@
-Helvella pusilla Berk. & M.A. Curtis SPECIES
-=======
+# Helvella pusilla Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

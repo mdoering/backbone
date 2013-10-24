@@ -1,5 +1,4 @@
-Erysibe pustulata Wallr. SPECIES
-=======
+# Erysibe pustulata Wallr. SPECIES
 
 #### Status
 ACCEPTED

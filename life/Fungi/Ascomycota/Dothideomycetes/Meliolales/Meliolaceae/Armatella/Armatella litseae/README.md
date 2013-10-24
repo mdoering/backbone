@@ -1,17 +1,16 @@
-Armatella litseae var. litseae VARIETY
-=======
+# Armatella litseae (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 13(3/4): 235 (1915)
 
 #### Original name
-Armatella litseae var. litseae
+Dimerosporium litseae Henn., 1902
 
 ### Remarks
 null

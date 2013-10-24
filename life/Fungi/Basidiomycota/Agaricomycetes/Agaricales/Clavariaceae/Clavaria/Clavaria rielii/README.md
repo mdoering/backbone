@@ -1,14 +1,13 @@
-Clavaria rieli (Boud.) Sacc. & P. Syd. SPECIES
-=======
+# Clavaria rielii (Boud.) Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 14(1): 236 (1899)
 
 #### Original name
 Ramaria rielii Boud.

@@ -1,5 +1,4 @@
-Limacella subpessundata (Murrill) Singer SPECIES
-=======
+# Limacella subpessundata (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

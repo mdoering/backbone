@@ -1,5 +1,4 @@
-Ammovolummina Tschernich, 1967 GENUS
-=======
+# Ammovolummina Tschernich, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bodo perforans Hollande SPECIES
-=======
+# Spiromonas perforans (Hollande) Brugerolle & Mignot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

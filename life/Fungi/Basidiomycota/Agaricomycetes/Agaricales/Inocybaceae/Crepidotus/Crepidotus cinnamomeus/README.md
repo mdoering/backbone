@@ -1,5 +1,4 @@
-Crepidotus cinnamomeus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus cinnamomeus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

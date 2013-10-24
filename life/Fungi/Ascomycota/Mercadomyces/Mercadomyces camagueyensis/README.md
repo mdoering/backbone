@@ -1,17 +1,16 @@
-Mercadomyces camagueyense J. Mena SPECIES
-=======
+# Mercadomyces camagueyensis J. Mena, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Jardín bot. Nac. , Univ. Habana 9(1): 53 (1988)
 
 #### Original name
-Mercadomyces camagueyense J. Mena
+Mercadomyces camagueyensis J. Mena, 1988
 
 ### Remarks
 null

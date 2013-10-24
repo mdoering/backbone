@@ -1,5 +1,4 @@
-Cordierites sprucei Berk. SPECIES
-=======
+# Cordierites sprucei Berk. SPECIES
 
 #### Status
 ACCEPTED

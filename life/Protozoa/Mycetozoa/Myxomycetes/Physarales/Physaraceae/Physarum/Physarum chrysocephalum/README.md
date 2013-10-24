@@ -1,5 +1,4 @@
-Physarum chrysocephalum Wallr. SPECIES
-=======
+# Physarum chrysocephalum Wallr. SPECIES
 
 #### Status
 ACCEPTED

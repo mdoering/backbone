@@ -1,14 +1,13 @@
-Hypoxylon sandvicense Reichardt, 1877 SPECIES
-=======
+# Kretzschmaria sandvicense (Reichardt) J.D. Rogers & Y.M. Ju, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 75: 6 (1877)
+Mycotaxon 68: 366 (1998)
 
 #### Original name
 Hypoxylon sandvicense Reichardt, 1877

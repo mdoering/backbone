@@ -1,8 +1,7 @@
-Myrianginella tapirirae F. Stevens & Weedon, 1923 SPECIES
-=======
+# Uleomyces tapirirae (F. Stevens & Weedon) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

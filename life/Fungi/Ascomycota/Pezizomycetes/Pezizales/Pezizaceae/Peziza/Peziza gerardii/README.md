@@ -1,17 +1,16 @@
-Humaria gerardii var. gigantea K.S. Thind & Pr. Singh VARIETY
-=======
+# Peziza gerardii Cooke, 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 38: 230 (1959)
+Hedwigia 14: 81 (1875)
 
 #### Original name
-Humaria gerardii var. gigantea K.S. Thind & Pr. Singh
+Peziza gerardii Cooke, 1875
 
 ### Remarks
 null

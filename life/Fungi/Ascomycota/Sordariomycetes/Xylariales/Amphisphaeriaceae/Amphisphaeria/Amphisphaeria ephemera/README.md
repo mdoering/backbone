@@ -1,5 +1,4 @@
-Amphisphaeria ephemera Rehm SPECIES
-=======
+# Amphisphaeria ephemera Rehm SPECIES
 
 #### Status
 ACCEPTED

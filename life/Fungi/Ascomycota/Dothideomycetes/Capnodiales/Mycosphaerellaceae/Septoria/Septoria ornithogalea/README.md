@@ -1,5 +1,4 @@
-Septoria ornithogalea Oudem. SPECIES
-=======
+# Septoria ornithogalea Oudem. SPECIES
 
 #### Status
 ACCEPTED

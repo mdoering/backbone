@@ -1,8 +1,7 @@
-Protomyces menyanthis de Bary, 1852 SPECIES
-=======
+# Cladochytrium menyanthis (de Bary) de Bary, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Physoderma menyanthis (de Bary) de Bary, 1874
 
 ### Remarks
 null

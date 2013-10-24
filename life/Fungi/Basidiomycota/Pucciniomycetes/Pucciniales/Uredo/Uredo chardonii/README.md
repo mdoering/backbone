@@ -1,8 +1,7 @@
-Uredo chardoni F. Kern SPECIES
-=======
+# Uredo chardonii F. Kern SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo chardoni F. Kern
+Uredo chardonii F. Kern
 
 ### Remarks
 null

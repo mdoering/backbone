@@ -1,5 +1,4 @@
-Hypomyces mycophilus Rogerson & Samuels SPECIES
-=======
+# Hypomyces mycophilus Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

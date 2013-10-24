@@ -1,5 +1,4 @@
-Trypethelium scorizum Müll. Arg. SPECIES
-=======
+# Trypethelium scorizum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

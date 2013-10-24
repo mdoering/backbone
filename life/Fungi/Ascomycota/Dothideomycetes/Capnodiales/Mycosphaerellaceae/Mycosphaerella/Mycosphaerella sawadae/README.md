@@ -1,5 +1,4 @@
-Mycosphaerella sawadae Tomilin SPECIES
-=======
+# Mycosphaerella sawadae Tomilin SPECIES
 
 #### Status
 ACCEPTED

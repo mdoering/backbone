@@ -1,5 +1,4 @@
-Sporanaerobacter Hernandez-Eugenio et al., 2002 GENUS
-=======
+# Sporanaerobacter Hernandez-Eugenio et al., 2002 GENUS
 
 #### Status
 ACCEPTED

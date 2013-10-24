@@ -1,5 +1,4 @@
-Daedalea aesculi (Schwein.) Murrill SPECIES
-=======
+# Daedalea aesculi (Schwein.) Murrill SPECIES
 
 #### Status
 ACCEPTED

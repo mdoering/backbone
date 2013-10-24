@@ -1,5 +1,4 @@
-Peronospora canescens Benua SPECIES
-=======
+# Peronospora canescens Benua SPECIES
 
 #### Status
 ACCEPTED

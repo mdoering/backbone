@@ -1,5 +1,4 @@
-Vibrio crassostreae Faury et al., 2004 SPECIES
-=======
+# Vibrio crassostreae Faury et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

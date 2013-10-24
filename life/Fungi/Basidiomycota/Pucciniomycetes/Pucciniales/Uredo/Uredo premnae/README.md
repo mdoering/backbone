@@ -1,5 +1,4 @@
-Uredo premnae Koord. SPECIES
-=======
+# Uredo premnae Koord. SPECIES
 
 #### Status
 ACCEPTED

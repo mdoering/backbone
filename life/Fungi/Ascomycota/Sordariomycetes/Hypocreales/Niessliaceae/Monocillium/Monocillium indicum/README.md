@@ -1,14 +1,13 @@
-Torulomyces indicus (S.B. Saksena) M.H. Hashmi, W.B. Kendr. & E.B.G. Jones, 1972 SPECIES
-=======
+# Monocillium indicum S.B. Saksena, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 50(7): 1463 (1972)
+Indian Phytopath. 8: 9 (1955)
 
 #### Original name
 Monocillium indicum S.B. Saksena, 1955

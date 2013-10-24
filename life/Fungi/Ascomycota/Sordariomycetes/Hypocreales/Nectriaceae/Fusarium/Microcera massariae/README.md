@@ -1,5 +1,4 @@
-Microcera massariae subsp. ulmicola Sacc. & Fautrey SUBSPECIES
-=======
+# Microcera massariae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microcera massariae subsp. ulmicola Sacc. & Fautrey
+Microcera massariae Sacc.
 
 ### Remarks
 null

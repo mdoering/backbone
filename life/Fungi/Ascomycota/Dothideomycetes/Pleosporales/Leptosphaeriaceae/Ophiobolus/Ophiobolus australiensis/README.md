@@ -1,5 +1,4 @@
-Ophiobolus australiensis T.W. Johnson & Sparrow SPECIES
-=======
+# Ophiobolus australiensis T.W. Johnson & Sparrow SPECIES
 
 #### Status
 ACCEPTED

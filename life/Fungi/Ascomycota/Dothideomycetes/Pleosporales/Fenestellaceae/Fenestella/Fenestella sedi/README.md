@@ -1,5 +1,4 @@
-Fenestella sedi Gucevic SPECIES
-=======
+# Fenestella sedi Gucevic SPECIES
 
 #### Status
 ACCEPTED

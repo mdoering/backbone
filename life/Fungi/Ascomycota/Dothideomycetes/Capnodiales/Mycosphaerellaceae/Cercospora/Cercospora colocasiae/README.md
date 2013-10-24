@@ -1,5 +1,4 @@
-Cercospora colocasiae (Höhn.) Chupp SPECIES
-=======
+# Cercospora colocasiae (Höhn.) Chupp SPECIES
 
 #### Status
 ACCEPTED

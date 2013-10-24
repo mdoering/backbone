@@ -1,14 +1,13 @@
-Dasyscyphus controversus var. controversus VARIETY
-=======
+# Lachnum controversum (Cooke) Rehm, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 447 (1889)
 
 #### Original name
 null

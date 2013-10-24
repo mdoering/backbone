@@ -1,5 +1,4 @@
-Edaphospathula GENUS
-=======
+# Edaphospathula GENUS
 
 #### Status
 ACCEPTED

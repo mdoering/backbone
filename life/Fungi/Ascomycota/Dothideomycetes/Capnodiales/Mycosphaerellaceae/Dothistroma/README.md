@@ -1,5 +1,4 @@
-Dothistroma Hulbary GENUS
-=======
+# Dothistroma Hulbary GENUS
 
 #### Status
 ACCEPTED

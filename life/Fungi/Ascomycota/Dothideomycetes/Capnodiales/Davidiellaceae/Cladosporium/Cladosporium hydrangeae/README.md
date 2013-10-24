@@ -1,5 +1,4 @@
-Cladosporium hydrangeae Z.Y. Zhang & T.F. Li SPECIES
-=======
+# Cladosporium hydrangeae Z.Y. Zhang & T.F. Li SPECIES
 
 #### Status
 ACCEPTED

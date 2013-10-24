@@ -1,5 +1,4 @@
-Chaetostroma atrum var. atrum Sacc. VARIETY
-=======
+# Chaetostroma atrum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 6): 174 (1880)
 
 #### Original name
-Chaetostroma atrum var. atrum Sacc.
+Chaetostroma atrum Sacc.
 
 ### Remarks
 null

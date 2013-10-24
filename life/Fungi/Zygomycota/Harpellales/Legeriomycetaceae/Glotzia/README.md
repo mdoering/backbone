@@ -1,5 +1,4 @@
-Glotzia M. Gauthier ex Manier & Lichtw. GENUS
-=======
+# Glotzia M. Gauthier ex Manier & Lichtw. GENUS
 
 #### Status
 ACCEPTED

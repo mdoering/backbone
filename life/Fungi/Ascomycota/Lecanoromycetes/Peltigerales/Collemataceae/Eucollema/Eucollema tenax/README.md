@@ -1,5 +1,4 @@
-Eucollema tenax SPECIES
-=======
+# Eucollema tenax SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanostictopsis noumeaensis B. Sutton & Crous, 1997 SPECIES
-=======
+# Lecanostictopsis noumeaensis B. Sutton & Crous, 1997 SPECIES
 
 #### Status
 ACCEPTED

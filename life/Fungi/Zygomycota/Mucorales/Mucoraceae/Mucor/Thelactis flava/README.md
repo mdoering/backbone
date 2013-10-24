@@ -1,5 +1,4 @@
-Thelactis flava H. Mart. SPECIES
-=======
+# Thelactis flava H. Mart. SPECIES
 
 #### Status
 ACCEPTED

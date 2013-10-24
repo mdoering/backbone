@@ -1,5 +1,4 @@
-Platysphaera argentina Speg. SPECIES
-=======
+# Platysphaera argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

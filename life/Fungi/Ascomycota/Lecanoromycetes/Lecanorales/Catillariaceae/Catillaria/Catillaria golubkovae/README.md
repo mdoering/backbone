@@ -1,5 +1,4 @@
-Catillaria golubkovae Kotlov SPECIES
-=======
+# Catillaria golubkovae Kotlov SPECIES
 
 #### Status
 ACCEPTED

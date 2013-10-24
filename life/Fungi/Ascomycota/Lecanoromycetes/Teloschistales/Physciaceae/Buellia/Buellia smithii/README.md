@@ -1,5 +1,4 @@
-Buellia smithii (Tul.) Jatta SPECIES
-=======
+# Buellia smithii (Tul.) Jatta SPECIES
 
 #### Status
 ACCEPTED

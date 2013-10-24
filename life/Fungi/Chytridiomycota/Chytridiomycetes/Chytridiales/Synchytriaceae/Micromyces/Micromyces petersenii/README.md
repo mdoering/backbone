@@ -1,5 +1,4 @@
-Micromyces petersenii Scherff. SPECIES
-=======
+# Micromyces petersenii Scherff. SPECIES
 
 #### Status
 ACCEPTED

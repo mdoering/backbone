@@ -1,5 +1,4 @@
-Glossifungites Lomnicki GENUS
-=======
+# Glossifungites Lomnicki GENUS
 
 #### Status
 ACCEPTED

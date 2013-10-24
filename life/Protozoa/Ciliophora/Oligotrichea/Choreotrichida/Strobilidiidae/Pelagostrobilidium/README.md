@@ -1,5 +1,4 @@
-Pelagostrobilidium Petz, Song & Wilbert, 1995 GENUS
-=======
+# Pelagostrobilidium Petz, Song & Wilbert, 1995 GENUS
 
 #### Status
 ACCEPTED

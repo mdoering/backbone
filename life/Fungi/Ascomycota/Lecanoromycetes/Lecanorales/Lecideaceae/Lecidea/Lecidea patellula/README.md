@@ -1,5 +1,4 @@
-Lecidea patellula Fée SPECIES
-=======
+# Lecidea patellula Fée SPECIES
 
 #### Status
 ACCEPTED

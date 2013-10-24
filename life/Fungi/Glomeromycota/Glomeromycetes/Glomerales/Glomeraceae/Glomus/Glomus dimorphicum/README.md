@@ -1,5 +1,4 @@
-Glomus dimorphicum Boyetchko & J.P. Tewari SPECIES
-=======
+# Glomus dimorphicum Boyetchko & J.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

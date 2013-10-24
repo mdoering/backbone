@@ -1,5 +1,4 @@
-Rachisia spiralis Lindner SPECIES
-=======
+# Rachisia spiralis Lindner SPECIES
 
 #### Status
 ACCEPTED

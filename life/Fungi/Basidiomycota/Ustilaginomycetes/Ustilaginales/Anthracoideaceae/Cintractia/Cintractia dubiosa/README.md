@@ -1,5 +1,4 @@
-Cintractia dubiosa Zundel SPECIES
-=======
+# Cintractia dubiosa Zundel SPECIES
 
 #### Status
 ACCEPTED

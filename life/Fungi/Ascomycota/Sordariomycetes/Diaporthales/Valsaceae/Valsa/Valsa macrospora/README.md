@@ -1,5 +1,4 @@
-Valsa macrospora J.Y. Yuan SPECIES
-=======
+# Valsa macrospora J.Y. Yuan SPECIES
 
 #### Status
 ACCEPTED

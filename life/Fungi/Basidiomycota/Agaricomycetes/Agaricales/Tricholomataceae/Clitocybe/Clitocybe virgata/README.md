@@ -1,5 +1,4 @@
-Clitocybe virgata A.H. Sm. SPECIES
-=======
+# Clitocybe virgata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

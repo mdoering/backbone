@@ -1,5 +1,4 @@
-Linhartia vezdana Lücking SPECIES
-=======
+# Linhartia vezdana Lücking SPECIES
 
 #### Status
 ACCEPTED

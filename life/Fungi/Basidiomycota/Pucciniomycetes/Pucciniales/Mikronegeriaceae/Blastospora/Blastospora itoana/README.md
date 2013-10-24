@@ -1,5 +1,4 @@
-Blastospora itoana Togashi & Onuma SPECIES
-=======
+# Blastospora itoana Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

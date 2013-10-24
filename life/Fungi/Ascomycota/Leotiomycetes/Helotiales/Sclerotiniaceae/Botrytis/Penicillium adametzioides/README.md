@@ -1,5 +1,4 @@
-Penicillium adametzioides S. Abe ex G. Sm., 1963 SPECIES
-=======
+# Penicillium adametzioides S. Abe ex G. Sm., 1963 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Actinomma haysi Bjorklund, 1976 SPECIES
-=======
+# Actinomma haysi Bjorklund, 1976 SPECIES
 
 #### Status
 ACCEPTED

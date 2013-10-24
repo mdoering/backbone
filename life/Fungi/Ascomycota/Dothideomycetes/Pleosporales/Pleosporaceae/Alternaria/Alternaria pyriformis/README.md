@@ -1,5 +1,4 @@
-Alternaria pyriformis (Desm.) M.B. Ellis SPECIES
-=======
+# Alternaria pyriformis (Desm.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

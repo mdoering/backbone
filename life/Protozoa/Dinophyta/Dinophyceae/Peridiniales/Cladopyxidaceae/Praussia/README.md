@@ -1,5 +1,4 @@
-Praussia Williams, Lentin & Fensome, 1998 GENUS
-=======
+# Praussia Williams, Lentin & Fensome, 1998 GENUS
 
 #### Status
 ACCEPTED

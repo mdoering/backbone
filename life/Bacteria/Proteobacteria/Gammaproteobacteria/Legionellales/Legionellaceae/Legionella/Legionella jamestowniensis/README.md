@@ -1,5 +1,4 @@
-Legionella jamestowniensis Brenner et al., 1985 SPECIES
-=======
+# Legionella jamestowniensis Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

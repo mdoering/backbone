@@ -1,5 +1,4 @@
-Pleurotus polychromus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pleurotus polychromus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurophomella saligna Höhn. SPECIES
-=======
+# Pleurophomella saligna Höhn. SPECIES
 
 #### Status
 ACCEPTED

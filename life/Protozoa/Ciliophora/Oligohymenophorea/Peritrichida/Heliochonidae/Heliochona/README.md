@@ -1,5 +1,4 @@
-Heliochona Plate, 1889 GENUS
-=======
+# Heliochona Plate, 1889 GENUS
 
 #### Status
 ACCEPTED

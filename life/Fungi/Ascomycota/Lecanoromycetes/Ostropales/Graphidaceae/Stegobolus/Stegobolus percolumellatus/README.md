@@ -1,14 +1,13 @@
-Ocellularia percolumellata Sipman SPECIES
-=======
+# Stegobolus percolumellatus (Sipman) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. fenn. 150: 170 (1994)
+in Frisch & Kalb, Biblthca Lichenol. 92: 474 (2006)
 
 #### Original name
 Ocellularia percolumellata Sipman

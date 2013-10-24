@@ -1,5 +1,4 @@
-Sphaeria calyculus Mont. SPECIES
-=======
+# Sphaeria calyculus Mont. SPECIES
 
 #### Status
 ACCEPTED

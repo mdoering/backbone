@@ -1,5 +1,4 @@
-Lecidea subbadia SPECIES
-=======
+# Lecidea subbadia SPECIES
 
 #### Status
 ACCEPTED

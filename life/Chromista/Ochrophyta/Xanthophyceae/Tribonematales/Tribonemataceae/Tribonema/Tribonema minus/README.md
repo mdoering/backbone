@@ -1,8 +1,7 @@
-Tribonema bombycina f. minor (Wille) G.S. West FORM
-=======
+# Tribonema minus (G.A. Klebs) Hazen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

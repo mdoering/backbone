@@ -1,5 +1,4 @@
-Blastocladia gracilis Kanouse SPECIES
-=======
+# Blastocladia gracilis Kanouse SPECIES
 
 #### Status
 ACCEPTED

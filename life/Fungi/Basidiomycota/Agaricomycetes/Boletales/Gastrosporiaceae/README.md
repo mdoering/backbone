@@ -1,5 +1,4 @@
-Gastrosporiaceae Pilát FAMILY
-=======
+# Gastrosporiaceae Pilát FAMILY
 
 #### Status
 ACCEPTED

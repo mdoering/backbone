@@ -1,5 +1,4 @@
-Uromyces trigonellae Pass., 1889 SPECIES
-=======
+# Uromyces trigonellae Pass., 1889 SPECIES
 
 #### Status
 ACCEPTED

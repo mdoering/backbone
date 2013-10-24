@@ -1,5 +1,4 @@
-Hericium mori Opiz SPECIES
-=======
+# Hericium mori Opiz SPECIES
 
 #### Status
 ACCEPTED

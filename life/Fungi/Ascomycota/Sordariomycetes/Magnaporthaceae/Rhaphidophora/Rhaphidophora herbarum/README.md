@@ -1,5 +1,4 @@
-Rhaphidophora herbarum G.H. Otth SPECIES
-=======
+# Rhaphidophora herbarum G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

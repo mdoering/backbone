@@ -1,8 +1,7 @@
-Geleiella vagans Stiller, 1939 SPECIES
-=======
+# Astylozoon vagans (Stiller, 1939) Dingfelder, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

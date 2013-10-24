@@ -1,5 +1,4 @@
-Mycena robusta Maas Geest. SPECIES
-=======
+# Mycena robusta Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

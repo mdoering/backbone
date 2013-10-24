@@ -1,5 +1,4 @@
-Rhizidium microcystidis Sen {?} SPECIES
-=======
+# Rhizidium microcystidis Sen {?} SPECIES
 
 #### Status
 ACCEPTED

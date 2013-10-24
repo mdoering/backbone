@@ -1,8 +1,7 @@
-Stentor caerulescens SPECIES
-=======
+# Stentor coeruleus (Pallas, 1766) Ehr, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

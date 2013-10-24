@@ -1,5 +1,4 @@
-Ommatocorona Haeckel, 1887 GENUS
-=======
+# Ommatocorona Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

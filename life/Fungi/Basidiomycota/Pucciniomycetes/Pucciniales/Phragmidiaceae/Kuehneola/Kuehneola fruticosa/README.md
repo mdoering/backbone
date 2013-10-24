@@ -1,5 +1,4 @@
-Kuehneola fruticosa anon. SPECIES
-=======
+# Kuehneola fruticosa anon. SPECIES
 
 #### Status
 ACCEPTED

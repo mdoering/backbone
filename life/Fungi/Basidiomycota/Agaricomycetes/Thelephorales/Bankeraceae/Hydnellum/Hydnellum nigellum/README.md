@@ -1,14 +1,13 @@
-Sarcodon nigellus (K.A. Harrison) Maas Geest., 1974 SPECIES
-=======
+# Hydnellum nigellum K.A. Harrison, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 77: 224 (1974)
+Can. J. Bot. 42: 1230 (1964)
 
 #### Original name
 Hydnellum nigellum K.A. Harrison, 1964

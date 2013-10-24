@@ -1,5 +1,4 @@
-Dacrymyces seriatus Berk. SPECIES
-=======
+# Dacrymyces seriatus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chiodecton bambusae Vain. SPECIES
-=======
+# Mazosia bambusae (Vain.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 290 (1921)
+Symb. bot. upsal. 12(no. 1): 121 (1952)
 
 #### Original name
 Chiodecton bambusae Vain.

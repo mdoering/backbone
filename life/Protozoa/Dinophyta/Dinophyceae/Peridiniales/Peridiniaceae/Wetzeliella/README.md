@@ -1,5 +1,4 @@
-Wetzeliella Eisenack, 1938 GENUS
-=======
+# Wetzeliella Eisenack, 1938 GENUS
 
 #### Status
 ACCEPTED

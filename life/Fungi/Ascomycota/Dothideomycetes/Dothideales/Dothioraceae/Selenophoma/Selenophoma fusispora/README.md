@@ -1,5 +1,4 @@
-Selenophoma fusispora (Died.) Petr. SPECIES
-=======
+# Selenophoma fusispora (Died.) Petr. SPECIES
 
 #### Status
 ACCEPTED

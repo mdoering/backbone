@@ -1,5 +1,4 @@
-Baculella globofera SPECIES
-=======
+# Baculella globofera SPECIES
 
 #### Status
 ACCEPTED

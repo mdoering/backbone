@@ -1,5 +1,4 @@
-Sphaceloma pruni Jenkins SPECIES
-=======
+# Sphaceloma pruni Jenkins SPECIES
 
 #### Status
 ACCEPTED

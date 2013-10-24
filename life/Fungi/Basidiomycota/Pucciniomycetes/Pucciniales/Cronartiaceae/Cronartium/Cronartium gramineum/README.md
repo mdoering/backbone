@@ -1,5 +1,4 @@
-Cronartium gramineum Mont. SPECIES
-=======
+# Cronartium gramineum Mont. SPECIES
 
 #### Status
 ACCEPTED

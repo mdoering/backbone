@@ -1,5 +1,4 @@
-Plagiostigme brasiliensis Bat. & J.L. Bezerra SPECIES
-=======
+# Plagiostigme brasiliensis Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

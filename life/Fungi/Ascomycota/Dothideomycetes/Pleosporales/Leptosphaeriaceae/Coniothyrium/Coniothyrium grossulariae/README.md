@@ -1,5 +1,4 @@
-Coniothyrium grossulariae Henn. SPECIES
-=======
+# Coniothyrium grossulariae Henn. SPECIES
 
 #### Status
 ACCEPTED

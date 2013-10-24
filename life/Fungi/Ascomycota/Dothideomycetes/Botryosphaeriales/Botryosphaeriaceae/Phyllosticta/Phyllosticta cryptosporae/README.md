@@ -1,5 +1,4 @@
-Phyllosticta cryptosporae Annal. SPECIES
-=======
+# Phyllosticta cryptosporae Annal. SPECIES
 
 #### Status
 ACCEPTED

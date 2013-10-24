@@ -1,5 +1,4 @@
-Lactarius irregularis A. Blytt SPECIES
-=======
+# Lactarius irregularis A. Blytt SPECIES
 
 #### Status
 ACCEPTED

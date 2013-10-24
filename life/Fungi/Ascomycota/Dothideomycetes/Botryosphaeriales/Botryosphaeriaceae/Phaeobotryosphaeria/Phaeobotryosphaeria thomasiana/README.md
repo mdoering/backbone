@@ -1,5 +1,4 @@
-Phaeobotryosphaeria thomasiana Sacc. SPECIES
-=======
+# Phaeobotryosphaeria thomasiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

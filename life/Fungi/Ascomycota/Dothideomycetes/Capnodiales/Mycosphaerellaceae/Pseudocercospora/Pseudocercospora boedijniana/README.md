@@ -1,5 +1,4 @@
-Pseudocercospora boedijniana U. Braun SPECIES
-=======
+# Pseudocercospora boedijniana U. Braun SPECIES
 
 #### Status
 ACCEPTED

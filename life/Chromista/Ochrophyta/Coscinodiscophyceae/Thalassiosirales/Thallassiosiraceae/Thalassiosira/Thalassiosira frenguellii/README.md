@@ -1,5 +1,4 @@
-Thalassiosira frenguellii Kozlova, 1964 SPECIES
-=======
+# Thalassiosira frenguellii Kozlova, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halococcus qingdaonensis Wang, Li, Yang, Liu, Cao, Dornmayr-Pfaffenhueme, Stan-Lotter & Guo, 2007 SPECIES
-=======
+# Halococcus qingdaonensis Wang, Li, Yang, Liu, Cao, Dornmayr-Pfaffenhueme, Stan-Lotter & Guo, 2007 SPECIES
 
 #### Status
 ACCEPTED

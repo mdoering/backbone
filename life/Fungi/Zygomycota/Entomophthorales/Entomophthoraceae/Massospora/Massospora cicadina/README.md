@@ -1,14 +1,13 @@
-Entomophthora cicadina (Peck) Bubák, 1916 SPECIES
-=======
+# Massospora cicadina Peck, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(5): 341 (1916)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 31: 44 (1879)
 
 #### Original name
 Massospora cicadina Peck, 1879

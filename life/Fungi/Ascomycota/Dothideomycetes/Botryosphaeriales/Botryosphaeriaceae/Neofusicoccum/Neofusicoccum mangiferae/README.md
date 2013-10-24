@@ -1,17 +1,16 @@
-Hendersonula agathi H.E. Young SPECIES
-=======
+# Neofusicoccum mangiferae (Syd. & P. Syd.) Crous, Slippers & A.J.L. Phillips, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Slippers, Wingfield, Rheeder, Marasas, Phillips, Alves, Burgess, Barber & Groenewald, Stud. Mycol. 55: 248 (2006)
 
 #### Original name
-Hendersonula agathi H.E. Young
+Dothiorella mangiferae Syd. & P. Syd., 1916
 
 ### Remarks
 null

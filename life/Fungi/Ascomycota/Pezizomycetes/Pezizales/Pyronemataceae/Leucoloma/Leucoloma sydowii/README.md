@@ -1,5 +1,4 @@
-Leucoloma sydowii Rehm SPECIES
-=======
+# Leucoloma sydowii Rehm SPECIES
 
 #### Status
 ACCEPTED

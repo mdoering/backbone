@@ -1,17 +1,16 @@
-Moniliella oedocephalis (Haskins & Spencer) Rosa & Lachance, 2009 SPECIES
-=======
+# Trichosporonoides oedocephalis Haskins & J.F.T. Spencer, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 45(4): 519 (1967)
 
 #### Original name
-null
+Trichosporonoides oedocephalis Haskins & J.F.T. Spencer, 1967
 
 ### Remarks
 null

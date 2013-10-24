@@ -1,5 +1,4 @@
-Yukonia caricis R. Sprague SPECIES
-=======
+# Yukonia caricis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

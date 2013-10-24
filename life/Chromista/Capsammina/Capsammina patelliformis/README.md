@@ -1,5 +1,4 @@
-Capsammina patelliformis Gooday, Aranda da Silva, Koho & Lecroq, 2010 SPECIES
-=======
+# Capsammina patelliformis Gooday, Aranda da Silva, Koho & Lecroq, 2010 SPECIES
 
 #### Status
 ACCEPTED

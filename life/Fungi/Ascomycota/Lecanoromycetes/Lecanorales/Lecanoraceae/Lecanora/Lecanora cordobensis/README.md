@@ -1,5 +1,4 @@
-Lecanora cordobensis Gyeln. SPECIES
-=======
+# Lecanora cordobensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

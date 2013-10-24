@@ -1,5 +1,4 @@
-Pholiota fallax Velen. SPECIES
-=======
+# Pholiota fallax Velen. SPECIES
 
 #### Status
 ACCEPTED

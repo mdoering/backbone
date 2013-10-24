@@ -1,5 +1,4 @@
-Pestalotia camptosperma Peck SPECIES
-=======
+# Pestalotia camptosperma Peck SPECIES
 
 #### Status
 ACCEPTED

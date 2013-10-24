@@ -1,5 +1,4 @@
-Ceratospyris hyperborea Joergensen, 1905 SPECIES
-=======
+# Ceratospyris hyperborea Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

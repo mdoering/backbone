@@ -1,5 +1,4 @@
-Ogataea neopini Nagats., S. Saito & Sugiy., 2008 SPECIES
-=======
+# Ogataea neopini Nagats., S. Saito & Sugiy., 2008 SPECIES
 
 #### Status
 ACCEPTED

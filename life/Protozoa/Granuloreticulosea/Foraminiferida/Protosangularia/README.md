@@ -1,5 +1,4 @@
-Protosangularia Kaiho, 1998 GENUS
-=======
+# Protosangularia Kaiho, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria polycarpa Hoffm. SPECIES
-=======
+# Lobaria polycarpa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolella triseptata Raitv. & R. Galán SPECIES
-=======
+# Urceolella triseptata Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

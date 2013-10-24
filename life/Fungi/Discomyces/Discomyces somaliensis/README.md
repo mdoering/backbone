@@ -1,5 +1,4 @@
-Discomyces somaliensis (Brumpt) Brumpt SPECIES
-=======
+# Discomyces somaliensis (Brumpt) Brumpt SPECIES
 
 #### Status
 ACCEPTED

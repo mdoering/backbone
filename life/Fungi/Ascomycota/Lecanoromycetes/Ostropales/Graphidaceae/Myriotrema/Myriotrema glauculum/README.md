@@ -1,5 +1,4 @@
-Myriotrema glauculum (Nyl.) Hale SPECIES
-=======
+# Myriotrema glauculum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

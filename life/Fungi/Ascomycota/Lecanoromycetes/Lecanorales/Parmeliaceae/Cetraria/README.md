@@ -1,17 +1,16 @@
-Geissodea Vent. GENUS
-=======
+# Cetraria Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. Règne Vég. 2: 33 (1799)
+Method. Lich. 292 (1803)
 
 #### Original name
-Geissodea Vent.
+Cetraria Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eurotium lanatum Kuntze SPECIES
-=======
+# Eurotium lanatum Kuntze SPECIES
 
 #### Status
 ACCEPTED

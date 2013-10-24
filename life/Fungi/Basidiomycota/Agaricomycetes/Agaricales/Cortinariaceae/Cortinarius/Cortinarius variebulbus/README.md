@@ -1,5 +1,4 @@
-Cortinarius variebulbus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius variebulbus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

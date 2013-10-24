@@ -1,5 +1,4 @@
-Argopericonia elegans B. Sutton & Pascoe, 1987 SPECIES
-=======
+# Argopericonia elegans B. Sutton & Pascoe, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma musivum (Fr.) Sacc. SPECIES
-=======
+# Hebeloma musivum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

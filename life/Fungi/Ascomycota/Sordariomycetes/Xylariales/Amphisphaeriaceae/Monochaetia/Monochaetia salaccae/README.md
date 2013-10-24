@@ -1,5 +1,4 @@
-Monochaetia salaccae Y.X. Chen & G. Wei SPECIES
-=======
+# Monochaetia salaccae Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

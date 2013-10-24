@@ -1,17 +1,16 @@
-Fomes ajazi S.M. Hussain SPECIES
-=======
+# Fomes ajazii S.M. Hussain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 44(6): 823 (1952)
 
 #### Original name
-Fomes ajazi S.M. Hussain
+Fomes ajazii S.M. Hussain
 
 ### Remarks
 null

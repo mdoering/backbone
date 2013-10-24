@@ -1,5 +1,4 @@
-Estiastra oligospinosa (Eisenack, 1934 ex Eisenack, 1938) Jacobson & Achab, 1985 SPECIES
-=======
+# Estiastra oligospinosa (Eisenack, 1934 ex Eisenack, 1938) Jacobson & Achab, 1985 SPECIES
 
 #### Status
 ACCEPTED

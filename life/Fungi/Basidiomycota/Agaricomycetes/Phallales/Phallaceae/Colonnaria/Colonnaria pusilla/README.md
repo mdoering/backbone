@@ -1,5 +1,4 @@
-Colonnaria pusilla (Berk. & M.A. Curtis) L.D. Gómez SPECIES
-=======
+# Colonnaria pusilla (Berk. & M.A. Curtis) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

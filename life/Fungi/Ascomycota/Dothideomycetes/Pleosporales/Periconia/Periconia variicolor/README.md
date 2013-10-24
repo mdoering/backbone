@@ -1,5 +1,4 @@
-Periconia variicolor S.A. Cantrell, Hanlin & E. Silva SPECIES
-=======
+# Periconia variicolor S.A. Cantrell, Hanlin & E. Silva SPECIES
 
 #### Status
 ACCEPTED

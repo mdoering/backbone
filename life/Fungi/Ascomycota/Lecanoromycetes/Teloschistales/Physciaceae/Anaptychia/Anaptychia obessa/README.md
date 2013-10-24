@@ -1,5 +1,4 @@
-Anaptychia obessa SPECIES
-=======
+# Anaptychia obessa SPECIES
 
 #### Status
 ACCEPTED

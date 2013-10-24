@@ -1,5 +1,4 @@
-Laboulbeniales Lindau ORDER
-=======
+# Laboulbeniales Lindau ORDER
 
 #### Status
 ACCEPTED

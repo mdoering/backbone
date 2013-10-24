@@ -1,14 +1,13 @@
-Esfandiaria insignis Petr., 1955 SPECIES
-=======
+# Esfandiariomyces insignis (Petr.) Ershad, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9: 595 (1955)
+Iranian Journal of Plant Pathology 21(1-4): 8 (1985)
 
 #### Original name
 Esfandiaria insignis Petr., 1955

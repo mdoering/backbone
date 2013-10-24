@@ -1,5 +1,4 @@
-Cyclotella planctonica Brunnthaler SPECIES
-=======
+# Cyclotella planctonica Brunnthaler SPECIES
 
 #### Status
 ACCEPTED

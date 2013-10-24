@@ -1,5 +1,4 @@
-Puccinia puyana Syd. SPECIES
-=======
+# Puccinia puyana Syd. SPECIES
 
 #### Status
 ACCEPTED

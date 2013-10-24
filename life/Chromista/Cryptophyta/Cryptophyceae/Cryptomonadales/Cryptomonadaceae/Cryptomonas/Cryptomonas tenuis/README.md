@@ -1,5 +1,4 @@
-Cryptomonas tenuis Pascher SPECIES
-=======
+# Cryptomonas tenuis Pascher SPECIES
 
 #### Status
 ACCEPTED

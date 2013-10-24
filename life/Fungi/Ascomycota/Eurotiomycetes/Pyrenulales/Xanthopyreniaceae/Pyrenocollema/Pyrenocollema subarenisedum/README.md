@@ -1,14 +1,13 @@
-Arthopyrenia subareniseda G. Salisb. SPECIES
-=======
+# Pyrenocollema subarenisedum (G. Salisb.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist, Hull 17 (1953)
+Lichenologist 24(4): 368 (1992)
 
 #### Original name
 Arthopyrenia subareniseda G. Salisb.

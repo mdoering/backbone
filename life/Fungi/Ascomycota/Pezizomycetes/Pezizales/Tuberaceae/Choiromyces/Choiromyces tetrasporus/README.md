@@ -1,5 +1,4 @@
-Choiromyces tetrasporus Velen. SPECIES
-=======
+# Choiromyces tetrasporus Velen. SPECIES
 
 #### Status
 ACCEPTED

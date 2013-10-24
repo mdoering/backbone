@@ -1,5 +1,4 @@
-Lecidea scutellaris (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Lecidea scutellaris (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

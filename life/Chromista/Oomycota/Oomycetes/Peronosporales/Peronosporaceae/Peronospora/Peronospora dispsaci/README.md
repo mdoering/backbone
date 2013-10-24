@@ -1,5 +1,4 @@
-Peronospora dispsaci Tul. SPECIES
-=======
+# Peronospora dispsaci Tul. SPECIES
 
 #### Status
 ACCEPTED

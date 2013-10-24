@@ -1,5 +1,4 @@
-Clitocybe rugosipes Murrill SPECIES
-=======
+# Clitocybe rugosipes Murrill SPECIES
 
 #### Status
 ACCEPTED

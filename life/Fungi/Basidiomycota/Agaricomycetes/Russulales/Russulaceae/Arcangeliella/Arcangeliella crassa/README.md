@@ -1,5 +1,4 @@
-Arcangeliella crassa Singer & A.H. Sm. SPECIES
-=======
+# Arcangeliella crassa Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

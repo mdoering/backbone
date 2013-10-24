@@ -1,5 +1,4 @@
-Buliminoides curta SPECIES
-=======
+# Buliminoides curta SPECIES
 
 #### Status
 ACCEPTED

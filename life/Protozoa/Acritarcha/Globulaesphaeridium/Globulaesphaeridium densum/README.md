@@ -1,5 +1,4 @@
-Globulaesphaeridium densum R. S. Tiwari & A. A. Moiz SPECIES
-=======
+# Globulaesphaeridium densum R. S. Tiwari & A. A. Moiz SPECIES
 
 #### Status
 ACCEPTED

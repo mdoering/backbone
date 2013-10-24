@@ -1,5 +1,4 @@
-Rhytismatales M.E. Barr ex Minter ORDER
-=======
+# Rhytismatales M.E. Barr ex Minter ORDER
 
 #### Status
 ACCEPTED

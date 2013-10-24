@@ -1,5 +1,4 @@
-Columnomyces ptomaphagi R.K. Benj., 1955 SPECIES
-=======
+# Columnomyces ptomaphagi R.K. Benj., 1955 SPECIES
 
 #### Status
 ACCEPTED

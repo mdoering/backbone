@@ -1,8 +1,7 @@
-Chaetoceros schüttii var. circinalis Meunier, 1913 VARIETY
-=======
+# Chaetoceros circinalis (Meunier) K.G. Jensen & Moestrup, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

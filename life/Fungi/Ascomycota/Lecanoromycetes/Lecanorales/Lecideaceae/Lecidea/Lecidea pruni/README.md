@@ -1,5 +1,4 @@
-Lecidea pruni Vain. SPECIES
-=======
+# Lecidea pruni Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphotrochammina salvati Vénec-Peyré, 1988 SPECIES
-=======
+# Siphotrochammina salvati Vénec-Peyré, 1988 SPECIES
 
 #### Status
 ACCEPTED

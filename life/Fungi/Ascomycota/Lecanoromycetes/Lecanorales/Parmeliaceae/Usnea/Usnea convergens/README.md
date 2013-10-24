@@ -1,5 +1,4 @@
-Usnea convergens Motyka SPECIES
-=======
+# Usnea convergens Motyka SPECIES
 
 #### Status
 ACCEPTED

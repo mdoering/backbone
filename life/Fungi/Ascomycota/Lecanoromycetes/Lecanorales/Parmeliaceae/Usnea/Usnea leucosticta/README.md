@@ -1,5 +1,4 @@
-Usnea leucosticta Vain. SPECIES
-=======
+# Usnea leucosticta Vain. SPECIES
 
 #### Status
 ACCEPTED

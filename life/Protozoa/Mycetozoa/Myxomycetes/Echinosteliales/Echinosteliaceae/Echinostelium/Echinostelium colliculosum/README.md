@@ -1,17 +1,16 @@
-Echinostelium roseum Ing SPECIES
-=======
+# Echinostelium colliculosum K.D. Whitney & H.W. Keller, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 48: 650 (1965)
+Mycologia 72(3): 641 (1980)
 
 #### Original name
-Echinostelium roseum Ing
+Echinostelium colliculosum K.D. Whitney & H.W. Keller, 1980
 
 ### Remarks
 null

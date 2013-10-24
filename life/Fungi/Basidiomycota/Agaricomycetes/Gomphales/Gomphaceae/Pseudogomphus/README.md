@@ -1,5 +1,4 @@
-Pseudogomphus R. Heim, 1970 GENUS
-=======
+# Pseudogomphus R. Heim, 1970 GENUS
 
 #### Status
 ACCEPTED

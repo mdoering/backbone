@@ -1,5 +1,4 @@
-Asterina centroniae Petr. SPECIES
-=======
+# Asterina centroniae Petr. SPECIES
 
 #### Status
 ACCEPTED

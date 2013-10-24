@@ -1,5 +1,4 @@
-Chernyshinellina Reitlinger, 1959 GENUS
-=======
+# Chernyshinellina Reitlinger, 1959 GENUS
 
 #### Status
 ACCEPTED

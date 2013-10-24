@@ -1,5 +1,4 @@
-Xanthoparmelia afroincerta Elix SPECIES
-=======
+# Xanthoparmelia afroincerta Elix SPECIES
 
 #### Status
 ACCEPTED

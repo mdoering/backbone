@@ -1,5 +1,4 @@
-Caloplaca paumotensis (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca paumotensis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

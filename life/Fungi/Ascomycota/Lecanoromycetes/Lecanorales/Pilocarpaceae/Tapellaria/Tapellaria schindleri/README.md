@@ -1,5 +1,4 @@
-Tapellaria schindleri Kalb & Vezda SPECIES
-=======
+# Tapellaria schindleri Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

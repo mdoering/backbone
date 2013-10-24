@@ -1,5 +1,4 @@
-Diplogmus Mansfeld, 1923 GENUS
-=======
+# Diplogmus Mansfeld, 1923 GENUS
 
 #### Status
 ACCEPTED

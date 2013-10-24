@@ -1,5 +1,4 @@
-Inonotus tinctorius (Quél.) S. Ahmad SPECIES
-=======
+# Inonotus tinctorius (Quél.) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

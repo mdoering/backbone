@@ -1,5 +1,4 @@
-Amidella gilberti (Beauseign.) E.-J. Gilbert SPECIES
-=======
+# Amidella gilberti (Beauseign.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

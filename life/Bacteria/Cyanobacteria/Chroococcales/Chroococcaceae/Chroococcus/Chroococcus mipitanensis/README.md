@@ -1,5 +1,4 @@
-Chroococcus mipitanensis (Wooszynska) Geitler SPECIES
-=======
+# Chroococcus mipitanensis (Wooszynska) Geitler SPECIES
 
 #### Status
 ACCEPTED

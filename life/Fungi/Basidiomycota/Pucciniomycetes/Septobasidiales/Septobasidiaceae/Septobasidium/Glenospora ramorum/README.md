@@ -1,5 +1,4 @@
-Glenospora ramorum (Schwein.) Berk. & Broome SPECIES
-=======
+# Glenospora ramorum (Schwein.) Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

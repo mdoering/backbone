@@ -1,5 +1,4 @@
-Clavariaceae Chevall. FAMILY
-=======
+# Clavariaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED

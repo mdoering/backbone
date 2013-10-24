@@ -1,5 +1,4 @@
-Sticta muelleriana Zahlbr. SPECIES
-=======
+# Sticta muelleriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

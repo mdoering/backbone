@@ -1,5 +1,4 @@
-Marinobacter koreensis Kim, Weon, Yoo, Kim, Kwon, Stackebrandt & Go, 2006 SPECIES
-=======
+# Marinobacter koreensis Kim, Weon, Yoo, Kim, Kwon, Stackebrandt & Go, 2006 SPECIES
 
 #### Status
 ACCEPTED

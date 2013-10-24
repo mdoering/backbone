@@ -1,5 +1,4 @@
-Stichomyces vesiculiferus Thaxt. SPECIES
-=======
+# Stichomyces vesiculiferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

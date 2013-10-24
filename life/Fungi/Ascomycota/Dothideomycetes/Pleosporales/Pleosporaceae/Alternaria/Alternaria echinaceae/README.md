@@ -1,5 +1,4 @@
-Alternaria echinaceae E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria echinaceae E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

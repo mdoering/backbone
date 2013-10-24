@@ -1,17 +1,16 @@
-Phoma annullata N. Pons SPECIES
-=======
+# Leptosphaeria sacchari Breda de Haan, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fitopatol. Venez. 3(2): 38 (1990)
+Meded. Proefstn SuikRiet W. Java 25 (1892)
 
 #### Original name
-Phyllosticta saccharicola Henn., 1907
+Leptosphaeria sacchari Breda de Haan, 1892
 
 ### Remarks
 null

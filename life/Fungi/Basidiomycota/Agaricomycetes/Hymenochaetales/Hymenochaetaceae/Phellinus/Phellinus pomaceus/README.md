@@ -1,17 +1,16 @@
-Phellinus tuberculosus var. tuberculosus VARIETY
-=======
+# Phellinus pomaceus (Pers.) Maire, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 22(1): 12 (1982)
+Mus. barcin. Scient. nat. Op. 15: 37 (1933)
 
 #### Original name
-Phellinus tuberculosus var. tuberculosus
+Boletus pomaceus Pers., 1800
 
 ### Remarks
 null

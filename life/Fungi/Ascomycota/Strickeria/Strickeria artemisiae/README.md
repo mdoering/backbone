@@ -1,5 +1,4 @@
-Strickeria artemisiae Lobik SPECIES
-=======
+# Strickeria artemisiae Lobik SPECIES
 
 #### Status
 ACCEPTED

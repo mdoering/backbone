@@ -1,5 +1,4 @@
-Daxia Cuvillier & Szakall, 1949 GENUS
-=======
+# Daxia Cuvillier & Szakall, 1949 GENUS
 
 #### Status
 ACCEPTED

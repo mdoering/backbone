@@ -1,5 +1,4 @@
-Placodium microcarpum Colmeiro SPECIES
-=======
+# Placodium microcarpum Colmeiro SPECIES
 
 #### Status
 ACCEPTED

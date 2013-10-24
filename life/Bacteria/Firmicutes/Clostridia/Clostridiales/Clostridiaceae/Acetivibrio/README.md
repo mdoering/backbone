@@ -1,5 +1,4 @@
-Acetivibrio Patel, Khan, Agnew & Colvin, 1980 GENUS
-=======
+# Acetivibrio Patel, Khan, Agnew & Colvin, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotrema anacardii (Vain.) R.C. Harris SPECIES
-=======
+# Pleurotrema anacardii (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

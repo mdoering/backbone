@@ -1,5 +1,4 @@
-Micrographina palmicola Fink SPECIES
-=======
+# Micrographina palmicola Fink SPECIES
 
 #### Status
 ACCEPTED

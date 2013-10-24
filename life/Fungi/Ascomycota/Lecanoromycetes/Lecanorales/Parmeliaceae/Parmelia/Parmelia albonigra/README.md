@@ -1,5 +1,4 @@
-Parmelia albonigra (Schleich.) Arnold SPECIES
-=======
+# Parmelia albonigra (Schleich.) Arnold SPECIES
 
 #### Status
 ACCEPTED

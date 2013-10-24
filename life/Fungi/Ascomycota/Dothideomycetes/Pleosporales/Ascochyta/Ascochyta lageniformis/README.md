@@ -1,17 +1,16 @@
-Ascochyta lagenaeformis Caball. SPECIES
-=======
+# Ascochyta lageniformis Caball. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+An. Jard. bot. Madr. 1: 176 (1941)
 
 #### Original name
-Ascochyta lagenaeformis Caball.
+Ascochyta lageniformis Caball.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia stojanovii Hinkova SPECIES
-=======
+# Puccinia stojanovii Hinkova SPECIES
 
 #### Status
 ACCEPTED

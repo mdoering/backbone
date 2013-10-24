@@ -1,5 +1,4 @@
-Gyratosphaerina composita Lopukhin, 1974 SPECIES
-=======
+# Gyratosphaerina composita Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

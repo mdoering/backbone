@@ -1,5 +1,4 @@
-Hypoxylon ohiense Ellis & Everh. SPECIES
-=======
+# Hypoxylon ohiense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

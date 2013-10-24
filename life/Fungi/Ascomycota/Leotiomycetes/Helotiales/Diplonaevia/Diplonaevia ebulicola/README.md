@@ -1,5 +1,4 @@
-Diplonaevia ebulicola (Höhn.) Sacc. & D. Sacc. SPECIES
-=======
+# Diplonaevia ebulicola (Höhn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

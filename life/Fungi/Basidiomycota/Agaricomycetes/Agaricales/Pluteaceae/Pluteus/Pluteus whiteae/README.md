@@ -1,5 +1,4 @@
-Pluteus whiteae Murrill SPECIES
-=======
+# Pluteus whiteae Murrill SPECIES
 
 #### Status
 ACCEPTED

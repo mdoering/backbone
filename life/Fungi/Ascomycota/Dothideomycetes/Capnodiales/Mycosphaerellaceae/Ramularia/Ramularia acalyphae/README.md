@@ -1,5 +1,4 @@
-Ramularia acalyphae Tharp SPECIES
-=======
+# Ramularia acalyphae Tharp SPECIES
 
 #### Status
 ACCEPTED

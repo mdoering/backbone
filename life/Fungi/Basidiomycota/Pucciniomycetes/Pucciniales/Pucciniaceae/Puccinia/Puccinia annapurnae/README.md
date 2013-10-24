@@ -1,5 +1,4 @@
-Puccinia annapurnae Durrieu SPECIES
-=======
+# Puccinia annapurnae Durrieu SPECIES
 
 #### Status
 ACCEPTED

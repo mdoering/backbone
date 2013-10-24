@@ -1,5 +1,4 @@
-Helminthosporium beaumontii Sacc. SPECIES
-=======
+# Helminthosporium beaumontii Sacc. SPECIES
 
 #### Status
 ACCEPTED

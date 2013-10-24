@@ -1,5 +1,4 @@
-Hypotrachyna protenta Hale SPECIES
-=======
+# Hypotrachyna protenta Hale SPECIES
 
 #### Status
 ACCEPTED

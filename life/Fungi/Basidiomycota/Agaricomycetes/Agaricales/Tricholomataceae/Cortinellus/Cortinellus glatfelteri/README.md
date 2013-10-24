@@ -1,5 +1,4 @@
-Cortinellus glatfelteri Murrill SPECIES
-=======
+# Cortinellus glatfelteri Murrill SPECIES
 
 #### Status
 ACCEPTED

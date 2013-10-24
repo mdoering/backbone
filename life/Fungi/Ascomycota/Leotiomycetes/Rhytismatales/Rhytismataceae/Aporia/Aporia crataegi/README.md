@@ -1,5 +1,4 @@
-Aporia crataegi L. SPECIES
-=======
+# Aporia crataegi L. SPECIES
 
 #### Status
 ACCEPTED

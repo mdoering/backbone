@@ -1,5 +1,4 @@
-Chrysomyxa komarovii Tranzschel SPECIES
-=======
+# Chrysomyxa komarovii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

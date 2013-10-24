@@ -1,5 +1,4 @@
-Boletus subspeciosus J. Blum SPECIES
-=======
+# Boletus subspeciosus J. Blum SPECIES
 
 #### Status
 ACCEPTED

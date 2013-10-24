@@ -1,5 +1,4 @@
-Metasphaeria boehmeriae (Rabenh.) Sacc. SPECIES
-=======
+# Metasphaeria boehmeriae (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

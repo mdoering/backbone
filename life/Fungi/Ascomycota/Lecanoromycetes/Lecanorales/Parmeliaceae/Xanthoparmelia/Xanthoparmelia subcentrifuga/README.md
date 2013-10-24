@@ -1,5 +1,4 @@
-Xanthoparmelia subcentrifuga (Oxner) Hale SPECIES
-=======
+# Xanthoparmelia subcentrifuga (Oxner) Hale SPECIES
 
 #### Status
 ACCEPTED

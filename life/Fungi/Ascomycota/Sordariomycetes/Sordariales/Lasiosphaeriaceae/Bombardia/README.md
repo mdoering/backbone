@@ -1,5 +1,4 @@
-Bombardia (E.M. Fries) P. Karsten, 1873 GENUS
-=======
+# Bombardia (E.M. Fries) P. Karsten, 1873 GENUS
 
 #### Status
 ACCEPTED

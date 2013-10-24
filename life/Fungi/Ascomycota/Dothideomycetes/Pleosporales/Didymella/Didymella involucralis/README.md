@@ -1,5 +1,4 @@
-Didymella involucralis (Pass.) Sacc. SPECIES
-=======
+# Didymella involucralis (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

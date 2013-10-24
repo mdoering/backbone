@@ -1,5 +1,4 @@
-Phyllopsora ernstiana (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Phyllopsora ernstiana (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

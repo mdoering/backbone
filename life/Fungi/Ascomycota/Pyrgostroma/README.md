@@ -1,5 +1,4 @@
-Pyrgostroma Petr. GENUS
-=======
+# Pyrgostroma Petr. GENUS
 
 #### Status
 ACCEPTED

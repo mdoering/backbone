@@ -1,5 +1,4 @@
-Cenangium ilicinum Durieu & Lév. SPECIES
-=======
+# Cenangium ilicinum Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

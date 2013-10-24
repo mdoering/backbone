@@ -1,5 +1,4 @@
-Biatora rivulosa SPECIES
-=======
+# Biatora rivulosa SPECIES
 
 #### Status
 ACCEPTED

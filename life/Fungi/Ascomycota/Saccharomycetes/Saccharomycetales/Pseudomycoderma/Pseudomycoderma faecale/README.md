@@ -1,5 +1,4 @@
-Pseudomycoderma faecale C.W. Dodge SPECIES
-=======
+# Pseudomycoderma faecale C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

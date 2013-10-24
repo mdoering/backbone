@@ -1,5 +1,4 @@
-Louisianina Denne & Sen Gupta, 1996 GENUS
-=======
+# Louisianina Denne & Sen Gupta, 1996 GENUS
 
 #### Status
 ACCEPTED

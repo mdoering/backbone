@@ -1,5 +1,4 @@
-Marasmius cryptocystidiatus Corner SPECIES
-=======
+# Marasmius cryptocystidiatus Corner SPECIES
 
 #### Status
 ACCEPTED

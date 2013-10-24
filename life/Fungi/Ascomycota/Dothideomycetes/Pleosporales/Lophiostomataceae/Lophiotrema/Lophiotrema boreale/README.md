@@ -1,5 +1,4 @@
-Lophiotrema boreale Math., 1985 SPECIES
-=======
+# Lophiotrema boreale Math., 1985 SPECIES
 
 #### Status
 ACCEPTED

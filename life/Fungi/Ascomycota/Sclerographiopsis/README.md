@@ -1,5 +1,4 @@
-Sclerographiopsis Deighton GENUS
-=======
+# Sclerographiopsis Deighton GENUS
 
 #### Status
 ACCEPTED

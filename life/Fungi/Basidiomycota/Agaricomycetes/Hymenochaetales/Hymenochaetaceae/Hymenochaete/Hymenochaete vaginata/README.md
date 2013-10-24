@@ -1,5 +1,4 @@
-Hymenochaete vaginata G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete vaginata G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

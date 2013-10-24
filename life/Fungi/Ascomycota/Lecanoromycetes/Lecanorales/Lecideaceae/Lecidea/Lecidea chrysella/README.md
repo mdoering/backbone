@@ -1,5 +1,4 @@
-Lecidea chrysella Eitner SPECIES
-=======
+# Lecidea chrysella Eitner SPECIES
 
 #### Status
 ACCEPTED

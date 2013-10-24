@@ -1,5 +1,4 @@
-Urocystis atragenes (Liro) Zundel SPECIES
-=======
+# Urocystis atragenes (Liro) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium pellucidum Bergh SPECIES
-=======
+# Protoperidinium pellucidum Bergh SPECIES
 
 #### Status
 ACCEPTED

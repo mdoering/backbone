@@ -1,14 +1,13 @@
-Halidrys siliquosa var. denudata Lyngbye VARIETY
-=======
+# Halidrys siliquosa (Linnaeus) Lyngbye SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lyngbye, H. C. (1819). Tentamen hydrophytologiae danicae. : Copenhagen, Denemarken. xxxii, 248 pp.
 
 #### Original name
 null

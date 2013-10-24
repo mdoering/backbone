@@ -1,5 +1,4 @@
-Phyllosticta hawaiiensis Petr. SPECIES
-=======
+# Phyllosticta hawaiiensis Petr. SPECIES
 
 #### Status
 ACCEPTED

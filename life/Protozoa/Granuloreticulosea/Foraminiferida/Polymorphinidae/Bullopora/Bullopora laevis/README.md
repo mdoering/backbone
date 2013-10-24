@@ -1,5 +1,4 @@
-Bullopora laevis (Sollas) SPECIES
-=======
+# Bullopora laevis (Sollas) SPECIES
 
 #### Status
 ACCEPTED

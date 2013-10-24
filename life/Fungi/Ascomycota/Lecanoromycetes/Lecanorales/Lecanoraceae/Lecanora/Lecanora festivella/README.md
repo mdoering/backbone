@@ -1,5 +1,4 @@
-Lecanora festivella (Nyl.) Nyl. SPECIES
-=======
+# Lecanora festivella (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

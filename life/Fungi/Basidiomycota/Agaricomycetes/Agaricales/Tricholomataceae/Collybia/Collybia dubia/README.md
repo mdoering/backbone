@@ -1,5 +1,4 @@
-Collybia dubia Rick SPECIES
-=======
+# Collybia dubia Rick SPECIES
 
 #### Status
 ACCEPTED

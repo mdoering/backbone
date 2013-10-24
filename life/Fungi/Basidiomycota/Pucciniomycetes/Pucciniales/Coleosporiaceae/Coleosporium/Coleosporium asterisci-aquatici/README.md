@@ -1,5 +1,4 @@
-Coleosporium asterisci-aquatici (Sacc.) Syd. & P. Syd. SPECIES
-=======
+# Coleosporium asterisci-aquatici (Sacc.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

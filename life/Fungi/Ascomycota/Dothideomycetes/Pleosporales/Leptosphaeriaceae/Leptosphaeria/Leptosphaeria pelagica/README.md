@@ -1,5 +1,4 @@
-Leptosphaeria pelagica E.B.G. Jones, 1962 SPECIES
-=======
+# Leptosphaeria pelagica E.B.G. Jones, 1962 SPECIES
 
 #### Status
 ACCEPTED

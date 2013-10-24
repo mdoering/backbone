@@ -1,5 +1,4 @@
-Mycovellosiella brideliae P. Kumar & Kamal SPECIES
-=======
+# Mycovellosiella brideliae P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

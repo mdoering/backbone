@@ -1,5 +1,4 @@
-Phoma oleae f. oleae FORM
-=======
+# Phoma oleae (Cavara) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma oleae f. oleae
+Plenodomus oleae Cavara
 
 ### Remarks
 null

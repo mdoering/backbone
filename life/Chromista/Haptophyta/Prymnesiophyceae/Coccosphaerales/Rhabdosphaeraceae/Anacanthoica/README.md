@@ -1,5 +1,4 @@
-Anacanthoica Deflandre, 1952 GENUS
-=======
+# Anacanthoica Deflandre, 1952 GENUS
 
 #### Status
 ACCEPTED

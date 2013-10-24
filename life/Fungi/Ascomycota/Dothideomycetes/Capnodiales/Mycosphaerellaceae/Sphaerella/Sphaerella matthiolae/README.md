@@ -1,5 +1,4 @@
-Sphaerella matthiolae Gonz. Frag. SPECIES
-=======
+# Sphaerella matthiolae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

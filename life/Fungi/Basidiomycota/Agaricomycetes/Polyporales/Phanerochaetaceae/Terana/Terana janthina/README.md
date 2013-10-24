@@ -1,5 +1,4 @@
-Terana janthina (Durieu & Lév.) Kuntze SPECIES
-=======
+# Terana janthina (Durieu & Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

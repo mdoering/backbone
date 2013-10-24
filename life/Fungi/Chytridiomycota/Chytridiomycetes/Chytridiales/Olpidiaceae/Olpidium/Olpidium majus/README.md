@@ -1,5 +1,4 @@
-Olpidium majus Ivimey Cook & W.B. Collins SPECIES
-=======
+# Olpidium majus Ivimey Cook & W.B. Collins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella pedicularis (Tracy & Earle) Seaver SPECIES
-=======
+# Nectriella pedicularis (Tracy & Earle) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bickella Wilbert & Song, 2008 GENUS
-=======
+# Bickella Wilbert & Song, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trichia semicancellata var. tenella (Schrad.) Poir. VARIETY
-=======
+# Cribraria tenella Schrad., 1797 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck, Encyclop. Mycol. 8: 56 (1808)
+Nov. gen. pl. (Lipsiae) 6 (1797)
 
 #### Original name
 Cribraria tenella Schrad., 1797

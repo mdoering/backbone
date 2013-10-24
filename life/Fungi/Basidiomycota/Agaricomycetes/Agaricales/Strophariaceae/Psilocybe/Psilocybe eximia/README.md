@@ -1,5 +1,4 @@
-Psilocybe eximia E. Horak & Desjardin SPECIES
-=======
+# Psilocybe eximia E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

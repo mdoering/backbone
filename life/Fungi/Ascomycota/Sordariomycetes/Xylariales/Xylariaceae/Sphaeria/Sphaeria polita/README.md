@@ -1,5 +1,4 @@
-Sphaeria polita Fr. SPECIES
-=======
+# Sphaeria polita Fr. SPECIES
 
 #### Status
 ACCEPTED

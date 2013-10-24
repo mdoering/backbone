@@ -1,5 +1,4 @@
-Theileriidae FAMILY
-=======
+# Theileriidae FAMILY
 
 #### Status
 ACCEPTED

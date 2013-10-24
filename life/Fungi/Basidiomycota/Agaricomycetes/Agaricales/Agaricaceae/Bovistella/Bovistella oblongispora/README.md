@@ -1,5 +1,4 @@
-Bovistella oblongispora Lloyd SPECIES
-=======
+# Bovistella oblongispora Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lampoxanthomma Haeckel, 1887 GENUS
-=======
+# Lampoxanthomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectocarpon labyrinthicum Follmann SPECIES
-=======
+# Plectocarpon labyrinthicum Follmann SPECIES
 
 #### Status
 ACCEPTED

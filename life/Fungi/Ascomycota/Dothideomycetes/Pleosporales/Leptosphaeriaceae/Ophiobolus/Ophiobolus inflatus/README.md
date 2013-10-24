@@ -1,5 +1,4 @@
-Ophiobolus inflatus Sacc. & Briard SPECIES
-=======
+# Ophiobolus inflatus Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

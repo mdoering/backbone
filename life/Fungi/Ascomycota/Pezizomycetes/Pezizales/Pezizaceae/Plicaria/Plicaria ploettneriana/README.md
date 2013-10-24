@@ -1,5 +1,4 @@
-Plicaria ploettneriana Kirschst. SPECIES
-=======
+# Plicaria ploettneriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

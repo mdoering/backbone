@@ -1,5 +1,4 @@
-Coprinopsis herbivora (Singer) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis herbivora (Singer) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

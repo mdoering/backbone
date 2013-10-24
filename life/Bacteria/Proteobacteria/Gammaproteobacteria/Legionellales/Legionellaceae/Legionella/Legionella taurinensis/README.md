@@ -1,5 +1,4 @@
-Legionella taurinensis Lo Presti et al., 1999 SPECIES
-=======
+# Legionella taurinensis Lo Presti et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

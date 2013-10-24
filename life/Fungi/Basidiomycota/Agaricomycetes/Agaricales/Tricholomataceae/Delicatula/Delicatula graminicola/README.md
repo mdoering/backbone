@@ -1,5 +1,4 @@
-Delicatula graminicola Velen. SPECIES
-=======
+# Delicatula graminicola Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hemiarcyria clavata (Pers.) Rostaf., 1875 SPECIES
-=======
+# Hemitrichia clavata (Pers.) Rostaf., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz) 264 (1875)
+Vers. Syst. Mycetozoen (Strassburg) 14 (1873)
 
 #### Original name
 Trichia clavata Pers., 1794

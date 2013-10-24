@@ -1,5 +1,4 @@
-Phyllosticta pandanicola E. Young SPECIES
-=======
+# Phyllosticta pandanicola E. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ixechinus R. Heim GENUS
-=======
+# Fistulinella Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 13: 668 (1968)
+Bot. Jb. 30: 43 (1901)
 
 #### Original name
-Ixechinus R. Heim
+Fistulinella Henn.
 
 ### Remarks
 null

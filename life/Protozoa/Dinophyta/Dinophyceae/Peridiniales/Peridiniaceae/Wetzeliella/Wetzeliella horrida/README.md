@@ -1,5 +1,4 @@
-Wetzeliella horrida Jan du Chêne & Châteauneuf, 1975 SPECIES
-=======
+# Wetzeliella horrida Jan du Chêne & Châteauneuf, 1975 SPECIES
 
 #### Status
 ACCEPTED

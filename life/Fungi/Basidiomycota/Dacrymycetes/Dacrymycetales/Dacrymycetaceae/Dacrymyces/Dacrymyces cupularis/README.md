@@ -1,5 +1,4 @@
-Dacrymyces cupularis Lloyd, 1923 SPECIES
-=======
+# Dacrymyces cupularis Lloyd, 1923 SPECIES
 
 #### Status
 ACCEPTED

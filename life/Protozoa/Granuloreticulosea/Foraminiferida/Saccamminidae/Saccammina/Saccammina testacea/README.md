@@ -1,11 +1,10 @@
-Reophax difflugiformis var. testacea Flint, 1899 VARIETY
-=======
+# Saccammina testacea (Flint, 1899) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

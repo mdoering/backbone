@@ -1,5 +1,4 @@
-Moesziella pulchella Petr. SPECIES
-=======
+# Moesziella pulchella Petr. SPECIES
 
 #### Status
 ACCEPTED

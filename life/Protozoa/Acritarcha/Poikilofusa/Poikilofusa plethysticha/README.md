@@ -1,5 +1,4 @@
-Poikilofusa plethysticha Loeblich & Tappan, 1978 SPECIES
-=======
+# Poikilofusa plethysticha Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

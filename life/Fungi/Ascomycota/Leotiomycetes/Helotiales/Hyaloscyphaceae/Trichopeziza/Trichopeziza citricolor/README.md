@@ -1,5 +1,4 @@
-Trichopeziza citricolor (Berk. & Broome) Sacc. SPECIES
-=======
+# Trichopeziza citricolor (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

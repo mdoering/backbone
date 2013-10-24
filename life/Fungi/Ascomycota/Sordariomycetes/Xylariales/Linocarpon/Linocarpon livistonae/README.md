@@ -1,5 +1,4 @@
-Linocarpon livistonae (Henn.) K.D. Hyde SPECIES
-=======
+# Linocarpon livistonae (Henn.) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

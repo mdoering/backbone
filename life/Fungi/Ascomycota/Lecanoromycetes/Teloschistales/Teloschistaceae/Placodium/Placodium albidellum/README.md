@@ -1,5 +1,4 @@
-Placodium albidellum Tuck. SPECIES
-=======
+# Placodium albidellum Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium raineri De Not. SPECIES
-=======
+# Cenangium raineri De Not. SPECIES
 
 #### Status
 ACCEPTED

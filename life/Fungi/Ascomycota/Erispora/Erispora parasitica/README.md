@@ -1,5 +1,4 @@
-Erispora parasitica Pat., 1922 SPECIES
-=======
+# Erispora parasitica Pat., 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanopeziza campestris (Rehm) Jaap SPECIES
-=======
+# Drepanopeziza campestris (Rehm) Jaap SPECIES
 
 #### Status
 ACCEPTED

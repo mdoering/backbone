@@ -1,5 +1,4 @@
-Bacidia arbuti (Bagl.) Jatta SPECIES
-=======
+# Bacidia arbuti (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

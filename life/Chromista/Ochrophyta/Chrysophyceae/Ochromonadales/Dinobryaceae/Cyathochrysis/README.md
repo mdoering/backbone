@@ -1,5 +1,4 @@
-Cyathochrysis Czosnowski, 1948 GENUS
-=======
+# Cyathochrysis Czosnowski, 1948 GENUS
 
 #### Status
 SYNONYM

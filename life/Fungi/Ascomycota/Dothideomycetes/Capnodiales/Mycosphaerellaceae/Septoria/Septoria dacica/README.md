@@ -1,5 +1,4 @@
-Septoria dacica Radul. SPECIES
-=======
+# Septoria dacica Radul. SPECIES
 
 #### Status
 ACCEPTED

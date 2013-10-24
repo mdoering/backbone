@@ -1,17 +1,16 @@
-Xyphasma Rebent. GENUS
-=======
+# Hyphasma Rebentisch ex Nocca & Balbis, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-null
+Fl. Ticin. 2: 369 (1821)
 
 #### Original name
-Xyphasma Rebent.
+Hyphasma Rebentisch ex Nocca & Balbis, 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xenascus Cookson & Eisenack GENUS
-=======
+# Xenascus Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

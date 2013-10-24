@@ -1,14 +1,13 @@
-Adelococcus nephromatis (P. Crouan & H. Crouan) D. Hawksw., 1975 SPECIES
-=======
+# Roselliniella nephromatis (P. Crouan & H. Crouan) Matzer & Hafellner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 30(1): 201 (1975)
+Biblthca Lichenol. 37: 80 (1990)
 
 #### Original name
 Sphaeria nephromatis P. Crouan & H. Crouan, 1867

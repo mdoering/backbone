@@ -1,5 +1,4 @@
-Uncinia longispora Velen. SPECIES
-=======
+# Uncinia longispora Velen. SPECIES
 
 #### Status
 ACCEPTED

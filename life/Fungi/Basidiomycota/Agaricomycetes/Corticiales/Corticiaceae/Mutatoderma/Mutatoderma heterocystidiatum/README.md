@@ -1,14 +1,13 @@
-Hyphoderma heterocystidiatum (Burt) Donk, 1957 SPECIES
-=======
+# Mutatoderma heterocystidiatum (Burt) C.E. Gómez, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 27: 15 (1957)
+in Gómez & Loewenbaum, Boln Soc. argent. Bot. 17(3-4): 346 (1976)
 
 #### Original name
 Peniophora heterocystidia Burt

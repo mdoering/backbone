@@ -1,5 +1,4 @@
-Trichothelium bipindense F. Schill. SPECIES
-=======
+# Trichothelium bipindense F. Schill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stauronema (Saccardo) Sydow, P. Sydow & E.J. Butler, 1916 GENUS
-=======
+# Stauronema (Saccardo) Sydow, P. Sydow & E.J. Butler, 1916 GENUS
 
 #### Status
 ACCEPTED

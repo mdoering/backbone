@@ -1,5 +1,4 @@
-Chloroflexaceae FAMILY
-=======
+# Chloroflexaceae FAMILY
 
 #### Status
 ACCEPTED

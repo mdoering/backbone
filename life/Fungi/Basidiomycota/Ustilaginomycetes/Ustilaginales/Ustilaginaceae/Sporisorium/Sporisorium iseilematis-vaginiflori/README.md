@@ -1,5 +1,4 @@
-Sporisorium iseilematis-vaginiflori Vánky, 1999 SPECIES
-=======
+# Sporisorium iseilematis-vaginiflori Vánky, 1999 SPECIES
 
 #### Status
 ACCEPTED

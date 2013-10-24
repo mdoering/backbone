@@ -1,5 +1,4 @@
-Phaeocalicium cercocarpicola E.B. Peterson & Titov SPECIES
-=======
+# Phaeocalicium cercocarpicola E.B. Peterson & Titov SPECIES
 
 #### Status
 ACCEPTED

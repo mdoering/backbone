@@ -1,14 +1,13 @@
-Hypochnus aurantiacus (Pat.) Burt, 1916 SPECIES
-=======
+# Tomentella aurantiaca Pat., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 3: 241 (1916)
+Bull. Soc. mycol. Fr. 24: 3 (1908)
 
 #### Original name
 Tomentella aurantiaca Pat., 1908

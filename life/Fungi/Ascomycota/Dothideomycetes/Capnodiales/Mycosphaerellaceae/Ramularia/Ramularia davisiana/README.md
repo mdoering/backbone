@@ -1,5 +1,4 @@
-Ramularia davisiana U. Braun SPECIES
-=======
+# Ramularia davisiana U. Braun SPECIES
 
 #### Status
 ACCEPTED

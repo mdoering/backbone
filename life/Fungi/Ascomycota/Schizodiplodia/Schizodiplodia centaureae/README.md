@@ -1,5 +1,4 @@
-Schizodiplodia centaureae (Gonz. Frag.) Zambett. SPECIES
-=======
+# Schizodiplodia centaureae (Gonz. Frag.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

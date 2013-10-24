@@ -1,5 +1,4 @@
-Eutypa tarrietiae Henn. SPECIES
-=======
+# Eutypa tarrietiae Henn. SPECIES
 
 #### Status
 ACCEPTED

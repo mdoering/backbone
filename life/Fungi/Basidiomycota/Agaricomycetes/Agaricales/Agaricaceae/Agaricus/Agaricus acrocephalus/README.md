@@ -1,5 +1,4 @@
-Agaricus acrocephalus J. Otto SPECIES
-=======
+# Agaricus acrocephalus J. Otto SPECIES
 
 #### Status
 ACCEPTED

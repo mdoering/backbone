@@ -1,5 +1,4 @@
-Lyngbya persicina Reinke SPECIES
-=======
+# Lyngbya persicina Reinke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protosporangium fragile L.S. Olive & Stoian., 1972 SPECIES
-=======
+# Protosporangium fragile L.S. Olive & Stoian., 1972 SPECIES
 
 #### Status
 ACCEPTED

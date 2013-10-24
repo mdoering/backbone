@@ -1,5 +1,4 @@
-Sphaeropsis glandulosa Cooke, 1877 SPECIES
-=======
+# Sphaeropsis glandulosa Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED

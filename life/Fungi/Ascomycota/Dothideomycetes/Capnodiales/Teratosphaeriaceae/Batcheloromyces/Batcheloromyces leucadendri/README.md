@@ -1,5 +1,4 @@
-Batcheloromyces leucadendri P.S. van Wyk, Marasas & Knox-Dav., 1985 SPECIES
-=======
+# Batcheloromyces leucadendri P.S. van Wyk, Marasas & Knox-Dav., 1985 SPECIES
 
 #### Status
 ACCEPTED

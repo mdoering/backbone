@@ -1,5 +1,4 @@
-Periconia xanthiicola V. Rao SPECIES
-=======
+# Periconia xanthiicola V. Rao SPECIES
 
 #### Status
 ACCEPTED

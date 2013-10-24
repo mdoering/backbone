@@ -1,5 +1,4 @@
-Micromonospora Orskov GENUS
-=======
+# Micromonospora Orskov GENUS
 
 #### Status
 ACCEPTED

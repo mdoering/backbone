@@ -1,5 +1,4 @@
-Trachelomonas hesperia Playfair SPECIES
-=======
+# Trachelomonas hesperia Playfair SPECIES
 
 #### Status
 ACCEPTED

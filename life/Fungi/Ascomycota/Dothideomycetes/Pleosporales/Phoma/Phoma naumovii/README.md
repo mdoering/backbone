@@ -1,5 +1,4 @@
-Phoma naumovii Cash SPECIES
-=======
+# Phoma naumovii Cash SPECIES
 
 #### Status
 ACCEPTED

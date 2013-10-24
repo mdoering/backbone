@@ -1,5 +1,4 @@
-Persooniella deminuta (Vleugel) Syd. SPECIES
-=======
+# Persooniella deminuta (Vleugel) Syd. SPECIES
 
 #### Status
 ACCEPTED

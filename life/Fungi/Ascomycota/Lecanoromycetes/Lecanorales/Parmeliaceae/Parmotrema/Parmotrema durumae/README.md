@@ -1,17 +1,16 @@
-Parmelia durumae Krog & Swinscow SPECIES
-=======
+# Parmotrema durumae (Krog & Swinscow) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 15(2): 130 (1983)
 
 #### Original name
-null
+Parmelia durumae Krog & Swinscow
 
 ### Remarks
 null

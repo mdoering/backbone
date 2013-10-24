@@ -1,5 +1,4 @@
-Entoloma conspicuocystidiosum E. Horak & Singer SPECIES
-=======
+# Entoloma conspicuocystidiosum E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

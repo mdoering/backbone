@@ -1,5 +1,4 @@
-Mycena illita Corner SPECIES
-=======
+# Mycena illita Corner SPECIES
 
 #### Status
 ACCEPTED

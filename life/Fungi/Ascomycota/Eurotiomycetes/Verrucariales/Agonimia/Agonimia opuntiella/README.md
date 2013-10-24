@@ -1,14 +1,13 @@
-Phaeophyscia opuntiella (Buschardt & Poelt) Hafellner SPECIES
-=======
+# Agonimia opuntiella (Buschardt & Poelt) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. naturw. Ver. Steierm. 122: 116 (1992)
+Lichenes Rariores Exsiccati 33(nos 321-330): 4, no. 330 (1997)
 
 #### Original name
 Physcia opuntiella Buschardt & Poelt

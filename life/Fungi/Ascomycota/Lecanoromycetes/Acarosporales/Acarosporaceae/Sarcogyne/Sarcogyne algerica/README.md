@@ -1,5 +1,4 @@
-Sarcogyne algerica H. Magn. SPECIES
-=======
+# Sarcogyne algerica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

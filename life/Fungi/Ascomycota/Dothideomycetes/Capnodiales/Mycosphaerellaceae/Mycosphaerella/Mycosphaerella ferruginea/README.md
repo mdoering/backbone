@@ -1,5 +1,4 @@
-Mycosphaerella ferruginea (Fuckel) Cruchet SPECIES
-=======
+# Mycosphaerella ferruginea (Fuckel) Cruchet SPECIES
 
 #### Status
 ACCEPTED

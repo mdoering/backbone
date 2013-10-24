@@ -1,5 +1,4 @@
-Rutstroemia lateritia Velen. SPECIES
-=======
+# Rutstroemia lateritia Velen. SPECIES
 
 #### Status
 ACCEPTED

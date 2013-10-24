@@ -1,5 +1,4 @@
-Agaricus revelatus Berk. & Broome SPECIES
-=======
+# Agaricus revelatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

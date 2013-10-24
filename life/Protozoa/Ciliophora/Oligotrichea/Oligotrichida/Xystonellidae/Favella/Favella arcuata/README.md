@@ -1,5 +1,4 @@
-Favella arcuata SPECIES
-=======
+# Favella arcuata SPECIES
 
 #### Status
 ACCEPTED

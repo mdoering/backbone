@@ -1,17 +1,16 @@
-Laboulbenia rnacarthuri Balazuc SPECIES
-=======
+# Laboulbenia macarthurii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 40(6): 171 (1971)
 
 #### Original name
-Laboulbenia rnacarthuri Balazuc
+Laboulbenia macarthurii Balazuc
 
 ### Remarks
 null

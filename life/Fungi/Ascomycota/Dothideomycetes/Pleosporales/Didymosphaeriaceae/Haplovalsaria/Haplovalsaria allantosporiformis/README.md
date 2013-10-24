@@ -1,5 +1,4 @@
-Haplovalsaria allantosporiformis E. Müll. & S. Ahmad SPECIES
-=======
+# Haplovalsaria allantosporiformis E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

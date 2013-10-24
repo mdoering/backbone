@@ -1,5 +1,4 @@
-Stanjemonium fuscescens W. Gams, Schroers & Abdullah, 1999 SPECIES
-=======
+# Stanjemonium fuscescens W. Gams, Schroers & Abdullah, 1999 SPECIES
 
 #### Status
 ACCEPTED

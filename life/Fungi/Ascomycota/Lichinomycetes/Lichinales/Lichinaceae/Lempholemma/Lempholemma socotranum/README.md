@@ -1,5 +1,4 @@
-Lempholemma socotranum M. Schultz SPECIES
-=======
+# Lempholemma socotranum M. Schultz SPECIES
 
 #### Status
 ACCEPTED

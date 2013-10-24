@@ -1,5 +1,4 @@
-Ditopella populi J. Schröt. SPECIES
-=======
+# Ditopella populi J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

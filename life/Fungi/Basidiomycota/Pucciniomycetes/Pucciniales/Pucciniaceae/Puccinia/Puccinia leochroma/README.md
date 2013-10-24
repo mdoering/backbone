@@ -1,5 +1,4 @@
-Puccinia leochroma Syd. & P. Syd. SPECIES
-=======
+# Puccinia leochroma Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

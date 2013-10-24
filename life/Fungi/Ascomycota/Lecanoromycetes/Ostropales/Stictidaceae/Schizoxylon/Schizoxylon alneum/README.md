@@ -1,5 +1,4 @@
-Schizoxylon alneum Feltgen SPECIES
-=======
+# Schizoxylon alneum Feltgen SPECIES
 
 #### Status
 ACCEPTED

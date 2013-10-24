@@ -1,5 +1,4 @@
-Brachysporium fumosum (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Brachysporium fumosum (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria subdemutabilis Gyeln. SPECIES
-=======
+# Pseudocyphellaria subdemutabilis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

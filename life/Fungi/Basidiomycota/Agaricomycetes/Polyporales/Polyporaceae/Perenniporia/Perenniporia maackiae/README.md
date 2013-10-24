@@ -1,17 +1,16 @@
-Heterobasidion mellea (Bondartsev & Ljub.) Bondartseva SPECIES
-=======
+# Perenniporia maackiae (Bondartsev & Ljub.) Parmasto, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Dai & Niemelä, Ann. bot. fenn. 32(4): 223 (1995)
 
 #### Original name
-Fomitopsis mellea Bondartsev & Ljub., 1962
+Fomitopsis maackiae Bondartsev & Ljub., 1962
 
 ### Remarks
 null

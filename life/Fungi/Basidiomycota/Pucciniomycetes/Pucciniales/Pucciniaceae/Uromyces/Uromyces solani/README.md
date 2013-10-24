@@ -1,5 +1,4 @@
-Uromyces solani Dietel & Holw. SPECIES
-=======
+# Uromyces solani Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopus stropharioides E. Horak, 1975 SPECIES
-=======
+# Stephanopus stropharioides E. Horak, 1975 SPECIES
 
 #### Status
 ACCEPTED

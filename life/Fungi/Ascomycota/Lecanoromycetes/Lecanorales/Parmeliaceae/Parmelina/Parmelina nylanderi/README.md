@@ -1,5 +1,4 @@
-Parmelina nylanderi (Lynge) Hale SPECIES
-=======
+# Parmelina nylanderi (Lynge) Hale SPECIES
 
 #### Status
 ACCEPTED

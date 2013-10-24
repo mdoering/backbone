@@ -1,5 +1,4 @@
-Phloeospora sphaerophysae Gapon. SPECIES
-=======
+# Phloeospora sphaerophysae Gapon. SPECIES
 
 #### Status
 ACCEPTED

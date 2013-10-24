@@ -1,5 +1,4 @@
-Parmelia ramulicola C.W. Dodge SPECIES
-=======
+# Parmelia ramulicola C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

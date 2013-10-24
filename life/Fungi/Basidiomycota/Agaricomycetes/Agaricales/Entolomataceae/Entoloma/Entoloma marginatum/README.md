@@ -1,5 +1,4 @@
-Entoloma marginatum Hesler SPECIES
-=======
+# Entoloma marginatum Hesler SPECIES
 
 #### Status
 ACCEPTED

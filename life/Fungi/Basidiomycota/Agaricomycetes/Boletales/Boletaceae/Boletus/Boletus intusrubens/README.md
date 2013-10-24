@@ -1,5 +1,4 @@
-Boletus intusrubens Corner SPECIES
-=======
+# Boletus intusrubens Corner SPECIES
 
 #### Status
 ACCEPTED

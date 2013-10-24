@@ -1,5 +1,4 @@
-Haploravenelia inconspicua (Arthur) Syd. SPECIES
-=======
+# Haploravenelia inconspicua (Arthur) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria solidaginicola House SPECIES
-=======
+# Septoria solidaginicola House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menegazzia cincinnata (Ach.) Bitter SPECIES
-=======
+# Menegazzia cincinnata (Ach.) Bitter SPECIES
 
 #### Status
 ACCEPTED

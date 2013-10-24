@@ -1,5 +1,4 @@
-Diatrype montana Lar.N. Vassiljeva SPECIES
-=======
+# Diatrype montana Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

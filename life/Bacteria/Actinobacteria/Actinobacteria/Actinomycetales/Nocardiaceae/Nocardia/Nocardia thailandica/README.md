@@ -1,5 +1,4 @@
-Nocardia thailandica Kageyama et al., 2005 SPECIES
-=======
+# Nocardia thailandica Kageyama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

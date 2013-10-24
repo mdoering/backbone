@@ -1,5 +1,4 @@
-Kyphomyces grenadinus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces grenadinus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

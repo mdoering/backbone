@@ -1,5 +1,4 @@
-Chaetophoma glumarum I. Miyake SPECIES
-=======
+# Chaetophoma glumarum I. Miyake SPECIES
 
 #### Status
 ACCEPTED

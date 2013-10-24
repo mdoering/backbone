@@ -1,17 +1,16 @@
-Zoophthora petchi Ben Ze'ev & R.G. Kenneth SPECIES
-=======
+# Zoophthora petchii Ben Ze'ev & R.G. Kenneth, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Entomophaga 26(2): 140 (1981)
 
 #### Original name
-Zoophthora petchi Ben Ze'ev & R.G. Kenneth
+Zoophthora petchii Ben Ze'ev & R.G. Kenneth, 1981
 
 ### Remarks
 null

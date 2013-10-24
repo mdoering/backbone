@@ -1,5 +1,4 @@
-Meliola triseptata Berk. & Broome SPECIES
-=======
+# Meliola triseptata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

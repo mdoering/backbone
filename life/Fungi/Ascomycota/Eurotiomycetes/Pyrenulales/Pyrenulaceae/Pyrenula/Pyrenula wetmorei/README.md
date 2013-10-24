@@ -1,5 +1,4 @@
-Pyrenula wetmorei R.C. Harris SPECIES
-=======
+# Pyrenula wetmorei R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

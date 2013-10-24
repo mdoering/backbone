@@ -1,5 +1,4 @@
-Massariella bispora M.A. Curtis SPECIES
-=======
+# Massariella bispora M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

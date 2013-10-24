@@ -1,14 +1,13 @@
-Kluyveromyces waltii K. Kodama, 1974 SPECIES
-=======
+# Lachancea waltii (K. Kodama) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Ferment. Technol. , Osaka 52(9): 609 (1974)
+FEMS Yeast Res. 4(3): 240 (2003)
 
 #### Original name
 Kluyveromyces waltii K. Kodama, 1974

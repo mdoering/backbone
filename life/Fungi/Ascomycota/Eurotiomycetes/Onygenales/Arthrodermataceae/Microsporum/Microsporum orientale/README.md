@@ -1,5 +1,4 @@
-Microsporum orientale Carol SPECIES
-=======
+# Microsporum orientale Carol SPECIES
 
 #### Status
 ACCEPTED

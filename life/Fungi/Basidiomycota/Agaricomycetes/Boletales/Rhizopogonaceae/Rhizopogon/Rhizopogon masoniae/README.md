@@ -1,5 +1,4 @@
-Rhizopogon masoniae A.H. Sm. SPECIES
-=======
+# Rhizopogon masoniae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

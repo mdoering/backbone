@@ -1,5 +1,4 @@
-Triflagellum Namyslowski GENUS
-=======
+# Triflagellum Namyslowski GENUS
 
 #### Status
 ACCEPTED

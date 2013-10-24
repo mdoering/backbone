@@ -1,5 +1,4 @@
-Hygrophorus karstenii Sacc. & Cub. SPECIES
-=======
+# Hygrophorus karstenii Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

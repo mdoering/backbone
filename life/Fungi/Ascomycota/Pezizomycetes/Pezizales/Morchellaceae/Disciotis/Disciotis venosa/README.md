@@ -1,11 +1,10 @@
-Disciotis venosa f. venosa FORM
-=======
+# Disciotis venosa (Pers.) Arnould, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. mycol. Fr. 9: 111 (1893)

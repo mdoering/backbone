@@ -1,5 +1,4 @@
-Verrucaria viridifusca Eitner SPECIES
-=======
+# Verrucaria viridifusca Eitner SPECIES
 
 #### Status
 ACCEPTED

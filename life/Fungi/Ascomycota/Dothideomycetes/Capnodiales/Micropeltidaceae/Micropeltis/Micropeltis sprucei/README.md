@@ -1,5 +1,4 @@
-Micropeltis sprucei (Cooke) Sacc. SPECIES
-=======
+# Micropeltis sprucei (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

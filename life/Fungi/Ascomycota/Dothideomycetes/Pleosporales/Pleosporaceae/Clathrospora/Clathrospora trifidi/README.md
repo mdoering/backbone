@@ -1,5 +1,4 @@
-Clathrospora trifidi (Wehm.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Clathrospora trifidi (Wehm.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

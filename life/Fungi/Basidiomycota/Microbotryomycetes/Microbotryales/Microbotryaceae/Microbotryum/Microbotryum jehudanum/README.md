@@ -1,14 +1,13 @@
-Ustilago jehudana Zundel, 1944 SPECIES
-=======
+# Microbotryum jehudanum (Zundel) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 36(4): 401 (1944)
+Mycotaxon 67: 45 (1998)
 
 #### Original name
 Ustilago jehudana Zundel, 1944

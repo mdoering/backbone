@@ -1,5 +1,4 @@
-Septoria higginsii Traverso SPECIES
-=======
+# Septoria higginsii Traverso SPECIES
 
 #### Status
 ACCEPTED

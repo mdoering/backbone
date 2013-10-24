@@ -1,5 +1,4 @@
-Dothiorella peucedani S. Ahmad SPECIES
-=======
+# Dothiorella peucedani S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

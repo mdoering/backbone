@@ -1,5 +1,4 @@
-Phylloporus guanacastensis L.D. Gómez SPECIES
-=======
+# Phylloporus guanacastensis L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

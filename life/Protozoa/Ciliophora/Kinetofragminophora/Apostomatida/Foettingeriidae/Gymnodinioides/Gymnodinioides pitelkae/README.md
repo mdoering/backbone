@@ -1,5 +1,4 @@
-Gymnodinioides pitelkae Bradbury, 2005 SPECIES
-=======
+# Gymnodinioides pitelkae Bradbury, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena lammiensis Harmaja SPECIES
-=======
+# Mycena lammiensis Harmaja SPECIES
 
 #### Status
 ACCEPTED

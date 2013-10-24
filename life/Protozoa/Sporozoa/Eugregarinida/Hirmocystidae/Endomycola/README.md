@@ -1,5 +1,4 @@
-Endomycola Théodoridès, Desportes & Jolivet, 1972 GENUS
-=======
+# Endomycola Théodoridès, Desportes & Jolivet, 1972 GENUS
 
 #### Status
 ACCEPTED

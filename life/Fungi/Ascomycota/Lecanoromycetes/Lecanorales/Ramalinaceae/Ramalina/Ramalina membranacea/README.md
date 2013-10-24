@@ -1,5 +1,4 @@
-Ramalina membranacea Mont. SPECIES
-=======
+# Ramalina membranacea Mont. SPECIES
 
 #### Status
 ACCEPTED

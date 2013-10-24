@@ -1,5 +1,4 @@
-Asterostomula pseudospondiadis Bat. & H. Maia SPECIES
-=======
+# Asterostomula pseudospondiadis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

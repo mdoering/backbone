@@ -1,5 +1,4 @@
-Stichochoeta tricornuta Dumas, 1937 SPECIES
-=======
+# Stichochoeta tricornuta Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rostrelensis B. de Lesd. SPECIES
-=======
+# Lecidea rostrelensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

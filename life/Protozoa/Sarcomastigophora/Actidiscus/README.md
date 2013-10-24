@@ -1,5 +1,4 @@
-Actidiscus Haeckel, 1887 GENUS
-=======
+# Actidiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeodontia xerophila Tellería, M. Dueñas, Rodríguez-Armas, Beltrán-Tej. & Melo SPECIES
-=======
+# Gloeodontia xerophila Tellería, M. Dueñas, Rodríguez-Armas, Beltrán-Tej. & Melo SPECIES
 
 #### Status
 ACCEPTED

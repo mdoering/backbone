@@ -1,5 +1,4 @@
-Asteridiella schwenkiae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella schwenkiae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

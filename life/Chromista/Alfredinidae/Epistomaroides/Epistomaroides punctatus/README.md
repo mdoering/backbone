@@ -1,5 +1,4 @@
-Epistomaroides punctatus (Said, 1949) SPECIES
-=======
+# Epistomaroides punctatus (Said, 1949) SPECIES
 
 #### Status
 ACCEPTED

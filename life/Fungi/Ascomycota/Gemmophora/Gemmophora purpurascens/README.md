@@ -1,5 +1,4 @@
-Gemmophora purpurascens Schkorb. SPECIES
-=======
+# Gemmophora purpurascens Schkorb. SPECIES
 
 #### Status
 ACCEPTED

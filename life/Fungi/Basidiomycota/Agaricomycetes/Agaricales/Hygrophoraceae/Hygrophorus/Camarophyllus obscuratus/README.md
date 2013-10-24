@@ -1,5 +1,4 @@
-Camarophyllus obscuratus P. Karst. SPECIES
-=======
+# Camarophyllus obscuratus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

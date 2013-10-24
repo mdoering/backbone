@@ -1,17 +1,16 @@
-Dimerella diluta var. diluta VARIETY
-=======
+# Dimerella pineti (Ach.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Ist. Lomb. 13: 66 (1880)
+Lichenes Selecti Exsiccati (Pruhonice) 52: no. 1279 (1975)
 
 #### Original name
-Dimerella diluta var. diluta
+Lecidea pineti Schrad. ex Ach.
 
 ### Remarks
 null

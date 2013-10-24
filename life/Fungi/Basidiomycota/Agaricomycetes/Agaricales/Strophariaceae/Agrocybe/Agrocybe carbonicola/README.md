@@ -1,5 +1,4 @@
-Agrocybe carbonicola Migl. & Coccia SPECIES
-=======
+# Agrocybe carbonicola Migl. & Coccia SPECIES
 
 #### Status
 ACCEPTED

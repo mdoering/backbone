@@ -1,5 +1,4 @@
-Glossophora coriacea Holmes SPECIES
-=======
+# Glossophora coriacea Holmes SPECIES
 
 #### Status
 ACCEPTED

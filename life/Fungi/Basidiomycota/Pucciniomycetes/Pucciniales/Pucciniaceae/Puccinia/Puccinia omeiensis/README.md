@@ -1,5 +1,4 @@
-Puccinia omeiensis F.L. Tai SPECIES
-=======
+# Puccinia omeiensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

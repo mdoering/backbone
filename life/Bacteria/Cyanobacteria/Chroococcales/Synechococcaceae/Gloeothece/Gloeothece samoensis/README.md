@@ -1,5 +1,4 @@
-Gloeothece samoensis Wille SPECIES
-=======
+# Gloeothece samoensis Wille SPECIES
 
 #### Status
 ACCEPTED

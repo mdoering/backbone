@@ -1,5 +1,4 @@
-Pyrenopeziza scabiosicola Petr. SPECIES
-=======
+# Pyrenopeziza scabiosicola Petr. SPECIES
 
 #### Status
 ACCEPTED

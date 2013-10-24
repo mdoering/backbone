@@ -1,5 +1,4 @@
-Cercospora innumerabilis (Fuckel) Höhn. SPECIES
-=======
+# Cercospora innumerabilis (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta dubia Sacc. SPECIES
-=======
+# Phyllosticta dubia Sacc. SPECIES
 
 #### Status
 ACCEPTED

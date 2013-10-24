@@ -1,5 +1,4 @@
-Chaetoceros pelagicum SPECIES
-=======
+# Chaetoceros pelagicum SPECIES
 
 #### Status
 ACCEPTED

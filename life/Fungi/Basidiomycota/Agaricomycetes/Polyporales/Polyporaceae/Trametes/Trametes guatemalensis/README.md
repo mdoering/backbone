@@ -1,5 +1,4 @@
-Trametes guatemalensis Lloyd SPECIES
-=======
+# Trametes guatemalensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

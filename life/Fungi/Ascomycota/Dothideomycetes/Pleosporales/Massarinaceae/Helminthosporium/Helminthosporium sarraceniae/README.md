@@ -1,5 +1,4 @@
-Helminthosporium sarraceniae MacMill. SPECIES
-=======
+# Helminthosporium sarraceniae MacMill. SPECIES
 
 #### Status
 ACCEPTED

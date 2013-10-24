@@ -1,5 +1,4 @@
-Duportella rhoica Boidin & Lanq., 1995 SPECIES
-=======
+# Duportella rhoica Boidin & Lanq., 1995 SPECIES
 
 #### Status
 ACCEPTED

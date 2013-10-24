@@ -1,5 +1,4 @@
-Phyllachora abortiva (Desm.) Fuckel, 1870 SPECIES
-=======
+# Phyllachora abortiva (Desm.) Fuckel, 1870 SPECIES
 
 #### Status
 DOUBTFUL

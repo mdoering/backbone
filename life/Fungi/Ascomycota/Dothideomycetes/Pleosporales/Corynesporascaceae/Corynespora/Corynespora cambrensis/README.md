@@ -1,5 +1,4 @@
-Corynespora cambrensis M.B. Ellis, 1960 SPECIES
-=======
+# Corynespora cambrensis M.B. Ellis, 1960 SPECIES
 
 #### Status
 ACCEPTED

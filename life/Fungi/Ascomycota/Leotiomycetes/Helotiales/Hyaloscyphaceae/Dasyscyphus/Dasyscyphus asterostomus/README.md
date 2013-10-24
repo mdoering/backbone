@@ -1,5 +1,4 @@
-Dasyscyphus asterostomus (W. Phillips) SPECIES
-=======
+# Dasyscyphus asterostomus (W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

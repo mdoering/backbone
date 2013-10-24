@@ -1,5 +1,4 @@
-Coelomomyces cairnsensis Laird SPECIES
-=======
+# Coelomomyces cairnsensis Laird SPECIES
 
 #### Status
 ACCEPTED

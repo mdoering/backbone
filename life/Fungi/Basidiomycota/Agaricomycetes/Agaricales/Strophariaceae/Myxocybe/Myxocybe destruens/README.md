@@ -1,5 +1,4 @@
-Myxocybe destruens (Brond.) Heim SPECIES
-=======
+# Myxocybe destruens (Brond.) Heim SPECIES
 
 #### Status
 ACCEPTED

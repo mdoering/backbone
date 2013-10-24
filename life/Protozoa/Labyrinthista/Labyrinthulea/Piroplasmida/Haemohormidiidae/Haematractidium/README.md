@@ -1,5 +1,4 @@
-Haematractidium Henry, 1910 GENUS
-=======
+# Haematractidium Henry, 1910 GENUS
 
 #### Status
 ACCEPTED

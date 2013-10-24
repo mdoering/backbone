@@ -1,5 +1,4 @@
-Torula nivea Fuckel SPECIES
-=======
+# Torula nivea Fuckel SPECIES
 
 #### Status
 ACCEPTED

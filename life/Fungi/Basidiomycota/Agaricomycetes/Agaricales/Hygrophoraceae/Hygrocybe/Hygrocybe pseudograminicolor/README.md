@@ -1,5 +1,4 @@
-Hygrocybe pseudograminicolor A.M. Young SPECIES
-=======
+# Hygrocybe pseudograminicolor A.M. Young SPECIES
 
 #### Status
 ACCEPTED

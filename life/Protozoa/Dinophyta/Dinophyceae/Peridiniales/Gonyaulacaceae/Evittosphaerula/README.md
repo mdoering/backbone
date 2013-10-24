@@ -1,5 +1,4 @@
-Evittosphaerula S.B. Manum, 1979 GENUS
-=======
+# Evittosphaerula S.B. Manum, 1979 GENUS
 
 #### Status
 ACCEPTED

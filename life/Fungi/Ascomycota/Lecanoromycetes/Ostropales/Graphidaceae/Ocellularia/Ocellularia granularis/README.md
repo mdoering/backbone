@@ -1,5 +1,4 @@
-Ocellularia granularis Müll. Arg. SPECIES
-=======
+# Ocellularia granularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

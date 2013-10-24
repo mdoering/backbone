@@ -1,5 +1,4 @@
-Parmelia sanguinolenta Meyer {?} ex Casaretho {?} SPECIES
-=======
+# Parmelia sanguinolenta Meyer {?} ex Casaretho {?} SPECIES
 
 #### Status
 ACCEPTED

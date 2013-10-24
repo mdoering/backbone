@@ -1,5 +1,4 @@
-Mycobacterium austroafricanum Tsukamura et al., 1983 SPECIES
-=======
+# Mycobacterium austroafricanum Tsukamura et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planomonospora alba Mertz, 1994 SPECIES
-=======
+# Planomonospora alba Mertz, 1994 SPECIES
 
 #### Status
 ACCEPTED

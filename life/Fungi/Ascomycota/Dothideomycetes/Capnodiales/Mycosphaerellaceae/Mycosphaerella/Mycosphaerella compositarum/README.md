@@ -1,5 +1,4 @@
-Mycosphaerella compositarum (Auersw.) J. Schröt. SPECIES
-=======
+# Mycosphaerella compositarum (Auersw.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

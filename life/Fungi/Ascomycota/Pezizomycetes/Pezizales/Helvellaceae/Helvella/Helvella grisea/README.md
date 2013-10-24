@@ -1,5 +1,4 @@
-Helvella grisea Clem. SPECIES
-=======
+# Helvella grisea Clem. SPECIES
 
 #### Status
 ACCEPTED

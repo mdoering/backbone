@@ -1,5 +1,4 @@
-Palmicricothus Deflandre GENUS
-=======
+# Palmicricothus Deflandre GENUS
 
 #### Status
 ACCEPTED

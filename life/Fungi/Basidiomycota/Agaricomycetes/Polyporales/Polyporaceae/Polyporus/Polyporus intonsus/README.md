@@ -1,5 +1,4 @@
-Polyporus intonsus Berk. SPECIES
-=======
+# Polyporus intonsus Berk. SPECIES
 
 #### Status
 ACCEPTED

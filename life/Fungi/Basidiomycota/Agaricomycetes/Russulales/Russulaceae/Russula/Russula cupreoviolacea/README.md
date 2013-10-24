@@ -1,5 +1,4 @@
-Russula cupreoviolacea var. cupreoviolacea VARIETY
-=======
+# Russula cupreoviolacea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula cupreoviolacea var. cupreoviolacea
+Russula cupreoviolacea
 
 ### Remarks
 null

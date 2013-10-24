@@ -1,5 +1,4 @@
-Chaetopeltaster japonicus Katum., 1975 SPECIES
-=======
+# Chaetopeltaster japonicus Katum., 1975 SPECIES
 
 #### Status
 ACCEPTED

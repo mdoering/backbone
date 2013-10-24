@@ -1,5 +1,4 @@
-Hypocrea turbinata Starbäck SPECIES
-=======
+# Hypocrea turbinata Starbäck SPECIES
 
 #### Status
 ACCEPTED

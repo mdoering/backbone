@@ -1,5 +1,4 @@
-Shigella Castellani & Chalmers, 1919 GENUS
-=======
+# Shigella Castellani & Chalmers, 1919 GENUS
 
 #### Status
 ACCEPTED

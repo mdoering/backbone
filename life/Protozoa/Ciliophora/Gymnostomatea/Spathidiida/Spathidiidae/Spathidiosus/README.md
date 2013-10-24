@@ -1,5 +1,4 @@
-Spathidiosus Gajewskaja, 1933 GENUS
-=======
+# Spathidiosus Gajewskaja, 1933 GENUS
 
 #### Status
 ACCEPTED

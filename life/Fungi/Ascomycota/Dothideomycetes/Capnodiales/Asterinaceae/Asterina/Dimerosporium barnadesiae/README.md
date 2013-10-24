@@ -1,5 +1,4 @@
-Dimerosporium barnadesiae Pat. SPECIES
-=======
+# Dimerosporium barnadesiae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria mimicula E.G. Simmons SPECIES
-=======
+# Alternaria mimicula E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

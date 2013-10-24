@@ -1,5 +1,4 @@
-Crepidotus albatus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus albatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

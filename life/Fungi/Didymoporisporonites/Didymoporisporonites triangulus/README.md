@@ -1,5 +1,4 @@
-Didymoporisporonites triangulus P. Ke & Z.Y. Shi SPECIES
-=======
+# Didymoporisporonites triangulus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

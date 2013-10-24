@@ -1,5 +1,4 @@
-Armillariella tigrensis (Singer) Raithelh. SPECIES
-=======
+# Armillariella tigrensis (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

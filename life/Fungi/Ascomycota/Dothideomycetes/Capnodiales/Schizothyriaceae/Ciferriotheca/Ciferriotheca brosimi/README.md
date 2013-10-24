@@ -1,17 +1,16 @@
-Ciferriotheca brosimumii Bat. & I.H. Lima SPECIES
-=======
+# Ciferriotheca brosimi Bat. & I.H. Lima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ciferri, Publções Inst. Micol. Recife 56: 395 (1959)
 
 #### Original name
-Ciferriotheca brosimumii Bat. & I.H. Lima
+Ciferriotheca brosimi Bat. & I.H. Lima
 
 ### Remarks
 null

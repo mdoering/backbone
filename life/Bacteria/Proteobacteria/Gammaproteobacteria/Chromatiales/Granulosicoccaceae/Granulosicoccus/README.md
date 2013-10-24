@@ -1,5 +1,4 @@
-Granulosicoccus Lee, Lee, Choi, Kim & Cho, 2008 GENUS
-=======
+# Granulosicoccus Lee, Lee, Choi, Kim & Cho, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ustilago heufleri Fuckel, 1870 SPECIES
-=======
+# Vankya heufleri (Fuckel) Ershad, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 39 (1870)
+Rostaniha 1(1-4): 68 (2000)
 
 #### Original name
 Ustilago heufleri Fuckel, 1870

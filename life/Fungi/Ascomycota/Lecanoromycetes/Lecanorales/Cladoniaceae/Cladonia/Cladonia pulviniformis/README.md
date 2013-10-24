@@ -1,5 +1,4 @@
-Cladonia pulviniformis Ahti SPECIES
-=======
+# Cladonia pulviniformis Ahti SPECIES
 
 #### Status
 ACCEPTED

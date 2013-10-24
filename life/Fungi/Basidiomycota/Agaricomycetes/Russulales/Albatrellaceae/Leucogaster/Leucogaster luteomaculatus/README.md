@@ -1,5 +1,4 @@
-Leucogaster luteomaculatus Zeller & C.W. Dodge SPECIES
-=======
+# Leucogaster luteomaculatus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

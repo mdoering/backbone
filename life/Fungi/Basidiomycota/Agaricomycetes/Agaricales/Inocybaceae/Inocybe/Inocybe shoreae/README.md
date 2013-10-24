@@ -1,5 +1,4 @@
-Inocybe shoreae (E. Horak & Bas) Garrido SPECIES
-=======
+# Inocybe shoreae (E. Horak & Bas) Garrido SPECIES
 
 #### Status
 ACCEPTED

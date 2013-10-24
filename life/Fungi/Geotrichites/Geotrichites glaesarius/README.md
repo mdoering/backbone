@@ -1,5 +1,4 @@
-Geotrichites glaesarius Stubblef., C.E. Mill., T.N. Taylor & G.T. Cole SPECIES
-=======
+# Geotrichites glaesarius Stubblef., C.E. Mill., T.N. Taylor & G.T. Cole SPECIES
 
 #### Status
 ACCEPTED

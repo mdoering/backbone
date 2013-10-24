@@ -1,5 +1,4 @@
-Phlebia patriciae Gilb. & Hemmes, 2004 SPECIES
-=======
+# Phlebia patriciae Gilb. & Hemmes, 2004 SPECIES
 
 #### Status
 ACCEPTED

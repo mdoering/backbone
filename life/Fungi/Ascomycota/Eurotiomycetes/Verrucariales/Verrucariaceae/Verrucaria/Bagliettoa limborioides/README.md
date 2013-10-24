@@ -1,17 +1,16 @@
-Verrucaria suzaeana f. suzaeana FORM
-=======
+# Bagliettoa limborioides A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Memor. Lichenogr. 146 (1853)
 
 #### Original name
-Verrucaria suzaeana f. suzaeana
+Bagliettoa limborioides A. Massal.
 
 ### Remarks
 null

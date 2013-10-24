@@ -1,5 +1,4 @@
-Cassidella bradyi (Cushman, 1922) SPECIES
-=======
+# Cassidella bradyi (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

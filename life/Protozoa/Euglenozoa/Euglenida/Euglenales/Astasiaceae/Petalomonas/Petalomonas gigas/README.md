@@ -1,5 +1,4 @@
-Petalomonas gigas Skuja SPECIES
-=======
+# Petalomonas gigas Skuja SPECIES
 
 #### Status
 ACCEPTED

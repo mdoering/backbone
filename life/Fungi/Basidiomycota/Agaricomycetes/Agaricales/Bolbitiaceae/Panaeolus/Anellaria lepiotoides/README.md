@@ -1,5 +1,4 @@
-Anellaria lepiotoides Speg. SPECIES
-=======
+# Anellaria lepiotoides Speg. SPECIES
 
 #### Status
 ACCEPTED

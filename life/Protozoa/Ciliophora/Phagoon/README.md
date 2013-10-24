@@ -1,5 +1,4 @@
-Phagoon Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Phagoon Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

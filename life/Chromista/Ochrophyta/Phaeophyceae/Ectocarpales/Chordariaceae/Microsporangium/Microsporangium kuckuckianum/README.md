@@ -1,5 +1,4 @@
-Microsporangium kuckuckianum Schiffner SPECIES
-=======
+# Microsporangium kuckuckianum Schiffner SPECIES
 
 #### Status
 ACCEPTED

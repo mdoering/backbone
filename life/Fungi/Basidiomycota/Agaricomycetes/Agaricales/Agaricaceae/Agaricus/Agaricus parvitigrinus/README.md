@@ -1,5 +1,4 @@
-Agaricus parvitigrinus Guinb. & Callac SPECIES
-=======
+# Agaricus parvitigrinus Guinb. & Callac SPECIES
 
 #### Status
 ACCEPTED

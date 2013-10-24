@@ -1,5 +1,4 @@
-Phomopsis villaresiae Gutner SPECIES
-=======
+# Phomopsis villaresiae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora sordidella Höhn. & Litsch. SPECIES
-=======
+# Peniophora sordidella Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

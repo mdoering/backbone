@@ -1,5 +1,4 @@
-Laboulbenia matheyi R. Baumgartner SPECIES
-=======
+# Laboulbenia matheyi R. Baumgartner SPECIES
 
 #### Status
 ACCEPTED

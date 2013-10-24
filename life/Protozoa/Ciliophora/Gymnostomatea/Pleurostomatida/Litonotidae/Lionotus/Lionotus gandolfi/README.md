@@ -1,5 +1,4 @@
-Lionotus gandolfi André, 1914 SPECIES
-=======
+# Lionotus gandolfi André, 1914 SPECIES
 
 #### Status
 ACCEPTED

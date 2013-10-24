@@ -1,5 +1,4 @@
-Fistulariella subgeniculata (Nyl.) Bowler & Rundel SPECIES
-=======
+# Fistulariella subgeniculata (Nyl.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

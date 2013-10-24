@@ -1,5 +1,4 @@
-Ceuthospora phyllosticta C. Massal., 1889 SPECIES
-=======
+# Ceuthospora phyllosticta C. Massal., 1889 SPECIES
 
 #### Status
 ACCEPTED

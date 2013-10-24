@@ -1,5 +1,4 @@
-Gerronema minutissimum Singer SPECIES
-=======
+# Gerronema minutissimum Singer SPECIES
 
 #### Status
 ACCEPTED

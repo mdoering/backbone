@@ -1,5 +1,4 @@
-Sclerotium glaciale Ferraris SPECIES
-=======
+# Sclerotium glaciale Ferraris SPECIES
 
 #### Status
 ACCEPTED

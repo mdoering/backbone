@@ -1,5 +1,4 @@
-Clisosporium cedri (Rolland) Kuntze SPECIES
-=======
+# Clisosporium cedri (Rolland) Kuntze SPECIES
 
 #### Status
 ACCEPTED

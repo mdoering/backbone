@@ -1,5 +1,4 @@
-Glischroderma Fuckel GENUS
-=======
+# Glischroderma Fuckel GENUS
 
 #### Status
 ACCEPTED

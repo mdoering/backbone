@@ -1,5 +1,4 @@
-Clisosporium phalaridis (Fautrey & Roum.) Kuntze SPECIES
-=======
+# Clisosporium phalaridis (Fautrey & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora hyalina (Griffiths) Cain SPECIES
-=======
+# Phomatospora hyalina (Griffiths) Cain SPECIES
 
 #### Status
 ACCEPTED

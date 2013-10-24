@@ -1,5 +1,4 @@
-Licea parvicapitata Y. Yamam., 2000 SPECIES
-=======
+# Licea parvicapitata Y. Yamam., 2000 SPECIES
 
 #### Status
 ACCEPTED

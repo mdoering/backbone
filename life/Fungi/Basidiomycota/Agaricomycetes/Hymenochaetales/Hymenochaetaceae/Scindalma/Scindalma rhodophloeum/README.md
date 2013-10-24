@@ -1,5 +1,4 @@
-Scindalma rhodophloeum Kuntze SPECIES
-=======
+# Scindalma rhodophloeum Kuntze SPECIES
 
 #### Status
 ACCEPTED

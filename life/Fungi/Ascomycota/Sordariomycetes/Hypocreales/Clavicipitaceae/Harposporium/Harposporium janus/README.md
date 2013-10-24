@@ -1,5 +1,4 @@
-Harposporium janus Shimazu & Glockling SPECIES
-=======
+# Harposporium janus Shimazu & Glockling SPECIES
 
 #### Status
 ACCEPTED

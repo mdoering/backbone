@@ -1,5 +1,4 @@
-Laboulbenia melanotheca Thaxt. SPECIES
-=======
+# Laboulbenia melanotheca Thaxt. SPECIES
 
 #### Status
 ACCEPTED

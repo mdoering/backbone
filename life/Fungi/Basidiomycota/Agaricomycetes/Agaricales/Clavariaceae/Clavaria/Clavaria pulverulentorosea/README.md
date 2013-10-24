@@ -1,5 +1,4 @@
-Clavaria pulverulentorosea Speg. SPECIES
-=======
+# Clavaria pulverulentorosea Speg. SPECIES
 
 #### Status
 ACCEPTED

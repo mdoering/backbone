@@ -1,8 +1,7 @@
-Microthyrium laurenti Henn. SPECIES
-=======
+# Microthyrium laurentii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microthyrium laurenti Henn.
+Microthyrium laurentii Henn.
 
 ### Remarks
 null

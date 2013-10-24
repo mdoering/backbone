@@ -1,5 +1,4 @@
-Clinoconidium bullatum Syd., 1927 SPECIES
-=======
+# Clinoconidium bullatum Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

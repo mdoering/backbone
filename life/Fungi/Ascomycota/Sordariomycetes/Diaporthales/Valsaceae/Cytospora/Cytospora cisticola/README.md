@@ -1,5 +1,4 @@
-Cytospora cisticola Sacc. & Traverso SPECIES
-=======
+# Cytospora cisticola Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

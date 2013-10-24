@@ -1,5 +1,4 @@
-Myriotrema whalleyanum Homchant. & Coppins SPECIES
-=======
+# Myriotrema whalleyanum Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula parallela Preuss SPECIES
-=======
+# Torula parallela Preuss SPECIES
 
 #### Status
 ACCEPTED

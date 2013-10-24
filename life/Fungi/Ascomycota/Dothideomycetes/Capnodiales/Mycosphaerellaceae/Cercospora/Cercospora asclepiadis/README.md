@@ -1,5 +1,4 @@
-Cercospora asclepiadis Henn. SPECIES
-=======
+# Cercospora asclepiadis Henn. SPECIES
 
 #### Status
 ACCEPTED

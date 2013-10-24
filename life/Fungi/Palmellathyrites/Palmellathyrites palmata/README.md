@@ -1,5 +1,4 @@
-Palmellathyrites palmata Locq., D. Pons & Sal.-Cheb. SPECIES
-=======
+# Palmellathyrites palmata Locq., D. Pons & Sal.-Cheb. SPECIES
 
 #### Status
 ACCEPTED

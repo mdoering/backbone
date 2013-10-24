@@ -1,5 +1,4 @@
-Capillaria fucina Wallr. SPECIES
-=======
+# Capillaria fucina Wallr. SPECIES
 
 #### Status
 ACCEPTED

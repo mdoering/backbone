@@ -1,5 +1,4 @@
-Aecidium cressae DC. SPECIES
-=======
+# Aecidium cressae DC. SPECIES
 
 #### Status
 ACCEPTED

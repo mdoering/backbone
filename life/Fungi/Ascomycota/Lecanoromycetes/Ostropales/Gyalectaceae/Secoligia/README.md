@@ -1,5 +1,4 @@
-Secoligia GENUS
-=======
+# Secoligia GENUS
 
 #### Status
 ACCEPTED

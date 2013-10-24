@@ -1,5 +1,4 @@
-Ephelis rhynchosporae Henn. SPECIES
-=======
+# Ephelis rhynchosporae Henn. SPECIES
 
 #### Status
 ACCEPTED

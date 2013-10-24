@@ -1,5 +1,4 @@
-Arthothelium lunulatum Zahlbr. SPECIES
-=======
+# Arthothelium lunulatum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

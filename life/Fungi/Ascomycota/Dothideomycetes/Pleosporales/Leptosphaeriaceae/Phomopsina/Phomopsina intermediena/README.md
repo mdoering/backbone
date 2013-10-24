@@ -1,5 +1,4 @@
-Phomopsina intermediena SPECIES
-=======
+# Phomopsina intermediena SPECIES
 
 #### Status
 ACCEPTED

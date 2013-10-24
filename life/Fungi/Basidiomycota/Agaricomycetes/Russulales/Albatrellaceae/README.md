@@ -1,5 +1,4 @@
-Albatrellaceae FAMILY
-=======
+# Albatrellaceae FAMILY
 
 #### Status
 ACCEPTED

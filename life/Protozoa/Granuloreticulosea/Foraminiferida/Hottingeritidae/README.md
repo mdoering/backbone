@@ -1,5 +1,4 @@
-Hottingeritidae Loeblich & Tappan, 1985 FAMILY
-=======
+# Hottingeritidae Loeblich & Tappan, 1985 FAMILY
 
 #### Status
 ACCEPTED

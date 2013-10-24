@@ -1,5 +1,4 @@
-Hysteropezizella typhae (Syd.) Nannf. SPECIES
-=======
+# Hysteropezizella typhae (Syd.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

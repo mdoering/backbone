@@ -1,5 +1,4 @@
-Payosphaeria minuta H.Y.M. Leung, 1990 SPECIES
-=======
+# Payosphaeria minuta H.Y.M. Leung, 1990 SPECIES
 
 #### Status
 ACCEPTED

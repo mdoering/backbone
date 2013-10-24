@@ -1,5 +1,4 @@
-Urostyla variabilis Borror & Wicklow, 1983 SPECIES
-=======
+# Urostyla variabilis Borror & Wicklow, 1983 SPECIES
 
 #### Status
 ACCEPTED

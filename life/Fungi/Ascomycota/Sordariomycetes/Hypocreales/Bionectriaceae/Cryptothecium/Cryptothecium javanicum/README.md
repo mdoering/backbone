@@ -1,5 +1,4 @@
-Cryptothecium javanicum Penz. & Sacc. SPECIES
-=======
+# Cryptothecium javanicum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

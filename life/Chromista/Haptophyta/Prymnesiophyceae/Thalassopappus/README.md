@@ -1,5 +1,4 @@
-Thalassopappus Kamptner, 1941 GENUS
-=======
+# Thalassopappus Kamptner, 1941 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium moorei Hepp SPECIES
-=======
+# Leptogium moorei Hepp SPECIES
 
 #### Status
 ACCEPTED

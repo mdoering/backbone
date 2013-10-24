@@ -1,5 +1,4 @@
-Wigwamma triradiata H. A. Thomsen SPECIES
-=======
+# Wigwamma triradiata H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haematobacter Helsel, Hollis, Steigerwalt, Morey, Jordan, Aye, Radosevic, Jannat-Khah, Thiry, Lonsway, Patel, Daneshvar & Levett, 2007 GENUS
-=======
+# Haematobacter Helsel, Hollis, Steigerwalt, Morey, Jordan, Aye, Radosevic, Jannat-Khah, Thiry, Lonsway, Patel, Daneshvar & Levett, 2007 GENUS
 
 #### Status
 ACCEPTED

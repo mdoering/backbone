@@ -1,5 +1,4 @@
-Cercospora premnigena Kamal SPECIES
-=======
+# Cercospora premnigena Kamal SPECIES
 
 #### Status
 ACCEPTED

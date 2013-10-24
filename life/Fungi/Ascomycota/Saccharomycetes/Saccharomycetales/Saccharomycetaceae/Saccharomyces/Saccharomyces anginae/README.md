@@ -1,5 +1,4 @@
-Saccharomyces anginae Vuill. SPECIES
-=======
+# Saccharomyces anginae Vuill. SPECIES
 
 #### Status
 ACCEPTED

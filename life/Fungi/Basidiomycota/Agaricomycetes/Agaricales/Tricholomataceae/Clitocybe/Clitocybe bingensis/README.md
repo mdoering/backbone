@@ -1,5 +1,4 @@
-Clitocybe bingensis Beeli SPECIES
-=======
+# Clitocybe bingensis Beeli SPECIES
 
 #### Status
 ACCEPTED

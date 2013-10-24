@@ -1,5 +1,4 @@
-Depazea lythri Kirchn. SPECIES
-=======
+# Depazea lythri Kirchn. SPECIES
 
 #### Status
 ACCEPTED

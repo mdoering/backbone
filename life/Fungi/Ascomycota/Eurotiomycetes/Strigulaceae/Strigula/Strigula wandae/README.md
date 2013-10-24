@@ -1,5 +1,4 @@
-Strigula wandae M. Cáceres & Lücking SPECIES
-=======
+# Strigula wandae M. Cáceres & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Canningia attadalica (Cookson & Eisenack, 1962) Stover & Evitt SPECIES
-=======
+# Canningia attadalica (Cookson & Eisenack, 1962) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

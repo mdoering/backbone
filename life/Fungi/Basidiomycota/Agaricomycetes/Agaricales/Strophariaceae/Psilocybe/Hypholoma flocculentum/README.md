@@ -1,5 +1,4 @@
-Hypholoma flocculentum McClatchie {?} SPECIES
-=======
+# Hypholoma flocculentum McClatchie {?} SPECIES
 
 #### Status
 ACCEPTED

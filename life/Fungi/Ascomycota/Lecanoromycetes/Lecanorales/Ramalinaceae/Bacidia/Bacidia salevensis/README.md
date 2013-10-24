@@ -1,5 +1,4 @@
-Bacidia salevensis Müll. Arg. SPECIES
-=======
+# Bacidia salevensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

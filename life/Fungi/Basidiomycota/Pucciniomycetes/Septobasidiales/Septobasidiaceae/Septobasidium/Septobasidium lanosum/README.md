@@ -1,5 +1,4 @@
-Septobasidium lanosum Pat. SPECIES
-=======
+# Septobasidium lanosum Pat. SPECIES
 
 #### Status
 ACCEPTED

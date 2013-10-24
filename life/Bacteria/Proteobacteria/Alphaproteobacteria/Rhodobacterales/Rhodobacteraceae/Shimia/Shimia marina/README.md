@@ -1,5 +1,4 @@
-Shimia marina Choi & Cho, 2006 SPECIES
-=======
+# Shimia marina Choi & Cho, 2006 SPECIES
 
 #### Status
 ACCEPTED

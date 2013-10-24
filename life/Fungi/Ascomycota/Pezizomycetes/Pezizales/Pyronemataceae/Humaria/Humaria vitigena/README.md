@@ -1,5 +1,4 @@
-Humaria vitigena Massee & Morgan SPECIES
-=======
+# Humaria vitigena Massee & Morgan SPECIES
 
 #### Status
 ACCEPTED

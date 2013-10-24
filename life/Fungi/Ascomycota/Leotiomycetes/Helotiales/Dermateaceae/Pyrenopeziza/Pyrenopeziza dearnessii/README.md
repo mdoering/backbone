@@ -1,5 +1,4 @@
-Pyrenopeziza dearnessii Rehm SPECIES
-=======
+# Pyrenopeziza dearnessii Rehm SPECIES
 
 #### Status
 ACCEPTED

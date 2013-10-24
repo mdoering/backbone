@@ -1,5 +1,4 @@
-Sphacelotheca chrysopogonis G.P. Clinton SPECIES
-=======
+# Sphacelotheca chrysopogonis G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

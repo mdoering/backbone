@@ -1,5 +1,4 @@
-Mycovellosiella ariae (Fuckel) U. Braun SPECIES
-=======
+# Mycovellosiella ariae (Fuckel) U. Braun SPECIES
 
 #### Status
 ACCEPTED

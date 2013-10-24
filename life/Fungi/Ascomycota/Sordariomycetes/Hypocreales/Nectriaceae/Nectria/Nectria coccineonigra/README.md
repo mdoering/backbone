@@ -1,5 +1,4 @@
-Nectria coccineonigra Starbäck SPECIES
-=======
+# Nectria coccineonigra Starbäck SPECIES
 
 #### Status
 ACCEPTED

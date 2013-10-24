@@ -1,17 +1,16 @@
-Stagonospora recedens f. recedens FORM
-=======
+# Stagonospora recedens (C. Massal.) F.R. Jones & Weimer, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Agric. Res. , Washington 57: 807 (1938)
 
 #### Original name
-Stagonospora recedens f. recedens
+Pleospora trifolii var. recedens C. Massal.
 
 ### Remarks
 null

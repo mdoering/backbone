@@ -1,5 +1,4 @@
-Taiwanoporia amylospora T.T. Chang & W.N. Chou, 2003 SPECIES
-=======
+# Taiwanoporia amylospora T.T. Chang & W.N. Chou, 2003 SPECIES
 
 #### Status
 ACCEPTED

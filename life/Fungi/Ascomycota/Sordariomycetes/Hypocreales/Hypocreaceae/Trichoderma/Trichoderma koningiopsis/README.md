@@ -1,5 +1,4 @@
-Trichoderma koningiopsis Samuels, C. Suárez & H.C. Evans, 2006 SPECIES
-=======
+# Trichoderma koningiopsis Samuels, C. Suárez & H.C. Evans, 2006 SPECIES
 
 #### Status
 ACCEPTED

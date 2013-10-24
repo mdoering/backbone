@@ -1,5 +1,4 @@
-Heterina tortuosa Kremp. SPECIES
-=======
+# Heterina tortuosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

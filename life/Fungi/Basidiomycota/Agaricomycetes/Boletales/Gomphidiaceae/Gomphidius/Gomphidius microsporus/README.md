@@ -1,5 +1,4 @@
-Gomphidius microsporus Sacc. & Trotter SPECIES
-=======
+# Gomphidius microsporus Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

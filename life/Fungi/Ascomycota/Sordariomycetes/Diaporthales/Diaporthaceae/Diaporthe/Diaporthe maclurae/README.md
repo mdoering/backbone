@@ -1,5 +1,4 @@
-Diaporthe maclurae Speg. SPECIES
-=======
+# Diaporthe maclurae Speg. SPECIES
 
 #### Status
 ACCEPTED

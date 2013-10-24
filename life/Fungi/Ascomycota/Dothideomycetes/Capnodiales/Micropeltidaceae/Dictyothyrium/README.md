@@ -1,17 +1,16 @@
-Dictyothirium GENUS
-=======
+# Dictyothyrium Theissen, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Öst. bot. Z. 62: 277 (1912)
 
 #### Original name
-null
+Dictyothyrium Theissen, 1912
 
 ### Remarks
 null

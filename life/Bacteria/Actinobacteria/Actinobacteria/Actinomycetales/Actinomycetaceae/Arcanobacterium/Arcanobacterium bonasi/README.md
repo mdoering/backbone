@@ -1,5 +1,4 @@
-Arcanobacterium bonasi Lehnen et al., 2006 SPECIES
-=======
+# Arcanobacterium bonasi Lehnen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

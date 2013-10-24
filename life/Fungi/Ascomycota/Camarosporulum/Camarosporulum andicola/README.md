@@ -1,5 +1,4 @@
-Camarosporulum andicola Speg. SPECIES
-=======
+# Camarosporulum andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

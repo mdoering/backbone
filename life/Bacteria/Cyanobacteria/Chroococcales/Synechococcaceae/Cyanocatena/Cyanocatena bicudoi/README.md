@@ -1,5 +1,4 @@
-Cyanocatena bicudoi J.J. Ramírez SPECIES
-=======
+# Cyanocatena bicudoi J.J. Ramírez SPECIES
 
 #### Status
 ACCEPTED

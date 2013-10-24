@@ -1,5 +1,4 @@
-Meliola ceriopsidis Hansf. SPECIES
-=======
+# Meliola ceriopsidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

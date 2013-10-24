@@ -1,5 +1,4 @@
-Pestalotia mangifolia Guba SPECIES
-=======
+# Pestalotia mangifolia Guba SPECIES
 
 #### Status
 ACCEPTED

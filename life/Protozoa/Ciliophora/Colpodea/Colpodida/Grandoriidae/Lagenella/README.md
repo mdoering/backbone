@@ -1,5 +1,4 @@
-Lagenella GENUS
-=======
+# Lagenella GENUS
 
 #### Status
 ACCEPTED

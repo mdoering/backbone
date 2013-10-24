@@ -1,5 +1,4 @@
-Cladonia submedusina Müll. Arg. SPECIES
-=======
+# Cladonia submedusina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

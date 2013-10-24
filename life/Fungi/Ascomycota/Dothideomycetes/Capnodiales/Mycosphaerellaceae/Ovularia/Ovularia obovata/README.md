@@ -1,5 +1,4 @@
-Ovularia obovata (Fuckel) Sacc. SPECIES
-=======
+# Ovularia obovata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

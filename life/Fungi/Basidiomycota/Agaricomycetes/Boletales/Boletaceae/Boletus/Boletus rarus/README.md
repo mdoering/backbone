@@ -1,5 +1,4 @@
-Boletus rarus Corner SPECIES
-=======
+# Boletus rarus Corner SPECIES
 
 #### Status
 ACCEPTED

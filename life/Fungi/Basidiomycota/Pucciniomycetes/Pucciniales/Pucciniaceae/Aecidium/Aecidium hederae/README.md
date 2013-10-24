@@ -1,5 +1,4 @@
-Aecidium hederae Arthur & Cummins SPECIES
-=======
+# Aecidium hederae Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

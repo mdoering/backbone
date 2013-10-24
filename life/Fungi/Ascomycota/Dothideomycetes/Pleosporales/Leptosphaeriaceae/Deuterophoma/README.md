@@ -1,5 +1,4 @@
-Deuterophoma GENUS
-=======
+# Deuterophoma GENUS
 
 #### Status
 ACCEPTED

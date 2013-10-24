@@ -1,14 +1,13 @@
-Ellipsodentalina Franke, 1928 GENUS
-=======
+# Pleurostomella Reuss, 1860 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+S. B. Akad. Wiss. Wien, Math. -Naturw. Kl. , 40, 203.
 
 #### Original name
 null

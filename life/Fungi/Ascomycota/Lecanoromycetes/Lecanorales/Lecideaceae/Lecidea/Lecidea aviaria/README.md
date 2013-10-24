@@ -1,5 +1,4 @@
-Lecidea aviaria Vain. SPECIES
-=======
+# Lecidea aviaria Vain. SPECIES
 
 #### Status
 ACCEPTED

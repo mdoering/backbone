@@ -1,5 +1,4 @@
-Ceriporia subspissa Aime & Ryvarden SPECIES
-=======
+# Ceriporia subspissa Aime & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

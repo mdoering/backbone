@@ -1,5 +1,4 @@
-Menispora gamundiae Aramb. & Cabello SPECIES
-=======
+# Menispora gamundiae Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

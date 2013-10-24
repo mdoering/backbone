@@ -1,5 +1,4 @@
-Pseudokreyella terricola Foissner, 1985 SPECIES
-=======
+# Pseudokreyella terricola Foissner, 1985 SPECIES
 
 #### Status
 ACCEPTED

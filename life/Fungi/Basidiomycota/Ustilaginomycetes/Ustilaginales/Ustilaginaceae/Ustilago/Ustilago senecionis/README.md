@@ -1,5 +1,4 @@
-Ustilago senecionis Dietel & Neger SPECIES
-=======
+# Ustilago senecionis Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylobates E.M. Fries, 1837 GENUS
-=======
+# Stylobates E.M. Fries, 1837 GENUS
 
 #### Status
 ACCEPTED

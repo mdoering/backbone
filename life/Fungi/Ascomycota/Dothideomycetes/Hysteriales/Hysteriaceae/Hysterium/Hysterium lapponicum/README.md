@@ -1,5 +1,4 @@
-Hysterium lapponicum P. Karst. SPECIES
-=======
+# Hysterium lapponicum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

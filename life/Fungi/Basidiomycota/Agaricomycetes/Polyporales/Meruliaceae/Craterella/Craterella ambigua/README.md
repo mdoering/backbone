@@ -1,5 +1,4 @@
-Craterella ambigua Pers. SPECIES
-=======
+# Craterella ambigua Pers. SPECIES
 
 #### Status
 ACCEPTED

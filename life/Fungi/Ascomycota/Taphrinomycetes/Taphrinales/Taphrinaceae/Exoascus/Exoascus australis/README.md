@@ -1,5 +1,4 @@
-Exoascus australis G.F. Atk. SPECIES
-=======
+# Exoascus australis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rizalia byrsonimae (J.M. Mend.) E. Müll. SPECIES
-=======
+# Rizalia byrsonimae (J.M. Mend.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

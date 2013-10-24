@@ -1,5 +1,4 @@
-Lichen electrinus Ramond SPECIES
-=======
+# Lichen electrinus Ramond SPECIES
 
 #### Status
 ACCEPTED

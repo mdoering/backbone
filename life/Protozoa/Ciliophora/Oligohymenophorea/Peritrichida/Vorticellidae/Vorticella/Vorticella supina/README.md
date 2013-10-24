@@ -1,5 +1,4 @@
-Vorticella supina Dumas, 1929 SPECIES
-=======
+# Vorticella supina Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

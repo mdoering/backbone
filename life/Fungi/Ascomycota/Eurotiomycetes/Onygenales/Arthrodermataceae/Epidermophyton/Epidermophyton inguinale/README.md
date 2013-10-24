@@ -1,5 +1,4 @@
-Epidermophyton inguinale Sabour., 1907 SPECIES
-=======
+# Epidermophyton inguinale Sabour., 1907 SPECIES
 
 #### Status
 ACCEPTED

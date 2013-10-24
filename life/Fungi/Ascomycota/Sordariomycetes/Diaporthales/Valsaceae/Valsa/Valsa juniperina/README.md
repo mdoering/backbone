@@ -1,5 +1,4 @@
-Valsa juniperina Cooke SPECIES
-=======
+# Valsa juniperina Cooke SPECIES
 
 #### Status
 ACCEPTED

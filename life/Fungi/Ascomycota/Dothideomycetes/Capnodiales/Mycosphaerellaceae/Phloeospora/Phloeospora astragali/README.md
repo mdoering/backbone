@@ -1,5 +1,4 @@
-Phloeospora astragali Potebnia SPECIES
-=======
+# Phloeospora astragali Potebnia SPECIES
 
 #### Status
 ACCEPTED

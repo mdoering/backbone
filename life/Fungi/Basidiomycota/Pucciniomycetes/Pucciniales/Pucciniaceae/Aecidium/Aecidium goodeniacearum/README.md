@@ -1,5 +1,4 @@
-Aecidium goodeniacearum Berk. SPECIES
-=======
+# Aecidium goodeniacearum Berk. SPECIES
 
 #### Status
 ACCEPTED

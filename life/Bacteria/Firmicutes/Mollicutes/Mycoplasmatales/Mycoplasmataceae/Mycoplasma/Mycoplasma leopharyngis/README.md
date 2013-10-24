@@ -1,5 +1,4 @@
-Mycoplasma leopharyngis Hill, 1992 SPECIES
-=======
+# Mycoplasma leopharyngis Hill, 1992 SPECIES
 
 #### Status
 ACCEPTED

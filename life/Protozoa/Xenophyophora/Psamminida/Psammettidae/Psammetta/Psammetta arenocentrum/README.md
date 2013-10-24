@@ -1,5 +1,4 @@
-Psammetta arenocentrum Tendal, 1972 SPECIES
-=======
+# Psammetta arenocentrum Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

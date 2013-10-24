@@ -1,5 +1,4 @@
-Parmelia officinarum (Crantz) Wallr. SPECIES
-=======
+# Parmelia officinarum (Crantz) Wallr. SPECIES
 
 #### Status
 ACCEPTED

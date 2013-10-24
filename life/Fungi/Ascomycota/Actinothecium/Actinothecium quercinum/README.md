@@ -1,5 +1,4 @@
-Actinothecium quercinum G. Arnaud SPECIES
-=======
+# Actinothecium quercinum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

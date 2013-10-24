@@ -1,5 +1,4 @@
-Hymenogaster pacificus Kobayasi SPECIES
-=======
+# Hymenogaster pacificus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

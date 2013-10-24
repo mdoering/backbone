@@ -1,5 +1,4 @@
-Phyllosticta aleuritidis Saccas & Drouillon SPECIES
-=======
+# Phyllosticta aleuritidis Saccas & Drouillon SPECIES
 
 #### Status
 ACCEPTED

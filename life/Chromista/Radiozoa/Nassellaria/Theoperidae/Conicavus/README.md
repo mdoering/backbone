@@ -1,5 +1,4 @@
-Conicavus Takahashi, 1991 GENUS
-=======
+# Conicavus Takahashi, 1991 GENUS
 
 #### Status
 ACCEPTED

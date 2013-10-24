@@ -1,5 +1,4 @@
-Peziza alba (Schumach.) Fr. SPECIES
-=======
+# Peziza alba (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

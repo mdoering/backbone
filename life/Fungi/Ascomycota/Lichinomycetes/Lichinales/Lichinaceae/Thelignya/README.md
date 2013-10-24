@@ -1,5 +1,4 @@
-Thelignya A. Massal. GENUS
-=======
+# Thelignya A. Massal. GENUS
 
 #### Status
 ACCEPTED

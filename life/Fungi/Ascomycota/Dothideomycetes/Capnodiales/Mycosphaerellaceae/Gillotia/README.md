@@ -1,5 +1,4 @@
-Gillotia Saccardo & Trotter, 1913 GENUS
-=======
+# Gillotia Saccardo & Trotter, 1913 GENUS
 
 #### Status
 ACCEPTED

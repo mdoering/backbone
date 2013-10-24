@@ -1,5 +1,4 @@
-Gyalideopsis alnicola W.J. Noble & Vezda SPECIES
-=======
+# Gyalideopsis alnicola W.J. Noble & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium cibotii J.F.H. Beyma, 1944 SPECIES
-=======
+# Gliocladium cibotii J.F.H. Beyma, 1944 SPECIES
 
 #### Status
 ACCEPTED

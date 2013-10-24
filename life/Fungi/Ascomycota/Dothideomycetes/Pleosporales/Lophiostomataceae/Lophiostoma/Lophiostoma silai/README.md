@@ -1,5 +1,4 @@
-Lophiostoma silai (Fabre) Sacc. SPECIES
-=======
+# Lophiostoma silai (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

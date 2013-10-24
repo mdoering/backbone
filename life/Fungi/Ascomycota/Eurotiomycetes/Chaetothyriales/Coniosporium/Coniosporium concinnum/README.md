@@ -1,5 +1,4 @@
-Coniosporium concinnum (Berk.) E.W. Mason & S. Hughes SPECIES
-=======
+# Coniosporium concinnum (Berk.) E.W. Mason & S. Hughes SPECIES
 
 #### Status
 ACCEPTED

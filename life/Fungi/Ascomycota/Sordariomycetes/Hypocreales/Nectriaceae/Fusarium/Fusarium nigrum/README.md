@@ -1,5 +1,4 @@
-Fusarium nigrum O.A. Pratt SPECIES
-=======
+# Fusarium nigrum O.A. Pratt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ratella Kotlyar, 1982 GENUS
-=======
+# Ratella Kotlyar, 1982 GENUS
 
 #### Status
 ACCEPTED

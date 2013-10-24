@@ -1,5 +1,4 @@
-Opegrapha pollinii A. Massal. SPECIES
-=======
+# Opegrapha pollinii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

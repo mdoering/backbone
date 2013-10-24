@@ -1,5 +1,4 @@
-Brachytrichia quoyi Bornet & Flachault SPECIES
-=======
+# Brachytrichia quoyi Bornet & Flachault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor septicus Link SPECIES
-=======
+# Mucor septicus Link SPECIES
 
 #### Status
 ACCEPTED

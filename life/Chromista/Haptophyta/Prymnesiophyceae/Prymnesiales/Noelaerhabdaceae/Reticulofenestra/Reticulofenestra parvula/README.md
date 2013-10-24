@@ -1,5 +1,4 @@
-Reticulofenestra parvula (Okada & McIntyre) Biekart, 1989 SPECIES
-=======
+# Reticulofenestra parvula (Okada & McIntyre) Biekart, 1989 SPECIES
 
 #### Status
 ACCEPTED

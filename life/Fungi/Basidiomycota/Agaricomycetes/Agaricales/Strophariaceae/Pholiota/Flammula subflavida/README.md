@@ -1,5 +1,4 @@
-Flammula subflavida Murrill SPECIES
-=======
+# Flammula subflavida Murrill SPECIES
 
 #### Status
 ACCEPTED

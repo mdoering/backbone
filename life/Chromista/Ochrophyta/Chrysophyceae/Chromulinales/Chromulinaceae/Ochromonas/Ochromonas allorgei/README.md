@@ -1,5 +1,4 @@
-Ochromonas allorgei Bourrelly SPECIES
-=======
+# Ochromonas allorgei Bourrelly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithocia subvirens M. Choisy SPECIES
-=======
+# Lithocia subvirens M. Choisy SPECIES
 
 #### Status
 ACCEPTED

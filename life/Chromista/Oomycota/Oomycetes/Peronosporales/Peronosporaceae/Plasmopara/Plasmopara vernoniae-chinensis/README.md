@@ -1,5 +1,4 @@
-Plasmopara vernoniae-chinensis Sawada SPECIES
-=======
+# Plasmopara vernoniae-chinensis Sawada SPECIES
 
 #### Status
 ACCEPTED

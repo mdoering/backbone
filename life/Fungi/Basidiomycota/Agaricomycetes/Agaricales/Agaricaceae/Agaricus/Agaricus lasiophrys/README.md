@@ -1,5 +1,4 @@
-Agaricus lasiophrys Berk. & Broome SPECIES
-=======
+# Agaricus lasiophrys Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus swainsonii Lév. SPECIES
-=======
+# Agaricus swainsonii Lév. SPECIES
 
 #### Status
 ACCEPTED

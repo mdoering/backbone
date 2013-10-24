@@ -1,5 +1,4 @@
-Rhopographus pusillus Speg. SPECIES
-=======
+# Rhopographus pusillus Speg. SPECIES
 
 #### Status
 ACCEPTED

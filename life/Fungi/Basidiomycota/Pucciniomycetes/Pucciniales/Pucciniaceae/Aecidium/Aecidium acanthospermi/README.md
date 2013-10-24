@@ -1,5 +1,4 @@
-Aecidium acanthospermi P.B. Chavan & Bakare SPECIES
-=======
+# Aecidium acanthospermi P.B. Chavan & Bakare SPECIES
 
 #### Status
 ACCEPTED

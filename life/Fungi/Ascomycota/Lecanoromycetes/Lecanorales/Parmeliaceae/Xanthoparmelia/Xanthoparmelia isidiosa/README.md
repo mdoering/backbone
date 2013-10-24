@@ -1,14 +1,13 @@
-Parmelia conspersa f. isidiosa Müll. Arg. FORM
-=======
+# Xanthoparmelia isidiosa (Müll. Arg.) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 66: 47 (1883)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 274 (1986)
 
 #### Original name
 Parmelia conspersa f. isidiosa Müll. Arg.

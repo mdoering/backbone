@@ -1,5 +1,4 @@
-Stemonitis lilacina Schrad. SPECIES
-=======
+# Stemonitis lilacina Schrad. SPECIES
 
 #### Status
 ACCEPTED

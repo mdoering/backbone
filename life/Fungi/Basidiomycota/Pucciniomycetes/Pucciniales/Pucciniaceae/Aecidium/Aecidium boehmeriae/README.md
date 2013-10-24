@@ -1,5 +1,4 @@
-Aecidium boehmeriae Arthur SPECIES
-=======
+# Aecidium boehmeriae Arthur SPECIES
 
 #### Status
 ACCEPTED

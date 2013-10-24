@@ -1,14 +1,13 @@
-Tigria durieui (Lév.) Trevis. SPECIES
-=======
+# Tigria duriaei (Lév.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Spighe Paglie 1: 22 (1853)
 
 #### Original name
 Erysiphe duriaei Lév.

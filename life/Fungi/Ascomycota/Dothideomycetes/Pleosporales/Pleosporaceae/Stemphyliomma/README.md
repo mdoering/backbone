@@ -1,5 +1,4 @@
-Stemphyliomma GENUS
-=======
+# Stemphyliomma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia miyabeana Hanzawa SPECIES
-=======
+# Sclerotinia miyabeana Hanzawa SPECIES
 
 #### Status
 ACCEPTED

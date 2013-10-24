@@ -1,5 +1,4 @@
-Fungus vagans (Fr.) Kuntze SPECIES
-=======
+# Fungus vagans (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

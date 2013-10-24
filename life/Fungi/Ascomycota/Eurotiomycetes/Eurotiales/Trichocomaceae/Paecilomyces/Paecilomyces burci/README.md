@@ -1,14 +1,13 @@
-Penicillium burci Pollacci, 1921 SPECIES
-=======
+# Paecilomyces burci (Pollacci) Thom, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. R. Univ. Pavia 18: 128 (1921)
+The Penicillia 548 (1930)
 
 #### Original name
 Penicillium burci Pollacci, 1921

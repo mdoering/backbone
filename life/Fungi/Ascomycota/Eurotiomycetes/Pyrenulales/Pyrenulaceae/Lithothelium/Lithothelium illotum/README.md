@@ -1,5 +1,4 @@
-Lithothelium illotum (Nyl.) Aptroot SPECIES
-=======
+# Lithothelium illotum (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

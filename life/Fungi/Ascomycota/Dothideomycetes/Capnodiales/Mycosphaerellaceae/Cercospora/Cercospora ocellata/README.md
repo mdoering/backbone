@@ -1,5 +1,4 @@
-Cercospora ocellata Deighton SPECIES
-=======
+# Cercospora ocellata Deighton SPECIES
 
 #### Status
 ACCEPTED

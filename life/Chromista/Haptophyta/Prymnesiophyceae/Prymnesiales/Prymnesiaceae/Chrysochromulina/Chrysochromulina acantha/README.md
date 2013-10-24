@@ -1,5 +1,4 @@
-Chrysochromulina acantha Leadbeater & Manton SPECIES
-=======
+# Chrysochromulina acantha Leadbeater & Manton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria eurotiae Kravtzev SPECIES
-=======
+# Aposphaeria eurotiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

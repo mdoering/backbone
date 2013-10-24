@@ -1,5 +1,4 @@
-Eubacterium hallii Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Eubacterium hallii Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

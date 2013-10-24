@@ -1,17 +1,16 @@
-Pleospora gilletiana var. gilletiana Sacc. VARIETY
-=======
+# Cucurbitaria spartii (Nees ex Fr.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schem. di Classif. Sferiacei 4 (1863)
 
 #### Original name
-Pleospora gilletiana var. gilletiana Sacc.
+Sphaeria spartii Castagne, 1845
 
 ### Remarks
 null

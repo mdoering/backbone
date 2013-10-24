@@ -1,5 +1,4 @@
-Ramalina peranceps f. peranceps FORM
-=======
+# Ramalina peranceps Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 59: 411 (1876)
 
 #### Original name
-Ramalina peranceps f. peranceps
+Ramalina peranceps Nyl.
 
 ### Remarks
 null

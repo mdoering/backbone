@@ -1,5 +1,4 @@
-Kwoniella Statzell & Fell GENUS
-=======
+# Kwoniella Statzell & Fell GENUS
 
 #### Status
 ACCEPTED

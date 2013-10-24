@@ -1,14 +1,13 @@
-Kriegeria seaveri (Rehm ex Seaver) Seaver, 1943 SPECIES
-=======
+# Chloroscypha seaveri Rehm ex Seaver, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(5): 493 (1943)
+Mycologia 23: 248 (1931)
 
 #### Original name
 Chloroscypha seaveri Rehm ex Seaver, 1931

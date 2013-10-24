@@ -1,5 +1,4 @@
-Samara parviflora Kurz SPECIES
-=======
+# Samara parviflora Kurz SPECIES
 
 #### Status
 ACCEPTED

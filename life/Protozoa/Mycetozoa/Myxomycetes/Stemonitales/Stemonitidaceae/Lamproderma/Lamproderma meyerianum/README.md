@@ -1,8 +1,7 @@
-Lamproderma cribrarioides meyerianum Y. Yamam., 2000 INFRASPECIFIC_NAME
-=======
+# Lamproderma meyerianum (Y. Yamam.) G. Moreno, H. Singer & Illana, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

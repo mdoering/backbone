@@ -1,5 +1,4 @@
-Puccinia vertisepta Tracy & L.D. Galloway SPECIES
-=======
+# Puccinia vertisepta Tracy & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED

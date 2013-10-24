@@ -1,5 +1,4 @@
-Pholiotina peronata (Kühner & Maire) Bon SPECIES
-=======
+# Pholiotina peronata (Kühner & Maire) Bon SPECIES
 
 #### Status
 ACCEPTED

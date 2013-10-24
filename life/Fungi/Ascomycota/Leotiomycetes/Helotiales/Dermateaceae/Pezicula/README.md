@@ -1,17 +1,16 @@
-Dermatina subgen. Saccardo von Höhnel, 1909 GENUS
-=======
+# Pezicula Tulasne & C. Tulasne, 1865 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Select. fung. carpol. (Paris) 3: 182 (1865)
 
 #### Original name
-null
+Pezicula Tulasne & C. Tulasne, 1865
 
 ### Remarks
 null

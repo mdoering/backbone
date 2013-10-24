@@ -1,5 +1,4 @@
-Sphaerella styracis (Starbäck) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella styracis (Starbäck) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

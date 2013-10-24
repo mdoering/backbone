@@ -1,14 +1,13 @@
-Nesolechia scabridula (Müll. Arg.) Vouaux SPECIES
-=======
+# Llimoniella scabridula (Müll. Arg.) Nav.-Ros. & Hafellner, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Herzogia 9(3-4): 771 (1993)
 
 #### Original name
 Lecidea scabridula Müll. Arg., 1881

@@ -1,5 +1,4 @@
-Ansulasphaera helvetica Grün & Zweili, 1980 SPECIES
-=======
+# Ansulasphaera helvetica Grün & Zweili, 1980 SPECIES
 
 #### Status
 ACCEPTED

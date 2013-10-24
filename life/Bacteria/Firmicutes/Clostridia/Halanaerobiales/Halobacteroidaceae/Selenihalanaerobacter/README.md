@@ -1,5 +1,4 @@
-Selenihalanaerobacter Switzer Blum et al., 2001 GENUS
-=======
+# Selenihalanaerobacter Switzer Blum et al., 2001 GENUS
 
 #### Status
 ACCEPTED

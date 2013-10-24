@@ -1,5 +1,4 @@
-Acidobacterium Kishimoto et al., 1991 GENUS
-=======
+# Acidobacterium Kishimoto et al., 1991 GENUS
 
 #### Status
 ACCEPTED

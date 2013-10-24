@@ -1,5 +1,4 @@
-Nolanea caribaea Pegler SPECIES
-=======
+# Nolanea caribaea Pegler SPECIES
 
 #### Status
 ACCEPTED

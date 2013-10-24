@@ -1,5 +1,4 @@
-Chromulina Cienkowski, 1870 GENUS
-=======
+# Chromulina Cienkowski, 1870 GENUS
 
 #### Status
 ACCEPTED

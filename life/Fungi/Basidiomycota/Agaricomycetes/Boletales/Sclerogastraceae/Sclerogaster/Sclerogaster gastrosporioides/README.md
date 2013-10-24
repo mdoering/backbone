@@ -1,5 +1,4 @@
-Sclerogaster gastrosporioides Pilát & Svrcek, 1955 SPECIES
-=======
+# Sclerogaster gastrosporioides Pilát & Svrcek, 1955 SPECIES
 
 #### Status
 ACCEPTED

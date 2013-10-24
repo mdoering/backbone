@@ -1,5 +1,4 @@
-Parodiopsis splendens (Pat.) G. Arnaud SPECIES
-=======
+# Parodiopsis splendens (Pat.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

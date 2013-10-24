@@ -1,5 +1,4 @@
-Litonotus Wresniowski, 1870 GENUS
-=======
+# Litonotus Wresniowski, 1870 GENUS
 
 #### Status
 ACCEPTED

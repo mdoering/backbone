@@ -1,5 +1,4 @@
-Mazosia emergens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Mazosia emergens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribraria elegans Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Cribraria elegans Berk. & M.A. Curtis, 1873 SPECIES
 
 #### Status
 ACCEPTED

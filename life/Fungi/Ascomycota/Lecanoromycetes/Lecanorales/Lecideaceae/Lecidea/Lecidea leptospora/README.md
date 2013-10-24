@@ -1,5 +1,4 @@
-Lecidea leptospora Nyl. SPECIES
-=======
+# Lecidea leptospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Didymium sowerbeii Berk. SPECIES
-=======
+# Didymium sowerbyi Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Smith's English Flora, Fungi 5-2: 313 (1836)
 
 #### Original name
-Didymium sowerbeii Berk.
+Didymium sowerbyi Berk.
 
 ### Remarks
 null

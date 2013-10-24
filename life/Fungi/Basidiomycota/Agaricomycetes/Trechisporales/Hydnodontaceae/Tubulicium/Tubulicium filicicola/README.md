@@ -1,14 +1,13 @@
-Tubulicrinis filicicola G. Cunn., 1963 SPECIES
-=======
+# Tubulicium filicicola (G. Cunn.) Oberw., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 332 (1963)
+Z. Pilzk. 31(1-2): 40 (1965)
 
 #### Original name
 Tubulicrinis filicicola G. Cunn., 1963

@@ -1,5 +1,4 @@
-Pseudocercospora rumohrae Goh & W.H. Hsieh, 1989 SPECIES
-=======
+# Pseudocercospora rumohrae Goh & W.H. Hsieh, 1989 SPECIES
 
 #### Status
 ACCEPTED

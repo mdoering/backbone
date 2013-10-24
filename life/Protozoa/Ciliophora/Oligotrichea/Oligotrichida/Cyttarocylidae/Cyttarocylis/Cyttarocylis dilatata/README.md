@@ -1,5 +1,4 @@
-Cyttarocylis dilatata SPECIES
-=======
+# Cyttarocylis dilatata SPECIES
 
 #### Status
 ACCEPTED

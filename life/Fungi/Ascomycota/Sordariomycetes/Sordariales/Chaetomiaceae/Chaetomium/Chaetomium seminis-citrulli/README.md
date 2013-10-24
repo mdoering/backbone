@@ -1,5 +1,4 @@
-Chaetomium seminis-citrulli Sergeeva, 1956 SPECIES
-=======
+# Chaetomium seminis-citrulli Sergeeva, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus flos (G. Mey.) Fr. SPECIES
-=======
+# Lentinus flos (G. Mey.) Fr. SPECIES
 
 #### Status
 ACCEPTED

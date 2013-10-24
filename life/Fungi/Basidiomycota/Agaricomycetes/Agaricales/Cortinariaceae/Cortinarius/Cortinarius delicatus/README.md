@@ -1,5 +1,4 @@
-Cortinarius delicatus Herp. SPECIES
-=======
+# Cortinarius delicatus Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithothelium submuriforme R.C. Harris & Aptroot SPECIES
-=======
+# Lithothelium submuriforme R.C. Harris & Aptroot SPECIES
 
 #### Status
 ACCEPTED

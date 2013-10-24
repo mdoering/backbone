@@ -1,5 +1,4 @@
-Corticium miniatum Kalchbr. SPECIES
-=======
+# Corticium miniatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

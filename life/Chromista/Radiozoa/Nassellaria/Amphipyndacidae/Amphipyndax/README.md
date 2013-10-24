@@ -1,5 +1,4 @@
-Amphipyndax Foreman, 1966 GENUS
-=======
+# Amphipyndax Foreman, 1966 GENUS
 
 #### Status
 ACCEPTED

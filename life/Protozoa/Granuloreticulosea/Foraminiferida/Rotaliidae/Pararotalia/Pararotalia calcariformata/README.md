@@ -1,5 +1,4 @@
-Pararotalia calcariformata McCulloch, 1977 SPECIES
-=======
+# Pararotalia calcariformata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

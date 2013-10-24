@@ -1,5 +1,4 @@
-Septoria erodii Rayss SPECIES
-=======
+# Septoria erodii Rayss SPECIES
 
 #### Status
 ACCEPTED

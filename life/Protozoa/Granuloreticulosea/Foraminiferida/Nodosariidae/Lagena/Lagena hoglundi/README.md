@@ -1,5 +1,4 @@
-Lagena hoglundi SPECIES
-=======
+# Lagena hoglundi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus frustatoria Britzelm. SPECIES
-=======
+# Agaricus frustatoria Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinibacillus Yoon et al., 2001 GENUS
-=======
+# Marinibacillus Yoon et al., 2001 GENUS
 
 #### Status
 ACCEPTED

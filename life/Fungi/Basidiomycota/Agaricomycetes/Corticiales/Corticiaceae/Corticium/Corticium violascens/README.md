@@ -1,5 +1,4 @@
-Corticium violascens SPECIES
-=======
+# Corticium violascens SPECIES
 
 #### Status
 ACCEPTED

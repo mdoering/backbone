@@ -1,5 +1,4 @@
-Cornicularia fahlunensis (L.) Nyl. SPECIES
-=======
+# Cornicularia fahlunensis (L.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

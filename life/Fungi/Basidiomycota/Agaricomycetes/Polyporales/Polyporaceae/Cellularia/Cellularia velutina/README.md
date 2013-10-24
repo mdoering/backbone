@@ -1,5 +1,4 @@
-Cellularia velutina (Berk.) Kuntze SPECIES
-=======
+# Cellularia velutina (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

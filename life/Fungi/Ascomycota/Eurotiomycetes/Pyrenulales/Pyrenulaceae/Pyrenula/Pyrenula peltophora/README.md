@@ -1,5 +1,4 @@
-Pyrenula peltophora Müll. Arg. SPECIES
-=======
+# Pyrenula peltophora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

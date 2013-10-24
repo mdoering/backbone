@@ -1,5 +1,4 @@
-Agrocybe retigera (Speg.) Singer SPECIES
-=======
+# Agrocybe retigera (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

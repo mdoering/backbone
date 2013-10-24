@@ -1,5 +1,4 @@
-Gigaspora lazzarii Montecchi, Ruini & G. Gross SPECIES
-=======
+# Gigaspora lazzarii Montecchi, Ruini & G. Gross SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina vepridis Doidge SPECIES
-=======
+# Asterina vepridis Doidge SPECIES
 
 #### Status
 ACCEPTED

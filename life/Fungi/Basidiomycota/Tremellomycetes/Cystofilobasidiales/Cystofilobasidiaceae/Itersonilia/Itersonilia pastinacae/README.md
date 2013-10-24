@@ -1,5 +1,4 @@
-Itersonilia pastinacae Channon, 1963 SPECIES
-=======
+# Itersonilia pastinacae Channon, 1963 SPECIES
 
 #### Status
 ACCEPTED

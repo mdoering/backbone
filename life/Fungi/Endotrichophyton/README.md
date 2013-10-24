@@ -1,5 +1,4 @@
-Endotrichophyton Moraes GENUS
-=======
+# Endotrichophyton Moraes GENUS
 
 #### Status
 ACCEPTED

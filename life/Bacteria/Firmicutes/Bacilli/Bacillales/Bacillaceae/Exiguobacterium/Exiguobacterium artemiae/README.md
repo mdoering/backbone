@@ -1,5 +1,4 @@
-Exiguobacterium artemiae López-Cortés et al., 2006 SPECIES
-=======
+# Exiguobacterium artemiae López-Cortés et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

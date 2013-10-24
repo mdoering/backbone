@@ -1,5 +1,4 @@
-Heterodermia hypocaesia (Yasuda) D.D. Awasthi SPECIES
-=======
+# Heterodermia hypocaesia (Yasuda) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

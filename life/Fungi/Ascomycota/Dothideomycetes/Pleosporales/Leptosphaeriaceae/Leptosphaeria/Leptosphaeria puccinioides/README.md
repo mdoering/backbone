@@ -1,5 +1,4 @@
-Leptosphaeria puccinioides Speg. SPECIES
-=======
+# Leptosphaeria puccinioides Speg. SPECIES
 
 #### Status
 ACCEPTED

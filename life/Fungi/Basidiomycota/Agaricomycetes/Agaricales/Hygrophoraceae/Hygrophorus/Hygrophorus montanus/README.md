@@ -1,5 +1,4 @@
-Hygrophorus montanus Murrill SPECIES
-=======
+# Hygrophorus montanus Murrill SPECIES
 
 #### Status
 ACCEPTED

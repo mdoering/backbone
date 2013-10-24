@@ -1,5 +1,4 @@
-Corynespora phylloshureae X.G. Zhang & J.J. Xu SPECIES
-=======
+# Corynespora phylloshureae X.G. Zhang & J.J. Xu SPECIES
 
 #### Status
 ACCEPTED

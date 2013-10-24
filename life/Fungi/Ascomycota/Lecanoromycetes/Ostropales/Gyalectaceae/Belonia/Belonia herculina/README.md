@@ -1,5 +1,4 @@
-Belonia herculina (Rehm) Hazsl. SPECIES
-=======
+# Belonia herculina (Rehm) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

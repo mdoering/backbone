@@ -1,5 +1,4 @@
-Torula dendroides Peyronel SPECIES
-=======
+# Torula dendroides Peyronel SPECIES
 
 #### Status
 ACCEPTED

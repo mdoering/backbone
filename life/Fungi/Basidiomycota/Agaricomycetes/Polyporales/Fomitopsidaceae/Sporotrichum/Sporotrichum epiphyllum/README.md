@@ -1,5 +1,4 @@
-Sporotrichum epiphyllum f. epiphyllum FORM
-=======
+# Sporotrichum epiphyllum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 77 (1822)
 
 #### Original name
-Sporotrichum epiphyllum f. epiphyllum
+Sporotrichum epiphyllum Pers.
 
 ### Remarks
 null

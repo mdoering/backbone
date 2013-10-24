@@ -1,5 +1,4 @@
-Davidgallowaya cornutispora Aptroot SPECIES
-=======
+# Davidgallowaya cornutispora Aptroot SPECIES
 
 #### Status
 ACCEPTED

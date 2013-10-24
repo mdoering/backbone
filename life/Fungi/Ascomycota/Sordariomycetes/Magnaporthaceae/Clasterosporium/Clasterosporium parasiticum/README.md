@@ -1,5 +1,4 @@
-Clasterosporium parasiticum (Cooke) Sacc. SPECIES
-=======
+# Clasterosporium parasiticum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

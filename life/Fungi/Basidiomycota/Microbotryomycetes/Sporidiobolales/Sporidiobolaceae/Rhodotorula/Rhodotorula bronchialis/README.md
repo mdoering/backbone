@@ -1,5 +1,4 @@
-Rhodotorula bronchialis (Cif. & Redaelli) Lodder SPECIES
-=======
+# Rhodotorula bronchialis (Cif. & Redaelli) Lodder SPECIES
 
 #### Status
 ACCEPTED

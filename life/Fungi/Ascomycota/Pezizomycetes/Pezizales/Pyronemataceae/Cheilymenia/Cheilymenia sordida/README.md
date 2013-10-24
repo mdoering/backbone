@@ -1,5 +1,4 @@
-Cheilymenia sordida (J. Moravec) J. Moravec SPECIES
-=======
+# Cheilymenia sordida (J. Moravec) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

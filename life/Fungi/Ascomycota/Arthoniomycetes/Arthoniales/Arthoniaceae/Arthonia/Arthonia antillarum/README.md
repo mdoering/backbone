@@ -1,5 +1,4 @@
-Arthonia antillarum (Fée) Nyl. SPECIES
-=======
+# Arthonia antillarum (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

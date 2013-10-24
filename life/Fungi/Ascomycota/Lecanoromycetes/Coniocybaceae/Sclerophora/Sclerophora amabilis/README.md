@@ -1,17 +1,16 @@
-Coniocybe amabilis Tibell SPECIES
-=======
+# Sclerophora amabilis (Tibell) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 679 (1984)
 
 #### Original name
-null
+Coniocybe amabilis Tibell
 
 ### Remarks
 null

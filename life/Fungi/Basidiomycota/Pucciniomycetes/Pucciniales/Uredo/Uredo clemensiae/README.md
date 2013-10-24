@@ -1,5 +1,4 @@
-Uredo clemensiae (Arthur & Cummins) Hirats. f. SPECIES
-=======
+# Uredo clemensiae (Arthur & Cummins) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

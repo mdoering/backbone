@@ -1,5 +1,4 @@
-Dilophus okamurae E.Y. Dawson SPECIES
-=======
+# Dilophus okamurae E.Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

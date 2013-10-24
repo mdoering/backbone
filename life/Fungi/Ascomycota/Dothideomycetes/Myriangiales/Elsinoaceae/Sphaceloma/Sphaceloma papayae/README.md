@@ -1,5 +1,4 @@
-Sphaceloma papayae Jenkins & Bitanc. SPECIES
-=======
+# Sphaceloma papayae Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithatractylis Haeckel, 1887 GENUS
-=======
+# Lithatractylis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

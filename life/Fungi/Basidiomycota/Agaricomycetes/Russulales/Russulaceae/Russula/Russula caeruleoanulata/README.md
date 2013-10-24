@@ -1,5 +1,4 @@
-Russula caeruleoanulata Douanla-Meli SPECIES
-=======
+# Russula caeruleoanulata Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

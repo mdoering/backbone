@@ -1,5 +1,4 @@
-Cercosporella elata Sacc. SPECIES
-=======
+# Cercosporella elata Sacc. SPECIES
 
 #### Status
 ACCEPTED

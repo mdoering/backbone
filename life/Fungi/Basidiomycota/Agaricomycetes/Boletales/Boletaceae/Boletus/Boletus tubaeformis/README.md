@@ -1,5 +1,4 @@
-Boletus tubaeformis anon. SPECIES
-=======
+# Boletus tubaeformis anon. SPECIES
 
 #### Status
 ACCEPTED

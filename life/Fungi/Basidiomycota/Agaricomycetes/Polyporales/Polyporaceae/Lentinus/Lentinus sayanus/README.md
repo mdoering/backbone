@@ -1,5 +1,4 @@
-Lentinus sayanus Singer SPECIES
-=======
+# Lentinus sayanus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc linckia var. arvense C.B. Rao VARIETY
-=======
+# Nostoc linckia (Roth) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

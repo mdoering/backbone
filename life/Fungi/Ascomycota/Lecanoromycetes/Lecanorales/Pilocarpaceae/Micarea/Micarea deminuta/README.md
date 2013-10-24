@@ -1,5 +1,4 @@
-Micarea deminuta Coppins SPECIES
-=======
+# Micarea deminuta Coppins SPECIES
 
 #### Status
 ACCEPTED

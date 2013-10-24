@@ -1,5 +1,4 @@
-Macrophomella pandani Died. SPECIES
-=======
+# Macrophomella pandani Died. SPECIES
 
 #### Status
 ACCEPTED

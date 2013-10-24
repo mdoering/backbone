@@ -1,5 +1,4 @@
-Thaxterogaster carneoroseus E. Horak SPECIES
-=======
+# Thaxterogaster carneoroseus E. Horak SPECIES
 
 #### Status
 ACCEPTED

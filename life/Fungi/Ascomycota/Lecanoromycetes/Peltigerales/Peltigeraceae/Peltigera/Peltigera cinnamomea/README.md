@@ -1,5 +1,4 @@
-Peltigera cinnamomea Goward SPECIES
-=======
+# Peltigera cinnamomea Goward SPECIES
 
 #### Status
 ACCEPTED

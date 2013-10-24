@@ -1,5 +1,4 @@
-Phomopsis millettiae Swarup, L.S. Chauhan & Tripathi SPECIES
-=======
+# Phomopsis millettiae Swarup, L.S. Chauhan & Tripathi SPECIES
 
 #### Status
 ACCEPTED

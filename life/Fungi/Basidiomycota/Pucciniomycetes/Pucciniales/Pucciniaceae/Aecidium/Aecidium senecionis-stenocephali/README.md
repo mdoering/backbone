@@ -1,5 +1,4 @@
-Aecidium senecionis-stenocephali Dietel SPECIES
-=======
+# Aecidium senecionis-stenocephali Dietel SPECIES
 
 #### Status
 ACCEPTED

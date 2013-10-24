@@ -1,14 +1,13 @@
-Ceraceohydnum brunneum Jülich, 1978 SPECIES
-=======
+# Mycoaciella brunnea (Jülich) Hjortstam & Spooner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(1): 138 (1978)
+in Hjortstam, Spooner & Oldridge, Kew Bull. 45(2): 309 (1990)
 
 #### Original name
 Ceraceohydnum brunneum Jülich, 1978

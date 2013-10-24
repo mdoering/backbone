@@ -1,5 +1,4 @@
-Macrophoma superposita Sousa da Câmara SPECIES
-=======
+# Macrophoma superposita Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

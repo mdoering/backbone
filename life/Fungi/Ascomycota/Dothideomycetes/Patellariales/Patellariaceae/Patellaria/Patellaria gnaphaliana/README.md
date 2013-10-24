@@ -1,5 +1,4 @@
-Patellaria gnaphaliana Cooke & Ellis SPECIES
-=======
+# Patellaria gnaphaliana Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

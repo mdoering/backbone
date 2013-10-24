@@ -1,5 +1,4 @@
-Laboea Lohmann GENUS
-=======
+# Laboea Lohmann GENUS
 
 #### Status
 ACCEPTED

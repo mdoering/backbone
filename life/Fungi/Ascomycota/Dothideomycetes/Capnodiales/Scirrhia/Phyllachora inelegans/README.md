@@ -1,5 +1,4 @@
-Phyllachora inelegans (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora inelegans (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

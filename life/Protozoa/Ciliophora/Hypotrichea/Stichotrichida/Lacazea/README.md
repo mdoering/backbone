@@ -1,5 +1,4 @@
-Lacazea Dragesco, 1960 GENUS
-=======
+# Lacazea Dragesco, 1960 GENUS
 
 #### Status
 ACCEPTED

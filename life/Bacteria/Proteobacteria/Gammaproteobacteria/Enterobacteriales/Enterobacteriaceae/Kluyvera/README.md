@@ -1,5 +1,4 @@
-Kluyvera Farmer et al., 1981 GENUS
-=======
+# Kluyvera Farmer et al., 1981 GENUS
 
 #### Status
 ACCEPTED

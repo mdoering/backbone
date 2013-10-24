@@ -1,5 +1,4 @@
-Lecanactis subrigida (Nyl.) Nyl. SPECIES
-=======
+# Lecanactis subrigida (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlamydoaleurosporia lacticolor (Sabour.) Grigorakis {?} SPECIES
-=======
+# Chlamydoaleurosporia lacticolor (Sabour.) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

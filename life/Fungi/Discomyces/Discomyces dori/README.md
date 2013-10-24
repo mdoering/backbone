@@ -1,5 +1,4 @@
-Discomyces dori (Beurm. & Gougerot) Beurm. & Gougerot SPECIES
-=======
+# Discomyces dori (Beurm. & Gougerot) Beurm. & Gougerot SPECIES
 
 #### Status
 ACCEPTED

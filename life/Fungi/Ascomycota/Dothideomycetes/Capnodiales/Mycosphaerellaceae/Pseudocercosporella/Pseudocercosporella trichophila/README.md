@@ -1,5 +1,4 @@
-Pseudocercosporella trichophila (Davis) U. Braun SPECIES
-=======
+# Pseudocercosporella trichophila (Davis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

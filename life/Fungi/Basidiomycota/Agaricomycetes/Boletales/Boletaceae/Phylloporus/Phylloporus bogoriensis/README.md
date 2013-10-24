@@ -1,5 +1,4 @@
-Phylloporus bogoriensis Höhn. SPECIES
-=======
+# Phylloporus bogoriensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

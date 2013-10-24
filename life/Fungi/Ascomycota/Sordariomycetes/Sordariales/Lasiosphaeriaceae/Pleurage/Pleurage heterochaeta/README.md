@@ -1,5 +1,4 @@
-Pleurage heterochaeta Griffiths SPECIES
-=======
+# Pleurage heterochaeta Griffiths SPECIES
 
 #### Status
 ACCEPTED

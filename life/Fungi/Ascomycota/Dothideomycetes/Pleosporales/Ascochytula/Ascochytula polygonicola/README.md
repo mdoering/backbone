@@ -1,5 +1,4 @@
-Ascochytula polygonicola (Kabát & Bubák) Petr. SPECIES
-=======
+# Ascochytula polygonicola (Kabát & Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius exilis E. Horak SPECIES
-=======
+# Cortinarius exilis E. Horak SPECIES
 
 #### Status
 ACCEPTED

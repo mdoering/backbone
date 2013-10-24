@@ -1,5 +1,4 @@
-Parmelia sipeana Gyeln. SPECIES
-=======
+# Parmelia sipeana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

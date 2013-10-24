@@ -1,5 +1,4 @@
-Chaetothyrium wormersleyi Hansf. SPECIES
-=======
+# Chaetothyrium wormersleyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neuroecium Kunze GENUS
-=======
+# Neuroecium Kunze GENUS
 
 #### Status
 ACCEPTED

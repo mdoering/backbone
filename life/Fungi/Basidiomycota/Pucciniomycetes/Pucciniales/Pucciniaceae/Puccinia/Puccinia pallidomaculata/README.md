@@ -1,5 +1,4 @@
-Puccinia pallidomaculata Ellis & Everh. SPECIES
-=======
+# Puccinia pallidomaculata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

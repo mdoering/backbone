@@ -1,5 +1,4 @@
-Helvella pileus Schaeff. SPECIES
-=======
+# Helvella pileus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

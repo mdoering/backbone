@@ -1,5 +1,4 @@
-Phycomyces Kunze, 1823 GENUS
-=======
+# Phycomyces Kunze, 1823 GENUS
 
 #### Status
 ACCEPTED

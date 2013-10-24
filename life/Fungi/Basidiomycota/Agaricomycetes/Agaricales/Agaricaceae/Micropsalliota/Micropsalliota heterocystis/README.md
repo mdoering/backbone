@@ -1,5 +1,4 @@
-Micropsalliota heterocystis Heinem. SPECIES
-=======
+# Micropsalliota heterocystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

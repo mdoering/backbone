@@ -1,5 +1,4 @@
-Lepiota micromyces Speg. SPECIES
-=======
+# Lepiota micromyces Speg. SPECIES
 
 #### Status
 ACCEPTED

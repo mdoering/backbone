@@ -1,8 +1,7 @@
-Pottsiocles hannae Guhl, 1985 SPECIES
-=======
+# Manuelophrya hannae (Guhl, 1985) Jankowski, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

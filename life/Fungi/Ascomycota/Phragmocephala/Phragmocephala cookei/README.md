@@ -1,5 +1,4 @@
-Phragmocephala cookei E.W. Mason & S. Hughes, 1951 SPECIES
-=======
+# Phragmocephala cookei E.W. Mason & S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

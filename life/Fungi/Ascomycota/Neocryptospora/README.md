@@ -1,5 +1,4 @@
-Neocryptospora Petr. GENUS
-=======
+# Neocryptospora Petr. GENUS
 
 #### Status
 ACCEPTED

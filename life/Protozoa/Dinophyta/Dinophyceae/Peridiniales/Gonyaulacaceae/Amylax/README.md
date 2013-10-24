@@ -1,5 +1,4 @@
-Amylax Meunier GENUS
-=======
+# Amylax Meunier GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora smilacigena Bubák & Dearn. SPECIES
-=======
+# Stagonospora smilacigena Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Eimeria motellae (Labbé, 1893) Yakimoff, 1929 SPECIES
-=======
+# Goussia motellae (Labbé, 1893) Labbé, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

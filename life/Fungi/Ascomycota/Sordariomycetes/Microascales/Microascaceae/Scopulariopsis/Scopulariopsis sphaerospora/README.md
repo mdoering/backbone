@@ -1,5 +1,4 @@
-Scopulariopsis sphaerospora Zach, 1934 SPECIES
-=======
+# Scopulariopsis sphaerospora Zach, 1934 SPECIES
 
 #### Status
 ACCEPTED

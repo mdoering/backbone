@@ -1,5 +1,4 @@
-Septoria viburni Westend. SPECIES
-=======
+# Septoria viburni Westend. SPECIES
 
 #### Status
 ACCEPTED

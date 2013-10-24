@@ -1,5 +1,4 @@
-Camarosporium gucevicziae Trebelsk. SPECIES
-=======
+# Camarosporium gucevicziae Trebelsk. SPECIES
 
 #### Status
 ACCEPTED

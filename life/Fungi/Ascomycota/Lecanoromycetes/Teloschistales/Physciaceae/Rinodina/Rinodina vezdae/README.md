@@ -1,5 +1,4 @@
-Rinodina vezdae H. Mayrhofer SPECIES
-=======
+# Rinodina vezdae H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

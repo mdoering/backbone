@@ -1,5 +1,4 @@
-Cercospora blumeae-lacerae Sawada SPECIES
-=======
+# Cercospora blumeae-lacerae Sawada SPECIES
 
 #### Status
 ACCEPTED

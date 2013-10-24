@@ -1,5 +1,4 @@
-Glycyphila sulphurea P. Karst. SPECIES
-=======
+# Glycyphila sulphurea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

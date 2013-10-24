@@ -1,5 +1,4 @@
-Cercospora ryukyuensis Tak. Kobay. & Y. Kawabe SPECIES
-=======
+# Cercospora ryukyuensis Tak. Kobay. & Y. Kawabe SPECIES
 
 #### Status
 ACCEPTED

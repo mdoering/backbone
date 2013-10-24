@@ -1,14 +1,13 @@
-Codinaea triseptata Matsush., 1981 SPECIES
-=======
+# Dictyochaeta triseptata (Matsush.) R.F. Castañeda, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Matsush. Mycol. Mem. , no. 2 2: 4 (1981)
+Fungi Cubenses (La Habana) 8 (1986)
 
 #### Original name
 Codinaea triseptata Matsush., 1981

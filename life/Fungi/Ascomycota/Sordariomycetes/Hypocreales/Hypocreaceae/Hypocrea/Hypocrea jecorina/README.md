@@ -1,5 +1,4 @@
-Hypocrea jecorina Berk. & Broome, 1875 SPECIES
-=======
+# Hypocrea jecorina Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

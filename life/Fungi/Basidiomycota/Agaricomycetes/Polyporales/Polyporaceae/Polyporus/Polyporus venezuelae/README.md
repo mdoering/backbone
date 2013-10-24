@@ -1,5 +1,4 @@
-Polyporus venezuelae Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Polyporus venezuelae Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

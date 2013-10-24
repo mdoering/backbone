@@ -1,5 +1,4 @@
-Peziza torva Wallr. SPECIES
-=======
+# Peziza torva Wallr. SPECIES
 
 #### Status
 ACCEPTED

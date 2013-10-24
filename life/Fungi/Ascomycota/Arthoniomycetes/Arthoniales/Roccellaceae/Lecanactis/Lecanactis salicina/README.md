@@ -1,5 +1,4 @@
-Lecanactis salicina Zahlbr. SPECIES
-=======
+# Lecanactis salicina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

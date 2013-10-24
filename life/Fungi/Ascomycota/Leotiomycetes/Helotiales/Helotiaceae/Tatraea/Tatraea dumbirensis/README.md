@@ -1,17 +1,16 @@
-Helotium dumbirense Velen., 1934 SPECIES
-=======
+# Tatraea dumbirensis (Velen.) Svrcek, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 188 (1934)
+null
 
 #### Original name
-Helotium dumbirense Velen., 1934
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phialoselanospora Udaiyan GENUS
-=======
+# Phialoselanospora Udaiyan GENUS
 
 #### Status
 ACCEPTED

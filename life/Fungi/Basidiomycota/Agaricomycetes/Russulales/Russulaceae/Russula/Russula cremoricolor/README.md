@@ -1,5 +1,4 @@
-Russula cremoricolor Earle SPECIES
-=======
+# Russula cremoricolor Earle SPECIES
 
 #### Status
 ACCEPTED

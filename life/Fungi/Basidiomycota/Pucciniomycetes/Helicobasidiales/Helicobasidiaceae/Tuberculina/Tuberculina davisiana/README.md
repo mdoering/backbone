@@ -1,5 +1,4 @@
-Tuberculina davisiana Sacc. & Traverso SPECIES
-=======
+# Tuberculina davisiana Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus baekryungensis Yoon, Kim, Kang, Oh & Park, 2004 SPECIES
-=======
+# Bacillus baekryungensis Yoon, Kim, Kang, Oh & Park, 2004 SPECIES
 
 #### Status
 ACCEPTED

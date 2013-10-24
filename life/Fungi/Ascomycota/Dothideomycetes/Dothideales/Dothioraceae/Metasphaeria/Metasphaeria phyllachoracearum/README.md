@@ -1,5 +1,4 @@
-Metasphaeria phyllachoracearum Petr. SPECIES
-=======
+# Metasphaeria phyllachoracearum Petr. SPECIES
 
 #### Status
 ACCEPTED

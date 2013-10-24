@@ -1,5 +1,4 @@
-Peziza cazenoviae Ellis & Everh. SPECIES
-=======
+# Peziza cazenoviae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

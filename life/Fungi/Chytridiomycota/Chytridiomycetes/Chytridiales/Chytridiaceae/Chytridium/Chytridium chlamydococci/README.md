@@ -1,5 +1,4 @@
-Chytridium chlamydococci A. Braun SPECIES
-=======
+# Chytridium chlamydococci A. Braun SPECIES
 
 #### Status
 ACCEPTED

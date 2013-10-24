@@ -1,5 +1,4 @@
-Rhizocarpon polare Räsänen SPECIES
-=======
+# Rhizocarpon polare Räsänen SPECIES
 
 #### Status
 ACCEPTED

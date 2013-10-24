@@ -1,5 +1,4 @@
-Washitella Tappan, 1943 GENUS
-=======
+# Washitella Tappan, 1943 GENUS
 
 #### Status
 ACCEPTED

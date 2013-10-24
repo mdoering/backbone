@@ -1,5 +1,4 @@
-Nigroporus scalaris (Fr.) Ryvarden SPECIES
-=======
+# Nigroporus scalaris (Fr.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

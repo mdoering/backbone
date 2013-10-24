@@ -1,8 +1,7 @@
-Cicinnobolus compositarum Vasyag. SPECIES
-=======
+# Cicinobolus compositarum Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus compositarum Vasyag.
+Cicinobolus compositarum Vasyag.
 
 ### Remarks
 null

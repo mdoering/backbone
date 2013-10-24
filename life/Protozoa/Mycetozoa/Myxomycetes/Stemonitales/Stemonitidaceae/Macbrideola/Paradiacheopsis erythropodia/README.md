@@ -1,14 +1,13 @@
-Comatricha erythropodia Ing, 1964 SPECIES
-=======
+# Paradiacheopsis erythropodia (Ing) Nann.-Bremek., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 47: 54 (1964)
+The Myxomycetes (New York) 229 (1969)
 
 #### Original name
 Comatricha erythropodia Ing, 1964

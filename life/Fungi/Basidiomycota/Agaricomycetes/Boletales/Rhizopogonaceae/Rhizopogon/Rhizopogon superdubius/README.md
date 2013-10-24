@@ -1,5 +1,4 @@
-Rhizopogon superdubius Lloyd SPECIES
-=======
+# Rhizopogon superdubius Lloyd SPECIES
 
 #### Status
 ACCEPTED

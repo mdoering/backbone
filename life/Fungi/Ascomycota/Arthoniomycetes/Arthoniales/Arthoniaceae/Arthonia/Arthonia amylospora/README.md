@@ -1,14 +1,13 @@
-Lecideopsis amylospora (Almq.) Zopf SPECIES
-=======
+# Arthonia amylospora Almq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 17(no. 6): 48 (1880)
 
 #### Original name
 Arthonia amylospora Almq.

@@ -1,5 +1,4 @@
-Arthonia phyllospiliza Nyl. SPECIES
-=======
+# Arthonia phyllospiliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

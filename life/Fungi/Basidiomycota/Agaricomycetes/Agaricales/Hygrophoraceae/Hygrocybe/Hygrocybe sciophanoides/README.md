@@ -1,5 +1,4 @@
-Hygrocybe sciophanoides var. sciophanoides VARIETY
-=======
+# Hygrocybe sciophanoides (Rea) P.D. Orton & Watling SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Notes R. bot. Gdn Edinb. 131 (1969)
+Notes R. bot. Gdn Edinb. 29: 131 (1969)
 
 #### Original name
-Hygrocybe sciophanoides var. sciophanoides
+Hygrophorus sciophanoides Rea
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma brunneum var. brunneum VARIETY
-=======
+# Entoloma brunneum Petch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 23: 153 (1967)
 
 #### Original name
-Entoloma brunneum var. brunneum
+Entoloma brunneum Petch
 
 ### Remarks
 null

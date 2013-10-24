@@ -1,5 +1,4 @@
-Cetraria kurokowae Shibuichi & K. Yoshida SPECIES
-=======
+# Cetraria kurokowae Shibuichi & K. Yoshida SPECIES
 
 #### Status
 ACCEPTED

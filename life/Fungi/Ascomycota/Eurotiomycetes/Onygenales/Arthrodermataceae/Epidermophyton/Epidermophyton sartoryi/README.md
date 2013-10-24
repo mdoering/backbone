@@ -1,5 +1,4 @@
-Epidermophyton sartoryi Weiss {?} SPECIES
-=======
+# Epidermophyton sartoryi Weiss {?} SPECIES
 
 #### Status
 ACCEPTED

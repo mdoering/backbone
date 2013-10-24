@@ -1,5 +1,4 @@
-Trichopeziza fuegiana (Speg.) Sacc. SPECIES
-=======
+# Trichopeziza fuegiana (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

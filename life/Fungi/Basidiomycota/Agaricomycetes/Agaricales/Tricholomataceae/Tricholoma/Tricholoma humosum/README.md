@@ -1,5 +1,4 @@
-Tricholoma humosum (Fr.) S. Imai SPECIES
-=======
+# Tricholoma humosum (Fr.) S. Imai SPECIES
 
 #### Status
 ACCEPTED

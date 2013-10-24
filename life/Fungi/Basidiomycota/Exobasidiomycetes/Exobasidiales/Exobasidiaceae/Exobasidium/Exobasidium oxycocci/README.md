@@ -1,5 +1,4 @@
-Exobasidium oxycocci Rostr. ex Shear, 1907 SPECIES
-=======
+# Exobasidium oxycocci Rostr. ex Shear, 1907 SPECIES
 
 #### Status
 ACCEPTED

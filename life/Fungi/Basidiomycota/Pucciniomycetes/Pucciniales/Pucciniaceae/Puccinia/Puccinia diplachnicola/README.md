@@ -1,5 +1,4 @@
-Puccinia diplachnicola Dietel SPECIES
-=======
+# Puccinia diplachnicola Dietel SPECIES
 
 #### Status
 ACCEPTED

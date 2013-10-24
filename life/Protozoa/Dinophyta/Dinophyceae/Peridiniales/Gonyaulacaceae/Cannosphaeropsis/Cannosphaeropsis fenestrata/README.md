@@ -1,5 +1,4 @@
-Cannosphaeropsis fenestrata Deflandre & Cookson, 1955 SPECIES
-=======
+# Cannosphaeropsis fenestrata Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

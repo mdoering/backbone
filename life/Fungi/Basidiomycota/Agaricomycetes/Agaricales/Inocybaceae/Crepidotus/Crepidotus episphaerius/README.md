@@ -1,5 +1,4 @@
-Crepidotus episphaerius Berk. SPECIES
-=======
+# Crepidotus episphaerius Berk. SPECIES
 
 #### Status
 ACCEPTED

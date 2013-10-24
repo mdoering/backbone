@@ -1,5 +1,4 @@
-Ramularia major (Unger) U. Braun, 1988 SPECIES
-=======
+# Ramularia major (Unger) U. Braun, 1988 SPECIES
 
 #### Status
 ACCEPTED

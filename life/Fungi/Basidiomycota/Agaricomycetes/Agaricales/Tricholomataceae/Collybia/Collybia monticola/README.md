@@ -1,5 +1,4 @@
-Collybia monticola (Murrill) Murrill SPECIES
-=======
+# Collybia monticola (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

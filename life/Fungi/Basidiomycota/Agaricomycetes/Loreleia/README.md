@@ -1,5 +1,4 @@
-Loreleia Redhead, Moncalvo, Vilgalys & Lutzoni GENUS
-=======
+# Loreleia Redhead, Moncalvo, Vilgalys & Lutzoni GENUS
 
 #### Status
 ACCEPTED

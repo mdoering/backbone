@@ -1,5 +1,4 @@
-Napicladium ononidis (Auersw.) Sacc. SPECIES
-=======
+# Napicladium ononidis (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reophax pseudodistans Cushman, 1919 SPECIES
-=======
+# Reophax pseudodistans Cushman, 1919 SPECIES
 
 #### Status
 ACCEPTED

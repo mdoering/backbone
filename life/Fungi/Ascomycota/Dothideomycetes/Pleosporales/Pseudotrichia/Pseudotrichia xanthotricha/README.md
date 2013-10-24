@@ -1,5 +1,4 @@
-Pseudotrichia xanthotricha (Berk. & Broome) Réblová SPECIES
-=======
+# Pseudotrichia xanthotricha (Berk. & Broome) Réblová SPECIES
 
 #### Status
 ACCEPTED

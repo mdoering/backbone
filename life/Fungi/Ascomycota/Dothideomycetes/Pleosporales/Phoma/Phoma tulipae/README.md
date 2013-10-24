@@ -1,5 +1,4 @@
-Phoma tulipae Hollós SPECIES
-=======
+# Phoma tulipae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza drummondii Berk. SPECIES
-=======
+# Peziza drummondii Berk. SPECIES
 
 #### Status
 ACCEPTED

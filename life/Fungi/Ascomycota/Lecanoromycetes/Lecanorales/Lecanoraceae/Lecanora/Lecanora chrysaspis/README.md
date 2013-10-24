@@ -1,5 +1,4 @@
-Lecanora chrysaspis (Ach.) Röhl. SPECIES
-=======
+# Lecanora chrysaspis (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

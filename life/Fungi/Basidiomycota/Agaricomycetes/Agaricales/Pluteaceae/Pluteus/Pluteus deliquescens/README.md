@@ -1,5 +1,4 @@
-Pluteus deliquescens Murrill SPECIES
-=======
+# Pluteus deliquescens Murrill SPECIES
 
 #### Status
 ACCEPTED

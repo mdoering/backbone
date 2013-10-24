@@ -1,17 +1,16 @@
-Acarospora hospitans f. hospitans FORM
-=======
+# Acarospora hospitans H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Acarospora hospitans f. hospitans
+Acarospora hospitans H. Magn.
 
 ### Remarks
 null

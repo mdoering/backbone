@@ -1,5 +1,4 @@
-Methanosarcina GENUS
-=======
+# Methanosarcina GENUS
 
 #### Status
 ACCEPTED

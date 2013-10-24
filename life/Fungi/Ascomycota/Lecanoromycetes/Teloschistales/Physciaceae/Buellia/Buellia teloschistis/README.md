@@ -1,5 +1,4 @@
-Buellia teloschistis Vezda SPECIES
-=======
+# Buellia teloschistis Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doratomyces tenuis Corda SPECIES
-=======
+# Doratomyces tenuis Corda SPECIES
 
 #### Status
 ACCEPTED

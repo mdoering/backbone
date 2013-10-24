@@ -1,14 +1,13 @@
-Lituaria stigmatea Riess, 1853 SPECIES
-=======
+# Helicoma stigmateum (Reiss) Linder, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 11: (1853)
+Ann. Mo. bot. Gdn 16: 298 (1929)
 
 #### Original name
 Lituaria stigmatea Riess, 1853

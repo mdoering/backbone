@@ -1,5 +1,4 @@
-Venenarius westii Murrill SPECIES
-=======
+# Venenarius westii Murrill SPECIES
 
 #### Status
 ACCEPTED

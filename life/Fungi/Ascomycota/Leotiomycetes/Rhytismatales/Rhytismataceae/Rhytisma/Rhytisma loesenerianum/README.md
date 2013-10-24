@@ -1,5 +1,4 @@
-Rhytisma loesenerianum Henn. SPECIES
-=======
+# Rhytisma loesenerianum Henn. SPECIES
 
 #### Status
 ACCEPTED

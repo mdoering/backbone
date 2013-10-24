@@ -1,14 +1,13 @@
-Cudonia constrictospora S. Ito & S. Imai, 1934 SPECIES
-=======
+# Pachycudonia constrictospora (S. Ito & S. Imai) S. Imai, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mag. , Tokyo 63: 235 (1950)
 
 #### Original name
 Cudonia constrictospora S. Ito & S. Imai, 1934

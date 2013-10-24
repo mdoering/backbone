@@ -1,5 +1,4 @@
-Epithyrium gregarium (Died.) Sacc. SPECIES
-=======
+# Epithyrium gregarium (Died.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

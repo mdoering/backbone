@@ -1,5 +1,4 @@
-Hydrophilomyces Thaxt. GENUS
-=======
+# Hydrophilomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

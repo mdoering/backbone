@@ -1,5 +1,4 @@
-Septoria capsellae Oudem. SPECIES
-=======
+# Septoria capsellae Oudem. SPECIES
 
 #### Status
 ACCEPTED

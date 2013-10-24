@@ -1,5 +1,4 @@
-Agaricus sublanatus var. sublanatus Sowerby VARIETY
-=======
+# Agaricus sublanatus Sowerby SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Col. fig. Engl. Fung. Mushr. 2: pl. 224 (1799)
 
 #### Original name
-Agaricus sublanatus var. sublanatus Sowerby
+Agaricus sublanatus Sowerby
 
 ### Remarks
 null

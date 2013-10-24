@@ -1,5 +1,4 @@
-Lophosphaeridium microgranulosum Thusu, 1973 SPECIES
-=======
+# Lophosphaeridium microgranulosum Thusu, 1973 SPECIES
 
 #### Status
 ACCEPTED

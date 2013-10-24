@@ -1,5 +1,4 @@
-Daedalea aulaxina Lév. SPECIES
-=======
+# Daedalea aulaxina Lév. SPECIES
 
 #### Status
 ACCEPTED

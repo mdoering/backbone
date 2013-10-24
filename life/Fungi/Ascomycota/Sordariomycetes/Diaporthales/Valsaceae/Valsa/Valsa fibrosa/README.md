@@ -1,5 +1,4 @@
-Valsa fibrosa (Pers.) SPECIES
-=======
+# Valsa fibrosa (Pers.) SPECIES
 
 #### Status
 ACCEPTED

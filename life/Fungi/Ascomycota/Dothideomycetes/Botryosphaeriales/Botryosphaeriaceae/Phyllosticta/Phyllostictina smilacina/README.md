@@ -1,5 +1,4 @@
-Phyllostictina smilacina S.R. Chowdhury SPECIES
-=======
+# Phyllostictina smilacina S.R. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salpingoeca minuta Kent SPECIES
-=======
+# Salpingoeca minuta Kent SPECIES
 
 #### Status
 ACCEPTED

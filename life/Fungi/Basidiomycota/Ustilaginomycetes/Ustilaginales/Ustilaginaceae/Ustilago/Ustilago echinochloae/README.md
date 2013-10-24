@@ -1,5 +1,4 @@
-Ustilago echinochloae L. Guo & Y.C. Wang SPECIES
-=======
+# Ustilago echinochloae L. Guo & Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

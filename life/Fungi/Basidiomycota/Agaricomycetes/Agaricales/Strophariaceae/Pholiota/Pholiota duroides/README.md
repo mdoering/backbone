@@ -1,5 +1,4 @@
-Pholiota duroides Peck SPECIES
-=======
+# Pholiota duroides Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo socotrae Syd. & P. Syd. SPECIES
-=======
+# Uredo socotrae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

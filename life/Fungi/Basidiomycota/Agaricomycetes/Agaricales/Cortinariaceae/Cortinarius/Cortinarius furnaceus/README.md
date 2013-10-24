@@ -1,5 +1,4 @@
-Cortinarius furnaceus M.M. Moser SPECIES
-=======
+# Cortinarius furnaceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

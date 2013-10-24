@@ -1,11 +1,10 @@
-Xiphophora chondrophylla subsp. chondrophylla SUBSPECIES
-=======
+# Xiphophora chondrophylla (R.Brown ex Turner) Montagne ex Harvey SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

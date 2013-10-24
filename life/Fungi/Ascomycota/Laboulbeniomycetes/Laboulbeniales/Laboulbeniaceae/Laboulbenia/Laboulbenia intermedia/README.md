@@ -1,5 +1,4 @@
-Laboulbenia intermedia Thaxt. SPECIES
-=======
+# Laboulbenia intermedia Thaxt. SPECIES
 
 #### Status
 ACCEPTED

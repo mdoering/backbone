@@ -1,5 +1,4 @@
-Arthopyrenia media Harm. SPECIES
-=======
+# Arthopyrenia media Harm. SPECIES
 
 #### Status
 ACCEPTED

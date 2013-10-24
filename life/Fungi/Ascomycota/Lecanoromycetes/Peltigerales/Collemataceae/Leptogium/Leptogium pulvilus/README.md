@@ -1,5 +1,4 @@
-Leptogium pulvilus Tuck. SPECIES
-=======
+# Leptogium pulvilus Tuck. SPECIES
 
 #### Status
 ACCEPTED

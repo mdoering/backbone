@@ -1,5 +1,4 @@
-Entoloma avellaneum Murrill SPECIES
-=======
+# Entoloma avellaneum Murrill SPECIES
 
 #### Status
 ACCEPTED

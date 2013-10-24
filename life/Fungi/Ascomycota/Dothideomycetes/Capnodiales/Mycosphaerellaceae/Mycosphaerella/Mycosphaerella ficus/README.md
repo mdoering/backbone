@@ -1,5 +1,4 @@
-Mycosphaerella ficus (Traverso & Spessa) Tomilin SPECIES
-=======
+# Mycosphaerella ficus (Traverso & Spessa) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus singerianus Dennis SPECIES
-=======
+# Dasyscyphus singerianus Dennis SPECIES
 
 #### Status
 ACCEPTED

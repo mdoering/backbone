@@ -1,5 +1,4 @@
-Russula annulatobadia Beeli SPECIES
-=======
+# Russula annulatobadia Beeli SPECIES
 
 #### Status
 ACCEPTED

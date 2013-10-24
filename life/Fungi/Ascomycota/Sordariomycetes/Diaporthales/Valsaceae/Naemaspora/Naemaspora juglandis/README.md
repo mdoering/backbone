@@ -1,5 +1,4 @@
-Naemaspora juglandis Preuss SPECIES
-=======
+# Naemaspora juglandis Preuss SPECIES
 
 #### Status
 ACCEPTED

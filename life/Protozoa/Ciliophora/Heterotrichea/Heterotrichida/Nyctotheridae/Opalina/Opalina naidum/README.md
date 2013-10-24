@@ -1,5 +1,4 @@
-Opalina naidum Dujardin, 1841 SPECIES
-=======
+# Opalina naidum Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

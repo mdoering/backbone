@@ -1,5 +1,4 @@
-Torula dicoccum (Auersw.) P. Joly SPECIES
-=======
+# Torula dicoccum (Auersw.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces usterianus Dietel SPECIES
-=======
+# Uromyces usterianus Dietel SPECIES
 
 #### Status
 ACCEPTED

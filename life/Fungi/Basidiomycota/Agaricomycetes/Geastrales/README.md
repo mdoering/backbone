@@ -1,5 +1,4 @@
-Geastrales K. Hosaka & Castellano ORDER
-=======
+# Geastrales K. Hosaka & Castellano ORDER
 
 #### Status
 ACCEPTED

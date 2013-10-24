@@ -1,17 +1,16 @@
-Caloplaca velana var. velana VARIETY
-=======
+# Caloplaca velana (A. Massal.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Callopisma aurantiacum var. velanum A. Massal.
+null
 
 ### Remarks
 null

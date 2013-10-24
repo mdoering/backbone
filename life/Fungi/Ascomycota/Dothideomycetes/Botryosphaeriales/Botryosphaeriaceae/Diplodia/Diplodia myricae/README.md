@@ -1,5 +1,4 @@
-Diplodia myricae Henn. SPECIES
-=======
+# Diplodia myricae Henn. SPECIES
 
 #### Status
 ACCEPTED

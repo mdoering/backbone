@@ -1,5 +1,4 @@
-Phoma semiplena Bubák SPECIES
-=======
+# Phoma semiplena Bubák SPECIES
 
 #### Status
 ACCEPTED

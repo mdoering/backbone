@@ -1,5 +1,4 @@
-Asteroma arctii Politis SPECIES
-=======
+# Asteroma arctii Politis SPECIES
 
 #### Status
 ACCEPTED

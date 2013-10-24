@@ -1,5 +1,4 @@
-Lecidea nagasakensis Nyl. SPECIES
-=======
+# Lecidea nagasakensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

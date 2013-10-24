@@ -1,5 +1,4 @@
-Psilocybe perspicua Herp. SPECIES
-=======
+# Psilocybe perspicua Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella epicoccum Petch SPECIES
-=======
+# Volutella epicoccum Petch SPECIES
 
 #### Status
 ACCEPTED

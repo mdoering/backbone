@@ -1,5 +1,4 @@
-Aleurisma benignum (O. Magalh.) Vuill. SPECIES
-=======
+# Aleurisma benignum (O. Magalh.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

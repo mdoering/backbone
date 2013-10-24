@@ -1,5 +1,4 @@
-Camarophyllus squamulosus (Ellis & Everh.) Murrill SPECIES
-=======
+# Camarophyllus squamulosus (Ellis & Everh.) Murrill SPECIES
 
 #### Status
 ACCEPTED

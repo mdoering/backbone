@@ -1,5 +1,4 @@
-Aspicilia ferruginosa Motyka SPECIES
-=======
+# Aspicilia ferruginosa Motyka SPECIES
 
 #### Status
 ACCEPTED

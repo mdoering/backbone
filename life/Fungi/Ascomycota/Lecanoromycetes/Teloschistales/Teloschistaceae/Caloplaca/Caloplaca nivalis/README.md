@@ -1,17 +1,16 @@
-Callopisma nivale Körb. SPECIES
-=======
+# Caloplaca nivalis (Körb.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 191 (1871)
 
 #### Original name
-null
+Callopisma nivale Körb.
 
 ### Remarks
 null

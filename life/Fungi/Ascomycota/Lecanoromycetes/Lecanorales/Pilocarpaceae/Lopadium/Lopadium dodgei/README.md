@@ -1,5 +1,4 @@
-Lopadium dodgei Herre SPECIES
-=======
+# Lopadium dodgei Herre SPECIES
 
 #### Status
 ACCEPTED

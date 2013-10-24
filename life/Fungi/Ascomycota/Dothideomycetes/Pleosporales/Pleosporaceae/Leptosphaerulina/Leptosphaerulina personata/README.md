@@ -1,14 +1,13 @@
-Scleropleella persanata (Niessl) Höhn. SPECIES
-=======
+# Leptosphaerulina personata (Niessl) M.E. Barr, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 9(8): 542 (1972)
 
 #### Original name
 Leptosphaeria personata Niessl, 1875

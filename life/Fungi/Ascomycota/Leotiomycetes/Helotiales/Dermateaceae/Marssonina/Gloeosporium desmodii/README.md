@@ -1,5 +1,4 @@
-Gloeosporium desmodii H.C. Greene SPECIES
-=======
+# Gloeosporium desmodii H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

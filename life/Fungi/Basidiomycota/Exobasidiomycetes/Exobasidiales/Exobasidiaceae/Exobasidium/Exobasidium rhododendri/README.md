@@ -1,17 +1,16 @@
-Exobasidium vaccinii f. rhododendri (Fuckel) W. Voss, 1890 FORM
-=======
+# Exobasidium rhododendri (Fuckel) C.E. Cramer, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitteilungen des Museal-Vereins für Krain, Abt. 2 3: 238 (1890)
+in Geyler, Bot. Ztg. 32: 324 (1874)
 
 #### Original name
-Exobasidium rhododendri (Fuckel) C.E. Cramer, 1874
+Exobasidium vaccinii var. rhododendri Fuckel, 1874
 
 ### Remarks
 null

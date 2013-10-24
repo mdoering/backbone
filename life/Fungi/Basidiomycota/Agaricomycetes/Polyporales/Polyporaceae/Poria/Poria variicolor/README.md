@@ -1,5 +1,4 @@
-Poria variicolor P. Karst. SPECIES
-=======
+# Poria variicolor P. Karst. SPECIES
 
 #### Status
 ACCEPTED

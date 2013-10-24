@@ -1,5 +1,4 @@
-Galactopus parsonsiae (G. Stev.) E. Horak SPECIES
-=======
+# Galactopus parsonsiae (G. Stev.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

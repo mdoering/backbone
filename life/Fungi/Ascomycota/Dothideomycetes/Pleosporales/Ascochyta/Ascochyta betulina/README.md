@@ -1,5 +1,4 @@
-Ascochyta betulina Vasyag. SPECIES
-=======
+# Ascochyta betulina Vasyag. SPECIES
 
 #### Status
 ACCEPTED

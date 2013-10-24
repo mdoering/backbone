@@ -1,5 +1,4 @@
-Elphidium waddense Van Voorthuysen, 1975 SPECIES
-=======
+# Elphidium waddense Van Voorthuysen, 1975 SPECIES
 
 #### Status
 ACCEPTED

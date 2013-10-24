@@ -1,5 +1,4 @@
-Trochammina japonica Ishiwada, 1950 SPECIES
-=======
+# Trochammina japonica Ishiwada, 1950 SPECIES
 
 #### Status
 ACCEPTED

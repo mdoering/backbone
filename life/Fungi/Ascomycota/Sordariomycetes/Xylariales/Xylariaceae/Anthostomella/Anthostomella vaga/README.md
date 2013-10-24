@@ -1,5 +1,4 @@
-Anthostomella vaga Niessl SPECIES
-=======
+# Anthostomella vaga Niessl SPECIES
 
 #### Status
 ACCEPTED

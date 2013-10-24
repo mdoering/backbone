@@ -1,5 +1,4 @@
-Acarospora anziana H. Magn. SPECIES
-=======
+# Acarospora anziana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

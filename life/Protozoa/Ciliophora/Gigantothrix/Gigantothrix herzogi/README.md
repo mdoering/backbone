@@ -1,5 +1,4 @@
-Gigantothrix herzogi Foissner, 1999 SPECIES
-=======
+# Gigantothrix herzogi Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pouzaromyces fumosellus (G. Winter) Pilát SPECIES
-=======
+# Pouzaromyces fumosellus (G. Winter) Pilát SPECIES
 
 #### Status
 ACCEPTED

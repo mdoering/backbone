@@ -1,5 +1,4 @@
-Pseudoparmelia arida (Lynge) Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia arida (Lynge) Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

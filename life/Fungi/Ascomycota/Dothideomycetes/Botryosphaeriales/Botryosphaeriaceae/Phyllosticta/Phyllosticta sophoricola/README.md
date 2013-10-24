@@ -1,5 +1,4 @@
-Phyllosticta sophoricola Hollós SPECIES
-=======
+# Phyllosticta sophoricola Hollós SPECIES
 
 #### Status
 ACCEPTED

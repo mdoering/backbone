@@ -1,5 +1,4 @@
-Vallacerta Hanna, 1928 GENUS
-=======
+# Vallacerta Hanna, 1928 GENUS
 
 #### Status
 ACCEPTED

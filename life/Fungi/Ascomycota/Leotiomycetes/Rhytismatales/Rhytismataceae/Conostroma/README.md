@@ -1,17 +1,16 @@
-Discosporella Höhn. GENUS
-=======
+# Conostroma Moesz, 1921 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Weese, Mitt. bot. Inst. tech. Hochsch. Wien 4(2): 80 (1927)
+null
 
 #### Original name
-Discosporella Höhn.
+null
 
 ### Remarks
 null

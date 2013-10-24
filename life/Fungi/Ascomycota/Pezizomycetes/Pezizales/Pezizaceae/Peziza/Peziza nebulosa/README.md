@@ -1,5 +1,4 @@
-Peziza nebulosa Cooke SPECIES
-=======
+# Peziza nebulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

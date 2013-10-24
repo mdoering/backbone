@@ -1,5 +1,4 @@
-Elsinoë centrolobii Bitanc. & Jenkins, 1950 SPECIES
-=======
+# Elsinoë centrolobii Bitanc. & Jenkins, 1950 SPECIES
 
 #### Status
 ACCEPTED

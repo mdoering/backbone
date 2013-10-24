@@ -1,5 +1,4 @@
-Peronospora leonuri T.R. Liu & C.K. Pai SPECIES
-=======
+# Peronospora leonuri T.R. Liu & C.K. Pai SPECIES
 
 #### Status
 ACCEPTED

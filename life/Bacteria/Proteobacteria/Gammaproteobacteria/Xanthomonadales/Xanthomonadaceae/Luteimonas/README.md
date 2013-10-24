@@ -1,5 +1,4 @@
-Luteimonas Finkmann, Altendorf, Stackebrandt & Lipski, 2000 GENUS
-=======
+# Luteimonas Finkmann, Altendorf, Stackebrandt & Lipski, 2000 GENUS
 
 #### Status
 ACCEPTED

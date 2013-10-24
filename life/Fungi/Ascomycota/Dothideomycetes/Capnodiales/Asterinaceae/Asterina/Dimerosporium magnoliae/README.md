@@ -1,5 +1,4 @@
-Dimerosporium magnoliae Tracy & Earle SPECIES
-=======
+# Dimerosporium magnoliae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

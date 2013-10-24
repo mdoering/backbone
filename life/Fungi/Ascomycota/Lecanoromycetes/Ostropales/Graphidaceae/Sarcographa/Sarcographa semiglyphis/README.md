@@ -1,5 +1,4 @@
-Sarcographa semiglyphis (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa semiglyphis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

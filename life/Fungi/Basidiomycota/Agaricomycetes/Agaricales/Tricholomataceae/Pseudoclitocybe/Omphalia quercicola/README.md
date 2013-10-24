@@ -1,5 +1,4 @@
-Omphalia quercicola Velen. SPECIES
-=======
+# Omphalia quercicola Velen. SPECIES
 
 #### Status
 ACCEPTED

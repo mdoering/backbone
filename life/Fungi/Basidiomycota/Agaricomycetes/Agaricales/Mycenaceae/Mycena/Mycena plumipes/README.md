@@ -1,5 +1,4 @@
-Mycena plumipes (Kalchbr.) P.-A. Moreau SPECIES
-=======
+# Mycena plumipes (Kalchbr.) P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia spegazzinii Pirotta SPECIES
-=======
+# Sporormia spegazzinii Pirotta SPECIES
 
 #### Status
 ACCEPTED

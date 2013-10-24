@@ -1,17 +1,16 @@
-Nematophycus W. Carruthers, 1872 GENUS
-=======
+# Prototaxites Dawson GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Prototaxites Dawson
 
 ### Remarks
 null

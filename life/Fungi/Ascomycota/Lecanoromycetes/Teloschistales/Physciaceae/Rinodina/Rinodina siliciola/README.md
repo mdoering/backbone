@@ -1,5 +1,4 @@
-Rinodina siliciola SPECIES
-=======
+# Rinodina siliciola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius lignicola W.F. Chiu SPECIES
-=======
+# Lactarius lignicola W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

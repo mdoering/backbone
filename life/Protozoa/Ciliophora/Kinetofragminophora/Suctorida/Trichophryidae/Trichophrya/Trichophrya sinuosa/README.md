@@ -1,5 +1,4 @@
-Trichophrya sinuosa Stokes, 1886 SPECIES
-=======
+# Trichophrya sinuosa Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium conspersum Davis SPECIES
-=======
+# Aecidium conspersum Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium moniliferum Ellis & Everh. SPECIES
-=======
+# Asteridium moniliferum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

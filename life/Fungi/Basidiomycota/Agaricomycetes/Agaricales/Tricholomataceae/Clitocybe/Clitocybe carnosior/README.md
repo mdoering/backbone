@@ -1,5 +1,4 @@
-Clitocybe carnosior Peck SPECIES
-=======
+# Clitocybe carnosior Peck SPECIES
 
 #### Status
 ACCEPTED

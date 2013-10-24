@@ -1,5 +1,4 @@
-Dactylaria mucronulata Ellis & Langl. SPECIES
-=======
+# Dactylaria mucronulata Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium megalosporum Berk. & M.A. Curtis SPECIES
-=======
+# Oidium megalosporum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

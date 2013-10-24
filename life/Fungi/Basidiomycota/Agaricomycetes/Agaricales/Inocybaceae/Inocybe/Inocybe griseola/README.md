@@ -1,5 +1,4 @@
-Inocybe griseola Takah. Kobay. SPECIES
-=======
+# Inocybe griseola Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

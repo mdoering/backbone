@@ -1,5 +1,4 @@
-Calcistheca Trejo, 1983 GENUS
-=======
+# Calcistheca Trejo, 1983 GENUS
 
 #### Status
 ACCEPTED

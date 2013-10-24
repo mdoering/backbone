@@ -1,5 +1,4 @@
-Uredo herneriae Torrend SPECIES
-=======
+# Uredo herneriae Torrend SPECIES
 
 #### Status
 ACCEPTED

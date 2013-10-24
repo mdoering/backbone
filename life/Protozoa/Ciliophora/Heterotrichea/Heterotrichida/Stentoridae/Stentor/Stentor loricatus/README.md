@@ -1,8 +1,7 @@
-Stentor loricata Bary, 1950 SPECIES
-=======
+# Stentor loricatus Bary, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

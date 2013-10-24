@@ -1,14 +1,13 @@
-Amandinea adjuncta (Th. Fr.) Hafellner SPECIES
-=======
+# Buellia adjuncta Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Lichenol. 88: 175-186 (2004)
+Bot. Notiser 14 (1866)
 
 #### Original name
 Buellia adjuncta Th. Fr.

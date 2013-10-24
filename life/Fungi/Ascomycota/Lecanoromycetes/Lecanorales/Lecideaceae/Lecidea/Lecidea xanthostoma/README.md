@@ -1,5 +1,4 @@
-Lecidea xanthostoma Sommerf. SPECIES
-=======
+# Lecidea xanthostoma Sommerf. SPECIES
 
 #### Status
 ACCEPTED

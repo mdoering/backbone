@@ -1,5 +1,4 @@
-Xylaria fissilis Ces. SPECIES
-=======
+# Xylaria fissilis Ces. SPECIES
 
 #### Status
 ACCEPTED

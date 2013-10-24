@@ -1,5 +1,4 @@
-Irene peglerae (Doidge) Doidge SPECIES
-=======
+# Irene peglerae (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

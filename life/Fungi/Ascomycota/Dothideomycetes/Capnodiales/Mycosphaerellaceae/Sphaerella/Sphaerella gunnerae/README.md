@@ -1,5 +1,4 @@
-Sphaerella gunnerae Speg. SPECIES
-=======
+# Sphaerella gunnerae Speg. SPECIES
 
 #### Status
 ACCEPTED

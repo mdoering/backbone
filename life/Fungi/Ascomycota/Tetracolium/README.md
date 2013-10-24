@@ -1,5 +1,4 @@
-Tetracolium GENUS
-=======
+# Tetracolium GENUS
 
 #### Status
 ACCEPTED

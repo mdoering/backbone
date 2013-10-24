@@ -1,5 +1,4 @@
-Geoglossum pumilum G. Winter SPECIES
-=======
+# Geoglossum pumilum G. Winter SPECIES
 
 #### Status
 ACCEPTED

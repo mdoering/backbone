@@ -1,5 +1,4 @@
-Lipomyces suomiensis (M.T. Sm., Van der Walt & Y. Yamada) Kurtzman, Albertyn & Basehoar-Powers, 2007 SPECIES
-=======
+# Lipomyces suomiensis (M.T. Sm., Van der Walt & Y. Yamada) Kurtzman, Albertyn & Basehoar-Powers, 2007 SPECIES
 
 #### Status
 ACCEPTED

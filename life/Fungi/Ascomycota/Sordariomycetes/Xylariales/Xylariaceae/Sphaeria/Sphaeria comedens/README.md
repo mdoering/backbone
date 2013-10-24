@@ -1,5 +1,4 @@
-Sphaeria comedens Schwein. SPECIES
-=======
+# Sphaeria comedens Schwein. SPECIES
 
 #### Status
 ACCEPTED

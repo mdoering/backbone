@@ -1,5 +1,4 @@
-Aecidium conspicuum Arthur SPECIES
-=======
+# Aecidium conspicuum Arthur SPECIES
 
 #### Status
 ACCEPTED

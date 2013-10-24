@@ -1,5 +1,4 @@
-Arthopyrenia japonica Vain. SPECIES
-=======
+# Arthopyrenia japonica Vain. SPECIES
 
 #### Status
 ACCEPTED

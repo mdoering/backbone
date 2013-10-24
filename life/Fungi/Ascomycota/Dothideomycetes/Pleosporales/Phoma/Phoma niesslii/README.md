@@ -1,5 +1,4 @@
-Phoma niesslii Sacc. SPECIES
-=======
+# Phoma niesslii Sacc. SPECIES
 
 #### Status
 ACCEPTED

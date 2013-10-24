@@ -1,14 +1,13 @@
-Boletus caespitosus Cleland, 1924 SPECIES
-=======
+# Rubinoboletus caespitosus T.H. Li & Watling, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 48: 247 (1924)
+Edinb. J. Bot. 56(1): 148 (1999)
 
 #### Original name
 Boletus caespitosus Cleland, 1924

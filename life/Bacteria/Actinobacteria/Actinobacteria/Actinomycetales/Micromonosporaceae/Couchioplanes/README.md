@@ -1,5 +1,4 @@
-Couchioplanes Tamura et al., 1994 GENUS
-=======
+# Couchioplanes Tamura et al., 1994 GENUS
 
 #### Status
 ACCEPTED

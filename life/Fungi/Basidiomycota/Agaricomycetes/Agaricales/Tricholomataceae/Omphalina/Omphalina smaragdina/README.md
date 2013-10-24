@@ -1,5 +1,4 @@
-Omphalina smaragdina (Berk.) Malençon & Berthier SPECIES
-=======
+# Omphalina smaragdina (Berk.) Malençon & Berthier SPECIES
 
 #### Status
 ACCEPTED

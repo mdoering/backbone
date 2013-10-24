@@ -1,5 +1,4 @@
-Calothrix ramenskii Elenkin SPECIES
-=======
+# Calothrix ramenskii Elenkin SPECIES
 
 #### Status
 ACCEPTED

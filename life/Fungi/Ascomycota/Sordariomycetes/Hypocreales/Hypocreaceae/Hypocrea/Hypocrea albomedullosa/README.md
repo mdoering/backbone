@@ -1,5 +1,4 @@
-Hypocrea albomedullosa Yoshim. Doi SPECIES
-=======
+# Hypocrea albomedullosa Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

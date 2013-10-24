@@ -1,5 +1,4 @@
-Peridermium montezumae Cummins SPECIES
-=======
+# Peridermium montezumae Cummins SPECIES
 
 #### Status
 ACCEPTED

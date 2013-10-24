@@ -1,5 +1,4 @@
-Santessoniolichen parolinii (Beltr.) Tomas. & Cif. SPECIES
-=======
+# Santessoniolichen parolinii (Beltr.) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubulicrinis orientalis Parmasto SPECIES
-=======
+# Tubulicrinis orientalis Parmasto SPECIES
 
 #### Status
 ACCEPTED

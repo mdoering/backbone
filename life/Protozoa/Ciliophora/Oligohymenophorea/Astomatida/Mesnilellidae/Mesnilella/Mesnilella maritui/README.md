@@ -1,5 +1,4 @@
-Mesnilella maritui SPECIES
-=======
+# Mesnilella maritui SPECIES
 
 #### Status
 ACCEPTED

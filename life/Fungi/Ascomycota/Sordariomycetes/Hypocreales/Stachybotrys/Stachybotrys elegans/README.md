@@ -1,17 +1,16 @@
-Stachybotrys bisbyi (Sriniv.) G.L. Barron, 1964 SPECIES
-=======
+# Stachybotrys elegans (Pidopl.) W. Gams, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 56(2): 315 (1964)
+Compendium of Soil Fungi (London) 746 (1980)
 
 #### Original name
-Hyalostachybotrys bisbyi Sriniv., 1958
+Hyalobotrys elegans Pidopl., 1948
 
 ### Remarks
 null

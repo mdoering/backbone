@@ -1,5 +1,4 @@
-Hypoxylon subrubiginosum Henn. SPECIES
-=======
+# Hypoxylon subrubiginosum Henn. SPECIES
 
 #### Status
 ACCEPTED

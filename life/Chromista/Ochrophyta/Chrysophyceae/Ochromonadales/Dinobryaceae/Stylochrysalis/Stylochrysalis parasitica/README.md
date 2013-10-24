@@ -1,5 +1,4 @@
-Stylochrysalis parasitica F. Stein SPECIES
-=======
+# Stylochrysalis parasitica F. Stein SPECIES
 
 #### Status
 ACCEPTED

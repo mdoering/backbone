@@ -1,5 +1,4 @@
-Phragmocalosphaeria Petr. GENUS
-=======
+# Phragmocalosphaeria Petr. GENUS
 
 #### Status
 ACCEPTED

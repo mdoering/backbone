@@ -1,5 +1,4 @@
-Sphaeronaema epiglaeum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema epiglaeum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

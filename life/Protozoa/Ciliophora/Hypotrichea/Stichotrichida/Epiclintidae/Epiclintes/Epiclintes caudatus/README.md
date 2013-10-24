@@ -1,5 +1,4 @@
-Epiclintes caudatus Bullington, 1940 SPECIES
-=======
+# Epiclintes caudatus Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

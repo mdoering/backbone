@@ -1,5 +1,4 @@
-Heterodermia subcitrina Moberg SPECIES
-=======
+# Heterodermia subcitrina Moberg SPECIES
 
 #### Status
 ACCEPTED

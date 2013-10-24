@@ -1,14 +1,13 @@
-Verrucaria rupifraga (A. Massal.) Garov. SPECIES
-=======
+# Staurothele rupifraga (A. Massal.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tentam. Dispos. Lich. Langob. 160 (1865)
+Verh. zool. -bot. Ges. Wein 30: 149 (1880)
 
 #### Original name
 Polyblastia rupifraga A. Massal.

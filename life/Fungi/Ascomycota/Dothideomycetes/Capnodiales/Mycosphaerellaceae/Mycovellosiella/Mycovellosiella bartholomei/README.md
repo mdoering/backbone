@@ -1,5 +1,4 @@
-Mycovellosiella bartholomei (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Mycovellosiella bartholomei (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

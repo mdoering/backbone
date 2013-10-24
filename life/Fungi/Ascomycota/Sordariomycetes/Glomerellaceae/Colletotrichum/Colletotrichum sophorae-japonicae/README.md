@@ -1,5 +1,4 @@
-Colletotrichum sophorae-japonicae Hara SPECIES
-=======
+# Colletotrichum sophorae-japonicae Hara SPECIES
 
 #### Status
 ACCEPTED

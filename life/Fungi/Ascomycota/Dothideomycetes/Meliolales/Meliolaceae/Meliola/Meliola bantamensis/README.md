@@ -1,5 +1,4 @@
-Meliola bantamensis Hansf. SPECIES
-=======
+# Meliola bantamensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

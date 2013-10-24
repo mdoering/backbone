@@ -1,5 +1,4 @@
-Methanogenium organophilum Widdel et al., 1989 SPECIES
-=======
+# Methanogenium organophilum Widdel et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haploporus Bondartsev & Singer, 1944 GENUS
-=======
+# Haploporus Bondartsev & Singer, 1944 GENUS
 
 #### Status
 ACCEPTED

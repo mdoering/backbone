@@ -1,5 +1,4 @@
-Isthmolongispora basitruneata SPECIES
-=======
+# Isthmolongispora basitruneata SPECIES
 
 #### Status
 ACCEPTED

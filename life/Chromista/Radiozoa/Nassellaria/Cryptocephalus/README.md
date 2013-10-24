@@ -1,5 +1,4 @@
-Cryptocephalus Haeckel, 1881 GENUS
-=======
+# Cryptocephalus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

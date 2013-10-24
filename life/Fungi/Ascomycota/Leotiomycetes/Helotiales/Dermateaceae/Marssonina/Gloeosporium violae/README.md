@@ -1,5 +1,4 @@
-Gloeosporium violae Berk. & Broome SPECIES
-=======
+# Gloeosporium violae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

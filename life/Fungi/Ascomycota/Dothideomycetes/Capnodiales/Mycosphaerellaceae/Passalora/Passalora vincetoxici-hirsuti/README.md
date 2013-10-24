@@ -1,5 +1,4 @@
-Passalora vincetoxici-hirsuti U. Braun & Crous SPECIES
-=======
+# Passalora vincetoxici-hirsuti U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

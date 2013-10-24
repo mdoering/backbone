@@ -1,5 +1,4 @@
-Ramulariopsis glycines Deighton SPECIES
-=======
+# Ramulariopsis glycines Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaealetes Naumova, 1950 GENUS
-=======
+# Archaealetes Naumova, 1950 GENUS
 
 #### Status
 ACCEPTED

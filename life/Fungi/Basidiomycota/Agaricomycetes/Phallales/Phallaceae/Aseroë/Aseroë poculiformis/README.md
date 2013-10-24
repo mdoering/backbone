@@ -1,8 +1,7 @@
-Aseroë poculiforma F.M. Bailey SPECIES
-=======
+# Aseroë poculiformis F.M. Bailey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aseroë poculiforma F.M. Bailey
+Aseroë poculiformis F.M. Bailey
 
 ### Remarks
 null

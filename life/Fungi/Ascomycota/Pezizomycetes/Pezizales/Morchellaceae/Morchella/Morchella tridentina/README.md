@@ -1,5 +1,4 @@
-Morchella tridentina Bres. SPECIES
-=======
+# Morchella tridentina Bres. SPECIES
 
 #### Status
 ACCEPTED

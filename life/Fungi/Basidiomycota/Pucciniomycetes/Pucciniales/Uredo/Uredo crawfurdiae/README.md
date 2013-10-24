@@ -1,5 +1,4 @@
-Uredo crawfurdiae SPECIES
-=======
+# Uredo crawfurdiae SPECIES
 
 #### Status
 ACCEPTED

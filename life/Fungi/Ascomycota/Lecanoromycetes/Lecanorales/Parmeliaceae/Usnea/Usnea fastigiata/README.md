@@ -1,5 +1,4 @@
-Usnea fastigiata Motyka SPECIES
-=======
+# Usnea fastigiata Motyka SPECIES
 
 #### Status
 ACCEPTED

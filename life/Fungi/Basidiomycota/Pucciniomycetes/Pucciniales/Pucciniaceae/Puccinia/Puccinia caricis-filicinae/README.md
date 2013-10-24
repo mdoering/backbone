@@ -1,5 +1,4 @@
-Puccinia caricis-filicinae Barclay SPECIES
-=======
+# Puccinia caricis-filicinae Barclay SPECIES
 
 #### Status
 ACCEPTED

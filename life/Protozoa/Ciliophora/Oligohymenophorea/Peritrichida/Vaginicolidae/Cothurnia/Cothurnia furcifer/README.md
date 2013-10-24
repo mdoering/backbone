@@ -1,5 +1,4 @@
-Cothurnia furcifer SPECIES
-=======
+# Cothurnia furcifer SPECIES
 
 #### Status
 ACCEPTED

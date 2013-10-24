@@ -1,5 +1,4 @@
-Sphaeria improvisa P. Karst. SPECIES
-=======
+# Sphaeria improvisa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenotea farrea Fr. SPECIES
-=======
+# Pyrenotea farrea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entactiniidae Riedel, 1967 FAMILY
-=======
+# Entactiniidae Riedel, 1967 FAMILY
 
 #### Status
 ACCEPTED

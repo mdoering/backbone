@@ -1,17 +1,16 @@
-Murashkinskija Petr. GENUS
-=======
+# Mytilinidion Duby GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 68: 203 (1928)
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 34 (1862)
 
 #### Original name
-Murashkinskija Petr.
+Mytilinidion Duby
 
 ### Remarks
 null

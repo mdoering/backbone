@@ -1,5 +1,4 @@
-Asterochaete megalopora (Mont.) Bondartsev & Singer SPECIES
-=======
+# Asterochaete megalopora (Mont.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

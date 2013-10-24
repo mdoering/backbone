@@ -1,11 +1,10 @@
-Pseudobacterium coagulans (Eggerth & Gagnon, 1933) Krasil'nikov, 1949 SPECIES
-=======
+# Bacteroides coagulans Eggerth and Gagnon, 1933 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

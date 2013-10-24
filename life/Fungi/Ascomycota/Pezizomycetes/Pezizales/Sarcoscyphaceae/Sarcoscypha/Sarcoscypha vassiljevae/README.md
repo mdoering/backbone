@@ -1,5 +1,4 @@
-Sarcoscypha vassiljevae Raitv. SPECIES
-=======
+# Sarcoscypha vassiljevae Raitv. SPECIES
 
 #### Status
 ACCEPTED

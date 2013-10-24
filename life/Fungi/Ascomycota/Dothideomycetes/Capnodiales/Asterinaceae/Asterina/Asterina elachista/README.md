@@ -1,5 +1,4 @@
-Asterina elachista Syd. SPECIES
-=======
+# Asterina elachista Syd. SPECIES
 
 #### Status
 ACCEPTED

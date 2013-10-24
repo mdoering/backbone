@@ -1,5 +1,4 @@
-Diatrypella major (Berl.) Lar.N. Vassiljeva SPECIES
-=======
+# Diatrypella major (Berl.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteridium rufulum Spreng. SPECIES
-=======
+# Hysteridium rufulum Spreng. SPECIES
 
 #### Status
 ACCEPTED

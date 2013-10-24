@@ -1,5 +1,4 @@
-Cryptostictis lapagericola Speg. SPECIES
-=======
+# Cryptostictis lapagericola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia sclerolobii Henn. SPECIES
-=======
+# Lembosia sclerolobii Henn. SPECIES
 
 #### Status
 ACCEPTED

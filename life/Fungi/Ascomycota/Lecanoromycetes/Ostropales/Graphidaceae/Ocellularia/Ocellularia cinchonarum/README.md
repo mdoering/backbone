@@ -1,5 +1,4 @@
-Ocellularia cinchonarum f. cinchonarum FORM
-=======
+# Ocellularia cinchonarum (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

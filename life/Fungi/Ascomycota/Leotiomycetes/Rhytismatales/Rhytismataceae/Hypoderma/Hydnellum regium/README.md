@@ -1,5 +1,4 @@
-Hydnellum regium K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum regium K.A. Harrison, 1964 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Eggerella humboldti SPECIES
-=======
+# Eggerella humboldti SPECIES
 
 #### Status
 ACCEPTED

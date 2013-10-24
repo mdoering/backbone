@@ -1,5 +1,4 @@
-Massalongiella hazslinszkii (Rehm) Berl. SPECIES
-=======
+# Massalongiella hazslinszkii (Rehm) Berl. SPECIES
 
 #### Status
 ACCEPTED

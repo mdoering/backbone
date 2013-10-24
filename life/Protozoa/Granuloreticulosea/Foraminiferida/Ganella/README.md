@@ -1,5 +1,4 @@
-Ganella Aurouze & Boulanger, 1954 GENUS
-=======
+# Ganella Aurouze & Boulanger, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosiodothis GENUS
-=======
+# Lembosiodothis GENUS
 
 #### Status
 ACCEPTED

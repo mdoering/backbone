@@ -1,5 +1,4 @@
-Flammulina yunnanensis Z.W. Ge & Zhu L. Yang SPECIES
-=======
+# Flammulina yunnanensis Z.W. Ge & Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

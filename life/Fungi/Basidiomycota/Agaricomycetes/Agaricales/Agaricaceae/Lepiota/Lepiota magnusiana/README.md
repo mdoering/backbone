@@ -1,5 +1,4 @@
-Lepiota magnusiana Henn. SPECIES
-=======
+# Lepiota magnusiana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria seriata Hepp SPECIES
-=======
+# Verrucaria seriata Hepp SPECIES
 
 #### Status
 ACCEPTED

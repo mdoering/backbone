@@ -1,5 +1,4 @@
-Stigmina tubakii N.D. Sharma SPECIES
-=======
+# Stigmina tubakii N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

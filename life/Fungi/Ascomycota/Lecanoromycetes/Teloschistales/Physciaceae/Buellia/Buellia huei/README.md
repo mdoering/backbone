@@ -1,5 +1,4 @@
-Buellia huei C.W. Dodge SPECIES
-=======
+# Buellia huei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

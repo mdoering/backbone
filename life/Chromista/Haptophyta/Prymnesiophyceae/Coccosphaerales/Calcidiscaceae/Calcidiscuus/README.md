@@ -1,5 +1,4 @@
-Calcidiscuus GENUS
-=======
+# Calcidiscuus GENUS
 
 #### Status
 ACCEPTED

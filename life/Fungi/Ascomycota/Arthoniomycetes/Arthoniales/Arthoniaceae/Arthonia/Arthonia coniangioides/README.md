@@ -1,5 +1,4 @@
-Arthonia coniangioides Bagl. SPECIES
-=======
+# Arthonia coniangioides Bagl. SPECIES
 
 #### Status
 ACCEPTED

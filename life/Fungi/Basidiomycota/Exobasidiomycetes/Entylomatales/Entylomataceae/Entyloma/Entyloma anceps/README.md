@@ -1,5 +1,4 @@
-Entyloma anceps Cif. SPECIES
-=======
+# Entyloma anceps Cif. SPECIES
 
 #### Status
 ACCEPTED

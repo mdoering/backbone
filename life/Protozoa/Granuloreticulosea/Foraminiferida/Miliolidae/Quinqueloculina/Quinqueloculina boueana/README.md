@@ -1,5 +1,4 @@
-Quinqueloculina boueana SPECIES
-=======
+# Quinqueloculina boueana SPECIES
 
 #### Status
 ACCEPTED

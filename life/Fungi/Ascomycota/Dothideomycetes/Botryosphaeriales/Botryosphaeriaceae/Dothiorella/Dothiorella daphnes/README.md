@@ -1,5 +1,4 @@
-Dothiorella daphnes Gonz. Frag. SPECIES
-=======
+# Dothiorella daphnes Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

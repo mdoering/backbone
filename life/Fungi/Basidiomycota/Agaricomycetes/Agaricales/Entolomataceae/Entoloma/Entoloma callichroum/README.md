@@ -1,5 +1,4 @@
-Entoloma callichroum E. Horak & Noordel. SPECIES
-=======
+# Entoloma callichroum E. Horak & Noordel. SPECIES
 
 #### Status
 ACCEPTED

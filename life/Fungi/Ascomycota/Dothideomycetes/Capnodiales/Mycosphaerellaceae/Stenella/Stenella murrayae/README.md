@@ -1,5 +1,4 @@
-Stenella murrayae M.K. Khan, M.S. Khan bis & Kamal SPECIES
-=======
+# Stenella murrayae M.K. Khan, M.S. Khan bis & Kamal SPECIES
 
 #### Status
 ACCEPTED

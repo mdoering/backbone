@@ -1,5 +1,4 @@
-Thaxteria didyma (Speg.) Sacc. SPECIES
-=======
+# Thaxteria didyma (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces subterraneus Huldén SPECIES
-=======
+# Stigmatomyces subterraneus Huldén SPECIES
 
 #### Status
 ACCEPTED

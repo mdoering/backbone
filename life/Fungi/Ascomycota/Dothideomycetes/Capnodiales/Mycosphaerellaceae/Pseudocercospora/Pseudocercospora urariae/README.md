@@ -1,5 +1,4 @@
-Pseudocercospora urariae Sawada ex Deighton SPECIES
-=======
+# Pseudocercospora urariae Sawada ex Deighton SPECIES
 
 #### Status
 ACCEPTED

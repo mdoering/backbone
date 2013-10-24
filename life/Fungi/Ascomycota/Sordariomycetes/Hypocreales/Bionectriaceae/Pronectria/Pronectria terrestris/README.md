@@ -1,5 +1,4 @@
-Pronectria terrestris Lowen & Diederich SPECIES
-=======
+# Pronectria terrestris Lowen & Diederich SPECIES
 
 #### Status
 ACCEPTED

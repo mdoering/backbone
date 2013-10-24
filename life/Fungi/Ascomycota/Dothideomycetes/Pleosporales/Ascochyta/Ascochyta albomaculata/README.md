@@ -1,5 +1,4 @@
-Ascochyta albomaculata Dobrozr. SPECIES
-=======
+# Ascochyta albomaculata Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

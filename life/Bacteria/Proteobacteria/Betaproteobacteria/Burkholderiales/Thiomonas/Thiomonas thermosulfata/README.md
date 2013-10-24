@@ -1,8 +1,7 @@
-Thiobacillus thermosulfatus Shooner et al., 1996 SPECIES
-=======
+# Thiomonas thermosulfata (Shooner et al., 1996) Moreira & Amils, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

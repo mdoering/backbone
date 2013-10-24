@@ -1,5 +1,4 @@
-Pleurotus fimbriatus subsp. fimbriatus SUBSPECIES
-=======
+# Pleurotus fimbriatus (Bolton) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 5: 344 (1887)
 
 #### Original name
-Pleurotus fimbriatus subsp. fimbriatus
+Agaricus fimbriatus O.F. Müll., 1776
 
 ### Remarks
 null

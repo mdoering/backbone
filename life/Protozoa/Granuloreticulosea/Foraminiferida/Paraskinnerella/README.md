@@ -1,5 +1,4 @@
-Paraskinnerella Bensh, 1996 GENUS
-=======
+# Paraskinnerella Bensh, 1996 GENUS
 
 #### Status
 ACCEPTED

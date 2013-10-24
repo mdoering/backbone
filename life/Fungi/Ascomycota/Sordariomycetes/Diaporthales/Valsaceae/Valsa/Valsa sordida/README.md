@@ -1,17 +1,16 @@
-Naemaspora chrysosperma Pers., 1801 SPECIES
-=======
+# Valsa sordida Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 108 (1801)
+Pyrenomycetes Germanici 2: 203 (1870)
 
 #### Original name
-Naemaspora chrysosperma Pers., 1801
+Valsa sordida Nitschke, 1870
 
 ### Remarks
 null

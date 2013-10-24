@@ -1,5 +1,4 @@
-Lepista mutabilis Corner SPECIES
-=======
+# Lepista mutabilis Corner SPECIES
 
 #### Status
 ACCEPTED

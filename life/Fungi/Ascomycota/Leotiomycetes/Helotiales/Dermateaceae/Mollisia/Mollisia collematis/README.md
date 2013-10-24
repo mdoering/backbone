@@ -1,5 +1,4 @@
-Mollisia collematis Boud. SPECIES
-=======
+# Mollisia collematis Boud. SPECIES
 
 #### Status
 ACCEPTED

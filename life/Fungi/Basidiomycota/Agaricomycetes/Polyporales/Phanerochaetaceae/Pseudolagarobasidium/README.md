@@ -1,5 +1,4 @@
-Pseudolagarobasidium GENUS
-=======
+# Pseudolagarobasidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus inocybiformis A.H. Sm. SPECIES
-=======
+# Hygrophorus inocybiformis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

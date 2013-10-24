@@ -1,5 +1,4 @@
-Lentinus cinnabarinus (Fr.) Henn. SPECIES
-=======
+# Lentinus cinnabarinus (Fr.) Henn. SPECIES
 
 #### Status
 ACCEPTED

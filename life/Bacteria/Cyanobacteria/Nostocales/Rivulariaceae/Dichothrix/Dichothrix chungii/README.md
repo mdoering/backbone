@@ -1,5 +1,4 @@
-Dichothrix chungii Gardner SPECIES
-=======
+# Dichothrix chungii Gardner SPECIES
 
 #### Status
 ACCEPTED

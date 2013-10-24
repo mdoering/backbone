@@ -1,5 +1,4 @@
-Cantharellus reniformis Corner SPECIES
-=======
+# Cantharellus reniformis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthophycus longifolius (Turner) Kützing SPECIES
-=======
+# Anthophycus longifolius (Turner) Kützing SPECIES
 
 #### Status
 ACCEPTED

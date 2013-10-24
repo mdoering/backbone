@@ -1,5 +1,4 @@
-Puccinia eragrostis-arundinaceae Tranzschel SPECIES
-=======
+# Puccinia eragrostis-arundinaceae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiropes stranvaesiae M.K. Khan, Budathoki & Kamal SPECIES
-=======
+# Spiropes stranvaesiae M.K. Khan, Budathoki & Kamal SPECIES
 
 #### Status
 ACCEPTED

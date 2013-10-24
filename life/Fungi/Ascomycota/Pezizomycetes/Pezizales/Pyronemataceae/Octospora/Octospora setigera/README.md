@@ -1,5 +1,4 @@
-Octospora setigera Schrank SPECIES
-=======
+# Octospora setigera Schrank SPECIES
 
 #### Status
 ACCEPTED

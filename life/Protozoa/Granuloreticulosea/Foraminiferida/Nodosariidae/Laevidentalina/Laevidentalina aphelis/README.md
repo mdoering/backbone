@@ -1,5 +1,4 @@
-Laevidentalina aphelis Loeblich & Tappan, 1987 SPECIES
-=======
+# Laevidentalina aphelis Loeblich & Tappan, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza simulata (Berk. & Broome) SPECIES
-=======
+# Pyrenopeziza simulata (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

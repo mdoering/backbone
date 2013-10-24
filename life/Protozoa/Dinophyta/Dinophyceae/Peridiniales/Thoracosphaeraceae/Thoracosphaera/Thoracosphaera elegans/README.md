@@ -1,5 +1,4 @@
-Thoracosphaera elegans Chongyou Wang SPECIES
-=======
+# Thoracosphaera elegans Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

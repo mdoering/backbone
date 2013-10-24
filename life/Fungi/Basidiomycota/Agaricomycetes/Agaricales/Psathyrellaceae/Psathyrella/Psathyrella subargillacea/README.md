@@ -1,5 +1,4 @@
-Psathyrella subargillacea A.H. Sm. SPECIES
-=======
+# Psathyrella subargillacea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis incommoda (Trail) Grove SPECIES
-=======
+# Phomopsis incommoda (Trail) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma politoflavipes Noordel. & Liiv, 1992 SPECIES
-=======
+# Entoloma politoflavipes Noordel. & Liiv, 1992 SPECIES
 
 #### Status
 ACCEPTED

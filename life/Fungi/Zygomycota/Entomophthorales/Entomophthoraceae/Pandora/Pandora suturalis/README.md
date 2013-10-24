@@ -1,5 +1,4 @@
-Pandora suturalis (Ben Ze'ev) Humber, 1989 SPECIES
-=======
+# Pandora suturalis (Ben Ze'ev) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectria squamulosa Ellis, 1882 SPECIES
-=======
+# Nectriopsis squamulosa (Ellis) Samuels, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 48: 44 (1988)
 
 #### Original name
 Nectria squamulosa Ellis, 1882

@@ -1,5 +1,4 @@
-Didymella sambucina Rehm SPECIES
-=======
+# Didymella sambucina Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phomopsis syringina (Sacc.) Traverso, 1906 SPECIES
-=======
+# Diaporthe nodosa Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 271 (1906)
+Jb. nassau. Ver. Naturk. 23-24: 210 (1870)
 
 #### Original name
-Phoma syringina Sacc., 1884
+Diaporthe nodosa Fuckel, 1870
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Alternaria lancipes Ellis & Everh., 1888 SPECIES
-=======
+# Stemphylium lancipes (Ellis & Everh.) E.G. Simmons, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 61(1): 21 (1969)
 
 #### Original name
 Alternaria lancipes Ellis & Everh., 1888

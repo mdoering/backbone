@@ -1,5 +1,4 @@
-Phyllosticta gentianicola (DC.) Ellis & Everh. SPECIES
-=======
+# Phyllosticta gentianicola (DC.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

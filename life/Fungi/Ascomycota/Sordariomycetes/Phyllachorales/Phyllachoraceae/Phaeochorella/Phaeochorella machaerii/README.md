@@ -1,5 +1,4 @@
-Phaeochorella machaerii Bat. & Peres, 1960 SPECIES
-=======
+# Phaeochorella machaerii Bat. & Peres, 1960 SPECIES
 
 #### Status
 ACCEPTED

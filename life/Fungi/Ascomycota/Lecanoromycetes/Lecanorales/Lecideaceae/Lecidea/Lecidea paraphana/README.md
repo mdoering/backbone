@@ -1,5 +1,4 @@
-Lecidea paraphana Nyl. SPECIES
-=======
+# Lecidea paraphana Nyl. SPECIES
 
 #### Status
 ACCEPTED

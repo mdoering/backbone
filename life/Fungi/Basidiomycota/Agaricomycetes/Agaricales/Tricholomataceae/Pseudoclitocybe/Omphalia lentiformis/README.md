@@ -1,5 +1,4 @@
-Omphalia lentiformis Ricken SPECIES
-=======
+# Omphalia lentiformis Ricken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps zhangjiajiensis Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps zhangjiajiensis Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

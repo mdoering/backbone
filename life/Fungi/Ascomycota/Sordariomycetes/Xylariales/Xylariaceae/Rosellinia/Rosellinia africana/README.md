@@ -1,5 +1,4 @@
-Rosellinia africana Saccas SPECIES
-=======
+# Rosellinia africana Saccas SPECIES
 
 #### Status
 ACCEPTED

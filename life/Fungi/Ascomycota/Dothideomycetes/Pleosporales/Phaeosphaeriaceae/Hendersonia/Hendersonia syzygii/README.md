@@ -1,5 +1,4 @@
-Hendersonia syzygii Hasija SPECIES
-=======
+# Hendersonia syzygii Hasija SPECIES
 
 #### Status
 ACCEPTED

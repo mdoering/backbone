@@ -1,5 +1,4 @@
-Caloplaca brasiliensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca brasiliensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

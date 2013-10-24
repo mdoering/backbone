@@ -1,5 +1,4 @@
-Hemileia rutideae Cummins SPECIES
-=======
+# Hemileia rutideae Cummins SPECIES
 
 #### Status
 ACCEPTED

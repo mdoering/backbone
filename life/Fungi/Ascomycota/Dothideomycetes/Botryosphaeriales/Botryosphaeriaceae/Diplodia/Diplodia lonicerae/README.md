@@ -1,5 +1,4 @@
-Diplodia lonicerae Fuckel, 1870 SPECIES
-=======
+# Diplodia lonicerae Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

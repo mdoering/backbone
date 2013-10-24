@@ -1,5 +1,4 @@
-Tricholoma orlosii Pilát SPECIES
-=======
+# Tricholoma orlosii Pilát SPECIES
 
 #### Status
 ACCEPTED

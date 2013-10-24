@@ -1,5 +1,4 @@
-Silobia rufescens (Ach.) M. Westb. & Wedin SPECIES
-=======
+# Silobia rufescens (Ach.) M. Westb. & Wedin SPECIES
 
 #### Status
 ACCEPTED

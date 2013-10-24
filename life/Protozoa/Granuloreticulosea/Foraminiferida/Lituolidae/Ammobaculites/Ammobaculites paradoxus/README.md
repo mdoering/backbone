@@ -1,5 +1,4 @@
-Ammobaculites paradoxus Clark, 1994 SPECIES
-=======
+# Ammobaculites paradoxus Clark, 1994 SPECIES
 
 #### Status
 ACCEPTED

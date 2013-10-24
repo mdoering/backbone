@@ -1,5 +1,4 @@
-Calceispora subglobosa B. Sutton, 1993 SPECIES
-=======
+# Calceispora subglobosa B. Sutton, 1993 SPECIES
 
 #### Status
 ACCEPTED

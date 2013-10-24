@@ -1,17 +1,16 @@
-Agaricus lepiotaeformis Cooke & Massee SPECIES
-=======
+# Stropharia lepiotiformis (Cooke & Massee) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 138 (1891)
 
 #### Original name
-Agaricus lepiotaeformis Cooke & Massee
+Agaricus lepiotiformis Cooke & Massee, 1890
 
 ### Remarks
 null

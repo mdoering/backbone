@@ -1,5 +1,4 @@
-Plicatosphaera elementaria Potter in Baudelot & Géry, 1979 SPECIES
-=======
+# Plicatosphaera elementaria Potter in Baudelot & Géry, 1979 SPECIES
 
 #### Status
 ACCEPTED

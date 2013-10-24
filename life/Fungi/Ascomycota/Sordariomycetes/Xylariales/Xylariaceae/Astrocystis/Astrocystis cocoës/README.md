@@ -1,5 +1,4 @@
-Astrocystis cocoës (Henn.) Laessøe & Spooner SPECIES
-=======
+# Astrocystis cocoës (Henn.) Laessøe & Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disparidicellites Kalgutkar & Janson. GENUS
-=======
+# Disparidicellites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

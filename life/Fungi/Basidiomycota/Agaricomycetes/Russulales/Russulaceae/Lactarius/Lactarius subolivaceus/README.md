@@ -1,5 +1,4 @@
-Lactarius subolivaceus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius subolivaceus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

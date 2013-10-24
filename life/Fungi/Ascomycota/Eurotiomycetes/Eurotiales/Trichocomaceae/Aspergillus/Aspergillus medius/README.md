@@ -1,5 +1,4 @@
-Aspergillus medius R. Meissn. SPECIES
-=======
+# Aspergillus medius R. Meissn. SPECIES
 
 #### Status
 ACCEPTED

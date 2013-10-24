@@ -1,5 +1,4 @@
-Arthonia microcarpella (Vain.) Zahlbr. SPECIES
-=======
+# Arthonia microcarpella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

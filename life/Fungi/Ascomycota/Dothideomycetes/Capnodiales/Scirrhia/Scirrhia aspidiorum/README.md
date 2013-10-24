@@ -1,17 +1,16 @@
-Rhopographus aspidiorum (Lib.) Cooke, 1885 SPECIES
-=======
+# Scirrhia aspidiorum (Lib.) Bubák, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 34: 328 (1916)
 
 #### Original name
-null
+Sphaeria aspidiorum Lib.
 
 ### Remarks
 null

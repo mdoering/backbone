@@ -1,5 +1,4 @@
-Leveillula lanata (Magnus) Golovin SPECIES
-=======
+# Leveillula lanata (Magnus) Golovin SPECIES
 
 #### Status
 ACCEPTED

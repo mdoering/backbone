@@ -1,5 +1,4 @@
-Exidiopsis pulverea Hauerslev SPECIES
-=======
+# Exidiopsis pulverea Hauerslev SPECIES
 
 #### Status
 ACCEPTED

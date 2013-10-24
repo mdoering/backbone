@@ -1,5 +1,4 @@
-Diplodina rugosa Sacc. SPECIES
-=======
+# Diplodina rugosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

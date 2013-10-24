@@ -1,5 +1,4 @@
-Penicillium stilton Biourge SPECIES
-=======
+# Penicillium stilton Biourge SPECIES
 
 #### Status
 ACCEPTED

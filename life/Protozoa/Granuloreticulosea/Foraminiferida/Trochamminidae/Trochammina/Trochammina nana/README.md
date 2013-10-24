@@ -1,5 +1,4 @@
-Trochammina nana SPECIES
-=======
+# Trochammina nana SPECIES
 
 #### Status
 ACCEPTED

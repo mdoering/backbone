@@ -1,17 +1,16 @@
-Deightonia Petr. GENUS
-=======
+# Vanderystiella Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 1: 114 (1947)
+Annals de Musée du Congo, Botanique Série 5 2(3): 229 (1908)
 
 #### Original name
-Deightonia Petr.
+Vanderystiella Henn.
 
 ### Remarks
 null

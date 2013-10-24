@@ -1,5 +1,4 @@
-Leptostroma cichorii Kirchn. SPECIES
-=======
+# Leptostroma cichorii Kirchn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia macintiriana Barclay SPECIES
-=======
+# Puccinia macintiriana Barclay SPECIES
 
 #### Status
 ACCEPTED

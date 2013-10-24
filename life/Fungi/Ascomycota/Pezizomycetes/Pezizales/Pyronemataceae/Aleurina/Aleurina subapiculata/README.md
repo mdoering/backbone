@@ -1,5 +1,4 @@
-Aleurina subapiculata Höhn. SPECIES
-=======
+# Aleurina subapiculata Höhn. SPECIES
 
 #### Status
 ACCEPTED

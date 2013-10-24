@@ -1,5 +1,4 @@
-Hysterium actinothyrium Fuckel SPECIES
-=======
+# Hysterium actinothyrium Fuckel SPECIES
 
 #### Status
 ACCEPTED

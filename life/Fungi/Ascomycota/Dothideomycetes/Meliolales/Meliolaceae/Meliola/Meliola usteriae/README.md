@@ -1,5 +1,4 @@
-Meliola usteriae Hansf. & Deighton SPECIES
-=======
+# Meliola usteriae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

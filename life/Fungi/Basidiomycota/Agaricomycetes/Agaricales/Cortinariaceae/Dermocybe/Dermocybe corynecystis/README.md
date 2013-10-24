@@ -1,5 +1,4 @@
-Dermocybe corynecystis M.M. Moser SPECIES
-=======
+# Dermocybe corynecystis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

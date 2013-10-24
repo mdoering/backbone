@@ -1,5 +1,4 @@
-Ascosphaera duoformis D.L. Anderson & N.L. Gibson SPECIES
-=======
+# Ascosphaera duoformis D.L. Anderson & N.L. Gibson SPECIES
 
 #### Status
 ACCEPTED

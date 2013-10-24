@@ -1,5 +1,4 @@
-Stenella maesae Crous & U. Braun SPECIES
-=======
+# Stenella maesae Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

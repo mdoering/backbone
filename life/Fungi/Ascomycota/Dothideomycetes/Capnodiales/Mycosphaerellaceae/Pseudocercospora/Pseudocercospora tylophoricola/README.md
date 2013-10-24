@@ -1,5 +1,4 @@
-Pseudocercospora tylophoricola U. Braun, Bagyan. & Jagad. SPECIES
-=======
+# Pseudocercospora tylophoricola U. Braun, Bagyan. & Jagad. SPECIES
 
 #### Status
 ACCEPTED

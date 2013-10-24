@@ -1,5 +1,4 @@
-Chaetoceros galvestonense Collier & Murphy SPECIES
-=======
+# Chaetoceros galvestonense Collier & Murphy SPECIES
 
 #### Status
 ACCEPTED

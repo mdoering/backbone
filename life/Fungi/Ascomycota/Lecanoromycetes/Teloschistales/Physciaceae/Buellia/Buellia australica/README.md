@@ -1,5 +1,4 @@
-Buellia australica Räsänen SPECIES
-=======
+# Buellia australica Räsänen SPECIES
 
 #### Status
 ACCEPTED

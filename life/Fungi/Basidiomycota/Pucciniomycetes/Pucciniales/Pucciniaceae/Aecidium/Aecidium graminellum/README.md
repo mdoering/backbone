@@ -1,5 +1,4 @@
-Aecidium graminellum Speg. SPECIES
-=======
+# Aecidium graminellum Speg. SPECIES
 
 #### Status
 ACCEPTED

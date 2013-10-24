@@ -1,5 +1,4 @@
-Thyrea leptophylla (Tuck.) Zahlbr. SPECIES
-=======
+# Thyrea leptophylla (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

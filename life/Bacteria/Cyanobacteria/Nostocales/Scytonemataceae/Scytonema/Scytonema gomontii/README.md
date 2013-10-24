@@ -1,5 +1,4 @@
-Scytonema gomontii Gutw. SPECIES
-=======
+# Scytonema gomontii Gutw. SPECIES
 
 #### Status
 ACCEPTED

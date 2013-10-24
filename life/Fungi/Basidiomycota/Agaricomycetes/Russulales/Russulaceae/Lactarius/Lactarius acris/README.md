@@ -1,17 +1,16 @@
-Agaricus acris var. acris VARIETY
-=======
+# Lactarius acris (Bolton) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. tab. 538 (1792)
+Nat. Arr. Brit. Pl. (London) 1: 625 (1821)
 
 #### Original name
-Agaricus acris var. acris
+Agaricus acris Bolton, 1788
 
 ### Remarks
 null

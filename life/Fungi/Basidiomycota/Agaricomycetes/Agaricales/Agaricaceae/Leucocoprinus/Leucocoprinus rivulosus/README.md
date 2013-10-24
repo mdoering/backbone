@@ -1,5 +1,4 @@
-Leucocoprinus rivulosus Raithelh. SPECIES
-=======
+# Leucocoprinus rivulosus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Posadasia esteriformis Cantón SPECIES
-=======
+# Posadasia esteriformis Cantón SPECIES
 
 #### Status
 ACCEPTED

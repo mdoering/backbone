@@ -1,17 +1,16 @@
-Parmelia andreana f. andreana FORM
-=======
+# Flavopunctelia flaventior (Stirt.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 20(2): 682 (1984)
 
 #### Original name
-Parmelia andreana f. andreana
+Parmelia flaventior Stirt.
 
 ### Remarks
 null

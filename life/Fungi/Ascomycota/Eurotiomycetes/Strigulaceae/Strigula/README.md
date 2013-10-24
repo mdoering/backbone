@@ -1,17 +1,16 @@
-Strigulomyces Cif. & Tomas. GENUS
-=======
+# Strigula E.M. Fries, 1823 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 61 (1953)
+Syst. mycol. (Lundae) 2(2): 535 (1823)
 
 #### Original name
-Strigulomyces Cif. & Tomas.
+Strigula E.M. Fries, 1823
 
 ### Remarks
 null

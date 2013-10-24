@@ -1,5 +1,4 @@
-Vogtlandia multiradiale Burmann, 1970 SPECIES
-=======
+# Vogtlandia multiradiale Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

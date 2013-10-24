@@ -1,5 +1,4 @@
-Fellhanera gyrophorica Sérus., Coppins, Diederich & Scheid. SPECIES
-=======
+# Fellhanera gyrophorica Sérus., Coppins, Diederich & Scheid. SPECIES
 
 #### Status
 ACCEPTED

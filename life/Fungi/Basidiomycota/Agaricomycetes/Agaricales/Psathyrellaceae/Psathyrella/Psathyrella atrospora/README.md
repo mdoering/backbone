@@ -1,5 +1,4 @@
-Psathyrella atrospora A.H. Sm. SPECIES
-=======
+# Psathyrella atrospora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

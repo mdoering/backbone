@@ -1,5 +1,4 @@
-Microdiscula von Höhnel, 1915 GENUS
-=======
+# Microdiscula von Höhnel, 1915 GENUS
 
 #### Status
 ACCEPTED

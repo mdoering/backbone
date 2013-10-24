@@ -1,5 +1,4 @@
-Hydnellum velutinum (Fr.) P. Karst. SPECIES
-=======
+# Hydnellum velutinum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

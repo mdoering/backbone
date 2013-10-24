@@ -1,5 +1,4 @@
-Ganymedidae Huxley, 1910 FAMILY
-=======
+# Ganymedidae Huxley, 1910 FAMILY
 
 #### Status
 ACCEPTED

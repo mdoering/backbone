@@ -1,5 +1,4 @@
-Cryptococcus nodaensis I. Sato, H. Kobay. bis, Hanya, K. Abe, S. Murak., Scorzetti & Fell SPECIES
-=======
+# Cryptococcus nodaensis I. Sato, H. Kobay. bis, Hanya, K. Abe, S. Murak., Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

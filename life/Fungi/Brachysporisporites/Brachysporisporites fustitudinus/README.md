@@ -1,5 +1,4 @@
-Brachysporisporites fustitudinus G. Norris SPECIES
-=======
+# Brachysporisporites fustitudinus G. Norris SPECIES
 
 #### Status
 ACCEPTED

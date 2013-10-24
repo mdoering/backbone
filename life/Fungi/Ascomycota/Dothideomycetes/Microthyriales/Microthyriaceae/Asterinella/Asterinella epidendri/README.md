@@ -1,5 +1,4 @@
-Asterinella epidendri (Rehm) Theiss. SPECIES
-=======
+# Asterinella epidendri (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

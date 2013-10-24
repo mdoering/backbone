@@ -1,5 +1,4 @@
-Filisphaeridium muscosum (Wicander & Playford, 1985) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium muscosum (Wicander & Playford, 1985) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

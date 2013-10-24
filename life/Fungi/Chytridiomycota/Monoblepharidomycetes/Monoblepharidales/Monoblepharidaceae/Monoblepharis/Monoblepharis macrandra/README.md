@@ -1,8 +1,7 @@
-Monoblepharis macrandra var. macrandra (Lagerh.) Woronin, 1904 VARIETY
-=======
+# Monoblepharis macrandra (Lagerh.) Woronin, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

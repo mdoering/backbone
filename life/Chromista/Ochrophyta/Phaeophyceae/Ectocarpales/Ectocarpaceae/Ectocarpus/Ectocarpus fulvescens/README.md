@@ -1,5 +1,4 @@
-Ectocarpus fulvescens Schousboe ex Thuret SPECIES
-=======
+# Ectocarpus fulvescens Schousboe ex Thuret SPECIES
 
 #### Status
 ACCEPTED

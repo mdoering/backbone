@@ -1,5 +1,4 @@
-Astrothelium ocellatum Malme SPECIES
-=======
+# Astrothelium ocellatum Malme SPECIES
 
 #### Status
 ACCEPTED

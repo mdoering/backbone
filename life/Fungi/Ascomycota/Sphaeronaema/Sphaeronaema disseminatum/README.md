@@ -1,5 +1,4 @@
-Sphaeronaema disseminatum P. Karst. & Har. SPECIES
-=======
+# Sphaeronaema disseminatum P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

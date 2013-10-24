@@ -1,5 +1,4 @@
-Diplotomma ambiguum (Ach.) Flagey SPECIES
-=======
+# Diplotomma ambiguum (Ach.) Flagey SPECIES
 
 #### Status
 ACCEPTED

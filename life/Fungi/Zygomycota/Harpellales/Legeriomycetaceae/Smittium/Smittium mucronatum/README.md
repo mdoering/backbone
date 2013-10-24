@@ -1,5 +1,4 @@
-Smittium mucronatum Manier & Mathiez ex Manier, 1970 SPECIES
-=======
+# Smittium mucronatum Manier & Mathiez ex Manier, 1970 SPECIES
 
 #### Status
 ACCEPTED

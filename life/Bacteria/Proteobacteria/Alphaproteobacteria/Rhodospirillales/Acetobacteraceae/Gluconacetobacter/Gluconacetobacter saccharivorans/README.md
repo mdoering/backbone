@@ -1,5 +1,4 @@
-Gluconacetobacter saccharivorans Lisdiyanti et al., 2006 SPECIES
-=======
+# Gluconacetobacter saccharivorans Lisdiyanti et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

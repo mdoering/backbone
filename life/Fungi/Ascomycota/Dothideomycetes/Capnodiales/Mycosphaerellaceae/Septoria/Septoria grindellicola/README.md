@@ -1,5 +1,4 @@
-Septoria grindellicola SPECIES
-=======
+# Septoria grindellicola SPECIES
 
 #### Status
 ACCEPTED

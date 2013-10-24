@@ -1,5 +1,4 @@
-Phaeoseptoria luzonensis Tak. Kobay. SPECIES
-=======
+# Phaeoseptoria luzonensis Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

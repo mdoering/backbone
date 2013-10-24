@@ -1,5 +1,4 @@
-Psilonia deflexa Preuss SPECIES
-=======
+# Psilonia deflexa Preuss SPECIES
 
 #### Status
 ACCEPTED

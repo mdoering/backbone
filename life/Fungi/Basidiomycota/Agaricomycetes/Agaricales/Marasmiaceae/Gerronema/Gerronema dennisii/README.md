@@ -1,5 +1,4 @@
-Gerronema dennisii Singer SPECIES
-=======
+# Gerronema dennisii Singer SPECIES
 
 #### Status
 ACCEPTED

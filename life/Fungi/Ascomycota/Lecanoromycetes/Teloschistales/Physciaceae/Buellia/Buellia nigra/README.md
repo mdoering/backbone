@@ -1,5 +1,4 @@
-Buellia nigra (Fink) Sheard SPECIES
-=======
+# Buellia nigra (Fink) Sheard SPECIES
 
 #### Status
 ACCEPTED

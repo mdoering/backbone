@@ -1,5 +1,4 @@
-Diplodina yuccae Gonz. Frag. SPECIES
-=======
+# Diplodina yuccae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

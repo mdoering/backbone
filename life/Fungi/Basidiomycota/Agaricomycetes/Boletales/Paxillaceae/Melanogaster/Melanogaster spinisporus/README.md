@@ -1,5 +1,4 @@
-Melanogaster spinisporus Y. Wang SPECIES
-=======
+# Melanogaster spinisporus Y. Wang SPECIES
 
 #### Status
 ACCEPTED

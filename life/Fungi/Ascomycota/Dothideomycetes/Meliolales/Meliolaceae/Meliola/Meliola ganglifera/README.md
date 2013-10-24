@@ -1,5 +1,4 @@
-Meliola ganglifera Kalchbr. SPECIES
-=======
+# Meliola ganglifera Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

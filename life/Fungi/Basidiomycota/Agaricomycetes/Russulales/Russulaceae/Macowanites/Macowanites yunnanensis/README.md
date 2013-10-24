@@ -1,5 +1,4 @@
-Macowanites yunnanensis M. Zang SPECIES
-=======
+# Macowanites yunnanensis M. Zang SPECIES
 
 #### Status
 ACCEPTED

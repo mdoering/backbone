@@ -1,5 +1,4 @@
-Scutula diaphana Lorton SPECIES
-=======
+# Scutula diaphana Lorton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum carpathicum Velen. SPECIES
-=======
+# Lachnum carpathicum Velen. SPECIES
 
 #### Status
 ACCEPTED

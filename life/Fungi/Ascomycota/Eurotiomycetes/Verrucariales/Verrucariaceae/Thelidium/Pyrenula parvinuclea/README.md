@@ -1,5 +1,4 @@
-Pyrenula parvinuclea (Meyen & Flot.) Aptroot, 1997 SPECIES
-=======
+# Pyrenula parvinuclea (Meyen & Flot.) Aptroot, 1997 SPECIES
 
 #### Status
 DOUBTFUL

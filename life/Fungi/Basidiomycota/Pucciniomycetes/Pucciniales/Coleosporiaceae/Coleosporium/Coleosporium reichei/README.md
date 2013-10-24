@@ -1,5 +1,4 @@
-Coleosporium reichei Dietel SPECIES
-=======
+# Coleosporium reichei Dietel SPECIES
 
 #### Status
 ACCEPTED

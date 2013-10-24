@@ -1,5 +1,4 @@
-Microbacterium xylanilyticum Kim et al., 2005 SPECIES
-=======
+# Microbacterium xylanilyticum Kim et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

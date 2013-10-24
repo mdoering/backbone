@@ -1,5 +1,4 @@
-Hypocrea japonica Yasuda SPECIES
-=======
+# Hypocrea japonica Yasuda SPECIES
 
 #### Status
 ACCEPTED

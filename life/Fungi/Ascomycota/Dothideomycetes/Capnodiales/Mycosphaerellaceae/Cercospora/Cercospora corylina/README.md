@@ -1,5 +1,4 @@
-Cercospora corylina W.W. Ray SPECIES
-=======
+# Cercospora corylina W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora viridulocincta Rehm, 1897 SPECIES
-=======
+# Phyllachora viridulocincta Rehm, 1897 SPECIES
 
 #### Status
 ACCEPTED

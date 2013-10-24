@@ -1,5 +1,4 @@
-Coniothyrium maydis Saccas SPECIES
-=======
+# Coniothyrium maydis Saccas SPECIES
 
 #### Status
 ACCEPTED

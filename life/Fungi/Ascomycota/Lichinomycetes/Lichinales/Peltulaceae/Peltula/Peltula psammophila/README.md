@@ -1,5 +1,4 @@
-Peltula psammophila (Nyl.) Egea SPECIES
-=======
+# Peltula psammophila (Nyl.) Egea SPECIES
 
 #### Status
 ACCEPTED

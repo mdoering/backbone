@@ -1,5 +1,4 @@
-Cortinarius epipurrus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius epipurrus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota kunzei Fr. SPECIES
-=======
+# Lepiota kunzei Fr. SPECIES
 
 #### Status
 ACCEPTED

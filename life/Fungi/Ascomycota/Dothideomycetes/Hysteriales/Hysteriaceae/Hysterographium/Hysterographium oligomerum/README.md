@@ -1,5 +1,4 @@
-Hysterographium oligomerum Penz. & Sacc. SPECIES
-=======
+# Hysterographium oligomerum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

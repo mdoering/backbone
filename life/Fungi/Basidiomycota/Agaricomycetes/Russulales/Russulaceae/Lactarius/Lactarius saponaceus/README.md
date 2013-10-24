@@ -1,5 +1,4 @@
-Lactarius saponaceus Verbeken SPECIES
-=======
+# Lactarius saponaceus Verbeken SPECIES
 
 #### Status
 ACCEPTED

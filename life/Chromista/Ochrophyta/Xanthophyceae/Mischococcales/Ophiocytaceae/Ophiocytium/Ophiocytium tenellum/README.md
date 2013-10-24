@@ -1,5 +1,4 @@
-Ophiocytium tenellum var. apiculatum Sande Lacoste & Suringar VARIETY
-=======
+# Ophiocytium tenellum Sande Lacoste & Suringar SPECIES
 
 #### Status
 ACCEPTED

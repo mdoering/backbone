@@ -1,5 +1,4 @@
-Boletus labyrinthiformis Bull. SPECIES
-=======
+# Boletus labyrinthiformis Bull. SPECIES
 
 #### Status
 ACCEPTED

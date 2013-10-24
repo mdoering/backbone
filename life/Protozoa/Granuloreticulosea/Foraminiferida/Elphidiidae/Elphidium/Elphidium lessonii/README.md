@@ -1,5 +1,4 @@
-Elphidium lessonii (d'Orbigny, 1826) SPECIES
-=======
+# Elphidium lessonii (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

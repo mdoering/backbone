@@ -1,5 +1,4 @@
-Mallomonas doignonii var. robusticostis K.H. Nicholls VARIETY
-=======
+# Mallomonas doignonii Bourelly em. Asmund & Cronberg SPECIES
 
 #### Status
 ACCEPTED

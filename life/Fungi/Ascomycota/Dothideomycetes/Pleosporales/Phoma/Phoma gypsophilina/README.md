@@ -1,5 +1,4 @@
-Phoma gypsophilina Naumov SPECIES
-=======
+# Phoma gypsophilina Naumov SPECIES
 
 #### Status
 ACCEPTED

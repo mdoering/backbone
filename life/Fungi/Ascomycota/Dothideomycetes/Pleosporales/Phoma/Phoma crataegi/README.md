@@ -1,5 +1,4 @@
-Phoma crataegi Sacc., 1878 SPECIES
-=======
+# Phoma crataegi Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

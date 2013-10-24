@@ -1,5 +1,4 @@
-Herbaspirillum hiltneri Rothballer et al., 2006 SPECIES
-=======
+# Herbaspirillum hiltneri Rothballer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

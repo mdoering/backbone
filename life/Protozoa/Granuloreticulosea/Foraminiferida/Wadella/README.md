@@ -1,5 +1,4 @@
-Wadella Srinivasan, 1966 GENUS
-=======
+# Wadella Srinivasan, 1966 GENUS
 
 #### Status
 ACCEPTED

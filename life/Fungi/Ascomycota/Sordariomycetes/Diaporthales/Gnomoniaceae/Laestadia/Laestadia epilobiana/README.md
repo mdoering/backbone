@@ -1,5 +1,4 @@
-Laestadia epilobiana Sacc. SPECIES
-=======
+# Laestadia epilobiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius phlegmophorus K.A. Thomas, M.M. Moser, Peintner & Manim. SPECIES
-=======
+# Cortinarius phlegmophorus K.A. Thomas, M.M. Moser, Peintner & Manim. SPECIES
 
 #### Status
 ACCEPTED

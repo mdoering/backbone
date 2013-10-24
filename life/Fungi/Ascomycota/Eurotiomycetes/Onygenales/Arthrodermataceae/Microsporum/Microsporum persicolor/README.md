@@ -1,5 +1,4 @@
-Microsporum persicolor (Sabour.) Guiart & Grigoraki SPECIES
-=======
+# Microsporum persicolor (Sabour.) Guiart & Grigoraki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Legionella cincinnatiensis Thacker et al., 1989 SPECIES
-=======
+# Legionella cincinnatiensis Thacker et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

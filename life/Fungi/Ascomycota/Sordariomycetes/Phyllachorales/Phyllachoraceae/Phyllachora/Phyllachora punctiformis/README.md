@@ -1,14 +1,13 @@
-Dothidea punctiformis Fuckel, 1864 SPECIES
-=======
+# Phyllachora punctiformis (Fuckel) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi rhenani, fasc. 11(nos 1001-1100): no. 1032 (1864)
+Jb. nassau. Ver. Naturk. 23-24: 219 (1870)
 
 #### Original name
 Dothidea punctiformis Fuckel, 1864

@@ -1,5 +1,4 @@
-Verrucaria corcontica Servít SPECIES
-=======
+# Verrucaria corcontica Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patinellaria hedychii K.S. Thind & Saini SPECIES
-=======
+# Patinellaria hedychii K.S. Thind & Saini SPECIES
 
 #### Status
 ACCEPTED

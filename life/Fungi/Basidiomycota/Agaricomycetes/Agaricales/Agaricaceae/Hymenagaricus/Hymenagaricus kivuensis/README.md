@@ -1,5 +1,4 @@
-Hymenagaricus kivuensis Heinem. SPECIES
-=======
+# Hymenagaricus kivuensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

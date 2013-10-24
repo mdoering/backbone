@@ -1,5 +1,4 @@
-Lentinus guaraniticus (Speg.) Lloyd SPECIES
-=======
+# Lentinus guaraniticus (Speg.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

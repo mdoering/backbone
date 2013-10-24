@@ -1,5 +1,4 @@
-Parmotrema bangii (Vain.) Hale SPECIES
-=======
+# Parmotrema bangii (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED

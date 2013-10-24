@@ -1,5 +1,4 @@
-Latispathidium truncatum subsp. truncatum SUBSPECIES
-=======
+# Latispathidium truncatum Stokes SPECIES
 
 #### Status
 ACCEPTED

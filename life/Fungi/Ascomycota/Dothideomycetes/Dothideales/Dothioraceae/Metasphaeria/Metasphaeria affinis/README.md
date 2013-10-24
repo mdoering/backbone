@@ -1,5 +1,4 @@
-Metasphaeria affinis (P. Karst.) Sacc. SPECIES
-=======
+# Metasphaeria affinis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

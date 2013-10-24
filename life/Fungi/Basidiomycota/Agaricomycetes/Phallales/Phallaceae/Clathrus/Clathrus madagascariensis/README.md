@@ -1,5 +1,4 @@
-Clathrus madagascariensis Bouriquet SPECIES
-=======
+# Clathrus madagascariensis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

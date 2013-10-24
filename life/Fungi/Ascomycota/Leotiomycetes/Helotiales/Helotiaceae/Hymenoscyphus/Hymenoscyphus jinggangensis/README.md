@@ -1,5 +1,4 @@
-Hymenoscyphus jinggangensis Yan H. Zhang & W.Y. Zhuang SPECIES
-=======
+# Hymenoscyphus jinggangensis Yan H. Zhang & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pseudoboletinus (Murrill) Murrill SPECIES
-=======
+# Boletus pseudoboletinus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

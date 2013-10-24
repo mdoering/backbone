@@ -1,5 +1,4 @@
-Cerataulus radiatus (Roper) R. Ross SPECIES
-=======
+# Cerataulus radiatus (Roper) R. Ross SPECIES
 
 #### Status
 ACCEPTED

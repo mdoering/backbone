@@ -1,5 +1,4 @@
-Tetragonidium verrucatum Pascher SPECIES
-=======
+# Tetragonidium verrucatum Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum entomophilum Peck SPECIES
-=======
+# Sporotrichum entomophilum Peck SPECIES
 
 #### Status
 ACCEPTED

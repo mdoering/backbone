@@ -1,5 +1,4 @@
-Phyllostictina tinosporae Syd. SPECIES
-=======
+# Phyllostictina tinosporae Syd. SPECIES
 
 #### Status
 ACCEPTED

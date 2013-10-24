@@ -1,5 +1,4 @@
-Zygophiala wisconsinensis Batzer & Crous SPECIES
-=======
+# Zygophiala wisconsinensis Batzer & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia suedae Sawada SPECIES
-=======
+# Cintractia suedae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma concavum Ellis & Kellerm. SPECIES
-=======
+# Rhytisma concavum Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia naggarana Kremp. SPECIES
-=======
+# Physcia naggarana Kremp. SPECIES
 
 #### Status
 ACCEPTED

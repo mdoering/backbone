@@ -1,11 +1,10 @@
-Gonyaulax washingtonensis Hsu, 1967 SPECIES
-=======
+# Alexandrium catenella (Whedon & Kofoid) E. Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

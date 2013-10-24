@@ -1,5 +1,4 @@
-Anthracoidea pannucea (Liro) Vánky SPECIES
-=======
+# Anthracoidea pannucea (Liro) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cassidulina californica SPECIES
-=======
+# Cassidulina californica SPECIES
 
 #### Status
 ACCEPTED

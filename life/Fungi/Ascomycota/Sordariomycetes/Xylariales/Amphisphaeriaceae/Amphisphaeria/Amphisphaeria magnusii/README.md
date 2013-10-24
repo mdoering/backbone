@@ -1,5 +1,4 @@
-Amphisphaeria magnusii E. Bommer & M. Rousseau SPECIES
-=======
+# Amphisphaeria magnusii E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

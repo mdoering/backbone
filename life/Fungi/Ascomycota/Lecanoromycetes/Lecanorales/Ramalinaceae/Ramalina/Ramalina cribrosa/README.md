@@ -1,5 +1,4 @@
-Ramalina cribrosa De Not. SPECIES
-=======
+# Ramalina cribrosa De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conicopfenderina Septfontaine, 1981 GENUS
-=======
+# Conicopfenderina Septfontaine, 1981 GENUS
 
 #### Status
 ACCEPTED

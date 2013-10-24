@@ -1,5 +1,4 @@
-Didymosphaeria phyllostachydis I. Hino & Katum. SPECIES
-=======
+# Didymosphaeria phyllostachydis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

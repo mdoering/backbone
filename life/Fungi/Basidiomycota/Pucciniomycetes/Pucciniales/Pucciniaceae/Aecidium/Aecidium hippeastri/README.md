@@ -1,5 +1,4 @@
-Aecidium hippeastri Gäum. SPECIES
-=======
+# Aecidium hippeastri Gäum. SPECIES
 
 #### Status
 ACCEPTED

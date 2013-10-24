@@ -1,5 +1,4 @@
-Echinoporia inermis G. Coelho SPECIES
-=======
+# Echinoporia inermis G. Coelho SPECIES
 
 #### Status
 ACCEPTED

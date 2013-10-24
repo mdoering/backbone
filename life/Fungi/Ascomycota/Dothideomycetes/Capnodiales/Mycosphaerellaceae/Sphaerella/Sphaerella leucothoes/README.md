@@ -1,17 +1,16 @@
-Sphaerella leucothoes var. leucothoes VARIETY
-=======
+# Sphaerella leucothoes Cooke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Sphaerella leucothoes Cooke
 
 ### Remarks
 null

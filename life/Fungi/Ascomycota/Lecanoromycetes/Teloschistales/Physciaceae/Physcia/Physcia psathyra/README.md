@@ -1,5 +1,4 @@
-Physcia psathyra SPECIES
-=======
+# Physcia psathyra SPECIES
 
 #### Status
 ACCEPTED

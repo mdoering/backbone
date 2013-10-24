@@ -1,5 +1,4 @@
-Colpoma styriacum Remler, 1980 SPECIES
-=======
+# Colpoma styriacum Remler, 1980 SPECIES
 
 #### Status
 ACCEPTED

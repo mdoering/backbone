@@ -1,5 +1,4 @@
-Actinoglyphis protracta Kremp. SPECIES
-=======
+# Actinoglyphis protracta Kremp. SPECIES
 
 #### Status
 ACCEPTED

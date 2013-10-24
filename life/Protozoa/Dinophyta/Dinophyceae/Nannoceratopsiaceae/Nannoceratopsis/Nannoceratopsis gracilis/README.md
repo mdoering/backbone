@@ -1,5 +1,4 @@
-Nannoceratopsis gracilis Alberti, 1961 SPECIES
-=======
+# Nannoceratopsis gracilis Alberti, 1961 SPECIES
 
 #### Status
 ACCEPTED

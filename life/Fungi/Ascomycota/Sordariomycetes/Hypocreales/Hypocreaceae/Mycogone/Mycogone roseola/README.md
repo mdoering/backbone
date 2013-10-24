@@ -1,5 +1,4 @@
-Mycogone roseola Pound & Clem. SPECIES
-=======
+# Mycogone roseola Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

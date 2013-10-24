@@ -1,5 +1,4 @@
-Rhodophyllus GENUS
-=======
+# Rhodophyllus GENUS
 
 #### Status
 ACCEPTED

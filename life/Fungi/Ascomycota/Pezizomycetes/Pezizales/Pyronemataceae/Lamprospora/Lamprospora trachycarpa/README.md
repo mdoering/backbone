@@ -1,5 +1,4 @@
-Lamprospora trachycarpa var. trachycarpa VARIETY
-=======
+# Lamprospora trachycarpa anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lamprospora trachycarpa var. trachycarpa
+Lamprospora trachycarpa anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius speciosior Fr. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius speciosior Fr. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bombardia muskokensis Cain SPECIES
-=======
+# Bombardia muskokensis Cain SPECIES
 
 #### Status
 ACCEPTED

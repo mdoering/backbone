@@ -1,5 +1,4 @@
-Debaryomyces marama Di Menna, 1954 SPECIES
-=======
+# Debaryomyces marama Di Menna, 1954 SPECIES
 
 #### Status
 ACCEPTED

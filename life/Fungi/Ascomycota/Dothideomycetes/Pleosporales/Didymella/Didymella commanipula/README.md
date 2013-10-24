@@ -1,14 +1,13 @@
-Cercidospora commanipulla (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Didymella commanipula (Berk. & Broome) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 453 (1898)
+Syll. fung. (Abellini) 1: 556 (1882)
 
 #### Original name
 Sphaeria commanipula Berk. & Broome, 1852

@@ -1,5 +1,4 @@
-Myrothecium cookei Sacc. & P. Syd. SPECIES
-=======
+# Myrothecium cookei Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

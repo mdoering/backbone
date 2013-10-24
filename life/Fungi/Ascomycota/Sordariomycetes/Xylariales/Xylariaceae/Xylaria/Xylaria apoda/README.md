@@ -1,5 +1,4 @@
-Xylaria apoda (Berk. & Broome) J.D. Rogers & Y.M. Ju SPECIES
-=======
+# Xylaria apoda (Berk. & Broome) J.D. Rogers & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

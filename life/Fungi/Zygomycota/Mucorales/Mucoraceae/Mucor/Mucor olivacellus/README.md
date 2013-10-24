@@ -1,5 +1,4 @@
-Mucor olivacellus Speg. SPECIES
-=======
+# Mucor olivacellus Speg. SPECIES
 
 #### Status
 ACCEPTED

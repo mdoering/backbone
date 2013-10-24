@@ -1,5 +1,4 @@
-Coprinus alutaceivelatus Bogart SPECIES
-=======
+# Coprinus alutaceivelatus Bogart SPECIES
 
 #### Status
 ACCEPTED

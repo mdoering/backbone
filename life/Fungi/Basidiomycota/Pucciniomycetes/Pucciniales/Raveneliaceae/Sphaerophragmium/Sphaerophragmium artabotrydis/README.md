@@ -1,5 +1,4 @@
-Sphaerophragmium artabotrydis Doidge, 1941 SPECIES
-=======
+# Sphaerophragmium artabotrydis Doidge, 1941 SPECIES
 
 #### Status
 ACCEPTED

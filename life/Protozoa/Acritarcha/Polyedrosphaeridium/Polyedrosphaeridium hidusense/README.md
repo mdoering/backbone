@@ -1,5 +1,4 @@
-Polyedrosphaeridium hidusense Rudavskaya in Timofeev, 1962 SPECIES
-=======
+# Polyedrosphaeridium hidusense Rudavskaya in Timofeev, 1962 SPECIES
 
 #### Status
 ACCEPTED

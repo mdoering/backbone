@@ -1,5 +1,4 @@
-Coprinus paramicaceus Locq. SPECIES
-=======
+# Coprinus paramicaceus Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia versicolor (Nyl.) Trevis. SPECIES
-=======
+# Bacidia versicolor (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

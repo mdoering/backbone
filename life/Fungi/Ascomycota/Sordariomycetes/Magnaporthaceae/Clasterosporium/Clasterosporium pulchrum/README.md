@@ -1,17 +1,16 @@
-Clasterosporium pulcrum Ellis & Everh. SPECIES
-=======
+# Clasterosporium pulchrum Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1893 45: 169 (1893)
 
 #### Original name
-Clasterosporium pulcrum Ellis & Everh.
+Clasterosporium pulchrum Ellis & Everh.
 
 ### Remarks
 null

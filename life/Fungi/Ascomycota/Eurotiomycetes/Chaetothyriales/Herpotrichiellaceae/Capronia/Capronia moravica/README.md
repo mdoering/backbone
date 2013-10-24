@@ -1,5 +1,4 @@
-Capronia moravica (Petr.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman, 1987 SPECIES
-=======
+# Capronia moravica (Petr.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman, 1987 SPECIES
 
 #### Status
 ACCEPTED

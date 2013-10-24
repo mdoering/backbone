@@ -1,5 +1,4 @@
-Vermicularia tenuissima Pat. SPECIES
-=======
+# Vermicularia tenuissima Pat. SPECIES
 
 #### Status
 ACCEPTED

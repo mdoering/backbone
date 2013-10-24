@@ -1,5 +1,4 @@
-Selenosporella cymbiformis B. Sutton, 1973 SPECIES
-=======
+# Selenosporella cymbiformis B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

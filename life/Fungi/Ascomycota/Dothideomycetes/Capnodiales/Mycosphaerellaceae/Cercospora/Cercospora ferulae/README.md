@@ -1,5 +1,4 @@
-Cercospora ferulae Annal. SPECIES
-=======
+# Cercospora ferulae Annal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gartnerago stenostaurion (Hill, 1976) Perch-Nielsen, 1984 SPECIES
-=======
+# Gartnerago stenostaurion (Hill, 1976) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

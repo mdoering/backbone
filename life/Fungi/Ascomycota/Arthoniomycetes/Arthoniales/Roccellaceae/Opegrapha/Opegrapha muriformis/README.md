@@ -1,5 +1,4 @@
-Opegrapha muriformis Maheu & Werner SPECIES
-=======
+# Opegrapha muriformis Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cycnopotamia Berk. SPECIES
-=======
+# Agaricus cycnopotamia Berk. SPECIES
 
 #### Status
 ACCEPTED

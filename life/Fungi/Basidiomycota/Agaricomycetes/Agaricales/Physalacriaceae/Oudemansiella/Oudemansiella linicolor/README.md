@@ -1,5 +1,4 @@
-Oudemansiella linicolor Grinling ex Singer SPECIES
-=======
+# Oudemansiella linicolor Grinling ex Singer SPECIES
 
 #### Status
 ACCEPTED

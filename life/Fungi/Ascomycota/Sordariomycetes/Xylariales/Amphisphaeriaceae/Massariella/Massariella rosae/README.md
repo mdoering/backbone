@@ -1,5 +1,4 @@
-Massariella rosae (G.H. Otth) Jacz. SPECIES
-=======
+# Massariella rosae (G.H. Otth) Jacz. SPECIES
 
 #### Status
 ACCEPTED

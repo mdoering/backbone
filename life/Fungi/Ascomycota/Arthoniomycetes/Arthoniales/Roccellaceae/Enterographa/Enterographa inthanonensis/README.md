@@ -1,5 +1,4 @@
-Enterographa inthanonensis Sparrius SPECIES
-=======
+# Enterographa inthanonensis Sparrius SPECIES
 
 #### Status
 ACCEPTED

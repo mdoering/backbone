@@ -1,14 +1,13 @@
-Drosophila glareosa J. Favre, 1958 SPECIES
-=======
+# Lacrymaria glareosa (J. Favre) Watling, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 36: 70 (1958)
+Notes R. bot. Gdn Edinb. 37(2): 376 (1979)
 
 #### Original name
 Drosophila glareosa J. Favre, 1958

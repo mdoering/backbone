@@ -1,5 +1,4 @@
-Blepharisma trinodatum Hirshfield, Isquith & Bhandary, 1965 SPECIES
-=======
+# Blepharisma trinodatum Hirshfield, Isquith & Bhandary, 1965 SPECIES
 
 #### Status
 ACCEPTED

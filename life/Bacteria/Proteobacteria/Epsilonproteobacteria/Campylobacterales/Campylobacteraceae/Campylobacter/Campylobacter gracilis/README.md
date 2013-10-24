@@ -1,8 +1,7 @@
-Bacteroides gracilis Tanner et al., 1981 SPECIES
-=======
+# Campylobacter gracilis (Tanner et al., 1981) Vandamme et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

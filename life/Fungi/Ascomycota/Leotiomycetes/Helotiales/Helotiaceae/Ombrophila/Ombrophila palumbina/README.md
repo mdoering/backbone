@@ -1,5 +1,4 @@
-Ombrophila palumbina Malençon SPECIES
-=======
+# Ombrophila palumbina Malençon SPECIES
 
 #### Status
 ACCEPTED

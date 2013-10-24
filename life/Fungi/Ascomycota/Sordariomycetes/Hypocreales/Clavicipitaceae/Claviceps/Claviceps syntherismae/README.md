@@ -1,5 +1,4 @@
-Claviceps syntherismae Sawada SPECIES
-=======
+# Claviceps syntherismae Sawada SPECIES
 
 #### Status
 ACCEPTED

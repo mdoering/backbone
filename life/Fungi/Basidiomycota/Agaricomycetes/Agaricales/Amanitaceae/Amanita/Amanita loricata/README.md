@@ -1,5 +1,4 @@
-Amanita loricata Gentilli SPECIES
-=======
+# Amanita loricata Gentilli SPECIES
 
 #### Status
 ACCEPTED

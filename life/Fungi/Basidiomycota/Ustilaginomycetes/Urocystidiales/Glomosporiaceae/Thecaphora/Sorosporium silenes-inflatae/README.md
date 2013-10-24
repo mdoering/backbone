@@ -1,5 +1,4 @@
-Sorosporium silenes-inflatae (Cif.) Cif. SPECIES
-=======
+# Sorosporium silenes-inflatae (Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

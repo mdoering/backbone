@@ -1,5 +1,4 @@
-Collybia amabilipes (Peck) Sacc. SPECIES
-=======
+# Collybia amabilipes (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

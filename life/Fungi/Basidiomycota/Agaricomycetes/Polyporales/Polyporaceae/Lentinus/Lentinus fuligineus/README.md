@@ -1,5 +1,4 @@
-Lentinus fuligineus Berk. & M.A. Curtis SPECIES
-=======
+# Lentinus fuligineus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

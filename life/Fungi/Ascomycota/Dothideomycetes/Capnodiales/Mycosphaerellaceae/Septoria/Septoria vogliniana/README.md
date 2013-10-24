@@ -1,5 +1,4 @@
-Septoria vogliniana Sacc. & Trotter SPECIES
-=======
+# Septoria vogliniana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina tranzschelii Karak. SPECIES
-=======
+# Marssonina tranzschelii Karak. SPECIES
 
 #### Status
 ACCEPTED

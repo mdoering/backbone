@@ -1,5 +1,4 @@
-Cladosporium nigrelloides U. Braun & Mouch., 1999 SPECIES
-=======
+# Cladosporium nigrelloides U. Braun & Mouch., 1999 SPECIES
 
 #### Status
 ACCEPTED

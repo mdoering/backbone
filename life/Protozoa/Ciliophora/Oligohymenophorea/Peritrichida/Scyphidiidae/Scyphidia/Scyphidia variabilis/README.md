@@ -1,8 +1,7 @@
-Rhabdostyla variabilis Dons SPECIES
-=======
+# Scyphidia variabilis Dons, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

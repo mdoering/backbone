@@ -1,5 +1,4 @@
-Pleospora loculata (Crié) Sacc. SPECIES
-=======
+# Pleospora loculata (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

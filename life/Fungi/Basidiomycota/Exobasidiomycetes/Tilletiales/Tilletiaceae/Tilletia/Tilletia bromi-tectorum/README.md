@@ -1,5 +1,4 @@
-Tilletia bromi-tectorum Urries SPECIES
-=======
+# Tilletia bromi-tectorum Urries SPECIES
 
 #### Status
 ACCEPTED

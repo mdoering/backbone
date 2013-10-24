@@ -1,8 +1,7 @@
-Phyllosticta sojaecola C. Massal. SPECIES
-=======
+# Phyllosticta sojicola C. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta sojaecola C. Massal.
+Phyllosticta sojicola C. Massal.
 
 ### Remarks
 null

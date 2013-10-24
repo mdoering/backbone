@@ -1,5 +1,4 @@
-Pyrenopsis subfuliginosa SPECIES
-=======
+# Pyrenopsis subfuliginosa SPECIES
 
 #### Status
 ACCEPTED

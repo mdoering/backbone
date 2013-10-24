@@ -1,5 +1,4 @@
-Hypocopra anserina Ces. SPECIES
-=======
+# Hypocopra anserina Ces. SPECIES
 
 #### Status
 ACCEPTED

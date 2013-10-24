@@ -1,5 +1,4 @@
-Thysanopyxis pulchella Rabenh. ex Bonord. SPECIES
-=======
+# Thysanopyxis pulchella Rabenh. ex Bonord. SPECIES
 
 #### Status
 ACCEPTED

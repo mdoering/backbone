@@ -1,5 +1,4 @@
-Phaeosphaeria variiseptata (G.L. Stout) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria variiseptata (G.L. Stout) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

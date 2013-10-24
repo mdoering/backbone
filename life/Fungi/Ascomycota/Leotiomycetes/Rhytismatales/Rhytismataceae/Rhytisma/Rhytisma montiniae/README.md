@@ -1,5 +1,4 @@
-Rhytisma montiniae Fr. SPECIES
-=======
+# Rhytisma montiniae Fr. SPECIES
 
 #### Status
 ACCEPTED

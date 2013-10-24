@@ -1,5 +1,4 @@
-Cryptothecia nilghiriensis Patw. & Makhija SPECIES
-=======
+# Cryptothecia nilghiriensis Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

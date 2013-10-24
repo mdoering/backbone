@@ -1,5 +1,4 @@
-Rhopographus gynerii Henn. SPECIES
-=======
+# Rhopographus gynerii Henn. SPECIES
 
 #### Status
 ACCEPTED

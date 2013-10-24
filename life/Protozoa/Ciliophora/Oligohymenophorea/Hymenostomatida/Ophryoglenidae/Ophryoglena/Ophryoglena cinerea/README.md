@@ -1,5 +1,4 @@
-Ophryoglena cinerea SPECIES
-=======
+# Ophryoglena cinerea SPECIES
 
 #### Status
 ACCEPTED

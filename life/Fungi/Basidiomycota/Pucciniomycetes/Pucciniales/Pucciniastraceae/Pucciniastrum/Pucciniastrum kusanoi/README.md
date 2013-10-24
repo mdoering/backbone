@@ -1,5 +1,4 @@
-Pucciniastrum kusanoi Dietel SPECIES
-=======
+# Pucciniastrum kusanoi Dietel SPECIES
 
 #### Status
 ACCEPTED

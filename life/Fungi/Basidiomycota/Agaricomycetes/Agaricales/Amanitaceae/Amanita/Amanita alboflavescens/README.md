@@ -1,5 +1,4 @@
-Amanita alboflavescens Hongo SPECIES
-=======
+# Amanita alboflavescens Hongo SPECIES
 
 #### Status
 ACCEPTED

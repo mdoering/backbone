@@ -1,5 +1,4 @@
-Niebla rugosa Spjut SPECIES
-=======
+# Niebla rugosa Spjut SPECIES
 
 #### Status
 ACCEPTED

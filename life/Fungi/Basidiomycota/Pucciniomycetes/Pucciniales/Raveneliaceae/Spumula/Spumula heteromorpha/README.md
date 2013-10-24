@@ -1,5 +1,4 @@
-Spumula heteromorpha J.W. Baxter, 1966 SPECIES
-=======
+# Spumula heteromorpha J.W. Baxter, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria betulae (Niessl) Schrantz SPECIES
-=======
+# Amphisphaeria betulae (Niessl) Schrantz SPECIES
 
 #### Status
 ACCEPTED

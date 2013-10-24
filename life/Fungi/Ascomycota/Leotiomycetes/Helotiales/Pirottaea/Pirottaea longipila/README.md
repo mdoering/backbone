@@ -1,5 +1,4 @@
-Pirottaea longipila Feltgen SPECIES
-=======
+# Pirottaea longipila Feltgen SPECIES
 
 #### Status
 ACCEPTED

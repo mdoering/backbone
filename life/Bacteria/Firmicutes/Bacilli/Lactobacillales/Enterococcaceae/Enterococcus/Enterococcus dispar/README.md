@@ -1,5 +1,4 @@
-Enterococcus dispar Collins et al., 1991 SPECIES
-=======
+# Enterococcus dispar Collins et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Murrayella globosa Kofoid SPECIES
-=======
+# Corythodinium globosum (Kofoid, 1907) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

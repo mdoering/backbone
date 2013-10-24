@@ -1,5 +1,4 @@
-Pisolithus hypogaeus S.R. Thomas, Dell & Trappe, 2003 SPECIES
-=======
+# Pisolithus hypogaeus S.R. Thomas, Dell & Trappe, 2003 SPECIES
 
 #### Status
 ACCEPTED

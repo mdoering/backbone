@@ -1,5 +1,4 @@
-Endocarpon nodulosum Kremp. SPECIES
-=======
+# Endocarpon nodulosum Kremp. SPECIES
 
 #### Status
 ACCEPTED

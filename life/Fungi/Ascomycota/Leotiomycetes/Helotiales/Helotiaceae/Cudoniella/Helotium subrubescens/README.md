@@ -1,5 +1,4 @@
-Helotium subrubescens Rehm SPECIES
-=======
+# Helotium subrubescens Rehm SPECIES
 
 #### Status
 ACCEPTED

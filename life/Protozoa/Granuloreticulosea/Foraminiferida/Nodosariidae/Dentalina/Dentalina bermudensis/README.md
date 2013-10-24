@@ -1,5 +1,4 @@
-Dentalina bermudensis SPECIES
-=======
+# Dentalina bermudensis SPECIES
 
 #### Status
 ACCEPTED

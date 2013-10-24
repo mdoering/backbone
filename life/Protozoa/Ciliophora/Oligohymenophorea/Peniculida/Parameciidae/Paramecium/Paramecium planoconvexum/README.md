@@ -1,5 +1,4 @@
-Paramecium planoconvexum SPECIES
-=======
+# Paramecium planoconvexum SPECIES
 
 #### Status
 ACCEPTED

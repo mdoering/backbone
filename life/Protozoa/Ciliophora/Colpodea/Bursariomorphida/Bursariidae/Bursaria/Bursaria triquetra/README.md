@@ -1,5 +1,4 @@
-Bursaria triquetra Ehrenberg, 1835 SPECIES
-=======
+# Bursaria triquetra Ehrenberg, 1835 SPECIES
 
 #### Status
 ACCEPTED

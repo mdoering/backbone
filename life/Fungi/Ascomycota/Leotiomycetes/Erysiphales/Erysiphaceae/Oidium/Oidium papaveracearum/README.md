@@ -1,5 +1,4 @@
-Oidium papaveracearum Bappamm., Hosag. & Udaiyan SPECIES
-=======
+# Oidium papaveracearum Bappamm., Hosag. & Udaiyan SPECIES
 
 #### Status
 ACCEPTED

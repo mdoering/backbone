@@ -1,8 +1,7 @@
-Parhabdolithus angustus (Stradner, 1963) Stradner et al., 1968 SPECIES
-=======
+# Rhagodiscus angustus (Stradner, 1963) Reinhardt, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

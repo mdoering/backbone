@@ -1,5 +1,4 @@
-Discophrya acilii Collin, 1912 SPECIES
-=======
+# Discophrya acilii Collin, 1912 SPECIES
 
 #### Status
 ACCEPTED

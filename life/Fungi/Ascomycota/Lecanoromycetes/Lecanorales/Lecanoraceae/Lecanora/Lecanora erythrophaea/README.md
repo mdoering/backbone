@@ -1,5 +1,4 @@
-Lecanora erythrophaea H. Magn. SPECIES
-=======
+# Lecanora erythrophaea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

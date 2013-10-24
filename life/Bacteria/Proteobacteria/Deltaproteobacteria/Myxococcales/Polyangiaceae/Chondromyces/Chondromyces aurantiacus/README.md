@@ -1,5 +1,4 @@
-Chondromyces aurantiacus SPECIES
-=======
+# Chondromyces aurantiacus SPECIES
 
 #### Status
 ACCEPTED

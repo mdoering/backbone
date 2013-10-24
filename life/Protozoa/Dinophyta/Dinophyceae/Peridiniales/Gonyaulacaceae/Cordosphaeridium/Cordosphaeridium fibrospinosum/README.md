@@ -1,5 +1,4 @@
-Cordosphaeridium fibrospinosum Davey & Williams, 1966 SPECIES
-=======
+# Cordosphaeridium fibrospinosum Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

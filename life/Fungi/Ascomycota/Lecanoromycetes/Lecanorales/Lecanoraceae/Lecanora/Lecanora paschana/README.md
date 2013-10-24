@@ -1,5 +1,4 @@
-Lecanora paschana B. de Lesd. SPECIES
-=======
+# Lecanora paschana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

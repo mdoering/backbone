@@ -1,5 +1,4 @@
-Tubercularia berberidis Thüm. SPECIES
-=======
+# Tubercularia berberidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

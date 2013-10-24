@@ -1,17 +1,16 @@
-Irpex basibadius (Banker) Kotir. & Saaren., 2002 SPECIES
-=======
+# Steccherinum basibadium Banker, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 4(6): 314 (1912)
 
 #### Original name
-null
+Steccherinum basibadium Banker, 1912
 
 ### Remarks
 null

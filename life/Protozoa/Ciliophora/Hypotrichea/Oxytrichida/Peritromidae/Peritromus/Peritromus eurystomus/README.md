@@ -1,5 +1,4 @@
-Peritromus eurystomus Vacelet, 1961 SPECIES
-=======
+# Peritromus eurystomus Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

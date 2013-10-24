@@ -1,5 +1,4 @@
-Tricholoma pallidum Peck SPECIES
-=======
+# Tricholoma pallidum Peck SPECIES
 
 #### Status
 ACCEPTED

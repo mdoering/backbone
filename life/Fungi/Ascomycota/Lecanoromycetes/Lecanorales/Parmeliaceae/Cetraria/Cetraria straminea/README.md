@@ -1,5 +1,4 @@
-Cetraria straminea var. straminea VARIETY
-=======
+# Cetraria straminea Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria straminea var. straminea
+Cetraria straminea Vain.
 
 ### Remarks
 null

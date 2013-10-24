@@ -1,5 +1,4 @@
-Clisosporium valsodeum (Peck) Kuntze SPECIES
-=======
+# Clisosporium valsodeum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

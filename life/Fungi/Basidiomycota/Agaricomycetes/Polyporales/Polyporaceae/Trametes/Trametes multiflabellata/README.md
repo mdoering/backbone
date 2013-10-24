@@ -1,5 +1,4 @@
-Trametes multiflabellata Corner SPECIES
-=======
+# Trametes multiflabellata Corner SPECIES
 
 #### Status
 ACCEPTED

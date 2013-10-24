@@ -1,5 +1,4 @@
-Russula subseriflua Buyck SPECIES
-=======
+# Russula subseriflua Buyck SPECIES
 
 #### Status
 ACCEPTED

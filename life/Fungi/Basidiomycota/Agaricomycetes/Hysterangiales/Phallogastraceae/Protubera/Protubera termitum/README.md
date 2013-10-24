@@ -1,5 +1,4 @@
-Protubera termitum R. Heim, 1977 SPECIES
-=======
+# Protubera termitum R. Heim, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromphale todae (Henn.) Antonín SPECIES
-=======
+# Micromphale todae (Henn.) Antonín SPECIES
 
 #### Status
 ACCEPTED

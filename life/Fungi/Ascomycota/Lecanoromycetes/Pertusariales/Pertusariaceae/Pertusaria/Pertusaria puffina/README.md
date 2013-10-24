@@ -1,5 +1,4 @@
-Pertusaria puffina A. W. Archer & Elix SPECIES
-=======
+# Pertusaria puffina A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

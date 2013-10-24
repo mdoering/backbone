@@ -1,5 +1,4 @@
-Cortinarius uliginobadius Rob. Henry SPECIES
-=======
+# Cortinarius uliginobadius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

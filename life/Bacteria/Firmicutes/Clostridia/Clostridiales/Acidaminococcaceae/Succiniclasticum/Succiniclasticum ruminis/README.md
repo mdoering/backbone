@@ -1,5 +1,4 @@
-Succiniclasticum ruminis van Gylswyk, 1995 SPECIES
-=======
+# Succiniclasticum ruminis van Gylswyk, 1995 SPECIES
 
 #### Status
 ACCEPTED

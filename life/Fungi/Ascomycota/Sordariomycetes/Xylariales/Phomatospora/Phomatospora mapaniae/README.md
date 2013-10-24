@@ -1,5 +1,4 @@
-Phomatospora mapaniae Tassi SPECIES
-=======
+# Phomatospora mapaniae Tassi SPECIES
 
 #### Status
 ACCEPTED

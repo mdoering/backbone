@@ -1,14 +1,13 @@
-Discocephalus Léger, 1892 GENUS
-=======
+# Discorhyncus Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tabl. Zool. , 3, 134.
+null
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Polyporus guianensis var. puttemansii (Henn.) R.M. Silveira & J.E. Wright VARIETY
-=======
+# Polyporus guianensis Mont., 1840 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 93: 27 (2005)
+Annls Sci. Nat. , Bot. , sér. 2 13(1): 201 (1840)
 
 #### Original name
-Polyporus puttemansii Henn.
+Polyporus guianensis Mont., 1840
 
 ### Remarks
 null

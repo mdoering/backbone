@@ -1,5 +1,4 @@
-Hemithecium staigerae Adaw. & Makhija SPECIES
-=======
+# Hemithecium staigerae Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinodinium apsteini SPECIES
-=======
+# Actinodinium apsteini SPECIES
 
 #### Status
 ACCEPTED

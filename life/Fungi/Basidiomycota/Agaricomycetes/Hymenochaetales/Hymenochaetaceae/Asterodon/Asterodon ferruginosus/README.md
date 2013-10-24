@@ -1,17 +1,16 @@
-Asterodon ferruginosum Pat. SPECIES
-=======
+# Asterodon ferruginosus Pat., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 10(3): 130 (1894)
 
 #### Original name
-Asterodon ferruginosum Pat.
+Asterodon ferruginosus Pat., 1894
 
 ### Remarks
 null

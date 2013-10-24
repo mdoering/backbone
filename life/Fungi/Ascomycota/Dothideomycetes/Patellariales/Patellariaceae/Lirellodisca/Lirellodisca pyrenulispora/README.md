@@ -1,17 +1,16 @@
-Lirellodisca pyrenulaspora Aptroot, 1998 SPECIES
-=======
+# Lirellodisca pyrenulispora Aptroot, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot & Iperen, Nova Hedwigia 67(3-4): 485 (1998)
 
 #### Original name
-Lirellodisca pyrenulaspora Aptroot, 1998
+Lirellodisca pyrenulispora Aptroot, 1998
 
 ### Remarks
 null

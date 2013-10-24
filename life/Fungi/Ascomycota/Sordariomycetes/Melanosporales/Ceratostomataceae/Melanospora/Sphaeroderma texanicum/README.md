@@ -1,5 +1,4 @@
-Sphaeroderma texanicum Rehm SPECIES
-=======
+# Sphaeroderma texanicum Rehm SPECIES
 
 #### Status
 ACCEPTED

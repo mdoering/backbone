@@ -1,5 +1,4 @@
-Stigmidium cupulare (Pat.) D. Hawksw. SPECIES
-=======
+# Stigmidium cupulare (Pat.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

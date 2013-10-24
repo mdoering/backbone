@@ -1,5 +1,4 @@
-Strumella simmondsiae Bonar SPECIES
-=======
+# Strumella simmondsiae Bonar SPECIES
 
 #### Status
 ACCEPTED

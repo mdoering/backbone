@@ -1,5 +1,4 @@
-Tetrasporopsis pelagica R. E. Norris SPECIES
-=======
+# Tetrasporopsis pelagica R. E. Norris SPECIES
 
 #### Status
 ACCEPTED

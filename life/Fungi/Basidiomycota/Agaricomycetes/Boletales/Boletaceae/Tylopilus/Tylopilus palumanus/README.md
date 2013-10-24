@@ -1,5 +1,4 @@
-Tylopilus palumanus Wolfe & Bougher SPECIES
-=======
+# Tylopilus palumanus Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

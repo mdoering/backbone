@@ -1,5 +1,4 @@
-Rivularia beccariana var. de-toniana P. González VARIETY
-=======
+# Rivularia beccariana (De Notaris) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

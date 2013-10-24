@@ -1,5 +1,4 @@
-Thelotrema berkeleyanum (Mont.) Brusse SPECIES
-=======
+# Thelotrema berkeleyanum (Mont.) Brusse SPECIES
 
 #### Status
 ACCEPTED

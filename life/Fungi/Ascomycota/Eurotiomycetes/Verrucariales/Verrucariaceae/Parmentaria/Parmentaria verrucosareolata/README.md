@@ -1,5 +1,4 @@
-Parmentaria verrucosareolata Makhija & Patw. SPECIES
-=======
+# Parmentaria verrucosareolata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium laetum (Boud.) Sacc., 1889 SPECIES
-=======
+# Hymenoscyphus laetus (Boud.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 248 (1889)
+Persoonia 3(1): 73 (1964)
 
 #### Original name
 Pachydisca laeta Boud., 1888

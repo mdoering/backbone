@@ -1,5 +1,4 @@
-Schiffnerula rhois Hansf. SPECIES
-=======
+# Schiffnerula rhois Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium sernanderi Du Rietz SPECIES
-=======
+# Leptogium sernanderi Du Rietz SPECIES
 
 #### Status
 ACCEPTED

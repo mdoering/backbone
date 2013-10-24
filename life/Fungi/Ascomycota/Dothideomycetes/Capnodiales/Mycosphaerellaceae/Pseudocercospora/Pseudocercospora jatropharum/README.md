@@ -1,5 +1,4 @@
-Pseudocercospora jatropharum (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora jatropharum (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

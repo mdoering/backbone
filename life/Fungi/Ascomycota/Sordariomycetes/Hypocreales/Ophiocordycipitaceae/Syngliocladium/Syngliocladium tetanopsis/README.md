@@ -1,5 +1,4 @@
-Syngliocladium tetanopsis K.T. Hodge, Humber & Wozniak, 1998 SPECIES
-=======
+# Syngliocladium tetanopsis K.T. Hodge, Humber & Wozniak, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia ciliatomarginata (Linder) Essl. SPECIES
-=======
+# Heterodermia ciliatomarginata (Linder) Essl. SPECIES
 
 #### Status
 ACCEPTED

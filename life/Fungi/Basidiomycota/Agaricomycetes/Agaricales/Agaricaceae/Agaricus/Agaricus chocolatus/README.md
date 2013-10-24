@@ -1,5 +1,4 @@
-Agaricus chocolatus With. SPECIES
-=======
+# Agaricus chocolatus With. SPECIES
 
 #### Status
 ACCEPTED

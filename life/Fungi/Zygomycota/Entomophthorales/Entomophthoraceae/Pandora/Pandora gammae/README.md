@@ -1,14 +1,13 @@
-Entomophthora gammae (Weiser) D.M. MacLeod & Müll.-Kög., 1970 SPECIES
-=======
+# Pandora gammae (Weiser) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 62(1): 46 (1970)
+Mycotaxon 34(2): 453 (1989)
 
 #### Original name
 Tarichium gammae Weiser, 1965

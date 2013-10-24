@@ -1,5 +1,4 @@
-Praekaraisella Kurbatov, 1972 GENUS
-=======
+# Praekaraisella Kurbatov, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuroflammula squarrulosa Singer SPECIES
-=======
+# Pleuroflammula squarrulosa Singer SPECIES
 
 #### Status
 ACCEPTED

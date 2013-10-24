@@ -1,5 +1,4 @@
-Lecanora ulmicola SPECIES
-=======
+# Lecanora ulmicola SPECIES
 
 #### Status
 ACCEPTED

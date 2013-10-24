@@ -1,5 +1,4 @@
-Dimerina samoensis (Henn.) Theiss. SPECIES
-=======
+# Dimerina samoensis (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

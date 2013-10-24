@@ -1,5 +1,4 @@
-Caloplaca balfourii (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca balfourii (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

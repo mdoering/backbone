@@ -1,5 +1,4 @@
-Baltisphaeridium anfractum Playford, 1977 SPECIES
-=======
+# Baltisphaeridium anfractum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

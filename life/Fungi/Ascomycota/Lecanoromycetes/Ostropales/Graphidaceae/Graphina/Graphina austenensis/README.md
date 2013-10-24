@@ -1,5 +1,4 @@
-Graphina austenensis A.W. Archer SPECIES
-=======
+# Graphina austenensis A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

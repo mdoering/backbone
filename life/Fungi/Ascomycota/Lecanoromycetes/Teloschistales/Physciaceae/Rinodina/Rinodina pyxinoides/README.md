@@ -1,5 +1,4 @@
-Rinodina pyxinoides Vain. SPECIES
-=======
+# Rinodina pyxinoides Vain. SPECIES
 
 #### Status
 ACCEPTED

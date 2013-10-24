@@ -1,5 +1,4 @@
-Phaeographina cumingii (Vain.) Redinger SPECIES
-=======
+# Phaeographina cumingii (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

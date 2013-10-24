@@ -1,5 +1,4 @@
-Lalaria coccinea R.T. Moore SPECIES
-=======
+# Lalaria coccinea R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

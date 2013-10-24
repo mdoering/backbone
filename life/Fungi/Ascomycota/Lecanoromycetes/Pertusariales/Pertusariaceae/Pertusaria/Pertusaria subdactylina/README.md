@@ -1,5 +1,4 @@
-Pertusaria subdactylina Nyl. SPECIES
-=======
+# Pertusaria subdactylina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera problematica Holterm. SPECIES
-=======
+# Calocera problematica Holterm. SPECIES
 
 #### Status
 ACCEPTED

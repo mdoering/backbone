@@ -1,5 +1,4 @@
-Uromyces bisbyi Savile SPECIES
-=======
+# Uromyces bisbyi Savile SPECIES
 
 #### Status
 ACCEPTED

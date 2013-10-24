@@ -1,5 +1,4 @@
-Methanobacterium arbophilicum Zeikus & Henning, 1975 SPECIES
-=======
+# Methanobacterium arbophilicum Zeikus & Henning, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopeziza stepanovae Vasyag. SPECIES
-=======
+# Pseudopeziza stepanovae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

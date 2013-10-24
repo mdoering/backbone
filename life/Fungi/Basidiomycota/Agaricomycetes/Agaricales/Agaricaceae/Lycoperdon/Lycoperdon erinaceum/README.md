@@ -1,5 +1,4 @@
-Lycoperdon erinaceum Speg. SPECIES
-=======
+# Lycoperdon erinaceum Speg. SPECIES
 
 #### Status
 ACCEPTED

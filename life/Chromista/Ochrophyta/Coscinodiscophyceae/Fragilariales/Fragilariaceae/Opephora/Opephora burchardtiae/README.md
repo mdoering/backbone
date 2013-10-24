@@ -1,5 +1,4 @@
-Opephora burchardtiae Witkowski SPECIES
-=======
+# Opephora burchardtiae Witkowski SPECIES
 
 #### Status
 ACCEPTED

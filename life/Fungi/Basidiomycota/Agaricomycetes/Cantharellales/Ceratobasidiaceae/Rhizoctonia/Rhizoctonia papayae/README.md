@@ -1,5 +1,4 @@
-Rhizoctonia papayae Cif. SPECIES
-=======
+# Rhizoctonia papayae Cif. SPECIES
 
 #### Status
 ACCEPTED

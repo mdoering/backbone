@@ -1,5 +1,4 @@
-Lecanora helygea Ach. SPECIES
-=======
+# Lecanora helygea Ach. SPECIES
 
 #### Status
 ACCEPTED

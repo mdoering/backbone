@@ -1,5 +1,4 @@
-Agaricus spraguei Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus spraguei Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

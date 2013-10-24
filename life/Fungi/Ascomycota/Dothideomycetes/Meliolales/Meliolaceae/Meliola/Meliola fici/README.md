@@ -1,5 +1,4 @@
-Meliola fici (Hansf.) Cif. SPECIES
-=======
+# Meliola fici (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

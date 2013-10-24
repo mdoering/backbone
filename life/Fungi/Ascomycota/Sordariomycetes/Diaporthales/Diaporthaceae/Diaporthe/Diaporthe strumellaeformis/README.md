@@ -1,5 +1,4 @@
-Diaporthe strumellaeformis (De Not.) Sacc. SPECIES
-=======
+# Diaporthe strumellaeformis (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

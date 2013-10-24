@@ -1,5 +1,4 @@
-Cortinarius centrifugus (Fr.) Sacc. SPECIES
-=======
+# Cortinarius centrifugus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros adelianum SPECIES
-=======
+# Chaetoceros adelianum SPECIES
 
 #### Status
 ACCEPTED

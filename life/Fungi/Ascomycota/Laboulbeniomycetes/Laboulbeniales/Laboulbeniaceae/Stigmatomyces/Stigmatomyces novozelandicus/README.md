@@ -1,5 +1,4 @@
-Stigmatomyces novozelandicus A. Weir & W. Rossi, 1997 SPECIES
-=======
+# Stigmatomyces novozelandicus A. Weir & W. Rossi, 1997 SPECIES
 
 #### Status
 ACCEPTED

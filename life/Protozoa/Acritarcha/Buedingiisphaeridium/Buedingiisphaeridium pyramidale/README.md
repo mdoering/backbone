@@ -1,5 +1,4 @@
-Buedingiisphaeridium pyramidale Lister, 1970 SPECIES
-=======
+# Buedingiisphaeridium pyramidale Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

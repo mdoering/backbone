@@ -1,5 +1,4 @@
-Piricauda heteromera (Kirschst.) R.T. Moore SPECIES
-=======
+# Piricauda heteromera (Kirschst.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

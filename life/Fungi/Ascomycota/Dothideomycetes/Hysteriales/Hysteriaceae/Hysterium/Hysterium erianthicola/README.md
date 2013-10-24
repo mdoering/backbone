@@ -1,5 +1,4 @@
-Hysterium erianthicola G.F. Atk. SPECIES
-=======
+# Hysterium erianthicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria phiala (Durieu & Mont.) Sacc. SPECIES
-=======
+# Leptosphaeria phiala (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

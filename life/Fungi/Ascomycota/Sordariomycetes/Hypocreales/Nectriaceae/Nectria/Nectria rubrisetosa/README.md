@@ -1,17 +1,16 @@
-Nectria rubrosetosa Samuels SPECIES
-=======
+# Nectria rubrisetosa Samuels SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Samuels, Doi & Rogerson, Mem. N. Y. bot. Gdn 59: 42 (1990)
 
 #### Original name
-Nectria rubrosetosa Samuels
+Nectria rubrisetosa Samuels
 
 ### Remarks
 null

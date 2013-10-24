@@ -1,5 +1,4 @@
-Pterula laxa Pat., 1902 SPECIES
-=======
+# Pterula laxa Pat., 1902 SPECIES
 
 #### Status
 ACCEPTED

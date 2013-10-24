@@ -1,5 +1,4 @@
-Asterinella luzonensis Syd. & P. Syd. SPECIES
-=======
+# Asterinella luzonensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

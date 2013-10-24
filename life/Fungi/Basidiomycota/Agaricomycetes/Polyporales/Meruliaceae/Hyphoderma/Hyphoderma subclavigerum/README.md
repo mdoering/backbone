@@ -1,5 +1,4 @@
-Hyphoderma subclavigerum K.H. Larss. & Hjortstam, 1978 SPECIES
-=======
+# Hyphoderma subclavigerum K.H. Larss. & Hjortstam, 1978 SPECIES
 
 #### Status
 ACCEPTED

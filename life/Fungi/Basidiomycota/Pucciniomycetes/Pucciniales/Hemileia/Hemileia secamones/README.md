@@ -1,5 +1,4 @@
-Hemileia secamones Wakef. & Hansf. SPECIES
-=======
+# Hemileia secamones Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

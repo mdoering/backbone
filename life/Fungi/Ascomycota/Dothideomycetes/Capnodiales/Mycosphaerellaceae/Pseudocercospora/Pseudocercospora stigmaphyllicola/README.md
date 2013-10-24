@@ -1,5 +1,4 @@
-Pseudocercospora stigmaphyllicola (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora stigmaphyllicola (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

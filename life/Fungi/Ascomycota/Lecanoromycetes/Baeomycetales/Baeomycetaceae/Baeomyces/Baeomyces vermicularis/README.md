@@ -1,5 +1,4 @@
-Baeomyces vermicularis (Sw.) Ach. SPECIES
-=======
+# Baeomyces vermicularis (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

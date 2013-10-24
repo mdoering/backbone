@@ -1,5 +1,4 @@
-Galerula pistillicystis G.F. Atk. SPECIES
-=======
+# Galerula pistillicystis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina subdecipiens J. Steiner SPECIES
-=======
+# Ramalina subdecipiens J. Steiner SPECIES
 
 #### Status
 ACCEPTED

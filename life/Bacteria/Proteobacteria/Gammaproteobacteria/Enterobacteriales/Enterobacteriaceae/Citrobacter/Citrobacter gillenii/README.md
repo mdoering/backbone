@@ -1,5 +1,4 @@
-Citrobacter gillenii Brenner et al., 2000 SPECIES
-=======
+# Citrobacter gillenii Brenner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

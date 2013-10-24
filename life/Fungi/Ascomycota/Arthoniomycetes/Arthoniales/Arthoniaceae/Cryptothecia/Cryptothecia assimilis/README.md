@@ -1,5 +1,4 @@
-Cryptothecia assimilis Makhija & Patw. SPECIES
-=======
+# Cryptothecia assimilis Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

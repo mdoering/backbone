@@ -1,5 +1,4 @@
-Thermoanaerobacteriales ORDER
-=======
+# Thermoanaerobacteriales ORDER
 
 #### Status
 ACCEPTED

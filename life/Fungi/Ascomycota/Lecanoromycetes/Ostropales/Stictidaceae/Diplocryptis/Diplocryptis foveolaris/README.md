@@ -1,5 +1,4 @@
-Diplocryptis foveolaris (Rehm) Clem. SPECIES
-=======
+# Diplocryptis foveolaris (Rehm) Clem. SPECIES
 
 #### Status
 ACCEPTED

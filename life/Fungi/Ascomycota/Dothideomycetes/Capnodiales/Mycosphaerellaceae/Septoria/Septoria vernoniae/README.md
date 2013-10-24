@@ -1,5 +1,4 @@
-Septoria vernoniae Pavgi & U.P. Singh SPECIES
-=======
+# Septoria vernoniae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

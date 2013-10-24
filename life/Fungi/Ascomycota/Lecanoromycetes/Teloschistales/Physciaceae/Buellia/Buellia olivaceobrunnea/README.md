@@ -1,5 +1,4 @@
-Buellia olivaceobrunnea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Buellia olivaceobrunnea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

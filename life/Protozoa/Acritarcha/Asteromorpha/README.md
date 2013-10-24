@@ -1,5 +1,4 @@
-Asteromorpha Xing in Xing, Ding, Luo, He & Wang, 1984 GENUS
-=======
+# Asteromorpha Xing in Xing, Ding, Luo, He & Wang, 1984 GENUS
 
 #### Status
 ACCEPTED

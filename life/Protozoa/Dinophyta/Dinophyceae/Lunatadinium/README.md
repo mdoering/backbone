@@ -1,5 +1,4 @@
-Lunatadinium W.W. Brideaux & D.J. McIntyre, 1973 GENUS
-=======
+# Lunatadinium W.W. Brideaux & D.J. McIntyre, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Joergensenia cephalodina (Zahlbr.) Passo, S. Stenroos & Calvelo SPECIES
-=======
+# Joergensenia cephalodina (Zahlbr.) Passo, S. Stenroos & Calvelo SPECIES
 
 #### Status
 ACCEPTED

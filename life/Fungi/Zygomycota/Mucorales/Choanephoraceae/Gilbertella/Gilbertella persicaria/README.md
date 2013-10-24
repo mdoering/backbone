@@ -1,17 +1,16 @@
-Gilbertella hainanensis J.Y. Cheng & F.M. Hu, 1965 SPECIES
-=======
+# Gilbertella persicaria (E.D. Eddy) Hesselt., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta phytotax. sin. 10: 106 (1965)
+Bull. Torrey bot. Club 87: 24 (1960)
 
 #### Original name
-Gilbertella hainanensis J.Y. Cheng & F.M. Hu, 1965
+Choanephora persicaria E.D. Eddy, 1925
 
 ### Remarks
 null

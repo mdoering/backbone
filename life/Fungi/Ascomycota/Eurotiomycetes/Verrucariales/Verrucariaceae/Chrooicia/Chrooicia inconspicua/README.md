@@ -1,5 +1,4 @@
-Chrooicia inconspicua (C.F.W. Meissn.) Trevis. SPECIES
-=======
+# Chrooicia inconspicua (C.F.W. Meissn.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

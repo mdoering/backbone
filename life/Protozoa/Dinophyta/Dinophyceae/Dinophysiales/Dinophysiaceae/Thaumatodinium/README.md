@@ -1,5 +1,4 @@
-Thaumatodinium A.Böhm, 1933 GENUS
-=======
+# Thaumatodinium A.Böhm, 1933 GENUS
 
 #### Status
 ACCEPTED

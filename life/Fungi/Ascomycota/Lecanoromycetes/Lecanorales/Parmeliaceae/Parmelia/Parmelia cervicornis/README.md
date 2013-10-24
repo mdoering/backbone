@@ -1,5 +1,4 @@
-Parmelia cervicornis Tuck. SPECIES
-=======
+# Parmelia cervicornis Tuck. SPECIES
 
 #### Status
 ACCEPTED

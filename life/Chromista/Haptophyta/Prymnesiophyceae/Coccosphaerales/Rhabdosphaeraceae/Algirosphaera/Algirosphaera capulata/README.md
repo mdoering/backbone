@@ -1,5 +1,4 @@
-Algirosphaera capulata Heimdal, 1981 SPECIES
-=======
+# Algirosphaera capulata Heimdal, 1981 SPECIES
 
 #### Status
 ACCEPTED

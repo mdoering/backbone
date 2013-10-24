@@ -1,5 +1,4 @@
-Sphaeropsis conspersa (Schwein.) Syd., 1927 SPECIES
-=======
+# Sphaeropsis conspersa (Schwein.) Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

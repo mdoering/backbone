@@ -1,5 +1,4 @@
-Hymenelia immersa (Hoffm.) Körb. SPECIES
-=======
+# Hymenelia immersa (Hoffm.) Körb. SPECIES
 
 #### Status
 ACCEPTED

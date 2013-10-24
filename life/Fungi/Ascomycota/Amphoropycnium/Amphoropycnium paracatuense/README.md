@@ -1,5 +1,4 @@
-Amphoropycnium paracatuense Bat. & Peres, 1963 SPECIES
-=======
+# Amphoropycnium paracatuense Bat. & Peres, 1963 SPECIES
 
 #### Status
 ACCEPTED

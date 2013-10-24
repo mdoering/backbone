@@ -1,5 +1,4 @@
-Caloplaca awasthii Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca awasthii Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

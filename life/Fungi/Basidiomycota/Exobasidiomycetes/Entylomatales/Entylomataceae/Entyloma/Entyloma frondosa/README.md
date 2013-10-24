@@ -1,5 +1,4 @@
-Entyloma frondosa Vánky, 2003 SPECIES
-=======
+# Entyloma frondosa Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

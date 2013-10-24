@@ -1,5 +1,4 @@
-Xylaria mexicana F. San Martín, J.D. Rogers & P. Lavín SPECIES
-=======
+# Xylaria mexicana F. San Martín, J.D. Rogers & P. Lavín SPECIES
 
 #### Status
 ACCEPTED

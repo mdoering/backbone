@@ -1,5 +1,4 @@
-Aphanostigme fabacearum R.K. Verma & Kamal SPECIES
-=======
+# Aphanostigme fabacearum R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

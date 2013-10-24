@@ -1,5 +1,4 @@
-Collema thysanaeopsis Vain. SPECIES
-=======
+# Collema thysanaeopsis Vain. SPECIES
 
 #### Status
 ACCEPTED

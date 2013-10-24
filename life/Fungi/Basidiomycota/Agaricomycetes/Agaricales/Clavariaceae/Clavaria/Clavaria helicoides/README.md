@@ -1,5 +1,4 @@
-Clavaria helicoides Pat. & Demange SPECIES
-=======
+# Clavaria helicoides Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

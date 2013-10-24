@@ -1,5 +1,4 @@
-Meliola pentadis Mibey SPECIES
-=======
+# Meliola pentadis Mibey SPECIES
 
 #### Status
 ACCEPTED

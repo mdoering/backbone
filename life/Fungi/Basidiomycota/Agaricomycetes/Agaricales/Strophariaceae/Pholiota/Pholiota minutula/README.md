@@ -1,5 +1,4 @@
-Pholiota minutula A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota minutula A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

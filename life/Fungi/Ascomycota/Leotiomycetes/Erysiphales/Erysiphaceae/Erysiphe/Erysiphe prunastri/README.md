@@ -1,17 +1,16 @@
-Uncinula prunastri var. prunastri VARIETY
-=======
+# Erysiphe prunastri DC., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 7 (1882)
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 6: 108 (1815)
 
 #### Original name
-Uncinula prunastri var. prunastri
+Erysiphe prunastri DC., 1815
 
 ### Remarks
 null

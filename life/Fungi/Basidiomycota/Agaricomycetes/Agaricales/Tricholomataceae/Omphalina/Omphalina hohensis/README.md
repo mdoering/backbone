@@ -1,5 +1,4 @@
-Omphalina hohensis (A.H. Sm.) Norvell, Redhead & Ammirati SPECIES
-=======
+# Omphalina hohensis (A.H. Sm.) Norvell, Redhead & Ammirati SPECIES
 
 #### Status
 ACCEPTED

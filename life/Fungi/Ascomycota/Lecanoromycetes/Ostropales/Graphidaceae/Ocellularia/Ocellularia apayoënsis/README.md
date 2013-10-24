@@ -1,14 +1,13 @@
-Thelotrema apayoënse Vain. SPECIES
-=======
+# Ocellularia apayoënsis (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 583 (1923)
 
 #### Original name
 Thelotrema apayoënse Vain.

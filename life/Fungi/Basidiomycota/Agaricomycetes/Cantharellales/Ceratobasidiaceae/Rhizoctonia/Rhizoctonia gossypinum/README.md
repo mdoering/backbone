@@ -1,5 +1,4 @@
-Rhizoctonia gossypinum Speg. SPECIES
-=======
+# Rhizoctonia gossypinum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporicellaesporites quadratus Rouse & Mustard SPECIES
-=======
+# Diporicellaesporites quadratus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

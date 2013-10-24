@@ -1,5 +1,4 @@
-Macrophoma hibiscicola Tassi SPECIES
-=======
+# Macrophoma hibiscicola Tassi SPECIES
 
 #### Status
 ACCEPTED

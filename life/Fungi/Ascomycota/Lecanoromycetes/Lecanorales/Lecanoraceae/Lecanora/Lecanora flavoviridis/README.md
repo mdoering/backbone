@@ -1,5 +1,4 @@
-Lecanora flavoviridis Kremp. SPECIES
-=======
+# Lecanora flavoviridis Kremp. SPECIES
 
 #### Status
 ACCEPTED

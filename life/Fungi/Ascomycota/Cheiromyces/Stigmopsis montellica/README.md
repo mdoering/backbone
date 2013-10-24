@@ -1,5 +1,4 @@
-Stigmopsis montellica (Sacc.) Bubák SPECIES
-=======
+# Stigmopsis montellica (Sacc.) Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemonitis dictyophora Rostaf. SPECIES
-=======
+# Stemonitis dictyophora Rostaf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium cotulae du Plessis, 1933 SPECIES
-=======
+# Synchytrium cotulae du Plessis, 1933 SPECIES
 
 #### Status
 ACCEPTED

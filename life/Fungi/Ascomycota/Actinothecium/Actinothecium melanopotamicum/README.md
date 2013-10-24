@@ -1,5 +1,4 @@
-Actinothecium melanopotamicum Speg. SPECIES
-=======
+# Actinothecium melanopotamicum Speg. SPECIES
 
 #### Status
 ACCEPTED

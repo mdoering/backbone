@@ -1,5 +1,4 @@
-Anastomyces W.P. Wu, B. Sutton & Gange GENUS
-=======
+# Anastomyces W.P. Wu, B. Sutton & Gange GENUS
 
 #### Status
 ACCEPTED

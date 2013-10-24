@@ -1,5 +1,4 @@
-Hydnum reflexum Burt SPECIES
-=======
+# Hydnum reflexum Burt SPECIES
 
 #### Status
 ACCEPTED

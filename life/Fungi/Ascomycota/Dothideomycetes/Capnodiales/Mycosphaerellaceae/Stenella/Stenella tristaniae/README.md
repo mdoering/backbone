@@ -1,5 +1,4 @@
-Stenella tristaniae B. Huguenin, 1966 SPECIES
-=======
+# Stenella tristaniae B. Huguenin, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora monticola Mains, 1917 SPECIES
-=======
+# Melampsora monticola Mains, 1917 SPECIES
 
 #### Status
 ACCEPTED

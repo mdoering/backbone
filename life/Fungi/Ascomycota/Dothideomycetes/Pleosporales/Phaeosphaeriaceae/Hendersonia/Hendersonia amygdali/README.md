@@ -1,5 +1,4 @@
-Hendersonia amygdali Politis SPECIES
-=======
+# Hendersonia amygdali Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium sulphurellum Cooke & Massee SPECIES
-=======
+# Corticium sulphurellum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopharia papyracea (Jungh.) D.A. Reid SPECIES
-=======
+# Lopharia papyracea (Jungh.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

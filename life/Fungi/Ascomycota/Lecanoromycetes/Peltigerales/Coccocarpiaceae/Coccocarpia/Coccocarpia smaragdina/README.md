@@ -1,14 +1,13 @@
-Pannaria smaragdina (Pers.) Hue SPECIES
-=======
+# Coccocarpia smaragdina Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Gaudichaud-Beaupré, Voy. Uranie. Bot. 206 (1827)
 
 #### Original name
 Coccocarpia smaragdina Pers.

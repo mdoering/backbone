@@ -1,5 +1,4 @@
-Lactobacillus mindensis Ehrmann et al., 2003 SPECIES
-=======
+# Lactobacillus mindensis Ehrmann et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

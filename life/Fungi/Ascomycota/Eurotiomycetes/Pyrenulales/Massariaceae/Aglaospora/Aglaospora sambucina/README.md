@@ -1,5 +1,4 @@
-Aglaospora sambucina (Peck) Kuntze SPECIES
-=======
+# Aglaospora sambucina (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

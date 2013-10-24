@@ -1,5 +1,4 @@
-Sterigmatocystis subfusca (Johan-Olsen) Sacc. SPECIES
-=======
+# Sterigmatocystis subfusca (Johan-Olsen) Sacc. SPECIES
 
 #### Status
 ACCEPTED

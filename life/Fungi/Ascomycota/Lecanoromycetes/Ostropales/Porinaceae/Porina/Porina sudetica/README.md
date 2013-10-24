@@ -1,14 +1,13 @@
-Porina mammillosa var. sudetica (Körb.) Keissl. VARIETY
-=======
+# Porina sudetica (Körb.) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 52: 104 (1912)
 
 #### Original name
 null

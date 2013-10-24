@@ -1,5 +1,4 @@
-Septoria scleranthi Desm., 1857 SPECIES
-=======
+# Septoria scleranthi Desm., 1857 SPECIES
 
 #### Status
 ACCEPTED

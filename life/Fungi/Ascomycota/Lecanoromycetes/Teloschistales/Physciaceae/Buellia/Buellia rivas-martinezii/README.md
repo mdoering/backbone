@@ -1,5 +1,4 @@
-Buellia rivas-martinezii Barreno & A. Crespo SPECIES
-=======
+# Buellia rivas-martinezii Barreno & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

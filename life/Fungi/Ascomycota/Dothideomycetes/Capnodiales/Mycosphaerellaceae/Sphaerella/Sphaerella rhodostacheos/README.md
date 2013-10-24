@@ -1,5 +1,4 @@
-Sphaerella rhodostacheos Speg. SPECIES
-=======
+# Sphaerella rhodostacheos Speg. SPECIES
 
 #### Status
 ACCEPTED

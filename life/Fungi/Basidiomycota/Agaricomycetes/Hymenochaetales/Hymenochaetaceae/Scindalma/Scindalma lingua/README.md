@@ -1,5 +1,4 @@
-Scindalma lingua (Nees) Kuntze SPECIES
-=======
+# Scindalma lingua (Nees) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis implexella Stirt. SPECIES
-=======
+# Graphis implexella Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia chaetacanthi Doidge SPECIES
-=======
+# Puccinia chaetacanthi Doidge SPECIES
 
 #### Status
 ACCEPTED

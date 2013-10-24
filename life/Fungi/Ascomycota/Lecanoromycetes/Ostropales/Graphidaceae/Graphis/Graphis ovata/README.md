@@ -1,5 +1,4 @@
-Graphis ovata (Fée) A. Massal. SPECIES
-=======
+# Graphis ovata (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

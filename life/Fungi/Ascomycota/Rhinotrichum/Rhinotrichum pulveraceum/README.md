@@ -1,5 +1,4 @@
-Rhinotrichum pulveraceum Ellis SPECIES
-=======
+# Rhinotrichum pulveraceum Ellis SPECIES
 
 #### Status
 ACCEPTED

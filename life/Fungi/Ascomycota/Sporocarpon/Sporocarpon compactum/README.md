@@ -1,5 +1,4 @@
-Sporocarpon compactum Will. SPECIES
-=======
+# Sporocarpon compactum Will. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscidea impolita (Müll. Arg.) Hertel SPECIES
-=======
+# Fuscidea impolita (Müll. Arg.) Hertel SPECIES
 
 #### Status
 ACCEPTED

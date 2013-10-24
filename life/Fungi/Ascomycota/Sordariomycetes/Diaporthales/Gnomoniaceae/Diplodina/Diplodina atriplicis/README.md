@@ -1,5 +1,4 @@
-Diplodina atriplicis Vestergr. SPECIES
-=======
+# Diplodina atriplicis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

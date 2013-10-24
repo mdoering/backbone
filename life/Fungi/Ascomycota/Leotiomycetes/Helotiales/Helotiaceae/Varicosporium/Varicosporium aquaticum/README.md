@@ -1,5 +1,4 @@
-Varicosporium aquaticum Vischn. SPECIES
-=======
+# Varicosporium aquaticum Vischn. SPECIES
 
 #### Status
 ACCEPTED

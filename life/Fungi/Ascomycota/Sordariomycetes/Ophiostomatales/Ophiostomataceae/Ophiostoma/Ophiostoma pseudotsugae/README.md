@@ -1,5 +1,4 @@
-Ophiostoma pseudotsugae (Rumbold) Arx SPECIES
-=======
+# Ophiostoma pseudotsugae (Rumbold) Arx SPECIES
 
 #### Status
 ACCEPTED

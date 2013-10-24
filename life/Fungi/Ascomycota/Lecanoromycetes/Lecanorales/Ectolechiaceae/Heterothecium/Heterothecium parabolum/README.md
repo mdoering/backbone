@@ -1,5 +1,4 @@
-Heterothecium parabolum SPECIES
-=======
+# Heterothecium parabolum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporina serebrianikowii Bubák SPECIES
-=======
+# Cytosporina serebrianikowii Bubák SPECIES
 
 #### Status
 ACCEPTED

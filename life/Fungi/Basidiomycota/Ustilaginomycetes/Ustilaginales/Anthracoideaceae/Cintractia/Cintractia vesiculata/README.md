@@ -1,5 +1,4 @@
-Cintractia vesiculata Mol.-Val. SPECIES
-=======
+# Cintractia vesiculata Mol.-Val. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina pyrrhocheila (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Graphina pyrrhocheila (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

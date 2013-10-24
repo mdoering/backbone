@@ -1,5 +1,4 @@
-Coprinus heterothrix Kühner SPECIES
-=======
+# Coprinus heterothrix Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echidnina Bengtson, 1986 GENUS
-=======
+# Echidnina Bengtson, 1986 GENUS
 
 #### Status
 ACCEPTED

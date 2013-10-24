@@ -1,8 +1,7 @@
-Bramletteius variabilis Roth, 1970 SPECIES
-=======
+# Bramletteius serraculoides Gartner, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

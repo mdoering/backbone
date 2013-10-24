@@ -1,5 +1,4 @@
-Sticholagena Haeckel, 1887 GENUS
-=======
+# Sticholagena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

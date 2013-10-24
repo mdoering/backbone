@@ -1,5 +1,4 @@
-Agaricus epibates Fr. SPECIES
-=======
+# Agaricus epibates Fr. SPECIES
 
 #### Status
 ACCEPTED

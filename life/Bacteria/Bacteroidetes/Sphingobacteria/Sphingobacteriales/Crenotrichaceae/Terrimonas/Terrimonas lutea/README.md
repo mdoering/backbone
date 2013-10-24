@@ -1,5 +1,4 @@
-Terrimonas lutea Xie & Yokota, 2006 SPECIES
-=======
+# Terrimonas lutea Xie & Yokota, 2006 SPECIES
 
 #### Status
 ACCEPTED

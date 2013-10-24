@@ -1,5 +1,4 @@
-Parmelia saniensis (Hale) Brusse SPECIES
-=======
+# Parmelia saniensis (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

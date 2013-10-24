@@ -1,5 +1,4 @@
-Acanthocystis cubensis (Murrill) Singer SPECIES
-=======
+# Acanthocystis cubensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

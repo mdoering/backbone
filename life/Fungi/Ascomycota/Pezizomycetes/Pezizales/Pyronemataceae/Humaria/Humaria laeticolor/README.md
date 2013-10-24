@@ -1,5 +1,4 @@
-Humaria laeticolor (Berk. & Broome) Sacc. SPECIES
-=======
+# Humaria laeticolor (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

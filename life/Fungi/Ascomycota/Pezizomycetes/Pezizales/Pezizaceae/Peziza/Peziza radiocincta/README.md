@@ -1,5 +1,4 @@
-Peziza radiocincta Cooke SPECIES
-=======
+# Peziza radiocincta Cooke SPECIES
 
 #### Status
 ACCEPTED

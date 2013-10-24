@@ -1,14 +1,13 @@
-Tomentella cinerascens var. fragilis Bourdot & Galzin, 1924 VARIETY
-=======
+# Tomentella fragilis (Bourdot & Galzin) M.J. Larsen, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 40(2): 161 (1924)
+Mycol. Mem. 4: 100 (1974)
 
 #### Original name
 Tomentella cinerascens var. fragilis Bourdot & Galzin, 1924

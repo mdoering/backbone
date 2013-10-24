@@ -1,5 +1,4 @@
-Cetraria lanosa SPECIES
-=======
+# Cetraria lanosa SPECIES
 
 #### Status
 ACCEPTED

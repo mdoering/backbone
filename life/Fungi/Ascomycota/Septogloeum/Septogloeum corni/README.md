@@ -1,5 +1,4 @@
-Septogloeum corni Oudem. SPECIES
-=======
+# Septogloeum corni Oudem. SPECIES
 
 #### Status
 ACCEPTED

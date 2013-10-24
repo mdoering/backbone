@@ -1,5 +1,4 @@
-Asteridiella iquitosensis (Henn.) Hansf. SPECIES
-=======
+# Asteridiella iquitosensis (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

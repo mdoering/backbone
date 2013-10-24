@@ -1,5 +1,4 @@
-Oidium baccharidis Havryl. & U. Braun SPECIES
-=======
+# Oidium baccharidis Havryl. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

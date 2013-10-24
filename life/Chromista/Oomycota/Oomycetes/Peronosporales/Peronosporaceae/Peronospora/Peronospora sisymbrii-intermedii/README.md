@@ -1,5 +1,4 @@
-Peronospora sisymbrii-intermedii Gäum. SPECIES
-=======
+# Peronospora sisymbrii-intermedii Gäum. SPECIES
 
 #### Status
 ACCEPTED

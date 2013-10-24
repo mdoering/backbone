@@ -1,5 +1,4 @@
-Lachnum discolor (Mouton) Graddon SPECIES
-=======
+# Lachnum discolor (Mouton) Graddon SPECIES
 
 #### Status
 ACCEPTED

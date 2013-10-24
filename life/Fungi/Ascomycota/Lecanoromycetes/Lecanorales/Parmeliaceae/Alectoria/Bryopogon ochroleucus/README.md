@@ -1,5 +1,4 @@
-Bryopogon ochroleucus var. ochroleucus VARIETY
-=======
+# Bryopogon ochroleucus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon ochroleucus var. ochroleucus
+null
 
 ### Remarks
 null

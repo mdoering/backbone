@@ -1,5 +1,4 @@
-Diplodina rauii (Ellis) Racov. SPECIES
-=======
+# Diplodina rauii (Ellis) Racov. SPECIES
 
 #### Status
 ACCEPTED

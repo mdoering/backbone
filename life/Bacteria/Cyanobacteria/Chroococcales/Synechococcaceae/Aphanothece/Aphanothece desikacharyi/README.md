@@ -1,5 +1,4 @@
-Aphanothece desikacharyi F. Hindák SPECIES
-=======
+# Aphanothece desikacharyi F. Hindák SPECIES
 
 #### Status
 ACCEPTED

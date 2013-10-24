@@ -1,5 +1,4 @@
-Paxillus flavidus Berk. SPECIES
-=======
+# Paxillus flavidus Berk. SPECIES
 
 #### Status
 ACCEPTED

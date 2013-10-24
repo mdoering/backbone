@@ -1,5 +1,4 @@
-Verrucaria bulbalina P.M. McCarthy SPECIES
-=======
+# Verrucaria bulbalina P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

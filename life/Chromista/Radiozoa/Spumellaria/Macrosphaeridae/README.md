@@ -1,5 +1,4 @@
-Macrosphaeridae FAMILY
-=======
+# Macrosphaeridae FAMILY
 
 #### Status
 ACCEPTED

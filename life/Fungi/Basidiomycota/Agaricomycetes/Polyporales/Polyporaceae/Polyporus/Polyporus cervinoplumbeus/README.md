@@ -1,5 +1,4 @@
-Polyporus cervinoplumbeus Jungh. SPECIES
-=======
+# Polyporus cervinoplumbeus Jungh. SPECIES
 
 #### Status
 ACCEPTED

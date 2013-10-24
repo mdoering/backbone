@@ -1,5 +1,4 @@
-Agaricus pseudoplacomyces Murrill SPECIES
-=======
+# Agaricus pseudoplacomyces Murrill SPECIES
 
 #### Status
 ACCEPTED

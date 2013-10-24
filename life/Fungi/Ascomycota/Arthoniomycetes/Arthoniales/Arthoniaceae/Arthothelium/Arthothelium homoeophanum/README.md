@@ -1,5 +1,4 @@
-Arthothelium homoeophanum (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium homoeophanum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizellobiopsis Hovasse GENUS
-=======
+# Rhizellobiopsis Hovasse GENUS
 
 #### Status
 ACCEPTED

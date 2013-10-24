@@ -1,14 +1,13 @@
-Ascidium postpositum Nyl. SPECIES
-=======
+# Ocellularia postposita (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 7: 320 (1867)
+Biblthca Lichenol. 92: 250 (2006)
 
 #### Original name
 Ascidium postpositum Nyl.

@@ -1,5 +1,4 @@
-Cladonia leprosula H. Magn. SPECIES
-=======
+# Cladonia leprosula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

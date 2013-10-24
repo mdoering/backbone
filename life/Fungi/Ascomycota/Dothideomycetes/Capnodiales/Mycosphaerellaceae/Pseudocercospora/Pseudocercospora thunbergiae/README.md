@@ -1,5 +1,4 @@
-Pseudocercospora thunbergiae (Boedijn) U. Braun & Sivap. SPECIES
-=======
+# Pseudocercospora thunbergiae (Boedijn) U. Braun & Sivap. SPECIES
 
 #### Status
 ACCEPTED

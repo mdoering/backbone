@@ -1,5 +1,4 @@
-Rutstroemia hirsuta Dennis SPECIES
-=======
+# Rutstroemia hirsuta Dennis SPECIES
 
 #### Status
 ACCEPTED

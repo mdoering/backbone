@@ -1,5 +1,4 @@
-Amphisphaeria palmarum (Maffei) El-Buni & S.S. Rattan SPECIES
-=======
+# Amphisphaeria palmarum (Maffei) El-Buni & S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria basaltica Servít SPECIES
-=======
+# Verrucaria basaltica Servít SPECIES
 
 #### Status
 ACCEPTED

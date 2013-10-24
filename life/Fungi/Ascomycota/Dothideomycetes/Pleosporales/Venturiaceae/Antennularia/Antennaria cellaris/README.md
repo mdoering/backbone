@@ -1,5 +1,4 @@
-Antennaria cellaris Fr. SPECIES
-=======
+# Antennaria cellaris Fr. SPECIES
 
 #### Status
 ACCEPTED

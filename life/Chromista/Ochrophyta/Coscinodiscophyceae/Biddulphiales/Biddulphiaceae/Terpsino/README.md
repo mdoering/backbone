@@ -1,5 +1,4 @@
-Terpsinoã« GENUS
-=======
+# Terpsinoã« GENUS
 
 #### Status
 ACCEPTED

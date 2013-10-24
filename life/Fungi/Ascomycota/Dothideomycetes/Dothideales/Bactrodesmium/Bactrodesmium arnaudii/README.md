@@ -1,5 +1,4 @@
-Bactrodesmium arnaudii S. Hughes, 1958 SPECIES
-=======
+# Bactrodesmium arnaudii S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED

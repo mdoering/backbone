@@ -1,5 +1,4 @@
-Coniothyrium pentatropidis S. Ahmad SPECIES
-=======
+# Coniothyrium pentatropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

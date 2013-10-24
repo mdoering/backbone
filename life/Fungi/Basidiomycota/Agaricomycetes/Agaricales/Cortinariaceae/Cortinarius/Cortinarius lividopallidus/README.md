@@ -1,5 +1,4 @@
-Cortinarius lividopallidus Rob. Henry SPECIES
-=======
+# Cortinarius lividopallidus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

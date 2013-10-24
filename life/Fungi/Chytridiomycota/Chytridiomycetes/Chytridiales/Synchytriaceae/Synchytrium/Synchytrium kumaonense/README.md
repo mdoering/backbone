@@ -1,5 +1,4 @@
-Synchytrium kumaonense S.C. Gupta & Sah SPECIES
-=======
+# Synchytrium kumaonense S.C. Gupta & Sah SPECIES
 
 #### Status
 ACCEPTED

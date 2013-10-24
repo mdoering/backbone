@@ -1,5 +1,4 @@
-Euplotes gracilis Kahl, 1932 SPECIES
-=======
+# Euplotes gracilis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

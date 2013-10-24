@@ -1,5 +1,4 @@
-Strombidium lynni Martin & Montagnes, 1993 SPECIES
-=======
+# Strombidium lynni Martin & Montagnes, 1993 SPECIES
 
 #### Status
 ACCEPTED

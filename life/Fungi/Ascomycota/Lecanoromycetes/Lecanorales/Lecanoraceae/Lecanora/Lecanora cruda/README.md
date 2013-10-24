@@ -1,5 +1,4 @@
-Lecanora cruda Stizenb. SPECIES
-=======
+# Lecanora cruda Stizenb. SPECIES
 
 #### Status
 ACCEPTED

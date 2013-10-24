@@ -1,17 +1,16 @@
-Sepultaria arenosa var. arenosa VARIETY
-=======
+# Geopora arenosa (Fuckel) S. Ahmad, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Biol. Soc. Pakistan 7: 176 (1978)
 
 #### Original name
-null
+Humaria arenosa Fuckel
 
 ### Remarks
 null

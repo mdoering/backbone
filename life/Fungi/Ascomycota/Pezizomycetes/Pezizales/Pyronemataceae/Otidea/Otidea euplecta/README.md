@@ -1,5 +1,4 @@
-Otidea euplecta (Cooke) Sacc. SPECIES
-=======
+# Otidea euplecta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

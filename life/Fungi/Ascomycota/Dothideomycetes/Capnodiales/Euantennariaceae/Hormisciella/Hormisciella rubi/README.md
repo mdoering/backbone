@@ -1,5 +1,4 @@
-Hormisciella rubi Bat. SPECIES
-=======
+# Hormisciella rubi Bat. SPECIES
 
 #### Status
 ACCEPTED

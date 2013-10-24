@@ -1,5 +1,4 @@
-Caloplaca conciliascens (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca conciliascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

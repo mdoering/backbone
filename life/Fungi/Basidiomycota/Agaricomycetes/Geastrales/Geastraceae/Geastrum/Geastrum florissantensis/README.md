@@ -1,8 +1,7 @@
-Geaster florissantensis Cockerell SPECIES
-=======
+# Geastrum florissantensis Cockerell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster florissantensis Cockerell
+Geastrum florissantensis Cockerell
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leccinum andinum Halling SPECIES
-=======
+# Leccinum andinum Halling SPECIES
 
 #### Status
 ACCEPTED

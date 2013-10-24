@@ -1,5 +1,4 @@
-Cunninghamella polymorpha Pišpek, 1929 SPECIES
-=======
+# Cunninghamella polymorpha Pišpek, 1929 SPECIES
 
 #### Status
 ACCEPTED

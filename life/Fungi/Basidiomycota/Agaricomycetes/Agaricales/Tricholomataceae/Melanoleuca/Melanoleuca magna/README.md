@@ -1,5 +1,4 @@
-Melanoleuca magna (Banning & Peck) Murrill SPECIES
-=======
+# Melanoleuca magna (Banning & Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

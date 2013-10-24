@@ -1,5 +1,4 @@
-Agaricus fragilivolvatus Contu SPECIES
-=======
+# Agaricus fragilivolvatus Contu SPECIES
 
 #### Status
 ACCEPTED

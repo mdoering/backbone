@@ -1,5 +1,4 @@
-Laurera kundaraensis Upreti & Ajay Singh SPECIES
-=======
+# Laurera kundaraensis Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

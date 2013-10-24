@@ -1,5 +1,4 @@
-Cystoderma muscicola (Cleland) Grgur., 1997 SPECIES
-=======
+# Cystoderma muscicola (Cleland) Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

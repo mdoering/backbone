@@ -1,5 +1,4 @@
-Collybia contraria (Peck) Halling SPECIES
-=======
+# Collybia contraria (Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

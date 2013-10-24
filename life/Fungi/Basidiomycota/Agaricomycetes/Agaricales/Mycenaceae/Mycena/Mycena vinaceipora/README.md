@@ -1,5 +1,4 @@
-Mycena vinaceipora Segedin, 1991 SPECIES
-=======
+# Mycena vinaceipora Segedin, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena plorans Mont. SPECIES
-=======
+# Mycena plorans Mont. SPECIES
 
 #### Status
 ACCEPTED

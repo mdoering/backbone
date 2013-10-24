@@ -1,5 +1,4 @@
-Physalosporella von Höhnel, 1918 GENUS
-=======
+# Physalosporella von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

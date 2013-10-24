@@ -1,5 +1,4 @@
-Hebeloma megacarpum A.H. Sm. ex Grilli SPECIES
-=======
+# Hebeloma megacarpum A.H. Sm. ex Grilli SPECIES
 
 #### Status
 ACCEPTED

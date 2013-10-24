@@ -1,14 +1,13 @@
-Trichocladia guarinonii (Briosi & Cavara) Akorie {?}, 1926 SPECIES
-=======
+# Erysiphe guarinonii (Briosi & Cavara) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 4: 9 (2000)
 
 #### Original name
 Microsphaera guarinonii Briosi & Cavara, 1892

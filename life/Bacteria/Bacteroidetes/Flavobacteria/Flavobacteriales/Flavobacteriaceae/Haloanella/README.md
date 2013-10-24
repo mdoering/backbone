@@ -1,5 +1,4 @@
-Haloanella GENUS
-=======
+# Haloanella GENUS
 
 #### Status
 ACCEPTED

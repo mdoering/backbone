@@ -1,5 +1,4 @@
-Hygrophorus peckii G.F. Atk. SPECIES
-=======
+# Hygrophorus peckii G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

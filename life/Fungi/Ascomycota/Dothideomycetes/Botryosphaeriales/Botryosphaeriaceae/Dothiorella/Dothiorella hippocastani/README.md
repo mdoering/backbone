@@ -1,5 +1,4 @@
-Dothiorella hippocastani Ellis & Everh. SPECIES
-=======
+# Dothiorella hippocastani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

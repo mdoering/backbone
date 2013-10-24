@@ -1,5 +1,4 @@
-Omphalina praerimosa Murrill SPECIES
-=======
+# Omphalina praerimosa Murrill SPECIES
 
 #### Status
 ACCEPTED

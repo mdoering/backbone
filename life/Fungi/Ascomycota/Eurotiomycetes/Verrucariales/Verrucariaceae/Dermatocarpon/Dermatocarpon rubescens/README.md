@@ -1,5 +1,4 @@
-Dermatocarpon rubescens (Timkó) Servít SPECIES
-=======
+# Dermatocarpon rubescens (Timkó) Servít SPECIES
 
 #### Status
 ACCEPTED

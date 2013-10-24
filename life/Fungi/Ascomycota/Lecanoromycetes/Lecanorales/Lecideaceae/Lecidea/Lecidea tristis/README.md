@@ -1,5 +1,4 @@
-Lecidea tristis (Mont.) Nyl. SPECIES
-=======
+# Lecidea tristis (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

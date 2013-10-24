@@ -1,5 +1,4 @@
-Boletus peltatus Corner & Watling SPECIES
-=======
+# Boletus peltatus Corner & Watling SPECIES
 
 #### Status
 ACCEPTED

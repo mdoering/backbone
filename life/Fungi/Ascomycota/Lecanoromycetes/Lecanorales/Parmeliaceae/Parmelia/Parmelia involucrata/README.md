@@ -1,5 +1,4 @@
-Parmelia involucrata SPECIES
-=======
+# Parmelia involucrata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum mandshuricum Skvortsov SPECIES
-=======
+# Physarum mandshuricum Skvortsov SPECIES
 
 #### Status
 ACCEPTED

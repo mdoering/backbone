@@ -1,5 +1,4 @@
-Gloeosporidiella hyperici H. Ruppr. SPECIES
-=======
+# Gloeosporidiella hyperici H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

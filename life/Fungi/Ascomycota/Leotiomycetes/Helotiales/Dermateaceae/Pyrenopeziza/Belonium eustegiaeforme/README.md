@@ -1,5 +1,4 @@
-Belonium eustegiaeforme (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Belonium eustegiaeforme (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

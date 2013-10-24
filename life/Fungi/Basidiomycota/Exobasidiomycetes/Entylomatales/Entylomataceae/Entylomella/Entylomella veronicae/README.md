@@ -1,5 +1,4 @@
-Entylomella veronicae Cif. SPECIES
-=======
+# Entylomella veronicae Cif. SPECIES
 
 #### Status
 ACCEPTED

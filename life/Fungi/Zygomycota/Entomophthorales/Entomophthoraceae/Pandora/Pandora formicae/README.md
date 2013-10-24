@@ -1,5 +1,4 @@
-Pandora formicae (Humber & Balazy) Humber, 1989 SPECIES
-=======
+# Pandora formicae (Humber & Balazy) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

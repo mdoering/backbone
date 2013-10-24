@@ -1,5 +1,4 @@
-Stradnerlithus geometricus SPECIES
-=======
+# Stradnerlithus geometricus SPECIES
 
 #### Status
 ACCEPTED

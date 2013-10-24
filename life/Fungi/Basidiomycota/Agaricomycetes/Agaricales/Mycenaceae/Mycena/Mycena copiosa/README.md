@@ -1,5 +1,4 @@
-Mycena copiosa Cejp SPECIES
-=======
+# Mycena copiosa Cejp SPECIES
 
 #### Status
 ACCEPTED

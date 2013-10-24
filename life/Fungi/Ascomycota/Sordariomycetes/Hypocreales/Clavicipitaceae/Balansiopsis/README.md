@@ -1,5 +1,4 @@
-Balansiopsis Höhn. GENUS
-=======
+# Balansiopsis Höhn. GENUS
 
 #### Status
 ACCEPTED

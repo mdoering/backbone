@@ -1,8 +1,7 @@
-Selenidium potamillae Mackinnon & Ray, 1933 SPECIES
-=======
+# Selenidioides potamillae Mackinnon & Ray, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

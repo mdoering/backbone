@@ -1,5 +1,4 @@
-Chroodiscus parvisporus Kalb & Lücking SPECIES
-=======
+# Chroodiscus parvisporus Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

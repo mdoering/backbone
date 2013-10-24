@@ -1,5 +1,4 @@
-Gracilibacillus Wainø et al., 1999 GENUS
-=======
+# Gracilibacillus Wainø et al., 1999 GENUS
 
 #### Status
 ACCEPTED

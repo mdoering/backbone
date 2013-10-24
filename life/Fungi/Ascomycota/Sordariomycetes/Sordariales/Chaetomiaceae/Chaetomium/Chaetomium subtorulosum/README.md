@@ -1,5 +1,4 @@
-Chaetomium subtorulosum Sergeeva, 1965 SPECIES
-=======
+# Chaetomium subtorulosum Sergeeva, 1965 SPECIES
 
 #### Status
 ACCEPTED

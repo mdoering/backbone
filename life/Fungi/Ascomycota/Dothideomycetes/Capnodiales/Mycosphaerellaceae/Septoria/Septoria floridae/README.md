@@ -1,5 +1,4 @@
-Septoria floridae Tehon & E.Y. Daniels SPECIES
-=======
+# Septoria floridae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

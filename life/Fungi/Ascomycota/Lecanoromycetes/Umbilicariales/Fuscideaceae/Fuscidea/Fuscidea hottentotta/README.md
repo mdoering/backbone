@@ -1,5 +1,4 @@
-Fuscidea hottentotta Brusse SPECIES
-=======
+# Fuscidea hottentotta Brusse SPECIES
 
 #### Status
 ACCEPTED

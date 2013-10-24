@@ -1,5 +1,4 @@
-Cercospora kanpurensis L.S. Chauhan & Z.U. Ahmed SPECIES
-=======
+# Cercospora kanpurensis L.S. Chauhan & Z.U. Ahmed SPECIES
 
 #### Status
 ACCEPTED

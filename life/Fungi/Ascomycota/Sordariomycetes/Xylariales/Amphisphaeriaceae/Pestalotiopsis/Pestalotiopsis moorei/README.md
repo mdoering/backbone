@@ -1,5 +1,4 @@
-Pestalotiopsis moorei (Harkn.) Nag Raj SPECIES
-=======
+# Pestalotiopsis moorei (Harkn.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

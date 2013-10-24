@@ -1,5 +1,4 @@
-Halobyssus caulicola Speg. SPECIES
-=======
+# Halobyssus caulicola Speg. SPECIES
 
 #### Status
 ACCEPTED

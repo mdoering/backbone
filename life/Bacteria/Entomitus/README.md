@@ -1,5 +1,4 @@
-Entomitus GENUS
-=======
+# Entomitus GENUS
 
 #### Status
 ACCEPTED

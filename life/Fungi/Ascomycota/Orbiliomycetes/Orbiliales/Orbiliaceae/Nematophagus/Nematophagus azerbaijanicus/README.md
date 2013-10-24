@@ -1,17 +1,16 @@
-Nematophagus azerbaidzhanicus Mekht. SPECIES
-=======
+# Nematophagus azerbaijanicus Mekht. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikol. Fitopatol. 9(3): 250 (1975)
 
 #### Original name
-Nematophagus azerbaidzhanicus Mekht.
+Nematophagus azerbaijanicus Mekht.
 
 ### Remarks
 null

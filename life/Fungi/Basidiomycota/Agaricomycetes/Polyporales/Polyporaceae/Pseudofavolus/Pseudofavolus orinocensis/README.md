@@ -1,14 +1,13 @@
-Polyporus orinocensis Pat. & Gaillard, 1888 SPECIES
-=======
+# Pseudofavolus orinocensis (Pat. & Gaillard) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4(2): 31, tab. 11, fig. 6 (1888)
+Norw. Jl Bot. 19: 236 (1972)
 
 #### Original name
 Polyporus orinocensis Pat. & Gaillard, 1888

@@ -1,5 +1,4 @@
-Tylopilus sphagnorum (Peck) A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus sphagnorum (Peck) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

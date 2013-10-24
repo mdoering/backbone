@@ -1,14 +1,13 @@
-Macroplodia gleditschiaecola (Cooke) Kuntze SPECIES
-=======
+# Macroplodia gleditschiicola (Cooke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 492 (1898)
 
 #### Original name
 null

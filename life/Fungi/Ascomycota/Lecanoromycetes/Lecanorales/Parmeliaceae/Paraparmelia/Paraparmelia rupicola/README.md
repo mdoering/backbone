@@ -1,5 +1,4 @@
-Paraparmelia rupicola (Lynge) Elix & J. Johnst. SPECIES
-=======
+# Paraparmelia rupicola (Lynge) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

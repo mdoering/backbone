@@ -1,5 +1,4 @@
-Polyporus intermedium Bres. & Pat. SPECIES
-=======
+# Polyporus intermedium Bres. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia prini Peck SPECIES
-=======
+# Ramularia prini Peck SPECIES
 
 #### Status
 ACCEPTED

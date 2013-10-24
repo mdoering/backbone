@@ -1,5 +1,4 @@
-Gomphus Persoon, 1797 GENUS
-=======
+# Gomphus Persoon, 1797 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella chukrasiae Hosag. SPECIES
-=======
+# Asteridiella chukrasiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

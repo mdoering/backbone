@@ -1,5 +1,4 @@
-Ramalina jamesii Krog SPECIES
-=======
+# Ramalina jamesii Krog SPECIES
 
 #### Status
 ACCEPTED

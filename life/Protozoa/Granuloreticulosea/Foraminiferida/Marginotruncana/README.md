@@ -1,5 +1,4 @@
-Marginotruncana Hofker, 1956 GENUS
-=======
+# Marginotruncana Hofker, 1956 GENUS
 
 #### Status
 ACCEPTED

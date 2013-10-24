@@ -1,5 +1,4 @@
-Stigmochora ulei Syd. & P. Syd., 1916 SPECIES
-=======
+# Stigmochora ulei Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

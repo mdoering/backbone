@@ -1,5 +1,4 @@
-Baeomyces demangei SPECIES
-=======
+# Baeomyces demangei SPECIES
 
 #### Status
 ACCEPTED

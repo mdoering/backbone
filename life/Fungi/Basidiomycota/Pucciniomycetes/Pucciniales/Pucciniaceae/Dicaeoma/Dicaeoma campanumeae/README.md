@@ -1,5 +1,4 @@
-Dicaeoma campanumeae (Pat.) Kuntze SPECIES
-=======
+# Dicaeoma campanumeae (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

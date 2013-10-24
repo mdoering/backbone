@@ -1,5 +1,4 @@
-Agaricus candelaris subsp. candelaris SUBSPECIES
-=======
+# Agaricus candelaris Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 3: 117 (1828)
 
 #### Original name
-Agaricus candelaris subsp. candelaris
+Agaricus candelaris Pers.
 
 ### Remarks
 null

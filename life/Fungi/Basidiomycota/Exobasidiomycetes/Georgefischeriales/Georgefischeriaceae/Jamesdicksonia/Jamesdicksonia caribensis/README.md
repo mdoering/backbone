@@ -1,5 +1,4 @@
-Jamesdicksonia caribensis M. Piepenbr., 2003 SPECIES
-=======
+# Jamesdicksonia caribensis M. Piepenbr., 2003 SPECIES
 
 #### Status
 ACCEPTED

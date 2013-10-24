@@ -1,5 +1,4 @@
-Eccilia fuscorufescens Speg. SPECIES
-=======
+# Eccilia fuscorufescens Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis hypophylla Ellis & Kellerm. SPECIES
-=======
+# Botrytis hypophylla Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

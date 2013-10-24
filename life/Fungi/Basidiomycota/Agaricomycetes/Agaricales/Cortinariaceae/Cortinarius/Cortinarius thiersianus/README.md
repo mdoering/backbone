@@ -1,5 +1,4 @@
-Cortinarius thiersianus Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius thiersianus Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

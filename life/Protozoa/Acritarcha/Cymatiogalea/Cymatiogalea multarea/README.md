@@ -1,5 +1,4 @@
-Cymatiogalea multarea (Deunff, 1961) Eisenack et al., 1973 SPECIES
-=======
+# Cymatiogalea multarea (Deunff, 1961) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

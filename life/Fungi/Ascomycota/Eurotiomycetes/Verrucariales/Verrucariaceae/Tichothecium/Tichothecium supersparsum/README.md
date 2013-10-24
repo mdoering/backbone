@@ -1,5 +1,4 @@
-Tichothecium supersparsum (Zopf) Dalla Torre & Sarnth. SPECIES
-=======
+# Tichothecium supersparsum (Zopf) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

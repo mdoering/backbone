@@ -1,5 +1,4 @@
-Cystopus salsolae Syd. SPECIES
-=======
+# Cystopus salsolae Syd. SPECIES
 
 #### Status
 ACCEPTED

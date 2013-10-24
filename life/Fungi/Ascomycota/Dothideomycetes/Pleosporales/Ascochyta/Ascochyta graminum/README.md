@@ -1,5 +1,4 @@
-Ascochyta graminum Lasch SPECIES
-=======
+# Ascochyta graminum Lasch SPECIES
 
 #### Status
 ACCEPTED

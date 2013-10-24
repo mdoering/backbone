@@ -1,5 +1,4 @@
-Vaginicola attenuata Fromentel, 1876 SPECIES
-=======
+# Vaginicola attenuata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

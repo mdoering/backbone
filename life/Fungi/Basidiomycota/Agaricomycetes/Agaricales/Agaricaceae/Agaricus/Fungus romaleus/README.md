@@ -1,5 +1,4 @@
-Fungus romaleus (Letell.) Kuntze SPECIES
-=======
+# Fungus romaleus (Letell.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

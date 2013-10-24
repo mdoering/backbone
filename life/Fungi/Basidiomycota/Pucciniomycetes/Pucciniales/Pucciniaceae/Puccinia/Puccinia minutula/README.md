@@ -1,5 +1,4 @@
-Puccinia minutula Peck SPECIES
-=======
+# Puccinia minutula Peck SPECIES
 
 #### Status
 ACCEPTED

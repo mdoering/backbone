@@ -1,17 +1,16 @@
-Peniophora aegerita var. aegerita VARIETY
-=======
+# Bulbillomyces farinosus (Bres.) Jülich, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 814 (1907)
+Persoonia 8(1): 69 (1974)
 
 #### Original name
-Peniophora aegerita var. aegerita
+null
 
 ### Remarks
 null

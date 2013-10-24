@@ -1,17 +1,16 @@
-Meliola diospyri var. leonensis Hansf. VARIETY
-=======
+# Meliola diospyri Syd. & P. Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9(1-6): 16 (1955)
+Annls mycol. 9(4): 381 (1911)
 
 #### Original name
-Meliola diospyri var. leonensis Hansf.
+Meliola diospyri Syd. & P. Syd., 1911
 
 ### Remarks
 null

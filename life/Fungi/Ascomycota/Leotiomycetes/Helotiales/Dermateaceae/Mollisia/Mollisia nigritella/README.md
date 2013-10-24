@@ -1,5 +1,4 @@
-Mollisia nigritella W. Phillips & Harkn. SPECIES
-=======
+# Mollisia nigritella W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Synechococcus plancticus G. Drews, H. Prauser & D. Uhlmann SPECIES
-=======
+# Cyanobium plancticum (G. Drews, H. Prauser, & D. Uhlmann) J. Komárek, J. Kopeck & V. Cepák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

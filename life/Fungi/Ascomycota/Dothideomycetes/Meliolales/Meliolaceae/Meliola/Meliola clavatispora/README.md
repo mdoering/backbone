@@ -1,5 +1,4 @@
-Meliola clavatispora Speg. SPECIES
-=======
+# Meliola clavatispora Speg. SPECIES
 
 #### Status
 ACCEPTED

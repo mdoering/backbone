@@ -1,5 +1,4 @@
-Cavaspina Moczydlowska, Vidal & Rudavskaya, 1993 GENUS
-=======
+# Cavaspina Moczydlowska, Vidal & Rudavskaya, 1993 GENUS
 
 #### Status
 ACCEPTED

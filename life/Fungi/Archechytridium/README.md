@@ -1,5 +1,4 @@
-Archechytridium GENUS
-=======
+# Archechytridium GENUS
 
 #### Status
 ACCEPTED

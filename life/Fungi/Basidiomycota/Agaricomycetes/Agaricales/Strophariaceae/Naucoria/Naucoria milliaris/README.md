@@ -1,5 +1,4 @@
-Naucoria milliaris Velen. SPECIES
-=======
+# Naucoria milliaris Velen. SPECIES
 
 #### Status
 ACCEPTED

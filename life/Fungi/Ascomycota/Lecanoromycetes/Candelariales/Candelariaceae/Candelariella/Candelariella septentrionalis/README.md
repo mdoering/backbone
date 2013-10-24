@@ -1,5 +1,4 @@
-Candelariella septentrionalis Hakul. SPECIES
-=======
+# Candelariella septentrionalis Hakul. SPECIES
 
 #### Status
 ACCEPTED

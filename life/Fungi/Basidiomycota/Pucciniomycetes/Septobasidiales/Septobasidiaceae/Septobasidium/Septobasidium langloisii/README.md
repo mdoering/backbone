@@ -1,5 +1,4 @@
-Septobasidium langloisii Pat. SPECIES
-=======
+# Septobasidium langloisii Pat. SPECIES
 
 #### Status
 ACCEPTED

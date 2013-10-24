@@ -1,5 +1,4 @@
-Physalospora pseudopustula Briard & Har. SPECIES
-=======
+# Physalospora pseudopustula Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

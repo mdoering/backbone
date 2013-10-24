@@ -1,5 +1,4 @@
-Uromyces houstoniatus J. Sheld. SPECIES
-=======
+# Uromyces houstoniatus J. Sheld. SPECIES
 
 #### Status
 ACCEPTED

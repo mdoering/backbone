@@ -1,5 +1,4 @@
-Amanita elegans Beeli SPECIES
-=======
+# Amanita elegans Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diexallophasis mucronata (Stockmans & Willière, 1963) Priewalder, 1987 SPECIES
-=======
+# Diexallophasis mucronata (Stockmans & Willière, 1963) Priewalder, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daldinia feei Sacc. SPECIES
-=======
+# Daldinia feei Sacc. SPECIES
 
 #### Status
 ACCEPTED

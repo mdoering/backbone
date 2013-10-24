@@ -1,5 +1,4 @@
-Amauroascus oblatus Cano & Guarro SPECIES
-=======
+# Amauroascus oblatus Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

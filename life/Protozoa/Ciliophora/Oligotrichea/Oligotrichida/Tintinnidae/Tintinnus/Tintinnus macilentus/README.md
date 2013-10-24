@@ -1,5 +1,4 @@
-Tintinnus macilentus SPECIES
-=======
+# Tintinnus macilentus SPECIES
 
 #### Status
 ACCEPTED

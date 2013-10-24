@@ -1,5 +1,4 @@
-Megalohypha A. Ferrer & Shearer GENUS
-=======
+# Megalohypha A. Ferrer & Shearer GENUS
 
 #### Status
 ACCEPTED

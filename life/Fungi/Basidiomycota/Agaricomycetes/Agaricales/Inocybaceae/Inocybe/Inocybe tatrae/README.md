@@ -1,5 +1,4 @@
-Inocybe tatrae Nespiak SPECIES
-=======
+# Inocybe tatrae Nespiak SPECIES
 
 #### Status
 ACCEPTED

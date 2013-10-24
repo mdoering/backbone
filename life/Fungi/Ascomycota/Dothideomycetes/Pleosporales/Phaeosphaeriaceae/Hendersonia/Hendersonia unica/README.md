@@ -1,5 +1,4 @@
-Hendersonia unica Cooke SPECIES
-=======
+# Hendersonia unica Cooke SPECIES
 
 #### Status
 ACCEPTED

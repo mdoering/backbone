@@ -1,5 +1,4 @@
-Patellaria viridiatra (Ach.) Duby SPECIES
-=======
+# Patellaria viridiatra (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

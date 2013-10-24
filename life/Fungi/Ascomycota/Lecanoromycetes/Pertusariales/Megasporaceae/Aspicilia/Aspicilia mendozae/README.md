@@ -1,5 +1,4 @@
-Aspicilia mendozae Räsänen SPECIES
-=======
+# Aspicilia mendozae Räsänen SPECIES
 
 #### Status
 ACCEPTED

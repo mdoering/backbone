@@ -1,5 +1,4 @@
-Endocena informis Cromb. SPECIES
-=======
+# Endocena informis Cromb. SPECIES
 
 #### Status
 ACCEPTED

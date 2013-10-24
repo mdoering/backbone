@@ -1,5 +1,4 @@
-Sphaerella pinifolia Ducomet SPECIES
-=======
+# Sphaerella pinifolia Ducomet SPECIES
 
 #### Status
 ACCEPTED

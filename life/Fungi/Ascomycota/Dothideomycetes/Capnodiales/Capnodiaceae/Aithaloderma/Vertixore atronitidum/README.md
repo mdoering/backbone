@@ -1,5 +1,4 @@
-Vertixore atronitidum V.A.M. Mill. & Bonar SPECIES
-=======
+# Vertixore atronitidum V.A.M. Mill. & Bonar SPECIES
 
 #### Status
 ACCEPTED

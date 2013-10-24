@@ -1,5 +1,4 @@
-Oscillatoria sakashitae Yoneda SPECIES
-=======
+# Oscillatoria sakashitae Yoneda SPECIES
 
 #### Status
 ACCEPTED

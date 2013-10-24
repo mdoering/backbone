@@ -1,5 +1,4 @@
-Blastenia phlogina (Ach.) B. de Lesd. SPECIES
-=======
+# Blastenia phlogina (Ach.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

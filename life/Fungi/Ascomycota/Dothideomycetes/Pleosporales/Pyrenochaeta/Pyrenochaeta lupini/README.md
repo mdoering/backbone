@@ -1,5 +1,4 @@
-Pyrenochaeta lupini Sibilia SPECIES
-=======
+# Pyrenochaeta lupini Sibilia SPECIES
 
 #### Status
 ACCEPTED

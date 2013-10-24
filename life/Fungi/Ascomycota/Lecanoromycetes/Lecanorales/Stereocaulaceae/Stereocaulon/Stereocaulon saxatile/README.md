@@ -1,17 +1,16 @@
-Stereocaulon evolutoides f. evolutoides FORM
-=======
+# Stereocaulon saxatile H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Göteborgs Kgl. Vetensk. -och Vitterh. Samh. handl. , Ser. 4 30(no. 7): 41 (1926)
 
 #### Original name
-null
+Stereocaulon saxatile H. Magn.
 
 ### Remarks
 null

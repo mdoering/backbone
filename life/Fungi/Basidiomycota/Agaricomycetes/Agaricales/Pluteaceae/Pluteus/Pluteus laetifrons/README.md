@@ -1,5 +1,4 @@
-Pluteus laetifrons (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pluteus laetifrons (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

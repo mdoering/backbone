@@ -1,5 +1,4 @@
-Botryosphaeria minor Ellis & Everh. SPECIES
-=======
+# Botryosphaeria minor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

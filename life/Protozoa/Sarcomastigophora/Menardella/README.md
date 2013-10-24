@@ -1,5 +1,4 @@
-Menardella Bandy, 1972 GENUS
-=======
+# Menardella Bandy, 1972 GENUS
 
 #### Status
 ACCEPTED

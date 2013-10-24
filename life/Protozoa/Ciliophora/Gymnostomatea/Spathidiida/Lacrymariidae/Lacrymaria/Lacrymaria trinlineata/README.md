@@ -1,5 +1,4 @@
-Lacrymaria trinlineata Penard, 1922 SPECIES
-=======
+# Lacrymaria trinlineata Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

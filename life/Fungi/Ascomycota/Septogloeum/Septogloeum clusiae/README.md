@@ -1,5 +1,4 @@
-Septogloeum clusiae P. Karst. & Har. SPECIES
-=======
+# Septogloeum clusiae P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

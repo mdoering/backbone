@@ -1,5 +1,4 @@
-Limboria circumcissa Eschw. SPECIES
-=======
+# Limboria circumcissa Eschw. SPECIES
 
 #### Status
 ACCEPTED

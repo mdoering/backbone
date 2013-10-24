@@ -1,5 +1,4 @@
-Tricholoma lanicute (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma lanicute (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

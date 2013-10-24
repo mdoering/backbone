@@ -1,5 +1,4 @@
-Eccilia housei Murrill SPECIES
-=======
+# Eccilia housei Murrill SPECIES
 
 #### Status
 ACCEPTED

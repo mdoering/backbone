@@ -1,5 +1,4 @@
-Ephelopalla elongata Wicander, 1974 SPECIES
-=======
+# Ephelopalla elongata Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

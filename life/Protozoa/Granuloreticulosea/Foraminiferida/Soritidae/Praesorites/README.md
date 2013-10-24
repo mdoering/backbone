@@ -1,5 +1,4 @@
-Praesorites Douville, 1902 GENUS
-=======
+# Praesorites Douville, 1902 GENUS
 
 #### Status
 ACCEPTED

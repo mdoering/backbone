@@ -1,5 +1,4 @@
-Hypocrea palmicola Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea palmicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

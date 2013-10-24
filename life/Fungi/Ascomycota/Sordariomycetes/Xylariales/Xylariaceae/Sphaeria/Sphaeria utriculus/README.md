@@ -1,5 +1,4 @@
-Sphaeria utriculus Rebent. SPECIES
-=======
+# Sphaeria utriculus Rebent. SPECIES
 
 #### Status
 ACCEPTED

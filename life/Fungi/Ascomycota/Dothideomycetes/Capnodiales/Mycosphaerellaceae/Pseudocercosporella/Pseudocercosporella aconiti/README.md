@@ -1,5 +1,4 @@
-Pseudocercosporella aconiti Chevassut SPECIES
-=======
+# Pseudocercosporella aconiti Chevassut SPECIES
 
 #### Status
 ACCEPTED

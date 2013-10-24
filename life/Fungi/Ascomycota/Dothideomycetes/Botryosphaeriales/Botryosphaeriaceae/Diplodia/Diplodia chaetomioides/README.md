@@ -1,5 +1,4 @@
-Diplodia chaetomioides Ces. SPECIES
-=======
+# Diplodia chaetomioides Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystoseira selaginioides SPECIES
-=======
+# Cystoseira selaginioides SPECIES
 
 #### Status
 ACCEPTED

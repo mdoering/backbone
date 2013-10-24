@@ -1,5 +1,4 @@
-Hebelomatis lugens (Fr.) Locq. SPECIES
-=======
+# Hebelomatis lugens (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

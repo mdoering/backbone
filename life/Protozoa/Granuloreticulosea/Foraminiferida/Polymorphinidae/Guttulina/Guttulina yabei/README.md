@@ -1,5 +1,4 @@
-Guttulina yabei Cushman & Ozawa SPECIES
-=======
+# Guttulina yabei Cushman & Ozawa SPECIES
 
 #### Status
 ACCEPTED

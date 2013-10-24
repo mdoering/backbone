@@ -1,5 +1,4 @@
-Verticillium aphidum (Oudem.) M.B. Ellis SPECIES
-=======
+# Verticillium aphidum (Oudem.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

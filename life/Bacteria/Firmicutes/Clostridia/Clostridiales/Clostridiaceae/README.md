@@ -1,5 +1,4 @@
-Clostridiaceae Pribram, 1933 FAMILY
-=======
+# Clostridiaceae Pribram, 1933 FAMILY
 
 #### Status
 ACCEPTED

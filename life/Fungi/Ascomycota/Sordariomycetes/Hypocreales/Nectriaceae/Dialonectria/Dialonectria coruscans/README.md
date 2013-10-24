@@ -1,5 +1,4 @@
-Dialonectria coruscans (Fr.) Cooke SPECIES
-=======
+# Dialonectria coruscans (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora adenophorae Gucevic SPECIES
-=======
+# Pleospora adenophorae Gucevic SPECIES
 
 #### Status
 ACCEPTED

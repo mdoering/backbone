@@ -1,5 +1,4 @@
-Marasmius brachypus Speg. SPECIES
-=======
+# Marasmius brachypus Speg. SPECIES
 
 #### Status
 ACCEPTED

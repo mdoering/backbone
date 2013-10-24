@@ -1,5 +1,4 @@
-Polystictus dualis Peck SPECIES
-=======
+# Polystictus dualis Peck SPECIES
 
 #### Status
 ACCEPTED

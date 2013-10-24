@@ -1,5 +1,4 @@
-Agyrophora haplocarpa (Nyl.) Llano SPECIES
-=======
+# Agyrophora haplocarpa (Nyl.) Llano SPECIES
 
 #### Status
 ACCEPTED

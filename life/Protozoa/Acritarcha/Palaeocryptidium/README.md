@@ -1,5 +1,4 @@
-Palaeocryptidium G. Deflandre, 1955 GENUS
-=======
+# Palaeocryptidium G. Deflandre, 1955 GENUS
 
 #### Status
 ACCEPTED

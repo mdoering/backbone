@@ -1,5 +1,4 @@
-Heppiomyces adglutinatae Cif. & Tomas. SPECIES
-=======
+# Heppiomyces adglutinatae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

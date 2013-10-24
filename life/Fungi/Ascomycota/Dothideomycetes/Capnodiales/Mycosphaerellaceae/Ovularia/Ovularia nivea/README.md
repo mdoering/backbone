@@ -1,5 +1,4 @@
-Ovularia nivea (Unger) J. Schröt. SPECIES
-=======
+# Ovularia nivea (Unger) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

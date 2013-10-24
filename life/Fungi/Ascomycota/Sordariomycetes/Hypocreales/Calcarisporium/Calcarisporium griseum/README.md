@@ -1,5 +1,4 @@
-Calcarisporium griseum Speg. SPECIES
-=======
+# Calcarisporium griseum Speg. SPECIES
 
 #### Status
 ACCEPTED

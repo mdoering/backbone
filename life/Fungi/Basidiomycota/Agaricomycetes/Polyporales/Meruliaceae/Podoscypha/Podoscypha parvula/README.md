@@ -1,17 +1,16 @@
-Podoscypha subaffinis Boidin, 1960 SPECIES
-=======
+# Podoscypha parvula (Lloyd) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Jardin Botanique de l'État, Bruxelles 30: 318 (1960)
+Beih. Nova Hedwigia 18: 220 (1965)
 
 #### Original name
-Podoscypha subaffinis Boidin, 1960
+Stereum parvulum Lloyd, 1923
 
 ### Remarks
 null

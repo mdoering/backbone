@@ -1,5 +1,4 @@
-Belonium equisetinum Rehm SPECIES
-=======
+# Belonium equisetinum Rehm SPECIES
 
 #### Status
 ACCEPTED

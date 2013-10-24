@@ -1,5 +1,4 @@
-Discoaster nobilis Martini, 1961 SPECIES
-=======
+# Discoaster nobilis Martini, 1961 SPECIES
 
 #### Status
 ACCEPTED

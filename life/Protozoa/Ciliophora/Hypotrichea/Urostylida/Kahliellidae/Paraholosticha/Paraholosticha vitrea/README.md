@@ -1,5 +1,4 @@
-Paraholosticha vitrea Vörösvary, 1950 SPECIES
-=======
+# Paraholosticha vitrea Vörösvary, 1950 SPECIES
 
 #### Status
 ACCEPTED

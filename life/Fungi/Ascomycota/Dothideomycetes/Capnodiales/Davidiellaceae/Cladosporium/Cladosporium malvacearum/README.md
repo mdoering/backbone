@@ -1,5 +1,4 @@
-Cladosporium malvacearum C.D. Sharma, Gadp., Firdousi, A.N. Rai & K.M. Vyas, 1998 SPECIES
-=======
+# Cladosporium malvacearum C.D. Sharma, Gadp., Firdousi, A.N. Rai & K.M. Vyas, 1998 SPECIES
 
 #### Status
 ACCEPTED

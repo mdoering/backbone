@@ -1,5 +1,4 @@
-Phoma endogena Speg. SPECIES
-=======
+# Phoma endogena Speg. SPECIES
 
 #### Status
 ACCEPTED

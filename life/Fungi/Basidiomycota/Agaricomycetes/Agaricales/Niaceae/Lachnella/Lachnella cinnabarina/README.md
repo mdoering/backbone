@@ -1,5 +1,4 @@
-Lachnella cinnabarina Schwein. SPECIES
-=======
+# Lachnella cinnabarina Schwein. SPECIES
 
 #### Status
 ACCEPTED

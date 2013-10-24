@@ -1,5 +1,4 @@
-Cercosporites E.S. Salmon, 1903 GENUS
-=======
+# Cercosporites E.S. Salmon, 1903 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthomma Haeckel, 1887 GENUS
-=======
+# Anthomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiellina Hennings ex G. Arnaud, 1918 GENUS
-=======
+# Parodiellina Hennings ex G. Arnaud, 1918 GENUS
 
 #### Status
 ACCEPTED

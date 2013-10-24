@@ -1,5 +1,4 @@
-Ramularia lucidae Davis SPECIES
-=======
+# Ramularia lucidae Davis SPECIES
 
 #### Status
 ACCEPTED

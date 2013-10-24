@@ -1,5 +1,4 @@
-Fusicytospora mira (Tschern.) Gutner SPECIES
-=======
+# Fusicytospora mira (Tschern.) Gutner SPECIES
 
 #### Status
 ACCEPTED

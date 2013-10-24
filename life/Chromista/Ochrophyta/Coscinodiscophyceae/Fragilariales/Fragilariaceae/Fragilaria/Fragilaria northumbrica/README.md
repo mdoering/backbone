@@ -1,5 +1,4 @@
-Fragilaria northumbrica Grunow SPECIES
-=======
+# Fragilaria northumbrica Grunow SPECIES
 
 #### Status
 ACCEPTED

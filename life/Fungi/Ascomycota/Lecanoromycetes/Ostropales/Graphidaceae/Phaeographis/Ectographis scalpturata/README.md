@@ -1,5 +1,4 @@
-Ectographis scalpturata (Ach.) Trevis. SPECIES
-=======
+# Ectographis scalpturata (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

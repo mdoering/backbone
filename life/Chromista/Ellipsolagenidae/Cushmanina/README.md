@@ -1,5 +1,4 @@
-Cushmanina Jones, 1984 GENUS
-=======
+# Cushmanina Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

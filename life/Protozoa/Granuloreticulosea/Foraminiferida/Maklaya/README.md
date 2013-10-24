@@ -1,5 +1,4 @@
-Maklaya Kanmera & Toriyama, 1968 GENUS
-=======
+# Maklaya Kanmera & Toriyama, 1968 GENUS
 
 #### Status
 ACCEPTED

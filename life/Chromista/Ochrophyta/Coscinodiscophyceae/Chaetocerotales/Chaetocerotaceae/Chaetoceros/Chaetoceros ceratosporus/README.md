@@ -1,11 +1,10 @@
-Chaetoceros ceratosporus var. brachysetus Rines & Hargraves, 1986 VARIETY
-=======
+# Chaetoceros ceratosporus Ostenfeld SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

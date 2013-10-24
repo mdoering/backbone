@@ -1,5 +1,4 @@
-Globocassidulina hooperi Clark, 1994 SPECIES
-=======
+# Globocassidulina hooperi Clark, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammosigmoinella GENUS
-=======
+# Ammosigmoinella GENUS
 
 #### Status
 ACCEPTED

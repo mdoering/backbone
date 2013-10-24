@@ -1,5 +1,4 @@
-Asterina aemula Syd. SPECIES
-=======
+# Asterina aemula Syd. SPECIES
 
 #### Status
 ACCEPTED

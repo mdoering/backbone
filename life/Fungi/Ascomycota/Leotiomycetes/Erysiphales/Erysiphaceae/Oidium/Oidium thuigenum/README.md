@@ -1,5 +1,4 @@
-Oidium thuigenum Göpp. & J.A. Menge SPECIES
-=======
+# Oidium thuigenum Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

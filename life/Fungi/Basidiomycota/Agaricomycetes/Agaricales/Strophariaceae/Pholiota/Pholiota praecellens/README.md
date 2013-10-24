@@ -1,5 +1,4 @@
-Pholiota praecellens Kalchbr. SPECIES
-=======
+# Pholiota praecellens Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella iduensis Kobayasi SPECIES
-=======
+# Tremella iduensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

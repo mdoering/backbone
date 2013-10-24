@@ -1,5 +1,4 @@
-Arthopyrenia fallacior (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia fallacior (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

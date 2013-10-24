@@ -1,5 +1,4 @@
-Chaetopsina fulva Rambelli, 1956 SPECIES
-=======
+# Chaetopsina fulva Rambelli, 1956 SPECIES
 
 #### Status
 ACCEPTED

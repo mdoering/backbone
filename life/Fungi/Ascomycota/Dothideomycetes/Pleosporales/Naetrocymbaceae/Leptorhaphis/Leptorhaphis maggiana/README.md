@@ -1,5 +1,4 @@
-Leptorhaphis maggiana (A. Massal.) Körb. SPECIES
-=======
+# Leptorhaphis maggiana (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

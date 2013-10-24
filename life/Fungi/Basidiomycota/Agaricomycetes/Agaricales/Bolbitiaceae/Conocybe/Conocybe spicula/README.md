@@ -1,17 +1,16 @@
-Conocybe spicula f. spicula (Lasch) Kühner FORM
-=======
+# Conocybe spicula (Lasch) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Encyclop. Mycol. 7: 60 (1935)
 
 #### Original name
-Conocybe spicula f. spicula (Lasch) Kühner
+Agaricus spiculus Lasch, 1829
 
 ### Remarks
 null

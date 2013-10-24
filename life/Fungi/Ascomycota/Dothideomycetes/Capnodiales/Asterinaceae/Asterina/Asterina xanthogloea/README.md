@@ -1,5 +1,4 @@
-Asterina xanthogloea Syd. SPECIES
-=======
+# Asterina xanthogloea Syd. SPECIES
 
 #### Status
 ACCEPTED

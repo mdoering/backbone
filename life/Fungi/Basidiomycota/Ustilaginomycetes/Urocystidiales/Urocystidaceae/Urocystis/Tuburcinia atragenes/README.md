@@ -1,5 +1,4 @@
-Tuburcinia atragenes Liro SPECIES
-=======
+# Tuburcinia atragenes Liro SPECIES
 
 #### Status
 ACCEPTED

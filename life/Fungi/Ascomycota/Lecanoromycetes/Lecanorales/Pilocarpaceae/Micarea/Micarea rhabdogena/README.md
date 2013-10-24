@@ -1,5 +1,4 @@
-Micarea rhabdogena (Norman) Hedl. SPECIES
-=======
+# Micarea rhabdogena (Norman) Hedl. SPECIES
 
 #### Status
 ACCEPTED

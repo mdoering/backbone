@@ -1,5 +1,4 @@
-Hapalosiphon stuhlmannii Hieronimus SPECIES
-=======
+# Hapalosiphon stuhlmannii Hieronimus SPECIES
 
 #### Status
 ACCEPTED

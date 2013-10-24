@@ -1,5 +1,4 @@
-Phyllosticta daemonoropis Sacc. SPECIES
-=======
+# Phyllosticta daemonoropis Sacc. SPECIES
 
 #### Status
 ACCEPTED

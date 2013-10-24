@@ -1,17 +1,16 @@
-Stagonospora nyssaecola Fairm. SPECIES
-=======
+# Stagonospora nyssicola Fairm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Rochester Acad. Sci. 6: 122 (1922)
 
 #### Original name
-Stagonospora nyssaecola Fairm.
+Stagonospora nyssicola Fairm.
 
 ### Remarks
 null

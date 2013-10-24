@@ -1,5 +1,4 @@
-Ustilago ixiolirii L. Guo SPECIES
-=======
+# Ustilago ixiolirii L. Guo SPECIES
 
 #### Status
 ACCEPTED

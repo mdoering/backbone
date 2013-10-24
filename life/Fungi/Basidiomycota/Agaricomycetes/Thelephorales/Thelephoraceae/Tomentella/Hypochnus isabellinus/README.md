@@ -1,5 +1,4 @@
-Hypochnus isabellinus J. Schröt. SPECIES
-=======
+# Hypochnus isabellinus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

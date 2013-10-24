@@ -1,5 +1,4 @@
-Asterina gerbericola Doidge SPECIES
-=======
+# Asterina gerbericola Doidge SPECIES
 
 #### Status
 ACCEPTED

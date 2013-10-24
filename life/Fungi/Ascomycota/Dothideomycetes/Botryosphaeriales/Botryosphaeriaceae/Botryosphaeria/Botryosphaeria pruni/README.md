@@ -1,5 +1,4 @@
-Botryosphaeria pruni McAlpine SPECIES
-=======
+# Botryosphaeria pruni McAlpine SPECIES
 
 #### Status
 ACCEPTED

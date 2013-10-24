@@ -1,5 +1,4 @@
-Eouvigerina gracilis Cushman SPECIES
-=======
+# Eouvigerina gracilis Cushman SPECIES
 
 #### Status
 ACCEPTED

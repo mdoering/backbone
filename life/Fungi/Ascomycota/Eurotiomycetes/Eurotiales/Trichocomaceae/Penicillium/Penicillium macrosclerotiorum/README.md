@@ -1,5 +1,4 @@
-Penicillium macrosclerotiorum L. Wang, X.M. Zhang & W.Y. Zhuang SPECIES
-=======
+# Penicillium macrosclerotiorum L. Wang, X.M. Zhang & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

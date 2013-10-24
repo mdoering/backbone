@@ -1,5 +1,4 @@
-Cenangella flavocinerea (W. Phillips) Sacc. SPECIES
-=======
+# Cenangella flavocinerea (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

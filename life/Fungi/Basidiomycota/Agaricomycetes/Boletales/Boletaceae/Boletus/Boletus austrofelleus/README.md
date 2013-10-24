@@ -1,5 +1,4 @@
-Boletus austrofelleus Cleland SPECIES
-=======
+# Boletus austrofelleus Cleland SPECIES
 
 #### Status
 ACCEPTED

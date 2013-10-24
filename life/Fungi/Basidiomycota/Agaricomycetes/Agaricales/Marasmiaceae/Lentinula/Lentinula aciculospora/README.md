@@ -1,5 +1,4 @@
-Lentinula aciculospora J.L. Mata & R.H. Petersen, 2000 SPECIES
-=======
+# Lentinula aciculospora J.L. Mata & R.H. Petersen, 2000 SPECIES
 
 #### Status
 ACCEPTED

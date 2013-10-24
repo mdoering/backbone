@@ -1,5 +1,4 @@
-Didymella appendiculata Starbäck SPECIES
-=======
+# Didymella appendiculata Starbäck SPECIES
 
 #### Status
 ACCEPTED

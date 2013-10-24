@@ -1,5 +1,4 @@
-Taphrina coryli Nishida SPECIES
-=======
+# Taphrina coryli Nishida SPECIES
 
 #### Status
 ACCEPTED

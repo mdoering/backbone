@@ -1,5 +1,4 @@
-Ophionectria globosa Sawada SPECIES
-=======
+# Ophionectria globosa Sawada SPECIES
 
 #### Status
 ACCEPTED

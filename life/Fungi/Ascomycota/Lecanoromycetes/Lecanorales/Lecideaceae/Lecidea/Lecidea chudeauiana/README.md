@@ -1,5 +1,4 @@
-Lecidea chudeauiana Hue SPECIES
-=======
+# Lecidea chudeauiana Hue SPECIES
 
 #### Status
 ACCEPTED

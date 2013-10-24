@@ -1,5 +1,4 @@
-Clitocybe morganii (Peck) H.E. Bigelow SPECIES
-=======
+# Clitocybe morganii (Peck) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

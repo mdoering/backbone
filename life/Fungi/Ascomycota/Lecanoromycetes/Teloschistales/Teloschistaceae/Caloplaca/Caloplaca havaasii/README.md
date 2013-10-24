@@ -1,5 +1,4 @@
-Caloplaca havaasii H. Magn. SPECIES
-=======
+# Caloplaca havaasii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

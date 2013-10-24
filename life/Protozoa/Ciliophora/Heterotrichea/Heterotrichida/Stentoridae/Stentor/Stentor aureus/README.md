@@ -1,5 +1,4 @@
-Stentor aureus Ehrenberg, 1835 SPECIES
-=======
+# Stentor aureus Ehrenberg, 1835 SPECIES
 
 #### Status
 ACCEPTED

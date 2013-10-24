@@ -1,17 +1,16 @@
-Bivonella (Sacc.) Sacc. GENUS
-=======
+# Thyridium Nitschke, 1867 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Syll. fung. (Abellini) 9: 989 (1891)
+Pyrenomycetes Germanici 1: 110 (1867)
 
 #### Original name
-null
+Thyridium Nitschke, 1867
 
 ### Remarks
 null

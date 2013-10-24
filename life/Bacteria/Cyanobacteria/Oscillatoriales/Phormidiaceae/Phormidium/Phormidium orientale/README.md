@@ -1,5 +1,4 @@
-Phormidium orientale G. S. West SPECIES
-=======
+# Phormidium orientale G. S. West SPECIES
 
 #### Status
 ACCEPTED

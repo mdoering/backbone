@@ -1,5 +1,4 @@
-Anaerobranca Engle et al., 1995 GENUS
-=======
+# Anaerobranca Engle et al., 1995 GENUS
 
 #### Status
 ACCEPTED

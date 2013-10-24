@@ -1,5 +1,4 @@
-Hyalococcus GENUS
-=======
+# Hyalococcus GENUS
 
 #### Status
 ACCEPTED

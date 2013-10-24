@@ -1,5 +1,4 @@
-Irenopsis acridocarpicola Hansf. & Deighton SPECIES
-=======
+# Irenopsis acridocarpicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

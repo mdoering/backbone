@@ -1,5 +1,4 @@
-Laurera exostemmatis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera exostemmatis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

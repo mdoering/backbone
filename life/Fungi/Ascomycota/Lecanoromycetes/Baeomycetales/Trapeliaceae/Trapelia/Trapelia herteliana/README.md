@@ -1,5 +1,4 @@
-Trapelia herteliana Fryday SPECIES
-=======
+# Trapelia herteliana Fryday SPECIES
 
 #### Status
 ACCEPTED

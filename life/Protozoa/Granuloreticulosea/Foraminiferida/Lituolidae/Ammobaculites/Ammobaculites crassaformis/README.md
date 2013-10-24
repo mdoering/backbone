@@ -1,5 +1,4 @@
-Ammobaculites crassaformis Zheng, 1988 SPECIES
-=======
+# Ammobaculites crassaformis Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

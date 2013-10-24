@@ -1,5 +1,4 @@
-Priscogalea perlucida N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
-=======
+# Priscogalea perlucida N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
 
 #### Status
 ACCEPTED

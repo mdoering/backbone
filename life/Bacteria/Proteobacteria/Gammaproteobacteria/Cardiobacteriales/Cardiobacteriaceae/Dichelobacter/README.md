@@ -1,5 +1,4 @@
-Dichelobacter Dewhirst, Paster, La Fontaine & Rood, 1990 GENUS
-=======
+# Dichelobacter Dewhirst, Paster, La Fontaine & Rood, 1990 GENUS
 
 #### Status
 ACCEPTED

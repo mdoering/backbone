@@ -1,5 +1,4 @@
-Thurammina compressa Brady, 1879 SPECIES
-=======
+# Thurammina compressa Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

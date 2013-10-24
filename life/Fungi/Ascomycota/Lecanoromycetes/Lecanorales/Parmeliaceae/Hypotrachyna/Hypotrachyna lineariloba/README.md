@@ -1,17 +1,16 @@
-Parmelia lineariloba Kurok. SPECIES
-=======
+# Hypotrachyna lineariloba (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 45 (1975)
 
 #### Original name
-null
+Parmelia lineariloba Kurok.
 
 ### Remarks
 null

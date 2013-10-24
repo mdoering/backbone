@@ -1,5 +1,4 @@
-Isaria cateniobliqua (Z.Q. Liang) Samson & Hywel-Jones, 2005 SPECIES
-=======
+# Isaria cateniobliqua (Z.Q. Liang) Samson & Hywel-Jones, 2005 SPECIES
 
 #### Status
 ACCEPTED

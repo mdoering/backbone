@@ -1,5 +1,4 @@
-Meliola melanochaeta Syd. SPECIES
-=======
+# Meliola melanochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

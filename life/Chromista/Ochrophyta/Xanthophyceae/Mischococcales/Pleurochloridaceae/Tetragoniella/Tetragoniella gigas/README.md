@@ -1,5 +1,4 @@
-Tetragoniella gigas Pascher SPECIES
-=======
+# Tetragoniella gigas Pascher SPECIES
 
 #### Status
 ACCEPTED

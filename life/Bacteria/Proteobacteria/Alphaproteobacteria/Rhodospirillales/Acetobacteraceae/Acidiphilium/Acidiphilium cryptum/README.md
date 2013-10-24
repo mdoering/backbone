@@ -1,5 +1,4 @@
-Acidiphilium cryptum Harrison, 1981 SPECIES
-=======
+# Acidiphilium cryptum Harrison, 1981 SPECIES
 
 #### Status
 ACCEPTED

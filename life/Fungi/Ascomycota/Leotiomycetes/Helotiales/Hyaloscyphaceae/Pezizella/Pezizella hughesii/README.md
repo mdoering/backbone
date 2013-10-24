@@ -1,5 +1,4 @@
-Pezizella hughesii Dennis, 1971 SPECIES
-=======
+# Pezizella hughesii Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED

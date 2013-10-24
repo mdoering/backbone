@@ -1,5 +1,4 @@
-Pythium iwayamae S. Ito SPECIES
-=======
+# Pythium iwayamae S. Ito SPECIES
 
 #### Status
 ACCEPTED

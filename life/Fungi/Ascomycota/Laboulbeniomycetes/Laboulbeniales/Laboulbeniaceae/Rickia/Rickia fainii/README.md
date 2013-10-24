@@ -1,5 +1,4 @@
-Rickia fainii Balazuc SPECIES
-=======
+# Rickia fainii Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hainesia zavrelii-ignatii Picb. SPECIES
-=======
+# Hainesia zavrelii-ignatii Picb. SPECIES
 
 #### Status
 ACCEPTED

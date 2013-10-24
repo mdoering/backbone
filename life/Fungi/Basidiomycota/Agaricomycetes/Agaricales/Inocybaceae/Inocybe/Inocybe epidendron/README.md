@@ -1,5 +1,4 @@
-Inocybe epidendron Matheny, Aime & T.W. Henkel SPECIES
-=======
+# Inocybe epidendron Matheny, Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

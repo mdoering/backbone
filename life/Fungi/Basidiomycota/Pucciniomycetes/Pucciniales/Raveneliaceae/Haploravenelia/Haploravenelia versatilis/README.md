@@ -1,5 +1,4 @@
-Haploravenelia versatilis (Dietel) Syd. SPECIES
-=======
+# Haploravenelia versatilis (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

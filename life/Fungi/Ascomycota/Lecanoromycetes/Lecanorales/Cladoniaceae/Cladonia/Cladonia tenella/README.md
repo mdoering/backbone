@@ -1,5 +1,4 @@
-Cladonia tenella Delise ex Schaer. SPECIES
-=======
+# Cladonia tenella Delise ex Schaer. SPECIES
 
 #### Status
 ACCEPTED

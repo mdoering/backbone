@@ -1,5 +1,4 @@
-Colletotrichum andropogonis Zimm. SPECIES
-=======
+# Colletotrichum andropogonis Zimm. SPECIES
 
 #### Status
 ACCEPTED

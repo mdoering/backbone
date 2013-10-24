@@ -1,5 +1,4 @@
-Lactarius fumosus var. fumosus VARIETY
-=======
+# Lactarius fumosus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. 24: 74 (1872)
 
 #### Original name
-Lactarius fumosus var. fumosus
+Lactarius fumosus Peck
 
 ### Remarks
 null

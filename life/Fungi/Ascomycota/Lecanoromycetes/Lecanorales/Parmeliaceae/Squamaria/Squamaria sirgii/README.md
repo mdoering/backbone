@@ -1,5 +1,4 @@
-Squamaria sirgii Colmeiro SPECIES
-=======
+# Squamaria sirgii Colmeiro SPECIES
 
 #### Status
 ACCEPTED

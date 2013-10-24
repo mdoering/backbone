@@ -1,5 +1,4 @@
-Schizocapnodium GENUS
-=======
+# Schizocapnodium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium galeaeforme Matzenauer, 1933 SPECIES
-=======
+# Gymnodinium galeaeforme Matzenauer, 1933 SPECIES
 
 #### Status
 ACCEPTED

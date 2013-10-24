@@ -1,5 +1,4 @@
-Trachelomonas mamillosa Prescott SPECIES
-=======
+# Trachelomonas mamillosa Prescott SPECIES
 
 #### Status
 ACCEPTED

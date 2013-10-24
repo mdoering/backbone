@@ -1,5 +1,4 @@
-Agaricus kiboga Henn. SPECIES
-=======
+# Agaricus kiboga Henn. SPECIES
 
 #### Status
 ACCEPTED

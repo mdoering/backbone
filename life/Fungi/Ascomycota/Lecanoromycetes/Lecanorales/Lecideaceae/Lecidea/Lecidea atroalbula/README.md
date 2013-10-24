@@ -1,5 +1,4 @@
-Lecidea atroalbula Nyl. SPECIES
-=======
+# Lecidea atroalbula Nyl. SPECIES
 
 #### Status
 ACCEPTED

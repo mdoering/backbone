@@ -1,5 +1,4 @@
-Cortinarius ignivelatus Reumaux SPECIES
-=======
+# Cortinarius ignivelatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

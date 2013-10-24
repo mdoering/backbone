@@ -1,5 +1,4 @@
-Diplodia clavuligera (Sacc.) Grove SPECIES
-=======
+# Diplodia clavuligera (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalectidium rosae-emiliae Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium rosae-emiliae Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphidomyces Brain GENUS
-=======
+# Aphidomyces Brain GENUS
 
 #### Status
 ACCEPTED

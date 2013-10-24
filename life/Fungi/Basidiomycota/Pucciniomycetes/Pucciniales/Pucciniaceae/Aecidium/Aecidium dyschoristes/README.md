@@ -1,5 +1,4 @@
-Aecidium dyschoristes Cummins SPECIES
-=======
+# Aecidium dyschoristes Cummins SPECIES
 
 #### Status
 ACCEPTED

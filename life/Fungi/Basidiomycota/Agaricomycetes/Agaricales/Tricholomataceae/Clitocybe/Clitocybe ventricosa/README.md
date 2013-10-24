@@ -1,5 +1,4 @@
-Clitocybe ventricosa Velen. SPECIES
-=======
+# Clitocybe ventricosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jola minima Rick SPECIES
-=======
+# Jola minima Rick SPECIES
 
 #### Status
 ACCEPTED

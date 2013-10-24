@@ -1,5 +1,4 @@
-Caloplaca laciniosa (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca laciniosa (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

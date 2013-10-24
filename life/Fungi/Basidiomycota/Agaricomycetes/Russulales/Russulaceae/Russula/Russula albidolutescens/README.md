@@ -1,5 +1,4 @@
-Russula albidolutescens Gillet SPECIES
-=======
+# Russula albidolutescens Gillet SPECIES
 
 #### Status
 ACCEPTED

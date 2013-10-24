@@ -1,5 +1,4 @@
-Letrouitia leprolytoides S. Y. Kondr. & Elix SPECIES
-=======
+# Letrouitia leprolytoides S. Y. Kondr. & Elix SPECIES
 
 #### Status
 ACCEPTED

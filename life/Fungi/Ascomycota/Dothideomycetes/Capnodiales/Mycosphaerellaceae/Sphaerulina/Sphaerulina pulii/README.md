@@ -1,5 +1,4 @@
-Sphaerulina pulii J.M. Yen SPECIES
-=======
+# Sphaerulina pulii J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta gracilispora Punith., 1979 SPECIES
-=======
+# Ascochyta gracilispora Punith., 1979 SPECIES
 
 #### Status
 ACCEPTED

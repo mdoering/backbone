@@ -1,5 +1,4 @@
-Uromyces insignis Syd. & P. Syd. SPECIES
-=======
+# Uromyces insignis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

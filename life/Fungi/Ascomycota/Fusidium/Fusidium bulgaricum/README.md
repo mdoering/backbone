@@ -1,5 +1,4 @@
-Fusidium bulgaricum Bubák & Picb. SPECIES
-=======
+# Fusidium bulgaricum Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus galeroides Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus galeroides Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

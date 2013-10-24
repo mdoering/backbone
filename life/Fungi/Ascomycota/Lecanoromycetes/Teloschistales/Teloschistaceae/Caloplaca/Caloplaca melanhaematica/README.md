@@ -1,5 +1,4 @@
-Caloplaca melanhaematica (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca melanhaematica (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

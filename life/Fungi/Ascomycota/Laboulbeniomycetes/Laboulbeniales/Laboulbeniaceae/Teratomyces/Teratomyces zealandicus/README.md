@@ -1,17 +1,16 @@
-Teratomyces zelandicus Thaxt. SPECIES
-=======
+# Teratomyces zealandicus Thaxt., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 37: 35 (1901)
 
 #### Original name
-Teratomyces zelandicus Thaxt.
+Teratomyces zealandicus Thaxt., 1901
 
 ### Remarks
 null

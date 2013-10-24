@@ -1,5 +1,4 @@
-Hydrogenothermaceae Eder & Huber, 2003 FAMILY
-=======
+# Hydrogenothermaceae Eder & Huber, 2003 FAMILY
 
 #### Status
 ACCEPTED

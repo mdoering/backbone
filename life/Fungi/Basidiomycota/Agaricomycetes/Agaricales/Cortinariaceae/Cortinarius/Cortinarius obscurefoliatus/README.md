@@ -1,5 +1,4 @@
-Cortinarius obscurefoliatus Rob. Henry SPECIES
-=======
+# Cortinarius obscurefoliatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

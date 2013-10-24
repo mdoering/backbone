@@ -1,5 +1,4 @@
-Abyssotherma Brönnimann, Van Dover & Whittaker, 1989 GENUS
-=======
+# Abyssotherma Brönnimann, Van Dover & Whittaker, 1989 GENUS
 
 #### Status
 ACCEPTED

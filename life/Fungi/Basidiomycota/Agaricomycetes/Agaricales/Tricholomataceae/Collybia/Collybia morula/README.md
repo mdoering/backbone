@@ -1,5 +1,4 @@
-Collybia morula (Berk.) Sacc. SPECIES
-=======
+# Collybia morula (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

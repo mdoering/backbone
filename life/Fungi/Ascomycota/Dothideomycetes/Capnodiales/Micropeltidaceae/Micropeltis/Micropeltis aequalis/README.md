@@ -1,5 +1,4 @@
-Micropeltis aequalis (Syd. & P. Syd.) F. Stevens & Manter SPECIES
-=======
+# Micropeltis aequalis (Syd. & P. Syd.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

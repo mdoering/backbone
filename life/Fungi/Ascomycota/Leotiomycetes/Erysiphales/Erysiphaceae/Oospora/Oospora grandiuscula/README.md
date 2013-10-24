@@ -1,5 +1,4 @@
-Oospora grandiuscula Sacc. & Marchal SPECIES
-=======
+# Oospora grandiuscula Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

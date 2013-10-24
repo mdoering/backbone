@@ -1,5 +1,4 @@
-Caloramator proteoclasticus Tarlera et al., 1997 SPECIES
-=======
+# Caloramator proteoclasticus Tarlera et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

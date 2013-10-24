@@ -1,5 +1,4 @@
-Schematophora G. Deflandre & I.C. Cookson, 1955 GENUS
-=======
+# Schematophora G. Deflandre & I.C. Cookson, 1955 GENUS
 
 #### Status
 ACCEPTED

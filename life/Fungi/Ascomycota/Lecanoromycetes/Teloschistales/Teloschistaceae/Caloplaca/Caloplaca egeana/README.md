@@ -1,5 +1,4 @@
-Caloplaca egeana Cl. Roux & Nav.-Ros. SPECIES
-=======
+# Caloplaca egeana Cl. Roux & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

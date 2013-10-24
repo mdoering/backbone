@@ -1,5 +1,4 @@
-Arthonia pauciseptata Vain. SPECIES
-=======
+# Arthonia pauciseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

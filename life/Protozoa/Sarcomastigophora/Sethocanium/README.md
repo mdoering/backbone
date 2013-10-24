@@ -1,5 +1,4 @@
-Sethocanium Nishimura, 1990 GENUS
-=======
+# Sethocanium Nishimura, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadiplodia tephrostoma f. tephrostoma FORM
-=======
+# Metadiplodia tephrostoma (Lév.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 70(3): 287 (1955)
 
 #### Original name
-Metadiplodia tephrostoma f. tephrostoma
+Diplodia tephrostoma Lév.
 
 ### Remarks
 null

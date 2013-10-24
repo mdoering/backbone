@@ -1,5 +1,4 @@
-Lecidea endochlora Taylor SPECIES
-=======
+# Lecidea endochlora Taylor SPECIES
 
 #### Status
 ACCEPTED

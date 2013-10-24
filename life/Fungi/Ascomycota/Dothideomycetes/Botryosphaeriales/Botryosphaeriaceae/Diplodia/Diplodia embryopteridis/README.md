@@ -1,5 +1,4 @@
-Diplodia embryopteridis Cooke SPECIES
-=======
+# Diplodia embryopteridis Cooke SPECIES
 
 #### Status
 ACCEPTED

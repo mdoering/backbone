@@ -1,5 +1,4 @@
-Wettsteinina phragmosporae Otani SPECIES
-=======
+# Wettsteinina phragmosporae Otani SPECIES
 
 #### Status
 ACCEPTED

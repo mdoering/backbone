@@ -1,5 +1,4 @@
-Phaeosphaeria glebosoverrucosa Nograsek SPECIES
-=======
+# Phaeosphaeria glebosoverrucosa Nograsek SPECIES
 
 #### Status
 ACCEPTED

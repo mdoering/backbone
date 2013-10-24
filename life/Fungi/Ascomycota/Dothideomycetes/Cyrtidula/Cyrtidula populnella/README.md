@@ -1,5 +1,4 @@
-Cyrtidula populnella (Nyl.) Minks SPECIES
-=======
+# Cyrtidula populnella (Nyl.) Minks SPECIES
 
 #### Status
 ACCEPTED

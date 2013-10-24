@@ -1,5 +1,4 @@
-Silvimonas terrae Yang et al., 2005 SPECIES
-=======
+# Silvimonas terrae Yang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria lonicerina (P. Karst.) L. Holm SPECIES
-=======
+# Leptosphaeria lonicerina (P. Karst.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

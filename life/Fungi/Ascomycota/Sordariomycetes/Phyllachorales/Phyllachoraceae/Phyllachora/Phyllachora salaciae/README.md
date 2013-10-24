@@ -1,14 +1,13 @@
-Sirentyloma salaciae Henn., 1895 SPECIES
-=======
+# Phyllachora salaciae (Henn.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 34: 319 (1895)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 931 (1910)
 
 #### Original name
 Sirentyloma salaciae Henn., 1895

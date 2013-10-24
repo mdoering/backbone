@@ -1,5 +1,4 @@
-Rickia inclusa Thaxt. SPECIES
-=======
+# Rickia inclusa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

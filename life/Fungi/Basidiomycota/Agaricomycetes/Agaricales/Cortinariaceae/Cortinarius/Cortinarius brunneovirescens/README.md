@@ -1,5 +1,4 @@
-Cortinarius brunneovirescens M.M. Moser SPECIES
-=======
+# Cortinarius brunneovirescens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

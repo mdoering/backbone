@@ -1,5 +1,4 @@
-Plexostroma A.G. Vologdin, 1962 GENUS
-=======
+# Plexostroma A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

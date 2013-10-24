@@ -1,5 +1,4 @@
-Reticulatisporonites argentinus R.K. Jain SPECIES
-=======
+# Reticulatisporonites argentinus R.K. Jain SPECIES
 
 #### Status
 ACCEPTED

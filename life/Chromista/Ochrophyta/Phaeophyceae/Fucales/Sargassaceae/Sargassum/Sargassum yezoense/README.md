@@ -1,8 +1,7 @@
-Sargassum sagamianum var. yezoense Yamada VARIETY
-=======
+# Sargassum yezoense (Yamada) Yoshida & T. Konno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

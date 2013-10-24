@@ -1,5 +1,4 @@
-Doliomyces mysorensis Nag Raj & W.B. Kendr. SPECIES
-=======
+# Doliomyces mysorensis Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

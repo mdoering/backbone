@@ -1,5 +1,4 @@
-Ampullifera amoeboides (Bat. & Cavalc.) D. Hawksw. SPECIES
-=======
+# Ampullifera amoeboides (Bat. & Cavalc.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium celosiae Jacz. SPECIES
-=======
+# Oidium celosiae Jacz. SPECIES
 
 #### Status
 ACCEPTED

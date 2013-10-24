@@ -1,5 +1,4 @@
-Oscillatoria littoralis Carmichael SPECIES
-=======
+# Oscillatoria littoralis Carmichael SPECIES
 
 #### Status
 ACCEPTED

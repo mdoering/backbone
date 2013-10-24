@@ -1,5 +1,4 @@
-Aedycia discolor (Kalchbr.) Kuntze SPECIES
-=======
+# Aedycia discolor (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

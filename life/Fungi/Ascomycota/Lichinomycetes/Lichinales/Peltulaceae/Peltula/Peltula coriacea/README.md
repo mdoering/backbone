@@ -1,5 +1,4 @@
-Peltula coriacea Büdel, Henssen & Wessels SPECIES
-=======
+# Peltula coriacea Büdel, Henssen & Wessels SPECIES
 
 #### Status
 ACCEPTED

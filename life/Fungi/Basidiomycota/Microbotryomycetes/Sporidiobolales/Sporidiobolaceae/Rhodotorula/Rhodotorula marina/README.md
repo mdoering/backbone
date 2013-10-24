@@ -1,5 +1,4 @@
-Rhodotorula marina Phaff, Mrak & O.B. Williams, 1952 SPECIES
-=======
+# Rhodotorula marina Phaff, Mrak & O.B. Williams, 1952 SPECIES
 
 #### Status
 ACCEPTED

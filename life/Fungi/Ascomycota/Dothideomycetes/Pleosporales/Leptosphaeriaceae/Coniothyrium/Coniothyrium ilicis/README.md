@@ -1,5 +1,4 @@
-Coniothyrium ilicis A.L. Sm. & Ramsb., 1917 SPECIES
-=======
+# Coniothyrium ilicis A.L. Sm. & Ramsb., 1917 SPECIES
 
 #### Status
 ACCEPTED

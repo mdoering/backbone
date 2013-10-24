@@ -1,5 +1,4 @@
-Hypoxylonites brazosensis Elsik SPECIES
-=======
+# Hypoxylonites brazosensis Elsik SPECIES
 
 #### Status
 ACCEPTED

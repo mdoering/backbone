@@ -1,5 +1,4 @@
-Ophiobolus coicis Luc SPECIES
-=======
+# Ophiobolus coicis Luc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulinopsis coliformis (Boud.) Corner SPECIES
-=======
+# Clavulinopsis coliformis (Boud.) Corner SPECIES
 
 #### Status
 ACCEPTED

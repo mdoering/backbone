@@ -1,5 +1,4 @@
-Amphitetras conciliata var. validior (Pantocsek) De Toni VARIETY
-=======
+# Amphitetras conciliata (Pantocsek) De Toni SPECIES
 
 #### Status
 ACCEPTED

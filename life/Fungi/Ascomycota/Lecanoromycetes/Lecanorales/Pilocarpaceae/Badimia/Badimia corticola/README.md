@@ -1,5 +1,4 @@
-Badimia corticola Kalb & Vezda SPECIES
-=======
+# Badimia corticola Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium brunneum Schulzer & Sacc. SPECIES
-=======
+# Helicosporium brunneum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

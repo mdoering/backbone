@@ -1,5 +1,4 @@
-Leptotrema desquamescens var. desquamescens VARIETY
-=======
+# Leptotrema desquamescens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 633 (1923)
+null
 
 #### Original name
-Leptotrema desquamescens var. desquamescens
+null
 
 ### Remarks
 null

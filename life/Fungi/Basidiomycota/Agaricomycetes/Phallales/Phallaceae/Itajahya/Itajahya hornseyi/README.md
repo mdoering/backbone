@@ -1,5 +1,4 @@
-Itajahya hornseyi Hansf. SPECIES
-=======
+# Itajahya hornseyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

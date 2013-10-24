@@ -1,5 +1,4 @@
-Monosporium boletorum Schulzer SPECIES
-=======
+# Monosporium boletorum Schulzer SPECIES
 
 #### Status
 ACCEPTED

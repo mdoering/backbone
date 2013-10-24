@@ -1,5 +1,4 @@
-Uromyces tessariae (Speg.) J.C. Lindq. SPECIES
-=======
+# Uromyces tessariae (Speg.) J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

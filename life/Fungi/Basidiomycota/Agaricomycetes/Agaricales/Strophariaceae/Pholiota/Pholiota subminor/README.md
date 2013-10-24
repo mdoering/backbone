@@ -1,5 +1,4 @@
-Pholiota subminor A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subminor A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

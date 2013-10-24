@@ -1,5 +1,4 @@
-Marasmius pleuracanthus Singer SPECIES
-=======
+# Marasmius pleuracanthus Singer SPECIES
 
 #### Status
 ACCEPTED

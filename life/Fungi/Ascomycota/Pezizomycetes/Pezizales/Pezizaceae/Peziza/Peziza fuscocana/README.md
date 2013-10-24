@@ -1,5 +1,4 @@
-Peziza fuscocana Alb. & Schwein. SPECIES
-=======
+# Peziza fuscocana Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius euchrous Rob. Henry SPECIES
-=======
+# Cortinarius euchrous Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

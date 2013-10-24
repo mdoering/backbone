@@ -1,5 +1,4 @@
-Gymnopus altrigilvus Murrill SPECIES
-=======
+# Gymnopus altrigilvus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe sempervivae R. Heim & Cailleux SPECIES
-=======
+# Psilocybe sempervivae R. Heim & Cailleux SPECIES
 
 #### Status
 ACCEPTED

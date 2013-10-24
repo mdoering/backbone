@@ -1,17 +1,16 @@
-Aspicilia caesiocinerea var. caesiocinerea VARIETY
-=======
+# Circinaria caesiocinerea (Nyl. ex Malbr.) A. Nordin, Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 36: 67 (1886)
+null
 
 #### Original name
-Aspicilia caesiocinerea var. caesiocinerea
+null
 
 ### Remarks
 null

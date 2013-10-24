@@ -1,14 +1,13 @@
-Chaetopsina keniensis P.M. Kirk, 1985 SPECIES
-=======
+# Kionochaeta keniensis (P.M. Kirk) P.M. Kirk & B. Sutton, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 23: 314 (1985)
+Trans. Br. mycol. Soc. 85(4): 714 (1986)
 
 #### Original name
 Chaetopsina keniensis P.M. Kirk, 1985

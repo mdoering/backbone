@@ -1,5 +1,4 @@
-Phyllosticta pulmonariae (Fuckel) Sacc. SPECIES
-=======
+# Phyllosticta pulmonariae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

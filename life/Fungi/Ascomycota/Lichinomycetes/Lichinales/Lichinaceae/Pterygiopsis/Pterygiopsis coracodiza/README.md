@@ -1,14 +1,13 @@
-Collemopsis coracodiza Nyl. SPECIES
-=======
+# Pterygiopsis coracodiza (Nyl.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 61: 241 (1878)
+in Henssen & Jørgensen, Lichenologist 22(2): 143 (1990)
 
 #### Original name
 Collemopsis coracodiza Nyl.

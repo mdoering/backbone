@@ -1,5 +1,4 @@
-Gaeumannomyces incrustans Landsch. & N. Jacks. SPECIES
-=======
+# Gaeumannomyces incrustans Landsch. & N. Jacks. SPECIES
 
 #### Status
 ACCEPTED

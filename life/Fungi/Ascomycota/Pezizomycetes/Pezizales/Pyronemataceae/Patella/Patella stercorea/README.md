@@ -1,5 +1,4 @@
-Patella stercorea F.H. Wigg. SPECIES
-=======
+# Patella stercorea F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

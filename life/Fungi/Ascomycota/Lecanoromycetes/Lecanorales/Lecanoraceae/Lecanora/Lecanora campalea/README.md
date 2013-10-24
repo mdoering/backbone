@@ -1,5 +1,4 @@
-Lecanora campalea Tuck. SPECIES
-=======
+# Lecanora campalea Tuck. SPECIES
 
 #### Status
 ACCEPTED

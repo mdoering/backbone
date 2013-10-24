@@ -1,5 +1,4 @@
-Castanarium Haeckel, 1887 GENUS
-=======
+# Castanarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

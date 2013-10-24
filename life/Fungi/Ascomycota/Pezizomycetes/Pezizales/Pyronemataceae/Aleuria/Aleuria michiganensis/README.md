@@ -1,5 +1,4 @@
-Aleuria michiganensis Kanouse SPECIES
-=======
+# Aleuria michiganensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia longipedicellata T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Diplodia longipedicellata T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

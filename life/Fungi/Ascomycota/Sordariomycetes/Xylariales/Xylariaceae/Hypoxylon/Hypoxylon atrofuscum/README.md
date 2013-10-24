@@ -1,5 +1,4 @@
-Hypoxylon atrofuscum (Berk. & M.A. Curtis ex Cooke) Ellis & Everh. SPECIES
-=======
+# Hypoxylon atrofuscum (Berk. & M.A. Curtis ex Cooke) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus wasseri Bon & Courtec. SPECIES
-=======
+# Agaricus wasseri Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

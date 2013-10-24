@@ -1,5 +1,4 @@
-Gloeosporidium anomalum Höhn. SPECIES
-=======
+# Gloeosporidium anomalum Höhn. SPECIES
 
 #### Status
 ACCEPTED

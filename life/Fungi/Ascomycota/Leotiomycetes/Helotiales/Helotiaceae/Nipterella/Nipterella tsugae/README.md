@@ -1,5 +1,4 @@
-Nipterella tsugae A. Funk, 1978 SPECIES
-=======
+# Nipterella tsugae A. Funk, 1978 SPECIES
 
 #### Status
 ACCEPTED

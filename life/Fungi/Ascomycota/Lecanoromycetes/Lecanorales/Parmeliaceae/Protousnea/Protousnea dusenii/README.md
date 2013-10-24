@@ -1,5 +1,4 @@
-Protousnea dusenii (Du Rietz) Krog SPECIES
-=======
+# Protousnea dusenii (Du Rietz) Krog SPECIES
 
 #### Status
 ACCEPTED

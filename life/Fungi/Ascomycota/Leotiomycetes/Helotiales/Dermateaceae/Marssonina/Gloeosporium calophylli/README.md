@@ -1,5 +1,4 @@
-Gloeosporium calophylli Trel. SPECIES
-=======
+# Gloeosporium calophylli Trel. SPECIES
 
 #### Status
 ACCEPTED

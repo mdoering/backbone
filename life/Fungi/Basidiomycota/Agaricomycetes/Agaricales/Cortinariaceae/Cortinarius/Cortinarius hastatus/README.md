@@ -1,5 +1,4 @@
-Cortinarius hastatus Courtec. SPECIES
-=======
+# Cortinarius hastatus Courtec. SPECIES
 
 #### Status
 ACCEPTED

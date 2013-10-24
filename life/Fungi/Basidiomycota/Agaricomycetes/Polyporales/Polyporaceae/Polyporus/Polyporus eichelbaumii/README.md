@@ -1,5 +1,4 @@
-Polyporus eichelbaumii Henn. SPECIES
-=======
+# Polyporus eichelbaumii Henn. SPECIES
 
 #### Status
 ACCEPTED

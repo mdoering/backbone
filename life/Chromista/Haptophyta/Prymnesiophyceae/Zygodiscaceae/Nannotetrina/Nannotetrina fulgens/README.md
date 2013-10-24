@@ -1,5 +1,4 @@
-Nannotetrina fulgens (Stradner, 1960) Achuthan & Stradner, 1969 SPECIES
-=======
+# Nannotetrina fulgens (Stradner, 1960) Achuthan & Stradner, 1969 SPECIES
 
 #### Status
 ACCEPTED

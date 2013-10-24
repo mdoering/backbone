@@ -1,5 +1,4 @@
-Sphaerella erythroxyli Speg. SPECIES
-=======
+# Sphaerella erythroxyli Speg. SPECIES
 
 #### Status
 ACCEPTED

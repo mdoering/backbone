@@ -1,5 +1,4 @@
-Macrosporium canificans Thüm. ex Sacc. SPECIES
-=======
+# Macrosporium canificans Thüm. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

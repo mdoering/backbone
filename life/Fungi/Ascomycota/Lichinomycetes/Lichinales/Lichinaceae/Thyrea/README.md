@@ -1,17 +1,16 @@
-Schizoma Nyl. ex Cromb. GENUS
-=======
+# Thyrea A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Lich. Brit. 1: 38 (1894)
+Sched. critic. 75 (1856)
 
 #### Original name
-Schizoma Nyl. ex Cromb.
+Thyrea A. Massal.
 
 ### Remarks
 null

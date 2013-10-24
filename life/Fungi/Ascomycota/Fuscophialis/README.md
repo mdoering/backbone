@@ -1,5 +1,4 @@
-Fuscophialis B. Sutton GENUS
-=======
+# Fuscophialis B. Sutton GENUS
 
 #### Status
 ACCEPTED

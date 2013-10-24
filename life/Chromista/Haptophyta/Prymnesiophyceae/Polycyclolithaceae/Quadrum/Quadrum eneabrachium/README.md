@@ -1,5 +1,4 @@
-Quadrum eneabrachium SPECIES
-=======
+# Quadrum eneabrachium SPECIES
 
 #### Status
 ACCEPTED

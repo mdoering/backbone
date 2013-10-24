@@ -1,5 +1,4 @@
-Thermanaeromonas toyohensis Mori et al., 2002 SPECIES
-=======
+# Thermanaeromonas toyohensis Mori et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

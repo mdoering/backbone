@@ -1,5 +1,4 @@
-Valsa sallei (Berk.) Cooke SPECIES
-=======
+# Valsa sallei (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

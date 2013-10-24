@@ -1,5 +1,4 @@
-Leptosphaeria polylepidis Macía, M.E. Palm & M.P. Martín, 2005 SPECIES
-=======
+# Leptosphaeria polylepidis Macía, M.E. Palm & M.P. Martín, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora gymnopetali Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora gymnopetali Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

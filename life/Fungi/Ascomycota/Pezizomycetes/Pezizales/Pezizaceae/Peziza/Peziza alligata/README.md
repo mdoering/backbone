@@ -1,5 +1,4 @@
-Peziza alligata Berk. & Broome SPECIES
-=======
+# Peziza alligata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

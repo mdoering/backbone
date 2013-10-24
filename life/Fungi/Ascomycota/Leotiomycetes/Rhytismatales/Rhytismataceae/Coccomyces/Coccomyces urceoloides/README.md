@@ -1,5 +1,4 @@
-Coccomyces urceoloides Spooner, 1990 SPECIES
-=======
+# Coccomyces urceoloides Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

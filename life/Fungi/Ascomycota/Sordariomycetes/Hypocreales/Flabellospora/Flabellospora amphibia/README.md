@@ -1,14 +1,13 @@
-Tetracrium amphibium I.P. Price & P.H.B. Talbot, 1966 SPECIES
-=======
+# Flabellospora amphibia (I.P. Price & P.H.B. Talbot) Descals, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 14: 20 (1966)
+in Descals & Webster, Trans. Br. mycol. Soc. 78(3): 414 (1982)
 
 #### Original name
 Tetracrium amphibium I.P. Price & P.H.B. Talbot, 1966

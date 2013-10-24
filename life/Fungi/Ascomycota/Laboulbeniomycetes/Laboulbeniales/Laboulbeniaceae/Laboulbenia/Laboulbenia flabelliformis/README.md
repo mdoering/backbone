@@ -1,5 +1,4 @@
-Laboulbenia flabelliformis K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia flabelliformis K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

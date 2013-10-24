@@ -1,5 +1,4 @@
-Patellina pusilla E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Patellina pusilla E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

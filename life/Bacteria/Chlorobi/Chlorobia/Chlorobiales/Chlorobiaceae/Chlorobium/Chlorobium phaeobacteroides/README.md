@@ -1,8 +1,7 @@
-Pelodictyon phaeoclathratiforme Overmann & Pfennig, 1990 SPECIES
-=======
+# Chlorobium phaeobacteroides Pfennig, 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

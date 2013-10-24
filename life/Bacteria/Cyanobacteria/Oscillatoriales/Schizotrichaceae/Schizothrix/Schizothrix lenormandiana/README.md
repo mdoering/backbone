@@ -1,5 +1,4 @@
-Schizothrix lenormandiana f. maior Starmach FORM
-=======
+# Schizothrix lenormandiana SPECIES
 
 #### Status
 ACCEPTED

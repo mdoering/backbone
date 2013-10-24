@@ -1,5 +1,4 @@
-Xylosphaera gracillima (Fr.) Dennis SPECIES
-=======
+# Xylosphaera gracillima (Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

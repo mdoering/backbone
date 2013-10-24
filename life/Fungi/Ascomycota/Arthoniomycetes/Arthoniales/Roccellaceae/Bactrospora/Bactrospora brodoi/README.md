@@ -1,5 +1,4 @@
-Bactrospora brodoi Egea & Torrente SPECIES
-=======
+# Bactrospora brodoi Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

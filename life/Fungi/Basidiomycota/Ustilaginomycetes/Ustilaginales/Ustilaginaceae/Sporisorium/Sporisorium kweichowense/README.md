@@ -1,5 +1,4 @@
-Sporisorium kweichowense (Y.C. Wang) Vánky SPECIES
-=======
+# Sporisorium kweichowense (Y.C. Wang) Vánky SPECIES
 
 #### Status
 ACCEPTED

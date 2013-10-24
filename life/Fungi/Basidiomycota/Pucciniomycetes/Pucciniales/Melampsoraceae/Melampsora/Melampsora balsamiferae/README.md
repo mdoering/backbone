@@ -1,5 +1,4 @@
-Melampsora balsamiferae Thüm. SPECIES
-=======
+# Melampsora balsamiferae Thüm. SPECIES
 
 #### Status
 ACCEPTED

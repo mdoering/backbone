@@ -1,5 +1,4 @@
-Pseudomonas flavescens Hildebrand et al., 1994 SPECIES
-=======
+# Pseudomonas flavescens Hildebrand et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

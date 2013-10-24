@@ -1,17 +1,16 @@
-Dermatocarpon moulinsii var. moulinsii VARIETY
-=======
+# Dermatocarpon moulinsii (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Dermatocarpon moulinsii var. moulinsii
+Endocarpon moulinsii Mont.
 
 ### Remarks
 null

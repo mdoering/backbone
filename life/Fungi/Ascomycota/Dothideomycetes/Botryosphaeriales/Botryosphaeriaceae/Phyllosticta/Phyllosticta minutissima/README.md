@@ -1,5 +1,4 @@
-Phyllosticta minutissima Kabát & Bubák SPECIES
-=======
+# Phyllosticta minutissima Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

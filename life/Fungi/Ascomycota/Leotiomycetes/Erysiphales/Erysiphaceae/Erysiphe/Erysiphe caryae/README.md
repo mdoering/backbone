@@ -1,5 +1,4 @@
-Erysiphe caryae (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe caryae (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histioneis dentata Murray & Whitting, 1899 SPECIES
-=======
+# Histioneis dentata Murray & Whitting, 1899 SPECIES
 
 #### Status
 ACCEPTED

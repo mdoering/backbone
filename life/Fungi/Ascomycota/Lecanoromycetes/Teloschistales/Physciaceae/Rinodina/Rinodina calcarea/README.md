@@ -1,14 +1,13 @@
-Rinodina caesiella var. calcarea Hepp ex Arnold VARIETY
-=======
+# Rinodina calcarea (Arnold) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 43: 69 (1860)
+Verh. zool. -bot. Ges. Wein 29: 362 (1879)
 
 #### Original name
 Rinodina caesiella var. calcarea Hepp ex Arnold

@@ -1,5 +1,4 @@
-Septonema smilacinum Speg. SPECIES
-=======
+# Septonema smilacinum Speg. SPECIES
 
 #### Status
 ACCEPTED

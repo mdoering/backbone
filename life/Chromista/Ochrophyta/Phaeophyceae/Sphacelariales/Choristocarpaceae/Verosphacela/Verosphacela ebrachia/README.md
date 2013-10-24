@@ -1,5 +1,4 @@
-Verosphacela ebrachia E.C. Henry SPECIES
-=======
+# Verosphacela ebrachia E.C. Henry SPECIES
 
 #### Status
 ACCEPTED

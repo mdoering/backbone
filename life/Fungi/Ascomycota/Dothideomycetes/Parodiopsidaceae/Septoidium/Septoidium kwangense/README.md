@@ -1,5 +1,4 @@
-Septoidium kwangense (Henn.) Hansf. SPECIES
-=======
+# Septoidium kwangense (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

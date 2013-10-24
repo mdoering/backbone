@@ -1,5 +1,4 @@
-Mycosphaerella acori Höhn. SPECIES
-=======
+# Mycosphaerella acori Höhn. SPECIES
 
 #### Status
 ACCEPTED

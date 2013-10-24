@@ -1,5 +1,4 @@
-Sphaeridium candidum Fuckel, 1870 SPECIES
-=======
+# Sphaeridium candidum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella acaciae S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Anthostomella acaciae S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

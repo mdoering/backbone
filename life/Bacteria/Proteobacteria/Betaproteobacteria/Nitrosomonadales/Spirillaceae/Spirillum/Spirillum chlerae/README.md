@@ -1,5 +1,4 @@
-Spirillum chlerae SPECIES
-=======
+# Spirillum chlerae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Perforariomyces Cif. & Tomas. GENUS
-=======
+# Coccotrema Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 80 (1953)
+Miss. Sc. Cap Horn, Lich. 31 (1888)
 
 #### Original name
-Perforariomyces Cif. & Tomas.
+Coccotrema Müll. Arg.
 
 ### Remarks
 null

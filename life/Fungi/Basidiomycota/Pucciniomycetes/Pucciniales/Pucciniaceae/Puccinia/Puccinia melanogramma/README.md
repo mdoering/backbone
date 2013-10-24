@@ -1,5 +1,4 @@
-Puccinia melanogramma Unger SPECIES
-=======
+# Puccinia melanogramma Unger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Wardomyces aggregatus Malloch, 1970 SPECIES
-=======
+# Gamsia aggregata (Malloch) Kiffer & M. Morelet, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 48(5): 883 (1970)
+in Morelet, Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 47(2): 93 (1995)
 
 #### Original name
 Wardomyces aggregatus Malloch, 1970

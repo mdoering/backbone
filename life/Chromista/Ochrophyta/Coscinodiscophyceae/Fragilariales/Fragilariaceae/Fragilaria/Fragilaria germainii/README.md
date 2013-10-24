@@ -1,5 +1,4 @@
-Fragilaria germainii f. acostata Lange-Bertalot FORM
-=======
+# Fragilaria germainii E.Reichardt & Lange-Bertalot in Ricard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria weberi Oudem. SPECIES
-=======
+# Leptosphaeria weberi Oudem. SPECIES
 
 #### Status
 ACCEPTED

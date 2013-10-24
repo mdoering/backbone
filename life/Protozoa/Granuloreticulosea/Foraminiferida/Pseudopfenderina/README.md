@@ -1,5 +1,4 @@
-Pseudopfenderina Hottinger, 1967 GENUS
-=======
+# Pseudopfenderina Hottinger, 1967 GENUS
 
 #### Status
 ACCEPTED

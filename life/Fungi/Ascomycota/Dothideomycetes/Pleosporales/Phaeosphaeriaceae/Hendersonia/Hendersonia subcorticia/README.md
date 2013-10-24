@@ -1,5 +1,4 @@
-Hendersonia subcorticia Pass. SPECIES
-=======
+# Hendersonia subcorticia Pass. SPECIES
 
 #### Status
 ACCEPTED

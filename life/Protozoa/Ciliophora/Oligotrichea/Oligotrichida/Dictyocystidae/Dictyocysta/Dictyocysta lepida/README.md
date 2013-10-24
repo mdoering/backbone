@@ -1,5 +1,4 @@
-Dictyocysta lepida Ehrenberg, 1854 SPECIES
-=======
+# Dictyocysta lepida Ehrenberg, 1854 SPECIES
 
 #### Status
 ACCEPTED

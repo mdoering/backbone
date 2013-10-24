@@ -1,14 +1,13 @@
-Pyrenopezizopsis noppeyana (Feltgen) Höhn. SPECIES
-=======
+# Pyrenopezizopsis noppeneyana (Feltgen) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. (1917)
 
 #### Original name
 Lachnum noppeneyanum Feltgen

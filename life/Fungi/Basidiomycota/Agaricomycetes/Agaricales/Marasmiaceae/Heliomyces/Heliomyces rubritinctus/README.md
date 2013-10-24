@@ -1,5 +1,4 @@
-Heliomyces rubritinctus Murrill SPECIES
-=======
+# Heliomyces rubritinctus Murrill SPECIES
 
 #### Status
 ACCEPTED

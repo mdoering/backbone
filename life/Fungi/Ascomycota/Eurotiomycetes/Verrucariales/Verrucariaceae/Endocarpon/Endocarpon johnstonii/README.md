@@ -1,5 +1,4 @@
-Endocarpon johnstonii (Müll. Arg.) Stizenb. SPECIES
-=======
+# Endocarpon johnstonii (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

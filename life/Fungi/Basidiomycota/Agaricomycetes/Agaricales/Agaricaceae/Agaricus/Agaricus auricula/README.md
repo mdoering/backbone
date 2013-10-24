@@ -1,17 +1,16 @@
-Agaricus auriculus Berk. SPECIES
-=======
+# Agaricus auricula Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora Tasman. , Fungi 2: 246 (1860)
 
 #### Original name
-Agaricus auriculus Berk.
+Agaricus auricula Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus campestroides Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus campestroides Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora pallidocervina (Kremp.) Müll. Arg. SPECIES
-=======
+# Psora pallidocervina (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

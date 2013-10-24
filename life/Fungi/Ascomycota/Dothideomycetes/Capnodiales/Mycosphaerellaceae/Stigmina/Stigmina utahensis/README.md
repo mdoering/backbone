@@ -1,5 +1,4 @@
-Stigmina utahensis (Sacc.) B. Sutton SPECIES
-=======
+# Stigmina utahensis (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

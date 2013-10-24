@@ -1,5 +1,4 @@
-Phaeographina striolata (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Phaeographina striolata (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

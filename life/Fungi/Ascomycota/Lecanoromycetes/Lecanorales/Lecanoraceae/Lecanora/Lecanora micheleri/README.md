@@ -1,5 +1,4 @@
-Lecanora micheleri (Hertel) Hertel SPECIES
-=======
+# Lecanora micheleri (Hertel) Hertel SPECIES
 
 #### Status
 ACCEPTED

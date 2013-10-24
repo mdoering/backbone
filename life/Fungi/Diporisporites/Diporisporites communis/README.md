@@ -1,5 +1,4 @@
-Diporisporites communis P. Ke & Z.Y. Shi SPECIES
-=======
+# Diporisporites communis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

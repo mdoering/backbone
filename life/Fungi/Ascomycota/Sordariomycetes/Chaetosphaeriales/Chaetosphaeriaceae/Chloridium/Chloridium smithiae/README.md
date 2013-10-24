@@ -1,5 +1,4 @@
-Chloridium smithiae R.C. Sinclair & Eicker SPECIES
-=======
+# Chloridium smithiae R.C. Sinclair & Eicker SPECIES
 
 #### Status
 ACCEPTED

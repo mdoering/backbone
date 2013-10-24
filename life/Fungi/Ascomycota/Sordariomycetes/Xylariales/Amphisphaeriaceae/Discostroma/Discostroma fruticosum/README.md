@@ -1,5 +1,4 @@
-Discostroma fruticosum Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Discostroma fruticosum Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

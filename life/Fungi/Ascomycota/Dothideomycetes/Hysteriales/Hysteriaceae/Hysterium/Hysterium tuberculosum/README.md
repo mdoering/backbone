@@ -1,5 +1,4 @@
-Hysterium tuberculosum Schumach. SPECIES
-=======
+# Hysterium tuberculosum Schumach. SPECIES
 
 #### Status
 ACCEPTED

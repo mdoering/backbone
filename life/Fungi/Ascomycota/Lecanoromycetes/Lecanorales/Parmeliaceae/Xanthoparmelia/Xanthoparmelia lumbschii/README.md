@@ -1,14 +1,13 @@
-Paraparmelia lumbschii Elix SPECIES
-=======
+# Xanthoparmelia lumbschii (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 59: 413 (1996)
+Mycotaxon 87: 400 (2003)
 
 #### Original name
 Paraparmelia lumbschii Elix

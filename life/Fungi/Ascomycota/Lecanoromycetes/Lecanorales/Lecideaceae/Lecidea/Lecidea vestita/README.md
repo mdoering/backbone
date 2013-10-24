@@ -1,5 +1,4 @@
-Lecidea vestita (Mont.) Nyl. SPECIES
-=======
+# Lecidea vestita (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

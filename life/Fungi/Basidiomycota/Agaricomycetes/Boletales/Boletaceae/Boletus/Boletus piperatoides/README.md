@@ -1,5 +1,4 @@
-Boletus piperatoides A.H. Sm. & Thiers SPECIES
-=======
+# Boletus piperatoides A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tryblidiella balansae Speg. SPECIES
-=======
+# Tryblidiella balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

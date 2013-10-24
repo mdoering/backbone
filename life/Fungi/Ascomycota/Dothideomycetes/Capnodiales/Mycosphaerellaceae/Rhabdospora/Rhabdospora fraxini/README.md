@@ -1,5 +1,4 @@
-Rhabdospora fraxini Pass. SPECIES
-=======
+# Rhabdospora fraxini Pass. SPECIES
 
 #### Status
 ACCEPTED

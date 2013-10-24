@@ -1,5 +1,4 @@
-Ochrolechia argentinensis Sambo SPECIES
-=======
+# Ochrolechia argentinensis Sambo SPECIES
 
 #### Status
 ACCEPTED

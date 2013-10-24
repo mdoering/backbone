@@ -1,5 +1,4 @@
-Paraconiothyrium variabile Riccioni, Damm, Verkley & Crous, 2008 SPECIES
-=======
+# Paraconiothyrium variabile Riccioni, Damm, Verkley & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

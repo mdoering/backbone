@@ -1,5 +1,4 @@
-Lachnum albidum var. albidum VARIETY
-=======
+# Lachnum albidum (Penz. & Sacc.) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia 78(3-4): 428 (2004)
 
 #### Original name
-Lachnum albidum var. albidum
+Erinella albida Penz. & Sacc.
 
 ### Remarks
 null

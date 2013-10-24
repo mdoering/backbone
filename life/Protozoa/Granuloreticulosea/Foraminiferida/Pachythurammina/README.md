@@ -1,5 +1,4 @@
-Pachythurammina Vachard, 1978 GENUS
-=======
+# Pachythurammina Vachard, 1978 GENUS
 
 #### Status
 ACCEPTED

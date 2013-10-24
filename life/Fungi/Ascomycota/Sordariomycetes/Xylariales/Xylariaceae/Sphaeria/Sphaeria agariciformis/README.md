@@ -1,5 +1,4 @@
-Sphaeria agariciformis Bolton SPECIES
-=======
+# Sphaeria agariciformis Bolton SPECIES
 
 #### Status
 ACCEPTED

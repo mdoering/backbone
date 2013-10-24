@@ -1,8 +1,7 @@
-Ebriopsis antiqua subsp. cornuta H. Y. Ling SUBSPECIES
-=======
+# Ebriopsis cornuta (H.Y. Ling) S. Locker & E. Martini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

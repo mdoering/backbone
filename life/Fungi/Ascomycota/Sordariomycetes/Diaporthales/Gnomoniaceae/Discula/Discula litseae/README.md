@@ -1,5 +1,4 @@
-Discula litseae (Petch) Arx SPECIES
-=======
+# Discula litseae (Petch) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora flammea Burt SPECIES
-=======
+# Peniophora flammea Burt SPECIES
 
 #### Status
 ACCEPTED

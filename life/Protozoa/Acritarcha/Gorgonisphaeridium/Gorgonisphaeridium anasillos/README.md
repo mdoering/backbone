@@ -1,5 +1,4 @@
-Gorgonisphaeridium anasillos Colbath, 1990 SPECIES
-=======
+# Gorgonisphaeridium anasillos Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

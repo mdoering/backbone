@@ -1,5 +1,4 @@
-Pseudasterodon cystidiiformis (Rick) Rick SPECIES
-=======
+# Pseudasterodon cystidiiformis (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

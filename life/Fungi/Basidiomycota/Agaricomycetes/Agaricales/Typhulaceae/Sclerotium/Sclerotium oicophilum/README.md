@@ -1,5 +1,4 @@
-Sclerotium oicophilum Speg. SPECIES
-=======
+# Sclerotium oicophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

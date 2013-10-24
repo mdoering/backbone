@@ -1,5 +1,4 @@
-Podospora papillata R.S. Khan & Cain SPECIES
-=======
+# Podospora papillata R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

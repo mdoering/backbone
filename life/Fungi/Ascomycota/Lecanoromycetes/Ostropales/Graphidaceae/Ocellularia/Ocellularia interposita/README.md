@@ -1,14 +1,13 @@
-Ascidium interpositum Nyl. SPECIES
-=======
+# Ocellularia interposita (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Ascidium interpositum Nyl.

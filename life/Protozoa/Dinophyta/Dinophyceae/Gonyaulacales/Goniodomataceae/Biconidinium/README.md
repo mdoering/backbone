@@ -1,5 +1,4 @@
-Biconidinium M.A. Islam, 1983 GENUS
-=======
+# Biconidinium M.A. Islam, 1983 GENUS
 
 #### Status
 ACCEPTED

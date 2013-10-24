@@ -1,5 +1,4 @@
-Coenogonium madagascariense Vezda SPECIES
-=======
+# Coenogonium madagascariense Vezda SPECIES
 
 #### Status
 ACCEPTED

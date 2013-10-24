@@ -1,5 +1,4 @@
-Pseudoklossia pectinis Léger & Duboscq, 1917 SPECIES
-=======
+# Pseudoklossia pectinis Léger & Duboscq, 1917 SPECIES
 
 #### Status
 ACCEPTED

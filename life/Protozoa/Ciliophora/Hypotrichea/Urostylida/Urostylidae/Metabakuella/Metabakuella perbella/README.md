@@ -1,8 +1,7 @@
-Keronella perbella Alekperov & Mamajeva, 1988 SPECIES
-=======
+# Metabakuella perbella (Alekperov & Mamajeva, 1988) Alekperov, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Polyporus cremorinus Ces. SPECIES
-=======
+# Polyporus cremorinus Ces. SPECIES
 
 #### Status
 ACCEPTED

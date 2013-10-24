@@ -1,5 +1,4 @@
-Endodothiora Petr. GENUS
-=======
+# Endodothiora Petr. GENUS
 
 #### Status
 ACCEPTED

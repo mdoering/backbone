@@ -1,5 +1,4 @@
-Puccinia urticae-frigidae Hasler SPECIES
-=======
+# Puccinia urticae-frigidae Hasler SPECIES
 
 #### Status
 ACCEPTED

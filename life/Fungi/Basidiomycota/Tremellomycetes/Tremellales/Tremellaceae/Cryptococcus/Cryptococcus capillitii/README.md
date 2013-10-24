@@ -1,5 +1,4 @@
-Cryptococcus capillitii (Oudem. & Pekelh.) Vuill. SPECIES
-=======
+# Cryptococcus capillitii (Oudem. & Pekelh.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

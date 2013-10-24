@@ -1,5 +1,4 @@
-Diplodia saccharina S. Ahmad SPECIES
-=======
+# Diplodia saccharina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

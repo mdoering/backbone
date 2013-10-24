@@ -1,5 +1,4 @@
-Laboulbenia pseudodecipiens Speg. SPECIES
-=======
+# Laboulbenia pseudodecipiens Speg. SPECIES
 
 #### Status
 ACCEPTED

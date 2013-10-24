@@ -1,5 +1,4 @@
-Bryoria himalayensis (Motyka) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria himalayensis (Motyka) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

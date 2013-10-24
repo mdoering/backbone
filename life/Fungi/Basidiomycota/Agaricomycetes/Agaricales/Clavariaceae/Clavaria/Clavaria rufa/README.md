@@ -1,5 +1,4 @@
-Clavaria rufa (O.F. Müll.) Pers. SPECIES
-=======
+# Clavaria rufa (O.F. Müll.) Pers. SPECIES
 
 #### Status
 ACCEPTED

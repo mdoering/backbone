@@ -1,5 +1,4 @@
-Chitonomyces appendiculatus Thaxt. SPECIES
-=======
+# Chitonomyces appendiculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

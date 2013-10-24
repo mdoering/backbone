@@ -1,5 +1,4 @@
-Cryptosporium buxicola Rolland SPECIES
-=======
+# Cryptosporium buxicola Rolland SPECIES
 
 #### Status
 ACCEPTED

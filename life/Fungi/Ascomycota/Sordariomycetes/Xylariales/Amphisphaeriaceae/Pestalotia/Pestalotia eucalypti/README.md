@@ -1,5 +1,4 @@
-Pestalotia eucalypti Thüm. SPECIES
-=======
+# Pestalotia eucalypti Thüm. SPECIES
 
 #### Status
 ACCEPTED

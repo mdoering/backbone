@@ -1,5 +1,4 @@
-Phyllosticta gossypii Sawada SPECIES
-=======
+# Phyllosticta gossypii Sawada SPECIES
 
 #### Status
 ACCEPTED

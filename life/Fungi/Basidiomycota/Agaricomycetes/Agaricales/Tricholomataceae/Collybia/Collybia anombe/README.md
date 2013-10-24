@@ -1,5 +1,4 @@
-Collybia anombe De Seynes SPECIES
-=======
+# Collybia anombe De Seynes SPECIES
 
 #### Status
 ACCEPTED

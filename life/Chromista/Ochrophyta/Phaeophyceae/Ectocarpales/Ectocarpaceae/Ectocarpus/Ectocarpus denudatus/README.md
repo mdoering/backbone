@@ -1,5 +1,4 @@
-Ectocarpus denudatus P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Ectocarpus denudatus P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caliciopsis ephemerum Rehm SPECIES
-=======
+# Caliciopsis ephemerum Rehm SPECIES
 
 #### Status
 ACCEPTED

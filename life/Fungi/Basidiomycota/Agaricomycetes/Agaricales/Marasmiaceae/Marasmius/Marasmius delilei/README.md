@@ -1,5 +1,4 @@
-Marasmius delilei De Seynes SPECIES
-=======
+# Marasmius delilei De Seynes SPECIES
 
 #### Status
 ACCEPTED

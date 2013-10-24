@@ -1,5 +1,4 @@
-Rutstroemia acutispora Le Gal SPECIES
-=======
+# Rutstroemia acutispora Le Gal SPECIES
 
 #### Status
 ACCEPTED

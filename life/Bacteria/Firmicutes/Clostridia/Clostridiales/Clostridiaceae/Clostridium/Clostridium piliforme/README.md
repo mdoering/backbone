@@ -1,5 +1,4 @@
-Clostridium piliforme (ex Tyzzer, 1917) Duncan et al., 1993 SPECIES
-=======
+# Clostridium piliforme (ex Tyzzer, 1917) Duncan et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

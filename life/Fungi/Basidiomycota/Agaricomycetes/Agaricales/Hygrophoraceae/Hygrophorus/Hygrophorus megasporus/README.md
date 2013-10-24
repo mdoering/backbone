@@ -1,5 +1,4 @@
-Hygrophorus megasporus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus megasporus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

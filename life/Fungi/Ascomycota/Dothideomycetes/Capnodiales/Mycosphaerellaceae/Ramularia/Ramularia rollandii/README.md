@@ -1,17 +1,16 @@
-Ramularia rollandi Fautrey SPECIES
-=======
+# Ramularia rollandii Fautrey, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 19: 54 (1897)
 
 #### Original name
-Ramularia rollandi Fautrey
+Ramularia rollandii Fautrey, 1897
 
 ### Remarks
 null

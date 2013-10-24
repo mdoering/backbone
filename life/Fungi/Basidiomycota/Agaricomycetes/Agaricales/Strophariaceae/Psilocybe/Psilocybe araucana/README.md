@@ -1,5 +1,4 @@
-Psilocybe araucana Singer SPECIES
-=======
+# Psilocybe araucana Singer SPECIES
 
 #### Status
 ACCEPTED

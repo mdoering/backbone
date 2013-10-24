@@ -1,5 +1,4 @@
-Wardinella Bat. & Peres GENUS
-=======
+# Wardinella Bat. & Peres GENUS
 
 #### Status
 ACCEPTED

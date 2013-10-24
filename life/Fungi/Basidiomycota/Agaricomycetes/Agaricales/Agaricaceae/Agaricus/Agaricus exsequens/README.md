@@ -1,5 +1,4 @@
-Agaricus exsequens Britzelm. SPECIES
-=======
+# Agaricus exsequens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opalina tritonis Perty, 1852 SPECIES
-=======
+# Opalina tritonis Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

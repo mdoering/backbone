@@ -1,5 +1,4 @@
-Lichenoconium edgewoodensis Alstrup & M.S. Cole SPECIES
-=======
+# Lichenoconium edgewoodensis Alstrup & M.S. Cole SPECIES
 
 #### Status
 ACCEPTED

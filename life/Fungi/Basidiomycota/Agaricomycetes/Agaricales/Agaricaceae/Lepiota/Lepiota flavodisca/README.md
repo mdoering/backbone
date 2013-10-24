@@ -1,5 +1,4 @@
-Lepiota flavodisca Murrill SPECIES
-=======
+# Lepiota flavodisca Murrill SPECIES
 
 #### Status
 ACCEPTED

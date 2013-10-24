@@ -1,5 +1,4 @@
-Opegrapha lambinonii Sérus. SPECIES
-=======
+# Opegrapha lambinonii Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrydium tuberosum Iyengar SPECIES
-=======
+# Botrydium tuberosum Iyengar SPECIES
 
 #### Status
 ACCEPTED

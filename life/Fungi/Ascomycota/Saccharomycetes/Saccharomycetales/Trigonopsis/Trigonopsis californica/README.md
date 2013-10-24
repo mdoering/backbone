@@ -1,5 +1,4 @@
-Trigonopsis californica Kurtzman, 2007 SPECIES
-=======
+# Trigonopsis californica Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

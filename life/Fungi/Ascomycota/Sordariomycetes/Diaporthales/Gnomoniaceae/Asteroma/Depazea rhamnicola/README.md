@@ -1,5 +1,4 @@
-Depazea rhamnicola Sacc. SPECIES
-=======
+# Depazea rhamnicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

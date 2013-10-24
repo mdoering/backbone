@@ -1,5 +1,4 @@
-Leptosphaeria vinealis Pass. SPECIES
-=======
+# Leptosphaeria vinealis Pass. SPECIES
 
 #### Status
 ACCEPTED

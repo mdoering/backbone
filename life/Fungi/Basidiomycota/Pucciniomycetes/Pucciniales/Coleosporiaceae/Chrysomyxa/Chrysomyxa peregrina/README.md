@@ -1,5 +1,4 @@
-Chrysomyxa peregrina Syd. & E.J. Butler SPECIES
-=======
+# Chrysomyxa peregrina Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

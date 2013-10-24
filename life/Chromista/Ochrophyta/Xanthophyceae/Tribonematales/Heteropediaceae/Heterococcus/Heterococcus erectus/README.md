@@ -1,5 +1,4 @@
-Heterococcus erectus Lokhorst SPECIES
-=======
+# Heterococcus erectus Lokhorst SPECIES
 
 #### Status
 ACCEPTED

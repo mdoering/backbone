@@ -1,5 +1,4 @@
-Ozonium parietinum Link SPECIES
-=======
+# Ozonium parietinum Link SPECIES
 
 #### Status
 ACCEPTED

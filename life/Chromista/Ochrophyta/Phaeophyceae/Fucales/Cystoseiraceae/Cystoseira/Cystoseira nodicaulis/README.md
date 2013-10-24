@@ -1,8 +1,7 @@
-Fucus mucronatus Turner SPECIES
-=======
+# Cystoseira nodicaulis (Withering) M. Roberts SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

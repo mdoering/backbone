@@ -1,5 +1,4 @@
-Chalciporus rubritubifer (Kauffman) Singer SPECIES
-=======
+# Chalciporus rubritubifer (Kauffman) Singer SPECIES
 
 #### Status
 ACCEPTED

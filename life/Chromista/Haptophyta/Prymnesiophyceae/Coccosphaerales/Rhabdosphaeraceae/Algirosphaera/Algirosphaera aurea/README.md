@@ -1,8 +1,7 @@
-Anthosphaera aurea Bernard & Lecal SPECIES
-=======
+# Algirosphaera aurea (Bernard & Lecal) Norris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

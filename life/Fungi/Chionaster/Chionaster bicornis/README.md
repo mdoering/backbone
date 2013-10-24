@@ -1,5 +1,4 @@
-Chionaster bicornis Kol SPECIES
-=======
+# Chionaster bicornis Kol SPECIES
 
 #### Status
 ACCEPTED

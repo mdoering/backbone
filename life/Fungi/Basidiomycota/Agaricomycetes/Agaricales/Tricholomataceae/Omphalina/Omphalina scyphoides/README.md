@@ -1,5 +1,4 @@
-Omphalina scyphoides (FRies) Quél. SPECIES
-=======
+# Omphalina scyphoides (FRies) Quél. SPECIES
 
 #### Status
 ACCEPTED

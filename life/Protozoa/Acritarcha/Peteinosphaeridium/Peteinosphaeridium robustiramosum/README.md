@@ -1,5 +1,4 @@
-Peteinosphaeridium robustiramosum Tongiorgi, Yin & Di Milia, 1995 SPECIES
-=======
+# Peteinosphaeridium robustiramosum Tongiorgi, Yin & Di Milia, 1995 SPECIES
 
 #### Status
 ACCEPTED

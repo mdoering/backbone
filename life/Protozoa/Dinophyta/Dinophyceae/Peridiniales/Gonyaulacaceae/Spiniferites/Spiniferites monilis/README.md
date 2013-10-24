@@ -1,5 +1,4 @@
-Spiniferites monilis (Davey & Williams, 1966) Sarjeant SPECIES
-=======
+# Spiniferites monilis (Davey & Williams, 1966) Sarjeant SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina minutissima B. de Lesd. SPECIES
-=======
+# Rinodina minutissima B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

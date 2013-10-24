@@ -1,5 +1,4 @@
-Rhabdospora ephedrina (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora ephedrina (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

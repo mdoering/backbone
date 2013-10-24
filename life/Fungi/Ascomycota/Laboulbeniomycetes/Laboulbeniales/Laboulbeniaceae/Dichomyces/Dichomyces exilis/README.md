@@ -1,5 +1,4 @@
-Dichomyces exilis Thaxt. SPECIES
-=======
+# Dichomyces exilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

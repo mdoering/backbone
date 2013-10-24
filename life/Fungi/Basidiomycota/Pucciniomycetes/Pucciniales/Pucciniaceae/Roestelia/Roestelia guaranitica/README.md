@@ -1,5 +1,4 @@
-Roestelia guaranitica Speg. SPECIES
-=======
+# Roestelia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phylloporus flavipes Rick SPECIES
-=======
+# Phylloporus flavipes Rick SPECIES
 
 #### Status
 ACCEPTED

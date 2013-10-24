@@ -1,5 +1,4 @@
-Caloplaca adnexa Vezda SPECIES
-=======
+# Caloplaca adnexa Vezda SPECIES
 
 #### Status
 ACCEPTED

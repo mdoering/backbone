@@ -1,5 +1,4 @@
-Cystotheca quercina N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal SPECIES
-=======
+# Cystotheca quercina N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

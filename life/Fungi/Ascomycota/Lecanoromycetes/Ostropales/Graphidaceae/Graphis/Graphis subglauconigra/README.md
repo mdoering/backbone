@@ -1,5 +1,4 @@
-Graphis subglauconigra Nagarkar & Patw. SPECIES
-=======
+# Graphis subglauconigra Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma diaporthe Nitschke SPECIES
-=======
+# Lophiostoma diaporthe Nitschke SPECIES
 
 #### Status
 ACCEPTED

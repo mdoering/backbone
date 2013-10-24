@@ -1,5 +1,4 @@
-Sargassum pseudolanceolatum Tseng & Lu SPECIES
-=======
+# Sargassum pseudolanceolatum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

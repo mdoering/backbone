@@ -1,5 +1,4 @@
-Bursaopsis striata (Daday, 1887) Kofoid & Campbell, 1929 SPECIES
-=======
+# Bursaopsis striata (Daday, 1887) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

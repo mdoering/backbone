@@ -1,5 +1,4 @@
-Mollisia grappensis (Sacc.) Sacc. SPECIES
-=======
+# Mollisia grappensis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria racemula Cooke & Peck SPECIES
-=======
+# Sphaeria racemula Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

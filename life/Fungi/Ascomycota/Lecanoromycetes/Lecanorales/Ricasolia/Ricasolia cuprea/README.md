@@ -1,5 +1,4 @@
-Ricasolia cuprea Müll. Arg. SPECIES
-=======
+# Ricasolia cuprea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

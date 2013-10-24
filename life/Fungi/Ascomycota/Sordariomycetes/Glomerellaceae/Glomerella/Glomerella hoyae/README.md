@@ -1,5 +1,4 @@
-Glomerella hoyae (Höhn.) Petr. SPECIES
-=======
+# Glomerella hoyae (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella arctata (P. Karst.) Nannf. SPECIES
-=======
+# Durella arctata (P. Karst.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

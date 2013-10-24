@@ -1,5 +1,4 @@
-Phaeographina dividens (Nyl.) Kr.P. Singh & D.D. Awasthi SPECIES
-=======
+# Phaeographina dividens (Nyl.) Kr.P. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

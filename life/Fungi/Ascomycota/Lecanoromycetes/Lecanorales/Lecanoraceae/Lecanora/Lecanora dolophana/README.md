@@ -1,5 +1,4 @@
-Lecanora dolophana Nyl. SPECIES
-=======
+# Lecanora dolophana Nyl. SPECIES
 
 #### Status
 ACCEPTED

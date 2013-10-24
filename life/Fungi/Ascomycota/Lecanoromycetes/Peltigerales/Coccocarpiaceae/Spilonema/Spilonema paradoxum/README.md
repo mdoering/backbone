@@ -1,5 +1,4 @@
-Spilonema paradoxum Bornet SPECIES
-=======
+# Spilonema paradoxum Bornet SPECIES
 
 #### Status
 ACCEPTED

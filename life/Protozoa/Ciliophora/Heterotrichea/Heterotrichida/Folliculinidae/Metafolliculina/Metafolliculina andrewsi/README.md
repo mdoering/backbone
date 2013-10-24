@@ -1,8 +1,7 @@
-Atriofolliculina andrewsi Hadzi, 1951 SPECIES
-=======
+# Metafolliculina andrewsi Hadzi, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

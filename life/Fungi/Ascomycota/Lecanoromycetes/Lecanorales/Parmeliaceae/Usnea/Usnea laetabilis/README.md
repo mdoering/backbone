@@ -1,5 +1,4 @@
-Usnea laetabilis Motyka SPECIES
-=======
+# Usnea laetabilis Motyka SPECIES
 
 #### Status
 ACCEPTED

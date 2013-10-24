@@ -1,5 +1,4 @@
-Punctelia transtasmanica Elix & Kantvilas SPECIES
-=======
+# Punctelia transtasmanica Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

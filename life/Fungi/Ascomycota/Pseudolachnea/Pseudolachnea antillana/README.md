@@ -1,5 +1,4 @@
-Pseudolachnea antillana R.F. Castañeda SPECIES
-=======
+# Pseudolachnea antillana R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

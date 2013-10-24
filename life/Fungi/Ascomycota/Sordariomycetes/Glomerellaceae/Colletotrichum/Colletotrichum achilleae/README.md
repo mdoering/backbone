@@ -1,5 +1,4 @@
-Colletotrichum achilleae Dobrozr. SPECIES
-=======
+# Colletotrichum achilleae Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

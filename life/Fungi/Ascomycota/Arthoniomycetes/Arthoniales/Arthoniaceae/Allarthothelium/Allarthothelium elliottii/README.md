@@ -1,14 +1,13 @@
-Allarthothelium elliotti (Vain.) Zahlbr. SPECIES
-=======
+# Allarthothelium elliottii (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 139 (1922)
 
 #### Original name
 Allarthotheliomyces elliottii Cif. & Tomas.

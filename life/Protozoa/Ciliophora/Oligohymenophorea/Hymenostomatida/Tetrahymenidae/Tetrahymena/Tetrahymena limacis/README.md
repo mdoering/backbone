@@ -1,5 +1,4 @@
-Tetrahymena limacis (Warren, 1932) Kozloff, 1914 SPECIES
-=======
+# Tetrahymena limacis (Warren, 1932) Kozloff, 1914 SPECIES
 
 #### Status
 ACCEPTED

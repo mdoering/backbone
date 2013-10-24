@@ -1,5 +1,4 @@
-Physalacria lateriparies X. He & F.Z. Xue, 1996 SPECIES
-=======
+# Physalacria lateriparies X. He & F.Z. Xue, 1996 SPECIES
 
 #### Status
 ACCEPTED

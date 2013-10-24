@@ -1,5 +1,4 @@
-Nipponica Amaro, 1966 GENUS
-=======
+# Nipponica Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

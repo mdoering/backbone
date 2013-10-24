@@ -1,5 +1,4 @@
-Selimina Inan, 1996 GENUS
-=======
+# Selimina Inan, 1996 GENUS
 
 #### Status
 ACCEPTED

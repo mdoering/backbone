@@ -1,5 +1,4 @@
-Stigmidium microcarpum Alstrup & J.C. David SPECIES
-=======
+# Stigmidium microcarpum Alstrup & J.C. David SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria spectabilis Motyka SPECIES
-=======
+# Urceolaria spectabilis Motyka SPECIES
 
 #### Status
 ACCEPTED

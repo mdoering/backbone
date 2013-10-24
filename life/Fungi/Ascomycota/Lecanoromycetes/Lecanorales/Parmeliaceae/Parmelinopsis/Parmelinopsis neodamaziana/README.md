@@ -1,14 +1,13 @@
-Parmelina neodamaziana Elix & J. Johnst. SPECIES
-=======
+# Parmelinopsis neodamaziana (Elix & J. Johnst.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brunonia 9: 155 (1986)
+Mycotaxon 29: 243 (1987)
 
 #### Original name
 Parmelina neodamaziana Elix & J. Johnst.

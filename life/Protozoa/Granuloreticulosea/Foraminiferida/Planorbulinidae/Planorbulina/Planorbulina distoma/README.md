@@ -1,5 +1,4 @@
-Planorbulina distoma Terquem, 1876 SPECIES
-=======
+# Planorbulina distoma Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

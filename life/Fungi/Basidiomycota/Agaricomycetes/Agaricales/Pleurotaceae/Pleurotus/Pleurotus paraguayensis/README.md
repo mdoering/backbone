@@ -1,5 +1,4 @@
-Pleurotus paraguayensis Speg. SPECIES
-=======
+# Pleurotus paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

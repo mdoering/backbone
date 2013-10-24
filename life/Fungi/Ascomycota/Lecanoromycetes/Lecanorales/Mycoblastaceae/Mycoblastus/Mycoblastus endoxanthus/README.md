@@ -1,5 +1,4 @@
-Mycoblastus endoxanthus Groenh. SPECIES
-=======
+# Mycoblastus endoxanthus Groenh. SPECIES
 
 #### Status
 ACCEPTED

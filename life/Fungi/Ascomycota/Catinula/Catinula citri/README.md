@@ -1,5 +1,4 @@
-Catinula citri (Henn.) Bat. & J.L. Bezerra SPECIES
-=======
+# Catinula citri (Henn.) Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

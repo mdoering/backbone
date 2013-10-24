@@ -1,5 +1,4 @@
-Uromyces sedi Gäum. SPECIES
-=======
+# Uromyces sedi Gäum. SPECIES
 
 #### Status
 ACCEPTED

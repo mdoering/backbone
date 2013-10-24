@@ -1,5 +1,4 @@
-Poromycena viridula (Berk. ex Cooke) Singer SPECIES
-=======
+# Poromycena viridula (Berk. ex Cooke) Singer SPECIES
 
 #### Status
 ACCEPTED

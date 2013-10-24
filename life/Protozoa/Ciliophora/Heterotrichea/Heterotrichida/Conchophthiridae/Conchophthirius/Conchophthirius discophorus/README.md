@@ -1,5 +1,4 @@
-Conchophthirius discophorus SPECIES
-=======
+# Conchophthirius discophorus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subpurpureus A.H. Sm. SPECIES
-=======
+# Cortinarius subpurpureus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

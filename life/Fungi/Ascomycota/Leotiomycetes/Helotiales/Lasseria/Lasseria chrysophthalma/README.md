@@ -1,5 +1,4 @@
-Lasseria chrysophthalma Dennis, 1960 SPECIES
-=======
+# Lasseria chrysophthalma Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED

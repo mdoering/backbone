@@ -1,14 +1,13 @@
-Collybiopsis masonii (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Marasmius masonii G. Stev., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 9(3): 434 (1971)
+null
 
 #### Original name
 Marasmius masonii G. Stev., 1964

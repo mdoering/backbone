@@ -1,5 +1,4 @@
-Pseudocytospora allantospora Petr., 1923 SPECIES
-=======
+# Pseudocytospora allantospora Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

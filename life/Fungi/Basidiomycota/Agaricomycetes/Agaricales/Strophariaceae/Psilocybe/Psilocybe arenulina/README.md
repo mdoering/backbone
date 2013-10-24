@@ -1,5 +1,4 @@
-Psilocybe arenulina Peck SPECIES
-=======
+# Psilocybe arenulina Peck SPECIES
 
 #### Status
 ACCEPTED

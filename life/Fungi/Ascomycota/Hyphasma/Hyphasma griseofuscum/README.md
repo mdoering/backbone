@@ -1,5 +1,4 @@
-Hyphasma griseofuscum Rebent. SPECIES
-=======
+# Hyphasma griseofuscum Rebent. SPECIES
 
 #### Status
 ACCEPTED

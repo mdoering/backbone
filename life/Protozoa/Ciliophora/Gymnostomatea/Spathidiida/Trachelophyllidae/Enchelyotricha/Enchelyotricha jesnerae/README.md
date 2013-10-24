@@ -1,5 +1,4 @@
-Enchelyotricha jesnerae Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Enchelyotricha jesnerae Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

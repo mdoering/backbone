@@ -1,5 +1,4 @@
-Colletotrichum biscutellae Moesz SPECIES
-=======
+# Colletotrichum biscutellae Moesz SPECIES
 
 #### Status
 ACCEPTED

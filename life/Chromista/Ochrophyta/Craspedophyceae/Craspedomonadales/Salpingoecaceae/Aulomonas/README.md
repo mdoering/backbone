@@ -1,5 +1,4 @@
-Aulomonas Lackey, 1942 GENUS
-=======
+# Aulomonas Lackey, 1942 GENUS
 
 #### Status
 ACCEPTED

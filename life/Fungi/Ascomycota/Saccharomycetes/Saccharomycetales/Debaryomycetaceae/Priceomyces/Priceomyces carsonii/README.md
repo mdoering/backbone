@@ -1,5 +1,4 @@
-Priceomyces carsonii (Phaff & Knapp) M. Suzuki & Kurtzman, 2010 SPECIES
-=======
+# Priceomyces carsonii (Phaff & Knapp) M. Suzuki & Kurtzman, 2010 SPECIES
 
 #### Status
 ACCEPTED

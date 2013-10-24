@@ -1,5 +1,4 @@
-Stictochorellina carpatica Petr. SPECIES
-=======
+# Stictochorellina carpatica Petr. SPECIES
 
 #### Status
 ACCEPTED

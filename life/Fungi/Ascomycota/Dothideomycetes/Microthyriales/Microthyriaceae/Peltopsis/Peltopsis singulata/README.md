@@ -1,5 +1,4 @@
-Peltopsis singulata Bat. SPECIES
-=======
+# Peltopsis singulata Bat. SPECIES
 
 #### Status
 ACCEPTED

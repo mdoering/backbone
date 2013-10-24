@@ -1,5 +1,4 @@
-Eurotium margaritaceum Lév. SPECIES
-=======
+# Eurotium margaritaceum Lév. SPECIES
 
 #### Status
 ACCEPTED

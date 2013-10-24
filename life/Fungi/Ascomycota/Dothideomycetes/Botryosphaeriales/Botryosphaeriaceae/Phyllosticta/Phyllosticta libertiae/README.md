@@ -1,5 +1,4 @@
-Phyllosticta libertiae Sacc. SPECIES
-=======
+# Phyllosticta libertiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

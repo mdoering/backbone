@@ -1,5 +1,4 @@
-Uromyces pratensis Juel SPECIES
-=======
+# Uromyces pratensis Juel SPECIES
 
 #### Status
 ACCEPTED

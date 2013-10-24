@@ -1,5 +1,4 @@
-Cortinarius albogaudis Kytöv., Niskanen & Liimat. SPECIES
-=======
+# Cortinarius albogaudis Kytöv., Niskanen & Liimat. SPECIES
 
 #### Status
 ACCEPTED

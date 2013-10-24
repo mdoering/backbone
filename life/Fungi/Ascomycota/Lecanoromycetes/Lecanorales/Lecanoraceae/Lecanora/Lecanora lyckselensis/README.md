@@ -1,5 +1,4 @@
-Lecanora lyckselensis H. Magn. SPECIES
-=======
+# Lecanora lyckselensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria seriata (Pers.) Sacc. SPECIES
-=======
+# Aposphaeria seriata (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

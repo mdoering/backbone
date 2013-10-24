@@ -1,5 +1,4 @@
-Amanita laurae Guzmán & Ram.-Guill. SPECIES
-=======
+# Amanita laurae Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

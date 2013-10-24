@@ -1,5 +1,4 @@
-Pseudocyphellaria coppinsii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria coppinsii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

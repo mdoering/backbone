@@ -1,5 +1,4 @@
-Scutopeltis Bat. & H. Maia GENUS
-=======
+# Scutopeltis Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

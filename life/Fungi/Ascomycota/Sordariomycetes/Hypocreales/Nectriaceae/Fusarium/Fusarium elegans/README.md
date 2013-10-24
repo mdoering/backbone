@@ -1,5 +1,4 @@
-Fusarium elegans Appel & Wollenw. SPECIES
-=======
+# Fusarium elegans Appel & Wollenw. SPECIES
 
 #### Status
 ACCEPTED

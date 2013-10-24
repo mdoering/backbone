@@ -1,5 +1,4 @@
-Microdiplodia smilacina Sacc. SPECIES
-=======
+# Microdiplodia smilacina Sacc. SPECIES
 
 #### Status
 ACCEPTED

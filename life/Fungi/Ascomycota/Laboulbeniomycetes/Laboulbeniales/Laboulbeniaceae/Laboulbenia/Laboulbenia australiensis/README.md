@@ -1,5 +1,4 @@
-Laboulbenia australiensis Thaxt. SPECIES
-=======
+# Laboulbenia australiensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

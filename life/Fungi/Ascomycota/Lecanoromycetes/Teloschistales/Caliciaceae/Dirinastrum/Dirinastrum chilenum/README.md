@@ -1,5 +1,4 @@
-Dirinastrum chilenum C.W. Dodge SPECIES
-=======
+# Dirinastrum chilenum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

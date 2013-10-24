@@ -1,5 +1,4 @@
-Sporormia muskokensis Cain SPECIES
-=======
+# Sporormia muskokensis Cain SPECIES
 
 #### Status
 ACCEPTED

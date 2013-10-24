@@ -1,5 +1,4 @@
-Caloplaca andrejevii Oxner SPECIES
-=======
+# Caloplaca andrejevii Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium neglectum Berk., 1838 SPECIES
-=======
+# Sclerotium neglectum Berk., 1838 SPECIES
 
 #### Status
 ACCEPTED

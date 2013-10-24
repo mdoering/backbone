@@ -1,5 +1,4 @@
-Thelidium yunnanum H. Harada & Li S. Wang SPECIES
-=======
+# Thelidium yunnanum H. Harada & Li S. Wang SPECIES
 
 #### Status
 ACCEPTED

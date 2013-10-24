@@ -1,17 +1,16 @@
-Cylindrocarpon ianthothele f. ianthothele FORM
-=======
+# Cylindrocarpon ianthothele Wollenw., 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(1/2): 56 (1917)
+null
 
 #### Original name
-Cylindrocarpon ianthothele f. ianthothele
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius rubescens Gasparini SPECIES
-=======
+# Cortinarius rubescens Gasparini SPECIES
 
 #### Status
 ACCEPTED

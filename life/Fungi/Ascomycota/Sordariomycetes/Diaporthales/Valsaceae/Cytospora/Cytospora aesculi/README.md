@@ -1,5 +1,4 @@
-Cytospora aesculi Ranoj. SPECIES
-=======
+# Cytospora aesculi Ranoj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium tumorum Schwein. SPECIES
-=======
+# Cenangium tumorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

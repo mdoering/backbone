@@ -1,5 +1,4 @@
-Diaporthe digitifera var. lignicola Sacc. VARIETY
-=======
+# Diaporthe digitifera Mouton SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 28(C. R. ): 75 (1889)
 
 #### Original name
-Diaporthe digitifera var. lignicola Sacc.
+Diaporthe digitifera Mouton
 
 ### Remarks
 null

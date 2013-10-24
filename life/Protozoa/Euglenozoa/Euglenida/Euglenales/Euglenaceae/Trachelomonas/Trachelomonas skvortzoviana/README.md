@@ -1,5 +1,4 @@
-Trachelomonas skvortzoviana Deflandre SPECIES
-=======
+# Trachelomonas skvortzoviana Deflandre SPECIES
 
 #### Status
 ACCEPTED

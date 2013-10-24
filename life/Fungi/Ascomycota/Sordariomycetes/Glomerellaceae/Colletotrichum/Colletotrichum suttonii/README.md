@@ -1,5 +1,4 @@
-Colletotrichum suttonii W.P. Wu SPECIES
-=======
+# Colletotrichum suttonii W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberella creberrima Syd. & P. Syd. SPECIES
-=======
+# Gibberella creberrima Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium agaricoides J.F. Gmel. SPECIES
-=======
+# Helotium agaricoides J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

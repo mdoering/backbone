@@ -1,5 +1,4 @@
-Thysanothecium casuarinarum Groenh. SPECIES
-=======
+# Thysanothecium casuarinarum Groenh. SPECIES
 
 #### Status
 ACCEPTED

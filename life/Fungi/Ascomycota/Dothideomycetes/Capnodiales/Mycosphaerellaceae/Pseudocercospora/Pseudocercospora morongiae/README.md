@@ -1,5 +1,4 @@
-Pseudocercospora morongiae (Tracy & Earle) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora morongiae (Tracy & Earle) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

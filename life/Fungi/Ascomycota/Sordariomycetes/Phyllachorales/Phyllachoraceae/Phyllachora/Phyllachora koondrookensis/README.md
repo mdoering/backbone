@@ -1,5 +1,4 @@
-Phyllachora koondrookensis Parbery, 1967 SPECIES
-=======
+# Phyllachora koondrookensis Parbery, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus kanehirae Yasuda SPECIES
-=======
+# Polyporus kanehirae Yasuda SPECIES
 
 #### Status
 ACCEPTED

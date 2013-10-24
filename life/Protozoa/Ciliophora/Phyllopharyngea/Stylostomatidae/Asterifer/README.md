@@ -1,5 +1,4 @@
-Asterifer GENUS
-=======
+# Asterifer GENUS
 
 #### Status
 ACCEPTED

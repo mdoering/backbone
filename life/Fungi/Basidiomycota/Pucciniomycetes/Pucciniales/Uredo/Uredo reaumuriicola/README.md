@@ -1,5 +1,4 @@
-Uredo reaumuriicola Henn. SPECIES
-=======
+# Uredo reaumuriicola Henn. SPECIES
 
 #### Status
 ACCEPTED

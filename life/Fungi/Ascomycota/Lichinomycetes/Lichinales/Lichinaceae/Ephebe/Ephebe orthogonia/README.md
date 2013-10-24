@@ -1,5 +1,4 @@
-Ephebe orthogonia Henssen SPECIES
-=======
+# Ephebe orthogonia Henssen SPECIES
 
 #### Status
 ACCEPTED

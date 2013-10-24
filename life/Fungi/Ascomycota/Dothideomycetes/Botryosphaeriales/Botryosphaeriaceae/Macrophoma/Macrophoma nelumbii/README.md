@@ -1,5 +1,4 @@
-Macrophoma nelumbii Siemaszko SPECIES
-=======
+# Macrophoma nelumbii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Burkholderia xenovorans Goris et al., 2004 SPECIES
-=======
+# Burkholderia xenovorans Goris et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

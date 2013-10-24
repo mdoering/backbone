@@ -1,14 +1,13 @@
-Angulogerina earlandi Parr, 1950 SPECIES
-=======
+# Trifarina earlandi (Parr, 1950) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Parr, W. J. (1950) Foraminifera. B. A. N. Z. ANtarctic Research Expedition 1929-1931. Report Series B 5 (6), 232-392.
 
 #### Original name
 null

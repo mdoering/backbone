@@ -1,5 +1,4 @@
-Globivalvulina Schubert, 1920 GENUS
-=======
+# Globivalvulina Schubert, 1920 GENUS
 
 #### Status
 ACCEPTED

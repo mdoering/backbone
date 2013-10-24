@@ -1,5 +1,4 @@
-Pseudotrichia pachnostoma (Berk. & M.A. Curtis) M.E. Barr SPECIES
-=======
+# Pseudotrichia pachnostoma (Berk. & M.A. Curtis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

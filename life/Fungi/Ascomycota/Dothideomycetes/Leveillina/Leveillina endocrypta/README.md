@@ -1,14 +1,13 @@
-Phyllachora endocrypta Mont. ex Cooke, 1885 SPECIES
-=======
+# Leveillina endocrypta (Mont. ex Cooke) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 65 (1885)
+Annls mycol. 13(3/4): 287 (1915)
 
 #### Original name
 Phyllachora endocrypta Mont. ex Cooke, 1885

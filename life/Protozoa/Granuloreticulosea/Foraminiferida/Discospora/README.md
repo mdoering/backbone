@@ -1,5 +1,4 @@
-Discospora Sherborn, 1893 GENUS
-=======
+# Discospora Sherborn, 1893 GENUS
 
 #### Status
 ACCEPTED

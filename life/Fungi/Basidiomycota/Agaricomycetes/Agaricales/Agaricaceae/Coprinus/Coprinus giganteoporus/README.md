@@ -1,5 +1,4 @@
-Coprinus giganteoporus Huijsman SPECIES
-=======
+# Coprinus giganteoporus Huijsman SPECIES
 
 #### Status
 ACCEPTED

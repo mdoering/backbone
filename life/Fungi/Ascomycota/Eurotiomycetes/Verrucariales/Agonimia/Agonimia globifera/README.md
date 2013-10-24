@@ -1,5 +1,4 @@
-Agonimia globifera M. Brand & Diederich, 1999 SPECIES
-=======
+# Agonimia globifera M. Brand & Diederich, 1999 SPECIES
 
 #### Status
 ACCEPTED

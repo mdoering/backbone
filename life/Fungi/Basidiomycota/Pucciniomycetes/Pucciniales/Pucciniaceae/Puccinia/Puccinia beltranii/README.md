@@ -1,5 +1,4 @@
-Puccinia beltranii f. beltranii FORM
-=======
+# Puccinia beltranii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia beltranii f. beltranii
+Puccinia beltranii Gonz. Frag.
 
 ### Remarks
 null

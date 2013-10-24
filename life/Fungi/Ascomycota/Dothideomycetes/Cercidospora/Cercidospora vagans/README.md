@@ -1,5 +1,4 @@
-Cercidospora vagans (Fabre) Kuntze SPECIES
-=======
+# Cercidospora vagans (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

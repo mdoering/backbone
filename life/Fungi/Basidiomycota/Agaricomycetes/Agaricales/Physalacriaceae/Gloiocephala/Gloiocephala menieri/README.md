@@ -1,5 +1,4 @@
-Gloiocephala menieri (Boud.) Singer SPECIES
-=======
+# Gloiocephala menieri (Boud.) Singer SPECIES
 
 #### Status
 ACCEPTED

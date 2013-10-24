@@ -1,5 +1,4 @@
-Vacuolaria penardii Fott, 1970 SPECIES
-=======
+# Vacuolaria penardii Fott, 1970 SPECIES
 
 #### Status
 ACCEPTED

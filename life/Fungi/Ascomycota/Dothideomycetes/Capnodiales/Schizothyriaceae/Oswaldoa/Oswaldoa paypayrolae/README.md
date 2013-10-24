@@ -1,5 +1,4 @@
-Oswaldoa paypayrolae Bat. SPECIES
-=======
+# Oswaldoa paypayrolae Bat. SPECIES
 
 #### Status
 ACCEPTED

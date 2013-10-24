@@ -1,5 +1,4 @@
-Naucoria straminea Velen. SPECIES
-=======
+# Naucoria straminea Velen. SPECIES
 
 #### Status
 ACCEPTED

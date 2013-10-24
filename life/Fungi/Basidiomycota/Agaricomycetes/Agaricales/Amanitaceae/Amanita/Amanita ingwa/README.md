@@ -1,5 +1,4 @@
-Amanita ingwa Grgur. SPECIES
-=======
+# Amanita ingwa Grgur. SPECIES
 
 #### Status
 ACCEPTED

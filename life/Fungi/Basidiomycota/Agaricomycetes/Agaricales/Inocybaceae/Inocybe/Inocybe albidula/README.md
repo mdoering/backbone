@@ -1,5 +1,4 @@
-Inocybe albidula (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe albidula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontia stipata SPECIES
-=======
+# Odontia stipata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria striata Niessl SPECIES
-=======
+# Amphisphaeria striata Niessl SPECIES
 
 #### Status
 ACCEPTED

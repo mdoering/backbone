@@ -1,11 +1,10 @@
-Rhodocapsa suspensa Molisch, 1906 SPECIES
-=======
+# Thiodictyon bacillosum (Winogradsky, 1888) Pfennig and Trüper, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

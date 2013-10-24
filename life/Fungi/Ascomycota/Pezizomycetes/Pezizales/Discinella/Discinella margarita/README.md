@@ -1,5 +1,4 @@
-Discinella margarita W.D. Buckley, 1920 SPECIES
-=======
+# Discinella margarita W.D. Buckley, 1920 SPECIES
 
 #### Status
 ACCEPTED

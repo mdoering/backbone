@@ -1,5 +1,4 @@
-Fragilaria heidenii Østrup SPECIES
-=======
+# Fragilaria heidenii Østrup SPECIES
 
 #### Status
 ACCEPTED

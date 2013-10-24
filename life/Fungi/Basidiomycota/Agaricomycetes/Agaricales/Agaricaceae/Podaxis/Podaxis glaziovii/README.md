@@ -1,8 +1,7 @@
-Podaxon glaziovii Henn. SPECIES
-=======
+# Podaxis glaziovii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon glaziovii Henn.
+Podaxis glaziovii Henn.
 
 ### Remarks
 null

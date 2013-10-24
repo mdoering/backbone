@@ -1,5 +1,4 @@
-Stachylidium caricinum Ellis & Everh. SPECIES
-=======
+# Stachylidium caricinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

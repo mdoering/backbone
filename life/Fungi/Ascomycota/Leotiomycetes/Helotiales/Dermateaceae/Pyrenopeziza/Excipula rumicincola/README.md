@@ -1,5 +1,4 @@
-Excipula rumicincola Schwein. SPECIES
-=======
+# Excipula rumicincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

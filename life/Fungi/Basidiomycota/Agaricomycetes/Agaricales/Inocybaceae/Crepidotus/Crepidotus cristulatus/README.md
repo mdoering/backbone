@@ -1,5 +1,4 @@
-Crepidotus cristulatus Singer SPECIES
-=======
+# Crepidotus cristulatus Singer SPECIES
 
 #### Status
 ACCEPTED

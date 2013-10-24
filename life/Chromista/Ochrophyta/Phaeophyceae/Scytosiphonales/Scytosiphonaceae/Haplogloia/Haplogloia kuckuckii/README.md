@@ -1,5 +1,4 @@
-Haplogloia kuckuckii Kylin SPECIES
-=======
+# Haplogloia kuckuckii Kylin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria lupini (Earle) Boise SPECIES
-=======
+# Leptosphaeria lupini (Earle) Boise SPECIES
 
 #### Status
 ACCEPTED

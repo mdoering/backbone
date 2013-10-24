@@ -1,5 +1,4 @@
-Glenospora microspora Speg. SPECIES
-=======
+# Glenospora microspora Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltidea glaucescens Taylor SPECIES
-=======
+# Peltidea glaucescens Taylor SPECIES
 
 #### Status
 ACCEPTED

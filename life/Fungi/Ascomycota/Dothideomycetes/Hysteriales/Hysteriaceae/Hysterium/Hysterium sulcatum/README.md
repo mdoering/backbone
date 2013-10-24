@@ -1,5 +1,4 @@
-Hysterium sulcatum Fr. SPECIES
-=======
+# Hysterium sulcatum Fr. SPECIES
 
 #### Status
 ACCEPTED

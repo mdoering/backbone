@@ -1,5 +1,4 @@
-Furssenkoiella Makar'eva, 1979 GENUS
-=======
+# Furssenkoiella Makar'eva, 1979 GENUS
 
 #### Status
 ACCEPTED

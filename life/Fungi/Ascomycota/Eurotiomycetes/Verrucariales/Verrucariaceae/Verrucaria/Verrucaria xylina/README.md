@@ -1,5 +1,4 @@
-Verrucaria xylina Nyl. SPECIES
-=======
+# Verrucaria xylina Nyl. SPECIES
 
 #### Status
 ACCEPTED

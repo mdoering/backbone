@@ -1,5 +1,4 @@
-Arthopyrenia didymelloides Zahlbr. SPECIES
-=======
+# Arthopyrenia didymelloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

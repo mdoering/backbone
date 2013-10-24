@@ -1,5 +1,4 @@
-Uredo colubrinae Cummins SPECIES
-=======
+# Uredo colubrinae Cummins SPECIES
 
 #### Status
 ACCEPTED

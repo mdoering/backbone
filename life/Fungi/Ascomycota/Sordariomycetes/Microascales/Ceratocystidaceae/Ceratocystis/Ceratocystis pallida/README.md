@@ -1,5 +1,4 @@
-Ceratocystis pallida H.D. Griffin SPECIES
-=======
+# Ceratocystis pallida H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

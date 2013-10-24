@@ -1,5 +1,4 @@
-Barlaea epichrysea (Beck) Sacc. SPECIES
-=======
+# Barlaea epichrysea (Beck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

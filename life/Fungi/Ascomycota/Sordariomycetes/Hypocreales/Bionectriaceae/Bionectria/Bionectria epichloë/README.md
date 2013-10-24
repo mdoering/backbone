@@ -1,17 +1,16 @@
-Nectria epichloë var. epichloë VARIETY
-=======
+# Bionectria epichloë (Speg.) Schroers, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 19(1): 39 (1885)
+Stud. Mycol. 46: 140 (2001)
 
 #### Original name
-Nectria epichloë var. epichloë
+Nectria epichloë Speg., 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo taiwaniana Hirats. f. & Hashioka SPECIES
-=======
+# Uredo taiwaniana Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

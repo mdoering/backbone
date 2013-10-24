@@ -1,5 +1,4 @@
-Coniothyrium psammae Oudem., 1898 SPECIES
-=======
+# Coniothyrium psammae Oudem., 1898 SPECIES
 
 #### Status
 ACCEPTED

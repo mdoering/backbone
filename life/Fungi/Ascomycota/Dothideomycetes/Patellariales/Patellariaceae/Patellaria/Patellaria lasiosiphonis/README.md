@@ -1,5 +1,4 @@
-Patellaria lasiosiphonis Tilak & Srinivas. SPECIES
-=======
+# Patellaria lasiosiphonis Tilak & Srinivas. SPECIES
 
 #### Status
 ACCEPTED

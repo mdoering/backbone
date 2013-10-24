@@ -1,5 +1,4 @@
-Chaetosphaeria xanthotricha (Berk. & Broome) Sacc. SPECIES
-=======
+# Chaetosphaeria xanthotricha (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

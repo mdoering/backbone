@@ -1,5 +1,4 @@
-Lecidora subtrabigena Motyka SPECIES
-=======
+# Lecidora subtrabigena Motyka SPECIES
 
 #### Status
 ACCEPTED

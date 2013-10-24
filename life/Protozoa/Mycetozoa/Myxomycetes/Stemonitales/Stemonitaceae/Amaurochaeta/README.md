@@ -1,5 +1,4 @@
-Amaurochaeta Rostafinski, 1873 GENUS
-=======
+# Amaurochaeta Rostafinski, 1873 GENUS
 
 #### Status
 ACCEPTED

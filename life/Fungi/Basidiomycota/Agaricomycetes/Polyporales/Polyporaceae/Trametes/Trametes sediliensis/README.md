@@ -1,5 +1,4 @@
-Trametes sediliensis Corner SPECIES
-=======
+# Trametes sediliensis Corner SPECIES
 
 #### Status
 ACCEPTED

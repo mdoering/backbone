@@ -1,5 +1,4 @@
-Entoloma lividans Lovejoy SPECIES
-=======
+# Entoloma lividans Lovejoy SPECIES
 
 #### Status
 ACCEPTED

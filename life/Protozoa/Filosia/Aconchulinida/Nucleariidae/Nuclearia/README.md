@@ -1,14 +1,13 @@
-Nucleosphaerium Cann & Page, 1979 GENUS
-=======
+# Nuclearia Cienkowsky, 1865 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archiv Protistenk. 122 (3-4): 231.
+Arch. mikr. Anat. , 1, 207, 225.
 
 #### Original name
 null

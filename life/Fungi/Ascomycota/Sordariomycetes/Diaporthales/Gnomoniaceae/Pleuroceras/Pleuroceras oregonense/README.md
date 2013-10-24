@@ -1,5 +1,4 @@
-Pleuroceras oregonense M. Monod SPECIES
-=======
+# Pleuroceras oregonense M. Monod SPECIES
 
 #### Status
 ACCEPTED

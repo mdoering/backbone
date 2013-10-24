@@ -1,8 +1,7 @@
-Lecania athroocarpia (Nyl.) Trevis. SPECIES
-=======
+# Lecania athroocarpa (Nyl.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

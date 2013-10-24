@@ -1,5 +1,4 @@
-Gyrophora laevis Schaer. SPECIES
-=======
+# Gyrophora laevis Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia divergens Bubák SPECIES
-=======
+# Puccinia divergens Bubák SPECIES
 
 #### Status
 ACCEPTED

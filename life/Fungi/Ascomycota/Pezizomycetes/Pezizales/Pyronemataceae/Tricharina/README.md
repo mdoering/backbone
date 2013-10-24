@@ -1,5 +1,4 @@
-Tricharina Eckblad, 1968 GENUS
-=======
+# Tricharina Eckblad, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora kaiseri M.D. Mehrotra SPECIES
-=======
+# Pseudocercospora kaiseri M.D. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

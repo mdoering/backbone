@@ -1,5 +1,4 @@
-Xerotus luteolus Pat. SPECIES
-=======
+# Xerotus luteolus Pat. SPECIES
 
 #### Status
 ACCEPTED

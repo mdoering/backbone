@@ -1,5 +1,4 @@
-Pocillaria aureofulva (Cooke) Kuntze SPECIES
-=======
+# Pocillaria aureofulva (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

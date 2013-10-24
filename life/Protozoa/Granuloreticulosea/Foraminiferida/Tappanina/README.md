@@ -1,5 +1,4 @@
-Tappanina Gallitelli, 1956 GENUS
-=======
+# Tappanina Gallitelli, 1956 GENUS
 
 #### Status
 ACCEPTED

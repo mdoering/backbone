@@ -1,5 +1,4 @@
-Lepraria humida Slav.-Bay. & Orange SPECIES
-=======
+# Lepraria humida Slav.-Bay. & Orange SPECIES
 
 #### Status
 ACCEPTED

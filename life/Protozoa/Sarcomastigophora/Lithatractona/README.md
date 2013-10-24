@@ -1,5 +1,4 @@
-Lithatractona Haeckel, 1887 GENUS
-=======
+# Lithatractona Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

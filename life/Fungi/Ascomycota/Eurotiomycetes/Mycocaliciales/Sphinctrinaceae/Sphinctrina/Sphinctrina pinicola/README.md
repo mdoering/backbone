@@ -1,5 +1,4 @@
-Sphinctrina pinicola Körb. SPECIES
-=======
+# Sphinctrina pinicola Körb. SPECIES
 
 #### Status
 ACCEPTED

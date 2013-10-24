@@ -1,5 +1,4 @@
-Cetraria kamtczatica var. kamtczatica VARIETY
-=======
+# Cetraria kamtczatica Savicz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Izvêstiya Imperatorskoga Botanicheskoga Sada Petra Velikago 14: 119 (1914)
 
 #### Original name
-Cetraria kamtczatica var. kamtczatica
+Cetraria kamtczatica Savicz
 
 ### Remarks
 null

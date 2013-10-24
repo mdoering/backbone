@@ -1,5 +1,4 @@
-Paramitra ochreoides Benedix SPECIES
-=======
+# Paramitra ochreoides Benedix SPECIES
 
 #### Status
 ACCEPTED

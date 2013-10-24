@@ -1,5 +1,4 @@
-Leptothyrella tamaricis Golovin SPECIES
-=======
+# Leptothyrella tamaricis Golovin SPECIES
 
 #### Status
 ACCEPTED

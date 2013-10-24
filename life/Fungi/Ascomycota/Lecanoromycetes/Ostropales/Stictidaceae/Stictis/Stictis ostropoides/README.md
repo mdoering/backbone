@@ -1,5 +1,4 @@
-Stictis ostropoides Sherwood SPECIES
-=======
+# Stictis ostropoides Sherwood SPECIES
 
 #### Status
 ACCEPTED

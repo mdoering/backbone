@@ -1,5 +1,4 @@
-Trametes rhizophorae Reichardt SPECIES
-=======
+# Trametes rhizophorae Reichardt SPECIES
 
 #### Status
 ACCEPTED

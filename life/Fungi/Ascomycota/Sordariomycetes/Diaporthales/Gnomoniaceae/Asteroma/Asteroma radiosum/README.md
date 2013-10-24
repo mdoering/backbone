@@ -1,5 +1,4 @@
-Asteroma radiosum Fr. SPECIES
-=======
+# Asteroma radiosum Fr. SPECIES
 
 #### Status
 ACCEPTED

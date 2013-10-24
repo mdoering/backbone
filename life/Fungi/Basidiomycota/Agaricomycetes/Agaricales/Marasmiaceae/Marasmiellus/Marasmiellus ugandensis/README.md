@@ -1,5 +1,4 @@
-Marasmiellus ugandensis Pegler SPECIES
-=======
+# Marasmiellus ugandensis Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium ilicinum P.M. Kirk, 1983 SPECIES
-=======
+# Sporidesmium ilicinum P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

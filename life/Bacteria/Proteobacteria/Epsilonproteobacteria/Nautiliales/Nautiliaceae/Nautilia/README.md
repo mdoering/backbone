@@ -1,5 +1,4 @@
-Nautilia Miroshnichenko et al., 2002 GENUS
-=======
+# Nautilia Miroshnichenko et al., 2002 GENUS
 
 #### Status
 ACCEPTED

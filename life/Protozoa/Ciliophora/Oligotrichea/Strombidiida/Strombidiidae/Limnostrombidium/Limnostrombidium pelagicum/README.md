@@ -1,8 +1,7 @@
-Strombidium pelagoviride Krainer, 1993 SPECIES
-=======
+# Limnostrombidium pelagicum (Kahl, 1932) Krainer, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

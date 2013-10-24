@@ -1,5 +1,4 @@
-Helvella equina O.F. Müll. SPECIES
-=======
+# Helvella equina O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

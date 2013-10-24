@@ -1,5 +1,4 @@
-Secoliga GENUS
-=======
+# Secoliga GENUS
 
 #### Status
 ACCEPTED

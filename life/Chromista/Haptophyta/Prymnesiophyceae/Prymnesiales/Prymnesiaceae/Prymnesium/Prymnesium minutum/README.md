@@ -1,5 +1,4 @@
-Prymnesium minutum N.Carter SPECIES
-=======
+# Prymnesium minutum N.Carter SPECIES
 
 #### Status
 ACCEPTED

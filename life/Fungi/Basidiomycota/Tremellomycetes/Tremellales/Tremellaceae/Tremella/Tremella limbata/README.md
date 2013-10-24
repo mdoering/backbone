@@ -1,5 +1,4 @@
-Tremella limbata O.G. Costa SPECIES
-=======
+# Tremella limbata O.G. Costa SPECIES
 
 #### Status
 ACCEPTED

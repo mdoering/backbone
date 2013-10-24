@@ -1,5 +1,4 @@
-Disciseda johnstonii (Lloyd) Zeller SPECIES
-=======
+# Disciseda johnstonii (Lloyd) Zeller SPECIES
 
 #### Status
 ACCEPTED

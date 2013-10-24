@@ -1,5 +1,4 @@
-Condylostoma psammophila SPECIES
-=======
+# Condylostoma psammophila SPECIES
 
 #### Status
 ACCEPTED

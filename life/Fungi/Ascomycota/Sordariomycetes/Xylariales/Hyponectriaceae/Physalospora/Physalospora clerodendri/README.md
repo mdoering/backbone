@@ -1,5 +1,4 @@
-Physalospora clerodendri Syd. SPECIES
-=======
+# Physalospora clerodendri Syd. SPECIES
 
 #### Status
 ACCEPTED

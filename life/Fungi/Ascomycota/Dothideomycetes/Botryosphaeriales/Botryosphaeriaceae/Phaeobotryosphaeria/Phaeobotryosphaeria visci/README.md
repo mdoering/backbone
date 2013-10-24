@@ -1,17 +1,16 @@
-Sphaeropsis visci f. visci (Alb. & Schwein.) Sacc., 1880 FORM
-=======
+# Phaeobotryosphaeria visci (Kalchbr.) A.J.L. Phillips & Crous, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 105 (1880)
+in Phillips, Alves, Pennycook, Johnston, Ramaley, Akulov & Crous, Persoonia 21: 47 (2008)
 
 #### Original name
-Sphaeria atrovirens var. visci (Alb. & Schwein.)
+Dothidea visci Kalchbr., 1869
 
 ### Remarks
 null

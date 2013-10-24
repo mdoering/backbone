@@ -1,5 +1,4 @@
-Myrothecium convexum Berk. & M.A. Curtis SPECIES
-=======
+# Myrothecium convexum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

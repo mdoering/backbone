@@ -1,5 +1,4 @@
-Coprinus sclerotigenus Ellis & Everh. SPECIES
-=======
+# Coprinus sclerotigenus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

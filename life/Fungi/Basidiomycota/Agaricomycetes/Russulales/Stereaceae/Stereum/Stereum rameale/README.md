@@ -1,14 +1,13 @@
-Thelephora ramealis Schwein., 1822 SPECIES
-=======
+# Stereum rameale (Schwein.) Burt, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 106 (1822)
+Ann. Mo. bot. Gdn 7(2-3): 169 (1920)
 
 #### Original name
 Thelephora ramealis Schwein., 1822

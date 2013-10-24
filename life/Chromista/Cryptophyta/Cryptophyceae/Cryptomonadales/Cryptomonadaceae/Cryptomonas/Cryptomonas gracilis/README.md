@@ -1,5 +1,4 @@
-Cryptomonas gracilis Skuja SPECIES
-=======
+# Cryptomonas gracilis Skuja SPECIES
 
 #### Status
 ACCEPTED

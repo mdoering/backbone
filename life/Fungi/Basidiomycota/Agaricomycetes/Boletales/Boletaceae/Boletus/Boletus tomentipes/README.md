@@ -1,5 +1,4 @@
-Boletus tomentipes Earle SPECIES
-=======
+# Boletus tomentipes Earle SPECIES
 
 #### Status
 ACCEPTED

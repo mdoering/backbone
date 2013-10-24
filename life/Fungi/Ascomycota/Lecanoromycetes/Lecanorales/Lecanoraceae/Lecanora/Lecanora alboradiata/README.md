@@ -1,5 +1,4 @@
-Lecanora alboradiata f. soluta H. Magn. FORM
-=======
+# Lecanora alboradiata H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora alboradiata f. soluta H. Magn.
+Lecanora alboradiata H. Magn.
 
 ### Remarks
 null

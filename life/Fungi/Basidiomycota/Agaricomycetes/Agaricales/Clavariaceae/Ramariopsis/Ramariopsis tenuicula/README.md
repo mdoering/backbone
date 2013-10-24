@@ -1,14 +1,13 @@
-Clavaria tenuicula Bourdot & Galzin, 1928 SPECIES
-=======
+# Ramariopsis tenuicula (Bourdot & Galzin) R.H. Petersen, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France 104 (1928)
+Mycologia 61: 552 (1969)
 
 #### Original name
 Clavaria tenuicula Bourdot & Galzin, 1928

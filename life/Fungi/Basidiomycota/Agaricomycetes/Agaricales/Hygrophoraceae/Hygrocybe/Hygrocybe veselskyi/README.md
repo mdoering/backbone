@@ -1,5 +1,4 @@
-Hygrocybe veselskyi Singer & Kuthan SPECIES
-=======
+# Hygrocybe veselskyi Singer & Kuthan SPECIES
 
 #### Status
 ACCEPTED

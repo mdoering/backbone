@@ -1,5 +1,4 @@
-Naemospora cydoniae Schulzer SPECIES
-=======
+# Naemospora cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

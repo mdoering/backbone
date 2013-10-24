@@ -1,5 +1,4 @@
-Lecidea promiscua var. promiscua VARIETY
-=======
+# Lecidea promiscua Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 57: 357 (1874)
 
 #### Original name
-Lecidea promiscua var. promiscua
+Lecidea promiscua Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Metopus cuspidatus Penard, ? SPECIES
-=======
+# Metopus cuspidatus Penard, ? SPECIES
 
 #### Status
 ACCEPTED

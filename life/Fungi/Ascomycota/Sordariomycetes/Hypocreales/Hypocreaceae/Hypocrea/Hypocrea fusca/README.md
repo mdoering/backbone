@@ -1,5 +1,4 @@
-Hypocrea fusca Mont. SPECIES
-=======
+# Hypocrea fusca Mont. SPECIES
 
 #### Status
 ACCEPTED

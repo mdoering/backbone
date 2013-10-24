@@ -1,5 +1,4 @@
-Xenosporium boivinii S. Hughes, 1978 SPECIES
-=======
+# Xenosporium boivinii S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

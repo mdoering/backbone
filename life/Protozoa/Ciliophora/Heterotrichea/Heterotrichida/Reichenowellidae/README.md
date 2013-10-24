@@ -1,5 +1,4 @@
-Reichenowellidae FAMILY
-=======
+# Reichenowellidae FAMILY
 
 #### Status
 ACCEPTED

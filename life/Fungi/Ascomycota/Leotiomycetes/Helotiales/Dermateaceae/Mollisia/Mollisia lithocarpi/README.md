@@ -1,5 +1,4 @@
-Mollisia lithocarpi E.K. Cash SPECIES
-=======
+# Mollisia lithocarpi E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

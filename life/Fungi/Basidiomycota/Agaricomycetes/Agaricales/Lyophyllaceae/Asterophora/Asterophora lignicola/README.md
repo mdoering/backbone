@@ -1,5 +1,4 @@
-Asterophora lignicola G. Arnaud SPECIES
-=======
+# Asterophora lignicola G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

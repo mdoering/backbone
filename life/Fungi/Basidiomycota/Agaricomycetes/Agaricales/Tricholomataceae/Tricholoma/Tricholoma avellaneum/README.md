@@ -1,5 +1,4 @@
-Tricholoma avellaneum Murrill SPECIES
-=======
+# Tricholoma avellaneum Murrill SPECIES
 
 #### Status
 ACCEPTED

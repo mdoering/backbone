@@ -1,5 +1,4 @@
-Afrothigma GENUS
-=======
+# Afrothigma GENUS
 
 #### Status
 ACCEPTED

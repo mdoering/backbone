@@ -1,5 +1,4 @@
-Cumminsina Petr. GENUS
-=======
+# Cumminsina Petr. GENUS
 
 #### Status
 ACCEPTED

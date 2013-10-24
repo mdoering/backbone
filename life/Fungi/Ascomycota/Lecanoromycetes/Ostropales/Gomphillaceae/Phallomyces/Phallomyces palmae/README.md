@@ -1,5 +1,4 @@
-Phallomyces palmae Bat. & Valle SPECIES
-=======
+# Phallomyces palmae Bat. & Valle SPECIES
 
 #### Status
 ACCEPTED

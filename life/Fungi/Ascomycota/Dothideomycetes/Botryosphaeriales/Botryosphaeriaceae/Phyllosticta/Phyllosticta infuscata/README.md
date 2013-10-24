@@ -1,5 +1,4 @@
-Phyllosticta infuscata G. Winter SPECIES
-=======
+# Phyllosticta infuscata G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza cornucopiae Hoffm. SPECIES
-=======
+# Peziza cornucopiae Hoffm. SPECIES
 
 #### Status
 ACCEPTED

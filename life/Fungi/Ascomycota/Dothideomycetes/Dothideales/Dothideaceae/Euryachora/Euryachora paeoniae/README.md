@@ -1,5 +1,4 @@
-Euryachora paeoniae E. Müll. & S. Ahmad SPECIES
-=======
+# Euryachora paeoniae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

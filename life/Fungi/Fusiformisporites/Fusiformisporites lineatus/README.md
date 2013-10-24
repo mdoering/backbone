@@ -1,5 +1,4 @@
-Fusiformisporites lineatus Rouse & Mustard SPECIES
-=======
+# Fusiformisporites lineatus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

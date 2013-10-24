@@ -1,5 +1,4 @@
-Bolivina hentyana Chapman, 1916 SPECIES
-=======
+# Bolivina hentyana Chapman, 1916 SPECIES
 
 #### Status
 ACCEPTED

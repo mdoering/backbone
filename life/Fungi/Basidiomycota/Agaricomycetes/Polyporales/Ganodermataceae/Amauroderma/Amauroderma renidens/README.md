@@ -1,5 +1,4 @@
-Amauroderma renidens (Bres.) Torrend, 1920 SPECIES
-=======
+# Amauroderma renidens (Bres.) Torrend, 1920 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirneola nigra SPECIES
-=======
+# Hirneola nigra SPECIES
 
 #### Status
 ACCEPTED

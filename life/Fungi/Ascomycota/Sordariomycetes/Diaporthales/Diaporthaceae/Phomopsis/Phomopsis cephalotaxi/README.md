@@ -1,5 +1,4 @@
-Phomopsis cephalotaxi Sawada SPECIES
-=======
+# Phomopsis cephalotaxi Sawada SPECIES
 
 #### Status
 ACCEPTED

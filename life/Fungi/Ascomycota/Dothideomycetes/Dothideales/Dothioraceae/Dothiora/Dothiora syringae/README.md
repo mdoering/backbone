@@ -1,5 +1,4 @@
-Dothiora syringae Bond.-Mont. SPECIES
-=======
+# Dothiora syringae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

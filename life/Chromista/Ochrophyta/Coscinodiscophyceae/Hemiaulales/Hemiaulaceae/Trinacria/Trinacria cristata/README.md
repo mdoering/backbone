@@ -1,5 +1,4 @@
-Trinacria cristata SPECIES
-=======
+# Trinacria cristata SPECIES
 
 #### Status
 ACCEPTED

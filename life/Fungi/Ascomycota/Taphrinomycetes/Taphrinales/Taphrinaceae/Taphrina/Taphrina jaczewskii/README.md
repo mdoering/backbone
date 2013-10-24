@@ -1,5 +1,4 @@
-Taphrina jaczewskii Palm SPECIES
-=======
+# Taphrina jaczewskii Palm SPECIES
 
 #### Status
 ACCEPTED

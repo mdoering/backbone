@@ -1,5 +1,4 @@
-Erebonema hercynicum A. Roem. SPECIES
-=======
+# Erebonema hercynicum A. Roem. SPECIES
 
 #### Status
 ACCEPTED

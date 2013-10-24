@@ -1,5 +1,4 @@
-Stellinium exiguum Colbath, 1990 SPECIES
-=======
+# Stellinium exiguum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

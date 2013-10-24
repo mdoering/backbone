@@ -1,5 +1,4 @@
-Scleroderma gilvidulum Bres. SPECIES
-=======
+# Scleroderma gilvidulum Bres. SPECIES
 
 #### Status
 ACCEPTED

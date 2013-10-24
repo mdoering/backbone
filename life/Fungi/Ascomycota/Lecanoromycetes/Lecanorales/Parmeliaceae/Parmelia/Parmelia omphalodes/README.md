@@ -1,17 +1,16 @@
-Parmelia omphalodes f. omphalodes FORM
-=======
+# Parmelia omphalodes (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Method. Lich. 204 (1803)
 
 #### Original name
-Parmelia omphalodes f. omphalodes
+Lichen omphalodes L.
 
 ### Remarks
 null

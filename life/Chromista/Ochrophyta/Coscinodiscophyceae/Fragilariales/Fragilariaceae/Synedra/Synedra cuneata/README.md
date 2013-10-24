@@ -1,5 +1,4 @@
-Synedra cuneata H.P. Gandhi SPECIES
-=======
+# Synedra cuneata H.P. Gandhi SPECIES
 
 #### Status
 ACCEPTED

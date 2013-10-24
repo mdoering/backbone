@@ -1,5 +1,4 @@
-Hypocrella phyllogena (Mont.) Speg. SPECIES
-=======
+# Hypocrella phyllogena (Mont.) Speg. SPECIES
 
 #### Status
 ACCEPTED

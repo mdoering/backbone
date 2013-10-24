@@ -1,5 +1,4 @@
-Vorticella vaginata Müller, 1786 SPECIES
-=======
+# Vorticella vaginata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

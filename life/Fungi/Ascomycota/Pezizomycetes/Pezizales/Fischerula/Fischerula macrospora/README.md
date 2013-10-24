@@ -1,5 +1,4 @@
-Fischerula macrospora Mattir., 1928 SPECIES
-=======
+# Fischerula macrospora Mattir., 1928 SPECIES
 
 #### Status
 ACCEPTED

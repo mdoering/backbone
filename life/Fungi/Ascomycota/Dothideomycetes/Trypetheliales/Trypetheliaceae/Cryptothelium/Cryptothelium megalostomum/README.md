@@ -1,5 +1,4 @@
-Cryptothelium megalostomum (Vain.) Zahlbr. SPECIES
-=======
+# Cryptothelium megalostomum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rugosocarinata Korchagin, 1993 GENUS
-=======
+# Rugosocarinata Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

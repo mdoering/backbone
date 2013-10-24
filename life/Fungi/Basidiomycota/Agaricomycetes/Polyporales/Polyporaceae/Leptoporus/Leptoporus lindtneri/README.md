@@ -1,5 +1,4 @@
-Leptoporus lindtneri Pilát SPECIES
-=======
+# Leptoporus lindtneri Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homozygosphaera Deflandre, 1952 GENUS
-=======
+# Homozygosphaera Deflandre, 1952 GENUS
 
 #### Status
 ACCEPTED

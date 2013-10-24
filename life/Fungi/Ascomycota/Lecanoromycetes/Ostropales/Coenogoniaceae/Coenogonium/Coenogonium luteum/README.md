@@ -1,17 +1,16 @@
-Microphiale lutea f. lutea FORM
-=======
+# Coenogonium luteum (Dicks.) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Microphiale lutea f. lutea
+null
 
 ### Remarks
 null

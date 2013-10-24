@@ -1,5 +1,4 @@
-Porina tenebricosa A. Massal. SPECIES
-=======
+# Porina tenebricosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula limicola Saut. SPECIES
-=======
+# Typhula limicola Saut. SPECIES
 
 #### Status
 ACCEPTED

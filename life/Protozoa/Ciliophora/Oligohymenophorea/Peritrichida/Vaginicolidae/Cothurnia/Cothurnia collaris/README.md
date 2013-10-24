@@ -1,5 +1,4 @@
-Cothurnia collaris Kahl, 1933 SPECIES
-=======
+# Cothurnia collaris Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

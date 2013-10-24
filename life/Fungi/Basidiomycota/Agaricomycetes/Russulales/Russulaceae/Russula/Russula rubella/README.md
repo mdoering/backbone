@@ -1,5 +1,4 @@
-Russula rubella A. Blytt SPECIES
-=======
+# Russula rubella A. Blytt SPECIES
 
 #### Status
 ACCEPTED

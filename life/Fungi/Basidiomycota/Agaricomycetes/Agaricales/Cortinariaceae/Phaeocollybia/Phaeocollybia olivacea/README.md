@@ -1,5 +1,4 @@
-Phaeocollybia olivacea A.H. Sm. SPECIES
-=======
+# Phaeocollybia olivacea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

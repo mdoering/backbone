@@ -1,5 +1,4 @@
-Catenularia elasticae Koord. SPECIES
-=======
+# Catenularia elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

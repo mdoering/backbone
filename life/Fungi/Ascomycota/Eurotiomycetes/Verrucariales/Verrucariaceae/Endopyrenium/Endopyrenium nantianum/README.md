@@ -1,5 +1,4 @@
-Endopyrenium nantianum (H. Olivier) Croz. SPECIES
-=======
+# Endopyrenium nantianum (H. Olivier) Croz. SPECIES
 
 #### Status
 ACCEPTED

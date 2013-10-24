@@ -1,5 +1,4 @@
-Galera striatula Clem. SPECIES
-=======
+# Galera striatula Clem. SPECIES
 
 #### Status
 ACCEPTED

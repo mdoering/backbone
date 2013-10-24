@@ -1,11 +1,10 @@
-Anabaena flosaquae var. intermedia Woronichin VARIETY
-=======
+# Aphanizomenon flos-aquae (Linnaeus) Ralfs ex Bornet & Flahault SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

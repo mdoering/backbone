@@ -1,5 +1,4 @@
-Laboulbenia subantarctica M.B. Hughes, A. Weir & C. Judd, 2004 SPECIES
-=======
+# Laboulbenia subantarctica M.B. Hughes, A. Weir & C. Judd, 2004 SPECIES
 
 #### Status
 ACCEPTED

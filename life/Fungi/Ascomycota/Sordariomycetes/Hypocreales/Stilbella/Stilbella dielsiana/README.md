@@ -1,5 +1,4 @@
-Stilbella dielsiana Reichert SPECIES
-=======
+# Stilbella dielsiana Reichert SPECIES
 
 #### Status
 ACCEPTED

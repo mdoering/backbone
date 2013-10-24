@@ -1,17 +1,16 @@
-Ascobolus marginatus Massee, 1893 SPECIES
-=======
+# Ascobolus masseei Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 22(no. 104): 98 (1893)
+Syll. fung. (Abellini) 14(2): 794 (1899)
 
 #### Original name
-Ascobolus marginatus Massee, 1893
+Ascobolus masseei Sacc. & P. Syd., 1899
 
 ### Remarks
 null

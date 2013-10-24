@@ -1,5 +1,4 @@
-Glugea cladocera Pfeiffer SPECIES
-=======
+# Glugea cladocera Pfeiffer SPECIES
 
 #### Status
 ACCEPTED

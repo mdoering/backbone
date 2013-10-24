@@ -1,5 +1,4 @@
-Pleurotus nepalensis Corner SPECIES
-=======
+# Pleurotus nepalensis Corner SPECIES
 
 #### Status
 ACCEPTED

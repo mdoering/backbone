@@ -1,5 +1,4 @@
-Entophlyctis luteolus Longcore, 1995 SPECIES
-=======
+# Entophlyctis luteolus Longcore, 1995 SPECIES
 
 #### Status
 ACCEPTED

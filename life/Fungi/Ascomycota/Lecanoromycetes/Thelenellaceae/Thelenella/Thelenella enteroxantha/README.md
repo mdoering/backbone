@@ -1,5 +1,4 @@
-Thelenella enteroxantha SPECIES
-=======
+# Thelenella enteroxantha SPECIES
 
 #### Status
 ACCEPTED

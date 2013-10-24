@@ -1,5 +1,4 @@
-Epistylis calciformis Kahl, 1933 SPECIES
-=======
+# Epistylis calciformis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

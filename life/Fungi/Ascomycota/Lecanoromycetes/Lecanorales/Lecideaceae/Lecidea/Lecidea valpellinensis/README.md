@@ -1,5 +1,4 @@
-Lecidea valpellinensis B. de Lesd. SPECIES
-=======
+# Lecidea valpellinensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

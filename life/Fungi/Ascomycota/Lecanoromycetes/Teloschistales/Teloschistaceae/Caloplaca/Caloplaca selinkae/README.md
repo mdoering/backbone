@@ -1,5 +1,4 @@
-Caloplaca selinkae Szatala SPECIES
-=======
+# Caloplaca selinkae Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta apocyni Ellis & G. Martin SPECIES
-=======
+# Phyllosticta apocyni Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

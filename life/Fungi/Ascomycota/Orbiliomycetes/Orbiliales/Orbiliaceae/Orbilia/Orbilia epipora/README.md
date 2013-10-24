@@ -1,11 +1,10 @@
-Orbilia epipora subsp. epipora SUBSPECIES
-=======
+# Orbilia epipora (Nyl.) P. Karst., 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Not. Sällsk. Fauna et Fl. Fenn. Förh. 11: 248 (1870)

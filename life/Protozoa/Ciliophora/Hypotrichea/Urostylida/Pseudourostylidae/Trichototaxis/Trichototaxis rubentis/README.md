@@ -1,5 +1,4 @@
-Trichototaxis rubentis (Sarmiento & Guerra, 1960) Buitkamp, 1977 SPECIES
-=======
+# Trichototaxis rubentis (Sarmiento & Guerra, 1960) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria acuaria Lib. SPECIES
-=======
+# Sphaeria acuaria Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synsphaeridium Timofeev, 1966 GENUS
-=======
+# Synsphaeridium Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exarmidium diaphanum (Cooke & Ellis) M.E. Barr & Boise SPECIES
-=======
+# Exarmidium diaphanum (Cooke & Ellis) M.E. Barr & Boise SPECIES
 
 #### Status
 ACCEPTED

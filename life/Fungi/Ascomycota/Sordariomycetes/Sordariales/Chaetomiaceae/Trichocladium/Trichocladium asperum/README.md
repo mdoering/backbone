@@ -1,17 +1,16 @@
-Trichocladium asperum var. charticolum Sacc. VARIETY
-=======
+# Trichocladium asperum Harz, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Unters. Alkoholgährungspilze 44: 125 (1871)
 
 #### Original name
-Trichocladium asperum var. charticolum Sacc.
+Trichocladium asperum Harz, 1871
 
 ### Remarks
 null

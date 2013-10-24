@@ -1,5 +1,4 @@
-Aderkomyces microcarpus (Etayo & Lücking) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces microcarpus (Etayo & Lücking) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

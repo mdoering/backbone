@@ -1,5 +1,4 @@
-Ramalina cumanensis Fée SPECIES
-=======
+# Ramalina cumanensis Fée SPECIES
 
 #### Status
 ACCEPTED

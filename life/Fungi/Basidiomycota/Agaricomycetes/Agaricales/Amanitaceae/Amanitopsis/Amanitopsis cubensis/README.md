@@ -1,5 +1,4 @@
-Amanitopsis cubensis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Amanitopsis cubensis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

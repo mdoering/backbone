@@ -1,5 +1,4 @@
-Corticium agglutinans Pat. SPECIES
-=======
+# Corticium agglutinans Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastobotrys illinoisensis Kurtzman, 2007 SPECIES
-=======
+# Blastobotrys illinoisensis Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

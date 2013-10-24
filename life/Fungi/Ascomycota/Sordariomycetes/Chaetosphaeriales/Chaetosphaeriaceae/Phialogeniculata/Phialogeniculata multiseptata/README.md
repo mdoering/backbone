@@ -1,5 +1,4 @@
-Phialogeniculata multiseptata Matsush. SPECIES
-=======
+# Phialogeniculata multiseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

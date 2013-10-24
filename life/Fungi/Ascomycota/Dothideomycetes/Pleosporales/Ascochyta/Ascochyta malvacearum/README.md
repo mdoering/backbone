@@ -1,5 +1,4 @@
-Ascochyta malvacearum Kabát & Bubák SPECIES
-=======
+# Ascochyta malvacearum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

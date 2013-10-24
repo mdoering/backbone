@@ -1,5 +1,4 @@
-Pertusaria alboatra Zahlbr. SPECIES
-=======
+# Pertusaria alboatra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia chartacea Pat. & Har. SPECIES
-=======
+# Hexagonia chartacea Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

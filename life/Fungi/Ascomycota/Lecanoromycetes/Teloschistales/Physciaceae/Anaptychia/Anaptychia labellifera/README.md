@@ -1,5 +1,4 @@
-Anaptychia labellifera Hillmann SPECIES
-=======
+# Anaptychia labellifera Hillmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia kawakamii Sawada SPECIES
-=======
+# Aschersonia kawakamii Sawada SPECIES
 
 #### Status
 ACCEPTED

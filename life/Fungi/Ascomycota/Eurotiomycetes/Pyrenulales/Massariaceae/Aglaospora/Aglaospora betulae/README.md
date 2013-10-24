@@ -1,5 +1,4 @@
-Aglaospora betulae (Schumach.) Kuntze SPECIES
-=======
+# Aglaospora betulae (Schumach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epimecophrya cylindrica Kahl, 1933 SPECIES
-=======
+# Epimecophrya cylindrica Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

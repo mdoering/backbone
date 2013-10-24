@@ -1,5 +1,4 @@
-Perichaena areolata Rammeloo, 1981 SPECIES
-=======
+# Perichaena areolata Rammeloo, 1981 SPECIES
 
 #### Status
 ACCEPTED

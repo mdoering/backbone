@@ -1,11 +1,10 @@
-Phellinus betulinus subsp. betulinus (Murrill) Parmasto SUBSPECIES
-=======
+# Phellinus betulinus (Murrill) Parmasto, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Folia cryptog. Estonica 43: 41 (2007)

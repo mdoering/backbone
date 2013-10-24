@@ -1,5 +1,4 @@
-Junia batava Dumort. SPECIES
-=======
+# Junia batava Dumort. SPECIES
 
 #### Status
 ACCEPTED

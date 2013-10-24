@@ -1,17 +1,16 @@
-Teratosperma uniappendiculata Matsush. SPECIES
-=======
+# Teratosperma uniappendiculatum Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. microfung. Matsush. lect. (Kobe) 152 (1975)
 
 #### Original name
-Teratosperma uniappendiculata Matsush.
+Teratosperma uniappendiculatum Matsush.
 
 ### Remarks
 null

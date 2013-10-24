@@ -1,5 +1,4 @@
-Euthrypton globiferum (Ellis & Everh.) Theiss. SPECIES
-=======
+# Euthrypton globiferum (Ellis & Everh.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

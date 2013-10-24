@@ -1,5 +1,4 @@
-Ophryoscolex Stein, 1859 GENUS
-=======
+# Ophryoscolex Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

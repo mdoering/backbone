@@ -1,5 +1,4 @@
-Septonema arcticum Allesch. SPECIES
-=======
+# Septonema arcticum Allesch. SPECIES
 
 #### Status
 ACCEPTED

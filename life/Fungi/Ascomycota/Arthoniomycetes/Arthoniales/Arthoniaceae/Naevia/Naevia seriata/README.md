@@ -1,17 +1,16 @@
-Naevia seriata var. seriata VARIETY
-=======
+# Naevia seriata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig) 1(3): 147 (1888)
+null
 
 #### Original name
-Naevia seriata var. seriata
+null
 
 ### Remarks
 null

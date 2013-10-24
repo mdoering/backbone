@@ -1,5 +1,4 @@
-Lepocinclis simpheropolica Christjuk SPECIES
-=======
+# Lepocinclis simpheropolica Christjuk SPECIES
 
 #### Status
 ACCEPTED

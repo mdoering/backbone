@@ -1,5 +1,4 @@
-Ectocarpus pumilus Zanardini SPECIES
-=======
+# Ectocarpus pumilus Zanardini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhagodiscus amplus SPECIES
-=======
+# Rhagodiscus amplus SPECIES
 
 #### Status
 ACCEPTED

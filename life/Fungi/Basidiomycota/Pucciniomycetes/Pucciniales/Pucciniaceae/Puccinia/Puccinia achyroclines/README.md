@@ -1,5 +1,4 @@
-Puccinia achyroclines (Henn.) H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia achyroclines (Henn.) H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

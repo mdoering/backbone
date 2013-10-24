@@ -1,5 +1,4 @@
-Lecidea collatula Nyl. SPECIES
-=======
+# Lecidea collatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

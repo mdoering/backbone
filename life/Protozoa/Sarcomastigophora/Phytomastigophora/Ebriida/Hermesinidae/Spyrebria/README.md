@@ -1,5 +1,4 @@
-Spyrebria Frenguelli, 1940 GENUS
-=======
+# Spyrebria Frenguelli, 1940 GENUS
 
 #### Status
 ACCEPTED

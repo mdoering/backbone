@@ -1,5 +1,4 @@
-Cladosporium mervale Ellis & Dearn. SPECIES
-=======
+# Cladosporium mervale Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

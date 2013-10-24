@@ -1,5 +1,4 @@
-Penicillium inerme Warcup SPECIES
-=======
+# Penicillium inerme Warcup SPECIES
 
 #### Status
 ACCEPTED

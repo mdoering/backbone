@@ -1,5 +1,4 @@
-Cryptomonas anomala F.E. Fritsch SPECIES
-=======
+# Cryptomonas anomala F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

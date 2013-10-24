@@ -1,5 +1,4 @@
-Gnomonia betulae-pubescentis M. Monod SPECIES
-=======
+# Gnomonia betulae-pubescentis M. Monod SPECIES
 
 #### Status
 ACCEPTED

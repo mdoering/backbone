@@ -1,5 +1,4 @@
-Hyalopeziza valesiaca Raschle SPECIES
-=======
+# Hyalopeziza valesiaca Raschle SPECIES
 
 #### Status
 ACCEPTED

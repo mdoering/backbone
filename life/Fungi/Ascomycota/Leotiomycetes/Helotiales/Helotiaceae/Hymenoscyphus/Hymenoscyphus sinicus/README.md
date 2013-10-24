@@ -1,5 +1,4 @@
-Hymenoscyphus sinicus W.Y. Zhuang & Yan H. Zhang SPECIES
-=======
+# Hymenoscyphus sinicus W.Y. Zhuang & Yan H. Zhang SPECIES
 
 #### Status
 ACCEPTED

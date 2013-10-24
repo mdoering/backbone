@@ -1,5 +1,4 @@
-Agaricus clavus subsp. clavus L. SUBSPECIES
-=======
+# Agaricus clavus L. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sp. pl. 2: 1175 (1753)
 
 #### Original name
-Agaricus clavus subsp. clavus L.
+Agaricus clavus L.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Beloniella wagnerianum Rehm SPECIES
-=======
+# Coccomyces wagnerianus (Rehm) Rehm, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. bayer. bot. Ges. 13: 131 (1912)
 
 #### Original name
-Beloniella wagnerianum Rehm
+Beloniella wagneriana Rehm, 1896
 
 ### Remarks
 null

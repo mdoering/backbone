@@ -1,5 +1,4 @@
-Septoria majalis Aderh. SPECIES
-=======
+# Septoria majalis Aderh. SPECIES
 
 #### Status
 ACCEPTED

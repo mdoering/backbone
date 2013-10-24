@@ -1,5 +1,4 @@
-Aplosporella rugosa Henn. SPECIES
-=======
+# Aplosporella rugosa Henn. SPECIES
 
 #### Status
 ACCEPTED

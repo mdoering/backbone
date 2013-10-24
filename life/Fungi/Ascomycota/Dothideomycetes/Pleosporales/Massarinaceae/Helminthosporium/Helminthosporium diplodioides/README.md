@@ -1,5 +1,4 @@
-Helminthosporium diplodioides Thüm. SPECIES
-=======
+# Helminthosporium diplodioides Thüm. SPECIES
 
 #### Status
 ACCEPTED

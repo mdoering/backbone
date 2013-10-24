@@ -1,5 +1,4 @@
-Peripanartium Haeckel, 1887 GENUS
-=======
+# Peripanartium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

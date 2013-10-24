@@ -1,5 +1,4 @@
-Diploplastron Kofoid & MacLennan, 1932 GENUS
-=======
+# Diploplastron Kofoid & MacLennan, 1932 GENUS
 
 #### Status
 ACCEPTED

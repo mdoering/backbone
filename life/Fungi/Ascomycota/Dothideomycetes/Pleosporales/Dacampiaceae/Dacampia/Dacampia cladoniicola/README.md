@@ -1,5 +1,4 @@
-Dacampia cladoniicola Halici & A.O. Türk SPECIES
-=======
+# Dacampia cladoniicola Halici & A.O. Türk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina machangaraensis Singer SPECIES
-=======
+# Galerina machangaraensis Singer SPECIES
 
 #### Status
 ACCEPTED

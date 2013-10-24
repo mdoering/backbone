@@ -1,5 +1,4 @@
-Pluricellaesporites globatus B. Samant SPECIES
-=======
+# Pluricellaesporites globatus B. Samant SPECIES
 
 #### Status
 ACCEPTED

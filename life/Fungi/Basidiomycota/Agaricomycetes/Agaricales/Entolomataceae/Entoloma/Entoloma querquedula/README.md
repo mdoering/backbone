@@ -1,14 +1,13 @@
-Leptonia querquedula (Romagn.) P.D. Orton, 1976 SPECIES
-=======
+# Entoloma querquedula (Romagn.) Noordel., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 31: 711 (1976)
+Persoonia 11(4): 471 (1982)
 
 #### Original name
 Rhodophyllus querquedula Romagn., 1954

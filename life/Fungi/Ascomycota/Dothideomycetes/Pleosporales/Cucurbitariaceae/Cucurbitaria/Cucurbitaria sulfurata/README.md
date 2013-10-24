@@ -1,5 +1,4 @@
-Cucurbitaria sulfurata (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cucurbitaria sulfurata (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

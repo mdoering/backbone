@@ -1,5 +1,4 @@
-Lysurus sanctae-catharinae (E. Fisch.) Henn. SPECIES
-=======
+# Lysurus sanctae-catharinae (E. Fisch.) Henn. SPECIES
 
 #### Status
 ACCEPTED

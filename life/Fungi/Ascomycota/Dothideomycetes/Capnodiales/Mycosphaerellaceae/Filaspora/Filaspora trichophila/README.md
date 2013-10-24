@@ -1,5 +1,4 @@
-Filaspora trichophila (Sacc.) Kuntze SPECIES
-=======
+# Filaspora trichophila (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

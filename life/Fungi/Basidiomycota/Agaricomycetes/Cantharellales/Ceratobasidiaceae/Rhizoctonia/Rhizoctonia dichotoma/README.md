@@ -1,5 +1,4 @@
-Rhizoctonia dichotoma H.K. Saksena & Vaartaja, 1960 SPECIES
-=======
+# Rhizoctonia dichotoma H.K. Saksena & Vaartaja, 1960 SPECIES
 
 #### Status
 ACCEPTED

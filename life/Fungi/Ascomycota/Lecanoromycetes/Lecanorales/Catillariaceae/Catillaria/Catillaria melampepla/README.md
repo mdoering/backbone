@@ -1,5 +1,4 @@
-Catillaria melampepla (Tuck.) Zahlbr. SPECIES
-=======
+# Catillaria melampepla (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

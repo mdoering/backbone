@@ -1,5 +1,4 @@
-Lecanora punicea var. punicea (Ach.) Ach. VARIETY
-=======
+# Lecanora punicea (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora punicea var. punicea (Ach.) Ach.
+Lichen puniceus Sw.
 
 ### Remarks
 null

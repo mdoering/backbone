@@ -1,5 +1,4 @@
-Eutypella similis (P. Karst.) Sacc. SPECIES
-=======
+# Eutypella similis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium neocrassum R. Serra & S.W. Peterson SPECIES
-=======
+# Penicillium neocrassum R. Serra & S.W. Peterson SPECIES
 
 #### Status
 ACCEPTED

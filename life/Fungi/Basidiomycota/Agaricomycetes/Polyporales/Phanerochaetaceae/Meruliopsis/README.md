@@ -1,5 +1,4 @@
-Meruliopsis Bondartsev, 1959 GENUS
-=======
+# Meruliopsis Bondartsev, 1959 GENUS
 
 #### Status
 ACCEPTED

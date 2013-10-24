@@ -1,5 +1,4 @@
-Platygrapha lineolata Nyl. SPECIES
-=======
+# Platygrapha lineolata Nyl. SPECIES
 
 #### Status
 ACCEPTED

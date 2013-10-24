@@ -1,5 +1,4 @@
-Lasiosphaeria subcaudata Mouton SPECIES
-=======
+# Lasiosphaeria subcaudata Mouton SPECIES
 
 #### Status
 ACCEPTED

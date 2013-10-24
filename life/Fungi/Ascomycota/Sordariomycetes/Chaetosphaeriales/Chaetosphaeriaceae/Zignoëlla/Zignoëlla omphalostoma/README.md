@@ -1,5 +1,4 @@
-Zignoëlla omphalostoma Penz. & Sacc. SPECIES
-=======
+# Zignoëlla omphalostoma Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scintilla G. Playfair, 1921 GENUS
-=======
+# Scintilla G. Playfair, 1921 GENUS
 
 #### Status
 ACCEPTED

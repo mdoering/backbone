@@ -1,5 +1,4 @@
-Phyllosticta heucherae var. heucherae VARIETY
-=======
+# Phyllosticta heucherae Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Act. Soc. linn. Bordeaux, sér. A 44: 57 [extr. ] (1890)
 
 #### Original name
-Phyllosticta heucherae var. heucherae
+Phyllosticta heucherae Brunaud
 
 ### Remarks
 null

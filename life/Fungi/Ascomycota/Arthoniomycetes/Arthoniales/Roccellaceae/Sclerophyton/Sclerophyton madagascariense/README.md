@@ -1,5 +1,4 @@
-Sclerophyton madagascariense Sparrius SPECIES
-=======
+# Sclerophyton madagascariense Sparrius SPECIES
 
 #### Status
 ACCEPTED

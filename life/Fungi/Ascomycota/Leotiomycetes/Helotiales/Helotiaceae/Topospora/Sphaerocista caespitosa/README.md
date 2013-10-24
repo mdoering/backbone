@@ -1,5 +1,4 @@
-Sphaerocista caespitosa Preuss SPECIES
-=======
+# Sphaerocista caespitosa Preuss SPECIES
 
 #### Status
 ACCEPTED

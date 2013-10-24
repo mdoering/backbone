@@ -1,5 +1,4 @@
-Bryophyllum interrupta SPECIES
-=======
+# Bryophyllum interrupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermabacter Jones & Collins, 1989 GENUS
-=======
+# Dermabacter Jones & Collins, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula subpunctata Kauffman SPECIES
-=======
+# Russula subpunctata Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyorinis diplinthia (Nyl.) Clem. SPECIES
-=======
+# Dictyorinis diplinthia (Nyl.) Clem. SPECIES
 
 #### Status
 ACCEPTED

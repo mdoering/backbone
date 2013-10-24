@@ -1,5 +1,4 @@
-Trichophyton gourvilii var. gourvilii VARIETY
-=======
+# Trichophyton gourvilii Catanei, 1933 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Path. Exot. 26: 381 (1933)
+null
 
 #### Original name
-Trichophyton gourvilii var. gourvilii
+null
 
 ### Remarks
 null

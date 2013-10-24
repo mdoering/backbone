@@ -1,5 +1,4 @@
-Tubercularia circinata Lév. SPECIES
-=======
+# Tubercularia circinata Lév. SPECIES
 
 #### Status
 ACCEPTED

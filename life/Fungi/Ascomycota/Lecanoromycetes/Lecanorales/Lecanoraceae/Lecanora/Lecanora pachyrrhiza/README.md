@@ -1,5 +1,4 @@
-Lecanora pachyrrhiza Poelt & Grube SPECIES
-=======
+# Lecanora pachyrrhiza Poelt & Grube SPECIES
 
 #### Status
 ACCEPTED

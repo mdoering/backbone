@@ -1,5 +1,4 @@
-Planktothrix pseudoagardhii Suda & Watanabe SPECIES
-=======
+# Planktothrix pseudoagardhii Suda & Watanabe SPECIES
 
 #### Status
 ACCEPTED

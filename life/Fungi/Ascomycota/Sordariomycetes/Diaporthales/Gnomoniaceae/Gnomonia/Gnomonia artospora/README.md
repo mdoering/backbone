@@ -1,5 +1,4 @@
-Gnomonia artospora (Dearn. & House) Dearn. & House SPECIES
-=======
+# Gnomonia artospora (Dearn. & House) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora peltulidea (Stirt.) C.W. Dodge SPECIES
-=======
+# Psora peltulidea (Stirt.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

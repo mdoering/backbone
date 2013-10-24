@@ -1,5 +1,4 @@
-Gomphidius furcatus Peck SPECIES
-=======
+# Gomphidius furcatus Peck SPECIES
 
 #### Status
 ACCEPTED

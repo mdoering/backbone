@@ -1,5 +1,4 @@
-Rhabdospora rhizophila (Syd.) Died. SPECIES
-=======
+# Rhabdospora rhizophila (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

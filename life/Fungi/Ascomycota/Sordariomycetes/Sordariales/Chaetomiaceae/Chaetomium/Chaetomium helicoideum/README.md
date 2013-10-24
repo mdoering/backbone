@@ -1,5 +1,4 @@
-Chaetomium helicoideum H.J. Chowdhery & J.N. Rai SPECIES
-=======
+# Chaetomium helicoideum H.J. Chowdhery & J.N. Rai SPECIES
 
 #### Status
 ACCEPTED

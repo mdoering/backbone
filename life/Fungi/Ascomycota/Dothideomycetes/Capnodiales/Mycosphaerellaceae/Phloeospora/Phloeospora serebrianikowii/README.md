@@ -1,5 +1,4 @@
-Phloeospora serebrianikowii Bubák SPECIES
-=======
+# Phloeospora serebrianikowii Bubák SPECIES
 
 #### Status
 ACCEPTED

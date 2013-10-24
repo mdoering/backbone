@@ -1,5 +1,4 @@
-Dicoelophrya almae Puytorac & Dragesco, 1969 SPECIES
-=======
+# Dicoelophrya almae Puytorac & Dragesco, 1969 SPECIES
 
 #### Status
 ACCEPTED

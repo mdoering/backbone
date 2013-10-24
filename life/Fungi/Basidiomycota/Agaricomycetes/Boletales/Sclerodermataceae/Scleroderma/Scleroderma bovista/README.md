@@ -1,17 +1,16 @@
-Scleroderma texense Berk., 1845 SPECIES
-=======
+# Scleroderma bovista Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. 4: 308 (1845)
+Syst. mycol. (Lundae) 3(1): 48 (1829)
 
 #### Original name
-Scleroderma texense Berk., 1845
+Scleroderma bovista Fr., 1829
 
 ### Remarks
 null

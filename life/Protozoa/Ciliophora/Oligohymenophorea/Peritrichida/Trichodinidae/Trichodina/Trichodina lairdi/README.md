@@ -1,5 +1,4 @@
-Trichodina lairdi Lom, 1970 SPECIES
-=======
+# Trichodina lairdi Lom, 1970 SPECIES
 
 #### Status
 ACCEPTED

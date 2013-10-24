@@ -1,5 +1,4 @@
-Nolanea strictia (Peck) Largent SPECIES
-=======
+# Nolanea strictia (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

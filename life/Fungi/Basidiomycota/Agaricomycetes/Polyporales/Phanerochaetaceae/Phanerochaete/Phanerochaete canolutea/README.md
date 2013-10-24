@@ -1,5 +1,4 @@
-Phanerochaete canolutea Sheng H. Wu SPECIES
-=======
+# Phanerochaete canolutea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cladosporium adianticolum R.F. Castañeda SPECIES
-=======
+# Cladosporium adianticola R.F. Castañeda, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi Cubenses II (La Habana) 3 (1987)
 
 #### Original name
-Cladosporium adianticolum R.F. Castañeda
+Cladosporium adianticola R.F. Castañeda, 1987
 
 ### Remarks
 null

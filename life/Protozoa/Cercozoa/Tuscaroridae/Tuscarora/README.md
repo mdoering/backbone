@@ -1,5 +1,4 @@
-Tuscarora Murray, 1885 GENUS
-=======
+# Tuscarora Murray, 1885 GENUS
 
 #### Status
 ACCEPTED

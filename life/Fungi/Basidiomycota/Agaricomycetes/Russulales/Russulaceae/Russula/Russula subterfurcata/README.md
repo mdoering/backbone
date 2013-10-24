@@ -1,5 +1,4 @@
-Russula subterfurcata Romagn., 1967 SPECIES
-=======
+# Russula subterfurcata Romagn., 1967 SPECIES
 
 #### Status
 ACCEPTED

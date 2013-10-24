@@ -1,5 +1,4 @@
-Uredo paspaliphila Gjaerum SPECIES
-=======
+# Uredo paspaliphila Gjaerum SPECIES
 
 #### Status
 ACCEPTED

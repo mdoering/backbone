@@ -1,5 +1,4 @@
-Microsporum asteroides (Sabour.) Guiart & Grigoraki SPECIES
-=======
+# Microsporum asteroides (Sabour.) Guiart & Grigoraki SPECIES
 
 #### Status
 ACCEPTED

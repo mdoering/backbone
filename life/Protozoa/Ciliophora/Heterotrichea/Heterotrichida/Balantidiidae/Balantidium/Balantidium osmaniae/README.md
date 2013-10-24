@@ -1,5 +1,4 @@
-Balantidium osmaniae Quadri & Navarathnam, 1966 SPECIES
-=======
+# Balantidium osmaniae Quadri & Navarathnam, 1966 SPECIES
 
 #### Status
 ACCEPTED

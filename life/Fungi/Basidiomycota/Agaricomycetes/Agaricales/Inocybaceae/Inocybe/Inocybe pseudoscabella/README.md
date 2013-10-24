@@ -1,5 +1,4 @@
-Inocybe pseudoscabella (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe pseudoscabella (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

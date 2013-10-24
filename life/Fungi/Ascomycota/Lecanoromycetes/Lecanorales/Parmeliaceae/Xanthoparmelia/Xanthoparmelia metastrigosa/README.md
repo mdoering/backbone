@@ -1,14 +1,13 @@
-Parmelia metastrigosa Elix SPECIES
-=======
+# Xanthoparmelia metastrigosa (Elix) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 29(3): 360 (1981)
+Mycotaxon 20(1): 79 (1984)
 
 #### Original name
 Parmelia metastrigosa Elix

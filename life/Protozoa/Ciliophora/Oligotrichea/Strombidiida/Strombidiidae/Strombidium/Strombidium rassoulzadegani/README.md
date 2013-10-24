@@ -1,5 +1,4 @@
-Strombidium rassoulzadegani McManus, Xu, Costas & Katz, 2010 SPECIES
-=======
+# Strombidium rassoulzadegani McManus, Xu, Costas & Katz, 2010 SPECIES
 
 #### Status
 ACCEPTED

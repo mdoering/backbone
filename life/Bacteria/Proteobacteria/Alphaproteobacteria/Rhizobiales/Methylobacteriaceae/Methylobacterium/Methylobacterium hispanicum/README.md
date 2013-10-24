@@ -1,5 +1,4 @@
-Methylobacterium hispanicum Gallego et al., 2005 SPECIES
-=======
+# Methylobacterium hispanicum Gallego et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

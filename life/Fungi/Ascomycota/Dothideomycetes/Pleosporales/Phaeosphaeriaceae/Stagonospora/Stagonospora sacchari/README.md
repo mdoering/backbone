@@ -1,5 +1,4 @@
-Stagonospora sacchari T.T. Lo & L. Ling, 1950 SPECIES
-=======
+# Stagonospora sacchari T.T. Lo & L. Ling, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myelastrum Haeckel, 1881 GENUS
-=======
+# Myelastrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

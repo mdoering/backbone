@@ -1,5 +1,4 @@
-Aecidium roestelioides Ellis & Everh. SPECIES
-=======
+# Aecidium roestelioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

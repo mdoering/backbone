@@ -1,5 +1,4 @@
-Triparmaceae B.C.Booth & H.J. Marchant, 1988 FAMILY
-=======
+# Triparmaceae B.C.Booth & H.J. Marchant, 1988 FAMILY
 
 #### Status
 ACCEPTED

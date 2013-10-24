@@ -1,5 +1,4 @@
-Seuratiaceae Vuill. ex M.E. Barr FAMILY
-=======
+# Seuratiaceae Vuill. ex M.E. Barr FAMILY
 
 #### Status
 ACCEPTED

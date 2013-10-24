@@ -1,5 +1,4 @@
-Verrucaria trachytica (Hazsl.) Jatta SPECIES
-=======
+# Verrucaria trachytica (Hazsl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

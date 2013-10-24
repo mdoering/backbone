@@ -1,5 +1,4 @@
-Haplospora globosa Kjellman SPECIES
-=======
+# Haplospora globosa Kjellman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora spondiae Spreng. SPECIES
-=======
+# Lecanora spondiae Spreng. SPECIES
 
 #### Status
 ACCEPTED

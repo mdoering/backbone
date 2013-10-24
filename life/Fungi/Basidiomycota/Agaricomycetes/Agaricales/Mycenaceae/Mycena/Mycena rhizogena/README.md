@@ -1,8 +1,7 @@
-Mycena rhozogea (Pers.) Singer SPECIES
-=======
+# Mycena rhizogena (Pers.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

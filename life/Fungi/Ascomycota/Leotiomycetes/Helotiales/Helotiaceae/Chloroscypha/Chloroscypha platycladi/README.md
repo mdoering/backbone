@@ -1,17 +1,16 @@
-Chloroscypha platycladus Y.S. Dai SPECIES
-=======
+# Chloroscypha platycladi Y.S. Dai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Nanjing Forestry University 16(1): 63 (1992)
 
 #### Original name
-Chloroscypha platycladus Y.S. Dai
+Chloroscypha platycladi Y.S. Dai
 
 ### Remarks
 null

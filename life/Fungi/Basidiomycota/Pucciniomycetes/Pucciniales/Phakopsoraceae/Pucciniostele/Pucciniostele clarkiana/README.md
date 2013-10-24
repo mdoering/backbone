@@ -1,17 +1,16 @@
-Xenodochus clarkianus Barclay, 1891 SPECIES
-=======
+# Pucciniostele clarkiana Dietel, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Engler's Bot. Jahrb. 27: 564 (1899)
 
 #### Original name
-Xenodochus clarkianus Barclay, 1891
+Pucciniostele clarkiana Dietel, 1899
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ustilago tulipae (Heufl.) G. Winter SPECIES
-=======
+# Ustilago tulipae (Heufl.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

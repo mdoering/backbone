@@ -1,5 +1,4 @@
-Pestalotia torrendia J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Pestalotia torrendia J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

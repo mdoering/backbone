@@ -1,5 +1,4 @@
-Meliola altissimae Hosag. SPECIES
-=======
+# Meliola altissimae Hosag. SPECIES
 
 #### Status
 ACCEPTED

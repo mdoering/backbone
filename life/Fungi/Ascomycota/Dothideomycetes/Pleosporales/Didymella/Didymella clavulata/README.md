@@ -1,5 +1,4 @@
-Didymella clavulata Ellis SPECIES
-=======
+# Didymella clavulata Ellis SPECIES
 
 #### Status
 ACCEPTED

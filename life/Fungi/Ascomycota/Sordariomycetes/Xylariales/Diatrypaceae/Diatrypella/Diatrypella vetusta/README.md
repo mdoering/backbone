@@ -1,5 +1,4 @@
-Diatrypella vetusta Ellis & Everh. SPECIES
-=======
+# Diatrypella vetusta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

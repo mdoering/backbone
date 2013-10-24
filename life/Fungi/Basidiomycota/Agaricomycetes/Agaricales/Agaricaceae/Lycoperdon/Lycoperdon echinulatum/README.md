@@ -1,5 +1,4 @@
-Lycoperdon echinulatum Berk. & Broome, 1873 SPECIES
-=======
+# Lycoperdon echinulatum Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermatophagus Labbé, 1899 GENUS
-=======
+# Spermatophagus Labbé, 1899 GENUS
 
 #### Status
 ACCEPTED

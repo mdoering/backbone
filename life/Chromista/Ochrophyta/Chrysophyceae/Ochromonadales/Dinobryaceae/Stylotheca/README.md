@@ -1,5 +1,4 @@
-Stylotheca Bolochonzew, 1909 GENUS
-=======
+# Stylotheca Bolochonzew, 1909 GENUS
 
 #### Status
 SYNONYM

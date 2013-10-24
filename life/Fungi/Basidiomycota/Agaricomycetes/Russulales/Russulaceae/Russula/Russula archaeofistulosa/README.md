@@ -1,5 +1,4 @@
-Russula archaeofistulosa Buyck SPECIES
-=======
+# Russula archaeofistulosa Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mollinediae Theiss. SPECIES
-=======
+# Meliola mollinediae Theiss. SPECIES
 
 #### Status
 ACCEPTED

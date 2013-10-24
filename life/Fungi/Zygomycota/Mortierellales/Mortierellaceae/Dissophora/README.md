@@ -1,5 +1,4 @@
-Dissophora Thaxt. GENUS
-=======
+# Dissophora Thaxt. GENUS
 
 #### Status
 ACCEPTED

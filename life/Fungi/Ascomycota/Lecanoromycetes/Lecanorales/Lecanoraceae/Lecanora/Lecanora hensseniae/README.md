@@ -1,5 +1,4 @@
-Lecanora hensseniae Vänskä SPECIES
-=======
+# Lecanora hensseniae Vänskä SPECIES
 
 #### Status
 ACCEPTED

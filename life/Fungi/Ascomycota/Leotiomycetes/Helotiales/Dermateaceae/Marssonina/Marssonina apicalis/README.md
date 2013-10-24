@@ -1,5 +1,4 @@
-Marssonina apicalis (Ellis & Everh.) Magnus SPECIES
-=======
+# Marssonina apicalis (Ellis & Everh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aschersonia turbinata Berk., 1852 SPECIES
-=======
+# Hypocrella turbinata Seaver, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 9: no. 52 (1852)
+Mycologia 12(2): 96 (1920)
 
 #### Original name
-Aschersonia turbinata Berk., 1852
+Hypocrella turbinata Seaver, 1920
 
 ### Remarks
 null

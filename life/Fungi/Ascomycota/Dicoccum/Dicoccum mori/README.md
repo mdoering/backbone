@@ -1,5 +1,4 @@
-Dicoccum mori Maire SPECIES
-=======
+# Dicoccum mori Maire SPECIES
 
 #### Status
 ACCEPTED

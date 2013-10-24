@@ -1,5 +1,4 @@
-Hyalopeziza hexagona (Fuckel) Raitv. SPECIES
-=======
+# Hyalopeziza hexagona (Fuckel) Raitv. SPECIES
 
 #### Status
 ACCEPTED

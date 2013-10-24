@@ -1,5 +1,4 @@
-Hypocreopsis peziziformis (Boedijn) Rifai SPECIES
-=======
+# Hypocreopsis peziziformis (Boedijn) Rifai SPECIES
 
 #### Status
 ACCEPTED

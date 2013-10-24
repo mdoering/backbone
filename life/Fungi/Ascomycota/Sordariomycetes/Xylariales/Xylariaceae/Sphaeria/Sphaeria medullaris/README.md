@@ -1,5 +1,4 @@
-Sphaeria medullaris Wallr. SPECIES
-=======
+# Sphaeria medullaris Wallr. SPECIES
 
 #### Status
 ACCEPTED

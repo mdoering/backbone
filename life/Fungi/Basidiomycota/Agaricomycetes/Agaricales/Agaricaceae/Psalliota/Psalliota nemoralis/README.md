@@ -1,5 +1,4 @@
-Psalliota nemoralis R. Sandor SPECIES
-=======
+# Psalliota nemoralis R. Sandor SPECIES
 
 #### Status
 ACCEPTED

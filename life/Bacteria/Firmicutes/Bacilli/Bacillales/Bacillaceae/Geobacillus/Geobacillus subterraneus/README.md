@@ -1,5 +1,4 @@
-Geobacillus subterraneus Nazina et al., 2001 SPECIES
-=======
+# Geobacillus subterraneus Nazina et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

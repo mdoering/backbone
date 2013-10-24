@@ -1,5 +1,4 @@
-Arthothelium impolitellum (Nyl.) Makhija & Patw. SPECIES
-=======
+# Arthothelium impolitellum (Nyl.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

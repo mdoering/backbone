@@ -1,5 +1,4 @@
-Sargassum erumpens Tseng & Lu SPECIES
-=======
+# Sargassum erumpens Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

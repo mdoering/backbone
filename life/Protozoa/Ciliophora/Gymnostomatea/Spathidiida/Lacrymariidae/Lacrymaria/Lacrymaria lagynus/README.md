@@ -1,5 +1,4 @@
-Lacrymaria lagynus Gelei, 1954 SPECIES
-=======
+# Lacrymaria lagynus Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

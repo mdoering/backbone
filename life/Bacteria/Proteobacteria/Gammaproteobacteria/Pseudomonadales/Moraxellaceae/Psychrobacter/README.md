@@ -1,5 +1,4 @@
-Psychrobacter Juni & Heym, 1986 GENUS
-=======
+# Psychrobacter Juni & Heym, 1986 GENUS
 
 #### Status
 ACCEPTED

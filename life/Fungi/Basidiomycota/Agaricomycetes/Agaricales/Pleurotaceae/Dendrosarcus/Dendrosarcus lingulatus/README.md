@@ -1,17 +1,16 @@
-Dendrosarcos lingulatus Paulet SPECIES
-=======
+# Dendrosarcus lingulatus Paulet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Traité Champ. , Atlas 2: 119 (1793)
 
 #### Original name
-Dendrosarcos lingulatus Paulet
+Dendrosarcus lingulatus Paulet
 
 ### Remarks
 null

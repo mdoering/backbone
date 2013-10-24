@@ -1,8 +1,7 @@
-Nematoloma bulbosum (S. Imai) S. Ito SPECIES
-=======
+# Naematoloma bulbosum (S. Imai) S. Ito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

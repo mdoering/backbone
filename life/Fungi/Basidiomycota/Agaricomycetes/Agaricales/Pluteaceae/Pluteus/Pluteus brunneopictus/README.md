@@ -1,5 +1,4 @@
-Pluteus brunneopictus Berk. & Broome SPECIES
-=======
+# Pluteus brunneopictus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

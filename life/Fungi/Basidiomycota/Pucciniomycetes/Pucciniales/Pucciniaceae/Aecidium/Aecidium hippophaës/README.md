@@ -1,5 +1,4 @@
-Aecidium hippophaës Berk. SPECIES
-=======
+# Aecidium hippophaës Berk. SPECIES
 
 #### Status
 ACCEPTED

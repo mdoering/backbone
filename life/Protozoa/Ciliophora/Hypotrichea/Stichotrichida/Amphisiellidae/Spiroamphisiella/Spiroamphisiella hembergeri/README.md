@@ -1,5 +1,4 @@
-Spiroamphisiella hembergeri Li, Song & Hu, 2007 SPECIES
-=======
+# Spiroamphisiella hembergeri Li, Song & Hu, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acontaspis Haeckel, 1881 GENUS
-=======
+# Acontaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

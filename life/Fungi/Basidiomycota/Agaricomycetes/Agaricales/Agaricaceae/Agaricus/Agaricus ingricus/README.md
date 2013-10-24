@@ -1,5 +1,4 @@
-Agaricus ingricus Weinm. SPECIES
-=======
+# Agaricus ingricus Weinm. SPECIES
 
 #### Status
 ACCEPTED

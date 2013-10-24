@@ -1,5 +1,4 @@
-Sphaerella lindiana (Jaap) Sacc. SPECIES
-=======
+# Sphaerella lindiana (Jaap) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crassicollaria colomi Doben SPECIES
-=======
+# Crassicollaria colomi Doben SPECIES
 
 #### Status
 ACCEPTED

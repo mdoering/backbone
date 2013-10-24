@@ -1,5 +1,4 @@
-Leucostoma sequoiae Bonar SPECIES
-=======
+# Leucostoma sequoiae Bonar SPECIES
 
 #### Status
 ACCEPTED

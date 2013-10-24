@@ -1,5 +1,4 @@
-Distephanus major (Frenguelli) D. Bukry SPECIES
-=======
+# Distephanus major (Frenguelli) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

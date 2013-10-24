@@ -1,5 +1,4 @@
-Physcia diatrypa (Ach.) Gray SPECIES
-=======
+# Physcia diatrypa (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

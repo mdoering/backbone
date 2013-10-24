@@ -1,5 +1,4 @@
-Dyadosporites quadratus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites quadratus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

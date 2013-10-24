@@ -1,5 +1,4 @@
-Collybia pampicola Speg. SPECIES
-=======
+# Collybia pampicola Speg. SPECIES
 
 #### Status
 ACCEPTED

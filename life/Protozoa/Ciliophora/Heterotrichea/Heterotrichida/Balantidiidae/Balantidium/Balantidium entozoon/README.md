@@ -1,8 +1,7 @@
-Bursaria entozoon Ehrenberg, 1838 SPECIES
-=======
+# Balantidium entozoon (Ehrenberg, 1838) Claparède & Lachmann, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

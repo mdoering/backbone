@@ -1,5 +1,4 @@
-Lactarius pegleri Pacioni & Lalli SPECIES
-=======
+# Lactarius pegleri Pacioni & Lalli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromalinales ORDER
-=======
+# Chromalinales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia coronillae Brunaud SPECIES
-=======
+# Diplodia coronillae Brunaud SPECIES
 
 #### Status
 ACCEPTED

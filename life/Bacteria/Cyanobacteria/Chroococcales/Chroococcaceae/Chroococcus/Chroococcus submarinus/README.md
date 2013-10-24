@@ -1,8 +1,7 @@
-Chroococcus turgidus var. hookeri Lagerheim VARIETY
-=======
+# Chroococcus submarinus (Hansgirg) Kovácik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

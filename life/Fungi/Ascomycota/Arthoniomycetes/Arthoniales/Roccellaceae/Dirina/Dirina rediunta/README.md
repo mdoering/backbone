@@ -1,5 +1,4 @@
-Dirina rediunta (Stizenb.) Zahlbr. SPECIES
-=======
+# Dirina rediunta (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria longchampsi (Westend.) Sacc. SPECIES
-=======
+# Leptosphaeria longchampsi (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

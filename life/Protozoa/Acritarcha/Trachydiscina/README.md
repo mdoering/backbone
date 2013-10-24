@@ -1,5 +1,4 @@
-Trachydiscina Naumova GENUS
-=======
+# Trachydiscina Naumova GENUS
 
 #### Status
 ACCEPTED

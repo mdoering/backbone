@@ -1,5 +1,4 @@
-Hydropus swaneticus (Singer) Singer SPECIES
-=======
+# Hydropus swaneticus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

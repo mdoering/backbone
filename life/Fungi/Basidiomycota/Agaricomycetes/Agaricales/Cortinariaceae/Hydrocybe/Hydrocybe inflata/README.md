@@ -1,5 +1,4 @@
-Hydrocybe inflata Velen. SPECIES
-=======
+# Hydrocybe inflata Velen. SPECIES
 
 #### Status
 ACCEPTED

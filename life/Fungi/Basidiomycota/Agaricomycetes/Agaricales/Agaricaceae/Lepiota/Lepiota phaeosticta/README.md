@@ -1,5 +1,4 @@
-Lepiota phaeosticta Morgan SPECIES
-=======
+# Lepiota phaeosticta Morgan SPECIES
 
 #### Status
 ACCEPTED

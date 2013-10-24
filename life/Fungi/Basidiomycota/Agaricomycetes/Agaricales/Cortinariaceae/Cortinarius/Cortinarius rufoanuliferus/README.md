@@ -1,5 +1,4 @@
-Cortinarius rufoanuliferus M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius rufoanuliferus M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

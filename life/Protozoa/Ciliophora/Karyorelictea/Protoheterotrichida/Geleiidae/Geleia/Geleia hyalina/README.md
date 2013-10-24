@@ -1,5 +1,4 @@
-Geleia hyalina Dragesco, 1960 SPECIES
-=======
+# Geleia hyalina Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

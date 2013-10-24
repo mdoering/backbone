@@ -1,5 +1,4 @@
-Dirinaria purpurascens (Vain.) B.J. Moore SPECIES
-=======
+# Dirinaria purpurascens (Vain.) B.J. Moore SPECIES
 
 #### Status
 ACCEPTED

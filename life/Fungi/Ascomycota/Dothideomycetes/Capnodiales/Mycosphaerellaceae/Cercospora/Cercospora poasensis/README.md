@@ -1,5 +1,4 @@
-Cercospora poasensis Syd. SPECIES
-=======
+# Cercospora poasensis Syd. SPECIES
 
 #### Status
 ACCEPTED

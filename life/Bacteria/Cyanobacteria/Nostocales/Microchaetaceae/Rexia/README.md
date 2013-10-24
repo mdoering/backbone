@@ -1,5 +1,4 @@
-Rexia Casamatta, Gomez & Johansen, 2006 GENUS
-=======
+# Rexia Casamatta, Gomez & Johansen, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe keralensis Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe keralensis Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

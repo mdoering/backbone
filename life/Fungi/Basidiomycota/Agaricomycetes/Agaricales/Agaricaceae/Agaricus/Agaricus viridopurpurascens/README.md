@@ -1,5 +1,4 @@
-Agaricus viridopurpurascens Heinem., 1974 SPECIES
-=======
+# Agaricus viridopurpurascens Heinem., 1974 SPECIES
 
 #### Status
 ACCEPTED

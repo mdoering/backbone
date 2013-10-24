@@ -1,5 +1,4 @@
-Fomes peguanus (Mont.) Sacc. SPECIES
-=======
+# Fomes peguanus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

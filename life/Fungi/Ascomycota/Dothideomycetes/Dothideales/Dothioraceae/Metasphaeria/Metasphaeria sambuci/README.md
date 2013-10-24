@@ -1,5 +1,4 @@
-Metasphaeria sambuci Pass. SPECIES
-=======
+# Metasphaeria sambuci Pass. SPECIES
 
 #### Status
 ACCEPTED

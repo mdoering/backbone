@@ -1,17 +1,16 @@
-Aleuria umbrina var. umbrina VARIETY
-=======
+# Aleuria umbrina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Aleuria umbrina var. umbrina
+null
 
 ### Remarks
 null

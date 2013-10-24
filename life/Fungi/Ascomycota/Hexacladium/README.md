@@ -1,5 +1,4 @@
-Hexacladium D.L. Olivier GENUS
-=======
+# Hexacladium D.L. Olivier GENUS
 
 #### Status
 ACCEPTED

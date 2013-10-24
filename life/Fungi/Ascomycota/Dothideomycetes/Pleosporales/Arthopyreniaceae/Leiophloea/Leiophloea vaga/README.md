@@ -1,5 +1,4 @@
-Leiophloea vaga (Nyl.) Trevis. SPECIES
-=======
+# Leiophloea vaga (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

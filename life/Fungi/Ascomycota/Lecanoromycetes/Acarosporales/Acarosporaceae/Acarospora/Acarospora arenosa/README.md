@@ -1,5 +1,4 @@
-Acarospora arenosa Herre SPECIES
-=======
+# Acarospora arenosa Herre SPECIES
 
 #### Status
 ACCEPTED

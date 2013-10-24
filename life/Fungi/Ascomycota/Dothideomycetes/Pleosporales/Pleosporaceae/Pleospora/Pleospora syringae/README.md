@@ -1,5 +1,4 @@
-Pleospora syringae Fuckel SPECIES
-=======
+# Pleospora syringae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium juniperinum Bacc. SPECIES
-=======
+# Capnodium juniperinum Bacc. SPECIES
 
 #### Status
 ACCEPTED

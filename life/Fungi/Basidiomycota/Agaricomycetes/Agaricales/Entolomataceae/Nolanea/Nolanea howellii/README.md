@@ -1,5 +1,4 @@
-Nolanea howellii Peck SPECIES
-=======
+# Nolanea howellii Peck SPECIES
 
 #### Status
 ACCEPTED

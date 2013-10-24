@@ -1,5 +1,4 @@
-Russula persanguinea Cleland SPECIES
-=======
+# Russula persanguinea Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia siccipes (P. Karst.) Sacc. SPECIES
-=======
+# Stropharia siccipes (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

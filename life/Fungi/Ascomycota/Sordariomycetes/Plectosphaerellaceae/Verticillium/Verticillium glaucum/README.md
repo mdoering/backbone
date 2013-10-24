@@ -1,5 +1,4 @@
-Verticillium glaucum Bonord. SPECIES
-=======
+# Verticillium glaucum Bonord. SPECIES
 
 #### Status
 ACCEPTED

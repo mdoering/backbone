@@ -1,14 +1,13 @@
-Allemannites W. Grün in W. Grün & F. Allemann, 1975 GENUS
-=======
+# Cretarhabdus Bramlette & E.Martini, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eclog. Geol. Helv. 68: 177.
+Micropaleontology 10: 299.
 
 #### Original name
 null

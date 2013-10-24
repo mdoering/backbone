@@ -1,5 +1,4 @@
-Hyalopus doukourei (H. Bouchet) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus doukourei (H. Bouchet) M.A.J. Barbosa SPECIES
 
 #### Status
 ACCEPTED

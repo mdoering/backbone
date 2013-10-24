@@ -1,5 +1,4 @@
-Lachnea convexa Velen. SPECIES
-=======
+# Lachnea convexa Velen. SPECIES
 
 #### Status
 ACCEPTED

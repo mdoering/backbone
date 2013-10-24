@@ -1,5 +1,4 @@
-Streptothrix pereffusa Sumst. SPECIES
-=======
+# Streptothrix pereffusa Sumst. SPECIES
 
 #### Status
 ACCEPTED

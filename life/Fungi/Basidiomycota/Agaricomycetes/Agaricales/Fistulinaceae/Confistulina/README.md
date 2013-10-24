@@ -1,5 +1,4 @@
-Confistulina Stalpers, 1983 GENUS
-=======
+# Confistulina Stalpers, 1983 GENUS
 
 #### Status
 ACCEPTED

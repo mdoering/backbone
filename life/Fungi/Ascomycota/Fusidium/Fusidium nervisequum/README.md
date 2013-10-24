@@ -1,5 +1,4 @@
-Fusidium nervisequum anon. SPECIES
-=======
+# Fusidium nervisequum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecythea macrosora Peck SPECIES
-=======
+# Lecythea macrosora Peck SPECIES
 
 #### Status
 ACCEPTED

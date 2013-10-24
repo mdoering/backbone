@@ -1,5 +1,4 @@
-Thalloidima triptophyllinum Müll. Arg. SPECIES
-=======
+# Thalloidima triptophyllinum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

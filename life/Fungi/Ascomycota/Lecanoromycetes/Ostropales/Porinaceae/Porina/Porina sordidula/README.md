@@ -1,5 +1,4 @@
-Porina sordidula Vain. SPECIES
-=======
+# Porina sordidula Vain. SPECIES
 
 #### Status
 ACCEPTED

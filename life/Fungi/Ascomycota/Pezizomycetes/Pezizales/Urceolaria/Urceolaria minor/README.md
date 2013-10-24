@@ -1,5 +1,4 @@
-Urceolaria minor (Kremp.) Stizenb. SPECIES
-=======
+# Urceolaria minor (Kremp.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

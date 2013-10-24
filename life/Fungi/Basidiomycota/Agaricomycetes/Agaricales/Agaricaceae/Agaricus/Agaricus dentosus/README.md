@@ -1,5 +1,4 @@
-Agaricus dentosus Berk. SPECIES
-=======
+# Agaricus dentosus Berk. SPECIES
 
 #### Status
 ACCEPTED

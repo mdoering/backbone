@@ -1,5 +1,4 @@
-Sclerotinia heteroica Woronin & Navashin SPECIES
-=======
+# Sclerotinia heteroica Woronin & Navashin SPECIES
 
 #### Status
 ACCEPTED

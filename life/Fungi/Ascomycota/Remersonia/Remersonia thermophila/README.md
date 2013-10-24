@@ -1,14 +1,13 @@
-Stilbella thermophila Fergus, 1964 SPECIES
-=======
+# Remersonia thermophila (Fergus) Seifert & Samson, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 56: 277 (1964)
+in Seifert, Samson, Boekhout & Louis-Seize, Can. J. Bot. 75(7): 1160 (1997)
 
 #### Original name
 Stilbella thermophila Fergus, 1964

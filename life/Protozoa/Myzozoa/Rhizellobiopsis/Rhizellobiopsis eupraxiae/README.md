@@ -1,5 +1,4 @@
-Rhizellobiopsis eupraxiae (Zachs {?} ) W.D. Kane SPECIES
-=======
+# Rhizellobiopsis eupraxiae (Zachs {?} ) W.D. Kane SPECIES
 
 #### Status
 ACCEPTED

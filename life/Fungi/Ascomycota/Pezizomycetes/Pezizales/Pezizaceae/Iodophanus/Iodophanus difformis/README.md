@@ -1,5 +1,4 @@
-Iodophanus difformis (P. Karst.) Kimbr., Luck-Allen & Cain SPECIES
-=======
+# Iodophanus difformis (P. Karst.) Kimbr., Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

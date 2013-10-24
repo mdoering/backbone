@@ -1,5 +1,4 @@
-Cortinarius sulphurinus var. sulphurinus VARIETY
-=======
+# Cortinarius sulphurinus Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Champs Jura Vosges 501 (1883)
 
 #### Original name
-Cortinarius sulphurinus var. sulphurinus
+Cortinarius sulphurinus Quél.
 
 ### Remarks
 null

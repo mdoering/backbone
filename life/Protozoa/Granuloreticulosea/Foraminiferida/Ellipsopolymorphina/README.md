@@ -1,14 +1,13 @@
-Ellipsopleurostomella Silvestri, 1903 GENUS
-=======
+# Ellipsopolymorphina Silvestri, 1901 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti R. Accad. Sci. Torino, 38, 144.
+Boll. Accad. Gioenia Sci. Nat. , Catania, (N. S. ) 69, 14, 17.
 
 #### Original name
 null

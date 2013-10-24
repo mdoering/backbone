@@ -1,11 +1,10 @@
-Gyrophora vellea var. vellea VARIETY
-=======
+# Gyrophora vellea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

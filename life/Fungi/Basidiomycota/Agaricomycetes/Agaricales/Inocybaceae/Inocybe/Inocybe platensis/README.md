@@ -1,5 +1,4 @@
-Inocybe platensis Speg. SPECIES
-=======
+# Inocybe platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

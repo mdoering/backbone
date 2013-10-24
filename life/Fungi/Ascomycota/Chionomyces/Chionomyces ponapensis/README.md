@@ -1,5 +1,4 @@
-Chionomyces ponapensis Matsush. SPECIES
-=======
+# Chionomyces ponapensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

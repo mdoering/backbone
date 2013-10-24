@@ -1,5 +1,4 @@
-Lecanactis obfirmata Nyl. SPECIES
-=======
+# Lecanactis obfirmata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma galanthi J. Schröt. SPECIES
-=======
+# Caeoma galanthi J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

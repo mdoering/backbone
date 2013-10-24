@@ -1,5 +1,4 @@
-Septoria distachya Brunaud SPECIES
-=======
+# Septoria distachya Brunaud SPECIES
 
 #### Status
 ACCEPTED

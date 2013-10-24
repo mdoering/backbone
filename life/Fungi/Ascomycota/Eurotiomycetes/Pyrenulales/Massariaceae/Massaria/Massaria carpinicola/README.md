@@ -1,5 +1,4 @@
-Massaria carpinicola Tul. & C. Tul. SPECIES
-=======
+# Massaria carpinicola Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Involucrothele britzelmayri Servít SPECIES
-=======
+# Involucrothele britzelmayrii Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Involucrothele britzelmayri Servít
+Involucrothele britzelmayrii Servít
 
 ### Remarks
 null

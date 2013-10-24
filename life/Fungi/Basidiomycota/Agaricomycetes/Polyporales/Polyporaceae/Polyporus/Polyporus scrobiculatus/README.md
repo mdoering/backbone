@@ -1,5 +1,4 @@
-Polyporus scrobiculatus Overh. SPECIES
-=======
+# Polyporus scrobiculatus Overh. SPECIES
 
 #### Status
 ACCEPTED

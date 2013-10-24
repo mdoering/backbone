@@ -1,5 +1,4 @@
-Cortinarius perrinii Rob. Henry & Ramm SPECIES
-=======
+# Cortinarius perrinii Rob. Henry & Ramm SPECIES
 
 #### Status
 ACCEPTED

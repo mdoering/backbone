@@ -1,5 +1,4 @@
-Gibberidea confluens (Plowr.) Kuntze SPECIES
-=======
+# Gibberidea confluens (Plowr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

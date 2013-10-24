@@ -1,5 +1,4 @@
-Amanita venenata Lam. SPECIES
-=======
+# Amanita venenata Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciliophorella insignis Petr., 1940 SPECIES
-=======
+# Ciliophorella insignis Petr., 1940 SPECIES
 
 #### Status
 ACCEPTED

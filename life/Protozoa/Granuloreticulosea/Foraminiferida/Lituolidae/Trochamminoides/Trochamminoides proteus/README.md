@@ -1,5 +1,4 @@
-Trochamminoides proteus SPECIES
-=======
+# Trochamminoides proteus SPECIES
 
 #### Status
 ACCEPTED

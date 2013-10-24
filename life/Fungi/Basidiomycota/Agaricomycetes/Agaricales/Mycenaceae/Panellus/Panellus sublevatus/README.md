@@ -1,5 +1,4 @@
-Panellus sublevatus Corner, 1986 SPECIES
-=======
+# Panellus sublevatus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

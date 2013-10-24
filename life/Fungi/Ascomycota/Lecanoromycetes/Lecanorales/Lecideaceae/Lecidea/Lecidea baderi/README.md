@@ -1,5 +1,4 @@
-Lecidea baderi Müll. Arg. SPECIES
-=======
+# Lecidea baderi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

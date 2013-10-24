@@ -1,8 +1,7 @@
-Trichodina xenopodos Fantham, 1924 SPECIES
-=======
+# Safrodina xenopodos (Fantham, 1924) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

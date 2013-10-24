@@ -1,5 +1,4 @@
-Dimerina parasitica (Sacc.) Hansf. SPECIES
-=======
+# Dimerina parasitica (Sacc.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylomites alni Ettingsh. SPECIES
-=======
+# Xylomites alni Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

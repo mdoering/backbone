@@ -1,5 +1,4 @@
-Hyaloscypha albohyalina var. albohyalina VARIETY
-=======
+# Hyaloscypha albohyalina (P. Karst.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 127 (1907)
+null
 
 #### Original name
-Hyaloscypha albohyalina var. albohyalina
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heterocoskinolina Saint-Marc, 1978 GENUS
-=======
+# Heterocoskinolina Saint-Marc, 1978 GENUS
 
 #### Status
 ACCEPTED

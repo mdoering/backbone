@@ -1,5 +1,4 @@
-Patellaria finkii Petr. SPECIES
-=======
+# Patellaria finkii Petr. SPECIES
 
 #### Status
 ACCEPTED

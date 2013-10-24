@@ -1,5 +1,4 @@
-Gnomonia sibbaldiae Petr. SPECIES
-=======
+# Gnomonia sibbaldiae Petr. SPECIES
 
 #### Status
 ACCEPTED

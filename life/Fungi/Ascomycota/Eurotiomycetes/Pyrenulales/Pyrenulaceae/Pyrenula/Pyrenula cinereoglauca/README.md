@@ -1,5 +1,4 @@
-Pyrenula cinereoglauca Zahlbr. SPECIES
-=======
+# Pyrenula cinereoglauca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria arnoldii J. Steiner SPECIES
-=======
+# Verrucaria arnoldii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

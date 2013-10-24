@@ -1,5 +1,4 @@
-Pseudocercospora pseudoeucalyptorum Crous, 2004 SPECIES
-=======
+# Pseudocercospora pseudoeucalyptorum Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

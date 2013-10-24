@@ -1,5 +1,4 @@
-Chaetophoma pleioblasti I. Hino & Katum. SPECIES
-=======
+# Chaetophoma pleioblasti I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

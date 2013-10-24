@@ -1,14 +1,13 @@
-Lachnella aranea (De Not.) W. Phillips, 1887 SPECIES
-=======
+# Arachnopeziza aranea (De Not.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 272 (1887)
+Hist. Class. Discom. Eur. (Paris) 126 (1907)
 
 #### Original name
 null

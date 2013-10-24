@@ -1,5 +1,4 @@
-Asterothyrium leucophthalmum (Müll. Arg.) R. Sant. SPECIES
-=======
+# Asterothyrium leucophthalmum (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

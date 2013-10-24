@@ -1,5 +1,4 @@
-Pertusaria roseola A. W. Archer & Elix SPECIES
-=======
+# Pertusaria roseola A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

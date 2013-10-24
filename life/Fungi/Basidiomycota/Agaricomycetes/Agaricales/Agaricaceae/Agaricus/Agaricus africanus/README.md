@@ -1,5 +1,4 @@
-Agaricus africanus (Fayod) Sacc. SPECIES
-=======
+# Agaricus africanus (Fayod) Sacc. SPECIES
 
 #### Status
 ACCEPTED

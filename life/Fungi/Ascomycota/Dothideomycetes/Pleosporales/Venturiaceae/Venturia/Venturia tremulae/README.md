@@ -1,5 +1,4 @@
-Venturia tremulae Aderh. SPECIES
-=======
+# Venturia tremulae Aderh. SPECIES
 
 #### Status
 ACCEPTED

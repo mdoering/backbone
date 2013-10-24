@@ -1,5 +1,4 @@
-Coniothyrium zeae G.L. Stout SPECIES
-=======
+# Coniothyrium zeae G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

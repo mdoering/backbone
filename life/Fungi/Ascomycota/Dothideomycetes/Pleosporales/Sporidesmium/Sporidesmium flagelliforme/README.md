@@ -1,5 +1,4 @@
-Sporidesmium flagelliforme Matsush. SPECIES
-=======
+# Sporidesmium flagelliforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

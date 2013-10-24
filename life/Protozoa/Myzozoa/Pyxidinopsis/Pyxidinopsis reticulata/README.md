@@ -1,5 +1,4 @@
-Pyxidinopsis reticulata A. McMinn & X. Sun, 1994 SPECIES
-=======
+# Pyxidinopsis reticulata A. McMinn & X. Sun, 1994 SPECIES
 
 #### Status
 ACCEPTED

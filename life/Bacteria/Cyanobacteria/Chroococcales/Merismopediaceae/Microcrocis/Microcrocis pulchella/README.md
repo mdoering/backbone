@@ -1,5 +1,4 @@
-Microcrocis pulchella (Buell) Geitler SPECIES
-=======
+# Microcrocis pulchella (Buell) Geitler SPECIES
 
 #### Status
 ACCEPTED

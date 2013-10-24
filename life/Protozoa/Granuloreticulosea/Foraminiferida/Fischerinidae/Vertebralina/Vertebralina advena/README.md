@@ -1,5 +1,4 @@
-Vertebralina advena Cushman SPECIES
-=======
+# Vertebralina advena Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia castaneae Kleb. SPECIES
-=======
+# Venturia castaneae Kleb. SPECIES
 
 #### Status
 ACCEPTED

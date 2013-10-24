@@ -1,17 +1,16 @@
-Hypophyllum garidelli Paulet SPECIES
-=======
+# Hypophyllum garidellii Paulet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Traité sur les Champignons Comestibles (Paris) tab. 63, fig. 2-4 (1793)
 
 #### Original name
-Hypophyllum garidelli Paulet
+Hypophyllum garidellii Paulet
 
 ### Remarks
 null

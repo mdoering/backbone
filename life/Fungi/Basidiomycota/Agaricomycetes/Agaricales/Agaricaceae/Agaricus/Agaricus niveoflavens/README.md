@@ -1,5 +1,4 @@
-Agaricus niveoflavens Batsch SPECIES
-=======
+# Agaricus niveoflavens Batsch SPECIES
 
 #### Status
 ACCEPTED

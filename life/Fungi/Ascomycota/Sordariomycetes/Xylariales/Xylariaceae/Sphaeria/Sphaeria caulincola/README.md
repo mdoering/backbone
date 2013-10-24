@@ -1,5 +1,4 @@
-Sphaeria caulincola Wallr. SPECIES
-=======
+# Sphaeria caulincola Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micavibrio admirandus Lambina et al., 1989 SPECIES
-=======
+# Micavibrio admirandus Lambina et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

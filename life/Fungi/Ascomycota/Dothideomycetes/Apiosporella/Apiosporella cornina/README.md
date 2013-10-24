@@ -1,5 +1,4 @@
-Apiosporella cornina Fairm. SPECIES
-=======
+# Apiosporella cornina Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea flaccida (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea flaccida (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vandasia Velenovský, 1922 GENUS
-=======
+# Vandasia Velenovský, 1922 GENUS
 
 #### Status
 ACCEPTED

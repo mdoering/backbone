@@ -1,5 +1,4 @@
-Selenidium alleni Ray, 1930 SPECIES
-=======
+# Selenidium alleni Ray, 1930 SPECIES
 
 #### Status
 ACCEPTED

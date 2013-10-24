@@ -1,5 +1,4 @@
-Meliola cyrtandrae (F. Stevens) Cif. SPECIES
-=======
+# Meliola cyrtandrae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

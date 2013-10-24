@@ -1,5 +1,4 @@
-Cyphella cookei Sacc. & P. Syd. SPECIES
-=======
+# Cyphella cookei Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

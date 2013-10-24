@@ -1,5 +1,4 @@
-Ustilago induta Syd. SPECIES
-=======
+# Ustilago induta Syd. SPECIES
 
 #### Status
 ACCEPTED

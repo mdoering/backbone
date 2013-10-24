@@ -1,5 +1,4 @@
-Psilocybe samoensis Henn. SPECIES
-=======
+# Psilocybe samoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chilomastix mediterraneus Lavier, 1936 SPECIES
-=======
+# Chilomastix motellae Alexeieff, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

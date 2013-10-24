@@ -1,5 +1,4 @@
-Dialister (ex Bergey et al., 1923) Moore & Moore, 1994 GENUS
-=======
+# Dialister (ex Bergey et al., 1923) Moore & Moore, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striatorbina Sellier de Civrieux, 1991 GENUS
-=======
+# Striatorbina Sellier de Civrieux, 1991 GENUS
 
 #### Status
 ACCEPTED

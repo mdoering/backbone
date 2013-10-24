@@ -1,5 +1,4 @@
-Phomopsis cuppatea E. Jansen, Lampr. & Crous SPECIES
-=======
+# Phomopsis cuppatea E. Jansen, Lampr. & Crous SPECIES
 
 #### Status
 ACCEPTED

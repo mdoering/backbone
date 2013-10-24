@@ -1,5 +1,4 @@
-Agaricus rufidus Pers. SPECIES
-=======
+# Agaricus rufidus Pers. SPECIES
 
 #### Status
 ACCEPTED

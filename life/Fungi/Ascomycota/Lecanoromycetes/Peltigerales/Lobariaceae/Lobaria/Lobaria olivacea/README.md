@@ -1,5 +1,4 @@
-Lobaria olivacea Vain. SPECIES
-=======
+# Lobaria olivacea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea yasudae Yoshim. Doi SPECIES
-=======
+# Hypocrea yasudae Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

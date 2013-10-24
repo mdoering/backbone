@@ -1,5 +1,4 @@
-Hygrophorus olivaceonitens (Singer) Singer SPECIES
-=======
+# Hygrophorus olivaceonitens (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

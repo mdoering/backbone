@@ -1,5 +1,4 @@
-Carnegia Pantocsek, 1912 GENUS
-=======
+# Carnegia Pantocsek, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca mauritanica Werner SPECIES
-=======
+# Caloplaca mauritanica Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Racodium badium Duby SPECIES
-=======
+# Racodium badium Duby SPECIES
 
 #### Status
 ACCEPTED

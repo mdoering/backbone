@@ -1,5 +1,4 @@
-Agaricus anguinus V. Brig. SPECIES
-=======
+# Agaricus anguinus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

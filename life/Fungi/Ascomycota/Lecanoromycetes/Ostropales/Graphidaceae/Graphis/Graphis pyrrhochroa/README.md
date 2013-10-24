@@ -1,14 +1,13 @@
-Graphis pyrrochroa (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Graphis pyrrhochroa (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 321 (1923)
 
 #### Original name
 Ustalia pyrrhochroa Mont. & Bosch

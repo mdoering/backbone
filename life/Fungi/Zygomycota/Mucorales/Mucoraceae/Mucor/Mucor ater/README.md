@@ -1,5 +1,4 @@
-Mucor ater Batsch SPECIES
-=======
+# Mucor ater Batsch SPECIES
 
 #### Status
 ACCEPTED

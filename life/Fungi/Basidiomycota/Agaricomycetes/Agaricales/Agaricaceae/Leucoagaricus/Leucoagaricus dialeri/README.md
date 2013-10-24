@@ -1,5 +1,4 @@
-Leucoagaricus dialeri (Bres. & Torrend) D.A. Reid SPECIES
-=======
+# Leucoagaricus dialeri (Bres. & Torrend) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

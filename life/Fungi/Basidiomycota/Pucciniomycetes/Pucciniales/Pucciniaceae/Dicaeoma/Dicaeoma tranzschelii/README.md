@@ -1,5 +1,4 @@
-Dicaeoma tranzschelii (Dietel) Kuntze SPECIES
-=======
+# Dicaeoma tranzschelii (Dietel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

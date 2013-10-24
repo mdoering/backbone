@@ -1,5 +1,4 @@
-Clavaria rhizomorpha Berk. SPECIES
-=======
+# Clavaria rhizomorpha Berk. SPECIES
 
 #### Status
 ACCEPTED

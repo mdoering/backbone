@@ -1,5 +1,4 @@
-Moelleriella guaranitica (Speg.) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella guaranitica (Speg.) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen croceus Schreb. SPECIES
-=======
+# Lichen croceus Schreb. SPECIES
 
 #### Status
 ACCEPTED

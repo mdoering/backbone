@@ -1,17 +1,16 @@
-Didymium parietale G.W. Martin & T.E. Brooks, 1938 SPECIES
-=======
+# Didymium flexuosum Yamash., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Sci. Hiroshima Univ. 3: 31 (1936)
 
 #### Original name
-null
+Didymium flexuosum Yamash., 1936
 
 ### Remarks
 null

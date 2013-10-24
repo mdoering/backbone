@@ -1,5 +1,4 @@
-Paratextularia Pokórny, 1953 GENUS
-=======
+# Paratextularia Pokórny, 1953 GENUS
 
 #### Status
 ACCEPTED

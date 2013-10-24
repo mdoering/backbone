@@ -1,17 +1,16 @@
-Abrothallus usneae var. usneae VARIETY
-=======
+# Abrothallus usneae Rabenh., 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flecht. Eur. 20: no. 551 (1861)
 
 #### Original name
-null
+Abrothallus usneae Rabenh., 1861
 
 ### Remarks
 null

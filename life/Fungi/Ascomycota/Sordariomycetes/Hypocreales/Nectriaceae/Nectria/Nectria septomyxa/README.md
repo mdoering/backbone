@@ -1,5 +1,4 @@
-Nectria septomyxa Wollenw. SPECIES
-=======
+# Nectria septomyxa Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exoascus janus Thomas {?} SPECIES
-=======
+# Exoascus janus Thomas {?} SPECIES
 
 #### Status
 ACCEPTED

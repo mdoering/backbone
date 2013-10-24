@@ -1,5 +1,4 @@
-Euglena sieminskiana K. Woowski SPECIES
-=======
+# Euglena sieminskiana K. Woowski SPECIES
 
 #### Status
 ACCEPTED

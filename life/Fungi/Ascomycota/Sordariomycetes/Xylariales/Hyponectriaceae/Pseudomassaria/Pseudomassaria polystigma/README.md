@@ -1,5 +1,4 @@
-Pseudomassaria polystigma (Ellis & Everh.) Arx SPECIES
-=======
+# Pseudomassaria polystigma (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

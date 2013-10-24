@@ -1,5 +1,4 @@
-Didymosphaeria dianellae I. Hino & Katum. SPECIES
-=======
+# Didymosphaeria dianellae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

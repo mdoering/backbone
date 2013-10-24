@@ -1,5 +1,4 @@
-Tribonema microchloron SPECIES
-=======
+# Tribonema microchloron SPECIES
 
 #### Status
 ACCEPTED

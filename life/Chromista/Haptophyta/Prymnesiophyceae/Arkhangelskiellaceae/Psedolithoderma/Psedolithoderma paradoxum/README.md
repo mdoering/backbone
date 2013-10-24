@@ -1,5 +1,4 @@
-Psedolithoderma paradoxum Sears & R.T. Wilce SPECIES
-=======
+# Psedolithoderma paradoxum Sears & R.T. Wilce SPECIES
 
 #### Status
 ACCEPTED

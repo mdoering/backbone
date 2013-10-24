@@ -1,5 +1,4 @@
-Mastigamoebaceae FAMILY
-=======
+# Mastigamoebaceae FAMILY
 
 #### Status
 ACCEPTED

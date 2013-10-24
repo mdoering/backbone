@@ -1,5 +1,4 @@
-Agaricus britzelmayrii Schulzer SPECIES
-=======
+# Agaricus britzelmayrii Schulzer SPECIES
 
 #### Status
 ACCEPTED

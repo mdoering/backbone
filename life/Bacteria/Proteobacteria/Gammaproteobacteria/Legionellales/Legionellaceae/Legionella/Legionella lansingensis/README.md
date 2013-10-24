@@ -1,5 +1,4 @@
-Legionella lansingensis Thacker et al., 1994 SPECIES
-=======
+# Legionella lansingensis Thacker et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

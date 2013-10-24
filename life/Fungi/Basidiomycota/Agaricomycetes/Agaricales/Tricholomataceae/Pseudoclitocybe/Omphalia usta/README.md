@@ -1,5 +1,4 @@
-Omphalia usta Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia usta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

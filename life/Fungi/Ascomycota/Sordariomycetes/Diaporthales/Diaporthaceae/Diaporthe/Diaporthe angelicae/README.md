@@ -1,14 +1,13 @@
-Mazzantia angelicae (Berk.) Lar.N. Vassiljeva, 1993 SPECIES
-=======
+# Diaporthe angelicae (Berk.) D.F. Farr & Castl., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes of the Russian Far East (Vladivostok), 1. Gnomoniaceae 49 (1993)
+in Castlebury, Farr, Rossman & Jaklitsch, Mycoscience 44(3): 204 (2003)
 
 #### Original name
 Sphaeria angelicae Berk., 1837

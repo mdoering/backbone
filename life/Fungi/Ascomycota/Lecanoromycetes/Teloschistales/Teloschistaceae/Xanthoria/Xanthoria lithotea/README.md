@@ -1,5 +1,4 @@
-Xanthoria lithotea (Ach.) Horw. SPECIES
-=======
+# Xanthoria lithotea (Ach.) Horw. SPECIES
 
 #### Status
 ACCEPTED

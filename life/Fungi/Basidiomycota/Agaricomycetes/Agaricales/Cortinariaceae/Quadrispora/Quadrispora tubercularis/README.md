@@ -1,5 +1,4 @@
-Quadrispora tubercularis Bougher & A.A. Francis, 2004 SPECIES
-=======
+# Quadrispora tubercularis Bougher & A.A. Francis, 2004 SPECIES
 
 #### Status
 ACCEPTED

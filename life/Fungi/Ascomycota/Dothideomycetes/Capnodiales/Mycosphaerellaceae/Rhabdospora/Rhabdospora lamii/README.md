@@ -1,5 +1,4 @@
-Rhabdospora lamii Petr. SPECIES
-=======
+# Rhabdospora lamii Petr. SPECIES
 
 #### Status
 ACCEPTED

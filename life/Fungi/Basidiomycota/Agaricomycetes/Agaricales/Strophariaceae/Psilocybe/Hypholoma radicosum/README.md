@@ -1,14 +1,13 @@
-Psilocybe radicosa (J.E. Lange) Noordel., 1995 SPECIES
-=======
+# Hypholoma radicosum J.E. Lange, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 129 (1995)
+Dansk bot. Ark. 4(no. 4): 39 (1923)
 
 #### Original name
 Hypholoma radicosum J.E. Lange, 1923

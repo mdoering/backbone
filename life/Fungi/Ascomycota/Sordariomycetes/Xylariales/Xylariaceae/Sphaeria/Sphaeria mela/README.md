@@ -1,5 +1,4 @@
-Sphaeria mela Schwein. SPECIES
-=======
+# Sphaeria mela Schwein. SPECIES
 
 #### Status
 ACCEPTED

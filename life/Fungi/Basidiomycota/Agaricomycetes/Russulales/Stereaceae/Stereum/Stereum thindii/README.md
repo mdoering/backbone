@@ -1,5 +1,4 @@
-Stereum thindii A.B. De SPECIES
-=======
+# Stereum thindii A.B. De SPECIES
 
 #### Status
 ACCEPTED

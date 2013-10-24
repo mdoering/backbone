@@ -1,5 +1,4 @@
-Monosiga skvortzovii D. Bicudo SPECIES
-=======
+# Monosiga skvortzovii D. Bicudo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codonella crateri SPECIES
-=======
+# Codonella crateri SPECIES
 
 #### Status
 ACCEPTED

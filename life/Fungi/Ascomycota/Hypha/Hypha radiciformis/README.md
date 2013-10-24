@@ -1,5 +1,4 @@
-Hypha radiciformis (Humb.) Pers. SPECIES
-=======
+# Hypha radiciformis (Humb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

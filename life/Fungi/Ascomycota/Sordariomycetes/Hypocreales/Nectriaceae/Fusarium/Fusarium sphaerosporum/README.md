@@ -1,5 +1,4 @@
-Fusarium sphaerosporum Q.T. Chen & X.H. Fu SPECIES
-=======
+# Fusarium sphaerosporum Q.T. Chen & X.H. Fu SPECIES
 
 #### Status
 ACCEPTED

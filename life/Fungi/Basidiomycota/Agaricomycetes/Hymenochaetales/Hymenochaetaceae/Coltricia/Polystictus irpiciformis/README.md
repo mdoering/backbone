@@ -1,5 +1,4 @@
-Polystictus irpiciformis (Murrill) Murrill SPECIES
-=======
+# Polystictus irpiciformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnus annulatus Claparède & Lachmann, 1858 SPECIES
-=======
+# Tintinnus annulatus Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

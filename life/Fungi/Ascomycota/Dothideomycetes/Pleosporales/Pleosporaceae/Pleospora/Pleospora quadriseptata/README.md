@@ -1,5 +1,4 @@
-Pleospora quadriseptata Cooke & Harkn. SPECIES
-=======
+# Pleospora quadriseptata Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

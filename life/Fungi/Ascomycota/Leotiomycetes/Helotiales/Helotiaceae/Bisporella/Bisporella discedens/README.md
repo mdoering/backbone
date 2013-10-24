@@ -1,5 +1,4 @@
-Bisporella discedens (P. Karst.) S.E. Carp. SPECIES
-=======
+# Bisporella discedens (P. Karst.) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tremella mycetophila Peck, 1876 SPECIES
-=======
+# Syzygospora mycetophila (Peck) Ginns, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 53 (1876)
+Mycologia 78(4): 629 (1986)
 
 #### Original name
 Tremella mycetophila Peck, 1876

@@ -1,5 +1,4 @@
-Sordaria multicaudata (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Sordaria multicaudata (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

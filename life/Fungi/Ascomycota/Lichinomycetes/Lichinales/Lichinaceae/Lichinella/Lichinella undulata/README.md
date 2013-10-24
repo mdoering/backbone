@@ -1,5 +1,4 @@
-Lichinella undulata (Henssen) M. Schultz & Van den Boom SPECIES
-=======
+# Lichinella undulata (Henssen) M. Schultz & Van den Boom SPECIES
 
 #### Status
 ACCEPTED

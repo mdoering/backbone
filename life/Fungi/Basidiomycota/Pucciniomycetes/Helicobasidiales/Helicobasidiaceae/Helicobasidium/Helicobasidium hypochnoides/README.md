@@ -1,5 +1,4 @@
-Helicobasidium hypochnoides (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Helicobasidium hypochnoides (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius spiculosus Singer SPECIES
-=======
+# Marasmius spiculosus Singer SPECIES
 
 #### Status
 ACCEPTED

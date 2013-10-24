@@ -1,5 +1,4 @@
-Lecidea polysporelloides Harm. SPECIES
-=======
+# Lecidea polysporelloides Harm. SPECIES
 
 #### Status
 ACCEPTED

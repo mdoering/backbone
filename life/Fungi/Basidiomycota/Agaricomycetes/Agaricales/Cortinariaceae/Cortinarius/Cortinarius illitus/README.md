@@ -1,5 +1,4 @@
-Cortinarius illitus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius illitus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

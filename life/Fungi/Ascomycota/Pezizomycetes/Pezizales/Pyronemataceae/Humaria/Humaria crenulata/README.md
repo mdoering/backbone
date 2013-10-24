@@ -1,5 +1,4 @@
-Humaria crenulata Velen. SPECIES
-=======
+# Humaria crenulata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora oblecta Syd. SPECIES
-=======
+# Cercospora oblecta Syd. SPECIES
 
 #### Status
 ACCEPTED

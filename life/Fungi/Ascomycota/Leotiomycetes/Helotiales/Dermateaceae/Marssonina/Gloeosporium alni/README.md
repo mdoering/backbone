@@ -1,5 +1,4 @@
-Gloeosporium alni Ellis & Everh. SPECIES
-=======
+# Gloeosporium alni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

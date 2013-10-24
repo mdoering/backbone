@@ -1,5 +1,4 @@
-Mycena excedens Métrod SPECIES
-=======
+# Mycena excedens Métrod SPECIES
 
 #### Status
 ACCEPTED

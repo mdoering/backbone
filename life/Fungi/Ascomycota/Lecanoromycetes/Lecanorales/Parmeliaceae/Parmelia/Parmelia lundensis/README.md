@@ -1,5 +1,4 @@
-Parmelia lundensis (Fr.) Fr. SPECIES
-=======
+# Parmelia lundensis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

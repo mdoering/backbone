@@ -1,5 +1,4 @@
-Mycosphaerella palmicola Chaudhury & P.N. Rao SPECIES
-=======
+# Mycosphaerella palmicola Chaudhury & P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

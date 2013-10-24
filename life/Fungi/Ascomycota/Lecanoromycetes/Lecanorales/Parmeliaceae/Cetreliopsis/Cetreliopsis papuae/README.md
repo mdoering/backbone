@@ -1,5 +1,4 @@
-Cetreliopsis papuae Randlane & Saag SPECIES
-=======
+# Cetreliopsis papuae Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

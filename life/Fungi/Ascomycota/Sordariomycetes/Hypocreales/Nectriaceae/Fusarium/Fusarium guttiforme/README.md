@@ -1,5 +1,4 @@
-Fusarium guttiforme Nirenberg & O'Donnell, 1998 SPECIES
-=======
+# Fusarium guttiforme Nirenberg & O'Donnell, 1998 SPECIES
 
 #### Status
 ACCEPTED

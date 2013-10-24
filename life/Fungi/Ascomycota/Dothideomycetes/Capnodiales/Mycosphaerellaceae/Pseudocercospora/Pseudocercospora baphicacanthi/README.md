@@ -1,5 +1,4 @@
-Pseudocercospora baphicacanthi Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora baphicacanthi Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

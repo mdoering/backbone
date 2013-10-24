@@ -1,5 +1,4 @@
-Asterina elaeagni Syd. SPECIES
-=======
+# Asterina elaeagni Syd. SPECIES
 
 #### Status
 ACCEPTED

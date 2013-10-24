@@ -1,5 +1,4 @@
-Cystidiodendron fimbriatum Rick, 1943 SPECIES
-=======
+# Cystidiodendron fimbriatum Rick, 1943 SPECIES
 
 #### Status
 ACCEPTED

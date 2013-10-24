@@ -1,5 +1,4 @@
-Graphiola cylindrica Kobayasi SPECIES
-=======
+# Graphiola cylindrica Kobayasi SPECIES
 
 #### Status
 ACCEPTED

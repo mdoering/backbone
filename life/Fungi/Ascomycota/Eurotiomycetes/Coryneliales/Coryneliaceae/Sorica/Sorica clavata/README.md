@@ -1,5 +1,4 @@
-Sorica clavata (Lév.) G. Arnaud SPECIES
-=======
+# Sorica clavata (Lév.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

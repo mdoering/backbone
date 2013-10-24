@@ -1,5 +1,4 @@
-Ascochyta phlomidis Bubák & Wróbl. SPECIES
-=======
+# Ascochyta phlomidis Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

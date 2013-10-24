@@ -1,5 +1,4 @@
-Sathrophilus marinum Groliere & Detcheva, 1979 SPECIES
-=======
+# Sathrophilus marinum Groliere & Detcheva, 1979 SPECIES
 
 #### Status
 ACCEPTED

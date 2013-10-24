@@ -1,5 +1,4 @@
-Belonopsis purpurascens Rehm SPECIES
-=======
+# Belonopsis purpurascens Rehm SPECIES
 
 #### Status
 ACCEPTED

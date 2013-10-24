@@ -1,5 +1,4 @@
-Cercospora wendlandiae M. Mandal SPECIES
-=======
+# Cercospora wendlandiae M. Mandal SPECIES
 
 #### Status
 ACCEPTED

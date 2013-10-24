@@ -1,5 +1,4 @@
-Penicillium ellipsoideosporum L. Wang & H.Z. Kong SPECIES
-=======
+# Penicillium ellipsoideosporum L. Wang & H.Z. Kong SPECIES
 
 #### Status
 ACCEPTED

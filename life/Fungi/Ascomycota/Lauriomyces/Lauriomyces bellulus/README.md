@@ -1,5 +1,4 @@
-Lauriomyces bellulus Crous & M.J. Wingf., 1994 SPECIES
-=======
+# Lauriomyces bellulus Crous & M.J. Wingf., 1994 SPECIES
 
 #### Status
 ACCEPTED

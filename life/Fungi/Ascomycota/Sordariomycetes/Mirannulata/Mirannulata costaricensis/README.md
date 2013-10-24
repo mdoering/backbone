@@ -1,5 +1,4 @@
-Mirannulata costaricensis Huhndorf, F.A. Fernández, A.N. Mill. & Lodge, 2003 SPECIES
-=======
+# Mirannulata costaricensis Huhndorf, F.A. Fernández, A.N. Mill. & Lodge, 2003 SPECIES
 
 #### Status
 ACCEPTED

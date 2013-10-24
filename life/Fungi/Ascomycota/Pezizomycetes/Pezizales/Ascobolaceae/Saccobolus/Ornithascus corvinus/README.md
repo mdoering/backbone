@@ -1,5 +1,4 @@
-Ornithascus corvinus var. corvinus VARIETY
-=======
+# Ornithascus corvinus Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Discom. Bohem. (Prague) 1: (1934)
 
 #### Original name
-Ornithascus corvinus var. corvinus
+Ornithascus corvinus Velen.
 
 ### Remarks
 null

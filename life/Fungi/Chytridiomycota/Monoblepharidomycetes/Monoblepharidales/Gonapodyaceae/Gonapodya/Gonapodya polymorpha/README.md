@@ -1,5 +1,4 @@
-Gonapodya polymorpha Thaxt., 1895 SPECIES
-=======
+# Gonapodya polymorpha Thaxt., 1895 SPECIES
 
 #### Status
 ACCEPTED

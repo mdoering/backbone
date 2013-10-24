@@ -1,5 +1,4 @@
-Peziza cunicularia Boud. SPECIES
-=======
+# Peziza cunicularia Boud. SPECIES
 
 #### Status
 ACCEPTED

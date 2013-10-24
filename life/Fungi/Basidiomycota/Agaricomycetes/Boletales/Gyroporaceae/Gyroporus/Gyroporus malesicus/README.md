@@ -1,5 +1,4 @@
-Gyroporus malesicus Corner SPECIES
-=======
+# Gyroporus malesicus Corner SPECIES
 
 #### Status
 ACCEPTED

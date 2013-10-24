@@ -1,5 +1,4 @@
-Chytridium kolianum Domján SPECIES
-=======
+# Chytridium kolianum Domján SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoblastosporion santhomense Cif. SPECIES
-=======
+# Schizoblastosporion santhomense Cif. SPECIES
 
 #### Status
 ACCEPTED

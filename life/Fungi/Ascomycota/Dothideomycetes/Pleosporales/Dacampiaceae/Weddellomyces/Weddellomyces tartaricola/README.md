@@ -1,5 +1,4 @@
-Weddellomyces tartaricola (Linds.) Alstrup & D. Hawksw. SPECIES
-=======
+# Weddellomyces tartaricola (Linds.) Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

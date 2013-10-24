@@ -1,5 +1,4 @@
-Marasmiellus ignobilis (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus ignobilis (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

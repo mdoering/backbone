@@ -1,5 +1,4 @@
-Radiciseta Sawada & Katsuki GENUS
-=======
+# Radiciseta Sawada & Katsuki GENUS
 
 #### Status
 ACCEPTED

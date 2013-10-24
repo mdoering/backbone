@@ -1,5 +1,4 @@
-Cladosporium tenellum K. Schub., Zalar, Crous & U. Braun SPECIES
-=======
+# Cladosporium tenellum K. Schub., Zalar, Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

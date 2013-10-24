@@ -1,17 +1,16 @@
-Xylaria liquidambar J.D. Rogers, Y.M. Ju & F. San Martín SPECIES
-=======
+# Xylaria liquidambaris J.D. Rogers, Y.M. Ju & F. San Martín, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rogers, San Martín & Ju, Sydowia 54(1): 92 (2002)
 
 #### Original name
-Xylaria liquidambar J.D. Rogers, Y.M. Ju & F. San Martín
+Xylaria liquidambaris J.D. Rogers, Y.M. Ju & F. San Martín, 2002
 
 ### Remarks
 null

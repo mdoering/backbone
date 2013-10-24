@@ -1,5 +1,4 @@
-Syncephalis furcata Tiegh., 1878 SPECIES
-=======
+# Syncephalis furcata Tiegh., 1878 SPECIES
 
 #### Status
 ACCEPTED

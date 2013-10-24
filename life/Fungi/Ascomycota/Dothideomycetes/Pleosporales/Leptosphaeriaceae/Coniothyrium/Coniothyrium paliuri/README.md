@@ -1,5 +1,4 @@
-Coniothyrium paliuri (Brunaud) Petr. & Syd. SPECIES
-=======
+# Coniothyrium paliuri (Brunaud) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

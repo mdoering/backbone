@@ -1,5 +1,4 @@
-Listerella Cushman, 1933 GENUS
-=======
+# Listerella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

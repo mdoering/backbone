@@ -1,5 +1,4 @@
-Arthopyrenia punctuliformis Müll. Arg. SPECIES
-=======
+# Arthopyrenia punctuliformis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

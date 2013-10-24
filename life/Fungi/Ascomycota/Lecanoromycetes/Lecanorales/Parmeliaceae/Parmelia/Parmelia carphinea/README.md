@@ -1,5 +1,4 @@
-Parmelia carphinea Fr. SPECIES
-=======
+# Parmelia carphinea Fr. SPECIES
 
 #### Status
 ACCEPTED

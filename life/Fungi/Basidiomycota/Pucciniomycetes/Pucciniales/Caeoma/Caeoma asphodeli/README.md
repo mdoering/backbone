@@ -1,5 +1,4 @@
-Caeoma asphodeli (DC.) Schltdl. SPECIES
-=======
+# Caeoma asphodeli (DC.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum trachycarpum F.A. Wolf SPECIES
-=======
+# Rhinotrichum trachycarpum F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

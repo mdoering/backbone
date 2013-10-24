@@ -1,5 +1,4 @@
-Mollisia cynoglossi Oudem. SPECIES
-=======
+# Mollisia cynoglossi Oudem. SPECIES
 
 #### Status
 ACCEPTED

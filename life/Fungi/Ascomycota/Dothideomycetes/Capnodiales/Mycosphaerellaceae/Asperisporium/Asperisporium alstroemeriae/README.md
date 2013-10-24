@@ -1,5 +1,4 @@
-Asperisporium alstroemeriae (Allesch.) Maubl. SPECIES
-=======
+# Asperisporium alstroemeriae (Allesch.) Maubl. SPECIES
 
 #### Status
 ACCEPTED

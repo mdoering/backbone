@@ -1,17 +1,16 @@
-Finerania C.W. Dodge GENUS
-=======
+# Ramonia Stizenberger, 1862 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 19: 459 (1971)
+Ber. Tät. St Gall. naturw. Ges. 168 (1862)
 
 #### Original name
-Finerania C.W. Dodge
+Ramonia Stizenberger, 1862
 
 ### Remarks
 null

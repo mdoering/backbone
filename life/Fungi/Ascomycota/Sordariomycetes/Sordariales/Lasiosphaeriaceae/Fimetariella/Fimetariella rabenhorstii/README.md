@@ -1,14 +1,13 @@
-Hypocopra rabenhorstii (Niessl) Sacc., 1882 SPECIES
-=======
+# Fimetariella rabenhorstii (Niessl) N. Lundq., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser (1964)
 
 #### Original name
 Sordaria rabenhorstii Niessl, 1873

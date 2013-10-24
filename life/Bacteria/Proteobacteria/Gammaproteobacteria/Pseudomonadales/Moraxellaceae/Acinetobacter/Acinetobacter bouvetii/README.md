@@ -1,5 +1,4 @@
-Acinetobacter bouvetii Carr et al., 2003 SPECIES
-=======
+# Acinetobacter bouvetii Carr et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

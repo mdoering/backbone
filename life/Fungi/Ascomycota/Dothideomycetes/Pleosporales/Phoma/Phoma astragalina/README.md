@@ -1,5 +1,4 @@
-Phoma astragalina (Gonz. Frag.) Boerema & Kesteren SPECIES
-=======
+# Phoma astragalina (Gonz. Frag.) Boerema & Kesteren SPECIES
 
 #### Status
 ACCEPTED

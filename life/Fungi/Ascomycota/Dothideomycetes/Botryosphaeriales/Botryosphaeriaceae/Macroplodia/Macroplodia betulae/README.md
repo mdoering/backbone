@@ -1,5 +1,4 @@
-Macroplodia betulae (Cooke) Kuntze SPECIES
-=======
+# Macroplodia betulae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

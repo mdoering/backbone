@@ -1,5 +1,4 @@
-Tricholoma pilatii Velen. SPECIES
-=======
+# Tricholoma pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

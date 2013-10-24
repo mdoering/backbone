@@ -1,5 +1,4 @@
-Buellia stramineoatra SPECIES
-=======
+# Buellia stramineoatra SPECIES
 
 #### Status
 ACCEPTED

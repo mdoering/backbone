@@ -1,14 +1,13 @@
-Hysterium prostii Duby, 1862 SPECIES
-=======
+# Hysteropatella prostii (Duby) Rehm, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 16(1): 38 (1862)
+Rabenh. Krypt. -Fl. (Leipzig) 1(3): 367 (1890)
 
 #### Original name
 Hysterium prostii Duby, 1862

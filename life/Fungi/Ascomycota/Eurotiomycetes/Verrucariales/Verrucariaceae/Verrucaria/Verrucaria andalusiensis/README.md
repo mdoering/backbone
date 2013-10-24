@@ -1,5 +1,4 @@
-Verrucaria andalusiensis Werner SPECIES
-=======
+# Verrucaria andalusiensis Werner SPECIES
 
 #### Status
 ACCEPTED

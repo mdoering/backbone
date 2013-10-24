@@ -1,5 +1,4 @@
-Mortierella nantahalensis C.Y. Chien, 1971 SPECIES
-=======
+# Mortierella nantahalensis C.Y. Chien, 1971 SPECIES
 
 #### Status
 ACCEPTED

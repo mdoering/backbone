@@ -1,14 +1,13 @@
-Pseudodiscosia avenae R. Sprague & Aar.G. Johnson, 1936 SPECIES
-=======
+# Spermospora avenae (R. Sprague & Aar.G. Johnson) R. Sprague, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 28: 181 (1936)
+Diseases of Cereals and Grasses of North America 430 (1950)
 
 #### Original name
 Pseudodiscosia avenae R. Sprague & Aar.G. Johnson, 1936

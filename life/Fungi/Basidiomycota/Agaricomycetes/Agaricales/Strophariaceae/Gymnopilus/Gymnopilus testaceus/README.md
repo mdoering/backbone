@@ -1,5 +1,4 @@
-Gymnopilus testaceus B.J. Rees SPECIES
-=======
+# Gymnopilus testaceus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

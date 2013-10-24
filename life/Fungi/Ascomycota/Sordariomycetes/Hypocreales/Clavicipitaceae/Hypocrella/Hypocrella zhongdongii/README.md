@@ -1,5 +1,4 @@
-Hypocrella zhongdongii M. Liu & K.T. Hodge SPECIES
-=======
+# Hypocrella zhongdongii M. Liu & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

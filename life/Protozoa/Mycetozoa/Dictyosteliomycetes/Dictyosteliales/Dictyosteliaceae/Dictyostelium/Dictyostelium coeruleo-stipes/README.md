@@ -1,5 +1,4 @@
-Dictyostelium coeruleo-stipes Raper & Fennell. SPECIES
-=======
+# Dictyostelium coeruleo-stipes Raper & Fennell. SPECIES
 
 #### Status
 ACCEPTED

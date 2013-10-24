@@ -1,5 +1,4 @@
-Meliola byrsonimicola F. Stevens & Tehon SPECIES
-=======
+# Meliola byrsonimicola F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

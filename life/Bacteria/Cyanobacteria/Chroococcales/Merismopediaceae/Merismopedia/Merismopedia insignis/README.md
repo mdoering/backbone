@@ -1,8 +1,7 @@
-Merismopedia glauca f. insignis (Skorbatov) Geitler FORM
-=======
+# Merismopedia insignis Skorbatov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

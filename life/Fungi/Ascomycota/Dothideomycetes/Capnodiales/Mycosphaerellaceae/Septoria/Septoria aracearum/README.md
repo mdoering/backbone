@@ -1,5 +1,4 @@
-Septoria aracearum R.K. Verma & Kamal SPECIES
-=======
+# Septoria aracearum R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

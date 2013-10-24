@@ -1,5 +1,4 @@
-Chamaeceras floriceps (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras floriceps (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

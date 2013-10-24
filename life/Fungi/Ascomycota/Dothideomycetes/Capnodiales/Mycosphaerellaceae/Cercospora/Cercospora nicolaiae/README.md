@@ -1,5 +1,4 @@
-Cercospora nicolaiae Boedijn SPECIES
-=======
+# Cercospora nicolaiae Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis rostrata Kalb & Vezda SPECIES
-=======
+# Gyalideopsis rostrata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

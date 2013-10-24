@@ -1,5 +1,4 @@
-Triangumorpha minor Yan Yongkui, 1982 SPECIES
-=======
+# Triangumorpha minor Yan Yongkui, 1982 SPECIES
 
 #### Status
 ACCEPTED

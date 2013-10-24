@@ -1,5 +1,4 @@
-Porina bivinacea (Norman) Zahlbr. SPECIES
-=======
+# Porina bivinacea (Norman) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

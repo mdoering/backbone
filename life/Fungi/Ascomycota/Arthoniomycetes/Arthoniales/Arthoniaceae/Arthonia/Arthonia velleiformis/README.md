@@ -1,5 +1,4 @@
-Arthonia velleiformis (Bellardi) Ach. SPECIES
-=======
+# Arthonia velleiformis (Bellardi) Ach. SPECIES
 
 #### Status
 ACCEPTED

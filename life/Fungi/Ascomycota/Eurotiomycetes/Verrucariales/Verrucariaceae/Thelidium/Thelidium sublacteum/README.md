@@ -1,5 +1,4 @@
-Thelidium sublacteum Eitner SPECIES
-=======
+# Thelidium sublacteum Eitner SPECIES
 
 #### Status
 ACCEPTED

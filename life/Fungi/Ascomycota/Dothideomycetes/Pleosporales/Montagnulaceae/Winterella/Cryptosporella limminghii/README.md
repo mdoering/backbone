@@ -1,17 +1,16 @@
-Valsa limminghii Westend. SPECIES
-=======
+# Cryptosporella limminghii (Westend.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Sphaeria limminghii Westend.
 
 ### Remarks
 null

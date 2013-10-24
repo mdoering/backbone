@@ -1,5 +1,4 @@
-Phaeoisaria aguilerae R.F. Castañeda, S. Velásquez & Cano, 2002 SPECIES
-=======
+# Phaeoisaria aguilerae R.F. Castañeda, S. Velásquez & Cano, 2002 SPECIES
 
 #### Status
 ACCEPTED

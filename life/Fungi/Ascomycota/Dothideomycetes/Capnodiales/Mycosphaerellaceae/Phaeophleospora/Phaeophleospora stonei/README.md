@@ -1,5 +1,4 @@
-Phaeophleospora stonei Crous SPECIES
-=======
+# Phaeophleospora stonei Crous SPECIES
 
 #### Status
 ACCEPTED

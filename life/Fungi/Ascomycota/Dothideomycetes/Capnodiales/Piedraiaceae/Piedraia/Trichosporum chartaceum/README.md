@@ -1,5 +1,4 @@
-Trichosporum chartaceum var. chartaceum VARIETY
-=======
+# Trichosporum chartaceum (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichosporum chartaceum var. chartaceum
+Sporotrichum chartaceum Pers.
 
 ### Remarks
 null

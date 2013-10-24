@@ -1,5 +1,4 @@
-Inocybe subdestricta Kauffman SPECIES
-=======
+# Inocybe subdestricta Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomastia clavispora (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Chaetomastia clavispora (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

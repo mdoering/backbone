@@ -1,5 +1,4 @@
-Spicularia alba Pers. SPECIES
-=======
+# Spicularia alba Pers. SPECIES
 
 #### Status
 ACCEPTED

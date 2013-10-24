@@ -1,5 +1,4 @@
-Propionibacteriaceae Delwiche, 1957 FAMILY
-=======
+# Propionibacteriaceae Delwiche, 1957 FAMILY
 
 #### Status
 ACCEPTED

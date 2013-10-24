@@ -1,5 +1,4 @@
-Lapigerella Vilesov, 2002 GENUS
-=======
+# Lapigerella Vilesov, 2002 GENUS
 
 #### Status
 ACCEPTED

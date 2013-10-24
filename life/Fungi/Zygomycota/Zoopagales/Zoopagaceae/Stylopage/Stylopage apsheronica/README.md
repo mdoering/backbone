@@ -1,5 +1,4 @@
-Stylopage apsheronica Islamov, 1981 SPECIES
-=======
+# Stylopage apsheronica Islamov, 1981 SPECIES
 
 #### Status
 ACCEPTED

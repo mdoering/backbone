@@ -1,5 +1,4 @@
-Asterina portoricensis R.W. Ryan SPECIES
-=======
+# Asterina portoricensis R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

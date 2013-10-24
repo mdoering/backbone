@@ -1,5 +1,4 @@
-Parmelia billardierei var. billardierei VARIETY
-=======
+# Hypogymnia billardierei (Mont.) Filson SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Victorian Nat. 87: 325 (1970)
 
 #### Original name
-Parmelia billardierei var. billardierei
+Cetraria billardierei Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amblyospora E.I. Hazard & Oldacre GENUS
-=======
+# Amblyospora E.I. Hazard & Oldacre GENUS
 
 #### Status
 ACCEPTED

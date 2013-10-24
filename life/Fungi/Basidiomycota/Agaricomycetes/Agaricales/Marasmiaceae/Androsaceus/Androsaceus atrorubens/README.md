@@ -1,5 +1,4 @@
-Androsaceus atrorubens (Berk.) Pat. SPECIES
-=======
+# Androsaceus atrorubens (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

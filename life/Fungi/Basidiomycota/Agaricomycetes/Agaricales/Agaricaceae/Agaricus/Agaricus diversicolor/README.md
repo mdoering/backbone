@@ -1,5 +1,4 @@
-Agaricus diversicolor J. Otto SPECIES
-=======
+# Agaricus diversicolor J. Otto SPECIES
 
 #### Status
 ACCEPTED

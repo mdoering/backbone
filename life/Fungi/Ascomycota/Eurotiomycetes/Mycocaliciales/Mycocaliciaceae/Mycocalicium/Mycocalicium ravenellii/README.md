@@ -1,5 +1,4 @@
-Mycocalicium ravenellii SPECIES
-=======
+# Mycocalicium ravenellii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma rubrocyaneum Berk. & Broome SPECIES
-=======
+# Tricholoma rubrocyaneum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

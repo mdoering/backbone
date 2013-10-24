@@ -1,5 +1,4 @@
-Tremella conglobata Britzelm. SPECIES
-=======
+# Tremella conglobata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

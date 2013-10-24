@@ -1,5 +1,4 @@
-Phleboscyphus radicatus Clem. SPECIES
-=======
+# Phleboscyphus radicatus Clem. SPECIES
 
 #### Status
 ACCEPTED

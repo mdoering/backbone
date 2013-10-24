@@ -1,5 +1,4 @@
-Boletus chrysops Corner SPECIES
-=======
+# Boletus chrysops Corner SPECIES
 
 #### Status
 ACCEPTED

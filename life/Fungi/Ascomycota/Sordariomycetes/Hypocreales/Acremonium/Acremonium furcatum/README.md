@@ -1,5 +1,4 @@
-Acremonium furcatum Moreau & R. Moreau ex Gams, 1969 SPECIES
-=======
+# Acremonium furcatum Moreau & R. Moreau ex Gams, 1969 SPECIES
 
 #### Status
 ACCEPTED

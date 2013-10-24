@@ -1,5 +1,4 @@
-Polyschistes capensis (Stizenb.) Keissl. SPECIES
-=======
+# Polyschistes capensis (Stizenb.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

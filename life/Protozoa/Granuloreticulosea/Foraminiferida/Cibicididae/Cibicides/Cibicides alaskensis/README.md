@@ -1,5 +1,4 @@
-Cibicides alaskensis Cushman & Todd, 1947 SPECIES
-=======
+# Cibicides alaskensis Cushman & Todd, 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces formosanus T.T. Chang & W.N. Chou SPECIES
-=======
+# Tyromyces formosanus T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

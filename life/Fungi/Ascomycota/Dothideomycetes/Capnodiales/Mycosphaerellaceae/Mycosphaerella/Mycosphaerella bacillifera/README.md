@@ -1,5 +1,4 @@
-Mycosphaerella bacillifera (P. Karst.) Lind SPECIES
-=======
+# Mycosphaerella bacillifera (P. Karst.) Lind SPECIES
 
 #### Status
 ACCEPTED

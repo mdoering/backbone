@@ -1,5 +1,4 @@
-Hymenogaster thwaitesii Berk. & Broome, 1846 SPECIES
-=======
+# Hymenogaster thwaitesii Berk. & Broome, 1846 SPECIES
 
 #### Status
 ACCEPTED

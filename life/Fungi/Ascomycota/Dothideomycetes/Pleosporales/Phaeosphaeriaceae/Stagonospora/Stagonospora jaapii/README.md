@@ -1,5 +1,4 @@
-Stagonospora jaapii Died. SPECIES
-=======
+# Stagonospora jaapii Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago junci Schwein. SPECIES
-=======
+# Ustilago junci Schwein. SPECIES
 
 #### Status
 ACCEPTED

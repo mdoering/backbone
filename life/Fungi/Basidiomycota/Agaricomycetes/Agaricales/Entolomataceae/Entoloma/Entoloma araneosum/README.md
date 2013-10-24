@@ -1,17 +1,16 @@
-Agaricus fulvostrigosus Berk. & Broome, 1878 SPECIES
-=======
+# Entoloma araneosum (Quél.) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 5 1: 19 (1878)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 208 (1978)
 
 #### Original name
-Agaricus fulvostrigosus Berk. & Broome, 1878
+Nolanea araneosa Quél., 1876
 
 ### Remarks
 null

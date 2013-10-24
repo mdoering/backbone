@@ -1,14 +1,13 @@
-Cejpomyces terrigenus (Bres.) Svrcek & Pouzar, 1970 SPECIES
-=======
+# Thanatephorus terrigenus (Bres.) G. Langer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 24(1): 6 (1970)
+Biblthca Mycol. 158: 324 (1994)
 
 #### Original name
 null

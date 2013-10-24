@@ -1,5 +1,4 @@
-Hafnia GENUS
-=======
+# Hafnia GENUS
 
 #### Status
 ACCEPTED

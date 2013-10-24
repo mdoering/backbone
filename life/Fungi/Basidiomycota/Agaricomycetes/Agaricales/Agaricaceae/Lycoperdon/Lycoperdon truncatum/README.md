@@ -1,5 +1,4 @@
-Lycoperdon truncatum Batsch SPECIES
-=======
+# Lycoperdon truncatum Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudobaeospora pallidifolia Bas, A. Gennari & Robich SPECIES
-=======
+# Pseudobaeospora pallidifolia Bas, A. Gennari & Robich SPECIES
 
 #### Status
 ACCEPTED

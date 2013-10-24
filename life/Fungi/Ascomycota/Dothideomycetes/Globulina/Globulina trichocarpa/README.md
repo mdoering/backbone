@@ -1,5 +1,4 @@
-Globulina trichocarpa Syd. SPECIES
-=======
+# Globulina trichocarpa Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clinterium lycii Hazsl. SPECIES
-=======
+# Clinterium lycii Hazsl. SPECIES
 
 #### Status
 ACCEPTED

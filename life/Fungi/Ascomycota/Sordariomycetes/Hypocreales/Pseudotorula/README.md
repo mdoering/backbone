@@ -1,5 +1,4 @@
-Pseudotorula Subram. GENUS
-=======
+# Pseudotorula Subram. GENUS
 
 #### Status
 ACCEPTED

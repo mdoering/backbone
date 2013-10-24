@@ -1,14 +1,13 @@
-Helminthosporium septosporum Preuss, 1851 SPECIES
-=======
+# Ulocladium septosporum (Preuss) E.G. Simmons, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 24: 117 (1851)
+Mycologia 59(1): 87 (1967)
 
 #### Original name
 Helminthosporium septosporum Preuss, 1851

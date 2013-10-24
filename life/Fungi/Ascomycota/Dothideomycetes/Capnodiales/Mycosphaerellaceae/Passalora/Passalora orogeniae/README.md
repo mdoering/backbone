@@ -1,5 +1,4 @@
-Passalora orogeniae (W.B. Cooke & C.G. Shaw) U. Braun SPECIES
-=======
+# Passalora orogeniae (W.B. Cooke & C.G. Shaw) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vogtlandia carvinacornua (Welsch, 1986) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Vogtlandia carvinacornua (Welsch, 1986) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

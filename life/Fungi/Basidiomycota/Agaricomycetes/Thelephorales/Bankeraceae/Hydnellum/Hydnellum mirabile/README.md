@@ -1,17 +1,16 @@
-Sarcodon acris (Quél.) Quél., 1886 SPECIES
-=======
+# Hydnellum mirabile (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 188 (1886)
+Meddn Soc. Fauna Flora fenn. 5: 41 (1879)
 
 #### Original name
-Hydnum acre Quél., 1878
+Hydnum mirabile Fr., 1863
 
 ### Remarks
 null

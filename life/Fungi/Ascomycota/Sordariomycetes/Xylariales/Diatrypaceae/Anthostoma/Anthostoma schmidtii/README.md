@@ -1,5 +1,4 @@
-Anthostoma schmidtii (Auersw.) Nitschke SPECIES
-=======
+# Anthostoma schmidtii (Auersw.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

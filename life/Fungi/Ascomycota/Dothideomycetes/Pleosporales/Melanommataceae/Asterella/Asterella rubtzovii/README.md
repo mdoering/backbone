@@ -1,5 +1,4 @@
-Asterella rubtzovii Gucevic SPECIES
-=======
+# Asterella rubtzovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus E.M. Fries, 1821 GENUS
-=======
+# Hypochnus E.M. Fries, 1821 GENUS
 
 #### Status
 ACCEPTED

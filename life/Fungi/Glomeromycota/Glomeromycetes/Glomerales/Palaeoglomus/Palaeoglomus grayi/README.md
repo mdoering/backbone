@@ -1,5 +1,4 @@
-Palaeoglomus grayi D. Redecker, Kodner & L.E. Graham SPECIES
-=======
+# Palaeoglomus grayi D. Redecker, Kodner & L.E. Graham SPECIES
 
 #### Status
 ACCEPTED

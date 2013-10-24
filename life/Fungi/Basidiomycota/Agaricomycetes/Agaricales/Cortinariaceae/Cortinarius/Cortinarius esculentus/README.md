@@ -1,5 +1,4 @@
-Cortinarius esculentus Lebedeva SPECIES
-=======
+# Cortinarius esculentus Lebedeva SPECIES
 
 #### Status
 ACCEPTED

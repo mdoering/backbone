@@ -1,5 +1,4 @@
-Phycolapathum Kützing, 1843 GENUS
-=======
+# Phycolapathum Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoporus clypeatus (Pat.) Pat. SPECIES
-=======
+# Leucoporus clypeatus (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

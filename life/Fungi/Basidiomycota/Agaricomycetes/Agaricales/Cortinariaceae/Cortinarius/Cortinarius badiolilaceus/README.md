@@ -1,5 +1,4 @@
-Cortinarius badiolilaceus A. Pearson ex P.D. Orton SPECIES
-=======
+# Cortinarius badiolilaceus A. Pearson ex P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

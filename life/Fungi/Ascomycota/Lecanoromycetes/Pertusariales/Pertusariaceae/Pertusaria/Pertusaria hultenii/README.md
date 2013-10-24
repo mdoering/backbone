@@ -1,5 +1,4 @@
-Pertusaria hultenii Erichsen SPECIES
-=======
+# Pertusaria hultenii Erichsen SPECIES
 
 #### Status
 ACCEPTED

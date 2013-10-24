@@ -1,5 +1,4 @@
-Eurotium creatinum Nyl. SPECIES
-=======
+# Eurotium creatinum Nyl. SPECIES
 
 #### Status
 ACCEPTED

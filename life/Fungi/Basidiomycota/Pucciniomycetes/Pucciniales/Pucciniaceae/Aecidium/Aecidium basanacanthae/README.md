@@ -1,5 +1,4 @@
-Aecidium basanacanthae Henn. SPECIES
-=======
+# Aecidium basanacanthae Henn. SPECIES
 
 #### Status
 ACCEPTED

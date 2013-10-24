@@ -1,5 +1,4 @@
-Torrubiella formicarum Samson, Reenen & H.C. Evans, 1989 SPECIES
-=======
+# Torrubiella formicarum Samson, Reenen & H.C. Evans, 1989 SPECIES
 
 #### Status
 ACCEPTED

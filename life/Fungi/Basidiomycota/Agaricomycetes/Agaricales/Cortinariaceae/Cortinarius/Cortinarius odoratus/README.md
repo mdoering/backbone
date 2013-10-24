@@ -1,17 +1,16 @@
-Cortinarius odoratus var. suavissimus Moënne-Locc. & Reumaux VARIETY
-=======
+# Cortinarius odoratus (M.M. Moser) M.M. Moser, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Reumaux & Moënne-Loccoz, Bull. trimest. Féd. Mycol. Dauphiné-Savoie 28(no. 109): 27 (1988)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 306 (1967)
 
 #### Original name
-Cortinarius odoratus var. suavissimus Moënne-Locc. & Reumaux
+Phlegmacium odoratum Joguet ex M.M. Moser, 1960
 
 ### Remarks
 null

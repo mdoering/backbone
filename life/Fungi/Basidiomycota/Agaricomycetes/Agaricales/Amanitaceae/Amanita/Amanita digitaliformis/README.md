@@ -1,5 +1,4 @@
-Amanita digitaliformis Lam. SPECIES
-=======
+# Amanita digitaliformis Lam. SPECIES
 
 #### Status
 ACCEPTED

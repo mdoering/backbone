@@ -1,5 +1,4 @@
-Coniothecium intricatum Peck SPECIES
-=======
+# Coniothecium intricatum Peck SPECIES
 
 #### Status
 ACCEPTED

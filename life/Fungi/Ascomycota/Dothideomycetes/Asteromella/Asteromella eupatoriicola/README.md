@@ -1,5 +1,4 @@
-Asteromella eupatoriicola (Kabát & Bubák) H. Ruppr. SPECIES
-=======
+# Asteromella eupatoriicola (Kabát & Bubák) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

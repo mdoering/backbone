@@ -1,5 +1,4 @@
-Pulvinula guizhouensis M.H. Liu SPECIES
-=======
+# Pulvinula guizhouensis M.H. Liu SPECIES
 
 #### Status
 ACCEPTED

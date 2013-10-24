@@ -1,5 +1,4 @@
-Gloeosporium naviculisporum Stoneman SPECIES
-=======
+# Gloeosporium naviculisporum Stoneman SPECIES
 
 #### Status
 ACCEPTED

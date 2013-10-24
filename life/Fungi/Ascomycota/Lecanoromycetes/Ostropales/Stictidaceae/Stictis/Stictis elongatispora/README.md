@@ -1,5 +1,4 @@
-Stictis elongatispora Graddon SPECIES
-=======
+# Stictis elongatispora Graddon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carnia Bat. GENUS
-=======
+# Carnia Bat. GENUS
 
 #### Status
 ACCEPTED

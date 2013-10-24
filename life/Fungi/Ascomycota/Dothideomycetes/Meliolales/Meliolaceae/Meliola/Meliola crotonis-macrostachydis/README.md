@@ -1,5 +1,4 @@
-Meliola crotonis-macrostachydis Hansf. SPECIES
-=======
+# Meliola crotonis-macrostachydis Hansf. SPECIES
 
 #### Status
 ACCEPTED

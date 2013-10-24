@@ -1,5 +1,4 @@
-Protaspidaceae FAMILY
-=======
+# Protaspidaceae FAMILY
 
 #### Status
 ACCEPTED

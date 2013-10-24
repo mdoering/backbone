@@ -1,8 +1,7 @@
-Eubacterium fossor Bailey & Love, 1986 SPECIES
-=======
+# Atopobium fossor (Bailey & Love, 1986) Kageyama et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

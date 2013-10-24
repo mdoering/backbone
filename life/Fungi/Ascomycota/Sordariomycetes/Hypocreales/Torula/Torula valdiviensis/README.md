@@ -1,5 +1,4 @@
-Torula valdiviensis Sacc. SPECIES
-=======
+# Torula valdiviensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

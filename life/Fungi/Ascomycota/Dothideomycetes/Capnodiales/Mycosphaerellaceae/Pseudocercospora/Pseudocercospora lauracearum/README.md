@@ -1,5 +1,4 @@
-Pseudocercospora lauracearum H.S.G. Rao, A.S. Moses & S. Narayan SPECIES
-=======
+# Pseudocercospora lauracearum H.S.G. Rao, A.S. Moses & S. Narayan SPECIES
 
 #### Status
 ACCEPTED

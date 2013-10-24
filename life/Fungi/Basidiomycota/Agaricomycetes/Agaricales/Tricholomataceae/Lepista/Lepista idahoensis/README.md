@@ -1,5 +1,4 @@
-Lepista idahoensis (H.E. Bigelow) Harmaja SPECIES
-=======
+# Lepista idahoensis (H.E. Bigelow) Harmaja SPECIES
 
 #### Status
 ACCEPTED

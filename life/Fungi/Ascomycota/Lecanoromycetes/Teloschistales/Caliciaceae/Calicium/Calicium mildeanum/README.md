@@ -1,5 +1,4 @@
-Calicium mildeanum Körb. SPECIES
-=======
+# Calicium mildeanum Körb. SPECIES
 
 #### Status
 ACCEPTED

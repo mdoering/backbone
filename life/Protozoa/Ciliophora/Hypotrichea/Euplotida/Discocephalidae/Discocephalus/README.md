@@ -1,5 +1,4 @@
-Discocephalus Ehrenberg, 1831 GENUS
-=======
+# Discocephalus Ehrenberg, 1831 GENUS
 
 #### Status
 ACCEPTED

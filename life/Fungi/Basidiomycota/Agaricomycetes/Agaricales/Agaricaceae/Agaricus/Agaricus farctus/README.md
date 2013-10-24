@@ -1,5 +1,4 @@
-Agaricus farctus Britzelm. SPECIES
-=======
+# Agaricus farctus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

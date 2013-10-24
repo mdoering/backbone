@@ -1,5 +1,4 @@
-Lecidea glaucotheca Fée SPECIES
-=======
+# Lecidea glaucotheca Fée SPECIES
 
 #### Status
 ACCEPTED

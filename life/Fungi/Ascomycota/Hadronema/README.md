@@ -1,5 +1,4 @@
-Hadronema Sydow & P. Sydow, 1909 GENUS
-=======
+# Hadronema Sydow & P. Sydow, 1909 GENUS
 
 #### Status
 ACCEPTED

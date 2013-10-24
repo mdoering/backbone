@@ -1,5 +1,4 @@
-Roccellaria Darbishire, 1897 GENUS
-=======
+# Roccellaria Darbishire, 1897 GENUS
 
 #### Status
 ACCEPTED

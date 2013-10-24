@@ -1,5 +1,4 @@
-Scolecopeltidium cupaniicola Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium cupaniicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

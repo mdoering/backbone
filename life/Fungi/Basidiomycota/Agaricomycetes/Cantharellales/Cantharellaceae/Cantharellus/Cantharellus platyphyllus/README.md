@@ -1,5 +1,4 @@
-Cantharellus platyphyllus Heinem. SPECIES
-=======
+# Cantharellus platyphyllus Heinem. SPECIES
 
 #### Status
 ACCEPTED

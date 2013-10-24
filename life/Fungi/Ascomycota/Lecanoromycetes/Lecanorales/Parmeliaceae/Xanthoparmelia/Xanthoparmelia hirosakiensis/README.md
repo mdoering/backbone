@@ -1,17 +1,16 @@
-Parmelia hirosakiensis Gyeln. SPECIES
-=======
+# Xanthoparmelia hirosakiensis (Gyeln.) Kurok. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 64(10): 289 (1989)
 
 #### Original name
-null
+Parmelia hirosakiensis Gyeln.
 
 ### Remarks
 null

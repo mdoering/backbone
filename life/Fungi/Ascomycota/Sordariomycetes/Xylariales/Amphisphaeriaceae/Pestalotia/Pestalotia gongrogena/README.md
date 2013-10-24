@@ -1,5 +1,4 @@
-Pestalotia gongrogena Temme SPECIES
-=======
+# Pestalotia gongrogena Temme SPECIES
 
 #### Status
 ACCEPTED

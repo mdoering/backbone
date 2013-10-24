@@ -1,5 +1,4 @@
-Sphaeria lonicerarum Desm. SPECIES
-=======
+# Sphaeria lonicerarum Desm. SPECIES
 
 #### Status
 ACCEPTED

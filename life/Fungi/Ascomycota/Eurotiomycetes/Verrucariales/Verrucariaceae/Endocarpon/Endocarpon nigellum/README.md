@@ -1,5 +1,4 @@
-Endocarpon nigellum (Kremp.) Lönnr. SPECIES
-=======
+# Endocarpon nigellum (Kremp.) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

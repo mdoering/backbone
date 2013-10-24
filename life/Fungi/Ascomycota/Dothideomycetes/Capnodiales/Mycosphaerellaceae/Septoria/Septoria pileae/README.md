@@ -1,5 +1,4 @@
-Septoria pileae Thüm. SPECIES
-=======
+# Septoria pileae Thüm. SPECIES
 
 #### Status
 ACCEPTED

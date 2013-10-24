@@ -1,5 +1,4 @@
-Phillipsia straminea S. Ito & S. Imai SPECIES
-=======
+# Phillipsia straminea S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora sedoides (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora sedoides (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

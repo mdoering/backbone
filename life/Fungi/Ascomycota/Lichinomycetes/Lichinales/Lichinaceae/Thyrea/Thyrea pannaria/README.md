@@ -1,5 +1,4 @@
-Thyrea pannaria (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea pannaria (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

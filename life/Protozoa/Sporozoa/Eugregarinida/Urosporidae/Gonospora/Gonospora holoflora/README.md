@@ -1,5 +1,4 @@
-Gonospora holoflora Pomory & Lares, 1998 SPECIES
-=======
+# Gonospora holoflora Pomory & Lares, 1998 SPECIES
 
 #### Status
 ACCEPTED

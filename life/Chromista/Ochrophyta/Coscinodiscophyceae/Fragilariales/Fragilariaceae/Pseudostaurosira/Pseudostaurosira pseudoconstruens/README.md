@@ -1,5 +1,4 @@
-Pseudostaurosira pseudoconstruens (Marciniak) D.M.Williams & Round SPECIES
-=======
+# Pseudostaurosira pseudoconstruens (Marciniak) D.M.Williams & Round SPECIES
 
 #### Status
 ACCEPTED

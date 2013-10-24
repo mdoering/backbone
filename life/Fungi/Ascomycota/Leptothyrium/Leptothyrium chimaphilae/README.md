@@ -1,5 +1,4 @@
-Leptothyrium chimaphilae Lind. {?} SPECIES
-=======
+# Leptothyrium chimaphilae Lind. {?} SPECIES
 
 #### Status
 ACCEPTED

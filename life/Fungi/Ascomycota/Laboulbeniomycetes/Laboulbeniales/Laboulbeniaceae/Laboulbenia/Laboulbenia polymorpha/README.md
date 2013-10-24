@@ -1,5 +1,4 @@
-Laboulbenia polymorpha Sugiy. SPECIES
-=======
+# Laboulbenia polymorpha Sugiy. SPECIES
 
 #### Status
 ACCEPTED

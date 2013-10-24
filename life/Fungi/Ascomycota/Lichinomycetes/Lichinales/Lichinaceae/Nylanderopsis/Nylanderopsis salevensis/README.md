@@ -1,5 +1,4 @@
-Nylanderopsis salevensis Gyeln. SPECIES
-=======
+# Nylanderopsis salevensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

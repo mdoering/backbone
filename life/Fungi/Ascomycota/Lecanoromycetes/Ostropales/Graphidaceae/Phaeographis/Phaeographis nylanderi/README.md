@@ -1,5 +1,4 @@
-Phaeographis nylanderi (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis nylanderi (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

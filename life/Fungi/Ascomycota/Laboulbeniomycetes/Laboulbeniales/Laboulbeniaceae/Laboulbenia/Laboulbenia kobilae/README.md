@@ -1,5 +1,4 @@
-Laboulbenia kobilae Huldén SPECIES
-=======
+# Laboulbenia kobilae Huldén SPECIES
 
 #### Status
 ACCEPTED

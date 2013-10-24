@@ -1,5 +1,4 @@
-Odontia gossypina Rick SPECIES
-=======
+# Odontia gossypina Rick SPECIES
 
 #### Status
 ACCEPTED

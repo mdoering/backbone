@@ -1,17 +1,16 @@
-Parmelia capnoides Kurok. SPECIES
-=======
+# Xanthoparmelia antleriformis (Elix) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 11(3): 78 (1985)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 194 (1986)
 
 #### Original name
-Parmelia capnoides Kurok.
+Parmelia antleriformis Elix
 
 ### Remarks
 null

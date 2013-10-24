@@ -1,5 +1,4 @@
-Ehrenbergina notoensis Asano, 1951 SPECIES
-=======
+# Ehrenbergina notoensis Asano, 1951 SPECIES
 
 #### Status
 ACCEPTED

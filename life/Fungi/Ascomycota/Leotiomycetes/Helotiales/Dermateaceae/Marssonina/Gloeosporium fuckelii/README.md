@@ -1,5 +1,4 @@
-Gloeosporium fuckelii Sacc. SPECIES
-=======
+# Gloeosporium fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

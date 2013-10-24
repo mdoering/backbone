@@ -1,5 +1,4 @@
-Cercidospora picea (Sollm.) Kuntze SPECIES
-=======
+# Cercidospora picea (Sollm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

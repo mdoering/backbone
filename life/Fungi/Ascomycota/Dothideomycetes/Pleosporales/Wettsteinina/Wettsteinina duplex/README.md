@@ -1,5 +1,4 @@
-Wettsteinina duplex Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina duplex Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

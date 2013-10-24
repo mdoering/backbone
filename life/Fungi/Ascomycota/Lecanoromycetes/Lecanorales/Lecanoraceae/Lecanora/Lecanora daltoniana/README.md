@@ -1,5 +1,4 @@
-Lecanora daltoniana Hook. f. & Taylor SPECIES
-=======
+# Lecanora daltoniana Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

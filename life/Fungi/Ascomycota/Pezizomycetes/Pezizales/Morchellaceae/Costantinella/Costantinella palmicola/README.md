@@ -1,5 +1,4 @@
-Costantinella palmicola M.K.M. Wong, Yanna, Goh & K.D. Hyde SPECIES
-=======
+# Costantinella palmicola M.K.M. Wong, Yanna, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

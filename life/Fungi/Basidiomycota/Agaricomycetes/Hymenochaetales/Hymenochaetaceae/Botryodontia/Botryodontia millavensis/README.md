@@ -1,5 +1,4 @@
-Botryodontia millavensis (Bourdot & Galzin) Duhem & H. Michel SPECIES
-=======
+# Botryodontia millavensis (Bourdot & Galzin) Duhem & H. Michel SPECIES
 
 #### Status
 ACCEPTED

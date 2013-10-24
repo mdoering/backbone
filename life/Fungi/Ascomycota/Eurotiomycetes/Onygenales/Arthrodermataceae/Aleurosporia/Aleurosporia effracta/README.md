@@ -1,5 +1,4 @@
-Aleurosporia effracta (Sabour.) Grigorakis {?} SPECIES
-=======
+# Aleurosporia effracta (Sabour.) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

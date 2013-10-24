@@ -1,5 +1,4 @@
-Acanthostigmella pellucida M.E. Barr, 1977 SPECIES
-=======
+# Acanthostigmella pellucida M.E. Barr, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniastrum crawfordiae Syd. SPECIES
-=======
+# Pucciniastrum crawfordiae Syd. SPECIES
 
 #### Status
 ACCEPTED

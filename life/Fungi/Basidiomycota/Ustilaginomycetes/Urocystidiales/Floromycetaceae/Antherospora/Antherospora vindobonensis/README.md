@@ -1,5 +1,4 @@
-Antherospora vindobonensis R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
-=======
+# Antherospora vindobonensis R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
 
 #### Status
 ACCEPTED

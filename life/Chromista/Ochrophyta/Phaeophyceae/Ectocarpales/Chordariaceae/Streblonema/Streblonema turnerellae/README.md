@@ -1,8 +1,7 @@
-Ectocarpus turnerellae Foslie SPECIES
-=======
+# Streblonema turnerellae (Foslie) Printz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

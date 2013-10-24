@@ -1,5 +1,4 @@
-Cercosporella exilis Davis SPECIES
-=======
+# Cercosporella exilis Davis SPECIES
 
 #### Status
 ACCEPTED

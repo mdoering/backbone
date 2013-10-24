@@ -1,5 +1,4 @@
-Lecanora verrucariicola B. D. Ryan SPECIES
-=======
+# Lecanora verrucariicola B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

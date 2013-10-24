@@ -1,8 +1,7 @@
-Coleosporium nambuanum Henn., 1901 SPECIES
-=======
+# Ochropsora nambuana (Henn.) Dietel, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

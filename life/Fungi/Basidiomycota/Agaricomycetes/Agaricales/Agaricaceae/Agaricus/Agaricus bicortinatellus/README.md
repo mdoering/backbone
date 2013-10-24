@@ -1,5 +1,4 @@
-Agaricus bicortinatellus Heinem. SPECIES
-=======
+# Agaricus bicortinatellus Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha bacillosa Zahlbr. SPECIES
-=======
+# Opegrapha bacillosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

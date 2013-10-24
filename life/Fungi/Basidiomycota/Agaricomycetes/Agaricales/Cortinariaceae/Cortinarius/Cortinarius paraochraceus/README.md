@@ -1,5 +1,4 @@
-Cortinarius paraochraceus var. paraochraceus VARIETY
-=======
+# Cortinarius paraochraceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Moser & Horak, Beih. Nova Hedwigia 52: 224 (1975)
 
 #### Original name
-Cortinarius paraochraceus var. paraochraceus
+Cortinarius paraochraceus M.M. Moser
 
 ### Remarks
 null

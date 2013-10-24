@@ -1,5 +1,4 @@
-Ramaria ligustri Velen. SPECIES
-=======
+# Ramaria ligustri Velen. SPECIES
 
 #### Status
 ACCEPTED

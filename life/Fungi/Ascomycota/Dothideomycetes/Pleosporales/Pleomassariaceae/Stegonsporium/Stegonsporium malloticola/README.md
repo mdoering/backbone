@@ -1,5 +1,4 @@
-Stegonsporium malloticola Agnihothr. SPECIES
-=======
+# Stegonsporium malloticola Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

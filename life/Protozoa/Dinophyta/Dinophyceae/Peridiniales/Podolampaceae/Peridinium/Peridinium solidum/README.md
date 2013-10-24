@@ -1,5 +1,4 @@
-Peridinium solidum Cleve-Euler SPECIES
-=======
+# Peridinium solidum Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

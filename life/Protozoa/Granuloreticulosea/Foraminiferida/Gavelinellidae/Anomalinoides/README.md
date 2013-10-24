@@ -1,5 +1,4 @@
-Anomalinoides Brotzen, 1942 GENUS
-=======
+# Anomalinoides Brotzen, 1942 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Winterina peltigeraephila Rehm SPECIES
-=======
+# Winterina peltigerophila Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 6(4): 323 (1908)
 
 #### Original name
-Winterina peltigeraephila Rehm
+Winterina peltigerophila Rehm
 
 ### Remarks
 null

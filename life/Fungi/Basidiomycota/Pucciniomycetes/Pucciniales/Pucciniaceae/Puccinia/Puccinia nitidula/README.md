@@ -1,5 +1,4 @@
-Puccinia nitidula Tranzschel SPECIES
-=======
+# Puccinia nitidula Tranzschel SPECIES
 
 #### Status
 ACCEPTED

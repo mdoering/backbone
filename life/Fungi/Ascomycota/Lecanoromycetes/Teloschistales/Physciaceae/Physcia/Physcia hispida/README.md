@@ -1,5 +1,4 @@
-Physcia hispida var. hispida VARIETY
-=======
+# Physcia hispida (Schreb.) Frege SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia hispida var. hispida
+Lichen hispidus Schreb.
 
 ### Remarks
 null

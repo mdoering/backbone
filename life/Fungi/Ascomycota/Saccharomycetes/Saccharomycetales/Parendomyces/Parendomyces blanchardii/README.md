@@ -1,5 +1,4 @@
-Parendomyces blanchardii (Castell.) C.W. Dodge SPECIES
-=======
+# Parendomyces blanchardii (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

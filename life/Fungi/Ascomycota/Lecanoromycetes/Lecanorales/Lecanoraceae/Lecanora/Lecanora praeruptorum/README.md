@@ -1,8 +1,7 @@
-Lecanora praeruptarum H. Magn. SPECIES
-=======
+# Lecanora praeruptorum H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora praeruptarum H. Magn.
+Lecanora praeruptorum H. Magn.
 
 ### Remarks
 null

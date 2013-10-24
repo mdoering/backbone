@@ -1,5 +1,4 @@
-Thelidium inundatum Zschacke SPECIES
-=======
+# Thelidium inundatum Zschacke SPECIES
 
 #### Status
 ACCEPTED

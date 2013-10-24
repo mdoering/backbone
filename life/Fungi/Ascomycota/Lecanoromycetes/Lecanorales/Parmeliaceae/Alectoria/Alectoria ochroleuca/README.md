@@ -1,17 +1,16 @@
-Alectoria ochroleuca f. ochroleuca FORM
-=======
+# Alectoria ochroleuca (Hoffm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Marcano, Morales Méndez & Martinez, Sched. critic. 2: 47 (1855)
 
 #### Original name
-Alectoria ochroleuca f. ochroleuca
+Usnea ochroleuca Hoffm.
 
 ### Remarks
 null

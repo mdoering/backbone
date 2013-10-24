@@ -1,5 +1,4 @@
-Russula brasiliensis Singer SPECIES
-=======
+# Russula brasiliensis Singer SPECIES
 
 #### Status
 ACCEPTED

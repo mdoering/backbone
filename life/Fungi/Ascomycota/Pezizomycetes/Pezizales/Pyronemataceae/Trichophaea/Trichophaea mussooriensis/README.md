@@ -1,5 +1,4 @@
-Trichophaea mussooriensis (K.S. Thind, E.K. Cash & Sethi {?} ) L.R. Batra SPECIES
-=======
+# Trichophaea mussooriensis (K.S. Thind, E.K. Cash & Sethi {?} ) L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

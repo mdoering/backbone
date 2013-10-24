@@ -1,5 +1,4 @@
-Teloschistes euplocus (Tuck.) Zahlbr. SPECIES
-=======
+# Teloschistes euplocus (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

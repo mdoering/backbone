@@ -1,5 +1,4 @@
-Segestria muscorum (Hepp) Trevis. SPECIES
-=======
+# Segestria muscorum (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria agrimoniae Roum. SPECIES
-=======
+# Septoria agrimoniae Roum. SPECIES
 
 #### Status
 ACCEPTED

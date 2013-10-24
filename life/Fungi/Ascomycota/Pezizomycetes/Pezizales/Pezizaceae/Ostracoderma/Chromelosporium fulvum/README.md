@@ -1,17 +1,16 @@
-Ostracoderma dichotomum (F.A. Wolf) Matsush., 1975 SPECIES
-=======
+# Chromelosporium fulvum (Link) McGinty, Hennebert & Korf, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 103 (1975)
+in Hennebert & Korf, Mycologia 67(2): 216 (1975)
 
 #### Original name
-Mycotypha dichotoma F.A. Wolf, 1955
+Botrytis fulva Link, 1824
 
 ### Remarks
 null

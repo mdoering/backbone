@@ -1,5 +1,4 @@
-Stereomyxa ramosa Grell, 1996 SPECIES
-=======
+# Stereomyxa ramosa Grell, 1996 SPECIES
 
 #### Status
 ACCEPTED

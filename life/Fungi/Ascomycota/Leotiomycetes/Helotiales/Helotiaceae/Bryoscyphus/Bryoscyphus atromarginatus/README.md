@@ -1,5 +1,4 @@
-Bryoscyphus atromarginatus Verkley, Aa & G.W. De Cock, 1997 SPECIES
-=======
+# Bryoscyphus atromarginatus Verkley, Aa & G.W. De Cock, 1997 SPECIES
 
 #### Status
 ACCEPTED

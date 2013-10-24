@@ -1,5 +1,4 @@
-Graphis rikuzensis (Vain.) M. Nakan. SPECIES
-=======
+# Graphis rikuzensis (Vain.) M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

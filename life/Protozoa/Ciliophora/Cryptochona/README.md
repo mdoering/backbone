@@ -1,5 +1,4 @@
-Cryptochona Yankovskii, 1973 GENUS
-=======
+# Cryptochona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

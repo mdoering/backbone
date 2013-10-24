@@ -1,5 +1,4 @@
-Phyllachora anthistiriae Racib. ex Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora anthistiriae Racib. ex Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

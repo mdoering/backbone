@@ -1,5 +1,4 @@
-Gyrosphaera Noble & Maletz, 2000 GENUS
-=======
+# Gyrosphaera Noble & Maletz, 2000 GENUS
 
 #### Status
 ACCEPTED

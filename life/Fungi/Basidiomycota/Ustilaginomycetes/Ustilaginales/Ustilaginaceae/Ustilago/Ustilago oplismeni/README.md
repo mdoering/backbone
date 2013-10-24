@@ -1,5 +1,4 @@
-Ustilago oplismeni Vienn.-Bourg. SPECIES
-=======
+# Ustilago oplismeni Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

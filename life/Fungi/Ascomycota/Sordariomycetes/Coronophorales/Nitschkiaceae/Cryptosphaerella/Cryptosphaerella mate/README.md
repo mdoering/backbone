@@ -1,5 +1,4 @@
-Cryptosphaerella mate Speg. SPECIES
-=======
+# Cryptosphaerella mate Speg. SPECIES
 
 #### Status
 ACCEPTED

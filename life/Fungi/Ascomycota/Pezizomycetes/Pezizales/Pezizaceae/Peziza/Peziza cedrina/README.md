@@ -1,5 +1,4 @@
-Peziza cedrina Cooke & W.R. Gerard SPECIES
-=======
+# Peziza cedrina Cooke & W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

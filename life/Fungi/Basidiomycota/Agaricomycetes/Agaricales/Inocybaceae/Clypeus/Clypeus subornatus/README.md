@@ -1,5 +1,4 @@
-Clypeus subornatus Britzelm. SPECIES
-=======
+# Clypeus subornatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

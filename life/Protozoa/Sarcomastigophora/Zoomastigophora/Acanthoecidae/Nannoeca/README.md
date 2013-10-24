@@ -1,5 +1,4 @@
-Nannoeca Thomsen, 1988 GENUS
-=======
+# Nannoeca Thomsen, 1988 GENUS
 
 #### Status
 ACCEPTED

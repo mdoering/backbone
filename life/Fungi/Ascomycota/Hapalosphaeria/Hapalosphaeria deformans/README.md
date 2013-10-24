@@ -1,14 +1,13 @@
-Paepalopsis deformans Syd., 1907 SPECIES
-=======
+# Hapalosphaeria deformans (Syd.) Syd., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5(5): 398 (1907)
+in Diedecke & Sydow, Annls mycol. 6(4): 305 (1908)
 
 #### Original name
 Paepalopsis deformans Syd., 1907

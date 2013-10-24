@@ -1,5 +1,4 @@
-Dothiora ribesia (Pers.) M.E. Barr, 1972 SPECIES
-=======
+# Dothiora ribesia (Pers.) M.E. Barr, 1972 SPECIES
 
 #### Status
 ACCEPTED

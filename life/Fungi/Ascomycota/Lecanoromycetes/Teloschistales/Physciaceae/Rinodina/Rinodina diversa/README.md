@@ -1,5 +1,4 @@
-Rinodina diversa Aptroot SPECIES
-=======
+# Rinodina diversa Aptroot SPECIES
 
 #### Status
 ACCEPTED

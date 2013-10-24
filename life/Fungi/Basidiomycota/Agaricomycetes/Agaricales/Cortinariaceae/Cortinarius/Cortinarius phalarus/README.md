@@ -1,5 +1,4 @@
-Cortinarius phalarus Bougher & R.N. Hilton SPECIES
-=======
+# Cortinarius phalarus Bougher & R.N. Hilton SPECIES
 
 #### Status
 ACCEPTED

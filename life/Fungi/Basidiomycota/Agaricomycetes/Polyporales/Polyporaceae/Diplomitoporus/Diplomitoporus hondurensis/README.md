@@ -1,14 +1,13 @@
-Poria hondurensis Murrill, 1920 SPECIES
-=======
+# Diplomitoporus hondurensis (Murrill) Ryvarden, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 12(6): 303 (1920)
+Mycotaxon 74(1): 121 (2000)
 
 #### Original name
 Poria hondurensis Murrill, 1920

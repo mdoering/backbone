@@ -1,5 +1,4 @@
-Peziza subaurantia E. Bommer & M. Rousseau SPECIES
-=======
+# Peziza subaurantia E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

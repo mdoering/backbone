@@ -1,5 +1,4 @@
-Clavaria crassa Britzelm. SPECIES
-=======
+# Clavaria crassa Britzelm. SPECIES
 
 #### Status
 ACCEPTED

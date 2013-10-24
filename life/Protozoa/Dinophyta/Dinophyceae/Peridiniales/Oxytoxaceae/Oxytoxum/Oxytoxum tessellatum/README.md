@@ -1,8 +1,7 @@
-Centrodinium michaelsarsii (Gaarder) F.J.R. Taylor, 1976 SPECIES
-=======
+# Oxytoxum tessellatum (Stein, 1883) Schütt, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

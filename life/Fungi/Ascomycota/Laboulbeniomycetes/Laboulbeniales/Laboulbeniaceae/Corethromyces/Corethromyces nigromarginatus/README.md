@@ -1,5 +1,4 @@
-Corethromyces nigromarginatus Thaxt. SPECIES
-=======
+# Corethromyces nigromarginatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

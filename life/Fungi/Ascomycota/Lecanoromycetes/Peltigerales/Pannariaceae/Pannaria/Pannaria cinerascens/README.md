@@ -1,17 +1,16 @@
-Pannaria rubiginosa var. cinerascens Nyl. VARIETY
-=======
+# Pannaria cinerascens (Nyl.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 88: 241 (2004)
 
 #### Original name
-null
+Pannaria rubiginosa f. cinerascens
 
 ### Remarks
 null

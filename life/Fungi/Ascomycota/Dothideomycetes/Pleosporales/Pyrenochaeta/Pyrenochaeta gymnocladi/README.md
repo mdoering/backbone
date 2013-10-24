@@ -1,5 +1,4 @@
-Pyrenochaeta gymnocladi Caball. SPECIES
-=======
+# Pyrenochaeta gymnocladi Caball. SPECIES
 
 #### Status
 ACCEPTED

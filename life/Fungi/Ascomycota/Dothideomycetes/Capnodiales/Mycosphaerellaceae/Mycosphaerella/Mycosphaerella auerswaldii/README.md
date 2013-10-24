@@ -1,5 +1,4 @@
-Mycosphaerella auerswaldii (Fleischh.) Lindau SPECIES
-=======
+# Mycosphaerella auerswaldii (Fleischh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

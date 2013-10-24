@@ -1,5 +1,4 @@
-Phoma aquilegiicola M. Petrov, 1933 SPECIES
-=======
+# Phoma aquilegiicola M. Petrov, 1933 SPECIES
 
 #### Status
 ACCEPTED

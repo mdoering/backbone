@@ -1,5 +1,4 @@
-Hymenogaster pisiformis Velen. SPECIES
-=======
+# Hymenogaster pisiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

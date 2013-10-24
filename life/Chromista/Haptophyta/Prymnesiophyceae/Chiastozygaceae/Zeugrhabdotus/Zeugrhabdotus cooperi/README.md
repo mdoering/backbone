@@ -1,5 +1,4 @@
-Zeugrhabdotus cooperi SPECIES
-=======
+# Zeugrhabdotus cooperi SPECIES
 
 #### Status
 ACCEPTED

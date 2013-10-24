@@ -1,5 +1,4 @@
-Degelia granitica P.M. Jørg. & Kantvilas SPECIES
-=======
+# Degelia granitica P.M. Jørg. & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

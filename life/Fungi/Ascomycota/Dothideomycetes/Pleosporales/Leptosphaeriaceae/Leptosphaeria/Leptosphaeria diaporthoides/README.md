@@ -1,5 +1,4 @@
-Leptosphaeria diaporthoides G. Winter SPECIES
-=======
+# Leptosphaeria diaporthoides G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbacterium deminutum Kageyama et al., 2006 SPECIES
-=======
+# Microbacterium deminutum Kageyama et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

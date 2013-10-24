@@ -1,5 +1,4 @@
-Helotium juniperinellum P. Karst. SPECIES
-=======
+# Helotium juniperinellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

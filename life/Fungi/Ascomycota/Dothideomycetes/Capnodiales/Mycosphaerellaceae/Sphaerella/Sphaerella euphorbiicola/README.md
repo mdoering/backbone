@@ -1,5 +1,4 @@
-Sphaerella euphorbiicola (Schwein.) Ellis & Everh. SPECIES
-=======
+# Sphaerella euphorbiicola (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

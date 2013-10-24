@@ -1,5 +1,4 @@
-Sphacelaria carpoglossi Womersley SPECIES
-=======
+# Sphacelaria carpoglossi Womersley SPECIES
 
 #### Status
 ACCEPTED

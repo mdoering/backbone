@@ -1,14 +1,13 @@
-Hymenoscyphus leucostigmodes (Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus leucostigmoides (Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 485 (1898)
 
 #### Original name
 Pezizella leucostigmoides (Sacc.) Rehm

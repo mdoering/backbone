@@ -1,5 +1,4 @@
-Davidiella liabi (Petr.) Aptroot, 2006 SPECIES
-=======
+# Davidiella liabi (Petr.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

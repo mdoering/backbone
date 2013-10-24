@@ -1,5 +1,4 @@
-Microsphaera sequinii Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Microsphaera sequinii Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

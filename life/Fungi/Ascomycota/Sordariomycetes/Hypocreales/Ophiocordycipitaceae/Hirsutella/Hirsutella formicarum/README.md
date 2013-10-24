@@ -1,5 +1,4 @@
-Hirsutella formicarum Koval SPECIES
-=======
+# Hirsutella formicarum Koval SPECIES
 
 #### Status
 ACCEPTED

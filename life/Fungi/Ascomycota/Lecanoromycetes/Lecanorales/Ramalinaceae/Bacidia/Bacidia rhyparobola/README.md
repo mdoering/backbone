@@ -1,5 +1,4 @@
-Bacidia rhyparobola (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia rhyparobola (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

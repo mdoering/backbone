@@ -1,5 +1,4 @@
-Hendersonia echii Petr. SPECIES
-=======
+# Hendersonia echii Petr. SPECIES
 
 #### Status
 ACCEPTED

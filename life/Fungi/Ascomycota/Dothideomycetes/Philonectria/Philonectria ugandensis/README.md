@@ -1,5 +1,4 @@
-Philonectria ugandensis Hansf. SPECIES
-=======
+# Philonectria ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

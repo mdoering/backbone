@@ -1,5 +1,4 @@
-Verrucaria colliculosa (Hoffm.) Baumg. SPECIES
-=======
+# Verrucaria colliculosa (Hoffm.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

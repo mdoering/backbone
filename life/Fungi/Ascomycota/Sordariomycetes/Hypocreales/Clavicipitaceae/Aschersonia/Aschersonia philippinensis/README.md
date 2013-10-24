@@ -1,5 +1,4 @@
-Aschersonia philippinensis Petch SPECIES
-=======
+# Aschersonia philippinensis Petch SPECIES
 
 #### Status
 ACCEPTED

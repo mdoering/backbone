@@ -1,5 +1,4 @@
-Cortinarius assiduus var. assiduus VARIETY
-=======
+# Cortinarius assiduus Mahiques, A. Ortega & Bidaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Féd. Mycol. Dauphiné-Savoie 41(no. 162): 42 (2001)
 
 #### Original name
-Cortinarius assiduus var. assiduus
+Cortinarius assiduus Mahiques, A. Ortega & Bidaud
 
 ### Remarks
 null

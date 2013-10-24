@@ -1,5 +1,4 @@
-Pseudocyphellaria lechleri (Müll. Arg.) Du Rietz SPECIES
-=======
+# Pseudocyphellaria lechleri (Müll. Arg.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED

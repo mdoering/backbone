@@ -1,5 +1,4 @@
-Lecidea anomala f. misella Nyl. FORM
-=======
+# Lecidea anomala Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea anomala f. misella Nyl.
+Lecidea anomala Ach.
 
 ### Remarks
 null

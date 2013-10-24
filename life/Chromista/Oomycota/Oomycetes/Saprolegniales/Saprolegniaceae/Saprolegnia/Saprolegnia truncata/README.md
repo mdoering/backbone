@@ -1,5 +1,4 @@
-Saprolegnia truncata R.L. Seym. SPECIES
-=======
+# Saprolegnia truncata R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia fusispora P. Syd. & Syd. SPECIES
-=======
+# Puccinia fusispora P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

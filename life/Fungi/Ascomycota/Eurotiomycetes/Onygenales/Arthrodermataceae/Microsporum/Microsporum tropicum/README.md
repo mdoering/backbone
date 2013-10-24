@@ -1,5 +1,4 @@
-Microsporum tropicum Castell. SPECIES
-=======
+# Microsporum tropicum Castell. SPECIES
 
 #### Status
 ACCEPTED

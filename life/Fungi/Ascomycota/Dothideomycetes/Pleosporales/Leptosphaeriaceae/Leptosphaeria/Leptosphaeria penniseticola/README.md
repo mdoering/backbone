@@ -1,5 +1,4 @@
-Leptosphaeria penniseticola Deighton SPECIES
-=======
+# Leptosphaeria penniseticola Deighton SPECIES
 
 #### Status
 ACCEPTED

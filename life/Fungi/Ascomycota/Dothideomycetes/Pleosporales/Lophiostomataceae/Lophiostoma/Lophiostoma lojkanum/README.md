@@ -1,5 +1,4 @@
-Lophiostoma lojkanum Sacc. SPECIES
-=======
+# Lophiostoma lojkanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

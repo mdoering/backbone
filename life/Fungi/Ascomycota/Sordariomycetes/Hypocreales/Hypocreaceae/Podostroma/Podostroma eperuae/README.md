@@ -1,5 +1,4 @@
-Podostroma eperuae Rogerson & Samuels SPECIES
-=======
+# Podostroma eperuae Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

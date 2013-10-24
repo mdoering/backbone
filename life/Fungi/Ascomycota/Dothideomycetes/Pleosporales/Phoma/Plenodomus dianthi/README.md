@@ -1,5 +1,4 @@
-Plenodomus dianthi Bubák SPECIES
-=======
+# Plenodomus dianthi Bubák SPECIES
 
 #### Status
 ACCEPTED

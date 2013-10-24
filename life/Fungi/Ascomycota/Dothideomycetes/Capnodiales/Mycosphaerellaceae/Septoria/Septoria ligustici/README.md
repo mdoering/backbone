@@ -1,5 +1,4 @@
-Septoria ligustici Guba SPECIES
-=======
+# Septoria ligustici Guba SPECIES
 
 #### Status
 ACCEPTED

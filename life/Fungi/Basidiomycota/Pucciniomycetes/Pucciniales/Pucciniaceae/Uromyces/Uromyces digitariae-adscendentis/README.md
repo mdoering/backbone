@@ -1,5 +1,4 @@
-Uromyces digitariae-adscendentis Cummins & S.M. Husain SPECIES
-=======
+# Uromyces digitariae-adscendentis Cummins & S.M. Husain SPECIES
 
 #### Status
 ACCEPTED

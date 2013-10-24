@@ -1,5 +1,4 @@
-Ramaria subviolacea R.H. Petersen & Scates, 2000 SPECIES
-=======
+# Ramaria subviolacea R.H. Petersen & Scates, 2000 SPECIES
 
 #### Status
 ACCEPTED

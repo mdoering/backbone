@@ -1,5 +1,4 @@
-Paenibacillus massiliensis Roux & Raoult, 2004 SPECIES
-=======
+# Paenibacillus massiliensis Roux & Raoult, 2004 SPECIES
 
 #### Status
 ACCEPTED

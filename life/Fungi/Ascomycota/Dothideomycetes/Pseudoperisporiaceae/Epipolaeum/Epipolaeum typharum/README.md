@@ -1,5 +1,4 @@
-Epipolaeum typharum Barreto SPECIES
-=======
+# Epipolaeum typharum Barreto SPECIES
 
 #### Status
 ACCEPTED

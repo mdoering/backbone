@@ -1,5 +1,4 @@
-Helotium robiniae Velen. SPECIES
-=======
+# Helotium robiniae Velen. SPECIES
 
 #### Status
 ACCEPTED

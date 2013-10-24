@@ -1,5 +1,4 @@
-Trichoderma oblongisporum Bissett, 1992 SPECIES
-=======
+# Trichoderma oblongisporum Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

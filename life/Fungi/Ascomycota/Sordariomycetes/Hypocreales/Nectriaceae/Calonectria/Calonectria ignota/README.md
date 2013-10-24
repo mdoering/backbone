@@ -1,5 +1,4 @@
-Calonectria ignota Chardón SPECIES
-=======
+# Calonectria ignota Chardón SPECIES
 
 #### Status
 ACCEPTED

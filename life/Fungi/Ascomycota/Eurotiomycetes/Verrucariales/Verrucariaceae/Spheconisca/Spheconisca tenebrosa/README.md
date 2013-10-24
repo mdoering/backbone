@@ -1,5 +1,4 @@
-Spheconisca tenebrosa Norman SPECIES
-=======
+# Spheconisca tenebrosa Norman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus piceus Velen. SPECIES
-=======
+# Panus piceus Velen. SPECIES
 
 #### Status
 ACCEPTED

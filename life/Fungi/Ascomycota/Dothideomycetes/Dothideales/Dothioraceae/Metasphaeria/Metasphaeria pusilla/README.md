@@ -1,5 +1,4 @@
-Metasphaeria pusilla Cooke SPECIES
-=======
+# Metasphaeria pusilla Cooke SPECIES
 
 #### Status
 ACCEPTED

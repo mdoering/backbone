@@ -1,5 +1,4 @@
-Leptosphaeria veratri Tracy & Earle SPECIES
-=======
+# Leptosphaeria veratri Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bondiella palmicola Piroz., 1972 SPECIES
-=======
+# Bondiella palmicola Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoamphisiella lacazei (Maupas, 1883) Song, 1996 SPECIES
-=======
+# Pseudoamphisiella lacazei (Maupas, 1883) Song, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius oryzae Berk. & M.A. Curtis SPECIES
-=======
+# Bolbitius oryzae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

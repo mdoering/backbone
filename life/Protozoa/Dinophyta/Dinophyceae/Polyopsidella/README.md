@@ -1,5 +1,4 @@
-Polyopsidella C.A. Kofoid & O. Swezy, 1921 GENUS
-=======
+# Polyopsidella C.A. Kofoid & O. Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

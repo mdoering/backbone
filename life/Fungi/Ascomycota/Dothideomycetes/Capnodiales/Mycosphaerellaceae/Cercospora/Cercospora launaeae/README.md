@@ -1,5 +1,4 @@
-Cercospora launaeae K.L. Kothari, G.C. Bhatn. & N.S. Bhatt SPECIES
-=======
+# Cercospora launaeae K.L. Kothari, G.C. Bhatn. & N.S. Bhatt SPECIES
 
 #### Status
 ACCEPTED

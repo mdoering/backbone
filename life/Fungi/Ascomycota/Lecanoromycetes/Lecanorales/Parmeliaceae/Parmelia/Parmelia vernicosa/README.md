@@ -1,5 +1,4 @@
-Parmelia vernicosa Brusse SPECIES
-=======
+# Parmelia vernicosa Brusse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cinereus Gray SPECIES
-=======
+# Cortinarius cinereus Gray SPECIES
 
 #### Status
 ACCEPTED

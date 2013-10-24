@@ -1,17 +1,16 @@
-Volvaria parvula var. major Weinm. VARIETY
-=======
+# Volvariella pusilla (Pers.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 401 (1951)
 
 #### Original name
-Volvaria parvula var. major Weinm.
+null
 
 ### Remarks
 null

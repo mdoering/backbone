@@ -1,5 +1,4 @@
-Guignardia abeana Yamam. {?} & K. Konno SPECIES
-=======
+# Guignardia abeana Yamam. {?} & K. Konno SPECIES
 
 #### Status
 ACCEPTED

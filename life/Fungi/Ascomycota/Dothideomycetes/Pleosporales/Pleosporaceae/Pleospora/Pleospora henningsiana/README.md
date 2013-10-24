@@ -1,5 +1,4 @@
-Pleospora henningsiana Ruhland SPECIES
-=======
+# Pleospora henningsiana Ruhland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria fuscolurida Vain. SPECIES
-=======
+# Verrucaria fuscolurida Vain. SPECIES
 
 #### Status
 ACCEPTED

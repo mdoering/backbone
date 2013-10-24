@@ -1,5 +1,4 @@
-Wuestneia acericola J. Reid & C. Booth SPECIES
-=======
+# Wuestneia acericola J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

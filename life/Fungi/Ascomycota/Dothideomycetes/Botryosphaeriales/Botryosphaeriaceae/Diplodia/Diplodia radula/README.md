@@ -1,5 +1,4 @@
-Diplodia radula Berk. & Broome SPECIES
-=======
+# Diplodia radula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapellaria epiphylla (Müll. Arg.) R. Sant. SPECIES
-=======
+# Tapellaria epiphylla (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena lanosipes Métrod SPECIES
-=======
+# Mycena lanosipes Métrod SPECIES
 
 #### Status
 ACCEPTED

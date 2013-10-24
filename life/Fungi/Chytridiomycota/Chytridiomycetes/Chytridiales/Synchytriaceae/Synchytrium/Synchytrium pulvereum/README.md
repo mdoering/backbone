@@ -1,5 +1,4 @@
-Synchytrium pulvereum Davis SPECIES
-=======
+# Synchytrium pulvereum Davis SPECIES
 
 #### Status
 ACCEPTED

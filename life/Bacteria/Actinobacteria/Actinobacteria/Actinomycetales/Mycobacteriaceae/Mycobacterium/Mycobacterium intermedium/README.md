@@ -1,5 +1,4 @@
-Mycobacterium intermedium Meier et al., 1993 SPECIES
-=======
+# Mycobacterium intermedium Meier et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

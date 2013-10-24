@@ -1,5 +1,4 @@
-Coniothyrium leucothoes Henn. SPECIES
-=======
+# Coniothyrium leucothoes Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nidula emodensis var. heinricherii Bres. VARIETY
-=======
+# Nidula emodensis (Berk.) Lloyd, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Nidulariaceae or 'bird's nest fungi' 12 (1906)
 
 #### Original name
-Nidula emodensis var. heinricherii Bres.
+Cyathus emodensis Berk., 1854
 
 ### Remarks
 null

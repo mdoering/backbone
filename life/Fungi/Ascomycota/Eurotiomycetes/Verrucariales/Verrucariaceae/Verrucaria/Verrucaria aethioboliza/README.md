@@ -1,5 +1,4 @@
-Verrucaria aethioboliza Nyl. SPECIES
-=======
+# Verrucaria aethioboliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoeuglena R. Subrahmanyan, 1954 GENUS
-=======
+# Protoeuglena R. Subrahmanyan, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus plumosus Bolton SPECIES
-=======
+# Agaricus plumosus Bolton SPECIES
 
 #### Status
 ACCEPTED

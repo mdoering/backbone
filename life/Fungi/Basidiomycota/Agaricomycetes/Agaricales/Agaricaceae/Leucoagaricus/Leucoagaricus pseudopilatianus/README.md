@@ -1,5 +1,4 @@
-Leucoagaricus pseudopilatianus Migl., Rocabruna & Tabarés SPECIES
-=======
+# Leucoagaricus pseudopilatianus Migl., Rocabruna & Tabarés SPECIES
 
 #### Status
 ACCEPTED

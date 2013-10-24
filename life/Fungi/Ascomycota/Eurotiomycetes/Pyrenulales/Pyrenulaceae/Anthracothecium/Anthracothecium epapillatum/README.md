@@ -1,5 +1,4 @@
-Anthracothecium epapillatum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium epapillatum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

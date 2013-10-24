@@ -1,5 +1,4 @@
-Lecidea heterodoxa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea heterodoxa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria sabinae (Sacc. & Fautrey) Andrian. SPECIES
-=======
+# Septoria sabinae (Sacc. & Fautrey) Andrian. SPECIES
 
 #### Status
 ACCEPTED

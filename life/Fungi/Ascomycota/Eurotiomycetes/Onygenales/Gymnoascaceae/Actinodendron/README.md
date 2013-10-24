@@ -1,5 +1,4 @@
-Actinodendron GENUS
-=======
+# Actinodendron GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Autophagomyces poissonii R.K. Benj. SPECIES
-=======
+# Autophagomyces poissonii R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

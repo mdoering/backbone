@@ -1,5 +1,4 @@
-Acarospora vulcanica Jatta SPECIES
-=======
+# Acarospora vulcanica Jatta SPECIES
 
 #### Status
 ACCEPTED

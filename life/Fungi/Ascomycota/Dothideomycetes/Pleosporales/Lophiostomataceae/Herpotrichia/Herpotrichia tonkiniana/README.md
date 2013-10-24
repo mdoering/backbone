@@ -1,5 +1,4 @@
-Herpotrichia tonkiniana Pat. SPECIES
-=======
+# Herpotrichia tonkiniana Pat. SPECIES
 
 #### Status
 ACCEPTED

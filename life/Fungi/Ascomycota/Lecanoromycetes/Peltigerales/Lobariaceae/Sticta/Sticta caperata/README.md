@@ -1,14 +1,13 @@
-Sticta damicornis var. caperata Nyl. VARIETY
-=======
+# Sticta caperata (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Sci. fenn. 7: 437 (1863)
 
 #### Original name
 Sticta damicornis var. caperata Nyl.

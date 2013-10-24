@@ -1,5 +1,4 @@
-Minutularia elliptica P.A. Dang. SPECIES
-=======
+# Minutularia elliptica P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

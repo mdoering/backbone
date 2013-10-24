@@ -1,5 +1,4 @@
-Psathyrella grisea Murrill SPECIES
-=======
+# Psathyrella grisea Murrill SPECIES
 
 #### Status
 ACCEPTED

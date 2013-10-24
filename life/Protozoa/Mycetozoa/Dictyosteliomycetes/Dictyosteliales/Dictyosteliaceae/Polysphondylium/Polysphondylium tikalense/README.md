@@ -1,17 +1,16 @@
-Polysphondylium tikaliensis Vadell & Cavender SPECIES
-=======
+# Polysphondylium tikalense Vadell & Cavender SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 90(4): 721 (1998)
 
 #### Original name
-Polysphondylium tikaliensis Vadell & Cavender
+Polysphondylium tikalense Vadell & Cavender
 
 ### Remarks
 null

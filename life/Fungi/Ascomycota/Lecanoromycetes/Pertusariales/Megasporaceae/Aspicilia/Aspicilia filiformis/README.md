@@ -1,5 +1,4 @@
-Aspicilia filiformis Rosentr. SPECIES
-=======
+# Aspicilia filiformis Rosentr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium tipulidarum M.C. Williams & Lichtw., 1988 SPECIES
-=======
+# Smittium tipulidarum M.C. Williams & Lichtw., 1988 SPECIES
 
 #### Status
 ACCEPTED

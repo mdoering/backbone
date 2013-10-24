@@ -1,5 +1,4 @@
-Lecanora rubicunda Bagl. SPECIES
-=======
+# Lecanora rubicunda Bagl. SPECIES
 
 #### Status
 ACCEPTED

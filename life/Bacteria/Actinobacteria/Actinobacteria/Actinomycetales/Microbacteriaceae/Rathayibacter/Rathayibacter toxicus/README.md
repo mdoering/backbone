@@ -1,8 +1,7 @@
-Clavibacter toxicus Riley & Ophel, 1992 SPECIES
-=======
+# Rathayibacter toxicus (Riley & Ophel, 1992) Sasaki et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

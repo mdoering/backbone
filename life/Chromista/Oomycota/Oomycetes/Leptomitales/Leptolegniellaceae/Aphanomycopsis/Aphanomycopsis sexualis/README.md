@@ -1,5 +1,4 @@
-Aphanomycopsis sexualis W.W. Martin, 1975 SPECIES
-=======
+# Aphanomycopsis sexualis W.W. Martin, 1975 SPECIES
 
 #### Status
 ACCEPTED

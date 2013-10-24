@@ -1,5 +1,4 @@
-Lepiota puttemansii Pat. SPECIES
-=======
+# Lepiota puttemansii Pat. SPECIES
 
 #### Status
 ACCEPTED

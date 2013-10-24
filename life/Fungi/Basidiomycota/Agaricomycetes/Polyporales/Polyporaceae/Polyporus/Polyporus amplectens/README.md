@@ -1,5 +1,4 @@
-Polyporus amplectens (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polyporus amplectens (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

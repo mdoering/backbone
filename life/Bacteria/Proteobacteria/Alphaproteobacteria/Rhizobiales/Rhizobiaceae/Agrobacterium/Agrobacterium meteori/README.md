@@ -1,5 +1,4 @@
-Agrobacterium meteori Rüger & Höfle, 1992 SPECIES
-=======
+# Agrobacterium meteori Rüger & Höfle, 1992 SPECIES
 
 #### Status
 ACCEPTED

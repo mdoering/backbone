@@ -1,5 +1,4 @@
-Phyllosticta lychnidis (Kunze & J.C. Schmidt) Ellis & Everh. SPECIES
-=======
+# Phyllosticta lychnidis (Kunze & J.C. Schmidt) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

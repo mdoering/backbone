@@ -1,5 +1,4 @@
-Trichophyton luxurians Brault & A. Vig. SPECIES
-=======
+# Trichophyton luxurians Brault & A. Vig. SPECIES
 
 #### Status
 ACCEPTED

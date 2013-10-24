@@ -1,5 +1,4 @@
-Propolis angulosa P. Karst. SPECIES
-=======
+# Propolis angulosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

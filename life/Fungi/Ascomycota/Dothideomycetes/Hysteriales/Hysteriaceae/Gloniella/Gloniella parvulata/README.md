@@ -1,5 +1,4 @@
-Gloniella parvulata Dearn. & House SPECIES
-=======
+# Gloniella parvulata Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

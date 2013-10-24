@@ -1,5 +1,4 @@
-Anaptychia ulotrichoides (Vain.) Vain. SPECIES
-=======
+# Anaptychia ulotrichoides (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia psoroderma Lindr. SPECIES
-=======
+# Puccinia psoroderma Lindr. SPECIES
 
 #### Status
 ACCEPTED

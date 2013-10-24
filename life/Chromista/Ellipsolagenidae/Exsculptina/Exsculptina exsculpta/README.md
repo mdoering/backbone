@@ -1,5 +1,4 @@
-Exsculptina exsculpta (Brady, 1881) SPECIES
-=======
+# Exsculptina exsculpta (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

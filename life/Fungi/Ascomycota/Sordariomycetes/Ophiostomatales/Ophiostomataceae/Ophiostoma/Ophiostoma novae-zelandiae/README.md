@@ -1,5 +1,4 @@
-Ophiostoma novae-zelandiae (L.J. Hutchison & J. Reid) Rulamort SPECIES
-=======
+# Ophiostoma novae-zelandiae (L.J. Hutchison & J. Reid) Rulamort SPECIES
 
 #### Status
 ACCEPTED

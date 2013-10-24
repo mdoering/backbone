@@ -1,5 +1,4 @@
-Cephalosporiopsis polyphialidifera Matsush. SPECIES
-=======
+# Cephalosporiopsis polyphialidifera Matsush. SPECIES
 
 #### Status
 ACCEPTED

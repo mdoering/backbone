@@ -1,5 +1,4 @@
-Actinocyclus bipartitus Mann SPECIES
-=======
+# Actinocyclus bipartitus Mann SPECIES
 
 #### Status
 ACCEPTED

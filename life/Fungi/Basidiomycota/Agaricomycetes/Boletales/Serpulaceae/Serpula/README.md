@@ -1,17 +1,16 @@
-Xylophagus Link, 1809 GENUS
-=======
+# Serpula (Persoon) Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Magazin Ges. naturf. Freunde, Berlin 3: 38 (1809)
+Nat. Arr. Brit. Pl. (London) 1: 637 (1821)
 
 #### Original name
-Xylophagus Link, 1809
+null
 
 ### Remarks
 null

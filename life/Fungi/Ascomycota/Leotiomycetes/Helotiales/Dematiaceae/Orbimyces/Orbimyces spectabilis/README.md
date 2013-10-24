@@ -1,5 +1,4 @@
-Orbimyces spectabilis Linder, 1944 SPECIES
-=======
+# Orbimyces spectabilis Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

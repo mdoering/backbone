@@ -1,17 +1,16 @@
-Bathelium megaspermum var. tasmanicum Jatta VARIETY
-=======
+# Pyrenula ravenelii (Tuck.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boll. Soc. bot. ital. 259 (1911)
+Mem. N. Y. bot. Gdn 49: 99 (1989)
 
 #### Original name
-Bathelium megaspermum var. tasmanicum Jatta
+Pyrenastrum ravenelii Tuck.
 
 ### Remarks
 null

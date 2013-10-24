@@ -1,5 +1,4 @@
-Uromyces purus (Syd.) Cummins SPECIES
-=======
+# Uromyces purus (Syd.) Cummins SPECIES
 
 #### Status
 ACCEPTED

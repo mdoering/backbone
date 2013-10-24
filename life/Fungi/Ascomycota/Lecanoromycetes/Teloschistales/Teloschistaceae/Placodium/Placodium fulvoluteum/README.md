@@ -1,5 +1,4 @@
-Placodium fulvoluteum (Arnold) Tuck. SPECIES
-=======
+# Placodium fulvoluteum (Arnold) Tuck. SPECIES
 
 #### Status
 ACCEPTED

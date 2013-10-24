@@ -1,5 +1,4 @@
-Collybia domestica (Murrill) Murrill SPECIES
-=======
+# Collybia domestica (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema anemoides Samp. SPECIES
-=======
+# Collema anemoides Samp. SPECIES
 
 #### Status
 ACCEPTED

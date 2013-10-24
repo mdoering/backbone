@@ -1,5 +1,4 @@
-Hypocrea paraguayensis Speg. SPECIES
-=======
+# Hypocrea paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

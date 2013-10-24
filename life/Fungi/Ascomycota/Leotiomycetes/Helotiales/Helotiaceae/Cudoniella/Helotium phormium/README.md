@@ -1,14 +1,13 @@
-Calycina phormia (Cooke) Kuntze, 1898 SPECIES
-=======
+# Helotium phormium Cooke, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+Grevillea 8(no. 46): 63 (1879)
 
 #### Original name
 Helotium phormium Cooke, 1879

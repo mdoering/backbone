@@ -1,5 +1,4 @@
-Chaetophoma cycadis Cooke SPECIES
-=======
+# Chaetophoma cycadis Cooke SPECIES
 
 #### Status
 ACCEPTED

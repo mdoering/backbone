@@ -1,5 +1,4 @@
-Puccinia centaureae-pullatae Gonz. Frag. SPECIES
-=======
+# Puccinia centaureae-pullatae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

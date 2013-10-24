@@ -1,5 +1,4 @@
-Dictyastrum Ehrenberg, 1861 GENUS
-=======
+# Dictyastrum Ehrenberg, 1861 GENUS
 
 #### Status
 ACCEPTED

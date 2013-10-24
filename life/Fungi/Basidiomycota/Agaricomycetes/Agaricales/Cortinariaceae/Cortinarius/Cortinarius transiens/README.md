@@ -1,5 +1,4 @@
-Cortinarius transiens (Melot) Soop SPECIES
-=======
+# Cortinarius transiens (Melot) Soop SPECIES
 
 #### Status
 ACCEPTED

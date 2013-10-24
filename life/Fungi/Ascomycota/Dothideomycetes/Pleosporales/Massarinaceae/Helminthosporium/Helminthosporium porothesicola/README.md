@@ -1,5 +1,4 @@
-Helminthosporium porothesicola F. Stevens SPECIES
-=======
+# Helminthosporium porothesicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostromella filicina (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptostromella filicina (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

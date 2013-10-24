@@ -1,5 +1,4 @@
-Penicillium marneffei Segretain, 1960 SPECIES
-=======
+# Penicillium marneffei Segretain, 1960 SPECIES
 
 #### Status
 DOUBTFUL

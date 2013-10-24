@@ -1,5 +1,4 @@
-Cystothyrium sphaerelloides Speg. SPECIES
-=======
+# Cystothyrium sphaerelloides Speg. SPECIES
 
 #### Status
 ACCEPTED

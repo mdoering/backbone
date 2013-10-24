@@ -1,5 +1,4 @@
-Hypoxylon exiguum Cooke SPECIES
-=======
+# Hypoxylon exiguum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphelaria subglobispora P. Roberts, 1999 SPECIES
-=======
+# Aphelaria subglobispora P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

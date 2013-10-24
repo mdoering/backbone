@@ -1,5 +1,4 @@
-Dimorphomyces eleusinus Thaxt. SPECIES
-=======
+# Dimorphomyces eleusinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

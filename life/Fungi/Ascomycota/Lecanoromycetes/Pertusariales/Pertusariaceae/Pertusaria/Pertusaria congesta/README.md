@@ -1,5 +1,4 @@
-Pertusaria congesta Vain. SPECIES
-=======
+# Pertusaria congesta Vain. SPECIES
 
 #### Status
 ACCEPTED

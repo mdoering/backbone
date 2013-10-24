@@ -1,5 +1,4 @@
-Septoria simplex (J. Schröt.) Sacc. SPECIES
-=======
+# Septoria simplex (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

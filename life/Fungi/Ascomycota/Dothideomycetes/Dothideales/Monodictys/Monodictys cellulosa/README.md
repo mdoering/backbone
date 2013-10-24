@@ -1,17 +1,16 @@
-Lepraria nigra Turner & Borrer ex Sm., 1812 SPECIES
-=======
+# Monodictys cellulosa S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engl. Bot. 34: tab. 2409 (1812)
+Can. J. Bot. 36: 786 (1958)
 
 #### Original name
-Lepraria nigra Turner & Borrer ex Sm., 1812
+Monodictys cellulosa S. Hughes, 1958
 
 ### Remarks
 null

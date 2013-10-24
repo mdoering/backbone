@@ -1,14 +1,13 @@
-Bipolaris yamadai (Y. Nisik.) Shoemaker SPECIES
-=======
+# Bipolaris yamadae (Y. Nisik.) Shoemaker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 37(5): 884 (1959)
 
 #### Original name
 Helminthosporium yamadae Y. Nisik.

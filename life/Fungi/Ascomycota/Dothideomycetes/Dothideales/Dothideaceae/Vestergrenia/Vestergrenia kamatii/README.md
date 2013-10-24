@@ -1,5 +1,4 @@
-Vestergrenia kamatii Anahosur SPECIES
-=======
+# Vestergrenia kamatii Anahosur SPECIES
 
 #### Status
 ACCEPTED

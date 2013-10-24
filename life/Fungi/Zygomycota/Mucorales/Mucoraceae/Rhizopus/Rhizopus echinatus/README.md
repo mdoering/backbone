@@ -1,5 +1,4 @@
-Rhizopus echinatus Tiegh. SPECIES
-=======
+# Rhizopus echinatus Tiegh. SPECIES
 
 #### Status
 ACCEPTED

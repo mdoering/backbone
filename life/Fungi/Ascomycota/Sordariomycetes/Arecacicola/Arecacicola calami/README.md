@@ -1,5 +1,4 @@
-Arecacicola calami Joanne E. Taylor, J. Fröhl. & K.D. Hyde, 2001 SPECIES
-=======
+# Arecacicola calami Joanne E. Taylor, J. Fröhl. & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Condylostentor Jankowski, 1978 GENUS
-=======
+# Condylostentor Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

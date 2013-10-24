@@ -1,5 +1,4 @@
-Leptomycorhaphis oxysporae Cif. & Tomas. SPECIES
-=======
+# Leptomycorhaphis oxysporae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina aptrootii P. M. McCarthy SPECIES
-=======
+# Porina aptrootii P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

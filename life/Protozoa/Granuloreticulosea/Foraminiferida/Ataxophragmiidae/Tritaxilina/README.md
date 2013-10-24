@@ -1,5 +1,4 @@
-Tritaxilina Cushman, 1911 GENUS
-=======
+# Tritaxilina Cushman, 1911 GENUS
 
 #### Status
 ACCEPTED

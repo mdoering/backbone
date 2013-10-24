@@ -1,8 +1,7 @@
-Uredo capparidearum Rabenh. SPECIES
-=======
+# Uredo capparearum Rabenh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo capparidearum Rabenh.
+Uredo capparearum Rabenh.
 
 ### Remarks
 null

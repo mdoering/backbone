@@ -1,5 +1,4 @@
-Thermoanaerobium Zeikus et al., 1983 GENUS
-=======
+# Thermoanaerobium Zeikus et al., 1983 GENUS
 
 #### Status
 ACCEPTED

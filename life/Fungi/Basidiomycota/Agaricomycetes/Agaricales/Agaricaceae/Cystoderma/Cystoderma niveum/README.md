@@ -1,17 +1,16 @@
-Cystoderma jasonis var. niveum (Harmaja) I. Saar, 2009 VARIETY
-=======
+# Cystoderma niveum Harmaja, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 25(2): 41 (1985)
 
 #### Original name
-null
+Cystoderma niveum Harmaja, 1985
 
 ### Remarks
 null

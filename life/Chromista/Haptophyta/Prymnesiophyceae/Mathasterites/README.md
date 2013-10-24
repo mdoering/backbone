@@ -1,5 +1,4 @@
-Mathasterites GENUS
-=======
+# Mathasterites GENUS
 
 #### Status
 ACCEPTED

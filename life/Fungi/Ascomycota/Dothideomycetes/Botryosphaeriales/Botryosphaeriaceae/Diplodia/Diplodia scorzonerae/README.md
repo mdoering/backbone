@@ -1,5 +1,4 @@
-Diplodia scorzonerae Pass. SPECIES
-=======
+# Diplodia scorzonerae Pass. SPECIES
 
 #### Status
 ACCEPTED

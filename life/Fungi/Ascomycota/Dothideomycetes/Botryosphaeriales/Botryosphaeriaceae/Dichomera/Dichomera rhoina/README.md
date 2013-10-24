@@ -1,5 +1,4 @@
-Dichomera rhoina Cooke & Harkn. SPECIES
-=======
+# Dichomera rhoina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

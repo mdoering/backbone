@@ -1,5 +1,4 @@
-Epichloë myosura Pat. SPECIES
-=======
+# Epichloë myosura Pat. SPECIES
 
 #### Status
 ACCEPTED

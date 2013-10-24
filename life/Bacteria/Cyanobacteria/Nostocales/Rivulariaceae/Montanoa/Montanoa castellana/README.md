@@ -1,5 +1,4 @@
-Montanoa castellana P. González SPECIES
-=======
+# Montanoa castellana P. González SPECIES
 
 #### Status
 ACCEPTED

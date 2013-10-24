@@ -1,5 +1,4 @@
-Rinodina finkii H. Magn. SPECIES
-=======
+# Rinodina finkii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

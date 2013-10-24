@@ -1,5 +1,4 @@
-Monilia arztii (M. Ota) Nann. SPECIES
-=======
+# Monilia arztii (M. Ota) Nann. SPECIES
 
 #### Status
 ACCEPTED

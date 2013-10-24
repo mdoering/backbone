@@ -1,5 +1,4 @@
-Pyrenastromyces GENUS
-=======
+# Pyrenastromyces GENUS
 
 #### Status
 ACCEPTED

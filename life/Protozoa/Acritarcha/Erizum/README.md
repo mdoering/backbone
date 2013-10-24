@@ -1,5 +1,4 @@
-Erizum GENUS
-=======
+# Erizum GENUS
 
 #### Status
 ACCEPTED

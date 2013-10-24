@@ -1,5 +1,4 @@
-Didymosphaeria tetraplodontis var. funariae Racov. VARIETY
-=======
+# Didymosphaeria tetraplodontis Lebedeva SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosphaeria tetraplodontis var. funariae Racov.
+Didymosphaeria tetraplodontis Lebedeva
 
 ### Remarks
 null

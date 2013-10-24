@@ -1,5 +1,4 @@
-Marasmius vigintifolius Singer SPECIES
-=======
+# Marasmius vigintifolius Singer SPECIES
 
 #### Status
 ACCEPTED

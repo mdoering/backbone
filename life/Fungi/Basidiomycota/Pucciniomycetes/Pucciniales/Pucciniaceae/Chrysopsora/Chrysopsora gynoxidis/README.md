@@ -1,5 +1,4 @@
-Chrysopsora gynoxidis Lagerh., 1891 SPECIES
-=======
+# Chrysopsora gynoxidis Lagerh., 1891 SPECIES
 
 #### Status
 ACCEPTED

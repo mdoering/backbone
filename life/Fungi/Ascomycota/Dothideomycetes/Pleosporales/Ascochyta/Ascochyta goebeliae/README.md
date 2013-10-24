@@ -1,5 +1,4 @@
-Ascochyta goebeliae Byzova & Pisareva SPECIES
-=======
+# Ascochyta goebeliae Byzova & Pisareva SPECIES
 
 #### Status
 ACCEPTED

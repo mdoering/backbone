@@ -1,5 +1,4 @@
-Cyclidium distortum SPECIES
-=======
+# Cyclidium distortum SPECIES
 
 #### Status
 ACCEPTED

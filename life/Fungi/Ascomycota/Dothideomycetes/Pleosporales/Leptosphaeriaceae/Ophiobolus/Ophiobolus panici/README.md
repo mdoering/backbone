@@ -1,5 +1,4 @@
-Ophiobolus panici Syd. SPECIES
-=======
+# Ophiobolus panici Syd. SPECIES
 
 #### Status
 ACCEPTED

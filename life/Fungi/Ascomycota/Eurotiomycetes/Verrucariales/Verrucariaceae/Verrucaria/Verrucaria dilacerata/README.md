@@ -1,5 +1,4 @@
-Verrucaria dilacerata Zschacke SPECIES
-=======
+# Verrucaria dilacerata Zschacke SPECIES
 
 #### Status
 ACCEPTED

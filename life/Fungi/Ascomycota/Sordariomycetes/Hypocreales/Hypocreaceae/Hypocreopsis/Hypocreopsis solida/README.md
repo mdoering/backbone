@@ -1,5 +1,4 @@
-Hypocreopsis solida (Schwein.) Berl. & Voglino SPECIES
-=======
+# Hypocreopsis solida (Schwein.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

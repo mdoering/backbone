@@ -1,5 +1,4 @@
-Valsa incrustata (Kunze) Nitschke SPECIES
-=======
+# Valsa incrustata (Kunze) Nitschke SPECIES
 
 #### Status
 ACCEPTED

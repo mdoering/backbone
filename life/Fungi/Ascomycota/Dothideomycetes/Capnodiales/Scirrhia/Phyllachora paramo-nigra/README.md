@@ -1,5 +1,4 @@
-Phyllachora paramo-nigra Chardón, 1934 SPECIES
-=======
+# Phyllachora paramo-nigra Chardón, 1934 SPECIES
 
 #### Status
 DOUBTFUL

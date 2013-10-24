@@ -1,5 +1,4 @@
-Agaricus rhoadsii Murrill SPECIES
-=======
+# Agaricus rhoadsii Murrill SPECIES
 
 #### Status
 ACCEPTED

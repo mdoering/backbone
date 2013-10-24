@@ -1,5 +1,4 @@
-Diplodia paliuri Becc. SPECIES
-=======
+# Diplodia paliuri Becc. SPECIES
 
 #### Status
 ACCEPTED

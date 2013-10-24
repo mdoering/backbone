@@ -1,5 +1,4 @@
-Haplariopsis fagicola Oudem., 1903 SPECIES
-=======
+# Haplariopsis fagicola Oudem., 1903 SPECIES
 
 #### Status
 ACCEPTED

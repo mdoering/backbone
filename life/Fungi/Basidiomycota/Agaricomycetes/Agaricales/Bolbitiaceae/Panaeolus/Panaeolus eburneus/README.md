@@ -1,5 +1,4 @@
-Panaeolus eburneus (Cooke & Massee) Sacc. SPECIES
-=======
+# Panaeolus eburneus (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

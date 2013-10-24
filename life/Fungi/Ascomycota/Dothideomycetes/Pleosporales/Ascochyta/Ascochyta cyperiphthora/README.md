@@ -1,5 +1,4 @@
-Ascochyta cyperiphthora Pomella & R.W. Barreto SPECIES
-=======
+# Ascochyta cyperiphthora Pomella & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

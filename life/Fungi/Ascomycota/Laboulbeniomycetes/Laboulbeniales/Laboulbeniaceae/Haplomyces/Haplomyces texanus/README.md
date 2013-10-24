@@ -1,5 +1,4 @@
-Haplomyces texanus Thaxt., 1893 SPECIES
-=======
+# Haplomyces texanus Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

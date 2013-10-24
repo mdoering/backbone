@@ -1,5 +1,4 @@
-Agaricus bulbosopilosus Raddi SPECIES
-=======
+# Agaricus bulbosopilosus Raddi SPECIES
 
 #### Status
 ACCEPTED

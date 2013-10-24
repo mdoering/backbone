@@ -1,5 +1,4 @@
-Pleurotus leucochrius (Britzelm.) Sacc. SPECIES
-=======
+# Pleurotus leucochrius (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

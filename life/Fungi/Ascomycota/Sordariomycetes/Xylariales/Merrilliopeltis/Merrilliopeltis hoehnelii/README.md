@@ -1,5 +1,4 @@
-Merrilliopeltis hoehnelii Rehm SPECIES
-=======
+# Merrilliopeltis hoehnelii Rehm SPECIES
 
 #### Status
 ACCEPTED

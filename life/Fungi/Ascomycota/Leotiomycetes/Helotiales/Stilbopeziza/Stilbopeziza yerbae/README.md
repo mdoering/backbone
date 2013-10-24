@@ -1,5 +1,4 @@
-Stilbopeziza yerbae Speg., 1908 SPECIES
-=======
+# Stilbopeziza yerbae Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

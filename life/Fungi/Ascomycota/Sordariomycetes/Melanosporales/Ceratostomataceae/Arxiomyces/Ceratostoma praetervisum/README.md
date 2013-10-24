@@ -1,5 +1,4 @@
-Ceratostoma praetervisum Ade SPECIES
-=======
+# Ceratostoma praetervisum Ade SPECIES
 
 #### Status
 ACCEPTED

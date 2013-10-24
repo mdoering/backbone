@@ -1,5 +1,4 @@
-Nigredo sparganii (Cooke & Peck) Arthur SPECIES
-=======
+# Nigredo sparganii (Cooke & Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

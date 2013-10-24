@@ -1,5 +1,4 @@
-Ramularia trollii Iwanoff SPECIES
-=======
+# Ramularia trollii Iwanoff SPECIES
 
 #### Status
 ACCEPTED

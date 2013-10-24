@@ -1,5 +1,4 @@
-Cytospora thyophila Sacc. SPECIES
-=======
+# Cytospora thyophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

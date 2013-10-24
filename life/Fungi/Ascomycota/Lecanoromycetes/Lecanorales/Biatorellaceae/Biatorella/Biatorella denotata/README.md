@@ -1,5 +1,4 @@
-Biatorella denotata (Nyl.) Zahlbr. SPECIES
-=======
+# Biatorella denotata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

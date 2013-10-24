@@ -1,5 +1,4 @@
-Stigmidium tetrasporum Etayo SPECIES
-=======
+# Stigmidium tetrasporum Etayo SPECIES
 
 #### Status
 ACCEPTED

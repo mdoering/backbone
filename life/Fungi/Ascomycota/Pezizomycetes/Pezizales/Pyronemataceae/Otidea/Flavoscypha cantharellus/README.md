@@ -1,5 +1,4 @@
-Flavoscypha cantharellus (Fr. Fr.) Harm. SPECIES
-=======
+# Flavoscypha cantharellus (Fr. Fr.) Harm. SPECIES
 
 #### Status
 ACCEPTED

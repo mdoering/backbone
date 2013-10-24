@@ -1,5 +1,4 @@
-Sphaeria spergulae Kirchn. SPECIES
-=======
+# Sphaeria spergulae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

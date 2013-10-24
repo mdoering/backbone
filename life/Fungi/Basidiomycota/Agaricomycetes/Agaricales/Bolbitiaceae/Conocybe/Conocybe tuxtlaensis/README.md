@@ -1,5 +1,4 @@
-Conocybe tuxtlaensis Singer SPECIES
-=======
+# Conocybe tuxtlaensis Singer SPECIES
 
 #### Status
 ACCEPTED

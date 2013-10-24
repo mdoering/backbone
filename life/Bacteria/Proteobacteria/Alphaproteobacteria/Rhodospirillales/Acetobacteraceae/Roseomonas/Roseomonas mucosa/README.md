@@ -1,5 +1,4 @@
-Roseomonas mucosa Han et al., 2003 SPECIES
-=======
+# Roseomonas mucosa Han et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

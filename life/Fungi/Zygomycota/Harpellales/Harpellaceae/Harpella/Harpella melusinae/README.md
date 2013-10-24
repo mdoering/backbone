@@ -1,17 +1,16 @@
-Harpella melusinae var. eyziesi Tuzet & Manier, 1955 VARIETY
-=======
+# Harpella melusinae L. Léger & Duboscq, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Zool. Biol. Anim. , sér. 11 17: 58 (1955)
+C. r. hebd. Séanc. Acad. Sci. , Paris 188: 951 (1929)
 
 #### Original name
-Harpella melusinae var. eyziesi Tuzet & Manier, 1955
+Harpella melusinae L. Léger & Duboscq, 1929
 
 ### Remarks
 null

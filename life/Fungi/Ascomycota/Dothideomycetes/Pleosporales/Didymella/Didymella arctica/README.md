@@ -1,5 +1,4 @@
-Didymella arctica (Fuckel) Berl. & Voglino SPECIES
-=======
+# Didymella arctica (Fuckel) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

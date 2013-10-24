@@ -1,5 +1,4 @@
-Sargassum assimile Harvey SPECIES
-=======
+# Sargassum assimile Harvey SPECIES
 
 #### Status
 ACCEPTED

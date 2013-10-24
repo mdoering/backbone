@@ -1,5 +1,4 @@
-Phyllosticta microconidia Hasija SPECIES
-=======
+# Phyllosticta microconidia Hasija SPECIES
 
 #### Status
 ACCEPTED

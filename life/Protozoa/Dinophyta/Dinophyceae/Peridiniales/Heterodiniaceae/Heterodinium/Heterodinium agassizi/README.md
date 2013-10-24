@@ -1,5 +1,4 @@
-Heterodinium agassizi Kofoid SPECIES
-=======
+# Heterodinium agassizi Kofoid SPECIES
 
 #### Status
 ACCEPTED

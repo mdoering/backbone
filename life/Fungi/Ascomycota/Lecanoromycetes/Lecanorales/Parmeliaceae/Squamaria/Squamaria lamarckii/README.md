@@ -1,5 +1,4 @@
-Squamaria lamarckii (DC.) Nyl. SPECIES
-=======
+# Squamaria lamarckii (DC.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

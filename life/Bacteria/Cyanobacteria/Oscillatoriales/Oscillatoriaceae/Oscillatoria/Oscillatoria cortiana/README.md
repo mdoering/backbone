@@ -1,8 +1,7 @@
-Phormidium cortianum (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Oscillatoria cortiana Meneghini ex Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

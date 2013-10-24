@@ -1,5 +1,4 @@
-Gymnodinium veneficum D. Ballantine SPECIES
-=======
+# Gymnodinium veneficum D. Ballantine SPECIES
 
 #### Status
 ACCEPTED

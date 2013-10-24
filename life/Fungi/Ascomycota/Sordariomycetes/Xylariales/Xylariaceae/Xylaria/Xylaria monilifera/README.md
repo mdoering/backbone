@@ -1,5 +1,4 @@
-Xylaria monilifera Berk. SPECIES
-=======
+# Xylaria monilifera Berk. SPECIES
 
 #### Status
 ACCEPTED

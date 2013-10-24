@@ -1,5 +1,4 @@
-Hypocrea rubronigrescens Torrend SPECIES
-=======
+# Hypocrea rubronigrescens Torrend SPECIES
 
 #### Status
 ACCEPTED

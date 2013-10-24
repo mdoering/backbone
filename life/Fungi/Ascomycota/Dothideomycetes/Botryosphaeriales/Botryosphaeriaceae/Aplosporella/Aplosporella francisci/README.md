@@ -1,5 +1,4 @@
-Aplosporella francisci D. Sacc. SPECIES
-=======
+# Aplosporella francisci D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

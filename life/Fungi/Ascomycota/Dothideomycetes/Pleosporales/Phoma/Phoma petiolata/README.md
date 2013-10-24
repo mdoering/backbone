@@ -1,5 +1,4 @@
-Phoma petiolata (Cooke) Sacc. SPECIES
-=======
+# Phoma petiolata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

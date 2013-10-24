@@ -1,5 +1,4 @@
-Polyporus reisneri Velen. SPECIES
-=======
+# Polyporus reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

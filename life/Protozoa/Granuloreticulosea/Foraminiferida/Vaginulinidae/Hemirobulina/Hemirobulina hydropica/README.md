@@ -1,8 +1,7 @@
-Marginulinopsis hydropica Hornibrook, 1961 SPECIES
-=======
+# Hemirobulina hydropica (Hornibrook, 1961) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

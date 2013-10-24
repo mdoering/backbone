@@ -1,5 +1,4 @@
-Clitocybe depallens Velen. SPECIES
-=======
+# Clitocybe depallens Velen. SPECIES
 
 #### Status
 ACCEPTED

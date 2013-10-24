@@ -1,17 +1,16 @@
-Trichoderma lignorum var. narcissi (Tochinai & Shimada) Pidopl., 1953 VARIETY
-=======
+# Trichoderma harzianum Rifai, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus flora of coarse fodder 182 (1953)
+Mycol. Pap. 116: 38 (1969)
 
 #### Original name
-Sporotrichum narcissi Tochinai & Shimada, 1930
+Trichoderma harzianum Rifai, 1969
 
 ### Remarks
 null

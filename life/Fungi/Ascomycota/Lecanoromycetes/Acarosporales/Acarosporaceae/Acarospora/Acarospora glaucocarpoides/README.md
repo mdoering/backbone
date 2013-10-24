@@ -1,5 +1,4 @@
-Acarospora glaucocarpoides (Nyl.) Flagey SPECIES
-=======
+# Acarospora glaucocarpoides (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina meridionalis Singer & Clémençon SPECIES
-=======
+# Galerina meridionalis Singer & Clémençon SPECIES
 
 #### Status
 ACCEPTED

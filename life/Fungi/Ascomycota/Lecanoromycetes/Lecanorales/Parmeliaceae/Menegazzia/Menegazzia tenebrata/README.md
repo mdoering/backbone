@@ -1,5 +1,4 @@
-Menegazzia tenebrata (Hoffm.) A. Massal. SPECIES
-=======
+# Menegazzia tenebrata (Hoffm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

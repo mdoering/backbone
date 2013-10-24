@@ -1,5 +1,4 @@
-Jaczewskiella arctica Shkarupa SPECIES
-=======
+# Jaczewskiella arctica Shkarupa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus sanguineipes Panzera SPECIES
-=======
+# Boletus sanguineipes Panzera SPECIES
 
 #### Status
 ACCEPTED

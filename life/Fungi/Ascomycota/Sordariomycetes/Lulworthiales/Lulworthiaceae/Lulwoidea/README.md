@@ -1,5 +1,4 @@
-Lulwoidea Kohlm., Volkm.-Kohlm., J. Campb., Spatafora & Gräfenhan GENUS
-=======
+# Lulwoidea Kohlm., Volkm.-Kohlm., J. Campb., Spatafora & Gräfenhan GENUS
 
 #### Status
 ACCEPTED

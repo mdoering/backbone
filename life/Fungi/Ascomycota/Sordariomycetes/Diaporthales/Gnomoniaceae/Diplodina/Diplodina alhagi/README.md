@@ -1,5 +1,4 @@
-Diplodina alhagi S. Ahmad SPECIES
-=======
+# Diplodina alhagi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

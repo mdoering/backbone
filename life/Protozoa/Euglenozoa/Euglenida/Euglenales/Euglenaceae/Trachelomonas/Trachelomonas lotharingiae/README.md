@@ -1,5 +1,4 @@
-Trachelomonas lotharingiae De Pouques SPECIES
-=======
+# Trachelomonas lotharingiae De Pouques SPECIES
 
 #### Status
 ACCEPTED

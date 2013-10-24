@@ -1,5 +1,4 @@
-Endocarpon hedwigii (Ach.) Ach. SPECIES
-=======
+# Endocarpon hedwigii (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

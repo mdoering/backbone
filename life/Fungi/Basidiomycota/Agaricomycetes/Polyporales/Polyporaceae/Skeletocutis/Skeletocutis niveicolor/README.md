@@ -1,14 +1,13 @@
-Poria niveicolor Murrill, 1920 SPECIES
-=======
+# Skeletocutis niveicolor (Murrill) Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 12(2): 84 (1920)
+Mycotaxon 23: 187 (1985)
 
 #### Original name
 Poria niveicolor Murrill, 1920

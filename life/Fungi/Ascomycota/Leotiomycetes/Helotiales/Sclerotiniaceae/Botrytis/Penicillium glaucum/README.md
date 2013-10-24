@@ -1,5 +1,4 @@
-Penicillium glaucum Link, 1805 SPECIES
-=======
+# Penicillium glaucum Link, 1805 SPECIES
 
 #### Status
 ACCEPTED

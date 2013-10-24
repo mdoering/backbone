@@ -1,5 +1,4 @@
-Cercospora shihmenensis J.M. Yen SPECIES
-=======
+# Cercospora shihmenensis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

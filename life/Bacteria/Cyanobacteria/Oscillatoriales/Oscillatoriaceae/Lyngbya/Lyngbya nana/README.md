@@ -1,5 +1,4 @@
-Lyngbya nana Tilden SPECIES
-=======
+# Lyngbya nana Tilden SPECIES
 
 #### Status
 ACCEPTED

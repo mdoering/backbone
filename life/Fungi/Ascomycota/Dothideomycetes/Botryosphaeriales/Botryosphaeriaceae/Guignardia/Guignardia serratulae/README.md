@@ -1,5 +1,4 @@
-Guignardia serratulae (Petr.) E. Müll. SPECIES
-=======
+# Guignardia serratulae (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma besseyi Farl. SPECIES
-=======
+# Entyloma besseyi Farl. SPECIES
 
 #### Status
 ACCEPTED

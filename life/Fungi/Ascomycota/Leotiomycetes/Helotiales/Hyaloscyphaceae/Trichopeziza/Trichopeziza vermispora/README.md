@@ -1,5 +1,4 @@
-Trichopeziza vermispora (Raitv.) Raitv. SPECIES
-=======
+# Trichopeziza vermispora (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

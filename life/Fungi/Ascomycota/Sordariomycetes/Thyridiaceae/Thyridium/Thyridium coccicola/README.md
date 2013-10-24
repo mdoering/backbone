@@ -1,17 +1,16 @@
-Thyridium coccicolum Teng SPECIES
-=======
+# Thyridium coccicola Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sinensia, Shanghai 7: 514 (1936)
 
 #### Original name
-Thyridium coccicolum Teng
+Thyridium coccicola Teng
 
 ### Remarks
 null

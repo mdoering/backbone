@@ -1,5 +1,4 @@
-Tulasnella griseorubella Litsch. SPECIES
-=======
+# Tulasnella griseorubella Litsch. SPECIES
 
 #### Status
 ACCEPTED

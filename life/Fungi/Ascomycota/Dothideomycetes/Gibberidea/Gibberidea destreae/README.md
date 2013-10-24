@@ -1,5 +1,4 @@
-Gibberidea destreae (Oudem.) Kuntze SPECIES
-=======
+# Gibberidea destreae (Oudem.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

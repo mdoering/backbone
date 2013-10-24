@@ -1,5 +1,4 @@
-Mycoplasma anatis Roberts, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma anatis Roberts, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

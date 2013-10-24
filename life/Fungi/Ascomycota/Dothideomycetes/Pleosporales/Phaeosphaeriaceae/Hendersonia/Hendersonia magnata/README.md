@@ -1,5 +1,4 @@
-Hendersonia magnata Berk. & Cooke SPECIES
-=======
+# Hendersonia magnata Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

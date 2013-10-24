@@ -1,5 +1,4 @@
-Penicillium siamense Manoch & C. Ramírez, 1988 SPECIES
-=======
+# Penicillium siamense Manoch & C. Ramírez, 1988 SPECIES
 
 #### Status
 DOUBTFUL

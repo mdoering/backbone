@@ -1,5 +1,4 @@
-Asterina piperis H.S. Yates SPECIES
-=======
+# Asterina piperis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphonaptera GENUS
-=======
+# Siphonaptera GENUS
 
 #### Status
 ACCEPTED

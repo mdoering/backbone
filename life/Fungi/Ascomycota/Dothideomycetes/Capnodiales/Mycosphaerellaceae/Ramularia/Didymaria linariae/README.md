@@ -1,5 +1,4 @@
-Didymaria linariae Pass., 1885 SPECIES
-=======
+# Didymaria linariae Pass., 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus brigantii Fr. SPECIES
-=======
+# Agaricus brigantii Fr. SPECIES
 
 #### Status
 ACCEPTED

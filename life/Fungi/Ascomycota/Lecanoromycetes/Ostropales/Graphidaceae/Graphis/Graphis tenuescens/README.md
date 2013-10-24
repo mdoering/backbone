@@ -1,5 +1,4 @@
-Graphis tenuescens var. tenuescens VARIETY
-=======
+# Graphis tenuescens Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis tenuescens var. tenuescens
+Graphis tenuescens Nyl.
 
 ### Remarks
 null

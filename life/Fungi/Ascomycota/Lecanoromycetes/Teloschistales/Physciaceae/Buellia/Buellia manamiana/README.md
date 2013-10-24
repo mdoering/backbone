@@ -1,5 +1,4 @@
-Buellia manamiana Diederich SPECIES
-=======
+# Buellia manamiana Diederich SPECIES
 
 #### Status
 ACCEPTED

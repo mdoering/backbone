@@ -1,5 +1,4 @@
-Bryopogon ecuadoriensis SPECIES
-=======
+# Bryopogon ecuadoriensis SPECIES
 
 #### Status
 ACCEPTED

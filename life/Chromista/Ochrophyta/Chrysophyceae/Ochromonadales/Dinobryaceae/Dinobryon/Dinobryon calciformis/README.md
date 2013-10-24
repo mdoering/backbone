@@ -1,5 +1,4 @@
-Dinobryon calciformis SPECIES
-=======
+# Dinobryon calciformis SPECIES
 
 #### Status
 ACCEPTED

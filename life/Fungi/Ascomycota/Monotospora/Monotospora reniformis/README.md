@@ -1,5 +1,4 @@
-Monotospora reniformis Teng SPECIES
-=======
+# Monotospora reniformis Teng SPECIES
 
 #### Status
 ACCEPTED

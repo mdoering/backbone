@@ -1,5 +1,4 @@
-Phyllosticta hymenocallidis Seaver SPECIES
-=======
+# Phyllosticta hymenocallidis Seaver SPECIES
 
 #### Status
 ACCEPTED

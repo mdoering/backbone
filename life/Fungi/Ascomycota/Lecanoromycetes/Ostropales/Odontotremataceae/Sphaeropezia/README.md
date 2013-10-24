@@ -1,5 +1,4 @@
-Sphaeropezia GENUS
-=======
+# Sphaeropezia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora artocarpi Y.L. Guo SPECIES
-=======
+# Passalora artocarpi Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

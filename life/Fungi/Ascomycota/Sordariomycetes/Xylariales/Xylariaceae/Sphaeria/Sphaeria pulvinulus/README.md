@@ -1,5 +1,4 @@
-Sphaeria pulvinulus Berk. SPECIES
-=======
+# Sphaeria pulvinulus Berk. SPECIES
 
 #### Status
 ACCEPTED

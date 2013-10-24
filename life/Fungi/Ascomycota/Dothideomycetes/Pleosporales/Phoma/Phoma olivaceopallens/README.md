@@ -1,5 +1,4 @@
-Phoma olivaceopallens P. Karst. SPECIES
-=======
+# Phoma olivaceopallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

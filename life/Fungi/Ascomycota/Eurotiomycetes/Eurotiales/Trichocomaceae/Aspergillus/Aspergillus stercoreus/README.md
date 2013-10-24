@@ -1,5 +1,4 @@
-Aspergillus stercoreus Sacc. SPECIES
-=======
+# Aspergillus stercoreus Sacc. SPECIES
 
 #### Status
 ACCEPTED

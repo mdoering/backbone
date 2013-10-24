@@ -1,5 +1,4 @@
-Phyllosticta pustulosa Sacc. & Roum. SPECIES
-=======
+# Phyllosticta pustulosa Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

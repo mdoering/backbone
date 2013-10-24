@@ -1,5 +1,4 @@
-Lecidea euporiza Stirt. SPECIES
-=======
+# Lecidea euporiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

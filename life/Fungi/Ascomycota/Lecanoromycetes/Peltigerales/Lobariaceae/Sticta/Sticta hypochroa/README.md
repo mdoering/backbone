@@ -1,5 +1,4 @@
-Sticta hypochroa Vain. SPECIES
-=======
+# Sticta hypochroa Vain. SPECIES
 
 #### Status
 ACCEPTED

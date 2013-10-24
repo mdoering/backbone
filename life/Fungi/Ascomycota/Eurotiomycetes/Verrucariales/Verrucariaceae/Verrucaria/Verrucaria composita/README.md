@@ -1,5 +1,4 @@
-Verrucaria composita Schwein. SPECIES
-=======
+# Verrucaria composita Schwein. SPECIES
 
 #### Status
 ACCEPTED

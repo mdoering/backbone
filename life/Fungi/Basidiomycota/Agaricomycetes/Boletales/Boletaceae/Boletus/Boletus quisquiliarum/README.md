@@ -1,5 +1,4 @@
-Boletus quisquiliarum Corner SPECIES
-=======
+# Boletus quisquiliarum Corner SPECIES
 
 #### Status
 ACCEPTED

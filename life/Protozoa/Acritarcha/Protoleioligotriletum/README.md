@@ -1,5 +1,4 @@
-Protoleioligotriletum GENUS
-=======
+# Protoleioligotriletum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora moraviae H. Magn. SPECIES
-=======
+# Acarospora moraviae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium filiforme Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium filiforme Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

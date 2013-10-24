@@ -1,5 +1,4 @@
-Puccinia caricis-okushiriensis Homma SPECIES
-=======
+# Puccinia caricis-okushiriensis Homma SPECIES
 
 #### Status
 ACCEPTED

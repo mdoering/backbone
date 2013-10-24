@@ -1,5 +1,4 @@
-Uromyces heteromallus Syd. SPECIES
-=======
+# Uromyces heteromallus Syd. SPECIES
 
 #### Status
 ACCEPTED

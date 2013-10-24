@@ -1,5 +1,4 @@
-Ditylum pernodi Schröder SPECIES
-=======
+# Ditylum pernodi Schröder SPECIES
 
 #### Status
 ACCEPTED

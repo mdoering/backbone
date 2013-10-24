@@ -1,5 +1,4 @@
-Dictyosporium tetrasporum L. Cai & K.D. Hyde SPECIES
-=======
+# Dictyosporium tetrasporum L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

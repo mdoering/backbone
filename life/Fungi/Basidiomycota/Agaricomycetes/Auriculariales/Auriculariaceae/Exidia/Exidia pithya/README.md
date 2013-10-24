@@ -1,5 +1,4 @@
-Exidia pithya Fr. SPECIES
-=======
+# Exidia pithya Fr. SPECIES
 
 #### Status
 ACCEPTED

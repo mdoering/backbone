@@ -1,5 +1,4 @@
-Mycosphaerella dendrobii-nobilis Katum. SPECIES
-=======
+# Mycosphaerella dendrobii-nobilis Katum. SPECIES
 
 #### Status
 ACCEPTED

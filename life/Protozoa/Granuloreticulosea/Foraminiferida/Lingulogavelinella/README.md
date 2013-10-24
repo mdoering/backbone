@@ -1,5 +1,4 @@
-Lingulogavelinella Malapris, 1965 GENUS
-=======
+# Lingulogavelinella Malapris, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Psathyrella indica (Sathe & J.T. Daniel) Singer, 1989 SPECIES
-=======
+# Phaeomycena indica Sathe & J.T. Daniel, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fieldiana, Bot. 21: 101 (1989)
+Maharashtra Association for the Cultivation of Science, Monograph No. 1 Agaricales (Mushrooms) of South West India (Pune) 97 (1981)
 
 #### Original name
 Phaeomycena indica Sathe & J.T. Daniel, 1981

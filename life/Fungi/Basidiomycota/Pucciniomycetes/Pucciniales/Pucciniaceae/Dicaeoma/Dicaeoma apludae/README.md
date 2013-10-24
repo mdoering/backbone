@@ -1,5 +1,4 @@
-Dicaeoma apludae (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Dicaeoma apludae (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

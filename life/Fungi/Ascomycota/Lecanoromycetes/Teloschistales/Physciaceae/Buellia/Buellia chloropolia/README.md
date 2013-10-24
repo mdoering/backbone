@@ -1,5 +1,4 @@
-Buellia chloropolia (Fr.) Jatta SPECIES
-=======
+# Buellia chloropolia (Fr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

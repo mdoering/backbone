@@ -1,5 +1,4 @@
-Sphaerophorus scrobiculatus SPECIES
-=======
+# Sphaerophorus scrobiculatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus angelicus Speg. SPECIES
-=======
+# Agaricus angelicus Speg. SPECIES
 
 #### Status
 ACCEPTED

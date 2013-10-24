@@ -1,5 +1,4 @@
-Gymnodinium bilobatum Van Meel SPECIES
-=======
+# Gymnodinium bilobatum Van Meel SPECIES
 
 #### Status
 ACCEPTED

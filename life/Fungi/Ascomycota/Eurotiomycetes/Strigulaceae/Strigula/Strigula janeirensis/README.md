@@ -1,14 +1,13 @@
-Phylloporina janeirensis Müll. Arg. SPECIES
-=======
+# Strigula janeirensis (Müll. Arg.) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 73: 198 (no. 1563) (1890)
+Trop. Bryol. 15: 65 (1998)
 
 #### Original name
 Phylloporina janeirensis Müll. Arg.

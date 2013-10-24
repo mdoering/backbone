@@ -1,5 +1,4 @@
-Geastrum englerianus var. englerianus VARIETY
-=======
+# Geastrum englerianus Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 14: 361 (1891)
 
 #### Original name
-Geastrum englerianus var. englerianus
+Geastrum englerianus Henn.
 
 ### Remarks
 null

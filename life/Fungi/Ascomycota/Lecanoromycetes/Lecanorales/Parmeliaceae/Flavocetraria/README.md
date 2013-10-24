@@ -1,5 +1,4 @@
-Flavocetraria Kärnefelt & A. Thell, 1994 GENUS
-=======
+# Flavocetraria Kärnefelt & A. Thell, 1994 GENUS
 
 #### Status
 ACCEPTED

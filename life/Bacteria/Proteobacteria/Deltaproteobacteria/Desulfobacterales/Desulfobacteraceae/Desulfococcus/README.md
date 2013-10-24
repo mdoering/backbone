@@ -1,5 +1,4 @@
-Desulfococcus Widdel, 1981 GENUS
-=======
+# Desulfococcus Widdel, 1981 GENUS
 
 #### Status
 ACCEPTED

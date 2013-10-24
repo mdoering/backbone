@@ -1,5 +1,4 @@
-Buellia caloosensis Tuck. SPECIES
-=======
+# Buellia caloosensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

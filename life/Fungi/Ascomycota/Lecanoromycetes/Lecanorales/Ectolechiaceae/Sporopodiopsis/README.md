@@ -1,5 +1,4 @@
-Sporopodiopsis Sérus. GENUS
-=======
+# Sporopodiopsis Sérus. GENUS
 
 #### Status
 ACCEPTED

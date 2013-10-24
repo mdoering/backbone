@@ -1,5 +1,4 @@
-Blepharocysta hermosillae M. C. Carbonell-Moore SPECIES
-=======
+# Blepharocysta hermosillae M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

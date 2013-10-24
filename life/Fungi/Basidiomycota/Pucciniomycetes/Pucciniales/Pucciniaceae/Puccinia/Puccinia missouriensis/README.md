@@ -1,5 +1,4 @@
-Puccinia missouriensis Arthur SPECIES
-=======
+# Puccinia missouriensis Arthur SPECIES
 
 #### Status
 ACCEPTED

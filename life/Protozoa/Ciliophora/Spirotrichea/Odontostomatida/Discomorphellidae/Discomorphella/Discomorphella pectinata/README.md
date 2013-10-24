@@ -1,5 +1,4 @@
-Discomorphella pectinata (Levander, 1894) Corliss, 1960 SPECIES
-=======
+# Discomorphella pectinata (Levander, 1894) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

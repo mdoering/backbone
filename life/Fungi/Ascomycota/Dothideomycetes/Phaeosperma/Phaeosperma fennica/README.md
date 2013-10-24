@@ -1,5 +1,4 @@
-Phaeosperma fennica P. Karst. SPECIES
-=======
+# Phaeosperma fennica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria subaffixa Schwein. SPECIES
-=======
+# Sphaeria subaffixa Schwein. SPECIES
 
 #### Status
 ACCEPTED

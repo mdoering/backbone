@@ -1,5 +1,4 @@
-Weverella Kozur & Mostler, 1979 GENUS
-=======
+# Weverella Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha heliabravoa Herrera-Camp. & Lücking SPECIES
-=======
+# Opegrapha heliabravoa Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

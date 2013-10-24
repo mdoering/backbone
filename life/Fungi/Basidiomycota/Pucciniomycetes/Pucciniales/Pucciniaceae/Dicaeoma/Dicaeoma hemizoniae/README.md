@@ -1,5 +1,4 @@
-Dicaeoma hemizoniae (Ellis & Tracy) Kuntze SPECIES
-=======
+# Dicaeoma hemizoniae (Ellis & Tracy) Kuntze SPECIES
 
 #### Status
 ACCEPTED

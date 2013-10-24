@@ -1,5 +1,4 @@
-Amoebophilus korotneffii P.A. Dang. SPECIES
-=======
+# Amoebophilus korotneffii P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

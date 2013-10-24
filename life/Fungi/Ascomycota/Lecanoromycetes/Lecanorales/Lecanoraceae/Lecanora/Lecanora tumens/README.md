@@ -1,5 +1,4 @@
-Lecanora tumens (Hue) Zahlbr. SPECIES
-=======
+# Lecanora tumens (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

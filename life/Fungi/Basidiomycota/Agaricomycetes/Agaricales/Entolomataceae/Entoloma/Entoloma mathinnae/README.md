@@ -1,5 +1,4 @@
-Entoloma mathinnae G.M. Gates, B.M. Horton & Noordel. SPECIES
-=======
+# Entoloma mathinnae G.M. Gates, B.M. Horton & Noordel. SPECIES
 
 #### Status
 ACCEPTED

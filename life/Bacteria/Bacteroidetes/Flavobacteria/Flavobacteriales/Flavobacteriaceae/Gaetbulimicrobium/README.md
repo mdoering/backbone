@@ -1,5 +1,4 @@
-Gaetbulimicrobium Yoon et al., 2006 GENUS
-=======
+# Gaetbulimicrobium Yoon et al., 2006 GENUS
 
 #### Status
 ACCEPTED

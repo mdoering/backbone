@@ -1,5 +1,4 @@
-Arenimonas Kwon, Kim, Weon, Baek & Go, 2007 GENUS
-=======
+# Arenimonas Kwon, Kim, Weon, Baek & Go, 2007 GENUS
 
 #### Status
 ACCEPTED

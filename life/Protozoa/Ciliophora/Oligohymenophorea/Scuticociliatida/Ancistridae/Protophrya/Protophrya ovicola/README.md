@@ -1,5 +1,4 @@
-Protophrya ovicola Kofoid, 1903 SPECIES
-=======
+# Protophrya ovicola Kofoid, 1903 SPECIES
 
 #### Status
 ACCEPTED

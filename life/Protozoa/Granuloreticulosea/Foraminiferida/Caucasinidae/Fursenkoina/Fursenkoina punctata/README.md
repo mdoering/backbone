@@ -1,5 +1,4 @@
-Fursenkoina punctata SPECIES
-=======
+# Fursenkoina punctata SPECIES
 
 #### Status
 ACCEPTED

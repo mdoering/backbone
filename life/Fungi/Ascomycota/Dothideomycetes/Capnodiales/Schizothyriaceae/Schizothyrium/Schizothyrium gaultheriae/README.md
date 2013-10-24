@@ -1,5 +1,4 @@
-Schizothyrium gaultheriae (M.A. Curtis) Höhn. SPECIES
-=======
+# Schizothyrium gaultheriae (M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

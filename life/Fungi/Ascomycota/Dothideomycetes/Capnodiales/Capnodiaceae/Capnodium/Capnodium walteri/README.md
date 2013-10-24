@@ -1,14 +1,13 @@
-Leptocapnodium walteri (Sacc.) Bat. & Cif., 1963 SPECIES
-=======
+# Capnodium walteri Sacc., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Saccardoa 2: 125 (1963)
+Hedwigia 32: 58 (1893)
 
 #### Original name
 Capnodium walteri Sacc., 1893

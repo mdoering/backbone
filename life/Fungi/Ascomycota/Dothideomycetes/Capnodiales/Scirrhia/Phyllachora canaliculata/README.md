@@ -1,5 +1,4 @@
-Phyllachora canaliculata (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora canaliculata (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

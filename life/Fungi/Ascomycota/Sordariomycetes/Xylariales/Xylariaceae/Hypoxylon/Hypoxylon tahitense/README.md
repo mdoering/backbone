@@ -1,5 +1,4 @@
-Hypoxylon tahitense Bacc. SPECIES
-=======
+# Hypoxylon tahitense Bacc. SPECIES
 
 #### Status
 ACCEPTED

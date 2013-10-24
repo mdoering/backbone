@@ -1,5 +1,4 @@
-Selenococcidium intermedium Léger & Duboscq, 1910 SPECIES
-=======
+# Selenococcidium intermedium Léger & Duboscq, 1910 SPECIES
 
 #### Status
 ACCEPTED

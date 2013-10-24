@@ -1,5 +1,4 @@
-Marasmiellus trabutii var. trabutii VARIETY
-=======
+# Marasmiellus trabutii (Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella cynaroides S.J. Lee & Crous, 2003 SPECIES
-=======
+# Anthostomella cynaroides S.J. Lee & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

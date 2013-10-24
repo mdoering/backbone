@@ -1,5 +1,4 @@
-Aptrootia Lücking & Sipman GENUS
-=======
+# Aptrootia Lücking & Sipman GENUS
 
 #### Status
 ACCEPTED

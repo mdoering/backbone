@@ -1,5 +1,4 @@
-Psilocybe isabelae Guzmán SPECIES
-=======
+# Psilocybe isabelae Guzmán SPECIES
 
 #### Status
 ACCEPTED

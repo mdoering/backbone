@@ -1,5 +1,4 @@
-Bipodorhabdus Noël GENUS
-=======
+# Bipodorhabdus Noël GENUS
 
 #### Status
 ACCEPTED

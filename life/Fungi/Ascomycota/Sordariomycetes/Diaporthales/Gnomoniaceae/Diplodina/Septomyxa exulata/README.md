@@ -1,5 +1,4 @@
-Septomyxa exulata var. exulata VARIETY
-=======
+# Septomyxa exulata (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rivulorum Pat. & Doass. SPECIES
-=======
+# Agaricus rivulorum Pat. & Doass. SPECIES
 
 #### Status
 ACCEPTED

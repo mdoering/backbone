@@ -1,5 +1,4 @@
-Estiastra granulata Downie, 1963 SPECIES
-=======
+# Estiastra granulata Downie, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia anosyana Balazuc SPECIES
-=======
+# Laboulbenia anosyana Balazuc SPECIES
 
 #### Status
 ACCEPTED

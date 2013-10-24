@@ -1,5 +1,4 @@
-Rhinosporidium equi Zschokke SPECIES
-=======
+# Rhinosporidium equi Zschokke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella rubiacearum A.N. Rai, Kamal & S.K. Singh SPECIES
-=======
+# Mycovellosiella rubiacearum A.N. Rai, Kamal & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

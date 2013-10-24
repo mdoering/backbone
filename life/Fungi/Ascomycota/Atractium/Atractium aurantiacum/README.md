@@ -1,5 +1,4 @@
-Atractium aurantiacum Bonord. SPECIES
-=======
+# Atractium aurantiacum Bonord. SPECIES
 
 #### Status
 ACCEPTED

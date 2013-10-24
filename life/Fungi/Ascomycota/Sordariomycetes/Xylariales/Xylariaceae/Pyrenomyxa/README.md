@@ -1,5 +1,4 @@
-Pyrenomyxa GENUS
-=======
+# Pyrenomyxa GENUS
 
 #### Status
 ACCEPTED

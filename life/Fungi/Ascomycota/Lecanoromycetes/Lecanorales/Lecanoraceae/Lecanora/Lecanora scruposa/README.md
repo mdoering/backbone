@@ -1,5 +1,4 @@
-Lecanora scruposa var. scruposa (Schreb.) Nyl. VARIETY
-=======
+# Lecanora scruposa (Schreb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora scruposa var. scruposa (Schreb.) Nyl.
+Lichen scuposus Schreb.
 
 ### Remarks
 null

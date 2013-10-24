@@ -1,5 +1,4 @@
-Leucoloma deligata (Peck) House SPECIES
-=======
+# Leucoloma deligata (Peck) House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paratriassoastrum GENUS
-=======
+# Paratriassoastrum GENUS
 
 #### Status
 ACCEPTED

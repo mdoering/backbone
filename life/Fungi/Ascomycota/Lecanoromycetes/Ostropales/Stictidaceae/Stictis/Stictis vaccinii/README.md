@@ -1,5 +1,4 @@
-Stictis vaccinii Ellis & Everh. SPECIES
-=======
+# Stictis vaccinii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

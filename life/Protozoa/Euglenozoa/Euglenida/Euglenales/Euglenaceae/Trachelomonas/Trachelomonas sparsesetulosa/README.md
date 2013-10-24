@@ -1,5 +1,4 @@
-Trachelomonas sparsesetulosa Huber-Pestralozzi SPECIES
-=======
+# Trachelomonas sparsesetulosa Huber-Pestralozzi SPECIES
 
 #### Status
 ACCEPTED

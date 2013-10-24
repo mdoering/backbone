@@ -1,5 +1,4 @@
-Psammina sabulosa Gooday & Tendal, 1988 SPECIES
-=======
+# Psammina sabulosa Gooday & Tendal, 1988 SPECIES
 
 #### Status
 ACCEPTED

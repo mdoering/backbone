@@ -1,5 +1,4 @@
-Helvella dalgeri Donadini SPECIES
-=======
+# Helvella dalgeri Donadini SPECIES
 
 #### Status
 ACCEPTED

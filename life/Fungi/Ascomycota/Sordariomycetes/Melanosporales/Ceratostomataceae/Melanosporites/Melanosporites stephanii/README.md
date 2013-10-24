@@ -1,5 +1,4 @@
-Melanosporites stephanii Pampal. SPECIES
-=======
+# Melanosporites stephanii Pampal. SPECIES
 
 #### Status
 ACCEPTED

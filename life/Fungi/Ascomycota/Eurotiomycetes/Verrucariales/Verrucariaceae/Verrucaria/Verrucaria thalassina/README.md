@@ -1,5 +1,4 @@
-Verrucaria thalassina (Zahlbr.) Zschacke SPECIES
-=======
+# Verrucaria thalassina (Zahlbr.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

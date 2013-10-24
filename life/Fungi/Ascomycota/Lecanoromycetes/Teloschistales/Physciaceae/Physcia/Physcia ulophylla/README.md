@@ -1,5 +1,4 @@
-Physcia ulophylla (Wallr.) Nyl. SPECIES
-=======
+# Physcia ulophylla (Wallr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita sublutea (Cleland) E.-J. Gilbert SPECIES
-=======
+# Amanita sublutea (Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

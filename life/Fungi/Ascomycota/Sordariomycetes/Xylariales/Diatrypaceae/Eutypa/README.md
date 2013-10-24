@@ -1,17 +1,16 @@
-Lageniformia Plunkett GENUS
-=======
+# Eutypa Tul. & C. Tul. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 98 (1925)
+Select. fung. carpol. (Paris) 2: 52 (1863)
 
 #### Original name
-Lageniformia Plunkett
+Eutypa Tul. & C. Tul.
 
 ### Remarks
 null

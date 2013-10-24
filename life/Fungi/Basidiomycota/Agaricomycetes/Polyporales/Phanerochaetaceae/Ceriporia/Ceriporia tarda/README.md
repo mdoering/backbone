@@ -1,17 +1,16 @@
-Poria semitincta (Peck) Sacc., 1888 SPECIES
-=======
+# Ceriporia tarda (Berk.) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 332 (1888)
+Mycotaxon 21: 326 (1984)
 
 #### Original name
-Polyporus semitinctus Peck, 1878
+Polyporus tardus Berk., 1845
 
 ### Remarks
 null

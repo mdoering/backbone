@@ -1,5 +1,4 @@
-Clitocybe quercina A. Pearson ex Hora SPECIES
-=======
+# Clitocybe quercina A. Pearson ex Hora SPECIES
 
 #### Status
 ACCEPTED

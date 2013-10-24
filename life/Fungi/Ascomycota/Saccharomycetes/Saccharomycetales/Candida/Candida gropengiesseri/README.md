@@ -1,17 +1,16 @@
-Torula gropengiesserii F.C. Harrison SPECIES
-=======
+# Candida gropengiesseri (F.C. Harrison) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 612 (1978)
 
 #### Original name
-Torula gropengiesserii F.C. Harrison
+Torula gropengiesseri F.C. Harrison, 1928
 
 ### Remarks
 null

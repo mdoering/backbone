@@ -1,5 +1,4 @@
-Mycena sertipes Maas Geest. & de Meijer SPECIES
-=======
+# Mycena sertipes Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

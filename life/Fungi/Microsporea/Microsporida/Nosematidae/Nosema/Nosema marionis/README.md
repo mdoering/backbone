@@ -1,8 +1,7 @@
-Glugea marionis Thélohan, 1895 SPECIES
-=======
+# Nosema marionis (Thélohan, 1895) Labbé, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

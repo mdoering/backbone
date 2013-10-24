@@ -1,5 +1,4 @@
-Stagonospora ephedrae Kravtzev SPECIES
-=======
+# Stagonospora ephedrae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

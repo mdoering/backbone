@@ -1,5 +1,4 @@
-Clavaria alliacea Corner, 1950 SPECIES
-=======
+# Clavaria alliacea Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

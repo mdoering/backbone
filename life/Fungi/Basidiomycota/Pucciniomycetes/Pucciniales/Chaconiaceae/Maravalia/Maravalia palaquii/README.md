@@ -1,14 +1,13 @@
-Scopella palaquii Cummins, 1950 SPECIES
-=======
+# Maravalia palaquii (Cummins) Y. Ono, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 77: 211 (1950)
+Mycologia 76(5): 907 (1984)
 
 #### Original name
 Scopella palaquii Cummins, 1950

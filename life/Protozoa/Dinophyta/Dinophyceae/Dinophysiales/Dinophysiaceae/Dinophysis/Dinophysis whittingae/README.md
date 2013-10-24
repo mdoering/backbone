@@ -1,5 +1,4 @@
-Dinophysis whittingae Balech SPECIES
-=======
+# Dinophysis whittingae Balech SPECIES
 
 #### Status
 ACCEPTED

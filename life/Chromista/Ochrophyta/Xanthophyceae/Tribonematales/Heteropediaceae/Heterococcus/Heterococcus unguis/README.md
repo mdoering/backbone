@@ -1,5 +1,4 @@
-Heterococcus unguis Pitschmann SPECIES
-=======
+# Heterococcus unguis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

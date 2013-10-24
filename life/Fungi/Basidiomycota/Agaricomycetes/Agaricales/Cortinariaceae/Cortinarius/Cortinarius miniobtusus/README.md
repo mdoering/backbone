@@ -1,5 +1,4 @@
-Cortinarius miniobtusus Rob. Henry SPECIES
-=======
+# Cortinarius miniobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

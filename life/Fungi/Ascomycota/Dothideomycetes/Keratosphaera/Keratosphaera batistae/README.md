@@ -1,5 +1,4 @@
-Keratosphaera batistae H.B.P. Upadhyay SPECIES
-=======
+# Keratosphaera batistae H.B.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

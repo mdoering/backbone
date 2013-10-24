@@ -1,5 +1,4 @@
-Rhytisma atramentarium Berk. & M.A. Curtis SPECIES
-=======
+# Rhytisma atramentarium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

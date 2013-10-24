@@ -1,5 +1,4 @@
-Gyrophora reticulata (Schaer.) Th. Fr. SPECIES
-=======
+# Gyrophora reticulata (Schaer.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

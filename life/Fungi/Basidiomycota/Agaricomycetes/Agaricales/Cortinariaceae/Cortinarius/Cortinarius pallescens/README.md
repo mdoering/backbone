@@ -1,5 +1,4 @@
-Cortinarius pallescens Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius pallescens Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

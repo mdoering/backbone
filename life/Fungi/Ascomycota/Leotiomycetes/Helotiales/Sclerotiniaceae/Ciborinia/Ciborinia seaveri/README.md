@@ -1,5 +1,4 @@
-Ciborinia seaveri J.W. Groves & Bowerman SPECIES
-=======
+# Ciborinia seaveri J.W. Groves & Bowerman SPECIES
 
 #### Status
 ACCEPTED

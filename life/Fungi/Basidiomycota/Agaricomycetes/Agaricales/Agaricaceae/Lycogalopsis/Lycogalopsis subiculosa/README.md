@@ -1,17 +1,16 @@
-Lycogalopsis subiculosus Lloyd SPECIES
-=======
+# Lycogalopsis subiculosa Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(no. 71): 1244 (1924)
 
 #### Original name
-Lycogalopsis subiculosus Lloyd
+Lycogalopsis subiculosa Lloyd
 
 ### Remarks
 null

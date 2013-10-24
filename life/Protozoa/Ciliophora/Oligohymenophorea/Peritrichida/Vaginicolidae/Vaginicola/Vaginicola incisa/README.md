@@ -1,5 +1,4 @@
-Vaginicola incisa Daday, 1907 SPECIES
-=======
+# Vaginicola incisa Daday, 1907 SPECIES
 
 #### Status
 ACCEPTED

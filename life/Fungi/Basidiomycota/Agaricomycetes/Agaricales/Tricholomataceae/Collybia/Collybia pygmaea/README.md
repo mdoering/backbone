@@ -1,5 +1,4 @@
-Collybia pygmaea Rick SPECIES
-=======
+# Collybia pygmaea Rick SPECIES
 
 #### Status
 ACCEPTED

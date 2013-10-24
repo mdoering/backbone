@@ -1,5 +1,4 @@
-Hymenomonas lacuna Pienaar SPECIES
-=======
+# Hymenomonas lacuna Pienaar SPECIES
 
 #### Status
 ACCEPTED

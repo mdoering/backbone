@@ -1,5 +1,4 @@
-Ochrolechia jucunda (Hue) Zahlbr. SPECIES
-=======
+# Ochrolechia jucunda (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

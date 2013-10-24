@@ -1,5 +1,4 @@
-Archaea KINGDOM
-=======
+# Archaea KINGDOM
 
 #### Status
 ACCEPTED

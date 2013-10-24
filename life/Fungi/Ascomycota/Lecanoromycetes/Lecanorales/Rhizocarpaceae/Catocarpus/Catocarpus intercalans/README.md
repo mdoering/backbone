@@ -1,5 +1,4 @@
-Catocarpus intercalans (Nyl.) Dombr. SPECIES
-=======
+# Catocarpus intercalans (Nyl.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

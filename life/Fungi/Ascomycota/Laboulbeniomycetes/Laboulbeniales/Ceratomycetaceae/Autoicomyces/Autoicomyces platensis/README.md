@@ -1,5 +1,4 @@
-Autoicomyces platensis Speg. SPECIES
-=======
+# Autoicomyces platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

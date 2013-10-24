@@ -1,5 +1,4 @@
-Bizionia algoritergicola Bowman & Nichols, 2005 SPECIES
-=======
+# Bizionia algoritergicola Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

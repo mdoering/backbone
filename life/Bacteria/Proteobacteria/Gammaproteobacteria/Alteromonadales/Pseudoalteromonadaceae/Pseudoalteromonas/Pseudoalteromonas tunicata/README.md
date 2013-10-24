@@ -1,5 +1,4 @@
-Pseudoalteromonas tunicata Holmström et al., 1998 SPECIES
-=======
+# Pseudoalteromonas tunicata Holmström et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

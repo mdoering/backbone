@@ -1,5 +1,4 @@
-Meliola nothopegiae Hansf. SPECIES
-=======
+# Meliola nothopegiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

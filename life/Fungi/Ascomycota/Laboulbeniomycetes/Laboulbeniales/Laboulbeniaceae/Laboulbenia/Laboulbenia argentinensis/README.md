@@ -1,5 +1,4 @@
-Laboulbenia argentinensis Speg. SPECIES
-=======
+# Laboulbenia argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

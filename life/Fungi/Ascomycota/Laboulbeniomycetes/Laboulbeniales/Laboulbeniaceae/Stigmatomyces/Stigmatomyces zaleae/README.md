@@ -1,5 +1,4 @@
-Stigmatomyces zaleae W. Rossi & A. Weir SPECIES
-=======
+# Stigmatomyces zaleae W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

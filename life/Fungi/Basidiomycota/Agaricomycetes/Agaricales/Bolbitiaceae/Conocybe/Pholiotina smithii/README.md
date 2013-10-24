@@ -1,5 +1,4 @@
-Pholiotina smithii (Watling) Enderle SPECIES
-=======
+# Pholiotina smithii (Watling) Enderle SPECIES
 
 #### Status
 ACCEPTED

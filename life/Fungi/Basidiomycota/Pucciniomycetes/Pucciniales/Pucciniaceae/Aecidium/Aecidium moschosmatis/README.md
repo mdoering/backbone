@@ -1,5 +1,4 @@
-Aecidium moschosmatis Henn. SPECIES
-=======
+# Aecidium moschosmatis Henn. SPECIES
 
 #### Status
 ACCEPTED

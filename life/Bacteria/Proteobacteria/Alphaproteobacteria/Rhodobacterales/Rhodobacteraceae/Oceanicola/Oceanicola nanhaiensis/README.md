@@ -1,5 +1,4 @@
-Oceanicola nanhaiensis Gu, Guo, Wang, Yu, Inamori, Qu, Ye & Wu, 2007 SPECIES
-=======
+# Oceanicola nanhaiensis Gu, Guo, Wang, Yu, Inamori, Qu, Ye & Wu, 2007 SPECIES
 
 #### Status
 ACCEPTED

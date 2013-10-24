@@ -1,5 +1,4 @@
-Calicium koerberi (Nádv.) Oxner SPECIES
-=======
+# Calicium koerberi (Nádv.) Oxner SPECIES
 
 #### Status
 ACCEPTED

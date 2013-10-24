@@ -1,5 +1,4 @@
-Cyclidium porcatum SPECIES
-=======
+# Cyclidium porcatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus metrodii Malençon & Bertault SPECIES
-=======
+# Pluteus metrodii Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

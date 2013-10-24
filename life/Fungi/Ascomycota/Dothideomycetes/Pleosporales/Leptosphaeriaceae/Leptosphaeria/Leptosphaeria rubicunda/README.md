@@ -1,14 +1,13 @@
-Melanomma rubicundum (Rehm ex G. Winter) L. Holm, 1957 SPECIES
-=======
+# Leptosphaeria rubicunda Rehm, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 14(no. 3): 65 (1957)
+Exsicc. Asc. no. 92 (1872)
 
 #### Original name
 Leptosphaeria rubicunda Rehm, 1872

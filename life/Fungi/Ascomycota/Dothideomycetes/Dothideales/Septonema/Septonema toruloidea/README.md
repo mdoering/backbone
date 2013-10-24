@@ -1,5 +1,4 @@
-Septonema toruloidea Berl. SPECIES
-=======
+# Septonema toruloidea Berl. SPECIES
 
 #### Status
 ACCEPTED

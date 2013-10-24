@@ -1,5 +1,4 @@
-Hypomyces goroshankianus (Wahrlich) Bernátsky SPECIES
-=======
+# Hypomyces goroshankianus (Wahrlich) Bernátsky SPECIES
 
 #### Status
 ACCEPTED

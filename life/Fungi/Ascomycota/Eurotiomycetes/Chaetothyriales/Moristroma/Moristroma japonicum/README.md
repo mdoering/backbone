@@ -1,5 +1,4 @@
-Moristroma japonicum Nordén, 2005 SPECIES
-=======
+# Moristroma japonicum Nordén, 2005 SPECIES
 
 #### Status
 ACCEPTED

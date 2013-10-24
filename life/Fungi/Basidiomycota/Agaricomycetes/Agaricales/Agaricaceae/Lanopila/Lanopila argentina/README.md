@@ -1,5 +1,4 @@
-Lanopila argentina Speg. SPECIES
-=======
+# Lanopila argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

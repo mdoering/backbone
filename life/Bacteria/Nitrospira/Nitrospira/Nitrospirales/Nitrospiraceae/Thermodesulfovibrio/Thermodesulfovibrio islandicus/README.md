@@ -1,5 +1,4 @@
-Thermodesulfovibrio islandicus Sonne-Hansen & Ahring, 2000 SPECIES
-=======
+# Thermodesulfovibrio islandicus Sonne-Hansen & Ahring, 2000 SPECIES
 
 #### Status
 ACCEPTED

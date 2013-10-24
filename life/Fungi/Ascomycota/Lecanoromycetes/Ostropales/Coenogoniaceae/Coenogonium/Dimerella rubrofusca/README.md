@@ -1,17 +1,16 @@
-Dimerella rubrifusca Vezda & Malcolm SPECIES
-=======
+# Dimerella rubrofusca Vezda & Malcolm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Australasian Lichenology 41: 34 (1997)
 
 #### Original name
-Dimerella rubrifusca Vezda & Malcolm
+Dimerella rubrofusca Vezda & Malcolm
 
 ### Remarks
 null

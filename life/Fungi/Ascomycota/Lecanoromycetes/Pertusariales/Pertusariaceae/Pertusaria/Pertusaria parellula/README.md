@@ -1,5 +1,4 @@
-Pertusaria parellula Müll. Arg. SPECIES
-=======
+# Pertusaria parellula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

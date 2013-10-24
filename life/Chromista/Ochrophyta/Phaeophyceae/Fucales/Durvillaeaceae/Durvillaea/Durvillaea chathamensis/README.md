@@ -1,5 +1,4 @@
-Durvillaea chathamensis C.H.Hay SPECIES
-=======
+# Durvillaea chathamensis C.H.Hay SPECIES
 
 #### Status
 ACCEPTED

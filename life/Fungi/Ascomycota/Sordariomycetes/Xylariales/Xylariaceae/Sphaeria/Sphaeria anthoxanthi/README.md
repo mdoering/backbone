@@ -1,5 +1,4 @@
-Sphaeria anthoxanthi Kirchn. SPECIES
-=======
+# Sphaeria anthoxanthi Kirchn. SPECIES
 
 #### Status
 ACCEPTED

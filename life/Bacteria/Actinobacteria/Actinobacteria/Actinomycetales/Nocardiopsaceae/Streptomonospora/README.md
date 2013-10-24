@@ -1,5 +1,4 @@
-Streptomonospora GENUS
-=======
+# Streptomonospora GENUS
 
 #### Status
 ACCEPTED

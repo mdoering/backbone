@@ -1,5 +1,4 @@
-Bullaria inanipes (Dietel & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria inanipes (Dietel & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

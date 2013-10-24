@@ -1,5 +1,4 @@
-Scindalma alni (Sorokin) Kuntze SPECIES
-=======
+# Scindalma alni (Sorokin) Kuntze SPECIES
 
 #### Status
 ACCEPTED

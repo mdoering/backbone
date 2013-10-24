@@ -1,5 +1,4 @@
-Didymosphaeria housei Dearn. SPECIES
-=======
+# Didymosphaeria housei Dearn. SPECIES
 
 #### Status
 ACCEPTED

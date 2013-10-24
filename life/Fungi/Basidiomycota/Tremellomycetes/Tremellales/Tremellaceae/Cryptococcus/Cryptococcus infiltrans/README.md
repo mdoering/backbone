@@ -1,5 +1,4 @@
-Cryptococcus infiltrans (Casagrandi & Santori) Nann. SPECIES
-=======
+# Cryptococcus infiltrans (Casagrandi & Santori) Nann. SPECIES
 
 #### Status
 ACCEPTED

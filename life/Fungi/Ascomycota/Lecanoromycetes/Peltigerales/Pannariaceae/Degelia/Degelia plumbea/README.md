@@ -1,17 +1,16 @@
-Pannaria plumbea var. plumbea (Lightf.) Bory VARIETY
-=======
+# Degelia plumbea (Lightf.) P. M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 264 (1990)
 
 #### Original name
-Pannaria plumbea var. plumbea (Lightf.) Bory
+Lichen plumbeus Lightf.
 
 ### Remarks
 null

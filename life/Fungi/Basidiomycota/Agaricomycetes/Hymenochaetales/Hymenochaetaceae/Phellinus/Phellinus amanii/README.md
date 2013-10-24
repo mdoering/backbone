@@ -1,5 +1,4 @@
-Phellinus amanii Niemelä SPECIES
-=======
+# Phellinus amanii Niemelä SPECIES
 
 #### Status
 ACCEPTED

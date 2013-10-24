@@ -1,5 +1,4 @@
-Phaeodactylium curvularioides Matsush. SPECIES
-=======
+# Phaeodactylium curvularioides Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phreatamoeba Chávez, Balamuth & Gong, 1986 GENUS
-=======
+# Mastigamoeba Schulze, 1875 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal Protozool. 33 (3): 398.
+Arch. mikr. Anat. , 11, 583.
 
 #### Original name
 null

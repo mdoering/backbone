@@ -1,5 +1,4 @@
-Clitocybe veneris (Fr.) Sacc. SPECIES
-=======
+# Clitocybe veneris (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

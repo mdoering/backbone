@@ -1,5 +1,4 @@
-Hygrophorus spectandus Britzelm. SPECIES
-=======
+# Hygrophorus spectandus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

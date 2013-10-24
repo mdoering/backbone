@@ -1,5 +1,4 @@
-Ramularia lindaviana (Jaap) Nannf. SPECIES
-=======
+# Ramularia lindaviana (Jaap) Nannf. SPECIES
 
 #### Status
 ACCEPTED

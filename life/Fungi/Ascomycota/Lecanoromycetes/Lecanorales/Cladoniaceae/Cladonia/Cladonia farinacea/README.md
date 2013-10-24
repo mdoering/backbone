@@ -1,5 +1,4 @@
-Cladonia farinacea (Vain.) A. Evans SPECIES
-=======
+# Cladonia farinacea (Vain.) A. Evans SPECIES
 
 #### Status
 ACCEPTED

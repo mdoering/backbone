@@ -1,5 +1,4 @@
-Mycena crassipes Massee SPECIES
-=======
+# Mycena crassipes Massee SPECIES
 
 #### Status
 ACCEPTED

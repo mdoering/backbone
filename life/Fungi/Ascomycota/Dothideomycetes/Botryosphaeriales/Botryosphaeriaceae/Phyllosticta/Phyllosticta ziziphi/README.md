@@ -1,8 +1,7 @@
-Phyllosticta zizyphi Thüm. SPECIES
-=======
+# Phyllosticta ziziphi Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta zizyphi Thüm.
+Phyllosticta ziziphi Thüm.
 
 ### Remarks
 null

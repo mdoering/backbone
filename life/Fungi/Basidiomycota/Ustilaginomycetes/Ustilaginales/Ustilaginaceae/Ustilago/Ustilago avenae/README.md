@@ -1,17 +1,16 @@
-Ustilago avenae subsp. avenae SUBSPECIES
-=======
+# Ustilago avenae (Pers.) Rostr., 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Overs. Kongel. Danske Vidensk. Selsk. Forh. Medlemmers Arbeider 13 (1890)
 
 #### Original name
-Ustilago avenae subsp. avenae
+Uredo segetum a hordei Pers.
 
 ### Remarks
 null

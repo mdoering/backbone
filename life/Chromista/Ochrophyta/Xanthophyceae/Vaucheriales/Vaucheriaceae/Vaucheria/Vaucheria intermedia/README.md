@@ -1,5 +1,4 @@
-Vaucheria intermedia Nordstedt SPECIES
-=======
+# Vaucheria intermedia Nordstedt SPECIES
 
 #### Status
 ACCEPTED

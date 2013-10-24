@@ -1,5 +1,4 @@
-Phoma ruborum Westend. SPECIES
-=======
+# Phoma ruborum Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium sumatraense Svilv. SPECIES
-=======
+# Penicillium sumatraense Svilv. SPECIES
 
 #### Status
 ACCEPTED

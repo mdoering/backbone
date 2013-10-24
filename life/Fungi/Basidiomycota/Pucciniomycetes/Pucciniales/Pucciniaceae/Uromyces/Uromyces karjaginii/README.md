@@ -1,5 +1,4 @@
-Uromyces karjaginii Uljan. SPECIES
-=======
+# Uromyces karjaginii Uljan. SPECIES
 
 #### Status
 ACCEPTED

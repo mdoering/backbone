@@ -1,5 +1,4 @@
-Trachelophyllum apicatum SPECIES
-=======
+# Trachelophyllum apicatum SPECIES
 
 #### Status
 ACCEPTED

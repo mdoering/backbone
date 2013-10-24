@@ -1,5 +1,4 @@
-Penicillium wuchangense Y.K. Shih SPECIES
-=======
+# Penicillium wuchangense Y.K. Shih SPECIES
 
 #### Status
 ACCEPTED

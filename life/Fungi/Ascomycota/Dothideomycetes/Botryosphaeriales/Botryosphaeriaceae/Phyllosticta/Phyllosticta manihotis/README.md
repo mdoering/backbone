@@ -1,8 +1,7 @@
-Phyllosticta manihotae Viégas SPECIES
-=======
+# Phyllosticta manihotis Viégas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta manihotae Viégas
+Phyllosticta manihotis Viégas
 
 ### Remarks
 null

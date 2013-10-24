@@ -1,5 +1,4 @@
-Quinqueloculina bosciana SPECIES
-=======
+# Quinqueloculina bosciana SPECIES
 
 #### Status
 ACCEPTED

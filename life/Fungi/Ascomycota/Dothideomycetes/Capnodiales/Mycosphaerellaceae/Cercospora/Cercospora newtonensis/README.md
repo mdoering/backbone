@@ -1,5 +1,4 @@
-Cercospora newtonensis Deighton SPECIES
-=======
+# Cercospora newtonensis Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia duporti Pat. SPECIES
-=======
+# Pestalotia duporti Pat. SPECIES
 
 #### Status
 ACCEPTED

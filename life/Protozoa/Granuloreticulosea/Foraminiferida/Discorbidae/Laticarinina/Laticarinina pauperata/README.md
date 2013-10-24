@@ -1,5 +1,4 @@
-Laticarinina pauperata SPECIES
-=======
+# Laticarinina pauperata SPECIES
 
 #### Status
 ACCEPTED

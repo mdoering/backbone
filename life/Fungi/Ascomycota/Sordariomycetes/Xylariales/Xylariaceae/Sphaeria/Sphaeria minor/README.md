@@ -1,5 +1,4 @@
-Sphaeria minor Sacc. SPECIES
-=======
+# Sphaeria minor Sacc. SPECIES
 
 #### Status
 ACCEPTED

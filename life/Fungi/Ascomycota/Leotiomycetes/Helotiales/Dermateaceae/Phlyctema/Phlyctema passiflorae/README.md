@@ -1,5 +1,4 @@
-Phlyctema passiflorae Cooke & Massee SPECIES
-=======
+# Phlyctema passiflorae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

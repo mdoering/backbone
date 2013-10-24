@@ -1,5 +1,4 @@
-Alternaria cookei (Sacc.) Bremer, Ismen, Karel & Özkan & M. Özkan SPECIES
-=======
+# Alternaria cookei (Sacc.) Bremer, Ismen, Karel & Özkan & M. Özkan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula nematophora Mont. SPECIES
-=======
+# Strigula nematophora Mont. SPECIES
 
 #### Status
 ACCEPTED

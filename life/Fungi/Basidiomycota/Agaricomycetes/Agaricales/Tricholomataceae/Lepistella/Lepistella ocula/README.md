@@ -1,5 +1,4 @@
-Lepistella ocula T.J. Baroni & Ovrebo, 2007 SPECIES
-=======
+# Lepistella ocula T.J. Baroni & Ovrebo, 2007 SPECIES
 
 #### Status
 ACCEPTED

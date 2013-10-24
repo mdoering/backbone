@@ -1,5 +1,4 @@
-Spirillina runiana Heron-Allen & Earland, 1930 SPECIES
-=======
+# Spirillina runiana Heron-Allen & Earland, 1930 SPECIES
 
 #### Status
 ACCEPTED

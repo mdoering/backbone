@@ -1,5 +1,4 @@
-Catillaria varians SPECIES
-=======
+# Catillaria varians SPECIES
 
 #### Status
 ACCEPTED

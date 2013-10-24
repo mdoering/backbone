@@ -1,5 +1,4 @@
-Scidiaceae FAMILY
-=======
+# Scidiaceae FAMILY
 
 #### Status
 ACCEPTED

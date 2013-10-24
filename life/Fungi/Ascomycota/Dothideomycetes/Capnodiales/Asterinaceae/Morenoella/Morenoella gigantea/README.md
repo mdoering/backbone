@@ -1,5 +1,4 @@
-Morenoella gigantea R.W. Ryan SPECIES
-=======
+# Morenoella gigantea R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

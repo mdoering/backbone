@@ -1,5 +1,4 @@
-Phyllachora valsispora Rehm, 1897 SPECIES
-=======
+# Phyllachora valsispora Rehm, 1897 SPECIES
 
 #### Status
 ACCEPTED

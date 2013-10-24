@@ -1,5 +1,4 @@
-Beenakia fricta Maas Geest., 1967 SPECIES
-=======
+# Beenakia fricta Maas Geest., 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Codinaea gonytrichoides Shearer & J.L. Crane, 1971 SPECIES
-=======
+# Dictyochaetopsis gonytrichoides (Shearer & J.L. Crane) Whitton, McKenzie & K.D. Hyde, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 63(2): 245 (1971)
+Fungal Diversity 4: 156 (2000)
 
 #### Original name
 Codinaea gonytrichoides Shearer & J.L. Crane, 1971

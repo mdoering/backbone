@@ -1,5 +1,4 @@
-Uromyces laevigatus Petr. & Syd. SPECIES
-=======
+# Uromyces laevigatus Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria pruinatipes Peck SPECIES
-=======
+# Naucoria pruinatipes Peck SPECIES
 
 #### Status
 ACCEPTED

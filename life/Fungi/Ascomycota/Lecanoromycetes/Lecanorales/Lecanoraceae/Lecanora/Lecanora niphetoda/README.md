@@ -1,5 +1,4 @@
-Lecanora niphetoda (Hue) Zahlbr. SPECIES
-=======
+# Lecanora niphetoda (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

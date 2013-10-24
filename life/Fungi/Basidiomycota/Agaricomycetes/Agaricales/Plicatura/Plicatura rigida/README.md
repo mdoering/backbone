@@ -1,5 +1,4 @@
-Plicatura rigida Pat. SPECIES
-=======
+# Plicatura rigida Pat. SPECIES
 
 #### Status
 ACCEPTED

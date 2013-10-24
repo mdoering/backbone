@@ -1,5 +1,4 @@
-Gomphidius stillatus F. Strauss SPECIES
-=======
+# Gomphidius stillatus F. Strauss SPECIES
 
 #### Status
 ACCEPTED

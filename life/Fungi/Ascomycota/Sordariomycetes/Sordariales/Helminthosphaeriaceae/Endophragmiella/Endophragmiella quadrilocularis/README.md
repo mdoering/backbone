@@ -1,5 +1,4 @@
-Endophragmiella quadrilocularis Matsush. SPECIES
-=======
+# Endophragmiella quadrilocularis Matsush. SPECIES
 
 #### Status
 ACCEPTED

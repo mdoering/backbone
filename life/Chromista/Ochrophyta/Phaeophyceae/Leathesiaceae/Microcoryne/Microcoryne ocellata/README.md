@@ -1,5 +1,4 @@
-Microcoryne ocellata Strömfelt SPECIES
-=======
+# Microcoryne ocellata Strömfelt SPECIES
 
 #### Status
 ACCEPTED

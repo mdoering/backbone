@@ -1,5 +1,4 @@
-Pseudomonilia rubescens A. Geiger SPECIES
-=======
+# Pseudomonilia rubescens A. Geiger SPECIES
 
 #### Status
 ACCEPTED

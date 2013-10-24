@@ -1,14 +1,13 @@
-Bacterium dihydroxyacetonicum Virtanen & Bärlund, 1926 SPECIES
-=======
+# Bacterium Ehrenberg, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Sym. Phys. , Phyt. , sign. b.
 
 #### Original name
 null

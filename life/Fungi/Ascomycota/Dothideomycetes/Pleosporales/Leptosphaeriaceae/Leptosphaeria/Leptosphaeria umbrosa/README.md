@@ -1,5 +1,4 @@
-Leptosphaeria umbrosa Niessl SPECIES
-=======
+# Leptosphaeria umbrosa Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinostelium reticulatum Zopf SPECIES
-=======
+# Echinostelium reticulatum Zopf SPECIES
 
 #### Status
 ACCEPTED

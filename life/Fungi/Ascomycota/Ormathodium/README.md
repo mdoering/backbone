@@ -1,5 +1,4 @@
-Ormathodium Syd. GENUS
-=======
+# Ormathodium Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella lindaviana (Jaap) U. Braun SPECIES
-=======
+# Cercosporella lindaviana (Jaap) U. Braun SPECIES
 
 #### Status
 ACCEPTED

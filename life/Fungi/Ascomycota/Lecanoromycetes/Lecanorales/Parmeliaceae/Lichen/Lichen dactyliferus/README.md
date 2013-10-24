@@ -1,5 +1,4 @@
-Lichen dactyliferus Wahlenb. SPECIES
-=======
+# Lichen dactyliferus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

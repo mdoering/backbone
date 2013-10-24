@@ -1,5 +1,4 @@
-Fragilaria henryi H. Lange-Bertalot SPECIES
-=======
+# Fragilaria henryi H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

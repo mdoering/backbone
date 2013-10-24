@@ -1,5 +1,4 @@
-Xanthoparmelia nonreagens Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia nonreagens Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

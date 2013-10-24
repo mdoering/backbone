@@ -1,5 +1,4 @@
-Clavaria muscorum Cumino SPECIES
-=======
+# Clavaria muscorum Cumino SPECIES
 
 #### Status
 ACCEPTED

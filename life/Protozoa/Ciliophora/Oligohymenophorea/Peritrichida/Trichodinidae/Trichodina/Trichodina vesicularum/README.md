@@ -1,5 +1,4 @@
-Trichodina vesicularum SPECIES
-=======
+# Trichodina vesicularum SPECIES
 
 #### Status
 ACCEPTED

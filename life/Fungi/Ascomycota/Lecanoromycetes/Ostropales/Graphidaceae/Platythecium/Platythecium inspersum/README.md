@@ -1,5 +1,4 @@
-Platythecium inspersum Staiger SPECIES
-=======
+# Platythecium inspersum Staiger SPECIES
 
 #### Status
 ACCEPTED

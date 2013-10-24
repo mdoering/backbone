@@ -1,5 +1,4 @@
-Septoria diospyri McAlpine SPECIES
-=======
+# Septoria diospyri McAlpine SPECIES
 
 #### Status
 ACCEPTED

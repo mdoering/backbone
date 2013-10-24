@@ -1,5 +1,4 @@
-Rhizocarpon infernulum f. infernulum (Nyl.) Lange FORM
-=======
+# Rhizocarpon infernulum (Nyl.) Lange SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Rhizocarpon infernulum f. infernulum (Nyl.) Lange
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lipomyces smithiae (Van der Walt, M.J. Wingf. & Y. Yamada) Kurtzman, Albertyn & Basehoar-Powers, 2007 SPECIES
-=======
+# Lipomyces smithiae (Van der Walt, M.J. Wingf. & Y. Yamada) Kurtzman, Albertyn & Basehoar-Powers, 2007 SPECIES
 
 #### Status
 ACCEPTED

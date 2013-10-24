@@ -1,5 +1,4 @@
-Karschia impressa Ellis & Everh. SPECIES
-=======
+# Karschia impressa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

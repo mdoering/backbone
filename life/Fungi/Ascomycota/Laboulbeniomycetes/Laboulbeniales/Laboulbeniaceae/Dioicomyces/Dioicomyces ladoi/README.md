@@ -1,5 +1,4 @@
-Dioicomyces ladoi Santam. SPECIES
-=======
+# Dioicomyces ladoi Santam. SPECIES
 
 #### Status
 ACCEPTED

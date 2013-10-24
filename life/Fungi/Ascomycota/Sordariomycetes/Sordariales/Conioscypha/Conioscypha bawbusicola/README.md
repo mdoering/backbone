@@ -1,5 +1,4 @@
-Conioscypha bawbusicola Matsushima SPECIES
-=======
+# Conioscypha bawbusicola Matsushima SPECIES
 
 #### Status
 ACCEPTED

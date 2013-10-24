@@ -1,5 +1,4 @@
-Holmiospora J.L. Mulder & Sv. Nilsson GENUS
-=======
+# Holmiospora J.L. Mulder & Sv. Nilsson GENUS
 
 #### Status
 ACCEPTED

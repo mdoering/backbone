@@ -1,5 +1,4 @@
-Cercospora centrosematicola J.M. Yen & Lim SPECIES
-=======
+# Cercospora centrosematicola J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

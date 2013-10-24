@@ -1,5 +1,4 @@
-Mycosphaerella hariotiana (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella hariotiana (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

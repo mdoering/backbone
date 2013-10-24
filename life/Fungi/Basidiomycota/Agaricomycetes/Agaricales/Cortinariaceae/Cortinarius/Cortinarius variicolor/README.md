@@ -1,17 +1,16 @@
-Phlegmacium variicolor var. variicolor VARIETY
-=======
+# Cortinarius variicolor (Pers.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 259 (1838)
 
 #### Original name
-Phlegmacium variicolor var. variicolor
+Agaricus variicolor Pers., 1801
 
 ### Remarks
 null

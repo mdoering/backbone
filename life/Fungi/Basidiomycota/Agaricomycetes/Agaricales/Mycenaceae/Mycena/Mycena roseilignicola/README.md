@@ -1,5 +1,4 @@
-Mycena roseilignicola Corner SPECIES
-=======
+# Mycena roseilignicola Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltis trivialis Racib. SPECIES
-=======
+# Scolecopeltis trivialis Racib. SPECIES
 
 #### Status
 ACCEPTED

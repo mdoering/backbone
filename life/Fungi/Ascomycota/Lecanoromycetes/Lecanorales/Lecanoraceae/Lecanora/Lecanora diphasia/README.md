@@ -1,5 +1,4 @@
-Lecanora diphasia Tuck. SPECIES
-=======
+# Lecanora diphasia Tuck. SPECIES
 
 #### Status
 ACCEPTED

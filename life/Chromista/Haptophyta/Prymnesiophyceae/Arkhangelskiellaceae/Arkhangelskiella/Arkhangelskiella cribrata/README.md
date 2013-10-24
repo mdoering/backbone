@@ -1,5 +1,4 @@
-Arkhangelskiella cribrata (E. Gazdzicka) S.W. Wise SPECIES
-=======
+# Arkhangelskiella cribrata (E. Gazdzicka) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

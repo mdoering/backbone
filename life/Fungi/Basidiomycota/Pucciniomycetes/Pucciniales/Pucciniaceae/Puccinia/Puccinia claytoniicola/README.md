@@ -1,5 +1,4 @@
-Puccinia claytoniicola Cummins SPECIES
-=======
+# Puccinia claytoniicola Cummins SPECIES
 
 #### Status
 ACCEPTED

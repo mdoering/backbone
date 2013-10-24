@@ -1,5 +1,4 @@
-Arthonia obesa (Müll. Arg.) R. Sant. SPECIES
-=======
+# Arthonia obesa (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

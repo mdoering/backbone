@@ -1,5 +1,4 @@
-Verrucaria hybernica Servít SPECIES
-=======
+# Verrucaria hybernica Servít SPECIES
 
 #### Status
 ACCEPTED

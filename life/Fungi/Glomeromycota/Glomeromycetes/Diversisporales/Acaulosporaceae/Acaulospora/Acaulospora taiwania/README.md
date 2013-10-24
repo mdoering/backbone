@@ -1,5 +1,4 @@
-Acaulospora taiwania H.T. Hu SPECIES
-=======
+# Acaulospora taiwania H.T. Hu SPECIES
 
 #### Status
 ACCEPTED

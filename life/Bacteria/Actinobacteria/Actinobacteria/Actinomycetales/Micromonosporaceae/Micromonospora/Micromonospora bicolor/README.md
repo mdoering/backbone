@@ -1,5 +1,4 @@
-Micromonospora bicolor Krassiln. SPECIES
-=======
+# Micromonospora bicolor Krassiln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armorella sphaerica f. lapidaria Rhumbler, 1935 FORM
-=======
+# Armorella sphaerica Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

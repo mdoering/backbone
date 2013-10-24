@@ -1,5 +1,4 @@
-Coprinus alternatus (Schumach.) Fr. SPECIES
-=======
+# Coprinus alternatus (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

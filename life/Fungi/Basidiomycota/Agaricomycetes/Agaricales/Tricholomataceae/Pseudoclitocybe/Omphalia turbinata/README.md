@@ -1,5 +1,4 @@
-Omphalia turbinata Murrill SPECIES
-=======
+# Omphalia turbinata Murrill SPECIES
 
 #### Status
 ACCEPTED

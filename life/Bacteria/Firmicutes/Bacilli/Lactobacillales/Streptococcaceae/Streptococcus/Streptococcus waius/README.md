@@ -1,5 +1,4 @@
-Streptococcus waius Flint et al., 1999 SPECIES
-=======
+# Streptococcus waius Flint et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

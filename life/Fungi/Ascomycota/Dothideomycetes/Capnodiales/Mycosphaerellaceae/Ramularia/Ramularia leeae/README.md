@@ -1,5 +1,4 @@
-Ramularia leeae S.K. Singh, P.N. Singh & Waing. SPECIES
-=======
+# Ramularia leeae S.K. Singh, P.N. Singh & Waing. SPECIES
 
 #### Status
 ACCEPTED

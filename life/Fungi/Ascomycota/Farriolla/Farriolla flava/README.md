@@ -1,5 +1,4 @@
-Farriolla flava Bat. SPECIES
-=======
+# Farriolla flava Bat. SPECIES
 
 #### Status
 ACCEPTED

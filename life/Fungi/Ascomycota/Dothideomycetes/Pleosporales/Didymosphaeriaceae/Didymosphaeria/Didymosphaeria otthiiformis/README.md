@@ -1,5 +1,4 @@
-Didymosphaeria otthiiformis Kravtzev SPECIES
-=======
+# Didymosphaeria otthiiformis Kravtzev SPECIES
 
 #### Status
 ACCEPTED

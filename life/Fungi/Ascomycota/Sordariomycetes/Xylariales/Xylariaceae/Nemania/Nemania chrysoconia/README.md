@@ -1,14 +1,13 @@
-Hypoxylon chrysoconium Berk. & Broome, 1875 SPECIES
-=======
+# Nemania chrysoconia (Schwein.) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 121 (1875)
+Nova Hedwigia 74(1-2): 91 (2002)
 
 #### Original name
 Hypoxylon chrysoconium Berk. & Broome, 1875

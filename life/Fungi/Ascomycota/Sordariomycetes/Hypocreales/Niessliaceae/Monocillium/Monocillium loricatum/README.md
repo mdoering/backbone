@@ -1,5 +1,4 @@
-Monocillium loricatum W. Gams, 1971 SPECIES
-=======
+# Monocillium loricatum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

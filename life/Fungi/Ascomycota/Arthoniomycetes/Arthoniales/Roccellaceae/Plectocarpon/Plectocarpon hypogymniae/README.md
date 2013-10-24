@@ -1,5 +1,4 @@
-Plectocarpon hypogymniae Zhurb. & Diederich SPECIES
-=======
+# Plectocarpon hypogymniae Zhurb. & Diederich SPECIES
 
 #### Status
 ACCEPTED

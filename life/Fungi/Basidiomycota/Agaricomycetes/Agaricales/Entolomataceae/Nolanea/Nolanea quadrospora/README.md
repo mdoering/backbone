@@ -1,5 +1,4 @@
-Nolanea quadrospora Largent & O.K. Mill. SPECIES
-=======
+# Nolanea quadrospora Largent & O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

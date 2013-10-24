@@ -1,5 +1,4 @@
-Leccinum proximum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum proximum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

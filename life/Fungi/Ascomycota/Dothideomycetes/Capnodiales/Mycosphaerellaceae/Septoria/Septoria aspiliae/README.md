@@ -1,5 +1,4 @@
-Septoria aspiliae Punith. SPECIES
-=======
+# Septoria aspiliae Punith. SPECIES
 
 #### Status
 ACCEPTED

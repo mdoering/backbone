@@ -1,5 +1,4 @@
-Tubulicrinis ovalisporus Hjortstam, 1981 SPECIES
-=======
+# Tubulicrinis ovalisporus Hjortstam, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliospermopsis dongyingensis Jiabo, 1978 SPECIES
-=======
+# Heliospermopsis dongyingensis Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

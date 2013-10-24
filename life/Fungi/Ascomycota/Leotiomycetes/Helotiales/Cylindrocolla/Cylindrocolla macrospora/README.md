@@ -1,5 +1,4 @@
-Cylindrocolla macrospora Aramb. & Gamundí SPECIES
-=======
+# Cylindrocolla macrospora Aramb. & Gamundí SPECIES
 
 #### Status
 ACCEPTED

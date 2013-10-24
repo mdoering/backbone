@@ -1,5 +1,4 @@
-Mycosphaerellopsis myricariae (Fuckel) Höhn. SPECIES
-=======
+# Mycosphaerellopsis myricariae (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

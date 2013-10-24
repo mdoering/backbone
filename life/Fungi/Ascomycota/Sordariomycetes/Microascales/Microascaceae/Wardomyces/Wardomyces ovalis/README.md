@@ -1,14 +1,13 @@
-Hennebertia ovalis (W. Gams) M. Morelet, 1969 SPECIES
-=======
+# Wardomyces ovalis W. Gams, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 21: 105 (1969)
+Trans. Br. mycol. Soc. 51(5): 798 (1968)
 
 #### Original name
 Wardomyces ovalis W. Gams, 1968

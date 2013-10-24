@@ -1,5 +1,4 @@
-Capniomyces celatus L.G. Valle, 2007 SPECIES
-=======
+# Capniomyces celatus L.G. Valle, 2007 SPECIES
 
 #### Status
 ACCEPTED

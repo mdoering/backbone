@@ -1,5 +1,4 @@
-Prunulus aurantiidiscus Murrill SPECIES
-=======
+# Prunulus aurantiidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

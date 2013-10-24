@@ -1,5 +1,4 @@
-Thelidium sorbinum (Nyl.) Hulting SPECIES
-=======
+# Thelidium sorbinum (Nyl.) Hulting SPECIES
 
 #### Status
 ACCEPTED

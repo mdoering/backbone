@@ -1,5 +1,4 @@
-Patellaria deposita (Nyl.) Möll. Arg. SPECIES
-=======
+# Patellaria deposita (Nyl.) Möll. Arg. SPECIES
 
 #### Status
 ACCEPTED

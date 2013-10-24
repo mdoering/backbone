@@ -1,5 +1,4 @@
-Aspicilia candida var. candida VARIETY
-=======
+# Aspicilia candida (Anzi) Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Aspicilia polychroma var. candida Anzi
 
 ### Remarks
 null

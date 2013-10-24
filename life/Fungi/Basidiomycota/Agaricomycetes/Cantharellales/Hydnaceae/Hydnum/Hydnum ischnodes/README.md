@@ -1,5 +1,4 @@
-Hydnum ischnodes Berk. SPECIES
-=======
+# Hydnum ischnodes Berk. SPECIES
 
 #### Status
 ACCEPTED

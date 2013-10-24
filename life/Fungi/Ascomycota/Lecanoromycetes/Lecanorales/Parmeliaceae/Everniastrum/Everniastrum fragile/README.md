@@ -1,5 +1,4 @@
-Everniastrum fragile Sipman SPECIES
-=======
+# Everniastrum fragile Sipman SPECIES
 
 #### Status
 ACCEPTED

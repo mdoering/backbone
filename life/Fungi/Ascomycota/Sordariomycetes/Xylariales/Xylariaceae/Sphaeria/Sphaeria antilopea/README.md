@@ -1,5 +1,4 @@
-Sphaeria antilopea Lév. SPECIES
-=======
+# Sphaeria antilopea Lév. SPECIES
 
 #### Status
 ACCEPTED

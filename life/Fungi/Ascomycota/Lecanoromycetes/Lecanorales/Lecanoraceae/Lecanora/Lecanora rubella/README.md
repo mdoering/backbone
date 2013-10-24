@@ -1,5 +1,4 @@
-Lecanora rubella (Anzi) Nyl. SPECIES
-=======
+# Lecanora rubella (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

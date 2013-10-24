@@ -1,5 +1,4 @@
-Meliola laevigata Syd. & P. Syd. SPECIES
-=======
+# Meliola laevigata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

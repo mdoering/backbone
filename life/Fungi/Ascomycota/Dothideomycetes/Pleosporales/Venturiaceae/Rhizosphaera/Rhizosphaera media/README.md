@@ -1,5 +1,4 @@
-Rhizosphaera media M. Morelet SPECIES
-=======
+# Rhizosphaera media M. Morelet SPECIES
 
 #### Status
 ACCEPTED

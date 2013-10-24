@@ -1,5 +1,4 @@
-Entoloma megacystidiosum Hesler SPECIES
-=======
+# Entoloma megacystidiosum Hesler SPECIES
 
 #### Status
 ACCEPTED

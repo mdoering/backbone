@@ -1,17 +1,16 @@
-Fusicladium photinicola McClain SPECIES
-=======
+# Fusicladium photiniicola McClain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytopathology 15: 181 (1925)
 
 #### Original name
-Fusicladium photinicola McClain
+Fusicladium photiniicola McClain
 
 ### Remarks
 null

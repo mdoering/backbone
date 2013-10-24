@@ -1,5 +1,4 @@
-Biatora casimiri Müll. Arg. SPECIES
-=======
+# Biatora casimiri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Espejoia Bürger, 1917 GENUS
-=======
+# Espejoia Bürger, 1917 GENUS
 
 #### Status
 ACCEPTED

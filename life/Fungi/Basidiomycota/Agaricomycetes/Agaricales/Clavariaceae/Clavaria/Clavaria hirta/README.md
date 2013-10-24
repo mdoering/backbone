@@ -1,5 +1,4 @@
-Clavaria hirta Batsch SPECIES
-=======
+# Clavaria hirta Batsch SPECIES
 
 #### Status
 ACCEPTED

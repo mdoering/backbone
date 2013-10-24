@@ -1,5 +1,4 @@
-Haplocaulus extensus (Kahl, 1935) Sommer, 1951 SPECIES
-=======
+# Haplocaulus extensus (Kahl, 1935) Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

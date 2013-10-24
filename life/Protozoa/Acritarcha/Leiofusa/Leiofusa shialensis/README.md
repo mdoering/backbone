@@ -1,5 +1,4 @@
-Leiofusa shialensis Sinha, Prasad & Srivastava, 1998 SPECIES
-=======
+# Leiofusa shialensis Sinha, Prasad & Srivastava, 1998 SPECIES
 
 #### Status
 ACCEPTED

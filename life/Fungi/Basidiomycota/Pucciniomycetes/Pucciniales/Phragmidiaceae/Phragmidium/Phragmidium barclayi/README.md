@@ -1,5 +1,4 @@
-Phragmidium barclayi Dietel, 1890 SPECIES
-=======
+# Phragmidium barclayi Dietel, 1890 SPECIES
 
 #### Status
 ACCEPTED

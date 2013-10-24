@@ -1,5 +1,4 @@
-Myxotrichella murorum Sacc. SPECIES
-=======
+# Myxotrichella murorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

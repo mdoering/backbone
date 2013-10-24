@@ -1,5 +1,4 @@
-Herpothallon GENUS
-=======
+# Herpothallon GENUS
 
 #### Status
 ACCEPTED

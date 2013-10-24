@@ -1,5 +1,4 @@
-Stictocyclus varicus A. Mann SPECIES
-=======
+# Stictocyclus varicus A. Mann SPECIES
 
 #### Status
 ACCEPTED

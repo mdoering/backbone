@@ -1,5 +1,4 @@
-Priscogalea crucifera Deunff et al., 1961 SPECIES
-=======
+# Priscogalea crucifera Deunff et al., 1961 SPECIES
 
 #### Status
 ACCEPTED

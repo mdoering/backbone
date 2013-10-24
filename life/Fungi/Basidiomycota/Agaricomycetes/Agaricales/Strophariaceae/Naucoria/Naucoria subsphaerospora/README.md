@@ -1,5 +1,4 @@
-Naucoria subsphaerospora Joss. SPECIES
-=======
+# Naucoria subsphaerospora Joss. SPECIES
 
 #### Status
 ACCEPTED

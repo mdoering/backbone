@@ -1,5 +1,4 @@
-Verrucaria pseudomacrostoma Servít SPECIES
-=======
+# Verrucaria pseudomacrostoma Servít SPECIES
 
 #### Status
 ACCEPTED

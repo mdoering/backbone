@@ -1,5 +1,4 @@
-Clasterosporium abutilonis Tropova SPECIES
-=======
+# Clasterosporium abutilonis Tropova SPECIES
 
 #### Status
 ACCEPTED

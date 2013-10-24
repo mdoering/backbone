@@ -1,5 +1,4 @@
-Lecidea rubrica Zenk. SPECIES
-=======
+# Lecidea rubrica Zenk. SPECIES
 
 #### Status
 ACCEPTED

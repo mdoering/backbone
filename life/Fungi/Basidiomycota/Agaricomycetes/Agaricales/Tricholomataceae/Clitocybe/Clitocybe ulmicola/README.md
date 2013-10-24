@@ -1,5 +1,4 @@
-Clitocybe ulmicola H.E. Bigelow SPECIES
-=======
+# Clitocybe ulmicola H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis flabellans Zahlbr. SPECIES
-=======
+# Graphis flabellans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia auricula-canis (G. Mey.) Fr. SPECIES
-=======
+# Exidia auricula-canis (G. Mey.) Fr. SPECIES
 
 #### Status
 ACCEPTED

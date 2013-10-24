@@ -1,5 +1,4 @@
-Lepidodeuterammina plymouthensis Brönnimann & Whittaker, 1989 SPECIES
-=======
+# Lepidodeuterammina plymouthensis Brönnimann & Whittaker, 1989 SPECIES
 
 #### Status
 ACCEPTED

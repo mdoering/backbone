@@ -1,5 +1,4 @@
-Lecidea petellarina SPECIES
-=======
+# Lecidea petellarina SPECIES
 
 #### Status
 ACCEPTED

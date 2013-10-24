@@ -1,5 +1,4 @@
-Pannaria castaneocincta Hue SPECIES
-=======
+# Pannaria castaneocincta Hue SPECIES
 
 #### Status
 ACCEPTED

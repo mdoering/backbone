@@ -1,5 +1,4 @@
-Parmelia hypotropoides Nyl. ex Willey SPECIES
-=======
+# Parmelia hypotropoides Nyl. ex Willey SPECIES
 
 #### Status
 ACCEPTED

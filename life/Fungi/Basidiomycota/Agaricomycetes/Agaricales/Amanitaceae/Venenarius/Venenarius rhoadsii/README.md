@@ -1,5 +1,4 @@
-Venenarius rhoadsii Murrill SPECIES
-=======
+# Venenarius rhoadsii Murrill SPECIES
 
 #### Status
 ACCEPTED

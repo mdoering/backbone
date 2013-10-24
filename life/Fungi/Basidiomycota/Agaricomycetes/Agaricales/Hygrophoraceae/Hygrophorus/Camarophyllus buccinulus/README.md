@@ -1,5 +1,4 @@
-Camarophyllus buccinulus (Speg.) Pegler SPECIES
-=======
+# Camarophyllus buccinulus (Speg.) Pegler SPECIES
 
 #### Status
 ACCEPTED

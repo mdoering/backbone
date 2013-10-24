@@ -1,5 +1,4 @@
-Rhizothyrium abietis Naumov, 1915 SPECIES
-=======
+# Rhizothyrium abietis Naumov, 1915 SPECIES
 
 #### Status
 ACCEPTED

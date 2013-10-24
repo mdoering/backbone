@@ -1,5 +1,4 @@
-Lecanora saxosa (Flagey) Sitzung. SPECIES
-=======
+# Lecanora saxosa (Flagey) Sitzung. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kladothecidium Vavrdová, 1986 GENUS
-=======
+# Kladothecidium Vavrdová, 1986 GENUS
 
 #### Status
 ACCEPTED

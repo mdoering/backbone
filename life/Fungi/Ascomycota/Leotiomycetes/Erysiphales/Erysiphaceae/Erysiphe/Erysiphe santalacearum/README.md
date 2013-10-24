@@ -1,5 +1,4 @@
-Erysiphe santalacearum V.P. Heluta, Tikhon., Burgyuk. & Dudka SPECIES
-=======
+# Erysiphe santalacearum V.P. Heluta, Tikhon., Burgyuk. & Dudka SPECIES
 
 #### Status
 ACCEPTED

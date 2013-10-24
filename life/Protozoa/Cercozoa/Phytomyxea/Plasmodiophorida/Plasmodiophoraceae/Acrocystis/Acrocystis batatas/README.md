@@ -1,5 +1,4 @@
-Acrocystis batatas Ellis & Halst. SPECIES
-=======
+# Acrocystis batatas Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

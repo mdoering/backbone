@@ -1,5 +1,4 @@
-Botryodiplodia lygei-sparti A.L. Guyot SPECIES
-=======
+# Botryodiplodia lygei-sparti A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

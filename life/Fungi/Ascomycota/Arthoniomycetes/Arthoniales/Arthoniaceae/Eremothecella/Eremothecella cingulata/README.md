@@ -1,5 +1,4 @@
-Eremothecella cingulata (R. Sant.) L. I. Ferraro & Lücking SPECIES
-=======
+# Eremothecella cingulata (R. Sant.) L. I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

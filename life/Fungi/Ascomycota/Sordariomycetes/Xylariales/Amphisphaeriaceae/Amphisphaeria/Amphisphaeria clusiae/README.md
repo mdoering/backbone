@@ -1,5 +1,4 @@
-Amphisphaeria clusiae Pat. SPECIES
-=======
+# Amphisphaeria clusiae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloiocephala quercetorum Ald.-Góm. & Franco-Mol. SPECIES
-=======
+# Gloiocephala quercetorum Ald.-Góm. & Franco-Mol. SPECIES
 
 #### Status
 ACCEPTED

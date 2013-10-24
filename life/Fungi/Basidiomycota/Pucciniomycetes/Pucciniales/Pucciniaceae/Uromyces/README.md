@@ -1,17 +1,16 @@
-Teleutospora Arthur & Bisby GENUS
-=======
+# Uromyces (Link) Unger GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 48: 38 (1921)
+Exantheme der Pflanzen. Up. 277 (1832)
 
 #### Original name
-Teleutospora Arthur & Bisby
+null
 
 ### Remarks
 null

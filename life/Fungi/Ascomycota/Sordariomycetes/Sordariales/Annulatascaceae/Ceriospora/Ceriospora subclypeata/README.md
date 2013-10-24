@@ -1,5 +1,4 @@
-Ceriospora subclypeata M.T. Lucas SPECIES
-=======
+# Ceriospora subclypeata M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

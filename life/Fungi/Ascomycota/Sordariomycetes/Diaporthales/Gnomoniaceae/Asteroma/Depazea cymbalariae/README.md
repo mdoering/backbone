@@ -1,5 +1,4 @@
-Depazea cymbalariae Lacaille {?} SPECIES
-=======
+# Depazea cymbalariae Lacaille {?} SPECIES
 
 #### Status
 ACCEPTED

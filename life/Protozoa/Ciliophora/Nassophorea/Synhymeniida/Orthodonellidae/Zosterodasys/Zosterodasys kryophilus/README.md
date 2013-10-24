@@ -1,8 +1,7 @@
-Zosterodasys bryophilus SPECIES
-=======
+# Zosterodasys kryophilus Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

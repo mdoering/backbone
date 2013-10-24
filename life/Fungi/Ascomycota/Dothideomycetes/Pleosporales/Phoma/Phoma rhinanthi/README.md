@@ -1,5 +1,4 @@
-Phoma rhinanthi Gonz. Frag. SPECIES
-=======
+# Phoma rhinanthi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

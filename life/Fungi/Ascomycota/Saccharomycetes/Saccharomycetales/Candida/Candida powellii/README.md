@@ -1,5 +1,4 @@
-Candida powellii Lachance SPECIES
-=======
+# Candida powellii Lachance SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora subpineti (Kremp.) Hellb. SPECIES
-=======
+# Biatora subpineti (Kremp.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

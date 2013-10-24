@@ -1,5 +1,4 @@
-Chromocreopsis cubispora (Ellis & Holw.) Seaver SPECIES
-=======
+# Chromocreopsis cubispora (Ellis & Holw.) Seaver SPECIES
 
 #### Status
 ACCEPTED

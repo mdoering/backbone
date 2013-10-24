@@ -1,5 +1,4 @@
-Biddulphia interrupta Boyer, 1898 SPECIES
-=======
+# Biddulphia interrupta Boyer, 1898 SPECIES
 
 #### Status
 ACCEPTED

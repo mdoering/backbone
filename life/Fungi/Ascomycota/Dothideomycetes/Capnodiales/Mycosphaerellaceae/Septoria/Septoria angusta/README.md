@@ -1,5 +1,4 @@
-Septoria angusta (Cooke) Sacc. SPECIES
-=======
+# Septoria angusta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella ambiens (Starbäck) Sacc. SPECIES
-=======
+# Sphaerella ambiens (Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

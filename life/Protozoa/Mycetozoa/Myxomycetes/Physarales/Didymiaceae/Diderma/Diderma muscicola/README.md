@@ -1,5 +1,4 @@
-Diderma muscicola Link SPECIES
-=======
+# Diderma muscicola Link SPECIES
 
 #### Status
 ACCEPTED

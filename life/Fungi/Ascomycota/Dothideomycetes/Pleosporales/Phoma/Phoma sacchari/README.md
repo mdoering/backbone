@@ -1,5 +1,4 @@
-Phoma sacchari Gutner SPECIES
-=======
+# Phoma sacchari Gutner SPECIES
 
 #### Status
 ACCEPTED

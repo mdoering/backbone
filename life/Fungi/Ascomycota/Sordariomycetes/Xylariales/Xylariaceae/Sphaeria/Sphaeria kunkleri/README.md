@@ -1,5 +1,4 @@
-Sphaeria kunkleri Heer SPECIES
-=======
+# Sphaeria kunkleri Heer SPECIES
 
 #### Status
 ACCEPTED

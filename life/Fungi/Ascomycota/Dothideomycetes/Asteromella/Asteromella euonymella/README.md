@@ -1,5 +1,4 @@
-Asteromella euonymella (Sacc.) Aa & Vanev SPECIES
-=======
+# Asteromella euonymella (Sacc.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

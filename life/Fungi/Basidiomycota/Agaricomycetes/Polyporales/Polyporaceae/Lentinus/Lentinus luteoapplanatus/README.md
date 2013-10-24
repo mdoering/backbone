@@ -1,5 +1,4 @@
-Lentinus luteoapplanatus Beeli SPECIES
-=======
+# Lentinus luteoapplanatus Beeli SPECIES
 
 #### Status
 ACCEPTED

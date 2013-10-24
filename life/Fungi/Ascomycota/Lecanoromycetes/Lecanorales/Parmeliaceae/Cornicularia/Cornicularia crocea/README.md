@@ -1,5 +1,4 @@
-Cornicularia crocea Ach. SPECIES
-=======
+# Cornicularia crocea Ach. SPECIES
 
 #### Status
 ACCEPTED

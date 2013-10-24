@@ -1,5 +1,4 @@
-Fusidium hypodermium Link SPECIES
-=======
+# Fusidium hypodermium Link SPECIES
 
 #### Status
 ACCEPTED

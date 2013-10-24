@@ -1,5 +1,4 @@
-Peziza pallidula Cooke & Peck SPECIES
-=======
+# Peziza pallidula Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

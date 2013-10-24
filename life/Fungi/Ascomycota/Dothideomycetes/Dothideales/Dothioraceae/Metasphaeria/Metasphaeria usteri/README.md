@@ -1,5 +1,4 @@
-Metasphaeria usteri Speg. SPECIES
-=======
+# Metasphaeria usteri Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadiplodia macrosperma (Desm.) Zambett. SPECIES
-=======
+# Metadiplodia macrosperma (Desm.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

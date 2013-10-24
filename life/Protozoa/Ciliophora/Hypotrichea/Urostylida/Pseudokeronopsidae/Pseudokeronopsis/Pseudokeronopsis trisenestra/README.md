@@ -1,5 +1,4 @@
-Pseudokeronopsis trisenestra Dragesco & Dragesco-Kernéis, 1991 SPECIES
-=======
+# Pseudokeronopsis trisenestra Dragesco & Dragesco-Kernéis, 1991 SPECIES
 
 #### Status
 ACCEPTED

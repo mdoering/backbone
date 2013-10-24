@@ -1,5 +1,4 @@
-Harposporium trigonosporum G.L. Barron & Szijarto, 1991 SPECIES
-=======
+# Harposporium trigonosporum G.L. Barron & Szijarto, 1991 SPECIES
 
 #### Status
 ACCEPTED

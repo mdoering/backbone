@@ -1,5 +1,4 @@
-Scutula pleiospora Vouaux SPECIES
-=======
+# Scutula pleiospora Vouaux SPECIES
 
 #### Status
 ACCEPTED

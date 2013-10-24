@@ -1,5 +1,4 @@
-Aiora I.C. Cookson & A. Eisenack, 1960 GENUS
-=======
+# Aiora I.C. Cookson & A. Eisenack, 1960 GENUS
 
 #### Status
 ACCEPTED

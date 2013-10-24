@@ -1,5 +1,4 @@
-Levisphaera R.J. Davey, 1988 GENUS
-=======
+# Levisphaera R.J. Davey, 1988 GENUS
 
 #### Status
 ACCEPTED

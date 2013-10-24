@@ -1,5 +1,4 @@
-Dicaeoma triarticulatum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma triarticulatum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

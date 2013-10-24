@@ -1,5 +1,4 @@
-Agaricus brunneus Schumach. SPECIES
-=======
+# Agaricus brunneus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corticium pallidolivens (Bourdot & Galzin) Bourdot & Galzin, 1911 SPECIES
-=======
+# Phlebia pallidolivens (Bourdot & Galzin) Parmasto, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27: 254 (1911)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 391 (1967)
 
 #### Original name
-Corticium seriale pallidolivens Bourdot & Galzin, 1911
+Corticium pallidolivens (Bourdot & Galzin) Bourdot & Galzin, 1911
 
 ### Remarks
 null

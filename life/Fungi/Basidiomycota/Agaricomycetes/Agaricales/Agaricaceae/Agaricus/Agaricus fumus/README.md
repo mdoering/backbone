@@ -1,5 +1,4 @@
-Agaricus fumus J.F. Gmel. SPECIES
-=======
+# Agaricus fumus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

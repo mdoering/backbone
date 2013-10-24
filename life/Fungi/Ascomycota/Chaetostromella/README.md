@@ -1,5 +1,4 @@
-Chaetostromella P. Karst. GENUS
-=======
+# Chaetostromella P. Karst. GENUS
 
 #### Status
 ACCEPTED

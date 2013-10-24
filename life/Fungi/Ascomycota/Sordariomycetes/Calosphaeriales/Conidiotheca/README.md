@@ -1,5 +1,4 @@
-Conidiotheca Réblová & L. Mostert GENUS
-=======
+# Conidiotheca Réblová & L. Mostert GENUS
 
 #### Status
 ACCEPTED

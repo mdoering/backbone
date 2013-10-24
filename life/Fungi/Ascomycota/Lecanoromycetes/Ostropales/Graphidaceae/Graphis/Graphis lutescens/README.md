@@ -1,5 +1,4 @@
-Graphis lutescens Fée SPECIES
-=======
+# Graphis lutescens Fée SPECIES
 
 #### Status
 ACCEPTED

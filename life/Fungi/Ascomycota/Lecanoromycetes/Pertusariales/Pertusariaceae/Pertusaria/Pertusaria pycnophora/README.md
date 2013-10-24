@@ -1,5 +1,4 @@
-Pertusaria pycnophora Nyl. SPECIES
-=======
+# Pertusaria pycnophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

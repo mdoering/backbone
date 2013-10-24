@@ -1,5 +1,4 @@
-Cenangella rhenanum Kirschst. SPECIES
-=======
+# Cenangella rhenanum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

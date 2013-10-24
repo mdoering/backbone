@@ -1,5 +1,4 @@
-Bacidia perpusilla (Körb.) Th. Fr. SPECIES
-=======
+# Bacidia perpusilla (Körb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

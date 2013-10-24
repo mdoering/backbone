@@ -1,5 +1,4 @@
-Pseudomonas salomonii Gardan et al., 2002 SPECIES
-=======
+# Pseudomonas salomonii Gardan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

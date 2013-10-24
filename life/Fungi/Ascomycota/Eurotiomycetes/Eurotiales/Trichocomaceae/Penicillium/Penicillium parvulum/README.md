@@ -1,5 +1,4 @@
-Penicillium parvulum S.W. Peterson & B.W. Horn SPECIES
-=======
+# Penicillium parvulum S.W. Peterson & B.W. Horn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barya montana Racib. SPECIES
-=======
+# Barya montana Racib. SPECIES
 
 #### Status
 ACCEPTED

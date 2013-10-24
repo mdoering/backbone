@@ -1,5 +1,4 @@
-Arthroascus babjevae G.I. Naumov & M.T. Sm. SPECIES
-=======
+# Arthroascus babjevae G.I. Naumov & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

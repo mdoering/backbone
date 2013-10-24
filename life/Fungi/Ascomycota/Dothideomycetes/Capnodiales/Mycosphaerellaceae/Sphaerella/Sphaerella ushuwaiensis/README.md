@@ -1,17 +1,16 @@
-Sphaerella ushuvaiensis Speg. SPECIES
-=======
+# Sphaerella ushuwaiensis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 208 (1888)
 
 #### Original name
-Sphaerella ushuvaiensis Speg.
+Sphaerella ushuwaiensis Speg.
 
 ### Remarks
 null

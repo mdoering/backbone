@@ -1,14 +1,13 @@
-Fracchiaea brevibarbata (Berk. & M.A. Curtis) Sacc., 1882 SPECIES
-=======
+# Cucurbitaria brevibarbata Berk. & M.A. Curtis, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 94 (1882)
+N. Amer. Fung. no. 822 (1875)
 
 #### Original name
 Cucurbitaria brevibarbata Berk. & M.A. Curtis, 1875

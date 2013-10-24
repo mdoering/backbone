@@ -1,5 +1,4 @@
-Pheoclosterium clavatum Uutela & Tynni, 1991 SPECIES
-=======
+# Pheoclosterium clavatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

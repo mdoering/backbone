@@ -1,5 +1,4 @@
-Phaeosphaerella mucosa (Starbäck) Tomilin SPECIES
-=======
+# Phaeosphaerella mucosa (Starbäck) Tomilin SPECIES
 
 #### Status
 ACCEPTED

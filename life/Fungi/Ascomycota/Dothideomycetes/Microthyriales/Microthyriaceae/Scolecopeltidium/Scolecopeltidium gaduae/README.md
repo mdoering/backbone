@@ -1,5 +1,4 @@
-Scolecopeltidium gaduae (Henn.) F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium gaduae (Henn.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinothyrium cunninghamiae Gucevic SPECIES
-=======
+# Actinothyrium cunninghamiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hornibrookina edwardsii K. Perch-Nielsen SPECIES
-=======
+# Hornibrookina edwardsii K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

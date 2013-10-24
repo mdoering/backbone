@@ -1,5 +1,4 @@
-Anophryoides soldoi Small & Lynn, 1985 SPECIES
-=======
+# Anophryoides soldoi Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

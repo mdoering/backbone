@@ -1,5 +1,4 @@
-Lycoperdon albidum Velen. SPECIES
-=======
+# Lycoperdon albidum Velen. SPECIES
 
 #### Status
 ACCEPTED

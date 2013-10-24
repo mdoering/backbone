@@ -1,5 +1,4 @@
-Boletus hydriensis (Hacq.) W. Voss SPECIES
-=======
+# Boletus hydriensis (Hacq.) W. Voss SPECIES
 
 #### Status
 ACCEPTED

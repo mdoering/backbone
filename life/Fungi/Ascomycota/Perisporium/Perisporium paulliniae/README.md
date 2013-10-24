@@ -1,5 +1,4 @@
-Perisporium paulliniae F. Stevens SPECIES
-=======
+# Perisporium paulliniae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

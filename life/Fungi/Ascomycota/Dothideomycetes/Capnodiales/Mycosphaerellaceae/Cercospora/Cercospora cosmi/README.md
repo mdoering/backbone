@@ -1,5 +1,4 @@
-Cercospora cosmi Chidd. SPECIES
-=======
+# Cercospora cosmi Chidd. SPECIES
 
 #### Status
 ACCEPTED

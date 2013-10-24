@@ -1,5 +1,4 @@
-Proleptomonadidae Howe, Bass, Vickerman & Cavalier-Smith, 2009 FAMILY
-=======
+# Proleptomonadidae Howe, Bass, Vickerman & Cavalier-Smith, 2009 FAMILY
 
 #### Status
 ACCEPTED

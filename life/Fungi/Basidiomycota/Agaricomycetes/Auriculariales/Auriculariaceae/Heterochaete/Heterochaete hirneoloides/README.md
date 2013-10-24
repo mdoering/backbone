@@ -1,5 +1,4 @@
-Heterochaete hirneoloides (Pat.) K. Wells SPECIES
-=======
+# Heterochaete hirneoloides (Pat.) K. Wells SPECIES
 
 #### Status
 ACCEPTED

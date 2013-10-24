@@ -1,5 +1,4 @@
-Serpentichona Yankovskii, 1973 GENUS
-=======
+# Serpentichona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

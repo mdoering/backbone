@@ -1,5 +1,4 @@
-Stereum ochraceum Lloyd SPECIES
-=======
+# Stereum ochraceum Lloyd SPECIES
 
 #### Status
 ACCEPTED

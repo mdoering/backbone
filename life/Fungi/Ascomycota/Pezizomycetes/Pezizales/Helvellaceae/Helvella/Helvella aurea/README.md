@@ -1,5 +1,4 @@
-Helvella aurea Bolton SPECIES
-=======
+# Helvella aurea Bolton SPECIES
 
 #### Status
 ACCEPTED

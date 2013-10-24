@@ -1,5 +1,4 @@
-Stephanolithion elongatum (Medd, 1979) Perch-Nielsen, 1984 SPECIES
-=======
+# Stephanolithion elongatum (Medd, 1979) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

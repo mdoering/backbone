@@ -1,5 +1,4 @@
-Lepiota engleriana Henn. SPECIES
-=======
+# Lepiota engleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

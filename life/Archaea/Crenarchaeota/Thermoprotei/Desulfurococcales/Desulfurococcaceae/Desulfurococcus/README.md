@@ -1,5 +1,4 @@
-Desulfurococcus Zillig & Stetter, 1983 GENUS
-=======
+# Desulfurococcus Zillig & Stetter, 1983 GENUS
 
 #### Status
 ACCEPTED

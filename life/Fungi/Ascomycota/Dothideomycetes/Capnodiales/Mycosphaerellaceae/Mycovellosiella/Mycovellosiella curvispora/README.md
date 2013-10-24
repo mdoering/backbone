@@ -1,5 +1,4 @@
-Mycovellosiella curvispora Goh & W.H. Hsieh SPECIES
-=======
+# Mycovellosiella curvispora Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

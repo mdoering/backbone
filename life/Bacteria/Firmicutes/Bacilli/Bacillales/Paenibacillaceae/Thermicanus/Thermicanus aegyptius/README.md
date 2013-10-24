@@ -1,5 +1,4 @@
-Thermicanus aegyptius Gössner et al., 2000 SPECIES
-=======
+# Thermicanus aegyptius Gössner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

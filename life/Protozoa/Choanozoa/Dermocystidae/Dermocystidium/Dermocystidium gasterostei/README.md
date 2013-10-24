@@ -1,5 +1,4 @@
-Dermocystidium gasterostei Elkan {?} SPECIES
-=======
+# Dermocystidium gasterostei Elkan {?} SPECIES
 
 #### Status
 ACCEPTED

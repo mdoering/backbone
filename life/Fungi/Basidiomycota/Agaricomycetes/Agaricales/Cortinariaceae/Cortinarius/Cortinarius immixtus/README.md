@@ -1,5 +1,4 @@
-Cortinarius immixtus Kauffman SPECIES
-=======
+# Cortinarius immixtus Kauffman SPECIES
 
 #### Status
 ACCEPTED

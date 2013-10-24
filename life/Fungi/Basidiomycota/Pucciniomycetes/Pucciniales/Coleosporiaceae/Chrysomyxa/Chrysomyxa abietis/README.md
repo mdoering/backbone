@@ -1,14 +1,13 @@
-Blennoria abietis Wallr., 1834 SPECIES
-=======
+# Chrysomyxa abietis (Wallr.) Unger, 1840 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Allgemeinen Forst. u Jagd. Zeitung, no. 17 17: 65 (1834)
+Beitr. vergleich. Pathologie 24 (1840)
 
 #### Original name
 Blennoria abietis Wallr., 1834

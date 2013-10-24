@@ -1,5 +1,4 @@
-Protoceratiaceae FAMILY
-=======
+# Protoceratiaceae FAMILY
 
 #### Status
 ACCEPTED

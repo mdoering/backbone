@@ -1,5 +1,4 @@
-Leptosphaeria vitensis Unamuno SPECIES
-=======
+# Leptosphaeria vitensis Unamuno SPECIES
 
 #### Status
 ACCEPTED

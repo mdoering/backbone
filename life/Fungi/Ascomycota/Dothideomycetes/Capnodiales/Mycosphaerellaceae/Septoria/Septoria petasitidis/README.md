@@ -1,5 +1,4 @@
-Septoria petasitidis Hemmi SPECIES
-=======
+# Septoria petasitidis Hemmi SPECIES
 
 #### Status
 ACCEPTED

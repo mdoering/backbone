@@ -1,5 +1,4 @@
-Eriomycopsis sigmoidea Deighton SPECIES
-=======
+# Eriomycopsis sigmoidea Deighton SPECIES
 
 #### Status
 ACCEPTED

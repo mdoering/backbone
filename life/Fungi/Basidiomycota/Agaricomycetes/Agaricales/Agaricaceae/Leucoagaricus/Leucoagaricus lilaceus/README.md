@@ -1,5 +1,4 @@
-Leucoagaricus lilaceus Singer SPECIES
-=======
+# Leucoagaricus lilaceus Singer SPECIES
 
 #### Status
 ACCEPTED

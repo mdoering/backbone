@@ -1,5 +1,4 @@
-Hendersonia gaubae Petr. SPECIES
-=======
+# Hendersonia gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

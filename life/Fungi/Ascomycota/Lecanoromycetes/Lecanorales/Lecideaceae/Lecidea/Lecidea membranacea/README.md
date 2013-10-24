@@ -1,5 +1,4 @@
-Lecidea membranacea Lynge SPECIES
-=======
+# Lecidea membranacea Lynge SPECIES
 
 #### Status
 ACCEPTED

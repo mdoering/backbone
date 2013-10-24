@@ -1,5 +1,4 @@
-Sklerochlamys fragilis Pascher SPECIES
-=======
+# Sklerochlamys fragilis Pascher SPECIES
 
 #### Status
 ACCEPTED

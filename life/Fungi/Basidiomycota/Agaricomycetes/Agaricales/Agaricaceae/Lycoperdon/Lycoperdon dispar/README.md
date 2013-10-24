@@ -1,5 +1,4 @@
-Lycoperdon dispar Batsch SPECIES
-=======
+# Lycoperdon dispar Batsch SPECIES
 
 #### Status
 ACCEPTED

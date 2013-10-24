@@ -1,5 +1,4 @@
-Humibacter Vaz-Moreira et al., 2008 GENUS
-=======
+# Humibacter Vaz-Moreira et al., 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cronartium delawayi Pat. SPECIES
-=======
+# Cronartium delawayi Pat. SPECIES
 
 #### Status
 ACCEPTED

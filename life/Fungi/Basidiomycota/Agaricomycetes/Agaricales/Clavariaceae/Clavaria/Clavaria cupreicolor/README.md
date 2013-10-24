@@ -1,5 +1,4 @@
-Clavaria cupreicolor R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria cupreicolor R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

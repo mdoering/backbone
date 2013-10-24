@@ -1,5 +1,4 @@
-Acritarcha PHYLUM
-=======
+# Acritarcha PHYLUM
 
 #### Status
 ACCEPTED

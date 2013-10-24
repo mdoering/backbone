@@ -1,5 +1,4 @@
-Lobaria luridescens (Stirt.) Zahlbr. SPECIES
-=======
+# Lobaria luridescens (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

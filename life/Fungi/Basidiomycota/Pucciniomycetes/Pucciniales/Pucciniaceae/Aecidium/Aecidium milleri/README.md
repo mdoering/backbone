@@ -1,5 +1,4 @@
-Aecidium milleri G. Cunn., 1924 SPECIES
-=======
+# Aecidium milleri G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia soldida SPECIES
-=======
+# Cothurnia soldida SPECIES
 
 #### Status
 ACCEPTED

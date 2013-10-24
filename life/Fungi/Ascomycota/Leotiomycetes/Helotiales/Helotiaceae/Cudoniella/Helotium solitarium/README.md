@@ -1,5 +1,4 @@
-Helotium solitarium Velen. SPECIES
-=======
+# Helotium solitarium Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma aegeritum (Fr.) Kuntze SPECIES
-=======
+# Scindalma aegeritum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

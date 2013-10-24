@@ -1,5 +1,4 @@
-Gloeobotrys terrestris Reisigl SPECIES
-=======
+# Gloeobotrys terrestris Reisigl SPECIES
 
 #### Status
 ACCEPTED

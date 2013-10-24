@@ -1,5 +1,4 @@
-Tomentella brunneocystidiata Yorou & Agerer SPECIES
-=======
+# Tomentella brunneocystidiata Yorou & Agerer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria lettaui Servít SPECIES
-=======
+# Verrucaria lettaui Servít SPECIES
 
 #### Status
 ACCEPTED

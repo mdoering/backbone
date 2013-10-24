@@ -1,5 +1,4 @@
-Annulodiscus granulatus Hajos, 1966 SPECIES
-=======
+# Annulodiscus granulatus Hajos, 1966 SPECIES
 
 #### Status
 ACCEPTED

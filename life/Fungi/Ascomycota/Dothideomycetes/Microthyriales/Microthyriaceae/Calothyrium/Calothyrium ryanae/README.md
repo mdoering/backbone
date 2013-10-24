@@ -1,5 +1,4 @@
-Calothyrium ryanae F. Stevens SPECIES
-=======
+# Calothyrium ryanae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

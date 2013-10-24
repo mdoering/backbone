@@ -1,14 +1,13 @@
-Plasmopara oplismeni Vienn.-Bourg., 1959 SPECIES
-=======
+# Viennotia oplismeni (Vienn.-Bourg.) Göker, Voglmayr, Riethm., Weiss & Oberw., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 75: 33 (1959)
+Can. J. Bot. 81(7): 682 (2003)
 
 #### Original name
 Plasmopara oplismeni Vienn.-Bourg., 1959

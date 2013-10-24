@@ -1,5 +1,4 @@
-Sphaerella oleina Cooke & Ravenel SPECIES
-=======
+# Sphaerella oleina Cooke & Ravenel SPECIES
 
 #### Status
 ACCEPTED

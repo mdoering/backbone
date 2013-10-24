@@ -1,5 +1,4 @@
-Discula cytosporea (Pass.) Arx, 1957 SPECIES
-=======
+# Discula cytosporea (Pass.) Arx, 1957 SPECIES
 
 #### Status
 ACCEPTED

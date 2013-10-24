@@ -1,5 +1,4 @@
-Lecidea toninioides SPECIES
-=======
+# Lecidea toninioides SPECIES
 
 #### Status
 ACCEPTED

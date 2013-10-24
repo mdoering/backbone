@@ -1,5 +1,4 @@
-Aecidium macrosporum Dietel & Neger SPECIES
-=======
+# Aecidium macrosporum Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turicibacter sanguinis Bosshard et al., 2002 SPECIES
-=======
+# Turicibacter sanguinis Bosshard et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

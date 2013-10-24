@@ -1,5 +1,4 @@
-Arthonia sphaerula Ach. SPECIES
-=======
+# Arthonia sphaerula Ach. SPECIES
 
 #### Status
 ACCEPTED

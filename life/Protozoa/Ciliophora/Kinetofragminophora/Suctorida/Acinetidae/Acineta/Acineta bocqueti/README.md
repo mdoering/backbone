@@ -1,5 +1,4 @@
-Acineta bocqueti Guilcher, 1950 SPECIES
-=======
+# Acineta bocqueti Guilcher, 1950 SPECIES
 
 #### Status
 ACCEPTED

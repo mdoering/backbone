@@ -1,5 +1,4 @@
-Laboulbenia andina Thaxt. SPECIES
-=======
+# Laboulbenia andina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

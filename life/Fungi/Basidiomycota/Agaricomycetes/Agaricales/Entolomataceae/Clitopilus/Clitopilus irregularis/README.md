@@ -1,5 +1,4 @@
-Clitopilus irregularis Peck SPECIES
-=======
+# Clitopilus irregularis Peck SPECIES
 
 #### Status
 ACCEPTED

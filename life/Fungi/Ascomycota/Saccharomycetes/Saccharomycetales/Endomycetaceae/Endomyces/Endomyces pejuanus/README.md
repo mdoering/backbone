@@ -1,5 +1,4 @@
-Endomyces pejuanus Zender SPECIES
-=======
+# Endomyces pejuanus Zender SPECIES
 
 #### Status
 ACCEPTED

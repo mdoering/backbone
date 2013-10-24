@@ -1,17 +1,16 @@
-Macropodia nigrella (Seaver) Teng, 1963 SPECIES
-=======
+# Plectania nannfeldtii Korf, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Chung-kuo Ti Chen-chun, [Fungi of China] 762 (1963)
+Mycologia 49(1): 109 (1957)
 
 #### Original name
-Paxina nigrella Seaver, 1928
+Plectania nannfeldtii Korf, 1957
 
 ### Remarks
 null

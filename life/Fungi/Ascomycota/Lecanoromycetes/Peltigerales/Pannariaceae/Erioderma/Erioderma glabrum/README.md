@@ -1,5 +1,4 @@
-Erioderma glabrum P. M. Jørg. SPECIES
-=======
+# Erioderma glabrum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha georgii Werner SPECIES
-=======
+# Opegrapha georgii Werner SPECIES
 
 #### Status
 ACCEPTED

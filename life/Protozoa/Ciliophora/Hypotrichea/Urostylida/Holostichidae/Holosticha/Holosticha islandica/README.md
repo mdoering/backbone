@@ -1,5 +1,4 @@
-Holosticha islandica Berger & Foissner, 1989 SPECIES
-=======
+# Holosticha islandica Berger & Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

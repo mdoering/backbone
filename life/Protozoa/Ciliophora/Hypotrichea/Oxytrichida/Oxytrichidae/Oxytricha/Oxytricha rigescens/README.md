@@ -1,5 +1,4 @@
-Oxytricha rigescens Kahl, 1932 SPECIES
-=======
+# Oxytricha rigescens Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

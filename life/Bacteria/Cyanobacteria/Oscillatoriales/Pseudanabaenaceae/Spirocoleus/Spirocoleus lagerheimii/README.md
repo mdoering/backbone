@@ -1,5 +1,4 @@
-Spirocoleus lagerheimii Möbius SPECIES
-=======
+# Spirocoleus lagerheimii Möbius SPECIES
 
 #### Status
 ACCEPTED

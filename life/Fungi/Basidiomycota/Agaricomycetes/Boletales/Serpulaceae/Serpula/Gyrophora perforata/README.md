@@ -1,5 +1,4 @@
-Gyrophora perforata Hafellner & Sancho SPECIES
-=======
+# Gyrophora perforata Hafellner & Sancho SPECIES
 
 #### Status
 ACCEPTED

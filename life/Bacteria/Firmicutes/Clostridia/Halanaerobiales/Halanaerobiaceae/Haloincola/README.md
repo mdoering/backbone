@@ -1,5 +1,4 @@
-Haloincola Zhilina et al., 1992 GENUS
-=======
+# Haloincola Zhilina et al., 1992 GENUS
 
 #### Status
 ACCEPTED

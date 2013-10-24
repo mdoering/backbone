@@ -1,17 +1,16 @@
-Grammothele hydnopora var. hydnopora VARIETY
-=======
+# Grammothele lineata Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 43 (1920)
+J. Linn. Soc. , Bot. 10(no. 46): 327 (1868)
 
 #### Original name
-Grammothele hydnopora var. hydnopora
+Grammothele lineata Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

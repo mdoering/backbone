@@ -1,5 +1,4 @@
-Retecapsa schizobrachiata SPECIES
-=======
+# Retecapsa schizobrachiata SPECIES
 
 #### Status
 ACCEPTED

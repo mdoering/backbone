@@ -1,5 +1,4 @@
-Ceriporiopsis obscura Ryvarden, 2000 SPECIES
-=======
+# Ceriporiopsis obscura Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

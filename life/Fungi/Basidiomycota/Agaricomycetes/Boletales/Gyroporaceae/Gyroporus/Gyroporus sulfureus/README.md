@@ -1,5 +1,4 @@
-Gyroporus sulfureus (Kalamees) Kalamees SPECIES
-=======
+# Gyroporus sulfureus (Kalamees) Kalamees SPECIES
 
 #### Status
 ACCEPTED

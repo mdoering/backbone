@@ -1,14 +1,13 @@
-Erynia magna (Humber) Remaud. & S. Keller, 1980 SPECIES
-=======
+# Strongwellsea magna Humber, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 333 (1980)
+Mycologia 68(5): 1057 (1976)
 
 #### Original name
 Strongwellsea magna Humber, 1976

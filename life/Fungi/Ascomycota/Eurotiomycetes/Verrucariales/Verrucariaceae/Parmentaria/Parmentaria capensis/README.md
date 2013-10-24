@@ -1,5 +1,4 @@
-Parmentaria capensis Zahlbr. SPECIES
-=======
+# Parmentaria capensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

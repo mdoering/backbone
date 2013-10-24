@@ -1,5 +1,4 @@
-Heterosporium centaureae Ranoj. SPECIES
-=======
+# Heterosporium centaureae Ranoj. SPECIES
 
 #### Status
 ACCEPTED

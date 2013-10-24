@@ -1,5 +1,4 @@
-Psilocybe recognita (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe recognita (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

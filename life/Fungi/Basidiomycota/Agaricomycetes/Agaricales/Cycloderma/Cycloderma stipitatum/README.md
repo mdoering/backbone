@@ -1,5 +1,4 @@
-Cycloderma stipitatum Pat. SPECIES
-=======
+# Cycloderma stipitatum Pat. SPECIES
 
 #### Status
 ACCEPTED

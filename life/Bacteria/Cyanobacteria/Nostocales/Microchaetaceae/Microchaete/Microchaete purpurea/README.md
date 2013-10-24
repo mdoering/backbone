@@ -1,5 +1,4 @@
-Microchaete purpurea J. Schmidt SPECIES
-=======
+# Microchaete purpurea J. Schmidt SPECIES
 
 #### Status
 ACCEPTED

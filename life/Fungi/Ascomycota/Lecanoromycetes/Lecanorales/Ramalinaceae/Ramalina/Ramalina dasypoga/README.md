@@ -1,5 +1,4 @@
-Ramalina dasypoga var. dasypoga VARIETY
-=======
+# Ramalina dasypoga Tuck. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Amer. J. Sci. Arts, Ser. 2 28: 203 (1859)
 
 #### Original name
-Ramalina dasypoga var. dasypoga
+Ramalina dasypoga Tuck.
 
 ### Remarks
 null

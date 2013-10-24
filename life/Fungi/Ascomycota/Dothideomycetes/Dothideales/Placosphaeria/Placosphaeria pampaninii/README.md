@@ -1,5 +1,4 @@
-Placosphaeria pampaninii Bacc. SPECIES
-=======
+# Placosphaeria pampaninii Bacc. SPECIES
 
 #### Status
 ACCEPTED

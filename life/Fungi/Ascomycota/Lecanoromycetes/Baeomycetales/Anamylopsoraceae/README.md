@@ -1,5 +1,4 @@
-Anamylopsoraceae Lumbsch & Lunke FAMILY
-=======
+# Anamylopsoraceae Lumbsch & Lunke FAMILY
 
 #### Status
 ACCEPTED

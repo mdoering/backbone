@@ -1,14 +1,13 @@
-Pocillaria zelandicus (Sacc. & Cub.) Kuntze, 1891 SPECIES
-=======
+# Lentinus zelandicus Sacc. & Cub., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Syll. fung. (Abellini) 5: 605 (1887)
 
 #### Original name
 Lentinus zelandicus Sacc. & Cub., 1887

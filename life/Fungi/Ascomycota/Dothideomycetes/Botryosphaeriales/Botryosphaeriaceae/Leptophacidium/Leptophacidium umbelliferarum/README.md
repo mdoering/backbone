@@ -1,5 +1,4 @@
-Leptophacidium umbelliferarum (Rabenh.) Höhn. SPECIES
-=======
+# Leptophacidium umbelliferarum (Rabenh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

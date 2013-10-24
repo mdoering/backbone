@@ -1,5 +1,4 @@
-Sphaeropsis conspersa (Schwein.) W.A. Archer, 1927 SPECIES
-=======
+# Sphaeropsis conspersa (Schwein.) W.A. Archer, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pachyloma Flot. SPECIES
-=======
+# Lecidea pachyloma Flot. SPECIES
 
 #### Status
 ACCEPTED

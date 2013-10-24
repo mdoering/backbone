@@ -1,5 +1,4 @@
-Bolivina goesii SPECIES
-=======
+# Bolivina goesii SPECIES
 
 #### Status
 ACCEPTED

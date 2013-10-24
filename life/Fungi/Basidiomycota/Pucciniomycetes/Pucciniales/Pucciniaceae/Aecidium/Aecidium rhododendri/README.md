@@ -1,5 +1,4 @@
-Aecidium rhododendri Barclay SPECIES
-=======
+# Aecidium rhododendri Barclay SPECIES
 
 #### Status
 ACCEPTED

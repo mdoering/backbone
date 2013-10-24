@@ -1,5 +1,4 @@
-Clitocybe subnimbata Rick SPECIES
-=======
+# Clitocybe subnimbata Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius lignyodes Berk. SPECIES
-=======
+# Marasmius lignyodes Berk. SPECIES
 
 #### Status
 ACCEPTED

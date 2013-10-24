@@ -1,5 +1,4 @@
-Calocera gracillima Weinm. SPECIES
-=======
+# Calocera gracillima Weinm. SPECIES
 
 #### Status
 ACCEPTED

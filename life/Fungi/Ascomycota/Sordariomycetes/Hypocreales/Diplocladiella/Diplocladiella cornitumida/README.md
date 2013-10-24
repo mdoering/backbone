@@ -1,5 +1,4 @@
-Diplocladiella cornitumida F.R. Barbosa, Gusmão & R.F. Castañeda SPECIES
-=======
+# Diplocladiella cornitumida F.R. Barbosa, Gusmão & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

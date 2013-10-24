@@ -1,5 +1,4 @@
-Massariovalsa Sacc. GENUS
-=======
+# Massariovalsa Sacc. GENUS
 
 #### Status
 ACCEPTED

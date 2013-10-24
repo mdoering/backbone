@@ -1,5 +1,4 @@
-Verrucaria punctata var. punctata VARIETY
-=======
+# Verrucaria punctata Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Deutschl. Fl. (Erlangen), Zweiter Theil 192 (1796)
 
 #### Original name
-Verrucaria punctata var. punctata
+Verrucaria punctata Hoffm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria platycarpiza Zahlbr. SPECIES
-=======
+# Pertusaria platycarpiza Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

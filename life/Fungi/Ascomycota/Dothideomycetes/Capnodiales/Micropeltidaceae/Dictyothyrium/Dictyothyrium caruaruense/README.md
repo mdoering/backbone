@@ -1,5 +1,4 @@
-Dictyothyrium caruaruense (Bat.) Arx SPECIES
-=======
+# Dictyothyrium caruaruense (Bat.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium yuccae Cooke SPECIES
-=======
+# Fusarium yuccae Cooke SPECIES
 
 #### Status
 ACCEPTED

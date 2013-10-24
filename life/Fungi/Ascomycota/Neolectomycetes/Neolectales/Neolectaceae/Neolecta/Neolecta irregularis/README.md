@@ -1,17 +1,16 @@
-Spragueola irregularis var. irregularis (Peck) Nannf. VARIETY
-=======
+# Neolecta irregularis (Peck) Korf & J.K. Rogers, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 21(4): 204 (1971)
 
 #### Original name
-Spragueola irregularis var. irregularis (Peck) Nannf.
+Geoglossum irregulare Peck, 1887
 
 ### Remarks
 null

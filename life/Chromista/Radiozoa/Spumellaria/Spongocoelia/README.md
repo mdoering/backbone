@@ -1,5 +1,4 @@
-Spongocoelia Hinde, 1899 GENUS
-=======
+# Spongocoelia Hinde, 1899 GENUS
 
 #### Status
 ACCEPTED

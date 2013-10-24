@@ -1,5 +1,4 @@
-Sporodictyon albescens (Nyl.) Trevis. SPECIES
-=======
+# Sporodictyon albescens (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

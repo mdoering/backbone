@@ -1,5 +1,4 @@
-Arthophacopsis Hafellner GENUS
-=======
+# Arthophacopsis Hafellner GENUS
 
 #### Status
 ACCEPTED

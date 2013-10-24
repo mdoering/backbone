@@ -1,5 +1,4 @@
-Blodgettia indica Subram. SPECIES
-=======
+# Blodgettia indica Subram. SPECIES
 
 #### Status
 ACCEPTED

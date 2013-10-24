@@ -1,5 +1,4 @@
-Coniochaeta nuciforme (Guarro, Gené, Al-Bader & Abdullah) Dania García, Stchigel & Guarro SPECIES
-=======
+# Coniochaeta nuciforme (Guarro, Gené, Al-Bader & Abdullah) Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

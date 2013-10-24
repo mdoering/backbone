@@ -1,5 +1,4 @@
-Fusariella formosana Matsush., 1985 SPECIES
-=======
+# Fusariella formosana Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

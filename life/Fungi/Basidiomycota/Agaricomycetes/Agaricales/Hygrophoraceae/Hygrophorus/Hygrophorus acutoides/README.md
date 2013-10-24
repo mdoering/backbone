@@ -1,5 +1,4 @@
-Hygrophorus acutoides A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus acutoides A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

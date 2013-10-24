@@ -1,5 +1,4 @@
-Passalora lantaniphila (Crous & M.J. Morris) Crous & U. Braun SPECIES
-=======
+# Passalora lantaniphila (Crous & M.J. Morris) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

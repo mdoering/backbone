@@ -1,5 +1,4 @@
-Sphaerotheca kusanoi Henn. & Shirai SPECIES
-=======
+# Sphaerotheca kusanoi Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium wistarianum Fairm. SPECIES
-=======
+# Camarosporium wistarianum Fairm. SPECIES
 
 #### Status
 ACCEPTED

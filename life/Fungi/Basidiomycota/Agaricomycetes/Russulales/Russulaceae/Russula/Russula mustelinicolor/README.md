@@ -1,5 +1,4 @@
-Russula mustelinicolor Reumaux, Moënne-Locc. & Bidaud SPECIES
-=======
+# Russula mustelinicolor Reumaux, Moënne-Locc. & Bidaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightoniella leonensis M.B. Ellis SPECIES
-=======
+# Deightoniella leonensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

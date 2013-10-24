@@ -1,5 +1,4 @@
-Cortinarius austrosaginus Gasparini SPECIES
-=======
+# Cortinarius austrosaginus Gasparini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum multiverrucosum (Kahl, 1933) Carey, 1991 SPECIES
-=======
+# Loxophyllum multiverrucosum (Kahl, 1933) Carey, 1991 SPECIES
 
 #### Status
 ACCEPTED

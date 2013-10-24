@@ -1,5 +1,4 @@
-Tornabenia africana A. Massal. SPECIES
-=======
+# Tornabenia africana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

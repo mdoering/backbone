@@ -1,5 +1,4 @@
-Septoria cucurbitae Montem. SPECIES
-=======
+# Septoria cucurbitae Montem. SPECIES
 
 #### Status
 ACCEPTED

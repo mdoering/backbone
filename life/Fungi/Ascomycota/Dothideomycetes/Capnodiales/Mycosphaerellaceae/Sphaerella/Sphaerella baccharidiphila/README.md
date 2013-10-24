@@ -1,5 +1,4 @@
-Sphaerella baccharidiphila Speg. SPECIES
-=======
+# Sphaerella baccharidiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

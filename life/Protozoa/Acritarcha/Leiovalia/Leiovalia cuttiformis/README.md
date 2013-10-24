@@ -1,5 +1,4 @@
-Leiovalia cuttiformis Pykhova in Bozhko et al., 1974 SPECIES
-=======
+# Leiovalia cuttiformis Pykhova in Bozhko et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

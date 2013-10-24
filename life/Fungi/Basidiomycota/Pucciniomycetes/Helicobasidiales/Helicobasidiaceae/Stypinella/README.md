@@ -1,5 +1,4 @@
-Stypinella GENUS
-=======
+# Stypinella GENUS
 
 #### Status
 ACCEPTED

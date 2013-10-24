@@ -1,5 +1,4 @@
-Agaricus fulveolus Lasch SPECIES
-=======
+# Agaricus fulveolus Lasch SPECIES
 
 #### Status
 ACCEPTED

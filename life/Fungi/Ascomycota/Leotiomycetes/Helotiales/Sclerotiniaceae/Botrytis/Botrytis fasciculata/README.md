@@ -1,5 +1,4 @@
-Botrytis fasciculata Ellis & Everh. SPECIES
-=======
+# Botrytis fasciculata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

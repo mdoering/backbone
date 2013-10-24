@@ -1,5 +1,4 @@
-Phomatospora muskellungensis Fallah & Shearer SPECIES
-=======
+# Phomatospora muskellungensis Fallah & Shearer SPECIES
 
 #### Status
 ACCEPTED

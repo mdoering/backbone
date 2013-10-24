@@ -1,5 +1,4 @@
-Lepiota haemorrhagica Cleland SPECIES
-=======
+# Lepiota haemorrhagica Cleland SPECIES
 
 #### Status
 ACCEPTED

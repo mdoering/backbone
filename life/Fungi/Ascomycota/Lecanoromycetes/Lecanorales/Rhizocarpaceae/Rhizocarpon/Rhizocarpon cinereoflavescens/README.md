@@ -1,5 +1,4 @@
-Rhizocarpon cinereoflavescens SPECIES
-=======
+# Rhizocarpon cinereoflavescens SPECIES
 
 #### Status
 ACCEPTED

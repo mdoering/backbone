@@ -1,17 +1,16 @@
-Curvularia carica-papayae H.P. Srivast. & Bilgrami SPECIES
-=======
+# Curvularia caricae-papayae H.P. Srivast. & Bilgrami SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 32(12): 559 (1963)
 
 #### Original name
-Curvularia carica-papayae H.P. Srivast. & Bilgrami
+Curvularia caricae-papayae H.P. Srivast. & Bilgrami
 
 ### Remarks
 null

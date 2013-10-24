@@ -1,5 +1,4 @@
-Chaetodiplodia cubensis Bat. & Nascim. SPECIES
-=======
+# Chaetodiplodia cubensis Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

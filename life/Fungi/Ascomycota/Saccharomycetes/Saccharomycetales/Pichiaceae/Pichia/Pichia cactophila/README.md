@@ -1,5 +1,4 @@
-Pichia cactophila Starmer, Phaff, M. Miranda & M.W. Mill., 1978 SPECIES
-=======
+# Pichia cactophila Starmer, Phaff, M. Miranda & M.W. Mill., 1978 SPECIES
 
 #### Status
 ACCEPTED

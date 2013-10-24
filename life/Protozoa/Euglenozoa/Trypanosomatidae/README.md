@@ -1,5 +1,4 @@
-Trypanosomatidae Doflein, 1911 FAMILY
-=======
+# Trypanosomatidae Doflein, 1911 FAMILY
 
 #### Status
 ACCEPTED

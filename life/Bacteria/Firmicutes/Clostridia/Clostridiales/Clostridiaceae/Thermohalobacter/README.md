@@ -1,5 +1,4 @@
-Thermohalobacter Cayol, Ducerf, Patel, Garcia, Thomas & Ollivier, 2000 GENUS
-=======
+# Thermohalobacter Cayol, Ducerf, Patel, Garcia, Thomas & Ollivier, 2000 GENUS
 
 #### Status
 ACCEPTED

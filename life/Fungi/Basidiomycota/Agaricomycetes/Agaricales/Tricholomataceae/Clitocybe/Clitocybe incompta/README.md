@@ -1,5 +1,4 @@
-Clitocybe incompta Fr. SPECIES
-=======
+# Clitocybe incompta Fr. SPECIES
 
 #### Status
 ACCEPTED

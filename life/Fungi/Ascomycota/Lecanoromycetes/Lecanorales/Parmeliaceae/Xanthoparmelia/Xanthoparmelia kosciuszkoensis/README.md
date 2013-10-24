@@ -1,5 +1,4 @@
-Xanthoparmelia kosciuszkoensis Elix SPECIES
-=======
+# Xanthoparmelia kosciuszkoensis Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria incrassata Chevall. SPECIES
-=======
+# Clavaria incrassata Chevall. SPECIES
 
 #### Status
 ACCEPTED

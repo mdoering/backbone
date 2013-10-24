@@ -1,5 +1,4 @@
-Cercospora greciana Syd. SPECIES
-=======
+# Cercospora greciana Syd. SPECIES
 
 #### Status
 ACCEPTED

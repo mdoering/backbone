@@ -1,5 +1,4 @@
-Punctaria pilosa Umezaki SPECIES
-=======
+# Punctaria pilosa Umezaki SPECIES
 
 #### Status
 ACCEPTED

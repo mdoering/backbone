@@ -1,5 +1,4 @@
-Daldinia cingulata (Lév.) Sacc. SPECIES
-=======
+# Daldinia cingulata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea pedicellata Sowerby SPECIES
-=======
+# Phialea pedicellata Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrimasporonites magnus Haseld. SPECIES
-=======
+# Lacrimasporonites magnus Haseld. SPECIES
 
 #### Status
 ACCEPTED

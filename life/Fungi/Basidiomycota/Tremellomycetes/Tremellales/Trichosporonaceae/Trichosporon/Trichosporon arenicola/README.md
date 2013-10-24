@@ -1,5 +1,4 @@
-Trichosporon arenicola J.A. Lima & L.A. Queiroz SPECIES
-=======
+# Trichosporon arenicola J.A. Lima & L.A. Queiroz SPECIES
 
 #### Status
 ACCEPTED

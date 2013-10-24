@@ -1,5 +1,4 @@
-Sulfolobales Stetter, 1989 ORDER
-=======
+# Sulfolobales Stetter, 1989 ORDER
 
 #### Status
 ACCEPTED

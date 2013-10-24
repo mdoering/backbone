@@ -1,5 +1,4 @@
-Bothroligotriletes plicatilis Timofeev, 1959 SPECIES
-=======
+# Bothroligotriletes plicatilis Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

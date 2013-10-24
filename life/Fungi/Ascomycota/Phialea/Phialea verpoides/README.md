@@ -1,5 +1,4 @@
-Phialea verpoides (Saut.) Sacc. SPECIES
-=======
+# Phialea verpoides (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sarcorhopalum Rabenh. GENUS
-=======
+# Taphrina E.M. Fries, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bot. Ztg. 9: 627 (1851)
+null
 
 #### Original name
-Sarcorhopalum Rabenh.
+null
 
 ### Remarks
 null

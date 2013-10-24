@@ -1,5 +1,4 @@
-Cercosporella anamirtae Hosag. & R.K. Verma SPECIES
-=======
+# Cercosporella anamirtae Hosag. & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

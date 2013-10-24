@@ -1,5 +1,4 @@
-Dicellaesporites obnixus G. Norris SPECIES
-=======
+# Dicellaesporites obnixus G. Norris SPECIES
 
 #### Status
 ACCEPTED

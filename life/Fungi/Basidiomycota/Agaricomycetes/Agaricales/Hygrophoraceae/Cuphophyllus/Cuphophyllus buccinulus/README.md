@@ -1,5 +1,4 @@
-Cuphophyllus buccinulus (Speg.) Courtec. SPECIES
-=======
+# Cuphophyllus buccinulus (Speg.) Courtec. SPECIES
 
 #### Status
 ACCEPTED

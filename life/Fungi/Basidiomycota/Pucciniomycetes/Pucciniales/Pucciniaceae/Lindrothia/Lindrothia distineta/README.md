@@ -1,5 +1,4 @@
-Lindrothia distineta SPECIES
-=======
+# Lindrothia distineta SPECIES
 
 #### Status
 ACCEPTED

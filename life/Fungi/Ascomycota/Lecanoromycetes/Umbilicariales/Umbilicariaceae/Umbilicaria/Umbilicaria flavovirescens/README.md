@@ -1,5 +1,4 @@
-Umbilicaria flavovirescens Leight. SPECIES
-=======
+# Umbilicaria flavovirescens Leight. SPECIES
 
 #### Status
 ACCEPTED

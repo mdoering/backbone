@@ -1,5 +1,4 @@
-Phyllosticta lolii Lagière SPECIES
-=======
+# Phyllosticta lolii Lagière SPECIES
 
 #### Status
 ACCEPTED

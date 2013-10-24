@@ -1,5 +1,4 @@
-Psathyrella wapinitaensis Kempton & A.H. Sm. SPECIES
-=======
+# Psathyrella wapinitaensis Kempton & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

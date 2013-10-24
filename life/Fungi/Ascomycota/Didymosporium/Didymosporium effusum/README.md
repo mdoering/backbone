@@ -1,5 +1,4 @@
-Didymosporium effusum var. effusum VARIETY
-=======
+# Didymosporium effusum Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosporium effusum var. effusum
+Didymosporium effusum Schwein.
 
 ### Remarks
 null

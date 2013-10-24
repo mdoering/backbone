@@ -1,5 +1,4 @@
-Trichodina uretra SPECIES
-=======
+# Trichodina uretra SPECIES
 
 #### Status
 ACCEPTED

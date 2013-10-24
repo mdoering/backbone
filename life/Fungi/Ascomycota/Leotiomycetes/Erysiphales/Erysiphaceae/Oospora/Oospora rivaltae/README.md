@@ -1,5 +1,4 @@
-Oospora rivaltae Sacc. & P. Syd. SPECIES
-=======
+# Oospora rivaltae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mycena subglobosa (Berk. & M.A. Curtis) Pegler, 1987 SPECIES
-=======
+# Roridomyces subglobosus (Berk. & M.A. Curtis) Rexer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 42(3): 571 (1987)
+Die Gattung Mycena s. l. (Tübingen), Studien zu Ihrer Anatomie, Morphologie und Systematik 304 (1994)
 
 #### Original name
 Marasmius subglobosus Berk. & M.A. Curtis, 1868

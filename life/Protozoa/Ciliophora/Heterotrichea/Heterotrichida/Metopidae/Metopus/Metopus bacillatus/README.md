@@ -1,5 +1,4 @@
-Metopus bacillatus subsp. bacillatus SUBSPECIES
-=======
+# Metopus bacillatus Levander, 1894 SPECIES
 
 #### Status
 ACCEPTED

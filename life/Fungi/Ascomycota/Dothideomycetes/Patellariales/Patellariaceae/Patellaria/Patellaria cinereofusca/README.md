@@ -1,5 +1,4 @@
-Patellaria cinereofusca (Weber) Hoffm. SPECIES
-=======
+# Patellaria cinereofusca (Weber) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

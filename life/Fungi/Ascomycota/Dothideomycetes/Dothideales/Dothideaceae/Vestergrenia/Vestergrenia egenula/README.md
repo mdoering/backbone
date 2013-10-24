@@ -1,5 +1,4 @@
-Vestergrenia egenula (Syd.) Arx & E. Müll. SPECIES
-=======
+# Vestergrenia egenula (Syd.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

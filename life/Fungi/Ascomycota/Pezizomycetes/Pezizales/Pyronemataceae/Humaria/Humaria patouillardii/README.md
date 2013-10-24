@@ -1,8 +1,7 @@
-Humaria patouillardi Gillet & Sacc. SPECIES
-=======
+# Humaria patouillardii Gillet & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Humaria patouillardi Gillet & Sacc.
+Humaria patouillardii Gillet & Sacc.
 
 ### Remarks
 null

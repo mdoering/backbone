@@ -1,5 +1,4 @@
-Characiopsis curvata (G.M. Smith) Skuja SPECIES
-=======
+# Characiopsis curvata (G.M. Smith) Skuja SPECIES
 
 #### Status
 ACCEPTED

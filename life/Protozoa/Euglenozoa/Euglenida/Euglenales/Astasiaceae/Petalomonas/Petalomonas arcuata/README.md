@@ -1,5 +1,4 @@
-Petalomonas arcuata Hollande SPECIES
-=======
+# Petalomonas arcuata Hollande SPECIES
 
 #### Status
 ACCEPTED

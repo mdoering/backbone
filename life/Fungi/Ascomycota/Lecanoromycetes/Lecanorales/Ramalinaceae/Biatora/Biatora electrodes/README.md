@@ -1,5 +1,4 @@
-Biatora electrodes (Stirt.) Hellb. SPECIES
-=======
+# Biatora electrodes (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

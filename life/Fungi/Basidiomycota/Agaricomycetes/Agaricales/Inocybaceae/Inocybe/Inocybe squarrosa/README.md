@@ -1,17 +1,16 @@
-Inocybe squarrosa var. macrosperma Esteve-Rav. & Tabarés VARIETY
-=======
+# Inocybe squarrosa Rea, 1916 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Catalana de Micologia 22: 145 (1999)
+Trans. Br. mycol. Soc. 5(2): 250 (1915)
 
 #### Original name
-Inocybe squarrosa var. macrosperma Esteve-Rav. & Tabarés
+Inocybe squarrosa Rea, 1916
 
 ### Remarks
 null

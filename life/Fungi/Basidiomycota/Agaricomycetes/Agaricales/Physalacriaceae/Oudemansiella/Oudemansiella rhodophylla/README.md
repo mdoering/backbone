@@ -1,5 +1,4 @@
-Oudemansiella rhodophylla Mizuta SPECIES
-=======
+# Oudemansiella rhodophylla Mizuta SPECIES
 
 #### Status
 ACCEPTED

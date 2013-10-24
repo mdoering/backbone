@@ -1,5 +1,4 @@
-Coniothyrium lauri-nobilis (Brunaud) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium lauri-nobilis (Brunaud) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

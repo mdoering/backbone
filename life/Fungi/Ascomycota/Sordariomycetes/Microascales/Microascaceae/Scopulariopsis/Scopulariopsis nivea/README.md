@@ -1,5 +1,4 @@
-Scopulariopsis nivea Demelius SPECIES
-=======
+# Scopulariopsis nivea Demelius SPECIES
 
 #### Status
 ACCEPTED

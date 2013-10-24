@@ -1,5 +1,4 @@
-Septoria ixeridis-chinensis Sawada SPECIES
-=======
+# Septoria ixeridis-chinensis Sawada SPECIES
 
 #### Status
 ACCEPTED

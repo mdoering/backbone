@@ -1,5 +1,4 @@
-Sphaerulina boudieriana Sacc. & Malbr. SPECIES
-=======
+# Sphaerulina boudieriana Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

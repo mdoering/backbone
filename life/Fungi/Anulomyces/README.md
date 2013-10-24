@@ -1,5 +1,4 @@
-Anulomyces Bydgosz, 1932 GENUS
-=======
+# Anulomyces Bydgosz, 1932 GENUS
 
 #### Status
 ACCEPTED

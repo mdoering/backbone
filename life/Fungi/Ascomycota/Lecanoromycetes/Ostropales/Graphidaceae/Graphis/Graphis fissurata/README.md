@@ -1,5 +1,4 @@
-Graphis fissurata M. Nakan. & H. Harada SPECIES
-=======
+# Graphis fissurata M. Nakan. & H. Harada SPECIES
 
 #### Status
 ACCEPTED

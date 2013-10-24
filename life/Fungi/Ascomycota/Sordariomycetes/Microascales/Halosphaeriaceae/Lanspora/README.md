@@ -1,5 +1,4 @@
-Lanspora K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Lanspora K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Graphis elixii A. W. Archer SPECIES
-=======
+# Fissurina elixii (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Australasian Lichenology 43: 16 (1998)
+Telopea 11(1): 71 (2005)
 
 #### Original name
 Graphis elixii A. W. Archer

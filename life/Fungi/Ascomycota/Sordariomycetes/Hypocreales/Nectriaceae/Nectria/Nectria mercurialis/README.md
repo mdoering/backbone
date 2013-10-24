@@ -1,5 +1,4 @@
-Nectria mercurialis Boud. SPECIES
-=======
+# Nectria mercurialis Boud. SPECIES
 
 #### Status
 ACCEPTED

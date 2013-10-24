@@ -1,5 +1,4 @@
-Cantharellus lateritius (Berk.) Singer SPECIES
-=======
+# Cantharellus lateritius (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus pulmonariellus P. Karst. SPECIES
-=======
+# Pleurotus pulmonariellus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia pusilla SPECIES
-=======
+# Globorotalia pusilla SPECIES
 
 #### Status
 ACCEPTED

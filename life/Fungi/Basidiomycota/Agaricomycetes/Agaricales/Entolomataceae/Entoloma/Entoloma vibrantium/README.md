@@ -1,5 +1,4 @@
-Entoloma vibrantium E. Horak SPECIES
-=======
+# Entoloma vibrantium E. Horak SPECIES
 
 #### Status
 ACCEPTED

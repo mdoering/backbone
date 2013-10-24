@@ -1,5 +1,4 @@
-Stomiopeltis lophirae C. Moreau & M. Moreau SPECIES
-=======
+# Stomiopeltis lophirae C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

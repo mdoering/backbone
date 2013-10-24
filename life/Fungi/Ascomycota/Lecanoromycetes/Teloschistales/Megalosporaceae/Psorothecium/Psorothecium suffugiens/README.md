@@ -1,5 +1,4 @@
-Psorothecium suffugiens (Nyl.) Forssell SPECIES
-=======
+# Psorothecium suffugiens (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

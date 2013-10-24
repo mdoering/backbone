@@ -1,5 +1,4 @@
-Oidium lanneae G.J.M. Gorter & Eicker SPECIES
-=======
+# Oidium lanneae G.J.M. Gorter & Eicker SPECIES
 
 #### Status
 ACCEPTED

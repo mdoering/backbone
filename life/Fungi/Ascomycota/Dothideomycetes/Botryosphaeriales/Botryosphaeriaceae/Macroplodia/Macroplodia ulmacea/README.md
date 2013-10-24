@@ -1,5 +1,4 @@
-Macroplodia ulmacea (P. Karst.) Kuntze SPECIES
-=======
+# Macroplodia ulmacea (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

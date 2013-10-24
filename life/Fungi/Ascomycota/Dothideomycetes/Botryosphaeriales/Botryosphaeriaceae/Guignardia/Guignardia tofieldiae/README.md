@@ -1,5 +1,4 @@
-Guignardia tofieldiae (F. Lamb. & Fautrey) Arx & E. Müll. SPECIES
-=======
+# Guignardia tofieldiae (F. Lamb. & Fautrey) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

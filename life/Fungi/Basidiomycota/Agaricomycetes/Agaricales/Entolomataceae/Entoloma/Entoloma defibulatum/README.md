@@ -1,5 +1,4 @@
-Entoloma defibulatum Arnolds & Noordel. SPECIES
-=======
+# Entoloma defibulatum Arnolds & Noordel. SPECIES
 
 #### Status
 ACCEPTED

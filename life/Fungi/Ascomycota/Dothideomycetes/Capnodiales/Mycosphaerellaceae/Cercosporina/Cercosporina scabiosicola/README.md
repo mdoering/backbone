@@ -1,5 +1,4 @@
-Cercosporina scabiosicola (Rangel) Sacc. SPECIES
-=======
+# Cercosporina scabiosicola (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema echinatum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema echinatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

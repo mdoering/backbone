@@ -1,5 +1,4 @@
-Phyllachora vochysiae Henn., 1905 SPECIES
-=======
+# Phyllachora vochysiae Henn., 1905 SPECIES
 
 #### Status
 ACCEPTED

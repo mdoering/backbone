@@ -1,5 +1,4 @@
-Mycosphaerella orthospora Clem., 1908 SPECIES
-=======
+# Mycosphaerella orthospora Clem., 1908 SPECIES
 
 #### Status
 ACCEPTED

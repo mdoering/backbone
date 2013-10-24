@@ -1,5 +1,4 @@
-Albotricha miniata (Kanouse) Raitv. SPECIES
-=======
+# Albotricha miniata (Kanouse) Raitv. SPECIES
 
 #### Status
 ACCEPTED

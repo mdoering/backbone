@@ -1,5 +1,4 @@
-Pleospora batumensis Naumov {?} SPECIES
-=======
+# Pleospora batumensis Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

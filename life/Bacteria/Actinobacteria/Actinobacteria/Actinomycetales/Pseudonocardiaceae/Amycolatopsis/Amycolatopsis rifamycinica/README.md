@@ -1,5 +1,4 @@
-Amycolatopsis rifamycinica Bala et al., 2004 SPECIES
-=======
+# Amycolatopsis rifamycinica Bala et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

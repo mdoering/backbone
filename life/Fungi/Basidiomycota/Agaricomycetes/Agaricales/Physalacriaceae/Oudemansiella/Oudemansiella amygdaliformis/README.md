@@ -1,5 +1,4 @@
-Oudemansiella amygdaliformis var. amygdaliformis VARIETY
-=======
+# Oudemansiella amygdaliformis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Mycol. Sin. 12(1): 23 (1993)
 
 #### Original name
-Oudemansiella amygdaliformis var. amygdaliformis
+Oudemansiella amygdaliformis
 
 ### Remarks
 null

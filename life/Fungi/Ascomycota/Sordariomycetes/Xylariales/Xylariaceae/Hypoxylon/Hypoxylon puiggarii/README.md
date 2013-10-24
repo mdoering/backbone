@@ -1,5 +1,4 @@
-Hypoxylon puiggarii Speg. SPECIES
-=======
+# Hypoxylon puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

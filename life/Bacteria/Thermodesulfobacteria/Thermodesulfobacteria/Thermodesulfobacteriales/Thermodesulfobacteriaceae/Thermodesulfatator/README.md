@@ -1,5 +1,4 @@
-Thermodesulfatator Moussard et al., 2004 GENUS
-=======
+# Thermodesulfatator Moussard et al., 2004 GENUS
 
 #### Status
 ACCEPTED

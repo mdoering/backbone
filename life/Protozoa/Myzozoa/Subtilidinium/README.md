@@ -1,5 +1,4 @@
-Subtilidinium Morgenroth GENUS
-=======
+# Subtilidinium Morgenroth GENUS
 
 #### Status
 ACCEPTED

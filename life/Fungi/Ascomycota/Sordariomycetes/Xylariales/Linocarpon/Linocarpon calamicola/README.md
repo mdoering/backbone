@@ -1,5 +1,4 @@
-Linocarpon calamicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Linocarpon calamicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

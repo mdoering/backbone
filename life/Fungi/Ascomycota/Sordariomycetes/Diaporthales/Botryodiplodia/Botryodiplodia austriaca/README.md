@@ -1,5 +1,4 @@
-Botryodiplodia austriaca Petr. SPECIES
-=======
+# Botryodiplodia austriaca Petr. SPECIES
 
 #### Status
 ACCEPTED

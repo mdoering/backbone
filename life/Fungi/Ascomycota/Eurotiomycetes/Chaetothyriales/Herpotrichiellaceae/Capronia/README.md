@@ -1,17 +1,16 @@
-Dictyotrichiella Munk GENUS
-=======
+# Capronia Saccardo, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 15(no. 2): 132 (1953)
+Syll. fung. (Abellini) 2: 288 (1883)
 
 #### Original name
-Dictyotrichiella Munk
+Capronia Saccardo, 1883
 
 ### Remarks
 null

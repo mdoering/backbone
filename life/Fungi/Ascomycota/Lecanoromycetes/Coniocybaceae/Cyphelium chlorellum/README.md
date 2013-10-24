@@ -1,5 +1,4 @@
-Cyphelium chlorellum Wahlenb. SPECIES
-=======
+# Cyphelium chlorellum Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

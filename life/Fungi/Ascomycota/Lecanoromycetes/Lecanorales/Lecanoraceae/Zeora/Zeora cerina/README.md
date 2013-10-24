@@ -1,5 +1,4 @@
-Zeora cerina SPECIES
-=======
+# Zeora cerina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecozonia inspersa (Flörke) Trevis. SPECIES
-=======
+# Lecozonia inspersa (Flörke) Trevis. SPECIES
 
 #### Status
 ACCEPTED

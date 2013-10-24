@@ -1,5 +1,4 @@
-Bryopogon delicatus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon delicatus (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

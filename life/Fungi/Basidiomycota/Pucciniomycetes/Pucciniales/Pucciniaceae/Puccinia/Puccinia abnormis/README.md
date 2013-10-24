@@ -1,5 +1,4 @@
-Puccinia abnormis Henn. SPECIES
-=======
+# Puccinia abnormis Henn. SPECIES
 
 #### Status
 ACCEPTED

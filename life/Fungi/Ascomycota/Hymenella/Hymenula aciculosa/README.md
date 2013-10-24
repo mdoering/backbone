@@ -1,5 +1,4 @@
-Hymenula aciculosa Ellis & Harkn. SPECIES
-=======
+# Hymenula aciculosa Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

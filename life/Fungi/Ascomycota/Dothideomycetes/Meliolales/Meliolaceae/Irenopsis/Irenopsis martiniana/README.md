@@ -1,5 +1,4 @@
-Irenopsis martiniana (Gaillard) F. Stevens SPECIES
-=======
+# Irenopsis martiniana (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

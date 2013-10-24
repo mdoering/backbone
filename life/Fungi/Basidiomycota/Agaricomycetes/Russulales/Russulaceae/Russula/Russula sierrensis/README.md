@@ -1,5 +1,4 @@
-Russula sierrensis Thiers SPECIES
-=======
+# Russula sierrensis Thiers SPECIES
 
 #### Status
 ACCEPTED

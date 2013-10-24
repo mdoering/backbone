@@ -1,5 +1,4 @@
-Hygrophorus flavoluteus Murrill SPECIES
-=======
+# Hygrophorus flavoluteus Murrill SPECIES
 
 #### Status
 ACCEPTED

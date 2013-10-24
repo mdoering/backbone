@@ -1,5 +1,4 @@
-Gyrocerus resinae Jaap SPECIES
-=======
+# Gyrocerus resinae Jaap SPECIES
 
 #### Status
 ACCEPTED

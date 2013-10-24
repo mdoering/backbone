@@ -1,5 +1,4 @@
-Graphis subtriticea Nyl. SPECIES
-=======
+# Graphis subtriticea Nyl. SPECIES
 
 #### Status
 ACCEPTED

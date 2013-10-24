@@ -1,17 +1,16 @@
-Sphaeria acuta var. acuta VARIETY
-=======
+# Leptosphaeria acuta (Moug. & Nestl.) P. Karst., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoth. fenn. (Helsinki) 2: 98 (1873)
 
 #### Original name
-Sphaeria acuta var. acuta
+Sphaeria acuta Moug. & Nestl.
 
 ### Remarks
 null

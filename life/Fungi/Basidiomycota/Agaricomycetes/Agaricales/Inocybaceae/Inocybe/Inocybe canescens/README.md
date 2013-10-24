@@ -1,5 +1,4 @@
-Inocybe canescens J. Favre SPECIES
-=======
+# Inocybe canescens J. Favre SPECIES
 
 #### Status
 ACCEPTED

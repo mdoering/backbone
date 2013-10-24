@@ -1,5 +1,4 @@
-Hypophyllum torminosus Paulet SPECIES
-=======
+# Hypophyllum torminosus Paulet SPECIES
 
 #### Status
 ACCEPTED

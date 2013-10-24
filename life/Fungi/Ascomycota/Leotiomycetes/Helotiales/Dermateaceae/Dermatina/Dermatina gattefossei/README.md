@@ -1,5 +1,4 @@
-Dermatina gattefossei Maheu & Werner SPECIES
-=======
+# Dermatina gattefossei Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

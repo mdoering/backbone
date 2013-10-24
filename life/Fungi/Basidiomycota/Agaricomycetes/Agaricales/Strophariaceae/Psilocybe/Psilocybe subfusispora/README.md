@@ -1,5 +1,4 @@
-Psilocybe subfusispora (F.H. Møller) E. Horak SPECIES
-=======
+# Psilocybe subfusispora (F.H. Møller) E. Horak SPECIES
 
 #### Status
 ACCEPTED

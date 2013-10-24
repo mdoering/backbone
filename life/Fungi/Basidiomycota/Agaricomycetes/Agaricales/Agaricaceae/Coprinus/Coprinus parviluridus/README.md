@@ -1,5 +1,4 @@
-Coprinus parviluridus Bogart SPECIES
-=======
+# Coprinus parviluridus Bogart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium lettaui (Servít) Servít SPECIES
-=======
+# Amphoridium lettaui (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

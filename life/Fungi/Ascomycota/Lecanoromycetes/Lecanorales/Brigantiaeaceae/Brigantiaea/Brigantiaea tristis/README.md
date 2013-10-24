@@ -1,5 +1,4 @@
-Brigantiaea tristis (Mont.) Trevis. SPECIES
-=======
+# Brigantiaea tristis (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

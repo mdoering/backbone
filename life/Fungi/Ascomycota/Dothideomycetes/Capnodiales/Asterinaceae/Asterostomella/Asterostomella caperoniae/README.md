@@ -1,5 +1,4 @@
-Asterostomella caperoniae Speg. SPECIES
-=======
+# Asterostomella caperoniae Speg. SPECIES
 
 #### Status
 ACCEPTED

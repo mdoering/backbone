@@ -1,5 +1,4 @@
-Gongylia muscorum Zschacke SPECIES
-=======
+# Gongylia muscorum Zschacke SPECIES
 
 #### Status
 ACCEPTED

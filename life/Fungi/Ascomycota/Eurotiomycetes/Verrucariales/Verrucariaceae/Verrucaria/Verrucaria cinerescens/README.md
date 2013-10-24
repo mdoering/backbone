@@ -1,5 +1,4 @@
-Verrucaria cinerescens (A. Massal.) Garov. SPECIES
-=======
+# Verrucaria cinerescens (A. Massal.) Garov. SPECIES
 
 #### Status
 ACCEPTED

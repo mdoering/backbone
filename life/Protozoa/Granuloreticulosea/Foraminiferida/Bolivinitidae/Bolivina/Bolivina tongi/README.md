@@ -1,5 +1,4 @@
-Bolivina tongi SPECIES
-=======
+# Bolivina tongi SPECIES
 
 #### Status
 ACCEPTED

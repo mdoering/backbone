@@ -1,5 +1,4 @@
-Cryptothelium andamanicum Makhija & Patw. SPECIES
-=======
+# Cryptothelium andamanicum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

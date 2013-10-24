@@ -1,5 +1,4 @@
-Protoblastenia manipurensis (Kr.P. Singh) G. Pant & D.D. Awasthi SPECIES
-=======
+# Protoblastenia manipurensis (Kr.P. Singh) G. Pant & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

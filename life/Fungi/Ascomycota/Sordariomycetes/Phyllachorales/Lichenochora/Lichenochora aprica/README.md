@@ -1,5 +1,4 @@
-Lichenochora aprica Hafellner & Nik. Hoffm., 2000 SPECIES
-=======
+# Lichenochora aprica Hafellner & Nik. Hoffm., 2000 SPECIES
 
 #### Status
 ACCEPTED

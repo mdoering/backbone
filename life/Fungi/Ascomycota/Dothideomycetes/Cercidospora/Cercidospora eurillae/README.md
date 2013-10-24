@@ -1,5 +1,4 @@
-Cercidospora eurillae (Pass.) Kuntze SPECIES
-=======
+# Cercidospora eurillae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

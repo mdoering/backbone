@@ -1,5 +1,4 @@
-Gambierdiscus pacificus M. Chinain & M. Faust SPECIES
-=======
+# Gambierdiscus pacificus M. Chinain & M. Faust SPECIES
 
 #### Status
 ACCEPTED

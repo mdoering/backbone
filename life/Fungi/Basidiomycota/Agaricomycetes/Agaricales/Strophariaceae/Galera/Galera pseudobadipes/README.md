@@ -1,5 +1,4 @@
-Galera pseudobadipes (Joss.) SPECIES
-=======
+# Galera pseudobadipes (Joss.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Drosophila pseudocasca Romagn., 1952 SPECIES
-=======
+# Psathyrella pseudocasca (Romagn.) Kits van Wav., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 21: 154 (1952)
+Persoonia 11(4): 500 (1982)
 
 #### Original name
 Drosophila pseudocasca Romagn., 1952

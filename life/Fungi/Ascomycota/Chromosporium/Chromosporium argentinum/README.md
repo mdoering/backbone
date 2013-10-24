@@ -1,5 +1,4 @@
-Chromosporium argentinum Sacc. & P. Syd. SPECIES
-=======
+# Chromosporium argentinum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya comperei P. A. C. Senna SPECIES
-=======
+# Lyngbya comperei P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

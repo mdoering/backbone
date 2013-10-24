@@ -1,5 +1,4 @@
-Amauroascus hispanicus Cano & Guarro SPECIES
-=======
+# Amauroascus hispanicus Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

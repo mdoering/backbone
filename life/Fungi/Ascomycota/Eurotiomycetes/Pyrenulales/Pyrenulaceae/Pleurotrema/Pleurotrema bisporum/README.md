@@ -1,5 +1,4 @@
-Pleurotrema bisporum (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema bisporum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

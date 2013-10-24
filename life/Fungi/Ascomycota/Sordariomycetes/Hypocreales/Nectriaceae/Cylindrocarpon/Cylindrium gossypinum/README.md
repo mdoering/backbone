@@ -1,5 +1,4 @@
-Cylindrium gossypinum Fairm. SPECIES
-=======
+# Cylindrium gossypinum Fairm. SPECIES
 
 #### Status
 ACCEPTED

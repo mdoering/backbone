@@ -1,5 +1,4 @@
-Involucrothele incincta (Vain.) Servít SPECIES
-=======
+# Involucrothele incincta (Vain.) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema dictamni (Sacc.) Jacz. SPECIES
-=======
+# Sphaeronaema dictamni (Sacc.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

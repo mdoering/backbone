@@ -1,5 +1,4 @@
-Phyllosticta vaccariae Bond.-Mont. SPECIES
-=======
+# Phyllosticta vaccariae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

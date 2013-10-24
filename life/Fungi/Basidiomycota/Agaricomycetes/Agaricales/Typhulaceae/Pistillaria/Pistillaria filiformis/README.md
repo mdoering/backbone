@@ -1,5 +1,4 @@
-Pistillaria filiformis Corner SPECIES
-=======
+# Pistillaria filiformis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha leptoloma Müll. Arg. SPECIES
-=======
+# Opegrapha leptoloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

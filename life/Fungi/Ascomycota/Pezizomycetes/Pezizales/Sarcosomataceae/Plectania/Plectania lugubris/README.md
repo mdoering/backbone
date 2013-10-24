@@ -1,5 +1,4 @@
-Plectania lugubris (Kalchbr.) Sacc. SPECIES
-=======
+# Plectania lugubris (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

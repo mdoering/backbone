@@ -1,5 +1,4 @@
-Ustilago dactyloctenii-gigantei Vánky SPECIES
-=======
+# Ustilago dactyloctenii-gigantei Vánky SPECIES
 
 #### Status
 ACCEPTED

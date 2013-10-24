@@ -1,5 +1,4 @@
-Blastenia ulbensis Zahlbr. SPECIES
-=======
+# Blastenia ulbensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

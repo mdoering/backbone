@@ -1,5 +1,4 @@
-Tilletia redfieldiae G.P. Clinton SPECIES
-=======
+# Tilletia redfieldiae G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

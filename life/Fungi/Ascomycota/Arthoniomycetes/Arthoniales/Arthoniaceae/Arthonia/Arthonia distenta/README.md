@@ -1,5 +1,4 @@
-Arthonia distenta Vain. SPECIES
-=======
+# Arthonia distenta Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sarcosomaceae Kobayasi FAMILY
-=======
+# Sarcosomataceae Kobayasi FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 13: 516 (1937)
 
 #### Original name
-Sarcosomaceae Kobayasi
+Sarcosomataceae Kobayasi
 
 ### Remarks
 null

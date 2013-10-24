@@ -1,17 +1,16 @@
-Penicillium duponti Griffon & Maubl. SPECIES
-=======
+# Penicillium dupontii Griffon & Maubl., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 27: 93 (1911)
 
 #### Original name
-Penicillium duponti Griffon & Maubl.
+Penicillium dupontii Griffon & Maubl., 1911
 
 ### Remarks
 null

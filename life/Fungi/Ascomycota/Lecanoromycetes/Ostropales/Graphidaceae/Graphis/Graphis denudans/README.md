@@ -1,5 +1,4 @@
-Graphis denudans Vain. SPECIES
-=======
+# Graphis denudans Vain. SPECIES
 
 #### Status
 ACCEPTED

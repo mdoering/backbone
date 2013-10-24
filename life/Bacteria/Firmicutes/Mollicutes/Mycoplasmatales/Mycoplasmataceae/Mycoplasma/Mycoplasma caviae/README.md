@@ -1,5 +1,4 @@
-Mycoplasma caviae Hill, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma caviae Hill, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Comatricha elegans var. microcarpa Meyl. VARIETY
-=======
+# Comatricha elegans (Racib.) G. Lister, 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Vaud. Sci. Nat. 58: 323 (1933)
+null
 
 #### Original name
-Comatricha elegans var. microcarpa Meyl.
+null
 
 ### Remarks
 null

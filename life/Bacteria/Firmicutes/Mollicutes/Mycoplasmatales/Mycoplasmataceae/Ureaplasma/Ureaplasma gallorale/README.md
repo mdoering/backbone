@@ -1,5 +1,4 @@
-Ureaplasma gallorale Koshimizu et al., 1987 SPECIES
-=======
+# Ureaplasma gallorale Koshimizu et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

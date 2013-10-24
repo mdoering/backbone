@@ -1,5 +1,4 @@
-Tubaria ovoidospora Kalamees & Faizova SPECIES
-=======
+# Tubaria ovoidospora Kalamees & Faizova SPECIES
 
 #### Status
 ACCEPTED

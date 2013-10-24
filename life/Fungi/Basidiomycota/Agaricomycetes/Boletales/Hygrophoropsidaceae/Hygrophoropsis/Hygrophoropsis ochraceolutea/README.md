@@ -1,5 +1,4 @@
-Hygrophoropsis ochraceolutea Contu & Bon SPECIES
-=======
+# Hygrophoropsis ochraceolutea Contu & Bon SPECIES
 
 #### Status
 ACCEPTED

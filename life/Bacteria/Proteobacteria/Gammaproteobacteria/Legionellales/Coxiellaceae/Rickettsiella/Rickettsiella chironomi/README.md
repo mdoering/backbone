@@ -1,5 +1,4 @@
-Rickettsiella chironomi (ex Weiser, 1963) Weiss et al., 1984 SPECIES
-=======
+# Rickettsiella chironomi (ex Weiser, 1963) Weiss et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

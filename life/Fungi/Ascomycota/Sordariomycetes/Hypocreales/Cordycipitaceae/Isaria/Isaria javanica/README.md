@@ -1,5 +1,4 @@
-Isaria javanica (Frieder. & Bally) Samson & Hywel-Jones, 2005 SPECIES
-=======
+# Isaria javanica (Frieder. & Bally) Samson & Hywel-Jones, 2005 SPECIES
 
 #### Status
 ACCEPTED

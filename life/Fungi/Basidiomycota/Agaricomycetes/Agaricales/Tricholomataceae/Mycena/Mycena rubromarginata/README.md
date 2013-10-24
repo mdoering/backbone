@@ -1,5 +1,4 @@
-Mycena rubromarginata (Fr. Fr.) P. Kumm. SPECIES
-=======
+# Mycena rubromarginata (Fr. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

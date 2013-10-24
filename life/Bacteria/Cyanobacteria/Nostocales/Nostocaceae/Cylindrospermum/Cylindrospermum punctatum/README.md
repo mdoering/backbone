@@ -1,5 +1,4 @@
-Cylindrospermum punctatum Woronichin SPECIES
-=======
+# Cylindrospermum punctatum Woronichin SPECIES
 
 #### Status
 ACCEPTED

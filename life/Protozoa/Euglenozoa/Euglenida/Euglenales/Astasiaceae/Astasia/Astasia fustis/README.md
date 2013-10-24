@@ -1,5 +1,4 @@
-Astasia fustis E.G. Pringsheim SPECIES
-=======
+# Astasia fustis E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

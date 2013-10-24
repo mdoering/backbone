@@ -1,5 +1,4 @@
-Psathyrella subsimilissima A.H. Sm. SPECIES
-=======
+# Psathyrella subsimilissima A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

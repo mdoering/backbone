@@ -1,5 +1,4 @@
-Leptogium megapotamicum Malme SPECIES
-=======
+# Leptogium megapotamicum Malme SPECIES
 
 #### Status
 ACCEPTED

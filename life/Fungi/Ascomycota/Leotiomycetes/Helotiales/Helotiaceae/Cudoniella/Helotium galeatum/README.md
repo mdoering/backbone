@@ -1,5 +1,4 @@
-Helotium galeatum (Holmsk.) Pers. SPECIES
-=======
+# Helotium galeatum (Holmsk.) Pers. SPECIES
 
 #### Status
 ACCEPTED

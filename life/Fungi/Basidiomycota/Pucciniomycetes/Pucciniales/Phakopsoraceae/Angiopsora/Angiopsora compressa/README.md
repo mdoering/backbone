@@ -1,5 +1,4 @@
-Angiopsora compressa Mains SPECIES
-=======
+# Angiopsora compressa Mains SPECIES
 
 #### Status
 ACCEPTED

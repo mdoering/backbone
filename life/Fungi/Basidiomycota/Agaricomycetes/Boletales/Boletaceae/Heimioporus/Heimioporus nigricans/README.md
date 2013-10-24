@@ -1,14 +1,13 @@
-Heimiella nigricans M. Zang, 1985 SPECIES
-=======
+# Heimioporus nigricans (M. Zang) E. Horak, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. Yunn. 7(4): 395 (1985)
+Sydowia 56(2): 238 (2004)
 
 #### Original name
 Heimiella nigricans M. Zang, 1985

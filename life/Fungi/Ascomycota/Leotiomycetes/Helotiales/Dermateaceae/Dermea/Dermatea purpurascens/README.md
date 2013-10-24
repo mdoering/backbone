@@ -1,5 +1,4 @@
-Dermatea purpurascens Ellis & Everh. SPECIES
-=======
+# Dermatea purpurascens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

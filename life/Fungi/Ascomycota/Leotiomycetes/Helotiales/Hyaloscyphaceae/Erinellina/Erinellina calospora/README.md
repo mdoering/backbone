@@ -1,5 +1,4 @@
-Erinellina calospora (Pat.) Seaver SPECIES
-=======
+# Erinellina calospora (Pat.) Seaver SPECIES
 
 #### Status
 ACCEPTED

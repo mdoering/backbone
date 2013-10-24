@@ -1,17 +1,16 @@
-Sarcopyrenia gibba var. gibba VARIETY
-=======
+# Sarcopyrenia gibba (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Imp. Sci. Nat. Cherbourg 4: 69 (1857)
+null
 
 #### Original name
-Sarcopyrenia gibba var. gibba
+null
 
 ### Remarks
 null

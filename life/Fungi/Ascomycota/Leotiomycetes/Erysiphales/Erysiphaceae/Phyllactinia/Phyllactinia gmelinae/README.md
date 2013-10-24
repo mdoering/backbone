@@ -1,5 +1,4 @@
-Phyllactinia gmelinae U. Braun & Bagyan. SPECIES
-=======
+# Phyllactinia gmelinae U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

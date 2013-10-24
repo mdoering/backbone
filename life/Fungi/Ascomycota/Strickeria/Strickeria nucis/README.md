@@ -1,5 +1,4 @@
-Strickeria nucis (Ellis & Everh.) Lindau SPECIES
-=======
+# Strickeria nucis (Ellis & Everh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

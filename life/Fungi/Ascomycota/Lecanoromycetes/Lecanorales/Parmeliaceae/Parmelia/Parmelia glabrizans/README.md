@@ -1,5 +1,4 @@
-Parmelia glabrizans Flagey SPECIES
-=======
+# Parmelia glabrizans Flagey SPECIES
 
 #### Status
 ACCEPTED

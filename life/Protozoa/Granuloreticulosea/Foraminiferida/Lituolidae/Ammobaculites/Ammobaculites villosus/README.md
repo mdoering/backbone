@@ -1,5 +1,4 @@
-Ammobaculites villosus Saidova, 1975 SPECIES
-=======
+# Ammobaculites villosus Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

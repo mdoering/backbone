@@ -1,5 +1,4 @@
-Didymobotryum obesum Penz. & Sacc. SPECIES
-=======
+# Didymobotryum obesum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

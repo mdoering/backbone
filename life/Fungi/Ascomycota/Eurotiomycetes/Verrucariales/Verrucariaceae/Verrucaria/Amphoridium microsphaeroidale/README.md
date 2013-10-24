@@ -1,5 +1,4 @@
-Amphoridium microsphaeroidale (Zschacke) Servít SPECIES
-=======
+# Amphoridium microsphaeroidale (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus problematicus Corner, 1981 SPECIES
-=======
+# Pleurotus problematicus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

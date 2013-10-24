@@ -1,5 +1,4 @@
-Trichosporum fuliginosum P. Karst. SPECIES
-=======
+# Trichosporum fuliginosum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

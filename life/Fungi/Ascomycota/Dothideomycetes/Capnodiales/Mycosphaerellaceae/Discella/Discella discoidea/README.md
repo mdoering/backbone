@@ -1,5 +1,4 @@
-Discella discoidea Cooke & Peck SPECIES
-=======
+# Discella discoidea Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus libertatis Batsch SPECIES
-=======
+# Agaricus libertatis Batsch SPECIES
 
 #### Status
 ACCEPTED

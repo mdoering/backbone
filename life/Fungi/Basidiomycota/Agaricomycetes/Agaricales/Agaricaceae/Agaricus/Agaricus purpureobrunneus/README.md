@@ -1,5 +1,4 @@
-Agaricus purpureobrunneus Jungh. SPECIES
-=======
+# Agaricus purpureobrunneus Jungh. SPECIES
 
 #### Status
 ACCEPTED

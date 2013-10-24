@@ -1,5 +1,4 @@
-Uromyces hypoëstis Tarr & G.F. Laundon SPECIES
-=======
+# Uromyces hypoëstis Tarr & G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

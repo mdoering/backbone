@@ -1,5 +1,4 @@
-Tremellina Bandoni GENUS
-=======
+# Tremellina Bandoni GENUS
 
 #### Status
 ACCEPTED

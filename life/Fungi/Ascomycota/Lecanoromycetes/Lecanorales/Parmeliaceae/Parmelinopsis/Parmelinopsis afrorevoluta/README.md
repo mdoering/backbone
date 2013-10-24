@@ -1,14 +1,13 @@
-Parmelia afrorevoluta Krog & Swinscow SPECIES
-=======
+# Parmelinopsis afrorevoluta (Krog & Swinscow) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 26: 22 (1979)
+Mycotaxon 29: 242 (1987)
 
 #### Original name
 Parmelia afrorevoluta Krog & Swinscow

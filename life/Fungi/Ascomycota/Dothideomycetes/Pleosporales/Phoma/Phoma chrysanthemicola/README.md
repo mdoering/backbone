@@ -1,17 +1,16 @@
-Phoma chrysanthemicola f. sp FORM
-=======
+# Phoma chrysanthemicola Hollós, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls hist. -nat. Mus. natn. hung. 5: 456 (1907)
 
 #### Original name
-Phoma chrysanthemicola f. sp
+Phoma chrysanthemicola Hollós, 1907
 
 ### Remarks
 null

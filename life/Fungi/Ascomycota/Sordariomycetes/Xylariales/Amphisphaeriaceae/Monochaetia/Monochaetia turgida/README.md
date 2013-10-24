@@ -1,5 +1,4 @@
-Monochaetia turgida (G.F. Atk.) Sacc. SPECIES
-=======
+# Monochaetia turgida (G.F. Atk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

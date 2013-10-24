@@ -1,17 +1,16 @@
-Gyrophora pellita var. pellita (Ach.) Ach. VARIETY
-=======
+# Umbilicaria polyrrhiza (L.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sched. Crit. Lich. Suec. Exsicc. 5-6: 3 (1825)
 
 #### Original name
-Gyrophora pellita var. pellita (Ach.) Ach.
+Lichen polyrrhizos L.
 
 ### Remarks
 null

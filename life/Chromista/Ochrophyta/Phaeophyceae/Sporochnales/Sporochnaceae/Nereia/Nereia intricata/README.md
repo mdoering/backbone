@@ -1,5 +1,4 @@
-Nereia intricata Yamada SPECIES
-=======
+# Nereia intricata Yamada SPECIES
 
 #### Status
 ACCEPTED

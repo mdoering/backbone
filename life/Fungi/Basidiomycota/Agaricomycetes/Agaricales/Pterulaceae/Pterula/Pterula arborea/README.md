@@ -1,5 +1,4 @@
-Pterula arborea Rick SPECIES
-=======
+# Pterula arborea Rick SPECIES
 
 #### Status
 ACCEPTED

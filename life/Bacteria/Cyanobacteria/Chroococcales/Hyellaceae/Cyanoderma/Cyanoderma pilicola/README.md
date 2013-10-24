@@ -1,5 +1,4 @@
-Cyanoderma pilicola (D.E. Wujek & P. Timpano) M.J. Wynne SPECIES
-=======
+# Cyanoderma pilicola (D.E. Wujek & P. Timpano) M.J. Wynne SPECIES
 
 #### Status
 ACCEPTED

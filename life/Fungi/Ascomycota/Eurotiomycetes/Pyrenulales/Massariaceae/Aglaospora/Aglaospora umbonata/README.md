@@ -1,5 +1,4 @@
-Aglaospora umbonata (Sacc.) Kuntze SPECIES
-=======
+# Aglaospora umbonata (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

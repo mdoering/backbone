@@ -1,5 +1,4 @@
-Chryseobacterium taiwanense Tai et al., 2006 SPECIES
-=======
+# Chryseobacterium taiwanense Tai et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

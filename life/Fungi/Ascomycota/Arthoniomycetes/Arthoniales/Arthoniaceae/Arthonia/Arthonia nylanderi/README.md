@@ -1,5 +1,4 @@
-Arthonia nylanderi Zahlbr. SPECIES
-=======
+# Arthonia nylanderi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

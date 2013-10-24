@@ -1,5 +1,4 @@
-Pertusaria mattogrossensis Malme SPECIES
-=======
+# Pertusaria mattogrossensis Malme SPECIES
 
 #### Status
 ACCEPTED

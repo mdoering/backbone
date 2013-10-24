@@ -1,14 +1,13 @@
-Pilatoporus ibericus (Melo & Ryvarden) Kotl. & Pouzar, 1993 SPECIES
-=======
+# Fomitopsis iberica Melo & Ryvarden, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 14(3): 217 (1993)
+Bolm Soc. broteriana, sér. 2 62: 228 (1989)
 
 #### Original name
 Fomitopsis iberica Melo & Ryvarden, 1989

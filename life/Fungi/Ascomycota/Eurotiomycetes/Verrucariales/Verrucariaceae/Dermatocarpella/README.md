@@ -1,5 +1,4 @@
-Dermatocarpella GENUS
-=======
+# Dermatocarpella GENUS
 
 #### Status
 ACCEPTED

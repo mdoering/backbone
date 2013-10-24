@@ -1,5 +1,4 @@
-Mycena styobates (Fr.) Kummer SPECIES
-=======
+# Mycena styobates (Fr.) Kummer SPECIES
 
 #### Status
 ACCEPTED

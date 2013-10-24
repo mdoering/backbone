@@ -1,5 +1,4 @@
-Sclerotelium compactum (de Bary) Syd. SPECIES
-=======
+# Sclerotelium compactum (de Bary) Syd. SPECIES
 
 #### Status
 ACCEPTED

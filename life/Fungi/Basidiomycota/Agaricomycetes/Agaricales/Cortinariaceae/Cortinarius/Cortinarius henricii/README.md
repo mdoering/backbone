@@ -1,17 +1,16 @@
-Cortinarius henrici Reumaux SPECIES
-=======
+# Cortinarius henricii Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 96(3): 355 (1980)
 
 #### Original name
-Cortinarius henrici Reumaux
+Cortinarius henricii Reumaux
 
 ### Remarks
 null

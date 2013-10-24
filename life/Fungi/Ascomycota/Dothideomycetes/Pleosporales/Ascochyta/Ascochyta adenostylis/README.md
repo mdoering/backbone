@@ -1,5 +1,4 @@
-Ascochyta adenostylis Kabát & Bubák SPECIES
-=======
+# Ascochyta adenostylis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

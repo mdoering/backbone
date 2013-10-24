@@ -1,5 +1,4 @@
-Lentinus klotzschii Henn. SPECIES
-=======
+# Lentinus klotzschii Henn. SPECIES
 
 #### Status
 ACCEPTED

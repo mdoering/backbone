@@ -1,8 +1,7 @@
-Lophiotrema atraphaxidis Koshk. SPECIES
-=======
+# Lophiotrema atraphaxis Koshk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophiotrema atraphaxidis Koshk.
+Lophiotrema atraphaxis Koshk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia stenographella Nyl. SPECIES
-=======
+# Arthonia stenographella Nyl. SPECIES
 
 #### Status
 ACCEPTED

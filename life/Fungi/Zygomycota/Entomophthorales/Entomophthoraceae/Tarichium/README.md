@@ -1,5 +1,4 @@
-Tarichium Cohn GENUS
-=======
+# Tarichium Cohn GENUS
 
 #### Status
 ACCEPTED

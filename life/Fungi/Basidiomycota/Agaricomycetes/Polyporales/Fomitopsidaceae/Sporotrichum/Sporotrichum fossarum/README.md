@@ -1,5 +1,4 @@
-Sporotrichum fossarum Fautrey SPECIES
-=======
+# Sporotrichum fossarum Fautrey SPECIES
 
 #### Status
 ACCEPTED

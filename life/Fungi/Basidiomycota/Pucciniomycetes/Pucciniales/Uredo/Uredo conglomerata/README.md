@@ -1,5 +1,4 @@
-Uredo conglomerata F. Strauss SPECIES
-=======
+# Uredo conglomerata F. Strauss SPECIES
 
 #### Status
 ACCEPTED

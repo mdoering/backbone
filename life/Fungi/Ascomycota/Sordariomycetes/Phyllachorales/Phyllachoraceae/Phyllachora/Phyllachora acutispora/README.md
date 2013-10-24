@@ -1,17 +1,16 @@
-Phyllachora ortonii Chardón, 1929 SPECIES
-=======
+# Phyllachora acutispora Speg., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 13(1): 11 (1929)
+Revista Argent. Hist. Nat. 1: 414 (1891)
 
 #### Original name
-Phyllachora ortonii Chardón, 1929
+Phyllachora acutispora Speg., 1891
 
 ### Remarks
 null

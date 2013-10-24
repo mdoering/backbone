@@ -1,17 +1,16 @@
-Morchella crassipes var. crassipes VARIETY
-=======
+# Morchella crassipes (Vent.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. fung. (Göttingen) 2: 621 (1801)
 
 #### Original name
-Morchella crassipes var. crassipes
+Phallus crassipes Vent., 1797
 
 ### Remarks
 null

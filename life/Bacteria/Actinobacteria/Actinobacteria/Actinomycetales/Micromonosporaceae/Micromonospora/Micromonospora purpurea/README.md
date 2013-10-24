@@ -1,5 +1,4 @@
-Micromonospora purpurea Luedemann and Brodsky, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Micromonospora purpurea Luedemann and Brodsky, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

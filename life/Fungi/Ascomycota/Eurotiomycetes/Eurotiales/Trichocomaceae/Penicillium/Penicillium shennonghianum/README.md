@@ -1,5 +1,4 @@
-Penicillium shennonghianum H.Z. Kong & Z.T. Qi, 1988 SPECIES
-=======
+# Penicillium shennonghianum H.Z. Kong & Z.T. Qi, 1988 SPECIES
 
 #### Status
 ACCEPTED

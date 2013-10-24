@@ -1,5 +1,4 @@
-Helicosphaera scissura P. L. Miller SPECIES
-=======
+# Helicosphaera scissura P. L. Miller SPECIES
 
 #### Status
 ACCEPTED

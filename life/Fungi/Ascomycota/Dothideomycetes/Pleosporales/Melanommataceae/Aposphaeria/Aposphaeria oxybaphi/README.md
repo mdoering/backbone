@@ -1,5 +1,4 @@
-Aposphaeria oxybaphi Ellis & Everh. SPECIES
-=======
+# Aposphaeria oxybaphi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

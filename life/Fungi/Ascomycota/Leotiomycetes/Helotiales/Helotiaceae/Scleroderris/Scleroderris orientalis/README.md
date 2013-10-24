@@ -1,5 +1,4 @@
-Scleroderris orientalis Ellis & Everh. SPECIES
-=======
+# Scleroderris orientalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

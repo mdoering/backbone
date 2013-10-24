@@ -1,5 +1,4 @@
-Discosia tillandsiae Vanev SPECIES
-=======
+# Discosia tillandsiae Vanev SPECIES
 
 #### Status
 ACCEPTED

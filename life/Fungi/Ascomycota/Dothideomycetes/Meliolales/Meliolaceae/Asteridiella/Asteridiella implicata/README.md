@@ -1,5 +1,4 @@
-Asteridiella implicata (Doidge) Hansf. SPECIES
-=======
+# Asteridiella implicata (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

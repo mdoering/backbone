@@ -1,5 +1,4 @@
-Mycosphaerella aurantia A. Maxwell, 2003 SPECIES
-=======
+# Mycosphaerella aurantia A. Maxwell, 2003 SPECIES
 
 #### Status
 ACCEPTED

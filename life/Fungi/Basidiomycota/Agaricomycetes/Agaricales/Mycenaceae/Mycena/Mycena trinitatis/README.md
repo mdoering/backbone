@@ -1,5 +1,4 @@
-Mycena trinitatis Dennis SPECIES
-=======
+# Mycena trinitatis Dennis SPECIES
 
 #### Status
 ACCEPTED

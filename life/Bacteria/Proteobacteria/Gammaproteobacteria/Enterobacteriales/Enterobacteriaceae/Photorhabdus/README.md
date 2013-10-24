@@ -1,5 +1,4 @@
-Photorhabdus Boemare, Akhurst & Mourant, 1993 GENUS
-=======
+# Photorhabdus Boemare, Akhurst & Mourant, 1993 GENUS
 
 #### Status
 ACCEPTED

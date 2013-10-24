@@ -1,5 +1,4 @@
-Karstenula tuberculata (Rehm) M.E. Barr SPECIES
-=======
+# Karstenula tuberculata (Rehm) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

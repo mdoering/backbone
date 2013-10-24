@@ -1,5 +1,4 @@
-Dimeriella cissi Hansf. SPECIES
-=======
+# Dimeriella cissi Hansf. SPECIES
 
 #### Status
 ACCEPTED

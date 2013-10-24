@@ -1,5 +1,4 @@
-Hypotrachyna hnatiukii Louwhoff & Elix SPECIES
-=======
+# Hypotrachyna hnatiukii Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

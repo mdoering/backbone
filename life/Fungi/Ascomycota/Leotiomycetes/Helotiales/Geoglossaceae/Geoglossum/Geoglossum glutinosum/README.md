@@ -1,17 +1,16 @@
-Geoglossum glutinosum var. lubricum Pers. VARIETY
-=======
+# Geoglossum glutinosum Pers., 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 197 (1822)
+Annls mycol. 6: 409 (1908)
 
 #### Original name
-Geoglossum glutinosum var. lubricum Pers.
+Geoglossum glutinosum Pers., 1796
 
 ### Remarks
 null

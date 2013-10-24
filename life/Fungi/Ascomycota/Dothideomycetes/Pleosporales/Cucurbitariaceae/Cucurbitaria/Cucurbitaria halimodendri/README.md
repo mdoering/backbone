@@ -1,5 +1,4 @@
-Cucurbitaria halimodendri Rehm SPECIES
-=======
+# Cucurbitaria halimodendri Rehm SPECIES
 
 #### Status
 ACCEPTED

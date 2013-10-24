@@ -1,5 +1,4 @@
-Stereopeltis carestiae SPECIES
-=======
+# Stereopeltis carestiae SPECIES
 
 #### Status
 ACCEPTED

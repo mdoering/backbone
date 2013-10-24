@@ -1,5 +1,4 @@
-Lichen glyphicus Ach. SPECIES
-=======
+# Lichen glyphicus Ach. SPECIES
 
 #### Status
 ACCEPTED

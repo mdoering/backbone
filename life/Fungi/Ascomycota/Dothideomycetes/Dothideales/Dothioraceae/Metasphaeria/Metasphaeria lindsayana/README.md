@@ -1,14 +1,13 @@
-Sphaeria lindsayana Curr., 1867 SPECIES
-=======
+# Metasphaeria lindsayana (Curr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lindsay, Trans. R. Soc. Edinb. 24: 423 (1867)
+Syll. fung. (Abellini) 2: LXI (1883)
 
 #### Original name
 Sphaeria lindsayana Curr., 1867

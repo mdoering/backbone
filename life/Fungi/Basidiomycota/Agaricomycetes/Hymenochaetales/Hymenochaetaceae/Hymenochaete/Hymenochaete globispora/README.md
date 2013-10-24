@@ -1,5 +1,4 @@
-Hymenochaete globispora G.A. Escobar ex J.C. Léger, 1990 SPECIES
-=======
+# Hymenochaete globispora G.A. Escobar ex J.C. Léger, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus daldinianus De Not. SPECIES
-=======
+# Ascobolus daldinianus De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kyrtuthrix maculans (Gomont) Umezaki SPECIES
-=======
+# Kyrtuthrix maculans (Gomont) Umezaki SPECIES
 
 #### Status
 ACCEPTED

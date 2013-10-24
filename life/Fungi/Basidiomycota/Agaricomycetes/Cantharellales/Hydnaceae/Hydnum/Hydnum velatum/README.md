@@ -1,5 +1,4 @@
-Hydnum velatum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum velatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucollosphaera Haeckel, 1887 GENUS
-=======
+# Eucollosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

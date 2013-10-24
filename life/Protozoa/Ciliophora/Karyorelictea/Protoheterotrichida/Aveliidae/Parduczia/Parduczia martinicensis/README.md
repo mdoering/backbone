@@ -1,8 +1,7 @@
-Parduczia martinicense (Nouzarède, 1977) Dragesco, 1999 SPECIES
-=======
+# Parduczia martinicensis (Nouzarède, 1977) Dragesco, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

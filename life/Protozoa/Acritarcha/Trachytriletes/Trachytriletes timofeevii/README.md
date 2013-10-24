@@ -1,5 +1,4 @@
-Trachytriletes timofeevii Fensome et al., 1990 SPECIES
-=======
+# Trachytriletes timofeevii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

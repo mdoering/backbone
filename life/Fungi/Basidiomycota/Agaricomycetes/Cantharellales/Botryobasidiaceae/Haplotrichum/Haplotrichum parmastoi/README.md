@@ -1,17 +1,16 @@
-Haplotrichum parmastii G. Langer SPECIES
-=======
+# Haplotrichum parmastoi G. Langer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Langer & Langer, Folia cryptog. Estonica 33: 63 (1998)
 
 #### Original name
-Haplotrichum parmastii G. Langer
+Haplotrichum parmastoi G. Langer
 
 ### Remarks
 null

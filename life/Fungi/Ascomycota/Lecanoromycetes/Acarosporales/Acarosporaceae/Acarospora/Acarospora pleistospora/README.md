@@ -1,5 +1,4 @@
-Acarospora pleistospora SPECIES
-=======
+# Acarospora pleistospora SPECIES
 
 #### Status
 ACCEPTED

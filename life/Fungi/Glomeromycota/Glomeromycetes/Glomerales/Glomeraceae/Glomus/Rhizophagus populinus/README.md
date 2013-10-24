@@ -1,5 +1,4 @@
-Rhizophagus populinus P.A. Dang. SPECIES
-=======
+# Rhizophagus populinus P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

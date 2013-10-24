@@ -1,5 +1,4 @@
-Sticta sinuosa var. sinuosa VARIETY
-=======
+# Sticta sinuosa Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Gaudichaud-Beaupré, Voy. Uranie. Bot. 200 (1827)
 
 #### Original name
-Sticta sinuosa var. sinuosa
+Sticta sinuosa Pers.
 
 ### Remarks
 null

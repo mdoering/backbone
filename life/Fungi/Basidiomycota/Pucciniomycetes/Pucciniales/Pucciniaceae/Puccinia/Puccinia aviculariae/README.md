@@ -1,5 +1,4 @@
-Puccinia aviculariae var. aviculariae VARIETY
-=======
+# Puccinia aviculariae DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia aviculariae var. aviculariae
+Puccinia aviculariae DC.
 
 ### Remarks
 null

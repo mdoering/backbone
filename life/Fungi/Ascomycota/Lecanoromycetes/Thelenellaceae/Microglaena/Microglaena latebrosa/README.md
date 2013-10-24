@@ -1,5 +1,4 @@
-Microglaena latebrosa (Bagl. & Carestia) Jatta SPECIES
-=======
+# Microglaena latebrosa (Bagl. & Carestia) Jatta SPECIES
 
 #### Status
 ACCEPTED

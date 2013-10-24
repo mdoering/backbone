@@ -1,5 +1,4 @@
-Lecanora desertorum Kremp. SPECIES
-=======
+# Lecanora desertorum Kremp. SPECIES
 
 #### Status
 ACCEPTED

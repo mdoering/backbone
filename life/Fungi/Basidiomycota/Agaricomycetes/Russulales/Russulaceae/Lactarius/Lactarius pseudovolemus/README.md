@@ -1,5 +1,4 @@
-Lactarius pseudovolemus R. Heim SPECIES
-=======
+# Lactarius pseudovolemus R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma microsporum Ellis SPECIES
-=======
+# Tricholoma microsporum Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Takayama pulchella (J. Larsen, 1994) de Salas, Bolch & Hallegraeff, 2003 SPECIES
-=======
+# Takayama pulchella (J. Larsen, 1994) de Salas, Bolch & Hallegraeff, 2003 SPECIES
 
 #### Status
 ACCEPTED

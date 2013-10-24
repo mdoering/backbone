@@ -1,5 +1,4 @@
-Sarcodon lobatus Nikol. SPECIES
-=======
+# Sarcodon lobatus Nikol. SPECIES
 
 #### Status
 ACCEPTED

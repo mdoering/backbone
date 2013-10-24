@@ -1,5 +1,4 @@
-Lycoperdon gossypinum Bull. SPECIES
-=======
+# Lycoperdon gossypinum Bull. SPECIES
 
 #### Status
 ACCEPTED

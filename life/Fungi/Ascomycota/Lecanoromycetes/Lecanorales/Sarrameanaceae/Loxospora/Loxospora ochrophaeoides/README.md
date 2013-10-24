@@ -1,5 +1,4 @@
-Loxospora ochrophaeoides Kalb & Hafellner SPECIES
-=======
+# Loxospora ochrophaeoides Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria limbata Vain. SPECIES
-=======
+# Pannaria limbata Vain. SPECIES
 
 #### Status
 ACCEPTED

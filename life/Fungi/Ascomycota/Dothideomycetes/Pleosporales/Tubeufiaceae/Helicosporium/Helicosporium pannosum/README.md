@@ -1,14 +1,13 @@
-Drepanospora pannosa Berk. & M.A. Curtis, 1875 SPECIES
-=======
+# Helicosporium pannosum (Berk. & M.A. Curtis) R.T. Moore, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3(no. 27): 105 (1875)
+Mycologia 49: 582 (1957)
 
 #### Original name
 Drepanospora pannosa Berk. & M.A. Curtis, 1875

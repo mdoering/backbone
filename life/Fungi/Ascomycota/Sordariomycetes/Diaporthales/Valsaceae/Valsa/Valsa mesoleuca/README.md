@@ -1,5 +1,4 @@
-Valsa mesoleuca Berk. & M.A. Curtis SPECIES
-=======
+# Valsa mesoleuca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

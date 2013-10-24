@@ -1,5 +1,4 @@
-Cercospora atriplicis Lobik SPECIES
-=======
+# Cercospora atriplicis Lobik SPECIES
 
 #### Status
 ACCEPTED

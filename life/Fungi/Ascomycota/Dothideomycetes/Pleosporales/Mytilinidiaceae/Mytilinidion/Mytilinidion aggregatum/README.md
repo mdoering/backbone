@@ -1,17 +1,16 @@
-Mytilinidion aggregatum var. aggregatum VARIETY
-=======
+# Mytilinidion aggregatum (DC.) Duby, 1862 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 34 (1862)
 
 #### Original name
-Mytilinidion aggregatum var. aggregatum
+Hysterium aggregatum DC., 1815
 
 ### Remarks
 null

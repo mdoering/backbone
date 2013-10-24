@@ -1,5 +1,4 @@
-Pertusaria ostiolata Dibben SPECIES
-=======
+# Pertusaria ostiolata Dibben SPECIES
 
 #### Status
 ACCEPTED

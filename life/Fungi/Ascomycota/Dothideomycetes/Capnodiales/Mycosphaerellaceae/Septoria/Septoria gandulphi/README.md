@@ -1,5 +1,4 @@
-Septoria gandulphi Sacc. & D. Sacc. SPECIES
-=======
+# Septoria gandulphi Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

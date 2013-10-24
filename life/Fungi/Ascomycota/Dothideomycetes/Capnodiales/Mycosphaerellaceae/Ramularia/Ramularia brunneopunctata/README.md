@@ -1,5 +1,4 @@
-Ramularia brunneopunctata U. Braun SPECIES
-=======
+# Ramularia brunneopunctata U. Braun SPECIES
 
 #### Status
 ACCEPTED

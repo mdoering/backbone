@@ -1,5 +1,4 @@
-Enterococcus flavescens Pompei et al., 1992 SPECIES
-=======
+# Enterococcus flavescens Pompei et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

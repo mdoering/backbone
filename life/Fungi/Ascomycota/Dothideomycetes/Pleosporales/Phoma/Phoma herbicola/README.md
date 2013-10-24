@@ -1,5 +1,4 @@
-Phoma herbicola Wehm. SPECIES
-=======
+# Phoma herbicola Wehm. SPECIES
 
 #### Status
 ACCEPTED

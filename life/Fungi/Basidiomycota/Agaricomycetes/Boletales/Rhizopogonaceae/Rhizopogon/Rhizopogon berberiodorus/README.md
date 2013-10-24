@@ -1,5 +1,4 @@
-Rhizopogon berberiodorus Lesp. SPECIES
-=======
+# Rhizopogon berberiodorus Lesp. SPECIES
 
 #### Status
 ACCEPTED

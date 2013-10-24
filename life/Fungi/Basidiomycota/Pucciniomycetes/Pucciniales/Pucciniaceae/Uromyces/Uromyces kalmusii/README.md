@@ -1,5 +1,4 @@
-Uromyces kalmusii Sacc. SPECIES
-=======
+# Uromyces kalmusii Sacc. SPECIES
 
 #### Status
 ACCEPTED

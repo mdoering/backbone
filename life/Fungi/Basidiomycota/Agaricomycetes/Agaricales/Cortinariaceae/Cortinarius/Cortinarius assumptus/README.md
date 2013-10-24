@@ -1,5 +1,4 @@
-Cortinarius assumptus Britzelm. SPECIES
-=======
+# Cortinarius assumptus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

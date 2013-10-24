@@ -1,5 +1,4 @@
-Parmelia ianthina Brusse SPECIES
-=======
+# Parmelia ianthina Brusse SPECIES
 
 #### Status
 ACCEPTED

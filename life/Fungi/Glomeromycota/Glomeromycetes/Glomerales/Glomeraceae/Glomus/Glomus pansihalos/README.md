@@ -1,5 +1,4 @@
-Glomus pansihalos S.M. Berch & Koske, 1986 SPECIES
-=======
+# Glomus pansihalos S.M. Berch & Koske, 1986 SPECIES
 
 #### Status
 ACCEPTED

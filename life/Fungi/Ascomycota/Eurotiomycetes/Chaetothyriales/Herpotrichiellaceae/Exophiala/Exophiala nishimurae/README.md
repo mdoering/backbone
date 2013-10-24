@@ -1,5 +1,4 @@
-Exophiala nishimurae Vitale & de Hoog SPECIES
-=======
+# Exophiala nishimurae Vitale & de Hoog SPECIES
 
 #### Status
 ACCEPTED

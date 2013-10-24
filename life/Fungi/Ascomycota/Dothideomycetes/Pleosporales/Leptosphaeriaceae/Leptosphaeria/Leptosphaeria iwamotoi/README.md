@@ -1,5 +1,4 @@
-Leptosphaeria iwamotoi I. Miyake SPECIES
-=======
+# Leptosphaeria iwamotoi I. Miyake SPECIES
 
 #### Status
 ACCEPTED

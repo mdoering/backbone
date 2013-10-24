@@ -1,5 +1,4 @@
-Orbimyces Linder GENUS
-=======
+# Orbimyces Linder GENUS
 
 #### Status
 ACCEPTED

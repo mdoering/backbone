@@ -1,5 +1,4 @@
-Hormococcus hysterioides Speg. SPECIES
-=======
+# Hormococcus hysterioides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria deplanata Nees SPECIES
-=======
+# Sphaeria deplanata Nees SPECIES
 
 #### Status
 ACCEPTED

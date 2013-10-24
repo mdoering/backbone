@@ -1,5 +1,4 @@
-Penicillium chlorinum Fresen. SPECIES
-=======
+# Penicillium chlorinum Fresen. SPECIES
 
 #### Status
 ACCEPTED

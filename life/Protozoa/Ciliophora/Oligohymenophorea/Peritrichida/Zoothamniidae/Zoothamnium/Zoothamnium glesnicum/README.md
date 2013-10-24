@@ -1,5 +1,4 @@
-Zoothamnium glesnicum Claparède & Lachmann, 1858 SPECIES
-=======
+# Zoothamnium glesnicum Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

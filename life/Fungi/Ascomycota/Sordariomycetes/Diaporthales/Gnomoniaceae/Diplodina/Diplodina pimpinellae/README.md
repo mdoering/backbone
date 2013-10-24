@@ -1,5 +1,4 @@
-Diplodina pimpinellae Hollós SPECIES
-=======
+# Diplodina pimpinellae Hollós SPECIES
 
 #### Status
 ACCEPTED

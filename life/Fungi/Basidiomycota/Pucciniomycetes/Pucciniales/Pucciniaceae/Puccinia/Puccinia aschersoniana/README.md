@@ -1,5 +1,4 @@
-Puccinia aschersoniana Henn. SPECIES
-=======
+# Puccinia aschersoniana Henn. SPECIES
 
 #### Status
 ACCEPTED

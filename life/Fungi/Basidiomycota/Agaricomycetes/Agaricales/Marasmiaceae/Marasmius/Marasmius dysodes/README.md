@@ -1,5 +1,4 @@
-Marasmius dysodes Singer SPECIES
-=======
+# Marasmius dysodes Singer SPECIES
 
 #### Status
 ACCEPTED

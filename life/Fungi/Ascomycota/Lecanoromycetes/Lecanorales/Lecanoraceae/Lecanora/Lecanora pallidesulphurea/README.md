@@ -1,5 +1,4 @@
-Lecanora pallidesulphurea Schaer. SPECIES
-=======
+# Lecanora pallidesulphurea Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros gracilis Pantocsek, 1892 SPECIES
-=======
+# Chaetoceros gracilis Pantocsek, 1892 SPECIES
 
 #### Status
 ACCEPTED

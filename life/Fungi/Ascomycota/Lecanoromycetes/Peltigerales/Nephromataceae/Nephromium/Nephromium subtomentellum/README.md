@@ -1,5 +1,4 @@
-Nephromium subtomentellum f. subtomentellum FORM
-=======
+# Nephromium subtomentellum (Nyl.) Cromb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephromium subtomentellum f. subtomentellum
+Nephromium laevigatum var. subtomentellum Nyl.
 
 ### Remarks
 null

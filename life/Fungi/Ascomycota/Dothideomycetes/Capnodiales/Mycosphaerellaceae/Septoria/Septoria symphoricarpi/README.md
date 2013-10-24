@@ -1,5 +1,4 @@
-Septoria symphoricarpi Ellis & Everh. SPECIES
-=======
+# Septoria symphoricarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

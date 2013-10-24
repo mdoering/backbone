@@ -1,5 +1,4 @@
-Tarichium silesianum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium silesianum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

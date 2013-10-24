@@ -1,5 +1,4 @@
-Subsidebottomina McCulloch, 1977 GENUS
-=======
+# Subsidebottomina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

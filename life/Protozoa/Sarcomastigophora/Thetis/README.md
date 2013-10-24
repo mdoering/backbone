@@ -1,5 +1,4 @@
-Thetis de Wever, 1982 GENUS
-=======
+# Thetis de Wever, 1982 GENUS
 
 #### Status
 ACCEPTED

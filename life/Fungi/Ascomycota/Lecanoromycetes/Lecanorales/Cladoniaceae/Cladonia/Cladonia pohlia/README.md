@@ -1,5 +1,4 @@
-Cladonia pohlia R. Sant. SPECIES
-=======
+# Cladonia pohlia R. Sant. SPECIES
 
 #### Status
 ACCEPTED

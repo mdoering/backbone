@@ -1,14 +1,13 @@
-Raphanulina GENUS
-=======
+# Globulina Morren, 1835 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Sci. Nat. [2] (Zool. ), 3, 180.
 
 #### Original name
 null

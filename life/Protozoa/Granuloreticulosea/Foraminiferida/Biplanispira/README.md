@@ -1,5 +1,4 @@
-Biplanispira GENUS
-=======
+# Biplanispira GENUS
 
 #### Status
 ACCEPTED

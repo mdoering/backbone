@@ -1,5 +1,4 @@
-Stearophora L. Mangin & Viala GENUS
-=======
+# Stearophora L. Mangin & Viala GENUS
 
 #### Status
 ACCEPTED

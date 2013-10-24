@@ -1,5 +1,4 @@
-Polymeridium chioneum (Mont.) R. C. Harris SPECIES
-=======
+# Polymeridium chioneum (Mont.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

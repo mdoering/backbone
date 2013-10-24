@@ -1,5 +1,4 @@
-Usnea rockii Zahlbr. SPECIES
-=======
+# Usnea rockii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

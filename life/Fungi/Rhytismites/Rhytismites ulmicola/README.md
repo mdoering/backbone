@@ -1,5 +1,4 @@
-Rhytismites ulmicola (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites ulmicola (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

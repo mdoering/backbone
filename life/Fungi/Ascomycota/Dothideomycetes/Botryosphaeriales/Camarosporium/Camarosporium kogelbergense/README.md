@@ -1,5 +1,4 @@
-Camarosporium kogelbergense Crous, M.J. Wingf. & Marincowitz SPECIES
-=======
+# Camarosporium kogelbergense Crous, M.J. Wingf. & Marincowitz SPECIES
 
 #### Status
 ACCEPTED

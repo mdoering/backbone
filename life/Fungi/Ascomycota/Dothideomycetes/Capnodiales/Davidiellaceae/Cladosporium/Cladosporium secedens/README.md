@@ -1,5 +1,4 @@
-Cladosporium secedens Fr. SPECIES
-=======
+# Cladosporium secedens Fr. SPECIES
 
 #### Status
 ACCEPTED

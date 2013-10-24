@@ -1,5 +1,4 @@
-Lecanora subminuta H. Magn. SPECIES
-=======
+# Lecanora subminuta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

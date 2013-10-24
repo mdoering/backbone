@@ -1,5 +1,4 @@
-Thelephora zeylanica Corner SPECIES
-=======
+# Thelephora zeylanica Corner SPECIES
 
 #### Status
 ACCEPTED

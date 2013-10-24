@@ -1,5 +1,4 @@
-Trichosporonoides Haskins & J.F.T. Spencer, 1967 GENUS
-=======
+# Trichosporonoides Haskins & J.F.T. Spencer, 1967 GENUS
 
 #### Status
 ACCEPTED

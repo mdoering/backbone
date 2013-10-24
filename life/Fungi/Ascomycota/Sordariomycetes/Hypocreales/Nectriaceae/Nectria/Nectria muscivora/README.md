@@ -1,5 +1,4 @@
-Nectria muscivora (Berk. & Broome) Berk., 1860 SPECIES
-=======
+# Nectria muscivora (Berk. & Broome) Berk., 1860 SPECIES
 
 #### Status
 ACCEPTED

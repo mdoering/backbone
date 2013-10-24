@@ -1,5 +1,4 @@
-Clitocybe schulmannii Harmaja SPECIES
-=======
+# Clitocybe schulmannii Harmaja SPECIES
 
 #### Status
 ACCEPTED

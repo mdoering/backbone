@@ -1,14 +1,13 @@
-Paxillopsis fallax (Quél.) J.E. Lange, 1939 SPECIES
-=======
+# Rhodocybe fallax (Quél.) Singer, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Agaric. Danic. 5: VI (1939)
+Farlowia 2: 549 (1946)
 
 #### Original name
 Omphalia fallax Quél., 1896

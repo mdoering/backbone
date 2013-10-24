@@ -1,5 +1,4 @@
-Lobaria epovae Makryi SPECIES
-=======
+# Lobaria epovae Makryi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphella aggregata Peck SPECIES
-=======
+# Erysiphella aggregata Peck SPECIES
 
 #### Status
 ACCEPTED

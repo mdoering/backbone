@@ -1,5 +1,4 @@
-Uromyces oxytropidis Kunze SPECIES
-=======
+# Uromyces oxytropidis Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha tricosa (Ach.) Stizenb. SPECIES
-=======
+# Opegrapha tricosa (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

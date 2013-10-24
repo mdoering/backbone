@@ -1,5 +1,4 @@
-Spiroplectammina parallela Cushman SPECIES
-=======
+# Spiroplectammina parallela Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelinopsis bonariensis Adler & Elix SPECIES
-=======
+# Parmelinopsis bonariensis Adler & Elix SPECIES
 
 #### Status
 ACCEPTED

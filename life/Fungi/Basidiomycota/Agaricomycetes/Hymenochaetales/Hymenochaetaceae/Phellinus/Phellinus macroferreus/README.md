@@ -1,14 +1,13 @@
-Fuscoporia macroferrea (T. Hatt. & Ryvarden) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Phellinus macroferreus T. Hatt. & Ryvarden, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 40: 185 (2006)
+Mycotaxon 58: 131 (1996)
 
 #### Original name
 Phellinus macroferreus T. Hatt. & Ryvarden, 1996

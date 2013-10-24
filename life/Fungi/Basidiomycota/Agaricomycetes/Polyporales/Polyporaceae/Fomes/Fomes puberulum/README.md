@@ -1,5 +1,4 @@
-Fomes puberulum var. puberulum VARIETY
-=======
+# Fomes puberulum anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fomes puberulum var. puberulum
+Fomes puberulum anon.
 
 ### Remarks
 null

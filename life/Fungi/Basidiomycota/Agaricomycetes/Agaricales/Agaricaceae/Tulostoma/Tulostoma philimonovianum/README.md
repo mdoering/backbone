@@ -1,5 +1,4 @@
-Tulostoma philimonovianum Schwarzman SPECIES
-=======
+# Tulostoma philimonovianum Schwarzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius washingtonensis A.H. Sm. SPECIES
-=======
+# Cortinarius washingtonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

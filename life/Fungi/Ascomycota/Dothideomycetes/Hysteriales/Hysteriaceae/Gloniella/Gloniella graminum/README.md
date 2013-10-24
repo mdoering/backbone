@@ -1,5 +1,4 @@
-Gloniella graminum Velen. SPECIES
-=======
+# Gloniella graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

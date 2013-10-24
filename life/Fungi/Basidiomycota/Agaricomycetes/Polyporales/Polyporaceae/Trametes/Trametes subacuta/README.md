@@ -1,5 +1,4 @@
-Trametes subacuta Murrill SPECIES
-=======
+# Trametes subacuta Murrill SPECIES
 
 #### Status
 ACCEPTED

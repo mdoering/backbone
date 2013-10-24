@@ -1,5 +1,4 @@
-Aleuria paludicola Boud. SPECIES
-=======
+# Aleuria paludicola Boud. SPECIES
 
 #### Status
 ACCEPTED

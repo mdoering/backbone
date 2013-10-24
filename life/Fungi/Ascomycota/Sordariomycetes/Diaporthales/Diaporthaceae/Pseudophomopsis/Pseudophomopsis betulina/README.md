@@ -1,5 +1,4 @@
-Pseudophomopsis betulina (Sacc. & Roum.) Höhn. SPECIES
-=======
+# Pseudophomopsis betulina (Sacc. & Roum.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

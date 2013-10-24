@@ -1,5 +1,4 @@
-Sphaeria fistulosa Lév. SPECIES
-=======
+# Sphaeria fistulosa Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium difforme Schwein. SPECIES
-=======
+# Sclerotium difforme Schwein. SPECIES
 
 #### Status
 ACCEPTED

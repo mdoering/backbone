@@ -1,5 +1,4 @@
-Acidaminobacter hydrogenoformans Stams & Hansen, 1985 SPECIES
-=======
+# Acidaminobacter hydrogenoformans Stams & Hansen, 1985 SPECIES
 
 #### Status
 ACCEPTED

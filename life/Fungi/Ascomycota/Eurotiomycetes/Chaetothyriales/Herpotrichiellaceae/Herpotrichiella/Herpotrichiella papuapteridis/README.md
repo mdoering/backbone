@@ -1,5 +1,4 @@
-Herpotrichiella papuapteridis Otani SPECIES
-=======
+# Herpotrichiella papuapteridis Otani SPECIES
 
 #### Status
 ACCEPTED

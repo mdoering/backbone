@@ -1,5 +1,4 @@
-Verrucaria hegetschweileri (Nägeli) Nyl. SPECIES
-=======
+# Verrucaria hegetschweileri (Nägeli) Nyl. SPECIES
 
 #### Status
 ACCEPTED

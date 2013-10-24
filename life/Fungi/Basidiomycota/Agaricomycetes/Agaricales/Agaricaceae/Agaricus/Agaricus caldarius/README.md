@@ -1,5 +1,4 @@
-Agaricus caldarius Wettst. SPECIES
-=======
+# Agaricus caldarius Wettst. SPECIES
 
 #### Status
 ACCEPTED

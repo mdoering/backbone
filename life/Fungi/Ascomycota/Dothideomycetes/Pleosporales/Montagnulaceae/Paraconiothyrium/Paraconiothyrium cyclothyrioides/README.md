@@ -1,5 +1,4 @@
-Paraconiothyrium cyclothyrioides Verkley, 2004 SPECIES
-=======
+# Paraconiothyrium cyclothyrioides Verkley, 2004 SPECIES
 
 #### Status
 ACCEPTED

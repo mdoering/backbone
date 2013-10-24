@@ -1,5 +1,4 @@
-Cercophora himalayensis Udagawa & Y. Sugiy., 1982 SPECIES
-=======
+# Cercophora himalayensis Udagawa & Y. Sugiy., 1982 SPECIES
 
 #### Status
 ACCEPTED

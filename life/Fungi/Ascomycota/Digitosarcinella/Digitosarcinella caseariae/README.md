@@ -1,5 +1,4 @@
-Digitosarcinella caseariae S. Hughes, 1984 SPECIES
-=======
+# Digitosarcinella caseariae S. Hughes, 1984 SPECIES
 
 #### Status
 ACCEPTED

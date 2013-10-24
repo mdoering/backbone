@@ -1,17 +1,16 @@
-Dasyscyphus albopileata var. albopileata VARIETY
-=======
+# Peziza albopileata Cooke, 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 445 (1889)
+Hedwigia 14: 82 (1875)
 
 #### Original name
-Dasyscyphus albopileata var. albopileata
+Peziza albopileata Cooke, 1875
 
 ### Remarks
 null

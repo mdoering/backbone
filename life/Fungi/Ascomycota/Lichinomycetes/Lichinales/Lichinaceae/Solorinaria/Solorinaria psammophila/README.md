@@ -1,5 +1,4 @@
-Solorinaria psammophila (Nyl.) Poelt SPECIES
-=======
+# Solorinaria psammophila (Nyl.) Poelt SPECIES
 
 #### Status
 ACCEPTED

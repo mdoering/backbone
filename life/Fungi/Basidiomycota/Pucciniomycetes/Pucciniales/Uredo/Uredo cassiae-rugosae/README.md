@@ -1,5 +1,4 @@
-Uredo cassiae-rugosae Thurst. SPECIES
-=======
+# Uredo cassiae-rugosae Thurst. SPECIES
 
 #### Status
 ACCEPTED

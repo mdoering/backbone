@@ -1,5 +1,4 @@
-Stromatinia panacis (Rankin) L.M. Kohn SPECIES
-=======
+# Stromatinia panacis (Rankin) L.M. Kohn SPECIES
 
 #### Status
 ACCEPTED

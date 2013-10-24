@@ -1,17 +1,16 @@
-Fennellomyces gigacellylaris J.H. Mirza, S.M. Khan, S. Begum & Shagufta SPECIES
-=======
+# Fennellomyces gigacellularis J.H. Mirza, S.M. Khan, S. Begum & Shagufta, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mucor. Pakistan (Faisalabad), (Univ. Agric. Faisalabad) 135 (1979)
 
 #### Original name
-Fennellomyces gigacellylaris J.H. Mirza, S.M. Khan, S. Begum & Shagufta
+Fennellomyces gigacellularis J.H. Mirza, S.M. Khan, S. Begum & Shagufta, 1979
 
 ### Remarks
 null

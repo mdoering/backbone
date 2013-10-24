@@ -1,5 +1,4 @@
-Hydnum ranceo-foetidum Adhikari SPECIES
-=======
+# Hydnum ranceo-foetidum Adhikari SPECIES
 
 #### Status
 ACCEPTED

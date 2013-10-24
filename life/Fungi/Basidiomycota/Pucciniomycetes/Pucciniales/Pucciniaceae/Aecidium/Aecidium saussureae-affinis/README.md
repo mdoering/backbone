@@ -1,5 +1,4 @@
-Aecidium saussureae-affinis Dietel SPECIES
-=======
+# Aecidium saussureae-affinis Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria pyramidata Carroll & Munk SPECIES
-=======
+# Lasiosphaeria pyramidata Carroll & Munk SPECIES
 
 #### Status
 ACCEPTED

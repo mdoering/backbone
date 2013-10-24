@@ -1,5 +1,4 @@
-Laboulbenia stagnalis Speg. SPECIES
-=======
+# Laboulbenia stagnalis Speg. SPECIES
 
 #### Status
 ACCEPTED

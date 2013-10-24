@@ -1,5 +1,4 @@
-Phacellium rhamnigenum (Ellis & Everh.) U. Braun SPECIES
-=======
+# Phacellium rhamnigenum (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

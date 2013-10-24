@@ -1,5 +1,4 @@
-Conoplea novae-zelandiae S. Hughes, 1978 SPECIES
-=======
+# Conoplea novae-zelandiae S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

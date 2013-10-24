@@ -1,5 +1,4 @@
-Sphaerella ficophila G. Winter SPECIES
-=======
+# Sphaerella ficophila G. Winter SPECIES
 
 #### Status
 ACCEPTED

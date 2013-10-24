@@ -1,5 +1,4 @@
-Buellia albula (Nyl.) Müll. Arg. SPECIES
-=======
+# Buellia albula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

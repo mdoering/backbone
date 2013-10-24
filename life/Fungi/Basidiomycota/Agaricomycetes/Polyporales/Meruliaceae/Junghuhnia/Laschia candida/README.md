@@ -1,5 +1,4 @@
-Laschia candida A.L. Sm. SPECIES
-=======
+# Laschia candida A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

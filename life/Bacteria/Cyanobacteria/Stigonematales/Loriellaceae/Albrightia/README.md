@@ -1,5 +1,4 @@
-Albrightia Copeland, 1936 GENUS
-=======
+# Albrightia Copeland, 1936 GENUS
 
 #### Status
 ACCEPTED

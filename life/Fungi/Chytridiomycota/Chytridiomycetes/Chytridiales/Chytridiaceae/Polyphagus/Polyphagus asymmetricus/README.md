@@ -1,5 +1,4 @@
-Polyphagus asymmetricus Valkanov SPECIES
-=======
+# Polyphagus asymmetricus Valkanov SPECIES
 
 #### Status
 ACCEPTED

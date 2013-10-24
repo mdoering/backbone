@@ -1,5 +1,4 @@
-Ophiocordyceps hiugensis (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps hiugensis (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

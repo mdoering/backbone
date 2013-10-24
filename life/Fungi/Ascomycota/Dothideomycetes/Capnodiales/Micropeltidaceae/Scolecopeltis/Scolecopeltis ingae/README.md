@@ -1,5 +1,4 @@
-Scolecopeltis ingae Toro SPECIES
-=======
+# Scolecopeltis ingae Toro SPECIES
 
 #### Status
 ACCEPTED

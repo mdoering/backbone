@@ -1,5 +1,4 @@
-Volvycium coccineum Raf. SPECIES
-=======
+# Volvycium coccineum Raf. SPECIES
 
 #### Status
 ACCEPTED

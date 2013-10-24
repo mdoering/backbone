@@ -1,5 +1,4 @@
-Loisthostomata Loeblich & Tappan, 1986 GENUS
-=======
+# Loisthostomata Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

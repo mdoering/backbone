@@ -1,5 +1,4 @@
-Lachnea margaritacea (Berk.) Sacc. SPECIES
-=======
+# Lachnea margaritacea (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

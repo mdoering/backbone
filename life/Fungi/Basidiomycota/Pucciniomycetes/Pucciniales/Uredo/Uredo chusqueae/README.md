@@ -1,5 +1,4 @@
-Uredo chusqueae Pardo-Card. SPECIES
-=======
+# Uredo chusqueae Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

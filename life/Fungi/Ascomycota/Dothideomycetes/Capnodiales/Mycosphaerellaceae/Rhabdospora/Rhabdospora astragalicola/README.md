@@ -1,5 +1,4 @@
-Rhabdospora astragalicola Baudy & Picb. SPECIES
-=======
+# Rhabdospora astragalicola Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

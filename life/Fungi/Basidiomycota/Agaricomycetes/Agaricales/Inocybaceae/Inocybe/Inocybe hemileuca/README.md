@@ -1,5 +1,4 @@
-Inocybe hemileuca F.H. Nishida & D.E. Stuntz SPECIES
-=======
+# Inocybe hemileuca F.H. Nishida & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

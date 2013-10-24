@@ -1,8 +1,7 @@
-Dicaeoma gymnothrichis (Henn.) Syd. SPECIES
-=======
+# Dicaeoma gymnotrichis (Henn.) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

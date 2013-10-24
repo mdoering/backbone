@@ -1,5 +1,4 @@
-Mycobacterium colombiense Murcia et al., 2006 SPECIES
-=======
+# Mycobacterium colombiense Murcia et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

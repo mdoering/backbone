@@ -1,5 +1,4 @@
-Rhodotorula himalayensis Shivaji, Bhadra & Rao SPECIES
-=======
+# Rhodotorula himalayensis Shivaji, Bhadra & Rao SPECIES
 
 #### Status
 ACCEPTED

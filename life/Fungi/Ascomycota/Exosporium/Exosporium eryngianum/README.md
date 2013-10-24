@@ -1,5 +1,4 @@
-Exosporium eryngianum (Pers.) Chevall. SPECIES
-=======
+# Exosporium eryngianum (Pers.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

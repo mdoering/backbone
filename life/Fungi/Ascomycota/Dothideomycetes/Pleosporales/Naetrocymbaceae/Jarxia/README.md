@@ -1,5 +1,4 @@
-Jarxia D. Hawksw. GENUS
-=======
+# Jarxia D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

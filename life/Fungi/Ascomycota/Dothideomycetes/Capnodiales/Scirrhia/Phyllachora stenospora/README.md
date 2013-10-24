@@ -1,5 +1,4 @@
-Phyllachora stenospora (Berk. & Broome) Sacc., 1883 SPECIES
-=======
+# Phyllachora stenospora (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

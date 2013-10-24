@@ -1,5 +1,4 @@
-Strigula pulchella Müll. Arg. SPECIES
-=======
+# Strigula pulchella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyostelium parvisporum H. Hagiw., 1986 SPECIES
-=======
+# Dictyostelium parvisporum H. Hagiw., 1986 SPECIES
 
 #### Status
 ACCEPTED

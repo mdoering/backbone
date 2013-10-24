@@ -1,5 +1,4 @@
-Rosellinia samoensis Henn. SPECIES
-=======
+# Rosellinia samoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

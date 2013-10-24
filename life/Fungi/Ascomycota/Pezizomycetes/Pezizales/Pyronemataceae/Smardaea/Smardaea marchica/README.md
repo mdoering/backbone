@@ -1,5 +1,4 @@
-Smardaea marchica (Benkert & J. Moravec) Benkert SPECIES
-=======
+# Smardaea marchica (Benkert & J. Moravec) Benkert SPECIES
 
 #### Status
 ACCEPTED

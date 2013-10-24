@@ -1,5 +1,4 @@
-Asterina caseariae Hansf. SPECIES
-=======
+# Asterina caseariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa calcicola Gardner SPECIES
-=======
+# Gloeocapsa calcicola Gardner SPECIES
 
 #### Status
 ACCEPTED

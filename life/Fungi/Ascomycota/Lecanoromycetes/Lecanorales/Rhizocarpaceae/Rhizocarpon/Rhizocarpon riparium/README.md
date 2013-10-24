@@ -1,5 +1,4 @@
-Rhizocarpon riparium f. riparium FORM
-=======
+# Rhizocarpon riparium Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon riparium f. riparium
+null
 
 ### Remarks
 null

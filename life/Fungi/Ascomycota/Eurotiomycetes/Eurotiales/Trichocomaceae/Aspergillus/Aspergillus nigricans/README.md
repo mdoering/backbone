@@ -1,5 +1,4 @@
-Aspergillus nigricans Cooke SPECIES
-=======
+# Aspergillus nigricans Cooke SPECIES
 
 #### Status
 ACCEPTED

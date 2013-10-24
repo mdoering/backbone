@@ -1,5 +1,4 @@
-Lecidea carneonivea Anzi SPECIES
-=======
+# Lecidea carneonivea Anzi SPECIES
 
 #### Status
 ACCEPTED

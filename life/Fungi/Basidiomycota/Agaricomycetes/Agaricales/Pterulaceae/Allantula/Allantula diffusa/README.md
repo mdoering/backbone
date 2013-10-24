@@ -1,5 +1,4 @@
-Allantula diffusa Corner, 1952 SPECIES
-=======
+# Allantula diffusa Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacteroides acidifaciens Miyamoto & Itoh, 2000 SPECIES
-=======
+# Bacteroides acidifaciens Miyamoto & Itoh, 2000 SPECIES
 
 #### Status
 ACCEPTED

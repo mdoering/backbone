@@ -1,5 +1,4 @@
-Phaeoramularia markhamiae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Phaeoramularia markhamiae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

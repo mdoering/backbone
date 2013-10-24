@@ -1,5 +1,4 @@
-Stygiolobus azoricus Segerer et al., 1991 SPECIES
-=======
+# Stygiolobus azoricus Segerer et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

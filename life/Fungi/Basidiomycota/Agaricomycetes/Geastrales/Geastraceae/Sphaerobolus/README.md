@@ -1,17 +1,16 @@
-Siropeltis Arx & R. Garnier GENUS
-=======
+# Sphaerobolus Persoon, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in von Arx, Publções Inst. Micol. Recife 289: 7 (1960)
+Fung. mecklenb. sel. (Lüneburg) 1: 43 (1790)
 
 #### Original name
-Siropeltis Arx & R. Garnier
+Sphaerobolus Persoon, 1801
 
 ### Remarks
 null

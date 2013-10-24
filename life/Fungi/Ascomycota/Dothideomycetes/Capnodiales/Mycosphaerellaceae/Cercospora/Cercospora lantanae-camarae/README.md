@@ -1,17 +1,16 @@
-Cercospora lantanae-camerae R.C. Rajak & R.K. Rajak SPECIES
-=======
+# Cercospora lantanae-camarae R.C. Rajak & R.K. Rajak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 50(20): 911 (1981)
 
 #### Original name
-Cercospora lantanae-camerae R.C. Rajak & R.K. Rajak
+Cercospora lantanae-camarae R.C. Rajak & R.K. Rajak
 
 ### Remarks
 null

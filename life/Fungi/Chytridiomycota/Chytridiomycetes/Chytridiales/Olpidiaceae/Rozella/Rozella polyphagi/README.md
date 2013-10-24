@@ -1,5 +1,4 @@
-Rozella polyphagi (Sparrow) Sparrow SPECIES
-=======
+# Rozella polyphagi (Sparrow) Sparrow SPECIES
 
 #### Status
 ACCEPTED

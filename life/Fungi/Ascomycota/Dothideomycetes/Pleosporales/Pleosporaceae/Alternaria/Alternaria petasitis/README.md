@@ -1,5 +1,4 @@
-Alternaria petasitis M. Kubota, Kishi & Abiko SPECIES
-=======
+# Alternaria petasitis M. Kubota, Kishi & Abiko SPECIES
 
 #### Status
 ACCEPTED

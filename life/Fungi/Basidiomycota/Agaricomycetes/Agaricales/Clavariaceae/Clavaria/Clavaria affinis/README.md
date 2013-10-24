@@ -1,5 +1,4 @@
-Clavaria affinis Pat. & Doass. SPECIES
-=======
+# Clavaria affinis Pat. & Doass. SPECIES
 
 #### Status
 ACCEPTED

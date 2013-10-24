@@ -1,5 +1,4 @@
-Sympodiophora didyma Deighton & Piroz. SPECIES
-=======
+# Sympodiophora didyma Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

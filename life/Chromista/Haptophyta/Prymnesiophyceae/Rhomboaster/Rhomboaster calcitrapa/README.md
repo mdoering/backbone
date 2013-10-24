@@ -1,5 +1,4 @@
-Rhomboaster calcitrapa Gartner, 1971 SPECIES
-=======
+# Rhomboaster calcitrapa Gartner, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta vallisneriae Syd. SPECIES
-=======
+# Phyllosticta vallisneriae Syd. SPECIES
 
 #### Status
 ACCEPTED

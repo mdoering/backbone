@@ -1,17 +1,16 @@
-Erysiphopsis Halst. GENUS
-=======
+# Erysiphe R. Hedwig ex de Candolle, 1805 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Torrey bot. Club 26: 594 (1899)
+null
 
 #### Original name
-Erysiphopsis Halst.
+null
 
 ### Remarks
 null

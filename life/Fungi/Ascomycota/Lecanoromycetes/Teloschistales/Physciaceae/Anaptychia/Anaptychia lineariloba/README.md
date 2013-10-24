@@ -1,5 +1,4 @@
-Anaptychia lineariloba (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Anaptychia lineariloba (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

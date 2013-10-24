@@ -1,5 +1,4 @@
-Lactarius subtomentosus Berk. & Ravenel SPECIES
-=======
+# Lactarius subtomentosus Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

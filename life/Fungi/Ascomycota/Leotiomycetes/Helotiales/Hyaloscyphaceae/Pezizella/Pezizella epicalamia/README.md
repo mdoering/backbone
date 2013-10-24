@@ -1,5 +1,4 @@
-Pezizella epicalamia (Fuckel) Rehm SPECIES
-=======
+# Pezizella epicalamia (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

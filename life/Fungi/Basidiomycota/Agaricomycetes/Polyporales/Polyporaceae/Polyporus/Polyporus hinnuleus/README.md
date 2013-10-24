@@ -1,5 +1,4 @@
-Polyporus hinnuleus Berk. & Cooke SPECIES
-=======
+# Polyporus hinnuleus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

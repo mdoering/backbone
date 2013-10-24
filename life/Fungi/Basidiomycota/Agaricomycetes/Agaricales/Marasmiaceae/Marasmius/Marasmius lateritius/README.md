@@ -1,5 +1,4 @@
-Marasmius lateritius Petch SPECIES
-=======
+# Marasmius lateritius Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum vogelianum Sacc. SPECIES
-=======
+# Coryneum vogelianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

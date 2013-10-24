@@ -1,5 +1,4 @@
-Parmelia eylesii C.W. Dodge SPECIES
-=======
+# Parmelia eylesii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

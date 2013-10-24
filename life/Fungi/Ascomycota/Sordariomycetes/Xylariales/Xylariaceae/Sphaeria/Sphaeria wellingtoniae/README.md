@@ -1,5 +1,4 @@
-Sphaeria wellingtoniae Cooke & Harkn. SPECIES
-=======
+# Sphaeria wellingtoniae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

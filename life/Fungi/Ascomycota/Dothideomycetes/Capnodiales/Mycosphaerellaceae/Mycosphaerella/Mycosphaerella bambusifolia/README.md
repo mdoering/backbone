@@ -1,5 +1,4 @@
-Mycosphaerella bambusifolia I. Miyake & Hara SPECIES
-=======
+# Mycosphaerella bambusifolia I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

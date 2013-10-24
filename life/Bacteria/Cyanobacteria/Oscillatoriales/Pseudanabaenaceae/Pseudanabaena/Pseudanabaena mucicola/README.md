@@ -1,5 +1,4 @@
-Pseudanabaena mucicola (Naumann & Huber-PeStalozzi) Bourrelly SPECIES
-=======
+# Pseudanabaena mucicola (Naumann & Huber-PeStalozzi) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

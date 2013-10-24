@@ -1,14 +1,13 @@
-Verticicladiella abietina (Peck) S. Hughes, 1953 SPECIES
-=======
+# Leptographium abietinum (Peck) M.J. Wingf., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 31: 653 (1953)
+Trans. Br. mycol. Soc. 85(1): 92 (1985)
 
 #### Original name
 Sporocybe abietina Peck, 1878

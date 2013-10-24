@@ -1,5 +1,4 @@
-Cryptosphaeria juglandina Ellis & Holw. SPECIES
-=======
+# Cryptosphaeria juglandina Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermatodium croceum Trevis. SPECIES
-=======
+# Spermatodium croceum Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia nicolai Bubák SPECIES
-=======
+# Ramularia nicolai Bubák SPECIES
 
 #### Status
 ACCEPTED

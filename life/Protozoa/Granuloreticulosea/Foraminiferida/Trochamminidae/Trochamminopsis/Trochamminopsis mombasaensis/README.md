@@ -1,5 +1,4 @@
-Trochamminopsis mombasaensis Bender, 1989 SPECIES
-=======
+# Trochamminopsis mombasaensis Bender, 1989 SPECIES
 
 #### Status
 ACCEPTED

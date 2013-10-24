@@ -1,5 +1,4 @@
-Porina fulvelloides Lücking & V. Wirth SPECIES
-=======
+# Porina fulvelloides Lücking & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

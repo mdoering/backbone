@@ -1,5 +1,4 @@
-Synedra rumpens H.H. Chase SPECIES
-=======
+# Synedra rumpens H.H. Chase SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia thelotremoides (Nyl.) Räsänen SPECIES
-=======
+# Aspicilia thelotremoides (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

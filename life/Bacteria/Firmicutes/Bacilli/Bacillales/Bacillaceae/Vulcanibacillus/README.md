@@ -1,5 +1,4 @@
-Vulcanibacillus GENUS
-=======
+# Vulcanibacillus GENUS
 
 #### Status
 ACCEPTED

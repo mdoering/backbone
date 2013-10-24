@@ -1,5 +1,4 @@
-Dothiorella graminicola S. Ahmad SPECIES
-=======
+# Dothiorella graminicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

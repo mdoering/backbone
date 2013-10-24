@@ -1,5 +1,4 @@
-Puccinia nepetae Togashi SPECIES
-=======
+# Puccinia nepetae Togashi SPECIES
 
 #### Status
 ACCEPTED

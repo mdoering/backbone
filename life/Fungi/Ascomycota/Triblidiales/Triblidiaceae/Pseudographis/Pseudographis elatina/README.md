@@ -1,5 +1,4 @@
-Pseudographis elatina SPECIES
-=======
+# Pseudographis elatina SPECIES
 
 #### Status
 ACCEPTED

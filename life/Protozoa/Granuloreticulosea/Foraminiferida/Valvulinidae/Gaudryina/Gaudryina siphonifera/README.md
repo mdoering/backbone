@@ -1,5 +1,4 @@
-Gaudryina siphonifera SPECIES
-=======
+# Gaudryina siphonifera SPECIES
 
 #### Status
 ACCEPTED

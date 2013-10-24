@@ -1,5 +1,4 @@
-Pertusaria sipmanii A.W. Archer & Elix SPECIES
-=======
+# Pertusaria sipmanii A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

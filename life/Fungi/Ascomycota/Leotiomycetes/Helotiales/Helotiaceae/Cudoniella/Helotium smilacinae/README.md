@@ -1,5 +1,4 @@
-Helotium smilacinae Velen. SPECIES
-=======
+# Helotium smilacinae Velen. SPECIES
 
 #### Status
 ACCEPTED

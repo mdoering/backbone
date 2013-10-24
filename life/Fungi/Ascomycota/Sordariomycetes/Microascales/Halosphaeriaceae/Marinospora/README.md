@@ -1,5 +1,4 @@
-Marinospora A.R. Caval. GENUS
-=======
+# Marinospora A.R. Caval. GENUS
 
 #### Status
 ACCEPTED

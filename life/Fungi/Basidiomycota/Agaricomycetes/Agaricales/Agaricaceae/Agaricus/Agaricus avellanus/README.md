@@ -1,5 +1,4 @@
-Agaricus avellanus Thore SPECIES
-=======
+# Agaricus avellanus Thore SPECIES
 
 #### Status
 ACCEPTED

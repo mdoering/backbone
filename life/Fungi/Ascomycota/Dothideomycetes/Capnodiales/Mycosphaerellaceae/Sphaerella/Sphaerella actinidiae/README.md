@@ -1,5 +1,4 @@
-Sphaerella actinidiae (Syd. & Hara) Sacc. SPECIES
-=======
+# Sphaerella actinidiae (Syd. & Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

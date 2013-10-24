@@ -1,5 +1,4 @@
-Rosellinia pachydermatica (Ces.) Sacc. SPECIES
-=======
+# Rosellinia pachydermatica (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

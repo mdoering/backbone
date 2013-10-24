@@ -1,5 +1,4 @@
-Anthracothecium erigens (Kashiw.) H. Harada SPECIES
-=======
+# Anthracothecium erigens (Kashiw.) H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercosporella endocophylla T.S. Ramakr. & Sundaram SPECIES
-=======
+# Cercosporella endecaphyllae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 7(1954): 147 (1955)
 
 #### Original name
-Cercosporella endocophylla T.S. Ramakr. & Sundaram
+Cercosporella endecaphyllae T.S. Ramakr. & Sundaram
 
 ### Remarks
 null

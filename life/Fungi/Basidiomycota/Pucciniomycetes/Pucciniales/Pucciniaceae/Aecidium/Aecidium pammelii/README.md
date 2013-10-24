@@ -1,5 +1,4 @@
-Aecidium pammelii Trel. SPECIES
-=======
+# Aecidium pammelii Trel. SPECIES
 
 #### Status
 ACCEPTED

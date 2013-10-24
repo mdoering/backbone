@@ -1,5 +1,4 @@
-Collema magmoides Nyl. SPECIES
-=======
+# Collema magmoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

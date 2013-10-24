@@ -1,5 +1,4 @@
-Destuntzia Fogel & Trappe GENUS
-=======
+# Destuntzia Fogel & Trappe GENUS
 
 #### Status
 ACCEPTED

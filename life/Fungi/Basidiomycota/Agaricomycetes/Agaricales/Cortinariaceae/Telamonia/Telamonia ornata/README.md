@@ -1,5 +1,4 @@
-Telamonia ornata Velen. SPECIES
-=======
+# Telamonia ornata Velen. SPECIES
 
 #### Status
 ACCEPTED

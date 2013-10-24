@@ -1,8 +1,7 @@
-Ophiobolus feltgeni Sacc. & D. Sacc. SPECIES
-=======
+# Ophiobolus feltgenii Sacc. & D. Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophiobolus feltgeni Sacc. & D. Sacc.
+Ophiobolus feltgenii Sacc. & D. Sacc.
 
 ### Remarks
 null

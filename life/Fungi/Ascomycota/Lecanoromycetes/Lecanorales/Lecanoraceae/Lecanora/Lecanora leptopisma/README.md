@@ -1,5 +1,4 @@
-Lecanora leptopisma Nyl. SPECIES
-=======
+# Lecanora leptopisma Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonia toxicodendri (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Marssonia toxicodendri (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

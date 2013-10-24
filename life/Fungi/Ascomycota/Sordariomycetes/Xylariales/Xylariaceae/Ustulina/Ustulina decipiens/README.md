@@ -1,5 +1,4 @@
-Ustulina decipiens Rehm SPECIES
-=======
+# Ustulina decipiens Rehm SPECIES
 
 #### Status
 ACCEPTED

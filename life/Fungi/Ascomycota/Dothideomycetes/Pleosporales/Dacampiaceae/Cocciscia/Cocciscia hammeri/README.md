@@ -1,5 +1,4 @@
-Cocciscia hammeri Norman SPECIES
-=======
+# Cocciscia hammeri Norman SPECIES
 
 #### Status
 ACCEPTED

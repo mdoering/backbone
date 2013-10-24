@@ -1,5 +1,4 @@
-Asellaria scutigerae Manier SPECIES
-=======
+# Asellaria scutigerae Manier SPECIES
 
 #### Status
 ACCEPTED

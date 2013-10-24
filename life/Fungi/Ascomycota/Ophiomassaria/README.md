@@ -1,5 +1,4 @@
-Ophiomassaria Jacz. GENUS
-=======
+# Ophiomassaria Jacz. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homoeostrichus flabellatus Okamura SPECIES
-=======
+# Homoeostrichus flabellatus Okamura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria ectypa Kremp. SPECIES
-=======
+# Verrucaria ectypa Kremp. SPECIES
 
 #### Status
 ACCEPTED

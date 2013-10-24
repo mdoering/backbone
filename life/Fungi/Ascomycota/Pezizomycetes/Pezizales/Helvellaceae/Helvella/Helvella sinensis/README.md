@@ -1,5 +1,4 @@
-Helvella sinensis B. Liu & J.Z. Cao SPECIES
-=======
+# Helvella sinensis B. Liu & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

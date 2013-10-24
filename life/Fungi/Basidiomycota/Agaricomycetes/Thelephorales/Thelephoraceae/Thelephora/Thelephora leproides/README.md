@@ -1,5 +1,4 @@
-Thelephora leproides Pers. SPECIES
-=======
+# Thelephora leproides Pers. SPECIES
 
 #### Status
 ACCEPTED

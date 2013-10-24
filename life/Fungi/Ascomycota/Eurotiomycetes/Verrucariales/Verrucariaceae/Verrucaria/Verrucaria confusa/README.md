@@ -1,5 +1,4 @@
-Verrucaria confusa Zschacke SPECIES
-=======
+# Verrucaria confusa Zschacke SPECIES
 
 #### Status
 ACCEPTED

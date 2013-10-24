@@ -1,5 +1,4 @@
-Lycoperdon cylindricum With. SPECIES
-=======
+# Lycoperdon cylindricum With. SPECIES
 
 #### Status
 ACCEPTED

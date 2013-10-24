@@ -1,5 +1,4 @@
-Beromia rexroadii Wood, 1996 SPECIES
-=======
+# Beromia rexroadii Wood, 1996 SPECIES
 
 #### Status
 ACCEPTED

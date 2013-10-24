@@ -1,5 +1,4 @@
-Amanita echinulata Beeli SPECIES
-=======
+# Amanita echinulata Beeli SPECIES
 
 #### Status
 ACCEPTED

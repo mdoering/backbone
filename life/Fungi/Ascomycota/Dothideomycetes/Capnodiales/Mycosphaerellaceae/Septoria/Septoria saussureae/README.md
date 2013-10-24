@@ -1,5 +1,4 @@
-Septoria saussureae Thüm. SPECIES
-=======
+# Septoria saussureae Thüm. SPECIES
 
 #### Status
 ACCEPTED

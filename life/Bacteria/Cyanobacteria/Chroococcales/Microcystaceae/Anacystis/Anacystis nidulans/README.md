@@ -1,5 +1,4 @@
-Anacystis nidulans SPECIES
-=======
+# Anacystis nidulans SPECIES
 
 #### Status
 ACCEPTED

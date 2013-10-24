@@ -1,5 +1,4 @@
-Cortinarius viscidoamarus A. Ortega & Suárez-Santiago SPECIES
-=======
+# Cortinarius viscidoamarus A. Ortega & Suárez-Santiago SPECIES
 
 #### Status
 ACCEPTED

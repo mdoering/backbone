@@ -1,5 +1,4 @@
-Uredo junci-engleri Gjaerum SPECIES
-=======
+# Uredo junci-engleri Gjaerum SPECIES
 
 #### Status
 ACCEPTED

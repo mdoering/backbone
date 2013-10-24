@@ -1,5 +1,4 @@
-Orbilia myristicae Henn. SPECIES
-=======
+# Orbilia myristicae Henn. SPECIES
 
 #### Status
 ACCEPTED

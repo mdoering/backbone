@@ -1,5 +1,4 @@
-Thelotrema pertusum SPECIES
-=======
+# Thelotrema pertusum SPECIES
 
 #### Status
 ACCEPTED

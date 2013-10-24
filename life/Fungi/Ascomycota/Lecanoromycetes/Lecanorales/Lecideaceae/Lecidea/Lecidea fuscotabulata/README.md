@@ -1,5 +1,4 @@
-Lecidea fuscotabulata Stizenb. SPECIES
-=======
+# Lecidea fuscotabulata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

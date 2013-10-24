@@ -1,5 +1,4 @@
-Verrucaria protearia Zehetl. SPECIES
-=======
+# Verrucaria protearia Zehetl. SPECIES
 
 #### Status
 ACCEPTED

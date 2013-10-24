@@ -1,5 +1,4 @@
-Coniothyrium triviale (Speg.) Kuntze SPECIES
-=======
+# Coniothyrium triviale (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

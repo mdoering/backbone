@@ -1,5 +1,4 @@
-Lecidea quadrilocularis Nyl. SPECIES
-=======
+# Lecidea quadrilocularis Nyl. SPECIES
 
 #### Status
 ACCEPTED

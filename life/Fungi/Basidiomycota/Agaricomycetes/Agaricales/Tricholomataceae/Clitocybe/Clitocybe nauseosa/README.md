@@ -1,5 +1,4 @@
-Clitocybe nauseosa Rick SPECIES
-=======
+# Clitocybe nauseosa Rick SPECIES
 
 #### Status
 ACCEPTED

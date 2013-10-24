@@ -1,5 +1,4 @@
-Ensiculifera Balech, 1967 GENUS
-=======
+# Ensiculifera Balech, 1967 GENUS
 
 #### Status
 ACCEPTED

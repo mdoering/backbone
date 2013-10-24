@@ -1,5 +1,4 @@
-Plasmodiophora tabaci P.M. Jones SPECIES
-=======
+# Plasmodiophora tabaci P.M. Jones SPECIES
 
 #### Status
 ACCEPTED

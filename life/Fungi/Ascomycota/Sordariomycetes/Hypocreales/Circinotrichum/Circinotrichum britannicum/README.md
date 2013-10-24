@@ -1,5 +1,4 @@
-Circinotrichum britannicum P.M. Kirk, 1981 SPECIES
-=======
+# Circinotrichum britannicum P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

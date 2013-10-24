@@ -1,8 +1,7 @@
-Chamaesiphon africanus var. minimus (Schmidle) Lemmermann VARIETY
-=======
+# Chamaesiphon minimus Schmidle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

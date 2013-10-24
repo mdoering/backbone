@@ -1,5 +1,4 @@
-Pachyphysis R.C. Harris & Ladd GENUS
-=======
+# Pachyphysis R.C. Harris & Ladd GENUS
 
 #### Status
 ACCEPTED

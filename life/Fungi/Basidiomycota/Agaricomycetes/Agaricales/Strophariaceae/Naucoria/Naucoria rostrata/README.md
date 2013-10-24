@@ -1,5 +1,4 @@
-Naucoria rostrata Velen. SPECIES
-=======
+# Naucoria rostrata Velen. SPECIES
 
 #### Status
 ACCEPTED

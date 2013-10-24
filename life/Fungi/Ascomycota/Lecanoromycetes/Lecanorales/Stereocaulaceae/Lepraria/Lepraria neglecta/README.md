@@ -1,5 +1,4 @@
-Lepraria neglecta var. neglecta VARIETY
-=======
+# Lepraria neglecta (Nyl.) Erichsen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepraria neglecta var. neglecta
+Lecidea neglecta Nyl.
 
 ### Remarks
 null

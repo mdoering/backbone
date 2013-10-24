@@ -1,5 +1,4 @@
-Phacidium simulatum Berk. & M.A. Curtis SPECIES
-=======
+# Phacidium simulatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

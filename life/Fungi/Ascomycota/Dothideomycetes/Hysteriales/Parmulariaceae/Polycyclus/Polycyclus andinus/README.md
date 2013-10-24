@@ -1,5 +1,4 @@
-Polycyclus andinus (Pat.) Theiss. & Syd., 1915 SPECIES
-=======
+# Polycyclus andinus (Pat.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

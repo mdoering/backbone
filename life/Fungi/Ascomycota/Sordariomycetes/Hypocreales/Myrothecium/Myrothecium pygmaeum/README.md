@@ -1,5 +1,4 @@
-Myrothecium pygmaeum Faurel & Schotter SPECIES
-=======
+# Myrothecium pygmaeum Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora flabelliformis Fr. SPECIES
-=======
+# Thelephora flabelliformis Fr. SPECIES
 
 #### Status
 ACCEPTED

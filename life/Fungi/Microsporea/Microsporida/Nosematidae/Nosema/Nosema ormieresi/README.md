@@ -1,5 +1,4 @@
-Nosema ormieresi Comps, Pichot & Deltreil, 1979 SPECIES
-=======
+# Nosema ormieresi Comps, Pichot & Deltreil, 1979 SPECIES
 
 #### Status
 ACCEPTED

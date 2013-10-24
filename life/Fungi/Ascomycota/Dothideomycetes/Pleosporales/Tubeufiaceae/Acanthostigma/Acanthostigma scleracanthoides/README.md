@@ -1,5 +1,4 @@
-Acanthostigma scleracanthoides var. scleracanthoides VARIETY
-=======
+# Acanthostigma scleracanthoides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Malpighia 11: 404 (1904)
 
 #### Original name
-Acanthostigma scleracanthoides var. scleracanthoides
+Acanthostigma scleracanthoides Penz. & Sacc.
 
 ### Remarks
 null

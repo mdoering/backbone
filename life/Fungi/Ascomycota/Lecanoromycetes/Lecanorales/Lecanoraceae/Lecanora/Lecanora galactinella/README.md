@@ -1,5 +1,4 @@
-Lecanora galactinella Nyl. SPECIES
-=======
+# Lecanora galactinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinellus singeri E. Horak SPECIES
-=======
+# Lentinellus singeri E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula cystidiophora Kauffman SPECIES
-=======
+# Typhula cystidiophora Kauffman SPECIES
 
 #### Status
 ACCEPTED

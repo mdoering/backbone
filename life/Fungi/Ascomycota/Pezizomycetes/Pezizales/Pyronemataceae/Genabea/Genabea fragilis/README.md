@@ -1,14 +1,13 @@
-Genea fragilis (Tul. & C. Tul.) B.C. Zhang, 1991 SPECIES
-=======
+# Genabea fragilis Tul. & C. Tul., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 95(8): 987 (1991)
+G. bot. ital. 2(1): 60 (1844)
 
 #### Original name
 Genabea fragilis Tul. & C. Tul., 1845

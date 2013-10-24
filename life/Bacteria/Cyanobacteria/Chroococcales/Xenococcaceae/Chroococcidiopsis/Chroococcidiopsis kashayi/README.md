@@ -1,5 +1,4 @@
-Chroococcidiopsis kashayi Friedmann SPECIES
-=======
+# Chroococcidiopsis kashayi Friedmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe basidiosa Peck SPECIES
-=======
+# Clitocybe basidiosa Peck SPECIES
 
 #### Status
 ACCEPTED

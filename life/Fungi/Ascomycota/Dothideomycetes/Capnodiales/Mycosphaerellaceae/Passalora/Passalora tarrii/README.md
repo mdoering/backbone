@@ -1,5 +1,4 @@
-Passalora tarrii (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora tarrii (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

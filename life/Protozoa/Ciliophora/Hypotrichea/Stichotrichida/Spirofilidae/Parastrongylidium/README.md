@@ -1,5 +1,4 @@
-Parastrongylidium Fleury & Fryd-Versavel, 1985 GENUS
-=======
+# Parastrongylidium Fleury & Fryd-Versavel, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria alphoplaca (Wahlenb.) Duby SPECIES
-=======
+# Squamaria alphoplaca (Wahlenb.) Duby SPECIES
 
 #### Status
 ACCEPTED

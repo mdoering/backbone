@@ -1,5 +1,4 @@
-Kineococcus aurantiacus Yokota et al., 1993 SPECIES
-=======
+# Kineococcus aurantiacus Yokota et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

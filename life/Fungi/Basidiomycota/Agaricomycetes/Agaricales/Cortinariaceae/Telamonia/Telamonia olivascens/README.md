@@ -1,5 +1,4 @@
-Telamonia olivascens Velen. SPECIES
-=======
+# Telamonia olivascens Velen. SPECIES
 
 #### Status
 ACCEPTED

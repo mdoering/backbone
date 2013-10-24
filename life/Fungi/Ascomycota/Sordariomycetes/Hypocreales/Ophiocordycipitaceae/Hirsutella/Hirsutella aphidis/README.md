@@ -1,5 +1,4 @@
-Hirsutella aphidis Petch, 1936 SPECIES
-=======
+# Hirsutella aphidis Petch, 1936 SPECIES
 
 #### Status
 ACCEPTED

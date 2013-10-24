@@ -1,5 +1,4 @@
-Speiropsis aquatica Aramb., Cabello & Mengasc. SPECIES
-=======
+# Speiropsis aquatica Aramb., Cabello & Mengasc. SPECIES
 
 #### Status
 ACCEPTED

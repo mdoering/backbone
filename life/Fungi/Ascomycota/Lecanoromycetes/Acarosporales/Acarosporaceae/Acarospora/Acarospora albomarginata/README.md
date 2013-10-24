@@ -1,5 +1,4 @@
-Acarospora albomarginata (Herre) G. Salisb. SPECIES
-=======
+# Acarospora albomarginata (Herre) G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

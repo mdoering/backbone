@@ -1,5 +1,4 @@
-Brachysporium obtusissimum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Brachysporium obtusissimum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

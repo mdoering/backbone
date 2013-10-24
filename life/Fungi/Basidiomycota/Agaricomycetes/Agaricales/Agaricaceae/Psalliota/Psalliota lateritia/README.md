@@ -1,5 +1,4 @@
-Psalliota lateritia Velen. SPECIES
-=======
+# Psalliota lateritia Velen. SPECIES
 
 #### Status
 ACCEPTED

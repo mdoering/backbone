@@ -1,5 +1,4 @@
-Mycena kuehneriana A.H. Sm., 1947 SPECIES
-=======
+# Mycena kuehneriana A.H. Sm., 1947 SPECIES
 
 #### Status
 ACCEPTED

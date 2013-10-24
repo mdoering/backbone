@@ -1,5 +1,4 @@
-Entoloma mediterraneense Noordel. & Hauskn. SPECIES
-=======
+# Entoloma mediterraneense Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

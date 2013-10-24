@@ -1,5 +1,4 @@
-Opegrapha multipunctata Coppins & P. James SPECIES
-=======
+# Opegrapha multipunctata Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

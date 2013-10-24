@@ -1,5 +1,4 @@
-Lecanora notatica Guderley SPECIES
-=======
+# Lecanora notatica Guderley SPECIES
 
 #### Status
 ACCEPTED

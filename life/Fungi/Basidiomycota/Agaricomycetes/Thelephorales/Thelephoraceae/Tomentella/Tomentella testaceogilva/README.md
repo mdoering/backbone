@@ -1,17 +1,16 @@
-Tomentella rhodophaea SPECIES
-=======
+# Tomentella testaceogilva Bourdot & Galzin, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 40(2): 149 (1924)
 
 #### Original name
-Tomentella rhodophaea
+Tomentella testaceogilva Bourdot & Galzin, 1924
 
 ### Remarks
 null

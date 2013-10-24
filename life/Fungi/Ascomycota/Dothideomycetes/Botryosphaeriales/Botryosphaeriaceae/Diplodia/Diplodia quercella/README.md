@@ -1,5 +1,4 @@
-Diplodia quercella Sacc. & Penz. SPECIES
-=======
+# Diplodia quercella Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

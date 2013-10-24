@@ -1,17 +1,16 @@
-Lentinus bissus f. bissus FORM
-=======
+# Lentinellus bissus (Quél.) Kühner & Maire, 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 50: 16 (1934)
 
 #### Original name
-null
+Lentinus bissus f. bissus Quél., 1881
 
 ### Remarks
 null

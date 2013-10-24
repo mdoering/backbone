@@ -1,5 +1,4 @@
-Sacidium sennenianum Unamuno SPECIES
-=======
+# Sacidium sennenianum Unamuno SPECIES
 
 #### Status
 ACCEPTED

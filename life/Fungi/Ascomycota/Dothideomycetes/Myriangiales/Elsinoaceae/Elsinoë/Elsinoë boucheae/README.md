@@ -1,5 +1,4 @@
-Elsinoë boucheae Kevorkian SPECIES
-=======
+# Elsinoë boucheae Kevorkian SPECIES
 
 #### Status
 ACCEPTED

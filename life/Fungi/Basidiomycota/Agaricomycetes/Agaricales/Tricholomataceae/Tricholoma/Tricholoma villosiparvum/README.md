@@ -1,5 +1,4 @@
-Tricholoma villosiparvum Corner SPECIES
-=======
+# Tricholoma villosiparvum Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea graeca J. Steiner SPECIES
-=======
+# Lecidea graeca J. Steiner SPECIES
 
 #### Status
 ACCEPTED

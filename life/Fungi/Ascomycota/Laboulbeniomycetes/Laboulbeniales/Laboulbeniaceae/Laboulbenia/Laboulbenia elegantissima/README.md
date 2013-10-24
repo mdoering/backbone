@@ -1,5 +1,4 @@
-Laboulbenia elegantissima Speg. SPECIES
-=======
+# Laboulbenia elegantissima Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia pruni-serotinae Whetzel & W.L. White SPECIES
-=======
+# Rutstroemia pruni-serotinae Whetzel & W.L. White SPECIES
 
 #### Status
 ACCEPTED

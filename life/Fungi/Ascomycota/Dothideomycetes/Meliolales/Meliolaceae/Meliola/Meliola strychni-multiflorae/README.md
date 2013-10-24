@@ -1,5 +1,4 @@
-Meliola strychni-multiflorae Hansf. SPECIES
-=======
+# Meliola strychni-multiflorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

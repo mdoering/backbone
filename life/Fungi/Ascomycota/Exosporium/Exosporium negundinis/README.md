@@ -1,5 +1,4 @@
-Exosporium negundinis (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Exosporium negundinis (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

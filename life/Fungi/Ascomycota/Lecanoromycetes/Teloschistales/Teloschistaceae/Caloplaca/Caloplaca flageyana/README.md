@@ -1,5 +1,4 @@
-Caloplaca flageyana Zahlbr. SPECIES
-=======
+# Caloplaca flageyana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

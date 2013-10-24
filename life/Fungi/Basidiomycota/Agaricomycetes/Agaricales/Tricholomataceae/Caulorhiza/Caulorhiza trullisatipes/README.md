@@ -1,14 +1,13 @@
-Marasmius trullisatipes Peck, 1913 SPECIES
-=======
+# Caulorhiza trullisatipes (Peck) Halling, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 66: 44 (1913)
+Mycol. Mem. 8: 104 (1983)
 
 #### Original name
 Marasmius trullisatipes Peck, 1913

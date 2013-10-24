@@ -1,5 +1,4 @@
-Cortinarius acutomammosus Rob. Henry SPECIES
-=======
+# Cortinarius acutomammosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

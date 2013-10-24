@@ -1,5 +1,4 @@
-Thamnonoma regalis (Vain.) Gyeln. SPECIES
-=======
+# Thamnonoma regalis (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

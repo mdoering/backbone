@@ -1,5 +1,4 @@
-Rhizobacterium GENUS
-=======
+# Rhizobacterium GENUS
 
 #### Status
 ACCEPTED

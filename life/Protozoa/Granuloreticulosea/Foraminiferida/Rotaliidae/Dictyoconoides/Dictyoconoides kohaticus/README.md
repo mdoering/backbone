@@ -1,5 +1,4 @@
-Dictyoconoides kohaticus (Davies) SPECIES
-=======
+# Dictyoconoides kohaticus (Davies) SPECIES
 
 #### Status
 ACCEPTED

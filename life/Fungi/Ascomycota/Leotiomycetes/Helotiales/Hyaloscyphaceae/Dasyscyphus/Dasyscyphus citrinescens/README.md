@@ -1,5 +1,4 @@
-Dasyscyphus citrinescens Svrcek SPECIES
-=======
+# Dasyscyphus citrinescens Svrcek SPECIES
 
 #### Status
 ACCEPTED

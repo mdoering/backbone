@@ -1,5 +1,4 @@
-Sebacina luteocinerea Rick SPECIES
-=======
+# Sebacina luteocinerea Rick SPECIES
 
 #### Status
 ACCEPTED

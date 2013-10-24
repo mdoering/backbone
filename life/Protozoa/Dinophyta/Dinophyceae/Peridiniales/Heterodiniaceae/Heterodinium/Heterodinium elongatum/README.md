@@ -1,5 +1,4 @@
-Heterodinium elongatum Kofoid & Michener, 1911 SPECIES
-=======
+# Heterodinium elongatum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blodgettia bornetii E.P. Wright, 1881 SPECIES
-=======
+# Blodgettia bornetii E.P. Wright, 1881 SPECIES
 
 #### Status
 ACCEPTED

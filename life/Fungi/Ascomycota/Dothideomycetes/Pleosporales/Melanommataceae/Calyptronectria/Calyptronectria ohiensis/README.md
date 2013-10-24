@@ -1,5 +1,4 @@
-Calyptronectria ohiensis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Calyptronectria ohiensis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

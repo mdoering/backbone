@@ -1,5 +1,4 @@
-Naucoria lapponica Fr. SPECIES
-=======
+# Naucoria lapponica Fr. SPECIES
 
 #### Status
 ACCEPTED

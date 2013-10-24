@@ -1,5 +1,4 @@
-Placodium sympageum (Ach.) Bremme SPECIES
-=======
+# Placodium sympageum (Ach.) Bremme SPECIES
 
 #### Status
 ACCEPTED

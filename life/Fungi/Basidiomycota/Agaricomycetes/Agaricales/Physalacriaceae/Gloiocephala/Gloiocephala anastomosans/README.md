@@ -1,5 +1,4 @@
-Gloiocephala anastomosans Singer SPECIES
-=======
+# Gloiocephala anastomosans Singer SPECIES
 
 #### Status
 ACCEPTED

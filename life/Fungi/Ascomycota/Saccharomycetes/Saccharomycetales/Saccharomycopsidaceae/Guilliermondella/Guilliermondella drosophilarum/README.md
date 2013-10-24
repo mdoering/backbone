@@ -1,5 +1,4 @@
-Guilliermondella drosophilarum (Shehata, Mrak & Phaff) Boidin, Abadie, J.L. Jacob & Pignal SPECIES
-=======
+# Guilliermondella drosophilarum (Shehata, Mrak & Phaff) Boidin, Abadie, J.L. Jacob & Pignal SPECIES
 
 #### Status
 ACCEPTED

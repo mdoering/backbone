@@ -1,5 +1,4 @@
-Lactarius sulcatulus Verbeken SPECIES
-=======
+# Lactarius sulcatulus Verbeken SPECIES
 
 #### Status
 ACCEPTED

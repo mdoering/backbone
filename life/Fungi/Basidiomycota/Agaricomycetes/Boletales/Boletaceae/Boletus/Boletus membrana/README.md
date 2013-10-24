@@ -1,5 +1,4 @@
-Boletus membrana Batsch SPECIES
-=======
+# Boletus membrana Batsch SPECIES
 
 #### Status
 ACCEPTED

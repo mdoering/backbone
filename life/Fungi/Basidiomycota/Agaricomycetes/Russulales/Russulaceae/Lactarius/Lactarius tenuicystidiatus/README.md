@@ -1,5 +1,4 @@
-Lactarius tenuicystidiatus X.H. Wang & Verbeken SPECIES
-=======
+# Lactarius tenuicystidiatus X.H. Wang & Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalosporella stephaniae Sawada SPECIES
-=======
+# Physalosporella stephaniae Sawada SPECIES
 
 #### Status
 ACCEPTED

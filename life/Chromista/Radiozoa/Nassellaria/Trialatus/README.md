@@ -1,5 +1,4 @@
-Trialatus Yeh, 1990 GENUS
-=======
+# Trialatus Yeh, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodularia baltica J. Komárek, M. Hübel, H. Hübel & J. Smarda SPECIES
-=======
+# Nodularia baltica J. Komárek, M. Hübel, H. Hübel & J. Smarda SPECIES
 
 #### Status
 ACCEPTED

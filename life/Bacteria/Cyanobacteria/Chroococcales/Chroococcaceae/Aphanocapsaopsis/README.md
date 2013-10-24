@@ -1,5 +1,4 @@
-Aphanocapsaopsis P.K.Maithy & M.Shukla, 1997 GENUS
-=======
+# Aphanocapsaopsis P.K.Maithy & M.Shukla, 1997 GENUS
 
 #### Status
 ACCEPTED

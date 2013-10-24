@@ -1,5 +1,4 @@
-Dendrodochium caucasicum Pidopl. & Bilai SPECIES
-=======
+# Dendrodochium caucasicum Pidopl. & Bilai SPECIES
 
 #### Status
 ACCEPTED

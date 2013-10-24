@@ -1,5 +1,4 @@
-Thelidium subcalcarium Servít SPECIES
-=======
+# Thelidium subcalcarium Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella roseocinerea Pat. & Gaillard SPECIES
-=======
+# Cyphella roseocinerea Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

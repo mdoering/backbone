@@ -1,5 +1,4 @@
-Cryptobacterium Nakazawa et al., 1999 GENUS
-=======
+# Cryptobacterium Nakazawa et al., 1999 GENUS
 
 #### Status
 ACCEPTED

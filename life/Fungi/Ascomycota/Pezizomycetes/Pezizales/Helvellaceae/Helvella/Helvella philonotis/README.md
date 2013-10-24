@@ -1,5 +1,4 @@
-Helvella philonotis Dissing SPECIES
-=======
+# Helvella philonotis Dissing SPECIES
 
 #### Status
 ACCEPTED

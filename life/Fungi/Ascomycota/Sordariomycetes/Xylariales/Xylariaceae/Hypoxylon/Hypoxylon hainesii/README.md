@@ -1,5 +1,4 @@
-Hypoxylon hainesii J.D. Rogers & Dumont SPECIES
-=======
+# Hypoxylon hainesii J.D. Rogers & Dumont SPECIES
 
 #### Status
 ACCEPTED

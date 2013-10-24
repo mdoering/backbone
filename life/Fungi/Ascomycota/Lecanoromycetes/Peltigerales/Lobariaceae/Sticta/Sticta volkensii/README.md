@@ -1,5 +1,4 @@
-Sticta volkensii Müll. Arg. SPECIES
-=======
+# Sticta volkensii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

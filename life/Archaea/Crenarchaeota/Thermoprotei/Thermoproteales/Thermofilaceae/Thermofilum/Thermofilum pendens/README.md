@@ -1,5 +1,4 @@
-Thermofilum pendens Zillig & Gierl, 1983 SPECIES
-=======
+# Thermofilum pendens Zillig & Gierl, 1983 SPECIES
 
 #### Status
 ACCEPTED

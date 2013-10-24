@@ -1,5 +1,4 @@
-Lindra obtusa Nakagiri & Tubaki, 1983 SPECIES
-=======
+# Lindra obtusa Nakagiri & Tubaki, 1983 SPECIES
 
 #### Status
 ACCEPTED

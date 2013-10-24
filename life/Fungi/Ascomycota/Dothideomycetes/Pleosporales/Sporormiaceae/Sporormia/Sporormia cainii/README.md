@@ -1,17 +1,16 @@
-Sporormia cainia Mukerji & N.N. Bhandari SPECIES
-=======
+# Sporormia cainii Mukerji & N.N. Bhandari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 13(2): 113 (1972)
 
 #### Original name
-Sporormia cainia Mukerji & N.N. Bhandari
+Sporormia cainii Mukerji & N.N. Bhandari
 
 ### Remarks
 null

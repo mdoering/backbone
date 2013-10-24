@@ -1,5 +1,4 @@
-Cercospora tessellata G.F. Atk. SPECIES
-=======
+# Cercospora tessellata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

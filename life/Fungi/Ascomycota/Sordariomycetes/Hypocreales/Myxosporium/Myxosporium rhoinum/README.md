@@ -1,5 +1,4 @@
-Myxosporium rhoinum Hollós SPECIES
-=======
+# Myxosporium rhoinum Hollós SPECIES
 
 #### Status
 ACCEPTED

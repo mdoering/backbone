@@ -1,5 +1,4 @@
-Xiphostyletta Haeckel, 1887 GENUS
-=======
+# Xiphostyletta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

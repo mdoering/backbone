@@ -1,5 +1,4 @@
-Trichodesmium GENUS
-=======
+# Trichodesmium GENUS
 
 #### Status
 ACCEPTED

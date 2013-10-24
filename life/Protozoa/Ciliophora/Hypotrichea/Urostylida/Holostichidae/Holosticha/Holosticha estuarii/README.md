@@ -1,5 +1,4 @@
-Holosticha estuarii SPECIES
-=======
+# Holosticha estuarii SPECIES
 
 #### Status
 ACCEPTED

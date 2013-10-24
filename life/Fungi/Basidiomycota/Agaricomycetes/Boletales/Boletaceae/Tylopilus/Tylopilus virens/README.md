@@ -1,5 +1,4 @@
-Tylopilus virens (W.F. Chiu) Hongo SPECIES
-=======
+# Tylopilus virens (W.F. Chiu) Hongo SPECIES
 
 #### Status
 ACCEPTED

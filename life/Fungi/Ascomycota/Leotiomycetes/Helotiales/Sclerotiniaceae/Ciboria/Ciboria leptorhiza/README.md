@@ -1,5 +1,4 @@
-Ciboria leptorhiza Speg. SPECIES
-=======
+# Ciboria leptorhiza Speg. SPECIES
 
 #### Status
 ACCEPTED

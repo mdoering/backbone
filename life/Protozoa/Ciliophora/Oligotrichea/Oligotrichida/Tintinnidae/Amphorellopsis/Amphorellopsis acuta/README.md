@@ -1,5 +1,4 @@
-Amphorellopsis acuta (Schmidt, 1901) SPECIES
-=======
+# Amphorellopsis acuta (Schmidt, 1901) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyricularia fusispora (Matsush.) Zucconi, Onofri & Persiani SPECIES
-=======
+# Pyricularia fusispora (Matsush.) Zucconi, Onofri & Persiani SPECIES
 
 #### Status
 ACCEPTED

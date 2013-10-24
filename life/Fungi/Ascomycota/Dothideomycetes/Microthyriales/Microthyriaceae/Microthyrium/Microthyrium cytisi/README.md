@@ -1,5 +1,4 @@
-Microthyrium cytisi var. cytisi VARIETY
-=======
+# Microthyrium cytisi Fuckel, 1869 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 98 (1870)
+null
 
 #### Original name
-Microthyrium cytisi var. cytisi
+null
 
 ### Remarks
 null

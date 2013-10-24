@@ -1,5 +1,4 @@
-Harknessia rhoina Ellis & Everh. SPECIES
-=======
+# Harknessia rhoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

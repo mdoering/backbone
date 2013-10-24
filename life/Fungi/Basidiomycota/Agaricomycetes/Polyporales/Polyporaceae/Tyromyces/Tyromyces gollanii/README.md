@@ -1,5 +1,4 @@
-Tyromyces gollanii (Massee) S. Ahmad SPECIES
-=======
+# Tyromyces gollanii (Massee) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

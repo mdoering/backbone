@@ -1,5 +1,4 @@
-Asterina kosciuskensis Selkirk SPECIES
-=======
+# Asterina kosciuskensis Selkirk SPECIES
 
 #### Status
 ACCEPTED

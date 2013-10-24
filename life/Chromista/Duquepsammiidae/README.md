@@ -1,5 +1,4 @@
-Duquepsammiidae Seiglie & Baker, 1987 FAMILY
-=======
+# Duquepsammiidae Seiglie & Baker, 1987 FAMILY
 
 #### Status
 ACCEPTED

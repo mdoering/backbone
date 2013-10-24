@@ -1,5 +1,4 @@
-Carpomitra Kützing, 1843 GENUS
-=======
+# Carpomitra Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

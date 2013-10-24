@@ -1,5 +1,4 @@
-Bombardiastrum conicum Rick SPECIES
-=======
+# Bombardiastrum conicum Rick SPECIES
 
 #### Status
 ACCEPTED

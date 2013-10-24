@@ -1,5 +1,4 @@
-Penicillium minioluteum Dierckx, 1901 SPECIES
-=======
+# Penicillium minioluteum Dierckx, 1901 SPECIES
 
 #### Status
 DOUBTFUL

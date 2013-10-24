@@ -1,5 +1,4 @@
-Podosphaera euphorbiae-helioscopiae (Tanda & Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera euphorbiae-helioscopiae (Tanda & Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

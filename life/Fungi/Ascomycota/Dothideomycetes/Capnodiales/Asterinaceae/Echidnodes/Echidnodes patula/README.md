@@ -1,5 +1,4 @@
-Echidnodes patula Petr. SPECIES
-=======
+# Echidnodes patula Petr. SPECIES
 
 #### Status
 ACCEPTED

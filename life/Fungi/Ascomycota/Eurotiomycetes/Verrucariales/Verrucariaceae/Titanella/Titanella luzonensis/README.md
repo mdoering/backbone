@@ -1,5 +1,4 @@
-Titanella luzonensis (Henn.) Syd. & P. Syd. SPECIES
-=======
+# Titanella luzonensis (Henn.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Calicium chrysocephalum f. chrysocephalum FORM
-=======
+# Chaenotheca chrysocephala (Turner ex Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 350 (1861)
 
 #### Original name
-Calicium chrysocephalum f. chrysocephalum
+Lichen chrysocephalus Turner ex Ach.
 
 ### Remarks
 null

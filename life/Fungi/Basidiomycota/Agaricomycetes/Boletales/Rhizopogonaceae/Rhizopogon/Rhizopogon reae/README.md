@@ -1,17 +1,16 @@
-Rhizopogon reai A.H. Sm. SPECIES
-=======
+# Rhizopogon reae A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 14(2): 104 (1966)
 
 #### Original name
-Rhizopogon reai A.H. Sm.
+Rhizopogon reae A.H. Sm.
 
 ### Remarks
 null

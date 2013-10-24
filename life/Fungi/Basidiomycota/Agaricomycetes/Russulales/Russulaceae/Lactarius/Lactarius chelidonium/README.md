@@ -1,5 +1,4 @@
-Lactarius chelidonium var. chelidonium VARIETY
-=======
+# Lactarius chelidonium Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. 24: 74 (1872)
 
 #### Original name
-Lactarius chelidonium var. chelidonium
+Lactarius chelidonium Peck
 
 ### Remarks
 null

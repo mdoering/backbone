@@ -1,5 +1,4 @@
-Corticium endovirgatum Petch SPECIES
-=======
+# Corticium endovirgatum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria phaeostoma Speg. SPECIES
-=======
+# Nectria phaeostoma Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sorocarpus parvus Takamatsu SPECIES
-=======
+# Botrytella parva (Takamatsu) Kim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

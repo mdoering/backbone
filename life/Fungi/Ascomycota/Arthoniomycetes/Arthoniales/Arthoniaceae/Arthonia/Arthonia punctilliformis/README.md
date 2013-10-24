@@ -1,5 +1,4 @@
-Arthonia punctilliformis Leight. SPECIES
-=======
+# Arthonia punctilliformis Leight. SPECIES
 
 #### Status
 ACCEPTED

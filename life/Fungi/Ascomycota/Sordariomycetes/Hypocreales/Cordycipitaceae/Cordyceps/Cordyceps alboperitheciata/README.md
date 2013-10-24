@@ -1,5 +1,4 @@
-Cordyceps alboperitheciata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps alboperitheciata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

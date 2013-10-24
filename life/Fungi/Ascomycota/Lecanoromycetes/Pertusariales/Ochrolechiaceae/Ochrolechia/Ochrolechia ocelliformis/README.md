@@ -1,5 +1,4 @@
-Ochrolechia ocelliformis (Vain.) Verseghy SPECIES
-=======
+# Ochrolechia ocelliformis (Vain.) Verseghy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella orbicularis Peck SPECIES
-=======
+# Sphaerella orbicularis Peck SPECIES
 
 #### Status
 ACCEPTED

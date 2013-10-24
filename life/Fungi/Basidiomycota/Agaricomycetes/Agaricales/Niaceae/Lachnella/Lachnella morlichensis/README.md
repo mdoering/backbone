@@ -1,5 +1,4 @@
-Lachnella morlichensis (W.B. Cooke) SPECIES
-=======
+# Lachnella morlichensis (W.B. Cooke) SPECIES
 
 #### Status
 ACCEPTED

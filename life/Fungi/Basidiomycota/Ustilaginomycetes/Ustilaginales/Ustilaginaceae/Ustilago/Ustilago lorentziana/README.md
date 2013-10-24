@@ -1,5 +1,4 @@
-Ustilago lorentziana Thüm. SPECIES
-=======
+# Ustilago lorentziana Thüm. SPECIES
 
 #### Status
 ACCEPTED

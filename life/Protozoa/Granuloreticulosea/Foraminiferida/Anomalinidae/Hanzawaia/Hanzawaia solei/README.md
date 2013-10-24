@@ -1,5 +1,4 @@
-Hanzawaia solei Colom, 1957 SPECIES
-=======
+# Hanzawaia solei Colom, 1957 SPECIES
 
 #### Status
 ACCEPTED

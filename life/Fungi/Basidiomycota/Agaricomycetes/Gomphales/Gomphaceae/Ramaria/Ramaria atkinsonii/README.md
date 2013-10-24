@@ -1,5 +1,4 @@
-Ramaria atkinsonii (Bres.) R.H. Petersen, 1984 SPECIES
-=======
+# Ramaria atkinsonii (Bres.) R.H. Petersen, 1984 SPECIES
 
 #### Status
 ACCEPTED

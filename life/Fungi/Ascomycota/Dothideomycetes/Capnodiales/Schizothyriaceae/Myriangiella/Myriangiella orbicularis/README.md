@@ -1,14 +1,13 @@
-Phragmothyriella orbicularis (Zimm.) Höhn., 1912 SPECIES
-=======
+# Myriangiella orbicularis Zimm., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 8: (1902)
 
 #### Original name
 Myriangiella orbicularis Zimm., 1902

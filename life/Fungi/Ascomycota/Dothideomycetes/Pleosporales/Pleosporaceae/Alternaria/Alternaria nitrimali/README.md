@@ -1,5 +1,4 @@
-Alternaria nitrimali E.G. Simmons & M.E. Palm SPECIES
-=======
+# Alternaria nitrimali E.G. Simmons & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

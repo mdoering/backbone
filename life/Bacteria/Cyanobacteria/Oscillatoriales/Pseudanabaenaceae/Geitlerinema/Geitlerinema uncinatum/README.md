@@ -1,5 +1,4 @@
-Geitlerinema uncinatum I. Umezaki & M. Watanabe SPECIES
-=======
+# Geitlerinema uncinatum I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe miniata (Scop.) Murrill SPECIES
-=======
+# Hydrocybe miniata (Scop.) Murrill SPECIES
 
 #### Status
 ACCEPTED

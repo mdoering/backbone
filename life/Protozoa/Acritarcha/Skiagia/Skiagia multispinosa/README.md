@@ -1,5 +1,4 @@
-Skiagia multispinosa Yin Chongyu, Yue Zhao & Gao Linzhi, 1992 SPECIES
-=======
+# Skiagia multispinosa Yin Chongyu, Yue Zhao & Gao Linzhi, 1992 SPECIES
 
 #### Status
 ACCEPTED

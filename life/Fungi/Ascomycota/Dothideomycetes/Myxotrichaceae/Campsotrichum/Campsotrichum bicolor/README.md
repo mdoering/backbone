@@ -1,5 +1,4 @@
-Campsotrichum bicolor Ehrenb. SPECIES
-=======
+# Campsotrichum bicolor Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

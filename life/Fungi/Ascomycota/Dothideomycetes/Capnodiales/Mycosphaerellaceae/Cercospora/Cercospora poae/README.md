@@ -1,5 +1,4 @@
-Cercospora poae Baudy & Picb. SPECIES
-=======
+# Cercospora poae Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

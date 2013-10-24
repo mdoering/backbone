@@ -1,5 +1,4 @@
-Splitofolliculina longicollis Hadzi, 1951 SPECIES
-=======
+# Splitofolliculina longicollis Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

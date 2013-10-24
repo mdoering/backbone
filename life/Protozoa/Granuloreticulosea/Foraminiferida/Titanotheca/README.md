@@ -1,5 +1,4 @@
-Titanotheca Gaucher & Sprechmann, 1999 GENUS
-=======
+# Titanotheca Gaucher & Sprechmann, 1999 GENUS
 
 #### Status
 ACCEPTED

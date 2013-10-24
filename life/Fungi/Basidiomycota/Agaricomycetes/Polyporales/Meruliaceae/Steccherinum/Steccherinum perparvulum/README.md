@@ -1,5 +1,4 @@
-Steccherinum perparvulum Hjortstam & Ryvarden SPECIES
-=======
+# Steccherinum perparvulum Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

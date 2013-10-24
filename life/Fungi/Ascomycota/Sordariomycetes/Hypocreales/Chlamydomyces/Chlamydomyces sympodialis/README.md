@@ -1,5 +1,4 @@
-Chlamydomyces sympodialis C. Perini, 1986 SPECIES
-=======
+# Chlamydomyces sympodialis C. Perini, 1986 SPECIES
 
 #### Status
 ACCEPTED

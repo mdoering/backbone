@@ -1,5 +1,4 @@
-Platygrapha evanescens (Fée) Nyl. SPECIES
-=======
+# Platygrapha evanescens (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

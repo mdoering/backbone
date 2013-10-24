@@ -1,5 +1,4 @@
-Vibrio neptunius Thompson et al., 2003 SPECIES
-=======
+# Vibrio neptunius Thompson et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

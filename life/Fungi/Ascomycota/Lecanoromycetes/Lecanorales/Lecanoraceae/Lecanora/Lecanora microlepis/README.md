@@ -1,5 +1,4 @@
-Lecanora microlepis (Körb.) Lettau SPECIES
-=======
+# Lecanora microlepis (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

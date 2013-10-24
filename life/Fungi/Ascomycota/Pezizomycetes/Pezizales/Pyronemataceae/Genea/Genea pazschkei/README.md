@@ -1,5 +1,4 @@
-Genea pazschkei Bres. SPECIES
-=======
+# Genea pazschkei Bres. SPECIES
 
 #### Status
 ACCEPTED

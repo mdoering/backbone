@@ -1,5 +1,4 @@
-Aecidium resinicola (Rud. {?} ) G. Winter SPECIES
-=======
+# Aecidium resinicola (Rud. {?} ) G. Winter SPECIES
 
 #### Status
 ACCEPTED

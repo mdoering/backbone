@@ -1,5 +1,4 @@
-Pulmonaria gigantea Bory SPECIES
-=======
+# Pulmonaria gigantea Bory SPECIES
 
 #### Status
 ACCEPTED

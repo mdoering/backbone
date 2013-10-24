@@ -1,5 +1,4 @@
-Heterochaete spinulosa (Berk. & M.A. Curtis) D.A. Reid, 1970 SPECIES
-=======
+# Heterochaete spinulosa (Berk. & M.A. Curtis) D.A. Reid, 1970 SPECIES
 
 #### Status
 ACCEPTED

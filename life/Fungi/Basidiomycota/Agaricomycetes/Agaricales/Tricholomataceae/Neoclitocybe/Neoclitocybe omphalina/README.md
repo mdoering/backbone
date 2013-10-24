@@ -1,5 +1,4 @@
-Neoclitocybe omphalina (Singer) Singer SPECIES
-=======
+# Neoclitocybe omphalina (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

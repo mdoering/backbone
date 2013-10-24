@@ -1,5 +1,4 @@
-Pleurotus subulatus Henn. & E. Nyman SPECIES
-=======
+# Pleurotus subulatus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

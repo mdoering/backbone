@@ -1,5 +1,4 @@
-Arcangelia hepaticarum Sacc. SPECIES
-=======
+# Arcangelia hepaticarum Sacc. SPECIES
 
 #### Status
 ACCEPTED

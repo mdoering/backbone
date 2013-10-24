@@ -1,5 +1,4 @@
-Inocybe subannulata Kühner SPECIES
-=======
+# Inocybe subannulata Kühner SPECIES
 
 #### Status
 ACCEPTED

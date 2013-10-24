@@ -1,5 +1,4 @@
-Vibrissea rimarum Fr. SPECIES
-=======
+# Vibrissea rimarum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria gigaspora Henn. SPECIES
-=======
+# Nectria gigaspora Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pleospora niessleana Kunze SPECIES
-=======
+# Pleospora niessliana Kunze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora niessleana Kunze
+Pleospora niessliana Kunze
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Penicillium parallelosporum Y. Sasaki SPECIES
-=======
+# Penicillium parallelosporum Y. Sasaki SPECIES
 
 #### Status
 ACCEPTED

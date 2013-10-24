@@ -1,17 +1,16 @@
-Hypocrea citrina var. fungicola P. Karst. VARIETY
-=======
+# Hypocrea citrina (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 204 (1873)
+Summa veg. Scand. (Stockholm), Section Post. 383 (1849)
 
 #### Original name
-Hypocrea citrina var. fungicola P. Karst.
+Hypocrea citrina (Pers.) Fr., 1849
 
 ### Remarks
 null

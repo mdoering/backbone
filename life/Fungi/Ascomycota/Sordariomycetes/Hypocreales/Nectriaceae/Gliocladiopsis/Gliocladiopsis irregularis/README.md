@@ -1,5 +1,4 @@
-Gliocladiopsis irregularis Crous & Peerally, 1996 SPECIES
-=======
+# Gliocladiopsis irregularis Crous & Peerally, 1996 SPECIES
 
 #### Status
 ACCEPTED

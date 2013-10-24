@@ -1,5 +1,4 @@
-Coprinus alkalinus Anastasiou SPECIES
-=======
+# Coprinus alkalinus Anastasiou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria carrollii (Mudd) Jones {?} SPECIES
-=======
+# Verrucaria carrollii (Mudd) Jones {?} SPECIES
 
 #### Status
 ACCEPTED

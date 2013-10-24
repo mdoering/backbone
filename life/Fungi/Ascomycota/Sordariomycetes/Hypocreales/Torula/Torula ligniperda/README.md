@@ -1,5 +1,4 @@
-Torula ligniperda (Willk.) Sacc., 1906 SPECIES
-=======
+# Torula ligniperda (Willk.) Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladotrichum simplex Sacc. SPECIES
-=======
+# Cladotrichum simplex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cappellettia pseudogeoica (Anzi) Tomas. & Cif. SPECIES
-=======
+# Cappellettia pseudogeoica (Anzi) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

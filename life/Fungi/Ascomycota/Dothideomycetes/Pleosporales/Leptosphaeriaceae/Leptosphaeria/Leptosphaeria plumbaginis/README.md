@@ -1,5 +1,4 @@
-Leptosphaeria plumbaginis Pat. SPECIES
-=======
+# Leptosphaeria plumbaginis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe horakii var. horakii VARIETY
-=======
+# Inocybe horakii Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hong. Argentin. 2: 128 (1977)
 
 #### Original name
-Inocybe horakii var. horakii
+Inocybe horakii Raithelh.
 
 ### Remarks
 null

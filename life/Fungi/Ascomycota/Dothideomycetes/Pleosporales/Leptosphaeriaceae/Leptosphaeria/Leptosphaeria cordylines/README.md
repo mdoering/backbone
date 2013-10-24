@@ -1,5 +1,4 @@
-Leptosphaeria cordylines (Speg.) Sacc. & Trotter SPECIES
-=======
+# Leptosphaeria cordylines (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

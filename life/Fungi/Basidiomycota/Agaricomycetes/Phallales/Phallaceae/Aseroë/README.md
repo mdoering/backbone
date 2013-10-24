@@ -1,5 +1,4 @@
-Aseroë Labill. GENUS
-=======
+# Aseroë Labill. GENUS
 
 #### Status
 ACCEPTED

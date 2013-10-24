@@ -1,5 +1,4 @@
-Fucus flagellum S. G. Gmelin SPECIES
-=======
+# Fucus flagellum S. G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

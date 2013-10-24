@@ -1,5 +1,4 @@
-Phaeographina innata C.W. Dodge SPECIES
-=======
+# Phaeographina innata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

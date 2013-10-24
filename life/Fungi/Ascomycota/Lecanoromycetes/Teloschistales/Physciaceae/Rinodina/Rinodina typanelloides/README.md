@@ -1,5 +1,4 @@
-Rinodina typanelloides SPECIES
-=======
+# Rinodina typanelloides SPECIES
 
 #### Status
 ACCEPTED

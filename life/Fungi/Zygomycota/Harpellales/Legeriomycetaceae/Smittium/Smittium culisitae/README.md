@@ -1,17 +1,16 @@
-Smittium culesitae Lichtw. SPECIES
-=======
+# Smittium culisitae Lichtw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. J. Bot. 51: 837 (1964)
 
 #### Original name
-Smittium culesitae Lichtw.
+Smittium culisitae Lichtw.
 
 ### Remarks
 null

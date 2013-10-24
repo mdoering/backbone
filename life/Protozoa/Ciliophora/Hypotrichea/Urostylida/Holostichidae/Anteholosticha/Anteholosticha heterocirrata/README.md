@@ -1,5 +1,4 @@
-Anteholosticha heterocirrata (Hemberger, 1985) Berger, 2008 SPECIES
-=======
+# Anteholosticha heterocirrata (Hemberger, 1985) Berger, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kitasatospora sampliensis Mayilraj et al., 2006 SPECIES
-=======
+# Kitasatospora sampliensis Mayilraj et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon mundulum Kalchbr. SPECIES
-=======
+# Lycoperdon mundulum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

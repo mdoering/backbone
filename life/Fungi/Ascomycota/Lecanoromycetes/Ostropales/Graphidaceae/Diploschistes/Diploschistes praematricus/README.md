@@ -1,5 +1,4 @@
-Diploschistes praematricus f. praematricus FORM
-=======
+# Diploschistes praematricus Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diploschistes praematricus f. praematricus
+Diploschistes praematricus Gyeln.
 
 ### Remarks
 null

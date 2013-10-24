@@ -1,14 +1,13 @@
-Cystoderma granulosum var. adnatifolium (Peck) A.H. Sm. & Singer, 1945 VARIETY
-=======
+# Cystodermella adnatifolia (Peck) Harmaja, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 30: 90 (1945)
+Karstenia 42(2): 45 (2002)
 
 #### Original name
 Lepiota adnatifolia Peck, 1902

@@ -1,5 +1,4 @@
-Eutypella lineolata Rehm SPECIES
-=======
+# Eutypella lineolata Rehm SPECIES
 
 #### Status
 ACCEPTED

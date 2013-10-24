@@ -1,5 +1,4 @@
-Hyaloscypha betulina Velen. SPECIES
-=======
+# Hyaloscypha betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

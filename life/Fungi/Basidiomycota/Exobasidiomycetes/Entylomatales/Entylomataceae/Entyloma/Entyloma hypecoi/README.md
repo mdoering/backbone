@@ -1,5 +1,4 @@
-Entyloma hypecoi Annal. SPECIES
-=======
+# Entyloma hypecoi Annal. SPECIES
 
 #### Status
 ACCEPTED

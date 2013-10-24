@@ -1,5 +1,4 @@
-Dendritina elegans SPECIES
-=======
+# Dendritina elegans SPECIES
 
 #### Status
 ACCEPTED

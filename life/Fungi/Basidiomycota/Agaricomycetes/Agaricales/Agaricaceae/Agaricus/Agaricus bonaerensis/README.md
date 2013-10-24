@@ -1,5 +1,4 @@
-Agaricus bonaerensis Speg. SPECIES
-=======
+# Agaricus bonaerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma olivaceobrunneum Ovrebo SPECIES
-=======
+# Tricholoma olivaceobrunneum Ovrebo SPECIES
 
 #### Status
 ACCEPTED

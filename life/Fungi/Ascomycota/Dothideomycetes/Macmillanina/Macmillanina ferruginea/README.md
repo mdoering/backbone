@@ -1,5 +1,4 @@
-Macmillanina ferruginea (Bonord.) Kuntze SPECIES
-=======
+# Macmillanina ferruginea (Bonord.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

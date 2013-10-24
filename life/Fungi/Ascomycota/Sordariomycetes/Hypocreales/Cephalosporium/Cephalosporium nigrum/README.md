@@ -1,5 +1,4 @@
-Cephalosporium nigrum Kambay. SPECIES
-=======
+# Cephalosporium nigrum Kambay. SPECIES
 
 #### Status
 ACCEPTED

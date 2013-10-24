@@ -1,5 +1,4 @@
-Rhamphospora D.D. Cunn. GENUS
-=======
+# Rhamphospora D.D. Cunn. GENUS
 
 #### Status
 ACCEPTED

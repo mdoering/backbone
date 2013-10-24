@@ -1,5 +1,4 @@
-Meliola heteroseta Höhn. SPECIES
-=======
+# Meliola heteroseta Höhn. SPECIES
 
 #### Status
 ACCEPTED

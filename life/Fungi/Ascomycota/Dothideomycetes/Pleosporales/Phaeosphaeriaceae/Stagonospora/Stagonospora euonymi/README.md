@@ -1,14 +1,13 @@
-Hendersonia evonymi (Sacc.) Kuntze SPECIES
-=======
+# Stagonospora euonymi Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 447 (1884)
 
 #### Original name
 Stagonospora euonymi Sacc., 1884

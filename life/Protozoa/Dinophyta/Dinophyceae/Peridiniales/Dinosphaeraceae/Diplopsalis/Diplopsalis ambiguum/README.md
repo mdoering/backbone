@@ -1,5 +1,4 @@
-Diplopsalis ambiguum (Thompson) Bourrelly SPECIES
-=======
+# Diplopsalis ambiguum (Thompson) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

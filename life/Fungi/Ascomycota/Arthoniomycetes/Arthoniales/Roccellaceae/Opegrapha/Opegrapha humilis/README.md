@@ -1,5 +1,4 @@
-Opegrapha humilis Müll. Arg. SPECIES
-=======
+# Opegrapha humilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

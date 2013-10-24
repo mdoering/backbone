@@ -1,5 +1,4 @@
-Balantidium ovis Earl, 1973 SPECIES
-=======
+# Balantidium ovis Earl, 1973 SPECIES
 
 #### Status
 ACCEPTED

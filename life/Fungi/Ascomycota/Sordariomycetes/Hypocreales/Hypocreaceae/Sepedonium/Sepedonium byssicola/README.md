@@ -1,5 +1,4 @@
-Sepedonium byssicola Sacc. SPECIES
-=======
+# Sepedonium byssicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

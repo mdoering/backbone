@@ -1,5 +1,4 @@
-Teloschistes aurantiacus (Lightf.) Norman SPECIES
-=======
+# Teloschistes aurantiacus (Lightf.) Norman SPECIES
 
 #### Status
 ACCEPTED

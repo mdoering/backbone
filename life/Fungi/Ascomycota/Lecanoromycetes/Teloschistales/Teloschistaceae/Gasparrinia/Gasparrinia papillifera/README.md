@@ -1,5 +1,4 @@
-Gasparrinia papillifera (Vain.) Mérat SPECIES
-=======
+# Gasparrinia papillifera (Vain.) Mérat SPECIES
 
 #### Status
 ACCEPTED

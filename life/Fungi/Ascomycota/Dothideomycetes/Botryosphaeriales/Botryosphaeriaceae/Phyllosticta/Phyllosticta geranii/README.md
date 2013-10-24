@@ -1,5 +1,4 @@
-Phyllosticta geranii Trail SPECIES
-=======
+# Phyllosticta geranii Trail SPECIES
 
 #### Status
 ACCEPTED

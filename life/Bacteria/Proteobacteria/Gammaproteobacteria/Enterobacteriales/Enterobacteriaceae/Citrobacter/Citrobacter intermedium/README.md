@@ -1,5 +1,4 @@
-Citrobacter intermedium SPECIES
-=======
+# Citrobacter intermedium SPECIES
 
 #### Status
 ACCEPTED

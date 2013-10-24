@@ -1,5 +1,4 @@
-Sphaerella trichomanis Cooke SPECIES
-=======
+# Sphaerella trichomanis Cooke SPECIES
 
 #### Status
 ACCEPTED

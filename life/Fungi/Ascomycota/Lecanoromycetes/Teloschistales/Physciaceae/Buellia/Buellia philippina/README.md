@@ -1,5 +1,4 @@
-Buellia philippina Räsänen SPECIES
-=======
+# Buellia philippina Räsänen SPECIES
 
 #### Status
 ACCEPTED

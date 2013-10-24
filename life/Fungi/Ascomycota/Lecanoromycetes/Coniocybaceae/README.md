@@ -1,5 +1,4 @@
-Coniocybaceae Rchb. FAMILY
-=======
+# Coniocybaceae Rchb. FAMILY
 
 #### Status
 ACCEPTED

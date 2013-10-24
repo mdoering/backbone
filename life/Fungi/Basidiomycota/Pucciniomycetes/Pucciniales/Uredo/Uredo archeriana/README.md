@@ -1,5 +1,4 @@
-Uredo archeriana F. Kern, Cif. & Thurst. SPECIES
-=======
+# Uredo archeriana F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
 ACCEPTED

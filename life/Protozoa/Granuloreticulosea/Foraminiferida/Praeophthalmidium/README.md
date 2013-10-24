@@ -1,5 +1,4 @@
-Praeophthalmidium Knauff, 1966 GENUS
-=======
+# Praeophthalmidium Knauff, 1966 GENUS
 
 #### Status
 ACCEPTED

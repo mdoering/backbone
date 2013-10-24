@@ -1,5 +1,4 @@
-Septoria erythrostoma (Durieu & Mont.) Sacc. SPECIES
-=======
+# Septoria erythrostoma (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laccaria ochropurpurea (Berk.) Peck SPECIES
-=======
+# Laccaria ochropurpurea (Berk.) Peck SPECIES
 
 #### Status
 ACCEPTED

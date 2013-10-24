@@ -1,5 +1,4 @@
-Krombholzia extremiorientalis Lj.N. Vassiljeva SPECIES
-=======
+# Krombholzia extremiorientalis Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

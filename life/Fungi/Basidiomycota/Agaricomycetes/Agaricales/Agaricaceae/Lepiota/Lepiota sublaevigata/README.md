@@ -1,5 +1,4 @@
-Lepiota sublaevigata Bon & Boiffard SPECIES
-=======
+# Lepiota sublaevigata Bon & Boiffard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium imitans Funke et al., 1997 SPECIES
-=======
+# Corynebacterium imitans Funke et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

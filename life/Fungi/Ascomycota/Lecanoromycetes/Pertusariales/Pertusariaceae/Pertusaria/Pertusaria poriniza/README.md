@@ -1,5 +1,4 @@
-Pertusaria poriniza Nyl. SPECIES
-=======
+# Pertusaria poriniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

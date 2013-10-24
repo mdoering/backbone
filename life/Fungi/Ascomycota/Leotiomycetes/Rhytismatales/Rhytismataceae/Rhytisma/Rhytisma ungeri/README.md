@@ -1,5 +1,4 @@
-Rhytisma ungeri Mesch. SPECIES
-=======
+# Rhytisma ungeri Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus rhamni Feltgen SPECIES
-=======
+# Ophiobolus rhamni Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glossomastix chrysoplasta O'Kelly, C.J. SPECIES
-=======
+# Glossomastix chrysoplasta O'Kelly, C.J. SPECIES
 
 #### Status
 ACCEPTED

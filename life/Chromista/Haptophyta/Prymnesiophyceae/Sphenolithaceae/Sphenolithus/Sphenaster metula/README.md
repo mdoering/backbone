@@ -1,5 +1,4 @@
-Sphenaster metula Wilcoxon, 1970 SPECIES
-=======
+# Sphenaster metula Wilcoxon, 1970 SPECIES
 
 #### Status
 DOUBTFUL

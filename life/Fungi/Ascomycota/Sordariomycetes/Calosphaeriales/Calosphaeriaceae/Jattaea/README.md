@@ -1,5 +1,4 @@
-Jattaea Berl. GENUS
-=======
+# Jattaea Berl. GENUS
 
 #### Status
 ACCEPTED

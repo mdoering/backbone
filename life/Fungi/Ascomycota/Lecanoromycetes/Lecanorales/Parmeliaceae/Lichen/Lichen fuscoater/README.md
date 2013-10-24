@@ -1,5 +1,4 @@
-Lichen fuscoater K.G. Hagen SPECIES
-=======
+# Lichen fuscoater K.G. Hagen SPECIES
 
 #### Status
 ACCEPTED

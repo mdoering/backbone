@@ -1,5 +1,4 @@
-Papposphaera obpyramidalis H. A. Thomsen SPECIES
-=======
+# Papposphaera obpyramidalis H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

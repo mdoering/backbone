@@ -1,5 +1,4 @@
-Protomycena Hibbett, D. Grimaldi & Donoghue GENUS
-=======
+# Protomycena Hibbett, D. Grimaldi & Donoghue GENUS
 
 #### Status
 ACCEPTED

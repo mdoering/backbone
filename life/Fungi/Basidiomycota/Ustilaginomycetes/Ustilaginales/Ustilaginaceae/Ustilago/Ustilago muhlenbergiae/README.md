@@ -1,5 +1,4 @@
-Ustilago muhlenbergiae var. muhlenbergiae VARIETY
-=======
+# Ustilago muhlenbergiae Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 41: (61) (1902)
 
 #### Original name
-Ustilago muhlenbergiae var. muhlenbergiae
+Ustilago muhlenbergiae Henn.
 
 ### Remarks
 null

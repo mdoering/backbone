@@ -1,5 +1,4 @@
-Discorbinella disparilis Earland & Heron-Allen SPECIES
-=======
+# Discorbinella disparilis Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

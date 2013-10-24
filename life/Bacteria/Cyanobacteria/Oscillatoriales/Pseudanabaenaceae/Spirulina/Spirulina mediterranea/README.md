@@ -1,5 +1,4 @@
-Spirulina mediterranea K.N. Deckenbach SPECIES
-=======
+# Spirulina mediterranea K.N. Deckenbach SPECIES
 
 #### Status
 ACCEPTED

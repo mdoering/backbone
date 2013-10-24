@@ -1,5 +1,4 @@
-Puccinia triticorum Speg. SPECIES
-=======
+# Puccinia triticorum Speg. SPECIES
 
 #### Status
 ACCEPTED

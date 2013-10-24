@@ -1,5 +1,4 @@
-Chondropsis Nylander, 1863 GENUS
-=======
+# Chondropsis Nylander, 1863 GENUS
 
 #### Status
 ACCEPTED

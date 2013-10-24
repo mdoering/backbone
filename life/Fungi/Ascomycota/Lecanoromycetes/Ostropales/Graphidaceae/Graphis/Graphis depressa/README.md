@@ -1,5 +1,4 @@
-Graphis depressa (Ach.) Wallr. SPECIES
-=======
+# Graphis depressa (Ach.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

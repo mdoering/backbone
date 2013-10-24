@@ -1,5 +1,4 @@
-Sphaeronaema ossis Preuss SPECIES
-=======
+# Sphaeronaema ossis Preuss SPECIES
 
 #### Status
 ACCEPTED

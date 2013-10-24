@@ -1,5 +1,4 @@
-Phaeographis elliptica Müll. Arg. SPECIES
-=======
+# Phaeographis elliptica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

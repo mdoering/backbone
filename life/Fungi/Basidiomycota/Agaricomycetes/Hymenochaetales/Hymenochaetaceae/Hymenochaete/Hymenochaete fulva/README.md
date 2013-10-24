@@ -1,5 +1,4 @@
-Hymenochaete fulva Burt, 1918 SPECIES
-=======
+# Hymenochaete fulva Burt, 1918 SPECIES
 
 #### Status
 ACCEPTED

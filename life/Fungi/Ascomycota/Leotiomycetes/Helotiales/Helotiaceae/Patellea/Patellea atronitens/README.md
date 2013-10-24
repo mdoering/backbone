@@ -1,5 +1,4 @@
-Patellea atronitens Velen. SPECIES
-=======
+# Patellea atronitens Velen. SPECIES
 
 #### Status
 ACCEPTED

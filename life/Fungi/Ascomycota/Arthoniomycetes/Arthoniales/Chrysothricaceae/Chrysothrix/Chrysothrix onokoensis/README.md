@@ -1,5 +1,4 @@
-Chrysothrix onokoensis R.C. Harris & Ladd SPECIES
-=======
+# Chrysothrix onokoensis R.C. Harris & Ladd SPECIES
 
 #### Status
 ACCEPTED

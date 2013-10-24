@@ -1,5 +1,4 @@
-Ceratorhiza goodyerae-repentis (Costantin & L.M. Dufour) R.T. Moore, 1987 SPECIES
-=======
+# Ceratorhiza goodyerae-repentis (Costantin & L.M. Dufour) R.T. Moore, 1987 SPECIES
 
 #### Status
 ACCEPTED

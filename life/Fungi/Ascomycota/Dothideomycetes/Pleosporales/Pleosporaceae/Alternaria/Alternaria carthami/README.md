@@ -1,14 +1,13 @@
-Macrosporium carthami Savul., 1943 SPECIES
-=======
+# Alternaria carthami S. Chowdhury, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Sect. sci. Acad. roum. 25: 22 (1943)
+Bull. centr. bot. Gdn, Moscow 35: 83 (1959)
 
 #### Original name
 Macrosporium carthami Savul., 1943

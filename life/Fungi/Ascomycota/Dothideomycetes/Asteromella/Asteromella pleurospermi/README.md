@@ -1,5 +1,4 @@
-Asteromella pleurospermi (Died.) H. Ruppr. SPECIES
-=======
+# Asteromella pleurospermi (Died.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

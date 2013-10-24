@@ -1,5 +1,4 @@
-Rhexographium M. Morelet GENUS
-=======
+# Rhexographium M. Morelet GENUS
 
 #### Status
 ACCEPTED

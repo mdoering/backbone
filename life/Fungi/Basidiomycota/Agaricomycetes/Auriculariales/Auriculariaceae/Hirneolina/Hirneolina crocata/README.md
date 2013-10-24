@@ -1,5 +1,4 @@
-Hirneolina crocata Pat. SPECIES
-=======
+# Hirneolina crocata Pat. SPECIES
 
 #### Status
 ACCEPTED

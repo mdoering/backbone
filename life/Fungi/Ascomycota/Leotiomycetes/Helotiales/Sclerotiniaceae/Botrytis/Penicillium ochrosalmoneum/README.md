@@ -1,5 +1,4 @@
-Penicillium ochrosalmoneum Udagawa, 1959 SPECIES
-=======
+# Penicillium ochrosalmoneum Udagawa, 1959 SPECIES
 
 #### Status
 DOUBTFUL

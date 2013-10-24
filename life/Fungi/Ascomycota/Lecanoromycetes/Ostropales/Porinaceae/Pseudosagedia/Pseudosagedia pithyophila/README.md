@@ -1,5 +1,4 @@
-Pseudosagedia pithyophila (Th. Fr. & Blomb.) Makar. SPECIES
-=======
+# Pseudosagedia pithyophila (Th. Fr. & Blomb.) Makar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora subocculta P. Karst. SPECIES
-=======
+# Teichospora subocculta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

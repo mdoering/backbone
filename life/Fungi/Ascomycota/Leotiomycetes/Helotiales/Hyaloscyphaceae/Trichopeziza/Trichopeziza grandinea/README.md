@@ -1,5 +1,4 @@
-Trichopeziza grandinea (Quél.) Sacc. SPECIES
-=======
+# Trichopeziza grandinea (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

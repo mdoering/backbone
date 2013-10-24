@@ -1,5 +1,4 @@
-Lophodermium erumpens I. Hino & Katum. SPECIES
-=======
+# Lophodermium erumpens I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

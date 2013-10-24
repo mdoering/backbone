@@ -1,14 +1,13 @@
-Pleurotus serotinus f. serotinus (Pers.) P. Kumm., 1871 FORM
-=======
+# Panellus serotinus (Pers.) Kühner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 108 (1871)
+C. r. hebd. Séanc. Acad. Sci. , Paris 230: 1889 (1950)
 
 #### Original name
 Agaricus serotinus Pers., 1793

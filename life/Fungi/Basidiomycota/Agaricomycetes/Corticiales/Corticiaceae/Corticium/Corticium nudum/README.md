@@ -1,5 +1,4 @@
-Corticium nudum SPECIES
-=======
+# Corticium nudum SPECIES
 
 #### Status
 ACCEPTED

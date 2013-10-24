@@ -1,5 +1,4 @@
-Ganoderma fornicatum (Fr.) Pat. SPECIES
-=======
+# Ganoderma fornicatum (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

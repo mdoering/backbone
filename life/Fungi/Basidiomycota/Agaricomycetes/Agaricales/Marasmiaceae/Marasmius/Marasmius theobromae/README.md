@@ -1,5 +1,4 @@
-Marasmius theobromae Faber SPECIES
-=======
+# Marasmius theobromae Faber SPECIES
 
 #### Status
 ACCEPTED

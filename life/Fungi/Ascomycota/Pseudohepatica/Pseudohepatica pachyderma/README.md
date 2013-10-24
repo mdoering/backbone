@@ -1,5 +1,4 @@
-Pseudohepatica pachyderma P.M. Jørg., 1993 SPECIES
-=======
+# Pseudohepatica pachyderma P.M. Jørg., 1993 SPECIES
 
 #### Status
 ACCEPTED

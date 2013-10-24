@@ -1,5 +1,4 @@
-Phyllosticta scorodoniae Unamuno SPECIES
-=======
+# Phyllosticta scorodoniae Unamuno SPECIES
 
 #### Status
 ACCEPTED

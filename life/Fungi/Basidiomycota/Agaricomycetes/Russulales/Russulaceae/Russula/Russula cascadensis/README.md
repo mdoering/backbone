@@ -1,5 +1,4 @@
-Russula cascadensis Shaffer SPECIES
-=======
+# Russula cascadensis Shaffer SPECIES
 
 #### Status
 ACCEPTED

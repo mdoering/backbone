@@ -1,5 +1,4 @@
-Ostreopsis siamensis Schmidt SPECIES
-=======
+# Ostreopsis siamensis Schmidt SPECIES
 
 #### Status
 ACCEPTED

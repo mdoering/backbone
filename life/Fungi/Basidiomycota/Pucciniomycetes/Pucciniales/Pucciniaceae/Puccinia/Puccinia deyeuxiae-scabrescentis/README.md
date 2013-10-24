@@ -1,5 +1,4 @@
-Puccinia deyeuxiae-scabrescentis Y.Z. Wang & S.X. Wei, 1980 SPECIES
-=======
+# Puccinia deyeuxiae-scabrescentis Y.Z. Wang & S.X. Wei, 1980 SPECIES
 
 #### Status
 ACCEPTED

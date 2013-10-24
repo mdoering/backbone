@@ -1,5 +1,4 @@
-Taphrina unilateralis (Peck) Laubert SPECIES
-=======
+# Taphrina unilateralis (Peck) Laubert SPECIES
 
 #### Status
 ACCEPTED

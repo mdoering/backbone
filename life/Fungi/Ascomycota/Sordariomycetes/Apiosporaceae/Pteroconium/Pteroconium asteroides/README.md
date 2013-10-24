@@ -1,5 +1,4 @@
-Pteroconium asteroides Grove, 1914 SPECIES
-=======
+# Pteroconium asteroides Grove, 1914 SPECIES
 
 #### Status
 ACCEPTED

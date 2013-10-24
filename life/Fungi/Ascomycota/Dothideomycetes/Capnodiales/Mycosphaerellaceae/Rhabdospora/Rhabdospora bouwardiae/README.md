@@ -1,5 +1,4 @@
-Rhabdospora bouwardiae Pass. SPECIES
-=======
+# Rhabdospora bouwardiae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrichidium Ilowaisky, 1921 GENUS
-=======
+# Hypotrichidium Ilowaisky, 1921 GENUS
 
 #### Status
 ACCEPTED

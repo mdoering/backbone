@@ -1,5 +1,4 @@
-Sclerophoma capsici Lobik SPECIES
-=======
+# Sclerophoma capsici Lobik SPECIES
 
 #### Status
 ACCEPTED

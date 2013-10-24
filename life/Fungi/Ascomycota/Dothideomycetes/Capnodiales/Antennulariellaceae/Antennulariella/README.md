@@ -1,17 +1,16 @@
-Capnociferria Bat. GENUS
-=======
+# Antennulariella Woron. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista & Ciferri, Saccardoa 2: 76 (1963)
+Trudy Byuro Prikl. Bot. 8(6): 771 (1915)
 
 #### Original name
-Capnociferria Bat.
+Antennulariella Woron.
 
 ### Remarks
 null

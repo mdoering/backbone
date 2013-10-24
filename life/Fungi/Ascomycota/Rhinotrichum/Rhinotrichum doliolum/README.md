@@ -1,5 +1,4 @@
-Rhinotrichum doliolum Pound & Clem. SPECIES
-=======
+# Rhinotrichum doliolum Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

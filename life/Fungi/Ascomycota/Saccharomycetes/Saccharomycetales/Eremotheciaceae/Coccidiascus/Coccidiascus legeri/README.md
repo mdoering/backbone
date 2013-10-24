@@ -1,5 +1,4 @@
-Coccidiascus legeri Chatton, 1913 SPECIES
-=======
+# Coccidiascus legeri Chatton, 1913 SPECIES
 
 #### Status
 ACCEPTED

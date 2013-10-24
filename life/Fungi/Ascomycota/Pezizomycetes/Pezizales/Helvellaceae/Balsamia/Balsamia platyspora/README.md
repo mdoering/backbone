@@ -1,5 +1,4 @@
-Balsamia platyspora Berk., 1844 SPECIES
-=======
+# Balsamia platyspora Berk., 1844 SPECIES
 
 #### Status
 ACCEPTED

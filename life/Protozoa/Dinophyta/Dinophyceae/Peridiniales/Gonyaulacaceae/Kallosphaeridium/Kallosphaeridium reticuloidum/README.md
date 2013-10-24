@@ -1,5 +1,4 @@
-Kallosphaeridium reticuloidum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Kallosphaeridium reticuloidum (Jiabo, 1978) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

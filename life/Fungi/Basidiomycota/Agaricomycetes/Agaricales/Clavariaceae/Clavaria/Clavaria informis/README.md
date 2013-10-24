@@ -1,5 +1,4 @@
-Clavaria informis E.H.L. Krause SPECIES
-=======
+# Clavaria informis E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

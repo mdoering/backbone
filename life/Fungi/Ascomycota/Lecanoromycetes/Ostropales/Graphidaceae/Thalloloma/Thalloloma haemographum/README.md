@@ -1,5 +1,4 @@
-Thalloloma haemographum (Nyl.) Staiger SPECIES
-=======
+# Thalloloma haemographum (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED

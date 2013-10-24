@@ -1,5 +1,4 @@
-Didymosphaeria rubi Fuckel SPECIES
-=======
+# Didymosphaeria rubi Fuckel SPECIES
 
 #### Status
 ACCEPTED

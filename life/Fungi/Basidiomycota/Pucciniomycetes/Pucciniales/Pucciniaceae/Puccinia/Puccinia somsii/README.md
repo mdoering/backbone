@@ -1,5 +1,4 @@
-Puccinia somsii Henn. SPECIES
-=======
+# Puccinia somsii Henn. SPECIES
 
 #### Status
 ACCEPTED

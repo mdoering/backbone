@@ -1,17 +1,16 @@
-Penicillium asperosporum G. Sm., 1965 SPECIES
-=======
+# Penicillium megasporum Orpurt & Fennell, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 48(2): 275 (1965)
+Mycologia 47: 233 (1955)
 
 #### Original name
-Penicillium asperosporum G. Sm., 1965
+Penicillium megasporum Orpurt & Fennell, 1955
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Buellia pachytheca H. Magn. SPECIES
-=======
+# Buellia pachytheca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

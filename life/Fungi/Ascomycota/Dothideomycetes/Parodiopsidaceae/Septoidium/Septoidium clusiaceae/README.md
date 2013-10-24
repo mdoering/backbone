@@ -1,5 +1,4 @@
-Septoidium clusiaceae G. Arnaud, 1921 SPECIES
-=======
+# Septoidium clusiaceae G. Arnaud, 1921 SPECIES
 
 #### Status
 ACCEPTED

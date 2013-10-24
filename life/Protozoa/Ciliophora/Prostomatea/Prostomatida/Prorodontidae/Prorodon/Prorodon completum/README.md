@@ -1,5 +1,4 @@
-Prorodon completum subsp. candens Kahl, 1927 SUBSPECIES
-=======
+# Prorodon completum Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

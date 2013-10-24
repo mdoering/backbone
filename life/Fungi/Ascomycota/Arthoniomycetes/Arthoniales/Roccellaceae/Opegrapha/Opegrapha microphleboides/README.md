@@ -1,5 +1,4 @@
-Opegrapha microphleboides Nyl. SPECIES
-=======
+# Opegrapha microphleboides Nyl. SPECIES
 
 #### Status
 ACCEPTED

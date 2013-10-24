@@ -1,5 +1,4 @@
-Pseudocercospora thymicola Pellic. SPECIES
-=======
+# Pseudocercospora thymicola Pellic. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus parasilvaticus Heinem. SPECIES
-=======
+# Agaricus parasilvaticus Heinem. SPECIES
 
 #### Status
 ACCEPTED

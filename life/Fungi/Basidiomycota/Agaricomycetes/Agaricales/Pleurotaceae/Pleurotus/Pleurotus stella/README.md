@@ -1,5 +1,4 @@
-Pleurotus stella Pat. SPECIES
-=======
+# Pleurotus stella Pat. SPECIES
 
 #### Status
 ACCEPTED

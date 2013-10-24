@@ -1,5 +1,4 @@
-Excipula serratulae (Allesch.) Grove SPECIES
-=======
+# Excipula serratulae (Allesch.) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor lycoperdoides Scop. SPECIES
-=======
+# Mucor lycoperdoides Scop. SPECIES
 
 #### Status
 ACCEPTED

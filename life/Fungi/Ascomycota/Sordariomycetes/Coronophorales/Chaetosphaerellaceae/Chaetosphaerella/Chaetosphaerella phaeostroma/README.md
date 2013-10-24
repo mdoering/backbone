@@ -1,17 +1,16 @@
-Chaetosphaeria phaeostroma var. phaeostroma VARIETY
-=======
+# Chaetosphaerella phaeostroma (Durieu & Mont.) E. Müll. & C. Booth, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 58(1): 77 (1972)
 
 #### Original name
-Chaetosphaeria phaeostroma var. phaeostroma
+Sphaeria phaeostroma Durieu & Mont., 1846
 
 ### Remarks
 null

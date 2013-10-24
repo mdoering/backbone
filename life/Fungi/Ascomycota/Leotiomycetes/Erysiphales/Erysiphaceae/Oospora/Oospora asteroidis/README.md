@@ -1,5 +1,4 @@
-Oospora asteroidis Sauv. SPECIES
-=======
+# Oospora asteroidis Sauv. SPECIES
 
 #### Status
 ACCEPTED

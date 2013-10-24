@@ -1,5 +1,4 @@
-Marasmius xerotoides H. Post SPECIES
-=======
+# Marasmius xerotoides H. Post SPECIES
 
 #### Status
 ACCEPTED

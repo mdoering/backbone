@@ -1,5 +1,4 @@
-Sphaerophoma Petr. GENUS
-=======
+# Sphaerophoma Petr. GENUS
 
 #### Status
 ACCEPTED

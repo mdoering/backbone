@@ -1,17 +1,16 @@
-Cladonia pityrea var. pityrea VARIETY
-=======
+# Cladonia ramulosa (With.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. carniol. (Wien), Edn 2 21 (1826)
+Lichenologist 16(3): 225 (1984)
 
 #### Original name
-Cladonia pityrea var. pityrea
+Lichen ramulosus With.
 
 ### Remarks
 null

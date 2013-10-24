@@ -1,5 +1,4 @@
-Microsphaeropsis microstegium (Syd. & P. Syd.) Aa SPECIES
-=======
+# Microsphaeropsis microstegium (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

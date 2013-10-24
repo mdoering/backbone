@@ -1,5 +1,4 @@
-Endocalyx cinctus Petch, 1908 SPECIES
-=======
+# Endocalyx cinctus Petch, 1908 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus insignior (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus insignior (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

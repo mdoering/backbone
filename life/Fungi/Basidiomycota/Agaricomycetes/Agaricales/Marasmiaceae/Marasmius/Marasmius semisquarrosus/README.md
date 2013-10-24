@@ -1,5 +1,4 @@
-Marasmius semisquarrosus Berk. & Cooke SPECIES
-=======
+# Marasmius semisquarrosus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

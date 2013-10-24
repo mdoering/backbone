@@ -1,5 +1,4 @@
-Mollisia laeta Rick SPECIES
-=======
+# Mollisia laeta Rick SPECIES
 
 #### Status
 ACCEPTED

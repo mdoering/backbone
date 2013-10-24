@@ -1,5 +1,4 @@
-Spermosporina graminella (Höhn.) U. Braun SPECIES
-=======
+# Spermosporina graminella (Höhn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

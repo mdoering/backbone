@@ -1,5 +1,4 @@
-Marssonia quercus Peck SPECIES
-=======
+# Marssonia quercus Peck SPECIES
 
 #### Status
 ACCEPTED

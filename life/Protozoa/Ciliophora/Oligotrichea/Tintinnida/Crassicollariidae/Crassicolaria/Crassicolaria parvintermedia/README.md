@@ -1,5 +1,4 @@
-Crassicolaria parvintermedia Nagy, 1986 SPECIES
-=======
+# Crassicolaria parvintermedia Nagy, 1986 SPECIES
 
 #### Status
 ACCEPTED

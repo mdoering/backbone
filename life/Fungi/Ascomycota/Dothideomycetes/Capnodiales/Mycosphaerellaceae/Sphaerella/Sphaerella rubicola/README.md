@@ -1,5 +1,4 @@
-Sphaerella rubicola McAlpine SPECIES
-=======
+# Sphaerella rubicola McAlpine SPECIES
 
 #### Status
 ACCEPTED

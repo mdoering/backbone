@@ -1,5 +1,4 @@
-Buccella bollii SPECIES
-=======
+# Buccella bollii SPECIES
 
 #### Status
 ACCEPTED

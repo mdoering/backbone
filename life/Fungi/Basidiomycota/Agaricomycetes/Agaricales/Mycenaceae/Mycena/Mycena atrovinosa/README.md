@@ -1,5 +1,4 @@
-Mycena atrovinosa Robich SPECIES
-=======
+# Mycena atrovinosa Robich SPECIES
 
 #### Status
 ACCEPTED

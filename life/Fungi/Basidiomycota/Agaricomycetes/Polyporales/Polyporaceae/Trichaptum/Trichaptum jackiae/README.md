@@ -1,5 +1,4 @@
-Trichaptum jackiae Corner, 1987 SPECIES
-=======
+# Trichaptum jackiae Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium tigrinum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium tigrinum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma rufipes (Dietel) Syd., 1922 SPECIES
-=======
+# Puccinia rufipes Dietel, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 118 (1922)
+Engler's Bot. Jahrb. 32: 48 (1902)
 
 #### Original name
 Puccinia rufipes Dietel, 1903

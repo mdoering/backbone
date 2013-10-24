@@ -1,5 +1,4 @@
-Phaeoannellomyces elegans McGinnis & Schell, 1985 SPECIES
-=======
+# Phaeoannellomyces elegans McGinnis & Schell, 1985 SPECIES
 
 #### Status
 ACCEPTED

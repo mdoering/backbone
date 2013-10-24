@@ -1,14 +1,13 @@
-Proxifrons Vella, 1963 GENUS
-=======
+# Mucronina Ehrenberg, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Nom. Zool. (Polypi), 17.
 
 #### Original name
 null

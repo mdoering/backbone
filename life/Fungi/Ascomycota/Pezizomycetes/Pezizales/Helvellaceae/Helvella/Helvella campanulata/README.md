@@ -1,5 +1,4 @@
-Helvella campanulata Scop. SPECIES
-=======
+# Helvella campanulata Scop. SPECIES
 
 #### Status
 ACCEPTED

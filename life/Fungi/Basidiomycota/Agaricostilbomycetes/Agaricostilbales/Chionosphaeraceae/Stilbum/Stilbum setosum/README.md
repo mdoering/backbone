@@ -1,5 +1,4 @@
-Stilbum setosum Wallr. SPECIES
-=======
+# Stilbum setosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

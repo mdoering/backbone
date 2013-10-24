@@ -1,5 +1,4 @@
-Phoma dolichopus Penz. SPECIES
-=======
+# Phoma dolichopus Penz. SPECIES
 
 #### Status
 ACCEPTED

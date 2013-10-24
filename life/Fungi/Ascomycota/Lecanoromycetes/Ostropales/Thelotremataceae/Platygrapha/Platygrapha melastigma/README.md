@@ -1,5 +1,4 @@
-Platygrapha melastigma (Nyl.) Nyl. SPECIES
-=======
+# Platygrapha melastigma (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocalicium Alb. Schmidt GENUS
-=======
+# Phaeocalicium Alb. Schmidt GENUS
 
 #### Status
 ACCEPTED

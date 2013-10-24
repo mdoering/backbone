@@ -1,5 +1,4 @@
-Entophysalis lithophila R. Tavera & J. Komárek SPECIES
-=======
+# Entophysalis lithophila R. Tavera & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

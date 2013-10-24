@@ -1,5 +1,4 @@
-Humaria rosella Velen. SPECIES
-=======
+# Humaria rosella Velen. SPECIES
 
 #### Status
 ACCEPTED

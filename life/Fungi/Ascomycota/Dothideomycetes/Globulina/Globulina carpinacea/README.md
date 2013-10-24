@@ -1,5 +1,4 @@
-Globulina carpinacea Velen. SPECIES
-=======
+# Globulina carpinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

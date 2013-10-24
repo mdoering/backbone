@@ -1,5 +1,4 @@
-Cyphella subgrisella Rick SPECIES
-=======
+# Cyphella subgrisella Rick SPECIES
 
 #### Status
 ACCEPTED

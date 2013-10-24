@@ -1,5 +1,4 @@
-Baeospora oligophylla Singer SPECIES
-=======
+# Baeospora oligophylla Singer SPECIES
 
 #### Status
 ACCEPTED

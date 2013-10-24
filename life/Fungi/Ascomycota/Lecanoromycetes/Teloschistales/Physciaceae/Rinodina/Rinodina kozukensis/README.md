@@ -1,14 +1,13 @@
-Melanaspicilia kozukensis Vain. SPECIES
-=======
+# Rinodina kozukensis (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 524 (1931)
 
 #### Original name
 Melanaspicilia kozukensis Vain.

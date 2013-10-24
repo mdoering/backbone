@@ -1,5 +1,4 @@
-Nectria hematochroma Speg. SPECIES
-=======
+# Nectria hematochroma Speg. SPECIES
 
 #### Status
 ACCEPTED

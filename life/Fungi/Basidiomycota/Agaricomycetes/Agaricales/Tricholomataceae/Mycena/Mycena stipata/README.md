@@ -1,5 +1,4 @@
-Mycena stipata Maas Geest. & Schwöbel SPECIES
-=======
+# Mycena stipata Maas Geest. & Schwöbel SPECIES
 
 #### Status
 ACCEPTED

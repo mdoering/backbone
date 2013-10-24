@@ -1,5 +1,4 @@
-Schizothyrella Thüm. GENUS
-=======
+# Schizothyrella Thüm. GENUS
 
 #### Status
 ACCEPTED

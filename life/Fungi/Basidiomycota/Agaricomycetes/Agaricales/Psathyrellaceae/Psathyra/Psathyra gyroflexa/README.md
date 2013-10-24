@@ -1,5 +1,4 @@
-Psathyra gyroflexa (Fr.) P. Kumm. SPECIES
-=======
+# Psathyra gyroflexa (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus papagoensis Lindsey & Gilb. SPECIES
-=======
+# Coprinus papagoensis Lindsey & Gilb. SPECIES
 
 #### Status
 ACCEPTED

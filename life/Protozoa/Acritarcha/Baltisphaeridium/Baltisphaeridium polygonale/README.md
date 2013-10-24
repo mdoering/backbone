@@ -1,5 +1,4 @@
-Baltisphaeridium polygonale SPECIES
-=======
+# Baltisphaeridium polygonale SPECIES
 
 #### Status
 ACCEPTED

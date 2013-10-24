@@ -1,5 +1,4 @@
-Schismatosphaeridium F.L.Staplin, J.Jansonius & M.A.Pocock GENUS
-=======
+# Schismatosphaeridium F.L.Staplin, J.Jansonius & M.A.Pocock GENUS
 
 #### Status
 ACCEPTED

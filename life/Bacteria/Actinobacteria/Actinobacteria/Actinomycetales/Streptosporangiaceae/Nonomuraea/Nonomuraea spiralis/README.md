@@ -1,5 +1,4 @@
-Nonomuraea spiralis (Meyer, 1981) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea spiralis (Meyer, 1981) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

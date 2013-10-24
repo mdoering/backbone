@@ -1,5 +1,4 @@
-Genea eucalyptorum J.W. Cribb SPECIES
-=======
+# Genea eucalyptorum J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria radiata Oshio SPECIES
-=======
+# Pertusaria radiata Oshio SPECIES
 
 #### Status
 ACCEPTED

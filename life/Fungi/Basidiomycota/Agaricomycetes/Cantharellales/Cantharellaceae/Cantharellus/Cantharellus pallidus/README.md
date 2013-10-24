@@ -1,5 +1,4 @@
-Cantharellus pallidus Yasuda SPECIES
-=======
+# Cantharellus pallidus Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster pulverulentus Wakef. SPECIES
-=======
+# Geastrum pulverulentus Wakef. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster pulverulentus Wakef.
+Geastrum pulverulentus Wakef.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Protospathidium terricola Foissner, 1998 SPECIES
-=======
+# Protospathidium terricola Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia subtestacea Malme SPECIES
-=======
+# Bacidia subtestacea Malme SPECIES
 
 #### Status
 ACCEPTED

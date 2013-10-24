@@ -1,5 +1,4 @@
-Ovularia mulgedii Bubák SPECIES
-=======
+# Ovularia mulgedii Bubák SPECIES
 
 #### Status
 ACCEPTED

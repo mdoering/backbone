@@ -1,5 +1,4 @@
-Sporisorium ingoldii Vánky SPECIES
-=======
+# Sporisorium ingoldii Vánky SPECIES
 
 #### Status
 ACCEPTED

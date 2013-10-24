@@ -1,5 +1,4 @@
-Biatora furfurosa (Tuck.) Tuck. SPECIES
-=======
+# Biatora furfurosa (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

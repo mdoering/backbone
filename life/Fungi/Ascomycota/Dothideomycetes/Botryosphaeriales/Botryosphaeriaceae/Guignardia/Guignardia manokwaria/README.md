@@ -1,5 +1,4 @@
-Guignardia manokwaria K.D. Hyde SPECIES
-=======
+# Guignardia manokwaria K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

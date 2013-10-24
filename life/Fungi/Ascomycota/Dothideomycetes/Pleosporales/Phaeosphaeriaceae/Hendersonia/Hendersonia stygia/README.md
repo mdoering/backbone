@@ -1,5 +1,4 @@
-Hendersonia stygia Ellis & Everh. SPECIES
-=======
+# Hendersonia stygia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

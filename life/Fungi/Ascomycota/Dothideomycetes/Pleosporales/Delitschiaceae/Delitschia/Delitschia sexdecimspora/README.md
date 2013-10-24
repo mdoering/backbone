@@ -1,5 +1,4 @@
-Delitschia sexdecimspora Jeng, Luck-Allen & Cain SPECIES
-=======
+# Delitschia sexdecimspora Jeng, Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

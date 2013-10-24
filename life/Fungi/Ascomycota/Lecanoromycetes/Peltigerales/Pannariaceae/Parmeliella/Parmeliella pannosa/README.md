@@ -1,17 +1,16 @@
-Parmeliella pannosa var. pannosa VARIETY
-=======
+# Parmeliella pannosa (Sw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 64: 86 (1881)
 
 #### Original name
-Parmeliella pannosa var. pannosa
+Lichen pannosus Sw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthopyrenia subspectabile Vezda & Kantvilas SPECIES
-=======
+# Arthopyrenia subspectabile Vezda & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium brunneolum Sacc., 1886 SPECIES
-=======
+# Cladosporium brunneolum Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

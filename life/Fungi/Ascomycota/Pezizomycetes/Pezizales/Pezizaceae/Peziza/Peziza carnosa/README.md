@@ -1,5 +1,4 @@
-Peziza carnosa Oeder SPECIES
-=======
+# Peziza carnosa Oeder SPECIES
 
 #### Status
 ACCEPTED

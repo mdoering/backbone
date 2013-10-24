@@ -1,5 +1,4 @@
-Omphalia cuticolor Murrill SPECIES
-=======
+# Omphalia cuticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

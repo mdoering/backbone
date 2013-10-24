@@ -1,5 +1,4 @@
-Rhabdospora kirghisorum Sacc. SPECIES
-=======
+# Rhabdospora kirghisorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

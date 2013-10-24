@@ -1,5 +1,4 @@
-Flammula squalida Peck SPECIES
-=======
+# Flammula squalida Peck SPECIES
 
 #### Status
 ACCEPTED

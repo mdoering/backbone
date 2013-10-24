@@ -1,5 +1,4 @@
-Streptomyces seoulensis Chun et al., 1997 SPECIES
-=======
+# Streptomyces seoulensis Chun et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

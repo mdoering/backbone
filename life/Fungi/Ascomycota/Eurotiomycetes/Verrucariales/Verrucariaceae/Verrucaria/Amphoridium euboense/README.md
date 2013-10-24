@@ -1,5 +1,4 @@
-Amphoridium euboense (Servít) Servít SPECIES
-=======
+# Amphoridium euboense (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

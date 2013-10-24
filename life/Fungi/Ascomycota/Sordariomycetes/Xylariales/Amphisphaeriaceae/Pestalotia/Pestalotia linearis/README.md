@@ -1,5 +1,4 @@
-Pestalotia linearis Sacc. SPECIES
-=======
+# Pestalotia linearis Sacc. SPECIES
 
 #### Status
 ACCEPTED

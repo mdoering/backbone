@@ -1,5 +1,4 @@
-Pythium polyandrum Hall SPECIES
-=======
+# Pythium polyandrum Hall SPECIES
 
 #### Status
 ACCEPTED

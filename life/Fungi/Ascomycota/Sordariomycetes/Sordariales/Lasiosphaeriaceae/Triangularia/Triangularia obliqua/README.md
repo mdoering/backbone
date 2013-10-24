@@ -1,5 +1,4 @@
-Triangularia obliqua Cain & Farrow SPECIES
-=======
+# Triangularia obliqua Cain & Farrow SPECIES
 
 #### Status
 ACCEPTED

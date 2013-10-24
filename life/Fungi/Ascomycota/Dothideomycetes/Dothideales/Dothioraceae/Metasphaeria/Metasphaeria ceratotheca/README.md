@@ -1,5 +1,4 @@
-Metasphaeria ceratotheca (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria ceratotheca (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

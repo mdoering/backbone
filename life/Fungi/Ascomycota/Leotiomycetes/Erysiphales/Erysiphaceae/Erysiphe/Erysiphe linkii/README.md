@@ -1,5 +1,4 @@
-Erysiphe linkii Lév. SPECIES
-=======
+# Erysiphe linkii Lév. SPECIES
 
 #### Status
 ACCEPTED

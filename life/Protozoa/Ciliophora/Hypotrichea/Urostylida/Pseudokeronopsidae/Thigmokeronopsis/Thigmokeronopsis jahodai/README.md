@@ -1,5 +1,4 @@
-Thigmokeronopsis jahodai Wicklow, 1981 SPECIES
-=======
+# Thigmokeronopsis jahodai Wicklow, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola acalyphicola Deighton SPECIES
-=======
+# Meliola acalyphicola Deighton SPECIES
 
 #### Status
 ACCEPTED

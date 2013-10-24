@@ -1,5 +1,4 @@
-Cladonia friabilis Ahti SPECIES
-=======
+# Cladonia friabilis Ahti SPECIES
 
 #### Status
 ACCEPTED

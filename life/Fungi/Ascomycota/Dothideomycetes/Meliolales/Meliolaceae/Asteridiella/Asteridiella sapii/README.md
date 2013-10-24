@@ -1,5 +1,4 @@
-Asteridiella sapii (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella sapii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

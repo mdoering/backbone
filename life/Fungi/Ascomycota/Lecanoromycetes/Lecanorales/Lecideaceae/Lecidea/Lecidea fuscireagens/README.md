@@ -1,5 +1,4 @@
-Lecidea fuscireagens Vain. SPECIES
-=======
+# Lecidea fuscireagens Vain. SPECIES
 
 #### Status
 ACCEPTED

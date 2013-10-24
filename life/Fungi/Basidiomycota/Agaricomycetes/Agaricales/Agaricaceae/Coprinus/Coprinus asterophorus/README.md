@@ -1,5 +1,4 @@
-Coprinus asterophorus Long & V.A.M. Mill. SPECIES
-=======
+# Coprinus asterophorus Long & V.A.M. Mill. SPECIES
 
 #### Status
 ACCEPTED

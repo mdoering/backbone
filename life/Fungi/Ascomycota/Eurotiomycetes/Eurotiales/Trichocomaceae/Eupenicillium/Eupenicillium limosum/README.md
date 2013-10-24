@@ -1,5 +1,4 @@
-Eupenicillium limosum S. Ueda, 1995 SPECIES
-=======
+# Eupenicillium limosum S. Ueda, 1995 SPECIES
 
 #### Status
 ACCEPTED

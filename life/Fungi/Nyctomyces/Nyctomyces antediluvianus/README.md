@@ -1,5 +1,4 @@
-Nyctomyces antediluvianus Unger SPECIES
-=======
+# Nyctomyces antediluvianus Unger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus albidus Massee SPECIES
-=======
+# Favolus albidus Massee SPECIES
 
 #### Status
 ACCEPTED

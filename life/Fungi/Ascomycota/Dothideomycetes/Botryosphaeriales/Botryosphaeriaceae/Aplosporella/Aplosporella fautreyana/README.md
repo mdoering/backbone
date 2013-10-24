@@ -1,5 +1,4 @@
-Aplosporella fautreyana Allesch. SPECIES
-=======
+# Aplosporella fautreyana Allesch. SPECIES
 
 #### Status
 ACCEPTED

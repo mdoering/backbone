@@ -1,5 +1,4 @@
-Clitocybe atra Rick SPECIES
-=======
+# Clitocybe atra Rick SPECIES
 
 #### Status
 ACCEPTED

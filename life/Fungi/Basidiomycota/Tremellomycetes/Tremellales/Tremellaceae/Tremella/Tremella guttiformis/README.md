@@ -1,8 +1,7 @@
-Tremella guttaeformis (Berk. & Broome) Bandoni SPECIES
-=======
+# Tremella guttiformis (Berk. & Broome) Bandoni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

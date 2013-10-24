@@ -1,5 +1,4 @@
-Opegrapha rhizocola Fée SPECIES
-=======
+# Opegrapha rhizocola Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripterospora brevicaudata Cain SPECIES
-=======
+# Tripterospora brevicaudata Cain SPECIES
 
 #### Status
 ACCEPTED

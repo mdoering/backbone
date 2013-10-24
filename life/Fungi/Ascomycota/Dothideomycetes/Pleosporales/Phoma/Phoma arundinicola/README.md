@@ -1,5 +1,4 @@
-Phoma arundinicola L.A. Kantsch. SPECIES
-=======
+# Phoma arundinicola L.A. Kantsch. SPECIES
 
 #### Status
 ACCEPTED

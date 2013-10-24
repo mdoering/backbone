@@ -1,5 +1,4 @@
-Poria moricola L. Ling SPECIES
-=======
+# Poria moricola L. Ling SPECIES
 
 #### Status
 ACCEPTED

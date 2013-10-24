@@ -1,5 +1,4 @@
-Ganoderma aurantiacum Torrend SPECIES
-=======
+# Ganoderma aurantiacum Torrend SPECIES
 
 #### Status
 ACCEPTED

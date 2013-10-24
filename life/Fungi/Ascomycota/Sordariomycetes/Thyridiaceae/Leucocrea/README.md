@@ -1,5 +1,4 @@
-Leucocrea GENUS
-=======
+# Leucocrea GENUS
 
 #### Status
 ACCEPTED

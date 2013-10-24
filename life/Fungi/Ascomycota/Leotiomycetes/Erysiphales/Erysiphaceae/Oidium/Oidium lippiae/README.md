@@ -1,5 +1,4 @@
-Oidium lippiae Thüm. SPECIES
-=======
+# Oidium lippiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella oblongiclavata M.E. Barr & Malloch SPECIES
-=======
+# Sporormiella oblongiclavata M.E. Barr & Malloch SPECIES
 
 #### Status
 ACCEPTED

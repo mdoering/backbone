@@ -1,5 +1,4 @@
-Niptera caricinella (Peck) Sacc. SPECIES
-=======
+# Niptera caricinella (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

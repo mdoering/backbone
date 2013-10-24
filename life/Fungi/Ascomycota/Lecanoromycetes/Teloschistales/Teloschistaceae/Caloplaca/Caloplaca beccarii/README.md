@@ -1,5 +1,4 @@
-Caloplaca beccarii (Bagl.) Zahlbr. SPECIES
-=======
+# Caloplaca beccarii (Bagl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

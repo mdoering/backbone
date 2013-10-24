@@ -1,8 +1,7 @@
-Gymnopithus ovatus Kahl, 1926 SPECIES
-=======
+# Pithothorax ovatus (Kahl, 1926) Kahl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

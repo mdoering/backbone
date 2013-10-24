@@ -1,5 +1,4 @@
-Pertusaria stalactiza var. stalactiza VARIETY
-=======
+# Pertusaria stalactiza Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria stalactiza var. stalactiza
+Pertusaria stalactiza Nyl.
 
 ### Remarks
 null

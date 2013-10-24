@@ -1,5 +1,4 @@
-Puccinia calycerae P. Syd. & Syd. SPECIES
-=======
+# Puccinia calycerae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

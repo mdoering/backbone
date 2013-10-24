@@ -1,5 +1,4 @@
-Sphaeria texensis Cooke SPECIES
-=======
+# Sphaeria texensis Cooke SPECIES
 
 #### Status
 ACCEPTED

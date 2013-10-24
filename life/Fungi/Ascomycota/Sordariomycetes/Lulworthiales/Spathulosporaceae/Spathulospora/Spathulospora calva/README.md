@@ -1,5 +1,4 @@
-Spathulospora calva Kohlm., 1973 SPECIES
-=======
+# Spathulospora calva Kohlm., 1973 SPECIES
 
 #### Status
 ACCEPTED

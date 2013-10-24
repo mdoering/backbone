@@ -1,5 +1,4 @@
-Pannaria pannarinum (Nyl.) H. Magn. SPECIES
-=======
+# Pannaria pannarinum (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

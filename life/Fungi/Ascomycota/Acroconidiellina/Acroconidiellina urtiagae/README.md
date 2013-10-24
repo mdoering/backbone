@@ -1,5 +1,4 @@
-Acroconidiellina urtiagae M.B. Ellis, 1971 SPECIES
-=======
+# Acroconidiellina urtiagae M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED

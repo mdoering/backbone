@@ -1,5 +1,4 @@
-Gorgonisphaeridium andrewsii (Stockmans & Willière, 1962) Martin, 1984 SPECIES
-=======
+# Gorgonisphaeridium andrewsii (Stockmans & Willière, 1962) Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

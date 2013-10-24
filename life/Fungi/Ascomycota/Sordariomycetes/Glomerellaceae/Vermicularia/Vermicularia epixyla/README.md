@@ -1,5 +1,4 @@
-Vermicularia epixyla Fr. SPECIES
-=======
+# Vermicularia epixyla Fr. SPECIES
 
 #### Status
 ACCEPTED

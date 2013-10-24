@@ -1,5 +1,4 @@
-Corynespora catenulata N. Sharma, R.K. Chaudhary & Kamal SPECIES
-=======
+# Corynespora catenulata N. Sharma, R.K. Chaudhary & Kamal SPECIES
 
 #### Status
 ACCEPTED

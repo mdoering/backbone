@@ -1,5 +1,4 @@
-Marasmius setulosipes Murrill SPECIES
-=======
+# Marasmius setulosipes Murrill SPECIES
 
 #### Status
 ACCEPTED

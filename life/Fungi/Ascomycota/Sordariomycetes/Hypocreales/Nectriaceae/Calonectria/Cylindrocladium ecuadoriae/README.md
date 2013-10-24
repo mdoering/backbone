@@ -1,5 +1,4 @@
-Cylindrocladium ecuadoriae Crous & M.J. Wingf. SPECIES
-=======
+# Cylindrocladium ecuadoriae Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

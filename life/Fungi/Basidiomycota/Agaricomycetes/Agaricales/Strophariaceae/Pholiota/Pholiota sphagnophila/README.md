@@ -1,5 +1,4 @@
-Pholiota sphagnophila (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota sphagnophila (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

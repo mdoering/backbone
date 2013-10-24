@@ -1,5 +1,4 @@
-Heterodermia albidiflava (Kurok.) D.D. Awasthi SPECIES
-=======
+# Heterodermia albidiflava (Kurok.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

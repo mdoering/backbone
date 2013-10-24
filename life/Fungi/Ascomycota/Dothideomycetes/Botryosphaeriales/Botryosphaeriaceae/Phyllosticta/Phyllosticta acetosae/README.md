@@ -1,5 +1,4 @@
-Phyllosticta acetosae Sacc., 1878 SPECIES
-=======
+# Phyllosticta acetosae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

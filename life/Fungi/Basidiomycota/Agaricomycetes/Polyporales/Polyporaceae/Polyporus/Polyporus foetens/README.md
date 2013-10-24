@@ -1,5 +1,4 @@
-Polyporus foetens Rick SPECIES
-=======
+# Polyporus foetens Rick SPECIES
 
 #### Status
 ACCEPTED

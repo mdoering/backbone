@@ -1,5 +1,4 @@
-Ceriospora ribis Henn. & Plöttn. SPECIES
-=======
+# Ceriospora ribis Henn. & Plöttn. SPECIES
 
 #### Status
 ACCEPTED

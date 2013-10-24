@@ -1,5 +1,4 @@
-Herpetosiphonaceae FAMILY
-=======
+# Herpetosiphonaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula olivascens Schwein. SPECIES
-=======
+# Torula olivascens Schwein. SPECIES
 
 #### Status
 ACCEPTED

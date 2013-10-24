@@ -1,14 +1,13 @@
-Polyphagus rostratus (Serbinow) Shen {?}, 1944 SPECIES
-=======
+# Sporophlyctis rostrata Serbinow, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 31: 233 (1944)
+Bot. Zap. 24: (1907)
 
 #### Original name
 Sporophlyctis rostrata Serbinow, 1907

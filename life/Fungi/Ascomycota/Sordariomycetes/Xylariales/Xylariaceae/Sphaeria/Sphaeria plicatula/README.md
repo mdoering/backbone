@@ -1,5 +1,4 @@
-Sphaeria plicatula Berk. & Broome SPECIES
-=======
+# Sphaeria plicatula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

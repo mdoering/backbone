@@ -1,5 +1,4 @@
-Anoplophrya nodulata SPECIES
-=======
+# Anoplophrya nodulata SPECIES
 
 #### Status
 ACCEPTED

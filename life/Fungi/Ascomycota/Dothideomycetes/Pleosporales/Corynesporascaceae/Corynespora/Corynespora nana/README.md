@@ -1,17 +1,16 @@
-Corynespora nana var. nana VARIETY
-=======
+# Corynespora nana Meenu & Kamal SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 102(3): 345 (1998)
 
 #### Original name
-null
+Corynespora nana Meenu & Kamal
 
 ### Remarks
 null

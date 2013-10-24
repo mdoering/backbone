@@ -1,5 +1,4 @@
-Bottaria dimorpha Vain. SPECIES
-=======
+# Bottaria dimorpha Vain. SPECIES
 
 #### Status
 ACCEPTED

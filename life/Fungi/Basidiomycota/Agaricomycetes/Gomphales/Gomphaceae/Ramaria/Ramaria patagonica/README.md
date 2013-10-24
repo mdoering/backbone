@@ -1,14 +1,13 @@
-Clavaria patagonica Speg., 1887 SPECIES
-=======
+# Ramaria patagonica (Speg.) Corner, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Fuegiani 11: 21 (1887)
+Darwiniana 11: 203 (1957)
 
 #### Original name
 Clavaria patagonica Speg., 1887

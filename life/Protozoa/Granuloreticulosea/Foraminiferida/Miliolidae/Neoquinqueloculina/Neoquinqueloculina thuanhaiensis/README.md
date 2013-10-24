@@ -1,5 +1,4 @@
-Neoquinqueloculina thuanhaiensis Nguyen Ngoc, 1995 SPECIES
-=======
+# Neoquinqueloculina thuanhaiensis Nguyen Ngoc, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acaulospora scrobiculata Trappe, 1977 SPECIES
-=======
+# Acaulospora scrobiculata Trappe, 1977 SPECIES
 
 #### Status
 ACCEPTED

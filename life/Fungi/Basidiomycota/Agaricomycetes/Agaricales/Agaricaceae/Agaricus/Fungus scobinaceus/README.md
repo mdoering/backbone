@@ -1,5 +1,4 @@
-Fungus scobinaceus (Fr.) Kuntze SPECIES
-=======
+# Fungus scobinaceus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

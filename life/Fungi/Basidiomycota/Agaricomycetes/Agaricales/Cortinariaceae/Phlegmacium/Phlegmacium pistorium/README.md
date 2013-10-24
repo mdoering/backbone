@@ -1,5 +1,4 @@
-Phlegmacium pistorium M.M. Moser SPECIES
-=======
+# Phlegmacium pistorium M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

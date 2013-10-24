@@ -1,5 +1,4 @@
-Hyphoderma effusum Sacc. SPECIES
-=======
+# Hyphoderma effusum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium limitatum Wiebel SPECIES
-=======
+# Hysterium limitatum Wiebel SPECIES
 
 #### Status
 ACCEPTED

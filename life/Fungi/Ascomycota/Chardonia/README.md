@@ -1,5 +1,4 @@
-Chardonia Cif. GENUS
-=======
+# Chardonia Cif. GENUS
 
 #### Status
 ACCEPTED

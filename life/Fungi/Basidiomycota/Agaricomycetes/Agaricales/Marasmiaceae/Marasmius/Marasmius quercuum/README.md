@@ -1,5 +1,4 @@
-Marasmius quercuum Murrill SPECIES
-=======
+# Marasmius quercuum Murrill SPECIES
 
 #### Status
 ACCEPTED

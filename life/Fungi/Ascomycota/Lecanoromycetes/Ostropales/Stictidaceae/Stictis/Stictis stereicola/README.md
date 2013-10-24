@@ -1,5 +1,4 @@
-Stictis stereicola Berk. & M.A. Curtis SPECIES
-=======
+# Stictis stereicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

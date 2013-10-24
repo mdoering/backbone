@@ -1,5 +1,4 @@
-Idriella asaicola K.F. Rodrigues & Samuels SPECIES
-=======
+# Idriella asaicola K.F. Rodrigues & Samuels SPECIES
 
 #### Status
 ACCEPTED

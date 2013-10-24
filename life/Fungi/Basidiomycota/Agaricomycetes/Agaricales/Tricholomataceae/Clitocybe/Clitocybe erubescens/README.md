@@ -1,5 +1,4 @@
-Clitocybe erubescens Velen. SPECIES
-=======
+# Clitocybe erubescens Velen. SPECIES
 
 #### Status
 ACCEPTED

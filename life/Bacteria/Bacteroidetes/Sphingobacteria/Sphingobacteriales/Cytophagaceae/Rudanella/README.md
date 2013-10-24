@@ -1,5 +1,4 @@
-Rudanella Weon, Noh, Son, Jang, Kim, Kwon & Stackebrandt, 2008 GENUS
-=======
+# Rudanella Weon, Noh, Son, Jang, Kim, Kwon & Stackebrandt, 2008 GENUS
 
 #### Status
 ACCEPTED

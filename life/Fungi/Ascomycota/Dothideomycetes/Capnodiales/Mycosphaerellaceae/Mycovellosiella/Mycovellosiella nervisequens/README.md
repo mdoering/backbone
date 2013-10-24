@@ -1,5 +1,4 @@
-Mycovellosiella nervisequens (J. Kranz) U. Braun SPECIES
-=======
+# Mycovellosiella nervisequens (J. Kranz) U. Braun SPECIES
 
 #### Status
 ACCEPTED

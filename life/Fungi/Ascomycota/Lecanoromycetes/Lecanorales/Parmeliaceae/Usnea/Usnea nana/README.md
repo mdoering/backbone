@@ -1,5 +1,4 @@
-Usnea nana C.W. Dodge SPECIES
-=======
+# Usnea nana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

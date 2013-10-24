@@ -1,5 +1,4 @@
-Clypeosphaeria aliquanta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Clypeosphaeria aliquanta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

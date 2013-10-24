@@ -1,5 +1,4 @@
-Dothiorellina salicis Höhn. SPECIES
-=======
+# Dothiorellina salicis Höhn. SPECIES
 
 #### Status
 ACCEPTED

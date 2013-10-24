@@ -1,5 +1,4 @@
-Crepidotus obfuscens Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus obfuscens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

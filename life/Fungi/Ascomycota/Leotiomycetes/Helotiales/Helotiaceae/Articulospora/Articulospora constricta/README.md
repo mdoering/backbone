@@ -1,5 +1,4 @@
-Articulospora constricta anon. ined. SPECIES
-=======
+# Articulospora constricta anon. ined. SPECIES
 
 #### Status
 ACCEPTED

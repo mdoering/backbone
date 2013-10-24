@@ -1,5 +1,4 @@
-Elachista coccophorae Takamatsu SPECIES
-=======
+# Elachista coccophorae Takamatsu SPECIES
 
 #### Status
 ACCEPTED

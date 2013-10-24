@@ -1,5 +1,4 @@
-Amauroderma leucosporum Corner, 1983 SPECIES
-=======
+# Amauroderma leucosporum Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

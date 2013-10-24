@@ -1,5 +1,4 @@
-Ascochyta rhagadioli Khokhr. SPECIES
-=======
+# Ascochyta rhagadioli Khokhr. SPECIES
 
 #### Status
 ACCEPTED

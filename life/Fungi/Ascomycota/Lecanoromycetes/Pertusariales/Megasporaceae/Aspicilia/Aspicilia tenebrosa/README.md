@@ -1,5 +1,4 @@
-Aspicilia tenebrosa SPECIES
-=======
+# Aspicilia tenebrosa SPECIES
 
 #### Status
 ACCEPTED

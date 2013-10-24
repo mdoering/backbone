@@ -1,5 +1,4 @@
-Ceratostoma haematorhynchum (Sommerf.) Fr. SPECIES
-=======
+# Ceratostoma haematorhynchum (Sommerf.) Fr. SPECIES
 
 #### Status
 ACCEPTED

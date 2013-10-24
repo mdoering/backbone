@@ -1,8 +1,7 @@
-Basispora saxigena (Lindauer) D.M. John & Lawson SPECIES
-=======
+# Hapalospongidion saxigenum Lindauer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

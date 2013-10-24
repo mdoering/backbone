@@ -1,5 +1,4 @@
-Actipilion druggii Loeblich, 1970 SPECIES
-=======
+# Actipilion druggii Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

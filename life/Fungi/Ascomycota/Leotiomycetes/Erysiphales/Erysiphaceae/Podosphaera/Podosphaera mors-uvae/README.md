@@ -1,17 +1,16 @@
-Sphaerotheca mors-uvae var. mors-uvae VARIETY
-=======
+# Podosphaera mors-uvae (Schwein.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 32): 158 (1876)
+Schlechtendalia 4: 30 (2000)
 
 #### Original name
-Sphaerotheca mors-uvae var. mors-uvae
+Erysiphe mors-uvae Schwein., 1834
 
 ### Remarks
 null

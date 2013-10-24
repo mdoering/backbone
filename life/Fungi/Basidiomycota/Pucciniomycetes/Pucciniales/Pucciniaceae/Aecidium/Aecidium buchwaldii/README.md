@@ -1,5 +1,4 @@
-Aecidium buchwaldii Henn. SPECIES
-=======
+# Aecidium buchwaldii Henn. SPECIES
 
 #### Status
 ACCEPTED

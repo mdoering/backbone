@@ -1,5 +1,4 @@
-Helotiella maireana Rehm SPECIES
-=======
+# Helotiella maireana Rehm SPECIES
 
 #### Status
 ACCEPTED

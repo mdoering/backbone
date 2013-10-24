@@ -1,5 +1,4 @@
-Hazardia J. Weiser, 1977 GENUS
-=======
+# Hazardia J. Weiser, 1977 GENUS
 
 #### Status
 ACCEPTED

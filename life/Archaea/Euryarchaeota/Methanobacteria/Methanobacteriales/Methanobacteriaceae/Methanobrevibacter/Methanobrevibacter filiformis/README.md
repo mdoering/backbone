@@ -1,5 +1,4 @@
-Methanobrevibacter filiformis Leadbetter et al., 1998 SPECIES
-=======
+# Methanobrevibacter filiformis Leadbetter et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

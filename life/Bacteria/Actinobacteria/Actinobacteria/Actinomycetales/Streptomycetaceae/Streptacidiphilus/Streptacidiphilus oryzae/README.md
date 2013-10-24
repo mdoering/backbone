@@ -1,5 +1,4 @@
-Streptacidiphilus oryzae Wang et al., 2006 SPECIES
-=======
+# Streptacidiphilus oryzae Wang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

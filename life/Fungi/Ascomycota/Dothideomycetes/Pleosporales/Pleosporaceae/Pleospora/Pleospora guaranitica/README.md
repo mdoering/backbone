@@ -1,5 +1,4 @@
-Pleospora guaranitica Speg. SPECIES
-=======
+# Pleospora guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

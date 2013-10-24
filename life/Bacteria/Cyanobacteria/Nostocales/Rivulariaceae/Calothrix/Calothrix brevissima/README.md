@@ -1,5 +1,4 @@
-Calothrix brevissima G.S. West SPECIES
-=======
+# Calothrix brevissima G.S. West SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria ixodiae Hansf. SPECIES
-=======
+# Septoria ixodiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

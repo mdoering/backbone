@@ -1,5 +1,4 @@
-Psilocybe mairei Singer SPECIES
-=======
+# Psilocybe mairei Singer SPECIES
 
 #### Status
 ACCEPTED

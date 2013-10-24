@@ -1,5 +1,4 @@
-Sterigmatocystis alba Tiegh. SPECIES
-=======
+# Sterigmatocystis alba Tiegh. SPECIES
 
 #### Status
 ACCEPTED

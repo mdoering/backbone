@@ -1,5 +1,4 @@
-Minidiscus decoratus Chrétiennot-Dinet & Quiroga SPECIES
-=======
+# Minidiscus decoratus Chrétiennot-Dinet & Quiroga SPECIES
 
 #### Status
 ACCEPTED

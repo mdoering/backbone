@@ -1,5 +1,4 @@
-Puccinia aristolochiarum Corda SPECIES
-=======
+# Puccinia aristolochiarum Corda SPECIES
 
 #### Status
 ACCEPTED

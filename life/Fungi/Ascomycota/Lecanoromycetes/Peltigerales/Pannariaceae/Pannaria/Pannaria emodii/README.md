@@ -1,5 +1,4 @@
-Pannaria emodii P. M. Jørg. SPECIES
-=======
+# Pannaria emodii P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta nervisequa Sacc. SPECIES
-=======
+# Phyllosticta nervisequa Sacc. SPECIES
 
 #### Status
 ACCEPTED

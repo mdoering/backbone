@@ -1,5 +1,4 @@
-Dermatocarpon cineritectum Nikog. SPECIES
-=======
+# Dermatocarpon cineritectum Nikog. SPECIES
 
 #### Status
 ACCEPTED

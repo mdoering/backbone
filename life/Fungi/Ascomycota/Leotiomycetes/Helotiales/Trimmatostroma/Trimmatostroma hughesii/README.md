@@ -1,5 +1,4 @@
-Trimmatostroma hughesii V.G. Rao & Subhedar SPECIES
-=======
+# Trimmatostroma hughesii V.G. Rao & Subhedar SPECIES
 
 #### Status
 ACCEPTED

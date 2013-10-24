@@ -1,5 +1,4 @@
-Passalora tylophorae (Hansf.) U. Braun & Crous SPECIES
-=======
+# Passalora tylophorae (Hansf.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

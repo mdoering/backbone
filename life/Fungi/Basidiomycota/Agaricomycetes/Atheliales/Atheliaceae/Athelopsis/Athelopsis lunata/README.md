@@ -1,17 +1,16 @@
-Hydnum lunatum Romell, 1927 SPECIES
-=======
+# Athelopsis lunata (Romell ex Bourdot & Galzin) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. 2: 469 (1927)
+Consp. System. Corticiac. (Tartu) 43 (1968)
 
 #### Original name
-Hydnum lunatum Romell, 1927
+Grandinia lunata Romell ex Bourdot & Galzin, 1928
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Plenodomus galeopsidis H. Ruppr. SPECIES
-=======
+# Plenodomus galeopsidis H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

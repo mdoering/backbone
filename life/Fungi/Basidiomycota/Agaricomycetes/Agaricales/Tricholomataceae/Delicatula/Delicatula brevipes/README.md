@@ -1,5 +1,4 @@
-Delicatula brevipes Velen. SPECIES
-=======
+# Delicatula brevipes Velen. SPECIES
 
 #### Status
 ACCEPTED

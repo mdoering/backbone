@@ -1,5 +1,4 @@
-Multicellaesporites mustus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites mustus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

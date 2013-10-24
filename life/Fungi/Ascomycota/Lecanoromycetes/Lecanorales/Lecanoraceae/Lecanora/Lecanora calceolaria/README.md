@@ -1,5 +1,4 @@
-Lecanora calceolaria f. calceolaria FORM
-=======
+# Lecanora calceolaria SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora calceolaria f. calceolaria
+Lecanora calceolaria
 
 ### Remarks
 null

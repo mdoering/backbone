@@ -1,5 +1,4 @@
-Diaporthe seneciicola Speg. SPECIES
-=======
+# Diaporthe seneciicola Speg. SPECIES
 
 #### Status
 ACCEPTED

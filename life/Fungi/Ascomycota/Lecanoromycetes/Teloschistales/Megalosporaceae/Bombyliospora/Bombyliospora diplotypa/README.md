@@ -1,5 +1,4 @@
-Bombyliospora diplotypa (Vain.) Zahlbr. SPECIES
-=======
+# Bombyliospora diplotypa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

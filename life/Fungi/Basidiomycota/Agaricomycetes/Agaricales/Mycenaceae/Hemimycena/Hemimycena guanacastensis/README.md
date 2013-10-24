@@ -1,5 +1,4 @@
-Hemimycena guanacastensis Singer SPECIES
-=======
+# Hemimycena guanacastensis Singer SPECIES
 
 #### Status
 ACCEPTED

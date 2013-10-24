@@ -1,5 +1,4 @@
-Spirochaeta venezuelensis SPECIES
-=======
+# Spirochaeta venezuelensis SPECIES
 
 #### Status
 ACCEPTED

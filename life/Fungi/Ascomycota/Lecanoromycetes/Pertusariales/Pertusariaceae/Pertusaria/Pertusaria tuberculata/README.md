@@ -1,5 +1,4 @@
-Pertusaria tuberculata (Erichsen) Erichsen SPECIES
-=======
+# Pertusaria tuberculata (Erichsen) Erichsen SPECIES
 
 #### Status
 ACCEPTED

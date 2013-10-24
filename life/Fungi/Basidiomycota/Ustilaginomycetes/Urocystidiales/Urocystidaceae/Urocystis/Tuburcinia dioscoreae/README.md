@@ -1,5 +1,4 @@
-Tuburcinia dioscoreae (Syd. & P. Syd.) Liro SPECIES
-=======
+# Tuburcinia dioscoreae (Syd. & P. Syd.) Liro SPECIES
 
 #### Status
 ACCEPTED

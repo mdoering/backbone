@@ -1,5 +1,4 @@
-Trichopezizella heteropilosa Raitv. SPECIES
-=======
+# Trichopezizella heteropilosa Raitv. SPECIES
 
 #### Status
 ACCEPTED

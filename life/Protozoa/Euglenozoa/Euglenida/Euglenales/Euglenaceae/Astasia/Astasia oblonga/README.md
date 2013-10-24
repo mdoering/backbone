@@ -1,5 +1,4 @@
-Astasia oblonga Skvortzov SPECIES
-=======
+# Astasia oblonga Skvortzov SPECIES
 
 #### Status
 ACCEPTED

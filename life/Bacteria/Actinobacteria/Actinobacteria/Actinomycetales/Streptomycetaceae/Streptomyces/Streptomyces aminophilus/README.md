@@ -1,5 +1,4 @@
-Streptomyces aminophilus Foster, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces aminophilus Foster, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

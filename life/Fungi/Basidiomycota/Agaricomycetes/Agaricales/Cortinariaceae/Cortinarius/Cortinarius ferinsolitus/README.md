@@ -1,5 +1,4 @@
-Cortinarius ferinsolitus Rob. Henry SPECIES
-=======
+# Cortinarius ferinsolitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

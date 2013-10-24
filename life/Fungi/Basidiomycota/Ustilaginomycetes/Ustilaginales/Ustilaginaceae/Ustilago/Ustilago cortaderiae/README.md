@@ -1,5 +1,4 @@
-Ustilago cortaderiae var. cortaderiae VARIETY
-=======
+# Ustilago cortaderiae (Grodz.) Hirschh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago cortaderiae var. cortaderiae
+null
 
 ### Remarks
 null

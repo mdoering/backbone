@@ -1,5 +1,4 @@
-Brefeldiella subcuticulosa (Cooke) Theiss. SPECIES
-=======
+# Brefeldiella subcuticulosa (Cooke) Theiss. SPECIES
 
 #### Status
 ACCEPTED

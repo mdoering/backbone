@@ -1,5 +1,4 @@
-Mycena leaina anon. SPECIES
-=======
+# Mycena leaina anon. SPECIES
 
 #### Status
 ACCEPTED

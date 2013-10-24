@@ -1,5 +1,4 @@
-Marasmius niveicolor Murrill SPECIES
-=======
+# Marasmius niveicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

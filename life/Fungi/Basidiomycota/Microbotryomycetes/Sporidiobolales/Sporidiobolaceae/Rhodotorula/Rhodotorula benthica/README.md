@@ -1,5 +1,4 @@
-Rhodotorula benthica Nagah., Hamam., Nakase & Horikoshi SPECIES
-=======
+# Rhodotorula benthica Nagah., Hamam., Nakase & Horikoshi SPECIES
 
 #### Status
 ACCEPTED

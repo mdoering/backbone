@@ -1,5 +1,4 @@
-Lecanora placidensis (H. Magn.) Knoph, Leuckert & Rambold SPECIES
-=======
+# Lecanora placidensis (H. Magn.) Knoph, Leuckert & Rambold SPECIES
 
 #### Status
 ACCEPTED

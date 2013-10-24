@@ -1,5 +1,4 @@
-Clavomphalia E. Horak GENUS
-=======
+# Clavomphalia E. Horak GENUS
 
 #### Status
 ACCEPTED

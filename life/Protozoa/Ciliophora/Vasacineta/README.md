@@ -1,5 +1,4 @@
-Vasacineta Jankowski, 1981 GENUS
-=======
+# Vasacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

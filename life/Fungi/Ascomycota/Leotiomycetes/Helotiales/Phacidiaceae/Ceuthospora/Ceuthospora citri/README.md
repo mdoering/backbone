@@ -1,5 +1,4 @@
-Ceuthospora citri Penz. SPECIES
-=======
+# Ceuthospora citri Penz. SPECIES
 
 #### Status
 ACCEPTED

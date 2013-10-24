@@ -1,5 +1,4 @@
-Cothurnia brevistyla Nenninger, 1948 SPECIES
-=======
+# Cothurnia brevistyla Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

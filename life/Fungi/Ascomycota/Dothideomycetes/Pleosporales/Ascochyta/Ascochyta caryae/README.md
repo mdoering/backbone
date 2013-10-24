@@ -1,5 +1,4 @@
-Ascochyta caryae H.C. Greene SPECIES
-=======
+# Ascochyta caryae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

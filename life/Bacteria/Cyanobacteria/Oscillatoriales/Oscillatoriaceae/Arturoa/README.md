@@ -1,5 +1,4 @@
-Arturoa P.González, 1951 GENUS
-=======
+# Arturoa P.González, 1951 GENUS
 
 #### Status
 ACCEPTED

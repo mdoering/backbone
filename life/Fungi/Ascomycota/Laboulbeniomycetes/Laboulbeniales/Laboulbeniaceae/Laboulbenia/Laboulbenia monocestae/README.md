@@ -1,5 +1,4 @@
-Laboulbenia monocestae Thaxt. SPECIES
-=======
+# Laboulbenia monocestae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

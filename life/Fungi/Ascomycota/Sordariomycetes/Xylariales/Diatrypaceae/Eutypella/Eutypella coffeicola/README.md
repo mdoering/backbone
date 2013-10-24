@@ -1,5 +1,4 @@
-Eutypella coffeicola C. Moreau & Moreau SPECIES
-=======
+# Eutypella coffeicola C. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

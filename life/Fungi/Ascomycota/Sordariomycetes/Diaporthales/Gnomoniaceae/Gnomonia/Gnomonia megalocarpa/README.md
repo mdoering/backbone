@@ -1,5 +1,4 @@
-Gnomonia megalocarpa (I. Hino & Katum.) Kobay. {?} SPECIES
-=======
+# Gnomonia megalocarpa (I. Hino & Katum.) Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

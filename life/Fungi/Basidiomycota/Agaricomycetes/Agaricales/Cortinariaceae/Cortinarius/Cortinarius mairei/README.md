@@ -1,17 +1,16 @@
-Cortinarius caesiocyaneus var. caesiocyaneus VARIETY
-=======
+# Cortinarius mairei (M.M. Moser) M.M. Moser, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 298 (1967)
 
 #### Original name
-Cortinarius caesiocyaneus var. caesiocyaneus
+Phlegmacium mairei M.M. Moser, 1953
 
 ### Remarks
 null

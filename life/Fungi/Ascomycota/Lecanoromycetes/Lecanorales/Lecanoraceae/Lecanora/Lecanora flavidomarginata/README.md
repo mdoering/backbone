@@ -1,5 +1,4 @@
-Lecanora flavidomarginata B. de Lesd. SPECIES
-=======
+# Lecanora flavidomarginata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

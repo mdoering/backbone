@@ -1,5 +1,4 @@
-Puccinia stenardrii Dietel & Neger SPECIES
-=======
+# Puccinia stenardrii Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

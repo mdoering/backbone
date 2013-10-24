@@ -1,5 +1,4 @@
-Leptosphaeria gynerii Speg. SPECIES
-=======
+# Leptosphaeria gynerii Speg. SPECIES
 
 #### Status
 ACCEPTED

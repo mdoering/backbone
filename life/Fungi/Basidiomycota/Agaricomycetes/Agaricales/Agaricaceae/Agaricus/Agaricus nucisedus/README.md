@@ -1,5 +1,4 @@
-Agaricus nucisedus Fr. SPECIES
-=======
+# Agaricus nucisedus Fr. SPECIES
 
 #### Status
 ACCEPTED

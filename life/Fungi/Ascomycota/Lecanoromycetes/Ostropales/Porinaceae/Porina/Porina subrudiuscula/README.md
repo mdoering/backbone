@@ -1,5 +1,4 @@
-Porina subrudiuscula Malme SPECIES
-=======
+# Porina subrudiuscula Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus episphaeria Berk. SPECIES
-=======
+# Agaricus episphaeria Berk. SPECIES
 
 #### Status
 ACCEPTED

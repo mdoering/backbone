@@ -1,5 +1,4 @@
-Hypoxylon fossulatum Mont. SPECIES
-=======
+# Hypoxylon fossulatum Mont. SPECIES
 
 #### Status
 ACCEPTED

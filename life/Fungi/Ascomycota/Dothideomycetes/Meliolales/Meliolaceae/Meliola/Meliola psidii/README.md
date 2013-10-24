@@ -1,5 +1,4 @@
-Meliola psidii var. psidii VARIETY
-=======
+# Meliola psidii Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Linnaea 5: 549 (1830)
 
 #### Original name
-Meliola psidii var. psidii
+Meliola psidii Fr.
 
 ### Remarks
 null

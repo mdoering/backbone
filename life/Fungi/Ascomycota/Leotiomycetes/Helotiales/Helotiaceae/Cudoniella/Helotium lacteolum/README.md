@@ -1,5 +1,4 @@
-Helotium lacteolum Kirschst. SPECIES
-=======
+# Helotium lacteolum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

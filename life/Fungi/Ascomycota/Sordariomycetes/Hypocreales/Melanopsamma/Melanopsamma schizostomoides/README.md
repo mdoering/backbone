@@ -1,5 +1,4 @@
-Melanopsamma schizostomoides Rick SPECIES
-=======
+# Melanopsamma schizostomoides Rick SPECIES
 
 #### Status
 ACCEPTED

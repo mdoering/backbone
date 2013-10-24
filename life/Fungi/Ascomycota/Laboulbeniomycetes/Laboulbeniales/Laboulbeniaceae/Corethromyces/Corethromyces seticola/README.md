@@ -1,5 +1,4 @@
-Corethromyces seticola Thaxt. SPECIES
-=======
+# Corethromyces seticola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

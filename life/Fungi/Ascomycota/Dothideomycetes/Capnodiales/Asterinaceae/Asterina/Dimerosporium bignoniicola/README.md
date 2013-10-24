@@ -1,5 +1,4 @@
-Dimerosporium bignoniicola Speg. SPECIES
-=======
+# Dimerosporium bignoniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

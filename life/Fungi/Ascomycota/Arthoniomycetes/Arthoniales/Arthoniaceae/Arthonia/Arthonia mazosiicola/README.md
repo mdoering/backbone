@@ -1,5 +1,4 @@
-Arthonia mazosiicola Matzer & R. Sant. SPECIES
-=======
+# Arthonia mazosiicola Matzer & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium circinatum Wallr. SPECIES
-=======
+# Exosporium circinatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

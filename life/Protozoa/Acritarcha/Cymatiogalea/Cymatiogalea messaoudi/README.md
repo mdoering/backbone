@@ -1,5 +1,4 @@
-Cymatiogalea messaoudi S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
-=======
+# Cymatiogalea messaoudi S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
 
 #### Status
 ACCEPTED

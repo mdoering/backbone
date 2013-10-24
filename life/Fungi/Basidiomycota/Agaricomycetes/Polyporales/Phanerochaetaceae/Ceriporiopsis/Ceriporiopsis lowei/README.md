@@ -1,17 +1,16 @@
-Poria hyalina var. hyalina VARIETY
-=======
+# Ceriporiopsis lowei Rajchenb., 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 109 (1886)
+Nordic Jl Bot. 7: 564 (1987)
 
 #### Original name
-Poria hyalina var. hyalina
+Ceriporiopsis lowei Rajchenb., 1987
 
 ### Remarks
 null

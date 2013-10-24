@@ -1,5 +1,4 @@
-Gloeosporium tamarindi Henn. SPECIES
-=======
+# Gloeosporium tamarindi Henn. SPECIES
 
 #### Status
 ACCEPTED

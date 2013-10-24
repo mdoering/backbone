@@ -1,5 +1,4 @@
-Amanita labordei Bouriquet SPECIES
-=======
+# Amanita labordei Bouriquet SPECIES
 
 #### Status
 ACCEPTED

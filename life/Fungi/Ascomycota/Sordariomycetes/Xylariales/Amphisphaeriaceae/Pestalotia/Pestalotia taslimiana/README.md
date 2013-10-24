@@ -1,5 +1,4 @@
-Pestalotia taslimiana Mundk. & Khesw. SPECIES
-=======
+# Pestalotia taslimiana Mundk. & Khesw. SPECIES
 
 #### Status
 ACCEPTED

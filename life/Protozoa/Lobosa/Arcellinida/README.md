@@ -1,5 +1,4 @@
-Arcellinida ORDER
-=======
+# Arcellinida ORDER
 
 #### Status
 ACCEPTED

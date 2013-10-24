@@ -1,5 +1,4 @@
-Pseudocyphellaria amphistictoides Vain. SPECIES
-=======
+# Pseudocyphellaria amphistictoides Vain. SPECIES
 
 #### Status
 ACCEPTED

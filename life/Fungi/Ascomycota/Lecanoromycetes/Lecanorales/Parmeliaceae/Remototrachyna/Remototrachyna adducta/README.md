@@ -1,5 +1,4 @@
-Remototrachyna adducta (Nyl.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna adducta (Nyl.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

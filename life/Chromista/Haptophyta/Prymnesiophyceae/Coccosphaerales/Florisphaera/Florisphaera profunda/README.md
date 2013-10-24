@@ -1,11 +1,10 @@
-Florisphaera profunda elongata Okada & McIntyre, 1980 SUBSPECIES
-=======
+# Florisphaera profunda Okada & Honjo, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+World Register of Marine Species
 
 #### Published in
 null

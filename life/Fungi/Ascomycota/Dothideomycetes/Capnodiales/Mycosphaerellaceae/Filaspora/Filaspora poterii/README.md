@@ -1,5 +1,4 @@
-Filaspora poterii (Pass.) Kuntze SPECIES
-=======
+# Filaspora poterii (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

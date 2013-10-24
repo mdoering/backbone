@@ -1,5 +1,4 @@
-Listarcon Yankovskij, 1982 GENUS
-=======
+# Listarcon Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

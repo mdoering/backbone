@@ -1,5 +1,4 @@
-Anoplophrya limnodrili Kijenskij, 1926 SPECIES
-=======
+# Anoplophrya limnodrili Kijenskij, 1926 SPECIES
 
 #### Status
 ACCEPTED

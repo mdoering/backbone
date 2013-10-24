@@ -1,5 +1,4 @@
-Hypotrachyna olivetorica Krog SPECIES
-=======
+# Hypotrachyna olivetorica Krog SPECIES
 
 #### Status
 ACCEPTED

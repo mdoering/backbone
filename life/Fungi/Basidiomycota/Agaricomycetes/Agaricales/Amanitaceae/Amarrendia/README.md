@@ -1,5 +1,4 @@
-Amarrendia Bougher & T. Lebel GENUS
-=======
+# Amarrendia Bougher & T. Lebel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bensingtonia sorbi F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Bensingtonia sorbi F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

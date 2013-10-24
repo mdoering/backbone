@@ -1,5 +1,4 @@
-Sphacelotheca bicornis (Henn.) Zundel SPECIES
-=======
+# Sphacelotheca bicornis (Henn.) Zundel SPECIES
 
 #### Status
 ACCEPTED

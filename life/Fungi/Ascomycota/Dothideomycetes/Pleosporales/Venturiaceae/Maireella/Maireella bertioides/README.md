@@ -1,5 +1,4 @@
-Maireella bertioides (Sacc. & Berl.) Maubl. SPECIES
-=======
+# Maireella bertioides (Sacc. & Berl.) Maubl. SPECIES
 
 #### Status
 ACCEPTED

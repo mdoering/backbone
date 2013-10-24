@@ -1,5 +1,4 @@
-Tricholoma westiana (Murrill) Murrill SPECIES
-=======
+# Tricholoma westiana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

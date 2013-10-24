@@ -1,5 +1,4 @@
-Placodium rufescens (Nyl.) Müll. Arg. SPECIES
-=======
+# Placodium rufescens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

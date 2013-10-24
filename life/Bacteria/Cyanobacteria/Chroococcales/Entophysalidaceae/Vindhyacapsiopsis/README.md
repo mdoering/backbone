@@ -1,5 +1,4 @@
-Vindhyacapsiopsis P.K. Maithy & J. Mandal, 1983 GENUS
-=======
+# Vindhyacapsiopsis P.K. Maithy & J. Mandal, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe obscura Peck SPECIES
-=======
+# Psilocybe obscura Peck SPECIES
 
 #### Status
 ACCEPTED

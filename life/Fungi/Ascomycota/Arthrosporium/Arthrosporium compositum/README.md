@@ -1,5 +1,4 @@
-Arthrosporium compositum Ellis SPECIES
-=======
+# Arthrosporium compositum Ellis SPECIES
 
 #### Status
 ACCEPTED

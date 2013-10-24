@@ -1,5 +1,4 @@
-Russula subalpina O.K. Mill. SPECIES
-=======
+# Russula subalpina O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

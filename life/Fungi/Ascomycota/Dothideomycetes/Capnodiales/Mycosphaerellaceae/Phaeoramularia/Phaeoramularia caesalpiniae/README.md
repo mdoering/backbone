@@ -1,17 +1,16 @@
-Phaeoramularia casealpiniae Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha SPECIES
-=======
+# Phaeoramularia caesalpiniae Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Microbiol. Res. 156(1): 107 (2001)
 
 #### Original name
-Phaeoramularia casealpiniae Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha
+Phaeoramularia caesalpiniae Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia hoffmannii SPECIES
-=======
+# Aspicilia hoffmannii SPECIES
 
 #### Status
 ACCEPTED

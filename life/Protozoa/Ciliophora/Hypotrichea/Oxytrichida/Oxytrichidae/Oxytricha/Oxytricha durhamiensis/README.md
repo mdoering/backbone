@@ -1,5 +1,4 @@
-Oxytricha durhamiensis Berger, 1999 SPECIES
-=======
+# Oxytricha durhamiensis Berger, 1999 SPECIES
 
 #### Status
 ACCEPTED

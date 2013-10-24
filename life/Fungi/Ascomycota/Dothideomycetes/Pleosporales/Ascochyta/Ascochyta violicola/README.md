@@ -1,5 +1,4 @@
-Ascochyta violicola McAlpine SPECIES
-=======
+# Ascochyta violicola McAlpine SPECIES
 
 #### Status
 ACCEPTED

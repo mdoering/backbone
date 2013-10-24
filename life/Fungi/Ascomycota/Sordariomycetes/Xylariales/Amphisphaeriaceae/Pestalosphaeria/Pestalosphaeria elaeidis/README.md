@@ -1,14 +1,13 @@
-Lepteutypa elaeidis (C. Booth & J.S. Robertson) Arx, 1981 SPECIES
-=======
+# Pestalosphaeria elaeidis (C. Booth & J.S. Robertson) Aa, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 176 (1981)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 67: 87 (1976)
 
 #### Original name
 Leptosphaeria elaeidis C. Booth & J.S. Robertson, 1961

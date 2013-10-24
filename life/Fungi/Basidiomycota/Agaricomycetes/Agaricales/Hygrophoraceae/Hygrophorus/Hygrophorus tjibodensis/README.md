@@ -1,5 +1,4 @@
-Hygrophorus tjibodensis Henn. & E. Nyman SPECIES
-=======
+# Hygrophorus tjibodensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

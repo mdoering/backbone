@@ -1,5 +1,4 @@
-Mucronella albidula (Corner) Berthier, 1985 SPECIES
-=======
+# Mucronella albidula (Corner) Berthier, 1985 SPECIES
 
 #### Status
 ACCEPTED

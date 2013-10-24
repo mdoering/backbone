@@ -1,5 +1,4 @@
-Valsa aleurina Berk. & M.A. Curtis SPECIES
-=======
+# Valsa aleurina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

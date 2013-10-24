@@ -1,5 +1,4 @@
-Ceuthospora coronata (P. Karst.) Höhn. SPECIES
-=======
+# Ceuthospora coronata (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

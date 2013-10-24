@@ -1,5 +1,4 @@
-Nectria frullaniicola Döbbeler SPECIES
-=======
+# Nectria frullaniicola Döbbeler SPECIES
 
 #### Status
 ACCEPTED

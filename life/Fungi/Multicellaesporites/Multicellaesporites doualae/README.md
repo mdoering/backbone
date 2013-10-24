@@ -1,5 +1,4 @@
-Multicellaesporites doualae Sal.-Cheb. & Locq. SPECIES
-=======
+# Multicellaesporites doualae Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

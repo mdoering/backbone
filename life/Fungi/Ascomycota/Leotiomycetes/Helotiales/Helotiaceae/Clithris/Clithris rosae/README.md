@@ -1,5 +1,4 @@
-Clithris rosae (Teng) Tehon SPECIES
-=======
+# Clithris rosae (Teng) Tehon SPECIES
 
 #### Status
 ACCEPTED

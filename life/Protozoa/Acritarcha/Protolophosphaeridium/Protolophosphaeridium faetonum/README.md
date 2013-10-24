@@ -1,5 +1,4 @@
-Protolophosphaeridium faetonum Timofeev, 1963 SPECIES
-=======
+# Protolophosphaeridium faetonum Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

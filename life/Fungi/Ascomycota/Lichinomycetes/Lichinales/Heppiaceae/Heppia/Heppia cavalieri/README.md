@@ -1,5 +1,4 @@
-Heppia cavalieri Werner SPECIES
-=======
+# Heppia cavalieri Werner SPECIES
 
 #### Status
 ACCEPTED

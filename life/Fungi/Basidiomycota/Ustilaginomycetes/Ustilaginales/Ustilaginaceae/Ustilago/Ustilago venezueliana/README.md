@@ -1,17 +1,16 @@
-Ustilago venezuelana Syd. & P. Syd. SPECIES
-=======
+# Ustilago venezueliana Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(1/2): 73 (1916)
 
 #### Original name
-Ustilago venezuelana Syd. & P. Syd.
+Ustilago venezueliana Syd. & P. Syd.
 
 ### Remarks
 null

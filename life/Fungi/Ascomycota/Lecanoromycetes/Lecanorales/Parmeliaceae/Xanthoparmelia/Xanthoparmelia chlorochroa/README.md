@@ -1,17 +1,16 @@
-Parmelia chlorochroa Tuck. SPECIES
-=======
+# Xanthoparmelia chlorochroa (Tuck.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 486 (1974)
 
 #### Original name
-null
+Parmelia chlorochroa Tuck.
 
 ### Remarks
 null

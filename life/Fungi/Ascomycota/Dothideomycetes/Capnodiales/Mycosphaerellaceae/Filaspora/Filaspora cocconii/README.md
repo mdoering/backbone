@@ -1,5 +1,4 @@
-Filaspora cocconii (Sacc.) Kuntze SPECIES
-=======
+# Filaspora cocconii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

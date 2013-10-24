@@ -1,5 +1,4 @@
-Leptosphaeria balcarica Savinceva SPECIES
-=======
+# Leptosphaeria balcarica Savinceva SPECIES
 
 #### Status
 ACCEPTED

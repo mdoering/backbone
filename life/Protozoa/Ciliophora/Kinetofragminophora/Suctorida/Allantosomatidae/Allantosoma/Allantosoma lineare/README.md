@@ -1,5 +1,4 @@
-Allantosoma lineare Strelkow, 1939 SPECIES
-=======
+# Allantosoma lineare Strelkow, 1939 SPECIES
 
 #### Status
 ACCEPTED

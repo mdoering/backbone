@@ -1,17 +1,16 @@
-Heterosporium gracile var. gracile VARIETY
-=======
+# Davidiella macrospora (Kleb.) Crous & U. Braun, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 480 (1886)
+in Braun, Crous, Dugan & de Hoog, Mycol. Progr. 2(1): 10 (2003)
 
 #### Original name
-Heterosporium gracile var. gracile
+Didymellina macrospora Kleb., 1924
 
 ### Remarks
 null

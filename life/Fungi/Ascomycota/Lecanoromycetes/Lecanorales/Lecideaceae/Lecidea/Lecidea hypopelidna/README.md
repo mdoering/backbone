@@ -1,5 +1,4 @@
-Lecidea hypopelidna Stirt. SPECIES
-=======
+# Lecidea hypopelidna Stirt. SPECIES
 
 #### Status
 ACCEPTED

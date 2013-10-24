@@ -1,14 +1,13 @@
-Bullaria cynomarathii (Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria cynomarathri (Holw.) Arthur & Mains SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7(7): 491 (1922)
 
 #### Original name
 Puccinia cynomarathri Holw.

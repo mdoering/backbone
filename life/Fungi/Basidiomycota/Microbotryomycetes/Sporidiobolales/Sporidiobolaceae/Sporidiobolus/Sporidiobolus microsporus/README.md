@@ -1,5 +1,4 @@
-Sporidiobolus microsporus Higham ex Fell, Blatt & Statzell, 1998 SPECIES
-=======
+# Sporidiobolus microsporus Higham ex Fell, Blatt & Statzell, 1998 SPECIES
 
 #### Status
 ACCEPTED

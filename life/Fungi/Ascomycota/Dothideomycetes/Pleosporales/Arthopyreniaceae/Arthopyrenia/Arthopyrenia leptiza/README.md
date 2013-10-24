@@ -1,5 +1,4 @@
-Arthopyrenia leptiza (Stirt.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia leptiza (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

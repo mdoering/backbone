@@ -1,5 +1,4 @@
-Apiospora buddleiae Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Apiospora buddleiae Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

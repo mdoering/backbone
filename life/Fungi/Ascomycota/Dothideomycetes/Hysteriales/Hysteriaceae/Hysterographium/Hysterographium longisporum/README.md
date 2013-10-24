@@ -1,5 +1,4 @@
-Hysterographium longisporum W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Hysterographium longisporum W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

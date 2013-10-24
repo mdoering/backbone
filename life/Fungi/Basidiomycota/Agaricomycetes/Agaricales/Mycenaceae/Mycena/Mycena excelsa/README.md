@@ -1,5 +1,4 @@
-Mycena excelsa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena excelsa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enduria Norman GENUS
-=======
+# Enduria Norman GENUS
 
 #### Status
 ACCEPTED

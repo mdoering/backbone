@@ -1,17 +1,16 @@
-Lecidea atrofusca f. atrofusca FORM
-=======
+# Mycobilimbia hypnorum (Lib.) Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Lich. 198 (1861)
+null
 
 #### Original name
-Lecidea atrofusca f. atrofusca
+null
 
 ### Remarks
 null

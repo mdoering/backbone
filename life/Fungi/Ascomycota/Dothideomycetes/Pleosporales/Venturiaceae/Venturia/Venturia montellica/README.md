@@ -1,5 +1,4 @@
-Venturia montellica Sacc. SPECIES
-=======
+# Venturia montellica Sacc. SPECIES
 
 #### Status
 ACCEPTED

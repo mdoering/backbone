@@ -1,5 +1,4 @@
-Tylopilus argillaceus Hongo SPECIES
-=======
+# Tylopilus argillaceus Hongo SPECIES
 
 #### Status
 ACCEPTED

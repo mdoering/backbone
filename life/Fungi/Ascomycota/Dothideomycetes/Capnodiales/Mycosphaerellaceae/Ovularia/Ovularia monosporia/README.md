@@ -1,5 +1,4 @@
-Ovularia monosporia Keissl. SPECIES
-=======
+# Ovularia monosporia Keissl. SPECIES
 
 #### Status
 ACCEPTED

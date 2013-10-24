@@ -1,5 +1,4 @@
-Pseudostracoderma terricola A.E. Martinez & Godeas, 1997 SPECIES
-=======
+# Pseudostracoderma terricola A.E. Martinez & Godeas, 1997 SPECIES
 
 #### Status
 ACCEPTED

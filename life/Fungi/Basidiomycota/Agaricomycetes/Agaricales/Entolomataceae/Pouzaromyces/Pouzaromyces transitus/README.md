@@ -1,5 +1,4 @@
-Pouzaromyces transitus E. Horak SPECIES
-=======
+# Pouzaromyces transitus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limnactis Kützing, 1843 GENUS
-=======
+# Limnactis Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

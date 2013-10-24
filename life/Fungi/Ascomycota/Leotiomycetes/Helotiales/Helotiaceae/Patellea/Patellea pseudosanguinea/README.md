@@ -1,5 +1,4 @@
-Patellea pseudosanguinea Rehm SPECIES
-=======
+# Patellea pseudosanguinea Rehm SPECIES
 
 #### Status
 ACCEPTED

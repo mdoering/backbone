@@ -1,5 +1,4 @@
-Staheliomyces E. Fisch. GENUS
-=======
+# Staheliomyces E. Fisch. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecamoebidae FAMILY
-=======
+# Thecamoebidae FAMILY
 
 #### Status
 ACCEPTED

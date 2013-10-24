@@ -1,5 +1,4 @@
-Clitocybe rancidula (Banning & Peck) Murrill SPECIES
-=======
+# Clitocybe rancidula (Banning & Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

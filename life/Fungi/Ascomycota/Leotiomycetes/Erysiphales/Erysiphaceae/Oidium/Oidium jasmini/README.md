@@ -1,17 +1,16 @@
-Oidium jasminii A.K. Saxena & S.B. Saksena SPECIES
-=======
+# Oidium jasmini A.K. Saxena & S.B. Saksena SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 51(8): 437 (1982)
 
 #### Original name
-Oidium jasminii A.K. Saxena & S.B. Saksena
+Oidium jasmini A.K. Saxena & S.B. Saksena
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria laserpitrii SPECIES
-=======
+# Septoria laserpitrii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermamoeba Page & Blakey, 1979 GENUS
-=======
+# Dermamoeba Page & Blakey, 1979 GENUS
 
 #### Status
 ACCEPTED

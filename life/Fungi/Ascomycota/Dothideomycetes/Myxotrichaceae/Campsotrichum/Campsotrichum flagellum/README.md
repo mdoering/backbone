@@ -1,5 +1,4 @@
-Campsotrichum flagellum Cooke & Ellis SPECIES
-=======
+# Campsotrichum flagellum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buetschlia lanceolata SPECIES
-=======
+# Buetschlia lanceolata SPECIES
 
 #### Status
 ACCEPTED

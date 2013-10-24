@@ -1,5 +1,4 @@
-Microxyphium footii f. footii FORM
-=======
+# Microxyphium footii SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Speg. , Physis, B. Aires, sec. B 4: 293 (1918)
+null
 
 #### Original name
-Microxyphium footii f. footii
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius epipoleus var. epipoleus VARIETY
-=======
+# Cortinarius epipoleus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 277 (1838)
 
 #### Original name
-Cortinarius epipoleus var. epipoleus
+Cortinarius epipoleus Fr.
 
 ### Remarks
 null

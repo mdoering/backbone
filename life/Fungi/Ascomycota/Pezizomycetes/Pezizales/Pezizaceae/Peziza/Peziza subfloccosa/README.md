@@ -1,5 +1,4 @@
-Peziza subfloccosa Hazsl. SPECIES
-=======
+# Peziza subfloccosa Hazsl. SPECIES
 
 #### Status
 ACCEPTED

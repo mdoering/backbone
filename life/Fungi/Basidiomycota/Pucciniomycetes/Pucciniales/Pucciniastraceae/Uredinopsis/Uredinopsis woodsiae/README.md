@@ -1,5 +1,4 @@
-Uredinopsis woodsiae Kamei SPECIES
-=======
+# Uredinopsis woodsiae Kamei SPECIES
 
 #### Status
 ACCEPTED

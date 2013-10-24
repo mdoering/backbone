@@ -1,5 +1,4 @@
-Peniophora fasticata Boidin & Lanq., 1995 SPECIES
-=======
+# Peniophora fasticata Boidin & Lanq., 1995 SPECIES
 
 #### Status
 ACCEPTED

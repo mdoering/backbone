@@ -1,5 +1,4 @@
-Flammula piceina (Murrill) Murrill SPECIES
-=======
+# Flammula piceina (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

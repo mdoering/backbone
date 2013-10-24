@@ -1,5 +1,4 @@
-Hemiselmis cyclopea Butcher, 1967 SPECIES
-=======
+# Hemiselmis cyclopea Butcher, 1967 SPECIES
 
 #### Status
 ACCEPTED

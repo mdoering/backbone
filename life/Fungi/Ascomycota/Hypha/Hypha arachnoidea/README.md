@@ -1,5 +1,4 @@
-Hypha arachnoidea Nees SPECIES
-=======
+# Hypha arachnoidea Nees SPECIES
 
 #### Status
 ACCEPTED

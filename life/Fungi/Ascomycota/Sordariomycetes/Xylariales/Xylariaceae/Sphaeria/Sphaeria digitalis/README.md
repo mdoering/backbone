@@ -1,5 +1,4 @@
-Sphaeria digitalis P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria digitalis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

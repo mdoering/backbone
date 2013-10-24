@@ -1,5 +1,4 @@
-Tubaria pinicola L. Remy SPECIES
-=======
+# Tubaria pinicola L. Remy SPECIES
 
 #### Status
 ACCEPTED

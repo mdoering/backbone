@@ -1,8 +1,7 @@
-Roesleria norrlini Vain. SPECIES
-=======
+# Roesleria norrlinii Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Roesleria norrlini Vain.
+Roesleria norrlinii Vain.
 
 ### Remarks
 null

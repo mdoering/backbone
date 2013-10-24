@@ -1,5 +1,4 @@
-Dimerina dominicana Toro SPECIES
-=======
+# Dimerina dominicana Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium helianthi Hedgc. & N.R. Hunt SPECIES
-=======
+# Peridermium helianthi Hedgc. & N.R. Hunt SPECIES
 
 #### Status
 ACCEPTED

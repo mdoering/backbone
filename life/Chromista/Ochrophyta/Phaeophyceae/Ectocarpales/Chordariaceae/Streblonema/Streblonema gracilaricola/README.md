@@ -1,5 +1,4 @@
-Streblonema gracilaricola Noda SPECIES
-=======
+# Streblonema gracilaricola Noda SPECIES
 
 #### Status
 ACCEPTED

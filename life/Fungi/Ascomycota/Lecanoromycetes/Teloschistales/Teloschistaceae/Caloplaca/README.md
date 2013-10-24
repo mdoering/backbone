@@ -1,17 +1,16 @@
-Niopsora A. Massal. GENUS
-=======
+# Caloplaca Th. Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Reale Ist. Veneto Sci. 10: 84 (1861)
+Lich. Arct. 218 (1860)
 
 #### Original name
-Niopsora A. Massal.
+Caloplaca Th. Fr.
 
 ### Remarks
 null

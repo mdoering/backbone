@@ -1,5 +1,4 @@
-Agaricus perdicinus Pilát, 1953 SPECIES
-=======
+# Agaricus perdicinus Pilát, 1953 SPECIES
 
 #### Status
 ACCEPTED

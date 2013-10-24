@@ -1,5 +1,4 @@
-Saprotaphrina mucorugosa Verona & Rambelli SPECIES
-=======
+# Saprotaphrina mucorugosa Verona & Rambelli SPECIES
 
 #### Status
 ACCEPTED

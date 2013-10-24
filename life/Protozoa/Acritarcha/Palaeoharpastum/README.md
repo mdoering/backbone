@@ -1,5 +1,4 @@
-Palaeoharpastum R.A. Fensome, G.L. Williams, M.S. Barss, J.M. Freeman & J.M. Hill, 1990 GENUS
-=======
+# Palaeoharpastum R.A. Fensome, G.L. Williams, M.S. Barss, J.M. Freeman & J.M. Hill, 1990 GENUS
 
 #### Status
 ACCEPTED

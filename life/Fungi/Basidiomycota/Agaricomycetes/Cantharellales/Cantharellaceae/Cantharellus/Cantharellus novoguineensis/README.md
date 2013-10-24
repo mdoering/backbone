@@ -1,5 +1,4 @@
-Cantharellus novoguineensis Kobayasi SPECIES
-=======
+# Cantharellus novoguineensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

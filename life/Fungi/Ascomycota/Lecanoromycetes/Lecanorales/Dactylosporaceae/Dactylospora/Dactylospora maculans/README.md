@@ -1,5 +1,4 @@
-Dactylospora maculans Arnold SPECIES
-=======
+# Dactylospora maculans Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta socia Scalia SPECIES
-=======
+# Phyllosticta socia Scalia SPECIES
 
 #### Status
 ACCEPTED

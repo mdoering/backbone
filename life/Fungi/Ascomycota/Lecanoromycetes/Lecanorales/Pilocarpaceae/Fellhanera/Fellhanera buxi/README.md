@@ -1,5 +1,4 @@
-Fellhanera buxi (Vezda & Vivant) Vezda SPECIES
-=======
+# Fellhanera buxi (Vezda & Vivant) Vezda SPECIES
 
 #### Status
 ACCEPTED

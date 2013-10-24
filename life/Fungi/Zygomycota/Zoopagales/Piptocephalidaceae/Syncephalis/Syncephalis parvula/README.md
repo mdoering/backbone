@@ -1,5 +1,4 @@
-Syncephalis parvula Gruhn, 1991 SPECIES
-=======
+# Syncephalis parvula Gruhn, 1991 SPECIES
 
 #### Status
 ACCEPTED

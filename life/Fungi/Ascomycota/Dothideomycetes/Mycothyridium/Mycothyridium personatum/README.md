@@ -1,5 +1,4 @@
-Mycothyridium personatum (Berl. & Voglino) Petr. SPECIES
-=======
+# Mycothyridium personatum (Berl. & Voglino) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mycovellosiella nattrassii Deighton, 1974 SPECIES
-=======
+# Passalora nattrassii (Deighton) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 137: 17 (1974)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 461 (2003)
 
 #### Original name
 Mycovellosiella nattrassii Deighton, 1974

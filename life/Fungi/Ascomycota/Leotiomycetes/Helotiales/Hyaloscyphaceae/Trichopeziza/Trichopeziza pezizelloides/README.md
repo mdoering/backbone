@@ -1,5 +1,4 @@
-Trichopeziza pezizelloides Kirschst. SPECIES
-=======
+# Trichopeziza pezizelloides Kirschst. SPECIES
 
 #### Status
 ACCEPTED

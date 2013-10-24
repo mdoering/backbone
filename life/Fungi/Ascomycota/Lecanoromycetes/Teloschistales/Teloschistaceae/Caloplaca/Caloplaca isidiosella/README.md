@@ -1,5 +1,4 @@
-Caloplaca isidiosella (Cromb.) R. Sant. SPECIES
-=======
+# Caloplaca isidiosella (Cromb.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

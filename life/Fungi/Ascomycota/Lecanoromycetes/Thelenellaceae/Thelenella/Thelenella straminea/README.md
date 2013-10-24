@@ -1,5 +1,4 @@
-Thelenella straminea Malme SPECIES
-=======
+# Thelenella straminea Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia variabilis S. Ito SPECIES
-=======
+# Cintractia variabilis S. Ito SPECIES
 
 #### Status
 ACCEPTED

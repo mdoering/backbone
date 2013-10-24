@@ -1,5 +1,4 @@
-Cortinarius copakensis Peck SPECIES
-=======
+# Cortinarius copakensis Peck SPECIES
 
 #### Status
 ACCEPTED

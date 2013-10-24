@@ -1,5 +1,4 @@
-Saccharina bongardiana f. taeniata (Postels & Ruprecht) Selivanova, Zhigadlova & G.I.Hansen, 2007 FORM
-=======
+# Saccharina bongardiana (Postels & Ruprecht) Selivanova, Zhigadlova & G.I.Hansen, 2007 SPECIES
 
 #### Status
 ACCEPTED

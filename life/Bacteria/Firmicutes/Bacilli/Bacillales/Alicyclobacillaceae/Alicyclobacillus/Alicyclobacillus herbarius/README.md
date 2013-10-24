@@ -1,5 +1,4 @@
-Alicyclobacillus herbarius Goto et al., 2002 SPECIES
-=======
+# Alicyclobacillus herbarius Goto et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

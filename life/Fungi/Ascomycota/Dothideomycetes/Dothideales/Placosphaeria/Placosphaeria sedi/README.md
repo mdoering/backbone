@@ -1,17 +1,16 @@
-Placosphaeria sedi var. loti Berl. VARIETY
-=======
+# Placosphaeria sedi Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia (1880)
 
 #### Original name
-Placosphaeria sedi var. loti Berl.
+Placosphaeria sedi Sacc., 1880
 
 ### Remarks
 null

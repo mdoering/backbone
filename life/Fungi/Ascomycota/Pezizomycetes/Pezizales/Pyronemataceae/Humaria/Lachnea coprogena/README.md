@@ -1,5 +1,4 @@
-Lachnea coprogena (Berk. & Broome) Sacc. SPECIES
-=======
+# Lachnea coprogena (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

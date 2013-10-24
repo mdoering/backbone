@@ -1,5 +1,4 @@
-Lecanora luctuosa (Anzi) Stizenb. SPECIES
-=======
+# Lecanora luctuosa (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

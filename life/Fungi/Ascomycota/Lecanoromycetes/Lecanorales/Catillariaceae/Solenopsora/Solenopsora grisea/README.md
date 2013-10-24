@@ -1,5 +1,4 @@
-Solenopsora grisea (Bagl.) Kotlov SPECIES
-=======
+# Solenopsora grisea (Bagl.) Kotlov SPECIES
 
 #### Status
 ACCEPTED

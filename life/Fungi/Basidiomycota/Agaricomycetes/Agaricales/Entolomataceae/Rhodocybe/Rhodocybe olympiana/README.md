@@ -1,5 +1,4 @@
-Rhodocybe olympiana (A.H. Sm.) Lennox SPECIES
-=======
+# Rhodocybe olympiana (A.H. Sm.) Lennox SPECIES
 
 #### Status
 ACCEPTED

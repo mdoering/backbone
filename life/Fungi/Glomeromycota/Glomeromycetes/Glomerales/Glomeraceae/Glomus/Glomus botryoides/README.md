@@ -1,5 +1,4 @@
-Glomus botryoides F.M. Rothwell & Victor, 1984 SPECIES
-=======
+# Glomus botryoides F.M. Rothwell & Victor, 1984 SPECIES
 
 #### Status
 ACCEPTED

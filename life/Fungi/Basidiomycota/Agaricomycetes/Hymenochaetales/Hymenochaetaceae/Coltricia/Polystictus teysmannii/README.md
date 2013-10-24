@@ -1,5 +1,4 @@
-Polystictus teysmannii Lloyd SPECIES
-=======
+# Polystictus teysmannii Lloyd SPECIES
 
 #### Status
 ACCEPTED

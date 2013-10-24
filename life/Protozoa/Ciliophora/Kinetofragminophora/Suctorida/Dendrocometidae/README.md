@@ -1,5 +1,4 @@
-Dendrocometidae FAMILY
-=======
+# Dendrocometidae FAMILY
 
 #### Status
 ACCEPTED

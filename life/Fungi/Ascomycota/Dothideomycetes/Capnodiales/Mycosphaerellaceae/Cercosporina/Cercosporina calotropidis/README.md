@@ -1,5 +1,4 @@
-Cercosporina calotropidis (Speg.) Sacc. SPECIES
-=======
+# Cercosporina calotropidis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

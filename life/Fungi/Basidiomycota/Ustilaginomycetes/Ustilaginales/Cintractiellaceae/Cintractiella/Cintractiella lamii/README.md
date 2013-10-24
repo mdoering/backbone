@@ -1,5 +1,4 @@
-Cintractiella lamii Boedijn, 1937 SPECIES
-=======
+# Cintractiella lamii Boedijn, 1937 SPECIES
 
 #### Status
 ACCEPTED

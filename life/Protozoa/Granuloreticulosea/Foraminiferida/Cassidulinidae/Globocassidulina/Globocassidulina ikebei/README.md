@@ -1,5 +1,4 @@
-Globocassidulina ikebei Nishimura et al., 1977 SPECIES
-=======
+# Globocassidulina ikebei Nishimura et al., 1977 SPECIES
 
 #### Status
 ACCEPTED

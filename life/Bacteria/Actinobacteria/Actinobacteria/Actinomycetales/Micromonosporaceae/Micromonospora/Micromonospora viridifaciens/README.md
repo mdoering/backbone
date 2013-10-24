@@ -1,5 +1,4 @@
-Micromonospora viridifaciens Kroppenstedt et al., 2005 SPECIES
-=======
+# Micromonospora viridifaciens Kroppenstedt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

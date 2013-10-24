@@ -1,5 +1,4 @@
-Sclerotinia ilicis Ruehle SPECIES
-=======
+# Sclerotinia ilicis Ruehle SPECIES
 
 #### Status
 ACCEPTED

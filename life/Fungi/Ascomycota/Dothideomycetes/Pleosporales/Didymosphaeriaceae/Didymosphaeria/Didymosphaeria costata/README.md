@@ -1,5 +1,4 @@
-Didymosphaeria costata Duvernoy & Maire SPECIES
-=======
+# Didymosphaeria costata Duvernoy & Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetiopsis lakefuxianensis L. Cai, Jeewon & K.D. Hyde, 2003 SPECIES
-=======
+# Monochaetiopsis lakefuxianensis L. Cai, Jeewon & K.D. Hyde, 2003 SPECIES
 
 #### Status
 ACCEPTED

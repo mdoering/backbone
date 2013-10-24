@@ -1,5 +1,4 @@
-Aegerita luteola Durieu & Mont. SPECIES
-=======
+# Aegerita luteola Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

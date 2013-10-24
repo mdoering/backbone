@@ -1,5 +1,4 @@
-Buellia contingens (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia contingens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

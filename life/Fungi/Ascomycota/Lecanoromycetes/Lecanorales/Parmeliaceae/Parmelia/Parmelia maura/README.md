@@ -1,5 +1,4 @@
-Parmelia maura Pers. SPECIES
-=======
+# Parmelia maura Pers. SPECIES
 
 #### Status
 ACCEPTED

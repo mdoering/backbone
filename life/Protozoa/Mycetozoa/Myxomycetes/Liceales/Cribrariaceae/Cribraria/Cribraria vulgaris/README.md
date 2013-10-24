@@ -1,17 +1,16 @@
-Cribraria vulgaris f. vulgaris Schrad. FORM
-=======
+# Cribraria vulgaris Schrad., 1797 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. gen. pl. (Lipsiae) 5 (1797)
 
 #### Original name
-Cribraria vulgaris f. vulgaris Schrad.
+Cribraria vulgaris Schrad., 1797
 
 ### Remarks
 null

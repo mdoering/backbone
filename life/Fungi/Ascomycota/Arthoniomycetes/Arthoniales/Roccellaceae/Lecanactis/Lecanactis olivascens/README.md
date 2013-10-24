@@ -1,5 +1,4 @@
-Lecanactis olivascens Egea, Sérus. & Torrente SPECIES
-=======
+# Lecanactis olivascens Egea, Sérus. & Torrente SPECIES
 
 #### Status
 ACCEPTED

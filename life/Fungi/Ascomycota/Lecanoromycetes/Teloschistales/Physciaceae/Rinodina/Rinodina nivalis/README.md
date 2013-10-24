@@ -1,5 +1,4 @@
-Rinodina nivalis H. Mayrhofer SPECIES
-=======
+# Rinodina nivalis H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

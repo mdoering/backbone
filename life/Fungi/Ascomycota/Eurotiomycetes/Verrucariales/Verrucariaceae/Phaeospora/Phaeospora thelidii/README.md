@@ -1,5 +1,4 @@
-Phaeospora thelidii (Hazsl.) Arnold SPECIES
-=======
+# Phaeospora thelidii (Hazsl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

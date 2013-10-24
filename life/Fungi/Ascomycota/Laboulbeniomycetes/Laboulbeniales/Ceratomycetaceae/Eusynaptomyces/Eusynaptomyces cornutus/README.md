@@ -1,5 +1,4 @@
-Eusynaptomyces cornutus Santam. SPECIES
-=======
+# Eusynaptomyces cornutus Santam. SPECIES
 
 #### Status
 ACCEPTED

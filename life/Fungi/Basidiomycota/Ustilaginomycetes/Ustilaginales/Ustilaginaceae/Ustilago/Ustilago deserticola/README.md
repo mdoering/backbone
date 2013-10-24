@@ -1,5 +1,4 @@
-Ustilago deserticola Speg. SPECIES
-=======
+# Ustilago deserticola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphichaeta rosicola H.C. Greene SPECIES
-=======
+# Amphichaeta rosicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

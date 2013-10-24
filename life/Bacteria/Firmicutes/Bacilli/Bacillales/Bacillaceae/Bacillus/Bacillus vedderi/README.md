@@ -1,5 +1,4 @@
-Bacillus vedderi Agnew et al., 1996 SPECIES
-=======
+# Bacillus vedderi Agnew et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

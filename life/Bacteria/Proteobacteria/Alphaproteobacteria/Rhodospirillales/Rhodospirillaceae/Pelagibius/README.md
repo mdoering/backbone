@@ -1,5 +1,4 @@
-Pelagibius Choi, Hwang & Cho, 2009 GENUS
-=======
+# Pelagibius Choi, Hwang & Cho, 2009 GENUS
 
 #### Status
 ACCEPTED

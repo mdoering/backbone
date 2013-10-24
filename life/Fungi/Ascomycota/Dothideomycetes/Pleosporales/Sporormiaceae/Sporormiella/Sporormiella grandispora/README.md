@@ -1,5 +1,4 @@
-Sporormiella grandispora S.I. Ahmed & Cain ex J.C. Krug, 1971 SPECIES
-=======
+# Sporormiella grandispora S.I. Ahmed & Cain ex J.C. Krug, 1971 SPECIES
 
 #### Status
 ACCEPTED

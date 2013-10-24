@@ -1,8 +1,7 @@
-Streptosporangium viridogriseum subsp. kofuense SUBSPECIES
-=======
+# Kutzneria kofuensis (Nonomura & Ohara, 1969) Stackebrandt et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

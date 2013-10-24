@@ -1,17 +1,16 @@
-Toninia leucophaeopsis f. leucophaeopsis (Nyl.) Th. Fr. FORM
-=======
+# Stereocaulon leucophaeopsis (Nyl.) P. James & Purvis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Purvis & James, Lichenologist 17(3): 235 (1985)
 
 #### Original name
-Toninia leucophaeopsis f. leucophaeopsis (Nyl.) Th. Fr.
+Lecidea leucophaeopsis Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aleurina substipitata Henn. & Nyl. SPECIES
-=======
+# Aleurina substipitata Henn. & Nyl. SPECIES
 
 #### Status
 ACCEPTED

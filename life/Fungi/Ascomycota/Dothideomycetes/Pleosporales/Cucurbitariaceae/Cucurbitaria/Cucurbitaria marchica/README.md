@@ -1,5 +1,4 @@
-Cucurbitaria marchica Kirschst. SPECIES
-=======
+# Cucurbitaria marchica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

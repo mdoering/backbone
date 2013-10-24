@@ -1,5 +1,4 @@
-Plicaria combustorum Velen. SPECIES
-=======
+# Plicaria combustorum Velen. SPECIES
 
 #### Status
 ACCEPTED

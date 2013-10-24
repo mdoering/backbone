@@ -1,5 +1,4 @@
-Nodosaria cookei Cushman, 1933 SPECIES
-=======
+# Nodosaria cookei Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

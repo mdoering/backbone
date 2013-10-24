@@ -1,5 +1,4 @@
-Aspergillus dubius Corda, 1838 SPECIES
-=======
+# Aspergillus dubius Corda, 1838 SPECIES
 
 #### Status
 ACCEPTED

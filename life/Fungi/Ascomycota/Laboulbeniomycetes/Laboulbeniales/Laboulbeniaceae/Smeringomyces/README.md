@@ -1,5 +1,4 @@
-Smeringomyces Thaxt. GENUS
-=======
+# Smeringomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

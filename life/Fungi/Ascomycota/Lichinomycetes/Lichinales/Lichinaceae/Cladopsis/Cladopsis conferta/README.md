@@ -1,5 +1,4 @@
-Cladopsis conferta (Bornet) Nyl. SPECIES
-=======
+# Cladopsis conferta (Bornet) Nyl. SPECIES
 
 #### Status
 ACCEPTED

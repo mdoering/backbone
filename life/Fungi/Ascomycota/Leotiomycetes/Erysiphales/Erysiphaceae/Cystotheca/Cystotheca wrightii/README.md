@@ -1,14 +1,13 @@
-Sphaerotheca wrightii (Berk. & M.A. Curtis) Höhn., 1909 SPECIES
-=======
+# Cystotheca wrightii Berk. & M.A. Curtis, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fragm. Mykol. 9: 7 (1909)
+Proc. Amer. Acad. Arts & Sci. 4: 130 (1860)
 
 #### Original name
 Cystotheca wrightii Berk. & M.A. Curtis, 1860

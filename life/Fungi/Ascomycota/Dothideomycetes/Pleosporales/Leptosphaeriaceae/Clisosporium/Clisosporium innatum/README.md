@@ -1,5 +1,4 @@
-Clisosporium innatum (P. Karst.) Kuntze SPECIES
-=======
+# Clisosporium innatum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

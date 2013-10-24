@@ -1,5 +1,4 @@
-Micropsalliota brunneosperma var. brunneosperma VARIETY
-=======
+# Micropsalliota brunneosperma (Singer) Pegler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 23: 369 (1969)
 
 #### Original name
-Micropsalliota brunneosperma var. brunneosperma
+Lepiota brunneosperma Singer
 
 ### Remarks
 null

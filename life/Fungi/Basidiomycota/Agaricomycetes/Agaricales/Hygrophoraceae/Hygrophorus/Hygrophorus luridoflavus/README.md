@@ -1,5 +1,4 @@
-Hygrophorus luridoflavus Henn. SPECIES
-=======
+# Hygrophorus luridoflavus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora leptomera (Sommerf.) SPECIES
-=======
+# Biatora leptomera (Sommerf.) SPECIES
 
 #### Status
 ACCEPTED

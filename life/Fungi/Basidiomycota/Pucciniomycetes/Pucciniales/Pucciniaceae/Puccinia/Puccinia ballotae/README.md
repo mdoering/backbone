@@ -1,5 +1,4 @@
-Puccinia ballotae D.M. Hend. SPECIES
-=======
+# Puccinia ballotae D.M. Hend. SPECIES
 
 #### Status
 ACCEPTED

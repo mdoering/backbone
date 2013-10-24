@@ -1,5 +1,4 @@
-Lecidella instrata (Nyl.) M. Choisy SPECIES
-=======
+# Lecidella instrata (Nyl.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

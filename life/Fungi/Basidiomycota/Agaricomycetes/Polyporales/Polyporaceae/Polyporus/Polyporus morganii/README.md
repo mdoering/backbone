@@ -1,5 +1,4 @@
-Polyporus morganii Peck SPECIES
-=======
+# Polyporus morganii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asproinocybe russuloides Heinem., 1977 SPECIES
-=======
+# Asproinocybe russuloides Heinem., 1977 SPECIES
 
 #### Status
 ACCEPTED

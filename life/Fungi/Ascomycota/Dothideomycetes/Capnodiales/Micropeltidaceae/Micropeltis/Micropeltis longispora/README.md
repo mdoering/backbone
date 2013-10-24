@@ -1,5 +1,4 @@
-Micropeltis longispora Earle SPECIES
-=======
+# Micropeltis longispora Earle SPECIES
 
 #### Status
 ACCEPTED

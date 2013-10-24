@@ -1,14 +1,13 @@
-Catella G. Ålvik, 1934 GENUS
-=======
+# Rhabdoderma W. Schmidle & R. Lauterborn, 1900 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bergens Mus. Arbok 1934 (Naturw. Rekke 6): 37.
+Ber. Deutsch. Bot. Ges. 18: 148.
 
 #### Original name
 null

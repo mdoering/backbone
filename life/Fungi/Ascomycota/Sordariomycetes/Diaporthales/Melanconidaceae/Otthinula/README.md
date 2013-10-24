@@ -1,5 +1,4 @@
-Otthinula Petrak & Sydow, 1927 GENUS
-=======
+# Otthinula Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

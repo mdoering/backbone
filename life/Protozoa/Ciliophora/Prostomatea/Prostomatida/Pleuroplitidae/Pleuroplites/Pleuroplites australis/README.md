@@ -1,5 +1,4 @@
-Pleuroplites australis Foissner, 1988 SPECIES
-=======
+# Pleuroplites australis Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

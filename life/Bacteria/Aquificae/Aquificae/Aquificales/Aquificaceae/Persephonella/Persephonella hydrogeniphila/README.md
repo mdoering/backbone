@@ -1,5 +1,4 @@
-Persephonella hydrogeniphila Nakagawa et al., 2003 SPECIES
-=======
+# Persephonella hydrogeniphila Nakagawa et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

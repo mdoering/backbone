@@ -1,5 +1,4 @@
-Lecanactis lividula Vain. SPECIES
-=======
+# Lecanactis lividula Vain. SPECIES
 
 #### Status
 ACCEPTED

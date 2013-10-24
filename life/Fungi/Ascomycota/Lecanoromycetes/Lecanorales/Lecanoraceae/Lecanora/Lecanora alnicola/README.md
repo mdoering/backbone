@@ -1,5 +1,4 @@
-Lecanora alnicola Motyka SPECIES
-=======
+# Lecanora alnicola Motyka SPECIES
 
 #### Status
 ACCEPTED

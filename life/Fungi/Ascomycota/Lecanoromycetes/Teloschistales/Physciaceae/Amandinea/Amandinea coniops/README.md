@@ -1,5 +1,4 @@
-Amandinea coniops (Wahlenb.) M. Choisy ex Scheid. & H. Mayrhofer SPECIES
-=======
+# Amandinea coniops (Wahlenb.) M. Choisy ex Scheid. & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanocystis minima (Geitler) Komárek & Anagnostidis SPECIES
-=======
+# Cyanocystis minima (Geitler) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

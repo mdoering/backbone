@@ -1,5 +1,4 @@
-Puccinia haynaldiae Mayor & Vienn.-Bourg. SPECIES
-=======
+# Puccinia haynaldiae Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

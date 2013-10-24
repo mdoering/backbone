@@ -1,8 +1,7 @@
-Alvearium dorsetense Black, 1967 SPECIES
-=======
+# Mitrolithus elegans Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

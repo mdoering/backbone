@@ -1,5 +1,4 @@
-Leccinum glutinopallens A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum glutinopallens A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

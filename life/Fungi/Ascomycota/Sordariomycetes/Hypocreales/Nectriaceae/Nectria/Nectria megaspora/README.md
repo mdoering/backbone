@@ -1,5 +1,4 @@
-Nectria megaspora Rossman SPECIES
-=======
+# Nectria megaspora Rossman SPECIES
 
 #### Status
 ACCEPTED

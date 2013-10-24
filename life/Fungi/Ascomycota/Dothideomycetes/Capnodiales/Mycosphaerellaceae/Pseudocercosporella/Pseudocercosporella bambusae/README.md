@@ -1,5 +1,4 @@
-Pseudocercosporella bambusae Deighton SPECIES
-=======
+# Pseudocercosporella bambusae Deighton SPECIES
 
 #### Status
 ACCEPTED

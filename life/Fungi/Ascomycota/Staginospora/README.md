@@ -1,5 +1,4 @@
-Staginospora Trivedi & C.L. Verma GENUS
-=======
+# Staginospora Trivedi & C.L. Verma GENUS
 
 #### Status
 ACCEPTED

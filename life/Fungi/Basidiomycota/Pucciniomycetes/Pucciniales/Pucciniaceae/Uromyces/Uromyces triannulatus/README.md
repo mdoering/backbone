@@ -1,5 +1,4 @@
-Uromyces triannulatus Berk. & M.A. Curtis SPECIES
-=======
+# Uromyces triannulatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

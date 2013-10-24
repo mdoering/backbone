@@ -1,5 +1,4 @@
-Fusidium mirabile Tengwall SPECIES
-=======
+# Fusidium mirabile Tengwall SPECIES
 
 #### Status
 ACCEPTED

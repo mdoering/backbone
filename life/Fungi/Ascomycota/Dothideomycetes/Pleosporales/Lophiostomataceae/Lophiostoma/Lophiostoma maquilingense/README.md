@@ -1,5 +1,4 @@
-Lophiostoma maquilingense K.D. Hyde & Aptroot SPECIES
-=======
+# Lophiostoma maquilingense K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

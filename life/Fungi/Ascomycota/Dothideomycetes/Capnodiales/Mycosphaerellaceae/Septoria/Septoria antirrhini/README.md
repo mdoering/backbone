@@ -1,17 +1,16 @@
-Septoria antirrhini var. minor Sacc. VARIETY
-=======
+# Septoria antirrhini Desm., 1825 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 22(1): 64 (1915)
+Not. Pl. Crypt. 3, no. 2175 (1825)
 
 #### Original name
-Septoria antirrhini var. minor Sacc.
+Septoria antirrhini Desm., 1825
 
 ### Remarks
 null

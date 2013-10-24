@@ -1,5 +1,4 @@
-Stigmina cycadina Tilak & R. Rao SPECIES
-=======
+# Stigmina cycadina Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

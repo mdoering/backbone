@@ -1,5 +1,4 @@
-Scytonema subcoactile var. aurantiacum C. Sarthou, Y. Thérézien & A. Couté VARIETY
-=======
+# Scytonema subcoactile SPECIES
 
 #### Status
 ACCEPTED

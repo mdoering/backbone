@@ -1,5 +1,4 @@
-Sordaria tomentoalba Cailleux, 1972 SPECIES
-=======
+# Sordaria tomentoalba Cailleux, 1972 SPECIES
 
 #### Status
 ACCEPTED

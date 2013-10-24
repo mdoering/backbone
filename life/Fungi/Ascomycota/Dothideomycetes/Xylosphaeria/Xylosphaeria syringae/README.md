@@ -1,5 +1,4 @@
-Xylosphaeria syringae (Ellis & Everh.) Petr. SPECIES
-=======
+# Xylosphaeria syringae (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

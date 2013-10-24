@@ -1,5 +1,4 @@
-Aecidium anograe Arthur SPECIES
-=======
+# Aecidium anograe Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia macalpini Syd. {?} SPECIES
-=======
+# Puccinia macalpini Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

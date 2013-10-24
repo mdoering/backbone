@@ -1,8 +1,7 @@
-Asteroma geographica (DC.) Desm. SPECIES
-=======
+# Asteroma geographicum (DC.) Desm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

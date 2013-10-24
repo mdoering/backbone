@@ -1,5 +1,4 @@
-Sphaeria frustum-coni Schwein. SPECIES
-=======
+# Sphaeria frustum-coni Schwein. SPECIES
 
 #### Status
 ACCEPTED

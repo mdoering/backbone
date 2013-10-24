@@ -1,5 +1,4 @@
-Microsphaera blasti F.L. Tai SPECIES
-=======
+# Microsphaera blasti F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

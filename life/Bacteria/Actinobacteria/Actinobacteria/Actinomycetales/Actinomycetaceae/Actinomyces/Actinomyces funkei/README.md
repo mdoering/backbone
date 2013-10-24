@@ -1,5 +1,4 @@
-Actinomyces funkei Lawson et al., 2001 SPECIES
-=======
+# Actinomyces funkei Lawson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

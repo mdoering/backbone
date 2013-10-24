@@ -1,5 +1,4 @@
-Sorosporium clintonii Zundel SPECIES
-=======
+# Sorosporium clintonii Zundel SPECIES
 
 #### Status
 ACCEPTED

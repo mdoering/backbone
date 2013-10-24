@@ -1,5 +1,4 @@
-Ceriporia subpudorina (Pilát) Bondartsev SPECIES
-=======
+# Ceriporia subpudorina (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

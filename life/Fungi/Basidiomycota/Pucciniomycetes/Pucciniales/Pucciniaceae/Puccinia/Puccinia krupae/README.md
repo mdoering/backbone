@@ -1,5 +1,4 @@
-Puccinia krupae Wróbl. SPECIES
-=======
+# Puccinia krupae Wróbl. SPECIES
 
 #### Status
 ACCEPTED

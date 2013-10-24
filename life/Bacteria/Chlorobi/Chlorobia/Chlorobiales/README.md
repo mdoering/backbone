@@ -1,5 +1,4 @@
-Chlorobiales Gibbons & Murray, 1978 ORDER
-=======
+# Chlorobiales Gibbons & Murray, 1978 ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosoma Ehrenberg, 1840 GENUS
-=======
+# Dendrosoma Ehrenberg, 1840 GENUS
 
 #### Status
 ACCEPTED

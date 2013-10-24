@@ -1,5 +1,4 @@
-Hypocrella glabrescens Petch SPECIES
-=======
+# Hypocrella glabrescens Petch SPECIES
 
 #### Status
 ACCEPTED

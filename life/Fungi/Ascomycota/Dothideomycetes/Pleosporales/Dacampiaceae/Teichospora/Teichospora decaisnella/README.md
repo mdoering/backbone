@@ -1,5 +1,4 @@
-Teichospora decaisnella Sacc. SPECIES
-=======
+# Teichospora decaisnella Sacc. SPECIES
 
 #### Status
 ACCEPTED

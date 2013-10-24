@@ -1,5 +1,4 @@
-Russula foetulenta Buyck SPECIES
-=======
+# Russula foetulenta Buyck SPECIES
 
 #### Status
 ACCEPTED

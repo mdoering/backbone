@@ -1,5 +1,4 @@
-Verrucaria byssina Hoffm. SPECIES
-=======
+# Verrucaria byssina Hoffm. SPECIES
 
 #### Status
 ACCEPTED

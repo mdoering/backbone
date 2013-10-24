@@ -1,5 +1,4 @@
-Boletus vaccinus Fr. SPECIES
-=======
+# Boletus vaccinus Fr. SPECIES
 
 #### Status
 ACCEPTED

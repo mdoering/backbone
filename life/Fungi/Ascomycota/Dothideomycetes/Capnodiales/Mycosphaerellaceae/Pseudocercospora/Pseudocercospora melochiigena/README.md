@@ -1,5 +1,4 @@
-Pseudocercospora melochiigena H.S.G. Rao, Arch. Singh & Kamal SPECIES
-=======
+# Pseudocercospora melochiigena H.S.G. Rao, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

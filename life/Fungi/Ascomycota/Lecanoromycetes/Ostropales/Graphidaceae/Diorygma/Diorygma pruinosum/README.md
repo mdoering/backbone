@@ -1,17 +1,16 @@
-Graphis platyleuca Nyl. SPECIES
-=======
+# Diorygma pruinosum (Eschw.) Kalb, Staiger & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Lich. Novae Caled. 75 (1868)
+Symb. bot. upsal. 34(no. 1): 166 (2004)
 
 #### Original name
-Graphis platyleuca Nyl.
+Leiogramma pruinosum Eschw.
 
 ### Remarks
 null

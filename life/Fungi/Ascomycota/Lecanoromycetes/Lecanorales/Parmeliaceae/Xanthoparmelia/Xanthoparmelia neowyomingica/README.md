@@ -1,5 +1,4 @@
-Xanthoparmelia neowyomingica Hale SPECIES
-=======
+# Xanthoparmelia neowyomingica Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium pastinacae Rostr. SPECIES
-=======
+# Aecidium pastinacae Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bremiella multiformis J.F. Tao & Y. Qin, 1982 SPECIES
-=======
+# Paraperonospora multiformis (J.F. Tao & Y. Qin) Constant., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycol. Sin. 1(2): 62 (1982)
+Sydowia 41: 95 (1989)
 
 #### Original name
 Bremiella multiformis J.F. Tao & Y. Qin, 1982

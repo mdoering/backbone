@@ -1,5 +1,4 @@
-Gymnopilus abramsii Murrill SPECIES
-=======
+# Gymnopilus abramsii Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius cryptotrichus Singer SPECIES
-=======
+# Marasmius cryptotrichus Singer SPECIES
 
 #### Status
 ACCEPTED

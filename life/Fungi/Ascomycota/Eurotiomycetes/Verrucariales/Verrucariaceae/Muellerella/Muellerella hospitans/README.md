@@ -1,14 +1,13 @@
-Muellerella polyspora var. hospitans (Stizenb.) Keissl. VARIETY
-=======
+# Muellerella hospitans Stizenb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. Dresden 30(3): 51 (1863)
 
 #### Original name
 Muellerella hospitans Stizenb.

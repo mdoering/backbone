@@ -1,5 +1,4 @@
-Mortierella pseudozygospora W. Gams & Carreiro, 1989 SPECIES
-=======
+# Mortierella pseudozygospora W. Gams & Carreiro, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acineta elegans Maskell, 1886 SPECIES
-=======
+# Acineta elegans Maskell, 1886 SPECIES
 
 #### Status
 ACCEPTED

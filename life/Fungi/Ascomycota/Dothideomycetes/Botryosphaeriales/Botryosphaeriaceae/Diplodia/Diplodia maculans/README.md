@@ -1,5 +1,4 @@
-Diplodia maculans I. Miyake & Hara SPECIES
-=======
+# Diplodia maculans I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

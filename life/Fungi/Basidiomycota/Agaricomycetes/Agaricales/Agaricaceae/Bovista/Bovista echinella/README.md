@@ -1,5 +1,4 @@
-Bovista echinella Pat. SPECIES
-=======
+# Bovista echinella Pat. SPECIES
 
 #### Status
 ACCEPTED

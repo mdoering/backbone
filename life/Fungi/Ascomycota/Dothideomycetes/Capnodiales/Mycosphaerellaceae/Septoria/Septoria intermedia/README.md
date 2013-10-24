@@ -1,5 +1,4 @@
-Septoria intermedia Ellis & Everh. SPECIES
-=======
+# Septoria intermedia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

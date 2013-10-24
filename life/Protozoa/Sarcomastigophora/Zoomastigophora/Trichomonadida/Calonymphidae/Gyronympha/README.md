@@ -1,5 +1,4 @@
-Gyronympha Dolan & Kirby, 2002 GENUS
-=======
+# Gyronympha Dolan & Kirby, 2002 GENUS
 
 #### Status
 ACCEPTED

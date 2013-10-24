@@ -1,5 +1,4 @@
-Cholorogloeaopsis zairensis Maithy, 1975 SPECIES
-=======
+# Cholorogloeaopsis zairensis Maithy, 1975 SPECIES
 
 #### Status
 ACCEPTED

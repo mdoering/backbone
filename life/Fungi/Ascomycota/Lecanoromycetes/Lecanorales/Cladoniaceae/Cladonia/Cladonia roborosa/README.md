@@ -1,5 +1,4 @@
-Cladonia roborosa SPECIES
-=======
+# Cladonia roborosa SPECIES
 
 #### Status
 ACCEPTED

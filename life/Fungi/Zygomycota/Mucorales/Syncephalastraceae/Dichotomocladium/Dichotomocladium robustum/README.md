@@ -1,5 +1,4 @@
-Dichotomocladium robustum Benny & R.K. Benj., 1975 SPECIES
-=======
+# Dichotomocladium robustum Benny & R.K. Benj., 1975 SPECIES
 
 #### Status
 ACCEPTED

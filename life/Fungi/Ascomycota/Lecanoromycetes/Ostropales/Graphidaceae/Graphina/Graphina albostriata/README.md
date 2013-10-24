@@ -1,5 +1,4 @@
-Graphina albostriata (Vain.) Zahlbr. SPECIES
-=======
+# Graphina albostriata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

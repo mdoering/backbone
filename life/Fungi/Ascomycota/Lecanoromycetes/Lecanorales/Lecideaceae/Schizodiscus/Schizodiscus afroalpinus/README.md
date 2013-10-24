@@ -1,5 +1,4 @@
-Schizodiscus afroalpinus Brusse SPECIES
-=======
+# Schizodiscus afroalpinus Brusse SPECIES
 
 #### Status
 ACCEPTED

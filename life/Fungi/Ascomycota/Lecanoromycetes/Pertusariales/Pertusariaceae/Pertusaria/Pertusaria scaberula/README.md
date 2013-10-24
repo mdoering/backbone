@@ -1,5 +1,4 @@
-Pertusaria scaberula A. W. Archer SPECIES
-=======
+# Pertusaria scaberula A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

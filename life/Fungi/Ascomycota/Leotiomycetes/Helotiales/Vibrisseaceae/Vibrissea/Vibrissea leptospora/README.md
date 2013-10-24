@@ -1,14 +1,13 @@
-Apostemidium leptospora (Berk. & Broome) Boud., 1907 SPECIES
-=======
+# Vibrissea leptospora (Berk. & Broome) W. Phillips, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 91 (1907)
+Trans. Linn. Soc. London, Bot. II 2: 8 (1881)
 
 #### Original name
 null

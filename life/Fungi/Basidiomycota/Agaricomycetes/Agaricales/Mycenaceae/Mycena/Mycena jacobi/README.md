@@ -1,5 +1,4 @@
-Mycena jacobi Maire SPECIES
-=======
+# Mycena jacobi Maire SPECIES
 
 #### Status
 ACCEPTED

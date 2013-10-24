@@ -1,5 +1,4 @@
-Catillaria atroalbicans (Nyl.) Jatta SPECIES
-=======
+# Catillaria atroalbicans (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

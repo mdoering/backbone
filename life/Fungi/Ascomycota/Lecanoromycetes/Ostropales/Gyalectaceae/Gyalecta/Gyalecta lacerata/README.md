@@ -1,5 +1,4 @@
-Gyalecta lacerata Vain. SPECIES
-=======
+# Gyalecta lacerata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora paddensis Tuck. SPECIES
-=======
+# Biatora paddensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa aemula Penz. & Sacc. SPECIES
-=======
+# Eutypa aemula Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

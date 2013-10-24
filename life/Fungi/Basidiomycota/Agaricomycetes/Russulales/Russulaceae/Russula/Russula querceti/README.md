@@ -1,5 +1,4 @@
-Russula querceti H. Haas & Jul. Schäff. SPECIES
-=======
+# Russula querceti H. Haas & Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

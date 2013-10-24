@@ -1,5 +1,4 @@
-Lepiota rosella Rick SPECIES
-=======
+# Lepiota rosella Rick SPECIES
 
 #### Status
 ACCEPTED

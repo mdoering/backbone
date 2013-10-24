@@ -1,5 +1,4 @@
-Aspergillus insecticola Subram. SPECIES
-=======
+# Aspergillus insecticola Subram. SPECIES
 
 #### Status
 ACCEPTED

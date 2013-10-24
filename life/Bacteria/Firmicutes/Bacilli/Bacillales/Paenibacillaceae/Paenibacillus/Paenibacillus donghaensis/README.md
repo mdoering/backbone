@@ -1,5 +1,4 @@
-Paenibacillus donghaensis Choi, Moon, Kim, Rhee, Roh, Im, Yoo & Lee, 2008 SPECIES
-=======
+# Paenibacillus donghaensis Choi, Moon, Kim, Rhee, Roh, Im, Yoo & Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

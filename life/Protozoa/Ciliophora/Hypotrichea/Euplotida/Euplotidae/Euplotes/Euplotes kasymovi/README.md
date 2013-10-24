@@ -1,5 +1,4 @@
-Euplotes kasymovi (Kahl, 1926) Kahl, 1931 SPECIES
-=======
+# Euplotes kasymovi (Kahl, 1926) Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

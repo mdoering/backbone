@@ -1,5 +1,4 @@
-Gyalideopsis rogersii Vezda & Hafellner SPECIES
-=======
+# Gyalideopsis rogersii Vezda & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Faurea mirabilis Dragesco, 1954 SPECIES
-=======
+# Ciliofaurea mirabilis (Dragesco, 1954) Dragesco, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

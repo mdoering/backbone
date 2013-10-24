@@ -1,5 +1,4 @@
-Anthracoidea nardinae (Kukkonen) Nannf. SPECIES
-=======
+# Anthracoidea nardinae (Kukkonen) Nannf. SPECIES
 
 #### Status
 ACCEPTED

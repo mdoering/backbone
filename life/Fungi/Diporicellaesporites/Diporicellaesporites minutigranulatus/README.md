@@ -1,5 +1,4 @@
-Diporicellaesporites minutigranulatus (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Diporicellaesporites minutigranulatus (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

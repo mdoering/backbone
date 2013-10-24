@@ -1,17 +1,16 @@
-Amanita Dillenius ex Boehmer, 1760 GENUS
-=======
+# Agaricus Linnaeus, 1753 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Defin. Gen. Pl. 490 (1760)
+Sp. pl. 2: 1171 (1753)
 
 #### Original name
-Amanita Dillenius ex Boehmer, 1760
+Agaricus Linnaeus, 1753
 
 ### Remarks
 null

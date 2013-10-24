@@ -1,5 +1,4 @@
-Biparietata Zolotova in Zolotova & Baryshnikov, 1980 GENUS
-=======
+# Biparietata Zolotova in Zolotova & Baryshnikov, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea craterella Ach. SPECIES
-=======
+# Lecidea craterella Ach. SPECIES
 
 #### Status
 ACCEPTED

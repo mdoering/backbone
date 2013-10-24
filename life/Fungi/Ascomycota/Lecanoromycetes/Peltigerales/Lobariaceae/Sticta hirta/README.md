@@ -1,5 +1,4 @@
-Sticta hirta (Nyl.) Trevis. SPECIES
-=======
+# Sticta hirta (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

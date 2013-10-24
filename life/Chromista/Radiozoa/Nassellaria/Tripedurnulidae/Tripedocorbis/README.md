@@ -1,5 +1,4 @@
-Tripedocorbis Dumitrica, 1991 GENUS
-=======
+# Tripedocorbis Dumitrica, 1991 GENUS
 
 #### Status
 ACCEPTED

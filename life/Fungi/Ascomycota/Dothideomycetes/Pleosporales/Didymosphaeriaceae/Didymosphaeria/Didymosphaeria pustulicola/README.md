@@ -1,5 +1,4 @@
-Didymosphaeria pustulicola Rehm SPECIES
-=======
+# Didymosphaeria pustulicola Rehm SPECIES
 
 #### Status
 ACCEPTED

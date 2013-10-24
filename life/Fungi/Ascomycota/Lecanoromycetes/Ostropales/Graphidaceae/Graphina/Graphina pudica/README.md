@@ -1,5 +1,4 @@
-Graphina pudica (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Graphina pudica (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

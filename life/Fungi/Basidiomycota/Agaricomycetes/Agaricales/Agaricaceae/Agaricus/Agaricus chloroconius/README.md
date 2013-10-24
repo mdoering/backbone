@@ -1,5 +1,4 @@
-Agaricus chloroconius Berk. & Broome SPECIES
-=======
+# Agaricus chloroconius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

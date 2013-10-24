@@ -1,5 +1,4 @@
-Savoryella curvispora W.H. Ho, K.D. Hyde & Hodgkiss, 1997 SPECIES
-=======
+# Savoryella curvispora W.H. Ho, K.D. Hyde & Hodgkiss, 1997 SPECIES
 
 #### Status
 ACCEPTED

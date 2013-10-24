@@ -1,5 +1,4 @@
-Lignydium polyedrum (Schwein.) Kuntze SPECIES
-=======
+# Lignydium polyedrum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dehalococcoides Maymo-Gatell, Chien, Gossett & Zinder, 1997 FAMILY
-=======
+# Dehalococcoides Maymo-Gatell, Chien, Gossett & Zinder, 1997 FAMILY
 
 #### Status
 ACCEPTED

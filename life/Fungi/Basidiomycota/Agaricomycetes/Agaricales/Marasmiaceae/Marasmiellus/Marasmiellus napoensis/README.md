@@ -1,5 +1,4 @@
-Marasmiellus napoensis Singer SPECIES
-=======
+# Marasmiellus napoensis Singer SPECIES
 
 #### Status
 ACCEPTED

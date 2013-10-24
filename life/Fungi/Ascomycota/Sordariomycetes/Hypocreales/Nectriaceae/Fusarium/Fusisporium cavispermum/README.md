@@ -1,5 +1,4 @@
-Fusisporium cavispermum Corda SPECIES
-=======
+# Fusisporium cavispermum Corda SPECIES
 
 #### Status
 ACCEPTED

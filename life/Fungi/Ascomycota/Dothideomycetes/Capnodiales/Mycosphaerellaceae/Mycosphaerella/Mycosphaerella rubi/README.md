@@ -1,17 +1,16 @@
-Septoria rubi var. rubi VARIETY
-=======
+# Mycosphaerella rubi Roark, 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kickx, Fl. Crypt. Flandres 1: 433 (1854)
+Phytopathology 11: 329 (1921)
 
 #### Original name
-Septoria rubi var. rubi
+Mycosphaerella rubi Roark, 1921
 
 ### Remarks
 null

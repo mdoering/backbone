@@ -1,5 +1,4 @@
-Leptoporus bulgaricus Pilát SPECIES
-=======
+# Leptoporus bulgaricus Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocarpus farinellus P. Karst. SPECIES
-=======
+# Xerocarpus farinellus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

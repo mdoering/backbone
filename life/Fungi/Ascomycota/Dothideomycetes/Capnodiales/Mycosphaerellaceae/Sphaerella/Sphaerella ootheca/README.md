@@ -1,5 +1,4 @@
-Sphaerella ootheca Sacc. SPECIES
-=======
+# Sphaerella ootheca Sacc. SPECIES
 
 #### Status
 ACCEPTED

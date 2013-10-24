@@ -1,5 +1,4 @@
-Urocystis carcinodes (Berk. & M.A. Curtis) E. Fisch. SPECIES
-=======
+# Urocystis carcinodes (Berk. & M.A. Curtis) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

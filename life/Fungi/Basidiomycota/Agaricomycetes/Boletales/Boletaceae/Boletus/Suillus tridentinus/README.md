@@ -1,8 +1,7 @@
-Boletus aurantiporus J. Howse, 1885 SPECIES
-=======
+# Suillus tridentinus (Bres.) Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

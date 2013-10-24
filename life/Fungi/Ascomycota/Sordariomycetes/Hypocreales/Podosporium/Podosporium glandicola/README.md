@@ -1,5 +1,4 @@
-Podosporium glandicola Schwein. SPECIES
-=======
+# Podosporium glandicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

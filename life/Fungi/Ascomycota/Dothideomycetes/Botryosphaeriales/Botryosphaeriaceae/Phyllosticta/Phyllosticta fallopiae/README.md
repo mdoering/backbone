@@ -1,5 +1,4 @@
-Phyllosticta fallopiae Motohashi, I. Araki & C. Nakash. SPECIES
-=======
+# Phyllosticta fallopiae Motohashi, I. Araki & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

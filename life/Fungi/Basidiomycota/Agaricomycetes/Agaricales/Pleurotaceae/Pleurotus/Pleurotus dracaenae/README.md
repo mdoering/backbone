@@ -1,5 +1,4 @@
-Pleurotus dracaenae Torrend SPECIES
-=======
+# Pleurotus dracaenae Torrend SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrymaria hemisodes (Berk.) Kits van Wav. SPECIES
-=======
+# Lacrymaria hemisodes (Berk.) Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

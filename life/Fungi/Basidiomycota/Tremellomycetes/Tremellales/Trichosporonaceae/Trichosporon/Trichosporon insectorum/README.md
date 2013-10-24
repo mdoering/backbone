@@ -1,5 +1,4 @@
-Trichosporon insectorum Fuentefria, S.O. Suh, M.F. Landell, Faganello, A. Schrank, Vainstein, M. Blackw. & P. Valente SPECIES
-=======
+# Trichosporon insectorum Fuentefria, S.O. Suh, M.F. Landell, Faganello, A. Schrank, Vainstein, M. Blackw. & P. Valente SPECIES
 
 #### Status
 ACCEPTED

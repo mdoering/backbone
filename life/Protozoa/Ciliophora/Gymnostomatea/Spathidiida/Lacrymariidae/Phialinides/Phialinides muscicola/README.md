@@ -1,5 +1,4 @@
-Phialinides muscicola (Kahl, 1943) Foissner & Wenzel, 2004 SPECIES
-=======
+# Phialinides muscicola (Kahl, 1943) Foissner & Wenzel, 2004 SPECIES
 
 #### Status
 ACCEPTED

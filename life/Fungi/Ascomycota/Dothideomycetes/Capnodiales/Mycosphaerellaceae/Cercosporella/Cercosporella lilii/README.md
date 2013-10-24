@@ -1,5 +1,4 @@
-Cercosporella lilii Dearn. SPECIES
-=======
+# Cercosporella lilii Dearn. SPECIES
 
 #### Status
 ACCEPTED

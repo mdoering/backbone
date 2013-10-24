@@ -1,5 +1,4 @@
-Eoammosphaeroides Pronina, 1970 GENUS
-=======
+# Eoammosphaeroides Pronina, 1970 GENUS
 
 #### Status
 ACCEPTED

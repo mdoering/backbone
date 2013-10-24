@@ -1,5 +1,4 @@
-Hymenoscyphus splendens Abdullah, Descals & J. Webster, 1981 SPECIES
-=======
+# Hymenoscyphus splendens Abdullah, Descals & J. Webster, 1981 SPECIES
 
 #### Status
 ACCEPTED

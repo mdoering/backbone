@@ -1,5 +1,4 @@
-Scleroderma areolatum Ehrenb., 1818 SPECIES
-=======
+# Scleroderma areolatum Ehrenb., 1818 SPECIES
 
 #### Status
 ACCEPTED

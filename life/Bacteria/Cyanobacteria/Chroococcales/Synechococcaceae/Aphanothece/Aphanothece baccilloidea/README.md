@@ -1,5 +1,4 @@
-Aphanothece baccilloidea Gardner SPECIES
-=======
+# Aphanothece baccilloidea Gardner SPECIES
 
 #### Status
 ACCEPTED

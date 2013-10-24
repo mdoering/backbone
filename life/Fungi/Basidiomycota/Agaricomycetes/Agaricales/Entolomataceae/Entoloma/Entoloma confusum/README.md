@@ -1,5 +1,4 @@
-Entoloma confusum E. Horak, 2008 SPECIES
-=======
+# Entoloma confusum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

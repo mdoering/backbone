@@ -1,5 +1,4 @@
-Phyllosticta telekiae Cejp et al. {?} SPECIES
-=======
+# Phyllosticta telekiae Cejp et al. {?} SPECIES
 
 #### Status
 ACCEPTED

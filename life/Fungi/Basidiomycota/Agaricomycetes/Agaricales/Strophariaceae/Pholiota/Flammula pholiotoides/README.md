@@ -1,5 +1,4 @@
-Flammula pholiotoides Murrill SPECIES
-=======
+# Flammula pholiotoides Murrill SPECIES
 
 #### Status
 ACCEPTED

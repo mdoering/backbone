@@ -1,5 +1,4 @@
-Tubercularia minuta Schumach. SPECIES
-=======
+# Tubercularia minuta Schumach. SPECIES
 
 #### Status
 ACCEPTED

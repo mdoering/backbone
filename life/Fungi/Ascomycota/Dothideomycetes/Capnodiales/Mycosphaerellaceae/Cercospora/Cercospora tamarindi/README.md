@@ -1,5 +1,4 @@
-Cercospora tamarindi S.N. Khan, B.M. Misra & Rehill SPECIES
-=======
+# Cercospora tamarindi S.N. Khan, B.M. Misra & Rehill SPECIES
 
 #### Status
 ACCEPTED

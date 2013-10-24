@@ -1,5 +1,4 @@
-Goosiella helicospora Morgan-Jones, Kamal & R.K. Verma, 1986 SPECIES
-=======
+# Goosiella helicospora Morgan-Jones, Kamal & R.K. Verma, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia euphorbiae var. euphorbiae VARIETY
-=======
+# Puccinia euphorbiae Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungi Aethiop. 1: 109 (1893)
 
 #### Original name
-Puccinia euphorbiae var. euphorbiae
+Puccinia euphorbiae Cooke & Peck
 
 ### Remarks
 null

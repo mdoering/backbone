@@ -1,5 +1,4 @@
-Morchella pseudoviridis Jacquet. SPECIES
-=======
+# Morchella pseudoviridis Jacquet. SPECIES
 
 #### Status
 ACCEPTED

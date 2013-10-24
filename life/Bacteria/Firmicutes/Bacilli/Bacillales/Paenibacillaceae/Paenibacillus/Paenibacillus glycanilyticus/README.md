@@ -1,5 +1,4 @@
-Paenibacillus glycanilyticus Dasman et al., 2002 SPECIES
-=======
+# Paenibacillus glycanilyticus Dasman et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

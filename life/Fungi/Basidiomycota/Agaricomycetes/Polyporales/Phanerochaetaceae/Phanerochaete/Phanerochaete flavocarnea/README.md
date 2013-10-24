@@ -1,5 +1,4 @@
-Phanerochaete flavocarnea (Petch) Hjortstam SPECIES
-=======
+# Phanerochaete flavocarnea (Petch) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

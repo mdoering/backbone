@@ -1,5 +1,4 @@
-Graphina curta (Fée) Müll. Arg. SPECIES
-=======
+# Graphina curta (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

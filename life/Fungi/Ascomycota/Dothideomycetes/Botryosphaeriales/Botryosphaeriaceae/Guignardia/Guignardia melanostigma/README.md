@@ -1,5 +1,4 @@
-Guignardia melanostigma (Lév.) Sacc. & Trotter SPECIES
-=======
+# Guignardia melanostigma (Lév.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

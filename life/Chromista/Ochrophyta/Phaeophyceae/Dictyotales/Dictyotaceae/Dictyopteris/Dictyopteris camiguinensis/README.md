@@ -1,5 +1,4 @@
-Dictyopteris camiguinensis Tanaka SPECIES
-=======
+# Dictyopteris camiguinensis Tanaka SPECIES
 
 #### Status
 ACCEPTED

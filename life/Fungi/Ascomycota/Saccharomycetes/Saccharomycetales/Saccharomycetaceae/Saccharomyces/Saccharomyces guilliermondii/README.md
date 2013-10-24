@@ -1,5 +1,4 @@
-Saccharomyces guilliermondii Schweiz. {?} SPECIES
-=======
+# Saccharomyces guilliermondii Schweiz. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pellidiscus subiculosus W.B. Cooke, 1961 SPECIES
-=======
+# Pellidiscus subiculosus W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

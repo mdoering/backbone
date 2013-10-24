@@ -1,17 +1,16 @@
-Pterula bresadoleana Henn. SPECIES
-=======
+# Pterula bresadolana Henn., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. 17: 22 (1893)
 
 #### Original name
-Pterula bresadoleana Henn.
+Pterula bresadolana Henn., 1893
 
 ### Remarks
 null

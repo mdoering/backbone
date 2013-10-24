@@ -1,14 +1,13 @@
-Dictyopanus luminescens Corner, 1950 SPECIES
-=======
+# Panellus luminescens (Corner) Corner, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 42(3): 423 (1950)
+Gdns' Bull. , Singapore 39(2): 132 (1986)
 
 #### Original name
 Dictyopanus luminescens Corner, 1950

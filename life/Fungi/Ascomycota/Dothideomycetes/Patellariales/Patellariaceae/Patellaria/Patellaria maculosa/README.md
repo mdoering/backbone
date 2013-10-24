@@ -1,5 +1,4 @@
-Patellaria maculosa (Stirt.) Müll. Arg. SPECIES
-=======
+# Patellaria maculosa (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

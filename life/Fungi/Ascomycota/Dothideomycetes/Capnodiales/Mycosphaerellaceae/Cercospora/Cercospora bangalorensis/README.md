@@ -1,5 +1,4 @@
-Cercospora bangalorensis Thirum. & Chupp SPECIES
-=======
+# Cercospora bangalorensis Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

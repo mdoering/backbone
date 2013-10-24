@@ -1,5 +1,4 @@
-Micropeltella epiphylla Bat. & Cavalc. SPECIES
-=======
+# Micropeltella epiphylla Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

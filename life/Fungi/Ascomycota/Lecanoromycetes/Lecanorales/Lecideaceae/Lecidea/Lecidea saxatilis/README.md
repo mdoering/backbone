@@ -1,5 +1,4 @@
-Lecidea saxatilis SPECIES
-=======
+# Lecidea saxatilis SPECIES
 
 #### Status
 ACCEPTED

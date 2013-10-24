@@ -1,17 +1,16 @@
-Gyalecta rosellovirens var. rosellovirens Nyl. VARIETY
-=======
+# Gyalecta subclausa Anzi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Gyalecta rosellovirens var. rosellovirens Nyl.
+Gyalecta subclausa Anzi
 
 ### Remarks
 null

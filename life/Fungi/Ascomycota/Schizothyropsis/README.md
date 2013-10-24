@@ -1,5 +1,4 @@
-Schizothyropsis Bat. & A.F. Vital GENUS
-=======
+# Schizothyropsis Bat. & A.F. Vital GENUS
 
 #### Status
 ACCEPTED

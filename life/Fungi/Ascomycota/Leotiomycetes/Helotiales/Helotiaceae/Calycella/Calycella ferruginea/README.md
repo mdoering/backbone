@@ -1,17 +1,16 @@
-Helotium ferrugineum var. ferrugineum VARIETY
-=======
+# Calycella ferruginea (Schumach.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 356 (1849)
+null
 
 #### Original name
-Helotium ferrugineum var. ferrugineum
+null
 
 ### Remarks
 null

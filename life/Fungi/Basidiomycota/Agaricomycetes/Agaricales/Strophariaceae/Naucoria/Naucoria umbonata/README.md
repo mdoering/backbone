@@ -1,5 +1,4 @@
-Naucoria umbonata Velen. SPECIES
-=======
+# Naucoria umbonata Velen. SPECIES
 
 #### Status
 ACCEPTED

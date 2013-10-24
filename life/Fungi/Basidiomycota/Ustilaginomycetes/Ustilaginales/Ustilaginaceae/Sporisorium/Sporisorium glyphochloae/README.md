@@ -1,5 +1,4 @@
-Sporisorium glyphochloae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Sporisorium glyphochloae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

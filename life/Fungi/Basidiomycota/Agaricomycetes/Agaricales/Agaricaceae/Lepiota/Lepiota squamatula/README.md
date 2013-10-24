@@ -1,5 +1,4 @@
-Lepiota squamatula E. Horak SPECIES
-=======
+# Lepiota squamatula E. Horak SPECIES
 
 #### Status
 ACCEPTED

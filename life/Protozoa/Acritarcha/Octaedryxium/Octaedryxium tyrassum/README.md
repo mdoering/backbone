@@ -1,5 +1,4 @@
-Octaedryxium tyrassum Timofeev, 1973 SPECIES
-=======
+# Octaedryxium tyrassum Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

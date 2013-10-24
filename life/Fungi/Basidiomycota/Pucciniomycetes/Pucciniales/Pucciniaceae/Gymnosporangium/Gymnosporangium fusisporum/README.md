@@ -1,5 +1,4 @@
-Gymnosporangium fusisporum E. Fisch., 1918 SPECIES
-=======
+# Gymnosporangium fusisporum E. Fisch., 1918 SPECIES
 
 #### Status
 ACCEPTED

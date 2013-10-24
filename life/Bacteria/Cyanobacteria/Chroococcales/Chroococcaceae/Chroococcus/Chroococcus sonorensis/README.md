@@ -1,5 +1,4 @@
-Chroococcus sonorensis Drouet & Daily SPECIES
-=======
+# Chroococcus sonorensis Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymaria salicis Cavara SPECIES
-=======
+# Didymaria salicis Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria bromeliae Gonz. Frag. & Cif. SPECIES
-=======
+# Chaetosphaeria bromeliae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

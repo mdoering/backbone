@@ -1,5 +1,4 @@
-Septobasidium fuscum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium fuscum Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon flosculosum (Starbäck) J.H. Mill. SPECIES
-=======
+# Hypoxylon flosculosum (Starbäck) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

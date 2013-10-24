@@ -1,5 +1,4 @@
-Massaria pulchra Harkn. SPECIES
-=======
+# Massaria pulchra Harkn. SPECIES
 
 #### Status
 ACCEPTED

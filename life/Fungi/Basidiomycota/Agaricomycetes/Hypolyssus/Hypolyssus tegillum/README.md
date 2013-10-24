@@ -1,5 +1,4 @@
-Hypolyssus tegillum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Hypolyssus tegillum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

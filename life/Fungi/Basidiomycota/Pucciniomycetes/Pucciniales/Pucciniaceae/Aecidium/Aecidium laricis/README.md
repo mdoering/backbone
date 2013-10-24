@@ -1,5 +1,4 @@
-Aecidium laricis Kleb. SPECIES
-=======
+# Aecidium laricis Kleb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thallomicrosporon kuehnii Benedek, 1964 SPECIES
-=======
+# Thallomicrosporon kuehnii Benedek, 1964 SPECIES
 
 #### Status
 ACCEPTED

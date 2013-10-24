@@ -1,5 +1,4 @@
-Pluteus subnanus Henn. & E. Nyman SPECIES
-=======
+# Pluteus subnanus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

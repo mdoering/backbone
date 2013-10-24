@@ -1,5 +1,4 @@
-Pyrenopsidium pulvinata (Schaer.) Th. Fr. SPECIES
-=======
+# Pyrenopsidium pulvinata (Schaer.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

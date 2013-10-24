@@ -1,5 +1,4 @@
-Sargassum namoense Nguyen Huu Dai, 2004 SPECIES
-=======
+# Sargassum namoense Nguyen Huu Dai, 2004 SPECIES
 
 #### Status
 ACCEPTED

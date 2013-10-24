@@ -1,5 +1,4 @@
-Corditubera Henn. GENUS
-=======
+# Corditubera Henn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria elaeidicola Piroz. SPECIES
-=======
+# Leptosphaeria elaeidicola Piroz. SPECIES
 
 #### Status
 ACCEPTED

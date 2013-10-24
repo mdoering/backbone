@@ -1,17 +1,16 @@
-Micropyxis Seeler GENUS
-=======
+# Gelatinopsis Rambold & Triebel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1: 125 (1943)
+Notes R. bot. Gdn Edinb. 46(3): 375 (1990)
 
 #### Original name
-Micropyxis Seeler
+Gelatinopsis Rambold & Triebel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea concinerata Nyl. SPECIES
-=======
+# Lecidea concinerata Nyl. SPECIES
 
 #### Status
 ACCEPTED

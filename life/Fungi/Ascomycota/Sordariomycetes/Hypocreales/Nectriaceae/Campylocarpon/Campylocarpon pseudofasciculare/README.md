@@ -1,5 +1,4 @@
-Campylocarpon pseudofasciculare Halleen, Schroers & Crous, 2004 SPECIES
-=======
+# Campylocarpon pseudofasciculare Halleen, Schroers & Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

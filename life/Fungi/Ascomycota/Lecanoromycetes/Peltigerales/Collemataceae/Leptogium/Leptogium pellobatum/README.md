@@ -1,5 +1,4 @@
-Leptogium pellobatum Verdon SPECIES
-=======
+# Leptogium pellobatum Verdon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus serratus Bolton SPECIES
-=======
+# Agaricus serratus Bolton SPECIES
 
 #### Status
 ACCEPTED

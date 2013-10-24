@@ -1,5 +1,4 @@
-Parmelia cinchonae (Willd.) Spreng. SPECIES
-=======
+# Parmelia cinchonae (Willd.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

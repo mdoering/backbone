@@ -1,5 +1,4 @@
-Moraxella bovis (Hauduroy et al., 1937) Bøvre, 1984 SPECIES
-=======
+# Moraxella bovis (Hauduroy et al., 1937) Bøvre, 1984 SPECIES
 
 #### Status
 ACCEPTED

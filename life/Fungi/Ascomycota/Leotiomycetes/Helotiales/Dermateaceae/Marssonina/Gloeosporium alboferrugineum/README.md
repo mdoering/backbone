@@ -1,5 +1,4 @@
-Gloeosporium alboferrugineum Ellis & Everh. SPECIES
-=======
+# Gloeosporium alboferrugineum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

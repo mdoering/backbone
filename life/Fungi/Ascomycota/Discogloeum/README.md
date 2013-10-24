@@ -1,5 +1,4 @@
-Discogloeum Petr. GENUS
-=======
+# Discogloeum Petr. GENUS
 
 #### Status
 ACCEPTED

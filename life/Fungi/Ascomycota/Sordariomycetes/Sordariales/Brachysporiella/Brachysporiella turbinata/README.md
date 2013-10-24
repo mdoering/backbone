@@ -1,5 +1,4 @@
-Brachysporiella turbinata (Cooke & Harkn.) M.B. Ellis SPECIES
-=======
+# Brachysporiella turbinata (Cooke & Harkn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

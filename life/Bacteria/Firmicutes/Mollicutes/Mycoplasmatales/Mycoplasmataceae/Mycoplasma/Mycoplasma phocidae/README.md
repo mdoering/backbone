@@ -1,5 +1,4 @@
-Mycoplasma phocidae Ruhnke & Madoff, 1992 SPECIES
-=======
+# Mycoplasma phocidae Ruhnke & Madoff, 1992 SPECIES
 
 #### Status
 ACCEPTED

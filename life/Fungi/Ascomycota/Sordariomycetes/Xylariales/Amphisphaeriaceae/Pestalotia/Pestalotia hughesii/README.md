@@ -1,5 +1,4 @@
-Pestalotia hughesii (Steyaert) Guba SPECIES
-=======
+# Pestalotia hughesii (Steyaert) Guba SPECIES
 
 #### Status
 ACCEPTED

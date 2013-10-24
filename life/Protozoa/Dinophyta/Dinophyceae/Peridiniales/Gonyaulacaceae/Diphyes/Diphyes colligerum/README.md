@@ -1,5 +1,4 @@
-Diphyes colligerum (Deflandre & Cookson, 1955) Cookson SPECIES
-=======
+# Diphyes colligerum (Deflandre & Cookson, 1955) Cookson SPECIES
 
 #### Status
 ACCEPTED

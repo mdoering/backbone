@@ -1,5 +1,4 @@
-Physalospora albanica Petr. SPECIES
-=======
+# Physalospora albanica Petr. SPECIES
 
 #### Status
 ACCEPTED

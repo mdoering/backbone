@@ -1,5 +1,4 @@
-Morchella pubescens Pers. SPECIES
-=======
+# Morchella pubescens Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena rhodoconis Berk. & M.A. Curtis SPECIES
-=======
+# Mycena rhodoconis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

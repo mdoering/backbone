@@ -1,5 +1,4 @@
-Lecanora distracta SPECIES
-=======
+# Lecanora distracta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus tyrolensis (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus tyrolensis (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

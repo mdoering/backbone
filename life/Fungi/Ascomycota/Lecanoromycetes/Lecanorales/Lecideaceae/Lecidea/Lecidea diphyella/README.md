@@ -1,5 +1,4 @@
-Lecidea diphyella (Nyl.) Hue SPECIES
-=======
+# Lecidea diphyella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

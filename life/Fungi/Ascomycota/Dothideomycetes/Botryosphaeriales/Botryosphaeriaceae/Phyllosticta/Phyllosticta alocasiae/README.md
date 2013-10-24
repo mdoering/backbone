@@ -1,5 +1,4 @@
-Phyllosticta alocasiae N.D. Sharma SPECIES
-=======
+# Phyllosticta alocasiae N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

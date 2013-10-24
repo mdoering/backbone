@@ -1,5 +1,4 @@
-Puccinia bromi-japonici S. Ito SPECIES
-=======
+# Puccinia bromi-japonici S. Ito SPECIES
 
 #### Status
 ACCEPTED

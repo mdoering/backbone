@@ -1,5 +1,4 @@
-Stenozonoligotriletes depressus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes depressus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heimerlia hyalina Höhn. SPECIES
-=======
+# Heimerlia hyalina Höhn. SPECIES
 
 #### Status
 ACCEPTED

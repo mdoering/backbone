@@ -1,5 +1,4 @@
-Microthelia furfuracea (A. Massal.) Bagl. & Carestia SPECIES
-=======
+# Microthelia furfuracea (A. Massal.) Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

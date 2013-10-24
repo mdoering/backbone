@@ -1,5 +1,4 @@
-Pestalotia aesculi Fautrey SPECIES
-=======
+# Pestalotia aesculi Fautrey SPECIES
 
 #### Status
 ACCEPTED

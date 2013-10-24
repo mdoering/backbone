@@ -1,5 +1,4 @@
-Candida auringiensis Santa María, 1978 SPECIES
-=======
+# Candida auringiensis Santa María, 1978 SPECIES
 
 #### Status
 ACCEPTED

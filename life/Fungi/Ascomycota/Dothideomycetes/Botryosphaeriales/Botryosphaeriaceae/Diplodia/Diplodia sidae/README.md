@@ -1,5 +1,4 @@
-Diplodia sidae Pass. & Beltr. SPECIES
-=======
+# Diplodia sidae Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

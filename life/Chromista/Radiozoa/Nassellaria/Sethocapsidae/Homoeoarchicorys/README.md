@@ -1,5 +1,4 @@
-Homoeoarchicorys GENUS
-=======
+# Homoeoarchicorys GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyadosporonites grandiporus H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
-=======
+# Dyadosporonites grandiporus H.P. Singh, R.K. Saxena & M.R. Rao SPECIES
 
 #### Status
 ACCEPTED

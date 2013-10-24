@@ -1,5 +1,4 @@
-Graphis leptoclada Müll. Arg. SPECIES
-=======
+# Graphis leptoclada Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

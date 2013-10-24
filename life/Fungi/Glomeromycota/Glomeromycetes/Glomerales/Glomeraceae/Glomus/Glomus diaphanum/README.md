@@ -1,5 +1,4 @@
-Glomus diaphanum J.B. Morton & C. Walker, 1984 SPECIES
-=======
+# Glomus diaphanum J.B. Morton & C. Walker, 1984 SPECIES
 
 #### Status
 ACCEPTED

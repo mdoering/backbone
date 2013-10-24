@@ -1,5 +1,4 @@
-Spirulina laxissima G. S. West, 1907 SPECIES
-=======
+# Spirulina laxissima G. S. West, 1907 SPECIES
 
 #### Status
 ACCEPTED

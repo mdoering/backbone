@@ -1,5 +1,4 @@
-Buellia subpunctiformis SPECIES
-=======
+# Buellia subpunctiformis SPECIES
 
 #### Status
 ACCEPTED

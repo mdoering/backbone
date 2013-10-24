@@ -1,5 +1,4 @@
-Trichothyrium sarciniferum Speg., 1889 SPECIES
-=======
+# Trichothyrium sarciniferum Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

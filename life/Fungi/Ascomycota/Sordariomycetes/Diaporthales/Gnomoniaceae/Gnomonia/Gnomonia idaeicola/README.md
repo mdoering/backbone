@@ -1,5 +1,4 @@
-Gnomonia idaeicola P. Karst. SPECIES
-=======
+# Gnomonia idaeicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

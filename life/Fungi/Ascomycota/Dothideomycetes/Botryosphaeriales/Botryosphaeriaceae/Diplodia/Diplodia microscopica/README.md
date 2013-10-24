@@ -1,5 +1,4 @@
-Diplodia microscopica Cooke & Harkn. SPECIES
-=======
+# Diplodia microscopica Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

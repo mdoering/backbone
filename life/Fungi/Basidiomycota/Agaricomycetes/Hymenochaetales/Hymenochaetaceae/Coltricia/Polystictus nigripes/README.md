@@ -1,5 +1,4 @@
-Polystictus nigripes Massee SPECIES
-=======
+# Polystictus nigripes Massee SPECIES
 
 #### Status
 ACCEPTED

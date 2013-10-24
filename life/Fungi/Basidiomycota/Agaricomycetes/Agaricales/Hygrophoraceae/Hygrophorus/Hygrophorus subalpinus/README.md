@@ -1,5 +1,4 @@
-Hygrophorus subalpinus A.H. Sm. SPECIES
-=======
+# Hygrophorus subalpinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

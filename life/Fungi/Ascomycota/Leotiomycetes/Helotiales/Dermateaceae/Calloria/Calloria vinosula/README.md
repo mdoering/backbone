@@ -1,5 +1,4 @@
-Calloria vinosula Rehm SPECIES
-=======
+# Calloria vinosula Rehm SPECIES
 
 #### Status
 ACCEPTED

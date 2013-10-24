@@ -1,5 +1,4 @@
-Tomentella ochraceo-olivacea Litsch. SPECIES
-=======
+# Tomentella ochraceo-olivacea Litsch. SPECIES
 
 #### Status
 ACCEPTED

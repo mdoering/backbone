@@ -1,5 +1,4 @@
-Zythia Fr. GENUS
-=======
+# Zythia Fr. GENUS
 
 #### Status
 ACCEPTED

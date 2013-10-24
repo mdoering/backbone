@@ -1,5 +1,4 @@
-Uromyces ambiens Cooke SPECIES
-=======
+# Uromyces ambiens Cooke SPECIES
 
 #### Status
 ACCEPTED

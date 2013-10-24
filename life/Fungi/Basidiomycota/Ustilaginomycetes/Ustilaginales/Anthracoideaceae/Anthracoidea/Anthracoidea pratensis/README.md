@@ -1,14 +1,13 @@
-Cintractia pratensis Syd., 1924 SPECIES
-=======
+# Anthracoidea pratensis (Syd.) Boidol & Poelt, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22(3/6): 289 (1924)
+Ber. dt. bot. Ges. 36: 23 (1963)
 
 #### Original name
 Cintractia pratensis Syd., 1924

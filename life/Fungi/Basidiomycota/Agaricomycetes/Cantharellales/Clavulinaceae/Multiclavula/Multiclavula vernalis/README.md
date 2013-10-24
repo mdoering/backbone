@@ -1,14 +1,13 @@
-Clavaria vernalis Schwein., 1822 SPECIES
-=======
+# Multiclavula vernalis (Schwein.) R.H. Petersen, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 112 (1822)
+Am. Midl. Nat. 77: 216 (1967)
 
 #### Original name
 Clavaria vernalis Schwein., 1822

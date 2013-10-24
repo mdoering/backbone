@@ -1,5 +1,4 @@
-Gymnopus subterginus (Halling) Halling SPECIES
-=======
+# Gymnopus subterginus (Halling) Halling SPECIES
 
 #### Status
 ACCEPTED

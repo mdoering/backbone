@@ -1,5 +1,4 @@
-Dematium lintaceum (Pers.) Link SPECIES
-=======
+# Dematium lintaceum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

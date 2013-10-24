@@ -1,5 +1,4 @@
-Lecidea erythroleuca (Nyl.) Hue SPECIES
-=======
+# Lecidea erythroleuca (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

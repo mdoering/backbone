@@ -1,5 +1,4 @@
-Catillaria sodalis (Stizenb.) Zahlbr. SPECIES
-=======
+# Catillaria sodalis (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

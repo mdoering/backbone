@@ -1,5 +1,4 @@
-Metadiplodia pustulosa f. celastrina (Ellis & Everh.) Zambett. FORM
-=======
+# Metadiplodia pustulosa (Lév.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 70(3): 280 (1955)
+Bull. Soc. mycol. Fr. 70(3): 279 (1955)
 
 #### Original name
-Diplodia celastrina Ellis & Everh.
+Diplodia pustulosa Lév.
 
 ### Remarks
 null

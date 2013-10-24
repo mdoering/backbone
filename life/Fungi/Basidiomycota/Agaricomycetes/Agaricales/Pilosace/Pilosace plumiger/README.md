@@ -1,5 +1,4 @@
-Pilosace plumiger (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Pilosace plumiger (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monacrosporium ovatum Petch SPECIES
-=======
+# Monacrosporium ovatum Petch SPECIES
 
 #### Status
 ACCEPTED

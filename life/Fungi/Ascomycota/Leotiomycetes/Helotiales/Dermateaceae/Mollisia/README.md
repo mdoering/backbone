@@ -1,17 +1,16 @@
-Aleuriella P. Karst. GENUS
-=======
+# Mollisia (Fr.) P. Karst. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 15, 186 (1871)
+Bidr. Känn. Finl. Nat. Folk 19: 15, 189 (1871)
 
 #### Original name
-Aleuriella P. Karst.
+Peziza E.M. Fries, 1822
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fabraea variolaria (Pat.) Sacc. SPECIES
-=======
+# Fabraea variolaria (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

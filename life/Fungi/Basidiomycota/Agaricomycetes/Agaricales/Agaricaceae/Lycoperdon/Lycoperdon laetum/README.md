@@ -1,5 +1,4 @@
-Lycoperdon laetum Berk. SPECIES
-=======
+# Lycoperdon laetum Berk. SPECIES
 
 #### Status
 ACCEPTED

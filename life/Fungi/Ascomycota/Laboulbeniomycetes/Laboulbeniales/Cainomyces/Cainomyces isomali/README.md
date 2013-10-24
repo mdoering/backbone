@@ -1,5 +1,4 @@
-Cainomyces isomali Thaxt., 1901 SPECIES
-=======
+# Cainomyces isomali Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

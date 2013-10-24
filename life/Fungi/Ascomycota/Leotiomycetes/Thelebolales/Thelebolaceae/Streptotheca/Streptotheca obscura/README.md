@@ -1,5 +1,4 @@
-Streptotheca obscura Seaver SPECIES
-=======
+# Streptotheca obscura Seaver SPECIES
 
 #### Status
 ACCEPTED

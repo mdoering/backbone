@@ -1,5 +1,4 @@
-Puccinia oblata Mains SPECIES
-=======
+# Puccinia oblata Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina subangulosa Terquem, 1876 SPECIES
-=======
+# Spiroloculina subangulosa Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

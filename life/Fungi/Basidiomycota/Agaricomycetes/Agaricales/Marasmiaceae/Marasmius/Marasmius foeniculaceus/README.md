@@ -1,5 +1,4 @@
-Marasmius foeniculaceus Fr. SPECIES
-=======
+# Marasmius foeniculaceus Fr. SPECIES
 
 #### Status
 ACCEPTED

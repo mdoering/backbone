@@ -1,5 +1,4 @@
-Bivallum panamense C.L. Hou & M. Piepenbr., 2009 SPECIES
-=======
+# Bivallum panamense C.L. Hou & M. Piepenbr., 2009 SPECIES
 
 #### Status
 ACCEPTED

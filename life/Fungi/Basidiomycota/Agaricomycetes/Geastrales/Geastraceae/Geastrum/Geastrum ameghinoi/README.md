@@ -1,17 +1,16 @@
-Geaster ameghinoi Speg. SPECIES
-=======
+# Geastrum ameghinoi Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Physis, Buenos Aires 8: 426 (1927)
 
 #### Original name
-Geaster ameghinoi Speg.
+Geastrum ameghinoi Speg.
 
 ### Remarks
 null

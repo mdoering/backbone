@@ -1,5 +1,4 @@
-Cannosphaeropsis tutulosa Cookson & Eisenack SPECIES
-=======
+# Cannosphaeropsis tutulosa Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

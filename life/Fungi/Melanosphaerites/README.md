@@ -1,5 +1,4 @@
-Melanosphaerites Grüss GENUS
-=======
+# Melanosphaerites Grüss GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum sterile (Fr.) Sacc. SPECIES
-=======
+# Stereum sterile (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

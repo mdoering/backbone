@@ -1,5 +1,4 @@
-Hamigera australiensis Stchigel & Guarro SPECIES
-=======
+# Hamigera australiensis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

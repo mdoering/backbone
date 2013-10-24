@@ -1,5 +1,4 @@
-Solenoplea ceracea Viégas SPECIES
-=======
+# Solenoplea ceracea Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcogyne solitaria H. Magn. SPECIES
-=======
+# Sarcogyne solitaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

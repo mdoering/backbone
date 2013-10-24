@@ -1,5 +1,4 @@
-Alectoria ecuadorensis (Zahlbr.) Gyeln. SPECIES
-=======
+# Alectoria ecuadorensis (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

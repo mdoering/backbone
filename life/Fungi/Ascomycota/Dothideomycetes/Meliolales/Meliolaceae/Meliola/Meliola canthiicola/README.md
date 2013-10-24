@@ -1,5 +1,4 @@
-Meliola canthiicola Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Meliola canthiicola Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium sibiricum SPECIES
-=======
+# Calicium sibiricum SPECIES
 
 #### Status
 ACCEPTED

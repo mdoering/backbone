@@ -1,5 +1,4 @@
-Candida arcana S.O. Suh & M. Blackw., 2005 SPECIES
-=======
+# Candida arcana S.O. Suh & M. Blackw., 2005 SPECIES
 
 #### Status
 ACCEPTED

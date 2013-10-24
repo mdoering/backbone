@@ -1,5 +1,4 @@
-Microthyriacites buxi Straus SPECIES
-=======
+# Microthyriacites buxi Straus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola morrowii F. Stevens SPECIES
-=======
+# Meliola morrowii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

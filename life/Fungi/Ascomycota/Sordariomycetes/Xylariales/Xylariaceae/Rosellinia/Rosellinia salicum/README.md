@@ -1,5 +1,4 @@
-Rosellinia salicum Fabre SPECIES
-=======
+# Rosellinia salicum Fabre SPECIES
 
 #### Status
 ACCEPTED

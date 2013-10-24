@@ -1,5 +1,4 @@
-Xyloschistomyces GENUS
-=======
+# Xyloschistomyces GENUS
 
 #### Status
 ACCEPTED

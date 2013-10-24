@@ -1,5 +1,4 @@
-Protobagliettoa kutakiana Servít SPECIES
-=======
+# Protobagliettoa kutakiana Servít SPECIES
 
 #### Status
 ACCEPTED

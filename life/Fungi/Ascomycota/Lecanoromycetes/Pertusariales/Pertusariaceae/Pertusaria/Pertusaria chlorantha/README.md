@@ -1,5 +1,4 @@
-Pertusaria chlorantha Zwackh SPECIES
-=======
+# Pertusaria chlorantha Zwackh SPECIES
 
 #### Status
 ACCEPTED

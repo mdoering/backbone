@@ -1,5 +1,4 @@
-Leptophrys vorax (Cienk.) Zopf SPECIES
-=======
+# Leptophrys vorax (Cienk.) Zopf SPECIES
 
 #### Status
 ACCEPTED

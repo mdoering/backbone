@@ -1,5 +1,4 @@
-Rhodophyllus megalothrix Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus megalothrix Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

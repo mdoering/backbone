@@ -1,5 +1,4 @@
-Aulographum reticulatum W. Phillips & Harkn. SPECIES
-=======
+# Aulographum reticulatum W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

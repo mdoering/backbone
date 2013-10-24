@@ -1,5 +1,4 @@
-Clitocybe ochropurpurea (Berk.) Sacc. SPECIES
-=======
+# Clitocybe ochropurpurea (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

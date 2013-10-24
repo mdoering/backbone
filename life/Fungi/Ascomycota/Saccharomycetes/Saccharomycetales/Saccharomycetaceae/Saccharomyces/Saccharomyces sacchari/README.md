@@ -1,5 +1,4 @@
-Saccharomyces sacchari (Bonord.) Sacc. & Traverso SPECIES
-=======
+# Saccharomyces sacchari (Bonord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

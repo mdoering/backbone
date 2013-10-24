@@ -1,5 +1,4 @@
-Tilletia apludae Thirum. & Mishra SPECIES
-=======
+# Tilletia apludae Thirum. & Mishra SPECIES
 
 #### Status
 ACCEPTED

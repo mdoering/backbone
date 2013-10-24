@@ -1,5 +1,4 @@
-Sphacelotheca suddiana Spooner SPECIES
-=======
+# Sphacelotheca suddiana Spooner SPECIES
 
 #### Status
 ACCEPTED

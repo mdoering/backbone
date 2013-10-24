@@ -1,5 +1,4 @@
-Mollisia prinicola Ellis & Everh. SPECIES
-=======
+# Mollisia prinicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

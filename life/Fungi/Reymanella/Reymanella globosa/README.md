@@ -1,5 +1,4 @@
-Reymanella globosa Marcink. SPECIES
-=======
+# Reymanella globosa Marcink. SPECIES
 
 #### Status
 ACCEPTED

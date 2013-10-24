@@ -1,5 +1,4 @@
-Pseudocercospora psoraleae H.S.G. Rao, A.S. Moses & S. Narayan SPECIES
-=======
+# Pseudocercospora psoraleae H.S.G. Rao, A.S. Moses & S. Narayan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea shaanxiensis L. Guo SPECIES
-=======
+# Anthracoidea shaanxiensis L. Guo SPECIES
 
 #### Status
 ACCEPTED

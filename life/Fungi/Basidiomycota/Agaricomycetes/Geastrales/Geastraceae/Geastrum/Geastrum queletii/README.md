@@ -1,8 +1,7 @@
-Geaster queletii Hazsl. SPECIES
-=======
+# Geastrum queletii Hazsl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster queletii Hazsl.
+Geastrum queletii Hazsl.
 
 ### Remarks
 null

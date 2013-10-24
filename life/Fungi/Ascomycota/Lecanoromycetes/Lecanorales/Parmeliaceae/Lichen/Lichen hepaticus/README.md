@@ -1,5 +1,4 @@
-Lichen hepaticus (Ach.) Lam. SPECIES
-=======
+# Lichen hepaticus (Ach.) Lam. SPECIES
 
 #### Status
 ACCEPTED

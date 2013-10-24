@@ -1,5 +1,4 @@
-Amicodisca virella (P. Karst.) Huhtinen SPECIES
-=======
+# Amicodisca virella (P. Karst.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

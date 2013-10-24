@@ -1,5 +1,4 @@
-Cyrtolophosis bursaria SPECIES
-=======
+# Cyrtolophosis bursaria SPECIES
 
 #### Status
 ACCEPTED

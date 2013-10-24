@@ -1,5 +1,4 @@
-Trichosphaeria proxima Penz. & Sacc. SPECIES
-=======
+# Trichosphaeria proxima Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

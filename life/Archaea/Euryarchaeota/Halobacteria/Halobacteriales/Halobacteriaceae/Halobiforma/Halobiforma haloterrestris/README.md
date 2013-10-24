@@ -1,5 +1,4 @@
-Halobiforma haloterrestris Hezayen et al., 2002 SPECIES
-=======
+# Halobiforma haloterrestris Hezayen et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus flavidus Berk., 1854 SPECIES
-=======
+# Inonotus flavidus (Berk.) Ryvarden, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. 6: 161 (1854)
+in Hjortstam & Ryvarden, Mycotaxon 20(1): 145 (1984)
 
 #### Original name
 Polyporus flavidus Berk., 1854

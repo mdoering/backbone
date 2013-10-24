@@ -1,5 +1,4 @@
-Puccinia spegazziniana De Toni SPECIES
-=======
+# Puccinia spegazziniana De Toni SPECIES
 
 #### Status
 ACCEPTED

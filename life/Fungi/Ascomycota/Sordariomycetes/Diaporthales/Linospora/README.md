@@ -1,5 +1,4 @@
-Linospora Fuckel, 1870 GENUS
-=======
+# Linospora Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

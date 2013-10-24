@@ -1,5 +1,4 @@
-Vermilacinia GENUS
-=======
+# Vermilacinia GENUS
 
 #### Status
 ACCEPTED

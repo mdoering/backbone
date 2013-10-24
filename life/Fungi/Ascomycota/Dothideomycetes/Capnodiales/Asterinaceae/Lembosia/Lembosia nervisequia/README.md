@@ -1,5 +1,4 @@
-Lembosia nervisequia Syd. SPECIES
-=======
+# Lembosia nervisequia Syd. SPECIES
 
 #### Status
 ACCEPTED

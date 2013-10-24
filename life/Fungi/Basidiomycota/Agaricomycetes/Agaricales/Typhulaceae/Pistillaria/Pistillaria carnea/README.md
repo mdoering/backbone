@@ -1,5 +1,4 @@
-Pistillaria carnea Preuss SPECIES
-=======
+# Pistillaria carnea Preuss SPECIES
 
 #### Status
 ACCEPTED

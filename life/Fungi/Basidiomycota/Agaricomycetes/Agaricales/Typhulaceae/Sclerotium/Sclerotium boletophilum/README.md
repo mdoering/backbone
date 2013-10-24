@@ -1,5 +1,4 @@
-Sclerotium boletophilum Corda SPECIES
-=======
+# Sclerotium boletophilum Corda SPECIES
 
 #### Status
 ACCEPTED

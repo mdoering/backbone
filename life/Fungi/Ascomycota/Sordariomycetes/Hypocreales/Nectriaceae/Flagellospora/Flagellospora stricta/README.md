@@ -1,5 +1,4 @@
-Flagellospora stricta Sv. Nilsson SPECIES
-=======
+# Flagellospora stricta Sv. Nilsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoicomyces javanus Thaxt. SPECIES
-=======
+# Monoicomyces javanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

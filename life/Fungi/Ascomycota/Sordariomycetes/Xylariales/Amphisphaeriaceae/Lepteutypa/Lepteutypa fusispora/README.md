@@ -1,5 +1,4 @@
-Lepteutypa fusispora Petr. SPECIES
-=======
+# Lepteutypa fusispora Petr. SPECIES
 
 #### Status
 ACCEPTED

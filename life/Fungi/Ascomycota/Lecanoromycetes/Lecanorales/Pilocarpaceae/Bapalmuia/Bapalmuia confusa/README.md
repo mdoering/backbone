@@ -1,5 +1,4 @@
-Bapalmuia confusa Kalb & Lücking SPECIES
-=======
+# Bapalmuia confusa Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

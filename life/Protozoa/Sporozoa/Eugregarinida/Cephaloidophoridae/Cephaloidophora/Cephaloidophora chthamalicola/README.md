@@ -1,5 +1,4 @@
-Cephaloidophora chthamalicola Bogolepova, 1953 SPECIES
-=======
+# Cephaloidophora chthamalicola Bogolepova, 1953 SPECIES
 
 #### Status
 ACCEPTED

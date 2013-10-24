@@ -1,5 +1,4 @@
-Sphaerella sicula Penz. SPECIES
-=======
+# Sphaerella sicula Penz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria corylina Ellis & Holw. SPECIES
-=======
+# Metasphaeria corylina Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

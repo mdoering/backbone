@@ -1,5 +1,4 @@
-Lactarius urens Verbeken SPECIES
-=======
+# Lactarius urens Verbeken SPECIES
 
 #### Status
 ACCEPTED

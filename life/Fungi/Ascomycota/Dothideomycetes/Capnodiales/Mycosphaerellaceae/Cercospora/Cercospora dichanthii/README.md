@@ -1,17 +1,16 @@
-Cercospora dicanthii S.A. Khan & M. Kamal SPECIES
-=======
+# Cercospora dichanthii S.A. Khan & M. Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 39(2): 199 (1969)
 
 #### Original name
-Cercospora dicanthii S.A. Khan & M. Kamal
+Cercospora dichanthii S.A. Khan & M. Kamal
 
 ### Remarks
 null

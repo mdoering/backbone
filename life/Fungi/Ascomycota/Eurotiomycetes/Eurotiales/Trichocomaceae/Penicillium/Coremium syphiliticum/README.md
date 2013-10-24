@@ -1,5 +1,4 @@
-Coremium syphiliticum Hallier SPECIES
-=======
+# Coremium syphiliticum Hallier SPECIES
 
 #### Status
 ACCEPTED

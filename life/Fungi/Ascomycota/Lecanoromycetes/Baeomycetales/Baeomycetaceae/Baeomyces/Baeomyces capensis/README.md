@@ -1,5 +1,4 @@
-Baeomyces capensis Taylor SPECIES
-=======
+# Baeomyces capensis Taylor SPECIES
 
 #### Status
 ACCEPTED

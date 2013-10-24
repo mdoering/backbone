@@ -1,5 +1,4 @@
-Kystopus Jankowski, 1967 GENUS
-=======
+# Kystopus Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

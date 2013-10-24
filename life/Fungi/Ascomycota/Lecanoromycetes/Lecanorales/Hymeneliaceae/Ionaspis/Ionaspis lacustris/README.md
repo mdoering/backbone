@@ -1,17 +1,16 @@
-Aspicilia lacustris f. concolor (Anzi) Oxner FORM
-=======
+# Ionaspis lacustris (With.) Lutzoni SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kopaczevskaja et al. , Nov. sist. Niz. Rast. , 1964 9: 289 (1972)
+in Lutzoni & Brodo, Syst. Bot. 20(3): 253 (1995)
 
 #### Original name
-Aspicilia melanophaea f. concolor Anzi
+Lichen lacustris With.
 
 ### Remarks
 null

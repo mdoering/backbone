@@ -1,5 +1,4 @@
-Anaptychia hypocrocodes SPECIES
-=======
+# Anaptychia hypocrocodes SPECIES
 
 #### Status
 ACCEPTED

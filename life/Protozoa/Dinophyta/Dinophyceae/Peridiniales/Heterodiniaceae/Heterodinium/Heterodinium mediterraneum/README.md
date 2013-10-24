@@ -1,5 +1,4 @@
-Heterodinium mediterraneum Pavillard SPECIES
-=======
+# Heterodinium mediterraneum Pavillard SPECIES
 
 #### Status
 ACCEPTED

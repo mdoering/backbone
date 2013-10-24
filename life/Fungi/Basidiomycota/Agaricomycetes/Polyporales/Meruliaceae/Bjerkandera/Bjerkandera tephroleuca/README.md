@@ -1,5 +1,4 @@
-Bjerkandera tephroleuca (Fr.) P. Karst. SPECIES
-=======
+# Bjerkandera tephroleuca (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

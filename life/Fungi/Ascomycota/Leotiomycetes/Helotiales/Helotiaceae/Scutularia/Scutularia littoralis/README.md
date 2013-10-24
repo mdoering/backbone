@@ -1,5 +1,4 @@
-Scutularia littoralis (W. Phillips & Plowr.) Sacc., 1889 SPECIES
-=======
+# Scutularia littoralis (W. Phillips & Plowr.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomonas abbreviata R. W. Butcher SPECIES
-=======
+# Cryptomonas abbreviata R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

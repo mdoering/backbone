@@ -1,5 +1,4 @@
-Pseudocercospora pipturi (F. Stevens & Glick) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora pipturi (F. Stevens & Glick) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

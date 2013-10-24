@@ -1,5 +1,4 @@
-Cladonia minarum Ahti SPECIES
-=======
+# Cladonia minarum Ahti SPECIES
 
 #### Status
 ACCEPTED

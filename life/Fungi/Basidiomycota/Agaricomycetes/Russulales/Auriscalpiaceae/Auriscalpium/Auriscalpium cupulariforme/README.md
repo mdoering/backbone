@@ -1,5 +1,4 @@
-Auriscalpium cupulariforme Kuntze SPECIES
-=======
+# Auriscalpium cupulariforme Kuntze SPECIES
 
 #### Status
 ACCEPTED

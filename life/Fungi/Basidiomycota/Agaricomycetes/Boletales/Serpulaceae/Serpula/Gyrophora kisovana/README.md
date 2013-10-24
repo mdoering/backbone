@@ -1,5 +1,4 @@
-Gyrophora kisovana Zahlbr. ex Asahina SPECIES
-=======
+# Gyrophora kisovana Zahlbr. ex Asahina SPECIES
 
 #### Status
 ACCEPTED

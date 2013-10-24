@@ -1,5 +1,4 @@
-Sarcogyne bicolor H. Magn. SPECIES
-=======
+# Sarcogyne bicolor H. Magn. SPECIES
 
 #### Status
 ACCEPTED

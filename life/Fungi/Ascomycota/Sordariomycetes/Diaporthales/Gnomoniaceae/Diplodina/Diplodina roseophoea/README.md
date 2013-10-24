@@ -1,5 +1,4 @@
-Diplodina roseophoea Höhn. SPECIES
-=======
+# Diplodina roseophoea Höhn. SPECIES
 
 #### Status
 ACCEPTED

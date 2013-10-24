@@ -1,5 +1,4 @@
-Trochodiscus Haeckel, 1887 GENUS
-=======
+# Trochodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septosporium equiseti Peck SPECIES
-=======
+# Septosporium equiseti Peck SPECIES
 
 #### Status
 ACCEPTED

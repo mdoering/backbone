@@ -1,5 +1,4 @@
-Astrosporina mixtiliformis (Singer) Raithelh. SPECIES
-=======
+# Astrosporina mixtiliformis (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

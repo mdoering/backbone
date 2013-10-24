@@ -1,5 +1,4 @@
-Cladonia ceratophylla (Sw.) Spreng. SPECIES
-=======
+# Cladonia ceratophylla (Sw.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

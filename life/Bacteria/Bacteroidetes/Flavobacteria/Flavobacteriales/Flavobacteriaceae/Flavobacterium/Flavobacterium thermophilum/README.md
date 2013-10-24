@@ -1,5 +1,4 @@
-Flavobacterium thermophilum Loginova & Egorova, 1982 SPECIES
-=======
+# Flavobacterium thermophilum Loginova & Egorova, 1982 SPECIES
 
 #### Status
 ACCEPTED

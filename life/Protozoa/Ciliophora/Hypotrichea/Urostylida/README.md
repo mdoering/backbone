@@ -1,5 +1,4 @@
-Urostylida Jankowksi, 1979 ORDER
-=======
+# Urostylida Jankowksi, 1979 ORDER
 
 #### Status
 ACCEPTED

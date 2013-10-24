@@ -1,5 +1,4 @@
-Deflandrea korojonensis Cookson & Eisenack SPECIES
-=======
+# Deflandrea korojonensis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

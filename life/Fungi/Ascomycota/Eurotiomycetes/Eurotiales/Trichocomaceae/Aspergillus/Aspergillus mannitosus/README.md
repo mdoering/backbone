@@ -1,5 +1,4 @@
-Aspergillus mannitosus Y. Otani SPECIES
-=======
+# Aspergillus mannitosus Y. Otani SPECIES
 
 #### Status
 ACCEPTED

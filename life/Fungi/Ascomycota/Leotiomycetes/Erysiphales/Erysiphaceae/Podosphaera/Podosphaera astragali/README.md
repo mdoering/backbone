@@ -1,5 +1,4 @@
-Podosphaera astragali (L. Junell) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera astragali (L. Junell) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

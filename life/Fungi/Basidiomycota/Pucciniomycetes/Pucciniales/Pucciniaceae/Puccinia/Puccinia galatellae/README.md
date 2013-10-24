@@ -1,5 +1,4 @@
-Puccinia galatellae P. Syd. & Syd. SPECIES
-=======
+# Puccinia galatellae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

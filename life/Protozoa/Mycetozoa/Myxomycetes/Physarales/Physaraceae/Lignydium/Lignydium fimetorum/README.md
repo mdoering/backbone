@@ -1,5 +1,4 @@
-Lignydium fimetorum (Schumach.) Kuntze SPECIES
-=======
+# Lignydium fimetorum (Schumach.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

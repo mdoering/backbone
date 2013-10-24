@@ -1,5 +1,4 @@
-Colomia Cuchman & Bermudez, 1948 GENUS
-=======
+# Colomia Cuchman & Bermudez, 1948 GENUS
 
 #### Status
 ACCEPTED

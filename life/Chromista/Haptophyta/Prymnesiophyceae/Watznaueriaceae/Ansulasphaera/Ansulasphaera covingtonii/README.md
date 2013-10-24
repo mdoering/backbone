@@ -1,5 +1,4 @@
-Ansulasphaera covingtonii SPECIES
-=======
+# Ansulasphaera covingtonii SPECIES
 
 #### Status
 ACCEPTED

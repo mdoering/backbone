@@ -1,5 +1,4 @@
-Stephanodiscus gravitoides V. V. Mukhina SPECIES
-=======
+# Stephanodiscus gravitoides V. V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

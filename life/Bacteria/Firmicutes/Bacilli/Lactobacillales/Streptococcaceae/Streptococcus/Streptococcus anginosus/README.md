@@ -1,5 +1,4 @@
-Streptococcus anginosus (Andrewes and Horder, 1906) Smith and Sherman, 1938 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus anginosus (Andrewes and Horder, 1906) Smith and Sherman, 1938 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

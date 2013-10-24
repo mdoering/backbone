@@ -1,5 +1,4 @@
-Hygrocybe sanguineocrenulata A.M. Young SPECIES
-=======
+# Hygrocybe sanguineocrenulata A.M. Young SPECIES
 
 #### Status
 ACCEPTED

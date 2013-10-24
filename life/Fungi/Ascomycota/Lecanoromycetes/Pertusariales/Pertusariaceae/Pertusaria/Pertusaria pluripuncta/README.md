@@ -1,5 +1,4 @@
-Pertusaria pluripuncta Nyl. SPECIES
-=======
+# Pertusaria pluripuncta Nyl. SPECIES
 
 #### Status
 ACCEPTED

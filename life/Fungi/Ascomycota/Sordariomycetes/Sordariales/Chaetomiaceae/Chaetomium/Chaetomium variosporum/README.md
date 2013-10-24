@@ -1,5 +1,4 @@
-Chaetomium variosporum Udagawa & Y. Horie, 1973 SPECIES
-=======
+# Chaetomium variosporum Udagawa & Y. Horie, 1973 SPECIES
 
 #### Status
 ACCEPTED

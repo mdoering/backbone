@@ -1,5 +1,4 @@
-Spadonia E.M. Fries, 1829 GENUS
-=======
+# Spadonia E.M. Fries, 1829 GENUS
 
 #### Status
 ACCEPTED

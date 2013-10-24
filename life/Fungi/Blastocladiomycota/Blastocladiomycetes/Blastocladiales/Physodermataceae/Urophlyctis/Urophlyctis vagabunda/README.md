@@ -1,5 +1,4 @@
-Urophlyctis vagabunda (Speg.) Speg. SPECIES
-=======
+# Urophlyctis vagabunda (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

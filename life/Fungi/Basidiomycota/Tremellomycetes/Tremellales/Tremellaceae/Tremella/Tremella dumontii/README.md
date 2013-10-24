@@ -1,5 +1,4 @@
-Tremella dumontii Lowy SPECIES
-=======
+# Tremella dumontii Lowy SPECIES
 
 #### Status
 ACCEPTED

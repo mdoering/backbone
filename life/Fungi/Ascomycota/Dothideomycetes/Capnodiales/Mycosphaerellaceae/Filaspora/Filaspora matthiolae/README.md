@@ -1,5 +1,4 @@
-Filaspora matthiolae (Brunaud & Malbr.) Kuntze SPECIES
-=======
+# Filaspora matthiolae (Brunaud & Malbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

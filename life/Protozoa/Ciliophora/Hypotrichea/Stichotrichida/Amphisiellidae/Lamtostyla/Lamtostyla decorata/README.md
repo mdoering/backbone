@@ -1,5 +1,4 @@
-Lamtostyla decorata Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Lamtostyla decorata Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis pallidula (Cooke & Peck) Sacc. SPECIES
-=======
+# Geopyxis pallidula (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

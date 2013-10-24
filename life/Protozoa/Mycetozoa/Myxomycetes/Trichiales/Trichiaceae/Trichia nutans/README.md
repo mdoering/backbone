@@ -1,5 +1,4 @@
-Trichia nutans Trentep. SPECIES
-=======
+# Trichia nutans Trentep. SPECIES
 
 #### Status
 ACCEPTED

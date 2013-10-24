@@ -1,5 +1,4 @@
-Baltisphaeridium crassituberculatum Eisenack, 1974 SPECIES
-=======
+# Baltisphaeridium crassituberculatum Eisenack, 1974 SPECIES
 
 #### Status
 ACCEPTED

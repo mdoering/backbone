@@ -1,5 +1,4 @@
-Leptosphaeria antherici Hollós SPECIES
-=======
+# Leptosphaeria antherici Hollós SPECIES
 
 #### Status
 ACCEPTED

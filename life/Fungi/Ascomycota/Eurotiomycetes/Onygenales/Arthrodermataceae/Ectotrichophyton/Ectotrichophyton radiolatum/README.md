@@ -1,5 +1,4 @@
-Ectotrichophyton radiolatum (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton radiolatum (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

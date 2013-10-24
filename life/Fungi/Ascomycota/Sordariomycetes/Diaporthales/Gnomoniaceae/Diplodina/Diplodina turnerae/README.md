@@ -1,5 +1,4 @@
-Diplodina turnerae Tassi SPECIES
-=======
+# Diplodina turnerae Tassi SPECIES
 
 #### Status
 ACCEPTED

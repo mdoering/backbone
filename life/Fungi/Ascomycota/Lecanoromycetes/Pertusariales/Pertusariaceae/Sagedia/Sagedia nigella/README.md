@@ -1,5 +1,4 @@
-Sagedia nigella var. nigella VARIETY
-=======
+# Sagedia nigella (Kremp.) Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sagedia nigella var. nigella
+Polyblastia nigella Kremp.
 
 ### Remarks
 null

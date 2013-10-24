@@ -1,17 +1,16 @@
-Adella Petr. GENUS
-=======
+# Wojnowicia Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 34: 228 (1936)
+in Saccardo & Sydow, Syll. fung. (Abellini) 14: 960 (1899)
 
 #### Original name
-Adella Petr.
+Wojnowicia Sacc.
 
 ### Remarks
 null

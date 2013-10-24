@@ -1,5 +1,4 @@
-Sepultaria speluncarum (Velen.) Svrcek SPECIES
-=======
+# Sepultaria speluncarum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

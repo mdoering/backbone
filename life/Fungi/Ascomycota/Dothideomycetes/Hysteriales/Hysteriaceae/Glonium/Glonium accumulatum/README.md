@@ -1,5 +1,4 @@
-Glonium accumulatum Schwein. SPECIES
-=======
+# Glonium accumulatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

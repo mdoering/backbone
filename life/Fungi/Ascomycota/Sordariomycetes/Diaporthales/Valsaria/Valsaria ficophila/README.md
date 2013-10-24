@@ -1,5 +1,4 @@
-Valsaria ficophila Schulzer SPECIES
-=======
+# Valsaria ficophila Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoleiosphaeridium prolixum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium prolixum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

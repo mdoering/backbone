@@ -1,14 +1,13 @@
-Ramaria insigne (Pat.) R.H. Petersen SPECIES
-=======
+# Ramaria insignis (Pat.) R.H. Petersen, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 79: 77 (1981)
 
 #### Original name
 Lachnocladium insigne Pat., 1889

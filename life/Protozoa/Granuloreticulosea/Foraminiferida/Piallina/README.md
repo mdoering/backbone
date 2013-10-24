@@ -1,5 +1,4 @@
-Piallina Rettori & Zaninetti in Rettori, Zaninetti, Martini & Vachard, 1993 GENUS
-=======
+# Piallina Rettori & Zaninetti in Rettori, Zaninetti, Martini & Vachard, 1993 GENUS
 
 #### Status
 ACCEPTED

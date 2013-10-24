@@ -1,5 +1,4 @@
-Uromyces thelymitrae McAlpine, 1906 SPECIES
-=======
+# Uromyces thelymitrae McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

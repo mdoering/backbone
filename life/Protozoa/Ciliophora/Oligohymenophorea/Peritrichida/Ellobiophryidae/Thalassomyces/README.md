@@ -1,5 +1,4 @@
-Thalassomyces Niezab. GENUS
-=======
+# Thalassomyces Niezab. GENUS
 
 #### Status
 ACCEPTED

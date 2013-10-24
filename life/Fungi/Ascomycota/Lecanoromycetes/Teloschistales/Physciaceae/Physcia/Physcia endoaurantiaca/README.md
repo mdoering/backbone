@@ -1,5 +1,4 @@
-Physcia endoaurantiaca Barkh. SPECIES
-=======
+# Physcia endoaurantiaca Barkh. SPECIES
 
 #### Status
 ACCEPTED

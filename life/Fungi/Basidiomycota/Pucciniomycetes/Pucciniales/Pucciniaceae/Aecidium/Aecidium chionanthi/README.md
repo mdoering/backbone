@@ -1,5 +1,4 @@
-Aecidium chionanthi Berk. & Broome SPECIES
-=======
+# Aecidium chionanthi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

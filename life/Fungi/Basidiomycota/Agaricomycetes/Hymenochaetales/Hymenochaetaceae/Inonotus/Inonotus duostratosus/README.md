@@ -1,17 +1,16 @@
-Coltricia duostratosa var. duostratosa VARIETY
-=======
+# Inonotus duostratosus (Lloyd) P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Khumbu Himal 6: 381 (1977)
+Mycotaxon 31(1): 14 (1988)
 
 #### Original name
-Coltricia duostratosa var. duostratosa
+Polyporus duostratosus Lloyd, 1924
 
 ### Remarks
 null

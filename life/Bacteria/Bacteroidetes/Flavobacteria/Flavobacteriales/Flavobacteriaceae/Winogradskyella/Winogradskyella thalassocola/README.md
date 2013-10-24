@@ -1,5 +1,4 @@
-Winogradskyella thalassocola Nedashkovskaya et al., 2005 SPECIES
-=======
+# Winogradskyella thalassocola Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

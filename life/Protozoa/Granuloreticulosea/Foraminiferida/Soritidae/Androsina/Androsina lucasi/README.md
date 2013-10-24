@@ -1,5 +1,4 @@
-Androsina lucasi Levy, 1977 SPECIES
-=======
+# Androsina lucasi Levy, 1977 SPECIES
 
 #### Status
 ACCEPTED

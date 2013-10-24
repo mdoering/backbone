@@ -1,5 +1,4 @@
-Phaeostigme isazanum Toro SPECIES
-=======
+# Phaeostigme isazanum Toro SPECIES
 
 #### Status
 ACCEPTED

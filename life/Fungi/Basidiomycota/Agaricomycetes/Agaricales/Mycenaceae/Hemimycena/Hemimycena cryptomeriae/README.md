@@ -1,5 +1,4 @@
-Hemimycena cryptomeriae Noordel. & Antonín SPECIES
-=======
+# Hemimycena cryptomeriae Noordel. & Antonín SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria megarrhizae Ellis & Everh. SPECIES
-=======
+# Septoria megarrhizae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

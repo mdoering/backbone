@@ -1,5 +1,4 @@
-Clitocybe benekei H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe benekei H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

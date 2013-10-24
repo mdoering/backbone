@@ -1,5 +1,4 @@
-Lecidea poeciloderma (Darb.) Hue SPECIES
-=======
+# Lecidea poeciloderma (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

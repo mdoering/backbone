@@ -1,5 +1,4 @@
-Dicaeoma pitcairniae (Lagerh.) Arthur SPECIES
-=======
+# Dicaeoma pitcairniae (Lagerh.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grandinia bresadolae P. Karst. SPECIES
-=======
+# Grandinia bresadolae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cuphophyllus canescens (A.H. Sm. & Hesler) Bon, 1990 SPECIES
-=======
+# Hygrocybe canescens (A.H. Sm. & Hesler) P.D. Orton, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 20(no. 78): 40 (1990)
+Notes R. bot. Gdn Edinb. 44(3): 489 (1987)
 
 #### Original name
 Hygrophorus canescens A.H. Sm. & Hesler, 1942

@@ -1,5 +1,4 @@
-Arthonia alborufella Nyl. SPECIES
-=======
+# Arthonia alborufella Nyl. SPECIES
 
 #### Status
 ACCEPTED

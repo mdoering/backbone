@@ -1,5 +1,4 @@
-Dendrodochium berolinense Wollenw. SPECIES
-=======
+# Dendrodochium berolinense Wollenw. SPECIES
 
 #### Status
 ACCEPTED

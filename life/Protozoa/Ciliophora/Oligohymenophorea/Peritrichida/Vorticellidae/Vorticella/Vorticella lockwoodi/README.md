@@ -1,5 +1,4 @@
-Vorticella lockwoodi Stokes, 1884 SPECIES
-=======
+# Vorticella lockwoodi Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea lyperiza Stirt. SPECIES
-=======
+# Lecidea lyperiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

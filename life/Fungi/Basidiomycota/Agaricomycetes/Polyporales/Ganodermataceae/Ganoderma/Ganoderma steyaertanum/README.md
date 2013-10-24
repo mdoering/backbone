@@ -1,5 +1,4 @@
-Ganoderma steyaertanum B.J. Sm. & Sivasith. SPECIES
-=======
+# Ganoderma steyaertanum B.J. Sm. & Sivasith. SPECIES
 
 #### Status
 ACCEPTED

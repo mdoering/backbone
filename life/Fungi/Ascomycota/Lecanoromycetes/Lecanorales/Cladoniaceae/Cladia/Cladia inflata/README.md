@@ -1,14 +1,13 @@
-Cladonia aggregata f. inflata F. Wilson FORM
-=======
+# Cladia inflata (F. Wilson) D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 223 (1893)
+Nova Hedwigia 28: 476 (1977)
 
 #### Original name
 Cladonia aggregata f. inflata F. Wilson

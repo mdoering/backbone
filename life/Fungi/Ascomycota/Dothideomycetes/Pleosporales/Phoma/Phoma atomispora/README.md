@@ -1,5 +1,4 @@
-Phoma atomispora var. atomispora VARIETY
-=======
+# Phoma atomispora Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma atomispora var. atomispora
+Phoma atomispora Cooke
 
 ### Remarks
 null

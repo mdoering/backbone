@@ -1,5 +1,4 @@
-Septoria gallarum Ellis & Everh. SPECIES
-=======
+# Septoria gallarum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orthosphaeridium Eisenack, 1968 GENUS
-=======
+# Orthosphaeridium Eisenack, 1968 GENUS
 
 #### Status
 ACCEPTED

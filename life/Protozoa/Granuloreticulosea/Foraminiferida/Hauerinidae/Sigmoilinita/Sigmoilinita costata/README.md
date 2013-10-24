@@ -1,8 +1,7 @@
-Nummoloculina contraria (d'Orbigny, 1846) SPECIES
-=======
+# Sigmoilinita costata (Schlumberger, 1893) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

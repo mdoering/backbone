@@ -1,5 +1,4 @@
-Didymella pilifera Fautrey & Lambotte SPECIES
-=======
+# Didymella pilifera Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia teucriicola Katajev SPECIES
-=======
+# Puccinia teucriicola Katajev SPECIES
 
 #### Status
 ACCEPTED

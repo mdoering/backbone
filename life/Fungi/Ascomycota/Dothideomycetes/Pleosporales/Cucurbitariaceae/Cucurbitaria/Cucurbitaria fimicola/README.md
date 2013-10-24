@@ -1,5 +1,4 @@
-Cucurbitaria fimicola (Fuckel) Kuntze SPECIES
-=======
+# Cucurbitaria fimicola (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

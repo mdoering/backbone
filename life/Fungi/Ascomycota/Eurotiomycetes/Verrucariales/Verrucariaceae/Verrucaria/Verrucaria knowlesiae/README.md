@@ -1,5 +1,4 @@
-Verrucaria knowlesiae P. M. McCarthy SPECIES
-=======
+# Verrucaria knowlesiae P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

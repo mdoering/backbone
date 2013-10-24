@@ -1,5 +1,4 @@
-Leptosphaeria petiolicola Sacc. SPECIES
-=======
+# Leptosphaeria petiolicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

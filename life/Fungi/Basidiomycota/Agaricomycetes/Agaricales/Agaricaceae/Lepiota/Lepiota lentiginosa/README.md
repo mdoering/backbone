@@ -1,5 +1,4 @@
-Lepiota lentiginosa Pegler SPECIES
-=======
+# Lepiota lentiginosa Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterococcus ratti Teixeira et al., 2001 SPECIES
-=======
+# Enterococcus ratti Teixeira et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

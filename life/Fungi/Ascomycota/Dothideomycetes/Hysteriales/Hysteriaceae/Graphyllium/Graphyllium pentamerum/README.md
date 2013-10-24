@@ -1,14 +1,13 @@
-Pleospora pentamera P. Karst., 1872 SPECIES
-=======
+# Graphyllium pentamerum (P. Karst.) M.E. Barr, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 62: 42 (1990)
 
 #### Original name
 Pleospora pentamera P. Karst., 1872

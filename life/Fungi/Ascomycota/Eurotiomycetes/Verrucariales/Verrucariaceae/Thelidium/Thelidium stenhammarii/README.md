@@ -1,8 +1,7 @@
-Thelidium stenhammari Hellb. SPECIES
-=======
+# Thelidium stenhammarii Hellb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium stenhammari Hellb.
+Thelidium stenhammarii Hellb.
 
 ### Remarks
 null

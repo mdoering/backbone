@@ -1,5 +1,4 @@
-Micrhystridium flexispinosum Downie, 1982 SPECIES
-=======
+# Micrhystridium flexispinosum Downie, 1982 SPECIES
 
 #### Status
 ACCEPTED

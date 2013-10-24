@@ -1,5 +1,4 @@
-Australothrix steineri Foissner, 1995 SPECIES
-=======
+# Australothrix steineri Foissner, 1995 SPECIES
 
 #### Status
 ACCEPTED

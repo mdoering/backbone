@@ -1,5 +1,4 @@
-Planorbulina mabahethi SPECIES
-=======
+# Planorbulina mabahethi SPECIES
 
 #### Status
 ACCEPTED

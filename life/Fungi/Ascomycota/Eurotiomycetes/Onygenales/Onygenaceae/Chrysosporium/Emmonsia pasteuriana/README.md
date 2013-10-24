@@ -1,5 +1,4 @@
-Emmonsia pasteuriana Drouhet, E. Guého & Gori SPECIES
-=======
+# Emmonsia pasteuriana Drouhet, E. Guého & Gori SPECIES
 
 #### Status
 ACCEPTED

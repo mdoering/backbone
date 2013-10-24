@@ -1,5 +1,4 @@
-Dictyosporites complex Cookson & Dettmann SPECIES
-=======
+# Dictyosporites complex Cookson & Dettmann SPECIES
 
 #### Status
 ACCEPTED

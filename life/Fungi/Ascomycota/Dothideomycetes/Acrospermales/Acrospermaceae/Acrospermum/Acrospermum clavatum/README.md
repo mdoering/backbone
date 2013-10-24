@@ -1,5 +1,4 @@
-Acrospermum clavatum Pers. SPECIES
-=======
+# Acrospermum clavatum Pers. SPECIES
 
 #### Status
 ACCEPTED

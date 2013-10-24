@@ -1,5 +1,4 @@
-Dibaeis holstii (Müll. Arg.) Kalb & Gierl SPECIES
-=======
+# Dibaeis holstii (Müll. Arg.) Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

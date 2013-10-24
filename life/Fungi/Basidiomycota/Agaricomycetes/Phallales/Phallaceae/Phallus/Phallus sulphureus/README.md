@@ -1,5 +1,4 @@
-Phallus sulphureus Lohwag SPECIES
-=======
+# Phallus sulphureus Lohwag SPECIES
 
 #### Status
 ACCEPTED

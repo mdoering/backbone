@@ -1,5 +1,4 @@
-Penicillium pimiteouiense S.W. Peterson, 1999 SPECIES
-=======
+# Penicillium pimiteouiense S.W. Peterson, 1999 SPECIES
 
 #### Status
 ACCEPTED

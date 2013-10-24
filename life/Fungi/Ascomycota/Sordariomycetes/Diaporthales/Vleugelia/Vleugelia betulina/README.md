@@ -1,14 +1,13 @@
-Sillia betulina Bubák & Vleugel, 1911 SPECIES
-=======
+# Vleugelia betulina (Bubák & Vleugel) J. Reid & C. Booth, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 47: 1057 (1969)
 
 #### Original name
 Sillia betulina Bubák & Vleugel, 1911

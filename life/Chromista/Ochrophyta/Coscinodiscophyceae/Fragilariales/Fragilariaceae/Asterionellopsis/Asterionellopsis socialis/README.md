@@ -1,8 +1,7 @@
-Asterionella socialis J. Lewin & R.E. Norris SPECIES
-=======
+# Asterionellopsis socialis (J. Lewin & R. E. Norris) R. M. Crawford & C. Gardner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Sporodictyon aurantiacum (Eschw. ex Mart.) Trevis. SPECIES
-=======
+# Anthracothecium aurantiacum (Eschw. ex Mart.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 67: 664 (1884)
 
 #### Original name
 Verrucaria aurantiaca (Lightf.) Hoffm.

@@ -1,5 +1,4 @@
-Amphidinium vigrense Woloszynska SPECIES
-=======
+# Amphidinium vigrense Woloszynska SPECIES
 
 #### Status
 ACCEPTED

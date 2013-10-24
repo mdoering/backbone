@@ -1,5 +1,4 @@
-Pseudovorticella bromelicola Foissner, Blake, Wolf, Breiner & Stoeck, 2009 SPECIES
-=======
+# Pseudovorticella bromelicola Foissner, Blake, Wolf, Breiner & Stoeck, 2009 SPECIES
 
 #### Status
 ACCEPTED

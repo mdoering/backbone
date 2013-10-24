@@ -1,5 +1,4 @@
-Polyblastia pernigrata (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastia pernigrata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

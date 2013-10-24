@@ -1,5 +1,4 @@
-Gyrodinium intortum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium intortum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

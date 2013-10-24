@@ -1,5 +1,4 @@
-Corynespora viticola N. Sharma, S. Chaudhary & Kamal SPECIES
-=======
+# Corynespora viticola N. Sharma, S. Chaudhary & Kamal SPECIES
 
 #### Status
 ACCEPTED

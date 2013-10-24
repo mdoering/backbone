@@ -1,5 +1,4 @@
-Boletus rubritubifer Kauffman SPECIES
-=======
+# Boletus rubritubifer Kauffman SPECIES
 
 #### Status
 ACCEPTED

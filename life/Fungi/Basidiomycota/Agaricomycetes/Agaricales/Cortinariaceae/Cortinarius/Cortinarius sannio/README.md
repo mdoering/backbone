@@ -1,5 +1,4 @@
-Cortinarius sannio M.M. Moser SPECIES
-=======
+# Cortinarius sannio M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

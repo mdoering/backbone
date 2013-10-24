@@ -1,5 +1,4 @@
-Phaeographina endofusca M. Nakan. SPECIES
-=======
+# Phaeographina endofusca M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

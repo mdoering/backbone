@@ -1,5 +1,4 @@
-Coscinodiscus antarcticus F.S.Castracane degli Antelminelli SPECIES
-=======
+# Coscinodiscus antarcticus F.S.Castracane degli Antelminelli SPECIES
 
 #### Status
 ACCEPTED

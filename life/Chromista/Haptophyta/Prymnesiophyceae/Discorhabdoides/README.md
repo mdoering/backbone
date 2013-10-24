@@ -1,5 +1,4 @@
-Discorhabdoides B. Lambert, 1987 GENUS
-=======
+# Discorhabdoides B. Lambert, 1987 GENUS
 
 #### Status
 ACCEPTED

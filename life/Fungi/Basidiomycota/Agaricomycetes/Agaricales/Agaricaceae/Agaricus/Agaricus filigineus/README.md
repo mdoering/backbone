@@ -1,5 +1,4 @@
-Agaricus filigineus Fr. SPECIES
-=======
+# Agaricus filigineus Fr. SPECIES
 
 #### Status
 ACCEPTED

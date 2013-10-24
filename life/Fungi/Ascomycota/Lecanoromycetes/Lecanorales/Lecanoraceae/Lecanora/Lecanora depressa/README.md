@@ -1,5 +1,4 @@
-Lecanora depressa Fée SPECIES
-=======
+# Lecanora depressa Fée SPECIES
 
 #### Status
 ACCEPTED

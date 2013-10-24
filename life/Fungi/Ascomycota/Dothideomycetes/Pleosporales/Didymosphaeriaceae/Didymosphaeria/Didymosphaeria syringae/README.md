@@ -1,14 +1,13 @@
-Microthelia syringae (Fabre) Kuntze, 1898 SPECIES
-=======
+# Didymosphaeria syringae Fabre, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 498 (1898)
+Annls Sci. Nat. , Bot. , sér. 6 9: 84 (1879)
 
 #### Original name
 Didymosphaeria syringae Fabre, 1879

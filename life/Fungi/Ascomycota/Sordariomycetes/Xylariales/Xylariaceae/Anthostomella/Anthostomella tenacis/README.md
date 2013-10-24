@@ -1,14 +1,13 @@
-Sphaeria tenacis Cooke, 1879 SPECIES
-=======
+# Anthostomella tenacis (Cooke) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 46): 67 (1879)
+Syll. fung. (Abellini) 1: 281 (1882)
 
 #### Original name
 Sphaeria tenacis Cooke, 1879

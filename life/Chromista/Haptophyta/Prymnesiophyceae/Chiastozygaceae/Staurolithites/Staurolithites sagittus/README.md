@@ -1,5 +1,4 @@
-Staurolithites sagittus J.B. Risatti SPECIES
-=======
+# Staurolithites sagittus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

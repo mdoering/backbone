@@ -1,5 +1,4 @@
-Septoriomyces leguminosae Cavalc. & A.A. Silva SPECIES
-=======
+# Septoriomyces leguminosae Cavalc. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

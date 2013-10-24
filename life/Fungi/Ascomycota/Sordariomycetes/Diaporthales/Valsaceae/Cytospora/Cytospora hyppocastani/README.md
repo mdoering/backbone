@@ -1,5 +1,4 @@
-Cytospora hyppocastani Oudem. SPECIES
-=======
+# Cytospora hyppocastani Oudem. SPECIES
 
 #### Status
 ACCEPTED

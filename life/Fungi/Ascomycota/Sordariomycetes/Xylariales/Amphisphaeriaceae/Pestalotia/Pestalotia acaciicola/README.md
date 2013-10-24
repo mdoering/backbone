@@ -1,5 +1,4 @@
-Pestalotia acaciicola Speg. SPECIES
-=======
+# Pestalotia acaciicola Speg. SPECIES
 
 #### Status
 ACCEPTED

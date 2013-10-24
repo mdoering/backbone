@@ -1,5 +1,4 @@
-Cingilia caternaria Npv SPECIES
-=======
+# Cingilia caternaria Npv SPECIES
 
 #### Status
 ACCEPTED

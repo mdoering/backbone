@@ -1,5 +1,4 @@
-Phyllachora brachystegiae innumerella (Syd.) P.F. Cannon, 1991 INFRASPECIFIC_NAME
-=======
+# Phyllachora brachystegiae SPECIES
 
 #### Status
 ACCEPTED

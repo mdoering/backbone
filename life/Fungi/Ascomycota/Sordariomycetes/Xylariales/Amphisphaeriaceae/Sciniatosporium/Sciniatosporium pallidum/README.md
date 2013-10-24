@@ -1,5 +1,4 @@
-Sciniatosporium pallidum (Ellis & Everh.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium pallidum (Ellis & Everh.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

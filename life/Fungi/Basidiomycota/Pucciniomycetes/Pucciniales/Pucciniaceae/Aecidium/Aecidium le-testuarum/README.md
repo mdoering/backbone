@@ -1,5 +1,4 @@
-Aecidium le-testuarum Cant. SPECIES
-=======
+# Aecidium le-testuarum Cant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium emersum Müll. Arg. SPECIES
-=======
+# Arthothelium emersum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

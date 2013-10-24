@@ -1,5 +1,4 @@
-Crotalia cintractiae-variabilis Lehtola SPECIES
-=======
+# Crotalia cintractiae-variabilis Lehtola SPECIES
 
 #### Status
 ACCEPTED

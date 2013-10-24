@@ -1,5 +1,4 @@
-Tuberculina jaffueli Speg. SPECIES
-=======
+# Tuberculina jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

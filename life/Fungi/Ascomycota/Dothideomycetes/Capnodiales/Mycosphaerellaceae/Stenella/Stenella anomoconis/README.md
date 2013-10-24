@@ -1,5 +1,4 @@
-Stenella anomoconis de Hoog & Boekhout SPECIES
-=======
+# Stenella anomoconis de Hoog & Boekhout SPECIES
 
 #### Status
 ACCEPTED

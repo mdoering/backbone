@@ -1,5 +1,4 @@
-Cephalotheca francisci Sacc. SPECIES
-=======
+# Cephalotheca francisci Sacc. SPECIES
 
 #### Status
 ACCEPTED

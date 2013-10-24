@@ -1,5 +1,4 @@
-Thelephora pellicula Fr. SPECIES
-=======
+# Thelephora pellicula Fr. SPECIES
 
 #### Status
 ACCEPTED

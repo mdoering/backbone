@@ -1,5 +1,4 @@
-Diplodina nitrariae Murashk. SPECIES
-=======
+# Diplodina nitrariae Murashk. SPECIES
 
 #### Status
 ACCEPTED

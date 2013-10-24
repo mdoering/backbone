@@ -1,5 +1,4 @@
-Bionectria compactiuscula Schroers, 2001 SPECIES
-=======
+# Bionectria compactiuscula Schroers, 2001 SPECIES
 
 #### Status
 ACCEPTED

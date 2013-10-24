@@ -1,5 +1,4 @@
-Pezizella puiggarii Speg. SPECIES
-=======
+# Pezizella puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

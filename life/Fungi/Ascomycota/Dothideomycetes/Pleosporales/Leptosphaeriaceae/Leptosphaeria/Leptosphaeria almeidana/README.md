@@ -1,5 +1,4 @@
-Leptosphaeria almeidana Sousa da Câmara SPECIES
-=======
+# Leptosphaeria almeidana Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

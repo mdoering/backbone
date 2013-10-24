@@ -1,5 +1,4 @@
-Leotia albiceps (Peck) Mains SPECIES
-=======
+# Leotia albiceps (Peck) Mains SPECIES
 
 #### Status
 ACCEPTED

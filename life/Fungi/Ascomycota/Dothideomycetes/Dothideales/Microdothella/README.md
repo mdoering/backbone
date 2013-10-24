@@ -1,17 +1,16 @@
-Phaeopolystomella Bat. & H. Maia GENUS
-=======
+# Microdothella Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Saccardoa 1: 42 (1960)
+Philipp. J. Sci. , C, Bot. 9: 169 (1914)
 
 #### Original name
-Phaeopolystomella Bat. & H. Maia
+Microdothella Syd. & P. Syd.
 
 ### Remarks
 null

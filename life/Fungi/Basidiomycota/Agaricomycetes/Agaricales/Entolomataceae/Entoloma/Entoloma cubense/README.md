@@ -1,5 +1,4 @@
-Entoloma cubense (Murrill) Dennis SPECIES
-=======
+# Entoloma cubense (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

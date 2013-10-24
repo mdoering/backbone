@@ -1,5 +1,4 @@
-Cercosporella sterculiae O.A. Drumm. SPECIES
-=======
+# Cercosporella sterculiae O.A. Drumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomosigma peridiniodes J. Schiller SPECIES
-=======
+# Entomosigma peridiniodes J. Schiller SPECIES
 
 #### Status
 ACCEPTED

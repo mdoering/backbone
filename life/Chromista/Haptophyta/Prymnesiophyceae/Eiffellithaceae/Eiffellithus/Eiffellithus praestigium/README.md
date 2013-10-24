@@ -1,5 +1,4 @@
-Eiffellithus praestigium SPECIES
-=======
+# Eiffellithus praestigium SPECIES
 
 #### Status
 ACCEPTED

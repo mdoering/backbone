@@ -1,5 +1,4 @@
-Amanita crassipes Coccia & Migl. SPECIES
-=======
+# Amanita crassipes Coccia & Migl. SPECIES
 
 #### Status
 ACCEPTED

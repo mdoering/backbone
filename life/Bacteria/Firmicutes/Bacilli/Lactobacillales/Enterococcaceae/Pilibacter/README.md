@@ -1,5 +1,4 @@
-Pilibacter Higashiguchi et al., 2006 GENUS
-=======
+# Pilibacter Higashiguchi et al., 2006 GENUS
 
 #### Status
 ACCEPTED

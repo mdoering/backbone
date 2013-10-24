@@ -1,5 +1,4 @@
-Pyrenochaeta rubtzovii Gucevic SPECIES
-=======
+# Pyrenochaeta rubtzovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

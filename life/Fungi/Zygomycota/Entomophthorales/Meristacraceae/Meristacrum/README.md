@@ -1,17 +1,16 @@
-Tabanomyces Couch, R.V. Andrejeva, Laird & Nolan GENUS
-=======
+# Meristacrum Drechsler GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. natn Acad. Sci. U. S. A. 76(5): 2302 (1979)
+J. Wash. Acad. Sci. 30: 250 (1940)
 
 #### Original name
-Tabanomyces Couch, R.V. Andrejeva, Laird & Nolan
+Meristacrum Drechsler
 
 ### Remarks
 null

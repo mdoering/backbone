@@ -1,5 +1,4 @@
-Psathyrella griseoatomata Herp. SPECIES
-=======
+# Psathyrella griseoatomata Herp. SPECIES
 
 #### Status
 ACCEPTED

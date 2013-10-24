@@ -1,5 +1,4 @@
-Podospora castorinospra Cain SPECIES
-=======
+# Podospora castorinospra Cain SPECIES
 
 #### Status
 ACCEPTED

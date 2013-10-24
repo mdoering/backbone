@@ -1,5 +1,4 @@
-Metaracoelophrya intermedia Puytorac & Dragesco, 1969 SPECIES
-=======
+# Metaracoelophrya intermedia Puytorac & Dragesco, 1969 SPECIES
 
 #### Status
 ACCEPTED

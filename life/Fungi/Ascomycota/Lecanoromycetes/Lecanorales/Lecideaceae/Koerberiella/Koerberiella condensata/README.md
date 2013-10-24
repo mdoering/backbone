@@ -1,5 +1,4 @@
-Koerberiella condensata Motyka SPECIES
-=======
+# Koerberiella condensata Motyka SPECIES
 
 #### Status
 ACCEPTED

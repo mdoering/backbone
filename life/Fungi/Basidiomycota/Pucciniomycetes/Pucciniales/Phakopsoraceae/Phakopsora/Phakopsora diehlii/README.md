@@ -1,5 +1,4 @@
-Phakopsora diehlii Cummins SPECIES
-=======
+# Phakopsora diehlii Cummins SPECIES
 
 #### Status
 ACCEPTED

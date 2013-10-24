@@ -1,5 +1,4 @@
-Hypoxylon herculeum Lloyd SPECIES
-=======
+# Hypoxylon herculeum Lloyd SPECIES
 
 #### Status
 ACCEPTED

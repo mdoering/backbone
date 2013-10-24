@@ -1,5 +1,4 @@
-Cladonia neocaledonica Räsänen SPECIES
-=======
+# Cladonia neocaledonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

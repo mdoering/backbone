@@ -1,14 +1,13 @@
-Naemaspora bertiodes (Ces.) Kuntze SPECIES
-=======
+# Naemaspora bertioides (Ces.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 500 (1898)
 
 #### Original name
 Bombardia bertioides Ces.

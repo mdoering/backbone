@@ -1,5 +1,4 @@
-Arthracanthida Schewiakoff, 1926 ORDER
-=======
+# Arthracanthida Schewiakoff, 1926 ORDER
 
 #### Status
 ACCEPTED

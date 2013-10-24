@@ -1,5 +1,4 @@
-Hypoxylon umbrinellum Berk. & Broome SPECIES
-=======
+# Hypoxylon umbrinellum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

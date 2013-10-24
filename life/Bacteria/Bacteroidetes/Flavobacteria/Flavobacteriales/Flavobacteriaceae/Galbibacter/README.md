@@ -1,5 +1,4 @@
-Galbibacter Khan, Nakagawa & Harayama, 2007 GENUS
-=======
+# Galbibacter Khan, Nakagawa & Harayama, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gargarius Chatton & Lwoff, 1934 GENUS
-=======
+# Gargarius Chatton & Lwoff, 1934 GENUS
 
 #### Status
 ACCEPTED

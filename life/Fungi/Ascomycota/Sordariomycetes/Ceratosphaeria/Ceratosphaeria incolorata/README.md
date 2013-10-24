@@ -1,5 +1,4 @@
-Ceratosphaeria incolorata Réblová SPECIES
-=======
+# Ceratosphaeria incolorata Réblová SPECIES
 
 #### Status
 ACCEPTED

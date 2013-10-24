@@ -1,5 +1,4 @@
-Lepiota gigantea Speg. SPECIES
-=======
+# Lepiota gigantea Speg. SPECIES
 
 #### Status
 ACCEPTED

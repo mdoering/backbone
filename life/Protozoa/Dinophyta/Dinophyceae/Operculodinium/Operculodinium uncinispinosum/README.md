@@ -1,5 +1,4 @@
-Operculodinium uncinispinosum (J. De Coninck) K. Matsuoka SPECIES
-=======
+# Operculodinium uncinispinosum (J. De Coninck) K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

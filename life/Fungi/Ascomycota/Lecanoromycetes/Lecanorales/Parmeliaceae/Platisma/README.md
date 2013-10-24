@@ -1,5 +1,4 @@
-Platisma GENUS
-=======
+# Platisma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoparmelia dahlii Hale SPECIES
-=======
+# Pseudoparmelia dahlii Hale SPECIES
 
 #### Status
 ACCEPTED

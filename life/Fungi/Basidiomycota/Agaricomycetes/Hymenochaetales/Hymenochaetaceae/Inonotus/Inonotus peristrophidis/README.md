@@ -1,5 +1,4 @@
-Inonotus peristrophidis S. Ahmad, 1972 SPECIES
-=======
+# Inonotus peristrophidis S. Ahmad, 1972 SPECIES
 
 #### Status
 ACCEPTED

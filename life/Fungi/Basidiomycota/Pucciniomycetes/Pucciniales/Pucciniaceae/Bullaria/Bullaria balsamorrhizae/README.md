@@ -1,5 +1,4 @@
-Bullaria balsamorrhizae (Peck) Arthur & Mains SPECIES
-=======
+# Bullaria balsamorrhizae (Peck) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Monoplodia Westend. GENUS
-=======
+# Coniothyrium Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Acad. R. Sci. Belg. , Cl. Sci. , sér. 2 7: 94 (1859)
+Icon. fung. (Prague) 4: 38 (1840)
 
 #### Original name
-Monoplodia Westend.
+Coniothyrium Corda
 
 ### Remarks
 null

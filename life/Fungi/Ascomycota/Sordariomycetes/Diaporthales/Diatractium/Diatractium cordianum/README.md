@@ -1,17 +1,16 @@
-Hypospila cordianum Ellis & Kelsey SPECIES
-=======
+# Diatractium cordianum (Ellis & Kelsey) Syd., 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 33: 86 (1935)
 
 #### Original name
-Hypospila cordianum Ellis & Kelsey
+Hypospila cordiana Ellis & Kelsey, 1897
 
 ### Remarks
 null

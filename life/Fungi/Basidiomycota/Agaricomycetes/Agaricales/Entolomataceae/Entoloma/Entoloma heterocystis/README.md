@@ -1,5 +1,4 @@
-Entoloma heterocystis Contu SPECIES
-=======
+# Entoloma heterocystis Contu SPECIES
 
 #### Status
 ACCEPTED

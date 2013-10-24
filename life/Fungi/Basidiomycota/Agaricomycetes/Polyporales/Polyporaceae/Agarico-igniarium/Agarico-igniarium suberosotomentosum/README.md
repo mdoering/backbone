@@ -1,5 +1,4 @@
-Agarico-igniarium suberosotomentosum Paulet SPECIES
-=======
+# Agarico-igniarium suberosotomentosum Paulet SPECIES
 
 #### Status
 ACCEPTED

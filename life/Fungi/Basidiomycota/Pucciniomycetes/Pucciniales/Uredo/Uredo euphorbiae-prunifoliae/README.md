@@ -1,5 +1,4 @@
-Uredo euphorbiae-prunifoliae Reichert SPECIES
-=======
+# Uredo euphorbiae-prunifoliae Reichert SPECIES
 
 #### Status
 ACCEPTED

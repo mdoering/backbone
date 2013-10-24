@@ -1,5 +1,4 @@
-Cordyceps pieli Olliff SPECIES
-=======
+# Cordyceps pieli Olliff SPECIES
 
 #### Status
 ACCEPTED

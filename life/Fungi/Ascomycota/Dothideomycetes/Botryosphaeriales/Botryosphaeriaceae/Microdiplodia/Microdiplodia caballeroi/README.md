@@ -1,5 +1,4 @@
-Microdiplodia caballeroi Unamuno SPECIES
-=======
+# Microdiplodia caballeroi Unamuno SPECIES
 
 #### Status
 ACCEPTED

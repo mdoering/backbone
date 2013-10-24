@@ -1,5 +1,4 @@
-Pseudocyphellaria redonii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria redonii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

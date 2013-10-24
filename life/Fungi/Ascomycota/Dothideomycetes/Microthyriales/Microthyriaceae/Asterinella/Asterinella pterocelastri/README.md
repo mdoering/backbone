@@ -1,5 +1,4 @@
-Asterinella pterocelastri Doidge SPECIES
-=======
+# Asterinella pterocelastri Doidge SPECIES
 
 #### Status
 ACCEPTED

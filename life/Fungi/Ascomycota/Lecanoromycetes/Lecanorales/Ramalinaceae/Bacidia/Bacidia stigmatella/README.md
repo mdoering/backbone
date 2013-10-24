@@ -1,5 +1,4 @@
-Bacidia stigmatella (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia stigmatella (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

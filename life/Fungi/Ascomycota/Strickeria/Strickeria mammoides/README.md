@@ -1,5 +1,4 @@
-Strickeria mammoides (Ellis & Everh.) Kuntze SPECIES
-=======
+# Strickeria mammoides (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

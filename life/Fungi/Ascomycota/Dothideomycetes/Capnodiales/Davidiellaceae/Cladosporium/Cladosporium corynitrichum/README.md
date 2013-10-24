@@ -1,5 +1,4 @@
-Cladosporium corynitrichum Ellis & Everh. SPECIES
-=======
+# Cladosporium corynitrichum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

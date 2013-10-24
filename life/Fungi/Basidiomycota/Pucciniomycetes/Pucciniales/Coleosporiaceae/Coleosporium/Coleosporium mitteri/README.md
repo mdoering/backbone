@@ -1,5 +1,4 @@
-Coleosporium mitteri Syd. SPECIES
-=======
+# Coleosporium mitteri Syd. SPECIES
 
 #### Status
 ACCEPTED

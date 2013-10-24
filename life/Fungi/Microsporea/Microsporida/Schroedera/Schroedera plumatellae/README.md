@@ -1,5 +1,4 @@
-Schroedera plumatellae D.J. Morris & A. Adams SPECIES
-=======
+# Schroedera plumatellae D.J. Morris & A. Adams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylofusa mucronata N. Umnova, 1975 SPECIES
-=======
+# Dactylofusa mucronata N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

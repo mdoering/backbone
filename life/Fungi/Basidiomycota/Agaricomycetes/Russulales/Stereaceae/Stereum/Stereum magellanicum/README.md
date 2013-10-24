@@ -1,5 +1,4 @@
-Stereum magellanicum Ryvarden & Hjortstam, 1987 SPECIES
-=======
+# Stereum magellanicum Ryvarden & Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

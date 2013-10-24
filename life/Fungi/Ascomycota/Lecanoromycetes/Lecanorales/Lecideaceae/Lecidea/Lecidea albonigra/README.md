@@ -1,5 +1,4 @@
-Lecidea albonigra H. Magn. SPECIES
-=======
+# Lecidea albonigra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

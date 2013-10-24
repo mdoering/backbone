@@ -1,5 +1,4 @@
-Parmelia cruenta Darb. SPECIES
-=======
+# Parmelia cruenta Darb. SPECIES
 
 #### Status
 ACCEPTED

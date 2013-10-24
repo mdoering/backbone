@@ -1,5 +1,4 @@
-Colletotrichum dichaeae Henn. SPECIES
-=======
+# Colletotrichum dichaeae Henn. SPECIES
 
 #### Status
 ACCEPTED

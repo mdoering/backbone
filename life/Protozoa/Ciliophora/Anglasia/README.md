@@ -1,5 +1,4 @@
-Anglasia Delphy, 1936 GENUS
-=======
+# Anglasia Delphy, 1936 GENUS
 
 #### Status
 ACCEPTED

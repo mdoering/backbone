@@ -1,5 +1,4 @@
-Diplodina calaminthae Politis SPECIES
-=======
+# Diplodina calaminthae Politis SPECIES
 
 #### Status
 ACCEPTED

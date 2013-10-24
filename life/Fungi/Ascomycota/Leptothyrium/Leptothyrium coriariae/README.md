@@ -1,5 +1,4 @@
-Leptothyrium coriariae (Berk.) Sacc., 1884 SPECIES
-=======
+# Leptothyrium coriariae (Berk.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

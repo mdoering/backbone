@@ -1,5 +1,4 @@
-Palaeocephala Singer GENUS
-=======
+# Palaeocephala Singer GENUS
 
 #### Status
 ACCEPTED

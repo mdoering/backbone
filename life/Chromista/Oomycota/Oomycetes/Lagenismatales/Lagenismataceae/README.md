@@ -1,5 +1,4 @@
-Lagenismataceae M.W. Dick FAMILY
-=======
+# Lagenismataceae M.W. Dick FAMILY
 
 #### Status
 ACCEPTED

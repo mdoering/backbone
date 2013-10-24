@@ -1,5 +1,4 @@
-Actinocladium minimum Fr. SPECIES
-=======
+# Actinocladium minimum Fr. SPECIES
 
 #### Status
 ACCEPTED

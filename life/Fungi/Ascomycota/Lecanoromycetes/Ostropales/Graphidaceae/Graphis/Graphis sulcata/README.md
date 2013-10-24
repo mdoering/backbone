@@ -1,5 +1,4 @@
-Graphis sulcata (Pers.) A. Massal. SPECIES
-=======
+# Graphis sulcata (Pers.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

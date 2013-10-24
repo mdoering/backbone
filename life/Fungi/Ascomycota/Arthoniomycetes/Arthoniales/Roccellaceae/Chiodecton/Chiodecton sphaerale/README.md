@@ -1,14 +1,13 @@
-Melanodecton sphaerale (Ach.) A. Massal. SPECIES
-=======
+# Chiodecton sphaerale Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. lich. 108 (1814)
 
 #### Original name
 Chiodecton sphaerale Ach.

@@ -1,5 +1,4 @@
-Candida nanaspora Saëz & Rodr. Mir., 1988 SPECIES
-=======
+# Candida nanaspora Saëz & Rodr. Mir., 1988 SPECIES
 
 #### Status
 ACCEPTED

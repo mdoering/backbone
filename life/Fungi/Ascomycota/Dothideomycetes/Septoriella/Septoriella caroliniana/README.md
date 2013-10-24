@@ -1,5 +1,4 @@
-Septoriella caroliniana Nag Raj SPECIES
-=======
+# Septoriella caroliniana Nag Raj SPECIES
 
 #### Status
 ACCEPTED

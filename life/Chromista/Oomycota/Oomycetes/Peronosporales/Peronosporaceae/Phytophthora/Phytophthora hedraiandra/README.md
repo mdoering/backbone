@@ -1,5 +1,4 @@
-Phytophthora hedraiandra De Cock & Man in 't Veld SPECIES
-=======
+# Phytophthora hedraiandra De Cock & Man in 't Veld SPECIES
 
 #### Status
 ACCEPTED

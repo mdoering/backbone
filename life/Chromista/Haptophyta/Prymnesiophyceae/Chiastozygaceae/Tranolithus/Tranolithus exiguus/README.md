@@ -1,5 +1,4 @@
-Tranolithus exiguus Stover, 1977 SPECIES
-=======
+# Tranolithus exiguus Stover, 1977 SPECIES
 
 #### Status
 ACCEPTED

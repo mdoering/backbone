@@ -1,5 +1,4 @@
-Astacolus reniformis SPECIES
-=======
+# Astacolus reniformis SPECIES
 
 #### Status
 ACCEPTED

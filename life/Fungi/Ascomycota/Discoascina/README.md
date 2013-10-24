@@ -1,5 +1,4 @@
-Discoascina Bene GENUS
-=======
+# Discoascina Bene GENUS
 
 #### Status
 ACCEPTED

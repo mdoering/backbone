@@ -1,5 +1,4 @@
-Psilocybe pallidispora (Murrill) A.H. Sm. SPECIES
-=======
+# Psilocybe pallidispora (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

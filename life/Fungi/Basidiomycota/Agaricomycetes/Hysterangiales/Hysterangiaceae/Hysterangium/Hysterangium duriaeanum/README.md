@@ -1,5 +1,4 @@
-Hysterangium duriaeanum Tul. SPECIES
-=======
+# Hysterangium duriaeanum Tul. SPECIES
 
 #### Status
 ACCEPTED

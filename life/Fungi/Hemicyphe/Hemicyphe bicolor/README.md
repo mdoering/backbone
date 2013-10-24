@@ -1,5 +1,4 @@
-Hemicyphe bicolor (Corda) Bonord. SPECIES
-=======
+# Hemicyphe bicolor (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

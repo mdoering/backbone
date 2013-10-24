@@ -1,5 +1,4 @@
-Sebacina murina Burt SPECIES
-=======
+# Sebacina murina Burt SPECIES
 
 #### Status
 ACCEPTED

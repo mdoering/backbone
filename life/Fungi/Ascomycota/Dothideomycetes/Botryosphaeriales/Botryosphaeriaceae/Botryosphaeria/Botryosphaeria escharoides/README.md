@@ -1,5 +1,4 @@
-Botryosphaeria escharoides (Fr.) Sacc. SPECIES
-=======
+# Botryosphaeria escharoides (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

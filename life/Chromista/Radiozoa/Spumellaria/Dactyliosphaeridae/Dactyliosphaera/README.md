@@ -1,5 +1,4 @@
-Dactyliosphaera Squinabol, 1904 GENUS
-=======
+# Dactyliosphaera Squinabol, 1904 GENUS
 
 #### Status
 ACCEPTED

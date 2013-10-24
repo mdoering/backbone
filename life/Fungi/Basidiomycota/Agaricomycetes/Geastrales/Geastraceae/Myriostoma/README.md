@@ -1,17 +1,16 @@
-Polystoma Gray GENUS
-=======
+# Myriostoma Desv. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 586 (1821)
+J. Bot. , Paris 2: 103-104 (1809)
 
 #### Original name
-Polystoma Gray
+Myriostoma Desv.
 
 ### Remarks
 null

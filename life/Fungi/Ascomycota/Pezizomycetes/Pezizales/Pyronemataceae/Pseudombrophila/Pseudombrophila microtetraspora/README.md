@@ -1,5 +1,4 @@
-Pseudombrophila microtetraspora Harmaja SPECIES
-=======
+# Pseudombrophila microtetraspora Harmaja SPECIES
 
 #### Status
 ACCEPTED

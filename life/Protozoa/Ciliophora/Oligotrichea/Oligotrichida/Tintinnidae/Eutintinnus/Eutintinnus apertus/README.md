@@ -1,11 +1,10 @@
-Tintinnus inquilinum (O.F. Müller, 1776) SPECIES
-=======
+# Eutintinnus apertus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

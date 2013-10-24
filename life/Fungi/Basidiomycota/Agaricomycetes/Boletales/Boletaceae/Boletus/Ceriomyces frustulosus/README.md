@@ -1,5 +1,4 @@
-Ceriomyces frustulosus (Peck) Murrill SPECIES
-=======
+# Ceriomyces frustulosus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

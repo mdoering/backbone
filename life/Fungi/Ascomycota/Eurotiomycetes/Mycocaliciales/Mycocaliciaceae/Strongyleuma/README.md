@@ -1,5 +1,4 @@
-Strongyleuma GENUS
-=======
+# Strongyleuma GENUS
 
 #### Status
 ACCEPTED

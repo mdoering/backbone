@@ -1,5 +1,4 @@
-Aquapoterium pinicola Raja & Shearer, 2008 SPECIES
-=======
+# Aquapoterium pinicola Raja & Shearer, 2008 SPECIES
 
 #### Status
 ACCEPTED

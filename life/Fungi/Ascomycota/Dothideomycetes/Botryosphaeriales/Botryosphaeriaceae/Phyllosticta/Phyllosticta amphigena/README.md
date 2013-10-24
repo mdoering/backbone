@@ -1,5 +1,4 @@
-Phyllosticta amphigena J.V. Almeida SPECIES
-=======
+# Phyllosticta amphigena J.V. Almeida SPECIES
 
 #### Status
 ACCEPTED

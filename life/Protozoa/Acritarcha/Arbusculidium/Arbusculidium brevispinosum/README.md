@@ -1,5 +1,4 @@
-Arbusculidium brevispinosum Xu Wanhong, 2001 SPECIES
-=======
+# Arbusculidium brevispinosum Xu Wanhong, 2001 SPECIES
 
 #### Status
 ACCEPTED

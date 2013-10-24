@@ -1,5 +1,4 @@
-Hormiscium ambrosiae Peck SPECIES
-=======
+# Hormiscium ambrosiae Peck SPECIES
 
 #### Status
 ACCEPTED

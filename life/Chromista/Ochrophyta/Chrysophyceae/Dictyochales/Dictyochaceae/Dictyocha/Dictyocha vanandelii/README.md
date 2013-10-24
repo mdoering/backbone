@@ -1,5 +1,4 @@
-Dictyocha vanandelii D. Bukry & J. H. Foster SPECIES
-=======
+# Dictyocha vanandelii D. Bukry & J. H. Foster SPECIES
 
 #### Status
 ACCEPTED

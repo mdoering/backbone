@@ -1,5 +1,4 @@
-Pluteus venosus Singer SPECIES
-=======
+# Pluteus venosus Singer SPECIES
 
 #### Status
 ACCEPTED

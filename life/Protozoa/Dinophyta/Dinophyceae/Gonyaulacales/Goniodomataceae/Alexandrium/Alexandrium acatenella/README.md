@@ -1,11 +1,10 @@
-Protogonyaulax acatanella (Whedon & Kofoid) F.J.R. Taylor, 1979 SPECIES
-=======
+# Alexandrium acatenella (Whedon & Kofoid) E. Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,14 +1,13 @@
-Graphis subdividens Leight. SPECIES
-=======
+# Phaeographis subdividens (Leight.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London 27: 177 (1869)
+Flora, Jena 65(24): 383 (1882)
 
 #### Original name
 Graphis subdividens Leight.

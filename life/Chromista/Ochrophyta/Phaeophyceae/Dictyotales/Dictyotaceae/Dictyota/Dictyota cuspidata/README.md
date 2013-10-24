@@ -1,5 +1,4 @@
-Dictyota cuspidata Kützing SPECIES
-=======
+# Dictyota cuspidata Kützing SPECIES
 
 #### Status
 ACCEPTED

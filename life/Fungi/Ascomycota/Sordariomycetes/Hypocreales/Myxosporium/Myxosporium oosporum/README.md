@@ -1,5 +1,4 @@
-Myxosporium oosporum Corda SPECIES
-=======
+# Myxosporium oosporum Corda SPECIES
 
 #### Status
 ACCEPTED

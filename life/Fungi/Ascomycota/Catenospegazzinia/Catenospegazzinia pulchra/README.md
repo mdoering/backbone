@@ -1,5 +1,4 @@
-Catenospegazzinia pulchra Subram., 1991 SPECIES
-=======
+# Catenospegazzinia pulchra Subram., 1991 SPECIES
 
 #### Status
 ACCEPTED

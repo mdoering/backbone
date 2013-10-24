@@ -1,5 +1,4 @@
-Spirotrachelostyla tani (Hu & Song, 2002) Gong, Song, Li, Shao & Chen, 2006 SPECIES
-=======
+# Spirotrachelostyla tani (Hu & Song, 2002) Gong, Song, Li, Shao & Chen, 2006 SPECIES
 
 #### Status
 ACCEPTED

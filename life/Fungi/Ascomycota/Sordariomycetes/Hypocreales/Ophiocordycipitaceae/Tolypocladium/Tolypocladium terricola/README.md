@@ -1,5 +1,4 @@
-Tolypocladium terricola Weiser, Matha & Jegorov SPECIES
-=======
+# Tolypocladium terricola Weiser, Matha & Jegorov SPECIES
 
 #### Status
 ACCEPTED

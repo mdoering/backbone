@@ -1,5 +1,4 @@
-Phomatospora helvetica H. Wegelin SPECIES
-=======
+# Phomatospora helvetica H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

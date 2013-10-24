@@ -1,5 +1,4 @@
-Lophodermium myricae Dennis & Spooner SPECIES
-=======
+# Lophodermium myricae Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

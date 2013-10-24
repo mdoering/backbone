@@ -1,5 +1,4 @@
-Clypeus aureolamellata Britzelm. SPECIES
-=======
+# Clypeus aureolamellata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

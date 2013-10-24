@@ -1,5 +1,4 @@
-Lepiota morieri Gillet SPECIES
-=======
+# Lepiota morieri Gillet SPECIES
 
 #### Status
 ACCEPTED

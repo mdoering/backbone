@@ -1,5 +1,4 @@
-Microsphaera deutziae Bunkina SPECIES
-=======
+# Microsphaera deutziae Bunkina SPECIES
 
 #### Status
 ACCEPTED

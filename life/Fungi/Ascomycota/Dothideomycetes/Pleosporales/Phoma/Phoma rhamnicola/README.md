@@ -1,5 +1,4 @@
-Phoma rhamnicola Cooke & Harkn. SPECIES
-=======
+# Phoma rhamnicola Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

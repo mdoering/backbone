@@ -1,17 +1,16 @@
-Amerosporis Clem. & Shear GENUS
-=======
+# Amerosporiella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 223, 403 (1931)
+Öst. bot. Z. 66: 111 (1916)
 
 #### Original name
-Amerosporis Clem. & Shear
+Amerosporiella Höhn.
 
 ### Remarks
 null

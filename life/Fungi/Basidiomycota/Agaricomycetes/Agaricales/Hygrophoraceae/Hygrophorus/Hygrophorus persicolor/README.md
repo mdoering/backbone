@@ -1,5 +1,4 @@
-Hygrophorus persicolor Ricek SPECIES
-=======
+# Hygrophorus persicolor Ricek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanolecia dissipabilis (Nyl.) Hertel SPECIES
-=======
+# Melanolecia dissipabilis (Nyl.) Hertel SPECIES
 
 #### Status
 ACCEPTED

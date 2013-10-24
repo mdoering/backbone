@@ -1,5 +1,4 @@
-Dermatiscum viride Zahlbr. SPECIES
-=======
+# Dermatiscum viride Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

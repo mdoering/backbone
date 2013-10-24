@@ -1,5 +1,4 @@
-Apiosporium pinophilum Fuckel, 1870 SPECIES
-=======
+# Apiosporium pinophilum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

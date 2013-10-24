@@ -1,8 +1,7 @@
-Histioneis steinii Schiller, 1928 SPECIES
-=======
+# Histioneis striata Kofoid & Michener, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

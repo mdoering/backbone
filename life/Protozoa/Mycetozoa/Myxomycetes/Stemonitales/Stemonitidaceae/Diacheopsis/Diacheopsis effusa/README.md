@@ -1,5 +1,4 @@
-Diacheopsis effusa Kowalski, 1975 SPECIES
-=======
+# Diacheopsis effusa Kowalski, 1975 SPECIES
 
 #### Status
 ACCEPTED

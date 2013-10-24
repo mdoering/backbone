@@ -1,5 +1,4 @@
-Clavaria afrolutea P. Roberts, 1999 SPECIES
-=======
+# Clavaria afrolutea P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctospora magni-ducis Sorokin SPECIES
-=======
+# Phlyctospora magni-ducis Sorokin SPECIES
 
 #### Status
 ACCEPTED

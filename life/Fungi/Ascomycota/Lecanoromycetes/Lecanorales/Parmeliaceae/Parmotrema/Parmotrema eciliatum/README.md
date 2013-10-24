@@ -1,14 +1,13 @@
-Parmelia crinita var. eciliata Nyl. VARIETY
-=======
+# Parmotrema eciliatum (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 336 (1974)
 
 #### Original name
 Parmelia crinita var. eciliata Nyl.

@@ -1,5 +1,4 @@
-Mycoleptodon gracilis Pilát SPECIES
-=======
+# Mycoleptodon gracilis Pilát SPECIES
 
 #### Status
 ACCEPTED

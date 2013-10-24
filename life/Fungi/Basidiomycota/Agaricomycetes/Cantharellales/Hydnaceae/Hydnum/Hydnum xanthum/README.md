@@ -1,5 +1,4 @@
-Hydnum xanthum var. xanthum VARIETY
-=======
+# Hydnum xanthum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 1(no. 7): 98 (1873)
 
 #### Original name
-Hydnum xanthum var. xanthum
+Hydnum xanthum Berk. & M.A. Curtis
 
 ### Remarks
 null

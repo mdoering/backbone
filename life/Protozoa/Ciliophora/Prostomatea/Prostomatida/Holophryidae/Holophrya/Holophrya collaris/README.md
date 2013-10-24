@@ -1,5 +1,4 @@
-Holophrya collaris Kahl, 1926 SPECIES
-=======
+# Holophrya collaris Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

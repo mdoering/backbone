@@ -1,5 +1,4 @@
-Pseudotaeniolina J.L. Crane & Schokn. GENUS
-=======
+# Pseudotaeniolina J.L. Crane & Schokn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora granulosa var. granulosa VARIETY
-=======
+# Lecanora granulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+Flora, Jena 64(32): 510 (1881)
 
 #### Original name
-Lecanora granulosa var. granulosa
+Lecanora granulosa Müll. Arg.
 
 ### Remarks
 null

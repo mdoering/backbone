@@ -1,5 +1,4 @@
-Peltigera plumbea Mont. SPECIES
-=======
+# Peltigera plumbea Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycotodea Kirschst. GENUS
-=======
+# Mycotodea Kirschst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema fraudans (Nyl.) M. Choisy SPECIES
-=======
+# Parmotrema fraudans (Nyl.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

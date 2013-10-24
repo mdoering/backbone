@@ -1,5 +1,4 @@
-Sporotrichum angulatum Catt. SPECIES
-=======
+# Sporotrichum angulatum Catt. SPECIES
 
 #### Status
 ACCEPTED

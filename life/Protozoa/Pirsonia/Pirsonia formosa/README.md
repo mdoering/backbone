@@ -1,5 +1,4 @@
-Pirsonia formosa Kühn, 1996 SPECIES
-=======
+# Pirsonia formosa Kühn, 1996 SPECIES
 
 #### Status
 ACCEPTED

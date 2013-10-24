@@ -1,5 +1,4 @@
-Sphacelotheca botriochloae Zundel SPECIES
-=======
+# Sphacelotheca botriochloae Zundel SPECIES
 
 #### Status
 ACCEPTED

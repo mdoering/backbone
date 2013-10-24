@@ -1,5 +1,4 @@
-Lecidea quartzina Stizenb. SPECIES
-=======
+# Lecidea quartzina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

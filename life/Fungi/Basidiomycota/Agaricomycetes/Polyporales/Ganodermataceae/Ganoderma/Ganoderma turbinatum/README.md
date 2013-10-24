@@ -1,5 +1,4 @@
-Ganoderma turbinatum Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Ganoderma turbinatum Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

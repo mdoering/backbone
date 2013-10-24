@@ -1,5 +1,4 @@
-Protoleiosphaeridium fulvastrum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium fulvastrum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

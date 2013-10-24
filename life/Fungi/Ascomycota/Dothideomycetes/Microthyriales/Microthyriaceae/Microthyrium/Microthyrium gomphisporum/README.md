@@ -1,5 +1,4 @@
-Microthyrium gomphisporum (Berk. & Broome) Sacc. SPECIES
-=======
+# Microthyrium gomphisporum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

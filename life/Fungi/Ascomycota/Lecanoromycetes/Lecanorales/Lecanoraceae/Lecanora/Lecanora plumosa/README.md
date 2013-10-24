@@ -1,5 +1,4 @@
-Lecanora plumosa Müll. Arg. SPECIES
-=======
+# Lecanora plumosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

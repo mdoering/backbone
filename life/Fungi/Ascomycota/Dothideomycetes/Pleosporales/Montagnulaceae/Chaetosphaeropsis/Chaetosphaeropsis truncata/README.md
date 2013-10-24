@@ -1,5 +1,4 @@
-Chaetosphaeropsis truncata Curzi & Barbaini SPECIES
-=======
+# Chaetosphaeropsis truncata Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

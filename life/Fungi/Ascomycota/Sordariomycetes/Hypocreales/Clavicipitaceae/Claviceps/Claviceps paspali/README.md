@@ -1,5 +1,4 @@
-Claviceps paspali F. Stevens & J.G. Hall, 1910 SPECIES
-=======
+# Claviceps paspali F. Stevens & J.G. Hall, 1910 SPECIES
 
 #### Status
 ACCEPTED

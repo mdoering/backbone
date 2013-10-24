@@ -1,5 +1,4 @@
-Negeriella panamensis E.F. Morris SPECIES
-=======
+# Negeriella panamensis E.F. Morris SPECIES
 
 #### Status
 ACCEPTED

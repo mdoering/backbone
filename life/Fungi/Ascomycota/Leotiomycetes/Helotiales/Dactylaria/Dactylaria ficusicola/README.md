@@ -1,5 +1,4 @@
-Dactylaria ficusicola B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Dactylaria ficusicola B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

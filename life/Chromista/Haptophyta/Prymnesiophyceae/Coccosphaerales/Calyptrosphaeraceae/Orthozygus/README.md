@@ -1,5 +1,4 @@
-Orthozygus M.N. Bramlette & J.A. Wilcoxon, 1967 GENUS
-=======
+# Orthozygus M.N. Bramlette & J.A. Wilcoxon, 1967 GENUS
 
 #### Status
 ACCEPTED

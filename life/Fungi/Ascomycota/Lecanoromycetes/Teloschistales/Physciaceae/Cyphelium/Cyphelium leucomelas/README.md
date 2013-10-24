@@ -1,5 +1,4 @@
-Cyphelium leucomelas (Pers.) Ach. SPECIES
-=======
+# Cyphelium leucomelas (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

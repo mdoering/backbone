@@ -1,5 +1,4 @@
-Puccinia gibberulosa J. Schröt. SPECIES
-=======
+# Puccinia gibberulosa J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

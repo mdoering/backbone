@@ -1,5 +1,4 @@
-Dimeriella guarapiensis (Speg.) Speg. SPECIES
-=======
+# Dimeriella guarapiensis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza riparia (Hazsl.) Sacc. SPECIES
-=======
+# Peziza riparia (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

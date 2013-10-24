@@ -1,5 +1,4 @@
-Trichodes Ehrenberg, 1832 GENUS
-=======
+# Trichodes Ehrenberg, 1832 GENUS
 
 #### Status
 ACCEPTED

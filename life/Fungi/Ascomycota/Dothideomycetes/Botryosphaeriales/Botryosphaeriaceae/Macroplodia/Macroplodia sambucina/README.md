@@ -1,5 +1,4 @@
-Macroplodia sambucina Cooke SPECIES
-=======
+# Macroplodia sambucina Cooke SPECIES
 
 #### Status
 ACCEPTED

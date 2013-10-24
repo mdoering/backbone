@@ -1,5 +1,4 @@
-Coprotus duplus Kimbr., Luck-Allen & Cain SPECIES
-=======
+# Coprotus duplus Kimbr., Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria megalorrhiza Berk. & Broome SPECIES
-=======
+# Clavaria megalorrhiza Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

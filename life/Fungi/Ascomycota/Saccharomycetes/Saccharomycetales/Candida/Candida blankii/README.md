@@ -1,17 +1,16 @@
-Candida hydrocarbofumarica K. Yamada, T. Furuk. & Nakahara, 1974 SPECIES
-=======
+# Candida blankii H.R. Buckley & Uden, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 36: 259 (1968)
 
 #### Original name
-null
+Candida blankii H.R. Buckley & Uden, 1968
 
 ### Remarks
 null

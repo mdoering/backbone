@@ -1,5 +1,4 @@
-Coryne acori Ade SPECIES
-=======
+# Coryne acori Ade SPECIES
 
 #### Status
 ACCEPTED

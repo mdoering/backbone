@@ -1,5 +1,4 @@
-Gaudryina oinomikadoi Huang SPECIES
-=======
+# Gaudryina oinomikadoi Huang SPECIES
 
 #### Status
 ACCEPTED

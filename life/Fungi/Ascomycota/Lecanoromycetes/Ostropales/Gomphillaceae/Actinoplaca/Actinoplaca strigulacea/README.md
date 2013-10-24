@@ -1,17 +1,16 @@
-Actinoplaca strigulacea var. strigulacea VARIETY
-=======
+# Actinoplaca strigulacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. R. Bot. Belg. 30: 57 (1891)
 
 #### Original name
-Actinoplaca strigulacea var. strigulacea
+Actinoplaca strigulacea Müll. Arg.
 
 ### Remarks
 null

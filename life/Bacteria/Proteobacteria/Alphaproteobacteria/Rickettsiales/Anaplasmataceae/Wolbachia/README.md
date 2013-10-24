@@ -1,5 +1,4 @@
-Wolbachia GENUS
-=======
+# Wolbachia GENUS
 
 #### Status
 ACCEPTED

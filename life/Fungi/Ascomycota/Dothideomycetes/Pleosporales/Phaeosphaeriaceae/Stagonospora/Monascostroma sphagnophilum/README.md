@@ -1,5 +1,4 @@
-Monascostroma sphagnophilum Döbbeler & Poelt SPECIES
-=======
+# Monascostroma sphagnophilum Döbbeler & Poelt SPECIES
 
 #### Status
 ACCEPTED

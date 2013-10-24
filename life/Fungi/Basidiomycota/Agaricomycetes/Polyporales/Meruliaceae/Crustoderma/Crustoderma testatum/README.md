@@ -1,14 +1,13 @@
-Corticium testatum H.S. Jacks. & Dearden, 1949 SPECIES
-=======
+# Crustoderma testatum (H.S. Jacks. & Dearden) Nakasone, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 27: 151 (1949)
+Mycotaxon 22(2): 416 (1985)
 
 #### Original name
 Corticium testatum H.S. Jacks. & Dearden, 1949

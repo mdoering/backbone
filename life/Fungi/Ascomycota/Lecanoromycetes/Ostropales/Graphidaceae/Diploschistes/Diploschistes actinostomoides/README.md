@@ -1,5 +1,4 @@
-Diploschistes actinostomoides Lumbsch & Elix SPECIES
-=======
+# Diploschistes actinostomoides Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

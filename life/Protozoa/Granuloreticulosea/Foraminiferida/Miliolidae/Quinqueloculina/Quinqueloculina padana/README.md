@@ -1,5 +1,4 @@
-Quinqueloculina padana Perconig, 1954 SPECIES
-=======
+# Quinqueloculina padana Perconig, 1954 SPECIES
 
 #### Status
 ACCEPTED

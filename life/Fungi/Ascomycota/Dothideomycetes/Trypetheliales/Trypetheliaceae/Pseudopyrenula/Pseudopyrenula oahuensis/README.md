@@ -1,5 +1,4 @@
-Pseudopyrenula oahuensis H. Magn. SPECIES
-=======
+# Pseudopyrenula oahuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

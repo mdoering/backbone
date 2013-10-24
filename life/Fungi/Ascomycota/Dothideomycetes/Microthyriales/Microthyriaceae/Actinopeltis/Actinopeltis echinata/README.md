@@ -1,5 +1,4 @@
-Actinopeltis echinata (G. Arnaud) Arx SPECIES
-=======
+# Actinopeltis echinata (G. Arnaud) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma alliariae Fuckel SPECIES
-=======
+# Asteroma alliariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

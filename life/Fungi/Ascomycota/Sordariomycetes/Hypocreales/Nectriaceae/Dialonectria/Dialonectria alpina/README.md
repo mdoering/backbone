@@ -1,5 +1,4 @@
-Dialonectria alpina (G. Winter) Cooke SPECIES
-=======
+# Dialonectria alpina (G. Winter) Cooke SPECIES
 
 #### Status
 ACCEPTED

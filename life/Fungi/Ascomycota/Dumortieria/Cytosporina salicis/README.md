@@ -1,5 +1,4 @@
-Cytosporina salicis Gonz. Frag. SPECIES
-=======
+# Cytosporina salicis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

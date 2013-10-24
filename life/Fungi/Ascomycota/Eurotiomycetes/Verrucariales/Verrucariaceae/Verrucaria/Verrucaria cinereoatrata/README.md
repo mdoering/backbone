@@ -1,5 +1,4 @@
-Verrucaria cinereoatrata Degel. SPECIES
-=======
+# Verrucaria cinereoatrata Degel. SPECIES
 
 #### Status
 ACCEPTED

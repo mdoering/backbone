@@ -1,5 +1,4 @@
-Cylindrospermum marchicum Lemmermann SPECIES
-=======
+# Cylindrospermum marchicum Lemmermann SPECIES
 
 #### Status
 ACCEPTED

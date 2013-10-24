@@ -1,5 +1,4 @@
-Isaria capitata Ellis & Everh. SPECIES
-=======
+# Isaria capitata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

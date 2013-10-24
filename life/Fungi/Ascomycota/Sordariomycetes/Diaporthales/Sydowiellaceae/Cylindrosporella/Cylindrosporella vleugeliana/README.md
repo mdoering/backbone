@@ -1,5 +1,4 @@
-Cylindrosporella vleugeliana (Bubák) Nannf. SPECIES
-=======
+# Cylindrosporella vleugeliana (Bubák) Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus indoctus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus indoctus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

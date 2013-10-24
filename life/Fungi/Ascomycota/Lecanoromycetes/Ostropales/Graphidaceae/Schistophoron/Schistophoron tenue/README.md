@@ -1,5 +1,4 @@
-Schistophoron tenue Stirt. SPECIES
-=======
+# Schistophoron tenue Stirt. SPECIES
 
 #### Status
 ACCEPTED

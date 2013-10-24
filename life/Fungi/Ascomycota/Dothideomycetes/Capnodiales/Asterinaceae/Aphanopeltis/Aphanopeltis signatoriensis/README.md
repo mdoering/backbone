@@ -1,5 +1,4 @@
-Aphanopeltis signatoriensis Syd. SPECIES
-=======
+# Aphanopeltis signatoriensis Syd. SPECIES
 
 #### Status
 ACCEPTED

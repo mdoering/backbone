@@ -1,5 +1,4 @@
-Belonidium funiculatum Kirschst. SPECIES
-=======
+# Belonidium funiculatum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

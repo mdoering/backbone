@@ -1,5 +1,4 @@
-Talaromyces galapagensis Samson & Mahoney, 1977 SPECIES
-=======
+# Talaromyces galapagensis Samson & Mahoney, 1977 SPECIES
 
 #### Status
 ACCEPTED

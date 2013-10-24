@@ -1,5 +1,4 @@
-Arthurella corringtoni Zebrowski SPECIES
-=======
+# Arthurella corringtoni Zebrowski SPECIES
 
 #### Status
 ACCEPTED

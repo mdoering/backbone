@@ -1,5 +1,4 @@
-Clitopilus socialis Peck SPECIES
-=======
+# Clitopilus socialis Peck SPECIES
 
 #### Status
 ACCEPTED

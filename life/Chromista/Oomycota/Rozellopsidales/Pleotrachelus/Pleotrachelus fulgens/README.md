@@ -1,14 +1,13 @@
-Olpidium fulgens (Zopf) Karling SPECIES
-=======
+# Pleotrachelus fulgens Zopf, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta Acad. Caes. Leop. -Carol. German. Nat. Cur. 47: (1885)
 
 #### Original name
 Pleotrachelus fulgens Zopf, 1884

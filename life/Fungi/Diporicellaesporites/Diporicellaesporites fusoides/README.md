@@ -1,5 +1,4 @@
-Diporicellaesporites fusoides Sal.-Cheb. & Locq. SPECIES
-=======
+# Diporicellaesporites fusoides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

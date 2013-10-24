@@ -1,5 +1,4 @@
-Nitrosomonas cryotolerans Jones, Morita, Koops & Watson, 1998 SPECIES
-=======
+# Nitrosomonas cryotolerans Jones, Morita, Koops & Watson, 1998 SPECIES
 
 #### Status
 ACCEPTED

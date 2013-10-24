@@ -1,5 +1,4 @@
-Parataeniella latrobi M.C. Williams & Lichtw., 1990 SPECIES
-=======
+# Parataeniella latrobi M.C. Williams & Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epibotrys bambusicola (Speg.) Theiss. & Syd. SPECIES
-=======
+# Epibotrys bambusicola (Speg.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

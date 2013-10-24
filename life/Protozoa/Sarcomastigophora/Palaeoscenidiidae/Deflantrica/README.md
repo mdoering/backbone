@@ -1,5 +1,4 @@
-Deflantrica Wakamatsu, Sugiyama & Furutani, 1990 GENUS
-=======
+# Deflantrica Wakamatsu, Sugiyama & Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

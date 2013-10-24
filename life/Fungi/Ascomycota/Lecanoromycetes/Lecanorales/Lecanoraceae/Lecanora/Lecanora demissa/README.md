@@ -1,5 +1,4 @@
-Lecanora demissa Flot. SPECIES
-=======
+# Lecanora demissa Flot. SPECIES
 
 #### Status
 ACCEPTED

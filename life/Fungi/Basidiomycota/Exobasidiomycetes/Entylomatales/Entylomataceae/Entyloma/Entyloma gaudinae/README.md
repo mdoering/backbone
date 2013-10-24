@@ -1,5 +1,4 @@
-Entyloma gaudinae Vienn.-Bourg. SPECIES
-=======
+# Entyloma gaudinae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora radicans (Nyl.) Zahlbr. SPECIES
-=======
+# Acarospora radicans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

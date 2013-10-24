@@ -1,5 +1,4 @@
-Endotriadella Vachard, Martini, Rettori & Zaninetti, 1994 GENUS
-=======
+# Endotriadella Vachard, Martini, Rettori & Zaninetti, 1994 GENUS
 
 #### Status
 ACCEPTED

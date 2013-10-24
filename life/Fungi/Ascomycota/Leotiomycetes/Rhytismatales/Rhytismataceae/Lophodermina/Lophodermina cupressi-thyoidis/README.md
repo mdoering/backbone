@@ -1,5 +1,4 @@
-Lophodermina cupressi-thyoidis (Sacc.) Tehon SPECIES
-=======
+# Lophodermina cupressi-thyoidis (Sacc.) Tehon SPECIES
 
 #### Status
 ACCEPTED

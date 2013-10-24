@@ -1,5 +1,4 @@
-Acytostelium digitatum Cavender & Vadell, 2000 SPECIES
-=======
+# Acytostelium digitatum Cavender & Vadell, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria andromedarum Schwein. SPECIES
-=======
+# Sphaeria andromedae Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Amer. Philos. Soc. 4(2): 220 (1832)
 
 #### Original name
-Sphaeria andromedarum Schwein.
+Sphaeria andromedae Schwein.
 
 ### Remarks
 null

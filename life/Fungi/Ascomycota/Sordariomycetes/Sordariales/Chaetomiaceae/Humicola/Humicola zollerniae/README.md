@@ -1,5 +1,4 @@
-Humicola zollerniae C. Ram & A. Ram SPECIES
-=======
+# Humicola zollerniae C. Ram & A. Ram SPECIES
 
 #### Status
 ACCEPTED

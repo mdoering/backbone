@@ -1,14 +1,13 @@
-Sphaeria fagicola Fr., 1823 SPECIES
-=======
+# Sphaerella fagicola (Fr.) Auersw., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 529 (1823)
+Mycol. eur. Abbildungen Sämmtlicher Pilze Europa's 5-6: 7 (1869)
 
 #### Original name
 Sphaeria fagicola Fr., 1823

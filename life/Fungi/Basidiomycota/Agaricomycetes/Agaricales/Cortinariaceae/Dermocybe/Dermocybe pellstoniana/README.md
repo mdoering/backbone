@@ -1,5 +1,4 @@
-Dermocybe pellstoniana (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe pellstoniana (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mastocephalus extinctorius (L.) Kuntze SPECIES
-=======
+# Mastocephalus extinctorius (L.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

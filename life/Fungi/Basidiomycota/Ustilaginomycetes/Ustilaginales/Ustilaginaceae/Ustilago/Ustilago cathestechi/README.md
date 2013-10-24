@@ -1,5 +1,4 @@
-Ustilago cathestechi Henn. SPECIES
-=======
+# Ustilago cathestechi Henn. SPECIES
 
 #### Status
 ACCEPTED

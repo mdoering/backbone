@@ -1,5 +1,4 @@
-Amphidiniopsis korewalensis Shauna Murray & D.J. Patterson SPECIES
-=======
+# Amphidiniopsis korewalensis Shauna Murray & D.J. Patterson SPECIES
 
 #### Status
 ACCEPTED

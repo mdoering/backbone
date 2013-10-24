@@ -1,5 +1,4 @@
-Opegrapha quinqueseptata Vain. SPECIES
-=======
+# Opegrapha quinqueseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

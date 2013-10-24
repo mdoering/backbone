@@ -1,5 +1,4 @@
-Gymnopus albogriseus (Peck) Murrill SPECIES
-=======
+# Gymnopus albogriseus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

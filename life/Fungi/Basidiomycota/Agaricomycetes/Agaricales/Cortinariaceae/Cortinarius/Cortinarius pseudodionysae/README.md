@@ -1,5 +1,4 @@
-Cortinarius pseudodionysae Bidaud SPECIES
-=======
+# Cortinarius pseudodionysae Bidaud SPECIES
 
 #### Status
 ACCEPTED

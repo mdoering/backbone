@@ -1,5 +1,4 @@
-Hydnellum nigellum K.A. Harrison, 1964 SPECIES
-=======
+# Hydnellum nigellum K.A. Harrison, 1964 SPECIES
 
 #### Status
 DOUBTFUL

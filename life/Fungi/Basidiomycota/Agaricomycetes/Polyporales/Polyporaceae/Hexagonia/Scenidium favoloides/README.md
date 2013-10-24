@@ -1,5 +1,4 @@
-Scenidium favoloides (Peck) Kuntze SPECIES
-=======
+# Scenidium favoloides (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

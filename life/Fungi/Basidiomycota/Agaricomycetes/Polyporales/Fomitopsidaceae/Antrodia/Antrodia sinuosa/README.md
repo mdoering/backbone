@@ -1,17 +1,16 @@
-Polyporus sinuosus Fr., 1821 SPECIES
-=======
+# Antrodia sinuosa (Fr.) P. Karst., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 6: 10 (1881)
 
 #### Original name
-null
+Polyporus sinuosus Fr., 1821
 
 ### Remarks
 null

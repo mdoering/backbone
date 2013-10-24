@@ -1,5 +1,4 @@
-Raphidosphaera (A. Pascher) P.C. Silva, 1979 GENUS
-=======
+# Raphidosphaera (A. Pascher) P.C. Silva, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea pygmaea (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea pygmaea (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

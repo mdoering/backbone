@@ -1,17 +1,16 @@
-Lecanora bicincta var. bicincta VARIETY
-=======
+# Lecanora bicincta Ramond SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecanora bicincta var. bicincta
+Lecanora bicincta Ramond
 
 ### Remarks
 null

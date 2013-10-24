@@ -1,5 +1,4 @@
-Agrocybe autumnalis (Velen.) Kuyper SPECIES
-=======
+# Agrocybe autumnalis (Velen.) Kuyper SPECIES
 
 #### Status
 ACCEPTED

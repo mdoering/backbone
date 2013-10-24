@@ -1,5 +1,4 @@
-Sympodomyces R.K. Benj. GENUS
-=======
+# Sympodomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

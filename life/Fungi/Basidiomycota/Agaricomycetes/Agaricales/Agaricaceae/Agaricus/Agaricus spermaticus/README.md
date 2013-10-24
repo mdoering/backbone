@@ -1,5 +1,4 @@
-Agaricus spermaticus Fr. SPECIES
-=======
+# Agaricus spermaticus Fr. SPECIES
 
 #### Status
 ACCEPTED

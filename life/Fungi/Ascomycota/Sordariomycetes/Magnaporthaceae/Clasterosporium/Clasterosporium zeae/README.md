@@ -1,5 +1,4 @@
-Clasterosporium zeae Sacc. & P. Syd. SPECIES
-=======
+# Clasterosporium zeae Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

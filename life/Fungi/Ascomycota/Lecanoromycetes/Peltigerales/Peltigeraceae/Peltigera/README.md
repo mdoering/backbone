@@ -1,17 +1,16 @@
-Antilyssa Haller ex M. Choisy GENUS
-=======
+# Peltigera Willd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Lyon 74: 168 (1929)
+Fl. berol. (Berlin) 347 (1787)
 
 #### Original name
-Antilyssa Haller ex M. Choisy
+Peltigera Willd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amanita vernalis Gillet SPECIES
-=======
+# Amanita vernalis Gillet SPECIES
 
 #### Status
 ACCEPTED

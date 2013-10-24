@@ -1,5 +1,4 @@
-Krishtalia P.J. Kilochitskii GENUS
-=======
+# Krishtalia P.J. Kilochitskii GENUS
 
 #### Status
 ACCEPTED

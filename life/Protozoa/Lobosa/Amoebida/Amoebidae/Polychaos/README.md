@@ -1,5 +1,4 @@
-Polychaos Schaeffer, 1926 GENUS
-=======
+# Polychaos Schaeffer, 1926 GENUS
 
 #### Status
 ACCEPTED

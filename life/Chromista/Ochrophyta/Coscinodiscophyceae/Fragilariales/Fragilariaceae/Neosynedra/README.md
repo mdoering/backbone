@@ -1,5 +1,4 @@
-Neosynedra D.M.Williams & Round, 1986 GENUS
-=======
+# Neosynedra D.M.Williams & Round, 1986 GENUS
 
 #### Status
 ACCEPTED

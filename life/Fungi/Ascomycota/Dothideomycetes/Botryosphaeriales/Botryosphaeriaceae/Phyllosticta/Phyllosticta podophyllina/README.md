@@ -1,5 +1,4 @@
-Phyllosticta podophyllina Tehon & G.L. Stout SPECIES
-=======
+# Phyllosticta podophyllina Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

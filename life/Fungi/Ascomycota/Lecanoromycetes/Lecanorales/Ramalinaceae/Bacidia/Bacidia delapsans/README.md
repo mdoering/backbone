@@ -1,5 +1,4 @@
-Bacidia delapsans Zahlbr. SPECIES
-=======
+# Bacidia delapsans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

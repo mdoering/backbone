@@ -1,5 +1,4 @@
-Tribolites tetrastonyx W.H. Bradley SPECIES
-=======
+# Tribolites tetrastonyx W.H. Bradley SPECIES
 
 #### Status
 ACCEPTED

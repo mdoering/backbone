@@ -1,5 +1,4 @@
-Entoloma crinitum E. Horak, 1973 SPECIES
-=======
+# Entoloma crinitum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

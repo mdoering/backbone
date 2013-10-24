@@ -1,5 +1,4 @@
-Endostilbum Malençon GENUS
-=======
+# Endostilbum Malençon GENUS
 
 #### Status
 ACCEPTED

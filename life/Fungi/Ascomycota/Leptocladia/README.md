@@ -1,5 +1,4 @@
-Leptocladia GENUS
-=======
+# Leptocladia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum cinotum J.Agardh SPECIES
-=======
+# Sargassum cinotum J.Agardh SPECIES
 
 #### Status
 ACCEPTED

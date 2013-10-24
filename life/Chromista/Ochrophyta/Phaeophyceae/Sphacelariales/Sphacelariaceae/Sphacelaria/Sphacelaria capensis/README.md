@@ -1,5 +1,4 @@
-Sphacelaria capensis Kützing SPECIES
-=======
+# Sphacelaria capensis Kützing SPECIES
 
 #### Status
 ACCEPTED

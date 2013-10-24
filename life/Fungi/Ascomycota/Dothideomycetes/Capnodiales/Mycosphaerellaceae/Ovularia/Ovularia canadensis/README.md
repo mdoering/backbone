@@ -1,5 +1,4 @@
-Ovularia canadensis Henn. SPECIES
-=======
+# Ovularia canadensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosphaerina rimula (Clem.) Petr. SPECIES
-=======
+# Discosphaerina rimula (Clem.) Petr. SPECIES
 
 #### Status
 ACCEPTED

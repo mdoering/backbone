@@ -1,5 +1,4 @@
-Platycola amphoroides Sommer SPECIES
-=======
+# Platycola amphoroides Sommer SPECIES
 
 #### Status
 ACCEPTED

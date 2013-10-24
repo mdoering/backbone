@@ -1,5 +1,4 @@
-Asteridiellina GENUS
-=======
+# Asteridiellina GENUS
 
 #### Status
 ACCEPTED

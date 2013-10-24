@@ -1,5 +1,4 @@
-Cercospora cyclosori Goh & W.H. Hsieh SPECIES
-=======
+# Cercospora cyclosori Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

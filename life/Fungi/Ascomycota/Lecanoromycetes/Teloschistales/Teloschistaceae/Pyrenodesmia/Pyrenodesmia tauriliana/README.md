@@ -1,5 +1,4 @@
-Pyrenodesmia tauriliana A. Massal. SPECIES
-=======
+# Pyrenodesmia tauriliana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

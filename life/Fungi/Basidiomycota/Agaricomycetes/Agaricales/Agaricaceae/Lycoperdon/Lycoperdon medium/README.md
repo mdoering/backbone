@@ -1,5 +1,4 @@
-Lycoperdon medium Vaill. SPECIES
-=======
+# Lycoperdon medium Vaill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella glycosmae Tracy & Earle SPECIES
-=======
+# Mycosphaerella glycosmae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

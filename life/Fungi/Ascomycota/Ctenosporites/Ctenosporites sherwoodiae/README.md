@@ -1,5 +1,4 @@
-Ctenosporites sherwoodiae Kalgutkar & Janson. SPECIES
-=======
+# Ctenosporites sherwoodiae Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

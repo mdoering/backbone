@@ -1,5 +1,4 @@
-Gaudryina reussi Hantken SPECIES
-=======
+# Gaudryina reussi Hantken SPECIES
 
 #### Status
 ACCEPTED

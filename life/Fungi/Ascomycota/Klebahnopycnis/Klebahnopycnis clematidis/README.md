@@ -1,5 +1,4 @@
-Klebahnopycnis clematidis Kirschst. SPECIES
-=======
+# Klebahnopycnis clematidis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

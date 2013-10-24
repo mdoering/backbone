@@ -1,8 +1,7 @@
-Malcolmiella badimioides M. Cáceres & Lücking SPECIES
-=======
+# Malmidea badimioides (M. Cáceres & Lücking) M. Cáceres & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

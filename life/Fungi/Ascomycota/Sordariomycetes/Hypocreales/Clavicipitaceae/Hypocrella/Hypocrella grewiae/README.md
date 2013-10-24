@@ -1,5 +1,4 @@
-Hypocrella grewiae Koord. SPECIES
-=======
+# Hypocrella grewiae Koord. SPECIES
 
 #### Status
 ACCEPTED

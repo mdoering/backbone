@@ -1,5 +1,4 @@
-Uromyces bothriochloae-intermediae Gorlenko SPECIES
-=======
+# Uromyces bothriochloae-intermediae Gorlenko SPECIES
 
 #### Status
 ACCEPTED

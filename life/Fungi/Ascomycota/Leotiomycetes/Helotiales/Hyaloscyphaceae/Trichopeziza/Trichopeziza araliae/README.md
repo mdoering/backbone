@@ -1,5 +1,4 @@
-Trichopeziza araliae Raitv. SPECIES
-=======
+# Trichopeziza araliae Raitv. SPECIES
 
 #### Status
 ACCEPTED

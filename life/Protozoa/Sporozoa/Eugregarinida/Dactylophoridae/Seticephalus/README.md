@@ -1,5 +1,4 @@
-Seticephalus Kamm, 1922 GENUS
-=======
+# Seticephalus Kamm, 1922 GENUS
 
 #### Status
 ACCEPTED

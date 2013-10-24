@@ -1,5 +1,4 @@
-Cyrtohymena australis Foissner, 1995 SPECIES
-=======
+# Cyrtohymena australis Foissner, 1995 SPECIES
 
 #### Status
 ACCEPTED

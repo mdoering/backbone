@@ -1,5 +1,4 @@
-Anoxybacillus ayderensis Dulger et al., 2004 SPECIES
-=======
+# Anoxybacillus ayderensis Dulger et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

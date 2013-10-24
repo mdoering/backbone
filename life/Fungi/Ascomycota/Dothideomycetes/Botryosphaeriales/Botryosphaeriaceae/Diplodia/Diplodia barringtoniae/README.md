@@ -1,5 +1,4 @@
-Diplodia barringtoniae Tassi SPECIES
-=======
+# Diplodia barringtoniae Tassi SPECIES
 
 #### Status
 ACCEPTED

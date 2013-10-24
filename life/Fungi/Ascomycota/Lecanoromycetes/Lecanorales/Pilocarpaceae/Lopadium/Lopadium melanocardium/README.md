@@ -1,5 +1,4 @@
-Lopadium melanocardium SPECIES
-=======
+# Lopadium melanocardium SPECIES
 
 #### Status
 ACCEPTED

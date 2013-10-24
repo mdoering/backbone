@@ -1,5 +1,4 @@
-Sphaerisporangium Ara & Kudo, 2007 GENUS
-=======
+# Sphaerisporangium Ara & Kudo, 2007 GENUS
 
 #### Status
 ACCEPTED

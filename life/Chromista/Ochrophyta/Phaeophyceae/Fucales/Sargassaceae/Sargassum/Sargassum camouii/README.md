@@ -1,5 +1,4 @@
-Sargassum camouii E.Y. Dawson SPECIES
-=======
+# Sargassum camouii E.Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

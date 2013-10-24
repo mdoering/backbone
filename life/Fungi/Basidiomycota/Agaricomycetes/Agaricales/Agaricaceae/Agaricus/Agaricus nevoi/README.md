@@ -1,5 +1,4 @@
-Agaricus nevoi Wasser SPECIES
-=======
+# Agaricus nevoi Wasser SPECIES
 
 #### Status
 ACCEPTED

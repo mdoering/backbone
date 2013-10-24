@@ -1,5 +1,4 @@
-Sparassis latifolia Y.C. Dai & Zheng Wang, 2006 SPECIES
-=======
+# Sparassis latifolia Y.C. Dai & Zheng Wang, 2006 SPECIES
 
 #### Status
 ACCEPTED

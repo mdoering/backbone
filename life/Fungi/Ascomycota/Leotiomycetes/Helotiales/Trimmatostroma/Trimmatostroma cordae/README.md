@@ -1,17 +1,16 @@
-Trimmatostroma cordaicis N.D. Sharma & S.R. Singh SPECIES
-=======
+# Trimmatostroma cordae N.D. Sharma & S.R. Singh, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Sci. 45(8): 303 (1976)
 
 #### Original name
-Trimmatostroma cordaicis N.D. Sharma & S.R. Singh
+Trimmatostroma cordae N.D. Sharma & S.R. Singh, 1976
 
 ### Remarks
 null

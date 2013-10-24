@@ -1,5 +1,4 @@
-Psiloparmelia salazinica Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia salazinica Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

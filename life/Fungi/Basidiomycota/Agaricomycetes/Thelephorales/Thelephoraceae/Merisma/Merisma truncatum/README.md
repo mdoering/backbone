@@ -1,5 +1,4 @@
-Merisma truncatum Corda SPECIES
-=======
+# Merisma truncatum Corda SPECIES
 
 #### Status
 ACCEPTED

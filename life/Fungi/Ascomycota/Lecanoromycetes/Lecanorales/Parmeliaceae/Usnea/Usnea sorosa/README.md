@@ -1,5 +1,4 @@
-Usnea sorosa Motyka SPECIES
-=======
+# Usnea sorosa Motyka SPECIES
 
 #### Status
 ACCEPTED

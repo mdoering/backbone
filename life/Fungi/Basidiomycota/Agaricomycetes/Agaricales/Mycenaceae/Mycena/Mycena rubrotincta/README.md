@@ -1,5 +1,4 @@
-Mycena rubrotincta A.H. Sm. SPECIES
-=======
+# Mycena rubrotincta A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonosporina Tassi GENUS
-=======
+# Stagonosporina Tassi GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria nobilis Schwein. SPECIES
-=======
+# Sphaeria nobilis Schwein. SPECIES
 
 #### Status
 ACCEPTED

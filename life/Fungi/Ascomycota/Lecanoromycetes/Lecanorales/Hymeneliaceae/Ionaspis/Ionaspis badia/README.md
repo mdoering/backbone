@@ -1,5 +1,4 @@
-Ionaspis badia Groenh. SPECIES
-=======
+# Ionaspis badia Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia laminariana G.K. Sutherl. SPECIES
-=======
+# Diplodia laminariana G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

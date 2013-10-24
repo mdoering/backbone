@@ -1,5 +1,4 @@
-Meliola holarrhenae-pubescens Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Meliola holarrhenae-pubescens Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

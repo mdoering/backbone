@@ -1,5 +1,4 @@
-Exidia avellanea Bres. SPECIES
-=======
+# Exidia avellanea Bres. SPECIES
 
 #### Status
 ACCEPTED

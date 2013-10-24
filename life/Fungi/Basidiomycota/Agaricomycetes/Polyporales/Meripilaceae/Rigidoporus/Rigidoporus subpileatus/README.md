@@ -1,5 +1,4 @@
-Rigidoporus subpileatus Corner, 1987 SPECIES
-=======
+# Rigidoporus subpileatus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

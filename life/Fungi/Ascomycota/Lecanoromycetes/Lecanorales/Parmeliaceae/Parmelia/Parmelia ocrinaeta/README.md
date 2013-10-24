@@ -1,5 +1,4 @@
-Parmelia ocrinaeta (Ach.) Spreng. SPECIES
-=======
+# Parmelia ocrinaeta (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

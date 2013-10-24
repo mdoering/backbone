@@ -1,5 +1,4 @@
-Phyllosticta onosmae Vasyag. SPECIES
-=======
+# Phyllosticta onosmae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

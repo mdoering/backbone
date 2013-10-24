@@ -1,8 +1,7 @@
-Contorticorpa GENUS
-=======
+# Contoriocorpa Bhatia & Setna, 1938 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

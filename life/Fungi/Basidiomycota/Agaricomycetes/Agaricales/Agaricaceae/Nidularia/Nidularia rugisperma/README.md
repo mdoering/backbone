@@ -1,5 +1,4 @@
-Nidularia rugisperma Schwein. SPECIES
-=======
+# Nidularia rugisperma Schwein. SPECIES
 
 #### Status
 ACCEPTED

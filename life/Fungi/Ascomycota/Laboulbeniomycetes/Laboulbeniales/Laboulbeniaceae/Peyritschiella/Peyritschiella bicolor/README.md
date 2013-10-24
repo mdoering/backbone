@@ -1,5 +1,4 @@
-Peyritschiella bicolor (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella bicolor (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

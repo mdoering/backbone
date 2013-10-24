@@ -1,5 +1,4 @@
-Meliola linocierae Syd. & P. Syd. SPECIES
-=======
+# Meliola linocierae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

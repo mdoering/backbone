@@ -1,5 +1,4 @@
-Lecidea macrospora Lynge SPECIES
-=======
+# Lecidea macrospora Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa leucostroma (Mont.) Sacc. SPECIES
-=======
+# Eutypa leucostroma (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

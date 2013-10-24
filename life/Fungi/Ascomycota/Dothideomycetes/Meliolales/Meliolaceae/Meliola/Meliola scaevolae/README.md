@@ -1,5 +1,4 @@
-Meliola scaevolae Syd. & P. Syd. SPECIES
-=======
+# Meliola scaevolae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

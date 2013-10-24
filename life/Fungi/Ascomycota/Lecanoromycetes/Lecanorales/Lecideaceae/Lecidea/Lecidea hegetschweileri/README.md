@@ -1,5 +1,4 @@
-Lecidea hegetschweileri Hepp SPECIES
-=======
+# Lecidea hegetschweileri Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas pulchella Drezepolski SPECIES
-=======
+# Trachelomonas pulchella Drezepolski SPECIES
 
 #### Status
 ACCEPTED

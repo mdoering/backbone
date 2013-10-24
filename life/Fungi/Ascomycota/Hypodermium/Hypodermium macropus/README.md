@@ -1,5 +1,4 @@
-Hypodermium macropus Link SPECIES
-=======
+# Hypodermium macropus Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyrhizon fernandoi Bat. & Peres SPECIES
-=======
+# Polyrhizon fernandoi Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

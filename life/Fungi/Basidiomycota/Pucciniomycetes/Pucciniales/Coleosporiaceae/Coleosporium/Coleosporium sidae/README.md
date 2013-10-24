@@ -1,5 +1,4 @@
-Coleosporium sidae Sanwal SPECIES
-=======
+# Coleosporium sidae Sanwal SPECIES
 
 #### Status
 ACCEPTED

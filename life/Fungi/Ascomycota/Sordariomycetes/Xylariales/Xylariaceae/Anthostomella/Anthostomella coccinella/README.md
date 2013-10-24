@@ -1,5 +1,4 @@
-Anthostomella coccinella P. Karst. SPECIES
-=======
+# Anthostomella coccinella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

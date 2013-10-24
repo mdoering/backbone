@@ -1,5 +1,4 @@
-Bursulla Sorokin GENUS
-=======
+# Bursulla Sorokin GENUS
 
 #### Status
 ACCEPTED

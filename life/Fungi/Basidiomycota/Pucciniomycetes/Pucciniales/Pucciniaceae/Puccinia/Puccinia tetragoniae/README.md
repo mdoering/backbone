@@ -1,5 +1,4 @@
-Puccinia tetragoniae McAlpine SPECIES
-=======
+# Puccinia tetragoniae McAlpine SPECIES
 
 #### Status
 ACCEPTED

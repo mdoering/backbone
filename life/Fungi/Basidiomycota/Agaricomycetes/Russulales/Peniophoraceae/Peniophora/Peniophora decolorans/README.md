@@ -1,5 +1,4 @@
-Peniophora decolorans Rick SPECIES
-=======
+# Peniophora decolorans Rick SPECIES
 
 #### Status
 ACCEPTED

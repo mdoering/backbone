@@ -1,5 +1,4 @@
-Lucianorhabdoites cruciatus Chongyou Wang SPECIES
-=======
+# Lucianorhabdoites cruciatus Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

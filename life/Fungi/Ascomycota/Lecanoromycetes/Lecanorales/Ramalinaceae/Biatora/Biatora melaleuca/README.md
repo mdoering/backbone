@@ -1,5 +1,4 @@
-Biatora melaleuca Tuck. SPECIES
-=======
+# Biatora melaleuca Tuck. SPECIES
 
 #### Status
 ACCEPTED

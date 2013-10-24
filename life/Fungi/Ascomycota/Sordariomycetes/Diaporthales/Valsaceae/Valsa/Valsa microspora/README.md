@@ -1,5 +1,4 @@
-Valsa microspora (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Valsa microspora (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

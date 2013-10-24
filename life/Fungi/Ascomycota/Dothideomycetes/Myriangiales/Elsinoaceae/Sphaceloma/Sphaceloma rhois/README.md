@@ -1,5 +1,4 @@
-Sphaceloma rhois Bitanc. & Jenkins, 1940 SPECIES
-=======
+# Sphaceloma rhois Bitanc. & Jenkins, 1940 SPECIES
 
 #### Status
 ACCEPTED

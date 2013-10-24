@@ -1,5 +1,4 @@
-Ptechetelium Oberw. & Bandoni GENUS
-=======
+# Ptechetelium Oberw. & Bandoni GENUS
 
 #### Status
 ACCEPTED

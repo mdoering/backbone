@@ -1,14 +1,13 @@
-Arcangeliella caudata Zeller & C.W. Dodge, 1919 SPECIES
-=======
+# Chamonixia caudata (Zeller & C.W. Dodge) A.H. Sm. & Singer, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 6: 49 (1919)
+Brittonia 11: 217 (1959)
 
 #### Original name
 Arcangeliella caudata Zeller & C.W. Dodge, 1919

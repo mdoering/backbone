@@ -1,5 +1,4 @@
-Coronocyclus serratus Hay, Mohler & Wade, 1966 SPECIES
-=======
+# Coronocyclus serratus Hay, Mohler & Wade, 1966 SPECIES
 
 #### Status
 ACCEPTED

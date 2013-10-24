@@ -1,5 +1,4 @@
-Lepiota luteocephalata Beeli SPECIES
-=======
+# Lepiota luteocephalata Beeli SPECIES
 
 #### Status
 ACCEPTED

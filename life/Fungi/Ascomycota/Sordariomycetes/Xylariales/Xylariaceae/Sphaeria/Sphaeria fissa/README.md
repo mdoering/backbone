@@ -1,5 +1,4 @@
-Sphaeria fissa Pers. SPECIES
-=======
+# Sphaeria fissa Pers. SPECIES
 
 #### Status
 ACCEPTED

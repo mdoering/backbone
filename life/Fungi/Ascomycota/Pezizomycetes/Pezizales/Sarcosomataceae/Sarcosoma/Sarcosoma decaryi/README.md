@@ -1,5 +1,4 @@
-Sarcosoma decaryi Pat. SPECIES
-=======
+# Sarcosoma decaryi Pat. SPECIES
 
 #### Status
 ACCEPTED

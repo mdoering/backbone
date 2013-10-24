@@ -1,5 +1,4 @@
-Physalospora villaresiae Gutner SPECIES
-=======
+# Physalospora villaresiae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota araucariicola A.B. Pereira SPECIES
-=======
+# Lepiota araucariicola A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

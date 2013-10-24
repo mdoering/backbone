@@ -1,14 +1,13 @@
-Pezizella flaveola (Cooke) Sacc., 1889 SPECIES
-=======
+# Hyaloscypha flaveola (Cooke) Nannf., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 288 (1889)
+Trans. Br. mycol. Soc. 23: 252 (1939)
 
 #### Original name
 null

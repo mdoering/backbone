@@ -1,5 +1,4 @@
-Cercosporella podospermi Hollós SPECIES
-=======
+# Cercosporella podospermi Hollós SPECIES
 
 #### Status
 ACCEPTED

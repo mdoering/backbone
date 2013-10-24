@@ -1,5 +1,4 @@
-Lepista subisabellina (Murrill) Pegler SPECIES
-=======
+# Lepista subisabellina (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

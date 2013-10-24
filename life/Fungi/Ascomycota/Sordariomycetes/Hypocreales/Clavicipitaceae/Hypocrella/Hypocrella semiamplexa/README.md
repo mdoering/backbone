@@ -1,5 +1,4 @@
-Hypocrella semiamplexa (Berk.) Sacc. SPECIES
-=======
+# Hypocrella semiamplexa (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalographa GENUS
-=======
+# Megalographa GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium filamentosum Peck SPECIES
-=======
+# Peridermium filamentosum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridioides GENUS
-=======
+# Chytridioides GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascoseirophila A.F.Peters, 2003 GENUS
-=======
+# Ascoseirophila A.F.Peters, 2003 GENUS
 
 #### Status
 ACCEPTED

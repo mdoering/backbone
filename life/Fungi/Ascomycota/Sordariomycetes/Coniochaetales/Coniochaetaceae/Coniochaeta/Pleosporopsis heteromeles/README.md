@@ -1,5 +1,4 @@
-Pleosporopsis heteromeles Cooke & Harkn. SPECIES
-=======
+# Pleosporopsis heteromeles Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

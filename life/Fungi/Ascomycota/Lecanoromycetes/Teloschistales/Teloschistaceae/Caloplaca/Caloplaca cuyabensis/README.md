@@ -1,5 +1,4 @@
-Caloplaca cuyabensis (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca cuyabensis (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces violaceoruber Waksman & Curtis {?} SPECIES
-=======
+# Actinomyces violaceoruber Waksman & Curtis {?} SPECIES
 
 #### Status
 ACCEPTED

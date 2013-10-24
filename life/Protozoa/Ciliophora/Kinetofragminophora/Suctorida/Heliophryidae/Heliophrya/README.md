@@ -1,5 +1,4 @@
-Heliophrya Saedeleer & Tellier, 1933 GENUS
-=======
+# Heliophrya Saedeleer & Tellier, 1933 GENUS
 
 #### Status
 ACCEPTED

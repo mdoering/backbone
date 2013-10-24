@@ -1,5 +1,4 @@
-Thielavia renominata Paclt SPECIES
-=======
+# Thielavia renominata Paclt SPECIES
 
 #### Status
 ACCEPTED

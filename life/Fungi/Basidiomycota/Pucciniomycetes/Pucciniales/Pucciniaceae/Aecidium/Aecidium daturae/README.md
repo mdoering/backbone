@@ -1,5 +1,4 @@
-Aecidium daturae F. Kern & Thurst. SPECIES
-=======
+# Aecidium daturae F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

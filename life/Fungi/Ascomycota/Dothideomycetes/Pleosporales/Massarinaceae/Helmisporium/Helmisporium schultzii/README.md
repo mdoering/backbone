@@ -1,5 +1,4 @@
-Helmisporium schultzii Brond. SPECIES
-=======
+# Helmisporium schultzii Brond. SPECIES
 
 #### Status
 ACCEPTED

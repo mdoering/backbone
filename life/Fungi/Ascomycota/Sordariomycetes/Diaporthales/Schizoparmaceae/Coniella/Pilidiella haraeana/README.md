@@ -1,5 +1,4 @@
-Pilidiella haraeana Syd. SPECIES
-=======
+# Pilidiella haraeana Syd. SPECIES
 
 #### Status
 ACCEPTED

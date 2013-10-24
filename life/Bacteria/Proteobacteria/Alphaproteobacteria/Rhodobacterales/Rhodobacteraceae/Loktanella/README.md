@@ -1,5 +1,4 @@
-Loktanella Van Trappen et al., 2004 GENUS
-=======
+# Loktanella Van Trappen et al., 2004 GENUS
 
 #### Status
 ACCEPTED

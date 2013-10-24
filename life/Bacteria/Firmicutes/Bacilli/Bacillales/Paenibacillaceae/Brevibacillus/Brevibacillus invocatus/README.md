@@ -1,5 +1,4 @@
-Brevibacillus invocatus Logan et al., 2002 SPECIES
-=======
+# Brevibacillus invocatus Logan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria hermanniae Tassi SPECIES
-=======
+# Septoria hermanniae Tassi SPECIES
 
 #### Status
 ACCEPTED

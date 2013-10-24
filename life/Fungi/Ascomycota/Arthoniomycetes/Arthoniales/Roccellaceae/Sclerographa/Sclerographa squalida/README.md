@@ -1,5 +1,4 @@
-Sclerographa squalida Erichsen SPECIES
-=======
+# Sclerographa squalida Erichsen SPECIES
 
 #### Status
 ACCEPTED

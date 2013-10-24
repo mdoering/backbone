@@ -1,14 +1,13 @@
-Neottiospora yuccifolia J.G. Hall, 1915 SPECIES
-=======
+# Alpakesa yuccifolia (J.G. Hall) Subram. & K. Ramakr., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 5: 57 (1915)
+J. Indian bot. Soc. 33: 205 (1954)
 
 #### Original name
 Neottiospora yuccifolia J.G. Hall, 1915

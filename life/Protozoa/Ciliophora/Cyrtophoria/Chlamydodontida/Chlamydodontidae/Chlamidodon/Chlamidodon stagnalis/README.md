@@ -1,5 +1,4 @@
-Chlamidodon stagnalis SPECIES
-=======
+# Chlamidodon stagnalis SPECIES
 
 #### Status
 ACCEPTED

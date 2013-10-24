@@ -1,5 +1,4 @@
-Verrucaria eggerthii var. eggerthii VARIETY
-=======
+# Verrucaria eggerthii J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria eggerthii var. eggerthii
+Verrucaria eggerthii J. Steiner
 
 ### Remarks
 null

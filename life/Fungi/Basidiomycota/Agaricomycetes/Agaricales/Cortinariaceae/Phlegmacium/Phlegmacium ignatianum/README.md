@@ -1,5 +1,4 @@
-Phlegmacium ignatianum Rick SPECIES
-=======
+# Phlegmacium ignatianum Rick SPECIES
 
 #### Status
 ACCEPTED

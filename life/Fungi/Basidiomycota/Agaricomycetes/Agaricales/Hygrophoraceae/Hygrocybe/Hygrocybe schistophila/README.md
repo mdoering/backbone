@@ -1,5 +1,4 @@
-Hygrocybe schistophila A.M. Young SPECIES
-=======
+# Hygrocybe schistophila A.M. Young SPECIES
 
 #### Status
 ACCEPTED

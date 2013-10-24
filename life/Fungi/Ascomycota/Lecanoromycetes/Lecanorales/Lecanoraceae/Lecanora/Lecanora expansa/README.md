@@ -1,5 +1,4 @@
-Lecanora expansa (Ach.) Motyka SPECIES
-=======
+# Lecanora expansa (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

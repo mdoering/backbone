@@ -1,5 +1,4 @@
-Procabacteriales ORDER
-=======
+# Procabacteriales ORDER
 
 #### Status
 ACCEPTED

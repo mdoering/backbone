@@ -1,5 +1,4 @@
-Dothiorella chenopodii S. Ahmad SPECIES
-=======
+# Dothiorella chenopodii S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

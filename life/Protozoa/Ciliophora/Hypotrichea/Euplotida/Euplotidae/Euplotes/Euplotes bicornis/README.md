@@ -1,5 +1,4 @@
-Euplotes bicornis Dumas, 1929 SPECIES
-=======
+# Euplotes bicornis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

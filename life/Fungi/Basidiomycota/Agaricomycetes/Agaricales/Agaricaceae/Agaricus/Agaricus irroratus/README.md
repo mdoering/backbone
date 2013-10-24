@@ -1,5 +1,4 @@
-Agaricus irroratus Schumach. SPECIES
-=======
+# Agaricus irroratus Schumach. SPECIES
 
 #### Status
 ACCEPTED

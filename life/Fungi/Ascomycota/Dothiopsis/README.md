@@ -1,5 +1,4 @@
-Dothiopsis P. Karst. GENUS
-=======
+# Dothiopsis P. Karst. GENUS
 
 #### Status
 ACCEPTED

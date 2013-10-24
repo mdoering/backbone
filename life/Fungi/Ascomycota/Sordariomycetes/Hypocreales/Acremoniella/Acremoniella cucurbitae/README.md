@@ -1,5 +1,4 @@
-Acremoniella cucurbitae Schulzer & Sacc. SPECIES
-=======
+# Acremoniella cucurbitae Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

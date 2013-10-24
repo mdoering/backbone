@@ -1,5 +1,4 @@
-Amanita walpolei O.K. Mill. SPECIES
-=======
+# Amanita walpolei O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

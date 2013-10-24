@@ -1,5 +1,4 @@
-Puccinia berberidis-darwinii H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia berberidis-darwinii H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

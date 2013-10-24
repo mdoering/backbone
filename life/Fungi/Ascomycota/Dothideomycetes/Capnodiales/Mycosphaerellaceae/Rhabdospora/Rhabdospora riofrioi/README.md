@@ -1,5 +1,4 @@
-Rhabdospora riofrioi Gonz. Frag. SPECIES
-=======
+# Rhabdospora riofrioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

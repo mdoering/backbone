@@ -1,5 +1,4 @@
-Clonostachys levigata Schroers SPECIES
-=======
+# Clonostachys levigata Schroers SPECIES
 
 #### Status
 ACCEPTED

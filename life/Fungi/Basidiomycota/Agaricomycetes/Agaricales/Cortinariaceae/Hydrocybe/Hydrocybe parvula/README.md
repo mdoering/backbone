@@ -1,5 +1,4 @@
-Hydrocybe parvula (Peck) Murrill SPECIES
-=======
+# Hydrocybe parvula (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

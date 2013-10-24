@@ -1,5 +1,4 @@
-Pyrenula aurantiaca Fée SPECIES
-=======
+# Pyrenula aurantiaca Fée SPECIES
 
 #### Status
 ACCEPTED

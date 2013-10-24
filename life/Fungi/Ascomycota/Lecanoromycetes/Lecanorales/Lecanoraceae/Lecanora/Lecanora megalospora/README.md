@@ -1,5 +1,4 @@
-Lecanora megalospora Hue SPECIES
-=======
+# Lecanora megalospora Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lysurus sulcatus (Cooke & Massee) G. Cunn. SPECIES
-=======
+# Lysurus sulcatus (Cooke & Massee) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

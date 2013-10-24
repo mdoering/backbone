@@ -1,5 +1,4 @@
-Septoria sordidula (Lév.) Sacc. SPECIES
-=======
+# Septoria sordidula (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

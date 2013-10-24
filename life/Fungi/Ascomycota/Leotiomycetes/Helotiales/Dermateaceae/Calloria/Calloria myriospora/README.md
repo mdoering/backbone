@@ -1,5 +1,4 @@
-Calloria myriospora W. Phillips & Harkn. SPECIES
-=======
+# Calloria myriospora W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

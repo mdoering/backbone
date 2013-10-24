@@ -1,5 +1,4 @@
-Thelidium athallinum Servít SPECIES
-=======
+# Thelidium athallinum Servít SPECIES
 
 #### Status
 ACCEPTED

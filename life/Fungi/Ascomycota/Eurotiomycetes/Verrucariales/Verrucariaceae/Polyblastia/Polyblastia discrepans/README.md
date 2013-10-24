@@ -1,5 +1,4 @@
-Polyblastia discrepans f. discrepans FORM
-=======
+# Polyblastia discrepans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia discrepans f. discrepans
+null
 
 ### Remarks
 null

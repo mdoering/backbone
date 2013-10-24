@@ -1,5 +1,4 @@
-Parmeliella imbricatula (Müll. Arg.) P.M. Jørg. SPECIES
-=======
+# Parmeliella imbricatula (Müll. Arg.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

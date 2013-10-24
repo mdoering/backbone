@@ -1,5 +1,4 @@
-Pluteus atropungens A.H. Sm. & Bartelli SPECIES
-=======
+# Pluteus atropungens A.H. Sm. & Bartelli SPECIES
 
 #### Status
 ACCEPTED

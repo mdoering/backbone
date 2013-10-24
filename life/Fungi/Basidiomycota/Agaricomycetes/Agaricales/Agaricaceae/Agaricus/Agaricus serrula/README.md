@@ -1,5 +1,4 @@
-Agaricus serrula Pers. SPECIES
-=======
+# Agaricus serrula Pers. SPECIES
 
 #### Status
 ACCEPTED

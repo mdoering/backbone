@@ -1,5 +1,4 @@
-Phillipsia polyporoides Berk. SPECIES
-=======
+# Phillipsia polyporoides Berk. SPECIES
 
 #### Status
 ACCEPTED

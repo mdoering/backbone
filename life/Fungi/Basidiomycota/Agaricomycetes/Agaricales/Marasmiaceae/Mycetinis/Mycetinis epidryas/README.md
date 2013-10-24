@@ -1,14 +1,13 @@
-Marasmius epidryas Kühner, 1936 SPECIES
-=======
+# Mycetinis epidryas (Kühner) Antonín & Noordel., 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Lyon 79: 115 (1936)
+Czech Mycol. 60(1): 26 (2008)
 
 #### Original name
 Marasmius epidryas Kühner, 1936

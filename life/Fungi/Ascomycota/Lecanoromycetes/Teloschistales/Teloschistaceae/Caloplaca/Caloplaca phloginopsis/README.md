@@ -1,5 +1,4 @@
-Caloplaca phloginopsis Poelt & Hinter. SPECIES
-=======
+# Caloplaca phloginopsis Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

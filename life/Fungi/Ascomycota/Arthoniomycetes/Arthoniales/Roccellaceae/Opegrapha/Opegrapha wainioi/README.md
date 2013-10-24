@@ -1,5 +1,4 @@
-Opegrapha wainioi Zahlbr. SPECIES
-=======
+# Opegrapha wainioi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

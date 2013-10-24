@@ -1,5 +1,4 @@
-Laschia rosea (Henn.) Sacc. SPECIES
-=======
+# Laschia rosea (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

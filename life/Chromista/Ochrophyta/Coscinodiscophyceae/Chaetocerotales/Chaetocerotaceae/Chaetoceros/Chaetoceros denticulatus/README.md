@@ -1,5 +1,4 @@
-Chaetoceros denticulatus Lauder SPECIES
-=======
+# Chaetoceros denticulatus Lauder SPECIES
 
 #### Status
 ACCEPTED

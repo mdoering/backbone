@@ -1,5 +1,4 @@
-Anthostomella sphaeroidea Speg. SPECIES
-=======
+# Anthostomella sphaeroidea Speg. SPECIES
 
 #### Status
 ACCEPTED

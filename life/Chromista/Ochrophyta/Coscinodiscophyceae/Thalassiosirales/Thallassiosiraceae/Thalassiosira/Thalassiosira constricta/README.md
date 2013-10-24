@@ -1,5 +1,4 @@
-Thalassiosira constricta Gaarder, 1938 SPECIES
-=======
+# Thalassiosira constricta Gaarder, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagarobasidium cymosum (D.P. Rogers & H.S. Jacks.) Jülich SPECIES
-=======
+# Lagarobasidium cymosum (D.P. Rogers & H.S. Jacks.) Jülich SPECIES
 
 #### Status
 ACCEPTED

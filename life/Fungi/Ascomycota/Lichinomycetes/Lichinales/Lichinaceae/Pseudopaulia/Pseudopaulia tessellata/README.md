@@ -1,5 +1,4 @@
-Pseudopaulia tessellata M. Schultz SPECIES
-=======
+# Pseudopaulia tessellata M. Schultz SPECIES
 
 #### Status
 ACCEPTED

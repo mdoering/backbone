@@ -1,5 +1,4 @@
-Setchelliogaster Pouzar GENUS
-=======
+# Setchelliogaster Pouzar GENUS
 
 #### Status
 ACCEPTED

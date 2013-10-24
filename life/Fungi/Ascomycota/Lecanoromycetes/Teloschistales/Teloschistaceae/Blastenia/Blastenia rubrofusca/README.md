@@ -1,5 +1,4 @@
-Blastenia rubrofusca B. de Lesd. SPECIES
-=======
+# Blastenia rubrofusca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

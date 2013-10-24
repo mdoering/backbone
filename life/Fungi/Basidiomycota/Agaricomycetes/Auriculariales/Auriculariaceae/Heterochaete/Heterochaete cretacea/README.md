@@ -1,5 +1,4 @@
-Heterochaete cretacea Pat. SPECIES
-=======
+# Heterochaete cretacea Pat. SPECIES
 
 #### Status
 ACCEPTED

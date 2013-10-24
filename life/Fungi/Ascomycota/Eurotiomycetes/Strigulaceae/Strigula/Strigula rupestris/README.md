@@ -1,5 +1,4 @@
-Strigula rupestris P. M. McCarthy SPECIES
-=======
+# Strigula rupestris P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

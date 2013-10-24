@@ -1,5 +1,4 @@
-Lecanora tingitana Werner SPECIES
-=======
+# Lecanora tingitana Werner SPECIES
 
 #### Status
 ACCEPTED

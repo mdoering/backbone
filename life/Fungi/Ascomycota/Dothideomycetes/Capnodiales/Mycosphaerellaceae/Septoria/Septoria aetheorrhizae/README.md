@@ -1,5 +1,4 @@
-Septoria aetheorrhizae Thüm. SPECIES
-=======
+# Septoria aetheorrhizae Thüm. SPECIES
 
 #### Status
 ACCEPTED

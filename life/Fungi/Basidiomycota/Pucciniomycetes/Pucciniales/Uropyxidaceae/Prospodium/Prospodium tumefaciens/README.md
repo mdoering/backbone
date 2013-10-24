@@ -1,5 +1,4 @@
-Prospodium tumefaciens J.C. Lindq. SPECIES
-=======
+# Prospodium tumefaciens J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

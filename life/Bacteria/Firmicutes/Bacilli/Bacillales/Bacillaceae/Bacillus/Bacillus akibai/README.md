@@ -1,5 +1,4 @@
-Bacillus akibai Nogi et al., 2005 SPECIES
-=======
+# Bacillus akibai Nogi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoriella mexicana Sacc. SPECIES
-=======
+# Septoriella mexicana Sacc. SPECIES
 
 #### Status
 ACCEPTED

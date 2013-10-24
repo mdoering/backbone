@@ -1,5 +1,4 @@
-Rhizomorpha friesii Ach. SPECIES
-=======
+# Rhizomorpha friesii Ach. SPECIES
 
 #### Status
 ACCEPTED

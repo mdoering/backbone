@@ -1,5 +1,4 @@
-Platypleura infundibuliformis (Leadbeater, 1974) Thomsen in Thomsen & Boonruang, 1983 SPECIES
-=======
+# Platypleura infundibuliformis (Leadbeater, 1974) Thomsen in Thomsen & Boonruang, 1983 SPECIES
 
 #### Status
 ACCEPTED

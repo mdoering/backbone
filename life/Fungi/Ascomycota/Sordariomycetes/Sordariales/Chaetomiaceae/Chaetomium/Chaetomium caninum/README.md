@@ -1,5 +1,4 @@
-Chaetomium caninum Ellis & Everh. SPECIES
-=======
+# Chaetomium caninum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

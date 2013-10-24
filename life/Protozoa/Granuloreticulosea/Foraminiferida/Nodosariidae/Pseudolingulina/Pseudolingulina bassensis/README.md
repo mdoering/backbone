@@ -1,5 +1,4 @@
-Pseudolingulina bassensis (Parr, 1950) SPECIES
-=======
+# Pseudolingulina bassensis (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

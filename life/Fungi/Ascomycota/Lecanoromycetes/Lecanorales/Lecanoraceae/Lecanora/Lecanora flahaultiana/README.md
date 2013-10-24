@@ -1,5 +1,4 @@
-Lecanora flahaultiana Hue SPECIES
-=======
+# Lecanora flahaultiana Hue SPECIES
 
 #### Status
 ACCEPTED

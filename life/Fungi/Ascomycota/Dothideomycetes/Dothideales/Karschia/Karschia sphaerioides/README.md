@@ -1,5 +1,4 @@
-Karschia sphaerioides Ellis & Everh. SPECIES
-=======
+# Karschia sphaerioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

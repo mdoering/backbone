@@ -1,5 +1,4 @@
-Miliolinella chaoyii Huang SPECIES
-=======
+# Miliolinella chaoyii Huang SPECIES
 
 #### Status
 ACCEPTED

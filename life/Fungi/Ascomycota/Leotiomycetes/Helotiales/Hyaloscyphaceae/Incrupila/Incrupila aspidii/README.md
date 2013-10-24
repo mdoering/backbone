@@ -1,14 +1,13 @@
-Incrupila aspidii var. aspidii VARIETY
-=======
+# Incrupila aspidii (Lib.) Raitv., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 31 (1970)
 
 #### Original name
 null

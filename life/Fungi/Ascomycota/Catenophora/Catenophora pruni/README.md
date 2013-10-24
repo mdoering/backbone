@@ -1,5 +1,4 @@
-Catenophora pruni Luttr., 1940 SPECIES
-=======
+# Catenophora pruni Luttr., 1940 SPECIES
 
 #### Status
 ACCEPTED

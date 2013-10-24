@@ -1,5 +1,4 @@
-Cercosporula corticola G. Arnaud, 1954 SPECIES
-=======
+# Cercosporula corticola G. Arnaud, 1954 SPECIES
 
 #### Status
 ACCEPTED

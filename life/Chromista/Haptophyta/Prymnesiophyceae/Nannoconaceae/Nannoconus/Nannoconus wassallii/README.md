@@ -1,5 +1,4 @@
-Nannoconus wassallii Bronnimann, 1955 SPECIES
-=======
+# Nannoconus wassallii Bronnimann, 1955 SPECIES
 
 #### Status
 ACCEPTED

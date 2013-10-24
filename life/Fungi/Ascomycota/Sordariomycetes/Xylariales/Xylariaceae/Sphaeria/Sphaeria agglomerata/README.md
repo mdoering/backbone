@@ -1,5 +1,4 @@
-Sphaeria agglomerata Pers. ex Fr. SPECIES
-=======
+# Sphaeria agglomerata Pers. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

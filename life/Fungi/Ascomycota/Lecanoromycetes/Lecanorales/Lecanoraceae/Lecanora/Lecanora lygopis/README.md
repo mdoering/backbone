@@ -1,5 +1,4 @@
-Lecanora lygopis Nyl. SPECIES
-=======
+# Lecanora lygopis Nyl. SPECIES
 
 #### Status
 ACCEPTED

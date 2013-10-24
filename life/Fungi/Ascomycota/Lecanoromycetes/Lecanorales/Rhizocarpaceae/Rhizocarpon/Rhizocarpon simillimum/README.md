@@ -1,14 +1,13 @@
-Lecidea simillima (Anzi) Stizenb. SPECIES
-=======
+# Rhizocarpon simillimum (Anzi) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 52: 156 (1912)
 
 #### Original name
 Buellia simillima Anzi

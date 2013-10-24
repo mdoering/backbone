@@ -1,5 +1,4 @@
-Epithyrium gleditschiae (Casali) Sacc. & Trotter SPECIES
-=======
+# Epithyrium gleditschiae (Casali) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

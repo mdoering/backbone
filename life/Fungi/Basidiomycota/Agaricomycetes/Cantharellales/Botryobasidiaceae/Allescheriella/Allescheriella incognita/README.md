@@ -1,5 +1,4 @@
-Allescheriella incognita Bat. & H. Maia SPECIES
-=======
+# Allescheriella incognita Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

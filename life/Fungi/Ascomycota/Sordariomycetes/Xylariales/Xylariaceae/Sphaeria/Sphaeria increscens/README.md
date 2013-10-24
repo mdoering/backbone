@@ -1,5 +1,4 @@
-Sphaeria increscens A. Braun SPECIES
-=======
+# Sphaeria increscens A. Braun SPECIES
 
 #### Status
 ACCEPTED

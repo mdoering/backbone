@@ -1,5 +1,4 @@
-Chlorophyllum subfulvidiscum (Murrill) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum subfulvidiscum (Murrill) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cuspidaticola B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta cuspidaticola B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella coralloderma D.A. Reid SPECIES
-=======
+# Cyphella coralloderma D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula lanosa Svilv. SPECIES
-=======
+# Torula lanosa Svilv. SPECIES
 
 #### Status
 ACCEPTED

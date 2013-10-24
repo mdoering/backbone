@@ -1,5 +1,4 @@
-Lecidea termitophila Malme SPECIES
-=======
+# Lecidea termitophila Malme SPECIES
 
 #### Status
 ACCEPTED

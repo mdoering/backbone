@@ -1,5 +1,4 @@
-Mycosphaerella aristolochiae Syd. SPECIES
-=======
+# Mycosphaerella aristolochiae Syd. SPECIES
 
 #### Status
 ACCEPTED

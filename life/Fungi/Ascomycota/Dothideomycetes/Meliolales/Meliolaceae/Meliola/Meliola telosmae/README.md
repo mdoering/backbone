@@ -1,5 +1,4 @@
-Meliola telosmae var. telosmae VARIETY
-=======
+# Meliola telosmae Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 9: 50 (1955)
 
 #### Original name
-Meliola telosmae var. telosmae
+Meliola telosmae Rehm
 
 ### Remarks
 null

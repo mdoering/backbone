@@ -1,5 +1,4 @@
-Protozonosphaeridium Timofeev, 1963 GENUS
-=======
+# Protozonosphaeridium Timofeev, 1963 GENUS
 
 #### Status
 ACCEPTED

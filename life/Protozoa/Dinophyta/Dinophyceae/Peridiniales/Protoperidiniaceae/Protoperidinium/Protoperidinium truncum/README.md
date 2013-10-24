@@ -1,5 +1,4 @@
-Protoperidinium truncum (Abé, 1936) Balec, 1974 SPECIES
-=======
+# Protoperidinium truncum (Abé, 1936) Balec, 1974 SPECIES
 
 #### Status
 ACCEPTED

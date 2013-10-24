@@ -1,5 +1,4 @@
-Meliola cinnamodendri J.A. Stev. SPECIES
-=======
+# Meliola cinnamodendri J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

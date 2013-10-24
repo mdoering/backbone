@@ -1,5 +1,4 @@
-Astrosporina pusillimia SPECIES
-=======
+# Astrosporina pusillimia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria punctella Nyl. SPECIES
-=======
+# Verrucaria punctella Nyl. SPECIES
 
 #### Status
 ACCEPTED

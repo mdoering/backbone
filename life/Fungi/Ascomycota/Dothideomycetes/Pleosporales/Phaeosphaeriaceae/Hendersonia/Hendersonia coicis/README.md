@@ -1,5 +1,4 @@
-Hendersonia coicis Sacc. SPECIES
-=======
+# Hendersonia coicis Sacc. SPECIES
 
 #### Status
 ACCEPTED

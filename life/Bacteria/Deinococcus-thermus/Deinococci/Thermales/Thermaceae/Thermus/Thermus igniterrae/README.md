@@ -1,5 +1,4 @@
-Thermus igniterrae Chung et al., 2000 SPECIES
-=======
+# Thermus igniterrae Chung et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

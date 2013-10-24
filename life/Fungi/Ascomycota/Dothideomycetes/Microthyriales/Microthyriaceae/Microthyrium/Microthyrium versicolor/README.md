@@ -1,14 +1,13 @@
-Sacidium versicolor Desm., 1853 SPECIES
-=======
+# Microthyrium versicolor (Desm.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 19: 217 (1853)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 453 (1910)
 
 #### Original name
 Sacidium versicolor Desm., 1853

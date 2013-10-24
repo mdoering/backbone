@@ -1,5 +1,4 @@
-Agaricus tumidus var. tumidus VARIETY
-=======
+# Agaricus tumidus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 2: 350 (1801)
 
 #### Original name
-Agaricus tumidus var. tumidus
+Agaricus tumidus Pers.
 
 ### Remarks
 null

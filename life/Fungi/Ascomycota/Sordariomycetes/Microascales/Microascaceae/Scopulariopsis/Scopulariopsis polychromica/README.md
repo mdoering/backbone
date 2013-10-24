@@ -1,5 +1,4 @@
-Scopulariopsis polychromica Svilv. SPECIES
-=======
+# Scopulariopsis polychromica Svilv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoconium GENUS
-=======
+# Trichoconium GENUS
 
 #### Status
 ACCEPTED

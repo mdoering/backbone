@@ -1,5 +1,4 @@
-Septoria adi-ugrica Trotter SPECIES
-=======
+# Septoria adi-ugrica Trotter SPECIES
 
 #### Status
 ACCEPTED

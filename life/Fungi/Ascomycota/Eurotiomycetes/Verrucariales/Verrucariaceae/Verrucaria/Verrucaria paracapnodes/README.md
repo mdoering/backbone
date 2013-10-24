@@ -1,5 +1,4 @@
-Verrucaria paracapnodes Stizenb. SPECIES
-=======
+# Verrucaria paracapnodes Stizenb. SPECIES
 
 #### Status
 ACCEPTED

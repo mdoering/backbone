@@ -1,5 +1,4 @@
-Agaricus sphaerosporus Berk. SPECIES
-=======
+# Agaricus sphaerosporus Berk. SPECIES
 
 #### Status
 ACCEPTED

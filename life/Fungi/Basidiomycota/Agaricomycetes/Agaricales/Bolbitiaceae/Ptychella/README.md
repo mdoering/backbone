@@ -1,5 +1,4 @@
-Ptychella Roze & Boud. GENUS
-=======
+# Ptychella Roze & Boud. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria leptocarpa Anzi SPECIES
-=======
+# Pertusaria leptocarpa Anzi SPECIES
 
 #### Status
 ACCEPTED

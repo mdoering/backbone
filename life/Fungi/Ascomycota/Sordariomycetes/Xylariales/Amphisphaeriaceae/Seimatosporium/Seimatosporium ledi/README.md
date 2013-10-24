@@ -1,5 +1,4 @@
-Seimatosporium ledi Piroz. & Shoemaker SPECIES
-=======
+# Seimatosporium ledi Piroz. & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

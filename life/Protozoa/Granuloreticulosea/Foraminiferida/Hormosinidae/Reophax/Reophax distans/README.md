@@ -1,5 +1,4 @@
-Reophax distans SPECIES
-=======
+# Reophax distans SPECIES
 
 #### Status
 ACCEPTED

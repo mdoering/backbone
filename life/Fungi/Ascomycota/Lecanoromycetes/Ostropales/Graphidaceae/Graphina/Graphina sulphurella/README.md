@@ -1,5 +1,4 @@
-Graphina sulphurella Zahlbr. SPECIES
-=======
+# Graphina sulphurella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

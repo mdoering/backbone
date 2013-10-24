@@ -1,5 +1,4 @@
-Psorothecium taurica (Nyl.) Vain. SPECIES
-=======
+# Psorothecium taurica (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota porrigens Bres. SPECIES
-=======
+# Lepiota porrigens Bres. SPECIES
 
 #### Status
 ACCEPTED

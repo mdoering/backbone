@@ -1,5 +1,4 @@
-Potridiscus Döbbeler & Triebel GENUS
-=======
+# Potridiscus Döbbeler & Triebel GENUS
 
 #### Status
 ACCEPTED

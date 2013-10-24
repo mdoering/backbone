@@ -1,5 +1,4 @@
-Bacidia segregata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia segregata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

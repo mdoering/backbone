@@ -1,5 +1,4 @@
-Lophiostoma parasiticum (Petr.) L. Holm SPECIES
-=======
+# Lophiostoma parasiticum (Petr.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

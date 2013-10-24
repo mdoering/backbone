@@ -1,5 +1,4 @@
-Helvella spadicea Schaeff. SPECIES
-=======
+# Helvella spadicea Schaeff. SPECIES
 
 #### Status
 ACCEPTED

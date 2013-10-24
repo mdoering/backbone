@@ -1,5 +1,4 @@
-Cortinarius porphyreus E. Horak SPECIES
-=======
+# Cortinarius porphyreus E. Horak SPECIES
 
 #### Status
 ACCEPTED

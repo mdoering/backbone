@@ -1,5 +1,4 @@
-Cenangium tryblidioides Ellis & Everh. SPECIES
-=======
+# Cenangium tryblidioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

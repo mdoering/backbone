@@ -1,5 +1,4 @@
-Leptolegnia caudata de Bary, 1888 SPECIES
-=======
+# Leptolegnia caudata de Bary, 1888 SPECIES
 
 #### Status
 ACCEPTED

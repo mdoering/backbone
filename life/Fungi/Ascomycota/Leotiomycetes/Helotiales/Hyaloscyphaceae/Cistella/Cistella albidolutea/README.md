@@ -1,5 +1,4 @@
-Cistella albidolutea (Feltgen) Baral SPECIES
-=======
+# Cistella albidolutea (Feltgen) Baral SPECIES
 
 #### Status
 ACCEPTED

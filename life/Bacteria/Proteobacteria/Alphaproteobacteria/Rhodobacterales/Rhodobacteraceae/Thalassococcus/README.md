@@ -1,5 +1,4 @@
-Thalassococcus Lee, Tsoi, Li, Wong & Qian, 2007 GENUS
-=======
+# Thalassococcus Lee, Tsoi, Li, Wong & Qian, 2007 GENUS
 
 #### Status
 ACCEPTED

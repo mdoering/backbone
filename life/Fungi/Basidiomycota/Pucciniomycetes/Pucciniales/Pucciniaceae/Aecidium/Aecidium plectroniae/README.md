@@ -1,5 +1,4 @@
-Aecidium plectroniae Cooke SPECIES
-=======
+# Aecidium plectroniae Cooke SPECIES
 
 #### Status
 ACCEPTED

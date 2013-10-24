@@ -1,5 +1,4 @@
-Cytospora mangiferae G.P. Agarwal & N.D. Sharma SPECIES
-=======
+# Cytospora mangiferae G.P. Agarwal & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus luteocarneus Hesler SPECIES
-=======
+# Gymnopilus luteocarneus Hesler SPECIES
 
 #### Status
 ACCEPTED

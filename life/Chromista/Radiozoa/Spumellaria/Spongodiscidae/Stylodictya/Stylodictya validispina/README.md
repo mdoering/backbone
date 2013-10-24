@@ -1,5 +1,4 @@
-Stylodictya validispina Joergensen, 1905 SPECIES
-=======
+# Stylodictya validispina Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

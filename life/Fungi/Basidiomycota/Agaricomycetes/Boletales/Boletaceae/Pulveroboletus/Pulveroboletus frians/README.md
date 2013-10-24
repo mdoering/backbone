@@ -1,5 +1,4 @@
-Pulveroboletus frians (Corner) Singer SPECIES
-=======
+# Pulveroboletus frians (Corner) Singer SPECIES
 
 #### Status
 ACCEPTED

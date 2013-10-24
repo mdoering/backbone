@@ -1,5 +1,4 @@
-Lobaria elaeodes Malme SPECIES
-=======
+# Lobaria elaeodes Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiosphaera umbelliforum (M.E. Barr) M.E. Barr SPECIES
-=======
+# Plagiosphaera umbelliforum (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

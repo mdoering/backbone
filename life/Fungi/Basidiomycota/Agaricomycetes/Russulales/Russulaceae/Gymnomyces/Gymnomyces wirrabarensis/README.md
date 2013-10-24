@@ -1,5 +1,4 @@
-Gymnomyces wirrabarensis Grgur., 1997 SPECIES
-=======
+# Gymnomyces wirrabarensis Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

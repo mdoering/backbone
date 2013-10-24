@@ -1,5 +1,4 @@
-Agaricus pseudoandrosaceus Bull. SPECIES
-=======
+# Agaricus pseudoandrosaceus Bull. SPECIES
 
 #### Status
 ACCEPTED

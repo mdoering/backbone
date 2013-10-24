@@ -1,5 +1,4 @@
-Fusarium longisporum Cooke & Massee SPECIES
-=======
+# Fusarium longisporum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

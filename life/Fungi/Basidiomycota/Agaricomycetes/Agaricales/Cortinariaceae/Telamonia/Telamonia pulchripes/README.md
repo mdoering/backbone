@@ -1,5 +1,4 @@
-Telamonia pulchripes (J. Favre) Hlavácek SPECIES
-=======
+# Telamonia pulchripes (J. Favre) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

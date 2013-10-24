@@ -1,5 +1,4 @@
-Hauerina pacifica SPECIES
-=======
+# Hauerina pacifica SPECIES
 
 #### Status
 ACCEPTED

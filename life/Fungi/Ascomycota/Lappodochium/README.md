@@ -1,5 +1,4 @@
-Lappodochium Matsush. GENUS
-=======
+# Lappodochium Matsush. GENUS
 
 #### Status
 ACCEPTED

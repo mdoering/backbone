@@ -1,5 +1,4 @@
-Phialea chlorella (Saut.) Sacc. SPECIES
-=======
+# Phialea chlorella (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

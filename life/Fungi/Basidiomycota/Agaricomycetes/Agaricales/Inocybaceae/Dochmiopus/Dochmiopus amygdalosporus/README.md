@@ -1,5 +1,4 @@
-Dochmiopus amygdalosporus Kühner SPECIES
-=======
+# Dochmiopus amygdalosporus Kühner SPECIES
 
 #### Status
 ACCEPTED

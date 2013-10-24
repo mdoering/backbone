@@ -1,5 +1,4 @@
-Helotium praedecurrens (Murrill) Redhead SPECIES
-=======
+# Helotium praedecurrens (Murrill) Redhead SPECIES
 
 #### Status
 ACCEPTED

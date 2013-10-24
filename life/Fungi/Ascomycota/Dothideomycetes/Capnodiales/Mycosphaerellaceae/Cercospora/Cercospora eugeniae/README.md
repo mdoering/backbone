@@ -1,5 +1,4 @@
-Cercospora eugeniae Sawada SPECIES
-=======
+# Cercospora eugeniae Sawada SPECIES
 
 #### Status
 ACCEPTED

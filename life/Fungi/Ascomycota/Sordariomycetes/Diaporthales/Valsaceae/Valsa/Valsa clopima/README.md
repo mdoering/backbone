@@ -1,5 +1,4 @@
-Valsa clopima Fr. SPECIES
-=======
+# Valsa clopima Fr. SPECIES
 
 #### Status
 ACCEPTED

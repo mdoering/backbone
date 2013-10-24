@@ -1,5 +1,4 @@
-Microstroma delonicis T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Microstroma delonicis T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

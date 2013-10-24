@@ -1,5 +1,4 @@
-Proteophiala manginii Cif. SPECIES
-=======
+# Proteophiala manginii Cif. SPECIES
 
 #### Status
 ACCEPTED

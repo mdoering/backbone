@@ -1,5 +1,4 @@
-Loefgrenia Gomont in Wittrock et al., 1896 GENUS
-=======
+# Loefgrenia Gomont in Wittrock et al., 1896 GENUS
 
 #### Status
 ACCEPTED

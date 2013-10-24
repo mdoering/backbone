@@ -1,5 +1,4 @@
-Tristix chathamensis McCulloch, 1977 SPECIES
-=======
+# Tristix chathamensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

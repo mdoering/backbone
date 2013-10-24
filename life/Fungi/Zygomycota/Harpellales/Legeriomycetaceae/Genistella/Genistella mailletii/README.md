@@ -1,8 +1,7 @@
-Genistella mailleti Tuzet & Manier SPECIES
-=======
+# Genistella mailletii Tuzet & Manier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Genistella mailleti Tuzet & Manier
+Genistella mailletii Tuzet & Manier
 
 ### Remarks
 null

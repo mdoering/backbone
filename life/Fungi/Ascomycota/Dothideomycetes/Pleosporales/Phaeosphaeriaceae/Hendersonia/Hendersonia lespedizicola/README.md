@@ -1,5 +1,4 @@
-Hendersonia lespedizicola Verpl. & van den Broecke SPECIES
-=======
+# Hendersonia lespedizicola Verpl. & van den Broecke SPECIES
 
 #### Status
 ACCEPTED

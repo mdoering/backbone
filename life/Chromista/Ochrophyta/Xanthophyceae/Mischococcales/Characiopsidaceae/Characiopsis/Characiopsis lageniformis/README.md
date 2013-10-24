@@ -1,5 +1,4 @@
-Characiopsis lageniformis Pascher, 1930 SPECIES
-=======
+# Characiopsis lageniformis Pascher, 1930 SPECIES
 
 #### Status
 ACCEPTED

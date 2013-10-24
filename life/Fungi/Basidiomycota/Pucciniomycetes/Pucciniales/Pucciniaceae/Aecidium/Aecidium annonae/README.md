@@ -1,17 +1,16 @@
-Aecidium anonae Henn. SPECIES
-=======
+# Aecidium annonae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 34: 100 (1895)
 
 #### Original name
-Aecidium anonae Henn.
+Aecidium annonae Henn.
 
 ### Remarks
 null

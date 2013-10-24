@@ -1,5 +1,4 @@
-Gymnomyces boranupensis T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces boranupensis T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

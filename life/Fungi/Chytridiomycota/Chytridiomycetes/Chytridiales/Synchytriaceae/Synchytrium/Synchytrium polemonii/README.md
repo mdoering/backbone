@@ -1,5 +1,4 @@
-Synchytrium polemonii Ellis & Everh. ex Karling SPECIES
-=======
+# Synchytrium polemonii Ellis & Everh. ex Karling SPECIES
 
 #### Status
 ACCEPTED

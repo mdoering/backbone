@@ -1,5 +1,4 @@
-Melanoleuca odorifera Murrill SPECIES
-=======
+# Melanoleuca odorifera Murrill SPECIES
 
 #### Status
 ACCEPTED

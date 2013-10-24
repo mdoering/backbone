@@ -1,5 +1,4 @@
-Phoma phillyreae Brunaud SPECIES
-=======
+# Phoma phillyreae Brunaud SPECIES
 
 #### Status
 ACCEPTED

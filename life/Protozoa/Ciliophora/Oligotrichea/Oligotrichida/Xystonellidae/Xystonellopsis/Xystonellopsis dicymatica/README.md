@@ -1,5 +1,4 @@
-Xystonellopsis dicymatica (Brandt, 1906) Kofoid & Campbell, 1929 SPECIES
-=======
+# Xystonellopsis dicymatica (Brandt, 1906) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

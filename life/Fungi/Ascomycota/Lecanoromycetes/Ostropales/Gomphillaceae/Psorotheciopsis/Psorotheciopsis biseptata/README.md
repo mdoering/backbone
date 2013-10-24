@@ -1,5 +1,4 @@
-Psorotheciopsis biseptata Rehm SPECIES
-=======
+# Psorotheciopsis biseptata Rehm SPECIES
 
 #### Status
 ACCEPTED

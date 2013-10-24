@@ -1,5 +1,4 @@
-Colletotrichum lupini var. lupini (Bondar) Nirenberg, Feiler & Hagedorn, 2002 VARIETY
-=======
+# Colletotrichum lupini SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 94(2): 309 (2002)
+null
 
 #### Original name
-Colletotrichum lupini var. lupini (Bondar) Nirenberg, Feiler & Hagedorn, 2002
+null
 
 ### Remarks
 null

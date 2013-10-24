@@ -1,5 +1,4 @@
-Ascobolus polysporus Auersw. SPECIES
-=======
+# Ascobolus polysporus Auersw. SPECIES
 
 #### Status
 ACCEPTED

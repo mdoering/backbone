@@ -1,5 +1,4 @@
-Astasia acus SPECIES
-=======
+# Astasia acus SPECIES
 
 #### Status
 ACCEPTED

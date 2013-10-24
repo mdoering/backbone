@@ -1,5 +1,4 @@
-Endozoicomonas Kurahashi & Yokota, 2007 GENUS
-=======
+# Endozoicomonas Kurahashi & Yokota, 2007 GENUS
 
 #### Status
 ACCEPTED

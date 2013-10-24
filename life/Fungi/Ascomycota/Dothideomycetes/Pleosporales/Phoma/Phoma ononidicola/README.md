@@ -1,5 +1,4 @@
-Phoma ononidicola Hollós SPECIES
-=======
+# Phoma ononidicola Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma gaudiniae Vienn.-Bourg. ex Cif. SPECIES
-=======
+# Entyloma gaudiniae Vienn.-Bourg. ex Cif. SPECIES
 
 #### Status
 ACCEPTED

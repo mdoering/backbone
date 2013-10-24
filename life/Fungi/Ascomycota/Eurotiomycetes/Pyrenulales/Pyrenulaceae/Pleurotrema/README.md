@@ -1,5 +1,4 @@
-Pleurotrema GENUS
-=======
+# Pleurotrema GENUS
 
 #### Status
 ACCEPTED

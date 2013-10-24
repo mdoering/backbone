@@ -1,5 +1,4 @@
-Puccinia hyptidis (M.A. Curtis) Tracy & Earle SPECIES
-=======
+# Puccinia hyptidis (M.A. Curtis) Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

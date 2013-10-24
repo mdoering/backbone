@@ -1,5 +1,4 @@
-Lecidea plumbeella Müll. Arg. SPECIES
-=======
+# Lecidea plumbeella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

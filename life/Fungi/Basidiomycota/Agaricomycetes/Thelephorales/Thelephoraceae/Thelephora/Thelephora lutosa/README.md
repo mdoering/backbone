@@ -1,5 +1,4 @@
-Thelephora lutosa Schwein., 1832 SPECIES
-=======
+# Thelephora lutosa Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

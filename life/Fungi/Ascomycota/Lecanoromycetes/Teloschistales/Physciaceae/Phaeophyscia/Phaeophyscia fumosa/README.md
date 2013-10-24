@@ -1,5 +1,4 @@
-Phaeophyscia fumosa Moberg SPECIES
-=======
+# Phaeophyscia fumosa Moberg SPECIES
 
 #### Status
 ACCEPTED

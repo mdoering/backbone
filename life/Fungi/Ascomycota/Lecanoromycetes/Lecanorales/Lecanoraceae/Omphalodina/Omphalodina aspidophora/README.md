@@ -1,5 +1,4 @@
-Omphalodina aspidophora (Vain.) Follmann & Redón SPECIES
-=======
+# Omphalodina aspidophora (Vain.) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

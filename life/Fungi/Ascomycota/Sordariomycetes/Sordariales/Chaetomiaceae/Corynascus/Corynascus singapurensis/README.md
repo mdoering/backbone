@@ -1,5 +1,4 @@
-Corynascus singapurensis Stchigel et al. {?} ined. SPECIES
-=======
+# Corynascus singapurensis Stchigel et al. {?} ined. SPECIES
 
 #### Status
 ACCEPTED

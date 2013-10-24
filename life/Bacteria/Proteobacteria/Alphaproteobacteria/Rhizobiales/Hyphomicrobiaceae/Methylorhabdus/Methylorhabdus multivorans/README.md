@@ -1,5 +1,4 @@
-Methylorhabdus multivorans Doronina et al., 1996 SPECIES
-=======
+# Methylorhabdus multivorans Doronina et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

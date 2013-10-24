@@ -1,5 +1,4 @@
-Scopulariopsis proteophila Y. Horie & Udagawa SPECIES
-=======
+# Scopulariopsis proteophila Y. Horie & Udagawa SPECIES
 
 #### Status
 ACCEPTED

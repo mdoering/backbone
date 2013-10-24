@@ -1,5 +1,4 @@
-Phyllosticta osteospora var. osteospora VARIETY
-=======
+# Phyllosticta osteospora Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 5): 531 (1879)
 
 #### Original name
-Phyllosticta osteospora var. osteospora
+Phyllosticta osteospora Sacc.
 
 ### Remarks
 null

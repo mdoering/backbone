@@ -1,17 +1,16 @@
-Mycoleptodon laeticolor f. laeticolor FORM
-=======
+# Steccherinum laeticolor (Berk. & M.A. Curtis) Banker, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 4(6): 316 (1912)
 
 #### Original name
-Mycoleptodon laeticolor f. laeticolor
+Hydnum laeticolor Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

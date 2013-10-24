@@ -1,5 +1,4 @@
-Cortinarius limbatus M.M. Moser SPECIES
-=======
+# Cortinarius limbatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

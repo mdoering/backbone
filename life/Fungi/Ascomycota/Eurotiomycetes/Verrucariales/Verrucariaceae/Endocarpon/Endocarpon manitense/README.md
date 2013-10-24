@@ -1,5 +1,4 @@
-Endocarpon manitense Tuck. SPECIES
-=======
+# Endocarpon manitense Tuck. SPECIES
 
 #### Status
 ACCEPTED

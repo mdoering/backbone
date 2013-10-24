@@ -1,5 +1,4 @@
-Belonidium boreale (Ellis & Holw.) Raitv. SPECIES
-=======
+# Belonidium boreale (Ellis & Holw.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

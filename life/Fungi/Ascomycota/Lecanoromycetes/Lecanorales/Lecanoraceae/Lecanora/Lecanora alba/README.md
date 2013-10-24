@@ -1,5 +1,4 @@
-Lecanora alba Lumbsch SPECIES
-=======
+# Lecanora alba Lumbsch SPECIES
 
 #### Status
 ACCEPTED

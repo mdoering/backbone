@@ -1,5 +1,4 @@
-Hemidiscus Schellwien, 1898 GENUS
-=======
+# Hemidiscus Schellwien, 1898 GENUS
 
 #### Status
 ACCEPTED

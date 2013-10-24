@@ -1,5 +1,4 @@
-Cercospora shoreae Thirum. & Chupp SPECIES
-=======
+# Cercospora shoreae Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

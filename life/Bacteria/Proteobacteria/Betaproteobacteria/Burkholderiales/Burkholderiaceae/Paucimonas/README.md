@@ -1,5 +1,4 @@
-Paucimonas Jendrossek, 2001 GENUS
-=======
+# Paucimonas Jendrossek, 2001 GENUS
 
 #### Status
 ACCEPTED

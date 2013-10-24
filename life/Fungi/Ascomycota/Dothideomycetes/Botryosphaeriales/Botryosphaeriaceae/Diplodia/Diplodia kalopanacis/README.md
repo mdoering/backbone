@@ -1,5 +1,4 @@
-Diplodia kalopanacis Bunkina & Koval SPECIES
-=======
+# Diplodia kalopanacis Bunkina & Koval SPECIES
 
 #### Status
 ACCEPTED

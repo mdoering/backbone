@@ -1,5 +1,4 @@
-Cyclogyra crassisepta SPECIES
-=======
+# Cyclogyra crassisepta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cruenta (Weber) Röhl. SPECIES
-=======
+# Lecanora cruenta (Weber) Röhl. SPECIES
 
 #### Status
 ACCEPTED

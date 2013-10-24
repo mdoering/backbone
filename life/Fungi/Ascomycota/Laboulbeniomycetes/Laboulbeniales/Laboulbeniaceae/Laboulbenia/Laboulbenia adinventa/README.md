@@ -1,5 +1,4 @@
-Laboulbenia adinventa G. Blum SPECIES
-=======
+# Laboulbenia adinventa G. Blum SPECIES
 
 #### Status
 ACCEPTED

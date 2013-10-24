@@ -1,5 +1,4 @@
-Sphaerella dammarae Berk. & Broome SPECIES
-=======
+# Sphaerella dammarae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

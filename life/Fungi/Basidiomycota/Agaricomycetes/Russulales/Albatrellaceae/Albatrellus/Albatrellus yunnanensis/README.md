@@ -1,5 +1,4 @@
-Albatrellus yunnanensis H.D. Zheng & P.G. Liu SPECIES
-=======
+# Albatrellus yunnanensis H.D. Zheng & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

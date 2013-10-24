@@ -1,5 +1,4 @@
-Pyrrhoderma Imazeki GENUS
-=======
+# Pyrrhoderma Imazeki GENUS
 
 #### Status
 ACCEPTED

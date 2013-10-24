@@ -1,5 +1,4 @@
-Dirinaria subpicta (Nyl.) C.W. Dodge SPECIES
-=======
+# Dirinaria subpicta (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

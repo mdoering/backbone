@@ -1,5 +1,4 @@
-Aspergillus lutescens Bainier ex Thom & Raper SPECIES
-=======
+# Aspergillus lutescens Bainier ex Thom & Raper SPECIES
 
 #### Status
 ACCEPTED

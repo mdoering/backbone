@@ -1,5 +1,4 @@
-Aplosporella behboudii Petr. SPECIES
-=======
+# Aplosporella behboudii Petr. SPECIES
 
 #### Status
 ACCEPTED

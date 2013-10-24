@@ -1,5 +1,4 @@
-Cephaloidophora akayebi Hoshide, 1958 SPECIES
-=======
+# Cephaloidophora akayebi Hoshide, 1958 SPECIES
 
 #### Status
 ACCEPTED

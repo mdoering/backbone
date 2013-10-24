@@ -1,5 +1,4 @@
-Dorataspidium Haeckel, 1887 GENUS
-=======
+# Dorataspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

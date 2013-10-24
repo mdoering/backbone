@@ -1,5 +1,4 @@
-Afroboletus elegans Heinem. & Rammeloo, 1995 SPECIES
-=======
+# Afroboletus elegans Heinem. & Rammeloo, 1995 SPECIES
 
 #### Status
 ACCEPTED

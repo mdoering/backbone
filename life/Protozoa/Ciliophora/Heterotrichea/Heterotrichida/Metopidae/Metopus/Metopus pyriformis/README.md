@@ -1,5 +1,4 @@
-Metopus pyriformis Levander, 1894 SPECIES
-=======
+# Metopus pyriformis Levander, 1894 SPECIES
 
 #### Status
 ACCEPTED

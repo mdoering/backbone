@@ -1,5 +1,4 @@
-Acanthostigma scopulorum Ellis & Everh., 1887 SPECIES
-=======
+# Acanthostigma scopulorum Ellis & Everh., 1887 SPECIES
 
 #### Status
 ACCEPTED

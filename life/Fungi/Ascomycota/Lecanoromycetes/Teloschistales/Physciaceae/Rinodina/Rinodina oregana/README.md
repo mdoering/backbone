@@ -1,5 +1,4 @@
-Rinodina oregana H. Magn. SPECIES
-=======
+# Rinodina oregana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

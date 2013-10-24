@@ -1,5 +1,4 @@
-Calosphaeriopsis Petr. GENUS
-=======
+# Calosphaeriopsis Petr. GENUS
 
 #### Status
 ACCEPTED

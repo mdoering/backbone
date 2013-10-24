@@ -1,17 +1,16 @@
-Dothiorella cocosae Mhaskar SPECIES
-=======
+# Dothiorella cocoës Mhaskar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 42: 87 (1972)
 
 #### Original name
-Dothiorella cocosae Mhaskar
+Dothiorella cocoës Mhaskar
 
 ### Remarks
 null

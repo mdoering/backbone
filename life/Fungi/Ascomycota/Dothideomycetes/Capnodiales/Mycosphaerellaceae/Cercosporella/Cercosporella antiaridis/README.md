@@ -1,5 +1,4 @@
-Cercosporella antiaridis Hansf. SPECIES
-=======
+# Cercosporella antiaridis Hansf. SPECIES
 
 #### Status
 ACCEPTED

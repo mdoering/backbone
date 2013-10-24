@@ -1,5 +1,4 @@
-Stictyosiphon lofotensis (Foslie) Jaasund SPECIES
-=======
+# Stictyosiphon lofotensis (Foslie) Jaasund SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthosphaera castanea Haeckel, 1887 SPECIES
-=======
+# Acanthosphaera castanea Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

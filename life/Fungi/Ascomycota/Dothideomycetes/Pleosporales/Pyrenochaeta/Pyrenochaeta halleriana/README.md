@@ -1,5 +1,4 @@
-Pyrenochaeta halleriana Gonz. Frag. SPECIES
-=======
+# Pyrenochaeta halleriana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

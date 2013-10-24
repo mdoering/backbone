@@ -1,14 +1,13 @@
-Paradiacheopsis martinii (Alexop. & Beneke) Hertel SPECIES
-=======
+# Macbrideola martinii (Alexop. & Beneke) Alexop., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 59(1): 114 (1967)
 
 #### Original name
 Comatricha martinii Alexop. & Beneke, 1954

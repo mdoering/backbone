@@ -1,5 +1,4 @@
-Carrismyces proliferatus R.F. Castañeda & Heredia, 2000 SPECIES
-=======
+# Carrismyces proliferatus R.F. Castañeda & Heredia, 2000 SPECIES
 
 #### Status
 ACCEPTED

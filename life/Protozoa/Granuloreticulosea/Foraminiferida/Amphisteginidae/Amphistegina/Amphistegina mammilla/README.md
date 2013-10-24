@@ -1,8 +1,7 @@
-Nautilus mammilla Fichtel & Moll, 1798 SPECIES
-=======
+# Amphistegina mammilla (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

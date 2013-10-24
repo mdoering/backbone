@@ -1,5 +1,4 @@
-Erostella rhododendri (Rehm) Sacc. & Trotter SPECIES
-=======
+# Erostella rhododendri (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

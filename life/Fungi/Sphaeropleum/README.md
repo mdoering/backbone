@@ -1,5 +1,4 @@
-Sphaeropleum Link GENUS
-=======
+# Sphaeropleum Link GENUS
 
 #### Status
 ACCEPTED

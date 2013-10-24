@@ -1,5 +1,4 @@
-Dacrymyces cinnabarinus Berk. SPECIES
-=======
+# Dacrymyces cinnabarinus Berk. SPECIES
 
 #### Status
 ACCEPTED

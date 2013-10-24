@@ -1,5 +1,4 @@
-Rivularia mediterranea (M. Herak) O. Dragastan SPECIES
-=======
+# Rivularia mediterranea (M. Herak) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

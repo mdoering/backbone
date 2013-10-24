@@ -1,8 +1,7 @@
-Peridinium tyrrhenoicum Balech SPECIES
-=======
+# Pentapharsodinium tyrrhenoicum (Balech) Montressor, Zingone & Marino SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

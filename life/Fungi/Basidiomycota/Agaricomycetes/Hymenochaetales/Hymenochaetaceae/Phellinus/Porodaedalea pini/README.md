@@ -1,17 +1,16 @@
-Phellinus pini var. pini VARIETY
-=======
+# Porodaedalea pini (Brot.) Murrill, 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atlas des Champignons de l'Europe 3(1): 517 (1941)
+Bull. Torrey bot. Club 32(7): 367 (1905)
 
 #### Original name
-Phellinus pini var. pini
+Boletus pini Brot., 1804
 
 ### Remarks
 null

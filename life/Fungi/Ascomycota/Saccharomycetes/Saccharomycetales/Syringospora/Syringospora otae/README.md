@@ -1,5 +1,4 @@
-Syringospora otae (Nann.) C.W. Dodge SPECIES
-=======
+# Syringospora otae (Nann.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula mastophora (Nyl.) Müll. Arg. SPECIES
-=======
+# Pyrenula mastophora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

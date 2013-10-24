@@ -1,5 +1,4 @@
-Camarosporium camphorosmae (Castagne) Sacc. SPECIES
-=======
+# Camarosporium camphorosmae (Castagne) Sacc. SPECIES
 
 #### Status
 ACCEPTED

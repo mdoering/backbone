@@ -1,5 +1,4 @@
-Sciniatosporium sudanense (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium sudanense (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

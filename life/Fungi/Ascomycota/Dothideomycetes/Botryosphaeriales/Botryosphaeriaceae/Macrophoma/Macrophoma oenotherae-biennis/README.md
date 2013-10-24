@@ -1,5 +1,4 @@
-Macrophoma oenotherae-biennis Dearn. SPECIES
-=======
+# Macrophoma oenotherae-biennis Dearn. SPECIES
 
 #### Status
 ACCEPTED

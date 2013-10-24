@@ -1,5 +1,4 @@
-Coscinaspidium Haeckel, 1887 GENUS
-=======
+# Coscinaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

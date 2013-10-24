@@ -1,5 +1,4 @@
-Trichophyton raubitschekii J. Kane, Salkin, Weitzman & Smitka, 1981 SPECIES
-=======
+# Trichophyton raubitschekii J. Kane, Salkin, Weitzman & Smitka, 1981 SPECIES
 
 #### Status
 ACCEPTED

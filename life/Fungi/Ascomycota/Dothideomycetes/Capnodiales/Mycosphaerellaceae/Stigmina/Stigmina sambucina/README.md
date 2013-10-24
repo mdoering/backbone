@@ -1,5 +1,4 @@
-Stigmina sambucina (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Stigmina sambucina (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

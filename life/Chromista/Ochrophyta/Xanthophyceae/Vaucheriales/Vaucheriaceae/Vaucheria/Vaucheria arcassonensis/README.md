@@ -1,5 +1,4 @@
-Vaucheria arcassonensis P.J.L. Dangeard SPECIES
-=======
+# Vaucheria arcassonensis P.J.L. Dangeard SPECIES
 
 #### Status
 ACCEPTED

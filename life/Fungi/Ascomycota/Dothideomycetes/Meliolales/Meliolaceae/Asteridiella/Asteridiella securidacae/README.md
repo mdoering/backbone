@@ -1,5 +1,4 @@
-Asteridiella securidacae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella securidacae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

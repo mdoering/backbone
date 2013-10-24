@@ -1,5 +1,4 @@
-Rhabdospora scrophulariae-alatae Petr. SPECIES
-=======
+# Rhabdospora scrophulariae-alatae Petr. SPECIES
 
 #### Status
 ACCEPTED

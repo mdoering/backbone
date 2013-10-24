@@ -1,5 +1,4 @@
-Scleroderma squamatum Chevall. SPECIES
-=======
+# Scleroderma squamatum Chevall. SPECIES
 
 #### Status
 ACCEPTED

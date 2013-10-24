@@ -1,5 +1,4 @@
-Agaricus russaticeps Berk. SPECIES
-=======
+# Agaricus russaticeps Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triposporium psidii Hasija SPECIES
-=======
+# Triposporium psidii Hasija SPECIES
 
 #### Status
 ACCEPTED

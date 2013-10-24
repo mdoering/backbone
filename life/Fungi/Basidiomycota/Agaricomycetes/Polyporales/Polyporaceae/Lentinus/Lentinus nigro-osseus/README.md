@@ -1,5 +1,4 @@
-Lentinus nigro-osseus Pilát SPECIES
-=======
+# Lentinus nigro-osseus Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Infundibulum lacustre Velen. SPECIES
-=======
+# Infundibulum lacustre Velen. SPECIES
 
 #### Status
 ACCEPTED

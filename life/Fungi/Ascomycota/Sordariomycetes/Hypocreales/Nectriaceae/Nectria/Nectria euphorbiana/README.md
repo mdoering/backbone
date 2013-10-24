@@ -1,5 +1,4 @@
-Nectria euphorbiana Tilak & Talde SPECIES
-=======
+# Nectria euphorbiana Tilak & Talde SPECIES
 
 #### Status
 ACCEPTED

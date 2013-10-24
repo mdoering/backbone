@@ -1,5 +1,4 @@
-Sphaeria sarawacensis Ces. SPECIES
-=======
+# Sphaeria sarawacensis Ces. SPECIES
 
 #### Status
 ACCEPTED

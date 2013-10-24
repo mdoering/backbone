@@ -1,14 +1,13 @@
-Helotium renisporum Ellis SPECIES
-=======
+# Hymenoscyphus renisporus (Ellis) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Discomyc. (London) 143 (1887)
 
 #### Original name
 Helotium renisporum Ellis

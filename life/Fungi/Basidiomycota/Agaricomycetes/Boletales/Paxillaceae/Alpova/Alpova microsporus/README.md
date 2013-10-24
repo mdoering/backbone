@@ -1,5 +1,4 @@
-Alpova microsporus (Velen.) Trappe SPECIES
-=======
+# Alpova microsporus (Velen.) Trappe SPECIES
 
 #### Status
 ACCEPTED

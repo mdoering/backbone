@@ -1,5 +1,4 @@
-Lecanora aequalis (Nyl.) Nyl. SPECIES
-=======
+# Lecanora aequalis (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

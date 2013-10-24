@@ -1,5 +1,4 @@
-Melampsora cerasi Schulzer SPECIES
-=======
+# Melampsora cerasi Schulzer SPECIES
 
 #### Status
 ACCEPTED

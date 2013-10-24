@@ -1,5 +1,4 @@
-Celtiberium papillatum Moczydlowska, 1998 SPECIES
-=======
+# Celtiberium papillatum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcographa olivacea (Mont.) Müll. Arg. SPECIES
-=======
+# Sarcographa olivacea (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

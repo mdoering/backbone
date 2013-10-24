@@ -1,5 +1,4 @@
-Capnodiastrum andinum Pat. SPECIES
-=======
+# Capnodiastrum andinum Pat. SPECIES
 
 #### Status
 ACCEPTED

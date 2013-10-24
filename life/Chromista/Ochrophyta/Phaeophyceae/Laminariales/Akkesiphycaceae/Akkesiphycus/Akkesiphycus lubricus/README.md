@@ -1,5 +1,4 @@
-Akkesiphycus lubricus Yamada & Tanaka, 1944 SPECIES
-=======
+# Akkesiphycus lubricus Yamada & Tanaka, 1944 SPECIES
 
 #### Status
 ACCEPTED

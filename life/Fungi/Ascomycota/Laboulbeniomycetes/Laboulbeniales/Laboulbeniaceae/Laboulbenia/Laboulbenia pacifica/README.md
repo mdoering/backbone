@@ -1,5 +1,4 @@
-Laboulbenia pacifica Sugiy. SPECIES
-=======
+# Laboulbenia pacifica Sugiy. SPECIES
 
 #### Status
 ACCEPTED

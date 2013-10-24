@@ -1,5 +1,4 @@
-Entomophthora jassi (E. Cohn) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora jassi (E. Cohn) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
 ACCEPTED

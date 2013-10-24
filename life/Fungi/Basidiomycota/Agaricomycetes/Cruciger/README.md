@@ -1,5 +1,4 @@
-Cruciger R. Kirschner & Oberw. GENUS
-=======
+# Cruciger R. Kirschner & Oberw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygodesmus tuberculosus Ellis & Everh. SPECIES
-=======
+# Zygodesmus tuberculosus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

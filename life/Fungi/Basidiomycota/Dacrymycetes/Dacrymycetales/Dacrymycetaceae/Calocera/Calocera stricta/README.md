@@ -1,5 +1,4 @@
-Calocera stricta Fr. SPECIES
-=======
+# Calocera stricta Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus avellaneus Burt SPECIES
-=======
+# Hypochnus avellaneus Burt SPECIES
 
 #### Status
 ACCEPTED

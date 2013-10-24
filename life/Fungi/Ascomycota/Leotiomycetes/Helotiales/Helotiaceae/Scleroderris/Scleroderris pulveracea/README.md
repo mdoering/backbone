@@ -1,5 +1,4 @@
-Scleroderris pulveracea (Hazsl.) Sacc. SPECIES
-=======
+# Scleroderris pulveracea (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

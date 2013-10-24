@@ -1,5 +1,4 @@
-Hypomyces pannosus (Schwein.) Cooke SPECIES
-=======
+# Hypomyces pannosus (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinobolus smalli SPECIES
-=======
+# Actinobolus smalli SPECIES
 
 #### Status
 ACCEPTED

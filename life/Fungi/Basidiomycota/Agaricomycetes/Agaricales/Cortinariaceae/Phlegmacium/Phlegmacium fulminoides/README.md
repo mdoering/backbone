@@ -1,5 +1,4 @@
-Phlegmacium fulminoides M.M. Moser SPECIES
-=======
+# Phlegmacium fulminoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

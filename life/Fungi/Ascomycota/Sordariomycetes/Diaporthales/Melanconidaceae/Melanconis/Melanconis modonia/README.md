@@ -1,17 +1,16 @@
-Valsa biconica Curr., 1858 SPECIES
-=======
+# Melanconis modonia Tul. & C. Tul., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Select. fung. carpol. (Paris) 2: 141 (1863)
 
 #### Original name
-Valsa biconica Curr., 1858
+Melanconis modonia Tul. & C. Tul., 1863
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heterothecium begoniae Müll. Arg. SPECIES
-=======
+# Heterothecium begoniae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

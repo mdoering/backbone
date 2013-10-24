@@ -1,5 +1,4 @@
-Oospora anaerobies (Plant {?} ) Sartory SPECIES
-=======
+# Oospora anaerobies (Plant {?} ) Sartory SPECIES
 
 #### Status
 ACCEPTED

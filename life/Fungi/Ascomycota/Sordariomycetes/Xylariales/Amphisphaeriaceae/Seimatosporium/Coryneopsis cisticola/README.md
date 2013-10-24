@@ -1,5 +1,4 @@
-Coryneopsis cisticola Alcalde SPECIES
-=======
+# Coryneopsis cisticola Alcalde SPECIES
 
 #### Status
 ACCEPTED

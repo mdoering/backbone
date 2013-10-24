@@ -1,5 +1,4 @@
-Heterodermia obesa (Pers.) Trevis. SPECIES
-=======
+# Heterodermia obesa (Pers.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

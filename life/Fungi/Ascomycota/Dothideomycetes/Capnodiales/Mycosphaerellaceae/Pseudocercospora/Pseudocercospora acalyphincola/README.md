@@ -1,5 +1,4 @@
-Pseudocercospora acalyphincola (Petr.) Deighton SPECIES
-=======
+# Pseudocercospora acalyphincola (Petr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia pannucea Liro SPECIES
-=======
+# Cintractia pannucea Liro SPECIES
 
 #### Status
 ACCEPTED

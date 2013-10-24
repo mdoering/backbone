@@ -1,5 +1,4 @@
-Septoria salvadorae Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Septoria salvadorae Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

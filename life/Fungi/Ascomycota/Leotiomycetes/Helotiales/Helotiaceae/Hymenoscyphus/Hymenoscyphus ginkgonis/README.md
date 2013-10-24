@@ -1,5 +1,4 @@
-Hymenoscyphus ginkgonis J.G. Han & H.D. Shin SPECIES
-=======
+# Hymenoscyphus ginkgonis J.G. Han & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia filisetula Guba SPECIES
-=======
+# Pestalotia filisetula Guba SPECIES
 
 #### Status
 ACCEPTED

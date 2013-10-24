@@ -1,14 +1,13 @@
-Nectria rubefaciens Ellis & Everh., 1887 SPECIES
-=======
+# Nectriopsis rubefaciens (Ellis & Everh.) M.S. Cole & D. Hawksw., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 3(10): 116 (1887)
+Mycotaxon 77: 322 (2001)
 
 #### Original name
 Nectria rubefaciens Ellis & Everh., 1887

@@ -1,5 +1,4 @@
-Marasmius pergamenus Pat. & Demange SPECIES
-=======
+# Marasmius pergamenus Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

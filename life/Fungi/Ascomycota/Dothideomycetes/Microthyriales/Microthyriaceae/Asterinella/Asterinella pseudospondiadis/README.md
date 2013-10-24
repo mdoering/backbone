@@ -1,5 +1,4 @@
-Asterinella pseudospondiadis Hansf., 1945 SPECIES
-=======
+# Asterinella pseudospondiadis Hansf., 1945 SPECIES
 
 #### Status
 ACCEPTED

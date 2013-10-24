@@ -1,5 +1,4 @@
-Gloeosporium phaji Maubl. SPECIES
-=======
+# Gloeosporium phaji Maubl. SPECIES
 
 #### Status
 ACCEPTED

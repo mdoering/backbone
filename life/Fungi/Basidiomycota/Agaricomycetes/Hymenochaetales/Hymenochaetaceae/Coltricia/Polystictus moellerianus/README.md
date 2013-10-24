@@ -1,8 +1,7 @@
-Polystictus mollerianus Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Polystictus moellerianus Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polystictus mollerianus Sacc., E. Bommer & M. Rousseau
+Polystictus moellerianus Sacc., E. Bommer & M. Rousseau
 
 ### Remarks
 null

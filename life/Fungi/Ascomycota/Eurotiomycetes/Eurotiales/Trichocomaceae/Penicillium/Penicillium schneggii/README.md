@@ -1,5 +1,4 @@
-Penicillium schneggii Boas {?} SPECIES
-=======
+# Penicillium schneggii Boas {?} SPECIES
 
 #### Status
 ACCEPTED

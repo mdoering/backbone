@@ -1,17 +1,16 @@
-Cheilymenia coprinaria var. coprinaria VARIETY
-=======
+# Cheilymenia fimicola (De Not. & Bagl.) Dennis, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 63 (1907)
+British Ascomycetes, Rev. Edn 45 (1978)
 
 #### Original name
-Cheilymenia coprinaria var. coprinaria
+Arrhenia fimicola Bagl., 1866
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Catillaria mediterranea Hafellner SPECIES
-=======
+# Catillaria mediterranea Hafellner SPECIES
 
 #### Status
 ACCEPTED

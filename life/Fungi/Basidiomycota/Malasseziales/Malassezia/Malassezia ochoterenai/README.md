@@ -1,5 +1,4 @@
-Malassezia ochoterenai Maecke SPECIES
-=======
+# Malassezia ochoterenai Maecke SPECIES
 
 #### Status
 ACCEPTED

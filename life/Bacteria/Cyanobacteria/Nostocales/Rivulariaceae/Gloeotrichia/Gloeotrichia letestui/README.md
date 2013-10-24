@@ -1,5 +1,4 @@
-Gloeotrichia letestui Frémy SPECIES
-=======
+# Gloeotrichia letestui Frémy SPECIES
 
 #### Status
 ACCEPTED

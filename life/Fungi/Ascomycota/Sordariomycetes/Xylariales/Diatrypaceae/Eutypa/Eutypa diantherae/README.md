@@ -1,5 +1,4 @@
-Eutypa diantherae (I.M. Lewis) Petr. SPECIES
-=======
+# Eutypa diantherae (I.M. Lewis) Petr. SPECIES
 
 #### Status
 ACCEPTED

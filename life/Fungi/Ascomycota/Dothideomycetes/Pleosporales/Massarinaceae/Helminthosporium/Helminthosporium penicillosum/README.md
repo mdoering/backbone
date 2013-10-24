@@ -1,5 +1,4 @@
-Helminthosporium penicillosum Speg. SPECIES
-=======
+# Helminthosporium penicillosum Speg. SPECIES
 
 #### Status
 ACCEPTED

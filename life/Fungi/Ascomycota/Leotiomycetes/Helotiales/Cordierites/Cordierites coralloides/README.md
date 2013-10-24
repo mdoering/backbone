@@ -1,5 +1,4 @@
-Cordierites coralloides Berk. & M.A. Curtis SPECIES
-=======
+# Cordierites coralloides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

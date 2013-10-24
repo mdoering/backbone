@@ -1,5 +1,4 @@
-Lichen candellarius Scop. SPECIES
-=======
+# Lichen candellarius Scop. SPECIES
 
 #### Status
 ACCEPTED

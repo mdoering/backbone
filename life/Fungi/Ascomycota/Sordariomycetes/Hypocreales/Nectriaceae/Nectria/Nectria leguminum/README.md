@@ -1,5 +1,4 @@
-Nectria leguminum Rehm SPECIES
-=======
+# Nectria leguminum Rehm SPECIES
 
 #### Status
 ACCEPTED

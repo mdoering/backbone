@@ -1,5 +1,4 @@
-Chaetosphaeria puiggarii Speg. SPECIES
-=======
+# Chaetosphaeria puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

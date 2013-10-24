@@ -1,5 +1,4 @@
-Valsa ventricosa Fuckel SPECIES
-=======
+# Valsa ventricosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

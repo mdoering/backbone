@@ -1,5 +1,4 @@
-Allantonectria GENUS
-=======
+# Allantonectria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scorias capitata Sawada SPECIES
-=======
+# Scorias capitata Sawada SPECIES
 
 #### Status
 ACCEPTED

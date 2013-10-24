@@ -1,5 +1,4 @@
-Pleomeris koeleriae (Arthur) Syd. SPECIES
-=======
+# Pleomeris koeleriae (Arthur) Syd. SPECIES
 
 #### Status
 ACCEPTED

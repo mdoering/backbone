@@ -1,5 +1,4 @@
-Panaeolus refellens (Britzelm.) Sacc. SPECIES
-=======
+# Panaeolus refellens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma birulae Lebedeva SPECIES
-=======
+# Lophiostoma birulae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

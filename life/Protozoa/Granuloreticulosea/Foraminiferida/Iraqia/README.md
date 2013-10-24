@@ -1,5 +1,4 @@
-Iraqia Henson, 1948 GENUS
-=======
+# Iraqia Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

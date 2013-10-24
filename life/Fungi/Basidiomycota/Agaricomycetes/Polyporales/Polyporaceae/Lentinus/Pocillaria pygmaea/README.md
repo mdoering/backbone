@@ -1,5 +1,4 @@
-Pocillaria pygmaea (Berk.) Kuntze SPECIES
-=======
+# Pocillaria pygmaea (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavariadelphus flavoimmaturatus R.H. Petersen SPECIES
-=======
+# Clavariadelphus flavoimmaturus R.H. Petersen, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 63(3): 469 (1974)
 
 #### Original name
-Clavariadelphus flavoimmaturatus R.H. Petersen
+Clavariadelphus flavoimmaturus R.H. Petersen, 1974
 
 ### Remarks
 null

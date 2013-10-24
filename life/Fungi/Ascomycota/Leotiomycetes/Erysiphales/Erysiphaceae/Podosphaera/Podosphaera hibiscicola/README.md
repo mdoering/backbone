@@ -1,5 +1,4 @@
-Podosphaera hibiscicola (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera hibiscicola (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

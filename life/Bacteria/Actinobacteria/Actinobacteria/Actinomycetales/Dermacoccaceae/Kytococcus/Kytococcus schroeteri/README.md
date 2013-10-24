@@ -1,5 +1,4 @@
-Kytococcus schroeteri Becker et al., 2002 SPECIES
-=======
+# Kytococcus schroeteri Becker et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

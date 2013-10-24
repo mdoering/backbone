@@ -1,5 +1,4 @@
-Sessiliospora bicolor D. Hawksw., 1979 SPECIES
-=======
+# Sessiliospora bicolor D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jakoba echidna C. J. O'Kelly SPECIES
-=======
+# Jakoba echidna C. J. O'Kelly SPECIES
 
 #### Status
 ACCEPTED

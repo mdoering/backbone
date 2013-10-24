@@ -1,5 +1,4 @@
-Phyllosticta ferulae Zaprom. SPECIES
-=======
+# Phyllosticta ferulae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

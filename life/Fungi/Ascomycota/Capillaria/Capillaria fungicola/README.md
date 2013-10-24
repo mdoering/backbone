@@ -1,5 +1,4 @@
-Capillaria fungicola (Corda) Corda SPECIES
-=======
+# Capillaria fungicola (Corda) Corda SPECIES
 
 #### Status
 ACCEPTED

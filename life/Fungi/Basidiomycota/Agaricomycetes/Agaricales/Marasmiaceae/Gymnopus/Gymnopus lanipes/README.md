@@ -1,5 +1,4 @@
-Gymnopus lanipes (Malençon & Bertault) Vila & Llimona SPECIES
-=======
+# Gymnopus lanipes (Malençon & Bertault) Vila & Llimona SPECIES
 
 #### Status
 ACCEPTED

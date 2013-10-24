@@ -1,5 +1,4 @@
-Entoloma commune Murrill SPECIES
-=======
+# Entoloma commune Murrill SPECIES
 
 #### Status
 ACCEPTED

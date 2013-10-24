@@ -1,5 +1,4 @@
-Agyrophora reticulata SPECIES
-=======
+# Agyrophora reticulata SPECIES
 
 #### Status
 ACCEPTED

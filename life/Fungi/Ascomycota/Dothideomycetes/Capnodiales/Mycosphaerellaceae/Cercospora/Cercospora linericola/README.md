@@ -1,5 +1,4 @@
-Cercospora linericola Yam. {?} SPECIES
-=======
+# Cercospora linericola Yam. {?} SPECIES
 
 #### Status
 ACCEPTED

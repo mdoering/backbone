@@ -1,5 +1,4 @@
-Heppia congregata (Nyl.) Nyl. SPECIES
-=======
+# Heppia congregata (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

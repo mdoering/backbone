@@ -1,17 +1,16 @@
-Parmelia manni C.W. Dodge SPECIES
-=======
+# Parmelia mannii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 46(1-2): 136 (1959)
 
 #### Original name
-Parmelia manni C.W. Dodge
+Parmelia mannii C.W. Dodge
 
 ### Remarks
 null

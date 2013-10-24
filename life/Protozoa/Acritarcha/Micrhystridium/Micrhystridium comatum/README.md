@@ -1,5 +1,4 @@
-Micrhystridium comatum Stockmans & Willière, 1962 SPECIES
-=======
+# Micrhystridium comatum Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

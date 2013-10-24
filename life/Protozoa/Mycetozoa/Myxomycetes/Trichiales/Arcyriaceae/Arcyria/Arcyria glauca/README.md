@@ -1,5 +1,4 @@
-Arcyria glauca Lister, 1908 SPECIES
-=======
+# Arcyria glauca Lister, 1908 SPECIES
 
 #### Status
 ACCEPTED

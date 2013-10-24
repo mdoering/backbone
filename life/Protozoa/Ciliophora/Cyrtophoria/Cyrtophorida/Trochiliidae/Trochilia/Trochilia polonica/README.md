@@ -1,5 +1,4 @@
-Trochilia polonica Wrzesniowski, 1870 SPECIES
-=======
+# Trochilia polonica Wrzesniowski, 1870 SPECIES
 
 #### Status
 ACCEPTED

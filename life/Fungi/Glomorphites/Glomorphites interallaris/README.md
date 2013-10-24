@@ -1,5 +1,4 @@
-Glomorphites interallaris García Massini SPECIES
-=======
+# Glomorphites interallaris García Massini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas mali Takeuchi et al., 1995 SPECIES
-=======
+# Sphingomonas mali Takeuchi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

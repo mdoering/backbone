@@ -1,5 +1,4 @@
-Flammula rubra (Cooke & Massee) Sacc. SPECIES
-=======
+# Flammula rubra (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

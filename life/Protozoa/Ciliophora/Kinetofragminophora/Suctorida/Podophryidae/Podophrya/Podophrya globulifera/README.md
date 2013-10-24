@@ -1,5 +1,4 @@
-Podophrya globulifera Kahl, 1931 SPECIES
-=======
+# Podophrya globulifera Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

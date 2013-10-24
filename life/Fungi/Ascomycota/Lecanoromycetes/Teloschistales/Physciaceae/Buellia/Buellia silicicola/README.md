@@ -1,5 +1,4 @@
-Buellia silicicola B. de Lesd. SPECIES
-=======
+# Buellia silicicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

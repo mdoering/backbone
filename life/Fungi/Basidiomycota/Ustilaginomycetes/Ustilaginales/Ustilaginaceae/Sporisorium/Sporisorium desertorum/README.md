@@ -1,5 +1,4 @@
-Sporisorium desertorum (Thüm.) Vánky SPECIES
-=======
+# Sporisorium desertorum (Thüm.) Vánky SPECIES
 
 #### Status
 ACCEPTED

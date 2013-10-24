@@ -1,5 +1,4 @@
-Phaulomyces leonensis W. Rossi, 1994 SPECIES
-=======
+# Phaulomyces leonensis W. Rossi, 1994 SPECIES
 
 #### Status
 ACCEPTED

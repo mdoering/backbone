@@ -1,5 +1,4 @@
-Squamarina placodina (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Squamarina placodina (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

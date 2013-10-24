@@ -1,5 +1,4 @@
-Leptosphaeria tupae Speg. SPECIES
-=======
+# Leptosphaeria tupae Speg. SPECIES
 
 #### Status
 ACCEPTED

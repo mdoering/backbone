@@ -1,5 +1,4 @@
-Thelephora sebacioides Henn. SPECIES
-=======
+# Thelephora sebacioides Henn. SPECIES
 
 #### Status
 ACCEPTED

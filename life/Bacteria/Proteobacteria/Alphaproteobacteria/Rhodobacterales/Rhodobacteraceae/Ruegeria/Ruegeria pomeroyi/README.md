@@ -1,5 +1,4 @@
-Ruegeria pomeroyi Gonzalez, Covert, Whitman, Henriksen, Mayer, Scharf, Schmitt, Buchan, Fuhrman, Kiene & Moran, 2003 SPECIES
-=======
+# Ruegeria pomeroyi Gonzalez, Covert, Whitman, Henriksen, Mayer, Scharf, Schmitt, Buchan, Fuhrman, Kiene & Moran, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella foetida Velen. SPECIES
-=======
+# Helvella foetida Velen. SPECIES
 
 #### Status
 ACCEPTED

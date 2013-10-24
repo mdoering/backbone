@@ -1,5 +1,4 @@
-Cercospora glauca Syd. SPECIES
-=======
+# Cercospora glauca Syd. SPECIES
 
 #### Status
 ACCEPTED

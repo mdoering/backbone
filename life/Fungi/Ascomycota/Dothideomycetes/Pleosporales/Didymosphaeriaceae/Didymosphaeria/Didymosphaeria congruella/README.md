@@ -1,5 +1,4 @@
-Didymosphaeria congruella (P. Karst.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Didymosphaeria congruella (P. Karst.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus giganteus Natarajan & Raman SPECIES
-=======
+# Gymnopilus giganteus Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

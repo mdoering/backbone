@@ -1,5 +1,4 @@
-Opisthotricha Kent, 1882 GENUS
-=======
+# Opisthotricha Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

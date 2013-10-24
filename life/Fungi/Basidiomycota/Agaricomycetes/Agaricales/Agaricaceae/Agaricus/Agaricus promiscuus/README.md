@@ -1,5 +1,4 @@
-Agaricus promiscuus Britzelm. SPECIES
-=======
+# Agaricus promiscuus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

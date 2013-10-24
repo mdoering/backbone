@@ -1,5 +1,4 @@
-Gyalecta semecarpi Vain. SPECIES
-=======
+# Gyalecta semecarpi Vain. SPECIES
 
 #### Status
 ACCEPTED

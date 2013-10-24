@@ -1,5 +1,4 @@
-Psoromella pampana Gyeln. SPECIES
-=======
+# Psoromella pampana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

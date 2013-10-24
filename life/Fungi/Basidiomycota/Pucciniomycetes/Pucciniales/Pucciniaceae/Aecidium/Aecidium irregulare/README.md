@@ -1,5 +1,4 @@
-Aecidium irregulare DC. SPECIES
-=======
+# Aecidium irregulare DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leeuwenhoekiella aequorea Nedashkovskaya et al., 2005 SPECIES
-=======
+# Leeuwenhoekiella aequorea Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

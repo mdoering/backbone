@@ -1,5 +1,4 @@
-Lepraria crassa Nees SPECIES
-=======
+# Lepraria crassa Nees SPECIES
 
 #### Status
 ACCEPTED

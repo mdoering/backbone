@@ -1,5 +1,4 @@
-Alveolina pulchra d'Orbigny SPECIES
-=======
+# Alveolina pulchra d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

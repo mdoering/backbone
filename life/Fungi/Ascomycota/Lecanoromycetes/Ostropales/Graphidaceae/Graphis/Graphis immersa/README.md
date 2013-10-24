@@ -1,5 +1,4 @@
-Graphis immersa Fink SPECIES
-=======
+# Graphis immersa Fink SPECIES
 
 #### Status
 ACCEPTED

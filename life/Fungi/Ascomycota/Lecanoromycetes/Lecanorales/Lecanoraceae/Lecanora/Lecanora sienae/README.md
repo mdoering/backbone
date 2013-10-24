@@ -1,5 +1,4 @@
-Lecanora sienae B. de Lesd. SPECIES
-=======
+# Lecanora sienae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

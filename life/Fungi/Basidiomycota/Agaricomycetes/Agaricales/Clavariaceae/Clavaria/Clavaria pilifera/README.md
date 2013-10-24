@@ -1,5 +1,4 @@
-Clavaria pilifera Schumach. SPECIES
-=======
+# Clavaria pilifera Schumach. SPECIES
 
 #### Status
 ACCEPTED

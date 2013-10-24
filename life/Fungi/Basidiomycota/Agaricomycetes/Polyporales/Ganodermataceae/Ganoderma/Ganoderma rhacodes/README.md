@@ -1,5 +1,4 @@
-Ganoderma rhacodes Pat. SPECIES
-=======
+# Ganoderma rhacodes Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fusarium aquaeductuum var. aquaeductuum VARIETY
-=======
+# Fusarium aquaeductuum (Rabenh. & Radlk.) Lagerh. & Rabenh., 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Zentbl. Bakteriol. 9: 655 (1891)
 
 #### Original name
-Fusarium aquaeductuum var. aquaeductuum
+Selenosporium aquaeductuum Rabenh. & Radlk., 1861
 
 ### Remarks
 null

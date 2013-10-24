@@ -1,5 +1,4 @@
-Agaricus pachypus Secr. SPECIES
-=======
+# Agaricus pachypus Secr. SPECIES
 
 #### Status
 ACCEPTED

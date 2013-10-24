@@ -1,5 +1,4 @@
-Lecidea chapadensis Malme SPECIES
-=======
+# Lecidea chapadensis Malme SPECIES
 
 #### Status
 ACCEPTED

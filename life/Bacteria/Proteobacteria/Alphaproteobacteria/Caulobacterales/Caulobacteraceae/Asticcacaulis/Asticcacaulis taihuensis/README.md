@@ -1,5 +1,4 @@
-Asticcacaulis taihuensis Liu et al., 2005 SPECIES
-=======
+# Asticcacaulis taihuensis Liu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

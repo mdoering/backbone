@@ -1,5 +1,4 @@
-Thelidium quasiborreri Arnold SPECIES
-=======
+# Thelidium quasiborreri Arnold SPECIES
 
 #### Status
 ACCEPTED

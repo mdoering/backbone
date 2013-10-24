@@ -1,5 +1,4 @@
-Umbilicaria pacifica H. Magn. SPECIES
-=======
+# Umbilicaria pacifica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

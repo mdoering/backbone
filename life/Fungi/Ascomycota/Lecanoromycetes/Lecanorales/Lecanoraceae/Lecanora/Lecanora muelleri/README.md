@@ -1,5 +1,4 @@
-Lecanora muelleri J. Steiner SPECIES
-=======
+# Lecanora muelleri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

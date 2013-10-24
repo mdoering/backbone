@@ -1,5 +1,4 @@
-Ectostroma bromi-erecti Kirchn. SPECIES
-=======
+# Ectostroma bromi-erecti Kirchn. SPECIES
 
 #### Status
 ACCEPTED

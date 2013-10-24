@@ -1,5 +1,4 @@
-Cladosporium hypophloeum Berk. & M.A. Curtis SPECIES
-=======
+# Cladosporium hypophloeum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

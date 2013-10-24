@@ -1,5 +1,4 @@
-Alectoria fuscesens Gyeln. SPECIES
-=======
+# Alectoria fuscesens Gyeln. SPECIES
 
 #### Status
 ACCEPTED

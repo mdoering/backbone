@@ -1,5 +1,4 @@
-Dinophysis intermedia Pavillard SPECIES
-=======
+# Dinophysis intermedia Pavillard SPECIES
 
 #### Status
 ACCEPTED

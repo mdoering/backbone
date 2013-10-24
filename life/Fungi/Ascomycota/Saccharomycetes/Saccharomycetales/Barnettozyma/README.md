@@ -1,5 +1,4 @@
-Barnettozyma Kurtzman, Robnett & Basehoar-Powers GENUS
-=======
+# Barnettozyma Kurtzman, Robnett & Basehoar-Powers GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium disputabile (Britzelm.) M.M. Moser SPECIES
-=======
+# Phlegmacium disputabile (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

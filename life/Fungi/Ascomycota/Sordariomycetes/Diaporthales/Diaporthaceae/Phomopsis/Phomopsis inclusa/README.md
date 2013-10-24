@@ -1,5 +1,4 @@
-Phomopsis inclusa Höhn. SPECIES
-=======
+# Phomopsis inclusa Höhn. SPECIES
 
 #### Status
 ACCEPTED

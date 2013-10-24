@@ -1,5 +1,4 @@
-Moelleriella madidiensis P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella madidiensis P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

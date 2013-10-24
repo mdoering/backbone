@@ -1,5 +1,4 @@
-Lichen alboincarnatus Wulfen SPECIES
-=======
+# Lichen alboincarnatus Wulfen SPECIES
 
 #### Status
 ACCEPTED

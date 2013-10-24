@@ -1,5 +1,4 @@
-Marasmiellus mesosporus Singer SPECIES
-=======
+# Marasmiellus mesosporus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenomyce crinita Delise ex Pers. SPECIES
-=======
+# Cenomyce crinita Delise ex Pers. SPECIES
 
 #### Status
 ACCEPTED

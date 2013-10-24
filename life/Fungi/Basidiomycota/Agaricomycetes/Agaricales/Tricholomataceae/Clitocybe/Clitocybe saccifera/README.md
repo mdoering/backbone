@@ -1,5 +1,4 @@
-Clitocybe saccifera Velen. SPECIES
-=======
+# Clitocybe saccifera Velen. SPECIES
 
 #### Status
 ACCEPTED

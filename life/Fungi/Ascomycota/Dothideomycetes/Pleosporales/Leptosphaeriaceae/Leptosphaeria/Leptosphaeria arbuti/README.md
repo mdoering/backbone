@@ -1,5 +1,4 @@
-Leptosphaeria arbuti A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Leptosphaeria arbuti A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

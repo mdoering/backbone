@@ -1,5 +1,4 @@
-Sphaeria janus Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria janus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

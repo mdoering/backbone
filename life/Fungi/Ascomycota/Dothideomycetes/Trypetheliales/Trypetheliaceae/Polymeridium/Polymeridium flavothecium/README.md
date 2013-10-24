@@ -1,5 +1,4 @@
-Polymeridium flavothecium R. C. Harris SPECIES
-=======
+# Polymeridium flavothecium R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

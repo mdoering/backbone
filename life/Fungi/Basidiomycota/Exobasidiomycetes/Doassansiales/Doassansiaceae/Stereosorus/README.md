@@ -1,5 +1,4 @@
-Stereosorus GENUS
-=======
+# Stereosorus GENUS
 
 #### Status
 ACCEPTED

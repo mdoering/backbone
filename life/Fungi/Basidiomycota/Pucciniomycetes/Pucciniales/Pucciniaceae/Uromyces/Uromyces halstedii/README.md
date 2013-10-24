@@ -1,14 +1,13 @@
-Nigredo halstedii (De Toni) Arthur, 1920 SPECIES
-=======
+# Uromyces halstedii De Toni, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 226 (1920)
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 557 (1888)
 
 #### Original name
 Uromyces halstedii De Toni, 1888

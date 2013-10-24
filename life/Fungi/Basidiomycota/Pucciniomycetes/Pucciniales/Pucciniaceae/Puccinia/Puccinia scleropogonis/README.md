@@ -1,5 +1,4 @@
-Puccinia scleropogonis Cummins SPECIES
-=======
+# Puccinia scleropogonis Cummins SPECIES
 
 #### Status
 ACCEPTED

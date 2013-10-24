@@ -1,5 +1,4 @@
-Ophiocordyceps gracilioides (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps gracilioides (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

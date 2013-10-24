@@ -1,5 +1,4 @@
-Phyllachora rhynchosporae Chardón, 1929 SPECIES
-=======
+# Phyllachora rhynchosporae Chardón, 1929 SPECIES
 
 #### Status
 DOUBTFUL

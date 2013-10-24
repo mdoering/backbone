@@ -1,17 +1,16 @@
-Russula lepida var. amara Maire, 1910 VARIETY
-=======
+# Russula amarissima Romagn. & E.-J. Gilbert, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 26: 66 (1910)
+in Romagnesi, Bull. trimest. Soc. mycol. Fr. 59: 71 (1943)
 
 #### Original name
-Russula lepida var. amara Maire, 1910
+Russula amarissima Romagn. & E.-J. Gilbert, 1943
 
 ### Remarks
 null

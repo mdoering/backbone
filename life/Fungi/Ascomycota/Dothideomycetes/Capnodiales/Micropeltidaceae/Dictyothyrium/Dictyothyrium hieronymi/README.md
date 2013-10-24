@@ -1,5 +1,4 @@
-Dictyothyrium hieronymi (Rehm) Bat. SPECIES
-=======
+# Dictyothyrium hieronymi (Rehm) Bat. SPECIES
 
 #### Status
 ACCEPTED

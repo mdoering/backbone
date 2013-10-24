@@ -1,5 +1,4 @@
-Sphaeroderma anthostomoides Rehm SPECIES
-=======
+# Sphaeroderma anthostomoides Rehm SPECIES
 
 #### Status
 ACCEPTED

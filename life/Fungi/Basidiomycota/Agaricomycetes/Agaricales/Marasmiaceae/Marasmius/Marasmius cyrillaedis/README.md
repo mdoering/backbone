@@ -1,5 +1,4 @@
-Marasmius cyrillaedis Dennis SPECIES
-=======
+# Marasmius cyrillaedis Dennis SPECIES
 
 #### Status
 ACCEPTED

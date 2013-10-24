@@ -1,5 +1,4 @@
-Krutzschidinium Strauss, 1991 GENUS
-=======
+# Krutzschidinium Strauss, 1991 GENUS
 
 #### Status
 ACCEPTED

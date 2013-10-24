@@ -1,5 +1,4 @@
-Elaphomyces septatus Vittad. SPECIES
-=======
+# Elaphomyces septatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

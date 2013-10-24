@@ -1,5 +1,4 @@
-Gymnopilus igniculus Deneyer, P.-A. Moreau & Wuilb. SPECIES
-=======
+# Gymnopilus igniculus Deneyer, P.-A. Moreau & Wuilb. SPECIES
 
 #### Status
 ACCEPTED

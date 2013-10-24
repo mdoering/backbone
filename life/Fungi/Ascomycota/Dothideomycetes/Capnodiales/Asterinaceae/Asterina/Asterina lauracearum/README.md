@@ -1,5 +1,4 @@
-Asterina lauracearum Hosag. & C.K. Biju, 2004 SPECIES
-=======
+# Asterina lauracearum Hosag. & C.K. Biju, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrymaria kahli Dragesco, 1954 SPECIES
-=======
+# Lacrymaria kahli Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

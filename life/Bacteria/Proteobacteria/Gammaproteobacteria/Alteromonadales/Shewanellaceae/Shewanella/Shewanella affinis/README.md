@@ -1,5 +1,4 @@
-Shewanella affinis Ivanova et al., 2004 SPECIES
-=======
+# Shewanella affinis Ivanova et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum rhodoporosum Har. Takah. SPECIES
-=======
+# Leccinum rhodoporosum Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

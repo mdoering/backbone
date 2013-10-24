@@ -1,5 +1,4 @@
-Allescheriella Henn. GENUS
-=======
+# Allescheriella Henn. GENUS
 
 #### Status
 ACCEPTED

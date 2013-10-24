@@ -1,5 +1,4 @@
-Phagodinium Kristiansen GENUS
-=======
+# Phagodinium Kristiansen GENUS
 
 #### Status
 ACCEPTED

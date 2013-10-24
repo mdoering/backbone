@@ -1,5 +1,4 @@
-Asterina cansjericola var. cansjericola VARIETY
-=======
+# Asterina cansjericola Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Farlowia 3: 304 (1948)
 
 #### Original name
-Asterina cansjericola var. cansjericola
+Asterina cansjericola Hansf. & Thirum.
 
 ### Remarks
 null

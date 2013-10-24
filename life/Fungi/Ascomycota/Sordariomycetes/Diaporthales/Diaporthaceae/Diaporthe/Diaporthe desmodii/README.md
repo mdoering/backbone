@@ -1,5 +1,4 @@
-Diaporthe desmodii (Peck) Sacc. SPECIES
-=======
+# Diaporthe desmodii (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecythispora Chowdhry GENUS
-=======
+# Lecythispora Chowdhry GENUS
 
 #### Status
 ACCEPTED

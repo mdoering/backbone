@@ -1,5 +1,4 @@
-Kirschsteiniothelia populi (Tracy & Earle) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Kirschsteiniothelia populi (Tracy & Earle) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

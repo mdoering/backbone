@@ -1,5 +1,4 @@
-Sphaerotheca lini Zvetkov SPECIES
-=======
+# Sphaerotheca lini Zvetkov SPECIES
 
 #### Status
 ACCEPTED

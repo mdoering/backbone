@@ -1,5 +1,4 @@
-Nodusosphaeridium Uutela, 1989 GENUS
-=======
+# Nodusosphaeridium Uutela, 1989 GENUS
 
 #### Status
 ACCEPTED

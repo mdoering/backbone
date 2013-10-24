@@ -1,5 +1,4 @@
-Cordyceps furcata Moureau SPECIES
-=======
+# Cordyceps furcata Moureau SPECIES
 
 #### Status
 ACCEPTED

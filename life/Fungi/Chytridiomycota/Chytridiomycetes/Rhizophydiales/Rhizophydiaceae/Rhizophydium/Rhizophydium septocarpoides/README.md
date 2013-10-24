@@ -1,5 +1,4 @@
-Rhizophydium septocarpoides H.E. Petersen SPECIES
-=======
+# Rhizophydium septocarpoides H.E. Petersen SPECIES
 
 #### Status
 ACCEPTED

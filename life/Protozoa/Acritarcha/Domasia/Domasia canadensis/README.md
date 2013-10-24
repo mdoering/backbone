@@ -1,5 +1,4 @@
-Domasia canadensis Thusu, 1973 SPECIES
-=======
+# Domasia canadensis Thusu, 1973 SPECIES
 
 #### Status
 ACCEPTED

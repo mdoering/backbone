@@ -1,5 +1,4 @@
-Umbilicaria dwaliensis (Räsänen) D.D. Awasthi SPECIES
-=======
+# Umbilicaria dwaliensis (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

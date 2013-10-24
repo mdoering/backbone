@@ -1,5 +1,4 @@
-Phyllosticta ungnadiae Siemaszko SPECIES
-=======
+# Phyllosticta ungnadiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

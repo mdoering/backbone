@@ -1,5 +1,4 @@
-Thelotrema amabilis B. de Lesd. SPECIES
-=======
+# Thelotrema amabilis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

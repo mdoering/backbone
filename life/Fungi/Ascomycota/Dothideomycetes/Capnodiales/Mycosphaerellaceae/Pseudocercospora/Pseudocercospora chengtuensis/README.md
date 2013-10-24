@@ -1,5 +1,4 @@
-Pseudocercospora chengtuensis (F.L. Tai) Deighton SPECIES
-=======
+# Pseudocercospora chengtuensis (F.L. Tai) Deighton SPECIES
 
 #### Status
 ACCEPTED

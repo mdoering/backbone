@@ -1,5 +1,4 @@
-Teichospora helenae Ellis & Everh. SPECIES
-=======
+# Teichospora helenae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

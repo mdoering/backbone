@@ -1,5 +1,4 @@
-Rhizina praetexta Ehrenb. SPECIES
-=======
+# Rhizina praetexta Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

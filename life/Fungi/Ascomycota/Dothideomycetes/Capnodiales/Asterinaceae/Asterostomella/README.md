@@ -1,5 +1,4 @@
-Asterostomella Speg. GENUS
-=======
+# Asterostomella Speg. GENUS
 
 #### Status
 ACCEPTED

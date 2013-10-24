@@ -1,5 +1,4 @@
-Sphaeria salzmanni Duby SPECIES
-=======
+# Sphaeria salzmanni Duby SPECIES
 
 #### Status
 ACCEPTED

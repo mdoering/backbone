@@ -1,5 +1,4 @@
-Bacidia campalea (Tuck.) S. Ekman & Kalb SPECIES
-=======
+# Bacidia campalea (Tuck.) S. Ekman & Kalb SPECIES
 
 #### Status
 ACCEPTED

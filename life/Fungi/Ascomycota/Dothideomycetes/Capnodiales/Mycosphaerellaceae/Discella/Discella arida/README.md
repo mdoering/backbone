@@ -1,5 +1,4 @@
-Discella arida f. arida FORM
-=======
+# Discella arida Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Discella arida f. arida
+Discella arida Peck
 
 ### Remarks
 null

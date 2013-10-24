@@ -1,5 +1,4 @@
-Coccomyces globosus P.R. Johnst., 1986 SPECIES
-=======
+# Coccomyces globosus P.R. Johnst., 1986 SPECIES
 
 #### Status
 ACCEPTED

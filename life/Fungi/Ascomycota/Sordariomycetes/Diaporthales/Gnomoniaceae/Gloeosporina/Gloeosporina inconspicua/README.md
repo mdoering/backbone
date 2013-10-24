@@ -1,5 +1,4 @@
-Gloeosporina inconspicua (Cavara) Höhn. SPECIES
-=======
+# Gloeosporina inconspicua (Cavara) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abrothallus parmotrematis Diederich, 1989 SPECIES
-=======
+# Abrothallus parmotrematis Diederich, 1989 SPECIES
 
 #### Status
 ACCEPTED

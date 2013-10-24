@@ -1,5 +1,4 @@
-Capriniana variformis (Li, 1985) Jankowski, 1992 SPECIES
-=======
+# Capriniana variformis (Li, 1985) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

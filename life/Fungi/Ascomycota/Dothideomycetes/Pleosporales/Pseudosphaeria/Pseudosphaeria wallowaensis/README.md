@@ -1,5 +1,4 @@
-Pseudosphaeria wallowaensis R. Sprague SPECIES
-=======
+# Pseudosphaeria wallowaensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

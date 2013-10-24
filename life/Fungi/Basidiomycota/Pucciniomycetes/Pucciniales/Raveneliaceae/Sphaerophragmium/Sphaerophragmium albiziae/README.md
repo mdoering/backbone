@@ -1,5 +1,4 @@
-Sphaerophragmium albiziae Lohsomb., Kakish. & Y. Ono, 1994 SPECIES
-=======
+# Sphaerophragmium albiziae Lohsomb., Kakish. & Y. Ono, 1994 SPECIES
 
 #### Status
 ACCEPTED

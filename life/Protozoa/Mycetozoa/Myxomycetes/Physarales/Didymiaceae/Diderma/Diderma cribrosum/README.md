@@ -1,5 +1,4 @@
-Diderma cribrosum Nann.-Bremek. & Y. Yamam., 1986 SPECIES
-=======
+# Diderma cribrosum Nann.-Bremek. & Y. Yamam., 1986 SPECIES
 
 #### Status
 ACCEPTED

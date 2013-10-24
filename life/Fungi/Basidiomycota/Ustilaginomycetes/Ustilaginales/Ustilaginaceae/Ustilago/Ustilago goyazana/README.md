@@ -1,5 +1,4 @@
-Ustilago goyazana Zundel SPECIES
-=======
+# Ustilago goyazana Zundel SPECIES
 
 #### Status
 ACCEPTED

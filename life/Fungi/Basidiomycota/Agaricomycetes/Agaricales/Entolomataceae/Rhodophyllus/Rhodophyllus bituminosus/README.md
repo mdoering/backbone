@@ -1,5 +1,4 @@
-Rhodophyllus bituminosus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus bituminosus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

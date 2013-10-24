@@ -1,5 +1,4 @@
-Thalloloma halonatum Staiger SPECIES
-=======
+# Thalloloma halonatum Staiger SPECIES
 
 #### Status
 ACCEPTED

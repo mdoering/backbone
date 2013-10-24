@@ -1,5 +1,4 @@
-Arkhangelskiella fenestrata T. R. Worsley SPECIES
-=======
+# Arkhangelskiella fenestrata T. R. Worsley SPECIES
 
 #### Status
 ACCEPTED

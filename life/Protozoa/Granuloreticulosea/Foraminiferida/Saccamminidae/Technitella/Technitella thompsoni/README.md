@@ -1,5 +1,4 @@
-Technitella thompsoni Heron-Allen & Earland, 1909 SPECIES
-=======
+# Technitella thompsoni Heron-Allen & Earland, 1909 SPECIES
 
 #### Status
 ACCEPTED

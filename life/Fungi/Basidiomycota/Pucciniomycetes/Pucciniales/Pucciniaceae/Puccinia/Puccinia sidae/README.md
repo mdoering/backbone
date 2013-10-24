@@ -1,5 +1,4 @@
-Puccinia sidae Pat. SPECIES
-=======
+# Puccinia sidae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora bunchosiae Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora bunchosiae Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

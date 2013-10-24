@@ -1,5 +1,4 @@
-Scoliciosporum curvatum Sérus. SPECIES
-=======
+# Scoliciosporum curvatum Sérus. SPECIES
 
 #### Status
 ACCEPTED

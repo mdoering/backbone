@@ -1,5 +1,4 @@
-Armillaria horridula Herp. SPECIES
-=======
+# Armillaria horridula Herp. SPECIES
 
 #### Status
 ACCEPTED

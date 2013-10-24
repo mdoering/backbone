@@ -1,5 +1,4 @@
-Phymatium GENUS
-=======
+# Phymatium GENUS
 
 #### Status
 ACCEPTED

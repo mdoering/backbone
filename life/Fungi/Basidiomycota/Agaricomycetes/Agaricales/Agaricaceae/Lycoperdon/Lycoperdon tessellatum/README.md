@@ -1,5 +1,4 @@
-Lycoperdon tessellatum Lloyd SPECIES
-=======
+# Lycoperdon tessellatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

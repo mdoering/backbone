@@ -1,5 +1,4 @@
-Parmelia caesia subsp. caesia SUBSPECIES
-=======
+# Parmelia caesia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia caesia subsp. caesia
+null
 
 ### Remarks
 null

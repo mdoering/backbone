@@ -1,5 +1,4 @@
-Hendersonia helichrysi Lind SPECIES
-=======
+# Hendersonia helichrysi Lind SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echidnodella lucumae Arx SPECIES
-=======
+# Echidnodella lucumae Arx SPECIES
 
 #### Status
 ACCEPTED

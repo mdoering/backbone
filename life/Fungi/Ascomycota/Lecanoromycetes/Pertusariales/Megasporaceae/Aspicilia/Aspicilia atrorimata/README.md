@@ -1,5 +1,4 @@
-Aspicilia atrorimata (Nyl.) C.W. Dodge SPECIES
-=======
+# Aspicilia atrorimata (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

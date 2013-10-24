@@ -1,5 +1,4 @@
-Cortinarius coigue Garrido SPECIES
-=======
+# Cortinarius coigue Garrido SPECIES
 
 #### Status
 ACCEPTED

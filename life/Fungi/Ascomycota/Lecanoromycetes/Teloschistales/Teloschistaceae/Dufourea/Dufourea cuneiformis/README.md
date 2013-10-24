@@ -1,5 +1,4 @@
-Dufourea cuneiformis Kuntze SPECIES
-=======
+# Dufourea cuneiformis Kuntze SPECIES
 
 #### Status
 ACCEPTED

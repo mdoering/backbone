@@ -1,5 +1,4 @@
-Trachelomonas cylindricea var. punctata Popova VARIETY
-=======
+# Trachelomonas cylindricea (Playfair) Popova SPECIES
 
 #### Status
 ACCEPTED

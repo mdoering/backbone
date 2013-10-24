@@ -1,5 +1,4 @@
-Uromyces heliotropii Sred. SPECIES
-=======
+# Uromyces heliotropii Sred. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cribraria zonata Lado, Mosquera & Beltrán-Tej. SPECIES
-=======
+# Cribraria zonatispora Lado, Mosquera & Beltrán-Tej., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 91(1): 157 (1999)
 
 #### Original name
-Cribraria zonata Lado, Mosquera & Beltrán-Tej.
+Cribraria zonatispora Lado, Mosquera & Beltrán-Tej., 1999
 
 ### Remarks
 null

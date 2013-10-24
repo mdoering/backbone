@@ -1,5 +1,4 @@
-Stigmidium vezdae Matzer SPECIES
-=======
+# Stigmidium vezdae Matzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vertexicola K.D. Hyde, V.M. Ranghoo & S.W. Wong GENUS
-=======
+# Vertexicola K.D. Hyde, V.M. Ranghoo & S.W. Wong GENUS
 
 #### Status
 ACCEPTED

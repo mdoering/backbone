@@ -1,5 +1,4 @@
-Mycoalvimia Singer GENUS
-=======
+# Mycoalvimia Singer GENUS
 
 #### Status
 ACCEPTED

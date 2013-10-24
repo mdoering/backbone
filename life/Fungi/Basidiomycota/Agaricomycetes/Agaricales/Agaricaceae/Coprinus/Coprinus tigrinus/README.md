@@ -1,5 +1,4 @@
-Coprinus tigrinus (Pat.) Pegler SPECIES
-=======
+# Coprinus tigrinus (Pat.) Pegler SPECIES
 
 #### Status
 ACCEPTED

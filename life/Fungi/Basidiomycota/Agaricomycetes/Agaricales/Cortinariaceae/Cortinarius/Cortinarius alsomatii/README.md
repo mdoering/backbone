@@ -1,5 +1,4 @@
-Cortinarius alsomatii Rob. Henry SPECIES
-=======
+# Cortinarius alsomatii Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

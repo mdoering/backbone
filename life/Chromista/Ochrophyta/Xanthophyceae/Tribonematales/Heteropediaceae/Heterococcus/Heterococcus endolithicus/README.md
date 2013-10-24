@@ -1,5 +1,4 @@
-Heterococcus endolithicus Darling, Friedmann & Broady SPECIES
-=======
+# Heterococcus endolithicus Darling, Friedmann & Broady SPECIES
 
 #### Status
 ACCEPTED

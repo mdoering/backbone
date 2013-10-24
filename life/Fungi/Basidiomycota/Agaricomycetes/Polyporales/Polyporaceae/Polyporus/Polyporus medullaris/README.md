@@ -1,5 +1,4 @@
-Polyporus medullaris Berk. SPECIES
-=======
+# Polyporus medullaris Berk. SPECIES
 
 #### Status
 ACCEPTED

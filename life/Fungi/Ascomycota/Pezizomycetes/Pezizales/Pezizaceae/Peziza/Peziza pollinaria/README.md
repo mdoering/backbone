@@ -1,5 +1,4 @@
-Peziza pollinaria Cooke SPECIES
-=======
+# Peziza pollinaria Cooke SPECIES
 
 #### Status
 ACCEPTED

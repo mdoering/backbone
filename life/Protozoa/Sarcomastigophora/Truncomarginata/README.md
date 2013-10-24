@@ -1,5 +1,4 @@
-Truncomarginata Korchagin, 1982 GENUS
-=======
+# Truncomarginata Korchagin, 1982 GENUS
 
 #### Status
 ACCEPTED

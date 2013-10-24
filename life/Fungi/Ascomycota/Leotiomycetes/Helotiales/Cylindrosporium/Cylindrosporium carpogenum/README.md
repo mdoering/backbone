@@ -1,5 +1,4 @@
-Cylindrosporium carpogenum Vassiljevsky SPECIES
-=======
+# Cylindrosporium carpogenum Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

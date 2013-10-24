@@ -1,17 +1,16 @@
-Curvularia akaiiensis Sivan., 1987 SPECIES
-=======
+# Cochliobolus akaiiensis Sivan., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 158: 110 (1987)
 
 #### Original name
-null
+Cochliobolus akaiiensis Sivan., 1987
 
 ### Remarks
 null

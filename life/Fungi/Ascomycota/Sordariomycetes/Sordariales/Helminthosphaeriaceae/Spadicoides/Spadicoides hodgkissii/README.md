@@ -1,17 +1,16 @@
-Spadicoides hodgkissa W.H. Ho, Yanna & K.D. Hyde SPECIES
-=======
+# Spadicoides hodgkissii W.H. Ho, Yanna & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 94(2): 302 (2002)
 
 #### Original name
-Spadicoides hodgkissa W.H. Ho, Yanna & K.D. Hyde
+Spadicoides hodgkissii W.H. Ho, Yanna & K.D. Hyde
 
 ### Remarks
 null

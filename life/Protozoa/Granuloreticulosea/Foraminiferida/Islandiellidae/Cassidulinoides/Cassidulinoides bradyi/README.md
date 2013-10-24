@@ -1,5 +1,4 @@
-Cassidulinoides bradyi SPECIES
-=======
+# Cassidulinoides bradyi SPECIES
 
 #### Status
 ACCEPTED

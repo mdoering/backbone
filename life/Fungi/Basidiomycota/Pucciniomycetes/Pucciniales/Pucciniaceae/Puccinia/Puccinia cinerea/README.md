@@ -1,5 +1,4 @@
-Puccinia cinerea Arthur SPECIES
-=======
+# Puccinia cinerea Arthur SPECIES
 
 #### Status
 ACCEPTED

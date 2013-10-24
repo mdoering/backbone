@@ -1,5 +1,4 @@
-Aphelaria korupensis P. Roberts, 1999 SPECIES
-=======
+# Aphelaria korupensis P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

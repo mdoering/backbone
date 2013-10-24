@@ -1,14 +1,13 @@
-Ramularia ludwigiana P. Syd. SPECIES
-=======
+# Spermosporina ludwigiana (P. Syd.) U. Braun, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 413 (1998)
 
 #### Original name
 Ramularia ludwigiana P. Syd.

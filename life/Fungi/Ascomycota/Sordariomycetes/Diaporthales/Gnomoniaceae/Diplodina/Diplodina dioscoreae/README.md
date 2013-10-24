@@ -1,5 +1,4 @@
-Diplodina dioscoreae Woron. SPECIES
-=======
+# Diplodina dioscoreae Woron. SPECIES
 
 #### Status
 ACCEPTED

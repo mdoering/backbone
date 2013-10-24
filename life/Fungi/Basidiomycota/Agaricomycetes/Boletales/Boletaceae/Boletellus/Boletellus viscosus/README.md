@@ -1,5 +1,4 @@
-Boletellus viscosus C.S. Bi & Loh SPECIES
-=======
+# Boletellus viscosus C.S. Bi & Loh SPECIES
 
 #### Status
 ACCEPTED

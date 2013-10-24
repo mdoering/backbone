@@ -1,5 +1,4 @@
-Schizoderma phacidioides Kunze SPECIES
-=======
+# Schizoderma phacidioides Kunze SPECIES
 
 #### Status
 ACCEPTED

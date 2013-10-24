@@ -1,5 +1,4 @@
-Clypeolina apus (Theiss.) Theiss. SPECIES
-=======
+# Clypeolina apus (Theiss.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

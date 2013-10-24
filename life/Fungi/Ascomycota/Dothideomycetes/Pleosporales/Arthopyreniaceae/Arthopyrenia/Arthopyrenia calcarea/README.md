@@ -1,5 +1,4 @@
-Arthopyrenia calcarea C. Knight SPECIES
-=======
+# Arthopyrenia calcarea C. Knight SPECIES
 
 #### Status
 ACCEPTED

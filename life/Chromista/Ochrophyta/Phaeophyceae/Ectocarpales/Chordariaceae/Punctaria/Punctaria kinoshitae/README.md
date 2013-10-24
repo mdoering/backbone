@@ -1,5 +1,4 @@
-Punctaria kinoshitae Yamada & Iwamoto SPECIES
-=======
+# Punctaria kinoshitae Yamada & Iwamoto SPECIES
 
 #### Status
 ACCEPTED

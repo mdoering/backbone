@@ -1,5 +1,4 @@
-Saccharomyces orientalis Beij. SPECIES
-=======
+# Saccharomyces orientalis Beij. SPECIES
 
 #### Status
 ACCEPTED

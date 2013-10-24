@@ -1,5 +1,4 @@
-Rosellinia himalayensis Dargan & K.S. Thind SPECIES
-=======
+# Rosellinia himalayensis Dargan & K.S. Thind SPECIES
 
 #### Status
 ACCEPTED

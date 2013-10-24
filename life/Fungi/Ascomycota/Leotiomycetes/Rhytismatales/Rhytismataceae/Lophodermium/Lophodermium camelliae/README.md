@@ -1,5 +1,4 @@
-Lophodermium camelliae Teng SPECIES
-=======
+# Lophodermium camelliae Teng SPECIES
 
 #### Status
 ACCEPTED

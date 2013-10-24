@@ -1,5 +1,4 @@
-Geastrum smithii Lloyd SPECIES
-=======
+# Geastrum smithii Lloyd SPECIES
 
 #### Status
 ACCEPTED

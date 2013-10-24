@@ -1,5 +1,4 @@
-Erysipelotrichaceae FAMILY
-=======
+# Erysipelotrichaceae FAMILY
 
 #### Status
 ACCEPTED

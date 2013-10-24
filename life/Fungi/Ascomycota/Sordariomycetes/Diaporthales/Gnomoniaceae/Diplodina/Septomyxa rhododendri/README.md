@@ -1,5 +1,4 @@
-Septomyxa rhododendri Oudem. SPECIES
-=======
+# Septomyxa rhododendri Oudem. SPECIES
 
 #### Status
 ACCEPTED

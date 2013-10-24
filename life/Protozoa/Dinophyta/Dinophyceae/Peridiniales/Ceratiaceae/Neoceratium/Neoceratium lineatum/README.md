@@ -1,5 +1,4 @@
-Neoceratium lineatum (Ehrenberg) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
-=======
+# Neoceratium lineatum (Ehrenberg) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
 
 #### Status
 ACCEPTED

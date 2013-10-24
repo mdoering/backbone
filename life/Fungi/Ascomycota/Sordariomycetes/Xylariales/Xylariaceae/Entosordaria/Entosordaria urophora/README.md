@@ -1,5 +1,4 @@
-Entosordaria urophora (Sacc. & Speg.) Höhn. SPECIES
-=======
+# Entosordaria urophora (Sacc. & Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

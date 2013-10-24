@@ -1,5 +1,4 @@
-Arthonia robinsonii Vain. SPECIES
-=======
+# Arthonia robinsonii Vain. SPECIES
 
 #### Status
 ACCEPTED

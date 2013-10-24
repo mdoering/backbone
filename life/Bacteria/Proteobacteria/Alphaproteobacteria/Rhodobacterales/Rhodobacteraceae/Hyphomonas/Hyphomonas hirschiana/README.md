@@ -1,5 +1,4 @@
-Hyphomonas hirschiana Weiner et al., 1985 SPECIES
-=======
+# Hyphomonas hirschiana Weiner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

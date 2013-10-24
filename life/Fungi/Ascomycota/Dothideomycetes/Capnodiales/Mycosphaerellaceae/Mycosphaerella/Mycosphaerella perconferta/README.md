@@ -1,5 +1,4 @@
-Mycosphaerella perconferta Speg. SPECIES
-=======
+# Mycosphaerella perconferta Speg. SPECIES
 
 #### Status
 ACCEPTED

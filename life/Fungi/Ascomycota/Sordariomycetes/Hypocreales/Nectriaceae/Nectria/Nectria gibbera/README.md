@@ -1,5 +1,4 @@
-Nectria gibbera Fuckel SPECIES
-=======
+# Nectria gibbera Fuckel SPECIES
 
 #### Status
 ACCEPTED

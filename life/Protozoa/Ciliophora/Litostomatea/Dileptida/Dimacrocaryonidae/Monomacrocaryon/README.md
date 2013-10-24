@@ -1,5 +1,4 @@
-Monomacrocaryon GENUS
-=======
+# Monomacrocaryon GENUS
 
 #### Status
 ACCEPTED

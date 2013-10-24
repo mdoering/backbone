@@ -1,5 +1,4 @@
-Verticillium biguttatum W. Gams, 1982 SPECIES
-=======
+# Verticillium biguttatum W. Gams, 1982 SPECIES
 
 #### Status
 ACCEPTED

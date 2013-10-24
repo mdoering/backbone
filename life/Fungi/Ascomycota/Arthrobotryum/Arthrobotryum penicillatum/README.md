@@ -1,5 +1,4 @@
-Arthrobotryum penicillatum (Lév.) Seaver & Chardón SPECIES
-=======
+# Arthrobotryum penicillatum (Lév.) Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

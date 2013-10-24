@@ -1,5 +1,4 @@
-Cristigera vestita Kahl, 1928 SPECIES
-=======
+# Cristigera vestita Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

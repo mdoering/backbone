@@ -1,5 +1,4 @@
-Uredo ignava Arthur SPECIES
-=======
+# Uredo ignava Arthur SPECIES
 
 #### Status
 ACCEPTED

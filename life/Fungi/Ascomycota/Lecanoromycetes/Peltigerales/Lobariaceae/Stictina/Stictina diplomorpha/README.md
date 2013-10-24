@@ -1,5 +1,4 @@
-Stictina diplomorpha Müll. Arg. SPECIES
-=======
+# Stictina diplomorpha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

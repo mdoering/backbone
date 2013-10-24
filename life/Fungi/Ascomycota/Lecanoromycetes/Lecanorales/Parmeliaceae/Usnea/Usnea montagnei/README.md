@@ -1,5 +1,4 @@
-Usnea montagnei Motyka SPECIES
-=======
+# Usnea montagnei Motyka SPECIES
 
 #### Status
 ACCEPTED

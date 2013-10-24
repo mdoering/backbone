@@ -1,5 +1,4 @@
-Conradocystis A.Hollande, 1952 GENUS
-=======
+# Conradocystis A.Hollande, 1952 GENUS
 
 #### Status
 ACCEPTED

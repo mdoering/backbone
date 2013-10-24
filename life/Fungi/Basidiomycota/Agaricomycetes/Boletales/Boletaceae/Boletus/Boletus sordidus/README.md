@@ -1,5 +1,4 @@
-Boletus sordidus Frost SPECIES
-=======
+# Boletus sordidus Frost SPECIES
 
 #### Status
 ACCEPTED

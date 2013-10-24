@@ -1,5 +1,4 @@
-Phyllachora eriochloae var. eriochloae VARIETY
-=======
+# Phyllachora eriochloae SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 19(3): 416 (1909)
+null
 
 #### Original name
-Phyllachora eriochloae var. eriochloae
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Capnodium rhamni Cooke & Harkn. SPECIES
-=======
+# Capnodium rhamni Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

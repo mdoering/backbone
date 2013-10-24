@@ -1,5 +1,4 @@
-Anisomeridium phaeospermum R. C. Harris SPECIES
-=======
+# Anisomeridium phaeospermum R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

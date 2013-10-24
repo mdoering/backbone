@@ -1,5 +1,4 @@
-Solenopsora caliacrae Cretz. SPECIES
-=======
+# Solenopsora caliacrae Cretz. SPECIES
 
 #### Status
 ACCEPTED

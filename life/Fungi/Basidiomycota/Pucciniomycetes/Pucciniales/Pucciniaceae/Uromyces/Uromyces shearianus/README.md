@@ -1,5 +1,4 @@
-Uromyces shearianus Arthur SPECIES
-=======
+# Uromyces shearianus Arthur SPECIES
 
 #### Status
 ACCEPTED

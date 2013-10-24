@@ -1,5 +1,4 @@
-Filaspora siliquarum (Fautrey) Kuntze SPECIES
-=======
+# Filaspora siliquarum (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

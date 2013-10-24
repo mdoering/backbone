@@ -1,5 +1,4 @@
-Volutella leucotricha G.F. Atk. SPECIES
-=======
+# Volutella leucotricha G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

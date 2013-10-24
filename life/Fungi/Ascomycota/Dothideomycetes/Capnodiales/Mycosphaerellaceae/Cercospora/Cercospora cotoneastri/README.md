@@ -1,17 +1,16 @@
-Cercospora cotoneasteris Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora cotoneastri Katsuki & Ts. Kobay. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 17(3-4): 276 (1976)
 
 #### Original name
-Cercospora cotoneasteris Katsuki & Ts. Kobay.
+Cercospora cotoneastri Katsuki & Ts. Kobay.
 
 ### Remarks
 null

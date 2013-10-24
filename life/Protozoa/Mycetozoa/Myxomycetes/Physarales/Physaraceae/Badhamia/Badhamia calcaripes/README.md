@@ -1,5 +1,4 @@
-Badhamia calcaripes Gottsb., 1972 SPECIES
-=======
+# Badhamia calcaripes Gottsb., 1972 SPECIES
 
 #### Status
 ACCEPTED

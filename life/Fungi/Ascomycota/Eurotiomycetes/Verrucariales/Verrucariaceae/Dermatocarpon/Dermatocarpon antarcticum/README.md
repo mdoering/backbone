@@ -1,5 +1,4 @@
-Dermatocarpon antarcticum C.W. Dodge SPECIES
-=======
+# Dermatocarpon antarcticum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

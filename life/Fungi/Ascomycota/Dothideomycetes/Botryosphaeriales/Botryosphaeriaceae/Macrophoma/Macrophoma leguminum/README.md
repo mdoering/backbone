@@ -1,5 +1,4 @@
-Macrophoma leguminum Jaap SPECIES
-=======
+# Macrophoma leguminum Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella meliosmae A.K. Kar & Maity SPECIES
-=======
+# Asteridiella meliosmae A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

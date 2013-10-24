@@ -1,5 +1,4 @@
-Dendrocladium furcellatum (Fr.) Lloyd SPECIES
-=======
+# Dendrocladium furcellatum (Fr.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

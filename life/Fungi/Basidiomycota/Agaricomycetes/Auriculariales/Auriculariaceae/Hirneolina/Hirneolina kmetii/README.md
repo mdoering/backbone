@@ -1,5 +1,4 @@
-Hirneolina kmetii (Bres.) Sacc. & Trotter SPECIES
-=======
+# Hirneolina kmetii (Bres.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

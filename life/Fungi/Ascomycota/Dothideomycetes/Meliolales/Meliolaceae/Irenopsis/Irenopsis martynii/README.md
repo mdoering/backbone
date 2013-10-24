@@ -1,5 +1,4 @@
-Irenopsis martynii Hansf. SPECIES
-=======
+# Irenopsis martynii Hansf. SPECIES
 
 #### Status
 ACCEPTED

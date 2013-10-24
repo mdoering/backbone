@@ -1,5 +1,4 @@
-Nigredo galphimiae (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo galphimiae (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

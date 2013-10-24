@@ -1,5 +1,4 @@
-Uredo condylocarpi H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo condylocarpi H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

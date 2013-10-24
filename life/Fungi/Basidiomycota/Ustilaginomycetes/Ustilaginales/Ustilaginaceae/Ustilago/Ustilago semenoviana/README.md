@@ -1,5 +1,4 @@
-Ustilago semenoviana (Lavrov) Cif. SPECIES
-=======
+# Ustilago semenoviana (Lavrov) Cif. SPECIES
 
 #### Status
 ACCEPTED

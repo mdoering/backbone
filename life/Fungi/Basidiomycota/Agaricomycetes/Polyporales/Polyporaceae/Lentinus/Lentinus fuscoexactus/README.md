@@ -1,5 +1,4 @@
-Lentinus fuscoexactus Lloyd SPECIES
-=======
+# Lentinus fuscoexactus Lloyd SPECIES
 
 #### Status
 ACCEPTED

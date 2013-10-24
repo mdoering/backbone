@@ -1,5 +1,4 @@
-Hypodermopsis expallens (Schwein.) Kuntze SPECIES
-=======
+# Hypodermopsis expallens (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

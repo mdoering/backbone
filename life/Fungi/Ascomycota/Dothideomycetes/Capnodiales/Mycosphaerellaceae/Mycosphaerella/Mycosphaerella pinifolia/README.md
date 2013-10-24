@@ -1,5 +1,4 @@
-Mycosphaerella pinifolia (Ducomet) Tomilin SPECIES
-=======
+# Mycosphaerella pinifolia (Ducomet) Tomilin SPECIES
 
 #### Status
 ACCEPTED

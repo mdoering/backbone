@@ -1,5 +1,4 @@
-Sympoventuria capensis Crous & Seifert, 2007 SPECIES
-=======
+# Sympoventuria capensis Crous & Seifert, 2007 SPECIES
 
 #### Status
 ACCEPTED

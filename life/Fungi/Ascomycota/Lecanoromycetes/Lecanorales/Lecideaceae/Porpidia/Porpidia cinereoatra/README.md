@@ -1,17 +1,16 @@
-Lecidea cinereoatra var. cinereoatra VARIETY
-=======
+# Porpidia cinereoatra (Ach.) Hertel & Knoph SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hertel, Beih. Nova Hedwigia 79: 437 (1984)
 
 #### Original name
-Lecidea cinereoatra var. cinereoatra
+Lecidea cinereoatra Ach.
 
 ### Remarks
 null

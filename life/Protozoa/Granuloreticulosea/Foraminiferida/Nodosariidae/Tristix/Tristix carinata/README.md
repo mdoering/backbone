@@ -1,5 +1,4 @@
-Tristix carinata (Sidebottom, 1918) SPECIES
-=======
+# Tristix carinata (Sidebottom, 1918) SPECIES
 
 #### Status
 ACCEPTED

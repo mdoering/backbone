@@ -1,5 +1,4 @@
-Gymnodinium arcuatum Kofoid, 1931 SPECIES
-=======
+# Gymnodinium arcuatum Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

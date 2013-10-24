@@ -1,5 +1,4 @@
-Clitocybe luteiceps Murrill SPECIES
-=======
+# Clitocybe luteiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

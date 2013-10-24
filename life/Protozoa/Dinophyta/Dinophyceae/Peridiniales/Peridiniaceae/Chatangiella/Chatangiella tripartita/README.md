@@ -1,5 +1,4 @@
-Chatangiella tripartita (Cookson & Eisenack, 1960) Lentin & Williams, 1976 SPECIES
-=======
+# Chatangiella tripartita (Cookson & Eisenack, 1960) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

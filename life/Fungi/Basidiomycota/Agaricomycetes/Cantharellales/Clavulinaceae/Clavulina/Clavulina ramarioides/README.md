@@ -1,5 +1,4 @@
-Clavulina ramarioides R.H. Petersen SPECIES
-=======
+# Clavulina ramarioides R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia capicola Brusse SPECIES
-=======
+# Parmelia capicola Brusse SPECIES
 
 #### Status
 ACCEPTED

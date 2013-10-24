@@ -1,5 +1,4 @@
-Clitocybe nobilis Peck SPECIES
-=======
+# Clitocybe nobilis Peck SPECIES
 
 #### Status
 ACCEPTED

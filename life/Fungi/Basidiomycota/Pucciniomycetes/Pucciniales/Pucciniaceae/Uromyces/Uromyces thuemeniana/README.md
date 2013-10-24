@@ -1,5 +1,4 @@
-Uromyces thuemeniana Voos SPECIES
-=======
+# Uromyces thuemeniana Voos SPECIES
 
 #### Status
 ACCEPTED

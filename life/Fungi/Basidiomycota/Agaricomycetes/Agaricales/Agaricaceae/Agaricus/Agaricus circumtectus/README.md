@@ -1,5 +1,4 @@
-Agaricus circumtectus Cooke & Massee SPECIES
-=======
+# Agaricus circumtectus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

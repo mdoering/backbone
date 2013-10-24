@@ -1,5 +1,4 @@
-Thyrea nodulosa (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea nodulosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

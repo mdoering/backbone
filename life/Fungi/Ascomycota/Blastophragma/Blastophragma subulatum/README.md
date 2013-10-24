@@ -1,17 +1,16 @@
-Blastophragma subulata Subram. SPECIES
-=======
+# Blastophragma subulatum Subram., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 20/21(1-2): 57 (1995)
 
 #### Original name
-Blastophragma subulata Subram.
+Blastophragma subulatum Subram., 1995
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Torula umbilicata Rivolta SPECIES
-=======
+# Torula umbilicata Rivolta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporodinium Gönnert, 1936 GENUS
-=======
+# Sporodinium Gönnert, 1936 GENUS
 
 #### Status
 ACCEPTED

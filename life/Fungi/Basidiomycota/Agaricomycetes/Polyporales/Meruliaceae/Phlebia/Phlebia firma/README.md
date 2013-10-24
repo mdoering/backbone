@@ -1,14 +1,13 @@
-Lilaceophlebia firma (J. Erikss. & Hjortstam) Spirin & Zmitr., 2004 SPECIES
-=======
+# Phlebia firma J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 37: 178 (2004)
+in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1115 (1981)
 
 #### Original name
 Phlebia firma J. Erikss. & Hjortstam, 1981

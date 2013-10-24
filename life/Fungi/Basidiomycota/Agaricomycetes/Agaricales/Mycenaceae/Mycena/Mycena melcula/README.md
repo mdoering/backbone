@@ -1,5 +1,4 @@
-Mycena melcula Grgur. & A.A. Holland SPECIES
-=======
+# Mycena melcula Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

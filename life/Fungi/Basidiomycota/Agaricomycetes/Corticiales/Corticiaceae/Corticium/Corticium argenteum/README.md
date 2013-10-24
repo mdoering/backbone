@@ -1,5 +1,4 @@
-Corticium argenteum Kobayasi SPECIES
-=======
+# Corticium argenteum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

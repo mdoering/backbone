@@ -1,5 +1,4 @@
-Russula lateralipes Buyck & E. Horak SPECIES
-=======
+# Russula lateralipes Buyck & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea vernicoma Tuck. SPECIES
-=======
+# Lecidea vernicoma Tuck. SPECIES
 
 #### Status
 ACCEPTED

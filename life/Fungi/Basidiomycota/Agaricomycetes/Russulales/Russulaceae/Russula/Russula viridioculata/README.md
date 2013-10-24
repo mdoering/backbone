@@ -1,5 +1,4 @@
-Russula viridioculata Burl. SPECIES
-=======
+# Russula viridioculata Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelina irrugans (Nyl.) Hale SPECIES
-=======
+# Myelochroa irrugans (Nyl.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 241 (1987)
 
 #### Original name
-null
+Parmelia irrugans Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius argumentosus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius argumentosus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

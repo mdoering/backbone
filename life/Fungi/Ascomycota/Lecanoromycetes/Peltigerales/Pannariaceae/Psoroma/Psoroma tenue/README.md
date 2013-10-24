@@ -1,5 +1,4 @@
-Psoroma tenue var. tenue VARIETY
-=======
+# Psoroma tenue Henssen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Henssen & Renner, Mycotaxon 13(3): 437 (1981)
 
 #### Original name
-Psoroma tenue var. tenue
+Psoroma tenue Henssen
 
 ### Remarks
 null

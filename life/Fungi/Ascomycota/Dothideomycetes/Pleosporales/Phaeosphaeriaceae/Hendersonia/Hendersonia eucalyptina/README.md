@@ -1,5 +1,4 @@
-Hendersonia eucalyptina A.C. Santos SPECIES
-=======
+# Hendersonia eucalyptina A.C. Santos SPECIES
 
 #### Status
 ACCEPTED

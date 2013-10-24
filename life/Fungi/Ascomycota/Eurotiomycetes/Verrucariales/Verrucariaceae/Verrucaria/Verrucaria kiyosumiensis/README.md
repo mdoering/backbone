@@ -1,5 +1,4 @@
-Verrucaria kiyosumiensis H. Harada SPECIES
-=======
+# Verrucaria kiyosumiensis H. Harada SPECIES
 
 #### Status
 ACCEPTED

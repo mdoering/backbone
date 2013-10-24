@@ -1,5 +1,4 @@
-Clavaria cedretorum (Maire) Trotter SPECIES
-=======
+# Clavaria cedretorum (Maire) Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarea complanata Fr. SPECIES
-=======
+# Sarea complanata Fr. SPECIES
 
 #### Status
 ACCEPTED

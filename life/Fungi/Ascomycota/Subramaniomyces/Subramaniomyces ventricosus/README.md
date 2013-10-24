@@ -1,5 +1,4 @@
-Subramaniomyces ventricosus R.F. Castañeda SPECIES
-=======
+# Subramaniomyces ventricosus R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

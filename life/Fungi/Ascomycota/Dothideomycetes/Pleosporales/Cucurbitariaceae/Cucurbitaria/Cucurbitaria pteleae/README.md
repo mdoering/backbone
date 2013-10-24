@@ -1,5 +1,4 @@
-Cucurbitaria pteleae Hollós SPECIES
-=======
+# Cucurbitaria pteleae Hollós SPECIES
 
 #### Status
 ACCEPTED

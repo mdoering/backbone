@@ -1,5 +1,4 @@
-Collybia loiseleurietorum M.M. Moser, Gerhold & Tobies SPECIES
-=======
+# Collybia loiseleurietorum M.M. Moser, Gerhold & Tobies SPECIES
 
 #### Status
 ACCEPTED

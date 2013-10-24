@@ -1,5 +1,4 @@
-Thyridaria leonensis Petr. SPECIES
-=======
+# Thyridaria leonensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Johnsonella Moore & Moore, 1994 GENUS
-=======
+# Johnsonella Moore & Moore, 1994 GENUS
 
 #### Status
 ACCEPTED

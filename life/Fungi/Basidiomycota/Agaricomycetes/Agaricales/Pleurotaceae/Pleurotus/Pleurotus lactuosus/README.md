@@ -1,5 +1,4 @@
-Pleurotus lactuosus Corner, 1981 SPECIES
-=======
+# Pleurotus lactuosus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

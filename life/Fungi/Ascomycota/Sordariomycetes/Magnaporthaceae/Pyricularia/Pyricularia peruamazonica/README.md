@@ -1,5 +1,4 @@
-Pyricularia peruamazonica Matsush. SPECIES
-=======
+# Pyricularia peruamazonica Matsush. SPECIES
 
 #### Status
 ACCEPTED

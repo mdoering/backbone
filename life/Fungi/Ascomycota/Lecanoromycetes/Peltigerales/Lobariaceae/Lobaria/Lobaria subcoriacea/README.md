@@ -1,5 +1,4 @@
-Lobaria subcoriacea (Nyl.) Hellb. SPECIES
-=======
+# Lobaria subcoriacea (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

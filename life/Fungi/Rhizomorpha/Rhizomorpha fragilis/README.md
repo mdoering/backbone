@@ -1,5 +1,4 @@
-Rhizomorpha fragilis var. fragilis VARIETY
-=======
+# Rhizomorpha fragilis ß fragilis Roth SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Bot. (Usteri) 1: 7 (1791)
 
 #### Original name
-Rhizomorpha fragilis var. fragilis
+Rhizomorpha fragilis ß fragilis Roth
 
 ### Remarks
 null

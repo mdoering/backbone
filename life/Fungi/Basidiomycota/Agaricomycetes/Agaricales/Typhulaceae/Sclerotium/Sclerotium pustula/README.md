@@ -1,17 +1,16 @@
-Sclerotium pustula subsp. pustula SUBSPECIES
-=======
+# Sclerotium pustula DC., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 113 (1815)
 
 #### Original name
-null
+Sclerotium pustula DC., 1815
 
 ### Remarks
 null

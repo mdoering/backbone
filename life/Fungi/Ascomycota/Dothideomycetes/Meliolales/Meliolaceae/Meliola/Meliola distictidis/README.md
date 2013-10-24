@@ -1,5 +1,4 @@
-Meliola distictidis Hansf. SPECIES
-=======
+# Meliola distictidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

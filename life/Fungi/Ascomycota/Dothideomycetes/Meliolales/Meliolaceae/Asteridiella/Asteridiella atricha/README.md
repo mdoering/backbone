@@ -1,5 +1,4 @@
-Asteridiella atricha var. atricha VARIETY
-=======
+# Asteridiella atricha (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 139 (1961)
 
 #### Original name
-Asteridiella atricha var. atricha
+Meliola laxa var. atricha Speg.
 
 ### Remarks
 null

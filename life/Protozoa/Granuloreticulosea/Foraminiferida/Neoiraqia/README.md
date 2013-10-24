@@ -1,5 +1,4 @@
-Neoiraqia GENUS
-=======
+# Neoiraqia GENUS
 
 #### Status
 ACCEPTED

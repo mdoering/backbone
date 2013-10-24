@@ -1,5 +1,4 @@
-Platismatia herrei (Imshaug) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia herrei (Imshaug) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita kammala Grgur. SPECIES
-=======
+# Amanita kammala Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon deserti Zahlbr. SPECIES
-=======
+# Dermatocarpon deserti Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

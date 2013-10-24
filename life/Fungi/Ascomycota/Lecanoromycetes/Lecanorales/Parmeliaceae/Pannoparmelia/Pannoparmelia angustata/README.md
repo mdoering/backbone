@@ -1,17 +1,16 @@
-Parmelia angustata var. angustata VARIETY
-=======
+# Pannoparmelia angustata (Pers.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gaudichaud-Beaupré, Voy. Uranie. Bot. 195 (1827)
+in Handel-Mazzetii, Symb. Sin. 3: 195 (1930)
 
 #### Original name
-Parmelia angustata var. angustata
+Pannoparmelia angustata (Pers.) Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Reymanella Marcink. GENUS
-=======
+# Reymanella Marcink. GENUS
 
 #### Status
 ACCEPTED

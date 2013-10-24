@@ -1,5 +1,4 @@
-Ectostroma phragmitis Lobik SPECIES
-=======
+# Ectostroma phragmitis Lobik SPECIES
 
 #### Status
 ACCEPTED

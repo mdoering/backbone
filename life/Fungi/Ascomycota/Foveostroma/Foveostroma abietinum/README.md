@@ -1,5 +1,4 @@
-Foveostroma abietinum (Peck) DiCosmo SPECIES
-=======
+# Foveostroma abietinum (Peck) DiCosmo SPECIES
 
 #### Status
 ACCEPTED

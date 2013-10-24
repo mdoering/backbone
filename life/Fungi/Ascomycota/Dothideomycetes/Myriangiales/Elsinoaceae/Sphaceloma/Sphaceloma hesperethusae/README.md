@@ -1,5 +1,4 @@
-Sphaceloma hesperethusae Jenkins & Bitanc. SPECIES
-=======
+# Sphaceloma hesperethusae Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

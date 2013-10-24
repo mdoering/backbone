@@ -1,5 +1,4 @@
-Bomolithus P.H.Roth GENUS
-=======
+# Bomolithus P.H.Roth GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon Eschweiler, 1824 GENUS
-=======
+# Dermatocarpon Eschweiler, 1824 GENUS
 
 #### Status
 ACCEPTED

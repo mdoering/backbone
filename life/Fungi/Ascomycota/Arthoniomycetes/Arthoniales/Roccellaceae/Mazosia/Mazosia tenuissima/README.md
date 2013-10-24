@@ -1,5 +1,4 @@
-Mazosia tenuissima Lücking & Matzer SPECIES
-=======
+# Mazosia tenuissima Lücking & Matzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia prasiolae G. Winter SPECIES
-=======
+# Laestadia prasiolae G. Winter SPECIES
 
 #### Status
 ACCEPTED

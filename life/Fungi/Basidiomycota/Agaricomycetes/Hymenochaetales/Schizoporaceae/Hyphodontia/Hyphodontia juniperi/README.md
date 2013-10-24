@@ -1,14 +1,13 @@
-Kneiffiella juniperi (Bourdot & Galzin) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphodontia juniperi (Bourdot & Galzin) J. Erikss. & Hjortstam, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 131 (1980)
+Cortic. N. Eur. (Oslo) 4: 666 (1976)
 
 #### Original name
 null

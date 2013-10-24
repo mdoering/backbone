@@ -1,5 +1,4 @@
-Pseudosagedia austriaca (Körb.) Hafellner SPECIES
-=======
+# Pseudosagedia austriaca (Körb.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

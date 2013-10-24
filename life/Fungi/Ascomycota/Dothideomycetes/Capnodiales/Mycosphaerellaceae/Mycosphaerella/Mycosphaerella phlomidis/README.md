@@ -1,5 +1,4 @@
-Mycosphaerella phlomidis Tomilin SPECIES
-=======
+# Mycosphaerella phlomidis Tomilin SPECIES
 
 #### Status
 ACCEPTED

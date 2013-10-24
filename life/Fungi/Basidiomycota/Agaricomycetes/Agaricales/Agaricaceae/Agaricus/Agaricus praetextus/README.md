@@ -1,5 +1,4 @@
-Agaricus praetextus With. SPECIES
-=======
+# Agaricus praetextus With. SPECIES
 
 #### Status
 ACCEPTED

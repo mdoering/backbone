@@ -1,5 +1,4 @@
-Loxophyllum perihoplophorum von Buddenbrock, 1920 SPECIES
-=======
+# Loxophyllum perihoplophorum von Buddenbrock, 1920 SPECIES
 
 #### Status
 ACCEPTED

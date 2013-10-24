@@ -1,5 +1,4 @@
-Ocellularia conpsoromica Hale SPECIES
-=======
+# Ocellularia conpsoromica Hale SPECIES
 
 #### Status
 ACCEPTED

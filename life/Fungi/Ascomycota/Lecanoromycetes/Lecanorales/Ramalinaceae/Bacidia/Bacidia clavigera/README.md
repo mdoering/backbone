@@ -1,5 +1,4 @@
-Bacidia clavigera (Zahlbr.) Zahlbr. SPECIES
-=======
+# Bacidia clavigera (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paratrochammina zhongshaensis Zheng & Fu, 2001 SPECIES
-=======
+# Paratrochammina zhongshaensis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

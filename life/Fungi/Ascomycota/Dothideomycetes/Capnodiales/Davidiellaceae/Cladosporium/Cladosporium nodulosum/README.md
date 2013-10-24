@@ -1,14 +1,13 @@
-Didymotrichum nodulosum (Corda) Bonord., 1851 SPECIES
-=======
+# Cladosporium nodulosum Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 89 (1851)
+Icon. fung. (Prague) 1: 15 (1837)
 
 #### Original name
 Cladosporium nodulosum Corda, 1837

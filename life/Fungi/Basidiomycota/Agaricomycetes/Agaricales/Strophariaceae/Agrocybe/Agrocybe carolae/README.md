@@ -1,5 +1,4 @@
-Agrocybe carolae Arras, Brotzu, Contu & Piga SPECIES
-=======
+# Agrocybe carolae Arras, Brotzu, Contu & Piga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stauracontidae FAMILY
-=======
+# Stauracontidae FAMILY
 
 #### Status
 ACCEPTED

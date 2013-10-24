@@ -1,5 +1,4 @@
-Vermicularia serbica Ranoj. SPECIES
-=======
+# Vermicularia serbica Ranoj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus nitidus Berk. & M.A. Curtis, 1853 SPECIES
-=======
+# Hygrophorus nitidus Berk. & M.A. Curtis, 1853 SPECIES
 
 #### Status
 ACCEPTED

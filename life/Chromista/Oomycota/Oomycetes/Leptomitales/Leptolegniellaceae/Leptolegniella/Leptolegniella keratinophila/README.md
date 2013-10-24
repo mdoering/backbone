@@ -1,17 +1,16 @@
-Leptolegniella keratinophilum Huneycutt SPECIES
-=======
+# Leptolegniella keratinophila Huneycutt, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 68: 110 (1952)
 
 #### Original name
-Leptolegniella keratinophilum Huneycutt
+Leptolegniella keratinophila Huneycutt, 1952
 
 ### Remarks
 null

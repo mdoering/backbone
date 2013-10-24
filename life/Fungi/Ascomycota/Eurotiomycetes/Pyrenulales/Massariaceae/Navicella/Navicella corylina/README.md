@@ -1,5 +1,4 @@
-Navicella corylina (Pass.) Kuntze SPECIES
-=======
+# Navicella corylina (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

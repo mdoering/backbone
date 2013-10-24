@@ -1,5 +1,4 @@
-Mitrula vinosa Berk. SPECIES
-=======
+# Mitrula vinosa Berk. SPECIES
 
 #### Status
 ACCEPTED

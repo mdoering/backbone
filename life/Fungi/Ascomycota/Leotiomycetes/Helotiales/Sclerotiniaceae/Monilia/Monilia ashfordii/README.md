@@ -1,5 +1,4 @@
-Monilia ashfordii (H.W. Anderson) Brumpt SPECIES
-=======
+# Monilia ashfordii (H.W. Anderson) Brumpt SPECIES
 
 #### Status
 ACCEPTED

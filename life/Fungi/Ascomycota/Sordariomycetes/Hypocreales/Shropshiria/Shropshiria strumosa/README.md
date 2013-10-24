@@ -1,5 +1,4 @@
-Shropshiria strumosa (Cooke) Cif. SPECIES
-=======
+# Shropshiria strumosa (Cooke) Cif. SPECIES
 
 #### Status
 ACCEPTED

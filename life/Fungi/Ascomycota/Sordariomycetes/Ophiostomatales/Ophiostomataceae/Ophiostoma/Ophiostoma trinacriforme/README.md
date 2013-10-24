@@ -1,14 +1,13 @@
-Ceratocystis trinacriforme (A.K. Parker) H.P. Upadhyay SPECIES
-=======
+# Ophiostoma trinacriforme (A.K. Parker) T.C. Harr., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 28(1): 42 (1987)
 
 #### Original name
 Europhium trinacriforme A.K. Parker, 1957

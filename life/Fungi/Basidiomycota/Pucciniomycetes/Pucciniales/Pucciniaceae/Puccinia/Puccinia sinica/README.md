@@ -1,5 +1,4 @@
-Puccinia sinica Syd. SPECIES
-=======
+# Puccinia sinica Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsomorpha hebeica Timofeev, 1966 SPECIES
-=======
+# Gloeocapsomorpha hebeica Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

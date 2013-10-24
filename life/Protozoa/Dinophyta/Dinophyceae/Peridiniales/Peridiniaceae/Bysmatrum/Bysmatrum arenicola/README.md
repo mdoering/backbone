@@ -1,5 +1,4 @@
-Bysmatrum arenicola T. Horiguchi & R.N. Pienaar SPECIES
-=======
+# Bysmatrum arenicola T. Horiguchi & R.N. Pienaar SPECIES
 
 #### Status
 ACCEPTED

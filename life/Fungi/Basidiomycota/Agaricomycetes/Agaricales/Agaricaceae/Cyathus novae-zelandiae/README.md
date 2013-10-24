@@ -1,5 +1,4 @@
-Cyathus novae-zelandiae Lloyd SPECIES
-=======
+# Cyathus novae-zelandiae Lloyd SPECIES
 
 #### Status
 ACCEPTED

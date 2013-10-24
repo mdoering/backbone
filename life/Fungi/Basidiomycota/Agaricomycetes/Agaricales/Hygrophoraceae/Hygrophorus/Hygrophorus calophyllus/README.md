@@ -1,5 +1,4 @@
-Hygrophorus calophyllus P. Karst. SPECIES
-=======
+# Hygrophorus calophyllus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menegazzia opuntioides (Müll. Arg.) R. Sant. SPECIES
-=======
+# Menegazzia opuntioides (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

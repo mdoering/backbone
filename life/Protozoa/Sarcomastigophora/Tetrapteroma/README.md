@@ -1,5 +1,4 @@
-Tetrapteroma Haeckel, 1881 GENUS
-=======
+# Tetrapteroma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina verbenicola (Ellis & Everh.) Sacc. SPECIES
-=======
+# Cercosporina verbenicola (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

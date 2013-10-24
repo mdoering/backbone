@@ -1,5 +1,4 @@
-Xylaria multiplex var. multiplex VARIETY
-=======
+# Xylaria multiplex (Kunze) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 1: 127 (1851)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 127 (1851)
 
 #### Original name
-Xylaria multiplex var. multiplex
+Sphaeria multiplex Kunze
 
 ### Remarks
 null

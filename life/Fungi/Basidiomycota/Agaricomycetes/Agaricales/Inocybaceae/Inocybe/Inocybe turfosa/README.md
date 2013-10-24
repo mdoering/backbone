@@ -1,5 +1,4 @@
-Inocybe turfosa Velen. SPECIES
-=======
+# Inocybe turfosa Velen. SPECIES
 
 #### Status
 ACCEPTED

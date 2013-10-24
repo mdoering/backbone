@@ -1,5 +1,4 @@
-Sinoboletus fuscus M. Zang & C.M. Chen, 1998 SPECIES
-=======
+# Sinoboletus fuscus M. Zang & C.M. Chen, 1998 SPECIES
 
 #### Status
 ACCEPTED

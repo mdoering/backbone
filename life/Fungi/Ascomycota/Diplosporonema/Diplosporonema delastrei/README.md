@@ -1,17 +1,16 @@
-Marssonia delastrei var. delastrei VARIETY
-=======
+# Diplosporonema delastrei (Lacroix) Höhn. ex Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 708 (1884)
+Sydowia 1: 74 (1947)
 
 #### Original name
-Marssonia delastrei var. delastrei
+Gloeosporium delastrei Lacroix, 1856
 
 ### Remarks
 null

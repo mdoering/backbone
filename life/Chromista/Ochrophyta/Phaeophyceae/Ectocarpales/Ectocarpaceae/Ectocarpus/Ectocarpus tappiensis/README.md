@@ -1,5 +1,4 @@
-Ectocarpus tappiensis Ohta SPECIES
-=======
+# Ectocarpus tappiensis Ohta SPECIES
 
 #### Status
 ACCEPTED

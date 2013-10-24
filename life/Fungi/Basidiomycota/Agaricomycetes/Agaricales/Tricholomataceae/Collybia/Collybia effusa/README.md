@@ -1,5 +1,4 @@
-Collybia effusa Har. Takah. SPECIES
-=======
+# Collybia effusa Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

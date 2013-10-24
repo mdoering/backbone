@@ -1,5 +1,4 @@
-Nishimuraella Kozur, 1986 GENUS
-=======
+# Nishimuraella Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

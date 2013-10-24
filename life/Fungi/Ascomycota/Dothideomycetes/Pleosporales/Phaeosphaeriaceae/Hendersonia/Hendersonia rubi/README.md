@@ -1,17 +1,16 @@
-Hendersonia rubi f. rubi FORM
-=======
+# Hendersonia rubi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Michelia 1(no. 2): 214 (1878)
+null
 
 #### Original name
-Hendersonia rubi f. rubi
+null
 
 ### Remarks
 null

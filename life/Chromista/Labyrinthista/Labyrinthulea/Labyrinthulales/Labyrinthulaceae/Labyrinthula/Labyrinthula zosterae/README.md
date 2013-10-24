@@ -1,5 +1,4 @@
-Labyrinthula zosterae D. Porter & Muehlst., 1991 SPECIES
-=======
+# Labyrinthula zosterae D. Porter & Muehlst., 1991 SPECIES
 
 #### Status
 ACCEPTED

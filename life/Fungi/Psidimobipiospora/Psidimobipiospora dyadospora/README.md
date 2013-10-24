@@ -1,5 +1,4 @@
-Psidimobipiospora dyadospora Sal.-Cheb. & Locq. SPECIES
-=======
+# Psidimobipiospora dyadospora Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

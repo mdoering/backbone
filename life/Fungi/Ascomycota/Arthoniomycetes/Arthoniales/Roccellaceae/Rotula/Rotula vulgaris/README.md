@@ -1,5 +1,4 @@
-Rotula vulgaris var. vulgaris VARIETY
-=======
+# Rotula vulgaris Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 73(2): 191 (1890)
 
 #### Original name
-Rotula vulgaris var. vulgaris
+Rotula vulgaris Müll. Arg.
 
 ### Remarks
 null

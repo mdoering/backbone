@@ -1,5 +1,4 @@
-Tuberculina ovalispora Pat. & Gaillard SPECIES
-=======
+# Tuberculina ovalispora Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

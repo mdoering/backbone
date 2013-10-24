@@ -1,5 +1,4 @@
-Lecanora lavata (H. Magn.) Fink SPECIES
-=======
+# Lecanora lavata (H. Magn.) Fink SPECIES
 
 #### Status
 ACCEPTED

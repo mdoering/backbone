@@ -1,5 +1,4 @@
-Bacidia bacillifera (Nyl.) Branth & Rostr. SPECIES
-=======
+# Bacidia bacillifera (Nyl.) Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED

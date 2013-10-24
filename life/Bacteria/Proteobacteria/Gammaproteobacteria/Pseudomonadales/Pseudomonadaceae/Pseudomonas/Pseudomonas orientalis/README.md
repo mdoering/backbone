@@ -1,5 +1,4 @@
-Pseudomonas orientalis Dabboussi et al., 2002 SPECIES
-=======
+# Pseudomonas orientalis Dabboussi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

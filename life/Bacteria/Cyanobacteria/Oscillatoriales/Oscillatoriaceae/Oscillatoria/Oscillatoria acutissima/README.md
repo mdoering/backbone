@@ -1,5 +1,4 @@
-Oscillatoria acutissima H. Kufferath SPECIES
-=======
+# Oscillatoria acutissima H. Kufferath SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanococci CLASS
-=======
+# Methanococci CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochaeta isovalerica Harwood & Canale-Parola, 1983 SPECIES
-=======
+# Spirochaeta isovalerica Harwood & Canale-Parola, 1983 SPECIES
 
 #### Status
 ACCEPTED

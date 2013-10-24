@@ -1,14 +1,13 @@
-Cystoderma fulvo-lateritia (Raithelh.) Raithelh. SPECIES
-=======
+# Cystoderma fulvolateritium (Raithelh.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana, Sonderheft 2: 13 (1983)
 
 #### Original name
 Lepiota fulvolateritia Raithelh.

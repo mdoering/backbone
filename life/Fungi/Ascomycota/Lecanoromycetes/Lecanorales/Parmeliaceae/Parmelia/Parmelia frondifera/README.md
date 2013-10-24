@@ -1,5 +1,4 @@
-Parmelia frondifera G. Merr. SPECIES
-=======
+# Parmelia frondifera G. Merr. SPECIES
 
 #### Status
 ACCEPTED

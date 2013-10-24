@@ -1,5 +1,4 @@
-Hypholoma intonsum Pass. SPECIES
-=======
+# Hypholoma intonsum Pass. SPECIES
 
 #### Status
 ACCEPTED

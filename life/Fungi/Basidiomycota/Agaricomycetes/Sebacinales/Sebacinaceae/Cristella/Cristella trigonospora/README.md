@@ -1,5 +1,4 @@
-Cristella trigonospora M.P. Christ. SPECIES
-=======
+# Cristella trigonospora M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

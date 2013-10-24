@@ -1,5 +1,4 @@
-Phyllosticta alsophilae Syd. SPECIES
-=======
+# Phyllosticta alsophilae Syd. SPECIES
 
 #### Status
 ACCEPTED

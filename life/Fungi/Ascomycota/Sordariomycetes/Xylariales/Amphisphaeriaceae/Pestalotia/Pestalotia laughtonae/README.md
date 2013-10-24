@@ -1,5 +1,4 @@
-Pestalotia laughtonae Doidge SPECIES
-=======
+# Pestalotia laughtonae Doidge SPECIES
 
 #### Status
 ACCEPTED

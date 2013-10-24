@@ -1,5 +1,4 @@
-Diplodina lupini Jaap SPECIES
-=======
+# Diplodina lupini Jaap SPECIES
 
 #### Status
 ACCEPTED

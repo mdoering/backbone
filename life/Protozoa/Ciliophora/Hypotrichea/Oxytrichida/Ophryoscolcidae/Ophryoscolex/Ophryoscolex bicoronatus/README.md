@@ -1,5 +1,4 @@
-Ophryoscolex bicoronatus Dogiel, 1927 SPECIES
-=======
+# Ophryoscolex bicoronatus Dogiel, 1927 SPECIES
 
 #### Status
 ACCEPTED

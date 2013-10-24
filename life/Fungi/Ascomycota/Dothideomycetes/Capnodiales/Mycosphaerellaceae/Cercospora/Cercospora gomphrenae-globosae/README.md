@@ -1,5 +1,4 @@
-Cercospora gomphrenae-globosae S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora gomphrenae-globosae S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
 ACCEPTED

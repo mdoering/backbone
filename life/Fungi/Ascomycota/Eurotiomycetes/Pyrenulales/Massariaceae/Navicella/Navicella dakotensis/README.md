@@ -1,5 +1,4 @@
-Navicella dakotensis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella dakotensis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia bicolor Ellis SPECIES
-=======
+# Rhizoctonia bicolor Ellis SPECIES
 
 #### Status
 ACCEPTED

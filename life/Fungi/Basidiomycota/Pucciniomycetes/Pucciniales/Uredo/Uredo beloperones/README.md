@@ -1,5 +1,4 @@
-Uredo beloperones Arthur SPECIES
-=======
+# Uredo beloperones Arthur SPECIES
 
 #### Status
 ACCEPTED

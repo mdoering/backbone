@@ -1,5 +1,4 @@
-Belonopsis advena (P. Karst.) Sacc. & P. Syd. SPECIES
-=======
+# Belonopsis advena (P. Karst.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

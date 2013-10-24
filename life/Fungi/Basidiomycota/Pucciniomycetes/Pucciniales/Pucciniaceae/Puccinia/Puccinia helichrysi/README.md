@@ -1,5 +1,4 @@
-Puccinia helichrysi Kalchbr. SPECIES
-=======
+# Puccinia helichrysi Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

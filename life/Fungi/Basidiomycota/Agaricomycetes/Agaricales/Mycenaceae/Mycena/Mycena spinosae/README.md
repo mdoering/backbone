@@ -1,5 +1,4 @@
-Mycena spinosae Velen. SPECIES
-=======
+# Mycena spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

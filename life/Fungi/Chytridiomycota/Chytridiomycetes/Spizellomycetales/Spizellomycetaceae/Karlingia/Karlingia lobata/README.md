@@ -1,5 +1,4 @@
-Karlingia lobata var. lobata VARIETY
-=======
+# Karlingia lobata Karling SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 41(5): 515 (1949)
 
 #### Original name
-Karlingia lobata var. lobata
+Karlingia lobata Karling
 
 ### Remarks
 null

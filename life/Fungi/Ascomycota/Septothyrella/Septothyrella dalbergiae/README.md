@@ -1,5 +1,4 @@
-Septothyrella dalbergiae Pavgi & R.A. Singh SPECIES
-=======
+# Septothyrella dalbergiae Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

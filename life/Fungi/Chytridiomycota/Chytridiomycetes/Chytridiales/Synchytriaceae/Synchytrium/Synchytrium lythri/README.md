@@ -1,5 +1,4 @@
-Synchytrium lythri M.T. Cook SPECIES
-=======
+# Synchytrium lythri M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

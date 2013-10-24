@@ -1,5 +1,4 @@
-Hygrophorus ericeti Britzelm. SPECIES
-=======
+# Hygrophorus ericeti Britzelm. SPECIES
 
 #### Status
 ACCEPTED

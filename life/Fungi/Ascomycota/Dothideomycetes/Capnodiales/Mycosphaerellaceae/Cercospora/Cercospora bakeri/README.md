@@ -1,5 +1,4 @@
-Cercospora bakeri Syd. SPECIES
-=======
+# Cercospora bakeri Syd. SPECIES
 
 #### Status
 ACCEPTED

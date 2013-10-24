@@ -1,5 +1,4 @@
-Follicucullidae Ormiston & Babcock, 1979 FAMILY
-=======
+# Follicucullidae Ormiston & Babcock, 1979 FAMILY
 
 #### Status
 ACCEPTED

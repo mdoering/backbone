@@ -1,5 +1,4 @@
-Pelosigma Lauterborn GENUS
-=======
+# Pelosigma Lauterborn GENUS
 
 #### Status
 ACCEPTED

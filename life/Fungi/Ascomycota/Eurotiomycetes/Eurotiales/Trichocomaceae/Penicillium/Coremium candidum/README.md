@@ -1,5 +1,4 @@
-Coremium candidum Nees SPECIES
-=======
+# Coremium candidum Nees SPECIES
 
 #### Status
 ACCEPTED

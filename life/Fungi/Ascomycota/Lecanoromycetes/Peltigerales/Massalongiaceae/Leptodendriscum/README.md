@@ -1,5 +1,4 @@
-Leptodendriscum GENUS
-=======
+# Leptodendriscum GENUS
 
 #### Status
 ACCEPTED

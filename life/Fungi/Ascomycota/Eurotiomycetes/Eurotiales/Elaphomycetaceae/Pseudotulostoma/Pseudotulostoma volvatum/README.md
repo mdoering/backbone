@@ -1,17 +1,16 @@
-Pseudotulostoma volvata O.K. Mill. & T.W. Henkel SPECIES
-=======
+# Pseudotulostoma volvatum O.K. Mill. & T.W. Henkel, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Miller, Henkel, James & Miller, Mycol. Res. 105(10): 1269 (2001)
 
 #### Original name
-Pseudotulostoma volvata O.K. Mill. & T.W. Henkel
+Pseudotulostoma volvatum O.K. Mill. & T.W. Henkel, 2001
 
 ### Remarks
 null

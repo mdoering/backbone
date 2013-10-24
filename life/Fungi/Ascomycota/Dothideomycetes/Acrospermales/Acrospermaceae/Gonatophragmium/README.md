@@ -1,5 +1,4 @@
-Gonatophragmium Deighton GENUS
-=======
+# Gonatophragmium Deighton GENUS
 
 #### Status
 ACCEPTED

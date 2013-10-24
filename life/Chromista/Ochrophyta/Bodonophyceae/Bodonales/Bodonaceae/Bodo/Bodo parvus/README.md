@@ -1,5 +1,4 @@
-Bodo parvus (Naeg.) SPECIES
-=======
+# Bodo parvus (Naeg.) SPECIES
 
 #### Status
 ACCEPTED

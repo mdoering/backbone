@@ -1,5 +1,4 @@
-Pachysphaeridium mochtiense (Górka, 1969) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium mochtiense (Górka, 1969) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

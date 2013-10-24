@@ -1,5 +1,4 @@
-Cucurbitaria aurora (Fr.) Kuntze SPECIES
-=======
+# Cucurbitaria aurora (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

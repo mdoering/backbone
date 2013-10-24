@@ -1,5 +1,4 @@
-Arthonia reticulifera Vain. SPECIES
-=======
+# Arthonia reticulifera Vain. SPECIES
 
 #### Status
 ACCEPTED

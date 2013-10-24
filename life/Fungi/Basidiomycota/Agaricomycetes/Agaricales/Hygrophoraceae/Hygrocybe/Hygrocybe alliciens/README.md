@@ -1,5 +1,4 @@
-Hygrocybe alliciens (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe alliciens (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

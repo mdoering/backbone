@@ -1,5 +1,4 @@
-Aspicilia squamata (Körb.) Motyka SPECIES
-=======
+# Aspicilia squamata (Körb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

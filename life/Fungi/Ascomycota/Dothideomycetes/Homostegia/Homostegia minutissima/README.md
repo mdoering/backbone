@@ -1,5 +1,4 @@
-Homostegia minutissima Starbäck SPECIES
-=======
+# Homostegia minutissima Starbäck SPECIES
 
 #### Status
 ACCEPTED

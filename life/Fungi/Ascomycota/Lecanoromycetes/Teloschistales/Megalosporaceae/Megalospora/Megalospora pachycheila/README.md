@@ -1,5 +1,4 @@
-Megalospora pachycheila (Tuck.) Sipman SPECIES
-=======
+# Megalospora pachycheila (Tuck.) Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnomyces pallidus Massee & Rodway, 1898 SPECIES
-=======
+# Gymnomyces pallidus Massee & Rodway, 1898 SPECIES
 
 #### Status
 ACCEPTED

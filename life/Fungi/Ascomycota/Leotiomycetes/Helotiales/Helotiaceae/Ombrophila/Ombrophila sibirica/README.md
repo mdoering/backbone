@@ -1,5 +1,4 @@
-Ombrophila sibirica Thüm. SPECIES
-=======
+# Ombrophila sibirica Thüm. SPECIES
 
 #### Status
 ACCEPTED

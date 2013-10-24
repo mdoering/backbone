@@ -1,5 +1,4 @@
-Metasphaeria puccinioides (Speg.) Sacc. SPECIES
-=======
+# Metasphaeria puccinioides (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

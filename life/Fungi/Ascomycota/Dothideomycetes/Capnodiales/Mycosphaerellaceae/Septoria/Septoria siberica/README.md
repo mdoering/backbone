@@ -1,5 +1,4 @@
-Septoria siberica Thüm. SPECIES
-=======
+# Septoria siberica Thüm. SPECIES
 
 #### Status
 ACCEPTED

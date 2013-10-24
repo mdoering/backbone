@@ -1,5 +1,4 @@
-Eutypella coryli Ellis & Everh. SPECIES
-=======
+# Eutypella coryli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

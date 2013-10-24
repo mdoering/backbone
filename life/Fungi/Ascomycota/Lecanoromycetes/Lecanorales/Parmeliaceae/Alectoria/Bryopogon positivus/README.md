@@ -1,5 +1,4 @@
-Bryopogon positivus SPECIES
-=======
+# Bryopogon positivus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Fissurina novae-zelandiae C. Knight SPECIES
-=======
+# Fissurina novae-zealandiae C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fissurina novae-zelandiae C. Knight
+Fissurina novae-zealandiae C. Knight
 
 ### Remarks
 null

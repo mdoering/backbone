@@ -1,5 +1,4 @@
-Pentagenella corallina (Follmann & Peine) Tehler SPECIES
-=======
+# Pentagenella corallina (Follmann & Peine) Tehler SPECIES
 
 #### Status
 ACCEPTED

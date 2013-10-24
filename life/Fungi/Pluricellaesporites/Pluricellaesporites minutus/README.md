@@ -1,5 +1,4 @@
-Pluricellaesporites minutus Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites minutus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

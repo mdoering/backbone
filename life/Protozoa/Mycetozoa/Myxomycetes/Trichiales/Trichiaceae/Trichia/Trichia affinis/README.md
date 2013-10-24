@@ -1,17 +1,16 @@
-Hemitrichia helvetica Meyl., 1910 SPECIES
-=======
+# Trichia affinis de Bary, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Fuckel, J. Shivaji Univ. 23-24: 336 (1869)
 
 #### Original name
-null
+Trichia affinis de Bary, 1870
 
 ### Remarks
 null

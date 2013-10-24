@@ -1,5 +1,4 @@
-Verrucaria sepulta (A. Massal.) Wedd. SPECIES
-=======
+# Verrucaria sepulta (A. Massal.) Wedd. SPECIES
 
 #### Status
 ACCEPTED

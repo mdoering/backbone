@@ -1,5 +1,4 @@
-Irenina premnae Hansf. & Deighton SPECIES
-=======
+# Irenina premnae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

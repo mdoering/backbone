@@ -1,5 +1,4 @@
-Parorbiliopsis extumescens (P. Karst.) Spooner & Dennis, 1986 SPECIES
-=======
+# Parorbiliopsis extumescens (P. Karst.) Spooner & Dennis, 1986 SPECIES
 
 #### Status
 ACCEPTED

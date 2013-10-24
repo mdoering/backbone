@@ -1,5 +1,4 @@
-Lecidea protabacina Nyl. SPECIES
-=======
+# Lecidea protabacina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora oculata (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora oculata (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

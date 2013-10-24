@@ -1,5 +1,4 @@
-Nassula hesperidea Entz SPECIES
-=======
+# Nassula hesperidea Entz SPECIES
 
 #### Status
 ACCEPTED

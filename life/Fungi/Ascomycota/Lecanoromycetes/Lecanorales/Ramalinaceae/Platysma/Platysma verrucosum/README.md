@@ -1,5 +1,4 @@
-Platysma verrucosum (Baumg.) Frege SPECIES
-=======
+# Platysma verrucosum (Baumg.) Frege SPECIES
 
 #### Status
 ACCEPTED

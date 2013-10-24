@@ -1,5 +1,4 @@
-Leptothyrium clypeosphaerioides Sacc., 1880 SPECIES
-=======
+# Leptothyrium clypeosphaerioides Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

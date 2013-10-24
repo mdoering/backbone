@@ -1,5 +1,4 @@
-Multisporascus proteae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Multisporascus proteae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

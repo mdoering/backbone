@@ -1,5 +1,4 @@
-Stilbothamnium penicillopsis Henn. & E. Nyman SPECIES
-=======
+# Stilbothamnium penicillopsis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

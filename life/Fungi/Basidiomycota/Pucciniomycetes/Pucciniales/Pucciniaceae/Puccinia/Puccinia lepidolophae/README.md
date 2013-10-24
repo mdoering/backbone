@@ -1,5 +1,4 @@
-Puccinia lepidolophae Tranzschel & Erem. SPECIES
-=======
+# Puccinia lepidolophae Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

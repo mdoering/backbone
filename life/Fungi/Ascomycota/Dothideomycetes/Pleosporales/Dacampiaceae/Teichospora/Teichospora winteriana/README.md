@@ -1,5 +1,4 @@
-Teichospora winteriana Berl. SPECIES
-=======
+# Teichospora winteriana Berl. SPECIES
 
 #### Status
 ACCEPTED

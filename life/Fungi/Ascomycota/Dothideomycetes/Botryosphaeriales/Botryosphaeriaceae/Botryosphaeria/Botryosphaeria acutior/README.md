@@ -1,5 +1,4 @@
-Botryosphaeria acutior Sacc. SPECIES
-=======
+# Botryosphaeria acutior Sacc. SPECIES
 
 #### Status
 ACCEPTED

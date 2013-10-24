@@ -1,5 +1,4 @@
-Omphalina allenii (Maire) P.D. Orton SPECIES
-=======
+# Omphalina allenii (Maire) P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella costaricensis Elshafie & Aptroot SPECIES
-=======
+# Navicella costaricensis Elshafie & Aptroot SPECIES
 
 #### Status
 ACCEPTED

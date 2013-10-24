@@ -1,5 +1,4 @@
-Tricharia verrucifera Lücking SPECIES
-=======
+# Tricharia verrucifera Lücking SPECIES
 
 #### Status
 ACCEPTED

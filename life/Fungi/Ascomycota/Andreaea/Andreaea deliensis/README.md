@@ -1,5 +1,4 @@
-Andreaea deliensis Palm & Jochems SPECIES
-=======
+# Andreaea deliensis Palm & Jochems SPECIES
 
 #### Status
 ACCEPTED

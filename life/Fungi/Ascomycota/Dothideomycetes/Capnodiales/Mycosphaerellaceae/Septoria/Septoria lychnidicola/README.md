@@ -1,5 +1,4 @@
-Septoria lychnidicola Brunaud SPECIES
-=======
+# Septoria lychnidicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

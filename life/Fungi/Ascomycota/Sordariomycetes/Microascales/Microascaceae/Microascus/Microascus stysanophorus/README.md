@@ -1,5 +1,4 @@
-Microascus stysanophorus (Mattir.) Curzi SPECIES
-=======
+# Microascus stysanophorus (Mattir.) Curzi SPECIES
 
 #### Status
 ACCEPTED

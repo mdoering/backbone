@@ -1,5 +1,4 @@
-Puccinia callianthemi Gäum. SPECIES
-=======
+# Puccinia callianthemi Gäum. SPECIES
 
 #### Status
 ACCEPTED

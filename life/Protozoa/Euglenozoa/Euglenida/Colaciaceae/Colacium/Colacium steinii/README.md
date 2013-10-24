@@ -1,5 +1,4 @@
-Colacium steinii Kent SPECIES
-=======
+# Colacium steinii Kent SPECIES
 
 #### Status
 ACCEPTED

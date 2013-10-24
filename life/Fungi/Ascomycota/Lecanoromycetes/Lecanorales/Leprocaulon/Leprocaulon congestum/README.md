@@ -1,5 +1,4 @@
-Leprocaulon congestum (Nyl.) I.M. Lamb & A.M. Ward SPECIES
-=======
+# Leprocaulon congestum (Nyl.) I.M. Lamb & A.M. Ward SPECIES
 
 #### Status
 ACCEPTED

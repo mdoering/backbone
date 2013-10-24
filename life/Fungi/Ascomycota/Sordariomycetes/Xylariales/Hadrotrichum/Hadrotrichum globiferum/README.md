@@ -1,5 +1,4 @@
-Hadrotrichum globiferum (Ellis & Everh.) Davis SPECIES
-=======
+# Hadrotrichum globiferum (Ellis & Everh.) Davis SPECIES
 
 #### Status
 ACCEPTED

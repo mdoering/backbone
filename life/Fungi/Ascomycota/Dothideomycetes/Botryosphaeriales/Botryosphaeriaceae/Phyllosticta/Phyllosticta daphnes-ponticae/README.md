@@ -1,5 +1,4 @@
-Phyllosticta daphnes-ponticae Siemaszko SPECIES
-=======
+# Phyllosticta daphnes-ponticae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

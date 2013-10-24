@@ -1,5 +1,4 @@
-Silicotuba Vialov, 1966 GENUS
-=======
+# Silicotuba Vialov, 1966 GENUS
 
 #### Status
 ACCEPTED

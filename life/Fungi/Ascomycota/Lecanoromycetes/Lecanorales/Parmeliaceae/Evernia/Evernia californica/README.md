@@ -1,5 +1,4 @@
-Evernia californica Lév. SPECIES
-=======
+# Evernia californica Lév. SPECIES
 
 #### Status
 ACCEPTED

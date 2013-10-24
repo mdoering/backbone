@@ -1,5 +1,4 @@
-Bapalmuia ivoriensis R. Sant. & Lücking SPECIES
-=======
+# Bapalmuia ivoriensis R. Sant. & Lücking SPECIES
 
 #### Status
 ACCEPTED

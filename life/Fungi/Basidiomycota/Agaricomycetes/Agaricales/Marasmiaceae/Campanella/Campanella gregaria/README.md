@@ -1,5 +1,4 @@
-Campanella gregaria Bougher SPECIES
-=======
+# Campanella gregaria Bougher SPECIES
 
 #### Status
 ACCEPTED

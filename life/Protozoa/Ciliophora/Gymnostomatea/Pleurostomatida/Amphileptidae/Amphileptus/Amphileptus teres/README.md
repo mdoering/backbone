@@ -1,5 +1,4 @@
-Amphileptus teres SPECIES
-=======
+# Amphileptus teres SPECIES
 
 #### Status
 ACCEPTED

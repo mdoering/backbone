@@ -1,5 +1,4 @@
-Crepidotus pedicellatus Velen. SPECIES
-=======
+# Crepidotus pedicellatus Velen. SPECIES
 
 #### Status
 ACCEPTED

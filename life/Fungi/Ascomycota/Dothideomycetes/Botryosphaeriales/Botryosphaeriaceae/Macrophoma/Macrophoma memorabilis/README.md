@@ -1,5 +1,4 @@
-Macrophoma memorabilis C. Massal. SPECIES
-=======
+# Macrophoma memorabilis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

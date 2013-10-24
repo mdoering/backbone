@@ -1,14 +1,13 @@
-Septofusidium variabilis (Matsush.) Samuels SPECIES
-=======
+# Septofusidium variabile (Matsush.) Samuels, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 81(3): 353 (1989)
 
 #### Original name
 Penicillifer variabilis Matsush., 1975

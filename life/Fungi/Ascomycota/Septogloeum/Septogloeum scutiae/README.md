@@ -1,5 +1,4 @@
-Septogloeum scutiae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Septogloeum scutiae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia mesnieriana Thüm. SPECIES
-=======
+# Puccinia mesnieriana Thüm. SPECIES
 
 #### Status
 ACCEPTED

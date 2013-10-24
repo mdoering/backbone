@@ -1,17 +1,16 @@
-Heterothecium puiggarii var. puiggarii VARIETY
-=======
+# Calopadia puiggarii (Müll. Arg.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 64: 105 (1881)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
-Heterothecium puiggarii var. puiggarii
+Heterothecium puiggarii Müll. Arg.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Leptothyrium vulgare f. vulgare (Fr.) Sacc. FORM
-=======
+# Hypoderma commune (Fr.) Duby, 1862 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 113 (1880)
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 53 (1862)
 
 #### Original name
-Leptothyrium vulgare f. vulgare (Fr.) Sacc.
+Hysterium commune Fr., 1823
 
 ### Remarks
 null

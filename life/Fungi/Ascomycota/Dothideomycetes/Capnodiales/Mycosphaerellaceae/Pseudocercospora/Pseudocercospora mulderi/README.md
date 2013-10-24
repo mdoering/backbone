@@ -1,5 +1,4 @@
-Pseudocercospora mulderi (Tyagi) U. Braun SPECIES
-=======
+# Pseudocercospora mulderi (Tyagi) U. Braun SPECIES
 
 #### Status
 ACCEPTED

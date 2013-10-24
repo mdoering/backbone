@@ -1,5 +1,4 @@
-Nigredo dolicholi (Arthur) Arthur SPECIES
-=======
+# Nigredo dolicholi (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

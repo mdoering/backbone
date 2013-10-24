@@ -1,8 +1,7 @@
-Dicaeoma tubulosum (Pat. & Gaillard) Arthur & Fromme, 1920 SPECIES
-=======
+# Aecidium tubulosum Pat. & Gaillard, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Aecidium tubulosum Pat. & Gaillard, 1888
 
 ### Remarks
 null

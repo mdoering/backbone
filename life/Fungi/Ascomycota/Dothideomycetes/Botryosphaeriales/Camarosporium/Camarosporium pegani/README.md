@@ -1,5 +1,4 @@
-Camarosporium pegani Bubák SPECIES
-=======
+# Camarosporium pegani Bubák SPECIES
 
 #### Status
 ACCEPTED

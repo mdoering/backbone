@@ -1,5 +1,4 @@
-Hebeloma praefinitum (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma praefinitum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

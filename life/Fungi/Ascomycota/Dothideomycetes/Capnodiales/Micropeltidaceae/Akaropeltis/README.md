@@ -1,5 +1,4 @@
-Akaropeltis GENUS
-=======
+# Akaropeltis GENUS
 
 #### Status
 ACCEPTED

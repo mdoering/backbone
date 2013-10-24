@@ -1,5 +1,4 @@
-Parmelia borrerioides Nyl. SPECIES
-=======
+# Parmelia borrerioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

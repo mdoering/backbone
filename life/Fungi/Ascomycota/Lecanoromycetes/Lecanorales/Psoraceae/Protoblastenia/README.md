@@ -1,5 +1,4 @@
-Protoblastenia (Zahlbr.) J. Steiner GENUS
-=======
+# Protoblastenia (Zahlbr.) J. Steiner GENUS
 
 #### Status
 ACCEPTED

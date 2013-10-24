@@ -1,5 +1,4 @@
-Tenuigerina Gorbatchik & Kuznetsova, 1998 GENUS
-=======
+# Tenuigerina Gorbatchik & Kuznetsova, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arkhangelskiella primitiva T. R. Worsley SPECIES
-=======
+# Arkhangelskiella primitiva T. R. Worsley SPECIES
 
 #### Status
 ACCEPTED

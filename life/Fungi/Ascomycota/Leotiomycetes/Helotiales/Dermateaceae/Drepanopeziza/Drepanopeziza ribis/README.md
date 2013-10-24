@@ -1,17 +1,16 @@
-Drepanopeziza ribis f. sp FORM
-=======
+# Drepanopeziza ribis (Kleb.) Höhn., 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 78(Suppl. 1): 14 (1972)
+Annls mycol. 15(5): 332 (1917)
 
 #### Original name
-Drepanopeziza ribis f. sp
+Pseudopeziza ribis Rehm ex Kleb., 1906
 
 ### Remarks
 null

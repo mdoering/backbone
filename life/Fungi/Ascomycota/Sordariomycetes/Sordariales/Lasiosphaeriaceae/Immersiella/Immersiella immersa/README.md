@@ -1,14 +1,13 @@
-Lasiosphaeria immersa P. Karst., 1873 SPECIES
-=======
+# Immersiella immersa (P. Karst.) A.N. Mill. & Huhndorf, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 163 (1873)
+Mycol. Res. 108(1): 31 (2004)
 
 #### Original name
 Lasiosphaeria immersa P. Karst., 1873

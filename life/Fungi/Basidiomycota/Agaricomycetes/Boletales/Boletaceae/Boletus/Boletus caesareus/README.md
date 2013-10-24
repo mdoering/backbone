@@ -1,5 +1,4 @@
-Boletus caesareus Fr. SPECIES
-=======
+# Boletus caesareus Fr. SPECIES
 
 #### Status
 ACCEPTED

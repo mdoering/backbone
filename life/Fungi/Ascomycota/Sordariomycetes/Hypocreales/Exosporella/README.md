@@ -1,5 +1,4 @@
-Exosporella Höhn. GENUS
-=======
+# Exosporella Höhn. GENUS
 
 #### Status
 ACCEPTED

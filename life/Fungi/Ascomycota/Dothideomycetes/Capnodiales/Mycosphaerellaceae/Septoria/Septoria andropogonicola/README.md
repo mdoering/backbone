@@ -1,5 +1,4 @@
-Septoria andropogonicola Speg. SPECIES
-=======
+# Septoria andropogonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

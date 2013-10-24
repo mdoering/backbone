@@ -1,5 +1,4 @@
-Distatodinium craterum Eaton, 1976 SPECIES
-=======
+# Distatodinium craterum Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

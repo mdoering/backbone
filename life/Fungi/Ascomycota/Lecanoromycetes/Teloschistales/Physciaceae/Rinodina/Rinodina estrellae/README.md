@@ -1,5 +1,4 @@
-Rinodina estrellae B. de Lesd. SPECIES
-=======
+# Rinodina estrellae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

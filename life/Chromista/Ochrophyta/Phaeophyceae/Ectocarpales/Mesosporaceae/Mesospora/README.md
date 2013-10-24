@@ -1,5 +1,4 @@
-Mesospora GENUS
-=======
+# Mesospora GENUS
 
 #### Status
 ACCEPTED

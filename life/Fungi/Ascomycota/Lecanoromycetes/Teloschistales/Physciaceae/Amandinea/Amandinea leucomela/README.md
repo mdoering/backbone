@@ -1,5 +1,4 @@
-Amandinea leucomela (Imshaug) P.F. May & Sheard SPECIES
-=======
+# Amandinea leucomela (Imshaug) P.F. May & Sheard SPECIES
 
 #### Status
 ACCEPTED

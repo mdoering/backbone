@@ -1,5 +1,4 @@
-Mortierella polygonia W. Gams & Veenb.-Rijks, 1976 SPECIES
-=======
+# Mortierella polygonia W. Gams & Veenb.-Rijks, 1976 SPECIES
 
 #### Status
 ACCEPTED

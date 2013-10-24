@@ -1,5 +1,4 @@
-Cortinarius viscoviridis E. Horak, 1990 SPECIES
-=======
+# Cortinarius viscoviridis E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

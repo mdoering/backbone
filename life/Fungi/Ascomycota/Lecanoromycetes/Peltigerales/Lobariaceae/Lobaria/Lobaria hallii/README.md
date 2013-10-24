@@ -1,5 +1,4 @@
-Lobaria hallii (Tuck.) Zahlbr. SPECIES
-=======
+# Lobaria hallii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

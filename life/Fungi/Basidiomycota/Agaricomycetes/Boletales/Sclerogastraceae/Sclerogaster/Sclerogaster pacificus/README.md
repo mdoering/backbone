@@ -1,5 +1,4 @@
-Sclerogaster pacificus Zeller & C.W. Dodge, 1935 SPECIES
-=======
+# Sclerogaster pacificus Zeller & C.W. Dodge, 1935 SPECIES
 
 #### Status
 ACCEPTED

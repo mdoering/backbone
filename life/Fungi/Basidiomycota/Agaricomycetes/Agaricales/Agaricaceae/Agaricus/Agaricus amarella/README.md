@@ -1,5 +1,4 @@
-Agaricus amarella Pers. SPECIES
-=======
+# Agaricus amarella Pers. SPECIES
 
 #### Status
 ACCEPTED

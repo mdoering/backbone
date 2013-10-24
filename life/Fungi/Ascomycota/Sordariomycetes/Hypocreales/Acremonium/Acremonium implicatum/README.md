@@ -1,14 +1,13 @@
-Monilia implicata J.C. Gilman & E.V. Abbott SPECIES
-=======
+# Acremonium implicatum (J.C. Gilman & E.V. Abbott) W. Gams, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Iowa State College, Sci. 1(3): 269 (1927)
+Trans. Br. mycol. Soc. 64(3): 394 (1975)
 
 #### Original name
 Monilia implicata J.C. Gilman & E.V. Abbott

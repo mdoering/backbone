@@ -1,5 +1,4 @@
-Septocylindrium leucum Bayl. Ell. & O.P. Stansf., 1923 SPECIES
-=======
+# Septocylindrium leucum Bayl. Ell. & O.P. Stansf., 1923 SPECIES
 
 #### Status
 ACCEPTED

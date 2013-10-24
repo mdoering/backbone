@@ -1,5 +1,4 @@
-Saccharomyces anobii Buchner SPECIES
-=======
+# Saccharomyces anobii Buchner SPECIES
 
 #### Status
 ACCEPTED

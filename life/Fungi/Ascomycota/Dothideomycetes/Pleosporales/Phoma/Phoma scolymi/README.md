@@ -1,5 +1,4 @@
-Phoma scolymi Politis SPECIES
-=======
+# Phoma scolymi Politis SPECIES
 
 #### Status
 ACCEPTED

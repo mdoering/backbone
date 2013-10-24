@@ -1,5 +1,4 @@
-Enchelys brunnea SPECIES
-=======
+# Enchelys brunnea SPECIES
 
 #### Status
 ACCEPTED

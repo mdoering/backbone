@@ -1,14 +1,13 @@
-Monoicomyces furcillatus Thaxt., 1900 SPECIES
-=======
+# Kleidiomyces furcillatus (Thaxt.) Thaxt., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 35: 412 (1900)
+Mem. Amer. Acad. Arts, ser. 2 13: 280 (1908)
 
 #### Original name
 Monoicomyces furcillatus Thaxt., 1900

@@ -1,5 +1,4 @@
-Coronosphaera binodata (Kamptner, 1927) Gaarder, 1977 SPECIES
-=======
+# Coronosphaera binodata (Kamptner, 1927) Gaarder, 1977 SPECIES
 
 #### Status
 ACCEPTED

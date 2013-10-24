@@ -1,5 +1,4 @@
-Synedra campyla Hilse SPECIES
-=======
+# Synedra campyla Hilse SPECIES
 
 #### Status
 ACCEPTED

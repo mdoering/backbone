@@ -1,5 +1,4 @@
-Rinodina aggregata SPECIES
-=======
+# Rinodina aggregata SPECIES
 
 #### Status
 ACCEPTED

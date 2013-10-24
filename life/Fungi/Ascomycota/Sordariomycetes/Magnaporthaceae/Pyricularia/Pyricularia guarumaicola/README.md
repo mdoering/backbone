@@ -1,17 +1,16 @@
-Pyricularia guarumeicolae F.C. Albuq. & M.L. Duarte SPECIES
-=======
+# Pyricularia guarumaicola F.C. Albuq. & M.L. Duarte SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pesquisa agropec. bras. , ser. Agron. 6: 179 (1971)
 
 #### Original name
-Pyricularia guarumeicolae F.C. Albuq. & M.L. Duarte
+Pyricularia guarumaicola F.C. Albuq. & M.L. Duarte
 
 ### Remarks
 null

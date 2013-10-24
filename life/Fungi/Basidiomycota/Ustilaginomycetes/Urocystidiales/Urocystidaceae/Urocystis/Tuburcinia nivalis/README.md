@@ -1,5 +1,4 @@
-Tuburcinia nivalis Liro SPECIES
-=======
+# Tuburcinia nivalis Liro SPECIES
 
 #### Status
 ACCEPTED

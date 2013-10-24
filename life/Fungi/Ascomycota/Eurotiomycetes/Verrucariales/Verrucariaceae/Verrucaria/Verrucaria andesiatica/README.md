@@ -1,5 +1,4 @@
-Verrucaria andesiatica Servít SPECIES
-=======
+# Verrucaria andesiatica Servít SPECIES
 
 #### Status
 ACCEPTED

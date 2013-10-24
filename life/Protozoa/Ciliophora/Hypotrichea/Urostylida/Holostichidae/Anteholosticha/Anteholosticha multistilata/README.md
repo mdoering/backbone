@@ -1,8 +1,7 @@
-Keronopsis multistilata Kahl, 1928 SPECIES
-=======
+# Anteholosticha multistilata (Kahl, 1928) Berger, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

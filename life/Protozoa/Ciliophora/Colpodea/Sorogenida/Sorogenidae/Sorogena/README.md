@@ -1,5 +1,4 @@
-Sorogena Bradbury & Olive, 1980 GENUS
-=======
+# Sorogena Bradbury & Olive, 1980 GENUS
 
 #### Status
 ACCEPTED

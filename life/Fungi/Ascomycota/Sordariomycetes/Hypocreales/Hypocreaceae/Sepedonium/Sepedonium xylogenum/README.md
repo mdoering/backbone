@@ -1,5 +1,4 @@
-Sepedonium xylogenum Sacc. SPECIES
-=======
+# Sepedonium xylogenum Sacc. SPECIES
 
 #### Status
 ACCEPTED

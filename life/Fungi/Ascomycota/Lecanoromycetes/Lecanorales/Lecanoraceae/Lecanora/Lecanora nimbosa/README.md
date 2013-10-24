@@ -1,5 +1,4 @@
-Lecanora nimbosa SPECIES
-=======
+# Lecanora nimbosa SPECIES
 
 #### Status
 ACCEPTED

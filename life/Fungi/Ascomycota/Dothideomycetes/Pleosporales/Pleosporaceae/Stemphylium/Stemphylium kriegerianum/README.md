@@ -1,5 +1,4 @@
-Stemphylium kriegerianum (Bres.) E.G. Simmons SPECIES
-=======
+# Stemphylium kriegerianum (Bres.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

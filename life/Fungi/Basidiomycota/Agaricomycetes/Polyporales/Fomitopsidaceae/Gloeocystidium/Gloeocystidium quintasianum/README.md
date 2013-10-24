@@ -1,5 +1,4 @@
-Gloeocystidium quintasianum (Bres. & Roum.) Höhn. & Litsch. SPECIES
-=======
+# Gloeocystidium quintasianum (Bres. & Roum.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

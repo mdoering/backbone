@@ -1,5 +1,4 @@
-Micarea poliocheila (Vain.) Aptroot SPECIES
-=======
+# Micarea poliocheila (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

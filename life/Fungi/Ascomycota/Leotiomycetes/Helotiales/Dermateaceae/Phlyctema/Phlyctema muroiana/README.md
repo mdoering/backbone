@@ -1,17 +1,16 @@
-Phlyctaena muroiana I. Hino & Katum. SPECIES
-=======
+# Phlyctema muroiana I. Hino & Katum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of the Faculty of Agriculture, Yamaguchi University 8: 650 (1957)
 
 #### Original name
-Phlyctaena muroiana I. Hino & Katum.
+Phlyctema muroiana I. Hino & Katum.
 
 ### Remarks
 null

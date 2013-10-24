@@ -1,5 +1,4 @@
-Farinaria carbonaria Sowerby SPECIES
-=======
+# Farinaria carbonaria Sowerby SPECIES
 
 #### Status
 ACCEPTED

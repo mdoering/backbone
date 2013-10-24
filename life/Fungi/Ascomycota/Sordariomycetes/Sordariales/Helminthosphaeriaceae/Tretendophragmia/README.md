@@ -1,5 +1,4 @@
-Tretendophragmia GENUS
-=======
+# Tretendophragmia GENUS
 
 #### Status
 ACCEPTED

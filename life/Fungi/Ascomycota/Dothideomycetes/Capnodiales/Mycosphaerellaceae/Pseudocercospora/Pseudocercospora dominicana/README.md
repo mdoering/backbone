@@ -1,5 +1,4 @@
-Pseudocercospora dominicana (Cif. & Gonz. Frag.) U. Braun SPECIES
-=======
+# Pseudocercospora dominicana (Cif. & Gonz. Frag.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

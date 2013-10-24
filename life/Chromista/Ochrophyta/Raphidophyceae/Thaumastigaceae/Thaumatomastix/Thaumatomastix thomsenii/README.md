@@ -1,5 +1,4 @@
-Thaumatomastix thomsenii S.M. Tong, 1997 SPECIES
-=======
+# Thaumatomastix thomsenii S.M. Tong, 1997 SPECIES
 
 #### Status
 ACCEPTED

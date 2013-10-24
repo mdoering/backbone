@@ -1,5 +1,4 @@
-Aspicilia separans (H. Magn.) Ozenda & Clauzade SPECIES
-=======
+# Aspicilia separans (H. Magn.) Ozenda & Clauzade SPECIES
 
 #### Status
 ACCEPTED

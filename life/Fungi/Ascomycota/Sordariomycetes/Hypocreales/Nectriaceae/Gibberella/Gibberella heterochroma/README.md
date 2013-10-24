@@ -1,5 +1,4 @@
-Gibberella heterochroma Wollenw. SPECIES
-=======
+# Gibberella heterochroma Wollenw. SPECIES
 
 #### Status
 ACCEPTED

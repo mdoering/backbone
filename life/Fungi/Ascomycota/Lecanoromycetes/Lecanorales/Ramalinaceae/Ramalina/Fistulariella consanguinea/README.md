@@ -1,5 +1,4 @@
-Fistulariella consanguinea (Müll. Arg.) Bowler & Rundel SPECIES
-=======
+# Fistulariella consanguinea (Müll. Arg.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

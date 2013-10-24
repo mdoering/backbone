@@ -1,5 +1,4 @@
-Corethromyces apotomi Thaxt. SPECIES
-=======
+# Corethromyces apotomi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

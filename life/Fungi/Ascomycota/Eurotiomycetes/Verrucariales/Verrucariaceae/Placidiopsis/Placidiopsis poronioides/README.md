@@ -1,5 +1,4 @@
-Placidiopsis poronioides Aptroot SPECIES
-=======
+# Placidiopsis poronioides Aptroot SPECIES
 
 #### Status
 ACCEPTED

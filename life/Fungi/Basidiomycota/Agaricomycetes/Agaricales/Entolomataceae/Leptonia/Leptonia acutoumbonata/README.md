@@ -1,5 +1,4 @@
-Leptonia acutoumbonata Largent SPECIES
-=======
+# Leptonia acutoumbonata Largent SPECIES
 
 #### Status
 ACCEPTED

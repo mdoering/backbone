@@ -1,5 +1,4 @@
-Peltigerales Walt. Watson ORDER
-=======
+# Peltigerales Walt. Watson ORDER
 
 #### Status
 ACCEPTED

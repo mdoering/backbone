@@ -1,5 +1,4 @@
-Clitocybe crassa H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe crassa H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

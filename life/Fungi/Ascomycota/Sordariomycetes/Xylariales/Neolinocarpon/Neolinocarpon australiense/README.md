@@ -1,5 +1,4 @@
-Neolinocarpon australiense K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Neolinocarpon australiense K.D. Hyde, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

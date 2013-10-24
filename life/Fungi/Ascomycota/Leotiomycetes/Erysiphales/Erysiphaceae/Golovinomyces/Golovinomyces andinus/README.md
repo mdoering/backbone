@@ -1,5 +1,4 @@
-Golovinomyces andinus (Speg.) U. Braun SPECIES
-=======
+# Golovinomyces andinus (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea variegata Fr. SPECIES
-=======
+# Lecidea variegata Fr. SPECIES
 
 #### Status
 ACCEPTED

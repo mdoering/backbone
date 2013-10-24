@@ -1,5 +1,4 @@
-Enterographa falcata Lücking & V. Wirth SPECIES
-=======
+# Enterographa falcata Lücking & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

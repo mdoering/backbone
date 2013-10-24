@@ -1,5 +1,4 @@
-Anabaena parva P. J. Philson SPECIES
-=======
+# Anabaena parva P. J. Philson SPECIES
 
 #### Status
 ACCEPTED

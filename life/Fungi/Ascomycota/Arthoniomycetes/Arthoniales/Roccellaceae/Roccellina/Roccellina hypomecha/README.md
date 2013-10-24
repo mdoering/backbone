@@ -1,5 +1,4 @@
-Roccellina hypomecha (Ach.) Tehler SPECIES
-=======
+# Roccellina hypomecha (Ach.) Tehler SPECIES
 
 #### Status
 ACCEPTED

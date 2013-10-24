@@ -1,5 +1,4 @@
-Hypocrea ochroleuca Berk. & Ravenel SPECIES
-=======
+# Hypocrea ochroleuca Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

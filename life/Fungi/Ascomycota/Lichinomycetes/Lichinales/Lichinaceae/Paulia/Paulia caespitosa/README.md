@@ -1,5 +1,4 @@
-Paulia caespitosa Tretiach & Henssen SPECIES
-=======
+# Paulia caespitosa Tretiach & Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidomus cyanogenus Grove SPECIES
-=======
+# Fusidomus cyanogenus Grove SPECIES
 
 #### Status
 ACCEPTED

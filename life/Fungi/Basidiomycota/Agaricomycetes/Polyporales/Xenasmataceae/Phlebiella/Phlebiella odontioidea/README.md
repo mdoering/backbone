@@ -1,5 +1,4 @@
-Phlebiella odontioidea (Ryvarden & Liberta) Domanski SPECIES
-=======
+# Phlebiella odontioidea (Ryvarden & Liberta) Domanski SPECIES
 
 #### Status
 ACCEPTED

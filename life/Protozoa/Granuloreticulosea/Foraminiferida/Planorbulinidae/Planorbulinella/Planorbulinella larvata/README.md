@@ -1,5 +1,4 @@
-Planorbulinella larvata (Parker & Jones, 1865) SPECIES
-=======
+# Planorbulinella larvata (Parker & Jones, 1865) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Xyloma rhois Schwein., 1822 SPECIES
-=======
+# Phyllachora rhois (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

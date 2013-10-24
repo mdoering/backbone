@@ -1,5 +1,4 @@
-Tuberculostoma helicospora Sollm. SPECIES
-=======
+# Tuberculostoma helicospora Sollm. SPECIES
 
 #### Status
 ACCEPTED

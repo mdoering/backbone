@@ -1,5 +1,4 @@
-Protoperidinium discoides (Wailes, 1928) Balech, 1974 SPECIES
-=======
+# Protoperidinium discoides (Wailes, 1928) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

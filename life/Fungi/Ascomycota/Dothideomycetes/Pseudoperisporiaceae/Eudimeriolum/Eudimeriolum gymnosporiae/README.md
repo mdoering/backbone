@@ -1,5 +1,4 @@
-Eudimeriolum gymnosporiae Hansf. SPECIES
-=======
+# Eudimeriolum gymnosporiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

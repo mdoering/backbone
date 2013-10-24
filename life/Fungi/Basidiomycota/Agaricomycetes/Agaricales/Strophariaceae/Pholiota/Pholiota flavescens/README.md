@@ -1,5 +1,4 @@
-Pholiota flavescens A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota flavescens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

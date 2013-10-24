@@ -1,5 +1,4 @@
-Graphis instabilis Nyl. SPECIES
-=======
+# Graphis instabilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

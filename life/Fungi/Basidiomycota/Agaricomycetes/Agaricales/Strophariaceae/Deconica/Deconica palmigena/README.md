@@ -1,5 +1,4 @@
-Deconica palmigena (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Deconica palmigena (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

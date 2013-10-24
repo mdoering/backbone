@@ -1,5 +1,4 @@
-Globorotalia conoidea Walter SPECIES
-=======
+# Globorotalia conoidea Walter SPECIES
 
 #### Status
 ACCEPTED

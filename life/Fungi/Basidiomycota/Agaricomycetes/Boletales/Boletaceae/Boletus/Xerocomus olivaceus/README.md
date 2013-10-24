@@ -1,5 +1,4 @@
-Xerocomus olivaceus Ortiz & T.J. Baroni SPECIES
-=======
+# Xerocomus olivaceus Ortiz & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

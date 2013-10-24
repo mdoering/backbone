@@ -1,5 +1,4 @@
-Clasterosporium caespitulosum Ellis & Everh. SPECIES
-=======
+# Clasterosporium caespitulosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

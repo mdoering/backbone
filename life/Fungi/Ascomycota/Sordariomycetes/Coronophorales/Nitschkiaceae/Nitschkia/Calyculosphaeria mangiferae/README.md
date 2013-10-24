@@ -1,5 +1,4 @@
-Calyculosphaeria mangiferae Gaikwad SPECIES
-=======
+# Calyculosphaeria mangiferae Gaikwad SPECIES
 
 #### Status
 ACCEPTED

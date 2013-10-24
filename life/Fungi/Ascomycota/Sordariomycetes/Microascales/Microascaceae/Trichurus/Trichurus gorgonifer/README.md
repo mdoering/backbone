@@ -1,5 +1,4 @@
-Trichurus gorgonifer Bainier, 1907 SPECIES
-=======
+# Trichurus gorgonifer Bainier, 1907 SPECIES
 
 #### Status
 ACCEPTED

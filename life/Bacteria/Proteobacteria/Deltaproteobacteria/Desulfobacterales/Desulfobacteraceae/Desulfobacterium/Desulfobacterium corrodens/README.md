@@ -1,5 +1,4 @@
-Desulfobacterium corrodens Dinh, Kuever, Mussmann, Hassel, Stratmann & Widdel, 2004 SPECIES
-=======
+# Desulfobacterium corrodens Dinh, Kuever, Mussmann, Hassel, Stratmann & Widdel, 2004 SPECIES
 
 #### Status
 ACCEPTED

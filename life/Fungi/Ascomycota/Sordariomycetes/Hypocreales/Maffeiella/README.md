@@ -1,5 +1,4 @@
-Maffeiella Ciferri, 1932 GENUS
-=======
+# Maffeiella Ciferri, 1932 GENUS
 
 #### Status
 ACCEPTED

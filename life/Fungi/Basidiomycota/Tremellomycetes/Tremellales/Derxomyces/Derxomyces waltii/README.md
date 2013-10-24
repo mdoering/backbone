@@ -1,5 +1,4 @@
-Derxomyces waltii (Sugita, Cañ.-Gib., M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces waltii (Sugita, Cañ.-Gib., M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

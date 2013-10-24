@@ -1,17 +1,16 @@
-Heptameria purpurea (Rehm) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria purpurea Rehm, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ascom. Lojkani no. 54 (1882)
 
 #### Original name
-null
+Leptosphaeria purpurea Rehm, 1882
 
 ### Remarks
 null

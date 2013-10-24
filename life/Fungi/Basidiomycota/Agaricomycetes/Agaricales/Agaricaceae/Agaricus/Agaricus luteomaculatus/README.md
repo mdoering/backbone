@@ -1,5 +1,4 @@
-Agaricus luteomaculatus (F.H. Møller) F.H. Møller, 1952 SPECIES
-=======
+# Agaricus luteomaculatus (F.H. Møller) F.H. Møller, 1952 SPECIES
 
 #### Status
 ACCEPTED

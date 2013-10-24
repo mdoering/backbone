@@ -1,5 +1,4 @@
-Chrysothallus perpusillus Velen. SPECIES
-=======
+# Chrysothallus perpusillus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidiopsis launaeae Golovin SPECIES
-=======
+# Oidiopsis launaeae Golovin SPECIES
 
 #### Status
 ACCEPTED

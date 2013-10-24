@@ -1,5 +1,4 @@
-Daedalea furcata Link ex Fr. SPECIES
-=======
+# Daedalea furcata Link ex Fr. SPECIES
 
 #### Status
 ACCEPTED

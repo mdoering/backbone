@@ -1,5 +1,4 @@
-Heterosporium iridis-pumilae Savul. & Sandu SPECIES
-=======
+# Heterosporium iridis-pumilae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

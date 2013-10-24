@@ -1,8 +1,7 @@
-Taphrina alnitorqua B.L. Rob., 1887 SPECIES
-=======
+# Taphrina robinsoniana Giesenh., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Taphrina alnitorqua B.L. Rob., 1887
+Taphrina robinsoniana Giesenh., 1895
 
 ### Remarks
 null

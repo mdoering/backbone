@@ -1,5 +1,4 @@
-Pterygellus armeniacus Corner, 1966 SPECIES
-=======
+# Pterygellus armeniacus Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

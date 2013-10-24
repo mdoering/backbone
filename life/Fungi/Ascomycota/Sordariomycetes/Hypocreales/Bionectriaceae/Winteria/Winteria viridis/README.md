@@ -1,5 +1,4 @@
-Winteria viridis (Rehm) Sacc. SPECIES
-=======
+# Winteria viridis (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

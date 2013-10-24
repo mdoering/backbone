@@ -1,5 +1,4 @@
-Umbellasphaeridium saharicum Jardiné et al., 1972 SPECIES
-=======
+# Umbellasphaeridium saharicum Jardiné et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

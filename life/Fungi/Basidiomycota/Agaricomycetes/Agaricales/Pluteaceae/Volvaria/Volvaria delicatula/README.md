@@ -1,5 +1,4 @@
-Volvaria delicatula Massee SPECIES
-=======
+# Volvaria delicatula Massee SPECIES
 
 #### Status
 ACCEPTED

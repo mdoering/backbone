@@ -1,5 +1,4 @@
-Dactylaria olivacea (Jaap) G.C. Bhatt & W.B. Kendr. SPECIES
-=======
+# Dactylaria olivacea (Jaap) G.C. Bhatt & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

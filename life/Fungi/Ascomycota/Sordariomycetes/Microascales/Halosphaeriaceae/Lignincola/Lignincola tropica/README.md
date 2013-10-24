@@ -1,5 +1,4 @@
-Lignincola tropica Kohlm., 1984 SPECIES
-=======
+# Lignincola tropica Kohlm., 1984 SPECIES
 
 #### Status
 ACCEPTED

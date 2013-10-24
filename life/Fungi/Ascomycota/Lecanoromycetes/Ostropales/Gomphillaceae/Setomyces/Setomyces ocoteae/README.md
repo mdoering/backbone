@@ -1,5 +1,4 @@
-Setomyces ocoteae Bat. & H. Maia SPECIES
-=======
+# Setomyces ocoteae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

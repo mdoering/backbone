@@ -1,5 +1,4 @@
-Verrucaria esculenta (Pall.) Raeusch. SPECIES
-=======
+# Verrucaria esculenta (Pall.) Raeusch. SPECIES
 
 #### Status
 ACCEPTED

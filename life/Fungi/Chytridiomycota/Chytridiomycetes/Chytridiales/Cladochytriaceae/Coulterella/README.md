@@ -1,5 +1,4 @@
-Coulterella Zebrowski, 1936 GENUS
-=======
+# Coulterella Zebrowski, 1936 GENUS
 
 #### Status
 ACCEPTED

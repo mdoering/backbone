@@ -1,5 +1,4 @@
-Glyphodesmis tumida C.S. Boyer, 1920 SPECIES
-=======
+# Glyphodesmis tumida C.S. Boyer, 1920 SPECIES
 
 #### Status
 ACCEPTED

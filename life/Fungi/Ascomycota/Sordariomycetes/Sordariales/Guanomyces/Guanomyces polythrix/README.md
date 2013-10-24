@@ -1,5 +1,4 @@
-Guanomyces polythrix M.C. González, Hanlin & Ulloa, 2000 SPECIES
-=======
+# Guanomyces polythrix M.C. González, Hanlin & Ulloa, 2000 SPECIES
 
 #### Status
 ACCEPTED

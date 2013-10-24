@@ -1,5 +1,4 @@
-Irene perseae (F. Stevens) Toro SPECIES
-=======
+# Irene perseae (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

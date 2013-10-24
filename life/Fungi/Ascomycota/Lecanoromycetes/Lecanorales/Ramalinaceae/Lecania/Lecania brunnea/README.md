@@ -1,5 +1,4 @@
-Lecania brunnea Müll. Arg. SPECIES
-=======
+# Lecania brunnea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia arctii Schwein. SPECIES
-=======
+# Vermicularia arctii Schwein. SPECIES
 
 #### Status
 ACCEPTED

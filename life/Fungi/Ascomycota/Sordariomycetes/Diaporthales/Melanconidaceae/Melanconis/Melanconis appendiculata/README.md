@@ -1,5 +1,4 @@
-Melanconis appendiculata (G.H. Otth) Wehm. SPECIES
-=======
+# Melanconis appendiculata (G.H. Otth) Wehm. SPECIES
 
 #### Status
 ACCEPTED

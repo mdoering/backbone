@@ -1,5 +1,4 @@
-Lichen punctatus Scop. SPECIES
-=======
+# Lichen punctatus Scop. SPECIES
 
 #### Status
 ACCEPTED

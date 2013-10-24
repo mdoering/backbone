@@ -1,5 +1,4 @@
-Acarospora fulvoviridula Harm. SPECIES
-=======
+# Acarospora fulvoviridula Harm. SPECIES
 
 #### Status
 ACCEPTED

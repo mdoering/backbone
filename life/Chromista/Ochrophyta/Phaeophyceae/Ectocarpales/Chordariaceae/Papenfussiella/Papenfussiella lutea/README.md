@@ -1,5 +1,4 @@
-Papenfussiella lutea Kylin SPECIES
-=======
+# Papenfussiella lutea Kylin SPECIES
 
 #### Status
 ACCEPTED

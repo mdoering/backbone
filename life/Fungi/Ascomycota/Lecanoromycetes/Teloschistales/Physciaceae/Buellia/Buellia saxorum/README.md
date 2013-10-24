@@ -1,5 +1,4 @@
-Buellia saxorum A. Massal. SPECIES
-=======
+# Buellia saxorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

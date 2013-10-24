@@ -1,5 +1,4 @@
-Agonimia repleta Czarnota & Coppins SPECIES
-=======
+# Agonimia repleta Czarnota & Coppins SPECIES
 
 #### Status
 ACCEPTED

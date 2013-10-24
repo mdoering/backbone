@@ -1,5 +1,4 @@
-Helminthosporium leucospermum Corda SPECIES
-=======
+# Helminthosporium leucospermum Corda SPECIES
 
 #### Status
 ACCEPTED

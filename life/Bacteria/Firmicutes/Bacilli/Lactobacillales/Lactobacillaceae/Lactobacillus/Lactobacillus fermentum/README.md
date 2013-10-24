@@ -1,11 +1,10 @@
-Lactobacterium fermentum (Beijerinck, 1901) van Steenberge, 1920 SPECIES
-=======
+# Lactobacillus fermentum Beijerinck, 1901 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

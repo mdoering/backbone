@@ -1,5 +1,4 @@
-Microbacterium oleivorans Schippers et al., 2005 SPECIES
-=======
+# Microbacterium oleivorans Schippers et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

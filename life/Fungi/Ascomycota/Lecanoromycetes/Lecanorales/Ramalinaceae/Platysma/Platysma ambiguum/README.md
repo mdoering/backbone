@@ -1,5 +1,4 @@
-Platysma ambiguum SPECIES
-=======
+# Platysma ambiguum SPECIES
 
 #### Status
 ACCEPTED

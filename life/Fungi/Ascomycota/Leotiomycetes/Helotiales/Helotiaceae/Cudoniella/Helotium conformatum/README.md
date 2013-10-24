@@ -1,5 +1,4 @@
-Helotium conformatum P. Karst. SPECIES
-=======
+# Helotium conformatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

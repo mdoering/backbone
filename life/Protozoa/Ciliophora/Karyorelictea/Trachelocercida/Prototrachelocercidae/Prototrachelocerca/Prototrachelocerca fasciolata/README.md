@@ -1,8 +1,7 @@
-Tracheloraphis fasciolatus Dragesco, 1960 SPECIES
-=======
+# Prototrachelocerca fasciolata (Sauerbrey, 1928) Foissner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

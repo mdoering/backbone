@@ -1,5 +1,4 @@
-Lecanora raesaenenii Gyeln. SPECIES
-=======
+# Lecanora raesaenenii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

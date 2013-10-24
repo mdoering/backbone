@@ -1,5 +1,4 @@
-Lecidea beckhausii (Körb.) Nyl. SPECIES
-=======
+# Lecidea beckhausii (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

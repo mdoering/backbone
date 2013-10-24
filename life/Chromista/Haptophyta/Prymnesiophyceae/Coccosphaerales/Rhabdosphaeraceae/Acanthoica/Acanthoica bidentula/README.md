@@ -1,5 +1,4 @@
-Acanthoica bidentula Lecal-Schlauder SPECIES
-=======
+# Acanthoica bidentula Lecal-Schlauder SPECIES
 
 #### Status
 ACCEPTED

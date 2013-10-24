@@ -1,5 +1,4 @@
-Scherffeliomyces leptorrhizus Johns SPECIES
-=======
+# Scherffeliomyces leptorrhizus Johns SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanosporopsis marchaliana (E. Bommer, M. Rousseau & Sacc.) Naumov SPECIES
-=======
+# Melanosporopsis marchaliana (E. Bommer, M. Rousseau & Sacc.) Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium macrostylum D'Udekem, 1864 SPECIES
-=======
+# Zoothamnium macrostylum D'Udekem, 1864 SPECIES
 
 #### Status
 ACCEPTED

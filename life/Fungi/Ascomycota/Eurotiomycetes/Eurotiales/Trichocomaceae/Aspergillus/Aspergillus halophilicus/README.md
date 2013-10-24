@@ -1,5 +1,4 @@
-Aspergillus halophilicus M. Chr., Papav. & C.R. Benj., 1961 SPECIES
-=======
+# Aspergillus halophilicus M. Chr., Papav. & C.R. Benj., 1961 SPECIES
 
 #### Status
 ACCEPTED

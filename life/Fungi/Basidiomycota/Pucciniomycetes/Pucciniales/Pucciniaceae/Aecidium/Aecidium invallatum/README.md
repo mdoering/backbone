@@ -1,5 +1,4 @@
-Aecidium invallatum Henn. SPECIES
-=======
+# Aecidium invallatum Henn. SPECIES
 
 #### Status
 ACCEPTED

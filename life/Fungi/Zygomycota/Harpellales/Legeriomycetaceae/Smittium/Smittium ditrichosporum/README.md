@@ -1,5 +1,4 @@
-Smittium ditrichosporum Strongman, 2007 SPECIES
-=======
+# Smittium ditrichosporum Strongman, 2007 SPECIES
 
 #### Status
 ACCEPTED

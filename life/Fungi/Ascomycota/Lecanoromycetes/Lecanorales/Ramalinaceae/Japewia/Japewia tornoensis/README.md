@@ -1,5 +1,4 @@
-Japewia tornoensis (Nyl.) Tønsberg SPECIES
-=======
+# Japewia tornoensis (Nyl.) Tønsberg SPECIES
 
 #### Status
 ACCEPTED

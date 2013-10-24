@@ -1,5 +1,4 @@
-Leccinum aeneum Halling SPECIES
-=======
+# Leccinum aeneum Halling SPECIES
 
 #### Status
 ACCEPTED

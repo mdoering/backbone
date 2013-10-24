@@ -1,5 +1,4 @@
-Alexandrium leei E. Balech SPECIES
-=======
+# Alexandrium leei E. Balech SPECIES
 
 #### Status
 ACCEPTED

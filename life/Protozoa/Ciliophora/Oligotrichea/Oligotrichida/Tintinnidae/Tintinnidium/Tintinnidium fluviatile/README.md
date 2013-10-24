@@ -1,8 +1,7 @@
-Tintinnus fluviatilis Stein, 1863 SPECIES
-=======
+# Tintinnidium fluviatile (Stein, 1863) Kent, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

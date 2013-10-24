@@ -1,5 +1,4 @@
-Lecidea cisticola Clemente SPECIES
-=======
+# Lecidea cisticola Clemente SPECIES
 
 #### Status
 ACCEPTED

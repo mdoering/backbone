@@ -1,5 +1,4 @@
-Chorostella castanea (Tul.) Clem. & Shear SPECIES
-=======
+# Chorostella castanea (Tul.) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

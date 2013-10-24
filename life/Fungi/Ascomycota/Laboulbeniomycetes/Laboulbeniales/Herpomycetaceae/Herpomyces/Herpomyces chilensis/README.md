@@ -1,5 +1,4 @@
-Herpomyces chilensis Thaxt. SPECIES
-=======
+# Herpomyces chilensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

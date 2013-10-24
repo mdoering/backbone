@@ -1,5 +1,4 @@
-Gymnosporium nigrum Fuckel SPECIES
-=======
+# Gymnosporium nigrum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera rimosa Velen. SPECIES
-=======
+# Galera rimosa Velen. SPECIES
 
 #### Status
 ACCEPTED

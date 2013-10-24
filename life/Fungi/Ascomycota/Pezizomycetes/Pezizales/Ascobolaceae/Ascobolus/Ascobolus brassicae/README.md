@@ -1,17 +1,16 @@
-Peziza albofusca P. Crouan & H. Crouan, 1867 SPECIES
-=======
+# Ascobolus brassicae P. Crouan & H. Crouan, 1857 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Florule Finistère (Paris) 54 (1867)
+Annls Sci. Nat. , Bot. , sér. 4 7: 174 (1857)
 
 #### Original name
-Peziza albofusca P. Crouan & H. Crouan, 1867
+Ascobolus brassicae P. Crouan & H. Crouan, 1857
 
 ### Remarks
 null

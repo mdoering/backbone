@@ -1,5 +1,4 @@
-Lachnea maculosa (W. Phillips) Sacc. SPECIES
-=======
+# Lachnea maculosa (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

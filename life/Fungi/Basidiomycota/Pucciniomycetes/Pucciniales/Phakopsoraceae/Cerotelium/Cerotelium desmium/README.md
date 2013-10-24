@@ -1,5 +1,4 @@
-Cerotelium desmium Arthur, 1925 SPECIES
-=======
+# Cerotelium desmium Arthur, 1925 SPECIES
 
 #### Status
 ACCEPTED

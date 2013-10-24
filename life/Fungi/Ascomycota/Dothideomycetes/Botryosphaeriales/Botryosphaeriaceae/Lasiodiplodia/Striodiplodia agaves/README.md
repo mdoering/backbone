@@ -1,5 +1,4 @@
-Striodiplodia agaves (Niessl) Zambett. SPECIES
-=======
+# Striodiplodia agaves (Niessl) Zambett. SPECIES
 
 #### Status
 ACCEPTED

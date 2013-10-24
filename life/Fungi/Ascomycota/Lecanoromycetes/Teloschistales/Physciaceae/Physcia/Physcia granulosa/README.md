@@ -1,5 +1,4 @@
-Physcia granulosa (Müll. Arg.) Arnold SPECIES
-=======
+# Physcia granulosa (Müll. Arg.) Arnold SPECIES
 
 #### Status
 ACCEPTED

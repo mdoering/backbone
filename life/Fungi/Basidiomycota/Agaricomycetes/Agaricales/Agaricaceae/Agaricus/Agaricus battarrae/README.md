@@ -1,5 +1,4 @@
-Agaricus battarrae Fr. SPECIES
-=======
+# Agaricus battarrae Fr. SPECIES
 
 #### Status
 ACCEPTED

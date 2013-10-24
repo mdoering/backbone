@@ -1,5 +1,4 @@
-Selenosporium bufonicola Speg. SPECIES
-=======
+# Selenosporium bufonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Asterella plantaginis (Ellis) Sacc., 1891 SPECIES
-=======
+# Hormotheca plantaginis (Ellis) Corlett & M.E. Barr, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(1): 256 (1986)
 
 #### Original name
-null
+Asterina plantaginis Ellis, 1882
 
 ### Remarks
 null

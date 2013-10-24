@@ -1,5 +1,4 @@
-Buellia dichromatina (Hue) Darb. SPECIES
-=======
+# Buellia dichromatina (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

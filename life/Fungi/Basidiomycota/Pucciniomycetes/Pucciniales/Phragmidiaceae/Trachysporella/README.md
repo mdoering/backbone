@@ -1,5 +1,4 @@
-Trachysporella GENUS
-=======
+# Trachysporella GENUS
 
 #### Status
 ACCEPTED

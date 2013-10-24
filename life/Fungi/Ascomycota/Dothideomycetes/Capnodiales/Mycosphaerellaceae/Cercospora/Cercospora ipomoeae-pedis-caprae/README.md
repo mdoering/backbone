@@ -1,17 +1,16 @@
-Cercospora ipomoeae-pes-caprae J.M. Yen & Lim SPECIES
-=======
+# Cercospora ipomoeae-pedis-caprae J.M. Yen & Lim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 86(3): 747 (1970)
 
 #### Original name
-Cercospora ipomoeae-pes-caprae J.M. Yen & Lim
+Cercospora ipomoeae-pedis-caprae J.M. Yen & Lim
 
 ### Remarks
 null

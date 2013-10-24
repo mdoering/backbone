@@ -1,5 +1,4 @@
-Didymella myricae Ellis & Everh. SPECIES
-=======
+# Didymella myricae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

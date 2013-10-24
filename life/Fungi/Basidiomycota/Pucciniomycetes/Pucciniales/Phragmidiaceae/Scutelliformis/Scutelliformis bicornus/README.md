@@ -1,5 +1,4 @@
-Scutelliformis bicornus Salazar-Yepes, Pardo-Card. & Buriticá, 2007 SPECIES
-=======
+# Scutelliformis bicornus Salazar-Yepes, Pardo-Card. & Buriticá, 2007 SPECIES
 
 #### Status
 ACCEPTED

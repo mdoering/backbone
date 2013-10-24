@@ -1,5 +1,4 @@
-Guignardia eucrypta (Petr.) Arx & E. Müll. SPECIES
-=======
+# Guignardia eucrypta (Petr.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

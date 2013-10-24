@@ -1,5 +1,4 @@
-Dinobryon dillonii K. H. Nicholls SPECIES
-=======
+# Dinobryon dillonii K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

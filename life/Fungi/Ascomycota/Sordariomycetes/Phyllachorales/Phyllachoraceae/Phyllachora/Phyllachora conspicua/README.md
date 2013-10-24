@@ -1,5 +1,4 @@
-Phyllachora conspicua Ferd. & Winge, 1908 SPECIES
-=======
+# Phyllachora conspicua Ferd. & Winge, 1908 SPECIES
 
 #### Status
 ACCEPTED

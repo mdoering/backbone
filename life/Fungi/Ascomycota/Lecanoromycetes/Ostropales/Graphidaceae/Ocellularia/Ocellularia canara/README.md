@@ -1,5 +1,4 @@
-Ocellularia canara Nagarkar, Sethy & Patw. SPECIES
-=======
+# Ocellularia canara Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

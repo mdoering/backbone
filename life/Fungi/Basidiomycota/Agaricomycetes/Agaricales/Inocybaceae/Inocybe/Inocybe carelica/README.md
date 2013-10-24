@@ -1,5 +1,4 @@
-Inocybe carelica Singer SPECIES
-=======
+# Inocybe carelica Singer SPECIES
 
 #### Status
 ACCEPTED

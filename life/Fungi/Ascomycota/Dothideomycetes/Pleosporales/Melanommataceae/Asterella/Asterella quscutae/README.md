@@ -1,5 +1,4 @@
-Asterella quscutae Hara SPECIES
-=======
+# Asterella quscutae Hara SPECIES
 
 #### Status
 ACCEPTED

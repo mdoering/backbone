@@ -1,5 +1,4 @@
-Puccinia tomantheae Babajan SPECIES
-=======
+# Puccinia tomantheae Babajan SPECIES
 
 #### Status
 ACCEPTED

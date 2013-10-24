@@ -1,5 +1,4 @@
-Geolegnia terrestris Chiou SPECIES
-=======
+# Geolegnia terrestris Chiou SPECIES
 
 #### Status
 ACCEPTED

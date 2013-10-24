@@ -1,5 +1,4 @@
-Auricularia corium Berk. SPECIES
-=======
+# Auricularia corium Berk. SPECIES
 
 #### Status
 ACCEPTED

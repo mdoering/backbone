@@ -1,5 +1,4 @@
-Sphaeria variolosa Pers. SPECIES
-=======
+# Sphaeria variolosa Pers. SPECIES
 
 #### Status
 ACCEPTED

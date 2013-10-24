@@ -1,5 +1,4 @@
-Parastigmatea pandani B. Huguenin SPECIES
-=======
+# Parastigmatea pandani B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

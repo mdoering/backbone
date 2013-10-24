@@ -1,14 +1,13 @@
-Leptotrema subsphaerosporum (Harm.) Zahlbr. SPECIES
-=======
+# Thelotrema subsphaerosporum Harm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 640 (1923)
+Bull. Séanc. Soc. Sci. Nancy, Sér. 3 13: 38 (1912)
 
 #### Original name
 Thelotrema subsphaerosporum Harm.

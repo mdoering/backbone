@@ -1,5 +1,4 @@
-Astylospora pallidispora Murrill SPECIES
-=======
+# Astylospora pallidispora Murrill SPECIES
 
 #### Status
 ACCEPTED

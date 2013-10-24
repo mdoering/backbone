@@ -1,5 +1,4 @@
-Polythrincium Kunze GENUS
-=======
+# Polythrincium Kunze GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ilselithina Stradner, 1966 GENUS
-=======
+# Ilselithina Stradner, 1966 GENUS
 
 #### Status
 ACCEPTED

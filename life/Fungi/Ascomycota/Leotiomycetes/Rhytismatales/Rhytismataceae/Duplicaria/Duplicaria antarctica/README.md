@@ -1,14 +1,13 @@
-Hypoderma antarcticum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Duplicaria antarctica (Speg.) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Mycol. Pap. 176: 89 (2001)
 
 #### Original name
 Lophodermium antarcticum Speg., 1888

@@ -1,5 +1,4 @@
-Amauroderma omphalodes (Berk.) Torrend SPECIES
-=======
+# Amauroderma omphalodes (Berk.) Torrend SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria eburnea (Niessl) Sacc. SPECIES
-=======
+# Metasphaeria eburnea (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

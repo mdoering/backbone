@@ -1,5 +1,4 @@
-Sphaerella phlomidis Bubák & Gonz. Frag. SPECIES
-=======
+# Sphaerella phlomidis Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

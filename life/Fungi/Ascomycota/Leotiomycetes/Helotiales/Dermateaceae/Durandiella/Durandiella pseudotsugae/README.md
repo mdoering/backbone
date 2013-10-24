@@ -1,5 +1,4 @@
-Durandiella pseudotsugae A. Funk, 1962 SPECIES
-=======
+# Durandiella pseudotsugae A. Funk, 1962 SPECIES
 
 #### Status
 ACCEPTED

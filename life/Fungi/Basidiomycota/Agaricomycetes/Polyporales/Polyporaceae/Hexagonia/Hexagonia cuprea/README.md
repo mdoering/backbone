@@ -1,5 +1,4 @@
-Hexagonia cuprea Bres. SPECIES
-=======
+# Hexagonia cuprea Bres. SPECIES
 
 #### Status
 ACCEPTED

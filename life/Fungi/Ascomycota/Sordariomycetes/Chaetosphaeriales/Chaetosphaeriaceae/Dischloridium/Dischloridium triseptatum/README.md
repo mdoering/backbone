@@ -1,5 +1,4 @@
-Dischloridium triseptatum Hol.-Jech. SPECIES
-=======
+# Dischloridium triseptatum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

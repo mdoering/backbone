@@ -1,5 +1,4 @@
-Catillaria sbarbaronis B. de Lesd. SPECIES
-=======
+# Catillaria sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

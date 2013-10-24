@@ -1,5 +1,4 @@
-Peziza convoluta Peck SPECIES
-=======
+# Peziza convoluta Peck SPECIES
 
 #### Status
 ACCEPTED

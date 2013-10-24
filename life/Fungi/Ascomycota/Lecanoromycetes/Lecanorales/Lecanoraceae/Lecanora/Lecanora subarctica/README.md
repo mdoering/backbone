@@ -1,5 +1,4 @@
-Lecanora subarctica H. Magn. SPECIES
-=======
+# Lecanora subarctica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia epitricis Thaxt. SPECIES
-=======
+# Laboulbenia epitricis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

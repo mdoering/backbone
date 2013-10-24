@@ -1,5 +1,4 @@
-Pleosphaerulina rosicola Pass. SPECIES
-=======
+# Pleosphaerulina rosicola Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hafellia Kalb, H. Mayrhofer & Scheid. GENUS
-=======
+# Hafellia Kalb, H. Mayrhofer & Scheid. GENUS
 
 #### Status
 ACCEPTED

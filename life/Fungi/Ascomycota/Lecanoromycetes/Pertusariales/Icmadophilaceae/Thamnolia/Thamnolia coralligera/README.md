@@ -1,5 +1,4 @@
-Thamnolia coralligera (Hue) Gyeln. SPECIES
-=======
+# Thamnolia coralligera (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

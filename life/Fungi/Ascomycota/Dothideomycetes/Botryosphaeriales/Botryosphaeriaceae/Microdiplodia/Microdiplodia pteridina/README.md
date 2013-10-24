@@ -1,5 +1,4 @@
-Microdiplodia pteridina anon. SPECIES
-=======
+# Microdiplodia pteridina anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida pyralidae Kurtzman SPECIES
-=======
+# Candida pyralidae Kurtzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wawelia Namyslowski, 1908 GENUS
-=======
+# Wawelia Namyslowski, 1908 GENUS
 
 #### Status
 ACCEPTED

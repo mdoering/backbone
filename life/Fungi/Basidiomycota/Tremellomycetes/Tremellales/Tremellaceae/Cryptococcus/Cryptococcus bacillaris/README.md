@@ -1,5 +1,4 @@
-Cryptococcus bacillaris (Kroemer & Krumbholz) C.E. Skinner SPECIES
-=======
+# Cryptococcus bacillaris (Kroemer & Krumbholz) C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

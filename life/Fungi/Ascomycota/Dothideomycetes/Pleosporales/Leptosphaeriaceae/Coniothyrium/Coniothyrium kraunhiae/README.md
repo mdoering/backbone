@@ -1,5 +1,4 @@
-Coniothyrium kraunhiae I. Miyake SPECIES
-=======
+# Coniothyrium kraunhiae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

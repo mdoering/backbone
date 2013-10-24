@@ -1,5 +1,4 @@
-Micropera lunaspora (Linder) A. Funk SPECIES
-=======
+# Micropera lunaspora (Linder) A. Funk SPECIES
 
 #### Status
 ACCEPTED

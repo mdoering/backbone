@@ -1,5 +1,4 @@
-Oospora cuniculina Massa SPECIES
-=======
+# Oospora cuniculina Massa SPECIES
 
 #### Status
 ACCEPTED

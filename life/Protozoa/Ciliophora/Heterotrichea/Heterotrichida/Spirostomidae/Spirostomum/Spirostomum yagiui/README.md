@@ -1,5 +1,4 @@
-Spirostomum yagiui Shigenaka SPECIES
-=======
+# Spirostomum yagiui Shigenaka SPECIES
 
 #### Status
 ACCEPTED

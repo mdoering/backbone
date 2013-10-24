@@ -1,5 +1,4 @@
-Macrophoma conica Pass. SPECIES
-=======
+# Macrophoma conica Pass. SPECIES
 
 #### Status
 ACCEPTED

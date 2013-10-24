@@ -1,5 +1,4 @@
-Arthonia leprariella Nyl. SPECIES
-=======
+# Arthonia leprariella Nyl. SPECIES
 
 #### Status
 ACCEPTED

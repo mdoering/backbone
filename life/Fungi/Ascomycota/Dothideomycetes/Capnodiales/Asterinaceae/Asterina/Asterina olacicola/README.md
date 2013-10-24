@@ -1,5 +1,4 @@
-Asterina olacicola Hansf. SPECIES
-=======
+# Asterina olacicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

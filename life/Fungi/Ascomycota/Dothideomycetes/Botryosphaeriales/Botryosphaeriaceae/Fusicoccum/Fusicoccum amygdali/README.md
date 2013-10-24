@@ -1,5 +1,4 @@
-Fusicoccum amygdali Delacr., 1905 SPECIES
-=======
+# Fusicoccum amygdali Delacr., 1905 SPECIES
 
 #### Status
 ACCEPTED

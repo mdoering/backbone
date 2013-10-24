@@ -1,5 +1,4 @@
-Arthoniopsis mycoporoides (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis mycoporoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

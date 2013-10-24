@@ -1,5 +1,4 @@
-Langloisula macrospora A.L. Sm. SPECIES
-=======
+# Langloisula macrospora A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

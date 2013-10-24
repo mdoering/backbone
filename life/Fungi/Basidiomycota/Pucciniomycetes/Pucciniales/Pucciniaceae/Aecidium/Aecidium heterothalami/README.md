@@ -1,5 +1,4 @@
-Aecidium heterothalami Jørst. SPECIES
-=======
+# Aecidium heterothalami Jørst. SPECIES
 
 #### Status
 ACCEPTED

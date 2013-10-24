@@ -1,5 +1,4 @@
-Capnocytophaga canimorsus Brenner et al., 1990 SPECIES
-=======
+# Capnocytophaga canimorsus Brenner et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

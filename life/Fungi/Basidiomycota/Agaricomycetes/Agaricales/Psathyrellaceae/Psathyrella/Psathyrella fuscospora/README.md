@@ -1,5 +1,4 @@
-Psathyrella fuscospora A.H. Sm. SPECIES
-=======
+# Psathyrella fuscospora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

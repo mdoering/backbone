@@ -1,14 +1,13 @@
-Phyllachora schweinfurthii var. nervisequens Lingelsh., 1907 VARIETY
-=======
+# Phyllachora nervisequens (Lingelsh.) Petr., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 39: 604 (1907)
+Annls mycol. 27(5/6): 386 (1929)
 
 #### Original name
 Phyllachora schweinfurthii var. nervisequens Lingelsh., 1907

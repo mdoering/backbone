@@ -1,5 +1,4 @@
-Kavinia globispora Natarajan & Koland., 1985 SPECIES
-=======
+# Kavinia globispora Natarajan & Koland., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ulmi-rubrae H.C. Greene SPECIES
-=======
+# Phyllosticta ulmi-rubrae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

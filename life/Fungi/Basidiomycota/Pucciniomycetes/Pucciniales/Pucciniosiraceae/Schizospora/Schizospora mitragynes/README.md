@@ -1,5 +1,4 @@
-Schizospora mitragynes Dietel SPECIES
-=======
+# Schizospora mitragynes Dietel SPECIES
 
 #### Status
 ACCEPTED

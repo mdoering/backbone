@@ -1,5 +1,4 @@
-Peziza rubescens Saut. SPECIES
-=======
+# Peziza rubescens Saut. SPECIES
 
 #### Status
 ACCEPTED

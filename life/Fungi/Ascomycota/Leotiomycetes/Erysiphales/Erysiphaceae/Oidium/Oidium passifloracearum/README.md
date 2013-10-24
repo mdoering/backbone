@@ -1,5 +1,4 @@
-Oidium passifloracearum Hosag. SPECIES
-=======
+# Oidium passifloracearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

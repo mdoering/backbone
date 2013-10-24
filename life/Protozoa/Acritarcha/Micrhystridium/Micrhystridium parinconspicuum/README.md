@@ -1,5 +1,4 @@
-Micrhystridium parinconspicuum Deflandre, 1945 SPECIES
-=======
+# Micrhystridium parinconspicuum Deflandre, 1945 SPECIES
 
 #### Status
 ACCEPTED

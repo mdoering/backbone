@@ -1,5 +1,4 @@
-Lachnum pseudocorreae W.Y. Zhuang & Z.H. Yu SPECIES
-=======
+# Lachnum pseudocorreae W.Y. Zhuang & Z.H. Yu SPECIES
 
 #### Status
 ACCEPTED

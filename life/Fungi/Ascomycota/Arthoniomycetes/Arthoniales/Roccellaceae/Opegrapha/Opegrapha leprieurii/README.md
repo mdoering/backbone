@@ -1,5 +1,4 @@
-Opegrapha leprieurii Mont. SPECIES
-=======
+# Opegrapha leprieurii Mont. SPECIES
 
 #### Status
 ACCEPTED

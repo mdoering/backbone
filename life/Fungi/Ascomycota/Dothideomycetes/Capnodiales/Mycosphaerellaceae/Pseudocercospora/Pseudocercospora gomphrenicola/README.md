@@ -1,5 +1,4 @@
-Pseudocercospora gomphrenicola Chidd. SPECIES
-=======
+# Pseudocercospora gomphrenicola Chidd. SPECIES
 
 #### Status
 ACCEPTED

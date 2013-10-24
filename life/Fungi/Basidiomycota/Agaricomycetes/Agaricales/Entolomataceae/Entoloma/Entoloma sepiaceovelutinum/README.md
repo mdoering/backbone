@@ -1,5 +1,4 @@
-Entoloma sepiaceovelutinum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma sepiaceovelutinum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

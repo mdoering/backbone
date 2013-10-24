@@ -1,5 +1,4 @@
-Farcus Pessagno, Whalen & Yeh, 1986 GENUS
-=======
+# Farcus Pessagno, Whalen & Yeh, 1986 GENUS
 
 #### Status
 ACCEPTED

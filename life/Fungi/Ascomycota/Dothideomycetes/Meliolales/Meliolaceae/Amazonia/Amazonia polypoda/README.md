@@ -1,5 +1,4 @@
-Amazonia polypoda Syd. & P. Syd. SPECIES
-=======
+# Amazonia polypoda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

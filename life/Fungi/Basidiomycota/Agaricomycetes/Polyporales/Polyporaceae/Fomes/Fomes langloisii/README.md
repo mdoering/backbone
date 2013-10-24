@@ -1,5 +1,4 @@
-Fomes langloisii (Murrill) Sacc. & D. Sacc. SPECIES
-=======
+# Fomes langloisii (Murrill) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

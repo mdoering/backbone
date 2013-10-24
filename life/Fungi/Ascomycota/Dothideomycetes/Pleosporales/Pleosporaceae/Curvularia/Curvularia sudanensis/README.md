@@ -1,5 +1,4 @@
-Curvularia sudanensis (Gonz. Frag. & Cif.) Castell. SPECIES
-=======
+# Curvularia sudanensis (Gonz. Frag. & Cif.) Castell. SPECIES
 
 #### Status
 ACCEPTED

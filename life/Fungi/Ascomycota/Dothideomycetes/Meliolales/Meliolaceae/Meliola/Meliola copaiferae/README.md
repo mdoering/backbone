@@ -1,5 +1,4 @@
-Meliola copaiferae Hansf. & Deighton SPECIES
-=======
+# Meliola copaiferae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

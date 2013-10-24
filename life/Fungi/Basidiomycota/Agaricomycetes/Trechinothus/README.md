@@ -1,5 +1,4 @@
-Trechinothus E.C. Martini & Trichies GENUS
-=======
+# Trechinothus E.C. Martini & Trichies GENUS
 
 #### Status
 ACCEPTED

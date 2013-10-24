@@ -1,17 +1,16 @@
-Helicoma pulchra R.F. Castañeda & Guarro SPECIES
-=======
+# Helicoma pulchrum R.F. Castañeda & Guarro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castañeda Ruíz, Kendrick, Guarro & Mayayo, Mycol. Res. 102(1): 58 (1998)
 
 #### Original name
-Helicoma pulchra R.F. Castañeda & Guarro
+Helicoma pulchrum R.F. Castañeda & Guarro
 
 ### Remarks
 null

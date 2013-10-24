@@ -1,5 +1,4 @@
-Dimorphomyces pleomorphis Omoifo SPECIES
-=======
+# Dimorphomyces pleomorphis Omoifo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zelotriadelphia amoena R.F. Castañeda, Saikawa, M. Stadler & Iturr., 2005 SPECIES
-=======
+# Zelotriadelphia amoena R.F. Castañeda, Saikawa, M. Stadler & Iturr., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aplosporella juglandis var. juglandis VARIETY
-=======
+# Thyridaria rubronotata (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 141 (1883)
 
 #### Original name
-Aplosporella juglandis var. juglandis
+Melogramma rubronotatum Berk. & Broome, 1859
 
 ### Remarks
 null

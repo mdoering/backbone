@@ -1,5 +1,4 @@
-Leptothyrium discretum Bat. SPECIES
-=======
+# Leptothyrium discretum Bat. SPECIES
 
 #### Status
 ACCEPTED

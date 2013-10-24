@@ -1,5 +1,4 @@
-Pyrenula rhodocticta (Taylor) Müll. Arg. SPECIES
-=======
+# Pyrenula rhodocticta (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

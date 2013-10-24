@@ -1,5 +1,4 @@
-Inocybe albicans Velen. SPECIES
-=======
+# Inocybe albicans Velen. SPECIES
 
 #### Status
 ACCEPTED

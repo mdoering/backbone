@@ -1,17 +1,16 @@
-Leptostroma decipiens Petr., 1922 SPECIES
-=======
+# Lophodermium baculiferum Mayr, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow & Petrak, Annls mycol. 20(3/4): 214 (1922)
+Die Waldungen von Nordamerika 313 (1890)
 
 #### Original name
-Leptostroma decipiens Petr., 1922
+Lophodermium baculiferum Mayr, 1890
 
 ### Remarks
 null

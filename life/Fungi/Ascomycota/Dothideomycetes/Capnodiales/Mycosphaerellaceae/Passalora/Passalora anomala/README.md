@@ -1,5 +1,4 @@
-Passalora anomala (Ellis & Halst.) U. Braun & Crous SPECIES
-=======
+# Passalora anomala (Ellis & Halst.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

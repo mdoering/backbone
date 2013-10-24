@@ -1,5 +1,4 @@
-Stichogloea doederleinii (Schmidle) Wille SPECIES
-=======
+# Stichogloea doederleinii (Schmidle) Wille SPECIES
 
 #### Status
 ACCEPTED

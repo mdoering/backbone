@@ -1,5 +1,4 @@
-Aplosporella rosae Subhedar & V.G. Rao SPECIES
-=======
+# Aplosporella rosae Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

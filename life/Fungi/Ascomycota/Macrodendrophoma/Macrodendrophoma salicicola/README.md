@@ -1,5 +1,4 @@
-Macrodendrophoma salicicola T. Johnson SPECIES
-=======
+# Macrodendrophoma salicicola T. Johnson SPECIES
 
 #### Status
 ACCEPTED

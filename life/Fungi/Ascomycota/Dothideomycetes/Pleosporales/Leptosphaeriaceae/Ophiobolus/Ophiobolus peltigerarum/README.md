@@ -1,5 +1,4 @@
-Ophiobolus peltigerarum (Arnold) Berl. & Voglino SPECIES
-=======
+# Ophiobolus peltigerarum (Arnold) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

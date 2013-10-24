@@ -1,5 +1,4 @@
-Discocyclinidae Galloway, 1928 FAMILY
-=======
+# Discocyclinidae Galloway, 1928 FAMILY
 
 #### Status
 ACCEPTED

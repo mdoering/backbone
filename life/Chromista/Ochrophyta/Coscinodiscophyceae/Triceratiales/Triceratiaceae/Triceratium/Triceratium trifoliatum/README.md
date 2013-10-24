@@ -1,5 +1,4 @@
-Triceratium trifoliatum Cleve SPECIES
-=======
+# Triceratium trifoliatum Cleve SPECIES
 
 #### Status
 ACCEPTED

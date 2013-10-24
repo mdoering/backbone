@@ -1,17 +1,16 @@
-Helmisporium urticae Peck SPECIES
-=======
+# Helminthosporium urticae Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 62 (1876)
 
 #### Original name
-Helmisporium urticae Peck
+Helminthosporium urticae Peck
 
 ### Remarks
 null

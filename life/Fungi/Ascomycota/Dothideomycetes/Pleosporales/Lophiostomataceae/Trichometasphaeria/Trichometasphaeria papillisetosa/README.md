@@ -1,5 +1,4 @@
-Trichometasphaeria papillisetosa Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Trichometasphaeria papillisetosa Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

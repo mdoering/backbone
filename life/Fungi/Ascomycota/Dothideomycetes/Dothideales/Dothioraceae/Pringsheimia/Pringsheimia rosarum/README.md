@@ -1,5 +1,4 @@
-Pringsheimia rosarum Schulzer, 1866 SPECIES
-=======
+# Pringsheimia rosarum Schulzer, 1866 SPECIES
 
 #### Status
 ACCEPTED

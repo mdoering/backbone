@@ -1,5 +1,4 @@
-Aeruginospora furfuracea E. Horak, 1973 SPECIES
-=======
+# Aeruginospora furfuracea E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Medusetta Haeckel, 1887 GENUS
-=======
+# Medusetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps africana Freder., Mantle & De Milliano, 1991 SPECIES
-=======
+# Claviceps africana Freder., Mantle & De Milliano, 1991 SPECIES
 
 #### Status
 ACCEPTED

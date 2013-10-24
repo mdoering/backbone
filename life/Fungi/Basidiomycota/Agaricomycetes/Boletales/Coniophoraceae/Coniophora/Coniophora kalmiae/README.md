@@ -1,5 +1,4 @@
-Coniophora kalmiae (Peck) Burt SPECIES
-=======
+# Coniophora kalmiae (Peck) Burt SPECIES
 
 #### Status
 ACCEPTED

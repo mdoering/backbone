@@ -1,5 +1,4 @@
-Melanoleuca permixta Raithelh. SPECIES
-=======
+# Melanoleuca permixta Raithelh. SPECIES
 
 #### Status
 ACCEPTED

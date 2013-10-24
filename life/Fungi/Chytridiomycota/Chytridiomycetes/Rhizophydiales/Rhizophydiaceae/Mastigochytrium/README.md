@@ -1,5 +1,4 @@
-Mastigochytrium GENUS
-=======
+# Mastigochytrium GENUS
 
 #### Status
 ACCEPTED

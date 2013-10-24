@@ -1,5 +1,4 @@
-Hymenogaster pulcher Singer SPECIES
-=======
+# Hymenogaster pulcher Singer SPECIES
 
 #### Status
 ACCEPTED

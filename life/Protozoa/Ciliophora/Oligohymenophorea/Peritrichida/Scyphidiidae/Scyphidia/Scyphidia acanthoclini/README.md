@@ -1,5 +1,4 @@
-Scyphidia acanthoclini Laird, 1953 SPECIES
-=======
+# Scyphidia acanthoclini Laird, 1953 SPECIES
 
 #### Status
 ACCEPTED

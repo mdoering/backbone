@@ -1,5 +1,4 @@
-Phoma orobanches C. Massal. SPECIES
-=======
+# Phoma orobanches C. Massal. SPECIES
 
 #### Status
 ACCEPTED

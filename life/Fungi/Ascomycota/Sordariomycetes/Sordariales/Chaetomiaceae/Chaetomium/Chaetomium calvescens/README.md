@@ -1,5 +1,4 @@
-Chaetomium calvescens Sacc. SPECIES
-=======
+# Chaetomium calvescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

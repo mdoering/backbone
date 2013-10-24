@@ -1,5 +1,4 @@
-Periconia setosa (Wallr.) Rabenh. SPECIES
-=======
+# Periconia setosa (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

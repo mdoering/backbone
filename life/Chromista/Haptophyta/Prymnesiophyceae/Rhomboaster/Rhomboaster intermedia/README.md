@@ -1,5 +1,4 @@
-Rhomboaster intermedia Romein, 1979 SPECIES
-=======
+# Rhomboaster intermedia Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

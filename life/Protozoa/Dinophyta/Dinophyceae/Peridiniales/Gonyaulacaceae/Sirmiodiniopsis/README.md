@@ -1,14 +1,13 @@
-Arkellidinium Beju, 1979 GENUS
-=======
+# Sirmiodiniopsis W.S. Drugg, 1978 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Neues Jb. Geol. Palaont. Mb. 1979 (1): 1.
+Palaeontographica Abt. B Palaeophytol. 168 (1-3): 73.
 
 #### Original name
 null

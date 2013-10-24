@@ -1,5 +1,4 @@
-Xylaria composita Lloyd SPECIES
-=======
+# Xylaria composita Lloyd SPECIES
 
 #### Status
 ACCEPTED

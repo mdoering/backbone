@@ -1,5 +1,4 @@
-Zymodebaryomyces mrakii (Bouth.) E.K. Novák & Zsolt SPECIES
-=======
+# Zymodebaryomyces mrakii (Bouth.) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

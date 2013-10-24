@@ -1,5 +1,4 @@
-Entoloma pubescens Murrill SPECIES
-=======
+# Entoloma pubescens Murrill SPECIES
 
 #### Status
 ACCEPTED

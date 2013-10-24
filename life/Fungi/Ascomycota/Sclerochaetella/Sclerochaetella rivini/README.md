@@ -1,5 +1,4 @@
-Sclerochaetella rivini (Allesch.) Höhn. SPECIES
-=======
+# Sclerochaetella rivini (Allesch.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

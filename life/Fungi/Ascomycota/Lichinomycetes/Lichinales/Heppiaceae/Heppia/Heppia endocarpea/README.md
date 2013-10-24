@@ -1,5 +1,4 @@
-Heppia endocarpea (Fr.) Hue SPECIES
-=======
+# Heppia endocarpea (Fr.) Hue SPECIES
 
 #### Status
 ACCEPTED

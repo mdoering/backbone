@@ -1,5 +1,4 @@
-Leptocorticium tenellum Nakasone, 2005 SPECIES
-=======
+# Leptocorticium tenellum Nakasone, 2005 SPECIES
 
 #### Status
 ACCEPTED

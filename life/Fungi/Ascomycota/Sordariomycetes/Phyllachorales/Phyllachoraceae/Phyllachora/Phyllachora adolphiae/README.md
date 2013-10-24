@@ -1,5 +1,4 @@
-Phyllachora adolphiae Ellis & Kellerm., 1904 SPECIES
-=======
+# Phyllachora adolphiae Ellis & Kellerm., 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia subtomentosa Dissing & M. Lange SPECIES
-=======
+# Calvatia subtomentosa Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

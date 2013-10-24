@@ -1,5 +1,4 @@
-Curvularia clavata B.L. Jain, 1962 SPECIES
-=======
+# Curvularia clavata B.L. Jain, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella tremulina Mouton SPECIES
-=======
+# Sphaerella tremulina Mouton SPECIES
 
 #### Status
 ACCEPTED

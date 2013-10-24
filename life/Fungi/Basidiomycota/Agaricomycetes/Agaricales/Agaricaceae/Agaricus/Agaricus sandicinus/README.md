@@ -1,5 +1,4 @@
-Agaricus sandicinus (Fr.) Fr. SPECIES
-=======
+# Agaricus sandicinus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

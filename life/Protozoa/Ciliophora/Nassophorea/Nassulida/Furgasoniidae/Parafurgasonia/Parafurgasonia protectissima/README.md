@@ -1,8 +1,7 @@
-Nassula protectissima Penard, 1922 SPECIES
-=======
+# Parafurgasonia protectissima (Penard, 1922) Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

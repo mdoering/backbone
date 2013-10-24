@@ -1,5 +1,4 @@
-Spathidium multistriatum Kahl, 1930 SPECIES
-=======
+# Spathidium multistriatum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

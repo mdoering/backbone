@@ -1,5 +1,4 @@
-Telluria chitinolytica Bowman et al., 1993 SPECIES
-=======
+# Telluria chitinolytica Bowman et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

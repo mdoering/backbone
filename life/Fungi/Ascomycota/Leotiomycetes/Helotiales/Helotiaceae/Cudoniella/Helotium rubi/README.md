@@ -1,5 +1,4 @@
-Helotium rubi Sprée SPECIES
-=======
+# Helotium rubi Sprée SPECIES
 
 #### Status
 ACCEPTED

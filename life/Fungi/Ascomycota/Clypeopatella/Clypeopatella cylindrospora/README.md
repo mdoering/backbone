@@ -1,5 +1,4 @@
-Clypeopatella cylindrospora Petr., 1942 SPECIES
-=======
+# Clypeopatella cylindrospora Petr., 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus castanophyllus Berk. SPECIES
-=======
+# Agaricus castanophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

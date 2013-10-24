@@ -1,17 +1,16 @@
-Taphridium crepidis Lagerh., 1903 SPECIES
-=======
+# Volkartia rhaetica (Volkart) Maire, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Micromycetes Rariores Selecti 29: no. 719 (1903)
+Bull. Soc. bot. Fr. cxlvi (1909)
 
 #### Original name
-Taphridium crepidis Lagerh., 1903
+Taphrina rhaetica Volkart, 1903
 
 ### Remarks
 null

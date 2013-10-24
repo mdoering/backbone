@@ -1,5 +1,4 @@
-Orbilia aurantiorubra Boud., 1906 SPECIES
-=======
+# Orbilia aurantiorubra Boud., 1906 SPECIES
 
 #### Status
 ACCEPTED

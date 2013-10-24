@@ -1,5 +1,4 @@
-Polystictus flexibilis Lloyd SPECIES
-=======
+# Polystictus flexibilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

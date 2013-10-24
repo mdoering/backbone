@@ -1,5 +1,4 @@
-Keithia tetramicrospora Shope SPECIES
-=======
+# Keithia tetramicrospora Shope SPECIES
 
 #### Status
 ACCEPTED

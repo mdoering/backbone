@@ -1,17 +1,16 @@
-Hendersonulina oleae Speg., 1910 SPECIES
-=======
+# Hendersonia oleae (Speg.) Sacc. & Trotter, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Univ. nac. La Plata 6(1): 162 (1910)
+null
 
 #### Original name
-Hendersonulina oleae Speg., 1910
+Hendersonia oleae (Speg.) Sacc. & Trotter, 1913
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Usnea laevata Motyka SPECIES
-=======
+# Usnea laevata Motyka SPECIES
 
 #### Status
 ACCEPTED

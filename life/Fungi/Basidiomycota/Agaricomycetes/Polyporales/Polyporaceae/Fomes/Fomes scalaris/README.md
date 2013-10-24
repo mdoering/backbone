@@ -1,5 +1,4 @@
-Fomes scalaris Berk. SPECIES
-=======
+# Fomes scalaris Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria trachylaena Syd., 1938 SPECIES
-=======
+# Nectria trachylaena Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

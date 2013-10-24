@@ -1,14 +1,13 @@
-Graphis aquilonia (A.W. Archer) Staiger SPECIES
-=======
+# Graphina aquilonia A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Lichenol. 85: 209 (2002)
+Mycotaxon 77: 160 (2001)
 
 #### Original name
 Graphina aquilonia A.W. Archer

@@ -1,5 +1,4 @@
-Camarophyllus burnhamii (Peck) Murrill SPECIES
-=======
+# Camarophyllus burnhamii (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

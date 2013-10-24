@@ -1,5 +1,4 @@
-Cataractispora receptaculorum W.H. Ho, K.D. Hyde & Hodgkiss, 2004 SPECIES
-=======
+# Cataractispora receptaculorum W.H. Ho, K.D. Hyde & Hodgkiss, 2004 SPECIES
 
 #### Status
 ACCEPTED

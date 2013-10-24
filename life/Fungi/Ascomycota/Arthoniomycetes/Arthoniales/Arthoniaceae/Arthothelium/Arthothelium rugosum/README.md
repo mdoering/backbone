@@ -1,5 +1,4 @@
-Arthothelium rugosum (Fée) A. Massal. SPECIES
-=======
+# Arthothelium rugosum (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

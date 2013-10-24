@@ -1,5 +1,4 @@
-Phoma tageticola (Schwein.) Ellis & Everh. SPECIES
-=======
+# Phoma tageticola (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe eucystidiata Corner SPECIES
-=======
+# Clitocybe eucystidiata Corner SPECIES
 
 #### Status
 ACCEPTED

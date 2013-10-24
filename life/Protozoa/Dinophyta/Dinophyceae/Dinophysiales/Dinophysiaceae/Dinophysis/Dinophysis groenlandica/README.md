@@ -1,5 +1,4 @@
-Dinophysis groenlandica (Schiller) Balech SPECIES
-=======
+# Dinophysis groenlandica (Schiller) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredinopsis juglandina Sacc. SPECIES
-=======
+# Uredinopsis juglandina Sacc. SPECIES
 
 #### Status
 ACCEPTED

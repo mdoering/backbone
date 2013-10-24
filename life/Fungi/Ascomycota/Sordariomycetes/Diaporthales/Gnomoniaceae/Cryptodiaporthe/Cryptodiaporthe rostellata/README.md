@@ -1,5 +1,4 @@
-Cryptodiaporthe rostellata (Fr. Fr.) Wehm. SPECIES
-=======
+# Cryptodiaporthe rostellata (Fr. Fr.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

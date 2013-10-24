@@ -1,8 +1,7 @@
-Bacillus dipsosauri Lawson et al., 1996 SPECIES
-=======
+# Gracilibacillus dipsosauri (Lawson et al., 1996) Wainø et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

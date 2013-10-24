@@ -1,5 +1,4 @@
-Psalliota calcarea Velen. SPECIES
-=======
+# Psalliota calcarea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta macularis (Desm.) Allesch. SPECIES
-=======
+# Phyllosticta macularis (Desm.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

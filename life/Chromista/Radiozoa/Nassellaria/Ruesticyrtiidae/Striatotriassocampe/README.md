@@ -1,5 +1,4 @@
-Striatotriassocampe Kozur & Mostler, 1994 GENUS
-=======
+# Striatotriassocampe Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

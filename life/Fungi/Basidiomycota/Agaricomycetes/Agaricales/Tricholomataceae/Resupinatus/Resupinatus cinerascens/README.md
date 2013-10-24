@@ -1,5 +1,4 @@
-Resupinatus cinerascens (Cleland) Grgur. SPECIES
-=======
+# Resupinatus cinerascens (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

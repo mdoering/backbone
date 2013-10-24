@@ -1,5 +1,4 @@
-Lacrymaria marinum SPECIES
-=======
+# Lacrymaria marinum SPECIES
 
 #### Status
 ACCEPTED

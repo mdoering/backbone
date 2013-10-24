@@ -1,5 +1,4 @@
-Ductifera exidioidea Lowy SPECIES
-=======
+# Ductifera exidioidea Lowy SPECIES
 
 #### Status
 ACCEPTED

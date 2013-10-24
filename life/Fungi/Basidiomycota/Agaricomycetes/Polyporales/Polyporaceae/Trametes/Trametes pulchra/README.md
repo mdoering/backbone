@@ -1,5 +1,4 @@
-Trametes pulchra (Speg.) Speg. SPECIES
-=======
+# Trametes pulchra (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

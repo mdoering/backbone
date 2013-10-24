@@ -1,5 +1,4 @@
-Stellechinatum absonum (Wicander, 1974) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Stellechinatum absonum (Wicander, 1974) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

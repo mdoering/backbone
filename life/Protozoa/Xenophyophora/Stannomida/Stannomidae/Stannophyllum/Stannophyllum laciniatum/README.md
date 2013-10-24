@@ -1,5 +1,4 @@
-Stannophyllum laciniatum Neviani, 1909 SPECIES
-=======
+# Stannophyllum laciniatum Neviani, 1909 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Dermocybe luteomarginata M.M. Moser SPECIES
-=======
+# Dermocybe luteomarginata M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

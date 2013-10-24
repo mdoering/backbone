@@ -1,5 +1,4 @@
-Acineria acuta (Dujardin, 1841) Augustin, Foissner & Adam, 1987 SPECIES
-=======
+# Acineria acuta (Dujardin, 1841) Augustin, Foissner & Adam, 1987 SPECIES
 
 #### Status
 ACCEPTED

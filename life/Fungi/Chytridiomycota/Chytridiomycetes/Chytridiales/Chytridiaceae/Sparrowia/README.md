@@ -1,5 +1,4 @@
-Sparrowia Willoughby GENUS
-=======
+# Sparrowia Willoughby GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis piceina J.W. Groves, 1952 SPECIES
-=======
+# Tympanis piceina J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

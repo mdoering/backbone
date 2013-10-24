@@ -1,17 +1,16 @@
-Polyschema congolensis Reisinger & Kiffer SPECIES
-=======
+# Polyschema congolense Reisinger & Kiffer, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 62(2): 291 (1974)
 
 #### Original name
-Polyschema congolensis Reisinger & Kiffer
+Polyschema congolense Reisinger & Kiffer, 1974
 
 ### Remarks
 null

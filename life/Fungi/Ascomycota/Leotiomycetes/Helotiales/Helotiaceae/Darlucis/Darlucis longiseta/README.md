@@ -1,5 +1,4 @@
-Darlucis longiseta (Henn.) Clem. SPECIES
-=======
+# Darlucis longiseta (Henn.) Clem. SPECIES
 
 #### Status
 ACCEPTED

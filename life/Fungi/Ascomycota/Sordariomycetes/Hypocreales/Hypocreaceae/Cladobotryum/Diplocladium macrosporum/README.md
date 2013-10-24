@@ -1,5 +1,4 @@
-Diplocladium macrosporum (Link) SPECIES
-=======
+# Diplocladium macrosporum (Link) SPECIES
 
 #### Status
 ACCEPTED

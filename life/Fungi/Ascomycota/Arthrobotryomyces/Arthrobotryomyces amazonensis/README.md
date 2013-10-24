@@ -1,5 +1,4 @@
-Arthrobotryomyces amazonensis Bat. & J.L. Bezerra, 1961 SPECIES
-=======
+# Arthrobotryomyces amazonensis Bat. & J.L. Bezerra, 1961 SPECIES
 
 #### Status
 ACCEPTED

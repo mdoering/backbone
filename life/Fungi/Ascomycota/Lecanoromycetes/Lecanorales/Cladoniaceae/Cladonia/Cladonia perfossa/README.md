@@ -1,5 +1,4 @@
-Cladonia perfossa Nuno SPECIES
-=======
+# Cladonia perfossa Nuno SPECIES
 
 #### Status
 ACCEPTED

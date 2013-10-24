@@ -1,5 +1,4 @@
-Skierka divinopolensis Dianese, R.B. Medeiros & L.T.P. Santos, 1993 SPECIES
-=======
+# Skierka divinopolensis Dianese, R.B. Medeiros & L.T.P. Santos, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riedelius de Wever, 1982 GENUS
-=======
+# Riedelius de Wever, 1982 GENUS
 
 #### Status
 ACCEPTED

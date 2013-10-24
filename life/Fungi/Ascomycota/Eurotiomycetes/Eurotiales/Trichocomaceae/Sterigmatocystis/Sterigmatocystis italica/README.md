@@ -1,5 +1,4 @@
-Sterigmatocystis italica Sacc. SPECIES
-=======
+# Sterigmatocystis italica Sacc. SPECIES
 
 #### Status
 ACCEPTED

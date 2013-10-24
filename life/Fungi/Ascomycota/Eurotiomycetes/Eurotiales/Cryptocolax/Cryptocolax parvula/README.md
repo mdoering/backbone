@@ -1,5 +1,4 @@
-Cryptocolax parvula R.A. Scott SPECIES
-=======
+# Cryptocolax parvula R.A. Scott SPECIES
 
 #### Status
 ACCEPTED

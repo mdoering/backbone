@@ -1,5 +1,4 @@
-Puccinia tragiae Cooke SPECIES
-=======
+# Puccinia tragiae Cooke SPECIES
 
 #### Status
 ACCEPTED

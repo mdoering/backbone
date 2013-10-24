@@ -1,5 +1,4 @@
-Lecanora rufocarnea (Vain.) C. W. Dodge SPECIES
-=======
+# Lecanora rufocarnea (Vain.) C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

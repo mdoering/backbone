@@ -1,14 +1,13 @@
-Helicosporium berkeleyi (M.A. Curtis) Sacc., 1886 SPECIES
-=======
+# Xenosporium berkeleyi (M.A. Curtis) Piroz., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 560 (1886)
+in Deighton & Pirozynski, Mycol. Pap. 105: 27 (1966)
 
 #### Original name
 Helicoma berkeleyi M.A. Curtis, 1848

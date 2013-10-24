@@ -1,5 +1,4 @@
-Schizothyra Bat. & C.A.A. Costa GENUS
-=======
+# Schizothyra Bat. & C.A.A. Costa GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca moreliensis B. de Lesd. SPECIES
-=======
+# Caloplaca moreliensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

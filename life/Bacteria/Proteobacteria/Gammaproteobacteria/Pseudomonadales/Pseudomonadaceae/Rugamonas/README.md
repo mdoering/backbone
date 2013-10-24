@@ -1,5 +1,4 @@
-Rugamonas Austin & Moss, 1987 GENUS
-=======
+# Rugamonas Austin & Moss, 1987 GENUS
 
 #### Status
 ACCEPTED

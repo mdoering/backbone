@@ -1,5 +1,4 @@
-Acarospora pseudofuscata Sipman SPECIES
-=======
+# Acarospora pseudofuscata Sipman SPECIES
 
 #### Status
 ACCEPTED

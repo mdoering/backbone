@@ -1,5 +1,4 @@
-Neottiella carestiae (Ces.) Sacc. SPECIES
-=======
+# Neottiella carestiae (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

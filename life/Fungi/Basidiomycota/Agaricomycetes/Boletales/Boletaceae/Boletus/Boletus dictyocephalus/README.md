@@ -1,5 +1,4 @@
-Boletus dictyocephalus Peck SPECIES
-=======
+# Boletus dictyocephalus Peck SPECIES
 
 #### Status
 ACCEPTED

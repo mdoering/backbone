@@ -1,5 +1,4 @@
-Alternaria traversoi Peyronel SPECIES
-=======
+# Alternaria traversoi Peyronel SPECIES
 
 #### Status
 ACCEPTED

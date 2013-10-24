@@ -1,5 +1,4 @@
-Erysiphe obtusata (Schltdl.) Link SPECIES
-=======
+# Erysiphe obtusata (Schltdl.) Link SPECIES
 
 #### Status
 ACCEPTED

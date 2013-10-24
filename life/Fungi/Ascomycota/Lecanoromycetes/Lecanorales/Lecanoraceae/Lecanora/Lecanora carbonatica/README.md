@@ -1,5 +1,4 @@
-Lecanora carbonatica Gyeln. SPECIES
-=======
+# Lecanora carbonatica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

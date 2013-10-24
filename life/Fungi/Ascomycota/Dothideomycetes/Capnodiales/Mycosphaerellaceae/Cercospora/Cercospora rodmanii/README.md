@@ -1,5 +1,4 @@
-Cercospora rodmanii Conway, 1976 SPECIES
-=======
+# Cercospora rodmanii Conway, 1976 SPECIES
 
 #### Status
 ACCEPTED

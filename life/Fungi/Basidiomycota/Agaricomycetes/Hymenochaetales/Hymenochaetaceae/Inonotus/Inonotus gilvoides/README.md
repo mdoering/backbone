@@ -1,5 +1,4 @@
-Inonotus gilvoides (Lloyd) Teng SPECIES
-=======
+# Inonotus gilvoides (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

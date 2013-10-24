@@ -1,5 +1,4 @@
-Komma D.R.A.Hill, 1991 GENUS
-=======
+# Komma D.R.A.Hill, 1991 GENUS
 
 #### Status
 ACCEPTED

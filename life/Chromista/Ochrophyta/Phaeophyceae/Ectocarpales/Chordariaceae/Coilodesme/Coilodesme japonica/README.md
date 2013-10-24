@@ -1,5 +1,4 @@
-Coilodesme japonica Yamada SPECIES
-=======
+# Coilodesme japonica Yamada SPECIES
 
 #### Status
 ACCEPTED

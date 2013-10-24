@@ -1,5 +1,4 @@
-Hyalodiscus franklinii (Ehrenb.) SPECIES
-=======
+# Hyalodiscus franklinii (Ehrenb.) SPECIES
 
 #### Status
 ACCEPTED

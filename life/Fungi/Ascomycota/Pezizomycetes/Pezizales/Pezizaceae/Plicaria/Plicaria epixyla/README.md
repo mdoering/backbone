@@ -1,5 +1,4 @@
-Plicaria epixyla Velen. SPECIES
-=======
+# Plicaria epixyla Velen. SPECIES
 
 #### Status
 ACCEPTED

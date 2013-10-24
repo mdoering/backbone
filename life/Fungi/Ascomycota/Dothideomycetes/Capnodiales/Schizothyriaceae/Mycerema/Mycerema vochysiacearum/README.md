@@ -1,5 +1,4 @@
-Mycerema vochysiacearum Bat., J.L. Bezerra & Cavalc., 1963 SPECIES
-=======
+# Mycerema vochysiacearum Bat., J.L. Bezerra & Cavalc., 1963 SPECIES
 
 #### Status
 ACCEPTED

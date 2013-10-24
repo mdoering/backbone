@@ -1,17 +1,16 @@
-Lactarius obnubilus var. obnubilus VARIETY
-=======
+# Lactarius obscuratus (Lasch) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 90: 145 (1974)
 
 #### Original name
-null
+Lactarius obscuratus (Lasch) Fr., 1838
 
 ### Remarks
 null

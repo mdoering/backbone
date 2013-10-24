@@ -1,5 +1,4 @@
-Arachnopeziza laricina Velen. SPECIES
-=======
+# Arachnopeziza laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

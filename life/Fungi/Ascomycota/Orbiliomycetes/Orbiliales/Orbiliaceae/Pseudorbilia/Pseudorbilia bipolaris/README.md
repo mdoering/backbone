@@ -1,5 +1,4 @@
-Pseudorbilia bipolaris Ying Zhang, Z.F. Yu, Baral & K.Q. Zhang, 2007 SPECIES
-=======
+# Pseudorbilia bipolaris Ying Zhang, Z.F. Yu, Baral & K.Q. Zhang, 2007 SPECIES
 
 #### Status
 ACCEPTED

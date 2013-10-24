@@ -1,5 +1,4 @@
-Clypeomyces tomensis Kirschst. SPECIES
-=======
+# Clypeomyces tomensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

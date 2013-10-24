@@ -1,5 +1,4 @@
-Bovista kazachstanica Schwarzman & Philimonova SPECIES
-=======
+# Bovista kazachstanica Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

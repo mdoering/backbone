@@ -1,5 +1,4 @@
-Oscillatoria flexa Playfair SPECIES
-=======
+# Oscillatoria flexa Playfair SPECIES
 
 #### Status
 ACCEPTED

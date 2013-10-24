@@ -1,5 +1,4 @@
-Psathyra fuliginosa Murrill SPECIES
-=======
+# Psathyra fuliginosa Murrill SPECIES
 
 #### Status
 ACCEPTED

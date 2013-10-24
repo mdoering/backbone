@@ -1,5 +1,4 @@
-Pezizella hellebori Velen. SPECIES
-=======
+# Pezizella hellebori Velen. SPECIES
 
 #### Status
 ACCEPTED

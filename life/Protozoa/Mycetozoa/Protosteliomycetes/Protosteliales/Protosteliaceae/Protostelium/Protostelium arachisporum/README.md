@@ -1,17 +1,16 @@
-Protostelium arachispora L.S. Olive SPECIES
-=======
+# Protostelium arachisporum L.S. Olive, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 49: 301 (1962)
 
 #### Original name
-Protostelium arachispora L.S. Olive
+Protostelium arachisporum L.S. Olive, 1962
 
 ### Remarks
 null

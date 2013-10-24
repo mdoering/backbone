@@ -1,5 +1,4 @@
-Ramalina carelica Räsänen SPECIES
-=======
+# Ramalina carelica Räsänen SPECIES
 
 #### Status
 ACCEPTED

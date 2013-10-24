@@ -1,5 +1,4 @@
-Crinipellis sublivida Murrill SPECIES
-=======
+# Crinipellis sublivida Murrill SPECIES
 
 #### Status
 ACCEPTED

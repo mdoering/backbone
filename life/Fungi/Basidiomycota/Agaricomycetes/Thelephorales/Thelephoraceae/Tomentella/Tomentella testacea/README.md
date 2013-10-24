@@ -1,5 +1,4 @@
-Tomentella testacea Bourdot & Galzin SPECIES
-=======
+# Tomentella testacea Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

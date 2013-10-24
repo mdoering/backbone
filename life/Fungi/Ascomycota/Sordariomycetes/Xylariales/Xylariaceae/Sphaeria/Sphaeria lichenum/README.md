@@ -1,5 +1,4 @@
-Sphaeria lichenum Rebent. SPECIES
-=======
+# Sphaeria lichenum Rebent. SPECIES
 
 #### Status
 ACCEPTED

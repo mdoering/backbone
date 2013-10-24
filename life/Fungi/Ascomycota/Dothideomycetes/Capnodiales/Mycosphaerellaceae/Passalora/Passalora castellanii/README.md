@@ -1,14 +1,13 @@
-Passalora castellani (Matta & Belliard) U. Braun SPECIES
-=======
+# Passalora castellanii (Matta & Belliard) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 1: 124 (1995)
 
 #### Original name
 Cercospora castellanii Matta & Belliard

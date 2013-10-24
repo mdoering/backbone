@@ -1,5 +1,4 @@
-Usnea obtusata f. obtusata FORM
-=======
+# Usnea obtusata Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea obtusata f. obtusata
+Usnea obtusata Motyka
 
 ### Remarks
 null

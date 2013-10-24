@@ -1,5 +1,4 @@
-Desulfovibrio giganteus Esnault et al., 1988 SPECIES
-=======
+# Desulfovibrio giganteus Esnault et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

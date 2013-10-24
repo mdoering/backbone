@@ -1,14 +1,13 @@
-Xylaria guepini (Fr.) Ces. SPECIES
-=======
+# Xylaria guepinii (Fr.) Ces., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1: 71 (1851)
 
 #### Original name
 Sphaeria guepinii Fr., 1828

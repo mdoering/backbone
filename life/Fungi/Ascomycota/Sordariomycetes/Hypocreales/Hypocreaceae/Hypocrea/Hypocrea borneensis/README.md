@@ -1,5 +1,4 @@
-Hypocrea borneensis H.S. Yates SPECIES
-=======
+# Hypocrea borneensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

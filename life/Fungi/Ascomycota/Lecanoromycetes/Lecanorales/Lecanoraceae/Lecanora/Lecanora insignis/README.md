@@ -1,5 +1,4 @@
-Lecanora insignis Degel. SPECIES
-=======
+# Lecanora insignis Degel. SPECIES
 
 #### Status
 ACCEPTED

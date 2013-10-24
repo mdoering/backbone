@@ -1,5 +1,4 @@
-Strombidium atlanticum (Busch, 1921) Maeda & Carey, 1985 SPECIES
-=======
+# Strombidium atlanticum (Busch, 1921) Maeda & Carey, 1985 SPECIES
 
 #### Status
 ACCEPTED

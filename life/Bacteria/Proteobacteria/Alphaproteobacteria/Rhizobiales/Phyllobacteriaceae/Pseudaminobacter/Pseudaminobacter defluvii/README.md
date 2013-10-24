@@ -1,5 +1,4 @@
-Pseudaminobacter defluvii Kämpfer et al., 1999 SPECIES
-=======
+# Pseudaminobacter defluvii Kämpfer et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

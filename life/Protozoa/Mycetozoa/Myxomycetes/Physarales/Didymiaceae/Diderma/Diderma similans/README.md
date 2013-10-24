@@ -1,5 +1,4 @@
-Diderma similans (Rostaf.) Kuntze SPECIES
-=======
+# Diderma similans (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

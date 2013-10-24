@@ -1,5 +1,4 @@
-Pseudaegerita ossiformis Abdullah, Gené & Guarro SPECIES
-=======
+# Pseudaegerita ossiformis Abdullah, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella sinuosa (F. Stevens & Roldan) Hansf. SPECIES
-=======
+# Asteridiella sinuosa (F. Stevens & Roldan) Hansf. SPECIES
 
 #### Status
 ACCEPTED

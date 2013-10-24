@@ -1,14 +1,13 @@
-Eccrinella gammari L. Léger & Duboscq, 1906 SPECIES
-=======
+# Astreptonema gammari (L. Léger & Duboscq) Manier ex Manier, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc Acad. Sci. , Paris, Paris 142: 592 (1906)
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 10(4): 596 (1970)
 
 #### Original name
 Eccrinella gammari L. Léger & Duboscq, 1906

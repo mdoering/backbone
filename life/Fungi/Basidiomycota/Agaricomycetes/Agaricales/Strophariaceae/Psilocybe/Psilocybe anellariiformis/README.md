@@ -1,5 +1,4 @@
-Psilocybe anellariiformis (Murrill) Singer SPECIES
-=======
+# Psilocybe anellariiformis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma gentianae-punctatae Petr. SPECIES
-=======
+# Phoma gentianae-punctatae Petr. SPECIES
 
 #### Status
 ACCEPTED

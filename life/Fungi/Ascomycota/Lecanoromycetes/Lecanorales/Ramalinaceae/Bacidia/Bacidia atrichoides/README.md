@@ -1,5 +1,4 @@
-Bacidia atrichoides Malme SPECIES
-=======
+# Bacidia atrichoides Malme SPECIES
 
 #### Status
 ACCEPTED

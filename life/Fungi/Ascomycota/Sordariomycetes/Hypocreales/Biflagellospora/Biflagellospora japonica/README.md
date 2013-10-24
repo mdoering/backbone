@@ -1,5 +1,4 @@
-Biflagellospora japonica Matsush., 1975 SPECIES
-=======
+# Biflagellospora japonica Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

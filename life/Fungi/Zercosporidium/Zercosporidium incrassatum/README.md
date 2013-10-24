@@ -1,5 +1,4 @@
-Zercosporidium incrassatum G. Thor SPECIES
-=======
+# Zercosporidium incrassatum G. Thor SPECIES
 
 #### Status
 ACCEPTED

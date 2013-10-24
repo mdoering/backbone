@@ -1,5 +1,4 @@
-Hydnum heimii Maas Geest. SPECIES
-=======
+# Hydnum heimii Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

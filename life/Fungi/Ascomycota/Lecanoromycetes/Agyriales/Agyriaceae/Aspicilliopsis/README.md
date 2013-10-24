@@ -1,5 +1,4 @@
-Aspicilliopsis (Mull. Arg.) M. Choisy GENUS
-=======
+# Aspicilliopsis (Mull. Arg.) M. Choisy GENUS
 
 #### Status
 ACCEPTED

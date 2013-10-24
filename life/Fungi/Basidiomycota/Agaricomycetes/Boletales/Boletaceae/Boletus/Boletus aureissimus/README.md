@@ -1,5 +1,4 @@
-Boletus aureissimus (Murrill) Murrill SPECIES
-=======
+# Boletus aureissimus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

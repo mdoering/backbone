@@ -1,5 +1,4 @@
-Lecanora holocarpa (Ehrh.) Nyl. SPECIES
-=======
+# Lecanora holocarpa (Ehrh.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma strictum G. Stev., 1962 SPECIES
-=======
+# Entoloma strictum G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

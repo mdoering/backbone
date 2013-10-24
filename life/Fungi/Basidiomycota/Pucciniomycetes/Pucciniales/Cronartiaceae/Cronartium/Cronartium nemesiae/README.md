@@ -1,5 +1,4 @@
-Cronartium nemesiae var. nemesiae VARIETY
-=======
+# Cronartium nemesiae Vestergr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cronartium nemesiae var. nemesiae
+Cronartium nemesiae Vestergr.
 
 ### Remarks
 null

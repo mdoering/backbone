@@ -1,5 +1,4 @@
-Sorites orbitolitoides SPECIES
-=======
+# Sorites orbitolitoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Condylostoma tenuum Faure-Fremiet, 1932 SPECIES
-=======
+# Condylostoma tenuum Faure-Fremiet, 1932 SPECIES
 
 #### Status
 ACCEPTED

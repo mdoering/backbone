@@ -1,5 +1,4 @@
-Trichia carnea Wallr. SPECIES
-=======
+# Trichia carnea Wallr. SPECIES
 
 #### Status
 ACCEPTED

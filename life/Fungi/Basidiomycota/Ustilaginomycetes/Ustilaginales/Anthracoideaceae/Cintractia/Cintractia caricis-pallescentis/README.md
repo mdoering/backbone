@@ -1,5 +1,4 @@
-Cintractia caricis-pallescentis Lehtola SPECIES
-=======
+# Cintractia caricis-pallescentis Lehtola SPECIES
 
 #### Status
 ACCEPTED

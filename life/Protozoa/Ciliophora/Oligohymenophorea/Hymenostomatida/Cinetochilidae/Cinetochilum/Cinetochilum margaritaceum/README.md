@@ -1,8 +1,7 @@
-Cinetochilum margarcliclum SPECIES
-=======
+# Cinetochilum margaritaceum (Ehrenberg, 1831) Perty, 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

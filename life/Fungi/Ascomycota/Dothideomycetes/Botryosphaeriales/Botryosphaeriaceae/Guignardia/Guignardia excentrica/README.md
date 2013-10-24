@@ -1,5 +1,4 @@
-Guignardia excentrica var. excentrica VARIETY
-=======
+# Guignardia excentrica (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

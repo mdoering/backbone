@@ -1,5 +1,4 @@
-Microdiplodia colletiae-horridae Staritz SPECIES
-=======
+# Microdiplodia colletiae-horridae Staritz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peyronellaea curtisii (Berk.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Stagonosporopsis curtisii (Berk.) Boerema, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jaarboek. Plantenziektenkundige Dienst, 1980, no. 157 20 (1981)
 
 #### Original name
-null
+Hendersonia curtisii Berk., 1878
 
 ### Remarks
 null

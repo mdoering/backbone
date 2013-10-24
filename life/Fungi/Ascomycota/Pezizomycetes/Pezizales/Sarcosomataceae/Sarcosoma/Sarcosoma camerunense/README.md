@@ -1,5 +1,4 @@
-Sarcosoma camerunense Henn. SPECIES
-=======
+# Sarcosoma camerunense Henn. SPECIES
 
 #### Status
 ACCEPTED

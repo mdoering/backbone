@@ -1,5 +1,4 @@
-Capnodium theae Boedijn SPECIES
-=======
+# Capnodium theae Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta theicola Curzi SPECIES
-=======
+# Phyllosticta theicola Curzi SPECIES
 
 #### Status
 ACCEPTED

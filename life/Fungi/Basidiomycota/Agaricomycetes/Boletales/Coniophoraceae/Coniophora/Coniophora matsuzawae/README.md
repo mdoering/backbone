@@ -1,5 +1,4 @@
-Coniophora matsuzawae Yasuda SPECIES
-=======
+# Coniophora matsuzawae Yasuda SPECIES
 
 #### Status
 ACCEPTED

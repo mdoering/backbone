@@ -1,5 +1,4 @@
-Tricholoma maculatum (Murrill) Murrill SPECIES
-=======
+# Tricholoma maculatum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

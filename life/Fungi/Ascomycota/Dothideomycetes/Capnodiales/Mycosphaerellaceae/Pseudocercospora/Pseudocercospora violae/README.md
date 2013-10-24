@@ -1,5 +1,4 @@
-Pseudocercospora violae Deighton SPECIES
-=======
+# Pseudocercospora violae Deighton SPECIES
 
 #### Status
 ACCEPTED

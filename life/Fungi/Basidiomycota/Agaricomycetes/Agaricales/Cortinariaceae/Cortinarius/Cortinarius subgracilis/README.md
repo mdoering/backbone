@@ -1,5 +1,4 @@
-Cortinarius subgracilis Moënne-Locc. SPECIES
-=======
+# Cortinarius subgracilis Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

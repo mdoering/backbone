@@ -1,14 +1,13 @@
-Marasmius minutulus Henn., 1896 SPECIES
-=======
+# Crinipellis minutula (Henn.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 22: 100 (1896)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 143 (1900)
 
 #### Original name
 Marasmius minutulus Henn., 1896

@@ -1,5 +1,4 @@
-Planoendothyra Reitlinger, 1959 GENUS
-=======
+# Planoendothyra Reitlinger, 1959 GENUS
 
 #### Status
 ACCEPTED

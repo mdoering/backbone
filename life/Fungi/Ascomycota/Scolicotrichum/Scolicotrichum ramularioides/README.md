@@ -1,5 +1,4 @@
-Scolicotrichum ramularioides Sacc. & Fautrey SPECIES
-=======
+# Scolicotrichum ramularioides Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa viridistroma (Wehm.) G.C. Adams, Jol. Roux & M.J. Wingf. SPECIES
-=======
+# Valsa viridistroma (Wehm.) G.C. Adams, Jol. Roux & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

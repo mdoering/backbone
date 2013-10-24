@@ -1,5 +1,4 @@
-Ochrolechia rhodoleuca (Th. Fr.) Brodo SPECIES
-=======
+# Ochrolechia rhodoleuca (Th. Fr.) Brodo SPECIES
 
 #### Status
 ACCEPTED

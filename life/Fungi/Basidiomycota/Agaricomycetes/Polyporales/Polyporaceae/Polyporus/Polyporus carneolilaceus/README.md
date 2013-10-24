@@ -1,5 +1,4 @@
-Polyporus carneolilaceus Britzelm. SPECIES
-=======
+# Polyporus carneolilaceus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

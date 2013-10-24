@@ -1,5 +1,4 @@
-Heterochaete byliana P.H.B. Talbot SPECIES
-=======
+# Heterochaete byliana P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

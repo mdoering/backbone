@@ -1,5 +1,4 @@
-Caloplaca lenae Søchting & G. Figueras SPECIES
-=======
+# Caloplaca lenae Søchting & G. Figueras SPECIES
 
 #### Status
 ACCEPTED

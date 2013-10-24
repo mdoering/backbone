@@ -1,5 +1,4 @@
-Ramulina Wright, 1875 GENUS
-=======
+# Ramulina Wright, 1875 GENUS
 
 #### Status
 ACCEPTED

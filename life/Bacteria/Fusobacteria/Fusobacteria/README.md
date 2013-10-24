@@ -1,5 +1,4 @@
-Fusobacteria CLASS
-=======
+# Fusobacteria CLASS
 
 #### Status
 ACCEPTED

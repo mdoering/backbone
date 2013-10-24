@@ -1,5 +1,4 @@
-Gasparrinia GENUS
-=======
+# Gasparrinia GENUS
 
 #### Status
 ACCEPTED

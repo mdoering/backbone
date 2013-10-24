@@ -1,17 +1,16 @@
-Lactarius deliciosus f. deliciosus FORM
-=======
+# Lactarius deliciosus (L.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nat. Arr. Brit. Pl. (London) 1: 624 (1821)
 
 #### Original name
-Lactarius deliciosus f. deliciosus
+Agaricus deliciosus L., 1753
 
 ### Remarks
 null

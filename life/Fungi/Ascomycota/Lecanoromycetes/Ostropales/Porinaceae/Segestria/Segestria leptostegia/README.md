@@ -1,5 +1,4 @@
-Segestria leptostegia (C. Knight) Hellb. SPECIES
-=======
+# Segestria leptostegia (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

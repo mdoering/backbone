@@ -1,5 +1,4 @@
-Thelidium subpapulare Zschacke SPECIES
-=======
+# Thelidium subpapulare Zschacke SPECIES
 
 #### Status
 ACCEPTED

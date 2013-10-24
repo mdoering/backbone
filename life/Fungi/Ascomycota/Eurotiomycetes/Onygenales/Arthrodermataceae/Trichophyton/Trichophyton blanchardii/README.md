@@ -1,17 +1,16 @@
-Trichophyton blanchardi Castell. SPECIES
-=======
+# Trichophyton blanchardii Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Trop. Med. Hyg. 11: 264 (1908)
 
 #### Original name
-Trichophyton blanchardi Castell.
+Trichophyton sabouraudii R. Blanch.
 
 ### Remarks
 null

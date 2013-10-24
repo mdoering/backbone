@@ -1,5 +1,4 @@
-Dermatocarpon rohlenae Servít SPECIES
-=======
+# Dermatocarpon rohlenae Servít SPECIES
 
 #### Status
 ACCEPTED

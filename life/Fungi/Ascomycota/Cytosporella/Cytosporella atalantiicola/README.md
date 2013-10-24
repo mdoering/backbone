@@ -1,5 +1,4 @@
-Cytosporella atalantiicola Tend. SPECIES
-=======
+# Cytosporella atalantiicola Tend. SPECIES
 
 #### Status
 ACCEPTED

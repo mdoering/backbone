@@ -1,5 +1,4 @@
-Cellularia madagascariensis (Henn.) Kuntze SPECIES
-=======
+# Cellularia madagascariensis (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

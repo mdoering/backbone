@@ -1,5 +1,4 @@
-Globobulimina pseudospinescens (Emiliani) SPECIES
-=======
+# Globobulimina pseudospinescens (Emiliani) SPECIES
 
 #### Status
 ACCEPTED

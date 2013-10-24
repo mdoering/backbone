@@ -1,5 +1,4 @@
-Phaeocollybia californica A.H. Sm. SPECIES
-=======
+# Phaeocollybia californica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephromela luteola Motyka SPECIES
-=======
+# Tephromela luteola Motyka SPECIES
 
 #### Status
 ACCEPTED

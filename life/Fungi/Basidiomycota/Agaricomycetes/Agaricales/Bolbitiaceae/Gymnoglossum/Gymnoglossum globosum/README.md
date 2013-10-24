@@ -1,5 +1,4 @@
-Gymnoglossum globosum (Harkn.) Zeller SPECIES
-=======
+# Gymnoglossum globosum (Harkn.) Zeller SPECIES
 
 #### Status
 ACCEPTED

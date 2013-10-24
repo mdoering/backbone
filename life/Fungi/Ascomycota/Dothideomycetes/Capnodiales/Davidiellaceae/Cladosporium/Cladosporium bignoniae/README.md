@@ -1,5 +1,4 @@
-Cladosporium bignoniae Schwein. SPECIES
-=======
+# Cladosporium bignoniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

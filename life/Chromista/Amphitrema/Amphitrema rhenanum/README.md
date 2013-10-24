@@ -1,5 +1,4 @@
-Amphitrema rhenanum Lauterborn, 1896 SPECIES
-=======
+# Amphitrema rhenanum Lauterborn, 1896 SPECIES
 
 #### Status
 ACCEPTED

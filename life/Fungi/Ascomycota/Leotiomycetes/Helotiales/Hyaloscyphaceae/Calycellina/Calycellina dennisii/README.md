@@ -1,5 +1,4 @@
-Calycellina dennisii Raschle SPECIES
-=======
+# Calycellina dennisii Raschle SPECIES
 
 #### Status
 ACCEPTED

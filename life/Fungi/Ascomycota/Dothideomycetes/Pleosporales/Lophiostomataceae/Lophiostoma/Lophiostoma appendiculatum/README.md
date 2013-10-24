@@ -1,17 +1,16 @@
-Lophiostoma appendiculatum var. littorale (Speg.) Chesters & A.E. Bell VARIETY
-=======
+# Lophiostoma appendiculatum Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 120: 19 (1970)
+Jb. nassau. Ver. Naturk. 27-28: 29 (1874)
 
 #### Original name
-Lophiotrema littorale Speg.
+Lophiostoma appendiculatum Fuckel, 1874
 
 ### Remarks
 null

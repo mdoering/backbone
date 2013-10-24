@@ -1,5 +1,4 @@
-Dermoloma longibasidiatum Consiglio, Contu & Setti SPECIES
-=======
+# Dermoloma longibasidiatum Consiglio, Contu & Setti SPECIES
 
 #### Status
 ACCEPTED

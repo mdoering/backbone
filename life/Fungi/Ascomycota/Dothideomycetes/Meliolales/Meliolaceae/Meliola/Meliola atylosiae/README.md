@@ -1,5 +1,4 @@
-Meliola atylosiae Hosag. SPECIES
-=======
+# Meliola atylosiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

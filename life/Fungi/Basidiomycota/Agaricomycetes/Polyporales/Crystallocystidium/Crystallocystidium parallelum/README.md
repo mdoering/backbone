@@ -1,5 +1,4 @@
-Crystallocystidium parallelum Rick SPECIES
-=======
+# Crystallocystidium parallelum Rick SPECIES
 
 #### Status
 ACCEPTED

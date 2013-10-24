@@ -1,5 +1,4 @@
-Synchytrium lacunosum Karling SPECIES
-=======
+# Synchytrium lacunosum Karling SPECIES
 
 #### Status
 ACCEPTED

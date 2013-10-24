@@ -1,5 +1,4 @@
-Antiquus R.V. Butin, 1959 GENUS
-=======
+# Antiquus R.V. Butin, 1959 GENUS
 
 #### Status
 ACCEPTED

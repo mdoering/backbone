@@ -1,5 +1,4 @@
-Trichoderma fertile Bissett, 1992 SPECIES
-=======
+# Trichoderma fertile Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

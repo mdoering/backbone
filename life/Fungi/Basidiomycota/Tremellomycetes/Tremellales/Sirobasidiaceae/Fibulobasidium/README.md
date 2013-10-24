@@ -1,5 +1,4 @@
-Fibulobasidium Bandoni GENUS
-=======
+# Fibulobasidium Bandoni GENUS
 
 #### Status
 ACCEPTED

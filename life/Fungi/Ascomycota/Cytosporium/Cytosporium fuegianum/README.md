@@ -1,5 +1,4 @@
-Cytosporium fuegianum Speg. SPECIES
-=======
+# Cytosporium fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

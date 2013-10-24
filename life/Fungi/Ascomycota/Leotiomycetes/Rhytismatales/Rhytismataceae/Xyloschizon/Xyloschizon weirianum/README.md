@@ -1,5 +1,4 @@
-Xyloschizon weirianum Syd., 1922 SPECIES
-=======
+# Xyloschizon weirianum Syd., 1922 SPECIES
 
 #### Status
 ACCEPTED

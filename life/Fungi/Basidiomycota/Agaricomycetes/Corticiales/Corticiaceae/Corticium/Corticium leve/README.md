@@ -1,5 +1,4 @@
-Corticium leve Sacc. SPECIES
-=======
+# Corticium leve Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venenarius agglutinatus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Venenarius agglutinatus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

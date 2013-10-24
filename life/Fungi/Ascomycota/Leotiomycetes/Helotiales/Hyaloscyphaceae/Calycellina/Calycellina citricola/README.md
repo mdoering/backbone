@@ -1,5 +1,4 @@
-Calycellina citricola (Berk. & Broome) SPECIES
-=======
+# Calycellina citricola (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

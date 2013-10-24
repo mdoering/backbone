@@ -1,5 +1,4 @@
-Lecidea atromarginata var. atromarginata VARIETY
-=======
+# Lecanora atromarginata (H. Magn.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Elvebakk & Hertel, Norsk Polarinstitutt Skrifter 198: 306 (1996)
 
 #### Original name
-Lecidea atromarginata var. atromarginata
+Lecidea atromarginata H. Magn.
 
 ### Remarks
 null

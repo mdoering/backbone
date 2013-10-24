@@ -1,5 +1,4 @@
-Dactylaria acicularis O. Rostr., 1916 SPECIES
-=======
+# Dactylaria acicularis O. Rostr., 1916 SPECIES
 
 #### Status
 ACCEPTED

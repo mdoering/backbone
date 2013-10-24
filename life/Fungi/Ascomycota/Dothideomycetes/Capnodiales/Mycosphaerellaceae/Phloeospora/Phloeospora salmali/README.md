@@ -1,5 +1,4 @@
-Phloeospora salmali S.L. Jain, A.N. Rai & P. Mehta SPECIES
-=======
+# Phloeospora salmali S.L. Jain, A.N. Rai & P. Mehta SPECIES
 
 #### Status
 ACCEPTED

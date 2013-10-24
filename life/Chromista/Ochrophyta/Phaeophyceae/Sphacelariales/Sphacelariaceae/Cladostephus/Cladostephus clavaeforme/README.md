@@ -1,5 +1,4 @@
-Cladostephus clavaeforme C. Agardh SPECIES
-=======
+# Cladostephus clavaeforme C. Agardh SPECIES
 
 #### Status
 ACCEPTED

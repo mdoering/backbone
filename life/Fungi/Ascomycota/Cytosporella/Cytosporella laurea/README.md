@@ -1,5 +1,4 @@
-Cytosporella laurea Rolland SPECIES
-=======
+# Cytosporella laurea Rolland SPECIES
 
 #### Status
 ACCEPTED

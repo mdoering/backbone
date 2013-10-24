@@ -1,5 +1,4 @@
-Phomopsis phillyreae (Sacc.) Arx SPECIES
-=======
+# Phomopsis phillyreae (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

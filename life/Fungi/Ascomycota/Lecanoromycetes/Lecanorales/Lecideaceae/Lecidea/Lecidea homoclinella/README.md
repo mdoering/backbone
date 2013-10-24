@@ -1,5 +1,4 @@
-Lecidea homoclinella Nyl. SPECIES
-=======
+# Lecidea homoclinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

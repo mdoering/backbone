@@ -1,5 +1,4 @@
-Orbopercularia pulchra SPECIES
-=======
+# Orbopercularia pulchra SPECIES
 
 #### Status
 ACCEPTED

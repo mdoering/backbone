@@ -1,5 +1,4 @@
-Mycena candidissima Grgur. & A.A. Holland SPECIES
-=======
+# Mycena candidissima Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

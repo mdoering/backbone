@@ -1,5 +1,4 @@
-Polyblastia kansuensis H. Magn. SPECIES
-=======
+# Polyblastia kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

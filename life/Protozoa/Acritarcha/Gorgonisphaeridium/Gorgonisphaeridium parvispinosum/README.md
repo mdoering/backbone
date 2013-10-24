@@ -1,5 +1,4 @@
-Gorgonisphaeridium parvispinosum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Gorgonisphaeridium parvispinosum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

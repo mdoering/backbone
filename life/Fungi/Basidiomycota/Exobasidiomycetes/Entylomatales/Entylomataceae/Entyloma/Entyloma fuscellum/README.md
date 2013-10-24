@@ -1,5 +1,4 @@
-Entyloma fuscellum J. Schröt. SPECIES
-=======
+# Entyloma fuscellum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus nanus (Massee) Singer SPECIES
-=======
+# Tylopilus nanus (Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

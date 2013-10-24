@@ -1,5 +1,4 @@
-Phaeoscutella gynerii Henn. SPECIES
-=======
+# Phaeoscutella gynerii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diacrocanthidium echinulatum (Deflandre, 1937) Loeblich & Loeblich Iii SPECIES
-=======
+# Diacrocanthidium echinulatum (Deflandre, 1937) Loeblich & Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

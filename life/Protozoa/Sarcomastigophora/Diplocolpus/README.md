@@ -1,5 +1,4 @@
-Diplocolpus Haeckel, 1885 GENUS
-=======
+# Diplocolpus Haeckel, 1885 GENUS
 
 #### Status
 ACCEPTED

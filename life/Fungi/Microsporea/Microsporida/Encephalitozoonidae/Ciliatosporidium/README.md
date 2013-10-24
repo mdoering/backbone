@@ -1,5 +1,4 @@
-Ciliatosporidium I. Foissner & W. Foissner GENUS
-=======
+# Ciliatosporidium I. Foissner & W. Foissner GENUS
 
 #### Status
 ACCEPTED

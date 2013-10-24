@@ -1,5 +1,4 @@
-Rosellinia conferta Lar.N. Vassiljeva, 1998 SPECIES
-=======
+# Rosellinia conferta Lar.N. Vassiljeva, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subsordescens Rob. Henry SPECIES
-=======
+# Cortinarius subsordescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

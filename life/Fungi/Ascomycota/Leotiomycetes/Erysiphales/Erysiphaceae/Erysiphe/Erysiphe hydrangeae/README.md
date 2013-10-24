@@ -1,5 +1,4 @@
-Erysiphe hydrangeae (Z.X. Chen & R.X. Gao) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe hydrangeae (Z.X. Chen & R.X. Gao) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

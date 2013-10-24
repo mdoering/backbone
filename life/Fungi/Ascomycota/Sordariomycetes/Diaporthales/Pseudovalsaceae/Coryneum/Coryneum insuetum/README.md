@@ -1,5 +1,4 @@
-Coryneum insuetum Syd. SPECIES
-=======
+# Coryneum insuetum Syd. SPECIES
 
 #### Status
 ACCEPTED

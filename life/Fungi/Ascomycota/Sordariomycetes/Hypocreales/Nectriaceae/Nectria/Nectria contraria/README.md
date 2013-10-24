@@ -1,5 +1,4 @@
-Nectria contraria Döbbeler SPECIES
-=======
+# Nectria contraria Döbbeler SPECIES
 
 #### Status
 ACCEPTED

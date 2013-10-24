@@ -1,5 +1,4 @@
-Corethromyces scydmaenicola Speg. SPECIES
-=======
+# Corethromyces scydmaenicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Banhegyia L. Zeller & Tóth GENUS
-=======
+# Banhegyia L. Zeller & Tóth GENUS
 
 #### Status
 ACCEPTED

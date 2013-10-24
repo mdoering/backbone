@@ -1,5 +1,4 @@
-Gigasbia Strank, 1983 GENUS
-=======
+# Gigasbia Strank, 1983 GENUS
 
 #### Status
 ACCEPTED

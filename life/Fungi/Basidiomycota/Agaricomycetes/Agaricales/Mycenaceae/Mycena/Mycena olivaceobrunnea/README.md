@@ -1,5 +1,4 @@
-Mycena olivaceobrunnea A.H. Sm. SPECIES
-=======
+# Mycena olivaceobrunnea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

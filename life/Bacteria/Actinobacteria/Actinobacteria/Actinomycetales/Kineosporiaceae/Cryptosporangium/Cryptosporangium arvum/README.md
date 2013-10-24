@@ -1,5 +1,4 @@
-Cryptosporangium arvum Tamura et al., 1998 SPECIES
-=======
+# Cryptosporangium arvum Tamura et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

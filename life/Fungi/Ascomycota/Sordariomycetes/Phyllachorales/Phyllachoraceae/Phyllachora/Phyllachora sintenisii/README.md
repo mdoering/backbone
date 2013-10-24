@@ -1,5 +1,4 @@
-Phyllachora sintenisii Petr. & Cif., 1932 SPECIES
-=======
+# Phyllachora sintenisii Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

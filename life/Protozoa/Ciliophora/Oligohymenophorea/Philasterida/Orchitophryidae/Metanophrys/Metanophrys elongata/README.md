@@ -1,5 +1,4 @@
-Metanophrys elongata (Biggar & Wenrich, 1932) SPECIES
-=======
+# Metanophrys elongata (Biggar & Wenrich, 1932) SPECIES
 
 #### Status
 ACCEPTED

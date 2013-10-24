@@ -1,5 +1,4 @@
-Leptosphaeria trichopterygis Hansf. SPECIES
-=======
+# Leptosphaeria trichopterygis Hansf. SPECIES
 
 #### Status
 ACCEPTED

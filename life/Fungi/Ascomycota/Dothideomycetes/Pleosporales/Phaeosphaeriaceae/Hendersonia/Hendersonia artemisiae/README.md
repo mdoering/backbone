@@ -1,5 +1,4 @@
-Hendersonia artemisiae Sacc. SPECIES
-=======
+# Hendersonia artemisiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

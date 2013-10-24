@@ -1,5 +1,4 @@
-Hemitrichia insignis Torrend, 1916 SPECIES
-=======
+# Hemitrichia insignis Torrend, 1916 SPECIES
 
 #### Status
 ACCEPTED

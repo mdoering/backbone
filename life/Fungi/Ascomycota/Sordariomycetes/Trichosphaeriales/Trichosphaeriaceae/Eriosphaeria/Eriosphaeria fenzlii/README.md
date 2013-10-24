@@ -1,5 +1,4 @@
-Eriosphaeria fenzlii Reichardt SPECIES
-=======
+# Eriosphaeria fenzlii Reichardt SPECIES
 
 #### Status
 ACCEPTED

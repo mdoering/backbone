@@ -1,5 +1,4 @@
-Dendrodochium padi Oudem. SPECIES
-=======
+# Dendrodochium padi Oudem. SPECIES
 
 #### Status
 ACCEPTED

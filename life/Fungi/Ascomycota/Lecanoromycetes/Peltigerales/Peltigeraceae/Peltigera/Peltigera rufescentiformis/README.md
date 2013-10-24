@@ -1,5 +1,4 @@
-Peltigera rufescentiformis (Gyeln.) C.W. Dodge SPECIES
-=======
+# Peltigera rufescentiformis (Gyeln.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

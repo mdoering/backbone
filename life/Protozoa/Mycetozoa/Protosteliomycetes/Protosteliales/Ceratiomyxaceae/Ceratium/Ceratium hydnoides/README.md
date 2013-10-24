@@ -1,5 +1,4 @@
-Ceratium hydnoides subsp. hydnoides SUBSPECIES
-=======
+# Ceratium hydnoides (Jacq.) Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Consp. fung. (Leipzig) 358 (1805)
 
 #### Original name
-Ceratium hydnoides subsp. hydnoides
+Tremella hydnoidea Jacq.
 
 ### Remarks
 null

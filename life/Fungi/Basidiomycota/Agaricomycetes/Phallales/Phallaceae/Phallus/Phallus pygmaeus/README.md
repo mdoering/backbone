@@ -1,5 +1,4 @@
-Phallus pygmaeus Baseia, 2003 SPECIES
-=======
+# Phallus pygmaeus Baseia, 2003 SPECIES
 
 #### Status
 ACCEPTED

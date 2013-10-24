@@ -1,5 +1,4 @@
-Inocybe alabamensis Kauffman SPECIES
-=======
+# Inocybe alabamensis Kauffman SPECIES
 
 #### Status
 ACCEPTED

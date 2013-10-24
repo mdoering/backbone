@@ -1,5 +1,4 @@
-Pluricellaesporites fusiformis P. Ke & Z.Y. Shi SPECIES
-=======
+# Pluricellaesporites fusiformis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

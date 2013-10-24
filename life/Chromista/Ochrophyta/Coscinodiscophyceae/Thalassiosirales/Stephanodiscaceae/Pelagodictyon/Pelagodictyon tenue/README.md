@@ -1,5 +1,4 @@
-Pelagodictyon tenue Clarke SPECIES
-=======
+# Pelagodictyon tenue Clarke SPECIES
 
 #### Status
 ACCEPTED

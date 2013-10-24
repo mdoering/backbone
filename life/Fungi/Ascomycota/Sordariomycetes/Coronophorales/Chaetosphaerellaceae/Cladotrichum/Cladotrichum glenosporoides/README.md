@@ -1,5 +1,4 @@
-Cladotrichum glenosporoides Sacc. SPECIES
-=======
+# Cladotrichum glenosporoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

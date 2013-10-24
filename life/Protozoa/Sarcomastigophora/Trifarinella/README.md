@@ -1,5 +1,4 @@
-Trifarinella Watanabe, 1989 GENUS
-=======
+# Trifarinella Watanabe, 1989 GENUS
 
 #### Status
 ACCEPTED

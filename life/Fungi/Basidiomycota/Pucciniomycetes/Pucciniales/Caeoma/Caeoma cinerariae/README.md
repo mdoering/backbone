@@ -1,5 +1,4 @@
-Caeoma cinerariae Rostr. SPECIES
-=======
+# Caeoma cinerariae Rostr. SPECIES
 
 #### Status
 ACCEPTED

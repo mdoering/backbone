@@ -1,5 +1,4 @@
-Omphalina oblongispora Jul. Schäff. SPECIES
-=======
+# Omphalina oblongispora Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

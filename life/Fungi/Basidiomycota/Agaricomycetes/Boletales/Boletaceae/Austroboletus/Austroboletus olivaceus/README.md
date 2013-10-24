@@ -1,5 +1,4 @@
-Austroboletus olivaceus Singer SPECIES
-=======
+# Austroboletus olivaceus Singer SPECIES
 
 #### Status
 ACCEPTED

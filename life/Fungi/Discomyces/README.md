@@ -1,5 +1,4 @@
-Discomyces R. Blanch. & Nocard GENUS
-=======
+# Discomyces R. Blanch. & Nocard GENUS
 
 #### Status
 ACCEPTED

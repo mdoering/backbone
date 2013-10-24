@@ -1,5 +1,4 @@
-Clitocybe broadwayi Murrill SPECIES
-=======
+# Clitocybe broadwayi Murrill SPECIES
 
 #### Status
 ACCEPTED

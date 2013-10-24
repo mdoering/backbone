@@ -1,5 +1,4 @@
-Achlya subterranea Coker & Braxton SPECIES
-=======
+# Achlya subterranea Coker & Braxton SPECIES
 
 #### Status
 ACCEPTED

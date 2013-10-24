@@ -1,5 +1,4 @@
-Poria endotephra Bres. SPECIES
-=======
+# Poria endotephra Bres. SPECIES
 
 #### Status
 ACCEPTED

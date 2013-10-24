@@ -1,5 +1,4 @@
-Lasiosordaria lutea (Ellis & Everh.) Chenant. SPECIES
-=======
+# Lasiosordaria lutea (Ellis & Everh.) Chenant. SPECIES
 
 #### Status
 ACCEPTED

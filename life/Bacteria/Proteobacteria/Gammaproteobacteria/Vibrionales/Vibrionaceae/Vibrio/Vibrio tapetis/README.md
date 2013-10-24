@@ -1,5 +1,4 @@
-Vibrio tapetis Borrego et al., 1996 SPECIES
-=======
+# Vibrio tapetis Borrego et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

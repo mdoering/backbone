@@ -1,5 +1,4 @@
-Dacrymyces difformis Schwein. SPECIES
-=======
+# Dacrymyces difformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

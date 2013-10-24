@@ -1,5 +1,4 @@
-Irenopsis chaethachna (Cif.) Hansf. SPECIES
-=======
+# Irenopsis chaethachna (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

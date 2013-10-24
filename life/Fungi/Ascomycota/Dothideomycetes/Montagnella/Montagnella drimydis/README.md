@@ -1,17 +1,16 @@
-Montagnella drimidys Henn. SPECIES
-=======
+# Montagnella drimydis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öfvers. K. VetenskAkad. Forh. 57: 326 (1900)
 
 #### Original name
-Montagnella drimidys Henn.
+Montagnella drimydis Henn.
 
 ### Remarks
 null

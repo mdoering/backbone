@@ -1,5 +1,4 @@
-Penicillium ruttneri Svilv. SPECIES
-=======
+# Penicillium ruttneri Svilv. SPECIES
 
 #### Status
 ACCEPTED

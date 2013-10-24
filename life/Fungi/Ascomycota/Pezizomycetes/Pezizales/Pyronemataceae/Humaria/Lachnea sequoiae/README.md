@@ -1,8 +1,7 @@
-Lachnea sequojae (W. Phillips) Sacc. SPECIES
-=======
+# Lachnea sequoiae (W. Phillips) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

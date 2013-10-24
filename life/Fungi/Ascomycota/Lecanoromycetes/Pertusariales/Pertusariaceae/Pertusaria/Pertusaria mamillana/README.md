@@ -1,5 +1,4 @@
-Pertusaria mamillana Müll. Arg. SPECIES
-=======
+# Pertusaria mamillana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

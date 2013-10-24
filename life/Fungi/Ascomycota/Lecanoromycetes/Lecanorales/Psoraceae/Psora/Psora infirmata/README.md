@@ -1,5 +1,4 @@
-Psora infirmata (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Psora infirmata (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

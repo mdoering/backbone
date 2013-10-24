@@ -1,5 +1,4 @@
-Phellinus sulphurascens Pilát SPECIES
-=======
+# Phellinus sulphurascens Pilát SPECIES
 
 #### Status
 ACCEPTED

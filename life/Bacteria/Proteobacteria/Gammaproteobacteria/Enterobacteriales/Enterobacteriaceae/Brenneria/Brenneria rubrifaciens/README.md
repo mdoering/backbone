@@ -1,8 +1,7 @@
-Erwinia rubrifaciens Wilson et al., 1967 (Approved Lists, 1980) SPECIES
-=======
+# Brenneria rubrifaciens (Wilson et al., 1967) Hauben et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

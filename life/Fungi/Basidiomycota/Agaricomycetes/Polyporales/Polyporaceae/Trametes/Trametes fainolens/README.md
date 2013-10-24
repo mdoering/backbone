@@ -1,5 +1,4 @@
-Trametes fainolens Corner SPECIES
-=======
+# Trametes fainolens Corner SPECIES
 
 #### Status
 ACCEPTED

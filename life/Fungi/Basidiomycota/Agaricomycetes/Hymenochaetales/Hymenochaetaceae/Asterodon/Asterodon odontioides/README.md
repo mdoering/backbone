@@ -1,5 +1,4 @@
-Asterodon odontioides Rick SPECIES
-=======
+# Asterodon odontioides Rick SPECIES
 
 #### Status
 ACCEPTED

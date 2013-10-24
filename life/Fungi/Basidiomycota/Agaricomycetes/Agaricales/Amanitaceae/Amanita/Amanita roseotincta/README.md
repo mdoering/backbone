@@ -1,5 +1,4 @@
-Amanita roseotincta (Murrill) Sacc. & Trotter SPECIES
-=======
+# Amanita roseotincta (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

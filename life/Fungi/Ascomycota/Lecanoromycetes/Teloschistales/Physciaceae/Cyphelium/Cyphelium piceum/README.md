@@ -1,5 +1,4 @@
-Cyphelium piceum Chevall. SPECIES
-=======
+# Cyphelium piceum Chevall. SPECIES
 
 #### Status
 ACCEPTED

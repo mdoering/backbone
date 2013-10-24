@@ -1,5 +1,4 @@
-Entoloma canescens Hesler SPECIES
-=======
+# Entoloma canescens Hesler SPECIES
 
 #### Status
 ACCEPTED

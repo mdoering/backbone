@@ -1,17 +1,16 @@
-Glyphis labyrinthica var. labyrinthica Ach. VARIETY
-=======
+# Sarcographa labyrinthica (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 29(8): 62 (1887)
 
 #### Original name
-Glyphis labyrinthica var. labyrinthica Ach.
+Glyphis labyrinthica Ach.
 
 ### Remarks
 null

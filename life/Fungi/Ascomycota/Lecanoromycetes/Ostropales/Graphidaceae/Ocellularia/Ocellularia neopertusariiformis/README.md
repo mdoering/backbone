@@ -1,5 +1,4 @@
-Ocellularia neopertusariiformis Hale SPECIES
-=======
+# Ocellularia neopertusariiformis Hale SPECIES
 
 #### Status
 ACCEPTED

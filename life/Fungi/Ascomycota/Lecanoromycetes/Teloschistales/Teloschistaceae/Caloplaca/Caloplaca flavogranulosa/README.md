@@ -1,5 +1,4 @@
-Caloplaca flavogranulosa Arup SPECIES
-=======
+# Caloplaca flavogranulosa Arup SPECIES
 
 #### Status
 ACCEPTED

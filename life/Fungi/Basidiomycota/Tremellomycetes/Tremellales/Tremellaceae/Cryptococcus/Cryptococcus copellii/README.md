@@ -1,5 +1,4 @@
-Cryptococcus copellii Neveu-Lem. SPECIES
-=======
+# Cryptococcus copellii Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

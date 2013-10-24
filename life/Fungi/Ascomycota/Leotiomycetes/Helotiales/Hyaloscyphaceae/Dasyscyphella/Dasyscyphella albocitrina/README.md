@@ -1,5 +1,4 @@
-Dasyscyphella albocitrina (Cooke) Baral SPECIES
-=======
+# Dasyscyphella albocitrina (Cooke) Baral SPECIES
 
 #### Status
 ACCEPTED

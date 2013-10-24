@@ -1,5 +1,4 @@
-Elaphomyces shimizuensis Kobayasi SPECIES
-=======
+# Elaphomyces shimizuensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

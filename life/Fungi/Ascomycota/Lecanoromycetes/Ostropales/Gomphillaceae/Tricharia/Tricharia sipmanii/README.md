@@ -1,5 +1,4 @@
-Tricharia sipmanii Lücking SPECIES
-=======
+# Tricharia sipmanii Lücking SPECIES
 
 #### Status
 ACCEPTED

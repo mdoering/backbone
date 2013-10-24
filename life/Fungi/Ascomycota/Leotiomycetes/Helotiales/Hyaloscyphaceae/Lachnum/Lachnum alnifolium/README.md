@@ -1,5 +1,4 @@
-Lachnum alnifolium (Raitv.) Raitv. SPECIES
-=======
+# Lachnum alnifolium (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

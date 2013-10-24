@@ -1,5 +1,4 @@
-Cladobotryum soroaense R.F. Castañeda, 1986 SPECIES
-=======
+# Cladobotryum soroaense R.F. Castañeda, 1986 SPECIES
 
 #### Status
 ACCEPTED

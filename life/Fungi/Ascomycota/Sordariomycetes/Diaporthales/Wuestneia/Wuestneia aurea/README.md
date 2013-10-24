@@ -1,5 +1,4 @@
-Wuestneia aurea Auersw., 1869 SPECIES
-=======
+# Wuestneia aurea Auersw., 1869 SPECIES
 
 #### Status
 ACCEPTED

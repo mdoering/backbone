@@ -1,5 +1,4 @@
-Puccinia wangiana J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia wangiana J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

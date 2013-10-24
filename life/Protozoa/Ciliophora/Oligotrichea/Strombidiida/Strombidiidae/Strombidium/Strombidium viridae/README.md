@@ -1,5 +1,4 @@
-Strombidium viridae Stein, 1867 SPECIES
-=======
+# Strombidium viridae Stein, 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago superflua Syd. & P. Syd. SPECIES
-=======
+# Ustilago superflua Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

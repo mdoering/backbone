@@ -1,5 +1,4 @@
-Ascochyta alkekengi C. Massal. SPECIES
-=======
+# Ascochyta alkekengi C. Massal. SPECIES
 
 #### Status
 ACCEPTED

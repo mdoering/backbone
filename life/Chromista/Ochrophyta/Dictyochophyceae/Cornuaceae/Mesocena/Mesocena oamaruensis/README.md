@@ -1,5 +1,4 @@
-Mesocena oamaruensis var. quadrangula P. Schulz VARIETY
-=======
+# Mesocena oamaruensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophyton hillii A.W. Archer SPECIES
-=======
+# Sclerophyton hillii A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

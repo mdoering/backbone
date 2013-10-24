@@ -1,5 +1,4 @@
-Placopsis dusenii I.M. Lamb SPECIES
-=======
+# Placopsis dusenii I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

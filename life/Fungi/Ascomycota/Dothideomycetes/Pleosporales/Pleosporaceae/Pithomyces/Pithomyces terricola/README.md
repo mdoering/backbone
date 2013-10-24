@@ -1,14 +1,13 @@
-Stemphyliomma terricola Manohar. & P.Rama Rao, 1972 SPECIES
-=======
+# Pithomyces terricola (Manohar. & P.Rama Rao) P.M. Kirk, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 41(19): 718 (1972)
+Trans. Br. mycol. Soc. 80(3): 462 (1983)
 
 #### Original name
 Stemphyliomma terricola Manohar. & P.Rama Rao, 1972

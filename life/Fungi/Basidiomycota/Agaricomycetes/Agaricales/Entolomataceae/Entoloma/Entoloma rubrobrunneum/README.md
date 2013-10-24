@@ -1,5 +1,4 @@
-Entoloma rubrobrunneum Murrill SPECIES
-=======
+# Entoloma rubrobrunneum Murrill SPECIES
 
 #### Status
 ACCEPTED

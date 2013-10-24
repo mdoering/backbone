@@ -1,5 +1,4 @@
-Puccinia diantherae Syd. SPECIES
-=======
+# Puccinia diantherae Syd. SPECIES
 
 #### Status
 ACCEPTED

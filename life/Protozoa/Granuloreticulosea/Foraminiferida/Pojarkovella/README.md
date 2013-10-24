@@ -1,5 +1,4 @@
-Pojarkovella GENUS
-=======
+# Pojarkovella GENUS
 
 #### Status
 ACCEPTED

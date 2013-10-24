@@ -1,5 +1,4 @@
-Myrioconium comitatum Davis SPECIES
-=======
+# Myrioconium comitatum Davis SPECIES
 
 #### Status
 ACCEPTED

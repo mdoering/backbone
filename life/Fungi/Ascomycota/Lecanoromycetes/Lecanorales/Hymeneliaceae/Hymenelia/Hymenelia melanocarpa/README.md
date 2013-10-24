@@ -1,17 +1,16 @@
-Ionaspis melanocarpa var. melanocarpa VARIETY
-=======
+# Hymenelia melanocarpa (Kremp.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 52: 255 (1869)
 
 #### Original name
-Ionaspis melanocarpa var. melanocarpa
+Hymenelia prevostii var. melanocarpa Kremp.
 
 ### Remarks
 null

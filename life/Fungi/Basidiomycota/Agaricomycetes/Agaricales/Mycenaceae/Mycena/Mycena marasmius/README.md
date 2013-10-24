@@ -1,5 +1,4 @@
-Mycena marasmius (Murrill) Murrill SPECIES
-=======
+# Mycena marasmius (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

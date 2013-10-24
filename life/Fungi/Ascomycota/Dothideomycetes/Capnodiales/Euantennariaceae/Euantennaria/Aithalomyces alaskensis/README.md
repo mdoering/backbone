@@ -1,5 +1,4 @@
-Aithalomyces alaskensis (Sacc. & Scalia) M.E. Barr SPECIES
-=======
+# Aithalomyces alaskensis (Sacc. & Scalia) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

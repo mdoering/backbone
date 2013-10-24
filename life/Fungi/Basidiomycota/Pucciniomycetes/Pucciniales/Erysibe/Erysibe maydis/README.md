@@ -1,5 +1,4 @@
-Erysibe maydis Wallr. SPECIES
-=======
+# Erysibe maydis Wallr. SPECIES
 
 #### Status
 ACCEPTED

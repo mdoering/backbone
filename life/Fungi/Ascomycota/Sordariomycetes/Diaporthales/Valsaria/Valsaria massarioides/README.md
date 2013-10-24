@@ -1,5 +1,4 @@
-Valsaria massarioides Penz. & Sacc. SPECIES
-=======
+# Valsaria massarioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

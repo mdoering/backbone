@@ -1,5 +1,4 @@
-Peziza exogelatinosa K. Hansen & Sandal SPECIES
-=======
+# Peziza exogelatinosa K. Hansen & Sandal SPECIES
 
 #### Status
 ACCEPTED

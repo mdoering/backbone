@@ -1,17 +1,16 @@
-Lecanora mauroides P. James, D. Hawksw. & F. Rose SPECIES
-=======
+# Clauzadeana macula (Taylor) Coppins & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rambold, Biblthca Lichenol. 34: 85 (1989)
 
 #### Original name
-Lecanora mauroides P. James, D. Hawksw. & F. Rose
+Lecidea macula Taylor
 
 ### Remarks
 null

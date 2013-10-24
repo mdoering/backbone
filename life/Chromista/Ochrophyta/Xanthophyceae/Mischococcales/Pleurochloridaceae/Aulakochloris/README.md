@@ -1,5 +1,4 @@
-Aulakochloris Pascher, 1930 GENUS
-=======
+# Aulakochloris Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

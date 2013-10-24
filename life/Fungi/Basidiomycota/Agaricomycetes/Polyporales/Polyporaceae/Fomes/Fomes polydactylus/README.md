@@ -1,5 +1,4 @@
-Fomes polydactylus (Berk.) Sacc. SPECIES
-=======
+# Fomes polydactylus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

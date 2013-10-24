@@ -1,5 +1,4 @@
-Pertusaria subrosacea SPECIES
-=======
+# Pertusaria subrosacea SPECIES
 
 #### Status
 ACCEPTED

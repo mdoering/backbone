@@ -1,14 +1,13 @@
-Septoria alismatis Oudem., 1873 SPECIES
-=======
+# Plectosporium alismatis (Oudem.) W.M. Pitt, W. Gams & U. Braun, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Néerlandaises des Sc. exacts et nat. 8: 343-416 (1873)
+in Pitt, Goodwin, Ash, Cother & Cother, Mycol. Res. 108(7): 779 (2004)
 
 #### Original name
 Septoria alismatis Oudem., 1873

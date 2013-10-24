@@ -1,5 +1,4 @@
-Stilbella pseudomortierella Danysz & Wize SPECIES
-=======
+# Stilbella pseudomortierella Danysz & Wize SPECIES
 
 #### Status
 ACCEPTED

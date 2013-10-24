@@ -1,5 +1,4 @@
-Stegonsporium castaneae Lib. SPECIES
-=======
+# Stegonsporium castaneae Lib. SPECIES
 
 #### Status
 ACCEPTED

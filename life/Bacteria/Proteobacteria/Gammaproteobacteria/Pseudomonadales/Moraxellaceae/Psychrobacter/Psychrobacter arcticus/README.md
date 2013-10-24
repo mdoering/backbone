@@ -1,5 +1,4 @@
-Psychrobacter arcticus Bakermans et al., 2006 SPECIES
-=======
+# Psychrobacter arcticus Bakermans et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

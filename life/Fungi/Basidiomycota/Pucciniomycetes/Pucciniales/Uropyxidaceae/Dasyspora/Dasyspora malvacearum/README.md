@@ -1,5 +1,4 @@
-Dasyspora malvacearum Arthur SPECIES
-=======
+# Dasyspora malvacearum Arthur SPECIES
 
 #### Status
 ACCEPTED

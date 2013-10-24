@@ -1,5 +1,4 @@
-Acremonium tougae W. Gams SPECIES
-=======
+# Acremonium tougae W. Gams SPECIES
 
 #### Status
 ACCEPTED

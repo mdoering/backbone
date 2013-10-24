@@ -1,5 +1,4 @@
-Sigridea Tehler GENUS
-=======
+# Sigridea Tehler GENUS
 
 #### Status
 ACCEPTED

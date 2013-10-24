@@ -1,5 +1,4 @@
-Phoma everniae D. Hawksw., 1994 SPECIES
-=======
+# Phoma everniae D. Hawksw., 1994 SPECIES
 
 #### Status
 ACCEPTED

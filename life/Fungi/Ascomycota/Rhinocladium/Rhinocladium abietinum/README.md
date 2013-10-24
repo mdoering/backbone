@@ -1,14 +1,13 @@
-Rhinocladium abietina (Peck) Furlan. & Dianese SPECIES
-=======
+# Rhinocladium abietinum (Peck) Furlan. & Dianese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 100(2): 244 (1996)
 
 #### Original name
 Streptothrix abietina Peck

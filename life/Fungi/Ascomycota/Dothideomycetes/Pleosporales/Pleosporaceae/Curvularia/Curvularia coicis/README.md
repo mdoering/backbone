@@ -1,14 +1,13 @@
-Curvularia matsushimae Tsuda, 2003 SPECIES
-=======
+# Curvularia coicis Matsush., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hosokawa, Tanaka & Tsuda, Mycoscience 44(3): 236 (2003)
+Nuovo Giorn. Bot. Ital. 62(3-4): 555 (1956)
 
 #### Original name
 Curvularia coicis Matsush., 1975

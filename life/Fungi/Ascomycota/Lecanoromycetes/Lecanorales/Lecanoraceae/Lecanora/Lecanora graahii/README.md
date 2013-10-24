@@ -1,5 +1,4 @@
-Lecanora graahii Lynge SPECIES
-=======
+# Lecanora graahii Lynge SPECIES
 
 #### Status
 ACCEPTED

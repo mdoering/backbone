@@ -1,5 +1,4 @@
-Rostrella rutae Fabre SPECIES
-=======
+# Rostrella rutae Fabre SPECIES
 
 #### Status
 ACCEPTED

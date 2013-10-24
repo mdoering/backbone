@@ -1,17 +1,16 @@
-Pseudocercospora meyna-laxiflorae Kamal, C. Gupta & A.N. Rai SPECIES
-=======
+# Pseudocercospora meynae-laxiflorae Kamal, C. Gupta & A.N. Rai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 38(4): 704 (1986)
 
 #### Original name
-Pseudocercospora meyna-laxiflorae Kamal, C. Gupta & A.N. Rai
+Pseudocercospora meynae-laxiflorae Kamal, C. Gupta & A.N. Rai
 
 ### Remarks
 null

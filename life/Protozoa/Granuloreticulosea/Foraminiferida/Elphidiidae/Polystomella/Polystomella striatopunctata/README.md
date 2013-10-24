@@ -1,5 +1,4 @@
-Polystomella striatopunctata SPECIES
-=======
+# Polystomella striatopunctata SPECIES
 
 #### Status
 ACCEPTED

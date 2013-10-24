@@ -1,8 +1,7 @@
-Amorphosporangium auranticolor Couch, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes auranticolor (Couch, 1963) Stackebrandt & Kroppenstedt, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

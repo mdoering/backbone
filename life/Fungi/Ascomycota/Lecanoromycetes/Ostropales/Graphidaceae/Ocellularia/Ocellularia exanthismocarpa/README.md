@@ -1,5 +1,4 @@
-Ocellularia exanthismocarpa (Leight.) Zahlbr. SPECIES
-=======
+# Ocellularia exanthismocarpa (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

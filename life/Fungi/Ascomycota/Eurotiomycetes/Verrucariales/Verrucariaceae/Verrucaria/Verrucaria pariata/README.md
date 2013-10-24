@@ -1,5 +1,4 @@
-Verrucaria pariata Nyl. SPECIES
-=======
+# Verrucaria pariata Nyl. SPECIES
 
 #### Status
 ACCEPTED

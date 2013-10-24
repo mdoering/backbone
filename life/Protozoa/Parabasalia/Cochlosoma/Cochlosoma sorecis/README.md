@@ -1,5 +1,4 @@
-Cochlosoma sorecis R.A. Watkins, W.D. O'Dell, & A.J. Pinter SPECIES
-=======
+# Cochlosoma sorecis R.A. Watkins, W.D. O'Dell, & A.J. Pinter SPECIES
 
 #### Status
 ACCEPTED

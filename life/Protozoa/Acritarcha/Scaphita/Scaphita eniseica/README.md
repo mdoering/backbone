@@ -1,5 +1,4 @@
-Scaphita eniseica Timofeev in Timofeev et al., 1976 SPECIES
-=======
+# Scaphita eniseica Timofeev in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

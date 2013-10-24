@@ -1,5 +1,4 @@
-Dendrosarcus pulvinatus (Pers.) Kuntze SPECIES
-=======
+# Dendrosarcus pulvinatus (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

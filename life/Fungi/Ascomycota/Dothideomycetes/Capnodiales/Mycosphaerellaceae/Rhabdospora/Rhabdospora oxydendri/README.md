@@ -1,5 +1,4 @@
-Rhabdospora oxydendri (Ellis & Everh.) Sherb. SPECIES
-=======
+# Rhabdospora oxydendri (Ellis & Everh.) Sherb. SPECIES
 
 #### Status
 ACCEPTED

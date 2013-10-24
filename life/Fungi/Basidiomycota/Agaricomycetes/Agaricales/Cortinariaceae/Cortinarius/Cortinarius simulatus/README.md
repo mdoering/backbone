@@ -1,5 +1,4 @@
-Cortinarius simulatus P.D. Orton, 1958 SPECIES
-=======
+# Cortinarius simulatus P.D. Orton, 1958 SPECIES
 
 #### Status
 ACCEPTED

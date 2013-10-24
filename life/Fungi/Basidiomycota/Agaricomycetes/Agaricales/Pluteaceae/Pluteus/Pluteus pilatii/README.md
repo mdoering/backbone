@@ -1,5 +1,4 @@
-Pluteus pilatii Velen. SPECIES
-=======
+# Pluteus pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

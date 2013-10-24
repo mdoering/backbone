@@ -1,5 +1,4 @@
-Tranzschelia pulsatillae (Rostr.) Dietel SPECIES
-=======
+# Tranzschelia pulsatillae (Rostr.) Dietel SPECIES
 
 #### Status
 ACCEPTED

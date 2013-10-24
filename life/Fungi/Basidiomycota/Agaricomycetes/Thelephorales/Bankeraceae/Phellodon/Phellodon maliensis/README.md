@@ -1,17 +1,16 @@
-Hydnum maliensis Lloyd SPECIES
-=======
+# Phellodon maliensis (Lloyd) Maas Geest., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 69: 34 (1966)
 
 #### Original name
-Hydnum maliensis Lloyd
+Hydnum maliense Lloyd, 1920
 
 ### Remarks
 null

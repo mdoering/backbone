@@ -1,5 +1,4 @@
-Asterina calotheca Pat. SPECIES
-=======
+# Asterina calotheca Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnangium vesiculosum (Coker & Couch) Zeller SPECIES
-=======
+# Hydnangium vesiculosum (Coker & Couch) Zeller SPECIES
 
 #### Status
 ACCEPTED

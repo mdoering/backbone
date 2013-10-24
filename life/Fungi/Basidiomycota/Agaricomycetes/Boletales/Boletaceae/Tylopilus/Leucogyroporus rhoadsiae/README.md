@@ -1,5 +1,4 @@
-Leucogyroporus rhoadsiae (Murrill) Snell SPECIES
-=======
+# Leucogyroporus rhoadsiae (Murrill) Snell SPECIES
 
 #### Status
 ACCEPTED

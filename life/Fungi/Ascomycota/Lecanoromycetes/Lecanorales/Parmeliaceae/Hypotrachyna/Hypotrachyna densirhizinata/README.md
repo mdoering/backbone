@@ -1,17 +1,16 @@
-Parmelia densirhizinata Kurok. SPECIES
-=======
+# Hypotrachyna densirhizinata (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 31 (1975)
 
 #### Original name
-null
+Parmelia densirhizinata Kurok.
 
 ### Remarks
 null

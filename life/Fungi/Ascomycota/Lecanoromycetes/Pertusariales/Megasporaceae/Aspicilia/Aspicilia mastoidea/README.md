@@ -1,5 +1,4 @@
-Aspicilia mastoidea (Lynge) Creveld SPECIES
-=======
+# Aspicilia mastoidea (Lynge) Creveld SPECIES
 
 #### Status
 ACCEPTED

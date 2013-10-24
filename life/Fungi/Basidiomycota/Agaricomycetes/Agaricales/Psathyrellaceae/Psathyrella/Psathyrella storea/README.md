@@ -1,5 +1,4 @@
-Psathyrella storea (Fr.) Romagn. SPECIES
-=======
+# Psathyrella storea (Fr.) Romagn. SPECIES
 
 #### Status
 ACCEPTED

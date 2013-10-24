@@ -1,5 +1,4 @@
-Desulfovibrio salexigens Postgate and Campbell, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Desulfovibrio salexigens Postgate and Campbell, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

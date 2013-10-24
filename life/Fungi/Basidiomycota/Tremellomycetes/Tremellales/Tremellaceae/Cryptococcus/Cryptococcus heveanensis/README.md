@@ -1,5 +1,4 @@
-Cryptococcus heveanensis (Groen.) Baptist & Kurtzman, 1977 SPECIES
-=======
+# Cryptococcus heveanensis (Groen.) Baptist & Kurtzman, 1977 SPECIES
 
 #### Status
 ACCEPTED

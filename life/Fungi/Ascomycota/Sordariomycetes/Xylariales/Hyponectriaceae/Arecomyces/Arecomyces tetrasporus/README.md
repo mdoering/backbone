@@ -1,5 +1,4 @@
-Arecomyces tetrasporus K.D. Hyde SPECIES
-=======
+# Arecomyces tetrasporus K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pelobacter carbinolicus Schink, 1984 SPECIES
-=======
+# Pelobacter carbinolicus Schink, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodiplodia ligniaria SPECIES
-=======
+# Pseudodiplodia ligniaria SPECIES
 
 #### Status
 ACCEPTED

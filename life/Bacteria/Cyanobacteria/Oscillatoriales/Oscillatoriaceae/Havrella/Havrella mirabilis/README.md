@@ -1,5 +1,4 @@
-Havrella mirabilis (Cohn) SPECIES
-=======
+# Havrella mirabilis (Cohn) SPECIES
 
 #### Status
 ACCEPTED

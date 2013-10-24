@@ -1,5 +1,4 @@
-Tricholoma argenteum Ovrebo SPECIES
-=======
+# Tricholoma argenteum Ovrebo SPECIES
 
 #### Status
 ACCEPTED

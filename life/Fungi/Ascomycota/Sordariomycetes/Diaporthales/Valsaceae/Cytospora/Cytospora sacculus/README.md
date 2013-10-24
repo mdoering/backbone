@@ -1,5 +1,4 @@
-Cytospora sacculus (Schwein.) Gvrit. SPECIES
-=======
+# Cytospora sacculus (Schwein.) Gvrit. SPECIES
 
 #### Status
 ACCEPTED

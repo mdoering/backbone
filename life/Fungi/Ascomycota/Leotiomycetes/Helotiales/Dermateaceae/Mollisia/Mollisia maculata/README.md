@@ -1,5 +1,4 @@
-Mollisia maculata Graddon SPECIES
-=======
+# Mollisia maculata Graddon SPECIES
 
 #### Status
 ACCEPTED

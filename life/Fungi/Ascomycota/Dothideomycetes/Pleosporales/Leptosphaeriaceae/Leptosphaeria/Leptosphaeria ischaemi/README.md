@@ -1,5 +1,4 @@
-Leptosphaeria ischaemi Pass. SPECIES
-=======
+# Leptosphaeria ischaemi Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina cannabicola Petr. SPECIES
-=======
+# Diplodina cannabicola Petr. SPECIES
 
 #### Status
 ACCEPTED

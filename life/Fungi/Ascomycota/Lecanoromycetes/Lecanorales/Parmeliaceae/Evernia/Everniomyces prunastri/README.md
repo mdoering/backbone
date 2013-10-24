@@ -1,5 +1,4 @@
-Everniomyces prunastri Cif. & Tomas. SPECIES
-=======
+# Everniomyces prunastri Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

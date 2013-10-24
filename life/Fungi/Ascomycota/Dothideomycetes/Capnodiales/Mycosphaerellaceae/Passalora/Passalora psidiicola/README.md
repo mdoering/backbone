@@ -1,5 +1,4 @@
-Passalora psidiicola Crous & U. Braun SPECIES
-=======
+# Passalora psidiicola Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

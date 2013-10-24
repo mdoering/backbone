@@ -1,5 +1,4 @@
-Hypoxylina peltata Lloyd SPECIES
-=======
+# Hypoxylina peltata Lloyd SPECIES
 
 #### Status
 ACCEPTED

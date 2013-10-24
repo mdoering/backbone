@@ -1,5 +1,4 @@
-Russula nigrodisca Peck SPECIES
-=======
+# Russula nigrodisca Peck SPECIES
 
 #### Status
 ACCEPTED

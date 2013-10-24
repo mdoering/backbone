@@ -1,5 +1,4 @@
-Sphaeronaema ferox De Not. SPECIES
-=======
+# Sphaeronaema ferox De Not. SPECIES
 
 #### Status
 ACCEPTED

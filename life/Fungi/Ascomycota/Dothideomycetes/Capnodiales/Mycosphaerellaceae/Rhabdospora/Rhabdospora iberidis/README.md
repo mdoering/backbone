@@ -1,5 +1,4 @@
-Rhabdospora iberidis Gonz. Frag. SPECIES
-=======
+# Rhabdospora iberidis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina elongata (Vain.) Zahlbr. SPECIES
-=======
+# Graphina elongata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

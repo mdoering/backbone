@@ -1,17 +1,16 @@
-Uredo phyllanthi-reticulatae Petch SPECIES
-=======
+# Uredo phyllanthi-reticulati Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 7(1): 295 (1922)
 
 #### Original name
-Uredo phyllanthi-reticulatae Petch
+Uredo phyllanthi-reticulati Petch
 
 ### Remarks
 null

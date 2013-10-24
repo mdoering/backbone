@@ -1,5 +1,4 @@
-Uromyces phaseolicola Speg. SPECIES
-=======
+# Uromyces phaseolicola Speg. SPECIES
 
 #### Status
 ACCEPTED

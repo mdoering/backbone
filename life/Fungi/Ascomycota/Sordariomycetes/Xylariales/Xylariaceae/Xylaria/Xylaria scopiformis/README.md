@@ -1,5 +1,4 @@
-Xylaria scopiformis Mont. SPECIES
-=======
+# Xylaria scopiformis Mont. SPECIES
 
 #### Status
 ACCEPTED

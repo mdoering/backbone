@@ -1,5 +1,4 @@
-Pannaria caeruleobadia (Lam.) SPECIES
-=======
+# Pannaria caeruleobadia (Lam.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella chaubattiensis S.K. Bose & A.J. Roy SPECIES
-=======
+# Mycosphaerella chaubattiensis S.K. Bose & A.J. Roy SPECIES
 
 #### Status
 ACCEPTED

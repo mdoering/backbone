@@ -1,5 +1,4 @@
-Phoma cyperi R.K. Upadhyay, Strobel & W.M. Hess SPECIES
-=======
+# Phoma cyperi R.K. Upadhyay, Strobel & W.M. Hess SPECIES
 
 #### Status
 ACCEPTED

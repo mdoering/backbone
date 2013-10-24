@@ -1,5 +1,4 @@
-Mycosphaerella consociata (Rehm) Magnus SPECIES
-=======
+# Mycosphaerella consociata (Rehm) Magnus SPECIES
 
 #### Status
 ACCEPTED

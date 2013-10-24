@@ -1,5 +1,4 @@
-Candida silvae Vidal-Leir. & Uden, 1963 SPECIES
-=======
+# Candida silvae Vidal-Leir. & Uden, 1963 SPECIES
 
 #### Status
 ACCEPTED

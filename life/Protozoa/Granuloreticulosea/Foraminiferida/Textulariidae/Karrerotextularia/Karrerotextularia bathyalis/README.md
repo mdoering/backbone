@@ -1,5 +1,4 @@
-Karrerotextularia bathyalis Zheng & Fu, 2001 SPECIES
-=======
+# Karrerotextularia bathyalis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

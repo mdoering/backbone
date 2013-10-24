@@ -1,5 +1,4 @@
-Pyrenula fissa H. Magn. SPECIES
-=======
+# Pyrenula fissa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

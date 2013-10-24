@@ -1,17 +1,16 @@
-Stenella doliiformia Matsush. SPECIES
-=======
+# Stenella doliiformis Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. , no. 3 3: 17 (1983)
 
 #### Original name
-Stenella doliiformia Matsush.
+Stenella doliiformis Matsush.
 
 ### Remarks
 null

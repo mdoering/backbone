@@ -1,17 +1,16 @@
-Phellinus bibulosus (Lloyd) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Phylloporia bibulosa (Lloyd) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
-null
+Polyporus bibulosus Lloyd, 1924
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myxosporium coloratum (Peck) Sacc. SPECIES
-=======
+# Myxosporium coloratum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

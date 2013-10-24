@@ -1,14 +1,13 @@
-Podoscypha lutea Pat., 1927 SPECIES
-=======
+# Pseudocraterellus luteus (Pat.) D.A. Reid, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 43: 24 (1927)
+Persoonia 2(2): 120 (1962)
 
 #### Original name
 Podoscypha lutea Pat., 1927

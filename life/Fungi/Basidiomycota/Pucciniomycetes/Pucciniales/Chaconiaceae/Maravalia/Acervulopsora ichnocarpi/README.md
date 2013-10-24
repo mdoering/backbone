@@ -1,5 +1,4 @@
-Acervulopsora ichnocarpi Thirum. SPECIES
-=======
+# Acervulopsora ichnocarpi Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discochora yuccae Bissett, 1986 SPECIES
-=======
+# Discochora yuccae Bissett, 1986 SPECIES
 
 #### Status
 ACCEPTED

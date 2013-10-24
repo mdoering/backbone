@@ -1,5 +1,4 @@
-Omphalopsis clavata (Peck) Murrill SPECIES
-=======
+# Omphalopsis clavata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

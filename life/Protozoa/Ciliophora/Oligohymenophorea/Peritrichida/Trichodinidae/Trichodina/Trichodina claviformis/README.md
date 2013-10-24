@@ -1,5 +1,4 @@
-Trichodina claviformis Dobberstein & Palm, 2000 SPECIES
-=======
+# Trichodina claviformis Dobberstein & Palm, 2000 SPECIES
 
 #### Status
 ACCEPTED

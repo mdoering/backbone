@@ -1,8 +1,7 @@
-Laminaria purpurascens C. Agardh SPECIES
-=======
+# Phyllariopsis purpurascens (C. Agardh) E.C.Henry & G.R. South SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

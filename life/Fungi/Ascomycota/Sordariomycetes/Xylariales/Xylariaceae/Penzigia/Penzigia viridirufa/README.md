@@ -1,5 +1,4 @@
-Penzigia viridirufa (Berk. & Ravenel) J.H. Mill. SPECIES
-=======
+# Penzigia viridirufa (Berk. & Ravenel) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

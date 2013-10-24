@@ -1,5 +1,4 @@
-Lagena inusitata SPECIES
-=======
+# Lagena inusitata SPECIES
 
 #### Status
 ACCEPTED

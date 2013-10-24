@@ -1,5 +1,4 @@
-Syracolithus scutatus (J. Lecal-Schlauder) J. Lecal SPECIES
-=======
+# Syracolithus scutatus (J. Lecal-Schlauder) J. Lecal SPECIES
 
 #### Status
 ACCEPTED

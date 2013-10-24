@@ -1,5 +1,4 @@
-Fulvifomes juniperinus Murrill SPECIES
-=======
+# Fulvifomes juniperinus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thalloidima squalescens (Nyl.) SPECIES
-=======
+# Toninia squalescens (Nyl.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 340 (1874)
 
 #### Original name
 Lecidea squalescens Nyl.

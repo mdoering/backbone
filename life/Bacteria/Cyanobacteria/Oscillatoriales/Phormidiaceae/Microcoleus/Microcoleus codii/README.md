@@ -1,5 +1,4 @@
-Microcoleus codii Frémy SPECIES
-=======
+# Microcoleus codii Frémy SPECIES
 
 #### Status
 ACCEPTED

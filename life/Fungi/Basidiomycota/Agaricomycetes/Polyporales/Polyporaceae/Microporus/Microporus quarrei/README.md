@@ -1,14 +1,13 @@
-Polyporus quarrei Beeli, 1922 SPECIES
-=======
+# Microporus quarrei (Beeli) D.A. Reid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Jardin Botanique de l'État, Bruxelles 8: 250 (1922)
+Microscopy 32: 453 (1975)
 
 #### Original name
 Polyporus quarrei Beeli, 1922

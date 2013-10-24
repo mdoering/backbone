@@ -1,5 +1,4 @@
-Guttulina costulata Cushman & Ozawa SPECIES
-=======
+# Guttulina costulata Cushman & Ozawa SPECIES
 
 #### Status
 ACCEPTED

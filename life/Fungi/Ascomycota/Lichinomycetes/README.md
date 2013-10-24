@@ -1,5 +1,4 @@
-Lichinomycetes Reeb, Lutzoni & Cl. Roux CLASS
-=======
+# Lichinomycetes Reeb, Lutzoni & Cl. Roux CLASS
 
 #### Status
 ACCEPTED

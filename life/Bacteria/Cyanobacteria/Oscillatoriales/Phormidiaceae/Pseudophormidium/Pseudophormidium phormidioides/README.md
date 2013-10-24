@@ -1,8 +1,7 @@
-Plectonema phormidioides Hansgirg ex Forti SPECIES
-=======
+# Pseudophormidium phormidioides (Hansgirg ex Forti) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

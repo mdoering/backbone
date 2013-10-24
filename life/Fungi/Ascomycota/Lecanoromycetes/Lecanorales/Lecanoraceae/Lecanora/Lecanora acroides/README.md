@@ -1,5 +1,4 @@
-Lecanora acroides SPECIES
-=======
+# Lecanora acroides SPECIES
 
 #### Status
 ACCEPTED

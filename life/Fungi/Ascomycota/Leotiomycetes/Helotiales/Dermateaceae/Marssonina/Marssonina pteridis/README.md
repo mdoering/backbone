@@ -1,5 +1,4 @@
-Marssonina pteridis Naumov SPECIES
-=======
+# Marssonina pteridis Naumov SPECIES
 
 #### Status
 ACCEPTED

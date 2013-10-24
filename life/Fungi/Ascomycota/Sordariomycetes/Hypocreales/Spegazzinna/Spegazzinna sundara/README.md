@@ -1,5 +1,4 @@
-Spegazzinna sundara Subramanian SPECIES
-=======
+# Spegazzinna sundara Subramanian SPECIES
 
 #### Status
 ACCEPTED

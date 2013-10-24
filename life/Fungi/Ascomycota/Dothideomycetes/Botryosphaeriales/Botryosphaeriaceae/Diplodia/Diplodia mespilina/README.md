@@ -1,5 +1,4 @@
-Diplodia mespilina Gaja SPECIES
-=======
+# Diplodia mespilina Gaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dissoconium aciculare de Hoog, Oorschot & Hijwegen, 1983 SPECIES
-=======
+# Dissoconium aciculare de Hoog, Oorschot & Hijwegen, 1983 SPECIES
 
 #### Status
 ACCEPTED

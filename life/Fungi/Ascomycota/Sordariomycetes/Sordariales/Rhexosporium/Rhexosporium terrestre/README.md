@@ -1,5 +1,4 @@
-Rhexosporium terrestre Udagawa & Furuya, 1977 SPECIES
-=======
+# Rhexosporium terrestre Udagawa & Furuya, 1977 SPECIES
 
 #### Status
 ACCEPTED

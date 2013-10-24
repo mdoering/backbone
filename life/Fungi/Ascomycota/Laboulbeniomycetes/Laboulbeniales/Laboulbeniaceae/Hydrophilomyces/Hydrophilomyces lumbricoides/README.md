@@ -1,5 +1,4 @@
-Hydrophilomyces lumbricoides (Speg.) I.I. Tav. SPECIES
-=======
+# Hydrophilomyces lumbricoides (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

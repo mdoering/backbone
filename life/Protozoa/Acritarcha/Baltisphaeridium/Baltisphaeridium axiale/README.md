@@ -1,5 +1,4 @@
-Baltisphaeridium axiale W. Wetzel, 1967 SPECIES
-=======
+# Baltisphaeridium axiale W. Wetzel, 1967 SPECIES
 
 #### Status
 ACCEPTED

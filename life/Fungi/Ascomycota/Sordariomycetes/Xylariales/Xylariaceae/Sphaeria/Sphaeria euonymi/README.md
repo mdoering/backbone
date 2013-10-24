@@ -1,5 +1,4 @@
-Sphaeria euonymi Kunze ex Fr. SPECIES
-=======
+# Sphaeria euonymi Kunze ex Fr. SPECIES
 
 #### Status
 ACCEPTED

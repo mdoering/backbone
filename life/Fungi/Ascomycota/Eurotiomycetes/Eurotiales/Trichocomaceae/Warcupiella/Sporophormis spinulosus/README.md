@@ -1,5 +1,4 @@
-Sporophormis spinulosus Malloch & Cain SPECIES
-=======
+# Sporophormis spinulosus Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

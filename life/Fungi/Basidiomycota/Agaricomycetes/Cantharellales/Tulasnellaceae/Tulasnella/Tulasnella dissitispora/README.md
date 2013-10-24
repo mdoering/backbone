@@ -1,5 +1,4 @@
-Tulasnella dissitispora P. Roberts, 1994 SPECIES
-=======
+# Tulasnella dissitispora P. Roberts, 1994 SPECIES
 
 #### Status
 ACCEPTED

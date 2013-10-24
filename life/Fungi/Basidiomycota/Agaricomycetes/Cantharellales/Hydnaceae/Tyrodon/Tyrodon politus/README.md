@@ -1,5 +1,4 @@
-Tyrodon politus (Fr.) P. Karst. SPECIES
-=======
+# Tyrodon politus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

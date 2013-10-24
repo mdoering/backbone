@@ -1,5 +1,4 @@
-Placopsis stellata (Øvstedal) Henssen SPECIES
-=======
+# Placopsis stellata (Øvstedal) Henssen SPECIES
 
 #### Status
 ACCEPTED

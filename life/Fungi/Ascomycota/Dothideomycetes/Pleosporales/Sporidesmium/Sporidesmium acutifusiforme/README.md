@@ -1,5 +1,4 @@
-Sporidesmium acutifusiforme Matsush. SPECIES
-=======
+# Sporidesmium acutifusiforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

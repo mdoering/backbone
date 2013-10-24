@@ -1,5 +1,4 @@
-Myceliophthora fusca Doyer SPECIES
-=======
+# Myceliophthora fusca Doyer SPECIES
 
 #### Status
 ACCEPTED

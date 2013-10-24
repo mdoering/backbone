@@ -1,5 +1,4 @@
-Lecanora hultingii H. Magn. SPECIES
-=======
+# Lecanora hultingii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

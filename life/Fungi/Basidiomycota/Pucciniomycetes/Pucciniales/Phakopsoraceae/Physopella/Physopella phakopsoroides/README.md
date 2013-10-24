@@ -1,5 +1,4 @@
-Physopella phakopsoroides (Arthur & Mains) Cummins & Ramachar SPECIES
-=======
+# Physopella phakopsoroides (Arthur & Mains) Cummins & Ramachar SPECIES
 
 #### Status
 ACCEPTED

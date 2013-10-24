@@ -1,5 +1,4 @@
-Puccinia antoniana Unamuno SPECIES
-=======
+# Puccinia antoniana Unamuno SPECIES
 
 #### Status
 ACCEPTED

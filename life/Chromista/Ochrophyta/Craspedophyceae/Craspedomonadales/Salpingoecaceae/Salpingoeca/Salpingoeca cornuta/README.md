@@ -1,5 +1,4 @@
-Salpingoeca cornuta Kent, 1880 SPECIES
-=======
+# Salpingoeca cornuta Kent, 1880 SPECIES
 
 #### Status
 ACCEPTED

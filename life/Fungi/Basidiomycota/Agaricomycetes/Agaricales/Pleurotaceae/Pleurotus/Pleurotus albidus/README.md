@@ -1,17 +1,16 @@
-Agaricus jacksoni Berk. & Cooke SPECIES
-=======
+# Pleurotus albidus (Berk.) Pegler, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 10: 219 (1983)
 
 #### Original name
-Agaricus jacksoni Berk. & Cooke
+Lentinus albidus Berk., 1843
 
 ### Remarks
 null

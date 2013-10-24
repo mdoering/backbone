@@ -1,5 +1,4 @@
-Pezicula crataegi (Auersw.) Fuckel SPECIES
-=======
+# Pezicula crataegi (Auersw.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

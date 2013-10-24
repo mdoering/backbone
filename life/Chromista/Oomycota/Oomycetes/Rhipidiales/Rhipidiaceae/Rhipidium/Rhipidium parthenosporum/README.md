@@ -1,5 +1,4 @@
-Rhipidium parthenosporum Kanouse, 1927 SPECIES
-=======
+# Rhipidium parthenosporum Kanouse, 1927 SPECIES
 
 #### Status
 ACCEPTED

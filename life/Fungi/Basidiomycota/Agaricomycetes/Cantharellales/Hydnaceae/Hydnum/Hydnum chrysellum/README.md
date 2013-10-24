@@ -1,5 +1,4 @@
-Hydnum chrysellum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum chrysellum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

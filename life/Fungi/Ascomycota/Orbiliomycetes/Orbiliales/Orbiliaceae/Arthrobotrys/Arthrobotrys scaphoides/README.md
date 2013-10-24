@@ -1,5 +1,4 @@
-Arthrobotrys scaphoides (Peach) S. Schenck, W.B. Kendr. & Pramer, 1977 SPECIES
-=======
+# Arthrobotrys scaphoides (Peach) S. Schenck, W.B. Kendr. & Pramer, 1977 SPECIES
 
 #### Status
 ACCEPTED

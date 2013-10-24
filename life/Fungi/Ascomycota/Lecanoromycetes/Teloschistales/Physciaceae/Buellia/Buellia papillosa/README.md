@@ -1,5 +1,4 @@
-Buellia papillosa Müll. Arg. SPECIES
-=======
+# Buellia papillosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

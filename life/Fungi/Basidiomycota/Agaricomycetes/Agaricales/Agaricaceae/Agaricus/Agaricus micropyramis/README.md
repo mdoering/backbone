@@ -1,5 +1,4 @@
-Agaricus micropyramis Berk. & Broome SPECIES
-=======
+# Agaricus micropyramis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

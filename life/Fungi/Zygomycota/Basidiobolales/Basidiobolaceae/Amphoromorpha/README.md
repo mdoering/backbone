@@ -1,5 +1,4 @@
-Amphoromorpha GENUS
-=======
+# Amphoromorpha GENUS
 
 #### Status
 ACCEPTED

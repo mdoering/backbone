@@ -1,5 +1,4 @@
-Wynnea intermedia Waraitch SPECIES
-=======
+# Wynnea intermedia Waraitch SPECIES
 
 #### Status
 ACCEPTED

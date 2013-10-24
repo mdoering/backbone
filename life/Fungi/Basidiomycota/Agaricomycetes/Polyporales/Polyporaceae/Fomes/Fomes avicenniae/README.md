@@ -1,5 +1,4 @@
-Fomes avicenniae Bacc. SPECIES
-=======
+# Fomes avicenniae Bacc. SPECIES
 
 #### Status
 ACCEPTED

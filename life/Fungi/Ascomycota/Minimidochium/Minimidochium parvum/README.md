@@ -1,5 +1,4 @@
-Minimidochium parvum Cabello, Aramb. & Cazau SPECIES
-=======
+# Minimidochium parvum Cabello, Aramb. & Cazau SPECIES
 
 #### Status
 ACCEPTED

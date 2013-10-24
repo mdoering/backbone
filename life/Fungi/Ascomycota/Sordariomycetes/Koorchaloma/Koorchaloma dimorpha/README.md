@@ -1,5 +1,4 @@
-Koorchaloma dimorpha Matsush. SPECIES
-=======
+# Koorchaloma dimorpha Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meristosporum sanguinarium SPECIES
-=======
+# Meristosporum sanguinarium SPECIES
 
 #### Status
 ACCEPTED

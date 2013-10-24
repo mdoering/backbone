@@ -1,5 +1,4 @@
-Discosphaera Haeckel, 1894 GENUS
-=======
+# Discosphaera Haeckel, 1894 GENUS
 
 #### Status
 ACCEPTED

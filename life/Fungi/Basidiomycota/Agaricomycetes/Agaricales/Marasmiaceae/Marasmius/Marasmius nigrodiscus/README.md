@@ -1,5 +1,4 @@
-Marasmius nigrodiscus (Peck) Halling SPECIES
-=======
+# Marasmius nigrodiscus (Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

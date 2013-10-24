@@ -1,5 +1,4 @@
-Mucoralites Patel GENUS
-=======
+# Mucoralites Patel GENUS
 
 #### Status
 ACCEPTED

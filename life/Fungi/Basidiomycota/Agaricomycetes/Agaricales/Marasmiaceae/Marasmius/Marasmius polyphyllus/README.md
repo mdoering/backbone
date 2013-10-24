@@ -1,5 +1,4 @@
-Marasmius polyphyllus Peck SPECIES
-=======
+# Marasmius polyphyllus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia albocrustata (Schwein.) Sacc. SPECIES
-=======
+# Laestadia albocrustata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

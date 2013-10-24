@@ -1,5 +1,4 @@
-Hispidula rubra P.R. Johnst., 2003 SPECIES
-=======
+# Hispidula rubra P.R. Johnst., 2003 SPECIES
 
 #### Status
 ACCEPTED

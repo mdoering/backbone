@@ -1,5 +1,4 @@
-Strigula radiata Lücking SPECIES
-=======
+# Strigula radiata Lücking SPECIES
 
 #### Status
 ACCEPTED

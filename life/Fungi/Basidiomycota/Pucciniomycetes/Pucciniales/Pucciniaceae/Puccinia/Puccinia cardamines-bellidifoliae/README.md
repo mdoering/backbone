@@ -1,5 +1,4 @@
-Puccinia cardamines-bellidifoliae Dietel SPECIES
-=======
+# Puccinia cardamines-bellidifoliae Dietel SPECIES
 
 #### Status
 ACCEPTED

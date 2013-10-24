@@ -1,5 +1,4 @@
-Ciboria calyculus (Batsch) Hengstm. SPECIES
-=======
+# Ciboria calyculus (Batsch) Hengstm. SPECIES
 
 #### Status
 ACCEPTED

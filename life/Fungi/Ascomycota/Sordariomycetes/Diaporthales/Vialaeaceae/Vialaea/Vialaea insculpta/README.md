@@ -1,14 +1,13 @@
-Boydia insculpta f. insculpta (Fr.) Grove, 1921 FORM
-=======
+# Vialaea insculpta (Fr.) Sacc., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 59: 13 (1921)
+Bull. Soc. mycol. Fr. 12: 66 (1896)
 
 #### Original name
 Sphaeria insculpta Fr., 1828

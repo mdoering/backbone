@@ -1,5 +1,4 @@
-Verrucaria nigrescentoidea Fink ex J. Hedrick SPECIES
-=======
+# Verrucaria nigrescentoidea Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

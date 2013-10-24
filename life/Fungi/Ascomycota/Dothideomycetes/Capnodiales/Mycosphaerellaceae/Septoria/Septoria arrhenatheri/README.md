@@ -1,5 +1,4 @@
-Septoria arrhenatheri Frandsen SPECIES
-=======
+# Septoria arrhenatheri Frandsen SPECIES
 
 #### Status
 ACCEPTED

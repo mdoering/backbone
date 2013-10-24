@@ -1,5 +1,4 @@
-Campanularius pumilus Murrill SPECIES
-=======
+# Campanularius pumilus Murrill SPECIES
 
 #### Status
 ACCEPTED

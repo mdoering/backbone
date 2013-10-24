@@ -1,5 +1,4 @@
-Aecidium bermudianum Farl. SPECIES
-=======
+# Aecidium bermudianum Farl. SPECIES
 
 #### Status
 ACCEPTED

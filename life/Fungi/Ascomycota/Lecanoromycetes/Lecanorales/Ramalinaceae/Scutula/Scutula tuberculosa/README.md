@@ -1,5 +1,4 @@
-Scutula tuberculosa (Th. Fr.) Rehm SPECIES
-=======
+# Scutula tuberculosa (Th. Fr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

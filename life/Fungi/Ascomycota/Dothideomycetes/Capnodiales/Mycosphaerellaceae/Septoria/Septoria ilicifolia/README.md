@@ -1,5 +1,4 @@
-Septoria ilicifolia Cooke & Ellis SPECIES
-=======
+# Septoria ilicifolia Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

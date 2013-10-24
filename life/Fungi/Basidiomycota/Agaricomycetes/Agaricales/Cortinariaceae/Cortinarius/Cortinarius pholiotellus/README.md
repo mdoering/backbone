@@ -1,5 +1,4 @@
-Cortinarius pholiotellus Soop, 1998 SPECIES
-=======
+# Cortinarius pholiotellus Soop, 1998 SPECIES
 
 #### Status
 ACCEPTED

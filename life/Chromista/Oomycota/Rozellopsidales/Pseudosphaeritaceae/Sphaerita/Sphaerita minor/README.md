@@ -1,5 +1,4 @@
-Sphaerita minor A.M. Cunha & Muniz, 1923 SPECIES
-=======
+# Sphaerita minor A.M. Cunha & Muniz, 1923 SPECIES
 
 #### Status
 ACCEPTED

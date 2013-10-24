@@ -1,5 +1,4 @@
-Diplomitella W. S. Kent, 1881 GENUS
-=======
+# Diplomitella W. S. Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

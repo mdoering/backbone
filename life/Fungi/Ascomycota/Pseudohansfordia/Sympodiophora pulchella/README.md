@@ -1,5 +1,4 @@
-Sympodiophora pulchella Deighton & Piroz. SPECIES
-=======
+# Sympodiophora pulchella Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyronectria indica A. Pande & V.G. Rao SPECIES
-=======
+# Thyronectria indica A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

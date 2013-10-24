@@ -1,17 +1,16 @@
-Alternaria enhydrae S.A. Khan & M. Kamal SPECIES
-=======
+# Alternaria enydrae S.A. Khan & M. Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 52(1): 30 (1974)
 
 #### Original name
-Alternaria enhydrae S.A. Khan & M. Kamal
+Alternaria enydrae S.A. Khan & M. Kamal
 
 ### Remarks
 null

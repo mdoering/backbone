@@ -1,5 +1,4 @@
-Inonotus kusanoi (Murrill) Teng SPECIES
-=======
+# Inonotus kusanoi (Murrill) Teng SPECIES
 
 #### Status
 ACCEPTED

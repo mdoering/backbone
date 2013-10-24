@@ -1,5 +1,4 @@
-Lichen tabularis Thunb. SPECIES
-=======
+# Lichen tabularis Thunb. SPECIES
 
 #### Status
 ACCEPTED

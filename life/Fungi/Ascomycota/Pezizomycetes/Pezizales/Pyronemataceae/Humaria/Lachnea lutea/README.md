@@ -1,5 +1,4 @@
-Lachnea lutea Moesz SPECIES
-=======
+# Lachnea lutea Moesz SPECIES
 
 #### Status
 ACCEPTED

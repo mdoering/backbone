@@ -1,5 +1,4 @@
-Tyromyces dianthicolor Corner SPECIES
-=======
+# Tyromyces dianthicolor Corner SPECIES
 
 #### Status
 ACCEPTED

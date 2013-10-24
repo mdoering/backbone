@@ -1,17 +1,16 @@
-Licea scyphoides var. reticulata T.N. Lakh., Nann.-Bremek. & R.K. Chopra VARIETY
-=======
+# Licea scyphoides T.E. Brooks & H.W. Keller, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 93(3): 261 (1990)
+in Keller & Brooks, Mycologia 69(4): 679 (1977)
 
 #### Original name
-Licea scyphoides var. reticulata T.N. Lakh., Nann.-Bremek. & R.K. Chopra
+Licea scyphoides T.E. Brooks & H.W. Keller, 1977
 
 ### Remarks
 null

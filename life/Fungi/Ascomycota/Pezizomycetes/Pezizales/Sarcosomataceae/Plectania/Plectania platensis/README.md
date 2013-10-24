@@ -1,14 +1,13 @@
-Urnula platensis Speg., 1898 SPECIES
-=======
+# Plectania platensis (Speg.) Rifai, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 2 6: 310-311 (1899)
+Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 57(3): 29 (1968)
 
 #### Original name
 Urnula platensis Speg., 1898

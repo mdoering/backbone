@@ -1,5 +1,4 @@
-Megalotremis nemorosa (R. C. Harris) Aptroot SPECIES
-=======
+# Megalotremis nemorosa (R. C. Harris) Aptroot SPECIES
 
 #### Status
 ACCEPTED

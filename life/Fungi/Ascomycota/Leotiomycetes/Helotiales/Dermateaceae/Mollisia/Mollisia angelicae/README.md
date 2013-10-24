@@ -1,5 +1,4 @@
-Mollisia angelicae Dearn. SPECIES
-=======
+# Mollisia angelicae Dearn. SPECIES
 
 #### Status
 ACCEPTED

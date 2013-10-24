@@ -1,5 +1,4 @@
-Mychostomina Berthelin, 1881 GENUS
-=======
+# Mychostomina Berthelin, 1881 GENUS
 
 #### Status
 ACCEPTED

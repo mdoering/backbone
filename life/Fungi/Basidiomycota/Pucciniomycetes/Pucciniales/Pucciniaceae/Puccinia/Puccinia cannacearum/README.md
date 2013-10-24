@@ -1,5 +1,4 @@
-Puccinia cannacearum Bagyan. & P. Ramesh SPECIES
-=======
+# Puccinia cannacearum Bagyan. & P. Ramesh SPECIES
 
 #### Status
 ACCEPTED

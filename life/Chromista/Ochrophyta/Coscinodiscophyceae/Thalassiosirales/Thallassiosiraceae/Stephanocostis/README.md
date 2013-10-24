@@ -1,5 +1,4 @@
-Stephanocostis Genkal & Kuzmina, 1985 GENUS
-=======
+# Stephanocostis Genkal & Kuzmina, 1985 GENUS
 
 #### Status
 ACCEPTED

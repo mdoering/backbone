@@ -1,5 +1,4 @@
-Buellia agaeleoides Müll. Arg. SPECIES
-=======
+# Buellia agaeleoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

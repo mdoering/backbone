@@ -1,5 +1,4 @@
-Desmotrichum simplex Lév. SPECIES
-=======
+# Desmotrichum simplex Lév. SPECIES
 
 #### Status
 ACCEPTED

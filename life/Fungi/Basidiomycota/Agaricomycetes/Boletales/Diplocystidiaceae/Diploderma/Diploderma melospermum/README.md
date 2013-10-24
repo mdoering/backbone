@@ -1,5 +1,4 @@
-Diploderma melospermum Cooke & Massee SPECIES
-=======
+# Diploderma melospermum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

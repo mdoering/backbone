@@ -1,5 +1,4 @@
-Zoopage thamnospira Drechsler, 1938 SPECIES
-=======
+# Zoopage thamnospira Drechsler, 1938 SPECIES
 
 #### Status
 ACCEPTED

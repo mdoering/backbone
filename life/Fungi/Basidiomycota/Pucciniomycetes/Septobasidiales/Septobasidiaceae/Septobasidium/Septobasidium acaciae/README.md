@@ -1,5 +1,4 @@
-Septobasidium acaciae Sawada SPECIES
-=======
+# Septobasidium acaciae Sawada SPECIES
 
 #### Status
 ACCEPTED

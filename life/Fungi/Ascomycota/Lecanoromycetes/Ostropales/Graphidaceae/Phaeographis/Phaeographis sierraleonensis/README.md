@@ -1,5 +1,4 @@
-Phaeographis sierraleonensis C.W. Dodge SPECIES
-=======
+# Phaeographis sierraleonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

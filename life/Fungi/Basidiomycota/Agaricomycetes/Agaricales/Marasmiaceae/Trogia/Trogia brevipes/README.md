@@ -1,5 +1,4 @@
-Trogia brevipes Corner SPECIES
-=======
+# Trogia brevipes Corner SPECIES
 
 #### Status
 ACCEPTED

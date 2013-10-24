@@ -1,5 +1,4 @@
-Tranzschelia persicae (Pers.) Arthur SPECIES
-=======
+# Tranzschelia persicae (Pers.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta liriodendrica Cooke SPECIES
-=======
+# Phyllosticta liriodendrica Cooke SPECIES
 
 #### Status
 ACCEPTED

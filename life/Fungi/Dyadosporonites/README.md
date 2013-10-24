@@ -1,5 +1,4 @@
-Dyadosporonites Elsik GENUS
-=======
+# Dyadosporonites Elsik GENUS
 
 #### Status
 ACCEPTED

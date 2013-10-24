@@ -1,5 +1,4 @@
-Parmelia deformis (Vain.) Vain. SPECIES
-=======
+# Parmelia deformis (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

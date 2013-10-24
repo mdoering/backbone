@@ -1,5 +1,4 @@
-Lactarius ferrugineifolius Stubbe & Verbeken SPECIES
-=======
+# Lactarius ferrugineifolius Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita calyptrata Lam. SPECIES
-=======
+# Amanita calyptrata Lam. SPECIES
 
 #### Status
 ACCEPTED

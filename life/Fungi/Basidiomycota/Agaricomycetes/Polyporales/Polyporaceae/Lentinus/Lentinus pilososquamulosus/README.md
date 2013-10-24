@@ -1,5 +1,4 @@
-Lentinus pilososquamulosus Lj.N. Vassiljeva SPECIES
-=======
+# Lentinus pilososquamulosus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

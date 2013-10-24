@@ -1,5 +1,4 @@
-Amphorula dodekovae M. Zotto, W.S. Drugg & D. Habib SPECIES
-=======
+# Amphorula dodekovae M. Zotto, W.S. Drugg & D. Habib SPECIES
 
 #### Status
 ACCEPTED

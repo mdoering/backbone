@@ -1,5 +1,4 @@
-Amphiamblys capitellides (Caullery & Mesnil, 1897) Caullery & Mesnil SPECIES
-=======
+# Amphiamblys capitellides (Caullery & Mesnil, 1897) Caullery & Mesnil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citricoccus muralis Altenburger et al., 2002 SPECIES
-=======
+# Citricoccus muralis Altenburger et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

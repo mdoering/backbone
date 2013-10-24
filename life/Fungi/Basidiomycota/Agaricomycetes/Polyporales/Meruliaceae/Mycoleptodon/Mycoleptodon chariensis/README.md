@@ -1,5 +1,4 @@
-Mycoleptodon chariensis Har. & Pat. SPECIES
-=======
+# Mycoleptodon chariensis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

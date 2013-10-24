@@ -1,5 +1,4 @@
-Aecidium verbenicola Speg. SPECIES
-=======
+# Aecidium verbenicola Speg. SPECIES
 
 #### Status
 ACCEPTED

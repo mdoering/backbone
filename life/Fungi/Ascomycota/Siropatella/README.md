@@ -1,5 +1,4 @@
-Siropatella Höhn. GENUS
-=======
+# Siropatella Höhn. GENUS
 
 #### Status
 ACCEPTED

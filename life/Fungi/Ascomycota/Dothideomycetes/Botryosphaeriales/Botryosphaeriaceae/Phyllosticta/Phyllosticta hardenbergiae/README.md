@@ -1,5 +1,4 @@
-Phyllosticta hardenbergiae Cooke & Massee SPECIES
-=======
+# Phyllosticta hardenbergiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

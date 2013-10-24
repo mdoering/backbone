@@ -1,5 +1,4 @@
-Chaetotyphula columbiana Singer, 1977 SPECIES
-=======
+# Chaetotyphula columbiana Singer, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapedinella reticulata S.M. Pedersen, P.L. Beech & H.A. Thomsen SPECIES
-=======
+# Parapedinella reticulata S.M. Pedersen, P.L. Beech & H.A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

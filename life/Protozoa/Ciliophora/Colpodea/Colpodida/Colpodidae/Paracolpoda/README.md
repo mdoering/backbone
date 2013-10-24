@@ -1,5 +1,4 @@
-Paracolpoda Lynn, 1978 GENUS
-=======
+# Paracolpoda Lynn, 1978 GENUS
 
 #### Status
 ACCEPTED

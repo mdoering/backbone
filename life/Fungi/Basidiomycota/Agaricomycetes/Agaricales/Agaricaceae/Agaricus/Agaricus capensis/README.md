@@ -1,5 +1,4 @@
-Agaricus capensis Fraiture SPECIES
-=======
+# Agaricus capensis Fraiture SPECIES
 
 #### Status
 ACCEPTED

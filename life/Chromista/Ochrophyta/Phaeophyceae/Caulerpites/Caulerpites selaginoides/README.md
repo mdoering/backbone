@@ -1,5 +1,4 @@
-Caulerpites selaginoides SPECIES
-=======
+# Caulerpites selaginoides SPECIES
 
 #### Status
 ACCEPTED

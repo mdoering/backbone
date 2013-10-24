@@ -1,5 +1,4 @@
-Phyllosticta texensis Seaver SPECIES
-=======
+# Phyllosticta texensis Seaver SPECIES
 
 #### Status
 ACCEPTED

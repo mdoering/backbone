@@ -1,5 +1,4 @@
-Ochrolechia pacifica H. Magn. SPECIES
-=======
+# Ochrolechia pacifica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

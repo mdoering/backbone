@@ -1,5 +1,4 @@
-Lopharia ochracea G. Cunn. SPECIES
-=======
+# Lopharia ochracea G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

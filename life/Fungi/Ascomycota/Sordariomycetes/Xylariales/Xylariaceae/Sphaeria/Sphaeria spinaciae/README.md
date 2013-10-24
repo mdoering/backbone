@@ -1,5 +1,4 @@
-Sphaeria spinaciae Fr. SPECIES
-=======
+# Sphaeria spinaciae Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe parabolica Fuckel SPECIES
-=======
+# Diaporthe parabolica Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephroma szatalae Gyeln. SPECIES
-=======
+# Nephroma szatalae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

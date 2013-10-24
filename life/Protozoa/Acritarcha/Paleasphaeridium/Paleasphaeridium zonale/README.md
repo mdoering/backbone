@@ -1,5 +1,4 @@
-Paleasphaeridium zonale Yin Chongyu, 1985 SPECIES
-=======
+# Paleasphaeridium zonale Yin Chongyu, 1985 SPECIES
 
 #### Status
 ACCEPTED

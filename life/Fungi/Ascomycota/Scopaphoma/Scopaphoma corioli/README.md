@@ -1,5 +1,4 @@
-Scopaphoma corioli Dearn. & House, 1925 SPECIES
-=======
+# Scopaphoma corioli Dearn. & House, 1925 SPECIES
 
 #### Status
 ACCEPTED

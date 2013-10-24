@@ -1,5 +1,4 @@
-Pestalozziella ambigua Höhn. SPECIES
-=======
+# Pestalozziella ambigua Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria gratissima var. gratissima VARIETY
-=======
+# Leptosphaeria gratissima Rieuf & Teasca SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Al Awamia 34: 54 (1970)
 
 #### Original name
-Leptosphaeria gratissima var. gratissima
+Leptosphaeria gratissima Rieuf & Teasca
 
 ### Remarks
 null

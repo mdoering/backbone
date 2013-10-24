@@ -1,5 +1,4 @@
-Diplodia rhamni Jaap, 1914 SPECIES
-=======
+# Diplodia rhamni Jaap, 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo morobeana Cummins SPECIES
-=======
+# Uredo morobeana Cummins SPECIES
 
 #### Status
 ACCEPTED

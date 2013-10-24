@@ -1,5 +1,4 @@
-Leptosphaeria hollosiana Wehm. SPECIES
-=======
+# Leptosphaeria hollosiana Wehm. SPECIES
 
 #### Status
 ACCEPTED

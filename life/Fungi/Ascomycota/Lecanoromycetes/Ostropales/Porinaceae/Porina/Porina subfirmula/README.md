@@ -1,5 +1,4 @@
-Porina subfirmula Riddle SPECIES
-=======
+# Porina subfirmula Riddle SPECIES
 
 #### Status
 ACCEPTED

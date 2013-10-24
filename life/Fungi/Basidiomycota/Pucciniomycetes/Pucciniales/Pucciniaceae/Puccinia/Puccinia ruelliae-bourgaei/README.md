@@ -1,5 +1,4 @@
-Puccinia ruelliae-bourgaei Dietel & Holw. SPECIES
-=======
+# Puccinia ruelliae-bourgaei Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

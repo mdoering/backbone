@@ -1,5 +1,4 @@
-Sphaeria hepaticarum P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria hepaticarum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

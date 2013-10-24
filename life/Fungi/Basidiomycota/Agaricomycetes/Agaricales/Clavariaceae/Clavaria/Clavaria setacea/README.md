@@ -1,5 +1,4 @@
-Clavaria setacea Kalchbr. SPECIES
-=======
+# Clavaria setacea Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

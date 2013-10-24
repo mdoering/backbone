@@ -1,5 +1,4 @@
-Planistroma nolinae A.W. Ramaley SPECIES
-=======
+# Planistroma nolinae A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza calyculus var. calyculus VARIETY
-=======
+# Peziza calyculus Batsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Peziza calyculus Batsch
 
 ### Remarks
 null

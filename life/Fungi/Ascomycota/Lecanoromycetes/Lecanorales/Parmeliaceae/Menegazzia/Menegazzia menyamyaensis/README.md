@@ -1,5 +1,4 @@
-Menegazzia menyamyaensis Elix SPECIES
-=======
+# Menegazzia menyamyaensis Elix SPECIES
 
 #### Status
 ACCEPTED

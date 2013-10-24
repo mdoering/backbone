@@ -1,5 +1,4 @@
-Verrucaria cinereofusca (Weber) F.H. Wigg. SPECIES
-=======
+# Verrucaria cinereofusca (Weber) F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

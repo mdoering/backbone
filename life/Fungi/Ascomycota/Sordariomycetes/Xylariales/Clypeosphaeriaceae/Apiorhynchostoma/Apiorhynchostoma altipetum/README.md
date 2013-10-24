@@ -1,5 +1,4 @@
-Apiorhynchostoma altipetum (Peck) Rappaz SPECIES
-=======
+# Apiorhynchostoma altipetum (Peck) Rappaz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grammothele crocistroma Lloyd SPECIES
-=======
+# Grammothele crocistroma Lloyd SPECIES
 
 #### Status
 ACCEPTED

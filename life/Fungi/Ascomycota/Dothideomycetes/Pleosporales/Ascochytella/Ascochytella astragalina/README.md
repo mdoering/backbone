@@ -1,5 +1,4 @@
-Ascochytella astragalina Petr. SPECIES
-=======
+# Ascochytella astragalina Petr. SPECIES
 
 #### Status
 ACCEPTED

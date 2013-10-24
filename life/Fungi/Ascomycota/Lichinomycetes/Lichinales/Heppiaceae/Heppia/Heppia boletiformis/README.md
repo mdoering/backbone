@@ -1,5 +1,4 @@
-Heppia boletiformis (Hue) Zahlbr. SPECIES
-=======
+# Heppia boletiformis (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta tulipiferae Pass. SPECIES
-=======
+# Phyllosticta tulipiferae Pass. SPECIES
 
 #### Status
 ACCEPTED

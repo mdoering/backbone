@@ -1,5 +1,4 @@
-Peziza costata Fr. SPECIES
-=======
+# Peziza costata Fr. SPECIES
 
 #### Status
 ACCEPTED

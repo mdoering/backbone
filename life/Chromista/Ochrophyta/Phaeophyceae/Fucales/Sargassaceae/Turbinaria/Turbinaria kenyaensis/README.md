@@ -1,5 +1,4 @@
-Turbinaria kenyaensis W.R. Taylor SPECIES
-=======
+# Turbinaria kenyaensis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

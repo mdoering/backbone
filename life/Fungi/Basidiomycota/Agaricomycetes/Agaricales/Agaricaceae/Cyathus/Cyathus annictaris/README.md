@@ -1,5 +1,4 @@
-Cyathus annictaris Lloyd SPECIES
-=======
+# Cyathus annictaris Lloyd SPECIES
 
 #### Status
 ACCEPTED

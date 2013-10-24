@@ -1,5 +1,4 @@
-Usnea cartilaginea Laurer SPECIES
-=======
+# Usnea cartilaginea Laurer SPECIES
 
 #### Status
 ACCEPTED

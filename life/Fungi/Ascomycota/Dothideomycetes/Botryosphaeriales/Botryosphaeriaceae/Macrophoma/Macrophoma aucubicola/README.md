@@ -1,5 +1,4 @@
-Macrophoma aucubicola Kavkas. SPECIES
-=======
+# Macrophoma aucubicola Kavkas. SPECIES
 
 #### Status
 ACCEPTED

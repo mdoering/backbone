@@ -1,5 +1,4 @@
-Passalora nervisequens (J. Kranz) U. Braun & Crous SPECIES
-=======
+# Passalora nervisequens (J. Kranz) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

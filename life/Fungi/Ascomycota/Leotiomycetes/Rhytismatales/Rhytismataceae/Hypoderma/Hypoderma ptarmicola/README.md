@@ -1,5 +1,4 @@
-Hypoderma ptarmicola Fairm. SPECIES
-=======
+# Hypoderma ptarmicola Fairm. SPECIES
 
 #### Status
 ACCEPTED

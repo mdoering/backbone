@@ -1,5 +1,4 @@
-Hypoxylon discolor Berk. & Broome SPECIES
-=======
+# Hypoxylon discolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizidium A. Braun GENUS
-=======
+# Rhizidium A. Braun GENUS
 
 #### Status
 ACCEPTED

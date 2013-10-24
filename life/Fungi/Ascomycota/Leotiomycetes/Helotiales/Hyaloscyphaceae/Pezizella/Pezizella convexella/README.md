@@ -1,5 +1,4 @@
-Pezizella convexella Penz. & Sacc. SPECIES
-=======
+# Pezizella convexella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

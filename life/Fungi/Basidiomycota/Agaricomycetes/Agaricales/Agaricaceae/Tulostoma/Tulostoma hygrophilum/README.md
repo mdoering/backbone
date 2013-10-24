@@ -1,5 +1,4 @@
-Tulostoma hygrophilum Long & S. Ahmad SPECIES
-=======
+# Tulostoma hygrophilum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

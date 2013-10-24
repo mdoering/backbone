@@ -1,5 +1,4 @@
-Puccinia nephrophylli Henn. SPECIES
-=======
+# Puccinia nephrophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

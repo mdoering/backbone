@@ -1,5 +1,4 @@
-Buelliella dirinariae Diederich SPECIES
-=======
+# Buelliella dirinariae Diederich SPECIES
 
 #### Status
 ACCEPTED

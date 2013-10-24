@@ -1,8 +1,7 @@
-Haemogregarina marshalllairdi Khan, Threlfall & Whitty, 1992 SPECIES
-=======
+# Desseria marshalllairdi (Khan, Threlfall & Whitty, 1992) Siddall, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

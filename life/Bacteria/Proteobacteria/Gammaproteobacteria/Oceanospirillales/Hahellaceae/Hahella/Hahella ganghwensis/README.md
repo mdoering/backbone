@@ -1,5 +1,4 @@
-Hahella ganghwensis Baik et al., 2005 SPECIES
-=======
+# Hahella ganghwensis Baik et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

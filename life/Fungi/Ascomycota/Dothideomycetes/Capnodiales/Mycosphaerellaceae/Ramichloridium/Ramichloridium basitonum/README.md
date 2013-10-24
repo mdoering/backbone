@@ -1,5 +1,4 @@
-Ramichloridium basitonum de Hoog SPECIES
-=======
+# Ramichloridium basitonum de Hoog SPECIES
 
 #### Status
 ACCEPTED

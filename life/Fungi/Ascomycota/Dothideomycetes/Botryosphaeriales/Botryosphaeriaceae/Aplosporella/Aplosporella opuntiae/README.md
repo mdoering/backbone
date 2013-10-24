@@ -1,5 +1,4 @@
-Aplosporella opuntiae (Fairm.) Petr. & Syd. SPECIES
-=======
+# Aplosporella opuntiae (Fairm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

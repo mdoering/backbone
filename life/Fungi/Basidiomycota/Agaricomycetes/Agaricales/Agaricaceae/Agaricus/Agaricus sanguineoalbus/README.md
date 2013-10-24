@@ -1,5 +1,4 @@
-Agaricus sanguineoalbus Britzelm. SPECIES
-=======
+# Agaricus sanguineoalbus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

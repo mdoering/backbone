@@ -1,5 +1,4 @@
-Gonyaulax longicornu P.H. Campbell, 1973 SPECIES
-=======
+# Gonyaulax longicornu P.H. Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

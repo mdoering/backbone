@@ -1,17 +1,16 @@
-Enterographa venosa var. venosa VARIETY
-=======
+# Enterographa crassa (DC.) Fée SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris) 1: 90 (1825)
 
 #### Original name
-Enterographa venosa var. venosa
+Opegrapha crassa DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Erysiphe helichrysi U. Braun, 1987 SPECIES
-=======
+# Erysiphe helichrysi U. Braun, 1987 SPECIES
 
 #### Status
 ACCEPTED

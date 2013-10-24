@@ -1,5 +1,4 @@
-Macowanites fuscoviolaceus Singer & A.H. Sm. SPECIES
-=======
+# Macowanites fuscoviolaceus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

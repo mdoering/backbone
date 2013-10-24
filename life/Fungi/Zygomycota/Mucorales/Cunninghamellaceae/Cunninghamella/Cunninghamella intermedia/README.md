@@ -1,5 +1,4 @@
-Cunninghamella intermedia K.B. Deshp. & Mantri, 1966 SPECIES
-=======
+# Cunninghamella intermedia K.B. Deshp. & Mantri, 1966 SPECIES
 
 #### Status
 ACCEPTED

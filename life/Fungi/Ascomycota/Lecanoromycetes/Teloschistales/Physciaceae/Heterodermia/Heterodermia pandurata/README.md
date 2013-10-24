@@ -1,5 +1,4 @@
-Heterodermia pandurata (Kurok.) J.C. Wei SPECIES
-=======
+# Heterodermia pandurata (Kurok.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

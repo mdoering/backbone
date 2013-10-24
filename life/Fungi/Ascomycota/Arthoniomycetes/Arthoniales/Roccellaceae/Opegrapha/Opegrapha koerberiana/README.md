@@ -1,5 +1,4 @@
-Opegrapha koerberiana Müll. Arg. SPECIES
-=======
+# Opegrapha koerberiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lachnella barbata subsp. barbata SUBSPECIES
-=======
+# Lachnella barbata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 365 (1849)
+null
 
 #### Original name
-Lachnella barbata subsp. barbata
+null
 
 ### Remarks
 null

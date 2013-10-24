@@ -1,5 +1,4 @@
-Puccinia rossii Bubák SPECIES
-=======
+# Puccinia rossii Bubák SPECIES
 
 #### Status
 ACCEPTED

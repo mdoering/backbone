@@ -1,5 +1,4 @@
-Ocellularia diacida Hale SPECIES
-=======
+# Ocellularia diacida Hale SPECIES
 
 #### Status
 ACCEPTED

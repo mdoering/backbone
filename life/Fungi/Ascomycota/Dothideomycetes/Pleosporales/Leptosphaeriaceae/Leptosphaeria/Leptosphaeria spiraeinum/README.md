@@ -1,5 +1,4 @@
-Leptosphaeria spiraeinum Vestergr. SPECIES
-=======
+# Leptosphaeria spiraeinum Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geitlerinema peronides (Skuja) I. Umezaki & M. Watanabe SPECIES
-=======
+# Geitlerinema peronides (Skuja) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

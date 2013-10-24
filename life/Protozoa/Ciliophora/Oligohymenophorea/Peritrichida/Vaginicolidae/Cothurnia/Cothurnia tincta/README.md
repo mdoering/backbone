@@ -1,5 +1,4 @@
-Cothurnia tincta SPECIES
-=======
+# Cothurnia tincta SPECIES
 
 #### Status
 ACCEPTED

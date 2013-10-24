@@ -1,5 +1,4 @@
-Haemogregarina dasyatis Saunders, 1958 SPECIES
-=======
+# Haemogregarina dasyatis Saunders, 1958 SPECIES
 
 #### Status
 ACCEPTED

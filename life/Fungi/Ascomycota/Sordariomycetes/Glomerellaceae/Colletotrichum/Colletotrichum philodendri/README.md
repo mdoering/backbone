@@ -1,5 +1,4 @@
-Colletotrichum philodendri Henn. SPECIES
-=======
+# Colletotrichum philodendri Henn. SPECIES
 
 #### Status
 ACCEPTED

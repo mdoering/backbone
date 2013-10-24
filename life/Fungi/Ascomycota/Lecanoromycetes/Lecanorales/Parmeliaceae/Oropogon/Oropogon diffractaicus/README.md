@@ -1,5 +1,4 @@
-Oropogon diffractaicus Essl. SPECIES
-=======
+# Oropogon diffractaicus Essl. SPECIES
 
 #### Status
 ACCEPTED

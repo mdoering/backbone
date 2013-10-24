@@ -1,5 +1,4 @@
-Lepiota diffracta Pat. & Gaillard SPECIES
-=======
+# Lepiota diffracta Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius archeri Berk. SPECIES
-=======
+# Cortinarius archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

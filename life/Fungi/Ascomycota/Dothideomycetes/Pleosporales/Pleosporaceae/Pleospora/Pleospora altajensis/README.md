@@ -1,5 +1,4 @@
-Pleospora altajensis Petr. SPECIES
-=======
+# Pleospora altajensis Petr. SPECIES
 
 #### Status
 ACCEPTED

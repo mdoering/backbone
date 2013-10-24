@@ -1,5 +1,4 @@
-Meliola lagerheimii Gaillard SPECIES
-=======
+# Meliola lagerheimii Gaillard SPECIES
 
 #### Status
 ACCEPTED

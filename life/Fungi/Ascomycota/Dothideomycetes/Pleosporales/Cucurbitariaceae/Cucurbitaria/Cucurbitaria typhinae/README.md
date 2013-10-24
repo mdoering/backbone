@@ -1,5 +1,4 @@
-Cucurbitaria typhinae Ellis & Everh. SPECIES
-=======
+# Cucurbitaria typhinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

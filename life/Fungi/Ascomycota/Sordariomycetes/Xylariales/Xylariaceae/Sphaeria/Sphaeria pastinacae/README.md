@@ -1,5 +1,4 @@
-Sphaeria pastinacae Schwein. SPECIES
-=======
+# Sphaeria pastinacae Schwein. SPECIES
 
 #### Status
 ACCEPTED

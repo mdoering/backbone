@@ -1,5 +1,4 @@
-Curtrightia McCulloch, 1977 GENUS
-=======
+# Curtrightia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirosolenites Glaessner in Foyn & Glaessner, 1979 GENUS
-=======
+# Spirosolenites Glaessner in Foyn & Glaessner, 1979 GENUS
 
 #### Status
 ACCEPTED

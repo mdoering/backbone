@@ -1,5 +1,4 @@
-Pholiota sequoiae A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota sequoiae A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

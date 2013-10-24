@@ -1,5 +1,4 @@
-Coremium vulgare Corda SPECIES
-=======
+# Coremium vulgare Corda SPECIES
 
 #### Status
 ACCEPTED

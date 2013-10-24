@@ -1,14 +1,13 @@
-Clavaria spathulata Peck, 1875 SPECIES
-=======
+# Typhula spathulata (Peck) Berthier, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 27: 100 (1875)
+Bull. mens. Soc. linn. Lyon 45: 152 (1976)
 
 #### Original name
 Clavaria spathulata Peck, 1875

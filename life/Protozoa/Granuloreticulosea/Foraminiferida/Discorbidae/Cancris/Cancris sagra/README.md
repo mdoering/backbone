@@ -1,5 +1,4 @@
-Cancris sagra SPECIES
-=======
+# Cancris sagra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baeomyces imbricatus SPECIES
-=======
+# Baeomyces imbricatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plecostoma fornicatum Corda SPECIES
-=======
+# Plecostoma fornicatum Corda SPECIES
 
 #### Status
 ACCEPTED

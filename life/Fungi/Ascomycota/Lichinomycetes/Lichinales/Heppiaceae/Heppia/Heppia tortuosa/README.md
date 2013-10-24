@@ -1,5 +1,4 @@
-Heppia tortuosa (Nyl.) Vain. SPECIES
-=======
+# Heppia tortuosa (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

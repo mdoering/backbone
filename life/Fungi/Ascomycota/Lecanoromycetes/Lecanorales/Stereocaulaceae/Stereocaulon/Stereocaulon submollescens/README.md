@@ -1,5 +1,4 @@
-Stereocaulon submollescens Nyl. SPECIES
-=======
+# Stereocaulon submollescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

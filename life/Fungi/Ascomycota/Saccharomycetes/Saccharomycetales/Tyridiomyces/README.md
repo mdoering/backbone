@@ -1,5 +1,4 @@
-Tyridiomyces W.A. Wheeler GENUS
-=======
+# Tyridiomyces W.A. Wheeler GENUS
 
 #### Status
 ACCEPTED

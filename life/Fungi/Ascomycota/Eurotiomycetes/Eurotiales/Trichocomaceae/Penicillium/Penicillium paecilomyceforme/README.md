@@ -1,5 +1,4 @@
-Penicillium paecilomyceforme Svilv. SPECIES
-=======
+# Penicillium paecilomyceforme Svilv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Scutiger syringae Parmasto, 1962 SPECIES
-=======
+# Xanthoporus syringae (Parmasto) Audet, 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botanicheskie Materialy 15: 132 (1962)
+Mycotaxon (2007)
 
 #### Original name
-Scutiger syringae Parmasto, 1962
+Xanthoporus syringae (Parmasto) Audet, 2010
 
 ### Remarks
 null

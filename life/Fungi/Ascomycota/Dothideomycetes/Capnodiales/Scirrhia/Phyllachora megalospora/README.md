@@ -1,5 +1,4 @@
-Phyllachora megalospora Speg., 1899 SPECIES
-=======
+# Phyllachora megalospora Speg., 1899 SPECIES
 
 #### Status
 DOUBTFUL

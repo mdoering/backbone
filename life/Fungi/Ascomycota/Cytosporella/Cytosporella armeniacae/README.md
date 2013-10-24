@@ -1,5 +1,4 @@
-Cytosporella armeniacae McAlpine SPECIES
-=======
+# Cytosporella armeniacae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum marantae Sawada SPECIES
-=======
+# Colletotrichum marantae Sawada SPECIES
 
 #### Status
 ACCEPTED

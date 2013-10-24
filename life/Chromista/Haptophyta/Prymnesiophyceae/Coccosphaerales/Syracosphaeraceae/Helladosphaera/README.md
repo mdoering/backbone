@@ -1,5 +1,4 @@
-Helladosphaera Kamptner, 1937 GENUS
-=======
+# Helladosphaera Kamptner, 1937 GENUS
 
 #### Status
 ACCEPTED

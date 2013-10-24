@@ -1,17 +1,16 @@
-Leucoagaricus melanotrichus f. melanotrichus FORM
-=======
+# Leucoagaricus melanotrichus (Malençon & Bertault) Trimbach SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 5(no. 20): 42 (1975)
+null
 
 #### Original name
-Leucoagaricus melanotrichus f. melanotrichus
+null
 
 ### Remarks
 null

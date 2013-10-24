@@ -1,17 +1,16 @@
-Gomphidius rutilus var. rutilus VARIETY
-=======
+# Chroogomphus rutilus (Schaeff.) O.K. Mill., 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Exsiccati Suecici 409 (1937)
+Mycologia 56(4): 543 (1964)
 
 #### Original name
-Gomphidius rutilus var. rutilus
+Agaricus rutilus Schaeff., 1774
 
 ### Remarks
 null

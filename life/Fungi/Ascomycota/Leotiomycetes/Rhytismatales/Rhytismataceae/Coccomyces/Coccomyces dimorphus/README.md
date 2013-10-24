@@ -1,5 +1,4 @@
-Coccomyces dimorphus S.W. Liang, X.Y. Tang & Y.R. Lin, 2000 SPECIES
-=======
+# Coccomyces dimorphus S.W. Liang, X.Y. Tang & Y.R. Lin, 2000 SPECIES
 
 #### Status
 ACCEPTED

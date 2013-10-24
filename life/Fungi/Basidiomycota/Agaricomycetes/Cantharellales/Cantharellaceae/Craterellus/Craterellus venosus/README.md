@@ -1,5 +1,4 @@
-Craterellus venosus R.H. Petersen SPECIES
-=======
+# Craterellus venosus R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

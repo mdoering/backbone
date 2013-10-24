@@ -1,5 +1,4 @@
-Lecidea pelochroa Nyl. SPECIES
-=======
+# Lecidea pelochroa Nyl. SPECIES
 
 #### Status
 ACCEPTED

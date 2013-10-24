@@ -1,5 +1,4 @@
-Hygrophorus caespitosus Velen. SPECIES
-=======
+# Hygrophorus caespitosus Velen. SPECIES
 
 #### Status
 ACCEPTED

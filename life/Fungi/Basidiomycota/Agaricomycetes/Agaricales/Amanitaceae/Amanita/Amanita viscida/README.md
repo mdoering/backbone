@@ -1,5 +1,4 @@
-Amanita viscida Lam. SPECIES
-=======
+# Amanita viscida Lam. SPECIES
 
 #### Status
 ACCEPTED

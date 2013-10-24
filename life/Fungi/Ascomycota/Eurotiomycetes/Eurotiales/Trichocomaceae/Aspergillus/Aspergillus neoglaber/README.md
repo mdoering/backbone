@@ -1,5 +1,4 @@
-Aspergillus neoglaber Kozak. SPECIES
-=======
+# Aspergillus neoglaber Kozak. SPECIES
 
 #### Status
 ACCEPTED

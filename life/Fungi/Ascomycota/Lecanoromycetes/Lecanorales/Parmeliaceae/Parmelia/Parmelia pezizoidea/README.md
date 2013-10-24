@@ -1,5 +1,4 @@
-Parmelia pezizoidea (Hoffm.) Hornem. SPECIES
-=======
+# Parmelia pezizoidea (Hoffm.) Hornem. SPECIES
 
 #### Status
 ACCEPTED

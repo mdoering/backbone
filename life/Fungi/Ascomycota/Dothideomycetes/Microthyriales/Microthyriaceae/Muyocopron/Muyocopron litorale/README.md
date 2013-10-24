@@ -1,17 +1,16 @@
-Myiocopron litorale Speg. SPECIES
-=======
+# Muyocopron litorale Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Acad. nac. Cienc. Córdoba 25: 88 (1921)
 
 #### Original name
-Myiocopron litorale Speg.
+Muyocopron litorale Speg.
 
 ### Remarks
 null

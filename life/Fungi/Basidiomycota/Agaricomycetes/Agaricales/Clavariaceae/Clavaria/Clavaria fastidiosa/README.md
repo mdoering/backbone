@@ -1,5 +1,4 @@
-Clavaria fastidiosa S. Imai SPECIES
-=======
+# Clavaria fastidiosa S. Imai SPECIES
 
 #### Status
 ACCEPTED

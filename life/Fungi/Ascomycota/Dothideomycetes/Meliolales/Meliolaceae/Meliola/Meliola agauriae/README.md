@@ -1,5 +1,4 @@
-Meliola agauriae Hansf. SPECIES
-=======
+# Meliola agauriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella winteriana f. winteriana FORM
-=======
+# Didymolepta winteriana (Sacc.) Munk, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dansk bot. Ark. 15(2): 110 (1953)
 
 #### Original name
-null
+Sphaerella winteriana Sacc., 1882
 
 ### Remarks
 null

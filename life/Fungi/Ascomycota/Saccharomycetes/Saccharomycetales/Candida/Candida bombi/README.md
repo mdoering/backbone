@@ -1,5 +1,4 @@
-Candida bombi Montrocher, 1967 SPECIES
-=======
+# Candida bombi Montrocher, 1967 SPECIES
 
 #### Status
 ACCEPTED

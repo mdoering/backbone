@@ -1,5 +1,4 @@
-Uredo teramnicola Arthur & Cummins SPECIES
-=======
+# Uredo teramnicola Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

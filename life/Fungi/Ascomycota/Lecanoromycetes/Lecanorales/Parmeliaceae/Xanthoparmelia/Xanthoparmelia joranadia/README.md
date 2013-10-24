@@ -1,8 +1,7 @@
-Parmelia joranadia T. H. Nash SPECIES
-=======
+# Xanthoparmelia joranadia (T. H. Nash) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Parmelia joranadia T. H. Nash
+null
 
 ### Remarks
 null

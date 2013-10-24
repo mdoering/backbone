@@ -1,5 +1,4 @@
-Puccinia polygoni-cyanandri J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia polygoni-cyanandri J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

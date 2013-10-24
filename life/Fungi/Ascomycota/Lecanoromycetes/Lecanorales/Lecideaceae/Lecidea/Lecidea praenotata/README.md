@@ -1,5 +1,4 @@
-Lecidea praenotata Nyl. SPECIES
-=======
+# Lecidea praenotata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina thaxteri R. Sant. SPECIES
-=======
+# Porina thaxteri R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsis subolivacea Werner SPECIES
-=======
+# Pyrenopsis subolivacea Werner SPECIES
 
 #### Status
 ACCEPTED

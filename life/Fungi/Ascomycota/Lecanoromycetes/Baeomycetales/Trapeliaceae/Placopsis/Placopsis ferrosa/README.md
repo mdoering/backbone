@@ -1,5 +1,4 @@
-Placopsis ferrosa I.M. Lamb SPECIES
-=======
+# Placopsis ferrosa I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

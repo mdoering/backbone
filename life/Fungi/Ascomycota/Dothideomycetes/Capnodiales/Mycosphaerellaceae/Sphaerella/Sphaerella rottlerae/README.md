@@ -1,5 +1,4 @@
-Sphaerella rottlerae (Berk. & Broome) Sacc. SPECIES
-=======
+# Sphaerella rottlerae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

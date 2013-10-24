@@ -1,5 +1,4 @@
-Volvariella nana Pegler SPECIES
-=======
+# Volvariella nana Pegler SPECIES
 
 #### Status
 ACCEPTED

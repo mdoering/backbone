@@ -1,5 +1,4 @@
-Caloplaca fulgescens (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca fulgescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

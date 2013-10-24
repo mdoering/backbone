@@ -1,5 +1,4 @@
-Dictyoploca truncigena Raithelh. SPECIES
-=======
+# Dictyoploca truncigena Raithelh. SPECIES
 
 #### Status
 ACCEPTED

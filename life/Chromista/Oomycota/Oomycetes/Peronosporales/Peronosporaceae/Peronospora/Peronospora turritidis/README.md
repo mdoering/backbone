@@ -1,5 +1,4 @@
-Peronospora turritidis Gäum. SPECIES
-=======
+# Peronospora turritidis Gäum. SPECIES
 
 #### Status
 ACCEPTED

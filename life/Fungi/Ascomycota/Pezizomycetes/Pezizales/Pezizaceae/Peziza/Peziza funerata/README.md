@@ -1,5 +1,4 @@
-Peziza funerata Cooke SPECIES
-=======
+# Peziza funerata Cooke SPECIES
 
 #### Status
 ACCEPTED

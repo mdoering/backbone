@@ -1,5 +1,4 @@
-Granatisporites opimus Elsik & Janson. SPECIES
-=======
+# Granatisporites opimus Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

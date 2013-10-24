@@ -1,5 +1,4 @@
-Hexalonchetta Haeckel, 1887 GENUS
-=======
+# Hexalonchetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

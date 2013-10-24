@@ -1,5 +1,4 @@
-Xanthoria concolor (Dicks.) Th. Fr. SPECIES
-=======
+# Xanthoria concolor (Dicks.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

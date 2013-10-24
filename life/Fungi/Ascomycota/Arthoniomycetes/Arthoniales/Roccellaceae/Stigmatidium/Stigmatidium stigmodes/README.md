@@ -1,5 +1,4 @@
-Stigmatidium stigmodes (Nyl.) Nyl. SPECIES
-=======
+# Stigmatidium stigmodes (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

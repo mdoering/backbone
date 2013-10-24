@@ -1,5 +1,4 @@
-Rhodobaca Milford, Achenbach, Jung & Madigan, 2001 GENUS
-=======
+# Rhodobaca Milford, Achenbach, Jung & Madigan, 2001 GENUS
 
 #### Status
 ACCEPTED

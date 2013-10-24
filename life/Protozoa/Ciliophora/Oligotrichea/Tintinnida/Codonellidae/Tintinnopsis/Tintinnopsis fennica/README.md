@@ -1,5 +1,4 @@
-Tintinnopsis fennica Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis fennica Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

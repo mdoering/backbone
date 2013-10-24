@@ -1,5 +1,4 @@
-Lepiota ianthinosquamosa Pegler SPECIES
-=======
+# Lepiota ianthinosquamosa Pegler SPECIES
 
 #### Status
 ACCEPTED

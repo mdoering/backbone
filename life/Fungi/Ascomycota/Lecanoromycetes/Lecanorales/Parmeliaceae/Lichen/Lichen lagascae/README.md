@@ -1,5 +1,4 @@
-Lichen lagascae (Ach.) Wahlenb. SPECIES
-=======
+# Lichen lagascae (Ach.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia serpentina G.H. Otth SPECIES
-=======
+# Collybia serpentina G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

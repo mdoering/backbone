@@ -1,5 +1,4 @@
-Urocystis nivalis (Liro) Zundel SPECIES
-=======
+# Urocystis nivalis (Liro) Zundel SPECIES
 
 #### Status
 ACCEPTED

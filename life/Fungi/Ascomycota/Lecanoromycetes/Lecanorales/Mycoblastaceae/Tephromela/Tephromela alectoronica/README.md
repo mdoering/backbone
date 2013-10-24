@@ -1,8 +1,7 @@
-Lecanora atra var. virens Müll. Arg. VARIETY
-=======
+# Tephromela alectoronica Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

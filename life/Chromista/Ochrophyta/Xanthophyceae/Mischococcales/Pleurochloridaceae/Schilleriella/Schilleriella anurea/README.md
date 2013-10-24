@@ -1,5 +1,4 @@
-Schilleriella anurea (J. Schiller) Pascher SPECIES
-=======
+# Schilleriella anurea (J. Schiller) Pascher SPECIES
 
 #### Status
 ACCEPTED

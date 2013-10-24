@@ -1,5 +1,4 @@
-Pandora dacnusae (Balazy) Humber, 1989 SPECIES
-=======
+# Pandora dacnusae (Balazy) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectonema polymorphum var. viride G.H. Schwabe VARIETY
-=======
+# Plectonema polymorphum SPECIES
 
 #### Status
 ACCEPTED

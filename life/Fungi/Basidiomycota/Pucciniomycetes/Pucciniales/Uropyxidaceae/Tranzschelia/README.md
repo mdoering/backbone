@@ -1,5 +1,4 @@
-Tranzschelia Arthur, 1906 GENUS
-=======
+# Tranzschelia Arthur, 1906 GENUS
 
 #### Status
 ACCEPTED

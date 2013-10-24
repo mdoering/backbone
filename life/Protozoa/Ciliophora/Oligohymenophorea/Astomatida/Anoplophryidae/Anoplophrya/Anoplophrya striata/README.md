@@ -1,5 +1,4 @@
-Anoplophrya striata SPECIES
-=======
+# Anoplophrya striata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microtheliopsis uniseptata Herrera-Camp. & Lücking, 2008 SPECIES
-=======
+# Microtheliopsis uniseptata Herrera-Camp. & Lücking, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeohystrichophora multispina Deflandre & Cookson, 1955 SPECIES
-=======
+# Palaeohystrichophora multispina Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena quasishoreinotans Corner SPECIES
-=======
+# Mycena quasishoreinotans Corner SPECIES
 
 #### Status
 ACCEPTED

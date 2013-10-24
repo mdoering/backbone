@@ -1,5 +1,4 @@
-Antradiella GENUS
-=======
+# Antradiella GENUS
 
 #### Status
 ACCEPTED

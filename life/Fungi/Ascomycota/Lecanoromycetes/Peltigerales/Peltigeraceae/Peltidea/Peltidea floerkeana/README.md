@@ -1,5 +1,4 @@
-Peltidea floerkeana Laurer SPECIES
-=======
+# Peltidea floerkeana Laurer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria jussieuicola Speg. SPECIES
-=======
+# Septoria jussieuicola Speg. SPECIES
 
 #### Status
 ACCEPTED

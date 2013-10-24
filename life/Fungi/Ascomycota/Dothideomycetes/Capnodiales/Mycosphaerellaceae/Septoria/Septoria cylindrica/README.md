@@ -1,5 +1,4 @@
-Septoria cylindrica Ellis & Everh. SPECIES
-=======
+# Septoria cylindrica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia callitricha Zahlbr. SPECIES
-=======
+# Parmelia callitricha Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium salicifoliae (Trel.) Davis SPECIES
-=======
+# Cylindrosporium salicifoliae (Trel.) Davis SPECIES
 
 #### Status
 ACCEPTED

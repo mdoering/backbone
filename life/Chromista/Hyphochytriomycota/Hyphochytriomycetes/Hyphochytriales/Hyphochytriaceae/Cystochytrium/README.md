@@ -1,5 +1,4 @@
-Cystochytrium Ivimey Cook GENUS
-=======
+# Cystochytrium Ivimey Cook GENUS
 
 #### Status
 ACCEPTED

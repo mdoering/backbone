@@ -1,5 +1,4 @@
-Telamonia fechtneri Velen. SPECIES
-=======
+# Telamonia fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

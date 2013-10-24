@@ -1,5 +1,4 @@
-Prunulus semivestipes (Peck) Murrill SPECIES
-=======
+# Prunulus semivestipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

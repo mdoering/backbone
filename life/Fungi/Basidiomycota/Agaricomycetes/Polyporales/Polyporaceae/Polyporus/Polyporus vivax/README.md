@@ -1,5 +1,4 @@
-Polyporus vivax Berk. SPECIES
-=======
+# Polyporus vivax Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo plumeriicola Henn. SPECIES
-=======
+# Uredo plumeriicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria halseyana Schwein. SPECIES
-=======
+# Sphaeria halseyana Schwein. SPECIES
 
 #### Status
 ACCEPTED

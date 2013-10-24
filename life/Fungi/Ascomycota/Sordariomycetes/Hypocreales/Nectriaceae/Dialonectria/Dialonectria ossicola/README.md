@@ -1,5 +1,4 @@
-Dialonectria ossicola (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria ossicola (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

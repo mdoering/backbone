@@ -1,5 +1,4 @@
-Hyphoderma bisetigerum Boidin & Gilles SPECIES
-=======
+# Hyphoderma bisetigerum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia pruni Schumach. SPECIES
-=======
+# Tubercularia pruni Schumach. SPECIES
 
 #### Status
 ACCEPTED

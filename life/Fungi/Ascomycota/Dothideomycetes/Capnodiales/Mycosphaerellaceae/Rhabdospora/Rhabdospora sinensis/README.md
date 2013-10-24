@@ -1,5 +1,4 @@
-Rhabdospora sinensis Speg. SPECIES
-=======
+# Rhabdospora sinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

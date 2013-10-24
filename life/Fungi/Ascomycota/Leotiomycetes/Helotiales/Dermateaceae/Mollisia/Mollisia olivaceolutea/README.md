@@ -1,5 +1,4 @@
-Mollisia olivaceolutea Berk. SPECIES
-=======
+# Mollisia olivaceolutea Berk. SPECIES
 
 #### Status
 ACCEPTED

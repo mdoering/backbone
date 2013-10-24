@@ -1,5 +1,4 @@
-Phyllosticta paeoniae Vize SPECIES
-=======
+# Phyllosticta paeoniae Vize SPECIES
 
 #### Status
 ACCEPTED

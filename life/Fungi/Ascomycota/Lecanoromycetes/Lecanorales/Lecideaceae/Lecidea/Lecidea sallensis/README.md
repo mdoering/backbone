@@ -1,5 +1,4 @@
-Lecidea sallensis Räsänen SPECIES
-=======
+# Lecidea sallensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

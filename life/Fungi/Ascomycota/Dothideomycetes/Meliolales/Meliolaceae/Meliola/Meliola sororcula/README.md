@@ -1,5 +1,4 @@
-Meliola sororcula Speg. SPECIES
-=======
+# Meliola sororcula Speg. SPECIES
 
 #### Status
 ACCEPTED

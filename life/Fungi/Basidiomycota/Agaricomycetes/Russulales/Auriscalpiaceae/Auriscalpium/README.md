@@ -1,17 +1,16 @@
-Pleurodon Quélet ex P. Karsten, 1881 GENUS
-=======
+# Auriscalpium Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 3(9): 20 (1881)
+Nat. Arr. Brit. Pl. (London) 1: 650 (1821)
 
 #### Original name
-Pleurodon Quélet ex P. Karsten, 1881
+Auriscalpium Gray, 1821
 
 ### Remarks
 null

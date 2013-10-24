@@ -1,5 +1,4 @@
-Caeoma clematidis Thüm. SPECIES
-=======
+# Caeoma clematidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

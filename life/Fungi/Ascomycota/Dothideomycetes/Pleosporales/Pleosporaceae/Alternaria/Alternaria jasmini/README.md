@@ -1,5 +1,4 @@
-Alternaria jasmini T.K. Kandasw. SPECIES
-=======
+# Alternaria jasmini T.K. Kandasw. SPECIES
 
 #### Status
 ACCEPTED

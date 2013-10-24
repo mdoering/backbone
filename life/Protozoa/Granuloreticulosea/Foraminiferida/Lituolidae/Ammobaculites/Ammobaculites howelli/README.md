@@ -1,5 +1,4 @@
-Ammobaculites howelli Acosta, 1940 SPECIES
-=======
+# Ammobaculites howelli Acosta, 1940 SPECIES
 
 #### Status
 ACCEPTED

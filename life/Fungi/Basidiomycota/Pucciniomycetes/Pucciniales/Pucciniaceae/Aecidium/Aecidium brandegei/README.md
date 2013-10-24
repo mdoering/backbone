@@ -1,5 +1,4 @@
-Aecidium brandegei Peck SPECIES
-=======
+# Aecidium brandegei Peck SPECIES
 
 #### Status
 ACCEPTED

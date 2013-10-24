@@ -1,5 +1,4 @@
-Tympanis Tode GENUS
-=======
+# Tympanis Tode GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma singulare (Romagn.) Bon & Courtec. SPECIES
-=======
+# Entoloma singulare (Romagn.) Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

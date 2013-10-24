@@ -1,5 +1,4 @@
-Collema minutulum (Bornet) Vain. SPECIES
-=======
+# Collema minutulum (Bornet) Vain. SPECIES
 
 #### Status
 ACCEPTED

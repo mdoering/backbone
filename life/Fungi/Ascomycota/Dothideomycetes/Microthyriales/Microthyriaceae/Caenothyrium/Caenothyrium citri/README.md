@@ -1,5 +1,4 @@
-Caenothyrium citri Reichert & Chorin SPECIES
-=======
+# Caenothyrium citri Reichert & Chorin SPECIES
 
 #### Status
 ACCEPTED

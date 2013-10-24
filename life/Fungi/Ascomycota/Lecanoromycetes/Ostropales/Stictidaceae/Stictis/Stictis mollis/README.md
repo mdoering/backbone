@@ -1,5 +1,4 @@
-Stictis mollis Pers. SPECIES
-=======
+# Stictis mollis Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora calycanthi Casali SPECIES
-=======
+# Pleospora calycanthi Casali SPECIES
 
 #### Status
 ACCEPTED

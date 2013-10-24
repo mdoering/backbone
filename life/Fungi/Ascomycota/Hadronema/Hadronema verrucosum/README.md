@@ -1,17 +1,16 @@
-Hadronema verrucosae A.K. Sarbhoy, Hosag. & N. Ahmad SPECIES
-=======
+# Hadronema verrucosum A.K. Sarbhoy, Hosag. & N. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 7(3): 521 (1986)
 
 #### Original name
-Hadronema verrucosae A.K. Sarbhoy, Hosag. & N. Ahmad
+Hadronema verrucosum A.K. Sarbhoy, Hosag. & N. Ahmad
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meira nashicola F. Yasuda & H. Otani, 2006 SPECIES
-=======
+# Meira nashicola F. Yasuda & H. Otani, 2006 SPECIES
 
 #### Status
 ACCEPTED

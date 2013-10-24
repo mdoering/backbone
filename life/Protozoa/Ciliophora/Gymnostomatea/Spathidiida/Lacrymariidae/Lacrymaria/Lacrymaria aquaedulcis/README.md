@@ -1,5 +1,4 @@
-Lacrymaria aquaedulcis Roux, 1901 SPECIES
-=======
+# Lacrymaria aquaedulcis Roux, 1901 SPECIES
 
 #### Status
 ACCEPTED

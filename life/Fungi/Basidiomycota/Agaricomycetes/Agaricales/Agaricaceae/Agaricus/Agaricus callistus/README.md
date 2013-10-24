@@ -1,5 +1,4 @@
-Agaricus callistus Peck SPECIES
-=======
+# Agaricus callistus Peck SPECIES
 
 #### Status
 ACCEPTED

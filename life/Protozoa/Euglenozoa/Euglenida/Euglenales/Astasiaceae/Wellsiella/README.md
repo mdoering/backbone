@@ -1,5 +1,4 @@
-Wellsiella Skvortzov GENUS
-=======
+# Wellsiella Skvortzov GENUS
 
 #### Status
 ACCEPTED

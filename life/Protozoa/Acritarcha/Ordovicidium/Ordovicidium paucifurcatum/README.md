@@ -1,5 +1,4 @@
-Ordovicidium paucifurcatum (Eisenack, 1959) Uutela & Tynni, 1991 SPECIES
-=======
+# Ordovicidium paucifurcatum (Eisenack, 1959) Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

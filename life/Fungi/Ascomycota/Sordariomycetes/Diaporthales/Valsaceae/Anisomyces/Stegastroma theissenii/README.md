@@ -1,5 +1,4 @@
-Stegastroma theissenii Syd. & P. Syd. SPECIES
-=======
+# Stegastroma theissenii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

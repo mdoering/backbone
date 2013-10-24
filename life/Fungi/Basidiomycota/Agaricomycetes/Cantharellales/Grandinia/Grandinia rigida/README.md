@@ -1,5 +1,4 @@
-Grandinia rigida Berk. SPECIES
-=======
+# Grandinia rigida Berk. SPECIES
 
 #### Status
 ACCEPTED

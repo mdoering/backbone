@@ -1,5 +1,4 @@
-Graphis haemographa Nyl. SPECIES
-=======
+# Graphis haemographa Nyl. SPECIES
 
 #### Status
 ACCEPTED

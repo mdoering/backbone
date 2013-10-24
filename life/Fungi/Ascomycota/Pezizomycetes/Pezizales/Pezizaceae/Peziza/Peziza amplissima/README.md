@@ -1,5 +1,4 @@
-Peziza amplissima Fr., 1849 SPECIES
-=======
+# Peziza amplissima Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

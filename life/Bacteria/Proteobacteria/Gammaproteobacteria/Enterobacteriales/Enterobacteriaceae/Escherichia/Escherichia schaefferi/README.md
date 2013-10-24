@@ -1,5 +1,4 @@
-Escherichia schaefferi SPECIES
-=======
+# Escherichia schaefferi SPECIES
 
 #### Status
 ACCEPTED

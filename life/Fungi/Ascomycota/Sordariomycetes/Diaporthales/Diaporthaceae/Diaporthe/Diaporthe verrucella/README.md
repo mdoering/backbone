@@ -1,5 +1,4 @@
-Diaporthe verrucella (Starbäck) SPECIES
-=======
+# Diaporthe verrucella (Starbäck) SPECIES
 
 #### Status
 ACCEPTED

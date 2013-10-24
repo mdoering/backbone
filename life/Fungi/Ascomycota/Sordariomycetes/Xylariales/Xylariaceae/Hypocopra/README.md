@@ -1,5 +1,4 @@
-Hypocopra (E.M. Fries) J. Kickx f., 1867 GENUS
-=======
+# Hypocopra (E.M. Fries) J. Kickx f., 1867 GENUS
 
 #### Status
 ACCEPTED

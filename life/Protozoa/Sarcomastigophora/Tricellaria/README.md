@@ -1,5 +1,4 @@
-Tricellaria Pflug, 1965 GENUS
-=======
+# Tricellaria Pflug, 1965 GENUS
 
 #### Status
 ACCEPTED

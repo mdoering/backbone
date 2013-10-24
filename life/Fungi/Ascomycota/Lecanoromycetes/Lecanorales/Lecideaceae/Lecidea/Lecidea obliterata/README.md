@@ -1,5 +1,4 @@
-Lecidea obliterata (Pers.) Chevall.. SPECIES
-=======
+# Lecidea obliterata (Pers.) Chevall.. SPECIES
 
 #### Status
 ACCEPTED

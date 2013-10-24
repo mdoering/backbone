@@ -1,5 +1,4 @@
-Tetracladium palmatum A. Roldán, 1989 SPECIES
-=======
+# Tetracladium palmatum A. Roldán, 1989 SPECIES
 
 #### Status
 ACCEPTED

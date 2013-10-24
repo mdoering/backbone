@@ -1,5 +1,4 @@
-Sporophagomyces K. Pöldmaa & Samuels GENUS
-=======
+# Sporophagomyces K. Pöldmaa & Samuels GENUS
 
 #### Status
 ACCEPTED

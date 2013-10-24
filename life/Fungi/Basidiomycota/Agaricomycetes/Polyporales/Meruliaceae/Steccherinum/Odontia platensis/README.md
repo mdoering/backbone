@@ -1,5 +1,4 @@
-Odontia platensis Speg. SPECIES
-=======
+# Odontia platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

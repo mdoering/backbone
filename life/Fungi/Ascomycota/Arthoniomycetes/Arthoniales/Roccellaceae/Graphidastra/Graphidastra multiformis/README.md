@@ -1,14 +1,13 @@
-Dirina multiformis Mont. & Bosch SPECIES
-=======
+# Graphidastra multiformis (Mont. & Bosch) G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 103: 82 (1991)
 
 #### Original name
 Dirina multiformis Mont. & Bosch

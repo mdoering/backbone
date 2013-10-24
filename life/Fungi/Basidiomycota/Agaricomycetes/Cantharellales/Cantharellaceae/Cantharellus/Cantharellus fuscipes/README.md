@@ -1,5 +1,4 @@
-Cantharellus fuscipes Bres. SPECIES
-=======
+# Cantharellus fuscipes Bres. SPECIES
 
 #### Status
 ACCEPTED

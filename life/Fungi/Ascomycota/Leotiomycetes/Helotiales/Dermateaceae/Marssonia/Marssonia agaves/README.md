@@ -1,5 +1,4 @@
-Marssonia agaves Earle SPECIES
-=======
+# Marssonia agaves Earle SPECIES
 
 #### Status
 ACCEPTED

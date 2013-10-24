@@ -1,5 +1,4 @@
-Stereocaulon confluens f. confluens FORM
-=======
+# Stereocaulon confluens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon confluens f. confluens
+Stereocaulon confluens Müll. Arg.
 
 ### Remarks
 null

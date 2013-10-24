@@ -1,5 +1,4 @@
-Gloeocapsa opaca var. pellucida Nägeli VARIETY
-=======
+# Gloeocapsa opaca Nägeli SPECIES
 
 #### Status
 ACCEPTED

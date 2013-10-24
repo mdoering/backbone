@@ -1,5 +1,4 @@
-Strobilomyces annulatus Corner SPECIES
-=======
+# Strobilomyces annulatus Corner SPECIES
 
 #### Status
 ACCEPTED

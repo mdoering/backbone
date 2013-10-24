@@ -1,5 +1,4 @@
-Usnea carpatica Motyka SPECIES
-=======
+# Usnea carpatica Motyka SPECIES
 
 #### Status
 ACCEPTED

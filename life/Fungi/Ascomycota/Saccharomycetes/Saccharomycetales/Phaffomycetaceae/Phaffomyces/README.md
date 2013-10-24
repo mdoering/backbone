@@ -1,5 +1,4 @@
-Phaffomyces Y. Yamada GENUS
-=======
+# Phaffomyces Y. Yamada GENUS
 
 #### Status
 ACCEPTED

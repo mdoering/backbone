@@ -1,5 +1,4 @@
-Sporormiella macrospora Nann. SPECIES
-=======
+# Sporormiella macrospora Nann. SPECIES
 
 #### Status
 ACCEPTED

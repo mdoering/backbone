@@ -1,5 +1,4 @@
-Agaricus pselliophorus Berk. & Broome SPECIES
-=======
+# Agaricus pselliophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

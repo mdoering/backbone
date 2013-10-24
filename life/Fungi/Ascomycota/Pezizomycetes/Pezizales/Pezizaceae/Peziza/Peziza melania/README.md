@@ -1,5 +1,4 @@
-Peziza melania Pers. SPECIES
-=======
+# Peziza melania Pers. SPECIES
 
 #### Status
 ACCEPTED

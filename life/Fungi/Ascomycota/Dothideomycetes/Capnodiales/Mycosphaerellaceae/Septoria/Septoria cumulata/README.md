@@ -1,5 +1,4 @@
-Septoria cumulata Syd. SPECIES
-=======
+# Septoria cumulata Syd. SPECIES
 
 #### Status
 ACCEPTED

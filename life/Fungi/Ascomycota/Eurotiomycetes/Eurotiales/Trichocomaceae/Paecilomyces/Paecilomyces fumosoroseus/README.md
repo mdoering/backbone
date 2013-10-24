@@ -1,17 +1,16 @@
-Paecilomyces fumosoroseus var. fumosoroseus VARIETY
-=======
+# Paecilomyces fumosoroseus (Wize) A.H.S. Br. & G. Sm., 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 40: 67 (1957)
 
 #### Original name
-Paecilomyces fumosoroseus var. fumosoroseus
+Isaria fumosorosea Wize, 1904
 
 ### Remarks
 null

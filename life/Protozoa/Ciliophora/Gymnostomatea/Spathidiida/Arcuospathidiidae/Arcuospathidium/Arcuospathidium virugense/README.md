@@ -1,5 +1,4 @@
-Arcuospathidium virugense Foissner & Xu, 2007 SPECIES
-=======
+# Arcuospathidium virugense Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphales Jülich ORDER
-=======
+# Gomphales Jülich ORDER
 
 #### Status
 ACCEPTED

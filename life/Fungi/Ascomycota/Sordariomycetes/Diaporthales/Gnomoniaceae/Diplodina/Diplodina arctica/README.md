@@ -1,5 +1,4 @@
-Diplodina arctica Lind SPECIES
-=======
+# Diplodina arctica Lind SPECIES
 
 #### Status
 ACCEPTED

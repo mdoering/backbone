@@ -1,5 +1,4 @@
-Scoliciosporum coniectum Kantvilas & Lumbsch SPECIES
-=======
+# Scoliciosporum coniectum Kantvilas & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

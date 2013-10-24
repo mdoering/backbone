@@ -1,5 +1,4 @@
-Hydnum friabile Fr. SPECIES
-=======
+# Hydnum friabile Fr. SPECIES
 
 #### Status
 ACCEPTED

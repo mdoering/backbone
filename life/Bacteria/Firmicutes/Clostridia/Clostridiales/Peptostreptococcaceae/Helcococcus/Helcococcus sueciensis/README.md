@@ -1,5 +1,4 @@
-Helcococcus sueciensis Collins et al., 2004 SPECIES
-=======
+# Helcococcus sueciensis Collins et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

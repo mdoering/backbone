@@ -1,5 +1,4 @@
-Pilocarpon aterulum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Pilocarpon aterulum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

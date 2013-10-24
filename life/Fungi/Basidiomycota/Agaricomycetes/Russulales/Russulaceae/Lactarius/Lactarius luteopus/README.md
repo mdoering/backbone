@@ -1,5 +1,4 @@
-Lactarius luteopus Verbeken SPECIES
-=======
+# Lactarius luteopus Verbeken SPECIES
 
 #### Status
 ACCEPTED

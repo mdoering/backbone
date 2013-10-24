@@ -1,5 +1,4 @@
-Ophiovalsa valsoides (Rehm) Glawe & J.D. Jensen SPECIES
-=======
+# Ophiovalsa valsoides (Rehm) Glawe & J.D. Jensen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium interruptum Kützing SPECIES
-=======
+# Phormidium interruptum Kützing SPECIES
 
 #### Status
 ACCEPTED

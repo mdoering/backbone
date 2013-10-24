@@ -1,5 +1,4 @@
-Diplodia secalis (Lib.) Speg. & Roum. SPECIES
-=======
+# Diplodia secalis (Lib.) Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

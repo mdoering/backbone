@@ -1,5 +1,4 @@
-Entoloma aurantium (Manim. & Leelav.) Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma aurantium (Manim. & Leelav.) Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

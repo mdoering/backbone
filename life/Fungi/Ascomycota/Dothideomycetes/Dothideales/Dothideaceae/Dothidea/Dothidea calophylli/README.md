@@ -1,5 +1,4 @@
-Dothidea calophylli Berk. & Broome SPECIES
-=======
+# Dothidea calophylli Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

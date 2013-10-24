@@ -1,5 +1,4 @@
-Rhodophyllus nudipileus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus nudipileus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glottimorpha asiatica Timofeev, 1966 SPECIES
-=======
+# Glottimorpha asiatica Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

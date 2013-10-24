@@ -1,5 +1,4 @@
-Pyrenula circumfusa (Nyl.) Trevis. SPECIES
-=======
+# Pyrenula circumfusa (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

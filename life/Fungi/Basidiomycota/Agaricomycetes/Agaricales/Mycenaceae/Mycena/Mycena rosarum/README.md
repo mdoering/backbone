@@ -1,5 +1,4 @@
-Mycena rosarum Velen. SPECIES
-=======
+# Mycena rosarum Velen. SPECIES
 
 #### Status
 ACCEPTED

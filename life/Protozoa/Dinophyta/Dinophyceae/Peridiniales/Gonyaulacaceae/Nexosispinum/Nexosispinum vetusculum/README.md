@@ -1,5 +1,4 @@
-Nexosispinum vetusculum (R. J. Davey) R. J. Davey SPECIES
-=======
+# Nexosispinum vetusculum (R. J. Davey) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

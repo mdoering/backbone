@@ -1,5 +1,4 @@
-Irenina buddleyicola (Henn.) F. Stevens SPECIES
-=======
+# Irenina buddleyicola (Henn.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

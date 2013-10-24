@@ -1,5 +1,4 @@
-Meringosphaera mediterannea Lohmann SPECIES
-=======
+# Meringosphaera mediterannea Lohmann SPECIES
 
 #### Status
 ACCEPTED

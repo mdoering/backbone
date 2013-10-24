@@ -1,5 +1,4 @@
-Xizangia Zhang, 1982 GENUS
-=======
+# Xizangia Zhang, 1982 GENUS
 
 #### Status
 ACCEPTED

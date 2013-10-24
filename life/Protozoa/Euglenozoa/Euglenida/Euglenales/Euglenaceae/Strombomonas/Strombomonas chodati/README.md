@@ -1,5 +1,4 @@
-Strombomonas chodati SPECIES
-=======
+# Strombomonas chodati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladoderris cartilaginea Massee, 1899 SPECIES
-=======
+# Stereopsis cartilaginea (Massee) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 172 (1899)
+Beih. Nova Hedwigia 18: 295 (1965)
 
 #### Original name
 Cladoderris cartilaginea Massee, 1899

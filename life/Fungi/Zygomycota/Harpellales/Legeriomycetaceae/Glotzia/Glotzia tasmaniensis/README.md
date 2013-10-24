@@ -1,5 +1,4 @@
-Glotzia tasmaniensis Lichtw. & M.C. Williams, 1990 SPECIES
-=======
+# Glotzia tasmaniensis Lichtw. & M.C. Williams, 1990 SPECIES
 
 #### Status
 ACCEPTED

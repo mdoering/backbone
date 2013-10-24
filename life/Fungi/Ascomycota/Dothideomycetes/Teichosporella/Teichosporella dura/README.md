@@ -1,5 +1,4 @@
-Teichosporella dura Sacc., 1895 SPECIES
-=======
+# Teichosporella dura Sacc., 1895 SPECIES
 
 #### Status
 ACCEPTED

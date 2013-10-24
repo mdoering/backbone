@@ -1,5 +1,4 @@
-Parmelia scortella Nyl. SPECIES
-=======
+# Parmelia scortella Nyl. SPECIES
 
 #### Status
 ACCEPTED

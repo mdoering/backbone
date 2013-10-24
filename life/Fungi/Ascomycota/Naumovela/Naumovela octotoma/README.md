@@ -1,5 +1,4 @@
-Naumovela octotoma Kravtzev SPECIES
-=======
+# Naumovela octotoma Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Echidnodella syzygimae Subhedar & V.G. Rao SPECIES
-=======
+# Echidnodella syzygii Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 50: 26 (1977)
 
 #### Original name
-Echidnodella syzygimae Subhedar & V.G. Rao
+Echidnodella syzygii Subhedar & V.G. Rao
 
 ### Remarks
 null

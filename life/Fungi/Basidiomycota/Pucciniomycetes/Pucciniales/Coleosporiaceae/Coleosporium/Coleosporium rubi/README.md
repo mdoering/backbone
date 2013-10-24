@@ -1,5 +1,4 @@
-Coleosporium rubi Ellis & Holw. SPECIES
-=======
+# Coleosporium rubi Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

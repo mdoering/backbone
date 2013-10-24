@@ -1,5 +1,4 @@
-Karlingia polonica Hassan SPECIES
-=======
+# Karlingia polonica Hassan SPECIES
 
 #### Status
 ACCEPTED

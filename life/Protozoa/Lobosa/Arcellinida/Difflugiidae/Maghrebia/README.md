@@ -1,5 +1,4 @@
-Maghrebia Gauthier-Lièvre & Thomas, 1958 GENUS
-=======
+# Maghrebia Gauthier-Lièvre & Thomas, 1958 GENUS
 
 #### Status
 ACCEPTED

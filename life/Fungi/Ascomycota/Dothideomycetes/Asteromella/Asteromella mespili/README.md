@@ -1,5 +1,4 @@
-Asteromella mespili (Roberge ex Desm.) Petr. SPECIES
-=======
+# Asteromella mespili (Roberge ex Desm.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pyrenogaster pityophilus Malençon & Riousset, 1977 SPECIES
-=======
+# Schenella pityophilus (Malençon & Riousset) Estrada & Lado, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 93(3): 310 (1977)
+Mycologia 97(1): 147 (2005)
 
 #### Original name
 Pyrenogaster pityophilus Malençon & Riousset, 1977

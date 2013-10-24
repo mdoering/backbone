@@ -1,5 +1,4 @@
-Hebeloma gregariiforme Murrill SPECIES
-=======
+# Hebeloma gregariiforme Murrill SPECIES
 
 #### Status
 ACCEPTED

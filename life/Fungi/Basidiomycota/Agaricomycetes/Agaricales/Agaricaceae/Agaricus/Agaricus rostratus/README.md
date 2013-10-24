@@ -1,5 +1,4 @@
-Agaricus rostratus Batsch SPECIES
-=======
+# Agaricus rostratus Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta bryophila (A. Racov.) Melnik SPECIES
-=======
+# Ascochyta bryophila (A. Racov.) Melnik SPECIES
 
 #### Status
 ACCEPTED

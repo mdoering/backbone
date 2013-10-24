@@ -1,5 +1,4 @@
-Selenosporium GENUS
-=======
+# Selenosporium GENUS
 
 #### Status
 ACCEPTED

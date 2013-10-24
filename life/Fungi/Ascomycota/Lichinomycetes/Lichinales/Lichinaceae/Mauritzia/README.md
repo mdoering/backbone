@@ -1,5 +1,4 @@
-Mauritzia GENUS
-=======
+# Mauritzia GENUS
 
 #### Status
 ACCEPTED

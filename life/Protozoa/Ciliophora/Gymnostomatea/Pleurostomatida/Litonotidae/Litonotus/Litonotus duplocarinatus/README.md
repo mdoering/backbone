@@ -1,5 +1,4 @@
-Litonotus duplocarinatus Vuxanovici, 1960 SPECIES
-=======
+# Litonotus duplocarinatus Vuxanovici, 1960 SPECIES
 
 #### Status
 ACCEPTED

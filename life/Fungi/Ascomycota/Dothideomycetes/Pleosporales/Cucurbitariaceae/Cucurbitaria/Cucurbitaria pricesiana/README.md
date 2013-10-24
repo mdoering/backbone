@@ -1,14 +1,13 @@
-Pleospora pricesiana (Bagnis) Sacc., 1883 SPECIES
-=======
+# Cucurbitaria pricesiana Bagnis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 251 (1883)
+Micol. Rom. 2: 14
 
 #### Original name
 Cucurbitaria pricesiana Bagnis

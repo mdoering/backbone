@@ -1,5 +1,4 @@
-Septomyxa amorphae Allesch. SPECIES
-=======
+# Septomyxa amorphae Allesch. SPECIES
 
 #### Status
 ACCEPTED

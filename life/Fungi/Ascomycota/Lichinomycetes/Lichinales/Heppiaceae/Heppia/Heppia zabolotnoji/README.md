@@ -1,5 +1,4 @@
-Heppia zabolotnoji Elenkin SPECIES
-=======
+# Heppia zabolotnoji Elenkin SPECIES
 
 #### Status
 ACCEPTED

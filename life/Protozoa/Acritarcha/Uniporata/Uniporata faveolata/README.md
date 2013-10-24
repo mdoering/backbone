@@ -1,5 +1,4 @@
-Uniporata faveolata N. Umnova, 1975 SPECIES
-=======
+# Uniporata faveolata N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

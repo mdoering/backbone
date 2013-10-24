@@ -1,5 +1,4 @@
-Dendrogaster utriculatus (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Dendrogaster utriculatus (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

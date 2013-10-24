@@ -1,5 +1,4 @@
-Viridispora Samuels & Rossman GENUS
-=======
+# Viridispora Samuels & Rossman GENUS
 
 #### Status
 ACCEPTED

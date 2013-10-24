@@ -1,5 +1,4 @@
-Cordana polyseptata Preuss SPECIES
-=======
+# Cordana polyseptata Preuss SPECIES
 
 #### Status
 ACCEPTED

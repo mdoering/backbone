@@ -1,5 +1,4 @@
-Mycosphaerella feijoae Artemiev SPECIES
-=======
+# Mycosphaerella feijoae Artemiev SPECIES
 
 #### Status
 ACCEPTED

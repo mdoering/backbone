@@ -1,5 +1,4 @@
-Hyphoderma multicystidiatum Ryvarden, 1978 SPECIES
-=======
+# Hyphoderma multicystidiatum Ryvarden, 1978 SPECIES
 
 #### Status
 ACCEPTED

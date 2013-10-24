@@ -1,5 +1,4 @@
-Pucciniastrum clemensiae Arthur & Cummins SPECIES
-=======
+# Pucciniastrum clemensiae Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

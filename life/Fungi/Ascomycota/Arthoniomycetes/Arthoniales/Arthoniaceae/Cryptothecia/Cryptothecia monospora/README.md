@@ -1,5 +1,4 @@
-Cryptothecia monospora (Vain.) Makhija & Patw. SPECIES
-=======
+# Cryptothecia monospora (Vain.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola chorleyi Hansf. SPECIES
-=======
+# Meliola chorleyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

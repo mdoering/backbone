@@ -1,5 +1,4 @@
-Hendersonia ilicina Alcalde SPECIES
-=======
+# Hendersonia ilicina Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria macrostomella Ces. SPECIES
-=======
+# Sphaeria macrostomella Ces. SPECIES
 
 #### Status
 ACCEPTED

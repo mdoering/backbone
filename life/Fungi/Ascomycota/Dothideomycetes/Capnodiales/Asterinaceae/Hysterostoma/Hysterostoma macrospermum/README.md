@@ -1,5 +1,4 @@
-Hysterostoma macrospermum Bat. & J.L. Bezerra SPECIES
-=======
+# Hysterostoma macrospermum Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

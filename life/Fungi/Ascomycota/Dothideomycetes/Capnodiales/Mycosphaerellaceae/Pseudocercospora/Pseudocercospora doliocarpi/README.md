@@ -1,5 +1,4 @@
-Pseudocercospora doliocarpi U. Braun & R.F. Castañeda SPECIES
-=======
+# Pseudocercospora doliocarpi U. Braun & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

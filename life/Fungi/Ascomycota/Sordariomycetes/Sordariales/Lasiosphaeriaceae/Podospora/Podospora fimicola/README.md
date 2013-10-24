@@ -1,17 +1,16 @@
-Podospora fimiseda (Ces. & De Not.) Niessl, 1883 SPECIES
-=======
+# Podospora fimicola Ces. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+null
 
 #### Original name
-Sordaria fimiseda Ces. & De Not., 1863
+Podospora fimicola Ces.
 
 ### Remarks
 null

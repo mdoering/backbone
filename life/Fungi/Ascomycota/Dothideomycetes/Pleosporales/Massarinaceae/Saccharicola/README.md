@@ -1,5 +1,4 @@
-Saccharicola D. Hawksw. & O.E. Erikss. GENUS
-=======
+# Saccharicola D. Hawksw. & O.E. Erikss. GENUS
 
 #### Status
 ACCEPTED

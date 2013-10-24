@@ -1,5 +1,4 @@
-Pholiota atripes A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota atripes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

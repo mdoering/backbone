@@ -1,14 +1,13 @@
-Phaeocyphella fraxinicola (Berk. & Broome) Rea, 1922 SPECIES
-=======
+# Episphaeria fraxinicola (Berk. & Broome) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 704 (1922)
+Persoonia 2(3): 336 (1962)
 
 #### Original name
 Cyphella fraxinicola Berk. & Broome, 1875

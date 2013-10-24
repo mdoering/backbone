@@ -1,5 +1,4 @@
-Diplodina origani Picb., 1925 SPECIES
-=======
+# Diplodina origani Picb., 1925 SPECIES
 
 #### Status
 ACCEPTED

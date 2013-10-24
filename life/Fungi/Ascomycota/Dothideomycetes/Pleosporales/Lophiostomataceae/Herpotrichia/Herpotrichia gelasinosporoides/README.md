@@ -1,5 +1,4 @@
-Herpotrichia gelasinosporoides (J.N. Kapoor, S.P. Lal & Bahl) Arx SPECIES
-=======
+# Herpotrichia gelasinosporoides (J.N. Kapoor, S.P. Lal & Bahl) Arx SPECIES
 
 #### Status
 ACCEPTED

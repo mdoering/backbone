@@ -1,5 +1,4 @@
-Prospodium plagiopus (Mont.) Arthur SPECIES
-=======
+# Prospodium plagiopus (Mont.) Arthur SPECIES
 
 #### Status
 ACCEPTED

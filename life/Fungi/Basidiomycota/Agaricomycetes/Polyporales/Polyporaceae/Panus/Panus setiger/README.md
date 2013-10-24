@@ -1,5 +1,4 @@
-Panus setiger (Lév.) Teng SPECIES
-=======
+# Panus setiger (Lév.) Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramulispora zonata Nag Raj & Ponnappa, 1968 SPECIES
-=======
+# Ramulispora zonata Nag Raj & Ponnappa, 1968 SPECIES
 
 #### Status
 ACCEPTED

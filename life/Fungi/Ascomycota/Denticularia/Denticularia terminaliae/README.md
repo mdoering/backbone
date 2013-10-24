@@ -1,5 +1,4 @@
-Denticularia terminaliae R.K. Verma & N. Sharma SPECIES
-=======
+# Denticularia terminaliae R.K. Verma & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

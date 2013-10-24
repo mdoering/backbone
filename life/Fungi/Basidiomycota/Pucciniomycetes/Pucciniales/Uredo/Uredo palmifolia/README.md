@@ -1,5 +1,4 @@
-Uredo palmifolia Cumm. SPECIES
-=======
+# Uredo palmifolia Cumm. SPECIES
 
 #### Status
 ACCEPTED

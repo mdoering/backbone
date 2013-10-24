@@ -1,5 +1,4 @@
-Latiendothyranopsis Lipina, 1977 GENUS
-=======
+# Latiendothyranopsis Lipina, 1977 GENUS
 
 #### Status
 ACCEPTED

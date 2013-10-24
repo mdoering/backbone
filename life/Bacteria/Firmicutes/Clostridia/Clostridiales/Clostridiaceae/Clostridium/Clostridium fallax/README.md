@@ -1,11 +1,10 @@
-Vallorillus fallax (Weinberg & Séguin, 1915) Heller, 1922 SPECIES
-=======
+# Clostridium fallax (Weinberg and Séguin, 1915) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

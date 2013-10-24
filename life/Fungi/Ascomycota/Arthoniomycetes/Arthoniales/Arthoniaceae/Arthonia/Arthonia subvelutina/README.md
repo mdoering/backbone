@@ -1,14 +1,13 @@
-Arthonia subvelutinae (Vain.) R. Sant. SPECIES
-=======
+# Arthonia subvelutina (Vain.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 12(no. 1): 75 (1952)
 
 #### Original name
 Lecidea subvelutina Vain.

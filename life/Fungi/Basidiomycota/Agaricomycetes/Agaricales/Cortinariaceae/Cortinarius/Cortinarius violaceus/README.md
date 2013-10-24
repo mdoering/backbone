@@ -1,17 +1,16 @@
-Cortinarius violaceus subsp. violaceus SUBSPECIES
-=======
+# Cortinarius violaceus (L.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nat. Arr. Brit. Pl. (London) 1: 217 (1821)
 
 #### Original name
-Cortinarius violaceus subsp. violaceus
+Agaricus violaceus L., 1753
 
 ### Remarks
 null

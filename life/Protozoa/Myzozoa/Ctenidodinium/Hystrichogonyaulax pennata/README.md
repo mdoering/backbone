@@ -1,5 +1,4 @@
-Hystrichogonyaulax pennata (Riley in Fisher & Riley) Lentin & Williams SPECIES
-=======
+# Hystrichogonyaulax pennata (Riley in Fisher & Riley) Lentin & Williams SPECIES
 
 #### Status
 DOUBTFUL

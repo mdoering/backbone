@@ -1,5 +1,4 @@
-Amphoroblastia leptospora (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia leptospora (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

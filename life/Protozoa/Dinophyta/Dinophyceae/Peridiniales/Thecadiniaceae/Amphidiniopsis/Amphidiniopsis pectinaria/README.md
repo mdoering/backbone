@@ -1,5 +1,4 @@
-Amphidiniopsis pectinaria Toriumi, Yoshimatsu & Dodge, 2002 SPECIES
-=======
+# Amphidiniopsis pectinaria Toriumi, Yoshimatsu & Dodge, 2002 SPECIES
 
 #### Status
 ACCEPTED

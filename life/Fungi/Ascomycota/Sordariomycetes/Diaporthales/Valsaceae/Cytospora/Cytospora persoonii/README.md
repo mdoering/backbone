@@ -1,5 +1,4 @@
-Cytospora persoonii anon. SPECIES
-=======
+# Cytospora persoonii anon. SPECIES
 
 #### Status
 ACCEPTED

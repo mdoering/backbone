@@ -1,5 +1,4 @@
-Coprinus alopecia Lasch, 1838 SPECIES
-=======
+# Coprinus alopecia Lasch, 1838 SPECIES
 
 #### Status
 ACCEPTED

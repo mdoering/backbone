@@ -1,5 +1,4 @@
-Placidiopsis trachytica (Hazsl.) Servít SPECIES
-=======
+# Placidiopsis trachytica (Hazsl.) Servít SPECIES
 
 #### Status
 ACCEPTED

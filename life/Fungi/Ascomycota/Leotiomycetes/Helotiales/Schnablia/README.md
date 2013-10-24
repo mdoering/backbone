@@ -1,5 +1,4 @@
-Schnablia Saccardo & P. Sydow, 1899 GENUS
-=======
+# Schnablia Saccardo & P. Sydow, 1899 GENUS
 
 #### Status
 ACCEPTED

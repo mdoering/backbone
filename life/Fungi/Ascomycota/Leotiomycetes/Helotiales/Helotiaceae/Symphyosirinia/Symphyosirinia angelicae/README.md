@@ -1,5 +1,4 @@
-Symphyosirinia angelicae E.A. Ellis, 1956 SPECIES
-=======
+# Symphyosirinia angelicae E.A. Ellis, 1956 SPECIES
 
 #### Status
 ACCEPTED

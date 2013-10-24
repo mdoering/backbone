@@ -1,5 +1,4 @@
-Polyporus fuligineoalbus Trog SPECIES
-=======
+# Polyporus fuligineoalbus Trog SPECIES
 
 #### Status
 ACCEPTED

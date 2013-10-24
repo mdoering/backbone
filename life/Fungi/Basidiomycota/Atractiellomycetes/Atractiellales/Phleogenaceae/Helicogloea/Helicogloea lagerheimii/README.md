@@ -1,17 +1,16 @@
-Saccoblastia sebacea var. sebacea VARIETY
-=======
+# Helicogloea lagerheimii Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 25: 15 (1909)
+Bull. Soc. mycol. Fr. 8: 121 (1892)
 
 #### Original name
-Saccoblastia sebacea var. sebacea
+Helicogloea lagerheimii Pat., 1892
 
 ### Remarks
 null

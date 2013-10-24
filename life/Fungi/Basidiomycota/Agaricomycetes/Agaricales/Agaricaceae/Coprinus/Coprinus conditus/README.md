@@ -1,5 +1,4 @@
-Coprinus conditus Godey SPECIES
-=======
+# Coprinus conditus Godey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyra musicola Henn. SPECIES
-=======
+# Psathyra musicola Henn. SPECIES
 
 #### Status
 ACCEPTED

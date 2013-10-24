@@ -1,5 +1,4 @@
-Sagedia bubulcae (A. Massal.) Garov. SPECIES
-=======
+# Sagedia bubulcae (A. Massal.) Garov. SPECIES
 
 #### Status
 ACCEPTED

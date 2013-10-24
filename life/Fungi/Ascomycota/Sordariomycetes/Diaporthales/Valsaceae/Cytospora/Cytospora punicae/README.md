@@ -1,5 +1,4 @@
-Cytospora punicae Sacc., 1878 SPECIES
-=======
+# Cytospora punicae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

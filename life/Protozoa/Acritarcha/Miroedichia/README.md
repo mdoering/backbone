@@ -1,5 +1,4 @@
-Miroedichia T.N. Hermann in T.V. Jankauskas, 1989 GENUS
-=======
+# Miroedichia T.N. Hermann in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

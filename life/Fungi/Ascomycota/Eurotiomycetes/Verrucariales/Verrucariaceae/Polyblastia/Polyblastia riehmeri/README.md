@@ -1,5 +1,4 @@
-Polyblastia riehmeri Grummann SPECIES
-=======
+# Polyblastia riehmeri Grummann SPECIES
 
 #### Status
 ACCEPTED

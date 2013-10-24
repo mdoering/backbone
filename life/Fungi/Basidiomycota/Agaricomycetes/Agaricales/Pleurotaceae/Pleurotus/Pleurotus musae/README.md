@@ -1,5 +1,4 @@
-Pleurotus musae Corner, 1981 SPECIES
-=======
+# Pleurotus musae Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

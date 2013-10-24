@@ -1,5 +1,4 @@
-Flectospiroides Palmieri, 2004 GENUS
-=======
+# Flectospiroides Palmieri, 2004 GENUS
 
 #### Status
 ACCEPTED

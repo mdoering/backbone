@@ -1,5 +1,4 @@
-Pyrenopeziza nigrificans var. nigrificans VARIETY
-=======
+# Pyrenopeziza nigrificans (G. Winter) Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenopeziza nigrificans var. nigrificans
+Niptera nigrificans G. Winter
 
 ### Remarks
 null

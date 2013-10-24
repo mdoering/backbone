@@ -1,8 +1,7 @@
-Patellaria garovaglii Trevis. SPECIES
-=======
+# Patellaria garovaglioi Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Patellaria garovaglii Trevis.
+Patellaria garovaglioi Trevis.
 
 ### Remarks
 null

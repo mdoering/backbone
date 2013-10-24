@@ -1,5 +1,4 @@
-Vermicularia minima P. Karst. SPECIES
-=======
+# Vermicularia minima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

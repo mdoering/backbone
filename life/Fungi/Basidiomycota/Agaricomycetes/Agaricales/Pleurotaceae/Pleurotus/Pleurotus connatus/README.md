@@ -1,5 +1,4 @@
-Pleurotus connatus Berk. & M.A. Curtis SPECIES
-=======
+# Pleurotus connatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

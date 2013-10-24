@@ -1,5 +1,4 @@
-Diatrypella caryotae R.K. Verma SPECIES
-=======
+# Diatrypella caryotae R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

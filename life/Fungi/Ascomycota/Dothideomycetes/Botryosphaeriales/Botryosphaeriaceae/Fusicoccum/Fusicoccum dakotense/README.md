@@ -1,5 +1,4 @@
-Fusicoccum dakotense Sacc. & P. Syd. SPECIES
-=======
+# Fusicoccum dakotense Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

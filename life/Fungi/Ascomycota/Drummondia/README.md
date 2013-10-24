@@ -1,5 +1,4 @@
-Drummondia GENUS
-=======
+# Drummondia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flabellophora deceptiva Corner, 1987 SPECIES
-=======
+# Flabellophora deceptiva Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

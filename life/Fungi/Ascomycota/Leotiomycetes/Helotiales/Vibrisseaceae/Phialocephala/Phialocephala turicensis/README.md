@@ -1,5 +1,4 @@
-Phialocephala turicensis Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala turicensis Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

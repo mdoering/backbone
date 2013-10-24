@@ -1,5 +1,4 @@
-Ceuthocarpon GENUS
-=======
+# Ceuthocarpon GENUS
 
 #### Status
 ACCEPTED

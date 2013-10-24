@@ -1,5 +1,4 @@
-Hymenochaete americana Gresl. & Parmasto, 2001 SPECIES
-=======
+# Hymenochaete americana Gresl. & Parmasto, 2001 SPECIES
 
 #### Status
 ACCEPTED

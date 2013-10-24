@@ -1,5 +1,4 @@
-Acrodictys queenslandica Matsush. SPECIES
-=======
+# Acrodictys queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

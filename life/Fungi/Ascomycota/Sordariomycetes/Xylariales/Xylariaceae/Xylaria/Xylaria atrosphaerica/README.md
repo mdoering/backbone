@@ -1,5 +1,4 @@
-Xylaria atrosphaerica (Cooke & Massee) Callan & J.D. Rogers SPECIES
-=======
+# Xylaria atrosphaerica (Cooke & Massee) Callan & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

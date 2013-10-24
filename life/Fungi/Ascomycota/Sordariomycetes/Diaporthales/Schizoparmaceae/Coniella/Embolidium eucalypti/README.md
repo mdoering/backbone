@@ -1,5 +1,4 @@
-Embolidium eucalypti Bat. & Peres SPECIES
-=======
+# Embolidium eucalypti Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

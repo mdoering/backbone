@@ -1,5 +1,4 @@
-Puccinia bokensis Henn. SPECIES
-=======
+# Puccinia bokensis Henn. SPECIES
 
 #### Status
 ACCEPTED

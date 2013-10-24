@@ -1,5 +1,4 @@
-Penicillium yugoslavicum C. Ramírez & Munt.-Cvetk., 1984 SPECIES
-=======
+# Penicillium yugoslavicum C. Ramírez & Munt.-Cvetk., 1984 SPECIES
 
 #### Status
 DOUBTFUL

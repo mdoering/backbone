@@ -1,5 +1,4 @@
-Lachnea acerina Velen. SPECIES
-=======
+# Lachnea acerina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma vincetoxici Hilitzer SPECIES
-=======
+# Leptostroma vincetoxici Hilitzer SPECIES
 
 #### Status
 ACCEPTED

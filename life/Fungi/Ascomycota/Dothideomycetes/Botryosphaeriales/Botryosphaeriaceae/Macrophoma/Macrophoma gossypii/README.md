@@ -1,5 +1,4 @@
-Macrophoma gossypii Sawada SPECIES
-=======
+# Macrophoma gossypii Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Castellaniella denitrificans Kämpfer et al., 2006 SPECIES
-=======
+# Castellaniella denitrificans Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

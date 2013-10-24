@@ -1,5 +1,4 @@
-Grovesia pulchella Dennis, 1960 SPECIES
-=======
+# Grovesia pulchella Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED

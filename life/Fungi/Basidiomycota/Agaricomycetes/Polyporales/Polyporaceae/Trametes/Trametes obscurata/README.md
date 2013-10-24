@@ -1,5 +1,4 @@
-Trametes obscurata Bres. SPECIES
-=======
+# Trametes obscurata Bres. SPECIES
 
 #### Status
 ACCEPTED

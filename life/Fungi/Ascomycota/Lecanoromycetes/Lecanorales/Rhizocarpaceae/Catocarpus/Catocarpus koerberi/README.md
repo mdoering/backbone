@@ -1,5 +1,4 @@
-Catocarpus koerberi Stein SPECIES
-=======
+# Catocarpus koerberi Stein SPECIES
 
 #### Status
 ACCEPTED

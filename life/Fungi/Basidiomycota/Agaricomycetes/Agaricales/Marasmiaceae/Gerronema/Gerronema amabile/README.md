@@ -1,5 +1,4 @@
-Gerronema amabile (Berk.) Raithelh. SPECIES
-=======
+# Gerronema amabile (Berk.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

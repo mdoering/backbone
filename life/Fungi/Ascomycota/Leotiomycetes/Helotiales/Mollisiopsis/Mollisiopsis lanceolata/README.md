@@ -1,14 +1,13 @@
-Mollisia lanceolata Gremmen, 1956 SPECIES
-=======
+# Mollisiopsis lanceolata (Gremmen) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 26: 35 (1956)
+in Hawksworth & Sivanesan, Trans. Br. mycol. Soc. 64(1): 106 (1975)
 
 #### Original name
 Mollisia lanceolata Gremmen, 1956

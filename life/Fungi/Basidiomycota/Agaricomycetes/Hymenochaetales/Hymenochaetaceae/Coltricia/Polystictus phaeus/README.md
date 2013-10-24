@@ -1,5 +1,4 @@
-Polystictus phaeus Yasuda SPECIES
-=======
+# Polystictus phaeus Yasuda SPECIES
 
 #### Status
 ACCEPTED

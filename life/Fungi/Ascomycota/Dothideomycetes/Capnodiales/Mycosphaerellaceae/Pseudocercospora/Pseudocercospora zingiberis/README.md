@@ -1,5 +1,4 @@
-Pseudocercospora zingiberis (Rathaiah) Deighton SPECIES
-=======
+# Pseudocercospora zingiberis (Rathaiah) Deighton SPECIES
 
 #### Status
 ACCEPTED

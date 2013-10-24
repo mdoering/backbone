@@ -1,5 +1,4 @@
-Cylindrosporium camelliae Gonz. Frag. SPECIES
-=======
+# Cylindrosporium camelliae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

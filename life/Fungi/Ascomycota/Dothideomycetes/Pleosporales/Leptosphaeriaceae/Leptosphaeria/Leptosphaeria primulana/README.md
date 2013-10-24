@@ -1,5 +1,4 @@
-Leptosphaeria primulana Allesch. SPECIES
-=======
+# Leptosphaeria primulana Allesch. SPECIES
 
 #### Status
 ACCEPTED

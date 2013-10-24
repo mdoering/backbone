@@ -1,5 +1,4 @@
-Heibergella kendelbachia (Morbey, 1975) Lentin & Williams, 1981 SPECIES
-=======
+# Heibergella kendelbachia (Morbey, 1975) Lentin & Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

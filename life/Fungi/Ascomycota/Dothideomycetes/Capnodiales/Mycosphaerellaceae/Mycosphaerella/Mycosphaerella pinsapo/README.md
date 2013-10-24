@@ -1,5 +1,4 @@
-Mycosphaerella pinsapo (Thüm.) Lindau SPECIES
-=======
+# Mycosphaerella pinsapo (Thüm.) Lindau SPECIES
 
 #### Status
 ACCEPTED

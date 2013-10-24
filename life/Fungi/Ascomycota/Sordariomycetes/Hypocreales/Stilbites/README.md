@@ -1,5 +1,4 @@
-Stilbites Pia GENUS
-=======
+# Stilbites Pia GENUS
 
 #### Status
 ACCEPTED

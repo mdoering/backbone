@@ -1,5 +1,4 @@
-Teichospora kansensis Ellis & Everh. SPECIES
-=======
+# Teichospora kansensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidites moniliformis J.A. Menge & Göpp. SPECIES
-=======
+# Oidites moniliformis J.A. Menge & Göpp. SPECIES
 
 #### Status
 ACCEPTED

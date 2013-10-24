@@ -1,5 +1,4 @@
-Lachnella juniperi Richon SPECIES
-=======
+# Lachnella juniperi Richon SPECIES
 
 #### Status
 ACCEPTED

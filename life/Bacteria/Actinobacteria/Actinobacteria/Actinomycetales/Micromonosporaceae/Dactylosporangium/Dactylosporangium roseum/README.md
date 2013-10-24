@@ -1,5 +1,4 @@
-Dactylosporangium roseum Shomura et al., 1985 SPECIES
-=======
+# Dactylosporangium roseum Shomura et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

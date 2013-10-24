@@ -1,5 +1,4 @@
-Phyllosticta hamamelidis Peck SPECIES
-=======
+# Phyllosticta hamamelidis Peck SPECIES
 
 #### Status
 ACCEPTED

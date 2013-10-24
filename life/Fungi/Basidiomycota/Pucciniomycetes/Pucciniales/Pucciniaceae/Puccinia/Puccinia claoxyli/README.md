@@ -1,5 +1,4 @@
-Puccinia claoxyli Syd. & P. Syd. SPECIES
-=======
+# Puccinia claoxyli Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

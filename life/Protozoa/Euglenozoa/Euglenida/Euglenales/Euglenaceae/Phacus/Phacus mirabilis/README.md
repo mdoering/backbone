@@ -1,5 +1,4 @@
-Phacus mirabilis Pochmann SPECIES
-=======
+# Phacus mirabilis Pochmann SPECIES
 
 #### Status
 ACCEPTED

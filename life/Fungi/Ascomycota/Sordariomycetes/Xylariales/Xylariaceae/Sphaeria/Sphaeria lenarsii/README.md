@@ -1,5 +1,4 @@
-Sphaeria lenarsii Westend. SPECIES
-=======
+# Sphaeria lenarsii Westend. SPECIES
 
 #### Status
 ACCEPTED

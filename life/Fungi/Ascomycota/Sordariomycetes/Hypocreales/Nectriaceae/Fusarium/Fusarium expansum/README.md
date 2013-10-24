@@ -1,5 +1,4 @@
-Fusarium expansum Schltdl. SPECIES
-=======
+# Fusarium expansum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

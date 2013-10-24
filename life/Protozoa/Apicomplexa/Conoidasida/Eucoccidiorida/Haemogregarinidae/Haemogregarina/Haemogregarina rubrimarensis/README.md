@@ -1,5 +1,4 @@
-Haemogregarina rubrimarensis Saunders, 1960 SPECIES
-=======
+# Haemogregarina rubrimarensis Saunders, 1960 SPECIES
 
 #### Status
 ACCEPTED

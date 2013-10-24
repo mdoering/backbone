@@ -1,5 +1,4 @@
-Vararia P. Karsten, 1898 GENUS
-=======
+# Vararia P. Karsten, 1898 GENUS
 
 #### Status
 ACCEPTED

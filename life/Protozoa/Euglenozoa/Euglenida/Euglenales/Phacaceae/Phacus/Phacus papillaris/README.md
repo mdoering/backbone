@@ -1,5 +1,4 @@
-Phacus papillaris Srawinski SPECIES
-=======
+# Phacus papillaris Srawinski SPECIES
 
 #### Status
 ACCEPTED

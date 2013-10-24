@@ -1,5 +1,4 @@
-Leptosphaeria oryzicola Hara SPECIES
-=======
+# Leptosphaeria oryzicola Hara SPECIES
 
 #### Status
 ACCEPTED

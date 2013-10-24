@@ -1,5 +1,4 @@
-Imbricaria diffusa Körb. SPECIES
-=======
+# Imbricaria diffusa Körb. SPECIES
 
 #### Status
 ACCEPTED

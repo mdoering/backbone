@@ -1,5 +1,4 @@
-Phaulomyces triramosus Thaxt., 1931 SPECIES
-=======
+# Phaulomyces triramosus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

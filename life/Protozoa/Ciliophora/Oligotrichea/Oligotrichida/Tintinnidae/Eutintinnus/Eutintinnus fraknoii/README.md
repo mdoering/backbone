@@ -1,5 +1,4 @@
-Eutintinnus fraknoii (Daday, 1887) SPECIES
-=======
+# Eutintinnus fraknoii (Daday, 1887) SPECIES
 
 #### Status
 ACCEPTED

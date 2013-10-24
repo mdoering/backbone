@@ -1,5 +1,4 @@
-Agaricus piriformis Pers. SPECIES
-=======
+# Agaricus piriformis Pers. SPECIES
 
 #### Status
 ACCEPTED

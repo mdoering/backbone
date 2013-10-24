@@ -1,5 +1,4 @@
-Tholospyris gephyristes Huelsemann, 1963 SPECIES
-=======
+# Tholospyris gephyristes Huelsemann, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula decumbens Corner, K.S. Thind & Dev, 1957 SPECIES
-=======
+# Pterula decumbens Corner, K.S. Thind & Dev, 1957 SPECIES
 
 #### Status
 ACCEPTED

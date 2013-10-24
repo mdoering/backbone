@@ -1,5 +1,4 @@
-Gloeosporium catalpae Ellis & Everh. SPECIES
-=======
+# Gloeosporium catalpae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

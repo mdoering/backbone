@@ -1,5 +1,4 @@
-Pyrenula chionea (Mont.) Trevis. SPECIES
-=======
+# Pyrenula chionea (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

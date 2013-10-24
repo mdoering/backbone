@@ -1,5 +1,4 @@
-Synura mollispina SPECIES
-=======
+# Synura mollispina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma caeruleopallescens Hesler SPECIES
-=======
+# Entoloma caeruleopallescens Hesler SPECIES
 
 #### Status
 ACCEPTED

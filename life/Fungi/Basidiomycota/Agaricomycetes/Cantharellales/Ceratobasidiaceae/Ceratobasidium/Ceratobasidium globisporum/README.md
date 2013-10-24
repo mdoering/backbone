@@ -1,5 +1,4 @@
-Ceratobasidium globisporum Warcup & P.H.B. Talbot, 1980 SPECIES
-=======
+# Ceratobasidium globisporum Warcup & P.H.B. Talbot, 1980 SPECIES
 
 #### Status
 ACCEPTED

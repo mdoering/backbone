@@ -1,5 +1,4 @@
-Keinstirschia J. Reid & C. Booth GENUS
-=======
+# Keinstirschia J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

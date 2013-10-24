@@ -1,5 +1,4 @@
-Stephanium Haeckel, 1887 GENUS
-=======
+# Stephanium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

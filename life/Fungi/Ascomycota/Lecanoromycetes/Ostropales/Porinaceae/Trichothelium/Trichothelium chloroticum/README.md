@@ -1,17 +1,16 @@
-Porina chlorotica var. chlorotica VARIETY
-=======
+# Trichothelium chloroticum (Ach.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 6: 20 (1884)
+null
 
 #### Original name
-Porina chlorotica var. chlorotica
+null
 
 ### Remarks
 null

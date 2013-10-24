@@ -1,5 +1,4 @@
-Buellia montevidensis Malme SPECIES
-=======
+# Buellia montevidensis Malme SPECIES
 
 #### Status
 ACCEPTED

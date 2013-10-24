@@ -1,5 +1,4 @@
-Urnulina Gruber, 1884 GENUS
-=======
+# Urnulina Gruber, 1884 GENUS
 
 #### Status
 ACCEPTED

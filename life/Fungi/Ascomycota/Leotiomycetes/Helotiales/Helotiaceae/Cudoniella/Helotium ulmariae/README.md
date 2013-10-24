@@ -1,5 +1,4 @@
-Helotium ulmariae Velen. SPECIES
-=======
+# Helotium ulmariae Velen. SPECIES
 
 #### Status
 ACCEPTED

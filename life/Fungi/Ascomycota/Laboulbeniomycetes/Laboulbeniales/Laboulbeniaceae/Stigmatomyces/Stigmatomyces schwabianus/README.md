@@ -1,5 +1,4 @@
-Stigmatomyces schwabianus Thaxt. SPECIES
-=======
+# Stigmatomyces schwabianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

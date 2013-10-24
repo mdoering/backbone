@@ -1,5 +1,4 @@
-Coremium compressum (Berk. & Broome) Petch SPECIES
-=======
+# Coremium compressum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

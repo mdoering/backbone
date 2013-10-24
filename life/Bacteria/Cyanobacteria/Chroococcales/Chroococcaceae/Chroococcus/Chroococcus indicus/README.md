@@ -1,5 +1,4 @@
-Chroococcus indicus Zeller SPECIES
-=======
+# Chroococcus indicus Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporonema provinciale Mont. SPECIES
-=======
+# Sporonema provinciale Mont. SPECIES
 
 #### Status
 ACCEPTED

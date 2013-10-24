@@ -1,5 +1,4 @@
-Omphalina eximia (Peck) Murrill SPECIES
-=======
+# Omphalina eximia (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

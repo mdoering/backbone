@@ -1,5 +1,4 @@
-Phaeosphaeria phragmiticola Leuchtm., 1984 SPECIES
-=======
+# Phaeosphaeria phragmiticola Leuchtm., 1984 SPECIES
 
 #### Status
 ACCEPTED

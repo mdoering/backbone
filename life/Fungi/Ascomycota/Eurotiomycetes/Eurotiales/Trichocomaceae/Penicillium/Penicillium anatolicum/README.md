@@ -1,8 +1,7 @@
-Eupenicillium anatolicum Stolk, 1968 SPECIES
-=======
+# Penicillium anatolicum Stolk, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Antonie van Leeuwenhoek 34: 46 (1968)
 
 #### Original name
-Eupenicillium anatolicum Stolk, 1968
+Penicillium anatolicum Stolk, 1968
 
 ### Remarks
 null

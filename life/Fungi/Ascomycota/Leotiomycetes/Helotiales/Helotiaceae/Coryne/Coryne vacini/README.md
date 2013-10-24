@@ -1,5 +1,4 @@
-Coryne vacini Velen. SPECIES
-=======
+# Coryne vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

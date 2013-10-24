@@ -1,5 +1,4 @@
-Lepraria leprolomopsis Diederich & Sérus. SPECIES
-=======
+# Lepraria leprolomopsis Diederich & Sérus. SPECIES
 
 #### Status
 ACCEPTED

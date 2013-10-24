@@ -1,5 +1,4 @@
-Ditremis excellens (A. Massal.) R.C. Harris SPECIES
-=======
+# Ditremis excellens (A. Massal.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

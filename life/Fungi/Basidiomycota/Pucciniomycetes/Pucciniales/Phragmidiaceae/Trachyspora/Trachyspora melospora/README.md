@@ -1,17 +1,16 @@
-Uromyces melosporus var. melosporus VARIETY
-=======
+# Trachyspora melospora (Therry) Dietel, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 21: 88 (1923)
 
 #### Original name
-Uromyces melosporus var. melosporus
+Uredo melospora Therry
 
 ### Remarks
 null

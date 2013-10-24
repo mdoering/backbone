@@ -1,5 +1,4 @@
-Solenopsora cladonioides B. D. Ryan & Timdal SPECIES
-=======
+# Solenopsora cladonioides B. D. Ryan & Timdal SPECIES
 
 #### Status
 ACCEPTED

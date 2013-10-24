@@ -1,5 +1,4 @@
-Acrothecium capsici Turconi SPECIES
-=======
+# Acrothecium capsici Turconi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanternosphaeridium Morgenroth, 1966 GENUS
-=======
+# Lanternosphaeridium Morgenroth, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auriscalpium tenellum (Lam. & DC.) Kuntze SPECIES
-=======
+# Auriscalpium tenellum (Lam. & DC.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

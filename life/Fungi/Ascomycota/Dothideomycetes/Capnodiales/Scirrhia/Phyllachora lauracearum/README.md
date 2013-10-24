@@ -1,5 +1,4 @@
-Phyllachora lauracearum (Henn.) Höhn., 1910 SPECIES
-=======
+# Phyllachora lauracearum (Henn.) Höhn., 1910 SPECIES
 
 #### Status
 DOUBTFUL

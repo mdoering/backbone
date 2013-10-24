@@ -1,5 +1,4 @@
-Macrophoma turconii (Trinchieri) Servazzi SPECIES
-=======
+# Macrophoma turconii (Trinchieri) Servazzi SPECIES
 
 #### Status
 ACCEPTED

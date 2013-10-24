@@ -1,5 +1,4 @@
-Helminthosporium viticulosum P. Crouan & H. Crouan SPECIES
-=======
+# Helminthosporium viticulosum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

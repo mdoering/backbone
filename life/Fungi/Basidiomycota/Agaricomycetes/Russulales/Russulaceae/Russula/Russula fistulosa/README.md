@@ -1,5 +1,4 @@
-Russula fistulosa var. fistulosa VARIETY
-=======
+# Russula fistulosa R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Candollea 7: 386 (1938)
 
 #### Original name
-Russula fistulosa var. fistulosa
+Russula fistulosa R. Heim
 
 ### Remarks
 null

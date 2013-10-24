@@ -1,5 +1,4 @@
-Rhizocarpon subalboatrum (Nyl.) Müll. Arg. SPECIES
-=======
+# Rhizocarpon subalboatrum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

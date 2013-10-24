@@ -1,5 +1,4 @@
-Ocellularia remanens (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia remanens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

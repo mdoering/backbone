@@ -1,5 +1,4 @@
-Polyporus alboater Henn. SPECIES
-=======
+# Polyporus alboater Henn. SPECIES
 
 #### Status
 ACCEPTED

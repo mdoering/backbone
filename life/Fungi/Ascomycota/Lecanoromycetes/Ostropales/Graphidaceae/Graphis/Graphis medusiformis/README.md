@@ -1,5 +1,4 @@
-Graphis medusiformis Kremp. SPECIES
-=======
+# Graphis medusiformis Kremp. SPECIES
 
 #### Status
 ACCEPTED

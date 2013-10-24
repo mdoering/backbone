@@ -1,5 +1,4 @@
-Caloplaca polaris (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca polaris (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedaloides pinicola Lázaro Ibiza SPECIES
-=======
+# Daedaloides pinicola Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

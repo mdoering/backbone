@@ -1,5 +1,4 @@
-Splanchnomyces luteus Corda SPECIES
-=======
+# Splanchnomyces luteus Corda SPECIES
 
 #### Status
 ACCEPTED

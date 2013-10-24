@@ -1,5 +1,4 @@
-Gyrostroma austroamericanum Seeler, 1940 SPECIES
-=======
+# Gyrostroma austroamericanum Seeler, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus badakensis Henn. SPECIES
-=======
+# Hygrophorus badakensis Henn. SPECIES
 
 #### Status
 ACCEPTED

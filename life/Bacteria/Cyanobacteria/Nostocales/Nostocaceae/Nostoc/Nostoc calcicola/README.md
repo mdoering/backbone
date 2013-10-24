@@ -1,5 +1,4 @@
-Nostoc calcicola Brébisson SPECIES
-=======
+# Nostoc calcicola Brébisson SPECIES
 
 #### Status
 ACCEPTED

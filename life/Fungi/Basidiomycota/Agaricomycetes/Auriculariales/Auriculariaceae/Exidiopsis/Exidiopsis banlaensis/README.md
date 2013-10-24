@@ -1,5 +1,4 @@
-Exidiopsis banlaensis Y.B. Peng SPECIES
-=======
+# Exidiopsis banlaensis Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

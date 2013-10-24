@@ -1,5 +1,4 @@
-Agaricus smithii Massee SPECIES
-=======
+# Agaricus smithii Massee SPECIES
 
 #### Status
 ACCEPTED

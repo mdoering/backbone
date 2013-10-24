@@ -1,17 +1,16 @@
-Peniophora cremea var. cremea VARIETY
-=======
+# Phanerochaete sordida (P. Karst.) J. Erikss. & Ryvarden, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 195 (1902)
+Cortic. N. Eur. (Oslo) 5: 1023 (1978)
 
 #### Original name
-Peniophora cremea var. cremea
+Corticium sordidum P. Karst., 1882
 
 ### Remarks
 null

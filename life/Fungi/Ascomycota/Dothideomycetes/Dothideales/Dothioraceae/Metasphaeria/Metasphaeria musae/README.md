@@ -1,5 +1,4 @@
-Metasphaeria musae Sawada SPECIES
-=======
+# Metasphaeria musae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis venezuelae Sherwood SPECIES
-=======
+# Stictis venezuelae Sherwood SPECIES
 
 #### Status
 ACCEPTED

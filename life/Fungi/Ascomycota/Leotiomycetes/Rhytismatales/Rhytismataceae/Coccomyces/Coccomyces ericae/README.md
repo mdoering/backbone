@@ -1,5 +1,4 @@
-Coccomyces ericae Dennis & Spooner, 1977 SPECIES
-=======
+# Coccomyces ericae Dennis & Spooner, 1977 SPECIES
 
 #### Status
 ACCEPTED

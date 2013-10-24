@@ -1,5 +1,4 @@
-Lepraria nigrocincta Diederich, Sérus. & Aptroot SPECIES
-=======
+# Lepraria nigrocincta Diederich, Sérus. & Aptroot SPECIES
 
 #### Status
 ACCEPTED

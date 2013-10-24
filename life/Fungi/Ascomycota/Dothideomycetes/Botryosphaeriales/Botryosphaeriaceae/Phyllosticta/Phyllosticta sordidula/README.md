@@ -1,5 +1,4 @@
-Phyllosticta sordidula Speg. SPECIES
-=======
+# Phyllosticta sordidula Speg. SPECIES
 
 #### Status
 ACCEPTED

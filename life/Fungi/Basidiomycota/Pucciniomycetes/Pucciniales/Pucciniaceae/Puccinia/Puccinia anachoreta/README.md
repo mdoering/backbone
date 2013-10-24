@@ -1,5 +1,4 @@
-Puccinia anachoreta Ellis & Harkn. SPECIES
-=======
+# Puccinia anachoreta Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

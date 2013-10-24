@@ -1,17 +1,16 @@
-Tuber excavatum var. excavatum VARIETY
-=======
+# Tuber excavatum Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monogr. Tuberac. (Milano) 49 (1831)
 
 #### Original name
-Tuber excavatum var. excavatum
+Tuber excavatum Vittad., 1831
 
 ### Remarks
 null

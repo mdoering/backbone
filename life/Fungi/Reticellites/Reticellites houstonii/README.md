@@ -1,5 +1,4 @@
-Reticellites houstonii D.L.E. Glass, D.D. Br. & Elsik SPECIES
-=======
+# Reticellites houstonii D.L.E. Glass, D.D. Br. & Elsik SPECIES
 
 #### Status
 ACCEPTED

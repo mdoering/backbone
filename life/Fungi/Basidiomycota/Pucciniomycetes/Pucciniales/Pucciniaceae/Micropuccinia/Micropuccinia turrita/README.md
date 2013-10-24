@@ -1,5 +1,4 @@
-Micropuccinia turrita (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia turrita (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

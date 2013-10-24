@@ -1,5 +1,4 @@
-Cholamonas Flavin, O'Kelly, Nerad & Wilkinson, 2000 GENUS
-=======
+# Cholamonas Flavin, O'Kelly, Nerad & Wilkinson, 2000 GENUS
 
 #### Status
 ACCEPTED

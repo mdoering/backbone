@@ -1,5 +1,4 @@
-Cortinarius canaliculatus Rob. Henry ex Bidaud & Carteret SPECIES
-=======
+# Cortinarius canaliculatus Rob. Henry ex Bidaud & Carteret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo obtusata Link SPECIES
-=======
+# Uredo obtusata Link SPECIES
 
 #### Status
 ACCEPTED

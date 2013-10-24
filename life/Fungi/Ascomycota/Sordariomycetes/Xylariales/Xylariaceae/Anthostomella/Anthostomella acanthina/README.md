@@ -1,5 +1,4 @@
-Anthostomella acanthina (Mont.) Sacc. SPECIES
-=======
+# Anthostomella acanthina (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

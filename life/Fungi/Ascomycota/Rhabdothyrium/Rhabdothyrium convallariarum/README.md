@@ -1,5 +1,4 @@
-Rhabdothyrium convallariarum (Oudem.) Höhn. SPECIES
-=======
+# Rhabdothyrium convallariarum (Oudem.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

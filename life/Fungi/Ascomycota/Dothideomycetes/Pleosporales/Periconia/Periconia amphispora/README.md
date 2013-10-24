@@ -1,5 +1,4 @@
-Periconia amphispora (Bonord.) Sacc. SPECIES
-=======
+# Periconia amphispora (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

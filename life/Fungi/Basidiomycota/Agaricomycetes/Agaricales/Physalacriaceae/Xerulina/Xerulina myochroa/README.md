@@ -1,5 +1,4 @@
-Xerulina myochroa (Berk. & Broome) Pegler SPECIES
-=======
+# Xerulina myochroa (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

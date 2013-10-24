@@ -1,5 +1,4 @@
-Boletus gertrudiae Peck SPECIES
-=======
+# Boletus gertrudiae Peck SPECIES
 
 #### Status
 ACCEPTED

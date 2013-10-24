@@ -1,5 +1,4 @@
-Stichophoma acicola Kleb. SPECIES
-=======
+# Stichophoma acicola Kleb. SPECIES
 
 #### Status
 ACCEPTED

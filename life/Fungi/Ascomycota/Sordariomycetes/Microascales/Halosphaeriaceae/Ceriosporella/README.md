@@ -1,5 +1,4 @@
-Ceriosporella A.R. Caval., 1966 GENUS
-=======
+# Ceriosporella A.R. Caval., 1966 GENUS
 
 #### Status
 ACCEPTED

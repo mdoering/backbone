@@ -1,5 +1,4 @@
-Myriospora glebosa (Flot.) Hepp SPECIES
-=======
+# Myriospora glebosa (Flot.) Hepp SPECIES
 
 #### Status
 ACCEPTED

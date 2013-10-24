@@ -1,5 +1,4 @@
-Hapsidascus Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Hapsidascus Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

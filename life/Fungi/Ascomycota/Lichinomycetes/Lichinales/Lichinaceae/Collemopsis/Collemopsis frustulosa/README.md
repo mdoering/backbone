@@ -1,5 +1,4 @@
-Collemopsis frustulosa (Anzi) Nyl. SPECIES
-=======
+# Collemopsis frustulosa (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

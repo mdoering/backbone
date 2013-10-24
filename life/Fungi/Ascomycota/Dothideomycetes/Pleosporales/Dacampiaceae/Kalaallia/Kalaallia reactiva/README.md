@@ -1,5 +1,4 @@
-Kalaallia reactiva Alstrup & D. Hawksw. SPECIES
-=======
+# Kalaallia reactiva Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

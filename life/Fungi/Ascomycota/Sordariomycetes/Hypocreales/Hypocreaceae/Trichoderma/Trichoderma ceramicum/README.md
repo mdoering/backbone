@@ -1,5 +1,4 @@
-Trichoderma ceramicum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma ceramicum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

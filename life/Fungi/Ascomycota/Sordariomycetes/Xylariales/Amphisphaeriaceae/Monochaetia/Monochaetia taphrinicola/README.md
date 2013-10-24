@@ -1,5 +1,4 @@
-Monochaetia taphrinicola (Ellis & Everh.) Sacc. SPECIES
-=======
+# Monochaetia taphrinicola (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

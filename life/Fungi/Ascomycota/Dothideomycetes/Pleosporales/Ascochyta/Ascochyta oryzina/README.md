@@ -1,5 +1,4 @@
-Ascochyta oryzina Hara SPECIES
-=======
+# Ascochyta oryzina Hara SPECIES
 
 #### Status
 ACCEPTED

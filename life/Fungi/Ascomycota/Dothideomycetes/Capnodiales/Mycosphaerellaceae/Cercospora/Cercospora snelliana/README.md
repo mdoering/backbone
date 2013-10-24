@@ -1,5 +1,4 @@
-Cercospora snelliana Reichert SPECIES
-=======
+# Cercospora snelliana Reichert SPECIES
 
 #### Status
 ACCEPTED

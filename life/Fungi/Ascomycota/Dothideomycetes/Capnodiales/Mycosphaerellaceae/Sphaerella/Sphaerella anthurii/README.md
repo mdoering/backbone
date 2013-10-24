@@ -1,5 +1,4 @@
-Sphaerella anthurii (Miles) Sacc. SPECIES
-=======
+# Sphaerella anthurii (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

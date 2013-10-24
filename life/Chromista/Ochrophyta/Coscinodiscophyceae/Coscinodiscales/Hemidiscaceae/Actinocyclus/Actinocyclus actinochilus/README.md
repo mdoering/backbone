@@ -1,11 +1,10 @@
-Charcotia actinochila (Ehrenberg) Hustedt SPECIES
-=======
+# Actinocyclus actinochilus (Ehrenberg) Simonsen, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

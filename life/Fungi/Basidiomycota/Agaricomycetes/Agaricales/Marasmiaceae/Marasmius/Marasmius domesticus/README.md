@@ -1,5 +1,4 @@
-Marasmius domesticus Murrill SPECIES
-=======
+# Marasmius domesticus Murrill SPECIES
 
 #### Status
 ACCEPTED

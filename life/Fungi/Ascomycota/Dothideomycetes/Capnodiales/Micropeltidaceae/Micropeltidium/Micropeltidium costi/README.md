@@ -1,5 +1,4 @@
-Micropeltidium costi Bat. SPECIES
-=======
+# Micropeltidium costi Bat. SPECIES
 
 #### Status
 ACCEPTED

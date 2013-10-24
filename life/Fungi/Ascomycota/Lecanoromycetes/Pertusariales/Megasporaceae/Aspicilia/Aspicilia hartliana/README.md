@@ -1,5 +1,4 @@
-Aspicilia hartliana Hue SPECIES
-=======
+# Aspicilia hartliana Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonia smilacina Thüm. SPECIES
-=======
+# Marssonia smilacina Thüm. SPECIES
 
 #### Status
 ACCEPTED

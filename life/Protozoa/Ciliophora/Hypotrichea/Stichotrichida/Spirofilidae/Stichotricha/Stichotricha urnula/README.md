@@ -1,5 +1,4 @@
-Stichotricha urnula Gruber, 1882 SPECIES
-=======
+# Stichotricha urnula Gruber, 1882 SPECIES
 
 #### Status
 ACCEPTED

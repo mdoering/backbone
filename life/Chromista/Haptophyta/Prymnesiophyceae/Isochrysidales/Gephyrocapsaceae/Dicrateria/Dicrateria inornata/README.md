@@ -1,5 +1,4 @@
-Dicrateria inornata Parke SPECIES
-=======
+# Dicrateria inornata Parke SPECIES
 
 #### Status
 ACCEPTED

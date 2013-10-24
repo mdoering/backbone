@@ -1,5 +1,4 @@
-Phragmodiscus himalayensis E. Müll., 1958 SPECIES
-=======
+# Phragmodiscus himalayensis E. Müll., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria citricola Penz. SPECIES
-=======
+# Leptosphaeria citricola Penz. SPECIES
 
 #### Status
 ACCEPTED

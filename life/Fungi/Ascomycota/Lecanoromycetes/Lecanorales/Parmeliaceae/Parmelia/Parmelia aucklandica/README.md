@@ -1,5 +1,4 @@
-Parmelia aucklandica Zahlbr. SPECIES
-=======
+# Parmelia aucklandica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

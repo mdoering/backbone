@@ -1,5 +1,4 @@
-Toxosporiopsis sinensis W.P. Wu SPECIES
-=======
+# Toxosporiopsis sinensis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

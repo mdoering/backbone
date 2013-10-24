@@ -1,5 +1,4 @@
-Thyridaria calamincola Rehm SPECIES
-=======
+# Thyridaria calamincola Rehm SPECIES
 
 #### Status
 ACCEPTED

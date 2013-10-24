@@ -1,17 +1,16 @@
-Porina grandis var. grandis (Körb.) Zahlbr. VARIETY
-=======
+# Porina grandis (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 383 (1922)
 
 #### Original name
-Porina grandis var. grandis (Körb.) Zahlbr.
+null
 
 ### Remarks
 null

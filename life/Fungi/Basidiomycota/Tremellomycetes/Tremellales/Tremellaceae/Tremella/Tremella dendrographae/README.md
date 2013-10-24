@@ -1,5 +1,4 @@
-Tremella dendrographae Diederich & Tehler SPECIES
-=======
+# Tremella dendrographae Diederich & Tehler SPECIES
 
 #### Status
 ACCEPTED

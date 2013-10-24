@@ -1,5 +1,4 @@
-Trametes brunneola (Berk.) Imazeki SPECIES
-=======
+# Trametes brunneola (Berk.) Imazeki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola tenuis Berk. & M.A. Curtis SPECIES
-=======
+# Meliola tenuis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

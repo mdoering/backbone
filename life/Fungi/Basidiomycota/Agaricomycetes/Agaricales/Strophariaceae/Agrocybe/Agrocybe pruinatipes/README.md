@@ -1,5 +1,4 @@
-Agrocybe pruinatipes (Peck) Watling SPECIES
-=======
+# Agrocybe pruinatipes (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia murorum var. murorum VARIETY
-=======
+# Polyblastia murorum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia murorum var. murorum
+Polyblastia murorum B. de Lesd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hymeniopeltis Bat. GENUS
-=======
+# Hymeniopeltis Bat. GENUS
 
 #### Status
 ACCEPTED

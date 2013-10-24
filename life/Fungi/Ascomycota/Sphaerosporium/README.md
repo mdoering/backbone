@@ -1,5 +1,4 @@
-Sphaerosporium Schwein. GENUS
-=======
+# Sphaerosporium Schwein. GENUS
 
 #### Status
 ACCEPTED

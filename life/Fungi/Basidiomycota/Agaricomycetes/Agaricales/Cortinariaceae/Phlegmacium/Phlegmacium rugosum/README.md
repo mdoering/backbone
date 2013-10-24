@@ -1,5 +1,4 @@
-Phlegmacium rugosum Velen. SPECIES
-=======
+# Phlegmacium rugosum Velen. SPECIES
 
 #### Status
 ACCEPTED

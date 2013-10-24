@@ -1,5 +1,4 @@
-Cladobotryum curvatum de Hoog & W. Gams SPECIES
-=======
+# Cladobotryum curvatum de Hoog & W. Gams SPECIES
 
 #### Status
 ACCEPTED

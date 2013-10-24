@@ -1,5 +1,4 @@
-Havispora K.L. Pang & Vrijmoed GENUS
-=======
+# Havispora K.L. Pang & Vrijmoed GENUS
 
 #### Status
 ACCEPTED

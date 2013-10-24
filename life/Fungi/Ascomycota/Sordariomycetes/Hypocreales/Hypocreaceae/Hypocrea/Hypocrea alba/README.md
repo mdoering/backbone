@@ -1,5 +1,4 @@
-Hypocrea alba A.L. Sm. SPECIES
-=======
+# Hypocrea alba A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

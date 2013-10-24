@@ -1,5 +1,4 @@
-Marasmius tenuatus Britzelm. SPECIES
-=======
+# Marasmius tenuatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

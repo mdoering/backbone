@@ -1,5 +1,4 @@
-Marasmius arenivagus Britzelm. SPECIES
-=======
+# Marasmius arenivagus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

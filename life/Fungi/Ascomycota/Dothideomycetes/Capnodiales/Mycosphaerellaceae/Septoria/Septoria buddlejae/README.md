@@ -1,5 +1,4 @@
-Septoria buddlejae Kalchbr. & Cooke SPECIES
-=======
+# Septoria buddlejae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

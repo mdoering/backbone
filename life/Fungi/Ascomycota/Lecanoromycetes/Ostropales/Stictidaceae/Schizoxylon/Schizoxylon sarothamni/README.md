@@ -1,5 +1,4 @@
-Schizoxylon sarothamni (Fuckel) Rehm SPECIES
-=======
+# Schizoxylon sarothamni (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

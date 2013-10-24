@@ -1,5 +1,4 @@
-Marasmius violaceoides Antonín SPECIES
-=======
+# Marasmius violaceoides Antonín SPECIES
 
 #### Status
 ACCEPTED

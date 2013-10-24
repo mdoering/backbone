@@ -1,5 +1,4 @@
-Neottiospora philippinensis Died. SPECIES
-=======
+# Neottiospora philippinensis Died. SPECIES
 
 #### Status
 ACCEPTED

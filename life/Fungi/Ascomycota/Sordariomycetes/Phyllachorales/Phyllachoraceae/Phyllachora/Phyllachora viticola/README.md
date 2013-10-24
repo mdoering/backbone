@@ -1,14 +1,13 @@
-Dothidea viticola Schwein., 1832 SPECIES
-=======
+# Phyllachora viticola (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 235 (1832)
+Syll. fung. (Abellini) 2: 620 (1883)
 
 #### Original name
 Dothidea viticola Schwein., 1832

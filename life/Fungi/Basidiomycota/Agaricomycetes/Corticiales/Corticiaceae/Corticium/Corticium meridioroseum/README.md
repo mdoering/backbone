@@ -1,5 +1,4 @@
-Corticium meridioroseum Boidin & Lanq., 1983 SPECIES
-=======
+# Corticium meridioroseum Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

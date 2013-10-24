@@ -1,5 +1,4 @@
-Patinella crandallii Sacc. SPECIES
-=======
+# Patinella crandallii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon assimile Velen. SPECIES
-=======
+# Lycoperdon assimile Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermilacinia ceruchis (Ach.) Spjut & Hale SPECIES
-=======
+# Vermilacinia ceruchis (Ach.) Spjut & Hale SPECIES
 
 #### Status
 ACCEPTED

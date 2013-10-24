@@ -1,5 +1,4 @@
-Laestadia lorentzii Speg. SPECIES
-=======
+# Laestadia lorentzii Speg. SPECIES
 
 #### Status
 ACCEPTED

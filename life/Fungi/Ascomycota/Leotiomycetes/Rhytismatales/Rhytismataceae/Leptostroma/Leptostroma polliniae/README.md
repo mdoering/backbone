@@ -1,5 +1,4 @@
-Leptostroma polliniae Maki & Katsuki SPECIES
-=======
+# Leptostroma polliniae Maki & Katsuki SPECIES
 
 #### Status
 ACCEPTED

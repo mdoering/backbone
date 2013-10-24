@@ -1,5 +1,4 @@
-Diporicellaesporites mediocoloratus Kalgutkar SPECIES
-=======
+# Diporicellaesporites mediocoloratus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

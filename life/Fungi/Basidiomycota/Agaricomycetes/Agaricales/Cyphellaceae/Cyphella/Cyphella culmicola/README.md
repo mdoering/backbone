@@ -1,5 +1,4 @@
-Cyphella culmicola Fr. SPECIES
-=======
+# Cyphella culmicola Fr. SPECIES
 
 #### Status
 ACCEPTED

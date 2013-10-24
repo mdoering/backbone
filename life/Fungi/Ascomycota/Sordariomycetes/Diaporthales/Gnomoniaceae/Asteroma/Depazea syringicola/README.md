@@ -1,5 +1,4 @@
-Depazea syringicola Lasch SPECIES
-=======
+# Depazea syringicola Lasch SPECIES
 
 #### Status
 ACCEPTED

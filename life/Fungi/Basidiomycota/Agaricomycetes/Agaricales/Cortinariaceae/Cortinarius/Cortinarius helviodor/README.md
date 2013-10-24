@@ -1,5 +1,4 @@
-Cortinarius helviodor Rob. Henry SPECIES
-=======
+# Cortinarius helviodor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

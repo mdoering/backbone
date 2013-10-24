@@ -1,5 +1,4 @@
-Aleuria dalhousiensis K.S. Thind & Waraitch SPECIES
-=======
+# Aleuria dalhousiensis K.S. Thind & Waraitch SPECIES
 
 #### Status
 ACCEPTED

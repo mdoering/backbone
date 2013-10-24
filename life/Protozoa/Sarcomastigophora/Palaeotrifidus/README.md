@@ -1,5 +1,4 @@
-Palaeotrifidus Renz, 1990 GENUS
-=======
+# Palaeotrifidus Renz, 1990 GENUS
 
 #### Status
 ACCEPTED

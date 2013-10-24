@@ -1,5 +1,4 @@
-Cryptothecia bengalensis Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
-=======
+# Cryptothecia bengalensis Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
 
 #### Status
 ACCEPTED

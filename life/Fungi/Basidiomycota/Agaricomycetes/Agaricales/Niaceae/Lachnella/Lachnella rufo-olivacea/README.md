@@ -1,5 +1,4 @@
-Lachnella rufo-olivacea SPECIES
-=======
+# Lachnella rufo-olivacea SPECIES
 
 #### Status
 ACCEPTED

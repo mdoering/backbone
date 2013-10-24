@@ -1,5 +1,4 @@
-Chalara paramontellica McKenzie SPECIES
-=======
+# Chalara paramontellica McKenzie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus subplicatus var. subplicatus VARIETY
-=======
+# Pleurotus subplicatus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 5: 383 (1887)
 
 #### Original name
-Pleurotus subplicatus var. subplicatus
+Phyllotus subplicatus P. Karst.
 
 ### Remarks
 null

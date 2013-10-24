@@ -1,5 +1,4 @@
-Coniosporiella amazonensis Bat. & H. Maia ex Bat. SPECIES
-=======
+# Coniosporiella amazonensis Bat. & H. Maia ex Bat. SPECIES
 
 #### Status
 ACCEPTED

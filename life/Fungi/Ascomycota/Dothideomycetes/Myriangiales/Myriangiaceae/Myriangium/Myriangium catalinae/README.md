@@ -1,5 +1,4 @@
-Myriangium catalinae Fairm. SPECIES
-=======
+# Myriangium catalinae Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria umbrina (Berk.) Fr., 1849 SPECIES
-=======
+# Nectria umbrina (Berk.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

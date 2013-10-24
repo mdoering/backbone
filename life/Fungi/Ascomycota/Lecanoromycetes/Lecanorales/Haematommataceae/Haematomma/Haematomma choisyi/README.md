@@ -1,5 +1,4 @@
-Haematomma choisyi Werner SPECIES
-=======
+# Haematomma choisyi Werner SPECIES
 
 #### Status
 ACCEPTED

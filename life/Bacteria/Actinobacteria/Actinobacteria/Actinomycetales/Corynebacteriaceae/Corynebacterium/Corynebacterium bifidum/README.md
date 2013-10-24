@@ -1,5 +1,4 @@
-Corynebacterium bifidum SPECIES
-=======
+# Corynebacterium bifidum SPECIES
 
 #### Status
 ACCEPTED

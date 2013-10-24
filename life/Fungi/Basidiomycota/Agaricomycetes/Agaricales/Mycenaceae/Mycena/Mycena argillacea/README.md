@@ -1,5 +1,4 @@
-Mycena argillacea Murrill SPECIES
-=======
+# Mycena argillacea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium rubi G. Winter SPECIES
-=======
+# Fusarium rubi G. Winter SPECIES
 
 #### Status
 ACCEPTED

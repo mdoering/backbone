@@ -1,5 +1,4 @@
-Rhexoacrodictys fimicola (M.B. Ellis & Gunnell) W.A. Baker & Morgan-Jones SPECIES
-=======
+# Rhexoacrodictys fimicola (M.B. Ellis & Gunnell) W.A. Baker & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

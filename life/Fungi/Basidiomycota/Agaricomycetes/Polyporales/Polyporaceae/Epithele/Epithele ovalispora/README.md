@@ -1,5 +1,4 @@
-Epithele ovalispora Boidin & Lanq., 1983 SPECIES
-=======
+# Epithele ovalispora Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

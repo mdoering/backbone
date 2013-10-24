@@ -1,5 +1,4 @@
-Chaenothecopsis caucasica Titov SPECIES
-=======
+# Chaenothecopsis caucasica Titov SPECIES
 
 #### Status
 ACCEPTED

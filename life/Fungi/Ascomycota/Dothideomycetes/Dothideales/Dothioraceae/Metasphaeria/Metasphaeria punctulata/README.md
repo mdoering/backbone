@@ -1,5 +1,4 @@
-Metasphaeria punctulata Ellis & Everh., 1888 SPECIES
-=======
+# Metasphaeria punctulata Ellis & Everh., 1888 SPECIES
 
 #### Status
 ACCEPTED

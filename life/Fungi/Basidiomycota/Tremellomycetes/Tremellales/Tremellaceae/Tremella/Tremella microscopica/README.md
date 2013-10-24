@@ -1,5 +1,4 @@
-Tremella microscopica Berk. & Broome SPECIES
-=======
+# Tremella microscopica Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

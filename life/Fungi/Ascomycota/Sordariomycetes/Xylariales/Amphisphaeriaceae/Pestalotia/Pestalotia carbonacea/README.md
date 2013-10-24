@@ -1,5 +1,4 @@
-Pestalotia carbonacea Steyaert SPECIES
-=======
+# Pestalotia carbonacea Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pleurochloris magna J.B. Petersen SPECIES
-=======
+# Eustigmatos magnus (J.B. Petersen) Hibberd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

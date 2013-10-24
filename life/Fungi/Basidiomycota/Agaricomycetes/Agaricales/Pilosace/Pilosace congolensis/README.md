@@ -1,5 +1,4 @@
-Pilosace congolensis Heinem. SPECIES
-=======
+# Pilosace congolensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

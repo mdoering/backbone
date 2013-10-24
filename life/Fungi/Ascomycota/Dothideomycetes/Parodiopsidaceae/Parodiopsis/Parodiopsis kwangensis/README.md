@@ -1,5 +1,4 @@
-Parodiopsis kwangensis (Henn.) Hansf. SPECIES
-=======
+# Parodiopsis kwangensis (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

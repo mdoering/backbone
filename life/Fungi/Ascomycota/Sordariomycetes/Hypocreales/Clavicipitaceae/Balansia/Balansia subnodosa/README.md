@@ -1,5 +1,4 @@
-Balansia subnodosa G.F. Atk. SPECIES
-=======
+# Balansia subnodosa G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

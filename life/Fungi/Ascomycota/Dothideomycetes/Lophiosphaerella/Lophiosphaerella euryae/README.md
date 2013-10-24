@@ -1,14 +1,13 @@
-Aulographum euryae Syd., 1900 SPECIES
-=======
+# Lophiosphaerella euryae (Syd.) Hara, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Byogaichu-Hoten (Manual of Pests and Diseases) (1948)
 
 #### Original name
 Aulographum euryae Syd., 1900

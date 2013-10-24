@@ -1,5 +1,4 @@
-Coelosphaeria media Sacc. SPECIES
-=======
+# Coelosphaeria media Sacc. SPECIES
 
 #### Status
 ACCEPTED

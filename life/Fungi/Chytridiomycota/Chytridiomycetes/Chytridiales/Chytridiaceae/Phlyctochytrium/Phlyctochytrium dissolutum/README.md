@@ -1,5 +1,4 @@
-Phlyctochytrium dissolutum S.N. Dasgupta & R. John SPECIES
-=======
+# Phlyctochytrium dissolutum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

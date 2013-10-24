@@ -1,5 +1,4 @@
-Graphis clavata Fée SPECIES
-=======
+# Graphis clavata Fée SPECIES
 
 #### Status
 ACCEPTED

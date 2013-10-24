@@ -1,5 +1,4 @@
-Entoloma cettoi Noordel., Hauskn. & Zuccher. SPECIES
-=======
+# Entoloma cettoi Noordel., Hauskn. & Zuccher. SPECIES
 
 #### Status
 ACCEPTED

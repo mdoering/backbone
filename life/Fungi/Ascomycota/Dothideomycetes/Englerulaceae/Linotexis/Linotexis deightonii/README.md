@@ -1,5 +1,4 @@
-Linotexis deightonii Hansf. SPECIES
-=======
+# Linotexis deightonii Hansf. SPECIES
 
 #### Status
 ACCEPTED

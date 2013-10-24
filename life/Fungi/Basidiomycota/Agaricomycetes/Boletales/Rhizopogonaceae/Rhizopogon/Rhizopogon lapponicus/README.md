@@ -1,5 +1,4 @@
-Rhizopogon lapponicus P. Karst. SPECIES
-=======
+# Rhizopogon lapponicus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

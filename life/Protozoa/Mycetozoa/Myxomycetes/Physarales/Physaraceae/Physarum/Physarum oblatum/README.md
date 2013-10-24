@@ -1,14 +1,13 @@
-Lignydium oblatum (T. Macbr.) Kuntze, 1898 SPECIES
-=======
+# Physarum oblatum T. Macbr., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 490 (1898)
+N. Amer. Slime-Moulds (New York), Edn 2 91 (1922)
 
 #### Original name
 Physarum oblatum T. Macbr., 1893

@@ -1,5 +1,4 @@
-Banksiamyces maccannii G.W. Beaton, 1984 SPECIES
-=======
+# Banksiamyces maccannii G.W. Beaton, 1984 SPECIES
 
 #### Status
 ACCEPTED

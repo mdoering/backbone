@@ -1,5 +1,4 @@
-Pestalotia lawsoniae Mundk. & Khesw. SPECIES
-=======
+# Pestalotia lawsoniae Mundk. & Khesw. SPECIES
 
 #### Status
 ACCEPTED

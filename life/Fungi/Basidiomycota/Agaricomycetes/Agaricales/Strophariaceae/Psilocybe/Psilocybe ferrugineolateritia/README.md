@@ -1,5 +1,4 @@
-Psilocybe ferrugineolateritia Voglino SPECIES
-=======
+# Psilocybe ferrugineolateritia Voglino SPECIES
 
 #### Status
 ACCEPTED

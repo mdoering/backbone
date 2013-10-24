@@ -1,5 +1,4 @@
-Verrucaria luteopallens Nyl. SPECIES
-=======
+# Verrucaria luteopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

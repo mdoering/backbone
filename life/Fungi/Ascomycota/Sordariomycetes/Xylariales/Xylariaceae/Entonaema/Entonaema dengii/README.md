@@ -1,5 +1,4 @@
-Entonaema dengii J.D. Rogers SPECIES
-=======
+# Entonaema dengii J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

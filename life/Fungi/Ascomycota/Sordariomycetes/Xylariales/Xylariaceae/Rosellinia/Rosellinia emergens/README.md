@@ -1,5 +1,4 @@
-Rosellinia emergens (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia emergens (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

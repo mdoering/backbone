@@ -1,5 +1,4 @@
-Sphaerella sylvatica Sacc. & Speg. SPECIES
-=======
+# Sphaerella sylvatica Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria fuscella (Schaer.) Körb. SPECIES
-=======
+# Patellaria fuscella (Schaer.) Körb. SPECIES
 
 #### Status
 ACCEPTED

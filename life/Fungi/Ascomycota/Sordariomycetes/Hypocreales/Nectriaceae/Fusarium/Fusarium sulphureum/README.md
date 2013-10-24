@@ -1,14 +1,13 @@
-Fusarium discolor var. sulphureum (Schltdl.) Appel & Wollenw., 1910 VARIETY
-=======
+# Fusarium sulphureum Schltdl., 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. berol. (Berlin) 2: 139 (1824)
 
 #### Original name
 Fusarium sulphureum Schltdl., 1824

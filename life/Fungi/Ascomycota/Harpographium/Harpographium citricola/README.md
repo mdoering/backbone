@@ -1,5 +1,4 @@
-Harpographium citricola Bat. & J.L. Bezerra SPECIES
-=======
+# Harpographium citricola Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

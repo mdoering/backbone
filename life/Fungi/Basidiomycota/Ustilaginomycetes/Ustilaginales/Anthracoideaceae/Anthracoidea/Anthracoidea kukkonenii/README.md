@@ -1,5 +1,4 @@
-Anthracoidea kukkonenii Vánky SPECIES
-=======
+# Anthracoidea kukkonenii Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius nivosus Berk. SPECIES
-=======
+# Marasmius nivosus Berk. SPECIES
 
 #### Status
 ACCEPTED

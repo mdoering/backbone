@@ -1,8 +1,7 @@
-Chilodonella algivora Kahl, 1931 SPECIES
-=======
+# Pseudochilodonopsis algivora (Kahl, 1931) Foissner, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

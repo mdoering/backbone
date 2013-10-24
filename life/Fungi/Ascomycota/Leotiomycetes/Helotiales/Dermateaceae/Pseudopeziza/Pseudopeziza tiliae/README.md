@@ -1,5 +1,4 @@
-Pseudopeziza tiliae Kleb. SPECIES
-=======
+# Pseudopeziza tiliae Kleb. SPECIES
 
 #### Status
 ACCEPTED

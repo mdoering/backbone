@@ -1,14 +1,13 @@
-Stigmina kamatii Ullasa, 1973 SPECIES
-=======
+# Lecanostictopsis kamatii (Ullasa) B. Sutton & Crous, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archos Inst. biol. , S Paulo 40(2): 153 (1973)
+Mycol. Res. 101(2): 216 (1997)
 
 #### Original name
 Stigmina kamatii Ullasa, 1973

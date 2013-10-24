@@ -1,5 +1,4 @@
-Glutinium hystricinum Dearn. SPECIES
-=======
+# Glutinium hystricinum Dearn. SPECIES
 
 #### Status
 ACCEPTED

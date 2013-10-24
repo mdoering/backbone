@@ -1,5 +1,4 @@
-Heliomyces multifolius Murrill SPECIES
-=======
+# Heliomyces multifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

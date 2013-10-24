@@ -1,5 +1,4 @@
-Entoloma porpoarachnoides (Singer) Singer SPECIES
-=======
+# Entoloma porpoarachnoides (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

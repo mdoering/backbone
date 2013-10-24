@@ -1,5 +1,4 @@
-Pavlova mesolychnon J.van der Veer, 1969 SPECIES
-=======
+# Pavlova mesolychnon J.van der Veer, 1969 SPECIES
 
 #### Status
 ACCEPTED

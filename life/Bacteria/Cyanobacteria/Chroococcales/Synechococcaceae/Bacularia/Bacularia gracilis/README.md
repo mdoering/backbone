@@ -1,5 +1,4 @@
-Bacularia gracilis Komárek SPECIES
-=======
+# Bacularia gracilis Komárek SPECIES
 
 #### Status
 ACCEPTED

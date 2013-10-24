@@ -1,5 +1,4 @@
-Staurolithites glaber SPECIES
-=======
+# Staurolithites glaber SPECIES
 
 #### Status
 ACCEPTED

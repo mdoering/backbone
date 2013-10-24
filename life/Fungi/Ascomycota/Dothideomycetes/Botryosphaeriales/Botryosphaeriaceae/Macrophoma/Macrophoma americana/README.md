@@ -1,5 +1,4 @@
-Macrophoma americana Speg. SPECIES
-=======
+# Macrophoma americana Speg. SPECIES
 
 #### Status
 ACCEPTED

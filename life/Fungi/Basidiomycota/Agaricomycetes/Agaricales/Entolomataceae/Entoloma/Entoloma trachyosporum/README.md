@@ -1,5 +1,4 @@
-Entoloma trachyosporum var. trachyosporum VARIETY
-=======
+# Entoloma trachyosporum Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Entoloma trachyosporum var. trachyosporum
+Entoloma trachyosporum Largent
 
 ### Remarks
 null

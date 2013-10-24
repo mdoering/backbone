@@ -1,5 +1,4 @@
-Amorphomyces schistogeniae Thaxt., 1931 SPECIES
-=======
+# Amorphomyces schistogeniae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

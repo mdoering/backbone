@@ -1,5 +1,4 @@
-Marasmius schultesii Singer SPECIES
-=======
+# Marasmius schultesii Singer SPECIES
 
 #### Status
 ACCEPTED

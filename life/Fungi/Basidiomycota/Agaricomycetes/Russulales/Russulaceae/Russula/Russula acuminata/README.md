@@ -1,5 +1,4 @@
-Russula acuminata Buyck, 1988 SPECIES
-=======
+# Russula acuminata Buyck, 1988 SPECIES
 
 #### Status
 ACCEPTED

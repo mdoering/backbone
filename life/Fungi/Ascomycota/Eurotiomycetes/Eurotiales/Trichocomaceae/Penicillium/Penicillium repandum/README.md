@@ -1,5 +1,4 @@
-Penicillium repandum Bainier & Sartory SPECIES
-=======
+# Penicillium repandum Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

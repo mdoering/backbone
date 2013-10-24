@@ -1,5 +1,4 @@
-Mycosphaerella agapanthi-umbellati T.S. Ramakr. & Sundaram SPECIES
-=======
+# Mycosphaerella agapanthi-umbellati T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

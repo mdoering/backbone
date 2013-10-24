@@ -1,5 +1,4 @@
-Cetraria corallophora Müll. Arg. SPECIES
-=======
+# Cetraria corallophora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

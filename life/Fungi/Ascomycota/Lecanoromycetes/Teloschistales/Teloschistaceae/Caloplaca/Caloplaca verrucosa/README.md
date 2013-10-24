@@ -1,5 +1,4 @@
-Caloplaca verrucosa Hasse SPECIES
-=======
+# Caloplaca verrucosa Hasse SPECIES
 
 #### Status
 ACCEPTED

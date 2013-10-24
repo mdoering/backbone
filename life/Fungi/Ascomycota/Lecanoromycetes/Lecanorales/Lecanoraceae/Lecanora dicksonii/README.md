@@ -1,5 +1,4 @@
-Lecanora dicksonii (J.F. Gmel.) Nyl. SPECIES
-=======
+# Lecanora dicksonii (J.F. Gmel.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

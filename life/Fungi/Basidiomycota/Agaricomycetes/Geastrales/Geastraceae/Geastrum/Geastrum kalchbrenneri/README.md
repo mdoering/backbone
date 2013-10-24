@@ -1,8 +1,7 @@
-Geaster kalchbrenneri Hazsl. SPECIES
-=======
+# Geastrum kalchbrenneri Hazsl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster kalchbrenneri Hazsl.
+Geastrum kalchbrenneri Hazsl.
 
 ### Remarks
 null

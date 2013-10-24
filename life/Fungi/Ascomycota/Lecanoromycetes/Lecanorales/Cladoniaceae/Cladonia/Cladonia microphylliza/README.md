@@ -1,5 +1,4 @@
-Cladonia microphylliza G. Merr. SPECIES
-=======
+# Cladonia microphylliza G. Merr. SPECIES
 
 #### Status
 ACCEPTED

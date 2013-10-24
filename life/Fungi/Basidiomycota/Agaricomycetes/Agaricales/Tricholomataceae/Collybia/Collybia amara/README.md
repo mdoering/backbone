@@ -1,5 +1,4 @@
-Collybia amara (Murrill) Murrill SPECIES
-=======
+# Collybia amara (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

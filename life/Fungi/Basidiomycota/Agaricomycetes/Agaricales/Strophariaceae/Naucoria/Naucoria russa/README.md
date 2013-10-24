@@ -1,5 +1,4 @@
-Naucoria russa (Cooke & Massee) Sacc. SPECIES
-=======
+# Naucoria russa (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marginaridae Loeblich & Tappan, 1986 FAMILY
-=======
+# Marginaridae Loeblich & Tappan, 1986 FAMILY
 
 #### Status
 ACCEPTED

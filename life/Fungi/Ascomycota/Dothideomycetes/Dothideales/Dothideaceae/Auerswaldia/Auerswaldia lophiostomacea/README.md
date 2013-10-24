@@ -1,5 +1,4 @@
-Auerswaldia lophiostomacea Rehm SPECIES
-=======
+# Auerswaldia lophiostomacea Rehm SPECIES
 
 #### Status
 ACCEPTED

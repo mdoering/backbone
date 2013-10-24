@@ -1,5 +1,4 @@
-Arthonia pelveti (Hepp) Almq. SPECIES
-=======
+# Arthonia pelveti (Hepp) Almq. SPECIES
 
 #### Status
 ACCEPTED

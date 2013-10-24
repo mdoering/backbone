@@ -1,5 +1,4 @@
-Cercospora rinoreae Deighton SPECIES
-=======
+# Cercospora rinoreae Deighton SPECIES
 
 #### Status
 ACCEPTED

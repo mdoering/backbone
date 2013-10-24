@@ -1,5 +1,4 @@
-Ammoanita Sieglie & Baker, 1987 GENUS
-=======
+# Ammoanita Sieglie & Baker, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria tigrina Speg. SPECIES
-=======
+# Xylaria tigrina Speg. SPECIES
 
 #### Status
 ACCEPTED

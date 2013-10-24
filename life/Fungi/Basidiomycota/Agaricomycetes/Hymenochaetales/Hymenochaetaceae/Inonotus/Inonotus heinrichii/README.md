@@ -1,5 +1,4 @@
-Inonotus heinrichii (Pilát) Bondartsev & Singer SPECIES
-=======
+# Inonotus heinrichii (Pilát) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Botryosphaeria ingiae A.K. Kar & Maity SPECIES
-=======
+# Botryosphaeria ingae A.K. Kar & Maity SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 48(7): 1299 (1970)
 
 #### Original name
-Botryosphaeria ingiae A.K. Kar & Maity
+Botryosphaeria ingae A.K. Kar & Maity
 
 ### Remarks
 null

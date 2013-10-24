@@ -1,5 +1,4 @@
-Scirrhophragma anomala Gonz. Frag. & Cif. SPECIES
-=======
+# Scirrhophragma anomala Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

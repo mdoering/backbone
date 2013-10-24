@@ -1,5 +1,4 @@
-Boletus subglobosus Cleland SPECIES
-=======
+# Boletus subglobosus Cleland SPECIES
 
 #### Status
 ACCEPTED

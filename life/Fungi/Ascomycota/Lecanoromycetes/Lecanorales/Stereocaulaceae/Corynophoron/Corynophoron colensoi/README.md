@@ -1,5 +1,4 @@
-Corynophoron colensoi (C. Bab.) Nyl. ex Müll. Arg. SPECIES
-=======
+# Corynophoron colensoi (C. Bab.) Nyl. ex Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

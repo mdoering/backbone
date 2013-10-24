@@ -1,5 +1,4 @@
-Dendrophoma juglandina Schulzer & Sacc., 1884 SPECIES
-=======
+# Dendrophoma juglandina Schulzer & Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia oxyacanthae (S. Ahmad) Savile SPECIES
-=======
+# Puccinia oxyacanthae (S. Ahmad) Savile SPECIES
 
 #### Status
 ACCEPTED

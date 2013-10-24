@@ -1,5 +1,4 @@
-Eutypella monticulosa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Eutypella monticulosa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

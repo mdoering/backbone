@@ -1,5 +1,4 @@
-Comesia fusca (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Comesia fusca (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Graphis ceratoides Vain. SPECIES
-=======
+# Phaeographis ceratoides (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. 15(6): 227 (1921)
+Cat. Lich. Univers. 2: 365 (1923)
 
 #### Original name
 Graphis ceratoides Vain.

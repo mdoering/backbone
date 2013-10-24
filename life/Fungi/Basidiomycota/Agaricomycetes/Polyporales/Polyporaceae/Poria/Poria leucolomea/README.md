@@ -1,5 +1,4 @@
-Poria leucolomea (Lév.) Sacc. SPECIES
-=======
+# Poria leucolomea (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

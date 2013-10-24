@@ -1,17 +1,16 @@
-Leptosphaeria thompkinsii El-Ani, 1966 SPECIES
-=======
+# Leptosphaeria tompkinsii El-Ani, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 58(3): 409 (1966)
 
 #### Original name
-null
+Leptosphaeria tompkinsii El-Ani, 1966
 
 ### Remarks
 null

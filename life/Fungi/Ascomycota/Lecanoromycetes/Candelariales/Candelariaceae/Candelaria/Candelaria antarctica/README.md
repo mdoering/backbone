@@ -1,5 +1,4 @@
-Candelaria antarctica (B.J. Murray) Poelt SPECIES
-=======
+# Candelaria antarctica (B.J. Murray) Poelt SPECIES
 
 #### Status
 ACCEPTED

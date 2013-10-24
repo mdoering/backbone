@@ -1,5 +1,4 @@
-Hamatocanthoscypha helicotricha Huhtinen SPECIES
-=======
+# Hamatocanthoscypha helicotricha Huhtinen SPECIES
 
 #### Status
 ACCEPTED

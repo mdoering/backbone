@@ -1,5 +1,4 @@
-Lactarius sanguinalis (Batsch) J. Schröt. SPECIES
-=======
+# Lactarius sanguinalis (Batsch) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea gleditschiae (Ces. & De Not.) Kuntze SPECIES
-=======
+# Gibberidea gleditschiae (Ces. & De Not.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

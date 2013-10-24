@@ -1,5 +1,4 @@
-Peziza albida Lamark SPECIES
-=======
+# Peziza albida Lamark SPECIES
 
 #### Status
 ACCEPTED

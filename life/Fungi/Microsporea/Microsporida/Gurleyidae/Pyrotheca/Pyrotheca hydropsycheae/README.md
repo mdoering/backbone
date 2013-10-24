@@ -1,5 +1,4 @@
-Pyrotheca hydropsycheae SPECIES
-=======
+# Pyrotheca hydropsycheae SPECIES
 
 #### Status
 ACCEPTED

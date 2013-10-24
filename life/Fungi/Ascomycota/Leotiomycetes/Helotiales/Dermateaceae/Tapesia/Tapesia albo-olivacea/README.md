@@ -1,5 +1,4 @@
-Tapesia albo-olivacea (Gillet) Sacc. SPECIES
-=======
+# Tapesia albo-olivacea (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

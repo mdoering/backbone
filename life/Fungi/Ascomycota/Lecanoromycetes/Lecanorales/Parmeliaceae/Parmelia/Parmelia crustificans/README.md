@@ -1,5 +1,4 @@
-Parmelia crustificans Hilitzer SPECIES
-=======
+# Parmelia crustificans Hilitzer SPECIES
 
 #### Status
 ACCEPTED

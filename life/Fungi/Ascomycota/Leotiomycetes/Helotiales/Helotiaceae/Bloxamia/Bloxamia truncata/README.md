@@ -1,5 +1,4 @@
-Bloxamia truncata Berk. & Broome, 1854 SPECIES
-=======
+# Bloxamia truncata Berk. & Broome, 1854 SPECIES
 
 #### Status
 ACCEPTED

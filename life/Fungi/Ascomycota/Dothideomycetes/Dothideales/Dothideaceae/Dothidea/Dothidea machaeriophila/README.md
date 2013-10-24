@@ -1,5 +1,4 @@
-Dothidea machaeriophila Henn. SPECIES
-=======
+# Dothidea machaeriophila Henn. SPECIES
 
 #### Status
 ACCEPTED

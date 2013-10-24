@@ -1,5 +1,4 @@
-Betaproteobacteria CLASS
-=======
+# Betaproteobacteria CLASS
 
 #### Status
 ACCEPTED

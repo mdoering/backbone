@@ -1,5 +1,4 @@
-Hypocrea microrufa Yoshim. Doi SPECIES
-=======
+# Hypocrea microrufa Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

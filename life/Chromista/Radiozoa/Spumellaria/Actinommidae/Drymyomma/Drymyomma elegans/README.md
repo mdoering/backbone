@@ -1,5 +1,4 @@
-Drymyomma elegans Joergensen, 1900 SPECIES
-=======
+# Drymyomma elegans Joergensen, 1900 SPECIES
 
 #### Status
 ACCEPTED

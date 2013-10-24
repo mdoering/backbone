@@ -1,5 +1,4 @@
-Clathrospora recava Shoemaker & C.E. Babc. SPECIES
-=======
+# Clathrospora recava Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

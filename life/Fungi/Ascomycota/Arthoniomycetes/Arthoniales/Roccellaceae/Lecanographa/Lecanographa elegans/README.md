@@ -1,5 +1,4 @@
-Lecanographa elegans (Müll. Arg.) Mies & M. Schultz SPECIES
-=======
+# Lecanographa elegans (Müll. Arg.) Mies & M. Schultz SPECIES
 
 #### Status
 ACCEPTED

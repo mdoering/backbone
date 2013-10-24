@@ -1,5 +1,4 @@
-Cytospora phlyctaenoides Ellis & Everh. SPECIES
-=======
+# Cytospora phlyctaenoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

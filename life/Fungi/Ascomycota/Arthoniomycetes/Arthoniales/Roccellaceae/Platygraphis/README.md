@@ -1,5 +1,4 @@
-Platygraphis GENUS
-=======
+# Platygraphis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramecium sexaurelia SPECIES
-=======
+# Paramecium sexaurelia SPECIES
 
 #### Status
 ACCEPTED

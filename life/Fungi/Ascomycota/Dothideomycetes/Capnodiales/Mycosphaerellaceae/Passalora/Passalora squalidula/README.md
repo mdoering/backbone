@@ -1,5 +1,4 @@
-Passalora squalidula (Peck) U. Braun SPECIES
-=======
+# Passalora squalidula (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

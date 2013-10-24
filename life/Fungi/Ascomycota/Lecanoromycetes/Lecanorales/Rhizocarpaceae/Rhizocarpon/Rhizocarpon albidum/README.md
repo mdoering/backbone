@@ -1,5 +1,4 @@
-Rhizocarpon albidum Lynge SPECIES
-=======
+# Rhizocarpon albidum Lynge SPECIES
 
 #### Status
 ACCEPTED

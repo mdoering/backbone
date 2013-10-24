@@ -1,5 +1,4 @@
-Fomes griphaeformis (Berk.) Sacc. SPECIES
-=======
+# Fomes griphaeformis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordobesia oriental Pöthé de Baldis, 1977 SPECIES
-=======
+# Cordobesia oriental Pöthé de Baldis, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amylascus Trappe GENUS
-=======
+# Amylascus Trappe GENUS
 
 #### Status
 ACCEPTED

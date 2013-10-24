@@ -1,5 +1,4 @@
-Filaspora umbonata Preuss SPECIES
-=======
+# Filaspora umbonata Preuss SPECIES
 
 #### Status
 ACCEPTED

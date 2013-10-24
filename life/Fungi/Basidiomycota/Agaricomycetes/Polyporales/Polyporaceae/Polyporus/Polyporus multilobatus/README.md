@@ -1,5 +1,4 @@
-Polyporus multilobatus Lloyd SPECIES
-=======
+# Polyporus multilobatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

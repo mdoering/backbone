@@ -1,5 +1,4 @@
-Sporobolomyces miscanthi Nakase & M. Suzuki SPECIES
-=======
+# Sporobolomyces miscanthi Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

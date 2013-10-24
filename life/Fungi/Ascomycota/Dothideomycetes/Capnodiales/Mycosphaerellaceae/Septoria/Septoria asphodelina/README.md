@@ -1,5 +1,4 @@
-Septoria asphodelina Sacc. SPECIES
-=======
+# Septoria asphodelina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea praetermissa Tønsberg SPECIES
-=======
+# Lecidea praetermissa Tønsberg SPECIES
 
 #### Status
 ACCEPTED

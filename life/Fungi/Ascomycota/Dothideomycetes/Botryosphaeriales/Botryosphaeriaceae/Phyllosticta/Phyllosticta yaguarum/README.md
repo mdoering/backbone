@@ -1,5 +1,4 @@
-Phyllosticta yaguarum Cif. SPECIES
-=======
+# Phyllosticta yaguarum Cif. SPECIES
 
 #### Status
 ACCEPTED

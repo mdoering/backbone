@@ -1,5 +1,4 @@
-Paraurostyla fossicola (Kahl, 1932) ? SPECIES
-=======
+# Paraurostyla fossicola (Kahl, 1932) ? SPECIES
 
 #### Status
 ACCEPTED

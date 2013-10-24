@@ -1,5 +1,4 @@
-Filisphaeridium araiothriches (Loeblich & Wicander, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium araiothriches (Loeblich & Wicander, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomma fissum var. fissum VARIETY
-=======
+# Stigmatomma fissum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stigmatomma fissum var. fissum
+null
 
 ### Remarks
 null

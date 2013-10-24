@@ -1,5 +1,4 @@
-Leioderma duplicatum (Müll. Arg.) D. J. Galloway & P. M. Jørg. SPECIES
-=======
+# Leioderma duplicatum (Müll. Arg.) D. J. Galloway & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

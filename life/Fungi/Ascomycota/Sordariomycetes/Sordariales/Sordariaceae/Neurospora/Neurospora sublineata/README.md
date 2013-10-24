@@ -1,5 +1,4 @@
-Neurospora sublineata (Furuya & Udagawa) Arx SPECIES
-=======
+# Neurospora sublineata (Furuya & Udagawa) Arx SPECIES
 
 #### Status
 ACCEPTED

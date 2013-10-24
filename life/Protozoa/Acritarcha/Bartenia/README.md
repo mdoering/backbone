@@ -1,5 +1,4 @@
-Bartenia Helby, 1987 GENUS
-=======
+# Bartenia Helby, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma hippocastani Pass. SPECIES
-=======
+# Phoma hippocastani Pass. SPECIES
 
 #### Status
 ACCEPTED

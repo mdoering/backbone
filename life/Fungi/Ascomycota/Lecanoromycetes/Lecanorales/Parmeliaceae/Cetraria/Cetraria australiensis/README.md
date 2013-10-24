@@ -1,17 +1,16 @@
-Coelocaulon australiense W.A. Weber SPECIES
-=======
+# Cetraria australiensis W. A. Weber ex Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Exsicc. 454 (1975)
+Bot. Notiser 130: 127 (1977)
 
 #### Original name
-Coelocaulon australiense W.A. Weber
+Cetraria australiensis W. A. Weber ex Kärnefelt
 
 ### Remarks
 null

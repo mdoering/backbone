@@ -1,17 +1,16 @@
-Lecanora salina var. aberrans Erichsen VARIETY
-=======
+# Lecanora salina H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 229 (1926)
 
 #### Original name
-Lecanora salina var. aberrans Erichsen
+Lecanora salina H. Magn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Micropuccinia notopterae (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia notopterae (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

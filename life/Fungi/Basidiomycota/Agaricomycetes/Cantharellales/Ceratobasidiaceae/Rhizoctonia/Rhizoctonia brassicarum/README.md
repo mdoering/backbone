@@ -1,5 +1,4 @@
-Rhizoctonia brassicarum Lib. SPECIES
-=======
+# Rhizoctonia brassicarum Lib. SPECIES
 
 #### Status
 ACCEPTED

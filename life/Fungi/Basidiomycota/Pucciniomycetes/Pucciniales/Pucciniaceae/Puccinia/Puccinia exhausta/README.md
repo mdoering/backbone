@@ -1,5 +1,4 @@
-Puccinia exhausta Dietel SPECIES
-=======
+# Puccinia exhausta Dietel SPECIES
 
 #### Status
 ACCEPTED

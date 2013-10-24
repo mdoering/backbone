@@ -1,5 +1,4 @@
-Sphaeria complicata Wallr. SPECIES
-=======
+# Sphaeria complicata Wallr. SPECIES
 
 #### Status
 ACCEPTED

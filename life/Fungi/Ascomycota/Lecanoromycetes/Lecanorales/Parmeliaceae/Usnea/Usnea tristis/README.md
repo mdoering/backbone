@@ -1,5 +1,4 @@
-Usnea tristis Motyka SPECIES
-=======
+# Usnea tristis Motyka SPECIES
 
 #### Status
 ACCEPTED

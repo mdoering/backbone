@@ -1,5 +1,4 @@
-Anthostoma atrofuscum (Berk. & M.A. Curtis ex Cooke) Berl. & Voglino SPECIES
-=======
+# Anthostoma atrofuscum (Berk. & M.A. Curtis ex Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

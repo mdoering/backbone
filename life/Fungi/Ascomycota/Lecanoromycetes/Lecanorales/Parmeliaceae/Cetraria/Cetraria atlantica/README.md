@@ -1,5 +1,4 @@
-Cetraria atlantica (Tuck.) Du Rietz SPECIES
-=======
+# Cetraria atlantica (Tuck.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED

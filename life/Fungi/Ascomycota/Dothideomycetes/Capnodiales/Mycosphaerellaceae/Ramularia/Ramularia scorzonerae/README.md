@@ -1,5 +1,4 @@
-Ramularia scorzonerae Jaap SPECIES
-=======
+# Ramularia scorzonerae Jaap SPECIES
 
 #### Status
 ACCEPTED

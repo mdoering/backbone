@@ -1,5 +1,4 @@
-Laurera aurata R.C. Harris SPECIES
-=======
+# Laurera aurata R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

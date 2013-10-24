@@ -1,5 +1,4 @@
-Lithomelissa pentacantha (Popofsky) Petrushevskaya, 1971 SPECIES
-=======
+# Lithomelissa pentacantha (Popofsky) Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

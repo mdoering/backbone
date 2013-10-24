@@ -1,5 +1,4 @@
-Bacidia myriospora Vezda SPECIES
-=======
+# Bacidia myriospora Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepidoma brunneum (Sw.) Bagl. SPECIES
-=======
+# Lepidoma brunneum (Sw.) Bagl. SPECIES
 
 #### Status
 ACCEPTED

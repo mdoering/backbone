@@ -1,5 +1,4 @@
-Phoma pomorum Thuem. SPECIES
-=======
+# Phoma pomorum Thuem. SPECIES
 
 #### Status
 DOUBTFUL

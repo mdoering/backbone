@@ -1,17 +1,16 @@
-Thelotrema perforatum var. perforatum Leight. VARIETY
-=======
+# Ocellularia perforata (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Thelotrema perforatum var. perforatum Leight.
+Thelotrema perforatum Leight.
 
 ### Remarks
 null

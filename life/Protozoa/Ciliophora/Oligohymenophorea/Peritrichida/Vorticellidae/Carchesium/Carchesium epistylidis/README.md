@@ -1,5 +1,4 @@
-Carchesium epistylidis SPECIES
-=======
+# Carchesium epistylidis SPECIES
 
 #### Status
 ACCEPTED

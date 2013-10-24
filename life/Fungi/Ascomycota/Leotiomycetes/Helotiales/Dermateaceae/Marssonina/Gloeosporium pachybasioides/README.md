@@ -1,5 +1,4 @@
-Gloeosporium pachybasioides Alcalde SPECIES
-=======
+# Gloeosporium pachybasioides Alcalde SPECIES
 
 #### Status
 ACCEPTED

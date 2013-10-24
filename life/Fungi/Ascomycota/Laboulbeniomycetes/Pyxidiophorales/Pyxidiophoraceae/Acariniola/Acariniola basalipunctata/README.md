@@ -1,5 +1,4 @@
-Acariniola basalipunctata T. Majewski & J. Wisn. SPECIES
-=======
+# Acariniola basalipunctata T. Majewski & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

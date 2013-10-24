@@ -1,5 +1,4 @@
-Uromyces ligulariae Hirats. & Hoshioka {?} SPECIES
-=======
+# Uromyces ligulariae Hirats. & Hoshioka {?} SPECIES
 
 #### Status
 ACCEPTED

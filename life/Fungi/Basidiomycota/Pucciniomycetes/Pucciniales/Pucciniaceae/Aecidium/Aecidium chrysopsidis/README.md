@@ -1,5 +1,4 @@
-Aecidium chrysopsidis Ellis & H.W. Anderson SPECIES
-=======
+# Aecidium chrysopsidis Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

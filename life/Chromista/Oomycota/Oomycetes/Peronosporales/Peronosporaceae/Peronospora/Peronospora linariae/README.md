@@ -1,17 +1,16 @@
-Peronospora linariae f. linariae Fuckel FORM
-=======
+# Peronospora linariae Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Jb. nassau. Ver. Naturk. 70 (1890)
 
 #### Original name
-Peronospora linariae f. linariae Fuckel
+Peronospora linariae Fuckel, 1870
 
 ### Remarks
 null

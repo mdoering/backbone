@@ -1,5 +1,4 @@
-Leptostroma punicae Pass. SPECIES
-=======
+# Leptostroma punicae Pass. SPECIES
 
 #### Status
 ACCEPTED

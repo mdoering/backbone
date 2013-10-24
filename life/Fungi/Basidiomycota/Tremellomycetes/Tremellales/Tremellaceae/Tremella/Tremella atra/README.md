@@ -1,5 +1,4 @@
-Tremella atra Schrank SPECIES
-=======
+# Tremella atra Schrank SPECIES
 
 #### Status
 ACCEPTED

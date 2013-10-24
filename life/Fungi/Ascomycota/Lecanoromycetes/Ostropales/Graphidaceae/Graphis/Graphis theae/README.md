@@ -1,5 +1,4 @@
-Graphis theae Zahlbr. SPECIES
-=======
+# Graphis theae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

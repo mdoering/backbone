@@ -1,5 +1,4 @@
-Troposporella hyalospora P.Rag. Rao & D. Rao SPECIES
-=======
+# Troposporella hyalospora P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

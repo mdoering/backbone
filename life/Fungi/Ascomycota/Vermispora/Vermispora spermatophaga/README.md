@@ -1,14 +1,13 @@
-Dactylella spermatophaga Drechsler SPECIES
-=======
+# Vermispora spermatophaga (Drechsler) J. Chen, L.L. Xu, B. Liu & Xing Z. Liu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 28: 91 (1937)
+Fungal Diversity 26(1): 124 (2007)
 
 #### Original name
 Dactylella spermatophaga Drechsler

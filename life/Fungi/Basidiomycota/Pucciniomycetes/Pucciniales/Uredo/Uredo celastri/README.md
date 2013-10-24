@@ -1,5 +1,4 @@
-Uredo celastri Arthur & Cummins SPECIES
-=======
+# Uredo celastri Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

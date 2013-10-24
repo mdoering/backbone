@@ -1,5 +1,4 @@
-Boletus slovenicus Smotl. SPECIES
-=======
+# Boletus slovenicus Smotl. SPECIES
 
 #### Status
 ACCEPTED

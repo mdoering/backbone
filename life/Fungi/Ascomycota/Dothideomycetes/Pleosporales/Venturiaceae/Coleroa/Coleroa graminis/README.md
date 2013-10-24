@@ -1,5 +1,4 @@
-Coleroa graminis A.L. Guyot SPECIES
-=======
+# Coleroa graminis A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

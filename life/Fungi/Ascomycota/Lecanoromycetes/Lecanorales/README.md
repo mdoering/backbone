@@ -1,5 +1,4 @@
-Lecanorales Nannf. ORDER
-=======
+# Lecanorales Nannf. ORDER
 
 #### Status
 ACCEPTED

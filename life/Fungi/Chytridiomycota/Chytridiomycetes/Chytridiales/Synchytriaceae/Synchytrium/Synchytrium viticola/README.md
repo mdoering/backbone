@@ -1,5 +1,4 @@
-Synchytrium viticola Lingappa SPECIES
-=======
+# Synchytrium viticola Lingappa SPECIES
 
 #### Status
 ACCEPTED

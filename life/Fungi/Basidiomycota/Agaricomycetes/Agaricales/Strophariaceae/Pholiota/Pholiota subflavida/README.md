@@ -1,5 +1,4 @@
-Pholiota subflavida (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subflavida (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

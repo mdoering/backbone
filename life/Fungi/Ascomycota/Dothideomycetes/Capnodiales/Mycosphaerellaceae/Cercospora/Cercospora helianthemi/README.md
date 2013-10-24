@@ -1,5 +1,4 @@
-Cercospora helianthemi Cavara SPECIES
-=======
+# Cercospora helianthemi Cavara SPECIES
 
 #### Status
 ACCEPTED

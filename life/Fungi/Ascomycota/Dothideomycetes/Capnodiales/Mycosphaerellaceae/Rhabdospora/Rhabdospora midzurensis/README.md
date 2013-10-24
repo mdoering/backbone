@@ -1,5 +1,4 @@
-Rhabdospora midzurensis Bubák & Ranoj. SPECIES
-=======
+# Rhabdospora midzurensis Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

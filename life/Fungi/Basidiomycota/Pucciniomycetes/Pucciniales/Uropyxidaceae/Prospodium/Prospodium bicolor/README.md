@@ -1,5 +1,4 @@
-Prospodium bicolor F.A. Ferreira & J.F. Hennen, 1986 SPECIES
-=======
+# Prospodium bicolor F.A. Ferreira & J.F. Hennen, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium rhodomma (Nyl.) SPECIES
-=======
+# Placodium rhodomma (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

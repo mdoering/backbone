@@ -1,5 +1,4 @@
-Thelotrema carassense Vain. SPECIES
-=======
+# Thelotrema carassense Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoskofitzia Schulzer GENUS
-=======
+# Neoskofitzia Schulzer GENUS
 
 #### Status
 ACCEPTED

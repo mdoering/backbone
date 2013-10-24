@@ -1,5 +1,4 @@
-Hypochnus testaceus (Bourdot & Galzin) Wehm. SPECIES
-=======
+# Hypochnus testaceus (Bourdot & Galzin) Wehm. SPECIES
 
 #### Status
 ACCEPTED

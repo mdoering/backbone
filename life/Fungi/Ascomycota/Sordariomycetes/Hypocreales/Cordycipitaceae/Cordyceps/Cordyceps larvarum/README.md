@@ -1,5 +1,4 @@
-Cordyceps larvarum (Westwood) Olliff SPECIES
-=======
+# Cordyceps larvarum (Westwood) Olliff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea phloeoica Nyl. SPECIES
-=======
+# Lecidea phloeoica Nyl. SPECIES
 
 #### Status
 ACCEPTED

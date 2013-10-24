@@ -1,5 +1,4 @@
-Synchytrium piperi Mundk. & Mhatre SPECIES
-=======
+# Synchytrium piperi Mundk. & Mhatre SPECIES
 
 #### Status
 ACCEPTED

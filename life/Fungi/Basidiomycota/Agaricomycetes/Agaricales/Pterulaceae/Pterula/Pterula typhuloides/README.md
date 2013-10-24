@@ -1,17 +1,16 @@
-Pterula typhuloides var. typhuloides VARIETY
-=======
+# Pterula typhuloides Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Bot. Mem. 1: 698 (1950)
 
 #### Original name
-Pterula typhuloides var. typhuloides
+Pterula typhuloides Corner, 1950
 
 ### Remarks
 null

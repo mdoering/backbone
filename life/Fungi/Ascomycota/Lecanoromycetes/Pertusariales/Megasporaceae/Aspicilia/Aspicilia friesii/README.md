@@ -1,5 +1,4 @@
-Aspicilia friesii (Lynge) Oxner SPECIES
-=======
+# Aspicilia friesii (Lynge) Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria subacerina Vain. SPECIES
-=======
+# Patellaria subacerina Vain. SPECIES
 
 #### Status
 ACCEPTED

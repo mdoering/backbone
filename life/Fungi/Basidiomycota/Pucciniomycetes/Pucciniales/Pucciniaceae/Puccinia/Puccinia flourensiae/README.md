@@ -1,5 +1,4 @@
-Puccinia flourensiae Henn., 1896 SPECIES
-=======
+# Puccinia flourensiae Henn., 1896 SPECIES
 
 #### Status
 ACCEPTED

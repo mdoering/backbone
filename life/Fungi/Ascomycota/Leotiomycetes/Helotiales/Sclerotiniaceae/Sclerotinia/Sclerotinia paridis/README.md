@@ -1,5 +1,4 @@
-Sclerotinia paridis (Boud.) Sacc. & Traverso SPECIES
-=======
+# Sclerotinia paridis (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

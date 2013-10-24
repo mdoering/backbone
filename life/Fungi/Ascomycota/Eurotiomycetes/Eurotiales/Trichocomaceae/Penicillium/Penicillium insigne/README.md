@@ -1,5 +1,4 @@
-Penicillium insigne Sacc. SPECIES
-=======
+# Penicillium insigne Sacc. SPECIES
 
 #### Status
 ACCEPTED

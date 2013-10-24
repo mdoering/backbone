@@ -1,5 +1,4 @@
-Gloeosporidium elmeri Syd. SPECIES
-=======
+# Gloeosporidium elmeri Syd. SPECIES
 
 #### Status
 ACCEPTED

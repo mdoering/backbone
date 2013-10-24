@@ -1,5 +1,4 @@
-Lecidea lutosa Mont. SPECIES
-=======
+# Lecidea lutosa Mont. SPECIES
 
 #### Status
 ACCEPTED

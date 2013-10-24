@@ -1,5 +1,4 @@
-Inocybe mussooriensis Sarwal SPECIES
-=======
+# Inocybe mussooriensis Sarwal SPECIES
 
 #### Status
 ACCEPTED

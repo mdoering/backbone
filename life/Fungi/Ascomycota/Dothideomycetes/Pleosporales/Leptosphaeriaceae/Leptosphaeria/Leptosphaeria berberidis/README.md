@@ -1,5 +1,4 @@
-Leptosphaeria berberidis Richon SPECIES
-=======
+# Leptosphaeria berberidis Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora coroniformis (Kremp.) Jatta SPECIES
-=======
+# Biatora coroniformis (Kremp.) Jatta SPECIES
 
 #### Status
 ACCEPTED

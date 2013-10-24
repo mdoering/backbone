@@ -1,5 +1,4 @@
-Usnea vesiculata var. vesiculata VARIETY
-=======
+# Usnea vesiculata Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea vesiculata var. vesiculata
+Usnea vesiculata Motyka
 
 ### Remarks
 null

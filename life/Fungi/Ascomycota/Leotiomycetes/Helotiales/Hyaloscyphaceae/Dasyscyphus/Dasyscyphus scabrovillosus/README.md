@@ -1,5 +1,4 @@
-Dasyscyphus scabrovillosus (W. Phillips) Sacc. SPECIES
-=======
+# Dasyscyphus scabrovillosus (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

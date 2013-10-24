@@ -1,5 +1,4 @@
-Sporisorium concelatum (Zundel) M. Piepenbr. SPECIES
-=======
+# Sporisorium concelatum (Zundel) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

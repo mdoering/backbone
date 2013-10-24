@@ -1,5 +1,4 @@
-Diexallophasis pachymura (Hill, 1974) Dorning, 1981 SPECIES
-=======
+# Diexallophasis pachymura (Hill, 1974) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

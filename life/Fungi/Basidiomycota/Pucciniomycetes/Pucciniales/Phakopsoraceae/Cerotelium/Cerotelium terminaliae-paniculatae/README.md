@@ -1,5 +1,4 @@
-Cerotelium terminaliae-paniculatae Nag Raj, Govindu & Thirum. SPECIES
-=======
+# Cerotelium terminaliae-paniculatae Nag Raj, Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

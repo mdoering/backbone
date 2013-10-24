@@ -1,5 +1,4 @@
-Phacidium juniperi P. Karst. SPECIES
-=======
+# Phacidium juniperi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

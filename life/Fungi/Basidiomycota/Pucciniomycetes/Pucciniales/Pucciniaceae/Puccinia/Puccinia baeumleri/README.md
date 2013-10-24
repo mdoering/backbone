@@ -1,5 +1,4 @@
-Puccinia baeumleri Lagerh. SPECIES
-=======
+# Puccinia baeumleri Lagerh. SPECIES
 
 #### Status
 ACCEPTED

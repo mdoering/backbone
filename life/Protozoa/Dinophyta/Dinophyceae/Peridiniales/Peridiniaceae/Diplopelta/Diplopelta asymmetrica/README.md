@@ -1,5 +1,4 @@
-Diplopelta asymmetrica (Mangin) E. Balech SPECIES
-=======
+# Diplopelta asymmetrica (Mangin) E. Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannularia asterella (Nyl.) Nyl. SPECIES
-=======
+# Pannularia asterella (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

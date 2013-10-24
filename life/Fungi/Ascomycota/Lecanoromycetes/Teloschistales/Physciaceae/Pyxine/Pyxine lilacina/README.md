@@ -1,5 +1,4 @@
-Pyxine lilacina Swinscow & Krog SPECIES
-=======
+# Pyxine lilacina Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

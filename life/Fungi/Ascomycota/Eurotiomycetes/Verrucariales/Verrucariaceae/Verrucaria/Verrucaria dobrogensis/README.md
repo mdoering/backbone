@@ -1,5 +1,4 @@
-Verrucaria dobrogensis Cretz. SPECIES
-=======
+# Verrucaria dobrogensis Cretz. SPECIES
 
 #### Status
 ACCEPTED

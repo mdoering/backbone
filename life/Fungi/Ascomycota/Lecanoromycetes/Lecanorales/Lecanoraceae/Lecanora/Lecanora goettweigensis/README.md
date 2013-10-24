@@ -1,5 +1,4 @@
-Lecanora goettweigensis Zahlbr. SPECIES
-=======
+# Lecanora goettweigensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

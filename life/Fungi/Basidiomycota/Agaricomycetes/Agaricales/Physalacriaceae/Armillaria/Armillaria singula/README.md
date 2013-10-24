@@ -1,5 +1,4 @@
-Armillaria singula J.Y. Cha & Igarashi SPECIES
-=======
+# Armillaria singula J.Y. Cha & Igarashi SPECIES
 
 #### Status
 ACCEPTED

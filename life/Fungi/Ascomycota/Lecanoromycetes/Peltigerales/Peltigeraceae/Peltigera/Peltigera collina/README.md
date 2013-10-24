@@ -1,17 +1,16 @@
-Peltigera scutata f. scutata FORM
-=======
+# Peltigera collina (Ach.) Schrad. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aug. Pyrami de Candolle. Botanicon Gallicum, seu Synopsis Plantarum in Flora Gallica Descriptarum, Edn 2 2: 599 (1830)
+J. Bot. , London 78 (1813)
 
 #### Original name
-Peltigera scutata f. scutata
+Lichen collinus Ach.
 
 ### Remarks
 null

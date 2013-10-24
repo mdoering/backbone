@@ -1,5 +1,4 @@
-Lecidea lamyi var. lamyi VARIETY
-=======
+# Lecidea lamyi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea lamyi var. lamyi
+null
 
 ### Remarks
 null

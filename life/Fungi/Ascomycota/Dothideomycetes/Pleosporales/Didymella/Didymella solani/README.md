@@ -1,5 +1,4 @@
-Didymella solani (Ellis & Everh.) W. Gams & Gerlach SPECIES
-=======
+# Didymella solani (Ellis & Everh.) W. Gams & Gerlach SPECIES
 
 #### Status
 ACCEPTED

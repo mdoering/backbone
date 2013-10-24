@@ -1,5 +1,4 @@
-Platygrapha mecistophora C. Knight SPECIES
-=======
+# Platygrapha mecistophora C. Knight SPECIES
 
 #### Status
 ACCEPTED

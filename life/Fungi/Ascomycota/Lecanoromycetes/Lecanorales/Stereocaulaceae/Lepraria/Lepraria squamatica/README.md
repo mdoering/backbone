@@ -1,5 +1,4 @@
-Lepraria squamatica Elix SPECIES
-=======
+# Lepraria squamatica Elix SPECIES
 
 #### Status
 ACCEPTED

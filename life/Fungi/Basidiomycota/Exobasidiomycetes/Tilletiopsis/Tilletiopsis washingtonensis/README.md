@@ -1,17 +1,16 @@
-Tilletiopsis washingtonesis Nyland SPECIES
-=======
+# Tilletiopsis washingtonensis Nyland, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 42(4): 488 (1950)
 
 #### Original name
-Tilletiopsis washingtonesis Nyland
+Tilletiopsis washingtonensis Nyland, 1950
 
 ### Remarks
 null

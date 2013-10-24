@@ -1,17 +1,16 @@
-Phaeoisaria caffera Matsush. SPECIES
-=======
+# Phaeoisaria caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 19 (1996)
 
 #### Original name
-Phaeoisaria caffera Matsush.
+Phaeoisaria caffra Matsush.
 
 ### Remarks
 null

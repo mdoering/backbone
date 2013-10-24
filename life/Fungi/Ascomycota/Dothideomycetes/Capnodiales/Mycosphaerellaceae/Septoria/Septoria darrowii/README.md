@@ -1,5 +1,4 @@
-Septoria darrowii Zeller SPECIES
-=======
+# Septoria darrowii Zeller SPECIES
 
 #### Status
 ACCEPTED

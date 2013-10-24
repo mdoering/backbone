@@ -1,5 +1,4 @@
-Dendrosomides paguri Collin, 1905 SPECIES
-=======
+# Dendrosomides paguri Collin, 1905 SPECIES
 
 #### Status
 ACCEPTED

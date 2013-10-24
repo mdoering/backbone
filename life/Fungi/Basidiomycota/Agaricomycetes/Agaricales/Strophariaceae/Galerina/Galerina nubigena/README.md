@@ -1,5 +1,4 @@
-Galerina nubigena A.H. Sm. & Singer SPECIES
-=======
+# Galerina nubigena A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

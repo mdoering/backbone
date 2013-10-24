@@ -1,5 +1,4 @@
-Lecanora scepusiensis SPECIES
-=======
+# Lecanora scepusiensis SPECIES
 
 #### Status
 ACCEPTED

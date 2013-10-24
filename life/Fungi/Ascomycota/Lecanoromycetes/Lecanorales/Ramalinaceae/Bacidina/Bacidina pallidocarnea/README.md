@@ -1,14 +1,13 @@
-Bacidia pallidocarnea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidina pallidocarnea (Müll. Arg.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 4: 231 (1926)
+Folia geobot. phytotax. 25(4): 432 (1991)
 
 #### Original name
 null

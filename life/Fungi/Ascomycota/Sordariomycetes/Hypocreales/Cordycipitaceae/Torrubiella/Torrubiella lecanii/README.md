@@ -1,5 +1,4 @@
-Torrubiella lecanii J.R. Johnst. SPECIES
-=======
+# Torrubiella lecanii J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

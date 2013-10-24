@@ -1,5 +1,4 @@
-Chiastozygus platyrhethus Hill, 1976 SPECIES
-=======
+# Chiastozygus platyrhethus Hill, 1976 SPECIES
 
 #### Status
 ACCEPTED

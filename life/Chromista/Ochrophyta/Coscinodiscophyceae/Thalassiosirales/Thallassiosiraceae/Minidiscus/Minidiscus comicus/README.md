@@ -1,5 +1,4 @@
-Minidiscus comicus Takano SPECIES
-=======
+# Minidiscus comicus Takano SPECIES
 
 #### Status
 ACCEPTED

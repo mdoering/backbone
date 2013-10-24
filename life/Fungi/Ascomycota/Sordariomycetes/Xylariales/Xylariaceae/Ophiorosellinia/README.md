@@ -1,5 +1,4 @@
-Ophiorosellinia J.D. Rogers, A. Hidalgo, F.A. Fern. & Huhndorf GENUS
-=======
+# Ophiorosellinia J.D. Rogers, A. Hidalgo, F.A. Fern. & Huhndorf GENUS
 
 #### Status
 ACCEPTED

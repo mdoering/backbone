@@ -1,5 +1,4 @@
-Stemphylium sedicola E.G. Simmons SPECIES
-=======
+# Stemphylium sedicola E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

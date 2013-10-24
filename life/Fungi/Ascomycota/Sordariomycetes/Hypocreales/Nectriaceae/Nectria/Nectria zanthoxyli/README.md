@@ -1,14 +1,13 @@
-Nectria xanthoxyli (Peck) Rossman SPECIES
-=======
+# Nectria zanthoxyli (Peck) Rossman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 49: 264 (1989)
 
 #### Original name
 Valsa zanthoxyli Peck

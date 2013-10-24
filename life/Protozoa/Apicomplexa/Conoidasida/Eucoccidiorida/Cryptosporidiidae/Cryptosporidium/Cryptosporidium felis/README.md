@@ -1,5 +1,4 @@
-Cryptosporidium felis Iseki, 1979 SPECIES
-=======
+# Cryptosporidium felis Iseki, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum siliguosum J. Agardh, 1848 SPECIES
-=======
+# Sargassum siliguosum J. Agardh, 1848 SPECIES
 
 #### Status
 ACCEPTED

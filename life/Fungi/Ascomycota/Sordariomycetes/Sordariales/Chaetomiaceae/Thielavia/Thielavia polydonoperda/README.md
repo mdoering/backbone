@@ -1,5 +1,4 @@
-Thielavia polydonoperda SPECIES
-=======
+# Thielavia polydonoperda SPECIES
 
 #### Status
 ACCEPTED

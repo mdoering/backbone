@@ -1,5 +1,4 @@
-Leptotrema subconcretum (Leight.) Müll. Arg. SPECIES
-=======
+# Leptotrema subconcretum (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

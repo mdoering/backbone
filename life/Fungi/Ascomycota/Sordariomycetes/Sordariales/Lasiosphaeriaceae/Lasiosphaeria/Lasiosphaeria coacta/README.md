@@ -1,5 +1,4 @@
-Lasiosphaeria coacta Kirschst. SPECIES
-=======
+# Lasiosphaeria coacta Kirschst. SPECIES
 
 #### Status
 ACCEPTED

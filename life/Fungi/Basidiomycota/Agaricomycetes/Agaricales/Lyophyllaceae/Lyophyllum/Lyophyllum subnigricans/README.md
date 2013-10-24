@@ -1,5 +1,4 @@
-Lyophyllum subnigricans (Peck) H.E. Bigelow SPECIES
-=======
+# Lyophyllum subnigricans (Peck) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

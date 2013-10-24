@@ -1,14 +1,13 @@
-Elasmomyces russuloides Setch., 1907 SPECIES
-=======
+# Macowanites russuloides (Setch.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 13(6): 240 (1907)
+Mycotaxon 81: 202 (2002)
 
 #### Original name
 Elasmomyces russuloides Setch., 1907

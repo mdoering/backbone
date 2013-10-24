@@ -1,5 +1,4 @@
-Pyxicola striata Kellicott, 1884 SPECIES
-=======
+# Pyxicola striata Kellicott, 1884 SPECIES
 
 #### Status
 ACCEPTED

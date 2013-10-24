@@ -1,5 +1,4 @@
-Cosmospora obscura Rossman & Samuels, 1999 SPECIES
-=======
+# Cosmospora obscura Rossman & Samuels, 1999 SPECIES
 
 #### Status
 ACCEPTED

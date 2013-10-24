@@ -1,5 +1,4 @@
-Parastigmatea asiatica Bat. & C.A.A. Costa SPECIES
-=======
+# Parastigmatea asiatica Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

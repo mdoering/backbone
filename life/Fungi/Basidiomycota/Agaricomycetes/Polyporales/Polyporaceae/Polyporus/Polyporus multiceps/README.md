@@ -1,5 +1,4 @@
-Polyporus multiceps Pat. SPECIES
-=======
+# Polyporus multiceps Pat. SPECIES
 
 #### Status
 ACCEPTED

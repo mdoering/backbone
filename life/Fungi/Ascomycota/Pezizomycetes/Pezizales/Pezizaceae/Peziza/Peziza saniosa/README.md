@@ -1,5 +1,4 @@
-Peziza saniosa Schrad., 1799 SPECIES
-=======
+# Peziza saniosa Schrad., 1799 SPECIES
 
 #### Status
 ACCEPTED

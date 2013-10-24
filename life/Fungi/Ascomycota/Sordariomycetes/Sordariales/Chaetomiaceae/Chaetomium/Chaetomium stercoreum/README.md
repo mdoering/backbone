@@ -1,5 +1,4 @@
-Chaetomium stercoreum Speg. SPECIES
-=======
+# Chaetomium stercoreum Speg. SPECIES
 
 #### Status
 ACCEPTED

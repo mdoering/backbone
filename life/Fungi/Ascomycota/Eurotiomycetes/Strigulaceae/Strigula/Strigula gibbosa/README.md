@@ -1,5 +1,4 @@
-Strigula gibbosa Vain. SPECIES
-=======
+# Strigula gibbosa Vain. SPECIES
 
 #### Status
 ACCEPTED

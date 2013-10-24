@@ -1,5 +1,4 @@
-Gerronema pantoxanthum Singer SPECIES
-=======
+# Gerronema pantoxanthum Singer SPECIES
 
 #### Status
 ACCEPTED

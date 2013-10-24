@@ -1,17 +1,16 @@
-Gyrophora proboscidea var. proboscidea VARIETY
-=======
+# Gyrophora proboscidea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Lichen proboscideus L.
+null
 
 ### Remarks
 null

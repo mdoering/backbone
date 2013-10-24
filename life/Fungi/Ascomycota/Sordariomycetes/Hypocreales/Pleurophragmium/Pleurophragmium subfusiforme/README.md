@@ -1,5 +1,4 @@
-Pleurophragmium subfusiforme Matsush. SPECIES
-=======
+# Pleurophragmium subfusiforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

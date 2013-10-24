@@ -1,5 +1,4 @@
-Cyclotella tripartita Håk. SPECIES
-=======
+# Cyclotella tripartita Håk. SPECIES
 
 #### Status
 ACCEPTED

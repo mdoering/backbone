@@ -1,5 +1,4 @@
-Xystonellopsis paradoxa (Cleve, 1900) Jörgensen, 1924 SPECIES
-=======
+# Xystonellopsis paradoxa (Cleve, 1900) Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

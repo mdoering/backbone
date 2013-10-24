@@ -1,5 +1,4 @@
-Rigidomastix devoratum Tong, 1997 SPECIES
-=======
+# Rigidomastix devoratum Tong, 1997 SPECIES
 
 #### Status
 ACCEPTED

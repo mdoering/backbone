@@ -1,17 +1,16 @@
-Parmelia isidiigera var. isidiigera VARIETY
-=======
+# Xanthoparmelia isidiigera (Müll. Arg.) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 272 (1986)
 
 #### Original name
-null
+Parmelia conspersa f. isidiigera Müll. Arg.
 
 ### Remarks
 null

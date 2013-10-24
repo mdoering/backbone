@@ -1,5 +1,4 @@
-Lecidea congregata Zenk. SPECIES
-=======
+# Lecidea congregata Zenk. SPECIES
 
 #### Status
 ACCEPTED

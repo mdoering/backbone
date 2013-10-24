@@ -1,5 +1,4 @@
-Cladonia sipmanii Ahti SPECIES
-=======
+# Cladonia sipmanii Ahti SPECIES
 
 #### Status
 ACCEPTED

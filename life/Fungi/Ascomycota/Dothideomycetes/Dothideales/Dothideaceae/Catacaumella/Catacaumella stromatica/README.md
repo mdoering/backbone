@@ -1,5 +1,4 @@
-Catacaumella stromatica (Fuckel) Höhn. SPECIES
-=======
+# Catacaumella stromatica (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

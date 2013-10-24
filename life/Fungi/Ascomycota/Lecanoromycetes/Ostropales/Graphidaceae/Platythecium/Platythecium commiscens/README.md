@@ -1,5 +1,4 @@
-Platythecium commiscens Adaw. & Makhija SPECIES
-=======
+# Platythecium commiscens Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena casta (MacOwan) D.A. Reid SPECIES
-=======
+# Mycena casta (MacOwan) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium pallidospermum H.C. Greene SPECIES
-=======
+# Coniothyrium pallidospermum H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

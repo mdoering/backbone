@@ -1,5 +1,4 @@
-Puccinia veratricola F.L. Tai SPECIES
-=======
+# Puccinia veratricola F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

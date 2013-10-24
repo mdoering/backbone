@@ -1,5 +1,4 @@
-Pseudocercospora cyatheae C. Nakash. & S. Inaba SPECIES
-=======
+# Pseudocercospora cyatheae C. Nakash. & S. Inaba SPECIES
 
 #### Status
 ACCEPTED

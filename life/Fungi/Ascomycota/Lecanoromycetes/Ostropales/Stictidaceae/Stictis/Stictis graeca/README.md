@@ -1,14 +1,13 @@
-Stictis graecae (Höhn.) Sherwood SPECIES
-=======
+# Stictis graeca (Höhn.) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 6(2): 252 (1977)
 
 #### Original name
 Schizoxylon graecum Höhn.

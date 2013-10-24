@@ -1,5 +1,4 @@
-Arthonia decussata Flot. SPECIES
-=======
+# Arthonia decussata Flot. SPECIES
 
 #### Status
 ACCEPTED

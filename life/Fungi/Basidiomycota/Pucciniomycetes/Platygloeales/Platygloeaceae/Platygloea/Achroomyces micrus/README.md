@@ -1,14 +1,13 @@
-Platygloea micra Bourdot & Galzin, 1923 SPECIES
-=======
+# Achroomyces micrus (Bourdot & Galzin) Wojewoda, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 39: 261 (1923)
+Flora Polska, Grzyby, 8, Basidiomycetes, Tremellales, Auriculariales, Septobasidiales (Warszawa-Krakow) 8: 252 (1977)
 
 #### Original name
 Platygloea micra Bourdot & Galzin, 1923

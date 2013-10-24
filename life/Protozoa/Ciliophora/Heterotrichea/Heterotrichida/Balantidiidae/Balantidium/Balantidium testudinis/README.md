@@ -1,5 +1,4 @@
-Balantidium testudinis Chagas, 1911 SPECIES
-=======
+# Balantidium testudinis Chagas, 1911 SPECIES
 
 #### Status
 ACCEPTED

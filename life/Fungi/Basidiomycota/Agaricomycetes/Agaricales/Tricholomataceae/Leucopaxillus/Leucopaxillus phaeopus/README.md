@@ -1,5 +1,4 @@
-Leucopaxillus phaeopus (J. Favre & Poluzzi) Bon SPECIES
-=======
+# Leucopaxillus phaeopus (J. Favre & Poluzzi) Bon SPECIES
 
 #### Status
 ACCEPTED

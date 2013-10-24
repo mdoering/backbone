@@ -1,5 +1,4 @@
-Oscillatoria obscura Brühl & Biswas SPECIES
-=======
+# Oscillatoria obscura Brühl & Biswas SPECIES
 
 #### Status
 ACCEPTED

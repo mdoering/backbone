@@ -1,5 +1,4 @@
-Chlorophyllum brunneum (Farl. & Burt) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum brunneum (Farl. & Burt) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

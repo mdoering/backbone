@@ -1,5 +1,4 @@
-Polyporus filamentosus Pers. SPECIES
-=======
+# Polyporus filamentosus Pers. SPECIES
 
 #### Status
 ACCEPTED

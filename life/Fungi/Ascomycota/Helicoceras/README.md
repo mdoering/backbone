@@ -1,5 +1,4 @@
-Helicoceras Linder, 1931 GENUS
-=======
+# Helicoceras Linder, 1931 GENUS
 
 #### Status
 ACCEPTED

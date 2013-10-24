@@ -1,5 +1,4 @@
-Zygosaccharomyces salsa Takah. & Yukawa SPECIES
-=======
+# Zygosaccharomyces salsa Takah. & Yukawa SPECIES
 
 #### Status
 ACCEPTED

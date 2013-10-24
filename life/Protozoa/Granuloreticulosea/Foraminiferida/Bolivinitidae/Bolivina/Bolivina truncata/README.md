@@ -1,5 +1,4 @@
-Bolivina truncata SPECIES
-=======
+# Bolivina truncata SPECIES
 
 #### Status
 ACCEPTED

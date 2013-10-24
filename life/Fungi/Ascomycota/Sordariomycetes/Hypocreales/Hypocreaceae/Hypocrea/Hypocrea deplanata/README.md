@@ -1,5 +1,4 @@
-Hypocrea deplanata Berk. & Broome SPECIES
-=======
+# Hypocrea deplanata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haplosporella minuta Died. SPECIES
-=======
+# Aplosporella minuta Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 587 (1914)
 
 #### Original name
-Haplosporella minuta Died.
+Aplosporella minuta Died.
 
 ### Remarks
 null

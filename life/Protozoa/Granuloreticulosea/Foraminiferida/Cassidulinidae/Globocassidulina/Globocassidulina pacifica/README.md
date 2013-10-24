@@ -1,5 +1,4 @@
-Globocassidulina pacifica (Cushman, 1925) SPECIES
-=======
+# Globocassidulina pacifica (Cushman, 1925) SPECIES
 
 #### Status
 ACCEPTED

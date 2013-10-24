@@ -1,5 +1,4 @@
-Conidiobolus couchii Sriniv. & Thirum., 1968 SPECIES
-=======
+# Conidiobolus couchii Sriniv. & Thirum., 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraisotrichopsis Gasskovsky, 1919 GENUS
-=======
+# Paraisotrichopsis Gasskovsky, 1919 GENUS
 
 #### Status
 ACCEPTED

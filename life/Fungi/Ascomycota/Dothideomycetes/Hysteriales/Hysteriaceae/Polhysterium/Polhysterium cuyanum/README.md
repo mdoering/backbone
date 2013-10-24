@@ -1,5 +1,4 @@
-Polhysterium cuyanum Speg. SPECIES
-=======
+# Polhysterium cuyanum Speg. SPECIES
 
 #### Status
 ACCEPTED

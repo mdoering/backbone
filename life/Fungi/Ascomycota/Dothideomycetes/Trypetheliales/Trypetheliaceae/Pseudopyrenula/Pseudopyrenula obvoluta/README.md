@@ -1,5 +1,4 @@
-Pseudopyrenula obvoluta (Nyl.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula obvoluta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

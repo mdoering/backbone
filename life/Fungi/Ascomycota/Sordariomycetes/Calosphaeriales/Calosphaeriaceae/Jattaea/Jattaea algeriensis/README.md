@@ -1,5 +1,4 @@
-Jattaea algeriensis Berl., 1900 SPECIES
-=======
+# Jattaea algeriensis Berl., 1900 SPECIES
 
 #### Status
 ACCEPTED

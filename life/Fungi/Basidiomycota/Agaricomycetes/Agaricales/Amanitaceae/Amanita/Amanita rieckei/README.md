@@ -1,5 +1,4 @@
-Amanita rieckei (Rabenh.) P. Kumm. SPECIES
-=======
+# Amanita rieckei (Rabenh.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

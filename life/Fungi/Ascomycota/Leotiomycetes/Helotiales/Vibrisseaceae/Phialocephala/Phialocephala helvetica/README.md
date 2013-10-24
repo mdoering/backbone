@@ -1,5 +1,4 @@
-Phialocephala helvetica Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala helvetica Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

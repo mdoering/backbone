@@ -1,5 +1,4 @@
-Isariopsis stellariae Trail SPECIES
-=======
+# Isariopsis stellariae Trail SPECIES
 
 #### Status
 ACCEPTED

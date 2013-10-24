@@ -1,14 +1,13 @@
-Echinospora Léger, 1897 GENUS
-=======
+# Barrouxia Schneider, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-C. R. Soc. Biol. , Paris, 49, 1082.
+null
 
 #### Original name
 null

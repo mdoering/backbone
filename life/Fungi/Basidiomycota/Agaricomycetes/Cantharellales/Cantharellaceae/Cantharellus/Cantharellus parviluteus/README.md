@@ -1,5 +1,4 @@
-Cantharellus parviluteus Fernández Sas., Pérez-De-Greg. & Eyssart., 2004 SPECIES
-=======
+# Cantharellus parviluteus Fernández Sas., Pérez-De-Greg. & Eyssart., 2004 SPECIES
 
 #### Status
 ACCEPTED

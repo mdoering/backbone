@@ -1,5 +1,4 @@
-Pholiota mahabaleshwarensis Sathe & S.D. Deshp. SPECIES
-=======
+# Pholiota mahabaleshwarensis Sathe & S.D. Deshp. SPECIES
 
 #### Status
 ACCEPTED

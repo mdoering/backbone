@@ -1,5 +1,4 @@
-Synchytrium psophocarpi (Racib.) Gäum., 1927 SPECIES
-=======
+# Synchytrium psophocarpi (Racib.) Gäum., 1927 SPECIES
 
 #### Status
 ACCEPTED

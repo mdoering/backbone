@@ -1,5 +1,4 @@
-Globulina pacifica (Cushman & Ozawa) SPECIES
-=======
+# Globulina pacifica (Cushman & Ozawa) SPECIES
 
 #### Status
 ACCEPTED

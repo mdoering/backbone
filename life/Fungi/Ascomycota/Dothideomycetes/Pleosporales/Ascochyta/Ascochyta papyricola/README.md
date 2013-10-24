@@ -1,5 +1,4 @@
-Ascochyta papyricola Tassi SPECIES
-=======
+# Ascochyta papyricola Tassi SPECIES
 
 #### Status
 ACCEPTED

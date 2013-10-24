@@ -1,5 +1,4 @@
-Petriellopsis Gilgado, Cano, Guarro & Gené GENUS
-=======
+# Petriellopsis Gilgado, Cano, Guarro & Gené GENUS
 
 #### Status
 ACCEPTED

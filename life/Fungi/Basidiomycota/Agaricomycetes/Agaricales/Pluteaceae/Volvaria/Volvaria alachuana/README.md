@@ -1,5 +1,4 @@
-Volvaria alachuana (Murrill) Murrill SPECIES
-=======
+# Volvaria alachuana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

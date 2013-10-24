@@ -1,5 +1,4 @@
-Puccinia filopes Arthur & Holw. SPECIES
-=======
+# Puccinia filopes Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

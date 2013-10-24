@@ -1,8 +1,7 @@
-Myxococcus disciformis Thaxter, 1904 (Approved Lists, 1980) SPECIES
-=======
+# Cystobacter disciformis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

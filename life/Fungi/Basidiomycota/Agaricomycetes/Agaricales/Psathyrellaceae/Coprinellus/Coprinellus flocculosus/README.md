@@ -1,17 +1,16 @@
-Coprinus rostrupianus f. carbonarius Hongo FORM
-=======
+# Coprinellus flocculosus (DC.) Vilgalys, Hopple & Jacq. Johnson, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 233 (2001)
 
 #### Original name
-Coprinus rostrupianus f. carbonarius Hongo
+Agaricus flocculosus Berk., 1836
 
 ### Remarks
 null

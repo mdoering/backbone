@@ -1,5 +1,4 @@
-Clasterosporium cocoicola M.B. Ellis SPECIES
-=======
+# Clasterosporium cocoicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

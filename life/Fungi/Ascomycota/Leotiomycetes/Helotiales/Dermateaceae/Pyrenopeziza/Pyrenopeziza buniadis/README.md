@@ -1,5 +1,4 @@
-Pyrenopeziza buniadis Nannf. ex Gremmen SPECIES
-=======
+# Pyrenopeziza buniadis Nannf. ex Gremmen SPECIES
 
 #### Status
 ACCEPTED

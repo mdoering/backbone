@@ -1,5 +1,4 @@
-Mycoblastus marginatus Degel. SPECIES
-=======
+# Mycoblastus marginatus Degel. SPECIES
 
 #### Status
 ACCEPTED

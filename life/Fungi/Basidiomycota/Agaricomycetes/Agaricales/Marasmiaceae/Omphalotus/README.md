@@ -1,17 +1,16 @@
-Monodelphus Earle GENUS
-=======
+# Omphalotus Fayod, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 432 (1909)
+null
 
 #### Original name
-Monodelphus Earle
+null
 
 ### Remarks
 null

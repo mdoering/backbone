@@ -1,5 +1,4 @@
-Agaricus semilunatus With. SPECIES
-=======
+# Agaricus semilunatus With. SPECIES
 
 #### Status
 ACCEPTED

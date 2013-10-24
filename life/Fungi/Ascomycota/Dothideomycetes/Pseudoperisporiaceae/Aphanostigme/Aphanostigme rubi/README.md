@@ -1,5 +1,4 @@
-Aphanostigme rubi Hansf. SPECIES
-=======
+# Aphanostigme rubi Hansf. SPECIES
 
 #### Status
 ACCEPTED

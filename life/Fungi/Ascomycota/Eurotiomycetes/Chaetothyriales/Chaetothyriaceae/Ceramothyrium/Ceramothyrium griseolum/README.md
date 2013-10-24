@@ -1,5 +1,4 @@
-Ceramothyrium griseolum (L.R. Fraser) Bat. SPECIES
-=======
+# Ceramothyrium griseolum (L.R. Fraser) Bat. SPECIES
 
 #### Status
 ACCEPTED

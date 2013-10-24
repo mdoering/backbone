@@ -1,5 +1,4 @@
-Lyngbya papyracea (C. Agardh) P. A. C. Senna SPECIES
-=======
+# Lyngbya papyracea (C. Agardh) P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

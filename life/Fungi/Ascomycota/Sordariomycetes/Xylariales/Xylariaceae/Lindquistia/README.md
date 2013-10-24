@@ -1,5 +1,4 @@
-Lindquistia Subramanian & Chandrashekara, 1977 GENUS
-=======
+# Lindquistia Subramanian & Chandrashekara, 1977 GENUS
 
 #### Status
 ACCEPTED

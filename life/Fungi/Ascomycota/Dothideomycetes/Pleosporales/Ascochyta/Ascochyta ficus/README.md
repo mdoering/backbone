@@ -1,5 +1,4 @@
-Ascochyta ficus Traverso & Spessa SPECIES
-=======
+# Ascochyta ficus Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

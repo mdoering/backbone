@@ -1,5 +1,4 @@
-Agaricus comptuloides Murrill SPECIES
-=======
+# Agaricus comptuloides Murrill SPECIES
 
 #### Status
 ACCEPTED

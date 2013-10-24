@@ -1,5 +1,4 @@
-Refractomonas Skvortzov & Noda, 1969 GENUS
-=======
+# Refractomonas Skvortzov & Noda, 1969 GENUS
 
 #### Status
 ACCEPTED

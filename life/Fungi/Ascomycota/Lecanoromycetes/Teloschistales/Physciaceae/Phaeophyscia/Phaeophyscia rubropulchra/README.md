@@ -1,5 +1,4 @@
-Phaeophyscia rubropulchra (Degel.) Essl. SPECIES
-=======
+# Phaeophyscia rubropulchra (Degel.) Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia aphorisasa (Stirt.) A.L. Sm. SPECIES
-=======
+# Arthopyrenia aphorisasa (Stirt.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

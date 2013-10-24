@@ -1,17 +1,16 @@
-Sarcinella questieri (Desm.) Höhn., 1923 SPECIES
-=======
+# Schiffnerula pulchra (Sacc.) Petr., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 26(3/4): 397 (1928)
 
 #### Original name
-Coniothecium questieri Desm., 1857
+Dimerosporium pulchrum Sacc., 1882
 
 ### Remarks
 null

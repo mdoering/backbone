@@ -1,5 +1,4 @@
-Pseudocercosporella tephrosiae (Hansf.) U. Braun SPECIES
-=======
+# Pseudocercosporella tephrosiae (Hansf.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

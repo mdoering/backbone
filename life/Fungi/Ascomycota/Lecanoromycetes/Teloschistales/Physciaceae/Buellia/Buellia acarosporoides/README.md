@@ -1,5 +1,4 @@
-Buellia acarosporoides Darb. SPECIES
-=======
+# Buellia acarosporoides Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disnella L.T. Paskeviciené, 1980 GENUS
-=======
+# Disnella L.T. Paskeviciené, 1980 GENUS
 
 #### Status
 ACCEPTED

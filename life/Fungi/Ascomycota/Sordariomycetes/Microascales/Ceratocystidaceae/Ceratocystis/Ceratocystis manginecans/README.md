@@ -1,5 +1,4 @@
-Ceratocystis manginecans M. van Wyk, A. Adawi & M.J. Wingf. SPECIES
-=======
+# Ceratocystis manginecans M. van Wyk, A. Adawi & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

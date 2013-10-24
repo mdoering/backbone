@@ -1,5 +1,4 @@
-Leptogium firmum Nyl. SPECIES
-=======
+# Leptogium firmum Nyl. SPECIES
 
 #### Status
 ACCEPTED

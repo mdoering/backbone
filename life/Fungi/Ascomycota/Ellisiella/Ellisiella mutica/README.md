@@ -1,5 +1,4 @@
-Ellisiella mutica f. mutica FORM
-=======
+# Ellisiella mutica G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 24(5): 207 (1885)
 
 #### Original name
-Ellisiella mutica f. mutica
+Ellisiella mutica G. Winter
 
 ### Remarks
 null

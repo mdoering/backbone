@@ -1,5 +1,4 @@
-Dendrodochium nectriae Traverso SPECIES
-=======
+# Dendrodochium nectriae Traverso SPECIES
 
 #### Status
 ACCEPTED

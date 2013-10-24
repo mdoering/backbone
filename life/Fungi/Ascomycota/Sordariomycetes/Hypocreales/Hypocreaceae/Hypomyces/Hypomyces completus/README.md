@@ -1,5 +1,4 @@
-Hypomyces completus (G.R.W. Arnold) Rogerson & Samuels SPECIES
-=======
+# Hypomyces completus (G.R.W. Arnold) Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

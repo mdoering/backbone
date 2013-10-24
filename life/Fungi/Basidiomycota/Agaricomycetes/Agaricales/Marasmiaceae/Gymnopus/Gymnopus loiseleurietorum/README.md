@@ -1,5 +1,4 @@
-Gymnopus loiseleurietorum (M.M. Moser, Gerhold & Tobies) Antonín & Noordel. SPECIES
-=======
+# Gymnopus loiseleurietorum (M.M. Moser, Gerhold & Tobies) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

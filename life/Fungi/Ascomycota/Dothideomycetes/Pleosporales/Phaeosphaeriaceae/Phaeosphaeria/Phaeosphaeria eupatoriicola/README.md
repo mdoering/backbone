@@ -1,5 +1,4 @@
-Phaeosphaeria eupatoriicola J.M. Yen SPECIES
-=======
+# Phaeosphaeria eupatoriicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

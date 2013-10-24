@@ -1,5 +1,4 @@
-Heteropolaria Foissner & Schubert, 1977 GENUS
-=======
+# Heteropolaria Foissner & Schubert, 1977 GENUS
 
 #### Status
 ACCEPTED

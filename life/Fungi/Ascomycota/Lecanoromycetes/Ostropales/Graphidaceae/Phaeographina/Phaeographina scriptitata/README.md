@@ -1,5 +1,4 @@
-Phaeographina scriptitata C.W. Dodge SPECIES
-=======
+# Phaeographina scriptitata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

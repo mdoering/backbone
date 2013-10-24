@@ -1,5 +1,4 @@
-Pyrenula subpraelucida Müll. Arg. SPECIES
-=======
+# Pyrenula subpraelucida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

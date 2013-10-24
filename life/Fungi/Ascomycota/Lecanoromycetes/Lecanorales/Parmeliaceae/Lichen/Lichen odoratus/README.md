@@ -1,5 +1,4 @@
-Lichen odoratus (F.H. Wigg.) Roth SPECIES
-=======
+# Lichen odoratus (F.H. Wigg.) Roth SPECIES
 
 #### Status
 ACCEPTED

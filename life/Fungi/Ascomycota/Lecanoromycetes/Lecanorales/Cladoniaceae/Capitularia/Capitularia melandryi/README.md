@@ -1,5 +1,4 @@
-Capitularia melandryi (Dietel & Neger) Syd. SPECIES
-=======
+# Capitularia melandryi (Dietel & Neger) Syd. SPECIES
 
 #### Status
 ACCEPTED

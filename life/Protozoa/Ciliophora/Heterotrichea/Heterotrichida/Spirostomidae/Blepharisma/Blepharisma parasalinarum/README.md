@@ -1,5 +1,4 @@
-Blepharisma parasalinarum Dragesco, 1996 SPECIES
-=======
+# Blepharisma parasalinarum Dragesco, 1996 SPECIES
 
 #### Status
 ACCEPTED

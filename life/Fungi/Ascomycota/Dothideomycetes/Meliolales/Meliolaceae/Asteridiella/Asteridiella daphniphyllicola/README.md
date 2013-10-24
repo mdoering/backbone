@@ -1,5 +1,4 @@
-Asteridiella daphniphyllicola B. Song, T.H. Li & Q. He SPECIES
-=======
+# Asteridiella daphniphyllicola B. Song, T.H. Li & Q. He SPECIES
 
 #### Status
 ACCEPTED

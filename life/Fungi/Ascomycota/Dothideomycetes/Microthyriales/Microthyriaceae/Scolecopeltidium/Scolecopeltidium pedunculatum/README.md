@@ -1,5 +1,4 @@
-Scolecopeltidium pedunculatum Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium pedunculatum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

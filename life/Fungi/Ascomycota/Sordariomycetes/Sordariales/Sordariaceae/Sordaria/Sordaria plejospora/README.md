@@ -1,5 +1,4 @@
-Sordaria plejospora G. Winter SPECIES
-=======
+# Sordaria plejospora G. Winter SPECIES
 
 #### Status
 ACCEPTED

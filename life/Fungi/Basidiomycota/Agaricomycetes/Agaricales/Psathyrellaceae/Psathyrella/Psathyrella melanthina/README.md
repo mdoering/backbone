@@ -1,5 +1,4 @@
-Psathyrella melanthina (Fr.) Kits van Wav. SPECIES
-=======
+# Psathyrella melanthina (Fr.) Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

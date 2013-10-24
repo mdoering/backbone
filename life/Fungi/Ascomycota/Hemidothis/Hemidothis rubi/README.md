@@ -1,5 +1,4 @@
-Hemidothis rubi (Died.) Höhn. SPECIES
-=======
+# Hemidothis rubi (Died.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

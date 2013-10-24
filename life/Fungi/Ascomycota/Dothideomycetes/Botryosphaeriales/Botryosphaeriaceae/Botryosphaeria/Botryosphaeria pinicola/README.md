@@ -1,5 +1,4 @@
-Botryosphaeria pinicola Speg. SPECIES
-=======
+# Botryosphaeria pinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

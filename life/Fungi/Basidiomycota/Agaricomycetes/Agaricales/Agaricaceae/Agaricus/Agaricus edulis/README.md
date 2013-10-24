@@ -1,5 +1,4 @@
-Agaricus edulis var. edulis Bull. VARIETY
-=======
+# Agaricus edulis (Vittad.) SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Herb. Fr. Champ. (Paris), Histoire des Champignons 134 (1783)
 
 #### Original name
-Agaricus edulis var. edulis Bull.
+Agaricus edulis (Vittad.)
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Columnosphaeria GENUS
-=======
+# Columnosphaeria GENUS
 
 #### Status
 ACCEPTED

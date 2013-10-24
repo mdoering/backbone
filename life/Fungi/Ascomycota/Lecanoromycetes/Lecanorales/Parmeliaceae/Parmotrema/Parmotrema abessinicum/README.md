@@ -1,17 +1,16 @@
-Parmelia abessinica f. abessinica FORM
-=======
+# Parmotrema abessinicum (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 334 (1974)
 
 #### Original name
-Parmelia abessinica f. abessinica
+Parmelia abessinica Nyl. ex Kremp.
 
 ### Remarks
 null

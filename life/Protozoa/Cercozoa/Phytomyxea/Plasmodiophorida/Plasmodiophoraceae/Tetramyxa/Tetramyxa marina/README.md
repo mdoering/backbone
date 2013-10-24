@@ -1,5 +1,4 @@
-Tetramyxa marina Lipkin & Avidor, 1974 SPECIES
-=======
+# Tetramyxa marina Lipkin & Avidor, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hysterangium simlensis K.S. Thind & I.P.S. Thind SPECIES
-=======
+# Hysterangium simlense K.S. Thind & I.P.S. Thind SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Thind, Thind & Sharma, Indian Phytopath. 35(4): 615 (1982)
 
 #### Original name
-Hysterangium simlensis K.S. Thind & I.P.S. Thind
+Hysterangium simlense K.S. Thind & I.P.S. Thind
 
 ### Remarks
 null

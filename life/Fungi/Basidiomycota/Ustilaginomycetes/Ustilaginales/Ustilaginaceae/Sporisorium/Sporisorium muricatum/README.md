@@ -1,5 +1,4 @@
-Sporisorium muricatum Ces. SPECIES
-=======
+# Sporisorium muricatum Ces. SPECIES
 
 #### Status
 ACCEPTED

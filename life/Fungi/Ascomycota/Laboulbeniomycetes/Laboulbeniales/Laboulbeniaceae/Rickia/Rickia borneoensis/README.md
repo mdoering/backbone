@@ -1,5 +1,4 @@
-Rickia borneoensis K. Sugiy. & Hiroy. Yamam. SPECIES
-=======
+# Rickia borneoensis K. Sugiy. & Hiroy. Yamam. SPECIES
 
 #### Status
 ACCEPTED

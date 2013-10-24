@@ -1,5 +1,4 @@
-Diplodia ligustricola Girz. SPECIES
-=======
+# Diplodia ligustricola Girz. SPECIES
 
 #### Status
 ACCEPTED

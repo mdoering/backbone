@@ -1,5 +1,4 @@
-Micrococcus superbus SPECIES
-=======
+# Micrococcus superbus SPECIES
 
 #### Status
 ACCEPTED

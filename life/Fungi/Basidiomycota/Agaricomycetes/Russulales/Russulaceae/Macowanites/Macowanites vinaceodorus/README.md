@@ -1,5 +1,4 @@
-Macowanites vinaceodorus Calonge & J.M. Vidal SPECIES
-=======
+# Macowanites vinaceodorus Calonge & J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

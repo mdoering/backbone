@@ -1,17 +1,16 @@
-Lauterbachiella dicksoniafolia Dingley SPECIES
-=======
+# Rhagadolobium dicksoniifolium (Dingley) Arx & E. Müll., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 9: 39 (1975)
 
 #### Original name
-Lauterbachiella dicksoniafolia Dingley
+Lauterbachiella dicksoniifolia Dingley, 1972
 
 ### Remarks
 null

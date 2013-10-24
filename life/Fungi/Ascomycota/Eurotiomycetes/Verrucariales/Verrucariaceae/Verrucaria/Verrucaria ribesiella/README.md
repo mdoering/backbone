@@ -1,5 +1,4 @@
-Verrucaria ribesiella Nyl. ex Vain. SPECIES
-=======
+# Verrucaria ribesiella Nyl. ex Vain. SPECIES
 
 #### Status
 ACCEPTED

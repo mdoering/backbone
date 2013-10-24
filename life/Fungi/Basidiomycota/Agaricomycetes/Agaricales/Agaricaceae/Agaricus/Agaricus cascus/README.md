@@ -1,5 +1,4 @@
-Agaricus cascus Fr. SPECIES
-=======
+# Agaricus cascus Fr. SPECIES
 
 #### Status
 ACCEPTED

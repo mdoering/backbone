@@ -1,5 +1,4 @@
-Leptosphaeria marginalis Sacc. SPECIES
-=======
+# Leptosphaeria marginalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

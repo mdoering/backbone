@@ -1,5 +1,4 @@
-Russula integriformis Sarnari SPECIES
-=======
+# Russula integriformis Sarnari SPECIES
 
 #### Status
 ACCEPTED

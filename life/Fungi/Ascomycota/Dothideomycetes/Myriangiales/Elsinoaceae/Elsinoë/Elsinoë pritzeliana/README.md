@@ -1,5 +1,4 @@
-Elsinoë pritzeliana (Henn.) Arx & E. Müll. SPECIES
-=======
+# Elsinoë pritzeliana (Henn.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

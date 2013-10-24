@@ -1,5 +1,4 @@
-Hypocopra bolbitoni (Quél.) Sacc. SPECIES
-=======
+# Hypocopra bolbitoni (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

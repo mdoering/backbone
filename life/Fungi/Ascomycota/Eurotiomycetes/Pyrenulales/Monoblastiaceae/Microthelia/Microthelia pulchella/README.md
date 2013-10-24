@@ -1,5 +1,4 @@
-Microthelia pulchella (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Microthelia pulchella (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

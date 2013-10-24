@@ -1,5 +1,4 @@
-Halospirulina tapeticola Nübel et al., 2000 SPECIES
-=======
+# Halospirulina tapeticola Nübel et al., 2000 SPECIES
 
 #### Status
 DOUBTFUL

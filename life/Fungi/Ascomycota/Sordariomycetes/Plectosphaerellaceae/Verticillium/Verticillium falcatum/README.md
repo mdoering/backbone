@@ -1,14 +1,13 @@
-Cephalosporium falcatum Petch, 1926 SPECIES
-=======
+# Verticillium falcatum (Petch) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 11: 259 (1926)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 187 (1971)
 
 #### Original name
 Cephalosporium falcatum Petch, 1926

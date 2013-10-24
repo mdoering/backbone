@@ -1,5 +1,4 @@
-Rozites armeniacovelatus Bougher, Fuhrer & E. Horak SPECIES
-=======
+# Rozites armeniacovelatus Bougher, Fuhrer & E. Horak SPECIES
 
 #### Status
 ACCEPTED

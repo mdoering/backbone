@@ -1,5 +1,4 @@
-Cercospora rejonae Thirum. & Govindu SPECIES
-=======
+# Cercospora rejonae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

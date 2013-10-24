@@ -1,5 +1,4 @@
-Hygrocybe holoxantha E. Horak SPECIES
-=======
+# Hygrocybe holoxantha E. Horak SPECIES
 
 #### Status
 ACCEPTED

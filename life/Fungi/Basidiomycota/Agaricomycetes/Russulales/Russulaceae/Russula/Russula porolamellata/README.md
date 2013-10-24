@@ -1,5 +1,4 @@
-Russula porolamellata Melzer SPECIES
-=======
+# Russula porolamellata Melzer SPECIES
 
 #### Status
 ACCEPTED

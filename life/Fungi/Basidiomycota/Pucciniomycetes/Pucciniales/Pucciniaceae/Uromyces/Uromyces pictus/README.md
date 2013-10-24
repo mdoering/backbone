@@ -1,5 +1,4 @@
-Uromyces pictus Thüm. SPECIES
-=======
+# Uromyces pictus Thüm. SPECIES
 
 #### Status
 ACCEPTED

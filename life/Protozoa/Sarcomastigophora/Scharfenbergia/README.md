@@ -1,5 +1,4 @@
-Scharfenbergia Won, 1983 GENUS
-=======
+# Scharfenbergia Won, 1983 GENUS
 
 #### Status
 ACCEPTED

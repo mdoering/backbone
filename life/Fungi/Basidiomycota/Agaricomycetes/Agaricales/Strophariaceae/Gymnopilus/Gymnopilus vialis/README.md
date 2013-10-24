@@ -1,5 +1,4 @@
-Gymnopilus vialis Murrill SPECIES
-=======
+# Gymnopilus vialis Murrill SPECIES
 
 #### Status
 ACCEPTED

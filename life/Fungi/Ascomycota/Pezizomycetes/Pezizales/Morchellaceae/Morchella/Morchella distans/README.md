@@ -1,5 +1,4 @@
-Morchella distans Fr. SPECIES
-=======
+# Morchella distans Fr. SPECIES
 
 #### Status
 ACCEPTED

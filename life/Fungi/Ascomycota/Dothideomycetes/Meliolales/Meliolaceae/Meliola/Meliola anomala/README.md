@@ -1,5 +1,4 @@
-Meliola anomala Tracy & Earle SPECIES
-=======
+# Meliola anomala Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

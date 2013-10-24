@@ -1,5 +1,4 @@
-Acia diaphana (Schrad.) P. Karst. SPECIES
-=======
+# Acia diaphana (Schrad.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

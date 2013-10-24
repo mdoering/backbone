@@ -1,5 +1,4 @@
-Rhizidiomyces hirsutus Karling, 1945 SPECIES
-=======
+# Rhizidiomyces hirsutus Karling, 1945 SPECIES
 
 #### Status
 ACCEPTED

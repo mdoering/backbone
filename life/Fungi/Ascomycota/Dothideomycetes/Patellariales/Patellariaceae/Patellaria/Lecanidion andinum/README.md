@@ -1,5 +1,4 @@
-Lecanidion andinum Speg. SPECIES
-=======
+# Lecanidion andinum Speg. SPECIES
 
 #### Status
 ACCEPTED

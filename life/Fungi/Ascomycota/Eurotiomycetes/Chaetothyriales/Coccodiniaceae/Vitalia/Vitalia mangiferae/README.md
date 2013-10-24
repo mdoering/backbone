@@ -1,5 +1,4 @@
-Vitalia mangiferae (Bat. & I.H. Lima) Bat. SPECIES
-=======
+# Vitalia mangiferae (Bat. & I.H. Lima) Bat. SPECIES
 
 #### Status
 ACCEPTED

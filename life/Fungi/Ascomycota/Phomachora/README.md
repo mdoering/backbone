@@ -1,17 +1,16 @@
-Pycnidiostroma F. Stevens GENUS
-=======
+# Phomachora Petr. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11: 197 (1927)
+Annls mycol. 23(3/6): 236 (1925)
 
 #### Original name
-Pycnidiostroma F. Stevens
+Phomachora Petr. & Syd.
 
 ### Remarks
 null

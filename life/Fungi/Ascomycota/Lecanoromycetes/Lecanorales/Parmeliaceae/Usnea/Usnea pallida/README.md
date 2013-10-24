@@ -1,5 +1,4 @@
-Usnea pallida Motyka SPECIES
-=======
+# Usnea pallida Motyka SPECIES
 
 #### Status
 ACCEPTED

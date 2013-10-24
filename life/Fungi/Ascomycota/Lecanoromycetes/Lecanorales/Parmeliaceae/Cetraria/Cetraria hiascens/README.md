@@ -1,5 +1,4 @@
-Cetraria hiascens var. hiascens VARIETY
-=======
+# Cetraria hiascens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria hiascens var. hiascens
+null
 
 ### Remarks
 null

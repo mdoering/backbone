@@ -1,5 +1,4 @@
-Agaricus succulentus Pers. SPECIES
-=======
+# Agaricus succulentus Pers. SPECIES
 
 #### Status
 ACCEPTED

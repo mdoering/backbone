@@ -1,5 +1,4 @@
-Microthyrium styracis Starbäck SPECIES
-=======
+# Microthyrium styracis Starbäck SPECIES
 
 #### Status
 ACCEPTED

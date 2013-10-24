@@ -1,5 +1,4 @@
-Gyalosphaeridium Zang & Walter, 1992 GENUS
-=======
+# Gyalosphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

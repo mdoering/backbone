@@ -1,5 +1,4 @@
-Psilocybe henningsii Jungner {?} SPECIES
-=======
+# Psilocybe henningsii Jungner {?} SPECIES
 
 #### Status
 ACCEPTED

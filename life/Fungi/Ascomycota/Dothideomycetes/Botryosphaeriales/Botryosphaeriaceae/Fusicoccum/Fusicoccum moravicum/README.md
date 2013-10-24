@@ -1,5 +1,4 @@
-Fusicoccum moravicum Bubák SPECIES
-=======
+# Fusicoccum moravicum Bubák SPECIES
 
 #### Status
 ACCEPTED

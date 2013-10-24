@@ -1,5 +1,4 @@
-Dicaeoma mertensiae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma mertensiae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

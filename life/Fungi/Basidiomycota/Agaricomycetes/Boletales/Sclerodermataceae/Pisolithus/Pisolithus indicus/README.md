@@ -1,5 +1,4 @@
-Pisolithus indicus Natarajan & Senthil., 2005 SPECIES
-=======
+# Pisolithus indicus Natarajan & Senthil., 2005 SPECIES
 
 #### Status
 ACCEPTED

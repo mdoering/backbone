@@ -1,5 +1,4 @@
-Physcia poncinsii Hue SPECIES
-=======
+# Physcia poncinsii Hue SPECIES
 
 #### Status
 ACCEPTED

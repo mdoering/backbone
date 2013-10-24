@@ -1,17 +1,16 @@
-Monotretomyces Morgan-Jones, R.C. Sinclair & Eicker GENUS
-=======
+# Corynesporopsis P.M. Kirk GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 29: 353 (1987)
+Trans. Br. mycol. Soc. 77(2): 283 (1981)
 
 #### Original name
-Monotretomyces Morgan-Jones, R.C. Sinclair & Eicker
+Corynesporopsis P.M. Kirk
 
 ### Remarks
 null

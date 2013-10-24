@@ -1,5 +1,4 @@
-Arthonia nemoralis Stirt. SPECIES
-=======
+# Arthonia nemoralis Stirt. SPECIES
 
 #### Status
 ACCEPTED

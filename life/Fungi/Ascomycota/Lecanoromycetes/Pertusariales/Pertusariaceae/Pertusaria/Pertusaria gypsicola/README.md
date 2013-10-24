@@ -1,5 +1,4 @@
-Pertusaria gypsicola Erichsen SPECIES
-=======
+# Pertusaria gypsicola Erichsen SPECIES
 
 #### Status
 ACCEPTED

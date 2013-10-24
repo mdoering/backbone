@@ -1,5 +1,4 @@
-Mastomyces friesii Mont. SPECIES
-=======
+# Mastomyces friesii Mont. SPECIES
 
 #### Status
 ACCEPTED

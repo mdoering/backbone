@@ -1,5 +1,4 @@
-Didymosporium arbuticola Zeller, 1934 SPECIES
-=======
+# Didymosporium arbuticola Zeller, 1934 SPECIES
 
 #### Status
 ACCEPTED

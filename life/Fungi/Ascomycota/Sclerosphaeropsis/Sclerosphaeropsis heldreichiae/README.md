@@ -1,5 +1,4 @@
-Sclerosphaeropsis heldreichiae Bubák SPECIES
-=======
+# Sclerosphaeropsis heldreichiae Bubák SPECIES
 
 #### Status
 ACCEPTED

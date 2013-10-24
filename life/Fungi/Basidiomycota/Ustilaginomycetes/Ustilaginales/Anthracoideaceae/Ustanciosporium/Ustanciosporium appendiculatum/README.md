@@ -1,5 +1,4 @@
-Ustanciosporium appendiculatum M. Piepenbr., 2000 SPECIES
-=======
+# Ustanciosporium appendiculatum M. Piepenbr., 2000 SPECIES
 
 #### Status
 ACCEPTED

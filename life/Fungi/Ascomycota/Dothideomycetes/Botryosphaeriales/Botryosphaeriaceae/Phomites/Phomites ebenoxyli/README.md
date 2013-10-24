@@ -1,17 +1,16 @@
-Phomites ebenoxyloni Chitaley & G.V. Patil SPECIES
-=======
+# Phomites ebenoxyli Chitaley & G.V. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 3(2): 104 and figs 1-13 (1973)
 
 #### Original name
-Phomites ebenoxyloni Chitaley & G.V. Patil
+Phomites ebenoxyli Chitaley & G.V. Patil
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypocrella sloaneae Pat. SPECIES
-=======
+# Hypocrella sloaneae Pat. SPECIES
 
 #### Status
 ACCEPTED

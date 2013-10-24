@@ -1,5 +1,4 @@
-Corynespora toonae X.G. Zhang & Cheng K. Shi SPECIES
-=======
+# Corynespora toonae X.G. Zhang & Cheng K. Shi SPECIES
 
 #### Status
 ACCEPTED

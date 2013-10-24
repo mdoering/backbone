@@ -1,5 +1,4 @@
-Enterographa duraei (Mont.) Redinger SPECIES
-=======
+# Enterographa duraei (Mont.) Redinger SPECIES
 
 #### Status
 ACCEPTED

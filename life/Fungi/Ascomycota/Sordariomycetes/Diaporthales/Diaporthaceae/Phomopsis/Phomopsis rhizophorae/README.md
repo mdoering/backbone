@@ -1,5 +1,4 @@
-Phomopsis rhizophorae Bat. & H. Maia SPECIES
-=======
+# Phomopsis rhizophorae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

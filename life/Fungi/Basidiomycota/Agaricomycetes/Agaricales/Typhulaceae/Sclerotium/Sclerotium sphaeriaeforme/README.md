@@ -1,5 +1,4 @@
-Sclerotium sphaeriaeforme Lib. SPECIES
-=======
+# Sclerotium sphaeriaeforme Lib. SPECIES
 
 #### Status
 ACCEPTED

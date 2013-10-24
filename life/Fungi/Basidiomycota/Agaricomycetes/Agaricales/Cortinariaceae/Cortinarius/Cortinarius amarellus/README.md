@@ -1,5 +1,4 @@
-Cortinarius amarellus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius amarellus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

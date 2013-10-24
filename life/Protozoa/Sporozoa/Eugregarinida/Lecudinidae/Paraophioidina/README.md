@@ -1,5 +1,4 @@
-Paraophioidina Levine, 1977 GENUS
-=======
+# Paraophioidina Levine, 1977 GENUS
 
 #### Status
 ACCEPTED

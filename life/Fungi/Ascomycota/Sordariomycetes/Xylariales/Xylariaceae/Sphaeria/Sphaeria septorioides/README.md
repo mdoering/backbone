@@ -1,5 +1,4 @@
-Sphaeria septorioides Desm. SPECIES
-=======
+# Sphaeria septorioides Desm. SPECIES
 
 #### Status
 ACCEPTED

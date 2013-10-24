@@ -1,5 +1,4 @@
-Psilocybe megacystis E. Horak SPECIES
-=======
+# Psilocybe megacystis E. Horak SPECIES
 
 #### Status
 ACCEPTED

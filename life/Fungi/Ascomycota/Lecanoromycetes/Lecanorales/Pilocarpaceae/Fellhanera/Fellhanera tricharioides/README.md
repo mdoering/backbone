@@ -1,5 +1,4 @@
-Fellhanera tricharioides Lücking & R. Sant. SPECIES
-=======
+# Fellhanera tricharioides Lücking & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

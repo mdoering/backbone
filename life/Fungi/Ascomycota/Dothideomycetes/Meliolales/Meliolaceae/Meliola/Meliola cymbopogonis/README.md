@@ -1,5 +1,4 @@
-Meliola cymbopogonis J.N. Kapoor SPECIES
-=======
+# Meliola cymbopogonis J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

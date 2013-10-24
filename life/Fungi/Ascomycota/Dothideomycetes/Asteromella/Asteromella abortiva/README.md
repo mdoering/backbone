@@ -1,5 +1,4 @@
-Asteromella abortiva (Ellis & Kellerm.) Vanev & Aa SPECIES
-=======
+# Asteromella abortiva (Ellis & Kellerm.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

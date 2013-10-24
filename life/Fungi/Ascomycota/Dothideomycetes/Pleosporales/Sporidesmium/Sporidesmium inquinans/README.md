@@ -1,5 +1,4 @@
-Sporidesmium inquinans Ellis & Everh. SPECIES
-=======
+# Sporidesmium inquinans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

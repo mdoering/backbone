@@ -1,5 +1,4 @@
-Empusa puparum Teich SPECIES
-=======
+# Empusa puparum Teich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorotichia gelatinosa Anzi SPECIES
-=======
+# Psorotichia gelatinosa Anzi SPECIES
 
 #### Status
 ACCEPTED

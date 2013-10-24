@@ -1,5 +1,4 @@
-Actinobacillus suis van Dorssen and Jaartsveld, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Actinobacillus suis van Dorssen and Jaartsveld, 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

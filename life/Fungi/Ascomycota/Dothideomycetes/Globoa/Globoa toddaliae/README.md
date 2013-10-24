@@ -1,5 +1,4 @@
-Globoa toddaliae Bat. & H. Maia, 1962 SPECIES
-=======
+# Globoa toddaliae Bat. & H. Maia, 1962 SPECIES
 
 #### Status
 ACCEPTED

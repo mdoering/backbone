@@ -1,5 +1,4 @@
-Macrophoma paulistana Speg. SPECIES
-=======
+# Macrophoma paulistana Speg. SPECIES
 
 #### Status
 ACCEPTED

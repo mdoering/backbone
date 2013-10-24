@@ -1,14 +1,13 @@
-Lichenodiplis opegraphae (D. Hawksw.) Diederich, 2003 SPECIES
-=======
+# Laeviomyces opegraphae D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herzogia 16: 62 (2003)
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 28 (1981)
 
 #### Original name
 Laeviomyces opegraphae D. Hawksw., 1981

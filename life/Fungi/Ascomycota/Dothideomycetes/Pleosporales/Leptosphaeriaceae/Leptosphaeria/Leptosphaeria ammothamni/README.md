@@ -1,5 +1,4 @@
-Leptosphaeria ammothamni Koshk. SPECIES
-=======
+# Leptosphaeria ammothamni Koshk. SPECIES
 
 #### Status
 ACCEPTED

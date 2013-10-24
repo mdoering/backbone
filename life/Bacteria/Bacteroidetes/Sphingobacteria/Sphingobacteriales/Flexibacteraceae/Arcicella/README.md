@@ -1,5 +1,4 @@
-Arcicella Nikitin, Strompl, Oranskaya & Abraham, 2004 GENUS
-=======
+# Arcicella Nikitin, Strompl, Oranskaya & Abraham, 2004 GENUS
 
 #### Status
 ACCEPTED

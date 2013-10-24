@@ -1,5 +1,4 @@
-Galerina laricicola Bon SPECIES
-=======
+# Galerina laricicola Bon SPECIES
 
 #### Status
 ACCEPTED

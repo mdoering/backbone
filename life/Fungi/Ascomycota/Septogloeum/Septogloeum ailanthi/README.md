@@ -1,5 +1,4 @@
-Septogloeum ailanthi Bres. SPECIES
-=======
+# Septogloeum ailanthi Bres. SPECIES
 
 #### Status
 ACCEPTED

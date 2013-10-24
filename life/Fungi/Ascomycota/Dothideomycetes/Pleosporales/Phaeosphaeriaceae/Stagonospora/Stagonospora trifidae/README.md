@@ -1,5 +1,4 @@
-Stagonospora trifidae H.C. Greene SPECIES
-=======
+# Stagonospora trifidae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus aurantiacoluteus Berk. & M.A. Curtis SPECIES
-=======
+# Hygrophorus aurantiacoluteus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

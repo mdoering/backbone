@@ -1,17 +1,16 @@
-Monilia montoyai Castell. & Chalm. SPECIES
-=======
+# Monilia montoyae Castell. & Chalm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Manual of tropical medicine (London) 622 (1910)
 
 #### Original name
-Monilia montoyai Castell. & Chalm.
+Monilia montoyae Castell. & Chalm.
 
 ### Remarks
 null

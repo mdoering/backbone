@@ -1,5 +1,4 @@
-Leptosphaeria xerophylli Ellis SPECIES
-=======
+# Leptosphaeria xerophylli Ellis SPECIES
 
 #### Status
 ACCEPTED

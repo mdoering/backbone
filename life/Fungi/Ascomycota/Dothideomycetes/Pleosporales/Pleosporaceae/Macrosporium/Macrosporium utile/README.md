@@ -1,5 +1,4 @@
-Macrosporium utile Kellerm. & Swingle SPECIES
-=======
+# Macrosporium utile Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

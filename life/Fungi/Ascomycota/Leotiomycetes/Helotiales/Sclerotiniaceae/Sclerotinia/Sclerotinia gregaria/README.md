@@ -1,5 +1,4 @@
-Sclerotinia gregaria B.F. Dana SPECIES
-=======
+# Sclerotinia gregaria B.F. Dana SPECIES
 
 #### Status
 ACCEPTED

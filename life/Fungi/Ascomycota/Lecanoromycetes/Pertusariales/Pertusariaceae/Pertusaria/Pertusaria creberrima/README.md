@@ -1,5 +1,4 @@
-Pertusaria creberrima Stirt. SPECIES
-=======
+# Pertusaria creberrima Stirt. SPECIES
 
 #### Status
 ACCEPTED

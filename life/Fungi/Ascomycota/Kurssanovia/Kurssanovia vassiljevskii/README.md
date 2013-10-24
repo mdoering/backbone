@@ -1,5 +1,4 @@
-Kurssanovia vassiljevskii Kravtzev, 1955 SPECIES
-=======
+# Kurssanovia vassiljevskii Kravtzev, 1955 SPECIES
 
 #### Status
 ACCEPTED

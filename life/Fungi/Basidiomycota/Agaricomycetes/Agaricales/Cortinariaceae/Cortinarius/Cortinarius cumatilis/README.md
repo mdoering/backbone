@@ -1,17 +1,16 @@
-Cortinarius cumatilis var. cumatilis VARIETY
-=======
+# Cortinarius cumatilis Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 269 (1838)
 
 #### Original name
-Cortinarius cumatilis var. cumatilis
+Cortinarius cumatilis Fr., 1838
 
 ### Remarks
 null

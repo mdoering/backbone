@@ -1,5 +1,4 @@
-Lillicoa speciosa Sherwood SPECIES
-=======
+# Lillicoa speciosa Sherwood SPECIES
 
 #### Status
 ACCEPTED

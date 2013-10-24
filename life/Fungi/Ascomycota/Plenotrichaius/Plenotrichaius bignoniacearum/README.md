@@ -1,5 +1,4 @@
-Plenotrichaius bignoniacearum Bat., M.P. Herrera & J.L. Bezerra SPECIES
-=======
+# Plenotrichaius bignoniacearum Bat., M.P. Herrera & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia lichenicola Sacc. SPECIES
-=======
+# Tubercularia lichenicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

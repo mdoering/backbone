@@ -1,5 +1,4 @@
-Buellia atrocinerea (Anzi) Zahlbr. SPECIES
-=======
+# Buellia atrocinerea (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

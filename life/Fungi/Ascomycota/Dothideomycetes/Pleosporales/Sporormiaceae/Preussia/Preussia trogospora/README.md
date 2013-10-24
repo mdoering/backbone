@@ -1,5 +1,4 @@
-Preussia trogospora (S.I. Ahmed & Cain) Guarro SPECIES
-=======
+# Preussia trogospora (S.I. Ahmed & Cain) Guarro SPECIES
 
 #### Status
 ACCEPTED

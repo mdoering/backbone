@@ -1,5 +1,4 @@
-Sporochnus elsieae Lindauer SPECIES
-=======
+# Sporochnus elsieae Lindauer SPECIES
 
 #### Status
 ACCEPTED

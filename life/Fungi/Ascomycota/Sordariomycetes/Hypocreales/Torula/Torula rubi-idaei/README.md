@@ -1,5 +1,4 @@
-Torula rubi-idaei Allesch. SPECIES
-=======
+# Torula rubi-idaei Allesch. SPECIES
 
 #### Status
 ACCEPTED

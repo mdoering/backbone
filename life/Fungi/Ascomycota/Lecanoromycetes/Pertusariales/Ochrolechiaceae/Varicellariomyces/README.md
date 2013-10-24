@@ -1,5 +1,4 @@
-Varicellariomyces GENUS
-=======
+# Varicellariomyces GENUS
 
 #### Status
 ACCEPTED

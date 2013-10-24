@@ -1,5 +1,4 @@
-Heterochaete pengii X.W. Hu SPECIES
-=======
+# Heterochaete pengii X.W. Hu SPECIES
 
 #### Status
 ACCEPTED

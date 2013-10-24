@@ -1,5 +1,4 @@
-Peniophora subcarneola Rick SPECIES
-=======
+# Peniophora subcarneola Rick SPECIES
 
 #### Status
 ACCEPTED

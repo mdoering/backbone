@@ -1,5 +1,4 @@
-Physalospora padina (Fr.) Cooke SPECIES
-=======
+# Physalospora padina (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

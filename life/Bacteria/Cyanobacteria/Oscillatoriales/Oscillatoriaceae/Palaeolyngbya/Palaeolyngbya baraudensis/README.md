@@ -1,5 +1,4 @@
-Palaeolyngbya baraudensis J. Mandal & P. K. Maithy SPECIES
-=======
+# Palaeolyngbya baraudensis J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

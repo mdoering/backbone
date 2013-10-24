@@ -1,5 +1,4 @@
-Cortinarius pumanquensis M.M. Moser SPECIES
-=======
+# Cortinarius pumanquensis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia schmitzii Targé SPECIES
-=======
+# Parmelia schmitzii Targé SPECIES
 
 #### Status
 ACCEPTED

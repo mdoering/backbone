@@ -1,5 +1,4 @@
-Exserohilum longisporum G.Y. Sun SPECIES
-=======
+# Exserohilum longisporum G.Y. Sun SPECIES
 
 #### Status
 ACCEPTED

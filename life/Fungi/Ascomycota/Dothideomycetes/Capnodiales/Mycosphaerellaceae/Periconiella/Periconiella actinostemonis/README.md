@@ -1,5 +1,4 @@
-Periconiella actinostemonis Peres & J.L. Bezerra SPECIES
-=======
+# Periconiella actinostemonis Peres & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

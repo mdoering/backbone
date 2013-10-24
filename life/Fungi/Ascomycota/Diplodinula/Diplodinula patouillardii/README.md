@@ -1,5 +1,4 @@
-Diplodinula patouillardii (Sacc. & Syd.) Tassi SPECIES
-=======
+# Diplodinula patouillardii (Sacc. & Syd.) Tassi SPECIES
 
 #### Status
 ACCEPTED

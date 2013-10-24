@@ -1,5 +1,4 @@
-Vorticella cincta Muller, 1773 SPECIES
-=======
+# Vorticella cincta Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

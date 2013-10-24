@@ -1,14 +1,13 @@
-Corticium subflavidogriseum Litsch., 1941 SPECIES
-=======
+# Xenasmatella subflavidogrisea (Litsch.) Oberw., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(2/3): 127 (1941)
+Sydowia 19: 33 (1966)
 
 #### Original name
 Corticium subflavidogriseum Litsch., 1941

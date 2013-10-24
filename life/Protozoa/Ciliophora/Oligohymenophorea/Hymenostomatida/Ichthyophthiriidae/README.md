@@ -1,5 +1,4 @@
-Ichthyophthiriidae FAMILY
-=======
+# Ichthyophthiriidae FAMILY
 
 #### Status
 ACCEPTED

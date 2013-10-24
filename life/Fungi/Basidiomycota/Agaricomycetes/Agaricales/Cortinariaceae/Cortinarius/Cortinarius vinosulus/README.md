@@ -1,5 +1,4 @@
-Cortinarius vinosulus Berk. SPECIES
-=======
+# Cortinarius vinosulus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria moricola Sacc. SPECIES
-=======
+# Cucurbitaria moricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

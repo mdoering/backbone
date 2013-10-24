@@ -1,5 +1,4 @@
-Phyllachora pappiana Bacc., 1906 SPECIES
-=======
+# Phyllachora pappiana Bacc., 1906 SPECIES
 
 #### Status
 DOUBTFUL

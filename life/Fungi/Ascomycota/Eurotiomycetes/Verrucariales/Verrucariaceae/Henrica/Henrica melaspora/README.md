@@ -1,5 +1,4 @@
-Henrica melaspora (Taylor) S. Savic & Tibell SPECIES
-=======
+# Henrica melaspora (Taylor) S. Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

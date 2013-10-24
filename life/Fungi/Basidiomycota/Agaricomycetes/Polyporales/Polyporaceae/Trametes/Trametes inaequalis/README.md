@@ -1,5 +1,4 @@
-Trametes inaequalis P. Karst. SPECIES
-=======
+# Trametes inaequalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

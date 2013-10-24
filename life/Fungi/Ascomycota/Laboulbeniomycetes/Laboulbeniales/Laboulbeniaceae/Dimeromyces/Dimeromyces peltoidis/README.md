@@ -1,5 +1,4 @@
-Dimeromyces peltoidis Thaxt. SPECIES
-=======
+# Dimeromyces peltoidis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

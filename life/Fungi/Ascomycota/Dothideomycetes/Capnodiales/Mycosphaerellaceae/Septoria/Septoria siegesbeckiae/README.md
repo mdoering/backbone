@@ -1,5 +1,4 @@
-Septoria siegesbeckiae Sawada SPECIES
-=======
+# Septoria siegesbeckiae Sawada SPECIES
 
 #### Status
 ACCEPTED

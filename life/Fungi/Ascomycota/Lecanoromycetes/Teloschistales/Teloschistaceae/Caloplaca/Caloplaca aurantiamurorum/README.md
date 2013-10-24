@@ -1,5 +1,4 @@
-Caloplaca aurantiamurorum (Flagey) Zahlbr. SPECIES
-=======
+# Caloplaca aurantiamurorum (Flagey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

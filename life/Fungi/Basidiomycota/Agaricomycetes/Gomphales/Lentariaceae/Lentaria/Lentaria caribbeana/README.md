@@ -1,5 +1,4 @@
-Lentaria caribbeana R.H. Petersen, 2000 SPECIES
-=======
+# Lentaria caribbeana R.H. Petersen, 2000 SPECIES
 
 #### Status
 ACCEPTED

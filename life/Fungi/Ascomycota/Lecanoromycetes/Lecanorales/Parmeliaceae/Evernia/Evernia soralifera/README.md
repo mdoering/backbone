@@ -1,5 +1,4 @@
-Evernia soralifera Bitter SPECIES
-=======
+# Evernia soralifera Bitter SPECIES
 
 #### Status
 ACCEPTED

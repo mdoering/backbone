@@ -1,5 +1,4 @@
-Placodium olbicuse SPECIES
-=======
+# Placodium olbicuse SPECIES
 
 #### Status
 ACCEPTED

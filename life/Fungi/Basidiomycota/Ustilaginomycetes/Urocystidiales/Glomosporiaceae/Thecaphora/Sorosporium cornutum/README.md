@@ -1,5 +1,4 @@
-Sorosporium cornutum Pavgi & Thirum. SPECIES
-=======
+# Sorosporium cornutum Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

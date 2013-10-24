@@ -1,5 +1,4 @@
-Cantharellus ludmilae Velen. SPECIES
-=======
+# Cantharellus ludmilae Velen. SPECIES
 
 #### Status
 ACCEPTED

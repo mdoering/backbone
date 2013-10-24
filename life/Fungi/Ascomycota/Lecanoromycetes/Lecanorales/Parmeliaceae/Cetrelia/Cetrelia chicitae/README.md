@@ -1,14 +1,13 @@
-Cetraria chicitae W.L. Culb. SPECIES
-=======
+# Cetrelia chicitae (W.L. Culb.) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bryologist 68: 95 (1965)
+Contr. U. S. natnl. Herb. 34: 504 (1968)
 
 #### Original name
 Cetraria chicitae W.L. Culb.

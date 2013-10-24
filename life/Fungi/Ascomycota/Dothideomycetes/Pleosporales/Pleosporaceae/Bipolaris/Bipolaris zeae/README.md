@@ -1,5 +1,4 @@
-Bipolaris zeae Sivan., 1985 SPECIES
-=======
+# Bipolaris zeae Sivan., 1985 SPECIES
 
 #### Status
 ACCEPTED

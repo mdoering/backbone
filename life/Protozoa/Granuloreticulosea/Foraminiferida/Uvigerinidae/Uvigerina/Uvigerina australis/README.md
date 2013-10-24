@@ -1,5 +1,4 @@
-Uvigerina australis Earland & Heron-Allen SPECIES
-=======
+# Uvigerina australis Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

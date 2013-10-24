@@ -1,5 +1,4 @@
-Xylosphaeria personata (Rehm) Petr. SPECIES
-=======
+# Xylosphaeria personata (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

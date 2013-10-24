@@ -1,5 +1,4 @@
-Pseudocyphellaria multipartita Vain. SPECIES
-=======
+# Pseudocyphellaria multipartita Vain. SPECIES
 
 #### Status
 ACCEPTED

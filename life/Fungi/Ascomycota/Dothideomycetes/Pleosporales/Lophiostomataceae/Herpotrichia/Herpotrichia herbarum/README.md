@@ -1,5 +1,4 @@
-Herpotrichia herbarum (Wehm.) M.E. Barr SPECIES
-=======
+# Herpotrichia herbarum (Wehm.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

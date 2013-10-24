@@ -1,5 +1,4 @@
-Rhizophydium conicum Karling SPECIES
-=======
+# Rhizophydium conicum Karling SPECIES
 
 #### Status
 ACCEPTED

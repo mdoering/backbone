@@ -1,5 +1,4 @@
-Sporidesmium longiphorum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Sporidesmium longiphorum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halbania cyathearum Racib., 1889 SPECIES
-=======
+# Halbania cyathearum Racib., 1889 SPECIES
 
 #### Status
 ACCEPTED

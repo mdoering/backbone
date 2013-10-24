@@ -1,5 +1,4 @@
-Gonyaulax ovalis Schiller SPECIES
-=======
+# Gonyaulax ovalis Schiller SPECIES
 
 #### Status
 ACCEPTED

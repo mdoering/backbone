@@ -1,5 +1,4 @@
-Phallus taipeiensis B. Liu & Y.S. Bau SPECIES
-=======
+# Phallus taipeiensis B. Liu & Y.S. Bau SPECIES
 
 #### Status
 ACCEPTED

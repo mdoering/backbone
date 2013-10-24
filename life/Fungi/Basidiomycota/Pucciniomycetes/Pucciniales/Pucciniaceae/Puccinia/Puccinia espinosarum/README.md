@@ -1,5 +1,4 @@
-Puccinia espinosarum Dietel & Holw. SPECIES
-=======
+# Puccinia espinosarum Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

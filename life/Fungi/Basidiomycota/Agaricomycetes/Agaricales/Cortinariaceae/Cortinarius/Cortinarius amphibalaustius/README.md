@@ -1,5 +1,4 @@
-Cortinarius amphibalaustius Rob. Henry SPECIES
-=======
+# Cortinarius amphibalaustius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

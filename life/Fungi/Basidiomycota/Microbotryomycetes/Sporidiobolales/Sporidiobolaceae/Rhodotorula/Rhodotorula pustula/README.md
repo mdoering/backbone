@@ -1,14 +1,13 @@
-Vanrijia pustula (Buhagiar) R.T. Moore SPECIES
-=======
+# Rhodotorula pustula (Buhagiar) Rodr. Mir. & Weijman, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Weijman, Rodrigues de Miranda & van der Walt, Antonie van Leeuwenhoek 54(6): 548 (1988)
 
 #### Original name
 null

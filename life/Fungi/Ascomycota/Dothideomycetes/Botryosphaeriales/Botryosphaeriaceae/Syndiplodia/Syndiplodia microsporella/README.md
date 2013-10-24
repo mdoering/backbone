@@ -1,5 +1,4 @@
-Syndiplodia microsporella (Gonz. Frag.) Sacc. SPECIES
-=======
+# Syndiplodia microsporella (Gonz. Frag.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

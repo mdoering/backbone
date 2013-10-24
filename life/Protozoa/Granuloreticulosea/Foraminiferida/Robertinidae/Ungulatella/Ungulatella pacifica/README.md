@@ -1,5 +1,4 @@
-Ungulatella pacifica Cushman, 1931 SPECIES
-=======
+# Ungulatella pacifica Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes mulleri Berk. SPECIES
-=======
+# Trametes mulleri Berk. SPECIES
 
 #### Status
 ACCEPTED

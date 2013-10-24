@@ -1,5 +1,4 @@
-Haematomyces orbicularis Peck SPECIES
-=======
+# Haematomyces orbicularis Peck SPECIES
 
 #### Status
 ACCEPTED

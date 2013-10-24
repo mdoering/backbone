@@ -1,5 +1,4 @@
-Verrucaria suavevolens Nyl. SPECIES
-=======
+# Verrucaria suavevolens Nyl. SPECIES
 
 #### Status
 ACCEPTED

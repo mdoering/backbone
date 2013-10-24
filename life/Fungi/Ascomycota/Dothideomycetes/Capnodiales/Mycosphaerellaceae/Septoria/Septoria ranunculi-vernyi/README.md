@@ -1,17 +1,16 @@
-Septoria ranunculi-vernyii Sawada SPECIES
-=======
+# Septoria ranunculi-vernyi Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Report of the Department of Agriculture, Government Research Institute of Formosa 61: 73 (1933)
 
 #### Original name
-Septoria ranunculi-vernyii Sawada
+Septoria ranunculi-vernyi Sawada
 
 ### Remarks
 null

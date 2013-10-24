@@ -1,5 +1,4 @@
-Lecanora faginea (Eitner) Zahlbr. SPECIES
-=======
+# Lecanora faginea (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

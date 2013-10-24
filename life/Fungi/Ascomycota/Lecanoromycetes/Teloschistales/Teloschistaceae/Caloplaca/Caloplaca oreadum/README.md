@@ -1,5 +1,4 @@
-Caloplaca oreadum (Stizenb.) Jatta SPECIES
-=======
+# Caloplaca oreadum (Stizenb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

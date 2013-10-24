@@ -1,5 +1,4 @@
-Inocybe sabuletorum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Inocybe sabuletorum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

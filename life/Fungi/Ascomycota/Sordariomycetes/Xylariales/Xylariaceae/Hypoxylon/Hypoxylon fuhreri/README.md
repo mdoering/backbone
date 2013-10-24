@@ -1,5 +1,4 @@
-Hypoxylon fuhreri G.J.D. Sm., K.D. Hyde & Whalley, 1999 SPECIES
-=======
+# Hypoxylon fuhreri G.J.D. Sm., K.D. Hyde & Whalley, 1999 SPECIES
 
 #### Status
 ACCEPTED

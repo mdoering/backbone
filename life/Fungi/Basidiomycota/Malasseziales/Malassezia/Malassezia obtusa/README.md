@@ -1,5 +1,4 @@
-Malassezia obtusa Midgley, J. Guillot & E. Guého, 1996 SPECIES
-=======
+# Malassezia obtusa Midgley, J. Guillot & E. Guého, 1996 SPECIES
 
 #### Status
 ACCEPTED

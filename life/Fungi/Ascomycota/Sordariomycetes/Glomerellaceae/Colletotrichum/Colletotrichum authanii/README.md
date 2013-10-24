@@ -1,5 +1,4 @@
-Colletotrichum authanii SPECIES
-=======
+# Colletotrichum authanii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Botryobasidium musaisporum G. Langer SPECIES
-=======
+# Botryobasidium musisporum G. Langer, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Langer, Langer & Chen, Mycol. Res. 104(4): 510 (2000)
 
 #### Original name
-Botryobasidium musaisporum G. Langer
+Botryobasidium musisporum G. Langer, 2000
 
 ### Remarks
 null

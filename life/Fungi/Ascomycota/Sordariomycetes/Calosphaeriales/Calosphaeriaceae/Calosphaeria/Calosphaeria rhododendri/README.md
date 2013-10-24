@@ -1,5 +1,4 @@
-Calosphaeria rhododendri (Rehm) L. Mostert SPECIES
-=======
+# Calosphaeria rhododendri (Rehm) L. Mostert SPECIES
 
 #### Status
 ACCEPTED

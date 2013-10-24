@@ -1,5 +1,4 @@
-Acarospora robiniae K. Knudsen SPECIES
-=======
+# Acarospora robiniae K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

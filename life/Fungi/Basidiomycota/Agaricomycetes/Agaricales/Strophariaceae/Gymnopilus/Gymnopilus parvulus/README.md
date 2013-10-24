@@ -1,5 +1,4 @@
-Gymnopilus parvulus Murrill SPECIES
-=======
+# Gymnopilus parvulus Murrill SPECIES
 
 #### Status
 ACCEPTED

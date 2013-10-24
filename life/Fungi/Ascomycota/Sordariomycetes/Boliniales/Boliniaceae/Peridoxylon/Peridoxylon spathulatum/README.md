@@ -1,5 +1,4 @@
-Peridoxylon spathulatum (Berk. & Broome) Dennis SPECIES
-=======
+# Peridoxylon spathulatum (Berk. & Broome) Dennis SPECIES
 
 #### Status
 ACCEPTED

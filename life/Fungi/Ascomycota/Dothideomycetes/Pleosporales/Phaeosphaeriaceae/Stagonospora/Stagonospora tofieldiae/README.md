@@ -1,5 +1,4 @@
-Stagonospora tofieldiae Lebedeva SPECIES
-=======
+# Stagonospora tofieldiae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

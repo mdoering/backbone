@@ -1,5 +1,4 @@
-Kabatiella bubakiana Moesz SPECIES
-=======
+# Kabatiella bubakiana Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus sclerogenus Sacc. SPECIES
-=======
+# Lentinus sclerogenus Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes vegetus (Fr.) Cooke SPECIES
-=======
+# Fomes vegetus (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

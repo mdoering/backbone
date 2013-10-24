@@ -1,5 +1,4 @@
-Gymnodinium scopulosum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium scopulosum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

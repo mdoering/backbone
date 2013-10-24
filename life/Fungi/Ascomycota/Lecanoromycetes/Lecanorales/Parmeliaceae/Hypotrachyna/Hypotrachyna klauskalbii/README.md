@@ -1,5 +1,4 @@
-Hypotrachyna klauskalbii Fletcher ex Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna klauskalbii Fletcher ex Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

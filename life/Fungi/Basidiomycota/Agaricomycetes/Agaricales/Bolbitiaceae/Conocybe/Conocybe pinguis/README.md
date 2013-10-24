@@ -1,5 +1,4 @@
-Conocybe pinguis Watling SPECIES
-=======
+# Conocybe pinguis Watling SPECIES
 
 #### Status
 ACCEPTED

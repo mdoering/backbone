@@ -1,5 +1,4 @@
-Corticium interruptum Berk. SPECIES
-=======
+# Corticium interruptum Berk. SPECIES
 
 #### Status
 ACCEPTED

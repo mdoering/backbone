@@ -1,5 +1,4 @@
-Bilimbia bacidioides Körb. SPECIES
-=======
+# Bilimbia bacidioides Körb. SPECIES
 
 #### Status
 ACCEPTED

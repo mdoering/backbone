@@ -1,5 +1,4 @@
-Lophominuscula prima Naumova, 1961 SPECIES
-=======
+# Lophominuscula prima Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

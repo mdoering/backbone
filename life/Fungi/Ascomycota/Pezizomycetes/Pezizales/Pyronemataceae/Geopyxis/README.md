@@ -1,5 +1,4 @@
-Geopyxis (Persoon) Saccardo, 1889 GENUS
-=======
+# Geopyxis (Persoon) Saccardo, 1889 GENUS
 
 #### Status
 ACCEPTED

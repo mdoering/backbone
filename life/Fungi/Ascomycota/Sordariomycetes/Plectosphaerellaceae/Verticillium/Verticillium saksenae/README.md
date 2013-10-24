@@ -1,17 +1,16 @@
-Verticillium saksenii Kushwaha SPECIES
-=======
+# Verticillium saksenae Kushwaha SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 49(24): 948 (1980)
 
 #### Original name
-Verticillium saksenii Kushwaha
+Verticillium saksenae Kushwaha
 
 ### Remarks
 null

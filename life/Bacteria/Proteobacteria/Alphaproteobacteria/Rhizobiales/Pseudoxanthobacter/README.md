@@ -1,5 +1,4 @@
-Pseudoxanthobacter GENUS
-=======
+# Pseudoxanthobacter GENUS
 
 #### Status
 ACCEPTED

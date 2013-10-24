@@ -1,17 +1,16 @@
-Appendiculella sepindae T.P. Devi & Choudhry SPECIES
-=======
+# Appendiculella sapindi T.P. Devi & Choudhry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycopathological Research 43(1): 72 (2005)
 
 #### Original name
-Appendiculella sepindae T.P. Devi & Choudhry
+Appendiculella sapindi T.P. Devi & Choudhry
 
 ### Remarks
 null

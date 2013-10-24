@@ -1,5 +1,4 @@
-Phyllachorella melastomatis-candidi Sawada SPECIES
-=======
+# Phyllachorella melastomatis-candidi Sawada SPECIES
 
 #### Status
 ACCEPTED

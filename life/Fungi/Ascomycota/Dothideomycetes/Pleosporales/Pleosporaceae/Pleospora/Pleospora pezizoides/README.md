@@ -1,5 +1,4 @@
-Pleospora pezizoides Ces. SPECIES
-=======
+# Pleospora pezizoides Ces. SPECIES
 
 #### Status
 ACCEPTED

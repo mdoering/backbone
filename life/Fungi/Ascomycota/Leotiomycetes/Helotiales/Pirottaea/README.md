@@ -1,17 +1,16 @@
-Ploettnerula Kirschst. GENUS
-=======
+# Pirottaea Saccardo, 1878 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 66: 27 (1924)
+null
 
 #### Original name
-Ploettnerula Kirschst.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ecteinomyces argentinensis Speg. SPECIES
-=======
+# Ecteinomyces argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

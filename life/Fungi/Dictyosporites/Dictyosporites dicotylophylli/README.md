@@ -1,5 +1,4 @@
-Dictyosporites dicotylophylli (Paradkar) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites dicotylophylli (Paradkar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

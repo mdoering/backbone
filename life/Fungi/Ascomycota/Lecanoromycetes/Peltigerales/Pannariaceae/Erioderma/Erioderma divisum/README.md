@@ -1,5 +1,4 @@
-Erioderma divisum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma divisum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

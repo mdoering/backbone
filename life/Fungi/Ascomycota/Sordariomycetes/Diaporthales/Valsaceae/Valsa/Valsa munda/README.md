@@ -1,5 +1,4 @@
-Valsa munda Berk. & M.A. Curtis SPECIES
-=======
+# Valsa munda Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

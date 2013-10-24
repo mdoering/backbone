@@ -1,5 +1,4 @@
-Clitocybe caperata H.E. Bigelow SPECIES
-=======
+# Clitocybe caperata H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

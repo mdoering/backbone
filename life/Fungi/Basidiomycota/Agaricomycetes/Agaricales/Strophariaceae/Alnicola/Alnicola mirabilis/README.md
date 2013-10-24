@@ -1,5 +1,4 @@
-Alnicola mirabilis (G.F. Atk.) Singer SPECIES
-=======
+# Alnicola mirabilis (G.F. Atk.) Singer SPECIES
 
 #### Status
 ACCEPTED

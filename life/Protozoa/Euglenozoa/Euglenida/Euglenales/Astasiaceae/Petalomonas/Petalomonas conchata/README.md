@@ -1,5 +1,4 @@
-Petalomonas conchata Christen SPECIES
-=======
+# Petalomonas conchata Christen SPECIES
 
 #### Status
 ACCEPTED

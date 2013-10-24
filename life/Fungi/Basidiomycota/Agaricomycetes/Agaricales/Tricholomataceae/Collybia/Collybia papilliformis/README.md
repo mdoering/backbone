@@ -1,5 +1,4 @@
-Collybia papilliformis Kauffman SPECIES
-=======
+# Collybia papilliformis Kauffman SPECIES
 
 #### Status
 ACCEPTED

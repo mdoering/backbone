@@ -1,17 +1,16 @@
-Parmelia monochorum Zahlbr. SPECIES
-=======
+# Cetrelia monachorum (Zahlbr.) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Culberson & Culberson, Syst. Bot. 1(4): 326 (1977)
 
 #### Original name
-Parmelia monochorum Zahlbr.
+Parmelia monachorum Zahlbr.
 
 ### Remarks
 null

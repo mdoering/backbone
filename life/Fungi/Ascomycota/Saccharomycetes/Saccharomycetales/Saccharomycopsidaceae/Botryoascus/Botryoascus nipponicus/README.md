@@ -1,5 +1,4 @@
-Botryoascus nipponicus Matsush. SPECIES
-=======
+# Botryoascus nipponicus Matsush. SPECIES
 
 #### Status
 ACCEPTED

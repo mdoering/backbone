@@ -1,5 +1,4 @@
-Thelotrema subadjectum Mangold SPECIES
-=======
+# Thelotrema subadjectum Mangold SPECIES
 
 #### Status
 ACCEPTED

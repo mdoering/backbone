@@ -1,5 +1,4 @@
-Agrocybe badia (Petch) Pegler SPECIES
-=======
+# Agrocybe badia (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triloculina ornata Le Calvez, J. & Y., 1958 SPECIES
-=======
+# Triloculina ornata Le Calvez, J. & Y., 1958 SPECIES
 
 #### Status
 ACCEPTED

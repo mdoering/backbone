@@ -1,5 +1,4 @@
-Xylobotryum rickii (Theiss.) Lloyd SPECIES
-=======
+# Xylobotryum rickii (Theiss.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

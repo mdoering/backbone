@@ -1,5 +1,4 @@
-Coleosporium saccardianum Caruana-Gatto {?} SPECIES
-=======
+# Coleosporium saccardianum Caruana-Gatto {?} SPECIES
 
 #### Status
 ACCEPTED

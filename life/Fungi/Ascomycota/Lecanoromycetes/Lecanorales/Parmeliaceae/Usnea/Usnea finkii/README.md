@@ -1,5 +1,4 @@
-Usnea finkii Zahlbr. SPECIES
-=======
+# Usnea finkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulosporonites multicellatus (R.K. Saxena & H.P. Singh) Kalgutkar & Janson. SPECIES
-=======
+# Papulosporonites multicellatus (R.K. Saxena & H.P. Singh) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

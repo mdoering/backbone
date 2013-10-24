@@ -1,5 +1,4 @@
-Pillulasclerotes incertus Stach & Pickh. SPECIES
-=======
+# Pillulasclerotes incertus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

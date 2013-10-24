@@ -1,17 +1,16 @@
-Paraparmelia inops (Brusse) Elix SPECIES
-=======
+# Xanthoparmelia inops (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 399 (2003)
 
 #### Original name
-null
+Parmelia inops Brusse
 
 ### Remarks
 null

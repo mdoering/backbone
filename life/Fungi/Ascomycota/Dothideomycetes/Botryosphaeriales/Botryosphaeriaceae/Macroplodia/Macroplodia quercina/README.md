@@ -1,5 +1,4 @@
-Macroplodia quercina (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Macroplodia quercina (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

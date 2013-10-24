@@ -1,5 +1,4 @@
-Rhizocarpon lutosum SPECIES
-=======
+# Rhizocarpon lutosum SPECIES
 
 #### Status
 ACCEPTED

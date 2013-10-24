@@ -1,5 +1,4 @@
-Polyancistrodorus columbariferus Loeblich & Tappan, 1969 SPECIES
-=======
+# Polyancistrodorus columbariferus Loeblich & Tappan, 1969 SPECIES
 
 #### Status
 ACCEPTED

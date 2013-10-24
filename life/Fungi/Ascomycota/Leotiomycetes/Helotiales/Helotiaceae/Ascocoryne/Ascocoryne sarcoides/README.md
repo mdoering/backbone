@@ -1,17 +1,16 @@
-Coryne sarcoides var. sarcoides VARIETY
-=======
+# Ascocoryne sarcoides (Jacq.) J.W. Groves & D.E. Wilson, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 16(1): 40 (1967)
 
 #### Original name
-Coryne sarcoides var. sarcoides
+Lichen sarcoides Jacq., 1781
 
 ### Remarks
 null

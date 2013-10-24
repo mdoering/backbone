@@ -1,17 +1,16 @@
-Lepiota josserandii var. rosabrunnea Raithelh. VARIETY
-=======
+# Lepiota subincarnata J.E. Lange, 1940 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Metrodiana 16(1-3): 42 (1988)
+Fl. Agaric. Danic. 5(Appx. ): V (1940)
 
 #### Original name
-Lepiota josserandii var. rosabrunnea Raithelh.
+Lepiota subincarnata J.E. Lange, 1940
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alvernaviridae FAMILY
-=======
+# Alvernaviridae FAMILY
 
 #### Status
 ACCEPTED

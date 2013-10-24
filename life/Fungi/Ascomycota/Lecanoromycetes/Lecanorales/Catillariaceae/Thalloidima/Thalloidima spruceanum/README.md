@@ -1,5 +1,4 @@
-Thalloidima spruceanum Müll. Arg. SPECIES
-=======
+# Thalloidima spruceanum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

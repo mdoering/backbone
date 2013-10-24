@@ -1,5 +1,4 @@
-Cortinarius volvosuberis Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius volvosuberis Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

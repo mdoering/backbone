@@ -1,5 +1,4 @@
-Psilocybe panaeoliformis Murrill SPECIES
-=======
+# Psilocybe panaeoliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita pallidochracea A.E. Wood SPECIES
-=======
+# Amanita pallidochracea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

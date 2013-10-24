@@ -1,17 +1,16 @@
-Xylaria xanthorhiza Pat. SPECIES
-=======
+# Xylaria xanthorrhiza Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 3: 68 (1895)
 
 #### Original name
-Xylaria xanthorhiza Pat.
+Xylaria xanthorrhiza Pat.
 
 ### Remarks
 null

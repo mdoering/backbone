@@ -1,5 +1,4 @@
-Dermatiscum mawsonii C.W. Dodge SPECIES
-=======
+# Dermatiscum mawsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma subdigitatum (Arthur & Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma subdigitatum (Arthur & Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

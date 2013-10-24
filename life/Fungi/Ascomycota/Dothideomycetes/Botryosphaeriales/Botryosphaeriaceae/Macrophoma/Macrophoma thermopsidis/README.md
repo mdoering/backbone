@@ -1,5 +1,4 @@
-Macrophoma thermopsidis (Ellis & Galloway) Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma thermopsidis (Ellis & Galloway) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

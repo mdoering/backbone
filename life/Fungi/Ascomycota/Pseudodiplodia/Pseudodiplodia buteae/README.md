@@ -1,5 +1,4 @@
-Pseudodiplodia buteae V.P. Sahni SPECIES
-=======
+# Pseudodiplodia buteae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

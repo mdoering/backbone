@@ -1,5 +1,4 @@
-Graphis schizoloma Müll. Arg. SPECIES
-=======
+# Graphis schizoloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc bullatum (A. P. de Candolle) Duby SPECIES
-=======
+# Nostoc bullatum (A. P. de Candolle) Duby SPECIES
 
 #### Status
 ACCEPTED

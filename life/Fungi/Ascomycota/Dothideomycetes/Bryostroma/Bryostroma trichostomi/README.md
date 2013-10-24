@@ -1,14 +1,13 @@
-Gibberella trichostomi Rolland SPECIES
-=======
+# Bryostroma trichostomi (Rolland) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 211 (1891)
+Mitt. bot. StSamml. , Münch. 14: 184 (1978)
 
 #### Original name
 Gibberella trichostomi Rolland

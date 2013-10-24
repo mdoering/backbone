@@ -1,17 +1,16 @@
-Psathyrella franklini A.H. Sm. SPECIES
-=======
+# Psathyrella franklinii A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 148 (1972)
 
 #### Original name
-Psathyrella franklini A.H. Sm.
+Psathyrella franklinii A.H. Sm.
 
 ### Remarks
 null

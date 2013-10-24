@@ -1,5 +1,4 @@
-Biatora junghuhnii Mont. & Bosch SPECIES
-=======
+# Biatora junghuhnii Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

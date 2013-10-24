@@ -1,5 +1,4 @@
-Phoma asiatica (Cooke) Aa SPECIES
-=======
+# Phoma asiatica (Cooke) Aa SPECIES
 
 #### Status
 ACCEPTED

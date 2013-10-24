@@ -1,5 +1,4 @@
-Denitrovibrio Myhr & Torsvik, 2000 GENUS
-=======
+# Denitrovibrio Myhr & Torsvik, 2000 GENUS
 
 #### Status
 ACCEPTED

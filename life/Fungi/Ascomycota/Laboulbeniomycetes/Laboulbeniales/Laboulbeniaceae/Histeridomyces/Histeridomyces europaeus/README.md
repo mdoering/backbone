@@ -1,5 +1,4 @@
-Histeridomyces europaeus W. Rossi, 1980 SPECIES
-=======
+# Histeridomyces europaeus W. Rossi, 1980 SPECIES
 
 #### Status
 ACCEPTED

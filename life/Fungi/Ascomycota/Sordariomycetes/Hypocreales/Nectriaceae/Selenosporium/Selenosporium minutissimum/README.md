@@ -1,5 +1,4 @@
-Selenosporium minutissimum Desm. SPECIES
-=======
+# Selenosporium minutissimum Desm. SPECIES
 
 #### Status
 ACCEPTED

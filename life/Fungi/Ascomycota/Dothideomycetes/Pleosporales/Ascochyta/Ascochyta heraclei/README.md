@@ -1,17 +1,16 @@
-Ascochyta heraclei var. heraclei Lib. VARIETY
-=======
+# Ascochyta heraclei Lib., 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. crypt. Arduenna (Liège), fasc. no. 51 (1830)
+Hedwigia 39: 326 (1900)
 
 #### Original name
-Ascochyta heraclei var. heraclei Lib.
+Ascochyta heraclei Lib., 1830
 
 ### Remarks
 null

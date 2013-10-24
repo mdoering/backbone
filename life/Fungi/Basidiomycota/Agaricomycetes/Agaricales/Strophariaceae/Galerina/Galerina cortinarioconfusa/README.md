@@ -1,5 +1,4 @@
-Galerina cortinarioconfusa V.L. Wells & Kempton SPECIES
-=======
+# Galerina cortinarioconfusa V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

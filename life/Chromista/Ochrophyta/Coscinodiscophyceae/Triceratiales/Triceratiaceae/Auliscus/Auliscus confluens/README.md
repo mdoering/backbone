@@ -1,5 +1,4 @@
-Auliscus confluens Grunow, 1875 SPECIES
-=======
+# Auliscus confluens Grunow, 1875 SPECIES
 
 #### Status
 ACCEPTED

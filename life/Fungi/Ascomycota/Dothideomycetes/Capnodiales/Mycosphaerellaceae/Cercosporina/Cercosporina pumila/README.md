@@ -1,5 +1,4 @@
-Cercosporina pumila (Syd. & P. Syd.) Sacc. SPECIES
-=======
+# Cercosporina pumila (Syd. & P. Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

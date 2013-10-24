@@ -1,5 +1,4 @@
-Inonotus plorans (Pat.) Bondartsev & Singer SPECIES
-=======
+# Inonotus plorans (Pat.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

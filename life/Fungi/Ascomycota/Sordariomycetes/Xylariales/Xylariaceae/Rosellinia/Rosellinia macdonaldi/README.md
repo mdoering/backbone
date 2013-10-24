@@ -1,5 +1,4 @@
-Rosellinia macdonaldi Bres. SPECIES
-=======
+# Rosellinia macdonaldi Bres. SPECIES
 
 #### Status
 ACCEPTED

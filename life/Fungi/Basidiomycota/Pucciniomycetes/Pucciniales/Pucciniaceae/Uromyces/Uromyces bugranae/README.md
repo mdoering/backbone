@@ -1,5 +1,4 @@
-Uromyces bugranae A.L. Guyot SPECIES
-=======
+# Uromyces bugranae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

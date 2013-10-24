@@ -1,5 +1,4 @@
-Spiniferites pachydermus (M. Rossignol, 1964) P.C. Reid, 1974 SPECIES
-=======
+# Spiniferites pachydermus (M. Rossignol, 1964) P.C. Reid, 1974 SPECIES
 
 #### Status
 ACCEPTED

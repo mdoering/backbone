@@ -1,5 +1,4 @@
-Lepraria lobata Elix & Kalb SPECIES
-=======
+# Lepraria lobata Elix & Kalb SPECIES
 
 #### Status
 ACCEPTED

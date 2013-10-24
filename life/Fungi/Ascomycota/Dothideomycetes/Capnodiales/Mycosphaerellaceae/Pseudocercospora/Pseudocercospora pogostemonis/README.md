@@ -1,5 +1,4 @@
-Pseudocercospora pogostemonis (A.K. Singh & Kamal) U. Braun SPECIES
-=======
+# Pseudocercospora pogostemonis (A.K. Singh & Kamal) U. Braun SPECIES
 
 #### Status
 ACCEPTED

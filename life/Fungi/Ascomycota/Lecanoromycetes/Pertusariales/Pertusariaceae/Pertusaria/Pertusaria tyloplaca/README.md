@@ -1,5 +1,4 @@
-Pertusaria tyloplaca Nyl. SPECIES
-=======
+# Pertusaria tyloplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

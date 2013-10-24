@@ -1,5 +1,4 @@
-Cannopilus ernestinae A. Bachmann SPECIES
-=======
+# Cannopilus ernestinae A. Bachmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora saxonica Bubák & Krieg. SPECIES
-=======
+# Rhabdospora saxonica Bubák & Krieg. SPECIES
 
 #### Status
 ACCEPTED

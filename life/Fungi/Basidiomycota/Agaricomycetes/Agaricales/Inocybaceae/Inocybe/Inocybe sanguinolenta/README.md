@@ -1,5 +1,4 @@
-Inocybe sanguinolenta Britzelm. SPECIES
-=======
+# Inocybe sanguinolenta Britzelm. SPECIES
 
 #### Status
 ACCEPTED

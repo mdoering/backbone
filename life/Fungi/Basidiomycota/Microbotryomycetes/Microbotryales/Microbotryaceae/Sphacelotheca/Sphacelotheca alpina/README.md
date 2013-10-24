@@ -1,5 +1,4 @@
-Sphacelotheca alpina Schellenb. SPECIES
-=======
+# Sphacelotheca alpina Schellenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protogaster rhizophilus Thaxt., 1934 SPECIES
-=======
+# Protogaster rhizophilus Thaxt., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Idriella tropicalis Lunghini & Rambelli, 1978 SPECIES
-=======
+# Idriella tropicalis Lunghini & Rambelli, 1978 SPECIES
 
 #### Status
 ACCEPTED

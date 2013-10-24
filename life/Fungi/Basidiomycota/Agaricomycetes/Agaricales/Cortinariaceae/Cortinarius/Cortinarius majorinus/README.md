@@ -1,5 +1,4 @@
-Cortinarius majorinus Moënne-Locc. SPECIES
-=======
+# Cortinarius majorinus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

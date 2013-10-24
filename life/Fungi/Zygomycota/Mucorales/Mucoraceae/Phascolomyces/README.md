@@ -1,5 +1,4 @@
-Phascolomyces Boedijn, 1959 GENUS
-=======
+# Phascolomyces Boedijn, 1959 GENUS
 
 #### Status
 ACCEPTED

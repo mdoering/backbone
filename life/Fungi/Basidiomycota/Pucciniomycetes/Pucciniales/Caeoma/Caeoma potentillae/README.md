@@ -1,5 +1,4 @@
-Caeoma potentillae Schltdl. SPECIES
-=======
+# Caeoma potentillae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

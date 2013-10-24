@@ -1,8 +1,7 @@
-Eimeria macroresidualis Schulman & Zaika, 1962 SPECIES
-=======
+# Goussia metchnikovi (Laveran, 1897) Levine, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

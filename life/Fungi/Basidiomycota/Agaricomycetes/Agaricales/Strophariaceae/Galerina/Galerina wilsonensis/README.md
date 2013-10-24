@@ -1,5 +1,4 @@
-Galerina wilsonensis A.E. Wood SPECIES
-=======
+# Galerina wilsonensis A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

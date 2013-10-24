@@ -1,5 +1,4 @@
-Exidiopsis albopruinata Rick SPECIES
-=======
+# Exidiopsis albopruinata Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sorosporium azmattii Mundk. SPECIES
-=======
+# Sorosporium azmatii Mundk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 23: 115 (1939)
 
 #### Original name
-Sorosporium azmattii Mundk.
+Sorosporium azmatii Mundk.
 
 ### Remarks
 null

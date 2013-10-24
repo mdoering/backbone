@@ -1,5 +1,4 @@
-Septoria picbaueri Baudy SPECIES
-=======
+# Septoria picbaueri Baudy SPECIES
 
 #### Status
 ACCEPTED

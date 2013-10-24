@@ -1,17 +1,16 @@
-Boletus thierii T.N. Lakh. & Sagar SPECIES
-=======
+# Boletus thiersii T.N. Lakh. & Sagar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Lakhanpal, Stud. Cryptog. Bot. 1: 60 (1996)
 
 #### Original name
-Boletus thierii T.N. Lakh. & Sagar
+Boletus thiersii T.N. Lakh. & Sagar
 
 ### Remarks
 null

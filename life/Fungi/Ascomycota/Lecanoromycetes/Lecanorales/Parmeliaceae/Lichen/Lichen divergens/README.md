@@ -1,5 +1,4 @@
-Lichen divergens (Ach.) Wahlenb. SPECIES
-=======
+# Lichen divergens (Ach.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

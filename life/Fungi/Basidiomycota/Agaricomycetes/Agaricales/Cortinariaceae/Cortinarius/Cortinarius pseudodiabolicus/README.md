@@ -1,5 +1,4 @@
-Cortinarius pseudodiabolicus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius pseudodiabolicus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

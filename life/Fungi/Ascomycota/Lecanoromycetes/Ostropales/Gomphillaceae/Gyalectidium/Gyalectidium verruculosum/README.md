@@ -1,5 +1,4 @@
-Gyalectidium verruculosum Sérus. SPECIES
-=======
+# Gyalectidium verruculosum Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanopus nummularius var. bulbillosus Bourdot & Galzin VARIETY
-=======
+# Melanopus nummularius (Bull.) SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 41: 111 (1925)
+null
 
 #### Original name
-Melanopus nummularius var. bulbillosus Bourdot & Galzin
+Boletus nummularius Bull., 1783
 
 ### Remarks
 null

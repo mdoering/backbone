@@ -1,5 +1,4 @@
-Proteus iliacus SPECIES
-=======
+# Proteus iliacus SPECIES
 
 #### Status
 ACCEPTED

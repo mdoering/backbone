@@ -1,5 +1,4 @@
-Pachyphloia Lange, 1925 GENUS
-=======
+# Pachyphloia Lange, 1925 GENUS
 
 #### Status
 ACCEPTED

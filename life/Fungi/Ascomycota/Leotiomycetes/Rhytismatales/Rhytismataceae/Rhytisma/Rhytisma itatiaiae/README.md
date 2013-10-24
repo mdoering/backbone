@@ -1,5 +1,4 @@
-Rhytisma itatiaiae Rehm, 1896 SPECIES
-=======
+# Rhytisma itatiaiae Rehm, 1896 SPECIES
 
 #### Status
 ACCEPTED

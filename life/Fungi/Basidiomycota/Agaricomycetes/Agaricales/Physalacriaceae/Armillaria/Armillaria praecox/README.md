@@ -1,5 +1,4 @@
-Armillaria praecox Velen. SPECIES
-=======
+# Armillaria praecox Velen. SPECIES
 
 #### Status
 ACCEPTED

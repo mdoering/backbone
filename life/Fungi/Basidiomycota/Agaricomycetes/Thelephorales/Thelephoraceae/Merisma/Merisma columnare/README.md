@@ -1,5 +1,4 @@
-Merisma columnare (Scop.) Pers. SPECIES
-=======
+# Merisma columnare (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

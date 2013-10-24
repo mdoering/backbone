@@ -1,5 +1,4 @@
-Scolecobasidium ellipticum H.M. Liu & T.Y. Zhang SPECIES
-=======
+# Scolecobasidium ellipticum H.M. Liu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

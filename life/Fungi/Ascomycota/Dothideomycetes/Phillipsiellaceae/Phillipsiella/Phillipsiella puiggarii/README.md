@@ -1,5 +1,4 @@
-Phillipsiella puiggarii (Speg.) Höhn. SPECIES
-=======
+# Phillipsiella puiggarii (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

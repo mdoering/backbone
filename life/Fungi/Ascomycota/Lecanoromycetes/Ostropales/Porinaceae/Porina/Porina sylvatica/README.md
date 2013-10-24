@@ -1,5 +1,4 @@
-Porina sylvatica P. M. McCarthy & Kantvilas SPECIES
-=======
+# Porina sylvatica P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

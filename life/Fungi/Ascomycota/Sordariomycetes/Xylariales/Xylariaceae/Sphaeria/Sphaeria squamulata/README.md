@@ -1,5 +1,4 @@
-Sphaeria squamulata Schwein. SPECIES
-=======
+# Sphaeria squamulata Schwein. SPECIES
 
 #### Status
 ACCEPTED

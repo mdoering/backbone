@@ -1,5 +1,4 @@
-Anteholosticha brevis Kahl, 1932 SPECIES
-=======
+# Anteholosticha brevis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

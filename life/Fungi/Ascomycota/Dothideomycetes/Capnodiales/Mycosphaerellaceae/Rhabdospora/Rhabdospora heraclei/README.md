@@ -1,5 +1,4 @@
-Rhabdospora heraclei Earle SPECIES
-=======
+# Rhabdospora heraclei Earle SPECIES
 
 #### Status
 ACCEPTED

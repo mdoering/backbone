@@ -1,5 +1,4 @@
-Baltisphaeridium diabolicum Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
-=======
+# Baltisphaeridium diabolicum Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Amphisphaeria inaequalis Fabre SPECIES
-=======
+# Mycomicrothelia inaequalis (Fabre) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 82: 55 (1981)
 
 #### Original name
 Amphisphaeria inaequalis Fabre

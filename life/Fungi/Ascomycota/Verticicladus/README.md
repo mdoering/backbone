@@ -1,5 +1,4 @@
-Verticicladus Matsush. GENUS
-=======
+# Verticicladus Matsush. GENUS
 
 #### Status
 ACCEPTED

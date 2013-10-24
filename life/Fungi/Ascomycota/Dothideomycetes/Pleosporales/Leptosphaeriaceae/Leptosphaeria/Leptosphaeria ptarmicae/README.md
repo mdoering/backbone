@@ -1,5 +1,4 @@
-Leptosphaeria ptarmicae P. Karst. SPECIES
-=======
+# Leptosphaeria ptarmicae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

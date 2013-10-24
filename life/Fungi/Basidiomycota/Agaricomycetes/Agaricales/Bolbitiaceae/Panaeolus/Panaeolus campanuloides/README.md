@@ -1,5 +1,4 @@
-Panaeolus campanuloides Guzmán & K. Yokoy. SPECIES
-=======
+# Panaeolus campanuloides Guzmán & K. Yokoy. SPECIES
 
 #### Status
 ACCEPTED

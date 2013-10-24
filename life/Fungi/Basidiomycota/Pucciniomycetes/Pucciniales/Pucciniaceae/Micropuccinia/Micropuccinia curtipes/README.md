@@ -1,5 +1,4 @@
-Micropuccinia curtipes (Howe) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia curtipes (Howe) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

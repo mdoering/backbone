@@ -1,5 +1,4 @@
-Diplodia ivicola Ellis & Everh. SPECIES
-=======
+# Diplodia ivicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

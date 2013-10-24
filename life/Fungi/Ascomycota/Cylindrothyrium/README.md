@@ -1,5 +1,4 @@
-Cylindrothyrium Maire GENUS
-=======
+# Cylindrothyrium Maire GENUS
 
 #### Status
 ACCEPTED

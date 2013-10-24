@@ -1,5 +1,4 @@
-Cirrhomyces flavovirens (Höhn.) Höhn. SPECIES
-=======
+# Cirrhomyces flavovirens (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

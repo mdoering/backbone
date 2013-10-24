@@ -1,5 +1,4 @@
-Schistophoron Stirt. GENUS
-=======
+# Schistophoron Stirt. GENUS
 
 #### Status
 ACCEPTED

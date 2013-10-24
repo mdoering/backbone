@@ -1,5 +1,4 @@
-Favolaschia valparadisiensis Henn. SPECIES
-=======
+# Favolaschia valparadisiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

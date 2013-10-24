@@ -1,5 +1,4 @@
-Brachysporium rytilicis Sawada SPECIES
-=======
+# Brachysporium rytilicis Sawada SPECIES
 
 #### Status
 ACCEPTED

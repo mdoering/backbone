@@ -1,5 +1,4 @@
-Phyllosticta catalpicola (Schwein.) Ellis & Everh. SPECIES
-=======
+# Phyllosticta catalpicola (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

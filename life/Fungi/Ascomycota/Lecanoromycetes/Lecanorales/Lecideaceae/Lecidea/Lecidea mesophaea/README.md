@@ -1,5 +1,4 @@
-Lecidea mesophaea Nyl. SPECIES
-=======
+# Lecidea mesophaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

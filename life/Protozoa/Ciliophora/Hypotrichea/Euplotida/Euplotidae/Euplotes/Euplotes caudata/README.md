@@ -1,5 +1,4 @@
-Euplotes caudata SPECIES
-=======
+# Euplotes caudata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacinia spinigera Höhn. SPECIES
-=======
+# Limacinia spinigera Höhn. SPECIES
 
 #### Status
 ACCEPTED

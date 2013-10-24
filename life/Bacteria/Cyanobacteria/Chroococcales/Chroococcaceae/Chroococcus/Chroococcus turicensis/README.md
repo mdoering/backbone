@@ -1,8 +1,7 @@
-Chroococcus rufescens var. turicensis Nägeli VARIETY
-=======
+# Chroococcus turicensis (Nägeli) Hansgirg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lecidea inopulina Nyl. SPECIES
-=======
+# Lecidea inopulina Nyl. SPECIES
 
 #### Status
 ACCEPTED

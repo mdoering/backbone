@@ -1,5 +1,4 @@
-Microthyrium acervatum Speg. SPECIES
-=======
+# Microthyrium acervatum Speg. SPECIES
 
 #### Status
 ACCEPTED

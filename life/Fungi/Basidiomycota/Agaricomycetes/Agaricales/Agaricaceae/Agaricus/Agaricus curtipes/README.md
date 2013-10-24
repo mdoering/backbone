@@ -1,5 +1,4 @@
-Agaricus curtipes Schumach. SPECIES
-=======
+# Agaricus curtipes Schumach. SPECIES
 
 #### Status
 ACCEPTED

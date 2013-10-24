@@ -1,5 +1,4 @@
-Lacunalites sphaericus Hemer & Nygreen, 1967 SPECIES
-=======
+# Lacunalites sphaericus Hemer & Nygreen, 1967 SPECIES
 
 #### Status
 ACCEPTED

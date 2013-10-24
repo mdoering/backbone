@@ -1,5 +1,4 @@
-Aecidium calyculatum Speg. SPECIES
-=======
+# Aecidium calyculatum Speg. SPECIES
 
 #### Status
 ACCEPTED

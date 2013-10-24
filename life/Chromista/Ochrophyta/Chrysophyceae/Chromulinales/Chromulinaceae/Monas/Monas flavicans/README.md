@@ -1,5 +1,4 @@
-Monas flavicans Ehrenberg SPECIES
-=======
+# Monas flavicans Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

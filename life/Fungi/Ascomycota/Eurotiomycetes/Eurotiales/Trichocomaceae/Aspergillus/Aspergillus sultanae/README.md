@@ -1,5 +1,4 @@
-Aspergillus sultanae Deighton SPECIES
-=======
+# Aspergillus sultanae Deighton SPECIES
 
 #### Status
 ACCEPTED

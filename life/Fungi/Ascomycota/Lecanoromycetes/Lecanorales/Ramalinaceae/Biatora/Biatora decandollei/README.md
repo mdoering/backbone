@@ -1,5 +1,4 @@
-Biatora decandollei Hepp SPECIES
-=======
+# Biatora decandollei Hepp SPECIES
 
 #### Status
 ACCEPTED

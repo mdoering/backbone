@@ -1,5 +1,4 @@
-Angiopsora lenticularis Mains SPECIES
-=======
+# Angiopsora lenticularis Mains SPECIES
 
 #### Status
 ACCEPTED

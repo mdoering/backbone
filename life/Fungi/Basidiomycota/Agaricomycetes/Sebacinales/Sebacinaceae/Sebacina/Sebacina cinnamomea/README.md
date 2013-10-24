@@ -1,5 +1,4 @@
-Sebacina cinnamomea Burt SPECIES
-=======
+# Sebacina cinnamomea Burt SPECIES
 
 #### Status
 ACCEPTED

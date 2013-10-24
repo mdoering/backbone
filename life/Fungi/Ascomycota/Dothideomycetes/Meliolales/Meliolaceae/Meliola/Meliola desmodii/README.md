@@ -1,5 +1,4 @@
-Meliola desmodii var. desmodii VARIETY
-=======
+# Meliola desmodii P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revue mycol. , Toulouse 12: 77 (1890)
 
 #### Original name
-Meliola desmodii var. desmodii
+Meliola desmodii P. Karst. & Roum.
 
 ### Remarks
 null

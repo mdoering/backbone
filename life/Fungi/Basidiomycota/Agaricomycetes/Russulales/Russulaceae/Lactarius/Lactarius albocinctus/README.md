@@ -1,5 +1,4 @@
-Lactarius albocinctus Verbeken SPECIES
-=======
+# Lactarius albocinctus Verbeken SPECIES
 
 #### Status
 ACCEPTED

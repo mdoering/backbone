@@ -1,5 +1,4 @@
-Glomus walkeri Blaszk. & Renker SPECIES
-=======
+# Glomus walkeri Blaszk. & Renker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanobacterium palustre Zellner et al., 1990 SPECIES
-=======
+# Methanobacterium palustre Zellner et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora eucalyptina Speg. SPECIES
-=======
+# Teichospora eucalyptina Speg. SPECIES
 
 #### Status
 ACCEPTED

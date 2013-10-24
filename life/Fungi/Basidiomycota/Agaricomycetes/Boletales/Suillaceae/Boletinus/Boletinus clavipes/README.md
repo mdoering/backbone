@@ -1,5 +1,4 @@
-Boletinus clavipes Kalchbr. SPECIES
-=======
+# Boletinus clavipes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

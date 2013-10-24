@@ -1,5 +1,4 @@
-Lophiotricha viburni Richon SPECIES
-=======
+# Lophiotricha viburni Richon SPECIES
 
 #### Status
 ACCEPTED

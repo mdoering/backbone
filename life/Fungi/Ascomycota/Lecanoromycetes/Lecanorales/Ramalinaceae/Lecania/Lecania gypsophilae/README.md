@@ -1,5 +1,4 @@
-Lecania gypsophilae (Vain.) SPECIES
-=======
+# Lecania gypsophilae (Vain.) SPECIES
 
 #### Status
 ACCEPTED

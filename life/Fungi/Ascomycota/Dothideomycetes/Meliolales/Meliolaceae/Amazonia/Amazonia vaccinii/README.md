@@ -1,5 +1,4 @@
-Amazonia vaccinii Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Amazonia vaccinii Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

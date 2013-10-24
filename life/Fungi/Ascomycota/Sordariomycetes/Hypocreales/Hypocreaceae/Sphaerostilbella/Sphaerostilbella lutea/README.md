@@ -1,14 +1,13 @@
-Sphaerostilbe lutea Henn., 1901 SPECIES
-=======
+# Sphaerostilbella lutea (Henn.) Sacc. & D. Sacc., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 30: 40 (1901)
+Syll. fung. (Abellini) 17: 778 (1905)
 
 #### Original name
 Sphaerostilbe lutea Henn., 1901

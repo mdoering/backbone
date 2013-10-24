@@ -1,5 +1,4 @@
-Patellea cedrina Maire & Werner SPECIES
-=======
+# Patellea cedrina Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenotea sulphurea SPECIES
-=======
+# Pyrenotea sulphurea SPECIES
 
 #### Status
 ACCEPTED

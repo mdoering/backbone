@@ -1,5 +1,4 @@
-Chaetoconidium arachnoideum Zukal, 1887 SPECIES
-=======
+# Chaetoconidium arachnoideum Zukal, 1887 SPECIES
 
 #### Status
 ACCEPTED

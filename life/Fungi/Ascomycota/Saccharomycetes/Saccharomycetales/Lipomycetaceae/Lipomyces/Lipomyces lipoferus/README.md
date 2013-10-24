@@ -1,5 +1,4 @@
-Lipomyces lipoferus (Den Dooren) Lodder & Kreger-van Rij SPECIES
-=======
+# Lipomyces lipoferus (Den Dooren) Lodder & Kreger-van Rij SPECIES
 
 #### Status
 ACCEPTED

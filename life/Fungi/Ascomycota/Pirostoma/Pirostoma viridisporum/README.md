@@ -1,14 +1,13 @@
-Phoma viridispora Cooke SPECIES
-=======
+# Pirostoma viridisporum (Cooke) Grove, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 46): 59 (1879)
+Bull. Misc. Inf. , Kew 4: 147 (1921)
 
 #### Original name
 Phoma viridispora Cooke

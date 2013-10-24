@@ -1,5 +1,4 @@
-Zymophilus Schleifer et al., 1990 GENUS
-=======
+# Zymophilus Schleifer et al., 1990 GENUS
 
 #### Status
 ACCEPTED

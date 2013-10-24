@@ -1,5 +1,4 @@
-Paucibucina Jiabo, 1978 GENUS
-=======
+# Paucibucina Jiabo, 1978 GENUS
 
 #### Status
 ACCEPTED

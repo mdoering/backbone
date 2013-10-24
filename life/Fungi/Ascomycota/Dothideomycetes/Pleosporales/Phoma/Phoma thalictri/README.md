@@ -1,5 +1,4 @@
-Phoma thalictri M. Petrov SPECIES
-=======
+# Phoma thalictri M. Petrov SPECIES
 
 #### Status
 ACCEPTED

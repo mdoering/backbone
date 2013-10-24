@@ -1,5 +1,4 @@
-Beltraniopsis asperisetifer Matsush. SPECIES
-=======
+# Beltraniopsis asperisetifer Matsush. SPECIES
 
 #### Status
 ACCEPTED

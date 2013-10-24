@@ -1,5 +1,4 @@
-Pluteus argentinensis Singer SPECIES
-=======
+# Pluteus argentinensis Singer SPECIES
 
 #### Status
 ACCEPTED

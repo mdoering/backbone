@@ -1,5 +1,4 @@
-Acrodictys irregularis ined. SPECIES
-=======
+# Acrodictys irregularis ined. SPECIES
 
 #### Status
 ACCEPTED

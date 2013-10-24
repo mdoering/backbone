@@ -1,5 +1,4 @@
-Winterina rigidula Sacc. SPECIES
-=======
+# Winterina rigidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

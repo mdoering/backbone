@@ -1,5 +1,4 @@
-Sphaeronaema sphaeroideum Ellis SPECIES
-=======
+# Sphaeronaema sphaeroideum Ellis SPECIES
 
 #### Status
 ACCEPTED

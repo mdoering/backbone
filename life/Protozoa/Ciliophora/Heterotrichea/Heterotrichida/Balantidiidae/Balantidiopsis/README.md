@@ -1,5 +1,4 @@
-Balantidiopsis GENUS
-=======
+# Balantidiopsis GENUS
 
 #### Status
 ACCEPTED

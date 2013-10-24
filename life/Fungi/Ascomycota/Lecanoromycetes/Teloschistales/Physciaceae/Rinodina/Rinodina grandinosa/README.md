@@ -1,5 +1,4 @@
-Rinodina grandinosa (Ach.) Gray SPECIES
-=======
+# Rinodina grandinosa (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoglossum peckii W.B. Cooke SPECIES
-=======
+# Leptoglossum peckii W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

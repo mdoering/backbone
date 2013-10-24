@@ -1,5 +1,4 @@
-Cercosporella mogiphones Speg. SPECIES
-=======
+# Cercosporella mogiphones Speg. SPECIES
 
 #### Status
 ACCEPTED

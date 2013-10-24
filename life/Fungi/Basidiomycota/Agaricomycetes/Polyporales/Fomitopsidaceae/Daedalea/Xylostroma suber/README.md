@@ -1,5 +1,4 @@
-Xylostroma suber Pers. SPECIES
-=======
+# Xylostroma suber Pers. SPECIES
 
 #### Status
 ACCEPTED

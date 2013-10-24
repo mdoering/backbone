@@ -1,5 +1,4 @@
-Sclerotinia luzulae Whetzel SPECIES
-=======
+# Sclerotinia luzulae Whetzel SPECIES
 
 #### Status
 ACCEPTED

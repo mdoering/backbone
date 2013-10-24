@@ -1,14 +1,13 @@
-Panellus minisculus (Speg.) Raithelh. SPECIES
-=======
+# Panellus minusculus (Speg.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nueva Flora Micológica Argentina (Stuttgart) 160 (2004)
 
 #### Original name
 Agaricus minusculus Speg.

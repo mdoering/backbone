@@ -1,5 +1,4 @@
-Rusavskia granulifera (Giralt, Nimis & Poelt) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia granulifera (Giralt, Nimis & Poelt) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

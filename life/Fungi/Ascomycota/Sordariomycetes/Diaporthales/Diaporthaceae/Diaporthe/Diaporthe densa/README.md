@@ -1,5 +1,4 @@
-Diaporthe densa Sacc. SPECIES
-=======
+# Diaporthe densa Sacc. SPECIES
 
 #### Status
 ACCEPTED

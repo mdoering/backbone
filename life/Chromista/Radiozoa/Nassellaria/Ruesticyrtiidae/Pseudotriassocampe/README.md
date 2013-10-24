@@ -1,5 +1,4 @@
-Pseudotriassocampe Kozur & Mostler, 1994 GENUS
-=======
+# Pseudotriassocampe Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

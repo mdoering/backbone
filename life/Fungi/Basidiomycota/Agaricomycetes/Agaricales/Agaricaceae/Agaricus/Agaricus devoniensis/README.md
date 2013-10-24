@@ -1,14 +1,13 @@
-Agaricus arenophilus Huijsman, 1960 SPECIES
-=======
+# Agaricus devoniensis P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 1(3): 324 (1960)
+Trans. Br. mycol. Soc. 43: 173 (1960)
 
 #### Original name
 Psalliota arenicola Wakef. & A. Pearson, 1946

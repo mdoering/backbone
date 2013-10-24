@@ -1,14 +1,13 @@
-Dasyscypha brasiliensis (Mont.) Le Gal SPECIES
-=======
+# Dasyscyphus brasiliensis (Mont.) Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Discomycetes de Madagascar 372 (1953)
 
 #### Original name
 Cenangium brasiliense Mont.

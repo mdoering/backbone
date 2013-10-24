@@ -1,5 +1,4 @@
-Cryptosporium fraxini Rostr. SPECIES
-=======
+# Cryptosporium fraxini Rostr. SPECIES
 
 #### Status
 ACCEPTED

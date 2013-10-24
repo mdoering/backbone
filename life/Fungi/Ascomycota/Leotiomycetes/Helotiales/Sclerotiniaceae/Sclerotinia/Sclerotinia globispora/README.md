@@ -1,5 +1,4 @@
-Sclerotinia globispora Velen. SPECIES
-=======
+# Sclerotinia globispora Velen. SPECIES
 
 #### Status
 ACCEPTED

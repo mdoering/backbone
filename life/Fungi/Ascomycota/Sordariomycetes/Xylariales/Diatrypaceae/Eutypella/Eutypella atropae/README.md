@@ -1,5 +1,4 @@
-Eutypella atropae (Mont.) Sacc. SPECIES
-=======
+# Eutypella atropae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

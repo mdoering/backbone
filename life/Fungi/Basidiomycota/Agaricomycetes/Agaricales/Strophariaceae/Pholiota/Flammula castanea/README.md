@@ -1,5 +1,4 @@
-Flammula castanea (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula castanea (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

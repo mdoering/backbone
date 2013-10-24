@@ -1,5 +1,4 @@
-Sporidesmium ulmi Fuckel SPECIES
-=======
+# Sporidesmium ulmi Fuckel SPECIES
 
 #### Status
 ACCEPTED

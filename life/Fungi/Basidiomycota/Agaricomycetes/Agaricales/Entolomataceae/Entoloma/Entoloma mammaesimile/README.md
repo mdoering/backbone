@@ -1,5 +1,4 @@
-Entoloma mammaesimile E. Horak SPECIES
-=======
+# Entoloma mammaesimile E. Horak SPECIES
 
 #### Status
 ACCEPTED

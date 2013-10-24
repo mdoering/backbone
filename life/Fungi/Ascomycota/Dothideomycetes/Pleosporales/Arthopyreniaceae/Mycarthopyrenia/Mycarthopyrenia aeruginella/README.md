@@ -1,5 +1,4 @@
-Mycarthopyrenia aeruginella SPECIES
-=======
+# Mycarthopyrenia aeruginella SPECIES
 
 #### Status
 ACCEPTED

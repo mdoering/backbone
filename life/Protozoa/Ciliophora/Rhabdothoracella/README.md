@@ -1,17 +1,16 @@
-Rhabdothorax Latteur & Bousez, 1970 GENUS
-=======
+# Rhabdothoracella Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls Soc. r. Zool. Belg. 99: 195.
+Denisia 1: 141.
 
 #### Original name
-null
+Rhabdothorax Latteur & Bousez, 1970
 
 ### Remarks
 null

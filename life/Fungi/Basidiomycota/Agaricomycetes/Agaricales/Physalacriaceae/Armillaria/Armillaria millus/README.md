@@ -1,5 +1,4 @@
-Armillaria millus (Sowerby) Sacc. SPECIES
-=======
+# Armillaria millus (Sowerby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

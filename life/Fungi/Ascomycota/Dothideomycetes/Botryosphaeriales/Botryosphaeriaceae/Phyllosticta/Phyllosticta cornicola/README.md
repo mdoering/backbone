@@ -1,5 +1,4 @@
-Phyllosticta cornicola (DC.) Rabenh. SPECIES
-=======
+# Phyllosticta cornicola (DC.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

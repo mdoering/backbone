@@ -1,5 +1,4 @@
-Marasmius multifolius Peck SPECIES
-=======
+# Marasmius multifolius Peck SPECIES
 
 #### Status
 ACCEPTED

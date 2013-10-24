@@ -1,5 +1,4 @@
-Sargassum elongatum SPECIES
-=======
+# Sargassum elongatum SPECIES
 
 #### Status
 DOUBTFUL

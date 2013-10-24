@@ -1,5 +1,4 @@
-Haplocaulus eforianus (Tucolesco, 1962) Warren, 1988 SPECIES
-=======
+# Haplocaulus eforianus (Tucolesco, 1962) Warren, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium alni Siemaszko SPECIES
-=======
+# Coniothyrium alni Siemaszko SPECIES
 
 #### Status
 ACCEPTED

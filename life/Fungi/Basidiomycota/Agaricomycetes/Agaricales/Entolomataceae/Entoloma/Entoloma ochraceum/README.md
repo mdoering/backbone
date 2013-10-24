@@ -1,5 +1,4 @@
-Entoloma ochraceum Hesler SPECIES
-=======
+# Entoloma ochraceum Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma galegense (Mont.) Pat. SPECIES
-=======
+# Ganoderma galegense (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

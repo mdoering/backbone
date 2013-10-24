@@ -1,8 +1,7 @@
-Phanerochaete septocystidiata (Burt) J. Erikss. & Ryvarden, 1978 SPECIES
-=======
+# Candelabrochaete septocystidiata (Burt) Burds., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

@@ -1,5 +1,4 @@
-Lecanora kirra Poelt & Grube SPECIES
-=======
+# Lecanora kirra Poelt & Grube SPECIES
 
 #### Status
 ACCEPTED

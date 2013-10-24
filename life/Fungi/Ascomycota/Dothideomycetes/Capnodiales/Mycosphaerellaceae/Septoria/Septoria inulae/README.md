@@ -1,5 +1,4 @@
-Septoria inulae Sacc. & Speg. SPECIES
-=======
+# Septoria inulae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

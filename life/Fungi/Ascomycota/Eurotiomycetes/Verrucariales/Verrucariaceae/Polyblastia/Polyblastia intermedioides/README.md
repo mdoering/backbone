@@ -1,5 +1,4 @@
-Polyblastia intermedioides N.S. Golubk. SPECIES
-=======
+# Polyblastia intermedioides N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

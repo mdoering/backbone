@@ -1,5 +1,4 @@
-Gnomoniella haraeana (Kobayasi) M. Monod SPECIES
-=======
+# Gnomoniella haraeana (Kobayasi) M. Monod SPECIES
 
 #### Status
 ACCEPTED

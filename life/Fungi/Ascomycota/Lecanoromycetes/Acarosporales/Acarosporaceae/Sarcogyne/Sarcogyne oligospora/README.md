@@ -1,5 +1,4 @@
-Sarcogyne oligospora H. Magn. SPECIES
-=======
+# Sarcogyne oligospora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

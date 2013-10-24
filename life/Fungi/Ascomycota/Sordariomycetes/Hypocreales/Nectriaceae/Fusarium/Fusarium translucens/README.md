@@ -1,5 +1,4 @@
-Fusarium translucens Berk. & Broome SPECIES
-=======
+# Fusarium translucens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

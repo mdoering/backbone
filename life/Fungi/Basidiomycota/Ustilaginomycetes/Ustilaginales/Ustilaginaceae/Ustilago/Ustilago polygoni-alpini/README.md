@@ -1,5 +1,4 @@
-Ustilago polygoni-alpini (Cruchet) Zundel SPECIES
-=======
+# Ustilago polygoni-alpini (Cruchet) Zundel SPECIES
 
 #### Status
 ACCEPTED

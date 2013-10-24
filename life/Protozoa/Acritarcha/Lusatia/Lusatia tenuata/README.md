@@ -1,5 +1,4 @@
-Lusatia tenuata (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Lusatia tenuata (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Degelia ligulata P. M. Jørg. & P. James SPECIES
-=======
+# Degelia ligulata P. M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED

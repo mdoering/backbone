@@ -1,17 +1,16 @@
-Lepiota forquignonii var. coniferarum Bon VARIETY
-=======
+# Lepiota forquignonii Quél., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 11(no. 43): 41 (1981)
+in Guilliermond, Compt. Rend. Assoc. Franç. Avancem. Sci. 13: 277 (1885)
 
 #### Original name
-Lepiota forquignonii var. coniferarum Bon
+Lepiota forquignonii Quél., 1885
 
 ### Remarks
 null

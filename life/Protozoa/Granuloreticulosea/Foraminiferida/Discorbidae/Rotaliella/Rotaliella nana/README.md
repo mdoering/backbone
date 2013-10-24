@@ -1,5 +1,4 @@
-Rotaliella nana Pawlowski & Lee, 1991 SPECIES
-=======
+# Rotaliella nana Pawlowski & Lee, 1991 SPECIES
 
 #### Status
 ACCEPTED

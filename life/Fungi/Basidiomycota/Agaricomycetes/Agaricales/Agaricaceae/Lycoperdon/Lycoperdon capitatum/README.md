@@ -1,5 +1,4 @@
-Lycoperdon capitatum Batsch SPECIES
-=======
+# Lycoperdon capitatum Batsch SPECIES
 
 #### Status
 ACCEPTED

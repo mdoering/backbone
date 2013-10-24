@@ -1,5 +1,4 @@
-Isocystis andalusicus P. González SPECIES
-=======
+# Isocystis andalusicus P. González SPECIES
 
 #### Status
 ACCEPTED

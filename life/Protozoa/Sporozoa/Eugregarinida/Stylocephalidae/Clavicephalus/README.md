@@ -1,5 +1,4 @@
-Clavicephalus Théodoridès, 1960 GENUS
-=======
+# Clavicephalus Théodoridès, 1960 GENUS
 
 #### Status
 ACCEPTED

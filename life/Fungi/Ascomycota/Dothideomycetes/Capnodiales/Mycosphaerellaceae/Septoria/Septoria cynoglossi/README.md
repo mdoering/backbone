@@ -1,5 +1,4 @@
-Septoria cynoglossi Woron. SPECIES
-=======
+# Septoria cynoglossi Woron. SPECIES
 
 #### Status
 ACCEPTED

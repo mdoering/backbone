@@ -1,5 +1,4 @@
-Cortinarius splendificus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius splendificus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis capitata Sérus. SPECIES
-=======
+# Gyalideopsis capitata Sérus. SPECIES
 
 #### Status
 ACCEPTED

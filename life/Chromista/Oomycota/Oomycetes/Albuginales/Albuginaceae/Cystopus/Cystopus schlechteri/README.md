@@ -1,5 +1,4 @@
-Cystopus schlechteri Syd. {?} SPECIES
-=======
+# Cystopus schlechteri Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

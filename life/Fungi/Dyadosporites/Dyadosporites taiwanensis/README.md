@@ -1,5 +1,4 @@
-Dyadosporites taiwanensis T.C. Huang SPECIES
-=======
+# Dyadosporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

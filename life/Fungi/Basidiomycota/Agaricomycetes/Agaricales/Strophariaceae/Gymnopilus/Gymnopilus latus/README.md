@@ -1,5 +1,4 @@
-Gymnopilus latus Murrill SPECIES
-=======
+# Gymnopilus latus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophyllum striatosporum Wakef. SPECIES
-=======
+# Endophyllum striatosporum Wakef. SPECIES
 
 #### Status
 ACCEPTED

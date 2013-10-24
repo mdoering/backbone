@@ -1,5 +1,4 @@
-Enerthecoma Jarocki, 1935 GENUS
-=======
+# Enerthecoma Jarocki, 1935 GENUS
 
 #### Status
 ACCEPTED

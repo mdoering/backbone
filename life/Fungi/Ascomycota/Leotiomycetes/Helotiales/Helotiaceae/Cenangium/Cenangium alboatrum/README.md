@@ -1,5 +1,4 @@
-Cenangium alboatrum Ellis & Everh. SPECIES
-=======
+# Cenangium alboatrum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

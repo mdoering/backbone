@@ -1,5 +1,4 @@
-Phlyctis cyrtospora C. Knight SPECIES
-=======
+# Phlyctis cyrtospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

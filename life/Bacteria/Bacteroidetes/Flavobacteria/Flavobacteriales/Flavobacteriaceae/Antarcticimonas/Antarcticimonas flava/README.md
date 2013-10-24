@@ -1,5 +1,4 @@
-Antarcticimonas flava Yang, Oh, Chung & Cho, 2009 SPECIES
-=======
+# Antarcticimonas flava Yang, Oh, Chung & Cho, 2009 SPECIES
 
 #### Status
 ACCEPTED

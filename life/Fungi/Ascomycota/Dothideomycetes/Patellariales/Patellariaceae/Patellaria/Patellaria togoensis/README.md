@@ -1,8 +1,7 @@
-Patellaria togoënsis Müll. Arg. SPECIES
-=======
+# Patellaria togoensis Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Patellaria togoënsis Müll. Arg.
+Patellaria togoensis Müll. Arg.
 
 ### Remarks
 null

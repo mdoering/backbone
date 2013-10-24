@@ -1,5 +1,4 @@
-Sporozoa CLASS
-=======
+# Sporozoa CLASS
 
 #### Status
 ACCEPTED

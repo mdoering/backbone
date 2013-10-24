@@ -1,8 +1,7 @@
-Verrucaria interjungens Nyl., 1872 SPECIES
-=======
+# Porina interjungens (Nyl.) Zahlbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

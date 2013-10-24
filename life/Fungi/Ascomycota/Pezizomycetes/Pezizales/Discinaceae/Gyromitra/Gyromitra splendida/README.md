@@ -1,5 +1,4 @@
-Gyromitra splendida Raitv. SPECIES
-=======
+# Gyromitra splendida Raitv. SPECIES
 
 #### Status
 ACCEPTED

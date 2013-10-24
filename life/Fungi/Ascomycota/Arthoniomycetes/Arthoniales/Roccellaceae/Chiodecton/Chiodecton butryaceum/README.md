@@ -1,5 +1,4 @@
-Chiodecton butryaceum SPECIES
-=======
+# Chiodecton butryaceum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsilinella aurantiaca Earland, 1910 SPECIES
-=======
+# Placopsilinella aurantiaca Earland, 1910 SPECIES
 
 #### Status
 ACCEPTED

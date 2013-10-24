@@ -1,5 +1,4 @@
-Marasmius papillosus Clem. SPECIES
-=======
+# Marasmius papillosus Clem. SPECIES
 
 #### Status
 ACCEPTED

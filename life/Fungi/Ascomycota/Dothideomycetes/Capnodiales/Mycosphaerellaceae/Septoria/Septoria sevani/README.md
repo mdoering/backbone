@@ -1,5 +1,4 @@
-Septoria sevani D.N. Babajan SPECIES
-=======
+# Septoria sevani D.N. Babajan SPECIES
 
 #### Status
 ACCEPTED

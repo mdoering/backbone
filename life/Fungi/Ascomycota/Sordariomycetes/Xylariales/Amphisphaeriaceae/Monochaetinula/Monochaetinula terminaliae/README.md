@@ -1,14 +1,13 @@
-Monochaetia terminaliae Bat. & J.L. Bezerra, 1960 SPECIES
-=======
+# Monochaetinula terminaliae (Bat. & J.L. Bezerra) Muthumary, Abbas & B. Sutton, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 298: 13 (1960)
+Trans. Br. mycol. Soc. 87(1): 106 (1986)
 
 #### Original name
 Monochaetia terminaliae Bat. & J.L. Bezerra, 1960

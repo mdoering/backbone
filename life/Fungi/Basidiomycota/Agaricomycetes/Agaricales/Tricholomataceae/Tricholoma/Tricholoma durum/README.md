@@ -1,5 +1,4 @@
-Tricholoma durum Velen. SPECIES
-=======
+# Tricholoma durum Velen. SPECIES
 
 #### Status
 ACCEPTED

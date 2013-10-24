@@ -1,5 +1,4 @@
-Phyllosticta bacillispora Kabát & Bubák SPECIES
-=======
+# Phyllosticta bacillispora Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

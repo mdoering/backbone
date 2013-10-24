@@ -1,5 +1,4 @@
-Candida cretensis Middelhoven & Kurtzman SPECIES
-=======
+# Candida cretensis Middelhoven & Kurtzman SPECIES
 
 #### Status
 ACCEPTED

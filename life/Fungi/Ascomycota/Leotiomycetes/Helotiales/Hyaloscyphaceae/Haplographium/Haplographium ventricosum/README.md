@@ -1,5 +1,4 @@
-Haplographium ventricosum (R.F. Castañeda) R.F. Castañeda SPECIES
-=======
+# Haplographium ventricosum (R.F. Castañeda) R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

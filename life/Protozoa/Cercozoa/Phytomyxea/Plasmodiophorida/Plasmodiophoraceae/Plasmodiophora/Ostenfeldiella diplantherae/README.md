@@ -1,5 +1,4 @@
-Ostenfeldiella diplantherae Ferd. & Winge SPECIES
-=======
+# Ostenfeldiella diplantherae Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

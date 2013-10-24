@@ -1,5 +1,4 @@
-Microdiplodia cercidis Hollós SPECIES
-=======
+# Microdiplodia cercidis Hollós SPECIES
 
 #### Status
 ACCEPTED

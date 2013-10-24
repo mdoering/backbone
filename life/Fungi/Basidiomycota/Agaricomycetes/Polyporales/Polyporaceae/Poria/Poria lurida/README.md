@@ -1,5 +1,4 @@
-Poria lurida Bres. SPECIES
-=======
+# Poria lurida Bres. SPECIES
 
 #### Status
 ACCEPTED

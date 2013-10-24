@@ -1,5 +1,4 @@
-Virgulinopsis cubana SPECIES
-=======
+# Virgulinopsis cubana SPECIES
 
 #### Status
 ACCEPTED

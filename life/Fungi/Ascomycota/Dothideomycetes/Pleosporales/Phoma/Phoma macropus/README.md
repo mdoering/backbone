@@ -1,5 +1,4 @@
-Phoma macropus Berk. & M.A. Curtis SPECIES
-=======
+# Phoma macropus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ivaecola Ellis & Everh. SPECIES
-=======
+# Phyllosticta ivaecola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

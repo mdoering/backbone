@@ -1,5 +1,4 @@
-Stenella antillana R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Stenella antillana R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

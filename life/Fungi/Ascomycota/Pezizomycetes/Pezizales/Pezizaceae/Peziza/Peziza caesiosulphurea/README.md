@@ -1,5 +1,4 @@
-Peziza caesiosulphurea Schumach. SPECIES
-=======
+# Peziza caesiosulphurea Schumach. SPECIES
 
 #### Status
 ACCEPTED

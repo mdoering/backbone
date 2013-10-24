@@ -1,14 +1,13 @@
-Polystigma canarii (Henn.) Höhn., 1919 SPECIES
-=======
+# Phyllachora canarii Henn., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16: 215 (1918)
+Hedwigia 47: 254 (1908)
 
 #### Original name
 Phyllachora canarii Henn., 1908

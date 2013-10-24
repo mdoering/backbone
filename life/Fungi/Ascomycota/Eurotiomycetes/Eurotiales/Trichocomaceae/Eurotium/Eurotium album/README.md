@@ -1,5 +1,4 @@
-Eurotium album Lib. SPECIES
-=======
+# Eurotium album Lib. SPECIES
 
 #### Status
 ACCEPTED

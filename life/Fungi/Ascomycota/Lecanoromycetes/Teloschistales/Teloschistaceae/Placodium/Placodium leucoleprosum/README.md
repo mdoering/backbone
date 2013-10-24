@@ -1,5 +1,4 @@
-Placodium leucoleprosum Vain. SPECIES
-=======
+# Placodium leucoleprosum Vain. SPECIES
 
 #### Status
 ACCEPTED

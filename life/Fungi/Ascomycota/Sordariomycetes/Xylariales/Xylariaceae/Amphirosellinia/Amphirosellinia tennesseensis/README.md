@@ -1,5 +1,4 @@
-Amphirosellinia tennesseensis Lar.N. Vassiljeva, J.D. Rogers, Y.M. Ju & H.M. Hsieh, 2004 SPECIES
-=======
+# Amphirosellinia tennesseensis Lar.N. Vassiljeva, J.D. Rogers, Y.M. Ju & H.M. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

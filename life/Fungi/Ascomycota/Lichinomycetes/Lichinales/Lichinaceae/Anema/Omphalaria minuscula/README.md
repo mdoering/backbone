@@ -1,5 +1,4 @@
-Omphalaria minuscula (Nyl.) Vain. SPECIES
-=======
+# Omphalaria minuscula (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

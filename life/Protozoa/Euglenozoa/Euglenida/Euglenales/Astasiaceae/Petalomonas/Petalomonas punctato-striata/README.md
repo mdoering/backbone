@@ -1,5 +1,4 @@
-Petalomonas punctato-striata Skuja SPECIES
-=======
+# Petalomonas punctato-striata Skuja SPECIES
 
 #### Status
 ACCEPTED

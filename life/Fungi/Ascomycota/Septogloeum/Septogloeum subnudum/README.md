@@ -1,5 +1,4 @@
-Septogloeum subnudum Davis SPECIES
-=======
+# Septogloeum subnudum Davis SPECIES
 
 #### Status
 ACCEPTED

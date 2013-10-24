@@ -1,5 +1,4 @@
-Thelephora schwieana Spreng. SPECIES
-=======
+# Thelephora schwieana Spreng. SPECIES
 
 #### Status
 ACCEPTED

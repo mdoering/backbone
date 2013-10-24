@@ -1,17 +1,16 @@
-Scolecoxyphium fraseri Cif. & Bat. SPECIES
-=======
+# Scolecoxyphium fraserae Cif. & Bat., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Publções Inst. Micol. Recife 47: 5 (1956)
 
 #### Original name
-Scolecoxyphium fraseri Cif. & Bat.
+Scolecoxyphium fraserae Cif. & Bat., 1956
 
 ### Remarks
 null

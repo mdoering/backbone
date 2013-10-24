@@ -1,5 +1,4 @@
-Latoporata prodigiosa N. Umnova, 1975 SPECIES
-=======
+# Latoporata prodigiosa N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

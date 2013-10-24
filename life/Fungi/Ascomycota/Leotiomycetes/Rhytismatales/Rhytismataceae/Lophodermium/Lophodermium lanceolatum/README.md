@@ -1,5 +1,4 @@
-Lophodermium lanceolatum Spooner, 1991 SPECIES
-=======
+# Lophodermium lanceolatum Spooner, 1991 SPECIES
 
 #### Status
 ACCEPTED

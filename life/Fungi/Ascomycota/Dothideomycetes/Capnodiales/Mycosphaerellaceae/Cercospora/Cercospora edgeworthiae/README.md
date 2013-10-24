@@ -1,5 +1,4 @@
-Cercospora edgeworthiae Hori SPECIES
-=======
+# Cercospora edgeworthiae Hori SPECIES
 
 #### Status
 ACCEPTED

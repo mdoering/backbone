@@ -1,5 +1,4 @@
-Phyllosticta cocophila Pass. SPECIES
-=======
+# Phyllosticta cocophila Pass. SPECIES
 
 #### Status
 ACCEPTED

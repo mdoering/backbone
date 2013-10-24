@@ -1,5 +1,4 @@
-Stigmea E.M. Fries, 1836 GENUS
-=======
+# Stigmea E.M. Fries, 1836 GENUS
 
 #### Status
 ACCEPTED

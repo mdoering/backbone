@@ -1,5 +1,4 @@
-Cladosporium dufourii Brond. SPECIES
-=======
+# Cladosporium dufourii Brond. SPECIES
 
 #### Status
 ACCEPTED

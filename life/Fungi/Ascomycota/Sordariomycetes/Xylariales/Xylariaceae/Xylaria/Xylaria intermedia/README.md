@@ -1,5 +1,4 @@
-Xylaria intermedia Ces. SPECIES
-=======
+# Xylaria intermedia Ces. SPECIES
 
 #### Status
 ACCEPTED

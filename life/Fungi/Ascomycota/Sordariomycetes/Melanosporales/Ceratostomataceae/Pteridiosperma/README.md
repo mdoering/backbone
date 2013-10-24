@@ -1,5 +1,4 @@
-Pteridiosperma J.C. Krug & Jeng GENUS
-=======
+# Pteridiosperma J.C. Krug & Jeng GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Litharchaeocystis talwanii K. Perch-Nielsen SPECIES
-=======
+# Litharchaeocystis talwanii K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

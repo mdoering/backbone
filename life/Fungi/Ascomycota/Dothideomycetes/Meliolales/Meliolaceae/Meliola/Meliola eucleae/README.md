@@ -1,5 +1,4 @@
-Meliola eucleae Hansf. SPECIES
-=======
+# Meliola eucleae Hansf. SPECIES
 
 #### Status
 ACCEPTED

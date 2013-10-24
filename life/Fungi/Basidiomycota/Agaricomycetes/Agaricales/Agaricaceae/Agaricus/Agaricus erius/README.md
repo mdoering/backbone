@@ -1,5 +1,4 @@
-Agaricus erius var. erius VARIETY
-=======
+# Agaricus erius anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus erius var. erius
+Agaricus erius anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amanitopsis godeyi (Gillet) Sacc. SPECIES
-=======
+# Amanitopsis godeyi (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

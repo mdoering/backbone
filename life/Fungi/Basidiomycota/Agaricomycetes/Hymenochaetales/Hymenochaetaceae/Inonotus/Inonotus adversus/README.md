@@ -1,5 +1,4 @@
-Inonotus adversus Corner SPECIES
-=======
+# Inonotus adversus Corner SPECIES
 
 #### Status
 ACCEPTED

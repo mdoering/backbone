@@ -1,5 +1,4 @@
-Tricholoma formosum (Murrill) Murrill SPECIES
-=======
+# Tricholoma formosum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

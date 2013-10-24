@@ -1,17 +1,16 @@
-Rhizopogon vulgaris f. vulgaris FORM
-=======
+# Rhizopogon roseolus (Corda) Th. Fr., 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 16: 56 (1956)
+Svensk bot. Tidskr. 1(3): 282 (1909)
 
 #### Original name
-Rhizopogon vulgaris f. vulgaris
+Splanchnomyces roseolus Corda, 1831
 
 ### Remarks
 null

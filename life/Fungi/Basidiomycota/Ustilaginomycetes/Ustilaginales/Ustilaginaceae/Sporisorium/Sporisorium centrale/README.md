@@ -1,5 +1,4 @@
-Sporisorium centrale R.G. Shivas & Vánky SPECIES
-=======
+# Sporisorium centrale R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

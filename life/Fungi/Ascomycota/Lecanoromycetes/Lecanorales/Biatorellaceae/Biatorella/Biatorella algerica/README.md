@@ -1,5 +1,4 @@
-Biatorella algerica H. Magn. SPECIES
-=======
+# Biatorella algerica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

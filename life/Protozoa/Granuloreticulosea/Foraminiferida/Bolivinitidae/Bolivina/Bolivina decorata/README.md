@@ -1,5 +1,4 @@
-Bolivina decorata Jones SPECIES
-=======
+# Bolivina decorata Jones SPECIES
 
 #### Status
 ACCEPTED

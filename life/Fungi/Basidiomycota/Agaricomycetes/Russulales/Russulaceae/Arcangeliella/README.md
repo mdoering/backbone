@@ -1,5 +1,4 @@
-Arcangeliella Cavara GENUS
-=======
+# Arcangeliella Cavara GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mantellum himalayense M. Watanabe & Komárek SPECIES
-=======
+# Mantellum himalayense M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

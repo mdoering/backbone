@@ -1,5 +1,4 @@
-Asterina robusta Doidge SPECIES
-=======
+# Asterina robusta Doidge SPECIES
 
 #### Status
 ACCEPTED

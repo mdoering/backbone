@@ -1,8 +1,7 @@
-Puccinia svendseni Lindr. SPECIES
-=======
+# Puccinia svendsenii Lindr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia svendseni Lindr.
+Puccinia svendsenii Lindr.
 
 ### Remarks
 null

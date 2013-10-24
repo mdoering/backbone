@@ -1,5 +1,4 @@
-Sticta adpressa Müll. Arg. SPECIES
-=======
+# Sticta adpressa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

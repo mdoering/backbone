@@ -1,5 +1,4 @@
-Verrucaria subvirescens Leight. SPECIES
-=======
+# Verrucaria subvirescens Leight. SPECIES
 
 #### Status
 ACCEPTED

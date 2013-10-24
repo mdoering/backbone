@@ -1,5 +1,4 @@
-Thelidium distans (Willey) Zahlbr. SPECIES
-=======
+# Thelidium distans (Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

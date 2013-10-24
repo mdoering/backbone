@@ -1,5 +1,4 @@
-Arthopyrenia romelii SPECIES
-=======
+# Arthopyrenia romelii SPECIES
 
 #### Status
 ACCEPTED

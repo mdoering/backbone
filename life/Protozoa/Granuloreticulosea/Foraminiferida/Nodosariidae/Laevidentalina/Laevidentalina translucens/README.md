@@ -1,5 +1,4 @@
-Laevidentalina translucens (Parr, 1950) SPECIES
-=======
+# Laevidentalina translucens (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

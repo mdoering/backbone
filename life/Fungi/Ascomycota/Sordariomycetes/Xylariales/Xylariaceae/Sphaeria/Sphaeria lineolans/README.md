@@ -1,5 +1,4 @@
-Sphaeria lineolans Schwein. SPECIES
-=======
+# Sphaeria lineolans Schwein. SPECIES
 
 #### Status
 ACCEPTED

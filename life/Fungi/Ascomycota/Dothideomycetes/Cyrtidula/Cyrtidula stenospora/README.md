@@ -1,5 +1,4 @@
-Cyrtidula stenospora Minks SPECIES
-=======
+# Cyrtidula stenospora Minks SPECIES
 
 #### Status
 ACCEPTED

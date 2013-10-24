@@ -1,5 +1,4 @@
-Cosmospora henanensis Y. Nong & W.Y. Zhuang SPECIES
-=======
+# Cosmospora henanensis Y. Nong & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

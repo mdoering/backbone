@@ -1,5 +1,4 @@
-Chaetomium longipilum H.J. Chowdhery & J.N. Rai SPECIES
-=======
+# Chaetomium longipilum H.J. Chowdhery & J.N. Rai SPECIES
 
 #### Status
 ACCEPTED

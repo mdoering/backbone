@@ -1,5 +1,4 @@
-Didymella pallida Starbäck SPECIES
-=======
+# Didymella pallida Starbäck SPECIES
 
 #### Status
 ACCEPTED

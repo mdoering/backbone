@@ -1,5 +1,4 @@
-Myxosporium aceris I.E. Brezhnev SPECIES
-=======
+# Myxosporium aceris I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra fragilaroides Fritsch & Rich SPECIES
-=======
+# Synedra fragilaroides Fritsch & Rich SPECIES
 
 #### Status
 ACCEPTED

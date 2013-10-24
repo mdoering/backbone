@@ -1,5 +1,4 @@
-Septoria balsaminae Pass. SPECIES
-=======
+# Septoria balsaminae Pass. SPECIES
 
 #### Status
 ACCEPTED

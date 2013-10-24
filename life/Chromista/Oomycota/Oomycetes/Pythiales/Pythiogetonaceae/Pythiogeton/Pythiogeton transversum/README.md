@@ -1,5 +1,4 @@
-Pythiogeton transversum Minden, 1916 SPECIES
-=======
+# Pythiogeton transversum Minden, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Macrophoma launeae S. Ahmad SPECIES
-=======
+# Macrophoma launaeae S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(1): 19 (1971)
 
 #### Original name
-Macrophoma launeae S. Ahmad
+Macrophoma launaeae S. Ahmad
 
 ### Remarks
 null

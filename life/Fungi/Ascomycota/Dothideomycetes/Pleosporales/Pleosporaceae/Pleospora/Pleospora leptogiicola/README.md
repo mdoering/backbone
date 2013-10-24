@@ -1,5 +1,4 @@
-Pleospora leptogiicola D. Hawksw., 1975 SPECIES
-=======
+# Pleospora leptogiicola D. Hawksw., 1975 SPECIES
 
 #### Status
 ACCEPTED

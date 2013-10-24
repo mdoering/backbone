@@ -1,5 +1,4 @@
-Physarum muscicola Pers. SPECIES
-=======
+# Physarum muscicola Pers. SPECIES
 
 #### Status
 ACCEPTED

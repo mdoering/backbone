@@ -1,5 +1,4 @@
-Tricholoma pomonae (Lenz) P. Kumm. SPECIES
-=======
+# Tricholoma pomonae (Lenz) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

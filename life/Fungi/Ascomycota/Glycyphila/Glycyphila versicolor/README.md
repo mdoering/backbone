@@ -1,5 +1,4 @@
-Glycyphila versicolor Mont. SPECIES
-=======
+# Glycyphila versicolor Mont. SPECIES
 
 #### Status
 ACCEPTED

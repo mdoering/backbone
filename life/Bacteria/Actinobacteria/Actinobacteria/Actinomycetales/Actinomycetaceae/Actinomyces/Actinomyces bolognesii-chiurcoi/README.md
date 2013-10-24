@@ -1,5 +1,4 @@
-Actinomyces bolognesii-chiurcoi (Vuill., Pollacci & Nann.) C.W. Dodge SPECIES
-=======
+# Actinomyces bolognesii-chiurcoi (Vuill., Pollacci & Nann.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

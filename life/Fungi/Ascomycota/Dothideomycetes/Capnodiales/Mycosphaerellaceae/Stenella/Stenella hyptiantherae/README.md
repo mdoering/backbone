@@ -1,5 +1,4 @@
-Stenella hyptiantherae S.K. Singh, Arch. Singh & Kamal SPECIES
-=======
+# Stenella hyptiantherae S.K. Singh, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

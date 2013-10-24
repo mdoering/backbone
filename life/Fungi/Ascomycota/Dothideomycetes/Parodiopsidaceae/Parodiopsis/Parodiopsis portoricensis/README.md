@@ -1,5 +1,4 @@
-Parodiopsis portoricensis Hansf. SPECIES
-=======
+# Parodiopsis portoricensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrymaria ignescens (Lasch) S. Lundell & Nannf. SPECIES
-=======
+# Lacrymaria ignescens (Lasch) S. Lundell & Nannf. SPECIES
 
 #### Status
 ACCEPTED

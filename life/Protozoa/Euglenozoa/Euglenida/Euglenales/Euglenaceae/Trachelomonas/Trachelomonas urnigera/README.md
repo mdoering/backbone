@@ -1,5 +1,4 @@
-Trachelomonas urnigera f. sublinearis Popova FORM
-=======
+# Trachelomonas urnigera Skuja SPECIES
 
 #### Status
 ACCEPTED

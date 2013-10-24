@@ -1,5 +1,4 @@
-Scodellina pyxidata (Schaeff.) Gray SPECIES
-=======
+# Scodellina pyxidata (Schaeff.) Gray SPECIES
 
 #### Status
 ACCEPTED

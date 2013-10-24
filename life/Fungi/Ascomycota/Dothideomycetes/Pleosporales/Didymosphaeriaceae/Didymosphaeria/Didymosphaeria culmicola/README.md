@@ -1,5 +1,4 @@
-Didymosphaeria culmicola E. Müll. & S. Ahmad SPECIES
-=======
+# Didymosphaeria culmicola E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium kansense Lichtw. & Grigg, 1998 SPECIES
-=======
+# Smittium kansense Lichtw. & Grigg, 1998 SPECIES
 
 #### Status
 ACCEPTED

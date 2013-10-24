@@ -1,5 +1,4 @@
-Xylaria boergesenii (Ferd. & Winge) P.F. Cannon SPECIES
-=======
+# Xylaria boergesenii (Ferd. & Winge) P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

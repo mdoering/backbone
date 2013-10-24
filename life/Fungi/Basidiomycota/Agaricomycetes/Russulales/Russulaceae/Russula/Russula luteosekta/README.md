@@ -1,5 +1,4 @@
-Russula luteosekta Hornicek SPECIES
-=======
+# Russula luteosekta Hornicek SPECIES
 
 #### Status
 ACCEPTED

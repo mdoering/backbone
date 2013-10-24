@@ -1,5 +1,4 @@
-Cercospora impatientis Bäumler SPECIES
-=======
+# Cercospora impatientis Bäumler SPECIES
 
 #### Status
 ACCEPTED

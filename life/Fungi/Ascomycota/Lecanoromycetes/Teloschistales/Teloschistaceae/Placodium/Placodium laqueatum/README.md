@@ -1,5 +1,4 @@
-Placodium laqueatum (Wulf.) Frege SPECIES
-=======
+# Placodium laqueatum (Wulf.) Frege SPECIES
 
 #### Status
 ACCEPTED

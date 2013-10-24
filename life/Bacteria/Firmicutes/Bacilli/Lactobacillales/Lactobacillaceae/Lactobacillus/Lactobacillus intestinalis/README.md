@@ -1,5 +1,4 @@
-Lactobacillus intestinalis (ex Hemme, 1974) Fujisawa et al., 1990 SPECIES
-=======
+# Lactobacillus intestinalis (ex Hemme, 1974) Fujisawa et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

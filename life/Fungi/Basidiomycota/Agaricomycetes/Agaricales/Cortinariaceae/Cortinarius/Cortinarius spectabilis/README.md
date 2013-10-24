@@ -1,5 +1,4 @@
-Cortinarius spectabilis M.M. Moser SPECIES
-=======
+# Cortinarius spectabilis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

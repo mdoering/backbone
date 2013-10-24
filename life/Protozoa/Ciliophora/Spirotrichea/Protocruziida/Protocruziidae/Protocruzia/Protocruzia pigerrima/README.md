@@ -1,8 +1,7 @@
-Protocruzia pegerrima Cohn, 1866 SPECIES
-=======
+# Protocruzia pigerrima (Cohn, 1866) Faria, Cunha & Pinto, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,17 +1,16 @@
-Physalospora maculans P. Karst., 1890 SPECIES
-=======
+# Phyllachora tjangkorreh Racib., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 12: 127 (1890)
+Parasit. Alg. Pilze Java's (Jakarta) 3: 25 (1900)
 
 #### Original name
-Physalospora maculans P. Karst., 1890
+Phyllachora tjangkorreh Racib., 1900
 
 ### Remarks
 null

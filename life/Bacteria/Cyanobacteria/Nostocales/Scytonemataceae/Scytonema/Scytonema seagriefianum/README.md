@@ -1,5 +1,4 @@
-Scytonema seagriefianum Welsh SPECIES
-=======
+# Scytonema seagriefianum Welsh SPECIES
 
 #### Status
 ACCEPTED

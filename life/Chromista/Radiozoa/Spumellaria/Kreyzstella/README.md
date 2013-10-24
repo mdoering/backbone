@@ -1,5 +1,4 @@
-Kreyzstella GENUS
-=======
+# Kreyzstella GENUS
 
 #### Status
 ACCEPTED

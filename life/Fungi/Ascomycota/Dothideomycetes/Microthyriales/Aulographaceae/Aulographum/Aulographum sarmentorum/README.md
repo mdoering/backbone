@@ -1,5 +1,4 @@
-Aulographum sarmentorum f. sarmentorum FORM
-=======
+# Aulographum sarmentorum De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aulographum sarmentorum f. sarmentorum
+Aulographum sarmentorum De Not.
 
 ### Remarks
 null

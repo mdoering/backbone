@@ -1,5 +1,4 @@
-Coprinus heterosetulus Locq. SPECIES
-=======
+# Coprinus heterosetulus Locq. SPECIES
 
 #### Status
 ACCEPTED

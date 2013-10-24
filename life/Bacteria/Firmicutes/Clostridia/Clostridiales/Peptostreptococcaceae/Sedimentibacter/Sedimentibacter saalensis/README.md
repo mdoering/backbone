@@ -1,5 +1,4 @@
-Sedimentibacter saalensis Breitenstein et al., 2002 SPECIES
-=======
+# Sedimentibacter saalensis Breitenstein et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

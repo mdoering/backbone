@@ -1,5 +1,4 @@
-Cylindrosporium tulipae Annal. SPECIES
-=======
+# Cylindrosporium tulipae Annal. SPECIES
 
 #### Status
 ACCEPTED

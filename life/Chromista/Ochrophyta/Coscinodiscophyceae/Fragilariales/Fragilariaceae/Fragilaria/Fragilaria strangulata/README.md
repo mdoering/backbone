@@ -1,5 +1,4 @@
-Fragilaria strangulata (Zanon) Hustedt SPECIES
-=======
+# Fragilaria strangulata (Zanon) Hustedt SPECIES
 
 #### Status
 ACCEPTED

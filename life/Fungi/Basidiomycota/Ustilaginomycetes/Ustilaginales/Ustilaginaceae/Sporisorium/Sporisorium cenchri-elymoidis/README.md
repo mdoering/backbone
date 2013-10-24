@@ -1,5 +1,4 @@
-Sporisorium cenchri-elymoidis Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium cenchri-elymoidis Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria pleurotoides Fr. SPECIES
-=======
+# Armillaria pleurotoides Fr. SPECIES
 
 #### Status
 ACCEPTED

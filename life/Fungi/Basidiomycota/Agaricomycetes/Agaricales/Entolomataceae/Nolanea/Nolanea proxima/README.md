@@ -1,5 +1,4 @@
-Nolanea proxima f. proxima FORM
-=======
+# Nolanea proxima Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Entolomatoid fungi of the Western United States and Alaska (Eureka) 260 (1994)
 
 #### Original name
-Nolanea proxima f. proxima
+Nolanea proxima Largent
 
 ### Remarks
 null

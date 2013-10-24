@@ -1,5 +1,4 @@
-Paucithecium elegantissimum (Rick) Rick SPECIES
-=======
+# Paucithecium elegantissimum (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

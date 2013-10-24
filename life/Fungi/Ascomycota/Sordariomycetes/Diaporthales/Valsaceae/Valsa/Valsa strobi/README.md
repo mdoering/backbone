@@ -1,5 +1,4 @@
-Valsa strobi Pass. SPECIES
-=======
+# Valsa strobi Pass. SPECIES
 
 #### Status
 ACCEPTED

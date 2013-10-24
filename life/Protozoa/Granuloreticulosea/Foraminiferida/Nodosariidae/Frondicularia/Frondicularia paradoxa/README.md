@@ -1,5 +1,4 @@
-Frondicularia paradoxa (Berthelin) SPECIES
-=======
+# Frondicularia paradoxa (Berthelin) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena tenuis (Bolton) Gillet SPECIES
-=======
+# Mycena tenuis (Bolton) Gillet SPECIES
 
 #### Status
 ACCEPTED

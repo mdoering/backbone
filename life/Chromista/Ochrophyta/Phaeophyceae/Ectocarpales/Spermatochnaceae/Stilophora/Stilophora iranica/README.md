@@ -1,5 +1,4 @@
-Stilophora iranica Børgesen SPECIES
-=======
+# Stilophora iranica Børgesen SPECIES
 
 #### Status
 ACCEPTED

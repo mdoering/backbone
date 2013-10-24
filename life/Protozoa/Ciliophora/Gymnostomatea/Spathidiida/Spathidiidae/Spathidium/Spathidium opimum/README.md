@@ -1,5 +1,4 @@
-Spathidium opimum Kahl, 1930 SPECIES
-=======
+# Spathidium opimum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

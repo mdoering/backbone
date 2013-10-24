@@ -1,5 +1,4 @@
-Camarosporium minus Sacc. SPECIES
-=======
+# Camarosporium minus Sacc. SPECIES
 
 #### Status
 ACCEPTED

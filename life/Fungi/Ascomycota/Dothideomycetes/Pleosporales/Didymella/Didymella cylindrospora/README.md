@@ -1,5 +1,4 @@
-Didymella cylindrospora Vouaux SPECIES
-=======
+# Didymella cylindrospora Vouaux SPECIES
 
 #### Status
 ACCEPTED

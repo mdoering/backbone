@@ -1,5 +1,4 @@
-Scolecostroma GENUS
-=======
+# Scolecostroma GENUS
 
 #### Status
 ACCEPTED

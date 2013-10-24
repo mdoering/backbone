@@ -1,14 +1,13 @@
-Dothidella myrtincola Rehm, 1892 SPECIES
-=======
+# Phyllachora myrtincola (Rehm) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 31: 305 (1892)
+Annls mycol. 39: 314 (1941)
 
 #### Original name
 Dothidella myrtincola Rehm, 1892

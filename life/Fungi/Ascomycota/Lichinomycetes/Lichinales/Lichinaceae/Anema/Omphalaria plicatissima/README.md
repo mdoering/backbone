@@ -1,5 +1,4 @@
-Omphalaria plicatissima (Nyl.) Harm. SPECIES
-=======
+# Omphalaria plicatissima (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

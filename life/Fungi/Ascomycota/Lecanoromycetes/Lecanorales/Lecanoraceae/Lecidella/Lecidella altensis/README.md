@@ -1,5 +1,4 @@
-Lecidella altensis (Th. Fr.) Hertel SPECIES
-=======
+# Lecidella altensis (Th. Fr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

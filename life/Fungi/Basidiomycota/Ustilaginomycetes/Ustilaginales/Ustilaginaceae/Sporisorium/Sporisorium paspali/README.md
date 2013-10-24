@@ -1,5 +1,4 @@
-Sporisorium paspali (Speg.) Vánky SPECIES
-=======
+# Sporisorium paspali (Speg.) Vánky SPECIES
 
 #### Status
 ACCEPTED

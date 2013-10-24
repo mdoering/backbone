@@ -1,5 +1,4 @@
-Nitrosomonas aestuarii Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas aestuarii Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balkhania Mamontova, 1966 GENUS
-=======
+# Balkhania Mamontova, 1966 GENUS
 
 #### Status
 ACCEPTED

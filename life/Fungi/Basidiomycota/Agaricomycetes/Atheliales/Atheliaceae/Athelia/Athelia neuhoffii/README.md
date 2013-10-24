@@ -1,14 +1,13 @@
-Corticium neuhoffii Bres., 1923 SPECIES
-=======
+# Athelia neuhoffii (Bres.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus, Wageningen 27: 12 (1957)
 
 #### Original name
 null

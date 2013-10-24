@@ -1,5 +1,4 @@
-Marasmiopsis GENUS
-=======
+# Marasmiopsis GENUS
 
 #### Status
 ACCEPTED

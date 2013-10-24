@@ -1,5 +1,4 @@
-Cortinarius cosmoxanthus M.M. Moser SPECIES
-=======
+# Cortinarius cosmoxanthus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

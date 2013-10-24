@@ -1,5 +1,4 @@
-Gaeumannomyces wongoonoo P. Wong SPECIES
-=======
+# Gaeumannomyces wongoonoo P. Wong SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialonectria citrina (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria citrina (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

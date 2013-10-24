@@ -1,5 +1,4 @@
-Caloplaca gialolechiaeformis Szatala SPECIES
-=======
+# Caloplaca gialolechiaeformis Szatala SPECIES
 
 #### Status
 ACCEPTED

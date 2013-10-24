@@ -1,5 +1,4 @@
-Verrucaria madida Orange SPECIES
-=======
+# Verrucaria madida Orange SPECIES
 
 #### Status
 ACCEPTED

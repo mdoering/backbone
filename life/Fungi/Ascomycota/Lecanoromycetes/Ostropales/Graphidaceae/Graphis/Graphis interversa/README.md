@@ -1,5 +1,4 @@
-Graphis interversa Nyl. SPECIES
-=======
+# Graphis interversa Nyl. SPECIES
 
 #### Status
 ACCEPTED

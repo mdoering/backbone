@@ -1,17 +1,16 @@
-Helminthosporium halodes var. halodes VARIETY
-=======
+# Setosphaeria rostrata K.J. Leonard, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Agric. Res. , Washington 24(8): 709 (1923)
+Mycologia 68(2): 409 (1976)
 
 #### Original name
-Helminthosporium halodes var. halodes
+Setosphaeria rostrata K.J. Leonard, 1976
 
 ### Remarks
 null

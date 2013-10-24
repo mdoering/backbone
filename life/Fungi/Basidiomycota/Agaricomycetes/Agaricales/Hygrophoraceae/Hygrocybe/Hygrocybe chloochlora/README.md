@@ -1,5 +1,4 @@
-Hygrocybe chloochlora Pegler & Fiard SPECIES
-=======
+# Hygrocybe chloochlora Pegler & Fiard SPECIES
 
 #### Status
 ACCEPTED

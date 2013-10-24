@@ -1,5 +1,4 @@
-Cercospora celtidis Sawada SPECIES
-=======
+# Cercospora celtidis Sawada SPECIES
 
 #### Status
 ACCEPTED

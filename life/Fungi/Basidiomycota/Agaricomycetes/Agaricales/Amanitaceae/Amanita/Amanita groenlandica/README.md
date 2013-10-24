@@ -1,5 +1,4 @@
-Amanita groenlandica Bas ex Knudsen & T. Borgen SPECIES
-=======
+# Amanita groenlandica Bas ex Knudsen & T. Borgen SPECIES
 
 #### Status
 ACCEPTED

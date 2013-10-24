@@ -1,5 +1,4 @@
-Melampsora congregata Dietel SPECIES
-=======
+# Melampsora congregata Dietel SPECIES
 
 #### Status
 ACCEPTED

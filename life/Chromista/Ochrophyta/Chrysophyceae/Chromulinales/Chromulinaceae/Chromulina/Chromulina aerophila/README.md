@@ -1,5 +1,4 @@
-Chromulina aerophila J.W.G. Lund SPECIES
-=======
+# Chromulina aerophila J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

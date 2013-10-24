@@ -1,5 +1,4 @@
-Hendersonia acanthi Pat. SPECIES
-=======
+# Hendersonia acanthi Pat. SPECIES
 
 #### Status
 ACCEPTED

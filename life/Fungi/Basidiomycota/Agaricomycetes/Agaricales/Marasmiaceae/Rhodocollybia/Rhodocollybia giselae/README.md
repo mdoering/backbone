@@ -1,5 +1,4 @@
-Rhodocollybia giselae Neville & Antonín SPECIES
-=======
+# Rhodocollybia giselae Neville & Antonín SPECIES
 
 #### Status
 ACCEPTED

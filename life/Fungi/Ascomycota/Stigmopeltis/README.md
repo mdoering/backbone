@@ -1,5 +1,4 @@
-Stigmopeltis Syd. GENUS
-=======
+# Stigmopeltis Syd. GENUS
 
 #### Status
 ACCEPTED

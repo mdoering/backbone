@@ -1,5 +1,4 @@
-Corynespora caryotae Subram. SPECIES
-=======
+# Corynespora caryotae Subram. SPECIES
 
 #### Status
 ACCEPTED

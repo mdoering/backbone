@@ -1,5 +1,4 @@
-Catocarpus atratus (Sm.) Arnold SPECIES
-=======
+# Catocarpus atratus (Sm.) Arnold SPECIES
 
 #### Status
 ACCEPTED

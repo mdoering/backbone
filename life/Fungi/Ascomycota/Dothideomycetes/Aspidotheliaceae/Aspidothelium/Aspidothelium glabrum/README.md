@@ -1,5 +1,4 @@
-Aspidothelium glabrum Lücking, Aptroot & Sipman SPECIES
-=======
+# Aspidothelium glabrum Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

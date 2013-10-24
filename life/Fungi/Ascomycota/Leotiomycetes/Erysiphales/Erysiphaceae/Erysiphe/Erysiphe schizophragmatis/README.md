@@ -1,5 +1,4 @@
-Erysiphe schizophragmatis (Tanda & Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe schizophragmatis (Tanda & Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

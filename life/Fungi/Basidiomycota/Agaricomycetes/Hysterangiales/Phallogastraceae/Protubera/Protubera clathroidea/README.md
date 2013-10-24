@@ -1,5 +1,4 @@
-Protubera clathroidea Dring, 1964 SPECIES
-=======
+# Protubera clathroidea Dring, 1964 SPECIES
 
 #### Status
 ACCEPTED

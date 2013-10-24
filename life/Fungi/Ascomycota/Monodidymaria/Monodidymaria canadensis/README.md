@@ -1,14 +1,13 @@
-Ramularia canadensis Ellis & Everh. SPECIES
-=======
+# Monodidymaria canadensis (Ellis & Everh.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. 84 (1891)
+Nova Hedwigia 58(1-2): 195 (1994)
 
 #### Original name
 Ramularia canadensis Ellis & Everh.

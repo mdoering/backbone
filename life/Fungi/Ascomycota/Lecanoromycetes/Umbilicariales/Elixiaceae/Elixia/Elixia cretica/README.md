@@ -1,5 +1,4 @@
-Elixia cretica T. Sprib. & Lumbsch SPECIES
-=======
+# Elixia cretica T. Sprib. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subintegra Redinger SPECIES
-=======
+# Graphis subintegra Redinger SPECIES
 
 #### Status
 ACCEPTED

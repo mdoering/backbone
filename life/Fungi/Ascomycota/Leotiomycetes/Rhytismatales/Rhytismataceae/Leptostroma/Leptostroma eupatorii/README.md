@@ -1,5 +1,4 @@
-Leptostroma eupatorii Allesch., 1896 SPECIES
-=======
+# Leptostroma eupatorii Allesch., 1896 SPECIES
 
 #### Status
 ACCEPTED

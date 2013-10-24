@@ -1,5 +1,4 @@
-Phyllachora compositae (Rick) Bat. & A.F. Vital, 1957 SPECIES
-=======
+# Phyllachora compositae (Rick) Bat. & A.F. Vital, 1957 SPECIES
 
 #### Status
 DOUBTFUL

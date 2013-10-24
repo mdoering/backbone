@@ -1,5 +1,4 @@
-Acanthostomella conicoides SPECIES
-=======
+# Acanthostomella conicoides SPECIES
 
 #### Status
 ACCEPTED

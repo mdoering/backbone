@@ -1,5 +1,4 @@
-Cercospora aciotidis Chupp SPECIES
-=======
+# Cercospora aciotidis Chupp SPECIES
 
 #### Status
 ACCEPTED

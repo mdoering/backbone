@@ -1,5 +1,4 @@
-Usnea christhinae Bystrek SPECIES
-=======
+# Usnea christhinae Bystrek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina occidentalis Lynge SPECIES
-=======
+# Rinodina occidentalis Lynge SPECIES
 
 #### Status
 ACCEPTED

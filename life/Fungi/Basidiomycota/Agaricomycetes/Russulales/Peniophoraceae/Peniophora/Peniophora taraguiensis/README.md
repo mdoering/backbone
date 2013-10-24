@@ -1,5 +1,4 @@
-Peniophora taraguiensis Popoff & J.E. Wright, 1994 SPECIES
-=======
+# Peniophora taraguiensis Popoff & J.E. Wright, 1994 SPECIES
 
 #### Status
 ACCEPTED

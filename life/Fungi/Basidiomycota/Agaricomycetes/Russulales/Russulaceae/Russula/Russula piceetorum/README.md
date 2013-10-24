@@ -1,5 +1,4 @@
-Russula piceetorum Singer SPECIES
-=======
+# Russula piceetorum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta dendrostellerae Schwarzman SPECIES
-=======
+# Ascochyta dendrostellerae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

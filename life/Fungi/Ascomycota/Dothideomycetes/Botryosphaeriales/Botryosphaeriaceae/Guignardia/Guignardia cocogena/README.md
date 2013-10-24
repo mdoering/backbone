@@ -1,5 +1,4 @@
-Guignardia cocogena (Cooke) Punith. SPECIES
-=======
+# Guignardia cocogena (Cooke) Punith. SPECIES
 
 #### Status
 ACCEPTED

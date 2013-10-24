@@ -1,5 +1,4 @@
-Hysterangium maidenii (Rodway) Brittleb. SPECIES
-=======
+# Hysterangium maidenii (Rodway) Brittleb. SPECIES
 
 #### Status
 ACCEPTED

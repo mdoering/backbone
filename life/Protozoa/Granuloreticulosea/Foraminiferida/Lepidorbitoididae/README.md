@@ -1,5 +1,4 @@
-Lepidorbitoididae Vaughan, 1933 FAMILY
-=======
+# Lepidorbitoididae Vaughan, 1933 FAMILY
 
 #### Status
 ACCEPTED

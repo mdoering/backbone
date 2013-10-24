@@ -1,5 +1,4 @@
-Thermovirga lienii Dahle & Birkeland, 2006 SPECIES
-=======
+# Thermovirga lienii Dahle & Birkeland, 2006 SPECIES
 
 #### Status
 ACCEPTED

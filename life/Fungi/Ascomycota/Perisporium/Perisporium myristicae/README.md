@@ -1,5 +1,4 @@
-Perisporium myristicae Henn. SPECIES
-=======
+# Perisporium myristicae Henn. SPECIES
 
 #### Status
 ACCEPTED

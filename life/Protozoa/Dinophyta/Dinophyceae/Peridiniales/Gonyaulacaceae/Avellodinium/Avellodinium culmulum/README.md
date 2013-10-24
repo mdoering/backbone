@@ -1,5 +1,4 @@
-Avellodinium culmulum (G. Norris) R. J. Davey SPECIES
-=======
+# Avellodinium culmulum (G. Norris) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

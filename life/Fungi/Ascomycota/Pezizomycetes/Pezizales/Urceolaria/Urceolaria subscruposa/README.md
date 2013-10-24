@@ -1,5 +1,4 @@
-Urceolaria subscruposa (Nyl.) Harm. SPECIES
-=======
+# Urceolaria subscruposa (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

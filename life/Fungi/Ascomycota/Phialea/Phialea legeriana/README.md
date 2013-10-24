@@ -1,5 +1,4 @@
-Phialea legeriana Gillet SPECIES
-=======
+# Phialea legeriana Gillet SPECIES
 
 #### Status
 ACCEPTED

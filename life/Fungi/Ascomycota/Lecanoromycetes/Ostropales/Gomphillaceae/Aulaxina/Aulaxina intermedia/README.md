@@ -1,5 +1,4 @@
-Aulaxina intermedia Lücking SPECIES
-=======
+# Aulaxina intermedia Lücking SPECIES
 
 #### Status
 ACCEPTED

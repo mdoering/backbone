@@ -1,14 +1,13 @@
-Nautilus radicula Linnaeus, 1758 SPECIES
-=======
+# Nodosaria radicula (Linnaeus, 1758) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaeus, C. (1758). Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Editio decima, reformata. Laurentius Salvius: Holmiae. ii, 824 pp.
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Gibbera confertissima (Ellis & Everh.) Sivan. SPECIES
-=======
+# Gibbera confertissima (Ellis & Everh.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

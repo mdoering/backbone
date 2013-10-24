@@ -1,5 +1,4 @@
-Pavonitina Schubert, 1920 GENUS
-=======
+# Pavonitina Schubert, 1920 GENUS
 
 #### Status
 ACCEPTED

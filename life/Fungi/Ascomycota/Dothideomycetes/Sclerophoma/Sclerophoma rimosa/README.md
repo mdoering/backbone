@@ -1,5 +1,4 @@
-Sclerophoma rimosa (Fautrey) Höhn. SPECIES
-=======
+# Sclerophoma rimosa (Fautrey) Höhn. SPECIES
 
 #### Status
 ACCEPTED

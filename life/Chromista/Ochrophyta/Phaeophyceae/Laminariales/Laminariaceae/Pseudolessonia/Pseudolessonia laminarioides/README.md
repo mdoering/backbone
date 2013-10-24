@@ -1,5 +1,4 @@
-Pseudolessonia laminarioides (Postels & Ruprecht) G.Y.Cho, N.G.Klochkova, T.N.Krupnova & Boo, 2006 SPECIES
-=======
+# Pseudolessonia laminarioides (Postels & Ruprecht) G.Y.Cho, N.G.Klochkova, T.N.Krupnova & Boo, 2006 SPECIES
 
 #### Status
 ACCEPTED

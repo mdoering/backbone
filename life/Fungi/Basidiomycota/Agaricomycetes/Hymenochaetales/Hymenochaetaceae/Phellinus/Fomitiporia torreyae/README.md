@@ -1,5 +1,4 @@
-Fomitiporia torreyae Y.C. Dai & B.K. Cui SPECIES
-=======
+# Fomitiporia torreyae Y.C. Dai & B.K. Cui SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilobolus pestis-bovinae Hallier SPECIES
-=======
+# Pilobolus pestis-bovinae Hallier SPECIES
 
 #### Status
 ACCEPTED

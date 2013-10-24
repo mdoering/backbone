@@ -1,5 +1,4 @@
-Gyrodon housei (Murrill) Snell SPECIES
-=======
+# Gyrodon housei (Murrill) Snell SPECIES
 
 #### Status
 ACCEPTED

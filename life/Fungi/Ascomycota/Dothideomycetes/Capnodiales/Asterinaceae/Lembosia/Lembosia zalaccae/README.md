@@ -1,5 +1,4 @@
-Lembosia zalaccae Hansf. SPECIES
-=======
+# Lembosia zalaccae Hansf. SPECIES
 
 #### Status
 ACCEPTED

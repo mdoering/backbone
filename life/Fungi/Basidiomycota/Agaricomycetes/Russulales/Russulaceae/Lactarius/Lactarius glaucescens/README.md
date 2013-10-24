@@ -1,14 +1,13 @@
-Lactarius piperatus var. glaucescens (Crossl.) Hesler & A.H. Sm., 1979 VARIETY
-=======
+# Lactarius glaucescens Crossl., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Species of Lactarius (Ann Arbor) 186 (1979)
+Naturalist 5 (1900)
 
 #### Original name
 Lactarius glaucescens Crossl., 1900

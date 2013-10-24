@@ -1,5 +1,4 @@
-Galera annula Rick SPECIES
-=======
+# Galera annula Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype tiliacea Ellis SPECIES
-=======
+# Diatrype tiliacea Ellis SPECIES
 
 #### Status
 ACCEPTED

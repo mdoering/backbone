@@ -1,5 +1,4 @@
-Subramaniula irregularis P.F. Cannon & D. Hawksw., 1986 SPECIES
-=======
+# Subramaniula irregularis P.F. Cannon & D. Hawksw., 1986 SPECIES
 
 #### Status
 ACCEPTED

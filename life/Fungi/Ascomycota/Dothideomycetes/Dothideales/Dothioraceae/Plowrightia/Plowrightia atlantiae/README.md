@@ -1,5 +1,4 @@
-Plowrightia atlantiae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Plowrightia atlantiae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

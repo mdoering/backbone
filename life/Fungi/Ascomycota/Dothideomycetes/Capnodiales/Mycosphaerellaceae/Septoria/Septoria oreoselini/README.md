@@ -1,5 +1,4 @@
-Septoria oreoselini (Lasch) Sacc. SPECIES
-=======
+# Septoria oreoselini (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

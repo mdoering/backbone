@@ -1,5 +1,4 @@
-Stereocaulon argus var. argus VARIETY
-=======
+# Stereocaulon argus Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 London J. Bot. 3: 653 (1844)
 
 #### Original name
-Stereocaulon argus var. argus
+Stereocaulon argus Hook. f. & Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mucor glaucus Batsch SPECIES
-=======
+# Mucor glaucus Batsch SPECIES
 
 #### Status
 ACCEPTED

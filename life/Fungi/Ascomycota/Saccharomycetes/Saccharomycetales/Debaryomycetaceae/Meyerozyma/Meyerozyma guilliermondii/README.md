@@ -1,17 +1,16 @@
-Monilia guilliermondii var. guilliermondii VARIETY
-=======
+# Meyerozyma guilliermondii (Wick.) Kurtzman & M. Suzuki, 2010 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Manual of tropical medicine (London), Edn 2 826 (1913)
+null
 
 #### Original name
-Monilia guilliermondii var. guilliermondii
+null
 
 ### Remarks
 null

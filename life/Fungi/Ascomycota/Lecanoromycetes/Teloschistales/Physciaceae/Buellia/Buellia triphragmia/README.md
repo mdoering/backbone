@@ -1,5 +1,4 @@
-Buellia triphragmia (Nyl.) Arnold SPECIES
-=======
+# Buellia triphragmia (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

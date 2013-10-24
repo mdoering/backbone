@@ -1,5 +1,4 @@
-Puccinia lorentzii Henn. SPECIES
-=======
+# Puccinia lorentzii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromocreopsis GENUS
-=======
+# Chromocreopsis GENUS
 
 #### Status
 ACCEPTED

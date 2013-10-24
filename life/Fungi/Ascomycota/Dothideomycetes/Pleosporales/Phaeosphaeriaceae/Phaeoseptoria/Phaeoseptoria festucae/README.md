@@ -1,5 +1,4 @@
-Phaeoseptoria festucae var. festucae VARIETY
-=======
+# Phaeoseptoria festucae R. Sprague SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 35(4): 487 (1943)
 
 #### Original name
-Phaeoseptoria festucae var. festucae
+Phaeoseptoria festucae R. Sprague
 
 ### Remarks
 null

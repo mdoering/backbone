@@ -1,5 +1,4 @@
-Hydnum caespitosum Banning ex Peck SPECIES
-=======
+# Hydnum caespitosum Banning ex Peck SPECIES
 
 #### Status
 ACCEPTED

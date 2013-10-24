@@ -1,5 +1,4 @@
-Leptonia foliocontusa var. caeruleotincta Largent VARIETY
-=======
+# Leptonia foliocontusa Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Entolomatoid fungi of the Western United States and Alaska (Eureka) 114 (1994)
+Biblthca Mycol. 55: 169 (1977)
 
 #### Original name
-Leptonia foliocontusa var. caeruleotincta Largent
+Leptonia foliocontusa Largent
 
 ### Remarks
 null

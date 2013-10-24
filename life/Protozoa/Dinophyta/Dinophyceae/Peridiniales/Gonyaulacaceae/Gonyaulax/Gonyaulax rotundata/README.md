@@ -1,5 +1,4 @@
-Gonyaulax rotundata Rampi SPECIES
-=======
+# Gonyaulax rotundata Rampi SPECIES
 
 #### Status
 ACCEPTED

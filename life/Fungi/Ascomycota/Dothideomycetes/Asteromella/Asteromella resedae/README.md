@@ -1,5 +1,4 @@
-Asteromella resedae (Oudem.) Petr. SPECIES
-=======
+# Asteromella resedae (Oudem.) Petr. SPECIES
 
 #### Status
 ACCEPTED

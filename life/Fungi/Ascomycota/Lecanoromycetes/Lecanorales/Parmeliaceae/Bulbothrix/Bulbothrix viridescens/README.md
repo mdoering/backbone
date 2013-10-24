@@ -1,17 +1,16 @@
-Parmelia viridescens Lynge SPECIES
-=======
+# Bulbothrix viridescens (Lynge) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 481 (1974)
 
 #### Original name
-null
+Parmelia viridescens Lynge
 
 ### Remarks
 null

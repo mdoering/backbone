@@ -1,5 +1,4 @@
-Lecanora diacaspis Nyl. SPECIES
-=======
+# Lecanora diacaspis Nyl. SPECIES
 
 #### Status
 ACCEPTED

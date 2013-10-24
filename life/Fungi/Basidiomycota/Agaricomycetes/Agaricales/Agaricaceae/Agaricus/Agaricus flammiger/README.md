@@ -1,5 +1,4 @@
-Agaricus flammiger Lasch SPECIES
-=======
+# Agaricus flammiger Lasch SPECIES
 
 #### Status
 ACCEPTED

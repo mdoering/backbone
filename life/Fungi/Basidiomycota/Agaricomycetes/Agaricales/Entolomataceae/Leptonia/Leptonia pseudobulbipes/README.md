@@ -1,5 +1,4 @@
-Leptonia pseudobulbipes Largent SPECIES
-=======
+# Leptonia pseudobulbipes Largent SPECIES
 
 #### Status
 ACCEPTED

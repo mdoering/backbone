@@ -1,5 +1,4 @@
-Coniophora karstenii Massee SPECIES
-=======
+# Coniophora karstenii Massee SPECIES
 
 #### Status
 ACCEPTED

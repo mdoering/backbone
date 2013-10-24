@@ -1,5 +1,4 @@
-Miamiensis Thompson & Moewus, 1964 GENUS
-=======
+# Miamiensis Thompson & Moewus, 1964 GENUS
 
 #### Status
 ACCEPTED

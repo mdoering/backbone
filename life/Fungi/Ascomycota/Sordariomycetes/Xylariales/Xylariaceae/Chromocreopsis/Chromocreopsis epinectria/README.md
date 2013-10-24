@@ -1,5 +1,4 @@
-Chromocreopsis epinectria Teng SPECIES
-=======
+# Chromocreopsis epinectria Teng SPECIES
 
 #### Status
 ACCEPTED

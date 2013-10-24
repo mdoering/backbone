@@ -1,5 +1,4 @@
-Sporhelminthium anomalum (Speg.) Speg. SPECIES
-=======
+# Sporhelminthium anomalum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

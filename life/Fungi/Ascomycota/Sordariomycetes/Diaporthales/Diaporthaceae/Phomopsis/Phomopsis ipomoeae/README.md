@@ -1,5 +1,4 @@
-Phomopsis ipomoeae Petr., 1922 SPECIES
-=======
+# Phomopsis ipomoeae Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED

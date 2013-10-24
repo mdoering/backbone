@@ -1,5 +1,4 @@
-Beltraniomyces Manohar., Agarwal & Rao GENUS
-=======
+# Beltraniomyces Manohar., Agarwal & Rao GENUS
 
 #### Status
 ACCEPTED

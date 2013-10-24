@@ -1,5 +1,4 @@
-Pezizella aculeata Velen. SPECIES
-=======
+# Pezizella aculeata Velen. SPECIES
 
 #### Status
 ACCEPTED

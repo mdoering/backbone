@@ -1,5 +1,4 @@
-Sejongia marina Lee, Lee, Choi & Cho, 2007 SPECIES
-=======
+# Sejongia marina Lee, Lee, Choi & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

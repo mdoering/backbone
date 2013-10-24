@@ -1,5 +1,4 @@
-Scolecotheca Søchting & B. Sutton GENUS
-=======
+# Scolecotheca Søchting & B. Sutton GENUS
 
 #### Status
 ACCEPTED

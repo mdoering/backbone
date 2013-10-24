@@ -1,5 +1,4 @@
-Phyllosticta philodendricola Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta philodendricola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora aparaphysata Therry SPECIES
-=======
+# Pleospora aparaphysata Therry SPECIES
 
 #### Status
 ACCEPTED

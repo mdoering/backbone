@@ -1,5 +1,4 @@
-Marasmius sessilis Pat. SPECIES
-=======
+# Marasmius sessilis Pat. SPECIES
 
 #### Status
 ACCEPTED

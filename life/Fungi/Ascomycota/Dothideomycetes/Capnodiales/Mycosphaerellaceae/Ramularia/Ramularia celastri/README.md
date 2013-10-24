@@ -1,5 +1,4 @@
-Ramularia celastri Ellis & G. Martin SPECIES
-=======
+# Ramularia celastri Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

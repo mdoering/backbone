@@ -1,5 +1,4 @@
-Sphaeronaema squarrosum Riess SPECIES
-=======
+# Sphaeronaema squarrosum Riess SPECIES
 
 #### Status
 ACCEPTED

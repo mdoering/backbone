@@ -1,5 +1,4 @@
-Gassicurtia coccinoides Marbach SPECIES
-=======
+# Gassicurtia coccinoides Marbach SPECIES
 
 #### Status
 ACCEPTED

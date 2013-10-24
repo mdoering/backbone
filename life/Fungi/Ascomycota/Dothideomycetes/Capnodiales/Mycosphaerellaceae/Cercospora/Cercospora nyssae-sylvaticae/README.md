@@ -1,5 +1,4 @@
-Cercospora nyssae-sylvaticae H.C. Greene SPECIES
-=======
+# Cercospora nyssae-sylvaticae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

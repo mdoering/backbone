@@ -1,5 +1,4 @@
-Rhodomonas baltica Karsten SPECIES
-=======
+# Rhodomonas baltica Karsten SPECIES
 
 #### Status
 ACCEPTED

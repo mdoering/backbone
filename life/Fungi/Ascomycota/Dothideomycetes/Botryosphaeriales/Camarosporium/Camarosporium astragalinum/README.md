@@ -1,5 +1,4 @@
-Camarosporium astragalinum Sacc. & Trotter SPECIES
-=======
+# Camarosporium astragalinum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

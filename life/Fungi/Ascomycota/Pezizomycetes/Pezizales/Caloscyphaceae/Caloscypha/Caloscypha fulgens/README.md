@@ -1,14 +1,13 @@
-Barlaea fulgens (Pers.) Rehm, 1908 SPECIES
-=======
+# Caloscypha fulgens (Pers.) Boud., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 1: 103 (1885)
 
 #### Original name
 Peziza fulgens Pers., 1822

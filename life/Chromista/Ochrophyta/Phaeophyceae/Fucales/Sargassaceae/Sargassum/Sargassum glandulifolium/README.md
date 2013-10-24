@@ -1,5 +1,4 @@
-Sargassum glandulifolium Grunow, 1900 SPECIES
-=======
+# Sargassum glandulifolium Grunow, 1900 SPECIES
 
 #### Status
 ACCEPTED

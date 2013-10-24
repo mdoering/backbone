@@ -1,5 +1,4 @@
-Cortinarius torvoides Rob. Henry ex Rob. Henry SPECIES
-=======
+# Cortinarius torvoides Rob. Henry ex Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

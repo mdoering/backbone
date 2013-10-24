@@ -1,5 +1,4 @@
-Teichospora cercocarpi (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Teichospora cercocarpi (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

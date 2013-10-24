@@ -1,5 +1,4 @@
-Galerina gamundiae Singer SPECIES
-=======
+# Galerina gamundiae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Andreaea GENUS
-=======
+# Andreaea GENUS
 
 #### Status
 ACCEPTED

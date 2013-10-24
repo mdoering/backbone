@@ -1,5 +1,4 @@
-Entyloma comaclinii M. Piepenbr., 1996 SPECIES
-=======
+# Entyloma comaclinii M. Piepenbr., 1996 SPECIES
 
 #### Status
 ACCEPTED

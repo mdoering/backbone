@@ -1,5 +1,4 @@
-Bacidia rebelliosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rebelliosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

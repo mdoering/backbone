@@ -1,5 +1,4 @@
-Asterolampra Ehrenberg GENUS
-=======
+# Asterolampra Ehrenberg GENUS
 
 #### Status
 ACCEPTED

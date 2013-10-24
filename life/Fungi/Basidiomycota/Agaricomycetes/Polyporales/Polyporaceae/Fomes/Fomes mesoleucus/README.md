@@ -1,5 +1,4 @@
-Fomes mesoleucus Petch SPECIES
-=======
+# Fomes mesoleucus Petch SPECIES
 
 #### Status
 ACCEPTED

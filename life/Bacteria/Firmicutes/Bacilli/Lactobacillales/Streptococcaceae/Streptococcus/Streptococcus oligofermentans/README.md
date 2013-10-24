@@ -1,5 +1,4 @@
-Streptococcus oligofermentans Tong et al., 2003 SPECIES
-=======
+# Streptococcus oligofermentans Tong et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

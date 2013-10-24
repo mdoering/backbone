@@ -1,5 +1,4 @@
-Orbilia juniperi Velen. SPECIES
-=======
+# Orbilia juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

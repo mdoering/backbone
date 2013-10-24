@@ -1,5 +1,4 @@
-Phoma solanophila Oudem. SPECIES
-=======
+# Phoma solanophila Oudem. SPECIES
 
 #### Status
 ACCEPTED

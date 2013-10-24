@@ -1,5 +1,4 @@
-Sporisorium azmatii (Mundk.) Vánky SPECIES
-=======
+# Sporisorium azmatii (Mundk.) Vánky SPECIES
 
 #### Status
 ACCEPTED

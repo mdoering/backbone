@@ -1,5 +1,4 @@
-Torgia A.E. Grigorieva & P.N. Kolosov in T.V. Jankauskas, 1989 GENUS
-=======
+# Torgia A.E. Grigorieva & P.N. Kolosov in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium biseptatum Sacc. SPECIES
-=======
+# Clasterosporium biseptatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

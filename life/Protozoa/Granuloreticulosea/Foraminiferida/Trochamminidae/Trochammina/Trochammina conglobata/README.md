@@ -1,5 +1,4 @@
-Trochammina conglobata SPECIES
-=======
+# Trochammina conglobata SPECIES
 
 #### Status
 ACCEPTED

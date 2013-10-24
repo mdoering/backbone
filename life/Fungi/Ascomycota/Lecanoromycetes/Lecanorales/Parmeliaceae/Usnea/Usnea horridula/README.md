@@ -1,5 +1,4 @@
-Usnea horridula (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea horridula (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

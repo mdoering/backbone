@@ -1,5 +1,4 @@
-Splanchnomyces luteolus Corda SPECIES
-=======
+# Splanchnomyces luteolus Corda SPECIES
 
 #### Status
 ACCEPTED

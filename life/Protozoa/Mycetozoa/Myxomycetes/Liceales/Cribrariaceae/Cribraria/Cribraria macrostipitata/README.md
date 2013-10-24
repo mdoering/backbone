@@ -1,5 +1,4 @@
-Cribraria macrostipitata H. Neubert & Nann.-Bremek., 1977 SPECIES
-=======
+# Cribraria macrostipitata H. Neubert & Nann.-Bremek., 1977 SPECIES
 
 #### Status
 ACCEPTED

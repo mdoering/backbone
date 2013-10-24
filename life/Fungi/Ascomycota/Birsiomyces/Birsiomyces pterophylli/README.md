@@ -1,5 +1,4 @@
-Birsiomyces pterophylli F. Schaarschm. SPECIES
-=======
+# Birsiomyces pterophylli F. Schaarschm. SPECIES
 
 #### Status
 ACCEPTED

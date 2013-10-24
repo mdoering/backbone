@@ -1,14 +1,13 @@
-Ophionectria cylindrothecia Seaver, 1909 SPECIES
-=======
+# Tubeufia cylindrothecia (Seaver) Höhn., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 1(2): 70 (1909)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 562 (1919)
 
 #### Original name
 Ophionectria cylindrothecia Seaver, 1909

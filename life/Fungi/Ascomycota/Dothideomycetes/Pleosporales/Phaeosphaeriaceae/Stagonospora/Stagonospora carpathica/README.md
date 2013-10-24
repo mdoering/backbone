@@ -1,5 +1,4 @@
-Stagonospora carpathica Bäumler SPECIES
-=======
+# Stagonospora carpathica Bäumler SPECIES
 
 #### Status
 ACCEPTED

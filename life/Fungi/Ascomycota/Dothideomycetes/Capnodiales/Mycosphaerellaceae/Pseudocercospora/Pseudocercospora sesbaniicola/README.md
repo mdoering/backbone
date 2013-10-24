@@ -1,5 +1,4 @@
-Pseudocercospora sesbaniicola J.M. Yen SPECIES
-=======
+# Pseudocercospora sesbaniicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilia avenae Peck SPECIES
-=======
+# Monilia avenae Peck SPECIES
 
 #### Status
 ACCEPTED

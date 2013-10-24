@@ -1,5 +1,4 @@
-Manoharachariomyces lignicola N.K. Rao, D.K. Agarwal & Kunwar, 2005 SPECIES
-=======
+# Manoharachariomyces lignicola N.K. Rao, D.K. Agarwal & Kunwar, 2005 SPECIES
 
 #### Status
 ACCEPTED

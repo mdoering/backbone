@@ -1,5 +1,4 @@
-Arthonia indistincta C. Knight & Mitt. SPECIES
-=======
+# Arthonia indistincta C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

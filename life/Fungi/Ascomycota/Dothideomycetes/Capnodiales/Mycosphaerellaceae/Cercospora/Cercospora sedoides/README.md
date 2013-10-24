@@ -1,5 +1,4 @@
-Cercospora sedoides Ellis & Everh. SPECIES
-=======
+# Cercospora sedoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

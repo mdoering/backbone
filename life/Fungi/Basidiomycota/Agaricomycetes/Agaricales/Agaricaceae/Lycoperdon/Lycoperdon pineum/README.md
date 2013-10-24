@@ -1,5 +1,4 @@
-Lycoperdon pineum Batsch SPECIES
-=======
+# Lycoperdon pineum Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia schoeni G. Cunn. SPECIES
-=======
+# Cintractia schoeni G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

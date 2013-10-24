@@ -1,17 +1,16 @@
-Capitularia symphycarpa Flörke SPECIES
-=======
+# Cladonia symphycarpia (Flörke) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pacific Rural Press 8-9: 20 (1826)
 
 #### Original name
-Capitularia symphycarpa Flörke
+Capitularia symphycarpia Flörke
 
 ### Remarks
 null

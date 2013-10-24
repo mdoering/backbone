@@ -1,5 +1,4 @@
-Physarum cancellatum Wallr. SPECIES
-=======
+# Physarum cancellatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

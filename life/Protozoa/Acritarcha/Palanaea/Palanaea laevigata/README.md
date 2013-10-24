@@ -1,5 +1,4 @@
-Palanaea laevigata Sah & Kar, 1974 SPECIES
-=======
+# Palanaea laevigata Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccotrema granulatum (Hook. f. & Taylor) R. Sant. SPECIES
-=======
+# Coccotrema granulatum (Hook. f. & Taylor) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

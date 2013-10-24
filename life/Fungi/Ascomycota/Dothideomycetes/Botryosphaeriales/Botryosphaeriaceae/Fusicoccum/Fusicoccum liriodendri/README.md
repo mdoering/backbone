@@ -1,5 +1,4 @@
-Fusicoccum liriodendri (Cooke) Aa & Vanev SPECIES
-=======
+# Fusicoccum liriodendri (Cooke) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

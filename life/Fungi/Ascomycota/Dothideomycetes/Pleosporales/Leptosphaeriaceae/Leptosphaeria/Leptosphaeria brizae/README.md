@@ -1,5 +1,4 @@
-Leptosphaeria brizae Pass. SPECIES
-=======
+# Leptosphaeria brizae Pass. SPECIES
 
 #### Status
 ACCEPTED

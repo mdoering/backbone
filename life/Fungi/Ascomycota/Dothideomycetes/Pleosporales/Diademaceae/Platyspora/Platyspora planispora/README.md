@@ -1,5 +1,4 @@
-Platyspora planispora (Ellis) Wehm. SPECIES
-=======
+# Platyspora planispora (Ellis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

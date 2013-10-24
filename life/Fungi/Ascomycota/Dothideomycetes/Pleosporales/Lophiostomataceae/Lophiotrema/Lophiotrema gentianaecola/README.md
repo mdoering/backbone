@@ -1,5 +1,4 @@
-Lophiotrema gentianaecola Bubák SPECIES
-=======
+# Lophiotrema gentianaecola Bubák SPECIES
 
 #### Status
 ACCEPTED

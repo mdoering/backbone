@@ -1,5 +1,4 @@
-Metasphaeria funkiae Bres. SPECIES
-=======
+# Metasphaeria funkiae Bres. SPECIES
 
 #### Status
 ACCEPTED

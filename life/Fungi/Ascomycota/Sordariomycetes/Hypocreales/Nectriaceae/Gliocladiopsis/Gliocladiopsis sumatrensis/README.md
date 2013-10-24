@@ -1,5 +1,4 @@
-Gliocladiopsis sumatrensis Crous & M.J. Wingf., 1997 SPECIES
-=======
+# Gliocladiopsis sumatrensis Crous & M.J. Wingf., 1997 SPECIES
 
 #### Status
 ACCEPTED

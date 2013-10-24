@@ -1,5 +1,4 @@
-Pertusaria aberrans Müll. Arg. SPECIES
-=======
+# Pertusaria aberrans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

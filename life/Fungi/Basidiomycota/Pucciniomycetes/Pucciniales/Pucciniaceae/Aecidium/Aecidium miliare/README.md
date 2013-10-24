@@ -1,5 +1,4 @@
-Aecidium miliare var. miliare VARIETY
-=======
+# Aecidium miliare Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 95 (1875)
 
 #### Original name
-Aecidium miliare var. miliare
+Aecidium miliare Berk. & Broome
 
 ### Remarks
 null

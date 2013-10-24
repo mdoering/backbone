@@ -1,5 +1,4 @@
-Pleospora karatavica Tartenova SPECIES
-=======
+# Pleospora karatavica Tartenova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen synallizus Ach. SPECIES
-=======
+# Lichen synallizus Ach. SPECIES
 
 #### Status
 ACCEPTED

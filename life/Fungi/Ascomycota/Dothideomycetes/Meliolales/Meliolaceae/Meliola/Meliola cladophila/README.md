@@ -1,5 +1,4 @@
-Meliola cladophila Syd. SPECIES
-=======
+# Meliola cladophila Syd. SPECIES
 
 #### Status
 ACCEPTED

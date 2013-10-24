@@ -1,5 +1,4 @@
-Gloeosporium aglaonemae Gonz. Frag. & Cif. SPECIES
-=======
+# Gloeosporium aglaonemae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

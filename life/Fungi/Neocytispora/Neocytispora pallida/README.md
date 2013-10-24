@@ -1,5 +1,4 @@
-Neocytispora pallida Ellis & Everh. SPECIES
-=======
+# Neocytispora pallida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

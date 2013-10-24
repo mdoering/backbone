@@ -1,5 +1,4 @@
-Discosia acuta Dearn. SPECIES
-=======
+# Discosia acuta Dearn. SPECIES
 
 #### Status
 ACCEPTED

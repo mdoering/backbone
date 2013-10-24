@@ -1,5 +1,4 @@
-Xanthoparmelia proboscidea (Tav.) SPECIES
-=======
+# Xanthoparmelia proboscidea (Tav.) SPECIES
 
 #### Status
 ACCEPTED

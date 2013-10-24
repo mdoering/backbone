@@ -1,5 +1,4 @@
-Sosnovia M.V. Stepanova, 1972 GENUS
-=======
+# Sosnovia M.V. Stepanova, 1972 GENUS
 
 #### Status
 ACCEPTED

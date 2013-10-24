@@ -1,5 +1,4 @@
-Asterina cristata Speg. SPECIES
-=======
+# Asterina cristata Speg. SPECIES
 
 #### Status
 ACCEPTED

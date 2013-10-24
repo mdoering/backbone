@@ -1,5 +1,4 @@
-Endosporoideus W.H. Ho, Yanna, K.D. Hyde & Goh GENUS
-=======
+# Endosporoideus W.H. Ho, Yanna, K.D. Hyde & Goh GENUS
 
 #### Status
 ACCEPTED

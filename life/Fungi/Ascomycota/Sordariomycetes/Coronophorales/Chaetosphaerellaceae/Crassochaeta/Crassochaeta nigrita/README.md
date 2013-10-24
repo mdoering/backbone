@@ -1,14 +1,13 @@
-Sphaeria nigrita Berk. & Broome, 1875 SPECIES
-=======
+# Crassochaeta nigrita Réblová, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 125 (1875)
+Mycotaxon 71: 48 (1999)
 
 #### Original name
 Sphaeria nigrita Berk. & Broome, 1875

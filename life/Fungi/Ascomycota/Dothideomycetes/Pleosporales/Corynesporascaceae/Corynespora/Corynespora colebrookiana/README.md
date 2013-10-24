@@ -1,5 +1,4 @@
-Corynespora colebrookiana N. Sharma, R.K. Chaudhary & Kamal SPECIES
-=======
+# Corynespora colebrookiana N. Sharma, R.K. Chaudhary & Kamal SPECIES
 
 #### Status
 ACCEPTED

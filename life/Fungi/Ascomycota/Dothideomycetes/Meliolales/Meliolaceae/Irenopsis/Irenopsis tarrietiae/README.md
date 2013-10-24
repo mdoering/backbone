@@ -1,5 +1,4 @@
-Irenopsis tarrietiae Hansf. & Deighton SPECIES
-=======
+# Irenopsis tarrietiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

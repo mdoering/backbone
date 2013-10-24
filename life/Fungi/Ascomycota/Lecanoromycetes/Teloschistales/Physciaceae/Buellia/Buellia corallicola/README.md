@@ -1,5 +1,4 @@
-Buellia corallicola H. Magn. SPECIES
-=======
+# Buellia corallicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

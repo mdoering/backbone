@@ -1,5 +1,4 @@
-Sphaeronaema pirottae Ferraris SPECIES
-=======
+# Sphaeronaema pirottae Ferraris SPECIES
 
 #### Status
 ACCEPTED

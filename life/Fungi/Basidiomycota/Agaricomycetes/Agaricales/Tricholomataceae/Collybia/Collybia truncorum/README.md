@@ -1,5 +1,4 @@
-Collybia truncorum Velen. SPECIES
-=======
+# Collybia truncorum Velen. SPECIES
 
 #### Status
 ACCEPTED

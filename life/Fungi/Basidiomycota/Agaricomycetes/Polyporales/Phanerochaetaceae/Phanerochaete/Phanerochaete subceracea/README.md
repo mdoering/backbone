@@ -1,14 +1,13 @@
-Corticium subceraceum Burt, 1926 SPECIES
-=======
+# Phanerochaete subceracea (Burt) Burds., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 13(3): 239 (1926)
+Mycol. Mem. 10: 128 (1985)
 
 #### Original name
 Corticium subceraceum Burt, 1926

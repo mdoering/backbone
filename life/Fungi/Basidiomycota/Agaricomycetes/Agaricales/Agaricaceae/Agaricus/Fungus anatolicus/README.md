@@ -1,5 +1,4 @@
-Fungus anatolicus (Lév.) Kuntze SPECIES
-=======
+# Fungus anatolicus (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

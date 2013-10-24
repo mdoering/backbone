@@ -1,5 +1,4 @@
-Clavulina difformis SPECIES
-=======
+# Clavulina difformis SPECIES
 
 #### Status
 ACCEPTED

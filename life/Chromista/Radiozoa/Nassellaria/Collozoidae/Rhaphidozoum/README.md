@@ -1,5 +1,4 @@
-Rhaphidozoum Haeckel, 1882 GENUS
-=======
+# Rhaphidozoum Haeckel, 1882 GENUS
 
 #### Status
 ACCEPTED

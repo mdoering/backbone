@@ -1,5 +1,4 @@
-Catellatospora Asano & Kawamoto, 1986 GENUS
-=======
+# Catellatospora Asano & Kawamoto, 1986 GENUS
 
 #### Status
 ACCEPTED

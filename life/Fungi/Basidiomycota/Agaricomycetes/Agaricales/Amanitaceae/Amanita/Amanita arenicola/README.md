@@ -1,5 +1,4 @@
-Amanita arenicola O.K. Mill. & Lodge SPECIES
-=======
+# Amanita arenicola O.K. Mill. & Lodge SPECIES
 
 #### Status
 ACCEPTED

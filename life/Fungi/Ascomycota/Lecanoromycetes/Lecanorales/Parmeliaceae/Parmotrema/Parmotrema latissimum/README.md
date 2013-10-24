@@ -1,17 +1,16 @@
-Parmelia latissima var. latissima VARIETY
-=======
+# Parmotrema latissimum (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Crypt. Exot. (Paris), Suppl. 119 (1837)
+Phytologia 28: 337 (1974)
 
 #### Original name
-Parmelia latissima var. latissima
+Parmelia latissima Fée
 
 ### Remarks
 null

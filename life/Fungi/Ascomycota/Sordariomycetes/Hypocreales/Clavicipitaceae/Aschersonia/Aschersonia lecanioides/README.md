@@ -1,5 +1,4 @@
-Aschersonia lecanioides Henn. SPECIES
-=======
+# Aschersonia lecanioides Henn. SPECIES
 
 #### Status
 ACCEPTED

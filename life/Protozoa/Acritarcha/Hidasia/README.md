@@ -1,5 +1,4 @@
-Hidasia Nagy GENUS
-=======
+# Hidasia Nagy GENUS
 
 #### Status
 ACCEPTED

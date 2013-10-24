@@ -1,5 +1,4 @@
-Lecanora trivialis A. Nordin, Sundin, G. Thor & Tønsberg SPECIES
-=======
+# Lecanora trivialis A. Nordin, Sundin, G. Thor & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

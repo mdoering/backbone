@@ -1,5 +1,4 @@
-Libertella gleditschiae G. Winter SPECIES
-=======
+# Libertella gleditschiae G. Winter SPECIES
 
 #### Status
 ACCEPTED

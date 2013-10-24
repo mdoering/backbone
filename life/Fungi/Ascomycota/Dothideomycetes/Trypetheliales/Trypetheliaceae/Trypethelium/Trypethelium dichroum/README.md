@@ -1,5 +1,4 @@
-Trypethelium dichroum Makhija & Patw. SPECIES
-=======
+# Trypethelium dichroum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia perfilata Hook. f. SPECIES
-=======
+# Cladonia perfilata Hook. f. SPECIES
 
 #### Status
 ACCEPTED

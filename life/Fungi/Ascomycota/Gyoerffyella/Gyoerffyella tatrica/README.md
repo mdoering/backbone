@@ -1,5 +1,4 @@
-Gyoerffyella tatrica Kol, 1928 SPECIES
-=======
+# Gyoerffyella tatrica Kol, 1928 SPECIES
 
 #### Status
 ACCEPTED

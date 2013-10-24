@@ -1,5 +1,4 @@
-Sterigmatocystis polychroma Ferraris SPECIES
-=======
+# Sterigmatocystis polychroma Ferraris SPECIES
 
 #### Status
 ACCEPTED

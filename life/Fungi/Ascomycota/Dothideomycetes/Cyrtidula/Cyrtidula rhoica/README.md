@@ -1,5 +1,4 @@
-Cyrtidula rhoica Minks ex Willey SPECIES
-=======
+# Cyrtidula rhoica Minks ex Willey SPECIES
 
 #### Status
 ACCEPTED

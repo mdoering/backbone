@@ -1,5 +1,4 @@
-Caloplaca gilva var. gilva VARIETY
-=======
+# Caloplaca gilva (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 87 (1930)
 
 #### Original name
 Placodium gilvum Vain.

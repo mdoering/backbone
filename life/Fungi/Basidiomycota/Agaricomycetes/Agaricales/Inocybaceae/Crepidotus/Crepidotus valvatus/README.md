@@ -1,5 +1,4 @@
-Crepidotus valvatus Velen. SPECIES
-=======
+# Crepidotus valvatus Velen. SPECIES
 
 #### Status
 ACCEPTED

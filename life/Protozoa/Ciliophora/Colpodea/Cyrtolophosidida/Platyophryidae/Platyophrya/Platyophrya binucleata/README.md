@@ -1,5 +1,4 @@
-Platyophrya binucleata Foissner, 1987 SPECIES
-=======
+# Platyophrya binucleata Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

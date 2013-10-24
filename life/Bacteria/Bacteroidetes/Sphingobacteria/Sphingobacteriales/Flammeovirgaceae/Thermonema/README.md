@@ -1,5 +1,4 @@
-Thermonema Hudson, Schofield, Morgan & Daniel, 1989 GENUS
-=======
+# Thermonema Hudson, Schofield, Morgan & Daniel, 1989 GENUS
 
 #### Status
 ACCEPTED

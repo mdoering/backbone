@@ -1,5 +1,4 @@
-Septoria caruaniana Sacc. SPECIES
-=======
+# Septoria caruaniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

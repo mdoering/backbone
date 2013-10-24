@@ -1,5 +1,4 @@
-Podosporium effusum Pat. SPECIES
-=======
+# Podosporium effusum Pat. SPECIES
 
 #### Status
 ACCEPTED

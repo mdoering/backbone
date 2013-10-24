@@ -1,5 +1,4 @@
-Phragmidium hashiokai Hirats. f. SPECIES
-=======
+# Phragmidium hashiokai Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

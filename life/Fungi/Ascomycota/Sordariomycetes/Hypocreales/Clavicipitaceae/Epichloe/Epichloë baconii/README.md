@@ -1,5 +1,4 @@
-Epichloë baconii J.F. White, 1993 SPECIES
-=======
+# Epichloë baconii J.F. White, 1993 SPECIES
 
 #### Status
 ACCEPTED

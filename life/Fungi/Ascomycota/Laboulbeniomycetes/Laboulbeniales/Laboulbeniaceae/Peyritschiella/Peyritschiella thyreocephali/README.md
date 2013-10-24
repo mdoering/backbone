@@ -1,5 +1,4 @@
-Peyritschiella thyreocephali (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella thyreocephali (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

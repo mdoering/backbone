@@ -1,5 +1,4 @@
-Acetabula barlae Boud. SPECIES
-=======
+# Acetabula barlae Boud. SPECIES
 
 #### Status
 ACCEPTED

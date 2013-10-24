@@ -1,5 +1,4 @@
-Nodulisporium sylviforme Deighton SPECIES
-=======
+# Nodulisporium sylviforme Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochaeta sius SPECIES
-=======
+# Spirochaeta sius SPECIES
 
 #### Status
 ACCEPTED

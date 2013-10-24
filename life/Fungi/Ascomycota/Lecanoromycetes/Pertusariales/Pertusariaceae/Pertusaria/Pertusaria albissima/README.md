@@ -1,5 +1,4 @@
-Pertusaria albissima Müll. Arg. SPECIES
-=======
+# Pertusaria albissima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

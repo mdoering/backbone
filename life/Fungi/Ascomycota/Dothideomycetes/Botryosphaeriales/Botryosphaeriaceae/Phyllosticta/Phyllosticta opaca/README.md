@@ -1,5 +1,4 @@
-Phyllosticta opaca Ellis & Everh. SPECIES
-=======
+# Phyllosticta opaca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subcurva Zenker SPECIES
-=======
+# Graphis subcurva Zenker SPECIES
 
 #### Status
 ACCEPTED

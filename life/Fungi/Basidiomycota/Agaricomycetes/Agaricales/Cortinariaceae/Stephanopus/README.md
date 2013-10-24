@@ -1,5 +1,4 @@
-Stephanopus M.M. Moser & E. Horak, 1975 GENUS
-=======
+# Stephanopus M.M. Moser & E. Horak, 1975 GENUS
 
 #### Status
 ACCEPTED

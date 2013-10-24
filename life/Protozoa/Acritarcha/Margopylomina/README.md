@@ -1,5 +1,4 @@
-Margopylomina S.N. Naumova, 1968 GENUS
-=======
+# Margopylomina S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

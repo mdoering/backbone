@@ -1,5 +1,4 @@
-Nectria egens Corner SPECIES
-=======
+# Nectria egens Corner SPECIES
 
 #### Status
 ACCEPTED

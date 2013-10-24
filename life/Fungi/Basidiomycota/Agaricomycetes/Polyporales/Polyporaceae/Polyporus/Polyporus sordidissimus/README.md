@@ -1,5 +1,4 @@
-Polyporus sordidissimus Speg. SPECIES
-=======
+# Polyporus sordidissimus Speg. SPECIES
 
 #### Status
 ACCEPTED

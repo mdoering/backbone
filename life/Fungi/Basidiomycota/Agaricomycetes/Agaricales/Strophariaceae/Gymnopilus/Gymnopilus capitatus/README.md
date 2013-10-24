@@ -1,5 +1,4 @@
-Gymnopilus capitatus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus capitatus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

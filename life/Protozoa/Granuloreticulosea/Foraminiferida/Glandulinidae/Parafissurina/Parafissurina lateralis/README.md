@@ -1,5 +1,4 @@
-Parafissurina lateralis (Cushman, 1913) SPECIES
-=======
+# Parafissurina lateralis (Cushman, 1913) SPECIES
 
 #### Status
 ACCEPTED

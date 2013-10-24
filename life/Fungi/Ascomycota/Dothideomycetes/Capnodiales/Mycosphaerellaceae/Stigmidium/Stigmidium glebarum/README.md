@@ -1,5 +1,4 @@
-Stigmidium glebarum (Arnold) Hafellner SPECIES
-=======
+# Stigmidium glebarum (Arnold) Hafellner SPECIES
 
 #### Status
 ACCEPTED

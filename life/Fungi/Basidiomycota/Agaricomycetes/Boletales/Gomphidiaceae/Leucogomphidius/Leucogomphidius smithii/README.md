@@ -1,5 +1,4 @@
-Leucogomphidius smithii (Singer) Kotl. & Pouzar SPECIES
-=======
+# Leucogomphidius smithii (Singer) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

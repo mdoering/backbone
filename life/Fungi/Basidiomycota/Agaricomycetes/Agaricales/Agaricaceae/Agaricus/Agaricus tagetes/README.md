@@ -1,5 +1,4 @@
-Agaricus tagetes Mont. & Berk. SPECIES
-=======
+# Agaricus tagetes Mont. & Berk. SPECIES
 
 #### Status
 ACCEPTED

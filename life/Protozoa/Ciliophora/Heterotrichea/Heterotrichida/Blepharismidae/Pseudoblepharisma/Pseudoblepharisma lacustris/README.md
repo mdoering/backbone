@@ -1,5 +1,4 @@
-Pseudoblepharisma lacustris Lepsi, 1957 SPECIES
-=======
+# Pseudoblepharisma lacustris Lepsi, 1957 SPECIES
 
 #### Status
 ACCEPTED

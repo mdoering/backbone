@@ -1,5 +1,4 @@
-Pyrenotea biformis A. Massal. SPECIES
-=======
+# Pyrenotea biformis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

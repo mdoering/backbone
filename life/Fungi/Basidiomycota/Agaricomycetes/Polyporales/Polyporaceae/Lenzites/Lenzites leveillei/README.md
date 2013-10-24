@@ -1,5 +1,4 @@
-Lenzites leveillei Pat. SPECIES
-=======
+# Lenzites leveillei Pat. SPECIES
 
 #### Status
 ACCEPTED

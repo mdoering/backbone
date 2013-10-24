@@ -1,5 +1,4 @@
-Ostropella verrucosa (Syd.) E. Müll. SPECIES
-=======
+# Ostropella verrucosa (Syd.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neophoma stipitata Golovin SPECIES
-=======
+# Neophoma stipitata Golovin SPECIES
 
 #### Status
 ACCEPTED

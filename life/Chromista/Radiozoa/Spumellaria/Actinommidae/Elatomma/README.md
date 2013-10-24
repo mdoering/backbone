@@ -1,5 +1,4 @@
-Elatomma Haeckel, 1887 GENUS
-=======
+# Elatomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

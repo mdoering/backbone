@@ -1,17 +1,16 @@
-Diaporthe zizyphina Speg. SPECIES
-=======
+# Diaporthe ziziphina Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 19(12): 366 (1909)
 
 #### Original name
-Diaporthe zizyphina Speg.
+Diaporthe ziziphina Speg.
 
 ### Remarks
 null

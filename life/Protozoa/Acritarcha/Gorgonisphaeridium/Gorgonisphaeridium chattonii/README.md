@@ -1,5 +1,4 @@
-Gorgonisphaeridium chattonii (Stockmans & Willière, 1962) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Gorgonisphaeridium chattonii (Stockmans & Willière, 1962) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

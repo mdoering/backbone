@@ -1,5 +1,4 @@
-Aphanomyces daphniae Prowse SPECIES
-=======
+# Aphanomyces daphniae Prowse SPECIES
 
 #### Status
 ACCEPTED

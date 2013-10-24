@@ -1,5 +1,4 @@
-Clavaria citrinescens Velen. SPECIES
-=======
+# Clavaria citrinescens Velen. SPECIES
 
 #### Status
 ACCEPTED

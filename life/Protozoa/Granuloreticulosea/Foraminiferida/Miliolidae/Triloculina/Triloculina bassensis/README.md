@@ -1,5 +1,4 @@
-Triloculina bassensis Parr, 1945 SPECIES
-=======
+# Triloculina bassensis Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

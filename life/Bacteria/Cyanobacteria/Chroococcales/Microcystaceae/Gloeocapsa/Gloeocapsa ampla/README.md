@@ -1,5 +1,4 @@
-Gloeocapsa ampla Kützing SPECIES
-=======
+# Gloeocapsa ampla Kützing SPECIES
 
 #### Status
 ACCEPTED

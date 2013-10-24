@@ -1,5 +1,4 @@
-Urocystis permagna Roiv. SPECIES
-=======
+# Urocystis permagna Roiv. SPECIES
 
 #### Status
 ACCEPTED

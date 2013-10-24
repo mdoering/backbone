@@ -1,5 +1,4 @@
-Diplodina lepidii Hollós SPECIES
-=======
+# Diplodina lepidii Hollós SPECIES
 
 #### Status
 ACCEPTED

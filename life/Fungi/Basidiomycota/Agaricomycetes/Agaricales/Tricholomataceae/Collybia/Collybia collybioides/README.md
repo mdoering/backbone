@@ -1,5 +1,4 @@
-Collybia collybioides (Speg.) Singer SPECIES
-=======
+# Collybia collybioides (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

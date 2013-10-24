@@ -1,5 +1,4 @@
-Trichoderma thailandicum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma thailandicum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

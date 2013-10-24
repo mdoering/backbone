@@ -1,5 +1,4 @@
-Pezicula resinae (Fr.) Fuckel SPECIES
-=======
+# Pezicula resinae (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

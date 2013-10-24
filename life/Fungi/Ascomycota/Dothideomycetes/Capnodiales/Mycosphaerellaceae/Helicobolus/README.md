@@ -1,5 +1,4 @@
-Helicobolus GENUS
-=======
+# Helicobolus GENUS
 
 #### Status
 ACCEPTED

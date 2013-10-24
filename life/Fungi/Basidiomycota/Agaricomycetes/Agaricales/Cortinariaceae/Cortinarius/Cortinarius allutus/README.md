@@ -1,5 +1,4 @@
-Cortinarius allutus f. allutus FORM
-=======
+# Cortinarius allutus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 263 (1838)
 
 #### Original name
-Cortinarius allutus f. allutus
+Cortinarius allutus Fr.
 
 ### Remarks
 null

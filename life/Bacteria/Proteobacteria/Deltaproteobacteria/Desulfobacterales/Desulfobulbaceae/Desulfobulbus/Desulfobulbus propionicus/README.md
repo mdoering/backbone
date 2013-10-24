@@ -1,5 +1,4 @@
-Desulfobulbus propionicus Widdel, 1981 SPECIES
-=======
+# Desulfobulbus propionicus Widdel, 1981 SPECIES
 
 #### Status
 ACCEPTED

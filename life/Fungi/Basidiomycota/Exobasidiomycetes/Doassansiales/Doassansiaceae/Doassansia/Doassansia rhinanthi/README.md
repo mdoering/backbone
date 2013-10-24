@@ -1,5 +1,4 @@
-Doassansia rhinanthi Lagerh. ex Zundel SPECIES
-=======
+# Doassansia rhinanthi Lagerh. ex Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus cedricola (K.S. Thind & Saini) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Hymenoscyphus cedricola (K.S. Thind & Saini) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Difflugia algaephila Decloitre, 1977 SPECIES
-=======
+# Difflugia algaephila Decloitre, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Calycellina pseudopuberula (Graddon) Baral, 1993 SPECIES
-=======
+# Phialina pseudopuberula (Graddon) Raitv., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Mykol. 59(1): 4 (1993)
+Folia cryptog. Estonica 9: 1 (1977)
 
 #### Original name
 Hyaloscypha pseudopuberula Graddon, 1972

@@ -1,5 +1,4 @@
-Mycena pusillispora Corner SPECIES
-=======
+# Mycena pusillispora Corner SPECIES
 
 #### Status
 ACCEPTED

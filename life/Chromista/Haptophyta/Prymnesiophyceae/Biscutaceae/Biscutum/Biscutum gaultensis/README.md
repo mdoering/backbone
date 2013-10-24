@@ -1,5 +1,4 @@
-Biscutum gaultensis SPECIES
-=======
+# Biscutum gaultensis SPECIES
 
 #### Status
 ACCEPTED

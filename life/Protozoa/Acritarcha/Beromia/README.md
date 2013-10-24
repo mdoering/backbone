@@ -1,5 +1,4 @@
-Beromia Vavrdová, 1986 GENUS
-=======
+# Beromia Vavrdová, 1986 GENUS
 
 #### Status
 ACCEPTED

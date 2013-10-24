@@ -1,5 +1,4 @@
-Fusisporium pyrinum Fr. SPECIES
-=======
+# Fusisporium pyrinum Fr. SPECIES
 
 #### Status
 ACCEPTED

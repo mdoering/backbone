@@ -1,5 +1,4 @@
-Psathyrella obscurotristis Enderle & M. Wilh. SPECIES
-=======
+# Psathyrella obscurotristis Enderle & M. Wilh. SPECIES
 
 #### Status
 ACCEPTED

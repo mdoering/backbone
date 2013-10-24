@@ -1,5 +1,4 @@
-Tylopilus brunneirubens (Corner) Watling & E. Turnbull SPECIES
-=======
+# Tylopilus brunneirubens (Corner) Watling & E. Turnbull SPECIES
 
 #### Status
 ACCEPTED

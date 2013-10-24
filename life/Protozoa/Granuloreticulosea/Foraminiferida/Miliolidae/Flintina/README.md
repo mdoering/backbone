@@ -1,5 +1,4 @@
-Flintina Cushman, 1921 GENUS
-=======
+# Flintina Cushman, 1921 GENUS
 
 #### Status
 ACCEPTED

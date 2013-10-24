@@ -1,5 +1,4 @@
-Naevia parallela Vain. SPECIES
-=======
+# Naevia parallela Vain. SPECIES
 
 #### Status
 ACCEPTED

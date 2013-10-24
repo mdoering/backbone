@@ -1,8 +1,7 @@
-Metopus spiralis Smith, 1897 SPECIES
-=======
+# Brachonella spiralis (Smith, 1897) Jankowski, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

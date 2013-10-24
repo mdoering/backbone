@@ -1,5 +1,4 @@
-Exserticlava triseptata (Matsush.) S. Hughes SPECIES
-=======
+# Exserticlava triseptata (Matsush.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

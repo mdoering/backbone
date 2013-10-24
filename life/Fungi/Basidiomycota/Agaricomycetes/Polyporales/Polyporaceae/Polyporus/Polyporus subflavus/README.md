@@ -1,5 +1,4 @@
-Polyporus subflavus Lév. SPECIES
-=======
+# Polyporus subflavus Lév. SPECIES
 
 #### Status
 ACCEPTED

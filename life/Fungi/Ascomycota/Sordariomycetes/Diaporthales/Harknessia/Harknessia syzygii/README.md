@@ -1,5 +1,4 @@
-Harknessia syzygii Crous, M.J. Wingf. & Nag Raj SPECIES
-=======
+# Harknessia syzygii Crous, M.J. Wingf. & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

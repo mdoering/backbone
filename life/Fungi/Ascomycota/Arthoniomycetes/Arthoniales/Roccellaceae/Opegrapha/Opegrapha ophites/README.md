@@ -1,5 +1,4 @@
-Opegrapha ophites Tuck. SPECIES
-=======
+# Opegrapha ophites Tuck. SPECIES
 
 #### Status
 ACCEPTED

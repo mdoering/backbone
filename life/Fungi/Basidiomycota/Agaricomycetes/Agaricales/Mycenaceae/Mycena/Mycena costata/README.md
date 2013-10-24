@@ -1,5 +1,4 @@
-Mycena costata Velen. SPECIES
-=======
+# Mycena costata Velen. SPECIES
 
 #### Status
 ACCEPTED

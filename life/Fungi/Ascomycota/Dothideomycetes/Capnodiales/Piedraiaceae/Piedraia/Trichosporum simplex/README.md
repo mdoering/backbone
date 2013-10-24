@@ -1,5 +1,4 @@
-Trichosporum simplex Sacc. SPECIES
-=======
+# Trichosporum simplex Sacc. SPECIES
 
 #### Status
 ACCEPTED

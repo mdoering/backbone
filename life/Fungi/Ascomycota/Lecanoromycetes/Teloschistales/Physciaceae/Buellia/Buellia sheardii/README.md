@@ -1,5 +1,4 @@
-Buellia sheardii Bungartz SPECIES
-=======
+# Buellia sheardii Bungartz SPECIES
 
 #### Status
 ACCEPTED

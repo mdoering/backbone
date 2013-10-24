@@ -1,5 +1,4 @@
-Rhabdostyla dubia Foissner, 1979 SPECIES
-=======
+# Rhabdostyla dubia Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

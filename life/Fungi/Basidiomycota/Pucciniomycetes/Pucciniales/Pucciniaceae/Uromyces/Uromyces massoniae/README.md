@@ -1,5 +1,4 @@
-Uromyces massoniae Doidge SPECIES
-=======
+# Uromyces massoniae Doidge SPECIES
 
 #### Status
 ACCEPTED

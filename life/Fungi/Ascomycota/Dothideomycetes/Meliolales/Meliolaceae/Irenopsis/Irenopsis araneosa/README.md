@@ -1,5 +1,4 @@
-Irenopsis araneosa (Syd.) F. Stevens SPECIES
-=======
+# Irenopsis araneosa (Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

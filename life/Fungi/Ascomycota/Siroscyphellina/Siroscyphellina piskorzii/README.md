@@ -1,5 +1,4 @@
-Siroscyphellina piskorzii Petr. SPECIES
-=======
+# Siroscyphellina piskorzii Petr. SPECIES
 
 #### Status
 ACCEPTED

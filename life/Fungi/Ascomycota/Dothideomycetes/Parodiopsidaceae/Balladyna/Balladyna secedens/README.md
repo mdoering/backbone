@@ -1,5 +1,4 @@
-Balladyna secedens (Sacc.) Bat. & Nascim. SPECIES
-=======
+# Balladyna secedens (Sacc.) Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

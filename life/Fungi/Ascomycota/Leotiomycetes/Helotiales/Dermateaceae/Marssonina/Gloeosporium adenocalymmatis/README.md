@@ -1,17 +1,16 @@
-Gloeosporium adenocalymmae Kamal & R.P. Singh SPECIES
-=======
+# Gloeosporium adenocalymmatis Kamal & R.P. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 33(4): 595 (1981)
 
 #### Original name
-Gloeosporium adenocalymmae Kamal & R.P. Singh
+Gloeosporium adenocalymmatis Kamal & R.P. Singh
 
 ### Remarks
 null

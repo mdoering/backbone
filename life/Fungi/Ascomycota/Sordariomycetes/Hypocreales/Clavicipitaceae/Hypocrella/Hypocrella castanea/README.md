@@ -1,5 +1,4 @@
-Hypocrella castanea Petch SPECIES
-=======
+# Hypocrella castanea Petch SPECIES
 
 #### Status
 ACCEPTED

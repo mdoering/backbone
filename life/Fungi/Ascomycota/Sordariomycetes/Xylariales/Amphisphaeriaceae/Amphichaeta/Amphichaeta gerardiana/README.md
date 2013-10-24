@@ -1,5 +1,4 @@
-Amphichaeta gerardiana S. Ahmad SPECIES
-=======
+# Amphichaeta gerardiana S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena alba (Bres.) Kühner SPECIES
-=======
+# Mycena alba (Bres.) Kühner SPECIES
 
 #### Status
 ACCEPTED

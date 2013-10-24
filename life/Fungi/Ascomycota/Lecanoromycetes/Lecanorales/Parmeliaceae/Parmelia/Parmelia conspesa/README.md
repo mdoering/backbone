@@ -1,5 +1,4 @@
-Parmelia conspesa f. irreagens Trass FORM
-=======
+# Parmelia conspesa anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia conspesa f. irreagens Trass
+Parmelia conspesa anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea pycnotheliza Nyl. SPECIES
-=======
+# Lecidea pycnotheliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

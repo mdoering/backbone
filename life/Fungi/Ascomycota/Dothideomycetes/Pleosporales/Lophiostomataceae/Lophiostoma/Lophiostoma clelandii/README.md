@@ -1,5 +1,4 @@
-Lophiostoma clelandii Hansf. SPECIES
-=======
+# Lophiostoma clelandii Hansf. SPECIES
 
 #### Status
 ACCEPTED

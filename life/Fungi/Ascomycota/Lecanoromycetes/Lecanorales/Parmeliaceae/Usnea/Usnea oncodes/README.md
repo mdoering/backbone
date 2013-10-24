@@ -1,5 +1,4 @@
-Usnea oncodes Stirt. SPECIES
-=======
+# Usnea oncodes Stirt. SPECIES
 
 #### Status
 ACCEPTED

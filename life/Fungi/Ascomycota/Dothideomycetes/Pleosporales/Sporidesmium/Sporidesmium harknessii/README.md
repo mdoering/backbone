@@ -1,5 +1,4 @@
-Sporidesmium harknessii (Sacc.) M.B. Ellis SPECIES
-=======
+# Sporidesmium harknessii (Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

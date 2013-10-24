@@ -1,5 +1,4 @@
-Ascochyta spartinae Trel. SPECIES
-=======
+# Ascochyta spartinae Trel. SPECIES
 
 #### Status
 ACCEPTED

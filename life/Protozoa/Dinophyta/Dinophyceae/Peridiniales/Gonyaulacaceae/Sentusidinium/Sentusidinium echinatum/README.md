@@ -1,5 +1,4 @@
-Sentusidinium echinatum (G.U. Gitmez & W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Sentusidinium echinatum (G.U. Gitmez & W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

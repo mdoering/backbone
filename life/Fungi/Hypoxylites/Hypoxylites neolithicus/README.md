@@ -1,5 +1,4 @@
-Hypoxylites neolithicus Kirschst. SPECIES
-=======
+# Hypoxylites neolithicus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton tentaculatum Vain. SPECIES
-=======
+# Chiodecton tentaculatum Vain. SPECIES
 
 #### Status
 ACCEPTED

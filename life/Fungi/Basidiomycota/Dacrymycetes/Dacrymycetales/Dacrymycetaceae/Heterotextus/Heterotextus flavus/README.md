@@ -1,5 +1,4 @@
-Heterotextus flavus Lloyd SPECIES
-=======
+# Heterotextus flavus Lloyd SPECIES
 
 #### Status
 ACCEPTED

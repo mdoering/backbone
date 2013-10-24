@@ -1,5 +1,4 @@
-Seynesia epidendri Rehm SPECIES
-=======
+# Seynesia epidendri Rehm SPECIES
 
 #### Status
 ACCEPTED

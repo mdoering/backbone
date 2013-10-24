@@ -1,5 +1,4 @@
-Chlamydomyzium anomalum (G.L. Barron) M.W. Dick, 1997 SPECIES
-=======
+# Chlamydomyzium anomalum (G.L. Barron) M.W. Dick, 1997 SPECIES
 
 #### Status
 ACCEPTED

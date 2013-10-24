@@ -1,5 +1,4 @@
-Urocystis trillii H.S. Jacks. SPECIES
-=======
+# Urocystis trillii H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

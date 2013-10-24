@@ -1,5 +1,4 @@
-Russula albidoflava T. Lebel SPECIES
-=======
+# Russula albidoflava T. Lebel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora nemorosa E.M. Hansen & Reeser SPECIES
-=======
+# Phytophthora nemorosa E.M. Hansen & Reeser SPECIES
 
 #### Status
 ACCEPTED

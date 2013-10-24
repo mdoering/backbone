@@ -1,5 +1,4 @@
-Bacillus fordii Scheldeman et al., 2004 SPECIES
-=======
+# Bacillus fordii Scheldeman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

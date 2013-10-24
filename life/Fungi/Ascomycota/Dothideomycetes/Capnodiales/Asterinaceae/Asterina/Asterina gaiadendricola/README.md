@@ -1,5 +1,4 @@
-Asterina gaiadendricola T.A. Hofm., 2008 SPECIES
-=======
+# Asterina gaiadendricola T.A. Hofm., 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula subtilissima (Fée) Müll. Arg. SPECIES
-=======
+# Strigula subtilissima (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

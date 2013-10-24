@@ -1,5 +1,4 @@
-Droogerinella Popescu & Brotea, 1995 GENUS
-=======
+# Droogerinella Popescu & Brotea, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Geaster pluriosteus Long & Stouffer SPECIES
-=======
+# Geastrum pluriosteus Long & Stouffer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 40: 553 (1948)
 
 #### Original name
-Geaster pluriosteus Long & Stouffer
+Geastrum pluriosteus Long & Stouffer
 
 ### Remarks
 null

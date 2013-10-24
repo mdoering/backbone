@@ -1,14 +1,13 @@
-Lepiota nictophila (Ellis) Sacc. SPECIES
-=======
+# Lepiota noctiphila (Ellis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 50 (1887)
 
 #### Original name
 Agaricus noctiphilus Ellis

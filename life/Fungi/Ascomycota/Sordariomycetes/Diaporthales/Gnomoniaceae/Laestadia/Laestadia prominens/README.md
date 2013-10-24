@@ -1,5 +1,4 @@
-Laestadia prominens (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Laestadia prominens (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

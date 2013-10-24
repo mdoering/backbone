@@ -1,5 +1,4 @@
-Chaetoceros diversum Cleve SPECIES
-=======
+# Chaetoceros diversum Cleve SPECIES
 
 #### Status
 ACCEPTED

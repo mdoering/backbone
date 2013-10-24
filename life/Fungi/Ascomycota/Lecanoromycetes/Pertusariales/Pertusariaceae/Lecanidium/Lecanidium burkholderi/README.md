@@ -1,5 +1,4 @@
-Lecanidium burkholderi C.W. Dodge SPECIES
-=======
+# Lecanidium burkholderi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

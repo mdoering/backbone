@@ -1,5 +1,4 @@
-Calosphaeria arctica Y. Otani SPECIES
-=======
+# Calosphaeria arctica Y. Otani SPECIES
 
 #### Status
 ACCEPTED

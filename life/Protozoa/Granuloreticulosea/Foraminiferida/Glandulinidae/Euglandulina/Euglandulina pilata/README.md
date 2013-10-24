@@ -1,5 +1,4 @@
-Euglandulina pilata McCulloch, 1977 SPECIES
-=======
+# Euglandulina pilata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphelophaga rubiginosa Npv SPECIES
-=======
+# Amphelophaga rubiginosa Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohalonectria adversaria Shearer, 1989 SPECIES
-=======
+# Pseudohalonectria adversaria Shearer, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora diospyricola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora diospyricola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

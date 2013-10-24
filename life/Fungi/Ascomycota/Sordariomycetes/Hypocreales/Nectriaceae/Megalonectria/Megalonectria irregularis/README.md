@@ -1,5 +1,4 @@
-Megalonectria irregularis Viégas SPECIES
-=======
+# Megalonectria irregularis Viégas SPECIES
 
 #### Status
 ACCEPTED

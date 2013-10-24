@@ -1,5 +1,4 @@
-Patellaria socotrana Müll. Arg. SPECIES
-=======
+# Patellaria socotrana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

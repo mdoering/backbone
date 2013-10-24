@@ -1,5 +1,4 @@
-Elphidium clavatum Cushman SPECIES
-=======
+# Elphidium clavatum Cushman SPECIES
 
 #### Status
 ACCEPTED

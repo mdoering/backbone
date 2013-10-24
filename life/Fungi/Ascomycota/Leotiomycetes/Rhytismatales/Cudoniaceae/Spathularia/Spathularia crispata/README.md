@@ -1,5 +1,4 @@
-Spathularia crispata f. spathulata Fuckel FORM
-=======
+# Spathularia crispata Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Spathularia crispata f. spathulata Fuckel
+Spathularia crispata Fuckel
 
 ### Remarks
 null

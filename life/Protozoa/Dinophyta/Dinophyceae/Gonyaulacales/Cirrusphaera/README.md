@@ -1,5 +1,4 @@
-Cirrusphaera Monteil, 1992 GENUS
-=======
+# Cirrusphaera Monteil, 1992 GENUS
 
 #### Status
 ACCEPTED

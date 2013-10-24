@@ -1,5 +1,4 @@
-Bioporthe lafoensiae Bat. & J.L. Bezerra SPECIES
-=======
+# Bioporthe lafoensiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

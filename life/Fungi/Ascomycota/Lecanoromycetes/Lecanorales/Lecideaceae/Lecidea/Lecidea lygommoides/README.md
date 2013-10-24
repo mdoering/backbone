@@ -1,5 +1,4 @@
-Lecidea lygommoides Rambold SPECIES
-=======
+# Lecidea lygommoides Rambold SPECIES
 
 #### Status
 ACCEPTED

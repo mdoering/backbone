@@ -1,5 +1,4 @@
-Tubaria muscorum (Hoffm.) Fr. SPECIES
-=======
+# Tubaria muscorum (Hoffm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

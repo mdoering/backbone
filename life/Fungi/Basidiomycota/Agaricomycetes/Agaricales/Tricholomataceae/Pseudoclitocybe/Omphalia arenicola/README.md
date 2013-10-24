@@ -1,5 +1,4 @@
-Omphalia arenicola (Fr.) P. Karst. SPECIES
-=======
+# Omphalia arenicola (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

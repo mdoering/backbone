@@ -1,14 +1,13 @@
-Uredo scariosa (Berk.) G. Cunn., 1927 SPECIES
-=======
+# Uromyces scariosa Berk., 1855 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. nov. -zel. 195 (1855)
 
 #### Original name
 Uromyces scariosa Berk., 1855

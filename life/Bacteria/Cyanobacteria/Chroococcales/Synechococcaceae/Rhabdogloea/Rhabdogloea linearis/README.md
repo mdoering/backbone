@@ -1,8 +1,7 @@
-Dactylococcopsis linearis L. Geitler SPECIES
-=======
+# Rhabdogloea linearis (L. Geitler) J. Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

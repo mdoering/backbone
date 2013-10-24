@@ -1,8 +1,7 @@
-Tryblidium abietis Richon SPECIES
-=======
+# Triblidium abietis Richon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium abietis Richon
+Triblidium abietis Richon
 
 ### Remarks
 null

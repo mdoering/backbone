@@ -1,5 +1,4 @@
-Tremotyliomyces occulti Cif. & Tomas. SPECIES
-=======
+# Tremotyliomyces occulti Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

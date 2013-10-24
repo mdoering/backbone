@@ -1,5 +1,4 @@
-Asterina difformis Welw. & Curr. SPECIES
-=======
+# Asterina difformis Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

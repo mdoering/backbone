@@ -1,17 +1,16 @@
-Puccinia opoponacis Ces. SPECIES
-=======
+# Puccinia opopanacis Ces. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Club. Alp. ital. 150 (1873)
 
 #### Original name
-Puccinia opoponacis Ces.
+Puccinia opopanacis Ces.
 
 ### Remarks
 null

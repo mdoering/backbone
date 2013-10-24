@@ -1,5 +1,4 @@
-Crandallia proteae Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Crandallia proteae Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

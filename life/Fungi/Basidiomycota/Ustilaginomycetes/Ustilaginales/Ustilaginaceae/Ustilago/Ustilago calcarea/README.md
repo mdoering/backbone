@@ -1,5 +1,4 @@
-Ustilago calcarea Griffiths SPECIES
-=======
+# Ustilago calcarea Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma bellynckii Westend. SPECIES
-=======
+# Phoma bellynckii Westend. SPECIES
 
 #### Status
 ACCEPTED

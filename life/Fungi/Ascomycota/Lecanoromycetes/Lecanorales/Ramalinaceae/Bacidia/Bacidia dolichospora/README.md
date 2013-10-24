@@ -1,5 +1,4 @@
-Bacidia dolichospora (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia dolichospora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

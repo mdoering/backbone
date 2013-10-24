@@ -1,5 +1,4 @@
-Octaviania columellifera Kobayasi SPECIES
-=======
+# Octaviania columellifera Kobayasi SPECIES
 
 #### Status
 ACCEPTED

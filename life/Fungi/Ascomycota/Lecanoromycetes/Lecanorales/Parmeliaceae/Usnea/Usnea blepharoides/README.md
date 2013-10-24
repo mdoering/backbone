@@ -1,5 +1,4 @@
-Usnea blepharoides C.W. Dodge SPECIES
-=======
+# Usnea blepharoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

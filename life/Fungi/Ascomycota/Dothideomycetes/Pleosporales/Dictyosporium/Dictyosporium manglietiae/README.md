@@ -1,5 +1,4 @@
-Dictyosporium manglietiae Kodsueb & McKenzie, 2006 SPECIES
-=======
+# Dictyosporium manglietiae Kodsueb & McKenzie, 2006 SPECIES
 
 #### Status
 ACCEPTED

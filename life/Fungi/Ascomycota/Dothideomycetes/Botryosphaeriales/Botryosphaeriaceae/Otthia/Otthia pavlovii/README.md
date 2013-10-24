@@ -1,5 +1,4 @@
-Otthia pavlovii Schwarzman SPECIES
-=======
+# Otthia pavlovii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

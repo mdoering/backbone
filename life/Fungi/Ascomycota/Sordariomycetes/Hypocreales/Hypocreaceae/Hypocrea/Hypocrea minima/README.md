@@ -1,5 +1,4 @@
-Hypocrea minima Sacc. & Ellis SPECIES
-=======
+# Hypocrea minima Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

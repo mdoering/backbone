@@ -1,5 +1,4 @@
-Lecanora bracarensis B. de Lesd. & Samp. SPECIES
-=======
+# Lecanora bracarensis B. de Lesd. & Samp. SPECIES
 
 #### Status
 ACCEPTED

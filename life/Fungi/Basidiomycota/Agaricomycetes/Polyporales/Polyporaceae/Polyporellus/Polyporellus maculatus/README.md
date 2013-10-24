@@ -1,5 +1,4 @@
-Polyporellus maculatus (Berk.) P. Karst. SPECIES
-=======
+# Polyporellus maculatus (Berk.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

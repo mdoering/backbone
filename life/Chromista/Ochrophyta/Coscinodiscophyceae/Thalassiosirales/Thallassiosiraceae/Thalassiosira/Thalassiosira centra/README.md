@@ -1,5 +1,4 @@
-Thalassiosira centra M. Shiono SPECIES
-=======
+# Thalassiosira centra M. Shiono SPECIES
 
 #### Status
 ACCEPTED

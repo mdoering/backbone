@@ -1,17 +1,16 @@
-Lepiota naucina var. naucina VARIETY
-=======
+# Leucoagaricus leucothites (Vittad.) Wasser, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 136 (1871)
+Ukr. bot. Zh. 34(3): 308 (1977)
 
 #### Original name
-Lepiota naucina var. naucina
+Agaricus leucothites Vittad., 1835
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bitrichia longispina (J.W.G. Lund) Bourelly SPECIES
-=======
+# Bitrichia longispina (J.W.G. Lund) Bourelly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina pachygrapha (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina pachygrapha (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

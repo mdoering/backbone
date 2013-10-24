@@ -1,5 +1,4 @@
-Acaulospora rugosa J.B. Morton, 1986 SPECIES
-=======
+# Acaulospora rugosa J.B. Morton, 1986 SPECIES
 
 #### Status
 ACCEPTED

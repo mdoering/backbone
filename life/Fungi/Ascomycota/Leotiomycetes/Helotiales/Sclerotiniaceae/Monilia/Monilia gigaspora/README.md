@@ -1,5 +1,4 @@
-Monilia gigaspora L.R. Batra SPECIES
-=======
+# Monilia gigaspora L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Indocytium GENUS
-=======
+# Indocytium GENUS
 
 #### Status
 ACCEPTED

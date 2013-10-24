@@ -1,8 +1,7 @@
-Broinsonia bevieri Bukry, 1969 SPECIES
-=======
+# Aspidolithus bevieri (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

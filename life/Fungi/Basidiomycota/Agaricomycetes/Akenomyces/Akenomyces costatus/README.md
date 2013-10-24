@@ -1,5 +1,4 @@
-Akenomyces costatus var. costatus VARIETY
-=======
+# Akenomyces costatus D. Hornby SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Br. mycol. Soc. 82(4): 653 (1984)
 
 #### Original name
-Akenomyces costatus var. costatus
+Akenomyces costatus D. Hornby
 
 ### Remarks
 null

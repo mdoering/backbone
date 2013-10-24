@@ -1,5 +1,4 @@
-Sphaerella vincetoxici var. vincetoxici VARIETY
-=======
+# Sphaerella vincetoxici Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella vincetoxici var. vincetoxici
+Sphaerella vincetoxici Sacc.
 
 ### Remarks
 null

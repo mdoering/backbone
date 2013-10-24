@@ -1,5 +1,4 @@
-Porina bacillifera Müll. Arg., 1882 SPECIES
-=======
+# Porina bacillifera Müll. Arg., 1882 SPECIES
 
 #### Status
 DOUBTFUL

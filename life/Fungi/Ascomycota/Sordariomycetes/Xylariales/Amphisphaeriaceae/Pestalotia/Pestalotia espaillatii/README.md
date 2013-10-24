@@ -1,5 +1,4 @@
-Pestalotia espaillatii Cif. & Gonz. Frag. SPECIES
-=======
+# Pestalotia espaillatii Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

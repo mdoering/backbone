@@ -1,5 +1,4 @@
-Skeletonema simbirskianum A. Schmidt SPECIES
-=======
+# Skeletonema simbirskianum A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

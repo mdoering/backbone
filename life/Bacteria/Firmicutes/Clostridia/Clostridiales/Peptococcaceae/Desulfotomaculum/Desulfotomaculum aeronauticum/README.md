@@ -1,5 +1,4 @@
-Desulfotomaculum aeronauticum Hagenauer et al., 1997 SPECIES
-=======
+# Desulfotomaculum aeronauticum Hagenauer et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

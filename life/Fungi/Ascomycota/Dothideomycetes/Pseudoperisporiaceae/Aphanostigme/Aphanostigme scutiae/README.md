@@ -1,5 +1,4 @@
-Aphanostigme scutiae M.S. Patil SPECIES
-=======
+# Aphanostigme scutiae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

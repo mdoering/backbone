@@ -1,5 +1,4 @@
-Coprinus semistriatus Pat. SPECIES
-=======
+# Coprinus semistriatus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tilletia brachypodii Mundk., 1944 SPECIES
-=======
+# Neovossia brachypodii (Mundk.) Mundk. & Thirum., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Journal of Agricultural Research 14: 51 (1944)
+Mycol. Pap. 40: 7 (1951)
 
 #### Original name
 Tilletia brachypodii Mundk., 1944

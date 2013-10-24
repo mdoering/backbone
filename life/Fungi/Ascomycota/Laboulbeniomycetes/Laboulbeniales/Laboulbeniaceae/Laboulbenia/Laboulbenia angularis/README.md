@@ -1,5 +1,4 @@
-Laboulbenia angularis Thaxt. SPECIES
-=======
+# Laboulbenia angularis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia naumanniana (Magnus) Dietel SPECIES
-=======
+# Puccinia naumanniana (Magnus) Dietel SPECIES
 
 #### Status
 ACCEPTED

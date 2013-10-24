@@ -1,5 +1,4 @@
-Gloeosporium nanoti Prill. & Delacr. SPECIES
-=======
+# Gloeosporium nanoti Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

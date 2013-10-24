@@ -1,5 +1,4 @@
-Mycena flavescens Velen. SPECIES
-=======
+# Mycena flavescens Velen. SPECIES
 
 #### Status
 ACCEPTED

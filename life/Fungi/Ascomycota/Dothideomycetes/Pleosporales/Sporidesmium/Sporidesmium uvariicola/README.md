@@ -1,14 +1,13 @@
-Ellisembia uvariicola (M.B. Ellis) Subram., 1992 SPECIES
-=======
+# Sporidesmium uvariicola M.B. Ellis, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 184 (1992)
+Mycol. Pap. 70: 35 (1958)
 
 #### Original name
 Sporidesmium uvariicola M.B. Ellis, 1958

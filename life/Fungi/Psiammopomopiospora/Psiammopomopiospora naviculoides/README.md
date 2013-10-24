@@ -1,5 +1,4 @@
-Psiammopomopiospora naviculoides Sal.-Cheb. & Locq. SPECIES
-=======
+# Psiammopomopiospora naviculoides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

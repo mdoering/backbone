@@ -1,17 +1,16 @@
-Phaeonematoloma lapponicum var. lapponicum VARIETY
-=======
+# Hypholoma lapponicum (Fr.) M.M. Moser, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 237 (1967)
 
 #### Original name
-null
+Agaricus lapponicus Fr., 1874
 
 ### Remarks
 null

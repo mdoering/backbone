@@ -1,5 +1,4 @@
-Phaeosaccardinula amapensis Bat. & A.A. Silva SPECIES
-=======
+# Phaeosaccardinula amapensis Bat. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

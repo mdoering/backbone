@@ -1,5 +1,4 @@
-Herpyzonema GENUS
-=======
+# Herpyzonema GENUS
 
 #### Status
 ACCEPTED

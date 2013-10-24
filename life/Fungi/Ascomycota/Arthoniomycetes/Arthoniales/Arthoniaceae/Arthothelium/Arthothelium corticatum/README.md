@@ -1,5 +1,4 @@
-Arthothelium corticatum Makhija & Patw. SPECIES
-=======
+# Arthothelium corticatum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

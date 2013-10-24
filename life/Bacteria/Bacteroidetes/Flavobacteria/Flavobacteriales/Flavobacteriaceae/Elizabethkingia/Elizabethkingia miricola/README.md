@@ -1,8 +1,7 @@
-Chryseobacterium miricola Li et al., 2004 SPECIES
-=======
+# Elizabethkingia miricola (Li et al., 2004) Kim et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

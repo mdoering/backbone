@@ -1,5 +1,4 @@
-Lecidea symmictiza Nyl. SPECIES
-=======
+# Lecidea symmictiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Valsa oxyspora Peck, 1874 SPECIES
-=======
+# Diaporthe oxyspora (Peck) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 627 (1882)
 
 #### Original name
 Valsa oxyspora Peck, 1874

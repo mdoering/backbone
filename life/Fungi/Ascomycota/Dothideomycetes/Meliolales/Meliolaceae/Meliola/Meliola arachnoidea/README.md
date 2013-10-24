@@ -1,5 +1,4 @@
-Meliola arachnoidea Speg. SPECIES
-=======
+# Meliola arachnoidea Speg. SPECIES
 
 #### Status
 ACCEPTED

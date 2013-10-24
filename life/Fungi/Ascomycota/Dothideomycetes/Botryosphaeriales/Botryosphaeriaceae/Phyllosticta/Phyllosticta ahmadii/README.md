@@ -1,5 +1,4 @@
-Phyllosticta ahmadii Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Phyllosticta ahmadii Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosphaera pruinosa (Cooke & Peck) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera pruinosa (Cooke & Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

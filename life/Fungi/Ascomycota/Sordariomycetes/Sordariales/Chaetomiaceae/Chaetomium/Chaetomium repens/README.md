@@ -1,5 +1,4 @@
-Chaetomium repens Guarro & Figueras, 1986 SPECIES
-=======
+# Chaetomium repens Guarro & Figueras, 1986 SPECIES
 
 #### Status
 ACCEPTED

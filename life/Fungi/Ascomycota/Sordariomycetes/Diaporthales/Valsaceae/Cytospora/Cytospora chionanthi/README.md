@@ -1,5 +1,4 @@
-Cytospora chionanthi Ellis & Everh. SPECIES
-=======
+# Cytospora chionanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

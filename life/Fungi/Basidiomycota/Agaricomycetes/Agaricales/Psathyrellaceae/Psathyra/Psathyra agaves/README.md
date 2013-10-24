@@ -1,5 +1,4 @@
-Psathyra agaves (Maire) Singer SPECIES
-=======
+# Psathyra agaves (Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

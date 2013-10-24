@@ -1,5 +1,4 @@
-Helotium nudipes Sacc. SPECIES
-=======
+# Helotium nudipes Sacc. SPECIES
 
 #### Status
 ACCEPTED

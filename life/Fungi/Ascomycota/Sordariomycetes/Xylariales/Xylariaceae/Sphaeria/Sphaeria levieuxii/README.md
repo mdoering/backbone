@@ -1,5 +1,4 @@
-Sphaeria levieuxii Fr. SPECIES
-=======
+# Sphaeria levieuxii Fr. SPECIES
 
 #### Status
 ACCEPTED

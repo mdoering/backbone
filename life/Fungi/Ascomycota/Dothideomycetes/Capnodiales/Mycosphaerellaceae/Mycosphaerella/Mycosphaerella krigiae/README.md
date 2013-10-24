@@ -1,5 +1,4 @@
-Mycosphaerella krigiae (Ellis & Everh.) H.C. Greene SPECIES
-=======
+# Mycosphaerella krigiae (Ellis & Everh.) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

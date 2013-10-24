@@ -1,17 +1,16 @@
-Hydnellum scrobiculatum var. scrobiculatum (Fr.) P. Karst. VARIETY
-=======
+# Hydnellum scrobiculatum (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Meddn Soc. Fauna Flora fenn. 5: 41 (1879)
 
 #### Original name
-Hydnellum scrobiculatum var. scrobiculatum (Fr.) P. Karst.
+Hydnum scrobiculatum Fr., 1815
 
 ### Remarks
 null

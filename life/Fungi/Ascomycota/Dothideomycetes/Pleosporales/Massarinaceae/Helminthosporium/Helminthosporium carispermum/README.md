@@ -1,5 +1,4 @@
-Helminthosporium carispermum Link SPECIES
-=======
+# Helminthosporium carispermum Link SPECIES
 
 #### Status
 ACCEPTED

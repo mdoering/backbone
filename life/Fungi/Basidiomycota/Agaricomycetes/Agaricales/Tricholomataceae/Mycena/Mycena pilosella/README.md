@@ -1,5 +1,4 @@
-Mycena pilosella Maas Geest. SPECIES
-=======
+# Mycena pilosella Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

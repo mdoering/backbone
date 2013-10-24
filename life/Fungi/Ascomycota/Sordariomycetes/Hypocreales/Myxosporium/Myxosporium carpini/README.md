@@ -1,5 +1,4 @@
-Myxosporium carpini Grove SPECIES
-=======
+# Myxosporium carpini Grove SPECIES
 
 #### Status
 ACCEPTED

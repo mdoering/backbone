@@ -1,5 +1,4 @@
-Corticium molluginis Allesch. SPECIES
-=======
+# Corticium molluginis Allesch. SPECIES
 
 #### Status
 ACCEPTED

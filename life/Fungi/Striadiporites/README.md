@@ -1,5 +1,4 @@
-Striadiporites C.P. Varma & Rawat GENUS
-=======
+# Striadiporites C.P. Varma & Rawat GENUS
 
 #### Status
 ACCEPTED

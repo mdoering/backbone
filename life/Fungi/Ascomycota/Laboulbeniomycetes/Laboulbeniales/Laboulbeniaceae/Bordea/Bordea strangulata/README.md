@@ -1,5 +1,4 @@
-Bordea strangulata (Thaxt.) R.K. Benj. SPECIES
-=======
+# Bordea strangulata (Thaxt.) R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

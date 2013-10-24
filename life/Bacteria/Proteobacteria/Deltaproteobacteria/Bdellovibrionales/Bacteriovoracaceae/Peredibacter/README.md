@@ -1,5 +1,4 @@
-Peredibacter Davidov & Jurkevitch, 2004 GENUS
-=======
+# Peredibacter Davidov & Jurkevitch, 2004 GENUS
 
 #### Status
 ACCEPTED

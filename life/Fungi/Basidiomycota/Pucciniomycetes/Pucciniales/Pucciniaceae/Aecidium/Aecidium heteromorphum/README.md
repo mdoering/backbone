@@ -1,5 +1,4 @@
-Aecidium heteromorphum Speg. SPECIES
-=======
+# Aecidium heteromorphum Speg. SPECIES
 
 #### Status
 ACCEPTED

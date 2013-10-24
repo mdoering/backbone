@@ -1,5 +1,4 @@
-Psilachnum striatum Graddon, 1990 SPECIES
-=======
+# Psilachnum striatum Graddon, 1990 SPECIES
 
 #### Status
 ACCEPTED

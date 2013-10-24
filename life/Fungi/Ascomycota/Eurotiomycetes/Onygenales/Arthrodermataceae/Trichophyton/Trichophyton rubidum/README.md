@@ -1,5 +1,4 @@
-Trichophyton rubidum Priestley SPECIES
-=======
+# Trichophyton rubidum Priestley SPECIES
 
 #### Status
 ACCEPTED

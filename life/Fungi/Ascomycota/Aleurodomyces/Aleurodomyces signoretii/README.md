@@ -1,5 +1,4 @@
-Aleurodomyces signoretii Buchner, 1912 SPECIES
-=======
+# Aleurodomyces signoretii Buchner, 1912 SPECIES
 
 #### Status
 ACCEPTED

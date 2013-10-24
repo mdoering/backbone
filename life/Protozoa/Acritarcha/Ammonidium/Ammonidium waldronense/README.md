@@ -1,5 +1,4 @@
-Ammonidium waldronense (Tappan & Loeblich, 1971) Dorning, 1981 SPECIES
-=======
+# Ammonidium waldronense (Tappan & Loeblich, 1971) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

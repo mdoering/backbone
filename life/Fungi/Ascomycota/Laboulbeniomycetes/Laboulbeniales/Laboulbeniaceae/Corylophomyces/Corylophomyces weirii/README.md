@@ -1,5 +1,4 @@
-Corylophomyces weirii R.K. Benj., 1994 SPECIES
-=======
+# Corylophomyces weirii R.K. Benj., 1994 SPECIES
 
 #### Status
 ACCEPTED

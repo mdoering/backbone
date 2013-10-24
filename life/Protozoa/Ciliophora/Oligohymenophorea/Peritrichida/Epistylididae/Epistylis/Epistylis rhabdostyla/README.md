@@ -1,5 +1,4 @@
-Epistylis rhabdostyla Eismond, 1895 SPECIES
-=======
+# Epistylis rhabdostyla Eismond, 1895 SPECIES
 
 #### Status
 ACCEPTED

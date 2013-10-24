@@ -1,5 +1,4 @@
-Anthostomella pauciseta anon. SPECIES
-=======
+# Anthostomella pauciseta anon. SPECIES
 
 #### Status
 ACCEPTED

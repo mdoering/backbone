@@ -1,5 +1,4 @@
-Lembosia bromeliacearum var. bromeliacearum VARIETY
-=======
+# Lembosia bromeliacearum Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 39(4): 210 (1900)
 
 #### Original name
-Lembosia bromeliacearum var. bromeliacearum
+Lembosia bromeliacearum Rehm
 
 ### Remarks
 null

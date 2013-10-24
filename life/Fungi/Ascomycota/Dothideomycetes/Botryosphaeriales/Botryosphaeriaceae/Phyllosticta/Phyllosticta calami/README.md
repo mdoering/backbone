@@ -1,5 +1,4 @@
-Phyllosticta calami Verpl. & Van den Broecke SPECIES
-=======
+# Phyllosticta calami Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

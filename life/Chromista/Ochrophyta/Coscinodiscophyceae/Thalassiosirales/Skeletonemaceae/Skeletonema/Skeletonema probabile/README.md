@@ -1,5 +1,4 @@
-Skeletonema probabile A. P. Jousé SPECIES
-=======
+# Skeletonema probabile A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

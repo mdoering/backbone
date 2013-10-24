@@ -1,5 +1,4 @@
-Trichomonadida Kirby, 1947 ORDER
-=======
+# Trichomonadida Kirby, 1947 ORDER
 
 #### Status
 ACCEPTED

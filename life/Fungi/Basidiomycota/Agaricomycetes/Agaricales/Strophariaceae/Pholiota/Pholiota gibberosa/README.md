@@ -1,5 +1,4 @@
-Pholiota gibberosa Fr. SPECIES
-=======
+# Pholiota gibberosa Fr. SPECIES
 
 #### Status
 ACCEPTED

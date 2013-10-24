@@ -1,5 +1,4 @@
-Polystictus dissectus Cooke SPECIES
-=======
+# Polystictus dissectus Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius uliginosus f. luteus (Gabriel & Lamoure) Høil. FORM
-=======
+# Cortinarius uliginosus Berk., 1860 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Op. bot. 71: 92 (1984)
+Outl. Brit. Fung. (London) 190 (1860)
 
 #### Original name
-Cortinarius uliginosus var. luteus Gabriel & Lamoure
+Cortinarius uliginosus Berk., 1860
 
 ### Remarks
 null

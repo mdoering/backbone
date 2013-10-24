@@ -1,5 +1,4 @@
-Diplodina pruni Ellis & Barthol. SPECIES
-=======
+# Diplodina pruni Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

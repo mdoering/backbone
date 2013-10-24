@@ -1,5 +1,4 @@
-Cantharomyces numidicus Maire SPECIES
-=======
+# Cantharomyces numidicus Maire SPECIES
 
 #### Status
 ACCEPTED

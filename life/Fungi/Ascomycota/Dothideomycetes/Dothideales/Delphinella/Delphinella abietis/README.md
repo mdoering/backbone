@@ -1,14 +1,13 @@
-Sphaerella abietis O. Rostr., 1902 SPECIES
-=======
+# Delphinella abietis (O. Rostr.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 26 (1962)
 
 #### Original name
 Sphaerella abietis O. Rostr., 1902

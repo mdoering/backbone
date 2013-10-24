@@ -1,5 +1,4 @@
-Erineum sorbi Kunze SPECIES
-=======
+# Erineum sorbi Kunze SPECIES
 
 #### Status
 ACCEPTED

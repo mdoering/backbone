@@ -1,5 +1,4 @@
-Phyllosticta armenicola Farneti SPECIES
-=======
+# Phyllosticta armenicola Farneti SPECIES
 
 #### Status
 ACCEPTED

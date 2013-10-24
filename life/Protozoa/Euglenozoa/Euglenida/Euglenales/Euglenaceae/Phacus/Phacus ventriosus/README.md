@@ -1,8 +1,7 @@
-Phacus orbicularis var. minor Seckt VARIETY
-=======
+# Phacus ventriosus Pochmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

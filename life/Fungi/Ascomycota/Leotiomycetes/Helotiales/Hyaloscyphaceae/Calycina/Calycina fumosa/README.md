@@ -1,5 +1,4 @@
-Calycina fumosa (Ellis & Everh.) Kuntze SPECIES
-=======
+# Calycina fumosa (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

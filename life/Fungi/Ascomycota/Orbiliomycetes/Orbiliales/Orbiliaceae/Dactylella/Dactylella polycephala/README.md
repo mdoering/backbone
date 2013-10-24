@@ -1,5 +1,4 @@
-Dactylella polycephala Drechsler SPECIES
-=======
+# Dactylella polycephala Drechsler SPECIES
 
 #### Status
 ACCEPTED

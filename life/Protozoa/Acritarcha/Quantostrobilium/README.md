@@ -1,5 +1,4 @@
-Quantostrobilium W.A.S. Sarjeant & Stancliffe, 1996 GENUS
-=======
+# Quantostrobilium W.A.S. Sarjeant & Stancliffe, 1996 GENUS
 
 #### Status
 ACCEPTED

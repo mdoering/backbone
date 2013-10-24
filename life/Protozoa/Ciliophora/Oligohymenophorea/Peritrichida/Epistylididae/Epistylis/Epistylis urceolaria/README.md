@@ -1,5 +1,4 @@
-Epistylis urceolaria Stiller, 1941 SPECIES
-=======
+# Epistylis urceolaria Stiller, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria tau-saghyzi Cherem. SPECIES
-=======
+# Septoria tau-saghyzi Cherem. SPECIES
 
 #### Status
 ACCEPTED

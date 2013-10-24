@@ -1,11 +1,10 @@
-Struvea gardineri A.Gepp & E.Gepp, 1908 SPECIES
-=======
+# Phyllodictyon gardineri (A. Gepp & E.S. Gepp) G.T. Kraft & M.J. Wynne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

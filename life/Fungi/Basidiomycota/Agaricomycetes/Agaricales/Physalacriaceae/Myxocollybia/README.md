@@ -1,5 +1,4 @@
-Myxocollybia GENUS
-=======
+# Myxocollybia GENUS
 
 #### Status
 ACCEPTED

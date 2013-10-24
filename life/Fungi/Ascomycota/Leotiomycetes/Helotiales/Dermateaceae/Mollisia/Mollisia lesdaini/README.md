@@ -1,5 +1,4 @@
-Mollisia lesdaini Vouaux SPECIES
-=======
+# Mollisia lesdaini Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharisma Perty, 1849 GENUS
-=======
+# Blepharisma Perty, 1849 GENUS
 
 #### Status
 ACCEPTED

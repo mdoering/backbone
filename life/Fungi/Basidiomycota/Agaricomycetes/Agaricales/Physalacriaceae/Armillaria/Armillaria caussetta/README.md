@@ -1,5 +1,4 @@
-Armillaria caussetta Barla SPECIES
-=======
+# Armillaria caussetta Barla SPECIES
 
 #### Status
 ACCEPTED

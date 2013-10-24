@@ -1,5 +1,4 @@
-Peronospora statices Lobik, 1928 SPECIES
-=======
+# Peronospora statices Lobik, 1928 SPECIES
 
 #### Status
 ACCEPTED

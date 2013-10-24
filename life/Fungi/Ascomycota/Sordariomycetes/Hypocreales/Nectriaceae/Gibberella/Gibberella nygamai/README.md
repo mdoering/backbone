@@ -1,5 +1,4 @@
-Gibberella nygamai Klaasen & P.E. Nelson SPECIES
-=======
+# Gibberella nygamai Klaasen & P.E. Nelson SPECIES
 
 #### Status
 ACCEPTED

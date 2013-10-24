@@ -1,5 +1,4 @@
-Phyllosticta aecidiicola Hulea SPECIES
-=======
+# Phyllosticta aecidiicola Hulea SPECIES
 
 #### Status
 ACCEPTED

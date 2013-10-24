@@ -1,5 +1,4 @@
-Thermus thermophilus (ex Oshima & Imahori, 1974) Manaia et al., 1995 SPECIES
-=======
+# Thermus thermophilus (ex Oshima & Imahori, 1974) Manaia et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

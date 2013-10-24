@@ -1,5 +1,4 @@
-Clitocybe acromelalga Ichimura {?} SPECIES
-=======
+# Clitocybe acromelalga Ichimura {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllachora rikatliensis (Doidge) Petr., 1927 SPECIES
-=======
+# Phyllachora lungusaensis Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

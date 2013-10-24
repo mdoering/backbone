@@ -1,8 +1,7 @@
-Haplophragmoides glomeratum (Brady, 1878) SPECIES
-=======
+# Adercotryma glomerata (Brady, 1878) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

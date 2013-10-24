@@ -1,5 +1,4 @@
-Gyalidea multispora Lumbsch & Vezda SPECIES
-=======
+# Gyalidea multispora Lumbsch & Vezda SPECIES
 
 #### Status
 ACCEPTED

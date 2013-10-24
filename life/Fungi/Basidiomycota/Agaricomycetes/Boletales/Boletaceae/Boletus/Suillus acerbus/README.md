@@ -1,5 +1,4 @@
-Suillus acerbus A.H. Sm. & Thiers, 1964 SPECIES
-=======
+# Suillus acerbus A.H. Sm. & Thiers, 1964 SPECIES
 
 #### Status
 DOUBTFUL

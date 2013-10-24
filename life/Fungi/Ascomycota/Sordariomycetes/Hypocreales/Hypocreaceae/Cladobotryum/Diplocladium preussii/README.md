@@ -1,5 +1,4 @@
-Diplocladium preussii Sacc. SPECIES
-=======
+# Diplocladium preussii Sacc. SPECIES
 
 #### Status
 ACCEPTED

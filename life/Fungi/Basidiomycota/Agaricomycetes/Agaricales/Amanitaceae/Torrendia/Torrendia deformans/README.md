@@ -1,5 +1,4 @@
-Torrendia deformans Bougher, 1996 SPECIES
-=======
+# Torrendia deformans Bougher, 1996 SPECIES
 
 #### Status
 ACCEPTED

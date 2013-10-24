@@ -1,8 +1,7 @@
-Textularia angularis d'Orbigny in Fornasini, 1887 SPECIES
-=======
+# Textularia aciculata d'Orbigny, 1826 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

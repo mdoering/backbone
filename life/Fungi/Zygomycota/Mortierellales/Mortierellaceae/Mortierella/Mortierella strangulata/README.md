@@ -1,5 +1,4 @@
-Mortierella strangulata Tiegh., 1875 SPECIES
-=======
+# Mortierella strangulata Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

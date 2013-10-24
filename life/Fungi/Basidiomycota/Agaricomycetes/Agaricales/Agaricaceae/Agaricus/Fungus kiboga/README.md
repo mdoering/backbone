@@ -1,5 +1,4 @@
-Fungus kiboga (Henn.) Kuntze SPECIES
-=======
+# Fungus kiboga (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia cytisi var. cytisi VARIETY
-=======
+# Arthonia cytisi A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia cytisi var. cytisi
+Arthonia cytisi A. Massal.
 
 ### Remarks
 null

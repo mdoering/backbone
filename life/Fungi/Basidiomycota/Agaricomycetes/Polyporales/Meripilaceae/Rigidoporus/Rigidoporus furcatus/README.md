@@ -1,5 +1,4 @@
-Rigidoporus furcatus Núñez & Ryvarden, 2001 SPECIES
-=======
+# Rigidoporus furcatus Núñez & Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

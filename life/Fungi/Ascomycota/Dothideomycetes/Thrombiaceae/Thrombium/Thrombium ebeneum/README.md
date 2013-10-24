@@ -1,5 +1,4 @@
-Thrombium ebeneum Norman SPECIES
-=======
+# Thrombium ebeneum Norman SPECIES
 
 #### Status
 ACCEPTED

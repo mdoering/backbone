@@ -1,5 +1,4 @@
-Cercospora sugimotoana Katsuki SPECIES
-=======
+# Cercospora sugimotoana Katsuki SPECIES
 
 #### Status
 ACCEPTED

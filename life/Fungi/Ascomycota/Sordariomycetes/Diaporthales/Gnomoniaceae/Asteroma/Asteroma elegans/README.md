@@ -1,5 +1,4 @@
-Asteroma elegans Roberge ex Desm. SPECIES
-=======
+# Asteroma elegans Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

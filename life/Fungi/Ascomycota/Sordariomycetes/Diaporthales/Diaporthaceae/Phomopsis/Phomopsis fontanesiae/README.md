@@ -1,5 +1,4 @@
-Phomopsis fontanesiae Alcalde SPECIES
-=======
+# Phomopsis fontanesiae Alcalde SPECIES
 
 #### Status
 ACCEPTED

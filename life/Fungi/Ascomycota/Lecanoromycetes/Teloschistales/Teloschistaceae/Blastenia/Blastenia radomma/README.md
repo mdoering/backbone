@@ -1,5 +1,4 @@
-Blastenia radomma (Nyl. ex C. Knight) Zahlbr. SPECIES
-=======
+# Blastenia radomma (Nyl. ex C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

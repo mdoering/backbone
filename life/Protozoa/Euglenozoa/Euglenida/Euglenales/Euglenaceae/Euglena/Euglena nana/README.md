@@ -1,5 +1,4 @@
-Euglena nana L. P. Johnson SPECIES
-=======
+# Euglena nana L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

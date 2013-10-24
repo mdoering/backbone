@@ -1,5 +1,4 @@
-Lecanora acarosporoides (Anzi) SPECIES
-=======
+# Lecanora acarosporoides (Anzi) SPECIES
 
 #### Status
 ACCEPTED

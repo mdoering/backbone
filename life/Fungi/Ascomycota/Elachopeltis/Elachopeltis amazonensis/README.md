@@ -1,5 +1,4 @@
-Elachopeltis amazonensis Bat. & H. Maia SPECIES
-=======
+# Elachopeltis amazonensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

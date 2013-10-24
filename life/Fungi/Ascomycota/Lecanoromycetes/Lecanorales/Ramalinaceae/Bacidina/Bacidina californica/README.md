@@ -1,5 +1,4 @@
-Bacidina californica S. Ekman SPECIES
-=======
+# Bacidina californica S. Ekman SPECIES
 
 #### Status
 ACCEPTED

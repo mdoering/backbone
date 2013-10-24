@@ -1,5 +1,4 @@
-Usnea corrugata Motyka SPECIES
-=======
+# Usnea corrugata Motyka SPECIES
 
 #### Status
 ACCEPTED

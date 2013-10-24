@@ -1,5 +1,4 @@
-Cortinarius paramoenolens Rob. Henry SPECIES
-=======
+# Cortinarius paramoenolens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

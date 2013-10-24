@@ -1,5 +1,4 @@
-Pseudohydnotrya nigra Harkn. SPECIES
-=======
+# Pseudohydnotrya nigra Harkn. SPECIES
 
 #### Status
 ACCEPTED

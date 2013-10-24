@@ -1,5 +1,4 @@
-Lactobacillus oris Farrow & Collins, 1988 SPECIES
-=======
+# Lactobacillus oris Farrow & Collins, 1988 SPECIES
 
 #### Status
 ACCEPTED

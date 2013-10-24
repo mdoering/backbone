@@ -1,5 +1,4 @@
-Crepidotus flulvotomentosus (Berk.) Sacc. SPECIES
-=======
+# Crepidotus flulvotomentosus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

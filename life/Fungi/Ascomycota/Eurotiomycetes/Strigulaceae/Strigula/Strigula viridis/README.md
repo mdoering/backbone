@@ -1,5 +1,4 @@
-Strigula viridis (Lücking) R. C. Harris SPECIES
-=======
+# Strigula viridis (Lücking) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

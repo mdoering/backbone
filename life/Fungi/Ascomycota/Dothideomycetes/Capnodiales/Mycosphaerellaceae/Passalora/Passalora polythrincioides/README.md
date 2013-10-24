@@ -1,5 +1,4 @@
-Passalora polythrincioides Fuckel SPECIES
-=======
+# Passalora polythrincioides Fuckel SPECIES
 
 #### Status
 ACCEPTED

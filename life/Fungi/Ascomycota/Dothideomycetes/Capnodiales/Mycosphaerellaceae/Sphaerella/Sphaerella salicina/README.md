@@ -1,5 +1,4 @@
-Sphaerella salicina Ellis & Everh. SPECIES
-=======
+# Sphaerella salicina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

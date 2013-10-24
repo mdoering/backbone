@@ -1,5 +1,4 @@
-Porina ochrostoma Makhija, Adaw. & Patw. SPECIES
-=======
+# Porina ochrostoma Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

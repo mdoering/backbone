@@ -1,5 +1,4 @@
-Lecidea pyrenopsoides Vain. SPECIES
-=======
+# Lecidea pyrenopsoides Vain. SPECIES
 
 #### Status
 ACCEPTED

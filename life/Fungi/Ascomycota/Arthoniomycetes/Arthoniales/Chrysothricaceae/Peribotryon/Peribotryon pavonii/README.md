@@ -1,17 +1,16 @@
-Peribotryon pavoni Fr. SPECIES
-=======
+# Peribotryon pavonii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(2): 288 (1832)
 
 #### Original name
-Peribotryon pavoni Fr.
+Peribotryon pavonii Fr.
 
 ### Remarks
 null

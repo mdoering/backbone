@@ -1,5 +1,4 @@
-Uromyces meimerlianus Magnus SPECIES
-=======
+# Uromyces meimerlianus Magnus SPECIES
 
 #### Status
 ACCEPTED

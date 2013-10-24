@@ -1,5 +1,4 @@
-Mehlisphaeridium fibratum Segroves, 1967 SPECIES
-=======
+# Mehlisphaeridium fibratum Segroves, 1967 SPECIES
 
 #### Status
 ACCEPTED

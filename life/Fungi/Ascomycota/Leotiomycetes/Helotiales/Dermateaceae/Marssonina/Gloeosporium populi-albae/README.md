@@ -1,5 +1,4 @@
-Gloeosporium populi-albae ß tremulae Sacc. SPECIES
-=======
+# Gloeosporium populi-albae ß tremulae Sacc. SPECIES
 
 #### Status
 ACCEPTED

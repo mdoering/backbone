@@ -1,5 +1,4 @@
-Anarma goodrichi SPECIES
-=======
+# Anarma goodrichi SPECIES
 
 #### Status
 ACCEPTED

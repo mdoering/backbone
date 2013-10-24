@@ -1,8 +1,7 @@
-Licnophora cohnii Claparède, 1867 SPECIES
-=======
+# Licnophora cohni Claparède, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Didymella fuchsiae Cooke & Harkn. SPECIES
-=======
+# Didymella fuchsiae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

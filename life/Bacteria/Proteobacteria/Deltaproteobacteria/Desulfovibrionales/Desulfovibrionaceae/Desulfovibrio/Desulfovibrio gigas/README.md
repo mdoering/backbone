@@ -1,5 +1,4 @@
-Desulfovibrio gigas Le Gall, 1963 (Approved Lists, 1980) SPECIES
-=======
+# Desulfovibrio gigas Le Gall, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

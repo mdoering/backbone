@@ -1,14 +1,13 @@
-Aleurodiscus berti Trotter SPECIES
-=======
+# Aleurodiscus bertii Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(7): 1288 (1924)
 
 #### Original name
 Aleurodiscus cremeus Pat.

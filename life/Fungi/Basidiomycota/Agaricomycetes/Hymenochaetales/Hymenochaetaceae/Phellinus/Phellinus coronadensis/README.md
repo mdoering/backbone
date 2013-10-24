@@ -1,5 +1,4 @@
-Phellinus coronadensis Rizzo, Gieser & Burds. SPECIES
-=======
+# Phellinus coronadensis Rizzo, Gieser & Burds. SPECIES
 
 #### Status
 ACCEPTED

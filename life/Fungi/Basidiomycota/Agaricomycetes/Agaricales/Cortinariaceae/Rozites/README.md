@@ -1,5 +1,4 @@
-Rozites P. Karst. GENUS
-=======
+# Rozites P. Karst. GENUS
 
 #### Status
 ACCEPTED

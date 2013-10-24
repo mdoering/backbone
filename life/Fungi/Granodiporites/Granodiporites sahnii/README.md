@@ -1,5 +1,4 @@
-Granodiporites sahnii C.P. Varma & Rawat SPECIES
-=======
+# Granodiporites sahnii C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

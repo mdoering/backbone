@@ -1,5 +1,4 @@
-Perisporina manaosensis Henn., 1904 SPECIES
-=======
+# Perisporina manaosensis Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

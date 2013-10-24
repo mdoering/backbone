@@ -1,5 +1,4 @@
-Clavaria paludicola Lib. SPECIES
-=======
+# Clavaria paludicola Lib. SPECIES
 
 #### Status
 ACCEPTED

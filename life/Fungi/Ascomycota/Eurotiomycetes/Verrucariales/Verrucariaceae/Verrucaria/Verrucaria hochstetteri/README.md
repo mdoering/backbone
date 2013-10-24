@@ -1,17 +1,16 @@
-Amphoridium hochstetteri f. hochstetteri FORM
-=======
+# Verrucaria hochstetteri Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. eur. reform. (Lund) 435 (1831)
 
 #### Original name
-null
+Verrucaria hochstetteri Fr.
 
 ### Remarks
 null

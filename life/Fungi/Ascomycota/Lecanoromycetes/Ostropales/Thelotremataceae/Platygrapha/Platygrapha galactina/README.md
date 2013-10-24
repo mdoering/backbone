@@ -1,5 +1,4 @@
-Platygrapha galactina Leight. SPECIES
-=======
+# Platygrapha galactina Leight. SPECIES
 
 #### Status
 ACCEPTED

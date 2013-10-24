@@ -1,5 +1,4 @@
-Endocarpon aegyptorum Stizenb. SPECIES
-=======
+# Endocarpon aegyptorum Stizenb. SPECIES
 
 #### Status
 ACCEPTED

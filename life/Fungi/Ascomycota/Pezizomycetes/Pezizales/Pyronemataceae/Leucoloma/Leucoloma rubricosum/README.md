@@ -1,5 +1,4 @@
-Leucoloma rubricosum (Fr.) Fuckel SPECIES
-=======
+# Leucoloma rubricosum (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

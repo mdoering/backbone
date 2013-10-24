@@ -1,5 +1,4 @@
-Helosphaeridium echiniforme Priewalder, 1987 SPECIES
-=======
+# Helosphaeridium echiniforme Priewalder, 1987 SPECIES
 
 #### Status
 ACCEPTED

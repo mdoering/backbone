@@ -1,5 +1,4 @@
-Peziza orichalcea Cooke SPECIES
-=======
+# Peziza orichalcea Cooke SPECIES
 
 #### Status
 ACCEPTED

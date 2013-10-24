@@ -1,5 +1,4 @@
-Pterula fastigiata (Rick) Rick SPECIES
-=======
+# Pterula fastigiata (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

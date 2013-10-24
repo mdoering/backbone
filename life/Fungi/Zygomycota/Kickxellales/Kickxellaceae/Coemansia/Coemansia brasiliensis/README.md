@@ -1,17 +1,16 @@
-Coemansia braziliensis Thaxt. ex Linder SPECIES
-=======
+# Coemansia brasiliensis Thaxt. ex Linder, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Farlowia 1: 64 (1943)
 
 #### Original name
-Coemansia braziliensis Thaxt. ex Linder
+Coemansia brasiliensis Thaxt. ex Linder, 1943
 
 ### Remarks
 null

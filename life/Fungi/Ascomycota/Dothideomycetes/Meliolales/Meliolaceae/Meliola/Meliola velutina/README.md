@@ -1,5 +1,4 @@
-Meliola velutina G. Winter SPECIES
-=======
+# Meliola velutina G. Winter SPECIES
 
 #### Status
 ACCEPTED

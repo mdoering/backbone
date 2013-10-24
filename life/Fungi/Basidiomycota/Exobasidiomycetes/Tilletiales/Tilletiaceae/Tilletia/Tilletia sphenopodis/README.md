@@ -1,5 +1,4 @@
-Tilletia sphenopodis Rayss SPECIES
-=======
+# Tilletia sphenopodis Rayss SPECIES
 
 #### Status
 ACCEPTED

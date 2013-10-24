@@ -1,5 +1,4 @@
-Tolyposporella eriocauli Vienn.-Bourg. SPECIES
-=======
+# Tolyposporella eriocauli Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

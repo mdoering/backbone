@@ -1,5 +1,4 @@
-Gymnopilus lepidotus Hesler SPECIES
-=======
+# Gymnopilus lepidotus Hesler SPECIES
 
 #### Status
 ACCEPTED

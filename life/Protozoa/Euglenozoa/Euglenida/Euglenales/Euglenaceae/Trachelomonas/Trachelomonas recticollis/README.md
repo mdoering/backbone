@@ -1,5 +1,4 @@
-Trachelomonas recticollis Deflandre SPECIES
-=======
+# Trachelomonas recticollis Deflandre SPECIES
 
 #### Status
 ACCEPTED

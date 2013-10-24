@@ -1,5 +1,4 @@
-Lobaria subamplissima Gyeln. SPECIES
-=======
+# Lobaria subamplissima Gyeln. SPECIES
 
 #### Status
 ACCEPTED

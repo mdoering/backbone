@@ -1,5 +1,4 @@
-Acytostelium ellipticum Cavender, 1970 SPECIES
-=======
+# Acytostelium ellipticum Cavender, 1970 SPECIES
 
 #### Status
 ACCEPTED

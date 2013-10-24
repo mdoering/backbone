@@ -1,5 +1,4 @@
-Neosaccardia GENUS
-=======
+# Neosaccardia GENUS
 
 #### Status
 ACCEPTED

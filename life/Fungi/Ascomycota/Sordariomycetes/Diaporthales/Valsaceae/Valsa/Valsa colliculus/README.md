@@ -1,5 +1,4 @@
-Valsa colliculus (Wormsk.) Cooke SPECIES
-=======
+# Valsa colliculus (Wormsk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

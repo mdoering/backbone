@@ -1,5 +1,4 @@
-Boletellus lepidospora var. lepidospora VARIETY
-=======
+# Boletellus lepidospora E.-J. Gilbert ex Heinem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletellus lepidospora var. lepidospora
+Boletellus lepidospora E.-J. Gilbert ex Heinem.
 
 ### Remarks
 null

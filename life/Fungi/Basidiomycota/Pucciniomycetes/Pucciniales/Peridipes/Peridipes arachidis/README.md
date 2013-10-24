@@ -1,5 +1,4 @@
-Peridipes arachidis Buriticá & J.F. Hennen, 1994 SPECIES
-=======
+# Peridipes arachidis Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
 ACCEPTED

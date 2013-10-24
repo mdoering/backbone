@@ -1,5 +1,4 @@
-Bilimbia sublecanorina (Nyl.) Szatala SPECIES
-=======
+# Bilimbia sublecanorina (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

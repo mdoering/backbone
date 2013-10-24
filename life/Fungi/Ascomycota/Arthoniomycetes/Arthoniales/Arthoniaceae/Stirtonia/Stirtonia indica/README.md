@@ -1,5 +1,4 @@
-Stirtonia indica Makhija & Patw. SPECIES
-=======
+# Stirtonia indica Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

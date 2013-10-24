@@ -1,5 +1,4 @@
-Acarospora durietzii H. Magn. SPECIES
-=======
+# Acarospora durietzii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

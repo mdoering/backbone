@@ -1,5 +1,4 @@
-Buellia petermannii (Hue) Darb. SPECIES
-=======
+# Buellia petermannii (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

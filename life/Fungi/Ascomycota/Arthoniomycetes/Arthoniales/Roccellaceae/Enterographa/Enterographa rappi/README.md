@@ -1,5 +1,4 @@
-Enterographa rappi Zahlbr. SPECIES
-=======
+# Enterographa rappi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummulites beaumonti Haime & d'Archiac SPECIES
-=======
+# Nummulites beaumonti Haime & d'Archiac SPECIES
 
 #### Status
 ACCEPTED

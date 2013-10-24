@@ -1,5 +1,4 @@
-Pleopyrenis GENUS
-=======
+# Pleopyrenis GENUS
 
 #### Status
 ACCEPTED

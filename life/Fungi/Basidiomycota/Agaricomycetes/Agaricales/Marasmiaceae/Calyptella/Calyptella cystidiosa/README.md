@@ -1,5 +1,4 @@
-Calyptella cystidiosa Rexer, 1994 SPECIES
-=======
+# Calyptella cystidiosa Rexer, 1994 SPECIES
 
 #### Status
 ACCEPTED

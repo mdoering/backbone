@@ -1,5 +1,4 @@
-Vitreostroma P.F. Cannon GENUS
-=======
+# Vitreostroma P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

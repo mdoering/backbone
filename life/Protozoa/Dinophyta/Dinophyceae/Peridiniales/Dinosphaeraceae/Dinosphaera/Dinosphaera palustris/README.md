@@ -1,8 +1,7 @@
-Gonyaulax palustris Lemmermann SPECIES
-=======
+# Dinosphaera palustris (Lemmermann) Kofoid & Michener SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

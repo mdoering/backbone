@@ -1,5 +1,4 @@
-Mutinus minimus Pat. SPECIES
-=======
+# Mutinus minimus Pat. SPECIES
 
 #### Status
 ACCEPTED

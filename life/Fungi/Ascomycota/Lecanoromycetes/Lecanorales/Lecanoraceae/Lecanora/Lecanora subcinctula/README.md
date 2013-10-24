@@ -1,5 +1,4 @@
-Lecanora subcinctula Nyl. SPECIES
-=======
+# Lecanora subcinctula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolis prominula (Schwein.) Thüm. SPECIES
-=======
+# Propolis prominula (Schwein.) Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccosporium maculiforme Corda SPECIES
-=======
+# Coccosporium maculiforme Corda SPECIES
 
 #### Status
 ACCEPTED

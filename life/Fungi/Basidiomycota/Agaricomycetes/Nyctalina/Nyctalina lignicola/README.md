@@ -1,5 +1,4 @@
-Nyctalina lignicola G. Arnaud, 1952 SPECIES
-=======
+# Nyctalina lignicola G. Arnaud, 1952 SPECIES
 
 #### Status
 ACCEPTED

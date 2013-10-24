@@ -1,5 +1,4 @@
-Diplodia sambucicola Fautrey SPECIES
-=======
+# Diplodia sambucicola Fautrey SPECIES
 
 #### Status
 ACCEPTED

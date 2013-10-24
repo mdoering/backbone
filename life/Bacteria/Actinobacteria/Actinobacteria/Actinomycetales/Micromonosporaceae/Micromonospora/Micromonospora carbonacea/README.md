@@ -1,5 +1,4 @@
-Micromonospora carbonacea subsp. carbonacea SUBSPECIES
-=======
+# Micromonospora carbonacea Luedemann & Brodsky, 1965 SPECIES
 
 #### Status
 ACCEPTED

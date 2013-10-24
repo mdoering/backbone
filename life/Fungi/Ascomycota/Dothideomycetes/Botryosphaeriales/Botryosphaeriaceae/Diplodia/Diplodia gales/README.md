@@ -1,5 +1,4 @@
-Diplodia gales E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Diplodia gales E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

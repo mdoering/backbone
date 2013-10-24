@@ -1,5 +1,4 @@
-Glaphyrocysta vicina (Eaton, 1976) Stover & Evitt, 1978 SPECIES
-=======
+# Glaphyrocysta vicina (Eaton, 1976) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

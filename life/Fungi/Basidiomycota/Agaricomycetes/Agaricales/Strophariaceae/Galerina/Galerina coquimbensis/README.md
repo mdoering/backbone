@@ -1,5 +1,4 @@
-Galerina coquimbensis Singer SPECIES
-=======
+# Galerina coquimbensis Singer SPECIES
 
 #### Status
 ACCEPTED

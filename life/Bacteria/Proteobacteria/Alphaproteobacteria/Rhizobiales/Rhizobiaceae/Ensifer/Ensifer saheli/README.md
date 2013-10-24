@@ -1,8 +1,7 @@
-Sinorhizobium saheli De Lajudie et al., 1994 SPECIES
-=======
+# Ensifer saheli (De Lajudie et al., 1994) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

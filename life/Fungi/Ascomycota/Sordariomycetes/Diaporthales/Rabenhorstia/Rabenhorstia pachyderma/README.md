@@ -1,5 +1,4 @@
-Rabenhorstia pachyderma Sacc. & Peyronel SPECIES
-=======
+# Rabenhorstia pachyderma Sacc. & Peyronel SPECIES
 
 #### Status
 ACCEPTED

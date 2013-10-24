@@ -1,17 +1,16 @@
-Lecidea cervinicola B. de Lesd. SPECIES
-=======
+# Lecidea cerviniicola B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 102: 231 (1955)
 
 #### Original name
-Lecidea cervinicola B. de Lesd.
+Lecidea cerviniicola B. de Lesd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholoma baeospermum Kühner SPECIES
-=======
+# Tricholoma baeospermum Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria cymbalarina Thüm. SPECIES
-=======
+# Septoria cymbalarina Thüm. SPECIES
 
 #### Status
 ACCEPTED

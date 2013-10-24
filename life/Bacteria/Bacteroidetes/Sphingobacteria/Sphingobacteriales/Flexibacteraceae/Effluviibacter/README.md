@@ -1,5 +1,4 @@
-Effluviibacter Suresh et al., 2006 GENUS
-=======
+# Effluviibacter Suresh et al., 2006 GENUS
 
 #### Status
 ACCEPTED

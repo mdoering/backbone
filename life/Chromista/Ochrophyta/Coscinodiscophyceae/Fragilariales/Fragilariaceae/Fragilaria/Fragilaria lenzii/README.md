@@ -1,5 +1,4 @@
-Fragilaria lenzii (Krasske) Lange-Bertalot & Willmann SPECIES
-=======
+# Fragilaria lenzii (Krasske) Lange-Bertalot & Willmann SPECIES
 
 #### Status
 ACCEPTED

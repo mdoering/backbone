@@ -1,5 +1,4 @@
-Favolaschia meridae Singer, 1974 SPECIES
-=======
+# Favolaschia meridae Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

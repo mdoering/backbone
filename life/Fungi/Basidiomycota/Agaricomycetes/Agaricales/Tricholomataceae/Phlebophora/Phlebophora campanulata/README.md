@@ -1,5 +1,4 @@
-Phlebophora campanulata Lév. SPECIES
-=======
+# Phlebophora campanulata Lév. SPECIES
 
 #### Status
 ACCEPTED

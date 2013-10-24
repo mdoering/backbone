@@ -1,5 +1,4 @@
-Meliola discocalycis F. Stevens ex Hansf. SPECIES
-=======
+# Meliola discocalycis F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biddulphia retiformis Mann SPECIES
-=======
+# Biddulphia retiformis Mann SPECIES
 
 #### Status
 ACCEPTED

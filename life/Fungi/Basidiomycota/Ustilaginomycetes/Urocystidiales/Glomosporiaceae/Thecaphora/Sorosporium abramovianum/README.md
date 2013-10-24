@@ -1,5 +1,4 @@
-Sorosporium abramovianum Lavrov SPECIES
-=======
+# Sorosporium abramovianum Lavrov SPECIES
 
 #### Status
 ACCEPTED

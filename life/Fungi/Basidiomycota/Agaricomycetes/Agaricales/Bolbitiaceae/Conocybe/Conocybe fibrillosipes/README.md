@@ -1,5 +1,4 @@
-Conocybe fibrillosipes Watling SPECIES
-=======
+# Conocybe fibrillosipes Watling SPECIES
 
 #### Status
 ACCEPTED

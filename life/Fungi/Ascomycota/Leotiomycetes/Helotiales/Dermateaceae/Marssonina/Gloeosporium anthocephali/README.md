@@ -1,5 +1,4 @@
-Gloeosporium anthocephali Lal & Tandon SPECIES
-=======
+# Gloeosporium anthocephali Lal & Tandon SPECIES
 
 #### Status
 ACCEPTED

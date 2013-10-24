@@ -1,5 +1,4 @@
-Melanospora poae Griffiths SPECIES
-=======
+# Melanospora poae Griffiths SPECIES
 
 #### Status
 ACCEPTED

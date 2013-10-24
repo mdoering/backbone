@@ -1,5 +1,4 @@
-Diaporthe actinidiae N.F. Sommer & Beraha, 1975 SPECIES
-=======
+# Diaporthe actinidiae N.F. Sommer & Beraha, 1975 SPECIES
 
 #### Status
 ACCEPTED

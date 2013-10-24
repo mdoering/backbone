@@ -1,5 +1,4 @@
-Dicaeoma crassipes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma crassipes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

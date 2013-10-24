@@ -1,5 +1,4 @@
-Microthyriella lophirae C. Moreau & M. Moreau SPECIES
-=======
+# Microthyriella lophirae C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyonella neurophila Syd., 1925 SPECIES
-=======
+# Lyonella neurophila Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

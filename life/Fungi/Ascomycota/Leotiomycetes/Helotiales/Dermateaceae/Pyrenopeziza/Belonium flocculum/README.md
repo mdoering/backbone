@@ -1,5 +1,4 @@
-Belonium flocculum Kirschst. SPECIES
-=======
+# Belonium flocculum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

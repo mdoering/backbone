@@ -1,5 +1,4 @@
-Imbricaria verruculifera (Nyl.) Arnold SPECIES
-=======
+# Imbricaria verruculifera (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

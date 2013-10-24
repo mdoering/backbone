@@ -1,5 +1,4 @@
-Dendryphion broussonetiae Sawada SPECIES
-=======
+# Dendryphion broussonetiae Sawada SPECIES
 
 #### Status
 ACCEPTED

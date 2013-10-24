@@ -1,5 +1,4 @@
-Leptosphaerella bambusae (I. Miyake & Hara) I. Miyake & Hara SPECIES
-=======
+# Leptosphaerella bambusae (I. Miyake & Hara) I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

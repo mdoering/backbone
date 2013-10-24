@@ -1,5 +1,4 @@
-Dasyscyphus espeletiae Dennis SPECIES
-=======
+# Dasyscyphus espeletiae Dennis SPECIES
 
 #### Status
 ACCEPTED

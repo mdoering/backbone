@@ -1,5 +1,4 @@
-Reticulocephalis gyrosus Benny, R.K. Benj. & P.M. Kirk, 1992 SPECIES
-=======
+# Reticulocephalis gyrosus Benny, R.K. Benj. & P.M. Kirk, 1992 SPECIES
 
 #### Status
 ACCEPTED

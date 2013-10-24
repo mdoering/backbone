@@ -1,5 +1,4 @@
-Endopyrenium americanum B. de Lesd. SPECIES
-=======
+# Endopyrenium americanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

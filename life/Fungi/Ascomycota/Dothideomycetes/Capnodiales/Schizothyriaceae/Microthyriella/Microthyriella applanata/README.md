@@ -1,5 +1,4 @@
-Microthyriella applanata (Rehm) Höhn. SPECIES
-=======
+# Microthyriella applanata (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

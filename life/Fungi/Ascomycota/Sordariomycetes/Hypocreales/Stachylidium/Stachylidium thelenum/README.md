@@ -1,5 +1,4 @@
-Stachylidium thelenum Sacc. SPECIES
-=======
+# Stachylidium thelenum Sacc. SPECIES
 
 #### Status
 ACCEPTED

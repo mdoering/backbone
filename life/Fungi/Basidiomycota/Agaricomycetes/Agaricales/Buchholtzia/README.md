@@ -1,5 +1,4 @@
-Buchholtzia H. Lohwag, 1924 GENUS
-=======
+# Buchholtzia H. Lohwag, 1924 GENUS
 
 #### Status
 ACCEPTED

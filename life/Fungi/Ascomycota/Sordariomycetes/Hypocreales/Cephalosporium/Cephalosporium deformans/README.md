@@ -1,5 +1,4 @@
-Cephalosporium deformans Crand. SPECIES
-=======
+# Cephalosporium deformans Crand. SPECIES
 
 #### Status
 ACCEPTED

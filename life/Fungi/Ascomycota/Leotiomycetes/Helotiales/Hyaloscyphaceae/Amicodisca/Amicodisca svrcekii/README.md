@@ -1,5 +1,4 @@
-Amicodisca svrcekii Raitv. & Huhtinen SPECIES
-=======
+# Amicodisca svrcekii Raitv. & Huhtinen SPECIES
 
 #### Status
 ACCEPTED

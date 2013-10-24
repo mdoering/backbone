@@ -1,5 +1,4 @@
-Teratomyces brevicaulis Thaxt. SPECIES
-=======
+# Teratomyces brevicaulis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

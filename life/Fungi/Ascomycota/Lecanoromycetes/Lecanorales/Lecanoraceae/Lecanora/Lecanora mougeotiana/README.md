@@ -1,5 +1,4 @@
-Lecanora mougeotiana Duby SPECIES
-=======
+# Lecanora mougeotiana Duby SPECIES
 
 #### Status
 ACCEPTED

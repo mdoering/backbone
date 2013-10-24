@@ -1,5 +1,4 @@
-Thelidiella blastenicola Fink ex J. Hedrick, 1933 SPECIES
-=======
+# Thelidiella blastenicola Fink ex J. Hedrick, 1933 SPECIES
 
 #### Status
 ACCEPTED

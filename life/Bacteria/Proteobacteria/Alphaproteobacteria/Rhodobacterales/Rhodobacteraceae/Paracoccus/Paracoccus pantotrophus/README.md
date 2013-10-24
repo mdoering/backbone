@@ -1,5 +1,4 @@
-Paracoccus pantotrophus (Robertson & Kuenen, 1984) Rainey et al., 1999 SPECIES
-=======
+# Paracoccus pantotrophus (Robertson & Kuenen, 1984) Rainey et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

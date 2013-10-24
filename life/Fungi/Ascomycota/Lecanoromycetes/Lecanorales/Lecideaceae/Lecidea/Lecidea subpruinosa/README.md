@@ -1,5 +1,4 @@
-Lecidea subpruinosa Nyl. SPECIES
-=======
+# Lecidea subpruinosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

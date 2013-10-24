@@ -1,5 +1,4 @@
-Diaporthe dubia Nitschke SPECIES
-=======
+# Diaporthe dubia Nitschke SPECIES
 
 #### Status
 ACCEPTED

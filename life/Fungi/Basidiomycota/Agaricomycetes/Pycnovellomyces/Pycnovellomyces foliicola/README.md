@@ -1,5 +1,4 @@
-Pycnovellomyces foliicola R.F. Castañeda, 1987 SPECIES
-=======
+# Pycnovellomyces foliicola R.F. Castañeda, 1987 SPECIES
 
 #### Status
 ACCEPTED

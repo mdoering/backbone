@@ -1,5 +1,4 @@
-Floricola striata Kohlm. & Volkm.-Kohlm., 2000 SPECIES
-=======
+# Floricola striata Kohlm. & Volkm.-Kohlm., 2000 SPECIES
 
 #### Status
 ACCEPTED

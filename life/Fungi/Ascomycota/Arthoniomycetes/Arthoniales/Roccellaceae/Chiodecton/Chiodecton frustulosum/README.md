@@ -1,5 +1,4 @@
-Chiodecton frustulosum Kremp. SPECIES
-=======
+# Chiodecton frustulosum Kremp. SPECIES
 
 #### Status
 ACCEPTED

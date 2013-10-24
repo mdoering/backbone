@@ -1,14 +1,13 @@
-Pleospora shepherdiae Peck, 1891 SPECIES
-=======
+# Karstenula shepherdiae (Peck) M.E. Barr, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 9: 876 (1891)
+in Barr, Rogerson, Smith & Haines, Bull. N. Y. St. Mus. 42 (1986)
 
 #### Original name
 Pleospora shepherdiae Peck, 1891

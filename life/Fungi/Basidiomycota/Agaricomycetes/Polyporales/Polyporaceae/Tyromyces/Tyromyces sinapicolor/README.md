@@ -1,5 +1,4 @@
-Tyromyces sinapicolor Corner SPECIES
-=======
+# Tyromyces sinapicolor Corner SPECIES
 
 #### Status
 ACCEPTED

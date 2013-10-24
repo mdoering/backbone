@@ -1,5 +1,4 @@
-Psathyra plana Murrill SPECIES
-=======
+# Psathyra plana Murrill SPECIES
 
 #### Status
 ACCEPTED

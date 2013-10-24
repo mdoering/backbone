@@ -1,5 +1,4 @@
-Leiosphaeridia simplex Sinha, 1969 SPECIES
-=======
+# Leiosphaeridia simplex Sinha, 1969 SPECIES
 
 #### Status
 ACCEPTED

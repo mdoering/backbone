@@ -1,5 +1,4 @@
-Acolium farlowi Tuck. SPECIES
-=======
+# Acolium farlowi Tuck. SPECIES
 
 #### Status
 ACCEPTED

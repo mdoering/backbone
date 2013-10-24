@@ -1,5 +1,4 @@
-Hydrogenivirga caldilitoris Nakagawa et al., 2004 SPECIES
-=======
+# Hydrogenivirga caldilitoris Nakagawa et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus epigaeus (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus epigaeus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

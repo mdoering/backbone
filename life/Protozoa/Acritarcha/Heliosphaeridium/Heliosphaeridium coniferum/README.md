@@ -1,5 +1,4 @@
-Heliosphaeridium coniferum (Downie, 1982) Moczydlowska, 1991 SPECIES
-=======
+# Heliosphaeridium coniferum (Downie, 1982) Moczydlowska, 1991 SPECIES
 
 #### Status
 ACCEPTED

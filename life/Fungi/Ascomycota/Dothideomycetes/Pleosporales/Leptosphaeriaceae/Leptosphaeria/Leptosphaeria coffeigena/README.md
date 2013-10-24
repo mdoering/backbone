@@ -1,5 +1,4 @@
-Leptosphaeria coffeigena (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria coffeigena (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

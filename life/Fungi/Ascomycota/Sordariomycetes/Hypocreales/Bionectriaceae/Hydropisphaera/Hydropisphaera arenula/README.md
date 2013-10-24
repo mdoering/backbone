@@ -1,17 +1,16 @@
-Nectria arenula var. arenula VARIETY
-=======
+# Hydropisphaera arenula (Berk. & Broome) Rossman & Samuels, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Outl. Brit. Fung. (London) 394 (1860)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 30 (1999)
 
 #### Original name
-Nectria arenula var. arenula
+Sphaeria arenula Berk. & Broome, 1852
 
 ### Remarks
 null

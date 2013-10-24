@@ -1,5 +1,4 @@
-Bagnisiella tamaricis (Cooke) Sacc. SPECIES
-=======
+# Bagnisiella tamaricis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

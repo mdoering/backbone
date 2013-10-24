@@ -1,17 +1,16 @@
-Daldinia argentinensis var. argentinensis Speg. VARIETY
-=======
+# Daldinia clavata Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 8(1): 68 (1902)
+Hedwigia 41: 14 (1902)
 
 #### Original name
-Daldinia argentinensis var. argentinensis Speg.
+Daldinia clavata Henn., 1902
 
 ### Remarks
 null

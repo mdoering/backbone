@@ -1,5 +1,4 @@
-Omphalia lutea Massee SPECIES
-=======
+# Omphalia lutea Massee SPECIES
 
 #### Status
 ACCEPTED

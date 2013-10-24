@@ -1,5 +1,4 @@
-Catillaria synotheoides (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria synotheoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

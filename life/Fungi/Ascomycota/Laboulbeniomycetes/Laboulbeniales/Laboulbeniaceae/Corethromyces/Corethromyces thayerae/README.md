@@ -1,5 +1,4 @@
-Corethromyces thayerae W. Rossi & A. Weir SPECIES
-=======
+# Corethromyces thayerae W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

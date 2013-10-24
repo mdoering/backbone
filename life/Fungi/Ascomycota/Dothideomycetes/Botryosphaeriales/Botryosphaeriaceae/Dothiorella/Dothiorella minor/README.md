@@ -1,5 +1,4 @@
-Dothiorella minor Ellis & Everh. SPECIES
-=======
+# Dothiorella minor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

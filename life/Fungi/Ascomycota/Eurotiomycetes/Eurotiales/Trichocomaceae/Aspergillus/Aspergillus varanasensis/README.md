@@ -1,5 +1,4 @@
-Aspergillus varanasensis R.S. Dwivedi SPECIES
-=======
+# Aspergillus varanasensis R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudohydnum Rick GENUS
-=======
+# Hydnodon Banker GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2: 409 (1904)
+Mycologia 5(6): 297 (1913)
 
 #### Original name
-Pseudohydnum Rick
+Hydnodon Banker
 
 ### Remarks
 null

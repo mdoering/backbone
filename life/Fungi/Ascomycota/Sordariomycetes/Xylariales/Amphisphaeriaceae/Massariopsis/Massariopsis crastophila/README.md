@@ -1,5 +1,4 @@
-Massariopsis crastophila (Niessl) Kirschst. SPECIES
-=======
+# Massariopsis crastophila (Niessl) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

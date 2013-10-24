@@ -1,5 +1,4 @@
-Lituolina Goes, 1882 GENUS
-=======
+# Lituolina Goes, 1882 GENUS
 
 #### Status
 ACCEPTED

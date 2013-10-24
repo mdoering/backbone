@@ -1,5 +1,4 @@
-Patellaria henningsii Ranoj. SPECIES
-=======
+# Patellaria henningsii Ranoj. SPECIES
 
 #### Status
 ACCEPTED

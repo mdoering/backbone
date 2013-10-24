@@ -1,5 +1,4 @@
-Microsphaera crispula U. Braun SPECIES
-=======
+# Microsphaera crispula U. Braun SPECIES
 
 #### Status
 ACCEPTED

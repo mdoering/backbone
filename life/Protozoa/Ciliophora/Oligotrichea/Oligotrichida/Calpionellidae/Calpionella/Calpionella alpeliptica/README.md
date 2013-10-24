@@ -1,5 +1,4 @@
-Calpionella alpeliptica SPECIES
-=======
+# Calpionella alpeliptica SPECIES
 
 #### Status
 ACCEPTED

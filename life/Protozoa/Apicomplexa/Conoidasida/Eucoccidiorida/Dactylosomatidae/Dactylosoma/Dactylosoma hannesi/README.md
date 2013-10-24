@@ -1,5 +1,4 @@
-Dactylosoma hannesi Paperna, 1981 SPECIES
-=======
+# Dactylosoma hannesi Paperna, 1981 SPECIES
 
 #### Status
 ACCEPTED

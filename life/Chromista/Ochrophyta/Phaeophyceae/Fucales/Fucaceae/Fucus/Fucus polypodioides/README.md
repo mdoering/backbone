@@ -1,5 +1,4 @@
-Fucus polypodioides S.G. Gmelin SPECIES
-=======
+# Fucus polypodioides S.G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

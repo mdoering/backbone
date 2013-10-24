@@ -1,5 +1,4 @@
-Muelleromyces Kamat & Anahosur GENUS
-=======
+# Muelleromyces Kamat & Anahosur GENUS
 
 #### Status
 ACCEPTED

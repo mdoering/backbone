@@ -1,5 +1,4 @@
-Meliola buchananiicola Hosag. SPECIES
-=======
+# Meliola buchananiicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

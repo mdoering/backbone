@@ -1,5 +1,4 @@
-Septoria interrupta Berk. & M.A. Curtis SPECIES
-=======
+# Septoria interrupta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Alysidium dubium (Alb. & Schwein.) M.B. Ellis, 1971 SPECIES
-=======
+# Botryobasidium aureum Parmasto, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dematiaceous Hyphomycetes (Kew) 89 (1971)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 14(2): 220 (1965)
 
 #### Original name
-null
+Botryobasidium aureum Parmasto, 1965
 
 ### Remarks
 null

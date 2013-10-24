@@ -1,5 +1,4 @@
-Camarosporium padi Brunaud SPECIES
-=======
+# Camarosporium padi Brunaud SPECIES
 
 #### Status
 ACCEPTED

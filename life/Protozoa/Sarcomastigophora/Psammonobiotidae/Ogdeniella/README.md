@@ -1,5 +1,4 @@
-Ogdeniella Golemansky, 1982 GENUS
-=======
+# Ogdeniella Golemansky, 1982 GENUS
 
 #### Status
 ACCEPTED

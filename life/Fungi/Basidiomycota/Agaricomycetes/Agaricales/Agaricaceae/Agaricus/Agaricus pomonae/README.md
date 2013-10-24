@@ -1,5 +1,4 @@
-Agaricus pomonae Lenz SPECIES
-=======
+# Agaricus pomonae Lenz SPECIES
 
 #### Status
 ACCEPTED

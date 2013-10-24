@@ -1,5 +1,4 @@
-Peroneutypa komonoensis Saccas SPECIES
-=======
+# Peroneutypa komonoensis Saccas SPECIES
 
 #### Status
 ACCEPTED

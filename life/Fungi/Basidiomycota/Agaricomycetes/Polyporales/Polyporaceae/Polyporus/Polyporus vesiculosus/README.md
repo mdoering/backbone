@@ -1,5 +1,4 @@
-Polyporus vesiculosus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus vesiculosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

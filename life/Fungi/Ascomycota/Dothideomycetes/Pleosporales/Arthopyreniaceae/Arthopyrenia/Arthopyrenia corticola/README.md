@@ -1,5 +1,4 @@
-Arthopyrenia corticola (Erichsen) Zschacke SPECIES
-=======
+# Arthopyrenia corticola (Erichsen) Zschacke SPECIES
 
 #### Status
 ACCEPTED

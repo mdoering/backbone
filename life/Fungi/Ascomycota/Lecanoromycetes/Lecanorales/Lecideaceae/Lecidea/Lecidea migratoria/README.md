@@ -1,5 +1,4 @@
-Lecidea migratoria Lynge SPECIES
-=======
+# Lecidea migratoria Lynge SPECIES
 
 #### Status
 ACCEPTED

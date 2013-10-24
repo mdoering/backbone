@@ -1,5 +1,4 @@
-Stigmatomyces jamaicensis Thaxt. SPECIES
-=======
+# Stigmatomyces jamaicensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

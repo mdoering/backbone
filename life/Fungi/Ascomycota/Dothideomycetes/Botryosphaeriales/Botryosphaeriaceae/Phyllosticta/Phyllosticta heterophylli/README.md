@@ -1,5 +1,4 @@
-Phyllosticta heterophylli Gucevic SPECIES
-=======
+# Phyllosticta heterophylli Gucevic SPECIES
 
 #### Status
 ACCEPTED

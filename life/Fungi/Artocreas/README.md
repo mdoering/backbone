@@ -1,5 +1,4 @@
-Artocreas Berk. & Broome GENUS
-=======
+# Artocreas Berk. & Broome GENUS
 
 #### Status
 ACCEPTED

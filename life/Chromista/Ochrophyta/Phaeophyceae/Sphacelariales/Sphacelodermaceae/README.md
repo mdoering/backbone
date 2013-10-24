@@ -1,5 +1,4 @@
-Sphacelodermaceae FAMILY
-=======
+# Sphacelodermaceae FAMILY
 
 #### Status
 ACCEPTED

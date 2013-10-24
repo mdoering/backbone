@@ -1,5 +1,4 @@
-Rhipidiomyces acriti Thaxt., 1926 SPECIES
-=======
+# Rhipidiomyces acriti Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

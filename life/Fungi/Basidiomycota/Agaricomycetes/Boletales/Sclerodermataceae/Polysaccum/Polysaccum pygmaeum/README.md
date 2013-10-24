@@ -1,5 +1,4 @@
-Polysaccum pygmaeum Lloyd SPECIES
-=======
+# Polysaccum pygmaeum Lloyd SPECIES
 
 #### Status
 ACCEPTED

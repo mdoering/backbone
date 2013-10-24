@@ -1,5 +1,4 @@
-Sphacelaria carolinensis Trono SPECIES
-=======
+# Sphacelaria carolinensis Trono SPECIES
 
 #### Status
 ACCEPTED

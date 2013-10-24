@@ -1,5 +1,4 @@
-Aspicilia albocretacea Motyka SPECIES
-=======
+# Aspicilia albocretacea Motyka SPECIES
 
 #### Status
 ACCEPTED

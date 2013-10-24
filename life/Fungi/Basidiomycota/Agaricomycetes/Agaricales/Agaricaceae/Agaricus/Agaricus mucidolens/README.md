@@ -1,5 +1,4 @@
-Agaricus mucidolens Berk. SPECIES
-=======
+# Agaricus mucidolens Berk. SPECIES
 
 #### Status
 ACCEPTED

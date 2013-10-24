@@ -1,5 +1,4 @@
-Asterina spectabilis Syd. SPECIES
-=======
+# Asterina spectabilis Syd. SPECIES
 
 #### Status
 ACCEPTED

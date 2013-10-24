@@ -1,5 +1,4 @@
-Vermicularia geranii Westend. SPECIES
-=======
+# Vermicularia geranii Westend. SPECIES
 
 #### Status
 ACCEPTED

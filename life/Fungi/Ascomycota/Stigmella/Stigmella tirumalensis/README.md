@@ -1,5 +1,4 @@
-Stigmella tirumalensis Bagyan., U. Braun & Jagad. SPECIES
-=======
+# Stigmella tirumalensis Bagyan., U. Braun & Jagad. SPECIES
 
 #### Status
 ACCEPTED

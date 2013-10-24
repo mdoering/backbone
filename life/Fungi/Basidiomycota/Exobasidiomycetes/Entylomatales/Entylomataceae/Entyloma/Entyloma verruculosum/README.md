@@ -1,5 +1,4 @@
-Entyloma verruculosum Pass. SPECIES
-=======
+# Entyloma verruculosum Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium horvathianum (F. Thomas) Nannf. SPECIES
-=======
+# Exobasidium horvathianum (F. Thomas) Nannf. SPECIES
 
 #### Status
 ACCEPTED

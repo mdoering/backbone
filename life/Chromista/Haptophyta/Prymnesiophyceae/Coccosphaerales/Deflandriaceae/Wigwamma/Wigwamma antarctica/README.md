@@ -1,5 +1,4 @@
-Wigwamma antarctica H.A. Thomsen SPECIES
-=======
+# Wigwamma antarctica H.A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquamortierella elegans Embree & Indoh, 1967 SPECIES
-=======
+# Aquamortierella elegans Embree & Indoh, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Similiscutum de Kaenel & Bergen, 1993 GENUS
-=======
+# Similiscutum de Kaenel & Bergen, 1993 GENUS
 
 #### Status
 ACCEPTED

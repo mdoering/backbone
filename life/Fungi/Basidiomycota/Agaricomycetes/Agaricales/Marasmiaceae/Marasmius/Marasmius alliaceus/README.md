@@ -1,17 +1,16 @@
-Marasmius alliaceus subsp. alliaceus SUBSPECIES
-=======
+# Marasmius alliaceus (Jacq.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 475 (1838)
 
 #### Original name
-Marasmius alliaceus subsp. alliaceus
+Agaricus alliaceus Jacq., 1773
 
 ### Remarks
 null

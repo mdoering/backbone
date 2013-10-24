@@ -1,5 +1,4 @@
-Propolis ulmi (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Propolis ulmi (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

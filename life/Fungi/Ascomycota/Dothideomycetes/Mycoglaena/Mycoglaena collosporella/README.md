@@ -1,5 +1,4 @@
-Mycoglaena collosporella Vain. SPECIES
-=======
+# Mycoglaena collosporella Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Scopularia penicillata (Grosmann) Goid., 1935 SPECIES
-=======
+# Leptographium penicillatum Grosmann, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

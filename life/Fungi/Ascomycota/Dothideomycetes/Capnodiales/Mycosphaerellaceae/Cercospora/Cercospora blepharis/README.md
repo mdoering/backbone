@@ -1,5 +1,4 @@
-Cercospora blepharis Chidd. SPECIES
-=======
+# Cercospora blepharis Chidd. SPECIES
 
 #### Status
 ACCEPTED

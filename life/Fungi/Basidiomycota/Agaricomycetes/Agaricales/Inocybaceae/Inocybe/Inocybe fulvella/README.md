@@ -1,14 +1,13 @@
-Astrosporina fulvella (Bres.) Rea, 1922 SPECIES
-=======
+# Inocybe fulvella Bres., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 213 (1922)
+Fung. trident. 2(8-10): 16 (1892)
 
 #### Original name
 Inocybe fulvella Bres., 1892

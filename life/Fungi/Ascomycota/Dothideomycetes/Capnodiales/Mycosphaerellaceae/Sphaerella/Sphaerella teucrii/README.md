@@ -1,5 +1,4 @@
-Sphaerella teucrii Unamuno SPECIES
-=======
+# Sphaerella teucrii Unamuno SPECIES
 
 #### Status
 ACCEPTED

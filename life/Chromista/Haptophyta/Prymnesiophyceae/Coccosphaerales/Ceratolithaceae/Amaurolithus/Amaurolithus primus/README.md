@@ -1,5 +1,4 @@
-Amaurolithus primus (Bukry & Percival, 1971) Gartner & Bukry, 1975 SPECIES
-=======
+# Amaurolithus primus (Bukry & Percival, 1971) Gartner & Bukry, 1975 SPECIES
 
 #### Status
 ACCEPTED

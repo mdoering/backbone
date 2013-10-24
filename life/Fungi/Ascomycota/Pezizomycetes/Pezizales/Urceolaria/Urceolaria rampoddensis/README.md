@@ -1,5 +1,4 @@
-Urceolaria rampoddensis Nyl. SPECIES
-=======
+# Urceolaria rampoddensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

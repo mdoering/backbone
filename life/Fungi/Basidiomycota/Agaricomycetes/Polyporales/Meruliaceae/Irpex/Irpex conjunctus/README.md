@@ -1,5 +1,4 @@
-Irpex conjunctus Britzelm. SPECIES
-=======
+# Irpex conjunctus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

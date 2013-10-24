@@ -1,5 +1,4 @@
-Armillaria graveolens Murrill SPECIES
-=======
+# Armillaria graveolens Murrill SPECIES
 
 #### Status
 ACCEPTED

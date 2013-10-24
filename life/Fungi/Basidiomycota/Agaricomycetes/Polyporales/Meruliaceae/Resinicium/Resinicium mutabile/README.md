@@ -1,5 +1,4 @@
-Resinicium mutabile Nakasone, 2007 SPECIES
-=======
+# Resinicium mutabile Nakasone, 2007 SPECIES
 
 #### Status
 ACCEPTED

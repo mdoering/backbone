@@ -1,5 +1,4 @@
-Amphisphaeria durantae Tilak & S.B. Kale SPECIES
-=======
+# Amphisphaeria durantae Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

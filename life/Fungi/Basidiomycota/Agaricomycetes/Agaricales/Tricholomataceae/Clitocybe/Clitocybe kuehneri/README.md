@@ -1,5 +1,4 @@
-Clitocybe kuehneri Singer SPECIES
-=======
+# Clitocybe kuehneri Singer SPECIES
 
 #### Status
 ACCEPTED

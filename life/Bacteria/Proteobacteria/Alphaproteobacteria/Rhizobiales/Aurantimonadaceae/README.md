@@ -1,5 +1,4 @@
-Aurantimonadaceae FAMILY
-=======
+# Aurantimonadaceae FAMILY
 
 #### Status
 ACCEPTED

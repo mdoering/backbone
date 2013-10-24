@@ -1,5 +1,4 @@
-Macrophoma laurina Siemaszko SPECIES
-=======
+# Macrophoma laurina Siemaszko SPECIES
 
 #### Status
 ACCEPTED

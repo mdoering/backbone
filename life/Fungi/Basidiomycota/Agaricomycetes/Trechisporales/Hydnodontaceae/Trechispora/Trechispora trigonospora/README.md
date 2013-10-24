@@ -1,5 +1,4 @@
-Trechispora trigonospora (M.P. Christ.) Liberta SPECIES
-=======
+# Trechispora trigonospora (M.P. Christ.) Liberta SPECIES
 
 #### Status
 ACCEPTED

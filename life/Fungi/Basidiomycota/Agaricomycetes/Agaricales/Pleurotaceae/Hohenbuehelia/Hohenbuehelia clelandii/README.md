@@ -1,5 +1,4 @@
-Hohenbuehelia clelandii Grgur. SPECIES
-=======
+# Hohenbuehelia clelandii Grgur. SPECIES
 
 #### Status
 ACCEPTED

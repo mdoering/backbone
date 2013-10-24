@@ -1,5 +1,4 @@
-Haplographium finitimum (Preuss) Sacc. SPECIES
-=======
+# Haplographium finitimum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

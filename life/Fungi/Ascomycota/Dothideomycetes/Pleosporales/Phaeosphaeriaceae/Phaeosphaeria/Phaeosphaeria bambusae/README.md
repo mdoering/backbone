@@ -1,5 +1,4 @@
-Phaeosphaeria bambusae I. Miyake & Hara SPECIES
-=======
+# Phaeosphaeria bambusae I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis theobromae (J.V. Almeida & Sousa da Câmara) Bond.-Mont. SPECIES
-=======
+# Phomopsis theobromae (J.V. Almeida & Sousa da Câmara) Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

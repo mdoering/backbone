@@ -1,5 +1,4 @@
-Opegrapha abnormis var. abnormis VARIETY
-=======
+# Opegrapha abnormis Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Opegrapha abnormis var. abnormis
+Opegrapha abnormis Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acytostelium anastomosans Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
-=======
+# Acytostelium anastomosans Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
 
 #### Status
 ACCEPTED

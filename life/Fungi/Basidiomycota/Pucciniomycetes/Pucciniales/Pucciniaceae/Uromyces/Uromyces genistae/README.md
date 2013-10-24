@@ -1,5 +1,4 @@
-Uromyces genistae Fuckel SPECIES
-=======
+# Uromyces genistae Fuckel SPECIES
 
 #### Status
 ACCEPTED

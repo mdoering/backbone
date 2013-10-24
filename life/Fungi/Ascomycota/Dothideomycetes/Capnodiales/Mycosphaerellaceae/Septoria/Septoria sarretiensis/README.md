@@ -1,5 +1,4 @@
-Septoria sarretiensis Moesz SPECIES
-=======
+# Septoria sarretiensis Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella chrysophaea Pers. SPECIES
-=======
+# Helvella chrysophaea Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta aloës Kalchbr. SPECIES
-=======
+# Phyllosticta aloës Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes dahlii Henn. SPECIES
-=======
+# Fomes dahlii Henn. SPECIES
 
 #### Status
 ACCEPTED

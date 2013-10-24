@@ -1,5 +1,4 @@
-Plasmopara asterea Novot. SPECIES
-=======
+# Plasmopara asterea Novot. SPECIES
 
 #### Status
 ACCEPTED

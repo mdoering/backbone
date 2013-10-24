@@ -1,5 +1,4 @@
-Trichodina rhinobatae Van As & Basson, 1996 SPECIES
-=======
+# Trichodina rhinobatae Van As & Basson, 1996 SPECIES
 
 #### Status
 ACCEPTED

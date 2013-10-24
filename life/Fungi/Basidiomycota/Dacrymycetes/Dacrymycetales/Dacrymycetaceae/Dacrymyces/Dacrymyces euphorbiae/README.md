@@ -1,5 +1,4 @@
-Dacrymyces euphorbiae Lasch SPECIES
-=======
+# Dacrymyces euphorbiae Lasch SPECIES
 
 #### Status
 ACCEPTED

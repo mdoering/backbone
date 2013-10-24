@@ -1,5 +1,4 @@
-Thurammina edita Saidova, 1975 SPECIES
-=======
+# Thurammina edita Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

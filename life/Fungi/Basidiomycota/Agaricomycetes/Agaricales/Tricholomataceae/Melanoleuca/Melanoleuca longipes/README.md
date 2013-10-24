@@ -1,5 +1,4 @@
-Melanoleuca longipes Murrill SPECIES
-=======
+# Melanoleuca longipes Murrill SPECIES
 
 #### Status
 ACCEPTED

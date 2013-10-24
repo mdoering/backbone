@@ -1,14 +1,13 @@
-Coprinus leiocephalus P.D. Orton, 1969 SPECIES
-=======
+# Parasola leiocephala (P.D. Orton) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 29: 88 (1969)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 236 (2001)
 
 #### Original name
 Coprinus leiocephalus P.D. Orton, 1969

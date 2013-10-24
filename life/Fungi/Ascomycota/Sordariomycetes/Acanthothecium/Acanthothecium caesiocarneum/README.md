@@ -1,5 +1,4 @@
-Acanthothecium caesiocarneum Vain. SPECIES
-=======
+# Acanthothecium caesiocarneum Vain. SPECIES
 
 #### Status
 ACCEPTED

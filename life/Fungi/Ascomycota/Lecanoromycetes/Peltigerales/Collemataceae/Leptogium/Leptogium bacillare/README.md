@@ -1,5 +1,4 @@
-Leptogium bacillare (Wallr.) Lettau SPECIES
-=======
+# Leptogium bacillare (Wallr.) Lettau SPECIES
 
 #### Status
 ACCEPTED

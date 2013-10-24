@@ -1,5 +1,4 @@
-Digitoramispora lageniformis Somrith. & E.B.G. Jones SPECIES
-=======
+# Digitoramispora lageniformis Somrith. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

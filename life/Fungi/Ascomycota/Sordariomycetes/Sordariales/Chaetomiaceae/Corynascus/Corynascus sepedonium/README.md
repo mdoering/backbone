@@ -1,17 +1,16 @@
-Thielavia sepedonium var. sepedonium C.W. Emmons VARIETY
-=======
+# Corynascus sepedonium (C.W. Emmons) Arx, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 59: 417 (1932)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 76(3): 292 (1973)
 
 #### Original name
-Thielavia sepedonium var. sepedonium C.W. Emmons
+Thielavia sepedonium C.W. Emmons, 1932
 
 ### Remarks
 null

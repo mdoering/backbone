@@ -1,5 +1,4 @@
-Cercospora cimicifugae C.K. Pai & P.K. Chi SPECIES
-=======
+# Cercospora cimicifugae C.K. Pai & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

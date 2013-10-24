@@ -1,5 +1,4 @@
-Coleps kenti Bathia, 1922 SPECIES
-=======
+# Coleps kenti Bathia, 1922 SPECIES
 
 #### Status
 ACCEPTED

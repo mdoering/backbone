@@ -1,5 +1,4 @@
-Latibolivina Srinivasan, 1966 GENUS
-=======
+# Latibolivina Srinivasan, 1966 GENUS
 
 #### Status
 ACCEPTED

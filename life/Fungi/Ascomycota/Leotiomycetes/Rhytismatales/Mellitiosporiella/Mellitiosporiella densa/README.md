@@ -1,5 +1,4 @@
-Mellitiosporiella densa (Fuckel) Höhn. SPECIES
-=======
+# Mellitiosporiella densa (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

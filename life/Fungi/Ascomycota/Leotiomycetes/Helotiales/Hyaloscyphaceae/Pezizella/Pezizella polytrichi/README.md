@@ -1,5 +1,4 @@
-Pezizella polytrichi Dennis, 1962 SPECIES
-=======
+# Pezizella polytrichi Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED

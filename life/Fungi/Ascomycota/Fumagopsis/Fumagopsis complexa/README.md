@@ -1,5 +1,4 @@
-Fumagopsis complexa W.P. Wu & B. Sutton SPECIES
-=======
+# Fumagopsis complexa W.P. Wu & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

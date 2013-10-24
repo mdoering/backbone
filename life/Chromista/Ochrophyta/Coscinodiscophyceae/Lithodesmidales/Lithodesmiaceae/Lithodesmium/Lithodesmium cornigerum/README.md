@@ -1,5 +1,4 @@
-Lithodesmium cornigerum SPECIES
-=======
+# Lithodesmium cornigerum SPECIES
 
 #### Status
 ACCEPTED

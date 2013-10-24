@@ -1,5 +1,4 @@
-Boletinus oxydabilis Singer SPECIES
-=======
+# Boletinus oxydabilis Singer SPECIES
 
 #### Status
 ACCEPTED

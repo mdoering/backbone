@@ -1,5 +1,4 @@
-Tubercularia smaragdina (Alb. & Schwein.) Seifert, 1985 SPECIES
-=======
+# Tubercularia smaragdina (Alb. & Schwein.) Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED

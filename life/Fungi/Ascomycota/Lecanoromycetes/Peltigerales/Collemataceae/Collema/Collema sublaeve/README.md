@@ -1,5 +1,4 @@
-Collema sublaeve (Jatta) Zahlbr. SPECIES
-=======
+# Collema sublaeve (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

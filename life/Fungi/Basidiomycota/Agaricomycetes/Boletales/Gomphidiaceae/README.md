@@ -1,5 +1,4 @@
-Gomphidiaceae Maire ex Jülich FAMILY
-=======
+# Gomphidiaceae Maire ex Jülich FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium rhois Schwein. SPECIES
-=======
+# Cenangium rhois Schwein. SPECIES
 
 #### Status
 ACCEPTED

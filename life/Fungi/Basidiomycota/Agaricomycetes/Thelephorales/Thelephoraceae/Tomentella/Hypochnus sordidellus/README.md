@@ -1,5 +1,4 @@
-Hypochnus sordidellus (Höhn. & Litsch.) Rick SPECIES
-=======
+# Hypochnus sordidellus (Höhn. & Litsch.) Rick SPECIES
 
 #### Status
 ACCEPTED

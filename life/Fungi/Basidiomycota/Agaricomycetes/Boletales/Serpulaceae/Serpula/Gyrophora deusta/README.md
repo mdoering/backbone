@@ -1,17 +1,16 @@
-Gyrophora deusta f. deusta FORM
-=======
+# Gyrophora deusta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Gyrophora deusta f. deusta
+null
 
 ### Remarks
 null

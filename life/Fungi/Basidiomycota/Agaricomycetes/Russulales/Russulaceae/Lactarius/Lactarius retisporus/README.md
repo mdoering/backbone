@@ -1,5 +1,4 @@
-Lactarius retisporus Massee SPECIES
-=======
+# Lactarius retisporus Massee SPECIES
 
 #### Status
 ACCEPTED

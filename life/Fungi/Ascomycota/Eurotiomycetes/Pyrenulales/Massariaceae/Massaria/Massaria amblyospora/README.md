@@ -1,5 +1,4 @@
-Massaria amblyospora Berk. & Broome SPECIES
-=======
+# Massaria amblyospora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

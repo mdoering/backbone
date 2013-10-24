@@ -1,5 +1,4 @@
-Gastroboletus subalpinus Trappe & Thiers, 1969 SPECIES
-=======
+# Gastroboletus subalpinus Trappe & Thiers, 1969 SPECIES
 
 #### Status
 ACCEPTED

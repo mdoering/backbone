@@ -1,5 +1,4 @@
-Agaricus dictyodes Lév. SPECIES
-=======
+# Agaricus dictyodes Lév. SPECIES
 
 #### Status
 ACCEPTED

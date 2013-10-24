@@ -1,5 +1,4 @@
-Polysphondylium australicum Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2008 SPECIES
-=======
+# Polysphondylium australicum Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilophoron curtulum Kurok. & Shibuichi SPECIES
-=======
+# Pilophoron curtulum Kurok. & Shibuichi SPECIES
 
 #### Status
 ACCEPTED

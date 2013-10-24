@@ -1,5 +1,4 @@
-Rinodina subnigra H. Magn. SPECIES
-=======
+# Rinodina subnigra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

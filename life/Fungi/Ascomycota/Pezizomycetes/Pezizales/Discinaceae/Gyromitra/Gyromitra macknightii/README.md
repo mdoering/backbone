@@ -1,17 +1,16 @@
-Gyromitra mcknightii Harmaja SPECIES
-=======
+# Gyromitra macknightii Harmaja SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Karstenia 26(2): 42 (1986)
 
 #### Original name
-Gyromitra mcknightii Harmaja
+Gyromitra macknightii Harmaja
 
 ### Remarks
 null

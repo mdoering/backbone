@@ -1,5 +1,4 @@
-Skiagia pura M. Moczydowska SPECIES
-=======
+# Skiagia pura M. Moczydowska SPECIES
 
 #### Status
 ACCEPTED

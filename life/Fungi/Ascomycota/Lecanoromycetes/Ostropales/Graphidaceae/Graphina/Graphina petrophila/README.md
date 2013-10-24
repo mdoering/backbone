@@ -1,5 +1,4 @@
-Graphina petrophila Zahlbr. SPECIES
-=======
+# Graphina petrophila Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

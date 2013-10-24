@@ -1,5 +1,4 @@
-Stylonychia excavata Dumas, 1930 SPECIES
-=======
+# Stylonychia excavata Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

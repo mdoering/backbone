@@ -1,5 +1,4 @@
-Ralfsia hyalina (Kützing) O'Meara SPECIES
-=======
+# Ralfsia hyalina (Kützing) O'Meara SPECIES
 
 #### Status
 ACCEPTED

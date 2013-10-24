@@ -1,5 +1,4 @@
-Clonostachys epichloë Schroers SPECIES
-=======
+# Clonostachys epichloë Schroers SPECIES
 
 #### Status
 ACCEPTED

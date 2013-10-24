@@ -1,17 +1,16 @@
-Nectria ochraceopallida Berk. & Broome, 1851 SPECIES
-=======
+# Nectria pseudopeziza (Desm.) Rossman, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 7: (1851)
+Mycotaxon 8(2): 536 (1979)
 
 #### Original name
-Nectria ochraceopallida Berk. & Broome, 1851
+Sphaeria pseudopeziza Desm., 1840
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Alisphaera quadrilatera Kleijne, Jordan, Heimdal, Samtleben, Chamberlain & Cros, 2002 SPECIES
-=======
+# Alisphaera quadrilatera Kleijne, Jordan, Heimdal, Samtleben, Chamberlain & Cros, 2002 SPECIES
 
 #### Status
 ACCEPTED

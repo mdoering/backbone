@@ -1,5 +1,4 @@
-Bacidia mastophoriza Vain. SPECIES
-=======
+# Bacidia mastophoriza Vain. SPECIES
 
 #### Status
 ACCEPTED

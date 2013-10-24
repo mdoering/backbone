@@ -1,5 +1,4 @@
-Psammomitra Borror, 1972 GENUS
-=======
+# Psammomitra Borror, 1972 GENUS
 
 #### Status
 ACCEPTED

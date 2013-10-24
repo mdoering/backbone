@@ -1,5 +1,4 @@
-Aecidium malvicola Arthur SPECIES
-=======
+# Aecidium malvicola Arthur SPECIES
 
 #### Status
 ACCEPTED

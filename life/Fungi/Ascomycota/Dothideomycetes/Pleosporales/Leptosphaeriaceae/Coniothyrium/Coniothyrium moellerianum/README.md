@@ -1,8 +1,7 @@
-Coniothyrium mollerianum Thüm. SPECIES
-=======
+# Coniothyrium moellerianum Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium mollerianum Thüm.
+Coniothyrium moellerianum Thüm.
 
 ### Remarks
 null

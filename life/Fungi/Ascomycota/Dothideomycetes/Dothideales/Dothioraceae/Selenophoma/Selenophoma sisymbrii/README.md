@@ -1,5 +1,4 @@
-Selenophoma sisymbrii Pisareva & Kalymb. SPECIES
-=======
+# Selenophoma sisymbrii Pisareva & Kalymb. SPECIES
 
 #### Status
 ACCEPTED

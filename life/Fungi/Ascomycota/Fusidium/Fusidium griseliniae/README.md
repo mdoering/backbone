@@ -1,5 +1,4 @@
-Fusidium griseliniae Gutner SPECIES
-=======
+# Fusidium griseliniae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathomonas truncata Fres Risch SPECIES
-=======
+# Cyathomonas truncata Fres Risch SPECIES
 
 #### Status
 ACCEPTED

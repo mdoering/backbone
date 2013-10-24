@@ -1,5 +1,4 @@
-Opegrapha invadens Etayo SPECIES
-=======
+# Opegrapha invadens Etayo SPECIES
 
 #### Status
 ACCEPTED

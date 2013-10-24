@@ -1,5 +1,4 @@
-Nectriella curtisii (Berk.) Lowen SPECIES
-=======
+# Nectriella curtisii (Berk.) Lowen SPECIES
 
 #### Status
 ACCEPTED

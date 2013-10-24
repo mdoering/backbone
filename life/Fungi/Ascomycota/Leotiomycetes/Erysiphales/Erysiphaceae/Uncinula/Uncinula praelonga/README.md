@@ -1,5 +1,4 @@
-Uncinula praelonga (S.R. Yu) U. Braun SPECIES
-=======
+# Uncinula praelonga (S.R. Yu) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita calochroa C.M. Simmons, T.W. Henkel & Bas SPECIES
-=======
+# Amanita calochroa C.M. Simmons, T.W. Henkel & Bas SPECIES
 
 #### Status
 ACCEPTED

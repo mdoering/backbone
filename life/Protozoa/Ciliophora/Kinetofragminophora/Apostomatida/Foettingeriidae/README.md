@@ -1,5 +1,4 @@
-Foettingeriidae Chatton, 1911 FAMILY
-=======
+# Foettingeriidae Chatton, 1911 FAMILY
 
 #### Status
 ACCEPTED

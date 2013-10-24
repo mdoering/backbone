@@ -1,5 +1,4 @@
-Colletotrichum zibethinum (Sacc.) Petr. SPECIES
-=======
+# Colletotrichum zibethinum (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

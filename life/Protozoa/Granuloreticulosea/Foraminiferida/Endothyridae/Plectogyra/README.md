@@ -1,5 +1,4 @@
-Plectogyra Zeller, 1950 GENUS
-=======
+# Plectogyra Zeller, 1950 GENUS
 
 #### Status
 ACCEPTED

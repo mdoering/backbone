@@ -1,5 +1,4 @@
-Ceuthospora chamaebuxi Petr. SPECIES
-=======
+# Ceuthospora chamaebuxi Petr. SPECIES
 
 #### Status
 ACCEPTED

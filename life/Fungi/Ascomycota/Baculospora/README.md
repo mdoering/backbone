@@ -1,5 +1,4 @@
-Baculospora Zukal GENUS
-=======
+# Baculospora Zukal GENUS
 
 #### Status
 ACCEPTED

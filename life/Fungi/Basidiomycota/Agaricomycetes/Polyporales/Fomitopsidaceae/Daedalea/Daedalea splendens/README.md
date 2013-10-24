@@ -1,5 +1,4 @@
-Daedalea splendens Lév. SPECIES
-=======
+# Daedalea splendens Lév. SPECIES
 
 #### Status
 ACCEPTED

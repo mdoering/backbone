@@ -1,5 +1,4 @@
-Meliola bougheyana S. Hughes SPECIES
-=======
+# Meliola bougheyana S. Hughes SPECIES
 
 #### Status
 ACCEPTED

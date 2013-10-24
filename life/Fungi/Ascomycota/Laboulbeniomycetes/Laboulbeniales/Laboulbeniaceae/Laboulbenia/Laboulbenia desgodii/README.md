@@ -1,5 +1,4 @@
-Laboulbenia desgodii Speg. SPECIES
-=======
+# Laboulbenia desgodii Speg. SPECIES
 
 #### Status
 ACCEPTED

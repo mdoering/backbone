@@ -1,5 +1,4 @@
-Septoria limoniae Penz. SPECIES
-=======
+# Septoria limoniae Penz. SPECIES
 
 #### Status
 ACCEPTED

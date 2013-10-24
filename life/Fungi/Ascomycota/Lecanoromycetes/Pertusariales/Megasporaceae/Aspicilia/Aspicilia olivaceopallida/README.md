@@ -1,5 +1,4 @@
-Aspicilia olivaceopallida (H. Magn.) SPECIES
-=======
+# Aspicilia olivaceopallida (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

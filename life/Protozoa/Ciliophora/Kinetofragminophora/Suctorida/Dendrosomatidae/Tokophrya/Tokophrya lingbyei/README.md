@@ -1,5 +1,4 @@
-Tokophrya lingbyei SPECIES
-=======
+# Tokophrya lingbyei SPECIES
 
 #### Status
 ACCEPTED

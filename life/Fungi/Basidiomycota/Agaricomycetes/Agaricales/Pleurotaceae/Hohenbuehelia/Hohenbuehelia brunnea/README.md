@@ -1,5 +1,4 @@
-Hohenbuehelia brunnea G. Stev., 1964 SPECIES
-=======
+# Hohenbuehelia brunnea G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

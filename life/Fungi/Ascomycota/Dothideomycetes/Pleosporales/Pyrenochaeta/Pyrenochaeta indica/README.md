@@ -1,14 +1,13 @@
-Phoma indica (T.S. Viswan.) Gruyter & Boerema, 2002 SPECIES
-=======
+# Pyrenochaeta indica T.S. Viswan., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 17(4): 556 (2002)
+Curr. Sci. 26(4): 118 (1957)
 
 #### Original name
 Pyrenochaeta indica T.S. Viswan., 1957

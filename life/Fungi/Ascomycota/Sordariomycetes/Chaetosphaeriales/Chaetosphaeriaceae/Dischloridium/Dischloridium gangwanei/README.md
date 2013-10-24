@@ -1,5 +1,4 @@
-Dischloridium gangwanei Manohar., Kunwar, N.K. Rao & D.K. Agarwal SPECIES
-=======
+# Dischloridium gangwanei Manohar., Kunwar, N.K. Rao & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

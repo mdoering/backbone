@@ -1,5 +1,4 @@
-Hastigerinella Cushman, 1927 GENUS
-=======
+# Hastigerinella Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

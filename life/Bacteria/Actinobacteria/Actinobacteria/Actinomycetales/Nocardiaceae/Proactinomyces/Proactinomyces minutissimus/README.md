@@ -1,5 +1,4 @@
-Proactinomyces minutissimus (Burchardt) Krassiln. SPECIES
-=======
+# Proactinomyces minutissimus (Burchardt) Krassiln. SPECIES
 
 #### Status
 ACCEPTED

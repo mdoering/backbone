@@ -1,5 +1,4 @@
-Polygonium echinatus Ottone, Albanesi, Ortega & Holfeltz, 1999 SPECIES
-=======
+# Polygonium echinatus Ottone, Albanesi, Ortega & Holfeltz, 1999 SPECIES
 
 #### Status
 ACCEPTED

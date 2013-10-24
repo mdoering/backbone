@@ -1,8 +1,7 @@
-Discorbinella rhodiensis (Terquem, 1878) SPECIES
-=======
+# Hanzawaia rhodiensis (Terquem, 1878) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

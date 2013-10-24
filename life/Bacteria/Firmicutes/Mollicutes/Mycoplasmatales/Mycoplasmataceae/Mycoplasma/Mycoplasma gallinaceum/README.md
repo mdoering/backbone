@@ -1,5 +1,4 @@
-Mycoplasma gallinaceum Jordan et al., 1982 SPECIES
-=======
+# Mycoplasma gallinaceum Jordan et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

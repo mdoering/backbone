@@ -1,8 +1,7 @@
-Pseudotriloculina oblonga (Montagu, 1803) SPECIES
-=======
+# Pyrgo oblonga SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

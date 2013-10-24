@@ -1,5 +1,4 @@
-Cetraria fahlunensis f. fahlunensis FORM
-=======
+# Cetraria fahlunensis b minor Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria fahlunensis f. fahlunensis
+Cetraria fahlunensis b minor Schaer.
 
 ### Remarks
 null

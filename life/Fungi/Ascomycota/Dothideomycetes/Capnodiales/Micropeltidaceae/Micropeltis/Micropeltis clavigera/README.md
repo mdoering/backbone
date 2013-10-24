@@ -1,5 +1,4 @@
-Micropeltis clavigera Sacc. SPECIES
-=======
+# Micropeltis clavigera Sacc. SPECIES
 
 #### Status
 ACCEPTED

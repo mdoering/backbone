@@ -1,5 +1,4 @@
-Polyporus bathiei Lloyd SPECIES
-=======
+# Polyporus bathiei Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca ferganensis Tomin ex Schaef. {?} SPECIES
-=======
+# Caloplaca ferganensis Tomin ex Schaef. {?} SPECIES
 
 #### Status
 ACCEPTED

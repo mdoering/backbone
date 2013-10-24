@@ -1,5 +1,4 @@
-Puccinia smilacis Arthur SPECIES
-=======
+# Puccinia smilacis Arthur SPECIES
 
 #### Status
 ACCEPTED

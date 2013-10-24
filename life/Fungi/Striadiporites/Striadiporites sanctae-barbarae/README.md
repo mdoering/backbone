@@ -1,5 +1,4 @@
-Striadiporites sanctae-barbarae Elsik & Janson. SPECIES
-=======
+# Striadiporites sanctae-barbarae Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

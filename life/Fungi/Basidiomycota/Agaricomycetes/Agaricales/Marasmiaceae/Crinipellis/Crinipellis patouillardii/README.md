@@ -1,5 +1,4 @@
-Crinipellis patouillardii Singer SPECIES
-=======
+# Crinipellis patouillardii Singer SPECIES
 
 #### Status
 ACCEPTED

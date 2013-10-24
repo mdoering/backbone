@@ -1,5 +1,4 @@
-Phaeocoriolellus rugosissimus (Torrend) D.A. Reid SPECIES
-=======
+# Phaeocoriolellus rugosissimus (Torrend) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

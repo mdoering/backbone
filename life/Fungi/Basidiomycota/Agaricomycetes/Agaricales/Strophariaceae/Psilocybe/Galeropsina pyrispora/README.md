@@ -1,5 +1,4 @@
-Galeropsina pyrispora Velen. SPECIES
-=======
+# Galeropsina pyrispora Velen. SPECIES
 
 #### Status
 ACCEPTED

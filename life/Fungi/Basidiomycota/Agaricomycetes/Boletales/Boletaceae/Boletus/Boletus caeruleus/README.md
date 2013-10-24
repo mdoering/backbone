@@ -1,5 +1,4 @@
-Boletus caeruleus Fr. SPECIES
-=======
+# Boletus caeruleus Fr. SPECIES
 
 #### Status
 ACCEPTED

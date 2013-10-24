@@ -1,14 +1,13 @@
-Heptameria lunariae (Berk. & Broome) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria lunariae (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 57 (1883)
 
 #### Original name
 Sphaeria lunariae Berk. & Broome, 1859

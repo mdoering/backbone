@@ -1,14 +1,13 @@
-Platygramma hutchinsiae Leight. SPECIES
-=======
+# Enterographa hutchinsiae (Leight.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 13: 393 (1854)
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 315 (1860)
 
 #### Original name
 Platygramma hutchinsiae Leight.

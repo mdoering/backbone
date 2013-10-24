@@ -1,5 +1,4 @@
-Diplodina cardui Hollós SPECIES
-=======
+# Diplodina cardui Hollós SPECIES
 
 #### Status
 ACCEPTED

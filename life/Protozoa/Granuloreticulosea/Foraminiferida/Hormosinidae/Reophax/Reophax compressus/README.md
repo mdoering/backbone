@@ -1,5 +1,4 @@
-Reophax compressus Goes, 1894 SPECIES
-=======
+# Reophax compressus Goes, 1894 SPECIES
 
 #### Status
 ACCEPTED

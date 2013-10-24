@@ -1,14 +1,13 @@
-Leptosphaeria neomaritima R.V. Gessner & Kohlm., 1976 SPECIES
-=======
+# Phaeosphaeria neomaritima (R.V. Gessner & Kohlm.) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 54(17): 2032 (1976)
+Can. J. Bot. 67(5): 1572 (1989)
 
 #### Original name
 Leptosphaeria neomaritima R.V. Gessner & Kohlm., 1976

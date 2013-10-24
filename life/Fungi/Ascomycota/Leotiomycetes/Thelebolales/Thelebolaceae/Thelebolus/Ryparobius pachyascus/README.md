@@ -1,5 +1,4 @@
-Ryparobius pachyascus Zukal ex Rehm, 1896 SPECIES
-=======
+# Ryparobius pachyascus Zukal ex Rehm, 1896 SPECIES
 
 #### Status
 ACCEPTED

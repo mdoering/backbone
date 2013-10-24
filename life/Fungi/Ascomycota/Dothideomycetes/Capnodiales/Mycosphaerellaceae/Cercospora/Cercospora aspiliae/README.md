@@ -1,5 +1,4 @@
-Cercospora aspiliae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora aspiliae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia kitensis (Stirt.) Zahlbr. SPECIES
-=======
+# Buellia kitensis (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

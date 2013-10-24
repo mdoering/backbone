@@ -1,5 +1,4 @@
-Striatotheca pannucea (Wicander & Loeblich, 1977) Sarjeant & Stancliffe SPECIES
-=======
+# Striatotheca pannucea (Wicander & Loeblich, 1977) Sarjeant & Stancliffe SPECIES
 
 #### Status
 ACCEPTED

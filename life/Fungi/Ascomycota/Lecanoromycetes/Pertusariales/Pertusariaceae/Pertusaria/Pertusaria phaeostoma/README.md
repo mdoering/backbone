@@ -1,5 +1,4 @@
-Pertusaria phaeostoma Müll. Arg. SPECIES
-=======
+# Pertusaria phaeostoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

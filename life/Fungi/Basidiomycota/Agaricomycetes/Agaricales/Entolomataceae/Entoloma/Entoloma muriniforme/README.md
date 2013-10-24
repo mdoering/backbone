@@ -1,5 +1,4 @@
-Entoloma muriniforme Murrill SPECIES
-=======
+# Entoloma muriniforme Murrill SPECIES
 
 #### Status
 ACCEPTED

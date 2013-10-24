@@ -1,5 +1,4 @@
-Lecidea melaneima (Vain.) SPECIES
-=======
+# Lecidea melaneima (Vain.) SPECIES
 
 #### Status
 ACCEPTED

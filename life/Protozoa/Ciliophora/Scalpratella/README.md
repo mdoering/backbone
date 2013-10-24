@@ -1,5 +1,4 @@
-Scalpratella Makar'eva, 1979 GENUS
-=======
+# Scalpratella Makar'eva, 1979 GENUS
 
 #### Status
 ACCEPTED

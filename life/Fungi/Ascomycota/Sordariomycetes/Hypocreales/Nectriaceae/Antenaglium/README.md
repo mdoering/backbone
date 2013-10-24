@@ -1,5 +1,4 @@
-Antenaglium GENUS
-=======
+# Antenaglium GENUS
 
 #### Status
 ACCEPTED

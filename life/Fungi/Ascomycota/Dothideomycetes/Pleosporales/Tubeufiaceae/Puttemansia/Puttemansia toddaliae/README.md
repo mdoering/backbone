@@ -1,5 +1,4 @@
-Puttemansia toddaliae (Hansf.) Piroz. SPECIES
-=======
+# Puttemansia toddaliae (Hansf.) Piroz. SPECIES
 
 #### Status
 ACCEPTED

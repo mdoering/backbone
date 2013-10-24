@@ -1,5 +1,4 @@
-Kabatia persica (Petr.) B. Sutton SPECIES
-=======
+# Kabatia persica (Petr.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

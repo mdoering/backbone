@@ -1,5 +1,4 @@
-Chiodecton japonicum Zahlbr. SPECIES
-=======
+# Chiodecton japonicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

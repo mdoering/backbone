@@ -1,5 +1,4 @@
-Physalospora cattleyae Maubl. & Lasnier {?} SPECIES
-=======
+# Physalospora cattleyae Maubl. & Lasnier {?} SPECIES
 
 #### Status
 ACCEPTED

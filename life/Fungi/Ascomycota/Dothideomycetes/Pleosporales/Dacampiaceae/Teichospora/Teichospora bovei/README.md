@@ -1,5 +1,4 @@
-Teichospora bovei Speg. SPECIES
-=======
+# Teichospora bovei Speg. SPECIES
 
 #### Status
 ACCEPTED

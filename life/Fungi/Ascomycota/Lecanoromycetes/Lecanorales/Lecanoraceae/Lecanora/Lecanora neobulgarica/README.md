@@ -1,5 +1,4 @@
-Lecanora neobulgarica Gyeln. SPECIES
-=======
+# Lecanora neobulgarica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

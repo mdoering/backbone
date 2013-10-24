@@ -1,5 +1,4 @@
-Cercospora bauhiniicola J.M. Yen SPECIES
-=======
+# Cercospora bauhiniicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

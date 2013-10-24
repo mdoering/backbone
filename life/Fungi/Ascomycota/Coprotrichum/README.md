@@ -1,5 +1,4 @@
-Coprotrichum GENUS
-=======
+# Coprotrichum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeiospora palustris A.V. Simakova, T.F. Pankova & I.V. Issi SPECIES
-=======
+# Dimeiospora palustris A.V. Simakova, T.F. Pankova & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

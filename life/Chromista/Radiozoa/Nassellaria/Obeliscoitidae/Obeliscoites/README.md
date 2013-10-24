@@ -1,5 +1,4 @@
-Obeliscoites O'Dogherty, 1994 GENUS
-=======
+# Obeliscoites O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

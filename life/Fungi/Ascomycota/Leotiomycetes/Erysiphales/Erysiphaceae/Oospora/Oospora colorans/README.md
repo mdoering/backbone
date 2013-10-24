@@ -1,5 +1,4 @@
-Oospora colorans J.F.H. Beyma, 1940 SPECIES
-=======
+# Oospora colorans J.F.H. Beyma, 1940 SPECIES
 
 #### Status
 ACCEPTED

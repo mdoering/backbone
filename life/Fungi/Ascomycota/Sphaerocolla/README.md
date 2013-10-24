@@ -1,5 +1,4 @@
-Sphaerocolla P. Karst. GENUS
-=======
+# Sphaerocolla P. Karst. GENUS
 
 #### Status
 ACCEPTED

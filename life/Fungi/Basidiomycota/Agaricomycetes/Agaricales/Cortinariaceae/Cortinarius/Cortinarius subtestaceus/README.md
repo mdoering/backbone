@@ -1,5 +1,4 @@
-Cortinarius subtestaceus A.H. Sm. SPECIES
-=======
+# Cortinarius subtestaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

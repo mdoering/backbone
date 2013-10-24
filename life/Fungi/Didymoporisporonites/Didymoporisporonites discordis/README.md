@@ -1,5 +1,4 @@
-Didymoporisporonites discordis Kalgutkar SPECIES
-=======
+# Didymoporisporonites discordis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

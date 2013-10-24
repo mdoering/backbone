@@ -1,5 +1,4 @@
-Arthonia circumtincta Müll. Arg. SPECIES
-=======
+# Arthonia circumtincta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

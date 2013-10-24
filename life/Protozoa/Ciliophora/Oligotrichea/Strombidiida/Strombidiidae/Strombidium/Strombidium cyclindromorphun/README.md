@@ -1,5 +1,4 @@
-Strombidium cyclindromorphun SPECIES
-=======
+# Strombidium cyclindromorphun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces subradiatus Corner SPECIES
-=======
+# Tyromyces subradiatus Corner SPECIES
 
 #### Status
 ACCEPTED

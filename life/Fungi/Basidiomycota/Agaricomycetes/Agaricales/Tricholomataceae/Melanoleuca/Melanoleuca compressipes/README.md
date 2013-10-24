@@ -1,5 +1,4 @@
-Melanoleuca compressipes Murrill SPECIES
-=======
+# Melanoleuca compressipes Murrill SPECIES
 
 #### Status
 ACCEPTED

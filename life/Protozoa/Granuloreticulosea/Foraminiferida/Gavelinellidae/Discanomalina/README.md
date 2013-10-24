@@ -1,5 +1,4 @@
-Discanomalina Asano, 1951 GENUS
-=======
+# Discanomalina Asano, 1951 GENUS
 
 #### Status
 ACCEPTED

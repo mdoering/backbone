@@ -1,5 +1,4 @@
-Mamiania alni G.E. Thomps. & J.H. Mill. SPECIES
-=======
+# Mamiania alni G.E. Thomps. & J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

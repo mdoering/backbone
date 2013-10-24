@@ -1,5 +1,4 @@
-Aspicilia dicksonii (Ach.) Maheu & A. Gillet SPECIES
-=======
+# Aspicilia dicksonii (Ach.) Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

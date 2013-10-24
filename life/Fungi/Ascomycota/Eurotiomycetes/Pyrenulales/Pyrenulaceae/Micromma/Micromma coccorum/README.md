@@ -1,5 +1,4 @@
-Micromma coccorum A. Massal. SPECIES
-=======
+# Micromma coccorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

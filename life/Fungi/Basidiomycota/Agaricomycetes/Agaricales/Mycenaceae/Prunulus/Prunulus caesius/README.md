@@ -1,5 +1,4 @@
-Prunulus caesius (Peck) Murrill SPECIES
-=======
+# Prunulus caesius (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonula mori Sacc. & Voglino SPECIES
-=======
+# Hendersonula mori Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha werneri Faurel, Ozenda & Schotter SPECIES
-=======
+# Opegrapha werneri Faurel, Ozenda & Schotter SPECIES
 
 #### Status
 ACCEPTED

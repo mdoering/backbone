@@ -1,5 +1,4 @@
-Malacaria ugandensis Hansf. SPECIES
-=======
+# Malacaria ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

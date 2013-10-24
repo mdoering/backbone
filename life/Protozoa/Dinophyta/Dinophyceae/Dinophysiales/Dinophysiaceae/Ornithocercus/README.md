@@ -1,14 +1,13 @@
-Ornithocerus Fricke, 1902 GENUS
-=======
+# Ornithocercus Stein, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verz. Atlas Diatom. , 55.
+Org. Infus. , 3 (2), 26.
 
 #### Original name
 null

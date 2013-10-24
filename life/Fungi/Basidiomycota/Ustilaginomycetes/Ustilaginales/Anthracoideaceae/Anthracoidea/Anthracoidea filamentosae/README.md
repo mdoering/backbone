@@ -1,5 +1,4 @@
-Anthracoidea filamentosae L. Guo SPECIES
-=======
+# Anthracoidea filamentosae L. Guo SPECIES
 
 #### Status
 ACCEPTED

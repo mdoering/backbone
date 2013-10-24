@@ -1,5 +1,4 @@
-Loma dimorpha Loubès, Maurand, Gasc, De Buron & Barral, 1984 SPECIES
-=======
+# Loma dimorpha Loubès, Maurand, Gasc, De Buron & Barral, 1984 SPECIES
 
 #### Status
 ACCEPTED

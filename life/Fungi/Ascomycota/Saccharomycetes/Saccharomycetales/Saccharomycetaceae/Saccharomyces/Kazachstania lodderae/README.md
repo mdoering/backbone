@@ -1,5 +1,4 @@
-Kazachstania lodderae (van der Walt & Tscheuschner) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania lodderae (van der Walt & Tscheuschner) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stempellia milleri E.I. Hazard & T. Fukuda SPECIES
-=======
+# Stempellia milleri E.I. Hazard & T. Fukuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Horakiella clelandii (Rodway) Castellano & Trappe, 1992 SPECIES
-=======
+# Horakiella clelandii (Rodway) Castellano & Trappe, 1992 SPECIES
 
 #### Status
 ACCEPTED

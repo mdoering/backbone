@@ -1,5 +1,4 @@
-Uredo emiliae-scabrae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Uredo emiliae-scabrae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

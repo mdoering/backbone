@@ -1,5 +1,4 @@
-Puccinia dampierae P. Syd. & Syd. SPECIES
-=======
+# Puccinia dampierae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semantis gracilis Popofsky, 1908 SPECIES
-=======
+# Semantis gracilis Popofsky, 1908 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subfastigiella McCulloch, 1977 GENUS
-=======
+# Subfastigiella McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

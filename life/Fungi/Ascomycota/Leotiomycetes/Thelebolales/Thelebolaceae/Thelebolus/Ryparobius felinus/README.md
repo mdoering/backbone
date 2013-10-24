@@ -1,5 +1,4 @@
-Ryparobius felinus Boud. SPECIES
-=======
+# Ryparobius felinus Boud. SPECIES
 
 #### Status
 ACCEPTED

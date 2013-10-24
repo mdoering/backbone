@@ -1,5 +1,4 @@
-Phaeographina platygrammodes C.W. Dodge SPECIES
-=======
+# Phaeographina platygrammodes C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

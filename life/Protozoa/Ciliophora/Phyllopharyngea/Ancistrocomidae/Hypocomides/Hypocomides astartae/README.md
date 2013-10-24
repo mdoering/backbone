@@ -1,5 +1,4 @@
-Hypocomides astartae Fenchel, 1965 SPECIES
-=======
+# Hypocomides astartae Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proactinomyces atlanticus Humm & Shephard SPECIES
-=======
+# Proactinomyces atlanticus Humm & Shephard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora luridopallens (Vain.) Oxner SPECIES
-=======
+# Psora luridopallens (Vain.) Oxner SPECIES
 
 #### Status
 ACCEPTED

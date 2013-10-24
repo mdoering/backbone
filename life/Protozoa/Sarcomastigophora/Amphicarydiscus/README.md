@@ -1,5 +1,4 @@
-Amphicarydiscus Lipman, 1972 GENUS
-=======
+# Amphicarydiscus Lipman, 1972 GENUS
 
 #### Status
 ACCEPTED

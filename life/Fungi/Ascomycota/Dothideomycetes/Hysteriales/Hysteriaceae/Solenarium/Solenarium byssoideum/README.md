@@ -1,5 +1,4 @@
-Solenarium byssoideum Spreng. SPECIES
-=======
+# Solenarium byssoideum Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus tomentellus Fr. SPECIES
-=======
+# Agaricus tomentellus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolicotrichum heveae Griffon & Maubl. SPECIES
-=======
+# Scolicotrichum heveae Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

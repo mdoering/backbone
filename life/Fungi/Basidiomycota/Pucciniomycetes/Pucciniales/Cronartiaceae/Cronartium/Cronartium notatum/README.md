@@ -1,5 +1,4 @@
-Cronartium notatum Arthur & J.R. Johnst. SPECIES
-=======
+# Cronartium notatum Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

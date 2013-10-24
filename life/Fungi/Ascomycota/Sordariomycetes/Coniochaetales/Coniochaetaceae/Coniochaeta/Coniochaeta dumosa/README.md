@@ -1,5 +1,4 @@
-Coniochaeta dumosa Kamiya, Uchiy. & Udagawa SPECIES
-=======
+# Coniochaeta dumosa Kamiya, Uchiy. & Udagawa SPECIES
 
 #### Status
 ACCEPTED

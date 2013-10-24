@@ -1,5 +1,4 @@
-Sphaeria columnaris Jungh. SPECIES
-=======
+# Sphaeria columnaris Jungh. SPECIES
 
 #### Status
 ACCEPTED

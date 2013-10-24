@@ -1,5 +1,4 @@
-Opegrapha fuscovirens Müll. Arg. SPECIES
-=======
+# Opegrapha fuscovirens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

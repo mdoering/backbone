@@ -1,5 +1,4 @@
-Barkerinidae Smout, 1956 FAMILY
-=======
+# Barkerinidae Smout, 1956 FAMILY
 
 #### Status
 ACCEPTED

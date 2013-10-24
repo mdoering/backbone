@@ -1,5 +1,4 @@
-Aspicilia subseducta (Nyl.) Hue SPECIES
-=======
+# Aspicilia subseducta (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

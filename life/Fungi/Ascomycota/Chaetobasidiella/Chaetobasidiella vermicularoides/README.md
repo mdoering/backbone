@@ -1,17 +1,16 @@
-Chaetobasidiella vermicularioidea Höhn. SPECIES
-=======
+# Chaetobasidiella vermicularoides Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 36: (1918)
 
 #### Original name
-Chaetobasidiella vermicularioidea Höhn.
+Chaetobasidiella vermicularoides Höhn.
 
 ### Remarks
 null

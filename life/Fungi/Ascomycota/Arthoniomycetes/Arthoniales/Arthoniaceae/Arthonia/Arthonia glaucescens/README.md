@@ -1,5 +1,4 @@
-Arthonia glaucescens Nyl. ex Willey SPECIES
-=======
+# Arthonia glaucescens Nyl. ex Willey SPECIES
 
 #### Status
 ACCEPTED

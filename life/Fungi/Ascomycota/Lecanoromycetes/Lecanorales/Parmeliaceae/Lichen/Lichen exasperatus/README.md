@@ -1,5 +1,4 @@
-Lichen exasperatus (Hoffm.) J.F. Gmel. SPECIES
-=======
+# Lichen exasperatus (Hoffm.) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

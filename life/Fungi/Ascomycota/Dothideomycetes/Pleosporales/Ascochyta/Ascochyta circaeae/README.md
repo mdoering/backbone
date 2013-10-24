@@ -1,5 +1,4 @@
-Ascochyta circaeae Bubák & Picb. SPECIES
-=======
+# Ascochyta circaeae Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

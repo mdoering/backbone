@@ -1,5 +1,4 @@
-Psilodiporites ellipsoideus Sal.-Cheb. & Locq. SPECIES
-=======
+# Psilodiporites ellipsoideus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

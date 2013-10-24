@@ -1,5 +1,4 @@
-Cercospora stahlianthi Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Cercospora stahlianthi Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

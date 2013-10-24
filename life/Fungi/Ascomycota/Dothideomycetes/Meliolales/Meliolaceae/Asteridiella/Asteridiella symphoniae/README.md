@@ -1,5 +1,4 @@
-Asteridiella symphoniae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella symphoniae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

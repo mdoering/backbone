@@ -1,5 +1,4 @@
-Valsa innumerabilis Peck SPECIES
-=======
+# Valsa innumerabilis Peck SPECIES
 
 #### Status
 ACCEPTED

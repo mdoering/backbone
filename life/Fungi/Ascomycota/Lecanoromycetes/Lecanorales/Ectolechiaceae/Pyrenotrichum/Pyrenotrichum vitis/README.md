@@ -1,5 +1,4 @@
-Pyrenotrichum vitis Schulzer SPECIES
-=======
+# Pyrenotrichum vitis Schulzer SPECIES
 
 #### Status
 ACCEPTED

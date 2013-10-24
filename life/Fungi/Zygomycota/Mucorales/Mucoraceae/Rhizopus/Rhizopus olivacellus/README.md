@@ -1,5 +1,4 @@
-Rhizopus olivacellus (Speg.) Naumov SPECIES
-=======
+# Rhizopus olivacellus (Speg.) Naumov SPECIES
 
 #### Status
 ACCEPTED

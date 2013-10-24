@@ -1,17 +1,16 @@
-Tylopilus montoyai Singer & J. García SPECIES
-=======
+# Tylopilus montoyae Singer & J. García SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Singer, García & Gómez, Beih. Nova Hedwigia 102: 19 (1991)
 
 #### Original name
-Tylopilus montoyai Singer & J. García
+Tylopilus montoyae Singer & J. García
 
 ### Remarks
 null

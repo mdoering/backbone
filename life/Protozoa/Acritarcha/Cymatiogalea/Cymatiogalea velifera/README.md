@@ -1,5 +1,4 @@
-Cymatiogalea velifera (Downie, 1958) Martin, 1969 SPECIES
-=======
+# Cymatiogalea velifera (Downie, 1958) Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

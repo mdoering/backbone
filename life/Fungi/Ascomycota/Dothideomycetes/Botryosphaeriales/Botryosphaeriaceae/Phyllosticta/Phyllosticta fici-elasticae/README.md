@@ -1,5 +1,4 @@
-Phyllosticta fici-elasticae Nicolas & Aggéry SPECIES
-=======
+# Phyllosticta fici-elasticae Nicolas & Aggéry SPECIES
 
 #### Status
 ACCEPTED

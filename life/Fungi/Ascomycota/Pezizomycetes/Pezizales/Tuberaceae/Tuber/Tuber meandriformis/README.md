@@ -1,5 +1,4 @@
-Tuber meandriformis (Vittad.) Massee SPECIES
-=======
+# Tuber meandriformis (Vittad.) Massee SPECIES
 
 #### Status
 ACCEPTED

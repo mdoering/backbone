@@ -1,5 +1,4 @@
-Helminthosporiomyces G.F. Sepúlveda, Pereira-Carv. & Dianese GENUS
-=======
+# Helminthosporiomyces G.F. Sepúlveda, Pereira-Carv. & Dianese GENUS
 
 #### Status
 ACCEPTED

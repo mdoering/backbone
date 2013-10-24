@@ -1,5 +1,4 @@
-Puccinia wahlenbergiae G. Cunn., 1924 SPECIES
-=======
+# Puccinia wahlenbergiae G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

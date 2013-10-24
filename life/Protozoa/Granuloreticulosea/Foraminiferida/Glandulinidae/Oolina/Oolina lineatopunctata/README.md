@@ -1,5 +1,4 @@
-Oolina lineatopunctata SPECIES
-=======
+# Oolina lineatopunctata SPECIES
 
 #### Status
 ACCEPTED

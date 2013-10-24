@@ -1,5 +1,4 @@
-Phoma sojicola (Abramov) Kövics, Gruyter & Aa, 1999 SPECIES
-=======
+# Phoma sojicola (Abramov) Kövics, Gruyter & Aa, 1999 SPECIES
 
 #### Status
 ACCEPTED

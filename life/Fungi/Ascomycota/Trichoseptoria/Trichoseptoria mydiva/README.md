@@ -1,5 +1,4 @@
-Trichoseptoria mydiva Saccas SPECIES
-=======
+# Trichoseptoria mydiva Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoicomyces zealandicus Thaxt., 1918 SPECIES
-=======
+# Monoicomyces zealandicus Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

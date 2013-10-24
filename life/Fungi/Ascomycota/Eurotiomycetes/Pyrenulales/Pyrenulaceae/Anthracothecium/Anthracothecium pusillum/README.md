@@ -1,5 +1,4 @@
-Anthracothecium pusillum (Ach.) Müll. Arg. SPECIES
-=======
+# Anthracothecium pusillum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

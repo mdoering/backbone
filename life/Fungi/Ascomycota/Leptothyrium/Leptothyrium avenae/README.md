@@ -1,5 +1,4 @@
-Leptothyrium avenae Tehon SPECIES
-=======
+# Leptothyrium avenae Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiophloea xylogena (Müll. Arg.) Riedl SPECIES
-=======
+# Leiophloea xylogena (Müll. Arg.) Riedl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula adustoides R. Heim SPECIES
-=======
+# Russula adustoides R. Heim SPECIES
 
 #### Status
 ACCEPTED

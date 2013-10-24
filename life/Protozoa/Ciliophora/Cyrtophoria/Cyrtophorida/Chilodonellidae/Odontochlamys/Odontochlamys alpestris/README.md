@@ -1,5 +1,4 @@
-Odontochlamys alpestris subsp. alpestris Foissner, 1981 SUBSPECIES
-=======
+# Odontochlamys alpestris Foissner SPECIES
 
 #### Status
 ACCEPTED

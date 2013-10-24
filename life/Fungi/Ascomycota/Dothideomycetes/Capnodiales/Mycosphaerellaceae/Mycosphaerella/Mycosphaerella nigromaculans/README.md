@@ -1,5 +1,4 @@
-Mycosphaerella nigromaculans Shear SPECIES
-=======
+# Mycosphaerella nigromaculans Shear SPECIES
 
 #### Status
 ACCEPTED

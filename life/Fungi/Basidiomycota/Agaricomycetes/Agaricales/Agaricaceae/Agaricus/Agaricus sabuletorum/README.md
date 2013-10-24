@@ -1,5 +1,4 @@
-Agaricus sabuletorum Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus sabuletorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

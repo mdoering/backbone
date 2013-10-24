@@ -1,5 +1,4 @@
-Uromyces toxicodendri Berk. & Ravenel SPECIES
-=======
+# Uromyces toxicodendri Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

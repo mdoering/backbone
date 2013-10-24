@@ -1,5 +1,4 @@
-Macabuna qualeae Buriticá & J.F. Hennen, 1998 SPECIES
-=======
+# Macabuna qualeae Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
 ACCEPTED

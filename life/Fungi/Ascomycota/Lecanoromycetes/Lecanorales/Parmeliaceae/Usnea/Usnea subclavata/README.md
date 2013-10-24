@@ -1,5 +1,4 @@
-Usnea subclavata SPECIES
-=======
+# Usnea subclavata SPECIES
 
 #### Status
 ACCEPTED

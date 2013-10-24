@@ -1,5 +1,4 @@
-Botrytis albidocaesia Boud. SPECIES
-=======
+# Botrytis albidocaesia Boud. SPECIES
 
 #### Status
 ACCEPTED

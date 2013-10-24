@@ -1,5 +1,4 @@
-Ramariopsis simplex R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis simplex R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

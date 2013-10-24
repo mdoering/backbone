@@ -1,5 +1,4 @@
-Lithocia harrimannii (Ach.) Gray SPECIES
-=======
+# Lithocia harrimannii (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

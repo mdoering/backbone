@@ -1,5 +1,4 @@
-Psathyrella odorata Sacc. SPECIES
-=======
+# Psathyrella odorata Sacc. SPECIES
 
 #### Status
 ACCEPTED

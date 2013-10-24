@@ -1,5 +1,4 @@
-Microsporum ramos Horta SPECIES
-=======
+# Microsporum ramos Horta SPECIES
 
 #### Status
 ACCEPTED

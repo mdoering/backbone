@@ -1,5 +1,4 @@
-Sphaeronaema pseudoplatani Lind SPECIES
-=======
+# Sphaeronaema pseudoplatani Lind SPECIES
 
 #### Status
 ACCEPTED

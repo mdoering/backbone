@@ -1,5 +1,4 @@
-Spiniferomonas bourrellii Takahashi, 1973 SPECIES
-=======
+# Spiniferomonas bourrellii Takahashi, 1973 SPECIES
 
 #### Status
 ACCEPTED

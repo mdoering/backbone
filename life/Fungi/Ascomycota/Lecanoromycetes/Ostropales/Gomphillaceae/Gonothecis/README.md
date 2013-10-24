@@ -1,5 +1,4 @@
-Gonothecis GENUS
-=======
+# Gonothecis GENUS
 
 #### Status
 ACCEPTED

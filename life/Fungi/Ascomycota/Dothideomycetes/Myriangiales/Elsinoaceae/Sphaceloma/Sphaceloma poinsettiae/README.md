@@ -1,5 +1,4 @@
-Sphaceloma poinsettiae Jenkins & Ruehle, 1942 SPECIES
-=======
+# Sphaceloma poinsettiae Jenkins & Ruehle, 1942 SPECIES
 
 #### Status
 ACCEPTED

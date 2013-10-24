@@ -1,5 +1,4 @@
-Cercospora medicaginis-lupulinae Munjal, Lall & Chona SPECIES
-=======
+# Cercospora medicaginis-lupulinae Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

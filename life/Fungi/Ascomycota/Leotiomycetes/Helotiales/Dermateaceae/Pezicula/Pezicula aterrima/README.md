@@ -1,5 +1,4 @@
-Pezicula aterrima Fuckel SPECIES
-=======
+# Pezicula aterrima Fuckel SPECIES
 
 #### Status
 ACCEPTED

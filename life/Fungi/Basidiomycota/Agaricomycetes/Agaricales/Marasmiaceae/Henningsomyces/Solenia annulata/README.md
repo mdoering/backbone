@@ -1,5 +1,4 @@
-Solenia annulata (Holmsk.) Fr. SPECIES
-=======
+# Solenia annulata (Holmsk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

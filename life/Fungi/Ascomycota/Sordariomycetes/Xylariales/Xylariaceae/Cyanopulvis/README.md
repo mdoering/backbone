@@ -1,5 +1,4 @@
-Cyanopulvis J. Fröhl. & K.D. Hyde GENUS
-=======
+# Cyanopulvis J. Fröhl. & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe dulcidula (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Clitocybe dulcidula (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

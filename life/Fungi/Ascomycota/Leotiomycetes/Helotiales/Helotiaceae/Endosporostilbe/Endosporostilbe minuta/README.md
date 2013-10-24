@@ -1,5 +1,4 @@
-Endosporostilbe minuta Rikhy, Mukerji & G. Malhotra SPECIES
-=======
+# Endosporostilbe minuta Rikhy, Mukerji & G. Malhotra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lebretoniana Sacc. & Roum. SPECIES
-=======
+# Septoria lebretoniana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

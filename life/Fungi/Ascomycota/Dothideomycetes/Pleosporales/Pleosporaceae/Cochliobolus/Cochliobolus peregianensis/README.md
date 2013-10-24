@@ -1,5 +1,4 @@
-Cochliobolus peregianensis Alcorn, 1982 SPECIES
-=======
+# Cochliobolus peregianensis Alcorn, 1982 SPECIES
 
 #### Status
 ACCEPTED

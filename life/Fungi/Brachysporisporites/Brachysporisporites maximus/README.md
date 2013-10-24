@@ -1,5 +1,4 @@
-Brachysporisporites maximus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Brachysporisporites maximus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

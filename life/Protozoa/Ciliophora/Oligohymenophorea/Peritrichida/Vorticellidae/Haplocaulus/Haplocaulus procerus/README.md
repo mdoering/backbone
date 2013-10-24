@@ -1,5 +1,4 @@
-Haplocaulus procerus (Nenninger, 1948) Stiller, 1971 SPECIES
-=======
+# Haplocaulus procerus (Nenninger, 1948) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

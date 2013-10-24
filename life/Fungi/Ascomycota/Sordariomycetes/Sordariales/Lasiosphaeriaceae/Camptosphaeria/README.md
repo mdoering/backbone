@@ -1,5 +1,4 @@
-Camptosphaeria Fuckel GENUS
-=======
+# Camptosphaeria Fuckel GENUS
 
 #### Status
 ACCEPTED

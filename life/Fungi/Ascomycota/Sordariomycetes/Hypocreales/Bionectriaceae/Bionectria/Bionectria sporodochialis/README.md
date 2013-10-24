@@ -1,5 +1,4 @@
-Bionectria sporodochialis Schroers SPECIES
-=======
+# Bionectria sporodochialis Schroers SPECIES
 
 #### Status
 ACCEPTED

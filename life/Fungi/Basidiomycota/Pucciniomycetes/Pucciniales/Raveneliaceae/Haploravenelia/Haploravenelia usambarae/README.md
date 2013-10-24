@@ -1,5 +1,4 @@
-Haploravenelia usambarae (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Haploravenelia usambarae (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

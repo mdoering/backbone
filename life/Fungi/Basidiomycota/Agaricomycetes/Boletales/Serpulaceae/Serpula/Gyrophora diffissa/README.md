@@ -1,5 +1,4 @@
-Gyrophora diffissa (Nyl.) Nyl. SPECIES
-=======
+# Gyrophora diffissa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

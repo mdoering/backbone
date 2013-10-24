@@ -1,5 +1,4 @@
-Shewanella loihica Gao et al., 2006 SPECIES
-=======
+# Shewanella loihica Gao et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

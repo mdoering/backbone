@@ -1,17 +1,16 @@
-Polyporus vossii Kalchbr., 1879 SPECIES
-=======
+# Polyporus lepideus Fr., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 29: 689 (1879)
+Observ. mycol. (Havniae) 2: 256 (1818)
 
 #### Original name
-Polyporus vossii Kalchbr., 1879
+Polyporus lepideus Fr., 1818
 
 ### Remarks
 null

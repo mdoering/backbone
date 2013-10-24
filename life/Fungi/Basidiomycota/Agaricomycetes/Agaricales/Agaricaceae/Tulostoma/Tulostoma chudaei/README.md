@@ -1,5 +1,4 @@
-Tulostoma chudaei Pat. SPECIES
-=======
+# Tulostoma chudaei Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea porphyromelaena Vain. SPECIES
-=======
+# Lecidea porphyromelaena Vain. SPECIES
 
 #### Status
 ACCEPTED

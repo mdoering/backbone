@@ -1,5 +1,4 @@
-Gomphidius largus O.K. Mill. SPECIES
-=======
+# Gomphidius largus O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

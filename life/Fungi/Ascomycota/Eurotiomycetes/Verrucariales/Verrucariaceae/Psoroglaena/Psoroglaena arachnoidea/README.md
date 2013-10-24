@@ -1,5 +1,4 @@
-Psoroglaena arachnoidea Herrera-Camp. & Lücking SPECIES
-=======
+# Psoroglaena arachnoidea Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

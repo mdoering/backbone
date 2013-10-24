@@ -1,5 +1,4 @@
-Agaricus gigasporus Cooke & Massee SPECIES
-=======
+# Agaricus gigasporus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

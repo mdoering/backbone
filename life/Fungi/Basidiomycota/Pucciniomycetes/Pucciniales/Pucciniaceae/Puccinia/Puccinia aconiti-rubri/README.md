@@ -1,17 +1,16 @@
-Puccinia aconiti-rubrae Lüdi SPECIES
-=======
+# Puccinia aconiti-rubri Lüdi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. naturf. Ges. Bern 208 (1918)
 
 #### Original name
-Puccinia aconiti-rubrae Lüdi
+Puccinia aconiti-rubri Lüdi
 
 ### Remarks
 null

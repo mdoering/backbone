@@ -1,5 +1,4 @@
-Rhabdostyla pristinis SPECIES
-=======
+# Rhabdostyla pristinis SPECIES
 
 #### Status
 ACCEPTED

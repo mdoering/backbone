@@ -1,5 +1,4 @@
-Sporotrichum acuminatum Lurie SPECIES
-=======
+# Sporotrichum acuminatum Lurie SPECIES
 
 #### Status
 ACCEPTED

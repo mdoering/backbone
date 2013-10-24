@@ -1,5 +1,4 @@
-Capnodium brasiliense Puttemans SPECIES
-=======
+# Capnodium brasiliense Puttemans SPECIES
 
 #### Status
 ACCEPTED

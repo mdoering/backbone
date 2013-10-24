@@ -1,5 +1,4 @@
-Entoloma parasericeum E. Horak, 2008 SPECIES
-=======
+# Entoloma parasericeum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

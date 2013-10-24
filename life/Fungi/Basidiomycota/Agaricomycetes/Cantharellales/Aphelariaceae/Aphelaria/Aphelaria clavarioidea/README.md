@@ -1,5 +1,4 @@
-Aphelaria clavarioidea (Pat.) Corner SPECIES
-=======
+# Aphelaria clavarioidea (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

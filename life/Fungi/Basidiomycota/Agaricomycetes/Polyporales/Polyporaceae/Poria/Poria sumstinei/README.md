@@ -1,5 +1,4 @@
-Poria sumstinei Seaver SPECIES
-=======
+# Poria sumstinei Seaver SPECIES
 
 #### Status
 ACCEPTED

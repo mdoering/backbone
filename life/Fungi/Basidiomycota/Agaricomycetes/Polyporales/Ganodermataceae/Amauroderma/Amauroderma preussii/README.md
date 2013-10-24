@@ -1,17 +1,16 @@
-Polyporus zambesianus Lloyd, 1912 SPECIES
-=======
+# Amauroderma preussii (Henn.) Steyaert, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 3 (Syn. Stip. Polyporoids) 128 (1912)
+Persoonia 7(1): 107 (1972)
 
 #### Original name
-Polyporus zambesianus Lloyd, 1912
+Ganoderma preussii Henn., 1891
 
 ### Remarks
 null

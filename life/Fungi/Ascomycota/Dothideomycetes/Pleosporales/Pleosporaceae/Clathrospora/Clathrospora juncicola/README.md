@@ -1,5 +1,4 @@
-Clathrospora juncicola (Ellis & Everh.) Wehm. SPECIES
-=======
+# Clathrospora juncicola (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

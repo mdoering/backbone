@@ -1,5 +1,4 @@
-Oospora poncetii (Verdun) Sartory SPECIES
-=======
+# Oospora poncetii (Verdun) Sartory SPECIES
 
 #### Status
 ACCEPTED

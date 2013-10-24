@@ -1,5 +1,4 @@
-Leptonia cyanea (Pers.) Mazzer SPECIES
-=======
+# Leptonia cyanea (Pers.) Mazzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia lignicola Vain. SPECIES
-=======
+# Arthonia lignicola Vain. SPECIES
 
 #### Status
 ACCEPTED

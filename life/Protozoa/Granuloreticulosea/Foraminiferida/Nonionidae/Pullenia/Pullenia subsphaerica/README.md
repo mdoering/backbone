@@ -1,5 +1,4 @@
-Pullenia subsphaerica Parr, 1950 SPECIES
-=======
+# Pullenia subsphaerica Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED

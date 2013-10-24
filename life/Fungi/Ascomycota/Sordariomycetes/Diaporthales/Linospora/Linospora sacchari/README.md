@@ -1,5 +1,4 @@
-Linospora sacchari Av.-Saccá SPECIES
-=======
+# Linospora sacchari Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

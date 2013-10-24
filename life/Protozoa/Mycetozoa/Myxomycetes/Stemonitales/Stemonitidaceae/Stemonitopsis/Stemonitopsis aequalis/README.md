@@ -1,14 +1,13 @@
-Comatricha nigra var. aequalis (Peck) Sturgis VARIETY
-=======
+# Stemonitopsis aequalis (Peck) Y. Yamam., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Colorado Coll. Stud. Sci. Ser. 12: 34 (1907)
+The Myxomycete Biota of Japan (Tokyo) 625 (1998)
 
 #### Original name
 Comatricha aequalis Peck, 1879

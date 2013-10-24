@@ -1,5 +1,4 @@
-Dothidotthia scabra Syd. SPECIES
-=======
+# Dothidotthia scabra Syd. SPECIES
 
 #### Status
 ACCEPTED

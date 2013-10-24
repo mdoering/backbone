@@ -1,5 +1,4 @@
-Discocyphella ciliata Henn. SPECIES
-=======
+# Discocyphella ciliata Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria californica Dibben SPECIES
-=======
+# Pertusaria californica Dibben SPECIES
 
 #### Status
 ACCEPTED

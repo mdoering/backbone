@@ -1,5 +1,4 @@
-Septoria noctiflorae Ellis & Kellerm. SPECIES
-=======
+# Septoria noctiflorae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

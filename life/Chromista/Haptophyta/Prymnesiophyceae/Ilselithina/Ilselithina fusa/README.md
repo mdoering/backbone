@@ -1,5 +1,4 @@
-Ilselithina fusa Roth, 1970 SPECIES
-=======
+# Ilselithina fusa Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe pintureaui Duchemin SPECIES
-=======
+# Inocybe pintureaui Duchemin SPECIES
 
 #### Status
 ACCEPTED

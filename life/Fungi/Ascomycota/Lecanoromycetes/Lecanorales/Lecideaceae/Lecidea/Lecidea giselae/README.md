@@ -1,5 +1,4 @@
-Lecidea giselae Zahlbr. SPECIES
-=======
+# Lecidea giselae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

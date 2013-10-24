@@ -1,5 +1,4 @@
-Verrucaria petrolepidea Nyl. SPECIES
-=======
+# Verrucaria petrolepidea Nyl. SPECIES
 
 #### Status
 ACCEPTED

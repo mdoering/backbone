@@ -1,5 +1,4 @@
-Vorticella succollata Müller, 1786 SPECIES
-=======
+# Vorticella succollata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

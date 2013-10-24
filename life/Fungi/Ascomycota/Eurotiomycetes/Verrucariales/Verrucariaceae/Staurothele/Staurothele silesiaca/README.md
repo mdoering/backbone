@@ -1,5 +1,4 @@
-Staurothele silesiaca (A. Massal.) Zschacke SPECIES
-=======
+# Staurothele silesiaca (A. Massal.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

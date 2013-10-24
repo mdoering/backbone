@@ -1,5 +1,4 @@
-Trametes sclerodermea Fr. SPECIES
-=======
+# Trametes sclerodermea Fr. SPECIES
 
 #### Status
 ACCEPTED

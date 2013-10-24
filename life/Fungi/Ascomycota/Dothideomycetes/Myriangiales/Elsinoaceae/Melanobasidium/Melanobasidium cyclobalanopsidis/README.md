@@ -1,17 +1,16 @@
-Melanobasidium cyclobalanopsis Sawada SPECIES
-=======
+# Melanobasidium cyclobalanopsidis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 231 (1959)
 
 #### Original name
-Melanobasidium cyclobalanopsis Sawada
+Melanobasidium cyclobalanopsidis Sawada
 
 ### Remarks
 null

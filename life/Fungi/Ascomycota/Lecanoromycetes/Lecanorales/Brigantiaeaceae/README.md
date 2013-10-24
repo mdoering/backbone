@@ -1,17 +1,16 @@
-Brigantiaceae FAMILY
-=======
+# Brigantiaeaceae Hafellner & Bellem. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 35: 246 (1982)
 
 #### Original name
-null
+Brigantiaeaceae Hafellner & Bellem.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora alyxiae Pat., 1896 SPECIES
-=======
+# Phyllachora alyxiae Pat., 1896 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Caldesia saltuaria Teng SPECIES
-=======
+# Caldesia saltuaria Teng SPECIES
 
 #### Status
 ACCEPTED

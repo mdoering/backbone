@@ -1,5 +1,4 @@
-Alectoria olivacea var. olivacea VARIETY
-=======
+# Alectoria olivacea Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria olivacea var. olivacea
+Alectoria olivacea Räsänen
 
 ### Remarks
 null

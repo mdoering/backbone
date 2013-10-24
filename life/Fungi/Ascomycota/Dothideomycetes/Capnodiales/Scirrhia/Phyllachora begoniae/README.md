@@ -1,5 +1,4 @@
-Phyllachora begoniae Pat., 1895 SPECIES
-=======
+# Phyllachora begoniae Pat., 1895 SPECIES
 
 #### Status
 DOUBTFUL

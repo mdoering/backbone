@@ -1,5 +1,4 @@
-Meliola mitragynae-tubulosae Hosag. & Manojk. SPECIES
-=======
+# Meliola mitragynae-tubulosae Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

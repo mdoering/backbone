@@ -1,5 +1,4 @@
-Parmelia atra ß atra (Huds.) Ach. SPECIES
-=======
+# Parmelia atra ß atra (Huds.) Ach. SPECIES
 
 #### Status
 ACCEPTED

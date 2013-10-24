@@ -1,5 +1,4 @@
-Sphaeria proxima Saporta SPECIES
-=======
+# Sphaeria proxima Saporta SPECIES
 
 #### Status
 ACCEPTED

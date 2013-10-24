@@ -1,5 +1,4 @@
-Buellia zabotica (Körb.) Räsänen SPECIES
-=======
+# Buellia zabotica (Körb.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanops lanaris (Welw. & Curr.) Weese SPECIES
-=======
+# Melanops lanaris (Welw. & Curr.) Weese SPECIES
 
 #### Status
 ACCEPTED

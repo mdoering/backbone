@@ -1,5 +1,4 @@
-Rickettsia felis Bouyer et al., 2001 SPECIES
-=======
+# Rickettsia felis Bouyer et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asarotammina Bronnimann, 1986 GENUS
-=======
+# Asarotammina Bronnimann, 1986 GENUS
 
 #### Status
 ACCEPTED

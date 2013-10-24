@@ -1,5 +1,4 @@
-Leptophyma brideliae (Hansf.) Arx SPECIES
-=======
+# Leptophyma brideliae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

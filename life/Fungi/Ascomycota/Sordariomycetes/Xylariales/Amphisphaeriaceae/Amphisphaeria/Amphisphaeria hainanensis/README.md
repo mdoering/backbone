@@ -1,5 +1,4 @@
-Amphisphaeria hainanensis Teng SPECIES
-=======
+# Amphisphaeria hainanensis Teng SPECIES
 
 #### Status
 ACCEPTED

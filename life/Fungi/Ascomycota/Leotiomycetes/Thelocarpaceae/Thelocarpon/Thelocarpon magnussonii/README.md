@@ -1,5 +1,4 @@
-Thelocarpon magnussonii G. Salisb. SPECIES
-=======
+# Thelocarpon magnussonii G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

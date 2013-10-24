@@ -1,5 +1,4 @@
-Scleroderma echinosporites Rouse SPECIES
-=======
+# Scleroderma echinosporites Rouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia glycyrrhizae Antok. SPECIES
-=======
+# Guignardia glycyrrhizae Antok. SPECIES
 
 #### Status
 ACCEPTED

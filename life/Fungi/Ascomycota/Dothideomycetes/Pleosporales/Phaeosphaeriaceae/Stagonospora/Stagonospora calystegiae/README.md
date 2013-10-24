@@ -1,17 +1,16 @@
-Septoria calystegiae Westend., 1851 SPECIES
-=======
+# Stagonospora calystegiae Koshk., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Acad. R. Sci. Belg. , Cl. Sci. , sér. 5 18(2): 395 (1851)
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 14: 131 (1961)
 
 #### Original name
-Septoria calystegiae Westend., 1851
+Stagonospora calystegiae Koshk., 1961
 
 ### Remarks
 null

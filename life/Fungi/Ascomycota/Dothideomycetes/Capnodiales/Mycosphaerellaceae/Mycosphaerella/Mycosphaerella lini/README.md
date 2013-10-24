@@ -1,5 +1,4 @@
-Mycosphaerella lini Clem., 1908 SPECIES
-=======
+# Mycosphaerella lini Clem., 1908 SPECIES
 
 #### Status
 ACCEPTED

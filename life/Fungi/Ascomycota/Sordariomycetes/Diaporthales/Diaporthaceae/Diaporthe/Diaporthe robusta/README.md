@@ -1,5 +1,4 @@
-Diaporthe robusta Peck SPECIES
-=======
+# Diaporthe robusta Peck SPECIES
 
 #### Status
 ACCEPTED

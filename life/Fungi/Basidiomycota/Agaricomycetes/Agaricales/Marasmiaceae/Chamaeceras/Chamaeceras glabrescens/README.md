@@ -1,5 +1,4 @@
-Chamaeceras glabrescens (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras glabrescens (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

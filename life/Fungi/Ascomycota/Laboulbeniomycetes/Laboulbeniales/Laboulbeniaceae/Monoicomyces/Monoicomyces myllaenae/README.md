@@ -1,5 +1,4 @@
-Monoicomyces myllaenae Santam. SPECIES
-=======
+# Monoicomyces myllaenae Santam. SPECIES
 
 #### Status
 ACCEPTED

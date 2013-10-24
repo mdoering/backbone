@@ -1,5 +1,4 @@
-Macrococcus Kloos et al., 1998 GENUS
-=======
+# Macrococcus Kloos et al., 1998 GENUS
 
 #### Status
 ACCEPTED

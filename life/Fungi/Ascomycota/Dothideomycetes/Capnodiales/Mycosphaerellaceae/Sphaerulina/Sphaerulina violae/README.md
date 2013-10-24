@@ -1,5 +1,4 @@
-Sphaerulina violae Garb. SPECIES
-=======
+# Sphaerulina violae Garb. SPECIES
 
 #### Status
 ACCEPTED

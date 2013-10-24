@@ -1,5 +1,4 @@
-Thyrea latissima Asahina SPECIES
-=======
+# Thyrea latissima Asahina SPECIES
 
 #### Status
 ACCEPTED

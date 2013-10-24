@@ -1,5 +1,4 @@
-Collybia stupparia Berk. & M.A. Curtis SPECIES
-=======
+# Collybia stupparia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

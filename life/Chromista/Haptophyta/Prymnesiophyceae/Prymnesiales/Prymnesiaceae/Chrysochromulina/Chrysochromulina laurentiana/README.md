@@ -1,5 +1,4 @@
-Chrysochromulina laurentiana Kling, 1981 SPECIES
-=======
+# Chrysochromulina laurentiana Kling, 1981 SPECIES
 
 #### Status
 ACCEPTED

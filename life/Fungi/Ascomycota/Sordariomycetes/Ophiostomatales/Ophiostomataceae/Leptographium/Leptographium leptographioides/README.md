@@ -1,5 +1,4 @@
-Leptographium leptographioides K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Leptographium leptographioides K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

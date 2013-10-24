@@ -1,5 +1,4 @@
-Coniosporium lineolatum Sacc. & P. Syd. SPECIES
-=======
+# Coniosporium lineolatum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

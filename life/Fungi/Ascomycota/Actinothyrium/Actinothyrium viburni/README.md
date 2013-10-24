@@ -1,5 +1,4 @@
-Actinothyrium viburni Sousa da Câmara SPECIES
-=======
+# Actinothyrium viburni Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

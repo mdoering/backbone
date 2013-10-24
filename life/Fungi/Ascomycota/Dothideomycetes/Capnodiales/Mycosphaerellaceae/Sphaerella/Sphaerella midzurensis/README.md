@@ -1,5 +1,4 @@
-Sphaerella midzurensis (Bubák) Sacc. & Trotter SPECIES
-=======
+# Sphaerella midzurensis (Bubák) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

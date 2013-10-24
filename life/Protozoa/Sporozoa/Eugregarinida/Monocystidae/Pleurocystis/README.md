@@ -1,5 +1,4 @@
-Pleurocystis Hesse, 1909 GENUS
-=======
+# Pleurocystis Hesse, 1909 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyronectria sphaerospora (Ellis & Everh.) Seaver SPECIES
-=======
+# Thyronectria sphaerospora (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

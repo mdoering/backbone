@@ -1,5 +1,4 @@
-Phialea tetraspora Feltgen SPECIES
-=======
+# Phialea tetraspora Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gomphus glutinosus var. roseus (Fr.) P. Kumm., 1871 VARIETY
-=======
+# Gomphidius roseus (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 93 (1871)
+Epicr. syst. mycol. (Upsaliae) 319 (1838)
 
 #### Original name
 Agaricus glutinosus Schaeff., 1774

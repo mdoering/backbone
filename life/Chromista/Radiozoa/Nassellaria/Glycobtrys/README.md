@@ -1,5 +1,4 @@
-Glycobtrys GENUS
-=======
+# Glycobtrys GENUS
 
 #### Status
 ACCEPTED

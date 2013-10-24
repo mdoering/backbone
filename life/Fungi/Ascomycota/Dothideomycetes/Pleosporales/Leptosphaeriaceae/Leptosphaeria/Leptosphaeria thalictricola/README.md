@@ -1,5 +1,4 @@
-Leptosphaeria thalictricola Hollós SPECIES
-=======
+# Leptosphaeria thalictricola Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomonas cannabina (ex Sutic & Dowson, 1959) Gardan et al., 1999 SPECIES
-=======
+# Pseudomonas cannabina (ex Sutic & Dowson, 1959) Gardan et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

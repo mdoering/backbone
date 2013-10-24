@@ -1,5 +1,4 @@
-Gloeosporium thomasianum Sacc. SPECIES
-=======
+# Gloeosporium thomasianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

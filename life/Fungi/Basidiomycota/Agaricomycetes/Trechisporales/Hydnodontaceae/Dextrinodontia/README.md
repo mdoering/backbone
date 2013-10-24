@@ -1,5 +1,4 @@
-Dextrinodontia Hjortstam & Ryvarden GENUS
-=======
+# Dextrinodontia Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

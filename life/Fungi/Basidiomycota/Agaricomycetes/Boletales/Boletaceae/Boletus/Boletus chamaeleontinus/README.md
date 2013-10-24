@@ -1,5 +1,4 @@
-Boletus chamaeleontinus G.F. Atk. SPECIES
-=======
+# Boletus chamaeleontinus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

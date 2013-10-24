@@ -1,5 +1,4 @@
-Euglena arcus SPECIES
-=======
+# Euglena arcus SPECIES
 
 #### Status
 ACCEPTED

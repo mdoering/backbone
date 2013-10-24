@@ -1,5 +1,4 @@
-Clavaria amoenoides Corner, K.S. Thind & Anand SPECIES
-=======
+# Clavaria amoenoides Corner, K.S. Thind & Anand SPECIES
 
 #### Status
 ACCEPTED

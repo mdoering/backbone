@@ -1,5 +1,4 @@
-Lactobacillus psittaci Lawson et al., 2001 SPECIES
-=======
+# Lactobacillus psittaci Lawson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

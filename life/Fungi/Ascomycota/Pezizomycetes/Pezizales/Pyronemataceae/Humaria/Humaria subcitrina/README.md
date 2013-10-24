@@ -1,5 +1,4 @@
-Humaria subcitrina Bres. SPECIES
-=======
+# Humaria subcitrina Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coccostroma depressa (Syd. & P. Syd.) Arx & E. Müll. SPECIES
-=======
+# Coccodiella depressa (Syd. & P. Syd.) I. Hino & Katum., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 43: 281 (1968)
 
 #### Original name
 Haplostroma depressum Syd. & P. Syd., 1916

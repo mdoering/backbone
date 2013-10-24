@@ -1,5 +1,4 @@
-Hebeloma albipes Herp. SPECIES
-=======
+# Hebeloma albipes Herp. SPECIES
 
 #### Status
 ACCEPTED

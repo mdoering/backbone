@@ -1,5 +1,4 @@
-Trogia furcata Corner SPECIES
-=======
+# Trogia furcata Corner SPECIES
 
 #### Status
 ACCEPTED

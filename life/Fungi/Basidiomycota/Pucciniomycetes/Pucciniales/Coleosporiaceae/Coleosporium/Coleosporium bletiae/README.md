@@ -1,5 +1,4 @@
-Coleosporium bletiae Dietel SPECIES
-=======
+# Coleosporium bletiae Dietel SPECIES
 
 #### Status
 ACCEPTED

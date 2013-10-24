@@ -1,5 +1,4 @@
-Puccinia tatrensis Z. Urb. SPECIES
-=======
+# Puccinia tatrensis Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

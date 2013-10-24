@@ -1,5 +1,4 @@
-Pyrenula dusenni Malme SPECIES
-=======
+# Pyrenula dusenni Malme SPECIES
 
 #### Status
 ACCEPTED

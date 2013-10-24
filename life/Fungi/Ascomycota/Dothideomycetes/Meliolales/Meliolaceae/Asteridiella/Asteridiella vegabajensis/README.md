@@ -1,5 +1,4 @@
-Asteridiella vegabajensis Hansf. SPECIES
-=======
+# Asteridiella vegabajensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

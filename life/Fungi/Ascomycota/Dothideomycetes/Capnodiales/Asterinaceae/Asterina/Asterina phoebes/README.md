@@ -1,5 +1,4 @@
-Asterina phoebes Syd., 1927 SPECIES
-=======
+# Asterina phoebes Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

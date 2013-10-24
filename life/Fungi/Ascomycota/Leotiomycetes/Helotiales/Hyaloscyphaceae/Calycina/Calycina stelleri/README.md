@@ -1,5 +1,4 @@
-Calycina stelleri (Weinm.) Kuntze SPECIES
-=======
+# Calycina stelleri (Weinm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

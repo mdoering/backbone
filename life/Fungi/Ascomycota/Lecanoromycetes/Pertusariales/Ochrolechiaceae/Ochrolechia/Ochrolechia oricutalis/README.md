@@ -1,5 +1,4 @@
-Ochrolechia oricutalis SPECIES
-=======
+# Ochrolechia oricutalis SPECIES
 
 #### Status
 ACCEPTED

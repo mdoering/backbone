@@ -1,5 +1,4 @@
-Afrothrix Foissner, 1999 GENUS
-=======
+# Afrothrix Foissner, 1999 GENUS
 
 #### Status
 ACCEPTED

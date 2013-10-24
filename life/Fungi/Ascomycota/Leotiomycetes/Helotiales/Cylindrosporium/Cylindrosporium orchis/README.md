@@ -1,5 +1,4 @@
-Cylindrosporium orchis Annal. SPECIES
-=======
+# Cylindrosporium orchis Annal. SPECIES
 
 #### Status
 ACCEPTED

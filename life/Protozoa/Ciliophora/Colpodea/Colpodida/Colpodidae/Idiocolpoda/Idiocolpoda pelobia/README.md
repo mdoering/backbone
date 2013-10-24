@@ -1,5 +1,4 @@
-Idiocolpoda pelobia Foissner, 1993 SPECIES
-=======
+# Idiocolpoda pelobia Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrantholithus speetonensis Perch-Nielsen, 1979 SPECIES
-=======
+# Micrantholithus speetonensis Perch-Nielsen, 1979 SPECIES
 
 #### Status
 ACCEPTED

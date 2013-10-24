@@ -1,5 +1,4 @@
-Polyporus fucatus Quél. SPECIES
-=======
+# Polyporus fucatus Quél. SPECIES
 
 #### Status
 ACCEPTED

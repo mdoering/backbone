@@ -1,5 +1,4 @@
-Phormidium gracile (Meneghini ex Gomont) Anagnostidis, 2001 SPECIES
-=======
+# Phormidium gracile (Meneghini ex Gomont) Anagnostidis, 2001 SPECIES
 
 #### Status
 ACCEPTED

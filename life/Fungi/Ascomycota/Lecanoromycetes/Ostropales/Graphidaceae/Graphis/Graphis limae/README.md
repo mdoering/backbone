@@ -1,5 +1,4 @@
-Graphis limae Vain. SPECIES
-=======
+# Graphis limae Vain. SPECIES
 
 #### Status
 ACCEPTED

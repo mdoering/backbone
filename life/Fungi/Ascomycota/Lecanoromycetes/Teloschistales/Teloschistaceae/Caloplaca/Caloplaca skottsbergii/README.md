@@ -1,5 +1,4 @@
-Caloplaca skottsbergii C.W. Dodge SPECIES
-=======
+# Caloplaca skottsbergii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

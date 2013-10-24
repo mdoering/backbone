@@ -1,8 +1,7 @@
-Tetrahymena edaponi SPECIES
-=======
+# Tetrahymena edaphoni Foissner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

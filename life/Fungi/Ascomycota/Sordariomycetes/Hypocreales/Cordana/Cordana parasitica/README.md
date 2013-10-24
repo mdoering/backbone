@@ -1,5 +1,4 @@
-Cordana parasitica Togashi & Onuma SPECIES
-=======
+# Cordana parasitica Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

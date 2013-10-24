@@ -1,5 +1,4 @@
-Gloeopeniophora maculaeformis (Fr.) Höhn. & Litsch. SPECIES
-=======
+# Gloeopeniophora maculaeformis (Fr.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

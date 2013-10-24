@@ -1,5 +1,4 @@
-Lasiosphaeria newfieldiana Ellis & Everh. SPECIES
-=======
+# Lasiosphaeria newfieldiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

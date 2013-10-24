@@ -1,5 +1,4 @@
-Clitocybe mairei Reichert SPECIES
-=======
+# Clitocybe mairei Reichert SPECIES
 
 #### Status
 ACCEPTED

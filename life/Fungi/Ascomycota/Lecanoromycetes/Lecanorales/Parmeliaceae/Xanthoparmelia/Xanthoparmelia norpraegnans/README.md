@@ -1,5 +1,4 @@
-Xanthoparmelia norpraegnans Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia norpraegnans Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

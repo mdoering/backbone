@@ -1,5 +1,4 @@
-Euglena rostrifera L. P. Johnson SPECIES
-=======
+# Euglena rostrifera L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

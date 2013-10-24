@@ -1,5 +1,4 @@
-Fuscopannaria coerulescens P.M. Jørg. SPECIES
-=======
+# Fuscopannaria coerulescens P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

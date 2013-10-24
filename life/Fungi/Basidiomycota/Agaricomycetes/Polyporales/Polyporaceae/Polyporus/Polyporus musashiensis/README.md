@@ -1,5 +1,4 @@
-Polyporus musashiensis (Henn.) Lloyd SPECIES
-=======
+# Polyporus musashiensis (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

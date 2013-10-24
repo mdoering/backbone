@@ -1,5 +1,4 @@
-Pannaria globuligera Hue SPECIES
-=======
+# Pannaria globuligera Hue SPECIES
 
 #### Status
 ACCEPTED

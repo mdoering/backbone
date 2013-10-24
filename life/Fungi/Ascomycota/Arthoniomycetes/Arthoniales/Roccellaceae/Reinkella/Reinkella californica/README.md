@@ -1,5 +1,4 @@
-Reinkella californica Räsänen SPECIES
-=======
+# Reinkella californica Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius clarus Reumaux SPECIES
-=======
+# Cortinarius clarus Reumaux SPECIES
 
 #### Status
 ACCEPTED

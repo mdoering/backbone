@@ -1,5 +1,4 @@
-Clonostachys chlorina Schroers SPECIES
-=======
+# Clonostachys chlorina Schroers SPECIES
 
 #### Status
 ACCEPTED

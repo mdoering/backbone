@@ -1,5 +1,4 @@
-Zygaenobia Weiser GENUS
-=======
+# Zygaenobia Weiser GENUS
 
 #### Status
 ACCEPTED

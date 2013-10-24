@@ -1,5 +1,4 @@
-Hypocopra patagonica Speg. SPECIES
-=======
+# Hypocopra patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

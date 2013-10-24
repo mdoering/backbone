@@ -1,5 +1,4 @@
-Leptonia fuscomarginata Cleland SPECIES
-=======
+# Leptonia fuscomarginata Cleland SPECIES
 
 #### Status
 ACCEPTED

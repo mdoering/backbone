@@ -1,5 +1,4 @@
-Clavaria thymiphila Velen. SPECIES
-=======
+# Clavaria thymiphila Velen. SPECIES
 
 #### Status
 ACCEPTED

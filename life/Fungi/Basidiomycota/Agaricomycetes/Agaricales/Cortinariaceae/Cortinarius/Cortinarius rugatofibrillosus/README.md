@@ -1,5 +1,4 @@
-Cortinarius rugatofibrillosus A. Favre SPECIES
-=======
+# Cortinarius rugatofibrillosus A. Favre SPECIES
 
 #### Status
 ACCEPTED

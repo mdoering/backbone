@@ -1,5 +1,4 @@
-Omphalia allenii Maire SPECIES
-=======
+# Omphalia allenii Maire SPECIES
 
 #### Status
 ACCEPTED

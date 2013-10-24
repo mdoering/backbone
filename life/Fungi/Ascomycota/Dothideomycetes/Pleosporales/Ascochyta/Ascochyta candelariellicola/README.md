@@ -1,5 +1,4 @@
-Ascochyta candelariellicola D. Hawksw. & Kalb SPECIES
-=======
+# Ascochyta candelariellicola D. Hawksw. & Kalb SPECIES
 
 #### Status
 ACCEPTED

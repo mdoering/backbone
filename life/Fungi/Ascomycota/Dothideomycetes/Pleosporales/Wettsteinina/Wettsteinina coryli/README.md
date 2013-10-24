@@ -1,5 +1,4 @@
-Wettsteinina coryli Hansf. SPECIES
-=======
+# Wettsteinina coryli Hansf. SPECIES
 
 #### Status
 ACCEPTED

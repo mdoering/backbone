@@ -1,5 +1,4 @@
-Cyathus gansuensis B. Yang, J. Yu & T.X. Zhou SPECIES
-=======
+# Cyathus gansuensis B. Yang, J. Yu & T.X. Zhou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella henningsii (Beeli) Hansf. SPECIES
-=======
+# Asteridiella henningsii (Beeli) Hansf. SPECIES
 
 #### Status
 ACCEPTED

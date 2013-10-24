@@ -1,5 +1,4 @@
-Glomerella dioscoreae (Av.-Saccá) Yamam. {?} SPECIES
-=======
+# Glomerella dioscoreae (Av.-Saccá) Yamam. {?} SPECIES
 
 #### Status
 ACCEPTED

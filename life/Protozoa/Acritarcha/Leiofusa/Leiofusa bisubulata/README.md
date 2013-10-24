@@ -1,5 +1,4 @@
-Leiofusa bisubulata Brito & Padilha de Quadros, 1984 SPECIES
-=======
+# Leiofusa bisubulata Brito & Padilha de Quadros, 1984 SPECIES
 
 #### Status
 ACCEPTED

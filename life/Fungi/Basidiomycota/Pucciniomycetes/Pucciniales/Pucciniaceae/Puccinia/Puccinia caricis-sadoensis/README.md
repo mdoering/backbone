@@ -1,5 +1,4 @@
-Puccinia caricis-sadoensis Homma SPECIES
-=======
+# Puccinia caricis-sadoensis Homma SPECIES
 
 #### Status
 ACCEPTED

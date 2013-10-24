@@ -1,5 +1,4 @@
-Dicaeoma comandrae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma comandrae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

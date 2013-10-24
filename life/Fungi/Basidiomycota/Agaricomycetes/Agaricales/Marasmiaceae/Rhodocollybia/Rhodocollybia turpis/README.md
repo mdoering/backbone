@@ -1,5 +1,4 @@
-Rhodocollybia turpis (Halling) Halling SPECIES
-=======
+# Rhodocollybia turpis (Halling) Halling SPECIES
 
 #### Status
 ACCEPTED

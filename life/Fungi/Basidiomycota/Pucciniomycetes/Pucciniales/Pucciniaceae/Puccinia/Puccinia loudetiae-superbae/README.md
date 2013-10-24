@@ -1,5 +1,4 @@
-Puccinia loudetiae-superbae Cummins SPECIES
-=======
+# Puccinia loudetiae-superbae Cummins SPECIES
 
 #### Status
 ACCEPTED

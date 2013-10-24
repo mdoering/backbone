@@ -1,17 +1,16 @@
-Agaricus pachyphyllus var. pachyphyllus VARIETY
-=======
+# Pseudoomphalina pachyphylla (Fr.) Knudsen, 1992 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 12(1): 76 (1992)
 
 #### Original name
-null
+Agaricus pachyphyllus Fr., 1815
 
 ### Remarks
 null

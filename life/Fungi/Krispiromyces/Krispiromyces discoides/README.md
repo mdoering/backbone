@@ -1,5 +1,4 @@
-Krispiromyces discoides T.N. Taylor, Hass & W. Remy SPECIES
-=======
+# Krispiromyces discoides T.N. Taylor, Hass & W. Remy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ixocomus subaureus (Peck) Singer SPECIES
-=======
+# Ixocomus subaureus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

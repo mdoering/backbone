@@ -1,5 +1,4 @@
-Xylosphaeria fusispora (Petr.) Petr. SPECIES
-=======
+# Xylosphaeria fusispora (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

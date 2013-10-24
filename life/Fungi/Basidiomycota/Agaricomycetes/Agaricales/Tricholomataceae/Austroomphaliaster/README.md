@@ -1,5 +1,4 @@
-Austroomphaliaster Garrido GENUS
-=======
+# Austroomphaliaster Garrido GENUS
 
 #### Status
 ACCEPTED

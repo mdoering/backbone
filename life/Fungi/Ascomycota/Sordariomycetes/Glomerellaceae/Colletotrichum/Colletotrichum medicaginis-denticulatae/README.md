@@ -1,5 +1,4 @@
-Colletotrichum medicaginis-denticulatae Sawada SPECIES
-=======
+# Colletotrichum medicaginis-denticulatae Sawada SPECIES
 
 #### Status
 ACCEPTED

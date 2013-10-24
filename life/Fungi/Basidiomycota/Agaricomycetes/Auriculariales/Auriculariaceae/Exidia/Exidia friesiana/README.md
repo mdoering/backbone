@@ -1,5 +1,4 @@
-Exidia friesiana P. Karst. SPECIES
-=======
+# Exidia friesiana P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius hellebori-corsici Romagn. SPECIES
-=======
+# Marasmius hellebori-corsici Romagn. SPECIES
 
 #### Status
 ACCEPTED

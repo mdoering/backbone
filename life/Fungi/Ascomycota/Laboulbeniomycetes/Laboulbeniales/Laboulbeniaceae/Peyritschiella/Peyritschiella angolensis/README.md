@@ -1,5 +1,4 @@
-Peyritschiella angolensis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella angolensis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

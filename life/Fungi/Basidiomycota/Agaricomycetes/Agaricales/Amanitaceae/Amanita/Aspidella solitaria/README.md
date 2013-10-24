@@ -1,5 +1,4 @@
-Aspidella solitaria f. solitaria FORM
-=======
+# Aspidella solitaria (Fr.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspidella solitaria f. solitaria
+Agaricus solitarius Gonn. & Rabenh.
 
 ### Remarks
 null

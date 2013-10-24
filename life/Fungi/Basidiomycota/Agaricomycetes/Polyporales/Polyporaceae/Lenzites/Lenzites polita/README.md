@@ -1,5 +1,4 @@
-Lenzites polita var. polita VARIETY
-=======
+# Lenzites polita (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 5: 649 (1887)
 
 #### Original name
-Lenzites polita var. polita
+Daedalea polita Fr.
 
 ### Remarks
 null

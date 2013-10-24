@@ -1,5 +1,4 @@
-Isaria elegans Beeli SPECIES
-=======
+# Isaria elegans Beeli SPECIES
 
 #### Status
 ACCEPTED

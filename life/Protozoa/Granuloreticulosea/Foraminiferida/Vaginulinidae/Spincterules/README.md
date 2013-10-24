@@ -1,5 +1,4 @@
-Spincterules de Montfort, 1808 GENUS
-=======
+# Spincterules de Montfort, 1808 GENUS
 
 #### Status
 ACCEPTED

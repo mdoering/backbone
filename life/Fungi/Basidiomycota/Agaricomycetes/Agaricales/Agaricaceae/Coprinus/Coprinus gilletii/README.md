@@ -1,5 +1,4 @@
-Coprinus gilletii Jacobashch SPECIES
-=======
+# Coprinus gilletii Jacobashch SPECIES
 
 #### Status
 ACCEPTED

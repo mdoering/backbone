@@ -1,5 +1,4 @@
-Neobarya byssicola (Rossman) Rossman & Samuels SPECIES
-=======
+# Neobarya byssicola (Rossman) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa megalosoma Rehm SPECIES
-=======
+# Eutypa megalosoma Rehm SPECIES
 
 #### Status
 ACCEPTED

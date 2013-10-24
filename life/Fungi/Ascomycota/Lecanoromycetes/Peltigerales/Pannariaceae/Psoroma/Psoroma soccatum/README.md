@@ -1,5 +1,4 @@
-Psoroma soccatum R. Br. ex Cromb. SPECIES
-=======
+# Psoroma soccatum R. Br. ex Cromb. SPECIES
 
 #### Status
 ACCEPTED

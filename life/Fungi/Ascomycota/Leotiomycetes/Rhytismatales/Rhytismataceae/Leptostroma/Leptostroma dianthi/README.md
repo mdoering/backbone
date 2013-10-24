@@ -1,5 +1,4 @@
-Leptostroma dianthi Oudem. SPECIES
-=======
+# Leptostroma dianthi Oudem. SPECIES
 
 #### Status
 ACCEPTED

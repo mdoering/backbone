@@ -1,5 +1,4 @@
-Lecidea proxima Anzi SPECIES
-=======
+# Lecidea proxima Anzi SPECIES
 
 #### Status
 ACCEPTED

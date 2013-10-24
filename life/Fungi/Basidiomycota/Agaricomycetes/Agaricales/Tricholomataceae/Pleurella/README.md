@@ -1,5 +1,4 @@
-Pleurella E. Horak GENUS
-=======
+# Pleurella E. Horak GENUS
 
 #### Status
 ACCEPTED

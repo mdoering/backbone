@@ -1,5 +1,4 @@
-Pseudoschizothyra thaungii Punith., 1980 SPECIES
-=======
+# Pseudoschizothyra thaungii Punith., 1980 SPECIES
 
 #### Status
 ACCEPTED

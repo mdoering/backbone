@@ -1,5 +1,4 @@
-Sistotrema ferrugineum Pers. SPECIES
-=======
+# Sistotrema ferrugineum Pers. SPECIES
 
 #### Status
 ACCEPTED

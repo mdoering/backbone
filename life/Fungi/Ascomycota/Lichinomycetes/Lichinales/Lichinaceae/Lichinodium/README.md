@@ -1,5 +1,4 @@
-Lichinodium Nyl. GENUS
-=======
+# Lichinodium Nyl. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis albidula Fée SPECIES
-=======
+# Graphis albidula Fée SPECIES
 
 #### Status
 ACCEPTED

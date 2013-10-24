@@ -1,5 +1,4 @@
-Marasmius ventallonii Singer SPECIES
-=======
+# Marasmius ventallonii Singer SPECIES
 
 #### Status
 ACCEPTED

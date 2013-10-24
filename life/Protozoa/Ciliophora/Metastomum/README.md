@@ -1,5 +1,4 @@
-Metastomum Georgévitch, 1941 GENUS
-=======
+# Metastomum Georgévitch, 1941 GENUS
 
 #### Status
 ACCEPTED

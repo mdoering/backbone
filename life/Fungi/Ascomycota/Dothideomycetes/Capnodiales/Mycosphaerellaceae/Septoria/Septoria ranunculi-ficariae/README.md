@@ -1,5 +1,4 @@
-Septoria ranunculi-ficariae Lobik SPECIES
-=======
+# Septoria ranunculi-ficariae Lobik SPECIES
 
 #### Status
 ACCEPTED

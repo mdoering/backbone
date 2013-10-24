@@ -1,5 +1,4 @@
-Lophodermium mangiferae Koord., 1907 SPECIES
-=======
+# Lophodermium mangiferae Koord., 1907 SPECIES
 
 #### Status
 ACCEPTED

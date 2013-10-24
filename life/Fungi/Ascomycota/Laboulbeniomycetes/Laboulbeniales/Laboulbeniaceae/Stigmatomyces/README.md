@@ -1,5 +1,4 @@
-Stigmatomyces H. Karst. GENUS
-=======
+# Stigmatomyces H. Karst. GENUS
 
 #### Status
 ACCEPTED

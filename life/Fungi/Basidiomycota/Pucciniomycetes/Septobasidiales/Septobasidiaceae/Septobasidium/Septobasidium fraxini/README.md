@@ -1,5 +1,4 @@
-Septobasidium fraxini Couch SPECIES
-=======
+# Septobasidium fraxini Couch SPECIES
 
 #### Status
 ACCEPTED

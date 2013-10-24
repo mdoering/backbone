@@ -1,5 +1,4 @@
-Gonyaulax ambigua SPECIES
-=======
+# Gonyaulax ambigua SPECIES
 
 #### Status
 ACCEPTED

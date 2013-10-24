@@ -1,5 +1,4 @@
-Meliola vaccinii Tochinai & Yamagiwa SPECIES
-=======
+# Meliola vaccinii Tochinai & Yamagiwa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria potonini P. Karst. SPECIES
-=======
+# Humaria potonini P. Karst. SPECIES
 
 #### Status
 ACCEPTED

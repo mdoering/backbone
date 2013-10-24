@@ -1,5 +1,4 @@
-Ramboldia Kantvilas & Elix GENUS
-=======
+# Ramboldia Kantvilas & Elix GENUS
 
 #### Status
 ACCEPTED

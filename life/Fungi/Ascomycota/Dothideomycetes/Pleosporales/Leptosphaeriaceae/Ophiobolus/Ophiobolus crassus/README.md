@@ -1,5 +1,4 @@
-Ophiobolus crassus Shoemaker SPECIES
-=======
+# Ophiobolus crassus Shoemaker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniangium ruderale (Nyl.) Arnold SPECIES
-=======
+# Coniangium ruderale (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

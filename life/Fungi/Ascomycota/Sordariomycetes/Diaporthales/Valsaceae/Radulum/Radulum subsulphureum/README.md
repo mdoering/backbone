@@ -1,5 +1,4 @@
-Radulum subsulphureum Rick SPECIES
-=======
+# Radulum subsulphureum Rick SPECIES
 
 #### Status
 ACCEPTED

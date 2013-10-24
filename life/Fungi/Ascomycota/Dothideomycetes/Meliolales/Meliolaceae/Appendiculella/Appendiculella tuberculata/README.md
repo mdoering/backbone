@@ -1,5 +1,4 @@
-Appendiculella tuberculata (F. Stevens) Toro SPECIES
-=======
+# Appendiculella tuberculata (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

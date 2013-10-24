@@ -1,5 +1,4 @@
-Cercospora serpentariae Ellis & Everh. SPECIES
-=======
+# Cercospora serpentariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema coriiforme (Wulfen) Ach. SPECIES
-=======
+# Collema coriiforme (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

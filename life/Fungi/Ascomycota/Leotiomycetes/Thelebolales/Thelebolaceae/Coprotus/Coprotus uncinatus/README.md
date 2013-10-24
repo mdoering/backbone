@@ -1,5 +1,4 @@
-Coprotus uncinatus Yei Z. Wang SPECIES
-=======
+# Coprotus uncinatus Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

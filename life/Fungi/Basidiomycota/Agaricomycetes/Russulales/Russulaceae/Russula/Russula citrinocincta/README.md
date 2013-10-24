@@ -1,5 +1,4 @@
-Russula citrinocincta Reumaux SPECIES
-=======
+# Russula citrinocincta Reumaux SPECIES
 
 #### Status
 ACCEPTED

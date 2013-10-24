@@ -1,5 +1,4 @@
-Hypochnus geophilus Sacc. SPECIES
-=======
+# Hypochnus geophilus Sacc. SPECIES
 
 #### Status
 ACCEPTED

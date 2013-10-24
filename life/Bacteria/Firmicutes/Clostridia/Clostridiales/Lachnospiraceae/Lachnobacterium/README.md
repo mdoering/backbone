@@ -1,5 +1,4 @@
-Lachnobacterium Whitford et al., 2001 GENUS
-=======
+# Lachnobacterium Whitford et al., 2001 GENUS
 
 #### Status
 ACCEPTED

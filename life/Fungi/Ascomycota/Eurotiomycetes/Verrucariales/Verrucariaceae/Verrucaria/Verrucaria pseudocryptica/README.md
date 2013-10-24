@@ -1,5 +1,4 @@
-Verrucaria pseudocryptica Servít SPECIES
-=======
+# Verrucaria pseudocryptica Servít SPECIES
 
 #### Status
 ACCEPTED

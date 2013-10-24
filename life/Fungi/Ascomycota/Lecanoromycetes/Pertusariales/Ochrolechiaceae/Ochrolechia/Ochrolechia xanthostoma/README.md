@@ -1,17 +1,16 @@
-Pertusaria xanthostoma f. xanthostoma FORM
-=======
+# Ochrolechia xanthostoma (Sommerf.) K. Schmitz & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. eur. reform. (Lund) 426 (1831)
+in Schmitz, Lumbsch & Feige, Acta bot. fenn. 150: 160 (1994)
 
 #### Original name
-Pertusaria xanthostoma f. xanthostoma
+Porina xanthostoma Sommerf.
 
 ### Remarks
 null

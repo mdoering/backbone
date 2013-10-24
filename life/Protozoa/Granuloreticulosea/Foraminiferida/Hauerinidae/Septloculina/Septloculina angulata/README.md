@@ -1,5 +1,4 @@
-Septloculina angulata El Nakhal, 1990 SPECIES
-=======
+# Septloculina angulata El Nakhal, 1990 SPECIES
 
 #### Status
 ACCEPTED

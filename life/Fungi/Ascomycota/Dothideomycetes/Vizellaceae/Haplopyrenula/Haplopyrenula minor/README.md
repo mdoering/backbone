@@ -1,5 +1,4 @@
-Haplopyrenula minor Müll. Arg. SPECIES
-=======
+# Haplopyrenula minor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Podospora tomentosa (Speg.) Niessl, 1883 SPECIES
-=======
+# Arnium tomentosum (Speg.) N. Lundq. & J.C. Krug, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+Symb. bot. upsal. 20(no. 1): 216 (1972)
 
 #### Original name
 Hypocopra tomentosa Speg., 1880

@@ -1,5 +1,4 @@
-Pluricellaesporites catenatus Ramanujam & K.P. Rao SPECIES
-=======
+# Pluricellaesporites catenatus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

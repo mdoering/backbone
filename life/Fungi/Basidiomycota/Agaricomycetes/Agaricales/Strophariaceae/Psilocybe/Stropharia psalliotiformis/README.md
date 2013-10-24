@@ -1,5 +1,4 @@
-Stropharia psalliotiformis Velen. SPECIES
-=======
+# Stropharia psalliotiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

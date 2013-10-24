@@ -1,17 +1,16 @@
-Zygosporium parasiticum (Grove) Bunting & E.W. Mason, 1941 SPECIES
-=======
+# Zygosporium gibbum (Sacc., M. Rousseau & E. Bommer) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mason, Mycol. Pap. 5: 137 (1941)
+Can. J. Bot. 36: 825 (1958)
 
 #### Original name
-Pimina parasitica Grove, 1888
+Clasterosporium gibbum Sacc., M. Rousseau & E. Bommer, 1884
 
 ### Remarks
 null

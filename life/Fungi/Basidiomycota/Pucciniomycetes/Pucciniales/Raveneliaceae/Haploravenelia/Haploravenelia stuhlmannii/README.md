@@ -1,14 +1,13 @@
-Haploravenelia stuhlmanni (Henn.) Syd. SPECIES
-=======
+# Haploravenelia stuhlmannii (Henn.) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 19: 165 (1921)
 
 #### Original name
 Ravenelia stuhlmannii Henn.

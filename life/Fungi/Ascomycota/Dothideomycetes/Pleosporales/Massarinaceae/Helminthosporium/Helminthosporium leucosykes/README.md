@@ -1,5 +1,4 @@
-Helminthosporium leucosykes H.S. Yates SPECIES
-=======
+# Helminthosporium leucosykes H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

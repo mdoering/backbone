@@ -1,5 +1,4 @@
-Xylosphaera guianensis (Mont.) Dennis SPECIES
-=======
+# Xylosphaera guianensis (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus subfascicularis Rick SPECIES
-=======
+# Clitopilus subfascicularis Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus fennicus (Harmaja) utara SPECIES
-=======
+# Boletus fennicus (Harmaja) utara SPECIES
 
 #### Status
 ACCEPTED

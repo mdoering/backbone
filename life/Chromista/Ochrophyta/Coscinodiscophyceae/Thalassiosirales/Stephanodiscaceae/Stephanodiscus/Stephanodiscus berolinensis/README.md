@@ -1,5 +1,4 @@
-Stephanodiscus berolinensis Ehrenberg SPECIES
-=======
+# Stephanodiscus berolinensis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

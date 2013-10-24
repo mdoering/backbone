@@ -1,5 +1,4 @@
-Rhizomorpha phosphorea (Sowerby) Fr. SPECIES
-=======
+# Rhizomorpha phosphorea (Sowerby) Fr. SPECIES
 
 #### Status
 ACCEPTED

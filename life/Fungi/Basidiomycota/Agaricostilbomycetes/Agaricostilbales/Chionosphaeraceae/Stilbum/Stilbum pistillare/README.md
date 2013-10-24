@@ -1,5 +1,4 @@
-Stilbum pistillare Lév. SPECIES
-=======
+# Stilbum pistillare Lév. SPECIES
 
 #### Status
 ACCEPTED

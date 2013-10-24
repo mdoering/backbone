@@ -1,5 +1,4 @@
-Lecidea coccocarpiae (Müll. Arg.) Shirley SPECIES
-=======
+# Lecidea coccocarpiae (Müll. Arg.) Shirley SPECIES
 
 #### Status
 ACCEPTED

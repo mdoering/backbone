@@ -1,17 +1,16 @@
-Coccostroma banksiae Sivan., 1974 SPECIES
-=======
+# Coccodiella banksiae (Hansf.) H.J. Swart, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 62(2): 422 (1974)
+Trans. Br. mycol. Soc. 91(3): 455 (1988)
 
 #### Original name
-Coccostroma banksiae Sivan., 1974
+Botryosphaeria banksiae Hansf., 1954
 
 ### Remarks
 null

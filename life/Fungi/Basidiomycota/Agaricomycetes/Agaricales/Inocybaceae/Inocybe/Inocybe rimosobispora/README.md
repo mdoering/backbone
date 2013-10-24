@@ -1,5 +1,4 @@
-Inocybe rimosobispora Bizio, Esteve-Rav. & Contu SPECIES
-=======
+# Inocybe rimosobispora Bizio, Esteve-Rav. & Contu SPECIES
 
 #### Status
 ACCEPTED

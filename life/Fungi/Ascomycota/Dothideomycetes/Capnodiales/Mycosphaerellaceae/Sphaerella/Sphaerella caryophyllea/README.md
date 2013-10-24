@@ -1,5 +1,4 @@
-Sphaerella caryophyllea Cooke & Harkn. SPECIES
-=======
+# Sphaerella caryophyllea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

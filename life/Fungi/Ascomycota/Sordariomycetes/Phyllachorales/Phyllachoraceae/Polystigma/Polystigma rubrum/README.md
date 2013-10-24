@@ -1,17 +1,16 @@
-Polystigmina rubra f. rubra FORM
-=======
+# Polystigma rubrum (Pers.) DC. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 622 (1884)
+null
 
 #### Original name
-Polystigmina rubra f. rubra
+null
 
 ### Remarks
 null

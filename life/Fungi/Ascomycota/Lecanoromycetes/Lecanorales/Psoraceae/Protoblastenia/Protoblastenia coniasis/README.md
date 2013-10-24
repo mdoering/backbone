@@ -1,5 +1,4 @@
-Protoblastenia coniasis (A. Massal.) Poelt SPECIES
-=======
+# Protoblastenia coniasis (A. Massal.) Poelt SPECIES
 
 #### Status
 ACCEPTED

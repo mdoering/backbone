@@ -1,5 +1,4 @@
-Marasmiellus filocystis Redhead & B. Liu SPECIES
-=======
+# Marasmiellus filocystis Redhead & B. Liu SPECIES
 
 #### Status
 ACCEPTED

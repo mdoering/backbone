@@ -1,5 +1,4 @@
-Uromyces didymae Gapon. SPECIES
-=======
+# Uromyces didymae Gapon. SPECIES
 
 #### Status
 ACCEPTED

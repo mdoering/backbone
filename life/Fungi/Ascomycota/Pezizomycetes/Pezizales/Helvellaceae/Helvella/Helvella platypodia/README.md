@@ -1,5 +1,4 @@
-Helvella platypodia (Boud.) Donadini SPECIES
-=======
+# Helvella platypodia (Boud.) Donadini SPECIES
 
 #### Status
 ACCEPTED

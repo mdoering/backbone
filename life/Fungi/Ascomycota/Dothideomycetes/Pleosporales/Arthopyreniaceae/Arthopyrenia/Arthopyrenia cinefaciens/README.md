@@ -1,5 +1,4 @@
-Arthopyrenia cinefaciens (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia cinefaciens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

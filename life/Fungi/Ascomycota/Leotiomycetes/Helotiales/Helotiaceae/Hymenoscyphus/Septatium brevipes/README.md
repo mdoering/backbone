@@ -1,5 +1,4 @@
-Septatium brevipes Velen. SPECIES
-=======
+# Septatium brevipes Velen. SPECIES
 
 #### Status
 ACCEPTED

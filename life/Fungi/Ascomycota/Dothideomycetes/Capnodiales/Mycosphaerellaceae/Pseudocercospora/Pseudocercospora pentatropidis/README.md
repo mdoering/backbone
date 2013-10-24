@@ -1,5 +1,4 @@
-Pseudocercospora pentatropidis (S.A. Khan) Deighton SPECIES
-=======
+# Pseudocercospora pentatropidis (S.A. Khan) Deighton SPECIES
 
 #### Status
 ACCEPTED

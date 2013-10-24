@@ -1,5 +1,4 @@
-Pactilia strobilicola (Kalchbr.) Sacc. SPECIES
-=======
+# Pactilia strobilicola (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

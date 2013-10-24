@@ -1,5 +1,4 @@
-Aecidium ludwigiae Ellis & Everh. SPECIES
-=======
+# Aecidium ludwigiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

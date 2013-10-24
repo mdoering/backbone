@@ -1,5 +1,4 @@
-Scolecosporium Libert ex Roumeguère, 1880 GENUS
-=======
+# Scolecosporium Libert ex Roumeguère, 1880 GENUS
 
 #### Status
 ACCEPTED

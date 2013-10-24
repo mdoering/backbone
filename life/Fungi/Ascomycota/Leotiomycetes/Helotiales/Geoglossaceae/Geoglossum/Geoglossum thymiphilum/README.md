@@ -1,5 +1,4 @@
-Geoglossum thymiphilum Velen. SPECIES
-=======
+# Geoglossum thymiphilum Velen. SPECIES
 
 #### Status
 ACCEPTED

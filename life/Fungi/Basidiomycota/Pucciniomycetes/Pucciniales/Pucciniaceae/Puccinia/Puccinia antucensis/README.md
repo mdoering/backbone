@@ -1,5 +1,4 @@
-Puccinia antucensis Syd. SPECIES
-=======
+# Puccinia antucensis Syd. SPECIES
 
 #### Status
 ACCEPTED

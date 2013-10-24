@@ -1,5 +1,4 @@
-Meliola thalliformis var. major D.J. Soares & R.W. Barreto VARIETY
-=======
+# Meliola thalliformis Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Soares, Parreira & Barreto, Mycotaxon 95: 202 (2006)
+Sydowia 11(1-6): 113 (1958)
 
 #### Original name
-Meliola thalliformis var. major D.J. Soares & R.W. Barreto
+Meliola thalliformis Deighton
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peyritschiella homalotae (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella homalotae (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

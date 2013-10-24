@@ -1,5 +1,4 @@
-Rinodina santorinensis J. Steiner SPECIES
-=======
+# Rinodina santorinensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

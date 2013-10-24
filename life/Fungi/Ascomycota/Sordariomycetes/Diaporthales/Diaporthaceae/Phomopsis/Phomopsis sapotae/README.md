@@ -1,5 +1,4 @@
-Phomopsis sapotae B. Lal & T.R.N. Rai SPECIES
-=======
+# Phomopsis sapotae B. Lal & T.R.N. Rai SPECIES
 
 #### Status
 ACCEPTED

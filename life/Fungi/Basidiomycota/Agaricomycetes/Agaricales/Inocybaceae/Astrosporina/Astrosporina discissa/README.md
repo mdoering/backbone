@@ -1,5 +1,4 @@
-Astrosporina discissa Cleland SPECIES
-=======
+# Astrosporina discissa Cleland SPECIES
 
 #### Status
 ACCEPTED

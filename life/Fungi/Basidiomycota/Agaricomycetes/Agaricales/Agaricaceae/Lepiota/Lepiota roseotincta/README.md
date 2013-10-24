@@ -1,5 +1,4 @@
-Lepiota roseotincta A.H. Sm. SPECIES
-=======
+# Lepiota roseotincta A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

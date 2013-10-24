@@ -1,5 +1,4 @@
-Helminthosporium orchidacearum Chevassut SPECIES
-=======
+# Helminthosporium orchidacearum Chevassut SPECIES
 
 #### Status
 ACCEPTED

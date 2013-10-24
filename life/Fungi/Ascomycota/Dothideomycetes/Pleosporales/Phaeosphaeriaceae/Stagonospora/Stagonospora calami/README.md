@@ -1,5 +1,4 @@
-Stagonospora calami Bres. SPECIES
-=======
+# Stagonospora calami Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Treponema socranskii subsp. paredis Smibert et al., 1984 SUBSPECIES
-=======
+# Treponema socranskii Smibert et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

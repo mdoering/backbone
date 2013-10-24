@@ -1,5 +1,4 @@
-Galerina hypophaea Kühner, 1973 SPECIES
-=======
+# Galerina hypophaea Kühner, 1973 SPECIES
 
 #### Status
 ACCEPTED

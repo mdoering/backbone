@@ -1,5 +1,4 @@
-Amanita piperata Lam. SPECIES
-=======
+# Amanita piperata Lam. SPECIES
 
 #### Status
 ACCEPTED

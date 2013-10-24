@@ -1,5 +1,4 @@
-Toninia poeltii Timdal SPECIES
-=======
+# Toninia poeltii Timdal SPECIES
 
 #### Status
 ACCEPTED

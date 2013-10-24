@@ -1,5 +1,4 @@
-Pirsonia mucosa Kühn, 1996 SPECIES
-=======
+# Pirsonia mucosa Kühn, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Candida aglyptinia S.O. Suh, N.H. Nguyen & M. Blackw. SPECIES
-=======
+# Candida aglyptini S.O. Suh, N.H. Nguyen & M. Blackw., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 110(12): 1388 (2006)
 
 #### Original name
-Candida aglyptinia S.O. Suh, N.H. Nguyen & M. Blackw.
+Candida aglyptini S.O. Suh, N.H. Nguyen & M. Blackw., 2006
 
 ### Remarks
 null

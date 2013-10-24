@@ -1,5 +1,4 @@
-Tubercularia lutescens Link SPECIES
-=======
+# Tubercularia lutescens Link SPECIES
 
 #### Status
 ACCEPTED

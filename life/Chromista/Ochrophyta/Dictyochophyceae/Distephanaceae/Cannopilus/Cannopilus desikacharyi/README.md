@@ -1,5 +1,4 @@
-Cannopilus desikacharyi P. Prema SPECIES
-=======
+# Cannopilus desikacharyi P. Prema SPECIES
 
 #### Status
 ACCEPTED

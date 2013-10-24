@@ -1,5 +1,4 @@
-Pholiotina musae Earle SPECIES
-=======
+# Pholiotina musae Earle SPECIES
 
 #### Status
 ACCEPTED

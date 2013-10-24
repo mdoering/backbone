@@ -1,5 +1,4 @@
-Leveillula boraginacearum f. boraginacearum FORM
-=======
+# Leveillula boraginacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula boraginacearum f. boraginacearum
+Leveillula boraginacearum Golovin
 
 ### Remarks
 null

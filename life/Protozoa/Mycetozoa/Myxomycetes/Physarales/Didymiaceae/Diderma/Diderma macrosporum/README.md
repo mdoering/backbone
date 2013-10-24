@@ -1,5 +1,4 @@
-Diderma macrosporum Krzemien. SPECIES
-=======
+# Diderma macrosporum Krzemien. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius grandisporus Lj.N. Vassiljeva SPECIES
-=======
+# Lactarius grandisporus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

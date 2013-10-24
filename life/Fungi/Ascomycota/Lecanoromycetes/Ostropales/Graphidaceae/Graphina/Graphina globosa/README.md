@@ -1,5 +1,4 @@
-Graphina globosa (Fée) Müll. Arg. SPECIES
-=======
+# Graphina globosa (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula subpenetrans Murrill SPECIES
-=======
+# Flammula subpenetrans Murrill SPECIES
 
 #### Status
 ACCEPTED

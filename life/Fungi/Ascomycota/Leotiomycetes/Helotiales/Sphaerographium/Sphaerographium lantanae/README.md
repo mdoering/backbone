@@ -1,5 +1,4 @@
-Sphaerographium lantanae Died. SPECIES
-=======
+# Sphaerographium lantanae Died. SPECIES
 
 #### Status
 ACCEPTED

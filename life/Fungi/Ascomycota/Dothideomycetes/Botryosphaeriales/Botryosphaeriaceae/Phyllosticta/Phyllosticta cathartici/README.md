@@ -1,5 +1,4 @@
-Phyllosticta cathartici Sacc. SPECIES
-=======
+# Phyllosticta cathartici Sacc. SPECIES
 
 #### Status
 ACCEPTED

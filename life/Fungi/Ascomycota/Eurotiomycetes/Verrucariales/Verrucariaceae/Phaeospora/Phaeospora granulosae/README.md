@@ -1,5 +1,4 @@
-Phaeospora granulosae Arnold SPECIES
-=======
+# Phaeospora granulosae Arnold SPECIES
 
 #### Status
 ACCEPTED

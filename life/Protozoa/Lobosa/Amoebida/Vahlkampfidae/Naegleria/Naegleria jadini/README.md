@@ -1,5 +1,4 @@
-Naegleria jadini Willaert & Leray, 1973 SPECIES
-=======
+# Naegleria jadini Willaert & Leray, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas chlamydophora Nygaard SPECIES
-=======
+# Trachelomonas chlamydophora Nygaard SPECIES
 
 #### Status
 ACCEPTED

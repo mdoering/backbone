@@ -1,5 +1,4 @@
-Epigloeosphaera Komárková-Legnerová, 1991 GENUS
-=======
+# Epigloeosphaera Komárková-Legnerová, 1991 GENUS
 
 #### Status
 ACCEPTED

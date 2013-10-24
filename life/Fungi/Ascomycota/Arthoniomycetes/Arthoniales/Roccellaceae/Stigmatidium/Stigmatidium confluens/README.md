@@ -1,5 +1,4 @@
-Stigmatidium confluens C. Knight SPECIES
-=======
+# Stigmatidium confluens C. Knight SPECIES
 
 #### Status
 ACCEPTED

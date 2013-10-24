@@ -1,5 +1,4 @@
-Trapelina terrestris (Flot.) Motyka SPECIES
-=======
+# Trapelina terrestris (Flot.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta nelumbonis Sawada SPECIES
-=======
+# Phyllosticta nelumbonis Sawada SPECIES
 
 #### Status
 ACCEPTED

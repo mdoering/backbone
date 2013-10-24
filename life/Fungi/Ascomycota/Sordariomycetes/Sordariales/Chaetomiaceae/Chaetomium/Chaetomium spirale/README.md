@@ -1,5 +1,4 @@
-Chaetomium spirale Zopf, 1881 SPECIES
-=======
+# Chaetomium spirale Zopf, 1881 SPECIES
 
 #### Status
 ACCEPTED

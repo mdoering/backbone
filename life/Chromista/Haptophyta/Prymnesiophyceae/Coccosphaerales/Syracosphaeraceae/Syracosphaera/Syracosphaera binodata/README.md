@@ -1,5 +1,4 @@
-Syracosphaera binodata (Kamptner) Kamptner SPECIES
-=======
+# Syracosphaera binodata (Kamptner) Kamptner SPECIES
 
 #### Status
 ACCEPTED

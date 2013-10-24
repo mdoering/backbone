@@ -1,14 +1,13 @@
-Opegrapha atra f. ochrocheila (Nyl.) Leight. FORM
-=======
+# Opegrapha ochrocheila Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 48: 212 (1865)
 
 #### Original name
 Opegrapha ochrocheila Nyl.

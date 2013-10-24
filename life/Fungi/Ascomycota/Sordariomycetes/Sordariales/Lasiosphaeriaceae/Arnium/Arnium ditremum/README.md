@@ -1,5 +1,4 @@
-Arnium ditremum Jeng & J.C. Krug SPECIES
-=======
+# Arnium ditremum Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

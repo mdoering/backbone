@@ -1,5 +1,4 @@
-Diplotomma proximatum (H. Magn.) S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Diplotomma proximatum (H. Magn.) S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

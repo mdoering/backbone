@@ -1,17 +1,16 @@
-Leptosphaeria alhagii Frolov SPECIES
-=======
+# Leptosphaeria alhagi Frolov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 7: 185 (1970)
 
 #### Original name
-Leptosphaeria alhagii Frolov
+Leptosphaeria alhagi Frolov
 
 ### Remarks
 null

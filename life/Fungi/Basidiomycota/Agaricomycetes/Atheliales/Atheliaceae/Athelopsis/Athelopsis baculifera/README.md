@@ -1,5 +1,4 @@
-Athelopsis baculifera (Bourdot & Galzin) Jülich, 1971 SPECIES
-=======
+# Athelopsis baculifera (Bourdot & Galzin) Jülich, 1971 SPECIES
 
 #### Status
 ACCEPTED

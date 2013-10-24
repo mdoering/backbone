@@ -1,5 +1,4 @@
-Rhabdospora dauci Hollós SPECIES
-=======
+# Rhabdospora dauci Hollós SPECIES
 
 #### Status
 ACCEPTED

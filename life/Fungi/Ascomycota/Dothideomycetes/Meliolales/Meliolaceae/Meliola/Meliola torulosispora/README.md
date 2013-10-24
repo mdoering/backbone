@@ -1,5 +1,4 @@
-Meliola torulosispora M.L. Farr SPECIES
-=======
+# Meliola torulosispora M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

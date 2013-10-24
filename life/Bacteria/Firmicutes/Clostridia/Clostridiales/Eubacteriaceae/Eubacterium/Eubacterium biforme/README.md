@@ -1,11 +1,10 @@
-Bacteroides biformis Eggerth, 1935 SPECIES
-=======
+# Eubacterium biforme (Eggerth, 1935) Prévot, 1938 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

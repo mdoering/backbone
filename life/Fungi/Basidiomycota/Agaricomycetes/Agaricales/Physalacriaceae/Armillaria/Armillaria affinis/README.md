@@ -1,5 +1,4 @@
-Armillaria affinis (Singer) T.J. Volk & Burds. SPECIES
-=======
+# Armillaria affinis (Singer) T.J. Volk & Burds. SPECIES
 
 #### Status
 ACCEPTED

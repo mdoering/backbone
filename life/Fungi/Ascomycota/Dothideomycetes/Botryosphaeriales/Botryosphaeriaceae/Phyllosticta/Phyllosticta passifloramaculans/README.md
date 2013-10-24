@@ -1,5 +1,4 @@
-Phyllosticta passifloramaculans Bat. SPECIES
-=======
+# Phyllosticta passifloramaculans Bat. SPECIES
 
 #### Status
 ACCEPTED

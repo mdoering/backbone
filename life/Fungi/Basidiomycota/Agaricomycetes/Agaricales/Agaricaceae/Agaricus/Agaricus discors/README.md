@@ -1,5 +1,4 @@
-Agaricus discors Batsch SPECIES
-=======
+# Agaricus discors Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterocapsa kollmeriana M.J. Swift & McLaughlin, 1970 SPECIES
-=======
+# Heterocapsa kollmeriana M.J. Swift & McLaughlin, 1970 SPECIES
 
 #### Status
 ACCEPTED

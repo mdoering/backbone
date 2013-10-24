@@ -1,5 +1,4 @@
-Mycena borealis A.L. Sm. SPECIES
-=======
+# Mycena borealis A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

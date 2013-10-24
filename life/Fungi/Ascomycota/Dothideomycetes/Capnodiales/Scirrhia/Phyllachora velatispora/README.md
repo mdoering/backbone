@@ -1,5 +1,4 @@
-Phyllachora velatispora C.A. Pearce & K.D. Hyde, 1994 SPECIES
-=======
+# Phyllachora velatispora C.A. Pearce & K.D. Hyde, 1994 SPECIES
 
 #### Status
 DOUBTFUL

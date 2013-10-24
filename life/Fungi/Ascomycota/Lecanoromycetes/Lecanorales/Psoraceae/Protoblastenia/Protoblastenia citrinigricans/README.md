@@ -1,5 +1,4 @@
-Protoblastenia citrinigricans C.W. Dodge & G.E. Baker SPECIES
-=======
+# Protoblastenia citrinigricans C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

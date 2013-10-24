@@ -1,5 +1,4 @@
-Octaviania plena J.W. Cribb, 1958 SPECIES
-=======
+# Octaviania plena J.W. Cribb, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora spitzbergensis (Stizenb.) Hue SPECIES
-=======
+# Acarospora spitzbergensis (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

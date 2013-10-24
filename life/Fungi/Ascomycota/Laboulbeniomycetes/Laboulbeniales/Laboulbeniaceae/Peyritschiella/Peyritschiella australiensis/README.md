@@ -1,5 +1,4 @@
-Peyritschiella australiensis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella australiensis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

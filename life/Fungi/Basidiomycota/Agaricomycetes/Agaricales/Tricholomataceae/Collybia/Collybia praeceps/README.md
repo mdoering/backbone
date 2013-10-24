@@ -1,5 +1,4 @@
-Collybia praeceps Berk. & M.A. Curtis SPECIES
-=======
+# Collybia praeceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

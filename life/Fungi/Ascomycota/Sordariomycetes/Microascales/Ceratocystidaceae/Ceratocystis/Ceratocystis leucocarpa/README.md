@@ -1,5 +1,4 @@
-Ceratocystis leucocarpa R.W. Davidson SPECIES
-=======
+# Ceratocystis leucocarpa R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

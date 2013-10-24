@@ -1,5 +1,4 @@
-Rheinheimera Brettar, Christen & Hofle, 2002 GENUS
-=======
+# Rheinheimera Brettar, Christen & Hofle, 2002 GENUS
 
 #### Status
 ACCEPTED

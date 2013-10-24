@@ -1,5 +1,4 @@
-Sphaeroidinella Cushman, 1927 GENUS
-=======
+# Sphaeroidinella Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

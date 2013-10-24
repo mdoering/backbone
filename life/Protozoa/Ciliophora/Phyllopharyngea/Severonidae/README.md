@@ -1,5 +1,4 @@
-Severonidae Jankowksi, 1981 FAMILY
-=======
+# Severonidae Jankowksi, 1981 FAMILY
 
 #### Status
 ACCEPTED

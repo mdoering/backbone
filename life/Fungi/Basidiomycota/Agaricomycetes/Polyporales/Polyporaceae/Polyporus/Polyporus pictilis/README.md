@@ -1,5 +1,4 @@
-Polyporus pictilis Berk. SPECIES
-=======
+# Polyporus pictilis Berk. SPECIES
 
 #### Status
 ACCEPTED

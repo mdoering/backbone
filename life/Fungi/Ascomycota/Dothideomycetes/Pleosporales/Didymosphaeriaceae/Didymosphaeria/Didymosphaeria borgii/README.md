@@ -1,5 +1,4 @@
-Didymosphaeria borgii SPECIES
-=======
+# Didymosphaeria borgii SPECIES
 
 #### Status
 ACCEPTED

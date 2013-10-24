@@ -1,5 +1,4 @@
-Seimatosporium pleurochaetum (Speg.) Arx SPECIES
-=======
+# Seimatosporium pleurochaetum (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

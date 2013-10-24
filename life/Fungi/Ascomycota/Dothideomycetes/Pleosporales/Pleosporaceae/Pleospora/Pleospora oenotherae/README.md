@@ -1,5 +1,4 @@
-Pleospora oenotherae Feltgen SPECIES
-=======
+# Pleospora oenotherae Feltgen SPECIES
 
 #### Status
 ACCEPTED

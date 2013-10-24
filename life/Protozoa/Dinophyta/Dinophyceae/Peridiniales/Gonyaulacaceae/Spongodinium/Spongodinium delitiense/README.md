@@ -1,5 +1,4 @@
-Spongodinium delitiense (Ehrenberg, 1838) Deflandre, 1936 SPECIES
-=======
+# Spongodinium delitiense (Ehrenberg, 1838) Deflandre, 1936 SPECIES
 
 #### Status
 ACCEPTED

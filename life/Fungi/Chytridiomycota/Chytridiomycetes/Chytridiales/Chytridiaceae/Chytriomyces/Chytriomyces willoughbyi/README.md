@@ -1,14 +1,13 @@
-Chytridium parasiticum Willoughby, 1956 SPECIES
-=======
+# Chytriomyces willoughbyi Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 39: 135 (1956)
+Mycopath. Mycol. appl. 36: 174 (1968)
 
 #### Original name
 Chytridium parasiticum Willoughby, 1956

@@ -1,5 +1,4 @@
-Fomes fullageri (Berk.) Sacc. SPECIES
-=======
+# Fomes fullageri (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

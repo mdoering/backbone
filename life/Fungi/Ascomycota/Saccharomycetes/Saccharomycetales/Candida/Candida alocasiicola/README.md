@@ -1,5 +1,4 @@
-Candida alocasiicola F.Y. Bai & S.A. Wang SPECIES
-=======
+# Candida alocasiicola F.Y. Bai & S.A. Wang SPECIES
 
 #### Status
 ACCEPTED

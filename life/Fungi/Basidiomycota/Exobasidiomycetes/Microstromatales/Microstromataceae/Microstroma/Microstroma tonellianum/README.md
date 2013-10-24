@@ -1,5 +1,4 @@
-Microstroma tonellianum Ferraris SPECIES
-=======
+# Microstroma tonellianum Ferraris SPECIES
 
 #### Status
 ACCEPTED

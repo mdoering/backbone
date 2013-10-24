@@ -1,5 +1,4 @@
-Leucotrichaceae FAMILY
-=======
+# Leucotrichaceae FAMILY
 
 #### Status
 ACCEPTED

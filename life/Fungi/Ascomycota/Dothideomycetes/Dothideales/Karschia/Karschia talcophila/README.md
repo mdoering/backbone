@@ -1,5 +1,4 @@
-Karschia talcophila var. talcophila VARIETY
-=======
+# Karschia talcophila (Ach. ex Flot.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 460 (1865)
 
 #### Original name
-Karschia talcophila var. talcophila
+Lecidea talcophila Ach.
 
 ### Remarks
 null

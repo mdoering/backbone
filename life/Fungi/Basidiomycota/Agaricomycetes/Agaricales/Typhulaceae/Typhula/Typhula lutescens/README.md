@@ -1,5 +1,4 @@
-Typhula lutescens Boud., 1900 SPECIES
-=======
+# Typhula lutescens Boud., 1900 SPECIES
 
 #### Status
 ACCEPTED

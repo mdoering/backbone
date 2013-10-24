@@ -1,5 +1,4 @@
-Helotium knautiae Velen. SPECIES
-=======
+# Helotium knautiae Velen. SPECIES
 
 #### Status
 ACCEPTED

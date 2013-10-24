@@ -1,5 +1,4 @@
-Thiobacillus concretivorus Parker, 1945 (Approved Lists, 1980) SPECIES
-=======
+# Thiobacillus concretivorus Parker, 1945 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

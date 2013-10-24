@@ -1,5 +1,4 @@
-Marasmius aimara Singer SPECIES
-=======
+# Marasmius aimara Singer SPECIES
 
 #### Status
 ACCEPTED

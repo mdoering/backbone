@@ -1,5 +1,4 @@
-Pseudocercospora oxystelmaticola A.K. Srivast. SPECIES
-=======
+# Pseudocercospora oxystelmaticola A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

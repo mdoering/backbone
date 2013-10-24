@@ -1,5 +1,4 @@
-Dentocorticium (Parmasto) M.J. Larsen & Gilbertson, 1974 GENUS
-=======
+# Dentocorticium (Parmasto) M.J. Larsen & Gilbertson, 1974 GENUS
 
 #### Status
 ACCEPTED

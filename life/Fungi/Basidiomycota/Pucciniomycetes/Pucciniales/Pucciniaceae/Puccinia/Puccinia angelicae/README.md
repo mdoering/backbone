@@ -1,17 +1,16 @@
-Puccinia bullata f. sp FORM
-=======
+# Puccinia angelicae (Schumach.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 52 (1870)
 
 #### Original name
-Puccinia bullata f. sp
+Uredo angelicae Schumach., 1803
 
 ### Remarks
 null

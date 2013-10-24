@@ -1,5 +1,4 @@
-Anteholosticha oculata Mereschkowsky, 1877 SPECIES
-=======
+# Anteholosticha oculata Mereschkowsky, 1877 SPECIES
 
 #### Status
 ACCEPTED

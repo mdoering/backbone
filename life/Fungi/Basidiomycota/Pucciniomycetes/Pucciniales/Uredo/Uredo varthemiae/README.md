@@ -1,5 +1,4 @@
-Uredo varthemiae Rayss SPECIES
-=======
+# Uredo varthemiae Rayss SPECIES
 
 #### Status
 ACCEPTED

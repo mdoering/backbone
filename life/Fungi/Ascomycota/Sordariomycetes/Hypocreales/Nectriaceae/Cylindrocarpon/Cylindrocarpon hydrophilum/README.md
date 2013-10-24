@@ -1,5 +1,4 @@
-Cylindrocarpon hydrophilum Buffin & Hennebert SPECIES
-=======
+# Cylindrocarpon hydrophilum Buffin & Hennebert SPECIES
 
 #### Status
 ACCEPTED

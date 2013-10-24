@@ -1,5 +1,4 @@
-Pyricularia sansevieriae Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Pyricularia sansevieriae Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

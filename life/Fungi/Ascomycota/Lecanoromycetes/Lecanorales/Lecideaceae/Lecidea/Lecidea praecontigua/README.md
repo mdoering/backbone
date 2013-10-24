@@ -1,5 +1,4 @@
-Lecidea praecontigua Nyl. SPECIES
-=======
+# Lecidea praecontigua Nyl. SPECIES
 
 #### Status
 ACCEPTED

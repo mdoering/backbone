@@ -1,5 +1,4 @@
-Phomopsis pau Gonz. Frag. SPECIES
-=======
+# Phomopsis pau Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

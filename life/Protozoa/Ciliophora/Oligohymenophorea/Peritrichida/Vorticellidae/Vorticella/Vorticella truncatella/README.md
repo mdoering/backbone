@@ -1,5 +1,4 @@
-Vorticella truncatella Muller, 1773 SPECIES
-=======
+# Vorticella truncatella Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

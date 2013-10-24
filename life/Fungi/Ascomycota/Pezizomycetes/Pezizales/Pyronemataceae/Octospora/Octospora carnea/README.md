@@ -1,5 +1,4 @@
-Octospora carnea Hedw. SPECIES
-=======
+# Octospora carnea Hedw. SPECIES
 
 #### Status
 ACCEPTED

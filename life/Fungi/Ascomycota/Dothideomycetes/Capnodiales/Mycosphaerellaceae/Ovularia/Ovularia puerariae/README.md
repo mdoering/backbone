@@ -1,5 +1,4 @@
-Ovularia puerariae Sawada SPECIES
-=======
+# Ovularia puerariae Sawada SPECIES
 
 #### Status
 ACCEPTED

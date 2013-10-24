@@ -1,5 +1,4 @@
-Coniothyrium subtile Corda SPECIES
-=======
+# Coniothyrium subtile Corda SPECIES
 
 #### Status
 ACCEPTED

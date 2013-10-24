@@ -1,5 +1,4 @@
-Camptomeris albiziicola (Thirum. & Naras.) E.A. Bessey SPECIES
-=======
+# Camptomeris albiziicola (Thirum. & Naras.) E.A. Bessey SPECIES
 
 #### Status
 ACCEPTED

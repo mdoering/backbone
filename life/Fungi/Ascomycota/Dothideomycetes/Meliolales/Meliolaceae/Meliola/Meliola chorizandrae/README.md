@@ -1,5 +1,4 @@
-Meliola chorizandrae B. Huguenin SPECIES
-=======
+# Meliola chorizandrae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

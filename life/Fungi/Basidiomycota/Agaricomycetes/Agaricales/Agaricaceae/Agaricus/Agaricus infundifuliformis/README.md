@@ -1,5 +1,4 @@
-Agaricus infundifuliformis Schumach. SPECIES
-=======
+# Agaricus infundifuliformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

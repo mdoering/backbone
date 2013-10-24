@@ -1,5 +1,4 @@
-Plagiostigme lafoensiae Bat. & J.L. Bezerra SPECIES
-=======
+# Plagiostigme lafoensiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

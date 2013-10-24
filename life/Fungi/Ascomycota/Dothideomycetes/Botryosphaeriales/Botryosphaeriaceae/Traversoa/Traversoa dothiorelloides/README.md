@@ -1,5 +1,4 @@
-Traversoa dothiorelloides Sacc. & P. Syd. SPECIES
-=======
+# Traversoa dothiorelloides Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces spegazzinii (De Toni) Arthur SPECIES
-=======
+# Uromyces spegazzinii (De Toni) Arthur SPECIES
 
 #### Status
 ACCEPTED

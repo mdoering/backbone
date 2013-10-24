@@ -1,5 +1,4 @@
-Cladonia hondoensis var. hondoensis VARIETY
-=======
+# Cladonia hondoensis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia hondoensis var. hondoensis
+Cladonia hondoensis Asahina
 
 ### Remarks
 null

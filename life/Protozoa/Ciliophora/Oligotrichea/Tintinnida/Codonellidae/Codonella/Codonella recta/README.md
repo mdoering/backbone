@@ -1,5 +1,4 @@
-Codonella recta Kofoid & Campbell, 1929 SPECIES
-=======
+# Codonella recta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

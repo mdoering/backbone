@@ -1,5 +1,4 @@
-Reticularia ramosa J.F. Gmel. SPECIES
-=======
+# Reticularia ramosa J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

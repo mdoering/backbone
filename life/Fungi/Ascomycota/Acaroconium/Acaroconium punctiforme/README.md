@@ -1,5 +1,4 @@
-Acaroconium punctiforme Kocourk. & D. Hawksw., 2008 SPECIES
-=======
+# Acaroconium punctiforme Kocourk. & D. Hawksw., 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetocypha solenioides (P. Karst.) Kuntze SPECIES
-=======
+# Chaetocypha solenioides (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

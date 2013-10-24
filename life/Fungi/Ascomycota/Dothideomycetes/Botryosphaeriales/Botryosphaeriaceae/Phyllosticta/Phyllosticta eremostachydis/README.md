@@ -1,5 +1,4 @@
-Phyllosticta eremostachydis Byzova SPECIES
-=======
+# Phyllosticta eremostachydis Byzova SPECIES
 
 #### Status
 ACCEPTED

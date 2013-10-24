@@ -1,5 +1,4 @@
-Telamonia filamentosa Velen. SPECIES
-=======
+# Telamonia filamentosa Velen. SPECIES
 
 #### Status
 ACCEPTED

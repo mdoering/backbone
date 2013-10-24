@@ -1,5 +1,4 @@
-Morchella cava Fr. SPECIES
-=======
+# Morchella cava Fr. SPECIES
 
 #### Status
 ACCEPTED

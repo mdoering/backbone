@@ -1,5 +1,4 @@
-Glomerella banisteriae Viégas, 1944 SPECIES
-=======
+# Glomerella banisteriae Viégas, 1944 SPECIES
 
 #### Status
 ACCEPTED

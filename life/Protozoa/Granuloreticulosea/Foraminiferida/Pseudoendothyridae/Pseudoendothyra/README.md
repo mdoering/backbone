@@ -1,5 +1,4 @@
-Pseudoendothyra Mikhailov, 1939 GENUS
-=======
+# Pseudoendothyra Mikhailov, 1939 GENUS
 
 #### Status
 ACCEPTED

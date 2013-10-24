@@ -1,5 +1,4 @@
-Anturina Wynn Jones, 1984 GENUS
-=======
+# Anturina Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

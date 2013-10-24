@@ -1,5 +1,4 @@
-Thelotrema intergescens Müll. Arg., 1893 SPECIES
-=======
+# Thelotrema intergescens Müll. Arg., 1893 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeriella horridula Syd. SPECIES
-=======
+# Dimeriella horridula Syd. SPECIES
 
 #### Status
 ACCEPTED

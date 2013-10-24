@@ -1,5 +1,4 @@
-Polyblastia kernstockii Zschacke SPECIES
-=======
+# Polyblastia kernstockii Zschacke SPECIES
 
 #### Status
 ACCEPTED

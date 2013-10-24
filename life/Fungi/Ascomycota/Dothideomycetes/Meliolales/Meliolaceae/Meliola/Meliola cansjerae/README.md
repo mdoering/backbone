@@ -1,5 +1,4 @@
-Meliola cansjerae var. cansjerae VARIETY
-=======
+# Meliola cansjerae Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Farlowia 3: 290 (1948)
 
 #### Original name
-Meliola cansjerae var. cansjerae
+Meliola cansjerae Hansf. & Thirum.
 
 ### Remarks
 null

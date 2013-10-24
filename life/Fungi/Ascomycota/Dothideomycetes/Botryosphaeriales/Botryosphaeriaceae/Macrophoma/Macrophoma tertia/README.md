@@ -1,5 +1,4 @@
-Macrophoma tertia (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma tertia (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

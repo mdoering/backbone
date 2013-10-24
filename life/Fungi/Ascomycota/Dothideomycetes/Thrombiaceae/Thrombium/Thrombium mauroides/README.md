@@ -1,5 +1,4 @@
-Thrombium mauroides Zschacke SPECIES
-=======
+# Thrombium mauroides Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectendomeliola walsurae Hosag. & D.K. Agarwal, 2006 SPECIES
-=======
+# Ectendomeliola walsurae Hosag. & D.K. Agarwal, 2006 SPECIES
 
 #### Status
 ACCEPTED

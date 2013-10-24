@@ -1,5 +1,4 @@
-Russula duportii f. duportii FORM
-=======
+# Russula duportii W. Phillips SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 13(no. 66): 49 (1884)
 
 #### Original name
-Russula duportii f. duportii
+Russula duportii W. Phillips
 
 ### Remarks
 null

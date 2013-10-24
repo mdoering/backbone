@@ -1,5 +1,4 @@
-Scutellinia heterosculpturata Kullman & Raitv. SPECIES
-=======
+# Scutellinia heterosculpturata Kullman & Raitv. SPECIES
 
 #### Status
 ACCEPTED

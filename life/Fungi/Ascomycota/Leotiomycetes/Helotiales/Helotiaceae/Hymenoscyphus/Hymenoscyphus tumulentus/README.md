@@ -1,5 +1,4 @@
-Hymenoscyphus tumulentus (Delacr. & Prill.) Kuntze SPECIES
-=======
+# Hymenoscyphus tumulentus (Delacr. & Prill.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

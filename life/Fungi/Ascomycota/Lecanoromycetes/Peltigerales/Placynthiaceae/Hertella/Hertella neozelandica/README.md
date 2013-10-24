@@ -1,5 +1,4 @@
-Hertella neozelandica Henssen SPECIES
-=======
+# Hertella neozelandica Henssen SPECIES
 
 #### Status
 ACCEPTED

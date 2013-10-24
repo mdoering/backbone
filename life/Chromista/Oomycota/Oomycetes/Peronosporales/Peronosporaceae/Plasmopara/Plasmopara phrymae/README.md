@@ -1,5 +1,4 @@
-Plasmopara phrymae S. Ito & Hara SPECIES
-=======
+# Plasmopara phrymae S. Ito & Hara SPECIES
 
 #### Status
 ACCEPTED

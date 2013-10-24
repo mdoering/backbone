@@ -1,5 +1,4 @@
-Epicoccospora nepalensis Budathoki & S.K. Singh, 1995 SPECIES
-=======
+# Epicoccospora nepalensis Budathoki & S.K. Singh, 1995 SPECIES
 
 #### Status
 ACCEPTED

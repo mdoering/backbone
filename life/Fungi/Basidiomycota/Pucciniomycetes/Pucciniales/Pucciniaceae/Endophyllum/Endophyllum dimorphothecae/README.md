@@ -1,5 +1,4 @@
-Endophyllum dimorphothecae A.R. Wood & Crous, 2005 SPECIES
-=======
+# Endophyllum dimorphothecae A.R. Wood & Crous, 2005 SPECIES
 
 #### Status
 ACCEPTED

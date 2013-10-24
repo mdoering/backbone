@@ -1,5 +1,4 @@
-Cercospora ternateae Petch SPECIES
-=======
+# Cercospora ternateae Petch SPECIES
 
 #### Status
 ACCEPTED

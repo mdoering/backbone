@@ -1,5 +1,4 @@
-Sphaenosiphon biscayensis (Sauvageau) P.C. Silva ex Haroun, Gil-Rodríguez & Díaz de Castro SPECIES
-=======
+# Sphaenosiphon biscayensis (Sauvageau) P.C. Silva ex Haroun, Gil-Rodríguez & Díaz de Castro SPECIES
 
 #### Status
 ACCEPTED

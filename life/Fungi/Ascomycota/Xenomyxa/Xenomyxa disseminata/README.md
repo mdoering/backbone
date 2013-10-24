@@ -1,5 +1,4 @@
-Xenomyxa disseminata Syd., 1939 SPECIES
-=======
+# Xenomyxa disseminata Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

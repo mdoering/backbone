@@ -1,14 +1,13 @@
-Ophiocordyceps kangdingesis (M. Zang & Kinjo) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps kangdingensis (M. Zang & Kinjo) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 44 (2007)
 
 #### Original name
 Cordyceps kangdingensis M. Zang & Kinjo

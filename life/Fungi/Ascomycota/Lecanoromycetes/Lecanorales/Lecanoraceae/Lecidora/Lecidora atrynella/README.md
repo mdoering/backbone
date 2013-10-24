@@ -1,5 +1,4 @@
-Lecidora atrynella (Nyl.) Motyka SPECIES
-=======
+# Lecidora atrynella (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthopleuribacter pedis Fukunaga, Kurahashi, Yanagi, Yokota & Harayama, 2008 SPECIES
-=======
+# Acanthopleuribacter pedis Fukunaga, Kurahashi, Yanagi, Yokota & Harayama, 2008 SPECIES
 
 #### Status
 ACCEPTED

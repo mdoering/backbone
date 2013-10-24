@@ -1,5 +1,4 @@
-Coprinus pachysphaerophorus Bogart SPECIES
-=======
+# Coprinus pachysphaerophorus Bogart SPECIES
 
 #### Status
 ACCEPTED

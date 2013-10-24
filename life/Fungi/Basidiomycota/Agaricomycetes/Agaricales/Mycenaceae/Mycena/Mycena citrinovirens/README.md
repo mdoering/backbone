@@ -1,5 +1,4 @@
-Mycena citrinovirens M. Lange SPECIES
-=======
+# Mycena citrinovirens M. Lange SPECIES
 
 #### Status
 ACCEPTED

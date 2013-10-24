@@ -1,5 +1,4 @@
-Gasparrinia subcerata (Stizenb.) Oxner SPECIES
-=======
+# Gasparrinia subcerata (Stizenb.) Oxner SPECIES
 
 #### Status
 ACCEPTED

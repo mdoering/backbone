@@ -1,5 +1,4 @@
-Aposphaeria elevata (Peck) Berl. & Voglino SPECIES
-=======
+# Aposphaeria elevata (Peck) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

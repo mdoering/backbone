@@ -1,5 +1,4 @@
-Periconiella portoricensis (F. Stevens & Dalbey) M.B. Ellis SPECIES
-=======
+# Periconiella portoricensis (F. Stevens & Dalbey) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

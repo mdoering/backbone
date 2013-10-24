@@ -1,5 +1,4 @@
-Anaptychia palmatula (Michx.) Vain. SPECIES
-=======
+# Anaptychia palmatula (Michx.) Vain. SPECIES
 
 #### Status
 ACCEPTED

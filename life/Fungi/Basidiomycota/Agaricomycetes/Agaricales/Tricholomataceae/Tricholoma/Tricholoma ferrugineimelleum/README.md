@@ -1,5 +1,4 @@
-Tricholoma ferrugineimelleum Corner SPECIES
-=======
+# Tricholoma ferrugineimelleum Corner SPECIES
 
 #### Status
 ACCEPTED

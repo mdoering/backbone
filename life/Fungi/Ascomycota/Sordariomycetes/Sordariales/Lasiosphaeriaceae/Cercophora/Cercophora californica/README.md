@@ -1,14 +1,13 @@
-Podospora californica (Plowr.) Niessl, 1883 SPECIES
-=======
+# Cercophora californica (Plowr.) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+Symb. bot. upsal. 20(1): 105 (1972)
 
 #### Original name
 Sordaria californica Plowr., 1878

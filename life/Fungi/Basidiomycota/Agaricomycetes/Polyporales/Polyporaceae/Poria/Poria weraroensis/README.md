@@ -1,5 +1,4 @@
-Poria weraroensis G. Cunn., 1947 SPECIES
-=======
+# Poria weraroensis G. Cunn., 1947 SPECIES
 
 #### Status
 ACCEPTED

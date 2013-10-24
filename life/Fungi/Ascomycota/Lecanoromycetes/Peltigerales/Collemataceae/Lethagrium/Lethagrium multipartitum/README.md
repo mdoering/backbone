@@ -1,5 +1,4 @@
-Lethagrium multipartitum (Nyl.) Kremp. SPECIES
-=======
+# Lethagrium multipartitum (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

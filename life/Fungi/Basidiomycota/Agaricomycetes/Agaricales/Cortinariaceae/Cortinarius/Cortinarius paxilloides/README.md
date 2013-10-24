@@ -1,5 +1,4 @@
-Cortinarius paxilloides (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius paxilloides (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

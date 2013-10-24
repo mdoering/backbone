@@ -1,5 +1,4 @@
-Biatora glebiatra Norman SPECIES
-=======
+# Biatora glebiatra Norman SPECIES
 
 #### Status
 ACCEPTED

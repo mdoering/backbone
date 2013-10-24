@@ -1,5 +1,4 @@
-Psathyra alachuana Murrill SPECIES
-=======
+# Psathyra alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

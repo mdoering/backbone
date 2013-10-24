@@ -1,5 +1,4 @@
-Parmelia pseudocyphellaria Vain. ex Hillmann SPECIES
-=======
+# Parmelia pseudocyphellaria Vain. ex Hillmann SPECIES
 
 #### Status
 ACCEPTED

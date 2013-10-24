@@ -1,5 +1,4 @@
-Visbysphaera wenlockia (Thusu, 1973) Dorning, 1981 SPECIES
-=======
+# Visbysphaera wenlockia (Thusu, 1973) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

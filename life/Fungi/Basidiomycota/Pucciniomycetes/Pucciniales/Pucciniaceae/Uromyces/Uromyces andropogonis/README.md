@@ -1,14 +1,13 @@
-Caeomurus andropogonis (Tracy) Kuntze, 1898 SPECIES
-=======
+# Uromyces andropogonis Tracy, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 449 (1898)
+J. Mycol. 7(3): 281 (1893)
 
 #### Original name
 Uromyces andropogonis Tracy, 1893

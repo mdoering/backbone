@@ -1,5 +1,4 @@
-Hydnum muelleri Berk. SPECIES
-=======
+# Hydnum muelleri Berk. SPECIES
 
 #### Status
 ACCEPTED

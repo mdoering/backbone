@@ -1,5 +1,4 @@
-Valsa juglandis (Schwein.) Curr. SPECIES
-=======
+# Valsa juglandis (Schwein.) Curr. SPECIES
 
 #### Status
 ACCEPTED

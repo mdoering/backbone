@@ -1,5 +1,4 @@
-Pseudothyrium Höhn. GENUS
-=======
+# Pseudothyrium Höhn. GENUS
 
 #### Status
 ACCEPTED

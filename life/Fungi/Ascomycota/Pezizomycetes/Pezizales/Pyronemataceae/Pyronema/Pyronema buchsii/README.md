@@ -1,5 +1,4 @@
-Pyronema buchsii Henn. SPECIES
-=======
+# Pyronema buchsii Henn. SPECIES
 
 #### Status
 ACCEPTED

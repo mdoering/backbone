@@ -1,5 +1,4 @@
-Uredo pogonarthriae Syd. & P. Syd. SPECIES
-=======
+# Uredo pogonarthriae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

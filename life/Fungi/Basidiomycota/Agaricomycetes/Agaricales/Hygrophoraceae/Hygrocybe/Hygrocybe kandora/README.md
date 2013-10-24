@@ -1,5 +1,4 @@
-Hygrocybe kandora Grgur. & A.M. Young SPECIES
-=======
+# Hygrocybe kandora Grgur. & A.M. Young SPECIES
 
 #### Status
 ACCEPTED

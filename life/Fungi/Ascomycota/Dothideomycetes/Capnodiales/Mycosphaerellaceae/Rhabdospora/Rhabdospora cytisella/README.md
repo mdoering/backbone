@@ -1,5 +1,4 @@
-Rhabdospora cytisella Traverso & Gonz. Frag. SPECIES
-=======
+# Rhabdospora cytisella Traverso & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

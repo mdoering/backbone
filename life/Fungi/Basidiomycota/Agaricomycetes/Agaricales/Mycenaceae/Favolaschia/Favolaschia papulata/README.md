@@ -1,5 +1,4 @@
-Favolaschia papulata (Mont.) Singer SPECIES
-=======
+# Favolaschia papulata (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

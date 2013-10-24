@@ -1,5 +1,4 @@
-Entoloma jennyae Noordel. & Cate, 1994 SPECIES
-=======
+# Entoloma jennyae Noordel. & Cate, 1994 SPECIES
 
 #### Status
 ACCEPTED

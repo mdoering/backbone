@@ -1,5 +1,4 @@
-Parastereopsis borneensis Corner, 1976 SPECIES
-=======
+# Parastereopsis borneensis Corner, 1976 SPECIES
 
 #### Status
 ACCEPTED

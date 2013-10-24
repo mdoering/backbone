@@ -1,5 +1,4 @@
-Septoria simillima Thüm. SPECIES
-=======
+# Septoria simillima Thüm. SPECIES
 
 #### Status
 ACCEPTED

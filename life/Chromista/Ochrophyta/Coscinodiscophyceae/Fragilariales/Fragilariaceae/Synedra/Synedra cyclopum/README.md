@@ -1,5 +1,4 @@
-Synedra cyclopum Brutschi SPECIES
-=======
+# Synedra cyclopum Brutschi SPECIES
 
 #### Status
 ACCEPTED

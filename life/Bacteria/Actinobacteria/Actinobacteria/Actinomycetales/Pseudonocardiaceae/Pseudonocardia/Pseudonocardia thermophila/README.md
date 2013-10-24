@@ -1,5 +1,4 @@
-Pseudonocardia thermophila Henssen, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Pseudonocardia thermophila Henssen, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphozyma de Hoog & M.T. Smith, 1981 GENUS
-=======
+# Hyphozyma de Hoog & M.T. Smith, 1981 GENUS
 
 #### Status
 ACCEPTED

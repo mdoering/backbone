@@ -1,5 +1,4 @@
-Ovularia duplex Sacc., 1880 SPECIES
-=======
+# Ovularia duplex Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

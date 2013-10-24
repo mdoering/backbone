@@ -1,5 +1,4 @@
-Trachelomonas nexilis Palmer SPECIES
-=======
+# Trachelomonas nexilis Palmer SPECIES
 
 #### Status
 ACCEPTED

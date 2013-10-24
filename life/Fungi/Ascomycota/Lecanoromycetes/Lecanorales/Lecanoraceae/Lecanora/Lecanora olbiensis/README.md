@@ -1,5 +1,4 @@
-Lecanora olbiensis Nyl. SPECIES
-=======
+# Lecanora olbiensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

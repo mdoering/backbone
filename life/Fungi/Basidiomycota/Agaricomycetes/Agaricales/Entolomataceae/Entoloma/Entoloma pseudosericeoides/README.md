@@ -1,5 +1,4 @@
-Entoloma pseudosericeoides Noordel. & Hauskn. SPECIES
-=======
+# Entoloma pseudosericeoides Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

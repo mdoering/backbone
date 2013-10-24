@@ -1,5 +1,4 @@
-Leptosphaeria valdiviensis Speg. SPECIES
-=======
+# Leptosphaeria valdiviensis Speg. SPECIES
 
 #### Status
 ACCEPTED

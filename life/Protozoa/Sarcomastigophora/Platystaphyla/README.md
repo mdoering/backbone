@@ -1,5 +1,4 @@
-Platystaphyla Masters, 1976 GENUS
-=======
+# Platystaphyla Masters, 1976 GENUS
 
 #### Status
 ACCEPTED

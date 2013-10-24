@@ -1,5 +1,4 @@
-Pseudocercospora passiflorae-setaceae A.C. Dianese, A.M. Costa & Dianese SPECIES
-=======
+# Pseudocercospora passiflorae-setaceae A.C. Dianese, A.M. Costa & Dianese SPECIES
 
 #### Status
 ACCEPTED

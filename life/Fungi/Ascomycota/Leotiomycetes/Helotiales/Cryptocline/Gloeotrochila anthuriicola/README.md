@@ -1,5 +1,4 @@
-Gloeotrochila anthuriicola Bat. & Nascim. SPECIES
-=======
+# Gloeotrochila anthuriicola Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma baccharidis Brunaud SPECIES
-=======
+# Phoma baccharidis Brunaud SPECIES
 
 #### Status
 ACCEPTED

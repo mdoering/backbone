@@ -1,5 +1,4 @@
-Coriolopsis fumosa Murrill SPECIES
-=======
+# Coriolopsis fumosa Murrill SPECIES
 
 #### Status
 ACCEPTED

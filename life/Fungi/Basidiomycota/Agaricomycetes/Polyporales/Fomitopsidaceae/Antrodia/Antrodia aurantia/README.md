@@ -1,5 +1,4 @@
-Antrodia aurantia Lodge, Ryvarden & Perd.-Sánch., 2001 SPECIES
-=======
+# Antrodia aurantia Lodge, Ryvarden & Perd.-Sánch., 2001 SPECIES
 
 #### Status
 ACCEPTED

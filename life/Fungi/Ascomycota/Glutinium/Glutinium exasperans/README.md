@@ -1,5 +1,4 @@
-Glutinium exasperans Fr., 1849 SPECIES
-=======
+# Glutinium exasperans Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catillaria dissa (Stirt.) Zahlbr. SPECIES
-=======
+# Hafellia dissa (Stirt.) H. Mayrhofer & Sheard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 4: 16 (1926)
+in Sheard, Bryologist 95(1): 87 (1992)
 
 #### Original name
 Lecidea dissa Stirt.

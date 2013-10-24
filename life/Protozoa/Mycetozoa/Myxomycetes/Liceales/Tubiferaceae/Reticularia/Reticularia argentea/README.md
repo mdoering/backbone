@@ -1,5 +1,4 @@
-Reticularia argentea Poir. SPECIES
-=======
+# Reticularia argentea Poir. SPECIES
 
 #### Status
 ACCEPTED

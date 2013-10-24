@@ -1,5 +1,4 @@
-Rhizocarpon bryonthae Poelt SPECIES
-=======
+# Rhizocarpon bryonthae Poelt SPECIES
 
 #### Status
 ACCEPTED

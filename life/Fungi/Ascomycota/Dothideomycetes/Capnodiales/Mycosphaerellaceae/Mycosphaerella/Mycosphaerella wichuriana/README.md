@@ -1,5 +1,4 @@
-Mycosphaerella wichuriana J. Schröt. SPECIES
-=======
+# Mycosphaerella wichuriana J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

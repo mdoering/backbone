@@ -1,5 +1,4 @@
-Shewanella canadensis Zhao, Manno, Thiboutot, Ampleman & Hawari, 2007 SPECIES
-=======
+# Shewanella canadensis Zhao, Manno, Thiboutot, Ampleman & Hawari, 2007 SPECIES
 
 #### Status
 ACCEPTED

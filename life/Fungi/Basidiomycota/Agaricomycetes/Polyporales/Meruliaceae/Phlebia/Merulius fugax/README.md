@@ -1,5 +1,4 @@
-Merulius fugax SPECIES
-=======
+# Merulius fugax SPECIES
 
 #### Status
 ACCEPTED

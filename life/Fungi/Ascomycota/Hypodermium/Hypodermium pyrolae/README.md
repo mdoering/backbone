@@ -1,5 +1,4 @@
-Hypodermium pyrolae (Schultz) Link SPECIES
-=======
+# Hypodermium pyrolae (Schultz) Link SPECIES
 
 #### Status
 ACCEPTED

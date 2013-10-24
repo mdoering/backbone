@@ -1,5 +1,4 @@
-Asterostomella walleniae Petr. & Cif. SPECIES
-=======
+# Asterostomella walleniae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

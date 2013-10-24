@@ -1,5 +1,4 @@
-Stereocaulon corallinum SPECIES
-=======
+# Stereocaulon corallinum SPECIES
 
 #### Status
 ACCEPTED

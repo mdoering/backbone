@@ -1,5 +1,4 @@
-Rhynchophoma GENUS
-=======
+# Rhynchophoma GENUS
 
 #### Status
 ACCEPTED

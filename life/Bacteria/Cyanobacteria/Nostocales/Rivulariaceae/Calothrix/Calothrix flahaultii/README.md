@@ -1,5 +1,4 @@
-Calothrix flahaultii Frémy SPECIES
-=======
+# Calothrix flahaultii Frémy SPECIES
 
 #### Status
 ACCEPTED

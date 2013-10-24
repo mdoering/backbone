@@ -1,5 +1,4 @@
-Aleurisma GENUS
-=======
+# Aleurisma GENUS
 
 #### Status
 ACCEPTED

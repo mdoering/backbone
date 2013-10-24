@@ -1,5 +1,4 @@
-Tricholomopsis bambusina var. bambusina VARIETY
-=======
+# Tricholomopsis bambusina Hongo SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tricholomopsis bambusina var. bambusina
+Tricholomopsis bambusina Hongo
 
 ### Remarks
 null

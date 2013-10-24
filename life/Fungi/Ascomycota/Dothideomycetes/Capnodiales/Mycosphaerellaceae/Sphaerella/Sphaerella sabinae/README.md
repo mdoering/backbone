@@ -1,5 +1,4 @@
-Sphaerella sabinae (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella sabinae (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

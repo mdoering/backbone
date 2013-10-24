@@ -1,5 +1,4 @@
-Leucogramma radaccensis G. Mey. SPECIES
-=======
+# Leucogramma radaccensis G. Mey. SPECIES
 
 #### Status
 ACCEPTED

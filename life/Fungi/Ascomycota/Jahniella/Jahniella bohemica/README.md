@@ -1,5 +1,4 @@
-Jahniella bohemica Petr., 1921 SPECIES
-=======
+# Jahniella bohemica Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

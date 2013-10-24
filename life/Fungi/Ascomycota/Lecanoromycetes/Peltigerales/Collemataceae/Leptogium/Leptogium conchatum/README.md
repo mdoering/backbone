@@ -1,5 +1,4 @@
-Leptogium conchatum (Tuck.) C.W. Dodge SPECIES
-=======
+# Leptogium conchatum (Tuck.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

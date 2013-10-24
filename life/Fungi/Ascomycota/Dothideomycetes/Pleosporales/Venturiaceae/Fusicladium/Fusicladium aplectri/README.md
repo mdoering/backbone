@@ -1,5 +1,4 @@
-Fusicladium aplectri Ellis & Everh. SPECIES
-=======
+# Fusicladium aplectri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhizobium huakuii Chen et al., 1991 SPECIES
-=======
+# Mesorhizobium huakuii (Chen et al., 1991) Jarvis et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

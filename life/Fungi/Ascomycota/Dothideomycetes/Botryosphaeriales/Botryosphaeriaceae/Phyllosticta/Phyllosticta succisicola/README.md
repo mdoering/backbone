@@ -1,5 +1,4 @@
-Phyllosticta succisicola Cejp SPECIES
-=======
+# Phyllosticta succisicola Cejp SPECIES
 
 #### Status
 ACCEPTED

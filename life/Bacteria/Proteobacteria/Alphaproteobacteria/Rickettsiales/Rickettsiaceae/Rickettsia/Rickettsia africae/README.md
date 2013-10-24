@@ -1,5 +1,4 @@
-Rickettsia africae Kelly et al., 1996 SPECIES
-=======
+# Rickettsia africae Kelly et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

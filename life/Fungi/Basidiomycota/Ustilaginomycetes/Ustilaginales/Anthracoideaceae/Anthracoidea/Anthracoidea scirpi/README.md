@@ -1,14 +1,13 @@
-Cintractia scirpi (J.G. Kühn) Schellenb., 1911 SPECIES
-=======
+# Anthracoidea scirpi (J.G. Kühn) Kukkonen, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kryptogamenflora der Schweiz 3: 77 (1911)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 34(3): 69 (1963)
 
 #### Original name
 Ustilago scirpi J.G. Kühn

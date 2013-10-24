@@ -1,5 +1,4 @@
-Pocillaria flos (G. Mey.) Kuntze SPECIES
-=======
+# Pocillaria flos (G. Mey.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

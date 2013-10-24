@@ -1,5 +1,4 @@
-Laboulbenia drakei R.K. Benj. SPECIES
-=======
+# Laboulbenia drakei R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora gleicheniae J.M. Yen SPECIES
-=======
+# Cercospora gleicheniae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peterocanium Carter, 1893 GENUS
-=======
+# Pterocanium Ehrenberg, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Amer. Micr. J. , 14, 71.
+Ber. Verh. Preuss. Akad. Wiss. , 1846, Tab. p. 385.
 
 #### Original name
 null

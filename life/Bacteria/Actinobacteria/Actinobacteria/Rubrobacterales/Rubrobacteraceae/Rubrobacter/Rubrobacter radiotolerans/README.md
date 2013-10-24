@@ -1,8 +1,7 @@
-Arthrobacter radiotolerans Yoshinaka et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Rubrobacter radiotolerans (Yoshinaka et al., 1973) Suzuki et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Dictyosphaeriopsis W. Schmidle, 1903 GENUS
-=======
+# Dictyosphaeriopsis W. Schmidle, 1903 GENUS
 
 #### Status
 ACCEPTED

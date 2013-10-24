@@ -1,17 +1,16 @@
-Myxomphalos Wallr. GENUS
-=======
+# Agyrium Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 2: 520 (1833)
+Syst. mycol. (Lundae) 2(1): 210, 231 (1822)
 
 #### Original name
-Myxomphalos Wallr.
+Agyrium Fr.
 
 ### Remarks
 null

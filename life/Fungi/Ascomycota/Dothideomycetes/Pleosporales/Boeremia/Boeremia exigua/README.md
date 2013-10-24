@@ -1,17 +1,16 @@
-Phoma exigua f. sp FORM
-=======
+# Boeremia exigua SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 51: 619 (1968)
+null
 
 #### Original name
-Phoma exigua f. sp
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatora plocina (Ach.) Fr. SPECIES
-=======
+# Biatora plocina (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

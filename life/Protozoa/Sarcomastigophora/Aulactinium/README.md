@@ -1,5 +1,4 @@
-Aulactinium Haeckel, 1887 GENUS
-=======
+# Aulactinium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

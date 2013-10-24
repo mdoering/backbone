@@ -1,5 +1,4 @@
-Sirothecium verrucosum (Vouaux) Keissl. SPECIES
-=======
+# Sirothecium verrucosum (Vouaux) Keissl. SPECIES
 
 #### Status
 ACCEPTED

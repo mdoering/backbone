@@ -1,5 +1,4 @@
-Telamonia multisquamulosa Velen. SPECIES
-=======
+# Telamonia multisquamulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

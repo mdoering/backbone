@@ -1,5 +1,4 @@
-Coprinopsis lagopides (P. Karst.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis lagopides (P. Karst.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

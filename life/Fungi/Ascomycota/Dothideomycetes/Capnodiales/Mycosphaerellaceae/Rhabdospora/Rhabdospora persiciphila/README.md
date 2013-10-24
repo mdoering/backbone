@@ -1,5 +1,4 @@
-Rhabdospora persiciphila Speg. SPECIES
-=======
+# Rhabdospora persiciphila Speg. SPECIES
 
 #### Status
 ACCEPTED

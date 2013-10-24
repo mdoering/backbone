@@ -1,17 +1,16 @@
-Clavariachaeta Lloyd GENUS
-=======
+# Clavariachaete Corner GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7(66): 1111 (1922)
+Ann. Bot. Mem. 1: 268, 689, 691 (1950)
 
 #### Original name
-Clavariachaeta Lloyd
+Clavariachaete Corner
 
 ### Remarks
 null

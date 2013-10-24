@@ -1,5 +1,4 @@
-Trametes argyropotamica Speg. SPECIES
-=======
+# Trametes argyropotamica Speg. SPECIES
 
 #### Status
 ACCEPTED

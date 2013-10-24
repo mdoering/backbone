@@ -1,5 +1,4 @@
-Diatrypella herbacea Ellis & Everh. SPECIES
-=======
+# Diatrypella herbacea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

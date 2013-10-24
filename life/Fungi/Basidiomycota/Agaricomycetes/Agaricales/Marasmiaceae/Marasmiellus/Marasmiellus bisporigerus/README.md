@@ -1,5 +1,4 @@
-Marasmiellus bisporigerus Noordel. & Uljé SPECIES
-=======
+# Marasmiellus bisporigerus Noordel. & Uljé SPECIES
 
 #### Status
 ACCEPTED

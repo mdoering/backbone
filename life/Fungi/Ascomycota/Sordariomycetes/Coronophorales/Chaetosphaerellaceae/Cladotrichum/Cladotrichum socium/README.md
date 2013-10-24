@@ -1,5 +1,4 @@
-Cladotrichum socium Penz. & Sacc. SPECIES
-=======
+# Cladotrichum socium Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

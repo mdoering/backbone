@@ -1,5 +1,4 @@
-Sesia wrightii (Berk.) Kuntze SPECIES
-=======
+# Sesia wrightii (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

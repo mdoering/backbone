@@ -1,5 +1,4 @@
-Amiculosphaera R.Harland, 1979 GENUS
-=======
+# Amiculosphaera R.Harland, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pertusaria leucostoma var. leucostoma VARIETY
-=======
+# Pertusaria leucostomoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 5: 172 (1928)
 
 #### Original name
-Thelotrema leucostomum Ach.
+Pertusaria leucostomoides Zahlbr.
 
 ### Remarks
 null

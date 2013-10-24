@@ -1,5 +1,4 @@
-Lenzites gastaldii Heer SPECIES
-=======
+# Lenzites gastaldii Heer SPECIES
 
 #### Status
 ACCEPTED

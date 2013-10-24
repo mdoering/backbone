@@ -1,5 +1,4 @@
-Lecanora glaucolutescens Nyl. SPECIES
-=======
+# Lecanora glaucolutescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

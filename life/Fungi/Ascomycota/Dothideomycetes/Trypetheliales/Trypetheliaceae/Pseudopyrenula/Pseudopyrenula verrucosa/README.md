@@ -1,5 +1,4 @@
-Pseudopyrenula verrucosa Vain. SPECIES
-=======
+# Pseudopyrenula verrucosa Vain. SPECIES
 
 #### Status
 ACCEPTED

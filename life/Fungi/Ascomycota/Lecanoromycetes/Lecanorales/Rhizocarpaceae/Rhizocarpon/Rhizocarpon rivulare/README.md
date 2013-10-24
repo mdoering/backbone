@@ -1,5 +1,4 @@
-Rhizocarpon rivulare Müll. Arg. SPECIES
-=======
+# Rhizocarpon rivulare Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

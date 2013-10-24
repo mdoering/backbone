@@ -1,14 +1,13 @@
-Saturnomyces humicola Cain, 1956 SPECIES
-=======
+# Emericellopsis humicola (Cain) Cain ex Grosklags & Swift, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 34: 136 (1956)
+Mycologia 49: 306 (1957)
 
 #### Original name
 Saturnomyces humicola Cain, 1956

@@ -1,5 +1,4 @@
-Phormidium boneri SPECIES
-=======
+# Phormidium boneri SPECIES
 
 #### Status
 ACCEPTED

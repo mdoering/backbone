@@ -1,17 +1,16 @@
-Chlorosplenium aeruginosum var. aeruginosum VARIETY
-=======
+# Chlorociboria aeruginosa (Oeder) Seaver ex C.S. Ramamurthi, Korf & L.R. Batra, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Discom. 22 (1864)
+Mycologia 49(6): 859 (1958)
 
 #### Original name
-Chlorosplenium aeruginosum var. aeruginosum
+Helvella aeruginosa Oeder, 1770
 
 ### Remarks
 null

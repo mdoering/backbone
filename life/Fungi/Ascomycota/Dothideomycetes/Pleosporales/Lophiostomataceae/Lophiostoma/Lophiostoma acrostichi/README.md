@@ -1,5 +1,4 @@
-Lophiostoma acrostichi (K.D. Hyde) Aptroot & K.D. Hyde, 2002 SPECIES
-=======
+# Lophiostoma acrostichi (K.D. Hyde) Aptroot & K.D. Hyde, 2002 SPECIES
 
 #### Status
 ACCEPTED

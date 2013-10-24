@@ -1,5 +1,4 @@
-Distolomyces malayanus Thaxt. SPECIES
-=======
+# Distolomyces malayanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

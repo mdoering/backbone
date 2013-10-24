@@ -1,5 +1,4 @@
-Aecidium corni Sowerby SPECIES
-=======
+# Aecidium corni Sowerby SPECIES
 
 #### Status
 ACCEPTED

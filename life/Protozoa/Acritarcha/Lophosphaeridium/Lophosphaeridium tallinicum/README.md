@@ -1,5 +1,4 @@
-Lophosphaeridium tallinicum (Timofeev, 1966) Fensome et al., 1990 SPECIES
-=======
+# Lophosphaeridium tallinicum (Timofeev, 1966) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

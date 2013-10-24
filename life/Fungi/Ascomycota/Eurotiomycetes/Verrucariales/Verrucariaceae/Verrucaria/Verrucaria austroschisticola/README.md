@@ -1,5 +1,4 @@
-Verrucaria austroschisticola P.M. McCarthy & P.N. Johnson SPECIES
-=======
+# Verrucaria austroschisticola P.M. McCarthy & P.N. Johnson SPECIES
 
 #### Status
 ACCEPTED

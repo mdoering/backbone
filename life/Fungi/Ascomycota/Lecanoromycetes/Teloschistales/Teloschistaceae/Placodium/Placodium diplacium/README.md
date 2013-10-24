@@ -1,5 +1,4 @@
-Placodium diplacium var. diplacium VARIETY
-=======
+# Placodium diplacium (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium diplacium var. diplacium
+Lecanora diplacia Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactocollybia piliicystis D.A. Reid & Eicker, 1998 SPECIES
-=======
+# Lactocollybia piliicystis D.A. Reid & Eicker, 1998 SPECIES
 
 #### Status
 ACCEPTED

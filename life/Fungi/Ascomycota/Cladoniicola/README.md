@@ -1,5 +1,4 @@
-Cladoniicola Diederich, van den Boom & Aptroot GENUS
-=======
+# Cladoniicola Diederich, van den Boom & Aptroot GENUS
 
 #### Status
 ACCEPTED

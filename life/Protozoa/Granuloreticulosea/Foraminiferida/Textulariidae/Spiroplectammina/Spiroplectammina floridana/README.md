@@ -1,5 +1,4 @@
-Spiroplectammina floridana SPECIES
-=======
+# Spiroplectammina floridana SPECIES
 
 #### Status
 ACCEPTED

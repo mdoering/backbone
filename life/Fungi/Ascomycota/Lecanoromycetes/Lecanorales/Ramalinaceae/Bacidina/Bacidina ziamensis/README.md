@@ -1,5 +1,4 @@
-Bacidina ziamensis (Vezda) Vezda SPECIES
-=======
+# Bacidina ziamensis (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

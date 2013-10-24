@@ -1,5 +1,4 @@
-Acremonium psychrophilum C. Möller & W. Gams, 1993 SPECIES
-=======
+# Acremonium psychrophilum C. Möller & W. Gams, 1993 SPECIES
 
 #### Status
 ACCEPTED

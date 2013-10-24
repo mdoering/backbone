@@ -1,5 +1,4 @@
-Hassallia M.J. Berkeley ex É. Bornet & C. Flahault, 1887 GENUS
-=======
+# Hassallia M.J. Berkeley ex É. Bornet & C. Flahault, 1887 GENUS
 
 #### Status
 ACCEPTED

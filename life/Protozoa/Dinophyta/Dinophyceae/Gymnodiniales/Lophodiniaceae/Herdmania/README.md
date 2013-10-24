@@ -1,5 +1,4 @@
-Herdmania J.D. Dodge, 1981 GENUS
-=======
+# Herdmania J.D. Dodge, 1981 GENUS
 
 #### Status
 ACCEPTED

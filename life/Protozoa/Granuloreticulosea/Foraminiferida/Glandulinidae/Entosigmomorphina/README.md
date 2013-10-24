@@ -1,5 +1,4 @@
-Entosigmomorphina McCulloch, 1977 GENUS
-=======
+# Entosigmomorphina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

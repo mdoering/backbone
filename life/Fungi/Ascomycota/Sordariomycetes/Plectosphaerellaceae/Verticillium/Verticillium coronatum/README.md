@@ -1,5 +1,4 @@
-Verticillium coronatum G.L. Barron SPECIES
-=======
+# Verticillium coronatum G.L. Barron SPECIES
 
 #### Status
 ACCEPTED

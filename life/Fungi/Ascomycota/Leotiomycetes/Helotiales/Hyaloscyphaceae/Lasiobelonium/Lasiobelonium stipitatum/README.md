@@ -1,5 +1,4 @@
-Lasiobelonium stipitatum Raitv. SPECIES
-=======
+# Lasiobelonium stipitatum Raitv. SPECIES
 
 #### Status
 ACCEPTED

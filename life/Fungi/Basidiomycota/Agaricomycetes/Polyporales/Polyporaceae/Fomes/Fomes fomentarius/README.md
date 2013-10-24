@@ -1,17 +1,16 @@
-Polyporus fomentarius var. fomentarius VARIETY
-=======
+# Fomes fomentarius (L.) J. Kickx f., 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Crypt. Flandres 2: 237 (1867)
 
 #### Original name
-Polyporus fomentarius var. fomentarius
+Boletus fomentarius L., 1753
 
 ### Remarks
 null

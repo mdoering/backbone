@@ -1,5 +1,4 @@
-Rhizocarpon haeyrenii Räsänen SPECIES
-=======
+# Rhizocarpon haeyrenii Räsänen SPECIES
 
 #### Status
 ACCEPTED

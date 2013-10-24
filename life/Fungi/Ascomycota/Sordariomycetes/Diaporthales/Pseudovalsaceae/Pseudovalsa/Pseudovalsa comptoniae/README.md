@@ -1,5 +1,4 @@
-Pseudovalsa comptoniae (Ellis & Everh.) Ellis SPECIES
-=======
+# Pseudovalsa comptoniae (Ellis & Everh.) Ellis SPECIES
 
 #### Status
 ACCEPTED

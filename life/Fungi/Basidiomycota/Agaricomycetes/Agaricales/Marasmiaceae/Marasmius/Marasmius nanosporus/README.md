@@ -1,5 +1,4 @@
-Marasmius nanosporus Raithelh. SPECIES
-=======
+# Marasmius nanosporus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

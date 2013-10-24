@@ -1,5 +1,4 @@
-Plecotrichum lauri Corda SPECIES
-=======
+# Plecotrichum lauri Corda SPECIES
 
 #### Status
 ACCEPTED

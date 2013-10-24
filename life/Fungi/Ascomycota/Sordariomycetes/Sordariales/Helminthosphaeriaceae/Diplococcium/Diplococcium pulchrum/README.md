@@ -1,5 +1,4 @@
-Diplococcium pulchrum (Richon) Sacc. SPECIES
-=======
+# Diplococcium pulchrum (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

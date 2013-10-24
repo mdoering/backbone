@@ -1,5 +1,4 @@
-Pleurotus germinans De Seynes SPECIES
-=======
+# Pleurotus germinans De Seynes SPECIES
 
 #### Status
 ACCEPTED

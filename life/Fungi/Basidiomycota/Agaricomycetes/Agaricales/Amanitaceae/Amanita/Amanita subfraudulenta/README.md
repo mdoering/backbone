@@ -1,5 +1,4 @@
-Amanita subfraudulenta Contu SPECIES
-=======
+# Amanita subfraudulenta Contu SPECIES
 
 #### Status
 ACCEPTED

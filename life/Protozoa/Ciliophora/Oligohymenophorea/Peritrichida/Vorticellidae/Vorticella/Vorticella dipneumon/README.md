@@ -1,5 +1,4 @@
-Vorticella dipneumon Penard, 1922 SPECIES
-=======
+# Vorticella dipneumon Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

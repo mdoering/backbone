@@ -1,5 +1,4 @@
-Sphaerophrya stentorea SPECIES
-=======
+# Sphaerophrya stentorea SPECIES
 
 #### Status
 ACCEPTED

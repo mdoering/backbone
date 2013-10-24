@@ -1,5 +1,4 @@
-Cantharellus mexicanus Fr. SPECIES
-=======
+# Cantharellus mexicanus Fr. SPECIES
 
 #### Status
 ACCEPTED

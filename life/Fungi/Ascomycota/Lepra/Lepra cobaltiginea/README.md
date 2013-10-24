@@ -1,5 +1,4 @@
-Lepra cobaltiginea (Wulfen) Schrank SPECIES
-=======
+# Lepra cobaltiginea (Wulfen) Schrank SPECIES
 
 #### Status
 ACCEPTED

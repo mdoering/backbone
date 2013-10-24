@@ -1,5 +1,4 @@
-Entoloma anthracinellum (M. Lange) Noordel. SPECIES
-=======
+# Entoloma anthracinellum (M. Lange) Noordel. SPECIES
 
 #### Status
 ACCEPTED

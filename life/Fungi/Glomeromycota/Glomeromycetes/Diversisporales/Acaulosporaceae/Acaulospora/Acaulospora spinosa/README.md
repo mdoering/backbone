@@ -1,5 +1,4 @@
-Acaulospora spinosa C. Walker & Trappe, 1981 SPECIES
-=======
+# Acaulospora spinosa C. Walker & Trappe, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius discophaeus M.M. Moser SPECIES
-=======
+# Cortinarius discophaeus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis scutiae Hansf. SPECIES
-=======
+# Irenopsis scutiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

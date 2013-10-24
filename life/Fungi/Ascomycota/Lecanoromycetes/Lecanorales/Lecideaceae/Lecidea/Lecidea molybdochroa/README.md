@@ -1,5 +1,4 @@
-Lecidea molybdochroa Hertel SPECIES
-=======
+# Lecidea molybdochroa Hertel SPECIES
 
 #### Status
 ACCEPTED

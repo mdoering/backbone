@@ -1,5 +1,4 @@
-Rhomboaster bitrifida Romein, 1979 SPECIES
-=======
+# Rhomboaster bitrifida Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

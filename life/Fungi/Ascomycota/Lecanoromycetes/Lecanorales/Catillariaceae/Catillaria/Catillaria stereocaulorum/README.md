@@ -1,8 +1,7 @@
-Biatora stereocaulorum (Th. Fr.) Eckfeldt SPECIES
-=======
+# Catillaria stereocaulorum (Th. Fr.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

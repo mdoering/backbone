@@ -1,5 +1,4 @@
-Ussurithyrites araucariodendri Krassilov SPECIES
-=======
+# Ussurithyrites araucariodendri Krassilov SPECIES
 
 #### Status
 ACCEPTED

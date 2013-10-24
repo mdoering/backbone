@@ -1,17 +1,16 @@
-Solenopsora olivacea var. olivacea VARIETY
-=======
+# Solenopsora olivacea (Dufour) H. Kilias SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Herzogia 5(3-4): 409 (1981)
 
 #### Original name
-null
+Biatora olivacea Dufour
 
 ### Remarks
 null

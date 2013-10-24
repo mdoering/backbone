@@ -1,5 +1,4 @@
-Favulina hexagoniformis (McCulloch, 1997) SPECIES
-=======
+# Favulina hexagoniformis (McCulloch, 1997) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia pseudogeranii U. Braun SPECIES
-=======
+# Ramularia pseudogeranii U. Braun SPECIES
 
 #### Status
 ACCEPTED

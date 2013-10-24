@@ -1,8 +1,7 @@
-Oncobyrsa britannica F.E. Fritsch, pro synon. SPECIES
-=======
+# Chamaesiphon britannicus (F.E. Fritsch) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

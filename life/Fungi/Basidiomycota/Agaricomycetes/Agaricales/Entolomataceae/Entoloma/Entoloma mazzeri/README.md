@@ -1,17 +1,16 @@
-Entoloma mazzerii Courtec. SPECIES
-=======
+# Entoloma mazzeri Courtec. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 14(nos 54-55): 80 (1984)
 
 #### Original name
-Entoloma mazzerii Courtec.
+Pouzarella foetida Mazzer
 
 ### Remarks
 null

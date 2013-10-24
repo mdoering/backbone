@@ -1,5 +1,4 @@
-Aphanocapsa arctica Whelden SPECIES
-=======
+# Aphanocapsa arctica Whelden SPECIES
 
 #### Status
 ACCEPTED

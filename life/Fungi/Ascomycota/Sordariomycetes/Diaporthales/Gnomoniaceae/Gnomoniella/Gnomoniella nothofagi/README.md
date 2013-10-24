@@ -1,5 +1,4 @@
-Gnomoniella nothofagi Aramb. & Gamundí SPECIES
-=======
+# Gnomoniella nothofagi Aramb. & Gamundí SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamprodisculus Haeckel, 1881 GENUS
-=======
+# Lamprodisculus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

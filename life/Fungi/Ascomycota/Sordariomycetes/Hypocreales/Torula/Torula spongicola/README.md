@@ -1,5 +1,4 @@
-Torula spongicola Dufour SPECIES
-=======
+# Torula spongicola Dufour SPECIES
 
 #### Status
 ACCEPTED

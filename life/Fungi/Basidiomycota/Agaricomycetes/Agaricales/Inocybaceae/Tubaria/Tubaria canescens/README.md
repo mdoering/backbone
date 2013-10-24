@@ -1,5 +1,4 @@
-Tubaria canescens Peck SPECIES
-=======
+# Tubaria canescens Peck SPECIES
 
 #### Status
 ACCEPTED

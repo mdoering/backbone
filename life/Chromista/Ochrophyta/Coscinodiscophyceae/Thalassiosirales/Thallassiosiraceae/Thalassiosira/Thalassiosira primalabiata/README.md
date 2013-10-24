@@ -1,5 +1,4 @@
-Thalassiosira primalabiata A.M. Gombos SPECIES
-=======
+# Thalassiosira primalabiata A.M. Gombos SPECIES
 
 #### Status
 ACCEPTED

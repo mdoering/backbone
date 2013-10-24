@@ -1,5 +1,4 @@
-Mycena atrodiscus Henn. & E. Nyman SPECIES
-=======
+# Mycena atrodiscus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

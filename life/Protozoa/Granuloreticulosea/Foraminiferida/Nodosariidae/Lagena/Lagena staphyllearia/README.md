@@ -1,8 +1,7 @@
-Fissurina staphyllearia (Schwager, 1866) SPECIES
-=======
+# Lagena staphyllearia (Schwager) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

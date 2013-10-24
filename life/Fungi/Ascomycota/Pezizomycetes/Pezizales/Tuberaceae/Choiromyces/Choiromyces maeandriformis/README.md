@@ -1,5 +1,4 @@
-Choiromyces maeandriformis Sacc. & Bizz. SPECIES
-=======
+# Choiromyces maeandriformis Sacc. & Bizz. SPECIES
 
 #### Status
 ACCEPTED

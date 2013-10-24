@@ -1,5 +1,4 @@
-Hygrocybe vinosa (Beeli) Heinem. SPECIES
-=======
+# Hygrocybe vinosa (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

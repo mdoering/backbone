@@ -1,17 +1,16 @@
-Palaeomyces vestita Kidst. & W.H. Lang SPECIES
-=======
+# Palaeomyces vestitus Kidst. & W.H. Lang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. R. Soc. Edinb. 52(4): 869 + pl. 4, figs 36-38 (1921)
 
 #### Original name
-Palaeomyces vestita Kidst. & W.H. Lang
+Palaeomyces vestitus Kidst. & W.H. Lang
 
 ### Remarks
 null

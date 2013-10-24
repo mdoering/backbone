@@ -1,5 +1,4 @@
-Gonyaulax jolliffei Murray & Whitting, 1899 SPECIES
-=======
+# Gonyaulax jolliffei Murray & Whitting, 1899 SPECIES
 
 #### Status
 ACCEPTED

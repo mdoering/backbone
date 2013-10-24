@@ -1,5 +1,4 @@
-Tuburcinia tranzsscheliana SPECIES
-=======
+# Tuburcinia tranzsscheliana SPECIES
 
 #### Status
 ACCEPTED

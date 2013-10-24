@@ -1,5 +1,4 @@
-Septoidium glaziovii (Allesch.) S. Hughes & Piroz. SPECIES
-=======
+# Septoidium glaziovii (Allesch.) S. Hughes & Piroz. SPECIES
 
 #### Status
 ACCEPTED

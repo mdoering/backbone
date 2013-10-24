@@ -1,5 +1,4 @@
-Hyperammina adunca SPECIES
-=======
+# Hyperammina adunca SPECIES
 
 #### Status
 ACCEPTED

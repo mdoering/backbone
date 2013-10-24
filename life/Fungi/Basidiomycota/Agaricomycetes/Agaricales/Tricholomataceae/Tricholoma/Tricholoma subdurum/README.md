@@ -1,5 +1,4 @@
-Tricholoma subdurum Banning & Peck SPECIES
-=======
+# Tricholoma subdurum Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

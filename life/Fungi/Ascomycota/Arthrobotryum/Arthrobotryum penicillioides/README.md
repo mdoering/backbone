@@ -1,17 +1,16 @@
-Arthrobotryum penicilloides (P. Karst. & Roum.) Höhn. SPECIES
-=======
+# Arthrobotryum penicillioides (P. Karst. & Roum.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 125: 120 (1916)
 
 #### Original name
-Podosporium penicilloides P. Karst. & Roum.
+Podosporium penicillioides P. Karst. & Roum.
 
 ### Remarks
 null

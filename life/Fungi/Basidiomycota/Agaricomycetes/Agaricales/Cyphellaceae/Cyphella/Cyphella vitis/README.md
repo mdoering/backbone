@@ -1,5 +1,4 @@
-Cyphella vitis (Bonord.) Höhn. SPECIES
-=======
+# Cyphella vitis (Bonord.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe subhyperella Singer SPECIES
-=======
+# Psilocybe subhyperella Singer SPECIES
 
 #### Status
 ACCEPTED

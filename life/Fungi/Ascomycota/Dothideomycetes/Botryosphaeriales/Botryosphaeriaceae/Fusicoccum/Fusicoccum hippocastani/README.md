@@ -1,5 +1,4 @@
-Fusicoccum hippocastani (Cooke) Höhn. SPECIES
-=======
+# Fusicoccum hippocastani (Cooke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

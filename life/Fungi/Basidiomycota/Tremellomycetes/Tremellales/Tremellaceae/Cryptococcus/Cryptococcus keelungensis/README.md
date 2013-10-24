@@ -1,5 +1,4 @@
-Cryptococcus keelungensis C.F. Chang & S.M. Liu SPECIES
-=======
+# Cryptococcus keelungensis C.F. Chang & S.M. Liu SPECIES
 
 #### Status
 ACCEPTED

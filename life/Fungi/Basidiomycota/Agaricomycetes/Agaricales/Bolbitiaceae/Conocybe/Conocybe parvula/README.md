@@ -1,5 +1,4 @@
-Conocybe parvula Døssing & Watling SPECIES
-=======
+# Conocybe parvula Døssing & Watling SPECIES
 
 #### Status
 ACCEPTED

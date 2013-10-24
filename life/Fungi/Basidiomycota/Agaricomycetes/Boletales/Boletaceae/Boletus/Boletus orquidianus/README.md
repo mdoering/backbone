@@ -1,5 +1,4 @@
-Boletus orquidianus Halling SPECIES
-=======
+# Boletus orquidianus Halling SPECIES
 
 #### Status
 ACCEPTED

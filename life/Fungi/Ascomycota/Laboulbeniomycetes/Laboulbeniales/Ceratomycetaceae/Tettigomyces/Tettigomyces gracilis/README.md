@@ -1,5 +1,4 @@
-Tettigomyces gracilis Thaxt. SPECIES
-=======
+# Tettigomyces gracilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

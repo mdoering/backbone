@@ -1,5 +1,4 @@
-Boletus truncigenus Fr. SPECIES
-=======
+# Boletus truncigenus Fr. SPECIES
 
 #### Status
 ACCEPTED

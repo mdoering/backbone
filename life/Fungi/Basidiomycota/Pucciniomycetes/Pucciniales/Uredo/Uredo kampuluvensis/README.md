@@ -1,5 +1,4 @@
-Uredo kampuluvensis Henn. SPECIES
-=======
+# Uredo kampuluvensis Henn. SPECIES
 
 #### Status
 ACCEPTED

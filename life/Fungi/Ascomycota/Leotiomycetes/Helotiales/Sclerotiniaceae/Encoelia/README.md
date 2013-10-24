@@ -1,5 +1,4 @@
-Encoelia (E.M. Fries) P. Karsten, 1871 GENUS
-=======
+# Encoelia (E.M. Fries) P. Karsten, 1871 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota stropharioides var. stropharioides VARIETY
-=======
+# Pholiota stropharioides Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pholiota stropharioides var. stropharioides
+Pholiota stropharioides Rick
 
 ### Remarks
 null

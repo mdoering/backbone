@@ -1,5 +1,4 @@
-Galera ovatispora Velen. SPECIES
-=======
+# Galera ovatispora Velen. SPECIES
 
 #### Status
 ACCEPTED

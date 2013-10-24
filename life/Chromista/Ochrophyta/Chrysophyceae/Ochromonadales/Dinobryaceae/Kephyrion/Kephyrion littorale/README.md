@@ -1,5 +1,4 @@
-Kephyrion littorale var. constricta J.W.G. Lund VARIETY
-=======
+# Kephyrion littorale J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

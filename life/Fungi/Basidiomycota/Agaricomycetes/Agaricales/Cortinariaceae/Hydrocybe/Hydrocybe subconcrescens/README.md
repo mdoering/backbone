@@ -1,5 +1,4 @@
-Hydrocybe subconcrescens Rob. Henry SPECIES
-=======
+# Hydrocybe subconcrescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

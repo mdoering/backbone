@@ -1,5 +1,4 @@
-Fusarium lineare Moesz SPECIES
-=======
+# Fusarium lineare Moesz SPECIES
 
 #### Status
 ACCEPTED

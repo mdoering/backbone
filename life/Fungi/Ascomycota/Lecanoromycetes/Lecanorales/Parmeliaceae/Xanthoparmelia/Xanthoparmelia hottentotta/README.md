@@ -1,5 +1,4 @@
-Xanthoparmelia hottentotta (Ach.) A. Thell, Feuerer, Elix & Kärnefelt SPECIES
-=======
+# Xanthoparmelia hottentotta (Ach.) A. Thell, Feuerer, Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia majuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia majuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

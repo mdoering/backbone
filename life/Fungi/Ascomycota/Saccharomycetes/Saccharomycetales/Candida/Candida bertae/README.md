@@ -1,17 +1,16 @@
-Candida bertae var. bertae C. Ramírez & A.E. González, 1984 VARIETY
-=======
+# Candida bertae C. Ramírez & A.E. González, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 88(1): 57 (1984)
 
 #### Original name
-null
+Candida bertae C. Ramírez & A.E. González, 1984
 
 ### Remarks
 null

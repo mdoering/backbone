@@ -1,5 +1,4 @@
-Microthorax transversus Foissner, 1985 SPECIES
-=======
+# Microthorax transversus Foissner, 1985 SPECIES
 
 #### Status
 ACCEPTED

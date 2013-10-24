@@ -1,5 +1,4 @@
-Nostoc longstaffi F.E. Fritsch SPECIES
-=======
+# Nostoc longstaffi F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

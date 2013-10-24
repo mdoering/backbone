@@ -1,5 +1,4 @@
-Tichothecium decolorans Rehm SPECIES
-=======
+# Tichothecium decolorans Rehm SPECIES
 
 #### Status
 ACCEPTED

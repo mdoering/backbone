@@ -1,5 +1,4 @@
-Sphaerella hordicola (Hara) Sacc. SPECIES
-=======
+# Sphaerella hordicola (Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea coriariae Mont. SPECIES
-=======
+# Dothidea coriariae Mont. SPECIES
 
 #### Status
 ACCEPTED

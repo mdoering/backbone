@@ -1,5 +1,4 @@
-Miarchaias Hottinger, 2001 GENUS
-=======
+# Miarchaias Hottinger, 2001 GENUS
 
 #### Status
 ACCEPTED

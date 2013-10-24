@@ -1,5 +1,4 @@
-Streptococcus alactolyticus Farrow et al., 1985 SPECIES
-=======
+# Streptococcus alactolyticus Farrow et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

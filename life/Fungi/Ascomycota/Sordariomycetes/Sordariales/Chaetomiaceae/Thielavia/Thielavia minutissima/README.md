@@ -1,5 +1,4 @@
-Thielavia minutissima D. Hawksw. SPECIES
-=======
+# Thielavia minutissima D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

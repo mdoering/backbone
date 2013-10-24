@@ -1,5 +1,4 @@
-Sphaerella jurineae Fuckel SPECIES
-=======
+# Sphaerella jurineae Fuckel SPECIES
 
 #### Status
 ACCEPTED

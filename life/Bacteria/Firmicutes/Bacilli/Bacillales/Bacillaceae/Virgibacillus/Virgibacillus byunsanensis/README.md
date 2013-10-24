@@ -1,5 +1,4 @@
-Virgibacillus byunsanensis Yoon, Kang, Jung, Lee, Oh & Oh, 2010 SPECIES
-=======
+# Virgibacillus byunsanensis Yoon, Kang, Jung, Lee, Oh & Oh, 2010 SPECIES
 
 #### Status
 ACCEPTED

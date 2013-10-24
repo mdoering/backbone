@@ -1,5 +1,4 @@
-Chorostate tuberculosa var. tuberculosa VARIETY
-=======
+# Chorostate tuberculosa (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

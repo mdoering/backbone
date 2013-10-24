@@ -1,5 +1,4 @@
-Strickeria biceps Kravtzev SPECIES
-=======
+# Strickeria biceps Kravtzev SPECIES
 
 #### Status
 ACCEPTED

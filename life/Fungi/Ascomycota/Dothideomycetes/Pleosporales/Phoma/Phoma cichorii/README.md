@@ -1,5 +1,4 @@
-Phoma cichorii Pass. SPECIES
-=======
+# Phoma cichorii Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillariomyces ehrhartianae E.A. Thomas SPECIES
-=======
+# Catillariomyces ehrhartianae E.A. Thomas SPECIES
 
 #### Status
 ACCEPTED

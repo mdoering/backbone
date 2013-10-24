@@ -1,5 +1,4 @@
-Dionysia capitata G. Arnaud SPECIES
-=======
+# Dionysia capitata G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

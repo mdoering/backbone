@@ -1,5 +1,4 @@
-Tuber moschatum Bull. SPECIES
-=======
+# Tuber moschatum Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium rhamni-infectoriae Unamuno SPECIES
-=======
+# Aecidium rhamni-infectoriae Unamuno SPECIES
 
 #### Status
 ACCEPTED

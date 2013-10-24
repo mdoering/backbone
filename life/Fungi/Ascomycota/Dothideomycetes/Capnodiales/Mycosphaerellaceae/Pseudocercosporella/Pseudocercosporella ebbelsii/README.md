@@ -1,5 +1,4 @@
-Pseudocercosporella ebbelsii U. Braun & Crous SPECIES
-=======
+# Pseudocercosporella ebbelsii U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

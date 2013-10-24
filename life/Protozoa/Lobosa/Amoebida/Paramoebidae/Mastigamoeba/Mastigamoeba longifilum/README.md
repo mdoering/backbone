@@ -1,5 +1,4 @@
-Mastigamoeba longifilum Stokes SPECIES
-=======
+# Mastigamoeba longifilum Stokes SPECIES
 
 #### Status
 ACCEPTED

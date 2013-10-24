@@ -1,5 +1,4 @@
-Codinaea cylindrospora Morgan-Jones & E.G. Ingram SPECIES
-=======
+# Codinaea cylindrospora Morgan-Jones & E.G. Ingram SPECIES
 
 #### Status
 ACCEPTED

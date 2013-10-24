@@ -1,5 +1,4 @@
-Trochoideomyces gracilicaulis Thaxt., 1931 SPECIES
-=======
+# Trochoideomyces gracilicaulis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

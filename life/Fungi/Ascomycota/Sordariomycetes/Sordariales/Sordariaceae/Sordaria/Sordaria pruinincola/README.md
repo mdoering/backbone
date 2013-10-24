@@ -1,5 +1,4 @@
-Sordaria pruinincola G.H. Otth SPECIES
-=======
+# Sordaria pruinincola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

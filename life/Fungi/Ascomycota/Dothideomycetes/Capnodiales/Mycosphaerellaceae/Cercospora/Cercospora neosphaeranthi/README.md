@@ -1,17 +1,16 @@
-Cercospora neo-sphaeranthi Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
-=======
+# Cercospora neosphaeranthi Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 25: 48 (1998)
 
 #### Original name
-Cercospora neo-sphaeranthi Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh
+Cercospora neosphaeranthi Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh
 
 ### Remarks
 null

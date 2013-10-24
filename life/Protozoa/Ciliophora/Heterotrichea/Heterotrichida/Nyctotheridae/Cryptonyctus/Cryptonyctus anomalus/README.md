@@ -1,5 +1,4 @@
-Cryptonyctus anomalus (Affa'a, 1979) Jankowski, 2007 SPECIES
-=======
+# Cryptonyctus anomalus (Affa'a, 1979) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

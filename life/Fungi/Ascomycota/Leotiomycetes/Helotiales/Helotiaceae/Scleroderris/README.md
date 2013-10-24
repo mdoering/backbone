@@ -1,5 +1,4 @@
-Scleroderris GENUS
-=======
+# Scleroderris GENUS
 
 #### Status
 ACCEPTED

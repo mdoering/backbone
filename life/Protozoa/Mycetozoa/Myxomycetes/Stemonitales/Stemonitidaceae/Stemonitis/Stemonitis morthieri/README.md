@@ -1,5 +1,4 @@
-Stemonitis morthieri Fuckel SPECIES
-=======
+# Stemonitis morthieri Fuckel SPECIES
 
 #### Status
 ACCEPTED

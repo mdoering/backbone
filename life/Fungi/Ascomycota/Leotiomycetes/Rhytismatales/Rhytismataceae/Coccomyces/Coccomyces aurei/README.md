@@ -1,5 +1,4 @@
-Coccomyces aurei Lar.N. Vassiljeva SPECIES
-=======
+# Coccomyces aurei Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

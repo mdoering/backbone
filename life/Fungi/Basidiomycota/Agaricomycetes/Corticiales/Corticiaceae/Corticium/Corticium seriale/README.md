@@ -1,5 +1,4 @@
-Corticium seriale SPECIES
-=======
+# Corticium seriale SPECIES
 
 #### Status
 ACCEPTED

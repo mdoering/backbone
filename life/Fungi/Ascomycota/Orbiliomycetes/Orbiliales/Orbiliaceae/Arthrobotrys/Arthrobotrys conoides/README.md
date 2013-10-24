@@ -1,17 +1,16 @@
-Arthrobotrys pravicovi (Soprunov) Sidorova, R.V. Gorlenko & Nalepina SPECIES
-=======
+# Arthrobotrys conoides Drechsler, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 29(4): 476 (1937)
 
 #### Original name
-Trichothecium pravicovii Soprunov, 1958
+Arthrobotrys conoides Drechsler, 1937
 
 ### Remarks
 null

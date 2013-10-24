@@ -1,5 +1,4 @@
-Diplotomma himalayense S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Diplotomma himalayense S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

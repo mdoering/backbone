@@ -1,5 +1,4 @@
-Sphaeria mascarensis Mont. SPECIES
-=======
+# Sphaeria mascarensis Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia hyalinula (Nyl.) P. Karst. SPECIES
-=======
+# Orbilia hyalinula (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

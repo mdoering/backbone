@@ -1,5 +1,4 @@
-Coryneum cassiopes Rostr. SPECIES
-=======
+# Coryneum cassiopes Rostr. SPECIES
 
 #### Status
 ACCEPTED

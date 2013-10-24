@@ -1,5 +1,4 @@
-Uromyces obesus Durieu SPECIES
-=======
+# Uromyces obesus Durieu SPECIES
 
 #### Status
 ACCEPTED

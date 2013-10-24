@@ -1,5 +1,4 @@
-Anthurus sepioides McAlpine SPECIES
-=======
+# Anthurus sepioides McAlpine SPECIES
 
 #### Status
 ACCEPTED

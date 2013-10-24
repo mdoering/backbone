@@ -1,5 +1,4 @@
-Phyllachora prataprajii Hosag., 1988 SPECIES
-=======
+# Phyllachora prataprajii Hosag., 1988 SPECIES
 
 #### Status
 DOUBTFUL

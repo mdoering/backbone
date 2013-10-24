@@ -1,17 +1,16 @@
-Didymosphaeria loniceraeripariae Fairm. SPECIES
-=======
+# Didymosphaeria lonicerae-ripariae Fairm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Rochester Acad. Sci. 6: 126 (1922)
 
 #### Original name
-Didymosphaeria loniceraeripariae Fairm.
+Didymosphaeria lonicerae-ripariae Fairm.
 
 ### Remarks
 null

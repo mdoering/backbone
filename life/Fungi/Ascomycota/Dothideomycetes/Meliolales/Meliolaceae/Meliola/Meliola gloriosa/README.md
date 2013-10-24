@@ -1,5 +1,4 @@
-Meliola gloriosa Doidge SPECIES
-=======
+# Meliola gloriosa Doidge SPECIES
 
 #### Status
 ACCEPTED

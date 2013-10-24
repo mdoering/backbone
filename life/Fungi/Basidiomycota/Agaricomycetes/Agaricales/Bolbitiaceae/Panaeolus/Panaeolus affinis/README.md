@@ -1,5 +1,4 @@
-Panaeolus affinis (E. Horak) Ew. Gerhardt SPECIES
-=======
+# Panaeolus affinis (E. Horak) Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

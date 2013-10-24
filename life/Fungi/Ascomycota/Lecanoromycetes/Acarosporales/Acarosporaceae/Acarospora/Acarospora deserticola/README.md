@@ -1,5 +1,4 @@
-Acarospora deserticola Zahlbr. SPECIES
-=======
+# Acarospora deserticola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

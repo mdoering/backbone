@@ -1,5 +1,4 @@
-Discoaster perclarus Hay in Hay et al., 1967 SPECIES
-=======
+# Discoaster perclarus Hay in Hay et al., 1967 SPECIES
 
 #### Status
 ACCEPTED

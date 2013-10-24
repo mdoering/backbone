@@ -1,5 +1,4 @@
-Peziza subochracea Cooke & W. Phillips SPECIES
-=======
+# Peziza subochracea Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

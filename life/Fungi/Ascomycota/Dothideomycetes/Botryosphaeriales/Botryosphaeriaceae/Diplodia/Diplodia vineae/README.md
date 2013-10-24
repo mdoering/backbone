@@ -1,5 +1,4 @@
-Diplodia vineae Pass. & Beltr. SPECIES
-=======
+# Diplodia vineae Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melasmia thouiniae Syd. SPECIES
-=======
+# Melasmia thouiniae Syd. SPECIES
 
 #### Status
 ACCEPTED

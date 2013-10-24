@@ -1,5 +1,4 @@
-Wettsteinina moniliformis Van Ryck. & Aptroot, 2001 SPECIES
-=======
+# Wettsteinina moniliformis Van Ryck. & Aptroot, 2001 SPECIES
 
 #### Status
 ACCEPTED

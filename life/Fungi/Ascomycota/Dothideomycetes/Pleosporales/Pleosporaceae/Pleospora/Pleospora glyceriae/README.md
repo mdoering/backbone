@@ -1,5 +1,4 @@
-Pleospora glyceriae Feltgen SPECIES
-=======
+# Pleospora glyceriae Feltgen SPECIES
 
 #### Status
 ACCEPTED

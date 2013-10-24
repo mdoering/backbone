@@ -1,17 +1,16 @@
-Lactaria westii Murrill SPECIES
-=======
+# Lactarius westii Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 67: 59 (1940)
 
 #### Original name
-Lactaria westii Murrill
+Lactarius westii Murrill
 
 ### Remarks
 null

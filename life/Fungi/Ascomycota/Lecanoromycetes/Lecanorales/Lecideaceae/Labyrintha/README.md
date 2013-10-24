@@ -1,5 +1,4 @@
-Labyrintha Malcolm, Elix & Owe-Larss. GENUS
-=======
+# Labyrintha Malcolm, Elix & Owe-Larss. GENUS
 
 #### Status
 ACCEPTED

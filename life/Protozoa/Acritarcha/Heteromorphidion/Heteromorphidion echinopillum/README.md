@@ -1,5 +1,4 @@
-Heteromorphidion echinopillum Loeblich & Wicander, 1976 SPECIES
-=======
+# Heteromorphidion echinopillum Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza urticina (Peck) Sacc. SPECIES
-=======
+# Trichopeziza urticina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

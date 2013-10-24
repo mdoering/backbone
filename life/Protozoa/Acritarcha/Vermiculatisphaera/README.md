@@ -1,5 +1,4 @@
-Vermiculatisphaera Miller & Eames, 1982 GENUS
-=======
+# Vermiculatisphaera Miller & Eames, 1982 GENUS
 
 #### Status
 ACCEPTED

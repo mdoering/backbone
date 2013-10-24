@@ -1,5 +1,4 @@
-Laboulbenia pachythelica Speg. SPECIES
-=======
+# Laboulbenia pachythelica Speg. SPECIES
 
 #### Status
 ACCEPTED

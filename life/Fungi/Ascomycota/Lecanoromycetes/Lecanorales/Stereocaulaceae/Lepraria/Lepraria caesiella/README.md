@@ -1,5 +1,4 @@
-Lepraria caesiella R. C. Harris SPECIES
-=======
+# Lepraria caesiella R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

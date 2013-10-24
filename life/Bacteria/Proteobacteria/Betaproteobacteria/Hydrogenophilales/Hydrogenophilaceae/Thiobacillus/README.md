@@ -1,5 +1,4 @@
-Thiobacillus Beijerinck, 1904 GENUS
-=======
+# Thiobacillus Beijerinck, 1904 GENUS
 
 #### Status
 ACCEPTED

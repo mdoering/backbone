@@ -1,5 +1,4 @@
-Leiosphaeridia voigtii Eisenack, 1958 SPECIES
-=======
+# Leiosphaeridia voigtii Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

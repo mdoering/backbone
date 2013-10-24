@@ -1,5 +1,4 @@
-Eliptocystis Sengupta, Ghosh & Haldar, 1991 GENUS
-=======
+# Eliptocystis Sengupta, Ghosh & Haldar, 1991 GENUS
 
 #### Status
 ACCEPTED

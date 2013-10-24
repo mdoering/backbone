@@ -1,5 +1,4 @@
-Puccinia podolepidis McAlpine SPECIES
-=======
+# Puccinia podolepidis McAlpine SPECIES
 
 #### Status
 ACCEPTED

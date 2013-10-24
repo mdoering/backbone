@@ -1,5 +1,4 @@
-Fusarium limosum Rostr. SPECIES
-=======
+# Fusarium limosum Rostr. SPECIES
 
 #### Status
 ACCEPTED

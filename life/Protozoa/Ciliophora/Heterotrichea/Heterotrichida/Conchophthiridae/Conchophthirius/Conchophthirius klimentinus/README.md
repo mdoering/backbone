@@ -1,5 +1,4 @@
-Conchophthirius klimentinus SPECIES
-=======
+# Conchophthirius klimentinus SPECIES
 
 #### Status
 ACCEPTED

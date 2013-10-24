@@ -1,8 +1,7 @@
-Trypanosoma myoxocephali Fantham, Porter & Richardson, 1942 SPECIES
-=======
+# Trypanosoma murmanense Nikitin, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

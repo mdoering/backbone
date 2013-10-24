@@ -1,5 +1,4 @@
-Conocybe procera (Singer) Watling SPECIES
-=======
+# Conocybe procera (Singer) Watling SPECIES
 
 #### Status
 ACCEPTED

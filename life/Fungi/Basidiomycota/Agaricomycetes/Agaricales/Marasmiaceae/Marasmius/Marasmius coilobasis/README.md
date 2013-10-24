@@ -1,5 +1,4 @@
-Marasmius coilobasis Berk. SPECIES
-=======
+# Marasmius coilobasis Berk. SPECIES
 
 #### Status
 ACCEPTED

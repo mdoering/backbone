@@ -1,5 +1,4 @@
-Spathidiopsis socialis Fabre-Domergue, 1889 SPECIES
-=======
+# Spathidiopsis socialis Fabre-Domergue, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis collinsi Parr, 1932 SPECIES
-=======
+# Discorbis collinsi Parr, 1932 SPECIES
 
 #### Status
 ACCEPTED

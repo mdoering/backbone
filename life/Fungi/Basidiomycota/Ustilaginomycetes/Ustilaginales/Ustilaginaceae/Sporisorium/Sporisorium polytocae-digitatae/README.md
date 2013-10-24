@@ -1,5 +1,4 @@
-Sporisorium polytocae-digitatae Vánky SPECIES
-=======
+# Sporisorium polytocae-digitatae Vánky SPECIES
 
 #### Status
 ACCEPTED

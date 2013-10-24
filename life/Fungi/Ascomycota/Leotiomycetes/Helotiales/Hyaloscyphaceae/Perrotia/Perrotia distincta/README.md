@@ -1,17 +1,16 @@
-Lachnella phragmiticola (Henn. & Plöttn.) Kirschst., 1936 SPECIES
-=======
+# Perrotia distincta (Peck) J.H. Haines, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 34: 182 (1936)
+Mycotaxon 35(2): 328 (1989)
 
 #### Original name
-Dasyscyphus phragmiticola Henn. & Plöttn., 1899
+null
 
 ### Remarks
 null

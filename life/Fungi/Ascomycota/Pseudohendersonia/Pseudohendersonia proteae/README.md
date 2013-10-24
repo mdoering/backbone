@@ -1,5 +1,4 @@
-Pseudohendersonia proteae Crous & M.E. Palm, 1999 SPECIES
-=======
+# Pseudohendersonia proteae Crous & M.E. Palm, 1999 SPECIES
 
 #### Status
 ACCEPTED

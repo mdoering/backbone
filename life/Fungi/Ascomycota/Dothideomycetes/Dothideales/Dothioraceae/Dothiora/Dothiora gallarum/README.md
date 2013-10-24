@@ -1,5 +1,4 @@
-Dothiora gallarum Oudem. SPECIES
-=======
+# Dothiora gallarum Oudem. SPECIES
 
 #### Status
 ACCEPTED

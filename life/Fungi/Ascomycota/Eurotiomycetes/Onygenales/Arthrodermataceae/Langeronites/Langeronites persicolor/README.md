@@ -1,5 +1,4 @@
-Langeronites persicolor (Sabour.) Ansel SPECIES
-=======
+# Langeronites persicolor (Sabour.) Ansel SPECIES
 
 #### Status
 ACCEPTED

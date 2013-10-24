@@ -1,5 +1,4 @@
-Ceratostoma carpophilum Ellis SPECIES
-=======
+# Ceratostoma carpophilum Ellis SPECIES
 
 #### Status
 ACCEPTED

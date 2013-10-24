@@ -1,5 +1,4 @@
-Schizosaccharomyces hominis Benedek SPECIES
-=======
+# Schizosaccharomyces hominis Benedek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora metasequoiae Gucevic SPECIES
-=======
+# Pyrenophora metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

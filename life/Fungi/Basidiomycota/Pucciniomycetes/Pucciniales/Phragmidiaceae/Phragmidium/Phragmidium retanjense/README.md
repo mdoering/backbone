@@ -1,5 +1,4 @@
-Phragmidium retanjense Bubák & Ranoj. SPECIES
-=======
+# Phragmidium retanjense Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

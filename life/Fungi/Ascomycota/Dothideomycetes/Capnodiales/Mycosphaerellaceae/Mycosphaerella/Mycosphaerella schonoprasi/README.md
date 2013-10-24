@@ -1,5 +1,4 @@
-Mycosphaerella schonoprasi (Rabenh.) Schroet. SPECIES
-=======
+# Mycosphaerella schonoprasi (Rabenh.) Schroet. SPECIES
 
 #### Status
 ACCEPTED

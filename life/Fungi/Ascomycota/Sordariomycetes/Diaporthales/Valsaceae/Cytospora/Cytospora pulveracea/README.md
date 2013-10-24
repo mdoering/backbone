@@ -1,17 +1,16 @@
-Cytispora pulveracea Berk. SPECIES
-=======
+# Cytospora pulveracea Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Smith's English Flora, Fungi 5-2: 283 (1836)
 
 #### Original name
-Cytispora pulveracea Berk.
+Cytospora pulveracea Berk.
 
 ### Remarks
 null

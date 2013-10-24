@@ -1,5 +1,4 @@
-Reophax micaceus Earland, 1934 SPECIES
-=======
+# Reophax micaceus Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

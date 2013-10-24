@@ -1,5 +1,4 @@
-Eklundia antarctica C.W. Dodge SPECIES
-=======
+# Eklundia antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

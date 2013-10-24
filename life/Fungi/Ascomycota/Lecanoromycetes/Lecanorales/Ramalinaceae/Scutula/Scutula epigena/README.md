@@ -1,5 +1,4 @@
-Scutula epigena Rehm SPECIES
-=======
+# Scutula epigena Rehm SPECIES
 
 #### Status
 ACCEPTED

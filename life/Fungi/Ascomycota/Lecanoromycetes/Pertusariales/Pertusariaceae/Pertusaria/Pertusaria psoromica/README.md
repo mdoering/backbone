@@ -1,5 +1,4 @@
-Pertusaria psoromica A. W. Archer & Elix SPECIES
-=======
+# Pertusaria psoromica A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

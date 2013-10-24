@@ -1,5 +1,4 @@
-Thelotrema pertusariaeforme Leight. SPECIES
-=======
+# Thelotrema pertusariaeforme Leight. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula octomera H. Magn. SPECIES
-=======
+# Pseudopyrenula octomera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

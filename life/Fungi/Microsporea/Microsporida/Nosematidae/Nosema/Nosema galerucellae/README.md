@@ -1,5 +1,4 @@
-Nosema galerucellae B.S. Toguebaye & G. Bouix SPECIES
-=======
+# Nosema galerucellae B.S. Toguebaye & G. Bouix SPECIES
 
 #### Status
 ACCEPTED

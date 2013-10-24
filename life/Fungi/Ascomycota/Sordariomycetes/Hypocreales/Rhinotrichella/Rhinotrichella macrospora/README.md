@@ -1,5 +1,4 @@
-Rhinotrichella macrospora Matsush. SPECIES
-=======
+# Rhinotrichella macrospora Matsush. SPECIES
 
 #### Status
 ACCEPTED

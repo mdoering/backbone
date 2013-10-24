@@ -1,5 +1,4 @@
-Helicolithus compactus SPECIES
-=======
+# Helicolithus compactus SPECIES
 
 #### Status
 ACCEPTED

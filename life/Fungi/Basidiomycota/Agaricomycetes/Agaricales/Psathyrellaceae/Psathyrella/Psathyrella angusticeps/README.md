@@ -1,5 +1,4 @@
-Psathyrella angusticeps Peck SPECIES
-=======
+# Psathyrella angusticeps Peck SPECIES
 
 #### Status
 ACCEPTED

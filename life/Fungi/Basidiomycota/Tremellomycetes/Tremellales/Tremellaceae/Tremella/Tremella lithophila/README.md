@@ -1,5 +1,4 @@
-Tremella lithophila Willd. SPECIES
-=======
+# Tremella lithophila Willd. SPECIES
 
 #### Status
 ACCEPTED

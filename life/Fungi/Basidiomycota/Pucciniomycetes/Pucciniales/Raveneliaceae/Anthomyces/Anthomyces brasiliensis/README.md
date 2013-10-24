@@ -1,5 +1,4 @@
-Anthomyces brasiliensis Dietel, 1899 SPECIES
-=======
+# Anthomyces brasiliensis Dietel, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza splendens var. reguisii Quél., 1887 VARIETY
-=======
+# Sowerbyella reguisii (Quél.) J. Moravec, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 1(6): 429 (1985)
 
 #### Original name
-null
+Peziza splendens var. reguisii Quél.
 
 ### Remarks
 null

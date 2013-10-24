@@ -1,5 +1,4 @@
-Sistotrema ochroleuca Lév. SPECIES
-=======
+# Sistotrema ochroleuca Lév. SPECIES
 
 #### Status
 ACCEPTED

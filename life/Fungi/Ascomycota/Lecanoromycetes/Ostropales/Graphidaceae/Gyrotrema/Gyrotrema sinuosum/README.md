@@ -1,5 +1,4 @@
-Gyrotrema sinuosum (Sipman) Frisch SPECIES
-=======
+# Gyrotrema sinuosum (Sipman) Frisch SPECIES
 
 #### Status
 ACCEPTED

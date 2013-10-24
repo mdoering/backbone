@@ -1,5 +1,4 @@
-Torula granulosa Bubák & Serebrian. SPECIES
-=======
+# Torula granulosa Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

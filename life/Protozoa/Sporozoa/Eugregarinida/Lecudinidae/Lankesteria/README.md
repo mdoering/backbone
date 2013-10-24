@@ -1,14 +1,13 @@
-Pleurozyga Mingazzini, 1891 GENUS
-=======
+# Lankesteria Mingazzini, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-null
+Atti Accad. Lincei, Rend. , (4) 7 (2), 407.
 
 #### Original name
 null

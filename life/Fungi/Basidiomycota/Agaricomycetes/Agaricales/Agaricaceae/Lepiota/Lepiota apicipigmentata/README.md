@@ -1,17 +1,16 @@
-Lepiota apicepigmentata A.B. Pereira SPECIES
-=======
+# Lepiota apicipigmentata A.B. Pereira SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Iheringia, Sér. Bot. 51(2): 229 (1998)
 
 #### Original name
-Lepiota apicepigmentata A.B. Pereira
+Lepiota apicipigmentata A.B. Pereira
 
 ### Remarks
 null

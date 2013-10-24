@@ -1,5 +1,4 @@
-Rutilaria epsilon Kitton SPECIES
-=======
+# Rutilaria epsilon Kitton SPECIES
 
 #### Status
 ACCEPTED

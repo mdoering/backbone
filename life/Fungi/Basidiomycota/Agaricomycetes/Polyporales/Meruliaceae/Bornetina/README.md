@@ -1,5 +1,4 @@
-Bornetina GENUS
-=======
+# Bornetina GENUS
 
 #### Status
 ACCEPTED

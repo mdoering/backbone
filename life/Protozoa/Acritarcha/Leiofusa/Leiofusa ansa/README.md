@@ -1,5 +1,4 @@
-Leiofusa ansa Sheshegova, 1984 SPECIES
-=======
+# Leiofusa ansa Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

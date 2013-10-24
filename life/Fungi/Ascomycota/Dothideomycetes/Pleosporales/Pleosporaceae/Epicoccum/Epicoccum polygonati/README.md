@@ -1,5 +1,4 @@
-Epicoccum polygonati Henn. & Shirai SPECIES
-=======
+# Epicoccum polygonati Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

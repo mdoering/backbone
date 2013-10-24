@@ -1,5 +1,4 @@
-Septoria coriariae Pass., 1884 SPECIES
-=======
+# Septoria coriariae Pass., 1884 SPECIES
 
 #### Status
 ACCEPTED

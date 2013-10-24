@@ -1,5 +1,4 @@
-Lactarius indigo var. indigo VARIETY
-=======
+# Lactarius indigo (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 341 (1838)
 
 #### Original name
-Lactarius indigo var. indigo
+Agaricus indigo Schwein.
 
 ### Remarks
 null

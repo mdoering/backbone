@@ -1,5 +1,4 @@
-Verrucaria pruinosogrisea C. Knight SPECIES
-=======
+# Verrucaria pruinosogrisea C. Knight SPECIES
 
 #### Status
 ACCEPTED

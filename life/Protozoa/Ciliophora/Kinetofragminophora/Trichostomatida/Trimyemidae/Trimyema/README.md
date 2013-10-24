@@ -1,5 +1,4 @@
-Trimyema Lackey, 1925 GENUS
-=======
+# Trimyema Lackey, 1925 GENUS
 
 #### Status
 ACCEPTED

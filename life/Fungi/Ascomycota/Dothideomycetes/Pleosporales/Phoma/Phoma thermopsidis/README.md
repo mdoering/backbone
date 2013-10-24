@@ -1,5 +1,4 @@
-Phoma thermopsidis Ellis & Galloway SPECIES
-=======
+# Phoma thermopsidis Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo leonuri Speg. SPECIES
-=======
+# Uredo leonuri Speg. SPECIES
 
 #### Status
 ACCEPTED

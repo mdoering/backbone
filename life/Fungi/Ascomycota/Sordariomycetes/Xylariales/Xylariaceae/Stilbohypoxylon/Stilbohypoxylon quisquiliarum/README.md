@@ -1,17 +1,16 @@
-Stilbohypoxylon quisquiliarum var. quisquiliarum VARIETY
-=======
+# Stilbohypoxylon quisquiliarum (Mont.) J.D. Rogers & Y.M. Ju, 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 101(2): 137 (1997)
 
 #### Original name
-null
+Sphaeria quisquiliare Mont., 1840
 
 ### Remarks
 null

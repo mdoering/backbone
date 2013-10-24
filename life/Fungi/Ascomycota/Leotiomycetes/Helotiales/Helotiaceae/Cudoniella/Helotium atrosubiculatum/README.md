@@ -1,5 +1,4 @@
-Helotium atrosubiculatum Seaver & Waterston SPECIES
-=======
+# Helotium atrosubiculatum Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

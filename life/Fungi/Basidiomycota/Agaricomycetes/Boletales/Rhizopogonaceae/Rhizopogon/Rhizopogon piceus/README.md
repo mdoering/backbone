@@ -1,5 +1,4 @@
-Rhizopogon piceus Berk. & M.A. Curtis SPECIES
-=======
+# Rhizopogon piceus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

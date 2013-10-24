@@ -1,5 +1,4 @@
-Sphaerella maidenii Tassi SPECIES
-=======
+# Sphaerella maidenii Tassi SPECIES
 
 #### Status
 ACCEPTED

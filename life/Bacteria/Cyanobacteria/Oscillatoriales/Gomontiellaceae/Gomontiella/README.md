@@ -1,5 +1,4 @@
-Gomontiella Teodoresco, 1901 GENUS
-=======
+# Gomontiella Teodoresco, 1901 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo recondita Speg. SPECIES
-=======
+# Uredo recondita Speg. SPECIES
 
 #### Status
 ACCEPTED

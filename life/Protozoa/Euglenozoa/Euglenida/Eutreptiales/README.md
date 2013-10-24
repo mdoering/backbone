@@ -1,5 +1,4 @@
-Eutreptiales ORDER
-=======
+# Eutreptiales ORDER
 
 #### Status
 ACCEPTED

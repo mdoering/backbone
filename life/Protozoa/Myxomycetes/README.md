@@ -1,5 +1,4 @@
-Myxomycetes Renault GENUS
-=======
+# Myxomycetes Renault GENUS
 
 #### Status
 ACCEPTED

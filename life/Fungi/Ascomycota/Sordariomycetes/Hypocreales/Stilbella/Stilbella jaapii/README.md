@@ -1,5 +1,4 @@
-Stilbella jaapii Matsush., 1975 SPECIES
-=======
+# Stilbella jaapii Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

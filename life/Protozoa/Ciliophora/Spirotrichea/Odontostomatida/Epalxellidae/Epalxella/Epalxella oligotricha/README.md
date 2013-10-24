@@ -1,5 +1,4 @@
-Epalxella oligotricha SPECIES
-=======
+# Epalxella oligotricha SPECIES
 
 #### Status
 ACCEPTED

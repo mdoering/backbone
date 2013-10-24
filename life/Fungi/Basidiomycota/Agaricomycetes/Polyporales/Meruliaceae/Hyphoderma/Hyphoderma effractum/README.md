@@ -1,5 +1,4 @@
-Hyphoderma effractum Hjortstam, 1998 SPECIES
-=======
+# Hyphoderma effractum Hjortstam, 1998 SPECIES
 
 #### Status
 ACCEPTED

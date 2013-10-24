@@ -1,5 +1,4 @@
-Meliola melochiae Hansf. SPECIES
-=======
+# Meliola melochiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

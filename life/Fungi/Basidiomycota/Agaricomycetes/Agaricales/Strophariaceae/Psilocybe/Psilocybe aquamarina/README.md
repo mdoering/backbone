@@ -1,5 +1,4 @@
-Psilocybe aquamarina (Pegler) Guzmán SPECIES
-=======
+# Psilocybe aquamarina (Pegler) Guzmán SPECIES
 
 #### Status
 ACCEPTED

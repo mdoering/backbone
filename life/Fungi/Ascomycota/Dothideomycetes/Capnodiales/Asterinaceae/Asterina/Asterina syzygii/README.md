@@ -1,5 +1,4 @@
-Asterina syzygii var. syzygii VARIETY
-=======
+# Asterina syzygii Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bothalia 4: 336 (1942)
 
 #### Original name
-Asterina syzygii var. syzygii
+Asterina syzygii Doidge
 
 ### Remarks
 null

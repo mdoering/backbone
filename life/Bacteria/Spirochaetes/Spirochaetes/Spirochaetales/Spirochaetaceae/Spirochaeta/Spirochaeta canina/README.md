@@ -1,5 +1,4 @@
-Spirochaeta canina SPECIES
-=======
+# Spirochaeta canina SPECIES
 
 #### Status
 ACCEPTED

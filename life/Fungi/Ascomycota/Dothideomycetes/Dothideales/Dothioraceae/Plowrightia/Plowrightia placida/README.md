@@ -1,5 +1,4 @@
-Plowrightia placida Syd. SPECIES
-=======
+# Plowrightia placida Syd. SPECIES
 
 #### Status
 ACCEPTED

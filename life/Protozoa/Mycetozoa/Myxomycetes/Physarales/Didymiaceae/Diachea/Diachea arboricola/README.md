@@ -1,5 +1,4 @@
-Diachea arboricola H. W. Keller & Skrabal, 2004 SPECIES
-=======
+# Diachea arboricola H. W. Keller & Skrabal, 2004 SPECIES
 
 #### Status
 ACCEPTED

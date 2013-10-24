@@ -1,5 +1,4 @@
-Camarosporium rubicolum Sacc. SPECIES
-=======
+# Camarosporium rubicolum Sacc. SPECIES
 
 #### Status
 ACCEPTED

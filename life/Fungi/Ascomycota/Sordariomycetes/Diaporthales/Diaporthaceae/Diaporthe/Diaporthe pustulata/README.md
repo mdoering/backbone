@@ -1,17 +1,16 @@
-Phoma pustulata Sacc., 1884 SPECIES
-=======
+# Diaporthe pustulata (Desm.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 91 (1884)
+Syll. fung. (Abellini) 1: 610 (1882)
 
 #### Original name
-Phoma pustulata Sacc., 1884
+Sphaeria pustulata Desm., 1846
 
 ### Remarks
 null

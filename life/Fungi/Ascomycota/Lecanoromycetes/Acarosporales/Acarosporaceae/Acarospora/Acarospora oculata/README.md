@@ -1,5 +1,4 @@
-Acarospora oculata H. Magn. SPECIES
-=======
+# Acarospora oculata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

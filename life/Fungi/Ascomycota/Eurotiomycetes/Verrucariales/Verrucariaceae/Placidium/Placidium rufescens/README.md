@@ -1,5 +1,4 @@
-Placidium rufescens var. rufescens VARIETY
-=======
+# Placidium rufescens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placidium rufescens var. rufescens
+null
 
 ### Remarks
 null

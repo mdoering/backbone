@@ -1,5 +1,4 @@
-Mycobacterium chubuense (ex Tsukamura, 1973) Tsukamura, 1981 SPECIES
-=======
+# Mycobacterium chubuense (ex Tsukamura, 1973) Tsukamura, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tettigomyces galeatus Thaxt. SPECIES
-=======
+# Tettigomyces galeatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochytella xanthina (Sacc.) Petr. & P. Syd. SPECIES
-=======
+# Ascochytella xanthina (Sacc.) Petr. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

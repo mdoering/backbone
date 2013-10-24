@@ -1,5 +1,4 @@
-Lactarius subpallidipes Singer SPECIES
-=======
+# Lactarius subpallidipes Singer SPECIES
 
 #### Status
 ACCEPTED

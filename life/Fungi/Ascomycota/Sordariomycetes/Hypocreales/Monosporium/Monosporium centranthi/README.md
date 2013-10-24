@@ -1,5 +1,4 @@
-Monosporium centranthi Ranoj. SPECIES
-=======
+# Monosporium centranthi Ranoj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora deglupta Crous SPECIES
-=======
+# Pseudocercospora deglupta Crous SPECIES
 
 #### Status
 ACCEPTED

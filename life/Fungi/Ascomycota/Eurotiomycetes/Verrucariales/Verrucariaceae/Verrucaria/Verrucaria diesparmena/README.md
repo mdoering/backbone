@@ -1,5 +1,4 @@
-Verrucaria diesparmena Zschacke SPECIES
-=======
+# Verrucaria diesparmena Zschacke SPECIES
 
 #### Status
 ACCEPTED

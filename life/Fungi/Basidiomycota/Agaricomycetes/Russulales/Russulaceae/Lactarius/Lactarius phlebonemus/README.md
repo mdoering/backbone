@@ -1,5 +1,4 @@
-Lactarius phlebonemus f. phlebonemus FORM
-=======
+# Lactarius phlebonemus R. Heim & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bulletin du Jardin Botanique de l'État, Bruxelles 25: 38 (1955)
 
 #### Original name
-Lactarius phlebonemus f. phlebonemus
+Lactarius phlebonemus R. Heim & Gooss.-Font.
 
 ### Remarks
 null

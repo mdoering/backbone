@@ -1,5 +1,4 @@
-Diplodia genistae-tinctoriae Petr. SPECIES
-=======
+# Diplodia genistae-tinctoriae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotryum infundibuliforme Petch SPECIES
-=======
+# Arthrobotryum infundibuliforme Petch SPECIES
 
 #### Status
 ACCEPTED

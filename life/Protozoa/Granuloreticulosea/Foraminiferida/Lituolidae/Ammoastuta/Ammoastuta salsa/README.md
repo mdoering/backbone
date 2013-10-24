@@ -1,5 +1,4 @@
-Ammoastuta salsa Cushman & Brönnimann, 1948 SPECIES
-=======
+# Ammoastuta salsa Cushman & Brönnimann, 1948 SPECIES
 
 #### Status
 ACCEPTED

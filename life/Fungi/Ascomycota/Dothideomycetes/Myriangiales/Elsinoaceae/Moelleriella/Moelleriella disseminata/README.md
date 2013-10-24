@@ -1,17 +1,16 @@
-Molleriella disseminata Syd. SPECIES
-=======
+# Moelleriella disseminata Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14: 94 (1916)
 
 #### Original name
-Molleriella disseminata Syd.
+Moelleriella disseminata Syd.
 
 ### Remarks
 null

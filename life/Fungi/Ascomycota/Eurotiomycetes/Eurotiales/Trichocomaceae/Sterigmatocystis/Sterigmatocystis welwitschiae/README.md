@@ -1,5 +1,4 @@
-Sterigmatocystis welwitschiae (Bres.) Henn. SPECIES
-=======
+# Sterigmatocystis welwitschiae (Bres.) Henn. SPECIES
 
 #### Status
 ACCEPTED

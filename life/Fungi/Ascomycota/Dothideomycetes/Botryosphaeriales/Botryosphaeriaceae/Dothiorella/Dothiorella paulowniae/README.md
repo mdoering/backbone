@@ -1,5 +1,4 @@
-Dothiorella paulowniae Gonz. Frag. SPECIES
-=======
+# Dothiorella paulowniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

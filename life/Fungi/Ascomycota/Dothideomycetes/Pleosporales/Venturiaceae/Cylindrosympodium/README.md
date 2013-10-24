@@ -1,5 +1,4 @@
-Cylindrosympodium W.B. Kendrick & R.F. Castañeda, 1990 GENUS
-=======
+# Cylindrosympodium W.B. Kendrick & R.F. Castañeda, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia terminaliae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Puccinia terminaliae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

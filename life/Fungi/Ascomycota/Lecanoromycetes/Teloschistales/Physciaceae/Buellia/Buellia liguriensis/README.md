@@ -1,5 +1,4 @@
-Buellia liguriensis B. de Lesd. SPECIES
-=======
+# Buellia liguriensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

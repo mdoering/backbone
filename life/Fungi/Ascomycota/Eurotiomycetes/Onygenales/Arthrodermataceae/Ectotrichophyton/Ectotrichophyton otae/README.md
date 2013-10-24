@@ -1,5 +1,4 @@
-Ectotrichophyton otae C.W. Dodge SPECIES
-=======
+# Ectotrichophyton otae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

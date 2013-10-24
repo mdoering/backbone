@@ -1,5 +1,4 @@
-Papulaspora rubida Hotson, 1912 SPECIES
-=======
+# Papulaspora rubida Hotson, 1912 SPECIES
 
 #### Status
 ACCEPTED

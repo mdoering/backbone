@@ -1,5 +1,4 @@
-Lecidea punicea (Sw.) C. Knight SPECIES
-=======
+# Lecidea punicea (Sw.) C. Knight SPECIES
 
 #### Status
 ACCEPTED

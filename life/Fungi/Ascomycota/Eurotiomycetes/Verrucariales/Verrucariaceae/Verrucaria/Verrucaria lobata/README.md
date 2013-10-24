@@ -1,5 +1,4 @@
-Verrucaria lobata J.W. Thomson SPECIES
-=======
+# Verrucaria lobata J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

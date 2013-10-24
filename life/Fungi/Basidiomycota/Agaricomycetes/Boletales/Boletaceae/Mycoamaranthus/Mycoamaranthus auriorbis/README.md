@@ -1,5 +1,4 @@
-Mycoamaranthus auriorbis Castellano, Trappe & Malajczuk, 1992 SPECIES
-=======
+# Mycoamaranthus auriorbis Castellano, Trappe & Malajczuk, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium banketense Hopk. SPECIES
-=======
+# Aecidium banketense Hopk. SPECIES
 
 #### Status
 ACCEPTED

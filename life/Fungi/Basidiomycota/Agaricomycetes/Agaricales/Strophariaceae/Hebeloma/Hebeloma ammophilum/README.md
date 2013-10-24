@@ -1,5 +1,4 @@
-Hebeloma ammophilum Bohus, 1978 SPECIES
-=======
+# Hebeloma ammophilum Bohus, 1978 SPECIES
 
 #### Status
 ACCEPTED

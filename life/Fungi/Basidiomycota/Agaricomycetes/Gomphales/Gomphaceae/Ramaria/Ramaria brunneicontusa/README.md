@@ -1,5 +1,4 @@
-Ramaria brunneicontusa R.H. Petersen, 1989 SPECIES
-=======
+# Ramaria brunneicontusa R.H. Petersen, 1989 SPECIES
 
 #### Status
 ACCEPTED

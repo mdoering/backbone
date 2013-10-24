@@ -1,5 +1,4 @@
-Picoa juniperi Vittad., 1831 SPECIES
-=======
+# Picoa juniperi Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED

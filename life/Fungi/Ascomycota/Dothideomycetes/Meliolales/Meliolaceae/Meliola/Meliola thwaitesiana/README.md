@@ -1,5 +1,4 @@
-Meliola thwaitesiana Hansf. SPECIES
-=======
+# Meliola thwaitesiana Hansf. SPECIES
 
 #### Status
 ACCEPTED

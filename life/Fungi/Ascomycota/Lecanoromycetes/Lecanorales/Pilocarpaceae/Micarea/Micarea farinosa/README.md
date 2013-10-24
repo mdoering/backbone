@@ -1,5 +1,4 @@
-Micarea farinosa Coppins & Aptroot SPECIES
-=======
+# Micarea farinosa Coppins & Aptroot SPECIES
 
 #### Status
 ACCEPTED

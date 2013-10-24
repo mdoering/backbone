@@ -1,5 +1,4 @@
-Verrucaria tartaricola Linds. SPECIES
-=======
+# Verrucaria tartaricola Linds. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelina immiscens (Nyl.) Hale SPECIES
-=======
+# Parmelina immiscens (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

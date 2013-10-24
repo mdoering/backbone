@@ -1,5 +1,4 @@
-Oospora glaucophila Kirschst. SPECIES
-=======
+# Oospora glaucophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

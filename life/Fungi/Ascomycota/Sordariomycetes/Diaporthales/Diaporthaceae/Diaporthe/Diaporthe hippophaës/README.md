@@ -1,17 +1,16 @@
-Diaporthe hippophaëos E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Diaporthe hippophaës E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Saccardo, Syll. fung. (Abellini) 9: 707 (1891)
 
 #### Original name
-Diaporthe hippophaëos E. Bommer, M. Rousseau & Sacc.
+Diaporthe hippophaës E. Bommer, M. Rousseau & Sacc.
 
 ### Remarks
 null

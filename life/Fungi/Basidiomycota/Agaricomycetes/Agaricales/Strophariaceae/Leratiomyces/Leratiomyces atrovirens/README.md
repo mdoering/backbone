@@ -1,17 +1,16 @@
-Le-Ratia atrovirens R. Heim, 1968 SPECIES
-=======
+# Leratiomyces atrovirens Bresinsky & Manfr. Binder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
-null
+Z. Mykol. 64(1): 80 (1998)
 
 #### Original name
-null
+Leratiomyces atrovirens Bresinsky & Manfr. Binder
 
 ### Remarks
 null

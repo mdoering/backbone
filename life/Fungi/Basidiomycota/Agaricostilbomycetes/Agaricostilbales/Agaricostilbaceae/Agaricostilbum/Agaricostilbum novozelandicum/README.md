@@ -1,17 +1,16 @@
-Agaricostilbum novae-zelandica W.B. Kendr. & X.D. Gong SPECIES
-=======
+# Agaricostilbum novozelandicum W.B. Kendr. & X.D. Gong, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 54: 21 (1995)
 
 #### Original name
-Agaricostilbum novae-zelandica W.B. Kendr. & X.D. Gong
+Agaricostilbum novozelandicum W.B. Kendr. & X.D. Gong, 1995
 
 ### Remarks
 null

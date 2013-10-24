@@ -1,5 +1,4 @@
-Bovista dominicensis (Massee) Kreisel SPECIES
-=======
+# Bovista dominicensis (Massee) Kreisel SPECIES
 
 #### Status
 ACCEPTED

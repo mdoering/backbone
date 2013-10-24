@@ -1,5 +1,4 @@
-Camarosporium halymi Maubl. SPECIES
-=======
+# Camarosporium halymi Maubl. SPECIES
 
 #### Status
 ACCEPTED

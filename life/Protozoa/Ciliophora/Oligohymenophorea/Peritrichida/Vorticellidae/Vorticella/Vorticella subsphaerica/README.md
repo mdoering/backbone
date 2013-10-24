@@ -1,5 +1,4 @@
-Vorticella subsphaerica Kahl, 1935 SPECIES
-=======
+# Vorticella subsphaerica Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

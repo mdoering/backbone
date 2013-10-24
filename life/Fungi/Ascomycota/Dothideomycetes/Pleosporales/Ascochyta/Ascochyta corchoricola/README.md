@@ -1,5 +1,4 @@
-Ascochyta corchoricola Khokhr. SPECIES
-=======
+# Ascochyta corchoricola Khokhr. SPECIES
 
 #### Status
 ACCEPTED

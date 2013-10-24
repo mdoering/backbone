@@ -1,5 +1,4 @@
-Briareus A.H. Knoll, 1992 GENUS
-=======
+# Briareus A.H. Knoll, 1992 GENUS
 
 #### Status
 ACCEPTED

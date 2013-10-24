@@ -1,5 +1,4 @@
-Puccinia senilis Arthur SPECIES
-=======
+# Puccinia senilis Arthur SPECIES
 
 #### Status
 ACCEPTED

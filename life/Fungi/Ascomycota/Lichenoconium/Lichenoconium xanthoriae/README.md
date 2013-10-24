@@ -1,5 +1,4 @@
-Lichenoconium xanthoriae M.S. Christ., 1956 SPECIES
-=======
+# Lichenoconium xanthoriae M.S. Christ., 1956 SPECIES
 
 #### Status
 ACCEPTED

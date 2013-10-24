@@ -1,5 +1,4 @@
-Uromyces schweinfurthii Henn. SPECIES
-=======
+# Uromyces schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

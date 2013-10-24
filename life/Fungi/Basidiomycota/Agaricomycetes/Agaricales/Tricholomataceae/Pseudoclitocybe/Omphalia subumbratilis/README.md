@@ -1,5 +1,4 @@
-Omphalia subumbratilis Murrill SPECIES
-=======
+# Omphalia subumbratilis Murrill SPECIES
 
 #### Status
 ACCEPTED

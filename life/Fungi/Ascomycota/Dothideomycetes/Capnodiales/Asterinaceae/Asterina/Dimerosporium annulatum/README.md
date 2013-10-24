@@ -1,5 +1,4 @@
-Dimerosporium annulatum Rehm SPECIES
-=======
+# Dimerosporium annulatum Rehm SPECIES
 
 #### Status
 ACCEPTED

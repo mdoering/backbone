@@ -1,5 +1,4 @@
-Mycosphaerella caulicola (P. Karst.) Lind SPECIES
-=======
+# Mycosphaerella caulicola (P. Karst.) Lind SPECIES
 
 #### Status
 ACCEPTED

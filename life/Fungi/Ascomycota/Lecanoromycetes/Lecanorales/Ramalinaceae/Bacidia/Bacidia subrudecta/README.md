@@ -1,5 +1,4 @@
-Bacidia subrudecta (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia subrudecta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

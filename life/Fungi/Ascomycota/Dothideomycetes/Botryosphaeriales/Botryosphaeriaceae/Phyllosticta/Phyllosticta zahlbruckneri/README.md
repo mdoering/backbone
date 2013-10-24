@@ -1,5 +1,4 @@
-Phyllosticta zahlbruckneri Bäumler SPECIES
-=======
+# Phyllosticta zahlbruckneri Bäumler SPECIES
 
 #### Status
 ACCEPTED

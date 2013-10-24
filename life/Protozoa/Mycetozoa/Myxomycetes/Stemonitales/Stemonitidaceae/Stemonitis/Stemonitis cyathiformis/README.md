@@ -1,5 +1,4 @@
-Stemonitis cyathiformis Schrank SPECIES
-=======
+# Stemonitis cyathiformis Schrank SPECIES
 
 #### Status
 ACCEPTED

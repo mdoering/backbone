@@ -1,5 +1,4 @@
-Aecidium hippuridis Kunze SPECIES
-=======
+# Aecidium hippuridis Kunze SPECIES
 
 #### Status
 ACCEPTED

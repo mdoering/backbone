@@ -1,5 +1,4 @@
-Conoplea abietina (Peck) S. Hughes SPECIES
-=======
+# Conoplea abietina (Peck) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

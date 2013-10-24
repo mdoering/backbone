@@ -1,5 +1,4 @@
-Cucurbitaria comptoniae Cooke & Ellis SPECIES
-=======
+# Cucurbitaria comptoniae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

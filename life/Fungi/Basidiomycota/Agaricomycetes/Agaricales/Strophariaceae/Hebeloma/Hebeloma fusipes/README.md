@@ -1,5 +1,4 @@
-Hebeloma fusipes Bres. SPECIES
-=======
+# Hebeloma fusipes Bres. SPECIES
 
 #### Status
 ACCEPTED

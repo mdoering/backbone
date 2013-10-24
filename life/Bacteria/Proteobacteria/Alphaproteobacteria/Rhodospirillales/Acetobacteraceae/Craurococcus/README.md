@@ -1,5 +1,4 @@
-Craurococcus Saitoh, Suzuki & Nishimura, 1998 GENUS
-=======
+# Craurococcus Saitoh, Suzuki & Nishimura, 1998 GENUS
 
 #### Status
 ACCEPTED

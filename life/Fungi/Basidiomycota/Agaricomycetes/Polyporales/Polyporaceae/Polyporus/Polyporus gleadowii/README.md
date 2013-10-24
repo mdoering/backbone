@@ -1,5 +1,4 @@
-Polyporus gleadowii (Massee) B.K. Bakshi SPECIES
-=======
+# Polyporus gleadowii (Massee) B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

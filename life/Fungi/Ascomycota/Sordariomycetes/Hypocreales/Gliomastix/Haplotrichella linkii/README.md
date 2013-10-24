@@ -1,5 +1,4 @@
-Haplotrichella linkii G. Arnaud SPECIES
-=======
+# Haplotrichella linkii G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

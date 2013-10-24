@@ -1,5 +1,4 @@
-Phoma calotropidis Speg. SPECIES
-=======
+# Phoma calotropidis Speg. SPECIES
 
 #### Status
 ACCEPTED

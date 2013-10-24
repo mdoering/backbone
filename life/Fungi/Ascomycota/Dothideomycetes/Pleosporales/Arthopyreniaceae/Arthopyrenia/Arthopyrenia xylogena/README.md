@@ -1,5 +1,4 @@
-Arthopyrenia xylogena Müll. Arg. SPECIES
-=======
+# Arthopyrenia xylogena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

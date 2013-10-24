@@ -1,5 +1,4 @@
-Lagynophrya contractilis Kahl, 1928 SPECIES
-=======
+# Lagynophrya contractilis Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

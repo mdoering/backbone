@@ -1,5 +1,4 @@
-Anaptychia stippaea (Ach.) Nádv. SPECIES
-=======
+# Anaptychia stippaea (Ach.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

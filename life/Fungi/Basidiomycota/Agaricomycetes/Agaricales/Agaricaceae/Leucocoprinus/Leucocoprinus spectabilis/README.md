@@ -1,5 +1,4 @@
-Leucocoprinus spectabilis Clémençon SPECIES
-=======
+# Leucocoprinus spectabilis Clémençon SPECIES
 
 #### Status
 ACCEPTED

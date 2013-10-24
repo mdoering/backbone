@@ -1,5 +1,4 @@
-Lecidea revertens Stirt. SPECIES
-=======
+# Lecidea revertens Stirt. SPECIES
 
 #### Status
 ACCEPTED

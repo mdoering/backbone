@@ -1,5 +1,4 @@
-Wetzeliella articulata var. conopia G.L. Williams & C. Downie VARIETY
-=======
+# Wetzeliella articulata Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliolina lanceolata S. Hughes SPECIES
-=======
+# Meliolina lanceolata S. Hughes SPECIES
 
 #### Status
 ACCEPTED

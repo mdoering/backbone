@@ -1,14 +1,13 @@
-Microthelia anaxaea (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Didymosphaeria anaxaea Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 498 (1898)
+Syll. fung. (Abellini) 1: 707 (1882)
 
 #### Original name
 Didymosphaeria anaxaea Sacc., 1882

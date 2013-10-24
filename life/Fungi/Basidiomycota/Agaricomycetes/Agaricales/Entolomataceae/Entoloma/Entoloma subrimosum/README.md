@@ -1,5 +1,4 @@
-Entoloma subrimosum Hesler SPECIES
-=======
+# Entoloma subrimosum Hesler SPECIES
 
 #### Status
 ACCEPTED

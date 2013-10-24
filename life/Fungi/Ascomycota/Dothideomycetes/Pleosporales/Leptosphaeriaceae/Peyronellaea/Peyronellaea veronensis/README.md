@@ -1,5 +1,4 @@
-Peyronellaea veronensis Goid. SPECIES
-=======
+# Peyronellaea veronensis Goid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhumblerella Bronnimann, 1981 GENUS
-=======
+# Rhumblerella Bronnimann, 1981 GENUS
 
 #### Status
 ACCEPTED

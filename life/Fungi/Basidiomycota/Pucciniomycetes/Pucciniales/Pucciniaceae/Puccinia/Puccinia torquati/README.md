@@ -1,5 +1,4 @@
-Puccinia torquati Pass. SPECIES
-=======
+# Puccinia torquati Pass. SPECIES
 
 #### Status
 ACCEPTED

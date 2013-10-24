@@ -1,5 +1,4 @@
-Septoria costaricensis Speg. SPECIES
-=======
+# Septoria costaricensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria occidentalis Ellis & Everh. SPECIES
-=======
+# Septoria occidentalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

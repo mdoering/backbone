@@ -1,5 +1,4 @@
-Marasmius jamaicensis Murrill SPECIES
-=======
+# Marasmius jamaicensis Murrill SPECIES
 
 #### Status
 ACCEPTED

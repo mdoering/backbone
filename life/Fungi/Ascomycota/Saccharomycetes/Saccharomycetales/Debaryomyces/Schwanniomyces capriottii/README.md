@@ -1,8 +1,7 @@
-Debaryomyces castellii Capr., 1958 SPECIES
-=======
+# Schwanniomyces capriottii M. Suzuki & Kurtzman, 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

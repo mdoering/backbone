@@ -1,14 +1,13 @@
-Clisosporium glomerulatum (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Coniothyrium glomerulatum Sacc., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Michelia 1(no. 5): 520 (1879)
 
 #### Original name
 Coniothyrium glomerulatum Sacc., 1879

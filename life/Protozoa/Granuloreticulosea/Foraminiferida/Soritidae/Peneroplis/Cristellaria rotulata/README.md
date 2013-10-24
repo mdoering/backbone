@@ -1,5 +1,4 @@
-Cristellaria rotulata SPECIES
-=======
+# Cristellaria rotulata SPECIES
 
 #### Status
 DOUBTFUL

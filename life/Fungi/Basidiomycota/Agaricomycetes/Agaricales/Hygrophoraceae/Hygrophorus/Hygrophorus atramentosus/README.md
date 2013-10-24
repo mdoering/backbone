@@ -1,5 +1,4 @@
-Hygrophorus atramentosus Secr. ex H. Haas & R. Haller Aar. SPECIES
-=======
+# Hygrophorus atramentosus Secr. ex H. Haas & R. Haller Aar. SPECIES
 
 #### Status
 ACCEPTED

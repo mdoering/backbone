@@ -1,5 +1,4 @@
-Zygosoma Labbé, 1899 GENUS
-=======
+# Zygosoma Labbé, 1899 GENUS
 
 #### Status
 ACCEPTED

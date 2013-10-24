@@ -1,5 +1,4 @@
-Phlegmacium pallidum M.M. Moser SPECIES
-=======
+# Phlegmacium pallidum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

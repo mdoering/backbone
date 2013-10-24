@@ -1,5 +1,4 @@
-Ceriomyces pusillus Sacc. SPECIES
-=======
+# Ceriomyces pusillus Sacc. SPECIES
 
 #### Status
 ACCEPTED

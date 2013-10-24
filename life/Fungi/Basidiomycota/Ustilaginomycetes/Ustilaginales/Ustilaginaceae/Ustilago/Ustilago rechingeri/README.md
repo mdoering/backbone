@@ -1,5 +1,4 @@
-Ustilago rechingeri Savul. SPECIES
-=======
+# Ustilago rechingeri Savul. SPECIES
 
 #### Status
 ACCEPTED

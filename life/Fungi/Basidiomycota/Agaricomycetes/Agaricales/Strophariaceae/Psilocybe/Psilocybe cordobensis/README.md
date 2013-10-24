@@ -1,5 +1,4 @@
-Psilocybe cordobensis Singer SPECIES
-=======
+# Psilocybe cordobensis Singer SPECIES
 
 #### Status
 ACCEPTED

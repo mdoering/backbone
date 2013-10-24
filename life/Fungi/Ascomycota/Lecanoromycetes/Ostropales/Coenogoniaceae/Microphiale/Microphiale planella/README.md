@@ -1,5 +1,4 @@
-Microphiale planella (Nyl.) Zahlbr. SPECIES
-=======
+# Microphiale planella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

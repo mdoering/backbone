@@ -1,5 +1,4 @@
-Phyllosticta alliariaefoliae Allesch. SPECIES
-=======
+# Phyllosticta alliariaefoliae Allesch. SPECIES
 
 #### Status
 ACCEPTED

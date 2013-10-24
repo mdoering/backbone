@@ -1,5 +1,4 @@
-Bacidia trichosperma (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia trichosperma (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

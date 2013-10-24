@@ -1,5 +1,4 @@
-Ramularia menyanthis Magnus SPECIES
-=======
+# Ramularia menyanthis Magnus SPECIES
 
 #### Status
 ACCEPTED

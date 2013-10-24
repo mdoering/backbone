@@ -1,5 +1,4 @@
-Uredo andropogonis-lepidi Henn. SPECIES
-=======
+# Uredo andropogonis-lepidi Henn. SPECIES
 
 #### Status
 ACCEPTED

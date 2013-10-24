@@ -1,5 +1,4 @@
-Streptomyces griseus subsp. griseus SUBSPECIES
-=======
+# Streptomyces griseus (Krainsky, 1914) Waksman & Henrici, 1948 SPECIES
 
 #### Status
 ACCEPTED

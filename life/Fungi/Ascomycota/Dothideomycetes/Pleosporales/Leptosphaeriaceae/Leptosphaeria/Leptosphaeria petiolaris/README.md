@@ -1,5 +1,4 @@
-Leptosphaeria petiolaris Feltgen SPECIES
-=======
+# Leptosphaeria petiolaris Feltgen SPECIES
 
 #### Status
 ACCEPTED

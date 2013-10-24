@@ -1,5 +1,4 @@
-Cercidospora recedens (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Cercidospora recedens (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

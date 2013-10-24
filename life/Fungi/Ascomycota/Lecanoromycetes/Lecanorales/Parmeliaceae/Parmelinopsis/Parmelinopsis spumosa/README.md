@@ -1,14 +1,13 @@
-Parmelina spumosa (Asahina) Hale SPECIES
-=======
+# Parmelinopsis spumosa (Asahina) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28: 483 (1974)
+Mycotaxon 29: 243 (1987)
 
 #### Original name
 Parmelia spumosa Asahina

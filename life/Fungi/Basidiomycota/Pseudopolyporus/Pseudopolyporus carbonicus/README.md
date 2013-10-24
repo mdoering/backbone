@@ -1,5 +1,4 @@
-Pseudopolyporus carbonicus Hollick SPECIES
-=======
+# Pseudopolyporus carbonicus Hollick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina betulicola Nishida SPECIES
-=======
+# Taphrina betulicola Nishida SPECIES
 
 #### Status
 ACCEPTED

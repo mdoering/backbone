@@ -1,5 +1,4 @@
-Amphidinium ovum Herdman SPECIES
-=======
+# Amphidinium ovum Herdman SPECIES
 
 #### Status
 ACCEPTED

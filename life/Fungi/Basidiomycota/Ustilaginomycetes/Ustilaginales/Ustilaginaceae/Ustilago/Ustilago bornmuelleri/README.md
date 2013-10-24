@@ -1,5 +1,4 @@
-Ustilago bornmuelleri Magnus SPECIES
-=======
+# Ustilago bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

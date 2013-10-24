@@ -1,5 +1,4 @@
-Haploaxon Cordey, 1998 GENUS
-=======
+# Haploaxon Cordey, 1998 GENUS
 
 #### Status
 ACCEPTED

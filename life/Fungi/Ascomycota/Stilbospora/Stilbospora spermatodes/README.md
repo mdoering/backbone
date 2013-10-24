@@ -1,5 +1,4 @@
-Stilbospora spermatodes Link SPECIES
-=======
+# Stilbospora spermatodes Link SPECIES
 
 #### Status
 ACCEPTED

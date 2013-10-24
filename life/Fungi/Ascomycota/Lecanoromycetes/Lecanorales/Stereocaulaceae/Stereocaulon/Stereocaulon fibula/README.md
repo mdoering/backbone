@@ -1,5 +1,4 @@
-Stereocaulon fibula Tuck. SPECIES
-=======
+# Stereocaulon fibula Tuck. SPECIES
 
 #### Status
 ACCEPTED

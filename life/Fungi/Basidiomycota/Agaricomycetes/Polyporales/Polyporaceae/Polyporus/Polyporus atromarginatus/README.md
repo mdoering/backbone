@@ -1,5 +1,4 @@
-Polyporus atromarginatus Rick SPECIES
-=======
+# Polyporus atromarginatus Rick SPECIES
 
 #### Status
 ACCEPTED

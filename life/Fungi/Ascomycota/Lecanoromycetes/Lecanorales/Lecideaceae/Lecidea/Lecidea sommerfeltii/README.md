@@ -1,5 +1,4 @@
-Lecidea sommerfeltii Lynge SPECIES
-=======
+# Lecidea sommerfeltii Lynge SPECIES
 
 #### Status
 ACCEPTED

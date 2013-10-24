@@ -1,5 +1,4 @@
-Dictyostelium floridum J.S. Hong & N.K. Chang, 1992 SPECIES
-=======
+# Dictyostelium floridum J.S. Hong & N.K. Chang, 1992 SPECIES
 
 #### Status
 ACCEPTED

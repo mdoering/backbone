@@ -1,17 +1,16 @@
-Arrhenia fusconigra (P.D. Orton) P.A. Moreau & Courtec., 2008 SPECIES
-=======
+# Arrhenia sphagnicola (Berk.) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 48 (2002)
 
 #### Original name
-null
+Agaricus sphagnicola Berk., 1836
 
 ### Remarks
 null

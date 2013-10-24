@@ -1,5 +1,4 @@
-Thelebolus nanus Heimerl, 1889 SPECIES
-=======
+# Thelebolus nanus Heimerl, 1889 SPECIES
 
 #### Status
 ACCEPTED

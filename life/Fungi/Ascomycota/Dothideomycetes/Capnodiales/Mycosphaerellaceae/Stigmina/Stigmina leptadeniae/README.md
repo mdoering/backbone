@@ -1,5 +1,4 @@
-Stigmina leptadeniae Thaung SPECIES
-=======
+# Stigmina leptadeniae Thaung SPECIES
 
 #### Status
 ACCEPTED

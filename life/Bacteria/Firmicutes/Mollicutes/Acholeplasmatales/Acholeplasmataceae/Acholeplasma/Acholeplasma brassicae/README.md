@@ -1,5 +1,4 @@
-Acholeplasma brassicae Tully et al., 1994 SPECIES
-=======
+# Acholeplasma brassicae Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

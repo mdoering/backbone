@@ -1,5 +1,4 @@
-Agaricus chryseus Peck SPECIES
-=======
+# Agaricus chryseus Peck SPECIES
 
 #### Status
 ACCEPTED

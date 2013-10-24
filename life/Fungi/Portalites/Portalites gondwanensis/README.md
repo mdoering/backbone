@@ -1,5 +1,4 @@
-Portalites gondwanensis Nahuys, Alpern & Ybert, 1968 SPECIES
-=======
+# Portalites gondwanensis Nahuys, Alpern & Ybert, 1968 SPECIES
 
 #### Status
 ACCEPTED

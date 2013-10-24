@@ -1,5 +1,4 @@
-Stephanodiscus aegyptiacus Ehrenberg SPECIES
-=======
+# Stephanodiscus aegyptiacus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

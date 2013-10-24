@@ -1,5 +1,4 @@
-Hygrophorus paludosus Peck SPECIES
-=======
+# Hygrophorus paludosus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vararia longispora Boidin & Gilles SPECIES
-=======
+# Vararia longispora Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe pervisa (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe pervisa (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

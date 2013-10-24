@@ -1,11 +1,10 @@
-Praeorbulina glomerosa subsp. glomerosa SUBSPECIES
-=======
+# Praeorbulina glomerosa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+NUB Generator [implicit canonical]
 
 #### Published in
 null

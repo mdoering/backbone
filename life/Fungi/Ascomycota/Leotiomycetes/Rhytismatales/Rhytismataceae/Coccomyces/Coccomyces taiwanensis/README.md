@@ -1,5 +1,4 @@
-Coccomyces taiwanensis C.L. Hou, R. Kirschner & Chee J. Chen, 2006 SPECIES
-=======
+# Coccomyces taiwanensis C.L. Hou, R. Kirschner & Chee J. Chen, 2006 SPECIES
 
 #### Status
 ACCEPTED

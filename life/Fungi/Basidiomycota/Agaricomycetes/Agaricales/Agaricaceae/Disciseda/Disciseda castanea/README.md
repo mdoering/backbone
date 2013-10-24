@@ -1,5 +1,4 @@
-Disciseda castanea (Lév.) Bottomley SPECIES
-=======
+# Disciseda castanea (Lév.) Bottomley SPECIES
 
 #### Status
 ACCEPTED

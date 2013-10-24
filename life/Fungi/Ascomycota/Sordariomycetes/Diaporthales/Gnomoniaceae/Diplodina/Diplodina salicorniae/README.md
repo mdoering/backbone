@@ -1,5 +1,4 @@
-Diplodina salicorniae Jaap SPECIES
-=======
+# Diplodina salicorniae Jaap SPECIES
 
 #### Status
 ACCEPTED

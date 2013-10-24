@@ -1,5 +1,4 @@
-Rosalina glovularis D'Orbigny SPECIES
-=======
+# Rosalina glovularis D'Orbigny SPECIES
 
 #### Status
 ACCEPTED

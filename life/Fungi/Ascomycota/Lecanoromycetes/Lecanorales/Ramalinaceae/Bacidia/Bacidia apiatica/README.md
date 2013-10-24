@@ -1,5 +1,4 @@
-Bacidia apiatica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia apiatica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

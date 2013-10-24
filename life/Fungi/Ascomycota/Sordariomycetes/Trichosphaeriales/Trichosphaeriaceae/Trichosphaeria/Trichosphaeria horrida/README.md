@@ -1,5 +1,4 @@
-Trichosphaeria horrida Ellis & Everh. SPECIES
-=======
+# Trichosphaeria horrida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

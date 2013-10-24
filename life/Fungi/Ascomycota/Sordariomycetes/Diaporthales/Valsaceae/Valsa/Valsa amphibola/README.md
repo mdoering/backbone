@@ -1,5 +1,4 @@
-Valsa amphibola Sacc. SPECIES
-=======
+# Valsa amphibola Sacc. SPECIES
 
 #### Status
 ACCEPTED

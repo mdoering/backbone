@@ -1,5 +1,4 @@
-Rathayibacter caricis Dorofeeva et al., 2002 SPECIES
-=======
+# Rathayibacter caricis Dorofeeva et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

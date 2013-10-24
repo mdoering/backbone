@@ -1,5 +1,4 @@
-Phlyctochytrium laterale Sparrow SPECIES
-=======
+# Phlyctochytrium laterale Sparrow SPECIES
 
 #### Status
 ACCEPTED

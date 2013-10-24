@@ -1,5 +1,4 @@
-Placynthium caesium (Ach.) Vain. SPECIES
-=======
+# Placynthium caesium (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED

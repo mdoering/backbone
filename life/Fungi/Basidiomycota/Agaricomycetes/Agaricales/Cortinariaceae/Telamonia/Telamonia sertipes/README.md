@@ -1,5 +1,4 @@
-Telamonia sertipes (Kühner) Hlavácek SPECIES
-=======
+# Telamonia sertipes (Kühner) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

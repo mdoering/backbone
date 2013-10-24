@@ -1,5 +1,4 @@
-Phaeophleospora concentrica P.F. Cannon & J.C. David SPECIES
-=======
+# Phaeophleospora concentrica P.F. Cannon & J.C. David SPECIES
 
 #### Status
 ACCEPTED

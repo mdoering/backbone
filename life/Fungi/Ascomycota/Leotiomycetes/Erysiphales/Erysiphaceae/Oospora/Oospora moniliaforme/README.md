@@ -1,5 +1,4 @@
-Oospora moniliaforme Wallr. SPECIES
-=======
+# Oospora moniliaforme Wallr. SPECIES
 
 #### Status
 ACCEPTED

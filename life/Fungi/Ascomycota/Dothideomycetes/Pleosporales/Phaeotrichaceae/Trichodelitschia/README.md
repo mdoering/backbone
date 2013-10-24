@@ -1,5 +1,4 @@
-Trichodelitschia Munk, 1953 GENUS
-=======
+# Trichodelitschia Munk, 1953 GENUS
 
 #### Status
 ACCEPTED

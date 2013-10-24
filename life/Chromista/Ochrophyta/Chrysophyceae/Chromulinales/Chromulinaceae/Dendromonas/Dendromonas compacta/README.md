@@ -1,5 +1,4 @@
-Dendromonas compacta Skuja ex T. Willén SPECIES
-=======
+# Dendromonas compacta Skuja ex T. Willén SPECIES
 
 #### Status
 ACCEPTED

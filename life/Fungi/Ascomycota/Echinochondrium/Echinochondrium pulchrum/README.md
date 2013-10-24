@@ -1,5 +1,4 @@
-Echinochondrium pulchrum Samson & Aa, 1975 SPECIES
-=======
+# Echinochondrium pulchrum Samson & Aa, 1975 SPECIES
 
 #### Status
 ACCEPTED

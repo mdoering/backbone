@@ -1,5 +1,4 @@
-Puccinia contegens G. Cunn., 1923 SPECIES
-=======
+# Puccinia contegens G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

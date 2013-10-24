@@ -1,5 +1,4 @@
-Coprinus phaeocalyptratus Bogart SPECIES
-=======
+# Coprinus phaeocalyptratus Bogart SPECIES
 
 #### Status
 ACCEPTED

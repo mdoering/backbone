@@ -1,5 +1,4 @@
-Phyllactinia corylopsidis Y.N. Yu & S.J. Han SPECIES
-=======
+# Phyllactinia corylopsidis Y.N. Yu & S.J. Han SPECIES
 
 #### Status
 ACCEPTED

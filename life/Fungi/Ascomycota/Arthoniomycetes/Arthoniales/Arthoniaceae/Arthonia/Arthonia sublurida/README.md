@@ -1,5 +1,4 @@
-Arthonia sublurida Anzi SPECIES
-=======
+# Arthonia sublurida Anzi SPECIES
 
 #### Status
 ACCEPTED

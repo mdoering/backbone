@@ -1,5 +1,4 @@
-Hendersonia ulmicola Cooke SPECIES
-=======
+# Hendersonia ulmicola Cooke SPECIES
 
 #### Status
 ACCEPTED

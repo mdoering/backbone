@@ -1,5 +1,4 @@
-Puccinia confraga Arthur & Cummins SPECIES
-=======
+# Puccinia confraga Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta magellanica Fr. SPECIES
-=======
+# Sticta magellanica Fr. SPECIES
 
 #### Status
 ACCEPTED

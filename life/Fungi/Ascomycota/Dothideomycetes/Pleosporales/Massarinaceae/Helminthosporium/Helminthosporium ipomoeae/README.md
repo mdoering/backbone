@@ -1,17 +1,16 @@
-Helminthosporium ipomeae Sawada & Katsuki SPECIES
-=======
+# Helminthosporium ipomoeae Sawada & Katsuki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 201 (1959)
 
 #### Original name
-Helminthosporium ipomeae Sawada & Katsuki
+Helminthosporium ipomoeae Sawada & Katsuki
 
 ### Remarks
 null

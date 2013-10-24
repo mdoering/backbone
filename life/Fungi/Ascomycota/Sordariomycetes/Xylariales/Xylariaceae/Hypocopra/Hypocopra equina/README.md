@@ -1,5 +1,4 @@
-Hypocopra equina (Fr.) Sacc. SPECIES
-=======
+# Hypocopra equina (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

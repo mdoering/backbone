@@ -1,5 +1,4 @@
-Umbilicaria dilacerata Frey SPECIES
-=======
+# Umbilicaria dilacerata Frey SPECIES
 
 #### Status
 ACCEPTED

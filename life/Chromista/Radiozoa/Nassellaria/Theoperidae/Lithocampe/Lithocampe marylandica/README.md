@@ -1,5 +1,4 @@
-Lithocampe marylandica SPECIES
-=======
+# Lithocampe marylandica SPECIES
 
 #### Status
 ACCEPTED

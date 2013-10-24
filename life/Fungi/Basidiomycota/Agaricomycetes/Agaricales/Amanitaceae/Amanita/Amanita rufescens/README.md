@@ -1,5 +1,4 @@
-Amanita rufescens Lam. SPECIES
-=======
+# Amanita rufescens Lam. SPECIES
 
 #### Status
 ACCEPTED

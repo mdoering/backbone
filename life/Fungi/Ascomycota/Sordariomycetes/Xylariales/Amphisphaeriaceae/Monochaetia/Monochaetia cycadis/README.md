@@ -1,5 +1,4 @@
-Monochaetia cycadis Y.X. Chen & G. Wei SPECIES
-=======
+# Monochaetia cycadis Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

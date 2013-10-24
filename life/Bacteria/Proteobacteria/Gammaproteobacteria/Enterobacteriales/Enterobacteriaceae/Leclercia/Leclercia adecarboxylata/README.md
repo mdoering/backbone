@@ -1,8 +1,7 @@
-Escherichia adecarboxylata Leclerc, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Leclercia adecarboxylata (Leclerc, 1962) Tamura et al., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

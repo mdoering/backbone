@@ -1,14 +1,13 @@
-Pseudonectria tornata Höhn., 1909 SPECIES
-=======
+# Bionectria tornata (Höhn.) Schroers, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118(1): 1470 (1909)
+Stud. Mycol. 46: 184 (2001)
 
 #### Original name
 Pseudonectria tornata Höhn., 1909

@@ -1,14 +1,13 @@
-Clisosporium populinum (Sacc. & Schulzer) Kuntze, 1898 SPECIES
-=======
+# Coniothyrium populinum Schulzer & Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Micromyc. Slavon. no. 28 (1884)
 
 #### Original name
 Coniothyrium populinum Schulzer & Sacc., 1884

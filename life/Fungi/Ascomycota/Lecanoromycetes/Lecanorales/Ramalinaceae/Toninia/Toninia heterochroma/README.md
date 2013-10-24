@@ -1,5 +1,4 @@
-Toninia heterochroma I.M. Lamb SPECIES
-=======
+# Toninia heterochroma I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

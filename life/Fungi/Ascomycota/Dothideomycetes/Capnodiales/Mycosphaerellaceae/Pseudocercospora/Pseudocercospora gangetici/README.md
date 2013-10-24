@@ -1,5 +1,4 @@
-Pseudocercospora gangetici (Bharadwaj) U. Braun SPECIES
-=======
+# Pseudocercospora gangetici (Bharadwaj) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colus giganteus Dörfelt & Bumaa SPECIES
-=======
+# Colus giganteus Dörfelt & Bumaa SPECIES
 
 #### Status
 ACCEPTED

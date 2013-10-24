@@ -1,5 +1,4 @@
-Gamonaemella divergens Fairm. SPECIES
-=======
+# Gamonaemella divergens Fairm. SPECIES
 
 #### Status
 ACCEPTED

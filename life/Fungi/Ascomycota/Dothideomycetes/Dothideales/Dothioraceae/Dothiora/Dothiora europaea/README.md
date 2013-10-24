@@ -1,5 +1,4 @@
-Dothiora europaea Froid., 1972 SPECIES
-=======
+# Dothiora europaea Froid., 1972 SPECIES
 
 #### Status
 ACCEPTED

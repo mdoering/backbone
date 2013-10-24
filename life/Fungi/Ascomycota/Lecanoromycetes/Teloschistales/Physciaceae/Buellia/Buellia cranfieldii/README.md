@@ -1,5 +1,4 @@
-Buellia cranfieldii Elix SPECIES
-=======
+# Buellia cranfieldii Elix SPECIES
 
 #### Status
 ACCEPTED

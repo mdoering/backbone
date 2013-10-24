@@ -1,5 +1,4 @@
-Sordaria musae (Maire) Sacc. SPECIES
-=======
+# Sordaria musae (Maire) Sacc. SPECIES
 
 #### Status
 ACCEPTED

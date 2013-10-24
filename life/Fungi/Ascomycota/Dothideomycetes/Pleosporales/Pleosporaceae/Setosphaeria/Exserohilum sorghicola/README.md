@@ -1,5 +1,4 @@
-Exserohilum sorghicola Sivan. SPECIES
-=======
+# Exserohilum sorghicola Sivan. SPECIES
 
 #### Status
 ACCEPTED

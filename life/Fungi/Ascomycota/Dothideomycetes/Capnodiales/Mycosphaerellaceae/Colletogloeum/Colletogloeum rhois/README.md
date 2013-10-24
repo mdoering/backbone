@@ -1,5 +1,4 @@
-Colletogloeum rhois (Halst.) B. Sutton SPECIES
-=======
+# Colletogloeum rhois (Halst.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

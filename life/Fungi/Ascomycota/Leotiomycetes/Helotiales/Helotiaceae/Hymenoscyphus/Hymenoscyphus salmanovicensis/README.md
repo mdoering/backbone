@@ -1,5 +1,4 @@
-Hymenoscyphus salmanovicensis Svrcek SPECIES
-=======
+# Hymenoscyphus salmanovicensis Svrcek SPECIES
 
 #### Status
 ACCEPTED

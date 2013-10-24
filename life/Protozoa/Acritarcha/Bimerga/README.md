@@ -1,5 +1,4 @@
-Bimerga Wood, 1995 GENUS
-=======
+# Bimerga Wood, 1995 GENUS
 
 #### Status
 ACCEPTED

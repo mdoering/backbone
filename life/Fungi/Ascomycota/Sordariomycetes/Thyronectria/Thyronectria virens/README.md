@@ -1,5 +1,4 @@
-Thyronectria virens Harkn. SPECIES
-=======
+# Thyronectria virens Harkn. SPECIES
 
 #### Status
 ACCEPTED

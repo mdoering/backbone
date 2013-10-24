@@ -1,5 +1,4 @@
-Actinothyrium Kunze GENUS
-=======
+# Actinothyrium Kunze GENUS
 
 #### Status
 ACCEPTED

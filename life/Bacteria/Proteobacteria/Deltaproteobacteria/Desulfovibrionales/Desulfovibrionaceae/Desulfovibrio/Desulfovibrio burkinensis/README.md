@@ -1,5 +1,4 @@
-Desulfovibrio burkinensis Ouattara et al., 1999 SPECIES
-=======
+# Desulfovibrio burkinensis Ouattara et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterographium gregarium Pass. SPECIES
-=======
+# Hysterographium gregarium Pass. SPECIES
 
 #### Status
 ACCEPTED

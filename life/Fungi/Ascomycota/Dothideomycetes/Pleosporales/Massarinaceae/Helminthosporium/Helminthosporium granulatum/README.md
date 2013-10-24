@@ -1,5 +1,4 @@
-Helminthosporium granulatum Berk. & M.A. Curtis SPECIES
-=======
+# Helminthosporium granulatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

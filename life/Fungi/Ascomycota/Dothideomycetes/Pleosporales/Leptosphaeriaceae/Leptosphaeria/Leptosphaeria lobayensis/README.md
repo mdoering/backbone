@@ -1,5 +1,4 @@
-Leptosphaeria lobayensis Saccas SPECIES
-=======
+# Leptosphaeria lobayensis Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium pyrosporum Höhn. SPECIES
-=======
+# Exosporium pyrosporum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporiopsis Speg. GENUS
-=======
+# Coniosporiopsis Speg. GENUS
 
 #### Status
 ACCEPTED

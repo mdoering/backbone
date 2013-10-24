@@ -1,14 +1,13 @@
-Isaria amoene-rosea Henn., 1902 SPECIES
-=======
+# Paecilomyces amoene-roseus (Henn.) Samson, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 66 (1902)
+Stud. Mycol. 6: 37 (1974)
 
 #### Original name
 Isaria amoene-rosea Henn., 1902

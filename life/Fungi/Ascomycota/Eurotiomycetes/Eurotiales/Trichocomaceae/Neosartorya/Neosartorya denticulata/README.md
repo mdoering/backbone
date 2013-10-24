@@ -1,5 +1,4 @@
-Neosartorya denticulata Samson, S.B. Hong & Frisvad SPECIES
-=======
+# Neosartorya denticulata Samson, S.B. Hong & Frisvad SPECIES
 
 #### Status
 ACCEPTED

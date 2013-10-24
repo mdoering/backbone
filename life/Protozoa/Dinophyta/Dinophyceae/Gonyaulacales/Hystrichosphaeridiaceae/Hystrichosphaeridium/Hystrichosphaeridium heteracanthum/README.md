@@ -1,5 +1,4 @@
-Hystrichosphaeridium heteracanthum Deflandre & Cookson, 1955 SPECIES
-=======
+# Hystrichosphaeridium heteracanthum Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

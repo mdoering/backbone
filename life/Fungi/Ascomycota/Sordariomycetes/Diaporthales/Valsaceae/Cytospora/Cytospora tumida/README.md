@@ -1,5 +1,4 @@
-Cytospora tumida Lib. SPECIES
-=======
+# Cytospora tumida Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomerella phacidiomorpha (Ces.) Petr., 1927 SPECIES
-=======
+# Glomerella phacidiomorpha (Ces.) Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allophylaria soederholmii Svrcek SPECIES
-=======
+# Allophylaria soederholmii Svrcek SPECIES
 
 #### Status
 ACCEPTED

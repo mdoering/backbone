@@ -1,5 +1,4 @@
-Microporus funalis (Fr.) Kuntze SPECIES
-=======
+# Microporus funalis (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

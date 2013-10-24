@@ -1,5 +1,4 @@
-Usnea coccinea Dix SPECIES
-=======
+# Usnea coccinea Dix SPECIES
 
 #### Status
 ACCEPTED

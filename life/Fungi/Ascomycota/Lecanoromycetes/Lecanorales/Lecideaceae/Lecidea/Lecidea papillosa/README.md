@@ -1,5 +1,4 @@
-Lecidea papillosa Ach. SPECIES
-=======
+# Lecidea papillosa Ach. SPECIES
 
 #### Status
 ACCEPTED

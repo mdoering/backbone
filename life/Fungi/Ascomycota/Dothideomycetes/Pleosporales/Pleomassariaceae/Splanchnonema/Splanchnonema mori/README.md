@@ -1,5 +1,4 @@
-Splanchnonema mori (I. Miyake) Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
-=======
+# Splanchnonema mori (I. Miyake) Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

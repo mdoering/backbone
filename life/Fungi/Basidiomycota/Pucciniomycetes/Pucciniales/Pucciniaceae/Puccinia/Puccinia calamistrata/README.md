@@ -1,5 +1,4 @@
-Puccinia calamistrata anon. SPECIES
-=======
+# Puccinia calamistrata anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma deplanatum Müll. Arg. SPECIES
-=======
+# Amphiloma deplanatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

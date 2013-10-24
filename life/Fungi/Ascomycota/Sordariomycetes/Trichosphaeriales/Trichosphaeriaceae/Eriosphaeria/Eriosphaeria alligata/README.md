@@ -1,5 +1,4 @@
-Eriosphaeria alligata (Fr.) Sacc. SPECIES
-=======
+# Eriosphaeria alligata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

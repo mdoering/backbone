@@ -1,5 +1,4 @@
-Dendrothele andinopatagonica Gresl. & Rajchenb., 1998 SPECIES
-=======
+# Dendrothele andinopatagonica Gresl. & Rajchenb., 1998 SPECIES
 
 #### Status
 ACCEPTED

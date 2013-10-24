@@ -1,5 +1,4 @@
-Haematomma dispersum var. dispersum VARIETY
-=======
+# Haematomma dispersum Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Haematomma dispersum var. dispersum
+Haematomma dispersum Räsänen
 
 ### Remarks
 null

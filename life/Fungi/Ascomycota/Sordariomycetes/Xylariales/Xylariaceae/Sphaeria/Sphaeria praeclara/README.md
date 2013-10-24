@@ -1,5 +1,4 @@
-Sphaeria praeclara Mont. SPECIES
-=======
+# Sphaeria praeclara Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia insularis (A. Massal.) Vouaux SPECIES
-=======
+# Laestadia insularis (A. Massal.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

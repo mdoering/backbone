@@ -1,5 +1,4 @@
-Phaeococcomyces chersonesos Bogom. & Minter SPECIES
-=======
+# Phaeococcomyces chersonesos Bogom. & Minter SPECIES
 
 #### Status
 ACCEPTED

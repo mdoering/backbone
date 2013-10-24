@@ -1,17 +1,16 @@
-Exobasidium sphyrospermii L.D. Gómez & Kisim.-Hor. SPECIES
-=======
+# Exobasidium sphyrospermi L.D. Gómez & Kisim.-Hor., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Biol. trop. 46(4): 1087 (1998)
 
 #### Original name
-Exobasidium sphyrospermii L.D. Gómez & Kisim.-Hor.
+Exobasidium sphyrospermi L.D. Gómez & Kisim.-Hor., 1998
 
 ### Remarks
 null

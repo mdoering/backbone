@@ -1,5 +1,4 @@
-Lecanora ursina (Lynge) H. Magn. SPECIES
-=======
+# Lecanora ursina (Lynge) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

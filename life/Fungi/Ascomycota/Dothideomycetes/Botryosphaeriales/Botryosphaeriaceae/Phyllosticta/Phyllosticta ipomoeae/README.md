@@ -1,5 +1,4 @@
-Phyllosticta ipomoeae Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta ipomoeae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

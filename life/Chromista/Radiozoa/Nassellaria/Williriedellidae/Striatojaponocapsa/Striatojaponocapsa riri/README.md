@@ -1,5 +1,4 @@
-Striatojaponocapsa riri SPECIES
-=======
+# Striatojaponocapsa riri SPECIES
 
 #### Status
 ACCEPTED

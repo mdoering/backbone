@@ -1,5 +1,4 @@
-Lecanora metaboliza Nyl. SPECIES
-=======
+# Lecanora metaboliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

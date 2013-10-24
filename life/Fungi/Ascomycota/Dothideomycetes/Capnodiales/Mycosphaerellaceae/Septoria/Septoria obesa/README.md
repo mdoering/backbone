@@ -1,5 +1,4 @@
-Septoria obesa Syd. & P. Syd., 1914 SPECIES
-=======
+# Septoria obesa Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

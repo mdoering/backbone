@@ -1,5 +1,4 @@
-Aeromonas ichthiosmia Schubert et al., 1991 SPECIES
-=======
+# Aeromonas ichthiosmia Schubert et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymothozetia mimosoensis Rangel, 1915 SPECIES
-=======
+# Didymothozetia mimosoensis Rangel, 1915 SPECIES
 
 #### Status
 ACCEPTED

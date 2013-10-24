@@ -1,5 +1,4 @@
-Marasmius opalinus Massee SPECIES
-=======
+# Marasmius opalinus Massee SPECIES
 
 #### Status
 ACCEPTED

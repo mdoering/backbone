@@ -1,5 +1,4 @@
-Rhabdospora avicenniae Kohlm. & E. Kohlm., 1971 SPECIES
-=======
+# Rhabdospora avicenniae Kohlm. & E. Kohlm., 1971 SPECIES
 
 #### Status
 ACCEPTED

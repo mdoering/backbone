@@ -1,5 +1,4 @@
-Entophlyctis brassicae Nemec SPECIES
-=======
+# Entophlyctis brassicae Nemec SPECIES
 
 #### Status
 ACCEPTED

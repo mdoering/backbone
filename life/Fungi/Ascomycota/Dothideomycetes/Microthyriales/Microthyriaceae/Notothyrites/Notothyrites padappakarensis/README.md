@@ -1,5 +1,4 @@
-Notothyrites padappakarensis K.P. Jain & R.C. Gupta SPECIES
-=======
+# Notothyrites padappakarensis K.P. Jain & R.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

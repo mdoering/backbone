@@ -1,5 +1,4 @@
-Ascochyta tamaricis Golovin SPECIES
-=======
+# Ascochyta tamaricis Golovin SPECIES
 
 #### Status
 ACCEPTED

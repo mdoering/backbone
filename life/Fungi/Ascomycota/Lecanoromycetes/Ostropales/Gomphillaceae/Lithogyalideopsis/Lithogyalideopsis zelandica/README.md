@@ -1,14 +1,13 @@
-Gyalideopsis zeylandica Vezda & Malcolm SPECIES
-=======
+# Lithogyalideopsis zelandica (Vezda & Malcolm) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Australasian Lichenology 40: 20 (1997)
+Lichenologist 37(2): 165 (2005)
 
 #### Original name
 Gyalideopsis zeylandica Vezda & Malcolm

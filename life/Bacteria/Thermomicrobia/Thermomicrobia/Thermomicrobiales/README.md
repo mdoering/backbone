@@ -1,5 +1,4 @@
-Thermomicrobiales ORDER
-=======
+# Thermomicrobiales ORDER
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Emericella rugulosa var. rugulosa VARIETY
-=======
+# Emericella rugulosa (Thom & Raper) C.R. Benj., 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 47(5): 680 (1955)
 
 #### Original name
-Emericella rugulosa var. rugulosa
+Aspergillus rugulosus Thom & Raper, 1939
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Brachyspira alvinipulli Stanton et al., 1998 SPECIES
-=======
+# Serpulina alvinipulli Stanton et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

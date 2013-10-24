@@ -1,5 +1,4 @@
-Haplopyrenula nuda Vain. SPECIES
-=======
+# Haplopyrenula nuda Vain. SPECIES
 
 #### Status
 ACCEPTED

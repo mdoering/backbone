@@ -1,5 +1,4 @@
-Clitocybe stannea Velen. SPECIES
-=======
+# Clitocybe stannea Velen. SPECIES
 
 #### Status
 ACCEPTED

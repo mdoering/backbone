@@ -1,14 +1,13 @@
-Cantharellus aureus (Berk. & M.A. Curtis) Bres., 1913 SPECIES
-=======
+# Craterellus aureus Berk. & M.A. Curtis, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 53: 46 (1913)
+Proc. Amer. Acad. Arts & Sci. 4: 123 (1860)
 
 #### Original name
 Craterellus aureus Berk. & M.A. Curtis, 1860

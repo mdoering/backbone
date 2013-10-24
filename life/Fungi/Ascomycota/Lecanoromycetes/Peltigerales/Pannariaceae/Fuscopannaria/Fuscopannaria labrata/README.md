@@ -1,5 +1,4 @@
-Fuscopannaria labrata P.M. Jørg. SPECIES
-=======
+# Fuscopannaria labrata P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

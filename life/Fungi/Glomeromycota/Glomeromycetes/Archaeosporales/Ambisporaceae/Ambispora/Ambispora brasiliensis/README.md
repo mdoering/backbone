@@ -1,5 +1,4 @@
-Ambispora brasiliensis B.T. Goto, L.C. Maia & Oehl SPECIES
-=======
+# Ambispora brasiliensis B.T. Goto, L.C. Maia & Oehl SPECIES
 
 #### Status
 ACCEPTED

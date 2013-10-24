@@ -1,5 +1,4 @@
-Licea epiphylla Schwein. SPECIES
-=======
+# Licea epiphylla Schwein. SPECIES
 
 #### Status
 ACCEPTED

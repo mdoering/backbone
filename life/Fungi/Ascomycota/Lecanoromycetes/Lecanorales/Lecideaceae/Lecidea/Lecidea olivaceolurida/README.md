@@ -1,5 +1,4 @@
-Lecidea olivaceolurida Vain. SPECIES
-=======
+# Lecidea olivaceolurida Vain. SPECIES
 
 #### Status
 ACCEPTED

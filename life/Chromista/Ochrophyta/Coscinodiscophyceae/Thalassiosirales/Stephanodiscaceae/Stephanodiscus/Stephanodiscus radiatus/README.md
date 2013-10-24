@@ -1,5 +1,4 @@
-Stephanodiscus radiatus K.K. Serieyssol, E. Theriot & F. Gasse SPECIES
-=======
+# Stephanodiscus radiatus K.K. Serieyssol, E. Theriot & F. Gasse SPECIES
 
 #### Status
 ACCEPTED

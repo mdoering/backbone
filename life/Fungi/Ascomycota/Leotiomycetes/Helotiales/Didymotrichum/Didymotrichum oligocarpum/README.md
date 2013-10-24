@@ -1,5 +1,4 @@
-Didymotrichum oligocarpum (Corda) Bonord. SPECIES
-=======
+# Didymotrichum oligocarpum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

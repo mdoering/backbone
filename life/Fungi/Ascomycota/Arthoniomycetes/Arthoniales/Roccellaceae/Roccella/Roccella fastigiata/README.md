@@ -1,5 +1,4 @@
-Roccella fastigiata Bory SPECIES
-=======
+# Roccella fastigiata Bory SPECIES
 
 #### Status
 ACCEPTED

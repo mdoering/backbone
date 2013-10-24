@@ -1,5 +1,4 @@
-Distephanopsis contraria (Deflandre ex L. Jerkovic) T.V. Desikachary & P. Prema SPECIES
-=======
+# Distephanopsis contraria (Deflandre ex L. Jerkovic) T.V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

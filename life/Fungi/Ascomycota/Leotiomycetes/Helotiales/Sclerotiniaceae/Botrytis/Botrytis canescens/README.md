@@ -1,5 +1,4 @@
-Botrytis canescens Sacc. SPECIES
-=======
+# Botrytis canescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

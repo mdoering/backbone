@@ -1,5 +1,4 @@
-Lepochromulina Scherffel, 1911 GENUS
-=======
+# Lepochromulina Scherffel, 1911 GENUS
 
 #### Status
 ACCEPTED

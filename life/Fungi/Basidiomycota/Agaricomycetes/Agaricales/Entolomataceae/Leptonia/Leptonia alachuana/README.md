@@ -1,5 +1,4 @@
-Leptonia alachuana (Murrill) Murrill SPECIES
-=======
+# Leptonia alachuana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

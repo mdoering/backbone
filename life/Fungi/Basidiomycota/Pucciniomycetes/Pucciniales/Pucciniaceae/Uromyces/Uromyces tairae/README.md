@@ -1,5 +1,4 @@
-Uromyces tairae Hirats. f. SPECIES
-=======
+# Uromyces tairae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

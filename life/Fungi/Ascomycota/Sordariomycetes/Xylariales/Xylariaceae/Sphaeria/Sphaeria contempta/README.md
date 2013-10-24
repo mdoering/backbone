@@ -1,5 +1,4 @@
-Sphaeria contempta Durieu & Mont. SPECIES
-=======
+# Sphaeria contempta Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

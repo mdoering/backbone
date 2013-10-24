@@ -1,5 +1,4 @@
-Aphanomyces amphigynus Cutter SPECIES
-=======
+# Aphanomyces amphigynus Cutter SPECIES
 
 #### Status
 ACCEPTED

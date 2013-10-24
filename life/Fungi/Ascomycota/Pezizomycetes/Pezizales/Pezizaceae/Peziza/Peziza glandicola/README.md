@@ -1,5 +1,4 @@
-Peziza glandicola Schwein. SPECIES
-=======
+# Peziza glandicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

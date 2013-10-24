@@ -1,5 +1,4 @@
-Singerocybe viscida Harmaja SPECIES
-=======
+# Singerocybe viscida Harmaja SPECIES
 
 #### Status
 ACCEPTED

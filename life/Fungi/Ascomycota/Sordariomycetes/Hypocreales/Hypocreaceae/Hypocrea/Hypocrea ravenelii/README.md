@@ -1,5 +1,4 @@
-Hypocrea ravenelii Berk. SPECIES
-=======
+# Hypocrea ravenelii Berk. SPECIES
 
 #### Status
 ACCEPTED

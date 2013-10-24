@@ -1,5 +1,4 @@
-Anoplophrya ovata SPECIES
-=======
+# Anoplophrya ovata SPECIES
 
 #### Status
 ACCEPTED

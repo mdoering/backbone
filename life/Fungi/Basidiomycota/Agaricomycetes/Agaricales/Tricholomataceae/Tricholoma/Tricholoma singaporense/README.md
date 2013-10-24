@@ -1,5 +1,4 @@
-Tricholoma singaporense Corner SPECIES
-=======
+# Tricholoma singaporense Corner SPECIES
 
 #### Status
 ACCEPTED

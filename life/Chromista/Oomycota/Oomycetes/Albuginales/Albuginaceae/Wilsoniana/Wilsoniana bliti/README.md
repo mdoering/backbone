@@ -1,17 +1,16 @@
-Cystopus bliti f. bliti (Biv.) Lév. FORM
-=======
+# Wilsoniana bliti (Biv.) Thines, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 8: 371 (1848)
+Mycotaxon 92: 456 (2005)
 
 #### Original name
-Cystopus bliti f. bliti (Biv.) Lév.
+Uredo bliti Biv., 1816
 
 ### Remarks
 null

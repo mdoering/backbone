@@ -1,5 +1,4 @@
-Calonectria mindoensis Petr. SPECIES
-=======
+# Calonectria mindoensis Petr. SPECIES
 
 #### Status
 ACCEPTED

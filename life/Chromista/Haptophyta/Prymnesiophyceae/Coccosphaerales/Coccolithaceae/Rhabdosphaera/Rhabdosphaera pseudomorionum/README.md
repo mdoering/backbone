@@ -1,5 +1,4 @@
-Rhabdosphaera pseudomorionum Locker, 1967 SPECIES
-=======
+# Rhabdosphaera pseudomorionum Locker, 1967 SPECIES
 
 #### Status
 ACCEPTED

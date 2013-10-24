@@ -1,5 +1,4 @@
-Teichospora chandrapurensis P.G. Sathe & Rajd. SPECIES
-=======
+# Teichospora chandrapurensis P.G. Sathe & Rajd. SPECIES
 
 #### Status
 ACCEPTED

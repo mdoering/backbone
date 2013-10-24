@@ -1,5 +1,4 @@
-Marasmius nigriceps Corner SPECIES
-=======
+# Marasmius nigriceps Corner SPECIES
 
 #### Status
 ACCEPTED

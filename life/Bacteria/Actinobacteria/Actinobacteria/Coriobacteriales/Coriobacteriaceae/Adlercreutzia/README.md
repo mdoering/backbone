@@ -1,5 +1,4 @@
-Adlercreutzia Maruo et al., 2008 GENUS
-=======
+# Adlercreutzia Maruo et al., 2008 GENUS
 
 #### Status
 ACCEPTED

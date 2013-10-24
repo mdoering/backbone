@@ -1,5 +1,4 @@
-Chlamydophorella suemegense (Góczán, 1962) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Chlamydophorella suemegense (Góczán, 1962) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

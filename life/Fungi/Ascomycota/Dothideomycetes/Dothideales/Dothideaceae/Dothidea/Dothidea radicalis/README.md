@@ -1,5 +1,4 @@
-Dothidea radicalis Schwein. SPECIES
-=======
+# Dothidea radicalis Schwein. SPECIES
 
 #### Status
 ACCEPTED

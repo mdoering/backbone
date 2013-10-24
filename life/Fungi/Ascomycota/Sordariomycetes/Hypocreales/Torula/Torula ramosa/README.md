@@ -1,5 +1,4 @@
-Torula ramosa Peck SPECIES
-=======
+# Torula ramosa Peck SPECIES
 
 #### Status
 ACCEPTED

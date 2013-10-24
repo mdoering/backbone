@@ -1,5 +1,4 @@
-Gloeosporium qualeae Allesch. SPECIES
-=======
+# Gloeosporium qualeae Allesch. SPECIES
 
 #### Status
 ACCEPTED

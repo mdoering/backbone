@@ -1,5 +1,4 @@
-Cidaris E.M. Fries, 1849 GENUS
-=======
+# Cidaris E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

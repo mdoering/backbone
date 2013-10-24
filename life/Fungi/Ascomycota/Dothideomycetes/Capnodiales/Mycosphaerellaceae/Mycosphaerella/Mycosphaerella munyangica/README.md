@@ -1,5 +1,4 @@
-Mycosphaerella munyangica Petr. SPECIES
-=======
+# Mycosphaerella munyangica Petr. SPECIES
 
 #### Status
 ACCEPTED

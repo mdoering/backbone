@@ -1,5 +1,4 @@
-Pseudocercospora jamaicensis (Chupp) Deighton SPECIES
-=======
+# Pseudocercospora jamaicensis (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

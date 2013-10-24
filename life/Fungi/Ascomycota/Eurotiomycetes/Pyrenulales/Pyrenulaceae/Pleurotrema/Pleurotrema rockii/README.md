@@ -1,5 +1,4 @@
-Pleurotrema rockii Zahlbr. SPECIES
-=======
+# Pleurotrema rockii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

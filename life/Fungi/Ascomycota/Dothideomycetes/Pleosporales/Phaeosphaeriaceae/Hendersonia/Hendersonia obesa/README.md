@@ -1,5 +1,4 @@
-Hendersonia obesa Petch SPECIES
-=======
+# Hendersonia obesa Petch SPECIES
 
 #### Status
 ACCEPTED

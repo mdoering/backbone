@@ -1,5 +1,4 @@
-Stereocaulon uvuliferum Müll. Arg. SPECIES
-=======
+# Stereocaulon uvuliferum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

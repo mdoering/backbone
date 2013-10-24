@@ -1,5 +1,4 @@
-Rhodophyllus fusicystis Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus fusicystis Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

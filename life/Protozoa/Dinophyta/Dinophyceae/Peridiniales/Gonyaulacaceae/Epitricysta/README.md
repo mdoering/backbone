@@ -1,5 +1,4 @@
-Epitricysta L.E. Stover & R. Helby, 1987 GENUS
-=======
+# Epitricysta L.E. Stover & R. Helby, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurogala campinensis (Singer) Redhead & Norvell SPECIES
-=======
+# Pleurogala campinensis (Singer) Redhead & Norvell SPECIES
 
 #### Status
 ACCEPTED

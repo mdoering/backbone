@@ -1,5 +1,4 @@
-Lecidea declinella Vain. SPECIES
-=======
+# Lecidea declinella Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia perstrictifolia Speg. SPECIES
-=======
+# Collybia perstrictifolia Speg. SPECIES
 
 #### Status
 ACCEPTED

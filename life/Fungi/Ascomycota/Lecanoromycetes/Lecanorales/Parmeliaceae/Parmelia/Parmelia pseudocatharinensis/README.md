@@ -1,5 +1,4 @@
-Parmelia pseudocatharinensis Gyeln. SPECIES
-=======
+# Parmelia pseudocatharinensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

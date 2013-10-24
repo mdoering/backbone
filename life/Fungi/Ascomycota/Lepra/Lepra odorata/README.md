@@ -1,5 +1,4 @@
-Lepra odorata F.H. Wigg. SPECIES
-=======
+# Lepra odorata F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

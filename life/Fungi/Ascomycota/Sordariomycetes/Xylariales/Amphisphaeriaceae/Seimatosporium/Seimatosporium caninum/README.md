@@ -1,14 +1,13 @@
-Hendersonulina canina (Brunaud) Tassi, 1902 SPECIES
-=======
+# Seimatosporium caninum (Brunaud) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Labor. Orto Bot. de R. Univ. Siena 5: 58 (1902)
+Mycol. Pap. 138: 69 (1975)
 
 #### Original name
 null

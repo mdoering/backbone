@@ -1,5 +1,4 @@
-Isidium microstictum (Sm.) Turner & Borrer SPECIES
-=======
+# Isidium microstictum (Sm.) Turner & Borrer SPECIES
 
 #### Status
 ACCEPTED

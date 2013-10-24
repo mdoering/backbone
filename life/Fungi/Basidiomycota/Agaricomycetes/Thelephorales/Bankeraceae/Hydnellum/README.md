@@ -1,5 +1,4 @@
-Hydnellum P. Karsten, 1879 GENUS
-=======
+# Hydnellum P. Karsten, 1879 GENUS
 
 #### Status
 ACCEPTED

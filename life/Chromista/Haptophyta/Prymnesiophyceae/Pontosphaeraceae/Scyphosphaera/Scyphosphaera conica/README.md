@@ -1,5 +1,4 @@
-Scyphosphaera conica Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera conica Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

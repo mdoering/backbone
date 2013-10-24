@@ -1,5 +1,4 @@
-Cannopilus latifenestratus A. Bachmann SPECIES
-=======
+# Cannopilus latifenestratus A. Bachmann SPECIES
 
 #### Status
 ACCEPTED

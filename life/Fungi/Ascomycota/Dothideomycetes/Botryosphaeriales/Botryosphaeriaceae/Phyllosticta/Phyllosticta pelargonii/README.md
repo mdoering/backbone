@@ -1,5 +1,4 @@
-Phyllosticta pelargonii Cejp & Dolejs SPECIES
-=======
+# Phyllosticta pelargonii Cejp & Dolejs SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca nigromarina Vondrák, Ríha, Arup & Søchting SPECIES
-=======
+# Caloplaca nigromarina Vondrák, Ríha, Arup & Søchting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eoophthalmidium Langer, 1968 GENUS
-=======
+# Eoophthalmidium Langer, 1968 GENUS
 
 #### Status
 ACCEPTED

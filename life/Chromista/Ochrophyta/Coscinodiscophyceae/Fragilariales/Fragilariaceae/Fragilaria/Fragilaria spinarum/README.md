@@ -1,5 +1,4 @@
-Fragilaria spinarum L-B & Metzeltin SPECIES
-=======
+# Fragilaria spinarum L-B & Metzeltin SPECIES
 
 #### Status
 ACCEPTED

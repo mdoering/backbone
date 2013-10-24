@@ -1,5 +1,4 @@
-Parmeliella conopleioides P.M. Jørg. SPECIES
-=======
+# Parmeliella conopleioides P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

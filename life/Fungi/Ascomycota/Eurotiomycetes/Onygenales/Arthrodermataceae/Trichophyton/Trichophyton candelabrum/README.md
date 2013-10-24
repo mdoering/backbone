@@ -1,17 +1,16 @@
-Trichophyton candelabreum Listemann SPECIES
-=======
+# Trichophyton candelabrum Listemann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Castellania 1(2): 53 (1973)
 
 #### Original name
-Trichophyton candelabreum Listemann
+Trichophyton candelabrum Listemann
 
 ### Remarks
 null

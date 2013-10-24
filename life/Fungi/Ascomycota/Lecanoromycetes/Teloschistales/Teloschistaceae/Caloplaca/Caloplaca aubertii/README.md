@@ -1,5 +1,4 @@
-Caloplaca aubertii B. de Lesd. SPECIES
-=======
+# Caloplaca aubertii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera continentalis Vitik. SPECIES
-=======
+# Peltigera continentalis Vitik. SPECIES
 
 #### Status
 ACCEPTED

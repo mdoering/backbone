@@ -1,5 +1,4 @@
-Vesiculohyphomyces Armando, Pereira-Carvalho & Dianese GENUS
-=======
+# Vesiculohyphomyces Armando, Pereira-Carvalho & Dianese GENUS
 
 #### Status
 ACCEPTED

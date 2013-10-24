@@ -1,5 +1,4 @@
-Mycobilimbia rhaphidophylli (Rehm) Sacc. SPECIES
-=======
+# Mycobilimbia rhaphidophylli (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

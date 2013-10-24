@@ -1,5 +1,4 @@
-Amanita glabriceps Peck SPECIES
-=======
+# Amanita glabriceps Peck SPECIES
 
 #### Status
 ACCEPTED

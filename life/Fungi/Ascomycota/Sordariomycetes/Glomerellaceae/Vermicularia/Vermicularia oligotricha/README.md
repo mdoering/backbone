@@ -1,5 +1,4 @@
-Vermicularia oligotricha Bubák & Kabát SPECIES
-=======
+# Vermicularia oligotricha Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

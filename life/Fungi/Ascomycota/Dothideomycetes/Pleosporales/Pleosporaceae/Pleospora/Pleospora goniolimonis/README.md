@@ -1,5 +1,4 @@
-Pleospora goniolimonis Pass. SPECIES
-=======
+# Pleospora goniolimonis Pass. SPECIES
 
 #### Status
 ACCEPTED

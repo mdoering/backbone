@@ -1,5 +1,4 @@
-Tulostoma vulgare Long & S. Ahmad SPECIES
-=======
+# Tulostoma vulgare Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

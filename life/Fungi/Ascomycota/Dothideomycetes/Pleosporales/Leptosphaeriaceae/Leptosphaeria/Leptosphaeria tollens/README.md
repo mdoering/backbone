@@ -1,5 +1,4 @@
-Leptosphaeria tollens Math. SPECIES
-=======
+# Leptosphaeria tollens Math. SPECIES
 
 #### Status
 ACCEPTED

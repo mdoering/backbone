@@ -1,5 +1,4 @@
-Tylopilus pacificus Wolfe SPECIES
-=======
+# Tylopilus pacificus Wolfe SPECIES
 
 #### Status
 ACCEPTED

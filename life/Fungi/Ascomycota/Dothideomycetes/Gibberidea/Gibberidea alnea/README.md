@@ -1,5 +1,4 @@
-Gibberidea alnea (Peck) Wehm. SPECIES
-=======
+# Gibberidea alnea (Peck) Wehm. SPECIES
 
 #### Status
 ACCEPTED

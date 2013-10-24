@@ -1,5 +1,4 @@
-Clitopilus quisquiliaris (P. Karst.) Noordel. SPECIES
-=======
+# Clitopilus quisquiliaris (P. Karst.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon garovaglioi (Mont.) Schaer. SPECIES
-=======
+# Endocarpon garovaglioi (Mont.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

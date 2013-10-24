@@ -1,5 +1,4 @@
-Cafeteriidae Moestrup, 1995 FAMILY
-=======
+# Cafeteriidae Moestrup, 1995 FAMILY
 
 #### Status
 ACCEPTED

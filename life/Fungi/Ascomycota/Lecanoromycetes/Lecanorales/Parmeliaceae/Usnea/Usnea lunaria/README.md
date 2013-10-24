@@ -1,5 +1,4 @@
-Usnea lunaria Motyka SPECIES
-=======
+# Usnea lunaria Motyka SPECIES
 
 #### Status
 ACCEPTED

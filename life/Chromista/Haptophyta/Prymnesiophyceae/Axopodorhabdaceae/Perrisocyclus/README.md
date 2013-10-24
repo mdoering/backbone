@@ -1,14 +1,13 @@
-Duplexipodorhabdus O. Varol & M.H. Girgis, 1994 GENUS
-=======
+# Perrisocyclus M. Black, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Neues Jahrb Geol Palaeontol Abh 192 (2): 242.
+null
 
 #### Original name
 null

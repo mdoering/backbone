@@ -1,5 +1,4 @@
-Mycosphaerella phalaridis (Gonz. Frag.) Maire & Werner SPECIES
-=======
+# Mycosphaerella phalaridis (Gonz. Frag.) Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

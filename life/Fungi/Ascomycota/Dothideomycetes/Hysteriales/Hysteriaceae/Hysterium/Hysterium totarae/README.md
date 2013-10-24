@@ -1,5 +1,4 @@
-Hysterium totarae Sacc. SPECIES
-=======
+# Hysterium totarae Sacc. SPECIES
 
 #### Status
 ACCEPTED

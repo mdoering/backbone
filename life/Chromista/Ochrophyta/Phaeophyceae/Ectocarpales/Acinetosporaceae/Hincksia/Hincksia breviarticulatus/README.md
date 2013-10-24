@@ -1,5 +1,4 @@
-Hincksia breviarticulatus (J. Agardh) P.C. Silva, 1987 SPECIES
-=======
+# Hincksia breviarticulatus (J. Agardh) P.C. Silva, 1987 SPECIES
 
 #### Status
 ACCEPTED

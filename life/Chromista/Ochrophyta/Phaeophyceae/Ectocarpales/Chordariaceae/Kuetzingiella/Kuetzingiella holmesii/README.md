@@ -1,8 +1,7 @@
-Ectocarpus holmesii Batters SPECIES
-=======
+# Kuetzingiella holmesii (Batters) Kornmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

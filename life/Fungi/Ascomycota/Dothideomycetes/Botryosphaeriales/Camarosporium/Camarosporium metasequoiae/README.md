@@ -1,5 +1,4 @@
-Camarosporium metasequoiae Gucevic SPECIES
-=======
+# Camarosporium metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

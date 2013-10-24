@@ -1,5 +1,4 @@
-Trypethelium elmeri (Vain.) R.C. Harris SPECIES
-=======
+# Trypethelium elmeri (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

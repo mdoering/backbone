@@ -1,14 +1,13 @@
-Lachnea pilatii Velen., 1934 SPECIES
-=======
+# Scutellinia pilatii (Velen.) Svrcek, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 308 (1934)
+Ceská Mykol. 25(2): 84 (1971)
 
 #### Original name
 Lachnea pilatii Velen., 1934

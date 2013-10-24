@@ -1,5 +1,4 @@
-Penicillium umbonatum Sopp SPECIES
-=======
+# Penicillium umbonatum Sopp SPECIES
 
 #### Status
 ACCEPTED

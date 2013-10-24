@@ -1,5 +1,4 @@
-Boletus larignus Britzelm. SPECIES
-=======
+# Boletus larignus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

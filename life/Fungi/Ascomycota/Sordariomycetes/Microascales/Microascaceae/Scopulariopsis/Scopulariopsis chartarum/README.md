@@ -1,14 +1,13 @@
-Masoniella chartarum (G. Sm.) G. Sm., 1952 SPECIES
-=======
+# Scopulariopsis chartarum (G. Sm.) F.J. Morton & G. Sm., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 35: 237 (1952)
+Mycol. Pap. 86: 64 (1963)
 
 #### Original name
 Masonia chartarum G. Sm., 1952

@@ -1,5 +1,4 @@
-Dicaeoma smilacis (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma smilacis (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

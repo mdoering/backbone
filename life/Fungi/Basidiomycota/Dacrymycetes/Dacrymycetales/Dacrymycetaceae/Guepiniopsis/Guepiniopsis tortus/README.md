@@ -1,5 +1,4 @@
-Guepiniopsis tortus Pat. SPECIES
-=======
+# Guepiniopsis tortus Pat. SPECIES
 
 #### Status
 ACCEPTED

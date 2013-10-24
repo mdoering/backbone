@@ -1,5 +1,4 @@
-Astrothelium pyrenastroides C. Knight SPECIES
-=======
+# Astrothelium pyrenastroides C. Knight SPECIES
 
 #### Status
 ACCEPTED

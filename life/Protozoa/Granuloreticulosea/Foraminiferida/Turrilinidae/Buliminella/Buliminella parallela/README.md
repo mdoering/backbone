@@ -1,5 +1,4 @@
-Buliminella parallela SPECIES
-=======
+# Buliminella parallela SPECIES
 
 #### Status
 ACCEPTED

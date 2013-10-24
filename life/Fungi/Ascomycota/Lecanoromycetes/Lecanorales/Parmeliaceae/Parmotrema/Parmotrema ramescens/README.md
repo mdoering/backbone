@@ -1,5 +1,4 @@
-Parmotrema ramescens (Zahlbr.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
-=======
+# Parmotrema ramescens (Zahlbr.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

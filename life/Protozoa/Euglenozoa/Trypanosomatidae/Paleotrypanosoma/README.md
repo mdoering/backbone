@@ -1,5 +1,4 @@
-Paleotrypanosoma Poinar, 2008 GENUS
-=======
+# Paleotrypanosoma Poinar, 2008 GENUS
 
 #### Status
 ACCEPTED

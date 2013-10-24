@@ -1,17 +1,16 @@
-Stigmatella Mudd GENUS
-=======
+# Sclerophyton Eschw. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Lich. 252 (1861)
+Syst. Lich. 14, 25 (1824)
 
 #### Original name
-Stigmatella Mudd
+Sclerophyton Eschw.
 
 ### Remarks
 null

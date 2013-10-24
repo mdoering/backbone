@@ -1,5 +1,4 @@
-Zoothamnopsis Song, 1997 GENUS
-=======
+# Zoothamnopsis Song, 1997 GENUS
 
 #### Status
 ACCEPTED

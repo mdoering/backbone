@@ -1,5 +1,4 @@
-Lecidea berteroana (Mont.) SPECIES
-=======
+# Lecidea berteroana (Mont.) SPECIES
 
 #### Status
 ACCEPTED

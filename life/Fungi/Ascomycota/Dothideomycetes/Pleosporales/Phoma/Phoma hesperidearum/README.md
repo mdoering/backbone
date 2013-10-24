@@ -1,5 +1,4 @@
-Phoma hesperidearum Sacc. SPECIES
-=======
+# Phoma hesperidearum Sacc. SPECIES
 
 #### Status
 ACCEPTED

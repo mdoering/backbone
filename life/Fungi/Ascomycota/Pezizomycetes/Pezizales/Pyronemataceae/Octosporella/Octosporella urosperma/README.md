@@ -1,5 +1,4 @@
-Octosporella urosperma Döbbeler, 1980 SPECIES
-=======
+# Octosporella urosperma Döbbeler, 1980 SPECIES
 
 #### Status
 ACCEPTED

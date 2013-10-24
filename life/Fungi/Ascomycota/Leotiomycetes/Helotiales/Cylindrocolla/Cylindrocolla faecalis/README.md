@@ -1,5 +1,4 @@
-Cylindrocolla faecalis Fairm. SPECIES
-=======
+# Cylindrocolla faecalis Fairm. SPECIES
 
 #### Status
 ACCEPTED

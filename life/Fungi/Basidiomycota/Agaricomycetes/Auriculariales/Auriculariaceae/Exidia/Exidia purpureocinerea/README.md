@@ -1,5 +1,4 @@
-Exidia purpureocinerea MacOwan & Kalchbr. SPECIES
-=======
+# Exidia purpureocinerea MacOwan & Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

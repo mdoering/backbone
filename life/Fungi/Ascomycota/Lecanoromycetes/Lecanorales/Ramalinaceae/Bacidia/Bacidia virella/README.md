@@ -1,5 +1,4 @@
-Bacidia virella (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia virella (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

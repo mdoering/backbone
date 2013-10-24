@@ -1,5 +1,4 @@
-Amanita albopulverulenta (Beeli) F.L. Tai SPECIES
-=======
+# Amanita albopulverulenta (Beeli) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

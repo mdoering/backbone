@@ -1,5 +1,4 @@
-Bacidia sprucei Müll. Arg. SPECIES
-=======
+# Bacidia sprucei Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

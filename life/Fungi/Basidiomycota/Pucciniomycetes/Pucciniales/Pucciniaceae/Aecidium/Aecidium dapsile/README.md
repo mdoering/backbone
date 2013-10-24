@@ -1,5 +1,4 @@
-Aecidium dapsile Arthur & Cummins SPECIES
-=======
+# Aecidium dapsile Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

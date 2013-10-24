@@ -1,5 +1,4 @@
-Stereocaulon delisei Bory ex Duby SPECIES
-=======
+# Stereocaulon delisei Bory ex Duby SPECIES
 
 #### Status
 ACCEPTED

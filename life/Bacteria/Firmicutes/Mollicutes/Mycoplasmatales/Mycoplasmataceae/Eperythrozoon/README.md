@@ -1,5 +1,4 @@
-Eperythrozoon GENUS
-=======
+# Eperythrozoon GENUS
 
 #### Status
 ACCEPTED

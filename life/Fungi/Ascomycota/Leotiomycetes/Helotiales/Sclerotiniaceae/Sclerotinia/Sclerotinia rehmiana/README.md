@@ -1,5 +1,4 @@
-Sclerotinia rehmiana Rick SPECIES
-=======
+# Sclerotinia rehmiana Rick SPECIES
 
 #### Status
 ACCEPTED

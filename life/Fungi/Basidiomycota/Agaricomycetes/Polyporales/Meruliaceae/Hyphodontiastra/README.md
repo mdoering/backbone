@@ -1,5 +1,4 @@
-Hyphodontiastra Hjortstam GENUS
-=======
+# Hyphodontiastra Hjortstam GENUS
 
 #### Status
 ACCEPTED

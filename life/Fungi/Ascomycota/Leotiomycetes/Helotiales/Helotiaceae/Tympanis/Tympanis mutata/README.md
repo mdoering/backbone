@@ -1,5 +1,4 @@
-Tympanis mutata (Fuckel) Rehm SPECIES
-=======
+# Tympanis mutata (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

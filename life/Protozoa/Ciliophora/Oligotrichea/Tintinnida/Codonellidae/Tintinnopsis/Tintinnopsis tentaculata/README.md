@@ -1,5 +1,4 @@
-Tintinnopsis tentaculata SPECIES
-=======
+# Tintinnopsis tentaculata SPECIES
 
 #### Status
 ACCEPTED

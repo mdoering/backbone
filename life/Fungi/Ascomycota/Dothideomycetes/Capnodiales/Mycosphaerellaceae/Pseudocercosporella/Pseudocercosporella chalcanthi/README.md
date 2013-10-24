@@ -1,5 +1,4 @@
-Pseudocercosporella chalcanthi (Annal.) U. Braun SPECIES
-=======
+# Pseudocercosporella chalcanthi (Annal.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

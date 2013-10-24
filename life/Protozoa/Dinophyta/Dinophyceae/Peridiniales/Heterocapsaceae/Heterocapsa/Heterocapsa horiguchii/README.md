@@ -1,5 +1,4 @@
-Heterocapsa horiguchii Iwataki, Takayama & Matsuoka SPECIES
-=======
+# Heterocapsa horiguchii Iwataki, Takayama & Matsuoka SPECIES
 
 #### Status
 ACCEPTED

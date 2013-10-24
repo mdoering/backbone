@@ -1,5 +1,4 @@
-Praecystammina Krasheninnikov, 1973 GENUS
-=======
+# Praecystammina Krasheninnikov, 1973 GENUS
 
 #### Status
 ACCEPTED

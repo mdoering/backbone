@@ -1,5 +1,4 @@
-Vestergrenia neolitseae I. Hino & Katum. SPECIES
-=======
+# Vestergrenia neolitseae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

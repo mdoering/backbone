@@ -1,5 +1,4 @@
-Heteropatella strasseri Bubák SPECIES
-=======
+# Heteropatella strasseri Bubák SPECIES
 
 #### Status
 ACCEPTED

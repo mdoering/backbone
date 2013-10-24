@@ -1,5 +1,4 @@
-Trichosporum rugosum (Castell.) M. Ota SPECIES
-=======
+# Trichosporum rugosum (Castell.) M. Ota SPECIES
 
 #### Status
 ACCEPTED

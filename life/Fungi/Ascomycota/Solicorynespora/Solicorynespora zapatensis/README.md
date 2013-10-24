@@ -1,5 +1,4 @@
-Solicorynespora zapatensis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Solicorynespora zapatensis R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

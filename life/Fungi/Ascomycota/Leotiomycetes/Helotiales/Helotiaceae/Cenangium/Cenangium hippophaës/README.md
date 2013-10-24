@@ -1,5 +1,4 @@
-Cenangium hippophaës Rehm SPECIES
-=======
+# Cenangium hippophaës Rehm SPECIES
 
 #### Status
 ACCEPTED

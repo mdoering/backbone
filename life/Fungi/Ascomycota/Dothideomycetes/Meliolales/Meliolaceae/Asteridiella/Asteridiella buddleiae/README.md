@@ -1,5 +1,4 @@
-Asteridiella buddleiae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella buddleiae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

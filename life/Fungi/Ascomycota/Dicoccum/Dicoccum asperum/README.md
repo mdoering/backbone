@@ -1,14 +1,13 @@
-Piricauda aspera (Corda) R.T. Moore, 1959 SPECIES
-=======
+# Dicoccum asperum (Corda) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rhodora 61: 96 (1959)
+Syll. fung. (Abellini) 4: 342 (1886)
 
 #### Original name
 Sporidesmium asperum Corda, 1838

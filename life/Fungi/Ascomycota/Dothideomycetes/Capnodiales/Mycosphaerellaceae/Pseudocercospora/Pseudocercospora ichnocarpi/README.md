@@ -1,5 +1,4 @@
-Pseudocercospora ichnocarpi (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora ichnocarpi (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

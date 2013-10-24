@@ -1,17 +1,16 @@
-Hormoascus Arx GENUS
-=======
+# Ambrosiozyma Van der Walt GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 38: 302 (1972)
+Mycopath. Mycol. appl. 46(4): 308 (1972)
 
 #### Original name
-Hormoascus Arx
+Ambrosiozyma Van der Walt
 
 ### Remarks
 null

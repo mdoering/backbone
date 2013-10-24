@@ -1,14 +1,13 @@
-Clavaria floridana Singer, 1945 SPECIES
-=======
+# Clavulina floridana (Singer) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 37(4): 425 (1945)
+Ann. Bot. Mem. 1: 323 (1950)
 
 #### Original name
 Clavaria floridana Singer, 1945

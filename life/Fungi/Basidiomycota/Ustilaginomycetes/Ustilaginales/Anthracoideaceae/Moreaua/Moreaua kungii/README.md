@@ -1,5 +1,4 @@
-Moreaua kungii Liou & H.C. Cheng, 1949 SPECIES
-=======
+# Moreaua kungii Liou & H.C. Cheng, 1949 SPECIES
 
 #### Status
 ACCEPTED

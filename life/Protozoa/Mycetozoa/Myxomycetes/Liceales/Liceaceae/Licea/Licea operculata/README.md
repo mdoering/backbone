@@ -1,17 +1,16 @@
-Orcadella operculata var. sessile G. Lister VARIETY
-=======
+# Licea operculata (Wingate) G.W. Martin, 1942 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 186 (1925)
+Mycologia 34(6): 702 (1942)
 
 #### Original name
-Orcadella operculata var. sessile G. Lister
+Orcadella operculata Wingate, 1889
 
 ### Remarks
 null

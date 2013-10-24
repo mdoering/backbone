@@ -1,5 +1,4 @@
-Gliostroma Corda GENUS
-=======
+# Gliostroma Corda GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plegmosphaera Haeckel, 1881 GENUS
-=======
+# Plegmosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

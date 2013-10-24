@@ -1,5 +1,4 @@
-Galerina gloeocystis Pegler SPECIES
-=======
+# Galerina gloeocystis Pegler SPECIES
 
 #### Status
 ACCEPTED

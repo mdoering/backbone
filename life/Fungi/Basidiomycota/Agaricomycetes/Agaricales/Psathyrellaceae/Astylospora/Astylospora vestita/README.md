@@ -1,14 +1,13 @@
-Atylospora vestita (Peck) Murrill SPECIES
-=======
+# Astylospora vestita (Peck) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 14(5): 265 (1922)
 
 #### Original name
 Psathyra vestita Peck

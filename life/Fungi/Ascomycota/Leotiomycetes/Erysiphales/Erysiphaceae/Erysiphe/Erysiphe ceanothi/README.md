@@ -1,5 +1,4 @@
-Erysiphe ceanothi Schwein. SPECIES
-=======
+# Erysiphe ceanothi Schwein. SPECIES
 
 #### Status
 ACCEPTED

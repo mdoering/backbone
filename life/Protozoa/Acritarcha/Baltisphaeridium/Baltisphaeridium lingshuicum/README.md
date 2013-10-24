@@ -1,5 +1,4 @@
-Baltisphaeridium lingshuicum He Chengquan & Li Peng, 1981 SPECIES
-=======
+# Baltisphaeridium lingshuicum He Chengquan & Li Peng, 1981 SPECIES
 
 #### Status
 ACCEPTED

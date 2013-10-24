@@ -1,5 +1,4 @@
-Ustilaginoidea borneensis Syd. & P. Syd. SPECIES
-=======
+# Ustilaginoidea borneensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

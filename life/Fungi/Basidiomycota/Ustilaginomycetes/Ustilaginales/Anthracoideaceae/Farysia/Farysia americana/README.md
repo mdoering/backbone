@@ -1,5 +1,4 @@
-Farysia americana Cif. SPECIES
-=======
+# Farysia americana Cif. SPECIES
 
 #### Status
 ACCEPTED

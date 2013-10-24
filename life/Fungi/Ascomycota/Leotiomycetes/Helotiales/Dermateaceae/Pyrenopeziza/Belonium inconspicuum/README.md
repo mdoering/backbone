@@ -1,5 +1,4 @@
-Belonium inconspicuum Cash SPECIES
-=======
+# Belonium inconspicuum Cash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma vulgare Hesler SPECIES
-=======
+# Entoloma vulgare Hesler SPECIES
 
 #### Status
 ACCEPTED

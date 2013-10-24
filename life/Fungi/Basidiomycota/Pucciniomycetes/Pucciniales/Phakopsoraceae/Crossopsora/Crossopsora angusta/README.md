@@ -1,5 +1,4 @@
-Crossopsora angusta Jørst. SPECIES
-=======
+# Crossopsora angusta Jørst. SPECIES
 
 #### Status
 ACCEPTED

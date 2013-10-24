@@ -1,5 +1,4 @@
-Russula senecis S. Imai SPECIES
-=======
+# Russula senecis S. Imai SPECIES
 
 #### Status
 ACCEPTED

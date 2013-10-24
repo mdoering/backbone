@@ -1,8 +1,7 @@
-Placynthium arboricolum Zahlbr. SPECIES
-=======
+# Placynthium arboricola Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placynthium arboricolum Zahlbr.
+Placynthium arboricola Zahlbr.
 
 ### Remarks
 null

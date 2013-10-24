@@ -1,5 +1,4 @@
-Puccinia memorae Henn. SPECIES
-=======
+# Puccinia memorae Henn. SPECIES
 
 #### Status
 ACCEPTED

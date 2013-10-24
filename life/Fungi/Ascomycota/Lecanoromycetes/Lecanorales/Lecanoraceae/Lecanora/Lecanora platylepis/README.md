@@ -1,5 +1,4 @@
-Lecanora platylepis Zahlbr. SPECIES
-=======
+# Lecanora platylepis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

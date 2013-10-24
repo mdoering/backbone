@@ -1,5 +1,4 @@
-Lachnum fulvellum Velen. SPECIES
-=======
+# Lachnum fulvellum Velen. SPECIES
 
 #### Status
 ACCEPTED

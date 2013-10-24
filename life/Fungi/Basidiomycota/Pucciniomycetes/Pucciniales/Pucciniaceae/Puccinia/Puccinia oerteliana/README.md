@@ -1,5 +1,4 @@
-Puccinia oerteliana Tranzschel SPECIES
-=======
+# Puccinia oerteliana Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella intermedia (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella intermedia (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

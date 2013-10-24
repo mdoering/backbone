@@ -1,5 +1,4 @@
-Sphaeria uvae-sarmenti Cooke SPECIES
-=======
+# Sphaeria uvae-sarmenti Cooke SPECIES
 
 #### Status
 ACCEPTED

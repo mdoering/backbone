@@ -1,14 +1,13 @@
-Biatora leptoloma (Müll. Arg.) Hellb. SPECIES
-=======
+# Lecidea leptoloma Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 64: 518 (1881)
 
 #### Original name
 Lecidea leptoloma Müll. Arg.

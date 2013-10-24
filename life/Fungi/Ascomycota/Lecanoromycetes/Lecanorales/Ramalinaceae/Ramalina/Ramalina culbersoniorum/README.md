@@ -1,5 +1,4 @@
-Ramalina culbersoniorum LaGreca SPECIES
-=======
+# Ramalina culbersoniorum LaGreca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia linearis E. Bommer & M. Rousseau SPECIES
-=======
+# Laestadia linearis E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium truncigenum Petr. SPECIES
-=======
+# Camarosporium truncigenum Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Galera nana (Petri) J.E. Lange, 1939 SPECIES
-=======
+# Galerina nana (Petri) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Agaric. Danic. 4: 41 pl. 127H (1939)
+Encyclop. Mycol. 7: 219 (1935)
 
 #### Original name
 Naucoria nana Petri, 1904

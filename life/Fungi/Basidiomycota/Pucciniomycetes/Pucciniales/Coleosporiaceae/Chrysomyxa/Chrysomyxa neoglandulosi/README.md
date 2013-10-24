@@ -1,5 +1,4 @@
-Chrysomyxa neoglandulosi P.E. Crane, 2001 SPECIES
-=======
+# Chrysomyxa neoglandulosi P.E. Crane, 2001 SPECIES
 
 #### Status
 ACCEPTED

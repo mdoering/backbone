@@ -1,5 +1,4 @@
-Barbourina GENUS
-=======
+# Barbourina GENUS
 
 #### Status
 ACCEPTED

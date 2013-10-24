@@ -1,5 +1,4 @@
-Alliatinella Carter, 1957 GENUS
-=======
+# Alliatinella Carter, 1957 GENUS
 
 #### Status
 ACCEPTED

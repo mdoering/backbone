@@ -1,5 +1,4 @@
-Coniothyrium leptosporum Theiss. SPECIES
-=======
+# Coniothyrium leptosporum Theiss. SPECIES
 
 #### Status
 ACCEPTED

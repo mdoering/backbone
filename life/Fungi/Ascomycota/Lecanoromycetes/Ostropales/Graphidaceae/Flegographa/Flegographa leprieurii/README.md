@@ -1,5 +1,4 @@
-Flegographa leprieurii (Mont.) A. Massal. SPECIES
-=======
+# Flegographa leprieurii (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

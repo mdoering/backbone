@@ -1,5 +1,4 @@
-Leucocoprinus zeyheri (Berk.) Singer SPECIES
-=======
+# Leucocoprinus zeyheri (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

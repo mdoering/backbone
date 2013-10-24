@@ -1,5 +1,4 @@
-Hypoxylon fuscodiscum Pat. SPECIES
-=======
+# Hypoxylon fuscodiscum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula hammonis (Ehrenb.) Sacc. SPECIES
-=======
+# Torula hammonis (Ehrenb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

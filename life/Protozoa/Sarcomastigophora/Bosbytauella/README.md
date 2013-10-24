@@ -1,5 +1,4 @@
-Bosbytauella Isakova, 1982 GENUS
-=======
+# Bosbytauella Isakova, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina circumdata Pat. SPECIES
-=======
+# Sebacina circumdata Pat. SPECIES
 
 #### Status
 ACCEPTED

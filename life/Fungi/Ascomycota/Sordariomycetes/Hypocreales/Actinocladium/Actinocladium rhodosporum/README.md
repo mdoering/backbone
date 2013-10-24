@@ -1,14 +1,13 @@
-Botrytis rhodospora (Ehrenb.) Sacc., 1886 SPECIES
-=======
+# Actinocladium rhodosporum Ehrenb., 1819 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 121 (1886)
+Jahrb. Gewächsk. 1(2): 52 (1819)
 
 #### Original name
 Actinocladium rhodosporum Ehrenb., 1819

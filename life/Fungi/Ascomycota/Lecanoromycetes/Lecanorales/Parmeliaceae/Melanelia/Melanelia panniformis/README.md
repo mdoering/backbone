@@ -1,17 +1,16 @@
-Parmelia panniformis f. panniformis (Nyl.) Vain. FORM
-=======
+# Melanelia panniformis (Nyl.) Essl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(1): 46 (1978)
 
 #### Original name
-Parmelia panniformis f. panniformis (Nyl.) Vain.
+Parmelia olivacea var. panniformis Nyl.
 
 ### Remarks
 null

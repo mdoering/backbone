@@ -1,5 +1,4 @@
-Neochiastozygus imbriei Haq & Lohmann, 1976 SPECIES
-=======
+# Neochiastozygus imbriei Haq & Lohmann, 1976 SPECIES
 
 #### Status
 ACCEPTED

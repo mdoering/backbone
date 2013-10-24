@@ -1,17 +1,16 @@
-Meliolina memecylonae Ujjainkar SPECIES
-=======
+# Meliolina memecyli Ujjainkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Botanical Contactor 10(3,4): 156 (1994)
 
 #### Original name
-Meliolina memecylonae Ujjainkar
+Meliolina memecyli Ujjainkar
 
 ### Remarks
 null

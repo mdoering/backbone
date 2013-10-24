@@ -1,5 +1,4 @@
-Panaeolus reticulatus Overh. SPECIES
-=======
+# Panaeolus reticulatus Overh. SPECIES
 
 #### Status
 ACCEPTED

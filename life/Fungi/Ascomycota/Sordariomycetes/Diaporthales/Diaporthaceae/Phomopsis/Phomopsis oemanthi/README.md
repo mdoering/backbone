@@ -1,5 +1,4 @@
-Phomopsis oemanthi Dzhalag. SPECIES
-=======
+# Phomopsis oemanthi Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

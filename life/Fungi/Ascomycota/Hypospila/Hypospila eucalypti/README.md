@@ -1,5 +1,4 @@
-Hypospila eucalypti Wakef. SPECIES
-=======
+# Hypospila eucalypti Wakef. SPECIES
 
 #### Status
 ACCEPTED

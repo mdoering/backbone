@@ -1,5 +1,4 @@
-Passalora bruchiana (Speg.) U. Braun & Crous SPECIES
-=======
+# Passalora bruchiana (Speg.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

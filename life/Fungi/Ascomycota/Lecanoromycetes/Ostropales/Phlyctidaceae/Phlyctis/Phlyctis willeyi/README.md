@@ -1,5 +1,4 @@
-Phlyctis willeyi Nyl. SPECIES
-=======
+# Phlyctis willeyi Nyl. SPECIES
 
 #### Status
 ACCEPTED

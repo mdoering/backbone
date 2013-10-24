@@ -1,14 +1,13 @@
-Hebelomatis kuehnerii (Bruchet) Locq. SPECIES
-=======
+# Hebelomatis kuehneri (Bruchet) Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. Mycol. , 3. Cortinariales-A. 146 (1979)
 
 #### Original name
 Hebeloma kuehneri Bruchet

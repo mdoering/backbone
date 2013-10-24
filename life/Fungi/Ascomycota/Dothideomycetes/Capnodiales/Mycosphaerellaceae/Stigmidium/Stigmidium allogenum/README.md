@@ -1,8 +1,7 @@
-Sphaerella psorae Anzi, 1868 SPECIES
-=======
+# Stigmidium allogenum (Nyl.) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

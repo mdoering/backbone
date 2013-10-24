@@ -1,5 +1,4 @@
-Arthothelium miltinum (Kremp.) Müll. Arg. SPECIES
-=======
+# Arthothelium miltinum (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

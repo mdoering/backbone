@@ -1,5 +1,4 @@
-Chrysosporium europae Sigler, Guarro & Punsola, 1986 SPECIES
-=======
+# Chrysosporium europae Sigler, Guarro & Punsola, 1986 SPECIES
 
 #### Status
 ACCEPTED

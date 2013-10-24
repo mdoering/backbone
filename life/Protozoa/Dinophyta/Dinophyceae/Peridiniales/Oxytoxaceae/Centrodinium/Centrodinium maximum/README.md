@@ -1,5 +1,4 @@
-Centrodinium maximum Pavillard SPECIES
-=======
+# Centrodinium maximum Pavillard SPECIES
 
 #### Status
 ACCEPTED

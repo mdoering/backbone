@@ -1,5 +1,4 @@
-Dicaeoma brandegei (Peck) Kuntze SPECIES
-=======
+# Dicaeoma brandegei (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

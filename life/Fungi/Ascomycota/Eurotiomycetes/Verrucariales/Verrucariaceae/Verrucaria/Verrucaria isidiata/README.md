@@ -1,5 +1,4 @@
-Verrucaria isidiata Servít SPECIES
-=======
+# Verrucaria isidiata Servít SPECIES
 
 #### Status
 ACCEPTED

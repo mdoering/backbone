@@ -1,5 +1,4 @@
-Polycauliona eudoxa (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Polycauliona eudoxa (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

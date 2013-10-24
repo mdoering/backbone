@@ -1,5 +1,4 @@
-Neoschneideria Ormières, Manier & Mathiez, 1965 GENUS
-=======
+# Neoschneideria Ormières, Manier & Mathiez, 1965 GENUS
 
 #### Status
 ACCEPTED

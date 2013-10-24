@@ -1,5 +1,4 @@
-Glabratella opercularis SPECIES
-=======
+# Glabratella opercularis SPECIES
 
 #### Status
 ACCEPTED

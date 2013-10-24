@@ -1,5 +1,4 @@
-Lecidea microcarpa (Th. Fr.) Vain. SPECIES
-=======
+# Lecidea microcarpa (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

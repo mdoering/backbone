@@ -1,17 +1,16 @@
-Pithomyces funiculosa M.E. Palm, E.L. Stewart & Rossman SPECIES
-=======
+# Pithomyces funiculosus M.E. Palm, E.L. Stewart & Rossman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 10(1): 246 (1979)
 
 #### Original name
-Pithomyces funiculosa M.E. Palm, E.L. Stewart & Rossman
+Pithomyces funiculosus M.E. Palm, E.L. Stewart & Rossman
 
 ### Remarks
 null

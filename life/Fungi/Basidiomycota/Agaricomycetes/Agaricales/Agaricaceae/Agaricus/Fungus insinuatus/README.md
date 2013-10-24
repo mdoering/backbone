@@ -1,5 +1,4 @@
-Fungus insinuatus (Cooke) Kuntze SPECIES
-=======
+# Fungus insinuatus (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

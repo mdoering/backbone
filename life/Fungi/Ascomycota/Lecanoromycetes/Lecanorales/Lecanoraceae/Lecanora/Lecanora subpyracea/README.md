@@ -1,5 +1,4 @@
-Lecanora subpyracea Nyl. SPECIES
-=======
+# Lecanora subpyracea Nyl. SPECIES
 
 #### Status
 ACCEPTED

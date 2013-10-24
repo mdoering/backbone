@@ -1,5 +1,4 @@
-Graphis diffracta SPECIES
-=======
+# Graphis diffracta SPECIES
 
 #### Status
 ACCEPTED

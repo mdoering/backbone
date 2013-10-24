@@ -1,5 +1,4 @@
-Pertusaria lecanorina Nyl. SPECIES
-=======
+# Pertusaria lecanorina Nyl. SPECIES
 
 #### Status
 ACCEPTED

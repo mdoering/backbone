@@ -1,5 +1,4 @@
-Aecidium bigeloviae Peck SPECIES
-=======
+# Aecidium bigeloviae Peck SPECIES
 
 #### Status
 ACCEPTED

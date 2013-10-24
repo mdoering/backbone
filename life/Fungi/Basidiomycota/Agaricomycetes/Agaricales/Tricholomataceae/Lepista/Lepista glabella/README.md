@@ -1,5 +1,4 @@
-Lepista glabella (Speg.) Singer SPECIES
-=======
+# Lepista glabella (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

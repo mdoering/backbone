@@ -1,5 +1,4 @@
-Eutypella aequilinearis (Schwein.) Starbäck SPECIES
-=======
+# Eutypella aequilinearis (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

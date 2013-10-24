@@ -1,5 +1,4 @@
-Fusarium kuehnii (Fuckel) Sacc. SPECIES
-=======
+# Fusarium kuehnii (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

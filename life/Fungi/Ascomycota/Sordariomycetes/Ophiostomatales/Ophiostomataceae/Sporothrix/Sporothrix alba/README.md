@@ -1,14 +1,13 @@
-Sporotrichum album Petch, 1926 SPECIES
-=======
+# Sporothrix alba (Petch) de Hoog, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 11: 262 (1926)
+Stud. Mycol. 7: 22 (1974)
 
 #### Original name
 Sporotrichum album Petch, 1926

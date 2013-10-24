@@ -1,17 +1,16 @@
-Ramaria gigantea f. gigantea FORM
-=======
+# Ramaria gigantea (Pat.) R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Biblthca Mycol. 79: 66 (1981)
 
 #### Original name
-Ramaria gigantea f. gigantea
+Lachnocladium giganteum Pat., 1889
 
 ### Remarks
 null

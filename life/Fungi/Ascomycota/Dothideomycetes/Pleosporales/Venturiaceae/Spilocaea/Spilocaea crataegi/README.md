@@ -1,5 +1,4 @@
-Spilocaea crataegi (Pers.) S. Hughes SPECIES
-=======
+# Spilocaea crataegi (Pers.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

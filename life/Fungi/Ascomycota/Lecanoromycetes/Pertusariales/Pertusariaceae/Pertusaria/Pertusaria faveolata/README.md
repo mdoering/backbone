@@ -1,5 +1,4 @@
-Pertusaria faveolata Elix & Malcolm SPECIES
-=======
+# Pertusaria faveolata Elix & Malcolm SPECIES
 
 #### Status
 ACCEPTED

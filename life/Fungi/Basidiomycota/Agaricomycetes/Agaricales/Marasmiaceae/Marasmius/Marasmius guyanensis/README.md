@@ -1,5 +1,4 @@
-Marasmius guyanensis var. guyanensis VARIETY
-=======
+# Marasmius guyanensis Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius guyanensis var. guyanensis
+Marasmius guyanensis Mont.
 
 ### Remarks
 null

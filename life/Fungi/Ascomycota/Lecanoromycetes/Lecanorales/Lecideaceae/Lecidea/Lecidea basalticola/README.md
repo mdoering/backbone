@@ -1,5 +1,4 @@
-Lecidea basalticola B. de Lesd. SPECIES
-=======
+# Lecidea basalticola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

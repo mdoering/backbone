@@ -1,5 +1,4 @@
-Chaetocypha lacera (Pers. ex Fr.) Kuntze SPECIES
-=======
+# Chaetocypha lacera (Pers. ex Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

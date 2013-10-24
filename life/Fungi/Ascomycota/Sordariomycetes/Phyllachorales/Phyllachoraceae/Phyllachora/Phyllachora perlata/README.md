@@ -1,5 +1,4 @@
-Phyllachora perlata Syd., 1914 SPECIES
-=======
+# Phyllachora perlata Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

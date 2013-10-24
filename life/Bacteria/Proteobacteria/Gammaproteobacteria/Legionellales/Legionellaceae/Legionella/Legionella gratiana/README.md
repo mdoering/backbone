@@ -1,5 +1,4 @@
-Legionella gratiana Bornstein et al., 1991 SPECIES
-=======
+# Legionella gratiana Bornstein et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

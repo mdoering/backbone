@@ -1,5 +1,4 @@
-Sargassum polyceratium var. ovatum (Collins) W.R.Taylor VARIETY
-=======
+# Sargassum polyceratium Montagne SPECIES
 
 #### Status
 ACCEPTED

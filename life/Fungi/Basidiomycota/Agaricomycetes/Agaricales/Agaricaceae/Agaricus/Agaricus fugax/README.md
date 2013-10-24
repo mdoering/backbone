@@ -1,5 +1,4 @@
-Agaricus fugax Schaeff. SPECIES
-=======
+# Agaricus fugax Schaeff. SPECIES
 
 #### Status
 ACCEPTED

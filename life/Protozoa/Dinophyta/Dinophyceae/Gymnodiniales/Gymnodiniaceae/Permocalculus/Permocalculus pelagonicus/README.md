@@ -1,5 +1,4 @@
-Permocalculus pelagonicus O. Dragastan, D.K. Richter, B. Kube, M. Popa, A. Sarbu & I. Ciugulea SPECIES
-=======
+# Permocalculus pelagonicus O. Dragastan, D.K. Richter, B. Kube, M. Popa, A. Sarbu & I. Ciugulea SPECIES
 
 #### Status
 ACCEPTED

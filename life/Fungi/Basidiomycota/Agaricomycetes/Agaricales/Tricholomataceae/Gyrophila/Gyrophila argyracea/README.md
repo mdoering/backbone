@@ -1,5 +1,4 @@
-Gyrophila argyracea var. argyracea VARIETY
-=======
+# Gyrophila argyracea anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophila argyracea var. argyracea
+Gyrophila argyracea anon.
 
 ### Remarks
 null

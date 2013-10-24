@@ -1,5 +1,4 @@
-Dimeromyces majewskii W. Rossi & Cesari SPECIES
-=======
+# Dimeromyces majewskii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

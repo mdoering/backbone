@@ -1,8 +1,7 @@
-Parmularia hymenolepidis Henn., 1908 SPECIES
-=======
+# Rhagadolobium nervisequium (Berk.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

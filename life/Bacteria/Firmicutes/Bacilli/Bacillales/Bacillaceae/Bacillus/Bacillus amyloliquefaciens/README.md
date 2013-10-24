@@ -1,11 +1,10 @@
-Bacillus amyloliquifaciens Fukumoto, 1943 SPECIES
-=======
+# Bacillus amyloliquefaciens (ex Fukumoto, 1943) Priest et al., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

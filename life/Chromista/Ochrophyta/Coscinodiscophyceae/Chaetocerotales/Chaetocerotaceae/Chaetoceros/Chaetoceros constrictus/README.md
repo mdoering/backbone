@@ -1,5 +1,4 @@
-Chaetoceros constrictus Gran SPECIES
-=======
+# Chaetoceros constrictus Gran SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterophora nauseosa Weinm. SPECIES
-=======
+# Asterophora nauseosa Weinm. SPECIES
 
 #### Status
 ACCEPTED

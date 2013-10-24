@@ -1,5 +1,4 @@
-Phyllosticta lycii Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta lycii Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

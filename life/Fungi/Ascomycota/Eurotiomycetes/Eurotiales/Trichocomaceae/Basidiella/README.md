@@ -1,5 +1,4 @@
-Basidiella GENUS
-=======
+# Basidiella GENUS
 
 #### Status
 ACCEPTED

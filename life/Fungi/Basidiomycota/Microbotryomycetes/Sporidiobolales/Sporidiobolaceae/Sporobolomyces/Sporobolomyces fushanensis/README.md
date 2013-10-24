@@ -1,5 +1,4 @@
-Sporobolomyces fushanensis Nakase, F.L. Lee & M. Takash. SPECIES
-=======
+# Sporobolomyces fushanensis Nakase, F.L. Lee & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aldridgeisphaera robusta (Eisenack et al., 1973) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Aldridgeisphaera robusta (Eisenack et al., 1973) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

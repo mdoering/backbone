@@ -1,5 +1,4 @@
-Involucrothele velutinoides var. velutinoides VARIETY
-=======
+# Involucrothele velutinoides (Hellb.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 185 (1954)
 
 #### Original name
-Involucrothele velutinoides var. velutinoides
+Verrucaria velutinoides Hellb.
 
 ### Remarks
 null

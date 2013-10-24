@@ -1,5 +1,4 @@
-Valsaria ceratoniae Crous & M.J. Wingf. SPECIES
-=======
+# Valsaria ceratoniae Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

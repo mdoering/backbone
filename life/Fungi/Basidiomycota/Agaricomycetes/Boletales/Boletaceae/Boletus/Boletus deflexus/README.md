@@ -1,5 +1,4 @@
-Boletus deflexus (Murrill) Murrill SPECIES
-=======
+# Boletus deflexus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

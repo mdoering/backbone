@@ -1,5 +1,4 @@
-Triloculina littoralis Collins, 1958 SPECIES
-=======
+# Triloculina littoralis Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria punctiformis var. punctiformis VARIETY
-=======
+# Verrucaria punctiformis Eschw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria punctiformis var. punctiformis
+Verrucaria punctiformis Eschw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma veronicae var. veronicae VARIETY
-=======
+# Phoma veronicae Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 6: 160 (1884)
 
 #### Original name
-Phoma veronicae var. veronicae
+Phoma veronicae Roum.
 
 ### Remarks
 null

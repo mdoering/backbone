@@ -1,5 +1,4 @@
-Sphaeria clavariarum Tul. & C. Tul. SPECIES
-=======
+# Sphaeria clavariarum Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

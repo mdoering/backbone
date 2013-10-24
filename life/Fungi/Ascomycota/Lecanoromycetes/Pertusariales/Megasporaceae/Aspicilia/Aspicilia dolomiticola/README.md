@@ -1,5 +1,4 @@
-Aspicilia dolomiticola Anzi SPECIES
-=======
+# Aspicilia dolomiticola Anzi SPECIES
 
 #### Status
 ACCEPTED

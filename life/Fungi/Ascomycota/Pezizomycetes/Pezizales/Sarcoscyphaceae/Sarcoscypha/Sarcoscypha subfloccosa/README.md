@@ -1,5 +1,4 @@
-Sarcoscypha subfloccosa (Hazsl.) Sacc. SPECIES
-=======
+# Sarcoscypha subfloccosa (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

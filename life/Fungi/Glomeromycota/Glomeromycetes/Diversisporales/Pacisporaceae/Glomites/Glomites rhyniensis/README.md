@@ -1,5 +1,4 @@
-Glomites rhyniensis T.N. Taylor, W. Remy, Hass & Kerp SPECIES
-=======
+# Glomites rhyniensis T.N. Taylor, W. Remy, Hass & Kerp SPECIES
 
 #### Status
 ACCEPTED

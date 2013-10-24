@@ -1,5 +1,4 @@
-Volvariella delicatula (Massee) Manjula SPECIES
-=======
+# Volvariella delicatula (Massee) Manjula SPECIES
 
 #### Status
 ACCEPTED

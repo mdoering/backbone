@@ -1,5 +1,4 @@
-Aecidium uvulariae Schwein. SPECIES
-=======
+# Aecidium uvulariae Schwein. SPECIES
 
 #### Status
 ACCEPTED

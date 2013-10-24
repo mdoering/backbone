@@ -1,5 +1,4 @@
-Lanternosphaeridium ovale J. M. Hansen SPECIES
-=======
+# Lanternosphaeridium ovale J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

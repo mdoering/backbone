@@ -1,5 +1,4 @@
-Chlorobaculum parvum Imhoff, 2003 SPECIES
-=======
+# Chlorobaculum parvum Imhoff, 2003 SPECIES
 
 #### Status
 ACCEPTED

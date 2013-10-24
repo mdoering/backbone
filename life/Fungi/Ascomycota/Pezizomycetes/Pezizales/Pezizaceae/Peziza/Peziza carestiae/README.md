@@ -1,5 +1,4 @@
-Peziza carestiae Ces. SPECIES
-=======
+# Peziza carestiae Ces. SPECIES
 
 #### Status
 ACCEPTED

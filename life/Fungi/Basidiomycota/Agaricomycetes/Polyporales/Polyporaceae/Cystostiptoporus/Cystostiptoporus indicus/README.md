@@ -1,5 +1,4 @@
-Cystostiptoporus indicus Dhanda & Ryvarden SPECIES
-=======
+# Cystostiptoporus indicus Dhanda & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

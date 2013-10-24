@@ -1,5 +1,4 @@
-Aspicilia critica (Nyl.) SPECIES
-=======
+# Aspicilia critica (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus rufopruinatus Romagn. SPECIES
-=======
+# Coprinus rufopruinatus Romagn. SPECIES
 
 #### Status
 ACCEPTED

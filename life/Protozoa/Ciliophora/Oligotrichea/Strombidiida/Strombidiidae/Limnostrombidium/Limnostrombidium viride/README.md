@@ -1,8 +1,7 @@
-Strombilidium viride SPECIES
-=======
+# Limnostrombidium viride (Stein, 1867) Krainer, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

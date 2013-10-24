@@ -1,17 +1,16 @@
-Pertusaria laevigata var. discrepans Erichsen VARIETY
-=======
+# Pertusaria trachythallina Erichsen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pertusaria laevigata var. discrepans Erichsen
+Pertusaria trachythallina Erichsen
 
 ### Remarks
 null

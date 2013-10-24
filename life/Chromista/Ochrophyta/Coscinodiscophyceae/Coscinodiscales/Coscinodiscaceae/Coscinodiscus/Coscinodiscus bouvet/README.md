@@ -1,5 +1,4 @@
-Coscinodiscus bouvet Karsten SPECIES
-=======
+# Coscinodiscus bouvet Karsten SPECIES
 
 #### Status
 ACCEPTED

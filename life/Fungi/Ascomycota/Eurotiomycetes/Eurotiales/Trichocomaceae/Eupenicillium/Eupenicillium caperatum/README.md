@@ -1,5 +1,4 @@
-Eupenicillium caperatum Udagawa & Y. Horie SPECIES
-=======
+# Eupenicillium caperatum Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

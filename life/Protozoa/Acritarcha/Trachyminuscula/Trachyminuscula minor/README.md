@@ -1,5 +1,4 @@
-Trachyminuscula minor Pykhova, 1969 SPECIES
-=======
+# Trachyminuscula minor Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

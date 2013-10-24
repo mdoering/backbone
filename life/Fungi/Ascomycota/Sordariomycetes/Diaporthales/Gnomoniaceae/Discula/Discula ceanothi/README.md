@@ -1,5 +1,4 @@
-Discula ceanothi Bubák & Kabát SPECIES
-=======
+# Discula ceanothi Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

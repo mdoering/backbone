@@ -1,17 +1,16 @@
-Agaricus molestus var. molestus VARIETY
-=======
+# Agrocybe molesta (Lasch) Singer, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 30: 197 (1978)
 
 #### Original name
-null
+Agaricus molestus Lasch, 1828
 
 ### Remarks
 null

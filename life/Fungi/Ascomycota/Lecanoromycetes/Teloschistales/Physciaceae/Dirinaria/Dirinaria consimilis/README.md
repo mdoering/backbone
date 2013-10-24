@@ -1,5 +1,4 @@
-Dirinaria consimilis var. consimilis (Stirt.) D.D. Awasthi VARIETY
-=======
+# Dirinaria consimilis (Stirt.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Awasthi & Agarwal, J. Indian bot. Soc. 49: 135 (1970)
 
 #### Original name
-Dirinaria consimilis var. consimilis (Stirt.) D.D. Awasthi
+Physcia consimilis Stirt.
 
 ### Remarks
 null

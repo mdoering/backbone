@@ -1,5 +1,4 @@
-Vulcanisphaera nebulosa Deunff, 1961 SPECIES
-=======
+# Vulcanisphaera nebulosa Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

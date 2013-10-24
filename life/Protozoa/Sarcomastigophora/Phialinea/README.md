@@ -1,5 +1,4 @@
-Phialinea Wynn Jones, 1984 GENUS
-=======
+# Phialinea Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

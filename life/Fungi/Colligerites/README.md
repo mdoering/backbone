@@ -1,5 +1,4 @@
-Colligerites K.P. Jain & R.K. Kar GENUS
-=======
+# Colligerites K.P. Jain & R.K. Kar GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia effusa (Müll. Arg.) R. Sant. SPECIES
-=======
+# Cryptothecia effusa (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

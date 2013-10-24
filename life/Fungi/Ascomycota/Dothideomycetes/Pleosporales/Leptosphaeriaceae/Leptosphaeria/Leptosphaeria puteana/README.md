@@ -1,5 +1,4 @@
-Leptosphaeria puteana Ellis & Kellerm. SPECIES
-=======
+# Leptosphaeria puteana Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora peregrina Durieu & Mont. SPECIES
-=======
+# Rhabdospora peregrina Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

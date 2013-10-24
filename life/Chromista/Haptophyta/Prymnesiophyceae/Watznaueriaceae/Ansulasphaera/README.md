@@ -1,5 +1,4 @@
-Ansulasphaera W. Grün & F. Zweili, 1980 GENUS
-=======
+# Ansulasphaera W. Grün & F. Zweili, 1980 GENUS
 
 #### Status
 ACCEPTED

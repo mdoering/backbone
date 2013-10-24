@@ -1,14 +1,13 @@
-Fusarium equiseti var. compactum (Wollenw.) Joffe, 1973 VARIETY
-=======
+# Fusarium compactum (Wollenw.) Raillo, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. Soil 38(2): 440 (1973)
+Fungi of the Genus Fusarium 180 (1950)
 
 #### Original name
 Fusarium scirpi var. compactum Wollenw., 1930

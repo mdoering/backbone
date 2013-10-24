@@ -1,5 +1,4 @@
-Zignoëlla prorumpens (Rehm) Sacc. SPECIES
-=======
+# Zignoëlla prorumpens (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

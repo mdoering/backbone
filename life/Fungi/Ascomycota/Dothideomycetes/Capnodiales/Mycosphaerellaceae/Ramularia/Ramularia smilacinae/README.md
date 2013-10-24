@@ -1,5 +1,4 @@
-Ramularia smilacinae Davis SPECIES
-=======
+# Ramularia smilacinae Davis SPECIES
 
 #### Status
 ACCEPTED

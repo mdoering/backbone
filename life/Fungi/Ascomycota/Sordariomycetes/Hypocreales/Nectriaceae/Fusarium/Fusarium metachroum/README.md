@@ -1,5 +1,4 @@
-Fusarium metachroum Appel & Wollenw. SPECIES
-=======
+# Fusarium metachroum Appel & Wollenw. SPECIES
 
 #### Status
 ACCEPTED

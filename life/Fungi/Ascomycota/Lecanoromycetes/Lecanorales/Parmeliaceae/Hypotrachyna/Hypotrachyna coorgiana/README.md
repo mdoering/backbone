@@ -1,5 +1,4 @@
-Hypotrachyna coorgiana Patw. & Prabhu SPECIES
-=======
+# Hypotrachyna coorgiana Patw. & Prabhu SPECIES
 
 #### Status
 ACCEPTED

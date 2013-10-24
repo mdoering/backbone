@@ -1,5 +1,4 @@
-Polystomella kawagoii Hara SPECIES
-=======
+# Polystomella kawagoii Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma griseum Cooke & Massee SPECIES
-=======
+# Hebeloma griseum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

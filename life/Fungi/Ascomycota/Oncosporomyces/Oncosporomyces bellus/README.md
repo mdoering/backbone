@@ -1,5 +1,4 @@
-Oncosporomyces bellus Bat. & H. Maia SPECIES
-=======
+# Oncosporomyces bellus Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

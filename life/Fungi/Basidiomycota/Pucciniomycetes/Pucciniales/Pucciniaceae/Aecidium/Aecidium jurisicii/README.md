@@ -1,5 +1,4 @@
-Aecidium jurisicii Bubák SPECIES
-=======
+# Aecidium jurisicii Bubák SPECIES
 
 #### Status
 ACCEPTED

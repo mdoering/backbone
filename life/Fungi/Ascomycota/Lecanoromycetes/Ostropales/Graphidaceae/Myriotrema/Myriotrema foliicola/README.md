@@ -1,5 +1,4 @@
-Myriotrema foliicola (Hale) Hale SPECIES
-=======
+# Myriotrema foliicola (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

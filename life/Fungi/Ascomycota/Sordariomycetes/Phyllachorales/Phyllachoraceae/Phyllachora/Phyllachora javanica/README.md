@@ -1,14 +1,13 @@
-Laestadia javanica (Koord.) Sacc. & Traverso, 1910 SPECIES
-=======
+# Phyllachora javanica (Koord.) Petr., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 19: 1045 (1910)
+Annls mycol. 29: 394 (1931)
 
 #### Original name
 Guignardia javanica Koord., 1907

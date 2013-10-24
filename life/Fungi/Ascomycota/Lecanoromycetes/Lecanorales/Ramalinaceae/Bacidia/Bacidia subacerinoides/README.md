@@ -1,5 +1,4 @@
-Bacidia subacerinoides Zahlbr. SPECIES
-=======
+# Bacidia subacerinoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

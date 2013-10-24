@@ -1,5 +1,4 @@
-Cercoseptoria lappulae Dearn. & Bisby SPECIES
-=======
+# Cercoseptoria lappulae Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

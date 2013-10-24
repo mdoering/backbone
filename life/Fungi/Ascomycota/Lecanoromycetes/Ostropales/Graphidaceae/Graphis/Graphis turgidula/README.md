@@ -1,5 +1,4 @@
-Graphis turgidula var. turgidula VARIETY
-=======
+# Graphis turgidula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 30: 457 (1895)
 
 #### Original name
-Graphis turgidula var. turgidula
+Graphis turgidula Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ustilago alopecurivora (Ule) Liro SPECIES
-=======
+# Ustilago alopecurivora (Ule) Liro SPECIES
 
 #### Status
 ACCEPTED

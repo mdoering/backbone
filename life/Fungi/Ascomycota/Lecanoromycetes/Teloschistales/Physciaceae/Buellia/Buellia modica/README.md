@@ -1,5 +1,4 @@
-Buellia modica (Nyl.) Mig. SPECIES
-=======
+# Buellia modica (Nyl.) Mig. SPECIES
 
 #### Status
 ACCEPTED

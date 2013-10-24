@@ -1,5 +1,4 @@
-Cladosporium heteronemum (Desm.) Oudem. SPECIES
-=======
+# Cladosporium heteronemum (Desm.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

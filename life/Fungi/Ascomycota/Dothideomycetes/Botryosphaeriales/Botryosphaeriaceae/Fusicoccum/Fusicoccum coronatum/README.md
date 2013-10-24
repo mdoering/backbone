@@ -1,5 +1,4 @@
-Fusicoccum coronatum var. salicinum P. Karst. VARIETY
-=======
+# Fusicoccum coronatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusicoccum coronatum var. salicinum P. Karst.
+Fusicoccum coronatum P. Karst.
 
 ### Remarks
 null

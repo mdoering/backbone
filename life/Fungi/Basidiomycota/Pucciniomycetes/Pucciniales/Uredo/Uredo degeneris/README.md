@@ -1,14 +1,13 @@
-Uredo degener (Mains & Holw.) Arthur SPECIES
-=======
+# Uredo degeneris (Mains & Holw.) Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7(9): 616 (1924)
 
 #### Original name
 Puccinia degeneris Mains & Holw.

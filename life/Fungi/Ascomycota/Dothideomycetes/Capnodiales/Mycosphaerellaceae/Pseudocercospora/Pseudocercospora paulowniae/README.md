@@ -1,5 +1,4 @@
-Pseudocercospora paulowniae (Hori) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora paulowniae (Hori) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema craterellum Nagarkar & Hale SPECIES
-=======
+# Myriotrema craterellum Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

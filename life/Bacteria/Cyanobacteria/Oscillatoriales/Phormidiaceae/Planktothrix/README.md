@@ -1,5 +1,4 @@
-Planktothrix Anagnostidis & Komárek, 1988 GENUS
-=======
+# Planktothrix Anagnostidis & Komárek, 1988 GENUS
 
 #### Status
 ACCEPTED

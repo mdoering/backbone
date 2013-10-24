@@ -1,5 +1,4 @@
-Stomiopeltis citri var. citri VARIETY
-=======
+# Stomiopeltis citri Bitanc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Archos Inst. biol. , S Paulo 5: 261 (1934)
 
 #### Original name
-Stomiopeltis citri var. citri
+Stomiopeltis citri Bitanc.
 
 ### Remarks
 null

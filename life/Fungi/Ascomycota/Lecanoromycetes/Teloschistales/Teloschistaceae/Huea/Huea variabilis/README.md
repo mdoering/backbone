@@ -1,5 +1,4 @@
-Huea variabilis (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Huea variabilis (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

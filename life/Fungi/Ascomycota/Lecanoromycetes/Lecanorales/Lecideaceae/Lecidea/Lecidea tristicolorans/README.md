@@ -1,5 +1,4 @@
-Lecidea tristicolorans Vain. SPECIES
-=======
+# Lecidea tristicolorans Vain. SPECIES
 
 #### Status
 ACCEPTED

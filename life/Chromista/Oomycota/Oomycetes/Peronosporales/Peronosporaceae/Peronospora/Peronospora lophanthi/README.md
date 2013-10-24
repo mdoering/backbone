@@ -1,5 +1,4 @@
-Peronospora lophanthi Farl. SPECIES
-=======
+# Peronospora lophanthi Farl. SPECIES
 
 #### Status
 ACCEPTED

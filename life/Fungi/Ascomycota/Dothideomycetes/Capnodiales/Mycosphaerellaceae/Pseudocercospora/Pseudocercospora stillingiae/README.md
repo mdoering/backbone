@@ -1,5 +1,4 @@
-Pseudocercospora stillingiae (Ellis & Everh.) J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora stillingiae (Ellis & Everh.) J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium maderense Petr. SPECIES
-=======
+# Coniothyrium maderense Petr. SPECIES
 
 #### Status
 ACCEPTED

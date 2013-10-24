@@ -1,5 +1,4 @@
-Pholiota aggregata Beeli SPECIES
-=======
+# Pholiota aggregata Beeli SPECIES
 
 #### Status
 ACCEPTED

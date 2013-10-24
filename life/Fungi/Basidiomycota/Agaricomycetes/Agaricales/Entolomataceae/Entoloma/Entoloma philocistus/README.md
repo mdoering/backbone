@@ -1,5 +1,4 @@
-Entoloma philocistus Hauskn. & Noordel. SPECIES
-=======
+# Entoloma philocistus Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

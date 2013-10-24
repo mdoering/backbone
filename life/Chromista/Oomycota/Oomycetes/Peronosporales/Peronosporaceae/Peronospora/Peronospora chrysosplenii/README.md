@@ -1,5 +1,4 @@
-Peronospora chrysosplenii Fuckel, 1870 SPECIES
-=======
+# Peronospora chrysosplenii Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

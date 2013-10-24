@@ -1,5 +1,4 @@
-Acetomicrobium flavidum Soutschek et al., 1985 SPECIES
-=======
+# Acetomicrobium flavidum Soutschek et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

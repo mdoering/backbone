@@ -1,5 +1,4 @@
-Eutypella gleditschiae Berl. SPECIES
-=======
+# Eutypella gleditschiae Berl. SPECIES
 
 #### Status
 ACCEPTED

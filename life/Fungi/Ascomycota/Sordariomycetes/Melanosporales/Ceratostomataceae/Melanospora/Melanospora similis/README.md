@@ -1,5 +1,4 @@
-Melanospora similis Höhn. SPECIES
-=======
+# Melanospora similis Höhn. SPECIES
 
 #### Status
 ACCEPTED

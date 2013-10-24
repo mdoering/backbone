@@ -1,5 +1,4 @@
-Stigmatomyces pedunculatus T. Majewski SPECIES
-=======
+# Stigmatomyces pedunculatus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

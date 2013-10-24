@@ -1,17 +1,16 @@
-Hysterostomina Theiss. & Syd. GENUS
-=======
+# Hysterostomella Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 228 (1915)
+Anal. Soc. cient. argent. 19(6): 260 (1885)
 
 #### Original name
-Hysterostomina Theiss. & Syd.
+Hysterostomella Speg.
 
 ### Remarks
 null

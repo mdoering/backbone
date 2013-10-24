@@ -1,5 +1,4 @@
-Sphaeria eximia Peck SPECIES
-=======
+# Sphaeria eximia Peck SPECIES
 
 #### Status
 ACCEPTED

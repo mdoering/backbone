@@ -1,5 +1,4 @@
-Parapeltella GENUS
-=======
+# Parapeltella GENUS
 
 #### Status
 ACCEPTED

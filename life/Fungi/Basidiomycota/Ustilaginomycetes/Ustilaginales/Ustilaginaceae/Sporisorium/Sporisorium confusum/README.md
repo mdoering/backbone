@@ -1,5 +1,4 @@
-Sporisorium confusum (H.S. Jacks.) Vánky SPECIES
-=======
+# Sporisorium confusum (H.S. Jacks.) Vánky SPECIES
 
 #### Status
 ACCEPTED

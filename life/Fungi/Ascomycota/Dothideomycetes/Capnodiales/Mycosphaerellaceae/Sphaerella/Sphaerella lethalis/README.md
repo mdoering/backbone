@@ -1,5 +1,4 @@
-Sphaerella lethalis (R. Stone) Sacc. SPECIES
-=======
+# Sphaerella lethalis (R. Stone) Sacc. SPECIES
 
 #### Status
 ACCEPTED

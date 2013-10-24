@@ -1,5 +1,4 @@
-Puccinia mesomorpha Syd. & P. Syd. SPECIES
-=======
+# Puccinia mesomorpha Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

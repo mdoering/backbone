@@ -1,5 +1,4 @@
-Amphitrichum trichinum (Pers.) Kuntze SPECIES
-=======
+# Amphitrichum trichinum (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

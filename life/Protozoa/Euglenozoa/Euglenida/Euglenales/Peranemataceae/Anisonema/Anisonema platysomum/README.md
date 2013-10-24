@@ -1,5 +1,4 @@
-Anisonema platysomum Skuja SPECIES
-=======
+# Anisonema platysomum Skuja SPECIES
 
 #### Status
 ACCEPTED

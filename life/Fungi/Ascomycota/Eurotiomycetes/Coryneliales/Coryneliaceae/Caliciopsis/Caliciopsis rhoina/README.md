@@ -1,5 +1,4 @@
-Caliciopsis rhoina Rikkinen SPECIES
-=======
+# Caliciopsis rhoina Rikkinen SPECIES
 
 #### Status
 ACCEPTED

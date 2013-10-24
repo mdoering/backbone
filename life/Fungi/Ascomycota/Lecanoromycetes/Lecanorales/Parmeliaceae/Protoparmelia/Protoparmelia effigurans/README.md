@@ -1,5 +1,4 @@
-Protoparmelia effigurans Grube & Poelt SPECIES
-=======
+# Protoparmelia effigurans Grube & Poelt SPECIES
 
 #### Status
 ACCEPTED

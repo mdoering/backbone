@@ -1,5 +1,4 @@
-Septoria kok-saghyz Tscheremissova {?} SPECIES
-=======
+# Septoria kok-saghyz Tscheremissova {?} SPECIES
 
 #### Status
 ACCEPTED

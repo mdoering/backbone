@@ -1,5 +1,4 @@
-Thrombium cretaceum Walt. Watson SPECIES
-=======
+# Thrombium cretaceum Walt. Watson SPECIES
 
 #### Status
 ACCEPTED

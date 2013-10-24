@@ -1,5 +1,4 @@
-Pyxidiophora cuniculicola R. Kirschner SPECIES
-=======
+# Pyxidiophora cuniculicola R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

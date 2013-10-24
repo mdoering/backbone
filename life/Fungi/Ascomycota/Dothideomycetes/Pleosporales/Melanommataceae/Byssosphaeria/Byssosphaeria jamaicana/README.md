@@ -1,5 +1,4 @@
-Byssosphaeria jamaicana (Sivan.) M.E. Barr SPECIES
-=======
+# Byssosphaeria jamaicana (Sivan.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

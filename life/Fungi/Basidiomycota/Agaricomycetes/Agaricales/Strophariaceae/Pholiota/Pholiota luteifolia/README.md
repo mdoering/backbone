@@ -1,5 +1,4 @@
-Pholiota luteifolia Peck SPECIES
-=======
+# Pholiota luteifolia Peck SPECIES
 
 #### Status
 ACCEPTED

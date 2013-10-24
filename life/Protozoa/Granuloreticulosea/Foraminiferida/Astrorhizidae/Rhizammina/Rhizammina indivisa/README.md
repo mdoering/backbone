@@ -1,5 +1,4 @@
-Rhizammina indivisa SPECIES
-=======
+# Rhizammina indivisa SPECIES
 
 #### Status
 ACCEPTED

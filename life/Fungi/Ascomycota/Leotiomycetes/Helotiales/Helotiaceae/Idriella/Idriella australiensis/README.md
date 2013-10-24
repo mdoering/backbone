@@ -1,5 +1,4 @@
-Idriella australiensis B. Sutton, Piroz. & Deighton, 1972 SPECIES
-=======
+# Idriella australiensis B. Sutton, Piroz. & Deighton, 1972 SPECIES
 
 #### Status
 ACCEPTED

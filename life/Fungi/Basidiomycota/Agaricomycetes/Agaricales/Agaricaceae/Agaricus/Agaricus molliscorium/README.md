@@ -1,5 +1,4 @@
-Agaricus molliscorium Cooke & Massee SPECIES
-=======
+# Agaricus molliscorium Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

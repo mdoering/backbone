@@ -1,5 +1,4 @@
-Peziza ascoboloidea Schwein. SPECIES
-=======
+# Peziza ascoboloidea Schwein. SPECIES
 
 #### Status
 ACCEPTED

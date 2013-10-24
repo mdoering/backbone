@@ -1,5 +1,4 @@
-Adella olympica Petr. SPECIES
-=======
+# Adella olympica Petr. SPECIES
 
 #### Status
 ACCEPTED

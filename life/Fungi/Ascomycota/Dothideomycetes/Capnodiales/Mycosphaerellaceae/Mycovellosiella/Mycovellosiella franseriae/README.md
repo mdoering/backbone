@@ -1,5 +1,4 @@
-Mycovellosiella franseriae Deighton SPECIES
-=======
+# Mycovellosiella franseriae Deighton SPECIES
 
 #### Status
 ACCEPTED

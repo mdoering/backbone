@@ -1,5 +1,4 @@
-Omphalospora silenes (Niessl) Höhn. SPECIES
-=======
+# Omphalospora silenes (Niessl) Höhn. SPECIES
 
 #### Status
 ACCEPTED

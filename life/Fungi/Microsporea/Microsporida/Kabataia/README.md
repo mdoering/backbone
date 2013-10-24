@@ -1,5 +1,4 @@
-Kabataia J. Lom, I. Dyková & K. Tonguthai, 1999 GENUS
-=======
+# Kabataia J. Lom, I. Dyková & K. Tonguthai, 1999 GENUS
 
 #### Status
 ACCEPTED

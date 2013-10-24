@@ -1,5 +1,4 @@
-Lecidea pseudoconfluens Hertel SPECIES
-=======
+# Lecidea pseudoconfluens Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocystis abietina Marm. & Butin SPECIES
-=======
+# Ceratocystis abietina Marm. & Butin SPECIES
 
 #### Status
 ACCEPTED

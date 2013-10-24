@@ -1,5 +1,4 @@
-Trametes violacea Lloyd, 1915 SPECIES
-=======
+# Trametes violacea Lloyd, 1915 SPECIES
 
 #### Status
 ACCEPTED

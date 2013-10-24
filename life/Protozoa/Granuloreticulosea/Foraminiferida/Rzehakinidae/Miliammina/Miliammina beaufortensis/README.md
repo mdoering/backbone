@@ -1,5 +1,4 @@
-Miliammina beaufortensis Akers, 1971 SPECIES
-=======
+# Miliammina beaufortensis Akers, 1971 SPECIES
 
 #### Status
 ACCEPTED

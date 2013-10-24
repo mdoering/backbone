@@ -1,5 +1,4 @@
-Sporotrichum laxum Nees, 1816 SPECIES
-=======
+# Sporotrichum laxum Nees, 1816 SPECIES
 
 #### Status
 ACCEPTED

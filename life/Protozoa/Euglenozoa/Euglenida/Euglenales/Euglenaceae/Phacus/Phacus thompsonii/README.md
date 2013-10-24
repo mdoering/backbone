@@ -1,8 +1,7 @@
-Phacus inflata Thompson SPECIES
-=======
+# Phacus thompsonii Huber-PeStalozzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

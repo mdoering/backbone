@@ -1,5 +1,4 @@
-Uromyces tepicensis J.F. Hennen & Cummins SPECIES
-=======
+# Uromyces tepicensis J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

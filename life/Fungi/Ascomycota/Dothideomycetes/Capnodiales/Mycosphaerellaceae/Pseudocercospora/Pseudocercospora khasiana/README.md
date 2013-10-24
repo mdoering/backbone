@@ -1,5 +1,4 @@
-Pseudocercospora khasiana B.K. Gupta & Kamal SPECIES
-=======
+# Pseudocercospora khasiana B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

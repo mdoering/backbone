@@ -1,5 +1,4 @@
-Flammula duroides (Peck) Singer SPECIES
-=======
+# Flammula duroides (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pseudopeckii Fatto SPECIES
-=======
+# Russula pseudopeckii Fatto SPECIES
 
 #### Status
 ACCEPTED

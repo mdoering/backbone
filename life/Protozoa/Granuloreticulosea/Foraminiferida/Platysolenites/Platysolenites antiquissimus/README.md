@@ -1,5 +1,4 @@
-Platysolenites antiquissimus SPECIES
-=======
+# Platysolenites antiquissimus SPECIES
 
 #### Status
 ACCEPTED

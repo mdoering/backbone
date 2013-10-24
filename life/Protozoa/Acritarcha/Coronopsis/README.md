@@ -1,5 +1,4 @@
-Coronopsis O. Wetzel, 1961 GENUS
-=======
+# Coronopsis O. Wetzel, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta anserinae Tehon SPECIES
-=======
+# Phyllosticta anserinae Tehon SPECIES
 
 #### Status
 ACCEPTED

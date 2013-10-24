@@ -1,5 +1,4 @@
-Panus solomonensis Corner SPECIES
-=======
+# Panus solomonensis Corner SPECIES
 
 #### Status
 ACCEPTED

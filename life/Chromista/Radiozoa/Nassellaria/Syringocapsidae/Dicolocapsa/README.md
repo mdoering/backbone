@@ -1,5 +1,4 @@
-Dicolocapsa Haeckel, 1881 GENUS
-=======
+# Dicolocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

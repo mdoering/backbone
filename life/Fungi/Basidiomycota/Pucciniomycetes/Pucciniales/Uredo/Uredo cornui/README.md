@@ -1,5 +1,4 @@
-Uredo cornui Har. SPECIES
-=======
+# Uredo cornui Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nigeriensis C.W. Dodge SPECIES
-=======
+# Lecidea nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

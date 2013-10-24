@@ -1,5 +1,4 @@
-Acanthothecis silicicola (Redinger) Staiger & Kalb SPECIES
-=======
+# Acanthothecis silicicola (Redinger) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

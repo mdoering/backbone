@@ -1,5 +1,4 @@
-Idriella mycogonoidea Matsush. SPECIES
-=======
+# Idriella mycogonoidea Matsush. SPECIES
 
 #### Status
 ACCEPTED

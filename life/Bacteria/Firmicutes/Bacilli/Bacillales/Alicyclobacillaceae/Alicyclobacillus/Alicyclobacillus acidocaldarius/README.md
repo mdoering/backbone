@@ -1,5 +1,4 @@
-Alicyclobacillus acidocaldarius subsp. acidocaldarius (Darland & Brock, 1971) Wisotzkey et al., 1992 SUBSPECIES
-=======
+# Alicyclobacillus acidocaldarius (Darland & Brock, 1971) Wisotzkey et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

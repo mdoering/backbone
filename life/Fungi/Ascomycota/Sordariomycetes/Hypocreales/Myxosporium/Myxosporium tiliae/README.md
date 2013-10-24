@@ -1,5 +1,4 @@
-Myxosporium tiliae Dearn. SPECIES
-=======
+# Myxosporium tiliae Dearn. SPECIES
 
 #### Status
 ACCEPTED

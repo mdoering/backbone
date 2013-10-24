@@ -1,5 +1,4 @@
-Gorgoniceps kirschsteinii Jaap SPECIES
-=======
+# Gorgoniceps kirschsteinii Jaap SPECIES
 
 #### Status
 ACCEPTED

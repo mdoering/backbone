@@ -1,5 +1,4 @@
-Euglenopsis rhynchota Christen SPECIES
-=======
+# Euglenopsis rhynchota Christen SPECIES
 
 #### Status
 ACCEPTED

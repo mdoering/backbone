@@ -1,5 +1,4 @@
-Chlorogloea sinensis Chu SPECIES
-=======
+# Chlorogloea sinensis Chu SPECIES
 
 #### Status
 ACCEPTED

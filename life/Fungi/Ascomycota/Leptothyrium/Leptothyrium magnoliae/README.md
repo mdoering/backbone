@@ -1,5 +1,4 @@
-Leptothyrium magnoliae Sacc. SPECIES
-=======
+# Leptothyrium magnoliae Sacc. SPECIES
 
 #### Status
 ACCEPTED

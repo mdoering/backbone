@@ -1,5 +1,4 @@
-Crenalithus taganus (B. Fonseca) D. Bukry SPECIES
-=======
+# Crenalithus taganus (B. Fonseca) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

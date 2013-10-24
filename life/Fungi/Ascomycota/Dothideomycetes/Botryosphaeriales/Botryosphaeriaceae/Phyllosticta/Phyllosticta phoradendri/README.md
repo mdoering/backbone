@@ -1,5 +1,4 @@
-Phyllosticta phoradendri Bonar SPECIES
-=======
+# Phyllosticta phoradendri Bonar SPECIES
 
 #### Status
 ACCEPTED

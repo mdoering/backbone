@@ -1,5 +1,4 @@
-Cercospora coreopsidis W.W. Ray SPECIES
-=======
+# Cercospora coreopsidis W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

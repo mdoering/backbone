@@ -1,14 +1,13 @@
-Ustilago rhei (Zundel) Vánky & Oberw., 1994 SPECIES
-=======
+# Microbotryum rhei (Zundel) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 107: 72 (1994)
+Mycotaxon 67: 49 (1998)
 
 #### Original name
 Tilletia rhei Zundel, 1944

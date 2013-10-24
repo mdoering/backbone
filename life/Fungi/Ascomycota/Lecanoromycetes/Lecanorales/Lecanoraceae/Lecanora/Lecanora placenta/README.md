@@ -1,5 +1,4 @@
-Lecanora placenta Ehrenb. SPECIES
-=======
+# Lecanora placenta Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

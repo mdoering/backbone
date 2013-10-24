@@ -1,5 +1,4 @@
-Lecanora reuteri (Trevis.) Schaer. SPECIES
-=======
+# Lecanora reuteri (Trevis.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

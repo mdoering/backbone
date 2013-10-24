@@ -1,5 +1,4 @@
-Epiclinium atrum Bonord. SPECIES
-=======
+# Epiclinium atrum Bonord. SPECIES
 
 #### Status
 ACCEPTED

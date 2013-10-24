@@ -1,5 +1,4 @@
-Xerocomus sinensis T.H. Li & M. Zang SPECIES
-=======
+# Xerocomus sinensis T.H. Li & M. Zang SPECIES
 
 #### Status
 ACCEPTED

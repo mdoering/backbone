@@ -1,14 +1,13 @@
-Ephemeroascus verticillatus Emden, 1973 SPECIES
-=======
+# Coniochaeta verticillata (Emden) Dania García, Stchigel & Guarro, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 61(3): 601 (1973)
+in García, Stchigel, Cano, Calduch, Hawksworth & Guarro, Mycol. Res. 110(11): 1284 (2006)
 
 #### Original name
 Ephemeroascus verticillatus Emden, 1973

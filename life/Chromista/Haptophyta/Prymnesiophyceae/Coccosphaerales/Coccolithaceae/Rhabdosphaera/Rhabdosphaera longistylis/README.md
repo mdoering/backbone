@@ -1,5 +1,4 @@
-Rhabdosphaera longistylis J. Schiller SPECIES
-=======
+# Rhabdosphaera longistylis J. Schiller SPECIES
 
 #### Status
 ACCEPTED

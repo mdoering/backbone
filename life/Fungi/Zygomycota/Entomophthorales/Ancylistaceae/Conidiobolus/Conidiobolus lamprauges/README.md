@@ -1,5 +1,4 @@
-Conidiobolus lamprauges Drechsler, 1953 SPECIES
-=======
+# Conidiobolus lamprauges Drechsler, 1953 SPECIES
 
 #### Status
 ACCEPTED

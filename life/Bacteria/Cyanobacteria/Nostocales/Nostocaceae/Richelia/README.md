@@ -1,5 +1,4 @@
-Richelia J.Schmidt, 1901 GENUS
-=======
+# Richelia J.Schmidt, 1901 GENUS
 
 #### Status
 ACCEPTED

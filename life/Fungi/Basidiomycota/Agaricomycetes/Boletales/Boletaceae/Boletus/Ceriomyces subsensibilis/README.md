@@ -1,5 +1,4 @@
-Ceriomyces subsensibilis Murrill SPECIES
-=======
+# Ceriomyces subsensibilis Murrill SPECIES
 
 #### Status
 ACCEPTED

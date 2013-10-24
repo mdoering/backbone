@@ -1,5 +1,4 @@
-Poricalyptra magnaghii (A. M. Borsetti & F. Cati) A. Kleijne SPECIES
-=======
+# Poricalyptra magnaghii (A. M. Borsetti & F. Cati) A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

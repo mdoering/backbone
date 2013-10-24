@@ -1,8 +1,7 @@
-Histobalantium natans (Claparède & Lachmann, 1859) ?, ? SPECIES
-=======
+# Histiobalantium natans Claparède & Lachmann, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

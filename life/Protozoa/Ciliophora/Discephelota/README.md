@@ -1,5 +1,4 @@
-Discephelota Jankowski, 1981 GENUS
-=======
+# Discephelota Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

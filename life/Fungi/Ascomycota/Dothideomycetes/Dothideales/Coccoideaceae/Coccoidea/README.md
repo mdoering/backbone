@@ -1,17 +1,16 @@
-Apiodothina Petr. & Cif. GENUS
-=======
+# Coccoidea Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 30(3/4): 153 (1932)
+Bot. Jb. 28: 275 (1900)
 
 #### Original name
-Apiodothina Petr. & Cif.
+Coccoidea Henn.
 
 ### Remarks
 null

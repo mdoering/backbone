@@ -1,5 +1,4 @@
-Cryptosporium cydoniae var. cydoniae VARIETY
-=======
+# Cryptosporium cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cryptosporium cydoniae var. cydoniae
+Cryptosporium cydoniae Schulzer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeoisariopsis lygodii M.K. Khan & Kamal SPECIES
-=======
+# Phaeoisariopsis lygodii M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

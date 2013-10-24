@@ -1,5 +1,4 @@
-Methylocaldum szegediense Bodrossy et al., 1998 SPECIES
-=======
+# Methylocaldum szegediense Bodrossy et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiochaete H.Welsh, 1961 GENUS
-=======
+# Thiochaete H.Welsh, 1961 GENUS
 
 #### Status
 ACCEPTED

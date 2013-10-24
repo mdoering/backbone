@@ -1,14 +1,13 @@
-Cryptoderma mcgregorii (Bres.) Imazeki SPECIES
-=======
+# Phellinus macgregorii (Bres.) Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 33: 315 (1988)
 
 #### Original name
 Fomes macgregorii Bres., 1912

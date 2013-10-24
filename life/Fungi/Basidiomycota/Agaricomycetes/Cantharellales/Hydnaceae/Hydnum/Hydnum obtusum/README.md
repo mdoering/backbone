@@ -1,5 +1,4 @@
-Hydnum obtusum Schleich. SPECIES
-=======
+# Hydnum obtusum Schleich. SPECIES
 
 #### Status
 ACCEPTED

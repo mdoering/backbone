@@ -1,5 +1,4 @@
-Puccinia gilgiana Henn. SPECIES
-=======
+# Puccinia gilgiana Henn. SPECIES
 
 #### Status
 ACCEPTED

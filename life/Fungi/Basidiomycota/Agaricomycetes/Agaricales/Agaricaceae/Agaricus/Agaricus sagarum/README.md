@@ -1,5 +1,4 @@
-Agaricus sagarum Pers. SPECIES
-=======
+# Agaricus sagarum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon broomeianum Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon broomeanum Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 31): 94 (1876)
 
 #### Original name
-Hypoxylon broomeianum Berk. & M.A. Curtis
+Hypoxylon broomeanum Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceratobasidium albasitensis V. González & V. Rubio, 2002 SPECIES
-=======
+# Ceratobasidium albasitensis V. González & V. Rubio, 2002 SPECIES
 
 #### Status
 ACCEPTED

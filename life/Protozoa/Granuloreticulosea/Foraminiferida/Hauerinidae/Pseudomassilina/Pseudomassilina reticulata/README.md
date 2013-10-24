@@ -1,8 +1,7 @@
-Massilina reticulata (Heron-Allen & Earland, 1915) SPECIES
-=======
+# Pseudomassilina reticulata (Heron-Allen & Earland, 1915) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

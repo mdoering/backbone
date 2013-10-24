@@ -1,5 +1,4 @@
-Lecidea effigurata (Anzi) SPECIES
-=======
+# Lecidea effigurata (Anzi) SPECIES
 
 #### Status
 ACCEPTED

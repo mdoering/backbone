@@ -1,8 +1,7 @@
-Pseudochlamys patella Claparède & Lachmann, 1859 SPECIES
-=======
+# Microchlamys patella (Claparède & Lachmann, 1859) Cockerell, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

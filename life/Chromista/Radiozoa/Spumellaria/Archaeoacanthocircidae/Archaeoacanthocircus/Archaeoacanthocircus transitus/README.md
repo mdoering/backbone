@@ -1,5 +1,4 @@
-Archaeoacanthocircus transitus SPECIES
-=======
+# Archaeoacanthocircus transitus SPECIES
 
 #### Status
 ACCEPTED

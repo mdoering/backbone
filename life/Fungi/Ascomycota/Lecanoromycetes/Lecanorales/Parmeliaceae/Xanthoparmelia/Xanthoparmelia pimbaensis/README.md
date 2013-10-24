@@ -1,5 +1,4 @@
-Xanthoparmelia pimbaensis Elix SPECIES
-=======
+# Xanthoparmelia pimbaensis Elix SPECIES
 
 #### Status
 ACCEPTED

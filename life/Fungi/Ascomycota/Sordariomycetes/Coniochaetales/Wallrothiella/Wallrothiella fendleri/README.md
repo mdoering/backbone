@@ -1,5 +1,4 @@
-Wallrothiella fendleri Berk. & M.A. Curtis SPECIES
-=======
+# Wallrothiella fendleri Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Insolitispirillum Yoon, Kang, Park, Lee & Oh, 2007 GENUS
-=======
+# Insolitispirillum Yoon, Kang, Park, Lee & Oh, 2007 GENUS
 
 #### Status
 ACCEPTED

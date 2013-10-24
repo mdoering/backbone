@@ -1,5 +1,4 @@
-Multiplicisphaeridium verticisum Le Hérissé, 2002 SPECIES
-=======
+# Multiplicisphaeridium verticisum Le Hérissé, 2002 SPECIES
 
 #### Status
 ACCEPTED

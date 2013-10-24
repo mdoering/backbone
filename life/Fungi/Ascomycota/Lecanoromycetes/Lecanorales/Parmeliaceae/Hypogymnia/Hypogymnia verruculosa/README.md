@@ -1,5 +1,4 @@
-Hypogymnia verruculosa Goward SPECIES
-=======
+# Hypogymnia verruculosa Goward SPECIES
 
 #### Status
 ACCEPTED

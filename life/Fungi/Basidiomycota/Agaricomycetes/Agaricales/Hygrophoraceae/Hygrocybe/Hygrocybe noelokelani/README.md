@@ -1,5 +1,4 @@
-Hygrocybe noelokelani Desjardin & Hemmes SPECIES
-=======
+# Hygrocybe noelokelani Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

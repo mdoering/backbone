@@ -1,5 +1,4 @@
-Gyrophora dillenii (Tuck.) Müll. Arg. SPECIES
-=======
+# Gyrophora dillenii (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

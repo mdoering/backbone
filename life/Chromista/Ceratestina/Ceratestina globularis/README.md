@@ -1,5 +1,4 @@
-Ceratestina globularis Carter, 1880 SPECIES
-=======
+# Ceratestina globularis Carter, 1880 SPECIES
 
 #### Status
 ACCEPTED

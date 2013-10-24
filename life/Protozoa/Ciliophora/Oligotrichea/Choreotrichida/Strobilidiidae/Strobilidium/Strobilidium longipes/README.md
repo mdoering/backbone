@@ -1,5 +1,4 @@
-Strobilidium longipes Meunier, 1907 SPECIES
-=======
+# Strobilidium longipes Meunier, 1907 SPECIES
 
 #### Status
 ACCEPTED

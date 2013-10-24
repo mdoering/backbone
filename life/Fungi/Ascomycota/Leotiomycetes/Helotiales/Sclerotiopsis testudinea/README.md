@@ -1,5 +1,4 @@
-Sclerotiopsis testudinea Dearn. SPECIES
-=======
+# Sclerotiopsis testudinea Dearn. SPECIES
 
 #### Status
 ACCEPTED

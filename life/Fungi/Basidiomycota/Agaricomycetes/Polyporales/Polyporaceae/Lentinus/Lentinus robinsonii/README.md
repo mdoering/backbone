@@ -1,5 +1,4 @@
-Lentinus robinsonii Mont. SPECIES
-=======
+# Lentinus robinsonii Mont. SPECIES
 
 #### Status
 ACCEPTED

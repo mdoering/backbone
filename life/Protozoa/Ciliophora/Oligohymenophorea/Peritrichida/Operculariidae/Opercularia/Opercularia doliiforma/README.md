@@ -1,5 +1,4 @@
-Opercularia doliiforma SPECIES
-=======
+# Opercularia doliiforma SPECIES
 
 #### Status
 ACCEPTED

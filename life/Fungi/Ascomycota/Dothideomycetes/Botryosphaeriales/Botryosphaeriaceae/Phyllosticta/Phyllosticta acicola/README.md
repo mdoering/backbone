@@ -1,5 +1,4 @@
-Phyllosticta acicola Bissett & M.E. Palm, 1989 SPECIES
-=======
+# Phyllosticta acicola Bissett & M.E. Palm, 1989 SPECIES
 
 #### Status
 ACCEPTED

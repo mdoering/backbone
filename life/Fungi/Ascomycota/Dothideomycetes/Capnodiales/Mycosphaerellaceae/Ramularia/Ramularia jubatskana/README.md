@@ -1,5 +1,4 @@
-Ramularia jubatskana (Sacc.) U. Braun SPECIES
-=======
+# Ramularia jubatskana (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

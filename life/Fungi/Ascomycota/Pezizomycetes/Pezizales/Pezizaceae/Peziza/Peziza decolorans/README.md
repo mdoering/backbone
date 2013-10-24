@@ -1,5 +1,4 @@
-Peziza decolorans Wallr. SPECIES
-=======
+# Peziza decolorans Wallr. SPECIES
 
 #### Status
 ACCEPTED

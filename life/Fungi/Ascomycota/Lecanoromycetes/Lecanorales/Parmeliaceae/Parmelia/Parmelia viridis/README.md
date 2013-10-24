@@ -1,5 +1,4 @@
-Parmelia viridis Mont. SPECIES
-=======
+# Parmelia viridis Mont. SPECIES
 
 #### Status
 ACCEPTED

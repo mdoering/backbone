@@ -1,5 +1,4 @@
-Graphina brachyspora Müll. Arg. SPECIES
-=======
+# Graphina brachyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

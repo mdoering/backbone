@@ -1,5 +1,4 @@
-Dientamoeba Jepps & Dobell GENUS
-=======
+# Dientamoeba Jepps & Dobell GENUS
 
 #### Status
 ACCEPTED

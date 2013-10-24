@@ -1,5 +1,4 @@
-Aecidium verbasci Opiz SPECIES
-=======
+# Aecidium verbasci Opiz SPECIES
 
 #### Status
 ACCEPTED

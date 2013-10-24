@@ -1,5 +1,4 @@
-Rhinotrichum stellatum G. Arnaud SPECIES
-=======
+# Rhinotrichum stellatum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

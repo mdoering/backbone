@@ -1,5 +1,4 @@
-Calycina nemorosa (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Calycina nemorosa (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

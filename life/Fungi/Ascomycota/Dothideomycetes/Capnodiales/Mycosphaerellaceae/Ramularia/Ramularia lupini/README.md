@@ -1,5 +1,4 @@
-Ramularia lupini Davis SPECIES
-=======
+# Ramularia lupini Davis SPECIES
 
 #### Status
 ACCEPTED

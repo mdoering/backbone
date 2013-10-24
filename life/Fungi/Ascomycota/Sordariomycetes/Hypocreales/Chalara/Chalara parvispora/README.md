@@ -1,5 +1,4 @@
-Chalara parvispora Nag Raj & S. Hughes, 1974 SPECIES
-=======
+# Chalara parvispora Nag Raj & S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

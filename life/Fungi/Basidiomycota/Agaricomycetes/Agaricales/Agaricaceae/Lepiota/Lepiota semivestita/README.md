@@ -1,5 +1,4 @@
-Lepiota semivestita Massee SPECIES
-=======
+# Lepiota semivestita Massee SPECIES
 
 #### Status
 ACCEPTED

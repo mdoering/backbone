@@ -1,5 +1,4 @@
-Zeiraphera pseudotsugana Npv SPECIES
-=======
+# Zeiraphera pseudotsugana Npv SPECIES
 
 #### Status
 ACCEPTED

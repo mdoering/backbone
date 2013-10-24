@@ -1,5 +1,4 @@
-Lentinus plumatus (Walter) Fr. SPECIES
-=======
+# Lentinus plumatus (Walter) Fr. SPECIES
 
 #### Status
 ACCEPTED

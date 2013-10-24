@@ -1,5 +1,4 @@
-Aecidium bomareae Mayor SPECIES
-=======
+# Aecidium bomareae Mayor SPECIES
 
 #### Status
 ACCEPTED

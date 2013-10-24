@@ -1,5 +1,4 @@
-Sporodinia carnea (Ehrenb.) Wallr. SPECIES
-=======
+# Sporodinia carnea (Ehrenb.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

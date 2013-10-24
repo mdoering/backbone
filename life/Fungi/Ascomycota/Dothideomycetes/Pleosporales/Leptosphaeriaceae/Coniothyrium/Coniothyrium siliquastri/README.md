@@ -1,5 +1,4 @@
-Coniothyrium siliquastri Brunaud SPECIES
-=======
+# Coniothyrium siliquastri Brunaud SPECIES
 
 #### Status
 ACCEPTED

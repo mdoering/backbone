@@ -1,5 +1,4 @@
-Periconia tirupatiensis Subram. SPECIES
-=======
+# Periconia tirupatiensis Subram. SPECIES
 
 #### Status
 ACCEPTED

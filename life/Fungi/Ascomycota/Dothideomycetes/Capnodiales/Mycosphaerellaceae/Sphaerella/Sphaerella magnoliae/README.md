@@ -1,5 +1,4 @@
-Sphaerella magnoliae Schwein. SPECIES
-=======
+# Sphaerella magnoliae Schwein. SPECIES
 
 #### Status
 ACCEPTED

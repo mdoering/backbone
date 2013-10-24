@@ -1,5 +1,4 @@
-Polyporus parilis Fr. SPECIES
-=======
+# Polyporus parilis Fr. SPECIES
 
 #### Status
 ACCEPTED

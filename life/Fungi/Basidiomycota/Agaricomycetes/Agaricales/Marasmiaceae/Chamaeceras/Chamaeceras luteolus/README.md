@@ -1,5 +1,4 @@
-Chamaeceras luteolus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras luteolus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

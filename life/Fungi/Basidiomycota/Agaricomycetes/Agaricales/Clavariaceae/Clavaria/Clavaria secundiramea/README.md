@@ -1,5 +1,4 @@
-Clavaria secundiramea Lév. SPECIES
-=======
+# Clavaria secundiramea Lév. SPECIES
 
 #### Status
 ACCEPTED

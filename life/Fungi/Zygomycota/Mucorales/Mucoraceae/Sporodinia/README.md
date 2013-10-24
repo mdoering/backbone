@@ -1,5 +1,4 @@
-Sporodinia GENUS
-=======
+# Sporodinia GENUS
 
 #### Status
 ACCEPTED

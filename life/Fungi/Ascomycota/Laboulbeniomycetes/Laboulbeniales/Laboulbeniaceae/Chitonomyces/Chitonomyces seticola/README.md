@@ -1,5 +1,4 @@
-Chitonomyces seticola Thaxt. SPECIES
-=======
+# Chitonomyces seticola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

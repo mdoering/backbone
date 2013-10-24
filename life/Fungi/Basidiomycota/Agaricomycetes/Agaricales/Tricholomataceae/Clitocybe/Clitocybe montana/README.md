@@ -1,5 +1,4 @@
-Clitocybe montana Harmaja SPECIES
-=======
+# Clitocybe montana Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nomuraea cylindrospora (Q. T. Chen & H. L. Guo) Tzean, L. S. Hsieh, J. L. Chen & W. J. u SPECIES
-=======
+# Nomuraea cylindrospora (Q. T. Chen & H. L. Guo) Tzean, L. S. Hsieh, J. L. Chen & W. J. u SPECIES
 
 #### Status
 ACCEPTED

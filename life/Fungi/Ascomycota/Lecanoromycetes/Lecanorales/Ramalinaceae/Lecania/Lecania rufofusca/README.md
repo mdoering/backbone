@@ -1,5 +1,4 @@
-Lecania rufofusca H. Magn. SPECIES
-=======
+# Lecania rufofusca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

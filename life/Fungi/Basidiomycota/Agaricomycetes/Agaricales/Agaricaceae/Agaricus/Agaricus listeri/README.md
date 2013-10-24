@@ -1,5 +1,4 @@
-Agaricus listeri Krombh. SPECIES
-=======
+# Agaricus listeri Krombh. SPECIES
 
 #### Status
 ACCEPTED

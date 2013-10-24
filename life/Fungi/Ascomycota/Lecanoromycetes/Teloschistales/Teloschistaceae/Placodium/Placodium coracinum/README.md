@@ -1,5 +1,4 @@
-Placodium coracinum Vain. SPECIES
-=======
+# Placodium coracinum Vain. SPECIES
 
 #### Status
 ACCEPTED

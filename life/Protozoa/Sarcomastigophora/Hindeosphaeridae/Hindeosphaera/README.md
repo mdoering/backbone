@@ -1,5 +1,4 @@
-Hindeosphaera Kozur & Mostler, 1980 GENUS
-=======
+# Hindeosphaera Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

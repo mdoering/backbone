@@ -1,5 +1,4 @@
-Asteromphalus elegans Greville SPECIES
-=======
+# Asteromphalus elegans Greville SPECIES
 
 #### Status
 ACCEPTED

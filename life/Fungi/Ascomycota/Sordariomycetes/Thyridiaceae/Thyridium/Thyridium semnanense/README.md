@@ -1,5 +1,4 @@
-Thyridium semnanense Petr. SPECIES
-=======
+# Thyridium semnanense Petr. SPECIES
 
 #### Status
 ACCEPTED

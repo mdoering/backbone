@@ -1,5 +1,4 @@
-Scolecopeltidium maranhense Bat. & Cavalc. SPECIES
-=======
+# Scolecopeltidium maranhense Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

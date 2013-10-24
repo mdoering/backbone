@@ -1,5 +1,4 @@
-Houjia GENUS
-=======
+# Houjia GENUS
 
 #### Status
 ACCEPTED

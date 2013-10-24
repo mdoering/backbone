@@ -1,5 +1,4 @@
-Phaeothyriolum Syd. GENUS
-=======
+# Phaeothyriolum Syd. GENUS
 
 #### Status
 ACCEPTED

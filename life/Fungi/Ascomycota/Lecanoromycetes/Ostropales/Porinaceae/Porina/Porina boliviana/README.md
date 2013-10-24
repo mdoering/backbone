@@ -1,5 +1,4 @@
-Porina boliviana Flakus & Lücking SPECIES
-=======
+# Porina boliviana Flakus & Lücking SPECIES
 
 #### Status
 ACCEPTED

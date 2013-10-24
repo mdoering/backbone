@@ -1,5 +1,4 @@
-Pertusaria creatomma var. creatomma VARIETY
-=======
+# Pertusaria creatomma Norman SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria creatomma var. creatomma
+Pertusaria creatomma Norman
 
 ### Remarks
 null

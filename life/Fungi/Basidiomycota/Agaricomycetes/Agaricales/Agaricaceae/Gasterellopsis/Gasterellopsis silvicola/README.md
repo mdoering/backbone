@@ -1,5 +1,4 @@
-Gasterellopsis silvicola Routien, 1940 SPECIES
-=======
+# Gasterellopsis silvicola Routien, 1940 SPECIES
 
 #### Status
 ACCEPTED

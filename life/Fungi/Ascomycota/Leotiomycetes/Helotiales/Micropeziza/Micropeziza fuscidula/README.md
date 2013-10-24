@@ -1,5 +1,4 @@
-Micropeziza fuscidula Rehm SPECIES
-=======
+# Micropeziza fuscidula Rehm SPECIES
 
 #### Status
 ACCEPTED

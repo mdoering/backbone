@@ -1,5 +1,4 @@
-Sargassum giganteifolium Yamada SPECIES
-=======
+# Sargassum giganteifolium Yamada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoblepharidomycetes M.J. Powell CLASS
-=======
+# Monoblepharidomycetes M.J. Powell CLASS
 
 #### Status
 ACCEPTED

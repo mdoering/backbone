@@ -1,5 +1,4 @@
-Asahinea culbersoniorum Trass SPECIES
-=======
+# Asahinea culbersoniorum Trass SPECIES
 
 #### Status
 ACCEPTED

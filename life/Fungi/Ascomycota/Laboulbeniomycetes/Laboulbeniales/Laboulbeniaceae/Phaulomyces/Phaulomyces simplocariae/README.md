@@ -1,5 +1,4 @@
-Phaulomyces simplocariae De Kesel, 1994 SPECIES
-=======
+# Phaulomyces simplocariae De Kesel, 1994 SPECIES
 
 #### Status
 ACCEPTED

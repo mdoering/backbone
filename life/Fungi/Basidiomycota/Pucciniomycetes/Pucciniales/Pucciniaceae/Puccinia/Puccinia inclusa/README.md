@@ -1,5 +1,4 @@
-Puccinia inclusa var. inclusa VARIETY
-=======
+# Puccinia inclusa P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia inclusa var. inclusa
+Puccinia inclusa P. Syd. & Syd.
 
 ### Remarks
 null

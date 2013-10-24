@@ -1,5 +1,4 @@
-Phaeographina plurifera (Nyl.) Fink SPECIES
-=======
+# Phaeographina plurifera (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

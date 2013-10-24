@@ -1,11 +1,10 @@
-Sarcina ureae (Beijerinck, 1901) Löhnis, 1911 SPECIES
-=======
+# Sporosarcina ureae (Beijerinck, 1901) Kluyver and van Niel, 1936 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

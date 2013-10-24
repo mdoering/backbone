@@ -1,5 +1,4 @@
-Asterina nuda Peck SPECIES
-=======
+# Asterina nuda Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo pallidiuscula Speg. SPECIES
-=======
+# Uredo pallidiuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

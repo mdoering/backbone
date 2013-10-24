@@ -1,5 +1,4 @@
-Craterellus delitescens Burt SPECIES
-=======
+# Craterellus delitescens Burt SPECIES
 
 #### Status
 ACCEPTED

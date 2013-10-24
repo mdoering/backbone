@@ -1,5 +1,4 @@
-Aphanothece conglomerata Rich SPECIES
-=======
+# Aphanothece conglomerata Rich SPECIES
 
 #### Status
 ACCEPTED

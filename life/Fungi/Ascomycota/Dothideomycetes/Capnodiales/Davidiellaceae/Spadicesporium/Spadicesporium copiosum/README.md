@@ -1,5 +1,4 @@
-Spadicesporium copiosum V.N. Boriss. & Dvoïnos SPECIES
-=======
+# Spadicesporium copiosum V.N. Boriss. & Dvoïnos SPECIES
 
 #### Status
 ACCEPTED

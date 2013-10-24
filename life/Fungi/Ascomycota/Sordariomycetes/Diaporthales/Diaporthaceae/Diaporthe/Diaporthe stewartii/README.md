@@ -1,5 +1,4 @@
-Diaporthe stewartii A.L. Harrison SPECIES
-=======
+# Diaporthe stewartii A.L. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euactinomyces Langeron GENUS
-=======
+# Euactinomyces Langeron GENUS
 
 #### Status
 ACCEPTED

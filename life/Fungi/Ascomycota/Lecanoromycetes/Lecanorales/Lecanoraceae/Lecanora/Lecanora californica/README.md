@@ -1,5 +1,4 @@
-Lecanora californica Brodo SPECIES
-=======
+# Lecanora californica Brodo SPECIES
 
 #### Status
 ACCEPTED

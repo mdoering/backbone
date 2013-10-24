@@ -1,5 +1,4 @@
-Spatoglossum crassum J.Tanaka SPECIES
-=======
+# Spatoglossum crassum J.Tanaka SPECIES
 
 #### Status
 ACCEPTED

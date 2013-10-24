@@ -1,5 +1,4 @@
-Cercospora gonolobi W.W. Ray SPECIES
-=======
+# Cercospora gonolobi W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

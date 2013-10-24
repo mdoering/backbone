@@ -1,5 +1,4 @@
-Poria bulbosa Weinm. SPECIES
-=======
+# Poria bulbosa Weinm. SPECIES
 
 #### Status
 ACCEPTED

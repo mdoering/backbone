@@ -1,5 +1,4 @@
-Inocybe tulearensis Dufour & H. Poiss. SPECIES
-=======
+# Inocybe tulearensis Dufour & H. Poiss. SPECIES
 
 #### Status
 ACCEPTED

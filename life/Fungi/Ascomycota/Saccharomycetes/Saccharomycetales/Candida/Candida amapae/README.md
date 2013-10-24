@@ -1,5 +1,4 @@
-Candida amapae P.B. Morais, C.A. Rosa, S.A. Mey., Mend.-Hagler & Hagler, 1995 SPECIES
-=======
+# Candida amapae P.B. Morais, C.A. Rosa, S.A. Mey., Mend.-Hagler & Hagler, 1995 SPECIES
 
 #### Status
 ACCEPTED

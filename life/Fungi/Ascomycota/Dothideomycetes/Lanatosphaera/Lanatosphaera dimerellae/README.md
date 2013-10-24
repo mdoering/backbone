@@ -1,5 +1,4 @@
-Lanatosphaera dimerellae Matzer, 1996 SPECIES
-=======
+# Lanatosphaera dimerellae Matzer, 1996 SPECIES
 
 #### Status
 ACCEPTED

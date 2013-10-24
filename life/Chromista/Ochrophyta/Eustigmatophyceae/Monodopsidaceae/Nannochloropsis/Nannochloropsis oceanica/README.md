@@ -1,5 +1,4 @@
-Nannochloropsis oceanica Suda & Miyashita SPECIES
-=======
+# Nannochloropsis oceanica Suda & Miyashita SPECIES
 
 #### Status
 ACCEPTED

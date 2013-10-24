@@ -1,5 +1,4 @@
-Ganoderma oroflavum (Lloyd) C.J. Humphrey SPECIES
-=======
+# Ganoderma oroflavum (Lloyd) C.J. Humphrey SPECIES
 
 #### Status
 ACCEPTED

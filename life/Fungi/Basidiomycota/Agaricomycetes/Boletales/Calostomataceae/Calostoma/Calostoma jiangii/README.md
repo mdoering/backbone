@@ -1,5 +1,4 @@
-Calostoma jiangii B. Liu & Yin H. Liu SPECIES
-=======
+# Calostoma jiangii B. Liu & Yin H. Liu SPECIES
 
 #### Status
 ACCEPTED

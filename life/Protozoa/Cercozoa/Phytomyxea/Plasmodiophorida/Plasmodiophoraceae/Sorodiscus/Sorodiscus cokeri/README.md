@@ -1,5 +1,4 @@
-Sorodiscus cokeri Goldie-Sm., 1951 SPECIES
-=======
+# Sorodiscus cokeri Goldie-Sm., 1951 SPECIES
 
 #### Status
 ACCEPTED

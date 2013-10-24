@@ -1,5 +1,4 @@
-Psilocybe tibetensis Massee SPECIES
-=======
+# Psilocybe tibetensis Massee SPECIES
 
 #### Status
 ACCEPTED

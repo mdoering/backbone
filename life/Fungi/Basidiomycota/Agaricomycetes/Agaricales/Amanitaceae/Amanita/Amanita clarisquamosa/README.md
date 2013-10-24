@@ -1,5 +1,4 @@
-Amanita clarisquamosa (S. Imai) S. Imai SPECIES
-=======
+# Amanita clarisquamosa (S. Imai) S. Imai SPECIES
 
 #### Status
 ACCEPTED

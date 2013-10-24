@@ -1,5 +1,4 @@
-Astrothelium diplocarpum Nyl. SPECIES
-=======
+# Astrothelium diplocarpum Nyl. SPECIES
 
 #### Status
 ACCEPTED

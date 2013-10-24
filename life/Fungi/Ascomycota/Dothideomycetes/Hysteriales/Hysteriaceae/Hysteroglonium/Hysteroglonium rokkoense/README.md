@@ -1,5 +1,4 @@
-Hysteroglonium rokkoense I. Hino & Katum. SPECIES
-=======
+# Hysteroglonium rokkoense I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

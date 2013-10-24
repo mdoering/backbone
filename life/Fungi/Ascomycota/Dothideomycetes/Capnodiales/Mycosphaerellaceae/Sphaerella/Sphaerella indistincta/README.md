@@ -1,5 +1,4 @@
-Sphaerella indistincta Peck SPECIES
-=======
+# Sphaerella indistincta Peck SPECIES
 
 #### Status
 ACCEPTED

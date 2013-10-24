@@ -1,5 +1,4 @@
-Gyalecta chlorobaea Nyl. SPECIES
-=======
+# Gyalecta chlorobaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis ramosa var. ramosa VARIETY
-=======
+# Botrytis ramosa Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botrytis ramosa var. ramosa
+Botrytis ramosa Pers.
 
 ### Remarks
 null

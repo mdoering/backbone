@@ -1,17 +1,16 @@
-Geaster lloydianum Rick SPECIES
-=======
+# Geastrum lloydianum Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brotéria, sér. bot. 5: 27 (1906)
 
 #### Original name
-Geaster lloydianum Rick
+Geastrum lloydianum Rick
 
 ### Remarks
 null

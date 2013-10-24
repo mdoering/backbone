@@ -1,5 +1,4 @@
-Wegelina sepulta (Berk. & M.A. Curtis) Berl. SPECIES
-=======
+# Wegelina sepulta (Berk. & M.A. Curtis) Berl. SPECIES
 
 #### Status
 ACCEPTED

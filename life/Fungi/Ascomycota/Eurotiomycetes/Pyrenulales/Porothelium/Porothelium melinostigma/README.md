@@ -1,8 +1,7 @@
-Mycoporum melinostigma G. Mey. SPECIES
-=======
+# Porothelium melinostigma (G. Mey.) Eschw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

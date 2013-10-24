@@ -1,5 +1,4 @@
-Russula microspora Singer SPECIES
-=======
+# Russula microspora Singer SPECIES
 
 #### Status
 ACCEPTED

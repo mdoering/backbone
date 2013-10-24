@@ -1,5 +1,4 @@
-Phomopsis ixorae Chowdhry SPECIES
-=======
+# Phomopsis ixorae Chowdhry SPECIES
 
 #### Status
 ACCEPTED

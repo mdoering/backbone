@@ -1,14 +1,13 @@
-Fuckelia plowrightii Niessl, 1875 SPECIES
-=======
+# Anthostoma plowrightii (Niessl) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 14: 130 (1875)
+Syll. fung. (Abellini) 1: 303 (1882)
 
 #### Original name
 Fuckelia plowrightii Niessl, 1875

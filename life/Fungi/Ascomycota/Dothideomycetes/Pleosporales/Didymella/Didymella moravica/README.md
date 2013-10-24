@@ -1,17 +1,16 @@
-Mycosphaerella moravica (Petr.) Tomin, 1971 SPECIES
-=======
+# Didymella moravica (Petr.) Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 21(1-2): 20 (1923)
 
 #### Original name
-null
+Mycosphaerellopsis moravica Petr., 1921
 
 ### Remarks
 null

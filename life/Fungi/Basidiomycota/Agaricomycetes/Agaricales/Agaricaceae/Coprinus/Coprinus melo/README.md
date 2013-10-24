@@ -1,5 +1,4 @@
-Coprinus melo J. Favre SPECIES
-=======
+# Coprinus melo J. Favre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Straminella orae-frigidae (R. Sant.) Miyaw. SPECIES
-=======
+# Straminella orae-frigidae (R. Sant.) Miyaw. SPECIES
 
 #### Status
 ACCEPTED

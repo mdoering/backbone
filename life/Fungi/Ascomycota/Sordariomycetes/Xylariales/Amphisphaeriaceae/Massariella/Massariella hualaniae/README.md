@@ -1,5 +1,4 @@
-Massariella hualaniae Speg. SPECIES
-=======
+# Massariella hualaniae Speg. SPECIES
 
 #### Status
 ACCEPTED

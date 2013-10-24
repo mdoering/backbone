@@ -1,5 +1,4 @@
-Monochaetia concentrica (Berk. & Broome) Sacc. & D. Sacc., 1906 SPECIES
-=======
+# Monochaetia concentrica (Berk. & Broome) Sacc. & D. Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

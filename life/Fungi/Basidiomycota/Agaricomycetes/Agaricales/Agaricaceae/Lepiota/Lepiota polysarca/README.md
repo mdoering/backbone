@@ -1,5 +1,4 @@
-Lepiota polysarca Kalchbr. & MacOwan SPECIES
-=======
+# Lepiota polysarca Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

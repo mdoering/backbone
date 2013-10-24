@@ -1,5 +1,4 @@
-Dothiorella syringae (P. Karst.) Sacc. SPECIES
-=======
+# Dothiorella syringae (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

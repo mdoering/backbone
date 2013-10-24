@@ -1,14 +1,13 @@
-Phyllopsora wellingtonii (Stirt.) Müll. Arg. SPECIES
-=======
+# Psoromidium wellingtonii Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Roy. Philos. Soc. Glasgow 10: 304 (1877)
 
 #### Original name
 Psoromidium wellingtonii Stirt.

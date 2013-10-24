@@ -1,5 +1,4 @@
-Mycosphaerella evansiae (Pat.) Lindau SPECIES
-=======
+# Mycosphaerella evansiae (Pat.) Lindau SPECIES
 
 #### Status
 ACCEPTED

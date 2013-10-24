@@ -1,5 +1,4 @@
-Pholiota serotina A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota serotina A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

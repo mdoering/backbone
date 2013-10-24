@@ -1,8 +1,7 @@
-Lecidea subtristiuscula Nyl. SPECIES
-=======
+# Miriquidica leucophaeoides (Nyl.) Hertel & Andreev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

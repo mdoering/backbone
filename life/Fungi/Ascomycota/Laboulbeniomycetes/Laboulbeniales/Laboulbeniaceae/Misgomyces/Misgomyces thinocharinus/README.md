@@ -1,5 +1,4 @@
-Misgomyces thinocharinus (Thaxt.) Thaxt. SPECIES
-=======
+# Misgomyces thinocharinus (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

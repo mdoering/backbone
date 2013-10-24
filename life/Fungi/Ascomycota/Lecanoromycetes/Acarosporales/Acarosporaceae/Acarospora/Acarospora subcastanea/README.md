@@ -1,5 +1,4 @@
-Acarospora subcastanea (Nyl.) Hue SPECIES
-=======
+# Acarospora subcastanea (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

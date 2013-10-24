@@ -1,5 +1,4 @@
-Tyromyces toatoa G. Cunn., 1965 SPECIES
-=======
+# Tyromyces toatoa G. Cunn., 1965 SPECIES
 
 #### Status
 ACCEPTED

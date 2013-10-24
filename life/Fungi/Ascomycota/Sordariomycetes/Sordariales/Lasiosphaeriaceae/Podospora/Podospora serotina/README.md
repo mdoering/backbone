@@ -1,5 +1,4 @@
-Podospora serotina Cailleux, 1969 SPECIES
-=======
+# Podospora serotina Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia fimbristylidis-ferrugineae Ramachar SPECIES
-=======
+# Puccinia fimbristylidis-ferrugineae Ramachar SPECIES
 
 #### Status
 ACCEPTED

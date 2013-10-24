@@ -1,5 +1,4 @@
-Enchelys terricola Foissner, 1987 SPECIES
-=======
+# Enchelys terricola Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

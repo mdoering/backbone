@@ -1,5 +1,4 @@
-Conocybe subpubescens P.D. Orton, 1960 SPECIES
-=======
+# Conocybe subpubescens P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

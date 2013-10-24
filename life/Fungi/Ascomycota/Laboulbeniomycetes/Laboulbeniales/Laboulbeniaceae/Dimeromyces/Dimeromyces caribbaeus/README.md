@@ -1,5 +1,4 @@
-Dimeromyces caribbaeus Thaxt. SPECIES
-=======
+# Dimeromyces caribbaeus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

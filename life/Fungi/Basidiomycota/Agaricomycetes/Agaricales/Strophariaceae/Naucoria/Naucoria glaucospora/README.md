@@ -1,5 +1,4 @@
-Naucoria glaucospora Beeli SPECIES
-=======
+# Naucoria glaucospora Beeli SPECIES
 
 #### Status
 ACCEPTED

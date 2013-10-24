@@ -1,5 +1,4 @@
-Hariotula GENUS
-=======
+# Hariotula GENUS
 
 #### Status
 ACCEPTED

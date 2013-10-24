@@ -1,5 +1,4 @@
-Macrophoma cruenta (Fr.) Ferraris SPECIES
-=======
+# Macrophoma cruenta (Fr.) Ferraris SPECIES
 
 #### Status
 ACCEPTED

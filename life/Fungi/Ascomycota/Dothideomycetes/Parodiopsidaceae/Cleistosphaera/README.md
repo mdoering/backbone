@@ -1,17 +1,16 @@
-Cleistosphaeria GENUS
-=======
+# Cleistosphaera Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 14(1/2): 74 (1916)
 
 #### Original name
-null
+Cleistosphaera Syd. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peronospora minima G.W. Wilson SPECIES
-=======
+# Peronospora minima G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

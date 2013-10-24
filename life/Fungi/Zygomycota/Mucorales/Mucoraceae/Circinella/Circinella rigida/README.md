@@ -1,5 +1,4 @@
-Circinella rigida G. Sm., 1951 SPECIES
-=======
+# Circinella rigida G. Sm., 1951 SPECIES
 
 #### Status
 ACCEPTED

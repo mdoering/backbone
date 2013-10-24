@@ -1,5 +1,4 @@
-Bolbitius albiceps Speg. SPECIES
-=======
+# Bolbitius albiceps Speg. SPECIES
 
 #### Status
 ACCEPTED

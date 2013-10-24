@@ -1,5 +1,4 @@
-Coprinopsis africana (Pegler) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis africana (Pegler) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

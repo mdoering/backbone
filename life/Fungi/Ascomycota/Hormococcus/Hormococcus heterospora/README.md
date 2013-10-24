@@ -1,5 +1,4 @@
-Hormococcus heterospora Preuss SPECIES
-=======
+# Hormococcus heterospora Preuss SPECIES
 
 #### Status
 ACCEPTED

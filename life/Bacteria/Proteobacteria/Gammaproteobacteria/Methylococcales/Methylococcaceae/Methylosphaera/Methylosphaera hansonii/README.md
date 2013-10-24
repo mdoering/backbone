@@ -1,5 +1,4 @@
-Methylosphaera hansonii Bowman et al., 1998 SPECIES
-=======
+# Methylosphaera hansonii Bowman et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

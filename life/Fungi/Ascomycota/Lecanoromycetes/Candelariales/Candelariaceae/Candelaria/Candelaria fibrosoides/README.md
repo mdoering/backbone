@@ -1,5 +1,4 @@
-Candelaria fibrosoides M. Westb. & Frödén SPECIES
-=======
+# Candelaria fibrosoides M. Westb. & Frödén SPECIES
 
 #### Status
 ACCEPTED

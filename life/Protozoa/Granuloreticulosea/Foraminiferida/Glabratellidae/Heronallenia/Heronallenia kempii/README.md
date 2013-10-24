@@ -1,5 +1,4 @@
-Heronallenia kempii Earland & Heron-Allen SPECIES
-=======
+# Heronallenia kempii Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

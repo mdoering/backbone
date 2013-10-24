@@ -1,17 +1,16 @@
-Dendrocystis Rees, 1962 GENUS
-=======
+# Arborocystis Rees & Howell, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Parasitology 52: 10.
+Parasitology 56: 305.
 
 #### Original name
-null
+Dendrocystis Rees, 1962
 
 ### Remarks
 null

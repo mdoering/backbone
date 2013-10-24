@@ -1,5 +1,4 @@
-Galera mycenoides (Fr.) Kühner SPECIES
-=======
+# Galera mycenoides (Fr.) Kühner SPECIES
 
 #### Status
 ACCEPTED

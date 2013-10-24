@@ -1,5 +1,4 @@
-Hispanaediscus leonensis Cramer, 1966 SPECIES
-=======
+# Hispanaediscus leonensis Cramer, 1966 SPECIES
 
 #### Status
 ACCEPTED

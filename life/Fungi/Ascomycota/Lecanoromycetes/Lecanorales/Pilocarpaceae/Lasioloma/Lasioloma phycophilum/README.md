@@ -1,14 +1,13 @@
-Sporopodium phycophyllum Vain. SPECIES
-=======
+# Lasioloma phycophilum (Vain.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 100 (1921)
+Symb. bot. upsal. 12(no. 1): 550 (1952)
 
 #### Original name
 Sporopodium phycophyllum Vain.

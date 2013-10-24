@@ -1,5 +1,4 @@
-Meliola scabriseta var. scabriseta VARIETY
-=======
+# Meliola scabriseta Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 36 (1948)
 
 #### Original name
-Meliola scabriseta var. scabriseta
+Meliola scabriseta Hansf. & Deighton
 
 ### Remarks
 null

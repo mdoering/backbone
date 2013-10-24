@@ -1,5 +1,4 @@
-Trochammina pacifica SPECIES
-=======
+# Trochammina pacifica SPECIES
 
 #### Status
 ACCEPTED

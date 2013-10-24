@@ -1,5 +1,4 @@
-Daedalopsis GENUS
-=======
+# Daedalopsis GENUS
 
 #### Status
 ACCEPTED

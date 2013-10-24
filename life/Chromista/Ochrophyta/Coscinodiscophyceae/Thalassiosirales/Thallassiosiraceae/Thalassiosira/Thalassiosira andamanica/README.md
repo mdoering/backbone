@@ -1,5 +1,4 @@
-Thalassiosira andamanica A.D. Gedde SPECIES
-=======
+# Thalassiosira andamanica A.D. Gedde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymozoophaga spongiosa Soprunov & Galiulina SPECIES
-=======
+# Didymozoophaga spongiosa Soprunov & Galiulina SPECIES
 
 #### Status
 ACCEPTED

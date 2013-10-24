@@ -1,5 +1,4 @@
-Loxophyllum jini Lin, Song, Wilbert & Warren, 2005 SPECIES
-=======
+# Loxophyllum jini Lin, Song, Wilbert & Warren, 2005 SPECIES
 
 #### Status
 ACCEPTED

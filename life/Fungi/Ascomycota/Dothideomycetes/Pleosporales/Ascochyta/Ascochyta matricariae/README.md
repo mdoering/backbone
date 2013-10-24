@@ -1,5 +1,4 @@
-Ascochyta matricariae (Moesz & Smarods) Grove SPECIES
-=======
+# Ascochyta matricariae (Moesz & Smarods) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cordyceps taylori (Berk.) Sacc. SPECIES
-=======
+# Cordyceps taylorii (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

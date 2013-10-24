@@ -1,5 +1,4 @@
-Guignardia aphyllanthis Unamuno SPECIES
-=======
+# Guignardia aphyllanthis Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocystis montium (Rumbold) J. Hunt, 1956 SPECIES
-=======
+# Ceratocystis montium (Rumbold) J. Hunt, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microthelia miculiformis Müll. Arg. SPECIES
-=======
+# Mycomicrothelia miculiformis (Nyl. ex Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engler's Bot. Jahrb. 6: 417 (1885)
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 99 (1985)
 
 #### Original name
 Microthelia miculiformis Müll. Arg.

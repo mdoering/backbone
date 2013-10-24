@@ -1,5 +1,4 @@
-Lecanactis dubia G. Merr. SPECIES
-=======
+# Lecanactis dubia G. Merr. SPECIES
 
 #### Status
 ACCEPTED

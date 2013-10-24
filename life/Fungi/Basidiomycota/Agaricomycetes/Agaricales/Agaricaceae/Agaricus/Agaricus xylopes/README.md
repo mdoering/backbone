@@ -1,5 +1,4 @@
-Agaricus xylopes With. SPECIES
-=======
+# Agaricus xylopes With. SPECIES
 
 #### Status
 ACCEPTED

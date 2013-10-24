@@ -1,5 +1,4 @@
-Aecidium residuum Arthur SPECIES
-=======
+# Aecidium residuum Arthur SPECIES
 
 #### Status
 ACCEPTED

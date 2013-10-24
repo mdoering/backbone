@@ -1,5 +1,4 @@
-Kleinstyla Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Kleinstyla Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

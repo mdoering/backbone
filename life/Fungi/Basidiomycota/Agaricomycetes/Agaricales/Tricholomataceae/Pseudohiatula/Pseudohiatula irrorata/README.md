@@ -1,5 +1,4 @@
-Pseudohiatula irrorata (Pat.) Singer SPECIES
-=======
+# Pseudohiatula irrorata (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

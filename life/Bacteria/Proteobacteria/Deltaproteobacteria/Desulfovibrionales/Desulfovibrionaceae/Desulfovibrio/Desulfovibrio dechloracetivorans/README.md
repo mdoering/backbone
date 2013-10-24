@@ -1,5 +1,4 @@
-Desulfovibrio dechloracetivorans Sun et al., 2001 SPECIES
-=======
+# Desulfovibrio dechloracetivorans Sun et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

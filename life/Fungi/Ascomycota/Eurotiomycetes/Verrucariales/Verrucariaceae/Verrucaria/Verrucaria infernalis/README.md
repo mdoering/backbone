@@ -1,5 +1,4 @@
-Verrucaria infernalis Mont. SPECIES
-=======
+# Verrucaria infernalis Mont. SPECIES
 
 #### Status
 ACCEPTED

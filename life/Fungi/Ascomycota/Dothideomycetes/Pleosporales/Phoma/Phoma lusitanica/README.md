@@ -1,5 +1,4 @@
-Phoma lusitanica Thüm. SPECIES
-=======
+# Phoma lusitanica Thüm. SPECIES
 
 #### Status
 ACCEPTED

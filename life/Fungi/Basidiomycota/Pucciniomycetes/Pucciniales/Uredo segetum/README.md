@@ -1,5 +1,4 @@
-Uredo segetum subsp. segetum SUBSPECIES
-=======
+# Uredo segetum a hordei Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 224 (1801)
 
 #### Original name
-Uredo segetum subsp. segetum
+Uredo segetum a hordei Pers.
 
 ### Remarks
 null

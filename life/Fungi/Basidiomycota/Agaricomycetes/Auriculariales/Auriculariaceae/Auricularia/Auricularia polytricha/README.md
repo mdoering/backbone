@@ -1,17 +1,16 @@
-Auricularia polytricha var. polytricha VARIETY
-=======
+# Auricularia polytricha (Mont.) Sacc., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 6 3: 722 (1885)
 
 #### Original name
-null
+Exidia polytricha Mont., 1834
 
 ### Remarks
 null

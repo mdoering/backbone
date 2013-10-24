@@ -1,17 +1,16 @@
-Calycella sulfurina var. sulfurina VARIETY
-=======
+# Bisporella sulfurina (Quél.) S.E. Carp., 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 95 (1907)
+in Korf & Carpenter, Mycotaxon 1(1): 59 (1974)
 
 #### Original name
-Calycella sulfurina var. sulfurina
+Helotium sulfurinum Quél., 1880
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptothyrium evansii Syd. {?} SPECIES
-=======
+# Leptothyrium evansii Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

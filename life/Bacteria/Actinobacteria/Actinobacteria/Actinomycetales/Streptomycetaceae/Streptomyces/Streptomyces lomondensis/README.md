@@ -1,5 +1,4 @@
-Streptomyces lomondensis Johnson and Dietz, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces lomondensis Johnson and Dietz, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

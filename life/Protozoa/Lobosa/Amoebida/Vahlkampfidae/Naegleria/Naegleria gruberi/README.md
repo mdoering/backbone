@@ -1,5 +1,4 @@
-Naegleria gruberi Schardinger, 1899 SPECIES
-=======
+# Naegleria gruberi Schardinger, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia paulii Poelt SPECIES
-=======
+# Puccinia paulii Poelt SPECIES
 
 #### Status
 ACCEPTED

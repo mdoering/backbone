@@ -1,5 +1,4 @@
-Myxofusicoccum polonicum Petr. SPECIES
-=======
+# Myxofusicoccum polonicum Petr. SPECIES
 
 #### Status
 ACCEPTED

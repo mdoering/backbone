@@ -1,5 +1,4 @@
-Cytosporella aurea Rolland SPECIES
-=======
+# Cytosporella aurea Rolland SPECIES
 
 #### Status
 ACCEPTED

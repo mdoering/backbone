@@ -1,5 +1,4 @@
-Porina austroatlantica P. M. McCarthy & Fryday SPECIES
-=======
+# Porina austroatlantica P. M. McCarthy & Fryday SPECIES
 
 #### Status
 ACCEPTED

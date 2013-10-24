@@ -1,5 +1,4 @@
-Stilbospora uredo DC. SPECIES
-=======
+# Stilbospora uredo DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium brunneorubrum Dierckx SPECIES
-=======
+# Penicillium brunneorubrum Dierckx SPECIES
 
 #### Status
 ACCEPTED

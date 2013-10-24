@@ -1,5 +1,4 @@
-Convallina McNeil, 1997 GENUS
-=======
+# Convallina McNeil, 1997 GENUS
 
 #### Status
 ACCEPTED

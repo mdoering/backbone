@@ -1,5 +1,4 @@
-Pseudocyphellaria malmeana D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria malmeana D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

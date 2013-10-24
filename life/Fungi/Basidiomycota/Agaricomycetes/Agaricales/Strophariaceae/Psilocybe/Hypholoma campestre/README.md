@@ -1,5 +1,4 @@
-Hypholoma campestre (Earle) Morgan SPECIES
-=======
+# Hypholoma campestre (Earle) Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis laurina Petr. SPECIES
-=======
+# Phomopsis laurina Petr. SPECIES
 
 #### Status
 ACCEPTED

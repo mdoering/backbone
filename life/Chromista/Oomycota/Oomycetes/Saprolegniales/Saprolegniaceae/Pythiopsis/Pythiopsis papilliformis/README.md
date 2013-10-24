@@ -1,5 +1,4 @@
-Pythiopsis papilliformis R.L. Seym., 2005 SPECIES
-=======
+# Pythiopsis papilliformis R.L. Seym., 2005 SPECIES
 
 #### Status
 ACCEPTED

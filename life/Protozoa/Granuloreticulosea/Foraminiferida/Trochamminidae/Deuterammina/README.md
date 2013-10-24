@@ -1,5 +1,4 @@
-Deuterammina Brönnimann, 1976 GENUS
-=======
+# Deuterammina Brönnimann, 1976 GENUS
 
 #### Status
 ACCEPTED

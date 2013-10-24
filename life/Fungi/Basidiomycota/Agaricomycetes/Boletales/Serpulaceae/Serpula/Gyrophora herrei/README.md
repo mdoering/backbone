@@ -1,5 +1,4 @@
-Gyrophora herrei (Frey) Affin. {?} SPECIES
-=======
+# Gyrophora herrei (Frey) Affin. {?} SPECIES
 
 #### Status
 ACCEPTED

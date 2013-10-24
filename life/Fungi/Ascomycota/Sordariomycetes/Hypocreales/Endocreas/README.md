@@ -1,5 +1,4 @@
-Endocreas GENUS
-=======
+# Endocreas GENUS
 
 #### Status
 ACCEPTED

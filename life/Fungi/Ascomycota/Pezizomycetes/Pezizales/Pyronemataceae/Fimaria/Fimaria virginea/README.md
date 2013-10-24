@@ -1,5 +1,4 @@
-Fimaria virginea Svrcek & J. Moravec SPECIES
-=======
+# Fimaria virginea Svrcek & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

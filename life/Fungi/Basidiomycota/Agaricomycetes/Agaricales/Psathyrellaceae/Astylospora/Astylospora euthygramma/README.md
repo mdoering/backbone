@@ -1,14 +1,13 @@
-Astylospora euthugramma (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Astylospora euthygramma (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 10(1): 21 (1918)
 
 #### Original name
 Agaricus euthygrammus Berk. & M.A. Curtis

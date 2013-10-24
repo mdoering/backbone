@@ -1,5 +1,4 @@
-Camarosporium coluteae (Peck & G.P. Clinton) Sacc. SPECIES
-=======
+# Camarosporium coluteae (Peck & G.P. Clinton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

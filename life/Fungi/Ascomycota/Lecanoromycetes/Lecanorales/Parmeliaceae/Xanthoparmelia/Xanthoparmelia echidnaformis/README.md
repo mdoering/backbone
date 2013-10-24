@@ -1,5 +1,4 @@
-Xanthoparmelia echidnaformis Elix SPECIES
-=======
+# Xanthoparmelia echidnaformis Elix SPECIES
 
 #### Status
 ACCEPTED

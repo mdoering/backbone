@@ -1,5 +1,4 @@
-Phorcys tiliae (M.A. Curtis) J. Schröt. SPECIES
-=======
+# Phorcys tiliae (M.A. Curtis) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

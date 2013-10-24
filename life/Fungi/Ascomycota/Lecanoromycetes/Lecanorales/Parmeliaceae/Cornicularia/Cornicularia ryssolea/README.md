@@ -1,5 +1,4 @@
-Cornicularia ryssolea (Heufl.) Hazsl. SPECIES
-=======
+# Cornicularia ryssolea (Heufl.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

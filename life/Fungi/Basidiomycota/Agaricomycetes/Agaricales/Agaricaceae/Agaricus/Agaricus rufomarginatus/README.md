@@ -1,5 +1,4 @@
-Agaricus rufomarginatus Weinm. SPECIES
-=======
+# Agaricus rufomarginatus Weinm. SPECIES
 
 #### Status
 ACCEPTED

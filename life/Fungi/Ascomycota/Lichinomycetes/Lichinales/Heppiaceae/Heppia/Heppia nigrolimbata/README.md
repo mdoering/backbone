@@ -1,5 +1,4 @@
-Heppia nigrolimbata (Nyl.) Nyl. SPECIES
-=======
+# Heppia nigrolimbata (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

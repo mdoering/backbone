@@ -1,5 +1,4 @@
-Didymopyrostroma GENUS
-=======
+# Didymopyrostroma GENUS
 
 #### Status
 ACCEPTED

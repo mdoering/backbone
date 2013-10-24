@@ -1,5 +1,4 @@
-Agaricus sciolus Kalchbr. SPECIES
-=======
+# Agaricus sciolus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

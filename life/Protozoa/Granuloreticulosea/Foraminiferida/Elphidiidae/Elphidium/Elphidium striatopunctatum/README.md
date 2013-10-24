@@ -1,8 +1,7 @@
-Nautilus striatopunctatus Fichtel & Moll, 1798 SPECIES
-=======
+# Elphidium striatopunctatum (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

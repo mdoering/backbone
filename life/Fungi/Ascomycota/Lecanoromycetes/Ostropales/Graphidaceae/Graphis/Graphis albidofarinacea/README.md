@@ -1,5 +1,4 @@
-Graphis albidofarinacea Adaw. & Makhija SPECIES
-=======
+# Graphis albidofarinacea Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

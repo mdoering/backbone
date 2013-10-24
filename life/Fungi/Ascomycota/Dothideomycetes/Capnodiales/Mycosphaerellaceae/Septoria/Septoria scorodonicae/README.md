@@ -1,5 +1,4 @@
-Septoria scorodonicae Pass. SPECIES
-=======
+# Septoria scorodonicae Pass. SPECIES
 
 #### Status
 ACCEPTED

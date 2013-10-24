@@ -1,5 +1,4 @@
-Bireticulasporis R. Potonié & Sah GENUS
-=======
+# Bireticulasporis R. Potonié & Sah GENUS
 
 #### Status
 ACCEPTED

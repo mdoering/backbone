@@ -1,5 +1,4 @@
-Xiphothecaella procera SPECIES
-=======
+# Xiphothecaella procera SPECIES
 
 #### Status
 ACCEPTED

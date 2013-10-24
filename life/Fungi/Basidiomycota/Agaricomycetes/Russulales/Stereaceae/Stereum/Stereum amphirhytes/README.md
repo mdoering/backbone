@@ -1,5 +1,4 @@
-Stereum amphirhytes Sacc. & Bres. SPECIES
-=======
+# Stereum amphirhytes Sacc. & Bres. SPECIES
 
 #### Status
 ACCEPTED

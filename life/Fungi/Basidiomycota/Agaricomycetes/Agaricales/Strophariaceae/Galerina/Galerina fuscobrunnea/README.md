@@ -1,5 +1,4 @@
-Galerina fuscobrunnea A.H. Sm. SPECIES
-=======
+# Galerina fuscobrunnea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

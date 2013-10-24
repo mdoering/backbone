@@ -1,5 +1,4 @@
-Lactarius fulvus Stubbe & Verbeken SPECIES
-=======
+# Lactarius fulvus Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

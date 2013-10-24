@@ -1,5 +1,4 @@
-Meliola parvifoliae Suj. Singh & Kamal SPECIES
-=======
+# Meliola parvifoliae Suj. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

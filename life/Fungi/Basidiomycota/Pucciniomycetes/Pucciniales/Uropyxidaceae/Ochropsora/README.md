@@ -1,5 +1,4 @@
-Ochropsora Dietel, 1895 GENUS
-=======
+# Ochropsora Dietel, 1895 GENUS
 
 #### Status
 ACCEPTED

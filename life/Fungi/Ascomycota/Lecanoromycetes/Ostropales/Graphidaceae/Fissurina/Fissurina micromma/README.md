@@ -1,5 +1,4 @@
-Fissurina micromma (Zahlbr.) Aptroot SPECIES
-=======
+# Fissurina micromma (Zahlbr.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megabirnaviridae FAMILY
-=======
+# Megabirnaviridae FAMILY
 
 #### Status
 ACCEPTED

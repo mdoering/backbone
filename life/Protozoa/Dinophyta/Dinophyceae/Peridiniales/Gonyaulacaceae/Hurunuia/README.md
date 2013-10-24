@@ -1,5 +1,4 @@
-Hurunuia Wilson, 1984 GENUS
-=======
+# Hurunuia Wilson, 1984 GENUS
 
 #### Status
 ACCEPTED

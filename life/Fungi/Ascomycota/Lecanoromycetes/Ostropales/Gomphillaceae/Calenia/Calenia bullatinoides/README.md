@@ -1,5 +1,4 @@
-Calenia bullatinoides Lücking SPECIES
-=======
+# Calenia bullatinoides Lücking SPECIES
 
 #### Status
 ACCEPTED

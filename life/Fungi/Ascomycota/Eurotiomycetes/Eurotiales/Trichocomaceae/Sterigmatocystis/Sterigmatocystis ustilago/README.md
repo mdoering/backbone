@@ -1,5 +1,4 @@
-Sterigmatocystis ustilago (Beck) Sacc. SPECIES
-=======
+# Sterigmatocystis ustilago (Beck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

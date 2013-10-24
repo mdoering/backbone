@@ -1,17 +1,16 @@
-Tricholoma griseum Dennis, 1951 SPECIES
-=======
+# Dennisiomyces griseus (Dennis) Singer, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 13: 227 (1955)
 
 #### Original name
-null
+Lepiota griseorubescens Dennis
 
 ### Remarks
 null

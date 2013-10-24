@@ -1,14 +1,13 @@
-Lecidea excelsa Leight. SPECIES
-=======
+# Buellia excelsa (Leight.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 30): 78 (1875)
+Monogr. Brit. Lich. 2: 174 (1911)
 
 #### Original name
 Lecidea excelsa Leight.

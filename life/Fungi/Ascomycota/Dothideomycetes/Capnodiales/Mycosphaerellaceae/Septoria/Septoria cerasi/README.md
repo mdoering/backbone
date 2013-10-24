@@ -1,5 +1,4 @@
-Septoria cerasi Pass. SPECIES
-=======
+# Septoria cerasi Pass. SPECIES
 
 #### Status
 ACCEPTED

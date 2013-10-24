@@ -1,5 +1,4 @@
-Koorchaloma europaea Treigiene SPECIES
-=======
+# Koorchaloma europaea Treigiene SPECIES
 
 #### Status
 ACCEPTED

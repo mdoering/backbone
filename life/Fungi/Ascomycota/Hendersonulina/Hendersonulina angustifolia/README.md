@@ -1,5 +1,4 @@
-Hendersonulina angustifolia (Ellis & Everh.) Tassi SPECIES
-=======
+# Hendersonulina angustifolia (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

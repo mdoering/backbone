@@ -1,5 +1,4 @@
-Aecidium cluytiae Doidge SPECIES
-=======
+# Aecidium cluytiae Doidge SPECIES
 
 #### Status
 ACCEPTED

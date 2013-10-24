@@ -1,14 +1,13 @@
-Parmelia cedrus-montana (Brusse) Brusse SPECIES
-=======
+# Parmelia cedri-montana (Brusse) Brusse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 15(1-2): 320 (1984)
 
 #### Original name
 Xanthoparmelia cedri-montana Brusse

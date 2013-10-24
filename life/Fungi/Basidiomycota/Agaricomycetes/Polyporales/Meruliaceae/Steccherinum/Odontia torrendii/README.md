@@ -1,5 +1,4 @@
-Odontia torrendii Bres. SPECIES
-=======
+# Odontia torrendii Bres. SPECIES
 
 #### Status
 ACCEPTED

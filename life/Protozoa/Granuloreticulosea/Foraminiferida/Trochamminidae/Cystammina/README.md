@@ -1,5 +1,4 @@
-Cystammina Neumayr, 1889 GENUS
-=======
+# Cystammina Neumayr, 1889 GENUS
 
 #### Status
 ACCEPTED

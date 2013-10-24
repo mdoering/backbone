@@ -1,5 +1,4 @@
-Enterococcus aquimarinus Svec et al., 2005 SPECIES
-=======
+# Enterococcus aquimarinus Svec et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

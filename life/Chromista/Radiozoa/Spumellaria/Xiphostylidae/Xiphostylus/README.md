@@ -1,5 +1,4 @@
-Xiphostylus Haeckel, 1881 GENUS
-=======
+# Xiphostylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

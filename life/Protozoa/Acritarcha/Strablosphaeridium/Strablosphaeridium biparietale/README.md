@@ -1,5 +1,4 @@
-Strablosphaeridium biparietale Górka, 1980 SPECIES
-=======
+# Strablosphaeridium biparietale Górka, 1980 SPECIES
 
 #### Status
 ACCEPTED

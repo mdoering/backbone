@@ -1,5 +1,4 @@
-Centritactaceae FAMILY
-=======
+# Centritactaceae FAMILY
 
 #### Status
 ACCEPTED

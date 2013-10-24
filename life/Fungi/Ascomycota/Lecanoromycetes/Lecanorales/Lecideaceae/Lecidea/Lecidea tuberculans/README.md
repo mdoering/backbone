@@ -1,5 +1,4 @@
-Lecidea tuberculans Zahlbr. SPECIES
-=======
+# Lecidea tuberculans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora legalloana Elix & Øvstedal SPECIES
-=======
+# Lecanora legalloana Elix & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

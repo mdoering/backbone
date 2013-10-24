@@ -1,17 +1,16 @@
-Lecidea lurida var. lurida VARIETY
-=======
+# Romjularia lurida (Ach.) Timdal SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 77 (1803)
+Lichen Flora of the Greater Sonoran Desert Region (Tempe) 3: 288 (2007)
 
 #### Original name
-Lecidea lurida var. lurida
+Lecidea lurida Ach.
 
 ### Remarks
 null

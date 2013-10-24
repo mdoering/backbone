@@ -1,5 +1,4 @@
-Entamoeba Casagrandi & Barbagallo, 1897 GENUS
-=======
+# Entamoeba Casagrandi & Barbagallo, 1897 GENUS
 
 #### Status
 ACCEPTED

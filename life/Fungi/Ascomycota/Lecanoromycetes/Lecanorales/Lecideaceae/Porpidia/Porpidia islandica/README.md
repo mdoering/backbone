@@ -1,5 +1,4 @@
-Porpidia islandica Fryday, Knoph & Hertel SPECIES
-=======
+# Porpidia islandica Fryday, Knoph & Hertel SPECIES
 
 #### Status
 ACCEPTED

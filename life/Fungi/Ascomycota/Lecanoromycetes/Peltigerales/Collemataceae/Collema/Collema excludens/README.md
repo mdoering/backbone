@@ -1,5 +1,4 @@
-Collema excludens (Nyl.) Räsänen SPECIES
-=======
+# Collema excludens (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

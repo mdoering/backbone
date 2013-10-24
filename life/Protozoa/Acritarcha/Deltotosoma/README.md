@@ -1,5 +1,4 @@
-Deltotosoma Playford in Playford & Dring, 1981 GENUS
-=======
+# Deltotosoma Playford in Playford & Dring, 1981 GENUS
 
 #### Status
 ACCEPTED

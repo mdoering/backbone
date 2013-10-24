@@ -1,5 +1,4 @@
-Phyllosticta melastomatis Sawada SPECIES
-=======
+# Phyllosticta melastomatis Sawada SPECIES
 
 #### Status
 ACCEPTED

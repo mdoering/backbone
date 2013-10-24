@@ -1,14 +1,13 @@
-Fusicoccum ellisianum Sacc. & P. Syd., 1899 SPECIES
-=======
+# Fusicoccum quercinum Ellis & Everh., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14: 913 (1899)
+Proc. Acad. nat. Sci. Philad. 47: 432 (1895)
 
 #### Original name
 Fusicoccum quercinum Ellis & Everh., 1895

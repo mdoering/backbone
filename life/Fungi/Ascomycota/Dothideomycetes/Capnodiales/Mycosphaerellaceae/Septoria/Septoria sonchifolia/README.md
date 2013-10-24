@@ -1,5 +1,4 @@
-Septoria sonchifolia Cooke, 1878 SPECIES
-=======
+# Septoria sonchifolia Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

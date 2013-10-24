@@ -1,5 +1,4 @@
-Humaria ollula (P. Karst.) Rehm SPECIES
-=======
+# Humaria ollula (P. Karst.) Rehm SPECIES
 
 #### Status
 ACCEPTED

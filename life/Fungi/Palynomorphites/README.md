@@ -1,5 +1,4 @@
-Palynomorphites L.R. Moore GENUS
-=======
+# Palynomorphites L.R. Moore GENUS
 
 #### Status
 ACCEPTED

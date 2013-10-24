@@ -1,5 +1,4 @@
-Skeletocutis chrysella Niemelä SPECIES
-=======
+# Skeletocutis chrysella Niemelä SPECIES
 
 #### Status
 ACCEPTED

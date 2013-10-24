@@ -1,5 +1,4 @@
-Corticium boltonii Fr. SPECIES
-=======
+# Corticium boltonii Fr. SPECIES
 
 #### Status
 ACCEPTED

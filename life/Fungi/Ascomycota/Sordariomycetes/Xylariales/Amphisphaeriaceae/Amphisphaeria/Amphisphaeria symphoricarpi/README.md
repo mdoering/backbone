@@ -1,5 +1,4 @@
-Amphisphaeria symphoricarpi Savul. & Sandu SPECIES
-=======
+# Amphisphaeria symphoricarpi Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

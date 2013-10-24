@@ -1,5 +1,4 @@
-Rhizophydium mougeotiae Pongratz SPECIES
-=======
+# Rhizophydium mougeotiae Pongratz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moriolomyces Cif. & Tomas. GENUS
-=======
+# Moriolomyces Cif. & Tomas. GENUS
 
 #### Status
 ACCEPTED

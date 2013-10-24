@@ -1,5 +1,4 @@
-Peronosclerospora maydis (Racib.) C.G. Shaw, 1978 SPECIES
-=======
+# Peronosclerospora maydis (Racib.) C.G. Shaw, 1978 SPECIES
 
 #### Status
 ACCEPTED

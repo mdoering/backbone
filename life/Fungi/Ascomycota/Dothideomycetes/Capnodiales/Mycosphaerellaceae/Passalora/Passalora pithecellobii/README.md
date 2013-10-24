@@ -1,5 +1,4 @@
-Passalora pithecellobii (J.L. Mulder) U. Braun & Crous SPECIES
-=======
+# Passalora pithecellobii (J.L. Mulder) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

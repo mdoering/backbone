@@ -1,17 +1,16 @@
-Fomes nontostus Lloyd, 1913 SPECIES
-=======
+# Fomitopsis avellanea (Bres.) Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Letter 48) 7 (1913)
+Mycotaxon 33: 304 (1988)
 
 #### Original name
-Fomes nontostus Lloyd, 1913
+Trametes avellanea Bres., 1910
 
 ### Remarks
 null

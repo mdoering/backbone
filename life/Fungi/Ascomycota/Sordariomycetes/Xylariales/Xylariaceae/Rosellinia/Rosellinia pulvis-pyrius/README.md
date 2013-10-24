@@ -1,5 +1,4 @@
-Rosellinia pulvis-pyrius Penz. & Sacc. SPECIES
-=======
+# Rosellinia pulvis-pyrius Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

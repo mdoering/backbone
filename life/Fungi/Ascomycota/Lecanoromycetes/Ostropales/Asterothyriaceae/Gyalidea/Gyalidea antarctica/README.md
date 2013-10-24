@@ -1,5 +1,4 @@
-Gyalidea antarctica Øvstedal & Vezda SPECIES
-=======
+# Gyalidea antarctica Øvstedal & Vezda SPECIES
 
 #### Status
 ACCEPTED

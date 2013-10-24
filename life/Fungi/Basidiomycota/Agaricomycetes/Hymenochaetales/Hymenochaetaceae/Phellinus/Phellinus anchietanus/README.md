@@ -1,5 +1,4 @@
-Phellinus anchietanus Decock & Ryvarden, 1997 SPECIES
-=======
+# Phellinus anchietanus Decock & Ryvarden, 1997 SPECIES
 
 #### Status
 ACCEPTED

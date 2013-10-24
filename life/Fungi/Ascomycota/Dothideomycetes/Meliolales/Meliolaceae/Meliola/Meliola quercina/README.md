@@ -1,5 +1,4 @@
-Meliola quercina (Hansf.) Cif. SPECIES
-=======
+# Meliola quercina (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

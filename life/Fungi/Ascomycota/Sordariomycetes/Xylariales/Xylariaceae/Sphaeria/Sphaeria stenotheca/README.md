@@ -1,5 +1,4 @@
-Sphaeria stenotheca Ellis & Everh. SPECIES
-=======
+# Sphaeria stenotheca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

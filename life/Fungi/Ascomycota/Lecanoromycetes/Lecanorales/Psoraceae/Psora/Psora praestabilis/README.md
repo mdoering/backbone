@@ -1,5 +1,4 @@
-Psora praestabilis Lojka SPECIES
-=======
+# Psora praestabilis Lojka SPECIES
 
 #### Status
 ACCEPTED

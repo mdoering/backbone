@@ -1,8 +1,7 @@
-Lagenosolenia neosigmoidella McCulloch, 1977 SPECIES
-=======
+# Lagnea neosigmoidella (McCulloch, 1977) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

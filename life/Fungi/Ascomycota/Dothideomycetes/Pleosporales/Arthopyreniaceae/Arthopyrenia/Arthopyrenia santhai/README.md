@@ -1,5 +1,4 @@
-Arthopyrenia santhai Szatala SPECIES
-=======
+# Arthopyrenia santhai Szatala SPECIES
 
 #### Status
 ACCEPTED

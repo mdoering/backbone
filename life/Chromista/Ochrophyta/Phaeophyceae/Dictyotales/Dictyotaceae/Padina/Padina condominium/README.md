@@ -1,5 +1,4 @@
-Padina condominium Kraft, 2009 SPECIES
-=======
+# Padina condominium Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

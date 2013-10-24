@@ -1,5 +1,4 @@
-Weddellomyces xanthoparmeliae Calat. & Nav.-Ros. SPECIES
-=======
+# Weddellomyces xanthoparmeliae Calat. & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

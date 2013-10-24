@@ -1,5 +1,4 @@
-Cetraria elenkinii Krog SPECIES
-=======
+# Cetraria elenkinii Krog SPECIES
 
 #### Status
 ACCEPTED

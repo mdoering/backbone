@@ -1,5 +1,4 @@
-Boletus sinoaurantiacus M. Zang & R.H. Petersen SPECIES
-=======
+# Boletus sinoaurantiacus M. Zang & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epsilonproteobacteria CLASS
-=======
+# Epsilonproteobacteria CLASS
 
 #### Status
 ACCEPTED

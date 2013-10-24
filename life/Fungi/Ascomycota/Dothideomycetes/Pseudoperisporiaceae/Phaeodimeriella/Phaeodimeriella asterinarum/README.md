@@ -1,5 +1,4 @@
-Phaeodimeriella asterinarum (Speg.) Theiss. SPECIES
-=======
+# Phaeodimeriella asterinarum (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

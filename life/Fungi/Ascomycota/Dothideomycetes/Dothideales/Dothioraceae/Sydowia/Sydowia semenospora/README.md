@@ -1,5 +1,4 @@
-Sydowia semenospora A. Funk & Finck SPECIES
-=======
+# Sydowia semenospora A. Funk & Finck SPECIES
 
 #### Status
 ACCEPTED

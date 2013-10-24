@@ -1,5 +1,4 @@
-Texosporium Nádv. ex Tibell & Hofsten GENUS
-=======
+# Texosporium Nádv. ex Tibell & Hofsten GENUS
 
 #### Status
 ACCEPTED

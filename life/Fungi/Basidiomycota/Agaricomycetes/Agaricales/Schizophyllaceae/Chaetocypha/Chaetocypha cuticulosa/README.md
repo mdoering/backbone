@@ -1,5 +1,4 @@
-Chaetocypha cuticulosa (Dicks.) Kuntze SPECIES
-=======
+# Chaetocypha cuticulosa (Dicks.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

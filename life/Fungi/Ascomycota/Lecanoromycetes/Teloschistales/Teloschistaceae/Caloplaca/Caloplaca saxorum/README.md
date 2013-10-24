@@ -1,5 +1,4 @@
-Caloplaca saxorum (Flagey) Zahlbr. SPECIES
-=======
+# Caloplaca saxorum (Flagey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

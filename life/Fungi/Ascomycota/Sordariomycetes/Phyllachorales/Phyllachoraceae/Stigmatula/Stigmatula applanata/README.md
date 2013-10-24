@@ -1,5 +1,4 @@
-Stigmatula applanata Feltgen, 1903 SPECIES
-=======
+# Stigmatula applanata Feltgen, 1903 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella capucina Quél. SPECIES
-=======
+# Helvella capucina Quél. SPECIES
 
 #### Status
 ACCEPTED

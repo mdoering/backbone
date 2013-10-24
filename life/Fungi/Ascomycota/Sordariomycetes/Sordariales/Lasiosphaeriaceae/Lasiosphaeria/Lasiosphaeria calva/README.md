@@ -1,14 +1,13 @@
-Sphaeria calva Tode, 1790 SPECIES
-=======
+# Lasiosphaeria calva (Tode) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. mecklenb. sel. (Lüneburg) 1: (1790)
+Syll. fung. (Abellini) 2: 203 (1883)
 
 #### Original name
 Sphaeria calva Tode, 1790

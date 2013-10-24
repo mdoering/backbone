@@ -1,5 +1,4 @@
-Homoeothrix endophytica Lemmermann SPECIES
-=======
+# Homoeothrix endophytica Lemmermann SPECIES
 
 #### Status
 ACCEPTED

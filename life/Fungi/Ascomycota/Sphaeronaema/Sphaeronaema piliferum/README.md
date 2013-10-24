@@ -1,5 +1,4 @@
-Sphaeronaema piliferum Sacc. SPECIES
-=======
+# Sphaeronaema piliferum Sacc. SPECIES
 
 #### Status
 ACCEPTED

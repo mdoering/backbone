@@ -1,5 +1,4 @@
-Clitocybe attenuata Velen. SPECIES
-=======
+# Clitocybe attenuata Velen. SPECIES
 
 #### Status
 ACCEPTED

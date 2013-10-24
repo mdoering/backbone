@@ -1,5 +1,4 @@
-Mycena catalaunica Robich SPECIES
-=======
+# Mycena catalaunica Robich SPECIES
 
 #### Status
 ACCEPTED

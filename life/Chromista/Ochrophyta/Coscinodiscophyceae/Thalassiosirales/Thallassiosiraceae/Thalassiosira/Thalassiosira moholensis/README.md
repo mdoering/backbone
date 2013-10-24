@@ -1,5 +1,4 @@
-Thalassiosira moholensis (H. J. Schrader) F. Akiba & Y. Yanagisawa SPECIES
-=======
+# Thalassiosira moholensis (H. J. Schrader) F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

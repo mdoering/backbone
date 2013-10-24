@@ -1,5 +1,4 @@
-Amanita nothofagi G. Stev., 1962 SPECIES
-=======
+# Amanita nothofagi G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

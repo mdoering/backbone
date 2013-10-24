@@ -1,5 +1,4 @@
-Gemmuloides Samuelsson & Butterfield, 2001 GENUS
-=======
+# Gemmuloides Samuelsson & Butterfield, 2001 GENUS
 
 #### Status
 ACCEPTED

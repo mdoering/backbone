@@ -1,5 +1,4 @@
-Ingaderia friabillima Follmann & M. Schulz SPECIES
-=======
+# Ingaderia friabillima Follmann & M. Schulz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella perpusilla (Mont.) Sacc. SPECIES
-=======
+# Nectriella perpusilla (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

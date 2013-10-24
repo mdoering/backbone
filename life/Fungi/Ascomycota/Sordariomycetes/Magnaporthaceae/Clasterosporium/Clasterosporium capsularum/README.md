@@ -1,5 +1,4 @@
-Clasterosporium capsularum (Thüm.) Sacc. SPECIES
-=======
+# Clasterosporium capsularum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

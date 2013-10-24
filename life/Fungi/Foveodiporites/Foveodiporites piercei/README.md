@@ -1,5 +1,4 @@
-Foveodiporites piercei (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites piercei (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

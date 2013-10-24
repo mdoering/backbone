@@ -1,17 +1,16 @@
-Coprinus hansenii J.E. Lange, 1915 SPECIES
-=======
+# Parasola auricoma (Pat.) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 2(no. 3): 48 (1915)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
-Coprinus hansenii J.E. Lange, 1915
+Coprinus auricomus Pat., 1886
 
 ### Remarks
 null

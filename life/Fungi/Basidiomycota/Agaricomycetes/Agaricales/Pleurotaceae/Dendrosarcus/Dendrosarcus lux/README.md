@@ -1,5 +1,4 @@
-Dendrosarcus lux (Har.) Kuntze SPECIES
-=======
+# Dendrosarcus lux (Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

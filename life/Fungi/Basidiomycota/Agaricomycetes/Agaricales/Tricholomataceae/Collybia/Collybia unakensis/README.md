@@ -1,5 +1,4 @@
-Collybia unakensis (Murrill) Murrill SPECIES
-=======
+# Collybia unakensis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

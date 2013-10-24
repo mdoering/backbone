@@ -1,5 +1,4 @@
-Oidium lauracearum Graniti & U. Braun, 1998 SPECIES
-=======
+# Oidium lauracearum Graniti & U. Braun, 1998 SPECIES
 
 #### Status
 ACCEPTED

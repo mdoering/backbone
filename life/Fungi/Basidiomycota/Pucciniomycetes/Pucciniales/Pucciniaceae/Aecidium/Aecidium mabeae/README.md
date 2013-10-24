@@ -1,5 +1,4 @@
-Aecidium mabeae Thurst. SPECIES
-=======
+# Aecidium mabeae Thurst. SPECIES
 
 #### Status
 ACCEPTED

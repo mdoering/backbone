@@ -1,5 +1,4 @@
-Coronellaria castanopsidis Kanouse SPECIES
-=======
+# Coronellaria castanopsidis Kanouse SPECIES
 
 #### Status
 ACCEPTED

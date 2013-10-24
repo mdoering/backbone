@@ -1,5 +1,4 @@
-Kitasatospora nipponensis Groth et al., 2004 SPECIES
-=======
+# Kitasatospora nipponensis Groth et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

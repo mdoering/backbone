@@ -1,5 +1,4 @@
-Hyperphyscia pandani (H. Magn.) Moberg SPECIES
-=======
+# Hyperphyscia pandani (H. Magn.) Moberg SPECIES
 
 #### Status
 ACCEPTED

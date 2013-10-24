@@ -1,5 +1,4 @@
-Hyalopeziza suecica Nograsek & Matzer SPECIES
-=======
+# Hyalopeziza suecica Nograsek & Matzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcinella azadirachtae Meenu, S.K. Singh & R.K. Chaudhary SPECIES
-=======
+# Sarcinella azadirachtae Meenu, S.K. Singh & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

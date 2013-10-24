@@ -1,5 +1,4 @@
-Byssosphaeria erumpens Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
-=======
+# Byssosphaeria erumpens Chi Y. Chen & W.H. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

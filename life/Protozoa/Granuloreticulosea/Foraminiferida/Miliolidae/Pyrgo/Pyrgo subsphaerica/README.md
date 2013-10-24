@@ -1,5 +1,4 @@
-Pyrgo subsphaerica SPECIES
-=======
+# Pyrgo subsphaerica SPECIES
 
 #### Status
 ACCEPTED

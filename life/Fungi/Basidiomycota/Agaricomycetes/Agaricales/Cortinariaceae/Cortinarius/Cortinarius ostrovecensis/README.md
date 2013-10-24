@@ -1,5 +1,4 @@
-Cortinarius ostrovecensis Svrcek SPECIES
-=======
+# Cortinarius ostrovecensis Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria muelleriana Servít SPECIES
-=======
+# Verrucaria muelleriana Servít SPECIES
 
 #### Status
 ACCEPTED

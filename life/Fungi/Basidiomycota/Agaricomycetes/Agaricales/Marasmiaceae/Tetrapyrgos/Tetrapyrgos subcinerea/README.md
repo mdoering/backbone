@@ -1,17 +1,16 @@
-Marasmius subcinereus var. subcinereus VARIETY
-=======
+# Tetrapyrgos subcinerea (Berk. & Broome) E. Horak, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 39: 103 (1987)
 
 #### Original name
-Marasmius subcinereus var. subcinereus
+Marasmius subcinereus Berk. & Broome, 1875
 
 ### Remarks
 null

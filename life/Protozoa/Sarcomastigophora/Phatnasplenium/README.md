@@ -1,5 +1,4 @@
-Phatnasplenium Haeckel, 1887 GENUS
-=======
+# Phatnasplenium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

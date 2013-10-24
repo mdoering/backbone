@@ -1,5 +1,4 @@
-Cortinarius crassorum Rob. Henry SPECIES
-=======
+# Cortinarius crassorum Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

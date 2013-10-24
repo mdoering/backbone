@@ -1,5 +1,4 @@
-Multicellites didymus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites didymus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

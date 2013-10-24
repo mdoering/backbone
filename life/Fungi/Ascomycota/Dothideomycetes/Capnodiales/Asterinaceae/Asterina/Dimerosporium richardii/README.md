@@ -1,8 +1,7 @@
-Dimerosporium richardi (Thüm.) Sacc. SPECIES
-=======
+# Dimerosporium richardii (Thüm.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

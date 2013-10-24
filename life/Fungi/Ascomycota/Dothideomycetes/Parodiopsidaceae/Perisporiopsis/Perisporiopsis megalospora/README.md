@@ -1,5 +1,4 @@
-Perisporiopsis megalospora var. megalospora VARIETY
-=======
+# Perisporiopsis megalospora (Sacc. & Berl.) Arx SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(2): 174 (1962)
 
 #### Original name
-Perisporiopsis megalospora var. megalospora
+Nectria megalospora Sacc. & Berl.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Macrophoma celtidis Ellis & Everh. SPECIES
-=======
+# Botryodiplodia celtidis (Ellis & Everh.) Petr. & Syd., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Agron. lusit. 16(1): 12 (1954)
 
 #### Original name
-Macrophoma celtidis Ellis & Everh.
+Botryodiplodia celtidis (Ellis & Everh.) Petr. & Syd., 1926
 
 ### Remarks
 null

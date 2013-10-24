@@ -1,5 +1,4 @@
-Nosema costelytrae SPECIES
-=======
+# Nosema costelytrae SPECIES
 
 #### Status
 ACCEPTED

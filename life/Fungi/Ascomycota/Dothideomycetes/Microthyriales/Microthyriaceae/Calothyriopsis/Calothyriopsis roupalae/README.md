@@ -1,5 +1,4 @@
-Calothyriopsis roupalae (Syd.) Arx SPECIES
-=======
+# Calothyriopsis roupalae (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

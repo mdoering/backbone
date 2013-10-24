@@ -1,5 +1,4 @@
-Aecidium wulffiae Henn. SPECIES
-=======
+# Aecidium wulffiae Henn. SPECIES
 
 #### Status
 ACCEPTED

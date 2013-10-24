@@ -1,5 +1,4 @@
-Coralloides N.M. Wolf, 1776 GENUS
-=======
+# Coralloides N.M. Wolf, 1776 GENUS
 
 #### Status
 ACCEPTED

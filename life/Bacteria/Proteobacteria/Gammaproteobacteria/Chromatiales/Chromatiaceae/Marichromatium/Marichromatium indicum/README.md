@@ -1,5 +1,4 @@
-Marichromatium indicum Arunasri et al., 2005 SPECIES
-=======
+# Marichromatium indicum Arunasri et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

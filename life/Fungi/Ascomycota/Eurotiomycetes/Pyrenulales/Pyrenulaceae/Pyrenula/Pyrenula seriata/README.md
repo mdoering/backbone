@@ -1,5 +1,4 @@
-Pyrenula seriata (Hepp) Müll. Arg. SPECIES
-=======
+# Pyrenula seriata (Hepp) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

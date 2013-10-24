@@ -1,5 +1,4 @@
-Marasmius bubalinus Pegler SPECIES
-=======
+# Marasmius bubalinus Pegler SPECIES
 
 #### Status
 ACCEPTED

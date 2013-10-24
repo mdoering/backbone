@@ -1,5 +1,4 @@
-Alysidium pyrinum (Corda) Bonord. SPECIES
-=======
+# Alysidium pyrinum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

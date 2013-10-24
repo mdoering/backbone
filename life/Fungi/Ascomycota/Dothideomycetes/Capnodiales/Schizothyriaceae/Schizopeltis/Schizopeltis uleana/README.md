@@ -1,5 +1,4 @@
-Schizopeltis uleana (Syd.) Bat. SPECIES
-=======
+# Schizopeltis uleana (Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

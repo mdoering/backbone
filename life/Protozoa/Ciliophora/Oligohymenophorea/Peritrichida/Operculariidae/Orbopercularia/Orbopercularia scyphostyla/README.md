@@ -1,5 +1,4 @@
-Orbopercularia scyphostyla SPECIES
-=======
+# Orbopercularia scyphostyla SPECIES
 
 #### Status
 ACCEPTED

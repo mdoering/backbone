@@ -1,5 +1,4 @@
-Porina arnoldii Poelt & Vezda SPECIES
-=======
+# Porina arnoldii Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

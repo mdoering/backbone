@@ -1,5 +1,4 @@
-Sphenospora saphena Cummins SPECIES
-=======
+# Sphenospora saphena Cummins SPECIES
 
 #### Status
 ACCEPTED

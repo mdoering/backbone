@@ -1,5 +1,4 @@
-Calidia rhizophora Stirt. SPECIES
-=======
+# Calidia rhizophora Stirt. SPECIES
 
 #### Status
 ACCEPTED

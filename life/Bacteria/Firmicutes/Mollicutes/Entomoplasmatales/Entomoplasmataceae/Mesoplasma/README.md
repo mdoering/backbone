@@ -1,5 +1,4 @@
-Mesoplasma Tully, Bove, Laigret & Whitcomb, 1993 GENUS
-=======
+# Mesoplasma Tully, Bove, Laigret & Whitcomb, 1993 GENUS
 
 #### Status
 ACCEPTED

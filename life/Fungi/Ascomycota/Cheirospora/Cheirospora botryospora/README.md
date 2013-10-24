@@ -1,14 +1,13 @@
-Thyrsidium botryosporum f. botryosporum FORM
-=======
+# Cheirospora botryospora (Mont.) Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Durieu, Expl. Sci. Alg. , Bot. 1: 325 (1848)
+Ann. Mag. nat. Hist. , Ser. 2 5: 455 (1850)
 
 #### Original name
 Stilbospora botryosporum Mont., 1836

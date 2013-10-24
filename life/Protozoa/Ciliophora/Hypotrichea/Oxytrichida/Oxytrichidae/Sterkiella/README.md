@@ -1,5 +1,4 @@
-Sterkiella Foissner, Blatterer, Berger & Kohmann, 1991 GENUS
-=======
+# Sterkiella Foissner, Blatterer, Berger & Kohmann, 1991 GENUS
 
 #### Status
 ACCEPTED

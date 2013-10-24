@@ -1,5 +1,4 @@
-Peziza rosea Pers. SPECIES
-=======
+# Peziza rosea Pers. SPECIES
 
 #### Status
 ACCEPTED

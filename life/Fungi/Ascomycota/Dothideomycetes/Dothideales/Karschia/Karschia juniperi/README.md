@@ -1,5 +1,4 @@
-Karschia juniperi Velen. SPECIES
-=======
+# Karschia juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

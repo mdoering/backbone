@@ -1,5 +1,4 @@
-Puccinia morigera Cummins SPECIES
-=======
+# Puccinia morigera Cummins SPECIES
 
 #### Status
 ACCEPTED

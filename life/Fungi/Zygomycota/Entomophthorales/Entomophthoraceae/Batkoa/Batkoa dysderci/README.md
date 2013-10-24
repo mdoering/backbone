@@ -1,14 +1,13 @@
-Entomophthora dysderci (Viégas) D.M. MacLeod & Müll.-Kög., 1973 SPECIES
-=======
+# Batkoa dysderci (Viégas) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(4): 845 (1973)
+Mycotaxon 34(2): 446 (1989)
 
 #### Original name
 Empusa dysderci Viégas, 1939

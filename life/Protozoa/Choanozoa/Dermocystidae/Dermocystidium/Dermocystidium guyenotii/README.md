@@ -1,5 +1,4 @@
-Dermocystidium guyenotii Thélin {?} SPECIES
-=======
+# Dermocystidium guyenotii Thélin {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ancyromonas W.S.Kent GENUS
-=======
+# Ancyromonas W.S.Kent GENUS
 
 #### Status
 ACCEPTED

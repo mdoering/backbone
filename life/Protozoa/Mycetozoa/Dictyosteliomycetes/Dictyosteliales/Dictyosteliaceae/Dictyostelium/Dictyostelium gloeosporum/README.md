@@ -1,5 +1,4 @@
-Dictyostelium gloeosporum H. Hagiw., 2003 SPECIES
-=======
+# Dictyostelium gloeosporum H. Hagiw., 2003 SPECIES
 
 #### Status
 ACCEPTED

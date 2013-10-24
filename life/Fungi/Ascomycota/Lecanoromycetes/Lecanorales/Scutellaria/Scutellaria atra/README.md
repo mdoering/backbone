@@ -1,5 +1,4 @@
-Scutellaria atra (Huds.) Baumg. SPECIES
-=======
+# Scutellaria atra (Huds.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

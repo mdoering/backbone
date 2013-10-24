@@ -1,5 +1,4 @@
-Phaeodothis rapaneae Hansf. SPECIES
-=======
+# Phaeodothis rapaneae Hansf. SPECIES
 
 #### Status
 ACCEPTED

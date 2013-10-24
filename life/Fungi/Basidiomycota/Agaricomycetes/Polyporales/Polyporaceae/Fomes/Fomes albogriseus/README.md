@@ -1,5 +1,4 @@
-Fomes albogriseus Peck SPECIES
-=======
+# Fomes albogriseus Peck SPECIES
 
 #### Status
 ACCEPTED

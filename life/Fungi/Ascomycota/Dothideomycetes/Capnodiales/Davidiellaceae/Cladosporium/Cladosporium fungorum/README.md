@@ -1,5 +1,4 @@
-Cladosporium fungorum (Pers.) Roum. SPECIES
-=======
+# Cladosporium fungorum (Pers.) Roum. SPECIES
 
 #### Status
 ACCEPTED

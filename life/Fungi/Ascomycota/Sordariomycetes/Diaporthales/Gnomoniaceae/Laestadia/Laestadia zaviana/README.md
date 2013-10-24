@@ -1,5 +1,4 @@
-Laestadia zaviana Sacc. & Berl. SPECIES
-=======
+# Laestadia zaviana Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

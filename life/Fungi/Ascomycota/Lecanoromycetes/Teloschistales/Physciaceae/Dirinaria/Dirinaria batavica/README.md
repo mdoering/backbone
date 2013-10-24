@@ -1,5 +1,4 @@
-Dirinaria batavica D.D. Awasthi SPECIES
-=======
+# Dirinaria batavica D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

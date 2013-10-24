@@ -1,5 +1,4 @@
-Sporisorium ischaemi-anthephoroides (S. Ito) Vánky & Kakish. SPECIES
-=======
+# Sporisorium ischaemi-anthephoroides (S. Ito) Vánky & Kakish. SPECIES
 
 #### Status
 ACCEPTED

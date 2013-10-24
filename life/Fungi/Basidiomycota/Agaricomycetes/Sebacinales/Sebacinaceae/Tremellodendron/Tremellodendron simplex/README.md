@@ -1,5 +1,4 @@
-Tremellodendron simplex Burt SPECIES
-=======
+# Tremellodendron simplex Burt SPECIES
 
 #### Status
 ACCEPTED

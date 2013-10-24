@@ -1,5 +1,4 @@
-Coscinodiscus pavillardii Forti, 1922 SPECIES
-=======
+# Coscinodiscus pavillardii Forti, 1922 SPECIES
 
 #### Status
 ACCEPTED

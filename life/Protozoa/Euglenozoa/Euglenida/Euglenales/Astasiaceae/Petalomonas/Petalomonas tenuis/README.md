@@ -1,5 +1,4 @@
-Petalomonas tenuis Christen SPECIES
-=======
+# Petalomonas tenuis Christen SPECIES
 
 #### Status
 ACCEPTED

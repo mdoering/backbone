@@ -1,5 +1,4 @@
-Coniothyris GENUS
-=======
+# Coniothyris GENUS
 
 #### Status
 ACCEPTED

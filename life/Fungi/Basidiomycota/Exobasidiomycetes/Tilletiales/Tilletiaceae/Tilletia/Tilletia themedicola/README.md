@@ -1,5 +1,4 @@
-Tilletia themedicola Thirum. & Mishra SPECIES
-=======
+# Tilletia themedicola Thirum. & Mishra SPECIES
 
 #### Status
 ACCEPTED

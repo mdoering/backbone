@@ -1,5 +1,4 @@
-Enterostigma montagnei (Tuck.) Fink SPECIES
-=======
+# Enterostigma montagnei (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

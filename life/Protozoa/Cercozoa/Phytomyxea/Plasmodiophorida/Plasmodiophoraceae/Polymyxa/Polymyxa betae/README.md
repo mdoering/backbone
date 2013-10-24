@@ -1,17 +1,16 @@
-Polymyxa betae f. sp FORM
-=======
+# Polymyxa betae Keskin, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. phytopath. Soc. Japan 52(3): 400 (1986)
+Arch. Mikrobiol. 49: 370 (1964)
 
 #### Original name
-Polymyxa betae f. sp
+Polymyxa betae Keskin, 1964
 
 ### Remarks
 null

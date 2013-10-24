@@ -1,5 +1,4 @@
-Arthonia thelotrematis Coppins SPECIES
-=======
+# Arthonia thelotrematis Coppins SPECIES
 
 #### Status
 ACCEPTED

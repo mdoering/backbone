@@ -1,5 +1,4 @@
-Monosporium articulatum Bonord. SPECIES
-=======
+# Monosporium articulatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia hispanica Bubák & Gonz. Frag. SPECIES
-=======
+# Guignardia hispanica Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

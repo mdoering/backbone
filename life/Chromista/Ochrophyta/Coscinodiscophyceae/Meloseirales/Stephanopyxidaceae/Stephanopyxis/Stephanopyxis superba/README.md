@@ -1,5 +1,4 @@
-Stephanopyxis superba var. trispinosa A.M. Gombos VARIETY
-=======
+# Stephanopyxis superba SPECIES
 
 #### Status
 ACCEPTED

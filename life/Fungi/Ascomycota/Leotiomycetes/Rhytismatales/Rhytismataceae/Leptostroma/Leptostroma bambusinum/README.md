@@ -1,5 +1,4 @@
-Leptostroma bambusinum Delacr. SPECIES
-=======
+# Leptostroma bambusinum Delacr. SPECIES
 
 #### Status
 ACCEPTED

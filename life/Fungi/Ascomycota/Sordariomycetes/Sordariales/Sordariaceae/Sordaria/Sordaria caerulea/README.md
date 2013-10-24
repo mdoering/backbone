@@ -1,5 +1,4 @@
-Sordaria caerulea Petch SPECIES
-=======
+# Sordaria caerulea Petch SPECIES
 
 #### Status
 ACCEPTED

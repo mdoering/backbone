@@ -1,5 +1,4 @@
-Didymosphaeria stipae A.L. Guyot SPECIES
-=======
+# Didymosphaeria stipae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

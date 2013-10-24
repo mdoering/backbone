@@ -1,5 +1,4 @@
-Eutypella linearis Vizioli SPECIES
-=======
+# Eutypella linearis Vizioli SPECIES
 
 #### Status
 ACCEPTED

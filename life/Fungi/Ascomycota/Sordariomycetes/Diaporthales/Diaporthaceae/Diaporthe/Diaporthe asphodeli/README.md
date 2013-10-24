@@ -1,8 +1,7 @@
-Diaporthe asphodelea Sacc. SPECIES
-=======
+# Diaporthe asphodeli Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diaporthe asphodelea Sacc.
+Diaporthe asphodeli Sacc.
 
 ### Remarks
 null

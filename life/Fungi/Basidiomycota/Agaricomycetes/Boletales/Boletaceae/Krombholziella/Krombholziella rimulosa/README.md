@@ -1,5 +1,4 @@
-Krombholziella rimulosa (A.H. Sm. & Thiers) utara SPECIES
-=======
+# Krombholziella rimulosa (A.H. Sm. & Thiers) utara SPECIES
 
 #### Status
 ACCEPTED

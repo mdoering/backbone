@@ -1,5 +1,4 @@
-Cortinarius seponendus Rob. Henry SPECIES
-=======
+# Cortinarius seponendus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

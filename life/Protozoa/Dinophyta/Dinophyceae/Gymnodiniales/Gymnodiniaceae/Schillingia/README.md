@@ -1,5 +1,4 @@
-Schillingia J.Schiller, 1932 GENUS
-=======
+# Schillingia J.Schiller, 1932 GENUS
 
 #### Status
 ACCEPTED

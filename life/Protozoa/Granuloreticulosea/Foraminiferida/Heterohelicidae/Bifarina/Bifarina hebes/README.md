@@ -1,5 +1,4 @@
-Bifarina hebes SPECIES
-=======
+# Bifarina hebes SPECIES
 
 #### Status
 ACCEPTED

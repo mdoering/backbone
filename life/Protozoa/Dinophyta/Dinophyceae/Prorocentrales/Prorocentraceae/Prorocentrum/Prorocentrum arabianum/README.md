@@ -1,5 +1,4 @@
-Prorocentrum arabianum Morton & Faust SPECIES
-=======
+# Prorocentrum arabianum Morton & Faust SPECIES
 
 #### Status
 ACCEPTED

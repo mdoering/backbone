@@ -1,5 +1,4 @@
-Helotium nigromaculatum (Earle) Seaver SPECIES
-=======
+# Helotium nigromaculatum (Earle) Seaver SPECIES
 
 #### Status
 ACCEPTED

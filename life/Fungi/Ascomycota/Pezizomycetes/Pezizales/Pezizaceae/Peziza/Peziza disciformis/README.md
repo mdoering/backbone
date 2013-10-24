@@ -1,5 +1,4 @@
-Peziza disciformis Fr. SPECIES
-=======
+# Peziza disciformis Fr. SPECIES
 
 #### Status
 ACCEPTED

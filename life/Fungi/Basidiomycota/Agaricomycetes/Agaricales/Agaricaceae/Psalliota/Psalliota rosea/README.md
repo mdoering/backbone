@@ -1,5 +1,4 @@
-Psalliota rosea Velen. SPECIES
-=======
+# Psalliota rosea Velen. SPECIES
 
 #### Status
 ACCEPTED

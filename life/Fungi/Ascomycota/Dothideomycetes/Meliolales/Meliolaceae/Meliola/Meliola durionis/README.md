@@ -1,5 +1,4 @@
-Meliola durionis Hansf. SPECIES
-=======
+# Meliola durionis Hansf. SPECIES
 
 #### Status
 ACCEPTED

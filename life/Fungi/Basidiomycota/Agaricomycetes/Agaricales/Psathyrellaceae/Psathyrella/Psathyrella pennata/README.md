@@ -1,17 +1,16 @@
-Agaricus pennatus var. pennatus VARIETY
-=======
+# Psathyrella pennata (Fr.) A. Pearson & Dennis, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 31: 184 (1948)
 
 #### Original name
-null
+Agaricus pennatus Fr., 1821
 
 ### Remarks
 null

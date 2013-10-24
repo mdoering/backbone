@@ -1,5 +1,4 @@
-Campylobacter insulaenigrae Foster et al., 2004 SPECIES
-=======
+# Campylobacter insulaenigrae Foster et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

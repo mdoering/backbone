@@ -1,5 +1,4 @@
-Sporonema pallidum Ellis & Everh. SPECIES
-=======
+# Sporonema pallidum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus velutipes var. velutipes VARIETY
-=======
+# Flammulina velutipes (Curtis Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Londin. 2: tab. 213 (1782)
+null
 
 #### Original name
-Agaricus velutipes var. velutipes
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Choanophrya Hartog, 1902 GENUS
-=======
+# Choanophrya Hartog, 1902 GENUS
 
 #### Status
 ACCEPTED

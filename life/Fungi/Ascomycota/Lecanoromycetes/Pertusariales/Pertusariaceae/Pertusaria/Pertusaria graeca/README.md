@@ -1,5 +1,4 @@
-Pertusaria graeca Erichsen SPECIES
-=======
+# Pertusaria graeca Erichsen SPECIES
 
 #### Status
 ACCEPTED

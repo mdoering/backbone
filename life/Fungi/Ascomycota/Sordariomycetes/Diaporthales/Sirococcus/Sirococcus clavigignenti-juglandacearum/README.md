@@ -1,5 +1,4 @@
-Sirococcus clavigignenti-juglandacearum N.B. Nair, Kostichka & J.E. Kuntze, 1979 SPECIES
-=======
+# Sirococcus clavigignenti-juglandacearum N.B. Nair, Kostichka & J.E. Kuntze, 1979 SPECIES
 
 #### Status
 ACCEPTED

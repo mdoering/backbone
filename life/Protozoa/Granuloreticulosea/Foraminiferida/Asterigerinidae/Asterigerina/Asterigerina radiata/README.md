@@ -1,5 +1,4 @@
-Asterigerina radiata SPECIES
-=======
+# Asterigerina radiata SPECIES
 
 #### Status
 ACCEPTED

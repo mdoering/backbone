@@ -1,8 +1,7 @@
-Gloeosporium albi-macula Speg. SPECIES
-=======
+# Gloeosporium albomacula Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium albi-macula Speg.
+Gloeosporium albomacula Speg.
 
 ### Remarks
 null

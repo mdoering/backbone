@@ -1,8 +1,7 @@
-Lecidea petsamoënsis Räsänen SPECIES
-=======
+# Lecidea petsamoensis Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea petsamoënsis Räsänen
+Lecidea petsamoensis Räsänen
 
 ### Remarks
 null

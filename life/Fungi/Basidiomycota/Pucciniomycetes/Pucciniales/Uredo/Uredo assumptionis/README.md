@@ -1,5 +1,4 @@
-Uredo assumptionis Speg. SPECIES
-=======
+# Uredo assumptionis Speg. SPECIES
 
 #### Status
 ACCEPTED

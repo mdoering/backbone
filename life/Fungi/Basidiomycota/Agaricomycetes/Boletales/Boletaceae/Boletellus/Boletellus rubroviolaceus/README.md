@@ -1,5 +1,4 @@
-Boletellus rubroviolaceus Heinem. & Gooss.-Font. SPECIES
-=======
+# Boletellus rubroviolaceus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

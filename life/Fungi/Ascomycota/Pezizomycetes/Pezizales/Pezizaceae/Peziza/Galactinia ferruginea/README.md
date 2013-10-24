@@ -1,5 +1,4 @@
-Galactinia ferruginea (Fuckel) Le Gal SPECIES
-=======
+# Galactinia ferruginea (Fuckel) Le Gal SPECIES
 
 #### Status
 ACCEPTED

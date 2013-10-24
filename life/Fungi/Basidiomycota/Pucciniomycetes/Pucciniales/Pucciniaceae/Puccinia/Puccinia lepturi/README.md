@@ -1,5 +1,4 @@
-Puccinia lepturi Hirats. f. SPECIES
-=======
+# Puccinia lepturi Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

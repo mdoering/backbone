@@ -1,5 +1,4 @@
-Ramaria ochrochlora Furrer-Ziogas & Schild, 1971 SPECIES
-=======
+# Ramaria ochrochlora Furrer-Ziogas & Schild, 1971 SPECIES
 
 #### Status
 ACCEPTED

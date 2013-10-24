@@ -1,5 +1,4 @@
-Clathrella crispa (Turpin) E. Fisch. SPECIES
-=======
+# Clathrella crispa (Turpin) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

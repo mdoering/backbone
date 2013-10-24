@@ -1,17 +1,16 @@
-Neofuscelia imatatricoides Elix SPECIES
-=======
+# Xanthoparmelia imitratricoides (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Taxon 53: 968 (2004)
 
 #### Original name
-Neofuscelia imatatricoides Elix
+Neofuscelia imitatricoides Elix
 
 ### Remarks
 null

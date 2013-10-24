@@ -1,5 +1,4 @@
-Thekopsora tripetaleiae Hirats. f. SPECIES
-=======
+# Thekopsora tripetaleiae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

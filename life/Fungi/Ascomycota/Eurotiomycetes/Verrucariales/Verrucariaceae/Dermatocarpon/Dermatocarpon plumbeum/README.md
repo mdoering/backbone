@@ -1,5 +1,4 @@
-Dermatocarpon plumbeum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon plumbeum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

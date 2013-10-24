@@ -1,5 +1,4 @@
-Ciboria lilacina Boud. & Torrend SPECIES
-=======
+# Ciboria lilacina Boud. & Torrend SPECIES
 
 #### Status
 ACCEPTED

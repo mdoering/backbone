@@ -1,5 +1,4 @@
-Metasphaeria aquinalis (Lév.) Sacc. SPECIES
-=======
+# Metasphaeria aquinalis (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

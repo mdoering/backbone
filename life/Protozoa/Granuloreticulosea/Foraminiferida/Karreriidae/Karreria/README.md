@@ -1,14 +1,13 @@
-Vagocibicides Finlay, 1939 GENUS
-=======
+# Karreria Rzehak, 1895 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
-null
+Ann. Hofmus. Wien, 10, 226.
 
 #### Original name
 null

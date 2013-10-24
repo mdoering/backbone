@@ -1,5 +1,4 @@
-Lophiostoma ulicis Nitschke, 1886 SPECIES
-=======
+# Lophiostoma ulicis Nitschke, 1886 SPECIES
 
 #### Status
 ACCEPTED

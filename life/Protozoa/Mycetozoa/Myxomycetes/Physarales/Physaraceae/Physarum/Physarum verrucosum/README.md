@@ -1,5 +1,4 @@
-Physarum verrucosum Link SPECIES
-=======
+# Physarum verrucosum Link SPECIES
 
 #### Status
 ACCEPTED

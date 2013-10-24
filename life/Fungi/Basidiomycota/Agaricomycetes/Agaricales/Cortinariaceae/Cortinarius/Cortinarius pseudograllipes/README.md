@@ -1,5 +1,4 @@
-Cortinarius pseudograllipes Herp. SPECIES
-=======
+# Cortinarius pseudograllipes Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nannoconus quadriangulus subsp. apertus SUBSPECIES
-=======
+# Nannoconus quadriangulus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus aleuritidis Reichardt SPECIES
-=======
+# Polystictus aleuritidis Reichardt SPECIES
 
 #### Status
 ACCEPTED

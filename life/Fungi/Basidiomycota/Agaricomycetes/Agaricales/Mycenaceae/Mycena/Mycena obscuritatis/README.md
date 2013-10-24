@@ -1,5 +1,4 @@
-Mycena obscuritatis Corner SPECIES
-=======
+# Mycena obscuritatis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calculites additus (Wind & Wise in Wise & Wind, 1977) Perch-Nielsen, 1984 SPECIES
-=======
+# Calculites additus (Wind & Wise in Wise & Wind, 1977) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

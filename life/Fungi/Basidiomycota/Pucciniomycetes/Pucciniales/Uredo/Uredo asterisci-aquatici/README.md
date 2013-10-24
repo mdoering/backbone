@@ -1,14 +1,13 @@
-Uredo aquati (Sacc.) Gjaerum SPECIES
-=======
+# Uredo asterisci-aquatici (Sacc.) Gjaerum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lidia 3(1): 29 (1990)
 
 #### Original name
 Coleosporium carpesii var. asterisci-aquatici Sacc.

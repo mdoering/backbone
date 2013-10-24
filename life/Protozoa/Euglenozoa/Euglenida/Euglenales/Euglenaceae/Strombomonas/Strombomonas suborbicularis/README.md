@@ -1,5 +1,4 @@
-Strombomonas suborbicularis S.L. Xie, L.C. Qiu & Y.J. Ling SPECIES
-=======
+# Strombomonas suborbicularis S.L. Xie, L.C. Qiu & Y.J. Ling SPECIES
 
 #### Status
 ACCEPTED

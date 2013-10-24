@@ -1,5 +1,4 @@
-Anthracothecium albescens (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium albescens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

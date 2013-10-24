@@ -1,5 +1,4 @@
-Diplodia suttonii S. Ahmad SPECIES
-=======
+# Diplodia suttonii S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

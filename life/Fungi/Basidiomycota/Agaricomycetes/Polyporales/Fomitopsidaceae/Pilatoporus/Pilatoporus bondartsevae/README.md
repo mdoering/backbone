@@ -1,5 +1,4 @@
-Pilatoporus bondartsevae (Spirin) Spirin SPECIES
-=======
+# Pilatoporus bondartsevae (Spirin) Spirin SPECIES
 
 #### Status
 ACCEPTED

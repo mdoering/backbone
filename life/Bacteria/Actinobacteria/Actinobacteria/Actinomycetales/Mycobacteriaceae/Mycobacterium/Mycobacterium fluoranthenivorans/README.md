@@ -1,5 +1,4 @@
-Mycobacterium fluoranthenivorans Hormisch et al., 2006 SPECIES
-=======
+# Mycobacterium fluoranthenivorans Hormisch et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

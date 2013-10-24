@@ -1,5 +1,4 @@
-Thelidiomyces amylacei Cif. & Tomas. SPECIES
-=======
+# Thelidiomyces amylacei Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

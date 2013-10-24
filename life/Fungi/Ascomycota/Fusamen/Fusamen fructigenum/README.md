@@ -1,14 +1,13 @@
-Platycarpium fructigenum P. Karst., 1905 SPECIES
-=======
+# Fusamen fructigenum (P. Karst.) Arx, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 27(no. 4): 10 (1905)
+Verh. K. Akad. Wet. , tweede sect. 51(3): 21 (1957)
 
 #### Original name
 Platycarpium fructigenum P. Karst., 1905

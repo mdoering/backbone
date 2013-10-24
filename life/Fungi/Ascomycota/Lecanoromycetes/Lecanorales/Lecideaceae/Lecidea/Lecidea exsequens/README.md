@@ -1,5 +1,4 @@
-Lecidea exsequens Nyl. SPECIES
-=======
+# Lecidea exsequens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurosirella berolinensis (Lemmermann) Bukhtiyarova SPECIES
-=======
+# Staurosirella berolinensis (Lemmermann) Bukhtiyarova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium nigrellum Cooke & Ellis SPECIES
-=======
+# Macrosporium nigrellum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

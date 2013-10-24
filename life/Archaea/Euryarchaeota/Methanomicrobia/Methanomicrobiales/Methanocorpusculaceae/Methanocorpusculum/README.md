@@ -1,5 +1,4 @@
-Methanocorpusculum Zellner et al., 1988 GENUS
-=======
+# Methanocorpusculum Zellner et al., 1988 GENUS
 
 #### Status
 ACCEPTED

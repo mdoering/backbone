@@ -1,5 +1,4 @@
-Cetrariastrum pseudonepalense (Hale & M. Wirth) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetrariastrum pseudonepalense (Hale & M. Wirth) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

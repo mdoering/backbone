@@ -1,5 +1,4 @@
-Methylosphaera Bowman et al., 1998 GENUS
-=======
+# Methylosphaera Bowman et al., 1998 GENUS
 
 #### Status
 ACCEPTED

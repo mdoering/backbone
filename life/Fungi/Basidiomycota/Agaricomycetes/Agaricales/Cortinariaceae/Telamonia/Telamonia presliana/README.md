@@ -1,5 +1,4 @@
-Telamonia presliana Velen. SPECIES
-=======
+# Telamonia presliana Velen. SPECIES
 
 #### Status
 ACCEPTED

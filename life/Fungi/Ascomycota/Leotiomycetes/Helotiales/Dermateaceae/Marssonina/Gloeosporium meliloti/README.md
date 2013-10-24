@@ -1,5 +1,4 @@
-Gloeosporium meliloti Trel. SPECIES
-=======
+# Gloeosporium meliloti Trel. SPECIES
 
 #### Status
 ACCEPTED

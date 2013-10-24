@@ -1,5 +1,4 @@
-Ceuthospora palmicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Ceuthospora palmicola Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

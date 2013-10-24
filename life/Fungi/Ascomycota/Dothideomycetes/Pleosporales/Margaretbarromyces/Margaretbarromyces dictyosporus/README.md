@@ -1,5 +1,4 @@
-Margaretbarromyces dictyosporus Mindell, Currah, Stockey & G. Beard, 2007 SPECIES
-=======
+# Margaretbarromyces dictyosporus Mindell, Currah, Stockey & G. Beard, 2007 SPECIES
 
 #### Status
 ACCEPTED

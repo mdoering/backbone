@@ -1,5 +1,4 @@
-Gyromitra pratensis Velen. SPECIES
-=======
+# Gyromitra pratensis Velen. SPECIES
 
 #### Status
 ACCEPTED

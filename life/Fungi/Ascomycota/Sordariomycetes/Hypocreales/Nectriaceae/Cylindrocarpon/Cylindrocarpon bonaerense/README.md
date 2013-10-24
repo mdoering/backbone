@@ -1,5 +1,4 @@
-Cylindrocarpon bonaerense Brayford & C. Booth SPECIES
-=======
+# Cylindrocarpon bonaerense Brayford & C. Booth SPECIES
 
 #### Status
 ACCEPTED

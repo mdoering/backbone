@@ -1,5 +1,4 @@
-Arthonia loandensis Vain. SPECIES
-=======
+# Arthonia loandensis Vain. SPECIES
 
 #### Status
 ACCEPTED

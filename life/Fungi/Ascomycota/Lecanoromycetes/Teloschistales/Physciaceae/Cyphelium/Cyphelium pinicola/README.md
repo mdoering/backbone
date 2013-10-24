@@ -1,5 +1,4 @@
-Cyphelium pinicola Tibell SPECIES
-=======
+# Cyphelium pinicola Tibell SPECIES
 
 #### Status
 ACCEPTED

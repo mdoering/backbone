@@ -1,5 +1,4 @@
-Frigidispora K.D. Hyde & Goh GENUS
-=======
+# Frigidispora K.D. Hyde & Goh GENUS
 
 #### Status
 ACCEPTED

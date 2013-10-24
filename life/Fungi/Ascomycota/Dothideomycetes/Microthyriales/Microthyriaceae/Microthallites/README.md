@@ -1,5 +1,4 @@
-Microthallites Dilcher GENUS
-=======
+# Microthallites Dilcher GENUS
 
 #### Status
 ACCEPTED

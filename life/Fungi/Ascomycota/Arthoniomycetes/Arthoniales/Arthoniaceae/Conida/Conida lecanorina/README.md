@@ -1,5 +1,4 @@
-Conida lecanorina (Almq.) Rehm SPECIES
-=======
+# Conida lecanorina (Almq.) Rehm SPECIES
 
 #### Status
 ACCEPTED

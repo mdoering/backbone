@@ -1,5 +1,4 @@
-Aposphaeria salicis Died. SPECIES
-=======
+# Aposphaeria salicis Died. SPECIES
 
 #### Status
 ACCEPTED

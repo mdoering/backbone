@@ -1,5 +1,4 @@
-Monilia aurantiaca Peck & Sacc. SPECIES
-=======
+# Monilia aurantiaca Peck & Sacc. SPECIES
 
 #### Status
 ACCEPTED

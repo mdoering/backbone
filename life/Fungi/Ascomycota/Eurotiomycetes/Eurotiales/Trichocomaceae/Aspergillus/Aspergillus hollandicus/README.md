@@ -1,5 +1,4 @@
-Aspergillus hollandicus Samson & W. Gams SPECIES
-=======
+# Aspergillus hollandicus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

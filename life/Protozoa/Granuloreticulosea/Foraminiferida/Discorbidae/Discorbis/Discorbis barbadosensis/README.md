@@ -1,5 +1,4 @@
-Discorbis barbadosensis SPECIES
-=======
+# Discorbis barbadosensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudostictodiscus Grunow ex Schmidt et al., 1882 GENUS
-=======
+# Pseudostictodiscus Grunow ex Schmidt et al., 1882 GENUS
 
 #### Status
 ACCEPTED

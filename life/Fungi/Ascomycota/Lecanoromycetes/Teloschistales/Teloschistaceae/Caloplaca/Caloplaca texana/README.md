@@ -1,5 +1,4 @@
-Caloplaca texana Wetmore & Kärnefelt SPECIES
-=======
+# Caloplaca texana Wetmore & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

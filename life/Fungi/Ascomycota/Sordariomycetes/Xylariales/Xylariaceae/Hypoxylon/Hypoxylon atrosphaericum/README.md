@@ -1,5 +1,4 @@
-Hypoxylon atrosphaericum Cooke & Massee SPECIES
-=======
+# Hypoxylon atrosphaericum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

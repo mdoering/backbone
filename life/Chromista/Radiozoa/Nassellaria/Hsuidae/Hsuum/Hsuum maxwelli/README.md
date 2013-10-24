@@ -1,5 +1,4 @@
-Hsuum maxwelli SPECIES
-=======
+# Hsuum maxwelli SPECIES
 
 #### Status
 ACCEPTED

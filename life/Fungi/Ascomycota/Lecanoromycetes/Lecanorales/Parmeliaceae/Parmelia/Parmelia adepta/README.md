@@ -1,5 +1,4 @@
-Parmelia adepta Cromb. SPECIES
-=======
+# Parmelia adepta Cromb. SPECIES
 
 #### Status
 ACCEPTED

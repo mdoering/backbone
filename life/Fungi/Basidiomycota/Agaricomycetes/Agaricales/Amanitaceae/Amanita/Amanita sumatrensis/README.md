@@ -1,5 +1,4 @@
-Amanita sumatrensis Boedijn SPECIES
-=======
+# Amanita sumatrensis Boedijn SPECIES
 
 #### Status
 ACCEPTED

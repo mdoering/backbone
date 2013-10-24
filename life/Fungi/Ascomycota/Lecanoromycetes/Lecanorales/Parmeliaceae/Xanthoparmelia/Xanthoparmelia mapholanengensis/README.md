@@ -1,5 +1,4 @@
-Xanthoparmelia mapholanengensis Hale SPECIES
-=======
+# Xanthoparmelia mapholanengensis Hale SPECIES
 
 #### Status
 ACCEPTED

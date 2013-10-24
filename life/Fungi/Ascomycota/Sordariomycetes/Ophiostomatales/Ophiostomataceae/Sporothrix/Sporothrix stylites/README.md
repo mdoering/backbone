@@ -1,5 +1,4 @@
-Sporothrix stylites De Meyer, Z.W. de Beer & M.J. Wingf. SPECIES
-=======
+# Sporothrix stylites De Meyer, Z.W. de Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deltopylum rhabdoides Faure-Fremiet & Mugard, 1946 SPECIES
-=======
+# Deltopylum rhabdoides Faure-Fremiet & Mugard, 1946 SPECIES
 
 #### Status
 ACCEPTED

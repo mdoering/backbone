@@ -1,5 +1,4 @@
-Campsotrichum album Bonord. SPECIES
-=======
+# Campsotrichum album Bonord. SPECIES
 
 #### Status
 ACCEPTED

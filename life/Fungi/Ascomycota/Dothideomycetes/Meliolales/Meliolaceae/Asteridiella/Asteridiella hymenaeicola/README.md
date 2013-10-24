@@ -1,5 +1,4 @@
-Asteridiella hymenaeicola (Gonz. Frag. & Cif.) Bat. & Maia SPECIES
-=======
+# Asteridiella hymenaeicola (Gonz. Frag. & Cif.) Bat. & Maia SPECIES
 
 #### Status
 ACCEPTED

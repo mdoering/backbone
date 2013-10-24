@@ -1,5 +1,4 @@
-Gyalectidium atrosquamulatum Lücking & Kalb SPECIES
-=======
+# Gyalectidium atrosquamulatum Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

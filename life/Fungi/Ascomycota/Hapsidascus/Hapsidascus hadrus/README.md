@@ -1,5 +1,4 @@
-Hapsidascus hadrus Kohlm. & Volkm.-Kohlm., 1991 SPECIES
-=======
+# Hapsidascus hadrus Kohlm. & Volkm.-Kohlm., 1991 SPECIES
 
 #### Status
 ACCEPTED

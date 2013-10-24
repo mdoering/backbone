@@ -1,5 +1,4 @@
-Mangrovispora pemphii K.D. Hyde & Nakagiri, 1991 SPECIES
-=======
+# Mangrovispora pemphii K.D. Hyde & Nakagiri, 1991 SPECIES
 
 #### Status
 ACCEPTED

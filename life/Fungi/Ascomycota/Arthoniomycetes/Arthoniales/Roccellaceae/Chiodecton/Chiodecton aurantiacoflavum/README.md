@@ -1,5 +1,4 @@
-Chiodecton aurantiacoflavum B. de Lesd. SPECIES
-=======
+# Chiodecton aurantiacoflavum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

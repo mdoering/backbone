@@ -1,5 +1,4 @@
-Rozella endochytrii Karling SPECIES
-=======
+# Rozella endochytrii Karling SPECIES
 
 #### Status
 ACCEPTED

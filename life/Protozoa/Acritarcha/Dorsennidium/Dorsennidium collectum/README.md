@@ -1,5 +1,4 @@
-Dorsennidium collectum (Wall, 1965) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Dorsennidium collectum (Wall, 1965) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

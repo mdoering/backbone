@@ -1,5 +1,4 @@
-Chordecystia C.B. Foster GENUS
-=======
+# Chordecystia C.B. Foster GENUS
 
 #### Status
 ACCEPTED

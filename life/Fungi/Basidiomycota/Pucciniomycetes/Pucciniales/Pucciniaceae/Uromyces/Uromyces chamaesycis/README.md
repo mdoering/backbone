@@ -1,5 +1,4 @@
-Uromyces chamaesycis Sacc. SPECIES
-=======
+# Uromyces chamaesycis Sacc. SPECIES
 
 #### Status
 ACCEPTED

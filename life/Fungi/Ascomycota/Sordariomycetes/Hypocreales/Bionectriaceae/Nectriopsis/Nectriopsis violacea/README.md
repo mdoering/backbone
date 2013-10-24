@@ -1,14 +1,13 @@
-Peckiella violacea (J.C. Schmidt ex Fr.) Sacc., 1891 SPECIES
-=======
+# Nectriopsis violacea (J.C. Schmidt ex Fr.) Maire, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 945 (1891)
+Annls mycol. 9(4): 323 (1911)
 
 #### Original name
 Sphaeria violacea J.C. Schmidt ex Fr., 1823

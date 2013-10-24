@@ -1,5 +1,4 @@
-Dothiora mali P. Karst. SPECIES
-=======
+# Dothiora mali P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schiffnerula paraparensis Toro SPECIES
-=======
+# Schiffnerula paraparensis Toro SPECIES
 
 #### Status
 ACCEPTED

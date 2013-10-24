@@ -1,5 +1,4 @@
-Nephroma sorediatum Elenkin SPECIES
-=======
+# Nephroma sorediatum Elenkin SPECIES
 
 #### Status
 ACCEPTED

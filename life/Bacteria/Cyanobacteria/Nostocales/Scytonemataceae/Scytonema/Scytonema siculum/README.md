@@ -1,5 +1,4 @@
-Scytonema siculum Borzi SPECIES
-=======
+# Scytonema siculum Borzi SPECIES
 
 #### Status
 ACCEPTED

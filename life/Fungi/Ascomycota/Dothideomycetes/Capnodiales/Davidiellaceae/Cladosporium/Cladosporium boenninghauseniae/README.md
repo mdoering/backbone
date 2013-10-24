@@ -1,5 +1,4 @@
-Cladosporium boenninghauseniae Togashi & Katsuki SPECIES
-=======
+# Cladosporium boenninghauseniae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea spumarioidea Cooke & Massee SPECIES
-=======
+# Licea spumarioidea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

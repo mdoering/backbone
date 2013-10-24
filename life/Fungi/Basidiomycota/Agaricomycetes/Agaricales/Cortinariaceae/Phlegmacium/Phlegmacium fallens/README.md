@@ -1,5 +1,4 @@
-Phlegmacium fallens Hruby SPECIES
-=======
+# Phlegmacium fallens Hruby SPECIES
 
 #### Status
 ACCEPTED

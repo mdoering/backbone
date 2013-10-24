@@ -1,5 +1,4 @@
-Xanthoparmelia filsonii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia filsonii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

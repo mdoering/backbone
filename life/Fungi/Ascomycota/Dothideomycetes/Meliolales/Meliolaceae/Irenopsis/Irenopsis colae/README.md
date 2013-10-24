@@ -1,5 +1,4 @@
-Irenopsis colae Hansf. SPECIES
-=======
+# Irenopsis colae Hansf. SPECIES
 
 #### Status
 ACCEPTED

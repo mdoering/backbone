@@ -1,5 +1,4 @@
-Aphanothece clathratiformis var. maior Liebetanz VARIETY
-=======
+# Aphanothece clathratiformis SPECIES
 
 #### Status
 ACCEPTED

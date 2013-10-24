@@ -1,5 +1,4 @@
-Melanconium rusci Cooke & Massee SPECIES
-=======
+# Melanconium rusci Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

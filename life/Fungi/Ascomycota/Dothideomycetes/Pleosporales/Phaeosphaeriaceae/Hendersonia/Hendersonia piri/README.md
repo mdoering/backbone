@@ -1,5 +1,4 @@
-Hendersonia piri Fuckel SPECIES
-=======
+# Hendersonia piri Fuckel SPECIES
 
 #### Status
 ACCEPTED

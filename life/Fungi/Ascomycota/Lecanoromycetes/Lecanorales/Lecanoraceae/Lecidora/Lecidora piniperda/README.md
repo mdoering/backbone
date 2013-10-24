@@ -1,5 +1,4 @@
-Lecidora piniperda Motyka SPECIES
-=======
+# Lecidora piniperda Motyka SPECIES
 
 #### Status
 ACCEPTED

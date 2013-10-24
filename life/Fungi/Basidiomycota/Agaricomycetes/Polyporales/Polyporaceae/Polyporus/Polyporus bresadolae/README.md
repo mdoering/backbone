@@ -1,5 +1,4 @@
-Polyporus bresadolae Schulzer SPECIES
-=======
+# Polyporus bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

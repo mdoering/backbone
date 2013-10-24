@@ -1,5 +1,4 @@
-Puccinia conspersa var. conspersa VARIETY
-=======
+# Puccinia conspersa Dietel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 36: 30 (1897)
 
 #### Original name
-Puccinia conspersa var. conspersa
+Puccinia conspersa Dietel
 
 ### Remarks
 null

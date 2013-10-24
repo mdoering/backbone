@@ -1,5 +1,4 @@
-Strombidium armatum Bürger, 1908 SPECIES
-=======
+# Strombidium armatum Bürger, 1908 SPECIES
 
 #### Status
 ACCEPTED

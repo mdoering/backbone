@@ -1,5 +1,4 @@
-Distephanus trioctus D. Bukry SPECIES
-=======
+# Distephanus trioctus D. Bukry SPECIES
 
 #### Status
 ACCEPTED

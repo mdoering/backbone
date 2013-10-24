@@ -1,5 +1,4 @@
-Phaeocollybia columbiana Singer SPECIES
-=======
+# Phaeocollybia columbiana Singer SPECIES
 
 #### Status
 ACCEPTED

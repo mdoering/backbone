@@ -1,5 +1,4 @@
-Diaphanopellis forrestii P.E. Crane, 2005 SPECIES
-=======
+# Diaphanopellis forrestii P.E. Crane, 2005 SPECIES
 
 #### Status
 ACCEPTED

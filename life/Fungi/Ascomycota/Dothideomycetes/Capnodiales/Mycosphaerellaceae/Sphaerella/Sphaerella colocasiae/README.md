@@ -1,5 +1,4 @@
-Sphaerella colocasiae (Hara) Sacc. SPECIES
-=======
+# Sphaerella colocasiae (Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

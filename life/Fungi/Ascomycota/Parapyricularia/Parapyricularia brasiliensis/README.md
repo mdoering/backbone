@@ -1,5 +1,4 @@
-Parapyricularia brasiliensis A.M.F. Silva, M.A.G. Barbosa, M. Menezes & M.P.S. Câmara SPECIES
-=======
+# Parapyricularia brasiliensis A.M.F. Silva, M.A.G. Barbosa, M. Menezes & M.P.S. Câmara SPECIES
 
 #### Status
 ACCEPTED

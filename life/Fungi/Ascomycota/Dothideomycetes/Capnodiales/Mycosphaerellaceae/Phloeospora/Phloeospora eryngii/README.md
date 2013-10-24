@@ -1,5 +1,4 @@
-Phloeospora eryngii Magnus SPECIES
-=======
+# Phloeospora eryngii Magnus SPECIES
 
 #### Status
 ACCEPTED

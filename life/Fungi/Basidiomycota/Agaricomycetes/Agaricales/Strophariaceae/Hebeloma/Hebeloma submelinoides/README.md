@@ -1,5 +1,4 @@
-Hebeloma submelinoides (Kühner) Kühner SPECIES
-=======
+# Hebeloma submelinoides (Kühner) Kühner SPECIES
 
 #### Status
 ACCEPTED

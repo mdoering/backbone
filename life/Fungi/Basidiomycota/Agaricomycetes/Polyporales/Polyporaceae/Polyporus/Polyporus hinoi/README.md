@@ -1,5 +1,4 @@
-Polyporus hinoi S. Ito & S. Imai SPECIES
-=======
+# Polyporus hinoi S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

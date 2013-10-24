@@ -1,5 +1,4 @@
-Cheleutochroa venosa Uutela & Tynni, 1991 SPECIES
-=======
+# Cheleutochroa venosa Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

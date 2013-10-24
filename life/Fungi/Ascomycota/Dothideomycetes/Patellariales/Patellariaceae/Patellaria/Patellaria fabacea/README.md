@@ -1,5 +1,4 @@
-Patellaria fabacea Müll. Arg. SPECIES
-=======
+# Patellaria fabacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

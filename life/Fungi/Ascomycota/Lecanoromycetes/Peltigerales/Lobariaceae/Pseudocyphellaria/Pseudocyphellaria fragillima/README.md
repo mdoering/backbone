@@ -1,5 +1,4 @@
-Pseudocyphellaria fragillima (Bab.) W. Martin SPECIES
-=======
+# Pseudocyphellaria fragillima (Bab.) W. Martin SPECIES
 
 #### Status
 ACCEPTED

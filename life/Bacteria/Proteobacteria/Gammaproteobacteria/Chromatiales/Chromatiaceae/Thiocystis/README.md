@@ -1,14 +1,13 @@
-Thiothece Winogradsky, 1888 GENUS
-=======
+# Thiocystis Winogradsky, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Winogradsky, S. N. : Zur Prophologie und Physiologie der Schwefelbakterien. (1888) Leipzig: Felix.
 
 #### Original name
 null

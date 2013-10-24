@@ -1,14 +1,13 @@
-Poria diffissa (Berk.) Sacc., 1891 SPECIES
-=======
+# Polyporus diffissus Berk., 1855 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 193 (1891)
+Fl. nov. -zel. 180 (1855)
 
 #### Original name
 Polyporus diffissus Berk., 1855

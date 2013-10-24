@@ -1,5 +1,4 @@
-Armillaria platensis Speg. SPECIES
-=======
+# Armillaria platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

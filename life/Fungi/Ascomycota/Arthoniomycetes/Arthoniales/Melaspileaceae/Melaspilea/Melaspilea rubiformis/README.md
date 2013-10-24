@@ -1,5 +1,4 @@
-Melaspilea rubiformis (A. Massal.) Redinger SPECIES
-=======
+# Melaspilea rubiformis (A. Massal.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Claustria Fr. GENUS
-=======
+# Physarum Pers. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 451 (1849)
+Neues Mag. Bot. 1: 88 (1794)
 
 #### Original name
-Claustria Fr.
+Physarum Pers.
 
 ### Remarks
 null

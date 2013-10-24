@@ -1,5 +1,4 @@
-Graphis scribillans Nyl. SPECIES
-=======
+# Graphis scribillans Nyl. SPECIES
 
 #### Status
 ACCEPTED

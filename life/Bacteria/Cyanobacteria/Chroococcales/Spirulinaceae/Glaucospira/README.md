@@ -1,5 +1,4 @@
-Glaucospira Lagerheim, 1892 GENUS
-=======
+# Glaucospira Lagerheim, 1892 GENUS
 
 #### Status
 ACCEPTED

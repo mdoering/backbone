@@ -1,5 +1,4 @@
-Hysterangium caroticolor (Berk.) SPECIES
-=======
+# Hysterangium caroticolor (Berk.) SPECIES
 
 #### Status
 ACCEPTED

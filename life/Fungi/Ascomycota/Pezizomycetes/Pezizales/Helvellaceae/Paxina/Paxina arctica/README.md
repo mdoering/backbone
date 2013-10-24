@@ -1,5 +1,4 @@
-Paxina arctica (Nannf.) E.K. Cash SPECIES
-=======
+# Paxina arctica (Nannf.) E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

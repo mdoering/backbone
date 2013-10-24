@@ -1,17 +1,16 @@
-Melanopsamma tregoubovii var. tregoubovii VARIETY
-=======
+# Thalassoascus tregoubovii Ollivier, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. r. hebd. Séanc. Acad. Sci. , Paris 182: 1348 (1926)
 
 #### Original name
-Melanopsamma tregoubovii var. tregoubovii
+Thalassoascus tregoubovii Ollivier, 1926
 
 ### Remarks
 null

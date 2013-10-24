@@ -1,5 +1,4 @@
-Mycena furva Maas Geest. & de Meijer SPECIES
-=======
+# Mycena furva Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

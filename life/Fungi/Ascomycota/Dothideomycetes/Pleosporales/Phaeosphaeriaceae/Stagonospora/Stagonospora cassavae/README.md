@@ -1,5 +1,4 @@
-Stagonospora cassavae Wolk SPECIES
-=======
+# Stagonospora cassavae Wolk SPECIES
 
 #### Status
 ACCEPTED

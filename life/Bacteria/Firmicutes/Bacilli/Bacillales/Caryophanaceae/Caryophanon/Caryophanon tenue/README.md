@@ -1,5 +1,4 @@
-Caryophanon tenue (ex Peshkoff, 1939) Trentini, 1988 SPECIES
-=======
+# Caryophanon tenue (ex Peshkoff, 1939) Trentini, 1988 SPECIES
 
 #### Status
 ACCEPTED

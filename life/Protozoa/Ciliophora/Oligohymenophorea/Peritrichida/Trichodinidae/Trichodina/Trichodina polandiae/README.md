@@ -1,5 +1,4 @@
-Trichodina polandiae Fenchel, 1965 SPECIES
-=======
+# Trichodina polandiae Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

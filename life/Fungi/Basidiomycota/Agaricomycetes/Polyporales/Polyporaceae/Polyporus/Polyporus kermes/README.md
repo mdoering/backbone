@@ -1,5 +1,4 @@
-Polyporus kermes Berk. & Broome SPECIES
-=======
+# Polyporus kermes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

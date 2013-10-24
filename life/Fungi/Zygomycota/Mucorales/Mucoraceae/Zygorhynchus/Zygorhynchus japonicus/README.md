@@ -1,5 +1,4 @@
-Zygorhynchus japonicus Komin., 1914 SPECIES
-=======
+# Zygorhynchus japonicus Komin., 1914 SPECIES
 
 #### Status
 ACCEPTED

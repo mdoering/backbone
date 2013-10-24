@@ -1,14 +1,13 @@
-Lachnum chermisinus (E.K. Cash) S.A. Cantrell & J.H. Haines SPECIES
-=======
+# Lachnum chermisinum (E.K. Cash) S.A. Cantrell & J.H. Haines SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 101(9): 1081 (1997)
 
 #### Original name
 Dasyscyphus chermisina E.K. Cash

@@ -1,5 +1,4 @@
-Puccinia microchloae Syd. SPECIES
-=======
+# Puccinia microchloae Syd. SPECIES
 
 #### Status
 ACCEPTED

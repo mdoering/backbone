@@ -1,5 +1,4 @@
-Bacidia biseptata H. Magn. SPECIES
-=======
+# Bacidia biseptata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

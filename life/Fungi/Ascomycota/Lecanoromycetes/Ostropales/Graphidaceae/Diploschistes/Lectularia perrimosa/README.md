@@ -1,5 +1,4 @@
-Lectularia perrimosa Stirt. SPECIES
-=======
+# Lectularia perrimosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

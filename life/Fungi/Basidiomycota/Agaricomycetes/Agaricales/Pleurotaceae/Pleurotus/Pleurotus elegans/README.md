@@ -1,5 +1,4 @@
-Pleurotus elegans Coker SPECIES
-=======
+# Pleurotus elegans Coker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hygrocybe viscaurantia (E. Horak) Boertm., 2002 SPECIES
-=======
+# Gliophorus viscaurantius E. Horak, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 192: 71 (2002)
+Beih. Nova Hedwigia 43: 165 (1973)
 
 #### Original name
 Gliophorus viscaurantius E. Horak, 1973

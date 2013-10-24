@@ -1,5 +1,4 @@
-Streptotheca indica SPECIES
-=======
+# Streptotheca indica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma sophorae Sacc., 1876 SPECIES
-=======
+# Phomopsis sophorae (Sacc.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi venet. nov. vel. Crit. , Ser. 5 202 (1876)
+Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 260 (1906)
 
 #### Original name
 Phoma sophorae Sacc., 1876

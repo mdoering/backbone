@@ -1,14 +1,13 @@
-Hexasphaera Hull, 1997 GENUS
-=======
+# Levileugeo Yang Qun & Yang, 1990 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Micropaleontology 43 (supplement 2): 53.
+Acta Micropalaeontol Sin 7 (3): 203.
 
 #### Original name
 null

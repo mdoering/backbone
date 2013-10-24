@@ -1,5 +1,4 @@
-Helotium albicolor (A.H. Sm.) Redhead SPECIES
-=======
+# Helotium albicolor (A.H. Sm.) Redhead SPECIES
 
 #### Status
 ACCEPTED

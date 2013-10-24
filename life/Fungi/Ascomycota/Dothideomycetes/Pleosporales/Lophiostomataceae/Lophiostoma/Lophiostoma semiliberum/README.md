@@ -1,14 +1,13 @@
-Lophiotrema semiliberum (Desm.) Sacc., 1878 SPECIES
-=======
+# Lophiostoma semiliberum (Desm.) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 3): 338 (1878)
+Schem. di Classif. Sferiacei 46 (1863)
 
 #### Original name
 Sphaeria semilibera Desm., 1846

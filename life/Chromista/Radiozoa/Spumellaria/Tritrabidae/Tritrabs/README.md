@@ -1,5 +1,4 @@
-Tritrabs Baumgartner, 1980 GENUS
-=======
+# Tritrabs Baumgartner, 1980 GENUS
 
 #### Status
 ACCEPTED

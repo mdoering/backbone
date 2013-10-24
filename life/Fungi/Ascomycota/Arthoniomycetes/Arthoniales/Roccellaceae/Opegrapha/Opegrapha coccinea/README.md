@@ -1,5 +1,4 @@
-Opegrapha coccinea Schultz SPECIES
-=======
+# Opegrapha coccinea Schultz SPECIES
 
 #### Status
 ACCEPTED

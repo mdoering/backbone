@@ -1,5 +1,4 @@
-Arthopyrenia glaucina Müll. Arg. SPECIES
-=======
+# Arthopyrenia glaucina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

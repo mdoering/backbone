@@ -1,5 +1,4 @@
-Aplosporella leucaenicola S. Ahmad, 1969 SPECIES
-=======
+# Aplosporella leucaenicola S. Ahmad, 1969 SPECIES
 
 #### Status
 ACCEPTED

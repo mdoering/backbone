@@ -1,5 +1,4 @@
-Calloria incarnata Bres. SPECIES
-=======
+# Calloria incarnata Bres. SPECIES
 
 #### Status
 ACCEPTED

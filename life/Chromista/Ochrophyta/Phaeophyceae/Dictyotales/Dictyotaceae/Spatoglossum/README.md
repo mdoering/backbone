@@ -1,5 +1,4 @@
-Spatoglossum Kützing, 1843 GENUS
-=======
+# Spatoglossum Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium dispar (Turner, 1984) Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium dispar (Turner, 1984) Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

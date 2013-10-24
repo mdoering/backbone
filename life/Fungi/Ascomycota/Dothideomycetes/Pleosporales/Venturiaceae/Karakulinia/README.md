@@ -1,5 +1,4 @@
-Karakulinia GENUS
-=======
+# Karakulinia GENUS
 
 #### Status
 ACCEPTED

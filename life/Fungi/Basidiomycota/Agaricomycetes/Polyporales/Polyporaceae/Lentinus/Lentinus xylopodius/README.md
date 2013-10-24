@@ -1,5 +1,4 @@
-Lentinus xylopodius Lév. SPECIES
-=======
+# Lentinus xylopodius Lév. SPECIES
 
 #### Status
 ACCEPTED

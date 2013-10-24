@@ -1,14 +1,13 @@
-Hypolyssus lactifluorum (Schwein.) Kuntze, 1898 SPECIES
-=======
+# Hypomyces lactifluorum (Schwein.) Tul. & C. Tul., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 488 (1898)
+Annls Sci. Nat. , Bot. , sér. 4 13: 11 (1860)
 
 #### Original name
 Sphaeria lactifluorum Schwein., 1822

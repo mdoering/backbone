@@ -1,5 +1,4 @@
-Heterogromia Saedeleer, 1934 GENUS
-=======
+# Heterogromia Saedeleer, 1934 GENUS
 
 #### Status
 ACCEPTED

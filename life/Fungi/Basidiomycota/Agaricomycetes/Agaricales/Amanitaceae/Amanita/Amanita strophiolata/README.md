@@ -1,5 +1,4 @@
-Amanita strophiolata var. strophiolata VARIETY
-=======
+# Amanita strophiolata Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 59: 102 (1927)
 
 #### Original name
-Amanita strophiolata var. strophiolata
+Amanita strophiolata Beeli
 
 ### Remarks
 null

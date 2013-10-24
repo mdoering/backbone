@@ -1,5 +1,4 @@
-Marasmiellus hirtellus (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus hirtellus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

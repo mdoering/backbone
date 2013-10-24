@@ -1,5 +1,4 @@
-Uredo mruariensis Henn. SPECIES
-=======
+# Uredo mruariensis Henn. SPECIES
 
 #### Status
 ACCEPTED

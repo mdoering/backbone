@@ -1,5 +1,4 @@
-Polyporus calcuttensis Bose SPECIES
-=======
+# Polyporus calcuttensis Bose SPECIES
 
 #### Status
 ACCEPTED

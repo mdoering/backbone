@@ -1,5 +1,4 @@
-Lentinus ramosii Lloyd SPECIES
-=======
+# Lentinus ramosii Lloyd SPECIES
 
 #### Status
 ACCEPTED

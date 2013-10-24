@@ -1,5 +1,4 @@
-Didymosphaeria typhae Peck SPECIES
-=======
+# Didymosphaeria typhae Peck SPECIES
 
 #### Status
 ACCEPTED

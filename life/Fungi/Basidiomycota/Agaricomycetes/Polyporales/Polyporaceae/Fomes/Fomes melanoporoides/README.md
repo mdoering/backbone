@@ -1,5 +1,4 @@
-Fomes melanoporoides (Ces.) Sacc. SPECIES
-=======
+# Fomes melanoporoides (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

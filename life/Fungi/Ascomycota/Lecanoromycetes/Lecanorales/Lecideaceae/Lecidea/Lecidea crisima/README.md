@@ -1,5 +1,4 @@
-Lecidea crisima Nyl. SPECIES
-=======
+# Lecidea crisima Nyl. SPECIES
 
 #### Status
 ACCEPTED

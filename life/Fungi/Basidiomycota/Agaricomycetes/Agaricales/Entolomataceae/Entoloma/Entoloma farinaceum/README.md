@@ -1,5 +1,4 @@
-Entoloma farinaceum Hesler SPECIES
-=======
+# Entoloma farinaceum Hesler SPECIES
 
 #### Status
 ACCEPTED

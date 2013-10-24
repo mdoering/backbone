@@ -1,5 +1,4 @@
-Lloydella subalba Rick SPECIES
-=======
+# Lloydella subalba Rick SPECIES
 
 #### Status
 ACCEPTED

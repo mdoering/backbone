@@ -1,5 +1,4 @@
-Endocarpon megapotamicum Malme SPECIES
-=======
+# Endocarpon megapotamicum Malme SPECIES
 
 #### Status
 ACCEPTED

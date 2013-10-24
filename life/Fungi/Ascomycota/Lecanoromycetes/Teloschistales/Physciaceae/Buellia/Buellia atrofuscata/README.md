@@ -1,5 +1,4 @@
-Buellia atrofuscata Vain. SPECIES
-=======
+# Buellia atrofuscata Vain. SPECIES
 
 #### Status
 ACCEPTED

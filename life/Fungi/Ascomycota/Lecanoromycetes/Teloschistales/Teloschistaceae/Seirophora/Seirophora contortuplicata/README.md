@@ -1,5 +1,4 @@
-Seirophora contortuplicata (Ach.) Frödén SPECIES
-=======
+# Seirophora contortuplicata (Ach.) Frödén SPECIES
 
 #### Status
 ACCEPTED

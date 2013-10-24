@@ -1,5 +1,4 @@
-Phycophila Kützing, 1843 GENUS
-=======
+# Phycophila Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

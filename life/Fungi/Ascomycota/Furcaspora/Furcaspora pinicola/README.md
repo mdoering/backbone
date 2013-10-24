@@ -1,5 +1,4 @@
-Furcaspora pinicola Bonar, 1965 SPECIES
-=======
+# Furcaspora pinicola Bonar, 1965 SPECIES
 
 #### Status
 ACCEPTED

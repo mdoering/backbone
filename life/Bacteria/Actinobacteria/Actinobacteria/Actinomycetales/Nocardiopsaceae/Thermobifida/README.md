@@ -1,5 +1,4 @@
-Thermobifida Zhang et al., 1998 GENUS
-=======
+# Thermobifida Zhang et al., 1998 GENUS
 
 #### Status
 ACCEPTED

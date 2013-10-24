@@ -1,5 +1,4 @@
-Acantharia CLASS
-=======
+# Acantharia CLASS
 
 #### Status
 ACCEPTED

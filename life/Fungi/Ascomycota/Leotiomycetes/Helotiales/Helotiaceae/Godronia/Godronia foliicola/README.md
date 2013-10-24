@@ -1,5 +1,4 @@
-Godronia foliicola Schläpf.-Bernh. SPECIES
-=======
+# Godronia foliicola Schläpf.-Bernh. SPECIES
 
 #### Status
 ACCEPTED

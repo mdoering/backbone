@@ -1,8 +1,7 @@
-Diplosalis behningii Lindemann, 1927 SPECIES
-=======
+# Glenodinium behningii (Lindemann, 1927) Kisseleva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

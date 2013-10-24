@@ -1,14 +1,13 @@
-Sticta granulata C. Bab. SPECIES
-=======
+# Pseudocyphellaria granulata (C. Bab.) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 6): 21 (1899)
 
 #### Original name
 Sticta granulata C. Bab.

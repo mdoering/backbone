@@ -1,5 +1,4 @@
-Bacillus simplex (ex Meyer & Gottheil, 1901) Priest et al., 1989 SPECIES
-=======
+# Bacillus simplex (ex Meyer & Gottheil, 1901) Priest et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

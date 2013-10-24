@@ -1,5 +1,4 @@
-Helotium vexativum Höhn. SPECIES
-=======
+# Helotium vexativum Höhn. SPECIES
 
 #### Status
 ACCEPTED

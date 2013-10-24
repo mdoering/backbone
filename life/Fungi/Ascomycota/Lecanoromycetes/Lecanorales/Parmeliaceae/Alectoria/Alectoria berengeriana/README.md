@@ -1,5 +1,4 @@
-Alectoria berengeriana f. berengeriana FORM
-=======
+# Alectoria berengeriana SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria berengeriana f. berengeriana
+null
 
 ### Remarks
 null

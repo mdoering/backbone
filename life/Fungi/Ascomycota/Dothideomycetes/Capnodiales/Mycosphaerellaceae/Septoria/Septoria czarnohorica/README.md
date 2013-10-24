@@ -1,5 +1,4 @@
-Septoria czarnohorica Namysl. SPECIES
-=======
+# Septoria czarnohorica Namysl. SPECIES
 
 #### Status
 ACCEPTED

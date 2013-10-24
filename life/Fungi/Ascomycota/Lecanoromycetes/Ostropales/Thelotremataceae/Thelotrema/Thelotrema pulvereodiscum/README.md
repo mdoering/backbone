@@ -1,5 +1,4 @@
-Thelotrema pulvereodiscum Hale SPECIES
-=======
+# Thelotrema pulvereodiscum Hale SPECIES
 
 #### Status
 ACCEPTED

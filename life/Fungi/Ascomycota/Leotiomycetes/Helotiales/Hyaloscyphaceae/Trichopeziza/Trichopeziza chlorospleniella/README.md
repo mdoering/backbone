@@ -1,5 +1,4 @@
-Trichopeziza chlorospleniella Rehm SPECIES
-=======
+# Trichopeziza chlorospleniella Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia compacta Thaxt. SPECIES
-=======
+# Laboulbenia compacta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

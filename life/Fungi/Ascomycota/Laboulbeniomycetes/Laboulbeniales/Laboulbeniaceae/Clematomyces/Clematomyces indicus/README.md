@@ -1,5 +1,4 @@
-Clematomyces indicus Thaxt., 1892 SPECIES
-=======
+# Clematomyces indicus Thaxt., 1892 SPECIES
 
 #### Status
 ACCEPTED

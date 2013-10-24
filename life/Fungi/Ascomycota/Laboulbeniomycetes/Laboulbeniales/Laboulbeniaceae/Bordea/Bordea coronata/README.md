@@ -1,5 +1,4 @@
-Bordea coronata Maire, 1916 SPECIES
-=======
+# Bordea coronata Maire, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia polyscypha Ahti & L. Xavier SPECIES
-=======
+# Cladonia polyscypha Ahti & L. Xavier SPECIES
 
 #### Status
 ACCEPTED

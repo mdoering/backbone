@@ -1,5 +1,4 @@
-Dermatocarpon fuscatum Szatala SPECIES
-=======
+# Dermatocarpon fuscatum Szatala SPECIES
 
 #### Status
 ACCEPTED

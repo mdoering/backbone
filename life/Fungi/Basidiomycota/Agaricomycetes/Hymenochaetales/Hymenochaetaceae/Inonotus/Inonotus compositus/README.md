@@ -1,5 +1,4 @@
-Inonotus compositus Han C. Wang SPECIES
-=======
+# Inonotus compositus Han C. Wang SPECIES
 
 #### Status
 ACCEPTED

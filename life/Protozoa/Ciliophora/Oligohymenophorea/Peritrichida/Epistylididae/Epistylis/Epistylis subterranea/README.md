@@ -1,5 +1,4 @@
-Epistylis subterranea SPECIES
-=======
+# Epistylis subterranea SPECIES
 
 #### Status
 ACCEPTED

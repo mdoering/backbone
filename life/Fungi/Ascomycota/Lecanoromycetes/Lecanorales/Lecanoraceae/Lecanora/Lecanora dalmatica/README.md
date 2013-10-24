@@ -1,5 +1,4 @@
-Lecanora dalmatica SPECIES
-=======
+# Lecanora dalmatica SPECIES
 
 #### Status
 ACCEPTED

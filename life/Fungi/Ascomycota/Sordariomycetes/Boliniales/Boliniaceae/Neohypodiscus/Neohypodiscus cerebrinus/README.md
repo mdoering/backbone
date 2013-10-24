@@ -1,14 +1,13 @@
-Xylaria cerebrina (Fée) Sacc., 1882 SPECIES
-=======
+# Neohypodiscus cerebrinus (Fée) J.D. Rogers, Y.M. Ju & Laessøe, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 323 (1882)
+Mycologia 86(5): 686 (1994)
 
 #### Original name
 Sphaeria cerebrina Fée, 1834

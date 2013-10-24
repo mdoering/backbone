@@ -1,5 +1,4 @@
-Sphaeria fragariae Schwein., 1832 SPECIES
-=======
+# Sphaeria fragariae Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

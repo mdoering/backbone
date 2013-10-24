@@ -1,5 +1,4 @@
-Protochrysidis B.V. Skvortzov, 1969 GENUS
-=======
+# Protochrysidis B.V. Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus incurvus var. incurvus VARIETY
-=======
+# Agaricus incurvus Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Fung. Bavar. Palat. 4: 29, tab. 65 (1774)
+Icon. Desc. Fung. Min. Cognit. (Leipzig) 1: 23 (1798)
 
 #### Original name
-Agaricus incurvus var. incurvus
+Agaricus incurvus Schumach.
 
 ### Remarks
 null

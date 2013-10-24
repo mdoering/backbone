@@ -1,5 +1,4 @@
-Puccinia samperi Mayor SPECIES
-=======
+# Puccinia samperi Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen stramineus (Wahlenb.) Wahlenb. SPECIES
-=======
+# Lichen stramineus (Wahlenb.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

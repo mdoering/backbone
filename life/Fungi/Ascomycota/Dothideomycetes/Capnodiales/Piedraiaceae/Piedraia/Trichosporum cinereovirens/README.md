@@ -1,5 +1,4 @@
-Trichosporum cinereovirens (Kunze & J.C. Schmidt) Fr. SPECIES
-=======
+# Trichosporum cinereovirens (Kunze & J.C. Schmidt) Fr. SPECIES
 
 #### Status
 ACCEPTED

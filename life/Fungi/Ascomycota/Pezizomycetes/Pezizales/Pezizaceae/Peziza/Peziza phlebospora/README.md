@@ -1,5 +1,4 @@
-Peziza phlebospora (Le Gal) Donadini SPECIES
-=======
+# Peziza phlebospora (Le Gal) Donadini SPECIES
 
 #### Status
 ACCEPTED

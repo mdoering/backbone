@@ -1,5 +1,4 @@
-Dendrina E.M. Fries, 1825 GENUS
-=======
+# Dendrina E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opeasterina holocalycis (Speg.) Speg. SPECIES
-=======
+# Opeasterina holocalycis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

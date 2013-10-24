@@ -1,5 +1,4 @@
-Hapalophragmites cumminsii Ramanujam & Ramachar SPECIES
-=======
+# Hapalophragmites cumminsii Ramanujam & Ramachar SPECIES
 
 #### Status
 ACCEPTED

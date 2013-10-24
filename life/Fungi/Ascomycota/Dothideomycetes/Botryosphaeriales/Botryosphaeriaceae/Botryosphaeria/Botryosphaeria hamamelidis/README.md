@@ -1,5 +1,4 @@
-Botryosphaeria hamamelidis Rehm SPECIES
-=======
+# Botryosphaeria hamamelidis Rehm SPECIES
 
 #### Status
 ACCEPTED

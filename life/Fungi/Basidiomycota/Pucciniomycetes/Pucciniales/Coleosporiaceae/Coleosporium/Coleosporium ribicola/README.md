@@ -1,5 +1,4 @@
-Coleosporium ribicola (Cooke & Ellis) Arthur SPECIES
-=======
+# Coleosporium ribicola (Cooke & Ellis) Arthur SPECIES
 
 #### Status
 ACCEPTED

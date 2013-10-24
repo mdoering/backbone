@@ -1,5 +1,4 @@
-Cortinarius flavaurora M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius flavaurora M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

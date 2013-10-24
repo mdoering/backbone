@@ -1,5 +1,4 @@
-Helotium firmum Velen. SPECIES
-=======
+# Helotium firmum Velen. SPECIES
 
 #### Status
 ACCEPTED

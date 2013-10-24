@@ -1,5 +1,4 @@
-Puccinia claytoniae Thüm. SPECIES
-=======
+# Puccinia claytoniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

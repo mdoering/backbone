@@ -1,5 +1,4 @@
-Alytosporium croceum (Kunze) Link SPECIES
-=======
+# Alytosporium croceum (Kunze) Link SPECIES
 
 #### Status
 ACCEPTED

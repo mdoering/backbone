@@ -1,5 +1,4 @@
-Exidia tomentosa (Olive) Olive SPECIES
-=======
+# Exidia tomentosa (Olive) Olive SPECIES
 
 #### Status
 ACCEPTED

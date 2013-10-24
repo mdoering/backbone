@@ -1,5 +1,4 @@
-Peziza viburni Schwein. SPECIES
-=======
+# Peziza viburni Schwein. SPECIES
 
 #### Status
 ACCEPTED

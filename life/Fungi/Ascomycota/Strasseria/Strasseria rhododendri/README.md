@@ -1,5 +1,4 @@
-Strasseria rhododendri Szisz {?} & Sandru SPECIES
-=======
+# Strasseria rhododendri Szisz {?} & Sandru SPECIES
 
 #### Status
 ACCEPTED

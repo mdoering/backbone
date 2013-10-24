@@ -1,17 +1,16 @@
-Sepedonium cervinum var. cervinum VARIETY
-=======
+# Mycogone cervina Ditmar, 1817 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Etude Fl. Mycol. Landes 1(4): 107 (1817)
 
 #### Original name
-null
+Mycogone cervina Ditmar, 1817
 
 ### Remarks
 null

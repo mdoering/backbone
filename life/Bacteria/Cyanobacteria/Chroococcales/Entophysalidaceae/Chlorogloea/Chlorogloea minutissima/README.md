@@ -1,8 +1,7 @@
-Chlorogloea purpurea var. minutissima Geitler VARIETY
-=======
+# Chlorogloea minutissima (Geitler) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

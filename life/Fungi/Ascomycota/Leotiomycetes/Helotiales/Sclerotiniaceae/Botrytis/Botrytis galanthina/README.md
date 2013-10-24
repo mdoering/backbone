@@ -1,14 +1,13 @@
-Polyactis galanthina Berk. & Broome, 1873 SPECIES
-=======
+# Botrytis galanthina (Berk. & Broome) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 11: 346 (1873)
+Syll. fung. (Abellini) 4: 136 (1886)
 
 #### Original name
 Polyactis galanthina Berk. & Broome, 1873

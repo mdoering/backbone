@@ -1,5 +1,4 @@
-Uredo carbo-maydis Philippar {?} SPECIES
-=======
+# Uredo carbo-maydis Philippar {?} SPECIES
 
 #### Status
 ACCEPTED

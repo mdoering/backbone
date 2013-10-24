@@ -1,5 +1,4 @@
-Pannaria macrocarpa Müll. Arg. SPECIES
-=======
+# Pannaria macrocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

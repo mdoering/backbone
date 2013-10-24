@@ -1,5 +1,4 @@
-Fusarium foetens Schroers, O'Donnell, Baayen & Hooftman, 2004 SPECIES
-=======
+# Fusarium foetens Schroers, O'Donnell, Baayen & Hooftman, 2004 SPECIES
 
 #### Status
 ACCEPTED

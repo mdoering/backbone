@@ -1,5 +1,4 @@
-Lecidea lapadensis Zahlbr. SPECIES
-=======
+# Lecidea lapadensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

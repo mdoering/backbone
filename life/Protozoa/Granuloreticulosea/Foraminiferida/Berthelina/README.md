@@ -1,5 +1,4 @@
-Berthelina Malapris, 1965 GENUS
-=======
+# Berthelina Malapris, 1965 GENUS
 
 #### Status
 ACCEPTED

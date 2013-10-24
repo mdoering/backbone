@@ -1,14 +1,13 @@
-Amphidium terrenum (Nyl.) Nyl. SPECIES
-=======
+# Epiphloea terrena (Nyl.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rendoconti R. Istituto Lombardi, Milano, ser. 2 (1880)
 
 #### Original name
 Leptogium terrenum Nyl.

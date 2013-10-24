@@ -1,5 +1,4 @@
-Triangularia striatispora Furuya & Udagawa, 1976 SPECIES
-=======
+# Triangularia striatispora Furuya & Udagawa, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cephalotrichum Berk. ex Sacc. GENUS
-=======
+# Periconia Tode GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 275 (1886)
+Fung. mecklenb. sel. (Lüneburg) 2: 2 (1791)
 
 #### Original name
-Cephalotrichum Berk. ex Sacc.
+Periconia Tode
 
 ### Remarks
 null

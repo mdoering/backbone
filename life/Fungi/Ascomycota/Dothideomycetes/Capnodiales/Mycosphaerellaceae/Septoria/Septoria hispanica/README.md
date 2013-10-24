@@ -1,5 +1,4 @@
-Septoria hispanica D.N. Babajan & Bokhjan SPECIES
-=======
+# Septoria hispanica D.N. Babajan & Bokhjan SPECIES
 
 #### Status
 ACCEPTED

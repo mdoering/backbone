@@ -1,5 +1,4 @@
-Clavaria placorhiza J.F. Gmel. SPECIES
-=======
+# Clavaria placorhiza J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

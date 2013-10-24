@@ -1,5 +1,4 @@
-Ceramothyrium paiveae Bat. & H. Maia, 1956 SPECIES
-=======
+# Ceramothyrium paiveae Bat. & H. Maia, 1956 SPECIES
 
 #### Status
 ACCEPTED

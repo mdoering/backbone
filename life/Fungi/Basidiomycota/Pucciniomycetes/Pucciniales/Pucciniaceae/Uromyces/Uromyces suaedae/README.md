@@ -1,5 +1,4 @@
-Uromyces suaedae Jacz. SPECIES
-=======
+# Uromyces suaedae Jacz. SPECIES
 
 #### Status
 ACCEPTED

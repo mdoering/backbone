@@ -1,5 +1,4 @@
-Fungus cavernosus Weinm. SPECIES
-=======
+# Fungus cavernosus Weinm. SPECIES
 
 #### Status
 ACCEPTED

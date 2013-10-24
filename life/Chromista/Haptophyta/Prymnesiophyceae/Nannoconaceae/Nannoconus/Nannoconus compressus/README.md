@@ -1,5 +1,4 @@
-Nannoconus compressus SPECIES
-=======
+# Nannoconus compressus SPECIES
 
 #### Status
 ACCEPTED

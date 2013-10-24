@@ -1,5 +1,4 @@
-Edwardsiella anguillimortifera (Hoshina, 1962) Sakazaki and Tamura, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Edwardsiella anguillimortifera (Hoshina, 1962) Sakazaki and Tamura, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

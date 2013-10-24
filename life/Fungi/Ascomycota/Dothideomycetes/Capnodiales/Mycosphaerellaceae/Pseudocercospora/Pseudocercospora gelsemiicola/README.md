@@ -1,5 +1,4 @@
-Pseudocercospora gelsemiicola U. Braun & Crous SPECIES
-=======
+# Pseudocercospora gelsemiicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

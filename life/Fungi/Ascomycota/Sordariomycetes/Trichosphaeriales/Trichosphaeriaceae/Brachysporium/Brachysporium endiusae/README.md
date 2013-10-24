@@ -1,5 +1,4 @@
-Brachysporium endiusae Sacc. SPECIES
-=======
+# Brachysporium endiusae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermella orientalis Minter & M.H. Ivory, 1988 SPECIES
-=======
+# Lophodermella orientalis Minter & M.H. Ivory, 1988 SPECIES
 
 #### Status
 ACCEPTED

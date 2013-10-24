@@ -1,5 +1,4 @@
-Alternaria perangusta E.G. Simmons SPECIES
-=======
+# Alternaria perangusta E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

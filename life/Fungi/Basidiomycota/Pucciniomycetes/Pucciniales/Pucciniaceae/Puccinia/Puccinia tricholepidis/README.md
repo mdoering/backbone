@@ -1,5 +1,4 @@
-Puccinia tricholepidis Syd. SPECIES
-=======
+# Puccinia tricholepidis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teloschistes dubusi B. de Lesd. SPECIES
-=======
+# Teloschistes dubusi B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

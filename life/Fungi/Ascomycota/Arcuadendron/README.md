@@ -1,5 +1,4 @@
-Arcuadendron Sigler & J.W. Carmich. GENUS
-=======
+# Arcuadendron Sigler & J.W. Carmich. GENUS
 
 #### Status
 ACCEPTED

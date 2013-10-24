@@ -1,5 +1,4 @@
-Pertusaria kinigiensis A. W. Archer, Elix, Eb. Fisch., Killmann & Sérus. SPECIES
-=======
+# Pertusaria kinigiensis A. W. Archer, Elix, Eb. Fisch., Killmann & Sérus. SPECIES
 
 #### Status
 ACCEPTED

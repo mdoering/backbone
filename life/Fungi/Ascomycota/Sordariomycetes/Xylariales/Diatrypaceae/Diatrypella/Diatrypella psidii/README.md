@@ -1,5 +1,4 @@
-Diatrypella psidii Syd. SPECIES
-=======
+# Diatrypella psidii Syd. SPECIES
 
 #### Status
 ACCEPTED

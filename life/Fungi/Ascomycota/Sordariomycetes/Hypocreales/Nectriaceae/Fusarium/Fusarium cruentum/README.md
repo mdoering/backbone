@@ -1,5 +1,4 @@
-Fusarium cruentum Teich SPECIES
-=======
+# Fusarium cruentum Teich SPECIES
 
 #### Status
 ACCEPTED

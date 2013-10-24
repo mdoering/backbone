@@ -1,5 +1,4 @@
-Patellaria elacista (Ach.) Trevis. SPECIES
-=======
+# Patellaria elacista (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

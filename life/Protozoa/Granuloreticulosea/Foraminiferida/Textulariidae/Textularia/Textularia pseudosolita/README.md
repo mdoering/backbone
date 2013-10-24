@@ -1,5 +1,4 @@
-Textularia pseudosolita Zheng, 1988 SPECIES
-=======
+# Textularia pseudosolita Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

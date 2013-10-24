@@ -1,8 +1,7 @@
-Bacidia etayana (van den Boom & Vezda) C. Dolnik SPECIES
-=======
+# Bacidina etayana (van den Boom & Vezda) M. Hauck & V. Wirth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

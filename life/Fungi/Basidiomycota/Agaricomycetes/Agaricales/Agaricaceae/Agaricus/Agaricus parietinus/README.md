@@ -1,5 +1,4 @@
-Agaricus parietinus Scop. SPECIES
-=======
+# Agaricus parietinus Scop. SPECIES
 
 #### Status
 ACCEPTED

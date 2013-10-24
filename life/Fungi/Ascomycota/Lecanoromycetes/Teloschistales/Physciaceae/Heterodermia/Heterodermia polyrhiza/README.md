@@ -1,5 +1,4 @@
-Heterodermia polyrhiza (Kurok.) Trass SPECIES
-=======
+# Heterodermia polyrhiza (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

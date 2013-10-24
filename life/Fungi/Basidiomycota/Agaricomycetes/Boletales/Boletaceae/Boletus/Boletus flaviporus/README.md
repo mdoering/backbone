@@ -1,5 +1,4 @@
-Boletus flaviporus Earle SPECIES
-=======
+# Boletus flaviporus Earle SPECIES
 
 #### Status
 ACCEPTED

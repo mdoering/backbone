@@ -1,5 +1,4 @@
-Panus ptergodes Fr. SPECIES
-=======
+# Panus ptergodes Fr. SPECIES
 
 #### Status
 ACCEPTED

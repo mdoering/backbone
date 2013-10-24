@@ -1,5 +1,4 @@
-Cenangium fallax Rick SPECIES
-=======
+# Cenangium fallax Rick SPECIES
 
 #### Status
 ACCEPTED

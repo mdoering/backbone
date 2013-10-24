@@ -1,5 +1,4 @@
-Phragmidium alaskanum (Arthur) P. Syd. & Syd. SPECIES
-=======
+# Phragmidium alaskanum (Arthur) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

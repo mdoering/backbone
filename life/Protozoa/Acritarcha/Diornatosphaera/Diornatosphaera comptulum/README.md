@@ -1,5 +1,4 @@
-Diornatosphaera comptulum (Rasul, 1979) Paalits & Heuse, 2000 SPECIES
-=======
+# Diornatosphaera comptulum (Rasul, 1979) Paalits & Heuse, 2000 SPECIES
 
 #### Status
 ACCEPTED

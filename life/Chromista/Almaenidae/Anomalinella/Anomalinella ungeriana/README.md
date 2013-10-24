@@ -1,5 +1,4 @@
-Anomalinella ungeriana (D'Orbigny) SPECIES
-=======
+# Anomalinella ungeriana (D'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

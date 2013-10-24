@@ -1,5 +1,4 @@
-Pluteus striatocystis Pegler SPECIES
-=======
+# Pluteus striatocystis Pegler SPECIES
 
 #### Status
 ACCEPTED

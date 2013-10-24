@@ -1,5 +1,4 @@
-Entomophthora coleopterorum Petch, 1932 SPECIES
-=======
+# Entomophthora coleopterorum Petch, 1932 SPECIES
 
 #### Status
 ACCEPTED

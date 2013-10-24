@@ -1,5 +1,4 @@
-Phellinus juniperinus Bernicchia & S. Curreli SPECIES
-=======
+# Phellinus juniperinus Bernicchia & S. Curreli SPECIES
 
 #### Status
 ACCEPTED

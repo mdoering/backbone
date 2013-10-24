@@ -1,5 +1,4 @@
-Aecidium crassocephali Wakef. & Hansf. SPECIES
-=======
+# Aecidium crassocephali Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

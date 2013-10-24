@@ -1,5 +1,4 @@
-Strickeria obliqua (P. Karst.) Lindau SPECIES
-=======
+# Strickeria obliqua (P. Karst.) Lindau SPECIES
 
 #### Status
 ACCEPTED

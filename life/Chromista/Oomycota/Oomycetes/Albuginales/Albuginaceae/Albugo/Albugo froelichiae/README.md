@@ -1,5 +1,4 @@
-Albugo froelichiae G.W. Wilson SPECIES
-=======
+# Albugo froelichiae G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

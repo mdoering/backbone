@@ -1,5 +1,4 @@
-Gasparrinia castellana (Räsänen) Oxner SPECIES
-=======
+# Gasparrinia castellana (Räsänen) Oxner SPECIES
 
 #### Status
 ACCEPTED

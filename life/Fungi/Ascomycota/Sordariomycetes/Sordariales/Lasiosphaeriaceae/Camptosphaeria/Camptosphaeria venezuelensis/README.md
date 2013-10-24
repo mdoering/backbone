@@ -1,5 +1,4 @@
-Camptosphaeria venezuelensis J.C. Krug & Jeng, 1977 SPECIES
-=======
+# Camptosphaeria venezuelensis J.C. Krug & Jeng, 1977 SPECIES
 
 #### Status
 ACCEPTED

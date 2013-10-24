@@ -1,5 +1,4 @@
-Coscinodiscus bipartitus Rattray SPECIES
-=======
+# Coscinodiscus bipartitus Rattray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinodoutium taxodii (Lentz & Mckay) Gross SPECIES
-=======
+# Echinodoutium taxodii (Lentz & Mckay) Gross SPECIES
 
 #### Status
 ACCEPTED

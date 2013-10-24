@@ -1,5 +1,4 @@
-Sporotrichum pannosum Rabenh. SPECIES
-=======
+# Sporotrichum pannosum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

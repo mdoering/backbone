@@ -1,17 +1,16 @@
-Cercospora luheae Chupp & Viégas SPECIES
-=======
+# Cercospora lueheae Chupp & Viégas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Viegas, Arq. Mus. Nac. Rio de Janeiro 8: 36 (1945)
 
 #### Original name
-Cercospora luheae Chupp & Viégas
+Cercospora lueheae Chupp & Viégas
 
 ### Remarks
 null

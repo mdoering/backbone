@@ -1,5 +1,4 @@
-Heterobractum striatum Carbonell-Moore, 1994 SPECIES
-=======
+# Heterobractum striatum Carbonell-Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

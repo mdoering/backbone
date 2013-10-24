@@ -1,5 +1,4 @@
-Sphingosinicella Maruyama et al., 2006 GENUS
-=======
+# Sphingosinicella Maruyama et al., 2006 GENUS
 
 #### Status
 ACCEPTED

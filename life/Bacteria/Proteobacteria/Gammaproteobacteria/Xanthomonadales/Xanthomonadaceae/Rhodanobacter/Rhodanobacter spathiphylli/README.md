@@ -1,5 +1,4 @@
-Rhodanobacter spathiphylli De Clercq et al., 2006 SPECIES
-=======
+# Rhodanobacter spathiphylli De Clercq et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

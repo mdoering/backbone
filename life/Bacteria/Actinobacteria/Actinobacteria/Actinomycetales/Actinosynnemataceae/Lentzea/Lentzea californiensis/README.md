@@ -1,5 +1,4 @@
-Lentzea californiensis Labeda et al., 2001 SPECIES
-=======
+# Lentzea californiensis Labeda et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanosalsum Boone & Baker, 2002 GENUS
-=======
+# Methanosalsum Boone & Baker, 2002 GENUS
 
 #### Status
 ACCEPTED

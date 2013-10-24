@@ -1,5 +1,4 @@
-Tremella subclavata var. subclavata VARIETY
-=======
+# Tremella subclavata Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Enum. pl. (Kjbenhavn) 2: 442 (1803)
 
 #### Original name
-Tremella subclavata var. subclavata
+Tremella subclavata Schumach.
 
 ### Remarks
 null

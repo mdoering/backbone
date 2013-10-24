@@ -1,5 +1,4 @@
-Reclinomonas Flavin & Nerad, 1993 GENUS
-=======
+# Reclinomonas Flavin & Nerad, 1993 GENUS
 
 #### Status
 ACCEPTED

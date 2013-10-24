@@ -1,5 +1,4 @@
-Melanoleuca myceniformis Singer SPECIES
-=======
+# Melanoleuca myceniformis Singer SPECIES
 
 #### Status
 ACCEPTED

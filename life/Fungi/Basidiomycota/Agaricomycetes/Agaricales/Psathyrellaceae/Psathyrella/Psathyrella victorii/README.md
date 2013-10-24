@@ -1,17 +1,16 @@
-Psathyrella victori A.H. Sm. SPECIES
-=======
+# Psathyrella victorii A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 5: 197 (1972)
 
 #### Original name
-Psathyrella victori A.H. Sm.
+Psathyrella victorii A.H. Sm.
 
 ### Remarks
 null

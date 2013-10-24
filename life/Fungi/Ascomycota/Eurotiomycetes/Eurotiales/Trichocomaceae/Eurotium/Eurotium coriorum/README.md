@@ -1,5 +1,4 @@
-Eurotium coriorum var. coriorum VARIETY
-=======
+# Eurotium coriorum Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eurotium coriorum var. coriorum
+Eurotium coriorum Wallr.
 
 ### Remarks
 null

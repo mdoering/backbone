@@ -1,5 +1,4 @@
-Monochaetia uncinata (Ellis & Kellerm.) Sacc. SPECIES
-=======
+# Monochaetia uncinata (Ellis & Kellerm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces musicola Matsush., 1975 SPECIES
-=======
+# Paecilomyces musicola Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma caespitosum Velen. SPECIES
-=======
+# Hebeloma caespitosum Velen. SPECIES
 
 #### Status
 ACCEPTED

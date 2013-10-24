@@ -1,5 +1,4 @@
-Spilocaea epiphylla Fr. SPECIES
-=======
+# Spilocaea epiphylla Fr. SPECIES
 
 #### Status
 ACCEPTED

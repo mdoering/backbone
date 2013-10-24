@@ -1,5 +1,4 @@
-Ustilago verecunda Syd. & P. Syd. SPECIES
-=======
+# Ustilago verecunda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

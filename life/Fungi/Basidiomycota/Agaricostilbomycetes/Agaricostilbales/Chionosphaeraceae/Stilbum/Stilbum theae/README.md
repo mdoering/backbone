@@ -1,5 +1,4 @@
-Stilbum theae (G.E. Bernard) Sacc. & Trotter SPECIES
-=======
+# Stilbum theae (G.E. Bernard) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

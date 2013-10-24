@@ -1,5 +1,4 @@
-Trigonium reticulum f. tetragonum (Cleve-Euler) T. V. Desikachary FORM
-=======
+# Trigonium reticulum (Ehrenb.) Simonsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia epileuca Cooke & Ellis SPECIES
-=======
+# Hendersonia epileuca Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

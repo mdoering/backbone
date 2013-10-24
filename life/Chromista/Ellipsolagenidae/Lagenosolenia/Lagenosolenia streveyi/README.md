@@ -1,5 +1,4 @@
-Lagenosolenia streveyi McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia streveyi McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

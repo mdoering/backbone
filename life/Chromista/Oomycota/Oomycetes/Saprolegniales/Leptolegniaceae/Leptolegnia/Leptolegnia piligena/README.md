@@ -1,8 +1,7 @@
-Rhizophydium piligenum M. Ôkubo & Kobayasi, 1955 SPECIES
-=======
+# Leptolegnia piligena (M. Ôkubo & Kobayasi) Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Boletus spongiosus Pers. SPECIES
-=======
+# Boletus spongiosus Pers. SPECIES
 
 #### Status
 ACCEPTED

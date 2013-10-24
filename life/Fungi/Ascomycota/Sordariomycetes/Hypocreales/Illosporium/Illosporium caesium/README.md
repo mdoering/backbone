@@ -1,5 +1,4 @@
-Illosporium caesium Schwein. SPECIES
-=======
+# Illosporium caesium Schwein. SPECIES
 
 #### Status
 ACCEPTED

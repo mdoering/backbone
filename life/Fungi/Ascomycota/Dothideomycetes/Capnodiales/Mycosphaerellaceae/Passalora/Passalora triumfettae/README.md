@@ -1,5 +1,4 @@
-Passalora triumfettae (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora triumfettae (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

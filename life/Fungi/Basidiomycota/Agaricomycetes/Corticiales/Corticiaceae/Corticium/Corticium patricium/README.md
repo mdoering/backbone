@@ -1,5 +1,4 @@
-Corticium patricium G. Cunn. SPECIES
-=======
+# Corticium patricium G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

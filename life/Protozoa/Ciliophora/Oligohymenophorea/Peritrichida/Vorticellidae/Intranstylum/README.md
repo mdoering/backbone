@@ -1,5 +1,4 @@
-Intranstylum Fauré-Fremiet, 1904 GENUS
-=======
+# Intranstylum Fauré-Fremiet, 1904 GENUS
 
 #### Status
 ACCEPTED

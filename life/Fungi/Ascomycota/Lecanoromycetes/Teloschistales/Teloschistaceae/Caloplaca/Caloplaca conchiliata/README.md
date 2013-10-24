@@ -1,5 +1,4 @@
-Caloplaca conchiliata Zahlbr. SPECIES
-=======
+# Caloplaca conchiliata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria crista-galli Durieu & Mont. SPECIES
-=======
+# Sphaeria crista-galli Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

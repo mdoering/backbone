@@ -1,5 +1,4 @@
-Lecidea aspiciliae (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea aspiciliae (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

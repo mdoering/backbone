@@ -1,5 +1,4 @@
-Diplodina papaveris (Oudem.) Lind SPECIES
-=======
+# Diplodina papaveris (Oudem.) Lind SPECIES
 
 #### Status
 ACCEPTED

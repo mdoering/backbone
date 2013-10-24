@@ -1,5 +1,4 @@
-Cortinarius milvinus Fr. SPECIES
-=======
+# Cortinarius milvinus Fr. SPECIES
 
 #### Status
 ACCEPTED

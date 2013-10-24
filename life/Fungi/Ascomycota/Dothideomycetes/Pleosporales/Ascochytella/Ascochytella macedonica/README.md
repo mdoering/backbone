@@ -1,5 +1,4 @@
-Ascochytella macedonica Petr. SPECIES
-=======
+# Ascochytella macedonica Petr. SPECIES
 
 #### Status
 ACCEPTED

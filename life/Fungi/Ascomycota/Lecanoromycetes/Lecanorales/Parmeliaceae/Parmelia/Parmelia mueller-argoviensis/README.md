@@ -1,5 +1,4 @@
-Parmelia mueller-argoviensis Gyeln. SPECIES
-=======
+# Parmelia mueller-argoviensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schaereria corticola Muhr & Tønsberg SPECIES
-=======
+# Schaereria corticola Muhr & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

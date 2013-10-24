@@ -1,5 +1,4 @@
-Rutstroemia juncifida P. Karst. SPECIES
-=======
+# Rutstroemia juncifida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

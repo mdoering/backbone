@@ -1,5 +1,4 @@
-Asterodon lutescens Rick SPECIES
-=======
+# Asterodon lutescens Rick SPECIES
 
 #### Status
 ACCEPTED

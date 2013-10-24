@@ -1,5 +1,4 @@
-Arthonia anombrophila Coppins & P. James SPECIES
-=======
+# Arthonia anombrophila Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

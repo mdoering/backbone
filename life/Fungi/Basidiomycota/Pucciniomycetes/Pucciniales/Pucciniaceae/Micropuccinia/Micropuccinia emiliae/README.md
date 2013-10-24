@@ -1,5 +1,4 @@
-Micropuccinia emiliae (Henn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia emiliae (Henn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

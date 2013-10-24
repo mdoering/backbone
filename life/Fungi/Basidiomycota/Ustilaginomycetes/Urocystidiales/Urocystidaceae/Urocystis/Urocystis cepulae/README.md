@@ -1,14 +1,13 @@
-Tuburcinia cepulae (Frost) Liro, 1922 SPECIES
-=======
+# Urocystis cepulae Frost, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
+in Farlow, Ann. Rep. Sec. Mass. St. Bd. Agric. 24: 175 (1877)
 
 #### Original name
 Urocystis cepulae Frost, 1877

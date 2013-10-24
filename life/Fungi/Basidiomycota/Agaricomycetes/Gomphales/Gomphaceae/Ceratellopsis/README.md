@@ -1,17 +1,16 @@
-Ceratella Pat. GENUS
-=======
+# Ceratellopsis Konrad & Maublanc, 1937 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hyménomyc. Eur. (Paris) 157 (1887)
+null
 
 #### Original name
-Ceratella Pat.
+null
 
 ### Remarks
 null

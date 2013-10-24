@@ -1,5 +1,4 @@
-Sagedia GENUS
-=======
+# Sagedia GENUS
 
 #### Status
 ACCEPTED

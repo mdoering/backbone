@@ -1,5 +1,4 @@
-Zeora metabolica SPECIES
-=======
+# Zeora metabolica SPECIES
 
 #### Status
 ACCEPTED

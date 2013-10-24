@@ -1,5 +1,4 @@
-Mycosphaerella eryngina (Gonz. Frag.) Tomilin SPECIES
-=======
+# Mycosphaerella eryngina (Gonz. Frag.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

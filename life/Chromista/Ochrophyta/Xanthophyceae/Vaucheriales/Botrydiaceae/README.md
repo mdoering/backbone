@@ -1,5 +1,4 @@
-Botrydiaceae Lindl. FAMILY
-=======
+# Botrydiaceae Lindl. FAMILY
 
 #### Status
 ACCEPTED

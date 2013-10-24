@@ -1,5 +1,4 @@
-Ruhlandiella hesperia Setch. SPECIES
-=======
+# Ruhlandiella hesperia Setch. SPECIES
 
 #### Status
 ACCEPTED

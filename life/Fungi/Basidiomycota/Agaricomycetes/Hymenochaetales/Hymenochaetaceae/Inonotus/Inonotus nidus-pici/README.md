@@ -1,17 +1,16 @@
-Phaeoporus nidus-pici (Pilát ex Pilát) Spirin, Zmitr. & Malysheva, 2006 SPECIES
-=======
+# Inonotus nidus-pici Pilát, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sb. nár. Muz. Praze, B 108 (1953)
 
 #### Original name
-null
+Inonotus nidus-pici Pilát, 1953
 
 ### Remarks
 null

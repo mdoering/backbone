@@ -1,5 +1,4 @@
-Puccinia leucadis P. Syd. & Syd. SPECIES
-=======
+# Puccinia leucadis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia narthecii (Sacc., E. Bommer & M. Rousseau) Tassi SPECIES
-=======
+# Microdiplodia narthecii (Sacc., E. Bommer & M. Rousseau) Tassi SPECIES
 
 #### Status
 ACCEPTED

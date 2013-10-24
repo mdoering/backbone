@@ -1,5 +1,4 @@
-Discina furfuracea (Rehm) Sacc. SPECIES
-=======
+# Discina furfuracea (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

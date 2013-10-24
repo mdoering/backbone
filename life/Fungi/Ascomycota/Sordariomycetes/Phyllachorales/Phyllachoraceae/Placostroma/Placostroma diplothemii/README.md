@@ -1,14 +1,13 @@
-Dothidella diplothemii Syd. & P. Syd., 1907 SPECIES
-=======
+# Placostroma diplothemii (Syd. & P. Syd.) Syd. & P. Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5(4): 360 (1907)
+in Theissen & Sydow, Annls mycol. 13(3/4): 408 (1915)
 
 #### Original name
 Dothidella diplothemii Syd. & P. Syd., 1907

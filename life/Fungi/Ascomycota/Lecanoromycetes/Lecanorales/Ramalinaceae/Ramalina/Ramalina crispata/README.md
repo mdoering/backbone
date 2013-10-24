@@ -1,5 +1,4 @@
-Ramalina crispata V. Marcano & A. Morales SPECIES
-=======
+# Ramalina crispata V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbouncinula bulbosa (F.L. Tai & C.T. Wei) R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Bulbouncinula bulbosa (F.L. Tai & C.T. Wei) R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

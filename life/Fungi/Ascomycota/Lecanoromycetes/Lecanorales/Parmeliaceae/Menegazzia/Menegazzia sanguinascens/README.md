@@ -1,14 +1,13 @@
-Parmelia sanguinascens Räsänen SPECIES
-=======
+# Menegazzia sanguinascens (Räsänen) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2(1): 18 (1932)
+Ark. Bot. 30A(11): 28 (1942)
 
 #### Original name
 Parmelia sanguinascens Räsänen

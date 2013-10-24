@@ -1,5 +1,4 @@
-Urceolaria myrini (Fr.) Motyka SPECIES
-=======
+# Urceolaria myrini (Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

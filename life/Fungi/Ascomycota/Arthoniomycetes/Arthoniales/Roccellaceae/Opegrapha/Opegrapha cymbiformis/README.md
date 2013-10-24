@@ -1,5 +1,4 @@
-Opegrapha cymbiformis var. deformis Schaer. VARIETY
-=======
+# Opegrapha cymbiformis Flörke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha cymbiformis var. deformis Schaer.
+Opegrapha cymbiformis Flörke
 
 ### Remarks
 null

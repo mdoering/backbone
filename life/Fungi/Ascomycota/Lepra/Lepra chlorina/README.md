@@ -1,5 +1,4 @@
-Lepra chlorina (Ach.) Ach. SPECIES
-=======
+# Lepra chlorina (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

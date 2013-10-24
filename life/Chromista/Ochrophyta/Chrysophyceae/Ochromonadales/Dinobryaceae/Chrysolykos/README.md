@@ -1,5 +1,4 @@
-Chrysolykos B.Mack, 1951 GENUS
-=======
+# Chrysolykos B.Mack, 1951 GENUS
 
 #### Status
 ACCEPTED

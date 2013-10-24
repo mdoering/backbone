@@ -1,5 +1,4 @@
-Micropeltis scheffleri Henn. SPECIES
-=======
+# Micropeltis scheffleri Henn. SPECIES
 
 #### Status
 ACCEPTED

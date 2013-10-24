@@ -1,5 +1,4 @@
-Geopora cervina (Velen.) T. Schumach., 1979 SPECIES
-=======
+# Geopora cervina (Velen.) T. Schumach., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium stromaticola R.F. Castañeda SPECIES
-=======
+# Fusidium stromaticola R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

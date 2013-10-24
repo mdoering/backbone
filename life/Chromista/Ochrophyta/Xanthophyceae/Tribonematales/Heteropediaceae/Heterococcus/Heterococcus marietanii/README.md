@@ -1,5 +1,4 @@
-Heterococcus marietanii Vischer SPECIES
-=======
+# Heterococcus marietanii Vischer SPECIES
 
 #### Status
 ACCEPTED

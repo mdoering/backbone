@@ -1,5 +1,4 @@
-Chaetosphaerites camerounensis Sal.-Cheb. & Locq. SPECIES
-=======
+# Chaetosphaerites camerounensis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

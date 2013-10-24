@@ -1,5 +1,4 @@
-Leptothyrium sticticum Curzi SPECIES
-=======
+# Leptothyrium sticticum Curzi SPECIES
 
 #### Status
 ACCEPTED

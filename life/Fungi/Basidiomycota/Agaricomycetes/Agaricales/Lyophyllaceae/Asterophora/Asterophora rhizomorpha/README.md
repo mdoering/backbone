@@ -1,5 +1,4 @@
-Asterophora rhizomorpha (Fuckel) Kuntze SPECIES
-=======
+# Asterophora rhizomorpha (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccobolus purpureus Brumm. SPECIES
-=======
+# Saccobolus purpureus Brumm. SPECIES
 
 #### Status
 ACCEPTED

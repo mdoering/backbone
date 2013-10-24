@@ -1,5 +1,4 @@
-Usnea epifilla Sambo SPECIES
-=======
+# Usnea epifilla Sambo SPECIES
 
 #### Status
 ACCEPTED

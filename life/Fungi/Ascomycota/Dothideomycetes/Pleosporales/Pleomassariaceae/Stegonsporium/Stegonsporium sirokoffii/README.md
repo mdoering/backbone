@@ -1,5 +1,4 @@
-Stegonsporium sirokoffii Bubák SPECIES
-=======
+# Stegonsporium sirokoffii Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirostoma tetrapsecadiosporium f. tetrapsecadiosporium FORM
-=======
+# Pirostoma tetrapsecadiosporium Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pirostoma tetrapsecadiosporium f. tetrapsecadiosporium
+Pirostoma tetrapsecadiosporium Sousa da Câmara
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo alismatis Thüm. SPECIES
-=======
+# Uredo alismatis Thüm. SPECIES
 
 #### Status
 ACCEPTED

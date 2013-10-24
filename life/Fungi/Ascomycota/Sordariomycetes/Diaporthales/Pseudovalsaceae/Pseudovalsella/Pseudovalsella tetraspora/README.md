@@ -1,5 +1,4 @@
-Pseudovalsella tetraspora Kobayasi SPECIES
-=======
+# Pseudovalsella tetraspora Kobayasi SPECIES
 
 #### Status
 ACCEPTED

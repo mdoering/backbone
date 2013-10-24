@@ -1,5 +1,4 @@
-Rhabdogloea subtropica Hindák SPECIES
-=======
+# Rhabdogloea subtropica Hindák SPECIES
 
 #### Status
 ACCEPTED

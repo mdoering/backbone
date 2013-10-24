@@ -1,5 +1,4 @@
-Chamaeceras striatipes (Peck) Kuntze SPECIES
-=======
+# Chamaeceras striatipes (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

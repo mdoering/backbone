@@ -1,5 +1,4 @@
-Peziza leineri Rabenh. & Gonn. SPECIES
-=======
+# Peziza leineri Rabenh. & Gonn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Silicibacter Petursdottir & Kristjansson, 1999 GENUS
-=======
+# Silicibacter Petursdottir & Kristjansson, 1999 GENUS
 
 #### Status
 ACCEPTED

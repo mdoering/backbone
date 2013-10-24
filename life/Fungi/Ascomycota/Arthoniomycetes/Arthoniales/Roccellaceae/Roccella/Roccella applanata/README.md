@@ -1,5 +1,4 @@
-Roccella applanata Choisy SPECIES
-=======
+# Roccella applanata Choisy SPECIES
 
 #### Status
 ACCEPTED

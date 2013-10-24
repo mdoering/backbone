@@ -1,5 +1,4 @@
-Ganoderma xanthocreas Pat. SPECIES
-=======
+# Ganoderma xanthocreas Pat. SPECIES
 
 #### Status
 ACCEPTED

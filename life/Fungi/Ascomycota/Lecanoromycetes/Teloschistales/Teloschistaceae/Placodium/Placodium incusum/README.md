@@ -1,5 +1,4 @@
-Placodium incusum SPECIES
-=======
+# Placodium incusum SPECIES
 
 #### Status
 ACCEPTED

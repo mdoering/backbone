@@ -1,5 +1,4 @@
-Trichophyton radicosum Catanei, 1937 SPECIES
-=======
+# Trichophyton radicosum Catanei, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinophysis apicatum SPECIES
-=======
+# Dinophysis apicatum SPECIES
 
 #### Status
 ACCEPTED

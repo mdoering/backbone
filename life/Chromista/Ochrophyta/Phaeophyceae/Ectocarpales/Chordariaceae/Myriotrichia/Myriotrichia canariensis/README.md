@@ -1,5 +1,4 @@
-Myriotrichia canariensis Kützing SPECIES
-=======
+# Myriotrichia canariensis Kützing SPECIES
 
 #### Status
 ACCEPTED

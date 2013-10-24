@@ -1,5 +1,4 @@
-Rinodina placomorpha (Stirt.) Zahlbr. SPECIES
-=======
+# Rinodina placomorpha (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

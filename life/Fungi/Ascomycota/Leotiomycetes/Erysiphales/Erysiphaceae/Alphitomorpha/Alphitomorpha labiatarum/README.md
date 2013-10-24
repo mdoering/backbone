@@ -1,5 +1,4 @@
-Alphitomorpha labiatarum Wallr. SPECIES
-=======
+# Alphitomorpha labiatarum Wallr. SPECIES
 
 #### Status
 ACCEPTED

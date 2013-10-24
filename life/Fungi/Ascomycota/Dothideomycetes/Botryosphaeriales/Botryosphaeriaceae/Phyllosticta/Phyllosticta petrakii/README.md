@@ -1,5 +1,4 @@
-Phyllosticta petrakii Cejp SPECIES
-=======
+# Phyllosticta petrakii Cejp SPECIES
 
 #### Status
 ACCEPTED

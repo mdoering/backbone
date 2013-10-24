@@ -1,5 +1,4 @@
-Tremella syringae Schumach. SPECIES
-=======
+# Tremella syringae Schumach. SPECIES
 
 #### Status
 ACCEPTED

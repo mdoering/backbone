@@ -1,5 +1,4 @@
-Marasmius hungo Henn. SPECIES
-=======
+# Marasmius hungo Henn. SPECIES
 
 #### Status
 ACCEPTED

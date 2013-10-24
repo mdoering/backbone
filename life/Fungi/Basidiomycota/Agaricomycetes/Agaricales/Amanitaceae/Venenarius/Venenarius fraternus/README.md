@@ -1,5 +1,4 @@
-Venenarius fraternus Murrill SPECIES
-=======
+# Venenarius fraternus Murrill SPECIES
 
 #### Status
 ACCEPTED

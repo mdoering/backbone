@@ -1,17 +1,16 @@
-Pholiotina mairei var. mairei VARIETY
-=======
+# Conocybe mairei Kühner ex Watling, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 61: 41 (1977)
 
 #### Original name
-null
+Conocybe mairei Kühner ex Watling, 1977
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria alvear Ces. SPECIES
-=======
+# Sphaeria alvear Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaeria sambuci (Earle) Petr. SPECIES
-=======
+# Xylosphaeria sambuci (Earle) Petr. SPECIES
 
 #### Status
 ACCEPTED

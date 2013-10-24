@@ -1,5 +1,4 @@
-Graphis betulina (Pers.) Gray SPECIES
-=======
+# Graphis betulina (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

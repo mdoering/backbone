@@ -1,5 +1,4 @@
-Ascochyta verbenae Siemaszko SPECIES
-=======
+# Ascochyta verbenae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

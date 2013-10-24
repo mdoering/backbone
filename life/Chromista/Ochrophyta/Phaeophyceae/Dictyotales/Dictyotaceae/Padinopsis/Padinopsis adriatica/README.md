@@ -1,5 +1,4 @@
-Padinopsis adriatica Ercegovic SPECIES
-=======
+# Padinopsis adriatica Ercegovic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila calcarea Romagn. SPECIES
-=======
+# Drosophila calcarea Romagn. SPECIES
 
 #### Status
 ACCEPTED

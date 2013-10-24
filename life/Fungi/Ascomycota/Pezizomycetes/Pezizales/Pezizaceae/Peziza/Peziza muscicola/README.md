@@ -1,5 +1,4 @@
-Peziza muscicola Donadini SPECIES
-=======
+# Peziza muscicola Donadini SPECIES
 
 #### Status
 ACCEPTED

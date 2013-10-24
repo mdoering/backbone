@@ -1,5 +1,4 @@
-Patellaria ramalinae Müll. Arg. SPECIES
-=======
+# Patellaria ramalinae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

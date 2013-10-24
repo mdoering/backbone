@@ -1,5 +1,4 @@
-Agaricus agrestis With. SPECIES
-=======
+# Agaricus agrestis With. SPECIES
 
 #### Status
 ACCEPTED

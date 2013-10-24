@@ -1,5 +1,4 @@
-Sphaeria supercrustacea Sowerby SPECIES
-=======
+# Sphaeria supercrustacea Sowerby SPECIES
 
 #### Status
 ACCEPTED

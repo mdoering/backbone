@@ -1,5 +1,4 @@
-Cryptomycetaceae Höhn. FAMILY
-=======
+# Cryptomycetaceae Höhn. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula medullata Romagn., 1997 SPECIES
-=======
+# Russula medullata Romagn., 1997 SPECIES
 
 #### Status
 ACCEPTED

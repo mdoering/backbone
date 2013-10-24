@@ -1,5 +1,4 @@
-Triloculina elata Saidova, 1975 SPECIES
-=======
+# Triloculina elata Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

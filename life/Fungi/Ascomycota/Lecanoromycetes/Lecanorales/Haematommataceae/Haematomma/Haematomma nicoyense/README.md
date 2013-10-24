@@ -1,5 +1,4 @@
-Haematomma nicoyense Nelsen, Lücking & Chaves SPECIES
-=======
+# Haematomma nicoyense Nelsen, Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

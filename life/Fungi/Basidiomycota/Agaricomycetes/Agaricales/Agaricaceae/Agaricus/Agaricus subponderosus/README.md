@@ -1,5 +1,4 @@
-Agaricus subponderosus Murrill SPECIES
-=======
+# Agaricus subponderosus Murrill SPECIES
 
 #### Status
 ACCEPTED

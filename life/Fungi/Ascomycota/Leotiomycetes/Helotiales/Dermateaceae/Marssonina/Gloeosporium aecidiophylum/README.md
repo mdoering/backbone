@@ -1,5 +1,4 @@
-Gloeosporium aecidiophylum Speg. SPECIES
-=======
+# Gloeosporium aecidiophylum Speg. SPECIES
 
 #### Status
 ACCEPTED

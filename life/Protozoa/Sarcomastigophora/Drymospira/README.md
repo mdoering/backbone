@@ -1,5 +1,4 @@
-Drymospira Haeckel, 1881 GENUS
-=======
+# Drymospira Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

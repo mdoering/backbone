@@ -1,5 +1,4 @@
-Morinia longiappendiculata Collado & Platas SPECIES
-=======
+# Morinia longiappendiculata Collado & Platas SPECIES
 
 #### Status
 ACCEPTED

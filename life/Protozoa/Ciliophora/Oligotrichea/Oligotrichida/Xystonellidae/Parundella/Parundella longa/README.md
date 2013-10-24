@@ -1,5 +1,4 @@
-Parundella longa Joergensen, 1924 SPECIES
-=======
+# Parundella longa Joergensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

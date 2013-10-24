@@ -1,5 +1,4 @@
-Cladonia homosekikaica Nuno SPECIES
-=======
+# Cladonia homosekikaica Nuno SPECIES
 
 #### Status
 ACCEPTED

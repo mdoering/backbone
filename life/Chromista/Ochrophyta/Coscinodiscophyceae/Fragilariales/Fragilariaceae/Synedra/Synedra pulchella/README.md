@@ -1,5 +1,4 @@
-Synedra pulchella var. minuta Hustedt VARIETY
-=======
+# Synedra pulchella Kützing SPECIES
 
 #### Status
 ACCEPTED

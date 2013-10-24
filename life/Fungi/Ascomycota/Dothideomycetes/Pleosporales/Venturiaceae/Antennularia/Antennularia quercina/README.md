@@ -1,5 +1,4 @@
-Antennularia quercina (Pers.) E. Müll. SPECIES
-=======
+# Antennularia quercina (Pers.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

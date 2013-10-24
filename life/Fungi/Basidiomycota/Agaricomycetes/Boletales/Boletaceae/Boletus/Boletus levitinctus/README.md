@@ -1,5 +1,4 @@
-Boletus levitinctus Corner SPECIES
-=======
+# Boletus levitinctus Corner SPECIES
 
 #### Status
 ACCEPTED

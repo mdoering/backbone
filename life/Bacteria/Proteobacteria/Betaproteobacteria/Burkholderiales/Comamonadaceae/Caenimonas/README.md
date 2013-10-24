@@ -1,5 +1,4 @@
-Caenimonas Ryu et al., 2008 GENUS
-=======
+# Caenimonas Ryu et al., 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus armeniascus Corner, 1981 SPECIES
-=======
+# Pleurotus armeniascus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

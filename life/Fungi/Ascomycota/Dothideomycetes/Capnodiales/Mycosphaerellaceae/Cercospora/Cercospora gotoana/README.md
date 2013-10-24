@@ -1,5 +1,4 @@
-Cercospora gotoana Togashi SPECIES
-=======
+# Cercospora gotoana Togashi SPECIES
 
 #### Status
 ACCEPTED

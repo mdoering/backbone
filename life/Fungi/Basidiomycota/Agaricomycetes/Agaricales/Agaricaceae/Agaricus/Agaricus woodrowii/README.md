@@ -1,5 +1,4 @@
-Agaricus woodrowii Massee SPECIES
-=======
+# Agaricus woodrowii Massee SPECIES
 
 #### Status
 ACCEPTED

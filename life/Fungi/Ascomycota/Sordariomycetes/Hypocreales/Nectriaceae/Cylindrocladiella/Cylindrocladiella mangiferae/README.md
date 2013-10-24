@@ -1,5 +1,4 @@
-Cylindrocladiella mangiferae Chowdhry & A. Varma, 1990 SPECIES
-=======
+# Cylindrocladiella mangiferae Chowdhry & A. Varma, 1990 SPECIES
 
 #### Status
 ACCEPTED

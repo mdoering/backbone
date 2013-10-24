@@ -1,5 +1,4 @@
-Nolanea kamerunensis Bres. SPECIES
-=======
+# Nolanea kamerunensis Bres. SPECIES
 
 #### Status
 ACCEPTED

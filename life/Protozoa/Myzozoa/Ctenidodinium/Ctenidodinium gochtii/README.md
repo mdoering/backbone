@@ -1,5 +1,4 @@
-Ctenidodinium gochtii (Sarjeant, 1976) Stover & Evitt SPECIES
-=======
+# Ctenidodinium gochtii (Sarjeant, 1976) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stegonsporium elevatum Riess, 1853 SPECIES
-=======
+# Coryneum elevatum (Riess) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zeitschr. tab. 3, fig. 24-27 (1853)
+Mycol. Pap. 138: 31 (1975)
 
 #### Original name
 Stegonsporium elevatum Riess, 1853

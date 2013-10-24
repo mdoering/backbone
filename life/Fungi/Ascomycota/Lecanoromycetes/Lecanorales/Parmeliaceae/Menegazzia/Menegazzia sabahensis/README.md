@@ -1,5 +1,4 @@
-Menegazzia sabahensis Bjerke & Sipman SPECIES
-=======
+# Menegazzia sabahensis Bjerke & Sipman SPECIES
 
 #### Status
 ACCEPTED

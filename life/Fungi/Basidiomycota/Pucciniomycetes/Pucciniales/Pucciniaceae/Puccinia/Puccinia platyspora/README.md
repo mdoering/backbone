@@ -1,5 +1,4 @@
-Puccinia platyspora (Speg.) H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia platyspora (Speg.) H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

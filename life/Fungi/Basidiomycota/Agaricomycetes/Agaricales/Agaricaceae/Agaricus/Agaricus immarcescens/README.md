@@ -1,5 +1,4 @@
-Agaricus immarcescens Britzelm. SPECIES
-=======
+# Agaricus immarcescens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

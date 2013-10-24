@@ -1,14 +1,13 @@
-Verrucaria inumbrata Nyl. SPECIES
-=======
+# Polyblastia inumbrata (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 47: 355 (1864)
+Flora, Jena 53: 483 (1870)
 
 #### Original name
 Verrucaria inumbrata Nyl.

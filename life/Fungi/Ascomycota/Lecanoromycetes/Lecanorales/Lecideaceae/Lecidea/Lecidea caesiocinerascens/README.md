@@ -1,5 +1,4 @@
-Lecidea caesiocinerascens (Darb.) Hue SPECIES
-=======
+# Lecidea caesiocinerascens (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

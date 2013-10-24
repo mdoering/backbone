@@ -1,5 +1,4 @@
-Micropeltis cupaniae Bat. & A.F. Vital SPECIES
-=======
+# Micropeltis cupaniae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

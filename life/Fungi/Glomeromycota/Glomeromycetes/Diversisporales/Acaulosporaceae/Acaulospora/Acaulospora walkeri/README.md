@@ -1,5 +1,4 @@
-Acaulospora walkeri Kramad. & Hedger, 1990 SPECIES
-=======
+# Acaulospora walkeri Kramad. & Hedger, 1990 SPECIES
 
 #### Status
 ACCEPTED

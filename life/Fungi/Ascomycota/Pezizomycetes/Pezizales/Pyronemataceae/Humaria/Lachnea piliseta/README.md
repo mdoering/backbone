@@ -1,5 +1,4 @@
-Lachnea piliseta (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea piliseta (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

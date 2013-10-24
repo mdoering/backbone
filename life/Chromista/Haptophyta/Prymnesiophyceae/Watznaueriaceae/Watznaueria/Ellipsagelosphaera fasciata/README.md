@@ -1,5 +1,4 @@
-Ellipsagelosphaera fasciata (Wind & Cepek, 1979) Perch-Nielsen, 1984 SPECIES
-=======
+# Ellipsagelosphaera fasciata (Wind & Cepek, 1979) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 DOUBTFUL

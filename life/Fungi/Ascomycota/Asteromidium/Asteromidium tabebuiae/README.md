@@ -1,5 +1,4 @@
-Asteromidium tabebuiae F.A. Ferreira & J.J. Muchovej SPECIES
-=======
+# Asteromidium tabebuiae F.A. Ferreira & J.J. Muchovej SPECIES
 
 #### Status
 ACCEPTED

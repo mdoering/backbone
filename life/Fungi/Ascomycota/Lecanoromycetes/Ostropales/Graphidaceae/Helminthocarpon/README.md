@@ -1,5 +1,4 @@
-Helminthocarpon Fée, 1837 GENUS
-=======
+# Helminthocarpon Fée, 1837 GENUS
 
 #### Status
 ACCEPTED

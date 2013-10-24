@@ -1,5 +1,4 @@
-Mycena angustispora Raithelh. SPECIES
-=======
+# Mycena angustispora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

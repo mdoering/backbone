@@ -1,5 +1,4 @@
-Meliola spigeliae Hansf. SPECIES
-=======
+# Meliola spigeliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

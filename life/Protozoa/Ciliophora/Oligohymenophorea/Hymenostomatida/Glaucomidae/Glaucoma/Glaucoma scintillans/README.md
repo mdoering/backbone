@@ -1,5 +1,4 @@
-Glaucoma scintillans Ehrenberg, 1830 SPECIES
-=======
+# Glaucoma scintillans Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

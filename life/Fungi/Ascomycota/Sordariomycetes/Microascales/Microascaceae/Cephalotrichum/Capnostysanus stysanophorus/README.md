@@ -1,5 +1,4 @@
-Capnostysanus stysanophorus (Penz. & Sacc.) Speg. SPECIES
-=======
+# Capnostysanus stysanophorus (Penz. & Sacc.) Speg. SPECIES
 
 #### Status
 ACCEPTED

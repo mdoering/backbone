@@ -1,5 +1,4 @@
-Naucoria disco-morbida Peck SPECIES
-=======
+# Naucoria disco-morbida Peck SPECIES
 
 #### Status
 ACCEPTED

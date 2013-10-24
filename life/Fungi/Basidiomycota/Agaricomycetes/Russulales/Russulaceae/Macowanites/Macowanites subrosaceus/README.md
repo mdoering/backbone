@@ -1,5 +1,4 @@
-Macowanites subrosaceus A.H. Sm. SPECIES
-=======
+# Macowanites subrosaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

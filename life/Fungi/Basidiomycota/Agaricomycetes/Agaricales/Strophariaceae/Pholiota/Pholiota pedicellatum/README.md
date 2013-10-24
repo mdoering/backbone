@@ -1,5 +1,4 @@
-Pholiota pedicellatum (Peck.) A.H. Smith & Hesler SPECIES
-=======
+# Pholiota pedicellatum (Peck.) A.H. Smith & Hesler SPECIES
 
 #### Status
 ACCEPTED

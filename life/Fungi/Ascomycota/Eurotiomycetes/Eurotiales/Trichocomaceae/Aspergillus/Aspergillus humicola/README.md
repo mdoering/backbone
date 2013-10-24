@@ -1,5 +1,4 @@
-Aspergillus humicola Chaudhuri & Sachar SPECIES
-=======
+# Aspergillus humicola Chaudhuri & Sachar SPECIES
 
 #### Status
 ACCEPTED

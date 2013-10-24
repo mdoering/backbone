@@ -1,5 +1,4 @@
-Triadelphia corticola Manohar., N.K. Rao & D.K. Agarwal SPECIES
-=======
+# Triadelphia corticola Manohar., N.K. Rao & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

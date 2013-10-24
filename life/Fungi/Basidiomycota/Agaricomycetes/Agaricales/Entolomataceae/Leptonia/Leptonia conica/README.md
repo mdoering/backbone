@@ -1,5 +1,4 @@
-Leptonia conica (Murrill) Sacc. & Trotter SPECIES
-=======
+# Leptonia conica (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

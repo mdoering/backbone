@@ -1,5 +1,4 @@
-Palaeohystrichophora G. Deflandre, 1935 GENUS
-=======
+# Palaeohystrichophora G. Deflandre, 1935 GENUS
 
 #### Status
 ACCEPTED

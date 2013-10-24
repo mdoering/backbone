@@ -1,5 +1,4 @@
-Phylloporina platyspora Müll. Arg. SPECIES
-=======
+# Phylloporina platyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

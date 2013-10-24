@@ -1,5 +1,4 @@
-Melanopsamma laurincola Rehm SPECIES
-=======
+# Melanopsamma laurincola Rehm SPECIES
 
 #### Status
 ACCEPTED
