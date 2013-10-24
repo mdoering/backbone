@@ -1,5 +1,4 @@
-Bolbitius flavus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Bolbitius flavus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

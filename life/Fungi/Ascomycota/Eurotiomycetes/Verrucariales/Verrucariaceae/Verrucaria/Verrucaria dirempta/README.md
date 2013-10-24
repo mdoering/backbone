@@ -1,5 +1,4 @@
-Verrucaria dirempta Nyl. SPECIES
-=======
+# Verrucaria dirempta Nyl. SPECIES
 
 #### Status
 ACCEPTED

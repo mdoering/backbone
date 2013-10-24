@@ -1,5 +1,4 @@
-Thelohania baueri Voronin, 1974 SPECIES
-=======
+# Thelohania baueri Voronin, 1974 SPECIES
 
 #### Status
 ACCEPTED

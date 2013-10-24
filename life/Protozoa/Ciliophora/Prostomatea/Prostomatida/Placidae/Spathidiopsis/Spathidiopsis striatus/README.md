@@ -1,5 +1,4 @@
-Spathidiopsis striatus (Cohn, 1866) Corliss, 1979 SPECIES
-=======
+# Spathidiopsis striatus (Cohn, 1866) Corliss, 1979 SPECIES
 
 #### Status
 ACCEPTED

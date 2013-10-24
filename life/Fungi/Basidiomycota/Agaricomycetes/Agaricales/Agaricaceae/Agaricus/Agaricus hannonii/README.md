@@ -1,5 +1,4 @@
-Agaricus hannonii A.E. Freeman SPECIES
-=======
+# Agaricus hannonii A.E. Freeman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoventuria echinospora Racov. SPECIES
-=======
+# Protoventuria echinospora Racov. SPECIES
 
 #### Status
 ACCEPTED

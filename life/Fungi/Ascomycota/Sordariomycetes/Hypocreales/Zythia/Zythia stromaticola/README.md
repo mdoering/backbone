@@ -1,5 +1,4 @@
-Zythia stromaticola Henn. & Shirai SPECIES
-=======
+# Zythia stromaticola Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagynus elegans (Engelmann, 1862) Quennerstedt, 1867 SPECIES
-=======
+# Lagynus elegans (Engelmann, 1862) Quennerstedt, 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hemitrichia minor var. minor G. Lister VARIETY
-=======
+# Hemitrichia minor G. Lister, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Bot. , London 49: 62 (1911)
 
 #### Original name
-Hemitrichia minor var. minor G. Lister
+Hemitrichia minor G. Lister, 1911
 
 ### Remarks
 null

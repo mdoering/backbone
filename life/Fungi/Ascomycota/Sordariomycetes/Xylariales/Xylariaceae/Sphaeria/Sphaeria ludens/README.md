@@ -1,5 +1,4 @@
-Sphaeria ludens Schulzer SPECIES
-=======
+# Sphaeria ludens Schulzer SPECIES
 
 #### Status
 ACCEPTED

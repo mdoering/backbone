@@ -1,5 +1,4 @@
-Trinacria regina Heiberg SPECIES
-=======
+# Trinacria regina Heiberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteroplacidium Breuss GENUS
-=======
+# Heteroplacidium Breuss GENUS
 
 #### Status
 ACCEPTED

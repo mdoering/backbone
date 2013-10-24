@@ -1,5 +1,4 @@
-Nectria thujana (Rehm) Sacc. SPECIES
-=======
+# Nectria thujana (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

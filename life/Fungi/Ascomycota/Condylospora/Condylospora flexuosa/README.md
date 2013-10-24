@@ -1,5 +1,4 @@
-Condylospora flexuosa Nawawi & Kuthub., 1988 SPECIES
-=======
+# Condylospora flexuosa Nawawi & Kuthub., 1988 SPECIES
 
 #### Status
 ACCEPTED

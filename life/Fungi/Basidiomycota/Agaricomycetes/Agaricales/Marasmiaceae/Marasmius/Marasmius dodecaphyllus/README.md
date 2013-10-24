@@ -1,5 +1,4 @@
-Marasmius dodecaphyllus Singer SPECIES
-=======
+# Marasmius dodecaphyllus Singer SPECIES
 
 #### Status
 ACCEPTED

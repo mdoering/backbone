@@ -1,5 +1,4 @@
-Brochopsophosphaera aldanica Pykhova, 1969 SPECIES
-=======
+# Brochopsophosphaera aldanica Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

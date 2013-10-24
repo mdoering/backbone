@@ -1,5 +1,4 @@
-Halosigmoidea luteola (Nakagiri & Tubaki) Nakagiri, K.L. Pang & E.B.G. Jones, 2009 SPECIES
-=======
+# Halosigmoidea luteola (Nakagiri & Tubaki) Nakagiri, K.L. Pang & E.B.G. Jones, 2009 SPECIES
 
 #### Status
 ACCEPTED

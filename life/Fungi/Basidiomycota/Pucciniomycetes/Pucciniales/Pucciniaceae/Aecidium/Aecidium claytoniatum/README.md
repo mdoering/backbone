@@ -1,5 +1,4 @@
-Aecidium claytoniatum Schwein. SPECIES
-=======
+# Aecidium claytoniatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

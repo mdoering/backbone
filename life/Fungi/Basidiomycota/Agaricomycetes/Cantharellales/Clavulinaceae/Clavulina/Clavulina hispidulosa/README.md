@@ -1,5 +1,4 @@
-Clavulina hispidulosa Corner, K.S. Thind & Anand, 1956 SPECIES
-=======
+# Clavulina hispidulosa Corner, K.S. Thind & Anand, 1956 SPECIES
 
 #### Status
 ACCEPTED

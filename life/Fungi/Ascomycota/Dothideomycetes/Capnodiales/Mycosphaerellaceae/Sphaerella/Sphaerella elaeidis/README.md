@@ -1,5 +1,4 @@
-Sphaerella elaeidis Beeli SPECIES
-=======
+# Sphaerella elaeidis Beeli SPECIES
 
 #### Status
 ACCEPTED

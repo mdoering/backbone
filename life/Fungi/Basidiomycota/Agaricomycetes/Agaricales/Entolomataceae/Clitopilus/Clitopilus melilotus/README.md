@@ -1,5 +1,4 @@
-Clitopilus melilotus Berk. & M.A. Curtis SPECIES
-=======
+# Clitopilus melilotus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

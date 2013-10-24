@@ -1,5 +1,4 @@
-Hypochnus candidus (Sacc.) Sacc. SPECIES
-=======
+# Hypochnus candidus (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

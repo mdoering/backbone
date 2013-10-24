@@ -1,5 +1,4 @@
-Didymostilbe Hennings, 1902 GENUS
-=======
+# Didymostilbe Hennings, 1902 GENUS
 
 #### Status
 ACCEPTED

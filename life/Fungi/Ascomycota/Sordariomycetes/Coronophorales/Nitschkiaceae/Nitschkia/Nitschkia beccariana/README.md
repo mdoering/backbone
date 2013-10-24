@@ -1,14 +1,13 @@
-Nitschkea beccariana (Berl.) Kuntze SPECIES
-=======
+# Nitschkia beccariana (Berl.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 501 (1898)
 
 #### Original name
 Coelosphaeria beccariana Berl. & Peglion

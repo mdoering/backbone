@@ -1,5 +1,4 @@
-Lyngbya cinerascens Kützing SPECIES
-=======
+# Lyngbya cinerascens Kützing SPECIES
 
 #### Status
 ACCEPTED

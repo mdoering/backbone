@@ -1,5 +1,4 @@
-Didymosphaeria sophorae Koshk. & Frolov SPECIES
-=======
+# Didymosphaeria sophorae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

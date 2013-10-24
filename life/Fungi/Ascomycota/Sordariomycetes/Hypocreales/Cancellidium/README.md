@@ -1,5 +1,4 @@
-Cancellidium Tubaki GENUS
-=======
+# Cancellidium Tubaki GENUS
 
 #### Status
 ACCEPTED

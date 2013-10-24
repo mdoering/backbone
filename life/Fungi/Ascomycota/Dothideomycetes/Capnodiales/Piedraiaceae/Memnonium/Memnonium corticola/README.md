@@ -1,5 +1,4 @@
-Memnonium corticola Cooke SPECIES
-=======
+# Memnonium corticola Cooke SPECIES
 
 #### Status
 ACCEPTED

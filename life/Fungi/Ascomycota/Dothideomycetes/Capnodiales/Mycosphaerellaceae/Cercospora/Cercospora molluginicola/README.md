@@ -1,5 +1,4 @@
-Cercospora molluginicola Lieneman SPECIES
-=======
+# Cercospora molluginicola Lieneman SPECIES
 
 #### Status
 ACCEPTED

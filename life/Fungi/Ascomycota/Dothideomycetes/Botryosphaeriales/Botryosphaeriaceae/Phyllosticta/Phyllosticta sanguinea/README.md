@@ -1,5 +1,4 @@
-Phyllosticta sanguinea (Desm.) Sacc. SPECIES
-=======
+# Phyllosticta sanguinea (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

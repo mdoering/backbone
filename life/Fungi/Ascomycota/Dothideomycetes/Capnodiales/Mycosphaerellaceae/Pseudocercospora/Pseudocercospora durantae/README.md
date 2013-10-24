@@ -1,5 +1,4 @@
-Pseudocercospora durantae N. Pons, U. Braun & Crous SPECIES
-=======
+# Pseudocercospora durantae N. Pons, U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita eijii Zhu L. Yang SPECIES
-=======
+# Amanita eijii Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

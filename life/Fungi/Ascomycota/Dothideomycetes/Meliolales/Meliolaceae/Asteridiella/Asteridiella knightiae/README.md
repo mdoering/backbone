@@ -1,5 +1,4 @@
-Asteridiella knightiae S. Hughes, 1978 SPECIES
-=======
+# Asteridiella knightiae S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

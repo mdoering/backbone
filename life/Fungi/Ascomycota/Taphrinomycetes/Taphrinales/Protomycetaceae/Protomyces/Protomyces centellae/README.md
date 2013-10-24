@@ -1,5 +1,4 @@
-Protomyces centellae Cif. SPECIES
-=======
+# Protomyces centellae Cif. SPECIES
 
 #### Status
 ACCEPTED

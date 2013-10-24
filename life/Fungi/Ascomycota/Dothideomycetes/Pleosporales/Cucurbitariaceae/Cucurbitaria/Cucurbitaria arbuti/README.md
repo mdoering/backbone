@@ -1,5 +1,4 @@
-Cucurbitaria arbuti Bondartseva SPECIES
-=======
+# Cucurbitaria arbuti Bondartseva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Serpula Stanton et al., 1991 GENUS
-=======
+# Serpulina Stanton, 1992 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

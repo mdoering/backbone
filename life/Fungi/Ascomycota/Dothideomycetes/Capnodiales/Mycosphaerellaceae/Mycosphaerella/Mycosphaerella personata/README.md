@@ -1,5 +1,4 @@
-Mycosphaerella personata B.B. Higgins, 1929 SPECIES
-=======
+# Mycosphaerella personata B.B. Higgins, 1929 SPECIES
 
 #### Status
 ACCEPTED

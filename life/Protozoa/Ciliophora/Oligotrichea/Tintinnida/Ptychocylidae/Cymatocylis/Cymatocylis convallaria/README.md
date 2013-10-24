@@ -1,5 +1,4 @@
-Cymatocylis convallaria Laackmann, 1910 SPECIES
-=======
+# Cymatocylis convallaria Laackmann, 1910 SPECIES
 
 #### Status
 ACCEPTED

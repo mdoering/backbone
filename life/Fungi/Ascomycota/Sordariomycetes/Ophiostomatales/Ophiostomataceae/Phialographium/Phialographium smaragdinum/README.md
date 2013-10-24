@@ -1,5 +1,4 @@
-Phialographium smaragdinum (Alb. & Schwein.) M.B. Ellis SPECIES
-=======
+# Phialographium smaragdinum (Alb. & Schwein.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

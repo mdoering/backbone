@@ -1,5 +1,4 @@
-Arthothelium abnorme (Ach.) Müll. Arg. SPECIES
-=======
+# Arthothelium abnorme (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

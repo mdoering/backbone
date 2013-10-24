@@ -1,5 +1,4 @@
-Hendersonia stictica Lév. SPECIES
-=======
+# Hendersonia stictica Lév. SPECIES
 
 #### Status
 ACCEPTED

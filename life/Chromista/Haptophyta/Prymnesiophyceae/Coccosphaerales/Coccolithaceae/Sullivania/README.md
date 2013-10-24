@@ -1,5 +1,4 @@
-Sullivania O. Varol, 1992 GENUS
-=======
+# Sullivania O. Varol, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria ninea SPECIES
-=======
+# Clavaria ninea SPECIES
 
 #### Status
 ACCEPTED

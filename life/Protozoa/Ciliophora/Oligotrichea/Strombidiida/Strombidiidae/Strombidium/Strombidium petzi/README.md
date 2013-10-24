@@ -1,5 +1,4 @@
-Strombidium petzi Song, 2005 SPECIES
-=======
+# Strombidium petzi Song, 2005 SPECIES
 
 #### Status
 ACCEPTED

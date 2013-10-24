@@ -1,5 +1,4 @@
-Acarosporina hormospora (Speg.) Sherwood SPECIES
-=======
+# Acarosporina hormospora (Speg.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erioderma granulosum P. M. Jørg. & Arv. SPECIES
-=======
+# Erioderma granulosum P. M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

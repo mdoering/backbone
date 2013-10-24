@@ -1,5 +1,4 @@
-Textularia dibollensis Cushman & Aplin SPECIES
-=======
+# Textularia dibollensis Cushman & Aplin SPECIES
 
 #### Status
 ACCEPTED

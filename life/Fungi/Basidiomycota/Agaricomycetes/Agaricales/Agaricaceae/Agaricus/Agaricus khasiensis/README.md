@@ -1,5 +1,4 @@
-Agaricus khasiensis Berk. SPECIES
-=======
+# Agaricus khasiensis Berk. SPECIES
 
 #### Status
 ACCEPTED

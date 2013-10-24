@@ -1,5 +1,4 @@
-Planularia miocenica (Chapman) SPECIES
-=======
+# Planularia miocenica (Chapman) SPECIES
 
 #### Status
 ACCEPTED

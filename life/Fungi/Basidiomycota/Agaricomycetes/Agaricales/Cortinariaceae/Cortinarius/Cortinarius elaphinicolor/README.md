@@ -1,5 +1,4 @@
-Cortinarius elaphinicolor Carteret SPECIES
-=======
+# Cortinarius elaphinicolor Carteret SPECIES
 
 #### Status
 ACCEPTED

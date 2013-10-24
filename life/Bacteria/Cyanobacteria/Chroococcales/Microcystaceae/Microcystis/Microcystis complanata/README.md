@@ -1,5 +1,4 @@
-Microcystis complanata Skuja SPECIES
-=======
+# Microcystis complanata Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metschnikowia santaceciliae Lachance, J.M. Bowles & Starmer, 2003 SPECIES
-=======
+# Metschnikowia santaceciliae Lachance, J.M. Bowles & Starmer, 2003 SPECIES
 
 #### Status
 ACCEPTED

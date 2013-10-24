@@ -1,5 +1,4 @@
-Phyllachora maculata Cooke, 1891 SPECIES
-=======
+# Phyllachora maculata Cooke, 1891 SPECIES
 
 #### Status
 DOUBTFUL

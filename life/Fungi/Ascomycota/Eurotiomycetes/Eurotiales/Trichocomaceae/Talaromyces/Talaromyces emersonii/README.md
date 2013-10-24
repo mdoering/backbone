@@ -1,17 +1,16 @@
-Penicillium poonense Subrahmanyam & Thirum. SPECIES
-=======
+# Talaromyces emersonii Stolk, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 31: 262 (1965)
 
 #### Original name
-null
+Talaromyces emersonii Stolk, 1965
 
 ### Remarks
 null

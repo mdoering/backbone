@@ -1,5 +1,4 @@
-Obertrumia regina SPECIES
-=======
+# Obertrumia regina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cedriolens Hornicek SPECIES
-=======
+# Russula cedriolens Hornicek SPECIES
 
 #### Status
 ACCEPTED

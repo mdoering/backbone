@@ -1,17 +1,16 @@
-Caeomurus valerianae (Schumach.) Kuntze, 1898 SPECIES
-=======
+# Uromyces valerianae Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 451 (1898)
+Jb. nassau. Ver. Naturk. 23-24: 63 (1870)
 
 #### Original name
-Uredo valerianae Desm.
+Uromyces valerianae Fuckel, 1870
 
 ### Remarks
 null

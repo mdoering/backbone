@@ -1,5 +1,4 @@
-Usnea arnoldiana var. arnoldiana Zahlbr. VARIETY
-=======
+# Usnea arnoldiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea arnoldiana var. arnoldiana Zahlbr.
+Usnea arnoldiana Zahlbr.
 
 ### Remarks
 null

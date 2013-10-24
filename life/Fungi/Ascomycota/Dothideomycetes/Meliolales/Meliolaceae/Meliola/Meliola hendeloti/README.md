@@ -1,5 +1,4 @@
-Meliola hendeloti Gaillard SPECIES
-=======
+# Meliola hendeloti Gaillard SPECIES
 
 #### Status
 ACCEPTED

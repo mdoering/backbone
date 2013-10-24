@@ -1,5 +1,4 @@
-Sporidesmium induratum Cooke SPECIES
-=======
+# Sporidesmium induratum Cooke SPECIES
 
 #### Status
 ACCEPTED

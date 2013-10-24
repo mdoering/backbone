@@ -1,17 +1,16 @@
-Puccinia haloragidis G. Cunn. SPECIES
-=======
+# Puccinia haloragis G. Cunn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. & Proc. New Zealand Inst. 54: 664 (1923)
 
 #### Original name
-Puccinia haloragidis G. Cunn.
+Puccinia haloragis G. Cunn.
 
 ### Remarks
 null

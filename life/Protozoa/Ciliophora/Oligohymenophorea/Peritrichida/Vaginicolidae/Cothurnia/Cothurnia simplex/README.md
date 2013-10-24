@@ -1,5 +1,4 @@
-Cothurnia simplex Kahl, 1933 SPECIES
-=======
+# Cothurnia simplex Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

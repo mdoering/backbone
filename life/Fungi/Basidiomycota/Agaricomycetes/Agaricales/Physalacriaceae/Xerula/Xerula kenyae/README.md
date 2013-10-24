@@ -1,5 +1,4 @@
-Xerula kenyae R.H. Petersen SPECIES
-=======
+# Xerula kenyae R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

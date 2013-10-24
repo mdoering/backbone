@@ -1,5 +1,4 @@
-Erysiphe magnifica (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe magnifica (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

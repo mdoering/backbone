@@ -1,5 +1,4 @@
-Mayerella Janko in Janko & Troitskaja, 1987 GENUS
-=======
+# Mayerella Janko in Janko & Troitskaja, 1987 GENUS
 
 #### Status
 ACCEPTED

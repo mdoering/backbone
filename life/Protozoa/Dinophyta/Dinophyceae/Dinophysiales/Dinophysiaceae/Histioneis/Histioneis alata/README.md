@@ -1,5 +1,4 @@
-Histioneis alata Rampi SPECIES
-=======
+# Histioneis alata Rampi SPECIES
 
 #### Status
 ACCEPTED

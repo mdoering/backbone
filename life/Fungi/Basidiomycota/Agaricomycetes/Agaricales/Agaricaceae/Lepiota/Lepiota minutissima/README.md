@@ -1,5 +1,4 @@
-Lepiota minutissima Beeli SPECIES
-=======
+# Lepiota minutissima Beeli SPECIES
 
 #### Status
 ACCEPTED

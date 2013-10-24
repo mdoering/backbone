@@ -1,5 +1,4 @@
-Ectocarpus distortus Carmichael SPECIES
-=======
+# Ectocarpus distortus Carmichael SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gromia gracilis Moebius, 1889 SPECIES
-=======
+# Gromia gracilis Moebius, 1889 SPECIES
 
 #### Status
 ACCEPTED

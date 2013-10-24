@@ -1,5 +1,4 @@
-Thrombium sordidum SPECIES
-=======
+# Thrombium sordidum SPECIES
 
 #### Status
 ACCEPTED

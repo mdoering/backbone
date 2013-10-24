@@ -1,5 +1,4 @@
-Pyrenochaeta resedae Fautrey & Lambotte SPECIES
-=======
+# Pyrenochaeta resedae Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina pinetorum Romagn. SPECIES
-=======
+# Galerina pinetorum Romagn. SPECIES
 
 #### Status
 ACCEPTED

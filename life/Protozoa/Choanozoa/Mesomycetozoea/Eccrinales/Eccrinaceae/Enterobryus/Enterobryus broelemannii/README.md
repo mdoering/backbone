@@ -1,17 +1,16 @@
-Enterobryus brölemanni L. Léger & Duboscq SPECIES
-=======
+# Enterobryus broelemannii Duboscq, L. Léger & Tuzet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+C. r. hebd. Séanc. Acad. Sci. , Paris 141: 426 (1905)
 
 #### Original name
-Enterobryus brölemanni L. Léger & Duboscq
+Enterobryus broelemannii Duboscq, L. Léger & Tuzet
 
 ### Remarks
 null

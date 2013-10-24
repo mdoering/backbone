@@ -1,5 +1,4 @@
-Alternantia J.Schiller, 1954 GENUS
-=======
+# Alternantia J.Schiller, 1954 GENUS
 
 #### Status
 ACCEPTED

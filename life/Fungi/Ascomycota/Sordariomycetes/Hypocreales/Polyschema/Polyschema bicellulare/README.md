@@ -1,17 +1,16 @@
-Polyschema bicellularis Shearer SPECIES
-=======
+# Polyschema bicellulare Shearer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 14(1): 91 (1982)
 
 #### Original name
-Polyschema bicellularis Shearer
+Polyschema bicellulare Shearer
 
 ### Remarks
 null

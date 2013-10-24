@@ -1,17 +1,16 @@
-Hypoxylon argillaceum var. argillaceum (Fr.) J. Kickx f. VARIETY
-=======
+# Hypoxylon fraxinophilum Pouzar, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 26: 131 (1972)
 
 #### Original name
-Hypoxylon argillaceum var. argillaceum (Fr.) J. Kickx f.
+Hypoxylon fraxinophilum Pouzar, 1972
 
 ### Remarks
 null

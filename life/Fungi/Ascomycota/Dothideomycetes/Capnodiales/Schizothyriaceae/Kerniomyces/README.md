@@ -1,5 +1,4 @@
-Kerniomyces Toro GENUS
-=======
+# Kerniomyces Toro GENUS
 
 #### Status
 ACCEPTED

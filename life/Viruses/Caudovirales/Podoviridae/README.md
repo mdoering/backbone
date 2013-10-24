@@ -1,5 +1,4 @@
-Podoviridae FAMILY
-=======
+# Podoviridae FAMILY
 
 #### Status
 ACCEPTED

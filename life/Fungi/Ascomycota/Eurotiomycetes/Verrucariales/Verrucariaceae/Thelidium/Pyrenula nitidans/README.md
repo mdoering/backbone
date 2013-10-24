@@ -1,5 +1,4 @@
-Pyrenula nitidans Müll. Arg., 1891 SPECIES
-=======
+# Pyrenula nitidans Müll. Arg., 1891 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Sagedia cognata Arnold SPECIES
-=======
+# Sagedia cognata Arnold SPECIES
 
 #### Status
 ACCEPTED

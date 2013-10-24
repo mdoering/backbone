@@ -1,5 +1,4 @@
-Trichopeziza badia (Rehm) Sacc. SPECIES
-=======
+# Trichopeziza badia (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melaspilea mauca Vain. SPECIES
-=======
+# Melaspilea mauca Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma fibrosum Hesler SPECIES
-=======
+# Entoloma fibrosum Hesler SPECIES
 
 #### Status
 ACCEPTED

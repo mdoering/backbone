@@ -1,5 +1,4 @@
-Lathagrium furvum (Ach.) Gray SPECIES
-=======
+# Lathagrium furvum (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

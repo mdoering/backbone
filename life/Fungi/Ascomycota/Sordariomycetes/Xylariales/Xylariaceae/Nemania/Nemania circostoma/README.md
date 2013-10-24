@@ -1,17 +1,16 @@
-Hypoxylon circostoma Speg. SPECIES
-=======
+# Nemania circostoma (Schwein.) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 74(1-2): 92 (2002)
 
 #### Original name
-Hypoxylon circostoma Speg.
+Hypoxylon circostomum Speg., 1921
 
 ### Remarks
 null

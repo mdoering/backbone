@@ -1,5 +1,4 @@
-Proteus Hauser, 1885 GENUS
-=======
+# Proteus Hauser, 1885 GENUS
 
 #### Status
 ACCEPTED

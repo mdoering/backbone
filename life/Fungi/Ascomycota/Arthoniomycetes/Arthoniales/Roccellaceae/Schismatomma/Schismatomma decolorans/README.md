@@ -1,17 +1,16 @@
-Arthonia decolorans f. decolorans FORM
-=======
+# Schismatomma decolorans (Turner & Borrer ex Sm.) Clauzade & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenes Selecti Exsiccati (Pruhonice) 13: no. 304 (1965)
 
 #### Original name
-Arthonia decolorans f. decolorans
+Lichen decolorans (Hoffm.) Schrad.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bahuchashaka Subram. GENUS
-=======
+# Bahuchashaka Subram. GENUS
 
 #### Status
 ACCEPTED

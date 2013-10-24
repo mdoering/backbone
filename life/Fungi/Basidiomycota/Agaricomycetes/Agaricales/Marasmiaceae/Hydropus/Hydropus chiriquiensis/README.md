@@ -1,5 +1,4 @@
-Hydropus chiriquiensis Singer SPECIES
-=======
+# Hydropus chiriquiensis Singer SPECIES
 
 #### Status
 ACCEPTED

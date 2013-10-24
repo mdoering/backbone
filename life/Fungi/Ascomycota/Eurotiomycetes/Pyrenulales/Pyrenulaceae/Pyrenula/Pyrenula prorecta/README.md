@@ -1,5 +1,4 @@
-Pyrenula prorecta (Kremp.) Müll. Arg. SPECIES
-=======
+# Pyrenula prorecta (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraspyris Haeckel, 1881 GENUS
-=======
+# Tetraspyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

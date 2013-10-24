@@ -1,5 +1,4 @@
-Dictyochaeta fuegiana Speg., 1923 SPECIES
-=======
+# Dictyochaeta fuegiana Speg., 1923 SPECIES
 
 #### Status
 ACCEPTED

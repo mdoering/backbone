@@ -1,5 +1,4 @@
-Medusula olivacea Mont. SPECIES
-=======
+# Medusula olivacea Mont. SPECIES
 
 #### Status
 ACCEPTED

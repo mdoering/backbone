@@ -1,5 +1,4 @@
-Aurichona Jankowksi, 1973 GENUS
-=======
+# Aurichona Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

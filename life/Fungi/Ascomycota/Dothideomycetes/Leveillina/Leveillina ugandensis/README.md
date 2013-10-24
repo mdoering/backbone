@@ -1,5 +1,4 @@
-Leveillina ugandensis Hansf. SPECIES
-=======
+# Leveillina ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

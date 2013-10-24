@@ -1,5 +1,4 @@
-Erineum dombeyae Schltdl. SPECIES
-=======
+# Erineum dombeyae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ioanella Saidova, 1975 GENUS
-=======
+# Ioanella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

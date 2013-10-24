@@ -1,5 +1,4 @@
-Metopus hyalinus Kahl, 1932 SPECIES
-=======
+# Metopus hyalinus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

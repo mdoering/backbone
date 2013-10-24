@@ -1,5 +1,4 @@
-Clavidisculum phytolaccae (Raitv.) Raitv. SPECIES
-=======
+# Clavidisculum phytolaccae (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticulofenestra haqii Backman, 1978 SPECIES
-=======
+# Reticulofenestra haqii Backman, 1978 SPECIES
 
 #### Status
 ACCEPTED

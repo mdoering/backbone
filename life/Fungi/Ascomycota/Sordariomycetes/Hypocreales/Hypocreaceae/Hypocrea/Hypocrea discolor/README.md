@@ -1,5 +1,4 @@
-Hypocrea discolor Penz. & Sacc. SPECIES
-=======
+# Hypocrea discolor Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

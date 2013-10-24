@@ -1,5 +1,4 @@
-Lepiota selinolens Redeuilh & Guinb. SPECIES
-=======
+# Lepiota selinolens Redeuilh & Guinb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula celtidis Schwarzman & Kusnezowa SPECIES
-=======
+# Uncinula celtidis Schwarzman & Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

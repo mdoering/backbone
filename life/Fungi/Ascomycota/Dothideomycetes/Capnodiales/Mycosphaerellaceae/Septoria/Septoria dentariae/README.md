@@ -1,5 +1,4 @@
-Septoria dentariae Peck SPECIES
-=======
+# Septoria dentariae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoicomyces osorianus Thaxt. SPECIES
-=======
+# Monoicomyces osorianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

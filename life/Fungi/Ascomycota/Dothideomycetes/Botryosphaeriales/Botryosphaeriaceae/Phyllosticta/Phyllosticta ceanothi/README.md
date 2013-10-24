@@ -1,5 +1,4 @@
-Phyllosticta ceanothi Miles SPECIES
-=======
+# Phyllosticta ceanothi Miles SPECIES
 
 #### Status
 ACCEPTED

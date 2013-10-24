@@ -1,5 +1,4 @@
-Lactarius austrovolemus Hongo SPECIES
-=======
+# Lactarius austrovolemus Hongo SPECIES
 
 #### Status
 ACCEPTED

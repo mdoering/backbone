@@ -1,5 +1,4 @@
-Dictyosporites eccentricus Kalgutkar SPECIES
-=======
+# Dictyosporites eccentricus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

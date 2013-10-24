@@ -1,8 +1,7 @@
-Phymatostroma stercocarium Corda SPECIES
-=======
+# Phymatostroma stercorarium Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phymatostroma stercocarium Corda
+Phymatostroma stercorarium Corda
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea leprothalla Zahlbr. SPECIES
-=======
+# Lecidea leprothalla Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

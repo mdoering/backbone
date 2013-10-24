@@ -1,8 +1,7 @@
-Coralloderma acroleucum var. acroleucum (Pat.) D.A. Reid, 1965 VARIETY
-=======
+# Coralloderma acroleucum (Pat.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Beih. Nova Hedwigia 18: 332 (1965)
 
 #### Original name
-Coralloderma acroleucum var. acroleucum (Pat.) D.A. Reid, 1965
+Thelephora acroleuca Pat., 1898
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius saccharatus M.M. Moser SPECIES
-=======
+# Cortinarius saccharatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

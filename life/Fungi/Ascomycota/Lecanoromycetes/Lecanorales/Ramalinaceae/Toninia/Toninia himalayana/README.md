@@ -1,5 +1,4 @@
-Toninia himalayana Timdal SPECIES
-=======
+# Toninia himalayana Timdal SPECIES
 
 #### Status
 ACCEPTED

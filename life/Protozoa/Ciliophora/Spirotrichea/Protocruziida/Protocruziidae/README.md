@@ -1,5 +1,4 @@
-Protocruziidae Jankowksi, 1980 FAMILY
-=======
+# Protocruziidae Jankowksi, 1980 FAMILY
 
 #### Status
 ACCEPTED

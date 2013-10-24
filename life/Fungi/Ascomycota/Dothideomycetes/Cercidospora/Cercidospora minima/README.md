@@ -1,5 +1,4 @@
-Cercidospora minima Stein SPECIES
-=======
+# Cercidospora minima Stein SPECIES
 
 #### Status
 ACCEPTED

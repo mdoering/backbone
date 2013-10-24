@@ -1,5 +1,4 @@
-Septoria monticola D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria monticola D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

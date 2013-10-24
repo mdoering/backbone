@@ -1,5 +1,4 @@
-Macrophoma pycnocomonis Gonz. Frag. SPECIES
-=======
+# Macrophoma pycnocomonis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

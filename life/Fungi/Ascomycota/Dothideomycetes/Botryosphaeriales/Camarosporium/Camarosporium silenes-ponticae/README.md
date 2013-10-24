@@ -1,5 +1,4 @@
-Camarosporium silenes-ponticae Manoliu & Mítítíuc SPECIES
-=======
+# Camarosporium silenes-ponticae Manoliu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

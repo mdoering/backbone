@@ -1,5 +1,4 @@
-Uromyces illotus Arthur & Holw., 1918 SPECIES
-=======
+# Uromyces illotus Arthur & Holw., 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodiplodia lathyri H. Ruppr. SPECIES
-=======
+# Pseudodiplodia lathyri H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

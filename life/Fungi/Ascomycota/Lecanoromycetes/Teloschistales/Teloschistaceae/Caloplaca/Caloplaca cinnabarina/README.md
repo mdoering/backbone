@@ -1,17 +1,16 @@
-Caloplaca cinnabarina var. cinnabarina VARIETY
-=======
+# Caloplaca cinnabarina (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 228 (1908)
+null
 
 #### Original name
-Lecanora cinnabarina Ach.
+null
 
 ### Remarks
 null

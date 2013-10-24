@@ -1,5 +1,4 @@
-Xenochora sydowii Petr., 1948 SPECIES
-=======
+# Xenochora sydowii Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

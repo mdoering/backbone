@@ -1,5 +1,4 @@
-Cercospora heliotropii Ellis & Everh. SPECIES
-=======
+# Cercospora heliotropii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

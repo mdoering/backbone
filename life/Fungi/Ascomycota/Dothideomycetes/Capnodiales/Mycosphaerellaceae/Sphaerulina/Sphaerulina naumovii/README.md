@@ -1,5 +1,4 @@
-Sphaerulina naumovii Vassiljeva {?} SPECIES
-=======
+# Sphaerulina naumovii Vassiljeva {?} SPECIES
 
 #### Status
 ACCEPTED

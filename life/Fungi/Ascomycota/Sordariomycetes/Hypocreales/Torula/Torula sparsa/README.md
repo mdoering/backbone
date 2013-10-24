@@ -1,5 +1,4 @@
-Torula sparsa Berk. & M.A. Curtis SPECIES
-=======
+# Torula sparsa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia patrata Speg. SPECIES
-=======
+# Laboulbenia patrata Speg. SPECIES
 
 #### Status
 ACCEPTED

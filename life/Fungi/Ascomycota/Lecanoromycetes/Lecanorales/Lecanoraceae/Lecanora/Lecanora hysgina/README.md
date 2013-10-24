@@ -1,5 +1,4 @@
-Lecanora hysgina (Wahlenb.) Ach. SPECIES
-=======
+# Lecanora hysgina (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

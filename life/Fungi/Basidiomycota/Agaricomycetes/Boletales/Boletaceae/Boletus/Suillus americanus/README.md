@@ -1,5 +1,4 @@
-Suillus americanus (Peck) Snell, 1944 SPECIES
-=======
+# Suillus americanus (Peck) Snell, 1944 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Hoegklintia maroquensis (Cramer, Allam, Kanes & Díez, 1974) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Hoegklintia maroquensis (Cramer, Allam, Kanes & Díez, 1974) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

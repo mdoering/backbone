@@ -1,5 +1,4 @@
-Inocybe pallidospora Beller & Bon SPECIES
-=======
+# Inocybe pallidospora Beller & Bon SPECIES
 
 #### Status
 ACCEPTED

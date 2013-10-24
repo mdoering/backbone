@@ -1,5 +1,4 @@
-Peziza koerberi Peyl SPECIES
-=======
+# Peziza koerberi Peyl SPECIES
 
 #### Status
 ACCEPTED

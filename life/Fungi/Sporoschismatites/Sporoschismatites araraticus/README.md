@@ -1,5 +1,4 @@
-Sporoschismatites araraticus Babajan & Tasl. SPECIES
-=======
+# Sporoschismatites araraticus Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

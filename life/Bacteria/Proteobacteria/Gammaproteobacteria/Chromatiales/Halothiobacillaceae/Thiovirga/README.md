@@ -1,5 +1,4 @@
-Thiovirga Ito, Sugita, Yumoto, Nodasaka & Okabe, 2005 GENUS
-=======
+# Thiovirga Ito, Sugita, Yumoto, Nodasaka & Okabe, 2005 GENUS
 
 #### Status
 ACCEPTED

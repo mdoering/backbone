@@ -1,5 +1,4 @@
-Gymnopilus russipes Pegler SPECIES
-=======
+# Gymnopilus russipes Pegler SPECIES
 
 #### Status
 ACCEPTED

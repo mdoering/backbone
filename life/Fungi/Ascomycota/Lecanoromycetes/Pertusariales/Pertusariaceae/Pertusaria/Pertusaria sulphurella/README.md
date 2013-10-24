@@ -1,5 +1,4 @@
-Pertusaria sulphurella Körb. SPECIES
-=======
+# Pertusaria sulphurella Körb. SPECIES
 
 #### Status
 ACCEPTED

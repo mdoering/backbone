@@ -1,5 +1,4 @@
-Hysteronaevia fimbriata Dennis & Spooner, 1993 SPECIES
-=======
+# Hysteronaevia fimbriata Dennis & Spooner, 1993 SPECIES
 
 #### Status
 ACCEPTED

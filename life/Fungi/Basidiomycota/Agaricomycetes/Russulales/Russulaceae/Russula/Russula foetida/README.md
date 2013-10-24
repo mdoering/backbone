@@ -1,5 +1,4 @@
-Russula foetida G. Martin SPECIES
-=======
+# Russula foetida G. Martin SPECIES
 
 #### Status
 ACCEPTED

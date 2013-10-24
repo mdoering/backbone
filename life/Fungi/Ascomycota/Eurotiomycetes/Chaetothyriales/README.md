@@ -1,5 +1,4 @@
-Chaetothyriales M.E. Barr ORDER
-=======
+# Chaetothyriales M.E. Barr ORDER
 
 #### Status
 ACCEPTED

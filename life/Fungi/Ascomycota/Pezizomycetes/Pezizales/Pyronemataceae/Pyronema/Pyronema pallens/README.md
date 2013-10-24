@@ -1,5 +1,4 @@
-Pyronema pallens Sacc. SPECIES
-=======
+# Pyronema pallens Sacc. SPECIES
 
 #### Status
 ACCEPTED

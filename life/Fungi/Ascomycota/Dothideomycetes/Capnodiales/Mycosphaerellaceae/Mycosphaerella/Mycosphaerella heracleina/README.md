@@ -1,5 +1,4 @@
-Mycosphaerella heracleina Nevod. SPECIES
-=======
+# Mycosphaerella heracleina Nevod. SPECIES
 
 #### Status
 ACCEPTED

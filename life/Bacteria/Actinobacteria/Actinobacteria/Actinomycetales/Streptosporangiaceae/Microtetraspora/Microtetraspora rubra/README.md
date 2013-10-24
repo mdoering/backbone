@@ -1,5 +1,4 @@
-Microtetraspora rubra (Sveshnikova et al., 1969) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora rubra (Sveshnikova et al., 1969) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

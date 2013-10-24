@@ -1,5 +1,4 @@
-Leptoporus zilingianus Pilát SPECIES
-=======
+# Leptoporus zilingianus Pilát SPECIES
 
 #### Status
 ACCEPTED

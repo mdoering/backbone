@@ -1,11 +1,10 @@
-Aphanarthron laxus J.Agardh, 1868 SPECIES
-=======
+# Stictyosiphon laxus (J. Agardh) Athanasiadis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

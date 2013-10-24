@@ -1,5 +1,4 @@
-Septoria taiana Syd. SPECIES
-=======
+# Septoria taiana Syd. SPECIES
 
 #### Status
 ACCEPTED

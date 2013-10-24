@@ -1,5 +1,4 @@
-Ozonium glumicola Sacc. SPECIES
-=======
+# Ozonium glumicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

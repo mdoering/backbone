@@ -1,5 +1,4 @@
-Lecidea nantiana B. de Lesd. SPECIES
-=======
+# Lecidea nantiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

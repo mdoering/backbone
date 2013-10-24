@@ -1,5 +1,4 @@
-Pseudocercospora fagaricola Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora fagaricola Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas aromaticivorans Balkwill et al., 1997 SPECIES
-=======
+# Sphingomonas aromaticivorans Balkwill et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

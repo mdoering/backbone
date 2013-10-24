@@ -1,8 +1,7 @@
-Haplophragmoides ringens (Brady, 1879) SPECIES
-=======
+# Buzasina ringens (Brady, 1879) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

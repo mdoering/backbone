@@ -1,5 +1,4 @@
-Lecanora pyrithrella Nyl. SPECIES
-=======
+# Lecanora pyrithrella Nyl. SPECIES
 
 #### Status
 ACCEPTED

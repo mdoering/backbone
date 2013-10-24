@@ -1,5 +1,4 @@
-Oidium verbenacea Pass. SPECIES
-=======
+# Oidium verbenacea Pass. SPECIES
 
 #### Status
 ACCEPTED

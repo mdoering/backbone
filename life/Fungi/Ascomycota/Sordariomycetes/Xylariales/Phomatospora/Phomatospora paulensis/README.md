@@ -1,5 +1,4 @@
-Phomatospora paulensis Rehm SPECIES
-=======
+# Phomatospora paulensis Rehm SPECIES
 
 #### Status
 ACCEPTED

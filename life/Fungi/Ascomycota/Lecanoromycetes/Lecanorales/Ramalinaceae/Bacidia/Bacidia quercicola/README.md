@@ -1,5 +1,4 @@
-Bacidia quercicola SPECIES
-=======
+# Bacidia quercicola SPECIES
 
 #### Status
 ACCEPTED

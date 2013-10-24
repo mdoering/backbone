@@ -1,5 +1,4 @@
-Asterothyrites keralensis K.P. Rao & Ramanujam SPECIES
-=======
+# Asterothyrites keralensis K.P. Rao & Ramanujam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe adonis (Singer) Boertm. SPECIES
-=======
+# Hygrocybe adonis (Singer) Boertm. SPECIES
 
 #### Status
 ACCEPTED

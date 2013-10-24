@@ -1,5 +1,4 @@
-Mycena corticaticeps Kauffman & A.H. Sm. SPECIES
-=======
+# Mycena corticaticeps Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

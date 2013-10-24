@@ -1,8 +1,7 @@
-Goidanichia ambrosianae (A. Massal.) Tomas. & Cif. SPECIES
-=======
+# Goidanichia ambrosiana (A. Massal.) Tomas. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Acetoanaerobium Sleat et al., 1985 GENUS
-=======
+# Acetoanaerobium Sleat et al., 1985 GENUS
 
 #### Status
 ACCEPTED

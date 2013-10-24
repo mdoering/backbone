@@ -1,5 +1,4 @@
-Asteroma petasitidis Syd. & P. Syd. SPECIES
-=======
+# Asteroma petasitidis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

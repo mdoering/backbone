@@ -1,5 +1,4 @@
-Hemiaulus pyxilloides H. J. Schrader & J. Fenner SPECIES
-=======
+# Hemiaulus pyxilloides H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora flavovirescens (Wulfen) Duby SPECIES
-=======
+# Lecanora flavovirescens (Wulfen) Duby SPECIES
 
 #### Status
 ACCEPTED

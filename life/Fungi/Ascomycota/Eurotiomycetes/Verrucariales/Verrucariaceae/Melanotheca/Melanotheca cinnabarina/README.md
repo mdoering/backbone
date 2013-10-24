@@ -1,14 +1,13 @@
-Trypethelium cinnabarinum C. Knight ex F.M. Bailey SPECIES
-=======
+# Melanotheca cinnabarina (C. Knight ex F.M. Bailey) Shirley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Synops. Queensl. Fl. 1(Suppl. ): 76 (1886)
+Lich. Fl. Queensland 4: 167 (1889)
 
 #### Original name
 Trypethelium cinnabarinum C. Knight ex F.M. Bailey

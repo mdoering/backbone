@@ -1,5 +1,4 @@
-Acarospora exigua (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Acarospora exigua (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

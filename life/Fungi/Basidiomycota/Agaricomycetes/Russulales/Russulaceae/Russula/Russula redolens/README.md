@@ -1,5 +1,4 @@
-Russula redolens Burl. SPECIES
-=======
+# Russula redolens Burl. SPECIES
 
 #### Status
 ACCEPTED

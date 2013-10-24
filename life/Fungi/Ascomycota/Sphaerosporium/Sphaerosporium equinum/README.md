@@ -1,5 +1,4 @@
-Sphaerosporium equinum (Desm.) J.L. Crane & Schokn. SPECIES
-=======
+# Sphaerosporium equinum (Desm.) J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

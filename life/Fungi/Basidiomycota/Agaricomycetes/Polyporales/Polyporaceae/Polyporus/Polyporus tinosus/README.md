@@ -1,5 +1,4 @@
-Polyporus tinosus C. Hobbs SPECIES
-=======
+# Polyporus tinosus C. Hobbs SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trigonosporium australiense Tassi, 1900 SPECIES
-=======
+# Trigonosporium australiense Tassi, 1900 SPECIES
 
 #### Status
 ACCEPTED

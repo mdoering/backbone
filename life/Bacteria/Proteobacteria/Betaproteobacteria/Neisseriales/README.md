@@ -1,5 +1,4 @@
-Neisseriales ORDER
-=======
+# Neisseriales ORDER
 
 #### Status
 ACCEPTED

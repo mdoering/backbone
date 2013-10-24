@@ -1,5 +1,4 @@
-Distephanus paradistephanus (K. Tsumura) D. Bukry & S. Monechi SPECIES
-=======
+# Distephanus paradistephanus (K. Tsumura) D. Bukry & S. Monechi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaphorobacter nitroreducens Khan & Hiraishi, 2003 SPECIES
-=======
+# Diaphorobacter nitroreducens Khan & Hiraishi, 2003 SPECIES
 
 #### Status
 ACCEPTED

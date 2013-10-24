@@ -1,5 +1,4 @@
-Agaricus alpiniae Berk. SPECIES
-=======
+# Agaricus alpiniae Berk. SPECIES
 
 #### Status
 ACCEPTED

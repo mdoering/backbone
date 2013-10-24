@@ -1,5 +1,4 @@
-Parmelia pittieri Müll. Arg. SPECIES
-=======
+# Parmelia pittieri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

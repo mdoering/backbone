@@ -1,5 +1,4 @@
-Coniothyrium eucalypticola B. Sutton SPECIES
-=======
+# Coniothyrium eucalypticola B. Sutton SPECIES
 
 #### Status
 ACCEPTED

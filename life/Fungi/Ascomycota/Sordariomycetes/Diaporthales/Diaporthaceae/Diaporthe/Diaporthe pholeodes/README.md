@@ -1,5 +1,4 @@
-Diaporthe pholeodes (Mont.) Fuckel SPECIES
-=======
+# Diaporthe pholeodes (Mont.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

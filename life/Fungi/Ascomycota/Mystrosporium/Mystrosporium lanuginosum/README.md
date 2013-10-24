@@ -1,5 +1,4 @@
-Mystrosporium lanuginosum Harz SPECIES
-=======
+# Mystrosporium lanuginosum Harz SPECIES
 
 #### Status
 ACCEPTED

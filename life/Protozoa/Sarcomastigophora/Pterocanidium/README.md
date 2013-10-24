@@ -1,5 +1,4 @@
-Pterocanidium Haeckel, 1887 GENUS
-=======
+# Pterocanidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

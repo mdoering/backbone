@@ -1,5 +1,4 @@
-Stagonospora liaoningensis Z.K. Zhong & Z.W. Yuan SPECIES
-=======
+# Stagonospora liaoningensis Z.K. Zhong & Z.W. Yuan SPECIES
 
 #### Status
 ACCEPTED

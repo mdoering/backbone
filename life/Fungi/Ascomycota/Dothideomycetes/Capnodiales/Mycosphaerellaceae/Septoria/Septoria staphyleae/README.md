@@ -1,5 +1,4 @@
-Septoria staphyleae Pass. SPECIES
-=======
+# Septoria staphyleae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia retipora Stirt. SPECIES
-=======
+# Menegazzia myriotrema (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 32: 80 (1899)
+Flora of Australia (Canberra), Vol. <b>54</b>. Lichens  Introduction, Lecanorales 1 313 (1992)
 
 #### Original name
-Parmelia retipora Stirt.
+Parmelia myriotrema Müll. Arg.
 
 ### Remarks
 null

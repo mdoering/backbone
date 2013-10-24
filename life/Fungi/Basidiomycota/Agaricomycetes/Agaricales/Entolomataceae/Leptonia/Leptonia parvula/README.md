@@ -1,5 +1,4 @@
-Leptonia parvula (Murrill) Largent SPECIES
-=======
+# Leptonia parvula (Murrill) Largent SPECIES
 
 #### Status
 ACCEPTED

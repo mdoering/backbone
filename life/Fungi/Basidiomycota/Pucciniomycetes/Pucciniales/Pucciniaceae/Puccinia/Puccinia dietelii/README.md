@@ -1,5 +1,4 @@
-Puccinia dietelii Sacc. & P. Syd. SPECIES
-=======
+# Puccinia dietelii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

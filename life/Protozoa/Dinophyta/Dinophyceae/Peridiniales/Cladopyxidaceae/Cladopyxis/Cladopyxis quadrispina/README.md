@@ -1,8 +1,7 @@
-Micracanthodinium quadrispinum (Pavillard) Margalef, 1969 SPECIES
-=======
+# Cladopyxis quadrispina Pavillard, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

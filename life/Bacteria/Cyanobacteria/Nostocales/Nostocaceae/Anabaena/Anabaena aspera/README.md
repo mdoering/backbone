@@ -1,5 +1,4 @@
-Anabaena aspera Frémy SPECIES
-=======
+# Anabaena aspera Frémy SPECIES
 
 #### Status
 ACCEPTED

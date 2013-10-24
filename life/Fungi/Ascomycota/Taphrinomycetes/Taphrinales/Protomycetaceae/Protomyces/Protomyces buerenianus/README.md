@@ -1,5 +1,4 @@
-Protomyces buerenianus Buhr SPECIES
-=======
+# Protomyces buerenianus Buhr SPECIES
 
 #### Status
 ACCEPTED

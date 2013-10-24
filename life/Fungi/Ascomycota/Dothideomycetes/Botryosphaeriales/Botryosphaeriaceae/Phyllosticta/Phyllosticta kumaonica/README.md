@@ -1,5 +1,4 @@
-Phyllosticta kumaonica Trotter SPECIES
-=======
+# Phyllosticta kumaonica Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius cuculllatus Ellis SPECIES
-=======
+# Marasmius cuculllatus Ellis SPECIES
 
 #### Status
 ACCEPTED

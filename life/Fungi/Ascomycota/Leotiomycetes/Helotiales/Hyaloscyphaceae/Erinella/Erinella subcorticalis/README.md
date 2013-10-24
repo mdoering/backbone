@@ -1,5 +1,4 @@
-Erinella subcorticalis Pat. SPECIES
-=======
+# Erinella subcorticalis Pat. SPECIES
 
 #### Status
 ACCEPTED

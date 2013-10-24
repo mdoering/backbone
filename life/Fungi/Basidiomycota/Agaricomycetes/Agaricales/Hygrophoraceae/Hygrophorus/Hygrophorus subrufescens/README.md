@@ -1,5 +1,4 @@
-Hygrophorus subrufescens Peck SPECIES
-=======
+# Hygrophorus subrufescens Peck SPECIES
 
 #### Status
 ACCEPTED

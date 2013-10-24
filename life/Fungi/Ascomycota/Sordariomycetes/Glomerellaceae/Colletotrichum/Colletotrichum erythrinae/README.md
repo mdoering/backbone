@@ -1,5 +1,4 @@
-Colletotrichum erythrinae Ellis & Everh. SPECIES
-=======
+# Colletotrichum erythrinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marcelleina brevicostatispora J. Moravec SPECIES
-=======
+# Marcelleina brevicostatispora J. Moravec SPECIES
 
 #### Status
 ACCEPTED

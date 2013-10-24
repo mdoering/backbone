@@ -1,5 +1,4 @@
-Leptosphaeria abuensis Panwar & S.J. Kaur SPECIES
-=======
+# Leptosphaeria abuensis Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

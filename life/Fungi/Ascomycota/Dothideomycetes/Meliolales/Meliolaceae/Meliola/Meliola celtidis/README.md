@@ -1,5 +1,4 @@
-Meliola celtidis var. celtidis VARIETY
-=======
+# Meliola celtidis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola celtidis var. celtidis
+Meliola celtidis
 
 ### Remarks
 null

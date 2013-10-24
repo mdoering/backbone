@@ -1,5 +1,4 @@
-Heterocapsa pseudotriquetra Iwataki, Hansen & Fukuyo SPECIES
-=======
+# Heterocapsa pseudotriquetra Iwataki, Hansen & Fukuyo SPECIES
 
 #### Status
 ACCEPTED

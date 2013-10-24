@@ -1,5 +1,4 @@
-Sclerotium lycopodii Fr. SPECIES
-=======
+# Sclerotium lycopodii Fr. SPECIES
 
 #### Status
 ACCEPTED

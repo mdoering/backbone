@@ -1,5 +1,4 @@
-Kalmusia stromatica Cooke & Massee, 1891 SPECIES
-=======
+# Kalmusia stromatica Cooke & Massee, 1891 SPECIES
 
 #### Status
 ACCEPTED

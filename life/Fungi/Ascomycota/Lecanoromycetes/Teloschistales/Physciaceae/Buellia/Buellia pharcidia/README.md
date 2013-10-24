@@ -1,8 +1,7 @@
-Buellia alboatra var. zabotica (Körb.) Th. Fr. VARIETY
-=======
+# Buellia pharcidia (Ach.) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

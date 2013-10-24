@@ -1,5 +1,4 @@
-Auricularia albida (Romell) Rick SPECIES
-=======
+# Auricularia albida (Romell) Rick SPECIES
 
 #### Status
 ACCEPTED

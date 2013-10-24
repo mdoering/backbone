@@ -1,8 +1,7 @@
-Dasyscypha bakeri Tracy & Earle SPECIES
-=======
+# Dasyscyphus bakeri Tracy & Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha bakeri Tracy & Earle
+Dasyscyphus bakeri Tracy & Earle
 
 ### Remarks
 null

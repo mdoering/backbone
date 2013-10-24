@@ -1,5 +1,4 @@
-Coniothyrium valsoideum Peck SPECIES
-=======
+# Coniothyrium valsoideum Peck SPECIES
 
 #### Status
 ACCEPTED

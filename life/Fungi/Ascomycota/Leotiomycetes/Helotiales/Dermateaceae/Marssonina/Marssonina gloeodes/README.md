@@ -1,5 +1,4 @@
-Marssonina gloeodes (H.C. Greene) H.C. Greene SPECIES
-=======
+# Marssonina gloeodes (H.C. Greene) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

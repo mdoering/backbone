@@ -1,5 +1,4 @@
-Blattabacterium cuenoti (Mercier, 1906) Hollande and Favre, 1931 (Approved Lists, 1980) SPECIES
-=======
+# Blattabacterium cuenoti (Mercier, 1906) Hollande and Favre, 1931 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia amblyogona Müll. Arg. SPECIES
-=======
+# Buellia amblyogona Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

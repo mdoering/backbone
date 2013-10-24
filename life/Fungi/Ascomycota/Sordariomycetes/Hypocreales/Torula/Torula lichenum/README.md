@@ -1,5 +1,4 @@
-Torula lichenum Keissl. SPECIES
-=======
+# Torula lichenum Keissl. SPECIES
 
 #### Status
 ACCEPTED

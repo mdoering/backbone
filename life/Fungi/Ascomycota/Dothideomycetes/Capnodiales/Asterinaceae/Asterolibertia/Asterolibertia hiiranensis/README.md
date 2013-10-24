@@ -1,5 +1,4 @@
-Asterolibertia hiiranensis (W. Yamam.) W. Yamam. SPECIES
-=======
+# Asterolibertia hiiranensis (W. Yamam.) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

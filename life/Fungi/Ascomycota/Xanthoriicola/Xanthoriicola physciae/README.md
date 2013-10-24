@@ -1,14 +1,13 @@
-Coniosporium physciae (Kalchbr.) Sacc., 1886 SPECIES
-=======
+# Xanthoriicola physciae (Kalchbr.) D. Hawksw., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 246 (1886)
+in Hawksworth & Punithalingam, Trans. Br. mycol. Soc. 61(1): 67 (1973)
 
 #### Original name
 Gymnosporium physciae Kalchbr., 1865

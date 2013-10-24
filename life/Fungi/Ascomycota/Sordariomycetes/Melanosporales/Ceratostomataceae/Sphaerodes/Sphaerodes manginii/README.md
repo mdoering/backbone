@@ -1,5 +1,4 @@
-Sphaerodes manginii (Vincens) Arx SPECIES
-=======
+# Sphaerodes manginii (Vincens) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nesiotobacter Donachie, Bowman & Alam, 2006 GENUS
-=======
+# Nesiotobacter Donachie, Bowman & Alam, 2006 GENUS
 
 #### Status
 ACCEPTED

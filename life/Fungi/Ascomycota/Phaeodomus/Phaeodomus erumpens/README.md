@@ -1,5 +1,4 @@
-Phaeodomus erumpens (Berk. & M.A. Curtis) Petr. & Syd. SPECIES
-=======
+# Phaeodomus erumpens (Berk. & M.A. Curtis) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

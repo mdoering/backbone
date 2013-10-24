@@ -1,5 +1,4 @@
-Phaeomoniella zymoides Hyang B. Lee, J.Y. Park, Summerb. & H.S. Jung, 2006 SPECIES
-=======
+# Phaeomoniella zymoides Hyang B. Lee, J.Y. Park, Summerb. & H.S. Jung, 2006 SPECIES
 
 #### Status
 ACCEPTED

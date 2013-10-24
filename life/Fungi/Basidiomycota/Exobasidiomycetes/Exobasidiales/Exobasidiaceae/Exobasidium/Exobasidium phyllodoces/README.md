@@ -1,5 +1,4 @@
-Exobasidium phyllodoces (Savile) Savile SPECIES
-=======
+# Exobasidium phyllodoces (Savile) Savile SPECIES
 
 #### Status
 ACCEPTED

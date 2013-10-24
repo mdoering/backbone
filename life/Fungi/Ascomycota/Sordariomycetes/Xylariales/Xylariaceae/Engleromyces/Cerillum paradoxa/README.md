@@ -1,5 +1,4 @@
-Cerillum paradoxa (Har. & Pat.) Clem. SPECIES
-=======
+# Cerillum paradoxa (Har. & Pat.) Clem. SPECIES
 
 #### Status
 ACCEPTED

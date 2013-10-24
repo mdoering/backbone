@@ -1,5 +1,4 @@
-Saccharomyces symbioticus Teodoro {?} SPECIES
-=======
+# Saccharomyces symbioticus Teodoro {?} SPECIES
 
 #### Status
 ACCEPTED

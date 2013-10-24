@@ -1,5 +1,4 @@
-Hysterangiales K. Hosaka & Castellano ORDER
-=======
+# Hysterangiales K. Hosaka & Castellano ORDER
 
 #### Status
 ACCEPTED

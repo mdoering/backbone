@@ -1,5 +1,4 @@
-Zygosporium deightonii M.B. Ellis, 1976 SPECIES
-=======
+# Zygosporium deightonii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

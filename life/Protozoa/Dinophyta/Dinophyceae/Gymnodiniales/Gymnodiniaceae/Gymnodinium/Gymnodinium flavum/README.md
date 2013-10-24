@@ -1,5 +1,4 @@
-Gymnodinium flavum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium flavum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

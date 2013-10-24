@@ -1,5 +1,4 @@
-Corynesporopsis antillana R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Corynesporopsis antillana R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

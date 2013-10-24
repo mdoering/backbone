@@ -1,5 +1,4 @@
-Haloguignardia cystoseirae Kohlm. & Demoulin, 1981 SPECIES
-=======
+# Haloguignardia cystoseirae Kohlm. & Demoulin, 1981 SPECIES
 
 #### Status
 ACCEPTED

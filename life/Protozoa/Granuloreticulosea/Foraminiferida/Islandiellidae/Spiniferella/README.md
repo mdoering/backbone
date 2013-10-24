@@ -1,5 +1,4 @@
-Spiniferella Saidova, 1975 GENUS
-=======
+# Spiniferella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

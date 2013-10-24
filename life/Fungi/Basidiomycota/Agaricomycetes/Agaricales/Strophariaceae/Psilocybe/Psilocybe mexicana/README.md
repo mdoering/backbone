@@ -1,5 +1,4 @@
-Psilocybe mexicana R. Heim, 1957 SPECIES
-=======
+# Psilocybe mexicana R. Heim, 1957 SPECIES
 
 #### Status
 ACCEPTED

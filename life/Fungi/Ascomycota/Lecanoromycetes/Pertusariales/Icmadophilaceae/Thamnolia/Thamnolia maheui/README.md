@@ -1,5 +1,4 @@
-Thamnolia maheui (Hue) Gyeln. SPECIES
-=======
+# Thamnolia maheui (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

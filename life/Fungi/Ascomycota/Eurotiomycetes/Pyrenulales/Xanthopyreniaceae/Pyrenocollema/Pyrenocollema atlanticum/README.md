@@ -1,5 +1,4 @@
-Pyrenocollema atlanticum (Vain.) R.C. Harris SPECIES
-=======
+# Pyrenocollema atlanticum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma radicosoides Raithelh. SPECIES
-=======
+# Hypholoma radicosoides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

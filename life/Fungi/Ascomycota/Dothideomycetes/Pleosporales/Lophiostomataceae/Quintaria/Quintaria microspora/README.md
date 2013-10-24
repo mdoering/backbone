@@ -1,5 +1,4 @@
-Quintaria microspora Yin. Zhang, K.D. Hyde & J. Fourn., 2008 SPECIES
-=======
+# Quintaria microspora Yin. Zhang, K.D. Hyde & J. Fourn., 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diderma montanum var. roseum Meyl. VARIETY
-=======
+# Diderma montanum (Meyl.) Meyl., 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin de la Société Vaudoise des Sciences Naturelles 52: 450 (1919)
+Diagn. Mycoth. Univ. Cent. 53: 454 (1921)
 
 #### Original name
-Diderma montanum var. roseum Meyl.
+Chondrioderma montanum Meyl., 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizoctonia quercus E. Castell., 1935 SPECIES
-=======
+# Rhizoctonia quercus E. Castell., 1935 SPECIES
 
 #### Status
 ACCEPTED

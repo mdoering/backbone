@@ -1,5 +1,4 @@
-Physcia cernohorskyi var. cernohorskyi VARIETY
-=======
+# Physcia cernohorskyi Nádv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia cernohorskyi var. cernohorskyi
+Physcia cernohorskyi Nádv.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Protomyces gaillardiae Speg. SPECIES
-=======
+# Protomyces gaillardiae Speg. SPECIES
 
 #### Status
 ACCEPTED

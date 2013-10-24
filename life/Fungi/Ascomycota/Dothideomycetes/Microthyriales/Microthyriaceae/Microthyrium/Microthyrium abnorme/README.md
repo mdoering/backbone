@@ -1,5 +1,4 @@
-Microthyrium abnorme Henn. SPECIES
-=======
+# Microthyrium abnorme Henn. SPECIES
 
 #### Status
 ACCEPTED

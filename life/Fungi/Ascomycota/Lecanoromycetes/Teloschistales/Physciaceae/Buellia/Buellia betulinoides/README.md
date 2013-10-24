@@ -1,5 +1,4 @@
-Buellia betulinoides C. Schub. & Klem. SPECIES
-=======
+# Buellia betulinoides C. Schub. & Klem. SPECIES
 
 #### Status
 ACCEPTED

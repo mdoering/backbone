@@ -1,5 +1,4 @@
-Anthracothecium pustuliferum Ajay Singh SPECIES
-=======
+# Anthracothecium pustuliferum Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerium agaves Rehm SPECIES
-=======
+# Dimerium agaves Rehm SPECIES
 
 #### Status
 ACCEPTED

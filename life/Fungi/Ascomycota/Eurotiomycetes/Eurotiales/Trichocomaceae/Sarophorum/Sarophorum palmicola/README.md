@@ -1,14 +1,13 @@
-Penicilliopsis palmicola Henn., 1904 SPECIES
-=======
+# Sarophorum palmicola (Henn.) Seifert & Samson, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43(6): 352 (1904)
+in Samson & Pitt (eds), Advances in Penicillium and Aspergillus Systematics (New York) 403 (1986)
 
 #### Original name
 Penicilliopsis palmicola Henn., 1904

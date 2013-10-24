@@ -1,5 +1,4 @@
-Hyphomicrobium denitrificans Urakami et al., 1995 SPECIES
-=======
+# Hyphomicrobium denitrificans Urakami et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

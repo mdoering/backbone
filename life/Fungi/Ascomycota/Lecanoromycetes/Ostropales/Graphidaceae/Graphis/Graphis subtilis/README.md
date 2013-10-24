@@ -1,5 +1,4 @@
-Graphis subtilis (Pers.) Röhl. SPECIES
-=======
+# Graphis subtilis (Pers.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

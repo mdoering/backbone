@@ -1,5 +1,4 @@
-Hendersonia arundinis var. arundinis VARIETY
-=======
+# Hendersonia arundinis Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia arundinis var. arundinis
+Hendersonia arundinis Cooke
 
 ### Remarks
 null

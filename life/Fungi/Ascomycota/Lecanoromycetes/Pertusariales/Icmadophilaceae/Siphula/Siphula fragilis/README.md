@@ -1,5 +1,4 @@
-Siphula fragilis W. Martin & J. Child SPECIES
-=======
+# Siphula fragilis W. Martin & J. Child SPECIES
 
 #### Status
 ACCEPTED

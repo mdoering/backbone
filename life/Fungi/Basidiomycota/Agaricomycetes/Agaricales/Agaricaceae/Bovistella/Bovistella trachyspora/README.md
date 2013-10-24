@@ -1,5 +1,4 @@
-Bovistella trachyspora Lloyd SPECIES
-=======
+# Bovistella trachyspora Lloyd SPECIES
 
 #### Status
 ACCEPTED

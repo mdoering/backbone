@@ -1,17 +1,16 @@
-Rhytisma austini Cooke SPECIES
-=======
+# Rhytisma austinii Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 7(no. 42): 48 (1878)
 
 #### Original name
-Rhytisma austini Cooke
+Rhytisma austinii Cooke
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Bilimbia obscurata var. microcarpa Th. Fr. VARIETY
-=======
+# Bilimbia microcarpa (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Bilimbia obscurata var. microcarpa Th. Fr.
+null
 
 ### Remarks
 null

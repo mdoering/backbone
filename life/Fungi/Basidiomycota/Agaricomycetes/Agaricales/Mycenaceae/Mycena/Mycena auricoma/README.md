@@ -1,5 +1,4 @@
-Mycena auricoma Har. Takah. SPECIES
-=======
+# Mycena auricoma Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

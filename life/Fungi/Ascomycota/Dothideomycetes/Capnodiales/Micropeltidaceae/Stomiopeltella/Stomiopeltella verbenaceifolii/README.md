@@ -1,5 +1,4 @@
-Stomiopeltella verbenaceifolii Bat. SPECIES
-=======
+# Stomiopeltella verbenaceifolii Bat. SPECIES
 
 #### Status
 ACCEPTED

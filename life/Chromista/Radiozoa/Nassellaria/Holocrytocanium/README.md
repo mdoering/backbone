@@ -1,5 +1,4 @@
-Holocrytocanium GENUS
-=======
+# Holocrytocanium GENUS
 
 #### Status
 ACCEPTED

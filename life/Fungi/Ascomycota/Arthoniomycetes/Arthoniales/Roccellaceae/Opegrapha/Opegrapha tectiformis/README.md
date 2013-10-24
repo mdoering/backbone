@@ -1,5 +1,4 @@
-Opegrapha tectiformis Mont. & Bosch SPECIES
-=======
+# Opegrapha tectiformis Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

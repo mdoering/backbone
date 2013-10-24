@@ -1,5 +1,4 @@
-Lecanora virginalis Werner SPECIES
-=======
+# Lecanora virginalis Werner SPECIES
 
 #### Status
 ACCEPTED

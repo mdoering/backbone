@@ -1,5 +1,4 @@
-Pholiota rigelliae Velen. SPECIES
-=======
+# Pholiota rigelliae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strongylidium microstoma Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Strongylidium microstoma Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula juglandina Opiz SPECIES
-=======
+# Torula juglandina Opiz SPECIES
 
 #### Status
 ACCEPTED

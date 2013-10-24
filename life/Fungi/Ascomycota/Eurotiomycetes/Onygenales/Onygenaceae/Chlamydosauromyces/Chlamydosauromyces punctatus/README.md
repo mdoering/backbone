@@ -1,5 +1,4 @@
-Chlamydosauromyces punctatus Sigler, Hambl. & Paré, 2002 SPECIES
-=======
+# Chlamydosauromyces punctatus Sigler, Hambl. & Paré, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatea olivascens Rehm SPECIES
-=======
+# Dermatea olivascens Rehm SPECIES
 
 #### Status
 ACCEPTED

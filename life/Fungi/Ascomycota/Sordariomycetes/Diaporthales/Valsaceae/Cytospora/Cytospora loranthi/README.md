@@ -1,5 +1,4 @@
-Cytospora loranthi Bres. SPECIES
-=======
+# Cytospora loranthi Bres. SPECIES
 
 #### Status
 ACCEPTED

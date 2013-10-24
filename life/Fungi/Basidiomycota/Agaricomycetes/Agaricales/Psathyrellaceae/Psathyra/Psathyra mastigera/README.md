@@ -1,5 +1,4 @@
-Psathyra mastigera (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyra mastigera (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

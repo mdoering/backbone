@@ -1,5 +1,4 @@
-Polycellaria H.D. Pflug GENUS
-=======
+# Polycellaria H.D. Pflug GENUS
 
 #### Status
 ACCEPTED

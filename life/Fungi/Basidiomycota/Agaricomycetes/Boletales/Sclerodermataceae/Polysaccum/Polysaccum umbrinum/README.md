@@ -1,5 +1,4 @@
-Polysaccum umbrinum (Cooke & Massee) Lloyd SPECIES
-=======
+# Polysaccum umbrinum (Cooke & Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

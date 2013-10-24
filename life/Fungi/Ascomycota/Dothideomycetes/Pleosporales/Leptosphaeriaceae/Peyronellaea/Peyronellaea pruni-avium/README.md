@@ -1,5 +1,4 @@
-Peyronellaea pruni-avium (Allesch.) Goid. SPECIES
-=======
+# Peyronellaea pruni-avium (Allesch.) Goid. SPECIES
 
 #### Status
 ACCEPTED

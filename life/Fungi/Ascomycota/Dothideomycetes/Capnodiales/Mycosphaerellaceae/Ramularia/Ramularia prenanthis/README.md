@@ -1,5 +1,4 @@
-Ramularia prenanthis Jaap SPECIES
-=======
+# Ramularia prenanthis Jaap SPECIES
 
 #### Status
 ACCEPTED

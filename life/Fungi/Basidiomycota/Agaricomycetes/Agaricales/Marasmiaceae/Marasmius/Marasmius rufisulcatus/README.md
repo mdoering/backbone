@@ -1,5 +1,4 @@
-Marasmius rufisulcatus var. rufisulcatus VARIETY
-=======
+# Marasmius rufisulcatus Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia, Beih. 111: 94 (1996)
 
 #### Original name
-Marasmius rufisulcatus var. rufisulcatus
+Marasmius rufisulcatus Corner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Himantia helvola Pers. SPECIES
-=======
+# Himantia helvola Pers. SPECIES
 
 #### Status
 ACCEPTED

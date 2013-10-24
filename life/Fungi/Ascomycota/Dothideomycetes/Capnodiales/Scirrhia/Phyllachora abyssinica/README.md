@@ -1,5 +1,4 @@
-Phyllachora abyssinica Henn., 1893 SPECIES
-=======
+# Phyllachora abyssinica Henn., 1893 SPECIES
 
 #### Status
 DOUBTFUL

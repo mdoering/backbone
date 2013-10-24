@@ -1,5 +1,4 @@
-Ramaria tropicalis R.H. Petersen, 1981 SPECIES
-=======
+# Ramaria tropicalis R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED

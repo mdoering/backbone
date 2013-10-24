@@ -1,5 +1,4 @@
-Marinobacter salicampi Yoon, Lee, Kang & Oh, 2007 SPECIES
-=======
+# Marinobacter salicampi Yoon, Lee, Kang & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

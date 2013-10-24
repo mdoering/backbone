@@ -1,5 +1,4 @@
-Anguillospora flagellifera Ingold, 1950 SPECIES
-=======
+# Anguillospora flagellifera Ingold, 1950 SPECIES
 
 #### Status
 ACCEPTED

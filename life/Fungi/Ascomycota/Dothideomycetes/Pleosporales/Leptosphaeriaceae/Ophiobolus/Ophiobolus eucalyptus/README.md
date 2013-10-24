@@ -1,5 +1,4 @@
-Ophiobolus eucalyptus SPECIES
-=======
+# Ophiobolus eucalyptus SPECIES
 
 #### Status
 ACCEPTED

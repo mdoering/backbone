@@ -1,5 +1,4 @@
-Oidium epilobii (Corda) Desm. SPECIES
-=======
+# Oidium epilobii (Corda) Desm. SPECIES
 
 #### Status
 ACCEPTED

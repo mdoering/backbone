@@ -1,5 +1,4 @@
-Cladonia floridana Vain. SPECIES
-=======
+# Cladonia floridana Vain. SPECIES
 
 #### Status
 ACCEPTED

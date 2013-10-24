@@ -1,5 +1,4 @@
-Puccinia conferta Dietel & Holw. SPECIES
-=======
+# Puccinia conferta Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

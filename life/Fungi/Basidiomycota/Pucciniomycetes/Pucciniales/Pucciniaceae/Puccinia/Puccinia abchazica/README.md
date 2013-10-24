@@ -1,5 +1,4 @@
-Puccinia abchazica Tranzschel & Erem. SPECIES
-=======
+# Puccinia abchazica Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

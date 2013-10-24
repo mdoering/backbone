@@ -1,5 +1,4 @@
-Gibberidea turfosa Syd. SPECIES
-=======
+# Gibberidea turfosa Syd. SPECIES
 
 #### Status
 ACCEPTED

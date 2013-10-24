@@ -1,5 +1,4 @@
-Amanita clelandii E.-J. Gilbert SPECIES
-=======
+# Amanita clelandii E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

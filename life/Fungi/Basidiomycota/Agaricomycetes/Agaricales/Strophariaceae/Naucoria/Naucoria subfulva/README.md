@@ -1,5 +1,4 @@
-Naucoria subfulva Cleland SPECIES
-=======
+# Naucoria subfulva Cleland SPECIES
 
 #### Status
 ACCEPTED

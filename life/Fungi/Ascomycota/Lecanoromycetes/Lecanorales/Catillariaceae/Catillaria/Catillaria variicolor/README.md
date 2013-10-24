@@ -1,5 +1,4 @@
-Catillaria variicolor Malme SPECIES
-=======
+# Catillaria variicolor Malme SPECIES
 
 #### Status
 ACCEPTED

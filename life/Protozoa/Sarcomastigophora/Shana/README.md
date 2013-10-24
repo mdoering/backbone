@@ -1,5 +1,4 @@
-Shana Wu & Pessagno in Wu, 1993 GENUS
-=======
+# Shana Wu & Pessagno in Wu, 1993 GENUS
 
 #### Status
 ACCEPTED

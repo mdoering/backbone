@@ -1,5 +1,4 @@
-Lyngbya ferruginea C. Agardh SPECIES
-=======
+# Lyngbya ferruginea C. Agardh SPECIES
 
 #### Status
 ACCEPTED

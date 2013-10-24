@@ -1,5 +1,4 @@
-Leptosphaeria coicis Sawada SPECIES
-=======
+# Leptosphaeria coicis Sawada SPECIES
 
 #### Status
 ACCEPTED

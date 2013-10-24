@@ -1,5 +1,4 @@
-Agaricus baileyi Berk. & Broome SPECIES
-=======
+# Agaricus baileyi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

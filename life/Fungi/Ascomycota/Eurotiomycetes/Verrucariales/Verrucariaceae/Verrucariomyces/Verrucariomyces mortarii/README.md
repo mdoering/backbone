@@ -1,5 +1,4 @@
-Verrucariomyces mortarii Werner SPECIES
-=======
+# Verrucariomyces mortarii Werner SPECIES
 
 #### Status
 ACCEPTED

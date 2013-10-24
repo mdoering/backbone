@@ -1,17 +1,16 @@
-Agaricus gentilis var. gentilis VARIETY
-=======
+# Cortinarius gentilis (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 297 (1838)
 
 #### Original name
-null
+Agaricus gentilis Fr., 1821
 
 ### Remarks
 null

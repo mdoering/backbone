@@ -1,5 +1,4 @@
-Helminthosporium theobromicola Cif. & Gonz. Frag. SPECIES
-=======
+# Helminthosporium theobromicola Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

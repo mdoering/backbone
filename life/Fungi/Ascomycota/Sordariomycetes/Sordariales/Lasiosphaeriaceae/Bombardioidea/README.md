@@ -1,5 +1,4 @@
-Bombardioidea C. Moreau ex N. Lundqvist, 1972 GENUS
-=======
+# Bombardioidea C. Moreau ex N. Lundqvist, 1972 GENUS
 
 #### Status
 ACCEPTED

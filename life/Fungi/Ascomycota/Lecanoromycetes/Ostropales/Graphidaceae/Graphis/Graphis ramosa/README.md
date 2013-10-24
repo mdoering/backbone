@@ -1,5 +1,4 @@
-Graphis ramosa Nyl. SPECIES
-=======
+# Graphis ramosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

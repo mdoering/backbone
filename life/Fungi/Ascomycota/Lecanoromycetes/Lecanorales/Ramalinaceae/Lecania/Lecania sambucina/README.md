@@ -1,5 +1,4 @@
-Lecania sambucina (Körb.) Arnold SPECIES
-=======
+# Lecania sambucina (Körb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

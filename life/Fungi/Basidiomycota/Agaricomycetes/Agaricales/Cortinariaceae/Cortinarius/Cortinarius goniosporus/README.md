@@ -1,5 +1,4 @@
-Cortinarius goniosporus Carteret SPECIES
-=======
+# Cortinarius goniosporus Carteret SPECIES
 
 #### Status
 ACCEPTED

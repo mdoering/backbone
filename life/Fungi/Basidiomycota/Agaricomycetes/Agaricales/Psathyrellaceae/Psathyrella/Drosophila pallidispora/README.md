@@ -1,5 +1,4 @@
-Drosophila pallidispora Murrill SPECIES
-=======
+# Drosophila pallidispora Murrill SPECIES
 
 #### Status
 ACCEPTED

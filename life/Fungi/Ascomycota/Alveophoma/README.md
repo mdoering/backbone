@@ -1,5 +1,4 @@
-Alveophoma Alcalde GENUS
-=======
+# Alveophoma Alcalde GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemimycena subtilis (Velen.) Antonín SPECIES
-=======
+# Hemimycena subtilis (Velen.) Antonín SPECIES
 
 #### Status
 ACCEPTED

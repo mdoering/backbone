@@ -1,5 +1,4 @@
-Dioicomyces formicomi Thaxt. SPECIES
-=======
+# Dioicomyces formicomi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

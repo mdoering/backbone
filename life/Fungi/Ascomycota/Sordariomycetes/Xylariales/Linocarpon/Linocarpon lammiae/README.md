@@ -1,5 +1,4 @@
-Linocarpon lammiae Whitton, K.D. Hyde & McKenzie SPECIES
-=======
+# Linocarpon lammiae Whitton, K.D. Hyde & McKenzie SPECIES
 
 #### Status
 ACCEPTED

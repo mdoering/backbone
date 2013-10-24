@@ -1,5 +1,4 @@
-Heleococcum alkalinum Bilanenko & M. Ivanova SPECIES
-=======
+# Heleococcum alkalinum Bilanenko & M. Ivanova SPECIES
 
 #### Status
 ACCEPTED

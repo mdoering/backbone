@@ -1,5 +1,4 @@
-Gautieria magnicellaris (Pilát) E.L. Stewart & Trappe SPECIES
-=======
+# Gautieria magnicellaris (Pilát) E.L. Stewart & Trappe SPECIES
 
 #### Status
 ACCEPTED

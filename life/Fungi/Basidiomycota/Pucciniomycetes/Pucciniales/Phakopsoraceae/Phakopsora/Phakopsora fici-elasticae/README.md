@@ -1,5 +1,4 @@
-Phakopsora fici-elasticae T.S. Ramakr. SPECIES
-=======
+# Phakopsora fici-elasticae T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laticarininidae FAMILY
-=======
+# Laticarininidae FAMILY
 
 #### Status
 ACCEPTED

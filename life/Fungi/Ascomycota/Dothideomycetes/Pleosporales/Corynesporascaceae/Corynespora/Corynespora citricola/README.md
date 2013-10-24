@@ -1,5 +1,4 @@
-Corynespora citricola M.B. Ellis, 1957 SPECIES
-=======
+# Corynespora citricola M.B. Ellis, 1957 SPECIES
 
 #### Status
 ACCEPTED

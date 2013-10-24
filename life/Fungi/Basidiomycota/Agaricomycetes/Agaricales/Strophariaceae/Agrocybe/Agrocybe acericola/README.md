@@ -1,5 +1,4 @@
-Agrocybe acericola (Peck) Singer SPECIES
-=======
+# Agrocybe acericola (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

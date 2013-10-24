@@ -1,5 +1,4 @@
-Sporotrichites Göpp. & Berendt GENUS
-=======
+# Sporotrichites Göpp. & Berendt GENUS
 
 #### Status
 ACCEPTED

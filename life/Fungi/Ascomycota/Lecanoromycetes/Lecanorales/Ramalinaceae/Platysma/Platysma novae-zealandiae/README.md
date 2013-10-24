@@ -1,5 +1,4 @@
-Platysma novae-zealandiae C. Knight SPECIES
-=======
+# Platysma novae-zealandiae C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoagaricus roseolus (Beeli) Heinem. SPECIES
-=======
+# Leucoagaricus roseolus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

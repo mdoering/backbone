@@ -1,5 +1,4 @@
-Meliola cadigensis var. cadigensis VARIETY
-=======
+# Meliola cadigensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Philipp. J. Sci. , C, Bot. 12: 363 (1917)
 
 #### Original name
-Meliola cadigensis var. cadigensis
+Meliola cadigensis H.S. Yates
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Botryodiplodia cyanostroma (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Botryodiplodia cyanostroma (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

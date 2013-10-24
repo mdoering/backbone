@@ -1,5 +1,4 @@
-Anomoporia vesiculosa Y.C. Dai & Niemelä, 1994 SPECIES
-=======
+# Anomoporia vesiculosa Y.C. Dai & Niemelä, 1994 SPECIES
 
 #### Status
 ACCEPTED

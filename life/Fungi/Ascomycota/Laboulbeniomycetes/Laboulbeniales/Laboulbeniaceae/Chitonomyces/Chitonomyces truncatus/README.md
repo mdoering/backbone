@@ -1,5 +1,4 @@
-Chitonomyces truncatus Speg. SPECIES
-=======
+# Chitonomyces truncatus Speg. SPECIES
 
 #### Status
 ACCEPTED

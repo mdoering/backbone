@@ -1,17 +1,16 @@
-Cryptostictella Grove GENUS
-=======
+# Discosia Libert, 1837 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Bot. , London 50: 52 (1912)
+null
 
 #### Original name
-Cryptostictella Grove
+null
 
 ### Remarks
 null

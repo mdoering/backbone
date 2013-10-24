@@ -1,5 +1,4 @@
-Bacillus axarquiensis Ruiz-García et al., 2005 SPECIES
-=======
+# Bacillus axarquiensis Ruiz-García et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

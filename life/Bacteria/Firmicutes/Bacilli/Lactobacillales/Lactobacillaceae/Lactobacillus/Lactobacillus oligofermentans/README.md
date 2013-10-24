@@ -1,5 +1,4 @@
-Lactobacillus oligofermentans Koort et al., 2005 SPECIES
-=======
+# Lactobacillus oligofermentans Koort et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyronema franzonianum De Not. SPECIES
-=======
+# Pyronema franzonianum De Not. SPECIES
 
 #### Status
 ACCEPTED

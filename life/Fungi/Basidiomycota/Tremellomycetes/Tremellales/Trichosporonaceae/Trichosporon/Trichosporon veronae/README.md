@@ -1,5 +1,4 @@
-Trichosporon veronae Florenz. SPECIES
-=======
+# Trichosporon veronae Florenz. SPECIES
 
 #### Status
 ACCEPTED

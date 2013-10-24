@@ -1,5 +1,4 @@
-Stegonsporium fici S. Ahmad SPECIES
-=======
+# Stegonsporium fici S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

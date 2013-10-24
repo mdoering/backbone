@@ -1,5 +1,4 @@
-Caloplaca oblongula (H. Magn.) Wetmore SPECIES
-=======
+# Caloplaca oblongula (H. Magn.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

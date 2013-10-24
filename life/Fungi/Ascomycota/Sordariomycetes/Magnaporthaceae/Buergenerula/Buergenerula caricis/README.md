@@ -1,5 +1,4 @@
-Buergenerula caricis (R. Sprague) Arx SPECIES
-=======
+# Buergenerula caricis (R. Sprague) Arx SPECIES
 
 #### Status
 ACCEPTED

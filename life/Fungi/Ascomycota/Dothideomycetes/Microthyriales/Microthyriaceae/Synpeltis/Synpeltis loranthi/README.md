@@ -1,5 +1,4 @@
-Synpeltis loranthi Syd. & P. Syd. SPECIES
-=======
+# Synpeltis loranthi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

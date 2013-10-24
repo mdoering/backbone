@@ -1,5 +1,4 @@
-Setogyroporus Heinem. & Rammeloo GENUS
-=======
+# Setogyroporus Heinem. & Rammeloo GENUS
 
 #### Status
 ACCEPTED

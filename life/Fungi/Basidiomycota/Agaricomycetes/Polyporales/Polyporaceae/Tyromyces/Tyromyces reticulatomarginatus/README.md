@@ -1,5 +1,4 @@
-Tyromyces reticulatomarginatus (Pilát) Bondartsev & Singer SPECIES
-=======
+# Tyromyces reticulatomarginatus (Pilát) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Areoligera Lejeune-Carpentier, 1938 GENUS
-=======
+# Areoligera Lejeune-Carpentier, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboriopsis microspora (Seaver) Dennis SPECIES
-=======
+# Ciboriopsis microspora (Seaver) Dennis SPECIES
 
 #### Status
 ACCEPTED

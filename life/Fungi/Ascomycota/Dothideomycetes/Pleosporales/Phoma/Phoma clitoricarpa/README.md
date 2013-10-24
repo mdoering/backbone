@@ -1,5 +1,4 @@
-Phoma clitoricarpa (Cooke) Sacc. SPECIES
-=======
+# Phoma clitoricarpa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

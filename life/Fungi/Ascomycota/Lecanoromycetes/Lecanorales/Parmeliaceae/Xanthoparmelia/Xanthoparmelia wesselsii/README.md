@@ -1,5 +1,4 @@
-Xanthoparmelia wesselsii Hale SPECIES
-=======
+# Xanthoparmelia wesselsii Hale SPECIES
 
 #### Status
 ACCEPTED

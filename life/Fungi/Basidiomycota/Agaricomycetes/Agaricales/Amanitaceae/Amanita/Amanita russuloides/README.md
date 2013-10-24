@@ -1,5 +1,4 @@
-Amanita russuloides (Britzelm.) Sacc. SPECIES
-=======
+# Amanita russuloides (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

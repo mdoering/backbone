@@ -1,5 +1,4 @@
-Ganoderma frondosum Pat. SPECIES
-=======
+# Ganoderma frondosum Pat. SPECIES
 
 #### Status
 ACCEPTED

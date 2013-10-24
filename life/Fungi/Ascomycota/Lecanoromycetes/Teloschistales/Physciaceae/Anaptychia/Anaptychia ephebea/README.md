@@ -1,5 +1,4 @@
-Anaptychia ephebea (Ach.) R. Sant. SPECIES
-=======
+# Anaptychia ephebea (Ach.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

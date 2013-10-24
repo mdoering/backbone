@@ -1,5 +1,4 @@
-Psathyrella naivashaiensis Pegler SPECIES
-=======
+# Psathyrella naivashaiensis Pegler SPECIES
 
 #### Status
 ACCEPTED

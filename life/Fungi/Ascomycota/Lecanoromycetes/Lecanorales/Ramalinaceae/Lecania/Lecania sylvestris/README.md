@@ -1,17 +1,16 @@
-Biatorina sylvestris Arnold SPECIES
-=======
+# Lecania sylvestris (Arnold) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 67: 405 (1884)
 
 #### Original name
-null
+Biatora silvestris Arnold
 
 ### Remarks
 null

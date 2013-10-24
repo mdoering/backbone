@@ -1,5 +1,4 @@
-Phlyctidium brebissonii (P.A. Dang.) Sparrow SPECIES
-=======
+# Phlyctidium brebissonii (P.A. Dang.) Sparrow SPECIES
 
 #### Status
 ACCEPTED

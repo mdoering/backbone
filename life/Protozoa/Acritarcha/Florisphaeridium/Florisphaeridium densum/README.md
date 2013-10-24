@@ -1,5 +1,4 @@
-Florisphaeridium densum Uutela & Tynni, 1991 SPECIES
-=======
+# Florisphaeridium densum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

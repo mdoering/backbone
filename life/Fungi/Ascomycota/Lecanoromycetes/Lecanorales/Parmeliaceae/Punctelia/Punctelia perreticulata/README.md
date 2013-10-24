@@ -1,5 +1,4 @@
-Punctelia perreticulata (Räsänen) G. Wilh. & Ladd SPECIES
-=======
+# Punctelia perreticulata (Räsänen) G. Wilh. & Ladd SPECIES
 
 #### Status
 ACCEPTED

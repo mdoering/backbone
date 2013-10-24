@@ -1,5 +1,4 @@
-Parmelia madagascariensis Vain. SPECIES
-=======
+# Parmelia madagascariensis Vain. SPECIES
 
 #### Status
 ACCEPTED

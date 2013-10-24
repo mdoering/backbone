@@ -1,5 +1,4 @@
-Actinomyces humiferus Gledhill & Casida, 1969 SPECIES
-=======
+# Actinomyces humiferus Gledhill & Casida, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austrogaster novae-zelandiae D.A. Reid, 1986 SPECIES
-=======
+# Austrogaster novae-zelandiae D.A. Reid, 1986 SPECIES
 
 #### Status
 ACCEPTED

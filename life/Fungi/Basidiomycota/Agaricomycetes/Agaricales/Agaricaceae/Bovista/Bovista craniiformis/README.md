@@ -1,5 +1,4 @@
-Bovista craniiformis Schwein. SPECIES
-=======
+# Bovista craniiformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

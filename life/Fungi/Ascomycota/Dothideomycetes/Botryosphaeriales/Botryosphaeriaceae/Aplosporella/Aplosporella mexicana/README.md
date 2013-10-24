@@ -1,5 +1,4 @@
-Aplosporella mexicana Ellis & Everh. SPECIES
-=======
+# Aplosporella mexicana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

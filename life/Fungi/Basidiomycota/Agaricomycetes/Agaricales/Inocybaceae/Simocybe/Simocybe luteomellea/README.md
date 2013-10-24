@@ -1,5 +1,4 @@
-Simocybe luteomellea E. Horak, 1980 SPECIES
-=======
+# Simocybe luteomellea E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

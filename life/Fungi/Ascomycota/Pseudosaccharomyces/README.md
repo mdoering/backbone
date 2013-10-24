@@ -1,5 +1,4 @@
-Pseudosaccharomyces Briosi & Farneti, 1906 GENUS
-=======
+# Pseudosaccharomyces Briosi & Farneti, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pestalotiopsis gastrolobi (Tassi) Nag Raj SPECIES
-=======
+# Pestalotiopsis gastrolobii (Tassi) Nag Raj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 35(2): 289 (1989)
 
 #### Original name
 Pestalotia gastrolobii Tassi

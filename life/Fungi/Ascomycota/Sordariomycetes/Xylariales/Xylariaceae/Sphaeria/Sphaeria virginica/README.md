@@ -1,5 +1,4 @@
-Sphaeria virginica Cooke & Ellis SPECIES
-=======
+# Sphaeria virginica Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

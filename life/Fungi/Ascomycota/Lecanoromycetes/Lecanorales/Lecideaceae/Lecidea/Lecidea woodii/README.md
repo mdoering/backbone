@@ -1,5 +1,4 @@
-Lecidea woodii Stizenb. SPECIES
-=======
+# Lecidea woodii Stizenb. SPECIES
 
 #### Status
 ACCEPTED

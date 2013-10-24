@@ -1,5 +1,4 @@
-Gyrophora stygia Hook. f. & Taylor SPECIES
-=======
+# Gyrophora stygia Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella infuscans (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Mycosphaerella infuscans (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

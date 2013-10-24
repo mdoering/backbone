@@ -1,5 +1,4 @@
-Pezizella aspidiicola Velen. SPECIES
-=======
+# Pezizella aspidiicola Velen. SPECIES
 
 #### Status
 ACCEPTED

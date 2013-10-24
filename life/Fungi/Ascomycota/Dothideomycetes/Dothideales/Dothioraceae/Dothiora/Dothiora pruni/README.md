@@ -1,5 +1,4 @@
-Dothiora pruni (M.E. Barr) M.E. Barr SPECIES
-=======
+# Dothiora pruni (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

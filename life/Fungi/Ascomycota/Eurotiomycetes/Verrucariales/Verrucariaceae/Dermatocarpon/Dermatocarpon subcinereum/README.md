@@ -1,5 +1,4 @@
-Dermatocarpon subcinereum SPECIES
-=======
+# Dermatocarpon subcinereum SPECIES
 
 #### Status
 ACCEPTED

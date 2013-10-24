@@ -1,5 +1,4 @@
-Helotium subaurantiacum Henn. SPECIES
-=======
+# Helotium subaurantiacum Henn. SPECIES
 
 #### Status
 ACCEPTED

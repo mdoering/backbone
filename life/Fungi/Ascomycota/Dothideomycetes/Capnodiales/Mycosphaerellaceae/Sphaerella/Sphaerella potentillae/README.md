@@ -1,5 +1,4 @@
-Sphaerella potentillae Oudem. SPECIES
-=======
+# Sphaerella potentillae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora braunii Henn. SPECIES
-=======
+# Thelephora braunii Henn. SPECIES
 
 #### Status
 ACCEPTED

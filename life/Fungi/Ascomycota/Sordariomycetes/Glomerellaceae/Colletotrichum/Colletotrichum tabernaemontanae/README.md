@@ -1,5 +1,4 @@
-Colletotrichum tabernaemontanae Pavgi SPECIES
-=======
+# Colletotrichum tabernaemontanae Pavgi SPECIES
 
 #### Status
 ACCEPTED

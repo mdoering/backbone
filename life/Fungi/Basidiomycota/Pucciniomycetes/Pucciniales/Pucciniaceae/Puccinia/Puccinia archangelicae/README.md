@@ -1,5 +1,4 @@
-Puccinia archangelicae A. Blytt SPECIES
-=======
+# Puccinia archangelicae A. Blytt SPECIES
 
 #### Status
 ACCEPTED

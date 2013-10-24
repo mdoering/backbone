@@ -1,5 +1,4 @@
-Boldia van Bellen, 1946 GENUS
-=======
+# Boldia van Bellen, 1946 GENUS
 
 #### Status
 ACCEPTED

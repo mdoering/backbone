@@ -1,5 +1,4 @@
-Dothidea juruana Henn. SPECIES
-=======
+# Dothidea juruana Henn. SPECIES
 
 #### Status
 ACCEPTED

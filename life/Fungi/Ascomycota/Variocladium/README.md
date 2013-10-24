@@ -1,5 +1,4 @@
-Variocladium Descals & Marvanová GENUS
-=======
+# Variocladium Descals & Marvanová GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora genipae Rangel SPECIES
-=======
+# Cercospora genipae Rangel SPECIES
 
 #### Status
 ACCEPTED

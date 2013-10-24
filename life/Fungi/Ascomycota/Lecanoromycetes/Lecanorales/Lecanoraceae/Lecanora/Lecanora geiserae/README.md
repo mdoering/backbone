@@ -1,5 +1,4 @@
-Lecanora geiserae B. D. Ryan SPECIES
-=======
+# Lecanora geiserae B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

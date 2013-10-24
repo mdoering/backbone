@@ -1,5 +1,4 @@
-Uromyces ecklonii Bubák SPECIES
-=======
+# Uromyces ecklonii Bubák SPECIES
 
 #### Status
 ACCEPTED

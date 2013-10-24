@@ -1,5 +1,4 @@
-Actinomyxa australiensis Syd. & P. Syd., 1917 SPECIES
-=======
+# Actinomyxa australiensis Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

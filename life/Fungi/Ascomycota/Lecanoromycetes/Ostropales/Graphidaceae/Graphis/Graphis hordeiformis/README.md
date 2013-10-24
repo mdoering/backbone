@@ -1,5 +1,4 @@
-Graphis hordeiformis Fée SPECIES
-=======
+# Graphis hordeiformis Fée SPECIES
 
 #### Status
 ACCEPTED

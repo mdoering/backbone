@@ -1,5 +1,4 @@
-Marasmius papyraceus var. papyraceus VARIETY
-=======
+# Marasmius papyraceus Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius papyraceus var. papyraceus
+Marasmius papyraceus Massee
 
 ### Remarks
 null

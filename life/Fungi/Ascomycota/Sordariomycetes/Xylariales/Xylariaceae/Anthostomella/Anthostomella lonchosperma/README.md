@@ -1,5 +1,4 @@
-Anthostomella lonchosperma Speg. SPECIES
-=======
+# Anthostomella lonchosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

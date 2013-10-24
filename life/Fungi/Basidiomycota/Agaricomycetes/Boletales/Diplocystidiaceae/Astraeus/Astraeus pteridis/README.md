@@ -1,5 +1,4 @@
-Astraeus pteridis (Shear) Zeller SPECIES
-=======
+# Astraeus pteridis (Shear) Zeller SPECIES
 
 #### Status
 ACCEPTED

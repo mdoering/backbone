@@ -1,5 +1,4 @@
-Geotrichum flexuosum Cif. SPECIES
-=======
+# Geotrichum flexuosum Cif. SPECIES
 
 #### Status
 ACCEPTED

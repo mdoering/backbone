@@ -1,5 +1,4 @@
-Sporidiobolus metaroseus J.P. Samp. & E. Valério SPECIES
-=======
+# Sporidiobolus metaroseus J.P. Samp. & E. Valério SPECIES
 
 #### Status
 ACCEPTED

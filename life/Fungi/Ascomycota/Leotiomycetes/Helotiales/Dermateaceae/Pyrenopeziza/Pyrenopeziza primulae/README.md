@@ -1,5 +1,4 @@
-Pyrenopeziza primulae E. Müll. SPECIES
-=======
+# Pyrenopeziza primulae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

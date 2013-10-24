@@ -1,5 +1,4 @@
-Plowrightia puiggarii Speg. SPECIES
-=======
+# Plowrightia puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

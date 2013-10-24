@@ -1,5 +1,4 @@
-Nectria asperata Rehm SPECIES
-=======
+# Nectria asperata Rehm SPECIES
 
 #### Status
 ACCEPTED

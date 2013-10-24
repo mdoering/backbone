@@ -1,17 +1,16 @@
-Lecidea tenebricosa f. tenebricosa FORM
-=======
+# Lecidea erythrophaea Flörke ex Sommerf. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Suppl. Fl. lapp. (Oslo) 163 (1826)
 
 #### Original name
-Lecidea tenebricosa f. tenebricosa
+Lecidea erythrophaea Flörke ex Sommerf.
 
 ### Remarks
 null

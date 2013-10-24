@@ -1,5 +1,4 @@
-Isaria cornea Lloyd SPECIES
-=======
+# Isaria cornea Lloyd SPECIES
 
 #### Status
 ACCEPTED

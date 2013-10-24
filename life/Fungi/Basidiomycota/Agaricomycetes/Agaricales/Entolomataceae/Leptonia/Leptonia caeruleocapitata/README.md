@@ -1,5 +1,4 @@
-Leptonia caeruleocapitata (Dennis) Pegler SPECIES
-=======
+# Leptonia caeruleocapitata (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

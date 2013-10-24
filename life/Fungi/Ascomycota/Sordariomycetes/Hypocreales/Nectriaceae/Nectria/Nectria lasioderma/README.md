@@ -1,5 +1,4 @@
-Nectria lasioderma Ellis SPECIES
-=======
+# Nectria lasioderma Ellis SPECIES
 
 #### Status
 ACCEPTED

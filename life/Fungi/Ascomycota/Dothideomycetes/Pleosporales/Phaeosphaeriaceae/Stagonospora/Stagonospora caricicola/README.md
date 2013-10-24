@@ -1,5 +1,4 @@
-Stagonospora caricicola Unamuno SPECIES
-=======
+# Stagonospora caricicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

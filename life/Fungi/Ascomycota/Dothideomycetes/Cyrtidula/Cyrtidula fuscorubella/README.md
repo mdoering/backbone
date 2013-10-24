@@ -1,5 +1,4 @@
-Cyrtidula fuscorubella Minks SPECIES
-=======
+# Cyrtidula fuscorubella Minks SPECIES
 
 #### Status
 ACCEPTED

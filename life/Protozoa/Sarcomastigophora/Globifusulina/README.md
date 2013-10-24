@@ -1,5 +1,4 @@
-Globifusulina Izotova, Polozova & Alekseeva, 1983 GENUS
-=======
+# Globifusulina Izotova, Polozova & Alekseeva, 1983 GENUS
 
 #### Status
 ACCEPTED

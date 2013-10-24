@@ -1,5 +1,4 @@
-Fragilaria voeringia J. Fenner SPECIES
-=======
+# Fragilaria voeringia J. Fenner SPECIES
 
 #### Status
 ACCEPTED

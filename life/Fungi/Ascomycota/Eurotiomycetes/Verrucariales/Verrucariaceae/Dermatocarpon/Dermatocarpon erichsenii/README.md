@@ -1,5 +1,4 @@
-Dermatocarpon erichsenii Servít SPECIES
-=======
+# Dermatocarpon erichsenii Servít SPECIES
 
 #### Status
 ACCEPTED

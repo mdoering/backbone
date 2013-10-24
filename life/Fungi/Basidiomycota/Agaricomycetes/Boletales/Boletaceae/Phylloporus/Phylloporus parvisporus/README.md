@@ -1,17 +1,16 @@
-Phylloporus parvisporus var. parvisporus VARIETY
-=======
+# Phylloporus parvisporus Corner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 20(3-4): 811 (1971)
 
 #### Original name
-null
+Phylloporus parvisporus Corner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Azospirillum rugosum A. F. Yassin, 2008 SPECIES
-=======
+# Azospirillum rugosum A. F. Yassin, 2008 SPECIES
 
 #### Status
 ACCEPTED

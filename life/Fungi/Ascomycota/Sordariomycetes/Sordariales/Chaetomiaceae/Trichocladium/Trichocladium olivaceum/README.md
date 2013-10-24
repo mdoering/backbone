@@ -1,5 +1,4 @@
-Trichocladium olivaceum Petch SPECIES
-=======
+# Trichocladium olivaceum Petch SPECIES
 
 #### Status
 ACCEPTED

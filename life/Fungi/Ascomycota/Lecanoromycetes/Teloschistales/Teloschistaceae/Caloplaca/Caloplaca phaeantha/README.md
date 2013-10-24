@@ -1,14 +1,13 @@
-Lecanora phaeantha Nyl. SPECIES
-=======
+# Caloplaca phaeantha (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 163 (1931)
 
 #### Original name
 Lecanora phaeantha Nyl.

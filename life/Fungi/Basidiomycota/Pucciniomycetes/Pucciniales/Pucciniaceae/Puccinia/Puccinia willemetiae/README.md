@@ -1,5 +1,4 @@
-Puccinia willemetiae Bubák, 1902 SPECIES
-=======
+# Puccinia willemetiae Bubák, 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanosphaera cuniculi Biavati et al., 1990 SPECIES
-=======
+# Methanosphaera cuniculi Biavati et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

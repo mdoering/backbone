@@ -1,5 +1,4 @@
-Phaeographina punctiformis var. punctiformis VARIETY
-=======
+# Phaeographina punctiformis (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina punctiformis var. punctiformis
+null
 
 ### Remarks
 null

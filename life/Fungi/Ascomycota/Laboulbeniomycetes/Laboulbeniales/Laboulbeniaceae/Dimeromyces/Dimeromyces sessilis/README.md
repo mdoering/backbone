@@ -1,5 +1,4 @@
-Dimeromyces sessilis Thaxt. SPECIES
-=======
+# Dimeromyces sessilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

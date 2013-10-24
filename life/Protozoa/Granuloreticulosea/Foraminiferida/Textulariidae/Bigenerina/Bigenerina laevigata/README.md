@@ -1,5 +1,4 @@
-Bigenerina laevigata d'Orbigny, 1826 SPECIES
-=======
+# Bigenerina laevigata d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

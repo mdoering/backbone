@@ -1,17 +1,16 @@
-Scleroderma lycoperdoides var. reticulatum Coker & Couch VARIETY
-=======
+# Scleroderma lycoperdoides Schwein., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gasteromycetes E. U. S. Canada (Chapel Hill) 170 (1928)
+Schr. naturf. Ges. Leipzig 1: 61 (1822)
 
 #### Original name
-Scleroderma lycoperdoides var. reticulatum Coker & Couch
+Scleroderma lycoperdoides Schwein., 1822
 
 ### Remarks
 null

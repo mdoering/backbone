@@ -1,5 +1,4 @@
-Ochrolechia malmei Räsänen SPECIES
-=======
+# Ochrolechia malmei Räsänen SPECIES
 
 #### Status
 ACCEPTED

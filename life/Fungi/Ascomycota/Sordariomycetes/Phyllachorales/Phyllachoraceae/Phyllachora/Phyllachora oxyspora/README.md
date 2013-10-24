@@ -1,17 +1,16 @@
-Phyllachora antioquensis Chardón, 1928 SPECIES
-=======
+# Phyllachora oxyspora Starbäck, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Real Sociedad Española de Historia Natural, Biologica 28: 118 (1928)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 1): 45 (1899)
 
 #### Original name
-Phyllachora antioquensis Chardón, 1928
+Phyllachora oxyspora Starbäck, 1899
 
 ### Remarks
 null

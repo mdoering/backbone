@@ -1,5 +1,4 @@
-Asteridiella crescentiicola Hansf. SPECIES
-=======
+# Asteridiella crescentiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

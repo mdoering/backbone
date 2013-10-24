@@ -1,5 +1,4 @@
-Sticta boryana Delise SPECIES
-=======
+# Sticta boryana Delise SPECIES
 
 #### Status
 ACCEPTED

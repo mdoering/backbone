@@ -1,5 +1,4 @@
-Sydowia agharkarii T.S. Viswan., 1960 SPECIES
-=======
+# Sydowia agharkarii T.S. Viswan., 1960 SPECIES
 
 #### Status
 ACCEPTED

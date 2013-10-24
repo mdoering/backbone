@@ -1,5 +1,4 @@
-Nephroma tirolicum Gyeln. SPECIES
-=======
+# Nephroma tirolicum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

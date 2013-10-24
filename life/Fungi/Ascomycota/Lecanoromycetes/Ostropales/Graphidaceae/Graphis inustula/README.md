@@ -1,5 +1,4 @@
-Graphis inustula Stirt. SPECIES
-=======
+# Graphis inustula Stirt. SPECIES
 
 #### Status
 ACCEPTED

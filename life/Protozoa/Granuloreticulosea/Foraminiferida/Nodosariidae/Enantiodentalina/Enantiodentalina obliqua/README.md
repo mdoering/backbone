@@ -1,5 +1,4 @@
-Enantiodentalina obliqua (d'Orbigny, 1826) SPECIES
-=======
+# Enantiodentalina obliqua (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

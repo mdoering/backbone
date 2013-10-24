@@ -1,5 +1,4 @@
-Cortinarius ionema M.M. Moser & Ammirati SPECIES
-=======
+# Cortinarius ionema M.M. Moser & Ammirati SPECIES
 
 #### Status
 ACCEPTED

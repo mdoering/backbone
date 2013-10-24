@@ -1,14 +1,13 @@
-Parmelia sphaerosporella Müll. Arg. SPECIES
-=======
+# Ahtiana sphaerosporella (Müll. Arg.) Goward SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 88(4): 370 (1986)
 
 #### Original name
 Parmelia sphaerosporella Müll. Arg.

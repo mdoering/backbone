@@ -1,5 +1,4 @@
-Cantharellus nothofagorum G.M. Muell. & R.H. Petersen, 1992 SPECIES
-=======
+# Cantharellus nothofagorum G.M. Muell. & R.H. Petersen, 1992 SPECIES
 
 #### Status
 ACCEPTED

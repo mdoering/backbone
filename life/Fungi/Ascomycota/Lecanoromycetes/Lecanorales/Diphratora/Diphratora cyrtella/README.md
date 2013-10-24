@@ -1,5 +1,4 @@
-Diphratora cyrtella (Ach.) Jatta SPECIES
-=======
+# Diphratora cyrtella (Ach.) Jatta SPECIES
 
 #### Status
 ACCEPTED

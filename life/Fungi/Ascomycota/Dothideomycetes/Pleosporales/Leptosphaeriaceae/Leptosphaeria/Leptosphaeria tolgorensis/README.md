@@ -1,5 +1,4 @@
-Leptosphaeria tolgorensis Petr. SPECIES
-=======
+# Leptosphaeria tolgorensis Petr. SPECIES
 
 #### Status
 ACCEPTED

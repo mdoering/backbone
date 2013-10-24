@@ -1,5 +1,4 @@
-Cortinarius subulatus Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subulatus Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoceratium pentagonum (Gourret) F.Gomez & P.Lopez-Garcia, 2009 SPECIES
-=======
+# Neoceratium pentagonum (Gourret) F.Gomez & P.Lopez-Garcia, 2009 SPECIES
 
 #### Status
 ACCEPTED

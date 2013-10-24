@@ -1,14 +1,13 @@
-Phaeotrema granatum (Kremp.) Zahlbr. SPECIES
-=======
+# Thelotrema granatum Kremp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 607 (1923)
+Nuovo Giorn. Bot. Ital. 7: 18 (1875)
 
 #### Original name
 Thelotrema granatum Kremp.

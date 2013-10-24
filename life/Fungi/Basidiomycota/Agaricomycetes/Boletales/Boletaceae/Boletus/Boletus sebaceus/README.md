@@ -1,5 +1,4 @@
-Boletus sebaceus Leyss. SPECIES
-=======
+# Boletus sebaceus Leyss. SPECIES
 
 #### Status
 ACCEPTED

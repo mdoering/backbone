@@ -1,5 +1,4 @@
-Hanusia phi J. A. Deane SPECIES
-=======
+# Hanusia phi J. A. Deane SPECIES
 
 #### Status
 ACCEPTED

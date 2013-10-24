@@ -1,5 +1,4 @@
-Vermiculariopsiella cornuta (V. Rao & de Hoog) Nawawi, Kuthub. & B. Sutton SPECIES
-=======
+# Vermiculariopsiella cornuta (V. Rao & de Hoog) Nawawi, Kuthub. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

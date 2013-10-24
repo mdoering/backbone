@@ -1,5 +1,4 @@
-Uromyces mbelensis Henn. SPECIES
-=======
+# Uromyces mbelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

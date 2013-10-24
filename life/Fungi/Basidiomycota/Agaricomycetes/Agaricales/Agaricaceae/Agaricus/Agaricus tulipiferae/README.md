@@ -1,5 +1,4 @@
-Agaricus tulipiferae Terrace {?} SPECIES
-=======
+# Agaricus tulipiferae Terrace {?} SPECIES
 
 #### Status
 ACCEPTED

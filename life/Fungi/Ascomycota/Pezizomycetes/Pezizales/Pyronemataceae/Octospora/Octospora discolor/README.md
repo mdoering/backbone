@@ -1,5 +1,4 @@
-Octospora discolor Hedw. SPECIES
-=======
+# Octospora discolor Hedw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia juglandis Schwarzman SPECIES
-=======
+# Hendersonia juglandis Schwarzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma borneomurinum Corner SPECIES
-=======
+# Tricholoma borneomurinum Corner SPECIES
 
 #### Status
 ACCEPTED

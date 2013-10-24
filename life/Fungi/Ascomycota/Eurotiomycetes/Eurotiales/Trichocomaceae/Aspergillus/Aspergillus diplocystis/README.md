@@ -1,5 +1,4 @@
-Aspergillus diplocystis (Sartory, R. Sartory, Hufschm. & J. Mey.) C.W. Dodge SPECIES
-=======
+# Aspergillus diplocystis (Sartory, R. Sartory, Hufschm. & J. Mey.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

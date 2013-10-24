@@ -1,17 +1,16 @@
-Sphaeronaema blepharistoma Berk., 1837 SPECIES
-=======
+# Heterogastridium pycnidioideum Oberw. & R. Bauer, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mag. Zool. Bot. , 1837 1: 512 (1837)
+in Oberwinkler, Bauer & Bandoni, Mycologia 82(1): 55 (1990)
 
 #### Original name
-Sphaeronaema blepharistoma Berk., 1837
+Heterogastridium pycnidioideum Oberw. & R. Bauer, 1990
 
 ### Remarks
 null

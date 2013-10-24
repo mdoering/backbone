@@ -1,17 +1,16 @@
-Boletus bicolor var. bicolor VARIETY
-=======
+# Boletochaete bicolor Singer, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Agaric. mod. Tax. (Koenigstein), Edn 4 796 (1986)
 
 #### Original name
-Boletus bicolor var. bicolor
+Boletus bicolor Massee, 1909
 
 ### Remarks
 null

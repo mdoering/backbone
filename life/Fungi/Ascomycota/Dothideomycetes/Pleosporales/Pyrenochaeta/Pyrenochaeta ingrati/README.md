@@ -1,5 +1,4 @@
-Pyrenochaeta ingrati Udagawa & Toyaz. SPECIES
-=======
+# Pyrenochaeta ingrati Udagawa & Toyaz. SPECIES
 
 #### Status
 ACCEPTED

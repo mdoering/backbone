@@ -1,5 +1,4 @@
-Pulparia verrucispora Donadini & Monier SPECIES
-=======
+# Pulparia verrucispora Donadini & Monier SPECIES
 
 #### Status
 ACCEPTED

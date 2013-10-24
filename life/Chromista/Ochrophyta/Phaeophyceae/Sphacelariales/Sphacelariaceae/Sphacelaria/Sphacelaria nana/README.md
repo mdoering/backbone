@@ -1,11 +1,10 @@
-Sphacelaria brittanica Sauvageau SPECIES
-=======
+# Sphacelaria nana Nägeli ex Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

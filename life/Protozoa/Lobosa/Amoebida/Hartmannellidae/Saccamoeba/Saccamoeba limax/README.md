@@ -1,5 +1,4 @@
-Saccamoeba limax (Penard, 1902) SPECIES
-=======
+# Saccamoeba limax (Penard, 1902) SPECIES
 
 #### Status
 ACCEPTED

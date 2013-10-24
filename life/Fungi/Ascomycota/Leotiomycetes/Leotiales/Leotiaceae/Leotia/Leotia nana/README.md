@@ -1,14 +1,13 @@
-Helvella nana With., 1796 SPECIES
-=======
+# Leotia nana (With.) Fr., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arr. Brit. Pl. (London), Edn 3 4: 338 (1796)
+Syst. mycol. (Lundae) 2(1): 28 (1822)
 
 #### Original name
 Helvella nana With., 1796

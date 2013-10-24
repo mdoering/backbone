@@ -1,5 +1,4 @@
-Thecaphora westendorpii G.W. Fisch. SPECIES
-=======
+# Thecaphora westendorpii G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

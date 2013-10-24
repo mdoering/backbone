@@ -1,5 +1,4 @@
-Phlyctema pithya Höhn. SPECIES
-=======
+# Phlyctema pithya Höhn. SPECIES
 
 #### Status
 ACCEPTED

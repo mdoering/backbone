@@ -1,5 +1,4 @@
-Ramulina globulifera SPECIES
-=======
+# Ramulina globulifera SPECIES
 
 #### Status
 ACCEPTED

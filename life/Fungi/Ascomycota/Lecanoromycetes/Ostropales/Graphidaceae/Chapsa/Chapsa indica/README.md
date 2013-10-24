@@ -1,17 +1,16 @@
-Thelotrema pycnophragmium Nyl. SPECIES
-=======
+# Chapsa indica A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sert. Lich. Trop. Labuan Singapore 5 (1891)
+null
 
 #### Original name
-Thelotrema pycnophragmium Nyl.
+null
 
 ### Remarks
 null

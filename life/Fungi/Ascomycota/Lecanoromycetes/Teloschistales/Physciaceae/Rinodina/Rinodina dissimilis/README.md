@@ -1,5 +1,4 @@
-Rinodina dissimilis Anzi SPECIES
-=======
+# Rinodina dissimilis Anzi SPECIES
 
 #### Status
 ACCEPTED

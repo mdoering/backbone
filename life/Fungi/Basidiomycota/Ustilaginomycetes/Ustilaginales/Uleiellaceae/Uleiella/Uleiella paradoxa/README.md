@@ -1,17 +1,16 @@
-Ulea paradoxa J. Schröt., 1892 SPECIES
-=======
+# Uleiella paradoxa J. Schröt., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zbl. 50: 42 (1892)
+Hedwigia 33(Beibl. ): (65) (1894)
 
 #### Original name
-Ulea paradoxa J. Schröt., 1892
+Uleiella paradoxa J. Schröt., 1894
 
 ### Remarks
 null

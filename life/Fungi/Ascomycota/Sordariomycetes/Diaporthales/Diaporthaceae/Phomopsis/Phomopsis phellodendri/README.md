@@ -1,5 +1,4 @@
-Phomopsis phellodendri Nann. SPECIES
-=======
+# Phomopsis phellodendri Nann. SPECIES
 
 #### Status
 ACCEPTED

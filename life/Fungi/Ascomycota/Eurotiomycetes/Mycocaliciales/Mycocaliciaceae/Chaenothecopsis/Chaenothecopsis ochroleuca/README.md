@@ -1,5 +1,4 @@
-Chaenothecopsis ochroleuca (Körb.) Tibell & K. Ryman SPECIES
-=======
+# Chaenothecopsis ochroleuca (Körb.) Tibell & K. Ryman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia cystidioides (Lloyd) Corner SPECIES
-=======
+# Hohenbuehelia cystidioides (Lloyd) Corner SPECIES
 
 #### Status
 ACCEPTED

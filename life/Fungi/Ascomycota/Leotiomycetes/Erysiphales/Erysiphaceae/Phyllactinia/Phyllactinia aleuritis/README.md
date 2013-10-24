@@ -1,17 +1,16 @@
-Phyllactinia aleuritidis Y.X. Yu & Y.Q. Lai SPECIES
-=======
+# Phyllactinia aleuritis Y.X. Yu & Y.Q. Lai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 19(1): 13 (1979)
 
 #### Original name
-Phyllactinia aleuritidis Y.X. Yu & Y.Q. Lai
+Phyllactinia aleuritis Y.X. Yu & Y.Q. Lai
 
 ### Remarks
 null

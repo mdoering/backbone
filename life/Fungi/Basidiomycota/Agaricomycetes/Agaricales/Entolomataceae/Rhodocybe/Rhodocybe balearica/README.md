@@ -1,5 +1,4 @@
-Rhodocybe balearica Courtec. & Siquier SPECIES
-=======
+# Rhodocybe balearica Courtec. & Siquier SPECIES
 
 #### Status
 ACCEPTED

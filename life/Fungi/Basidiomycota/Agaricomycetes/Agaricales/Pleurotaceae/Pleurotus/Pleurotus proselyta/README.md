@@ -1,5 +1,4 @@
-Pleurotus proselyta E.H.L. Krause SPECIES
-=======
+# Pleurotus proselyta E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

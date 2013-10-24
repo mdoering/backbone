@@ -1,5 +1,4 @@
-Hydnum crystallinum Fr. SPECIES
-=======
+# Hydnum crystallinum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia neotropica Singer SPECIES
-=======
+# Collybia neotropica Singer SPECIES
 
 #### Status
 ACCEPTED

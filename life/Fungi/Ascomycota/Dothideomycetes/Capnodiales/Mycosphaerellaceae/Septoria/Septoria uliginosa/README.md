@@ -1,5 +1,4 @@
-Septoria uliginosa Speg. SPECIES
-=======
+# Septoria uliginosa Speg. SPECIES
 
 #### Status
 ACCEPTED

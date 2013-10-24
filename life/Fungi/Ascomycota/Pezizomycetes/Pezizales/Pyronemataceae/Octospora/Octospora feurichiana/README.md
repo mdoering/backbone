@@ -1,5 +1,4 @@
-Octospora feurichiana (Kirschst.) Yei Z. Wang SPECIES
-=======
+# Octospora feurichiana (Kirschst.) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

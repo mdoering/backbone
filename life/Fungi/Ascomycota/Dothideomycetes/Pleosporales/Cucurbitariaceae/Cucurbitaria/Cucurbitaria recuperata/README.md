@@ -1,5 +1,4 @@
-Cucurbitaria recuperata Theiss. SPECIES
-=======
+# Cucurbitaria recuperata Theiss. SPECIES
 
 #### Status
 ACCEPTED

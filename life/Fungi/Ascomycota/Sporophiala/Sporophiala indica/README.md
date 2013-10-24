@@ -1,5 +1,4 @@
-Sporophiala indica P.M. Kirk, 1982 SPECIES
-=======
+# Sporophiala indica P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma trichodes Fr. SPECIES
-=======
+# Diderma trichodes Fr. SPECIES
 
 #### Status
 ACCEPTED

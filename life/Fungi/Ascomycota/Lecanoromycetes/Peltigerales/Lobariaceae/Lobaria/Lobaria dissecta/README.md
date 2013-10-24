@@ -1,5 +1,4 @@
-Lobaria dissecta (Sw.) Raeusch. SPECIES
-=======
+# Lobaria dissecta (Sw.) Raeusch. SPECIES
 
 #### Status
 ACCEPTED

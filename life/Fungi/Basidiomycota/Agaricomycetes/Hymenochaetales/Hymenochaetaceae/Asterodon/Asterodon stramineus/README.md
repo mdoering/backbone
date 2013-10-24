@@ -1,5 +1,4 @@
-Asterodon stramineus Rick SPECIES
-=======
+# Asterodon stramineus Rick SPECIES
 
 #### Status
 ACCEPTED

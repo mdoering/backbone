@@ -1,5 +1,4 @@
-Helicomyces elegans Morgan SPECIES
-=======
+# Helicomyces elegans Morgan SPECIES
 
 #### Status
 ACCEPTED

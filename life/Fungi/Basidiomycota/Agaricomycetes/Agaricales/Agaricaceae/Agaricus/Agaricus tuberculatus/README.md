@@ -1,5 +1,4 @@
-Agaricus tuberculatus F. Brig. SPECIES
-=======
+# Agaricus tuberculatus F. Brig. SPECIES
 
 #### Status
 ACCEPTED

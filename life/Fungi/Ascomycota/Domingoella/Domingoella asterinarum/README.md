@@ -1,5 +1,4 @@
-Domingoella asterinarum Petr. & Cif., 1932 SPECIES
-=======
+# Domingoella asterinarum Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

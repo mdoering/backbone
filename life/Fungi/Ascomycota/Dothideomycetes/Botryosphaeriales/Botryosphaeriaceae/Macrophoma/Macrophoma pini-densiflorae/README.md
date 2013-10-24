@@ -1,5 +1,4 @@
-Macrophoma pini-densiflorae Sawada SPECIES
-=======
+# Macrophoma pini-densiflorae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lempholemma degelianum P.M. Jørg. SPECIES
-=======
+# Lempholemma degelianum P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

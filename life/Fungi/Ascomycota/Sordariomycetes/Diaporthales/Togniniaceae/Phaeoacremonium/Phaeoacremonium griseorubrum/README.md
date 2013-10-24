@@ -1,5 +1,4 @@
-Phaeoacremonium griseorubrum L. Mostert, Summerb. & Crous SPECIES
-=======
+# Phaeoacremonium griseorubrum L. Mostert, Summerb. & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosordaria luticola (Feltgen) Chenant. SPECIES
-=======
+# Lasiosordaria luticola (Feltgen) Chenant. SPECIES
 
 #### Status
 ACCEPTED

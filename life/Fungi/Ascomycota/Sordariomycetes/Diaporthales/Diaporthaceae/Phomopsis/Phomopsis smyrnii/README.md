@@ -1,5 +1,4 @@
-Phomopsis smyrnii (Sousa da Câmara) M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phomopsis smyrnii (Sousa da Câmara) M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella scytalidii Crous & M.J. Wingf., 2006 SPECIES
-=======
+# Mycosphaerella scytalidii Crous & M.J. Wingf., 2006 SPECIES
 
 #### Status
 ACCEPTED

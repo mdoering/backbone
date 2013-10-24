@@ -1,5 +1,4 @@
-Beauveria formicidae ined. SPECIES
-=======
+# Beauveria formicidae ined. SPECIES
 
 #### Status
 ACCEPTED

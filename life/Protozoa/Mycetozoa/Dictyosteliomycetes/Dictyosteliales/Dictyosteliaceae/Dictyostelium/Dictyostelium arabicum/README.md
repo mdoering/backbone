@@ -1,5 +1,4 @@
-Dictyostelium arabicum H. Hagiw., 1991 SPECIES
-=======
+# Dictyostelium arabicum H. Hagiw., 1991 SPECIES
 
 #### Status
 ACCEPTED

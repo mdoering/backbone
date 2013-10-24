@@ -1,5 +1,4 @@
-Triainomyces hollowayanus W. Rossi & A. Weir, 1998 SPECIES
-=======
+# Triainomyces hollowayanus W. Rossi & A. Weir, 1998 SPECIES
 
 #### Status
 ACCEPTED

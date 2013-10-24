@@ -1,5 +1,4 @@
-Pelosina arctica Awerinzew, 1911 SPECIES
-=======
+# Pelosina arctica Awerinzew, 1911 SPECIES
 
 #### Status
 ACCEPTED

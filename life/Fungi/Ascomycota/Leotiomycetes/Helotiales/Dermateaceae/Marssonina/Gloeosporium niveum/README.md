@@ -1,5 +1,4 @@
-Gloeosporium niveum Davis SPECIES
-=======
+# Gloeosporium niveum Davis SPECIES
 
 #### Status
 ACCEPTED

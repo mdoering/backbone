@@ -1,5 +1,4 @@
-Lyophyllum pulvis-horrei E. Ludw. & Koeck SPECIES
-=======
+# Lyophyllum pulvis-horrei E. Ludw. & Koeck SPECIES
 
 #### Status
 ACCEPTED

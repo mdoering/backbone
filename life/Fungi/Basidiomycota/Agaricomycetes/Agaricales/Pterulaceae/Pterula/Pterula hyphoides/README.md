@@ -1,5 +1,4 @@
-Pterula hyphoides Douanla-Meli SPECIES
-=======
+# Pterula hyphoides Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

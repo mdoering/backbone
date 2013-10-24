@@ -1,5 +1,4 @@
-Dicellaesporites fragilis Sheffy & Dilcher SPECIES
-=======
+# Dicellaesporites fragilis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

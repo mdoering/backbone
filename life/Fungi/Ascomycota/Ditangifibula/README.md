@@ -1,17 +1,16 @@
-Ditangifibulae G.C. Adams GENUS
-=======
+# Ditangifibula G.C. Adams GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Adams, Klomparens & Hennon, Mycologia 87(6): 911 (1996)
 
 #### Original name
-Ditangifibulae G.C. Adams
+Ditangifibula G.C. Adams
 
 ### Remarks
 null

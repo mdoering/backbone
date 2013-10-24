@@ -1,8 +1,7 @@
-Lecidea austro-mongolica H. Magn. SPECIES
-=======
+# Lecidea austromongolica H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea austro-mongolica H. Magn.
+Lecidea austromongolica H. Magn.
 
 ### Remarks
 null

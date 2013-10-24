@@ -1,5 +1,4 @@
-Gloeoasterostroma Rick GENUS
-=======
+# Gloeoasterostroma Rick GENUS
 
 #### Status
 ACCEPTED

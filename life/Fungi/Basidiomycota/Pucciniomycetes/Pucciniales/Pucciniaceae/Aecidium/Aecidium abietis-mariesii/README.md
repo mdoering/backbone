@@ -1,5 +1,4 @@
-Aecidium abietis-mariesii Sawada SPECIES
-=======
+# Aecidium abietis-mariesii Sawada SPECIES
 
 #### Status
 ACCEPTED

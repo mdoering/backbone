@@ -1,14 +1,13 @@
-Barssia yezo-montana (Kobayasi) Trappe SPECIES
-=======
+# Barssia yezomontana (Kobayasi) Trappe, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 9(1): 336 (1979)
 
 #### Original name
 Phymatomyces yezomontanus Kobayasi, 1937

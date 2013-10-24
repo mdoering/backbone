@@ -1,5 +1,4 @@
-Rhizopogon parasiticus Coker & Totten, 1923 SPECIES
-=======
+# Rhizopogon parasiticus Coker & Totten, 1923 SPECIES
 
 #### Status
 ACCEPTED

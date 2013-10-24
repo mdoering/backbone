@@ -1,5 +1,4 @@
-Cordyceps lignicola Massee SPECIES
-=======
+# Cordyceps lignicola Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarops scieroderma SPECIES
-=======
+# Camarops scieroderma SPECIES
 
 #### Status
 ACCEPTED

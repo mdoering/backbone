@@ -1,14 +1,13 @@
-Hyalopus nigrum (Kambay.) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus niger (Kambay.) M.A.J. Barbosa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notarisia 43 (1941)
 
 #### Original name
 Cephalosporium nigrum Kambay.

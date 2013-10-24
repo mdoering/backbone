@@ -1,5 +1,4 @@
-Laschia curtisii Berk. SPECIES
-=======
+# Laschia curtisii Berk. SPECIES
 
 #### Status
 ACCEPTED

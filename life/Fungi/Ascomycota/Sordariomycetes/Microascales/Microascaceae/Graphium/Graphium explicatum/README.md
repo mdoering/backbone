@@ -1,5 +1,4 @@
-Graphium explicatum Berk. & M.A. Curtis SPECIES
-=======
+# Graphium explicatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

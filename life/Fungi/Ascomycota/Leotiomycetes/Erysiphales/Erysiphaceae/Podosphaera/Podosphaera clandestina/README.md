@@ -1,17 +1,16 @@
-Podosphaera oxyacanthae f. sp FORM
-=======
+# Podosphaera clandestina (Wallr. Fr.) Lév. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Podosphaera oxyacanthae f. sp
+null
 
 ### Remarks
 null

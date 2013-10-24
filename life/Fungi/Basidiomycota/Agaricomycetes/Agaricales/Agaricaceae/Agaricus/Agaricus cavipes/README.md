@@ -1,5 +1,4 @@
-Agaricus cavipes Britzelm. SPECIES
-=======
+# Agaricus cavipes Britzelm. SPECIES
 
 #### Status
 ACCEPTED

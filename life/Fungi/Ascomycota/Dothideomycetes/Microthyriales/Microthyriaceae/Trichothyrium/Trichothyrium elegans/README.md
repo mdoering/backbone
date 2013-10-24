@@ -1,5 +1,4 @@
-Trichothyrium elegans Doidge SPECIES
-=======
+# Trichothyrium elegans Doidge SPECIES
 
 #### Status
 ACCEPTED

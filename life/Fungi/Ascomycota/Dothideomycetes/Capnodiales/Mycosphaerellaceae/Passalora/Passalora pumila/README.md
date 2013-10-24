@@ -1,5 +1,4 @@
-Passalora pumila (Syd. & P. Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora pumila (Syd. & P. Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

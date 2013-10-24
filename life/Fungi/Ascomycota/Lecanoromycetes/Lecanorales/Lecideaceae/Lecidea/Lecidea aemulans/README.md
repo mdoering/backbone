@@ -1,5 +1,4 @@
-Lecidea aemulans (Arnold) Poelt SPECIES
-=======
+# Lecidea aemulans (Arnold) Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microtrichophyton GENUS
-=======
+# Microtrichophyton GENUS
 
 #### Status
 ACCEPTED

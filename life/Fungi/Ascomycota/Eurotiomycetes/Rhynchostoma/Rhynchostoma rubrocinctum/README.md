@@ -1,5 +1,4 @@
-Rhynchostoma rubrocinctum P. Karst. SPECIES
-=======
+# Rhynchostoma rubrocinctum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

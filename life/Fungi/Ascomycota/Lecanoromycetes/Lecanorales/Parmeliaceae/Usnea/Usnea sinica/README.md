@@ -1,5 +1,4 @@
-Usnea sinica (Motyka) Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea sinica (Motyka) Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

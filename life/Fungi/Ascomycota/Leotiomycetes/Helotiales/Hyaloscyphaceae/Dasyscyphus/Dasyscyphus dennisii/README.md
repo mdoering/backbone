@@ -1,5 +1,4 @@
-Dasyscyphus dennisii E. Müll. SPECIES
-=======
+# Dasyscyphus dennisii E. Müll. SPECIES
 
 #### Status
 ACCEPTED

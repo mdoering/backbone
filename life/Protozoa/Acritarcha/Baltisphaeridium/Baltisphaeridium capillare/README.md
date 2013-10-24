@@ -1,5 +1,4 @@
-Baltisphaeridium capillare (Li Wenben, 1974) Lu Mengning & Wang Ruoshan, 1980 SPECIES
-=======
+# Baltisphaeridium capillare (Li Wenben, 1974) Lu Mengning & Wang Ruoshan, 1980 SPECIES
 
 #### Status
 ACCEPTED

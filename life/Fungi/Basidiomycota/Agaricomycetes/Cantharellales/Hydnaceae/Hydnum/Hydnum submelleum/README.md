@@ -1,5 +1,4 @@
-Hydnum submelleum Rick SPECIES
-=======
+# Hydnum submelleum Rick SPECIES
 
 #### Status
 ACCEPTED

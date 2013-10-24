@@ -1,5 +1,4 @@
-Pseudocercospora lippiae-albae U. Braun & R.F. Castañeda SPECIES
-=======
+# Pseudocercospora lippiae-albae U. Braun & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria stigma Berk. & M.A. Curtis SPECIES
-=======
+# Septoria stigma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

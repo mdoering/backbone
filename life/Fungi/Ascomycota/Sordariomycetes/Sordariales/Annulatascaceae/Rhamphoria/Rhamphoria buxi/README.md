@@ -1,5 +1,4 @@
-Rhamphoria buxi Richon SPECIES
-=======
+# Rhamphoria buxi Richon SPECIES
 
 #### Status
 ACCEPTED

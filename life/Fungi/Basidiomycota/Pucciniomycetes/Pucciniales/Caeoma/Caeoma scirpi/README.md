@@ -1,5 +1,4 @@
-Caeoma scirpi Fr. SPECIES
-=======
+# Caeoma scirpi Fr. SPECIES
 
 #### Status
 ACCEPTED

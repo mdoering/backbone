@@ -1,17 +1,16 @@
-Aspergillus diversum Raper & Fennell SPECIES
-=======
+# Aspergillus diversus Raper & Fennell, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Genus Aspergillus 437 (1965)
 
 #### Original name
-Aspergillus diversum Raper & Fennell
+Aspergillus diversus Raper & Fennell, 1965
 
 ### Remarks
 null

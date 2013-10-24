@@ -1,5 +1,4 @@
-Acrothecium xylogenum Grove SPECIES
-=======
+# Acrothecium xylogenum Grove SPECIES
 
 #### Status
 ACCEPTED

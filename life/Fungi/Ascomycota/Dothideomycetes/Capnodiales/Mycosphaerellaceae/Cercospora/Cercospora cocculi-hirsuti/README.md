@@ -1,5 +1,4 @@
-Cercospora cocculi-hirsuti R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
-=======
+# Cercospora cocculi-hirsuti R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

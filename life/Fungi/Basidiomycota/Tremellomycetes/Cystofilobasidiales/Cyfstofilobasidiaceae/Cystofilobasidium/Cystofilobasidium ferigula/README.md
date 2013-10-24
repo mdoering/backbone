@@ -1,5 +1,4 @@
-Cystofilobasidium ferigula J.P. Samp., Gadanho & R. Bauer, 2001 SPECIES
-=======
+# Cystofilobasidium ferigula J.P. Samp., Gadanho & R. Bauer, 2001 SPECIES
 
 #### Status
 ACCEPTED

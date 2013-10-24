@@ -1,5 +1,4 @@
-Corynespora colebrookiae Solheim SPECIES
-=======
+# Corynespora colebrookiae Solheim SPECIES
 
 #### Status
 ACCEPTED

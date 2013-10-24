@@ -1,5 +1,4 @@
-Lecidea interrupta Darb. SPECIES
-=======
+# Lecidea interrupta Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota apalochroa (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota apalochroa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dexiotricha plagia Stokes, 1885 SPECIES
-=======
+# Dexiotricha granulosa (Kent, 1881) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

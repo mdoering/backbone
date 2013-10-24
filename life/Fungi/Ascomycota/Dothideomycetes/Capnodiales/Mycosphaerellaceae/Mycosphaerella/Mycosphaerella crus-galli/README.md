@@ -1,5 +1,4 @@
-Mycosphaerella crus-galli (Ellis & Kellerm.) Lindau SPECIES
-=======
+# Mycosphaerella crus-galli (Ellis & Kellerm.) Lindau SPECIES
 
 #### Status
 ACCEPTED

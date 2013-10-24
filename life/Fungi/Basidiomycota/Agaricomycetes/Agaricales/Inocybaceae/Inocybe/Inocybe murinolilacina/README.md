@@ -1,5 +1,4 @@
-Inocybe murinolilacina Ellis & Everh. SPECIES
-=======
+# Inocybe murinolilacina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

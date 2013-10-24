@@ -1,5 +1,4 @@
-Spirulina massartii (Kufferath) Geitler SPECIES
-=======
+# Spirulina massartii (Kufferath) Geitler SPECIES
 
 #### Status
 ACCEPTED

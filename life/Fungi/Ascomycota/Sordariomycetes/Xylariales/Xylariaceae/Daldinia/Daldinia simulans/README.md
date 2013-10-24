@@ -1,5 +1,4 @@
-Daldinia simulans J. Child, 1932 SPECIES
-=======
+# Daldinia simulans J. Child, 1932 SPECIES
 
 #### Status
 ACCEPTED

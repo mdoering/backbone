@@ -1,5 +1,4 @@
-Graphis catherinae A.W. Archer SPECIES
-=======
+# Graphis catherinae A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

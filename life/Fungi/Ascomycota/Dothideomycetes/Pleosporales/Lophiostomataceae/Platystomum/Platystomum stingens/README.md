@@ -1,5 +1,4 @@
-Platystomum stingens (Ellis) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum stingens (Ellis) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

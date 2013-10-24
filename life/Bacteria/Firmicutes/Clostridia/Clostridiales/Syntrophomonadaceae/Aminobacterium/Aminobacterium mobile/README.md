@@ -1,5 +1,4 @@
-Aminobacterium mobile Baena et al., 2000 SPECIES
-=======
+# Aminobacterium mobile Baena et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

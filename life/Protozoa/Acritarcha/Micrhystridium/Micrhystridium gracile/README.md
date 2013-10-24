@@ -1,5 +1,4 @@
-Micrhystridium gracile Deák & Combaz, 1967 SPECIES
-=======
+# Micrhystridium gracile Deák & Combaz, 1967 SPECIES
 
 #### Status
 ACCEPTED

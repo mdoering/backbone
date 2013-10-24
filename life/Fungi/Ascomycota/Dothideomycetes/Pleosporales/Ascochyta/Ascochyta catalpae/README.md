@@ -1,5 +1,4 @@
-Ascochyta catalpae Tassi SPECIES
-=======
+# Ascochyta catalpae Tassi SPECIES
 
 #### Status
 ACCEPTED

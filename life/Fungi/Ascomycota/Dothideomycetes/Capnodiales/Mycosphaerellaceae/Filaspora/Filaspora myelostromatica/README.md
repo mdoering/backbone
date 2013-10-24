@@ -1,5 +1,4 @@
-Filaspora myelostromatica (Preuss) Kuntze SPECIES
-=======
+# Filaspora myelostromatica (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

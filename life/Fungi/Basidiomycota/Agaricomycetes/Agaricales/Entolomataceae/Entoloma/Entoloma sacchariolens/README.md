@@ -1,14 +1,13 @@
-Entoloma ameides var. sacchariolens (Romagn.) Krieglst., 2003 VARIETY
-=======
+# Entoloma sacchariolens (Romagn.) Noordel., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Großpilze Baden-Württembergs (Stuttgart), <b>4</b>. Ständerpilze: Blätterpilze II 443 (2003)
+Persoonia 10(4): 474 (1980)
 
 #### Original name
 Rhodophyllus sacchariolens Romagn., 1974

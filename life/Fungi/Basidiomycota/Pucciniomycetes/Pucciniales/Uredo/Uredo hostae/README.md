@@ -1,5 +1,4 @@
-Uredo hostae Henn. SPECIES
-=======
+# Uredo hostae Henn. SPECIES
 
 #### Status
 ACCEPTED

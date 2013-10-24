@@ -1,5 +1,4 @@
-Phaeochaetia syzygii (Hansf.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia syzygii (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

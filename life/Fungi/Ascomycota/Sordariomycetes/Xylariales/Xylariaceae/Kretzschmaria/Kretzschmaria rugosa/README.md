@@ -1,5 +1,4 @@
-Kretzschmaria rugosa Earle SPECIES
-=======
+# Kretzschmaria rugosa Earle SPECIES
 
 #### Status
 ACCEPTED

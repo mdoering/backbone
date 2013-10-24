@@ -1,5 +1,4 @@
-Phoma plurivora P.R. Johnst., 1981 SPECIES
-=======
+# Phoma plurivora P.R. Johnst., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pholiota totteni (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota tottenii (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+The North American species of Pholiota 306 (1968)
 
 #### Original name
 Hebeloma tottenii Murrill

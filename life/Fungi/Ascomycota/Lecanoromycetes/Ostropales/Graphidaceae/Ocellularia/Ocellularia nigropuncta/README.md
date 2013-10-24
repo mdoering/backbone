@@ -1,5 +1,4 @@
-Ocellularia nigropuncta Hale SPECIES
-=======
+# Ocellularia nigropuncta Hale SPECIES
 
 #### Status
 ACCEPTED

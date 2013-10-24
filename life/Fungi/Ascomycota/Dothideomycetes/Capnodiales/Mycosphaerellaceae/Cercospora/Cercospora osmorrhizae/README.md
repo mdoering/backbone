@@ -1,5 +1,4 @@
-Cercospora osmorrhizae Ellis & Everh. SPECIES
-=======
+# Cercospora osmorrhizae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

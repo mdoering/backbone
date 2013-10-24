@@ -1,5 +1,4 @@
-Xanthoria weberi S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria weberi S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

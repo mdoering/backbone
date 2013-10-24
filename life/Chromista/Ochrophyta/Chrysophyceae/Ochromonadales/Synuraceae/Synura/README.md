@@ -1,14 +1,13 @@
-Skadovskiella Korshikov, 1927 GENUS
-=======
+# Synura Ehrenberg, 1834 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. Preuss. Akad. Wiss. , 1833 (1835), 314.
 
 #### Original name
 null

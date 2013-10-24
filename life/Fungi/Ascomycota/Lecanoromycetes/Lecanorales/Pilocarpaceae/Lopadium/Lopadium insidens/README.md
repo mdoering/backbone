@@ -1,5 +1,4 @@
-Lopadium insidens (Stirt.) Zahlbr. SPECIES
-=======
+# Lopadium insidens (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

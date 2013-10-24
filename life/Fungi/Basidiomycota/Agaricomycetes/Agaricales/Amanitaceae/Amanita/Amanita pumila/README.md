@@ -1,5 +1,4 @@
-Amanita pumila Massee SPECIES
-=======
+# Amanita pumila Massee SPECIES
 
 #### Status
 ACCEPTED

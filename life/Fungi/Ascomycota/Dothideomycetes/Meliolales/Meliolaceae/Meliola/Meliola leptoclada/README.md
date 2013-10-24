@@ -1,5 +1,4 @@
-Meliola leptoclada Syd. SPECIES
-=======
+# Meliola leptoclada Syd. SPECIES
 
 #### Status
 ACCEPTED

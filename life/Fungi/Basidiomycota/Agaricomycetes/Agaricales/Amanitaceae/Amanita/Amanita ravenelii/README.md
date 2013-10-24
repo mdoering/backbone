@@ -1,5 +1,4 @@
-Amanita ravenelii (Berk. & Broome) Sacc. SPECIES
-=======
+# Amanita ravenelii (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina mori (Nomura) Shirata {?} & Takah. {?} SPECIES
-=======
+# Stigmina mori (Nomura) Shirata {?} & Takah. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alteromonas simiduii Chiu HH et al., 2007 SPECIES
-=======
+# Alteromonas simiduii Chiu HH et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

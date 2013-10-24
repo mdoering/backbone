@@ -1,14 +1,13 @@
-Lachnella dumorum (Roberge ex Desm.) W. Phillips, 1887 SPECIES
-=======
+# Fuscolachnum dumorum (Roberge ex Desm.) J.H. Haines, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 261 (1887)
+Mem. N. Y. bot. Gdn 49: 322 (1989)
 
 #### Original name
 null

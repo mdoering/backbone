@@ -1,5 +1,4 @@
-Coprinus pseudocomatus Henn. SPECIES
-=======
+# Coprinus pseudocomatus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria brunneotincta Farl. SPECIES
-=======
+# Aposphaeria brunneotincta Farl. SPECIES
 
 #### Status
 ACCEPTED

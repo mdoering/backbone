@@ -1,5 +1,4 @@
-Hypoxylon papillatum Ellis & Everh., 1893 SPECIES
-=======
+# Hypoxylon papillatum Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

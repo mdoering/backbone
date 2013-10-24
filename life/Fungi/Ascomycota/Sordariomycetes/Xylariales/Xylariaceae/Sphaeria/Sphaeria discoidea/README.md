@@ -1,5 +1,4 @@
-Sphaeria discoidea Lév. SPECIES
-=======
+# Sphaeria discoidea Lév. SPECIES
 
 #### Status
 ACCEPTED

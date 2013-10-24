@@ -1,5 +1,4 @@
-Endopyrenium brouardii B. de Lesd. SPECIES
-=======
+# Endopyrenium brouardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

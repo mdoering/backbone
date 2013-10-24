@@ -1,5 +1,4 @@
-Eudimeriolum plantaginis (Tehon & E.Y. Daniels) M.E. Barr SPECIES
-=======
+# Eudimeriolum plantaginis (Tehon & E.Y. Daniels) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

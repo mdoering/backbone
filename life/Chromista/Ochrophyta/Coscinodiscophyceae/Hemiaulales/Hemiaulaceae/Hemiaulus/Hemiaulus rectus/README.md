@@ -1,5 +1,4 @@
-Hemiaulus rectus var. twista J. Fenner VARIETY
-=======
+# Hemiaulus rectus SPECIES
 
 #### Status
 ACCEPTED

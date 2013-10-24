@@ -1,5 +1,4 @@
-Hystrichotriangulatum Andreeva, 1966 GENUS
-=======
+# Hystrichotriangulatum Andreeva, 1966 GENUS
 
 #### Status
 ACCEPTED

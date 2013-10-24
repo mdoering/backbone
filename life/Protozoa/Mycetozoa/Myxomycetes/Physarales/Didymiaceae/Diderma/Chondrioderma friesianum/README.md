@@ -1,5 +1,4 @@
-Chondrioderma friesianum Rostaf. SPECIES
-=======
+# Chondrioderma friesianum Rostaf. SPECIES
 
 #### Status
 ACCEPTED

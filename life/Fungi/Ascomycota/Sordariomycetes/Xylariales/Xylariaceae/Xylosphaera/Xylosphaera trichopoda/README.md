@@ -1,5 +1,4 @@
-Xylosphaera trichopoda (Penz. & Sacc.) Dennis SPECIES
-=======
+# Xylosphaera trichopoda (Penz. & Sacc.) Dennis SPECIES
 
 #### Status
 ACCEPTED

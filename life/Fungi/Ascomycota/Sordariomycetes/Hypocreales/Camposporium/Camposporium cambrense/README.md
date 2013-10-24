@@ -1,5 +1,4 @@
-Camposporium cambrense S. Hughes, 1951 SPECIES
-=======
+# Camposporium cambrense S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

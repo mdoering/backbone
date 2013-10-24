@@ -1,5 +1,4 @@
-Clavaria trichotoma Lév. SPECIES
-=======
+# Clavaria trichotoma Lév. SPECIES
 
 #### Status
 ACCEPTED

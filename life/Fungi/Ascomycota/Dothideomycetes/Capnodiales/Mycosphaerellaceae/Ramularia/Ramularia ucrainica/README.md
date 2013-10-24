@@ -1,5 +1,4 @@
-Ramularia ucrainica Petr. SPECIES
-=======
+# Ramularia ucrainica Petr. SPECIES
 
 #### Status
 ACCEPTED

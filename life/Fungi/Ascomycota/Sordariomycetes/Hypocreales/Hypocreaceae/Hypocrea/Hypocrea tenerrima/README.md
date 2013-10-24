@@ -1,5 +1,4 @@
-Hypocrea tenerrima Ellis & Everh. SPECIES
-=======
+# Hypocrea tenerrima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanodiscus subsalsus (A. Cleve) Hustedt SPECIES
-=======
+# Stephanodiscus subsalsus (A. Cleve) Hustedt SPECIES
 
 #### Status
 ACCEPTED

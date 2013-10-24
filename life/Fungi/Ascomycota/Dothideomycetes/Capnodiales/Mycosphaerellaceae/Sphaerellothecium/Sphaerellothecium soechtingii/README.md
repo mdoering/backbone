@@ -1,5 +1,4 @@
-Sphaerellothecium soechtingii Zhurb. & Alstrup, 2007 SPECIES
-=======
+# Sphaerellothecium soechtingii Zhurb. & Alstrup, 2007 SPECIES
 
 #### Status
 ACCEPTED

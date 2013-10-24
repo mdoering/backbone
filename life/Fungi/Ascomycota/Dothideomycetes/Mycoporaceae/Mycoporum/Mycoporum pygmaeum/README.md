@@ -1,5 +1,4 @@
-Mycoporum pygmaeum SPECIES
-=======
+# Mycoporum pygmaeum SPECIES
 
 #### Status
 ACCEPTED

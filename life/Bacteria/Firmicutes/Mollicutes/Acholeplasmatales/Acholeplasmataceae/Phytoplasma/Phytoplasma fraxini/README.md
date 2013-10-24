@@ -1,5 +1,4 @@
-Phytoplasma fraxini Griffiths et al., 1999. SPECIES
-=======
+# Phytoplasma fraxini Griffiths et al., 1999. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe priva Sacc. & Roum. SPECIES
-=======
+# Diaporthe priva Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

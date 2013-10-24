@@ -1,5 +1,4 @@
-Phyllosticta hakeae Bond.-Mont. SPECIES
-=======
+# Phyllosticta hakeae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

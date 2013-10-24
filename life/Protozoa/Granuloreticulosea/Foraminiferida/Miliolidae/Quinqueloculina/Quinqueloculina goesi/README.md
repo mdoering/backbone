@@ -1,5 +1,4 @@
-Quinqueloculina goesi SPECIES
-=======
+# Quinqueloculina goesi SPECIES
 
 #### Status
 ACCEPTED

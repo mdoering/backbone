@@ -1,14 +1,13 @@
-Puccinia nissoliae Dietel & Holw., 1987 SPECIES
-=======
+# Uropyxis nissoliae (Dietel & Holw.) Magnus, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 24: 27 (1987)
+Ber. dt. bot. Ges. 17: 115 (1899)
 
 #### Original name
 Puccinia nissoliae Dietel & Holw., 1987

@@ -1,5 +1,4 @@
-Nostoc depressum Wood SPECIES
-=======
+# Nostoc depressum Wood SPECIES
 
 #### Status
 ACCEPTED

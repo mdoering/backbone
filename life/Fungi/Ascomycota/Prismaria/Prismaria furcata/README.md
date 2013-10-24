@@ -1,5 +1,4 @@
-Prismaria furcata Grove SPECIES
-=======
+# Prismaria furcata Grove SPECIES
 
 #### Status
 ACCEPTED

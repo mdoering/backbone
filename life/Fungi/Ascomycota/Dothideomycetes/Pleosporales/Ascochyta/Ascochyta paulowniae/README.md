@@ -1,5 +1,4 @@
-Ascochyta paulowniae Sacc. & Brunaud SPECIES
-=======
+# Ascochyta paulowniae Sacc. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

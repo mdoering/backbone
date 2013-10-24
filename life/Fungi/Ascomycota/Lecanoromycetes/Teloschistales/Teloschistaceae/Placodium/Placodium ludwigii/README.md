@@ -1,5 +1,4 @@
-Placodium ludwigii (Schrad.) Motyka SPECIES
-=======
+# Placodium ludwigii (Schrad.) Motyka SPECIES
 
 #### Status
 ACCEPTED

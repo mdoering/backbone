@@ -1,5 +1,4 @@
-Cyphella granulosa Velen. SPECIES
-=======
+# Cyphella granulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

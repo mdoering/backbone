@@ -1,5 +1,4 @@
-Strickeria spiraeanthi Byzova SPECIES
-=======
+# Strickeria spiraeanthi Byzova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guillardia theta D.R.A. Hill & R. Wetherbee SPECIES
-=======
+# Guillardia theta D.R.A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

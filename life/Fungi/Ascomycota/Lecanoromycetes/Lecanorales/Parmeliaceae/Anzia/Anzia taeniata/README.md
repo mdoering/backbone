@@ -1,5 +1,4 @@
-Anzia taeniata (Nyl.) Müll. Arg. SPECIES
-=======
+# Anzia taeniata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

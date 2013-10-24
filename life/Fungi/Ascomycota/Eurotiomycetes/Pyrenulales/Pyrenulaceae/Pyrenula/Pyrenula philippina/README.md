@@ -1,5 +1,4 @@
-Pyrenula philippina Vain. SPECIES
-=======
+# Pyrenula philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

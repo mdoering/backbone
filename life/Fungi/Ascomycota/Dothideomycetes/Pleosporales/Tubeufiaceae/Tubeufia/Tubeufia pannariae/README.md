@@ -1,5 +1,4 @@
-Tubeufia pannariae Etayo, 2002 SPECIES
-=======
+# Tubeufia pannariae Etayo, 2002 SPECIES
 
 #### Status
 ACCEPTED

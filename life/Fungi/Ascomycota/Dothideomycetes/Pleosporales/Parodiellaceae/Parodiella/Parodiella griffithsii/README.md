@@ -1,5 +1,4 @@
-Parodiella griffithsii Theiss. & Syd. SPECIES
-=======
+# Parodiella griffithsii Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

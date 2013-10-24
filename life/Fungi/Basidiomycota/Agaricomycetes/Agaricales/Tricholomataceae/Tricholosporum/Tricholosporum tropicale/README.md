@@ -1,5 +1,4 @@
-Tricholosporum tropicale Guzmán, Bandala & Montoya SPECIES
-=======
+# Tricholosporum tropicale Guzmán, Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED

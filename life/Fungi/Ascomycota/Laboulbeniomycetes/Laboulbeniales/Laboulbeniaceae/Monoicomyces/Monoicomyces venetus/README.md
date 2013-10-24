@@ -1,5 +1,4 @@
-Monoicomyces venetus Speg. SPECIES
-=======
+# Monoicomyces venetus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina asparagi M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Diplodina asparagi M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

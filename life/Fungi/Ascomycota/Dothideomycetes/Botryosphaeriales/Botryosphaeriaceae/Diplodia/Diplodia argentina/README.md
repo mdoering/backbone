@@ -1,5 +1,4 @@
-Diplodia argentina Speg. SPECIES
-=======
+# Diplodia argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

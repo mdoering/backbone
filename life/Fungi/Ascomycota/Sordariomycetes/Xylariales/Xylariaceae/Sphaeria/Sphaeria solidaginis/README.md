@@ -1,5 +1,4 @@
-Sphaeria solidaginis Schwein. & Cooke SPECIES
-=======
+# Sphaeria solidaginis Schwein. & Cooke SPECIES
 
 #### Status
 ACCEPTED

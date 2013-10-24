@@ -1,5 +1,4 @@
-Tubercularia sabuletorum (Schreb.) Baumg. SPECIES
-=======
+# Tubercularia sabuletorum (Schreb.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physomyces Harz GENUS
-=======
+# Monascus Van Tieghem, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zbl. 41: 410 (1890)
+Bull. Soc. bot. Fr. 31: 226 (1884)
 
 #### Original name
-Physomyces Harz
+Monascus Van Tieghem, 1884
 
 ### Remarks
 null

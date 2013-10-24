@@ -1,5 +1,4 @@
-Patruliidae Dumitrica, 1989 FAMILY
-=======
+# Patruliidae Dumitrica, 1989 FAMILY
 
 #### Status
 ACCEPTED

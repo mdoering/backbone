@@ -1,5 +1,4 @@
-Cerastoma dryinum (Pers.) Quél. SPECIES
-=======
+# Cerastoma dryinum (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

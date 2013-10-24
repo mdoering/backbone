@@ -1,5 +1,4 @@
-Cycloderma platysporum Cooke & Massee SPECIES
-=======
+# Cycloderma platysporum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

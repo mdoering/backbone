@@ -1,17 +1,16 @@
-Exserohilum mcginnisii A.A. Padhye & Ajello SPECIES
-=======
+# Exserohilum macginnisii A.A. Padhye & Ajello, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Padye, Ajello, Wieden & Steinbronn, J. Clin. Microbiol. 24(2): 247 (1986)
 
 #### Original name
-Exserohilum mcginnisii A.A. Padhye & Ajello
+Exserohilum macginnisii A.A. Padhye & Ajello, 1986
 
 ### Remarks
 null

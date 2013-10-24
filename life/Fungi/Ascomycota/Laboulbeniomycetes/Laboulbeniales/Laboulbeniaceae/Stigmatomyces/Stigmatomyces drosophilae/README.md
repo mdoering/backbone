@@ -1,5 +1,4 @@
-Stigmatomyces drosophilae Thaxt. SPECIES
-=======
+# Stigmatomyces drosophilae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comasphaeridium filiforme Fombella, 1979 SPECIES
-=======
+# Comasphaeridium filiforme Fombella, 1979 SPECIES
 
 #### Status
 ACCEPTED

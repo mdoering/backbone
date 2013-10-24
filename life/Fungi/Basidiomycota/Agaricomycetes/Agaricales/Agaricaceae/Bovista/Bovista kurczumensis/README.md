@@ -1,5 +1,4 @@
-Bovista kurczumensis Philimonova & Vasyag. SPECIES
-=======
+# Bovista kurczumensis Philimonova & Vasyag. SPECIES
 
 #### Status
 ACCEPTED

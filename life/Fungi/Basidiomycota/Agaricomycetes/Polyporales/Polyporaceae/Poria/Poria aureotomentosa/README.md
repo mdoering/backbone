@@ -1,5 +1,4 @@
-Poria aureotomentosa L. Ling SPECIES
-=======
+# Poria aureotomentosa L. Ling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phacus pleuronectes var. rothertii Namyslowski VARIETY
-=======
+# Phacus brachykentron Pochmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

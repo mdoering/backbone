@@ -1,5 +1,4 @@
-Naxella australis Foissner & O'Donoghue, 1990 SPECIES
-=======
+# Naxella australis Foissner & O'Donoghue, 1990 SPECIES
 
 #### Status
 ACCEPTED

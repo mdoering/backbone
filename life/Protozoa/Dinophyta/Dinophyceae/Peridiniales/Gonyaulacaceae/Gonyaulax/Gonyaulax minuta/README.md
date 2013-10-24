@@ -1,5 +1,4 @@
-Gonyaulax minuta Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax minuta Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

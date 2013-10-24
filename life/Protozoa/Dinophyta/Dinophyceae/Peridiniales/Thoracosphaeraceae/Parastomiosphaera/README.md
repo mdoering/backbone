@@ -1,5 +1,4 @@
-Parastomiosphaera Nowak, 1968 GENUS
-=======
+# Parastomiosphaera Nowak, 1968 GENUS
 
 #### Status
 ACCEPTED

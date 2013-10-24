@@ -1,5 +1,4 @@
-Typhula berthieri Olariaga, Ryman & Salcedo SPECIES
-=======
+# Typhula berthieri Olariaga, Ryman & Salcedo SPECIES
 
 #### Status
 ACCEPTED

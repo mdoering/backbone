@@ -1,17 +1,16 @@
-Lachnum albotestaceum var. albotestaceum VARIETY
-=======
+# Albotricha albotestacea (Desm.) Raitv., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 175 (1870)
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 40 (1970)
 
 #### Original name
-Lachnum albotestaceum var. albotestaceum
+null
 
 ### Remarks
 null

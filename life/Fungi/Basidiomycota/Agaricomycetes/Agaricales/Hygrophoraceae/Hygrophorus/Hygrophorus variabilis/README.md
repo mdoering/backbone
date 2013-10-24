@@ -1,5 +1,4 @@
-Hygrophorus variabilis G. Stev. SPECIES
-=======
+# Hygrophorus variabilis G. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius mexicanus A. Kong & Estrada SPECIES
-=======
+# Lactarius mexicanus A. Kong & Estrada SPECIES
 
 #### Status
 ACCEPTED

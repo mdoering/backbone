@@ -1,5 +1,4 @@
-Verrucaria melaspeirea Nyl. SPECIES
-=======
+# Verrucaria melaspeirea Nyl. SPECIES
 
 #### Status
 ACCEPTED

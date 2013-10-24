@@ -1,5 +1,4 @@
-Sargassum anapense Setchell & N.L. Gardner SPECIES
-=======
+# Sargassum anapense Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

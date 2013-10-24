@@ -1,5 +1,4 @@
-Aulographum bromi Berk., 1845 SPECIES
-=======
+# Aulographum bromi Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

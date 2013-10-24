@@ -1,5 +1,4 @@
-Mycoporellum hassei Zahlbr. SPECIES
-=======
+# Mycoporellum hassei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

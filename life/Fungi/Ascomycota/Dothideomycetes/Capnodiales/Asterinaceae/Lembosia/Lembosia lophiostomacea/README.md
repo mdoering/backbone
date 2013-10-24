@@ -1,5 +1,4 @@
-Lembosia lophiostomacea Starbäck SPECIES
-=======
+# Lembosia lophiostomacea Starbäck SPECIES
 
 #### Status
 ACCEPTED

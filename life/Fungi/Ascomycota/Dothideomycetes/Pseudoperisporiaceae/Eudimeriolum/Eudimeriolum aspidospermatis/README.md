@@ -1,5 +1,4 @@
-Eudimeriolum aspidospermatis Bat. & Peres SPECIES
-=======
+# Eudimeriolum aspidospermatis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

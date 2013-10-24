@@ -1,5 +1,4 @@
-Echinoderma hemisclerum (Berk. & M.A. Curtis) Courtec. SPECIES
-=======
+# Echinoderma hemisclerum (Berk. & M.A. Curtis) Courtec. SPECIES
 
 #### Status
 ACCEPTED

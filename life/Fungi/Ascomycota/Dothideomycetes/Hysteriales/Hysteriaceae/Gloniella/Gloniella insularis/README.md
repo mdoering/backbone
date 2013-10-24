@@ -1,5 +1,4 @@
-Gloniella insularis Vouaux SPECIES
-=======
+# Gloniella insularis Vouaux SPECIES
 
 #### Status
 ACCEPTED

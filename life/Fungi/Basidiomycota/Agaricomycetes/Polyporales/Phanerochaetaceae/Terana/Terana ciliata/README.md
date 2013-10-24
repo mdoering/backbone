@@ -1,5 +1,4 @@
-Terana ciliata (Fr.) Kuntze SPECIES
-=======
+# Terana ciliata (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

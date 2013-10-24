@@ -1,5 +1,4 @@
-Microsphaera berberidicola F.L. Tai SPECIES
-=======
+# Microsphaera berberidicola F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

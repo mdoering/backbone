@@ -1,5 +1,4 @@
-Clavaria capillaris Holmsk. SPECIES
-=======
+# Clavaria capillaris Holmsk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora justiciae (F.L. Tai) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora justiciae (F.L. Tai) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

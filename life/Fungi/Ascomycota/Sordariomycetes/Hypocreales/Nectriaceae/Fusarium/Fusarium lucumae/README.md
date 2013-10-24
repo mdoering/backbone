@@ -1,5 +1,4 @@
-Fusarium lucumae Henn. SPECIES
-=======
+# Fusarium lucumae Henn. SPECIES
 
 #### Status
 ACCEPTED

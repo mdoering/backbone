@@ -1,5 +1,4 @@
-Alternaria peponis Yatel SPECIES
-=======
+# Alternaria peponis Yatel SPECIES
 
 #### Status
 ACCEPTED

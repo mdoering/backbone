@@ -1,5 +1,4 @@
-Calycina filicicola (Hazsl.) Kuntze SPECIES
-=======
+# Calycina filicicola (Hazsl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

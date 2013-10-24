@@ -1,5 +1,4 @@
-Graphina nylanderiana Zahlbr. SPECIES
-=======
+# Graphina nylanderiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

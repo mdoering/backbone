@@ -1,5 +1,4 @@
-Mycena junquillina Dennis SPECIES
-=======
+# Mycena junquillina Dennis SPECIES
 
 #### Status
 ACCEPTED

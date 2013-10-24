@@ -1,5 +1,4 @@
-Trichophyton abissinicum (A. Agostini) Nann. SPECIES
-=======
+# Trichophyton abissinicum (A. Agostini) Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus obfuscescens (Berk.) Sacc. SPECIES
-=======
+# Pleurotus obfuscescens (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

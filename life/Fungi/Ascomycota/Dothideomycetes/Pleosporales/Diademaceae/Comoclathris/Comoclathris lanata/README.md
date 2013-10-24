@@ -1,5 +1,4 @@
-Comoclathris lanata Clem., 1909 SPECIES
-=======
+# Comoclathris lanata Clem., 1909 SPECIES
 
 #### Status
 ACCEPTED

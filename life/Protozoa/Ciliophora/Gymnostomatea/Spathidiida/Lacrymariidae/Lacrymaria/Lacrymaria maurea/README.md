@@ -1,5 +1,4 @@
-Lacrymaria maurea Dragesco, 1965 SPECIES
-=======
+# Lacrymaria maurea Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

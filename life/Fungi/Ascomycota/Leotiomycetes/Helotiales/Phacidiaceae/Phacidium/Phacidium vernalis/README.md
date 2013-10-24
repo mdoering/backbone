@@ -1,5 +1,4 @@
-Phacidium vernalis Fuckel SPECIES
-=======
+# Phacidium vernalis Fuckel SPECIES
 
 #### Status
 ACCEPTED

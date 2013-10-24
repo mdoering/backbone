@@ -1,5 +1,4 @@
-Opegrapha cladoniicola Ertz & Diederich SPECIES
-=======
+# Opegrapha cladoniicola Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

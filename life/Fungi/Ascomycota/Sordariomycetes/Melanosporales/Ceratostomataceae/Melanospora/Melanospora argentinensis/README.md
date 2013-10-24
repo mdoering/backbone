@@ -1,5 +1,4 @@
-Melanospora argentinensis (Speg.) D. Hawksw. SPECIES
-=======
+# Melanospora argentinensis (Speg.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

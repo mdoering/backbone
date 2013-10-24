@@ -1,17 +1,16 @@
-Agaricus marzuolum Fr. SPECIES
-=======
+# Agaricus marzuolus Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 1: 84 (1821)
 
 #### Original name
-Agaricus marzuolum Fr.
+Agaricus marzuolus Fr.
 
 ### Remarks
 null

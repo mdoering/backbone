@@ -1,5 +1,4 @@
-Graphidastra gemmata (Leight.) SPECIES
-=======
+# Graphidastra gemmata (Leight.) SPECIES
 
 #### Status
 ACCEPTED

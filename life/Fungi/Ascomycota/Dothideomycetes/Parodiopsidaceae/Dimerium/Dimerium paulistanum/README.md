@@ -1,5 +1,4 @@
-Dimerium paulistanum (Speg.) Hansf. SPECIES
-=======
+# Dimerium paulistanum (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

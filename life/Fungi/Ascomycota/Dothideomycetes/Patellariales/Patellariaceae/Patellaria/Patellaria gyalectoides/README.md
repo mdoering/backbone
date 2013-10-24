@@ -1,5 +1,4 @@
-Patellaria gyalectoides (A. Massal.) Hepp SPECIES
-=======
+# Patellaria gyalectoides (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

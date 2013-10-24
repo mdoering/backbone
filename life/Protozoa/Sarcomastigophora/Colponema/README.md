@@ -1,5 +1,4 @@
-Colponema F.Stein, 1878 GENUS
-=======
+# Colponema F.Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

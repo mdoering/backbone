@@ -1,5 +1,4 @@
-Acarospora microcarpa (Nyl.) Wedd. SPECIES
-=======
+# Acarospora microcarpa (Nyl.) Wedd. SPECIES
 
 #### Status
 ACCEPTED

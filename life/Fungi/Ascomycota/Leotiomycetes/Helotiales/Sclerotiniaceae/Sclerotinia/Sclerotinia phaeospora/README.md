@@ -1,5 +1,4 @@
-Sclerotinia phaeospora Hori SPECIES
-=======
+# Sclerotinia phaeospora Hori SPECIES
 
 #### Status
 ACCEPTED

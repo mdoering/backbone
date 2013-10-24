@@ -1,5 +1,4 @@
-Lophodermium atrum P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium atrum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

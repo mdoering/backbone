@@ -1,17 +1,16 @@
-Brunneocorticium bisporum (Burds. & Nakasone) Nakasone, 2009 SPECIES
-=======
+# Dendrothele bispora Burds. & Nakasone, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 17: 253 (1983)
 
 #### Original name
-null
+Dendrothele bispora Burds. & Nakasone, 1983
 
 ### Remarks
 null

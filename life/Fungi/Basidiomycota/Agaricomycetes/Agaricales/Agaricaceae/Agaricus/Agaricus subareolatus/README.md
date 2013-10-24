@@ -1,5 +1,4 @@
-Agaricus subareolatus Peck SPECIES
-=======
+# Agaricus subareolatus Peck SPECIES
 
 #### Status
 ACCEPTED

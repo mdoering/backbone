@@ -1,5 +1,4 @@
-Palaeowestiellopsis P.K.Maithy & P.K.Misra, 1984 GENUS
-=======
+# Palaeowestiellopsis P.K.Maithy & P.K.Misra, 1984 GENUS
 
 #### Status
 ACCEPTED

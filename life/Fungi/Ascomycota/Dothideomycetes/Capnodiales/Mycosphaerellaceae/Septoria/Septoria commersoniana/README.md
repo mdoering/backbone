@@ -1,5 +1,4 @@
-Septoria commersoniana Speg. SPECIES
-=======
+# Septoria commersoniana Speg. SPECIES
 
 #### Status
 ACCEPTED

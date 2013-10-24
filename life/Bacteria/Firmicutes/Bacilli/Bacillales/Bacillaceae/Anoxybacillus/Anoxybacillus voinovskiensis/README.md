@@ -1,5 +1,4 @@
-Anoxybacillus voinovskiensis Yumoto et al., 2004 SPECIES
-=======
+# Anoxybacillus voinovskiensis Yumoto et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

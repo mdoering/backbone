@@ -1,5 +1,4 @@
-Cladobotryum campanisporum G.R.W. Arnold SPECIES
-=======
+# Cladobotryum campanisporum G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

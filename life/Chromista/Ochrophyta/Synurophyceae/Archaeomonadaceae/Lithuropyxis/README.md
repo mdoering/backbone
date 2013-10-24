@@ -1,5 +1,4 @@
-Lithuropyxis G. Deflandre, 1933 GENUS
-=======
+# Lithuropyxis G. Deflandre, 1933 GENUS
 
 #### Status
 ACCEPTED

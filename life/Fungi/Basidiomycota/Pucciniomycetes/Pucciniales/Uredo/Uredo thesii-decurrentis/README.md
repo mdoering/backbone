@@ -1,5 +1,4 @@
-Uredo thesii-decurrentis Henn. SPECIES
-=======
+# Uredo thesii-decurrentis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria colliculus Wormsk. ex Fr. SPECIES
-=======
+# Sphaeria colliculus Wormsk. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudozonosphaeridium lucidum Andreeva, 1966 SPECIES
-=======
+# Pseudozonosphaeridium lucidum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

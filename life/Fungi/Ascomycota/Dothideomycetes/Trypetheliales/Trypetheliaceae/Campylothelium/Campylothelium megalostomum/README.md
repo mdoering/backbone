@@ -1,5 +1,4 @@
-Campylothelium megalostomum (Vain.) Aptroot SPECIES
-=======
+# Campylothelium megalostomum (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

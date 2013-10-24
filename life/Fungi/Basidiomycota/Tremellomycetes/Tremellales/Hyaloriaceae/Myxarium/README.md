@@ -1,5 +1,4 @@
-Myxarium GENUS
-=======
+# Myxarium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Weddellomyces crozalsii (Vouaux) D. Hawksw. SPECIES
-=======
+# Weddellomyces crozalsii (Vouaux) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

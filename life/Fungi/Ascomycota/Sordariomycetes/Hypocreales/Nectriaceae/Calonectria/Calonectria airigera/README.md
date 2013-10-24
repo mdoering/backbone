@@ -1,5 +1,4 @@
-Calonectria airigera SPECIES
-=======
+# Calonectria airigera SPECIES
 
 #### Status
 ACCEPTED

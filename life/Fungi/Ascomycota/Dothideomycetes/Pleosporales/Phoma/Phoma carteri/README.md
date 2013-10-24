@@ -1,5 +1,4 @@
-Phoma carteri Gruyter & Boerema SPECIES
-=======
+# Phoma carteri Gruyter & Boerema SPECIES
 
 #### Status
 ACCEPTED

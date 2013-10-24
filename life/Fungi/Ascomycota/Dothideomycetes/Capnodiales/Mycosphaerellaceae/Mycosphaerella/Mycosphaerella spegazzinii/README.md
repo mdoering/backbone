@@ -1,5 +1,4 @@
-Mycosphaerella spegazzinii Tomilin SPECIES
-=======
+# Mycosphaerella spegazzinii Tomilin SPECIES
 
 #### Status
 ACCEPTED

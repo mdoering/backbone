@@ -1,5 +1,4 @@
-Trametes nigroaspera Lloyd SPECIES
-=======
+# Trametes nigroaspera Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma cryptanthes (Dietel & Holw.) Arthur SPECIES
-=======
+# Dicaeoma cryptanthes (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

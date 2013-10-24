@@ -1,5 +1,4 @@
-Silicoloculina Resig, Lowenstam, Echols & Weiner, 1980 GENUS
-=======
+# Silicoloculina Resig, Lowenstam, Echols & Weiner, 1980 GENUS
 
 #### Status
 ACCEPTED

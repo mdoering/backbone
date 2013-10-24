@@ -1,5 +1,4 @@
-Clavaria phoenicea var. phoenicea VARIETY
-=======
+# Clavaria phoenicea Zoll. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 32: 302 (1847)
 
 #### Original name
-Clavaria phoenicea var. phoenicea
+Clavaria phoenicea Zoll.
 
 ### Remarks
 null

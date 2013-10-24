@@ -1,5 +1,4 @@
-Xanthoparmelia hypoleiella Elix SPECIES
-=======
+# Xanthoparmelia hypoleiella Elix SPECIES
 
 #### Status
 ACCEPTED

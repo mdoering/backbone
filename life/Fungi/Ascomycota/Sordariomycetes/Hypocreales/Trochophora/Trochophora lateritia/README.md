@@ -1,5 +1,4 @@
-Trochophora lateritia (Berk.) Seifert SPECIES
-=======
+# Trochophora lateritia (Berk.) Seifert SPECIES
 
 #### Status
 ACCEPTED

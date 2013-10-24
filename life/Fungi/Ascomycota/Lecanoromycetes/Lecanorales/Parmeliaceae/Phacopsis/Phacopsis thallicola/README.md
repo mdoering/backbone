@@ -1,5 +1,4 @@
-Phacopsis thallicola (A. Massal.) Triebel & Rambold SPECIES
-=======
+# Phacopsis thallicola (A. Massal.) Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED

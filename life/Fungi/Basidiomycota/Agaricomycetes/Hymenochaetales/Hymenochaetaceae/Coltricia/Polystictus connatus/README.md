@@ -1,5 +1,4 @@
-Polystictus connatus Schwein. SPECIES
-=======
+# Polystictus connatus Schwein. SPECIES
 
 #### Status
 ACCEPTED

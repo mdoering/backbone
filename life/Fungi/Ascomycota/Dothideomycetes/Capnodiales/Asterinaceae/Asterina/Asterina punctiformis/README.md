@@ -1,5 +1,4 @@
-Asterina punctiformis Lév. SPECIES
-=======
+# Asterina punctiformis Lév. SPECIES
 
 #### Status
 ACCEPTED

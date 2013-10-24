@@ -1,5 +1,4 @@
-Parmelia epilosa (J. Steiner) Gyeln. SPECIES
-=======
+# Parmelia epilosa (J. Steiner) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

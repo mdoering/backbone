@@ -1,5 +1,4 @@
-Squamaria carbonatica var. carbonatica VARIETY
-=======
+# Squamaria carbonatica Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria carbonatica var. carbonatica
+Squamaria carbonatica Gyeln.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nectria paraguayensis Speg. SPECIES
-=======
+# Nectria paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea ochroxantha f. aethiopica Stizenb. FORM
-=======
+# Phyllopsora ochroxantha (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea ochroxantha f. aethiopica Stizenb.
+Lecidea ochroxantha Nyl.
 
 ### Remarks
 null

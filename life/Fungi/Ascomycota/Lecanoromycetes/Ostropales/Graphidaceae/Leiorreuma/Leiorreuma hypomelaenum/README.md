@@ -1,14 +1,13 @@
-Leiorreuma hypomelaena (Müll. Arg.) Staiger SPECIES
-=======
+# Leiorreuma hypomelaenum (Müll. Arg.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 300 (2002)
 
 #### Original name
 Phaeographis hypomelaena Müll. Arg.

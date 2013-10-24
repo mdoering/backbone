@@ -1,5 +1,4 @@
-Septocylindrium myxophagum (Javoron.) Sacc. SPECIES
-=======
+# Septocylindrium myxophagum (Javoron.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

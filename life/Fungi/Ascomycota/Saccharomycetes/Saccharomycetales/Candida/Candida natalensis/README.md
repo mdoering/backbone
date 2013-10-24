@@ -1,5 +1,4 @@
-Candida natalensis Van der Walt & Tscheuschner, 1957 SPECIES
-=======
+# Candida natalensis Van der Walt & Tscheuschner, 1957 SPECIES
 
 #### Status
 ACCEPTED

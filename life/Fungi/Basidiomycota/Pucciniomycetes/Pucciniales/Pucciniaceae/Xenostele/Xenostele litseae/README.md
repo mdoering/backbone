@@ -1,14 +1,13 @@
-Puccinia litseae (Pat.) Dietel & Henn., 1902 SPECIES
-=======
+# Xenostele litseae (Pat.) Syd. & P. Syd., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 18(4/6): 179 (1921)
 
 #### Original name
 Aecidium litseae Pat.

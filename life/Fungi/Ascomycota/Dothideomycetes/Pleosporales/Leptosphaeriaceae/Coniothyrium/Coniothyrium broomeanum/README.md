@@ -1,5 +1,4 @@
-Coniothyrium broomeanum (Berk.) Kuntze SPECIES
-=======
+# Coniothyrium broomeanum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

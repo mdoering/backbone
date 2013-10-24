@@ -1,5 +1,4 @@
-Tomeoa viridicolliculosa I. Hino, 1954 SPECIES
-=======
+# Tomeoa viridicolliculosa I. Hino, 1954 SPECIES
 
 #### Status
 ACCEPTED

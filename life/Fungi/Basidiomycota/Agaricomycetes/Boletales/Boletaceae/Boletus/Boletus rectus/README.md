@@ -1,5 +1,4 @@
-Boletus rectus Corner SPECIES
-=======
+# Boletus rectus Corner SPECIES
 
 #### Status
 ACCEPTED

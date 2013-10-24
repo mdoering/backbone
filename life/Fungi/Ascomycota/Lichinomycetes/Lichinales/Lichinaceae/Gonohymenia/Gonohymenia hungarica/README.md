@@ -1,5 +1,4 @@
-Gonohymenia hungarica Szatala SPECIES
-=======
+# Gonohymenia hungarica Szatala SPECIES
 
 #### Status
 ACCEPTED

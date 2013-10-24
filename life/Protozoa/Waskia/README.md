@@ -1,5 +1,4 @@
-Waskia Wenyon & O'Connor GENUS
-=======
+# Waskia Wenyon & O'Connor GENUS
 
 #### Status
 ACCEPTED

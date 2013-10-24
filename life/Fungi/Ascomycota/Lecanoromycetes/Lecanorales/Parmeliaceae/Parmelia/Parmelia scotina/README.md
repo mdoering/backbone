@@ -1,5 +1,4 @@
-Parmelia scotina SPECIES
-=======
+# Parmelia scotina SPECIES
 
 #### Status
 ACCEPTED

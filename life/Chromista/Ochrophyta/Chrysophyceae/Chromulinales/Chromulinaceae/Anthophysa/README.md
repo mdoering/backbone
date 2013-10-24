@@ -1,5 +1,4 @@
-Anthophysa Bory de St.-Vincent, 1822 GENUS
-=======
+# Anthophysa Bory de St.-Vincent, 1822 GENUS
 
 #### Status
 ACCEPTED

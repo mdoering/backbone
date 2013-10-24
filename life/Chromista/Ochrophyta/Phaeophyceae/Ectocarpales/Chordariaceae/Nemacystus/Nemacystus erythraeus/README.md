@@ -1,8 +1,7 @@
-Cladosiphon erythraeus J. Agardh SPECIES
-=======
+# Nemacystus erythraeus (J. Agardh) Sauvageau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Poeltidea Hertel & Hafellner GENUS
-=======
+# Poeltidea Hertel & Hafellner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baryshnikovia Reitlinger, 1993 GENUS
-=======
+# Baryshnikovia Reitlinger, 1993 GENUS
 
 #### Status
 ACCEPTED

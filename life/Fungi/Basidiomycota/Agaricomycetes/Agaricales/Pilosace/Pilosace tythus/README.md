@@ -1,5 +1,4 @@
-Pilosace tythus (Berk. & Broome) Kuntze SPECIES
-=======
+# Pilosace tythus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

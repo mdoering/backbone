@@ -1,5 +1,4 @@
-Polyporus voluta Pers. SPECIES
-=======
+# Polyporus voluta Pers. SPECIES
 
 #### Status
 ACCEPTED

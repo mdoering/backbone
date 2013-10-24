@@ -1,5 +1,4 @@
-Achrotelium ichnocarpi Syd., 1928 SPECIES
-=======
+# Achrotelium ichnocarpi Syd., 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota flavopallida A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota flavopallida A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

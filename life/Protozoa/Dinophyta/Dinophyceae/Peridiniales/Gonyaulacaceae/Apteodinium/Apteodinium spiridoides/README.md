@@ -1,5 +1,4 @@
-Apteodinium spiridoides Benedek, 1972 SPECIES
-=======
+# Apteodinium spiridoides Benedek, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema furfureolum Müll. Arg. SPECIES
-=======
+# Collema furfureolum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

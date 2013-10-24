@@ -1,5 +1,4 @@
-Aecidium rauwolfiae Henn. SPECIES
-=======
+# Aecidium rauwolfiae Henn. SPECIES
 
 #### Status
 ACCEPTED

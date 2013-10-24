@@ -1,5 +1,4 @@
-Cladonia subuliformis (Ehrh.) Hoffm. SPECIES
-=======
+# Cladonia subuliformis (Ehrh.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

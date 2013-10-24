@@ -1,5 +1,4 @@
-Pleosphaerulina pteleae Panas. SPECIES
-=======
+# Pleosphaerulina pteleae Panas. SPECIES
 
 #### Status
 ACCEPTED

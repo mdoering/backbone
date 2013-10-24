@@ -1,5 +1,4 @@
-Agaricus lacticaulis With. SPECIES
-=======
+# Agaricus lacticaulis With. SPECIES
 
 #### Status
 ACCEPTED

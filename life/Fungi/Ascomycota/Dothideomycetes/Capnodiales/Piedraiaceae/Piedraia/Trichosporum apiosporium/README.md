@@ -1,5 +1,4 @@
-Trichosporum apiosporium (Berk. & Broome) Massee SPECIES
-=======
+# Trichosporum apiosporium (Berk. & Broome) Massee SPECIES
 
 #### Status
 ACCEPTED

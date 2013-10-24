@@ -1,5 +1,4 @@
-Sphaeria anthelmintica Cooke SPECIES
-=======
+# Sphaeria anthelmintica Cooke SPECIES
 
 #### Status
 ACCEPTED

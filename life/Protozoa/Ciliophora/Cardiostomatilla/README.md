@@ -1,5 +1,4 @@
-Cardiostomatilla Corliss, 1960 GENUS
-=======
+# Cardiostomatilla Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

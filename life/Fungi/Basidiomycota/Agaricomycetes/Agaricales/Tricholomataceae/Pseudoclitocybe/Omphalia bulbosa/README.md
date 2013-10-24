@@ -1,5 +1,4 @@
-Omphalia bulbosa Bres. SPECIES
-=======
+# Omphalia bulbosa Bres. SPECIES
 
 #### Status
 ACCEPTED

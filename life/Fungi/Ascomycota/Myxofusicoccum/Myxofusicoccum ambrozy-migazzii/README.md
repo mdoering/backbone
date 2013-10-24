@@ -1,5 +1,4 @@
-Myxofusicoccum ambrozy-migazzii Moesz SPECIES
-=======
+# Myxofusicoccum ambrozy-migazzii Moesz SPECIES
 
 #### Status
 ACCEPTED

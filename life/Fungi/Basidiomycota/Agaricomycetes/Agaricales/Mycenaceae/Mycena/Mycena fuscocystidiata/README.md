@@ -1,5 +1,4 @@
-Mycena fuscocystidiata Singer SPECIES
-=======
+# Mycena fuscocystidiata Singer SPECIES
 
 #### Status
 ACCEPTED

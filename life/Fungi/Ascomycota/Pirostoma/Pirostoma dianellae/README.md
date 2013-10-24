@@ -1,5 +1,4 @@
-Pirostoma dianellae F. Stevens & P.A. Young SPECIES
-=======
+# Pirostoma dianellae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

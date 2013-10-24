@@ -1,5 +1,4 @@
-Pleurotopsis GENUS
-=======
+# Pleurotopsis GENUS
 
 #### Status
 ACCEPTED

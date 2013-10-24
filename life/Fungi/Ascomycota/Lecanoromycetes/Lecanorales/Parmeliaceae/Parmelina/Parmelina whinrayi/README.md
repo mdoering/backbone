@@ -1,5 +1,4 @@
-Parmelina whinrayi (Elix) Kantvilas & Elix SPECIES
-=======
+# Parmelina whinrayi (Elix) Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

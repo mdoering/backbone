@@ -1,5 +1,4 @@
-Arthonia lepidophila (Anzi) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia lepidophila (Anzi) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

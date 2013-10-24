@@ -1,5 +1,4 @@
-Belonidium deparculum (P. Karst.) SPECIES
-=======
+# Belonidium deparculum (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

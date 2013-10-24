@@ -1,5 +1,4 @@
-Sporisorium gibbosum Vánky, C. Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium gibbosum Vánky, C. Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

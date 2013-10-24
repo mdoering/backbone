@@ -1,5 +1,4 @@
-Cercosporella indigofericola U. Braun SPECIES
-=======
+# Cercosporella indigofericola U. Braun SPECIES
 
 #### Status
 ACCEPTED

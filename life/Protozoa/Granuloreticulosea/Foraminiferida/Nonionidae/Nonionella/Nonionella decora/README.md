@@ -1,5 +1,4 @@
-Nonionella decora Cushman & McCulloch, 1940 SPECIES
-=======
+# Nonionella decora Cushman & McCulloch, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita sublutescens Velen. SPECIES
-=======
+# Amanita sublutescens Velen. SPECIES
 
 #### Status
 ACCEPTED

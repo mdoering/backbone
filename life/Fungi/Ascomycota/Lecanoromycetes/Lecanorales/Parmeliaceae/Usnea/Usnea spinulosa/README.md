@@ -1,5 +1,4 @@
-Usnea spinulosa (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea spinulosa (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

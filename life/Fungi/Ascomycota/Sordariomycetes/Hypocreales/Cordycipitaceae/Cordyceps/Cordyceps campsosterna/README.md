@@ -1,5 +1,4 @@
-Cordyceps campsosterna SPECIES
-=======
+# Cordyceps campsosterna SPECIES
 
 #### Status
 ACCEPTED

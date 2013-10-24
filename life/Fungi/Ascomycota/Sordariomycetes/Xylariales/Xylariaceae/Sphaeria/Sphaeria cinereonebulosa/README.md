@@ -1,5 +1,4 @@
-Sphaeria cinereonebulosa Desm. SPECIES
-=======
+# Sphaeria cinereonebulosa Desm. SPECIES
 
 #### Status
 ACCEPTED

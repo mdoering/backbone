@@ -1,5 +1,4 @@
-Merulius degener Scop. SPECIES
-=======
+# Merulius degener Scop. SPECIES
 
 #### Status
 ACCEPTED

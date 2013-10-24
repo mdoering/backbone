@@ -1,5 +1,4 @@
-Polyporus tristiculus Mont. SPECIES
-=======
+# Polyporus tristiculus Mont. SPECIES
 
 #### Status
 ACCEPTED

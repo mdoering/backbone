@@ -1,5 +1,4 @@
-Sphaerella panicicola (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella panicicola (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

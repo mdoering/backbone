@@ -1,5 +1,4 @@
-Palusphaera vandeli Lecal, 1967 SPECIES
-=======
+# Palusphaera vandeli Lecal, 1967 SPECIES
 
 #### Status
 ACCEPTED

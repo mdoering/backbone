@@ -1,5 +1,4 @@
-Ophiobolus catharanthicola V.G. Rao & A. Pande SPECIES
-=======
+# Ophiobolus catharanthicola V.G. Rao & A. Pande SPECIES
 
 #### Status
 ACCEPTED

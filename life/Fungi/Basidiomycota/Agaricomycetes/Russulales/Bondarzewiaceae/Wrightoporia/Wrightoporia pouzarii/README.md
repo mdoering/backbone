@@ -1,14 +1,13 @@
-Amylonotus africanus Ryvarden, 1975 SPECIES
-=======
+# Wrightoporia pouzarii A. David & Rajchenb., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 22(1): 27 (1975)
+Can. J. Bot. 65(1): 208 (1987)
 
 #### Original name
 Amylonotus africanus Ryvarden, 1975

@@ -1,5 +1,4 @@
-Diatrype consobrina (Mont.) Sacc. SPECIES
-=======
+# Diatrype consobrina (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

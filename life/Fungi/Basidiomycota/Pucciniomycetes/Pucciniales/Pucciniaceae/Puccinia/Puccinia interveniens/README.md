@@ -1,5 +1,4 @@
-Puccinia interveniens Bethel SPECIES
-=======
+# Puccinia interveniens Bethel SPECIES
 
 #### Status
 ACCEPTED

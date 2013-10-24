@@ -1,5 +1,4 @@
-Strattonia mesopotamica Abdullah SPECIES
-=======
+# Strattonia mesopotamica Abdullah SPECIES
 
 #### Status
 ACCEPTED

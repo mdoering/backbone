@@ -1,14 +1,13 @@
-Martellia setigera (Zeller) Singer & A.H. Sm., 1960 SPECIES
-=======
+# Gymnomyces pila (Pat.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 200 (2002)
 
 #### Original name
 Hydnangium setigerum Zeller, 1939

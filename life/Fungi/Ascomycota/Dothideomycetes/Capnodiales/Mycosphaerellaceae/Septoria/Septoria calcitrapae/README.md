@@ -1,5 +1,4 @@
-Septoria calcitrapae Thüm. SPECIES
-=======
+# Septoria calcitrapae Thüm. SPECIES
 
 #### Status
 ACCEPTED

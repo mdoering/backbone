@@ -1,5 +1,4 @@
-Omphalina flavella (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Omphalina flavella (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

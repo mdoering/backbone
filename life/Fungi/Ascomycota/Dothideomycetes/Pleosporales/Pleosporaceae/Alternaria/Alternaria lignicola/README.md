@@ -1,5 +1,4 @@
-Alternaria lignicola (Corda) Fr. SPECIES
-=======
+# Alternaria lignicola (Corda) Fr. SPECIES
 
 #### Status
 ACCEPTED

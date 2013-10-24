@@ -1,5 +1,4 @@
-Rhabdospora eupyrenoides Sacc. SPECIES
-=======
+# Rhabdospora eupyrenoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

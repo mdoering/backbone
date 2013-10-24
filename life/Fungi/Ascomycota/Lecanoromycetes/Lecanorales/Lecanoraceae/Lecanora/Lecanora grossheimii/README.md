@@ -1,5 +1,4 @@
-Lecanora grossheimii Oxner SPECIES
-=======
+# Lecanora grossheimii Oxner SPECIES
 
 #### Status
 ACCEPTED

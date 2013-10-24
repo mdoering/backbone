@@ -1,5 +1,4 @@
-Diploicia huei (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Diploicia huei (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

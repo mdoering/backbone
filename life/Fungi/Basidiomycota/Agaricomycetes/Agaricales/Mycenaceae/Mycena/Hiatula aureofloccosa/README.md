@@ -1,5 +1,4 @@
-Hiatula aureofloccosa (Henn.) Singer SPECIES
-=======
+# Hiatula aureofloccosa (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

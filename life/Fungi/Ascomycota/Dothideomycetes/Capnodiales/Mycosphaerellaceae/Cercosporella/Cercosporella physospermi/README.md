@@ -1,5 +1,4 @@
-Cercosporella physospermi Annal. SPECIES
-=======
+# Cercosporella physospermi Annal. SPECIES
 
 #### Status
 ACCEPTED

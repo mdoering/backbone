@@ -1,5 +1,4 @@
-Macrosporium bresadolae Parisi SPECIES
-=======
+# Macrosporium bresadolae Parisi SPECIES
 
 #### Status
 ACCEPTED

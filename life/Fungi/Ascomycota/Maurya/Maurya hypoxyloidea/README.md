@@ -1,5 +1,4 @@
-Maurya hypoxyloidea Pat. SPECIES
-=======
+# Maurya hypoxyloidea Pat. SPECIES
 
 #### Status
 ACCEPTED

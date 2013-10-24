@@ -1,5 +1,4 @@
-Aspicilia subreagens (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia subreagens (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discamminoides Brönnimann, 1951 GENUS
-=======
+# Discamminoides Brönnimann, 1951 GENUS
 
 #### Status
 ACCEPTED

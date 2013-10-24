@@ -1,5 +1,4 @@
-Diploöspora indica S.K. Nair & Bhat SPECIES
-=======
+# Diploöspora indica S.K. Nair & Bhat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe mammifera M.M. Moser SPECIES
-=======
+# Inocybe mammifera M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

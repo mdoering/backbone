@@ -1,5 +1,4 @@
-Cordyceps agriota A. Kawam. SPECIES
-=======
+# Cordyceps agriota A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

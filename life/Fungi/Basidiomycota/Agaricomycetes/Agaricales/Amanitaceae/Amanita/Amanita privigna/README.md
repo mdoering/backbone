@@ -1,5 +1,4 @@
-Amanita privigna Corner & Bas SPECIES
-=======
+# Amanita privigna Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

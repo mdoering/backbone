@@ -1,5 +1,4 @@
-Catenaria vermicola Birchf., 1960 SPECIES
-=======
+# Catenaria vermicola Birchf., 1960 SPECIES
 
 #### Status
 ACCEPTED

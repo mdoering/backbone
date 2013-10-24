@@ -1,8 +1,7 @@
-Blepharisma melana Borror, 1963 SPECIES
-=======
+# Blepharisma melanum Borror, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Thermomyces ibadanensis Apinis & Eggins, 1966 SPECIES
-=======
+# Thermomyces ibadanensis Apinis & Eggins, 1966 SPECIES
 
 #### Status
 ACCEPTED

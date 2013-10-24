@@ -1,5 +1,4 @@
-Mollisia obconica Penz. & Sacc. SPECIES
-=======
+# Mollisia obconica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

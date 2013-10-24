@@ -1,5 +1,4 @@
-Lecidella griseoatra (Hoffm.) Körb. SPECIES
-=======
+# Lecidella griseoatra (Hoffm.) Körb. SPECIES
 
 #### Status
 ACCEPTED

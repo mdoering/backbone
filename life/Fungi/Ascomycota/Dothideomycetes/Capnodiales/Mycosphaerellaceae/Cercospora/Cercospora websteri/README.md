@@ -1,5 +1,4 @@
-Cercospora websteri Van der Zwet SPECIES
-=======
+# Cercospora websteri Van der Zwet SPECIES
 
 #### Status
 ACCEPTED

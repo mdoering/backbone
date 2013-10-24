@@ -1,5 +1,4 @@
-Cercospora tandilensis Speg. SPECIES
-=======
+# Cercospora tandilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

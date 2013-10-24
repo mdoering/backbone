@@ -1,5 +1,4 @@
-Leucoporus gallopavonis var. gallopavonis VARIETY
-=======
+# Leucoporus gallopavonis (Berk. & Broome) Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Leafl. of Philipp. Bot. 6: 2243 (1914)
 
 #### Original name
-Leucoporus gallopavonis var. gallopavonis
+Polyporus gallo-pavonis Berk. & Broome
 
 ### Remarks
 null

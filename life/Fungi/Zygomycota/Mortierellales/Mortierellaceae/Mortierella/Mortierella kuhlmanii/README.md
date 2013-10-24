@@ -1,5 +1,4 @@
-Mortierella kuhlmanii W. Gams, 1976 SPECIES
-=======
+# Mortierella kuhlmanii W. Gams, 1976 SPECIES
 
 #### Status
 ACCEPTED

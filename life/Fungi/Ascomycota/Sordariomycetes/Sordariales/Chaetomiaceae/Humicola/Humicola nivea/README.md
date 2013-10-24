@@ -1,5 +1,4 @@
-Humicola nivea De Bert. SPECIES
-=======
+# Humicola nivea De Bert. SPECIES
 
 #### Status
 ACCEPTED

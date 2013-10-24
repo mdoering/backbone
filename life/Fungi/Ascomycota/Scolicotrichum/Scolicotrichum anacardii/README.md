@@ -1,5 +1,4 @@
-Scolicotrichum anacardii Henn. SPECIES
-=======
+# Scolicotrichum anacardii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora umbrina H. Magn. SPECIES
-=======
+# Acarospora umbrina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

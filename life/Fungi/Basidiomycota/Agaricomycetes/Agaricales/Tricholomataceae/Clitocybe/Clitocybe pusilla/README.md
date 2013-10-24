@@ -1,5 +1,4 @@
-Clitocybe pusilla Velen. SPECIES
-=======
+# Clitocybe pusilla Velen. SPECIES
 
 #### Status
 ACCEPTED

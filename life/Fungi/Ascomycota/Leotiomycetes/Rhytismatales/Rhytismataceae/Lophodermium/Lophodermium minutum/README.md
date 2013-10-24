@@ -1,5 +1,4 @@
-Lophodermium minutum Hilitzer SPECIES
-=======
+# Lophodermium minutum Hilitzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia phlegmacea Ellis SPECIES
-=======
+# Tapesia phlegmacea Ellis SPECIES
 
 #### Status
 ACCEPTED

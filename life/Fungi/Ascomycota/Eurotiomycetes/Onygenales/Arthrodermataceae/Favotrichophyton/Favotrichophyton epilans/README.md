@@ -1,5 +1,4 @@
-Favotrichophyton epilans (Mégnin) C.W. Dodge SPECIES
-=======
+# Favotrichophyton epilans (Mégnin) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

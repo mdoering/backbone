@@ -1,17 +1,16 @@
-Geaster affinis Colenso SPECIES
-=======
+# Geastrum affinis Colenso, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. & Proc. New Zealand Inst. 16: 363 (1884)
 
 #### Original name
-Geaster affinis Colenso
+Geastrum affinis Colenso, 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mucor zychae var. zychae Baijal & B.S. Mehrotra, 1966 VARIETY
-=======
+# Mucor zychae SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 204 (1966)
+null
 
 #### Original name
-Mucor zychae var. zychae Baijal & B.S. Mehrotra, 1966
+null
 
 ### Remarks
 null

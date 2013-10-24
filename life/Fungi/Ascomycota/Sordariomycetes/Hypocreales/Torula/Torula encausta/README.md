@@ -1,5 +1,4 @@
-Torula encausta Rabenh. SPECIES
-=======
+# Torula encausta Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trogia aquosa var. aquosa VARIETY
-=======
+# Trogia aquosa Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Cantharelloid Fungi 199 (1966)
 
 #### Original name
-Trogia aquosa var. aquosa
+Trogia aquosa Corner
 
 ### Remarks
 null

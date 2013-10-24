@@ -1,5 +1,4 @@
-Aecidium falcatae Arthur SPECIES
-=======
+# Aecidium falcatae Arthur SPECIES
 
 #### Status
 ACCEPTED

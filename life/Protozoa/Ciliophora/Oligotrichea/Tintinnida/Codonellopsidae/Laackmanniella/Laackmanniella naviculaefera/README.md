@@ -1,5 +1,4 @@
-Laackmanniella naviculaefera (Laackmann, 1907) Kofoid & Campbell, 1929 SPECIES
-=======
+# Laackmanniella naviculaefera (Laackmann, 1907) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

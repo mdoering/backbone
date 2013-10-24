@@ -1,5 +1,4 @@
-Malassezia restricta E. Guého, J. Guillot & Midgley, 1996 SPECIES
-=======
+# Malassezia restricta E. Guého, J. Guillot & Midgley, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Alternaria fallax (Bubák & Dearn.) P. Joly, 1964 SPECIES
-=======
+# Alternaria anagallidis A. Raabe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Le Genre Alternaria (Encycl. Mycol. ) 190 (1964)
+Hedwigia 78: 87 (1939)
 
 #### Original name
-Macrosporium fallax Bubák & Dearn., 1916
+Alternaria anagallidis A. Raabe
 
 ### Remarks
 null

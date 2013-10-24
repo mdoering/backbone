@@ -1,5 +1,4 @@
-Hygrocybe elegantissima (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe elegantissima (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

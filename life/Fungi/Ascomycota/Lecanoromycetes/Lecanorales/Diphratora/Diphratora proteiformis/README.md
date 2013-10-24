@@ -1,5 +1,4 @@
-Diphratora proteiformis (A. Massal.) Jatta SPECIES
-=======
+# Diphratora proteiformis (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

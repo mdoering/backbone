@@ -1,5 +1,4 @@
-Meliola cuspidata Cif. SPECIES
-=======
+# Meliola cuspidata Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza cephalanthi Fairm. SPECIES
-=======
+# Pyrenopeziza cephalanthi Fairm. SPECIES
 
 #### Status
 ACCEPTED

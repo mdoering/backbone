@@ -1,5 +1,4 @@
-Psathyra nana Massee SPECIES
-=======
+# Psathyra nana Massee SPECIES
 
 #### Status
 ACCEPTED

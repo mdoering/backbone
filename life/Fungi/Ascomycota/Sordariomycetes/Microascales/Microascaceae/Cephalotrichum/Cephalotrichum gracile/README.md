@@ -1,5 +1,4 @@
-Cephalotrichum gracile (Schwein.) Kuntze SPECIES
-=======
+# Cephalotrichum gracile (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

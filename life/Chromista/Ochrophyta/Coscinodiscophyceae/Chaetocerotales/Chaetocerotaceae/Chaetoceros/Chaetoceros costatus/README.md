@@ -1,5 +1,4 @@
-Chaetoceros costatus Pavilard SPECIES
-=======
+# Chaetoceros costatus Pavilard SPECIES
 
 #### Status
 ACCEPTED

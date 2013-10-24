@@ -1,5 +1,4 @@
-Verrucaria fuscata Hepp SPECIES
-=======
+# Verrucaria fuscata Hepp SPECIES
 
 #### Status
 ACCEPTED

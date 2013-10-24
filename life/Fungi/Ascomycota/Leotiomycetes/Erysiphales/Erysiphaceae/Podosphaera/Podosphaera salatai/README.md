@@ -1,5 +1,4 @@
-Podosphaera salatai V.P. Heluta, U. Braun & Gvrit. SPECIES
-=======
+# Podosphaera salatai V.P. Heluta, U. Braun & Gvrit. SPECIES
 
 #### Status
 ACCEPTED

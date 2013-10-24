@@ -1,5 +1,4 @@
-Pseudophacidium diselmae Z.Q. Yuan, Rudman & C. Mohammed, 2000 SPECIES
-=======
+# Pseudophacidium diselmae Z.Q. Yuan, Rudman & C. Mohammed, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria holstiana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria holstiana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

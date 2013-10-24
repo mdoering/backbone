@@ -1,5 +1,4 @@
-Seiridium delleanii (Servazzi) B. Sutton SPECIES
-=======
+# Seiridium delleanii (Servazzi) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

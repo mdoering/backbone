@@ -1,5 +1,4 @@
-Cladosporium tenerum (Link) E.W. Mason SPECIES
-=======
+# Cladosporium tenerum (Link) E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

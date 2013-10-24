@@ -1,5 +1,4 @@
-Bacidia rubricosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rubricosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

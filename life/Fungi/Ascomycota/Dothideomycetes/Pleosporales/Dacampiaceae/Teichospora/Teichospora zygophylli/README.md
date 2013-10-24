@@ -1,5 +1,4 @@
-Teichospora zygophylli Woronow SPECIES
-=======
+# Teichospora zygophylli Woronow SPECIES
 
 #### Status
 ACCEPTED

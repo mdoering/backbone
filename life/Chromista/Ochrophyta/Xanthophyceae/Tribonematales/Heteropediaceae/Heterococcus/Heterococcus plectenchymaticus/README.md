@@ -1,5 +1,4 @@
-Heterococcus plectenchymaticus Pitschmann SPECIES
-=======
+# Heterococcus plectenchymaticus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

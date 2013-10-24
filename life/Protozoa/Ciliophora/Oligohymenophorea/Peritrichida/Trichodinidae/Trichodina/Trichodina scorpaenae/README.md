@@ -1,5 +1,4 @@
-Trichodina scorpaenae (Robin, 1879) Zick, 1928 SPECIES
-=======
+# Trichodina scorpaenae (Robin, 1879) Zick, 1928 SPECIES
 
 #### Status
 ACCEPTED

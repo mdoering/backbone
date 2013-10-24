@@ -1,5 +1,4 @@
-Cyanosarcina parthenonensis Anagnostidis SPECIES
-=======
+# Cyanosarcina parthenonensis Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

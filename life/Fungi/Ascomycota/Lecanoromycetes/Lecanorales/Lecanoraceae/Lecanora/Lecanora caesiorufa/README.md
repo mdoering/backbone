@@ -1,5 +1,4 @@
-Lecanora caesiorufa (Schrad.) Howitt SPECIES
-=======
+# Lecanora caesiorufa (Schrad.) Howitt SPECIES
 
 #### Status
 ACCEPTED

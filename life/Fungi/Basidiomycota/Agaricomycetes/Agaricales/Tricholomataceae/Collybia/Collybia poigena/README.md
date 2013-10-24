@@ -1,5 +1,4 @@
-Collybia poigena Berk. & M.A. Curtis SPECIES
-=======
+# Collybia poigena Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

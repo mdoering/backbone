@@ -1,14 +1,13 @@
-Corticium costratum Rehill & B.K. Bakshi, 1965 SPECIES
-=======
+# Dacryobolus costratus (Rehill & B.K. Bakshi) S.S. Rattan, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Forest Bull. , Dehra Dunn, n. s. 242: 12 (1965)
+Biblthca Mycol. 60: 279 (1977)
 
 #### Original name
 Corticium costratum Rehill & B.K. Bakshi, 1965

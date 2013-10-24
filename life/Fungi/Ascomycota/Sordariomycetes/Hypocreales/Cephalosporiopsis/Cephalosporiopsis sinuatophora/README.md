@@ -1,5 +1,4 @@
-Cephalosporiopsis sinuatophora (Matsush.) C. Booth SPECIES
-=======
+# Cephalosporiopsis sinuatophora (Matsush.) C. Booth SPECIES
 
 #### Status
 ACCEPTED

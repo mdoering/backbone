@@ -1,5 +1,4 @@
-Trematosphaeria euganea Gaja SPECIES
-=======
+# Trematosphaeria euganea Gaja SPECIES
 
 #### Status
 ACCEPTED

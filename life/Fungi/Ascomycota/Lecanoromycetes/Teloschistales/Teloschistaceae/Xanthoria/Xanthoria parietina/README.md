@@ -1,14 +1,13 @@
-Physcia parietina var. parietina VARIETY
-=======
+# Xanthoria parietina (L.) Beltr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Bassan. 102 (1858)
 
 #### Original name
 Lichen parietinus L.

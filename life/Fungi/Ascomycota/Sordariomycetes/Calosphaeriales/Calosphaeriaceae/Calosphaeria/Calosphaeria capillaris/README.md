@@ -1,5 +1,4 @@
-Calosphaeria capillaris Sacc. & Penz. SPECIES
-=======
+# Calosphaeria capillaris Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma brunneicirrus Corner SPECIES
-=======
+# Tricholoma brunneicirrus Corner SPECIES
 
 #### Status
 ACCEPTED

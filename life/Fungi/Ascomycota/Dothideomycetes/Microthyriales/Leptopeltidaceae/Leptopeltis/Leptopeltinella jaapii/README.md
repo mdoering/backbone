@@ -1,5 +1,4 @@
-Leptopeltinella jaapii (Rehm) Petr. SPECIES
-=======
+# Leptopeltinella jaapii (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

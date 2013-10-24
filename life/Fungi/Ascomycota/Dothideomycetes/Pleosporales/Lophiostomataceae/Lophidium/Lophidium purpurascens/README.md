@@ -1,5 +1,4 @@
-Lophidium purpurascens Mouton SPECIES
-=======
+# Lophidium purpurascens Mouton SPECIES
 
 #### Status
 ACCEPTED

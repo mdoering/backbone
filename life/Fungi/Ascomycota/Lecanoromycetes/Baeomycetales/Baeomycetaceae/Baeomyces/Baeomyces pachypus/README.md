@@ -1,5 +1,4 @@
-Baeomyces pachypus Nyl. SPECIES
-=======
+# Baeomyces pachypus Nyl. SPECIES
 
 #### Status
 ACCEPTED

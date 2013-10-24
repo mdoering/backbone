@@ -1,5 +1,4 @@
-Helicoon Morgan, 1892 GENUS
-=======
+# Helicoon Morgan, 1892 GENUS
 
 #### Status
 ACCEPTED

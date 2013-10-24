@@ -1,5 +1,4 @@
-Aecidium seselis Niessl SPECIES
-=======
+# Aecidium seselis Niessl SPECIES
 
 #### Status
 ACCEPTED

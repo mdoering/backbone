@@ -1,5 +1,4 @@
-Penicillium philippinense Udagawa & Y. Horie SPECIES
-=======
+# Penicillium philippinense Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

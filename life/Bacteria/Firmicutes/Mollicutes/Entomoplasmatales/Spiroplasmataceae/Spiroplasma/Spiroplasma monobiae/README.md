@@ -1,5 +1,4 @@
-Spiroplasma monobiae Whitcomb et al., 1993 SPECIES
-=======
+# Spiroplasma monobiae Whitcomb et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

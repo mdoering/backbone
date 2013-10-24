@@ -1,5 +1,4 @@
-Sphaeria cupula Ellis SPECIES
-=======
+# Sphaeria cupula Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma subsaponaceum Peck SPECIES
-=======
+# Tricholoma subsaponaceum Peck SPECIES
 
 #### Status
 ACCEPTED

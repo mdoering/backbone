@@ -1,5 +1,4 @@
-Rhodocybe formosa Vila, Contu, F. Caballero & A. Ortega SPECIES
-=======
+# Rhodocybe formosa Vila, Contu, F. Caballero & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

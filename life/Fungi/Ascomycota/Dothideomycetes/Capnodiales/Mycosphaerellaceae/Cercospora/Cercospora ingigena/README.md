@@ -1,17 +1,16 @@
-Cercospora ingaegena R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
-=======
+# Cercospora ingigena R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+National Academy Science Letters 18(3 & 4): 66 (1995)
 
 #### Original name
-Cercospora ingaegena R.K. Srivast., S. Narayan & A.K. Srivast.
+Cercospora ingigena R.K. Srivast., S. Narayan & A.K. Srivast.
 
 ### Remarks
 null

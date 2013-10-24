@@ -1,5 +1,4 @@
-Godronia achyranthis (Tilak & S.B. Kale) M.P. Sharma & Rawla SPECIES
-=======
+# Godronia achyranthis (Tilak & S.B. Kale) M.P. Sharma & Rawla SPECIES
 
 #### Status
 ACCEPTED

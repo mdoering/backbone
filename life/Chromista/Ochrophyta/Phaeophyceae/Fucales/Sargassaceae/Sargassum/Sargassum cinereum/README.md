@@ -1,5 +1,4 @@
-Sargassum cinereum var. thunbergii Grunow VARIETY
-=======
+# Sargassum cinereum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

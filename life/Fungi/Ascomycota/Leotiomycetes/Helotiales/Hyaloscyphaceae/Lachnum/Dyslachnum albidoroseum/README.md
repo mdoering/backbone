@@ -1,5 +1,4 @@
-Dyslachnum albidoroseum (Rehm) Höhn. SPECIES
-=======
+# Dyslachnum albidoroseum (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

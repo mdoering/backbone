@@ -1,5 +1,4 @@
-Textularia goesii SPECIES
-=======
+# Textularia goesii SPECIES
 
 #### Status
 ACCEPTED

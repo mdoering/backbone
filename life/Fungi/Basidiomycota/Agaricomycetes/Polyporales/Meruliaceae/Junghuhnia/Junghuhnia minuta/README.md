@@ -1,5 +1,4 @@
-Junghuhnia minuta I. Lindblad & Ryvarden, 1999 SPECIES
-=======
+# Junghuhnia minuta I. Lindblad & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

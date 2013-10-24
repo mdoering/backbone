@@ -1,17 +1,16 @@
-Coniosporium limoniiforme Syd. SPECIES
-=======
+# Coniosporium limoniforme Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 6: 484 (1908)
 
 #### Original name
-Coniosporium limoniiforme Syd.
+Coniosporium limoniforme Syd.
 
 ### Remarks
 null

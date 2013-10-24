@@ -1,5 +1,4 @@
-Passalora josensis (Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora josensis (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

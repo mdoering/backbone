@@ -1,17 +1,16 @@
-Ustilago fimbristylis-miliaceae Henn. SPECIES
-=======
+# Ustilago fimbristylidis-miliaceae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Engler's Bot. Jahrb. 37: 156 (1905)
 
 #### Original name
-Ustilago fimbristylis-miliaceae Henn.
+Ustilago fimbristylidis-miliaceae Henn.
 
 ### Remarks
 null

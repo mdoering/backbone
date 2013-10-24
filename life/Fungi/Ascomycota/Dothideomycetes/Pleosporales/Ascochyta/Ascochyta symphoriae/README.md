@@ -1,5 +1,4 @@
-Ascochyta symphoriae Briard & Har. SPECIES
-=======
+# Ascochyta symphoriae Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

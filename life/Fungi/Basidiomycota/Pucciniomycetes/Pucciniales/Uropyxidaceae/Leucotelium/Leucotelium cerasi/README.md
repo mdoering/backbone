@@ -1,14 +1,13 @@
-Puccinia cerasi (Berenger) Castagne, 1842 SPECIES
-=======
+# Leucotelium cerasi (Berenger) Tranzschel, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Riv. Patol. veg. , Pavia 25: 182 (1935)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Mycosphaerella cytisi-sagittalis (Auersw.) Lindau SPECIES
-=======
+# Mycosphaerella cytisi-sagittalis (Auersw.) Lindau SPECIES
 
 #### Status
 ACCEPTED

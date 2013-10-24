@@ -1,5 +1,4 @@
-Pseudocyphellaria gretae D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria gretae D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

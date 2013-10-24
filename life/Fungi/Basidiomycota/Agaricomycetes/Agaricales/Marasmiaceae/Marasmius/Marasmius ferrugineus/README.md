@@ -1,5 +1,4 @@
-Marasmius ferrugineus Berk. SPECIES
-=======
+# Marasmius ferrugineus Berk. SPECIES
 
 #### Status
 ACCEPTED

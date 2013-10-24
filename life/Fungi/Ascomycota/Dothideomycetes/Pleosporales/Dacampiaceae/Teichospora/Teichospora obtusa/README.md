@@ -1,5 +1,4 @@
-Teichospora obtusa Fuckel SPECIES
-=======
+# Teichospora obtusa Fuckel SPECIES
 
 #### Status
 ACCEPTED

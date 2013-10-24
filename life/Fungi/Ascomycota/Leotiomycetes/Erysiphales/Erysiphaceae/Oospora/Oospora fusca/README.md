@@ -1,5 +1,4 @@
-Oospora fusca (Bonord.) Grove, 1885 SPECIES
-=======
+# Oospora fusca (Bonord.) Grove, 1885 SPECIES
 
 #### Status
 ACCEPTED

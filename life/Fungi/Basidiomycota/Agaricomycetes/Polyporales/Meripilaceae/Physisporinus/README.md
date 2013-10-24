@@ -1,5 +1,4 @@
-Physisporinus P. Karsten, 1889 GENUS
-=======
+# Physisporinus P. Karsten, 1889 GENUS
 
 #### Status
 ACCEPTED

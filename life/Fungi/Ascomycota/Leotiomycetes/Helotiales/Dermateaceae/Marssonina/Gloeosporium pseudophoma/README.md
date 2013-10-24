@@ -1,5 +1,4 @@
-Gloeosporium pseudophoma Penz. & Sacc., 1884 SPECIES
-=======
+# Gloeosporium pseudophoma Penz. & Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus alutaceovillosus Henn. SPECIES
-=======
+# Polystictus alutaceovillosus Henn. SPECIES
 
 #### Status
 ACCEPTED

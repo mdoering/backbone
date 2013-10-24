@@ -1,5 +1,4 @@
-Scrippsiella operosa (Deflandre, 1947) Montresor, 2003 SPECIES
-=======
+# Scrippsiella operosa (Deflandre, 1947) Montresor, 2003 SPECIES
 
 #### Status
 ACCEPTED

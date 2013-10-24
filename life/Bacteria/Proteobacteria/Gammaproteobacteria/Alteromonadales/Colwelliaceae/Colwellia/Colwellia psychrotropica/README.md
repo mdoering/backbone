@@ -1,5 +1,4 @@
-Colwellia psychrotropica Bowman et al., 1998 SPECIES
-=======
+# Colwellia psychrotropica Bowman et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium hiratsukanum S. Kaneko SPECIES
-=======
+# Coleosporium hiratsukanum S. Kaneko SPECIES
 
 #### Status
 ACCEPTED

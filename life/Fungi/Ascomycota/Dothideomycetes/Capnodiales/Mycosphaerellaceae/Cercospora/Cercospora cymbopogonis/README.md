@@ -1,5 +1,4 @@
-Cercospora cymbopogonis J.M. Yen SPECIES
-=======
+# Cercospora cymbopogonis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

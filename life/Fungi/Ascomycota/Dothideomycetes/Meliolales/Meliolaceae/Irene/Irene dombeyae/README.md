@@ -1,5 +1,4 @@
-Irene dombeyae Hansf. & Deighton SPECIES
-=======
+# Irene dombeyae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

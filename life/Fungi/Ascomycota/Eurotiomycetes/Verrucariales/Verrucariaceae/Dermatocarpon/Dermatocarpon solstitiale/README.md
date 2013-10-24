@@ -1,5 +1,4 @@
-Dermatocarpon solstitiale (Hochst.) Zahlbr. SPECIES
-=======
+# Dermatocarpon solstitiale (Hochst.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

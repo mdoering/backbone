@@ -1,5 +1,4 @@
-Eouvigerina austinana Cushman, 1933 SPECIES
-=======
+# Eouvigerina austinana Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

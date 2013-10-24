@@ -1,5 +1,4 @@
-Pseudocercospora gracilis Crous & Alfenas SPECIES
-=======
+# Pseudocercospora gracilis Crous & Alfenas SPECIES
 
 #### Status
 ACCEPTED

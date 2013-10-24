@@ -1,5 +1,4 @@
-Amerosporium glabrescens Petr. SPECIES
-=======
+# Amerosporium glabrescens Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium wildemanianum Henn. SPECIES
-=======
+# Sorosporium wildemanianum Henn. SPECIES
 
 #### Status
 ACCEPTED

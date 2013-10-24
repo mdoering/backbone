@@ -1,17 +1,16 @@
-Phyllachora aserriensis Syd., 1927 SPECIES
-=======
+# Phyllachora urvilleana Speg., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(1/2): 4 (1927)
+Anal. Mus. nac. B. Aires, Ser. 3 19(3): 419 (1909)
 
 #### Original name
-Phyllachora aserriensis Syd., 1927
+Phyllachora urvilleana Speg., 1909
 
 ### Remarks
 null

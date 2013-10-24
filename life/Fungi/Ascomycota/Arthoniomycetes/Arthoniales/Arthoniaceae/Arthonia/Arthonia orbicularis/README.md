@@ -1,5 +1,4 @@
-Arthonia orbicularis Bat. & J.L. Bezerra SPECIES
-=======
+# Arthonia orbicularis Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

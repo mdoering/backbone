@@ -1,5 +1,4 @@
-Gloniella sardoa Sacc. & Traverso, 1883 SPECIES
-=======
+# Gloniella sardoa Sacc. & Traverso, 1883 SPECIES
 
 #### Status
 ACCEPTED

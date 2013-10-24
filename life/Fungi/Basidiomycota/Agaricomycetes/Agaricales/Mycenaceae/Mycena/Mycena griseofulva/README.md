@@ -1,5 +1,4 @@
-Mycena griseofulva (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Mycena griseofulva (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

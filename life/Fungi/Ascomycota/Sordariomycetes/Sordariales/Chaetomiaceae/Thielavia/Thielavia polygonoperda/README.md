@@ -1,5 +1,4 @@
-Thielavia polygonoperda Matsush. SPECIES
-=======
+# Thielavia polygonoperda Matsush. SPECIES
 
 #### Status
 ACCEPTED

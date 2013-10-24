@@ -1,5 +1,4 @@
-Homothecium sorediosum Henssen SPECIES
-=======
+# Homothecium sorediosum Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemmatomyces Thaxt. GENUS
-=======
+# Stemmatomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera variabilis Holterm. SPECIES
-=======
+# Calocera variabilis Holterm. SPECIES
 
 #### Status
 ACCEPTED

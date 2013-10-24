@@ -1,5 +1,4 @@
-Clavaria citripes G.F. Atk. SPECIES
-=======
+# Clavaria citripes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

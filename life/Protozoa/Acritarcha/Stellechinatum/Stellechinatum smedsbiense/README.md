@@ -1,5 +1,4 @@
-Stellechinatum smedsbiense (Górka, 1987) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Stellechinatum smedsbiense (Górka, 1987) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

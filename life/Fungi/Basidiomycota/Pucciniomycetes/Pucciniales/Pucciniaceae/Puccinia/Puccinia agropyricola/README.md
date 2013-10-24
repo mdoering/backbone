@@ -1,5 +1,4 @@
-Puccinia agropyricola Hirats. f. SPECIES
-=======
+# Puccinia agropyricola Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

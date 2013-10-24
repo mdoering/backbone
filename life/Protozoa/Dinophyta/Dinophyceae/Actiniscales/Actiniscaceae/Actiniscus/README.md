@@ -1,14 +1,13 @@
-Microdistephanus Filipescu, 1943 GENUS
-=======
+# Actiniscus Ehrenberg, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. Preuss. Akad. Wiss. , 1839 (1841), 149.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Exochosphaeridium brevispinosum K. Matsuoka SPECIES
-=======
+# Exochosphaeridium brevispinosum K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

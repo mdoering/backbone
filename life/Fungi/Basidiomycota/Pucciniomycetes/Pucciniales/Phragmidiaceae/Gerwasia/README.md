@@ -1,5 +1,4 @@
-Gerwasia Racib. GENUS
-=======
+# Gerwasia Racib. GENUS
 
 #### Status
 ACCEPTED

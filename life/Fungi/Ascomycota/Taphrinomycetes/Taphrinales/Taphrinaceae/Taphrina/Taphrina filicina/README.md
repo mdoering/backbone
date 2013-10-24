@@ -1,17 +1,16 @@
-Taphrina filicina var. polystichi-aculeati Dennis VARIETY
-=======
+# Taphrina filicina Rostr., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Johans, Taphr. 11: 21 (1887)
 
 #### Original name
-Taphrina filicina var. polystichi-aculeati Dennis
+Taphrina filicina Rostr., 1887
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystictus perzonatus Rick SPECIES
-=======
+# Polystictus perzonatus Rick SPECIES
 
 #### Status
 ACCEPTED

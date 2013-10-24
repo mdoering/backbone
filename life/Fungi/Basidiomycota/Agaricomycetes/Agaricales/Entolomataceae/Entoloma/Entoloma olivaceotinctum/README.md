@@ -1,5 +1,4 @@
-Entoloma olivaceotinctum Noordel. SPECIES
-=======
+# Entoloma olivaceotinctum Noordel. SPECIES
 
 #### Status
 ACCEPTED

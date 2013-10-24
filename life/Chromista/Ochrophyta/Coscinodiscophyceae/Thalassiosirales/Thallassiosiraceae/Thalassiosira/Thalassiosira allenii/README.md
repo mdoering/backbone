@@ -1,5 +1,4 @@
-Thalassiosira allenii Takano SPECIES
-=======
+# Thalassiosira allenii Takano SPECIES
 
 #### Status
 ACCEPTED

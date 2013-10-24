@@ -1,14 +1,13 @@
-Gloeocystidiellum karstenii (Bourdot & Galzin) Donk, 1956 SPECIES
-=======
+# Conferticium karstenii (Bourdot & Galzin) Hallenb., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 26(1-4): 9 (1956)
+Mycotaxon 11(2): 448 (1980)
 
 #### Original name
 Gloeocystidium karstenii Bourdot & Galzin, 1928

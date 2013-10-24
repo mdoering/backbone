@@ -1,5 +1,4 @@
-Baltisphaeridium nagyae Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium nagyae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus purpuratus Cooke & Massee, 1890 SPECIES
-=======
+# Gymnopilus purpuratus (Cooke & Massee) Singer, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 18(no. 88): 73 (1890)
+Sydowia 9: 411 (1955)
 
 #### Original name
 Agaricus purpuratus Cooke & Massee, 1890

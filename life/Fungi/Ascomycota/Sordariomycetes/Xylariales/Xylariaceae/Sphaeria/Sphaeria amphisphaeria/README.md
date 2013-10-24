@@ -1,5 +1,4 @@
-Sphaeria amphisphaeria Schulzer SPECIES
-=======
+# Sphaeria amphisphaeria Schulzer SPECIES
 
 #### Status
 ACCEPTED

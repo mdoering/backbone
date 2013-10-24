@@ -1,5 +1,4 @@
-Mycena chlorinosma Singer SPECIES
-=======
+# Mycena chlorinosma Singer SPECIES
 
 #### Status
 ACCEPTED

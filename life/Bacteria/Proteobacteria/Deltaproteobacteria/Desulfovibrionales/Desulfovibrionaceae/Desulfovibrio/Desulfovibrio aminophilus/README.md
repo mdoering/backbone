@@ -1,5 +1,4 @@
-Desulfovibrio aminophilus Baena et al., 1999 SPECIES
-=======
+# Desulfovibrio aminophilus Baena et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

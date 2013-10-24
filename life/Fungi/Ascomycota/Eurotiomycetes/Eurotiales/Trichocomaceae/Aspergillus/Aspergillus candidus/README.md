@@ -1,17 +1,16 @@
-Aspergillus candidus var. tjibodensis Penz. & Sacc. VARIETY
-=======
+# Aspergillus candidus Link, 1809 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 16 (1809)
 
 #### Original name
-Aspergillus candidus var. tjibodensis Penz. & Sacc.
+Aspergillus candidus Link, 1809
 
 ### Remarks
 null

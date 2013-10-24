@@ -1,5 +1,4 @@
-Rhinotrichella grisea (Sacc.) G. Arnaud SPECIES
-=======
+# Rhinotrichella grisea (Sacc.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

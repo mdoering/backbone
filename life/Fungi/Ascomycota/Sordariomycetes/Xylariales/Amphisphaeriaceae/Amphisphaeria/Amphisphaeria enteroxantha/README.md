@@ -1,5 +1,4 @@
-Amphisphaeria enteroxantha Ces. SPECIES
-=======
+# Amphisphaeria enteroxantha Ces. SPECIES
 
 #### Status
 ACCEPTED

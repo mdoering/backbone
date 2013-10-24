@@ -1,5 +1,4 @@
-Puccinia oreogeta Syd. SPECIES
-=======
+# Puccinia oreogeta Syd. SPECIES
 
 #### Status
 ACCEPTED

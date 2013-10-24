@@ -1,5 +1,4 @@
-Phaedropezia flavotingens (Berk. & Broome) Le Gal SPECIES
-=======
+# Phaedropezia flavotingens (Berk. & Broome) Le Gal SPECIES
 
 #### Status
 ACCEPTED

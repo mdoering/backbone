@@ -1,17 +1,16 @@
-Kuehneromyces nothofagis Garrido SPECIES
-=======
+# Kuehneromyces nothofagi Garrido SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 120: 192 (1988)
 
 #### Original name
-Kuehneromyces nothofagis Garrido
+Kuehneromyces nothofagi Garrido
 
 ### Remarks
 null

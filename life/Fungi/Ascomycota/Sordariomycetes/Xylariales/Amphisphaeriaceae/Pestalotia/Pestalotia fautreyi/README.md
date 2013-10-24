@@ -1,5 +1,4 @@
-Pestalotia fautreyi P. Karst. & Roum. SPECIES
-=======
+# Pestalotia fautreyi P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

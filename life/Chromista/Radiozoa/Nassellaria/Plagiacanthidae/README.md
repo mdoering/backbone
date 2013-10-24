@@ -1,5 +1,4 @@
-Plagiacanthidae Hertwig, 1879 FAMILY
-=======
+# Plagiacanthidae Hertwig, 1879 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Placynthium lismorense f. boreale Gyeln. FORM
-=======
+# Placynthium lismorense (Nyl. ex Cromb.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. 8(no. 4): 98 (1909)
 
 #### Original name
-Placynthium lismorense f. boreale Gyeln.
+Pterygium lismorense Nyl.
 
 ### Remarks
 null

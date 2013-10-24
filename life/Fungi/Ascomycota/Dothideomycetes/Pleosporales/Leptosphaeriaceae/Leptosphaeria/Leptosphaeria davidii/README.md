@@ -1,5 +1,4 @@
-Leptosphaeria davidii Gucevic SPECIES
-=======
+# Leptosphaeria davidii Gucevic SPECIES
 
 #### Status
 ACCEPTED

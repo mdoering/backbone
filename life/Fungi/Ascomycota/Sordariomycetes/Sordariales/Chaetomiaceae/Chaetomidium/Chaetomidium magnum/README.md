@@ -1,5 +1,4 @@
-Chaetomidium magnum Bainier SPECIES
-=======
+# Chaetomidium magnum Bainier SPECIES
 
 #### Status
 ACCEPTED

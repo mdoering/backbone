@@ -1,5 +1,4 @@
-Hemimycena Singer, 1938 GENUS
-=======
+# Hemimycena Singer, 1938 GENUS
 
 #### Status
 ACCEPTED

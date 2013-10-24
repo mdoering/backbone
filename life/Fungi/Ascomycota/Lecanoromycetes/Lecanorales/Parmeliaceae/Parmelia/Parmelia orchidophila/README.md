@@ -1,5 +1,4 @@
-Parmelia orchidophila C.W. Dodge SPECIES
-=======
+# Parmelia orchidophila C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

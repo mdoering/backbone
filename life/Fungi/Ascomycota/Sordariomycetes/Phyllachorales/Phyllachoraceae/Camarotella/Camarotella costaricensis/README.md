@@ -1,14 +1,13 @@
-Dothidina costaricensis F. Stevens, 1927 SPECIES
-=======
+# Camarotella costaricensis (F. Stevens) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 180 (1927)
+Mycol. Pap. 175: 56 (1999)
 
 #### Original name
 Dothidina costaricensis F. Stevens, 1927

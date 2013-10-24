@@ -1,5 +1,4 @@
-Rehmiella GENUS
-=======
+# Rehmiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platysma olivaceum (L.) Frege SPECIES
-=======
+# Platysma olivaceum (L.) Frege SPECIES
 
 #### Status
 ACCEPTED

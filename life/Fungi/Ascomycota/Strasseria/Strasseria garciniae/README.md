@@ -1,5 +1,4 @@
-Strasseria garciniae I. Hino & Katum. SPECIES
-=======
+# Strasseria garciniae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

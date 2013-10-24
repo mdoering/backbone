@@ -1,14 +1,13 @@
-Pterospora atrocyanea Métrod, 1949 SPECIES
-=======
+# Tetrapyrgos atrocyanea (Métrod) E. Horak, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prodr. Fl. Mycol. Madag. 3(Mycénes Madag. ): 129 (1949)
+Sydowia 39: 102 (1987)
 
 #### Original name
 Pterospora atrocyanea Métrod, 1949

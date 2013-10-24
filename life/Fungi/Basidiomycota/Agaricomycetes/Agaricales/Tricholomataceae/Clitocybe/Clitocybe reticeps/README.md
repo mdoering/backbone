@@ -1,5 +1,4 @@
-Clitocybe reticeps Mont. SPECIES
-=======
+# Clitocybe reticeps Mont. SPECIES
 
 #### Status
 ACCEPTED

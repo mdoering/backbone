@@ -1,5 +1,4 @@
-Sigmoideomyces Thaxt. GENUS
-=======
+# Sigmoideomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

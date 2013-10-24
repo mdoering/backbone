@@ -1,5 +1,4 @@
-Verrucaria gelida Hook. f. & Taylor SPECIES
-=======
+# Verrucaria gelida Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

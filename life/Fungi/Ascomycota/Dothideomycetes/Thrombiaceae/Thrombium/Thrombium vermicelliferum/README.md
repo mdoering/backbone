@@ -1,5 +1,4 @@
-Thrombium vermicelliferum Wallr. SPECIES
-=======
+# Thrombium vermicelliferum Wallr. SPECIES
 
 #### Status
 ACCEPTED

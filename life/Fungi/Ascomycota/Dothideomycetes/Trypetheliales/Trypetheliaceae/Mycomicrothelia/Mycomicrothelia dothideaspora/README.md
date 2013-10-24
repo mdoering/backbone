@@ -1,5 +1,4 @@
-Mycomicrothelia dothideaspora (Cooke & Harkn.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia dothideaspora (Cooke & Harkn.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

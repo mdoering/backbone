@@ -1,5 +1,4 @@
-Diplodinula lysimachiae (Oudem.) Tassi SPECIES
-=======
+# Diplodinula lysimachiae (Oudem.) Tassi SPECIES
 
 #### Status
 ACCEPTED

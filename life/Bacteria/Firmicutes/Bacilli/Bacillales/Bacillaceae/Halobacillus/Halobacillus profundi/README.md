@@ -1,5 +1,4 @@
-Halobacillus profundi Hua, Kanekiyo, Fujikura, Yasuda & Naganuma, 2007 SPECIES
-=======
+# Halobacillus profundi Hua, Kanekiyo, Fujikura, Yasuda & Naganuma, 2007 SPECIES
 
 #### Status
 ACCEPTED

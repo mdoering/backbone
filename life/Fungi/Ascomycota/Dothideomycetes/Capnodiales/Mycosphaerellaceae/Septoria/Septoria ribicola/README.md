@@ -1,5 +1,4 @@
-Septoria ribicola Berk. & M.A. Curtis SPECIES
-=======
+# Septoria ribicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lugoae Magnus SPECIES
-=======
+# Puccinia lugoae Magnus SPECIES
 
 #### Status
 ACCEPTED

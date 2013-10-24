@@ -1,5 +1,4 @@
-Hymenophallus duplicatus Nees SPECIES
-=======
+# Hymenophallus duplicatus Nees SPECIES
 
 #### Status
 ACCEPTED

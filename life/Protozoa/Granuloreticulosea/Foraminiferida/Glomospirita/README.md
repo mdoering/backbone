@@ -1,5 +1,4 @@
-Glomospirita Reitlinger, 1993 GENUS
-=======
+# Glomospirita Reitlinger, 1993 GENUS
 
 #### Status
 ACCEPTED

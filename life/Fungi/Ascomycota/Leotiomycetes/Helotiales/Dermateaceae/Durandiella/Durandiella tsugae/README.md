@@ -1,5 +1,4 @@
-Durandiella tsugae Baranyay SPECIES
-=======
+# Durandiella tsugae Baranyay SPECIES
 
 #### Status
 ACCEPTED

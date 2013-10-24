@@ -1,5 +1,4 @@
-Amanita angustilamellata (Höhn.) Boedijn SPECIES
-=======
+# Amanita angustilamellata (Höhn.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fusarium albido-violaceum Dasz. SPECIES
-=======
+# Fusarium albidoviolaceum Dasz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Genève, 2 sér. 4: 293 (1912)
 
 #### Original name
-Fusarium albido-violaceum Dasz.
+Fusarium albidoviolaceum Dasz.
 
 ### Remarks
 null

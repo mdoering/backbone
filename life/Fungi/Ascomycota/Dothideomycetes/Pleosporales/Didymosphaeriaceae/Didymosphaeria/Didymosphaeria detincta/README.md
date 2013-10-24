@@ -1,5 +1,4 @@
-Didymosphaeria detincta SPECIES
-=======
+# Didymosphaeria detincta SPECIES
 
 #### Status
 ACCEPTED

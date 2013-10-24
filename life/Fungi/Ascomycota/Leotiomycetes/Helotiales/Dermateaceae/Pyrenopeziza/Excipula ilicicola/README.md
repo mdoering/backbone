@@ -1,5 +1,4 @@
-Excipula ilicicola Allesch. SPECIES
-=======
+# Excipula ilicicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

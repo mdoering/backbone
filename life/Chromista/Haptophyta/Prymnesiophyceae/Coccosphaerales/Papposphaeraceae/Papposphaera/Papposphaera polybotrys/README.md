@@ -1,5 +1,4 @@
-Papposphaera polybotrys (H.A. Thomsen) H.A. Thomsen, J. Østergaard & L.E. Hansen SPECIES
-=======
+# Papposphaera polybotrys (H.A. Thomsen) H.A. Thomsen, J. Østergaard & L.E. Hansen SPECIES
 
 #### Status
 ACCEPTED

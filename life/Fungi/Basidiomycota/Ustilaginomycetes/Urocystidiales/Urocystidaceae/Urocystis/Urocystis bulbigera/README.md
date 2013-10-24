@@ -1,5 +1,4 @@
-Urocystis bulbigera Bonord. SPECIES
-=======
+# Urocystis bulbigera Bonord. SPECIES
 
 #### Status
 ACCEPTED

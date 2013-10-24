@@ -1,5 +1,4 @@
-Peziza phacidioides Fr. SPECIES
-=======
+# Peziza phacidioides Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plotnikovina Mikhalevich, 1981 GENUS
-=======
+# Plotnikovina Mikhalevich, 1981 GENUS
 
 #### Status
 ACCEPTED

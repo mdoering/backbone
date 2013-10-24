@@ -1,5 +1,4 @@
-Aspicilia erythrantha Poelt SPECIES
-=======
+# Aspicilia erythrantha Poelt SPECIES
 
 #### Status
 ACCEPTED

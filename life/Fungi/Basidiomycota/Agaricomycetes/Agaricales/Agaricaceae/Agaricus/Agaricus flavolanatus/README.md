@@ -1,5 +1,4 @@
-Agaricus flavolanatus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus flavolanatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma villaresiae Syd. SPECIES
-=======
+# Macrophoma villaresiae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Melaspilea tribulodes (Tuck.) Müll. Arg. SPECIES
-=======
+# Melaspilea tribuloides (Tuck.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

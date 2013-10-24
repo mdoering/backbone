@@ -1,5 +1,4 @@
-Macrophoma haraeana Syd. SPECIES
-=======
+# Macrophoma haraeana Syd. SPECIES
 
 #### Status
 ACCEPTED

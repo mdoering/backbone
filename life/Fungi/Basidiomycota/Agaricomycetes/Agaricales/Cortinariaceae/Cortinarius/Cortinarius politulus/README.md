@@ -1,5 +1,4 @@
-Cortinarius politulus Britzelm. SPECIES
-=======
+# Cortinarius politulus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

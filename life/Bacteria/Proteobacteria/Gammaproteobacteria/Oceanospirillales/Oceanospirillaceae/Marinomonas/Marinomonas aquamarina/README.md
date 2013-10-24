@@ -1,5 +1,4 @@
-Marinomonas aquamarina Macian, Arahal, Garay E & Pujalte, 2005 SPECIES
-=======
+# Marinomonas aquamarina Macian, Arahal, Garay E & Pujalte, 2005 SPECIES
 
 #### Status
 ACCEPTED

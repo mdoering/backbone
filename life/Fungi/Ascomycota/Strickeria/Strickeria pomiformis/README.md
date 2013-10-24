@@ -1,5 +1,4 @@
-Strickeria pomiformis (P. Karst.) Cooke SPECIES
-=======
+# Strickeria pomiformis (P. Karst.) Cooke SPECIES
 
 #### Status
 ACCEPTED

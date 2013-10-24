@@ -1,14 +1,13 @@
-Poria excelsa S. Lundell, 1946 SPECIES
-=======
+# Ceriporia excelsa S. Lundell ex Parmasto, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lundell & Nannfeldt, Fungi Exsiccati Suecici 27-28: 1328 (1946)
+Trudy Bot. Inst. Akad. Nauk SSSR, ser. 2, Sporov. Rast. 12: 222 (1959)
 
 #### Original name
 Poria excelsa S. Lundell, 1946

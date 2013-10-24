@@ -1,5 +1,4 @@
-Striatojaponocapsa synconexa SPECIES
-=======
+# Striatojaponocapsa synconexa SPECIES
 
 #### Status
 ACCEPTED

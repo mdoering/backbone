@@ -1,5 +1,4 @@
-Nocardioides nitrophenolicus Yoon et al., 1999 SPECIES
-=======
+# Nocardioides nitrophenolicus Yoon et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

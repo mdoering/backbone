@@ -1,5 +1,4 @@
-Diorchidium amazonense Syd. & P. Syd. SPECIES
-=======
+# Diorchidium amazonense Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

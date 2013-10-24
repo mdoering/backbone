@@ -1,5 +1,4 @@
-Gyrophora hirsuta f. hirsuta FORM
-=======
+# Gyrophora hirsuta (L.) Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora hirsuta f. hirsuta
+null
 
 ### Remarks
 null

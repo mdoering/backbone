@@ -1,5 +1,4 @@
-Umbilicaria saviczii Llano SPECIES
-=======
+# Umbilicaria saviczii Llano SPECIES
 
 #### Status
 ACCEPTED

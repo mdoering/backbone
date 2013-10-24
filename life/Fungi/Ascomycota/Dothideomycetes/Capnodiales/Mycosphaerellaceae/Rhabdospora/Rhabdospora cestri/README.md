@@ -1,5 +1,4 @@
-Rhabdospora cestri Mont. SPECIES
-=======
+# Rhabdospora cestri Mont. SPECIES
 
 #### Status
 ACCEPTED

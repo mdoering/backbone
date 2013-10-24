@@ -1,5 +1,4 @@
-Tremella colorata Peck SPECIES
-=======
+# Tremella colorata Peck SPECIES
 
 #### Status
 ACCEPTED

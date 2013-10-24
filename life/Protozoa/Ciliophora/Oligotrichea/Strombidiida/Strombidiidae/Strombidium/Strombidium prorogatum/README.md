@@ -1,5 +1,4 @@
-Strombidium prorogatum Busch, 1930 SPECIES
-=======
+# Strombidium prorogatum Busch, 1930 SPECIES
 
 #### Status
 ACCEPTED

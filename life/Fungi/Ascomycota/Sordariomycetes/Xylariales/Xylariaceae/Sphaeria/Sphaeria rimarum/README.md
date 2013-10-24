@@ -1,5 +1,4 @@
-Sphaeria rimarum Lasch SPECIES
-=======
+# Sphaeria rimarum Lasch SPECIES
 
 #### Status
 ACCEPTED

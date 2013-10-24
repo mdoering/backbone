@@ -1,14 +1,13 @@
-Gloeosporidium acericolum (Allesch.) Höhn. SPECIES
-=======
+# Gloeosporidium acericola (Allesch.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 (1916)
 
 #### Original name
 Gloeosporium acericola Allesch.

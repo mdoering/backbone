@@ -1,14 +1,13 @@
-Stereocaulon intricatum Moris SPECIES
-=======
+# Lethariella intricata (Moris) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 23(2): 94 (1976)
 
 #### Original name
 Stereocaulon intricatum Moris

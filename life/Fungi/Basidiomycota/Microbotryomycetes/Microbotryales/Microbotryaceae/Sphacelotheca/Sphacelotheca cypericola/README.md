@@ -1,5 +1,4 @@
-Sphacelotheca cypericola Mundk. & Pavgi SPECIES
-=======
+# Sphacelotheca cypericola Mundk. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Milesia polypodii F.B. White, 1878 SPECIES
-=======
+# Milesina dieteliana (Syd. & P. Syd.) Magnus, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Arnold Arbor. 17: 26 (1878)
+Ber. dt. bot. Ges. 27: 325 (1909)
 
 #### Original name
-Milesia polypodii F.B. White, 1878
+Melampsorella dieteliana Syd. & P. Syd., 1903
 
 ### Remarks
 null

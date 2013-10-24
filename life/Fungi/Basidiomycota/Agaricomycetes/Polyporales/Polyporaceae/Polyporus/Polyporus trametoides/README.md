@@ -1,5 +1,4 @@
-Polyporus trametoides Corner, 1984 SPECIES
-=======
+# Polyporus trametoides Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

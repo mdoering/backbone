@@ -1,17 +1,16 @@
-Rhabdospora hypochoeridis Grove SPECIES
-=======
+# Rhabdospora hypochaeridis Allesch., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 36: 163 (1897)
 
 #### Original name
-Rhabdospora hypochoeridis Grove
+Rhabdospora hypochaeridis Allesch., 1897
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neolentinus Redhead & Ginns, 1985 GENUS
-=======
+# Neolentinus Redhead & Ginns, 1985 GENUS
 
 #### Status
 ACCEPTED

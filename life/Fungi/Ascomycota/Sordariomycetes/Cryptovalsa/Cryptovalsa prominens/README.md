@@ -1,5 +1,4 @@
-Cryptovalsa prominens (Howe) Berl. SPECIES
-=======
+# Cryptovalsa prominens (Howe) Berl. SPECIES
 
 #### Status
 ACCEPTED

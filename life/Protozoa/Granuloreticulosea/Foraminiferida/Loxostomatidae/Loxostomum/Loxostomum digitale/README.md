@@ -1,5 +1,4 @@
-Loxostomum digitale (d'Orbigny) SPECIES
-=======
+# Loxostomum digitale (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

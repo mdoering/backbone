@@ -1,5 +1,4 @@
-Everniastrum latilobum Sipman SPECIES
-=======
+# Everniastrum latilobum Sipman SPECIES
 
 #### Status
 ACCEPTED

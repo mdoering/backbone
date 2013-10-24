@@ -1,5 +1,4 @@
-Pyrenula leucotrypa (Nyl.) Upreti SPECIES
-=======
+# Pyrenula leucotrypa (Nyl.) Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariella jamaicensis (Murrill) Shaffer SPECIES
-=======
+# Volvariella jamaicensis (Murrill) Shaffer SPECIES
 
 #### Status
 ACCEPTED

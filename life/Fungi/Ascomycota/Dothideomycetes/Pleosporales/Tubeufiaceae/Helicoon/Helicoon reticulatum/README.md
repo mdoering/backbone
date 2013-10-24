@@ -1,5 +1,4 @@
-Helicoon reticulatum Linder, 1929 SPECIES
-=======
+# Helicoon reticulatum Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

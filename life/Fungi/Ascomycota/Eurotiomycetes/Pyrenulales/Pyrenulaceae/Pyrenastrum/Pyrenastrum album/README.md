@@ -1,5 +1,4 @@
-Pyrenastrum album Eschw. SPECIES
-=======
+# Pyrenastrum album Eschw. SPECIES
 
 #### Status
 ACCEPTED

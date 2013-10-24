@@ -1,5 +1,4 @@
-Schismatomma constrictum (Kremp.) Zahlbr. SPECIES
-=======
+# Schismatomma constrictum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

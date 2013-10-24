@@ -1,14 +1,13 @@
-Thelotrema bonplandii Fée SPECIES
-=======
+# Ocellularia bonplandii (Fée) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 65: 499 (1882)
 
 #### Original name
 Thelotrema bonplandii Fée

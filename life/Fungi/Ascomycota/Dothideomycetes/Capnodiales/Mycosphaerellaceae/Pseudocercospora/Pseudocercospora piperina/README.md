@@ -1,5 +1,4 @@
-Pseudocercospora piperina (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora piperina (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

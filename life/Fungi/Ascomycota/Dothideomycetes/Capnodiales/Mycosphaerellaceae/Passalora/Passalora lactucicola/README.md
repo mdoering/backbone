@@ -1,5 +1,4 @@
-Passalora lactucicola (Y. Cui & Z.Y. Zhang) K. Schub. & U. Braun SPECIES
-=======
+# Passalora lactucicola (Y. Cui & Z.Y. Zhang) K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

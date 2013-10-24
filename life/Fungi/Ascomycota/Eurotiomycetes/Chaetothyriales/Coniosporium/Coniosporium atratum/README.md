@@ -1,5 +1,4 @@
-Coniosporium atratum P. Karst. & Malbr. SPECIES
-=======
+# Coniosporium atratum P. Karst. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

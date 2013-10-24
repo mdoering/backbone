@@ -1,5 +1,4 @@
-Sphaerella baptisiicola Cooke SPECIES
-=======
+# Sphaerella baptisiicola Cooke SPECIES
 
 #### Status
 ACCEPTED

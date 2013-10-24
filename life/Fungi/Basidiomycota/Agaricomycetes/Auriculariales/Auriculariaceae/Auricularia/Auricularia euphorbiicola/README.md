@@ -1,8 +1,7 @@
-Auricularia euphorbicola Pat. SPECIES
-=======
+# Auricularia euphorbiicola Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Auricularia euphorbicola Pat.
+Auricularia euphorbiicola Pat.
 
 ### Remarks
 null

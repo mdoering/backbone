@@ -1,5 +1,4 @@
-Strickeria elbursensis (Petr.) Koshk. SPECIES
-=======
+# Strickeria elbursensis (Petr.) Koshk. SPECIES
 
 #### Status
 ACCEPTED

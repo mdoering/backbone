@@ -1,5 +1,4 @@
-Tympanis sambuci P. Crouan & H. Crouan SPECIES
-=======
+# Tympanis sambuci P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

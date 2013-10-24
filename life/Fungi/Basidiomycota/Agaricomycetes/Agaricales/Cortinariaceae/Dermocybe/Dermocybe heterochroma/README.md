@@ -1,5 +1,4 @@
-Dermocybe heterochroma M.M. Moser ex Kuhn.-Fink. & Peintner SPECIES
-=======
+# Dermocybe heterochroma M.M. Moser ex Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED

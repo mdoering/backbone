@@ -1,17 +1,16 @@
-Pertusaria leucosora var. leucosora VARIETY
-=======
+# Pertusaria leucosora Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 60: 223 (1877)
 
 #### Original name
-Pertusaria leucosora var. leucosora
+Pertusaria leucosora Nyl.
 
 ### Remarks
 null

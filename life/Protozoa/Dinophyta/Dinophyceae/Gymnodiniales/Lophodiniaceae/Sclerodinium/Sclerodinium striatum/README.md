@@ -1,5 +1,4 @@
-Sclerodinium striatum Dodge SPECIES
-=======
+# Sclerodinium striatum Dodge SPECIES
 
 #### Status
 ACCEPTED

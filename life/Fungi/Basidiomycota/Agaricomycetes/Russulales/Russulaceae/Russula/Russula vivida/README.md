@@ -1,5 +1,4 @@
-Russula vivida McNabb, 1973 SPECIES
-=======
+# Russula vivida McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

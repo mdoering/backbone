@@ -1,5 +1,4 @@
-Burenella dimorpha Jouvenaz & E.I. Hazard SPECIES
-=======
+# Burenella dimorpha Jouvenaz & E.I. Hazard SPECIES
 
 #### Status
 ACCEPTED

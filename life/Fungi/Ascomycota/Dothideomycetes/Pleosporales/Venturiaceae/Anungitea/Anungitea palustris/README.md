@@ -1,5 +1,4 @@
-Anungitea palustris R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Anungitea palustris R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heteroporus zonatus var. zonatus VARIETY
-=======
+# Heteroporus zonatus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 86: 79 (1987)
 
 #### Original name
-Heteroporus zonatus var. zonatus
+Heteroporus zonatus Corner, 1987
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coprinus geesterani Uljé SPECIES
-=======
+# Coprinus geesterani Uljé SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torodysteria GENUS
-=======
+# Torodysteria GENUS
 
 #### Status
 ACCEPTED

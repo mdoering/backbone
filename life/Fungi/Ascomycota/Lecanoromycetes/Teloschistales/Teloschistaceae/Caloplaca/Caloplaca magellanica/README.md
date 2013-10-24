@@ -1,5 +1,4 @@
-Caloplaca magellanica Søchting & Sancho SPECIES
-=======
+# Caloplaca magellanica Søchting & Sancho SPECIES
 
 #### Status
 ACCEPTED

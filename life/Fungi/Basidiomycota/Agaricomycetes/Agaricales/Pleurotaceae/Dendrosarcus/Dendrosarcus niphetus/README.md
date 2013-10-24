@@ -1,5 +1,4 @@
-Dendrosarcus niphetus (Ellis) Kuntze SPECIES
-=======
+# Dendrosarcus niphetus (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

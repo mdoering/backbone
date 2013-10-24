@@ -1,5 +1,4 @@
-Lichen unguigerus Bory SPECIES
-=======
+# Lichen unguigerus Bory SPECIES
 
 #### Status
 ACCEPTED

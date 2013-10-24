@@ -1,5 +1,4 @@
-Leucoagaricus rubroconfusus Migl. & Coccia SPECIES
-=======
+# Leucoagaricus rubroconfusus Migl. & Coccia SPECIES
 
 #### Status
 ACCEPTED

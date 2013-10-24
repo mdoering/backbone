@@ -1,5 +1,4 @@
-Rhabdospora tanaceticola Bubák & Kabát, 1909 SPECIES
-=======
+# Rhabdospora tanaceticola Bubák & Kabát, 1909 SPECIES
 
 #### Status
 ACCEPTED

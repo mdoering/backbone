@@ -1,5 +1,4 @@
-Zoogloea resiniphila Mohn et al., 1999 SPECIES
-=======
+# Zoogloea resiniphila Mohn et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chaetomium kursanovianum Beliakova SPECIES
-=======
+# Chaetomium kurssanovianum Beliakova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaetomium kursanovianum Beliakova
+Chaetomium kurssanovianum Beliakova
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eupezizella candida (Starbäck) Höhn. SPECIES
-=======
+# Eupezizella candida (Starbäck) Höhn. SPECIES
 
 #### Status
 ACCEPTED

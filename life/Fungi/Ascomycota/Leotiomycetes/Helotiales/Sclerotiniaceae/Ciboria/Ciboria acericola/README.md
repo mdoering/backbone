@@ -1,5 +1,4 @@
-Ciboria acericola J.W. Groves & M.E. Elliott SPECIES
-=======
+# Ciboria acericola J.W. Groves & M.E. Elliott SPECIES
 
 #### Status
 ACCEPTED

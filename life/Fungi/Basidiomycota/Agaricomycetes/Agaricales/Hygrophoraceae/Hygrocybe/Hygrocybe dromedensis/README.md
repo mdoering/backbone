@@ -1,5 +1,4 @@
-Hygrocybe dromedensis A.M. Young SPECIES
-=======
+# Hygrocybe dromedensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

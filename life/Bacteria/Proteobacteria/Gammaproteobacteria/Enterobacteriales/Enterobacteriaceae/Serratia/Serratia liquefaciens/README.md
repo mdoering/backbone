@@ -1,11 +1,10 @@
-Aerobacter liquefaciens Grimes & Hennerty, 1931 SPECIES
-=======
+# Serratia liquefaciens (Grimes and Hennerty, 1931) Bascomb et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

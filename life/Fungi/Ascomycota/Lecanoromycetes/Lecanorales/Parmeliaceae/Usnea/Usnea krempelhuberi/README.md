@@ -1,5 +1,4 @@
-Usnea krempelhuberi Motyka SPECIES
-=======
+# Usnea krempelhuberi Motyka SPECIES
 
 #### Status
 ACCEPTED

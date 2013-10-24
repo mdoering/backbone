@@ -1,14 +1,13 @@
-Corticium alboglaucum Bourdot & Galzin, 1911 SPECIES
-=======
+# Coronicium alboglaucum (Bourdot & Galzin) Jülich, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27(2): 251 (1911)
+Persoonia 8(3): 299 (1975)
 
 #### Original name
 Corticium alboglaucum Bourdot & Galzin, 1911

@@ -1,5 +1,4 @@
-Puccinia canariensis P. Syd. & Syd., 1902 SPECIES
-=======
+# Puccinia canariensis P. Syd. & Syd., 1902 SPECIES
 
 #### Status
 ACCEPTED

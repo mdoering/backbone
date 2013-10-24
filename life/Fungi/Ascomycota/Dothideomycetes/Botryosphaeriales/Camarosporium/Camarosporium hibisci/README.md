@@ -1,5 +1,4 @@
-Camarosporium hibisci Hollós SPECIES
-=======
+# Camarosporium hibisci Hollós SPECIES
 
 #### Status
 ACCEPTED

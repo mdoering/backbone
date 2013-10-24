@@ -1,5 +1,4 @@
-Sporophora Luteraan GENUS
-=======
+# Sporophora Luteraan GENUS
 
 #### Status
 ACCEPTED

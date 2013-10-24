@@ -1,5 +1,4 @@
-Actinobacteria PHYLUM
-=======
+# Actinobacteria PHYLUM
 
 #### Status
 ACCEPTED

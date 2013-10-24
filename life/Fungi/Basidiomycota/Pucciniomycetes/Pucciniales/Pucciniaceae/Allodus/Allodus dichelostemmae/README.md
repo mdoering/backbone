@@ -1,5 +1,4 @@
-Allodus dichelostemmae (Dietel & Holw.) Orton SPECIES
-=======
+# Allodus dichelostemmae (Dietel & Holw.) Orton SPECIES
 
 #### Status
 ACCEPTED

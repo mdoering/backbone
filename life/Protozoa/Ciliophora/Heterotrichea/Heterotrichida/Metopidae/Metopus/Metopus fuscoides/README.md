@@ -1,5 +1,4 @@
-Metopus fuscoides SPECIES
-=======
+# Metopus fuscoides SPECIES
 
 #### Status
 ACCEPTED

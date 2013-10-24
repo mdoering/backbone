@@ -1,17 +1,16 @@
-Opegrapha niveoatra f. niveoatra FORM
-=======
+# Opegrapha niveoatra (Borrer) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 2: 138 (1963)
 
 #### Original name
-Opegrapha niveoatra f. niveoatra
+null
 
 ### Remarks
 null

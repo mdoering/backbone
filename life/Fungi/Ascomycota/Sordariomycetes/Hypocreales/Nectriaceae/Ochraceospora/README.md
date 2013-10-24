@@ -1,5 +1,4 @@
-Ochraceospora Fiore GENUS
-=======
+# Ochraceospora Fiore GENUS
 
 #### Status
 ACCEPTED

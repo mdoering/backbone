@@ -1,5 +1,4 @@
-Telimena graminella Syd. & P. Syd., 1914 SPECIES
-=======
+# Telimena graminella Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora vitalbae (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora vitalbae (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

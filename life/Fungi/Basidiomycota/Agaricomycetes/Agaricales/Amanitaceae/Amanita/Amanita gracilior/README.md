@@ -1,5 +1,4 @@
-Amanita gracilior var. gracilior VARIETY
-=======
+# Amanita gracilior Bas & Honrubia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Persoonia 11(4): 511 (1982)
 
 #### Original name
-Amanita gracilior var. gracilior
+Amanita gracilior Bas & Honrubia
 
 ### Remarks
 null

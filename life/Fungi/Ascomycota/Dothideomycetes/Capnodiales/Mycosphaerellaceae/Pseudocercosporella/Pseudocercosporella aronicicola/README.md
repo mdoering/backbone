@@ -1,5 +1,4 @@
-Pseudocercosporella aronicicola (Volkart) U. Braun SPECIES
-=======
+# Pseudocercosporella aronicicola (Volkart) U. Braun SPECIES
 
 #### Status
 ACCEPTED

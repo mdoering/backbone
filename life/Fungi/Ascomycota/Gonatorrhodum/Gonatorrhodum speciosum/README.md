@@ -1,5 +1,4 @@
-Gonatorrhodum speciosum Corda, 1839 SPECIES
-=======
+# Gonatorrhodum speciosum Corda, 1839 SPECIES
 
 #### Status
 ACCEPTED

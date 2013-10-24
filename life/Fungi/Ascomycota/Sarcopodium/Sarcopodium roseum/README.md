@@ -1,5 +1,4 @@
-Sarcopodium roseum (Corda) Fr., 1849 SPECIES
-=======
+# Sarcopodium roseum (Corda) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

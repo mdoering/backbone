@@ -1,5 +1,4 @@
-Arthoniopsis bambusicola (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis bambusicola (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

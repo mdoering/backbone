@@ -1,5 +1,4 @@
-Ustilago vastatoria Massee SPECIES
-=======
+# Ustilago vastatoria Massee SPECIES
 
 #### Status
 ACCEPTED

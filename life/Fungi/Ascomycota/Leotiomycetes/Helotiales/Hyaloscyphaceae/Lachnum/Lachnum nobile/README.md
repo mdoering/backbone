@@ -1,5 +1,4 @@
-Lachnum nobile Velen. SPECIES
-=======
+# Lachnum nobile Velen. SPECIES
 
 #### Status
 ACCEPTED

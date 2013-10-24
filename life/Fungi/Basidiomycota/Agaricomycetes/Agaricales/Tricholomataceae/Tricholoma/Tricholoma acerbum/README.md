@@ -1,14 +1,13 @@
-Agaricus acerbus Bull. ex Pers., 1801 SPECIES
-=======
+# Tricholoma acerbum (Bull.) Vent., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 328 (1801)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 77 (1872)
 
 #### Original name
 Agaricus acerbus Bull. ex Pers., 1801

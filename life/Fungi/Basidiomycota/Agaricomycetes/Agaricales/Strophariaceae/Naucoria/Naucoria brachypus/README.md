@@ -1,5 +1,4 @@
-Naucoria brachypus Speg. SPECIES
-=======
+# Naucoria brachypus Speg. SPECIES
 
 #### Status
 ACCEPTED

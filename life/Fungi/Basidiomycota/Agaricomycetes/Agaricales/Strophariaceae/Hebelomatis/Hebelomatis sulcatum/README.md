@@ -1,5 +1,4 @@
-Hebelomatis sulcatum (Fr.) Locq. SPECIES
-=======
+# Hebelomatis sulcatum (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

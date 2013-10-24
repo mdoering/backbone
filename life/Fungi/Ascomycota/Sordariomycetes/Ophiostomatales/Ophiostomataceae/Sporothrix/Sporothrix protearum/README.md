@@ -1,5 +1,4 @@
-Sporothrix protearum G.J. Marais & M.J. Wingf. SPECIES
-=======
+# Sporothrix protearum G.J. Marais & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

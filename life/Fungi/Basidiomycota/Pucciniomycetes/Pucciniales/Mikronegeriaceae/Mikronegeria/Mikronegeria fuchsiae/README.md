@@ -1,17 +1,16 @@
-Uredo konini G. Cunn., 1928 SPECIES
-=======
+# Mikronegeria fuchsiae P.E. Crane & R.S. Peterson, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. New Zealand Inst. 59: 502 (1928)
+N. Z. Jl Bot. 45: 709 (2007)
 
 #### Original name
-Coleosporium fuchsiae Cooke, 1886
+Mikronegeria fuchsiae P.E. Crane & R.S. Peterson, 2007
 
 ### Remarks
 null

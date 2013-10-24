@@ -1,17 +1,16 @@
-Sinotermitomyces taiwanensis M. Zang & C.M. Chen, 1998 SPECIES
-=======
+# Termitomyces clypeatus R. Heim, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Science, Taipei 13(1, 2): 25 (1998)
+Bull. Jard. Bot. État 21: 207 (1951)
 
 #### Original name
-Sinotermitomyces taiwanensis M. Zang & C.M. Chen, 1998
+Termitomyces clypeatus R. Heim, 1951
 
 ### Remarks
 null

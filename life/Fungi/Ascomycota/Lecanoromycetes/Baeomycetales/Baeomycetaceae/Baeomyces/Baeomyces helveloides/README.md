@@ -1,17 +1,16 @@
-Baeomyces elveloides Bory SPECIES
-=======
+# Baeomyces helveloides Bory SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Flörke, Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 3: 124 (1809)
 
 #### Original name
-Baeomyces elveloides Bory
+Baeomyces helveloides Bory
 
 ### Remarks
 null

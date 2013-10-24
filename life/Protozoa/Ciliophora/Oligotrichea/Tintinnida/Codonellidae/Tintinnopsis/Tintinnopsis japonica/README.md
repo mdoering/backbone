@@ -1,5 +1,4 @@
-Tintinnopsis japonica Hada, 1932 SPECIES
-=======
+# Tintinnopsis japonica Hada, 1932 SPECIES
 
 #### Status
 ACCEPTED

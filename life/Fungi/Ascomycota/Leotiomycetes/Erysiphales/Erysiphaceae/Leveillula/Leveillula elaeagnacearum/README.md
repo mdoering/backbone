@@ -1,5 +1,4 @@
-Leveillula elaeagnacearum Golovin SPECIES
-=======
+# Leveillula elaeagnacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

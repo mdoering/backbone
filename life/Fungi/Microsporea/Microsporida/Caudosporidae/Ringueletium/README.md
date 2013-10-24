@@ -1,5 +1,4 @@
-Ringueletium J.J. Garcia GENUS
-=======
+# Ringueletium J.J. Garcia GENUS
 
 #### Status
 ACCEPTED

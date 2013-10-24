@@ -1,5 +1,4 @@
-Meliola groteana Syd. SPECIES
-=======
+# Meliola groteana Syd. SPECIES
 
 #### Status
 ACCEPTED

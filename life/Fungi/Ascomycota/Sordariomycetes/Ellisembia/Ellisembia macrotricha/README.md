@@ -1,5 +1,4 @@
-Ellisembia macrotricha (Corda) Subram. SPECIES
-=======
+# Ellisembia macrotricha (Corda) Subram. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus hyperella Fr. SPECIES
-=======
+# Agaricus hyperellus Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Elench. fung. (Greifswald) 1: 35 (1828)
 
 #### Original name
-Agaricus hyperella Fr.
+Agaricus hyperellus Fr.
 
 ### Remarks
 null

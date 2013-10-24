@@ -1,5 +1,4 @@
-Marasmiellus paraensis Singer SPECIES
-=======
+# Marasmiellus paraensis Singer SPECIES
 
 #### Status
 ACCEPTED

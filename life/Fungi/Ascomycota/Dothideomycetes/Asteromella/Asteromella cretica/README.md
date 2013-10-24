@@ -1,5 +1,4 @@
-Asteromella cretica Petr. SPECIES
-=======
+# Asteromella cretica Petr. SPECIES
 
 #### Status
 ACCEPTED

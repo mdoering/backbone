@@ -1,5 +1,4 @@
-Belonidium corticola Jaap SPECIES
-=======
+# Belonidium corticola Jaap SPECIES
 
 #### Status
 ACCEPTED

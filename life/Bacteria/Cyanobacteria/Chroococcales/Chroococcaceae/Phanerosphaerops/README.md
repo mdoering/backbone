@@ -1,5 +1,4 @@
-Phanerosphaerops Schopf & Blacic GENUS
-=======
+# Phanerosphaerops Schopf & Blacic GENUS
 
 #### Status
 ACCEPTED

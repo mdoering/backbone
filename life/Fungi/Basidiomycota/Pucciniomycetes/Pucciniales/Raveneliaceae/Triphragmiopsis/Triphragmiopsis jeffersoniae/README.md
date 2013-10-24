@@ -1,14 +1,13 @@
-Triphragmium jeffersoniae (Naumov) Sacc. & Trotter, 1925 SPECIES
-=======
+# Triphragmiopsis jeffersoniae Naumov, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 827 (1925)
+Bull. Soc. mycol. Fr. 30: (1914)
 
 #### Original name
 Triphragmiopsis jeffersoniae Naumov, 1914

@@ -1,5 +1,4 @@
-Clitocybe albiformis Murrill SPECIES
-=======
+# Clitocybe albiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudothis geralensis (Rehm) Theiss. & Syd. SPECIES
-=======
+# Pseudothis geralensis (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella puiggarii Speg., 1919 SPECIES
-=======
+# Anthostomella puiggarii Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

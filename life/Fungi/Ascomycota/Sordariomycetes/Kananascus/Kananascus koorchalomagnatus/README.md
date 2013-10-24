@@ -1,5 +1,4 @@
-Kananascus koorchalomagnatus Nag Raj, 1984 SPECIES
-=======
+# Kananascus koorchalomagnatus Nag Raj, 1984 SPECIES
 
 #### Status
 ACCEPTED

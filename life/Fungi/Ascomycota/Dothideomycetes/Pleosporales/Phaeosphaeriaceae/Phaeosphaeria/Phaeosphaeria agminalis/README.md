@@ -1,5 +1,4 @@
-Phaeosphaeria agminalis (Sacc. & Morthier) Tomilin SPECIES
-=======
+# Phaeosphaeria agminalis (Sacc. & Morthier) Tomilin SPECIES
 
 #### Status
 ACCEPTED

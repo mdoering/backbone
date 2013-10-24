@@ -1,5 +1,4 @@
-Leptorhaphis stenomicra (Norman) H. Magn. SPECIES
-=======
+# Leptorhaphis stenomicra (Norman) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

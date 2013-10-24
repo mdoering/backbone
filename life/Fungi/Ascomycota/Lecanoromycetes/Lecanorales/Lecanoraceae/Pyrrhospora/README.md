@@ -1,5 +1,4 @@
-Pyrrhospora Körb. GENUS
-=======
+# Pyrrhospora Körb. GENUS
 
 #### Status
 ACCEPTED

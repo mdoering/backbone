@@ -1,5 +1,4 @@
-Rhodotorula ludwigii (H.W. Anderson) Krassiln. SPECIES
-=======
+# Rhodotorula ludwigii (H.W. Anderson) Krassiln. SPECIES
 
 #### Status
 ACCEPTED

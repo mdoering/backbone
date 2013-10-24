@@ -1,14 +1,13 @@
-Venturia rosae De Not., 1844 SPECIES
-=======
+# Gibbera rosae (De Not.) E. Müll. & R. Menon, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 25: 194 (1955)
 
 #### Original name
 Venturia rosae De Not., 1844

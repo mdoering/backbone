@@ -1,5 +1,4 @@
-Septomyxa populina (Peck) Arx SPECIES
-=======
+# Septomyxa populina (Peck) Arx SPECIES
 
 #### Status
 ACCEPTED

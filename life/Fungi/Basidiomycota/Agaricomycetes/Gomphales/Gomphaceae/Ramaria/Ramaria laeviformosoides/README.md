@@ -1,5 +1,4 @@
-Ramaria laeviformosoides R.H. Petersen & M. Zang, 1989 SPECIES
-=======
+# Ramaria laeviformosoides R.H. Petersen & M. Zang, 1989 SPECIES
 
 #### Status
 ACCEPTED

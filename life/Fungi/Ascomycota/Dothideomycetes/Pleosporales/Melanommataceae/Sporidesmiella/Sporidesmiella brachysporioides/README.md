@@ -1,5 +1,4 @@
-Sporidesmiella brachysporioides T.Y. Zhang & W.B. Kendr. SPECIES
-=======
+# Sporidesmiella brachysporioides T.Y. Zhang & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

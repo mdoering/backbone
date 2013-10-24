@@ -1,5 +1,4 @@
-Lichen diacaspis Sm. & Sowerby SPECIES
-=======
+# Lichen diacaspis Sm. & Sowerby SPECIES
 
 #### Status
 ACCEPTED

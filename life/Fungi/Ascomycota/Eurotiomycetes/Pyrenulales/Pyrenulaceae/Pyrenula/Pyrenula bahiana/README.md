@@ -1,5 +1,4 @@
-Pyrenula bahiana Malme SPECIES
-=======
+# Pyrenula bahiana Malme SPECIES
 
 #### Status
 ACCEPTED

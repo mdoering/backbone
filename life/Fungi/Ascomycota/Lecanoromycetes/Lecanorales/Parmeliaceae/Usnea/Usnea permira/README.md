@@ -1,5 +1,4 @@
-Usnea permira Motyka SPECIES
-=======
+# Usnea permira Motyka SPECIES
 
 #### Status
 ACCEPTED

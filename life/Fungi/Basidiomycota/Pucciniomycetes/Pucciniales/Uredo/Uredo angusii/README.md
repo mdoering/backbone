@@ -1,5 +1,4 @@
-Uredo angusii Cummins SPECIES
-=======
+# Uredo angusii Cummins SPECIES
 
 #### Status
 ACCEPTED

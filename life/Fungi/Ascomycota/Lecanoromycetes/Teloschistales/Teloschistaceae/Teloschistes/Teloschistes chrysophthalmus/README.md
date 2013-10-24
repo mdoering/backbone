@@ -1,8 +1,7 @@
-Physcia chrysophthalma f. flavoalbida Kremp. FORM
-=======
+# Teloschistes chrysophthalmus (L.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lichen chrysophthalmus L.
 
 ### Remarks
 null

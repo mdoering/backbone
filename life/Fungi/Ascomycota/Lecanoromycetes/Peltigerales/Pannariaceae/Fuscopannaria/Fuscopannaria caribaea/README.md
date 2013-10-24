@@ -1,17 +1,16 @@
-Fuscopannaria caribbea Øvstedal SPECIES
-=======
+# Fuscopannaria caribaea Øvstedal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Øvstedal & Elix, Mycotaxon 99: 92 (2007)
 
 #### Original name
-Fuscopannaria caribbea Øvstedal
+Fuscopannaria caribaea Øvstedal
 
 ### Remarks
 null

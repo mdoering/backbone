@@ -1,5 +1,4 @@
-Amanita sordidoides E.H.L. Krause SPECIES
-=======
+# Amanita sordidoides E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

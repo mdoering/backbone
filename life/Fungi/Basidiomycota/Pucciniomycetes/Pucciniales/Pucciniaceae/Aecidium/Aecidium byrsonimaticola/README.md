@@ -1,5 +1,4 @@
-Aecidium byrsonimaticola Henn. SPECIES
-=======
+# Aecidium byrsonimaticola Henn. SPECIES
 
 #### Status
 ACCEPTED

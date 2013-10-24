@@ -1,5 +1,4 @@
-Leccinum broughii A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum broughii A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

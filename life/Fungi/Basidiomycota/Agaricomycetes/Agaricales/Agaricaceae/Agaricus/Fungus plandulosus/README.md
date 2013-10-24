@@ -1,5 +1,4 @@
-Fungus plandulosus Scop. SPECIES
-=======
+# Fungus plandulosus Scop. SPECIES
 
 #### Status
 ACCEPTED

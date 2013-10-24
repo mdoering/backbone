@@ -1,5 +1,4 @@
-Microbacterium pumilum Kageyama et al., 2006 SPECIES
-=======
+# Microbacterium pumilum Kageyama et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

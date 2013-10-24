@@ -1,5 +1,4 @@
-Ustilago andropogonis-tuberculati Bref. SPECIES
-=======
+# Ustilago andropogonis-tuberculati Bref. SPECIES
 
 #### Status
 ACCEPTED

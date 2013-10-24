@@ -1,5 +1,4 @@
-Leptosphaeria senecionis (Fuckel) G. Winter SPECIES
-=======
+# Leptosphaeria senecionis (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

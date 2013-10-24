@@ -1,5 +1,4 @@
-Cristigera minuta Kahl, 1928 SPECIES
-=======
+# Cristigera minuta Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

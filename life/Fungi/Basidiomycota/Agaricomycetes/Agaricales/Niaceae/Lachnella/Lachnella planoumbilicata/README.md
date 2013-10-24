@@ -1,5 +1,4 @@
-Lachnella planoumbilicata (Grev.) W. Phillips SPECIES
-=======
+# Lachnella planoumbilicata (Grev.) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Myxomycidium limpidum R. Heim, 1960 SPECIES
-=======
+# Gloeomucro limpidus (R. Heim) R.H. Petersen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 25: 42 (1960)
+Mycologia 72(2): 303 (1980)
 
 #### Original name
 Myxomycidium limpidum R. Heim, 1960

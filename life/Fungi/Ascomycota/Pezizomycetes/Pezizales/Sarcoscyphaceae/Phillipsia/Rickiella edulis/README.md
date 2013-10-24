@@ -1,5 +1,4 @@
-Rickiella edulis (Speg.) Pfister SPECIES
-=======
+# Rickiella edulis (Speg.) Pfister SPECIES
 
 #### Status
 ACCEPTED

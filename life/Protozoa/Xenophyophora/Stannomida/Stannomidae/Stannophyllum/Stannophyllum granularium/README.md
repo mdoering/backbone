@@ -1,5 +1,4 @@
-Stannophyllum granularium Tendal, 1972 SPECIES
-=======
+# Stannophyllum granularium Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

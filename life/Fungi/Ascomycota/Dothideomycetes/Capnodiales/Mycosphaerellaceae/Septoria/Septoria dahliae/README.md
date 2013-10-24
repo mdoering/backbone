@@ -1,5 +1,4 @@
-Septoria dahliae Dzhalag. SPECIES
-=======
+# Septoria dahliae Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

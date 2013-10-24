@@ -1,5 +1,4 @@
-Allophylaria pusiola (P. Karst.) Nannf. SPECIES
-=======
+# Allophylaria pusiola (P. Karst.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

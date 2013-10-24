@@ -1,5 +1,4 @@
-Fomes boninianus Pat. SPECIES
-=======
+# Fomes boninianus Pat. SPECIES
 
 #### Status
 ACCEPTED

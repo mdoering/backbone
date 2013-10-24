@@ -1,8 +1,7 @@
-Coniothyrium ginkgoi Schwarzman SPECIES
-=======
+# Coniothyrium ginkgoina Schwarzman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium ginkgoi Schwarzman
+Coniothyrium ginkgoina Schwarzman
 
 ### Remarks
 null

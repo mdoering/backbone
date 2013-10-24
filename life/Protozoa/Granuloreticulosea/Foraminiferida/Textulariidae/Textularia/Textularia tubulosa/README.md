@@ -1,5 +1,4 @@
-Textularia tubulosa Zheng, 1980 SPECIES
-=======
+# Textularia tubulosa Zheng, 1980 SPECIES
 
 #### Status
 ACCEPTED

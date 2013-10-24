@@ -1,5 +1,4 @@
-Clitocybe subfestiva Kalamees SPECIES
-=======
+# Clitocybe subfestiva Kalamees SPECIES
 
 #### Status
 ACCEPTED

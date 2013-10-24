@@ -1,5 +1,4 @@
-Pyrenochaeta putaminis Kirschst. SPECIES
-=======
+# Pyrenochaeta putaminis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

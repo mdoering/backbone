@@ -1,5 +1,4 @@
-Chaetoplea gregaria Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Chaetoplea gregaria Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

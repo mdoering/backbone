@@ -1,14 +1,13 @@
-Sarcoscypha striatispora W.Y. Zhuang, 1991 SPECIES
-=======
+# Nanoscypha striatispora (W.Y. Zhuang) F.A. Harr., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 40: 45 (1991)
+Mycologia 90(2): 239 (1998)
 
 #### Original name
 Sarcoscypha striatispora W.Y. Zhuang, 1991

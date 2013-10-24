@@ -1,14 +1,13 @@
-Leptotrema submicrosporoides Nagarkar, Sethy & Patw. SPECIES
-=======
+# Ocellularia submicrosporoides (Nagarkar, Sethy & Patw.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 29: 336 (1987)
+Biblthca Lichenol. 40: 3 (1991)
 
 #### Original name
 Leptotrema submicrosporoides Nagarkar, Sethy & Patw.

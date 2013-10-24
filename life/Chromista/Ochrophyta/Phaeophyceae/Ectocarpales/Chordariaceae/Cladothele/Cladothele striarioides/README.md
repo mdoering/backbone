@@ -1,8 +1,7 @@
-Cladothele decaisnei var. striarioides Skottsberg VARIETY
-=======
+# Cladothele striarioides (Skottsberg) A.D.Zinova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

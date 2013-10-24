@@ -1,5 +1,4 @@
-Monoporisporites cupuliformis Sheffy & Dilcher SPECIES
-=======
+# Monoporisporites cupuliformis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

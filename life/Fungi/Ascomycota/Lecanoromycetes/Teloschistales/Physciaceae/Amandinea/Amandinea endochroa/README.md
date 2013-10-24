@@ -1,17 +1,16 @@
-Amandinea endachroa (Malme) Marbach SPECIES
-=======
+# Amandinea endochroa (Malme) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 66 (2000)
 
 #### Original name
-Buellia endachroa Malme
+Buellia endochroa Malme
 
 ### Remarks
 null

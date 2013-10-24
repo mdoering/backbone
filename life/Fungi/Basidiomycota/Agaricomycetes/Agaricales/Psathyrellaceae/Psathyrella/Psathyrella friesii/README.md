@@ -1,17 +1,16 @@
-Psathyra fibrillosa var. fibrillosa VARIETY
-=======
+# Psathyrella friesii Kits van Wav., 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 9(2): 282 (1977)
 
 #### Original name
-Psathyra fibrillosa var. fibrillosa
+Psathyrella friesii Kits van Wav., 1977
 
 ### Remarks
 null

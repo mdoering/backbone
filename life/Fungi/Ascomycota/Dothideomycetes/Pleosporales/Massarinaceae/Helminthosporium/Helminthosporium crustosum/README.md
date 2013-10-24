@@ -1,5 +1,4 @@
-Helminthosporium crustosum Schwein. SPECIES
-=======
+# Helminthosporium crustosum Schwein. SPECIES
 
 #### Status
 ACCEPTED

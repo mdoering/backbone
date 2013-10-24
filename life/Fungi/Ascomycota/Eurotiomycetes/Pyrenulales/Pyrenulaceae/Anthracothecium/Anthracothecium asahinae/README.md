@@ -1,5 +1,4 @@
-Anthracothecium asahinae Kashiw. & Kurok. SPECIES
-=======
+# Anthracothecium asahinae Kashiw. & Kurok. SPECIES
 
 #### Status
 ACCEPTED

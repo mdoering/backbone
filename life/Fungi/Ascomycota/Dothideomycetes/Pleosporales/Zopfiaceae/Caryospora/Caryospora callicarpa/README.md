@@ -1,5 +1,4 @@
-Caryospora callicarpa (Curr.) Nitschke ex Fuckel, 1866 SPECIES
-=======
+# Caryospora callicarpa (Curr.) Nitschke ex Fuckel, 1866 SPECIES
 
 #### Status
 ACCEPTED

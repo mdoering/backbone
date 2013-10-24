@@ -1,5 +1,4 @@
-Cercospora isoplexidis Jørst. SPECIES
-=======
+# Cercospora isoplexidis Jørst. SPECIES
 
 #### Status
 ACCEPTED

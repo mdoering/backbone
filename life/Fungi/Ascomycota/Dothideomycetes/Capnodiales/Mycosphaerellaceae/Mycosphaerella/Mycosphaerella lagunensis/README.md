@@ -1,5 +1,4 @@
-Mycosphaerella lagunensis Syd. SPECIES
-=======
+# Mycosphaerella lagunensis Syd. SPECIES
 
 #### Status
 ACCEPTED

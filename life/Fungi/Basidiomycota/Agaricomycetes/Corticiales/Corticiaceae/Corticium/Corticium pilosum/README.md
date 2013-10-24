@@ -1,5 +1,4 @@
-Corticium pilosum Burt SPECIES
-=======
+# Corticium pilosum Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula pituitosa Kirschst. SPECIES
-=======
+# Hymenula pituitosa Kirschst. SPECIES
 
 #### Status
 ACCEPTED

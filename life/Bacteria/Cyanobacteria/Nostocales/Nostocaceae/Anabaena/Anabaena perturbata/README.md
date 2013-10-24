@@ -1,5 +1,4 @@
-Anabaena perturbata var. tumida (Nygaard) Cronberg & Komárek VARIETY
-=======
+# Anabaena perturbata Hill, 1976 SPECIES
 
 #### Status
 ACCEPTED

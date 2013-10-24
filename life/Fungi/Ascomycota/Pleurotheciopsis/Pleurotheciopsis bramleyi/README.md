@@ -1,5 +1,4 @@
-Pleurotheciopsis bramleyi B. Sutton, 1973 SPECIES
-=======
+# Pleurotheciopsis bramleyi B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

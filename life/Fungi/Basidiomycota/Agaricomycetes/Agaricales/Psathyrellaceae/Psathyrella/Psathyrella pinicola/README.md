@@ -1,5 +1,4 @@
-Psathyrella pinicola A.H. Sm. SPECIES
-=======
+# Psathyrella pinicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

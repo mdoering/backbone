@@ -1,5 +1,4 @@
-Mammalian Prions FAMILY
-=======
+# Mammalian Prions FAMILY
 
 #### Status
 ACCEPTED

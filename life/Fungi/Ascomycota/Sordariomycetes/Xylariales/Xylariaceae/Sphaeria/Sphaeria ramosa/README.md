@@ -1,5 +1,4 @@
-Sphaeria ramosa Sowerby SPECIES
-=======
+# Sphaeria ramosa Sowerby SPECIES
 
 #### Status
 ACCEPTED

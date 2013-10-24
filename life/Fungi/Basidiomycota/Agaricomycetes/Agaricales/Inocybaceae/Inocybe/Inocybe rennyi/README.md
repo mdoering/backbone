@@ -1,17 +1,16 @@
-Astrosporina rennyi var. rennyi (Berk. & Broome) Rea VARIETY
-=======
+# Inocybe rennyi (Berk. & Broome) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 212 (1922)
+Syll. fung. (Abellini) 5: 788 (1887)
 
 #### Original name
-Astrosporina rennyi var. rennyi (Berk. & Broome) Rea
+Agaricus rennyi Berk. & Broome, 1879
 
 ### Remarks
 null

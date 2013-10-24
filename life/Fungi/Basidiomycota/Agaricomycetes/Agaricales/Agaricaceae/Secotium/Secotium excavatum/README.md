@@ -1,5 +1,4 @@
-Secotium excavatum Kalchbr. SPECIES
-=======
+# Secotium excavatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

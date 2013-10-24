@@ -1,5 +1,4 @@
-Bodo minimus Klebs SPECIES
-=======
+# Bodo minimus Klebs SPECIES
 
 #### Status
 ACCEPTED

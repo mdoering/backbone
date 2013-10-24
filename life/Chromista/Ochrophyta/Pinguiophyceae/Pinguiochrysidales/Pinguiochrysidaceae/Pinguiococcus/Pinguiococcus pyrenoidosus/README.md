@@ -1,5 +1,4 @@
-Pinguiococcus pyrenoidosus Anderson, R.A., Potter, D. & Bailey, J.C. SPECIES
-=======
+# Pinguiococcus pyrenoidosus Anderson, R.A., Potter, D. & Bailey, J.C. SPECIES
 
 #### Status
 ACCEPTED

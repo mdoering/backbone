@@ -1,5 +1,4 @@
-Caloplaca aurantiaca f. aurantiaca FORM
-=======
+# Caloplaca aurantiaca SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 219 (1861)
+null
 
 #### Original name
-Lichen aurantiacus Lightf.
+null
 
 ### Remarks
 null

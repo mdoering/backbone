@@ -1,5 +1,4 @@
-Pocillaria foetens (Fr.) Kuntze SPECIES
-=======
+# Pocillaria foetens (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

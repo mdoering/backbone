@@ -1,5 +1,4 @@
-Gymnopilus pusillus (Peck) Murrill SPECIES
-=======
+# Gymnopilus pusillus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

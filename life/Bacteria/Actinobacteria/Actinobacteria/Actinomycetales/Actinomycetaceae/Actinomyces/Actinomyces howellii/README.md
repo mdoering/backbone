@@ -1,5 +1,4 @@
-Actinomyces howellii Dent & Williams, 1984 SPECIES
-=======
+# Actinomyces howellii Dent & Williams, 1984 SPECIES
 
 #### Status
 ACCEPTED

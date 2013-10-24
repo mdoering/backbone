@@ -1,5 +1,4 @@
-Prillieuxia avellanea Rick SPECIES
-=======
+# Prillieuxia avellanea Rick SPECIES
 
 #### Status
 ACCEPTED

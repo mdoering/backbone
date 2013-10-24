@@ -1,5 +1,4 @@
-Lophiostoma subcorticale var. subcorticale VARIETY
-=======
+# Lophiostoma subcorticale Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 157 (1870)
 
 #### Original name
-Lophiostoma subcorticale var. subcorticale
+Lophiostoma subcorticale Fuckel
 
 ### Remarks
 null

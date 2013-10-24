@@ -1,5 +1,4 @@
-Parmelia thamnidiella Stirt. SPECIES
-=======
+# Parmelia thamnidiella Stirt. SPECIES
 
 #### Status
 ACCEPTED

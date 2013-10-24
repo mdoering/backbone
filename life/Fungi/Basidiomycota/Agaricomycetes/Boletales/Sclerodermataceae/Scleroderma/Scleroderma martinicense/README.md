@@ -1,5 +1,4 @@
-Scleroderma martinicense (Pat.) Sacc. & D. Sacc. SPECIES
-=======
+# Scleroderma martinicense (Pat.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

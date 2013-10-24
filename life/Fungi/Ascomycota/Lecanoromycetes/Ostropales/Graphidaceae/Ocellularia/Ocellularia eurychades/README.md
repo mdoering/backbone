@@ -1,14 +1,13 @@
-Phaeotrema eurychades (Kremp.) Zahlbr. SPECIES
-=======
+# Ocellularia eurychades (Kremp.) Nagarkar & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 606 (1923)
+Mycotaxon 35(2): 442 (1989)
 
 #### Original name
 Thelotrema eurychades Kremp.

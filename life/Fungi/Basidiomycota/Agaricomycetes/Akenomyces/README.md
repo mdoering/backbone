@@ -1,5 +1,4 @@
-Akenomyces G. Arnaud ex D. Hornby GENUS
-=======
+# Akenomyces G. Arnaud ex D. Hornby GENUS
 
 #### Status
 ACCEPTED

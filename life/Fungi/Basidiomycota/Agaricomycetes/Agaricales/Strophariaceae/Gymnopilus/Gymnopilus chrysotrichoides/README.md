@@ -1,5 +1,4 @@
-Gymnopilus chrysotrichoides Murrill SPECIES
-=======
+# Gymnopilus chrysotrichoides Murrill SPECIES
 
 #### Status
 ACCEPTED

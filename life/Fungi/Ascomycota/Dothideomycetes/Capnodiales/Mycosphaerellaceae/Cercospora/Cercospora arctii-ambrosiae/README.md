@@ -1,17 +1,16 @@
-Cercospora arcti-ambrosiae Halst. SPECIES
-=======
+# Cercospora arctii-ambrosiae Halst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 20: 251 (1893)
 
 #### Original name
-Cercospora arcti-ambrosiae Halst.
+Cercospora arctii-ambrosiae Halst.
 
 ### Remarks
 null

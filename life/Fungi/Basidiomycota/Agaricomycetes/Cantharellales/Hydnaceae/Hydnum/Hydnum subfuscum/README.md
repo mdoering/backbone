@@ -1,5 +1,4 @@
-Hydnum subfuscum House SPECIES
-=======
+# Hydnum subfuscum House SPECIES
 
 #### Status
 ACCEPTED

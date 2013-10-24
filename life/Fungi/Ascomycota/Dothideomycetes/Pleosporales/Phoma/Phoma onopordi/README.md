@@ -1,5 +1,4 @@
-Phoma onopordi Politis SPECIES
-=======
+# Phoma onopordi Politis SPECIES
 
 #### Status
 ACCEPTED

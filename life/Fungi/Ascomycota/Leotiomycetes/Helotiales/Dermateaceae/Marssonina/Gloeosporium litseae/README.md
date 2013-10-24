@@ -1,5 +1,4 @@
-Gloeosporium litseae Petch SPECIES
-=======
+# Gloeosporium litseae Petch SPECIES
 
 #### Status
 ACCEPTED

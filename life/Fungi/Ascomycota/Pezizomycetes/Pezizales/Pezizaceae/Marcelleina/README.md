@@ -1,5 +1,4 @@
-Marcelleina van Brummelen, Korf & Rifai, 1967 GENUS
-=======
+# Marcelleina van Brummelen, Korf & Rifai, 1967 GENUS
 
 #### Status
 ACCEPTED

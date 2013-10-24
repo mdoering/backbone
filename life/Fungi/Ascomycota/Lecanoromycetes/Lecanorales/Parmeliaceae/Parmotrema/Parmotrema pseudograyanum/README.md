@@ -1,17 +1,16 @@
-Parmelia pseudograyana Hale SPECIES
-=======
+# Parmotrema pseudograyanum (Hale) Sérus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 87(1): 8 (1984)
 
 #### Original name
-null
+Parmelia pseudograyana Hale
 
 ### Remarks
 null

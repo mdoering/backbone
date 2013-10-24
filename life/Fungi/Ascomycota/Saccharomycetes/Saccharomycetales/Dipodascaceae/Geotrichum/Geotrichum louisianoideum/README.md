@@ -1,5 +1,4 @@
-Geotrichum louisianoideum Castell. SPECIES
-=======
+# Geotrichum louisianoideum Castell. SPECIES
 
 #### Status
 ACCEPTED

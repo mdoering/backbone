@@ -1,5 +1,4 @@
-Isthmochloron H.Skuja, 1948 GENUS
-=======
+# Isthmochloron H.Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

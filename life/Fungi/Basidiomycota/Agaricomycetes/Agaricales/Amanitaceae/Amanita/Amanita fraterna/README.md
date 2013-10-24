@@ -1,5 +1,4 @@
-Amanita fraterna (Murrill) Murrill SPECIES
-=======
+# Amanita fraterna (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

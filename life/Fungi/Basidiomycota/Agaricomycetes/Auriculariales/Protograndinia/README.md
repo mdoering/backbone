@@ -1,5 +1,4 @@
-Protograndinia GENUS
-=======
+# Protograndinia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma arctotis Vánky, 2000 SPECIES
-=======
+# Entyloma arctotis Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophora heteroidea Ach. SPECIES
-=======
+# Gyrophora heteroidea Ach. SPECIES
 
 #### Status
 ACCEPTED

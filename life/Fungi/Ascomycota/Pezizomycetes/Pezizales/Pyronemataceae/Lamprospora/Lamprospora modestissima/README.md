@@ -1,5 +1,4 @@
-Lamprospora modestissima Grelet SPECIES
-=======
+# Lamprospora modestissima Grelet SPECIES
 
 #### Status
 ACCEPTED

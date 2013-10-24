@@ -1,5 +1,4 @@
-Strumella elongata Bres. SPECIES
-=======
+# Strumella elongata Bres. SPECIES
 
 #### Status
 ACCEPTED

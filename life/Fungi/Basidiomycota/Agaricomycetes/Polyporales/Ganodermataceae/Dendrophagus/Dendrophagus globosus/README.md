@@ -1,5 +1,4 @@
-Dendrophagus globosus Toumey SPECIES
-=======
+# Dendrophagus globosus Toumey SPECIES
 
 #### Status
 ACCEPTED

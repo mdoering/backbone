@@ -1,5 +1,4 @@
-Phomopsis cephaelidis (Bond.-Mont.) Aa & Vanev SPECIES
-=======
+# Phomopsis cephaelidis (Bond.-Mont.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cupreoviolaceus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius cupreoviolaceus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

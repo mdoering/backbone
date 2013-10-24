@@ -1,5 +1,4 @@
-Pseudocercospora solenostemonis (J.M. Yen & Gilles) Deighton SPECIES
-=======
+# Pseudocercospora solenostemonis (J.M. Yen & Gilles) Deighton SPECIES
 
 #### Status
 ACCEPTED

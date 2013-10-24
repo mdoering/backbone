@@ -1,5 +1,4 @@
-Massarina japonica Kaz. Tanaka & Y. Harada, 2003 SPECIES
-=======
+# Massarina japonica Kaz. Tanaka & Y. Harada, 2003 SPECIES
 
 #### Status
 ACCEPTED

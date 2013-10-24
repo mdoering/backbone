@@ -1,5 +1,4 @@
-Trypethelium sphaerocephalum (Vain.) Zahlbr. SPECIES
-=======
+# Trypethelium sphaerocephalum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

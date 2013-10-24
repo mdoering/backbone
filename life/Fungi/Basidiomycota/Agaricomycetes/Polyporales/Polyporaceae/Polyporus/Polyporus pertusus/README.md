@@ -1,5 +1,4 @@
-Polyporus pertusus Pers. SPECIES
-=======
+# Polyporus pertusus Pers. SPECIES
 
 #### Status
 ACCEPTED

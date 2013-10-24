@@ -1,5 +1,4 @@
-Septoria purpurascens Ellis & G. Martin SPECIES
-=======
+# Septoria purpurascens Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

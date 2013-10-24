@@ -1,5 +1,4 @@
-Caloplaca almbornii Kärnefelt SPECIES
-=======
+# Caloplaca almbornii Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

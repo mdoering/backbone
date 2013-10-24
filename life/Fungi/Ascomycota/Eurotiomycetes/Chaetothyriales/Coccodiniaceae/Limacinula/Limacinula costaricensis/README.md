@@ -1,5 +1,4 @@
-Limacinula costaricensis (Speg.) Theiss. SPECIES
-=======
+# Limacinula costaricensis (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudographiella variaseptata E.F. Morris SPECIES
-=======
+# Pseudographiella variiseptata E.F. Morris, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 28: 97 (1966)
 
 #### Original name
-Pseudographiella variaseptata E.F. Morris
+Pseudographiella variiseptata E.F. Morris, 1966
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polyactis botryoidea Bonord. SPECIES
-=======
+# Polyactis botryoidea Bonord. SPECIES
 
 #### Status
 ACCEPTED

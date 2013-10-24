@@ -1,5 +1,4 @@
-Chondrostereum Pouzar, 1959 GENUS
-=======
+# Chondrostereum Pouzar, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria primulicola Rostr. SPECIES
-=======
+# Septoria primulicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

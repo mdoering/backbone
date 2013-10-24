@@ -1,5 +1,4 @@
-Lecidea nubilior Stirt. SPECIES
-=======
+# Lecidea nubilior Stirt. SPECIES
 
 #### Status
 ACCEPTED

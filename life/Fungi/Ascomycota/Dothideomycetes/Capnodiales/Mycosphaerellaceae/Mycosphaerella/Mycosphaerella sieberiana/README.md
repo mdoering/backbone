@@ -1,5 +1,4 @@
-Mycosphaerella sieberiana Sivan. SPECIES
-=======
+# Mycosphaerella sieberiana Sivan. SPECIES
 
 #### Status
 ACCEPTED

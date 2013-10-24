@@ -1,5 +1,4 @@
-Pseudocercospora pterocaryae Y.L. Guo & W.X. Zhao SPECIES
-=======
+# Pseudocercospora pterocaryae Y.L. Guo & W.X. Zhao SPECIES
 
 #### Status
 ACCEPTED

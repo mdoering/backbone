@@ -1,5 +1,4 @@
-Ectothiorhodospira vacuolata Imhoff et al., 1982 SPECIES
-=======
+# Ectothiorhodospira vacuolata Imhoff et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

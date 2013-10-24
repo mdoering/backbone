@@ -1,5 +1,4 @@
-Gymnosporangium aurantiacum Syd. & P. Syd., 1904 SPECIES
-=======
+# Gymnosporangium aurantiacum Syd. & P. Syd., 1904 SPECIES
 
 #### Status
 ACCEPTED

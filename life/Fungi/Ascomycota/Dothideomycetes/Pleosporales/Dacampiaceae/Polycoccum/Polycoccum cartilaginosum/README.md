@@ -1,5 +1,4 @@
-Polycoccum cartilaginosum (Arnold) D. Hawksw. SPECIES
-=======
+# Polycoccum cartilaginosum (Arnold) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

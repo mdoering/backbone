@@ -1,5 +1,4 @@
-Uncinula afrormosiae (Piroz.) U. Braun SPECIES
-=======
+# Uncinula afrormosiae (Piroz.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

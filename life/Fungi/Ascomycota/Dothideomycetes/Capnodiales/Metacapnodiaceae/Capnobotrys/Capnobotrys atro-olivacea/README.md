@@ -1,5 +1,4 @@
-Capnobotrys atro-olivacea S. Hughes, 1981 SPECIES
-=======
+# Capnobotrys atro-olivacea S. Hughes, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comoclathris xerophila (Speg.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris xerophila (Speg.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

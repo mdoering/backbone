@@ -1,5 +1,4 @@
-Lecidea pachycheila Tuck. SPECIES
-=======
+# Lecidea pachycheila Tuck. SPECIES
 
 #### Status
 ACCEPTED

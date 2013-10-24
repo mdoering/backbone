@@ -1,5 +1,4 @@
-Asteroma pseudoplatani Butin & Wulf SPECIES
-=======
+# Asteroma pseudoplatani Butin & Wulf SPECIES
 
 #### Status
 ACCEPTED

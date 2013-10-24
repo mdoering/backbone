@@ -1,5 +1,4 @@
-Entoloma subtruncatum Peck SPECIES
-=======
+# Entoloma subtruncatum Peck SPECIES
 
 #### Status
 ACCEPTED

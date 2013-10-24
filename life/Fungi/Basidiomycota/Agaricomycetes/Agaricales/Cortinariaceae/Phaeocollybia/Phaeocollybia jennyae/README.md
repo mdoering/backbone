@@ -1,5 +1,4 @@
-Phaeocollybia jennyae (P. Karst.) Romagn., 1944 SPECIES
-=======
+# Phaeocollybia jennyae (P. Karst.) Romagn., 1944 SPECIES
 
 #### Status
 ACCEPTED

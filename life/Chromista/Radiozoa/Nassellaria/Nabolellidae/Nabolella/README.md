@@ -1,5 +1,4 @@
-Nabolella Petrushevskaya, 1981 GENUS
-=======
+# Nabolella Petrushevskaya, 1981 GENUS
 
 #### Status
 ACCEPTED

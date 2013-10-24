@@ -1,5 +1,4 @@
-Psathyrella fimiseda Örstadius & E. Larss. SPECIES
-=======
+# Psathyrella fimiseda Örstadius & E. Larss. SPECIES
 
 #### Status
 ACCEPTED

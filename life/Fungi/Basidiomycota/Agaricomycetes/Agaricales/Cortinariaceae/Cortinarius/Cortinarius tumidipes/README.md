@@ -1,5 +1,4 @@
-Cortinarius tumidipes M.M. Moser SPECIES
-=======
+# Cortinarius tumidipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

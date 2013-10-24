@@ -1,5 +1,4 @@
-Chitonomyces aripensis Thaxt. SPECIES
-=======
+# Chitonomyces aripensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

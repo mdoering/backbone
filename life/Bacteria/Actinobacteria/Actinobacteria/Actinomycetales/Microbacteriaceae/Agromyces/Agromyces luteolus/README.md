@@ -1,5 +1,4 @@
-Agromyces luteolus Takeuchi & Hatano, 2001 SPECIES
-=======
+# Agromyces luteolus Takeuchi & Hatano, 2001 SPECIES
 
 #### Status
 ACCEPTED

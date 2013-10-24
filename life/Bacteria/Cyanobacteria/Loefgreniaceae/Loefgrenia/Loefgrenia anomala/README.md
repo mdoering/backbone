@@ -1,5 +1,4 @@
-Loefgrenia anomala Gomont SPECIES
-=======
+# Loefgrenia anomala Gomont SPECIES
 
 #### Status
 ACCEPTED

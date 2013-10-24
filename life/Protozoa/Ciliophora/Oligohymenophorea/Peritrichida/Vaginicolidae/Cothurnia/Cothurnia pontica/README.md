@@ -1,5 +1,4 @@
-Cothurnia pontica SPECIES
-=======
+# Cothurnia pontica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum armatum J. Agardh SPECIES
-=======
+# Sargassum armatum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

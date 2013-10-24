@@ -1,5 +1,4 @@
-Spiculogloea occulta P. Roberts, 1996 SPECIES
-=======
+# Spiculogloea occulta P. Roberts, 1996 SPECIES
 
 #### Status
 ACCEPTED

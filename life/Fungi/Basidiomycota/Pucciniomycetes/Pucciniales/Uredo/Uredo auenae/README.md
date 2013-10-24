@@ -1,5 +1,4 @@
-Uredo auenae Corda SPECIES
-=======
+# Uredo auenae Corda SPECIES
 
 #### Status
 ACCEPTED

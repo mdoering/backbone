@@ -1,5 +1,4 @@
-Laccaria flavobrunnea Lebedeva SPECIES
-=======
+# Laccaria flavobrunnea Lebedeva SPECIES
 
 #### Status
 ACCEPTED

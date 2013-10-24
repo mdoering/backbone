@@ -1,5 +1,4 @@
-Capsularis Prévot, 1938 (Approved Lists, 1980) GENUS
-=======
+# Capsularis Prévot, 1938 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

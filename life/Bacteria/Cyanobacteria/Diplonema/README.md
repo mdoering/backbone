@@ -1,5 +1,4 @@
-Diplonema GENUS
-=======
+# Diplonema GENUS
 
 #### Status
 ACCEPTED

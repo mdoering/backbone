@@ -1,5 +1,4 @@
-Caloplaca rosei Hasse SPECIES
-=======
+# Caloplaca rosei Hasse SPECIES
 
 #### Status
 ACCEPTED

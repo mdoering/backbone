@@ -1,5 +1,4 @@
-Massaria maculata (Wallr.) Sacc. SPECIES
-=======
+# Massaria maculata (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

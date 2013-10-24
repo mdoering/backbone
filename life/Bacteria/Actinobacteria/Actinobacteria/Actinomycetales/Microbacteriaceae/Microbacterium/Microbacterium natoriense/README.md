@@ -1,5 +1,4 @@
-Microbacterium natoriense Liu et al., 2005 SPECIES
-=======
+# Microbacterium natoriense Liu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

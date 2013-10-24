@@ -1,5 +1,4 @@
-Sphaeria subbullans Schwein. SPECIES
-=======
+# Sphaeria subbullans Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parastigmatea polyadelpha (Syd.) Arx & E. Müll. SPECIES
-=======
+# Parastigmatea polyadelpha (Syd.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

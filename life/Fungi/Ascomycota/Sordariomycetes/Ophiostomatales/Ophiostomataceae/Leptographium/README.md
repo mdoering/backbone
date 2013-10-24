@@ -1,5 +1,4 @@
-Leptographium Lagerb. & Melin GENUS
-=======
+# Leptographium Lagerb. & Melin GENUS
 
 #### Status
 ACCEPTED

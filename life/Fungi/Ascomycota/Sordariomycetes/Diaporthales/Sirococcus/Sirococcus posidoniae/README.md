@@ -1,5 +1,4 @@
-Sirococcus posidoniae Rolland SPECIES
-=======
+# Sirococcus posidoniae Rolland SPECIES
 
 #### Status
 ACCEPTED

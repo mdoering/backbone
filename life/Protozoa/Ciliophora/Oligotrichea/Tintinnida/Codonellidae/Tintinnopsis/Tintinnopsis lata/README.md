@@ -1,5 +1,4 @@
-Tintinnopsis lata Meunier, 1910 SPECIES
-=======
+# Tintinnopsis lata Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

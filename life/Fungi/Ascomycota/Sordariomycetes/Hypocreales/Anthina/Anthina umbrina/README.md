@@ -1,5 +1,4 @@
-Anthina umbrina (Pers.) Fr. SPECIES
-=======
+# Anthina umbrina (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

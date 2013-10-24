@@ -1,5 +1,4 @@
-Xanthoparmelia cotopaxiensis T. H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia cotopaxiensis T. H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

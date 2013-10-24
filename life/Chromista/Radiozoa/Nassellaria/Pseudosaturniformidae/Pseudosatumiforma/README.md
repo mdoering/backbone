@@ -1,5 +1,4 @@
-Pseudosatumiforma GENUS
-=======
+# Pseudosatumiforma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria castilleiae Clem. SPECIES
-=======
+# Leptosphaeria castilleiae Clem. SPECIES
 
 #### Status
 ACCEPTED

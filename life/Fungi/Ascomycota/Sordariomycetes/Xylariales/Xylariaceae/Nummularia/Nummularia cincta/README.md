@@ -1,5 +1,4 @@
-Nummularia cincta Ferd. & Winge SPECIES
-=======
+# Nummularia cincta Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

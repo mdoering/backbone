@@ -1,5 +1,4 @@
-Rostrupia praelonga Speg. SPECIES
-=======
+# Rostrupia praelonga Speg. SPECIES
 
 #### Status
 ACCEPTED

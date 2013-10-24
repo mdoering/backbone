@@ -1,5 +1,4 @@
-Calycellina angulata Svrcek SPECIES
-=======
+# Calycellina angulata Svrcek SPECIES
 
 #### Status
 ACCEPTED

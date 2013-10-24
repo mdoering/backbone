@@ -1,5 +1,4 @@
-Goniomonadales ORDER
-=======
+# Goniomonadales ORDER
 
 #### Status
 ACCEPTED

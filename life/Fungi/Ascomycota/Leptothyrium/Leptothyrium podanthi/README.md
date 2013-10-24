@@ -1,5 +1,4 @@
-Leptothyrium podanthi Bubák SPECIES
-=======
+# Leptothyrium podanthi Bubák SPECIES
 
 #### Status
 ACCEPTED

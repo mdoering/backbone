@@ -1,5 +1,4 @@
-Cenangium aureum Ellis & Everh. SPECIES
-=======
+# Cenangium aureum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

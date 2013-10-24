@@ -1,5 +1,4 @@
-Parendomyces pulmonalis Plant {?} SPECIES
-=======
+# Parendomyces pulmonalis Plant {?} SPECIES
 
 #### Status
 ACCEPTED

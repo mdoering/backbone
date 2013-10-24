@@ -1,5 +1,4 @@
-Dothiorella fabae Petr. & Syd. SPECIES
-=======
+# Dothiorella fabae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

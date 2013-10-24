@@ -1,5 +1,4 @@
-Rhizobium trifolii Dangeard, 1926 (Approved Lists, 1980) SPECIES
-=======
+# Rhizobium trifolii Dangeard, 1926 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

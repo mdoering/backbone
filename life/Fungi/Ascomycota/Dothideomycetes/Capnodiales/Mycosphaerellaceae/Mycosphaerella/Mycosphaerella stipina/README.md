@@ -1,5 +1,4 @@
-Mycosphaerella stipina Petr. SPECIES
-=======
+# Mycosphaerella stipina Petr. SPECIES
 
 #### Status
 ACCEPTED

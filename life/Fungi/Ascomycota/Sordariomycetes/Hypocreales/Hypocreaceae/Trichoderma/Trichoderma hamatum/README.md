@@ -1,5 +1,4 @@
-Trichoderma hamatum (Bonord.) Bainier, 1906 SPECIES
-=======
+# Trichoderma hamatum (Bonord.) Bainier, 1906 SPECIES
 
 #### Status
 ACCEPTED

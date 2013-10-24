@@ -1,5 +1,4 @@
-Staurolithites imbricatus SPECIES
-=======
+# Staurolithites imbricatus SPECIES
 
 #### Status
 ACCEPTED

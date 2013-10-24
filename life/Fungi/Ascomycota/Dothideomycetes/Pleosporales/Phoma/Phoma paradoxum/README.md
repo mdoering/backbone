@@ -1,5 +1,4 @@
-Phoma paradoxum Brunaud SPECIES
-=======
+# Phoma paradoxum Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haemogregarina polypartita Neumann, 1909 SPECIES
-=======
+# Haemogregarina polypartita Neumann, 1909 SPECIES
 
 #### Status
 ACCEPTED

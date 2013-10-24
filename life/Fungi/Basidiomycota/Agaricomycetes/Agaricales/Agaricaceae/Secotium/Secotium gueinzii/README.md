@@ -1,5 +1,4 @@
-Secotium gueinzii Kunze, 1840 SPECIES
-=======
+# Secotium gueinzii Kunze, 1840 SPECIES
 
 #### Status
 ACCEPTED

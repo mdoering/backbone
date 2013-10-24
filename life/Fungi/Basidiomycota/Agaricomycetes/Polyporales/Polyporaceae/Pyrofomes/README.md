@@ -1,5 +1,4 @@
-Pyrofomes Kotl. & Pouzar GENUS
-=======
+# Pyrofomes Kotl. & Pouzar GENUS
 
 #### Status
 ACCEPTED

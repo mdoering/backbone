@@ -1,5 +1,4 @@
-Gibberella tritici Henn. SPECIES
-=======
+# Gibberella tritici Henn. SPECIES
 
 #### Status
 ACCEPTED

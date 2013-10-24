@@ -1,5 +1,4 @@
-Lalaria ulmi R.T. Moore SPECIES
-=======
+# Lalaria ulmi R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

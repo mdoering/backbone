@@ -1,5 +1,4 @@
-Spathidium simulans Kahl, 1930 SPECIES
-=======
+# Spathidium simulans Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ameromassaria japonica Hara, 1918 SPECIES
-=======
+# Ameromassaria japonica Hara, 1918 SPECIES
 
 #### Status
 ACCEPTED

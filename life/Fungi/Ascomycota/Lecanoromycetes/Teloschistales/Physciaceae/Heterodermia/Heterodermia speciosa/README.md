@@ -1,17 +1,16 @@
-Anaptychia speciosa f. speciosa FORM
-=======
+# Heterodermia speciosa (Wulfen) Trevis. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memor. Lichenogr. 36 (1853)
+Atti Soc. ital. Sci. nat. (Modena) 11: 614 (1868)
 
 #### Original name
-Anaptychia speciosa f. speciosa
+Lichen speciosus Wulfen
 
 ### Remarks
 null

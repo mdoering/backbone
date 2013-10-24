@@ -1,5 +1,4 @@
-Ascochyta saccardoi Siemaszko SPECIES
-=======
+# Ascochyta saccardoi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

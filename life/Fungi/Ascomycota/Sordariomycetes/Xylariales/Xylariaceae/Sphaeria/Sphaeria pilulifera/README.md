@@ -1,5 +1,4 @@
-Sphaeria pilulifera Fr. SPECIES
-=======
+# Sphaeria pilulifera Fr. SPECIES
 
 #### Status
 ACCEPTED

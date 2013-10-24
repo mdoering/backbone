@@ -1,5 +1,4 @@
-Mucor pallidus Naumov SPECIES
-=======
+# Mucor pallidus Naumov SPECIES
 
 #### Status
 ACCEPTED

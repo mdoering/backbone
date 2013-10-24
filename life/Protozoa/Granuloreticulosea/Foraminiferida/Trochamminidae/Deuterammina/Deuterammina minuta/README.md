@@ -1,5 +1,4 @@
-Deuterammina minuta Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Deuterammina minuta Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

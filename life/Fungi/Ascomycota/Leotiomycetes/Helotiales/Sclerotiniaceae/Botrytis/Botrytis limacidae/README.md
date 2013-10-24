@@ -1,5 +1,4 @@
-Botrytis limacidae Lloyd SPECIES
-=======
+# Botrytis limacidae Lloyd SPECIES
 
 #### Status
 ACCEPTED

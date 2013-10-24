@@ -1,17 +1,16 @@
-Ditiola merulina (Pers.) Rea, 1922 SPECIES
-=======
+# Guepiniopsis buccina (Pers.) L.L. Kenn., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 743 (1922)
+Mycologia 50(6): 888 (1959)
 
 #### Original name
-Phialea merulina Pers., 1822
+null
 
 ### Remarks
 null

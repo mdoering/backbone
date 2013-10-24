@@ -1,5 +1,4 @@
-Cercosporella filiformis Davis SPECIES
-=======
+# Cercosporella filiformis Davis SPECIES
 
 #### Status
 ACCEPTED

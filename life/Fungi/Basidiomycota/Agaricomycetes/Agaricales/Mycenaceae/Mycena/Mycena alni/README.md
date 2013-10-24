@@ -1,5 +1,4 @@
-Mycena alni Kalamees SPECIES
-=======
+# Mycena alni Kalamees SPECIES
 
 #### Status
 ACCEPTED

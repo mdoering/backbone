@@ -1,5 +1,4 @@
-Stevensea wrightii (Berk. & M.A. Curtis ex Berk.) Trotter SPECIES
-=======
+# Stevensea wrightii (Berk. & M.A. Curtis ex Berk.) Trotter SPECIES
 
 #### Status
 ACCEPTED

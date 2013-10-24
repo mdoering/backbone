@@ -1,5 +1,4 @@
-Pezizella corniculata Velen. SPECIES
-=======
+# Pezizella corniculata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ozonium radiciperdum Thüm. SPECIES
-=======
+# Ozonium radiciperdum Thüm. SPECIES
 
 #### Status
 ACCEPTED

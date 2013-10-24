@@ -1,5 +1,4 @@
-Acrosphaeridium densum Uutela & Tynni, 1991 SPECIES
-=======
+# Acrosphaeridium densum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

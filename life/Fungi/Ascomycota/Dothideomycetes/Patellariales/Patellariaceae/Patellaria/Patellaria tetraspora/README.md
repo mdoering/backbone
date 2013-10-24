@@ -1,5 +1,4 @@
-Patellaria tetraspora Massee & Morgan SPECIES
-=======
+# Patellaria tetraspora Massee & Morgan SPECIES
 
 #### Status
 ACCEPTED

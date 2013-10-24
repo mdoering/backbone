@@ -1,5 +1,4 @@
-Lecidea leptoclinis SPECIES
-=======
+# Lecidea leptoclinis SPECIES
 
 #### Status
 ACCEPTED

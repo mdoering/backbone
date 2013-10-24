@@ -1,5 +1,4 @@
-Cothurnia felinska SPECIES
-=======
+# Cothurnia felinska SPECIES
 
 #### Status
 ACCEPTED

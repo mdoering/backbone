@@ -1,5 +1,4 @@
-Ceuthospora homostegia (P. Karst.) Höhn. SPECIES
-=======
+# Ceuthospora homostegia (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

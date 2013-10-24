@@ -1,5 +1,4 @@
-Enterococcus raffinosus Collins et al., 1989 SPECIES
-=======
+# Enterococcus raffinosus Collins et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

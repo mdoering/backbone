@@ -1,5 +1,4 @@
-Septoria punctoidea P. Karst. SPECIES
-=======
+# Septoria punctoidea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramitra GENUS
-=======
+# Paramitra GENUS
 
 #### Status
 ACCEPTED

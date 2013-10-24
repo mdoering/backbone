@@ -1,8 +1,7 @@
-Bacillus curdlanolyticus Kanzawa et al., 1995 SPECIES
-=======
+# Paenibacillus curdlanolyticus (Kanzawa et al., 1995) Shida et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

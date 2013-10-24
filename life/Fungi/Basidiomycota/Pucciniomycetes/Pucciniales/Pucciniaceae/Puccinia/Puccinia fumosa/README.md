@@ -1,5 +1,4 @@
-Puccinia fumosa Holw. SPECIES
-=======
+# Puccinia fumosa Holw. SPECIES
 
 #### Status
 ACCEPTED

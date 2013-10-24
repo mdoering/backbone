@@ -1,5 +1,4 @@
-Cortinarius respersus Melot SPECIES
-=======
+# Cortinarius respersus Melot SPECIES
 
 #### Status
 ACCEPTED

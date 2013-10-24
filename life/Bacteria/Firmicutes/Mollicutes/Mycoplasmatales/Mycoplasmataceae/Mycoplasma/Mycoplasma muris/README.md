@@ -1,5 +1,4 @@
-Mycoplasma muris McGarrity et al., 1983 SPECIES
-=======
+# Mycoplasma muris McGarrity et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

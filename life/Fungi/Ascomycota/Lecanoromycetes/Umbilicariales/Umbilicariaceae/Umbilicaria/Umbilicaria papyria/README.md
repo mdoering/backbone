@@ -1,5 +1,4 @@
-Umbilicaria papyria (Ach.) Nyl. SPECIES
-=======
+# Umbilicaria papyria (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

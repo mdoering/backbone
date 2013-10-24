@@ -1,14 +1,13 @@
-Parmelia adjuncta Hale SPECIES
-=======
+# Hypotrachyna adjuncta (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 22(6): 434 (1972)
+Phytologia 28(4): 340 (1974)
 
 #### Original name
 Parmelia adjuncta Hale

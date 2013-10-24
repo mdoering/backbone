@@ -1,5 +1,4 @@
-Polyporus caeruleus (Fr.) Fr. SPECIES
-=======
+# Polyporus caeruleus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

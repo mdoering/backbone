@@ -1,5 +1,4 @@
-Exobasidium fawcettii Massee SPECIES
-=======
+# Exobasidium fawcettii Massee SPECIES
 
 #### Status
 ACCEPTED

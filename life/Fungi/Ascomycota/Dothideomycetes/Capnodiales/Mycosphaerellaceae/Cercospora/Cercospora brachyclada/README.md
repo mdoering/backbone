@@ -1,5 +1,4 @@
-Cercospora brachyclada Syd. SPECIES
-=======
+# Cercospora brachyclada Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina cenocarpi Bat., Peres & H. Maia SPECIES
-=======
+# Porina cenocarpi Bat., Peres & H. Maia SPECIES
 
 #### Status
 ACCEPTED

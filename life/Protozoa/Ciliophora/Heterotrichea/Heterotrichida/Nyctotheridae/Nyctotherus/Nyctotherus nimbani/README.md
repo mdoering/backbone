@@ -1,5 +1,4 @@
-Nyctotherus nimbani Tuzet, Manier & Vogeli-Zuber, 1952 SPECIES
-=======
+# Nyctotherus nimbani Tuzet, Manier & Vogeli-Zuber, 1952 SPECIES
 
 #### Status
 ACCEPTED

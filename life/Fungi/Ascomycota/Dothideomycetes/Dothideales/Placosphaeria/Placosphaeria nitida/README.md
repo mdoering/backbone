@@ -1,5 +1,4 @@
-Placosphaeria nitida (Lév.) Sacc. SPECIES
-=======
+# Placosphaeria nitida (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

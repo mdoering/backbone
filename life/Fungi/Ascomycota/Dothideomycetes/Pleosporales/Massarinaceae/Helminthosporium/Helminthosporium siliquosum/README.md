@@ -1,5 +1,4 @@
-Helminthosporium siliquosum P. Crouan & H. Crouan SPECIES
-=======
+# Helminthosporium siliquosum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

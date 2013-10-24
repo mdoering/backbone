@@ -1,5 +1,4 @@
-Schulzeria alba Rick SPECIES
-=======
+# Schulzeria alba Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora rosarum Sousa da Câmara SPECIES
-=======
+# Rhabdospora rosarum Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

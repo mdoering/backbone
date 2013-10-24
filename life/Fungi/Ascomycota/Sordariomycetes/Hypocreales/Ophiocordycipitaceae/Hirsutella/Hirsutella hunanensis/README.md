@@ -1,5 +1,4 @@
-Hirsutella hunanensis Z.Q. Liang SPECIES
-=======
+# Hirsutella hunanensis Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austrotrillina Parr, 1942 GENUS
-=======
+# Austrotrillina Parr, 1942 GENUS
 
 #### Status
 ACCEPTED

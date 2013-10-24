@@ -1,5 +1,4 @@
-Lachnum adenostylis Rehm SPECIES
-=======
+# Lachnum adenostylis Rehm SPECIES
 
 #### Status
 ACCEPTED

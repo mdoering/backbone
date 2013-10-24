@@ -1,5 +1,4 @@
-Tremella sepincola Willd. SPECIES
-=======
+# Tremella sepincola Willd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Giesbergeria voronezhensis Grabovich et al., 2006 SPECIES
-=======
+# Giesbergeria voronezhensis Grabovich et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

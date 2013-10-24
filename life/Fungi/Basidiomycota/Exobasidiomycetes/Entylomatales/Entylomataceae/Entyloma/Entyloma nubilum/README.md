@@ -1,5 +1,4 @@
-Entyloma nubilum Liro SPECIES
-=======
+# Entyloma nubilum Liro SPECIES
 
 #### Status
 ACCEPTED

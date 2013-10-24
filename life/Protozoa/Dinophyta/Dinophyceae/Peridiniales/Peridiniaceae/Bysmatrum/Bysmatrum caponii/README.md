@@ -1,5 +1,4 @@
-Bysmatrum caponii M. A. Faust & K. A. Steidinger SPECIES
-=======
+# Bysmatrum caponii M. A. Faust & K. A. Steidinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia quercicola Chevall. SPECIES
-=======
+# Arthonia quercicola Chevall. SPECIES
 
 #### Status
 ACCEPTED

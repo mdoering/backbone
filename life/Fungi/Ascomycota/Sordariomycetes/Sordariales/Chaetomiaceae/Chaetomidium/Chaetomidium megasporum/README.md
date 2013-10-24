@@ -1,5 +1,4 @@
-Chaetomidium megasporum Doveri, Guarro, Cacialli & Caroti SPECIES
-=======
+# Chaetomidium megasporum Doveri, Guarro, Cacialli & Caroti SPECIES
 
 #### Status
 ACCEPTED

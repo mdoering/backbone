@@ -1,5 +1,4 @@
-Trypethelium hebetem Makhija & Patw. SPECIES
-=======
+# Trypethelium hebetem Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

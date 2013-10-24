@@ -1,5 +1,4 @@
-Temporina globata Sah & Kar, 1974 SPECIES
-=======
+# Temporina globata Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

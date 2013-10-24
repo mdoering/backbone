@@ -1,5 +1,4 @@
-Dermatocarpon leptophyllum (Ach.) K. G. W. Lång SPECIES
-=======
+# Dermatocarpon leptophyllum (Ach.) K. G. W. Lång SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia anthribidicola W. Rossi & A. Weir SPECIES
-=======
+# Rickia anthribidicola W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

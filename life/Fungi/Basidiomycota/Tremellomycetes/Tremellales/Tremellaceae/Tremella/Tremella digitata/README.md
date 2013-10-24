@@ -1,5 +1,4 @@
-Tremella digitata Vill. SPECIES
-=======
+# Tremella digitata Vill. SPECIES
 
 #### Status
 ACCEPTED

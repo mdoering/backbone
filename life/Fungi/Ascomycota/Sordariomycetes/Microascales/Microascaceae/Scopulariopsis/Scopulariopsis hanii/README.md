@@ -1,5 +1,4 @@
-Scopulariopsis hanii Moustafa & Abdul-Wahid SPECIES
-=======
+# Scopulariopsis hanii Moustafa & Abdul-Wahid SPECIES
 
 #### Status
 ACCEPTED

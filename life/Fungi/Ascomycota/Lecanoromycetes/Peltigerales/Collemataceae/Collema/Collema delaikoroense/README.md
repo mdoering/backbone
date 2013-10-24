@@ -1,5 +1,4 @@
-Collema delaikoroense Degel. SPECIES
-=======
+# Collema delaikoroense Degel. SPECIES
 
 #### Status
 ACCEPTED

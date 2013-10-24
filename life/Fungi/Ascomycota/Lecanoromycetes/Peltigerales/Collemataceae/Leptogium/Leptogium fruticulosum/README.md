@@ -1,5 +1,4 @@
-Leptogium fruticulosum N.S. Golubk. SPECIES
-=======
+# Leptogium fruticulosum N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

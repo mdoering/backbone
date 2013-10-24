@@ -1,5 +1,4 @@
-Otidea doratophora Ellis & Everh. SPECIES
-=======
+# Otidea doratophora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

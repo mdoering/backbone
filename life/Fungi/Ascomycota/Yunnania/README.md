@@ -1,5 +1,4 @@
-Yunnania H.Z. Kong, 1998 GENUS
-=======
+# Yunnania H.Z. Kong, 1998 GENUS
 
 #### Status
 ACCEPTED

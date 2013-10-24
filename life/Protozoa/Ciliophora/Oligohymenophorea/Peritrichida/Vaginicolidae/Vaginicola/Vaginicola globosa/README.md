@@ -1,5 +1,4 @@
-Vaginicola globosa D'Udekem, 1862 SPECIES
-=======
+# Vaginicola globosa D'Udekem, 1862 SPECIES
 
 #### Status
 ACCEPTED

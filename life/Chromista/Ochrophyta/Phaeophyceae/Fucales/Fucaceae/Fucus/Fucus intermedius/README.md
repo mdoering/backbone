@@ -1,5 +1,4 @@
-Fucus intermedius Van Goor SPECIES
-=======
+# Fucus intermedius Van Goor SPECIES
 
 #### Status
 ACCEPTED

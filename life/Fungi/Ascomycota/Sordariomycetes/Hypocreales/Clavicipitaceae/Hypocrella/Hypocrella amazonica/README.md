@@ -1,5 +1,4 @@
-Hypocrella amazonica Henn. SPECIES
-=======
+# Hypocrella amazonica Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxidium urecolatum Stokes, 1886 SPECIES
-=======
+# Pyxidium urecolatum Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

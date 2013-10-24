@@ -1,5 +1,4 @@
-Nolanea latifolia Kauffman SPECIES
-=======
+# Nolanea latifolia Kauffman SPECIES
 
 #### Status
 ACCEPTED

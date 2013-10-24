@@ -1,5 +1,4 @@
-Cyanodictyon imperfectum Cronberg & Weibull SPECIES
-=======
+# Cyanodictyon imperfectum Cronberg & Weibull SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces tenuistipes Dietel & Holw. SPECIES
-=======
+# Uromyces tenuistipes Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

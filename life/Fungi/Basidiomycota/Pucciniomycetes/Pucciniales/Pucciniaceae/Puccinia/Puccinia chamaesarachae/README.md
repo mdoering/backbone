@@ -1,5 +1,4 @@
-Puccinia chamaesarachae P. Syd. & Syd. SPECIES
-=======
+# Puccinia chamaesarachae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

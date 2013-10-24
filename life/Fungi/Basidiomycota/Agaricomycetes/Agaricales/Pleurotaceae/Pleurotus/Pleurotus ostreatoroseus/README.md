@@ -1,5 +1,4 @@
-Pleurotus ostreatoroseus Singer, 1961 SPECIES
-=======
+# Pleurotus ostreatoroseus Singer, 1961 SPECIES
 
 #### Status
 ACCEPTED

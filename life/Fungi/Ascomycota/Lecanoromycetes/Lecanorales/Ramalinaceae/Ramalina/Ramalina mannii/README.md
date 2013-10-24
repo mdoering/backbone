@@ -1,5 +1,4 @@
-Ramalina mannii var. mannii VARIETY
-=======
+# Ramalina mannii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina mannii var. mannii
+null
 
 ### Remarks
 null

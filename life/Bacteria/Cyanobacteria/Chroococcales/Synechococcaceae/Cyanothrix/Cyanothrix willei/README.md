@@ -1,5 +1,4 @@
-Cyanothrix willei Gardner SPECIES
-=======
+# Cyanothrix willei Gardner SPECIES
 
 #### Status
 ACCEPTED

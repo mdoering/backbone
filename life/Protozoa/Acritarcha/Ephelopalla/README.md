@@ -1,5 +1,4 @@
-Ephelopalla Wicander GENUS
-=======
+# Ephelopalla Wicander GENUS
 
 #### Status
 ACCEPTED

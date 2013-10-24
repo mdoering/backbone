@@ -1,5 +1,4 @@
-Fomes imitator Petch SPECIES
-=======
+# Fomes imitator Petch SPECIES
 
 #### Status
 ACCEPTED

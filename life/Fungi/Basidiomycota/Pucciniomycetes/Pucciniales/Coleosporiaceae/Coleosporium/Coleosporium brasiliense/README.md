@@ -1,5 +1,4 @@
-Coleosporium brasiliense Dietel SPECIES
-=======
+# Coleosporium brasiliense Dietel SPECIES
 
 #### Status
 ACCEPTED

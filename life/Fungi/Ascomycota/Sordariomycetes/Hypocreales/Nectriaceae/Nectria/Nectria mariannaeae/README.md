@@ -1,5 +1,4 @@
-Nectria mariannaeae Samuels & Seifert, 1991 SPECIES
-=======
+# Nectria mariannaeae Samuels & Seifert, 1991 SPECIES
 
 #### Status
 ACCEPTED

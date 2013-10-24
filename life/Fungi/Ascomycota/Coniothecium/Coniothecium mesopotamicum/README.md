@@ -1,5 +1,4 @@
-Coniothecium mesopotamicum Bubák SPECIES
-=======
+# Coniothecium mesopotamicum Bubák SPECIES
 
 #### Status
 ACCEPTED

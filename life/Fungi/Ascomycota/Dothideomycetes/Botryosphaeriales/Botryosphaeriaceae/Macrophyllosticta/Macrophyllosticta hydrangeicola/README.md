@@ -1,5 +1,4 @@
-Macrophyllosticta hydrangeicola Sousa da Câmara & Luz SPECIES
-=======
+# Macrophyllosticta hydrangeicola Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

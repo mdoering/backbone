@@ -1,5 +1,4 @@
-Cenangium graddonii Dennis, 1962 SPECIES
-=======
+# Cenangium graddonii Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta puiggarii Speg. SPECIES
-=======
+# Ascochyta puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

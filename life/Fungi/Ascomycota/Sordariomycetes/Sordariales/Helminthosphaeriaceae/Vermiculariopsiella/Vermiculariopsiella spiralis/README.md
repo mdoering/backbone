@@ -1,5 +1,4 @@
-Vermiculariopsiella spiralis Crous, M.J. Wingf. & W.B. Kendr. SPECIES
-=======
+# Vermiculariopsiella spiralis Crous, M.J. Wingf. & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

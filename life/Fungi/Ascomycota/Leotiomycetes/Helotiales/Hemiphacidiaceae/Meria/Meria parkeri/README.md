@@ -1,5 +1,4 @@
-Meria parkeri Sherwood, J.K. Stone & G.C. Carroll, 1986 SPECIES
-=======
+# Meria parkeri Sherwood, J.K. Stone & G.C. Carroll, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis gladioli Kleb. SPECIES
-=======
+# Botrytis gladioli Kleb. SPECIES
 
 #### Status
 ACCEPTED

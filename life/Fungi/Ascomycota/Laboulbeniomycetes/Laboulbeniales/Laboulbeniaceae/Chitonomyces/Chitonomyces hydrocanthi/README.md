@@ -1,5 +1,4 @@
-Chitonomyces hydrocanthi Thaxt. SPECIES
-=======
+# Chitonomyces hydrocanthi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

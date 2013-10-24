@@ -1,5 +1,4 @@
-Diaporthe mazzantioides Sacc. & Speg. SPECIES
-=======
+# Diaporthe mazzantioides Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

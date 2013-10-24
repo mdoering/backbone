@@ -1,5 +1,4 @@
-Colispora curvata Nawawi & Kuthub. SPECIES
-=======
+# Colispora curvata Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

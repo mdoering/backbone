@@ -1,5 +1,4 @@
-Textularia pseudofoliacea Zheng & Fu, 2001 SPECIES
-=======
+# Textularia pseudofoliacea Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis campanula subsp. campanula SUBSPECIES
-=======
+# Tintinnopsis campanula (Ehrenberg, 1840) Kozloff, 1946 SPECIES
 
 #### Status
 ACCEPTED

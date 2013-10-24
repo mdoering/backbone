@@ -1,5 +1,4 @@
-Thoracosphaera atoposa Chongyou Wang SPECIES
-=======
+# Thoracosphaera atoposa Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

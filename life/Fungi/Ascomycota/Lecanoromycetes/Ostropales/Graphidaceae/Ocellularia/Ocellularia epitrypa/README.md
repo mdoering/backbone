@@ -1,14 +1,13 @@
-Rhabdodiscus epitrypus (Nyl.) Vain. SPECIES
-=======
+# Ocellularia epitrypa (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 184 (1921)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Thelotrema epitrypum

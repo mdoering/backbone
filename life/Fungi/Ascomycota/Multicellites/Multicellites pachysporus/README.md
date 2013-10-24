@@ -1,5 +1,4 @@
-Multicellites pachysporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites pachysporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

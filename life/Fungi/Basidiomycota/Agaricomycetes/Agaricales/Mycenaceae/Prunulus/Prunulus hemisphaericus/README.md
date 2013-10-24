@@ -1,5 +1,4 @@
-Prunulus hemisphaericus (Peck) Murrill SPECIES
-=======
+# Prunulus hemisphaericus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

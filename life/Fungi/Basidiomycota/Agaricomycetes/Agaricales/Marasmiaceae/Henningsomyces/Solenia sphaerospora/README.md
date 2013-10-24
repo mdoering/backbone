@@ -1,5 +1,4 @@
-Solenia sphaerospora Ellis ex W.B. Cooke SPECIES
-=======
+# Solenia sphaerospora Ellis ex W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

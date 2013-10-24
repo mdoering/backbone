@@ -1,5 +1,4 @@
-Cyphelium viridescens var. viridescens VARIETY
-=======
+# Cyphelium viridescens (Lilj.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cyphelium viridescens var. viridescens
+Lichen viridescens A. Massal.
 
 ### Remarks
 null

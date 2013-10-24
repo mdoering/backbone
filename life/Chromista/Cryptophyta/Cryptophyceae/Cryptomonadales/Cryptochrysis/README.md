@@ -1,5 +1,4 @@
-Cryptochrysis Pascher, 1911 GENUS
-=======
+# Cryptochrysis Pascher, 1911 GENUS
 
 #### Status
 ACCEPTED

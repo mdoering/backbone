@@ -1,5 +1,4 @@
-Hormocephalum Syd. GENUS
-=======
+# Hormocephalum Syd. GENUS
 
 #### Status
 ACCEPTED

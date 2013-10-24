@@ -1,5 +1,4 @@
-Entoloma farinogustus Arnolds & Noordel. SPECIES
-=======
+# Entoloma farinogustus Arnolds & Noordel. SPECIES
 
 #### Status
 ACCEPTED

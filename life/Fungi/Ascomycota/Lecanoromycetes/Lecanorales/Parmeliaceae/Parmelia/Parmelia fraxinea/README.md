@@ -1,5 +1,4 @@
-Parmelia fraxinea var. fraxinea VARIETY
-=======
+# Parmelia fraxinea (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia fraxinea var. fraxinea
+Lichen fraxineus L.
 
 ### Remarks
 null

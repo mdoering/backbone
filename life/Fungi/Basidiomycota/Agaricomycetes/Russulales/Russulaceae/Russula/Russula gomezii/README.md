@@ -1,5 +1,4 @@
-Russula gomezii Singer SPECIES
-=======
+# Russula gomezii Singer SPECIES
 
 #### Status
 ACCEPTED

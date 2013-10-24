@@ -1,5 +1,4 @@
-Aphanocapsa planctonica (G.M. Smith) Komárek & Anagnostidis, 1995 SPECIES
-=======
+# Aphanocapsa planctonica (G.M. Smith) Komárek & Anagnostidis, 1995 SPECIES
 
 #### Status
 ACCEPTED

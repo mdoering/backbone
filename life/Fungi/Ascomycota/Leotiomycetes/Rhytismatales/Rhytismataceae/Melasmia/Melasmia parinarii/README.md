@@ -1,5 +1,4 @@
-Melasmia parinarii Henn. SPECIES
-=======
+# Melasmia parinarii Henn. SPECIES
 
 #### Status
 ACCEPTED

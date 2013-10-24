@@ -1,5 +1,4 @@
-Griphosphaeria polymorpha (Brockmann) Lar.N. Vassiljeva SPECIES
-=======
+# Griphosphaeria polymorpha (Brockmann) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

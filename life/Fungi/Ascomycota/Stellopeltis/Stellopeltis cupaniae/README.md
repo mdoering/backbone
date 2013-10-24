@@ -1,5 +1,4 @@
-Stellopeltis cupaniae Bat. & H. Maia SPECIES
-=======
+# Stellopeltis cupaniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovulariella Bubák & Kabát GENUS
-=======
+# Ovulariella Bubák & Kabát GENUS
 
 #### Status
 ACCEPTED

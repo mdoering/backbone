@@ -1,5 +1,4 @@
-Sediminitomix flava Khan, Nakagawa & Harayama, 2007 SPECIES
-=======
+# Sediminitomix flava Khan, Nakagawa & Harayama, 2007 SPECIES
 
 #### Status
 ACCEPTED

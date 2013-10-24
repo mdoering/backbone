@@ -1,5 +1,4 @@
-Teichospora davidssonii Rostr. SPECIES
-=======
+# Teichospora davidssonii Rostr. SPECIES
 
 #### Status
 ACCEPTED

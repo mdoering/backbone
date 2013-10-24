@@ -1,5 +1,4 @@
-Trullula tehuelches Speg. SPECIES
-=======
+# Trullula tehuelches Speg. SPECIES
 
 #### Status
 ACCEPTED

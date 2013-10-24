@@ -1,14 +1,13 @@
-Irenina pseudoanastomosans (Rehm) F. Stevens SPECIES
-=======
+# Irenina pseudanastomosans (Rehm) F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 25: 469 (1927)
 
 #### Original name
 Meliola pseudanastomosans Rehm

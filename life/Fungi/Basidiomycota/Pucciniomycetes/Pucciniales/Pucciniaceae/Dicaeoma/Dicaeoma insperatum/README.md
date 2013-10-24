@@ -1,5 +1,4 @@
-Dicaeoma insperatum (H.S. Jacks.) Arthur SPECIES
-=======
+# Dicaeoma insperatum (H.S. Jacks.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria latissima (Cooke) Sacc. SPECIES
-=======
+# Naucoria latissima (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

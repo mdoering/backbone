@@ -1,14 +1,13 @@
-Verrucaria subnexa Nyl. SPECIES
-=======
+# Anisomeridium subnexum (Nyl.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 150 (1995)
 
 #### Original name
 Verrucaria subnexa Nyl.

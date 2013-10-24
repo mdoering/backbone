@@ -1,5 +1,4 @@
-Lachnea speluncarum (Velen.) Svrcek SPECIES
-=======
+# Lachnea speluncarum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

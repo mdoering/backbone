@@ -1,5 +1,4 @@
-Belonozoum Haeckel, 1887 GENUS
-=======
+# Belonozoum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

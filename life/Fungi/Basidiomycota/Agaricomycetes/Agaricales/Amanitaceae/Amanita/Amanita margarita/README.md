@@ -1,5 +1,4 @@
-Amanita margarita (Murrill) Murrill SPECIES
-=======
+# Amanita margarita (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

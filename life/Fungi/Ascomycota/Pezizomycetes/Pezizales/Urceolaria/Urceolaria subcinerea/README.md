@@ -1,5 +1,4 @@
-Urceolaria subcinerea (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria subcinerea (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

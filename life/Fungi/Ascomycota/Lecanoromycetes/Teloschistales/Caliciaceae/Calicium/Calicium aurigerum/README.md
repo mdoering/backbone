@@ -1,5 +1,4 @@
-Calicium aurigerum F. Wilson SPECIES
-=======
+# Calicium aurigerum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

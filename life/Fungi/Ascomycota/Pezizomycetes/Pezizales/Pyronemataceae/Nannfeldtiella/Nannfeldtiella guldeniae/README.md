@@ -1,5 +1,4 @@
-Nannfeldtiella guldeniae (Svrcek) Svrcek SPECIES
-=======
+# Nannfeldtiella guldeniae (Svrcek) Svrcek SPECIES
 
 #### Status
 ACCEPTED

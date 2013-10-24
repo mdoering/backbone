@@ -1,5 +1,4 @@
-Verrucaria lugescens Nyl. SPECIES
-=======
+# Verrucaria lugescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

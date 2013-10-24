@@ -1,5 +1,4 @@
-Placodium zonulans Norman SPECIES
-=======
+# Placodium zonulans Norman SPECIES
 
 #### Status
 ACCEPTED

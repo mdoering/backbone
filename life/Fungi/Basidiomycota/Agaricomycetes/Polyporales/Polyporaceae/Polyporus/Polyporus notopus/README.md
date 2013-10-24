@@ -1,17 +1,16 @@
-Polyporus nothopus Lév. SPECIES
-=======
+# Polyporus notopus Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 2: 194 (1844)
 
 #### Original name
-Polyporus nothopus Lév.
+Polyporus notopus Lév.
 
 ### Remarks
 null

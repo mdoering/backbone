@@ -1,5 +1,4 @@
-Diatrypella paontensis Dargan & Bhatia SPECIES
-=======
+# Diatrypella paontensis Dargan & Bhatia SPECIES
 
 #### Status
 ACCEPTED

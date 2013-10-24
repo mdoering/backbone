@@ -1,5 +1,4 @@
-Ramalina melanothrix Laurer SPECIES
-=======
+# Ramalina melanothrix Laurer SPECIES
 
 #### Status
 ACCEPTED

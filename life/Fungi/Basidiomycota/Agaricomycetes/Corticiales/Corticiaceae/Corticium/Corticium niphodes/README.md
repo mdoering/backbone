@@ -1,5 +1,4 @@
-Corticium niphodes Pat. SPECIES
-=======
+# Corticium niphodes Pat. SPECIES
 
 #### Status
 ACCEPTED

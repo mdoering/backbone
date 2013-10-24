@@ -1,5 +1,4 @@
-Amphoridium crypticum Arnold SPECIES
-=======
+# Amphoridium crypticum Arnold SPECIES
 
 #### Status
 ACCEPTED

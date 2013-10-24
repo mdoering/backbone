@@ -1,5 +1,4 @@
-Patellaria thelotremoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria thelotremoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

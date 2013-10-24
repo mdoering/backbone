@@ -1,5 +1,4 @@
-Caloplaca serenior (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca serenior (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

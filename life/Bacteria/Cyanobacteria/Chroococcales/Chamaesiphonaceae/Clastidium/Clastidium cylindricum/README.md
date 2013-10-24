@@ -1,5 +1,4 @@
-Clastidium cylindricum Whelden SPECIES
-=======
+# Clastidium cylindricum Whelden SPECIES
 
 #### Status
 ACCEPTED

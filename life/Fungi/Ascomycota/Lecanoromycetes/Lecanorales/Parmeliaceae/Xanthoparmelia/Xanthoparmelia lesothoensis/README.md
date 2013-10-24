@@ -1,5 +1,4 @@
-Xanthoparmelia lesothoensis Hale SPECIES
-=======
+# Xanthoparmelia lesothoensis Hale SPECIES
 
 #### Status
 ACCEPTED

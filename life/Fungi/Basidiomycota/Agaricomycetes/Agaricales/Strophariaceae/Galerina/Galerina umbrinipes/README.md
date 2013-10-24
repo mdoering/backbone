@@ -1,5 +1,4 @@
-Galerina umbrinipes A.H. Sm. SPECIES
-=======
+# Galerina umbrinipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

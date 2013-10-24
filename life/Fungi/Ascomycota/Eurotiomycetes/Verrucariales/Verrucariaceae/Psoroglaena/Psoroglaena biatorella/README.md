@@ -1,5 +1,4 @@
-Psoroglaena biatorella (Arnold) Lücking SPECIES
-=======
+# Psoroglaena biatorella (Arnold) Lücking SPECIES
 
 #### Status
 ACCEPTED

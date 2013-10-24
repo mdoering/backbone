@@ -1,5 +1,4 @@
-Singerina Sathe & S.D. Deshp. GENUS
-=======
+# Singerina Sathe & S.D. Deshp. GENUS
 
 #### Status
 ACCEPTED

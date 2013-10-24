@@ -1,5 +1,4 @@
-Yalisphaeridium L. Gao, 1986 GENUS
-=======
+# Yalisphaeridium L. Gao, 1986 GENUS
 
 #### Status
 ACCEPTED

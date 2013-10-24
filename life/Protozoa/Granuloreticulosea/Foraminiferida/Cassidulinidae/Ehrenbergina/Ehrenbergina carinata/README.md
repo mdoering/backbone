@@ -1,5 +1,4 @@
-Ehrenbergina carinata Eade, 1967 SPECIES
-=======
+# Ehrenbergina carinata Eade, 1967 SPECIES
 
 #### Status
 ACCEPTED

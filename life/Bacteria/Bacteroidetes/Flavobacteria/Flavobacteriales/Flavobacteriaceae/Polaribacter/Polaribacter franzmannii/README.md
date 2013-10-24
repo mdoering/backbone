@@ -1,5 +1,4 @@
-Polaribacter franzmannii Gosink et al., 1998 SPECIES
-=======
+# Polaribacter franzmannii Gosink et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

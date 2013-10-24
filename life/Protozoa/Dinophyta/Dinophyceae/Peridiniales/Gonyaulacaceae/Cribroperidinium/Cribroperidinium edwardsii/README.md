@@ -1,5 +1,4 @@
-Cribroperidinium edwardsii (Cookson & Eisenack, 1958) Davey SPECIES
-=======
+# Cribroperidinium edwardsii (Cookson & Eisenack, 1958) Davey SPECIES
 
 #### Status
 ACCEPTED

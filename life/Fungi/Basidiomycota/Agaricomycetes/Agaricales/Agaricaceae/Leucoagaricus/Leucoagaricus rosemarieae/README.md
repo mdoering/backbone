@@ -1,5 +1,4 @@
-Leucoagaricus rosemarieae P. Mohr SPECIES
-=======
+# Leucoagaricus rosemarieae P. Mohr SPECIES
 
 #### Status
 ACCEPTED

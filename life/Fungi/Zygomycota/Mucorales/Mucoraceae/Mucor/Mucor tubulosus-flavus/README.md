@@ -1,5 +1,4 @@
-Mucor tubulosus-flavus L. SPECIES
-=======
+# Mucor tubulosus-flavus L. SPECIES
 
 #### Status
 ACCEPTED

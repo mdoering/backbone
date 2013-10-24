@@ -1,5 +1,4 @@
-Amphiloncharium Haeckel, 1887 GENUS
-=======
+# Amphiloncharium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

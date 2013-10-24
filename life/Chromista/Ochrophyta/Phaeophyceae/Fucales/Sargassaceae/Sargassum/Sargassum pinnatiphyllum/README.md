@@ -1,5 +1,4 @@
-Sargassum pinnatiphyllum Kraft, 2009 SPECIES
-=======
+# Sargassum pinnatiphyllum Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

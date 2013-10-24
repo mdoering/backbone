@@ -1,5 +1,4 @@
-Helminthosporiomyces cerradensis G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
-=======
+# Helminthosporiomyces cerradensis G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
 
 #### Status
 ACCEPTED

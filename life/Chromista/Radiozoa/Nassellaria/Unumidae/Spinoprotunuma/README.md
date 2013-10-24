@@ -1,5 +1,4 @@
-Spinoprotunuma Kozur, Moix & Ozsvárt, 2007 GENUS
-=======
+# Spinoprotunuma Kozur, Moix & Ozsvárt, 2007 GENUS
 
 #### Status
 ACCEPTED

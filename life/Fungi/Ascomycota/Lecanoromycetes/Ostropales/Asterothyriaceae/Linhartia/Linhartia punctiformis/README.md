@@ -1,5 +1,4 @@
-Linhartia punctiformis (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Linhartia punctiformis (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

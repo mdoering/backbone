@@ -1,5 +1,4 @@
-Boletus ambiguus anon. SPECIES
-=======
+# Boletus ambiguus anon. SPECIES
 
 #### Status
 ACCEPTED

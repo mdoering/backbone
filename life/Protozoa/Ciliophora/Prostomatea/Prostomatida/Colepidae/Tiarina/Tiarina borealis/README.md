@@ -1,5 +1,4 @@
-Tiarina borealis (Dogiel, 1940) Shulman-Albova, 1953 SPECIES
-=======
+# Tiarina borealis (Dogiel, 1940) Shulman-Albova, 1953 SPECIES
 
 #### Status
 ACCEPTED

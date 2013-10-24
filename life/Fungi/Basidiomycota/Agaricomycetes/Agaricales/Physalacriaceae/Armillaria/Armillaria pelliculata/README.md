@@ -1,5 +1,4 @@
-Armillaria pelliculata Beeli SPECIES
-=======
+# Armillaria pelliculata Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium kesslitzii Schiller, 1928 SPECIES
-=======
+# Amphidinium kesslitzii Schiller, 1928 SPECIES
 
 #### Status
 ACCEPTED

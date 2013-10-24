@@ -1,5 +1,4 @@
-Blastenia atrosanguinea (G. Merr.) Fink SPECIES
-=======
+# Blastenia atrosanguinea (G. Merr.) Fink SPECIES
 
 #### Status
 ACCEPTED

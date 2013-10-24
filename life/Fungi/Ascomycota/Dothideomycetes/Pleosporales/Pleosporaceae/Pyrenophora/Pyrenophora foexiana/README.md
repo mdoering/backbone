@@ -1,5 +1,4 @@
-Pyrenophora foexiana Celotti SPECIES
-=======
+# Pyrenophora foexiana Celotti SPECIES
 
 #### Status
 ACCEPTED

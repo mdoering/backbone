@@ -1,5 +1,4 @@
-Pyrenochaeta graminis Ellis & Everh. SPECIES
-=======
+# Pyrenochaeta graminis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

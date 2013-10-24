@@ -1,17 +1,16 @@
-Sporocarpon spinatus R.W. Baxter SPECIES
-=======
+# Sporocarpon spinatum R.W. Baxter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytomorphology 10: 20 + figs 1-3 (1960)
 
 #### Original name
-Sporocarpon spinatus R.W. Baxter
+Sporocarpon spinatum R.W. Baxter
 
 ### Remarks
 null

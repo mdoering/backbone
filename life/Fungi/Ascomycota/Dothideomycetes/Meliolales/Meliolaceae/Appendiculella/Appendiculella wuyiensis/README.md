@@ -1,5 +1,4 @@
-Appendiculella wuyiensis Y.X. Hu & B. Song SPECIES
-=======
+# Appendiculella wuyiensis Y.X. Hu & B. Song SPECIES
 
 #### Status
 ACCEPTED

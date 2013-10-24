@@ -1,5 +1,4 @@
-Uredo mitteri (Syd.) G.F. Laundon SPECIES
-=======
+# Uredo mitteri (Syd.) G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

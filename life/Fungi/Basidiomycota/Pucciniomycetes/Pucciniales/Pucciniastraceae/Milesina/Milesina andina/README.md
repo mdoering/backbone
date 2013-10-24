@@ -1,5 +1,4 @@
-Milesina andina (Faull) Hirats. SPECIES
-=======
+# Milesina andina (Faull) Hirats. SPECIES
 
 #### Status
 ACCEPTED

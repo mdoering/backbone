@@ -1,5 +1,4 @@
-Peziza atrocitrina Berk. & Broome SPECIES
-=======
+# Peziza atrocitrina Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

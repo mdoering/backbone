@@ -1,5 +1,4 @@
-Rubikia H.C. Evans & Minter GENUS
-=======
+# Rubikia H.C. Evans & Minter GENUS
 
 #### Status
 ACCEPTED

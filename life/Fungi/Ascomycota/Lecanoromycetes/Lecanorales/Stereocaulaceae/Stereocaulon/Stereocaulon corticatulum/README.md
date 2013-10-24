@@ -1,5 +1,4 @@
-Stereocaulon corticatulum var. corticatulum VARIETY
-=======
+# Stereocaulon corticatulum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Flora, Jena 41: 117 (1858)
+null
 
 #### Original name
-Stereocaulon corticatulum var. corticatulum
+null
 
 ### Remarks
 null

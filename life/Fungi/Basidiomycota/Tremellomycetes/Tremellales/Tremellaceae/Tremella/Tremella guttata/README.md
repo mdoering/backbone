@@ -1,5 +1,4 @@
-Tremella guttata Bonord. SPECIES
-=======
+# Tremella guttata Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe smithii H.E. Bigelow SPECIES
-=======
+# Clitocybe smithii H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

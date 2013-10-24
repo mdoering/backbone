@@ -1,5 +1,4 @@
-Cortinarius minutulus J. Favre SPECIES
-=======
+# Cortinarius minutulus J. Favre SPECIES
 
 #### Status
 ACCEPTED

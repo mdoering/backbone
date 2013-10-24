@@ -1,5 +1,4 @@
-Macrophoma veronensis C. Massal. SPECIES
-=======
+# Macrophoma veronensis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

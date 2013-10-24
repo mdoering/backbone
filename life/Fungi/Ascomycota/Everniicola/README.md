@@ -1,5 +1,4 @@
-Everniicola D. Hawksw. GENUS
-=======
+# Everniicola D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

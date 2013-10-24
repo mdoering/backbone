@@ -1,5 +1,4 @@
-Hexangulolithus Bukry GENUS
-=======
+# Hexangulolithus Bukry GENUS
 
 #### Status
 ACCEPTED

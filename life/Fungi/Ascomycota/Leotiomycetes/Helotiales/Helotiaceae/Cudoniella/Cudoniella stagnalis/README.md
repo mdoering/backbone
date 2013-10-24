@@ -1,5 +1,4 @@
-Cudoniella stagnalis (Quél.) Sacc. SPECIES
-=======
+# Cudoniella stagnalis (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

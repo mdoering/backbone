@@ -1,5 +1,4 @@
-Heterosporium granulatum (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Heterosporium granulatum (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

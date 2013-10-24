@@ -1,5 +1,4 @@
-Chaetomyces Thaxt. GENUS
-=======
+# Chaetomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

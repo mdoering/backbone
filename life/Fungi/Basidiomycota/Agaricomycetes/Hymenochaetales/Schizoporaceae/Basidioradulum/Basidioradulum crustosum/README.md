@@ -1,14 +1,13 @@
-Kneiffiella crustosa (Pers.) Jülich & Stalpers, 1980 SPECIES
-=======
+# Basidioradulum crustosum (Pers.) Zmitr., Malysheva & Spirin, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 134 (1980)
+Mycena 6: 44 (2006)
 
 #### Original name
 Odontia crustosa Pers., 1800

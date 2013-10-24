@@ -1,5 +1,4 @@
-Lessonia adamsiae C.H. Hay SPECIES
-=======
+# Lessonia adamsiae C.H. Hay SPECIES
 
 #### Status
 ACCEPTED

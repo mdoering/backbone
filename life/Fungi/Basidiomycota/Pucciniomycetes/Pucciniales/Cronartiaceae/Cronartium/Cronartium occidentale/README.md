@@ -1,5 +1,4 @@
-Cronartium occidentale Hedgc., Bethel & N.R. Hunt SPECIES
-=======
+# Cronartium occidentale Hedgc., Bethel & N.R. Hunt SPECIES
 
 #### Status
 ACCEPTED

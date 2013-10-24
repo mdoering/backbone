@@ -1,5 +1,4 @@
-Coniothecium rhododendri Bubák SPECIES
-=======
+# Coniothecium rhododendri Bubák SPECIES
 
 #### Status
 ACCEPTED

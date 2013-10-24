@@ -1,5 +1,4 @@
-Lycoperdon arenarium Pers. SPECIES
-=======
+# Lycoperdon arenarium Pers. SPECIES
 
 #### Status
 ACCEPTED

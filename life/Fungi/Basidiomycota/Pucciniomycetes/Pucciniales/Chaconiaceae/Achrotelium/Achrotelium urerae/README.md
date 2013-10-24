@@ -1,5 +1,4 @@
-Achrotelium urerae Vienn.-Bourg., 1955 SPECIES
-=======
+# Achrotelium urerae Vienn.-Bourg., 1955 SPECIES
 
 #### Status
 ACCEPTED

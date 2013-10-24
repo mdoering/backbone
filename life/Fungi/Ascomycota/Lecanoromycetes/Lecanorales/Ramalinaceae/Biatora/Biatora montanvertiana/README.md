@@ -1,5 +1,4 @@
-Biatora montanvertiana (Croz.) M. Choisy SPECIES
-=======
+# Biatora montanvertiana (Croz.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

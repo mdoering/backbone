@@ -1,17 +1,16 @@
-Peziza micropus subsp. micropus SUBSPECIES
-=======
+# Peziza micropus Pers., 1800 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. Desc. Fung. Min. Cognit. (Leipzig) 2: 30 (1800)
 
 #### Original name
-null
+Peziza micropus Pers., 1800
 
 ### Remarks
 null

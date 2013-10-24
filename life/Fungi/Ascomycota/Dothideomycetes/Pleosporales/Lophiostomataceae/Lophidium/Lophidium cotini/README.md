@@ -1,5 +1,4 @@
-Lophidium cotini Fabre SPECIES
-=======
+# Lophidium cotini Fabre SPECIES
 
 #### Status
 ACCEPTED

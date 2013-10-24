@@ -1,5 +1,4 @@
-Campyloacantha Hara & Takahashi, 1987 GENUS
-=======
+# Campyloacantha Hara & Takahashi, 1987 GENUS
 
 #### Status
 ACCEPTED

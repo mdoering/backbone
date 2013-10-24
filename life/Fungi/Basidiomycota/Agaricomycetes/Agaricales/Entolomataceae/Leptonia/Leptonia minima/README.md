@@ -1,5 +1,4 @@
-Leptonia minima Velen. SPECIES
-=======
+# Leptonia minima Velen. SPECIES
 
 #### Status
 ACCEPTED

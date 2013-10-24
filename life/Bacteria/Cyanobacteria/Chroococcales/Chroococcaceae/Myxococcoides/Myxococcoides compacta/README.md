@@ -1,5 +1,4 @@
-Myxococcoides compacta J. Mandal & P. K. Maithy SPECIES
-=======
+# Myxococcoides compacta J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

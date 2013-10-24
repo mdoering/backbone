@@ -1,17 +1,16 @@
-Polyporus radiculosus Peck, 1887 SPECIES
-=======
+# Fibroporia radiculosa (Peck) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 177 (1968)
 
 #### Original name
-null
+Polyporus radiculosus House
 
 ### Remarks
 null

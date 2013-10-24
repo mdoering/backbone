@@ -1,5 +1,4 @@
-Micropeltella agusanensis Syd. & P. Syd. SPECIES
-=======
+# Micropeltella agusanensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

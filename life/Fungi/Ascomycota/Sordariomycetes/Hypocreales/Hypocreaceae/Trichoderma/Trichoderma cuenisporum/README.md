@@ -1,5 +1,4 @@
-Trichoderma cuenisporum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma cuenisporum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

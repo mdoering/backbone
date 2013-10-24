@@ -1,5 +1,4 @@
-Laboulbenia dentifera Thaxt. SPECIES
-=======
+# Laboulbenia dentifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

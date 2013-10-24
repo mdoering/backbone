@@ -1,5 +1,4 @@
-Sphaeria pileiformis Berk. SPECIES
-=======
+# Sphaeria pileiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscidea fagicola (Zschacke) Hafellner & Türk SPECIES
-=======
+# Fuscidea fagicola (Zschacke) Hafellner & Türk SPECIES
 
 #### Status
 ACCEPTED

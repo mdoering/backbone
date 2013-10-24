@@ -1,5 +1,4 @@
-Puccinia moreniana Dudley & C.H. Thomps. SPECIES
-=======
+# Puccinia moreniana Dudley & C.H. Thomps. SPECIES
 
 #### Status
 ACCEPTED

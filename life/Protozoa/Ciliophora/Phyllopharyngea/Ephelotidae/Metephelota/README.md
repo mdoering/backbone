@@ -1,5 +1,4 @@
-Metephelota Willis, 1945 GENUS
-=======
+# Metephelota Willis, 1945 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium helianthi Arthur SPECIES
-=======
+# Coleosporium helianthi Arthur SPECIES
 
 #### Status
 ACCEPTED

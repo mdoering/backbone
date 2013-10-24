@@ -1,5 +1,4 @@
-Fusicladium parasiticum (Syd. & P. Syd.) U. Braun & K. Schub. SPECIES
-=======
+# Fusicladium parasiticum (Syd. & P. Syd.) U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

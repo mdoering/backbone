@@ -1,5 +1,4 @@
-Macrophoma magnoliae Sawada SPECIES
-=======
+# Macrophoma magnoliae Sawada SPECIES
 
 #### Status
 ACCEPTED

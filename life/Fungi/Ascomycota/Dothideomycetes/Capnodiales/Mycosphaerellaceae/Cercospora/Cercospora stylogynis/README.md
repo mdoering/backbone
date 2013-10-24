@@ -1,5 +1,4 @@
-Cercospora stylogynis Viégas SPECIES
-=======
+# Cercospora stylogynis Viégas SPECIES
 
 #### Status
 ACCEPTED

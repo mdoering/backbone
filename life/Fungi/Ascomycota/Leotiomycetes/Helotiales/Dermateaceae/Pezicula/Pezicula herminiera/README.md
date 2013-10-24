@@ -1,5 +1,4 @@
-Pezicula herminiera Rabenh. SPECIES
-=======
+# Pezicula herminiera Rabenh. SPECIES
 
 #### Status
 ACCEPTED

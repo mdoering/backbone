@@ -1,5 +1,4 @@
-Phaeoderris labiatarum Höhn. SPECIES
-=======
+# Phaeoderris labiatarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oudhkusumites N.C. Srivastava, 1967 GENUS
-=======
+# Oudhkusumites N.C. Srivastava, 1967 GENUS
 
 #### Status
 ACCEPTED

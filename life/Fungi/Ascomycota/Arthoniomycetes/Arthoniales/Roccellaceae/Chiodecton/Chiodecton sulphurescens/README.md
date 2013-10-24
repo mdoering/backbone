@@ -1,5 +1,4 @@
-Chiodecton sulphurescens (Fée) Zahlbr. SPECIES
-=======
+# Chiodecton sulphurescens (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

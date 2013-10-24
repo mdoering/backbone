@@ -1,5 +1,4 @@
-Peziza variabilis var. variabilis VARIETY
-=======
+# Peziza variabilis Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza variabilis var. variabilis
+Peziza variabilis Pers.
 
 ### Remarks
 null

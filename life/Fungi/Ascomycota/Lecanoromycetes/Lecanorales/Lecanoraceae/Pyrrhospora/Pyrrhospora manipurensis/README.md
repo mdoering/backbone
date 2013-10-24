@@ -1,5 +1,4 @@
-Pyrrhospora manipurensis (Kr.P. Singh) Hafellner SPECIES
-=======
+# Pyrrhospora manipurensis (Kr.P. Singh) Hafellner SPECIES
 
 #### Status
 ACCEPTED

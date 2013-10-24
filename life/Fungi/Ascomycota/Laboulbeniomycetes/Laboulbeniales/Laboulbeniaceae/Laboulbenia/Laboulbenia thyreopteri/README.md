@@ -1,5 +1,4 @@
-Laboulbenia thyreopteri Thaxt. SPECIES
-=======
+# Laboulbenia thyreopteri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

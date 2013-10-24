@@ -1,5 +1,4 @@
-Stereocaulon ruwenzoriense P.A. Duvign. SPECIES
-=======
+# Stereocaulon ruwenzoriense P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

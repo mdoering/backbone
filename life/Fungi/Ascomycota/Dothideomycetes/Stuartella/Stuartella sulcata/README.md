@@ -1,5 +1,4 @@
-Stuartella sulcata (Ellis) Sacc. SPECIES
-=======
+# Stuartella sulcata (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

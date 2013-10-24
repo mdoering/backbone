@@ -1,5 +1,4 @@
-Hormiscium conglutinatum (Corda) Bonord. SPECIES
-=======
+# Hormiscium conglutinatum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

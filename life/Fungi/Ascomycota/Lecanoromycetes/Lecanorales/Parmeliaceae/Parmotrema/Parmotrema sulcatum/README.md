@@ -1,5 +1,4 @@
-Parmotrema sulcatum var. sulcatum VARIETY
-=======
+# Parmotrema sulcatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmotrema sulcatum var. sulcatum
+null
 
 ### Remarks
 null

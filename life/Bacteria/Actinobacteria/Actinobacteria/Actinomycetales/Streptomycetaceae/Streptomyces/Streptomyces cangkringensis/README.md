@@ -1,5 +1,4 @@
-Streptomyces cangkringensis Sembiring et al., 2001 SPECIES
-=======
+# Streptomyces cangkringensis Sembiring et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

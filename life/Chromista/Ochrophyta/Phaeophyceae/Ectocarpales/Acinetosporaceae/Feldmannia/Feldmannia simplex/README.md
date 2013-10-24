@@ -1,5 +1,4 @@
-Feldmannia simplex (P.L. Crouan & H.M. Crouan) G. Hamel SPECIES
-=======
+# Feldmannia simplex (P.L. Crouan & H.M. Crouan) G. Hamel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia farinulenta Müll. Arg. SPECIES
-=======
+# Buellia farinulenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

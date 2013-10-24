@@ -1,14 +1,13 @@
-Peckiella chrysostoma (Berk. & Broome) Sacc., 1891 SPECIES
-=======
+# Sporophagomyces chrysostomus (Berk. & Broome) K. Põldmaa & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 944 (1891)
+in K. Põldmaa, Larsson & Köljalg, Can. J. Bot. 77(12): 1765 (1999)
 
 #### Original name
 Hypomyces chrysostomus Berk. & Broome, 1875

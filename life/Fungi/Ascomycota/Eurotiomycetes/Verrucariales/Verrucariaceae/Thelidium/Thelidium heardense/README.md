@@ -1,5 +1,4 @@
-Thelidium heardense C.W. Dodge SPECIES
-=======
+# Thelidium heardense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

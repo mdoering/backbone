@@ -1,5 +1,4 @@
-Neurospora sublineolata (Furuya & Udagawa) Arx, 1982 SPECIES
-=======
+# Neurospora sublineolata (Furuya & Udagawa) Arx, 1982 SPECIES
 
 #### Status
 ACCEPTED

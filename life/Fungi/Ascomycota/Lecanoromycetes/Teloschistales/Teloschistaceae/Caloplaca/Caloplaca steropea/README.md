@@ -1,5 +1,4 @@
-Caloplaca steropea (Ach.) Poetsch SPECIES
-=======
+# Caloplaca steropea (Ach.) Poetsch SPECIES
 
 #### Status
 ACCEPTED

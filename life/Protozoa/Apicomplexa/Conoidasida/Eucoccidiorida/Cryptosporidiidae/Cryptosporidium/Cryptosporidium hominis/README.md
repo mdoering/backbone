@@ -1,5 +1,4 @@
-Cryptosporidium hominis Morgan-Ryan, Fall, Ward, Hijjawi, Sulaiman, Fayer, Thompson, Olson, Lal & Xiao, 2002 SPECIES
-=======
+# Cryptosporidium hominis Morgan-Ryan, Fall, Ward, Hijjawi, Sulaiman, Fayer, Thompson, Olson, Lal & Xiao, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roselliniella africana Diederich SPECIES
-=======
+# Roselliniella africana Diederich SPECIES
 
 #### Status
 ACCEPTED

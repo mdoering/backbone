@@ -1,5 +1,4 @@
-Uredo celastricola Hirats. f. SPECIES
-=======
+# Uredo celastricola Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

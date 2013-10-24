@@ -1,5 +1,4 @@
-Staninwardia B. Sutton GENUS
-=======
+# Staninwardia B. Sutton GENUS
 
 #### Status
 ACCEPTED

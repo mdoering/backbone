@@ -1,5 +1,4 @@
-Luciotrichus lasioboloides R. Galán & Raitv., 1995 SPECIES
-=======
+# Luciotrichus lasioboloides R. Galán & Raitv., 1995 SPECIES
 
 #### Status
 ACCEPTED

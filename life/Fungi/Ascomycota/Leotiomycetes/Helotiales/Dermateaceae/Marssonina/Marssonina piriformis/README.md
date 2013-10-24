@@ -1,5 +1,4 @@
-Marssonina piriformis (Riess) Magnus SPECIES
-=======
+# Marssonina piriformis (Riess) Magnus SPECIES
 
 #### Status
 ACCEPTED

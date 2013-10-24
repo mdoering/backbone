@@ -1,5 +1,4 @@
-Cercospora knigiana A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora knigiana A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

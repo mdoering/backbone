@@ -1,5 +1,4 @@
-Dactylospora Körb. GENUS
-=======
+# Dactylospora Körb. GENUS
 
 #### Status
 ACCEPTED

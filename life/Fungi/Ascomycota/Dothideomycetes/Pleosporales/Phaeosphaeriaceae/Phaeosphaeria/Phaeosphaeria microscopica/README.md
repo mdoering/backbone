@@ -1,17 +1,16 @@
-Leptosphaeria microscopica var. microscopica VARIETY
-=======
+# Phaeosphaeria microscopica (P. Karst.) O.E. Erikss., 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 29(2): 102 (1872)
+Ark. Bot. , Ser. 2 6: 426 (1967)
 
 #### Original name
-Leptosphaeria microscopica var. microscopica
+Leptosphaeria microscopica P. Karst., 1872
 
 ### Remarks
 null

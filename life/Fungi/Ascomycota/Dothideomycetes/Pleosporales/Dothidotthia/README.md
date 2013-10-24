@@ -1,5 +1,4 @@
-Dothidotthia von Höhnel, 1918 GENUS
-=======
+# Dothidotthia von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

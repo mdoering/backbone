@@ -1,5 +1,4 @@
-Cyclobacterium marinum Raj & Maloy, 1990 SPECIES
-=======
+# Cyclobacterium marinum Raj & Maloy, 1990 SPECIES
 
 #### Status
 ACCEPTED

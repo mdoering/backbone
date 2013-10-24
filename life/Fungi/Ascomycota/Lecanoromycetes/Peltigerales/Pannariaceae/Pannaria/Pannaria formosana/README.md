@@ -1,5 +1,4 @@
-Pannaria formosana P. M. Jørg. SPECIES
-=======
+# Pannaria formosana P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

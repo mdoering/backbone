@@ -1,5 +1,4 @@
-Hymenodiscina Naumova, 1964 GENUS
-=======
+# Hymenodiscina Naumova, 1964 GENUS
 
 #### Status
 ACCEPTED

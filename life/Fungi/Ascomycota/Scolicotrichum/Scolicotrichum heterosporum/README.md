@@ -1,5 +1,4 @@
-Scolicotrichum heterosporum (Höhn.) Karak. & Vassiljevsky SPECIES
-=======
+# Scolicotrichum heterosporum (Höhn.) Karak. & Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

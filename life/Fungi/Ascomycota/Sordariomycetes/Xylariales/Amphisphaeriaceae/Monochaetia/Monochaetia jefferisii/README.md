@@ -1,5 +1,4 @@
-Monochaetia jefferisii (Ellis) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia jefferisii (Ellis) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

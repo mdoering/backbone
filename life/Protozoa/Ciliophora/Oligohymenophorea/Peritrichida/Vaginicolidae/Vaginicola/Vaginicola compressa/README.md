@@ -1,5 +1,4 @@
-Vaginicola compressa Entz, 1884 SPECIES
-=======
+# Vaginicola compressa Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

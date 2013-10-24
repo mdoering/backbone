@@ -1,5 +1,4 @@
-Exobasidium giseckiae Allesch. SPECIES
-=======
+# Exobasidium giseckiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

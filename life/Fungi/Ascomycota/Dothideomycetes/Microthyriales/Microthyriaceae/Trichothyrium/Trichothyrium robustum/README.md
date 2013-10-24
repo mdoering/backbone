@@ -1,5 +1,4 @@
-Trichothyrium robustum Doidge SPECIES
-=======
+# Trichothyrium robustum Doidge SPECIES
 
 #### Status
 ACCEPTED

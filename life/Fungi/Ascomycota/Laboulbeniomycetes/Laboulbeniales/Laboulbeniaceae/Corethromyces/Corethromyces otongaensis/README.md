@@ -1,5 +1,4 @@
-Corethromyces otongaensis W. Rossi & A. Weir SPECIES
-=======
+# Corethromyces otongaensis W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

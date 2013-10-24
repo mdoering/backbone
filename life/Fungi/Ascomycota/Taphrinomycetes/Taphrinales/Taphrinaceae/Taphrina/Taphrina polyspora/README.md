@@ -1,5 +1,4 @@
-Taphrina polyspora var. polyspora VARIETY
-=======
+# Taphrina polyspora (Sorokin) Johanson SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 41 (1886)
 
 #### Original name
-Taphrina polyspora var. polyspora
+Ascomyces polysporus Sorokin
 
 ### Remarks
 null

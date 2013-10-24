@@ -1,5 +1,4 @@
-Fumago lauri Boyer & Jacz. SPECIES
-=======
+# Fumago lauri Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

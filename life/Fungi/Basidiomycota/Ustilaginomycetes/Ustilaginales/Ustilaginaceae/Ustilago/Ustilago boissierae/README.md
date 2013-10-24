@@ -1,5 +1,4 @@
-Ustilago boissierae Vánky SPECIES
-=======
+# Ustilago boissierae Vánky SPECIES
 
 #### Status
 ACCEPTED

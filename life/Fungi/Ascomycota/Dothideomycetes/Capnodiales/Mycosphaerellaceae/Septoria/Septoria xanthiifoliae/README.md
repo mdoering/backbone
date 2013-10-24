@@ -1,5 +1,4 @@
-Septoria xanthiifoliae Ellis & Kelsey SPECIES
-=======
+# Septoria xanthiifoliae Ellis & Kelsey SPECIES
 
 #### Status
 ACCEPTED

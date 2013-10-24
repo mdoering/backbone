@@ -1,5 +1,4 @@
-Proplectella ovata Jörgensen, 1924 SPECIES
-=======
+# Proplectella ovata Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

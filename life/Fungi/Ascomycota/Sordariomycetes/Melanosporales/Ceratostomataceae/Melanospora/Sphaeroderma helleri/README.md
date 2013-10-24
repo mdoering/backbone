@@ -1,5 +1,4 @@
-Sphaeroderma helleri (Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaeroderma helleri (Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

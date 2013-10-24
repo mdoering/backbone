@@ -1,5 +1,4 @@
-Passalora monrosii (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora monrosii (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

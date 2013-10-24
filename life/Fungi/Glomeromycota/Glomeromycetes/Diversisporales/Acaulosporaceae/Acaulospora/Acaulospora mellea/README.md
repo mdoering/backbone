@@ -1,5 +1,4 @@
-Acaulospora mellea Spain & N.C. Schenck, 1984 SPECIES
-=======
+# Acaulospora mellea Spain & N.C. Schenck, 1984 SPECIES
 
 #### Status
 ACCEPTED

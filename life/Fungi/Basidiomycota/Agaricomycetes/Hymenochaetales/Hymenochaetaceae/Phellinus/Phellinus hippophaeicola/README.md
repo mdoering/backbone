@@ -1,5 +1,4 @@
-Phellinus hippophaeicola H. Jahn, 1978 SPECIES
-=======
+# Phellinus hippophaeicola H. Jahn, 1978 SPECIES
 
 #### Status
 ACCEPTED

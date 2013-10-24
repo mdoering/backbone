@@ -1,17 +1,16 @@
-Cortinaria equestriformis Murrill SPECIES
-=======
+# Cortinarius equestriformis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 282 (1946)
 
 #### Original name
-Cortinaria equestriformis Murrill
+Cortinarius equestriformis Murrill
 
 ### Remarks
 null

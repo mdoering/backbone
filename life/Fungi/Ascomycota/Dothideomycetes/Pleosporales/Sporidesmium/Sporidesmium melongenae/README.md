@@ -1,5 +1,4 @@
-Sporidesmium melongenae Thüm. SPECIES
-=======
+# Sporidesmium melongenae Thüm. SPECIES
 
 #### Status
 ACCEPTED

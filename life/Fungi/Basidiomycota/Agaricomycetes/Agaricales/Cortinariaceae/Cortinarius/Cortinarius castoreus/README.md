@@ -1,5 +1,4 @@
-Cortinarius castoreus Soop, 2005 SPECIES
-=======
+# Cortinarius castoreus Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

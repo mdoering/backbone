@@ -1,5 +1,4 @@
-Rhizidiomyces ichneumon Gobi, 1899 SPECIES
-=======
+# Rhizidiomyces ichneumon Gobi, 1899 SPECIES
 
 #### Status
 ACCEPTED

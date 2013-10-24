@@ -1,5 +1,4 @@
-Protoroccella follmannii L.M. Sánchez-Pinto & M. Schulz ex Follmann SPECIES
-=======
+# Protoroccella follmannii L.M. Sánchez-Pinto & M. Schulz ex Follmann SPECIES
 
 #### Status
 ACCEPTED

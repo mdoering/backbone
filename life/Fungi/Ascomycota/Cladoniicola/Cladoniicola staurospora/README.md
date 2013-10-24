@@ -1,5 +1,4 @@
-Cladoniicola staurospora Diederich, van den Boom & Aptroot, 2001 SPECIES
-=======
+# Cladoniicola staurospora Diederich, van den Boom & Aptroot, 2001 SPECIES
 
 #### Status
 ACCEPTED

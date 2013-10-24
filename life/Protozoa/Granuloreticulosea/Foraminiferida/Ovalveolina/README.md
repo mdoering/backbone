@@ -1,5 +1,4 @@
-Ovalveolina Reichel, 1936 GENUS
-=======
+# Ovalveolina Reichel, 1936 GENUS
 
 #### Status
 ACCEPTED

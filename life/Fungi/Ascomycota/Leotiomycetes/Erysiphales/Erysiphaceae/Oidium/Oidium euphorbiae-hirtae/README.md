@@ -1,5 +1,4 @@
-Oidium euphorbiae-hirtae J.M. Yen SPECIES
-=======
+# Oidium euphorbiae-hirtae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

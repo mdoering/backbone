@@ -1,8 +1,7 @@
-Cyanostylon banyolensis Margalef SPECIES
-=======
+# Hormothece banyolensis (Margalef) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

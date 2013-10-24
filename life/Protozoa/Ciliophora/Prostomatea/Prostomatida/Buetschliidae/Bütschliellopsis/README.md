@@ -1,5 +1,4 @@
-Bütschliellopsis GENUS
-=======
+# Bütschliellopsis GENUS
 
 #### Status
 ACCEPTED

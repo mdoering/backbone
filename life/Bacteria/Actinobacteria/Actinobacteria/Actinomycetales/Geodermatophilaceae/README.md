@@ -1,5 +1,4 @@
-Geodermatophilaceae FAMILY
-=======
+# Geodermatophilaceae FAMILY
 
 #### Status
 ACCEPTED

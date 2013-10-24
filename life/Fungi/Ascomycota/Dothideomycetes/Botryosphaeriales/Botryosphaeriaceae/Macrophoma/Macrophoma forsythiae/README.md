@@ -1,5 +1,4 @@
-Macrophoma forsythiae Togashi & Tsukam. SPECIES
-=======
+# Macrophoma forsythiae Togashi & Tsukam. SPECIES
 
 #### Status
 ACCEPTED

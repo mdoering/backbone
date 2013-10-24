@@ -1,5 +1,4 @@
-Gardnerula De Toni, 1936 GENUS
-=======
+# Gardnerula De Toni, 1936 GENUS
 
 #### Status
 ACCEPTED

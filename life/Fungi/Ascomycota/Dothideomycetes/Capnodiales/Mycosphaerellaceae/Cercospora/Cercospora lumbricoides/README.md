@@ -1,5 +1,4 @@
-Cercospora lumbricoides Turconi & Maffei SPECIES
-=======
+# Cercospora lumbricoides Turconi & Maffei SPECIES
 
 #### Status
 ACCEPTED

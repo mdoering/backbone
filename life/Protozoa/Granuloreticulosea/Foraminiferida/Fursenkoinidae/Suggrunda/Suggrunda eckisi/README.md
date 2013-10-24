@@ -1,5 +1,4 @@
-Suggrunda eckisi Natland, 1950 SPECIES
-=======
+# Suggrunda eckisi Natland, 1950 SPECIES
 
 #### Status
 ACCEPTED

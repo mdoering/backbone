@@ -1,5 +1,4 @@
-Nigredo graminicola (Burrill) Arthur SPECIES
-=======
+# Nigredo graminicola (Burrill) Arthur SPECIES
 
 #### Status
 ACCEPTED

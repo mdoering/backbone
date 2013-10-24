@@ -1,5 +1,4 @@
-Rhizocarpon heppianum SPECIES
-=======
+# Rhizocarpon heppianum SPECIES
 
 #### Status
 ACCEPTED

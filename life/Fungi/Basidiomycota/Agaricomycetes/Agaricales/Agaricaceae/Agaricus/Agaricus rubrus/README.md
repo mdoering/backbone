@@ -1,5 +1,4 @@
-Agaricus rubrus Fr. SPECIES
-=======
+# Agaricus rubrus Fr. SPECIES
 
 #### Status
 ACCEPTED

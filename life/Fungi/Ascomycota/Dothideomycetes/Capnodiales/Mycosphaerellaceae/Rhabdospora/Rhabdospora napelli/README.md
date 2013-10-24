@@ -1,5 +1,4 @@
-Rhabdospora napelli (Speg.) Petr. SPECIES
-=======
+# Rhabdospora napelli (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

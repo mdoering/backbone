@@ -1,5 +1,4 @@
-Anteholosticha violaceae (Kahl, 1932) Berger, 2003 SPECIES
-=======
+# Anteholosticha violaceae (Kahl, 1932) Berger, 2003 SPECIES
 
 #### Status
 ACCEPTED

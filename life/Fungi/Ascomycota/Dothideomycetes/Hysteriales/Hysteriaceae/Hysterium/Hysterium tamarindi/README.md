@@ -1,5 +1,4 @@
-Hysterium tamarindi Tilak & R. Rao SPECIES
-=======
+# Hysterium tamarindi Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella callicarpa (Penz. & Sacc.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Astrosphaeriella callicarpa (Penz. & Sacc.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

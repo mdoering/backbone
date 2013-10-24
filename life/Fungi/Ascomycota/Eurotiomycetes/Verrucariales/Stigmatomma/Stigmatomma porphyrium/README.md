@@ -1,5 +1,4 @@
-Stigmatomma porphyrium (G. Mey.) Körb. SPECIES
-=======
+# Stigmatomma porphyrium (G. Mey.) Körb. SPECIES
 
 #### Status
 ACCEPTED

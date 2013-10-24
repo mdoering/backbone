@@ -1,5 +1,4 @@
-Myxoparaphysella Caball. GENUS
-=======
+# Myxoparaphysella Caball. GENUS
 
 #### Status
 ACCEPTED

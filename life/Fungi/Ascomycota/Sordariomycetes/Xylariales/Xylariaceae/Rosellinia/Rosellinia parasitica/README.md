@@ -1,5 +1,4 @@
-Rosellinia parasitica Ellis & Everh. SPECIES
-=======
+# Rosellinia parasitica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

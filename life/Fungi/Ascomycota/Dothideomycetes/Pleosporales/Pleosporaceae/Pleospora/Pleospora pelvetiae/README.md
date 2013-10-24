@@ -1,5 +1,4 @@
-Pleospora pelvetiae G.K. Sutherl., 1915 SPECIES
-=======
+# Pleospora pelvetiae G.K. Sutherl., 1915 SPECIES
 
 #### Status
 ACCEPTED

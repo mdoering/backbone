@@ -1,5 +1,4 @@
-Blastenia comorensis Zahlbr. SPECIES
-=======
+# Blastenia comorensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

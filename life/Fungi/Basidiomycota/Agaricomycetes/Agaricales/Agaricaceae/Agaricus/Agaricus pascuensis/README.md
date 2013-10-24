@@ -1,5 +1,4 @@
-Agaricus pascuensis Peck SPECIES
-=======
+# Agaricus pascuensis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Athelia orientalis (Parmasto) Zmitr., 2004 SPECIES
-=======
+# Atheloderma orientale Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 202 (1968)
 
 #### Original name
-null
+Atheloderma orientale Parmasto, 1968
 
 ### Remarks
 null

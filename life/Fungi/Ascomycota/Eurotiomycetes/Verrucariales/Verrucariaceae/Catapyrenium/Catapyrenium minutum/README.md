@@ -1,5 +1,4 @@
-Catapyrenium minutum (H. Magn.) J.C. Wei SPECIES
-=======
+# Catapyrenium minutum (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

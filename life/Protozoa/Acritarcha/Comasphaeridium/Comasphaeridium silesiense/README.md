@@ -1,5 +1,4 @@
-Comasphaeridium silesiense Moczydlowska, 1998 SPECIES
-=======
+# Comasphaeridium silesiense Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

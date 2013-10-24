@@ -1,5 +1,4 @@
-Leiothrichoides T.N. Hermann in B.V. Timofeev, 1974 GENUS
-=======
+# Leiothrichoides T.N. Hermann in B.V. Timofeev, 1974 GENUS
 
 #### Status
 ACCEPTED

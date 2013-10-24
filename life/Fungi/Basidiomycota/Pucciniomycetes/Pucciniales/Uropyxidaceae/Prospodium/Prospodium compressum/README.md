@@ -1,5 +1,4 @@
-Prospodium compressum (Dietel) Cummins SPECIES
-=======
+# Prospodium compressum (Dietel) Cummins SPECIES
 
 #### Status
 ACCEPTED

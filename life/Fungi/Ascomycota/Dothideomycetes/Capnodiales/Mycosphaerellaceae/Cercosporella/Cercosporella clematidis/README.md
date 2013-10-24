@@ -1,5 +1,4 @@
-Cercosporella clematidis Sawada SPECIES
-=======
+# Cercosporella clematidis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea plocina Ach. SPECIES
-=======
+# Lecidea plocina Ach. SPECIES
 
 #### Status
 ACCEPTED

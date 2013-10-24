@@ -1,5 +1,4 @@
-Pseudouroleptus caudatus subsp. namibiensis Foissner, Agatha & Berger, 2002 SUBSPECIES
-=======
+# Pseudouroleptus caudatus Hemberger SPECIES
 
 #### Status
 ACCEPTED

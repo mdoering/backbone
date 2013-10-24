@@ -1,5 +1,4 @@
-Peziza myriospora Hepp SPECIES
-=======
+# Peziza myriospora Hepp SPECIES
 
 #### Status
 ACCEPTED

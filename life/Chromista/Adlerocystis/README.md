@@ -1,5 +1,4 @@
-Adlerocystis Feldm.-Muhs. & Havivi GENUS
-=======
+# Adlerocystis Feldm.-Muhs. & Havivi GENUS
 
 #### Status
 ACCEPTED

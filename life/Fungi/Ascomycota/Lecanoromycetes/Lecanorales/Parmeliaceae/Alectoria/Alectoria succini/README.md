@@ -1,5 +1,4 @@
-Alectoria succini Mägd. SPECIES
-=======
+# Alectoria succini Mägd. SPECIES
 
 #### Status
 ACCEPTED

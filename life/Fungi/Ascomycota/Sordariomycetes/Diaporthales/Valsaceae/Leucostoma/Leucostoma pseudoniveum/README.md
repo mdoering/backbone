@@ -1,5 +1,4 @@
-Leucostoma pseudoniveum Lar.N. Vassiljeva SPECIES
-=======
+# Leucostoma pseudoniveum Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

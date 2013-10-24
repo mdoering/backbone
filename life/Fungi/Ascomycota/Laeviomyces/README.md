@@ -1,5 +1,4 @@
-Laeviomyces D. Hawksw. GENUS
-=======
+# Laeviomyces D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

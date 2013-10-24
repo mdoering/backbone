@@ -1,5 +1,4 @@
-Paxillus lacunosus Fr. SPECIES
-=======
+# Paxillus lacunosus Fr. SPECIES
 
 #### Status
 ACCEPTED

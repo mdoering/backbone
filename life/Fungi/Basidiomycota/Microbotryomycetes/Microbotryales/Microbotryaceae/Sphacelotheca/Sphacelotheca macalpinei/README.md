@@ -1,17 +1,16 @@
-Sphacelotheca macalpineae Zundel SPECIES
-=======
+# Sphacelotheca macalpinei Zundel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 31: 583 (1939)
 
 #### Original name
-Sphacelotheca macalpineae Zundel
+Sphacelotheca macalpinei Zundel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenopeziza lavaterae E. Müll. & S. Ahmad SPECIES
-=======
+# Pyrenopeziza lavaterae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

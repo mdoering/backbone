@@ -1,5 +1,4 @@
-Usnea trachycarpoides (Vain.) C.W. Dodge SPECIES
-=======
+# Usnea trachycarpoides (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria livistonae J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Phaeosphaeria livistonae J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

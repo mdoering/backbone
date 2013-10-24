@@ -1,5 +1,4 @@
-Puccinia aristidicola Henn. SPECIES
-=======
+# Puccinia aristidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phytophthora melongenae var. ananaphthoros Sideris VARIETY
-=======
+# Phytophthora nicotianae Breda de Haan, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meded. Lds PlTuin, Batavia 15: 57 (1896)
 
 #### Original name
-null
+Phytophthora nicotianae Breda de Haan, 1896
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Microthelia brisbanensis Müll. Arg. SPECIES
-=======
+# Mycomicrothelia obovata (Stirt.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rep. Meetings Australs. Assoc. Advancem. Sci. 455 (1895)
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 106 (1985)
 
 #### Original name
-Microthelia brisbanensis Müll. Arg.
+null
 
 ### Remarks
 null

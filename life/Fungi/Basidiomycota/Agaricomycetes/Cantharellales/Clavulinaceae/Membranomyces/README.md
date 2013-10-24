@@ -1,5 +1,4 @@
-Membranomyces Jülich GENUS
-=======
+# Membranomyces Jülich GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria podocarpi Thüm. SPECIES
-=======
+# Septoria podocarpi Thüm. SPECIES
 
 #### Status
 ACCEPTED

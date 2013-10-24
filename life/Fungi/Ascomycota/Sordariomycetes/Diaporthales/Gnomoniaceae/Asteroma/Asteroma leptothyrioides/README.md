@@ -1,5 +1,4 @@
-Asteroma leptothyrioides (Kabát & Bubák) B. Sutton SPECIES
-=======
+# Asteroma leptothyrioides (Kabát & Bubák) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

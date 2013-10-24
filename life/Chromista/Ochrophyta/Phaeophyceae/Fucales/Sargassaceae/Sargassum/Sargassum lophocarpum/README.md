@@ -1,5 +1,4 @@
-Sargassum lophocarpum J. Agardh SPECIES
-=======
+# Sargassum lophocarpum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

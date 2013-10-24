@@ -1,5 +1,4 @@
-Arthrobotrys apscheronica Mekht. SPECIES
-=======
+# Arthrobotrys apscheronica Mekht. SPECIES
 
 #### Status
 ACCEPTED

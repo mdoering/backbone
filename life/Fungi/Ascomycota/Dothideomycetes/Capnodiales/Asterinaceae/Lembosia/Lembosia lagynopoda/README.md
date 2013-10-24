@@ -1,5 +1,4 @@
-Lembosia lagynopoda Syd. SPECIES
-=======
+# Lembosia lagynopoda Syd. SPECIES
 
 #### Status
 ACCEPTED

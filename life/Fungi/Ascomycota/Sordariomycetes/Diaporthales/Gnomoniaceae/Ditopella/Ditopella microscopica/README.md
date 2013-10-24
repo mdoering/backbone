@@ -1,5 +1,4 @@
-Ditopella microscopica P. Karst. SPECIES
-=======
+# Ditopella microscopica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

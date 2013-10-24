@@ -1,5 +1,4 @@
-Aecidium hydrangeae Pat. SPECIES
-=======
+# Aecidium hydrangeae Pat. SPECIES
 
 #### Status
 ACCEPTED

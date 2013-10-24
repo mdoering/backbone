@@ -1,5 +1,4 @@
-Dioicomyces torulosus Speg. SPECIES
-=======
+# Dioicomyces torulosus Speg. SPECIES
 
 #### Status
 ACCEPTED

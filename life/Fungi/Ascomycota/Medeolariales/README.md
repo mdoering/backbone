@@ -1,5 +1,4 @@
-Medeolariales Korf ORDER
-=======
+# Medeolariales Korf ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Permutotetraviridae FAMILY
-=======
+# Permutotetraviridae FAMILY
 
 #### Status
 ACCEPTED

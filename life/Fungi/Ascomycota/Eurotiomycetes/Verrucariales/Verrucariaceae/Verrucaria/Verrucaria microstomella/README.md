@@ -1,5 +1,4 @@
-Verrucaria microstomella Servít SPECIES
-=======
+# Verrucaria microstomella Servít SPECIES
 
 #### Status
 ACCEPTED

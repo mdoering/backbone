@@ -1,5 +1,4 @@
-Zoothamnium carinogammari Stilller, 1950 SPECIES
-=======
+# Zoothamnium carinogammari Stilller, 1950 SPECIES
 
 #### Status
 ACCEPTED

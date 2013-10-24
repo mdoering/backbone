@@ -1,5 +1,4 @@
-Anthracothecium ochraceoflavens (Nyl.) Zahlbr. SPECIES
-=======
+# Anthracothecium ochraceoflavens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

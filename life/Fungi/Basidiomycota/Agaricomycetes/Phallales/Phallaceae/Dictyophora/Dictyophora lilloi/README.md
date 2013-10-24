@@ -1,5 +1,4 @@
-Dictyophora lilloi Speg. SPECIES
-=======
+# Dictyophora lilloi Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria subareolata Müll. Arg. SPECIES
-=======
+# Pertusaria subareolata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

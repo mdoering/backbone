@@ -1,5 +1,4 @@
-Rhizopogonaceae Gäum. & C.W. Dodge FAMILY
-=======
+# Rhizopogonaceae Gäum. & C.W. Dodge FAMILY
 
 #### Status
 ACCEPTED

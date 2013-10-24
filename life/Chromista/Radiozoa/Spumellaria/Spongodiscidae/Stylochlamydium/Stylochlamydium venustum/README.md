@@ -1,8 +1,7 @@
-Spongotrochus venustum (Bailey, 1856) SPECIES
-=======
+# Stylochlamydium venustum (Bailey) Haeckel, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

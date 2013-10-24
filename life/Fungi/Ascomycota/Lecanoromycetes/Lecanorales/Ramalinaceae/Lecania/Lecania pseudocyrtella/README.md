@@ -1,5 +1,4 @@
-Lecania pseudocyrtella (Anzi) Lettau SPECIES
-=======
+# Lecania pseudocyrtella (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

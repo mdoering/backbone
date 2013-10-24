@@ -1,5 +1,4 @@
-Fusarium penicillatum (Harz) Sacc. SPECIES
-=======
+# Fusarium penicillatum (Harz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

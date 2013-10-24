@@ -1,5 +1,4 @@
-Lembosia eucalypti F. Stevens & M. Dixon SPECIES
-=======
+# Lembosia eucalypti F. Stevens & M. Dixon SPECIES
 
 #### Status
 ACCEPTED

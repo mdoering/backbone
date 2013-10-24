@@ -1,5 +1,4 @@
-Neocanoptum GENUS
-=======
+# Neocanoptum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus impudicus var. impudicus VARIETY
-=======
+# Phallus impudicus L. Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sp. pl. 2: 1178 (1753)
+null
 
 #### Original name
-Phallus impudicus var. impudicus
+null
 
 ### Remarks
 null

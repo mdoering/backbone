@@ -1,5 +1,4 @@
-Cercospora liquidambaris Cooke & Ellis SPECIES
-=======
+# Cercospora liquidambaris Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

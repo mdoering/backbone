@@ -1,5 +1,4 @@
-Phoma bonanseana Sacc. SPECIES
-=======
+# Phoma bonanseana Sacc. SPECIES
 
 #### Status
 ACCEPTED

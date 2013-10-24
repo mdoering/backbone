@@ -1,5 +1,4 @@
-Phragmodothis asperata (Syd.) Syd. & P. Syd. SPECIES
-=======
+# Phragmodothis asperata (Syd.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

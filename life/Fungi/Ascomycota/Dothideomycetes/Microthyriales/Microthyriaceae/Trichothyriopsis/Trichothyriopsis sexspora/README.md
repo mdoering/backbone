@@ -1,8 +1,7 @@
-Trichothyrium sexsporum Starbäck SPECIES
-=======
+# Trichothyriopsis sexspora (Starbäck) Theiss., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

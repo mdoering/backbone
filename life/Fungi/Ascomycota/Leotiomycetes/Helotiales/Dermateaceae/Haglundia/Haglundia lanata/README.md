@@ -1,5 +1,4 @@
-Haglundia lanata Arendh. & R. Sharma SPECIES
-=======
+# Haglundia lanata Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

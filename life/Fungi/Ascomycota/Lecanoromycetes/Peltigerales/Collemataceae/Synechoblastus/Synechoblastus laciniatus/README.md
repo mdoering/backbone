@@ -1,5 +1,4 @@
-Synechoblastus laciniatus (Nyl.) Fink SPECIES
-=======
+# Synechoblastus laciniatus (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

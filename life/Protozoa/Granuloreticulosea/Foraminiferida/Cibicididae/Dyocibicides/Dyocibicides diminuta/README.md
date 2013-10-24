@@ -1,5 +1,4 @@
-Dyocibicides diminuta Tinoco, 1958 SPECIES
-=======
+# Dyocibicides diminuta Tinoco, 1958 SPECIES
 
 #### Status
 ACCEPTED

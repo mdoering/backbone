@@ -1,5 +1,4 @@
-Acrostaurus turneri Deighton & Piroz., 1972 SPECIES
-=======
+# Acrostaurus turneri Deighton & Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

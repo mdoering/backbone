@@ -1,5 +1,4 @@
-Venturia antherici Hollós SPECIES
-=======
+# Venturia antherici Hollós SPECIES
 
 #### Status
 ACCEPTED

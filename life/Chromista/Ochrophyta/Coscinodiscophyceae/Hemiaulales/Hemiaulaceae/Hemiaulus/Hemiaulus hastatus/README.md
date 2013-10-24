@@ -1,5 +1,4 @@
-Hemiaulus hastatus Greville SPECIES
-=======
+# Hemiaulus hastatus Greville SPECIES
 
 #### Status
 ACCEPTED

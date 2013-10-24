@@ -1,5 +1,4 @@
-Lecidea payeri (Körb.) Stizenb. SPECIES
-=======
+# Lecidea payeri (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mazzantia minuta Schulzer SPECIES
-=======
+# Mazzantia minuta Schulzer SPECIES
 
 #### Status
 ACCEPTED

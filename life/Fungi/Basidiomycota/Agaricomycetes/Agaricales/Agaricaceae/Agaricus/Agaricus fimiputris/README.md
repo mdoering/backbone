@@ -1,5 +1,4 @@
-Agaricus fimiputris Bull. SPECIES
-=======
+# Agaricus fimiputris Bull. SPECIES
 
 #### Status
 ACCEPTED

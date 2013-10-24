@@ -1,5 +1,4 @@
-Sphaerella montenegrina Bubák SPECIES
-=======
+# Sphaerella montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltidea esculenta (Pall.) Ach. SPECIES
-=======
+# Peltidea esculenta (Pall.) Ach. SPECIES
 
 #### Status
 ACCEPTED

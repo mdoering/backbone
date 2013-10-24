@@ -1,5 +1,4 @@
-Mortierella globalpina W. Gams & Veenb.-Rijks, 1976 SPECIES
-=======
+# Mortierella globalpina W. Gams & Veenb.-Rijks, 1976 SPECIES
 
 #### Status
 ACCEPTED

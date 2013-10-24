@@ -1,5 +1,4 @@
-Pseudotrichomonas Bishop, 1940 GENUS
-=======
+# Pseudotrichomonas Bishop, 1940 GENUS
 
 #### Status
 ACCEPTED

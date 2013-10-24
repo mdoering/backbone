@@ -1,5 +1,4 @@
-Coltricia haskarlii (Lév.) G. Cunn. SPECIES
-=======
+# Coltricia haskarlii (Lév.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

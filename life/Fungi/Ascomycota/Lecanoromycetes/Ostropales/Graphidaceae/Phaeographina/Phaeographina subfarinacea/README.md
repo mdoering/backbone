@@ -1,5 +1,4 @@
-Phaeographina subfarinacea (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina subfarinacea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

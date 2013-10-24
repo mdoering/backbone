@@ -1,5 +1,4 @@
-Mollisia propinqua (Sacc. & Ellis) Dennis SPECIES
-=======
+# Mollisia propinqua (Sacc. & Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

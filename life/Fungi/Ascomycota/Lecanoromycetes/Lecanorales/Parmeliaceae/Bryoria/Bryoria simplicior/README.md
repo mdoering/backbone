@@ -1,5 +1,4 @@
-Bryoria simplicior (Vain.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria simplicior (Vain.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

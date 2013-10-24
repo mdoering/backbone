@@ -1,5 +1,4 @@
-Stenella solidaginis (Chupp & H.C. Greene) Crous & U. Braun SPECIES
-=======
+# Stenella solidaginis (Chupp & H.C. Greene) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

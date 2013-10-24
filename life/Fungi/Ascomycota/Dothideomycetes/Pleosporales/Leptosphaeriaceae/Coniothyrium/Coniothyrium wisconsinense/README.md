@@ -1,5 +1,4 @@
-Coniothyrium wisconsinense H.C. Greene SPECIES
-=======
+# Coniothyrium wisconsinense H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poronia ehrenbergii Henn. SPECIES
-=======
+# Poronia ehrenbergii Henn. SPECIES
 
 #### Status
 ACCEPTED

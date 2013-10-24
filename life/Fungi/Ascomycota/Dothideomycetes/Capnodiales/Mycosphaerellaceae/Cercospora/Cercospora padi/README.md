@@ -1,5 +1,4 @@
-Cercospora padi var. padi VARIETY
-=======
+# Cercospora padi Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 52: 271 (1912)
 
 #### Original name
-Cercospora padi var. padi
+Cercospora padi Bubák & Serebrian.
 
 ### Remarks
 null

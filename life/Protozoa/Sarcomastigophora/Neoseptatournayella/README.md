@@ -1,5 +1,4 @@
-Neoseptatournayella Bogush, 1980 GENUS
-=======
+# Neoseptatournayella Bogush, 1980 GENUS
 
 #### Status
 ACCEPTED

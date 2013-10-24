@@ -1,5 +1,4 @@
-Stagonospora koraiensis Ziling SPECIES
-=======
+# Stagonospora koraiensis Ziling SPECIES
 
 #### Status
 ACCEPTED

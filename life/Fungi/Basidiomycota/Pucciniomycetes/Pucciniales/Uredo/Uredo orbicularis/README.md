@@ -1,5 +1,4 @@
-Uredo orbicularis Mart. SPECIES
-=======
+# Uredo orbicularis Mart. SPECIES
 
 #### Status
 ACCEPTED

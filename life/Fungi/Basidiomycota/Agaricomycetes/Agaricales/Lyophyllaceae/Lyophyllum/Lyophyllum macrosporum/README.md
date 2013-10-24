@@ -1,5 +1,4 @@
-Lyophyllum macrosporum Singer SPECIES
-=======
+# Lyophyllum macrosporum Singer SPECIES
 
 #### Status
 ACCEPTED

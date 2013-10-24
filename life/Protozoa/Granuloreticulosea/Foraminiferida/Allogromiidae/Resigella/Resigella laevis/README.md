@@ -1,5 +1,4 @@
-Resigella laevis Gooday, Todo, Uematsu & Kitazato, 2008 SPECIES
-=======
+# Resigella laevis Gooday, Todo, Uematsu & Kitazato, 2008 SPECIES
 
 #### Status
 ACCEPTED

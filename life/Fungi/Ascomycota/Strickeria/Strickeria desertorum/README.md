@@ -1,5 +1,4 @@
-Strickeria desertorum Kravtzev SPECIES
-=======
+# Strickeria desertorum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

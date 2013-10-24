@@ -1,17 +1,16 @@
-Entoloma nilgirisiensis Natarajan & C. Ravindran SPECIES
-=======
+# Entoloma nilgirisiense Natarajan & C. Ravindran SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 85: 143 (2003)
 
 #### Original name
-Entoloma nilgirisiensis Natarajan & C. Ravindran
+Entoloma nilgirisiense Natarajan & C. Ravindran
 
 ### Remarks
 null

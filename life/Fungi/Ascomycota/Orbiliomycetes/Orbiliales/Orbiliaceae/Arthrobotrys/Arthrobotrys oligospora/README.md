@@ -1,17 +1,16 @@
-Didymozoophaga oligospora var. oligospora VARIETY
-=======
+# Arthrobotrys oligospora Fresen., 1850 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microbiol. , Reading 20: 493 (1951)
+Beitr. Mykol. 1: 18 (1850)
 
 #### Original name
-Didymozoophaga oligospora var. oligospora
+Arthrobotrys oligospora Fresen., 1850
 
 ### Remarks
 null

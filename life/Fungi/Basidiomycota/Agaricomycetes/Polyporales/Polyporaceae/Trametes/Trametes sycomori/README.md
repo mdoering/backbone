@@ -1,5 +1,4 @@
-Trametes sycomori Henn. SPECIES
-=======
+# Trametes sycomori Henn. SPECIES
 
 #### Status
 ACCEPTED

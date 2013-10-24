@@ -1,5 +1,4 @@
-Sarcogyne coronata Jatta SPECIES
-=======
+# Sarcogyne coronata Jatta SPECIES
 
 #### Status
 ACCEPTED

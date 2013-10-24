@@ -1,5 +1,4 @@
-Gyrophthorus Hafellner & Sancho GENUS
-=======
+# Gyrophthorus Hafellner & Sancho GENUS
 
 #### Status
 ACCEPTED

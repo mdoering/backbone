@@ -1,5 +1,4 @@
-Synandromyces javanus Thaxt., 1912 SPECIES
-=======
+# Synandromyces javanus Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

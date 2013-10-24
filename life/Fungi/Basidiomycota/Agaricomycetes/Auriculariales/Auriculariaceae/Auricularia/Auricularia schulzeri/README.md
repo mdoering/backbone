@@ -1,5 +1,4 @@
-Auricularia schulzeri Quél. SPECIES
-=======
+# Auricularia schulzeri Quél. SPECIES
 
 #### Status
 ACCEPTED

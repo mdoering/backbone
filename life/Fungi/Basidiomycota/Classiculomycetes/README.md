@@ -1,5 +1,4 @@
-Classiculomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
-=======
+# Classiculomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
 
 #### Status
 ACCEPTED

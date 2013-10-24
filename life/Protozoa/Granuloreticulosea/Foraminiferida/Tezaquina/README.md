@@ -1,5 +1,4 @@
-Tezaquina Vachard & Montenat, 1981 GENUS
-=======
+# Tezaquina Vachard & Montenat, 1981 GENUS
 
 #### Status
 ACCEPTED

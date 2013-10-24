@@ -1,14 +1,13 @@
-Hebeloma repandum Bruchet, 1970 SPECIES
-=======
+# Hebeloma bruchetii Bon, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contribution a l'Etude de Quelques Aspergilles 39(6 [Suppl. ]): 50 (1970)
+Bull. trimest. Féd. Mycol. Dauphiné-Savoie 25(no. 102): 23 (1986)
 
 #### Original name
 Hebeloma repandum Bruchet, 1970

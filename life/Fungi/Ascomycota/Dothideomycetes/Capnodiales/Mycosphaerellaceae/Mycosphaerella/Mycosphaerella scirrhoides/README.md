@@ -1,5 +1,4 @@
-Mycosphaerella scirrhoides M.E. Barr SPECIES
-=======
+# Mycosphaerella scirrhoides M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

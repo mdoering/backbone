@@ -1,17 +1,16 @@
-Cortinarius natalis var. natalis VARIETY
-=======
+# Cortinarius natalis D. Antonini & M. Antonini SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fungi Non Delineati, Raro vel Haud Perspecte et Explorate Descripti aut Definite Picti 22: 19 (2002)
 
 #### Original name
-null
+Cortinarius natalis D. Antonini & M. Antonini
 
 ### Remarks
 null

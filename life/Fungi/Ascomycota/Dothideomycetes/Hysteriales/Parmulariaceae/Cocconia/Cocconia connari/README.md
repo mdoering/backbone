@@ -1,5 +1,4 @@
-Cocconia connari Hansf., 1945 SPECIES
-=======
+# Cocconia connari Hansf., 1945 SPECIES
 
 #### Status
 ACCEPTED

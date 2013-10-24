@@ -1,5 +1,4 @@
-Polyporus lazaroanus Sacc. & Trotter SPECIES
-=======
+# Polyporus lazaroanus Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces itoanus Hirats. f. SPECIES
-=======
+# Uromyces itoanus Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

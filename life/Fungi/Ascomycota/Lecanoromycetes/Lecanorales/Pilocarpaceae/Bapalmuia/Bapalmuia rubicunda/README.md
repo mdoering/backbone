@@ -1,14 +1,13 @@
-Bacidia rubicunda (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bapalmuia rubicunda (Müll. Arg.) Sérus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 239 (1926)
+Nordic Jl Bot. 13(4): 451 (1993)
 
 #### Original name
 null

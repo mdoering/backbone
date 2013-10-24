@@ -1,5 +1,4 @@
-Rhinotrichum aureum Cooke & Massee, 1889 SPECIES
-=======
+# Rhinotrichum aureum Cooke & Massee, 1889 SPECIES
 
 #### Status
 ACCEPTED

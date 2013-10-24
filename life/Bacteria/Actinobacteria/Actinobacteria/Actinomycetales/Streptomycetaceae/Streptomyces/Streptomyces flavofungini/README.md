@@ -1,11 +1,10 @@
-Actinomyces flavofungini (Uri & Bekesi) Szabó & Preobrazhenskaya, 1962 SPECIES
-=======
+# Streptomyces flavofungini (ex Uri & Bekesi) Szabó & Preobrazhenskaya, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Phomatospora concinna Petr. SPECIES
-=======
+# Phomatospora concinna Petr. SPECIES
 
 #### Status
 ACCEPTED

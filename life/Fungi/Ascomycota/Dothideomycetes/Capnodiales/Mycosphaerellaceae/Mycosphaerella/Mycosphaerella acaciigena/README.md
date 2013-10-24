@@ -1,5 +1,4 @@
-Mycosphaerella acaciigena Crous & M.J. Wingf., 2004 SPECIES
-=======
+# Mycosphaerella acaciigena Crous & M.J. Wingf., 2004 SPECIES
 
 #### Status
 ACCEPTED

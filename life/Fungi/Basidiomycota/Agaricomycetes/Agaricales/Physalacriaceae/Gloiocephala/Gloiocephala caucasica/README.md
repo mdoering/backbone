@@ -1,5 +1,4 @@
-Gloiocephala caucasica (Singer) Singer SPECIES
-=======
+# Gloiocephala caucasica (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

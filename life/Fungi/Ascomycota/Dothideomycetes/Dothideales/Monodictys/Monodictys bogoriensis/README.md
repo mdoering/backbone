@@ -1,5 +1,4 @@
-Monodictys bogoriensis (Penz. & Sacc.) S. Hughes SPECIES
-=======
+# Monodictys bogoriensis (Penz. & Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

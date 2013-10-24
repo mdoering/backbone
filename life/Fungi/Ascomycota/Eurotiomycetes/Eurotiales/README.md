@@ -1,5 +1,4 @@
-Eurotiales G.W. Martin ex Benny & Kimbr. ORDER
-=======
+# Eurotiales G.W. Martin ex Benny & Kimbr. ORDER
 
 #### Status
 ACCEPTED

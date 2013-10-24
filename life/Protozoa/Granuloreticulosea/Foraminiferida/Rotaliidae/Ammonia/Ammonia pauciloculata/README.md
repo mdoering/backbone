@@ -1,5 +1,4 @@
-Ammonia pauciloculata SPECIES
-=======
+# Ammonia pauciloculata SPECIES
 
 #### Status
 ACCEPTED

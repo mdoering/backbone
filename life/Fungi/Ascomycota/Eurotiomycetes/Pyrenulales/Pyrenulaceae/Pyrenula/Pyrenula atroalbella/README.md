@@ -1,5 +1,4 @@
-Pyrenula atroalbella Vain. SPECIES
-=======
+# Pyrenula atroalbella Vain. SPECIES
 
 #### Status
 ACCEPTED

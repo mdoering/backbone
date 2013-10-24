@@ -1,5 +1,4 @@
-Puccinia dovrensis var. dovrensis VARIETY
-=======
+# Puccinia dovrensis A. Blytt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia dovrensis var. dovrensis
+Puccinia dovrensis A. Blytt
 
 ### Remarks
 null

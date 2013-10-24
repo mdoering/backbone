@@ -1,5 +1,4 @@
-Paenibacillus koreensis Chung et al., 2000 SPECIES
-=======
+# Paenibacillus koreensis Chung et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

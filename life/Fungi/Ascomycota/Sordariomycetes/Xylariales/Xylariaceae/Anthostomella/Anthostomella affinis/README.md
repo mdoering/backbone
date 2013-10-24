@@ -1,5 +1,4 @@
-Anthostomella affinis Sacc. SPECIES
-=======
+# Anthostomella affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

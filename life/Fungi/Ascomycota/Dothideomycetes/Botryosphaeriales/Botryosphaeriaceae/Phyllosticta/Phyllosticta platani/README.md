@@ -1,5 +1,4 @@
-Phyllosticta platani Sacc. & Speg. SPECIES
-=======
+# Phyllosticta platani Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea incarnata Sm. SPECIES
-=======
+# Usnea incarnata Sm. SPECIES
 
 #### Status
 ACCEPTED

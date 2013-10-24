@@ -1,5 +1,4 @@
-Echinochrysis W.Conrad, 1926 GENUS
-=======
+# Echinochrysis W.Conrad, 1926 GENUS
 
 #### Status
 SYNONYM

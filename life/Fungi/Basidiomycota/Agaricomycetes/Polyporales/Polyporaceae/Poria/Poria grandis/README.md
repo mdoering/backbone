@@ -1,5 +1,4 @@
-Poria grandis Overh. SPECIES
-=======
+# Poria grandis Overh. SPECIES
 
 #### Status
 ACCEPTED

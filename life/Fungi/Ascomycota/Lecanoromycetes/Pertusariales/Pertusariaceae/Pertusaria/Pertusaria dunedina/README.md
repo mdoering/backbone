@@ -1,5 +1,4 @@
-Pertusaria dunedina Zahlbr. SPECIES
-=======
+# Pertusaria dunedina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

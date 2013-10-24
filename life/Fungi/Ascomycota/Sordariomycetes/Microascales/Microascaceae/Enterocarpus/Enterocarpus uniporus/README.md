@@ -1,5 +1,4 @@
-Enterocarpus uniporus Locq.-Lin., 1977 SPECIES
-=======
+# Enterocarpus uniporus Locq.-Lin., 1977 SPECIES
 
 #### Status
 ACCEPTED

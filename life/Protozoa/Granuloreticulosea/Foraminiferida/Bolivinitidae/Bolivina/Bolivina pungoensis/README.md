@@ -1,5 +1,4 @@
-Bolivina pungoensis SPECIES
-=======
+# Bolivina pungoensis SPECIES
 
 #### Status
 ACCEPTED

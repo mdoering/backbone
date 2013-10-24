@@ -1,5 +1,4 @@
-Aseroë arachnoidea var. arachnoidea VARIETY
-=======
+# Aseroë arachnoidea E. Fisch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aseroë arachnoidea var. arachnoidea
+Aseroë arachnoidea E. Fisch.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatorella atropurpurea (Schaer.) SPECIES
-=======
+# Biatorella atropurpurea (Schaer.) SPECIES
 
 #### Status
 ACCEPTED

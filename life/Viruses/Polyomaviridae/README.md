@@ -1,5 +1,4 @@
-Polyomaviridae FAMILY
-=======
+# Polyomaviridae FAMILY
 
 #### Status
 ACCEPTED

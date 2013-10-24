@@ -1,5 +1,4 @@
-Hypocrea vittata Pat. SPECIES
-=======
+# Hypocrea vittata Pat. SPECIES
 
 #### Status
 ACCEPTED

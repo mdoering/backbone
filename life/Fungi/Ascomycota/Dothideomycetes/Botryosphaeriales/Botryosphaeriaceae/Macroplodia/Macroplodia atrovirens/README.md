@@ -1,5 +1,4 @@
-Macroplodia atrovirens (Alb. & Schwein.) Kuntze SPECIES
-=======
+# Macroplodia atrovirens (Alb. & Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

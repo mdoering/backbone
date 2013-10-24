@@ -1,5 +1,4 @@
-Astrosporina imbricata Cleland SPECIES
-=======
+# Astrosporina imbricata Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterococcus mundtii Collins et al., 1986 SPECIES
-=======
+# Enterococcus mundtii Collins et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

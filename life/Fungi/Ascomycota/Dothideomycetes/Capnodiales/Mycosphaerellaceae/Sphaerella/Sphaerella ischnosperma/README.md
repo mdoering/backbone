@@ -1,5 +1,4 @@
-Sphaerella ischnosperma Kirschst. SPECIES
-=======
+# Sphaerella ischnosperma Kirschst. SPECIES
 
 #### Status
 ACCEPTED

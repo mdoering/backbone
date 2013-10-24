@@ -1,5 +1,4 @@
-Amphisphaeria juglandicola Feltgen SPECIES
-=======
+# Amphisphaeria juglandicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

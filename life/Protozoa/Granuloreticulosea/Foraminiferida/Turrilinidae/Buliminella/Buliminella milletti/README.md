@@ -1,5 +1,4 @@
-Buliminella milletti SPECIES
-=======
+# Buliminella milletti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta zeae G.L. Stout SPECIES
-=======
+# Phyllosticta zeae G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

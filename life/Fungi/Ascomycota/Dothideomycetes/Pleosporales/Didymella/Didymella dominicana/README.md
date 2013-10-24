@@ -1,5 +1,4 @@
-Didymella dominicana Cif. & Gonz. Frag. SPECIES
-=======
+# Didymella dominicana Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodesmium phoenicis (Fr.) Chevall. SPECIES
-=======
+# Trichodesmium phoenicis (Fr.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

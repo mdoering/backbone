@@ -1,5 +1,4 @@
-Rhizophydium squamosum Golubeva SPECIES
-=======
+# Rhizophydium squamosum Golubeva SPECIES
 
 #### Status
 ACCEPTED

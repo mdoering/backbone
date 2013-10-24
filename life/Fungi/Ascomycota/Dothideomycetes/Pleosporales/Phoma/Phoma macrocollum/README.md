@@ -1,5 +1,4 @@
-Phoma macrocollum Alcalde SPECIES
-=======
+# Phoma macrocollum Alcalde SPECIES
 
 #### Status
 ACCEPTED

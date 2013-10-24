@@ -1,17 +1,16 @@
-Psathyra pennata f. pennata FORM
-=======
+# Psathyrella canoceps (Kauffman) A.H. Sm., 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 5: 43 (1941)
 
 #### Original name
-null
+Hypholoma canoceps Kauffman, 1926
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Quasispiroplectammina Loeblich & Tappan, 1982 GENUS
-=======
+# Quasispiroplectammina Loeblich & Tappan, 1982 GENUS
 
 #### Status
 ACCEPTED

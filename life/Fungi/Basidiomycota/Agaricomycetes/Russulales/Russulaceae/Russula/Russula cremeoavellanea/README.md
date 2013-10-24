@@ -1,5 +1,4 @@
-Russula cremeoavellanea Singer, 1936 SPECIES
-=======
+# Russula cremeoavellanea Singer, 1936 SPECIES
 
 #### Status
 ACCEPTED

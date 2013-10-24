@@ -1,5 +1,4 @@
-Irenopsis xanthophylli Hosag. SPECIES
-=======
+# Irenopsis xanthophylli Hosag. SPECIES
 
 #### Status
 ACCEPTED

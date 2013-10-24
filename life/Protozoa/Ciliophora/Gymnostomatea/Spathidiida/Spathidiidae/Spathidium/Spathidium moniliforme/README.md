@@ -1,5 +1,4 @@
-Spathidium moniliforme Bathia, 1920 SPECIES
-=======
+# Spathidium moniliforme Bathia, 1920 SPECIES
 
 #### Status
 ACCEPTED

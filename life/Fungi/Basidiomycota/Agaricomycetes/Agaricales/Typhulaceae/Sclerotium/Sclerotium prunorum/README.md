@@ -1,5 +1,4 @@
-Sclerotium prunorum Schwein. SPECIES
-=======
+# Sclerotium prunorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

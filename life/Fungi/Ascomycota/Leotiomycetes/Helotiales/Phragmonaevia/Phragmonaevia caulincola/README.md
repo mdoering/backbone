@@ -1,14 +1,13 @@
-Leptosphaeria caulincola (Schwein.) Sherwood, 1977 SPECIES
-=======
+# Phragmonaevia caulincola (Schwein.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 5(1): 165 (1977)
+Syll. fung. (Abellini) 8: 676 (1889)
 
 #### Original name
 Stictis caulincola Schwein., 1832

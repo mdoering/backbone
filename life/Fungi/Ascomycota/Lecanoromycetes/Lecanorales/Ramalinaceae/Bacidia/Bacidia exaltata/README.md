@@ -1,5 +1,4 @@
-Bacidia exaltata Zahlbr. SPECIES
-=======
+# Bacidia exaltata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

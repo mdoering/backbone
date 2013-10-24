@@ -1,5 +1,4 @@
-Entoloma aliquantulum E. Horak SPECIES
-=======
+# Entoloma aliquantulum E. Horak SPECIES
 
 #### Status
 ACCEPTED

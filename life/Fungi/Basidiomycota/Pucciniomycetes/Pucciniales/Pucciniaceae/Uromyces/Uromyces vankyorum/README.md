@@ -1,5 +1,4 @@
-Uromyces vankyorum Berndt, 2002 SPECIES
-=======
+# Uromyces vankyorum Berndt, 2002 SPECIES
 
 #### Status
 ACCEPTED

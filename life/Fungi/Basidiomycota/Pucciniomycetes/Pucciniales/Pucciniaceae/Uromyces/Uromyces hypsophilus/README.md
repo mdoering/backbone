@@ -1,5 +1,4 @@
-Uromyces hypsophilus Speg. SPECIES
-=======
+# Uromyces hypsophilus Speg. SPECIES
 
 #### Status
 ACCEPTED

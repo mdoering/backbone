@@ -1,5 +1,4 @@
-Berguapapulospora GENUS
-=======
+# Berguapapulospora GENUS
 
 #### Status
 ACCEPTED

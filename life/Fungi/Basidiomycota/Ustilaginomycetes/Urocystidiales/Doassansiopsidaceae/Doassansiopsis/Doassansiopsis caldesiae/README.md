@@ -1,5 +1,4 @@
-Doassansiopsis caldesiae M. Piatek & Vánky SPECIES
-=======
+# Doassansiopsis caldesiae M. Piatek & Vánky SPECIES
 
 #### Status
 ACCEPTED

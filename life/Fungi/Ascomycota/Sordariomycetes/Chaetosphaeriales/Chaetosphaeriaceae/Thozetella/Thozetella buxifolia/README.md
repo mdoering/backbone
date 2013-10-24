@@ -1,5 +1,4 @@
-Thozetella buxifolia Allegr., Cazau, Cabello & Aramb. SPECIES
-=======
+# Thozetella buxifolia Allegr., Cazau, Cabello & Aramb. SPECIES
 
 #### Status
 ACCEPTED

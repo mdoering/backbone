@@ -1,5 +1,4 @@
-Macrophoma chollematospora Sousa da Câmara SPECIES
-=======
+# Macrophoma chollematospora Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

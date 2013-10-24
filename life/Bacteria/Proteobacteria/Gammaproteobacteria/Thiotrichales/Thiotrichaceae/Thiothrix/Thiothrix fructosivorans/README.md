@@ -1,5 +1,4 @@
-Thiothrix fructosivorans Howarth et al., 1999 SPECIES
-=======
+# Thiothrix fructosivorans Howarth et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

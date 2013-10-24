@@ -1,5 +1,4 @@
-Fusarium georginae Corda SPECIES
-=======
+# Fusarium georginae Corda SPECIES
 
 #### Status
 ACCEPTED

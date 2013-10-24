@@ -1,5 +1,4 @@
-Uromyces fremonti Syd. & P. Syd. SPECIES
-=======
+# Uromyces fremonti Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

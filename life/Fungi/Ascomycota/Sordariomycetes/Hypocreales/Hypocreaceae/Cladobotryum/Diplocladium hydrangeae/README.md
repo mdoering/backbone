@@ -1,5 +1,4 @@
-Diplocladium hydrangeae Togashi & Onuma SPECIES
-=======
+# Diplocladium hydrangeae Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

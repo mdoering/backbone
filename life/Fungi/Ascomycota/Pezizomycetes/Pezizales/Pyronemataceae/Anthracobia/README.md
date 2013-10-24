@@ -1,5 +1,4 @@
-Anthracobia Boudier, 1885 GENUS
-=======
+# Anthracobia Boudier, 1885 GENUS
 
 #### Status
 ACCEPTED

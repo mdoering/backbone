@@ -1,8 +1,7 @@
-Monilia pinoyisimilis (Castell.) Castell. & Jacono SPECIES
-=======
+# Monilia pinoysimilis (Castell.) Castell. & Jacono SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Hendersonia torminalis var. torminalis VARIETY
-=======
+# Hendersonia torminalis Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 3: 429 (1884)
 
 #### Original name
-Hendersonia torminalis var. torminalis
+Hendersonia torminalis Sacc.
 
 ### Remarks
 null

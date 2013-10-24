@@ -1,5 +1,4 @@
-Dictyastrella Haeckel, 1887 GENUS
-=======
+# Dictyastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

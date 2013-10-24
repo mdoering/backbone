@@ -1,17 +1,16 @@
-Lophodermium querci S.K. Bose & E. Müll. SPECIES
-=======
+# Lophodermium quercus S.K. Bose & E. Müll. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 18: 340 (1965)
 
 #### Original name
-Lophodermium querci S.K. Bose & E. Müll.
+Lophodermium quercus S.K. Bose & E. Müll.
 
 ### Remarks
 null

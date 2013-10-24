@@ -1,5 +1,4 @@
-Parmelia chaubardii Fr. SPECIES
-=======
+# Parmelia chaubardii Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytidhysteron dissimile (P. Karst.) Magnes SPECIES
-=======
+# Rhytidhysteron dissimile (P. Karst.) Magnes SPECIES
 
 #### Status
 ACCEPTED

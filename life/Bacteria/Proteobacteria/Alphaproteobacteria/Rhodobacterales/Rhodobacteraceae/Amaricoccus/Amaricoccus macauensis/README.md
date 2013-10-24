@@ -1,5 +1,4 @@
-Amaricoccus macauensis Maszenan et al., 1997 SPECIES
-=======
+# Amaricoccus macauensis Maszenan et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

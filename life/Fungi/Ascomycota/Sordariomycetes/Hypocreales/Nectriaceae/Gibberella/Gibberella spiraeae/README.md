@@ -1,5 +1,4 @@
-Gibberella spiraeae P. Karst. ex Petr. & Syd. SPECIES
-=======
+# Gibberella spiraeae P. Karst. ex Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

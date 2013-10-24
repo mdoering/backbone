@@ -1,5 +1,4 @@
-Amanita praegraveolens (Murrill) Singer SPECIES
-=======
+# Amanita praegraveolens (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

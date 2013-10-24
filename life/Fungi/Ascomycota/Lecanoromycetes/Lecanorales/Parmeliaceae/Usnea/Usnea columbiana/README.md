@@ -1,5 +1,4 @@
-Usnea columbiana Motyka ex Räsänen SPECIES
-=======
+# Usnea columbiana Motyka ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

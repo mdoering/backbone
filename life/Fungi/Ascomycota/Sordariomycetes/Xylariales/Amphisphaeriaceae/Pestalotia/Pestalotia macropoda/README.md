@@ -1,5 +1,4 @@
-Pestalotia macropoda Speg. SPECIES
-=======
+# Pestalotia macropoda Speg. SPECIES
 
 #### Status
 ACCEPTED

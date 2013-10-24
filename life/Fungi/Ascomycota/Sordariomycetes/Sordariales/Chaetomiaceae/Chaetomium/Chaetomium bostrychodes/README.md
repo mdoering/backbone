@@ -1,17 +1,16 @@
-Chaetomium bostrychodes var. virescens A. Carter VARIETY
-=======
+# Chaetomium bostrychodes Zopf, 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abhandl. Botan. Ver. Prov. Brandenburg 19: 173 (1877)
 
 #### Original name
-Chaetomium bostrychodes var. virescens A. Carter
+Chaetomium bostrychodes Zopf, 1877
 
 ### Remarks
 null

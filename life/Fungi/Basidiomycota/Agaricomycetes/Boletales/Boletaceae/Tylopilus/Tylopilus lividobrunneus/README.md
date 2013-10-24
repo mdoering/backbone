@@ -1,5 +1,4 @@
-Tylopilus lividobrunneus Singer SPECIES
-=======
+# Tylopilus lividobrunneus Singer SPECIES
 
 #### Status
 ACCEPTED

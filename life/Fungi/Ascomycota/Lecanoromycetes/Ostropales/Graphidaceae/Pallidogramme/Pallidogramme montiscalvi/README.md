@@ -1,17 +1,16 @@
-Phaeographis montiscalvi (A.W. Archer) A.W. Archer SPECIES
-=======
+# Pallidogramme montiscalvi (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Telopea 11(1): 76 (2005)
+null
 
 #### Original name
-Phaeographina montiscalvi A. W. Archer
+null
 
 ### Remarks
 null

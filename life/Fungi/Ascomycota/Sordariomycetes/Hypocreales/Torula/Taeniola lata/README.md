@@ -1,5 +1,4 @@
-Taeniola lata (Corda) Bonord. SPECIES
-=======
+# Taeniola lata (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

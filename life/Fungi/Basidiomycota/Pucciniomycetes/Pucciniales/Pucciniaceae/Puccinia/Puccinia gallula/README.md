@@ -1,5 +1,4 @@
-Puccinia gallula J.F. Hennen & Cummins SPECIES
-=======
+# Puccinia gallula J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

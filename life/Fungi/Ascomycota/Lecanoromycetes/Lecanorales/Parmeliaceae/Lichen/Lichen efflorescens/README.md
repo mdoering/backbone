@@ -1,5 +1,4 @@
-Lichen efflorescens Vill. SPECIES
-=======
+# Lichen efflorescens Vill. SPECIES
 
 #### Status
 ACCEPTED

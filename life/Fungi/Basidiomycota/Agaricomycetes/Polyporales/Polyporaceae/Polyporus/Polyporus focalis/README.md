@@ -1,5 +1,4 @@
-Polyporus focalis Kalchbr. SPECIES
-=======
+# Polyporus focalis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

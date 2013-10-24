@@ -1,5 +1,4 @@
-Elaphomyces nopporensis S. Imai SPECIES
-=======
+# Elaphomyces nopporensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirostoma garciniae Henn. SPECIES
-=======
+# Pirostoma garciniae Henn. SPECIES
 
 #### Status
 ACCEPTED

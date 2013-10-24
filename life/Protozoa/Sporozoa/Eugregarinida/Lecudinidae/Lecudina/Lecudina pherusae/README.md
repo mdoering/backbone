@@ -1,5 +1,4 @@
-Lecudina pherusae Levine, 1974 SPECIES
-=======
+# Lecudina pherusae Levine, 1974 SPECIES
 
 #### Status
 ACCEPTED

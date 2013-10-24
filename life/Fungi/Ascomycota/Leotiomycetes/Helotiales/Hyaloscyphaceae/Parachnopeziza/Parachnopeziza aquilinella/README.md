@@ -1,14 +1,13 @@
-Lasiobelonium aquilinellum Höhn., 1907 SPECIES
-=======
+# Parachnopeziza aquilinella (Höhn.) Korf, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(3): 469 (1978)
 
 #### Original name
 Lasiobelonium aquilinellum Höhn., 1907

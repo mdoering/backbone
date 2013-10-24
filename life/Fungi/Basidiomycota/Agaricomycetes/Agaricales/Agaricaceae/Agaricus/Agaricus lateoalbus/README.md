@@ -1,5 +1,4 @@
-Agaricus lateoalbus Bolton SPECIES
-=======
+# Agaricus lateoalbus Bolton SPECIES
 
 #### Status
 ACCEPTED

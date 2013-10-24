@@ -1,5 +1,4 @@
-Krombholziella areolata (A.H. Sm. & Thiers) utara SPECIES
-=======
+# Krombholziella areolata (A.H. Sm. & Thiers) utara SPECIES
 
 #### Status
 ACCEPTED

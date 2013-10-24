@@ -1,5 +1,4 @@
-Hypocrella macrostroma P. Chaverri & K.T. Hodge SPECIES
-=======
+# Hypocrella macrostroma P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster welwitschii Mont. SPECIES
-=======
+# Geastrum welwitschii Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster welwitschii Mont.
+Geastrum welwitschii Mont.
 
 ### Remarks
 null

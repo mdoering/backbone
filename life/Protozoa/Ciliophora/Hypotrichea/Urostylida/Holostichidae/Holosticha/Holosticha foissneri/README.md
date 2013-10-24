@@ -1,5 +1,4 @@
-Holosticha foissneri Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Holosticha foissneri Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

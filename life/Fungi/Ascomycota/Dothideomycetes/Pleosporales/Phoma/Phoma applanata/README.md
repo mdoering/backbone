@@ -1,5 +1,4 @@
-Phoma applanata Sacc. & P. Syd. SPECIES
-=======
+# Phoma applanata Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

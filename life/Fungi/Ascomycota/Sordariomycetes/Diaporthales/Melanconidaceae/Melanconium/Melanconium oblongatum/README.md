@@ -1,5 +1,4 @@
-Melanconium oblongatum Sacc. SPECIES
-=======
+# Melanconium oblongatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wallrothiella macilenta (Cooke) Sacc. SPECIES
-=======
+# Wallrothiella macilenta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

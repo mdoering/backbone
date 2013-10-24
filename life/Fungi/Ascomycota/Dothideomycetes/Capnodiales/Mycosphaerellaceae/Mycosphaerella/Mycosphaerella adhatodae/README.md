@@ -1,5 +1,4 @@
-Mycosphaerella adhatodae S. Ahmad SPECIES
-=======
+# Mycosphaerella adhatodae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

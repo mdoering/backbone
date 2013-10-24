@@ -1,5 +1,4 @@
-Nectria fuliginosispora Luc SPECIES
-=======
+# Nectria fuliginosispora Luc SPECIES
 
 #### Status
 ACCEPTED

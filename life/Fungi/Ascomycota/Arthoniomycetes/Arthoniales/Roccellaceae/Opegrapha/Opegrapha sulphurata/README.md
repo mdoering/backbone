@@ -1,5 +1,4 @@
-Opegrapha sulphurata Payer {?} SPECIES
-=======
+# Opegrapha sulphurata Payer {?} SPECIES
 
 #### Status
 ACCEPTED

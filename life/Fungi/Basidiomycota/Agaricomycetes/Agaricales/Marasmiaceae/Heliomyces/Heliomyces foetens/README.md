@@ -1,5 +1,4 @@
-Heliomyces foetens Pat. SPECIES
-=======
+# Heliomyces foetens Pat. SPECIES
 
 #### Status
 ACCEPTED

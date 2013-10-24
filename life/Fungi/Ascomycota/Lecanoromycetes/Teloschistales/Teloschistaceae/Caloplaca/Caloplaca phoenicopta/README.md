@@ -1,5 +1,4 @@
-Caloplaca phoenicopta Poelt & Hinter. SPECIES
-=======
+# Caloplaca phoenicopta Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

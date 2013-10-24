@@ -1,5 +1,4 @@
-Pharus F.H. Wind & S.W. Wise in S.W. Wise & F.H. Wind in P.F. Barker et al., 1977 GENUS
-=======
+# Pharus F.H. Wind & S.W. Wise in S.W. Wise & F.H. Wind in P.F. Barker et al., 1977 GENUS
 
 #### Status
 ACCEPTED

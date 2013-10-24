@@ -1,17 +1,16 @@
-Pseudonectria diparietospora J.H. Mill., Giddens & A.A. Foster SPECIES
-=======
+# Viridispora diparietispora (J.H. Mill., Giddens & A.A. Foster) Samuels & Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 167 (1999)
 
 #### Original name
-Pseudonectria diparietospora J.H. Mill., Giddens & A.A. Foster
+Pseudonectria diparietispora J.H. Mill., Giddens & A.A. Foster, 1958
 
 ### Remarks
 null

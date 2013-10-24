@@ -1,5 +1,4 @@
-Hyalopsora cheilanthis Arthur SPECIES
-=======
+# Hyalopsora cheilanthis Arthur SPECIES
 
 #### Status
 ACCEPTED

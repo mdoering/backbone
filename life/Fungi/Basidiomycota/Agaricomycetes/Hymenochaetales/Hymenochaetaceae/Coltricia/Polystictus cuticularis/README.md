@@ -1,5 +1,4 @@
-Polystictus cuticularis Rostk. SPECIES
-=======
+# Polystictus cuticularis Rostk. SPECIES
 
 #### Status
 ACCEPTED

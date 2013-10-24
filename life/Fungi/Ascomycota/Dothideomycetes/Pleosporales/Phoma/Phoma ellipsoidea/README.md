@@ -1,5 +1,4 @@
-Phoma ellipsoidea Golovin SPECIES
-=======
+# Phoma ellipsoidea Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylella formosana J.Y. Liou, G.Y. Liou & Tzean SPECIES
-=======
+# Dactylella formosana J.Y. Liou, G.Y. Liou & Tzean SPECIES
 
 #### Status
 ACCEPTED

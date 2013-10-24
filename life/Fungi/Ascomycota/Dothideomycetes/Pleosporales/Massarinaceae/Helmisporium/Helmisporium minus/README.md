@@ -1,5 +1,4 @@
-Helmisporium minus Link SPECIES
-=======
+# Helmisporium minus Link SPECIES
 
 #### Status
 ACCEPTED

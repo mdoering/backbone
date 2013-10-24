@@ -1,5 +1,4 @@
-Coccochloris castagnei (Kuetz.) F. E. Drouet & W. A. Daily SPECIES
-=======
+# Coccochloris castagnei (Kuetz.) F. E. Drouet & W. A. Daily SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Misgomyces appendiculatus Thaxt. SPECIES
-=======
+# Misgomyces appendiculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

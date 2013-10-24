@@ -1,5 +1,4 @@
-Oospora gigas Smit & L. Mey. SPECIES
-=======
+# Oospora gigas Smit & L. Mey. SPECIES
 
 #### Status
 ACCEPTED

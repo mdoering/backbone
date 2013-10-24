@@ -1,5 +1,4 @@
-Myrothecium fasciculatum Syd. SPECIES
-=======
+# Myrothecium fasciculatum Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gobiella Cienkowsky, 1882 GENUS
-=======
+# Gobiella Cienkowsky, 1882 GENUS
 
 #### Status
 ACCEPTED

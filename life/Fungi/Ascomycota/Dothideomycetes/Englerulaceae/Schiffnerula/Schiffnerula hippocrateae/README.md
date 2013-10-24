@@ -1,5 +1,4 @@
-Schiffnerula hippocrateae Hansf., 1949 SPECIES
-=======
+# Schiffnerula hippocrateae Hansf., 1949 SPECIES
 
 #### Status
 ACCEPTED

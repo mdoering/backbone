@@ -1,5 +1,4 @@
-Perenniporia africana Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Perenniporia africana Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

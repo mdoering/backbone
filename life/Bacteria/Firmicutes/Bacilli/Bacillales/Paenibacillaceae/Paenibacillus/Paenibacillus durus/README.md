@@ -1,5 +1,4 @@
-Paenibacillus durus Smith & Cato, 1974 SPECIES
-=======
+# Paenibacillus durus Smith & Cato, 1974 SPECIES
 
 #### Status
 ACCEPTED

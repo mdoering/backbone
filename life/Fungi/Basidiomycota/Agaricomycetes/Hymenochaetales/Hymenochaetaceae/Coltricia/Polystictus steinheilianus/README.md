@@ -1,5 +1,4 @@
-Polystictus steinheilianus Berk. & Lév. SPECIES
-=======
+# Polystictus steinheilianus Berk. & Lév. SPECIES
 
 #### Status
 ACCEPTED

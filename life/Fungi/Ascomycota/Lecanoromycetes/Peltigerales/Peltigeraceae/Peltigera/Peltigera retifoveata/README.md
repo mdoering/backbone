@@ -1,5 +1,4 @@
-Peltigera retifoveata Vitik. SPECIES
-=======
+# Peltigera retifoveata Vitik. SPECIES
 
 #### Status
 ACCEPTED

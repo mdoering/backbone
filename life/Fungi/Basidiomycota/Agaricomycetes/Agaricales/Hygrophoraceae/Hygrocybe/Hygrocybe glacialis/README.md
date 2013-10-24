@@ -1,5 +1,4 @@
-Hygrocybe glacialis T. Borgen & Senn-Irlet SPECIES
-=======
+# Hygrocybe glacialis T. Borgen & Senn-Irlet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcopodium circinosetiferum (Matsush.) Matsush., 1996 SPECIES
-=======
+# Sarcopodium circinosetiferum (Matsush.) Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

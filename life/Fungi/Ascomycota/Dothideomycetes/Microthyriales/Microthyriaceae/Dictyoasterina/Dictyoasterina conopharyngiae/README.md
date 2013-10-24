@@ -1,5 +1,4 @@
-Dictyoasterina conopharyngiae Hansf., 1947 SPECIES
-=======
+# Dictyoasterina conopharyngiae Hansf., 1947 SPECIES
 
 #### Status
 ACCEPTED

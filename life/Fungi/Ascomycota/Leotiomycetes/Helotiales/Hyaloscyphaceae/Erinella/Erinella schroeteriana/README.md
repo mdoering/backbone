@@ -1,5 +1,4 @@
-Erinella schroeteriana (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Erinella schroeteriana (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

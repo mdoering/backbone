@@ -1,5 +1,4 @@
-Diplomita Fromentel, 1874 GENUS
-=======
+# Diplomita Fromentel, 1874 GENUS
 
 #### Status
 ACCEPTED

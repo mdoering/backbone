@@ -1,5 +1,4 @@
-Phacopsis pulvinata Rodway SPECIES
-=======
+# Phacopsis pulvinata Rodway SPECIES
 
 #### Status
 ACCEPTED

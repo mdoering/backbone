@@ -1,5 +1,4 @@
-Calosphaeria socialis Berl. SPECIES
-=======
+# Calosphaeria socialis Berl. SPECIES
 
 #### Status
 ACCEPTED

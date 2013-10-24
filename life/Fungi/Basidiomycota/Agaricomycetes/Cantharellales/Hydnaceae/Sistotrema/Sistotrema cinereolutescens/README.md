@@ -1,5 +1,4 @@
-Sistotrema cinereolutescens Fr. SPECIES
-=======
+# Sistotrema cinereolutescens Fr. SPECIES
 
 #### Status
 ACCEPTED

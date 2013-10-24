@@ -1,5 +1,4 @@
-Agaricus tegularis Schumach. SPECIES
-=======
+# Agaricus tegularis Schumach. SPECIES
 
 #### Status
 ACCEPTED

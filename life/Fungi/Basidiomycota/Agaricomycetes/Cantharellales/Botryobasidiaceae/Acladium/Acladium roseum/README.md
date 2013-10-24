@@ -1,5 +1,4 @@
-Acladium roseum (Pers.) Ehrenb. SPECIES
-=======
+# Acladium roseum (Pers.) Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

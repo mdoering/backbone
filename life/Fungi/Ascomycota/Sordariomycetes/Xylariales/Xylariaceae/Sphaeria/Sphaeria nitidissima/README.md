@@ -1,5 +1,4 @@
-Sphaeria nitidissima Durieu & Mont. SPECIES
-=======
+# Sphaeria nitidissima Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

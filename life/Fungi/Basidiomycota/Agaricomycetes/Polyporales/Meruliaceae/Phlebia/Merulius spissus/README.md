@@ -1,5 +1,4 @@
-Merulius spissus Berk. SPECIES
-=======
+# Merulius spissus Berk. SPECIES
 
 #### Status
 ACCEPTED

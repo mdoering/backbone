@@ -1,5 +1,4 @@
-Agaricus rubricatus Berk. & Broome SPECIES
-=======
+# Agaricus rubricatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

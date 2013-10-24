@@ -1,17 +1,16 @@
-Diplophysa schenkiana (Zopf) J. Schröt., 1894 SPECIES
-=======
+# Pleocystidium parasiticum C. Fisch, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sitzungsber. Phys. -Med. Soc. Erlangen 16: 42 (1884)
 
 #### Original name
-Olpidiopsis schenkiana Zopf, 1884
+Pleocystidium parasiticum C. Fisch, 1884
 
 ### Remarks
 null

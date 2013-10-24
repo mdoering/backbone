@@ -1,5 +1,4 @@
-Parmelia subtropica J.D. Zhao SPECIES
-=======
+# Parmelia subtropica J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

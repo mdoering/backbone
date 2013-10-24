@@ -1,5 +1,4 @@
-Stropharia subcitrina (Berk. & Broome) Sacc. SPECIES
-=======
+# Stropharia subcitrina (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

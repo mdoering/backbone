@@ -1,5 +1,4 @@
-Thuemenella javanica Penz. & Sacc., 1898 SPECIES
-=======
+# Thuemenella javanica Penz. & Sacc., 1898 SPECIES
 
 #### Status
 ACCEPTED

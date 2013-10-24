@@ -1,5 +1,4 @@
-Cortinarius privus Reumaux SPECIES
-=======
+# Cortinarius privus Reumaux SPECIES
 
 #### Status
 ACCEPTED

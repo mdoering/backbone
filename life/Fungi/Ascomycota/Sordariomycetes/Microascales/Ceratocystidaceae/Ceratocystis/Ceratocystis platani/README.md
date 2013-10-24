@@ -1,5 +1,4 @@
-Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr., 2005 SPECIES
-=======
+# Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr., 2005 SPECIES
 
 #### Status
 ACCEPTED

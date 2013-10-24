@@ -1,17 +1,16 @@
-Inocybe siskyouensis Kauffman SPECIES
-=======
+# Inocybe siskiyouensis Kauffman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 11: 194 (1930)
 
 #### Original name
-Inocybe siskyouensis Kauffman
+Inocybe siskiyouensis Kauffman
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca rheinigera Elix & S.Y. Kondr. SPECIES
-=======
+# Caloplaca rheinigera Elix & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

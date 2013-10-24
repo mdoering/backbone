@@ -1,5 +1,4 @@
-Oudemansiella melanotricha (Dörfelt) M.M. Moser, 1983 SPECIES
-=======
+# Oudemansiella melanotricha (Dörfelt) M.M. Moser, 1983 SPECIES
 
 #### Status
 ACCEPTED

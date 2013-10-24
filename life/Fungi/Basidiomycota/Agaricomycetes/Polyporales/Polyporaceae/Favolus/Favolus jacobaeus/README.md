@@ -1,5 +1,4 @@
-Favolus jacobaeus Sacc. & Berl. SPECIES
-=======
+# Favolus jacobaeus Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

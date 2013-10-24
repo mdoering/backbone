@@ -1,5 +1,4 @@
-Aeolostreptis Loeblich & Tappan, 1957 GENUS
-=======
+# Aeolostreptis Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

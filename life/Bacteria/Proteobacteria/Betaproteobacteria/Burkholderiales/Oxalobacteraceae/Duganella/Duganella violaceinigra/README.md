@@ -1,5 +1,4 @@
-Duganella violaceinigra Li et al., 2004 SPECIES
-=======
+# Duganella violaceinigra Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium peckii Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium peckii Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

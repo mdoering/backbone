@@ -1,5 +1,4 @@
-Helminthosporium maricaoensis (E. Young) Chupp SPECIES
-=======
+# Helminthosporium maricaoensis (E. Young) Chupp SPECIES
 
 #### Status
 ACCEPTED

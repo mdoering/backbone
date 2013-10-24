@@ -1,8 +1,7 @@
-Uredo schuteriae T.S. Ramakr. SPECIES
-=======
+# Uredo shuteriae T.S. Ramakr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo schuteriae T.S. Ramakr.
+Uredo shuteriae T.S. Ramakr.
 
 ### Remarks
 null

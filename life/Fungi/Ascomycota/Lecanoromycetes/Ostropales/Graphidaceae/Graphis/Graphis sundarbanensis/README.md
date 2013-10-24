@@ -1,5 +1,4 @@
-Graphis sundarbanensis Jagadeesh & G. P. Sinha SPECIES
-=======
+# Graphis sundarbanensis Jagadeesh & G. P. Sinha SPECIES
 
 #### Status
 ACCEPTED

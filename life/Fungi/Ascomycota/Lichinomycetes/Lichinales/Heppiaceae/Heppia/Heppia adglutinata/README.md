@@ -1,14 +1,13 @@
-Pannaria adglutinata (Kremp.) Nyl. SPECIES
-=======
+# Heppia adglutinata (Kremp.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geneac. Lich. 7-8 (1854)
 
 #### Original name
 Lecanora adglutinata Flörke

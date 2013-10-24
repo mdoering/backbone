@@ -1,14 +1,13 @@
-Bitzea ingae (Syd.) Mains, 1939 SPECIES
-=======
+# Chaconia ingae (Syd.) Cummins, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31: 38 (1939)
+Mycologia 48: 602 (1956)
 
 #### Original name
 Maravalia ingae Syd., 1925

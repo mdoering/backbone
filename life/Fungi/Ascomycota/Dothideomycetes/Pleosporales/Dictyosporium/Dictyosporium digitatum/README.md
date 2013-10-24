@@ -1,5 +1,4 @@
-Dictyosporium digitatum J.L. Chen, C.H. Hwang & Tzean, 1991 SPECIES
-=======
+# Dictyosporium digitatum J.L. Chen, C.H. Hwang & Tzean, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rimostrombidium Jankowski, 1978 GENUS
-=======
+# Rimostrombidium Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

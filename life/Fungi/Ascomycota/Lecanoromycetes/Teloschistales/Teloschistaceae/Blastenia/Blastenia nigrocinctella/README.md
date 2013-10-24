@@ -1,5 +1,4 @@
-Blastenia nigrocinctella (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia nigrocinctella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

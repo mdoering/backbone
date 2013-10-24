@@ -1,5 +1,4 @@
-Hysterium andromedae Schwein. SPECIES
-=======
+# Hysterium andromedae Schwein. SPECIES
 
 #### Status
 ACCEPTED

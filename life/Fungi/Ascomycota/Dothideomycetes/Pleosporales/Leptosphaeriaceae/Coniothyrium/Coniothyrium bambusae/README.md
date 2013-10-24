@@ -1,5 +1,4 @@
-Coniothyrium bambusae I. Miyake & Hara SPECIES
-=======
+# Coniothyrium bambusae I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

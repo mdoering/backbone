@@ -1,5 +1,4 @@
-Lachnobolus arcyrella Rostaf. SPECIES
-=======
+# Lachnobolus arcyrella Rostaf. SPECIES
 
 #### Status
 ACCEPTED

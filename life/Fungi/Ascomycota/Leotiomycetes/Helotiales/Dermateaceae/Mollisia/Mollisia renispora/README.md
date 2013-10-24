@@ -1,5 +1,4 @@
-Mollisia renispora Dennis SPECIES
-=======
+# Mollisia renispora Dennis SPECIES
 
 #### Status
 ACCEPTED

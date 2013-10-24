@@ -1,5 +1,4 @@
-Aspicilia glaucopsina (Nyl.) Hue SPECIES
-=======
+# Aspicilia glaucopsina (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

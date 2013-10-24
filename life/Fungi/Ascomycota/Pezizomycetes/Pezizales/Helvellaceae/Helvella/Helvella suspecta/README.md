@@ -1,5 +1,4 @@
-Helvella suspecta Krombh. SPECIES
-=======
+# Helvella suspecta Krombh. SPECIES
 
 #### Status
 ACCEPTED

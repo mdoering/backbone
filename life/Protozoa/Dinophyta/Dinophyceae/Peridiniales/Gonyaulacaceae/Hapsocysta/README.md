@@ -1,5 +1,4 @@
-Hapsocysta R.J.Davey, 1979 GENUS
-=======
+# Hapsocysta R.J.Davey, 1979 GENUS
 
 #### Status
 ACCEPTED

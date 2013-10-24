@@ -1,5 +1,4 @@
-Lagynophrya conifera Kahl, 1930 SPECIES
-=======
+# Lagynophrya conifera Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

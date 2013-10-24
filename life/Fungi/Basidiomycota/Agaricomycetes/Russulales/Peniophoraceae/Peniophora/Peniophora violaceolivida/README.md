@@ -1,17 +1,16 @@
-Xerocarpus violaceolividus var. violaceolividus (Sommerf.) P. Karst. VARIETY
-=======
+# Peniophora violaceolivida (Sommerf.) Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 3(9): 22 (1881)
+J. Linn. Soc. , Bot. 25: 152 (1890)
 
 #### Original name
-Xerocarpus violaceolividus var. violaceolividus (Sommerf.) P. Karst.
+Thelephora violaceolivida Sommerf., 1826
 
 ### Remarks
 null

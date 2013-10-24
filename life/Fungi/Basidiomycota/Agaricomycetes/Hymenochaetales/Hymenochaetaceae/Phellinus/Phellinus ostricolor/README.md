@@ -1,14 +1,13 @@
-Phellinus ostricoloris (Lloyd) Teng SPECIES
-=======
+# Phellinus ostricolor (Lloyd) Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Chung-kuo Ti Chen-chun, [Fungi of China] 762 (1963)
 
 #### Original name
 Fomes ostricolor Lloyd

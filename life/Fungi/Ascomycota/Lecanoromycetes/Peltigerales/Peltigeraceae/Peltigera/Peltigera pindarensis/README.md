@@ -1,5 +1,4 @@
-Peltigera pindarensis D.D. Awasthi & M. Joshi SPECIES
-=======
+# Peltigera pindarensis D.D. Awasthi & M. Joshi SPECIES
 
 #### Status
 ACCEPTED

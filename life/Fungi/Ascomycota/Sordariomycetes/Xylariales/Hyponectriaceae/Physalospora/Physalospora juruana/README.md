@@ -1,5 +1,4 @@
-Physalospora juruana Henn. SPECIES
-=======
+# Physalospora juruana Henn. SPECIES
 
 #### Status
 ACCEPTED

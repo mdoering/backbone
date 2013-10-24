@@ -1,5 +1,4 @@
-Boletus pinicola Rea, 1922 SPECIES
-=======
+# Boletus pinicola Rea, 1922 SPECIES
 
 #### Status
 ACCEPTED

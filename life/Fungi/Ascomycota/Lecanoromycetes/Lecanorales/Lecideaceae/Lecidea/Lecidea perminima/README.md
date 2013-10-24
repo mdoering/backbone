@@ -1,5 +1,4 @@
-Lecidea perminima Nyl. SPECIES
-=======
+# Lecidea perminima Nyl. SPECIES
 
 #### Status
 ACCEPTED

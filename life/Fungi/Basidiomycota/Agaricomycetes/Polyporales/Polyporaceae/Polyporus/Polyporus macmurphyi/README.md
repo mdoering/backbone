@@ -1,17 +1,16 @@
-Polyporus mcmurphyi Murrill SPECIES
-=======
+# Polyporus macmurphyi Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Western Polypores 12 (1915)
 
 #### Original name
-Polyporus mcmurphyi Murrill
+Polyporus macmurphyi Murrill
 
 ### Remarks
 null

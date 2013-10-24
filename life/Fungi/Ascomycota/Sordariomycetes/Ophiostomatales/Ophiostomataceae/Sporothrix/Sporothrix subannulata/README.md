@@ -1,5 +1,4 @@
-Sporothrix subannulata Livingston & R.W. Davidson SPECIES
-=======
+# Sporothrix subannulata Livingston & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

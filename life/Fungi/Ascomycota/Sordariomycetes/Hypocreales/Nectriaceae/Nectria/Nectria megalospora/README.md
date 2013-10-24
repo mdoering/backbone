@@ -1,5 +1,4 @@
-Nectria megalospora Sacc. & Berl. SPECIES
-=======
+# Nectria megalospora Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

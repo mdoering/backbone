@@ -1,5 +1,4 @@
-Endophragmiella fasciata (R.F. Castañeda) R.F. Castañeda SPECIES
-=======
+# Endophragmiella fasciata (R.F. Castañeda) R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

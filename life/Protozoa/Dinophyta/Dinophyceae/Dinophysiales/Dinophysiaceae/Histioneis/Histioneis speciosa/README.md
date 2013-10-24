@@ -1,5 +1,4 @@
-Histioneis speciosa Rampi SPECIES
-=======
+# Histioneis speciosa Rampi SPECIES
 
 #### Status
 ACCEPTED

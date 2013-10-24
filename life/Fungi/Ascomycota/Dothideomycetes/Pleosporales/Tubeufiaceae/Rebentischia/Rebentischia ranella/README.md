@@ -1,5 +1,4 @@
-Rebentischia ranella (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Rebentischia ranella (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

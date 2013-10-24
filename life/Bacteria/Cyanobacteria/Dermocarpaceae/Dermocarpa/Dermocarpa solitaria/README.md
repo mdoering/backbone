@@ -1,5 +1,4 @@
-Dermocarpa solitaria Collins & Harvey SPECIES
-=======
+# Dermocarpa solitaria Collins & Harvey SPECIES
 
 #### Status
 ACCEPTED

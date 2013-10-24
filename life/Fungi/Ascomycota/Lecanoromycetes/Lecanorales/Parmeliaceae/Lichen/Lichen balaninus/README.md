@@ -1,5 +1,4 @@
-Lichen balaninus Wahlenb. SPECIES
-=======
+# Lichen balaninus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

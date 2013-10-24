@@ -1,17 +1,16 @@
-Cryptophiale crytophiale Kuthub. SPECIES
-=======
+# Cryptophiale cucullata Kuthub. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 89(2): 277 (1987)
 
 #### Original name
-Cryptophiale crytophiale Kuthub.
+Cryptophiale cucullata Kuthub.
 
 ### Remarks
 null

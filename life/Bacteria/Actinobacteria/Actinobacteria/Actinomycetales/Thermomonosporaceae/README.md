@@ -1,5 +1,4 @@
-Thermomonosporaceae FAMILY
-=======
+# Thermomonosporaceae FAMILY
 
 #### Status
 ACCEPTED

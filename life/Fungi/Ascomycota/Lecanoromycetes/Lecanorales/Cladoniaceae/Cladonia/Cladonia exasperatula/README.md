@@ -1,5 +1,4 @@
-Cladonia exasperatula G. Merr. SPECIES
-=======
+# Cladonia exasperatula G. Merr. SPECIES
 
 #### Status
 ACCEPTED

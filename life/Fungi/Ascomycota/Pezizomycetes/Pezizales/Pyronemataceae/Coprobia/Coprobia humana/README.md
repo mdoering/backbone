@@ -1,5 +1,4 @@
-Coprobia humana (Velen.) Svrcek SPECIES
-=======
+# Coprobia humana (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

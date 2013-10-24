@@ -1,5 +1,4 @@
-Kweilingia Teng GENUS
-=======
+# Kweilingia Teng GENUS
 
 #### Status
 ACCEPTED

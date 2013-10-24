@@ -1,5 +1,4 @@
-Actinoptychus australis (Grunow) Andrews SPECIES
-=======
+# Actinoptychus australis (Grunow) Andrews SPECIES
 
 #### Status
 ACCEPTED

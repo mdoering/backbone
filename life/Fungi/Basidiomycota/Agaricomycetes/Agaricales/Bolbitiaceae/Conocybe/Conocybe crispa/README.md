@@ -1,14 +1,13 @@
-Galera crispa Longyear, 1899 SPECIES
-=======
+# Conocybe crispa (Longyear) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 28: 272 (1899)
+Lilloa 22: 485 (1951)
 
 #### Original name
 Galera crispa Longyear, 1899

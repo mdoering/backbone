@@ -1,5 +1,4 @@
-Clathrocanium coarctatum Ehrenberg, 1872 SPECIES
-=======
+# Clathrocanium coarctatum Ehrenberg, 1872 SPECIES
 
 #### Status
 ACCEPTED

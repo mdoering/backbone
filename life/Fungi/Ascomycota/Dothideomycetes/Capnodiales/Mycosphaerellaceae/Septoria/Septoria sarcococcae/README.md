@@ -1,5 +1,4 @@
-Septoria sarcococcae Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Septoria sarcococcae Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

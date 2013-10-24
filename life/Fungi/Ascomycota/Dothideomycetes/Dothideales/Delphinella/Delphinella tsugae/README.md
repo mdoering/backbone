@@ -1,5 +1,4 @@
-Delphinella tsugae (House) M.E. Barr SPECIES
-=======
+# Delphinella tsugae (House) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

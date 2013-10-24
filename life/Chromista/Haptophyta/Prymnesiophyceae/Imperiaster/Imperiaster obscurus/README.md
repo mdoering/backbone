@@ -1,8 +1,7 @@
-Marthasterites reginus Stradner, 1962 SPECIES
-=======
+# Imperiaster obscurus (Martini, 1958) Martini, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Bacidia impura Zahlbr. SPECIES
-=======
+# Bacidia impura Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

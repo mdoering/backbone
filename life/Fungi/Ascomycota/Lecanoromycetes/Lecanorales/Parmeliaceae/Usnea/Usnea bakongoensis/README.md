@@ -1,5 +1,4 @@
-Usnea bakongoensis P.A. Duvign. SPECIES
-=======
+# Usnea bakongoensis P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

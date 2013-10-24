@@ -1,5 +1,4 @@
-Clisosporium arthurianum (Sacc. & Berl.) Kuntze SPECIES
-=======
+# Clisosporium arthurianum (Sacc. & Berl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

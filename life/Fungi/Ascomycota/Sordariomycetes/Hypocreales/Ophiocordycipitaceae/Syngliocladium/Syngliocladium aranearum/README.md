@@ -1,5 +1,4 @@
-Syngliocladium aranearum Petch, 1932 SPECIES
-=======
+# Syngliocladium aranearum Petch, 1932 SPECIES
 
 #### Status
 ACCEPTED

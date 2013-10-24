@@ -1,5 +1,4 @@
-Sphaeria stenograpta Wallr. SPECIES
-=======
+# Sphaeria stenograpta Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta callithamnia Taylor SPECIES
-=======
+# Sticta callithamnia Taylor SPECIES
 
 #### Status
 ACCEPTED

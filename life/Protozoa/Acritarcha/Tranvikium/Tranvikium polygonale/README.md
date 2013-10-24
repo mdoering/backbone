@@ -1,5 +1,4 @@
-Tranvikium polygonale Tynni, 1982 SPECIES
-=======
+# Tranvikium polygonale Tynni, 1982 SPECIES
 
 #### Status
 ACCEPTED

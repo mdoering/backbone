@@ -1,5 +1,4 @@
-Diplodia orae-maris Linder, 1944 SPECIES
-=======
+# Diplodia orae-maris Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

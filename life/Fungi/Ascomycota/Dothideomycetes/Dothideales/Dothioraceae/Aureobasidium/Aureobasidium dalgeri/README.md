@@ -1,5 +1,4 @@
-Aureobasidium dalgeri (M. Morelet) Herm.-Nijh. SPECIES
-=======
+# Aureobasidium dalgeri (M. Morelet) Herm.-Nijh. SPECIES
 
 #### Status
 ACCEPTED

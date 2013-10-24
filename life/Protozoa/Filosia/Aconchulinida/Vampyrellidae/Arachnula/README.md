@@ -1,5 +1,4 @@
-Arachnula Cienk. GENUS
-=======
+# Arachnula Cienk. GENUS
 
 #### Status
 ACCEPTED

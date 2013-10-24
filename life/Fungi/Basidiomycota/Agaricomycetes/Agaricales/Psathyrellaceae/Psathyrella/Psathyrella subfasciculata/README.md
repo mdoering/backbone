@@ -1,5 +1,4 @@
-Psathyrella subfasciculata A.H. Sm. SPECIES
-=======
+# Psathyrella subfasciculata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

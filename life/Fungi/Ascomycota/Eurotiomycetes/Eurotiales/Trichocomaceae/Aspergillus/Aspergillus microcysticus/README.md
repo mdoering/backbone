@@ -1,5 +1,4 @@
-Aspergillus microcysticus Sappa, 1955 SPECIES
-=======
+# Aspergillus microcysticus Sappa, 1955 SPECIES
 
 #### Status
 ACCEPTED

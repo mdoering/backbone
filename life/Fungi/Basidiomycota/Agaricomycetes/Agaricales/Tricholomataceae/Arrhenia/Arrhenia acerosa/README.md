@@ -1,17 +1,16 @@
-Phaeotellus acerosus var. acerosus VARIETY
-=======
+# Arrhenia acerosa (Fr.) Kühner, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gulden & Jenssen, Arctic and Alpine Fungi (Oslo), <b>2</b> 31 (1988)
+Bull. mens. Soc. linn. Lyon 49(Spec. no. ): 893 (1980)
 
 #### Original name
-Phaeotellus acerosus var. acerosus
+Agaricus acerosus Fr., 1821
 
 ### Remarks
 null

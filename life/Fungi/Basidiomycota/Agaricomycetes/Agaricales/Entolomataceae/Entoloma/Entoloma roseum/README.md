@@ -1,17 +1,16 @@
-Leptonia rosea var. rosea VARIETY
-=======
+# Entoloma roseum (Longyear) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 17: 107 (1919)
+Nova Hedwigia, Beih. 23: 165 (1967)
 
 #### Original name
-Leptonia rosea var. rosea
+Leptonia rosea Longyear, 1919
 
 ### Remarks
 null

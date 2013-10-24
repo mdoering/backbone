@@ -1,5 +1,4 @@
-Asteridiella quercina (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella quercina (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

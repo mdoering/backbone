@@ -1,5 +1,4 @@
-Maireina afibulata Bodenst. SPECIES
-=======
+# Maireina afibulata Bodenst. SPECIES
 
 #### Status
 ACCEPTED

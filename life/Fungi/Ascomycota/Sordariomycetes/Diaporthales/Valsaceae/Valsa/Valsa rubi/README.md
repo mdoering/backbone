@@ -1,17 +1,16 @@
-Diatrype ceratosperma (Tode) Fr. SPECIES
-=======
+# Valsa rubi Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 72 (1876)
 
 #### Original name
-null
+Valsa rubi Peck
 
 ### Remarks
 null

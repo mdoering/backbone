@@ -1,5 +1,4 @@
-Sphaerella subastoma (F. Stevens & Dalbey) Sacc. SPECIES
-=======
+# Sphaerella subastoma (F. Stevens & Dalbey) Sacc. SPECIES
 
 #### Status
 ACCEPTED

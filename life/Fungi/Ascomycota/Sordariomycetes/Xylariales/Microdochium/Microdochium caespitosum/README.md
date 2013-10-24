@@ -1,14 +1,13 @@
-Idriella caespitosa (B. Sutton, Piroz. & Deighton) Arx, 1981 SPECIES
-=======
+# Microdochium caespitosum B. Sutton, Piroz. & Deighton, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 34: 36 (1981)
+Can. J. Bot. 50(9): 1904 (1972)
 
 #### Original name
 Microdochium caespitosum B. Sutton, Piroz. & Deighton, 1972

@@ -1,5 +1,4 @@
-Neoceratium pulchellum (Schröder) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
-=======
+# Neoceratium pulchellum (Schröder) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamproderma pulchellum Meyl., 1932 SPECIES
-=======
+# Lamproderma pulchellum Meyl., 1932 SPECIES
 
 #### Status
 ACCEPTED

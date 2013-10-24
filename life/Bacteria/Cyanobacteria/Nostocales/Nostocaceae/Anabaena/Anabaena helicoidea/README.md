@@ -1,5 +1,4 @@
-Anabaena helicoidea Bernard, 1908 SPECIES
-=======
+# Anabaena helicoidea Bernard, 1908 SPECIES
 
 #### Status
 ACCEPTED

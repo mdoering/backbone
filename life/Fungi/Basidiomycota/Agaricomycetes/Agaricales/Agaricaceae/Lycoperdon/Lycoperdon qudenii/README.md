@@ -1,5 +1,4 @@
-Lycoperdon qudenii Bottomley SPECIES
-=======
+# Lycoperdon qudenii Bottomley SPECIES
 
 #### Status
 ACCEPTED

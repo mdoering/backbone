@@ -1,5 +1,4 @@
-Thysanophora longispora W.B. Kendr., 1961 SPECIES
-=======
+# Thysanophora longispora W.B. Kendr., 1961 SPECIES
 
 #### Status
 ACCEPTED

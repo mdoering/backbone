@@ -1,5 +1,4 @@
-Sphaeria pannicola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria pannicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

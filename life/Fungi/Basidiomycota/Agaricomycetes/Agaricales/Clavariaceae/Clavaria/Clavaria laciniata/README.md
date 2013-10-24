@@ -1,5 +1,4 @@
-Clavaria laciniata Schaeff. SPECIES
-=======
+# Clavaria laciniata Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma latifolium Hesler SPECIES
-=======
+# Entoloma latifolium Hesler SPECIES
 
 #### Status
 ACCEPTED

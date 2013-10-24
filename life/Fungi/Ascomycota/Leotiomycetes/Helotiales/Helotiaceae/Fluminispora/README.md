@@ -1,5 +1,4 @@
-Fluminispora GENUS
-=======
+# Fluminispora GENUS
 
 #### Status
 ACCEPTED

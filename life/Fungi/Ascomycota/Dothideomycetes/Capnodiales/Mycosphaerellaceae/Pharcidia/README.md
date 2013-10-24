@@ -1,5 +1,4 @@
-Pharcidia Koerber, 1865 GENUS
-=======
+# Pharcidia Koerber, 1865 GENUS
 
 #### Status
 ACCEPTED

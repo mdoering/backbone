@@ -1,5 +1,4 @@
-Myrioconium Sydow, 1912 GENUS
-=======
+# Myrioconium Sydow, 1912 GENUS
 
 #### Status
 ACCEPTED

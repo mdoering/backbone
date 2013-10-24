@@ -1,5 +1,4 @@
-Bombyliospora asahinae var. asahinae VARIETY
-=======
+# Bombyliospora asahinae M. Satô SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bombyliospora asahinae var. asahinae
+Bombyliospora asahinae M. Satô
 
 ### Remarks
 null

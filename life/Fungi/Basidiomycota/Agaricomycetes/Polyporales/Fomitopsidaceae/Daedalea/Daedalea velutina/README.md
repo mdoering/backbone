@@ -1,5 +1,4 @@
-Daedalea velutina Ces. SPECIES
-=======
+# Daedalea velutina Ces. SPECIES
 
 #### Status
 ACCEPTED

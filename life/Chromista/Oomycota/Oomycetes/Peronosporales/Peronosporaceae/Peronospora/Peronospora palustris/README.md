@@ -1,5 +1,4 @@
-Peronospora palustris Gäum. SPECIES
-=======
+# Peronospora palustris Gäum. SPECIES
 
 #### Status
 ACCEPTED

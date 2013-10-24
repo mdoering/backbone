@@ -1,5 +1,4 @@
-Dioicomyces floridanus Thaxt. SPECIES
-=======
+# Dioicomyces floridanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

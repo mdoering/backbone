@@ -1,5 +1,4 @@
-Sphaerella umbelliferarum Auersw. SPECIES
-=======
+# Sphaerella umbelliferarum Auersw. SPECIES
 
 #### Status
 ACCEPTED

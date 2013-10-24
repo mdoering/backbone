@@ -1,5 +1,4 @@
-Thelotrema bicavatum Nyl. SPECIES
-=======
+# Thelotrema bicavatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

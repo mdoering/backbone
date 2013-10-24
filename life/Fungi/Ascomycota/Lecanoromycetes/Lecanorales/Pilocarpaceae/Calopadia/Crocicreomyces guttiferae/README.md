@@ -1,5 +1,4 @@
-Crocicreomyces guttiferae Bat. & Peres SPECIES
-=======
+# Crocicreomyces guttiferae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

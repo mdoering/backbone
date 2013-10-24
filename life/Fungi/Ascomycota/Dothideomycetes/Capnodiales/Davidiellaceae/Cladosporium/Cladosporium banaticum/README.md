@@ -1,5 +1,4 @@
-Cladosporium banaticum Savul., 1951 SPECIES
-=======
+# Cladosporium banaticum Savul., 1951 SPECIES
 
 #### Status
 ACCEPTED

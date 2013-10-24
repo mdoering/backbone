@@ -1,8 +1,7 @@
-Protoperidinium nipponicum (Abé, 1927) Balech, 1974 SPECIES
-=======
+# Peridinium nipponicum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

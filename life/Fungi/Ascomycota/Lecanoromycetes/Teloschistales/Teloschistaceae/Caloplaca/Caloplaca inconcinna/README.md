@@ -1,5 +1,4 @@
-Caloplaca inconcinna (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca inconcinna (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

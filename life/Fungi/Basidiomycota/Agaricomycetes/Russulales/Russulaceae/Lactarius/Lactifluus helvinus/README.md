@@ -1,5 +1,4 @@
-Lactifluus helvinus (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus helvinus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

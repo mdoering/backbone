@@ -1,5 +1,4 @@
-Tuberculina jonesii (Peck) Sacc. SPECIES
-=======
+# Tuberculina jonesii (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

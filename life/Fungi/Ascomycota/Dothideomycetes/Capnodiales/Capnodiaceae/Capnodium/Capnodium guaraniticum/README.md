@@ -1,5 +1,4 @@
-Capnodium guaraniticum Speg. SPECIES
-=======
+# Capnodium guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

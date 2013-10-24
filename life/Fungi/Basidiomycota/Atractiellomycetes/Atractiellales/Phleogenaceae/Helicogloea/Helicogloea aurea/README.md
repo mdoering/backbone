@@ -1,5 +1,4 @@
-Helicogloea aurea G.E. Baker SPECIES
-=======
+# Helicogloea aurea G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

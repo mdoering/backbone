@@ -1,5 +1,4 @@
-Euplotes nana SPECIES
-=======
+# Euplotes nana SPECIES
 
 #### Status
 ACCEPTED

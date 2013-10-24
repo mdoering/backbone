@@ -1,5 +1,4 @@
-Clathrus pseudocrispus Lloyd SPECIES
-=======
+# Clathrus pseudocrispus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium obtusipes (Mangin, 1930) Balech, 1974 SPECIES
-=======
+# Protoperidinium obtusipes (Mangin, 1930) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

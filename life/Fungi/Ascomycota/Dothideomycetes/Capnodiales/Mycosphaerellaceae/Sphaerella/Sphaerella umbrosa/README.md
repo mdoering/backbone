@@ -1,5 +1,4 @@
-Sphaerella umbrosa Sacc. SPECIES
-=======
+# Sphaerella umbrosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

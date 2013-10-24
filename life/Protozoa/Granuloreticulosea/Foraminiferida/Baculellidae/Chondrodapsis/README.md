@@ -1,5 +1,4 @@
-Chondrodapsis GENUS
-=======
+# Chondrodapsis GENUS
 
 #### Status
 ACCEPTED

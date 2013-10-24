@@ -1,5 +1,4 @@
-Trochila paradoxa Rehm SPECIES
-=======
+# Trochila paradoxa Rehm SPECIES
 
 #### Status
 ACCEPTED

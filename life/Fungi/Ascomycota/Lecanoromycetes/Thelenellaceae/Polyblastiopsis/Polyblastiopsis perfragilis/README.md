@@ -1,5 +1,4 @@
-Polyblastiopsis perfragilis (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis perfragilis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

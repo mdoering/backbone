@@ -1,5 +1,4 @@
-Phyllactinia toonae Y.X. Yu & Y.Q. Lai SPECIES
-=======
+# Phyllactinia toonae Y.X. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

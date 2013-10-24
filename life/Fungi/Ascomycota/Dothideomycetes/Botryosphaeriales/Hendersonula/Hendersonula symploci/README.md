@@ -1,5 +1,4 @@
-Hendersonula symploci (Berk. & Broome) B. Sutton & Dyko SPECIES
-=======
+# Hendersonula symploci (Berk. & Broome) B. Sutton & Dyko SPECIES
 
 #### Status
 ACCEPTED

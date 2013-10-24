@@ -1,5 +1,4 @@
-Micropera truncata Bonord. SPECIES
-=======
+# Micropera truncata Bonord. SPECIES
 
 #### Status
 ACCEPTED

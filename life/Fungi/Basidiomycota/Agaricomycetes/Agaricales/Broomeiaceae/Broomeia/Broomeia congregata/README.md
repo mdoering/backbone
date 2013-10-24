@@ -1,8 +1,7 @@
-Broomeia congregata var. congregata Berk., 1844 VARIETY
-=======
+# Broomeia congregata Berk., 1844 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 London J. Bot. 3: 193 (1844)
 
 #### Original name
-Broomeia congregata var. congregata Berk., 1844
+Broomeia congregata Berk., 1844
 
 ### Remarks
 null

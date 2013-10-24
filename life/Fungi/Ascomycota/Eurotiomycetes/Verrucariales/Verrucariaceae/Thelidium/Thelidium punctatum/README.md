@@ -1,5 +1,4 @@
-Thelidium punctatum Servít SPECIES
-=======
+# Thelidium punctatum Servít SPECIES
 
 #### Status
 ACCEPTED

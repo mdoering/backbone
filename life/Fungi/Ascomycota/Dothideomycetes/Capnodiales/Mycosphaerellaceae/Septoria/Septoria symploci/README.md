@@ -1,5 +1,4 @@
-Septoria symploci Allesch. & Henn. SPECIES
-=======
+# Septoria symploci Allesch. & Henn. SPECIES
 
 #### Status
 ACCEPTED

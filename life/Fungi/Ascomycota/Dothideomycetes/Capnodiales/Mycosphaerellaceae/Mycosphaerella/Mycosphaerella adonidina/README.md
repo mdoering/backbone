@@ -1,5 +1,4 @@
-Mycosphaerella adonidina Petr. SPECIES
-=======
+# Mycosphaerella adonidina Petr. SPECIES
 
 #### Status
 ACCEPTED

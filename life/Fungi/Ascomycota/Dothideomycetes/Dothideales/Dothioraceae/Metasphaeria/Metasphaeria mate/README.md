@@ -1,5 +1,4 @@
-Metasphaeria mate Speg. SPECIES
-=======
+# Metasphaeria mate Speg. SPECIES
 
 #### Status
 ACCEPTED

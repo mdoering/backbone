@@ -1,5 +1,4 @@
-Pertusaria mimosarum Müll. Arg. SPECIES
-=======
+# Pertusaria mimosarum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

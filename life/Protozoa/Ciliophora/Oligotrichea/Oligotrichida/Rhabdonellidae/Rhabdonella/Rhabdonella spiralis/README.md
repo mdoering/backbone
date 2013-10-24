@@ -1,5 +1,4 @@
-Rhabdonella spiralis (Fol, 1881) SPECIES
-=======
+# Rhabdonella spiralis (Fol, 1881) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoagaricus bivelatus B.P. Akers & Ovrebo SPECIES
-=======
+# Leucoagaricus bivelatus B.P. Akers & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

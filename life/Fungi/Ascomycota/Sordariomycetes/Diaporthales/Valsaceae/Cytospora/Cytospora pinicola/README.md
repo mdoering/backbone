@@ -1,5 +1,4 @@
-Cytospora pinicola Westend. SPECIES
-=======
+# Cytospora pinicola Westend. SPECIES
 
 #### Status
 ACCEPTED

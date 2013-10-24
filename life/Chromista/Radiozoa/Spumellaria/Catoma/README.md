@@ -1,5 +1,4 @@
-Catoma Blome, 1983 GENUS
-=======
+# Catoma Blome, 1983 GENUS
 
 #### Status
 ACCEPTED

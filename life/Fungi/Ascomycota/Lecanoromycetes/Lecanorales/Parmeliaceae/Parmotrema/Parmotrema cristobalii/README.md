@@ -1,17 +1,16 @@
-Rimeliella cristobalii L. I. Ferraro & Elix SPECIES
-=======
+# Parmotrema cristobalii (L. I. Ferraro & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 97(1): 157 (2005)
 
 #### Original name
-null
+Rimeliella cristobalii L. I. Ferraro & Elix
 
 ### Remarks
 null

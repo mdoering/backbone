@@ -1,5 +1,4 @@
-Lenticulina hoppoensis Nakamura SPECIES
-=======
+# Lenticulina hoppoensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

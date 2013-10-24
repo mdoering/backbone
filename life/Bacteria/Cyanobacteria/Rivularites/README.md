@@ -1,5 +1,4 @@
-Rivularites P. Fliche, 1905 GENUS
-=======
+# Rivularites P. Fliche, 1905 GENUS
 
 #### Status
 ACCEPTED

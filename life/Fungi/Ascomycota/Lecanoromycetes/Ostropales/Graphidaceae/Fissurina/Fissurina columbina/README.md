@@ -1,5 +1,4 @@
-Fissurina columbina (Tuck.) Staiger SPECIES
-=======
+# Fissurina columbina (Tuck.) Staiger SPECIES
 
 #### Status
 ACCEPTED

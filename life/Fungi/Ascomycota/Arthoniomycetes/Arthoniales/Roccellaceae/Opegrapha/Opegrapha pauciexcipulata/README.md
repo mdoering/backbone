@@ -1,5 +1,4 @@
-Opegrapha pauciexcipulata Aptroot & Yazici SPECIES
-=======
+# Opegrapha pauciexcipulata Aptroot & Yazici SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Racodium fodinum var. fodinum VARIETY
-=======
+# Racodium fodinum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Racodium fodinum var. fodinum
+Racodium fodinum Pers.
 
 ### Remarks
 null

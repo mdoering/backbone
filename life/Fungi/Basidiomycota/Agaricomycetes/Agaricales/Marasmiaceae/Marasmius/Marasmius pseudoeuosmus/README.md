@@ -1,5 +1,4 @@
-Marasmius pseudoeuosmus G.Y. Zheng & Z.S. Bi SPECIES
-=======
+# Marasmius pseudoeuosmus G.Y. Zheng & Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa sepulta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Eutypa sepulta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

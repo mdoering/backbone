@@ -1,5 +1,4 @@
-Sclerotium echinatum Fuckel SPECIES
-=======
+# Sclerotium echinatum Fuckel SPECIES
 
 #### Status
 ACCEPTED

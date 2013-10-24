@@ -1,5 +1,4 @@
-Catillaria haasii SPECIES
-=======
+# Catillaria haasii SPECIES
 
 #### Status
 ACCEPTED

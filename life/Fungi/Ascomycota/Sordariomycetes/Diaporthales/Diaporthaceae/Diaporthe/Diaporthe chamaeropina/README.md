@@ -1,5 +1,4 @@
-Diaporthe chamaeropina Gaja SPECIES
-=======
+# Diaporthe chamaeropina Gaja SPECIES
 
 #### Status
 ACCEPTED

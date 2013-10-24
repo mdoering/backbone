@@ -1,5 +1,4 @@
-Mycena sepia var. sepia VARIETY
-=======
+# Mycena sepia J.E. Lange SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Agaric. Danic. 2: 46 (1936)
 
 #### Original name
-Mycena sepia var. sepia
+Mycena sepia J.E. Lange
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta ceratocarpi Golovin SPECIES
-=======
+# Ascochyta ceratocarpi Golovin SPECIES
 
 #### Status
 ACCEPTED

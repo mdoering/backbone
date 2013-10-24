@@ -1,5 +1,4 @@
-Ophryoglena octavia SPECIES
-=======
+# Ophryoglena octavia SPECIES
 
 #### Status
 ACCEPTED

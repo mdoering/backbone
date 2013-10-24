@@ -1,5 +1,4 @@
-Brachysporium phragmitis I. Miyake SPECIES
-=======
+# Brachysporium phragmitis I. Miyake SPECIES
 
 #### Status
 ACCEPTED

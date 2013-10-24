@@ -1,5 +1,4 @@
-Meliola stevensii Beeli SPECIES
-=======
+# Meliola stevensii Beeli SPECIES
 
 #### Status
 ACCEPTED

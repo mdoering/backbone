@@ -1,5 +1,4 @@
-Angiopsora digitariae Cummins SPECIES
-=======
+# Angiopsora digitariae Cummins SPECIES
 
 #### Status
 ACCEPTED

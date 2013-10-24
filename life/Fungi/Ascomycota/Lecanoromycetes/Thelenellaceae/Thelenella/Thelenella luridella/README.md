@@ -1,14 +1,13 @@
-Verrucaria luridella Nyl. SPECIES
-=======
+# Thelenella luridella (Nyl.) H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 26: 45 (1987)
 
 #### Original name
 Verrucaria luridella Nyl.

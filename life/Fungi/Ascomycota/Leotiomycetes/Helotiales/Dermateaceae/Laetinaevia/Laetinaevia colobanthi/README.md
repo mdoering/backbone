@@ -1,5 +1,4 @@
-Laetinaevia colobanthi Gamundí & Spinedi SPECIES
-=======
+# Laetinaevia colobanthi Gamundí & Spinedi SPECIES
 
 #### Status
 ACCEPTED

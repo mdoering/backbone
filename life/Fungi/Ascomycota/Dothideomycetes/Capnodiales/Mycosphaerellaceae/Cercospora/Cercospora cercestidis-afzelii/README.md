@@ -1,5 +1,4 @@
-Cercospora cercestidis-afzelii J.M. Yen & Gilles SPECIES
-=======
+# Cercospora cercestidis-afzelii J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

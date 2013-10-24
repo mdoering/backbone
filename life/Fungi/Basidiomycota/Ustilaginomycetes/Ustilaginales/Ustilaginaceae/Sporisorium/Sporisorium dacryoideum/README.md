@@ -1,5 +1,4 @@
-Sporisorium dacryoideum Vánky SPECIES
-=======
+# Sporisorium dacryoideum Vánky SPECIES
 
 #### Status
 ACCEPTED

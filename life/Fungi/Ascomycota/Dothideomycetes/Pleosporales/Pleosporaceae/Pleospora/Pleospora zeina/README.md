@@ -1,5 +1,4 @@
-Pleospora zeina Saccas SPECIES
-=======
+# Pleospora zeina Saccas SPECIES
 
 #### Status
 ACCEPTED

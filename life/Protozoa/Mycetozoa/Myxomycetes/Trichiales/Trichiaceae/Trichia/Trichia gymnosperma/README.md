@@ -1,5 +1,4 @@
-Trichia gymnosperma Pers. SPECIES
-=======
+# Trichia gymnosperma Pers. SPECIES
 
 #### Status
 ACCEPTED

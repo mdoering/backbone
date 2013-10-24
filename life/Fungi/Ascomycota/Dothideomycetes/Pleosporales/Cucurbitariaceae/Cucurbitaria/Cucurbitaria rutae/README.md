@@ -1,5 +1,4 @@
-Cucurbitaria rutae Fabre SPECIES
-=======
+# Cucurbitaria rutae Fabre SPECIES
 
 #### Status
 ACCEPTED

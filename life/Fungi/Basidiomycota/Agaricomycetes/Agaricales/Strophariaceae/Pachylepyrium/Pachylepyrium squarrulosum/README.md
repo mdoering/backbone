@@ -1,5 +1,4 @@
-Pachylepyrium squarrulosum Singer, 1969 SPECIES
-=======
+# Pachylepyrium squarrulosum Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

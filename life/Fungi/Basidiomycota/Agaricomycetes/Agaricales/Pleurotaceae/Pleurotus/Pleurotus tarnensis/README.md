@@ -1,5 +1,4 @@
-Pleurotus tarnensis (Speg.) Sacc. SPECIES
-=======
+# Pleurotus tarnensis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

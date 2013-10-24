@@ -1,5 +1,4 @@
-Caloplaca sympageella (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca sympageella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

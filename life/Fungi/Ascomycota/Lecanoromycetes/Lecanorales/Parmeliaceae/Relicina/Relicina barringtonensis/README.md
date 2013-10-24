@@ -1,5 +1,4 @@
-Relicina barringtonensis Elix SPECIES
-=======
+# Relicina barringtonensis Elix SPECIES
 
 #### Status
 ACCEPTED

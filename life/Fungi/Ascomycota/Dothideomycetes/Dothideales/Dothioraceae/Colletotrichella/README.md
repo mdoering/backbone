@@ -1,5 +1,4 @@
-Colletotrichella GENUS
-=======
+# Colletotrichella GENUS
 
 #### Status
 ACCEPTED

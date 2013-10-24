@@ -1,5 +1,4 @@
-Choanatiara GENUS
-=======
+# Choanatiara GENUS
 
 #### Status
 ACCEPTED

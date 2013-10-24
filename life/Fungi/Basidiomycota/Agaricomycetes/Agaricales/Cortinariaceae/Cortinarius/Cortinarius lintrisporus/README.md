@@ -1,5 +1,4 @@
-Cortinarius lintrisporus Reumaux SPECIES
-=======
+# Cortinarius lintrisporus Reumaux SPECIES
 
 #### Status
 ACCEPTED

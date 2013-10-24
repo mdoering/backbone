@@ -1,5 +1,4 @@
-Lecidea subtrullissata Müll. Arg. SPECIES
-=======
+# Lecidea subtrullissata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

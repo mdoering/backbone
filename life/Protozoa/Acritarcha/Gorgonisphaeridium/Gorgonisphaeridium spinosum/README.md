@@ -1,5 +1,4 @@
-Gorgonisphaeridium spinosum Pöthé de Baldis, 1974 SPECIES
-=======
+# Gorgonisphaeridium spinosum Pöthé de Baldis, 1974 SPECIES
 
 #### Status
 ACCEPTED

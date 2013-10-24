@@ -1,5 +1,4 @@
-Camarosporium brabeji Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Camarosporium brabeji Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

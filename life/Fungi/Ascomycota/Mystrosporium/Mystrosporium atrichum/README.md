@@ -1,5 +1,4 @@
-Mystrosporium atrichum (Corda) Sacc. SPECIES
-=======
+# Mystrosporium atrichum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pholiota rugosa Peck, 1898 SPECIES
-=======
+# Conocybe rugosa (Peck) Watling, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 50: 102 (1898)
+in Watling & Gregory, Biblthca Mycol. 82: 133 (1981)
 
 #### Original name
 Pholiota rugosa Peck, 1898

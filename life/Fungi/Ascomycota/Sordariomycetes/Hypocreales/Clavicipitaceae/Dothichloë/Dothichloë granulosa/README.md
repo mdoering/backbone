@@ -1,5 +1,4 @@
-Dothichloë granulosa Chardón SPECIES
-=======
+# Dothichloë granulosa Chardón SPECIES
 
 #### Status
 ACCEPTED

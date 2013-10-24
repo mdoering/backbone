@@ -1,5 +1,4 @@
-Puccinia sanguinolenta Henn. SPECIES
-=======
+# Puccinia sanguinolenta Henn. SPECIES
 
 #### Status
 ACCEPTED

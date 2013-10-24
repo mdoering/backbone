@@ -1,5 +1,4 @@
-Broomella tianshanica Z.Q. Yuan & Z.Y. Zhao SPECIES
-=======
+# Broomella tianshanica Z.Q. Yuan & Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

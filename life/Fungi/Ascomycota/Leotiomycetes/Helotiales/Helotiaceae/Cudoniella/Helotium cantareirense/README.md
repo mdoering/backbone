@@ -1,5 +1,4 @@
-Helotium cantareirense (Henn.) Rick SPECIES
-=======
+# Helotium cantareirense (Henn.) Rick SPECIES
 
 #### Status
 ACCEPTED

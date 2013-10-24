@@ -1,5 +1,4 @@
-Diplodia lilacis Westend. SPECIES
-=======
+# Diplodia lilacis Westend. SPECIES
 
 #### Status
 ACCEPTED

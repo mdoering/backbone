@@ -1,5 +1,4 @@
-Buellia lepidastra (Tuck.) Tuck. SPECIES
-=======
+# Buellia lepidastra (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

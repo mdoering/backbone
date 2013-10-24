@@ -1,5 +1,4 @@
-Vorticella extensus Kahl, 1935 SPECIES
-=======
+# Vorticella extensus Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

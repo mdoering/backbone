@@ -1,5 +1,4 @@
-Multiplicisphaeridium ramispinosum Staplin, 1961 emend. Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Multiplicisphaeridium ramispinosum Staplin, 1961 emend. Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

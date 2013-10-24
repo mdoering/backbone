@@ -1,5 +1,4 @@
-Marasmius subrigidichorda Corner SPECIES
-=======
+# Marasmius subrigidichorda Corner SPECIES
 
 #### Status
 ACCEPTED

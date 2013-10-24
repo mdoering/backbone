@@ -1,5 +1,4 @@
-Micropera fuckelii Sacc. SPECIES
-=======
+# Micropera fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

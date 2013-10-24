@@ -1,5 +1,4 @@
-Peziza coriariae Pass. SPECIES
-=======
+# Peziza coriariae Pass. SPECIES
 
 #### Status
 ACCEPTED

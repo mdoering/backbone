@@ -1,5 +1,4 @@
-Haplariopsis microspora A.D. Sharma & Munjal SPECIES
-=======
+# Haplariopsis microspora A.D. Sharma & Munjal SPECIES
 
 #### Status
 ACCEPTED

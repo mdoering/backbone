@@ -1,5 +1,4 @@
-Hypocrea discella Berk. & Broome SPECIES
-=======
+# Hypocrea discella Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

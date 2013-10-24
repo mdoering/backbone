@@ -1,17 +1,16 @@
-Ramulispora herpotrichoides var. anguioides (Nirenberg) U. Braun, 1993 VARIETY
-=======
+# Helgardia anguioides (Nirenberg) Crous & W. Gams, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Groenewald & Gams, Eur. J. Pl. Path. 109(8): 846 (2003)
 
 #### Original name
-null
+Pseudocercosporella anguioides Nirenberg, 1981
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenophora sphagnaeceticola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Pyrenophora sphagnaeceticola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

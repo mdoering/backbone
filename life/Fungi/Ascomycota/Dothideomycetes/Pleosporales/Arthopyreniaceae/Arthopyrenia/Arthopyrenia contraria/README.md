@@ -1,5 +1,4 @@
-Arthopyrenia contraria H. Magn. SPECIES
-=======
+# Arthopyrenia contraria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

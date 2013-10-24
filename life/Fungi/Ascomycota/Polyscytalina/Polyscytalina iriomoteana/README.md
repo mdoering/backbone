@@ -1,5 +1,4 @@
-Polyscytalina iriomoteana Matsush. SPECIES
-=======
+# Polyscytalina iriomoteana Matsush. SPECIES
 
 #### Status
 ACCEPTED

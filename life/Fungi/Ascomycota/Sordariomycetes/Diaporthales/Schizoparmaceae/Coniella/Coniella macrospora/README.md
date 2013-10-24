@@ -1,5 +1,4 @@
-Coniella macrospora Aa, 1983 SPECIES
-=======
+# Coniella macrospora Aa, 1983 SPECIES
 
 #### Status
 ACCEPTED

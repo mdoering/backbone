@@ -1,5 +1,4 @@
-Alpova olivaceotinctus (A.H. Sm.) Trappe SPECIES
-=======
+# Alpova olivaceotinctus (A.H. Sm.) Trappe SPECIES
 
 #### Status
 ACCEPTED

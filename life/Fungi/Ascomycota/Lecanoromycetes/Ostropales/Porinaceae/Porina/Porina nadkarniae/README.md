@@ -1,5 +1,4 @@
-Porina nadkarniae Lücking & Merwin SPECIES
-=======
+# Porina nadkarniae Lücking & Merwin SPECIES
 
 #### Status
 ACCEPTED

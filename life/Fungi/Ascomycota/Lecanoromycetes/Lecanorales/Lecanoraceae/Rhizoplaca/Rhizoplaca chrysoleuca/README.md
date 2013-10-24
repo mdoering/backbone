@@ -1,17 +1,16 @@
-Lecanora chrysoleuca f. chrysoleuca FORM
-=======
+# Rhizoplaca chrysoleuca (Sm.) Zopf SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Chemie 340: 291 (1905)
 
 #### Original name
-Lecanora chrysoleuca f. chrysoleuca
+Lichen chrysoleucus Sm.
 
 ### Remarks
 null

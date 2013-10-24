@@ -1,5 +1,4 @@
-Gonyaulax phoneus (Woloszynsky & Conrad) L. Loeblich & Loeblich SPECIES
-=======
+# Gonyaulax phoneus (Woloszynsky & Conrad) L. Loeblich & Loeblich SPECIES
 
 #### Status
 ACCEPTED

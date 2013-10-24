@@ -1,5 +1,4 @@
-Sporisorium blakeanum Vánky SPECIES
-=======
+# Sporisorium blakeanum Vánky SPECIES
 
 #### Status
 ACCEPTED

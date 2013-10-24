@@ -1,5 +1,4 @@
-Coccomyces palmicola Sherwood, 1980 SPECIES
-=======
+# Coccomyces palmicola Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

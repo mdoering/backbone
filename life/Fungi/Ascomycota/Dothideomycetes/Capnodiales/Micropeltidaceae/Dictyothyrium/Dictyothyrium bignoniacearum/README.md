@@ -1,5 +1,4 @@
-Dictyothyrium bignoniacearum Bat. & Cavalc. SPECIES
-=======
+# Dictyothyrium bignoniacearum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

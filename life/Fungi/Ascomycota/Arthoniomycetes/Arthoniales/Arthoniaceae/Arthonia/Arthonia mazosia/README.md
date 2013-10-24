@@ -1,5 +1,4 @@
-Arthonia mazosia (A. Massal.) Willey SPECIES
-=======
+# Arthonia mazosia (A. Massal.) Willey SPECIES
 
 #### Status
 ACCEPTED

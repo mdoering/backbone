@@ -1,5 +1,4 @@
-Cosmospora thujana (Rehm ex Sacc.) Lowen SPECIES
-=======
+# Cosmospora thujana (Rehm ex Sacc.) Lowen SPECIES
 
 #### Status
 ACCEPTED

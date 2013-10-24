@@ -1,17 +1,16 @@
-Colletotrichum mollerianum (Thüm.) Vassiljevsky SPECIES
-=======
+# Colletotrichum moellerianum (Thüm.) Vassiljevsky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 5: 17 (1940)
 
 #### Original name
-Gloeosporium mollerianum Thüm.
+Gloeosporium moellerianum Thüm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Farhania O. Varol, 1992 GENUS
-=======
+# Farhania O. Varol, 1992 GENUS
 
 #### Status
 ACCEPTED

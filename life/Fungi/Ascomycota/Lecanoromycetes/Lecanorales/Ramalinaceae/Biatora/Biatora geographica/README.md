@@ -1,5 +1,4 @@
-Biatora geographica A. Massal. SPECIES
-=======
+# Biatora geographica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

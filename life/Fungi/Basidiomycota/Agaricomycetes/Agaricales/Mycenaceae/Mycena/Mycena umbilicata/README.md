@@ -1,5 +1,4 @@
-Mycena umbilicata Hongo SPECIES
-=======
+# Mycena umbilicata Hongo SPECIES
 
 #### Status
 ACCEPTED

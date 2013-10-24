@@ -1,17 +1,16 @@
-Fusarium xylarioides f. sp FORM
-=======
+# Gibberella xylarioides R. Heim & Saccas, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. PflKrankh. PflPath. PflSchutz 112(2): 143 (2005)
+in Heim, Revue Mycol. , Paris 15(Suppl. Colon. ): 97 (1950)
 
 #### Original name
-Fusarium xylarioides f. sp
+Gibberella xylarioides R. Heim & Saccas, 1950
 
 ### Remarks
 null

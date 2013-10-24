@@ -1,5 +1,4 @@
-Intranstylum macrostylum D'Udekem, 1862 SPECIES
-=======
+# Intranstylum macrostylum D'Udekem, 1862 SPECIES
 
 #### Status
 ACCEPTED

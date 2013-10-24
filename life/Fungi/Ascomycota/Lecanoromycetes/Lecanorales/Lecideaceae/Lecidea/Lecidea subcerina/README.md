@@ -1,5 +1,4 @@
-Lecidea subcerina (Nyl.) Hue SPECIES
-=======
+# Lecidea subcerina (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

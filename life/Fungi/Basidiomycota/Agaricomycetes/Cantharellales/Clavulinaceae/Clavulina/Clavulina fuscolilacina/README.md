@@ -1,5 +1,4 @@
-Clavulina fuscolilacina (Berk.) Overeem SPECIES
-=======
+# Clavulina fuscolilacina (Berk.) Overeem SPECIES
 
 #### Status
 ACCEPTED

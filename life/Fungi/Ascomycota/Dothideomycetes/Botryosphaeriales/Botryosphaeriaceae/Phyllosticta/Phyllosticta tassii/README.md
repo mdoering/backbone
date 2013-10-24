@@ -1,5 +1,4 @@
-Phyllosticta tassii Hollós SPECIES
-=======
+# Phyllosticta tassii Hollós SPECIES
 
 #### Status
 ACCEPTED

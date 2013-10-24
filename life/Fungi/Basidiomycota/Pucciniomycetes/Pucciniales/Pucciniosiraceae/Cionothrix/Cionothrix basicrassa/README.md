@@ -1,5 +1,4 @@
-Cionothrix basicrassa Buriticá & J.F. Hennen, 1980 SPECIES
-=======
+# Cionothrix basicrassa Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
 ACCEPTED

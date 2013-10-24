@@ -1,5 +1,4 @@
-Kuntzeomyces ruizianae M. Piepenbr., 2001 SPECIES
-=======
+# Kuntzeomyces ruizianae M. Piepenbr., 2001 SPECIES
 
 #### Status
 ACCEPTED

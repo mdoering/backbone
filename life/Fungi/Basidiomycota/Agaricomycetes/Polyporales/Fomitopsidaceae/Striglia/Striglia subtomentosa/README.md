@@ -1,5 +1,4 @@
-Striglia subtomentosa (Schwein.) Kuntze SPECIES
-=======
+# Striglia subtomentosa (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

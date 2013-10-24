@@ -1,5 +1,4 @@
-Lentinus queletii R. Schulz SPECIES
-=======
+# Lentinus queletii R. Schulz SPECIES
 
 #### Status
 ACCEPTED

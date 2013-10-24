@@ -1,5 +1,4 @@
-Cercospora nervisequens J. Kranz SPECIES
-=======
+# Cercospora nervisequens J. Kranz SPECIES
 
 #### Status
 ACCEPTED

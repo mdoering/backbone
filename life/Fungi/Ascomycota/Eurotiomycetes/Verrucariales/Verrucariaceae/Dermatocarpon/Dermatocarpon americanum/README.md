@@ -1,5 +1,4 @@
-Dermatocarpon americanum Vain. SPECIES
-=======
+# Dermatocarpon americanum Vain. SPECIES
 
 #### Status
 ACCEPTED

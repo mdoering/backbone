@@ -1,5 +1,4 @@
-Boletus fallax Kluzák SPECIES
-=======
+# Boletus fallax Kluzák SPECIES
 
 #### Status
 ACCEPTED

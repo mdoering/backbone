@@ -1,5 +1,4 @@
-Phyllohendersonia cornicola (DC.) Tassi SPECIES
-=======
+# Phyllohendersonia cornicola (DC.) Tassi SPECIES
 
 #### Status
 ACCEPTED

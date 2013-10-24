@@ -1,5 +1,4 @@
-Graphis connata (Eschw.) Nyl. SPECIES
-=======
+# Graphis connata (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

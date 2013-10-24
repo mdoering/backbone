@@ -1,8 +1,7 @@
-Peritromus arenicola Dragesco, 1965 SPECIES
-=======
+# Peritromus arenicolus Dragesco, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

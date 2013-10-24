@@ -1,5 +1,4 @@
-Amanita forrestiae (Kalchbr.) McAlpine SPECIES
-=======
+# Amanita forrestiae (Kalchbr.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

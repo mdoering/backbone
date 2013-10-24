@@ -1,5 +1,4 @@
-Cortinarius flavotomentosus (M.M. Moser) G. Garnier SPECIES
-=======
+# Cortinarius flavotomentosus (M.M. Moser) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

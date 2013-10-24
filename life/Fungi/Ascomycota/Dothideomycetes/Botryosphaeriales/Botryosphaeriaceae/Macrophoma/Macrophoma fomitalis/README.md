@@ -1,5 +1,4 @@
-Macrophoma fomitalis Sacc. SPECIES
-=======
+# Macrophoma fomitalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

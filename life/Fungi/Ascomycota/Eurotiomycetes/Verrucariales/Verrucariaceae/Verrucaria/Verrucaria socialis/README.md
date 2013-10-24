@@ -1,5 +1,4 @@
-Verrucaria socialis Zenker SPECIES
-=======
+# Verrucaria socialis Zenker SPECIES
 
 #### Status
 ACCEPTED

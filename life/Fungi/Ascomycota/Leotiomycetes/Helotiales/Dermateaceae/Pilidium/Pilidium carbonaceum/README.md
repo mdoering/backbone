@@ -1,5 +1,4 @@
-Pilidium carbonaceum (Lib.) Berk. & Broome, 1850 SPECIES
-=======
+# Pilidium carbonaceum (Lib.) Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

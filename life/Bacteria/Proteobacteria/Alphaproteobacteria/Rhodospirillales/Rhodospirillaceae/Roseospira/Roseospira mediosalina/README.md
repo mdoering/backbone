@@ -1,5 +1,4 @@
-Roseospira mediosalina Imhoff et al., 1998 SPECIES
-=======
+# Roseospira mediosalina Imhoff et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria epipactidis Bres. SPECIES
-=======
+# Placosphaeria epipactidis Bres. SPECIES
 
 #### Status
 ACCEPTED

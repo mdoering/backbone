@@ -1,5 +1,4 @@
-Bactrodesmium fruticosum Matsush. SPECIES
-=======
+# Bactrodesmium fruticosum Matsush. SPECIES
 
 #### Status
 ACCEPTED

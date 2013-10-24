@@ -1,5 +1,4 @@
-Lecidea meizospora Nyl. SPECIES
-=======
+# Lecidea meizospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

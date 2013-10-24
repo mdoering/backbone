@@ -1,5 +1,4 @@
-Eusphaerella Skuja, 1948 GENUS
-=======
+# Eusphaerella Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

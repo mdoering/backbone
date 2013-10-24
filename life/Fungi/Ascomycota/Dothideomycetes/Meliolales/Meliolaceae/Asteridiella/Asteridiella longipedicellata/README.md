@@ -1,5 +1,4 @@
-Asteridiella longipedicellata var. longipedicellata VARIETY
-=======
+# Asteridiella longipedicellata (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 48 (1957)
 
 #### Original name
-Asteridiella longipedicellata var. longipedicellata
+Irenina longipedicellata F. Stevens
 
 ### Remarks
 null

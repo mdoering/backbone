@@ -1,5 +1,4 @@
-Neogeotrichum pulmoneum (O. Magalh.) O. Magalh. SPECIES
-=======
+# Neogeotrichum pulmoneum (O. Magalh.) O. Magalh. SPECIES
 
 #### Status
 ACCEPTED

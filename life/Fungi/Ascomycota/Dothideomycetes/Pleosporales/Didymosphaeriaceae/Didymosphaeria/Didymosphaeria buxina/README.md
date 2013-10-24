@@ -1,5 +1,4 @@
-Didymosphaeria buxina Pass. SPECIES
-=======
+# Didymosphaeria buxina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius salmoneoroseascens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius salmoneoroseascens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

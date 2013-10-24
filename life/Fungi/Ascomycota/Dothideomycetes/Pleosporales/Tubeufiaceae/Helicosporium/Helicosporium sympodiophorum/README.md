@@ -1,5 +1,4 @@
-Helicosporium sympodiophorum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicosporium sympodiophorum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

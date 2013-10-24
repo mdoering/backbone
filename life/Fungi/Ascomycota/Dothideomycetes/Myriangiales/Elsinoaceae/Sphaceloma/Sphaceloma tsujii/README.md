@@ -1,5 +1,4 @@
-Sphaceloma tsujii Hara SPECIES
-=======
+# Sphaceloma tsujii Hara SPECIES
 
 #### Status
 ACCEPTED

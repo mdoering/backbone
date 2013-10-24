@@ -1,5 +1,4 @@
-Rickia rotundata Thaxt. SPECIES
-=======
+# Rickia rotundata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

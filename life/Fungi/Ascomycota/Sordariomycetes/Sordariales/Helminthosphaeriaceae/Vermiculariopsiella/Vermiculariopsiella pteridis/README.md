@@ -1,5 +1,4 @@
-Vermiculariopsiella pteridis S. Dhargalkar & Bhat SPECIES
-=======
+# Vermiculariopsiella pteridis S. Dhargalkar & Bhat SPECIES
 
 #### Status
 ACCEPTED

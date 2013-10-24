@@ -1,5 +1,4 @@
-Cortinarius trachyphloeus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius trachyphloeus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

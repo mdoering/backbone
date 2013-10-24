@@ -1,5 +1,4 @@
-Pezizella obscurata Rehm SPECIES
-=======
+# Pezizella obscurata Rehm SPECIES
 
 #### Status
 ACCEPTED

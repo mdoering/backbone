@@ -1,5 +1,4 @@
-Thaxterogaster violeipes M.M. Moser SPECIES
-=======
+# Thaxterogaster violeipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

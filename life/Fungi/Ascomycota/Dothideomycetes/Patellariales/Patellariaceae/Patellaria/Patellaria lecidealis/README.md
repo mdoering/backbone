@@ -1,5 +1,4 @@
-Patellaria lecidealis Müll. Arg. SPECIES
-=======
+# Patellaria lecidealis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

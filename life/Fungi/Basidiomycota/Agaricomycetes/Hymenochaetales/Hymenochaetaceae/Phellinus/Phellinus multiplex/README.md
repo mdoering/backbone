@@ -1,5 +1,4 @@
-Phellinus multiplex Corner SPECIES
-=======
+# Phellinus multiplex Corner SPECIES
 
 #### Status
 ACCEPTED

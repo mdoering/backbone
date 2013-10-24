@@ -1,5 +1,4 @@
-Siphula ceratites (Wahlenb.) Fr., 1831 SPECIES
-=======
+# Siphula ceratites (Wahlenb.) Fr., 1831 SPECIES
 
 #### Status
 DOUBTFUL

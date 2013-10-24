@@ -1,5 +1,4 @@
-Hymenochaete ryvardenii Parmasto, 2001 SPECIES
-=======
+# Hymenochaete ryvardenii Parmasto, 2001 SPECIES
 
 #### Status
 ACCEPTED

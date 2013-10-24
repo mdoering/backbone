@@ -1,5 +1,4 @@
-Methanohalophilus portucalensis Boone et al., 1993 SPECIES
-=======
+# Methanohalophilus portucalensis Boone et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

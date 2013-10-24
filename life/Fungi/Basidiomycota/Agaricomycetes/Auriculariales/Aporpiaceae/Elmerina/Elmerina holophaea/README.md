@@ -1,14 +1,13 @@
-Lentinus holophaeus Pat., 1907 SPECIES
-=======
+# Elmerina holophaea (Pat.) Parmasto, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 23: 76 (1907)
+Nova Hedwigia 39(1-2): 107 (1984)
 
 #### Original name
 Lentinus holophaeus Pat., 1907

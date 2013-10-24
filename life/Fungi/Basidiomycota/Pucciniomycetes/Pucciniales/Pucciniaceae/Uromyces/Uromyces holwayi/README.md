@@ -1,17 +1,16 @@
-Caeomurus lilii (Clinton) Kuntze, 1898 SPECIES
-=======
+# Uromyces holwayi Lagerh., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Hedwigia 28: 108 (1889)
 
 #### Original name
-Uromyces lilii (Link) Fuckel, 1875
+Uromyces holwayi Lagerh., 1889
 
 ### Remarks
 null

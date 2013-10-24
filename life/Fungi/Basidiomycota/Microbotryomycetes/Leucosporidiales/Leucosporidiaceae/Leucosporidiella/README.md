@@ -1,5 +1,4 @@
-Leucosporidiella Samp. GENUS
-=======
+# Leucosporidiella Samp. GENUS
 
 #### Status
 ACCEPTED

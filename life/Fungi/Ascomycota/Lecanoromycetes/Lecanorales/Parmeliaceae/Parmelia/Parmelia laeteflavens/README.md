@@ -1,5 +1,4 @@
-Parmelia laeteflavens (Vain.) Gyeln. SPECIES
-=======
+# Parmelia laeteflavens (Vain.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

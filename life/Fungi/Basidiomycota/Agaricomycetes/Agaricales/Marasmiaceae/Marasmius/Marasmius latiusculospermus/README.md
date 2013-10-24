@@ -1,5 +1,4 @@
-Marasmius latiusculospermus Singer SPECIES
-=======
+# Marasmius latiusculospermus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele desquamescens (Zahlbr.) Aptroot SPECIES
-=======
+# Staurothele desquamescens (Zahlbr.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lionotus binucleatus Wenzel, 1953 SPECIES
-=======
+# Lionotus binucleatus Wenzel, 1953 SPECIES
 
 #### Status
 ACCEPTED

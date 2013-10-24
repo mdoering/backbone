@@ -1,5 +1,4 @@
-Bacidia manilensis Vain. SPECIES
-=======
+# Bacidia manilensis Vain. SPECIES
 
 #### Status
 ACCEPTED

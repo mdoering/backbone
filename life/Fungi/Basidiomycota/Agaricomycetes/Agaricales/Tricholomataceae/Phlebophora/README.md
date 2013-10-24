@@ -1,5 +1,4 @@
-Phlebophora GENUS
-=======
+# Phlebophora GENUS
 
 #### Status
 ACCEPTED

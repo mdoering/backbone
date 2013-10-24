@@ -1,5 +1,4 @@
-Entoloma cavipes E. Horak, 1973 SPECIES
-=======
+# Entoloma cavipes E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

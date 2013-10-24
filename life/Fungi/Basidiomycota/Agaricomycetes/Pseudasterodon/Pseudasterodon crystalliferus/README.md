@@ -1,5 +1,4 @@
-Pseudasterodon crystalliferus Rick SPECIES
-=======
+# Pseudasterodon crystalliferus Rick SPECIES
 
 #### Status
 ACCEPTED

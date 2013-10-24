@@ -1,5 +1,4 @@
-Tricholoma subglobisporum Bon SPECIES
-=======
+# Tricholoma subglobisporum Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encrusta B. Daley, 1975 GENUS
-=======
+# Encrusta B. Daley, 1975 GENUS
 
 #### Status
 ACCEPTED

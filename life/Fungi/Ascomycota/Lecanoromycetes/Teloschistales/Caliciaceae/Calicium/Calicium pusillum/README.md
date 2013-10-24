@@ -1,5 +1,4 @@
-Calicium pusillum var. pusillum VARIETY
-=======
+# Calicium pusillum Sommerf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium pusillum var. pusillum
+Calicium pusillum Sommerf.
 
 ### Remarks
 null

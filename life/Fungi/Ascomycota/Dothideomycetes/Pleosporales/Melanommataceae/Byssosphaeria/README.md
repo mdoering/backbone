@@ -1,17 +1,16 @@
-Xenonectria Höhn. GENUS
-=======
+# Byssosphaeria Cooke, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 129: 149 (1920)
+null
 
 #### Original name
-Xenonectria Höhn.
+null
 
 ### Remarks
 null

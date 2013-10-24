@@ -1,5 +1,4 @@
-Clavaria alboglobospora R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria alboglobospora R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

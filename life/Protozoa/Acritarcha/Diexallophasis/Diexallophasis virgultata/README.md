@@ -1,5 +1,4 @@
-Diexallophasis virgultata (Le Hérissé, 1989) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Diexallophasis virgultata (Le Hérissé, 1989) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

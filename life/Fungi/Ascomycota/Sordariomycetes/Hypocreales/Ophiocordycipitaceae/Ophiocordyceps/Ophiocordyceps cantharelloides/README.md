@@ -1,5 +1,4 @@
-Ophiocordyceps cantharelloides (Samson & H.C. Evans) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps cantharelloides (Samson & H.C. Evans) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

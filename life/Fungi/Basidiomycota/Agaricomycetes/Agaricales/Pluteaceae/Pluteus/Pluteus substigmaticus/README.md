@@ -1,5 +1,4 @@
-Pluteus substigmaticus Singer SPECIES
-=======
+# Pluteus substigmaticus Singer SPECIES
 
 #### Status
 ACCEPTED

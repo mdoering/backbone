@@ -1,5 +1,4 @@
-Trogia exigua Corner SPECIES
-=======
+# Trogia exigua Corner SPECIES
 
 #### Status
 ACCEPTED

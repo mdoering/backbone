@@ -1,5 +1,4 @@
-Myxothyrium sarcomphali (Cif. & Gonz. Frag.) Cif. SPECIES
-=======
+# Myxothyrium sarcomphali (Cif. & Gonz. Frag.) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cystoderma carcharias var. fallax (A.H. Sm. & Singer) I. Saar, 2009 VARIETY
-=======
+# Cystoderma fallax A.H. Sm. & Singer, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 30: 116 (1945)
 
 #### Original name
-null
+Cystoderma fallax A.H. Sm. & Singer, 1945
 
 ### Remarks
 null

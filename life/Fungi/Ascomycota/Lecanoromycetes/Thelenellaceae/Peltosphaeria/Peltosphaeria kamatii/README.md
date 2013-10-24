@@ -1,5 +1,4 @@
-Peltosphaeria kamatii Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Peltosphaeria kamatii Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

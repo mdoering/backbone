@@ -1,5 +1,4 @@
-Cortinarius castaneus var. castaneus VARIETY
-=======
+# Cortinarius castaneus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 307 (1838)
 
 #### Original name
-Cortinarius castaneus var. castaneus
+Agaricus castaneus J. Otto
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphileptus muscicola SPECIES
-=======
+# Amphileptus muscicola SPECIES
 
 #### Status
 ACCEPTED

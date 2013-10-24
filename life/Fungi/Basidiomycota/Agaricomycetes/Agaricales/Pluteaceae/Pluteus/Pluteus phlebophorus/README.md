@@ -1,17 +1,16 @@
-Agaricus phlebophorus var. phlebophorus Ditmar VARIETY
-=======
+# Pluteus phlebophorus Cooke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 1(1): 31 (1813)
+null
 
 #### Original name
-Agaricus phlebophorus var. phlebophorus Ditmar
+Pluteus phlebophorus Cooke
 
 ### Remarks
 null

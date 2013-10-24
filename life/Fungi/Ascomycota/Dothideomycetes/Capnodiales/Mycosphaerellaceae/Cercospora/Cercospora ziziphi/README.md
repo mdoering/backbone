@@ -1,17 +1,16 @@
-Cercospora zizyphi Petch SPECIES
-=======
+# Cercospora ziziphi Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 4(5): 306 (1909)
 
 #### Original name
-Cercospora zizyphi Petch
+Cercospora ziziphi Petch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena globata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena globata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

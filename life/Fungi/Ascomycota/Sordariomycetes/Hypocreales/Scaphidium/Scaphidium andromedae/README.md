@@ -1,5 +1,4 @@
-Scaphidium andromedae Negru & E. Radul. SPECIES
-=======
+# Scaphidium andromedae Negru & E. Radul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina darkeri Mix SPECIES
-=======
+# Taphrina darkeri Mix SPECIES
 
 #### Status
 ACCEPTED

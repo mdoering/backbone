@@ -1,5 +1,4 @@
-Cystopsora notelaeae Syd., 1937 SPECIES
-=======
+# Cystopsora notelaeae Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

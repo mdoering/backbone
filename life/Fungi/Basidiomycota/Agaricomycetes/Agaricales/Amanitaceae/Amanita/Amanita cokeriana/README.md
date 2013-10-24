@@ -1,5 +1,4 @@
-Amanita cokeriana Singer SPECIES
-=======
+# Amanita cokeriana Singer SPECIES
 
 #### Status
 ACCEPTED

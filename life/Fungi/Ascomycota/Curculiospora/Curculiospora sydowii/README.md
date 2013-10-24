@@ -1,5 +1,4 @@
-Curculiospora sydowii G. Arnaud, 1954 SPECIES
-=======
+# Curculiospora sydowii G. Arnaud, 1954 SPECIES
 
 #### Status
 ACCEPTED

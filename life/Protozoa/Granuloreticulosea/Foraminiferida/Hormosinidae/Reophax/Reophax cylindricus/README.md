@@ -1,5 +1,4 @@
-Reophax cylindricus SPECIES
-=======
+# Reophax cylindricus SPECIES
 
 #### Status
 ACCEPTED

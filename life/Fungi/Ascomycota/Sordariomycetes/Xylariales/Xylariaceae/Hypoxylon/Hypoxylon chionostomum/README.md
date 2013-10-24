@@ -1,14 +1,13 @@
-Anthostoma chionostomum. Speg., 1884 SPECIES
-=======
+# Hypoxylon chionostomum. (Speg.) Speg., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 18: 267 (1884)
+Bulletin Acad. Nac. Cien. Cord. 11: 506 (1889)
 
 #### Original name
 Anthostoma chionostomum. Speg., 1884

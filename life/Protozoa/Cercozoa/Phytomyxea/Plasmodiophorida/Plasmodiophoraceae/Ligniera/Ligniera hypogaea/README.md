@@ -1,5 +1,4 @@
-Ligniera hypogaea (Borzí) Karling, 1968 SPECIES
-=======
+# Ligniera hypogaea (Borzí) Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

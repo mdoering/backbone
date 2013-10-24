@@ -1,5 +1,4 @@
-Otidea kunmingensis W.Y. Zhuang SPECIES
-=======
+# Otidea kunmingensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

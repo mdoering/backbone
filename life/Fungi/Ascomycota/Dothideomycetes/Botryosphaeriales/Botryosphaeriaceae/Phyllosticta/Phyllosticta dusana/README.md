@@ -1,5 +1,4 @@
-Phyllosticta dusana Hara SPECIES
-=======
+# Phyllosticta dusana Hara SPECIES
 
 #### Status
 ACCEPTED

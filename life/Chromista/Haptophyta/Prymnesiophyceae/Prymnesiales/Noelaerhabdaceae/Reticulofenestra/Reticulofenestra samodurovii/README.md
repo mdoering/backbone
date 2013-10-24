@@ -1,5 +1,4 @@
-Reticulofenestra samodurovii (Hay, Mohler & Wade, 1966) Roth, 1970 SPECIES
-=======
+# Reticulofenestra samodurovii (Hay, Mohler & Wade, 1966) Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo andropogonis-gabonensis J.M. Yen SPECIES
-=======
+# Uredo andropogonis-gabonensis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

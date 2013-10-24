@@ -1,8 +1,7 @@
-Amylocorticium subincarnatum f. subincarnatum (Peck) Pouzar, 1959 FORM
-=======
+# Amylocorticium subincarnatum (Peck) Pouzar, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Ceská Mykol. 13: 11 (1959)
 
 #### Original name
-Amylocorticium subincarnatum f. subincarnatum (Peck) Pouzar, 1959
+null
 
 ### Remarks
 null

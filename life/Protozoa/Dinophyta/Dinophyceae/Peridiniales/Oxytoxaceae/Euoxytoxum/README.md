@@ -1,5 +1,4 @@
-Euoxytoxum Lemmermann, 1905 GENUS
-=======
+# Euoxytoxum Lemmermann, 1905 GENUS
 
 #### Status
 ACCEPTED

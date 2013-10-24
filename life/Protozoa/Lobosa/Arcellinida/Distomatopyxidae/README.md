@@ -1,5 +1,4 @@
-Distomatopyxidae FAMILY
-=======
+# Distomatopyxidae FAMILY
 
 #### Status
 ACCEPTED

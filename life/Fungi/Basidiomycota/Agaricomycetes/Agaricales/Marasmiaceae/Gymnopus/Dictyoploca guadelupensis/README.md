@@ -1,5 +1,4 @@
-Dictyoploca guadelupensis R. Heim SPECIES
-=======
+# Dictyoploca guadelupensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

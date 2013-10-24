@@ -1,5 +1,4 @@
-Lactobacillus vini Rodas et al., 2006 SPECIES
-=======
+# Lactobacillus vini Rodas et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

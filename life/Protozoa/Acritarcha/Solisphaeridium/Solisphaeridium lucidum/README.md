@@ -1,5 +1,4 @@
-Solisphaeridium lucidum (Deunff, 1959) Turner, 1985 SPECIES
-=======
+# Solisphaeridium lucidum (Deunff, 1959) Turner, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus bovina Fr. SPECIES
-=======
+# Agaricus bovina Fr. SPECIES
 
 #### Status
 ACCEPTED

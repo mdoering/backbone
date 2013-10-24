@@ -1,5 +1,4 @@
-Parmelia brachyconidia Zahlbr. SPECIES
-=======
+# Parmelia brachyconidia Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

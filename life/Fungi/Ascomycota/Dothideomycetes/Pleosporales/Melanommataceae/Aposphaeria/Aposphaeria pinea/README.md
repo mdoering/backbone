@@ -1,5 +1,4 @@
-Aposphaeria pinea Sacc. SPECIES
-=======
+# Aposphaeria pinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

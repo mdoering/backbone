@@ -1,5 +1,4 @@
-Phaeocollybia tentaculata E. Horak SPECIES
-=======
+# Phaeocollybia tentaculata E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Debaryomyces neoformans var. neoformans VARIETY
-=======
+# Debaryomyces neoformans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Debaryomyces neoformans var. neoformans
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lycoperdon foliicola Rick SPECIES
-=======
+# Lycoperdon foliicola Rick SPECIES
 
 #### Status
 ACCEPTED

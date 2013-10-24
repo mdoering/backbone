@@ -1,5 +1,4 @@
-Usnea kinkiensis f. kinkiensis FORM
-=======
+# Usnea kinkiensis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea kinkiensis f. kinkiensis
+Usnea kinkiensis Asahina
 
 ### Remarks
 null

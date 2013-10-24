@@ -1,5 +1,4 @@
-Lophiostoma insculptum Nitschke SPECIES
-=======
+# Lophiostoma insculptum Nitschke SPECIES
 
 #### Status
 ACCEPTED

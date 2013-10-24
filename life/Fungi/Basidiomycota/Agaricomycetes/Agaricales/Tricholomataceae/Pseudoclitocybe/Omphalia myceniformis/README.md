@@ -1,5 +1,4 @@
-Omphalia myceniformis Murrill SPECIES
-=======
+# Omphalia myceniformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratomyces intermedius Thaxt. SPECIES
-=======
+# Ceratomyces intermedius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

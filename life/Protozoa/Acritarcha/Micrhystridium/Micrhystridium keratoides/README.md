@@ -1,5 +1,4 @@
-Micrhystridium keratoides Spode, 1964 SPECIES
-=======
+# Micrhystridium keratoides Spode, 1964 SPECIES
 
 #### Status
 ACCEPTED

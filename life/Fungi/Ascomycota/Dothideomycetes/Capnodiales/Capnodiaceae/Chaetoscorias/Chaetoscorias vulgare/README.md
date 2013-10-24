@@ -1,5 +1,4 @@
-Chaetoscorias vulgare W. Yamam. SPECIES
-=======
+# Chaetoscorias vulgare W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

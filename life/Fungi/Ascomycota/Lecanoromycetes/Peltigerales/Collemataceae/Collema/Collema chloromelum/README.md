@@ -1,5 +1,4 @@
-Collema chloromelum (Sw.) Ach. SPECIES
-=======
+# Collema chloromelum (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

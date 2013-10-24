@@ -1,17 +1,16 @@
-Whetzeliomyces Viégas GENUS
-=======
+# Anhellia Racib. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bragantia 5: 561 (1945)
+Parasit. Alg. Pilze Java's (Jakarta) 2: 10 (1900)
 
 #### Original name
-Whetzeliomyces Viégas
+Anhellia Racib.
 
 ### Remarks
 null

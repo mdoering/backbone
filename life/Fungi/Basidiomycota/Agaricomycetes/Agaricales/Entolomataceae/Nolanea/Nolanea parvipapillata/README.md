@@ -1,5 +1,4 @@
-Nolanea parvipapillata Murrill SPECIES
-=======
+# Nolanea parvipapillata Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe subpsittacina (Rick) Raithelh. SPECIES
-=======
+# Hygrocybe subpsittacina (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

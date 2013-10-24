@@ -1,5 +1,4 @@
-Pseudocercospora stevensii (E. Young) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora stevensii (E. Young) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

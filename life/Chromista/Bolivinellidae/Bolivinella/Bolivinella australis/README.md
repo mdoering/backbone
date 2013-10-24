@@ -1,5 +1,4 @@
-Bolivinella australis Cushman, 1929 SPECIES
-=======
+# Bolivinella australis Cushman, 1929 SPECIES
 
 #### Status
 ACCEPTED

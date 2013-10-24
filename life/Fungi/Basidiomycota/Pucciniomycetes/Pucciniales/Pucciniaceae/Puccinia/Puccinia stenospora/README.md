@@ -1,5 +1,4 @@
-Puccinia stenospora J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia stenospora J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

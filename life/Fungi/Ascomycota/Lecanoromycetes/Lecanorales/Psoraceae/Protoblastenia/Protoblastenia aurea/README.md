@@ -1,5 +1,4 @@
-Protoblastenia aurea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Protoblastenia aurea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

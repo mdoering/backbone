@@ -1,5 +1,4 @@
-Stictis viridis var. viridis VARIETY
-=======
+# Stictis viridis Dufour ex Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 1: 338 (1822)
 
 #### Original name
-Stictis viridis var. viridis
+Stictis viridis Dufour ex Pers.
 
 ### Remarks
 null

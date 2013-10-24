@@ -1,5 +1,4 @@
-Astrosporina mundula J. Favre SPECIES
-=======
+# Astrosporina mundula J. Favre SPECIES
 
 #### Status
 ACCEPTED

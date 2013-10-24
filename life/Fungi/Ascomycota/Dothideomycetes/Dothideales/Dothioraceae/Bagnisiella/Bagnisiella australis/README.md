@@ -1,17 +1,16 @@
-Dothidea australis (Speg.) Cooke, 1885 SPECIES
-=======
+# Bagnisiella australis Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 10: 22 (1880)
 
 #### Original name
-null
+Bagnisiella australis Speg., 1880
 
 ### Remarks
 null

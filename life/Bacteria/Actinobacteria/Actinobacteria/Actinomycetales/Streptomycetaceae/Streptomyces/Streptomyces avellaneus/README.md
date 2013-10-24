@@ -1,5 +1,4 @@
-Streptomyces avellaneus Baldacci and Grein, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces avellaneus Baldacci and Grein, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

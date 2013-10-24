@@ -1,5 +1,4 @@
-Stereum bertolonii Sacc. SPECIES
-=======
+# Stereum bertolonii Sacc. SPECIES
 
 #### Status
 ACCEPTED

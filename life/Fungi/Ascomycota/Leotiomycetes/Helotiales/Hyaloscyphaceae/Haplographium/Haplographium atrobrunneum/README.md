@@ -1,5 +1,4 @@
-Haplographium atrobrunneum (Cooke) Sacc. SPECIES
-=======
+# Haplographium atrobrunneum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

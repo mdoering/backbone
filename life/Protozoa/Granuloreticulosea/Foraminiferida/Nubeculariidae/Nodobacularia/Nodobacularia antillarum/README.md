@@ -1,5 +1,4 @@
-Nodobacularia antillarum var. pacifica Cushman, 1932 VARIETY
-=======
+# Nodobacularia antillarum (Cushman) SPECIES
 
 #### Status
 ACCEPTED

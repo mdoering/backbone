@@ -1,8 +1,7 @@
-Nematopsis mediterranen Léger, 1905 SPECIES
-=======
+# Nematopsis legeri de Beauchamp, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

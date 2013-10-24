@@ -1,5 +1,4 @@
-Trachelomonas fragaria Deflandre SPECIES
-=======
+# Trachelomonas fragaria Deflandre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amerosporium macrotrichum (Berk. & Broome) Sacc. SPECIES
-=======
+# Amerosporium macrotrichum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lingua J.F. Gmel. SPECIES
-=======
+# Agaricus lingua J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

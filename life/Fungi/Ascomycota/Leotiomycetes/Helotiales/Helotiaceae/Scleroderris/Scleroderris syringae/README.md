@@ -1,5 +1,4 @@
-Scleroderris syringae (G. Winter) Sacc. SPECIES
-=======
+# Scleroderris syringae (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

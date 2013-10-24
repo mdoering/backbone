@@ -1,5 +1,4 @@
-Fellhanera stanhopiae (Müll. Arg.) Lücking, Lumbsch & Elix SPECIES
-=======
+# Fellhanera stanhopiae (Müll. Arg.) Lücking, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

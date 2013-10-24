@@ -1,5 +1,4 @@
-Phaeographis wukangensis Zahlbr. SPECIES
-=======
+# Phaeographis wukangensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

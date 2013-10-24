@@ -1,5 +1,4 @@
-Rickia perlata Thaxt. SPECIES
-=======
+# Rickia perlata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

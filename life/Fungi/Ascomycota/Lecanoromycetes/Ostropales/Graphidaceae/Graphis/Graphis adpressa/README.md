@@ -1,5 +1,4 @@
-Graphis adpressa Vain. SPECIES
-=======
+# Graphis adpressa Vain. SPECIES
 
 #### Status
 ACCEPTED

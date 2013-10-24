@@ -1,5 +1,4 @@
-Protomyces grandisporus M.S. Reddy & C.L. Kramer SPECIES
-=======
+# Protomyces grandisporus M.S. Reddy & C.L. Kramer SPECIES
 
 #### Status
 ACCEPTED

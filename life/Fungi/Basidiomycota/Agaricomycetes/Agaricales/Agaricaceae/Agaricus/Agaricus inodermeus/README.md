@@ -1,5 +1,4 @@
-Agaricus inodermeus Fr. SPECIES
-=======
+# Agaricus inodermeus Fr. SPECIES
 
 #### Status
 ACCEPTED

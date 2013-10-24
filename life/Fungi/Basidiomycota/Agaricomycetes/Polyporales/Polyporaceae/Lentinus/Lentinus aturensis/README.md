@@ -1,5 +1,4 @@
-Lentinus aturensis Pat. & Gaillard SPECIES
-=======
+# Lentinus aturensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

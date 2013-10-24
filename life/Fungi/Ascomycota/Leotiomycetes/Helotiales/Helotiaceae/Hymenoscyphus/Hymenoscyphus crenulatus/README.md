@@ -1,5 +1,4 @@
-Hymenoscyphus crenulatus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus crenulatus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

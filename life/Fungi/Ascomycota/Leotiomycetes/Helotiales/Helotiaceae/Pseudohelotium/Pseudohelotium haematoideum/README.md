@@ -1,14 +1,13 @@
-Pezizella haematoidea (Cooke & W. Phillips) Sacc., 1889 SPECIES
-=======
+# Pseudohelotium haematoideum (Cooke & W. Phillips) Dennis, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 284 (1889)
+Kew Bull. 15(2): 315 (1961)
 
 #### Original name
 null

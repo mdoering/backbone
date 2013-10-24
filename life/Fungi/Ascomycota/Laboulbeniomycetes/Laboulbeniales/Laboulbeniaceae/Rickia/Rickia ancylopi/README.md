@@ -1,5 +1,4 @@
-Rickia ancylopi Thaxt. SPECIES
-=======
+# Rickia ancylopi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

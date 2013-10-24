@@ -1,5 +1,4 @@
-Dorysphaera Hinde, 1890 GENUS
-=======
+# Dorysphaera Hinde, 1890 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis oxydendri (Ellis & Everh.) Aa SPECIES
-=======
+# Phomopsis oxydendri (Ellis & Everh.) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus strigellus Berk. SPECIES
-=======
+# Lentinus strigellus Berk. SPECIES
 
 #### Status
 ACCEPTED

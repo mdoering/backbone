@@ -1,5 +1,4 @@
-Calicium gemellum Körb. SPECIES
-=======
+# Calicium gemellum Körb. SPECIES
 
 #### Status
 ACCEPTED

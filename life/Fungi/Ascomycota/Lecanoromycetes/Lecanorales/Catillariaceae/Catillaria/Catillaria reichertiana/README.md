@@ -1,5 +1,4 @@
-Catillaria reichertiana Galun SPECIES
-=======
+# Catillaria reichertiana Galun SPECIES
 
 #### Status
 ACCEPTED

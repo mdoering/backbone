@@ -1,11 +1,10 @@
-Asterococcus laidlawii (Sabin, 1941) Prévot, 1961 SPECIES
-=======
+# Acholeplasma laidlawii (Sabin, 1941) Edward and Freundt, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

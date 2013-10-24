@@ -1,5 +1,4 @@
-Calycimonas quinquercarinata Christen SPECIES
-=======
+# Calycimonas quinquercarinata Christen SPECIES
 
 #### Status
 ACCEPTED

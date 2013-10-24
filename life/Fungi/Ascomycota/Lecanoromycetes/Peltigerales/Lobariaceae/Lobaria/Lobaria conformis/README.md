@@ -1,5 +1,4 @@
-Lobaria conformis Vain. SPECIES
-=======
+# Lobaria conformis Vain. SPECIES
 
 #### Status
 ACCEPTED

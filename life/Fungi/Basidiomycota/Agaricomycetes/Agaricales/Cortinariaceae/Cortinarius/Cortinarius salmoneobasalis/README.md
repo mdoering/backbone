@@ -1,5 +1,4 @@
-Cortinarius salmoneobasalis Bidaud SPECIES
-=======
+# Cortinarius salmoneobasalis Bidaud SPECIES
 
 #### Status
 ACCEPTED

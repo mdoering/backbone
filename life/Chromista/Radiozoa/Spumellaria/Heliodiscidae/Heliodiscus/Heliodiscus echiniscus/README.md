@@ -1,5 +1,4 @@
-Heliodiscus echiniscus Haeckel, 1887 SPECIES
-=======
+# Heliodiscus echiniscus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

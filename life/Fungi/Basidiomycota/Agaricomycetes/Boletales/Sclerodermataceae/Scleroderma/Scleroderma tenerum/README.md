@@ -1,5 +1,4 @@
-Scleroderma tenerum Berk. & M.A. Curtis SPECIES
-=======
+# Scleroderma tenerum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

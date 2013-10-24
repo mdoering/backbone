@@ -1,5 +1,4 @@
-Lecanora fuscata var. fuscata VARIETY
-=======
+# Lecanora fuscata (Schrad.) Röhl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora fuscata var. fuscata
+Lichen fuscatus Schrad.
 
 ### Remarks
 null

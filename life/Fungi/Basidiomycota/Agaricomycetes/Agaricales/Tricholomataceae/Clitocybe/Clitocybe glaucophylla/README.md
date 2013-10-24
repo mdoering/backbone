@@ -1,5 +1,4 @@
-Clitocybe glaucophylla Boud. SPECIES
-=======
+# Clitocybe glaucophylla Boud. SPECIES
 
 #### Status
 ACCEPTED

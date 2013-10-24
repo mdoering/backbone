@@ -1,5 +1,4 @@
-Lopadostoma (Nitschke) Traverso, 1906 GENUS
-=======
+# Lopadostoma (Nitschke) Traverso, 1906 GENUS
 
 #### Status
 ACCEPTED

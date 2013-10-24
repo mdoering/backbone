@@ -1,5 +1,4 @@
-Pasteuria GENUS
-=======
+# Pasteuria GENUS
 
 #### Status
 ACCEPTED

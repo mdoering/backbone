@@ -1,5 +1,4 @@
-Gnomonia bicolor Matsush. SPECIES
-=======
+# Gnomonia bicolor Matsush. SPECIES
 
 #### Status
 ACCEPTED

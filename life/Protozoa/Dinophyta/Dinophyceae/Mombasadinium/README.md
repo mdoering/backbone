@@ -1,5 +1,4 @@
-Mombasadinium J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Mombasadinium J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

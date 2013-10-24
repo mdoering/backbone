@@ -1,5 +1,4 @@
-Acremonium borodinense Tad. Ito, Okane, Nagak. & W. Gams, 2000 SPECIES
-=======
+# Acremonium borodinense Tad. Ito, Okane, Nagak. & W. Gams, 2000 SPECIES
 
 #### Status
 ACCEPTED

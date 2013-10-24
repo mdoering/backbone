@@ -1,5 +1,4 @@
-Phallocysta G. Dörhöfer & E.H. Davies, 1980 GENUS
-=======
+# Phallocysta G. Dörhöfer & E.H. Davies, 1980 GENUS
 
 #### Status
 ACCEPTED

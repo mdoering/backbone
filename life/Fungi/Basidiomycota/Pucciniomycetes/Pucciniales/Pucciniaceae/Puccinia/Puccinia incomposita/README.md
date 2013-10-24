@@ -1,5 +1,4 @@
-Puccinia incomposita (F. Kern) Barthol. SPECIES
-=======
+# Puccinia incomposita (F. Kern) Barthol. SPECIES
 
 #### Status
 ACCEPTED

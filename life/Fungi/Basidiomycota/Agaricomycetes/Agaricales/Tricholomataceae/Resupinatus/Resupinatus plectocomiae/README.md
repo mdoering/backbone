@@ -1,5 +1,4 @@
-Resupinatus plectocomiae Corner SPECIES
-=======
+# Resupinatus plectocomiae Corner SPECIES
 
 #### Status
 ACCEPTED

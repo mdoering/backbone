@@ -1,5 +1,4 @@
-Ascochyta primulae Trail, 1887 SPECIES
-=======
+# Ascochyta primulae Trail, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichobotrys sessilispora Hennebert SPECIES
-=======
+# Dichobotrys sessilispora Hennebert SPECIES
 
 #### Status
 ACCEPTED

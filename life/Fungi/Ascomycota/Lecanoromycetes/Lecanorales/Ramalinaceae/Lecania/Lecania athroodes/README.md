@@ -1,5 +1,4 @@
-Lecania athroodes (Nyl.) Müll. Arg. SPECIES
-=======
+# Lecania athroodes (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

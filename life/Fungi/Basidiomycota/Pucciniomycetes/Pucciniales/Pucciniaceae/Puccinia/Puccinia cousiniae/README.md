@@ -1,5 +1,4 @@
-Puccinia cousiniae P. Syd. & Syd., 1902 SPECIES
-=======
+# Puccinia cousiniae P. Syd. & Syd., 1902 SPECIES
 
 #### Status
 ACCEPTED

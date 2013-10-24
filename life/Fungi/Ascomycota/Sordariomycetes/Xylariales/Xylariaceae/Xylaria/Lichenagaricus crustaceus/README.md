@@ -1,5 +1,4 @@
-Lichenagaricus crustaceus P. Micheli SPECIES
-=======
+# Lichenagaricus crustaceus P. Micheli SPECIES
 
 #### Status
 ACCEPTED

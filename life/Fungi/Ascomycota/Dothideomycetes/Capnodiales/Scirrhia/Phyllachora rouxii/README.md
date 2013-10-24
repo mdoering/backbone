@@ -1,8 +1,7 @@
-Sphaerella rouxii (Mont.) Ces. & De Not., 1863 SPECIES
-=======
+# Phyllachora rouxii Bat. & J.L. Bezerra, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

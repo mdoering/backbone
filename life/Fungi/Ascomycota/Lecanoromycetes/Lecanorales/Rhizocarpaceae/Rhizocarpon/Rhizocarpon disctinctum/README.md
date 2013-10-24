@@ -1,5 +1,4 @@
-Rhizocarpon disctinctum f. disctinctum FORM
-=======
+# Rhizocarpon disctinctum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon disctinctum f. disctinctum
+Rhizocarpon disctinctum Th. Fr.
 
 ### Remarks
 null

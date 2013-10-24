@@ -1,5 +1,4 @@
-Cyclotella ornata (Skv.) Flower SPECIES
-=======
+# Cyclotella ornata (Skv.) Flower SPECIES
 
 #### Status
 ACCEPTED

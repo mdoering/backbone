@@ -1,5 +1,4 @@
-Pertusaria leprosescens Erichsen SPECIES
-=======
+# Pertusaria leprosescens Erichsen SPECIES
 
 #### Status
 ACCEPTED

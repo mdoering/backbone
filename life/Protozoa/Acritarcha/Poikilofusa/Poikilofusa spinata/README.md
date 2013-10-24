@@ -1,5 +1,4 @@
-Poikilofusa spinata Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Poikilofusa spinata Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

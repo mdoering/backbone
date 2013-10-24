@@ -1,5 +1,4 @@
-Synechoblastus microptychius (Tuck.) Fink SPECIES
-=======
+# Synechoblastus microptychius (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

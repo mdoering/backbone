@@ -1,5 +1,4 @@
-Mucor carteri (Berk.) Sacc. & Traverso SPECIES
-=======
+# Mucor carteri (Berk.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

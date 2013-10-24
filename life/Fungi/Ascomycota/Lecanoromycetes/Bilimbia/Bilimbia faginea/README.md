@@ -1,5 +1,4 @@
-Bilimbia faginea Körb. SPECIES
-=======
+# Bilimbia faginea Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta opuntiicola Bubák SPECIES
-=======
+# Phyllosticta opuntiicola Bubák SPECIES
 
 #### Status
 ACCEPTED

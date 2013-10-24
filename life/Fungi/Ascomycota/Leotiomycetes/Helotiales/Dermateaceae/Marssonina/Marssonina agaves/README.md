@@ -1,5 +1,4 @@
-Marssonina agaves (Earle) Magnus SPECIES
-=======
+# Marssonina agaves (Earle) Magnus SPECIES
 
 #### Status
 ACCEPTED

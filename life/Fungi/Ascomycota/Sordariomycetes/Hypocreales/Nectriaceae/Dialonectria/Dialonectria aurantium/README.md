@@ -1,5 +1,4 @@
-Dialonectria aurantium (Wallr.) Cooke SPECIES
-=======
+# Dialonectria aurantium (Wallr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

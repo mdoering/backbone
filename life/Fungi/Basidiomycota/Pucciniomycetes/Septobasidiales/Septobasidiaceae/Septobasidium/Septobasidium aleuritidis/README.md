@@ -1,5 +1,4 @@
-Septobasidium aleuritidis R. Heim & Bouriquet SPECIES
-=======
+# Septobasidium aleuritidis R. Heim & Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria pomona Sacc. SPECIES
-=======
+# Leptosphaeria pomona Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonohymeniomyces GENUS
-=======
+# Gonohymeniomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia hirtissima (Peck) Sacc. SPECIES
-=======
+# Rosellinia hirtissima (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cypericola Sawada SPECIES
-=======
+# Phyllosticta cypericola Sawada SPECIES
 
 #### Status
 ACCEPTED

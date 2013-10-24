@@ -1,5 +1,4 @@
-Sakhiella Haque, 1956 GENUS
-=======
+# Sakhiella Haque, 1956 GENUS
 
 #### Status
 ACCEPTED

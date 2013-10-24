@@ -1,5 +1,4 @@
-Leptosphaeria abutilonis Wehm. & S. Ahmad SPECIES
-=======
+# Leptosphaeria abutilonis Wehm. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

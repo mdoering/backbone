@@ -1,5 +1,4 @@
-Microstroma ruizii-belinii H.C. Evans, G. Carrión & Ruiz-Belin, 1995 SPECIES
-=======
+# Microstroma ruizii-belinii H.C. Evans, G. Carrión & Ruiz-Belin, 1995 SPECIES
 
 #### Status
 ACCEPTED

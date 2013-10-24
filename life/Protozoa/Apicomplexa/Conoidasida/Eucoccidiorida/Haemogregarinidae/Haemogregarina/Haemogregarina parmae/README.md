@@ -1,5 +1,4 @@
-Haemogregarina parmae Mackerras & Mackerras, 1925 SPECIES
-=======
+# Haemogregarina parmae Mackerras & Mackerras, 1925 SPECIES
 
 #### Status
 ACCEPTED

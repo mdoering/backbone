@@ -1,5 +1,4 @@
-Russula bernardii Buyck SPECIES
-=======
+# Russula bernardii Buyck SPECIES
 
 #### Status
 ACCEPTED

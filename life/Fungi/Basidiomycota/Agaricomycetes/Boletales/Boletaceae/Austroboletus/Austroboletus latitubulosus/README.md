@@ -1,5 +1,4 @@
-Austroboletus latitubulosus E. Horak SPECIES
-=======
+# Austroboletus latitubulosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

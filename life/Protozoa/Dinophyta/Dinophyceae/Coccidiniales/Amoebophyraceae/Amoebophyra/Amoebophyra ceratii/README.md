@@ -1,5 +1,4 @@
-Amoebophyra ceratii (Koeppen) J. Cachon SPECIES
-=======
+# Amoebophyra ceratii (Koeppen) J. Cachon SPECIES
 
 #### Status
 ACCEPTED

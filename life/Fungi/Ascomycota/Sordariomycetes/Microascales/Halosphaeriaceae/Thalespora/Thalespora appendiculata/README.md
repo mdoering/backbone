@@ -1,5 +1,4 @@
-Thalespora appendiculata Chatmala & E.B.G. Jones, 2006 SPECIES
-=======
+# Thalespora appendiculata Chatmala & E.B.G. Jones, 2006 SPECIES
 
 #### Status
 ACCEPTED

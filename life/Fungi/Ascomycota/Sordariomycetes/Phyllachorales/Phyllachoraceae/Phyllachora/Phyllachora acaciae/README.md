@@ -1,5 +1,4 @@
-Phyllachora acaciae subsp. acaciae SUBSPECIES
-=======
+# Phyllachora acaciae SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hedwigia 33: 233 (1894)
+null
 
 #### Original name
-Phyllachora acaciae subsp. acaciae
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kregervanrija pseudodelftensis Kurtzman, 2006 SPECIES
-=======
+# Kregervanrija pseudodelftensis Kurtzman, 2006 SPECIES
 
 #### Status
 ACCEPTED

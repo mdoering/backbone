@@ -1,5 +1,4 @@
-Diplodia crustans (Wallr.) Sacc. SPECIES
-=======
+# Diplodia crustans (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

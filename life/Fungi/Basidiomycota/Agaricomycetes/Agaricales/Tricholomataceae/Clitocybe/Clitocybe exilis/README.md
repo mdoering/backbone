@@ -1,5 +1,4 @@
-Clitocybe exilis Singer SPECIES
-=======
+# Clitocybe exilis Singer SPECIES
 
 #### Status
 ACCEPTED

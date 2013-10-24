@@ -1,5 +1,4 @@
-Ectosticta costaricana Syd. SPECIES
-=======
+# Ectosticta costaricana Syd. SPECIES
 
 #### Status
 ACCEPTED

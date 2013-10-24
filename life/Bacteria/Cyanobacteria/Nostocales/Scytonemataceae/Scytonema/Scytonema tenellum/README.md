@@ -1,5 +1,4 @@
-Scytonema tenellum Gardner SPECIES
-=======
+# Scytonema tenellum Gardner SPECIES
 
 #### Status
 ACCEPTED

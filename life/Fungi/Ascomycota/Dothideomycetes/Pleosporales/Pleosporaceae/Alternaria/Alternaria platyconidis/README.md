@@ -1,5 +1,4 @@
-Alternaria platyconidis T.Y. Zhang SPECIES
-=======
+# Alternaria platyconidis T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

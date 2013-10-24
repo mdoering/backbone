@@ -1,5 +1,4 @@
-Gloeoporus acidulus Bondartseva SPECIES
-=======
+# Gloeoporus acidulus Bondartseva SPECIES
 
 #### Status
 ACCEPTED

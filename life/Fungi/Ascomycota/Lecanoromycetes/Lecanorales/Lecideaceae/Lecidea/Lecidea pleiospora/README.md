@@ -1,5 +1,4 @@
-Lecidea pleiospora A.L. Sm. SPECIES
-=======
+# Lecidea pleiospora A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca albescens Desv. SPECIES
-=======
+# Sphaerotheca albescens Desv. SPECIES
 
 #### Status
 ACCEPTED

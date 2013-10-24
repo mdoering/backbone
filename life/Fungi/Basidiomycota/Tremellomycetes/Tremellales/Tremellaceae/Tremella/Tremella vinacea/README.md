@@ -1,5 +1,4 @@
-Tremella vinacea Lloyd SPECIES
-=======
+# Tremella vinacea Lloyd SPECIES
 
 #### Status
 ACCEPTED

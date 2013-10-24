@@ -1,5 +1,4 @@
-Leucopaxillus barbarus var. barbarus VARIETY
-=======
+# Leucopaxillus barbarus (Maire) Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leucopaxillus barbarus var. barbarus
+Lepista barbara Maire
 
 ### Remarks
 null

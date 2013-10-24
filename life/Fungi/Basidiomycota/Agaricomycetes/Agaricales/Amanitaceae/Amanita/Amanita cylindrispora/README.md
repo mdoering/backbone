@@ -1,5 +1,4 @@
-Amanita cylindrispora Beardslee SPECIES
-=======
+# Amanita cylindrispora Beardslee SPECIES
 
 #### Status
 ACCEPTED

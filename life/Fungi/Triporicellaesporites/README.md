@@ -1,5 +1,4 @@
-Triporicellaesporites Ke & Shi GENUS
-=======
+# Triporicellaesporites Ke & Shi GENUS
 
 #### Status
 ACCEPTED

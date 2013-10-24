@@ -1,5 +1,4 @@
-Thelephora undulata Schrad. ex J.F. Gmel., 1792 SPECIES
-=======
+# Thelephora undulata Schrad. ex J.F. Gmel., 1792 SPECIES
 
 #### Status
 ACCEPTED

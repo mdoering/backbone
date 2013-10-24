@@ -1,11 +1,10 @@
-Sargassum galapagense var. setifolia Grunow VARIETY
-=======
+# Sargassum setifolium (Grunow) Setchell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IUCN Red List of Threatened Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

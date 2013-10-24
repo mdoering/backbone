@@ -1,5 +1,4 @@
-Arrhytidia pustulata Brasf. SPECIES
-=======
+# Arrhytidia pustulata Brasf. SPECIES
 
 #### Status
 ACCEPTED

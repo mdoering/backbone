@@ -1,5 +1,4 @@
-Pseudoguembelina GENUS
-=======
+# Pseudoguembelina GENUS
 
 #### Status
 ACCEPTED

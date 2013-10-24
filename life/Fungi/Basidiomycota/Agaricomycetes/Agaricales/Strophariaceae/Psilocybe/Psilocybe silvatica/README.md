@@ -1,5 +1,4 @@
-Psilocybe silvatica (Peck) Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe silvatica (Peck) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

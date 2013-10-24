@@ -1,5 +1,4 @@
-Pneumocystis oryctolagi Dei-Cas, Chabé, Moukhlis, Durand-Joly, Aliouat, Stringer, Cushion, C. Noël, de Hoog, J. Guillot & Viscogl. SPECIES
-=======
+# Pneumocystis oryctolagi Dei-Cas, Chabé, Moukhlis, Durand-Joly, Aliouat, Stringer, Cushion, C. Noël, de Hoog, J. Guillot & Viscogl. SPECIES
 
 #### Status
 ACCEPTED

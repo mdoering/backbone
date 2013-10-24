@@ -1,5 +1,4 @@
-Leptosphaeria ambiens Rehm SPECIES
-=======
+# Leptosphaeria ambiens Rehm SPECIES
 
 #### Status
 ACCEPTED

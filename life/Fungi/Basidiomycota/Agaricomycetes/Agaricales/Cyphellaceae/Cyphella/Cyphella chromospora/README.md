@@ -1,5 +1,4 @@
-Cyphella chromospora Pat. SPECIES
-=======
+# Cyphella chromospora Pat. SPECIES
 
 #### Status
 ACCEPTED

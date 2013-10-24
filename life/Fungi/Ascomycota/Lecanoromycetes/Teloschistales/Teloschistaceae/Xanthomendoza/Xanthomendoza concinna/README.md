@@ -1,5 +1,4 @@
-Xanthomendoza concinna (J.W. Thomson & T.H. Nash) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
-=======
+# Xanthomendoza concinna (J.W. Thomson & T.H. Nash) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

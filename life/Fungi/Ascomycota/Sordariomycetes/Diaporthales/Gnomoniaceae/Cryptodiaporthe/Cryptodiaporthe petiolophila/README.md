@@ -1,5 +1,4 @@
-Cryptodiaporthe petiolophila var. spicata (Ellis & Everh.) M.E. Barr VARIETY
-=======
+# Cryptodiaporthe petiolophila (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycotaxon 41(1): 289 (1991)
+Mycol. Mem. 7: 136 (1978)
 
 #### Original name
-Diaporthe spicata Ellis & Everh.
+Sphaeria petiolophila Peck
 
 ### Remarks
 null

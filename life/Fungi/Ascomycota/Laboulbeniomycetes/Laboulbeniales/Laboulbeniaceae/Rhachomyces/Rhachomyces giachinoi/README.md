@@ -1,5 +1,4 @@
-Rhachomyces giachinoi W. Rossi SPECIES
-=======
+# Rhachomyces giachinoi W. Rossi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleps quadrispinus Foissner, 1983 SPECIES
-=======
+# Coleps quadrispinus Foissner, 1983 SPECIES
 
 #### Status
 ACCEPTED

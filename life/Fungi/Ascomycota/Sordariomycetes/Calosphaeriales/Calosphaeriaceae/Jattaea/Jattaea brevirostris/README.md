@@ -1,5 +1,4 @@
-Jattaea brevirostris (Ellis) Berl. SPECIES
-=======
+# Jattaea brevirostris (Ellis) Berl. SPECIES
 
 #### Status
 ACCEPTED

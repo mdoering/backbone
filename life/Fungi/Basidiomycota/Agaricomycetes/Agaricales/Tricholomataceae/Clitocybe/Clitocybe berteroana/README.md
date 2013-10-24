@@ -1,5 +1,4 @@
-Clitocybe berteroana Mont. SPECIES
-=======
+# Clitocybe berteroana Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aregma speciosum Fr. SPECIES
-=======
+# Aregma speciosum Fr. SPECIES
 
 #### Status
 ACCEPTED

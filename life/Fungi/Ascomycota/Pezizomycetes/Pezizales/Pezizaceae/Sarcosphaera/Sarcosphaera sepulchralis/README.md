@@ -1,8 +1,7 @@
-Sarcosphaera sepulcralis (Rebent.) Rick SPECIES
-=======
+# Sarcosphaera sepulchralis (Rebent.) Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

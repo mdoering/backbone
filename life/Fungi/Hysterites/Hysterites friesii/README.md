@@ -1,5 +1,4 @@
-Hysterites friesii Nath. SPECIES
-=======
+# Hysterites friesii Nath. SPECIES
 
 #### Status
 ACCEPTED

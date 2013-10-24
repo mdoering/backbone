@@ -1,5 +1,4 @@
-Stachybotrys nilagirica Subram., 1957 SPECIES
-=======
+# Stachybotrys nilagirica Subram., 1957 SPECIES
 
 #### Status
 ACCEPTED

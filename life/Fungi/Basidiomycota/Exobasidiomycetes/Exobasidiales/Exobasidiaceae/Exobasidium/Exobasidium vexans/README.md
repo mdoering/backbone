@@ -1,5 +1,4 @@
-Exobasidium vexans Massee, 1898 SPECIES
-=======
+# Exobasidium vexans Massee, 1898 SPECIES
 
 #### Status
 ACCEPTED

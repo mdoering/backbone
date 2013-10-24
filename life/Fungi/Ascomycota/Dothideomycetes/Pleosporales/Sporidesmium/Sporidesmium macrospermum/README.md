@@ -1,5 +1,4 @@
-Sporidesmium macrospermum Corda SPECIES
-=======
+# Sporidesmium macrospermum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalospora subsanguinaria (Stirt.) Wheldon & A. Wilson SPECIES
-=======
+# Megalospora subsanguinaria (Stirt.) Wheldon & A. Wilson SPECIES
 
 #### Status
 ACCEPTED

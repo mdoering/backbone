@@ -1,17 +1,16 @@
-Boletus tenuipes (Cooke) Massee, 1892 SPECIES
-=======
+# Aureoboletus gentilis (Quél.) Pouzar, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. Fung. -Fl. 1: 281 (1892)
+Ceská Mykol. 11: 48 (1957)
 
 #### Original name
-Boletus granulatus var. tenuipes Cooke, 1883
+Boletus sanguineus var. gentilis Quél., 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tilletia taiana Mundk. SPECIES
-=======
+# Tilletia taiana Mundk. SPECIES
 
 #### Status
 ACCEPTED

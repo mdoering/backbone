@@ -1,5 +1,4 @@
-Corticiales K.H. Larss. ORDER
-=======
+# Corticiales K.H. Larss. ORDER
 
 #### Status
 ACCEPTED

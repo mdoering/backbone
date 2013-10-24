@@ -1,5 +1,4 @@
-Pseudosphaerella cupaniae (Rehm) Höhn. SPECIES
-=======
+# Pseudosphaerella cupaniae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

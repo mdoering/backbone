@@ -1,5 +1,4 @@
-Cortinarius xanthochlorus Rob. Henry SPECIES
-=======
+# Cortinarius xanthochlorus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

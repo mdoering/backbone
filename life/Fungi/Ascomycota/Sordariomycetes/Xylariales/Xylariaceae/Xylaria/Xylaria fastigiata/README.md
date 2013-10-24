@@ -1,5 +1,4 @@
-Xylaria fastigiata Speg. SPECIES
-=======
+# Xylaria fastigiata Speg. SPECIES
 
 #### Status
 ACCEPTED

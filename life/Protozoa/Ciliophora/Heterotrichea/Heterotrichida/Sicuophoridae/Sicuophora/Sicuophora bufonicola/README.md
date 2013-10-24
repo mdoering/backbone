@@ -1,5 +1,4 @@
-Sicuophora bufonicola SPECIES
-=======
+# Sicuophora bufonicola SPECIES
 
 #### Status
 ACCEPTED

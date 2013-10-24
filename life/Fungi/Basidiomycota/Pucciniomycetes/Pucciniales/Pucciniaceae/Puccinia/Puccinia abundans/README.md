@@ -1,5 +1,4 @@
-Puccinia abundans (Peck) H.S. Jacks. SPECIES
-=======
+# Puccinia abundans (Peck) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

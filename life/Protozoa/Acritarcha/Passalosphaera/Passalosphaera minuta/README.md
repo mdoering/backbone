@@ -1,5 +1,4 @@
-Passalosphaera minuta Playford & Wicander, 1988 SPECIES
-=======
+# Passalosphaera minuta Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

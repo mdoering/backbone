@@ -1,5 +1,4 @@
-Tricholoma unguentatum (Fr.) P. Karst. SPECIES
-=======
+# Tricholoma unguentatum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

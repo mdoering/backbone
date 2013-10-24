@@ -1,5 +1,4 @@
-Cortinarius hebelomaticus E. Horak & Soop, 1999 SPECIES
-=======
+# Cortinarius hebelomaticus E. Horak & Soop, 1999 SPECIES
 
 #### Status
 ACCEPTED

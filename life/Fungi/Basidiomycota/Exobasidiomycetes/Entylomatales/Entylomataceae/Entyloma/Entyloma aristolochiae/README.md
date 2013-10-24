@@ -1,5 +1,4 @@
-Entyloma aristolochiae Sacc. SPECIES
-=======
+# Entyloma aristolochiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

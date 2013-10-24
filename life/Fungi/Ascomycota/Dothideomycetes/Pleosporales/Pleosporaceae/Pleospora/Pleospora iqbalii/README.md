@@ -1,5 +1,4 @@
-Pleospora iqbalii M.T. Lucas, 1969 SPECIES
-=======
+# Pleospora iqbalii M.T. Lucas, 1969 SPECIES
 
 #### Status
 ACCEPTED

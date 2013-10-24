@@ -1,5 +1,4 @@
-Porina leptaleella (Nyl.) Lettau SPECIES
-=======
+# Porina leptaleella (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

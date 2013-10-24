@@ -1,5 +1,4 @@
-Physalospora himantophylla Gonz. Frag. SPECIES
-=======
+# Physalospora himantophylla Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

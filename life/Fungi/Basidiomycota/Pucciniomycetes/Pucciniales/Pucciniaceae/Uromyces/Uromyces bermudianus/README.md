@@ -1,5 +1,4 @@
-Uromyces bermudianus Cummins SPECIES
-=======
+# Uromyces bermudianus Cummins SPECIES
 
 #### Status
 ACCEPTED

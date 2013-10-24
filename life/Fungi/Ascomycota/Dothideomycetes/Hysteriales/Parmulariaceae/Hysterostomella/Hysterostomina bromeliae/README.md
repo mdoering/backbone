@@ -1,5 +1,4 @@
-Hysterostomina bromeliae Bat. & A.F. Vital SPECIES
-=======
+# Hysterostomina bromeliae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

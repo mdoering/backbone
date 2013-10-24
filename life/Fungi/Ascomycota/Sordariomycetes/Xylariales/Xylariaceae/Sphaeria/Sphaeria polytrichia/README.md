@@ -1,5 +1,4 @@
-Sphaeria polytrichia Wallr. SPECIES
-=======
+# Sphaeria polytrichia Wallr. SPECIES
 
 #### Status
 ACCEPTED

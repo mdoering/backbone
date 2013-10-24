@@ -1,5 +1,4 @@
-Hydropus hymenocephalus (A.H. Sm.) Redhead, 1984 SPECIES
-=======
+# Hydropus hymenocephalus (A.H. Sm.) Redhead, 1984 SPECIES
 
 #### Status
 ACCEPTED

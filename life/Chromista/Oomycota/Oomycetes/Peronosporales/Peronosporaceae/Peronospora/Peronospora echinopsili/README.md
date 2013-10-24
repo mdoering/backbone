@@ -1,5 +1,4 @@
-Peronospora echinopsili Tunkina SPECIES
-=======
+# Peronospora echinopsili Tunkina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Zonaria furcellata C. Agardh SPECIES
-=======
+# Dictyota furcellata (C. Agardh) Greville SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

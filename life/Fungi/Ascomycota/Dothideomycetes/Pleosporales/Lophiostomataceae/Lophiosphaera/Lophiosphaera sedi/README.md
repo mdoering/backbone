@@ -1,5 +1,4 @@
-Lophiosphaera sedi (Hazsl.) Sacc. & Traverso SPECIES
-=======
+# Lophiosphaera sedi (Hazsl.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium panici Sawada SPECIES
-=======
+# Helminthosporium panici F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. Buitenz, 3 Sér. 7: 432 (1925)
 
 #### Original name
-Helmisporium panici Sawada
+Helminthosporium panici F. Stevens
 
 ### Remarks
 null

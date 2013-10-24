@@ -1,5 +1,4 @@
-Marasmiellus leptophyllus (Peck) Singer SPECIES
-=======
+# Marasmiellus leptophyllus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

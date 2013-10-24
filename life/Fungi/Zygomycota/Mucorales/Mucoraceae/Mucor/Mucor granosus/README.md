@@ -1,5 +1,4 @@
-Mucor granosus Scholler SPECIES
-=======
+# Mucor granosus Scholler SPECIES
 
 #### Status
 ACCEPTED

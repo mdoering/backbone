@@ -1,5 +1,4 @@
-Polyporus arcticus Fr. SPECIES
-=======
+# Polyporus arcticus Fr. SPECIES
 
 #### Status
 ACCEPTED

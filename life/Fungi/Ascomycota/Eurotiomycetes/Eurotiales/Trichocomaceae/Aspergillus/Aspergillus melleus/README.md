@@ -1,17 +1,16 @@
-Aspergillus quercinus var. quercinus (Bainier) Thom & Church VARIETY
-=======
+# Aspergillus melleus Yukawa, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Genus Aspergillus 186 (1926)
+null
 
 #### Original name
-Aspergillus quercinus var. quercinus (Bainier) Thom & Church
+Aspergillus melleus Yukawa, 1911
 
 ### Remarks
 null

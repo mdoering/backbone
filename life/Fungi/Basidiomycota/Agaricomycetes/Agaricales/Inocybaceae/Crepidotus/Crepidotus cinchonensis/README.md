@@ -1,5 +1,4 @@
-Crepidotus cinchonensis Murrill SPECIES
-=======
+# Crepidotus cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

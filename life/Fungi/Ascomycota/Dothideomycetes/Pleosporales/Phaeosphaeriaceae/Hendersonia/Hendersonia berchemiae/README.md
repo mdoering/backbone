@@ -1,5 +1,4 @@
-Hendersonia berchemiae Henn. SPECIES
-=======
+# Hendersonia berchemiae Henn. SPECIES
 
 #### Status
 ACCEPTED

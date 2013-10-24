@@ -1,5 +1,4 @@
-Strigula caerulensis P. M. McCarthy SPECIES
-=======
+# Strigula caerulensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

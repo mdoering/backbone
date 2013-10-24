@@ -1,5 +1,4 @@
-Septobasidium gomezii Henk SPECIES
-=======
+# Septobasidium gomezii Henk SPECIES
 
 #### Status
 ACCEPTED

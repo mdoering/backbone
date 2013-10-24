@@ -1,5 +1,4 @@
-Lactarius capitatus K. Das, J.R. Sharma & Montoya SPECIES
-=======
+# Lactarius capitatus K. Das, J.R. Sharma & Montoya SPECIES
 
 #### Status
 ACCEPTED

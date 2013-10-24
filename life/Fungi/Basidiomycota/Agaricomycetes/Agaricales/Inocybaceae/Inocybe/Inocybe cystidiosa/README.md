@@ -1,5 +1,4 @@
-Inocybe cystidiosa (A.H. Sm.) Singer SPECIES
-=======
+# Inocybe cystidiosa (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

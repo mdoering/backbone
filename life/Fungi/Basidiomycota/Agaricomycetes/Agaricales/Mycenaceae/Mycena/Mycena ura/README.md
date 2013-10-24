@@ -1,14 +1,13 @@
-Mycena miniata G. Stev., 1964 SPECIES
-=======
+# Mycena ura Segedin, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 54 (1964)
+N. Z. Jl Bot. 29(1): 57 (1991)
 
 #### Original name
 Mycena miniata G. Stev., 1964

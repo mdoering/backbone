@@ -1,5 +1,4 @@
-Cercospora manihotis Henn. SPECIES
-=======
+# Cercospora manihotis Henn. SPECIES
 
 #### Status
 ACCEPTED

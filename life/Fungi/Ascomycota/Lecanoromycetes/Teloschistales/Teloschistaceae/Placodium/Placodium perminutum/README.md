@@ -1,5 +1,4 @@
-Placodium perminutum Motyka SPECIES
-=======
+# Placodium perminutum Motyka SPECIES
 
 #### Status
 ACCEPTED

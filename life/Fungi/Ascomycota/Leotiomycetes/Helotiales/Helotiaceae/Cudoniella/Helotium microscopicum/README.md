@@ -1,5 +1,4 @@
-Helotium microscopicum (Wallr.) Sacc. SPECIES
-=======
+# Helotium microscopicum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterothyrium atromarginatum Herrera-Camp. & Lücking SPECIES
-=======
+# Asterothyrium atromarginatum Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria wellingtoniae (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Amphisphaeria wellingtoniae (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

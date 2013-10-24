@@ -1,5 +1,4 @@
-Acetobacter cibinongensis Lisdiyanti et al., 2002 SPECIES
-=======
+# Acetobacter cibinongensis Lisdiyanti et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia earlei Griffiths SPECIES
-=======
+# Tilletia earlei Griffiths SPECIES
 
 #### Status
 ACCEPTED

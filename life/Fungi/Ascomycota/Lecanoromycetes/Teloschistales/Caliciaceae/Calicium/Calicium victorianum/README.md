@@ -1,5 +1,4 @@
-Calicium victorianum subsp. victorianum SUBSPECIES
-=======
+# Calicium victorianum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Symb. bot. upsal. 27(no. 1): 59 (1987)
+null
 
 #### Original name
-Calicium victorianum subsp. victorianum
+null
 
 ### Remarks
 null

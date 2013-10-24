@@ -1,5 +1,4 @@
-Guignardia polygonati (Schwein.) Lindau SPECIES
-=======
+# Guignardia polygonati (Schwein.) Lindau SPECIES
 
 #### Status
 ACCEPTED

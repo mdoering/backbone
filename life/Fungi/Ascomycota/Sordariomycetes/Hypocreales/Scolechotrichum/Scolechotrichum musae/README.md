@@ -1,5 +1,4 @@
-Scolechotrichum musae Sawada SPECIES
-=======
+# Scolechotrichum musae Sawada SPECIES
 
 #### Status
 ACCEPTED

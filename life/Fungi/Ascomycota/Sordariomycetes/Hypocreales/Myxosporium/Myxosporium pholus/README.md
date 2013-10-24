@@ -1,5 +1,4 @@
-Myxosporium pholus Fautrey & Lambotte SPECIES
-=======
+# Myxosporium pholus Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

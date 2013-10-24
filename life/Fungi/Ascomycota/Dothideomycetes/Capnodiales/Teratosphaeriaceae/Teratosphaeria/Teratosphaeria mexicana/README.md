@@ -1,5 +1,4 @@
-Teratosphaeria mexicana (Crous) Crous & U. Braun, 2007 SPECIES
-=======
+# Teratosphaeria mexicana (Crous) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

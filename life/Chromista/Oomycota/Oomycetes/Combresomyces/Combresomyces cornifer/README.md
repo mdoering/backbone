@@ -1,5 +1,4 @@
-Combresomyces cornifer Dotzler, M. Krings, Agerer, Galtier & T.N. Taylor SPECIES
-=======
+# Combresomyces cornifer Dotzler, M. Krings, Agerer, Galtier & T.N. Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rinodina oxydata var. squamulosa Bagl. VARIETY
-=======
+# Rinodina oxydata (A. Massal.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geneac. Lich. 19 (1854)
 
 #### Original name
-null
+Berengeria oxydata A. Massal.
 
 ### Remarks
 null

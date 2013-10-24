@@ -1,5 +1,4 @@
-Estiastra pentagonalis Pöthé de Baldis, 1974 SPECIES
-=======
+# Estiastra pentagonalis Pöthé de Baldis, 1974 SPECIES
 
 #### Status
 ACCEPTED

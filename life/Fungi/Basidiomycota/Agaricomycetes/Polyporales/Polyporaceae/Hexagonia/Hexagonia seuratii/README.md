@@ -1,17 +1,16 @@
-Hexagonia seurati Pat. SPECIES
-=======
+# Hexagonia seuratii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 22: 48 (1906)
 
 #### Original name
-Hexagonia seurati Pat.
+Hexagonia seuratii Pat.
 
 ### Remarks
 null

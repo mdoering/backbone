@@ -1,5 +1,4 @@
-Stereocaulon curtum (Räsänen) I.M. Lamb SPECIES
-=======
+# Stereocaulon curtum (Räsänen) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

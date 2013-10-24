@@ -1,5 +1,4 @@
-Callopisma cinnamomeum (Th. Fr.) Malme SPECIES
-=======
+# Callopisma cinnamomeum (Th. Fr.) Malme SPECIES
 
 #### Status
 ACCEPTED

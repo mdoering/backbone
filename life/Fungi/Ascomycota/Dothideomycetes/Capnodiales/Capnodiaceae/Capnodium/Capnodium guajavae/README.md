@@ -1,5 +1,4 @@
-Capnodium guajavae G.E. Bernard SPECIES
-=======
+# Capnodium guajavae G.E. Bernard SPECIES
 
 #### Status
 ACCEPTED

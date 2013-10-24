@@ -1,14 +1,13 @@
-Leptothyrium aristatum Cooke, 1891 SPECIES
-=======
+# Tracylla aristata (Cooke) Tassi, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 20(no. 93): 6 (1891)
+Bulletin Labor. Orto Bot. de R. Univ. Siena 6: 62 (1904)
 
 #### Original name
 Leptothyrium aristatum Cooke, 1891

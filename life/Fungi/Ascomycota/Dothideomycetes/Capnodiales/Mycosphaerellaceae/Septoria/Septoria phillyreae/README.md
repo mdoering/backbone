@@ -1,5 +1,4 @@
-Septoria phillyreae Thüm. SPECIES
-=======
+# Septoria phillyreae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea invenusta H. Magn. SPECIES
-=======
+# Lecidea invenusta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria dunkerquensis Servít SPECIES
-=======
+# Verrucaria dunkerquensis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor suhagiensis M.D. Mehrotra SPECIES
-=======
+# Mucor suhagiensis M.D. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

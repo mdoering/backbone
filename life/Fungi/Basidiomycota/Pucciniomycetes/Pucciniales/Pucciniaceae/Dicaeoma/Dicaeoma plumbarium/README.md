@@ -1,5 +1,4 @@
-Dicaeoma plumbarium (Peck) Kuntze SPECIES
-=======
+# Dicaeoma plumbarium (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

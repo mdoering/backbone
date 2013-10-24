@@ -1,17 +1,16 @@
-Phaeotrema columellatum (Nyl.) Zahlbr. SPECIES
-=======
+# Melanotrema columellatum (Nyl.) Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 606 (1923)
+null
 
 #### Original name
-Thelotrema columellatum Nyl.
+null
 
 ### Remarks
 null

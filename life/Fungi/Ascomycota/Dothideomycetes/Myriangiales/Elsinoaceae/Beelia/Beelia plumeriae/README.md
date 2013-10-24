@@ -1,5 +1,4 @@
-Beelia plumeriae Bat. & Cavalc. SPECIES
-=======
+# Beelia plumeriae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

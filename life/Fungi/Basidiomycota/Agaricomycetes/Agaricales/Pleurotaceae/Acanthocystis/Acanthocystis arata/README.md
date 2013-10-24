@@ -1,5 +1,4 @@
-Acanthocystis arata (Pat. & Demange) Singer SPECIES
-=======
+# Acanthocystis arata (Pat. & Demange) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium compositum Jungh. SPECIES
-=======
+# Sclerotium compositum Jungh. SPECIES
 
 #### Status
 ACCEPTED

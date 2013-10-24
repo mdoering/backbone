@@ -1,5 +1,4 @@
-Psalliota africana Fayod SPECIES
-=======
+# Psalliota africana Fayod SPECIES
 
 #### Status
 ACCEPTED

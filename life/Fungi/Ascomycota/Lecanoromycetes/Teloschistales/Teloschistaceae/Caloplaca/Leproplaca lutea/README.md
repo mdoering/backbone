@@ -1,5 +1,4 @@
-Leproplaca lutea J.R. Laundon SPECIES
-=======
+# Leproplaca lutea J.R. Laundon SPECIES
 
 #### Status
 ACCEPTED

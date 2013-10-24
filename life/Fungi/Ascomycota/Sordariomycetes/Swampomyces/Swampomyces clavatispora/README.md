@@ -1,5 +1,4 @@
-Swampomyces clavatispora Abdel-Wahab, El-Shar. & E.B.G. Jones, 2001 SPECIES
-=======
+# Swampomyces clavatispora Abdel-Wahab, El-Shar. & E.B.G. Jones, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea catervaria Müll. Arg. SPECIES
-=======
+# Lecidea catervaria Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

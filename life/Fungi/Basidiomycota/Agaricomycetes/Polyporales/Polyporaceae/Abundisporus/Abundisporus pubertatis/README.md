@@ -1,14 +1,13 @@
-Polyporus pubertatis Lloyd, 1915 SPECIES
-=======
+# Abundisporus pubertatis (Lloyd) Parmasto, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Syn. Apus) 358 (1915)
+in Parmasto & Hallenberg, Karstenia 40(1-2): 133 (2000)
 
 #### Original name
 Polyporus pubertatis Lloyd, 1915

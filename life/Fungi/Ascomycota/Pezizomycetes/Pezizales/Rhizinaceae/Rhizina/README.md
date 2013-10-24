@@ -1,5 +1,4 @@
-Rhizina E.M. Fries, 1815 GENUS
-=======
+# Rhizina E.M. Fries, 1815 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ushtrina T.R.N. Rai & J.K. Misra SPECIES
-=======
+# Phoma ushtrina T.R.N. Rai & J.K. Misra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeoglobus veneficus Huber et al., 1998 SPECIES
-=======
+# Archaeoglobus veneficus Huber et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

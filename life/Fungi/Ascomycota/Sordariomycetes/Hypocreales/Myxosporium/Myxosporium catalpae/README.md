@@ -1,5 +1,4 @@
-Myxosporium catalpae Henn. SPECIES
-=======
+# Myxosporium catalpae Henn. SPECIES
 
 #### Status
 ACCEPTED

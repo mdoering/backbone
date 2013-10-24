@@ -1,5 +1,4 @@
-Clostridium hiranonis Kitahara et al., 2001 SPECIES
-=======
+# Clostridium hiranonis Kitahara et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

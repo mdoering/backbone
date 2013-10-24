@@ -1,17 +1,16 @@
-Hydnum suaveolens subsp. suaveolens SUBSPECIES
-=======
+# Hydnellum suaveolens (Scop.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. carniol. (Wien), Edn 2 2: 472 (1772)
+Meddn Soc. Fauna Flora fenn. 5: 41 (1879)
 
 #### Original name
-Hydnum suaveolens subsp. suaveolens
+Hydnum suaveolens Scop., 1772
 
 ### Remarks
 null

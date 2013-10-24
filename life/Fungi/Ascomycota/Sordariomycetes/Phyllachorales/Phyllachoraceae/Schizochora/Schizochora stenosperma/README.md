@@ -1,5 +1,4 @@
-Schizochora stenosperma Syd., 1925 SPECIES
-=======
+# Schizochora stenosperma Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

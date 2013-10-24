@@ -1,14 +1,13 @@
-Rhabdothyrium polygonati (Tassi) Höhn., 1915 SPECIES
-=======
+# Pseudothyrium polygonati (Tassi) Höhn., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. Inst. tech. Hochsch. Wien (1927)
 
 #### Original name
 Leptothyrium polygonati Tassi, 1897

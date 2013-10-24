@@ -1,5 +1,4 @@
-Corticium canum Burt SPECIES
-=======
+# Corticium canum Burt SPECIES
 
 #### Status
 ACCEPTED

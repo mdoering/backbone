@@ -1,5 +1,4 @@
-Boletellus squamatus (Berk.) Singer SPECIES
-=======
+# Boletellus squamatus (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

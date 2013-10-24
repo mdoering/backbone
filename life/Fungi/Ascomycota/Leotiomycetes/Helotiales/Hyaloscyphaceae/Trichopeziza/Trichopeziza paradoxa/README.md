@@ -1,5 +1,4 @@
-Trichopeziza paradoxa (P. Karst.) Sacc. SPECIES
-=======
+# Trichopeziza paradoxa (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

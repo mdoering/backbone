@@ -1,5 +1,4 @@
-Lycoperdon majus Vaill. SPECIES
-=======
+# Lycoperdon majus Vaill. SPECIES
 
 #### Status
 ACCEPTED

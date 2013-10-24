@@ -1,5 +1,4 @@
-Pseudocercospora crystallina Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora crystallina Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

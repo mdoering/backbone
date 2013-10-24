@@ -1,5 +1,4 @@
-Cytospora lauri Grove, 1935 SPECIES
-=======
+# Cytospora lauri Grove, 1935 SPECIES
 
 #### Status
 ACCEPTED

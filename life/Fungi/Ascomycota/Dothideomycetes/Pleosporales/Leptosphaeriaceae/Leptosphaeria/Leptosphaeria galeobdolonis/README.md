@@ -1,5 +1,4 @@
-Leptosphaeria galeobdolonis Feltgen SPECIES
-=======
+# Leptosphaeria galeobdolonis Feltgen SPECIES
 
 #### Status
 ACCEPTED

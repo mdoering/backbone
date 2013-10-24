@@ -1,5 +1,4 @@
-Anatolinites spinatus M.G. Parsons & G. Norris SPECIES
-=======
+# Anatolinites spinatus M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

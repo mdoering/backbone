@@ -1,5 +1,4 @@
-Lepiota insimulata E. Horak SPECIES
-=======
+# Lepiota insimulata E. Horak SPECIES
 
 #### Status
 ACCEPTED

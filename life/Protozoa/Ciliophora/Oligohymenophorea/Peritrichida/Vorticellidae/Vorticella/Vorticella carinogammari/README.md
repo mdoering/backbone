@@ -1,5 +1,4 @@
-Vorticella carinogammari SPECIES
-=======
+# Vorticella carinogammari SPECIES
 
 #### Status
 ACCEPTED

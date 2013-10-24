@@ -1,5 +1,4 @@
-Leptosphaeria apios-fortunei Miura ex I. Hino & Katum. SPECIES
-=======
+# Leptosphaeria apios-fortunei Miura ex I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

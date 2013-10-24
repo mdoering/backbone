@@ -1,5 +1,4 @@
-Lagotia Wright, 1857 GENUS
-=======
+# Lagotia Wright, 1857 GENUS
 
 #### Status
 ACCEPTED

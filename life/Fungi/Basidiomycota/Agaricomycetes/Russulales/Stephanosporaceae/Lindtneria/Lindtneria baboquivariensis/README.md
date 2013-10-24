@@ -1,14 +1,13 @@
-Poria baboquivariensis Gilb., 1976 SPECIES
-=======
+# Lindtneria baboquivariensis (Gilb.) Gilb. & Ryvarden, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 3(3): 538 (1976)
+N. Amer. Polyp. (Oslo), Vol. <b>1</b> <i>Abortiporus</i> - <i>Lindtneri</i> 429 (1986)
 
 #### Original name
 Poria baboquivariensis Gilb., 1976

@@ -1,5 +1,4 @@
-Anungitea globosa B. Sutton & Hodges SPECIES
-=======
+# Anungitea globosa B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

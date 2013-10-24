@@ -1,5 +1,4 @@
-Catillaria melanopotamica I.M. Lamb SPECIES
-=======
+# Catillaria melanopotamica I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

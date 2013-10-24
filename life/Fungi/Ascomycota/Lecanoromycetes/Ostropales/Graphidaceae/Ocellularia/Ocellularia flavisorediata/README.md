@@ -1,5 +1,4 @@
-Ocellularia flavisorediata Frisch SPECIES
-=======
+# Ocellularia flavisorediata Frisch SPECIES
 
 #### Status
 ACCEPTED

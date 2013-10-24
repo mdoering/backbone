@@ -1,5 +1,4 @@
-Quadrimorphina Finlay, 1939 GENUS
-=======
+# Quadrimorphina Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis miconiae (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis miconiae (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

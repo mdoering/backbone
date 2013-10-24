@@ -1,5 +1,4 @@
-Marasmius rarus Britzelm. SPECIES
-=======
+# Marasmius rarus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

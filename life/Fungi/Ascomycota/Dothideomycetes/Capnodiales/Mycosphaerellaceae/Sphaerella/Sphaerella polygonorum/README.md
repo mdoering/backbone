@@ -1,5 +1,4 @@
-Sphaerella polygonorum (Crié) Sacc. SPECIES
-=======
+# Sphaerella polygonorum (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

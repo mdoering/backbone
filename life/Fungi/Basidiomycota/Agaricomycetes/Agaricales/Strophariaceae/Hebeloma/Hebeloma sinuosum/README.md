@@ -1,14 +1,13 @@
-Agaricus sinuosus Fr., 1838 SPECIES
-=======
+# Hebeloma sinuosum (Fr.) Quél., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 178 (1838)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 345 (1873)
 
 #### Original name
 Agaricus sinuosus Fr., 1838

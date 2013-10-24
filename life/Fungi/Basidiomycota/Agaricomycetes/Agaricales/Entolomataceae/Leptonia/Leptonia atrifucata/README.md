@@ -1,5 +1,4 @@
-Leptonia atrifucata Largent SPECIES
-=======
+# Leptonia atrifucata Largent SPECIES
 
 #### Status
 ACCEPTED

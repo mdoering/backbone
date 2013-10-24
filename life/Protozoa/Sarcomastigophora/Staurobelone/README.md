@@ -1,5 +1,4 @@
-Staurobelone Haeckel, 1881 GENUS
-=======
+# Staurobelone Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

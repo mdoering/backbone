@@ -1,5 +1,4 @@
-Lecidea lithyrga Fr. SPECIES
-=======
+# Lecidea lithyrga Fr. SPECIES
 
 #### Status
 ACCEPTED

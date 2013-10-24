@@ -1,5 +1,4 @@
-Toninia lutosa (Ach.) Timdal SPECIES
-=======
+# Toninia lutosa (Ach.) Timdal SPECIES
 
 #### Status
 ACCEPTED

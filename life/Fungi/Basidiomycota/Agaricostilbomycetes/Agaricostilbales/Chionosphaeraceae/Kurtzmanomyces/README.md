@@ -1,5 +1,4 @@
-Kurtzmanomyces Y. Yamada, Itoh, H. Kawas., I. Banno & Nakase GENUS
-=======
+# Kurtzmanomyces Y. Yamada, Itoh, H. Kawas., I. Banno & Nakase GENUS
 
 #### Status
 ACCEPTED

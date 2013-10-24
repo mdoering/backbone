@@ -1,5 +1,4 @@
-Peziza conoplea Alb. & Schwein. SPECIES
-=======
+# Peziza conoplea Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

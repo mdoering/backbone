@@ -1,5 +1,4 @@
-Ozonium lateritium (Pers.) Pers. SPECIES
-=======
+# Ozonium lateritium (Pers.) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clinterium guepinii Mont. SPECIES
-=======
+# Clinterium guepinii Mont. SPECIES
 
 #### Status
 ACCEPTED

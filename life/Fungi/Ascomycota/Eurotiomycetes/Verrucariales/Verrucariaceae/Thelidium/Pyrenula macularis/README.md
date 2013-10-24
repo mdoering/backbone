@@ -1,5 +1,4 @@
-Pyrenula macularis (Zahlbr.) R.C. Harris, 1989 SPECIES
-=======
+# Pyrenula macularis (Zahlbr.) R.C. Harris, 1989 SPECIES
 
 #### Status
 DOUBTFUL

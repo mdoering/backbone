@@ -1,5 +1,4 @@
-Arthrobotryum glabroides F. Stevens SPECIES
-=======
+# Arthrobotryum glabroides F. Stevens SPECIES
 
 #### Status
 ACCEPTED

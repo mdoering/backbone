@@ -1,5 +1,4 @@
-Oscillatoria pseudominima Skuja SPECIES
-=======
+# Oscillatoria pseudominima Skuja SPECIES
 
 #### Status
 ACCEPTED

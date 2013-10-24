@@ -1,5 +1,4 @@
-Parmelia mollis SPECIES
-=======
+# Parmelia mollis SPECIES
 
 #### Status
 ACCEPTED

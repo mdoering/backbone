@@ -1,5 +1,4 @@
-Baeomyces cinnabarinus Zahlbr. SPECIES
-=======
+# Baeomyces cinnabarinus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

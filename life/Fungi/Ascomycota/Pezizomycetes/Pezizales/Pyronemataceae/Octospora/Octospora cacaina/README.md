@@ -1,5 +1,4 @@
-Octospora cacaina (K.S. Thind, E.K. Cash & Sethi {?} ) L.R. Batra SPECIES
-=======
+# Octospora cacaina (K.S. Thind, E.K. Cash & Sethi {?} ) L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium aceticum (ex Wieringa, 1940) Gottschalk & Braun, 1981 SPECIES
-=======
+# Clostridium aceticum (ex Wieringa, 1940) Gottschalk & Braun, 1981 SPECIES
 
 #### Status
 ACCEPTED

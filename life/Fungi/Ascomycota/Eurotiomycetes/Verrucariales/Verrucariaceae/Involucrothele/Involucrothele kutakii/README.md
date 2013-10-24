@@ -1,5 +1,4 @@
-Involucrothele kutakii (Servít) Servít SPECIES
-=======
+# Involucrothele kutakii (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

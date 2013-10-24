@@ -1,5 +1,4 @@
-Gloiocephala cinnamomea Singer SPECIES
-=======
+# Gloiocephala cinnamomea Singer SPECIES
 
 #### Status
 ACCEPTED

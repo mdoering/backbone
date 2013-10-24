@@ -1,5 +1,4 @@
-Mycogala guadalupense Pat. SPECIES
-=======
+# Mycogala guadalupense Pat. SPECIES
 
 #### Status
 ACCEPTED

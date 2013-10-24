@@ -1,5 +1,4 @@
-Mycena corticalis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Mycena corticalis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

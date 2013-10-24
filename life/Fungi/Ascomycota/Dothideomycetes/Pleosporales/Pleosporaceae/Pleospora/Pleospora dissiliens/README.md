@@ -1,5 +1,4 @@
-Pleospora dissiliens Magnus SPECIES
-=======
+# Pleospora dissiliens Magnus SPECIES
 
 #### Status
 ACCEPTED

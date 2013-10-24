@@ -1,5 +1,4 @@
-Aphanopeltis andina Petr. SPECIES
-=======
+# Aphanopeltis andina Petr. SPECIES
 
 #### Status
 ACCEPTED

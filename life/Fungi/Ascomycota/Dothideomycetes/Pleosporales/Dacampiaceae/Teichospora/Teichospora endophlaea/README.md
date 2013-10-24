@@ -1,5 +1,4 @@
-Teichospora endophlaea Pass. SPECIES
-=======
+# Teichospora endophlaea Pass. SPECIES
 
 #### Status
 ACCEPTED

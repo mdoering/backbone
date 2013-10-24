@@ -1,5 +1,4 @@
-Omphalodina haydenii (Tuck.) Follmann & Redón SPECIES
-=======
+# Omphalodina haydenii (Tuck.) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

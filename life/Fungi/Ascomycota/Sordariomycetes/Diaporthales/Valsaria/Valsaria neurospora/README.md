@@ -1,5 +1,4 @@
-Valsaria neurospora Munk SPECIES
-=======
+# Valsaria neurospora Munk SPECIES
 
 #### Status
 ACCEPTED

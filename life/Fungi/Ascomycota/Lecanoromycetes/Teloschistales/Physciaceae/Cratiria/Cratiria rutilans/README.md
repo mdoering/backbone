@@ -1,5 +1,4 @@
-Cratiria rutilans Marbach SPECIES
-=======
+# Cratiria rutilans Marbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sageria tsugae A. Funk, 1975 SPECIES
-=======
+# Sageria tsugae A. Funk, 1975 SPECIES
 
 #### Status
 ACCEPTED

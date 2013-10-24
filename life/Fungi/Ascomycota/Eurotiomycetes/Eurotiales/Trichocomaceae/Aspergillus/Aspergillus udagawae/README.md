@@ -1,5 +1,4 @@
-Aspergillus udagawae Y. Horie, Miyaji & Nishim. SPECIES
-=======
+# Aspergillus udagawae Y. Horie, Miyaji & Nishim. SPECIES
 
 #### Status
 ACCEPTED

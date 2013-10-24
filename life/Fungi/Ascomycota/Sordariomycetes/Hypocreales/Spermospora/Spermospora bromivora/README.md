@@ -1,14 +1,13 @@
-Cercosporella bromivora Latch, 1965 SPECIES
-=======
+# Spermospora bromivora (Latch) Deighton, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl agric. Res. 8: 960 (1965)
+in Laundon, N. Z. Jl Bot. 8(1): 64 (1970)
 
 #### Original name
 Cercosporella bromivora Latch, 1965

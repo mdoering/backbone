@@ -1,5 +1,4 @@
-Stylopyxis bachmannii F.E.Fritsch SPECIES
-=======
+# Stylopyxis bachmannii F.E.Fritsch SPECIES
 
 #### Status
 ACCEPTED

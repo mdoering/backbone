@@ -1,5 +1,4 @@
-Thelenella subluridella Vain. SPECIES
-=======
+# Thelenella subluridella Vain. SPECIES
 
 #### Status
 ACCEPTED

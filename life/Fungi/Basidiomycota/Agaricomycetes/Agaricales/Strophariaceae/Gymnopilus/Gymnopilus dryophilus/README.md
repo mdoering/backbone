@@ -1,5 +1,4 @@
-Gymnopilus dryophilus Murrill SPECIES
-=======
+# Gymnopilus dryophilus Murrill SPECIES
 
 #### Status
 ACCEPTED

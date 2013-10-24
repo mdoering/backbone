@@ -1,5 +1,4 @@
-Lithographa tumida (Anzi) Ozenda & Clauzade SPECIES
-=======
+# Lithographa tumida (Anzi) Ozenda & Clauzade SPECIES
 
 #### Status
 ACCEPTED

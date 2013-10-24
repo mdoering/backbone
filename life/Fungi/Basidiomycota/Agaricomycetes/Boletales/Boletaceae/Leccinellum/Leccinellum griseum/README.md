@@ -1,17 +1,16 @@
-Boletus griseus var. griseus VARIETY
-=======
+# Leccinellum griseum (Quél.) Bresinsky & Manfr. Binder, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. (Ann. ) N. Y. St. Mus. nat. Hist. 29: 45 (1878)
+in Bresinsky & Besl, Regensb. Mykol. Schr. 11: 233 (2003)
 
 #### Original name
-Boletus griseus var. griseus
+Gyroporus griseus Quél., 1902
 
 ### Remarks
 null

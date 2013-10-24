@@ -1,5 +1,4 @@
-Graphis consanguinea (Müll. Arg.) Lücking SPECIES
-=======
+# Graphis consanguinea (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

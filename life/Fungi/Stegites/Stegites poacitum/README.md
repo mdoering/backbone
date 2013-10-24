@@ -1,5 +1,4 @@
-Stegites poacitum (A. Braun) Mesch. SPECIES
-=======
+# Stegites poacitum (A. Braun) Mesch. SPECIES
 
 #### Status
 ACCEPTED

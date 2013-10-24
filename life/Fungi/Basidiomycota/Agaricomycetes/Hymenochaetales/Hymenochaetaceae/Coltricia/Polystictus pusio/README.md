@@ -1,5 +1,4 @@
-Polystictus pusio Sacc. & Cub. SPECIES
-=======
+# Polystictus pusio Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

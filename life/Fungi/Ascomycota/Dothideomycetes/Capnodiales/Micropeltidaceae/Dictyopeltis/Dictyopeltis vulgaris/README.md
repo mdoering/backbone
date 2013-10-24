@@ -1,14 +1,13 @@
-Clypeolum vulgare Racib., 1909 SPECIES
-=======
+# Dictyopeltis vulgaris (Racib.) Theiss., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 11: (1913)
 
 #### Original name
 Clypeolum vulgare Racib., 1909

@@ -1,5 +1,4 @@
-Lepiota rugulosa Peck SPECIES
-=======
+# Lepiota rugulosa Peck SPECIES
 
 #### Status
 ACCEPTED

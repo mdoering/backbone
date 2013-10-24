@@ -1,5 +1,4 @@
-Placodium steropeum (Ach.) Räsänen SPECIES
-=======
+# Placodium steropeum (Ach.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

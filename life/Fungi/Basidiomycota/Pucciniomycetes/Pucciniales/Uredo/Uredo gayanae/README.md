@@ -1,5 +1,4 @@
-Uredo gayanae J.C. Lindq. SPECIES
-=======
+# Uredo gayanae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

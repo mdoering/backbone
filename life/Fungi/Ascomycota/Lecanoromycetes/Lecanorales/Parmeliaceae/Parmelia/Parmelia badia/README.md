@@ -1,5 +1,4 @@
-Parmelia badia var. major Schaer. VARIETY
-=======
+# Parmelia badia Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia badia var. major Schaer.
+Parmelia badia Pers.
 
 ### Remarks
 null

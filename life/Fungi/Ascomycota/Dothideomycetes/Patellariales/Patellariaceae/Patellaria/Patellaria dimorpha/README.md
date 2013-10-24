@@ -1,5 +1,4 @@
-Patellaria dimorpha Wallr. SPECIES
-=======
+# Patellaria dimorpha Wallr. SPECIES
 
 #### Status
 ACCEPTED

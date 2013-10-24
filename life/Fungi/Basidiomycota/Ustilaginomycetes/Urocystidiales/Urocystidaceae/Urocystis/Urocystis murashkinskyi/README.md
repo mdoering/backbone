@@ -1,5 +1,4 @@
-Urocystis murashkinskyi (Cif.) Zundel SPECIES
-=======
+# Urocystis murashkinskyi (Cif.) Zundel SPECIES
 
 #### Status
 ACCEPTED

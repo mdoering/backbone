@@ -1,5 +1,4 @@
-Pseudocercospora penicillus (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora penicillus (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

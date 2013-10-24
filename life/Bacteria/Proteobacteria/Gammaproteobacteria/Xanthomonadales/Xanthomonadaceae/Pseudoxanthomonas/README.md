@@ -1,5 +1,4 @@
-Pseudoxanthomonas Finkmann et al., 2000 GENUS
-=======
+# Pseudoxanthomonas Finkmann et al., 2000 GENUS
 
 #### Status
 ACCEPTED

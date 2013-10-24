@@ -1,5 +1,4 @@
-Ciboria viarum (Starbäck) Sacc. & P. Syd. SPECIES
-=======
+# Ciboria viarum (Starbäck) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

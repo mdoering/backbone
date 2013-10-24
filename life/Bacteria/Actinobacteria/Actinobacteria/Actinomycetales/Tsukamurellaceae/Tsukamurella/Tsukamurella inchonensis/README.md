@@ -1,5 +1,4 @@
-Tsukamurella inchonensis Yassin et al., 1995 SPECIES
-=======
+# Tsukamurella inchonensis Yassin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

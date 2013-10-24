@@ -1,5 +1,4 @@
-Lecanora endocarpea (Fr.) Nyl. SPECIES
-=======
+# Lecanora endocarpea (Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

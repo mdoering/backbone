@@ -1,5 +1,4 @@
-Aspergillus albus G. Wilh. SPECIES
-=======
+# Aspergillus albus G. Wilh. SPECIES
 
 #### Status
 ACCEPTED

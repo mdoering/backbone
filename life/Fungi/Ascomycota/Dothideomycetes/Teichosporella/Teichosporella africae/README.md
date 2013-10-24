@@ -1,5 +1,4 @@
-Teichosporella africae Routien SPECIES
-=======
+# Teichosporella africae Routien SPECIES
 
 #### Status
 ACCEPTED

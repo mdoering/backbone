@@ -1,5 +1,4 @@
-Microglaenomyces muscicola (Ach.) Cif. & Tomas. SPECIES
-=======
+# Microglaenomyces muscicola (Ach.) Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

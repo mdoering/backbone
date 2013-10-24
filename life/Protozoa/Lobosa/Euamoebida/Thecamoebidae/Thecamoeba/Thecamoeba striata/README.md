@@ -1,5 +1,4 @@
-Thecamoeba striata (Penard) Schaeffer SPECIES
-=======
+# Thecamoeba striata (Penard) Schaeffer SPECIES
 
 #### Status
 ACCEPTED

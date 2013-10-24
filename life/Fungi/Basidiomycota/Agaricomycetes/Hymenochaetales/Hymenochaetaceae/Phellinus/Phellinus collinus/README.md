@@ -1,5 +1,4 @@
-Phellinus collinus Y.C. Dai & Niemelä SPECIES
-=======
+# Phellinus collinus Y.C. Dai & Niemelä SPECIES
 
 #### Status
 ACCEPTED

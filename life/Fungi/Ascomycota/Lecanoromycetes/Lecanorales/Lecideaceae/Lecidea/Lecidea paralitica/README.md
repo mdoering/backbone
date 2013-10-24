@@ -1,5 +1,4 @@
-Lecidea paralitica Nyl. SPECIES
-=======
+# Lecidea paralitica Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetapiospora rhododendri (Tengwall) Arx, 1952 SPECIES
-=======
+# Chaetapiospora rhododendri (Tengwall) Arx, 1952 SPECIES
 
 #### Status
 ACCEPTED

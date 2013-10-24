@@ -1,5 +1,4 @@
-Asteromassaria seriata (Cooke) Shoemaker & P.M. LeClair SPECIES
-=======
+# Asteromassaria seriata (Cooke) Shoemaker & P.M. LeClair SPECIES
 
 #### Status
 ACCEPTED

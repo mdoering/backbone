@@ -1,5 +1,4 @@
-Mucor rubens Vuill. SPECIES
-=======
+# Mucor rubens Vuill. SPECIES
 
 #### Status
 ACCEPTED

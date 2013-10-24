@@ -1,5 +1,4 @@
-Hymenoscyphus pallideroseus (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus pallideroseus (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

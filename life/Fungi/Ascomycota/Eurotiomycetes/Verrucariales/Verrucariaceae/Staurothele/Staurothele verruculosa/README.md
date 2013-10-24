@@ -1,5 +1,4 @@
-Staurothele verruculosa J. W. Thomson SPECIES
-=======
+# Staurothele verruculosa J. W. Thomson SPECIES
 
 #### Status
 ACCEPTED

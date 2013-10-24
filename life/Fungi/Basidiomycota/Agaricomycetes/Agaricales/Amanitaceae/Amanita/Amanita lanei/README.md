@@ -1,5 +1,4 @@
-Amanita lanei (Murrill) Sacc. & Trotter SPECIES
-=======
+# Amanita lanei (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula pachyneura Müll. Arg. SPECIES
-=======
+# Strigula pachyneura Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

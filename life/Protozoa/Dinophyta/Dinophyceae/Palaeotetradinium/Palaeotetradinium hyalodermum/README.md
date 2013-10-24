@@ -1,5 +1,4 @@
-Palaeotetradinium hyalodermum Cookson SPECIES
-=======
+# Palaeotetradinium hyalodermum Cookson SPECIES
 
 #### Status
 ACCEPTED

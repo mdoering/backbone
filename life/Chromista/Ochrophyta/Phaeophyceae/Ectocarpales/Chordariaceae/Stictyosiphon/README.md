@@ -1,5 +1,4 @@
-Stictyosiphon Kützing, 1843 GENUS
-=======
+# Stictyosiphon Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

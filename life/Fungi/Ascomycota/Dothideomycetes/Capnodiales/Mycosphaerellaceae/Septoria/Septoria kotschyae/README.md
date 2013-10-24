@@ -1,5 +1,4 @@
-Septoria kotschyae B. Sutton SPECIES
-=======
+# Septoria kotschyae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

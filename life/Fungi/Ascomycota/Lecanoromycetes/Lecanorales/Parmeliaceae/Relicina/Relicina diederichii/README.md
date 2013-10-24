@@ -1,5 +1,4 @@
-Relicina diederichii Elix SPECIES
-=======
+# Relicina diederichii Elix SPECIES
 
 #### Status
 ACCEPTED

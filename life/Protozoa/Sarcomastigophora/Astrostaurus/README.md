@@ -1,5 +1,4 @@
-Astrostaurus Haeckel, 1881 GENUS
-=======
+# Astrostaurus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

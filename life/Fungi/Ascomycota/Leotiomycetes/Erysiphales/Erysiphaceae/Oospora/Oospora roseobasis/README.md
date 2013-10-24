@@ -1,5 +1,4 @@
-Oospora roseobasis McAlpine SPECIES
-=======
+# Oospora roseobasis McAlpine SPECIES
 
 #### Status
 ACCEPTED

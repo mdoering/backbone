@@ -1,5 +1,4 @@
-Rutherfordoides McCulloch, 1981 GENUS
-=======
+# Rutherfordoides McCulloch, 1981 GENUS
 
 #### Status
 ACCEPTED

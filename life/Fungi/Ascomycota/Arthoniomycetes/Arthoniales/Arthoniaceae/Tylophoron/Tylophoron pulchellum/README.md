@@ -1,5 +1,4 @@
-Tylophoron pulchellum Stirt. SPECIES
-=======
+# Tylophoron pulchellum Stirt. SPECIES
 
 #### Status
 ACCEPTED

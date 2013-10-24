@@ -1,5 +1,4 @@
-Agaricus clypeiformis J.F. Gmel. SPECIES
-=======
+# Agaricus clypeiformis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

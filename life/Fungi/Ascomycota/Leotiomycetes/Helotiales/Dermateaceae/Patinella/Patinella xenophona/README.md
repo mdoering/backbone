@@ -1,5 +1,4 @@
-Patinella xenophona SPECIES
-=======
+# Patinella xenophona SPECIES
 
 #### Status
 ACCEPTED

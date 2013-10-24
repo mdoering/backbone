@@ -1,5 +1,4 @@
-Deflexula mangiformis Corner, 1952 SPECIES
-=======
+# Deflexula mangiformis Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

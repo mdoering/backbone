@@ -1,5 +1,4 @@
-Leptosphaeria lathonia var. lathonia VARIETY
-=======
+# Leptosphaeria lathonia Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria lathonia var. lathonia
+Leptosphaeria lathonia Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acanthoica monospina Schiller SPECIES
-=======
+# Acanthoica monospina Schiller SPECIES
 
 #### Status
 ACCEPTED

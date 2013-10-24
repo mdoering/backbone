@@ -1,5 +1,4 @@
-Sphaerophorus gelatinosus Treviran. SPECIES
-=======
+# Sphaerophorus gelatinosus Treviran. SPECIES
 
 #### Status
 ACCEPTED

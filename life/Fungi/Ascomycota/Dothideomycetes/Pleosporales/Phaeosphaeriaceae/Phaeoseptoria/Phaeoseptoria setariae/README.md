@@ -1,5 +1,4 @@
-Phaeoseptoria setariae Punith. SPECIES
-=======
+# Phaeoseptoria setariae Punith. SPECIES
 
 #### Status
 ACCEPTED

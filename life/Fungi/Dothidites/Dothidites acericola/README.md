@@ -1,5 +1,4 @@
-Dothidites acericola (Heer) Mesch. SPECIES
-=======
+# Dothidites acericola (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

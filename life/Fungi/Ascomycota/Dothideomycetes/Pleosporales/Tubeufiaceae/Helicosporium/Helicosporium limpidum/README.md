@@ -1,5 +1,4 @@
-Helicosporium limpidum (Morgan) Sacc. SPECIES
-=======
+# Helicosporium limpidum (Morgan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

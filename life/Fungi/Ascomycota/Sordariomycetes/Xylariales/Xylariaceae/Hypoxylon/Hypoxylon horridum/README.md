@@ -1,5 +1,4 @@
-Hypoxylon horridum (Rehm) P.M.D. Martin SPECIES
-=======
+# Hypoxylon horridum (Rehm) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

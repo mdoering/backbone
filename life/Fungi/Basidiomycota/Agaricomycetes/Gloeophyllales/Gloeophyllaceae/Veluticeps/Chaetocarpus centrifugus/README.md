@@ -1,5 +1,4 @@
-Chaetocarpus centrifugus (Weinm.) P. Karst. SPECIES
-=======
+# Chaetocarpus centrifugus (Weinm.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

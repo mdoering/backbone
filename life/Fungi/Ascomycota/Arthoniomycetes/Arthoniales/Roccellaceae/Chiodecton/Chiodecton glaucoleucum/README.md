@@ -1,5 +1,4 @@
-Chiodecton glaucoleucum Nyl. SPECIES
-=======
+# Chiodecton glaucoleucum Nyl. SPECIES
 
 #### Status
 ACCEPTED

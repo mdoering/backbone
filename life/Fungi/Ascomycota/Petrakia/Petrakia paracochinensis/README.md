@@ -1,5 +1,4 @@
-Petrakia paracochinensis M.K.M. Wong, Goh & K.D. Hyde SPECIES
-=======
+# Petrakia paracochinensis M.K.M. Wong, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella duchartrei (Crié) Sacc. SPECIES
-=======
+# Sphaerella duchartrei (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

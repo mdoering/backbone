@@ -1,5 +1,4 @@
-Fusariella indica R.Y. Roy & B. Rai, 1968 SPECIES
-=======
+# Fusariella indica R.Y. Roy & B. Rai, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Miliolina peregrina var. striata Wiesner, 1912 VARIETY
-=======
+# Miliolina peregrina (d’Orbigny, 1846) SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

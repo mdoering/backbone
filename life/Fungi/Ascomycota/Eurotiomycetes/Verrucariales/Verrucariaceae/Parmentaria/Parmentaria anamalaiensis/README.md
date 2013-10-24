@@ -1,17 +1,16 @@
-Parmentaria anamalaiense Upreti & Ajay Singh SPECIES
-=======
+# Parmentaria anamalaiensis Upreti & Ajay Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Candollea 43(1): 110 (1988)
 
 #### Original name
-Parmentaria anamalaiense Upreti & Ajay Singh
+Parmentaria anamalaiensis Upreti & Ajay Singh
 
 ### Remarks
 null

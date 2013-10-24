@@ -1,5 +1,4 @@
-Myxofusicoccum ericeti (Sacc.) Petr. SPECIES
-=======
+# Myxofusicoccum ericeti (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

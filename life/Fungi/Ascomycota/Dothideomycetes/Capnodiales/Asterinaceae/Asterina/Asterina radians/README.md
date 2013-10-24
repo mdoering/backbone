@@ -1,5 +1,4 @@
-Asterina radians Ellis SPECIES
-=======
+# Asterina radians Ellis SPECIES
 
 #### Status
 ACCEPTED

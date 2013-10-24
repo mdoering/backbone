@@ -1,5 +1,4 @@
-Sistotrema crispum Fr. SPECIES
-=======
+# Sistotrema crispum Fr. SPECIES
 
 #### Status
 ACCEPTED

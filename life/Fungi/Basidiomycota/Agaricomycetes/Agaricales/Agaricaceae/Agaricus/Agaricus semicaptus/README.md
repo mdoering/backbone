@@ -1,5 +1,4 @@
-Agaricus semicaptus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus semicaptus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

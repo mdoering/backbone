@@ -1,5 +1,4 @@
-Thyriascus Schulzer GENUS
-=======
+# Thyriascus Schulzer GENUS
 
 #### Status
 ACCEPTED

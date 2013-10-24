@@ -1,5 +1,4 @@
-Mycovellosiella tylophorae (Hansf.) U. Braun SPECIES
-=======
+# Mycovellosiella tylophorae (Hansf.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

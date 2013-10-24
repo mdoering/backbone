@@ -1,14 +1,13 @@
-Humaria epixyla (Richon) Sacc., 1889 SPECIES
-=======
+# Peziza epixyla Richon, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 141 (1889)
+null
 
 #### Original name
 Peziza epixyla Richon, 1889

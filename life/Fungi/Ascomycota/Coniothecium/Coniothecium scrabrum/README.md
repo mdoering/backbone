@@ -1,5 +1,4 @@
-Coniothecium scrabrum McAlpine SPECIES
-=======
+# Coniothecium scrabrum McAlpine SPECIES
 
 #### Status
 ACCEPTED

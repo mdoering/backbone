@@ -1,5 +1,4 @@
-Aplosporella ribicola (Cooke & Ellis) Petr. & Syd. SPECIES
-=======
+# Aplosporella ribicola (Cooke & Ellis) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

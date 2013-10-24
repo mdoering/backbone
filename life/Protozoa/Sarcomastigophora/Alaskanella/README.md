@@ -1,5 +1,4 @@
-Alaskanella Skinner & Wilde, 1966 GENUS
-=======
+# Alaskanella Skinner & Wilde, 1966 GENUS
 
 #### Status
 ACCEPTED

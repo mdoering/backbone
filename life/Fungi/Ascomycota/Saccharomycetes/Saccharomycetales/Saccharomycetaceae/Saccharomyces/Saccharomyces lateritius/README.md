@@ -1,5 +1,4 @@
-Saccharomyces lateritius J. Schröt. SPECIES
-=======
+# Saccharomyces lateritius J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

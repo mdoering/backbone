@@ -1,5 +1,4 @@
-Sphaeria exigua Cooke & Peck SPECIES
-=======
+# Sphaeria exigua Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

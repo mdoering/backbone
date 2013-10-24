@@ -1,5 +1,4 @@
-Quasillagilis Busch, 1920 GENUS
-=======
+# Quasillagilis Busch, 1920 GENUS
 
 #### Status
 ACCEPTED

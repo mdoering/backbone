@@ -1,5 +1,4 @@
-Polystictus jamaicensis Henn. SPECIES
-=======
+# Polystictus jamaicensis Henn. SPECIES
 
 #### Status
 ACCEPTED

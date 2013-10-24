@@ -1,5 +1,4 @@
-Lecidea subsimplex H. Magn. SPECIES
-=======
+# Lecidea subsimplex H. Magn. SPECIES
 
 #### Status
 ACCEPTED

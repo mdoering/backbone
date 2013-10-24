@@ -1,5 +1,4 @@
-Puccinia dyris Maire SPECIES
-=======
+# Puccinia dyris Maire SPECIES
 
 #### Status
 ACCEPTED

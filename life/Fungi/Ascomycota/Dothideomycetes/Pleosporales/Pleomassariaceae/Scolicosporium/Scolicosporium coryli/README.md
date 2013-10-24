@@ -1,5 +1,4 @@
-Scolicosporium coryli Dearn. & House SPECIES
-=======
+# Scolicosporium coryli Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

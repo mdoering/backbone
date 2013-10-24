@@ -1,5 +1,4 @@
-Gymnodinium australe var. acutum Playfair VARIETY
-=======
+# Gymnodinium australe Playfair SPECIES
 
 #### Status
 ACCEPTED

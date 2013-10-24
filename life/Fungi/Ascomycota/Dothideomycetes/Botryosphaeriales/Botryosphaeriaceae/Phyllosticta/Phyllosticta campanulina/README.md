@@ -1,5 +1,4 @@
-Phyllosticta campanulina Moesz SPECIES
-=======
+# Phyllosticta campanulina Moesz SPECIES
 
 #### Status
 ACCEPTED

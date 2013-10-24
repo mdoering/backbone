@@ -1,5 +1,4 @@
-Coniocybe ochrocephala F. Wilson SPECIES
-=======
+# Coniocybe ochrocephala F. Wilson SPECIES
 
 #### Status
 ACCEPTED

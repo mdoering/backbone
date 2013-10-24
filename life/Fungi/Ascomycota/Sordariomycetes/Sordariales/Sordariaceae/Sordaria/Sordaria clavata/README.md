@@ -1,5 +1,4 @@
-Sordaria clavata Pat. SPECIES
-=======
+# Sordaria clavata Pat. SPECIES
 
 #### Status
 ACCEPTED

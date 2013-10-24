@@ -1,5 +1,4 @@
-Lasallia sinorientalis J.C. Wei SPECIES
-=======
+# Lasallia sinorientalis J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

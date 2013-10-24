@@ -1,5 +1,4 @@
-Amphoridium schaererianum (Servít) Servít SPECIES
-=======
+# Amphoridium schaererianum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

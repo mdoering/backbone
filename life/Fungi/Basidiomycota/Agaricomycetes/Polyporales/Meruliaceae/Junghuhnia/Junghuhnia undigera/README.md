@@ -1,17 +1,16 @@
-Polyporus undigerus Berk. & M.A. Curtis SPECIES
-=======
+# Junghuhnia undigera (Berk. & M.A. Curtis) Ryvarden, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 20(2): 359 (1984)
 
 #### Original name
-Polyporus undigerus Berk. & M.A. Curtis
+Polyporus undiger Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

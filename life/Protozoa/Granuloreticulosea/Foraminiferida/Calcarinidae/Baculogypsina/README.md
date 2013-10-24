@@ -1,5 +1,4 @@
-Baculogypsina Sacco, 1893 GENUS
-=======
+# Baculogypsina Sacco, 1893 GENUS
 
 #### Status
 ACCEPTED

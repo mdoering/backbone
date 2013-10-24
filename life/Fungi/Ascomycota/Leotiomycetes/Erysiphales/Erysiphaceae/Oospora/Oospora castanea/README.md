@@ -1,5 +1,4 @@
-Oospora castanea Marchal & É.J. Marchal SPECIES
-=======
+# Oospora castanea Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

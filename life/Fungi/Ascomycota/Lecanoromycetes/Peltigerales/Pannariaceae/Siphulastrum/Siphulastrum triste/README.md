@@ -1,5 +1,4 @@
-Siphulastrum triste Müll. Arg. SPECIES
-=======
+# Siphulastrum triste Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

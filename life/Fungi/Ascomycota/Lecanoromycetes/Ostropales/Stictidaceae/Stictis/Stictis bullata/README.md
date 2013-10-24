@@ -1,5 +1,4 @@
-Stictis bullata Pers. SPECIES
-=======
+# Stictis bullata Pers. SPECIES
 
 #### Status
 ACCEPTED

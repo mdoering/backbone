@@ -1,5 +1,4 @@
-Placodium interfulgens (Nyl.) Flagey SPECIES
-=======
+# Placodium interfulgens (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

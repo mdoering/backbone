@@ -1,5 +1,4 @@
-Peziza nigrescens Sw. SPECIES
-=======
+# Peziza nigrescens Sw. SPECIES
 
 #### Status
 ACCEPTED

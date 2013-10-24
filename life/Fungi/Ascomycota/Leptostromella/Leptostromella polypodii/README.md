@@ -1,5 +1,4 @@
-Leptostromella polypodii Grove SPECIES
-=======
+# Leptostromella polypodii Grove SPECIES
 
 #### Status
 ACCEPTED

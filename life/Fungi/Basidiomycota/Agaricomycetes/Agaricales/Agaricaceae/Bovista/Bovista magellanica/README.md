@@ -1,5 +1,4 @@
-Bovista magellanica Speg. SPECIES
-=======
+# Bovista magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

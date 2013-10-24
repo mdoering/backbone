@@ -1,17 +1,16 @@
-Meliola citricola var. amyridis Hansf. VARIETY
-=======
+# Meliola citricola Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9: 40 (1955)
+Annls mycol. 15(3/4): 183 (1917)
 
 #### Original name
-Meliola citricola var. amyridis Hansf.
+Meliola citricola Syd. & P. Syd., 1917
 
 ### Remarks
 null

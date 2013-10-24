@@ -1,5 +1,4 @@
-Lecidea segregula Nyl. SPECIES
-=======
+# Lecidea segregula Nyl. SPECIES
 
 #### Status
 ACCEPTED

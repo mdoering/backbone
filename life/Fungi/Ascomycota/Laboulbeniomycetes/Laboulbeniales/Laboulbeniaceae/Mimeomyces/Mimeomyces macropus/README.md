@@ -1,5 +1,4 @@
-Mimeomyces macropus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Mimeomyces macropus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccotrichum brevius Berk. & Broome SPECIES
-=======
+# Coccotrichum brevius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

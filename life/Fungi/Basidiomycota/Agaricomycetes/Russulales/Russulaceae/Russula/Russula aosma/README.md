@@ -1,5 +1,4 @@
-Russula aosma Singer SPECIES
-=======
+# Russula aosma Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella zizaniicola Speg. SPECIES
-=======
+# Sphaerella zizaniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

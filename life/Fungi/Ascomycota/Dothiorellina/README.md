@@ -1,5 +1,4 @@
-Dothiorellina Bubák GENUS
-=======
+# Dothiorellina Bubák GENUS
 
 #### Status
 ACCEPTED

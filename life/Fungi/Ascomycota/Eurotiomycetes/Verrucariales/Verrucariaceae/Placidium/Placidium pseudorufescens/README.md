@@ -1,5 +1,4 @@
-Placidium pseudorufescens Breuss SPECIES
-=======
+# Placidium pseudorufescens Breuss SPECIES
 
 #### Status
 ACCEPTED

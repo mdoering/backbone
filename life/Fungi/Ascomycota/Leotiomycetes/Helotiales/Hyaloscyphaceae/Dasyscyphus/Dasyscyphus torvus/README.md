@@ -1,8 +1,7 @@
-Dasyscypha torvus (Wallr.) Sacc. SPECIES
-=======
+# Dasyscyphus torvus (Wallr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

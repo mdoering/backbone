@@ -1,5 +1,4 @@
-Puccinia namibiana Mennicken, W. Maier & Oberw. SPECIES
-=======
+# Puccinia namibiana Mennicken, W. Maier & Oberw. SPECIES
 
 #### Status
 ACCEPTED

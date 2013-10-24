@@ -1,5 +1,4 @@
-Psora denticulata Chevall. SPECIES
-=======
+# Psora denticulata Chevall. SPECIES
 
 #### Status
 ACCEPTED

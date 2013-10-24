@@ -1,5 +1,4 @@
-Staphlosporonites ovalis Sheffy & Dilcher SPECIES
-=======
+# Staphlosporonites ovalis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

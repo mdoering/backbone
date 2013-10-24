@@ -1,5 +1,4 @@
-Amphirphopalum ypsilon Haeckel SPECIES
-=======
+# Amphirphopalum ypsilon Haeckel SPECIES
 
 #### Status
 ACCEPTED

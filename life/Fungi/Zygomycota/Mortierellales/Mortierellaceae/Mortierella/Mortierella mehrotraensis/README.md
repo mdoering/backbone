@@ -1,5 +1,4 @@
-Mortierella mehrotraensis Baijal SPECIES
-=======
+# Mortierella mehrotraensis Baijal SPECIES
 
 #### Status
 ACCEPTED

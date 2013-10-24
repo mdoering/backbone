@@ -1,5 +1,4 @@
-Hygrophorus mucilaginosus Berk. & M.A. Curtis SPECIES
-=======
+# Hygrophorus mucilaginosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Medusamyces lunulospora G.L. Barron & Szijarto SPECIES
-=======
+# Medusamyces lunulosporus G.L. Barron & Szijarto, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 82(1): 136 (1990)
 
 #### Original name
-Medusamyces lunulospora G.L. Barron & Szijarto
+Medusamyces lunulosporus G.L. Barron & Szijarto, 1990
 
 ### Remarks
 null

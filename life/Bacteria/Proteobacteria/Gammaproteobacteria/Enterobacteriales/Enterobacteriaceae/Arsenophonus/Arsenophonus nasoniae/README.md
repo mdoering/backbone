@@ -1,5 +1,4 @@
-Arsenophonus nasoniae Gherna et al., 1991 SPECIES
-=======
+# Arsenophonus nasoniae Gherna et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia sudetica Petr. SPECIES
-=======
+# Guignardia sudetica Petr. SPECIES
 
 #### Status
 ACCEPTED

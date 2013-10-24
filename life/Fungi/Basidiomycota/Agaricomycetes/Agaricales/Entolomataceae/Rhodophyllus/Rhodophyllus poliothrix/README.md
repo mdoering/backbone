@@ -1,5 +1,4 @@
-Rhodophyllus poliothrix Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus poliothrix Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

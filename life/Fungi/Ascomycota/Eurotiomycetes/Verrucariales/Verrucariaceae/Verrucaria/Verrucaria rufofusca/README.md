@@ -1,5 +1,4 @@
-Verrucaria rufofusca Hoffm. SPECIES
-=======
+# Verrucaria rufofusca Hoffm. SPECIES
 
 #### Status
 ACCEPTED

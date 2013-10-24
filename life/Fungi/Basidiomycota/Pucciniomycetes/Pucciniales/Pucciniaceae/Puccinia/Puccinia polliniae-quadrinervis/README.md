@@ -1,5 +1,4 @@
-Puccinia polliniae-quadrinervis Dietel SPECIES
-=======
+# Puccinia polliniae-quadrinervis Dietel SPECIES
 
 #### Status
 ACCEPTED

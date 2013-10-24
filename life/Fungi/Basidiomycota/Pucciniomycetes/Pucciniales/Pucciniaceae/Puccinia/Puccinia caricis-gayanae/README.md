@@ -1,5 +1,4 @@
-Puccinia caricis-gayanae Speg. SPECIES
-=======
+# Puccinia caricis-gayanae Speg. SPECIES
 
 #### Status
 ACCEPTED

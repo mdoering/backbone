@@ -1,5 +1,4 @@
-Anthostomella confluens Petch SPECIES
-=======
+# Anthostomella confluens Petch SPECIES
 
 #### Status
 ACCEPTED

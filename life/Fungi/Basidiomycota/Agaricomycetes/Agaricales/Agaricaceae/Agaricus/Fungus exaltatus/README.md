@@ -1,5 +1,4 @@
-Fungus exaltatus (Berk.) Kuntze SPECIES
-=======
+# Fungus exaltatus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

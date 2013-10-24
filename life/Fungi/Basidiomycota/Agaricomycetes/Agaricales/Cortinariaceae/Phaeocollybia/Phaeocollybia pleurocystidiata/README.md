@@ -1,5 +1,4 @@
-Phaeocollybia pleurocystidiata Norvell & Redhead SPECIES
-=======
+# Phaeocollybia pleurocystidiata Norvell & Redhead SPECIES
 
 #### Status
 ACCEPTED

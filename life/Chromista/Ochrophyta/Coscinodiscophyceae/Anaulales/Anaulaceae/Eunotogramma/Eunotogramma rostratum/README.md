@@ -1,5 +1,4 @@
-Eunotogramma rostratum Hustedt SPECIES
-=======
+# Eunotogramma rostratum Hustedt SPECIES
 
 #### Status
 ACCEPTED

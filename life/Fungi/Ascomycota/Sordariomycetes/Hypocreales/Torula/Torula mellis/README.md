@@ -1,5 +1,4 @@
-Torula mellis Fabian & Quinet SPECIES
-=======
+# Torula mellis Fabian & Quinet SPECIES
 
 #### Status
 ACCEPTED

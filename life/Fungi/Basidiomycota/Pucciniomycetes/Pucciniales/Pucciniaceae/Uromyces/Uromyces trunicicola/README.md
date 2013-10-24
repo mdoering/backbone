@@ -1,5 +1,4 @@
-Uromyces trunicicola Henn. & Shirai SPECIES
-=======
+# Uromyces trunicicola Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

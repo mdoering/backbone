@@ -1,5 +1,4 @@
-Agaricus pannucius Fr. SPECIES
-=======
+# Agaricus pannucius Fr. SPECIES
 
 #### Status
 ACCEPTED

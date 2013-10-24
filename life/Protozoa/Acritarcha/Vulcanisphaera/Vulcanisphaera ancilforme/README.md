@@ -1,5 +1,4 @@
-Vulcanisphaera ancilforme (Fombella, 1978) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Vulcanisphaera ancilforme (Fombella, 1978) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

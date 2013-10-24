@@ -1,5 +1,4 @@
-Phoma farlowiana Viala & Sauv. SPECIES
-=======
+# Phoma farlowiana Viala & Sauv. SPECIES
 
 #### Status
 ACCEPTED

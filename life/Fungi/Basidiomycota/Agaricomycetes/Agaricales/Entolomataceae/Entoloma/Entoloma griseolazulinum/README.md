@@ -1,5 +1,4 @@
-Entoloma griseolazulinum Manim. & Noordel. SPECIES
-=======
+# Entoloma griseolazulinum Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

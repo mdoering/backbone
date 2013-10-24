@@ -1,5 +1,4 @@
-Leptonia abnormis Peck SPECIES
-=======
+# Leptonia abnormis Peck SPECIES
 
 #### Status
 ACCEPTED

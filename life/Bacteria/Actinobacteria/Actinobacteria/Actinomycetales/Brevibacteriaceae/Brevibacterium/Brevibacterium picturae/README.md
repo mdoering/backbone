@@ -1,5 +1,4 @@
-Brevibacterium picturae Heyrman et al., 2004 SPECIES
-=======
+# Brevibacterium picturae Heyrman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

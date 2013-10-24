@@ -1,5 +1,4 @@
-Lecanora glaucomela Tuck. SPECIES
-=======
+# Lecanora glaucomela Tuck. SPECIES
 
 #### Status
 ACCEPTED

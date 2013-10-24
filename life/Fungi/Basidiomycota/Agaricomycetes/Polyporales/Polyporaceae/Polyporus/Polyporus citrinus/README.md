@@ -1,5 +1,4 @@
-Polyporus citrinus var. citrinus VARIETY
-=======
+# Polyporus citrinus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 2: 49 (1825)
 
 #### Original name
-Polyporus citrinus var. citrinus
+Polyporus citrinus Pers.
 
 ### Remarks
 null

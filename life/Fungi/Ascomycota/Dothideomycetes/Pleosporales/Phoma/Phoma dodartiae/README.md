@@ -1,5 +1,4 @@
-Phoma dodartiae Szembel SPECIES
-=======
+# Phoma dodartiae Szembel SPECIES
 
 #### Status
 ACCEPTED

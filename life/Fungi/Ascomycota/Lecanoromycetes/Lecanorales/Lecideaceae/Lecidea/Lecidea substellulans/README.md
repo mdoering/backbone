@@ -1,5 +1,4 @@
-Lecidea substellulans SPECIES
-=======
+# Lecidea substellulans SPECIES
 
 #### Status
 ACCEPTED

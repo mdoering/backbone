@@ -1,5 +1,4 @@
-Globigerina borealis Brady SPECIES
-=======
+# Globigerina borealis Brady SPECIES
 
 #### Status
 ACCEPTED

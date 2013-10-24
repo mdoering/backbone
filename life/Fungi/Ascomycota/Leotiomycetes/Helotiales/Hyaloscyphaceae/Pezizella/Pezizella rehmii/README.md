@@ -1,5 +1,4 @@
-Pezizella rehmii Sacc. SPECIES
-=======
+# Pezizella rehmii Sacc. SPECIES
 
 #### Status
 ACCEPTED

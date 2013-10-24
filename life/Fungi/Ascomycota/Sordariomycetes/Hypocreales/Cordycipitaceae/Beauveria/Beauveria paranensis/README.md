@@ -1,5 +1,4 @@
-Beauveria paranensis (Marchion.) Gösswald SPECIES
-=======
+# Beauveria paranensis (Marchion.) Gösswald SPECIES
 
 #### Status
 ACCEPTED

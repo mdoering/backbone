@@ -1,5 +1,4 @@
-Psorotichia dispersa H. Magn. SPECIES
-=======
+# Psorotichia dispersa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

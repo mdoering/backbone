@@ -1,5 +1,4 @@
-Cylindrochytridium endobioticum Willoughby, 1964 SPECIES
-=======
+# Cylindrochytridium endobioticum Willoughby, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele brouardii B. de Lesd. SPECIES
-=======
+# Staurothele brouardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

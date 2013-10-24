@@ -1,5 +1,4 @@
-Guepinia aurea Mont. SPECIES
-=======
+# Guepinia aurea Mont. SPECIES
 
 #### Status
 ACCEPTED

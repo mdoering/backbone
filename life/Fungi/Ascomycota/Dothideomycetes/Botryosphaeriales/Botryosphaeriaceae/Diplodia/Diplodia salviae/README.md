@@ -1,5 +1,4 @@
-Diplodia salviae Hollós SPECIES
-=======
+# Diplodia salviae Hollós SPECIES
 
 #### Status
 ACCEPTED

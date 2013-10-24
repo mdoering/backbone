@@ -1,5 +1,4 @@
-Coprinopsis geesterani (Uljé) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis geesterani (Uljé) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

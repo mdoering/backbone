@@ -1,5 +1,4 @@
-Macroplodia ribicola (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macroplodia ribicola (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sabouraudites urenae E.L. Ochot. SPECIES
-=======
+# Sabouraudites urenae E.L. Ochot. SPECIES
 
 #### Status
 ACCEPTED

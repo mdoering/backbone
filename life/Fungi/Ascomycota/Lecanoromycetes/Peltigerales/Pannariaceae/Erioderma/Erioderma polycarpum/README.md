@@ -1,8 +1,7 @@
-Erioderma polycarpa Fée SPECIES
-=======
+# Erioderma polycarpum Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Erioderma polycarpa Fée
+Erioderma polycarpum Fée
 
 ### Remarks
 null

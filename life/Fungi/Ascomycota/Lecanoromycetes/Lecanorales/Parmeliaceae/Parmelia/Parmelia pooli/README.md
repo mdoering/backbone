@@ -1,5 +1,4 @@
-Parmelia pooli C.W. Dodge SPECIES
-=======
+# Parmelia pooli C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

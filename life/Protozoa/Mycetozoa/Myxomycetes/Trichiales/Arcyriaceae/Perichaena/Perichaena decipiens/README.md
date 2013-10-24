@@ -1,5 +1,4 @@
-Perichaena decipiens Berk. & Broome SPECIES
-=======
+# Perichaena decipiens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

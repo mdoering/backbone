@@ -1,5 +1,4 @@
-Tuburcinia aquilegiae Cif. SPECIES
-=======
+# Tuburcinia aquilegiae Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria nitidula Sacc. SPECIES
-=======
+# Didymosphaeria nitidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

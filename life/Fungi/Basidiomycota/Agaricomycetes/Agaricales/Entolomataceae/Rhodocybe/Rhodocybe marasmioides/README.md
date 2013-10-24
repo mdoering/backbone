@@ -1,5 +1,4 @@
-Rhodocybe marasmioides Singer SPECIES
-=======
+# Rhodocybe marasmioides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalotrichum atrofuscum (Mont.) Kuntze SPECIES
-=======
+# Cephalotrichum atrofuscum (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

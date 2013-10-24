@@ -1,5 +1,4 @@
-Taeniolella vermicularis (Corda) S. Hughes SPECIES
-=======
+# Taeniolella vermicularis (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

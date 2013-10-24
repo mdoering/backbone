@@ -1,5 +1,4 @@
-Laestadia glaucescens (Cooke) Sacc. SPECIES
-=======
+# Laestadia glaucescens (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

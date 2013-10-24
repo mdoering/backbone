@@ -1,5 +1,4 @@
-Phomopsis spironemae Gonz. Frag. SPECIES
-=======
+# Phomopsis spironemae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

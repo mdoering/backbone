@@ -1,5 +1,4 @@
-Aplosporella xanthiicola Subhedar, A. Pande & V.G. Rao SPECIES
-=======
+# Aplosporella xanthiicola Subhedar, A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

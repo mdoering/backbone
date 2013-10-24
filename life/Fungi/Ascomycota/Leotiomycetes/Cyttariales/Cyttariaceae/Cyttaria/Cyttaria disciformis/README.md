@@ -1,5 +1,4 @@
-Cyttaria disciformis Lév. SPECIES
-=======
+# Cyttaria disciformis Lév. SPECIES
 
 #### Status
 ACCEPTED

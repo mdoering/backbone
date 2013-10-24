@@ -1,5 +1,4 @@
-Lecanora pseudopallida Gyeln. SPECIES
-=======
+# Lecanora pseudopallida Gyeln. SPECIES
 
 #### Status
 ACCEPTED

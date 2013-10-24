@@ -1,5 +1,4 @@
-Polyporus junghuhnii Fr. SPECIES
-=======
+# Polyporus junghuhnii Fr. SPECIES
 
 #### Status
 ACCEPTED

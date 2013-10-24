@@ -1,5 +1,4 @@
-Coniothyrium herbarum Cooke & Ellis SPECIES
-=======
+# Coniothyrium herbarum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

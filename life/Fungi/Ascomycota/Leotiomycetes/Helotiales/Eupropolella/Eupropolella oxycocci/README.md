@@ -1,5 +1,4 @@
-Eupropolella oxycocci (Dearn. ex Cash) B. Erikss. SPECIES
-=======
+# Eupropolella oxycocci (Dearn. ex Cash) B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

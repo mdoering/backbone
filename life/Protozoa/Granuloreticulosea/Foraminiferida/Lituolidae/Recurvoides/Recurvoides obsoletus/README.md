@@ -1,5 +1,4 @@
-Recurvoides obsoletus SPECIES
-=======
+# Recurvoides obsoletus SPECIES
 
 #### Status
 ACCEPTED

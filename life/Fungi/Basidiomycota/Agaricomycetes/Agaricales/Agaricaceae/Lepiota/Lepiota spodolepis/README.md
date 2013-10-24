@@ -1,5 +1,4 @@
-Lepiota spodolepis Berk. & Broome SPECIES
-=======
+# Lepiota spodolepis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

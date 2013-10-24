@@ -1,5 +1,4 @@
-Hemidinium Stein, 1878 GENUS
-=======
+# Hemidinium Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

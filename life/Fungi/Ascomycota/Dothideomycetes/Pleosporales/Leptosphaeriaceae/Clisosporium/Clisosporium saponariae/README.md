@@ -1,5 +1,4 @@
-Clisosporium saponariae (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Clisosporium saponariae (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

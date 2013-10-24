@@ -1,5 +1,4 @@
-Hyalobryon lauterbornei Lemmermann SPECIES
-=======
+# Hyalobryon lauterbornei Lemmermann SPECIES
 
 #### Status
 ACCEPTED

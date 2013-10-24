@@ -1,5 +1,4 @@
-Peziza euplecta Cooke SPECIES
-=======
+# Peziza euplecta Cooke SPECIES
 
 #### Status
 ACCEPTED

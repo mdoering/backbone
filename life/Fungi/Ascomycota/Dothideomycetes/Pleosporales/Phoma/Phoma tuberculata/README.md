@@ -1,5 +1,4 @@
-Phoma tuberculata McAlpine SPECIES
-=======
+# Phoma tuberculata McAlpine SPECIES
 
 #### Status
 ACCEPTED

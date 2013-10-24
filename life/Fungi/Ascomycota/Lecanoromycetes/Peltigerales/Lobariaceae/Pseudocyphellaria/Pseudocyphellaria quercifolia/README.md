@@ -1,5 +1,4 @@
-Pseudocyphellaria quercifolia (Taylor) Vain. SPECIES
-=======
+# Pseudocyphellaria quercifolia (Taylor) Vain. SPECIES
 
 #### Status
 ACCEPTED

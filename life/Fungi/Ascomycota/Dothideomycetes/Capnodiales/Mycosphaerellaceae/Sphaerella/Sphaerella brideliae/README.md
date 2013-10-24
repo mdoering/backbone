@@ -1,5 +1,4 @@
-Sphaerella brideliae (Syd.) Sacc. SPECIES
-=======
+# Sphaerella brideliae (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

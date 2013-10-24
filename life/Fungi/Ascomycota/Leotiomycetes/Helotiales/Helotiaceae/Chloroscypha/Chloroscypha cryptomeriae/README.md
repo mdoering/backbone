@@ -1,5 +1,4 @@
-Chloroscypha cryptomeriae Terrier, 1952 SPECIES
-=======
+# Chloroscypha cryptomeriae Terrier, 1952 SPECIES
 
 #### Status
 ACCEPTED

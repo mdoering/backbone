@@ -1,5 +1,4 @@
-Argynna Morgan GENUS
-=======
+# Argynna Morgan GENUS
 
 #### Status
 ACCEPTED

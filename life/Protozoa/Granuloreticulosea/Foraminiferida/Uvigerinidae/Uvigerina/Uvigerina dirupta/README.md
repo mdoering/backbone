@@ -1,5 +1,4 @@
-Uvigerina dirupta Todd, 1948 SPECIES
-=======
+# Uvigerina dirupta Todd, 1948 SPECIES
 
 #### Status
 ACCEPTED

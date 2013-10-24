@@ -1,5 +1,4 @@
-Cortinarius falsosus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius falsosus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

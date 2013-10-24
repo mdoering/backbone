@@ -1,5 +1,4 @@
-Legionella rowbothamii Adeleke et al., 2001 SPECIES
-=======
+# Legionella rowbothamii Adeleke et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

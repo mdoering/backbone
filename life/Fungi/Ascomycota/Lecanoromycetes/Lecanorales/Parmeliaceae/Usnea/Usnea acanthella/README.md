@@ -1,5 +1,4 @@
-Usnea acanthella (I.M. Lamb) F.J. Walker SPECIES
-=======
+# Usnea acanthella (I.M. Lamb) F.J. Walker SPECIES
 
 #### Status
 ACCEPTED

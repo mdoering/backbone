@@ -1,5 +1,4 @@
-Agaricus remotus Schaeff. SPECIES
-=======
+# Agaricus remotus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

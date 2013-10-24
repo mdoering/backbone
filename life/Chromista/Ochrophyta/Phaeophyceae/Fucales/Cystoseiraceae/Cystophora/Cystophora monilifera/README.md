@@ -1,5 +1,4 @@
-Cystophora monilifera J. Agardh SPECIES
-=======
+# Cystophora monilifera J. Agardh SPECIES
 
 #### Status
 ACCEPTED

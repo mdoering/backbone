@@ -1,5 +1,4 @@
-Aleuromyces Boidin & Gilles GENUS
-=======
+# Aleuromyces Boidin & Gilles GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea flavomarginata Pat. SPECIES
-=======
+# Hypocrea flavomarginata Pat. SPECIES
 
 #### Status
 ACCEPTED

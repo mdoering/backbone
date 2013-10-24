@@ -1,5 +1,4 @@
-Chaetomidium arxii Benny, 1980 SPECIES
-=======
+# Chaetomidium arxii Benny, 1980 SPECIES
 
 #### Status
 ACCEPTED

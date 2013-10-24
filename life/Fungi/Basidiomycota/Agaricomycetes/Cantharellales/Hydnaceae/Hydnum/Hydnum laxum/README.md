@@ -1,5 +1,4 @@
-Hydnum laxum (Pers.) Duby SPECIES
-=======
+# Hydnum laxum (Pers.) Duby SPECIES
 
 #### Status
 ACCEPTED

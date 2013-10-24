@@ -1,5 +1,4 @@
-Paraurostyla Borror, 1972 GENUS
-=======
+# Paraurostyla Borror, 1972 GENUS
 
 #### Status
 ACCEPTED

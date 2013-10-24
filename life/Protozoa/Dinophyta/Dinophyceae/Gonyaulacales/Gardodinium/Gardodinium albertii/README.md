@@ -1,5 +1,4 @@
-Gardodinium albertii J.W. Neale & W.A.S. Sarjeant SPECIES
-=======
+# Gardodinium albertii J.W. Neale & W.A.S. Sarjeant SPECIES
 
 #### Status
 ACCEPTED

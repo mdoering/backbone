@@ -1,5 +1,4 @@
-Coralliochytrium Domján GENUS
-=======
+# Coralliochytrium Domján GENUS
 
 #### Status
 ACCEPTED

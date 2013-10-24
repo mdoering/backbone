@@ -1,5 +1,4 @@
-Botryostrobus Haeckel, 1887 GENUS
-=======
+# Botryostrobus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

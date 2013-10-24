@@ -1,5 +1,4 @@
-Meliola schefferae Hansf. SPECIES
-=======
+# Meliola schefferae Hansf. SPECIES
 
 #### Status
 ACCEPTED

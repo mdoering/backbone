@@ -1,5 +1,4 @@
-Megalonectria madagascariensis Henn. SPECIES
-=======
+# Megalonectria madagascariensis Henn. SPECIES
 
 #### Status
 ACCEPTED

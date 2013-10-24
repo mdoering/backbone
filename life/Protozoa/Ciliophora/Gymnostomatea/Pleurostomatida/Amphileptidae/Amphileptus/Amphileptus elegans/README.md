@@ -1,5 +1,4 @@
-Amphileptus elegans Fromentel, 1876 SPECIES
-=======
+# Amphileptus elegans Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

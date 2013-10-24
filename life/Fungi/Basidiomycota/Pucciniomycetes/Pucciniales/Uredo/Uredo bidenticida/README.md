@@ -1,5 +1,4 @@
-Uredo bidenticida Speg. SPECIES
-=======
+# Uredo bidenticida Speg. SPECIES
 
 #### Status
 ACCEPTED

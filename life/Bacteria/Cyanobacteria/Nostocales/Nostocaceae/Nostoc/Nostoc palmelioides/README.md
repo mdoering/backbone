@@ -1,5 +1,4 @@
-Nostoc palmelioides Kützing SPECIES
-=======
+# Nostoc palmelioides Kützing SPECIES
 
 #### Status
 ACCEPTED

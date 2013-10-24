@@ -1,5 +1,4 @@
-Acanthocystis nyriospina SPECIES
-=======
+# Acanthocystis nyriospina SPECIES
 
 #### Status
 ACCEPTED

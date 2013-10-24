@@ -1,5 +1,4 @@
-Amphorellopsis Kofoid & Campbell, 1929 GENUS
-=======
+# Amphorellopsis Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

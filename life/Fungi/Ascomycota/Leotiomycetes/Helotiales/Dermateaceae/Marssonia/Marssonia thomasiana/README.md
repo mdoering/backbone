@@ -1,5 +1,4 @@
-Marssonia thomasiana var. thomasiana VARIETY
-=======
+# Marssonia thomasiana Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marssonia thomasiana var. thomasiana
+Marssonia thomasiana Sacc.
 
 ### Remarks
 null

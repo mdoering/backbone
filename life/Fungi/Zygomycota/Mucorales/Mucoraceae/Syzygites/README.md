@@ -1,17 +1,16 @@
-Azygites Fr. GENUS
-=======
+# Syzygites Ehrenberg, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 330 (1832)
+null
 
 #### Original name
-Azygites Fr.
+null
 
 ### Remarks
 null

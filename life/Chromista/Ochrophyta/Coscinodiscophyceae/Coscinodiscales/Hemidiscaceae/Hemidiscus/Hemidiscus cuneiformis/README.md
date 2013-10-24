@@ -1,11 +1,10 @@
-Euodia inornata Castracane SPECIES
-=======
+# Hemidiscus cuneiformis G. C. Wall, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Lecidora polytropella (Nyl.) Motyka SPECIES
-=======
+# Lecidora polytropella (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

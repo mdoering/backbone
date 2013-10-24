@@ -1,5 +1,4 @@
-Phymatosphaeria yunnanensis (Pat.) Speg. SPECIES
-=======
+# Phymatosphaeria yunnanensis (Pat.) Speg. SPECIES
 
 #### Status
 ACCEPTED

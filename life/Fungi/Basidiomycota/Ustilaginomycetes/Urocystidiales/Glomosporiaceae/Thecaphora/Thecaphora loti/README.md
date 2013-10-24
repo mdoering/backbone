@@ -1,5 +1,4 @@
-Thecaphora loti Mayor SPECIES
-=======
+# Thecaphora loti Mayor SPECIES
 
 #### Status
 ACCEPTED

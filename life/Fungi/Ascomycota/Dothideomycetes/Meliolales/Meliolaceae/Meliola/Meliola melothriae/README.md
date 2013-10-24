@@ -1,5 +1,4 @@
-Meliola melothriae (R.E.D. Baker & W.T. Dale) Cif. SPECIES
-=======
+# Meliola melothriae (R.E.D. Baker & W.T. Dale) Cif. SPECIES
 
 #### Status
 ACCEPTED

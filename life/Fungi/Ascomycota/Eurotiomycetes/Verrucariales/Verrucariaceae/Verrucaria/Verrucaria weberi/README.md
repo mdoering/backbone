@@ -1,5 +1,4 @@
-Verrucaria weberi Humb. SPECIES
-=======
+# Verrucaria weberi Humb. SPECIES
 
 #### Status
 ACCEPTED

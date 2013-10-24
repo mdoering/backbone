@@ -1,5 +1,4 @@
-Leucangium ophthalmosporum Quél., 1883 SPECIES
-=======
+# Leucangium ophthalmosporum Quél., 1883 SPECIES
 
 #### Status
 ACCEPTED

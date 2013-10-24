@@ -1,5 +1,4 @@
-Wenrichia Jankowski, 1967 GENUS
-=======
+# Wenrichia Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

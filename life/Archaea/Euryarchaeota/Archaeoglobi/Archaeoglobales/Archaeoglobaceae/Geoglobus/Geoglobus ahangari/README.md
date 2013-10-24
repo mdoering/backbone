@@ -1,5 +1,4 @@
-Geoglobus ahangari Kashefi et al., 2002 SPECIES
-=======
+# Geoglobus ahangari Kashefi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoicomyces focarilei W. Rossi SPECIES
-=======
+# Monoicomyces focarilei W. Rossi SPECIES
 
 #### Status
 ACCEPTED

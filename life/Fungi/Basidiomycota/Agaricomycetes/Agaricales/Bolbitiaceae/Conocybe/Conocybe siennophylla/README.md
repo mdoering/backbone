@@ -1,17 +1,16 @@
-Conocybe siliginea f. ochracea Kühner FORM
-=======
+# Conocybe siennophylla (Berk. & Broome) Singer, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 9: 402 (1955)
 
 #### Original name
-null
+Agaricus siennophyllus Berk. & Broome, 1871
 
 ### Remarks
 null

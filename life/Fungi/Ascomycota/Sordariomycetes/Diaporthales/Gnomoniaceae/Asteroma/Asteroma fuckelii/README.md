@@ -1,5 +1,4 @@
-Asteroma fuckelii Sacc. SPECIES
-=======
+# Asteroma fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

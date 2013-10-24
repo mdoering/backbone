@@ -1,5 +1,4 @@
-Actinomonas Kent, 1880 GENUS
-=======
+# Actinomonas Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

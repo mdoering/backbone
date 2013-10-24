@@ -1,5 +1,4 @@
-Cytospora punica Sacc. SPECIES
-=======
+# Cytospora punica Sacc. SPECIES
 
 #### Status
 ACCEPTED

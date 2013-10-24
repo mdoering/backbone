@@ -1,5 +1,4 @@
-Hypogymnia madeirensis (Tav.) D. Hawksw. SPECIES
-=======
+# Hypogymnia madeirensis (Tav.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

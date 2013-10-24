@@ -1,5 +1,4 @@
-Sphaeria concomitans Schwein. SPECIES
-=======
+# Sphaeria concomitans Schwein. SPECIES
 
 #### Status
 ACCEPTED

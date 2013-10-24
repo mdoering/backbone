@@ -1,14 +1,13 @@
-Lagenidium lundii Karling, 1981 SPECIES
-=======
+# Pleocystidium lundiae (Karling) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Predominantly holocarpic and eucarpic simple biflagellate Phycomycetes (Vaduz), 2nd Edn 123 (1981)
+Straminipilous Fungi (Dordrecht) 346 (2001)
 
 #### Original name
 Lagenidium lundii Karling, 1981

@@ -1,5 +1,4 @@
-Lophosphaeridium bellum Salujha, Rehman & Arora, 1972 SPECIES
-=======
+# Lophosphaeridium bellum Salujha, Rehman & Arora, 1972 SPECIES
 
 #### Status
 ACCEPTED

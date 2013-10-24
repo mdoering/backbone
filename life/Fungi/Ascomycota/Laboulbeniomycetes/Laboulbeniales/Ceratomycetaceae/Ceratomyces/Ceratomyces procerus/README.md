@@ -1,5 +1,4 @@
-Ceratomyces procerus Thaxt. SPECIES
-=======
+# Ceratomyces procerus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

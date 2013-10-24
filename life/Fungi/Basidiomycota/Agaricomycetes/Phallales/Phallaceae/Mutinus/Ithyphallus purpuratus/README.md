@@ -1,5 +1,4 @@
-Ithyphallus purpuratus Cragin SPECIES
-=======
+# Ithyphallus purpuratus Cragin SPECIES
 
 #### Status
 ACCEPTED

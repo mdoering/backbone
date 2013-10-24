@@ -1,5 +1,4 @@
-Enchelydium trichocystis Foissner, 1980 SPECIES
-=======
+# Enchelydium trichocystis Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

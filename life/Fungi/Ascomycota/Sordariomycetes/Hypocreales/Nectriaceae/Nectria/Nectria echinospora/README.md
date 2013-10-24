@@ -1,5 +1,4 @@
-Nectria echinospora Saccas SPECIES
-=======
+# Nectria echinospora Saccas SPECIES
 
 #### Status
 ACCEPTED

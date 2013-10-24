@@ -1,5 +1,4 @@
-Phoma rosmarini Speg. SPECIES
-=======
+# Phoma rosmarini Speg. SPECIES
 
 #### Status
 ACCEPTED

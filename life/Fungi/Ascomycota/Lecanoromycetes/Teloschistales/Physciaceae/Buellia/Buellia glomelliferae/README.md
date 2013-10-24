@@ -1,5 +1,4 @@
-Buellia glomelliferae (Harm.) H. Olivier SPECIES
-=======
+# Buellia glomelliferae (Harm.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

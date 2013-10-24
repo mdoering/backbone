@@ -1,5 +1,4 @@
-Metasphaeria behnitziensis Kirschst. SPECIES
-=======
+# Metasphaeria behnitziensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes enteroleucus (Fr.) Sacc. SPECIES
-=======
+# Fomes enteroleucus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

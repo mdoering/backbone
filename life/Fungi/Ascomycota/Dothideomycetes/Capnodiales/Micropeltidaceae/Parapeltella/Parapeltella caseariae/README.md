@@ -1,5 +1,4 @@
-Parapeltella caseariae Bat. & I.H. Lima SPECIES
-=======
+# Parapeltella caseariae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

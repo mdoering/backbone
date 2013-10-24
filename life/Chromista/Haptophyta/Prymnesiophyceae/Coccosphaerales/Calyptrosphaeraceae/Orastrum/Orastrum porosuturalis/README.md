@@ -1,5 +1,4 @@
-Orastrum porosuturalis SPECIES
-=======
+# Orastrum porosuturalis SPECIES
 
 #### Status
 ACCEPTED

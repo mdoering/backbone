@@ -1,17 +1,16 @@
-Phaeoporus griseoporus (D.A. Reid) Spirin, Zmitr. & Malysheva, 2006 SPECIES
-=======
+# Phellinus griseoporus D.A. Reid, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 28(1): 192 (1976)
 
 #### Original name
-null
+Phellinus griseoporus D.A. Reid, 1976
 
 ### Remarks
 null

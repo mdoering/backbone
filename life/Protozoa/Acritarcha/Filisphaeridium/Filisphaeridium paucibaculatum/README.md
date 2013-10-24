@@ -1,5 +1,4 @@
-Filisphaeridium paucibaculatum Jiabo, 1978 SPECIES
-=======
+# Filisphaeridium paucibaculatum Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

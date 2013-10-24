@@ -1,5 +1,4 @@
-Textularia laevigata Saidova, 1975 SPECIES
-=======
+# Textularia laevigata Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplopsalis R. Bergh, 1882 GENUS
-=======
+# Diplopsalis R. Bergh, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites wolfei Elsik SPECIES
-=======
+# Hypoxylonites wolfei Elsik SPECIES
 
 #### Status
 ACCEPTED

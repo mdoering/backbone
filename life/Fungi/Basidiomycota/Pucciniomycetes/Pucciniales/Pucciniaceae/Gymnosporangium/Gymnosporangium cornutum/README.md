@@ -1,17 +1,16 @@
-Aecidium cornutum var. cornutum J.F. Gmel. VARIETY
-=======
+# Gymnosporangium cornutum Arthur ex F. Kern, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the New York Botanical Garden 7: 444-445 (1911)
 
 #### Original name
-Aecidium cornutum var. cornutum J.F. Gmel.
+Gymnosporangium cornutum Arthur ex F. Kern, 1911
 
 ### Remarks
 null

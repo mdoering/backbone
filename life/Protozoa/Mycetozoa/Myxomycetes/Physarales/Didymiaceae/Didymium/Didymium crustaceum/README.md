@@ -1,17 +1,16 @@
-Didymium crustaceum var. obducens (P. Karst.) P. Karst. VARIETY
-=======
+# Didymium crustaceum Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 124 (1829)
 
 #### Original name
-Didymium obducens P. Karst., 1868
+Didymium crustaceum Fr., 1829
 
 ### Remarks
 null

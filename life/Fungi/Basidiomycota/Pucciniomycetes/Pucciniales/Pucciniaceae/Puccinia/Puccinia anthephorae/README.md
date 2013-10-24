@@ -1,5 +1,4 @@
-Puccinia anthephorae Arthur & J.R. Johnst. SPECIES
-=======
+# Puccinia anthephorae Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

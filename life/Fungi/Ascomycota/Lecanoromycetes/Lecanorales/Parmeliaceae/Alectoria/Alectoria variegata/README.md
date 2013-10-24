@@ -1,5 +1,4 @@
-Alectoria variegata (Samp.) Tav. SPECIES
-=======
+# Alectoria variegata (Samp.) Tav. SPECIES
 
 #### Status
 ACCEPTED

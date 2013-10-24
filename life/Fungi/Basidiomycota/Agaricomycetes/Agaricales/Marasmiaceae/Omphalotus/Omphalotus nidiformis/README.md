@@ -1,17 +1,16 @@
-Agaricus nidiformis Berk., 1844 SPECIES
-=======
+# Omphalotus nidiformis (Berk.) O.K. Mill., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-London J. Bot. 3: 185 (1844)
+Mycol. helv. 6(2): 93 (1994)
 
 #### Original name
-Agaricus nidiformis Berk., 1844
+Pleurotus nidiformis (Berk.) Sacc., 1887
 
 ### Remarks
 null

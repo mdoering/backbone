@@ -1,5 +1,4 @@
-Inocybe luteipes J. Favre SPECIES
-=======
+# Inocybe luteipes J. Favre SPECIES
 
 #### Status
 ACCEPTED

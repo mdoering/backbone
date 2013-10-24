@@ -1,5 +1,4 @@
-Entoloma viaregale Noordel. SPECIES
-=======
+# Entoloma viaregale Noordel. SPECIES
 
 #### Status
 ACCEPTED

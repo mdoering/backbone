@@ -1,5 +1,4 @@
-Articulina pacifica SPECIES
-=======
+# Articulina pacifica SPECIES
 
 #### Status
 ACCEPTED

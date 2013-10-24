@@ -1,5 +1,4 @@
-Anzia kohimana Yoshim. SPECIES
-=======
+# Anzia kohimana Yoshim. SPECIES
 
 #### Status
 ACCEPTED

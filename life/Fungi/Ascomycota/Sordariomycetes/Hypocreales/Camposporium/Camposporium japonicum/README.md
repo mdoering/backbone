@@ -1,5 +1,4 @@
-Camposporium japonicum Ichinoe, 1971 SPECIES
-=======
+# Camposporium japonicum Ichinoe, 1971 SPECIES
 
 #### Status
 ACCEPTED

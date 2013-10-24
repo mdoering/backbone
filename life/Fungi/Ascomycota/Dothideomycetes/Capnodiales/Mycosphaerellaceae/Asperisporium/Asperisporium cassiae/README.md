@@ -1,5 +1,4 @@
-Asperisporium cassiae (Syd.) Deighton SPECIES
-=======
+# Asperisporium cassiae (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

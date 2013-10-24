@@ -1,5 +1,4 @@
-Ophiuridium GENUS
-=======
+# Ophiuridium GENUS
 
 #### Status
 ACCEPTED

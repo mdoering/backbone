@@ -1,5 +1,4 @@
-Cryptomonas obovata Czosnowski, 1948 SPECIES
-=======
+# Cryptomonas obovata Czosnowski, 1948 SPECIES
 
 #### Status
 ACCEPTED

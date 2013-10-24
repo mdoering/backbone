@@ -1,5 +1,4 @@
-Crinipellis stenophylloides Dennis SPECIES
-=======
+# Crinipellis stenophylloides Dennis SPECIES
 
 #### Status
 ACCEPTED

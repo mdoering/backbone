@@ -1,5 +1,4 @@
-Caloplaca orthoclada Zahlbr. SPECIES
-=======
+# Caloplaca orthoclada Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

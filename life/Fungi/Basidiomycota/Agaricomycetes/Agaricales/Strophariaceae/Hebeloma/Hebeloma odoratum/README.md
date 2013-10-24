@@ -1,5 +1,4 @@
-Hebeloma odoratum Velen. SPECIES
-=======
+# Hebeloma odoratum Velen. SPECIES
 
 #### Status
 ACCEPTED

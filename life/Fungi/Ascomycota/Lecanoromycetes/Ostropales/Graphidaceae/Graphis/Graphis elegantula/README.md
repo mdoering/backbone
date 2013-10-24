@@ -1,5 +1,4 @@
-Graphis elegantula SPECIES
-=======
+# Graphis elegantula SPECIES
 
 #### Status
 ACCEPTED

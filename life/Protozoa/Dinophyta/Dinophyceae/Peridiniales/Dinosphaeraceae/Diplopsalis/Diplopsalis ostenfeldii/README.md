@@ -1,5 +1,4 @@
-Diplopsalis ostenfeldii Steemann Nielsen SPECIES
-=======
+# Diplopsalis ostenfeldii Steemann Nielsen SPECIES
 
 #### Status
 ACCEPTED

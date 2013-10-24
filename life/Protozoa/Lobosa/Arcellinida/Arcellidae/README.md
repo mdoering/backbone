@@ -1,5 +1,4 @@
-Arcellidae FAMILY
-=======
+# Arcellidae FAMILY
 
 #### Status
 ACCEPTED

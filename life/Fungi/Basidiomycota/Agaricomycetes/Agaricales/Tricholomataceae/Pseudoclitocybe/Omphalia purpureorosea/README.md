@@ -1,5 +1,4 @@
-Omphalia purpureorosea Berk. & Mont. SPECIES
-=======
+# Omphalia purpureorosea Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

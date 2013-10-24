@@ -1,8 +1,7 @@
-Loxocephalus tranquillus (Kahl, 1926) Augustin & Foissner, 1992 SPECIES
-=======
+# Dexiotricha tranquilla (Kahl, 1926) Augustin & Foissner, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

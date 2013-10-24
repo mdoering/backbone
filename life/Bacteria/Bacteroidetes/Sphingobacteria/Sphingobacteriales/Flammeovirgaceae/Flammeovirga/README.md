@@ -1,5 +1,4 @@
-Flammeovirga Nakagawa, Hamana, Sakane & Yamasato, 1997 GENUS
-=======
+# Flammeovirga Nakagawa, Hamana, Sakane & Yamasato, 1997 GENUS
 
 #### Status
 ACCEPTED

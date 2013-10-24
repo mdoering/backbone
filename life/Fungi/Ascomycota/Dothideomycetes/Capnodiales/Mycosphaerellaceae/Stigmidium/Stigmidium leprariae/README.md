@@ -1,5 +1,4 @@
-Stigmidium leprariae Zhurb., 2007 SPECIES
-=======
+# Stigmidium leprariae Zhurb., 2007 SPECIES
 
 #### Status
 ACCEPTED

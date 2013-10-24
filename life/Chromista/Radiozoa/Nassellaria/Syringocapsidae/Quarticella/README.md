@@ -1,5 +1,4 @@
-Quarticella Takemura, 1986 GENUS
-=======
+# Quarticella Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

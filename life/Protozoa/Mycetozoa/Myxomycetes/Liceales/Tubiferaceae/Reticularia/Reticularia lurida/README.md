@@ -1,5 +1,4 @@
-Reticularia lurida Berk. & Broome SPECIES
-=======
+# Reticularia lurida Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

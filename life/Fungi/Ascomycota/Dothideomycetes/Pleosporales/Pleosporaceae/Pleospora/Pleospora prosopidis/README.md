@@ -1,5 +1,4 @@
-Pleospora prosopidis Bubák SPECIES
-=======
+# Pleospora prosopidis Bubák SPECIES
 
 #### Status
 ACCEPTED

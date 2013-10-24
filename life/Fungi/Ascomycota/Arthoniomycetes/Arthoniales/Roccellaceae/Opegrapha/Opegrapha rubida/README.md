@@ -1,5 +1,4 @@
-Opegrapha rubida Chevall. SPECIES
-=======
+# Opegrapha rubida Chevall. SPECIES
 
 #### Status
 ACCEPTED

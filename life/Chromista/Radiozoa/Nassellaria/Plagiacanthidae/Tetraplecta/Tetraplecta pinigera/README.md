@@ -1,5 +1,4 @@
-Tetraplecta pinigera Haeckel, 1887 SPECIES
-=======
+# Tetraplecta pinigera Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

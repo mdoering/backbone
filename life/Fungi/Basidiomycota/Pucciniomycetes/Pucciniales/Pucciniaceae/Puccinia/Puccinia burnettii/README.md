@@ -1,5 +1,4 @@
-Puccinia burnettii Griffiths SPECIES
-=======
+# Puccinia burnettii Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium mitchellii (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium mitchellii (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus squamosus Morgan SPECIES
-=======
+# Coprinus squamosus Morgan SPECIES
 
 #### Status
 ACCEPTED

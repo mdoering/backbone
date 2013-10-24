@@ -1,5 +1,4 @@
-Phomopsis musicola (F. Stevens & E. Young) Punith., 1975 SPECIES
-=======
+# Phomopsis musicola (F. Stevens & E. Young) Punith., 1975 SPECIES
 
 #### Status
 ACCEPTED

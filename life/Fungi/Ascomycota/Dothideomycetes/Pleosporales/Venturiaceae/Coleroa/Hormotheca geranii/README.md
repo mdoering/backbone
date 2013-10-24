@@ -1,5 +1,4 @@
-Hormotheca geranii Bonord. SPECIES
-=======
+# Hormotheca geranii Bonord. SPECIES
 
 #### Status
 ACCEPTED

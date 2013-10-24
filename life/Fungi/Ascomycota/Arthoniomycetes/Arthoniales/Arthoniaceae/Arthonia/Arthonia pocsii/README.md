@@ -1,5 +1,4 @@
-Arthonia pocsii Lücking & Kalb SPECIES
-=======
+# Arthonia pocsii Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

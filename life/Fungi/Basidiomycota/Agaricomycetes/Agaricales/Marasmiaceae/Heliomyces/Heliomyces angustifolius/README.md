@@ -1,5 +1,4 @@
-Heliomyces angustifolius Murrill SPECIES
-=======
+# Heliomyces angustifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

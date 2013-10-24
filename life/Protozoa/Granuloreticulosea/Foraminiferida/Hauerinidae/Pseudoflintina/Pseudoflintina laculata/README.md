@@ -1,5 +1,4 @@
-Pseudoflintina laculata Loeblich & Tappan, 1994 SPECIES
-=======
+# Pseudoflintina laculata Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

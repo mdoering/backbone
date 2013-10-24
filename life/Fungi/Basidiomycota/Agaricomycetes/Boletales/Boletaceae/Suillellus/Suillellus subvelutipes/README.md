@@ -1,5 +1,4 @@
-Suillellus subvelutipes (Peck) Murrill SPECIES
-=======
+# Suillellus subvelutipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

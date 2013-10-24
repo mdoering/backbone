@@ -1,17 +1,16 @@
-Fusarium heterosporum f. heterosporum FORM
-=======
+# Gibberella gordonii C. Booth, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. 9: 235 (1818)
+The Genus Fusarium 177 (1971)
 
 #### Original name
-Fusarium heterosporum f. heterosporum
+Gibberella gordonii C. Booth, 1971
 
 ### Remarks
 null

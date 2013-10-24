@@ -1,5 +1,4 @@
-Gasparrinia hookeri C.W. Dodge SPECIES
-=======
+# Gasparrinia hookeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

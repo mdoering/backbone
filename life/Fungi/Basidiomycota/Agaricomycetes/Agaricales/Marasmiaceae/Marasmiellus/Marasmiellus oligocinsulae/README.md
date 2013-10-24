@@ -1,5 +1,4 @@
-Marasmiellus oligocinsulae Murrill SPECIES
-=======
+# Marasmiellus oligocinsulae Murrill SPECIES
 
 #### Status
 ACCEPTED

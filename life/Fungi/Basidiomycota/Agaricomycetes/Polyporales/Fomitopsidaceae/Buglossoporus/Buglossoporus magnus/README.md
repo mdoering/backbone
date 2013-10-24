@@ -1,5 +1,4 @@
-Buglossoporus magnus Corner, 1984 SPECIES
-=======
+# Buglossoporus magnus Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

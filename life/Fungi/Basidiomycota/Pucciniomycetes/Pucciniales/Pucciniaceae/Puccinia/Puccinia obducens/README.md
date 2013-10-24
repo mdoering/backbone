@@ -1,5 +1,4 @@
-Puccinia obducens P. Syd. & Syd. SPECIES
-=======
+# Puccinia obducens P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

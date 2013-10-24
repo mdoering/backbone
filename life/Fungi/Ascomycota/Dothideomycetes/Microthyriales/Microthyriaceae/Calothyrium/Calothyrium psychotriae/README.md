@@ -1,5 +1,4 @@
-Calothyrium psychotriae R.W. Ryan SPECIES
-=======
+# Calothyrium psychotriae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

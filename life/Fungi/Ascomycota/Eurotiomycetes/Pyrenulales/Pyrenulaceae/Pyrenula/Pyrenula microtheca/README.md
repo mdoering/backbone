@@ -1,14 +1,13 @@
-Parathelium microcarpum Riddle SPECIES
-=======
+# Pyrenula microtheca R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Britton & Millspaugh, The Bahama Flora (New York) 531 (1920)
+Mem. N. Y. bot. Gdn 49: 96 (1989)
 
 #### Original name
 Parathelium microcarpum Riddle

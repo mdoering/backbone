@@ -1,8 +1,7 @@
-Peridinium cunningtonii var. pseudoquadridens Lindemann VARIETY
-=======
+# Peridiniopsis cunningtonii (Lemmermann) Popovsky & Pfiester SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

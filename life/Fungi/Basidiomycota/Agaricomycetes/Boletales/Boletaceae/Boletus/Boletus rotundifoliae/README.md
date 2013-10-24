@@ -1,5 +1,4 @@
-Boletus rotundifoliae (Singer) S. Lundell SPECIES
-=======
+# Boletus rotundifoliae (Singer) S. Lundell SPECIES
 
 #### Status
 ACCEPTED

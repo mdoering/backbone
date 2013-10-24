@@ -1,5 +1,4 @@
-Phoma leontodonticola Petr. SPECIES
-=======
+# Phoma leontodonticola Petr. SPECIES
 
 #### Status
 ACCEPTED

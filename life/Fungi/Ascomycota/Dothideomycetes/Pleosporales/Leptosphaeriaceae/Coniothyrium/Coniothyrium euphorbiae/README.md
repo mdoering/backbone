@@ -1,5 +1,4 @@
-Coniothyrium euphorbiae (Roum.) Berl. & Voglino SPECIES
-=======
+# Coniothyrium euphorbiae (Roum.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

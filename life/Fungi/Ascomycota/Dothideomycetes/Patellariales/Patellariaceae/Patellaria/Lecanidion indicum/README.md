@@ -1,5 +1,4 @@
-Lecanidion indicum P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
-=======
+# Lecanidion indicum P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nothopanus vinosofuscus (Bres.) Singer SPECIES
-=======
+# Nothopanus vinosofuscus (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

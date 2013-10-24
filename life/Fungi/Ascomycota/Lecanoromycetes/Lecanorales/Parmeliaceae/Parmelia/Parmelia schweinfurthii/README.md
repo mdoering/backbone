@@ -1,5 +1,4 @@
-Parmelia schweinfurthii f. schweinfurthii FORM
-=======
+# Parmelia schweinfurthii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. R. Soc. Edinb. 11: 459 (1882)
 
 #### Original name
-Parmelia schweinfurthii f. schweinfurthii
+Parmelia schweinfurthii Müll. Arg.
 
 ### Remarks
 null

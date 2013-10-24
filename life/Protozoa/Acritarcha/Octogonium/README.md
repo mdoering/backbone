@@ -1,5 +1,4 @@
-Octogonium Martin, 1973 GENUS
-=======
+# Octogonium Martin, 1973 GENUS
 
 #### Status
 ACCEPTED

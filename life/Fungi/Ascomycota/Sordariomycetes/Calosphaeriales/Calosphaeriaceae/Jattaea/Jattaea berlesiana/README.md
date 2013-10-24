@@ -1,5 +1,4 @@
-Jattaea berlesiana Sacc. & Traverso SPECIES
-=======
+# Jattaea berlesiana Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

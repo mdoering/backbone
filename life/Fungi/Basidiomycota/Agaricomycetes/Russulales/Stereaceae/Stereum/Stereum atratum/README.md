@@ -1,5 +1,4 @@
-Stereum atratum (Sw.) Fr. SPECIES
-=======
+# Stereum atratum (Sw.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius velutinellus Singer SPECIES
-=======
+# Cortinarius velutinellus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthotheliopsis hymenocarpoides Vain. SPECIES
-=======
+# Arthotheliopsis hymenocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

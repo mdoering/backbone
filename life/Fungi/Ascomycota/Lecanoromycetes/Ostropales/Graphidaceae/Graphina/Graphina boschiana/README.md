@@ -1,5 +1,4 @@
-Graphina boschiana var. boschiana VARIETY
-=======
+# Graphina boschiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 65(24): 382 (1882)
 
 #### Original name
-Graphina boschiana var. boschiana
+Graphina boschiana Müll. Arg.
 
 ### Remarks
 null

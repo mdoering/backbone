@@ -1,5 +1,4 @@
-Panaeolus lignicola Rick SPECIES
-=======
+# Panaeolus lignicola Rick SPECIES
 
 #### Status
 ACCEPTED

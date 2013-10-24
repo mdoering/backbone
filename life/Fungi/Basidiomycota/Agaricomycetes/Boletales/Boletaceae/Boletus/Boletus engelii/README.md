@@ -1,5 +1,4 @@
-Boletus engelii Hlavácek SPECIES
-=======
+# Boletus engelii Hlavácek SPECIES
 
 #### Status
 ACCEPTED

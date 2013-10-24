@@ -1,5 +1,4 @@
-Meliola cornu-caprae Henn. SPECIES
-=======
+# Meliola cornu-caprae Henn. SPECIES
 
 #### Status
 ACCEPTED

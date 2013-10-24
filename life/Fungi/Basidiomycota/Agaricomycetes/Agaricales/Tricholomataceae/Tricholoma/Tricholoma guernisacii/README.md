@@ -1,8 +1,7 @@
-Tricholoma guernisaci P. Crouan & H. Crouan SPECIES
-=======
+# Tricholoma guernisacii P. Crouan & H. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tricholoma guernisaci P. Crouan & H. Crouan
+Tricholoma guernisacii P. Crouan & H. Crouan
 
 ### Remarks
 null

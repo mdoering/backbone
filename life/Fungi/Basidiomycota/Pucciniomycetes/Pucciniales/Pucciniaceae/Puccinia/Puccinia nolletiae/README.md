@@ -1,5 +1,4 @@
-Puccinia nolletiae Malençon SPECIES
-=======
+# Puccinia nolletiae Malençon SPECIES
 
 #### Status
 ACCEPTED

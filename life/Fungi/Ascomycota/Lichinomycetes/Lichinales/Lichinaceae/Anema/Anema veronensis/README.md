@@ -1,5 +1,4 @@
-Anema veronensis (A. Massal.) Jatta SPECIES
-=======
+# Anema veronensis (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

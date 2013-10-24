@@ -1,5 +1,4 @@
-Lecidea cupreiformis SPECIES
-=======
+# Lecidea cupreiformis SPECIES
 
 #### Status
 ACCEPTED

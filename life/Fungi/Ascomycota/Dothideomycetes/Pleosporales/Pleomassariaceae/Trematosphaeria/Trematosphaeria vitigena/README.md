@@ -1,5 +1,4 @@
-Trematosphaeria vitigena Ellis & Everh. SPECIES
-=======
+# Trematosphaeria vitigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

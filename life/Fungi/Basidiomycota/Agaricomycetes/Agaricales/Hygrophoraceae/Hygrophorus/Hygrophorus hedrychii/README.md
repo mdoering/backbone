@@ -1,17 +1,16 @@
-Hygrophorus melizeus SPECIES
-=======
+# Hygrophorus hedrychii (Velen.) K. Kult, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 10: 232 (1956)
 
 #### Original name
-Hygrophorus melizeus
+Limacium hedrychii Velen., 1920
 
 ### Remarks
 null

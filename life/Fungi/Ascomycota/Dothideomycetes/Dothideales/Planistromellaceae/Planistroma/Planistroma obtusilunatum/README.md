@@ -1,5 +1,4 @@
-Planistroma obtusilunatum A.W. Ramaley SPECIES
-=======
+# Planistroma obtusilunatum A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

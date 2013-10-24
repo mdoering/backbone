@@ -1,5 +1,4 @@
-Trypethelium infossum (Nyl.) R.C. Harris SPECIES
-=======
+# Trypethelium infossum (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoxylon atrum Pat. SPECIES
-=======
+# Sarcoxylon atrum Pat. SPECIES
 
 #### Status
 ACCEPTED

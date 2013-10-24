@@ -1,5 +1,4 @@
-Cercosporella potentillae Woron. SPECIES
-=======
+# Cercosporella potentillae Woron. SPECIES
 
 #### Status
 ACCEPTED

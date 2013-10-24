@@ -1,5 +1,4 @@
-Asterina vochysiae Henn. SPECIES
-=======
+# Asterina vochysiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia stenophyllina SPECIES
-=======
+# Physcia stenophyllina SPECIES
 
 #### Status
 ACCEPTED

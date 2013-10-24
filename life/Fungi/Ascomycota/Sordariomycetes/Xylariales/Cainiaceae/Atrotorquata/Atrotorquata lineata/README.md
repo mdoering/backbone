@@ -1,5 +1,4 @@
-Atrotorquata lineata Kohlm. & Volkm.-Kohlm., 1993 SPECIES
-=======
+# Atrotorquata lineata Kohlm. & Volkm.-Kohlm., 1993 SPECIES
 
 #### Status
 ACCEPTED

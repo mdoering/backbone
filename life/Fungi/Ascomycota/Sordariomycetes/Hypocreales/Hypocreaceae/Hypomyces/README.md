@@ -1,8 +1,7 @@
-Chiajaea subgen. Saccardo von Höhnel, 1920 GENUS
-=======
+# Hypomyces (E.M. Fries) Tulasne, 1860 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

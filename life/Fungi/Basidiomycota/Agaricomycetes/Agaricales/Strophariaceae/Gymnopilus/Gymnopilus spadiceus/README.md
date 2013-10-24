@@ -1,5 +1,4 @@
-Gymnopilus spadiceus Romagn. SPECIES
-=======
+# Gymnopilus spadiceus Romagn. SPECIES
 
 #### Status
 ACCEPTED

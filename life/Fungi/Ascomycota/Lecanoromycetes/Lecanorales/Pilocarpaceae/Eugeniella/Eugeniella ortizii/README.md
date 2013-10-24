@@ -1,5 +1,4 @@
-Eugeniella ortizii (Lücking) Lücking, Sérus. & Kalb SPECIES
-=======
+# Eugeniella ortizii (Lücking) Lücking, Sérus. & Kalb SPECIES
 
 #### Status
 ACCEPTED

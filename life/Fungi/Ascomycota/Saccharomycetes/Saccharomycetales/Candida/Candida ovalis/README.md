@@ -1,5 +1,4 @@
-Candida ovalis Kumam. & M. Yamam., 1987 SPECIES
-=======
+# Candida ovalis Kumam. & M. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

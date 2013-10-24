@@ -1,5 +1,4 @@
-Russula oinochroa Buyck SPECIES
-=======
+# Russula oinochroa Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium lundellii Bourdot, 1949 SPECIES
-=======
+# Hypochnicium lundellii (Bourdot) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 43(1): 56 (1949)
+Symb. bot. upsal. 16(no. 1): 101 (1958)
 
 #### Original name
 Corticium lundellii Bourdot, 1949

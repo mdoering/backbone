@@ -1,5 +1,4 @@
-Anabaenella licheniformis (Bory de Saint-Vincent) Gaillon SPECIES
-=======
+# Anabaenella licheniformis (Bory de Saint-Vincent) Gaillon SPECIES
 
 #### Status
 DOUBTFUL

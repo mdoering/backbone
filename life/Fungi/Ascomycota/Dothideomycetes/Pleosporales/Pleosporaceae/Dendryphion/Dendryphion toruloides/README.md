@@ -1,5 +1,4 @@
-Dendryphion toruloides (Fresen.) Sacc. SPECIES
-=======
+# Dendryphion toruloides (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rostrophrya namibiensis subsp. namibiensis SUBSPECIES
-=======
+# Rostrophrya namibiensis Foissner, Agatha & Berger SPECIES
 
 #### Status
 ACCEPTED

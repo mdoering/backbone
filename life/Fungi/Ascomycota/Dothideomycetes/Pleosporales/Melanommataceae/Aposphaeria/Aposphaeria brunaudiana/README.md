@@ -1,5 +1,4 @@
-Aposphaeria brunaudiana (Thüm.) Sacc. SPECIES
-=======
+# Aposphaeria brunaudiana (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

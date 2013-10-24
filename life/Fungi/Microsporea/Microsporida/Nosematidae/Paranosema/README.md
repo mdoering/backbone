@@ -1,5 +1,4 @@
-Paranosema Y.Y. Sokolova, V.V. Dolgikh, E.V. Morzhina, E.S. Nassonova, I.V. Issi, R.S. Terry, J.E. Ironside, J.E. Smith & C.R. Vossbrinck GENUS
-=======
+# Paranosema Y.Y. Sokolova, V.V. Dolgikh, E.V. Morzhina, E.S. Nassonova, I.V. Issi, R.S. Terry, J.E. Ironside, J.E. Smith & C.R. Vossbrinck GENUS
 
 #### Status
 ACCEPTED

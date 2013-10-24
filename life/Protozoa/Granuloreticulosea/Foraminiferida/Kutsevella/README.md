@@ -1,5 +1,4 @@
-Kutsevella Dain, 1978 GENUS
-=======
+# Kutsevella Dain, 1978 GENUS
 
 #### Status
 ACCEPTED

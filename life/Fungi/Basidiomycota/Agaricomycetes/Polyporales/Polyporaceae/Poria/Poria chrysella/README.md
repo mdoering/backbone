@@ -1,5 +1,4 @@
-Poria chrysella Egeland SPECIES
-=======
+# Poria chrysella Egeland SPECIES
 
 #### Status
 ACCEPTED

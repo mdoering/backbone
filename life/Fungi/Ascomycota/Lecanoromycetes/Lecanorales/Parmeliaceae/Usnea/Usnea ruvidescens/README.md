@@ -1,5 +1,4 @@
-Usnea ruvidescens (Jatta) Motyka SPECIES
-=======
+# Usnea ruvidescens (Jatta) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliophrya minima Rieder, 1936 SPECIES
-=======
+# Heliophrya minima Rieder, 1936 SPECIES
 
 #### Status
 ACCEPTED

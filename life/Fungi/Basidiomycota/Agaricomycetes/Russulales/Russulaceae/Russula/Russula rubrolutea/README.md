@@ -1,5 +1,4 @@
-Russula rubrolutea (T. Lebel) T. Lebel, 2007 SPECIES
-=======
+# Russula rubrolutea (T. Lebel) T. Lebel, 2007 SPECIES
 
 #### Status
 ACCEPTED

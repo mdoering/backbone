@@ -1,5 +1,4 @@
-Maritimibacter Lee, Choo, Giovannoni & Cho, 2007 GENUS
-=======
+# Maritimibacter Lee, Choo, Giovannoni & Cho, 2007 GENUS
 
 #### Status
 ACCEPTED

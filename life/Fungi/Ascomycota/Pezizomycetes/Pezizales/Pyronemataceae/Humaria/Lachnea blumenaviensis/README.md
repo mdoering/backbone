@@ -1,5 +1,4 @@
-Lachnea blumenaviensis Henn. SPECIES
-=======
+# Lachnea blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

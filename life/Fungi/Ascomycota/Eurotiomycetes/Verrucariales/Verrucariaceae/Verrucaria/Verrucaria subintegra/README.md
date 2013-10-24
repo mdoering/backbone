@@ -1,5 +1,4 @@
-Verrucaria subintegra Servít SPECIES
-=======
+# Verrucaria subintegra Servít SPECIES
 
 #### Status
 ACCEPTED

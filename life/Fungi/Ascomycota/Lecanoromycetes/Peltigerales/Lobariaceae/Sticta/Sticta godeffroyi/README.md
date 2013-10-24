@@ -1,5 +1,4 @@
-Sticta godeffroyi Kremp. SPECIES
-=======
+# Sticta godeffroyi Kremp. SPECIES
 
 #### Status
 ACCEPTED

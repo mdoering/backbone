@@ -1,5 +1,4 @@
-Lycoperdon crassum Pat. SPECIES
-=======
+# Lycoperdon crassum Pat. SPECIES
 
 #### Status
 ACCEPTED

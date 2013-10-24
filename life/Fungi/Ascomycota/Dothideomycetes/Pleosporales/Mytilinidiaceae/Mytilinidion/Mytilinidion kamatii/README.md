@@ -1,17 +1,16 @@
-Mytilidion kamatii Tilak & S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Mytilinidion kamatii Tilak & S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 91 (1971)
 
 #### Original name
-Mytilidion kamatii Tilak & S.B. Kale & S.V.S. Kale
+Mytilinidion kamatii Tilak & S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

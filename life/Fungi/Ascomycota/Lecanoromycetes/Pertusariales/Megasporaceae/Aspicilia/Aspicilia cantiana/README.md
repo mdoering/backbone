@@ -1,5 +1,4 @@
-Aspicilia cantiana (Garov.) Dalla Torre & Sarnth. SPECIES
-=======
+# Aspicilia cantiana (Garov.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia biseriata Thaxt. SPECIES
-=======
+# Rickia biseriata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

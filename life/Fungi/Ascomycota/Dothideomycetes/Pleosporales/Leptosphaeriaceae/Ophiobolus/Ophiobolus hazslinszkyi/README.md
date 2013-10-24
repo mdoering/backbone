@@ -1,5 +1,4 @@
-Ophiobolus hazslinszkyi Sacc. & P. Syd. SPECIES
-=======
+# Ophiobolus hazslinszkyi Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

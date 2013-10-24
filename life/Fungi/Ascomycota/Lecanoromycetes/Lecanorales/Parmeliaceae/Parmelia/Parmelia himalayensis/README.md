@@ -1,5 +1,4 @@
-Parmelia himalayensis Nyl. SPECIES
-=======
+# Parmelia himalayensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium magellanicum Speg. SPECIES
-=======
+# Fusidium magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED

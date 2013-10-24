@@ -1,5 +1,4 @@
-Leptothyrium foraminulatum Sacc. & Ellis SPECIES
-=======
+# Leptothyrium foraminulatum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

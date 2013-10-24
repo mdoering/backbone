@@ -1,17 +1,16 @@
-Meliola ancistrocladii Hosag. SPECIES
-=======
+# Meliola ancistrocladi Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar & Goos, Mycotaxon 37: 218 (1990)
 
 #### Original name
-Meliola ancistrocladii Hosag.
+Meliola ancistrocladi Hosag.
 
 ### Remarks
 null

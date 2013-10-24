@@ -1,5 +1,4 @@
-Phomopsis cynanchi (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Phomopsis cynanchi (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

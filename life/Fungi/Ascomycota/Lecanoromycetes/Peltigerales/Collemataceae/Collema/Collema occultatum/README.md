@@ -1,17 +1,16 @@
-Collema occultatum var. occultatum Bagl. VARIETY
-=======
+# Collema occultatum Bagl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1(no. 1): 23 (1861)
 
 #### Original name
-Collema occultatum var. occultatum Bagl.
+Collema occultatum Bagl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crepidotus geophilus (Murrill) Redhead SPECIES
-=======
+# Crepidotus geophilus (Murrill) Redhead SPECIES
 
 #### Status
 ACCEPTED

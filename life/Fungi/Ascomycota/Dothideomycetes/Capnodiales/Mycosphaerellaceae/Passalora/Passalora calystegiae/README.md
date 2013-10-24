@@ -1,5 +1,4 @@
-Passalora calystegiae (Speg.) U. Braun SPECIES
-=======
+# Passalora calystegiae (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

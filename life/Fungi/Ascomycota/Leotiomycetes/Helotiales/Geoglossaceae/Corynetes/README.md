@@ -1,5 +1,4 @@
-Corynetes GENUS
-=======
+# Corynetes GENUS
 
 #### Status
 ACCEPTED

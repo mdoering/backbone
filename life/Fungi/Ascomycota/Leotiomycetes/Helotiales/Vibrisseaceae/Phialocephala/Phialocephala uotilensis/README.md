@@ -1,5 +1,4 @@
-Phialocephala uotilensis Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala uotilensis Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius simillimus Bidaud SPECIES
-=======
+# Cortinarius simillimus Bidaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria solidaginis Thüm. SPECIES
-=======
+# Septoria solidaginis Thüm. SPECIES
 
 #### Status
 ACCEPTED

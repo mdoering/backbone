@@ -1,5 +1,4 @@
-Stigmatomyces porrectus Thaxt. SPECIES
-=======
+# Stigmatomyces porrectus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

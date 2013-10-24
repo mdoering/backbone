@@ -1,14 +1,13 @@
-Petriellidium desertorum Arx & Moustafa, 1973 SPECIES
-=======
+# Pseudallescheria desertorum (Arx & Moustafa) McGinnis, A.A. Padhye & Ajello, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Arx, Persoonia 7(3): 371 (1973)
+Mycotaxon 14(1): 98 (1982)
 
 #### Original name
 Petriellidium desertorum Arx & Moustafa, 1973

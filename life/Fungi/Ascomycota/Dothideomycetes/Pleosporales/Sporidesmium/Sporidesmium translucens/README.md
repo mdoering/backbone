@@ -1,5 +1,4 @@
-Sporidesmium translucens Cooke SPECIES
-=======
+# Sporidesmium translucens Cooke SPECIES
 
 #### Status
 ACCEPTED

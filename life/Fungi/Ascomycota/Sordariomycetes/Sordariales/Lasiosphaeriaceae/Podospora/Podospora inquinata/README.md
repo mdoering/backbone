@@ -1,5 +1,4 @@
-Podospora inquinata Udagawa & S. Ueda, 1985 SPECIES
-=======
+# Podospora inquinata Udagawa & S. Ueda, 1985 SPECIES
 
 #### Status
 ACCEPTED

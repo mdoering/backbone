@@ -1,5 +1,4 @@
-Bütschliella GENUS
-=======
+# Bütschliella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita ampla Vittad. SPECIES
-=======
+# Amanita ampla Vittad. SPECIES
 
 #### Status
 ACCEPTED

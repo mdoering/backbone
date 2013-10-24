@@ -1,5 +1,4 @@
-Pseudoamauroascus Cano, M. Solé & Guarro GENUS
-=======
+# Pseudoamauroascus Cano, M. Solé & Guarro GENUS
 
 #### Status
 ACCEPTED

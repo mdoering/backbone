@@ -1,5 +1,4 @@
-Ramalina fragilis Aptroot & Bungartz SPECIES
-=======
+# Ramalina fragilis Aptroot & Bungartz SPECIES
 
 #### Status
 ACCEPTED

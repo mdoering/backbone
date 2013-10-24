@@ -1,5 +1,4 @@
-Coniosporium extremorum Syd. & P. Syd. SPECIES
-=======
+# Coniosporium extremorum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium sericeum (Alb. & Schwein.) Lorton SPECIES
-=======
+# Belonidium sericeum (Alb. & Schwein.) Lorton SPECIES
 
 #### Status
 ACCEPTED

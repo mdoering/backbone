@@ -1,5 +1,4 @@
-Uredo stylidii McAlpine SPECIES
-=======
+# Uredo stylidii McAlpine SPECIES
 
 #### Status
 ACCEPTED

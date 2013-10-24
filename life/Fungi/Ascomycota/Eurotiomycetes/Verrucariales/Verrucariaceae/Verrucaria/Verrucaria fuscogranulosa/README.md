@@ -1,5 +1,4 @@
-Verrucaria fuscogranulosa Werner SPECIES
-=======
+# Verrucaria fuscogranulosa Werner SPECIES
 
 #### Status
 ACCEPTED

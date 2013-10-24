@@ -1,5 +1,4 @@
-Biatora stiriaca A. Massal. SPECIES
-=======
+# Biatora stiriaca A. Massal. SPECIES
 
 #### Status
 ACCEPTED

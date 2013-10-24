@@ -1,17 +1,16 @@
-Drosophila caput-medusae var. depauperata (J.E. Lange) Kühner & Romagn. VARIETY
-=======
+# Psathyrella caput-medusae (Fr.) Konrad & Maubl., 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 14: 127 (1949)
 
 #### Original name
-Stropharia caput-medusae var. depauperata J.E. Lange
+Agaricus caput-medusae Fr., 1838
 
 ### Remarks
 null

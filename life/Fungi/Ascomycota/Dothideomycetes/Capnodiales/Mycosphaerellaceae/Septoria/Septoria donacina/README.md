@@ -1,5 +1,4 @@
-Septoria donacina Sacc. SPECIES
-=======
+# Septoria donacina Sacc. SPECIES
 
 #### Status
 ACCEPTED

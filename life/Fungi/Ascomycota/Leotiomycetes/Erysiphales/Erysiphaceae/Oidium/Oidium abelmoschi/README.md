@@ -1,14 +1,13 @@
-Acrosporium abelmoschi (Thüm.) Subram., 1971 SPECIES
-=======
+# Oidium abelmoschi Thüm., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyphomycetes (New Delhi) 838 (1971)
+Grevillea 6(no. 39): 102 (1878)
 
 #### Original name
 Oidium abelmoschi Thüm., 1878

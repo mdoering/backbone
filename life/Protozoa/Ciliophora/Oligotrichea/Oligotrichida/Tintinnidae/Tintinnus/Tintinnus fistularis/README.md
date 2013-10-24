@@ -1,5 +1,4 @@
-Tintinnus fistularis SPECIES
-=======
+# Tintinnus fistularis SPECIES
 
 #### Status
 ACCEPTED

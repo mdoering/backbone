@@ -1,5 +1,4 @@
-Lewia M.E. Barr & E.G. Simmons, 1986 GENUS
-=======
+# Lewia M.E. Barr & E.G. Simmons, 1986 GENUS
 
 #### Status
 ACCEPTED

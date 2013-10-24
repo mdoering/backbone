@@ -1,5 +1,4 @@
-Anoplophrya pelmatoida Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya pelmatoida Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

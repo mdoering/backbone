@@ -1,5 +1,4 @@
-Mycena granulosa Henn. SPECIES
-=======
+# Mycena granulosa Henn. SPECIES
 
 #### Status
 ACCEPTED

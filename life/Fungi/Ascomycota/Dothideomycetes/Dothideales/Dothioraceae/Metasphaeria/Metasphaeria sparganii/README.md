@@ -1,5 +1,4 @@
-Metasphaeria sparganii Fautrey SPECIES
-=======
+# Metasphaeria sparganii Fautrey SPECIES
 
 #### Status
 ACCEPTED

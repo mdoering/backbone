@@ -1,5 +1,4 @@
-Biatora hypophaea Printzen & Tønsberg SPECIES
-=======
+# Biatora hypophaea Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

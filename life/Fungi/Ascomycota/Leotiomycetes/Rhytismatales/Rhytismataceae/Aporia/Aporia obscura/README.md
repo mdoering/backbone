@@ -1,5 +1,4 @@
-Aporia obscura Duby SPECIES
-=======
+# Aporia obscura Duby SPECIES
 
 #### Status
 ACCEPTED

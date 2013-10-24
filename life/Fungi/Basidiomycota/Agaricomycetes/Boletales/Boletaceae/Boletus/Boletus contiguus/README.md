@@ -1,5 +1,4 @@
-Boletus contiguus var. contiguus VARIETY
-=======
+# Boletus contiguus Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 544 (1801)
+null
 
 #### Original name
-Boletus contiguus var. contiguus
+Boletus contiguus Alb. & Schwein.
 
 ### Remarks
 null

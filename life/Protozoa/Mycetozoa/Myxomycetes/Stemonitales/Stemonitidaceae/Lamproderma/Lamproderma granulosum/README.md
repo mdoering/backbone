@@ -1,5 +1,4 @@
-Lamproderma granulosum H. Neubert, Nowotny & Schnittler, 1990 SPECIES
-=======
+# Lamproderma granulosum H. Neubert, Nowotny & Schnittler, 1990 SPECIES
 
 #### Status
 ACCEPTED

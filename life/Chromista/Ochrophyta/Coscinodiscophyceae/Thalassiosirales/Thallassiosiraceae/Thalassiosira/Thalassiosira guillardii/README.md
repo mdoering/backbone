@@ -1,5 +1,4 @@
-Thalassiosira guillardii Hasle SPECIES
-=======
+# Thalassiosira guillardii Hasle SPECIES
 
 #### Status
 ACCEPTED

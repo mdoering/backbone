@@ -1,5 +1,4 @@
-Septoria ischaemi Ikeno SPECIES
-=======
+# Septoria ischaemi Ikeno SPECIES
 
 #### Status
 ACCEPTED

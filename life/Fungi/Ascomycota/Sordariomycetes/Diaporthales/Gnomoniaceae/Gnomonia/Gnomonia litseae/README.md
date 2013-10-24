@@ -1,5 +1,4 @@
-Gnomonia litseae Syd. SPECIES
-=======
+# Gnomonia litseae Syd. SPECIES
 
 #### Status
 ACCEPTED

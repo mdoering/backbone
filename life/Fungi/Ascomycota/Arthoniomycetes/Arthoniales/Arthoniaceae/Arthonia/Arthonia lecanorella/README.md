@@ -1,5 +1,4 @@
-Arthonia lecanorella Vain. SPECIES
-=======
+# Arthonia lecanorella Vain. SPECIES
 
 #### Status
 ACCEPTED

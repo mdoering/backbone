@@ -1,5 +1,4 @@
-Natronobacterium gregoryi Tindall et al., 1984 SPECIES
-=======
+# Natronobacterium gregoryi Tindall et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

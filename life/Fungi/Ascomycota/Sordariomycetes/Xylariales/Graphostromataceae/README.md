@@ -1,5 +1,4 @@
-Graphostromataceae M.E. Barr, J.D. Rogers & Y.M. Ju FAMILY
-=======
+# Graphostromataceae M.E. Barr, J.D. Rogers & Y.M. Ju FAMILY
 
 #### Status
 ACCEPTED

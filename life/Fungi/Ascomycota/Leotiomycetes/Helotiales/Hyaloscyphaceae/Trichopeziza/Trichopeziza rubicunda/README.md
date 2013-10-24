@@ -1,5 +1,4 @@
-Trichopeziza rubicunda (Saut.) Sacc. SPECIES
-=======
+# Trichopeziza rubicunda (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

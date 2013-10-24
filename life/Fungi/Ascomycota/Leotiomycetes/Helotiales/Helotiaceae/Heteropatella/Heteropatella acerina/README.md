@@ -1,5 +1,4 @@
-Heteropatella acerina Fairm. SPECIES
-=======
+# Heteropatella acerina Fairm. SPECIES
 
 #### Status
 ACCEPTED

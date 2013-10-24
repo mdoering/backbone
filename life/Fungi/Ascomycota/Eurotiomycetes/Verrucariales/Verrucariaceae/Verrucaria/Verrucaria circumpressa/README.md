@@ -1,5 +1,4 @@
-Verrucaria circumpressa Nyl. SPECIES
-=======
+# Verrucaria circumpressa Nyl. SPECIES
 
 #### Status
 ACCEPTED

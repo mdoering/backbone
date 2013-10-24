@@ -1,17 +1,16 @@
-Tremella unicolor f. unicolor FORM
-=======
+# Tremella unicolor Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 218 (1822)
 
 #### Original name
-null
+Tremella unicolor Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xylaria partita Lloyd SPECIES
-=======
+# Xylaria partita Lloyd SPECIES
 
 #### Status
 ACCEPTED

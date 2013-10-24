@@ -1,5 +1,4 @@
-Tuberculina dorsteniae Speg. SPECIES
-=======
+# Tuberculina dorsteniae Speg. SPECIES
 
 #### Status
 ACCEPTED

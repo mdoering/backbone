@@ -1,5 +1,4 @@
-Prillieuxina ilicicola (Hansf.) Arx SPECIES
-=======
+# Prillieuxina ilicicola (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

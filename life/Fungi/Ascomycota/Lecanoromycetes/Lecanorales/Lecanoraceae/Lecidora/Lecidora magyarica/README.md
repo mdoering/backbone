@@ -1,5 +1,4 @@
-Lecidora magyarica (Szatala) Motyka SPECIES
-=======
+# Lecidora magyarica (Szatala) Motyka SPECIES
 
 #### Status
 ACCEPTED

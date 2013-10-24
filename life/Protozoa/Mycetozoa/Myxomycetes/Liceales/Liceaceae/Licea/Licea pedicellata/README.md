@@ -1,14 +1,13 @@
-Pleiomorpha pedicellata (H.C. Gilbert) Dhillon SPECIES
-=======
+# Licea pedicellata (H.C. Gilbert) H.C. Gilbert, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 30(1-6): 4 (1978)
+in Martin, Mycologia 34(6): 702 (1942)
 
 #### Original name
 Hymenobolina pedicellata H.C. Gilbert, 1934

@@ -1,5 +1,4 @@
-Hemiaulus polycystinorum var. dissonus J. Fenner VARIETY
-=======
+# Hemiaulus polycystinorum SPECIES
 
 #### Status
 ACCEPTED

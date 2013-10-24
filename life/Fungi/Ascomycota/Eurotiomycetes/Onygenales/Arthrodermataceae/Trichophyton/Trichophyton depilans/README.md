@@ -1,5 +1,4 @@
-Trichophyton depilans Mégnin SPECIES
-=======
+# Trichophyton depilans Mégnin SPECIES
 
 #### Status
 ACCEPTED

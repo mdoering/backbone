@@ -1,5 +1,4 @@
-Trichopeziza platani (Pers.) Sacc. SPECIES
-=======
+# Trichopeziza platani (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

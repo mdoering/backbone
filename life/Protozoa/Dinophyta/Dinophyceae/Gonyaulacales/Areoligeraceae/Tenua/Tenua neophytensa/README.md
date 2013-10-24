@@ -1,5 +1,4 @@
-Tenua neophytensa N.S. Ionnides, G.N. Stavrinos & C. Downie SPECIES
-=======
+# Tenua neophytensa N.S. Ionnides, G.N. Stavrinos & C. Downie SPECIES
 
 #### Status
 ACCEPTED

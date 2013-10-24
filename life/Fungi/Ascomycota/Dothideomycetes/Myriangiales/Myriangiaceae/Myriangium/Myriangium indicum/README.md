@@ -1,5 +1,4 @@
-Myriangium indicum Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Myriangium indicum Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

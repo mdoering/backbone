@@ -1,5 +1,4 @@
-Sorosporium dimeriae B.V. Patil & Thirum. SPECIES
-=======
+# Sorosporium dimeriae B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

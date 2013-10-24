@@ -1,5 +1,4 @@
-Umbilicaria peruviana Llano SPECIES
-=======
+# Umbilicaria peruviana Llano SPECIES
 
 #### Status
 ACCEPTED

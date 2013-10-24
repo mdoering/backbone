@@ -1,5 +1,4 @@
-Puccinia stowardii Har. SPECIES
-=======
+# Puccinia stowardii Har. SPECIES
 
 #### Status
 ACCEPTED

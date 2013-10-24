@@ -1,5 +1,4 @@
-Verrucaria cinerosula (Bagl.) Stizenb. SPECIES
-=======
+# Verrucaria cinerosula (Bagl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

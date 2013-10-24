@@ -1,5 +1,4 @@
-Hypoxylon curvirimum Y.M. Ju, J.D. Rogers & Lodge, 1996 SPECIES
-=======
+# Hypoxylon curvirimum Y.M. Ju, J.D. Rogers & Lodge, 1996 SPECIES
 
 #### Status
 ACCEPTED

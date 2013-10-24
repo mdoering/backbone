@@ -1,5 +1,4 @@
-Collybia rigidipes R. Schulz SPECIES
-=======
+# Collybia rigidipes R. Schulz SPECIES
 
 #### Status
 ACCEPTED

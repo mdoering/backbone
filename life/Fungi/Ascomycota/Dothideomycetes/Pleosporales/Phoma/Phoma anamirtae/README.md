@@ -1,5 +1,4 @@
-Phoma anamirtae Tassi SPECIES
-=======
+# Phoma anamirtae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces araucanus Dietel & Neger SPECIES
-=======
+# Uromyces araucanus Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

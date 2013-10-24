@@ -1,5 +1,4 @@
-Alternaria martindalei (Ellis & G. Martin) P. Joly SPECIES
-=======
+# Alternaria martindalei (Ellis & G. Martin) P. Joly SPECIES
 
 #### Status
 ACCEPTED

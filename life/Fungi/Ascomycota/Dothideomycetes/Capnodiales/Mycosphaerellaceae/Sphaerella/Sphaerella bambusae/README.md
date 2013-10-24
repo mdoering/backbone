@@ -1,5 +1,4 @@
-Sphaerella bambusae var. bambusae VARIETY
-=======
+# Sphaerella bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 24(2): 867 (1928)
 
 #### Original name
-Sphaerella bambusae var. bambusae
+Sphaerella bambusae Pat.
 
 ### Remarks
 null

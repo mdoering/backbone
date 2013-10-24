@@ -1,5 +1,4 @@
-Allotricha curdsi Shi, Warren & Song, 2002 SPECIES
-=======
+# Allotricha curdsi Shi, Warren & Song, 2002 SPECIES
 
 #### Status
 ACCEPTED

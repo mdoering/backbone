@@ -1,5 +1,4 @@
-Pyrenula japonica Kurok. SPECIES
-=======
+# Pyrenula japonica Kurok. SPECIES
 
 #### Status
 ACCEPTED

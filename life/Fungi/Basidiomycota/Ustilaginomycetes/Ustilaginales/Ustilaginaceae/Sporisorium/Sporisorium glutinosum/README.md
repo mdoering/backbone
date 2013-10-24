@@ -1,5 +1,4 @@
-Sporisorium glutinosum (Zundel) Vánky SPECIES
-=======
+# Sporisorium glutinosum (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

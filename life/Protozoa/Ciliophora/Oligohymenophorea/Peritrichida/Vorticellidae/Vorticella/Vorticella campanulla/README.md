@@ -1,5 +1,4 @@
-Vorticella campanulla SPECIES
-=======
+# Vorticella campanulla SPECIES
 
 #### Status
 ACCEPTED

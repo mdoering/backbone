@@ -1,5 +1,4 @@
-Abedinium Loeblich & A.R.Loeblich, 1966 GENUS
-=======
+# Abedinium Loeblich & A.R.Loeblich, 1966 GENUS
 
 #### Status
 ACCEPTED

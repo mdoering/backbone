@@ -1,5 +1,4 @@
-Actinomadura napierensis Cook et al., 2005 SPECIES
-=======
+# Actinomadura napierensis Cook et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

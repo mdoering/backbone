@@ -1,5 +1,4 @@
-Tretosestrum J.A. Wilcoxon, 1972 GENUS
-=======
+# Tretosestrum J.A. Wilcoxon, 1972 GENUS
 
 #### Status
 ACCEPTED

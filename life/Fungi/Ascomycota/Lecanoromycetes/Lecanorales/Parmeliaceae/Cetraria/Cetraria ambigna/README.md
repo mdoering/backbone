@@ -1,5 +1,4 @@
-Cetraria ambigna C. Bab. SPECIES
-=======
+# Cetraria ambigna C. Bab. SPECIES
 
 #### Status
 ACCEPTED

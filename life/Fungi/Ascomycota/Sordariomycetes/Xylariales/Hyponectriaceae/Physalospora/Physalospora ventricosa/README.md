@@ -1,5 +1,4 @@
-Physalospora ventricosa (Durieu & Mont.) Cooke SPECIES
-=======
+# Physalospora ventricosa (Durieu & Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripterocalpis Haeckel, 1881 GENUS
-=======
+# Tripterocalpis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

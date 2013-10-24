@@ -1,5 +1,4 @@
-Bryantella GENUS
-=======
+# Bryantella GENUS
 
 #### Status
 ACCEPTED

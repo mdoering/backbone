@@ -1,5 +1,4 @@
-Cantharellus appalachiensis R.H. Petersen SPECIES
-=======
+# Cantharellus appalachiensis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

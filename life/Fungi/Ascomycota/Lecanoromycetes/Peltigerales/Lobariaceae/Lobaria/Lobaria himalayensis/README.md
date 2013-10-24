@@ -1,5 +1,4 @@
-Lobaria himalayensis Upreti & Divakar SPECIES
-=======
+# Lobaria himalayensis Upreti & Divakar SPECIES
 
 #### Status
 ACCEPTED

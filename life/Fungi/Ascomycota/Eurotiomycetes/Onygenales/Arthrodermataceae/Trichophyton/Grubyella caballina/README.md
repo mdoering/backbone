@@ -1,5 +1,4 @@
-Grubyella caballina (Neveu-Lem.) Brumpt SPECIES
-=======
+# Grubyella caballina (Neveu-Lem.) Brumpt SPECIES
 
 #### Status
 ACCEPTED

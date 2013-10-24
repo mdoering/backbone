@@ -1,17 +1,16 @@
-Cercospora sphaeranthii M.S. Patil SPECIES
-=======
+# Cercospora sphaeranthi M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 28(3): 342 (1975)
 
 #### Original name
-Cercospora sphaeranthii M.S. Patil
+Cercospora sphaeranthi M.S. Patil
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptothrix mobilis Spring et al., 1997 SPECIES
-=======
+# Leptothrix mobilis Spring et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

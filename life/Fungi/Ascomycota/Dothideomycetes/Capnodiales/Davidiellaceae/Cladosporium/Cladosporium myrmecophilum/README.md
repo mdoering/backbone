@@ -1,5 +1,4 @@
-Cladosporium myrmecophilum (Fresen.) Bayl. Ell. SPECIES
-=======
+# Cladosporium myrmecophilum (Fresen.) Bayl. Ell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula constellata Berk. & Broome SPECIES
-=======
+# Hymenula constellata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

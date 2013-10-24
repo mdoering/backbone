@@ -1,5 +1,4 @@
-Agaricus cepaeoides Ces. SPECIES
-=======
+# Agaricus cepaeoides Ces. SPECIES
 
 #### Status
 ACCEPTED

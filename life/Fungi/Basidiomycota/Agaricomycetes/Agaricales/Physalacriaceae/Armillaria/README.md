@@ -1,17 +1,16 @@
-Rhizomorpha Roth GENUS
-=======
+# Armillaria (E.M. Fries) Staude, 1857 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ann. Bot. (Usteri) 1: 7 (1791)
+null
 
 #### Original name
-Rhizomorpha Roth
+null
 
 ### Remarks
 null

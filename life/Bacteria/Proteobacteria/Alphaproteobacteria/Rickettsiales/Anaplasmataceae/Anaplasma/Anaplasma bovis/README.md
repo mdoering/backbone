@@ -1,11 +1,10 @@
-Kurlovia bovis Zhdanov, 1953 SPECIES
-=======
+# Anaplasma bovis (ex Donatien & Lestoquard, 1936) Dumler et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

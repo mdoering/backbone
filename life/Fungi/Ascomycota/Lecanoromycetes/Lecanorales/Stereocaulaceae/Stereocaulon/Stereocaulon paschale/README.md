@@ -1,17 +1,16 @@
-Stereocaulon paschale subsp. paschale SUBSPECIES
-=======
+# Stereocaulon paschale (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutschl. Fl. (Erlangen), Zweiter Theil (1796)
 
 #### Original name
-Stereocaulon paschale subsp. paschale
+Stereocaulon paschale (L.) Hoffm.
 
 ### Remarks
 null

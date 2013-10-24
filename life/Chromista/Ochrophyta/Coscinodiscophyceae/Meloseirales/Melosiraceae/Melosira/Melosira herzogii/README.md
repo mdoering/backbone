@@ -1,5 +1,4 @@
-Melosira herzogii Lemm. SPECIES
-=======
+# Melosira herzogii Lemm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea endochroa (Vain.) Zahlbr. SPECIES
-=======
+# Usnea endochroa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

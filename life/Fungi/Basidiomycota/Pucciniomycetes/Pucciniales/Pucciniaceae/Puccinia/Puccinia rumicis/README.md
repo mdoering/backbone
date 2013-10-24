@@ -1,5 +1,4 @@
-Puccinia rumicis Lasch SPECIES
-=======
+# Puccinia rumicis Lasch SPECIES
 
 #### Status
 ACCEPTED

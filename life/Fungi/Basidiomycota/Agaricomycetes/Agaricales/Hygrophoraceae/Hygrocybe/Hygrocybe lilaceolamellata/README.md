@@ -1,14 +1,13 @@
-Hygrophorus lilaceolamellatus G. Stev., 1963 SPECIES
-=======
+# Hygrocybe lilaceolamellata (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 16(3): 378 (1963)
+N. Z. Jl Bot. 9(3): 434 (1971)
 
 #### Original name
 Hygrophorus lilaceolamellatus G. Stev., 1963

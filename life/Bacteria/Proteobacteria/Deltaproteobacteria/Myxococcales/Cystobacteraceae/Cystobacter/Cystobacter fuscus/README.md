@@ -1,5 +1,4 @@
-Cystobacter fuscus Schroeter, 1886 (Approved Lists, 1980) SPECIES
-=======
+# Cystobacter fuscus Schroeter, 1886 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

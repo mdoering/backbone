@@ -1,5 +1,4 @@
-Torula perpusilla Sacc. SPECIES
-=======
+# Torula perpusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

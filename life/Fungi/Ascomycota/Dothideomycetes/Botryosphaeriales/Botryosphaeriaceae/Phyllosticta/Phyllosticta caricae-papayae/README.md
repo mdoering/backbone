@@ -1,5 +1,4 @@
-Phyllosticta caricae-papayae Allesch. SPECIES
-=======
+# Phyllosticta caricae-papayae Allesch. SPECIES
 
 #### Status
 ACCEPTED

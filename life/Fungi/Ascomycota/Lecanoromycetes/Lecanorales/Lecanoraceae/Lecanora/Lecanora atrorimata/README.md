@@ -1,5 +1,4 @@
-Lecanora atrorimata Nyl. SPECIES
-=======
+# Lecanora atrorimata Nyl. SPECIES
 
 #### Status
 ACCEPTED

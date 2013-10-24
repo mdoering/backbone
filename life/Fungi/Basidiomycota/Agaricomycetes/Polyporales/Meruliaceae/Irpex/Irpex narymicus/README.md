@@ -1,5 +1,4 @@
-Irpex narymicus (Pilát) Saaren. & Kotir. SPECIES
-=======
+# Irpex narymicus (Pilát) Saaren. & Kotir. SPECIES
 
 #### Status
 ACCEPTED

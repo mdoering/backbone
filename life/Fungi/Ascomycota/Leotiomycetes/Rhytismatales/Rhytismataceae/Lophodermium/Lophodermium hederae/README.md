@@ -1,5 +1,4 @@
-Lophodermium hederae Dennis & Spooner SPECIES
-=======
+# Lophodermium hederae Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

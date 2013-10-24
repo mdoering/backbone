@@ -1,5 +1,4 @@
-Sphaeria labecula Lév. SPECIES
-=======
+# Sphaeria labecula Lév. SPECIES
 
 #### Status
 ACCEPTED

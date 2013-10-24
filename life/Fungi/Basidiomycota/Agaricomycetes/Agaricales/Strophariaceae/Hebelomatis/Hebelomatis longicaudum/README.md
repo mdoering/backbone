@@ -1,5 +1,4 @@
-Hebelomatis longicaudum (Fr.) Locq. SPECIES
-=======
+# Hebelomatis longicaudum (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavaria pyxidata var. asperospora S.G.M. Fawc. VARIETY
-=======
+# Artomyces pyxidatus (Pers.) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Roy. Soc. Victoria, N. S. 51(1): 15 (1938)
+Biblthca Mycol. 85: 399 (1982)
 
 #### Original name
-Clavaria pyxidata var. asperospora S.G.M. Fawc.
+Clavaria pyxidata Pers., 1794
 
 ### Remarks
 null

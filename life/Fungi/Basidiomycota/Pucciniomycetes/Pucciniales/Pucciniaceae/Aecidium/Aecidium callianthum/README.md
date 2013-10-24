@@ -1,5 +1,4 @@
-Aecidium callianthum Syd. SPECIES
-=======
+# Aecidium callianthum Syd. SPECIES
 
 #### Status
 ACCEPTED

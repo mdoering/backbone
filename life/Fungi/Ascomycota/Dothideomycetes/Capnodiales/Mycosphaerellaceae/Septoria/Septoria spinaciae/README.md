@@ -1,5 +1,4 @@
-Septoria spinaciae Westend. SPECIES
-=======
+# Septoria spinaciae Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucodiaporthe juglandis Lar.N. Vassiljeva, 2008 SPECIES
-=======
+# Leucodiaporthe juglandis Lar.N. Vassiljeva, 2008 SPECIES
 
 #### Status
 ACCEPTED

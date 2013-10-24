@@ -1,14 +1,13 @@
-Geotrichum scaettae (Cavara) Maire, 1938 SPECIES
-=======
+# Mauginiella scaettae Cavara, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Maire & Werner, Mém. Soc. Sci. Nat. Maroc. 45: 133 (1938)
+Atti Reale Accad. Naz. Lincei, Mem. Cl. Sci. Fis. , ser. 6 1-2: 65 (1925)
 
 #### Original name
 Mauginiella scaettae Cavara, 1925

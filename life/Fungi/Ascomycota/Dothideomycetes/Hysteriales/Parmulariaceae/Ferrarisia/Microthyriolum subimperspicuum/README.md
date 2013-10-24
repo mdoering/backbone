@@ -1,5 +1,4 @@
-Microthyriolum subimperspicuum Speg. SPECIES
-=======
+# Microthyriolum subimperspicuum Speg. SPECIES
 
 #### Status
 ACCEPTED

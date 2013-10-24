@@ -1,5 +1,4 @@
-Glaeseria mira (Glaser, 1912) SPECIES
-=======
+# Glaeseria mira (Glaser, 1912) SPECIES
 
 #### Status
 ACCEPTED

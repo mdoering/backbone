@@ -1,5 +1,4 @@
-Mitrula pistillaris (Berk. & Cooke) Sacc. SPECIES
-=======
+# Mitrula pistillaris (Berk. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

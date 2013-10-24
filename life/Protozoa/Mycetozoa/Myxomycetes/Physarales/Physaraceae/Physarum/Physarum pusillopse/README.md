@@ -1,5 +1,4 @@
-Physarum pusillopse D.W. Mitch. & Nann.-Bremek., 1977 SPECIES
-=======
+# Physarum pusillopse D.W. Mitch. & Nann.-Bremek., 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bathelium oligosporum (Mont. & Bosch) Trevis. SPECIES
-=======
+# Bathelium oligosporum (Mont. & Bosch) Trevis. SPECIES
 
 #### Status
 ACCEPTED

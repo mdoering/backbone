@@ -1,5 +1,4 @@
-Polyporales Gäum. ORDER
-=======
+# Polyporales Gäum. ORDER
 
 #### Status
 ACCEPTED

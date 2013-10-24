@@ -1,5 +1,4 @@
-Kockovaella cucphuongensis D.T. Luong, M. Takash., Ty, Dung & Nakase, 2000 SPECIES
-=======
+# Kockovaella cucphuongensis D.T. Luong, M. Takash., Ty, Dung & Nakase, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyreniella geranii (Cooke & Massee) Theiss. SPECIES
-=======
+# Pyreniella geranii (Cooke & Massee) Theiss. SPECIES
 
 #### Status
 ACCEPTED

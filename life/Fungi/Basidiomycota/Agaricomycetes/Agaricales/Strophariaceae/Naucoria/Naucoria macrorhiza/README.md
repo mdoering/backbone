@@ -1,5 +1,4 @@
-Naucoria macrorhiza Speg. SPECIES
-=======
+# Naucoria macrorhiza Speg. SPECIES
 
 #### Status
 ACCEPTED

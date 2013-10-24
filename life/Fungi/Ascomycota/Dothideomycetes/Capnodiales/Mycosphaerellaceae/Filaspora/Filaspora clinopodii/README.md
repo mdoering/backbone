@@ -1,5 +1,4 @@
-Filaspora clinopodii (Allesch.) Kuntze SPECIES
-=======
+# Filaspora clinopodii (Allesch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

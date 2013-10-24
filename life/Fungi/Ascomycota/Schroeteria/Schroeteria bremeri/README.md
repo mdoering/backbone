@@ -1,5 +1,4 @@
-Schroeteria bremeri Petr., 1953 SPECIES
-=======
+# Schroeteria bremeri Petr., 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haplosporella araliae Ellis & Everh. SPECIES
-=======
+# Aplosporella araliae Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1894 46: 362 (1894)
 
 #### Original name
-Haplosporella araliae Ellis & Everh.
+Aplosporella araliae Ellis & Everh.
 
 ### Remarks
 null

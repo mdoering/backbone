@@ -1,5 +1,4 @@
-Agaricus aeneus Pers. SPECIES
-=======
+# Agaricus aeneus Pers. SPECIES
 
 #### Status
 ACCEPTED

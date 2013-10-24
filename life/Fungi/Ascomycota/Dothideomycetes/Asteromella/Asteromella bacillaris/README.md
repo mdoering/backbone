@@ -1,5 +1,4 @@
-Asteromella bacillaris Pass. & Beltr. SPECIES
-=======
+# Asteromella bacillaris Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

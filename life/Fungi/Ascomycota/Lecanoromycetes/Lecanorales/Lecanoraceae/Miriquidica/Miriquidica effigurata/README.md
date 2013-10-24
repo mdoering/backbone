@@ -1,5 +1,4 @@
-Miriquidica effigurata Fryday & Coppins SPECIES
-=======
+# Miriquidica effigurata Fryday & Coppins SPECIES
 
 #### Status
 ACCEPTED

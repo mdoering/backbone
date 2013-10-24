@@ -1,5 +1,4 @@
-Lecidea phaeomela Nyl. SPECIES
-=======
+# Lecidea phaeomela Nyl. SPECIES
 
 #### Status
 ACCEPTED

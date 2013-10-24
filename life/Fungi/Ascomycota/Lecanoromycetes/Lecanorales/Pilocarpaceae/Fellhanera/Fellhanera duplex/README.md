@@ -1,5 +1,4 @@
-Fellhanera duplex Coppins & Aptroot SPECIES
-=======
+# Fellhanera duplex Coppins & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium circumdans Lohde SPECIES
-=======
+# Pythium circumdans Lohde SPECIES
 
 #### Status
 ACCEPTED

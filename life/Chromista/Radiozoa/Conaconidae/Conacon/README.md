@@ -1,5 +1,4 @@
-Conacon Schewiakoff, 1926 GENUS
-=======
+# Conacon Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

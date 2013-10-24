@@ -1,17 +1,16 @@
-Porina rufula var. rufula VARIETY
-=======
+# Porina rufula (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Acta Soc. Fauna Flora fenn. 7(2): 227 (1890)
 
 #### Original name
-Porina rufula var. rufula
+null
 
 ### Remarks
 null

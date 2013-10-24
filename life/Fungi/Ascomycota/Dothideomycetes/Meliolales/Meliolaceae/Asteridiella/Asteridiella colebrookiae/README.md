@@ -1,5 +1,4 @@
-Asteridiella colebrookiae Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Asteridiella colebrookiae Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucostoma GENUS
-=======
+# Leucostoma GENUS
 
 #### Status
 ACCEPTED

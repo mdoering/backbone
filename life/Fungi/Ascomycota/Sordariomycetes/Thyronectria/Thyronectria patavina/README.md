@@ -1,5 +1,4 @@
-Thyronectria patavina Sacc. SPECIES
-=======
+# Thyronectria patavina Sacc. SPECIES
 
 #### Status
 ACCEPTED

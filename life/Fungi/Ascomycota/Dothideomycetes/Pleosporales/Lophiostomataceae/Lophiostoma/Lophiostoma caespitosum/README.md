@@ -1,5 +1,4 @@
-Lophiostoma caespitosum Fuckel SPECIES
-=======
+# Lophiostoma caespitosum Fuckel SPECIES
 
 #### Status
 ACCEPTED

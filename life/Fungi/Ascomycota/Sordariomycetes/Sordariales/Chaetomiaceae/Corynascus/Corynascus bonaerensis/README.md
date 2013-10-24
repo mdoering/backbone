@@ -1,5 +1,4 @@
-Corynascus bonaerensis ined. SPECIES
-=======
+# Corynascus bonaerensis ined. SPECIES
 
 #### Status
 ACCEPTED

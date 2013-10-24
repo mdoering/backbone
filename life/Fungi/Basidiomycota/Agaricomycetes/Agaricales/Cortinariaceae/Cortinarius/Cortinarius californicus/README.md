@@ -1,5 +1,4 @@
-Cortinarius californicus A.H. Sm. SPECIES
-=======
+# Cortinarius californicus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

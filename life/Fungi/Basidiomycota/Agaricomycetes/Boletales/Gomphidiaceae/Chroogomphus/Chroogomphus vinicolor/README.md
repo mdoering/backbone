@@ -1,17 +1,16 @@
-Chroogomphus vinicolor subsp. vinicolor (Peck) O.K. Mill. SUBSPECIES
-=======
+# Chroogomphus vinicolor (Peck) O.K. Mill., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Chroogomphus vinicolor subsp. vinicolor (Peck) O.K. Mill.
+Gomphidius vinicolor Peck, 1898
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Salmonella enterica subsp. bongori (Le Minor et al., 1985) Le Minor & Popoff, 1987 SUBSPECIES
-=======
+# Salmonella bongori (Le Minor et al., 1985) Reeves et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

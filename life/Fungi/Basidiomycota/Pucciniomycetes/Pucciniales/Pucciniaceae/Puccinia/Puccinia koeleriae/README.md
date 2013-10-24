@@ -1,5 +1,4 @@
-Puccinia koeleriae Arthur SPECIES
-=======
+# Puccinia koeleriae Arthur SPECIES
 
 #### Status
 ACCEPTED

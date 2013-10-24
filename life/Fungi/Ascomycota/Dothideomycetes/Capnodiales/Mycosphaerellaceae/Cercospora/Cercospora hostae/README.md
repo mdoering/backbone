@@ -1,5 +1,4 @@
-Cercospora hostae Hori SPECIES
-=======
+# Cercospora hostae Hori SPECIES
 
 #### Status
 ACCEPTED

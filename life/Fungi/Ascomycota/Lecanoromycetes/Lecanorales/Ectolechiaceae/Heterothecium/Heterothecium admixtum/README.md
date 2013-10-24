@@ -1,5 +1,4 @@
-Heterothecium admixtum (Nyl.) A. Massal. SPECIES
-=======
+# Heterothecium admixtum (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

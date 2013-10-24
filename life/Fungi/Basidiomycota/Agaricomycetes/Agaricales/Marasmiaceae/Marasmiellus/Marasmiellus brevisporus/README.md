@@ -1,5 +1,4 @@
-Marasmiellus brevisporus (Maire) Contu SPECIES
-=======
+# Marasmiellus brevisporus (Maire) Contu SPECIES
 
 #### Status
 ACCEPTED

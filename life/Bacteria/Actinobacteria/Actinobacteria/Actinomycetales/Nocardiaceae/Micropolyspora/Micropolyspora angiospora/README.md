@@ -1,5 +1,4 @@
-Micropolyspora angiospora Zhukova et al., 1968 SPECIES
-=======
+# Micropolyspora angiospora Zhukova et al., 1968 SPECIES
 
 #### Status
 ACCEPTED

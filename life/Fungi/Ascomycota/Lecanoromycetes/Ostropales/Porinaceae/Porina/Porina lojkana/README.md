@@ -1,5 +1,4 @@
-Porina lojkana (Poetsch ex Arnold) Zahlbr. SPECIES
-=======
+# Porina lojkana (Poetsch ex Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

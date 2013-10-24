@@ -1,5 +1,4 @@
-Heppia foveolata (Jatta) Zahlbr. SPECIES
-=======
+# Heppia foveolata (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

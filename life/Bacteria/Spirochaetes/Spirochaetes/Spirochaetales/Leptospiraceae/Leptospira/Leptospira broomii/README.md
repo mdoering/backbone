@@ -1,5 +1,4 @@
-Leptospira broomii Levett et al., 2006 SPECIES
-=======
+# Leptospira broomii Levett et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

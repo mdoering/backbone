@@ -1,5 +1,4 @@
-Microsphaeropsis ulmicola (Sacc.) Aa, 2002 SPECIES
-=======
+# Microsphaeropsis ulmicola (Sacc.) Aa, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptochaete andicola Raimondi ex Herrera SPECIES
-=======
+# Cryptochaete andicola Raimondi ex Herrera SPECIES
 
 #### Status
 ACCEPTED

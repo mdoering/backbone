@@ -1,5 +1,4 @@
-Filosporella sympodialis Descals SPECIES
-=======
+# Filosporella sympodialis Descals SPECIES
 
 #### Status
 ACCEPTED

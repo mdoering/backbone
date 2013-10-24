@@ -1,17 +1,16 @@
-Geaster trichifer Rick SPECIES
-=======
+# Geastrum trichifer Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Lloyd, Mycol. Notes (Cincinnati) 2(25): 315 (1907)
 
 #### Original name
-Geaster trichifer Rick
+Geastrum trichifer Rick
 
 ### Remarks
 null

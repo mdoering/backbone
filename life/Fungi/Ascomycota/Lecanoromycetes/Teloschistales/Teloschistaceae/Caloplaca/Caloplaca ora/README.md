@@ -1,5 +1,4 @@
-Caloplaca ora Poelt & Nimis SPECIES
-=======
+# Caloplaca ora Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

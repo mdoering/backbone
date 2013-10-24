@@ -1,5 +1,4 @@
-Sticta orbicularis (A. Braun ex Meyen & Flot.) Hue SPECIES
-=======
+# Sticta orbicularis (A. Braun ex Meyen & Flot.) Hue SPECIES
 
 #### Status
 ACCEPTED

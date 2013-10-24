@@ -1,5 +1,4 @@
-Phyllachora pterospermi Syd. & P. Syd., 1917 SPECIES
-=======
+# Phyllachora pterospermi Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Azorhizobium doebereinerae Moreira et al., 2006 SPECIES
-=======
+# Azorhizobium doebereinerae Moreira et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

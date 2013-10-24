@@ -1,5 +1,4 @@
-Calotrichopsis granulosa Henssen SPECIES
-=======
+# Calotrichopsis granulosa Henssen SPECIES
 
 #### Status
 ACCEPTED

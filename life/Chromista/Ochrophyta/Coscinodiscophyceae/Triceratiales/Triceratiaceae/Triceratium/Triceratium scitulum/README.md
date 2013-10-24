@@ -1,5 +1,4 @@
-Triceratium scitulum Brightw., 1853 SPECIES
-=======
+# Triceratium scitulum Brightw., 1853 SPECIES
 
 #### Status
 ACCEPTED

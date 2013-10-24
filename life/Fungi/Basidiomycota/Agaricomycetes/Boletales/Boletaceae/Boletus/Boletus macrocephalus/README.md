@@ -1,5 +1,4 @@
-Boletus macrocephalus Leuba SPECIES
-=======
+# Boletus macrocephalus Leuba SPECIES
 
 #### Status
 ACCEPTED

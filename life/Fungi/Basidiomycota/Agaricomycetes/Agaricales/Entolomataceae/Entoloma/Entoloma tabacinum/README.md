@@ -1,5 +1,4 @@
-Entoloma tabacinum (Cleland) E. Horak SPECIES
-=======
+# Entoloma tabacinum (Cleland) E. Horak SPECIES
 
 #### Status
 ACCEPTED

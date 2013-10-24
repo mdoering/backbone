@@ -1,5 +1,4 @@
-Pseudocercospora paraguayensis (Tak. Kobay.) Crous SPECIES
-=======
+# Pseudocercospora paraguayensis (Tak. Kobay.) Crous SPECIES
 
 #### Status
 ACCEPTED

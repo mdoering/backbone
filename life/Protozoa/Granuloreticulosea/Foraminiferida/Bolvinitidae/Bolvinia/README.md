@@ -1,5 +1,4 @@
-Bolvinia GENUS
-=======
+# Bolvinia GENUS
 
 #### Status
 ACCEPTED

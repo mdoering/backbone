@@ -1,5 +1,4 @@
-Hymenoscyphus javanicus (Henn.) Dennis SPECIES
-=======
+# Hymenoscyphus javanicus (Henn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

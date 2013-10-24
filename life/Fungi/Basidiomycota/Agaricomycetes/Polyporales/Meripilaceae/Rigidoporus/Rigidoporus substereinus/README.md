@@ -1,5 +1,4 @@
-Rigidoporus substereinus Murrill SPECIES
-=======
+# Rigidoporus substereinus Murrill SPECIES
 
 #### Status
 ACCEPTED

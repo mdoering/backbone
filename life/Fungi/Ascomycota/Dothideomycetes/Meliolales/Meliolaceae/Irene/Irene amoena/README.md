@@ -1,5 +1,4 @@
-Irene amoena Syd. SPECIES
-=======
+# Irene amoena Syd. SPECIES
 
 #### Status
 ACCEPTED

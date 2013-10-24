@@ -1,5 +1,4 @@
-Sphaeronaema negundinis Ellis & Everh. SPECIES
-=======
+# Sphaeronaema negundinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

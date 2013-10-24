@@ -1,5 +1,4 @@
-Hypholoma storea (Fr.) P. Karst. SPECIES
-=======
+# Hypholoma storea (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

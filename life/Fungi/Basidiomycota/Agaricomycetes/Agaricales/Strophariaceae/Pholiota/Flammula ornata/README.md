@@ -1,5 +1,4 @@
-Flammula ornata Massee SPECIES
-=======
+# Flammula ornata Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tolyposporium senegalense Speg., 1914 SPECIES
-=======
+# Moesziomyces bullatus (J. Schröt.) Vánky, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals Mus. Nac. Hist. Nat. , Buenos Aires 26: 118 (1914)
+Bot. Notiser 130: 131-136 (1977)
 
 #### Original name
-Tolyposporium senegalense Speg., 1914
+Sorosporium bullatum J. Schröt., 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterella tenuissima (Petch) Sacc. & Trotter SPECIES
-=======
+# Asterella tenuissima (Petch) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

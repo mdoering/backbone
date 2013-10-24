@@ -1,14 +1,13 @@
-Hymenogaster reticulatus G. Cunn., 1934 SPECIES
-=======
+# Timgrovea reticulata (G. Cunn.) Bougher & Castellano, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 59: 171 (1934)
+Mycologia 85(2): 289 (1993)
 
 #### Original name
 Hymenogaster reticulatus G. Cunn., 1934

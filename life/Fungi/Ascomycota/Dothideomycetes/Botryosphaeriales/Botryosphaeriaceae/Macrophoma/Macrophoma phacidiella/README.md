@@ -1,5 +1,4 @@
-Macrophoma phacidiella (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma phacidiella (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chthonoblastus lyngbyei Kützing SPECIES
-=======
+# Chthonoblastus lyngbyei Kützing SPECIES
 
 #### Status
 ACCEPTED

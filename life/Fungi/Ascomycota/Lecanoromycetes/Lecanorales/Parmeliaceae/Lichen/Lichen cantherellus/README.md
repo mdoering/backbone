@@ -1,5 +1,4 @@
-Lichen cantherellus Ach. SPECIES
-=======
+# Lichen cantherellus Ach. SPECIES
 
 #### Status
 ACCEPTED

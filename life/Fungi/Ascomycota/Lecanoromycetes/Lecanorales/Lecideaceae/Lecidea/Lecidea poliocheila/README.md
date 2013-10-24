@@ -1,5 +1,4 @@
-Lecidea poliocheila Vain. SPECIES
-=======
+# Lecidea poliocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

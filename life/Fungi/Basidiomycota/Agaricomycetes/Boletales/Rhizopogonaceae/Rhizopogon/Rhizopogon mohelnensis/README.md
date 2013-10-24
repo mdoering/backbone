@@ -1,5 +1,4 @@
-Rhizopogon mohelnensis Velen. SPECIES
-=======
+# Rhizopogon mohelnensis Velen. SPECIES
 
 #### Status
 ACCEPTED

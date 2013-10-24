@@ -1,17 +1,16 @@
-Phytophthora erythroseptica var. pisi Bywater & Hickman VARIETY
-=======
+# Phytophthora erythroseptica Pethybr., 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scientific Proc. R. Dublin Soc. , N. S. 13(no. 35): 529-565 (1913)
 
 #### Original name
-Phytophthora erythroseptica var. pisi Bywater & Hickman
+Phytophthora erythroseptica Pethybr., 1913
 
 ### Remarks
 null

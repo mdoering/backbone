@@ -1,5 +1,4 @@
-Gymnopus polygrammus (Mont.) J.L. Mata SPECIES
-=======
+# Gymnopus polygrammus (Mont.) J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

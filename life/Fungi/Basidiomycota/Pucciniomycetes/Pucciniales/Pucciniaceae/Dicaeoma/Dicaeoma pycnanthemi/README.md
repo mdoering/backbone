@@ -1,5 +1,4 @@
-Dicaeoma pycnanthemi (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma pycnanthemi (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

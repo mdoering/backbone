@@ -1,5 +1,4 @@
-Sphaerella cedrelae Speg. SPECIES
-=======
+# Sphaerella cedrelae Speg. SPECIES
 
 #### Status
 ACCEPTED

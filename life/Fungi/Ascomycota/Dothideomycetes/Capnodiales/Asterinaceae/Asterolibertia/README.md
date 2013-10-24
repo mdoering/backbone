@@ -1,5 +1,4 @@
-Asterolibertia G. Arnaud GENUS
-=======
+# Asterolibertia G. Arnaud GENUS
 
 #### Status
 ACCEPTED

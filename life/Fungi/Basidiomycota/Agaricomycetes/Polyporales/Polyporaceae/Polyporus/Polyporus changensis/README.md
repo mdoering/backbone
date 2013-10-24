@@ -1,5 +1,4 @@
-Polyporus changensis Rostr. SPECIES
-=======
+# Polyporus changensis Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis coccotricha Sacc. SPECIES
-=======
+# Botrytis coccotricha Sacc. SPECIES
 
 #### Status
 ACCEPTED

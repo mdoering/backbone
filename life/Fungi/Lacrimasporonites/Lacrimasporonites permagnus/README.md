@@ -1,5 +1,4 @@
-Lacrimasporonites permagnus M.G. Parsons & G. Norris SPECIES
-=======
+# Lacrimasporonites permagnus M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

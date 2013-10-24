@@ -1,5 +1,4 @@
-Coelocystis Nägeli, 1849 GENUS
-=======
+# Coelocystis Nägeli, 1849 GENUS
 
 #### Status
 SYNONYM

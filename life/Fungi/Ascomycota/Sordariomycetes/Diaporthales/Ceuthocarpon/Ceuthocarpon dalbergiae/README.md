@@ -1,5 +1,4 @@
-Ceuthocarpon dalbergiae Rehm SPECIES
-=======
+# Ceuthocarpon dalbergiae Rehm SPECIES
 
 #### Status
 ACCEPTED

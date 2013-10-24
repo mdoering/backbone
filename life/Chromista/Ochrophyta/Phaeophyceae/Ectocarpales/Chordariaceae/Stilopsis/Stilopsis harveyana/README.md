@@ -1,5 +1,4 @@
-Stilopsis harveyana Kylin SPECIES
-=======
+# Stilopsis harveyana Kylin SPECIES
 
 #### Status
 ACCEPTED

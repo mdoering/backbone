@@ -1,5 +1,4 @@
-Uropolystigma atrotestaceum Maubl., 1920 SPECIES
-=======
+# Uropolystigma atrotestaceum Maubl., 1920 SPECIES
 
 #### Status
 ACCEPTED

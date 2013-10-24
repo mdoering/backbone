@@ -1,5 +1,4 @@
-Lyngbya taylorii F.E. Drouet & J.C. Strickland SPECIES
-=======
+# Lyngbya taylorii F.E. Drouet & J.C. Strickland SPECIES
 
 #### Status
 ACCEPTED

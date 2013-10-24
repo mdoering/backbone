@@ -1,5 +1,4 @@
-Cercospora diantherae Ellis & Kellerm. SPECIES
-=======
+# Cercospora diantherae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

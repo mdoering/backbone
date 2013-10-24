@@ -1,5 +1,4 @@
-Lecidea magna Lynge SPECIES
-=======
+# Lecidea magna Lynge SPECIES
 
 #### Status
 ACCEPTED

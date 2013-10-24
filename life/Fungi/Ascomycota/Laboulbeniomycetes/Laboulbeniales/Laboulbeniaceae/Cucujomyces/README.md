@@ -1,5 +1,4 @@
-Cucujomyces Speg. GENUS
-=======
+# Cucujomyces Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinoplaca atromuralis Lücking SPECIES
-=======
+# Echinoplaca atromuralis Lücking SPECIES
 
 #### Status
 ACCEPTED

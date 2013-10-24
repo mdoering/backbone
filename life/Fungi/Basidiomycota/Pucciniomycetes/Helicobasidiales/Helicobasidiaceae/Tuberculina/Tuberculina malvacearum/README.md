@@ -1,5 +1,4 @@
-Tuberculina malvacearum Speg. SPECIES
-=======
+# Tuberculina malvacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

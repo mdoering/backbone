@@ -1,5 +1,4 @@
-Hypomyces subaurantius Heinr.-Norm. SPECIES
-=======
+# Hypomyces subaurantius Heinr.-Norm. SPECIES
 
 #### Status
 ACCEPTED

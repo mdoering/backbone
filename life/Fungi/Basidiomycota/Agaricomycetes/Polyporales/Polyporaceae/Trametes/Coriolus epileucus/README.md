@@ -1,5 +1,4 @@
-Coriolus epileucus (Fr.) Bondartsev SPECIES
-=======
+# Coriolus epileucus (Fr.) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

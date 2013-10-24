@@ -1,5 +1,4 @@
-Cephaloascus albidus Kurtzman, 1977 SPECIES
-=======
+# Cephaloascus albidus Kurtzman, 1977 SPECIES
 
 #### Status
 ACCEPTED

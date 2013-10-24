@@ -1,5 +1,4 @@
-Stephanodiscus rugosus J. Sieminska & D. Chudybowa SPECIES
-=======
+# Stephanodiscus rugosus J. Sieminska & D. Chudybowa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora blumeae (Thüm.) Deighton SPECIES
-=======
+# Pseudocercospora blumeae (Thüm.) Deighton SPECIES
 
 #### Status
 ACCEPTED

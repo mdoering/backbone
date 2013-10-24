@@ -1,5 +1,4 @@
-Russula brunneofloccosa Buyck SPECIES
-=======
+# Russula brunneofloccosa Buyck SPECIES
 
 #### Status
 ACCEPTED

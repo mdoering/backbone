@@ -1,8 +1,7 @@
-Stentor amthystinus Leidy, 1880 SPECIES
-=======
+# Stentor amethystinus Leidy, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

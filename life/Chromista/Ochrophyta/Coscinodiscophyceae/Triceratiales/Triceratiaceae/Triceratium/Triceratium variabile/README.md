@@ -1,5 +1,4 @@
-Triceratium variabile Brightw. SPECIES
-=======
+# Triceratium variabile Brightw. SPECIES
 
 #### Status
 ACCEPTED

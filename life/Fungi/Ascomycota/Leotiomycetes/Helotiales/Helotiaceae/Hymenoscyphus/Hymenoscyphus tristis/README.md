@@ -1,5 +1,4 @@
-Hymenoscyphus tristis (Sacc.) S.E. Carp. SPECIES
-=======
+# Hymenoscyphus tristis (Sacc.) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

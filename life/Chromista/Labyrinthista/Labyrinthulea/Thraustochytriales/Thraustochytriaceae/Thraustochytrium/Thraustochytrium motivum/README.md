@@ -1,5 +1,4 @@
-Thraustochytrium motivum S. Goldst., 1963 SPECIES
-=======
+# Thraustochytrium motivum S. Goldst., 1963 SPECIES
 
 #### Status
 ACCEPTED

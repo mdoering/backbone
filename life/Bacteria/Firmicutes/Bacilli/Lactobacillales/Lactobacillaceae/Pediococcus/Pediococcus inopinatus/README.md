@@ -1,5 +1,4 @@
-Pediococcus inopinatus Back, 1988 SPECIES
-=======
+# Pediococcus inopinatus Back, 1988 SPECIES
 
 #### Status
 ACCEPTED

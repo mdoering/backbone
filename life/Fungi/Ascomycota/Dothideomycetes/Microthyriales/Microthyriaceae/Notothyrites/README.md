@@ -1,5 +1,4 @@
-Notothyrites Cookson GENUS
-=======
+# Notothyrites Cookson GENUS
 
 #### Status
 ACCEPTED

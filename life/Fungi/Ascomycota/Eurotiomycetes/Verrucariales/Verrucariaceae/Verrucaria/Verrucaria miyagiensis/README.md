@@ -1,5 +1,4 @@
-Verrucaria miyagiensis H. Harada SPECIES
-=======
+# Verrucaria miyagiensis H. Harada SPECIES
 
 #### Status
 ACCEPTED

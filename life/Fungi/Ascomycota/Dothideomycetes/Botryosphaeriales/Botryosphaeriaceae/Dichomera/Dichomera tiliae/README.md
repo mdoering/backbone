@@ -1,5 +1,4 @@
-Dichomera tiliae (Therry) Sacc. SPECIES
-=======
+# Dichomera tiliae (Therry) Sacc. SPECIES
 
 #### Status
 ACCEPTED

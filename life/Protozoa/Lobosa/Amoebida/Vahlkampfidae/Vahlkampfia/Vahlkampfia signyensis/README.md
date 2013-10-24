@@ -1,5 +1,4 @@
-Vahlkampfia signyensis Garstecki & De Jonckheere, 2005 SPECIES
-=======
+# Vahlkampfia signyensis Garstecki & De Jonckheere, 2005 SPECIES
 
 #### Status
 ACCEPTED

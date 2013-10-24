@@ -1,5 +1,4 @@
-Pterula penicillata (Bull.) Fr. SPECIES
-=======
+# Pterula penicillata (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

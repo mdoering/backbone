@@ -1,14 +1,13 @@
-Physma dalmaticum (Körb.) Zahlbr. SPECIES
-=======
+# Staurolemma dalmaticum Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wien 17: (1867)
 
 #### Original name
 Staurolemma dalmaticum Körb.

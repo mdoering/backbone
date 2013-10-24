@@ -1,5 +1,4 @@
-Dermabacter hominis Jones & Collins, 1989 SPECIES
-=======
+# Dermabacter hominis Jones & Collins, 1989 SPECIES
 
 #### Status
 ACCEPTED

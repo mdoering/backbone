@@ -1,5 +1,4 @@
-Peziza boltonii Quél., 1878 SPECIES
-=======
+# Peziza boltonii Quél., 1878 SPECIES
 
 #### Status
 ACCEPTED

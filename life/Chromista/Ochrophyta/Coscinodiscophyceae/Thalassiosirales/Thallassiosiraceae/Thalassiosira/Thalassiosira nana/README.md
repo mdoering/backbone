@@ -1,5 +1,4 @@
-Thalassiosira nana SPECIES
-=======
+# Thalassiosira nana SPECIES
 
 #### Status
 ACCEPTED

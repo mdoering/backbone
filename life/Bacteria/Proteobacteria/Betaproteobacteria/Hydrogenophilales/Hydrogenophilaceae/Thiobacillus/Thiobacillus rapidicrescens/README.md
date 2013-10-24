@@ -1,5 +1,4 @@
-Thiobacillus rapidicrescens Katayama-Fujimura et al., 1983 SPECIES
-=======
+# Thiobacillus rapidicrescens Katayama-Fujimura et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Serpula chlorina (Pat.) W.B. Cooke, 1957 SPECIES
-=======
+# Gloeoporus chlorinus (Pat.) Ginns, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49(2): 219 (1957)
+Can. J. Bot. 54(1-2): 125 (1976)
 
 #### Original name
 Merulius chlorinus Pat., 1908

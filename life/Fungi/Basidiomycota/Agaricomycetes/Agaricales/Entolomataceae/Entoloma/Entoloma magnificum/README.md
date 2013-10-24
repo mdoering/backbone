@@ -1,5 +1,4 @@
-Entoloma magnificum (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma magnificum (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

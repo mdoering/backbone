@@ -1,5 +1,4 @@
-Perichaena calongei Lado, D. Wrigley & Estrada, 2009 SPECIES
-=======
+# Perichaena calongei Lado, D. Wrigley & Estrada, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria colleta Stirt. SPECIES
-=======
+# Verrucaria colleta Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma rostellata P. Karst. SPECIES
-=======
+# Phoma rostellata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

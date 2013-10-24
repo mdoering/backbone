@@ -1,5 +1,4 @@
-Exosporium minutum Link SPECIES
-=======
+# Exosporium minutum Link SPECIES
 
 #### Status
 ACCEPTED

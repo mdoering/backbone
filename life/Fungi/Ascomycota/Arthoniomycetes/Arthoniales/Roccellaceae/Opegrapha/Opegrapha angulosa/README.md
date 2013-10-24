@@ -1,5 +1,4 @@
-Opegrapha angulosa Müll. Arg. SPECIES
-=======
+# Opegrapha angulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

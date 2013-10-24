@@ -1,5 +1,4 @@
-Puccinia brachystachyicola I. Hino & Katum. SPECIES
-=======
+# Puccinia brachystachyicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

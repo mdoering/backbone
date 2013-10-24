@@ -1,5 +1,4 @@
-Polyporus mangiferae Lév. SPECIES
-=======
+# Polyporus mangiferae Lév. SPECIES
 
 #### Status
 ACCEPTED

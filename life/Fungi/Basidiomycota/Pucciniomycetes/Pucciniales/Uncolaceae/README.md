@@ -1,5 +1,4 @@
-Uncolaceae Buriticá FAMILY
-=======
+# Uncolaceae Buriticá FAMILY
 
 #### Status
 ACCEPTED

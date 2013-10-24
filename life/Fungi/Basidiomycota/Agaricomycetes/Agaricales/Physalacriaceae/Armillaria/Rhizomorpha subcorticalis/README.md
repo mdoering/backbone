@@ -1,5 +1,4 @@
-Rhizomorpha subcorticalis P. Micheli ex Pers., 1801 SPECIES
-=======
+# Rhizomorpha subcorticalis P. Micheli ex Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED

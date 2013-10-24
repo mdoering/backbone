@@ -1,5 +1,4 @@
-Lophosphaeridium kurnoolii Salujha, Rehman & Arora, 1972 SPECIES
-=======
+# Lophosphaeridium kurnoolii Salujha, Rehman & Arora, 1972 SPECIES
 
 #### Status
 ACCEPTED

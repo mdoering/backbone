@@ -1,5 +1,4 @@
-Absidia cuneospora G.F. Orr & Plunkett, 1959 SPECIES
-=======
+# Absidia cuneospora G.F. Orr & Plunkett, 1959 SPECIES
 
 #### Status
 ACCEPTED

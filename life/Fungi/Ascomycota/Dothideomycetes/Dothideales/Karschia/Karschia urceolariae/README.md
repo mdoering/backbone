@@ -1,5 +1,4 @@
-Karschia urceolariae (Nyl.) Rehm SPECIES
-=======
+# Karschia urceolariae (Nyl.) Rehm SPECIES
 
 #### Status
 ACCEPTED

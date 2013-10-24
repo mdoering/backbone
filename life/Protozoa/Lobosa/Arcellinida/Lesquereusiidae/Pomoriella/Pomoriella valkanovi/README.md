@@ -1,5 +1,4 @@
-Pomoriella valkanovi Golemansky, 1970 SPECIES
-=======
+# Pomoriella valkanovi Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium hypocreoideum Cooke & Massee SPECIES
-=======
+# Fusarium hypocreoideum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

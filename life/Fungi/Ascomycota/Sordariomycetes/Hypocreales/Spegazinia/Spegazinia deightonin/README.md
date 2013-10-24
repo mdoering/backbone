@@ -1,5 +1,4 @@
-Spegazinia deightonin (Hughes) Subramanian SPECIES
-=======
+# Spegazinia deightonin (Hughes) Subramanian SPECIES
 
 #### Status
 ACCEPTED

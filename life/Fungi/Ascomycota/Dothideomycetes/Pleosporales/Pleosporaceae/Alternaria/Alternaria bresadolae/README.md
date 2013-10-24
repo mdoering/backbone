@@ -1,5 +1,4 @@
-Alternaria bresadolae (Parisi) P. Joly SPECIES
-=======
+# Alternaria bresadolae (Parisi) P. Joly SPECIES
 
 #### Status
 ACCEPTED

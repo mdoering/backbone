@@ -1,5 +1,4 @@
-Sporisorium holstii (Henn.) Vánky SPECIES
-=======
+# Sporisorium holstii (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

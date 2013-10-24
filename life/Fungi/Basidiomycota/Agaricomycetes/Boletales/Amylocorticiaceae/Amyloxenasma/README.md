@@ -1,5 +1,4 @@
-Amyloxenasma (Oberw.) Hjortstam & Ryvarden GENUS
-=======
+# Amyloxenasma (Oberw.) Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

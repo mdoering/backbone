@@ -1,5 +1,4 @@
-Aspergillus polychromus De Mello {?} SPECIES
-=======
+# Aspergillus polychromus De Mello {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina costata SPECIES
-=======
+# Bolivina costata SPECIES
 
 #### Status
 ACCEPTED

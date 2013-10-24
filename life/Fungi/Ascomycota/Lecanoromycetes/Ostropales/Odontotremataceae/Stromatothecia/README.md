@@ -1,5 +1,4 @@
-Stromatothecia D.E. Shaw & D. Hawksw. GENUS
-=======
+# Stromatothecia D.E. Shaw & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

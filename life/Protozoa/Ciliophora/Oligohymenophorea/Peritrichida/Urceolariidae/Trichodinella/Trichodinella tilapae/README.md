@@ -1,5 +1,4 @@
-Trichodinella tilapae Duncan, 1977 SPECIES
-=======
+# Trichodinella tilapae Duncan, 1977 SPECIES
 
 #### Status
 ACCEPTED

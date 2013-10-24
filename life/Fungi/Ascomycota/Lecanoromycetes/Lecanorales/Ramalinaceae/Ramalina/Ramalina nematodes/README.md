@@ -1,5 +1,4 @@
-Ramalina nematodes (Nyl.) Krog & Østh. SPECIES
-=======
+# Ramalina nematodes (Nyl.) Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

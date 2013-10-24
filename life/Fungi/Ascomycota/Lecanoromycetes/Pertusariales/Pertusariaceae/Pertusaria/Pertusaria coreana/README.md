@@ -1,5 +1,4 @@
-Pertusaria coreana Räsänen SPECIES
-=======
+# Pertusaria coreana Räsänen SPECIES
 
 #### Status
 ACCEPTED

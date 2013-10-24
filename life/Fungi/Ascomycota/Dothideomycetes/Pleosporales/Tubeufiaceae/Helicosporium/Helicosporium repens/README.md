@@ -1,5 +1,4 @@
-Helicosporium repens (Morgan) Sacc. SPECIES
-=======
+# Helicosporium repens (Morgan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

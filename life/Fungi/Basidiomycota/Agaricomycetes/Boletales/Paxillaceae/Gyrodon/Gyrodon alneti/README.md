@@ -1,5 +1,4 @@
-Gyrodon alneti Lindgr. SPECIES
-=======
+# Gyrodon alneti Lindgr. SPECIES
 
 #### Status
 ACCEPTED

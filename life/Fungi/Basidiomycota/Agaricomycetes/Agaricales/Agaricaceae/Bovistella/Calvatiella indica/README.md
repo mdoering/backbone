@@ -1,17 +1,16 @@
-Calvatiella indicum I.P.S. Thind SPECIES
-=======
+# Calvatiella indica I.P.S. Thind SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 91: 356 (1983)
 
 #### Original name
-Calvatiella indicum I.P.S. Thind
+Calvatiella indica I.P.S. Thind
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sarcographa prorecta (Kremp.) Redinger SPECIES
-=======
+# Sarcographa prorecta (Kremp.) Redinger SPECIES
 
 #### Status
 ACCEPTED

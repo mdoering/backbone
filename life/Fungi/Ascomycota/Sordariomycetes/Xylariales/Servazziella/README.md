@@ -1,5 +1,4 @@
-Servazziella J. Reid & C. Booth GENUS
-=======
+# Servazziella J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

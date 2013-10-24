@@ -1,5 +1,4 @@
-Phomopsis mangrovei K.D. Hyde, 1991 SPECIES
-=======
+# Phomopsis mangrovei K.D. Hyde, 1991 SPECIES
 
 #### Status
 ACCEPTED

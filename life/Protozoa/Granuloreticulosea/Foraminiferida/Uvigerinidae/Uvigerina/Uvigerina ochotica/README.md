@@ -1,5 +1,4 @@
-Uvigerina ochotica Saidova, 1953 SPECIES
-=======
+# Uvigerina ochotica Saidova, 1953 SPECIES
 
 #### Status
 ACCEPTED

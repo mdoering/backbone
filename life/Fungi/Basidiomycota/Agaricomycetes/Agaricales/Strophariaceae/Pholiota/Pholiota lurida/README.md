@@ -1,5 +1,4 @@
-Pholiota lurida A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota lurida A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

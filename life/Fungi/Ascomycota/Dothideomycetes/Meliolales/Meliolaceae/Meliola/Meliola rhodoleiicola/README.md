@@ -1,5 +1,4 @@
-Meliola rhodoleiicola H. Hu SPECIES
-=======
+# Meliola rhodoleiicola H. Hu SPECIES
 
 #### Status
 ACCEPTED

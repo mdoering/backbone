@@ -1,5 +1,4 @@
-Stictis saligna Pers. SPECIES
-=======
+# Stictis saligna Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lucumae F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Puccinia lucumae F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

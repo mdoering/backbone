@@ -1,5 +1,4 @@
-Dicaeoma stephanomeriae (P. Syd. & Syd.) Arthur SPECIES
-=======
+# Dicaeoma stephanomeriae (P. Syd. & Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

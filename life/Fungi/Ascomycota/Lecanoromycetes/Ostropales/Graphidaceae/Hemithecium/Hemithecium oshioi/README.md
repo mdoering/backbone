@@ -1,5 +1,4 @@
-Hemithecium oshioi (M. Nakan.) M. Nakan. & Kashiw. SPECIES
-=======
+# Hemithecium oshioi (M. Nakan.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

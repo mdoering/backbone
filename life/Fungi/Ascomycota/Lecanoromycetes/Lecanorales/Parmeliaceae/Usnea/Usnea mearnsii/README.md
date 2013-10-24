@@ -1,5 +1,4 @@
-Usnea mearnsii (Vain.) Motyka SPECIES
-=======
+# Usnea mearnsii (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

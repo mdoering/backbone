@@ -1,5 +1,4 @@
-Chapsa albomaculata (Sipman) Sipman & Lücking SPECIES
-=======
+# Chapsa albomaculata (Sipman) Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

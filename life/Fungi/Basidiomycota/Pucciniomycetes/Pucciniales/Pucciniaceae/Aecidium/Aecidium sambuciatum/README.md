@@ -1,5 +1,4 @@
-Aecidium sambuciatum Schwein. SPECIES
-=======
+# Aecidium sambuciatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

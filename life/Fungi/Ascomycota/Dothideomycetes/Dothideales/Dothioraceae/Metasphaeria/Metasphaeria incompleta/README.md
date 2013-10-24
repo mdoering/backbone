@@ -1,5 +1,4 @@
-Metasphaeria incompleta Rehm SPECIES
-=======
+# Metasphaeria incompleta Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naevia vincae Fautrey SPECIES
-=======
+# Naevia vincae Fautrey SPECIES
 
 #### Status
 ACCEPTED

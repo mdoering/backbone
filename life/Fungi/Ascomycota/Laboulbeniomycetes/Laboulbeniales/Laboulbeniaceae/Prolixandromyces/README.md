@@ -1,5 +1,4 @@
-Prolixandromyces R.K. Benj. GENUS
-=======
+# Prolixandromyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

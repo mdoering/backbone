@@ -1,5 +1,4 @@
-Microthelia atomaria (DC.) Körb. SPECIES
-=======
+# Microthelia atomaria (DC.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum canumtomentosum H. Engel SPECIES
-=======
+# Leccinum canumtomentosum H. Engel SPECIES
 
 #### Status
 ACCEPTED

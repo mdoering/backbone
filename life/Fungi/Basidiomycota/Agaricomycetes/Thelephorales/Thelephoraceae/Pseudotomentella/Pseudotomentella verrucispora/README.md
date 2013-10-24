@@ -1,5 +1,4 @@
-Pseudotomentella verrucispora (Bourdot & Galzin) Svrcek SPECIES
-=======
+# Pseudotomentella verrucispora (Bourdot & Galzin) Svrcek SPECIES
 
 #### Status
 ACCEPTED

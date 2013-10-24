@@ -1,5 +1,4 @@
-Acytostelium reticulatum Cavender & Vadell, 2000 SPECIES
-=======
+# Acytostelium reticulatum Cavender & Vadell, 2000 SPECIES
 
 #### Status
 ACCEPTED

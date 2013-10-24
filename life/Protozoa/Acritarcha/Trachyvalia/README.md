@@ -1,5 +1,4 @@
-Trachyvalia Yan, 1995 GENUS
-=======
+# Trachyvalia Yan, 1995 GENUS
 
 #### Status
 ACCEPTED

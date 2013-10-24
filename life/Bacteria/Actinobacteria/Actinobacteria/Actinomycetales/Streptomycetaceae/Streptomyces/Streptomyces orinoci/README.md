@@ -1,8 +1,7 @@
-Streptoverticillium orinoci Cassinelli et al., 1967 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces orinoci (Cassinelli et al., 1967) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Ustilago macrochloae Pat., 1906 SPECIES
-=======
+# Tranzscheliella macrochloae (Pat.) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 3 (2003)
 
 #### Original name
 Ustilago macrochloae Pat., 1906

@@ -1,5 +1,4 @@
-Diplodia auerswaldii Bäumler SPECIES
-=======
+# Diplodia auerswaldii Bäumler SPECIES
 
 #### Status
 ACCEPTED

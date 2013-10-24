@@ -1,5 +1,4 @@
-Lasiosphaeria crustacea P. Karst. SPECIES
-=======
+# Lasiosphaeria crustacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

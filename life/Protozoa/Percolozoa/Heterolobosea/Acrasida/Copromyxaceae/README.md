@@ -1,5 +1,4 @@
-Copromyxaceae L.S. Olive & Stoian. FAMILY
-=======
+# Copromyxaceae L.S. Olive & Stoian. FAMILY
 
 #### Status
 ACCEPTED

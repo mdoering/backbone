@@ -1,5 +1,4 @@
-Sappinia pedata P.A. Dang. SPECIES
-=======
+# Sappinia pedata P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

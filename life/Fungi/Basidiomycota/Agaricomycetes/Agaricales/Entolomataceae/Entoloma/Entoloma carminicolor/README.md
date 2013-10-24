@@ -1,5 +1,4 @@
-Entoloma carminicolor G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma carminicolor G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

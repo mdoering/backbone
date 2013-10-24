@@ -1,5 +1,4 @@
-Lecanora charrieri B. de Lesd. SPECIES
-=======
+# Lecanora charrieri B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

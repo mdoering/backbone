@@ -1,5 +1,4 @@
-Sphaeroforma Jostensen, Sperstad, Johansen & Landfald, 2002 GENUS
-=======
+# Sphaeroforma Jostensen, Sperstad, Johansen & Landfald, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pararuesticyrtium mersinensis SPECIES
-=======
+# Pararuesticyrtium mersinensis SPECIES
 
 #### Status
 ACCEPTED

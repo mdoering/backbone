@@ -1,5 +1,4 @@
-Physalospora hepaticarum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Physalospora hepaticarum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

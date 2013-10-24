@@ -1,5 +1,4 @@
-Pertusaria limosa Zahlbr. SPECIES
-=======
+# Pertusaria limosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

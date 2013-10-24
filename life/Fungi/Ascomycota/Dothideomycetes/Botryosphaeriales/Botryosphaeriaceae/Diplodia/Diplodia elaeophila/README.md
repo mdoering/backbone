@@ -1,5 +1,4 @@
-Diplodia elaeophila Sacc. & Roum. SPECIES
-=======
+# Diplodia elaeophila Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

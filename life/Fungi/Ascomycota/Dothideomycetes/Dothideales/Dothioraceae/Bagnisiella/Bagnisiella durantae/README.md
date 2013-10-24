@@ -1,5 +1,4 @@
-Bagnisiella durantae A. Pande, 2008 SPECIES
-=======
+# Bagnisiella durantae A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

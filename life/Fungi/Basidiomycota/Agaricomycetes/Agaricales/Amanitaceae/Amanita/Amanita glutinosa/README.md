@@ -1,5 +1,4 @@
-Amanita glutinosa Velen. SPECIES
-=======
+# Amanita glutinosa Velen. SPECIES
 
 #### Status
 ACCEPTED

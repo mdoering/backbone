@@ -1,5 +1,4 @@
-Youngiomyces Y.J. Yao GENUS
-=======
+# Youngiomyces Y.J. Yao GENUS
 
 #### Status
 ACCEPTED

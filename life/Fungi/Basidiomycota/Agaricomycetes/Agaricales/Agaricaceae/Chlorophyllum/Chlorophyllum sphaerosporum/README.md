@@ -1,5 +1,4 @@
-Chlorophyllum sphaerosporum Z.W. Ge & Zhu L. Yang, 2006 SPECIES
-=======
+# Chlorophyllum sphaerosporum Z.W. Ge & Zhu L. Yang, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heteracantha Mast, 1910 GENUS
-=======
+# Anomalacantha Loeblich & Tappan, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ergeb. Tiefsee-Exp. , 19 (4), 159-161.
+Proc. Biol. Soc. Wash. 74: 223.
 
 #### Original name
-null
+Heteracantha Mast, 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Buellia thomae (Tuck.) Imshaug SPECIES
-=======
+# Buellia thomae (Tuck.) Imshaug SPECIES
 
 #### Status
 ACCEPTED

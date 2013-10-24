@@ -1,5 +1,4 @@
-Gloeosporium fagaricola Speg. SPECIES
-=======
+# Gloeosporium fagaricola Speg. SPECIES
 
 #### Status
 ACCEPTED

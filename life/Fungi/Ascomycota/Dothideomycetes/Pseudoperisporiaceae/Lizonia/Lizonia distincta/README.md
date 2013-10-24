@@ -1,5 +1,4 @@
-Lizonia distincta P. Karst. SPECIES
-=======
+# Lizonia distincta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

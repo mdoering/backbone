@@ -1,5 +1,4 @@
-Grandinia dubiosa Speg. SPECIES
-=======
+# Grandinia dubiosa Speg. SPECIES
 
 #### Status
 ACCEPTED

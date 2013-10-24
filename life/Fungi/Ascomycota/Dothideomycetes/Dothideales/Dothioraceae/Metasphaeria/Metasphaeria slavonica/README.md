@@ -1,5 +1,4 @@
-Metasphaeria slavonica Schulzer & Sacc. SPECIES
-=======
+# Metasphaeria slavonica Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

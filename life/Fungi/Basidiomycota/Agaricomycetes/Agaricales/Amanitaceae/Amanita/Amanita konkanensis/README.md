@@ -1,5 +1,4 @@
-Amanita konkanensis P.G. Sathe & S.M. Kulk. SPECIES
-=======
+# Amanita konkanensis P.G. Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharopolyspora hirsuta subsp. hirsuta Lacey & Goodfellow, 1975 SUBSPECIES
-=======
+# Saccharopolyspora hirsuta Lacey & Goodfellow, 1975 SPECIES
 
 #### Status
 ACCEPTED

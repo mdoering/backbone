@@ -1,5 +1,4 @@
-Buzura thibtaria Npv SPECIES
-=======
+# Buzura thibtaria Npv SPECIES
 
 #### Status
 ACCEPTED

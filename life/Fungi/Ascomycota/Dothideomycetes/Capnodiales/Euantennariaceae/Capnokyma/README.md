@@ -1,5 +1,4 @@
-Capnokyma S. Hughes GENUS
-=======
+# Capnokyma S. Hughes GENUS
 
 #### Status
 ACCEPTED

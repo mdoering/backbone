@@ -1,5 +1,4 @@
-Entoloma entolomoides (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma entolomoides (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus parvus Peck SPECIES
-=======
+# Boletus parvus Peck SPECIES
 
 #### Status
 ACCEPTED

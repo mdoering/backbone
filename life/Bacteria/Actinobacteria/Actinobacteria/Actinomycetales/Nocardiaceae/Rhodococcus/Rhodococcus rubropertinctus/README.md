@@ -1,5 +1,4 @@
-Rhodococcus rubropertinctus (Hefferan, 1904) Tsukamura, 1974 SPECIES
-=======
+# Rhodococcus rubropertinctus (Hefferan, 1904) Tsukamura, 1974 SPECIES
 
 #### Status
 ACCEPTED

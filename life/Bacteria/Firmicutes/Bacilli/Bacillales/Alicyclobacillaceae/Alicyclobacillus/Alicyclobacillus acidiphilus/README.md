@@ -1,5 +1,4 @@
-Alicyclobacillus acidiphilus Matsubara et al., 2002 SPECIES
-=======
+# Alicyclobacillus acidiphilus Matsubara et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

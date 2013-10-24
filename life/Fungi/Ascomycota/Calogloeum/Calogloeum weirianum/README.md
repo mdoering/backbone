@@ -1,5 +1,4 @@
-Calogloeum weirianum (Sacc.) Syd. SPECIES
-=======
+# Calogloeum weirianum (Sacc.) Syd. SPECIES
 
 #### Status
 ACCEPTED

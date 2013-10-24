@@ -1,5 +1,4 @@
-Corticifraga chugachiana Zhurb. SPECIES
-=======
+# Corticifraga chugachiana Zhurb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium formosanum (Sawada) Sawada SPECIES
-=======
+# Sorosporium formosanum (Sawada) Sawada SPECIES
 
 #### Status
 ACCEPTED

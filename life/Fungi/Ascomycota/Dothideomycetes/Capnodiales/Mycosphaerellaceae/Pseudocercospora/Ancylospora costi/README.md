@@ -1,5 +1,4 @@
-Ancylospora costi Sawada SPECIES
-=======
+# Ancylospora costi Sawada SPECIES
 
 #### Status
 ACCEPTED

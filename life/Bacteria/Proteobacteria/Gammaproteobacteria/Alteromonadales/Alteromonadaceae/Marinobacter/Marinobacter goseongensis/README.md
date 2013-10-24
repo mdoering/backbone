@@ -1,5 +1,4 @@
-Marinobacter goseongensis Roh, Quan, Nam, Chang, Kim, Rhee, Oh, Jeon, Yoon & Bae, 2008 SPECIES
-=======
+# Marinobacter goseongensis Roh, Quan, Nam, Chang, Kim, Rhee, Oh, Jeon, Yoon & Bae, 2008 SPECIES
 
 #### Status
 ACCEPTED

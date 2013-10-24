@@ -1,17 +1,16 @@
-Ordonia orthobasidium Racib. SPECIES
-=======
+# Ordonia orthobasidion Racib., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 3: (1909)
 
 #### Original name
-Ordonia orthobasidium Racib.
+Ordonia orthobasidion Racib., 1909
 
 ### Remarks
 null

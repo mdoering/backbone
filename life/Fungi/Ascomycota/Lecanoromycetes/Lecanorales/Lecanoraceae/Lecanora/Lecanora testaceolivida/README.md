@@ -1,5 +1,4 @@
-Lecanora testaceolivida Vain. SPECIES
-=======
+# Lecanora testaceolivida Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia amazonica Syd. & P. Syd. SPECIES
-=======
+# Cintractia amazonica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

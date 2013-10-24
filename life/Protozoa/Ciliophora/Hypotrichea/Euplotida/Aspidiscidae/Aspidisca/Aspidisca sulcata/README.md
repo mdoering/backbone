@@ -1,5 +1,4 @@
-Aspidisca sulcata Kahl SPECIES
-=======
+# Aspidisca sulcata Kahl SPECIES
 
 #### Status
 ACCEPTED

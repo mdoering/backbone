@@ -1,5 +1,4 @@
-Mycosphaerella andicola Speg. SPECIES
-=======
+# Mycosphaerella andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

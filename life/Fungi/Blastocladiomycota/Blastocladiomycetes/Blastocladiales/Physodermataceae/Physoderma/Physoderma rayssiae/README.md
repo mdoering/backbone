@@ -1,17 +1,16 @@
-Physoderma rayssi Karling SPECIES
-=======
+# Physoderma rayssiae Karling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 13(1): 60 (1950)
 
 #### Original name
-Physoderma rayssi Karling
+Urophlyctis eryngii Rayss
 
 ### Remarks
 null

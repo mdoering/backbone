@@ -1,5 +1,4 @@
-Menegazzia violascens (Räsänen) Bjerke SPECIES
-=======
+# Menegazzia violascens (Räsänen) Bjerke SPECIES
 
 #### Status
 ACCEPTED

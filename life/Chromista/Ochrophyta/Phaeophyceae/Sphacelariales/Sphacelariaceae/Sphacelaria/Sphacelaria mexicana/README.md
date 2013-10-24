@@ -1,5 +1,4 @@
-Sphacelaria mexicana W.R. Taylor SPECIES
-=======
+# Sphacelaria mexicana W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

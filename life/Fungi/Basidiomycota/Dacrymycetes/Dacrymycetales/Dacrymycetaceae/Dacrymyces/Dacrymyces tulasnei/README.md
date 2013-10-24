@@ -1,5 +1,4 @@
-Dacrymyces tulasnei Neuhoff SPECIES
-=======
+# Dacrymyces tulasnei Neuhoff SPECIES
 
 #### Status
 ACCEPTED

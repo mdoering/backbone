@@ -1,5 +1,4 @@
-Xylaria albicans var. albicans Gray VARIETY
-=======
+# Xylaria albicans Gray SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nat. Arr. Brit. Pl. (London) 1: 511 (1821)
 
 #### Original name
-Xylaria albicans var. albicans Gray
+Xylaria albicans Gray
 
 ### Remarks
 null

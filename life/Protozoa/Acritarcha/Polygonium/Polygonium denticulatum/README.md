@@ -1,5 +1,4 @@
-Polygonium denticulatum (Tongiorgi in Bagnoli, Stouge & Tongiorgi, 1988) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium denticulatum (Tongiorgi in Bagnoli, Stouge & Tongiorgi, 1988) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

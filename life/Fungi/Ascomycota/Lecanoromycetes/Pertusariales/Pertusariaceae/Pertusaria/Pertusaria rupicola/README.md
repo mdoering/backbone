@@ -1,5 +1,4 @@
-Pertusaria rupicola f. rupicola FORM
-=======
+# Pertusaria rupicola (Fr.) Harm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Séanc. Soc. Sci. Nancy, Sér. 2 32: 246 (1898)
 
 #### Original name
-Pertusaria rupicola f. rupicola
+Pertusaria wulfenii var. rupicola Fr.
 
 ### Remarks
 null

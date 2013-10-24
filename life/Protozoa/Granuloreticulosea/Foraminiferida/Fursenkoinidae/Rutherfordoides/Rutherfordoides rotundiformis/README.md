@@ -1,5 +1,4 @@
-Rutherfordoides rotundiformis (McCulloch, 1977) SPECIES
-=======
+# Rutherfordoides rotundiformis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

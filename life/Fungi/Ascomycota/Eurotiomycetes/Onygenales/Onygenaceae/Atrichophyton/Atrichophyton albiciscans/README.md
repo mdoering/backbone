@@ -1,5 +1,4 @@
-Atrichophyton albiciscans (Nieuwenh.) Castell. & Chalm. SPECIES
-=======
+# Atrichophyton albiciscans (Nieuwenh.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

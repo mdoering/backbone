@@ -1,5 +1,4 @@
-Nectria citricola Sawada SPECIES
-=======
+# Nectria citricola Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta retigera f. isidiosa Müll. Arg. FORM
-=======
+# Sticta retigera (Bory) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
-Sticta retigera f. isidiosa Müll. Arg.
+Lichen retiger Bory
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Durietzia (C.W. Dodge) Yoshimura, 1998 GENUS
-=======
+# Durietzia (C.W. Dodge) Yoshimura, 1998 GENUS
 
 #### Status
 ACCEPTED

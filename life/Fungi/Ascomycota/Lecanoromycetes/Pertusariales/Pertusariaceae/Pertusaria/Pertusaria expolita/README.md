@@ -1,5 +1,4 @@
-Pertusaria expolita R.C. Harris SPECIES
-=======
+# Pertusaria expolita R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

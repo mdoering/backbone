@@ -1,5 +1,4 @@
-Comamonas kerstersii Wauters et al., 2003 SPECIES
-=======
+# Comamonas kerstersii Wauters et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

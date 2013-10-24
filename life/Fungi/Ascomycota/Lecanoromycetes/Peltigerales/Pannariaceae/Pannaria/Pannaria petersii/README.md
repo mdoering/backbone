@@ -1,5 +1,4 @@
-Pannaria petersii (Nyl.) Tuck. SPECIES
-=======
+# Pannaria petersii (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

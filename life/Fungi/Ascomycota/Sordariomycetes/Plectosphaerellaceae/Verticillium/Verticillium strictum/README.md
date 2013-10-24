@@ -1,5 +1,4 @@
-Verticillium strictum Sacc. & Marchal SPECIES
-=======
+# Verticillium strictum Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

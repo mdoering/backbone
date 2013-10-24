@@ -1,5 +1,4 @@
-Cyanoporina Groenh. GENUS
-=======
+# Cyanoporina Groenh. GENUS
 
 #### Status
 ACCEPTED

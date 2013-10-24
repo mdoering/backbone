@@ -1,5 +1,4 @@
-Cortinarius albidipes Peck SPECIES
-=======
+# Cortinarius albidipes Peck SPECIES
 
 #### Status
 ACCEPTED

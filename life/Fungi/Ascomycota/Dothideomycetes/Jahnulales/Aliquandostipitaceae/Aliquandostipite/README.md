@@ -1,5 +1,4 @@
-Aliquandostipite Inderb. GENUS
-=======
+# Aliquandostipite Inderb. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea fuscoatrina Hertel & Leuckert SPECIES
-=======
+# Lecidea fuscoatrina Hertel & Leuckert SPECIES
 
 #### Status
 ACCEPTED

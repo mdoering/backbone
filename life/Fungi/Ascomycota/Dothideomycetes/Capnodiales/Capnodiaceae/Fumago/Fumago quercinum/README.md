@@ -1,5 +1,4 @@
-Fumago quercinum Pers. SPECIES
-=======
+# Fumago quercinum Pers. SPECIES
 
 #### Status
 ACCEPTED

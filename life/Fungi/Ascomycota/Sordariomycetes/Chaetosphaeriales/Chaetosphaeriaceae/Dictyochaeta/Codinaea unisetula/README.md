@@ -1,5 +1,4 @@
-Codinaea unisetula Morgan-Jones & E.G. Ingram SPECIES
-=======
+# Codinaea unisetula Morgan-Jones & E.G. Ingram SPECIES
 
 #### Status
 ACCEPTED

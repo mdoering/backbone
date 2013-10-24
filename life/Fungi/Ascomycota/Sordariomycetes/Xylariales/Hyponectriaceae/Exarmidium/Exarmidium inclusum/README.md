@@ -1,14 +1,13 @@
-Phragmonaevia inclusa (Pers.) Höhn., 1919 SPECIES
-=======
+# Exarmidium inclusum (Pers.) Aptroot, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 37: 160 (1919)
+Nova Hedwigia 66(1-2): 140 (1998)
 
 #### Original name
 null

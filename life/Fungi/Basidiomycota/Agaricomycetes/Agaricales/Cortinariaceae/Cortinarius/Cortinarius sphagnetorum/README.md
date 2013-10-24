@@ -1,5 +1,4 @@
-Cortinarius sphagnetorum Bidaud SPECIES
-=======
+# Cortinarius sphagnetorum Bidaud SPECIES
 
 #### Status
 ACCEPTED

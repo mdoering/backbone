@@ -1,5 +1,4 @@
-Puccinia ballotaeflora Long SPECIES
-=======
+# Puccinia ballotaeflora Long SPECIES
 
 #### Status
 ACCEPTED

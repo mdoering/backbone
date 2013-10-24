@@ -1,5 +1,4 @@
-Diatrypella melaena Nitschke SPECIES
-=======
+# Diatrypella melaena Nitschke SPECIES
 
 #### Status
 ACCEPTED

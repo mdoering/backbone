@@ -1,5 +1,4 @@
-Graphium gordoniae Sawada SPECIES
-=======
+# Graphium gordoniae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichus D.E. Ether. GENUS
-=======
+# Stichus D.E. Ether. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacatisphaera Zhou, Brasier & Xue, 2001 GENUS
-=======
+# Bacatisphaera Zhou, Brasier & Xue, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera lilacina Sacc. SPECIES
-=======
+# Niptera lilacina Sacc. SPECIES
 
 #### Status
 ACCEPTED

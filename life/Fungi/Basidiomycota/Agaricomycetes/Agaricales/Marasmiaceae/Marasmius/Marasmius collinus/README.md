@@ -1,14 +1,13 @@
-Agaricus collinus Scop., 1772 SPECIES
-=======
+# Marasmius collinus (Scop.) Singer, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. carniol. (Wien), Edn 2 2: 432 (1772)
+Lloydia 5: 126 (1942)
 
 #### Original name
 Agaricus collinus Scop., 1772

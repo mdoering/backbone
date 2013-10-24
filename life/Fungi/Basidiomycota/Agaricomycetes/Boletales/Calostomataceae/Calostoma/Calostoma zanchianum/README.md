@@ -1,5 +1,4 @@
-Calostoma zanchianum (Rick) Baseia & Calonge SPECIES
-=======
+# Calostoma zanchianum (Rick) Baseia & Calonge SPECIES
 
 #### Status
 ACCEPTED

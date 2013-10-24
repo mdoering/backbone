@@ -1,5 +1,4 @@
-Hygrocybe occidentalis var. occidentalis VARIETY
-=======
+# Hygrocybe occidentalis (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 32(2): 310 (1978)
 
 #### Original name
-Hygrocybe occidentalis var. occidentalis
+Hygrophorus occidentalis A.H. Sm. & Hesler
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clostridium tyrobutyricum van Beynum and Pette, 1935 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium tyrobutyricum van Beynum and Pette, 1935 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

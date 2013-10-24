@@ -1,5 +1,4 @@
-Guignardia bumeliae J.H. Mill. & G.E. Thomps. SPECIES
-=======
+# Guignardia bumeliae J.H. Mill. & G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

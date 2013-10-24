@@ -1,17 +1,16 @@
-Torulopsis pintolopesii var. slooffiae (Uden & Carmo Souza) Mend.-Hagler & Phaff, 1975 VARIETY
-=======
+# Kazachstania telluris (van der Walt) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 4(3): 239 (2003)
 
 #### Original name
-null
+Saccharomyces telluris Van der Walt, 1957
 
 ### Remarks
 null

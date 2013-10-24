@@ -1,5 +1,4 @@
-Cercospora siegesbeckiae Katsuki SPECIES
-=======
+# Cercospora siegesbeckiae Katsuki SPECIES
 
 #### Status
 ACCEPTED

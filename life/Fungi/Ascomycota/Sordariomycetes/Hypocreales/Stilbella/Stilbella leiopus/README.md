@@ -1,5 +1,4 @@
-Stilbella leiopus (Ehrenb.) Lindau SPECIES
-=======
+# Stilbella leiopus (Ehrenb.) Lindau SPECIES
 
 #### Status
 ACCEPTED

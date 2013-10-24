@@ -1,5 +1,4 @@
-Hyaloscypha carnosula Velen. SPECIES
-=======
+# Hyaloscypha carnosula Velen. SPECIES
 
 #### Status
 ACCEPTED

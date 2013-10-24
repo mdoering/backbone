@@ -1,5 +1,4 @@
-Cyclotella cyclopuncta Håk. & J.R.Carter SPECIES
-=======
+# Cyclotella cyclopuncta Håk. & J.R.Carter SPECIES
 
 #### Status
 ACCEPTED

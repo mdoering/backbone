@@ -1,5 +1,4 @@
-Golovinomyces simplex (V.P. Heluta) V.P. Heluta SPECIES
-=======
+# Golovinomyces simplex (V.P. Heluta) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

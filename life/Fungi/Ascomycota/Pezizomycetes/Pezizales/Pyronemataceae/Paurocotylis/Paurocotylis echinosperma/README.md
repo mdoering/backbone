@@ -1,5 +1,4 @@
-Paurocotylis echinosperma Cooke SPECIES
-=======
+# Paurocotylis echinosperma Cooke SPECIES
 
 #### Status
 ACCEPTED

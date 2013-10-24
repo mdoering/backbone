@@ -1,5 +1,4 @@
-Crinipellis gracilis Singer SPECIES
-=======
+# Crinipellis gracilis Singer SPECIES
 
 #### Status
 ACCEPTED

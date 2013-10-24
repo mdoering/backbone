@@ -1,17 +1,16 @@
-Synsporium Preuss GENUS
-=======
+# Stachybotrys Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 32: 88 (1849)
+Icon. fung. (Prague) 1: 21 (1837)
 
 #### Original name
-Synsporium Preuss
+Stachybotrys Corda
 
 ### Remarks
 null

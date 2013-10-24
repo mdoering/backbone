@@ -1,5 +1,4 @@
-Heppia ahaggariana Hue SPECIES
-=======
+# Heppia ahaggariana Hue SPECIES
 
 #### Status
 ACCEPTED

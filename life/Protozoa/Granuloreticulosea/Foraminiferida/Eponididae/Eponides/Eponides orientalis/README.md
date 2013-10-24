@@ -1,5 +1,4 @@
-Eponides orientalis Asano, 1937 SPECIES
-=======
+# Eponides orientalis Asano, 1937 SPECIES
 
 #### Status
 ACCEPTED

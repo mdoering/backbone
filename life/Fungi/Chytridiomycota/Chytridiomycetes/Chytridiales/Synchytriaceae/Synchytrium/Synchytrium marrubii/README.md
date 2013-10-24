@@ -1,5 +1,4 @@
-Synchytrium marrubii G. Tobler SPECIES
-=======
+# Synchytrium marrubii G. Tobler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia dectyliza SPECIES
-=======
+# Anaptychia dectyliza SPECIES
 
 #### Status
 ACCEPTED

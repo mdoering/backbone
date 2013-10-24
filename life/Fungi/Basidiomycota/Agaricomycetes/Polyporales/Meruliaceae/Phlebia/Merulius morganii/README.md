@@ -1,5 +1,4 @@
-Merulius morganii (Peck) Kuntze SPECIES
-=======
+# Merulius morganii (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

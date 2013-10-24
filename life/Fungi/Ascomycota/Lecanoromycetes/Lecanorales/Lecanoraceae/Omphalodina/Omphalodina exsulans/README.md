@@ -1,5 +1,4 @@
-Omphalodina exsulans (Th. Fr.) C.W. Dodge SPECIES
-=======
+# Omphalodina exsulans (Th. Fr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Digitatispora lignicola E.B.G. Jones, 1986 SPECIES
-=======
+# Digitatispora lignicola E.B.G. Jones, 1986 SPECIES
 
 #### Status
 ACCEPTED

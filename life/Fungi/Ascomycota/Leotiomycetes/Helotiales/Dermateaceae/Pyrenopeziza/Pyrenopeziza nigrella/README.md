@@ -1,5 +1,4 @@
-Pyrenopeziza nigrella Fuckel SPECIES
-=======
+# Pyrenopeziza nigrella Fuckel SPECIES
 
 #### Status
 ACCEPTED

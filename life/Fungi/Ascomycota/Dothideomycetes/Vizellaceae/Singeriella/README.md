@@ -1,5 +1,4 @@
-Singeriella GENUS
-=======
+# Singeriella GENUS
 
 #### Status
 ACCEPTED

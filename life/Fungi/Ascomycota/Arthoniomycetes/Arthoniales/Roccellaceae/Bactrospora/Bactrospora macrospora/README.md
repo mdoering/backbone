@@ -1,5 +1,4 @@
-Bactrospora macrospora R. C. Harris SPECIES
-=======
+# Bactrospora macrospora R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

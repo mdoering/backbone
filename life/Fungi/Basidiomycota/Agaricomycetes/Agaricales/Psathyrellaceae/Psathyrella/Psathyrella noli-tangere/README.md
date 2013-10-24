@@ -1,17 +1,16 @@
-Psathyrella noli-tangere var. noli-tangere VARIETY
-=======
+# Psathyrella noli-tangere (Fr.) A. Pearson & Dennis, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 31: 184 (1948)
 
 #### Original name
-Psathyrella noli-tangere var. noli-tangere
+Agaricus noli-tangere Fr., 1838
 
 ### Remarks
 null

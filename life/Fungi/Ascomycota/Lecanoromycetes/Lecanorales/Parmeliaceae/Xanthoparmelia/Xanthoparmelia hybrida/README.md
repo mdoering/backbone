@@ -1,5 +1,4 @@
-Xanthoparmelia hybrida Hale SPECIES
-=======
+# Xanthoparmelia hybrida Hale SPECIES
 
 #### Status
 ACCEPTED

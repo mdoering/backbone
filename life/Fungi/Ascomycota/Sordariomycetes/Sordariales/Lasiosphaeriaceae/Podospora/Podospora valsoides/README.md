@@ -1,5 +1,4 @@
-Podospora valsoides (Peck) Niessl SPECIES
-=======
+# Podospora valsoides (Peck) Niessl SPECIES
 
 #### Status
 ACCEPTED

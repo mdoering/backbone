@@ -1,5 +1,4 @@
-Uredo clematidis Thüm. SPECIES
-=======
+# Uredo clematidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

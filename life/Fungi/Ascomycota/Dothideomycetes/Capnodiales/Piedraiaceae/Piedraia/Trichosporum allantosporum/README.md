@@ -1,5 +1,4 @@
-Trichosporum allantosporum Arnaud, 1953 SPECIES
-=======
+# Trichosporum allantosporum Arnaud, 1953 SPECIES
 
 #### Status
 ACCEPTED

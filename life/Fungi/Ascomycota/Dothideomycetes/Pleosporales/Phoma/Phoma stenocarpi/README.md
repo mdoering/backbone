@@ -1,5 +1,4 @@
-Phoma stenocarpi Tassi SPECIES
-=======
+# Phoma stenocarpi Tassi SPECIES
 
 #### Status
 ACCEPTED

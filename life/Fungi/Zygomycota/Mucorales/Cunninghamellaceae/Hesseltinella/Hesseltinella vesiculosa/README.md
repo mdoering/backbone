@@ -1,5 +1,4 @@
-Hesseltinella vesiculosa H.P. Upadhyay, 1970 SPECIES
-=======
+# Hesseltinella vesiculosa H.P. Upadhyay, 1970 SPECIES
 
 #### Status
 ACCEPTED

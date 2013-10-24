@@ -1,5 +1,4 @@
-Anaptychia spinulosa Kurok. SPECIES
-=======
+# Anaptychia spinulosa Kurok. SPECIES
 
 #### Status
 ACCEPTED

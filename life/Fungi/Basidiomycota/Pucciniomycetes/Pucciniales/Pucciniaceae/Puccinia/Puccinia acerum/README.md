@@ -1,5 +1,4 @@
-Puccinia acerum Link SPECIES
-=======
+# Puccinia acerum Link SPECIES
 
 #### Status
 ACCEPTED

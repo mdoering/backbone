@@ -1,5 +1,4 @@
-Phragmoxyphium paraguayense (Speg.) Bat. & Cif. SPECIES
-=======
+# Phragmoxyphium paraguayense (Speg.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

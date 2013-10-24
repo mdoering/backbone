@@ -1,5 +1,4 @@
-Asterina lophopetali Rehm SPECIES
-=======
+# Asterina lophopetali Rehm SPECIES
 
 #### Status
 ACCEPTED

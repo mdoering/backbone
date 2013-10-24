@@ -1,5 +1,4 @@
-Cladonia despreauxii Tuck. SPECIES
-=======
+# Cladonia despreauxii Tuck. SPECIES
 
 #### Status
 ACCEPTED

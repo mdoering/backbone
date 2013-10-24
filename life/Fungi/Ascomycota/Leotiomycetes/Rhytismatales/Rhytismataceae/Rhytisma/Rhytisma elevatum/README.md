@@ -1,5 +1,4 @@
-Rhytisma elevatum Schwein. SPECIES
-=======
+# Rhytisma elevatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

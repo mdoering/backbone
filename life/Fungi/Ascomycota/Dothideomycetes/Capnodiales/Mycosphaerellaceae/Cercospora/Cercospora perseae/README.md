@@ -1,5 +1,4 @@
-Cercospora perseae Ellis & G. Martin SPECIES
-=======
+# Cercospora perseae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

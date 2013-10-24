@@ -1,5 +1,4 @@
-Pleospora hysterioides Ellis & Everh. SPECIES
-=======
+# Pleospora hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

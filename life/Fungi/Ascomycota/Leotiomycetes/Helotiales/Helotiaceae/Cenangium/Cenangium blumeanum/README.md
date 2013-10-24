@@ -1,5 +1,4 @@
-Cenangium blumeanum Rehm SPECIES
-=======
+# Cenangium blumeanum Rehm SPECIES
 
 #### Status
 ACCEPTED

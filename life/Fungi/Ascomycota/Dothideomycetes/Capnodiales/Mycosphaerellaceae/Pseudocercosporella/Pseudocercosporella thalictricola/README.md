@@ -1,5 +1,4 @@
-Pseudocercosporella thalictricola (Vassiljevsky) U. Braun SPECIES
-=======
+# Pseudocercosporella thalictricola (Vassiljevsky) U. Braun SPECIES
 
 #### Status
 ACCEPTED

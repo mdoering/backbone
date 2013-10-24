@@ -1,5 +1,4 @@
-Eurotium aspergillus-flavus de Bary & Woronin SPECIES
-=======
+# Eurotium aspergillus-flavus de Bary & Woronin SPECIES
 
 #### Status
 ACCEPTED

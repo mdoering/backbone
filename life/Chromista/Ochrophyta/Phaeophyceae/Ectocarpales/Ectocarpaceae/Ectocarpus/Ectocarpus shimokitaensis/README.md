@@ -1,5 +1,4 @@
-Ectocarpus shimokitaensis Ohta SPECIES
-=======
+# Ectocarpus shimokitaensis Ohta SPECIES
 
 #### Status
 ACCEPTED

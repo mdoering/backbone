@@ -1,5 +1,4 @@
-Lichenoconium parasiticum D. Hawksw., 1977 SPECIES
-=======
+# Lichenoconium parasiticum D. Hawksw., 1977 SPECIES
 
 #### Status
 ACCEPTED

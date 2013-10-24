@@ -1,5 +1,4 @@
-Peziza xanthostigma Fr. SPECIES
-=======
+# Peziza xanthostigma Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neocatapyrenium H. Harada GENUS
-=======
+# Neocatapyrenium H. Harada GENUS
 
 #### Status
 ACCEPTED

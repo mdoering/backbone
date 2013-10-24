@@ -1,5 +1,4 @@
-Lecidea arthoniopsis Vain. SPECIES
-=======
+# Lecidea arthoniopsis Vain. SPECIES
 
 #### Status
 ACCEPTED

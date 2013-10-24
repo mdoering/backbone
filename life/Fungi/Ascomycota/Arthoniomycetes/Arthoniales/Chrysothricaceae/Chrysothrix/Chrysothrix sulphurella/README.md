@@ -1,5 +1,4 @@
-Chrysothrix sulphurella (Räsänen) Kantvilas & Elix SPECIES
-=======
+# Chrysothrix sulphurella (Räsänen) Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

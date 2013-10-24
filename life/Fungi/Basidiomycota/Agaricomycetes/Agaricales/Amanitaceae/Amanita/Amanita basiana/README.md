@@ -1,5 +1,4 @@
-Amanita basiana Tulloss & M. Traverso SPECIES
-=======
+# Amanita basiana Tulloss & M. Traverso SPECIES
 
 #### Status
 ACCEPTED

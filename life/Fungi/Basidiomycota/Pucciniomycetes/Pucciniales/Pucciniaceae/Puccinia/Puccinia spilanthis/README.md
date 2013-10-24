@@ -1,5 +1,4 @@
-Puccinia spilanthis Henn. SPECIES
-=======
+# Puccinia spilanthis Henn. SPECIES
 
 #### Status
 ACCEPTED

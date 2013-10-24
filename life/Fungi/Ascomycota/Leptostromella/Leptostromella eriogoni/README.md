@@ -1,5 +1,4 @@
-Leptostromella eriogoni Earle SPECIES
-=======
+# Leptostromella eriogoni Earle SPECIES
 
 #### Status
 ACCEPTED

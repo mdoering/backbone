@@ -1,5 +1,4 @@
-Montagnellina rubi Sawada SPECIES
-=======
+# Montagnellina rubi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrta licaniae Bat. & H. Maia SPECIES
-=======
+# Cyrta licaniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

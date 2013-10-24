@@ -1,5 +1,4 @@
-Pertusaria microthelia Vain. SPECIES
-=======
+# Pertusaria microthelia Vain. SPECIES
 
 #### Status
 ACCEPTED

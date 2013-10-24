@@ -1,5 +1,4 @@
-Scoleconectria canadensis (Ellis & Everh.) Seaver SPECIES
-=======
+# Scoleconectria canadensis (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

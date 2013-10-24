@@ -1,5 +1,4 @@
-Bryoria forsteri Olech & Bystr. SPECIES
-=======
+# Bryoria forsteri Olech & Bystr. SPECIES
 
 #### Status
 ACCEPTED

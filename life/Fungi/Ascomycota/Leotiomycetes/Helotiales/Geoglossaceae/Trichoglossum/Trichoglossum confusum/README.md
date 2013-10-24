@@ -1,5 +1,4 @@
-Trichoglossum confusum E.J. Durand SPECIES
-=======
+# Trichoglossum confusum E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius fuligineus var. fuligineus VARIETY
-=======
+# Merulius fuligineus Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Merulius fuligineus Alb. & Schwein.
 
 ### Remarks
 null

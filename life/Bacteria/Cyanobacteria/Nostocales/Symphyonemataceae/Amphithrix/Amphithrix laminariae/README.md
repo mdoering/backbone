@@ -1,5 +1,4 @@
-Amphithrix laminariae Kuckuck SPECIES
-=======
+# Amphithrix laminariae Kuckuck SPECIES
 
 #### Status
 ACCEPTED

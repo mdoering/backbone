@@ -1,17 +1,16 @@
-Uredo polypodii var. polypodii VARIETY
-=======
+# Hyalopsora aspidiotus (Peck) Magnus, 1901 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 19: 582 (1901)
 
 #### Original name
-null
+Uredo aspidiotus Peck, 1869
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia bellidiastri (Unger) G. Winter SPECIES
-=======
+# Puccinia bellidiastri (Unger) G. Winter SPECIES
 
 #### Status
 ACCEPTED

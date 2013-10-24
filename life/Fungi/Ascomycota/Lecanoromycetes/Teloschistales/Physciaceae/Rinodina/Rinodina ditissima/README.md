@@ -1,5 +1,4 @@
-Rinodina ditissima SPECIES
-=======
+# Rinodina ditissima SPECIES
 
 #### Status
 ACCEPTED

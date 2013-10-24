@@ -1,5 +1,4 @@
-Boletus polycephalus Pers. SPECIES
-=======
+# Boletus polycephalus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronatoplanulina Ujiie, 1990 GENUS
-=======
+# Coronatoplanulina Ujiie, 1990 GENUS
 
 #### Status
 ACCEPTED

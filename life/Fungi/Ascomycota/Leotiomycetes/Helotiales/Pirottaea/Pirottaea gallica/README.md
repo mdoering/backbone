@@ -1,17 +1,16 @@
-Pirottaea gallica var. gallica VARIETY
-=======
+# Pirottaea gallica Sacc., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 1): 82 (1877)
 
 #### Original name
-Pirottaea gallica var. gallica
+Pirottaea gallica Sacc., 1877
 
 ### Remarks
 null

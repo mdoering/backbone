@@ -1,5 +1,4 @@
-Collema platycarpum Durieu & Mont. SPECIES
-=======
+# Collema platycarpum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

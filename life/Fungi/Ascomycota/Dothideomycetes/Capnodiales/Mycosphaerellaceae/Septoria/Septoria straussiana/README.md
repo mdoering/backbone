@@ -1,5 +1,4 @@
-Septoria straussiana Henn. SPECIES
-=======
+# Septoria straussiana Henn. SPECIES
 
 #### Status
 ACCEPTED

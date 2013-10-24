@@ -1,5 +1,4 @@
-Eutypella tumidula (Cooke & Peck) Sacc. SPECIES
-=======
+# Eutypella tumidula (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

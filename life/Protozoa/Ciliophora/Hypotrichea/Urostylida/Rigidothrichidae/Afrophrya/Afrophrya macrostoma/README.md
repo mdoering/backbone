@@ -1,8 +1,7 @@
-Holosticha macrostoma (Dragesco, 1970) Borror, 1972 SPECIES
-=======
+# Afrophrya macrostoma (Dragesco, 1970) Foissner & Stoeck, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

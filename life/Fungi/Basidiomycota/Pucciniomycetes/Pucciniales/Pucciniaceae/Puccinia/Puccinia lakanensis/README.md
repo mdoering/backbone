@@ -1,5 +1,4 @@
-Puccinia lakanensis M.M. Chen & Y.Z. Wang SPECIES
-=======
+# Puccinia lakanensis M.M. Chen & Y.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scoliciosporum camptosporum (Vain.) Aptroot SPECIES
-=======
+# Scoliciosporum camptosporum (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

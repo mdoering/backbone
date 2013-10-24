@@ -1,5 +1,4 @@
-Hymenoscyphus bresadolae (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus bresadolae (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

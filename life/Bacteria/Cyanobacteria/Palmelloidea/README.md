@@ -1,5 +1,4 @@
-Palmelloidea GENUS
-=======
+# Palmelloidea GENUS
 
 #### Status
 ACCEPTED

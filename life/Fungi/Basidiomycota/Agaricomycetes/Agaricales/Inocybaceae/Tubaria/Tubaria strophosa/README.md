@@ -1,5 +1,4 @@
-Tubaria strophosa Singer SPECIES
-=======
+# Tubaria strophosa Singer SPECIES
 
 #### Status
 ACCEPTED

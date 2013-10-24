@@ -1,8 +1,7 @@
-Anabaena spiroides var. minor Utermöhl VARIETY
-=======
+# Anabaena utermohli (Utermöhl) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

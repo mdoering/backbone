@@ -1,14 +1,13 @@
-Ceratocystis coerulea (Münch) C. Moreau SPECIES
-=======
+# Ceratocystis caerulea (Münch) C. Moreau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
 
 #### Original name
 Ceratostomella caerulea Münch

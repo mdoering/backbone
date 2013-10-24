@@ -1,5 +1,4 @@
-Diplodina baccicola Hollós SPECIES
-=======
+# Diplodina baccicola Hollós SPECIES
 
 #### Status
 ACCEPTED

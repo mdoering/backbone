@@ -1,5 +1,4 @@
-Glandulina ovula d’Orbigny, 1846 SPECIES
-=======
+# Glandulina ovula d’Orbigny, 1846 SPECIES
 
 #### Status
 ACCEPTED

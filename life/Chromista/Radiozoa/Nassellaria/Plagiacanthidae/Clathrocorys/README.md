@@ -1,5 +1,4 @@
-Clathrocorys Haeckel, 1881 GENUS
-=======
+# Clathrocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Serpula erecta (Lloyd) W.B. Cooke SPECIES
-=======
+# Serpula erecta (Lloyd) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

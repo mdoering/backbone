@@ -1,5 +1,4 @@
-Colletotrichum solidaginis Pellic., 2002 SPECIES
-=======
+# Colletotrichum solidaginis Pellic., 2002 SPECIES
 
 #### Status
 ACCEPTED

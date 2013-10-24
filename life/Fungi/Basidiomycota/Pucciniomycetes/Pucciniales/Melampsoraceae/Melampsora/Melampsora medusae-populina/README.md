@@ -1,5 +1,4 @@
-Melampsora medusae-populina Spiers, 1994 SPECIES
-=======
+# Melampsora medusae-populina Spiers, 1994 SPECIES
 
 #### Status
 ACCEPTED

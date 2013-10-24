@@ -1,5 +1,4 @@
-Phylloporina tristissima SPECIES
-=======
+# Phylloporina tristissima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilinia gaylussaciae L.R. Batra SPECIES
-=======
+# Monilinia gaylussaciae L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

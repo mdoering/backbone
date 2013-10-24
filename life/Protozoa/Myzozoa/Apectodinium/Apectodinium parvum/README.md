@@ -1,5 +1,4 @@
-Apectodinium parvum (Alberti, 1961) Lentin & Williams SPECIES
-=======
+# Apectodinium parvum (Alberti, 1961) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

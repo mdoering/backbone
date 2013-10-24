@@ -1,5 +1,4 @@
-Hydnangium aurantium (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium aurantium (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

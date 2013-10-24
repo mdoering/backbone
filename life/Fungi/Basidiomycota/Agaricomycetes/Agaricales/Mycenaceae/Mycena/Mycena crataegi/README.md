@@ -1,5 +1,4 @@
-Mycena crataegi Velen. SPECIES
-=======
+# Mycena crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces xantholini Speg. SPECIES
-=======
+# Corethromyces xantholini Speg. SPECIES
 
 #### Status
 ACCEPTED

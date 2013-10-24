@@ -1,5 +1,4 @@
-Verrucaria clopimoides (Bagl. & Carestia) Nyl. SPECIES
-=======
+# Verrucaria clopimoides (Bagl. & Carestia) Nyl. SPECIES
 
 #### Status
 ACCEPTED

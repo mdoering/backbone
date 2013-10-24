@@ -1,5 +1,4 @@
-Rhodobacter maris Venkata Ramana, Sasikala & Ramana, 2007 SPECIES
-=======
+# Rhodobacter maris Venkata Ramana, Sasikala & Ramana, 2007 SPECIES
 
 #### Status
 ACCEPTED

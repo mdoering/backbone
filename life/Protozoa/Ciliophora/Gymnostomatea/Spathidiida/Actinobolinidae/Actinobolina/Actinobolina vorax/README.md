@@ -1,8 +1,7 @@
-Actinobolus vorax Wenrich, 1929 SPECIES
-=======
+# Actinobolina vorax (Wenrich, 1929) Kahl, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

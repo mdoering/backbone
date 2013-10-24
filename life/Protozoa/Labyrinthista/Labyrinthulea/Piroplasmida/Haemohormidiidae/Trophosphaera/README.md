@@ -1,5 +1,4 @@
-Trophosphaera Le Calvez, 1939 GENUS
-=======
+# Trophosphaera Le Calvez, 1939 GENUS
 
 #### Status
 ACCEPTED

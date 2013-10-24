@@ -1,5 +1,4 @@
-Lecidea tersa Ach. SPECIES
-=======
+# Lecidea tersa Ach. SPECIES
 
 #### Status
 ACCEPTED

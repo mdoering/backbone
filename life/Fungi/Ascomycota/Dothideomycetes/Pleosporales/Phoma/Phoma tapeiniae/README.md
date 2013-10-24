@@ -1,5 +1,4 @@
-Phoma tapeiniae Speg. SPECIES
-=======
+# Phoma tapeiniae Speg. SPECIES
 
 #### Status
 ACCEPTED

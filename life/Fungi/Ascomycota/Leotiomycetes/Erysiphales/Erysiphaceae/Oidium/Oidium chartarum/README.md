@@ -1,14 +1,13 @@
-Torula chartarum (Link) Corda, 1840 SPECIES
-=======
+# Oidium chartarum Link, 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 124 (1824)
 
 #### Original name
 Oidium chartarum Link, 1824

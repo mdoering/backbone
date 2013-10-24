@@ -1,5 +1,4 @@
-Polaribacter butkevichii Nedashkovskaya et al., 2006 SPECIES
-=======
+# Polaribacter butkevichii Nedashkovskaya et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

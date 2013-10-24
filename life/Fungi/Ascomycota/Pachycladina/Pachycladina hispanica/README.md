@@ -1,5 +1,4 @@
-Pachycladina hispanica A. Roldán & Marvanová SPECIES
-=======
+# Pachycladina hispanica A. Roldán & Marvanová SPECIES
 
 #### Status
 ACCEPTED

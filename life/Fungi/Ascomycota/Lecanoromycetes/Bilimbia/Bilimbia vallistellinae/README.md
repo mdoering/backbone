@@ -1,5 +1,4 @@
-Bilimbia vallistellinae f. vallistellinae FORM
-=======
+# Bilimbia vallistellinae Anzi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bilimbia vallistellinae f. vallistellinae
+Bilimbia vallistellinae Anzi
 
 ### Remarks
 null

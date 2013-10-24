@@ -1,5 +1,4 @@
-Thuemenella Penz. & Sacc. GENUS
-=======
+# Thuemenella Penz. & Sacc. GENUS
 
 #### Status
 ACCEPTED

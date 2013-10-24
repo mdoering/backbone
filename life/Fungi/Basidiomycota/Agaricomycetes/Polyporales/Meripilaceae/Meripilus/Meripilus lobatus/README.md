@@ -1,5 +1,4 @@
-Meripilus lobatus (Schrad.) P. Karst. SPECIES
-=======
+# Meripilus lobatus (Schrad.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

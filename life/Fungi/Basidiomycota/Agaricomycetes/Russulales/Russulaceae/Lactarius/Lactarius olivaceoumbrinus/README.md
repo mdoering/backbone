@@ -1,5 +1,4 @@
-Lactarius olivaceoumbrinus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius olivaceoumbrinus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

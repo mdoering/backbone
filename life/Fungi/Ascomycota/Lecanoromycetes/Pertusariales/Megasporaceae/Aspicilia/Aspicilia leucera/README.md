@@ -1,5 +1,4 @@
-Aspicilia leucera Hue SPECIES
-=======
+# Aspicilia leucera Hue SPECIES
 
 #### Status
 ACCEPTED

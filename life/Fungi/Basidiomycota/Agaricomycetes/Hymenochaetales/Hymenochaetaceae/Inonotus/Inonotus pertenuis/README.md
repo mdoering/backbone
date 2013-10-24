@@ -1,5 +1,4 @@
-Inonotus pertenuis Murrill, 1908 SPECIES
-=======
+# Inonotus pertenuis Murrill, 1908 SPECIES
 
 #### Status
 ACCEPTED

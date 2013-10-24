@@ -1,5 +1,4 @@
-Cyathus linubatus Tul. SPECIES
-=======
+# Cyathus linubatus Tul. SPECIES
 
 #### Status
 ACCEPTED

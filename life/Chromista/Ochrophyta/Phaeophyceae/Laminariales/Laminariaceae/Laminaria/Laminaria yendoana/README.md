@@ -1,5 +1,4 @@
-Laminaria yendoana Miyabe SPECIES
-=======
+# Laminaria yendoana Miyabe SPECIES
 
 #### Status
 ACCEPTED

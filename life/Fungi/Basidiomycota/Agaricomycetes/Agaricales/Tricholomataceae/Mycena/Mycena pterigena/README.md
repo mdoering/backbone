@@ -1,5 +1,4 @@
-Mycena pterigena (Fr. Fr.) P. Kumm. SPECIES
-=======
+# Mycena pterigena (Fr. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

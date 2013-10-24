@@ -1,5 +1,4 @@
-Macroplodia isopyri (Thüm.) Kuntze SPECIES
-=======
+# Macroplodia isopyri (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

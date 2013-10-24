@@ -1,5 +1,4 @@
-Stictina orbicularis (A. Braun ex Meyen & Flot.) Nyl. SPECIES
-=======
+# Stictina orbicularis (A. Braun ex Meyen & Flot.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

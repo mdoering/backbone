@@ -1,5 +1,4 @@
-Psathyrella echiniceps (G.F. Atk.) A.H. Sm. SPECIES
-=======
+# Psathyrella echiniceps (G.F. Atk.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhadinomyces GENUS
-=======
+# Rhadinomyces GENUS
 
 #### Status
 ACCEPTED

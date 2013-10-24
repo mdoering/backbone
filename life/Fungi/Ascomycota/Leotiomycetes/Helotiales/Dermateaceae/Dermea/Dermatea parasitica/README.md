@@ -1,5 +1,4 @@
-Dermatea parasitica (G. Winter) Höhn. SPECIES
-=======
+# Dermatea parasitica (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

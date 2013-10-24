@@ -1,5 +1,4 @@
-Margominuscula prima Pykhova, 1966 SPECIES
-=======
+# Margominuscula prima Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

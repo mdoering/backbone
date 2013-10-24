@@ -1,5 +1,4 @@
-Agaricus elatior J.F. Gmel. SPECIES
-=======
+# Agaricus elatior J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

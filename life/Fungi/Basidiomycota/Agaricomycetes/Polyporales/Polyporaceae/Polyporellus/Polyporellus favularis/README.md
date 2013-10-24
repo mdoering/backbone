@@ -1,5 +1,4 @@
-Polyporellus favularis (Fr.) P. Karst. SPECIES
-=======
+# Polyporellus favularis (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

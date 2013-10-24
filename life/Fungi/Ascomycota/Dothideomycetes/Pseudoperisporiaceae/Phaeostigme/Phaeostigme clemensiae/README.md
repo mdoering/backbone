@@ -1,5 +1,4 @@
-Phaeostigme clemensiae Syd. & P. Syd. SPECIES
-=======
+# Phaeostigme clemensiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

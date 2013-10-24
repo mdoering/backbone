@@ -1,5 +1,4 @@
-Anthostoma gallicum Sacc. & Flageolet SPECIES
-=======
+# Anthostoma gallicum Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

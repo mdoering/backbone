@@ -1,5 +1,4 @@
-Lamproderma lycopodii (Nees) Raunk. SPECIES
-=======
+# Lamproderma lycopodii (Nees) Raunk. SPECIES
 
 #### Status
 ACCEPTED

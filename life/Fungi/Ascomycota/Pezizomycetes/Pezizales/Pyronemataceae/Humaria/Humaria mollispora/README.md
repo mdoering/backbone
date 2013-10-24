@@ -1,5 +1,4 @@
-Humaria mollispora Rodway SPECIES
-=======
+# Humaria mollispora Rodway SPECIES
 
 #### Status
 ACCEPTED

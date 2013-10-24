@@ -1,5 +1,4 @@
-Schismatomma incurvulum (Stirt.) Zahlbr. SPECIES
-=======
+# Schismatomma incurvulum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

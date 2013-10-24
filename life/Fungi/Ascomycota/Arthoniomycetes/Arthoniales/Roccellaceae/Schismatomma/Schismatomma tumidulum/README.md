@@ -1,5 +1,4 @@
-Schismatomma tumidulum (C. Knight & Mitt.) Zahlbr. SPECIES
-=======
+# Schismatomma tumidulum (C. Knight & Mitt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

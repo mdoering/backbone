@@ -1,5 +1,4 @@
-Odontina hyalina (Quél.) Pat. SPECIES
-=======
+# Odontina hyalina (Quél.) Pat. SPECIES
 
 #### Status
 ACCEPTED

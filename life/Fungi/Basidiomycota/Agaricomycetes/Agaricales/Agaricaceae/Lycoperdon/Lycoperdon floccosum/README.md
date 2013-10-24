@@ -1,5 +1,4 @@
-Lycoperdon floccosum Lloyd SPECIES
-=======
+# Lycoperdon floccosum Lloyd SPECIES
 
 #### Status
 ACCEPTED

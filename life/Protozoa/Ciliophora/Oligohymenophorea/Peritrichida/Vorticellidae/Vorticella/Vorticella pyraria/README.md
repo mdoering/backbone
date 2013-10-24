@@ -1,5 +1,4 @@
-Vorticella pyraria Muller, 1773 SPECIES
-=======
+# Vorticella pyraria Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

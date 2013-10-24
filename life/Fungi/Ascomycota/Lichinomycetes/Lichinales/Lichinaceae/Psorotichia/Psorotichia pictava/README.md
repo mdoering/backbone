@@ -1,5 +1,4 @@
-Psorotichia pictava (Nyl.) Forssell SPECIES
-=======
+# Psorotichia pictava (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

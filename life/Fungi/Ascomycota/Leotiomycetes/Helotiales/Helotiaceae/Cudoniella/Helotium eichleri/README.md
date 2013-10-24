@@ -1,5 +1,4 @@
-Helotium eichleri Bres. SPECIES
-=======
+# Helotium eichleri Bres. SPECIES
 
 #### Status
 ACCEPTED

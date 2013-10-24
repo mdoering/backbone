@@ -1,5 +1,4 @@
-Krogia Timdal GENUS
-=======
+# Krogia Timdal GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acineta crassipes SPECIES
-=======
+# Acineta crassipes SPECIES
 
 #### Status
 ACCEPTED

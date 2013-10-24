@@ -1,5 +1,4 @@
-Marasmius colimensis Murrill SPECIES
-=======
+# Marasmius colimensis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina canthicarpa P.M. McCarthy, 2001 SPECIES
-=======
+# Porina canthicarpa P.M. McCarthy, 2001 SPECIES
 
 #### Status
 DOUBTFUL

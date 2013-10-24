@@ -1,5 +1,4 @@
-Phoma scutellariae Savul. & Sandu SPECIES
-=======
+# Phoma scutellariae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

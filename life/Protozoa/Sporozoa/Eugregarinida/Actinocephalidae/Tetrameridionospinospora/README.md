@@ -1,5 +1,4 @@
-Tetrameridionospinospora Kori & Amoji, 1985 GENUS
-=======
+# Tetrameridionospinospora Kori & Amoji, 1985 GENUS
 
 #### Status
 ACCEPTED

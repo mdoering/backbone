@@ -1,5 +1,4 @@
-Evittia consolator (Cramer & Díez, 1977) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Evittia consolator (Cramer & Díez, 1977) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

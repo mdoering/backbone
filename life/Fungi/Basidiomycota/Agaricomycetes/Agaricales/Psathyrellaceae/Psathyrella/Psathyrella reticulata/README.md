@@ -1,5 +1,4 @@
-Psathyrella reticulata (Romagn.) M.M. Moser ex Singer SPECIES
-=======
+# Psathyrella reticulata (Romagn.) M.M. Moser ex Singer SPECIES
 
 #### Status
 ACCEPTED

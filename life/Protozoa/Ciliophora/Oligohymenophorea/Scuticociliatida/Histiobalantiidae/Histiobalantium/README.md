@@ -1,5 +1,4 @@
-Histiobalantium Stokes, 1886 GENUS
-=======
+# Histiobalantium Stokes, 1886 GENUS
 
 #### Status
 ACCEPTED

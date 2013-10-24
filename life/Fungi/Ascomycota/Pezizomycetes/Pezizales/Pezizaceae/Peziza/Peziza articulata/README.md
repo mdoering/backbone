@@ -1,5 +1,4 @@
-Peziza articulata P. Karst. SPECIES
-=======
+# Peziza articulata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

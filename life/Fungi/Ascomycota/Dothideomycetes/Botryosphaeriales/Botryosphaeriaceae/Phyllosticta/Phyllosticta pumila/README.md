@@ -1,5 +1,4 @@
-Phyllosticta pumila (Moug.) Allesch. SPECIES
-=======
+# Phyllosticta pumila (Moug.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

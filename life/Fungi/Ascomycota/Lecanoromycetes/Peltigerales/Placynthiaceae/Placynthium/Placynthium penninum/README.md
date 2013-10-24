@@ -1,5 +1,4 @@
-Placynthium penninum (Schaer.) Trevis. SPECIES
-=======
+# Placynthium penninum (Schaer.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

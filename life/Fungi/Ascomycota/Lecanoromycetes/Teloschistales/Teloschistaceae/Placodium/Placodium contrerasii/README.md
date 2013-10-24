@@ -1,5 +1,4 @@
-Placodium contrerasii B. de Lesd. SPECIES
-=======
+# Placodium contrerasii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

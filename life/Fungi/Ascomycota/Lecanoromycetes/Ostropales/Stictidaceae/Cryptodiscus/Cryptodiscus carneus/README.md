@@ -1,5 +1,4 @@
-Cryptodiscus carneus (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Cryptodiscus carneus (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

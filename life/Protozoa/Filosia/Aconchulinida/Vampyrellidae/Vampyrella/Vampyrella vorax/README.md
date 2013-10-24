@@ -1,5 +1,4 @@
-Vampyrella vorax Cienk. SPECIES
-=======
+# Vampyrella vorax Cienk. SPECIES
 
 #### Status
 ACCEPTED

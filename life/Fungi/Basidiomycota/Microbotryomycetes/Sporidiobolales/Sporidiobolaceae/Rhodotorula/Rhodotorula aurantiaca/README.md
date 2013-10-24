@@ -1,14 +1,13 @@
-Rhodotorula glutinis var. aurantiaca (Saito) T. Haseg., 1958 VARIETY
-=======
+# Rhodotorula aurantiaca (Saito) Lodder, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. Akad. Wet. , tweede sect. 32: 78 (1934)
 
 #### Original name
 null

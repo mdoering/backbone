@@ -1,5 +1,4 @@
-Phaeographis sulcata Müll. Arg. SPECIES
-=======
+# Phaeographis sulcata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

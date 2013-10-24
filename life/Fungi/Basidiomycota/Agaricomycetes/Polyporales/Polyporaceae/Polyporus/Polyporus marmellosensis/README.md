@@ -1,5 +1,4 @@
-Polyporus marmellosensis Henn. SPECIES
-=======
+# Polyporus marmellosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

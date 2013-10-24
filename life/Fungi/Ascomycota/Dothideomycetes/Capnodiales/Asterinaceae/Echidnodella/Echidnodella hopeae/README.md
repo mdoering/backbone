@@ -1,5 +1,4 @@
-Echidnodella hopeae Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Echidnodella hopeae Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

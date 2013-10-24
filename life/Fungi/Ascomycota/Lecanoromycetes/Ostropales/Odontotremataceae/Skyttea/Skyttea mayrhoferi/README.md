@@ -1,5 +1,4 @@
-Skyttea mayrhoferi Diederich & Etayo SPECIES
-=======
+# Skyttea mayrhoferi Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

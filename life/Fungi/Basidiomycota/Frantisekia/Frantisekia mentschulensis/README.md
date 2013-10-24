@@ -1,5 +1,4 @@
-Frantisekia mentschulensis (Pilát ex Pilát) Spirin SPECIES
-=======
+# Frantisekia mentschulensis (Pilát ex Pilát) Spirin SPECIES
 
 #### Status
 ACCEPTED

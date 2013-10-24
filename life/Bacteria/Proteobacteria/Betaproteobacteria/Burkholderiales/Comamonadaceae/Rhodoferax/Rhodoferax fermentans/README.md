@@ -1,5 +1,4 @@
-Rhodoferax fermentans Hiraishi et al., 1992 SPECIES
-=======
+# Rhodoferax fermentans Hiraishi et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Authadias Gistl, 1848 GENUS
-=======
+# Authadias Gistl, 1848 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calloriella nipteroides Le Gal SPECIES
-=======
+# Calloriella nipteroides Le Gal SPECIES
 
 #### Status
 ACCEPTED

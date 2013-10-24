@@ -1,5 +1,4 @@
-Rhizidiomyces bulbosus Karling, 1968 SPECIES
-=======
+# Rhizidiomyces bulbosus Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

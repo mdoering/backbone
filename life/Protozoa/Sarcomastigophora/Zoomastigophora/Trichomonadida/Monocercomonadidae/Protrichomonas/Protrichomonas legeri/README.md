@@ -1,5 +1,4 @@
-Protrichomonas legeri Alexeieff, 1912 SPECIES
-=======
+# Protrichomonas legeri Alexeieff, 1912 SPECIES
 
 #### Status
 ACCEPTED

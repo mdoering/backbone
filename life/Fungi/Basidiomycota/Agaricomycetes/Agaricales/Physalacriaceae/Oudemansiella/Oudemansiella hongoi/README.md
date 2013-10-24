@@ -1,5 +1,4 @@
-Oudemansiella hongoi (Dörfelt) Zhu L. Yang SPECIES
-=======
+# Oudemansiella hongoi (Dörfelt) Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

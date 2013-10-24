@@ -1,5 +1,4 @@
-Stropharia ambigua (Peck) Zeller SPECIES
-=======
+# Stropharia ambigua (Peck) Zeller SPECIES
 
 #### Status
 ACCEPTED

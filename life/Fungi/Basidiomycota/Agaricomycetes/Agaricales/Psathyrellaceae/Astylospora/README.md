@@ -1,5 +1,4 @@
-Astylospora GENUS
-=======
+# Astylospora GENUS
 
 #### Status
 ACCEPTED

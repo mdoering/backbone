@@ -1,5 +1,4 @@
-Leiosphaeridia coralata Bharadwaj et al., 1971 SPECIES
-=======
+# Leiosphaeridia coralata Bharadwaj et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

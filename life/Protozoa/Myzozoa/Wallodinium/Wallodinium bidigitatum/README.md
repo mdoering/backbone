@@ -1,5 +1,4 @@
-Wallodinium bidigitatum (Manum & Cookson, 1964) Lentin & Williams SPECIES
-=======
+# Wallodinium bidigitatum (Manum & Cookson, 1964) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

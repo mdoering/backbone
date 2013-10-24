@@ -1,5 +1,4 @@
-Biatorina praepallida (Müll. Arg.) Darb. SPECIES
-=======
+# Biatorina praepallida (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

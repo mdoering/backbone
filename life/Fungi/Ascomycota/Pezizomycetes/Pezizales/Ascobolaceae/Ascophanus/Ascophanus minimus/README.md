@@ -1,5 +1,4 @@
-Ascophanus minimus (Velen.) Svrcek SPECIES
-=======
+# Ascophanus minimus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

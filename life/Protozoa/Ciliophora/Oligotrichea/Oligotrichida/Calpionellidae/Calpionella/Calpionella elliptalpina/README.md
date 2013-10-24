@@ -1,5 +1,4 @@
-Calpionella elliptalpina Nagy, 1986 SPECIES
-=======
+# Calpionella elliptalpina Nagy, 1986 SPECIES
 
 #### Status
 ACCEPTED

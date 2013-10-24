@@ -1,5 +1,4 @@
-Pleurocapsa entophysaloides Setchell & N.L. Gardner SPECIES
-=======
+# Pleurocapsa entophysaloides Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

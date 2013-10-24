@@ -1,5 +1,4 @@
-Physcia holoxantha Nyl. SPECIES
-=======
+# Physcia holoxantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

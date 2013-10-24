@@ -1,5 +1,4 @@
-Cystotheca indica M.S. Patil & Maham. SPECIES
-=======
+# Cystotheca indica M.S. Patil & Maham. SPECIES
 
 #### Status
 ACCEPTED

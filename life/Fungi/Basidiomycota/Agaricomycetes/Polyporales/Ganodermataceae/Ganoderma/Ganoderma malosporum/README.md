@@ -1,5 +1,4 @@
-Ganoderma malosporum (Lév.) Pat. SPECIES
-=======
+# Ganoderma malosporum (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

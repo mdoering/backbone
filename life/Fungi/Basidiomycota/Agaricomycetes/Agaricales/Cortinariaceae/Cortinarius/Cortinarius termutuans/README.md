@@ -1,5 +1,4 @@
-Cortinarius termutuans Rob. Henry SPECIES
-=======
+# Cortinarius termutuans Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

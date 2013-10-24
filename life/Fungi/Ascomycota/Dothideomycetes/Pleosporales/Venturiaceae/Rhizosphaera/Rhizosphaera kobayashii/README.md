@@ -1,5 +1,4 @@
-Rhizosphaera kobayashii (M. Morelet) M. Morelet SPECIES
-=======
+# Rhizosphaera kobayashii (M. Morelet) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

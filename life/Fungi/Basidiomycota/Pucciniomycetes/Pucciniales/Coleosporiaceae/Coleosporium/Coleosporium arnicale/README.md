@@ -1,5 +1,4 @@
-Coleosporium arnicale Arthur SPECIES
-=======
+# Coleosporium arnicale Arthur SPECIES
 
 #### Status
 ACCEPTED

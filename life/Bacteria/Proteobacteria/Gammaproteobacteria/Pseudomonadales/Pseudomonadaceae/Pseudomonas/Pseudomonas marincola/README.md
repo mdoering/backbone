@@ -1,5 +1,4 @@
-Pseudomonas marincola Romanenko, Uchino, Tebo, Tanaka, Frolova & Mikhailov, 2008 SPECIES
-=======
+# Pseudomonas marincola Romanenko, Uchino, Tebo, Tanaka, Frolova & Mikhailov, 2008 SPECIES
 
 #### Status
 ACCEPTED

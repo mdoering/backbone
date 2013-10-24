@@ -1,5 +1,4 @@
-Stereocaulon himalayense Asahina & I.M. Lamb SPECIES
-=======
+# Stereocaulon himalayense Asahina & I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

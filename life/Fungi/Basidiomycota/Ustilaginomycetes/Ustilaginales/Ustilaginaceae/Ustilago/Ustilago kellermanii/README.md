@@ -1,5 +1,4 @@
-Ustilago kellermanii G.P. Clinton SPECIES
-=======
+# Ustilago kellermanii G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

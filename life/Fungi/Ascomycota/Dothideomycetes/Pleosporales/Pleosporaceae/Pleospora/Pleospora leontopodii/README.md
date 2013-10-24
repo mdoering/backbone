@@ -1,5 +1,4 @@
-Pleospora leontopodii (Cruchet) E. Müll. SPECIES
-=======
+# Pleospora leontopodii (Cruchet) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

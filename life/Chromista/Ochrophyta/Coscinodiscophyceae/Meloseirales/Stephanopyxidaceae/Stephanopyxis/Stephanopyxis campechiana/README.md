@@ -1,5 +1,4 @@
-Stephanopyxis campechiana Grunow, 1881 SPECIES
-=======
+# Stephanopyxis campechiana Grunow, 1881 SPECIES
 
 #### Status
 ACCEPTED

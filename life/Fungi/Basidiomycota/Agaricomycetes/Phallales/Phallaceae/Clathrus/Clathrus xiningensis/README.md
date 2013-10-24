@@ -1,5 +1,4 @@
-Clathrus xiningensis (H.A. Wen) B. Liu SPECIES
-=======
+# Clathrus xiningensis (H.A. Wen) B. Liu SPECIES
 
 #### Status
 ACCEPTED

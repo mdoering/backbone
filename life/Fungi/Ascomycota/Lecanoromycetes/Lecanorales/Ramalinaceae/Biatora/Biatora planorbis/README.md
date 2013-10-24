@@ -1,5 +1,4 @@
-Biatora planorbis Körb. SPECIES
-=======
+# Biatora planorbis Körb. SPECIES
 
 #### Status
 ACCEPTED

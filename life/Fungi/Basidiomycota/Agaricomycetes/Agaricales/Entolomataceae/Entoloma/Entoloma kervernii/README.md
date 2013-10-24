@@ -1,14 +1,13 @@
-Leptonia kervernii De Guern., 1876 SPECIES
-=======
+# Entoloma kervernii (De Guern.) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 413 (1876)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 210 (1978)
 
 #### Original name
 Leptonia kervernii De Guern., 1876

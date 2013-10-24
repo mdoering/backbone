@@ -1,5 +1,4 @@
-Pannaria obscura Müll. Arg. SPECIES
-=======
+# Pannaria obscura Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

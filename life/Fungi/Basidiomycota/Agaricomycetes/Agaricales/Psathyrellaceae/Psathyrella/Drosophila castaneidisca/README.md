@@ -1,5 +1,4 @@
-Drosophila castaneidisca Murrill SPECIES
-=======
+# Drosophila castaneidisca Murrill SPECIES
 
 #### Status
 ACCEPTED

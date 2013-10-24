@@ -1,5 +1,4 @@
-Micromycopsis cristata Scherff. SPECIES
-=======
+# Micromycopsis cristata Scherff. SPECIES
 
 #### Status
 ACCEPTED

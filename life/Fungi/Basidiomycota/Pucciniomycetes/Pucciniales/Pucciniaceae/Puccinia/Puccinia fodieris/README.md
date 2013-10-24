@@ -1,5 +1,4 @@
-Puccinia fodieris G. Cunn. SPECIES
-=======
+# Puccinia fodieris G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

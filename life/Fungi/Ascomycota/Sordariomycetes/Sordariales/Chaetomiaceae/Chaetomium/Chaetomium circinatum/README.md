@@ -1,5 +1,4 @@
-Chaetomium circinatum Chivers, 1915 SPECIES
-=======
+# Chaetomium circinatum Chivers, 1915 SPECIES
 
 #### Status
 ACCEPTED

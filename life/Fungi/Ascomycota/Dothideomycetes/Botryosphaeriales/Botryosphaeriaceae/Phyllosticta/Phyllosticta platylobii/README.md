@@ -1,5 +1,4 @@
-Phyllosticta platylobii Cooke & Massee SPECIES
-=======
+# Phyllosticta platylobii Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

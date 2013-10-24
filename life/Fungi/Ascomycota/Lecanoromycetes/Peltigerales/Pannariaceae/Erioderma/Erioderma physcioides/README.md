@@ -1,5 +1,4 @@
-Erioderma physcioides Vain. SPECIES
-=======
+# Erioderma physcioides Vain. SPECIES
 
 #### Status
 ACCEPTED

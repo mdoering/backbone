@@ -1,5 +1,4 @@
-Aleurodiscus helveolus Bres. SPECIES
-=======
+# Aleurodiscus helveolus Bres. SPECIES
 
 #### Status
 ACCEPTED

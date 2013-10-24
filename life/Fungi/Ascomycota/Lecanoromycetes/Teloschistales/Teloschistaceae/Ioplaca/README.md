@@ -1,5 +1,4 @@
-Ioplaca Poelt GENUS
-=======
+# Ioplaca Poelt GENUS
 
 #### Status
 ACCEPTED

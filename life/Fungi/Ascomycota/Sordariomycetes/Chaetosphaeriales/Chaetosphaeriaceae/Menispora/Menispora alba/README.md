@@ -1,5 +1,4 @@
-Menispora alba Preuss SPECIES
-=======
+# Menispora alba Preuss SPECIES
 
 #### Status
 ACCEPTED

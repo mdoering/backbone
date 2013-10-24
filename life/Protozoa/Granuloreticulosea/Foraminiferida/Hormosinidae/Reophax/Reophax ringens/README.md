@@ -1,5 +1,4 @@
-Reophax ringens Zheng & Fu, 2001 SPECIES
-=======
+# Reophax ringens Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

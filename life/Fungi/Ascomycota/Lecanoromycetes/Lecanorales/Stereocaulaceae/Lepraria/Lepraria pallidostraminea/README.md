@@ -1,5 +1,4 @@
-Lepraria pallidostraminea Vain. SPECIES
-=======
+# Lepraria pallidostraminea Vain. SPECIES
 
 #### Status
 ACCEPTED

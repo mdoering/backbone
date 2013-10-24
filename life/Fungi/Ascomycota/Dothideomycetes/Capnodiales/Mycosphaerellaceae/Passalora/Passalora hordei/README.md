@@ -1,5 +1,4 @@
-Passalora hordei G.H. Otth SPECIES
-=======
+# Passalora hordei G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria ceraceocerea Henn. SPECIES
-=======
+# Humaria ceraceocerea Henn. SPECIES
 
 #### Status
 ACCEPTED

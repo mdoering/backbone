@@ -1,5 +1,4 @@
-Agaricus pilipes Sowerby SPECIES
-=======
+# Agaricus pilipes Sowerby SPECIES
 
 #### Status
 ACCEPTED

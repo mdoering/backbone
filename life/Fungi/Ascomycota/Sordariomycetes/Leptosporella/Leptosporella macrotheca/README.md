@@ -1,5 +1,4 @@
-Leptosporella macrotheca Syd. SPECIES
-=======
+# Leptosporella macrotheca Syd. SPECIES
 
 #### Status
 ACCEPTED

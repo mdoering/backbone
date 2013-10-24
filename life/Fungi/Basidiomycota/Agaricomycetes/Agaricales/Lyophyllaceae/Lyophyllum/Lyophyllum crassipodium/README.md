@@ -1,5 +1,4 @@
-Lyophyllum crassipodium Malençon & Bertault SPECIES
-=======
+# Lyophyllum crassipodium Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

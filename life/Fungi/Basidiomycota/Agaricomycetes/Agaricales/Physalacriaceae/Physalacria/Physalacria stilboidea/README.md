@@ -1,17 +1,16 @@
-Pistillaria stillboidea Cooke, 1890 SPECIES
-=======
+# Physalacria stilboidea (Cooke) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 256 (1891)
 
 #### Original name
-null
+Pistillina stilboidea Cooke, 1890
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Catapyrenium nuoljae (H. Magn.) SPECIES
-=======
+# Catapyrenium nuoljae (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

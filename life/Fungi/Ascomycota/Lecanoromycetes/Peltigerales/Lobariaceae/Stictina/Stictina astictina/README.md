@@ -1,5 +1,4 @@
-Stictina astictina Nyl. SPECIES
-=======
+# Stictina astictina Nyl. SPECIES
 
 #### Status
 ACCEPTED

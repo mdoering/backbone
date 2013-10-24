@@ -1,5 +1,4 @@
-Jurella Danich, 1977 GENUS
-=======
+# Jurella Danich, 1977 GENUS
 
 #### Status
 ACCEPTED

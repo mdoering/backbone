@@ -1,5 +1,4 @@
-Ophiostoma flexuosum H. Solheim, 1986 SPECIES
-=======
+# Ophiostoma flexuosum H. Solheim, 1986 SPECIES
 
 #### Status
 ACCEPTED

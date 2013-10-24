@@ -1,5 +1,4 @@
-Arthonia subaggregata Wedin & Hafellner SPECIES
-=======
+# Arthonia subaggregata Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

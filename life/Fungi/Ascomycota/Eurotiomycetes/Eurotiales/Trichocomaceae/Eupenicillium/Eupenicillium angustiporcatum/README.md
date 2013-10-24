@@ -1,5 +1,4 @@
-Eupenicillium angustiporcatum Takada & Udagawa, 1983 SPECIES
-=======
+# Eupenicillium angustiporcatum Takada & Udagawa, 1983 SPECIES
 
 #### Status
 ACCEPTED

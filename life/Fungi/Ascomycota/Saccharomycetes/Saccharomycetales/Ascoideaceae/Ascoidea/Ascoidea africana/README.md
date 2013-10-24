@@ -1,5 +1,4 @@
-Ascoidea africana L.R. Batra & Francke-Grosm., 1964 SPECIES
-=======
+# Ascoidea africana L.R. Batra & Francke-Grosm., 1964 SPECIES
 
 #### Status
 ACCEPTED

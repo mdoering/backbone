@@ -1,5 +1,4 @@
-Leptosphaeria sacculus Pass. & Beltr. SPECIES
-=======
+# Leptosphaeria sacculus Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

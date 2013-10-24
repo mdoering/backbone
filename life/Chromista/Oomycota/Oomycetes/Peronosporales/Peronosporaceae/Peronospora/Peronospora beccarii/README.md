@@ -1,5 +1,4 @@
-Peronospora beccarii Pass. SPECIES
-=======
+# Peronospora beccarii Pass. SPECIES
 
 #### Status
 ACCEPTED

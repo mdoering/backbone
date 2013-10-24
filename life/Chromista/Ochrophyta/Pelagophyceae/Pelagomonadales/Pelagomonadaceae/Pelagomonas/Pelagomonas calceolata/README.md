@@ -1,5 +1,4 @@
-Pelagomonas calceolata R.A. Andersen & G. Saunders SPECIES
-=======
+# Pelagomonas calceolata R.A. Andersen & G. Saunders SPECIES
 
 #### Status
 ACCEPTED

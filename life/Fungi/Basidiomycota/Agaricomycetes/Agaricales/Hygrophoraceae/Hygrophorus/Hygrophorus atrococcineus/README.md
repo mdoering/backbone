@@ -1,5 +1,4 @@
-Hygrophorus atrococcineus Kalchbr. SPECIES
-=======
+# Hygrophorus atrococcineus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

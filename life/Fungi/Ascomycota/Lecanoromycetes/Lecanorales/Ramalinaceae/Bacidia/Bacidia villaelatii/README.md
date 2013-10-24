@@ -1,5 +1,4 @@
-Bacidia villaelatii (A. Massal.) Jatta SPECIES
-=======
+# Bacidia villaelatii (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riedelipyle Kozur & Mostler, 1979 GENUS
-=======
+# Riedelipyle Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

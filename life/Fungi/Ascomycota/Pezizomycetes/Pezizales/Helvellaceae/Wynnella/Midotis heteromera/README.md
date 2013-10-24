@@ -1,5 +1,4 @@
-Midotis heteromera (Mont.) Mont. SPECIES
-=======
+# Midotis heteromera (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

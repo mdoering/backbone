@@ -1,5 +1,4 @@
-Thalassoxanthella Haeckel, 1887 GENUS
-=======
+# Thalassoxanthella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

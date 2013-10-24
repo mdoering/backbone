@@ -1,5 +1,4 @@
-Sporidesmium maxigelatinosum Cabello, Cazau & Aramb. SPECIES
-=======
+# Sporidesmium maxigelatinosum Cabello, Cazau & Aramb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella hesleriaffinis Singer SPECIES
-=======
+# Psathyrella hesleriaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Heteroschisma subantarctica Balech, 1971 SPECIES
-=======
+# Heteroschisma subantarcticum Balech, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

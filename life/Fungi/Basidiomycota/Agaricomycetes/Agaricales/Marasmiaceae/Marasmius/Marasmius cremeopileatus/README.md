@@ -1,5 +1,4 @@
-Marasmius cremeopileatus Antonín & C. Sharp SPECIES
-=======
+# Marasmius cremeopileatus Antonín & C. Sharp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria collapsa Sowerby SPECIES
-=======
+# Sphaeria collapsa Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia adspera SPECIES
-=======
+# Arthonia adspera SPECIES
 
 #### Status
 ACCEPTED

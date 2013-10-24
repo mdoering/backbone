@@ -1,5 +1,4 @@
-Curvularia heteropogonis Alcorn SPECIES
-=======
+# Curvularia heteropogonis Alcorn SPECIES
 
 #### Status
 ACCEPTED

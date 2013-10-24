@@ -1,5 +1,4 @@
-Aecidium dusenii Dietel & Neger SPECIES
-=======
+# Aecidium dusenii Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

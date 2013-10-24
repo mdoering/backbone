@@ -1,14 +1,13 @@
-Micropuccinia scandica (Johanson) Arthur & H.S. Jacks., 1921 SPECIES
-=======
+# Puccinia scandica Johanson, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 48: 41 (1921)
+Bot. Notiser 175 (1886)
 
 #### Original name
 Puccinia scandica Johanson, 1886

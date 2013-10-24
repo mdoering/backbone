@@ -1,5 +1,4 @@
-Hirneolina luteomollis Rick SPECIES
-=======
+# Hirneolina luteomollis Rick SPECIES
 
 #### Status
 ACCEPTED

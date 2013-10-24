@@ -1,5 +1,4 @@
-Diplodia hamamelidis Fairm. SPECIES
-=======
+# Diplodia hamamelidis Fairm. SPECIES
 
 #### Status
 ACCEPTED

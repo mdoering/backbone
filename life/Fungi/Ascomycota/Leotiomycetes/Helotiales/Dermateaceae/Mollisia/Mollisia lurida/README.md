@@ -1,5 +1,4 @@
-Mollisia lurida (Pers.) W. Phillips, 1887 SPECIES
-=======
+# Mollisia lurida (Pers.) W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED

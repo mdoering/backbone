@@ -1,5 +1,4 @@
-Pseudoloma J.L. Matthews, A.M.V. Brown, K. Larison, J.K. Bishop-Stewart, P. Rogers & M.L. Kent GENUS
-=======
+# Pseudoloma J.L. Matthews, A.M.V. Brown, K. Larison, J.K. Bishop-Stewart, P. Rogers & M.L. Kent GENUS
 
 #### Status
 ACCEPTED

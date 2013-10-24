@@ -1,5 +1,4 @@
-Rhinotrichella globulifera G. Arnaud ex de Hoog, 1977 SPECIES
-=======
+# Rhinotrichella globulifera G. Arnaud ex de Hoog, 1977 SPECIES
 
 #### Status
 ACCEPTED

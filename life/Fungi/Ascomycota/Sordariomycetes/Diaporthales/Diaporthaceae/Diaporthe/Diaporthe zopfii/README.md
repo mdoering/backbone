@@ -1,5 +1,4 @@
-Diaporthe zopfii Kunze SPECIES
-=======
+# Diaporthe zopfii Kunze SPECIES
 
 #### Status
 ACCEPTED

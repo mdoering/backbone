@@ -1,5 +1,4 @@
-Physarum parvicalcareum Thom. Hoppe, Holg. Müll. & Kutschera, 2010 SPECIES
-=======
+# Physarum parvicalcareum Thom. Hoppe, Holg. Müll. & Kutschera, 2010 SPECIES
 
 #### Status
 ACCEPTED

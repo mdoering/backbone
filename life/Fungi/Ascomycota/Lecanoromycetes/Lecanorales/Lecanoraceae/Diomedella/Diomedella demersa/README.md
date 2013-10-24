@@ -1,5 +1,4 @@
-Diomedella demersa (Kremp.) Hertel SPECIES
-=======
+# Diomedella demersa (Kremp.) Hertel SPECIES
 
 #### Status
 ACCEPTED

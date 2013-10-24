@@ -1,5 +1,4 @@
-Corynebacterium appendicis Yassin et al., 2002 SPECIES
-=======
+# Corynebacterium appendicis Yassin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

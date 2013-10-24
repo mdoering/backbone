@@ -1,5 +1,4 @@
-Graphis verruciformis Adaw. & Makhija SPECIES
-=======
+# Graphis verruciformis Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

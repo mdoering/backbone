@@ -1,5 +1,4 @@
-Sphenophrya cardii Chatton & Lwoff, 1950 SPECIES
-=======
+# Sphenophrya cardii Chatton & Lwoff, 1950 SPECIES
 
 #### Status
 ACCEPTED

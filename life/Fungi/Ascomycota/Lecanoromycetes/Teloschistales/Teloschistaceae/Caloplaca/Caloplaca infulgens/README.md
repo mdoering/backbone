@@ -1,5 +1,4 @@
-Caloplaca infulgens (Nyl.) J. Steiner SPECIES
-=======
+# Caloplaca infulgens (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

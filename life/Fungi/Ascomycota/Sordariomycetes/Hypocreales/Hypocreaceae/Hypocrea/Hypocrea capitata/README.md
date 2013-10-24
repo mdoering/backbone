@@ -1,5 +1,4 @@
-Hypocrea capitata Samuels SPECIES
-=======
+# Hypocrea capitata Samuels SPECIES
 
 #### Status
 ACCEPTED

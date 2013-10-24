@@ -1,5 +1,4 @@
-Uromyces rabenhorstii Kunze SPECIES
-=======
+# Uromyces rabenhorstii Kunze SPECIES
 
 #### Status
 ACCEPTED

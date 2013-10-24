@@ -1,5 +1,4 @@
-Chaetoceros borealoides Honigmann SPECIES
-=======
+# Chaetoceros borealoides Honigmann SPECIES
 
 #### Status
 ACCEPTED

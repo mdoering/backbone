@@ -1,5 +1,4 @@
-Cladonia elongata var. elongata VARIETY
-=======
+# Cladonia elongata Robbins SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia elongata var. elongata
+Cladonia elongata Robbins
 
 ### Remarks
 null

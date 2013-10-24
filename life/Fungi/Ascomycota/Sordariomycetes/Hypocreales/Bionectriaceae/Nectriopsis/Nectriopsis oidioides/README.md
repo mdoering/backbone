@@ -1,5 +1,4 @@
-Nectriopsis oidioides (Speg.) Samuels SPECIES
-=======
+# Nectriopsis oidioides (Speg.) Samuels SPECIES
 
 #### Status
 ACCEPTED

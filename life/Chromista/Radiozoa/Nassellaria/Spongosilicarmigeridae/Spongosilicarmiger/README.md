@@ -1,5 +1,4 @@
-Spongosilicarmiger Kozur, 1986 GENUS
-=======
+# Spongosilicarmiger Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

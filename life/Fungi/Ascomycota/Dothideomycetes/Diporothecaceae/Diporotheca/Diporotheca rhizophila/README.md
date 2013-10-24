@@ -1,5 +1,4 @@
-Diporotheca rhizophila C.C. Gordon & C.G. Shaw, 1961 SPECIES
-=======
+# Diporotheca rhizophila C.C. Gordon & C.G. Shaw, 1961 SPECIES
 
 #### Status
 ACCEPTED

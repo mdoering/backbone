@@ -1,5 +1,4 @@
-Scolecopeltis quindecimseptata Henn. SPECIES
-=======
+# Scolecopeltis quindecimseptata Henn. SPECIES
 
 #### Status
 ACCEPTED

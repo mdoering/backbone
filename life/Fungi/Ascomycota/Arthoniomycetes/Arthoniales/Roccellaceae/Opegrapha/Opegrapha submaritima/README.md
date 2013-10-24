@@ -1,5 +1,4 @@
-Opegrapha submaritima Hafellner SPECIES
-=======
+# Opegrapha submaritima Hafellner SPECIES
 
 #### Status
 ACCEPTED

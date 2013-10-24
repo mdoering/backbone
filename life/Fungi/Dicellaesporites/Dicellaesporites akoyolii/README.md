@@ -1,5 +1,4 @@
-Dicellaesporites akoyolii V.S. Ediger & Alisan SPECIES
-=======
+# Dicellaesporites akoyolii V.S. Ediger & Alisan SPECIES
 
 #### Status
 ACCEPTED

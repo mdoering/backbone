@@ -1,5 +1,4 @@
-Lecidella nivaria Arnold SPECIES
-=======
+# Lecidella nivaria Arnold SPECIES
 
 #### Status
 ACCEPTED

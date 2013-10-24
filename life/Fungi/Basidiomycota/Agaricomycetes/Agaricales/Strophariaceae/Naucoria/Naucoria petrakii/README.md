@@ -1,5 +1,4 @@
-Naucoria petrakii Hruby SPECIES
-=======
+# Naucoria petrakii Hruby SPECIES
 
 #### Status
 ACCEPTED

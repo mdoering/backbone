@@ -1,5 +1,4 @@
-Macrophoma fagoniae S. Ahmad SPECIES
-=======
+# Macrophoma fagoniae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

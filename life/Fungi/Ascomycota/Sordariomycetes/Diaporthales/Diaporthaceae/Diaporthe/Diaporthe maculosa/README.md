@@ -1,5 +1,4 @@
-Diaporthe maculosa Sacc. & Speg. SPECIES
-=======
+# Diaporthe maculosa Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

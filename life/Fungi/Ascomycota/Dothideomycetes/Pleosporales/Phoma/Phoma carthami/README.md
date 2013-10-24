@@ -1,5 +1,4 @@
-Phoma carthami Rodigin SPECIES
-=======
+# Phoma carthami Rodigin SPECIES
 
 #### Status
 ACCEPTED

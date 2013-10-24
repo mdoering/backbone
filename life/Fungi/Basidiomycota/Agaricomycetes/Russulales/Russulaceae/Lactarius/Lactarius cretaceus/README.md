@@ -1,5 +1,4 @@
-Lactarius cretaceus Stubbe & Verbeken SPECIES
-=======
+# Lactarius cretaceus Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa sycina (Mont.) Sacc. SPECIES
-=======
+# Eutypa sycina (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

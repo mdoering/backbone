@@ -1,5 +1,4 @@
-Usnea spinigera f. spinigera FORM
-=======
+# Usnea spinigera Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea spinigera f. spinigera
+Usnea spinigera Asahina
 
 ### Remarks
 null

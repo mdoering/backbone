@@ -1,5 +1,4 @@
-Puccinia prosopidis Bieberd., Mefferd & Blackmon SPECIES
-=======
+# Puccinia prosopidis Bieberd., Mefferd & Blackmon SPECIES
 
 #### Status
 ACCEPTED

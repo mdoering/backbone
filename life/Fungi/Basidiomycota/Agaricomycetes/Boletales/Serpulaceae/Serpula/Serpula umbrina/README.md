@@ -1,5 +1,4 @@
-Serpula umbrina (Fr.) P. Karst. SPECIES
-=======
+# Serpula umbrina (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

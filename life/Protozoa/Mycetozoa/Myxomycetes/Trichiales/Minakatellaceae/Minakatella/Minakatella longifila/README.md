@@ -1,17 +1,16 @@
-Minakatella longipila G. Lister SPECIES
-=======
+# Minakatella longifila G. Lister, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxonomie und medizinische Bedeutung der zur Gattung Geotrichum Link gehorenden Arten (Med. Habil. -Schrift, Magdeburg) 59: 92 (1921)
 
 #### Original name
-Minakatella longipila G. Lister
+Minakatella longifila G. Lister, 1921
 
 ### Remarks
 null

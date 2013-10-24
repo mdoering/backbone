@@ -1,5 +1,4 @@
-Tolypothrix conglutinata var. colorata Ghose VARIETY
-=======
+# Tolypothrix conglutinata Borzi SPECIES
 
 #### Status
 ACCEPTED

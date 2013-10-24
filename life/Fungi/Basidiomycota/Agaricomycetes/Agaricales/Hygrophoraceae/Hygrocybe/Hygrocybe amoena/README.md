@@ -1,5 +1,4 @@
-Hygrocybe amoena f. amoena FORM
-=======
+# Hygrocybe amoena (Lasch) Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hygrocybe amoena f. amoena
+null
 
 ### Remarks
 null

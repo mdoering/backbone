@@ -1,5 +1,4 @@
-Gloeosporium conviva Maire SPECIES
-=======
+# Gloeosporium conviva Maire SPECIES
 
 #### Status
 ACCEPTED

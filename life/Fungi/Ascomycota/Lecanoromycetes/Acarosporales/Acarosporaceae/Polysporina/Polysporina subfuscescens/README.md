@@ -1,5 +1,4 @@
-Polysporina subfuscescens (Nyl.) K. Knudsen & Kocourk. SPECIES
-=======
+# Polysporina subfuscescens (Nyl.) K. Knudsen & Kocourk. SPECIES
 
 #### Status
 ACCEPTED

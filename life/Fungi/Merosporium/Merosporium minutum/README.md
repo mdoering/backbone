@@ -1,5 +1,4 @@
-Merosporium minutum Corda SPECIES
-=======
+# Merosporium minutum Corda SPECIES
 
 #### Status
 ACCEPTED

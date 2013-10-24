@@ -1,5 +1,4 @@
-Mycorhynchus subspinuliformis Breton & Faurel SPECIES
-=======
+# Mycorhynchus subspinuliformis Breton & Faurel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella hymenocephala var. hymenocephala VARIETY
-=======
+# Psathyrella hymenocephala (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 5: 47 (1941)
 
 #### Original name
-Psathyrella hymenocephala var. hymenocephala
+Hypholoma hymenocephalum Peck
 
 ### Remarks
 null

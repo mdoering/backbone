@@ -1,5 +1,4 @@
-Macrophoma obsoleta Sacc. SPECIES
-=======
+# Macrophoma obsoleta Sacc. SPECIES
 
 #### Status
 ACCEPTED

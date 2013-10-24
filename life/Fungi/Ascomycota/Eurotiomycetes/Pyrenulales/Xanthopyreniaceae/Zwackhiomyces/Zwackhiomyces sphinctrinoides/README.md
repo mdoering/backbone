@@ -1,5 +1,4 @@
-Didymella sphinctrinoides var. sphinctrinoides VARIETY
-=======
+# Zwackhiomyces sphinctrinoides (Zwackh) Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini), Addit. 89 (1886)
+Nova Hedwigia 51(3-4): 327 (1990)
 
 #### Original name
-Didymella sphinctrinoides var. sphinctrinoides
+Endococcus sphinctrinoides Zwackh
 
 ### Remarks
 null

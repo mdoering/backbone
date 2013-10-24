@@ -1,5 +1,4 @@
-Lilaceophlebia georgica (Parmasto) Spirin & Zmitr. SPECIES
-=======
+# Lilaceophlebia georgica (Parmasto) Spirin & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

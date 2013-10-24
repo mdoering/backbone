@@ -1,5 +1,4 @@
-Pholiota terrigena (Fr.) P. Karst. SPECIES
-=======
+# Pholiota terrigena (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

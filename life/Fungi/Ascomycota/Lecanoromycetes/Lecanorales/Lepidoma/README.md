@@ -1,5 +1,4 @@
-Lepidoma GENUS
-=======
+# Lepidoma GENUS
 
 #### Status
 ACCEPTED

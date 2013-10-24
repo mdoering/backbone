@@ -1,5 +1,4 @@
-Hypogymnia subobscura (Vain.) Poelt SPECIES
-=======
+# Hypogymnia subobscura (Vain.) Poelt SPECIES
 
 #### Status
 ACCEPTED

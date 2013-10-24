@@ -1,17 +1,16 @@
-Ulocladium capsicuma F. Xue & X.G. Zhang SPECIES
-=======
+# Ulocladium capsici F. Xue & X.G. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 59(1): 174 (2007)
 
 #### Original name
-Ulocladium capsicuma F. Xue & X.G. Zhang
+Ulocladium capsici F. Xue & X.G. Zhang
 
 ### Remarks
 null

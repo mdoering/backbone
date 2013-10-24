@@ -1,5 +1,4 @@
-Paenibacillus naphthalenovorans Daane et al., 2002 SPECIES
-=======
+# Paenibacillus naphthalenovorans Daane et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

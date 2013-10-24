@@ -1,5 +1,4 @@
-Pluteus aestivus Velen. SPECIES
-=======
+# Pluteus aestivus Velen. SPECIES
 
 #### Status
 ACCEPTED

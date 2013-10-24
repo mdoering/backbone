@@ -1,5 +1,4 @@
-Physarum sinusosum Weinm. SPECIES
-=======
+# Physarum sinusosum Weinm. SPECIES
 
 #### Status
 ACCEPTED

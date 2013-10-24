@@ -1,5 +1,4 @@
-Cytosporella aesculi (Westend.) Sacc. SPECIES
-=======
+# Cytosporella aesculi (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia horrida Rehm SPECIES
-=======
+# Rosellinia horrida Rehm SPECIES
 
 #### Status
 ACCEPTED

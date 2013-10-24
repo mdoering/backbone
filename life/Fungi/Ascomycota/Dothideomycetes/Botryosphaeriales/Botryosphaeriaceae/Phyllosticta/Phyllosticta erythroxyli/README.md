@@ -1,5 +1,4 @@
-Phyllosticta erythroxyli Graziani SPECIES
-=======
+# Phyllosticta erythroxyli Graziani SPECIES
 
 #### Status
 ACCEPTED

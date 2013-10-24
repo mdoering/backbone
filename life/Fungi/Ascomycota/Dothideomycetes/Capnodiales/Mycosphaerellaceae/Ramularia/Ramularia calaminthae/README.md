@@ -1,5 +1,4 @@
-Ramularia calaminthae U. Braun, Chevassut & Pellic. SPECIES
-=======
+# Ramularia calaminthae U. Braun, Chevassut & Pellic. SPECIES
 
 #### Status
 ACCEPTED

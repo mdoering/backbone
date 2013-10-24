@@ -1,5 +1,4 @@
-Nanomyces Thaxt. GENUS
-=======
+# Nanomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

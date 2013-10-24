@@ -1,5 +1,4 @@
-Agaricus colvini Peck SPECIES
-=======
+# Agaricus colvini Peck SPECIES
 
 #### Status
 ACCEPTED

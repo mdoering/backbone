@@ -1,5 +1,4 @@
-Puccinia tricholaenae (Syd. & P. Syd.) T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Puccinia tricholaenae (Syd. & P. Syd.) T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

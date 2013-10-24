@@ -1,17 +1,16 @@
-Mycosphaerella elatostemmae Thirum. & Govindu SPECIES
-=======
+# Mycosphaerella elatostemmatis Thirum. & Govindu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8(1-6): 345 (1954)
 
 #### Original name
-Mycosphaerella elatostemmae Thirum. & Govindu
+Mycosphaerella elatostemmatis Thirum. & Govindu
 
 ### Remarks
 null

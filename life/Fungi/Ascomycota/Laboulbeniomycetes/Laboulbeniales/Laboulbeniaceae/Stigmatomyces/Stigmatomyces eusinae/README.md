@@ -1,5 +1,4 @@
-Stigmatomyces eusinae SPECIES
-=======
+# Stigmatomyces eusinae SPECIES
 
 #### Status
 ACCEPTED

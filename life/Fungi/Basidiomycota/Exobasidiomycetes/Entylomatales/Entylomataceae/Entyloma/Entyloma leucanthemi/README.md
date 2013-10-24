@@ -1,5 +1,4 @@
-Entyloma leucanthemi Syd. SPECIES
-=======
+# Entyloma leucanthemi Syd. SPECIES
 
 #### Status
 ACCEPTED

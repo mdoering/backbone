@@ -1,14 +1,13 @@
-Phyllachora sphaeroidea (Cooke) Cooke, 1885 SPECIES
-=======
+# Coccodothis sphaeroidea (Cooke) Theiss. & Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Annls mycol. 12(3): 271 (1914)
 
 #### Original name
 Dothidea sphaeroidea Cooke, 1878

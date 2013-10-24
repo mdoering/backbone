@@ -1,14 +1,13 @@
-Phaeotrema virens Müll. Arg. SPECIES
-=======
+# Ocellularia virens (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 70: 398 (1887)
+Mycotaxon 11(1): 138 (1980)
 
 #### Original name
 Phaeotrema virens Müll. Arg.

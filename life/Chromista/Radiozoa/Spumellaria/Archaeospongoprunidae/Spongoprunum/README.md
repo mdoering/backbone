@@ -1,5 +1,4 @@
-Spongoprunum Haeckel, 1887 GENUS
-=======
+# Spongoprunum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

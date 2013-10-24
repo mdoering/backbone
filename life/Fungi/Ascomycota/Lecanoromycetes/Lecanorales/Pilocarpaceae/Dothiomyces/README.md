@@ -1,5 +1,4 @@
-Dothiomyces GENUS
-=======
+# Dothiomyces GENUS
 
 #### Status
 ACCEPTED

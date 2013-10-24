@@ -1,8 +1,7 @@
-Heminidium montanum Bicudo & Skvortzov SPECIES
-=======
+# Hemidinium ochraceum Levander SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

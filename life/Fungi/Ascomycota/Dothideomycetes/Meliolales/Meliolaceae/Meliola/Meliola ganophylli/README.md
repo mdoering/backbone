@@ -1,5 +1,4 @@
-Meliola ganophylli F. Stevens & Roldan SPECIES
-=======
+# Meliola ganophylli F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

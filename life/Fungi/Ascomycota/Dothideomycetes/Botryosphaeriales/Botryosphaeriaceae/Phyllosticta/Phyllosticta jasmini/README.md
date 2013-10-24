@@ -1,5 +1,4 @@
-Phyllosticta jasmini Sacc., 1878 SPECIES
-=======
+# Phyllosticta jasmini Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

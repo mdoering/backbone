@@ -1,5 +1,4 @@
-Passalora oldenlandiae (Hansf.) U. Braun & Crous SPECIES
-=======
+# Passalora oldenlandiae (Hansf.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

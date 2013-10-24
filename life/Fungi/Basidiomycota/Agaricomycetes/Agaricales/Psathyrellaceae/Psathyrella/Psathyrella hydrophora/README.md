@@ -1,5 +1,4 @@
-Psathyrella hydrophora (Bull.) Fr. SPECIES
-=======
+# Psathyrella hydrophora (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

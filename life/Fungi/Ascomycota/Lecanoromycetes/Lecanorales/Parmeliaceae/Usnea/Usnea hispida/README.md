@@ -1,5 +1,4 @@
-Usnea hispida Motyka SPECIES
-=======
+# Usnea hispida Motyka SPECIES
 
 #### Status
 ACCEPTED

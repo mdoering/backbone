@@ -1,5 +1,4 @@
-Phyllosticta ricini Rostr. SPECIES
-=======
+# Phyllosticta ricini Rostr. SPECIES
 
 #### Status
 ACCEPTED

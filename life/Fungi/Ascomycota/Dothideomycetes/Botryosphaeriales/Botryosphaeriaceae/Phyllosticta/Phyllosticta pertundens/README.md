@@ -1,5 +1,4 @@
-Phyllosticta pertundens Sacc. SPECIES
-=======
+# Phyllosticta pertundens Sacc. SPECIES
 
 #### Status
 ACCEPTED

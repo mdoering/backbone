@@ -1,5 +1,4 @@
-Scopula GENUS
-=======
+# Scopula GENUS
 
 #### Status
 ACCEPTED

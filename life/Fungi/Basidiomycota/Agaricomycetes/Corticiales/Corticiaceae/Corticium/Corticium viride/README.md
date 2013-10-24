@@ -1,5 +1,4 @@
-Corticium viride Preuss SPECIES
-=======
+# Corticium viride Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodimeriella chusqueae (Henn.) Theiss. SPECIES
-=======
+# Phaeodimeriella chusqueae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

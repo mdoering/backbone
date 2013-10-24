@@ -1,5 +1,4 @@
-Botryosphaeria theicola Petch SPECIES
-=======
+# Botryosphaeria theicola Petch SPECIES
 
 #### Status
 ACCEPTED

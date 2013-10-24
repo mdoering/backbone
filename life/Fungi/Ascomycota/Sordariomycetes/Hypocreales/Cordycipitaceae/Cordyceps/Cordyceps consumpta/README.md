@@ -1,5 +1,4 @@
-Cordyceps consumpta G. Cunn. SPECIES
-=======
+# Cordyceps consumpta G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

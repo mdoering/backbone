@@ -1,5 +1,4 @@
-Puccinia huteri P. Syd. & Syd. SPECIES
-=======
+# Puccinia huteri P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

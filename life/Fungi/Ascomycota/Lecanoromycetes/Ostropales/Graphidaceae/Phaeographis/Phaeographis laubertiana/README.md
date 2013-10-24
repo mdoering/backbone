@@ -1,5 +1,4 @@
-Phaeographis laubertiana (Fée) Müll. Arg. SPECIES
-=======
+# Phaeographis laubertiana (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

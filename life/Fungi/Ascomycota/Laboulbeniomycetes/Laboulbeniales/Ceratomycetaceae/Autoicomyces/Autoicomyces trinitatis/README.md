@@ -1,5 +1,4 @@
-Autoicomyces trinitatis Thaxt. SPECIES
-=======
+# Autoicomyces trinitatis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

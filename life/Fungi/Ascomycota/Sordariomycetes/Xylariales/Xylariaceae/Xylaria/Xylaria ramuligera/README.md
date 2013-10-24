@@ -1,5 +1,4 @@
-Xylaria ramuligera Starbäck SPECIES
-=======
+# Xylaria ramuligera Starbäck SPECIES
 
 #### Status
 ACCEPTED

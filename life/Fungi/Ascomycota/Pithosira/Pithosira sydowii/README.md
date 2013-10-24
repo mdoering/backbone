@@ -1,5 +1,4 @@
-Pithosira sydowii Petr., 1949 SPECIES
-=======
+# Pithosira sydowii Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

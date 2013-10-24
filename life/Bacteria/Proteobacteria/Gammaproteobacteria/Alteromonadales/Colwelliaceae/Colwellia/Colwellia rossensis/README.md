@@ -1,5 +1,4 @@
-Colwellia rossensis Bowman et al., 1998 SPECIES
-=======
+# Colwellia rossensis Bowman et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

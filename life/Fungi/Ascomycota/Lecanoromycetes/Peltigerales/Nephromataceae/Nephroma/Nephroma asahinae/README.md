@@ -1,5 +1,4 @@
-Nephroma asahinae Zahlbr. SPECIES
-=======
+# Nephroma asahinae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

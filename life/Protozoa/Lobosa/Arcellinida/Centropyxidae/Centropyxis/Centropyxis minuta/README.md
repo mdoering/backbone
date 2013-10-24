@@ -1,5 +1,4 @@
-Centropyxis minuta Deflandre, 1929 SPECIES
-=======
+# Centropyxis minuta Deflandre, 1929 SPECIES
 
 #### Status
 ACCEPTED

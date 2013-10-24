@@ -1,5 +1,4 @@
-Mitremyces luridus Berk. SPECIES
-=======
+# Mitremyces luridus Berk. SPECIES
 
 #### Status
 ACCEPTED

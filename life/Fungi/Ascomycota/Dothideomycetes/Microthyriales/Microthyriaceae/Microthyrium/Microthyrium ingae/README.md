@@ -1,5 +1,4 @@
-Microthyrium ingae (R.W. Ryan) Toro SPECIES
-=======
+# Microthyrium ingae (R.W. Ryan) Toro SPECIES
 
 #### Status
 ACCEPTED

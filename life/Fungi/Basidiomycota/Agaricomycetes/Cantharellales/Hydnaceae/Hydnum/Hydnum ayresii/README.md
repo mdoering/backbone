@@ -1,5 +1,4 @@
-Hydnum ayresii Berk. ex Cooke SPECIES
-=======
+# Hydnum ayresii Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

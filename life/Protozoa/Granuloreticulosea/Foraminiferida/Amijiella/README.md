@@ -1,5 +1,4 @@
-Amijiella Loeblich & Tappan, 1985 GENUS
-=======
+# Amijiella Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

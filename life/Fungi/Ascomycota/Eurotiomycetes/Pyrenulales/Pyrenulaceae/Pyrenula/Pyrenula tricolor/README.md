@@ -1,5 +1,4 @@
-Pyrenula tricolor Müll. Arg. SPECIES
-=======
+# Pyrenula tricolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ithyphallus quadricolor (Berk. & Broome) E. Fisch. SPECIES
-=======
+# Ithyphallus quadricolor (Berk. & Broome) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

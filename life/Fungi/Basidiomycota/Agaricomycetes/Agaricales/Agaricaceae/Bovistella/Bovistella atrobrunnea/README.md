@@ -1,5 +1,4 @@
-Bovistella atrobrunnea Zeller SPECIES
-=======
+# Bovistella atrobrunnea Zeller SPECIES
 
 #### Status
 ACCEPTED

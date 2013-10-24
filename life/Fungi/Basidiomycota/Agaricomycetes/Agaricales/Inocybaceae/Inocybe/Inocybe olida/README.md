@@ -1,5 +1,4 @@
-Inocybe olida Maire SPECIES
-=======
+# Inocybe olida Maire SPECIES
 
 #### Status
 ACCEPTED

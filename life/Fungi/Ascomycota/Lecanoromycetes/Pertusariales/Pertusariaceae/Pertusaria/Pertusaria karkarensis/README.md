@@ -1,5 +1,4 @@
-Pertusaria karkarensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria karkarensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

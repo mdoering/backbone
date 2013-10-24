@@ -1,5 +1,4 @@
-Phlebia vinosa (Overh.) Burds. SPECIES
-=======
+# Phlebia vinosa (Overh.) Burds. SPECIES
 
 #### Status
 ACCEPTED

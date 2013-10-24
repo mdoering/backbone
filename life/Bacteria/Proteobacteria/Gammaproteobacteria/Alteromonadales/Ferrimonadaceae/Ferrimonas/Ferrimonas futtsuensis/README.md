@@ -1,5 +1,4 @@
-Ferrimonas futtsuensis Nakagawa, Iino, Suzuki & Harayama, 2006 SPECIES
-=======
+# Ferrimonas futtsuensis Nakagawa, Iino, Suzuki & Harayama, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina urinaria Dogiel, 1940 SPECIES
-=======
+# Trichodina urinaria Dogiel, 1940 SPECIES
 
 #### Status
 ACCEPTED

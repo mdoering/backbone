@@ -1,5 +1,4 @@
-Pyxine endochrysoides (Nyl.) Degel. SPECIES
-=======
+# Pyxine endochrysoides (Nyl.) Degel. SPECIES
 
 #### Status
 ACCEPTED

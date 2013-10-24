@@ -1,5 +1,4 @@
-Resupinatus omphalioides Singer SPECIES
-=======
+# Resupinatus omphalioides Singer SPECIES
 
 #### Status
 ACCEPTED

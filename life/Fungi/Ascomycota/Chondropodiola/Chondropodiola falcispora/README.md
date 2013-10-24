@@ -1,5 +1,4 @@
-Chondropodiola falcispora Petr. & Cif. SPECIES
-=======
+# Chondropodiola falcispora Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

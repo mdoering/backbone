@@ -1,5 +1,4 @@
-Chrysochromulina hirta Manton, 1978 SPECIES
-=======
+# Chrysochromulina hirta Manton, 1978 SPECIES
 
 #### Status
 ACCEPTED

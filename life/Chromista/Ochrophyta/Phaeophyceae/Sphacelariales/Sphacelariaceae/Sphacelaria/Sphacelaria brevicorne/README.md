@@ -1,5 +1,4 @@
-Sphacelaria brevicorne Setchell & Gardner SPECIES
-=======
+# Sphacelaria brevicorne Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

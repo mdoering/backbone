@@ -1,5 +1,4 @@
-Tympanis oxydendri Ellis & Everh. SPECIES
-=======
+# Tympanis oxydendri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entomophthora creatonoti D.F. Yen, 1962 SPECIES
-=======
+# Furia creatonoti (D.F. Yen ex Humber) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Insect Pathology 4: 89 (1962)
+Mycotaxon 34(2): 450 (1989)
 
 #### Original name
-Entomophthora creatonoti D.F. Yen, 1962
+Erynia creatonoti (D.F. Yen) Remaud. & Hennebert, 1980
 
 ### Remarks
 null

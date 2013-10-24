@@ -1,5 +1,4 @@
-Fumago oosperma Speg. SPECIES
-=======
+# Fumago oosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea papaveracea Chevall. SPECIES
-=======
+# Lecidea papaveracea Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora sanctae-helenae Müll. Arg. SPECIES
-=======
+# Lecanora sanctae-helenae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

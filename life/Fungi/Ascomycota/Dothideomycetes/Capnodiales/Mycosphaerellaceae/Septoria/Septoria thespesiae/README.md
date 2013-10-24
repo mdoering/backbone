@@ -1,5 +1,4 @@
-Septoria thespesiae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Septoria thespesiae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

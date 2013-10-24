@@ -1,5 +1,4 @@
-Lachnea blepharostoma Kirschst. SPECIES
-=======
+# Lachnea blepharostoma Kirschst. SPECIES
 
 #### Status
 ACCEPTED

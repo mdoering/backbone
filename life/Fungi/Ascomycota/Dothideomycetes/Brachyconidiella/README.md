@@ -1,5 +1,4 @@
-Brachyconidiella R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Brachyconidiella R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

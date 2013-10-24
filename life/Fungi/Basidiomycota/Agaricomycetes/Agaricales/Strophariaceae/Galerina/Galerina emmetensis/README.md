@@ -1,5 +1,4 @@
-Galerina emmetensis A.H. Sm. & Singer SPECIES
-=======
+# Galerina emmetensis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius amurceus Fr. SPECIES
-=======
+# Cortinarius amurceus Fr. SPECIES
 
 #### Status
 ACCEPTED

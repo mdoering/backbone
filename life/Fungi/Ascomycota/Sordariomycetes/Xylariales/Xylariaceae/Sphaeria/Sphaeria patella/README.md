@@ -1,5 +1,4 @@
-Sphaeria patella var. patella VARIETY
-=======
+# Sphaeria patella Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria patella var. patella
+Sphaeria patella Pers.
 
 ### Remarks
 null

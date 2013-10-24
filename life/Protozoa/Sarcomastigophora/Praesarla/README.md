@@ -1,5 +1,4 @@
-Praesarla Cordey, 1998 GENUS
-=======
+# Praesarla Cordey, 1998 GENUS
 
 #### Status
 ACCEPTED

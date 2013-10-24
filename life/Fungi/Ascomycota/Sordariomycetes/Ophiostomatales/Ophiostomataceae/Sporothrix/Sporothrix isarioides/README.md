@@ -1,17 +1,16 @@
-Sporotrichum columnare Petch, 1935 SPECIES
-=======
+# Sporothrix isarioides (Petch) de Hoog, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 19: 186 (1935)
+Stud. Mycol. 7: 23 (1974)
 
 #### Original name
-Sporotrichum columnare Petch, 1935
+Sporotrichum isarioides Petch, 1931
 
 ### Remarks
 null

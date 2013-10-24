@@ -1,5 +1,4 @@
-Laboulbenia nardii W. Rossi SPECIES
-=======
+# Laboulbenia nardii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

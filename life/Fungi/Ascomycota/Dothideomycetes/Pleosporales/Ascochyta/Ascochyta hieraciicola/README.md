@@ -1,5 +1,4 @@
-Ascochyta hieraciicola Moesz & Smarods SPECIES
-=======
+# Ascochyta hieraciicola Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

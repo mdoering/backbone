@@ -1,5 +1,4 @@
-Spirulina cabrerae P. González SPECIES
-=======
+# Spirulina cabrerae P. González SPECIES
 
 #### Status
 ACCEPTED

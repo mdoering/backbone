@@ -1,5 +1,4 @@
-Crassapontosphaera Boudreaux & W.Hay, 1969 GENUS
-=======
+# Crassapontosphaera Boudreaux & W.Hay, 1969 GENUS
 
 #### Status
 ACCEPTED

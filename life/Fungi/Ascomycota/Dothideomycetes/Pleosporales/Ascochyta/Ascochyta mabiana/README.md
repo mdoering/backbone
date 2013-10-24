@@ -1,5 +1,4 @@
-Ascochyta mabiana Sacc. SPECIES
-=======
+# Ascochyta mabiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

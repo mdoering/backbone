@@ -1,5 +1,4 @@
-Trachytriletes kryshtofovichii Naumova, 1949 SPECIES
-=======
+# Trachytriletes kryshtofovichii Naumova, 1949 SPECIES
 
 #### Status
 ACCEPTED

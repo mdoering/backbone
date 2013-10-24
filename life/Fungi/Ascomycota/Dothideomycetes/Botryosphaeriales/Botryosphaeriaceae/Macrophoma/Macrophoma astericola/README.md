@@ -1,5 +1,4 @@
-Macrophoma astericola (G.F. Atk.) Tassi SPECIES
-=======
+# Macrophoma astericola (G.F. Atk.) Tassi SPECIES
 
 #### Status
 ACCEPTED

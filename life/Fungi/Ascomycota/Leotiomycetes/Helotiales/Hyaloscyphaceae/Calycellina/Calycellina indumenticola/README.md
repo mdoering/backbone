@@ -1,5 +1,4 @@
-Calycellina indumenticola Graddon, 1974 SPECIES
-=======
+# Calycellina indumenticola Graddon, 1974 SPECIES
 
 #### Status
 ACCEPTED

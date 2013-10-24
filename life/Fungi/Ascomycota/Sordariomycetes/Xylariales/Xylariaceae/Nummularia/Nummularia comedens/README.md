@@ -1,5 +1,4 @@
-Nummularia comedens f. comedens FORM
-=======
+# Nummularia comedens (Ces.) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 11(no. 60): 126 (1883)
 
 #### Original name
-Nummularia comedens f. comedens
+Hypoxylon comedens Ces.
 
 ### Remarks
 null

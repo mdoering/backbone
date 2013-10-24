@@ -1,5 +1,4 @@
-Gloeosporium betulicola Sacc. & Dearn. SPECIES
-=======
+# Gloeosporium betulicola Sacc. & Dearn. SPECIES
 
 #### Status
 ACCEPTED

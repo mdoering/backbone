@@ -1,5 +1,4 @@
-Helotium cecropiae Henn. SPECIES
-=======
+# Helotium cecropiae Henn. SPECIES
 
 #### Status
 ACCEPTED

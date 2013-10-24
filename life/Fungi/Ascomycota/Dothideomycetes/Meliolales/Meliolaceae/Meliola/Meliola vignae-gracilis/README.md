@@ -1,5 +1,4 @@
-Meliola vignae-gracilis var. vignae-gracilis VARIETY
-=======
+# Meliola vignae-gracilis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 36 (1948)
 
 #### Original name
-Meliola vignae-gracilis var. vignae-gracilis
+Meliola vignae-gracilis Hansf. & Deighton
 
 ### Remarks
 null

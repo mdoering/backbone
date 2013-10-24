@@ -1,5 +1,4 @@
-Lepiota permodesta (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Lepiota permodesta (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

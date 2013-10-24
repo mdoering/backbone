@@ -1,5 +1,4 @@
-Xenodochus carbonarius Schltdl., 1826 SPECIES
-=======
+# Xenodochus carbonarius Schltdl., 1826 SPECIES
 
 #### Status
 ACCEPTED

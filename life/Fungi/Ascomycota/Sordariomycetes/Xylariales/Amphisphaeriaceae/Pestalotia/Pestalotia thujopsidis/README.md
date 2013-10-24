@@ -1,5 +1,4 @@
-Pestalotia thujopsidis Sawada SPECIES
-=======
+# Pestalotia thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

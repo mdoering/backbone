@@ -1,5 +1,4 @@
-Cercospora paludicola Speg. SPECIES
-=======
+# Cercospora paludicola Speg. SPECIES
 
 #### Status
 ACCEPTED

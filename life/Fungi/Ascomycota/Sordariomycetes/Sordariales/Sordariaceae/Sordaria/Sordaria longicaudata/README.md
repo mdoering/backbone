@@ -1,5 +1,4 @@
-Sordaria longicaudata (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Sordaria longicaudata (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

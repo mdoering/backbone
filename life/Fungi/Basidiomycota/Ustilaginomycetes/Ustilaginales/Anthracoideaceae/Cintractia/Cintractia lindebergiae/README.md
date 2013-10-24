@@ -1,5 +1,4 @@
-Cintractia lindebergiae Kukkonen SPECIES
-=======
+# Cintractia lindebergiae Kukkonen SPECIES
 
 #### Status
 ACCEPTED

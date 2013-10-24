@@ -1,5 +1,4 @@
-Lagenosolenia palliata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia palliata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

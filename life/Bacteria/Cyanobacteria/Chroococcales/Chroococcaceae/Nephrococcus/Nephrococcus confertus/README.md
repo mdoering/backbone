@@ -1,5 +1,4 @@
-Nephrococcus confertus Li SPECIES
-=======
+# Nephrococcus confertus Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peroniella Gobi, 1886 GENUS
-=======
+# Peroniella Gobi, 1886 GENUS
 
 #### Status
 ACCEPTED

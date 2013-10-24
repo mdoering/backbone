@@ -1,5 +1,4 @@
-Phyllachora condigna Petr., 1950 SPECIES
-=======
+# Phyllachora condigna Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

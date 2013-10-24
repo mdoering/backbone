@@ -1,5 +1,4 @@
-Calocera hamata Pass. SPECIES
-=======
+# Calocera hamata Pass. SPECIES
 
 #### Status
 ACCEPTED

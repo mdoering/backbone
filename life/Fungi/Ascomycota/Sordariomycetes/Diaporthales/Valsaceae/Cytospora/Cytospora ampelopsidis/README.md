@@ -1,5 +1,4 @@
-Cytospora ampelopsidis C. Massal. SPECIES
-=======
+# Cytospora ampelopsidis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

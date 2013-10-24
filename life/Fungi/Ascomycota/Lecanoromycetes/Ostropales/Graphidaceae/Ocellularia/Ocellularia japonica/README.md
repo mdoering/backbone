@@ -1,5 +1,4 @@
-Ocellularia japonica Zahlbr. SPECIES
-=======
+# Ocellularia japonica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

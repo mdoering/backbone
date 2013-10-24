@@ -1,5 +1,4 @@
-Simonyella variegata J. Steiner SPECIES
-=======
+# Simonyella variegata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes arenarius Maganini & Nobili, 1964 SPECIES
-=======
+# Euplotes arenarius Maganini & Nobili, 1964 SPECIES
 
 #### Status
 ACCEPTED

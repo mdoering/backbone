@@ -1,5 +1,4 @@
-Peronospora nasturtii-palustris S. Ito & Tokun. SPECIES
-=======
+# Peronospora nasturtii-palustris S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

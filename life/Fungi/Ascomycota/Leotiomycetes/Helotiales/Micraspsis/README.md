@@ -1,5 +1,4 @@
-Micraspsis G.D. Darker, 1963 GENUS
-=======
+# Micraspsis G.D. Darker, 1963 GENUS
 
 #### Status
 ACCEPTED

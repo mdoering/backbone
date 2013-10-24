@@ -1,8 +1,7 @@
-Helicobacter mustelae (Fox et al., 1988) Goodwin et al., 1989 SPECIES
-=======
+# Campylobacter mustelae (Fox et al., 1988) Fox et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

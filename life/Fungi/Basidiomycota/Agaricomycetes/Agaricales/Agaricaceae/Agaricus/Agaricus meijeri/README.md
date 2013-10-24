@@ -1,5 +1,4 @@
-Agaricus meijeri Heinem. SPECIES
-=======
+# Agaricus meijeri Heinem. SPECIES
 
 #### Status
 ACCEPTED

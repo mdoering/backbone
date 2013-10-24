@@ -1,5 +1,4 @@
-Gloeophyllum berkeleyi (Sacc.) Murrill SPECIES
-=======
+# Gloeophyllum berkeleyi (Sacc.) Murrill SPECIES
 
 #### Status
 ACCEPTED

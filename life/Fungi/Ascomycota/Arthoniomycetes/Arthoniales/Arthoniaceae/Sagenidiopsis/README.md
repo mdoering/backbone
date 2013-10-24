@@ -1,17 +1,16 @@
-Byssophoropsis (Vain.) Tehler GENUS
-=======
+# Sagenidiopsis R.W. Rogers & Hafellner GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. bot. 3(2): 143 (1993)
+Lichenologist 19(4): 401 (1987)
 
 #### Original name
-null
+Sagenidiopsis R.W. Rogers & Hafellner
 
 ### Remarks
 null

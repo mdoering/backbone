@@ -1,5 +1,4 @@
-Inocybe squarrosolutea (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe squarrosolutea (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus porosporus Heinem. SPECIES
-=======
+# Agaricus porosporus Heinem. SPECIES
 
 #### Status
 ACCEPTED

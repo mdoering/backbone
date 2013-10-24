@@ -1,5 +1,4 @@
-Poria gordoniensis (Berk. & Broome) Sacc. SPECIES
-=======
+# Poria gordoniensis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

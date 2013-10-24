@@ -1,5 +1,4 @@
-Colletotrichum kiotoense (Hemmi & Nojima) Petr. SPECIES
-=======
+# Colletotrichum kiotoense (Hemmi & Nojima) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizostoma Ehrenberg ex Léveillé, 1846 GENUS
-=======
+# Schizostoma Ehrenberg ex Léveillé, 1846 GENUS
 
 #### Status
 ACCEPTED

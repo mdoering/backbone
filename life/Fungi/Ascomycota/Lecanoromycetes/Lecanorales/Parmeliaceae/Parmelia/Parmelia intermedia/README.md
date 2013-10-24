@@ -1,5 +1,4 @@
-Parmelia intermedia Gyeln. SPECIES
-=======
+# Parmelia intermedia Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum saxitas Burt SPECIES
-=======
+# Stereum saxitas Burt SPECIES
 
 #### Status
 ACCEPTED

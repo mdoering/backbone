@@ -1,5 +1,4 @@
-Conocybe affinis Singer SPECIES
-=======
+# Conocybe affinis Singer SPECIES
 
 #### Status
 ACCEPTED

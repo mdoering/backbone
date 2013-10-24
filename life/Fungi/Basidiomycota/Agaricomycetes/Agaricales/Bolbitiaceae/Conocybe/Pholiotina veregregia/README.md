@@ -1,5 +1,4 @@
-Pholiotina veregregia Contu SPECIES
-=======
+# Pholiotina veregregia Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria inconspicua H.C. Greene SPECIES
-=======
+# Alternaria inconspicua H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

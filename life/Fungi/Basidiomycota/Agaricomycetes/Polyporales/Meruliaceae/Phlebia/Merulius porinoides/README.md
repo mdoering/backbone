@@ -1,17 +1,16 @@
-Merulius porinoides var. porinoides VARIETY
-=======
+# Merulius porinoides SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
-Observ. mycol. (Havniae) 2: 237 (1818)
+null
 
 #### Original name
-Merulius porinoides var. porinoides
+null
 
 ### Remarks
 null

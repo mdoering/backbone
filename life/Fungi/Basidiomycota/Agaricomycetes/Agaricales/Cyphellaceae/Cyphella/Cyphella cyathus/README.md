@@ -1,5 +1,4 @@
-Cyphella cyathus Henn. SPECIES
-=======
+# Cyphella cyathus Henn. SPECIES
 
 #### Status
 ACCEPTED

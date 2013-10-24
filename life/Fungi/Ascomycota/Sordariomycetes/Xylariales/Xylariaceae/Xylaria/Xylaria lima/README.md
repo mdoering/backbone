@@ -1,5 +1,4 @@
-Xylaria lima Höhn. SPECIES
-=======
+# Xylaria lima Höhn. SPECIES
 
 #### Status
 ACCEPTED

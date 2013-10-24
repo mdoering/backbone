@@ -1,5 +1,4 @@
-Cystopezizella GENUS
-=======
+# Cystopezizella GENUS
 
 #### Status
 ACCEPTED

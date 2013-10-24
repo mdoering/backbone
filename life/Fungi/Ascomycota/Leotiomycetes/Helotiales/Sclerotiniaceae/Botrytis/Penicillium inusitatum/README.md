@@ -1,5 +1,4 @@
-Penicillium inusitatum D.B. Scott, 1968 SPECIES
-=======
+# Penicillium inusitatum D.B. Scott, 1968 SPECIES
 
 #### Status
 DOUBTFUL

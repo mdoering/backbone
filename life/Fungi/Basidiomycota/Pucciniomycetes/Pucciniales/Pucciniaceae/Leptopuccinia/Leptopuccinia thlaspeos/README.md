@@ -1,5 +1,4 @@
-Leptopuccinia thlaspeos (C. Schub.) Syd. SPECIES
-=======
+# Leptopuccinia thlaspeos (C. Schub.) Syd. SPECIES
 
 #### Status
 ACCEPTED

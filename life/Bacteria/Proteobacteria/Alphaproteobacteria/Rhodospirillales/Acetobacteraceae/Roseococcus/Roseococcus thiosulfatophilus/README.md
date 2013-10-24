@@ -1,5 +1,4 @@
-Roseococcus thiosulfatophilus Yurkov et al., 1994 SPECIES
-=======
+# Roseococcus thiosulfatophilus Yurkov et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

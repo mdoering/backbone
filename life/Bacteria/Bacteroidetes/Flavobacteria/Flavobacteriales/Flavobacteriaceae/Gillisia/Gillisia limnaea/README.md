@@ -1,5 +1,4 @@
-Gillisia limnaea Van Trappen et al., 2004 SPECIES
-=======
+# Gillisia limnaea Van Trappen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

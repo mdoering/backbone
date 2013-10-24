@@ -1,5 +1,4 @@
-Reissia Loeblich & Tappan, 1964 GENUS
-=======
+# Reissia Loeblich & Tappan, 1964 GENUS
 
 #### Status
 ACCEPTED

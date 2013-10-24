@@ -1,5 +1,4 @@
-Verrucaria rubens (Ach.) Flörke SPECIES
-=======
+# Verrucaria rubens (Ach.) Flörke SPECIES
 
 #### Status
 ACCEPTED

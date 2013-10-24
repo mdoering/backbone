@@ -1,5 +1,4 @@
-Chaetopyrena penicillata (Fuckel) Höhn., 1918 SPECIES
-=======
+# Chaetopyrena penicillata (Fuckel) Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

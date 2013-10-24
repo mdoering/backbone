@@ -1,5 +1,4 @@
-Lecidea gorodkovii var. gorodkovii VARIETY
-=======
+# Lecidea gorodkovii Oxner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea gorodkovii var. gorodkovii
+Lecidea gorodkovii Oxner
 
 ### Remarks
 null

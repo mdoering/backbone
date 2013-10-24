@@ -1,14 +1,13 @@
-Clavaria australiana Cleland, 1931 SPECIES
-=======
+# Ramaria australiana (Cleland) R.H. Petersen, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. South Australia 60: 159 (1931)
+Bull. Torrey bot. Club 96(4): 459 (1969)
 
 #### Original name
 Clavaria australiana Cleland, 1931

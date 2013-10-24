@@ -1,5 +1,4 @@
-Marasmius phlebodiscus Desjardin & E. Horak SPECIES
-=======
+# Marasmius phlebodiscus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

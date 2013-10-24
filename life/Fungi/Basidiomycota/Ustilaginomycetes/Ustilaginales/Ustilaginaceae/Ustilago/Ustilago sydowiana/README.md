@@ -1,5 +1,4 @@
-Ustilago sydowiana Mundk. SPECIES
-=======
+# Ustilago sydowiana Mundk. SPECIES
 
 #### Status
 ACCEPTED

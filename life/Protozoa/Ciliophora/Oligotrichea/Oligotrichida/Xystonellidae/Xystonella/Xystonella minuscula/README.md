@@ -1,5 +1,4 @@
-Xystonella minuscula Kofoid & Campbell, 1929 SPECIES
-=======
+# Xystonella minuscula Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

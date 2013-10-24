@@ -1,5 +1,4 @@
-Collybia cystidiosa A.H. Sm. & Hesler SPECIES
-=======
+# Collybia cystidiosa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

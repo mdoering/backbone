@@ -1,5 +1,4 @@
-Cortinarius circumvelatus Reumaux SPECIES
-=======
+# Cortinarius circumvelatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

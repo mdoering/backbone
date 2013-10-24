@@ -1,5 +1,4 @@
-Baltisphaeridium medium Stockmans & Willière, 1974 SPECIES
-=======
+# Baltisphaeridium medium Stockmans & Willière, 1974 SPECIES
 
 #### Status
 ACCEPTED

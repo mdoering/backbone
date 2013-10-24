@@ -1,5 +1,4 @@
-Penicillium glandicola var. glandicola VARIETY
-=======
+# Penicillium glandicola SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Samson & Pitt (eds), Advances in Penicillium and Aspergillus Systematics (New York) 147 (1986)
+null
 
 #### Original name
-Coremium glandicola Oudem., 1903
+null
 
 ### Remarks
 null

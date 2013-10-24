@@ -1,5 +1,4 @@
-Andreprevotia Weon et al., 2007 GENUS
-=======
+# Andreprevotia Weon et al., 2007 GENUS
 
 #### Status
 ACCEPTED

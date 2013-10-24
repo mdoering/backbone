@@ -1,5 +1,4 @@
-Ombrophila ambigua Höhn., 1918 SPECIES
-=======
+# Ombrophila ambigua Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

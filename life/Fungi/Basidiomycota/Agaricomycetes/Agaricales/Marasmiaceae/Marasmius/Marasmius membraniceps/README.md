@@ -1,5 +1,4 @@
-Marasmius membraniceps Cooke SPECIES
-=======
+# Marasmius membraniceps Cooke SPECIES
 
 #### Status
 ACCEPTED

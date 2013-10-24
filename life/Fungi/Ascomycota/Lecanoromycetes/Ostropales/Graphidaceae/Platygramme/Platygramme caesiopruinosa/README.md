@@ -1,17 +1,16 @@
-Phaeographina caesiopruinosa f. caesiopruinosa FORM
-=======
+# Platygramme caesiopruinosa (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 29(8): 49 (1887)
+null
 
 #### Original name
-Phaeographina caesiopruinosa f. caesiopruinosa
+null
 
 ### Remarks
 null

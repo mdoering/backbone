@@ -1,5 +1,4 @@
-Phyllosticta passiflorae McAlpine SPECIES
-=======
+# Phyllosticta passiflorae McAlpine SPECIES
 
 #### Status
 ACCEPTED

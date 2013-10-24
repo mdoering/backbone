@@ -1,5 +1,4 @@
-Lepista liwaguensis Corner SPECIES
-=======
+# Lepista liwaguensis Corner SPECIES
 
 #### Status
 ACCEPTED

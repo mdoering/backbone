@@ -1,5 +1,4 @@
-Discula crataegi Oudem. SPECIES
-=======
+# Discula crataegi Oudem. SPECIES
 
 #### Status
 ACCEPTED

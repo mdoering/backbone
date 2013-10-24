@@ -1,5 +1,4 @@
-Russula rugulosa Peck SPECIES
-=======
+# Russula rugulosa Peck SPECIES
 
 #### Status
 ACCEPTED

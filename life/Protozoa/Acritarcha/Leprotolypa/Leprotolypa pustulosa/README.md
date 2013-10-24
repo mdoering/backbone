@@ -1,5 +1,4 @@
-Leprotolypa pustulosa Le Hérissé, 1989 SPECIES
-=======
+# Leprotolypa pustulosa Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

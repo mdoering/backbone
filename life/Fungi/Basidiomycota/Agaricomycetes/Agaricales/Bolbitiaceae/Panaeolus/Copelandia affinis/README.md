@@ -1,5 +1,4 @@
-Copelandia affinis E. Horak SPECIES
-=======
+# Copelandia affinis E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius terribilis Reumaux SPECIES
-=======
+# Cortinarius terribilis Reumaux SPECIES
 
 #### Status
 ACCEPTED

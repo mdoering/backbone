@@ -1,5 +1,4 @@
-Pertusaria lavicola Erichsen SPECIES
-=======
+# Pertusaria lavicola Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo davaoensis Syd. & P. Syd. SPECIES
-=======
+# Uredo davaoensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

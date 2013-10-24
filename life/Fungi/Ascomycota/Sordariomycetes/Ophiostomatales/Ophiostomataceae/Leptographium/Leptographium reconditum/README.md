@@ -1,5 +1,4 @@
-Leptographium reconditum Jooste, 1978 SPECIES
-=======
+# Leptographium reconditum Jooste, 1978 SPECIES
 
 #### Status
 ACCEPTED

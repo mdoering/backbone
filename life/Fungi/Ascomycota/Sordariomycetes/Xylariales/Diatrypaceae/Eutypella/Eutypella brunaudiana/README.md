@@ -1,5 +1,4 @@
-Eutypella brunaudiana Sacc. SPECIES
-=======
+# Eutypella brunaudiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

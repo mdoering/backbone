@@ -1,5 +1,4 @@
-Asteromella anthemidis (H. Ruppr.) H. Ruppr. SPECIES
-=======
+# Asteromella anthemidis (H. Ruppr.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

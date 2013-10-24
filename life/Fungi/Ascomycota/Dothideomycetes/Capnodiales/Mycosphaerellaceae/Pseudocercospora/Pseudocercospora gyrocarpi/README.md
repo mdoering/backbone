@@ -1,5 +1,4 @@
-Pseudocercospora gyrocarpi (Karan & J.L. Mulder) U. Braun SPECIES
-=======
+# Pseudocercospora gyrocarpi (Karan & J.L. Mulder) U. Braun SPECIES
 
 #### Status
 ACCEPTED

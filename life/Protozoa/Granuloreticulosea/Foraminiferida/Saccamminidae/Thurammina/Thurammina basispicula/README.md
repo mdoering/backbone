@@ -1,5 +1,4 @@
-Thurammina basispicula Zheng SPECIES
-=======
+# Thurammina basispicula Zheng SPECIES
 
 #### Status
 ACCEPTED

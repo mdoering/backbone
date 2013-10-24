@@ -1,5 +1,4 @@
-Opegrapha euphorbiae C.W. Dodge SPECIES
-=======
+# Opegrapha euphorbiae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

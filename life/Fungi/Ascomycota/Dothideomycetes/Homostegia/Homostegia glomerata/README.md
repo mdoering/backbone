@@ -1,5 +1,4 @@
-Homostegia glomerata (Pat.) Sacc. SPECIES
-=======
+# Homostegia glomerata (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

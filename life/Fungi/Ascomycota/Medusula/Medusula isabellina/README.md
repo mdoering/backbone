@@ -1,5 +1,4 @@
-Medusula isabellina Eschw. SPECIES
-=======
+# Medusula isabellina Eschw. SPECIES
 
 #### Status
 ACCEPTED

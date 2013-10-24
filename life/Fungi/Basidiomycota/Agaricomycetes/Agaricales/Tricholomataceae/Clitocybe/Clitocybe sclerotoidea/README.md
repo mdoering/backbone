@@ -1,5 +1,4 @@
-Clitocybe sclerotoidea (Morse) H.E. Bigelow SPECIES
-=======
+# Clitocybe sclerotoidea (Morse) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

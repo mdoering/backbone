@@ -1,5 +1,4 @@
-Phomopsis phyllanthi Punith. SPECIES
-=======
+# Phomopsis phyllanthi Punith. SPECIES
 
 #### Status
 ACCEPTED

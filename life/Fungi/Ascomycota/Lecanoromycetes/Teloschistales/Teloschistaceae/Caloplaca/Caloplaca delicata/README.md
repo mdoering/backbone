@@ -1,5 +1,4 @@
-Caloplaca delicata Jatta SPECIES
-=======
+# Caloplaca delicata Jatta SPECIES
 
 #### Status
 ACCEPTED

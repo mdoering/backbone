@@ -1,5 +1,4 @@
-Tulasnella robusta Gresl. & Rajchenb., 2001 SPECIES
-=======
+# Tulasnella robusta Gresl. & Rajchenb., 2001 SPECIES
 
 #### Status
 ACCEPTED

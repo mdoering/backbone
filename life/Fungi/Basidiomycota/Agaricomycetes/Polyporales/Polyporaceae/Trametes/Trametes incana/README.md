@@ -1,5 +1,4 @@
-Trametes incana Berk. SPECIES
-=======
+# Trametes incana Berk. SPECIES
 
 #### Status
 ACCEPTED

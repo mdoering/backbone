@@ -1,5 +1,4 @@
-Nucellosphaeridium maithyi Fensome et al., 1990 SPECIES
-=======
+# Nucellosphaeridium maithyi Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

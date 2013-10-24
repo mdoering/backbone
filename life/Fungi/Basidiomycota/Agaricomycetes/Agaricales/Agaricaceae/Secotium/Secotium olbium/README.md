@@ -1,5 +1,4 @@
-Secotium olbium Tul. SPECIES
-=======
+# Secotium olbium Tul. SPECIES
 
 #### Status
 ACCEPTED

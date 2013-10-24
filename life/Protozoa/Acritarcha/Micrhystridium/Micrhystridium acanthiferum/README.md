@@ -1,5 +1,4 @@
-Micrhystridium acanthiferum Cramer & Díez, 1972 SPECIES
-=======
+# Micrhystridium acanthiferum Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

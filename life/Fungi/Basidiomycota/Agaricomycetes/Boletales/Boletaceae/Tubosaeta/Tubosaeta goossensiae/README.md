@@ -1,17 +1,16 @@
-Boletus goossensii Beeli SPECIES
-=======
+# Tubosaeta goossensiae (Beeli) E. Horak, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 77: 372 (1967)
 
 #### Original name
-Boletus goossensii Beeli
+Boletus goossensiae Beeli, 1926
 
 ### Remarks
 null

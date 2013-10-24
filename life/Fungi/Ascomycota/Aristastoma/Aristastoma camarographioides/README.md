@@ -1,5 +1,4 @@
-Aristastoma camarographioides B. Sutton SPECIES
-=======
+# Aristastoma camarographioides B. Sutton SPECIES
 
 #### Status
 ACCEPTED

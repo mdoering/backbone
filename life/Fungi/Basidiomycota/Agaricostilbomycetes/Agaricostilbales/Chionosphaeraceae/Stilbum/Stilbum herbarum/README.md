@@ -1,5 +1,4 @@
-Stilbum herbarum Rabenh. SPECIES
-=======
+# Stilbum herbarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

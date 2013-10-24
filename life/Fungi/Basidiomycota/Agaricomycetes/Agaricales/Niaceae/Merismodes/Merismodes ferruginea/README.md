@@ -1,5 +1,4 @@
-Merismodes ferruginea (P. Crouan & H. Crouan) P. Roberts SPECIES
-=======
+# Merismodes ferruginea (P. Crouan & H. Crouan) P. Roberts SPECIES
 
 #### Status
 ACCEPTED

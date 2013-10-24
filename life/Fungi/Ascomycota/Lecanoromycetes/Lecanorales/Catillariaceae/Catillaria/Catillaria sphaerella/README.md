@@ -1,5 +1,4 @@
-Catillaria sphaerella (Hedl.) Zahlbr. SPECIES
-=======
+# Catillaria sphaerella (Hedl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histerolina Neagu, 2000 GENUS
-=======
+# Histerolina Neagu, 2000 GENUS
 
 #### Status
 ACCEPTED

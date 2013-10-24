@@ -1,5 +1,4 @@
-Oedemium thalictri Jaap SPECIES
-=======
+# Oedemium thalictri Jaap SPECIES
 
 #### Status
 ACCEPTED

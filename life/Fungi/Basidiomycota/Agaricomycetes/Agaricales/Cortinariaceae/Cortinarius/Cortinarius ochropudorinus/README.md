@@ -1,5 +1,4 @@
-Cortinarius ochropudorinus Rob. Henry ex Bidaud & Reumaux SPECIES
-=======
+# Cortinarius ochropudorinus Rob. Henry ex Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

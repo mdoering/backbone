@@ -1,5 +1,4 @@
-Ceratium platycornia Von Dady SPECIES
-=======
+# Ceratium platycornia Von Dady SPECIES
 
 #### Status
 ACCEPTED

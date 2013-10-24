@@ -1,5 +1,4 @@
-Panus papillatus Henn. SPECIES
-=======
+# Panus papillatus Henn. SPECIES
 
 #### Status
 ACCEPTED

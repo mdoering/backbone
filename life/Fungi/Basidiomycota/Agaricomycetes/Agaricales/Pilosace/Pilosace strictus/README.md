@@ -1,5 +1,4 @@
-Pilosace strictus (Trog) Kuntze SPECIES
-=======
+# Pilosace strictus (Trog) Kuntze SPECIES
 
 #### Status
 ACCEPTED

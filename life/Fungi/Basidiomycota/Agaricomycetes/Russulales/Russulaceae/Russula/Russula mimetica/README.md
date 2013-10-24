@@ -1,5 +1,4 @@
-Russula mimetica R. Heim SPECIES
-=======
+# Russula mimetica R. Heim SPECIES
 
 #### Status
 ACCEPTED

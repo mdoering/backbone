@@ -1,5 +1,4 @@
-Roseicyclus Rathgeber et al., 2005 GENUS
-=======
+# Roseicyclus Rathgeber et al., 2005 GENUS
 
 #### Status
 ACCEPTED

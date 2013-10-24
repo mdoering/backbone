@@ -1,5 +1,4 @@
-Lecania rimulosa Flagey SPECIES
-=======
+# Lecania rimulosa Flagey SPECIES
 
 #### Status
 ACCEPTED

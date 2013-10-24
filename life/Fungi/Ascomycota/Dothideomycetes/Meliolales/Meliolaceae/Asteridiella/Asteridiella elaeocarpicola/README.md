@@ -1,5 +1,4 @@
-Asteridiella elaeocarpicola Hansf. SPECIES
-=======
+# Asteridiella elaeocarpicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

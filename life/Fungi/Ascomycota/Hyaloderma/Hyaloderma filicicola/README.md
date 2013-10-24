@@ -1,5 +1,4 @@
-Hyaloderma filicicola Pat. SPECIES
-=======
+# Hyaloderma filicicola Pat. SPECIES
 
 #### Status
 ACCEPTED

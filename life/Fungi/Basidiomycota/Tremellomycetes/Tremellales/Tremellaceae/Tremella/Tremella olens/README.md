@@ -1,5 +1,4 @@
-Tremella olens Berk. SPECIES
-=======
+# Tremella olens Berk. SPECIES
 
 #### Status
 ACCEPTED

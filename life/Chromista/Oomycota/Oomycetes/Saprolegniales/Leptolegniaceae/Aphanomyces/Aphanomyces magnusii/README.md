@@ -1,8 +1,7 @@
-Aphanomyces magnusi Schikora SPECIES
-=======
+# Aphanomyces magnusii Schikora SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aphanomyces magnusi Schikora
+Aphanomyces magnusii Schikora
 
 ### Remarks
 null

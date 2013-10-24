@@ -1,5 +1,4 @@
-Lecidea tylocarpa Nyl. SPECIES
-=======
+# Lecidea tylocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

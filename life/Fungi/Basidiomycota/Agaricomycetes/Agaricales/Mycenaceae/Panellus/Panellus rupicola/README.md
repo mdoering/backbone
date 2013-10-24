@@ -1,5 +1,4 @@
-Panellus rupicola (Massee) Singer SPECIES
-=======
+# Panellus rupicola (Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis ranunculi-auricni (Liro) Zundel SPECIES
-=======
+# Urocystis ranunculi-auricni (Liro) Zundel SPECIES
 
 #### Status
 ACCEPTED

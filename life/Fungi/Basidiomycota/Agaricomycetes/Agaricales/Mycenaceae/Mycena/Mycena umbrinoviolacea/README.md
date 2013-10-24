@@ -1,5 +1,4 @@
-Mycena umbrinoviolacea Métrod SPECIES
-=======
+# Mycena umbrinoviolacea Métrod SPECIES
 
 #### Status
 ACCEPTED

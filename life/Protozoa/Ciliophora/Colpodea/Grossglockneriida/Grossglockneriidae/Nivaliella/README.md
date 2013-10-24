@@ -1,5 +1,4 @@
-Nivaliella Foissner, 1980 GENUS
-=======
+# Nivaliella Foissner, 1980 GENUS
 
 #### Status
 ACCEPTED

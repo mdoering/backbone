@@ -1,5 +1,4 @@
-Mycokluyveria glutinis-farinulae (Desm.) Cif. & Redaelli SPECIES
-=======
+# Mycokluyveria glutinis-farinulae (Desm.) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

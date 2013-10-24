@@ -1,5 +1,4 @@
-Pleomorphomonas koreensis Im et al., 2006 SPECIES
-=======
+# Pleomorphomonas koreensis Im et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

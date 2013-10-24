@@ -1,5 +1,4 @@
-Herpothrix calospora G. Winter SPECIES
-=======
+# Herpothrix calospora G. Winter SPECIES
 
 #### Status
 ACCEPTED

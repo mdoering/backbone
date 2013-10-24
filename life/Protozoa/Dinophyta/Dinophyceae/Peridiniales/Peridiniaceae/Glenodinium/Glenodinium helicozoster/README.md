@@ -1,5 +1,4 @@
-Glenodinium helicozoster T.M. Harris SPECIES
-=======
+# Glenodinium helicozoster T.M. Harris SPECIES
 
 #### Status
 ACCEPTED

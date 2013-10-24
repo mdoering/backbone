@@ -1,5 +1,4 @@
-Boletus siculus Inzenga SPECIES
-=======
+# Boletus siculus Inzenga SPECIES
 
 #### Status
 ACCEPTED

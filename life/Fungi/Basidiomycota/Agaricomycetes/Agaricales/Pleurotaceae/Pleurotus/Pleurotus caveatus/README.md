@@ -1,5 +1,4 @@
-Pleurotus caveatus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus caveatus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

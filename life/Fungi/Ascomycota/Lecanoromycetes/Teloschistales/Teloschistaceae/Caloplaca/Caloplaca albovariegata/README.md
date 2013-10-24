@@ -1,5 +1,4 @@
-Caloplaca albovariegata (B. de Lesd.) Wetmore SPECIES
-=======
+# Caloplaca albovariegata (B. de Lesd.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

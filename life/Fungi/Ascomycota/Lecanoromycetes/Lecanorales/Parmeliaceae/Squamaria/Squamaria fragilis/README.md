@@ -1,5 +1,4 @@
-Squamaria fragilis var. fragilis VARIETY
-=======
+# Squamaria fragilis (Scop.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria fragilis var. fragilis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dixomyces obliquatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces obliquatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus laciniosus S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Aspergillus laciniosus S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

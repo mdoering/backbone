@@ -1,5 +1,4 @@
-Asterina erythropalicola Hosag. & Goos SPECIES
-=======
+# Asterina erythropalicola Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

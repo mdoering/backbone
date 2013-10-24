@@ -1,5 +1,4 @@
-Chrysosphaerella brevispina Korshikov SPECIES
-=======
+# Chrysosphaerella brevispina Korshikov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium leucocephalum Rabenh. SPECIES
-=======
+# Penicillium leucocephalum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

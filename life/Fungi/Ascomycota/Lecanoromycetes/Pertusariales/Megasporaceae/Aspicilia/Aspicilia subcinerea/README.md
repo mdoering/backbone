@@ -1,5 +1,4 @@
-Aspicilia subcinerea (Nyl.) Arnold SPECIES
-=======
+# Aspicilia subcinerea (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

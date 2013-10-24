@@ -1,5 +1,4 @@
-Dendrostilbella haloxyli Kravtzev SPECIES
-=======
+# Dendrostilbella haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

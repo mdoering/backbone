@@ -1,5 +1,4 @@
-Ectrogella monostoma Scherff. SPECIES
-=======
+# Ectrogella monostoma Scherff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriothyrium Speg. GENUS
-=======
+# Eriothyrium Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aureobacterium trichothecenolyticum Yokota et al., 1993 SPECIES
-=======
+# Microbacterium trichothecenolyticum (Yokota et al., 1993) Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

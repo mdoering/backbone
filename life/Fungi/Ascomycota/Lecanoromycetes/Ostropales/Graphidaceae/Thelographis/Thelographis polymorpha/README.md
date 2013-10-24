@@ -1,5 +1,4 @@
-Thelographis polymorpha (Fée) Nyl. SPECIES
-=======
+# Thelographis polymorpha (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

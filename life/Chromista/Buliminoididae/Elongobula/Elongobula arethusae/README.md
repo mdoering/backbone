@@ -1,5 +1,4 @@
-Elongobula arethusae Revets, 1993 SPECIES
-=======
+# Elongobula arethusae Revets, 1993 SPECIES
 
 #### Status
 ACCEPTED

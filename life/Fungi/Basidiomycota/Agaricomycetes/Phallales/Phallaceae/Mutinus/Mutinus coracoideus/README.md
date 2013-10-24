@@ -1,5 +1,4 @@
-Mutinus coracoideus Kawam. SPECIES
-=======
+# Mutinus coracoideus Kawam. SPECIES
 
 #### Status
 ACCEPTED

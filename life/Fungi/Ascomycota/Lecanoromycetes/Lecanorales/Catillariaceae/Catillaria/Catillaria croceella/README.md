@@ -1,14 +1,13 @@
-Lecidea croceella Nyl. SPECIES
-=======
+# Catillaria croceella (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Hue, Nouvelles archives du Museum d'Histoire Naturelle, Paris, 3 Série 3: 110 (1891)
+Cat. Lich. Univers. 4: 35 (1926)
 
 #### Original name
 Lecidea croceella Nyl.

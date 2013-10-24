@@ -1,5 +1,4 @@
-Lepiota lycoperdoides Kreisel SPECIES
-=======
+# Lepiota lycoperdoides Kreisel SPECIES
 
 #### Status
 ACCEPTED

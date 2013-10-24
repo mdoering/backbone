@@ -1,5 +1,4 @@
-Agaricus sessilis Schumach. SPECIES
-=======
+# Agaricus sessilis Schumach. SPECIES
 
 #### Status
 ACCEPTED

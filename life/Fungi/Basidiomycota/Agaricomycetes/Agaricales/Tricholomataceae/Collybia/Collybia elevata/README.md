@@ -1,5 +1,4 @@
-Collybia elevata Weinm. SPECIES
-=======
+# Collybia elevata Weinm. SPECIES
 
 #### Status
 ACCEPTED

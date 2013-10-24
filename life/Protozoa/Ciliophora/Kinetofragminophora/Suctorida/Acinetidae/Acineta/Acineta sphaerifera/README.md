@@ -1,5 +1,4 @@
-Acineta sphaerifera Swarczewsky, 1928 SPECIES
-=======
+# Acineta sphaerifera Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

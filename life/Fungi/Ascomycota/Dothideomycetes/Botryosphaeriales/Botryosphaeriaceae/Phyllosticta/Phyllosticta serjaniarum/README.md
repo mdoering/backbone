@@ -1,5 +1,4 @@
-Phyllosticta serjaniarum Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta serjaniarum Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

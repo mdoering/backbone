@@ -1,5 +1,4 @@
-Pseudocercosporella thalictri (Bondartsev) U. Braun SPECIES
-=======
+# Pseudocercosporella thalictri (Bondartsev) U. Braun SPECIES
 
 #### Status
 ACCEPTED

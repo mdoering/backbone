@@ -1,5 +1,4 @@
-Rhodocybe griseola T.J. Baroni & Halling SPECIES
-=======
+# Rhodocybe griseola T.J. Baroni & Halling SPECIES
 
 #### Status
 ACCEPTED

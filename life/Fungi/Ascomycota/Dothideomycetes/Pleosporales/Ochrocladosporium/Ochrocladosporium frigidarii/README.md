@@ -1,5 +1,4 @@
-Ochrocladosporium frigidarii Crous & U. Braun, 2007 SPECIES
-=======
+# Ochrocladosporium frigidarii Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

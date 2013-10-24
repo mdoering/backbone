@@ -1,5 +1,4 @@
-Humicolopsis arxii Upadhyay {?} ined. SPECIES
-=======
+# Humicolopsis arxii Upadhyay {?} ined. SPECIES
 
 #### Status
 ACCEPTED

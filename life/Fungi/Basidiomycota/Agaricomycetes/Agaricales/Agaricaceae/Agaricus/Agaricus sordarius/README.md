@@ -1,5 +1,4 @@
-Agaricus sordarius Pers. SPECIES
-=======
+# Agaricus sordarius Pers. SPECIES
 
 #### Status
 ACCEPTED

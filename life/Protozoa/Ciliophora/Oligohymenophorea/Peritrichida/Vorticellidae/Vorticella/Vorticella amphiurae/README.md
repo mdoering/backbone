@@ -1,5 +1,4 @@
-Vorticella amphiurae Cuenot, 1891 SPECIES
-=======
+# Vorticella amphiurae Cuenot, 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonostaurus Haeckel, 1887 GENUS
-=======
+# Belonostaurus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

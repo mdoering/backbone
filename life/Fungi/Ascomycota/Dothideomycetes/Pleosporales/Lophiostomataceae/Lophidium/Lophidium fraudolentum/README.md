@@ -1,5 +1,4 @@
-Lophidium fraudolentum (Durieu & Mont.) Sacc. SPECIES
-=======
+# Lophidium fraudolentum (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

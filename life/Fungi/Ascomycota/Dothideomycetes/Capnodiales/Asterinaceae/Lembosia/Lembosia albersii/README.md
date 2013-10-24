@@ -1,5 +1,4 @@
-Lembosia albersii Henn. SPECIES
-=======
+# Lembosia albersii Henn. SPECIES
 
 #### Status
 ACCEPTED

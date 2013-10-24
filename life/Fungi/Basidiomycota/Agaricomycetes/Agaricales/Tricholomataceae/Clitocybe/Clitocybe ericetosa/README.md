@@ -1,5 +1,4 @@
-Clitocybe ericetosa I.R. Hall, S.L. Stephenson, P.K. Buchanan, Wang {?} & Cole SPECIES
-=======
+# Clitocybe ericetosa I.R. Hall, S.L. Stephenson, P.K. Buchanan, Wang {?} & Cole SPECIES
 
 #### Status
 ACCEPTED

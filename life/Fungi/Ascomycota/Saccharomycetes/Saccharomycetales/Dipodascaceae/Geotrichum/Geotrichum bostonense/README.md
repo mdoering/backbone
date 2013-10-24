@@ -1,5 +1,4 @@
-Geotrichum bostonense C.W. Dodge SPECIES
-=======
+# Geotrichum bostonense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

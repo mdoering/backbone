@@ -1,5 +1,4 @@
-Peziza sclerogena Berk. & M.A. Curtis SPECIES
-=======
+# Peziza sclerogena Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

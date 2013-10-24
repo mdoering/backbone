@@ -1,5 +1,4 @@
-Dermacoccus abyssi Pathom-aree et al., 2006 SPECIES
-=======
+# Dermacoccus abyssi Pathom-aree et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

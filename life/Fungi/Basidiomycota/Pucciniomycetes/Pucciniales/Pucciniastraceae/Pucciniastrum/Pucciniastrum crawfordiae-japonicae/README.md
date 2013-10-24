@@ -1,5 +1,4 @@
-Pucciniastrum crawfordiae-japonicae Hirats. f. SPECIES
-=======
+# Pucciniastrum crawfordiae-japonicae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

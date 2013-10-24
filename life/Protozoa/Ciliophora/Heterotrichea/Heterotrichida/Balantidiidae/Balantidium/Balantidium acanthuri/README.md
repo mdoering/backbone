@@ -1,5 +1,4 @@
-Balantidium acanthuri Grim, 1989 SPECIES
-=======
+# Balantidium acanthuri Grim, 1989 SPECIES
 
 #### Status
 ACCEPTED

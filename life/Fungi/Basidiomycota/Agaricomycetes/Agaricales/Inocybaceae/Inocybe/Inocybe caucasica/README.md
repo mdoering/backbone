@@ -1,5 +1,4 @@
-Inocybe caucasica Singer SPECIES
-=======
+# Inocybe caucasica Singer SPECIES
 
 #### Status
 ACCEPTED

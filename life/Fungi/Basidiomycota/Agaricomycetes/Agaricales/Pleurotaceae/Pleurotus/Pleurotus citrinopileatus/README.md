@@ -1,14 +1,13 @@
-Pleurotus cornucopiae subsp. citrinopileatus (Singer) O. Hilber SUBSPECIES
-=======
+# Pleurotus citrinopileatus Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitteilungen der Versuchsanstalt für Pilzanbau der Landwirtschaftskammer Rheinland Krefeld-Grosshüttenhof 16: 62 (1993)
+Annls mycol. 40: 149 (1943)
 
 #### Original name
 Pleurotus citrinopileatus Singer, 1943

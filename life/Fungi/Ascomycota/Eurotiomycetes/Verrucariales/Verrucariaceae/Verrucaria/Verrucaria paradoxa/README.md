@@ -1,5 +1,4 @@
-Verrucaria paradoxa Servít SPECIES
-=======
+# Verrucaria paradoxa Servít SPECIES
 
 #### Status
 ACCEPTED

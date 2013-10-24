@@ -1,5 +1,4 @@
-Numulariola glycyrrhiza (Berk. & M.A. Curtis) P.M.D. Martin SPECIES
-=======
+# Numulariola glycyrrhiza (Berk. & M.A. Curtis) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

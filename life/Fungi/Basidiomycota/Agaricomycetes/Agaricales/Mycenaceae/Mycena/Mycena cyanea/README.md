@@ -1,5 +1,4 @@
-Mycena cyanea Velen. SPECIES
-=======
+# Mycena cyanea Velen. SPECIES
 
 #### Status
 ACCEPTED

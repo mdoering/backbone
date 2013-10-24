@@ -1,5 +1,4 @@
-Microsphaeropsis amaranthi (Ellis & Barthol.) Heiny & Mintz SPECIES
-=======
+# Microsphaeropsis amaranthi (Ellis & Barthol.) Heiny & Mintz SPECIES
 
 #### Status
 ACCEPTED

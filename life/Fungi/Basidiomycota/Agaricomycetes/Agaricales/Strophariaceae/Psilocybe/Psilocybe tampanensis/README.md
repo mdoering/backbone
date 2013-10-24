@@ -1,5 +1,4 @@
-Psilocybe tampanensis Guzmán & Pollock, 1978 SPECIES
-=======
+# Psilocybe tampanensis Guzmán & Pollock, 1978 SPECIES
 
 #### Status
 ACCEPTED

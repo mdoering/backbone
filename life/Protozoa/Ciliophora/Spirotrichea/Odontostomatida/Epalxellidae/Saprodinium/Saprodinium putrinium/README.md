@@ -1,8 +1,7 @@
-Saprodinium putrinum Lackey, 1925 SPECIES
-=======
+# Saprodinium putrinium Lackey, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

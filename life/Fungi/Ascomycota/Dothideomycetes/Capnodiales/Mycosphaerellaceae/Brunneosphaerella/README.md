@@ -1,5 +1,4 @@
-Brunneosphaerella GENUS
-=======
+# Brunneosphaerella GENUS
 
 #### Status
 ACCEPTED

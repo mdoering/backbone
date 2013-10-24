@@ -1,5 +1,4 @@
-Nodosaria emphysaocyta Loeblich & Tappan, 1953 SPECIES
-=======
+# Nodosaria emphysaocyta Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

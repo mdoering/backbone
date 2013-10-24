@@ -1,5 +1,4 @@
-Mycena simpsonii Grgur. SPECIES
-=======
+# Mycena simpsonii Grgur. SPECIES
 
 #### Status
 ACCEPTED

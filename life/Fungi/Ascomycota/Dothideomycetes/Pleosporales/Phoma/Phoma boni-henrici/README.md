@@ -1,5 +1,4 @@
-Phoma boni-henrici Picb. SPECIES
-=======
+# Phoma boni-henrici Picb. SPECIES
 
 #### Status
 ACCEPTED

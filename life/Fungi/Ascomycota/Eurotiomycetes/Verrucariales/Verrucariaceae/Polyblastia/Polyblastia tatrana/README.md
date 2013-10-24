@@ -1,5 +1,4 @@
-Polyblastia tatrana Servít SPECIES
-=======
+# Polyblastia tatrana Servít SPECIES
 
 #### Status
 ACCEPTED

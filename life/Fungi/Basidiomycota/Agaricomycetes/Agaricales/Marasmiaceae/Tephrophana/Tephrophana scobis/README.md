@@ -1,5 +1,4 @@
-Tephrophana scobis Métrod SPECIES
-=======
+# Tephrophana scobis Métrod SPECIES
 
 #### Status
 ACCEPTED

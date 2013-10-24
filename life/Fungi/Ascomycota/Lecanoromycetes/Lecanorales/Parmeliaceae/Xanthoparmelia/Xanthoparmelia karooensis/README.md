@@ -1,5 +1,4 @@
-Xanthoparmelia karooensis Hale SPECIES
-=======
+# Xanthoparmelia karooensis Hale SPECIES
 
 #### Status
 ACCEPTED

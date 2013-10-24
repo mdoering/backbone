@@ -1,5 +1,4 @@
-Rabenhorstia adpressa Fr. SPECIES
-=======
+# Rabenhorstia adpressa Fr. SPECIES
 
 #### Status
 ACCEPTED

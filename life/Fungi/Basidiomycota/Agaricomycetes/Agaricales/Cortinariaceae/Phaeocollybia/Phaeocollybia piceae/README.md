@@ -1,5 +1,4 @@
-Phaeocollybia piceae A.H. Sm. & Trappe SPECIES
-=======
+# Phaeocollybia piceae A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma fici Thirum., 1946 SPECIES
-=======
+# Sphaceloma fici Thirum., 1946 SPECIES
 
 #### Status
 ACCEPTED

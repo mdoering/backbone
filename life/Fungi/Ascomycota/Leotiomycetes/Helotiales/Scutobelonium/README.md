@@ -1,5 +1,4 @@
-Scutobelonium Graddon GENUS
-=======
+# Scutobelonium Graddon GENUS
 
 #### Status
 ACCEPTED

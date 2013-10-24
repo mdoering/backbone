@@ -1,5 +1,4 @@
-Hendersonia coffeae Delacr. SPECIES
-=======
+# Hendersonia coffeae Delacr. SPECIES
 
 #### Status
 ACCEPTED

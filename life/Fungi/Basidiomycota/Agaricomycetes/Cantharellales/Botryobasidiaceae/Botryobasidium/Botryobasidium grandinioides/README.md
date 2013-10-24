@@ -1,5 +1,4 @@
-Botryobasidium grandinioides Hallenb., 1978 SPECIES
-=======
+# Botryobasidium grandinioides Hallenb., 1978 SPECIES
 
 #### Status
 ACCEPTED

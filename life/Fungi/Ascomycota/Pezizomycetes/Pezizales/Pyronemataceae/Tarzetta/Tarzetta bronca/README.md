@@ -1,5 +1,4 @@
-Tarzetta bronca (Peck) Korf & J.K. Rogers SPECIES
-=======
+# Tarzetta bronca (Peck) Korf & J.K. Rogers SPECIES
 
 #### Status
 ACCEPTED

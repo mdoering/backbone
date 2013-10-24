@@ -1,5 +1,4 @@
-Euglena charkowiense Swirenko SPECIES
-=======
+# Euglena charkowiense Swirenko SPECIES
 
 #### Status
 ACCEPTED

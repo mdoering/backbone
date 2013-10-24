@@ -1,5 +1,4 @@
-Balzania Spegazzini, 1899 GENUS
-=======
+# Balzania Spegazzini, 1899 GENUS
 
 #### Status
 ACCEPTED

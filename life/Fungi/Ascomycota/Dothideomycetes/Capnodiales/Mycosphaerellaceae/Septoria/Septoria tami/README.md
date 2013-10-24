@@ -1,5 +1,4 @@
-Septoria tami Westend. SPECIES
-=======
+# Septoria tami Westend. SPECIES
 
 #### Status
 ACCEPTED

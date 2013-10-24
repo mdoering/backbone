@@ -1,5 +1,4 @@
-Humidicutis viridimagentea A.M. Young & K. Syme SPECIES
-=======
+# Humidicutis viridimagentea A.M. Young & K. Syme SPECIES
 
 #### Status
 ACCEPTED

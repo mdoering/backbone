@@ -1,5 +1,4 @@
-Sterigmatocystis C.E. Cramer, 1859 GENUS
-=======
+# Sterigmatocystis C.E. Cramer, 1859 GENUS
 
 #### Status
 ACCEPTED

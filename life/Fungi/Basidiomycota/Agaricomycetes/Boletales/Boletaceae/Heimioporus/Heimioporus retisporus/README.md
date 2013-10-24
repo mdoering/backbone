@@ -1,5 +1,4 @@
-Heimioporus retisporus var. retisporus VARIETY
-=======
+# Heimioporus retisporus (Pat. & C.F. Baker) E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Sydowia 56(2): 239 (2004)
 
 #### Original name
-Boletus retisporus Pat. & C.F. Baker, 1918
+Heimiella retispora var. retispora (Pat. & C.F. Baker) Boedijn, 1951
 
 ### Remarks
 null

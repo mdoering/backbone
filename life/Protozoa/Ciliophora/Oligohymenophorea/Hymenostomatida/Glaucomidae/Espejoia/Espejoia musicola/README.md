@@ -1,5 +1,4 @@
-Espejoia musicola (Pen.) SPECIES
-=======
+# Espejoia musicola (Pen.) SPECIES
 
 #### Status
 ACCEPTED

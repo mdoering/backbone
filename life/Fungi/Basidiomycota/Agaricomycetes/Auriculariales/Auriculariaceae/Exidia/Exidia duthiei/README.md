@@ -1,5 +1,4 @@
-Exidia duthiei Lloyd SPECIES
-=======
+# Exidia duthiei Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Janischewskina Mikhailov, 1935 GENUS
-=======
+# Janischewskina Mikhailov, 1935 GENUS
 
 #### Status
 ACCEPTED

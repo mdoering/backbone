@@ -1,5 +1,4 @@
-Stilbella subinconspicua (Corda) Lindau SPECIES
-=======
+# Stilbella subinconspicua (Corda) Lindau SPECIES
 
 #### Status
 ACCEPTED

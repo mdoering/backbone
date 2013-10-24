@@ -1,5 +1,4 @@
-Cyphelium stemoneum SPECIES
-=======
+# Cyphelium stemoneum SPECIES
 
 #### Status
 ACCEPTED

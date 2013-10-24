@@ -1,5 +1,4 @@
-Pyrenophora pachyasca Syd. SPECIES
-=======
+# Pyrenophora pachyasca Syd. SPECIES
 
 #### Status
 ACCEPTED

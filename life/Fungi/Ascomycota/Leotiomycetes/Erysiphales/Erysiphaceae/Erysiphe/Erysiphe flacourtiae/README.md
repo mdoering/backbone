@@ -1,5 +1,4 @@
-Erysiphe flacourtiae (N. Ahmad, A.K. Sarbhoy & Kamal) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe flacourtiae (N. Ahmad, A.K. Sarbhoy & Kamal) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

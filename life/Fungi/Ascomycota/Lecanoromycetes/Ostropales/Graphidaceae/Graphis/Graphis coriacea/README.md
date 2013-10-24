@@ -1,5 +1,4 @@
-Graphis coriacea Vain. SPECIES
-=======
+# Graphis coriacea Vain. SPECIES
 
 #### Status
 ACCEPTED

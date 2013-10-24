@@ -1,5 +1,4 @@
-Ethmorhabdus crucifer SPECIES
-=======
+# Ethmorhabdus crucifer SPECIES
 
 #### Status
 ACCEPTED

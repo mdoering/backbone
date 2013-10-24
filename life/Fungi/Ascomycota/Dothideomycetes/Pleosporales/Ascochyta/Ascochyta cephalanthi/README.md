@@ -1,5 +1,4 @@
-Ascochyta cephalanthi Ellis & Everh. SPECIES
-=======
+# Ascochyta cephalanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

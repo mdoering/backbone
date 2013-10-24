@@ -1,5 +1,4 @@
-Antromyces diaphorinae Sawada SPECIES
-=======
+# Antromyces diaphorinae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curvechidnina Wom & Iams, 2002 GENUS
-=======
+# Curvechidnina Wom & Iams, 2002 GENUS
 
 #### Status
 ACCEPTED

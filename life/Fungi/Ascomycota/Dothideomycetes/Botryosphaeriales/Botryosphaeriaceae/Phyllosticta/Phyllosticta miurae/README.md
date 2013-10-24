@@ -1,17 +1,16 @@
-Phyllosticta miurai I. Miyake SPECIES
-=======
+# Phyllosticta miurae I. Miyake SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 23: 129 (1910)
 
 #### Original name
-Phyllosticta miurai I. Miyake
+Phyllosticta miurae I. Miyake
 
 ### Remarks
 null

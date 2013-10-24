@@ -1,5 +1,4 @@
-Dothidea acerva M.E. Barr SPECIES
-=======
+# Dothidea acerva M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

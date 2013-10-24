@@ -1,5 +1,4 @@
-Verrucaria fasciculata Hoffm. SPECIES
-=======
+# Verrucaria fasciculata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

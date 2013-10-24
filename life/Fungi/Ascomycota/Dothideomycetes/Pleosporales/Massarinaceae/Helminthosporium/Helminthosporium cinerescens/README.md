@@ -1,5 +1,4 @@
-Helminthosporium cinerescens Syd. & P. Syd. SPECIES
-=======
+# Helminthosporium cinerescens Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

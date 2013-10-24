@@ -1,5 +1,4 @@
-Chaetosphaeria chalaroides Hol.-Jech., 1984 SPECIES
-=======
+# Chaetosphaeria chalaroides Hol.-Jech., 1984 SPECIES
 
 #### Status
 ACCEPTED

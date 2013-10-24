@@ -1,5 +1,4 @@
-Glenosporopsis O.M. Fonseca GENUS
-=======
+# Glenosporopsis O.M. Fonseca GENUS
 
 #### Status
 ACCEPTED

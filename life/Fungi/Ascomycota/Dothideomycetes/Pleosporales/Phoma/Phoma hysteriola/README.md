@@ -1,5 +1,4 @@
-Phoma hysteriola (Sacc.) Allesch. SPECIES
-=======
+# Phoma hysteriola (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia pruni-spinosae (Lib.) Speg. & Roum. SPECIES
-=======
+# Sclerotinia pruni-spinosae (Lib.) Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

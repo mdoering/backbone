@@ -1,5 +1,4 @@
-Polyporus archeri Berk. SPECIES
-=======
+# Polyporus archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

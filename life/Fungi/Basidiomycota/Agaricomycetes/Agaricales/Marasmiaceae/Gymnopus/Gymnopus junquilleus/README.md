@@ -1,5 +1,4 @@
-Gymnopus junquilleus R.H. Petersen & J.L. Mata SPECIES
-=======
+# Gymnopus junquilleus R.H. Petersen & J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

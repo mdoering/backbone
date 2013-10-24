@@ -1,5 +1,4 @@
-Polysaccum subarrhizum (Scop.) Fr. SPECIES
-=======
+# Polysaccum subarrhizum (Scop.) Fr. SPECIES
 
 #### Status
 ACCEPTED

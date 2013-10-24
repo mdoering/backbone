@@ -1,5 +1,4 @@
-Sarcosoma wettsteinii Höhn. SPECIES
-=======
+# Sarcosoma wettsteinii Höhn. SPECIES
 
 #### Status
 ACCEPTED

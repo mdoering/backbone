@@ -1,5 +1,4 @@
-Ramaria fagicola R.H. Petersen, 1975 SPECIES
-=======
+# Ramaria fagicola R.H. Petersen, 1975 SPECIES
 
 #### Status
 ACCEPTED

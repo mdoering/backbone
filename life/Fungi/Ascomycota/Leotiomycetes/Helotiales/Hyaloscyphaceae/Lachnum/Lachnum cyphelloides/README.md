@@ -1,5 +1,4 @@
-Lachnum cyphelloides (Pat.) J.H. Haines & Dumont SPECIES
-=======
+# Lachnum cyphelloides (Pat.) J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

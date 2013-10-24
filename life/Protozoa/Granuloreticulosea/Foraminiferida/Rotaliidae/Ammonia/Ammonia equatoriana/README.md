@@ -1,5 +1,4 @@
-Ammonia equatoriana (LeRoy) SPECIES
-=======
+# Ammonia equatoriana (LeRoy) SPECIES
 
 #### Status
 ACCEPTED

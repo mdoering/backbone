@@ -1,5 +1,4 @@
-Vibrissea filisporia f. filisporia FORM
-=======
+# Vibrissea filisporia (Bonord.) Korf & Sánchez SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Vibrissea filisporia f. filisporia
+null
 
 ### Remarks
 null

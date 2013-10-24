@@ -1,5 +1,4 @@
-Nannoceratopsis spiculata Stover, 1966 SPECIES
-=======
+# Nannoceratopsis spiculata Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

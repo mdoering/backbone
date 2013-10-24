@@ -1,5 +1,4 @@
-Heterochaete dimitica Paéz SPECIES
-=======
+# Heterochaete dimitica Paéz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina rugosa d'Orbigny, 1852 SPECIES
-=======
+# Uvigerina rugosa d'Orbigny, 1852 SPECIES
 
 #### Status
 ACCEPTED

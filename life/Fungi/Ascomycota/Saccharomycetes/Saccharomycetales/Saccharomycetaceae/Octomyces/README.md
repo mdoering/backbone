@@ -1,5 +1,4 @@
-Octomyces GENUS
-=======
+# Octomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraophthalmidium Samuel & Borza, 1981 GENUS
-=======
+# Paraophthalmidium Samuel & Borza, 1981 GENUS
 
 #### Status
 ACCEPTED

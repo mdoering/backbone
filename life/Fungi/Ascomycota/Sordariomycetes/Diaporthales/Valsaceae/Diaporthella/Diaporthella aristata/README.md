@@ -1,14 +1,13 @@
-Diaporthe aristata (Fr.) P. Karst., 1873 SPECIES
-=======
+# Diaporthella aristata (Fr.) Petr., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 22(1/2): 30 (1924)
 
 #### Original name
 Sphaeria aristata Fr., 1823

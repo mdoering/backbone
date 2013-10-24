@@ -1,5 +1,4 @@
-Passalora euphorbiicola U. Braun & Crous SPECIES
-=======
+# Passalora euphorbiicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

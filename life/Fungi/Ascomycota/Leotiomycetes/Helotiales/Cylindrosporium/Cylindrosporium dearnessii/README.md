@@ -1,5 +1,4 @@
-Cylindrosporium dearnessii Ellis & Everh. SPECIES
-=======
+# Cylindrosporium dearnessii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

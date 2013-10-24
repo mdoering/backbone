@@ -1,5 +1,4 @@
-Peltaster ingae Bat. & H. Maia SPECIES
-=======
+# Peltaster ingae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

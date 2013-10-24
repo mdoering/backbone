@@ -1,5 +1,4 @@
-Gymnopilus marticorenai Garrido SPECIES
-=======
+# Gymnopilus marticorenai Garrido SPECIES
 
 #### Status
 ACCEPTED

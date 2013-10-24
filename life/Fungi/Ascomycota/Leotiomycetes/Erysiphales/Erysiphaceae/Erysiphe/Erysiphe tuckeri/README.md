@@ -1,5 +1,4 @@
-Erysiphe tuckeri Berk. SPECIES
-=======
+# Erysiphe tuckeri Berk. SPECIES
 
 #### Status
 ACCEPTED

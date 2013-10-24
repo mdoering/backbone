@@ -1,5 +1,4 @@
-Alternariaster E.G. Simmons GENUS
-=======
+# Alternariaster E.G. Simmons GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanodiscus delicatus S. I. Genkal SPECIES
-=======
+# Stephanodiscus delicatus S. I. Genkal SPECIES
 
 #### Status
 ACCEPTED

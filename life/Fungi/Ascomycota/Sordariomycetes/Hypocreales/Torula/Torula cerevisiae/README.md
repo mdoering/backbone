@@ -1,5 +1,4 @@
-Torula cerevisiae Turpin SPECIES
-=======
+# Torula cerevisiae Turpin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xylosphaera mellissii var. mellissii VARIETY
-=======
+# Xylaria mellissii (Berk.) Cooke, 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 11(no. 59): 85 (1883)
 
 #### Original name
-null
+Xylaria mellissii (Berk.) Cooke, 1883
 
 ### Remarks
 null

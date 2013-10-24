@@ -1,5 +1,4 @@
-Komagataea Y. Yamada, M. Matsuda, K. Maeda, Sakak. & Mikata GENUS
-=======
+# Komagataea Y. Yamada, M. Matsuda, K. Maeda, Sakak. & Mikata GENUS
 
 #### Status
 ACCEPTED

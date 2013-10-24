@@ -1,17 +1,16 @@
-Patellaria globifera (Ach.) Spreng., 1827 SPECIES
-=======
+# Psora globifera (Ach.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 91 (1852)
 
 #### Original name
-null
+Lecidea globifera Ach.
 
 ### Remarks
 null

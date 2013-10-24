@@ -1,5 +1,4 @@
-Neolectaceae Redhead FAMILY
-=======
+# Neolectaceae Redhead FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo dioscoreae Henn. SPECIES
-=======
+# Uredo dioscoreae Henn. SPECIES
 
 #### Status
 ACCEPTED

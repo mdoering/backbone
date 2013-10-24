@@ -1,5 +1,4 @@
-Diaporthe biglobosa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe biglobosa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

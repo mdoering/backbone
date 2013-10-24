@@ -1,5 +1,4 @@
-Sichotenella GENUS
-=======
+# Sichotenella GENUS
 
 #### Status
 ACCEPTED

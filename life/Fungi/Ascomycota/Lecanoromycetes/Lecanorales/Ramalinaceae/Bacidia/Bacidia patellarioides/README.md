@@ -1,5 +1,4 @@
-Bacidia patellarioides (Nyl.) Flagey SPECIES
-=======
+# Bacidia patellarioides (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

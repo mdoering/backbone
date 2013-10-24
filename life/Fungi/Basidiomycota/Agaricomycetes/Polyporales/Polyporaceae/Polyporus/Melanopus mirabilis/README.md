@@ -1,5 +1,4 @@
-Melanopus mirabilis Fuckel SPECIES
-=======
+# Melanopus mirabilis Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eupoikilofusa anolota Loeblich & Tappan, 1978 SPECIES
-=======
+# Eupoikilofusa anolota Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

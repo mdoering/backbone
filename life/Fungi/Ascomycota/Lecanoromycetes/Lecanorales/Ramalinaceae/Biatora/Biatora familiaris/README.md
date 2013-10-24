@@ -1,5 +1,4 @@
-Biatora familiaris (Nyl.) Hellb. SPECIES
-=======
+# Biatora familiaris (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

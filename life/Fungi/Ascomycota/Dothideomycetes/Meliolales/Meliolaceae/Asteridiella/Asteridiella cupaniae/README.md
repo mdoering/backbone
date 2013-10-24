@@ -1,5 +1,4 @@
-Asteridiella cupaniae Toro ex Hansf. SPECIES
-=======
+# Asteridiella cupaniae Toro ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

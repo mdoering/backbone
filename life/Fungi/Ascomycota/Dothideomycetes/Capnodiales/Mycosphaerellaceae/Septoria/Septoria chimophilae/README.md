@@ -1,5 +1,4 @@
-Septoria chimophilae Ellis & Everh. SPECIES
-=======
+# Septoria chimophilae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

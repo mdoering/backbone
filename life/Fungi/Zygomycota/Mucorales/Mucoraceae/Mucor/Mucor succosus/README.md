@@ -1,5 +1,4 @@
-Mucor succosus Berk. SPECIES
-=======
+# Mucor succosus Berk. SPECIES
 
 #### Status
 ACCEPTED

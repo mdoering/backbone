@@ -1,17 +1,16 @@
-Arcangeliella oregonensis (Singer & A.H. Sm.) J.M. Vidal, 2005 SPECIES
-=======
+# Zelleromyces oregonensis Singer & A.H. Sm., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Torrey bot. Club 21(3): 19 (1960)
 
 #### Original name
-null
+Zelleromyces oregonensis Singer & A.H. Sm., 1960
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lachnum badiellum P. Karst. SPECIES
-=======
+# Lachnum badiellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

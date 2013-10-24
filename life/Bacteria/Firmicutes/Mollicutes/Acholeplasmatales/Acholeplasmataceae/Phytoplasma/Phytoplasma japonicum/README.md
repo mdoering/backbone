@@ -1,5 +1,4 @@
-Phytoplasma japonicum Sawayanagi et al., 1999. SPECIES
-=======
+# Phytoplasma japonicum Sawayanagi et al., 1999. SPECIES
 
 #### Status
 ACCEPTED

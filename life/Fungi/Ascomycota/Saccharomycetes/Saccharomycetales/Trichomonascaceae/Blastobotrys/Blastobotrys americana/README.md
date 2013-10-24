@@ -1,5 +1,4 @@
-Blastobotrys americana Kurtzman, 2007 SPECIES
-=======
+# Blastobotrys americana Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

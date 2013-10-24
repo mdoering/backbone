@@ -1,5 +1,4 @@
-Leiosphaeridia taxodiforma Jiabo, 1978 SPECIES
-=======
+# Leiosphaeridia taxodiforma Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

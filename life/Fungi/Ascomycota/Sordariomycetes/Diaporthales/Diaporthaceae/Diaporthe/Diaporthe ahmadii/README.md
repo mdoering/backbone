@@ -1,5 +1,4 @@
-Diaporthe ahmadii Wehm. SPECIES
-=======
+# Diaporthe ahmadii Wehm. SPECIES
 
 #### Status
 ACCEPTED

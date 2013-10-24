@@ -1,14 +1,13 @@
-Leptospora caudata Fuckel, 1870 SPECIES
-=======
+# Hilberina caudata (Fuckel) Huhndorf & A.N. Mill., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 144, tab. 3, fig. 6a, 6b (1870)
+in Miller & Huhndorf, Mycol. Res. 108(1): 31 (2004)
 
 #### Original name
 Leptospora caudata Fuckel, 1870

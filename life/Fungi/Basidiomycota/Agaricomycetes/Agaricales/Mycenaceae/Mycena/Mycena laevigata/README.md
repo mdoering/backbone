@@ -1,5 +1,4 @@
-Mycena laevigata var. laevigata VARIETY
-=======
+# Mycena laevigata (Lasch) Gillet SPECIES
 
 #### Status
 ACCEPTED

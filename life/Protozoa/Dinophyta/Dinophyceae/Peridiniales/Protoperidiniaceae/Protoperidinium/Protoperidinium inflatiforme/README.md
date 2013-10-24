@@ -1,5 +1,4 @@
-Protoperidinium inflatiforme (Böhm, 1936) Balech, 1974 SPECIES
-=======
+# Protoperidinium inflatiforme (Böhm, 1936) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

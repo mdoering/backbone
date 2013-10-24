@@ -1,5 +1,4 @@
-Hypolyssus trichoderma (Hoffm.) Kuntze SPECIES
-=======
+# Hypolyssus trichoderma (Hoffm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongaster pentas Riedel & Sanfilippo, 1970 SPECIES
-=======
+# Spongaster pentas Riedel & Sanfilippo, 1970 SPECIES
 
 #### Status
 ACCEPTED

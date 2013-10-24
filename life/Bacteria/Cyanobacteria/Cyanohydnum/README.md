@@ -1,5 +1,4 @@
-Cyanohydnum J.Copeland GENUS
-=======
+# Cyanohydnum J.Copeland GENUS
 
 #### Status
 ACCEPTED

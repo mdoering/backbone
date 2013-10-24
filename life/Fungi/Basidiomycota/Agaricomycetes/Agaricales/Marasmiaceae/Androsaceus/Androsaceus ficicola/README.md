@@ -1,5 +1,4 @@
-Androsaceus ficicola Pat. & Demange SPECIES
-=======
+# Androsaceus ficicola Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

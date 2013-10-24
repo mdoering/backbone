@@ -1,5 +1,4 @@
-Lactarius griseogalus R. Heim SPECIES
-=======
+# Lactarius griseogalus R. Heim SPECIES
 
 #### Status
 ACCEPTED

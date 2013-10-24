@@ -1,5 +1,4 @@
-Buccella florifomis Voloshinova, 1960 SPECIES
-=======
+# Buccella florifomis Voloshinova, 1960 SPECIES
 
 #### Status
 ACCEPTED

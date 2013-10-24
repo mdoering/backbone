@@ -1,5 +1,4 @@
-Cladina skottsbergii (H. Magn.) Follmann SPECIES
-=======
+# Cladina skottsbergii (H. Magn.) Follmann SPECIES
 
 #### Status
 ACCEPTED

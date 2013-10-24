@@ -1,5 +1,4 @@
-Zeora cervina var. cervina VARIETY
-=======
+# Zeora cervina Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zeora cervina var. cervina
+Zeora cervina Flot.
 
 ### Remarks
 null

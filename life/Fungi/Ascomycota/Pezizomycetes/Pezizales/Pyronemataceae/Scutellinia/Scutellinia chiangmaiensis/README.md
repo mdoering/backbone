@@ -1,5 +1,4 @@
-Scutellinia chiangmaiensis T. Schumach. SPECIES
-=======
+# Scutellinia chiangmaiensis T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

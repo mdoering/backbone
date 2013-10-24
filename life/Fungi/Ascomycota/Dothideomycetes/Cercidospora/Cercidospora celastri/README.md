@@ -1,5 +1,4 @@
-Cercidospora celastri (Brunaud) Kuntze SPECIES
-=======
+# Cercidospora celastri (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

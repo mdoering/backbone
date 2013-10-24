@@ -1,5 +1,4 @@
-Peniophora parvocystidiata Boidin & Lanq., 1991 SPECIES
-=======
+# Peniophora parvocystidiata Boidin & Lanq., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma tannica Asai SPECIES
-=======
+# Mycoderma tannica Asai SPECIES
 
 #### Status
 ACCEPTED

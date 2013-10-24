@@ -1,5 +1,4 @@
-Apiosoma phiala SPECIES
-=======
+# Apiosoma phiala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helentappanella Andersen, 1985 GENUS
-=======
+# Helentappanella Andersen, 1985 GENUS
 
 #### Status
 ACCEPTED

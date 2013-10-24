@@ -1,5 +1,4 @@
-Pseudobolivina arenacea SPECIES
-=======
+# Pseudobolivina arenacea SPECIES
 
 #### Status
 ACCEPTED

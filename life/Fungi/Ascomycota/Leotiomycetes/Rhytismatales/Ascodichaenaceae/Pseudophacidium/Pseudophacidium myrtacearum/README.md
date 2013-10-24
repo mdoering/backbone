@@ -1,5 +1,4 @@
-Pseudophacidium myrtacearum Rehm SPECIES
-=======
+# Pseudophacidium myrtacearum Rehm SPECIES
 
 #### Status
 ACCEPTED

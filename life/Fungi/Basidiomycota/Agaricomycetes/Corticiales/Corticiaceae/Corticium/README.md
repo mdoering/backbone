@@ -1,5 +1,4 @@
-Corticium Persoon, 1794 GENUS
-=======
+# Corticium Persoon, 1794 GENUS
 
 #### Status
 ACCEPTED

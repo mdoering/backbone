@@ -1,14 +1,13 @@
-Hemicristellaria Sherborn, 1893 GENUS
-=======
+# Hemirobulina Stache, 1864 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Reise Novara, Geol. Theil, 1 Bd. , Abt. 2, 227.
 
 #### Original name
 null

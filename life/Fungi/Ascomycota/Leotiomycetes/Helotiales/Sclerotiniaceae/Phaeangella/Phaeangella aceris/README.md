@@ -1,5 +1,4 @@
-Phaeangella aceris (Hazsl.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella aceris (Hazsl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella freycinetiae F. Stevens SPECIES
-=======
+# Mycosphaerella freycinetiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

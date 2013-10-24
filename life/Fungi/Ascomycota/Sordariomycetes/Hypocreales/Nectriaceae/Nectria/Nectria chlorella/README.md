@@ -1,5 +1,4 @@
-Nectria chlorella (Fr.) Tul. & C. Tul. SPECIES
-=======
+# Nectria chlorella (Fr.) Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

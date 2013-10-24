@@ -1,5 +1,4 @@
-Trichia farinacea Haller SPECIES
-=======
+# Trichia farinacea Haller SPECIES
 
 #### Status
 ACCEPTED

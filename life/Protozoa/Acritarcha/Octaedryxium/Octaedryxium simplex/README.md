@@ -1,5 +1,4 @@
-Octaedryxium simplex F.Wang & Q. Chen SPECIES
-=======
+# Octaedryxium simplex F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

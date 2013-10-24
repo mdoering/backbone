@@ -1,5 +1,4 @@
-Phaeographina rissoensis Redinger SPECIES
-=======
+# Phaeographina rissoensis Redinger SPECIES
 
 #### Status
 ACCEPTED

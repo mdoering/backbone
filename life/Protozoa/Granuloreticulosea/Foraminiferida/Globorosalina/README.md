@@ -1,5 +1,4 @@
-Globorosalina Quilty, 1981 GENUS
-=======
+# Globorosalina Quilty, 1981 GENUS
 
 #### Status
 ACCEPTED

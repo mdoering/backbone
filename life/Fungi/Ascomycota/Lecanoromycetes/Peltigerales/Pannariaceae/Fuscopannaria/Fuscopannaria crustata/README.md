@@ -1,17 +1,16 @@
-Pannaria subimmixta var. recedens Müll. Arg. VARIETY
-=======
+# Fuscopannaria crustata (Stirt.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 4: 92 (1896)
+null
 
 #### Original name
-Pannaria subimmixta var. recedens Müll. Arg.
+null
 
 ### Remarks
 null

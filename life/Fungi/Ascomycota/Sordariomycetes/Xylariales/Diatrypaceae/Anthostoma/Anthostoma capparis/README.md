@@ -1,8 +1,7 @@
-Anthostoma capparidis (S. Ahmad) S. Ahmad SPECIES
-=======
+# Anthostoma capparis (S. Ahmad) S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

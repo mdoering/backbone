@@ -1,5 +1,4 @@
-Septoria guarina Ellis & Kellerm. SPECIES
-=======
+# Septoria guarina Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

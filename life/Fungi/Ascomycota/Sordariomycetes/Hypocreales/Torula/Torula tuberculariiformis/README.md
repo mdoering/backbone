@@ -1,8 +1,7 @@
-Torula tuberculariaeformis Richon SPECIES
-=======
+# Torula tuberculariiformis Richon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Torula tuberculariaeformis Richon
+Torula tuberculariiformis Richon
 
 ### Remarks
 null

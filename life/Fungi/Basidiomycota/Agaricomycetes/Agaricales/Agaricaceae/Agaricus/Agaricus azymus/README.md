@@ -1,8 +1,7 @@
-Agaricus azyma Fr. SPECIES
-=======
+# Agaricus azymus Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus azyma Fr.
+Agaricus azymus Fr.
 
 ### Remarks
 null

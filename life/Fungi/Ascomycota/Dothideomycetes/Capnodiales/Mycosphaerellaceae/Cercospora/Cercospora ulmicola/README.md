@@ -1,5 +1,4 @@
-Cercospora ulmicola Chupp SPECIES
-=======
+# Cercospora ulmicola Chupp SPECIES
 
 #### Status
 ACCEPTED

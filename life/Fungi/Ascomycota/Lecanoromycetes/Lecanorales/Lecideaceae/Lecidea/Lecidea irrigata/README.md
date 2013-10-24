@@ -1,5 +1,4 @@
-Lecidea irrigata Malme SPECIES
-=======
+# Lecidea irrigata Malme SPECIES
 
 #### Status
 ACCEPTED

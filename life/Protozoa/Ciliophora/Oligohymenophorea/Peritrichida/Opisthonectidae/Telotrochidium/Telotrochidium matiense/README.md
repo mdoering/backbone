@@ -1,8 +1,7 @@
-Opisthonecta matiense Martin-Cereceda, Serrano & Guinea, 1999 SPECIES
-=======
+# Telotrochidium matiense (Martin-Cereceda, Serrano & Guinea, 1999) Martin-Cereceda, Guinea...Foissner, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

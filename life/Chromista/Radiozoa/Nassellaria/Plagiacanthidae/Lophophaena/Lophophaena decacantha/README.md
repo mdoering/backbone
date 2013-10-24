@@ -1,5 +1,4 @@
-Lophophaena decacantha Takahashi, 1991 SPECIES
-=======
+# Lophophaena decacantha Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

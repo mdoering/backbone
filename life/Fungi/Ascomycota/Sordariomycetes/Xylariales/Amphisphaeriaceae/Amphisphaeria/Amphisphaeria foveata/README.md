@@ -1,5 +1,4 @@
-Amphisphaeria foveata M.E. Barr & A.W. Ramaley SPECIES
-=======
+# Amphisphaeria foveata M.E. Barr & A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

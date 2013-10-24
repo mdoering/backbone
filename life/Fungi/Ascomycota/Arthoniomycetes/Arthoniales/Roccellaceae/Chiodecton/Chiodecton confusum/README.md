@@ -1,5 +1,4 @@
-Chiodecton confusum Nyl. SPECIES
-=======
+# Chiodecton confusum Nyl. SPECIES
 
 #### Status
 ACCEPTED

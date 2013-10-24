@@ -1,5 +1,4 @@
-Physalacria gillesii Berthier & Perr.-Bertr., 1985 SPECIES
-=======
+# Physalacria gillesii Berthier & Perr.-Bertr., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galeromycena GENUS
-=======
+# Galeromycena GENUS
 
 #### Status
 ACCEPTED

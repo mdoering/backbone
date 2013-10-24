@@ -1,5 +1,4 @@
-Entyloma fragosoi Cif. SPECIES
-=======
+# Entyloma fragosoi Cif. SPECIES
 
 #### Status
 ACCEPTED

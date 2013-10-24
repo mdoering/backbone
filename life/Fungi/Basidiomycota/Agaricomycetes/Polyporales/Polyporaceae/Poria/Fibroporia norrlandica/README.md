@@ -1,5 +1,4 @@
-Fibroporia norrlandica (Berglund & Ryvarden) Niemelä SPECIES
-=======
+# Fibroporia norrlandica (Berglund & Ryvarden) Niemelä SPECIES
 
 #### Status
 ACCEPTED

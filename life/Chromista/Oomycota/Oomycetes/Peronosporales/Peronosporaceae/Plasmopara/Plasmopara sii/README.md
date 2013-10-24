@@ -1,5 +1,4 @@
-Plasmopara sii Gapon. SPECIES
-=======
+# Plasmopara sii Gapon. SPECIES
 
 #### Status
 ACCEPTED

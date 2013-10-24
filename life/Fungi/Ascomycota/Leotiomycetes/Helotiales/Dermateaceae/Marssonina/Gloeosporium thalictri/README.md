@@ -1,5 +1,4 @@
-Gloeosporium thalictri Davis SPECIES
-=======
+# Gloeosporium thalictri Davis SPECIES
 
 #### Status
 ACCEPTED

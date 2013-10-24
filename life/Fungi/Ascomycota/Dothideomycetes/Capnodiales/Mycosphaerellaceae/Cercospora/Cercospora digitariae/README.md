@@ -1,5 +1,4 @@
-Cercospora digitariae J. Kranz SPECIES
-=======
+# Cercospora digitariae J. Kranz SPECIES
 
 #### Status
 ACCEPTED

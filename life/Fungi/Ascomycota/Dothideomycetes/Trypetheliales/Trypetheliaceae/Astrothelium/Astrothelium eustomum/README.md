@@ -1,5 +1,4 @@
-Astrothelium eustomum (Mont.) Müll. Arg. SPECIES
-=======
+# Astrothelium eustomum (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

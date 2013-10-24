@@ -1,5 +1,4 @@
-Blastenia orichalcea (Stizenb.) C.W. Dodge SPECIES
-=======
+# Blastenia orichalcea (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

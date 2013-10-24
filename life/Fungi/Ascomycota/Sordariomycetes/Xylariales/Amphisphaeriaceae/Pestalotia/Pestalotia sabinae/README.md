@@ -1,5 +1,4 @@
-Pestalotia sabinae Fautrey SPECIES
-=======
+# Pestalotia sabinae Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistigme laporteae (Peck) Arx SPECIES
-=======
+# Epistigme laporteae (Peck) Arx SPECIES
 
 #### Status
 ACCEPTED

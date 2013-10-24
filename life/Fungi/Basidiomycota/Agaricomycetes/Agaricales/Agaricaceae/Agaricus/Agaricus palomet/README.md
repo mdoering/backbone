@@ -1,5 +1,4 @@
-Agaricus palomet DC. SPECIES
-=======
+# Agaricus palomet DC. SPECIES
 
 #### Status
 ACCEPTED

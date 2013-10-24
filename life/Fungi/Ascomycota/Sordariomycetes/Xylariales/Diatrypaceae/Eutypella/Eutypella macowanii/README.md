@@ -1,17 +1,16 @@
-Eutypella macowani Doidge SPECIES
-=======
+# Eutypella macowanii Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4: 51 (1941)
 
 #### Original name
-Eutypella macowani Doidge
+Eutypella macowanii Doidge
 
 ### Remarks
 null

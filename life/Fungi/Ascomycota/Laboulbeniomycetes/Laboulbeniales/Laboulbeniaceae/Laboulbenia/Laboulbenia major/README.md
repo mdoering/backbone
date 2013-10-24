@@ -1,5 +1,4 @@
-Laboulbenia major Speg. SPECIES
-=======
+# Laboulbenia major Speg. SPECIES
 
 #### Status
 ACCEPTED

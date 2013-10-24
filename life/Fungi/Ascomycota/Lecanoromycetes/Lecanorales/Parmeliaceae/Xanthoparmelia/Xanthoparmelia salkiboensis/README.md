@@ -1,5 +1,4 @@
-Xanthoparmelia salkiboensis Hale SPECIES
-=======
+# Xanthoparmelia salkiboensis Hale SPECIES
 
 #### Status
 ACCEPTED

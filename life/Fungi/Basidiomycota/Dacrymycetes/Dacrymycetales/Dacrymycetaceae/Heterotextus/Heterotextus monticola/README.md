@@ -1,5 +1,4 @@
-Heterotextus monticola (Lloyd) Lloyd SPECIES
-=======
+# Heterotextus monticola (Lloyd) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemisphaerium germanum Hemer & Nygreen, 1967 SPECIES
-=======
+# Hemisphaerium germanum Hemer & Nygreen, 1967 SPECIES
 
 #### Status
 ACCEPTED

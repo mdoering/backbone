@@ -1,5 +1,4 @@
-Cenangium aequinoctiale Mont. SPECIES
-=======
+# Cenangium aequinoctiale Mont. SPECIES
 
 #### Status
 ACCEPTED

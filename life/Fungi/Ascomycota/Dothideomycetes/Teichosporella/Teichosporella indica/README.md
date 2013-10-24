@@ -1,5 +1,4 @@
-Teichosporella indica Tilak SPECIES
-=======
+# Teichosporella indica Tilak SPECIES
 
 #### Status
 ACCEPTED

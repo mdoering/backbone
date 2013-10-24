@@ -1,5 +1,4 @@
-Graphina cremicolor H. Magn. SPECIES
-=======
+# Graphina cremicolor H. Magn. SPECIES
 
 #### Status
 ACCEPTED

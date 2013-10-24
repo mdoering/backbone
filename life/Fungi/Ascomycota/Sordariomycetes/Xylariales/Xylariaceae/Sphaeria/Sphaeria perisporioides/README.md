@@ -1,5 +1,4 @@
-Sphaeria perisporioides Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria perisporioides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

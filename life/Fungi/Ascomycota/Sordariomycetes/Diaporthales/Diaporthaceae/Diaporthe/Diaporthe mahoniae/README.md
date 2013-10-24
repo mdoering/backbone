@@ -1,5 +1,4 @@
-Diaporthe mahoniae f. mahoniae Speg., 1879 FORM
-=======
+# Diaporthe mahoniae Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Michelia 1(no. 5): 457 (1879)
 
 #### Original name
-Diaporthe mahoniae f. mahoniae Speg., 1879
+Diaporthe mahoniae Speg.
 
 ### Remarks
 null

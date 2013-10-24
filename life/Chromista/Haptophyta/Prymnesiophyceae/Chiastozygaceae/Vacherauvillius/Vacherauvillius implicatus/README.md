@@ -1,5 +1,4 @@
-Vacherauvillius implicatus (Goy in Goy et al., 1979) ex Goy, 1981 SPECIES
-=======
+# Vacherauvillius implicatus (Goy in Goy et al., 1979) ex Goy, 1981 SPECIES
 
 #### Status
 ACCEPTED

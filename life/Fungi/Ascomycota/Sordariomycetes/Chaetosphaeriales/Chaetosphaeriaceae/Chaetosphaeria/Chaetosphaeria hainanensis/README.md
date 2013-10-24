@@ -1,5 +1,4 @@
-Chaetosphaeria hainanensis Teng SPECIES
-=======
+# Chaetosphaeria hainanensis Teng SPECIES
 
 #### Status
 ACCEPTED

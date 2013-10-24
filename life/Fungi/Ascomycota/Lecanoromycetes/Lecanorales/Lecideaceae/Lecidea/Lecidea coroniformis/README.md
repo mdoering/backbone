@@ -1,5 +1,4 @@
-Lecidea coroniformis Kremp. SPECIES
-=======
+# Lecidea coroniformis Kremp. SPECIES
 
 #### Status
 ACCEPTED

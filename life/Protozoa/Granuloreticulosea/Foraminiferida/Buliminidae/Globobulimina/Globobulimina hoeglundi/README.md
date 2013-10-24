@@ -1,5 +1,4 @@
-Globobulimina hoeglundi Uchio, 1960 SPECIES
-=======
+# Globobulimina hoeglundi Uchio, 1960 SPECIES
 
 #### Status
 ACCEPTED

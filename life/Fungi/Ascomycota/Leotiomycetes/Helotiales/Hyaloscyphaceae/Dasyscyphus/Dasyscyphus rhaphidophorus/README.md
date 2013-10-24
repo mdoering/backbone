@@ -1,14 +1,13 @@
-Dasyscypha rhaphidophorus (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Dasyscyphus rhaphidophorus (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 304 (1954)
 
 #### Original name
 Peziza rhaphidophora Berk. & M.A. Curtis

@@ -1,5 +1,4 @@
-Acineta poculum SPECIES
-=======
+# Acineta poculum SPECIES
 
 #### Status
 ACCEPTED

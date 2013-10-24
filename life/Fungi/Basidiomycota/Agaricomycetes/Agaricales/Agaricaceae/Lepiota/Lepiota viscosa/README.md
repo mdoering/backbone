@@ -1,5 +1,4 @@
-Lepiota viscosa Beeli SPECIES
-=======
+# Lepiota viscosa Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora eucalyptorum Crous, M.J. Wingf., Marasas & B. Sutton, 1989 SPECIES
-=======
+# Pseudocercospora eucalyptorum Crous, M.J. Wingf., Marasas & B. Sutton, 1989 SPECIES
 
 #### Status
 ACCEPTED

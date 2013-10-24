@@ -1,5 +1,4 @@
-Psorotichia columnaris Henssen & Büdel SPECIES
-=======
+# Psorotichia columnaris Henssen & Büdel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria quadriseptata Trail SPECIES
-=======
+# Leptosphaeria quadriseptata Trail SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Henningsomyces pusillimus Syd. & P. Syd. SPECIES
-=======
+# Henningsomyces pusillimus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

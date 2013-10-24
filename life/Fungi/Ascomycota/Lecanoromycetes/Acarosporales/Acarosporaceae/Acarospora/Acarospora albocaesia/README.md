@@ -1,5 +1,4 @@
-Acarospora albocaesia (Nyl.) Flagey SPECIES
-=======
+# Acarospora albocaesia (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

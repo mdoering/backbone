@@ -1,5 +1,4 @@
-Asteridium paulistanum Speg. SPECIES
-=======
+# Asteridium paulistanum Speg. SPECIES
 
 #### Status
 ACCEPTED

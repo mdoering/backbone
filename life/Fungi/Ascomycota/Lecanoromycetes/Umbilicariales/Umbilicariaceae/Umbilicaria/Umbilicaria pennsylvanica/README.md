@@ -1,11 +1,10 @@
-Umbilicaria pennsylvanica var. pennsylvanica VARIETY
-=======
+# Umbilicaria pennsylvanica SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

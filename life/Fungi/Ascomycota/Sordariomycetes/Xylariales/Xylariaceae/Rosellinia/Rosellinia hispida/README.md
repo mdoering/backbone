@@ -1,5 +1,4 @@
-Rosellinia hispida Bonord. SPECIES
-=======
+# Rosellinia hispida Bonord. SPECIES
 
 #### Status
 ACCEPTED

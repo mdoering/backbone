@@ -1,5 +1,4 @@
-Diatrype undulata (Pers.) Fr. SPECIES
-=======
+# Diatrype undulata (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

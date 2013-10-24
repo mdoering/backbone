@@ -1,5 +1,4 @@
-Botryosphaeria brunneispora Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
-=======
+# Botryosphaeria brunneispora Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
 
 #### Status
 ACCEPTED

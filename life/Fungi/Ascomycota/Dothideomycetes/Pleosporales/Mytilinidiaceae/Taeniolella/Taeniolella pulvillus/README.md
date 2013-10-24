@@ -1,14 +1,13 @@
-Torula pulvillus Berk. & Broome, 1850 SPECIES
-=======
+# Taeniolella pulvillus (Berk. & Broome) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 460 (1850)
+More Dematiaceous Hyphomycetes (Kew) 57 (1976)
 
 #### Original name
 Torula pulvillus Berk. & Broome, 1850

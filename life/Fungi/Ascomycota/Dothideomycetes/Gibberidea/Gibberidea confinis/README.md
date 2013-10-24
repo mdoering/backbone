@@ -1,5 +1,4 @@
-Gibberidea confinis (Lév.) Kuntze SPECIES
-=======
+# Gibberidea confinis (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

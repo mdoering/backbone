@@ -1,5 +1,4 @@
-Verticicladiella humicola S.C. Jong & Davis SPECIES
-=======
+# Verticicladiella humicola S.C. Jong & Davis SPECIES
 
 #### Status
 ACCEPTED

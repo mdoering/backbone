@@ -1,5 +1,4 @@
-Aspicilia prorumpens Räsänen SPECIES
-=======
+# Aspicilia prorumpens Räsänen SPECIES
 
 #### Status
 ACCEPTED

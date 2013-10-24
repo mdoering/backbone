@@ -1,5 +1,4 @@
-Ciliosporella Petr. GENUS
-=======
+# Ciliosporella Petr. GENUS
 
 #### Status
 ACCEPTED

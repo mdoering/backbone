@@ -1,17 +1,16 @@
-Patellaria falliciosa Müll. Arg. SPECIES
-=======
+# Coenogonium fallaciosum (Müll. Arg.) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lücking & Kalb, Bot. Jb. 122(1): 32 (2000)
 
 #### Original name
-null
+Patellaria fallaciosa Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amoebosporus vasculorum Ivimey Cook, 1932 SPECIES
-=======
+# Amoebosporus vasculorum Ivimey Cook, 1932 SPECIES
 
 #### Status
 ACCEPTED

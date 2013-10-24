@@ -1,5 +1,4 @@
-Godronia rhamniella P. Karst. SPECIES
-=======
+# Godronia rhamniella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

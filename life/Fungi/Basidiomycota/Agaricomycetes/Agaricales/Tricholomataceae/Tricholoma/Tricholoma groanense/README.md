@@ -1,5 +1,4 @@
-Tricholoma groanense Viola SPECIES
-=======
+# Tricholoma groanense Viola SPECIES
 
 #### Status
 ACCEPTED

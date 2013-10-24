@@ -1,5 +1,4 @@
-Lophiostoma intricatum Nitschke SPECIES
-=======
+# Lophiostoma intricatum Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glossodinium N.S. Ioannides, G.N. Stavrinos & C. Downie, 1977 GENUS
-=======
+# Glossodinium N.S. Ioannides, G.N. Stavrinos & C. Downie, 1977 GENUS
 
 #### Status
 ACCEPTED

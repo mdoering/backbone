@@ -1,5 +1,4 @@
-Epipolaeum tungurahuense (Petr.) Arx SPECIES
-=======
+# Epipolaeum tungurahuense (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

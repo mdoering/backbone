@@ -1,5 +1,4 @@
-Coprinus muralis Allesch. SPECIES
-=======
+# Coprinus muralis Allesch. SPECIES
 
 #### Status
 ACCEPTED

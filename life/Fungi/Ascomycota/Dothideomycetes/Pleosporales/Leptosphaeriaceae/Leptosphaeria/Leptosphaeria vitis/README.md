@@ -1,5 +1,4 @@
-Leptosphaeria vitis Schulzer SPECIES
-=======
+# Leptosphaeria vitis Schulzer SPECIES
 
 #### Status
 ACCEPTED

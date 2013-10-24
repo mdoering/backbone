@@ -1,5 +1,4 @@
-Puccinia inconspicua Dietel SPECIES
-=======
+# Puccinia inconspicua Dietel SPECIES
 
 #### Status
 ACCEPTED

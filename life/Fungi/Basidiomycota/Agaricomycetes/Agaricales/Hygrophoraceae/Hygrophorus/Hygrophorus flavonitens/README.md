@@ -1,5 +1,4 @@
-Hygrophorus flavonitens A. Blytt SPECIES
-=======
+# Hygrophorus flavonitens A. Blytt SPECIES
 
 #### Status
 ACCEPTED

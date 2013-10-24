@@ -1,17 +1,16 @@
-Ocellularia kinabalensis Nagarkar & Hale SPECIES
-=======
+# Ocellularia kinabaluensis Nagarkar & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 35(2): 444 (1989)
 
 #### Original name
-Ocellularia kinabalensis Nagarkar & Hale
+Ocellularia kinabaluensis Nagarkar & Hale
 
 ### Remarks
 null

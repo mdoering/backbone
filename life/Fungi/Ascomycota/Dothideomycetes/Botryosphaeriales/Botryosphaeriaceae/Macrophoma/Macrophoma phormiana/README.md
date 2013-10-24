@@ -1,5 +1,4 @@
-Macrophoma phormiana Sacc. SPECIES
-=======
+# Macrophoma phormiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

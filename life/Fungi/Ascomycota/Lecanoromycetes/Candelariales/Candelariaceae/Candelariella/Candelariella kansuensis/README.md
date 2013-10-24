@@ -1,17 +1,16 @@
-Candelariella kansuensis f. kansuensis H. Magn. FORM
-=======
+# Candelariella kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Candelariella kansuensis f. kansuensis H. Magn.
+Candelariella kansuensis H. Magn.
 
 ### Remarks
 null

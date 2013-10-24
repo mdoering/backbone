@@ -1,5 +1,4 @@
-Neonectria caespitosa (Fuckel) Wollenw. SPECIES
-=======
+# Neonectria caespitosa (Fuckel) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

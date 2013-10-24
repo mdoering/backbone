@@ -1,5 +1,4 @@
-Leptosphaeria australis (Crié) Sacc. SPECIES
-=======
+# Leptosphaeria australis (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

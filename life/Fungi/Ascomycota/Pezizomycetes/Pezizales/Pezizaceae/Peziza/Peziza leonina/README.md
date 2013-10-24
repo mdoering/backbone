@@ -1,5 +1,4 @@
-Peziza leonina Schwein. SPECIES
-=======
+# Peziza leonina Schwein. SPECIES
 
 #### Status
 ACCEPTED

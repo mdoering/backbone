@@ -1,5 +1,4 @@
-Lecanora critica Nyl. SPECIES
-=======
+# Lecanora critica Nyl. SPECIES
 
 #### Status
 ACCEPTED

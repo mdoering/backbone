@@ -1,5 +1,4 @@
-Lecania vieillardii Müll. Arg. SPECIES
-=======
+# Lecania vieillardii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocapsaceae FAMILY
-=======
+# Pleurocapsaceae FAMILY
 
 #### Status
 ACCEPTED

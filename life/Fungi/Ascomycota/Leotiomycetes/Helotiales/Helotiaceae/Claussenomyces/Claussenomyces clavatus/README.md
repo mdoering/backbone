@@ -1,5 +1,4 @@
-Claussenomyces clavatus Ouell. & Korf, 1979 SPECIES
-=======
+# Claussenomyces clavatus Ouell. & Korf, 1979 SPECIES
 
 #### Status
 ACCEPTED

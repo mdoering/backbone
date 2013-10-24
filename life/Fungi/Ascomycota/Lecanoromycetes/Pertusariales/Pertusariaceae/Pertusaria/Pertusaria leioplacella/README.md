@@ -1,17 +1,16 @@
-Pertusaria amblyogona Müll. Arg. SPECIES
-=======
+# Pertusaria leioplacella Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Normandie, sér. 2 2: 71 (1868)
 
 #### Original name
-null
+Pertusaria leioplacella Nyl.
 
 ### Remarks
 null

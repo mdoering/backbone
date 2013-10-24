@@ -1,5 +1,4 @@
-Xanthomonas euvesicatoria Jones et al., 2006 SPECIES
-=======
+# Xanthomonas euvesicatoria Jones et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

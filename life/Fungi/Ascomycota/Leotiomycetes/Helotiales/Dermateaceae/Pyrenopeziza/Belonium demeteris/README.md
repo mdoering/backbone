@@ -1,5 +1,4 @@
-Belonium demeteris Velen. SPECIES
-=======
+# Belonium demeteris Velen. SPECIES
 
 #### Status
 ACCEPTED

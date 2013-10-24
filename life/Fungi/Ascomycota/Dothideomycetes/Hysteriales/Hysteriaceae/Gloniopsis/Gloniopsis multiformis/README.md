@@ -1,5 +1,4 @@
-Gloniopsis multiformis Starbäck SPECIES
-=======
+# Gloniopsis multiformis Starbäck SPECIES
 
 #### Status
 ACCEPTED

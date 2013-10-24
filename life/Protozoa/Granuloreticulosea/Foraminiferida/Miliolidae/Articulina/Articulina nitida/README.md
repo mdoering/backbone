@@ -1,5 +1,4 @@
-Articulina nitida d'Orbigny, 1826 SPECIES
-=======
+# Articulina nitida d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

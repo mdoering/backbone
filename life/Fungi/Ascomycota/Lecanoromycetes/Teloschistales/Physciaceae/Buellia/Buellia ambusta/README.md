@@ -1,5 +1,4 @@
-Buellia ambusta Zahlbr. SPECIES
-=======
+# Buellia ambusta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

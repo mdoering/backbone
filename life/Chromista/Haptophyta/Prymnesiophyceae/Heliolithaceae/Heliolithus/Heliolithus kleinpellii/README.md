@@ -1,5 +1,4 @@
-Heliolithus kleinpellii Sullivan, 1964 SPECIES
-=======
+# Heliolithus kleinpellii Sullivan, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Charonectria Sacc. GENUS
-=======
+# Charonectria Sacc. GENUS
 
 #### Status
 ACCEPTED

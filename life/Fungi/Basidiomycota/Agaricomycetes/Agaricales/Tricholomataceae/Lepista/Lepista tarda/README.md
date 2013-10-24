@@ -1,5 +1,4 @@
-Lepista tarda (Peck) Murrill SPECIES
-=======
+# Lepista tarda (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

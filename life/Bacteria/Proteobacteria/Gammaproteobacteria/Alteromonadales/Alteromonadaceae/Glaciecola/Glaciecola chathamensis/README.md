@@ -1,5 +1,4 @@
-Glaciecola chathamensis Matsuyama, Hirabayashi, Kasahara, Minami, Hoshino & Yumoto, 2006 SPECIES
-=======
+# Glaciecola chathamensis Matsuyama, Hirabayashi, Kasahara, Minami, Hoshino & Yumoto, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syracosphaera ossa (Lecal) Loeblich & Tappan, 1968 SPECIES
-=======
+# Syracosphaera ossa (Lecal) Loeblich & Tappan, 1968 SPECIES
 
 #### Status
 ACCEPTED

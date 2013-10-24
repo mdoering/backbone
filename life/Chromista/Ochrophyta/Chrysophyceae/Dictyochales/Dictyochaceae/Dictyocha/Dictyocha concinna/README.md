@@ -1,5 +1,4 @@
-Dictyocha concinna D. Bukry SPECIES
-=======
+# Dictyocha concinna D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena griseogilva E. Horak SPECIES
-=======
+# Mycena griseogilva E. Horak SPECIES
 
 #### Status
 ACCEPTED

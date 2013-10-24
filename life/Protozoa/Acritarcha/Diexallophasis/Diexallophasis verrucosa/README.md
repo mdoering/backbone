@@ -1,5 +1,4 @@
-Diexallophasis verrucosa (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Diexallophasis verrucosa (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

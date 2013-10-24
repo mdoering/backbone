@@ -1,5 +1,4 @@
-Exophoma magnoliae Weedon, 1926 SPECIES
-=======
+# Exophoma magnoliae Weedon, 1926 SPECIES
 
 #### Status
 ACCEPTED

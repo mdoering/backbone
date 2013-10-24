@@ -1,5 +1,4 @@
-Elliobiocystis caridarum Coutière, 1911 SPECIES
-=======
+# Elliobiocystis caridarum Coutière, 1911 SPECIES
 
 #### Status
 ACCEPTED

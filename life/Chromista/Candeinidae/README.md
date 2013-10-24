@@ -1,5 +1,4 @@
-Candeinidae FAMILY
-=======
+# Candeinidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellipticoporata lanceolaris Lopukhin, 1966 SPECIES
-=======
+# Ellipticoporata lanceolaris Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

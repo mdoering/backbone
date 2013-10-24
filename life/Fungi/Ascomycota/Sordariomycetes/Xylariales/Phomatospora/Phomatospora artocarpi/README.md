@@ -1,5 +1,4 @@
-Phomatospora artocarpi T.S. Ramakr. & Sundaram SPECIES
-=======
+# Phomatospora artocarpi T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus pseudopallidus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus pseudopallidus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

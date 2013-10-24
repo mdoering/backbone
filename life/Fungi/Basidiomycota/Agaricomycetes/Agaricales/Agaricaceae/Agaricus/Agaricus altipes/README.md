@@ -1,17 +1,16 @@
-Agaricus albosericeus var. flavotactus (F.H. Møller) Courtec., 2008 VARIETY
-=======
+# Agaricus altipes (F.H. Møller) F.H. Møller, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sb. nár. Mus. Praze 7B(1): 12 (1951)
 
 #### Original name
-null
+Psalliota altipes F.H. Møller, 1950
 
 ### Remarks
 null

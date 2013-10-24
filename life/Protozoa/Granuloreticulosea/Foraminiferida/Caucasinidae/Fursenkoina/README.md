@@ -1,5 +1,4 @@
-Fursenkoina Loeblich & Tappan, 1961 GENUS
-=======
+# Fursenkoina Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

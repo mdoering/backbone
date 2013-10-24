@@ -1,5 +1,4 @@
-Erioderma wrightii Tuck. SPECIES
-=======
+# Erioderma wrightii Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilinia ariae (Schellenb.) Whetzel SPECIES
-=======
+# Monilinia ariae (Schellenb.) Whetzel SPECIES
 
 #### Status
 ACCEPTED

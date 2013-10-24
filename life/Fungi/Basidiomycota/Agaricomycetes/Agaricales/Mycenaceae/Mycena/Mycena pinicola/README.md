@@ -1,5 +1,4 @@
-Mycena pinicola G. Stev., 1964 SPECIES
-=======
+# Mycena pinicola G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

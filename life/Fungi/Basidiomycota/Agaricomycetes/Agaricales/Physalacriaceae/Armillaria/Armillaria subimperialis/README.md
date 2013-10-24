@@ -1,5 +1,4 @@
-Armillaria subimperialis (Britzelm.) Sacc. SPECIES
-=======
+# Armillaria subimperialis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

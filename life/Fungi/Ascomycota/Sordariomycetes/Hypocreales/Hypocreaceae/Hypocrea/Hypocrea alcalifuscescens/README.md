@@ -1,5 +1,4 @@
-Hypocrea alcalifuscescens Overton SPECIES
-=======
+# Hypocrea alcalifuscescens Overton SPECIES
 
 #### Status
 ACCEPTED

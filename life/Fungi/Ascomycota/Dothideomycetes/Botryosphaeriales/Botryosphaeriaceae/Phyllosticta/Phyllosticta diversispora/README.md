@@ -1,5 +1,4 @@
-Phyllosticta diversispora Bubák SPECIES
-=======
+# Phyllosticta diversispora Bubák SPECIES
 
 #### Status
 ACCEPTED

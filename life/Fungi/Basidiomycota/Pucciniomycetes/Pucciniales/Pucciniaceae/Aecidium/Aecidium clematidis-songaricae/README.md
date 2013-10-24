@@ -1,5 +1,4 @@
-Aecidium clematidis-songaricae Nevod. SPECIES
-=======
+# Aecidium clematidis-songaricae Nevod. SPECIES
 
 #### Status
 ACCEPTED

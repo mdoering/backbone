@@ -1,5 +1,4 @@
-Diplodia periglandis Cooke & Harkn. SPECIES
-=======
+# Diplodia periglandis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

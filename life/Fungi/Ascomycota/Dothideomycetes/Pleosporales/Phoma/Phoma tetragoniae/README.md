@@ -1,5 +1,4 @@
-Phoma tetragoniae Sacc. & Berl. SPECIES
-=======
+# Phoma tetragoniae Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

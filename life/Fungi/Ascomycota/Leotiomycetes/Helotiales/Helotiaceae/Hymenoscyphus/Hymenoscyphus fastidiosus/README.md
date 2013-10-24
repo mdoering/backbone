@@ -1,5 +1,4 @@
-Hymenoscyphus fastidiosus (Peck) Arendh. SPECIES
-=======
+# Hymenoscyphus fastidiosus (Peck) Arendh. SPECIES
 
 #### Status
 ACCEPTED

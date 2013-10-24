@@ -1,5 +1,4 @@
-Macrophoma lilii Seaver & Waterston SPECIES
-=======
+# Macrophoma lilii Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

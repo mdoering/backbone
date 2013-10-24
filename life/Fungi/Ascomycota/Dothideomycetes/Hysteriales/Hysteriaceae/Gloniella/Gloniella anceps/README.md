@@ -1,5 +1,4 @@
-Gloniella anceps Sacc. SPECIES
-=======
+# Gloniella anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

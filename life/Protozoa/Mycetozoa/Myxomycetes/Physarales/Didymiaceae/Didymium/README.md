@@ -1,17 +1,16 @@
-Disporium Léman GENUS
-=======
+# Didymium Schrad. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dict. Sci. Nat. 13: 351 (1819)
+Nov. gen. pl. (Lipsiae) 20 (1797)
 
 #### Original name
-Disporium Léman
+Didymium Schrad.
 
 ### Remarks
 null

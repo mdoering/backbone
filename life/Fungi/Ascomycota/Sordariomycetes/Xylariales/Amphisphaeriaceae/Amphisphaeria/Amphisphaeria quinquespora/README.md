@@ -1,5 +1,4 @@
-Amphisphaeria quinquespora Schulzer SPECIES
-=======
+# Amphisphaeria quinquespora Schulzer SPECIES
 
 #### Status
 ACCEPTED

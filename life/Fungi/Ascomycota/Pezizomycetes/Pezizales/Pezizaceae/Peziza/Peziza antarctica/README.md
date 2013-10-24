@@ -1,5 +1,4 @@
-Peziza antarctica Speg. SPECIES
-=======
+# Peziza antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

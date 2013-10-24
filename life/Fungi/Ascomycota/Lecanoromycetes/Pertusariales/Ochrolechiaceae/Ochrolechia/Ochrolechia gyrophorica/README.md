@@ -1,14 +1,13 @@
-Pertusaria gyrophorica A.W. Archer SPECIES
-=======
+# Ochrolechia gyrophorica (A.W. Archer) A.W. Archer & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 44(1): 13 (1992)
+in Archer, Biblthca Lichenol. 69: 224 (1997)
 
 #### Original name
 Pertusaria gyrophorica A.W. Archer

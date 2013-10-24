@@ -1,5 +1,4 @@
-Pseudotetraploa GENUS
-=======
+# Pseudotetraploa GENUS
 
 #### Status
 ACCEPTED

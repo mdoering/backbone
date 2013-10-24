@@ -1,5 +1,4 @@
-Endodothella karstenii (Starbäck) Theiss. & Syd. SPECIES
-=======
+# Endodothella karstenii (Starbäck) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

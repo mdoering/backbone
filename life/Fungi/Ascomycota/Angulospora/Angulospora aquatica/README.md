@@ -1,5 +1,4 @@
-Angulospora aquatica Sv. Nilsson, 1962 SPECIES
-=======
+# Angulospora aquatica Sv. Nilsson, 1962 SPECIES
 
 #### Status
 ACCEPTED

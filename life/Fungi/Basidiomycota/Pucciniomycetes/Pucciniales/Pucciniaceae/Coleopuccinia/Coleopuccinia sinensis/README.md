@@ -1,5 +1,4 @@
-Coleopuccinia sinensis Pat., 1889 SPECIES
-=======
+# Coleopuccinia sinensis Pat., 1889 SPECIES
 
 #### Status
 ACCEPTED

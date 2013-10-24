@@ -1,17 +1,16 @@
-Vermicularia liliacearum var. liliacearum VARIETY
-=======
+# Colletotrichum liliacearum (Westend.) Duke, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prodr. Fl. Batav. , Fungi 2(4): 113 (1866)
+Trans. Br. mycol. Soc. 13: 172 (1928)
 
 #### Original name
-Vermicularia liliacearum var. liliacearum
+Vermicularia liliacearum Westend., 1866
 
 ### Remarks
 null

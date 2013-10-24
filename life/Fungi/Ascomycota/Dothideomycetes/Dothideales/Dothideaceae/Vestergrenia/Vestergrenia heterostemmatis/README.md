@@ -1,8 +1,7 @@
-Vestergrenia heterostemmae (T.S. Ramakr. & K. Ramakr.) Arx & E. Müll. SPECIES
-=======
+# Vestergrenia heterostemmatis (T.S. Ramakr. & K. Ramakr.) Arx & E. Müll. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

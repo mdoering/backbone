@@ -1,5 +1,4 @@
-Leptonia lazulinoardesiaca var. lazulinoardesiaca VARIETY
-=======
+# Leptonia lazulinoardesiaca Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptonia lazulinoardesiaca var. lazulinoardesiaca
+Leptonia lazulinoardesiaca Dennis
 
 ### Remarks
 null

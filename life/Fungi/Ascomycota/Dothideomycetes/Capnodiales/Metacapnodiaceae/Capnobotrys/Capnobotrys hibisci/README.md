@@ -1,5 +1,4 @@
-Capnobotrys hibisci Mercado SPECIES
-=======
+# Capnobotrys hibisci Mercado SPECIES
 
 #### Status
 ACCEPTED

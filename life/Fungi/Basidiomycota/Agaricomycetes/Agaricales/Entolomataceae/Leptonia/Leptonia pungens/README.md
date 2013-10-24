@@ -1,5 +1,4 @@
-Leptonia pungens A.H. Sm. & Hesler SPECIES
-=======
+# Leptonia pungens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

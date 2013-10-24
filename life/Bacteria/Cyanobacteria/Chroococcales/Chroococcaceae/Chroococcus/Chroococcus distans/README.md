@@ -1,8 +1,7 @@
-Chroococcus limneticus var. distans G.M. Smith VARIETY
-=======
+# Chroococcus distans (G.M. Smith) Komárková-Legnerová & Cronberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Alternaria achyranthis J.Z. Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria achyranthis J.Z. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila paludosa Velen. SPECIES
-=======
+# Ombrophila paludosa Velen. SPECIES
 
 #### Status
 ACCEPTED

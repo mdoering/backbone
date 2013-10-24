@@ -1,5 +1,4 @@
-Torula macrotricha Corda SPECIES
-=======
+# Torula macrotricha Corda SPECIES
 
 #### Status
 ACCEPTED

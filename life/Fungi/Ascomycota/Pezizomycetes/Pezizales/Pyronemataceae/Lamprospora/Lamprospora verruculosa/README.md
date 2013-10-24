@@ -1,5 +1,4 @@
-Lamprospora verruculosa (Berk. & Broome) Boedijn SPECIES
-=======
+# Lamprospora verruculosa (Berk. & Broome) Boedijn SPECIES
 
 #### Status
 ACCEPTED

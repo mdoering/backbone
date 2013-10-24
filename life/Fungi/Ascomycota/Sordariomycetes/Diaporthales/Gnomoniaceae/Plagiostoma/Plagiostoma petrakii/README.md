@@ -1,5 +1,4 @@
-Plagiostoma petrakii (E. Müll.) M. Monod SPECIES
-=======
+# Plagiostoma petrakii (E. Müll.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

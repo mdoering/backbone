@@ -1,5 +1,4 @@
-Aecidium pertyae Henn. SPECIES
-=======
+# Aecidium pertyae Henn. SPECIES
 
 #### Status
 ACCEPTED

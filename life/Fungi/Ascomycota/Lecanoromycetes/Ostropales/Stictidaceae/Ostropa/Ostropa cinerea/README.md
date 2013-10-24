@@ -1,5 +1,4 @@
-Ostropa cinerea var. cinerea VARIETY
-=======
+# Ostropa cinerea SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 401 (1849)
+null
 
 #### Original name
-Ostropa cinerea var. cinerea
+null
 
 ### Remarks
 null

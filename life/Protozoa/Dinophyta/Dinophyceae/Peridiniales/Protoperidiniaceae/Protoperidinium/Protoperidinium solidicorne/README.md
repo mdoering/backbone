@@ -1,8 +1,7 @@
-Protoperidinium spinosum Schiller, 1937 SPECIES
-=======
+# Protoperidinium solidicorne (Mangin, 1922) Balech, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

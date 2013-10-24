@@ -1,5 +1,4 @@
-Leciographa homoica (Nyl.) Arnold SPECIES
-=======
+# Leciographa homoica (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

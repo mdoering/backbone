@@ -1,5 +1,4 @@
-Psilocybe fuliginosa (Murrill) A.H. Sm. SPECIES
-=======
+# Psilocybe fuliginosa (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

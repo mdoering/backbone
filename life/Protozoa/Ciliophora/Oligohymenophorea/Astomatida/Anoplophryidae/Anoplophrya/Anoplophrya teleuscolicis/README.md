@@ -1,5 +1,4 @@
-Anoplophrya teleuscolicis SPECIES
-=======
+# Anoplophrya teleuscolicis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella angelicae (Ellis & Everh.) Sacc. SPECIES
-=======
+# Didymella angelicae (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

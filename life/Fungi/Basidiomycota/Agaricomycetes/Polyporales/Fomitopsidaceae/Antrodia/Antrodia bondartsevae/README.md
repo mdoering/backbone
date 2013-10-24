@@ -1,5 +1,4 @@
-Antrodia bondartsevae Spirin SPECIES
-=======
+# Antrodia bondartsevae Spirin SPECIES
 
 #### Status
 ACCEPTED

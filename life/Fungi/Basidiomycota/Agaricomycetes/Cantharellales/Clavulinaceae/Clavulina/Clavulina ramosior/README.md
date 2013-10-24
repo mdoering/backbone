@@ -1,14 +1,13 @@
-Clavulina cavipes var. ramosior Corner, 1966 VARIETY
-=======
+# Clavulina ramosior (Corner) P. Roberts, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Jardin Botanique de l'État, Bruxelles 36: 260 (1966)
+Kew Bull. 54(3): 526 (1999)
 
 #### Original name
 Clavulina cavipes var. ramosior Corner, 1966

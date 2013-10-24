@@ -1,5 +1,4 @@
-Pseudocercospora mali (Ellis & Everh.) Deighton SPECIES
-=======
+# Pseudocercospora mali (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

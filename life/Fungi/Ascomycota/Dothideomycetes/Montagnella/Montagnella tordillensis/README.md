@@ -1,14 +1,13 @@
-Phyllachora tordillensis (Speg.) Cooke, 1885 SPECIES
-=======
+# Montagnella tordillensis Speg., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Anal. Soc. cient. argent. 12: 187 (1881)
 
 #### Original name
 Montagnella tordillensis Speg., 1881

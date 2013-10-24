@@ -1,5 +1,4 @@
-Castanura Haeckel, 1879 GENUS
-=======
+# Castanura Haeckel, 1879 GENUS
 
 #### Status
 ACCEPTED

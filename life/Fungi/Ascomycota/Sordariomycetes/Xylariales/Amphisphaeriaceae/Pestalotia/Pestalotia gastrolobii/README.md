@@ -1,8 +1,7 @@
-Pestalotia gastrolobi Tassi SPECIES
-=======
+# Pestalotia gastrolobii Tassi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia gastrolobi Tassi
+Pestalotia gastrolobii Tassi
 
 ### Remarks
 null

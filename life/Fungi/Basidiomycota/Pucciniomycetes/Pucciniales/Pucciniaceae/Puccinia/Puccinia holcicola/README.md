@@ -1,5 +1,4 @@
-Puccinia holcicola Guyot SPECIES
-=======
+# Puccinia holcicola Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma abdita Sacc., 1880 SPECIES
-=======
+# Phomopsis abdita (Sacc.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 96 (1880)
+Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 237 (1906)
 
 #### Original name
 Phoma abdita Sacc., 1880

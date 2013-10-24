@@ -1,5 +1,4 @@
-Synchytrium lepidagathidis Mundk. & Mhatre SPECIES
-=======
+# Synchytrium lepidagathidis Mundk. & Mhatre SPECIES
 
 #### Status
 ACCEPTED

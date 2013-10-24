@@ -1,5 +1,4 @@
-Physcia lobulata (Flörke) Arnold SPECIES
-=======
+# Physcia lobulata (Flörke) Arnold SPECIES
 
 #### Status
 ACCEPTED

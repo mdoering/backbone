@@ -1,5 +1,4 @@
-Micropeltella depressa (Cooke & Massee) Bat. SPECIES
-=======
+# Micropeltella depressa (Cooke & Massee) Bat. SPECIES
 
 #### Status
 ACCEPTED

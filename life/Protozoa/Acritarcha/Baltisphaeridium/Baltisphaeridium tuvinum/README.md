@@ -1,5 +1,4 @@
-Baltisphaeridium tuvinum Sheshegova, 1975 SPECIES
-=======
+# Baltisphaeridium tuvinum Sheshegova, 1975 SPECIES
 
 #### Status
 ACCEPTED

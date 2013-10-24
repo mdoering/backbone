@@ -1,5 +1,4 @@
-Algogrunowia O. Kuntze, 1891 GENUS
-=======
+# Algogrunowia O. Kuntze, 1891 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora cupularis G. Winter SPECIES
-=======
+# Physalospora cupularis G. Winter SPECIES
 
 #### Status
 ACCEPTED

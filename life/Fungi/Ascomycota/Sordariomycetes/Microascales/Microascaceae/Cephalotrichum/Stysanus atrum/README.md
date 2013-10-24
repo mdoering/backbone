@@ -1,5 +1,4 @@
-Stysanus atrum anon. SPECIES
-=======
+# Stysanus atrum anon. SPECIES
 
 #### Status
 ACCEPTED

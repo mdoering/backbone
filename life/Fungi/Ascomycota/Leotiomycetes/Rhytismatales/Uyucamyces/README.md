@@ -1,5 +1,4 @@
-Uyucamyces H.C. Evans & Minter GENUS
-=======
+# Uyucamyces H.C. Evans & Minter GENUS
 
 #### Status
 ACCEPTED

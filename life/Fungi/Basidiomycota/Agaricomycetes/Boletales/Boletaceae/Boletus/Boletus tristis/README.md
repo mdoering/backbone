@@ -1,5 +1,4 @@
-Boletus tristis Pat. & C.F. Baker SPECIES
-=======
+# Boletus tristis Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

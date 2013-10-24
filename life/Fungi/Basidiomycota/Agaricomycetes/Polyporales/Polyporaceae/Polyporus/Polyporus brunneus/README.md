@@ -1,5 +1,4 @@
-Polyporus brunneus Schwein. SPECIES
-=======
+# Polyporus brunneus Schwein. SPECIES
 
 #### Status
 ACCEPTED

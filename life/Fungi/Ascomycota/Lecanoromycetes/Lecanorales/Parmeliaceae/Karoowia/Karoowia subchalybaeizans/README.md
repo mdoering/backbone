@@ -1,5 +1,4 @@
-Karoowia subchalybaeizans Hale SPECIES
-=======
+# Karoowia subchalybaeizans Hale SPECIES
 
 #### Status
 ACCEPTED

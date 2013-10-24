@@ -1,5 +1,4 @@
-Leptothyrium punctulatum Sacc. SPECIES
-=======
+# Leptothyrium punctulatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

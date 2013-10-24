@@ -1,5 +1,4 @@
-Russula subcremeiceps Murrill SPECIES
-=======
+# Russula subcremeiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

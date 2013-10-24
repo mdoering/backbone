@@ -1,5 +1,4 @@
-Pestalotia flacourtiae Petch SPECIES
-=======
+# Pestalotia flacourtiae Petch SPECIES
 
 #### Status
 ACCEPTED

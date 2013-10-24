@@ -1,5 +1,4 @@
-Xyloma varium Fr. SPECIES
-=======
+# Xyloma varium Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entosordaria altipeta (Peck) Höhn. SPECIES
-=======
+# Entosordaria altipeta (Peck) Höhn. SPECIES
 
 #### Status
 ACCEPTED

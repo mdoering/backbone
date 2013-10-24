@@ -1,5 +1,4 @@
-Eutypella curvispora (Starbäck) Rappaz SPECIES
-=======
+# Eutypella curvispora (Starbäck) Rappaz SPECIES
 
 #### Status
 ACCEPTED

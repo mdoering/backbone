@@ -1,5 +1,4 @@
-Rubigo padi Mart. SPECIES
-=======
+# Rubigo padi Mart. SPECIES
 
 #### Status
 ACCEPTED

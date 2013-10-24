@@ -1,5 +1,4 @@
-Canoparmelia singularis Krog & Swinscow SPECIES
-=======
+# Canoparmelia singularis Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis confusa M.S. Patil & B.J. Patil SPECIES
-=======
+# Syncephalis confusa M.S. Patil & B.J. Patil SPECIES
 
 #### Status
 ACCEPTED

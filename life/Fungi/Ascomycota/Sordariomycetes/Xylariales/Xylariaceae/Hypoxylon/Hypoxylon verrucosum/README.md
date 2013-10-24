@@ -1,5 +1,4 @@
-Hypoxylon verrucosum Theiss. SPECIES
-=======
+# Hypoxylon verrucosum Theiss. SPECIES
 
 #### Status
 ACCEPTED

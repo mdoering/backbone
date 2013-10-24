@@ -1,5 +1,4 @@
-Verrucaria subcrustosa (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria subcrustosa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

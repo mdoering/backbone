@@ -1,5 +1,4 @@
-Diplomitoporus microsporus Iturr. & Ryvarden, 2010 SPECIES
-=======
+# Diplomitoporus microsporus Iturr. & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

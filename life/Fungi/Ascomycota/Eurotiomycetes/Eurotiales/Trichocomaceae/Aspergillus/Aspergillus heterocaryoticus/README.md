@@ -1,5 +1,4 @@
-Aspergillus heterocaryoticus M. Chr., L.C. López & C.R. Benj., 1965 SPECIES
-=======
+# Aspergillus heterocaryoticus M. Chr., L.C. López & C.R. Benj., 1965 SPECIES
 
 #### Status
 ACCEPTED

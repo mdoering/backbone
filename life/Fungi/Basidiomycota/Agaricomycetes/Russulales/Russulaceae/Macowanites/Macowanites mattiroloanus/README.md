@@ -1,14 +1,13 @@
-Macowanites mattirolianus (Cavara) T. Lebel & Trappe SPECIES
-=======
+# Macowanites mattiroloanus (Cavara) T. Lebel & Trappe, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 92(8): 1194 (2000)
 
 #### Original name
 Elasmomyces mattiroloanus Cavara, 1897

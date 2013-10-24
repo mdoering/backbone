@@ -1,5 +1,4 @@
-Cantharellus subamethysteus Eyssart. & Stubbe SPECIES
-=======
+# Cantharellus subamethysteus Eyssart. & Stubbe SPECIES
 
 #### Status
 ACCEPTED

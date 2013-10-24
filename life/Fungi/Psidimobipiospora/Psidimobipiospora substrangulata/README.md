@@ -1,5 +1,4 @@
-Psidimobipiospora substrangulata Sal.-Cheb. & Locq. SPECIES
-=======
+# Psidimobipiospora substrangulata Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

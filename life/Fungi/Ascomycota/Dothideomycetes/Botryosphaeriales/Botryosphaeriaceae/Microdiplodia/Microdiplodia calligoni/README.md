@@ -1,5 +1,4 @@
-Microdiplodia calligoni (Kravtzev) Frolov SPECIES
-=======
+# Microdiplodia calligoni (Kravtzev) Frolov SPECIES
 
 #### Status
 ACCEPTED

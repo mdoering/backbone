@@ -1,5 +1,4 @@
-Lambertella tetrica (Quél.) Dumont SPECIES
-=======
+# Lambertella tetrica (Quél.) Dumont SPECIES
 
 #### Status
 ACCEPTED

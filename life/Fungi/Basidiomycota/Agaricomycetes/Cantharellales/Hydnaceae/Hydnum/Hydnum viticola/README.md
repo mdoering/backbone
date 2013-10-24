@@ -1,5 +1,4 @@
-Hydnum viticola (Schwein. ex Fr.) Schwein. SPECIES
-=======
+# Hydnum viticola (Schwein. ex Fr.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

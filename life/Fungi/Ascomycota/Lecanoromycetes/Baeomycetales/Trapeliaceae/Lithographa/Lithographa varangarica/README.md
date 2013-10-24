@@ -1,5 +1,4 @@
-Lithographa varangarica (Th. Fr.) Zahlbr. SPECIES
-=======
+# Lithographa varangarica (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

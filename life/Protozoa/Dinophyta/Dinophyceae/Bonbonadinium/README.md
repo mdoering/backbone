@@ -1,5 +1,4 @@
-Bonbonadinium J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Bonbonadinium J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

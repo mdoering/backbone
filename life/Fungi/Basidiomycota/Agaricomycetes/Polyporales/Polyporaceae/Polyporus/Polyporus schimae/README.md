@@ -1,5 +1,4 @@
-Polyporus schimae S. Ito & S. Imai SPECIES
-=======
+# Polyporus schimae S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

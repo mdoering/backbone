@@ -1,5 +1,4 @@
-Trichopeziza echinulata Rehm SPECIES
-=======
+# Trichopeziza echinulata Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euryachora rhytismoides (Jul. Müll.) Ferd. & O. Rostr. SPECIES
-=======
+# Euryachora rhytismoides (Jul. Müll.) Ferd. & O. Rostr. SPECIES
 
 #### Status
 ACCEPTED

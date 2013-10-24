@@ -1,5 +1,4 @@
-Coleopucciniella simplex (Dietel) Hara ex Hirats., 1936 SPECIES
-=======
+# Coleopucciniella simplex (Dietel) Hara ex Hirats., 1936 SPECIES
 
 #### Status
 ACCEPTED

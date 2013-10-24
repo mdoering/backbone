@@ -1,14 +1,13 @@
-Bauhinus silybi (Vánky & Berner) Denchev & R.T. Moore, 2006 SPECIES
-=======
+# Microbotryum silybum Vánky & Berner, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Denchev, Moore & Shin, Mycol. Balcanica 3(1): 73 (2006)
+Mycotaxon 85: 308 (2003)
 
 #### Original name
 Microbotryum silybum Vánky & Berner, 2003

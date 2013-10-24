@@ -1,5 +1,4 @@
-Ombrophila patellarioides P. Karst. SPECIES
-=======
+# Ombrophila patellarioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

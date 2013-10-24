@@ -1,5 +1,4 @@
-Ustilago ischaemonoides Henn. SPECIES
-=======
+# Ustilago ischaemonoides Henn. SPECIES
 
 #### Status
 ACCEPTED

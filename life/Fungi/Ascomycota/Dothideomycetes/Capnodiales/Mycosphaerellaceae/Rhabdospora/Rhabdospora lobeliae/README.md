@@ -1,5 +1,4 @@
-Rhabdospora lobeliae McAlpine SPECIES
-=======
+# Rhabdospora lobeliae McAlpine SPECIES
 
 #### Status
 ACCEPTED

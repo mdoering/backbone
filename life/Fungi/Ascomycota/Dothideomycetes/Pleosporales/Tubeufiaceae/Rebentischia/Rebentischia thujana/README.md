@@ -1,5 +1,4 @@
-Rebentischia thujana Feltgen SPECIES
-=======
+# Rebentischia thujana Feltgen SPECIES
 
 #### Status
 ACCEPTED

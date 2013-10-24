@@ -1,5 +1,4 @@
-Chloroscypha fitzroyae Butin SPECIES
-=======
+# Chloroscypha fitzroyae Butin SPECIES
 
 #### Status
 ACCEPTED

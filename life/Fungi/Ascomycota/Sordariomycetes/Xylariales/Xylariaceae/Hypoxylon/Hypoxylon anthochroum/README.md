@@ -1,17 +1,16 @@
-Hypoxylon albostigmatosum Speg., 1884 SPECIES
-=======
+# Hypoxylon anthochroum Berk. & Broome, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 18: 271 (1884)
+J. Linn. Soc. , Bot. 14(2): 122 (1875)
 
 #### Original name
-Hypoxylon albostigmatosum Speg., 1884
+Hypoxylon anthochroum Berk. & Broome, 1875
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca hokkadense (Räsänen) SPECIES
-=======
+# Caloplaca hokkadense (Räsänen) SPECIES
 
 #### Status
 ACCEPTED

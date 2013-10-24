@@ -1,5 +1,4 @@
-Hygrocybe pseudoamylospora Singer SPECIES
-=======
+# Hygrocybe pseudoamylospora Singer SPECIES
 
 #### Status
 ACCEPTED

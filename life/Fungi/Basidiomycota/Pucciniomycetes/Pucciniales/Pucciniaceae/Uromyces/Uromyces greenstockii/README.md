@@ -1,5 +1,4 @@
-Uromyces greenstockii Doidge SPECIES
-=======
+# Uromyces greenstockii Doidge SPECIES
 
 #### Status
 ACCEPTED

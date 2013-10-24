@@ -1,5 +1,4 @@
-Glabrorosalina McCulloch, 1977 GENUS
-=======
+# Glabrorosalina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Höglundina Brotzen, 1948 GENUS
-=======
+# Epistomina Terquem, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sverig. Geol. Undersokn. Arsb. , 42, 92.
+Bull. Soc. Géol. France, (3) 11, 37.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Cercospora stephanotidis J.M. Yen SPECIES
-=======
+# Cercospora stephanotidis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora liriodendri Siemaszko SPECIES
-=======
+# Stagonospora liriodendri Siemaszko SPECIES
 
 #### Status
 ACCEPTED

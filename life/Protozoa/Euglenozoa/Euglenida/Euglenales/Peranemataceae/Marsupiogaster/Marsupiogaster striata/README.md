@@ -1,5 +1,4 @@
-Marsupiogaster striata Schewiakoff SPECIES
-=======
+# Marsupiogaster striata Schewiakoff SPECIES
 
 #### Status
 ACCEPTED

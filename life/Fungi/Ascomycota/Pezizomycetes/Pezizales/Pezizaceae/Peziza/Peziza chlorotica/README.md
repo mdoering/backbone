@@ -1,5 +1,4 @@
-Peziza chlorotica Fr. SPECIES
-=======
+# Peziza chlorotica Fr. SPECIES
 
 #### Status
 ACCEPTED

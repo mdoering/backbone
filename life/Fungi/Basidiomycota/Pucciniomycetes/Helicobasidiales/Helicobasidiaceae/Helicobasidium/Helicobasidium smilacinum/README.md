@@ -1,5 +1,4 @@
-Helicobasidium smilacinum Gonz. Frag. SPECIES
-=======
+# Helicobasidium smilacinum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

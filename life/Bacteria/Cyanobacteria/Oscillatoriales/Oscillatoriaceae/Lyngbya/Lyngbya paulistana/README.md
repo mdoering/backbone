@@ -1,5 +1,4 @@
-Lyngbya paulistana P. A. C. Senna SPECIES
-=======
+# Lyngbya paulistana P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

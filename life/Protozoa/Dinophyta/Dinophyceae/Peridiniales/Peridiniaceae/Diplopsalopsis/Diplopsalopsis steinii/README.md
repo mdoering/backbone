@@ -1,5 +1,4 @@
-Diplopsalopsis steinii T. H. Abé SPECIES
-=======
+# Diplopsalopsis steinii T. H. Abé SPECIES
 
 #### Status
 ACCEPTED

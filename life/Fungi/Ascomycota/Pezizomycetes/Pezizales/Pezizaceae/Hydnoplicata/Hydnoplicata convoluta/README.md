@@ -1,14 +1,13 @@
-Hydnocystis convoluta McAlpine, 1896 SPECIES
-=======
+# Hydnoplicata convoluta (McAlpine) Trappe & Claridge, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in McAlpine & Rodway, Agric. Gaz. N. S. W. , Sydney 7: 86 (1896)
+Australas. Mycol. 25(1): 34 (2006)
 
 #### Original name
 Hydnocystis convoluta McAlpine, 1896

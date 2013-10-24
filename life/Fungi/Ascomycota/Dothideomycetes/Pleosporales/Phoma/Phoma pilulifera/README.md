@@ -1,5 +1,4 @@
-Phoma pilulifera Sacc. SPECIES
-=======
+# Phoma pilulifera Sacc. SPECIES
 
 #### Status
 ACCEPTED

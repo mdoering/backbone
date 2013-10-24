@@ -1,17 +1,16 @@
-Artymenium Berk. ex E. Fisch. GENUS
-=======
+# Secotium Kunze GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 23: 322 (1840)
 
 #### Original name
-Artymenium Berk. ex E. Fisch.
+Secotium Kunze
 
 ### Remarks
 null

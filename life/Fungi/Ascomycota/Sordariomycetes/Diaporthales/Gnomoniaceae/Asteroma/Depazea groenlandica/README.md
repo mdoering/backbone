@@ -1,5 +1,4 @@
-Depazea groenlandica Heer SPECIES
-=======
+# Depazea groenlandica Heer SPECIES
 
 #### Status
 ACCEPTED

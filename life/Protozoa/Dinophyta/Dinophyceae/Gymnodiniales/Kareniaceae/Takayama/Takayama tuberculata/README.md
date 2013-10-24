@@ -1,5 +1,4 @@
-Takayama tuberculata de Salas in de Salas, Laza-Martinez & Hallegraeff, 2008 SPECIES
-=======
+# Takayama tuberculata de Salas in de Salas, Laza-Martinez & Hallegraeff, 2008 SPECIES
 
 #### Status
 ACCEPTED

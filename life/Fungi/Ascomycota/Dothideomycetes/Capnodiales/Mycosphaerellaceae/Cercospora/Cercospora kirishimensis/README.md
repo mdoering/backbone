@@ -1,5 +1,4 @@
-Cercospora kirishimensis Naito SPECIES
-=======
+# Cercospora kirishimensis Naito SPECIES
 
 #### Status
 ACCEPTED

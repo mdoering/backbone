@@ -1,5 +1,4 @@
-Lecanora pseudachroa Lumbsch & Messuti SPECIES
-=======
+# Lecanora pseudachroa Lumbsch & Messuti SPECIES
 
 #### Status
 ACCEPTED

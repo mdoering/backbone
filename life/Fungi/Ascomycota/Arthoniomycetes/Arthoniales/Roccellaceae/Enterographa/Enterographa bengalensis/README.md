@@ -1,5 +1,4 @@
-Enterographa bengalensis Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
-=======
+# Enterographa bengalensis Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
 
 #### Status
 ACCEPTED

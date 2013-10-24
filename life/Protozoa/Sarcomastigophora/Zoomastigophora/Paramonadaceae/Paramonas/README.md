@@ -1,5 +1,4 @@
-Paramonas W.S.Kent, 1881 GENUS
-=======
+# Paramonas W.S.Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

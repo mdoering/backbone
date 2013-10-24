@@ -1,5 +1,4 @@
-Hydnum caryophylleum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum caryophylleum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

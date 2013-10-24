@@ -1,5 +1,4 @@
-Canutus Pessagno & Whalen, 1982 GENUS
-=======
+# Canutus Pessagno & Whalen, 1982 GENUS
 
 #### Status
 ACCEPTED

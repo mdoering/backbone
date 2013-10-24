@@ -1,5 +1,4 @@
-Ascochyta erythrinae Elisei SPECIES
-=======
+# Ascochyta erythrinae Elisei SPECIES
 
 #### Status
 ACCEPTED

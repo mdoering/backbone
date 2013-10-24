@@ -1,5 +1,4 @@
-Botryochloropsis similis H. R. Preisig & C. Wilhelm SPECIES
-=======
+# Botryochloropsis similis H. R. Preisig & C. Wilhelm SPECIES
 
 #### Status
 ACCEPTED

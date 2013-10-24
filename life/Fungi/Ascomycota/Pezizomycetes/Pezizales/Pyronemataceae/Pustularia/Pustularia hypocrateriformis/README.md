@@ -1,5 +1,4 @@
-Pustularia hypocrateriformis Fr. SPECIES
-=======
+# Pustularia hypocrateriformis Fr. SPECIES
 
 #### Status
 ACCEPTED

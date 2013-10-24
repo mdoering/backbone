@@ -1,5 +1,4 @@
-Otidea harperiana Rehm SPECIES
-=======
+# Otidea harperiana Rehm SPECIES
 
 #### Status
 ACCEPTED

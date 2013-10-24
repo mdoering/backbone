@@ -1,5 +1,4 @@
-Spirosphaera dimorpha Marvanová & Bärl., 1998 SPECIES
-=======
+# Spirosphaera dimorpha Marvanová & Bärl., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius eliae Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius eliae Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

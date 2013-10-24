@@ -1,5 +1,4 @@
-Gerronema sucrense Singer SPECIES
-=======
+# Gerronema sucrense Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella tiliae Peck SPECIES
-=======
+# Aplosporella tiliae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus pulchellus (Pers.) Gray SPECIES
-=======
+# Dasyscyphus pulchellus (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

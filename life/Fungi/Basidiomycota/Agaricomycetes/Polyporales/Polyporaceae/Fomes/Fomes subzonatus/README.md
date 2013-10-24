@@ -1,5 +1,4 @@
-Fomes subzonatus (Lázaro Ibiza) Sacc. & Trotter SPECIES
-=======
+# Fomes subzonatus (Lázaro Ibiza) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

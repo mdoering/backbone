@@ -1,5 +1,4 @@
-Puccinia conjuncta Dietel & Holw. SPECIES
-=======
+# Puccinia conjuncta Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

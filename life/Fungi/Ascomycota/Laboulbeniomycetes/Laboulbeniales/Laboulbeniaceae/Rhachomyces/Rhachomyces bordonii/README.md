@@ -1,5 +1,4 @@
-Rhachomyces bordonii W. Rossi & Santam. SPECIES
-=======
+# Rhachomyces bordonii W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

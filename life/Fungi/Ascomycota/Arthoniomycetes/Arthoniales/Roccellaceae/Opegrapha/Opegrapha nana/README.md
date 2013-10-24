@@ -1,5 +1,4 @@
-Opegrapha nana Fée SPECIES
-=======
+# Opegrapha nana Fée SPECIES
 
 #### Status
 ACCEPTED

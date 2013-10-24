@@ -1,5 +1,4 @@
-Dothidea hysteriiformis P. Karst. SPECIES
-=======
+# Dothidea hysteriiformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

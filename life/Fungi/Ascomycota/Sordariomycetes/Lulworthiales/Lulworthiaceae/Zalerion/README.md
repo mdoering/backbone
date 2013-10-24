@@ -1,5 +1,4 @@
-Zalerion R.T. Moore & Meyers GENUS
-=======
+# Zalerion R.T. Moore & Meyers GENUS
 
 #### Status
 ACCEPTED

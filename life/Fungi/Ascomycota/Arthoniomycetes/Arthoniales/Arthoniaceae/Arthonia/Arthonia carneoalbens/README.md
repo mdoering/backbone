@@ -1,5 +1,4 @@
-Arthonia carneoalbens Müll. Arg. SPECIES
-=======
+# Arthonia carneoalbens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

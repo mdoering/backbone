@@ -1,5 +1,4 @@
-Leptosphaeria panici Syd. SPECIES
-=======
+# Leptosphaeria panici Syd. SPECIES
 
 #### Status
 ACCEPTED

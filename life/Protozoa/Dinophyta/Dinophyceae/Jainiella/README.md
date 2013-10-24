@@ -1,5 +1,4 @@
-Jainiella Khowaja-Ateequzzaman & Garg, 1995 GENUS
-=======
+# Jainiella Khowaja-Ateequzzaman & Garg, 1995 GENUS
 
 #### Status
 ACCEPTED

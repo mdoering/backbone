@@ -1,5 +1,4 @@
-Pluteus paradoxus E. Horak, 2008 SPECIES
-=======
+# Pluteus paradoxus E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

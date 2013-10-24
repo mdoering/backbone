@@ -1,5 +1,4 @@
-Pseudodiplodia dorycnii (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia dorycnii (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

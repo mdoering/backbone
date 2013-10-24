@@ -1,14 +1,13 @@
-Cucullospora mangrovei K.D. Hyde & E.B.G. Jones, 1986 SPECIES
-=======
+# Cucullosporella mangrovei (K.D. Hyde & E.B.G. Jones) K.D. Hyde & E.B.G. Jones, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mar. 29(6): 491 (1986)
+in Jones & Hyde, Mycotaxon 37: 200 (1990)
 
 #### Original name
 Cucullospora mangrovei K.D. Hyde & E.B.G. Jones, 1986

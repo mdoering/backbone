@@ -1,5 +1,4 @@
-Cenarchaeum symbiosum Preston, Wu, Molinski & De Long, 1996 SPECIES
-=======
+# Cenarchaeum symbiosum Preston, Wu, Molinski & De Long, 1996 SPECIES
 
 #### Status
 ACCEPTED

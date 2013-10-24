@@ -1,5 +1,4 @@
-Multiplicisphaeridium delicatum Cramer & Díez, 1977 SPECIES
-=======
+# Multiplicisphaeridium delicatum Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Canelonus GENUS
-=======
+# Canelonus GENUS
 
 #### Status
 ACCEPTED

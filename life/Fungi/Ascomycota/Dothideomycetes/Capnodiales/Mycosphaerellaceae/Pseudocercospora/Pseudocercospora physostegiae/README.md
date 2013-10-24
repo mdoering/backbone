@@ -1,17 +1,16 @@
-Cercospora physostegiae W.A. Jenkins, 1945 SPECIES
-=======
+# Pseudocercospora physostegiae (W.A. Jenkins ex Chupp) U. Braun & Crous, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity 26(1): 64 (2007)
 
 #### Original name
-null
+Pseudocercospora physostegiae (W.A. Jenkins ex Chupp) U. Braun & Crous, 2009
 
 ### Remarks
 null

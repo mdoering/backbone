@@ -1,5 +1,4 @@
-Chlorociboria argentinensis J.R. Dixon, 1975 SPECIES
-=======
+# Chlorociboria argentinensis J.R. Dixon, 1975 SPECIES
 
 #### Status
 ACCEPTED

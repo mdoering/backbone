@@ -1,5 +1,4 @@
-Marasmius pseudobambusinus var. pseudobambusinus VARIETY
-=======
+# Marasmius pseudobambusinus Desjardin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Desjardin, Wong & Hemmes, Mycologia 83(1): 30 (1991)
 
 #### Original name
-Marasmius pseudobambusinus var. pseudobambusinus
+Marasmius pseudobambusinus Desjardin
 
 ### Remarks
 null

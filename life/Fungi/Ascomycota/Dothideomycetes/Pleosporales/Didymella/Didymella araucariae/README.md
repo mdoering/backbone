@@ -1,5 +1,4 @@
-Didymella araucariae Voglino SPECIES
-=======
+# Didymella araucariae Voglino SPECIES
 
 #### Status
 ACCEPTED

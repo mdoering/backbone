@@ -1,5 +1,4 @@
-Bacillidium Janda, 1928 GENUS
-=======
+# Bacillidium Janda, 1928 GENUS
 
 #### Status
 ACCEPTED

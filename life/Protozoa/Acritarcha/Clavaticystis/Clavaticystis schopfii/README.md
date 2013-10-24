@@ -1,5 +1,4 @@
-Clavaticystis schopfii Habib & Knapp, 1982 SPECIES
-=======
+# Clavaticystis schopfii Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

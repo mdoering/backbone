@@ -1,5 +1,4 @@
-Amphimonadaceae FAMILY
-=======
+# Amphimonadaceae FAMILY
 
 #### Status
 ACCEPTED

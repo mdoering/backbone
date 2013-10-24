@@ -1,5 +1,4 @@
-Inocybe granulosiceps (E. Horak) Garrido SPECIES
-=======
+# Inocybe granulosiceps (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

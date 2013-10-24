@@ -1,17 +1,16 @@
-Ceratopycnium Clem. & Shear GENUS
-=======
+# Ceratopycnidium Maubl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 363 (1931)
+Bull. Soc. mycol. Fr. 23(3): 148 (1907)
 
 #### Original name
-Ceratopycnium Clem. & Shear
+Ceratopycnidium Maubl.
 
 ### Remarks
 null

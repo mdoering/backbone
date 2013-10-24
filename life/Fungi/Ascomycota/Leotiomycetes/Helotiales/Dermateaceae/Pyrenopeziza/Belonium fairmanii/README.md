@@ -1,8 +1,7 @@
-Belonium fairmani Rehm SPECIES
-=======
+# Belonium fairmanii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Belonium fairmani Rehm
+Belonium fairmanii Rehm
 
 ### Remarks
 null

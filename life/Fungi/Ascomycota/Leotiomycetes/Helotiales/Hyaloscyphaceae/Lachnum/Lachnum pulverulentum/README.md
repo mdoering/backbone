@@ -1,17 +1,16 @@
-Dasyscyphus pulverulentus f. pulverulentus (Lib.) Sacc. FORM
-=======
+# Lachnum pulverulentum (Lib.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 462 (1889)
+Bidr. Känn. Finl. Nat. Folk 19: 175 (1871)
 
 #### Original name
-Dasyscyphus pulverulentus f. pulverulentus (Lib.) Sacc.
+null
 
 ### Remarks
 null

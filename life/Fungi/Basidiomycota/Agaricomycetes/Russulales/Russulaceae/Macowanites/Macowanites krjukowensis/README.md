@@ -1,17 +1,16 @@
-Hydnangium krjukowense var. krjukowense VARIETY
-=======
+# Macowanites krjukowensis (Bucholtz) Singer & A.H. Sm., 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Torrey bot. Club 21(3): 77 (1960)
 
 #### Original name
-Hydnangium krjukowense var. krjukowense
+Secotium krjukowensis Bucholtz
 
 ### Remarks
 null

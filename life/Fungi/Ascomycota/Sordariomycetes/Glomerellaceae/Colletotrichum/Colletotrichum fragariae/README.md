@@ -1,5 +1,4 @@
-Colletotrichum fragariae A.N. Brooks, 1931 SPECIES
-=======
+# Colletotrichum fragariae A.N. Brooks, 1931 SPECIES
 
 #### Status
 ACCEPTED

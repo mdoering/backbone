@@ -1,5 +1,4 @@
-Bolivina incrassata SPECIES
-=======
+# Bolivina incrassata SPECIES
 
 #### Status
 ACCEPTED

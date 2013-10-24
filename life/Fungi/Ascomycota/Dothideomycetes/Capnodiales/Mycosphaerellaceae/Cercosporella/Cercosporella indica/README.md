@@ -1,5 +1,4 @@
-Cercosporella indica T.K.S. Singh SPECIES
-=======
+# Cercosporella indica T.K.S. Singh SPECIES
 
 #### Status
 ACCEPTED

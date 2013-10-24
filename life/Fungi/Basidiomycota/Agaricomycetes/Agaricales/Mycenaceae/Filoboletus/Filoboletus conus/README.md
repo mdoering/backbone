@@ -1,5 +1,4 @@
-Filoboletus conus Maas Geest. & E. Horak SPECIES
-=======
+# Filoboletus conus Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fulvifomes durissimus (Lloyd) Bondartseva & S. Herrera SPECIES
-=======
+# Fulvifomes durissimus (Lloyd) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

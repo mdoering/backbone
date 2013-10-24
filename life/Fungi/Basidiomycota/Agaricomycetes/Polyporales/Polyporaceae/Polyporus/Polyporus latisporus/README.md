@@ -1,5 +1,4 @@
-Polyporus latisporus Britzelm. SPECIES
-=======
+# Polyporus latisporus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

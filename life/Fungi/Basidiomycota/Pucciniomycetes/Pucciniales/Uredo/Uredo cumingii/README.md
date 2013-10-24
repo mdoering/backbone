@@ -1,5 +1,4 @@
-Uredo cumingii J.C. Lindq. SPECIES
-=======
+# Uredo cumingii J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

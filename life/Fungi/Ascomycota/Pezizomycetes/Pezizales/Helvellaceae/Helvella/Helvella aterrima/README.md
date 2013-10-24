@@ -1,5 +1,4 @@
-Helvella aterrima Velen. SPECIES
-=======
+# Helvella aterrima Velen. SPECIES
 
 #### Status
 ACCEPTED

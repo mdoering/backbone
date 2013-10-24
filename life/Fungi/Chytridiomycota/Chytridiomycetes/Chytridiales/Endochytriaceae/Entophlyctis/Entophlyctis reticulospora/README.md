@@ -1,5 +1,4 @@
-Entophlyctis reticulospora P.W. Cook SPECIES
-=======
+# Entophlyctis reticulospora P.W. Cook SPECIES
 
 #### Status
 ACCEPTED

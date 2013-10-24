@@ -1,5 +1,4 @@
-Hohenbuehelia pilitomaculoides Lib.-Barnes SPECIES
-=======
+# Hohenbuehelia pilitomaculoides Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

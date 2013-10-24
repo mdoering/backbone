@@ -1,5 +1,4 @@
-Lophodermium koeleriae Hilitzer SPECIES
-=======
+# Lophodermium koeleriae Hilitzer SPECIES
 
 #### Status
 ACCEPTED

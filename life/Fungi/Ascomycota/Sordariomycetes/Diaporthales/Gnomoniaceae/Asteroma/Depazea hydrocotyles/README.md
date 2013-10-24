@@ -1,5 +1,4 @@
-Depazea hydrocotyles Rabenh. SPECIES
-=======
+# Depazea hydrocotyles Rabenh. SPECIES
 
 #### Status
 ACCEPTED

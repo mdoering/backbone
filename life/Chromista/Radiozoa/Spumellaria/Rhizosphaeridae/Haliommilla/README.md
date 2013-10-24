@@ -1,5 +1,4 @@
-Haliommilla Haeckel, 1887 GENUS
-=======
+# Haliommilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

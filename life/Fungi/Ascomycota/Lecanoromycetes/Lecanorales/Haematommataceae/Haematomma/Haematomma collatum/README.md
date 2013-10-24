@@ -1,14 +1,13 @@
-Haematomma breviculum (Stizenb.) C.W. Dodge SPECIES
-=======
+# Haematomma collatum (Stirt.) C. W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 38: 40 (1971)
+Beih. Nova Hedwigia 38: 41 (1971)
 
 #### Original name
 Lecanora punicea var. collata Stirt.

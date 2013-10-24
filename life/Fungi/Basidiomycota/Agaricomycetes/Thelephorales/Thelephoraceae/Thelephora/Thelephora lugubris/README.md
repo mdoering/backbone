@@ -1,5 +1,4 @@
-Thelephora lugubris Rick SPECIES
-=======
+# Thelephora lugubris Rick SPECIES
 
 #### Status
 ACCEPTED

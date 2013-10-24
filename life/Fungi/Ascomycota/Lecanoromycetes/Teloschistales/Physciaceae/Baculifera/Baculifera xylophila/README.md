@@ -1,14 +1,13 @@
-Buellia xylophila Malme SPECIES
-=======
+# Baculifera xylophila (Malme) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 148 (2000)
 
 #### Original name
 Buellia xylophila Malme

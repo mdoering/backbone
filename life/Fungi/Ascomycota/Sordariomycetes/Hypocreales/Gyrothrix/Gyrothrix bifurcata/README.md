@@ -1,5 +1,4 @@
-Gyrothrix bifurcata B. Sutton SPECIES
-=======
+# Gyrothrix bifurcata B. Sutton SPECIES
 
 #### Status
 ACCEPTED

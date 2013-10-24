@@ -1,5 +1,4 @@
-Lecidea eckfeldtii Zahlbr. SPECIES
-=======
+# Lecidea eckfeldtii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

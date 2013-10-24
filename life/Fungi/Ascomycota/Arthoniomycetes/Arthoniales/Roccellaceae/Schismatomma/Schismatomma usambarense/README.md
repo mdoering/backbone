@@ -1,5 +1,4 @@
-Schismatomma usambarense (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma usambarense (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

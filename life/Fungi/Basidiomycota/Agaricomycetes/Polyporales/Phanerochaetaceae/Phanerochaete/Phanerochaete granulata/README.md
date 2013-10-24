@@ -1,5 +1,4 @@
-Phanerochaete granulata Sheng H. Wu SPECIES
-=======
+# Phanerochaete granulata Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

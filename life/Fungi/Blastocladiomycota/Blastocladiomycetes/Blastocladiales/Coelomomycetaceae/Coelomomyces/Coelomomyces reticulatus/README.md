@@ -1,5 +1,4 @@
-Coelomomyces reticulatus var. reticulatus VARIETY
-=======
+# Coelomomyces reticulatus Couch & A.J. Walker SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 The Genus Coelomomyces (Orlando) 247 (1985)
 
 #### Original name
-Coelomomyces reticulatus var. reticulatus
+Coelomomyces reticulatus Couch & A.J. Walker
 
 ### Remarks
 null

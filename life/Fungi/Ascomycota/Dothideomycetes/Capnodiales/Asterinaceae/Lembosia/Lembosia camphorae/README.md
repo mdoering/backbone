@@ -1,5 +1,4 @@
-Lembosia camphorae Earle SPECIES
-=======
+# Lembosia camphorae Earle SPECIES
 
 #### Status
 ACCEPTED

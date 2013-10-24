@@ -1,5 +1,4 @@
-Candida metapsilosis Tavanti, A. Davidson, Gow, M. Maiden & Odds SPECIES
-=======
+# Candida metapsilosis Tavanti, A. Davidson, Gow, M. Maiden & Odds SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis cordiae V. Nath & Bhargava SPECIES
-=======
+# Phomopsis cordiae V. Nath & Bhargava SPECIES
 
 #### Status
 ACCEPTED

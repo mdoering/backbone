@@ -1,5 +1,4 @@
-Chaenothecopsis nana Tibell SPECIES
-=======
+# Chaenothecopsis nana Tibell SPECIES
 
 #### Status
 ACCEPTED

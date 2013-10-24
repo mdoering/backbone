@@ -1,5 +1,4 @@
-Fridaea Wille, 1909 GENUS
-=======
+# Fridaea Wille, 1909 GENUS
 
 #### Status
 ACCEPTED

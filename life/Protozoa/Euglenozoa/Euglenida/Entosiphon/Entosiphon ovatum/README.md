@@ -1,5 +1,4 @@
-Entosiphon ovatum SPECIES
-=======
+# Entosiphon ovatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe albidipes Cleland & Cheel SPECIES
-=======
+# Inocybe albidipes Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

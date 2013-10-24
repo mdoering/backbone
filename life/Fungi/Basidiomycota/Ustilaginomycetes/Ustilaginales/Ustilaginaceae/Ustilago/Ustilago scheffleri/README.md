@@ -1,5 +1,4 @@
-Ustilago scheffleri Syd. & P. Syd. SPECIES
-=======
+# Ustilago scheffleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria amoena (Weinm.) Sacc. SPECIES
-=======
+# Naucoria amoena (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

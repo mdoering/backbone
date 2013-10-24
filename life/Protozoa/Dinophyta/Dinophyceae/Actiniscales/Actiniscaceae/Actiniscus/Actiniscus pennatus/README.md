@@ -1,5 +1,4 @@
-Actiniscus pennatus Grunow SPECIES
-=======
+# Actiniscus pennatus Grunow SPECIES
 
 #### Status
 ACCEPTED

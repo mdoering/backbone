@@ -1,5 +1,4 @@
-Xanthoria lutea var. lutea VARIETY
-=======
+# Xanthoria lutea (Gilib.) Hillmann SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xanthoria lutea var. lutea
+Lichen luteus Dicks.
 
 ### Remarks
 null

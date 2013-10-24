@@ -1,5 +1,4 @@
-Gyrophora fimbriata Röhl. SPECIES
-=======
+# Gyrophora fimbriata Röhl. SPECIES
 
 #### Status
 ACCEPTED

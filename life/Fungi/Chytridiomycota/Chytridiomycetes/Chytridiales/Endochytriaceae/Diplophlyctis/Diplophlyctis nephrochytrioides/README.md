@@ -1,5 +1,4 @@
-Diplophlyctis nephrochytrioides Karling, 1968 SPECIES
-=======
+# Diplophlyctis nephrochytrioides Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

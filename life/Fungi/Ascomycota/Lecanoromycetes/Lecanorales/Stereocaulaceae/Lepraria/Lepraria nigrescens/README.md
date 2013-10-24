@@ -1,5 +1,4 @@
-Lepraria nigrescens Pers. SPECIES
-=======
+# Lepraria nigrescens Pers. SPECIES
 
 #### Status
 ACCEPTED

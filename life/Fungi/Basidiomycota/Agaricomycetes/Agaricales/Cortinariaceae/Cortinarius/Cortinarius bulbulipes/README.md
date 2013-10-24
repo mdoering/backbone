@@ -1,5 +1,4 @@
-Cortinarius bulbulipes Rob. Henry SPECIES
-=======
+# Cortinarius bulbulipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

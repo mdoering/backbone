@@ -1,17 +1,16 @@
-Amerosporium polinematoide Speg. SPECIES
-=======
+# Amerosporium polynematoides Speg., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 13: 21 (1882)
 
 #### Original name
-Amerosporium polinematoide Speg.
+Amerosporium polynematoides Speg., 1882
 
 ### Remarks
 null

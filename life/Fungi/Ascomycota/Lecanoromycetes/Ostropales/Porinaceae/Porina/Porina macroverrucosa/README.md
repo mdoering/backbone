@@ -1,5 +1,4 @@
-Porina macroverrucosa P.M. McCarthy SPECIES
-=======
+# Porina macroverrucosa P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teratosphaeria Syd. & P. Syd. GENUS
-=======
+# Teratosphaeria Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia haloxyli Kravtzev SPECIES
-=======
+# Rosellinia haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon ponderosus A.H. Sm. SPECIES
-=======
+# Rhizopogon ponderosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

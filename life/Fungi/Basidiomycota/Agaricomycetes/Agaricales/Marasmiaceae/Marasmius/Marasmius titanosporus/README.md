@@ -1,5 +1,4 @@
-Marasmius titanosporus D.A. Reid & Jacot Guill. SPECIES
-=======
+# Marasmius titanosporus D.A. Reid & Jacot Guill. SPECIES
 
 #### Status
 ACCEPTED

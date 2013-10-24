@@ -1,5 +1,4 @@
-Discorhabdus striatus Moshkovitz & Ehrlich, 1976 SPECIES
-=======
+# Discorhabdus striatus Moshkovitz & Ehrlich, 1976 SPECIES
 
 #### Status
 ACCEPTED

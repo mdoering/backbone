@@ -1,5 +1,4 @@
-Dicaeoma kuhniae (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma kuhniae (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

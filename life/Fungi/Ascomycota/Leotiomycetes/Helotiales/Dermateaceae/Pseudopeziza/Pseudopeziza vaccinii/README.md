@@ -1,5 +1,4 @@
-Pseudopeziza vaccinii McAlpine SPECIES
-=======
+# Pseudopeziza vaccinii McAlpine SPECIES
 
 #### Status
 ACCEPTED

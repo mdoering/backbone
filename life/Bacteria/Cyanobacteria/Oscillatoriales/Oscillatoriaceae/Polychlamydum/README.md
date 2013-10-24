@@ -1,5 +1,4 @@
-Polychlamydum West & G.S.West, 1897 GENUS
-=======
+# Polychlamydum West & G.S.West, 1897 GENUS
 
 #### Status
 ACCEPTED

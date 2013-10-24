@@ -1,5 +1,4 @@
-Graphis plurispora (Redinger) Lücking & Chaves SPECIES
-=======
+# Graphis plurispora (Redinger) Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

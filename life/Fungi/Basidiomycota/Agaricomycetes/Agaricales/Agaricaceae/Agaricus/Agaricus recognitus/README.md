@@ -1,5 +1,4 @@
-Agaricus recognitus Britzelm. SPECIES
-=======
+# Agaricus recognitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

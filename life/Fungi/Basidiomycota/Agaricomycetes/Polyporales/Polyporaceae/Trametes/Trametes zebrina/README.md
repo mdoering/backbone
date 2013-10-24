@@ -1,5 +1,4 @@
-Trametes zebrina Fr. SPECIES
-=======
+# Trametes zebrina Fr. SPECIES
 
 #### Status
 ACCEPTED

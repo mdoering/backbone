@@ -1,5 +1,4 @@
-Sphaerella cinnamomicola Gonz. Frag. & Cif. SPECIES
-=======
+# Sphaerella cinnamomicola Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

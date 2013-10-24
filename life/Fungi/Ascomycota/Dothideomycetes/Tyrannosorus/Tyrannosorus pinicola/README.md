@@ -1,14 +1,13 @@
-Capronia pinicola Petrini & P.J. Fisher SPECIES
-=======
+# Tyrannosorus pinicola (Petrini & P.J. Fisher) Unter. & Malloch, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller, Petrini, Fisher, Samuels & Rossman, Trans. Br. mycol. Soc. 88(1): 68 (1987)
+Mycol. Res. 99(8): 910 (1995)
 
 #### Original name
 Capronia pinicola Petrini & P.J. Fisher

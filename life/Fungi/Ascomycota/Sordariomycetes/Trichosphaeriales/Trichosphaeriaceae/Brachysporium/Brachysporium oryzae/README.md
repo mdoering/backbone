@@ -1,5 +1,4 @@
-Brachysporium oryzae Ito {?} & Ishiy. SPECIES
-=======
+# Brachysporium oryzae Ito {?} & Ishiy. SPECIES
 
 #### Status
 ACCEPTED

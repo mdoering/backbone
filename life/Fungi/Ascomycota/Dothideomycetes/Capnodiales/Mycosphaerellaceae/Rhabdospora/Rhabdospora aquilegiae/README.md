@@ -1,5 +1,4 @@
-Rhabdospora aquilegiae Hollós SPECIES
-=======
+# Rhabdospora aquilegiae Hollós SPECIES
 
 #### Status
 ACCEPTED

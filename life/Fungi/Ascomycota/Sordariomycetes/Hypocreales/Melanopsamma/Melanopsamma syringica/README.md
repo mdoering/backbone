@@ -1,5 +1,4 @@
-Melanopsamma syringica P. Karst. SPECIES
-=======
+# Melanopsamma syringica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

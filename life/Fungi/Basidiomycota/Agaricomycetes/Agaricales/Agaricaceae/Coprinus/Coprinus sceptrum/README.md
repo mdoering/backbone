@@ -1,5 +1,4 @@
-Coprinus sceptrum Fr. SPECIES
-=======
+# Coprinus sceptrum Fr. SPECIES
 
 #### Status
 ACCEPTED

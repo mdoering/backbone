@@ -1,5 +1,4 @@
-Hemimycena praedecurrens (Murrill) Singer SPECIES
-=======
+# Hemimycena praedecurrens (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

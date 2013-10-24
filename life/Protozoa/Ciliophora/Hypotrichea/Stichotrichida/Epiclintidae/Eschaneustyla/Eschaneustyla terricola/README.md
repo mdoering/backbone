@@ -1,5 +1,4 @@
-Eschaneustyla terricola Foissner, 1982 SPECIES
-=======
+# Eschaneustyla terricola Foissner, 1982 SPECIES
 
 #### Status
 ACCEPTED

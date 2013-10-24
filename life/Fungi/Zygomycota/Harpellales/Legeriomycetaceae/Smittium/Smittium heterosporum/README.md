@@ -1,5 +1,4 @@
-Smittium heterosporum L.G. Valle & Santam., 2004 SPECIES
-=======
+# Smittium heterosporum L.G. Valle & Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

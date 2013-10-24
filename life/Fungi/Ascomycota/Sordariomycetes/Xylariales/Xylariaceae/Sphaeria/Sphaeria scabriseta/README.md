@@ -1,5 +1,4 @@
-Sphaeria scabriseta Schwein. SPECIES
-=======
+# Sphaeria scabriseta Schwein. SPECIES
 
 #### Status
 ACCEPTED

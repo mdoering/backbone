@@ -1,5 +1,4 @@
-Pleospora occultata Oudem. SPECIES
-=======
+# Pleospora occultata Oudem. SPECIES
 
 #### Status
 ACCEPTED

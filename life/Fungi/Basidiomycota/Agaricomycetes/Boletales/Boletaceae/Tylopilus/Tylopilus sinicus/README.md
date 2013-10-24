@@ -1,5 +1,4 @@
-Tylopilus sinicus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Tylopilus sinicus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

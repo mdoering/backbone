@@ -1,5 +1,4 @@
-Amphichrysis compressa Korshikov SPECIES
-=======
+# Amphichrysis compressa Korshikov SPECIES
 
 #### Status
 ACCEPTED

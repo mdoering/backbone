@@ -1,5 +1,4 @@
-Botryocortys Bütschli in Bronn, 1889 GENUS
-=======
+# Botryocortys Bütschli in Bronn, 1889 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta coffeae-arabicae Sawada SPECIES
-=======
+# Phyllosticta coffeae-arabicae Sawada SPECIES
 
 #### Status
 ACCEPTED

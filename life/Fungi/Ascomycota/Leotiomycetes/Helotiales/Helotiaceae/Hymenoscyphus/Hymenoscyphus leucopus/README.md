@@ -1,17 +1,16 @@
-Hymenoscyphus leucopus var. leucopus VARIETY
-=======
+# Hymenoscyphus leucopus (Mont.) Dennis, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(1): 76 (1964)
 
 #### Original name
-Hymenoscyphus leucopus var. leucopus
+Helotium leucopus Mont., 1850
 
 ### Remarks
 null

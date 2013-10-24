@@ -1,5 +1,4 @@
-Phyllachora vesicata Cooke, 1885 SPECIES
-=======
+# Phyllachora vesicata Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

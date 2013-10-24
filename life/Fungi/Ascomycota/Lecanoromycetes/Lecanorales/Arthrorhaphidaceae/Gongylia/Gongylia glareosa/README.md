@@ -1,5 +1,4 @@
-Gongylia glareosa Körb. SPECIES
-=======
+# Gongylia glareosa Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera phyllidiosa Goffinet & Miadl. SPECIES
-=======
+# Peltigera phyllidiosa Goffinet & Miadl. SPECIES
 
 #### Status
 ACCEPTED

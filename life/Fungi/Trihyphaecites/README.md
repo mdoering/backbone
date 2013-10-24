@@ -1,5 +1,4 @@
-Trihyphaecites Peppers GENUS
-=======
+# Trihyphaecites Peppers GENUS
 
 #### Status
 ACCEPTED

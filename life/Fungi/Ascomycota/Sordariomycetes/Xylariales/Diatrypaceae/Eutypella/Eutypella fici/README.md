@@ -1,5 +1,4 @@
-Eutypella fici Ellis & Everh. SPECIES
-=======
+# Eutypella fici Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

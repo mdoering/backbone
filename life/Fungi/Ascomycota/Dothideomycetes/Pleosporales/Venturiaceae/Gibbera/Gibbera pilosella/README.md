@@ -1,5 +1,4 @@
-Gibbera pilosella (Ellis & Everh.) Sivan. SPECIES
-=======
+# Gibbera pilosella (Ellis & Everh.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

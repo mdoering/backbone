@@ -1,5 +1,4 @@
-Samara blackburnia Spreng. SPECIES
-=======
+# Samara blackburnia Spreng. SPECIES
 
 #### Status
 ACCEPTED

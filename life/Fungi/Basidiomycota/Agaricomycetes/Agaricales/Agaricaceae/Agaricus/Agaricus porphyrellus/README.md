@@ -1,5 +1,4 @@
-Agaricus porphyrellus Berk. & Broome SPECIES
-=======
+# Agaricus porphyrellus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

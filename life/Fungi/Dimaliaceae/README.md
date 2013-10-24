@@ -1,5 +1,4 @@
-Dimaliaceae FAMILY
-=======
+# Dimaliaceae FAMILY
 
 #### Status
 ACCEPTED

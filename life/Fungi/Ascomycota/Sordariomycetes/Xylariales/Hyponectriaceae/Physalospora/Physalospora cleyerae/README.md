@@ -1,5 +1,4 @@
-Physalospora cleyerae Sawada SPECIES
-=======
+# Physalospora cleyerae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenophoma hyperici Byzova SPECIES
-=======
+# Selenophoma hyperici Byzova SPECIES
 
 #### Status
 ACCEPTED

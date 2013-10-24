@@ -1,5 +1,4 @@
-Pseudobasidium bicolor Tengwall SPECIES
-=======
+# Pseudobasidium bicolor Tengwall SPECIES
 
 #### Status
 ACCEPTED

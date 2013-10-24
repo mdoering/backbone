@@ -1,14 +1,13 @@
-Lecidea exalbida Kremp. SPECIES
-=======
+# Cratiria exalbida (Kremp.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 180 (2000)
 
 #### Original name
 Lecidea exalbida Kremp.

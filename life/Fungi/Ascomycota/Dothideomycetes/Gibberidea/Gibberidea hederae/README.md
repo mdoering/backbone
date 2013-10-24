@@ -1,5 +1,4 @@
-Gibberidea hederae (G. Winter) Kuntze SPECIES
-=======
+# Gibberidea hederae (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

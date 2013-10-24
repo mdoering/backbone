@@ -1,5 +1,4 @@
-Hartmannula acrobates (Entz, 1884) Poche, 1913 SPECIES
-=======
+# Hartmannula acrobates (Entz, 1884) Poche, 1913 SPECIES
 
 #### Status
 ACCEPTED

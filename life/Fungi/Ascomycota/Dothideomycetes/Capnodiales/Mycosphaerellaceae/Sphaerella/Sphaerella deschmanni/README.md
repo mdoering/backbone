@@ -1,5 +1,4 @@
-Sphaerella deschmanni W. Voss SPECIES
-=======
+# Sphaerella deschmanni W. Voss SPECIES
 
 #### Status
 ACCEPTED

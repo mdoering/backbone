@@ -1,5 +1,4 @@
-Polyporus trulliformis Lloyd SPECIES
-=======
+# Polyporus trulliformis Lloyd SPECIES
 
 #### Status
 ACCEPTED

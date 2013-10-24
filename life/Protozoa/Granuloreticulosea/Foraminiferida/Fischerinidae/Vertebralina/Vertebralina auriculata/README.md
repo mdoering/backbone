@@ -1,5 +1,4 @@
-Vertebralina auriculata Rhumbler, 1911 SPECIES
-=======
+# Vertebralina auriculata Rhumbler, 1911 SPECIES
 
 #### Status
 ACCEPTED

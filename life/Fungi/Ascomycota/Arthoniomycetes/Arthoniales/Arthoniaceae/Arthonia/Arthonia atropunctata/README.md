@@ -1,5 +1,4 @@
-Arthonia atropunctata Vain. SPECIES
-=======
+# Arthonia atropunctata Vain. SPECIES
 
 #### Status
 ACCEPTED

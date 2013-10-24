@@ -1,5 +1,4 @@
-Urostyla urostyla Claparède & Lachmann, 1858 SPECIES
-=======
+# Urostyla urostyla Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptographium wingfieldii M. Morelet, 1988 SPECIES
-=======
+# Leptographium wingfieldii M. Morelet, 1988 SPECIES
 
 #### Status
 ACCEPTED

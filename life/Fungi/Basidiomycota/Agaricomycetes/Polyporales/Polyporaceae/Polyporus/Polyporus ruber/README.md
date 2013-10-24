@@ -1,5 +1,4 @@
-Polyporus ruber (Scop.) Pers. SPECIES
-=======
+# Polyporus ruber (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

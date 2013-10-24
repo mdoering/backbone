@@ -1,5 +1,4 @@
-Agaricus obesus var. obesus VARIETY
-=======
+# Agaricus obesus With. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Elench. fung. (Halle), cont. sec. 89, tab. 39:216 (1789)
 
 #### Original name
-Agaricus obesus var. obesus
+Agaricus obesus With.
 
 ### Remarks
 null

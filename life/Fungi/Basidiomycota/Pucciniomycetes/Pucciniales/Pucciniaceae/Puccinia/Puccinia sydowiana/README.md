@@ -1,5 +1,4 @@
-Puccinia sydowiana Zopf SPECIES
-=======
+# Puccinia sydowiana Zopf SPECIES
 
 #### Status
 ACCEPTED

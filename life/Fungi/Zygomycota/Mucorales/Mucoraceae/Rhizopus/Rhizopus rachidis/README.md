@@ -1,5 +1,4 @@
-Rhizopus rachidis Pat. SPECIES
-=======
+# Rhizopus rachidis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita luteolovelata D.A. Reid SPECIES
-=======
+# Amanita luteolovelata D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

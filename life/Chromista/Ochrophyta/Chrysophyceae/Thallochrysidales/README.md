@@ -1,5 +1,4 @@
-Thallochrysidales ORDER
-=======
+# Thallochrysidales ORDER
 
 #### Status
 ACCEPTED

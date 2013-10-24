@@ -1,5 +1,4 @@
-Hypochnus furfuraceus SPECIES
-=======
+# Hypochnus furfuraceus SPECIES
 
 #### Status
 ACCEPTED

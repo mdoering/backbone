@@ -1,5 +1,4 @@
-Astragoxyphium GENUS
-=======
+# Astragoxyphium GENUS
 
 #### Status
 ACCEPTED

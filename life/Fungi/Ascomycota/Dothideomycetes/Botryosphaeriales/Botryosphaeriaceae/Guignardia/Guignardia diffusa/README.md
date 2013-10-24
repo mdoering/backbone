@@ -1,5 +1,4 @@
-Guignardia diffusa (Crié) Sacc. & Trotter SPECIES
-=======
+# Guignardia diffusa (Crié) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

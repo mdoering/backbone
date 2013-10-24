@@ -1,17 +1,16 @@
-Helotium granulosellum (P. Karst.) Sacc., 1889 SPECIES
-=======
+# Clavidisculum karstenii Raitv., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 303 (1889)
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 78 (1970)
 
 #### Original name
-null
+Clavidisculum karstenii Raitv., 1970
 
 ### Remarks
 null

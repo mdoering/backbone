@@ -1,14 +1,13 @@
-Nectria leucotricha Penz. & Sacc., 1898 SPECIES
-=======
+# Hydropisphaera leucotricha (Penz. & Sacc.) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 31 (1999)
 
 #### Original name
 Nectria leucotricha Penz. & Sacc., 1898

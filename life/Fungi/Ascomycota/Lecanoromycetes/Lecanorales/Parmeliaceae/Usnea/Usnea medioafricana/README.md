@@ -1,5 +1,4 @@
-Usnea medioafricana C.W. Dodge SPECIES
-=======
+# Usnea medioafricana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

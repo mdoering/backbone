@@ -1,17 +1,16 @@
-Phragmidium rubi-thunbergi Kusano SPECIES
-=======
+# Phragmotelium rubi-thunbergii (Kusano) Syd., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 19(1/2): 167 (1921)
 
 #### Original name
-Phragmidium rubi-thunbergi Kusano
+Phragmotelium rubi-thunbergii (Kusano) Syd., 1921
 
 ### Remarks
 null

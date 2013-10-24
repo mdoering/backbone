@@ -1,5 +1,4 @@
-Sphaeria sphagnorum P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria sphagnorum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria tamijiana Rajd. SPECIES
-=======
+# Alternaria tamijiana Rajd. SPECIES
 
 #### Status
 ACCEPTED

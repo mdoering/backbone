@@ -1,5 +1,4 @@
-Microsporum aureum Takeya SPECIES
-=======
+# Microsporum aureum Takeya SPECIES
 
 #### Status
 ACCEPTED

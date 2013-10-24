@@ -1,5 +1,4 @@
-Leptogium simplicans Vain. SPECIES
-=======
+# Leptogium simplicans Vain. SPECIES
 
 #### Status
 ACCEPTED

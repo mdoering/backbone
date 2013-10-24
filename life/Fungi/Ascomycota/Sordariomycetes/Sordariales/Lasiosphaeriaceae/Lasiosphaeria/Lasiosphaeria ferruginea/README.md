@@ -1,5 +1,4 @@
-Lasiosphaeria ferruginea Fuckel SPECIES
-=======
+# Lasiosphaeria ferruginea Fuckel SPECIES
 
 #### Status
 ACCEPTED

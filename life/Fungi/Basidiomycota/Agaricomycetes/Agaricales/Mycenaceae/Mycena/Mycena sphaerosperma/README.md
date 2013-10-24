@@ -1,5 +1,4 @@
-Mycena sphaerosperma Pegler SPECIES
-=======
+# Mycena sphaerosperma Pegler SPECIES
 
 #### Status
 ACCEPTED

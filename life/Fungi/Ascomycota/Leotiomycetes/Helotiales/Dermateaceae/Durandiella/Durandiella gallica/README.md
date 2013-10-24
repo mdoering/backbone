@@ -1,5 +1,4 @@
-Durandiella gallica M. Morelet, 1971 SPECIES
-=======
+# Durandiella gallica M. Morelet, 1971 SPECIES
 
 #### Status
 ACCEPTED

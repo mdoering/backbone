@@ -1,5 +1,4 @@
-Puccinia lagophyllae Dietel & Holw. SPECIES
-=======
+# Puccinia lagophyllae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

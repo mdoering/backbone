@@ -1,5 +1,4 @@
-Lecidea subretusa Stirt. SPECIES
-=======
+# Lecidea subretusa Stirt. SPECIES
 
 #### Status
 ACCEPTED

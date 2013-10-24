@@ -1,5 +1,4 @@
-Bionectria pseudostriata Schroers SPECIES
-=======
+# Bionectria pseudostriata Schroers SPECIES
 
 #### Status
 ACCEPTED

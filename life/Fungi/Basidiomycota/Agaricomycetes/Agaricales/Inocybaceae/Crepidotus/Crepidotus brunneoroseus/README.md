@@ -1,5 +1,4 @@
-Crepidotus brunneoroseus Courtec. SPECIES
-=======
+# Crepidotus brunneoroseus Courtec. SPECIES
 
 #### Status
 ACCEPTED

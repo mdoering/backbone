@@ -1,17 +1,16 @@
-Lecidea recessa var. recessa VARIETY
-=======
+# Miriquidica lulensis (Hellb.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 23: 387 (1987)
 
 #### Original name
-Lecidea recessa var. recessa
+Lecidea lulensis Hellb.
 
 ### Remarks
 null

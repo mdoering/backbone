@@ -1,5 +1,4 @@
-Dictyostelium granulosum Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2008 SPECIES
-=======
+# Dictyostelium granulosum Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2008 SPECIES
 
 #### Status
 ACCEPTED

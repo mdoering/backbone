@@ -1,5 +1,4 @@
-Gautieria queenslandica J.W. Cribb SPECIES
-=======
+# Gautieria queenslandica J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

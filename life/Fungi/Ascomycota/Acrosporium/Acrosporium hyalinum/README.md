@@ -1,14 +1,13 @@
-Acrosporium hyalina (Fr.) Sumst. SPECIES
-=======
+# Acrosporium hyalinum (Fr.) Sumst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 5(2): 58 (1913)
 
 #### Original name
 Monilia hyalina Fr.

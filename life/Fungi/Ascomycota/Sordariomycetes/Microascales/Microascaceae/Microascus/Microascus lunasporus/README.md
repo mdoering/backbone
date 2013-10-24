@@ -1,5 +1,4 @@
-Microascus lunasporus P.M. Jones SPECIES
-=======
+# Microascus lunasporus P.M. Jones SPECIES
 
 #### Status
 ACCEPTED

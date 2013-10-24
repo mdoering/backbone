@@ -1,8 +1,7 @@
-Macrophoma yuccocarpa Sacc. SPECIES
-=======
+# Macrophoma yuccicarpa Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma yuccocarpa Sacc.
+Macrophoma yuccicarpa Sacc.
 
 ### Remarks
 null

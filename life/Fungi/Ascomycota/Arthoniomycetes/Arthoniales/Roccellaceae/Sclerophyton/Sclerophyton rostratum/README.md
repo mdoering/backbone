@@ -1,5 +1,4 @@
-Sclerophyton rostratum Egea & Torrente SPECIES
-=======
+# Sclerophyton rostratum Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

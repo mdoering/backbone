@@ -1,5 +1,4 @@
-Physarum serpula Morgan, 1896 SPECIES
-=======
+# Physarum serpula Morgan, 1896 SPECIES
 
 #### Status
 ACCEPTED

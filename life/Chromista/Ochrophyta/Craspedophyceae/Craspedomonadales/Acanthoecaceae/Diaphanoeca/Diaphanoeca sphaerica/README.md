@@ -1,5 +1,4 @@
-Diaphanoeca sphaerica Thomsen, 1982 SPECIES
-=======
+# Diaphanoeca sphaerica Thomsen, 1982 SPECIES
 
 #### Status
 ACCEPTED

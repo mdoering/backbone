@@ -1,5 +1,4 @@
-Gymnopilus lutescens Hesler SPECIES
-=======
+# Gymnopilus lutescens Hesler SPECIES
 
 #### Status
 ACCEPTED

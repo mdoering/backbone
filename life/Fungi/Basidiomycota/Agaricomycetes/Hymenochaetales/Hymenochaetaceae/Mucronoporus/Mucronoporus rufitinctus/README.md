@@ -1,5 +1,4 @@
-Mucronoporus rufitinctus (Berk. & M.A. Curtis ex Cooke) Ellis & T. Macbr. SPECIES
-=======
+# Mucronoporus rufitinctus (Berk. & M.A. Curtis ex Cooke) Ellis & T. Macbr. SPECIES
 
 #### Status
 ACCEPTED

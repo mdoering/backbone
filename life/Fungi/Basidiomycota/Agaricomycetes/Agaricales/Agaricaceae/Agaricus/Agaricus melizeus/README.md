@@ -1,5 +1,4 @@
-Agaricus melizeus Fr. SPECIES
-=======
+# Agaricus melizeus Fr. SPECIES
 
 #### Status
 ACCEPTED

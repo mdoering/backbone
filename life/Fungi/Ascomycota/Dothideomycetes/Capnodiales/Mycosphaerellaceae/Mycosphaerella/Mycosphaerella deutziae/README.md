@@ -1,5 +1,4 @@
-Mycosphaerella deutziae Syd. SPECIES
-=======
+# Mycosphaerella deutziae Syd. SPECIES
 
 #### Status
 ACCEPTED

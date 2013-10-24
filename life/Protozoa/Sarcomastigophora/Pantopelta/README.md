@@ -1,5 +1,4 @@
-Pantopelta Haeckel, 1887 GENUS
-=======
+# Pantopelta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

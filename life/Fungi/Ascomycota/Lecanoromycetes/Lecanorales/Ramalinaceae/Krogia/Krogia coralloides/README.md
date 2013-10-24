@@ -1,5 +1,4 @@
-Krogia coralloides Timdal SPECIES
-=======
+# Krogia coralloides Timdal SPECIES
 
 #### Status
 ACCEPTED

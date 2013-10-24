@@ -1,5 +1,4 @@
-Puccinia aneurolepidii Korbonsk. SPECIES
-=======
+# Puccinia aneurolepidii Korbonsk. SPECIES
 
 #### Status
 ACCEPTED

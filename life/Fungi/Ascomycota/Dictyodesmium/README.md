@@ -1,5 +1,4 @@
-Dictyodesmium S. Hughes GENUS
-=======
+# Dictyodesmium S. Hughes GENUS
 
 #### Status
 ACCEPTED

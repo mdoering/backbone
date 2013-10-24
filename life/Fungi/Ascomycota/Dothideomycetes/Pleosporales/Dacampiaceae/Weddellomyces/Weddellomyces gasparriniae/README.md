@@ -1,5 +1,4 @@
-Weddellomyces gasparriniae (C.W. Dodge) D. Hawksw. & Iturr. SPECIES
-=======
+# Weddellomyces gasparriniae (C.W. Dodge) D. Hawksw. & Iturr. SPECIES
 
 #### Status
 ACCEPTED

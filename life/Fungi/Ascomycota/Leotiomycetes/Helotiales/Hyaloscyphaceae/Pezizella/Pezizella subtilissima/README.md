@@ -1,5 +1,4 @@
-Pezizella subtilissima (J. Schröt.) Sacc. SPECIES
-=======
+# Pezizella subtilissima (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

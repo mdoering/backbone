@@ -1,5 +1,4 @@
-Inocybe olorinata E. Horak SPECIES
-=======
+# Inocybe olorinata E. Horak SPECIES
 
 #### Status
 ACCEPTED

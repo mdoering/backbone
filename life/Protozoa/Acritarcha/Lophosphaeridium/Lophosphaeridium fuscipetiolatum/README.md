@@ -1,5 +1,4 @@
-Lophosphaeridium fuscipetiolatum (Cramer & Díez, 1977) Vecoli, 1999 SPECIES
-=======
+# Lophosphaeridium fuscipetiolatum (Cramer & Díez, 1977) Vecoli, 1999 SPECIES
 
 #### Status
 ACCEPTED

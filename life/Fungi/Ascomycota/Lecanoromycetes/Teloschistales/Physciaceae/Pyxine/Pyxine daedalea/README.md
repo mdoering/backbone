@@ -1,5 +1,4 @@
-Pyxine daedalea Krog & R. Sant. SPECIES
-=======
+# Pyxine daedalea Krog & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

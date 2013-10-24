@@ -1,5 +1,4 @@
-Granatisporites coahuilensis Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Granatisporites coahuilensis Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

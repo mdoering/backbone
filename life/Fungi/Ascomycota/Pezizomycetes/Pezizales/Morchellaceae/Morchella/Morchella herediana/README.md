@@ -1,5 +1,4 @@
-Morchella herediana Gomez {?} SPECIES
-=======
+# Morchella herediana Gomez {?} SPECIES
 
 #### Status
 ACCEPTED

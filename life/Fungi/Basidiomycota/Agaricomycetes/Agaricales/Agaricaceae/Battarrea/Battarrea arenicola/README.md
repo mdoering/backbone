@@ -1,5 +1,4 @@
-Battarrea arenicola Copel. SPECIES
-=======
+# Battarrea arenicola Copel. SPECIES
 
 #### Status
 ACCEPTED

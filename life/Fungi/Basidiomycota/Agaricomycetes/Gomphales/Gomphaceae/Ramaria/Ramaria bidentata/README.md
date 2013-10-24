@@ -1,5 +1,4 @@
-Ramaria bidentata Velen. SPECIES
-=======
+# Ramaria bidentata Velen. SPECIES
 
 #### Status
 ACCEPTED

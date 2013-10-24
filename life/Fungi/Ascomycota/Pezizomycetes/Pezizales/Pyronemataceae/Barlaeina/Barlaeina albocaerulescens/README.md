@@ -1,5 +1,4 @@
-Barlaeina albocaerulescens Penz. & Sacc. SPECIES
-=======
+# Barlaeina albocaerulescens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

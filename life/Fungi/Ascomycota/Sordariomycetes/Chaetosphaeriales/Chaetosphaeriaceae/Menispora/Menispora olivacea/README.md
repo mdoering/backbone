@@ -1,5 +1,4 @@
-Menispora olivacea Preuss SPECIES
-=======
+# Menispora olivacea Preuss SPECIES
 
 #### Status
 ACCEPTED

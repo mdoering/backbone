@@ -1,5 +1,4 @@
-Agaricus ventosus Fr. SPECIES
-=======
+# Agaricus ventosus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Penicillium nikleuskii K.M. Zalessky SPECIES
-=======
+# Penicillium niklewskii K.M. Zalessky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium nikleuskii K.M. Zalessky
+Penicillium niklewskii K.M. Zalessky
 
 ### Remarks
 null

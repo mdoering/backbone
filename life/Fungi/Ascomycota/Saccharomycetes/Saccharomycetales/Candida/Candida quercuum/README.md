@@ -1,17 +1,16 @@
-Mastigomyces quercuum (Nakase) Golubev, 1990 SPECIES
-=======
+# Candida quercuum Nakase, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 17(6): 476 (1971)
 
 #### Original name
-null
+Candida quercuum Nakase, 1971
 
 ### Remarks
 null

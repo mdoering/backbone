@@ -1,5 +1,4 @@
-Mycosphaerella kawanensis Hara SPECIES
-=======
+# Mycosphaerella kawanensis Hara SPECIES
 
 #### Status
 ACCEPTED

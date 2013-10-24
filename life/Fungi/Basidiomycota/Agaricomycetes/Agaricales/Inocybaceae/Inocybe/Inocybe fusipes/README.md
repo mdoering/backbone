@@ -1,5 +1,4 @@
-Inocybe fusipes Bizio, Franchi & M. Marchetti SPECIES
-=======
+# Inocybe fusipes Bizio, Franchi & M. Marchetti SPECIES
 
 #### Status
 ACCEPTED

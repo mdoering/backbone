@@ -1,5 +1,4 @@
-Verrucaria diffracta Anzi SPECIES
-=======
+# Verrucaria diffracta Anzi SPECIES
 
 #### Status
 ACCEPTED

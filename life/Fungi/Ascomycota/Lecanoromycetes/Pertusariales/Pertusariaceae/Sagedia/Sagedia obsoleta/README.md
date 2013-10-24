@@ -1,5 +1,4 @@
-Sagedia obsoleta Kremp. SPECIES
-=======
+# Sagedia obsoleta Kremp. SPECIES
 
 #### Status
 ACCEPTED

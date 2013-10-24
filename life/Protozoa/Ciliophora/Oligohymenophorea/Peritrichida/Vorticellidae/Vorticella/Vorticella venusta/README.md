@@ -1,5 +1,4 @@
-Vorticella venusta Nenninger, 1948 SPECIES
-=======
+# Vorticella venusta Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria glabra Rossman SPECIES
-=======
+# Nectria glabra Rossman SPECIES
 
 #### Status
 ACCEPTED

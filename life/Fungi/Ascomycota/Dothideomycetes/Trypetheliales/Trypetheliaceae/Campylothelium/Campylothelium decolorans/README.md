@@ -1,5 +1,4 @@
-Campylothelium decolorans Riddle SPECIES
-=======
+# Campylothelium decolorans Riddle SPECIES
 
 #### Status
 ACCEPTED

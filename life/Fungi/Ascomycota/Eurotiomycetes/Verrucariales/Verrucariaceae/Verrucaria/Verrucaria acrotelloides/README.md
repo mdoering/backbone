@@ -1,5 +1,4 @@
-Verrucaria acrotelloides A. Massal. SPECIES
-=======
+# Verrucaria acrotelloides A. Massal. SPECIES
 
 #### Status
 ACCEPTED

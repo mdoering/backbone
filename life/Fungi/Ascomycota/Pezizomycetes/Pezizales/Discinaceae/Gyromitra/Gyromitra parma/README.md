@@ -1,5 +1,4 @@
-Gyromitra parma (J. Breitenb. & Maas Geest.) Kotl. & Pouzar SPECIES
-=======
+# Gyromitra parma (J. Breitenb. & Maas Geest.) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

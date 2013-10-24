@@ -1,5 +1,4 @@
-Acineta complanta SPECIES
-=======
+# Acineta complanta SPECIES
 
 #### Status
 ACCEPTED

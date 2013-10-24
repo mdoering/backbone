@@ -1,5 +1,4 @@
-Taphrina celtidis Sadeb. SPECIES
-=======
+# Taphrina celtidis Sadeb. SPECIES
 
 #### Status
 ACCEPTED

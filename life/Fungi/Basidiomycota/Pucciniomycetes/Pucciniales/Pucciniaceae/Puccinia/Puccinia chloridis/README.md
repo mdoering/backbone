@@ -1,5 +1,4 @@
-Puccinia chloridis Speg., 1891 SPECIES
-=======
+# Puccinia chloridis Speg., 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium congestum G.A. Newton SPECIES
-=======
+# Stemphylium congestum G.A. Newton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina crotonicola M.B. Ellis SPECIES
-=======
+# Stigmina crotonicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

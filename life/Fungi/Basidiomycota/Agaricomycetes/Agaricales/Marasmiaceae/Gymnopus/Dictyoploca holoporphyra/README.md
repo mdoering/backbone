@@ -1,5 +1,4 @@
-Dictyoploca holoporphyra (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Dictyoploca holoporphyra (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

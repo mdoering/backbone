@@ -1,5 +1,4 @@
-Cyrtosphaera cucullata (J. Lecal-Schlauder) A. Kleijne SPECIES
-=======
+# Cyrtosphaera cucullata (J. Lecal-Schlauder) A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diophrys grandis SPECIES
-=======
+# Diophrys grandis SPECIES
 
 #### Status
 ACCEPTED

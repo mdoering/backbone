@@ -1,5 +1,4 @@
-Xerocarpus amphibolius (Fr.) P. Karst. SPECIES
-=======
+# Xerocarpus amphibolius (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

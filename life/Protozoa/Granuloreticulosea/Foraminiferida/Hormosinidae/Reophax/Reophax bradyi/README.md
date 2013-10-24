@@ -1,5 +1,4 @@
-Reophax bradyi Bronnimann & Whittaker, 1980 SPECIES
-=======
+# Reophax bradyi Bronnimann & Whittaker, 1980 SPECIES
 
 #### Status
 ACCEPTED

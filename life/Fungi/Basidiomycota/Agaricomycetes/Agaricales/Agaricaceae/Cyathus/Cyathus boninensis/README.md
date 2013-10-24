@@ -1,5 +1,4 @@
-Cyathus boninensis S. Ito & S. Imai SPECIES
-=======
+# Cyathus boninensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

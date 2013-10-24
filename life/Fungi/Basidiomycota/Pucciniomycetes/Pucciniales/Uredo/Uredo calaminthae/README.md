@@ -1,5 +1,4 @@
-Uredo calaminthae Str. {?} SPECIES
-=======
+# Uredo calaminthae Str. {?} SPECIES
 
 #### Status
 ACCEPTED

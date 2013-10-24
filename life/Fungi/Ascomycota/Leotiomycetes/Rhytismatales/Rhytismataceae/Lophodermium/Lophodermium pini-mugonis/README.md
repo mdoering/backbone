@@ -1,5 +1,4 @@
-Lophodermium pini-mugonis C.L. Hou & M. Piepenbr., 2009 SPECIES
-=======
+# Lophodermium pini-mugonis C.L. Hou & M. Piepenbr., 2009 SPECIES
 
 #### Status
 ACCEPTED

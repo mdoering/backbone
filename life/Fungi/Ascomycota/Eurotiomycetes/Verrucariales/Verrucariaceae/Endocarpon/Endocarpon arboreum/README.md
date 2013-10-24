@@ -1,5 +1,4 @@
-Endocarpon arboreum Schwein. SPECIES
-=======
+# Endocarpon arboreum Schwein. SPECIES
 
 #### Status
 ACCEPTED

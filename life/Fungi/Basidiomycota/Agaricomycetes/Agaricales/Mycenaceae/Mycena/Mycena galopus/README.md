@@ -1,17 +1,16 @@
-Mycena galopus f. galopus FORM
-=======
+# Mycena galopus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 108 (1871)
+null
 
 #### Original name
-Mycena galopus f. galopus
+null
 
 ### Remarks
 null

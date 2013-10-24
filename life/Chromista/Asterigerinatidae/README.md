@@ -1,5 +1,4 @@
-Asterigerinatidae Reiss, 1963 FAMILY
-=======
+# Asterigerinatidae Reiss, 1963 FAMILY
 
 #### Status
 ACCEPTED

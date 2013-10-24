@@ -1,5 +1,4 @@
-Dictyosphaera incrassata Fu Jiayuan, 1986 SPECIES
-=======
+# Dictyosphaera incrassata Fu Jiayuan, 1986 SPECIES
 
 #### Status
 ACCEPTED

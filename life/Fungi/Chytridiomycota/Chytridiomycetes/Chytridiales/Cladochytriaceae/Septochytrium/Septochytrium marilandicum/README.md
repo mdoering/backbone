@@ -1,5 +1,4 @@
-Septochytrium marilandicum Karling SPECIES
-=======
+# Septochytrium marilandicum Karling SPECIES
 
 #### Status
 ACCEPTED

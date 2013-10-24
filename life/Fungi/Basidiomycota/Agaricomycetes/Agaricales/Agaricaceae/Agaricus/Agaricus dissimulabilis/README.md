@@ -1,5 +1,4 @@
-Agaricus dissimulabilis Britzelm. SPECIES
-=======
+# Agaricus dissimulabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

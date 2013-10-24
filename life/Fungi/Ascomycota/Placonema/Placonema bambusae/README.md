@@ -1,5 +1,4 @@
-Placonema bambusae (Bat.) Nag Raj SPECIES
-=======
+# Placonema bambusae (Bat.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

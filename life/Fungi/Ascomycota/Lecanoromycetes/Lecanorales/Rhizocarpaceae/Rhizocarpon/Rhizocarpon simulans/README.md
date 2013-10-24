@@ -1,5 +1,4 @@
-Rhizocarpon simulans H. Magn. SPECIES
-=======
+# Rhizocarpon simulans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus snellii Wolfe SPECIES
-=======
+# Tylopilus snellii Wolfe SPECIES
 
 #### Status
 ACCEPTED

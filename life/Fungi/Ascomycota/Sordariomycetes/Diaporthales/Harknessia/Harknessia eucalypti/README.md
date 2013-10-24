@@ -1,5 +1,4 @@
-Harknessia eucalypti Cooke, 1881 SPECIES
-=======
+# Harknessia eucalypti Cooke, 1881 SPECIES
 
 #### Status
 ACCEPTED

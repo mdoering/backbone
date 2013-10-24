@@ -1,5 +1,4 @@
-Collemopsidium caesium (Nyl.) Coppins & Aptroot SPECIES
-=======
+# Collemopsidium caesium (Nyl.) Coppins & Aptroot SPECIES
 
 #### Status
 ACCEPTED

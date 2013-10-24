@@ -1,5 +1,4 @@
-Coniothecium gramineum Sacc. SPECIES
-=======
+# Coniothecium gramineum Sacc. SPECIES
 
 #### Status
 ACCEPTED

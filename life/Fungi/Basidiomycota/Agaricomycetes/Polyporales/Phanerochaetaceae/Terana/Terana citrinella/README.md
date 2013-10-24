@@ -1,5 +1,4 @@
-Terana citrinella (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana citrinella (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

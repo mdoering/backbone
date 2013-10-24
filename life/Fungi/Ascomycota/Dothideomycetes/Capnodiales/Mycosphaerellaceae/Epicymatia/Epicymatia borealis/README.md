@@ -1,5 +1,4 @@
-Epicymatia borealis Sacc. ex Fr. SPECIES
-=======
+# Epicymatia borealis Sacc. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

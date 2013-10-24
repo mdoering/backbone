@@ -1,5 +1,4 @@
-Meliola torulosiseta Hansf. SPECIES
-=======
+# Meliola torulosiseta Hansf. SPECIES
 
 #### Status
 ACCEPTED

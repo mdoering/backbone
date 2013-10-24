@@ -1,5 +1,4 @@
-Dermatina flotowiana Arnold SPECIES
-=======
+# Dermatina flotowiana Arnold SPECIES
 
 #### Status
 ACCEPTED

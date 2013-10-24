@@ -1,5 +1,4 @@
-Gypsoplaca Timdal GENUS
-=======
+# Gypsoplaca Timdal GENUS
 
 #### Status
 ACCEPTED

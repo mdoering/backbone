@@ -1,5 +1,4 @@
-Ataxorbignyna Voloshina, 1965 GENUS
-=======
+# Ataxorbignyna Voloshina, 1965 GENUS
 
 #### Status
 ACCEPTED

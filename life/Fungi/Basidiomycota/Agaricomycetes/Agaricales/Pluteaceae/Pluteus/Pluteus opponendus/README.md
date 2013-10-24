@@ -1,5 +1,4 @@
-Pluteus opponendus (Britzelm.) Sacc. SPECIES
-=======
+# Pluteus opponendus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

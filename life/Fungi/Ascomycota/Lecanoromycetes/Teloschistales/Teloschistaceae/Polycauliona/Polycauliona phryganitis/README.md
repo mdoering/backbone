@@ -1,5 +1,4 @@
-Polycauliona phryganitis (Tuck.) Hue SPECIES
-=======
+# Polycauliona phryganitis (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

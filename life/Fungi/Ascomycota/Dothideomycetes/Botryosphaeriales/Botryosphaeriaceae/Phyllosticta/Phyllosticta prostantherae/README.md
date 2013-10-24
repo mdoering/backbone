@@ -1,5 +1,4 @@
-Phyllosticta prostantherae Cooke SPECIES
-=======
+# Phyllosticta prostantherae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia semicancellata Poir. SPECIES
-=======
+# Trichia semicancellata Poir. SPECIES
 
 #### Status
 ACCEPTED

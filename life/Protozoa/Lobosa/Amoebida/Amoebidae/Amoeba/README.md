@@ -1,5 +1,4 @@
-Amoeba Bory de St. Vincent, 1822 GENUS
-=======
+# Amoeba Bory de St. Vincent, 1822 GENUS
 
 #### Status
 ACCEPTED

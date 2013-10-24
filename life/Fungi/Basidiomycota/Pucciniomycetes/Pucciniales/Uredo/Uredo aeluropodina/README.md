@@ -1,5 +1,4 @@
-Uredo aeluropodina Maire SPECIES
-=======
+# Uredo aeluropodina Maire SPECIES
 
 #### Status
 ACCEPTED

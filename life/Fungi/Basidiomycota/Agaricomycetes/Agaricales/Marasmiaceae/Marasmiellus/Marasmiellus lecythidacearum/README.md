@@ -1,5 +1,4 @@
-Marasmiellus lecythidacearum Singer SPECIES
-=======
+# Marasmiellus lecythidacearum Singer SPECIES
 
 #### Status
 ACCEPTED

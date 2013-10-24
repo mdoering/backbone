@@ -1,5 +1,4 @@
-Monochaetia berberidis Lind SPECIES
-=======
+# Monochaetia berberidis Lind SPECIES
 
 #### Status
 ACCEPTED

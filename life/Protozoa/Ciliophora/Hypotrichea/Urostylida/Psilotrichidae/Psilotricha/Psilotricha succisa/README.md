@@ -1,5 +1,4 @@
-Psilotricha succisa (Müller, 1786) Foissner, 1983 SPECIES
-=======
+# Psilotricha succisa (Müller, 1786) Foissner, 1983 SPECIES
 
 #### Status
 ACCEPTED

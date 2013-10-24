@@ -1,17 +1,16 @@
-Amanita vaginata var. umbrinolutea VARIETY
-=======
+# Amanita taiepa G.S. Ridl., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 4(2): 328 (1991)
 
 #### Original name
-Amanita vaginata var. umbrinolutea
+Amanita taiepa G.S. Ridl., 1991
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crocynia lapicida B. de Lesd. SPECIES
-=======
+# Crocynia lapicida B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

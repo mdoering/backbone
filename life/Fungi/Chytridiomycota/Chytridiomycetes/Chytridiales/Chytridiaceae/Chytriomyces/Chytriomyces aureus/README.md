@@ -1,5 +1,4 @@
-Chytriomyces aureus Karling, 1945 SPECIES
-=======
+# Chytriomyces aureus Karling, 1945 SPECIES
 
 #### Status
 ACCEPTED

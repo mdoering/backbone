@@ -1,5 +1,4 @@
-Pyrenopeziza latebrosa (W. Phillips & Harkn.) Dennis SPECIES
-=======
+# Pyrenopeziza latebrosa (W. Phillips & Harkn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

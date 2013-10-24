@@ -1,5 +1,4 @@
-Ochroglossum longisporum (E.J. Durand) S. Imai SPECIES
-=======
+# Ochroglossum longisporum (E.J. Durand) S. Imai SPECIES
 
 #### Status
 ACCEPTED

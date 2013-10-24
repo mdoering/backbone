@@ -1,5 +1,4 @@
-Hysterium mali Schumach. SPECIES
-=======
+# Hysterium mali Schumach. SPECIES
 
 #### Status
 ACCEPTED

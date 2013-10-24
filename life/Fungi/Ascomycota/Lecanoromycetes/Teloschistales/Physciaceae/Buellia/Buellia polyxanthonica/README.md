@@ -1,5 +1,4 @@
-Buellia polyxanthonica Elix SPECIES
-=======
+# Buellia polyxanthonica Elix SPECIES
 
 #### Status
 ACCEPTED

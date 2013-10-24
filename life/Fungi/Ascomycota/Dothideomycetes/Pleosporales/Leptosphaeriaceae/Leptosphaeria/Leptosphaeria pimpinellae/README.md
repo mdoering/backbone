@@ -1,5 +1,4 @@
-Leptosphaeria pimpinellae Lowen & Sivan., 1989 SPECIES
-=======
+# Leptosphaeria pimpinellae Lowen & Sivan., 1989 SPECIES
 
 #### Status
 ACCEPTED

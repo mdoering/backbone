@@ -1,5 +1,4 @@
-Stigmatidium extenuans Nyl. SPECIES
-=======
+# Stigmatidium extenuans Nyl. SPECIES
 
 #### Status
 ACCEPTED

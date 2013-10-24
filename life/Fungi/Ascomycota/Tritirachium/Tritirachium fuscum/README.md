@@ -1,5 +1,4 @@
-Tritirachium fuscum Matsush. SPECIES
-=======
+# Tritirachium fuscum Matsush. SPECIES
 
 #### Status
 ACCEPTED

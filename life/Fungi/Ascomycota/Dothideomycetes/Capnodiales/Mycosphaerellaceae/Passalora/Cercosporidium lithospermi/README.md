@@ -1,5 +1,4 @@
-Cercosporidium lithospermi Naumov SPECIES
-=======
+# Cercosporidium lithospermi Naumov SPECIES
 
 #### Status
 ACCEPTED

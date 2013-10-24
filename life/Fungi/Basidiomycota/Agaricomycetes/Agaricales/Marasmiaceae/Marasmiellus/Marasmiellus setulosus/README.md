@@ -1,5 +1,4 @@
-Marasmiellus setulosus (A.H. Sm.) Singer SPECIES
-=======
+# Marasmiellus setulosus (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

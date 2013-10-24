@@ -1,5 +1,4 @@
-Chaetomella hypogaea (D.V. Singh & A.K. Sarbhoy) A.K. Sarbhoy SPECIES
-=======
+# Chaetomella hypogaea (D.V. Singh & A.K. Sarbhoy) A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

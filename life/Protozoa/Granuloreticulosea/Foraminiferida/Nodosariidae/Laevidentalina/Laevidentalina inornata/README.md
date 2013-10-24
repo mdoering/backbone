@@ -1,8 +1,7 @@
-Nodosaria inornata (d'Orbigny, 1846) SPECIES
-=======
+# Laevidentalina inornata (d’Orbigny, 1846) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

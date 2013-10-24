@@ -1,5 +1,4 @@
-Hypomyces orthosporus K. Põldmaa SPECIES
-=======
+# Hypomyces orthosporus K. Põldmaa SPECIES
 
 #### Status
 ACCEPTED

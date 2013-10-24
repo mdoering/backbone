@@ -1,5 +1,4 @@
-Enneadocysta L.E. Stover & G.L. Williams, 1995 GENUS
-=======
+# Enneadocysta L.E. Stover & G.L. Williams, 1995 GENUS
 
 #### Status
 ACCEPTED

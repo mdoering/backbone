@@ -1,5 +1,4 @@
-Aseroë hookeri Berk. SPECIES
-=======
+# Aseroë hookeri Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloniella natalensis Doidge SPECIES
-=======
+# Gloniella natalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

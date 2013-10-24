@@ -1,5 +1,4 @@
-Tricholoma fuligineum Peck SPECIES
-=======
+# Tricholoma fuligineum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon lyngei Räsänen SPECIES
-=======
+# Rhizocarpon lyngei Räsänen SPECIES
 
 #### Status
 ACCEPTED

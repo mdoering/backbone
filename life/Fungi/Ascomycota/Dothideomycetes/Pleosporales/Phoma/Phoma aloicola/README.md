@@ -1,5 +1,4 @@
-Phoma aloicola Trinchieri SPECIES
-=======
+# Phoma aloicola Trinchieri SPECIES
 
 #### Status
 ACCEPTED

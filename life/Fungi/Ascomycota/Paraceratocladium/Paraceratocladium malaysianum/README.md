@@ -1,5 +1,4 @@
-Paraceratocladium malaysianum Goh & K.D. Hyde SPECIES
-=======
+# Paraceratocladium malaysianum Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

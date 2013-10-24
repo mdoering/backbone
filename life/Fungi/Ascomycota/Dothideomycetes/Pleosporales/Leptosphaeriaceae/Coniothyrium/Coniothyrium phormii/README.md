@@ -1,14 +1,13 @@
-Leptothyrium phormii (Sacc.) Grove, 1921 SPECIES
-=======
+# Coniothyrium phormii Speg., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 23: 114 (1912)
 
 #### Original name
 Coniothyrium phormii Speg., 1912

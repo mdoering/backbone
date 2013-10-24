@@ -1,5 +1,4 @@
-Lactarius rostratus Heilm.-Claus., 1998 SPECIES
-=======
+# Lactarius rostratus Heilm.-Claus., 1998 SPECIES
 
 #### Status
 ACCEPTED

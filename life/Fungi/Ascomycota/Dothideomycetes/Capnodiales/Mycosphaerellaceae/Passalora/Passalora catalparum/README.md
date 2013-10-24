@@ -1,5 +1,4 @@
-Passalora catalparum (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora catalparum (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

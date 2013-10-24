@@ -1,5 +1,4 @@
-Hygrophorus parvicoccineus S. Ito & S. Imai SPECIES
-=======
+# Hygrophorus parvicoccineus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

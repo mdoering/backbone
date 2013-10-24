@@ -1,5 +1,4 @@
-Chaetoplea (Sacc.) Clem. GENUS
-=======
+# Chaetoplea (Sacc.) Clem. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirofilopsis Corliss, 1960 GENUS
-=======
+# Spirofilopsis Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

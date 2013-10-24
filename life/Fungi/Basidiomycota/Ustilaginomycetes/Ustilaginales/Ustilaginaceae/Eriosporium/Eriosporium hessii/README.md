@@ -1,14 +1,13 @@
-Sorosporium hessii (E. Müll.) Thirum. & Neerg., 1978 SPECIES
-=======
+# Eriosporium hessii (E. Müll.) Vánky, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(3): 184 (1978)
+Mycol. Balcanica 2(2): 117 (2005)
 
 #### Original name
 Tolyposporium hessii E. Müll., 1955

@@ -1,5 +1,4 @@
-Bacillus sonorensis Palmisano et al., 2001 SPECIES
-=======
+# Bacillus sonorensis Palmisano et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria azukiae (Hara) T.Y. Zhang & Y.L. Guo SPECIES
-=======
+# Alternaria azukiae (Hara) T.Y. Zhang & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Argopsis Th. Fr. GENUS
-=======
+# Argopsis Th. Fr. GENUS
 
 #### Status
 ACCEPTED

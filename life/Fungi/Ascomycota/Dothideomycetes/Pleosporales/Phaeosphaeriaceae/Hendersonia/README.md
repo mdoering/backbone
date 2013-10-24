@@ -1,5 +1,4 @@
-Hendersonia GENUS
-=======
+# Hendersonia GENUS
 
 #### Status
 ACCEPTED

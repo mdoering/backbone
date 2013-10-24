@@ -1,5 +1,4 @@
-Allothyrium Syd. GENUS
-=======
+# Allothyrium Syd. GENUS
 
 #### Status
 ACCEPTED

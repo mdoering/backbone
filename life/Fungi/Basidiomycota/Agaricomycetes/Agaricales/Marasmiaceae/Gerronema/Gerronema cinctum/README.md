@@ -1,5 +1,4 @@
-Gerronema cinctum Singer SPECIES
-=======
+# Gerronema cinctum Singer SPECIES
 
 #### Status
 ACCEPTED

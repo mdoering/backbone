@@ -1,5 +1,4 @@
-Cercospora atromaculans Ellis & Everh. SPECIES
-=======
+# Cercospora atromaculans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

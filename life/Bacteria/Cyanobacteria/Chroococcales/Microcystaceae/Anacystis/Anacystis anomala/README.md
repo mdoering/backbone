@@ -1,5 +1,4 @@
-Anacystis anomala Gardner SPECIES
-=======
+# Anacystis anomala Gardner SPECIES
 
 #### Status
 ACCEPTED

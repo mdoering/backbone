@@ -1,5 +1,4 @@
-Xylaria radicata Henn. SPECIES
-=======
+# Xylaria radicata Henn. SPECIES
 
 #### Status
 ACCEPTED

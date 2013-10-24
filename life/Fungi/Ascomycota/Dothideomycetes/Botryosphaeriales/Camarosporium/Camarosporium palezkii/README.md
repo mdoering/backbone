@@ -1,5 +1,4 @@
-Camarosporium palezkii Serebrian. SPECIES
-=======
+# Camarosporium palezkii Serebrian. SPECIES
 
 #### Status
 ACCEPTED

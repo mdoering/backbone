@@ -1,5 +1,4 @@
-Tintinnus urceolata Ostenfeld, 1899 SPECIES
-=======
+# Tintinnus urceolata Ostenfeld, 1899 SPECIES
 
 #### Status
 ACCEPTED

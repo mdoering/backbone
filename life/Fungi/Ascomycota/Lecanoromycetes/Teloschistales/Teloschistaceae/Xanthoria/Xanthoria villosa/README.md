@@ -1,5 +1,4 @@
-Xanthoria villosa (Ach.) H. Olivier SPECIES
-=======
+# Xanthoria villosa (Ach.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

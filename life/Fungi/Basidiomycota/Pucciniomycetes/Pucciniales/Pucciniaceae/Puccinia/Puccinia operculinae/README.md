@@ -1,5 +1,4 @@
-Puccinia operculinae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Puccinia operculinae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

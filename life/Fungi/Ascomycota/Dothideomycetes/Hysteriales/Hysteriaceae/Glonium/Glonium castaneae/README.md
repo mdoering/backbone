@@ -1,5 +1,4 @@
-Glonium castaneae (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Glonium castaneae (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

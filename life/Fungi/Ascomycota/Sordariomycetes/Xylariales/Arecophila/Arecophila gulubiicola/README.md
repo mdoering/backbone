@@ -1,5 +1,4 @@
-Arecophila gulubiicola K.D. Hyde, 1996 SPECIES
-=======
+# Arecophila gulubiicola K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

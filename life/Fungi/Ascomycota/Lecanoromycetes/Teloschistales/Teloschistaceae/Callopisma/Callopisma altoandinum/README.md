@@ -1,5 +1,4 @@
-Callopisma altoandinum Malme SPECIES
-=======
+# Callopisma altoandinum Malme SPECIES
 
 #### Status
 ACCEPTED

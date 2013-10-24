@@ -1,5 +1,4 @@
-Williamsidinium Lentin, 1983 GENUS
-=======
+# Williamsidinium Lentin, 1983 GENUS
 
 #### Status
 ACCEPTED

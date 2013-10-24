@@ -1,5 +1,4 @@
-Diplodia gleditschiae Pass. SPECIES
-=======
+# Diplodia gleditschiae Pass. SPECIES
 
 #### Status
 ACCEPTED

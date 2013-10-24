@@ -1,5 +1,4 @@
-Endoreticulatus schubergi (Zwölfer) A. Cali & M. El Garhy SPECIES
-=======
+# Endoreticulatus schubergi (Zwölfer) A. Cali & M. El Garhy SPECIES
 
 #### Status
 ACCEPTED

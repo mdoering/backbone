@@ -1,5 +1,4 @@
-Synalissa E.M. Fries, 1825 GENUS
-=======
+# Synalissa E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

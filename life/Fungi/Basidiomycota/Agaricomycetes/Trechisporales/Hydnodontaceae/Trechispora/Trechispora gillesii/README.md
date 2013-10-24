@@ -1,5 +1,4 @@
-Trechispora gillesii (Maas Geest.) Liberta SPECIES
-=======
+# Trechispora gillesii (Maas Geest.) Liberta SPECIES
 
 #### Status
 ACCEPTED

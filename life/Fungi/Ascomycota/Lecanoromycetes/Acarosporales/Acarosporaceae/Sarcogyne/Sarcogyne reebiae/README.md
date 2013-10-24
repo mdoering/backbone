@@ -1,5 +1,4 @@
-Sarcogyne reebiae K. Knudsen SPECIES
-=======
+# Sarcogyne reebiae K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

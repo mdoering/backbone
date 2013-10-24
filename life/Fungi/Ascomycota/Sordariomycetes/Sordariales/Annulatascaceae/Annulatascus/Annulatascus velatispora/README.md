@@ -1,5 +1,4 @@
-Annulatascus velatispora K.D. Hyde, 1992 SPECIES
-=======
+# Annulatascus velatispora K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

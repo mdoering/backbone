@@ -1,17 +1,16 @@
-Meliola polysciatis Hansf. SPECIES
-=======
+# Meliola polysciadis Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London (1946)
 
 #### Original name
-Meliola polysciatis Hansf.
+Meliola polysciadis Hansf.
 
 ### Remarks
 null

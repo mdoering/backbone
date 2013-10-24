@@ -1,5 +1,4 @@
-Cortinarius canescens Peck SPECIES
-=======
+# Cortinarius canescens Peck SPECIES
 
 #### Status
 ACCEPTED

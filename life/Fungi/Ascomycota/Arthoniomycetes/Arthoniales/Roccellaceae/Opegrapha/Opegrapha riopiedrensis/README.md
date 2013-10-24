@@ -1,5 +1,4 @@
-Opegrapha riopiedrensis Fink SPECIES
-=======
+# Opegrapha riopiedrensis Fink SPECIES
 
 #### Status
 ACCEPTED

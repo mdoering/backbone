@@ -1,5 +1,4 @@
-Agaricus buccinalis Batsch SPECIES
-=======
+# Agaricus buccinalis Batsch SPECIES
 
 #### Status
 ACCEPTED

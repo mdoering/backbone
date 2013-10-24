@@ -1,5 +1,4 @@
-Sporobolomyces phaffii F.Y. Bai, M. Takash. & Nakase SPECIES
-=======
+# Sporobolomyces phaffii F.Y. Bai, M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

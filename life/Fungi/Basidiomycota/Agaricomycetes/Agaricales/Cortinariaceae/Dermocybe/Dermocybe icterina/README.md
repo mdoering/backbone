@@ -1,5 +1,4 @@
-Dermocybe icterina E. Horak SPECIES
-=======
+# Dermocybe icterina E. Horak SPECIES
 
 #### Status
 ACCEPTED

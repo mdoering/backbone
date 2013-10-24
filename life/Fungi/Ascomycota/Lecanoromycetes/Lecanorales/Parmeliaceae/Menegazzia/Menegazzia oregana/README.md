@@ -1,5 +1,4 @@
-Menegazzia oregana Gyeln. SPECIES
-=======
+# Menegazzia oregana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

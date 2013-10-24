@@ -1,5 +1,4 @@
-Apteodinium apiatum McIntyre & Brideaux, 1980 SPECIES
-=======
+# Apteodinium apiatum McIntyre & Brideaux, 1980 SPECIES
 
 #### Status
 ACCEPTED

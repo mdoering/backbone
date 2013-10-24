@@ -1,8 +1,7 @@
-Miliolinella schlumbergeri Wieser, 1923 SPECIES
-=======
+# Quinqueloculina schlumbergeri (Wiesner, 1923) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

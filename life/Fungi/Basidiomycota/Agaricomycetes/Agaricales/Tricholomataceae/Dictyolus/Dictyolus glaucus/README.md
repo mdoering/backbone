@@ -1,5 +1,4 @@
-Dictyolus glaucus (Fr.) Quél. SPECIES
-=======
+# Dictyolus glaucus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

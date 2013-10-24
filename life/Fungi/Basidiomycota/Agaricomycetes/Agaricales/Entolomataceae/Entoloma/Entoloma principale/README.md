@@ -1,5 +1,4 @@
-Entoloma principale (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma principale (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

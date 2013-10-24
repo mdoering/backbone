@@ -1,5 +1,4 @@
-Strangospora selengensis Makryi & N.S. Golubk. SPECIES
-=======
+# Strangospora selengensis Makryi & N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

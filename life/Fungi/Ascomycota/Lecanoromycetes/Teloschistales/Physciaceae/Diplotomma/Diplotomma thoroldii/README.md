@@ -1,5 +1,4 @@
-Diplotomma thoroldii C.W. Dodge SPECIES
-=======
+# Diplotomma thoroldii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

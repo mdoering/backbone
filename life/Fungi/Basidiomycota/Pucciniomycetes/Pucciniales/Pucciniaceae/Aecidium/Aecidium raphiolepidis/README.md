@@ -1,5 +1,4 @@
-Aecidium raphiolepidis Syd. & P. Syd. SPECIES
-=======
+# Aecidium raphiolepidis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

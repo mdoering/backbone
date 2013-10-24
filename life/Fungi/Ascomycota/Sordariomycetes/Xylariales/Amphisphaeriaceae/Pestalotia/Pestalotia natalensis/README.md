@@ -1,5 +1,4 @@
-Pestalotia natalensis J.F.H. Beyma SPECIES
-=======
+# Pestalotia natalensis J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

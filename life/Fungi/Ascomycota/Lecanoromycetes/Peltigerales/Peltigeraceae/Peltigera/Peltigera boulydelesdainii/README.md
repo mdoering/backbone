@@ -1,5 +1,4 @@
-Peltigera boulydelesdainii Gyeln. SPECIES
-=======
+# Peltigera boulydelesdainii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

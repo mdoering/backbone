@@ -1,5 +1,4 @@
-Corethromyces divergens Thaxt. SPECIES
-=======
+# Corethromyces divergens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

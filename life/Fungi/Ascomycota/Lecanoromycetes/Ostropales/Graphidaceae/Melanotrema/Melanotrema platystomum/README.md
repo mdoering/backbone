@@ -1,14 +1,13 @@
-Ocellularia platystoma (Mont.) Zahlbr. SPECIES
-=======
+# Melanotrema platystomum (Mont.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 598 (1923)
+in Frisch & Kalb, Biblthca Lichenol. 92: 397 (2006)
 
 #### Original name
 Thelotrema platystomum Mont.

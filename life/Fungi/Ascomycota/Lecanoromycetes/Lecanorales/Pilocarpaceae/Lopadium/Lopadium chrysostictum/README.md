@@ -1,5 +1,4 @@
-Lopadium chrysostictum (Hook. f. & Taylor) Hellb. SPECIES
-=======
+# Lopadium chrysostictum (Hook. f. & Taylor) Hellb. SPECIES
 
 #### Status
 ACCEPTED

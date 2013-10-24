@@ -1,5 +1,4 @@
-Hypoxylon pilgerianum Henn., 1900 SPECIES
-=======
+# Hypoxylon pilgerianum Henn., 1900 SPECIES
 
 #### Status
 ACCEPTED

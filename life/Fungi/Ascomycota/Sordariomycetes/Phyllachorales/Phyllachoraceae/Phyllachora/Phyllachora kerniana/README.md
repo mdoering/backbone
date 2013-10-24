@@ -1,5 +1,4 @@
-Phyllachora kerniana Chardón, 1927 SPECIES
-=======
+# Phyllachora kerniana Chardón, 1927 SPECIES
 
 #### Status
 ACCEPTED

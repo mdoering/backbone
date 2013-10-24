@@ -1,5 +1,4 @@
-Cortinarius planodepressus Rob. Henry SPECIES
-=======
+# Cortinarius planodepressus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

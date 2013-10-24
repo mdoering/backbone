@@ -1,5 +1,4 @@
-Sarcopodium araliae Ts. Watan. SPECIES
-=======
+# Sarcopodium araliae Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

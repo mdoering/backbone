@@ -1,5 +1,4 @@
-Lentinus sibiricus Pilát SPECIES
-=======
+# Lentinus sibiricus Pilát SPECIES
 
 #### Status
 ACCEPTED

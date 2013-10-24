@@ -1,5 +1,4 @@
-Sphyridium caesiopruinosum Anzi SPECIES
-=======
+# Sphyridium caesiopruinosum Anzi SPECIES
 
 #### Status
 ACCEPTED

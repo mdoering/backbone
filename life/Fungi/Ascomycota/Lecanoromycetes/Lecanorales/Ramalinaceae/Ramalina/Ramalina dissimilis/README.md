@@ -1,5 +1,4 @@
-Ramalina dissimilis Krog SPECIES
-=======
+# Ramalina dissimilis Krog SPECIES
 
 #### Status
 ACCEPTED

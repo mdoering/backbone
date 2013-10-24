@@ -1,5 +1,4 @@
-Agaricus brunneopictus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus brunneopictus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

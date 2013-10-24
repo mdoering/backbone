@@ -1,5 +1,4 @@
-Jonesia denitrificans (Prévot, 1961) Rocourt et al., 1987 SPECIES
-=======
+# Jonesia denitrificans (Prévot, 1961) Rocourt et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

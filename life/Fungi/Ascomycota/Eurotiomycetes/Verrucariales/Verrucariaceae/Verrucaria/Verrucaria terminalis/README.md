@@ -1,5 +1,4 @@
-Verrucaria terminalis Servít SPECIES
-=======
+# Verrucaria terminalis Servít SPECIES
 
 #### Status
 ACCEPTED

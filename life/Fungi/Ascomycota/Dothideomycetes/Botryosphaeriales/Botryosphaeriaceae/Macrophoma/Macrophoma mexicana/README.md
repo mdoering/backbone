@@ -1,5 +1,4 @@
-Macrophoma mexicana Sacc. SPECIES
-=======
+# Macrophoma mexicana Sacc. SPECIES
 
 #### Status
 ACCEPTED

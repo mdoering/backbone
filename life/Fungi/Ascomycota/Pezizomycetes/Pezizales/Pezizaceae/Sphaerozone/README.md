@@ -1,5 +1,4 @@
-Sphaerozone Zobel GENUS
-=======
+# Sphaerozone Zobel GENUS
 
 #### Status
 ACCEPTED

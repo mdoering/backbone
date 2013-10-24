@@ -1,5 +1,4 @@
-Sterigmatocystis corolligena Massee SPECIES
-=======
+# Sterigmatocystis corolligena Massee SPECIES
 
 #### Status
 ACCEPTED

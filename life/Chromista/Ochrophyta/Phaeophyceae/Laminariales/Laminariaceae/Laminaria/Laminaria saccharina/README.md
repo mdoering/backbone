@@ -1,8 +1,7 @@
-Laminaria caperata var. oblonga J. Agardh VARIETY
-=======
+# Laminaria saccharina (Linnaeus) J.V. Lamouroux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

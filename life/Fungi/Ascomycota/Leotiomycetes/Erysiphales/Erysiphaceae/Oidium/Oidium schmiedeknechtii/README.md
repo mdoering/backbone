@@ -1,5 +1,4 @@
-Oidium schmiedeknechtii U. Braun SPECIES
-=======
+# Oidium schmiedeknechtii U. Braun SPECIES
 
 #### Status
 ACCEPTED

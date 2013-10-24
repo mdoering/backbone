@@ -1,5 +1,4 @@
-Psathyra tigrina Pat. SPECIES
-=======
+# Psathyra tigrina Pat. SPECIES
 
 #### Status
 ACCEPTED

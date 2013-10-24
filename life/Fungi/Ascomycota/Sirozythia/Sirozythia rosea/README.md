@@ -1,5 +1,4 @@
-Sirozythia rosea Höhn., 1904 SPECIES
-=======
+# Sirozythia rosea Höhn., 1904 SPECIES
 
 #### Status
 ACCEPTED

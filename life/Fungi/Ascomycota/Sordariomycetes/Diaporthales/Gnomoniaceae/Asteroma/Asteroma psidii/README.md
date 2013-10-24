@@ -1,5 +1,4 @@
-Asteroma psidii Prasad, Tyagi & Agnihotri SPECIES
-=======
+# Asteroma psidii Prasad, Tyagi & Agnihotri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spheconisca humilis Norman SPECIES
-=======
+# Spheconisca humilis Norman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Bacterium fluorescens (Trevisan, 1889) Lehmann & Neumann, 1896 SPECIES
-=======
+# Pseudomonas fluorescens Migula, 1895 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

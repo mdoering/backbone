@@ -1,5 +1,4 @@
-Psathyrella tepeitensis (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella tepeitensis (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo emiliae-zeylanicae Petch SPECIES
-=======
+# Uredo emiliae-zeylanicae Petch SPECIES
 
 #### Status
 ACCEPTED

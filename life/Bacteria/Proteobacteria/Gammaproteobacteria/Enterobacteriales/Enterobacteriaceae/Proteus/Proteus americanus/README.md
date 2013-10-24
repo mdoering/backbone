@@ -1,5 +1,4 @@
-Proteus americanus SPECIES
-=======
+# Proteus americanus SPECIES
 
 #### Status
 ACCEPTED

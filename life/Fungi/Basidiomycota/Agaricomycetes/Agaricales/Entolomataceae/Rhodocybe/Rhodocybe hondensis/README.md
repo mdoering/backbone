@@ -1,5 +1,4 @@
-Rhodocybe hondensis (Murrill) T.J. Baroni SPECIES
-=======
+# Rhodocybe hondensis (Murrill) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

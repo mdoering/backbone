@@ -1,5 +1,4 @@
-Bolivina albatrossi SPECIES
-=======
+# Bolivina albatrossi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelosphaerium goetzei Schmidle SPECIES
-=======
+# Coelosphaerium goetzei Schmidle SPECIES
 
 #### Status
 ACCEPTED

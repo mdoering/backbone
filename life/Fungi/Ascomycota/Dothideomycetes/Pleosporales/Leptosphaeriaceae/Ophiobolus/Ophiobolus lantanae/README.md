@@ -1,5 +1,4 @@
-Ophiobolus lantanae R. Rao SPECIES
-=======
+# Ophiobolus lantanae R. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diploschistes ocellatus var. ocellatus VARIETY
-=======
+# Diploschistes ocellatus (Vill.) Norman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Cat. Lich. Univers. 11: 663 (1853)
 
 #### Original name
-Diploschistes ocellatus var. ocellatus
+Lichen ocellatus Vill.
 
 ### Remarks
 null

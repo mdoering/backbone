@@ -1,5 +1,4 @@
-Hypolyssus foetidus Massee SPECIES
-=======
+# Hypolyssus foetidus Massee SPECIES
 
 #### Status
 ACCEPTED

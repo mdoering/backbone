@@ -1,5 +1,4 @@
-Chlorociboria sericea (Alb. & Schwein.) Boud. SPECIES
-=======
+# Chlorociboria sericea (Alb. & Schwein.) Boud. SPECIES
 
 #### Status
 ACCEPTED

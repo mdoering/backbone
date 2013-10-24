@@ -1,5 +1,4 @@
-Lecanora harteliana (Hue) Stirt. SPECIES
-=======
+# Lecanora harteliana (Hue) Stirt. SPECIES
 
 #### Status
 ACCEPTED

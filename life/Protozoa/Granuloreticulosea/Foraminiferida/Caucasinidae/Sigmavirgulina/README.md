@@ -1,5 +1,4 @@
-Sigmavirgulina Loeblich & Tappan, 1957 GENUS
-=======
+# Sigmavirgulina Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

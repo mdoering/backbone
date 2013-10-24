@@ -1,5 +1,4 @@
-Physcia endochroidea Nyl. SPECIES
-=======
+# Physcia endochroidea Nyl. SPECIES
 
 #### Status
 ACCEPTED

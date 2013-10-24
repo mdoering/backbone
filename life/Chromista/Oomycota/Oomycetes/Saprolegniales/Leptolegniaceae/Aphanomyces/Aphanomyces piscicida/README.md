@@ -1,5 +1,4 @@
-Aphanomyces piscicida Hatai SPECIES
-=======
+# Aphanomyces piscicida Hatai SPECIES
 
 #### Status
 ACCEPTED

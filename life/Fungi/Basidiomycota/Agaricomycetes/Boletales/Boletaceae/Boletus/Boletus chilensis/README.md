@@ -1,5 +1,4 @@
-Boletus chilensis Singer SPECIES
-=======
+# Boletus chilensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia smaragdescens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia smaragdescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

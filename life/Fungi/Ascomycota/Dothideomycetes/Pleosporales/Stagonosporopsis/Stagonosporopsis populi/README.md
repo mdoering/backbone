@@ -1,5 +1,4 @@
-Stagonosporopsis populi (Delacr.) Servazzi SPECIES
-=======
+# Stagonosporopsis populi (Delacr.) Servazzi SPECIES
 
 #### Status
 ACCEPTED

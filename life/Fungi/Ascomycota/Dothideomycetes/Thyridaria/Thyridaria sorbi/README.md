@@ -1,5 +1,4 @@
-Thyridaria sorbi Dearn. & House SPECIES
-=======
+# Thyridaria sorbi Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

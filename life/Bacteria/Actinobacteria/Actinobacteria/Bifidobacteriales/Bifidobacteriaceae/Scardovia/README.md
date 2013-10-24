@@ -1,5 +1,4 @@
-Scardovia Jian & Dong, 2002 GENUS
-=======
+# Scardovia Jian & Dong, 2002 GENUS
 
 #### Status
 ACCEPTED

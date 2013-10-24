@@ -1,5 +1,4 @@
-Cystammina aguayoi Bermudez & Acosta, 1940 SPECIES
-=======
+# Cystammina aguayoi Bermudez & Acosta, 1940 SPECIES
 
 #### Status
 ACCEPTED

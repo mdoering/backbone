@@ -1,5 +1,4 @@
-Thelephora aurea (Fr.) Pers. SPECIES
-=======
+# Thelephora aurea (Fr.) Pers. SPECIES
 
 #### Status
 ACCEPTED

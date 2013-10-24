@@ -1,5 +1,4 @@
-Heterodermia pinnata Sipman SPECIES
-=======
+# Heterodermia pinnata Sipman SPECIES
 
 #### Status
 ACCEPTED

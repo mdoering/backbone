@@ -1,5 +1,4 @@
-Psalliota infida Alessio SPECIES
-=======
+# Psalliota infida Alessio SPECIES
 
 #### Status
 ACCEPTED

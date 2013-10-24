@@ -1,5 +1,4 @@
-Helvella ulvinenii Harmaja SPECIES
-=======
+# Helvella ulvinenii Harmaja SPECIES
 
 #### Status
 ACCEPTED

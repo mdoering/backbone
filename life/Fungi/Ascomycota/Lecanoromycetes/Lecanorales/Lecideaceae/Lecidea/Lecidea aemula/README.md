@@ -1,5 +1,4 @@
-Lecidea aemula Stizenb. SPECIES
-=======
+# Lecidea aemula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

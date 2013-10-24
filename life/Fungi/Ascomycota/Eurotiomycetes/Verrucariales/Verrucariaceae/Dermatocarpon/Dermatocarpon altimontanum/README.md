@@ -1,5 +1,4 @@
-Dermatocarpon altimontanum (N.S. Golubk.) N.S. Golubk. SPECIES
-=======
+# Dermatocarpon altimontanum (N.S. Golubk.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

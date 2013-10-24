@@ -1,5 +1,4 @@
-Proemassilina arenaria (Brady, 1884) SPECIES
-=======
+# Proemassilina arenaria (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

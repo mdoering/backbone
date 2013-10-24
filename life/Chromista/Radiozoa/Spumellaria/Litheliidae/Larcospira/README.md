@@ -1,5 +1,4 @@
-Larcospira Haeckel, 1887 GENUS
-=======
+# Larcospira Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

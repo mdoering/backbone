@@ -1,5 +1,4 @@
-Trichosporon lutetiae Saëz SPECIES
-=======
+# Trichosporon lutetiae Saëz SPECIES
 
 #### Status
 ACCEPTED

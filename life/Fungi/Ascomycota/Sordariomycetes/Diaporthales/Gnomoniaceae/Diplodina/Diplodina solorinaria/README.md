@@ -1,5 +1,4 @@
-Diplodina solorinaria (Linds.) Vouaux SPECIES
-=======
+# Diplodina solorinaria (Linds.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

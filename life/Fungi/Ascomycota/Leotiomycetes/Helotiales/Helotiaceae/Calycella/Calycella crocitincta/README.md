@@ -1,14 +1,13 @@
-Pezizella crocitincta (Berk. & M.A. Curtis) Sacc., 1889 SPECIES
-=======
+# Calycella crocitincta (Berk. & M.A. Curtis) Dennis, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 15(2): 310 (1961)
 
 #### Original name
 null

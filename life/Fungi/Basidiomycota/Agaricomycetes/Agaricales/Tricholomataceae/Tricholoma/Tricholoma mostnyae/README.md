@@ -1,5 +1,4 @@
-Tricholoma mostnyae Singer SPECIES
-=======
+# Tricholoma mostnyae Singer SPECIES
 
 #### Status
 ACCEPTED

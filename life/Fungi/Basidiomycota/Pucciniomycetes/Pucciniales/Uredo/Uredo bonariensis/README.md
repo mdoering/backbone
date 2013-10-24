@@ -1,5 +1,4 @@
-Uredo bonariensis Speg. SPECIES
-=======
+# Uredo bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

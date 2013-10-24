@@ -1,5 +1,4 @@
-Akomachra G.K. Colbath, 1979 GENUS
-=======
+# Akomachra G.K. Colbath, 1979 GENUS
 
 #### Status
 ACCEPTED

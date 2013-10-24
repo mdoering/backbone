@@ -1,5 +1,4 @@
-Phoma dilleniana Rabenh. SPECIES
-=======
+# Phoma dilleniana Rabenh. SPECIES
 
 #### Status
 ACCEPTED

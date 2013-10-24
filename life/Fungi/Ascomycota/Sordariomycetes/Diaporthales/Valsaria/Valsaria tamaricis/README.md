@@ -1,5 +1,4 @@
-Valsaria tamaricis Mundk. & S. Ahmad SPECIES
-=======
+# Valsaria tamaricis Mundk. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

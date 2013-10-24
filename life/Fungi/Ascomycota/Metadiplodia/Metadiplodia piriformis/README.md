@@ -1,5 +1,4 @@
-Metadiplodia piriformis (Preuss) Zambett. SPECIES
-=======
+# Metadiplodia piriformis (Preuss) Zambett. SPECIES
 
 #### Status
 ACCEPTED

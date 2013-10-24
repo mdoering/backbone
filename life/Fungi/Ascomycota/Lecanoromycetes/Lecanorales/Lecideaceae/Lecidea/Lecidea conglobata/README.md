@@ -1,5 +1,4 @@
-Lecidea conglobata Chevall. SPECIES
-=======
+# Lecidea conglobata Chevall. SPECIES
 
 #### Status
 ACCEPTED

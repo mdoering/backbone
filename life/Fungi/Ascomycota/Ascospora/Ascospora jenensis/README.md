@@ -1,5 +1,4 @@
-Ascospora jenensis (Kuntze) Kuntze SPECIES
-=======
+# Ascospora jenensis (Kuntze) Kuntze SPECIES
 
 #### Status
 ACCEPTED

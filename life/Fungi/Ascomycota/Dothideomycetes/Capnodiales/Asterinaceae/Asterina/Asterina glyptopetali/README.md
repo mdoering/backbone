@@ -1,5 +1,4 @@
-Asterina glyptopetali Hosag. & C.K. Biju, 2005 SPECIES
-=======
+# Asterina glyptopetali Hosag. & C.K. Biju, 2005 SPECIES
 
 #### Status
 ACCEPTED

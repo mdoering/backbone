@@ -1,5 +1,4 @@
-Marinobacter psychrophilus Zhang, Li, Xin, Chi, Zhou & Yu, 2008 SPECIES
-=======
+# Marinobacter psychrophilus Zhang, Li, Xin, Chi, Zhou & Yu, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Septomyxa tulasnei subsp. tulasnei (Sacc.) Höhn. SUBSPECIES
-=======
+# Septomyxa tulasnei (Sacc.) Höhn., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 1(6): 527 (1903)

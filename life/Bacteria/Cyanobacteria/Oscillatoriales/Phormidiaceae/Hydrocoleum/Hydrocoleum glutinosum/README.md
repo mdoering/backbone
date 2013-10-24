@@ -1,8 +1,7 @@
-Lyngbya glutinosa C. Agardh SPECIES
-=======
+# Hydrocoleum glutinosum (C. Agardh) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

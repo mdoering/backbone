@@ -1,5 +1,4 @@
-Parmelia seto-maritima Asahina SPECIES
-=======
+# Parmelia seto-maritima Asahina SPECIES
 
 #### Status
 ACCEPTED

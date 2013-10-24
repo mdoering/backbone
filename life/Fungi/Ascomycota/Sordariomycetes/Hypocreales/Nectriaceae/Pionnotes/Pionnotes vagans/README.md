@@ -1,5 +1,4 @@
-Pionnotes vagans Speg. SPECIES
-=======
+# Pionnotes vagans Speg. SPECIES
 
 #### Status
 ACCEPTED

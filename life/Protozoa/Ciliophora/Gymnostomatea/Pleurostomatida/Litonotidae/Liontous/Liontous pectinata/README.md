@@ -1,5 +1,4 @@
-Liontous pectinata SPECIES
-=======
+# Liontous pectinata SPECIES
 
 #### Status
 ACCEPTED

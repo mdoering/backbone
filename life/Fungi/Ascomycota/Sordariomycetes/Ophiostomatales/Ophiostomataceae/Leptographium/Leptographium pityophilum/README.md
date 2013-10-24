@@ -1,5 +1,4 @@
-Leptographium pityophilum K. Jacobs, M.J. Wingf. & Frisullo SPECIES
-=======
+# Leptographium pityophilum K. Jacobs, M.J. Wingf. & Frisullo SPECIES
 
 #### Status
 ACCEPTED

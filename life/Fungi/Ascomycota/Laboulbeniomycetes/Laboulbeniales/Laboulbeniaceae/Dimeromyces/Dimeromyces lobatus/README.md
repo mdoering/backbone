@@ -1,5 +1,4 @@
-Dimeromyces lobatus Thaxt. SPECIES
-=======
+# Dimeromyces lobatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polytretophora dendroidea Kuthub. & Nawawi SPECIES
-=======
+# Polytretophora dendroidea Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

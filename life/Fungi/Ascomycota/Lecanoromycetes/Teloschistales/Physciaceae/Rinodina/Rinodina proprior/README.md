@@ -1,5 +1,4 @@
-Rinodina proprior (Nyl.) Müll. Arg. SPECIES
-=======
+# Rinodina proprior (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

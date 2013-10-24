@@ -1,5 +1,4 @@
-Striosphaeropsis Verkley & Aa GENUS
-=======
+# Striosphaeropsis Verkley & Aa GENUS
 
 #### Status
 ACCEPTED

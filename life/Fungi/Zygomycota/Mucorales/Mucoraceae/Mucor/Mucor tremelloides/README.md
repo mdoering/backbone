@@ -1,5 +1,4 @@
-Mucor tremelloides Schrank SPECIES
-=======
+# Mucor tremelloides Schrank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septocylindrium euonymi (Ellis & Kellerm.) Pound & Clem. SPECIES
-=======
+# Septocylindrium euonymi (Ellis & Kellerm.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

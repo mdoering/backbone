@@ -1,5 +1,4 @@
-Jansia boninensis Lloyd SPECIES
-=======
+# Jansia boninensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

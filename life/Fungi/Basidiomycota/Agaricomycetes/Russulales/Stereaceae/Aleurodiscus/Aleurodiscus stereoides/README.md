@@ -1,5 +1,4 @@
-Aleurodiscus stereoides Yasuda SPECIES
-=======
+# Aleurodiscus stereoides Yasuda SPECIES
 
 #### Status
 ACCEPTED

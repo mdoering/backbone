@@ -1,5 +1,4 @@
-Cylindrocladium intermedium Matsush. SPECIES
-=======
+# Cylindrocladium intermedium Matsush. SPECIES
 
 #### Status
 ACCEPTED

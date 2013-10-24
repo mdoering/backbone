@@ -1,5 +1,4 @@
-Metasphaeria hyperici Feltgen, 1903 SPECIES
-=======
+# Metasphaeria hyperici Feltgen, 1903 SPECIES
 
 #### Status
 ACCEPTED

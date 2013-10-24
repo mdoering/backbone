@@ -1,5 +1,4 @@
-Cortinarius raphanicus M.M. Moser ex Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius raphanicus M.M. Moser ex Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

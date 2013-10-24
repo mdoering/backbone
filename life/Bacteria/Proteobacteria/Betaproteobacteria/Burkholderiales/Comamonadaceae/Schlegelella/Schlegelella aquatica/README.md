@@ -1,5 +1,4 @@
-Schlegelella aquatica Yi-Ju Chou, 2006 SPECIES
-=======
+# Schlegelella aquatica Yi-Ju Chou, 2006 SPECIES
 
 #### Status
 ACCEPTED

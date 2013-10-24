@@ -1,5 +1,4 @@
-Psychrobacter faecalis Kämpfer et al., 2002 SPECIES
-=======
+# Psychrobacter faecalis Kämpfer et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

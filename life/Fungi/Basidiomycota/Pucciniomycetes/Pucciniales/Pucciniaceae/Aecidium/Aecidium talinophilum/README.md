@@ -1,5 +1,4 @@
-Aecidium talinophilum Syd. & P. Syd. SPECIES
-=======
+# Aecidium talinophilum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

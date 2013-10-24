@@ -1,5 +1,4 @@
-Polyblastia harrimanii M. Choisy SPECIES
-=======
+# Polyblastia harrimanii M. Choisy SPECIES
 
 #### Status
 ACCEPTED

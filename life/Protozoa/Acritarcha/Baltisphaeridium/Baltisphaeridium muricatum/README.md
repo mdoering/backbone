@@ -1,5 +1,4 @@
-Baltisphaeridium muricatum Le Hérissé, 1989 SPECIES
-=======
+# Baltisphaeridium muricatum Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fromea irregularis Courtinat in Courtinat & Gaillard, 1980 SPECIES
-=======
+# Fromea irregularis Courtinat in Courtinat & Gaillard, 1980 SPECIES
 
 #### Status
 ACCEPTED

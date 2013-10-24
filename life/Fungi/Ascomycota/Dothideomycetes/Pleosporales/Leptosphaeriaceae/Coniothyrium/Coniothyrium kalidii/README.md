@@ -1,5 +1,4 @@
-Coniothyrium kalidii Kalymb. SPECIES
-=======
+# Coniothyrium kalidii Kalymb. SPECIES
 
 #### Status
 ACCEPTED

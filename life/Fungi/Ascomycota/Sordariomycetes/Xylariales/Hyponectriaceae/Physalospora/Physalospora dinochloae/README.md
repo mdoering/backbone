@@ -1,5 +1,4 @@
-Physalospora dinochloae Rehm SPECIES
-=======
+# Physalospora dinochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

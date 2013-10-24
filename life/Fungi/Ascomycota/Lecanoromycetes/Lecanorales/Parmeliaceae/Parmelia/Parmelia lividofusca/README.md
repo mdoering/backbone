@@ -1,5 +1,4 @@
-Parmelia lividofusca (Flörke) Spreng. SPECIES
-=======
+# Parmelia lividofusca (Flörke) Spreng. SPECIES
 
 #### Status
 ACCEPTED

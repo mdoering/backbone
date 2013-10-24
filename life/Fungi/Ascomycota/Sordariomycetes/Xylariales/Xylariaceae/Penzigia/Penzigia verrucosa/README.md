@@ -1,5 +1,4 @@
-Penzigia verrucosa J.H. Mill. SPECIES
-=======
+# Penzigia verrucosa J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

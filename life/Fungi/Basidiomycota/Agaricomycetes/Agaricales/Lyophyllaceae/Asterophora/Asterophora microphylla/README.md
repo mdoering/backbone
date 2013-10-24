@@ -1,5 +1,4 @@
-Asterophora microphylla (Corda) Kuntze SPECIES
-=======
+# Asterophora microphylla (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

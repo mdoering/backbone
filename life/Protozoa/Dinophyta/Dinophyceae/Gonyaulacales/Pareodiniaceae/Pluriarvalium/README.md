@@ -1,5 +1,4 @@
-Pluriarvalium W.A.S. Sarjeant, 1962 GENUS
-=======
+# Pluriarvalium W.A.S. Sarjeant, 1962 GENUS
 
 #### Status
 ACCEPTED

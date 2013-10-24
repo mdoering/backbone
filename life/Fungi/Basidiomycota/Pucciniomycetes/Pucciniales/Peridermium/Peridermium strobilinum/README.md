@@ -1,14 +1,13 @@
-Caeoma strobilinum Arthur, 1906 SPECIES
-=======
+# Peridermium strobilinum (Arthur) R.S. Peterson, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 33: 519 (1906)
+null
 
 #### Original name
 Caeoma strobilinum Arthur, 1906

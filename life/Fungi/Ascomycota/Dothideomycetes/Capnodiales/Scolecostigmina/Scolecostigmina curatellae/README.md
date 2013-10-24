@@ -1,5 +1,4 @@
-Scolecostigmina curatellae (Syd.) U. Braun & Crous SPECIES
-=======
+# Scolecostigmina curatellae (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

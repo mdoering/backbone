@@ -1,5 +1,4 @@
-Allogromia flexibilis SPECIES
-=======
+# Allogromia flexibilis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thrombium stereocarpum J. Steiner SPECIES
-=======
+# Thrombium stereocarpum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

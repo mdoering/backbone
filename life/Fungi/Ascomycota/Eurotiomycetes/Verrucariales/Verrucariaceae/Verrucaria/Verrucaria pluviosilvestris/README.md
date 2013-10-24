@@ -1,5 +1,4 @@
-Verrucaria pluviosilvestris P. M. McCarthy SPECIES
-=======
+# Verrucaria pluviosilvestris P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

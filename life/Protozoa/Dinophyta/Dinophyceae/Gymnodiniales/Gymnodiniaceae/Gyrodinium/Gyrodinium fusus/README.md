@@ -1,5 +1,4 @@
-Gyrodinium fusus (Meunier, 1910) Akselman, 1985 SPECIES
-=======
+# Gyrodinium fusus (Meunier, 1910) Akselman, 1985 SPECIES
 
 #### Status
 ACCEPTED

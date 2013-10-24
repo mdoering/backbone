@@ -1,5 +1,4 @@
-Globodera GENUS
-=======
+# Globodera GENUS
 
 #### Status
 ACCEPTED

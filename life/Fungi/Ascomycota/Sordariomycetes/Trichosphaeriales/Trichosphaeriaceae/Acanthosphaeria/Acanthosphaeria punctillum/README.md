@@ -1,5 +1,4 @@
-Acanthosphaeria punctillum Kirschst., 1939 SPECIES
-=======
+# Acanthosphaeria punctillum Kirschst., 1939 SPECIES
 
 #### Status
 ACCEPTED

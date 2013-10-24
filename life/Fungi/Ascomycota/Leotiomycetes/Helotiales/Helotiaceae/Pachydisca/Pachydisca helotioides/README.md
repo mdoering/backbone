@@ -1,5 +1,4 @@
-Pachydisca helotioides (W. Phillips) Boud., 1907 SPECIES
-=======
+# Pachydisca helotioides (W. Phillips) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED

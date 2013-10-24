@@ -1,5 +1,4 @@
-Diplodia moricola Cooke & Ellis SPECIES
-=======
+# Diplodia moricola Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

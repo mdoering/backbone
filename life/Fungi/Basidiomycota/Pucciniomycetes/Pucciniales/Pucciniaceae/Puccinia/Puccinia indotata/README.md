@@ -1,5 +1,4 @@
-Puccinia indotata Cummins SPECIES
-=======
+# Puccinia indotata Cummins SPECIES
 
 #### Status
 ACCEPTED

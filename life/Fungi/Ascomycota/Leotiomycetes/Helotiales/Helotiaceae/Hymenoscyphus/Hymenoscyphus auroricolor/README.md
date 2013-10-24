@@ -1,5 +1,4 @@
-Hymenoscyphus auroricolor (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus auroricolor (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

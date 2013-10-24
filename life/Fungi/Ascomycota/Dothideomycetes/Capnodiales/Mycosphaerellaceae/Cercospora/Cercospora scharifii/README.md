@@ -1,5 +1,4 @@
-Cercospora scharifii Petr. SPECIES
-=======
+# Cercospora scharifii Petr. SPECIES
 
 #### Status
 ACCEPTED

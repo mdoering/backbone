@@ -1,17 +1,16 @@
-Peronospora romanica f. romanica Savul. & Rayss FORM
-=======
+# Peronospora romanica Savul. & Rayss, 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 30(3/4): 371 (1932)
 
 #### Original name
-Peronospora romanica f. romanica Savul. & Rayss
+Peronospora romanica Savul. & Rayss, 1932
 
 ### Remarks
 null

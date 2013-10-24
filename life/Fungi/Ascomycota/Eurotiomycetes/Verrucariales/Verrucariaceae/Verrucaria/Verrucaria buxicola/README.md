@@ -1,5 +1,4 @@
-Verrucaria buxicola Nyl. SPECIES
-=======
+# Verrucaria buxicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

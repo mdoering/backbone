@@ -1,5 +1,4 @@
-Lachnum sulphureum P. Karst., 1871 SPECIES
-=======
+# Lachnum sulphureum P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

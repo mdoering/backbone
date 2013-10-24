@@ -1,14 +1,13 @@
-Geasteroides barbata (Dissing & M. Lange) P. Ponce de León, 1968 SPECIES
-=======
+# Phialastrum barbatum (Dissing & M. Lange) Sunhede, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fieldiana, Bot. 31: 306 (1968)
+Syn. Fung. (Oslo) 1: 67 (1989)
 
 #### Original name
 Geastrum barbatum Dissing & M. Lange, 1962

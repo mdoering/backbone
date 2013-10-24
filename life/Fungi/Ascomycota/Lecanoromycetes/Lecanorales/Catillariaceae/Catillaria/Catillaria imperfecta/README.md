@@ -1,5 +1,4 @@
-Catillaria imperfecta H. Magn. SPECIES
-=======
+# Catillaria imperfecta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

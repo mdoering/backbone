@@ -1,5 +1,4 @@
-Cromyostaurolonche GENUS
-=======
+# Cromyostaurolonche GENUS
 
 #### Status
 ACCEPTED

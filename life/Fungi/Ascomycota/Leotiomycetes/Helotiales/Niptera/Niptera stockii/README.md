@@ -1,14 +1,13 @@
-Lachnella stockii Cooke & W. Phillips, 1887 SPECIES
-=======
+# Niptera stockii (Cooke & W. Phillips) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 261 (1887)
+null
 
 #### Original name
 Lachnella stockii Cooke & W. Phillips, 1887

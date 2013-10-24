@@ -1,5 +1,4 @@
-Lohmannosphaera J. Schiller, 1913 GENUS
-=======
+# Lohmannosphaera J. Schiller, 1913 GENUS
 
 #### Status
 ACCEPTED

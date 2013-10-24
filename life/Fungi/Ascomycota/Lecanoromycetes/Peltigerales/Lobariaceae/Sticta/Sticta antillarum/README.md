@@ -1,5 +1,4 @@
-Sticta antillarum Vain. SPECIES
-=======
+# Sticta antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

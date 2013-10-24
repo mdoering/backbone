@@ -1,5 +1,4 @@
-Exilisphaeridium E.R. Wicander, 1974 GENUS
-=======
+# Exilisphaeridium E.R. Wicander, 1974 GENUS
 
 #### Status
 ACCEPTED

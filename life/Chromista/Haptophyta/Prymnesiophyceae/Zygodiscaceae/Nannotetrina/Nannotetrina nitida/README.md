@@ -1,8 +1,7 @@
-Tetralithus nitidus Martini, 1961 SPECIES
-=======
+# Nannotetrina nitida (Martini, 1961) Aubry, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

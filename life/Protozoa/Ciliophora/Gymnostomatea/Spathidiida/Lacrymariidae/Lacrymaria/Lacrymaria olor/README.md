@@ -1,11 +1,10 @@
-Lacrymaria olor var. marina (O.F. Müller, 1786) Kahl, 1933 VARIETY
-=======
+# Lacrymaria olor (Müller, 1786) Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

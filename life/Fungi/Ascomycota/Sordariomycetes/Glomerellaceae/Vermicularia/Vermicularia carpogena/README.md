@@ -1,5 +1,4 @@
-Vermicularia carpogena D. Sacc. SPECIES
-=======
+# Vermicularia carpogena D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium leightonii Patw. & Makhija SPECIES
-=======
+# Anthracothecium leightonii Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

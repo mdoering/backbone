@@ -1,17 +1,16 @@
-Phyllachora glycineos (Schwein.) Sacc. SPECIES
-=======
+# Parodiella hedysari (Schwein.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 75 (1958)
 
 #### Original name
-Dothidea glycines Schwein., 1832
+Coryneum hedysari Schwein., 1832
 
 ### Remarks
 null

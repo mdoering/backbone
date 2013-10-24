@@ -1,5 +1,4 @@
-Penicillium aethiopicum Frisvad, 1990 SPECIES
-=======
+# Penicillium aethiopicum Frisvad, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomerella alstoniae Chona & Munjal SPECIES
-=======
+# Glomerella alstoniae Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

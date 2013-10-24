@@ -1,5 +1,4 @@
-Sirosporium diospyri (Thüm.) Deighton SPECIES
-=======
+# Sirosporium diospyri (Thüm.) Deighton SPECIES
 
 #### Status
 ACCEPTED

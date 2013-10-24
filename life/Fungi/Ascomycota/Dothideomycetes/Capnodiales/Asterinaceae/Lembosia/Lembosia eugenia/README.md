@@ -1,5 +1,4 @@
-Lembosia eugenia Rehm SPECIES
-=======
+# Lembosia eugenia Rehm SPECIES
 
 #### Status
 ACCEPTED

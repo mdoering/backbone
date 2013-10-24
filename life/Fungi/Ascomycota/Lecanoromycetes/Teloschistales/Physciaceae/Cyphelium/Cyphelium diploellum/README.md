@@ -1,5 +1,4 @@
-Cyphelium diploellum Nyl. SPECIES
-=======
+# Cyphelium diploellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

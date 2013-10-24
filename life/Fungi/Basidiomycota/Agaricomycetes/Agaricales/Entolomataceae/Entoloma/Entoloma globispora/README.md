@@ -1,5 +1,4 @@
-Entoloma globispora Morgan-Jones SPECIES
-=======
+# Entoloma globispora Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

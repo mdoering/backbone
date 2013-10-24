@@ -1,5 +1,4 @@
-Stereum repandum var. repandum (Fr.) Fr. VARIETY
-=======
+# Stereum repandum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 552 (1838)
 
 #### Original name
-Stereum repandum var. repandum (Fr.) Fr.
+Thelephora repanda Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenochaeta erysiphoides Sacc. SPECIES
-=======
+# Pyrenochaeta erysiphoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

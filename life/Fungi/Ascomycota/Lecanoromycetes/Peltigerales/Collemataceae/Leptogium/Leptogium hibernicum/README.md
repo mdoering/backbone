@@ -1,5 +1,4 @@
-Leptogium hibernicum M. E. Mitch. ex P. M. Jørg. SPECIES
-=======
+# Leptogium hibernicum M. E. Mitch. ex P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

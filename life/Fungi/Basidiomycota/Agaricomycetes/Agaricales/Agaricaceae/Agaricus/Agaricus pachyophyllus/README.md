@@ -1,5 +1,4 @@
-Agaricus pachyophyllus Fr. SPECIES
-=======
+# Agaricus pachyophyllus Fr. SPECIES
 
 #### Status
 ACCEPTED

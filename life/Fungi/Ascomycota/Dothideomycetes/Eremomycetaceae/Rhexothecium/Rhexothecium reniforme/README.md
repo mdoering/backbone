@@ -1,5 +1,4 @@
-Rhexothecium reniforme ined. SPECIES
-=======
+# Rhexothecium reniforme ined. SPECIES
 
 #### Status
 ACCEPTED

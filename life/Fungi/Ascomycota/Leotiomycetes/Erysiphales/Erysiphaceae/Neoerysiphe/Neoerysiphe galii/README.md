@@ -1,17 +1,16 @@
-Erysiphe galii var. galii VARIETY
-=======
+# Neoerysiphe galii (S. Blumer) U. Braun, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 7(no. 1): 283 (1933)
+Schlechtendalia 3: 50 (1999)
 
 #### Original name
-Erysiphe galii var. galii
+Erysiphe galii S. Blumer, 1933
 
 ### Remarks
 null

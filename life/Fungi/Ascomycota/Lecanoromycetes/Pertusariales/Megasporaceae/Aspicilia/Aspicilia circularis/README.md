@@ -1,5 +1,4 @@
-Aspicilia circularis (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia circularis (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

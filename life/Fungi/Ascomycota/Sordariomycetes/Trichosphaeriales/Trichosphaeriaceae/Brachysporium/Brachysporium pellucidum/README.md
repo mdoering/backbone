@@ -1,5 +1,4 @@
-Brachysporium pellucidum (Kunze) Sacc. SPECIES
-=======
+# Brachysporium pellucidum (Kunze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Kerona wetzeli Wenzel, 1953 SPECIES
-=======
+# Parakeronopsis wetzeli (Wenzel, 1953) Shi, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Rosellinia epileuca (Berk.) Cooke SPECIES
-=======
+# Rosellinia epileuca (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

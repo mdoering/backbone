@@ -1,5 +1,4 @@
-Rhaphidophora montagneana Delacr. SPECIES
-=======
+# Rhaphidophora montagneana Delacr. SPECIES
 
 #### Status
 ACCEPTED

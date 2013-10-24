@@ -1,5 +1,4 @@
-Tyromyces exiguus (Colenso) G. Cunn. SPECIES
-=======
+# Tyromyces exiguus (Colenso) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

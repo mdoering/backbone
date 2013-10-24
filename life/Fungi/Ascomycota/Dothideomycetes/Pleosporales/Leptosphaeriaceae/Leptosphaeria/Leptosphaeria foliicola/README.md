@@ -1,5 +1,4 @@
-Leptosphaeria foliicola Naumov {?} SPECIES
-=======
+# Leptosphaeria foliicola Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

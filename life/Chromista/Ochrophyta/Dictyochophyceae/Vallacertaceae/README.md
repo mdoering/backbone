@@ -1,5 +1,4 @@
-Vallacertaceae FAMILY
-=======
+# Vallacertaceae FAMILY
 
 #### Status
 ACCEPTED

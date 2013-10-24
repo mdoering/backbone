@@ -1,17 +1,16 @@
-Biatora cyclisca A. Massal. SPECIES
-=======
+# Clauzadea metzleri (Körb.) Clauzade & Cl. Roux ex D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symmict. Lich. 40 (1855)
+Lichenologist 24(4): 367 (1992)
 
 #### Original name
-Biatora cyclisca A. Massal.
+Biatora metzleri Körb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerospora scutelloides (Torrend) Sacc. SPECIES
-=======
+# Sphaerospora scutelloides (Torrend) Sacc. SPECIES
 
 #### Status
 ACCEPTED

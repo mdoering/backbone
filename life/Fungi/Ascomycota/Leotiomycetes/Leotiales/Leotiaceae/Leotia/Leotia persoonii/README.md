@@ -1,5 +1,4 @@
-Leotia persoonii (Corda) Sacc. SPECIES
-=======
+# Leotia persoonii (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

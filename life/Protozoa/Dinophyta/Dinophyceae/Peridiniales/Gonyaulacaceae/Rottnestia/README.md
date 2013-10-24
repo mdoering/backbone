@@ -1,5 +1,4 @@
-Rottnestia I.C. Cookson & A. Eisenack, 1961 GENUS
-=======
+# Rottnestia I.C. Cookson & A. Eisenack, 1961 GENUS
 
 #### Status
 ACCEPTED

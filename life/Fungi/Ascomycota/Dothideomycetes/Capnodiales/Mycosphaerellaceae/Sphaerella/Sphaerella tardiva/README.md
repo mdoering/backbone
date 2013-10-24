@@ -1,5 +1,4 @@
-Sphaerella tardiva (Syd.) Sacc. SPECIES
-=======
+# Sphaerella tardiva (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria diplocarpa Ellis & Everh. SPECIES
-=======
+# Nectria diplocarpa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

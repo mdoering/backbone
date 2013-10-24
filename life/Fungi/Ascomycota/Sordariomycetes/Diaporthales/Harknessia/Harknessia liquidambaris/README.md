@@ -1,5 +1,4 @@
-Harknessia liquidambaris (Berk. & M.A. Curtis) Nag Raj & DiCosmo SPECIES
-=======
+# Harknessia liquidambaris (Berk. & M.A. Curtis) Nag Raj & DiCosmo SPECIES
 
 #### Status
 ACCEPTED

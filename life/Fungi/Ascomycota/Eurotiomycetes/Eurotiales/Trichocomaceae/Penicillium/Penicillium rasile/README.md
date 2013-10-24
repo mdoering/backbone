@@ -1,17 +1,16 @@
-Eupenicillium ludwigii Udagawa, 1969 SPECIES
-=======
+# Penicillium rasile Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 10(1): 2 (1969)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 120 (1980)
 
 #### Original name
-Eupenicillium ludwigii Udagawa, 1969
+Penicillium rasile Pitt, 1980
 
 ### Remarks
 null

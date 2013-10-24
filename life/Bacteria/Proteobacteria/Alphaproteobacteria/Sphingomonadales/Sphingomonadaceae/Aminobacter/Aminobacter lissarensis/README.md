@@ -1,5 +1,4 @@
-Aminobacter lissarensis McDonald et al., 2005 SPECIES
-=======
+# Aminobacter lissarensis McDonald et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

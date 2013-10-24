@@ -1,17 +1,16 @@
-Cladonia rangiferina var. crispatula (Nyl.) Kremp. VARIETY
-=======
+# Cladonia crispatula (Nyl.) Ahti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 9(1): 14 (1977)
 
 #### Original name
-null
+Heppia crispatula Nyl.
 
 ### Remarks
 null

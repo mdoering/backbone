@@ -1,5 +1,4 @@
-Microsphaera lonicerae-ramosissimae Tanda SPECIES
-=======
+# Microsphaera lonicerae-ramosissimae Tanda SPECIES
 
 #### Status
 ACCEPTED

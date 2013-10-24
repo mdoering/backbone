@@ -1,5 +1,4 @@
-Fusisporium filisporum Cooke SPECIES
-=======
+# Fusisporium filisporum Cooke SPECIES
 
 #### Status
 ACCEPTED

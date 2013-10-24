@@ -1,5 +1,4 @@
-Micropuccinia actinellae (Webber) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia actinellae (Webber) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema canarense Patw. & C. R. Kulk. SPECIES
-=======
+# Thelotrema canarense Patw. & C. R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon antarcticum Vain. SPECIES
-=======
+# Stereocaulon antarcticum Vain. SPECIES
 
 #### Status
 ACCEPTED

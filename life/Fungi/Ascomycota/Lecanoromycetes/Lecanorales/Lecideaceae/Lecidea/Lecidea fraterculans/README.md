@@ -1,5 +1,4 @@
-Lecidea fraterculans Nyl. SPECIES
-=======
+# Lecidea fraterculans Nyl. SPECIES
 
 #### Status
 ACCEPTED

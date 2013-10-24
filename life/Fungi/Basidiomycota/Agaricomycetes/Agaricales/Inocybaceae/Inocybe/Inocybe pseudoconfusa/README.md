@@ -1,5 +1,4 @@
-Inocybe pseudoconfusa Métrod SPECIES
-=======
+# Inocybe pseudoconfusa Métrod SPECIES
 
 #### Status
 ACCEPTED

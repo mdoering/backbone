@@ -1,5 +1,4 @@
-Cladonia magnussonii Ahti SPECIES
-=======
+# Cladonia magnussonii Ahti SPECIES
 
 #### Status
 ACCEPTED

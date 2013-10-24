@@ -1,5 +1,4 @@
-Macrophoma eucalyptorum Turconi SPECIES
-=======
+# Macrophoma eucalyptorum Turconi SPECIES
 
 #### Status
 ACCEPTED

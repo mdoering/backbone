@@ -1,5 +1,4 @@
-Botrytis polyactis Link SPECIES
-=======
+# Botrytis polyactis Link SPECIES
 
 #### Status
 ACCEPTED

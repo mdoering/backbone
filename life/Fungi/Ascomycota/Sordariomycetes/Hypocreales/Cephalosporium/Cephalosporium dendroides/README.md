@@ -1,5 +1,4 @@
-Cephalosporium dendroides Ellis & Kellerm. SPECIES
-=======
+# Cephalosporium dendroides Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeronaemina Höhn. GENUS
-=======
+# Sphaeronaema E.M. Fries, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hedwigia 59: 274 (1917)
+null
 
 #### Original name
-Sphaeronaemina Höhn.
+null
 
 ### Remarks
 null

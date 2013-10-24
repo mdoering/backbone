@@ -1,5 +1,4 @@
-Coniothyrium popuschoji Frolov SPECIES
-=======
+# Coniothyrium popuschoji Frolov SPECIES
 
 #### Status
 ACCEPTED

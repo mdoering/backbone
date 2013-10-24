@@ -1,5 +1,4 @@
-Xylaria opulenta Bat. & A.F. Vital SPECIES
-=======
+# Xylaria opulenta Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

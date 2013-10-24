@@ -1,5 +1,4 @@
-Linospora prunellae Ellis & Everh. SPECIES
-=======
+# Linospora prunellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

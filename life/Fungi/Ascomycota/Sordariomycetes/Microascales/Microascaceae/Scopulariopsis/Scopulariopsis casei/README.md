@@ -1,5 +1,4 @@
-Scopulariopsis casei Loubière SPECIES
-=======
+# Scopulariopsis casei Loubière SPECIES
 
 #### Status
 ACCEPTED

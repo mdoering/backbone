@@ -1,5 +1,4 @@
-Paraurostyla terricola Buitkamp, 1977 SPECIES
-=======
+# Paraurostyla terricola Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Synalissina Nyl. GENUS
-=======
+# Lempholemma Körber, 1855 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Hue, Rev. Bot. Bull. Mens. 4: 349 (1885)
+null
 
 #### Original name
-Synalissina Nyl.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Saccharobacter Yaping et al., 1990 GENUS
-=======
+# Saccharobacter Yaping et al., 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria curcuma Berk. & M.A. Curtis SPECIES
-=======
+# Naucoria curcuma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

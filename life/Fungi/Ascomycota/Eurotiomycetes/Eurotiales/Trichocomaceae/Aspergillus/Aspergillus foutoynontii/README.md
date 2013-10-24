@@ -1,8 +1,7 @@
-Aspergillus foutoynonti Guég. SPECIES
-=======
+# Aspergillus foutoynontii Guég. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspergillus foutoynonti Guég.
+Aspergillus foutoynontii Guég.
 
 ### Remarks
 null

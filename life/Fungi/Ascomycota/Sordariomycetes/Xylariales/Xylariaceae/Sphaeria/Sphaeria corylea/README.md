@@ -1,5 +1,4 @@
-Sphaeria corylea Pers. SPECIES
-=======
+# Sphaeria corylea Pers. SPECIES
 
 #### Status
 ACCEPTED

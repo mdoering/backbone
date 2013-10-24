@@ -1,5 +1,4 @@
-Placopyrenium insuetum Breuss SPECIES
-=======
+# Placopyrenium insuetum Breuss SPECIES
 
 #### Status
 ACCEPTED

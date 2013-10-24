@@ -1,5 +1,4 @@
-Stictis crassispora Speg. SPECIES
-=======
+# Stictis crassispora Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium botryoidellum Cif. SPECIES
-=======
+# Macrosporium botryoidellum Cif. SPECIES
 
 #### Status
 ACCEPTED

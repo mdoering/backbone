@@ -1,5 +1,4 @@
-Usnea contexta subsp. contexta SUBSPECIES
-=======
+# Usnea contexta Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Usnea 2: 436 (1937)
 
 #### Original name
-Usnea contexta subsp. contexta
+Usnea contexta Motyka
 
 ### Remarks
 null

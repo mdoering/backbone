@@ -1,5 +1,4 @@
-Ramalina ceratea Werner SPECIES
-=======
+# Ramalina ceratea Werner SPECIES
 
 #### Status
 ACCEPTED

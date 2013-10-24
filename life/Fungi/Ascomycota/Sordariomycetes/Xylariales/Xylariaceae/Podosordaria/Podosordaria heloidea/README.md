@@ -1,5 +1,4 @@
-Podosordaria heloidea (Penz. & Sacc.) P.M.D. Martin SPECIES
-=======
+# Podosordaria heloidea (Penz. & Sacc.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

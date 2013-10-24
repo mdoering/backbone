@@ -1,14 +1,13 @@
-Torulopsis haemulonis Uden & Kolip., 1962 SPECIES
-=======
+# Candida haemulonis (Uden & Kolip.) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leeuwenhoek ned. Tidjdschr. 28: 78 (1962)
+in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 612 (1978)
 
 #### Original name
 Torulopsis haemulonis Uden & Kolip., 1962

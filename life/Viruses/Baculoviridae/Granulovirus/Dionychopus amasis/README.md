@@ -1,5 +1,4 @@
-Dionychopus amasis GV SPECIES
-=======
+# Dionychopus amasis GV SPECIES
 
 #### Status
 ACCEPTED

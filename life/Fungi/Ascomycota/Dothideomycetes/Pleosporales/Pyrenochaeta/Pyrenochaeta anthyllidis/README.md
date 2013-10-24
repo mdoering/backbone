@@ -1,5 +1,4 @@
-Pyrenochaeta anthyllidis Manoliu & Mítítíuc SPECIES
-=======
+# Pyrenochaeta anthyllidis Manoliu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

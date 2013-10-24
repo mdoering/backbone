@@ -1,5 +1,4 @@
-Phaeocalicium pinaceum Titov SPECIES
-=======
+# Phaeocalicium pinaceum Titov SPECIES
 
 #### Status
 ACCEPTED

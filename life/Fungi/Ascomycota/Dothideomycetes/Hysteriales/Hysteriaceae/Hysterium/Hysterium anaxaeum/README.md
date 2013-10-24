@@ -1,5 +1,4 @@
-Hysterium anaxaeum (Sacc. & D. Sacc.) Höhn. SPECIES
-=======
+# Hysterium anaxaeum (Sacc. & D. Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

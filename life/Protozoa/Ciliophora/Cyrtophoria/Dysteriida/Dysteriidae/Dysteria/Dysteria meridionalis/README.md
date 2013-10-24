@@ -1,5 +1,4 @@
-Dysteria meridionalis Dragesco, 1966 SPECIES
-=======
+# Dysteria meridionalis Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

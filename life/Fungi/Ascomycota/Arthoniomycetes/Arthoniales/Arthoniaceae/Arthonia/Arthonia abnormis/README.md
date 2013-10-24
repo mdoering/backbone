@@ -1,5 +1,4 @@
-Arthonia abnormis (Ach.) Nyl. SPECIES
-=======
+# Arthonia abnormis (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma mutabile (J. Schröt.) Kuntze SPECIES
-=======
+# Diderma mutabile (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

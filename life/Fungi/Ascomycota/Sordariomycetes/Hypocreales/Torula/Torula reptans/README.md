@@ -1,5 +1,4 @@
-Torula reptans Corda SPECIES
-=======
+# Torula reptans Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusisporella vexans Syd. SPECIES
-=======
+# Fusisporella vexans Syd. SPECIES
 
 #### Status
 ACCEPTED

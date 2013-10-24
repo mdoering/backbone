@@ -1,5 +1,4 @@
-Treponema azotonutricium Graber et al., 2004 SPECIES
-=======
+# Treponema azotonutricium Graber et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

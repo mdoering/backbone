@@ -1,17 +1,16 @@
-Gymnascaceae FAMILY
-=======
+# Gymnoascaceae Baran. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 30: 158 (1872)
 
 #### Original name
-null
+Gymnoascaceae Baran.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllostictella frangulae Unamuno SPECIES
-=======
+# Phyllostictella frangulae Unamuno SPECIES
 
 #### Status
 ACCEPTED

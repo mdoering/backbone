@@ -1,5 +1,4 @@
-Hypoxylon megannulatum Talig. & Whalley SPECIES
-=======
+# Hypoxylon megannulatum Talig. & Whalley SPECIES
 
 #### Status
 ACCEPTED

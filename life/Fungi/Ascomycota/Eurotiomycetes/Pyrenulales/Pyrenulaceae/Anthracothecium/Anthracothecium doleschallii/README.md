@@ -1,5 +1,4 @@
-Anthracothecium doleschallii A. Massal. SPECIES
-=======
+# Anthracothecium doleschallii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

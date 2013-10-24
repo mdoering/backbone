@@ -1,5 +1,4 @@
-Podolampas elegans Schutt SPECIES
-=======
+# Podolampas elegans Schutt SPECIES
 
 #### Status
 ACCEPTED

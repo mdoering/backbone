@@ -1,5 +1,4 @@
-Coniothyrium hypoglossi Mutts {?} SPECIES
-=======
+# Coniothyrium hypoglossi Mutts {?} SPECIES
 
 #### Status
 ACCEPTED

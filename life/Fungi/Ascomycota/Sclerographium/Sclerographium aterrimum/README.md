@@ -1,5 +1,4 @@
-Sclerographium aterrimum Berk., 1854 SPECIES
-=======
+# Sclerographium aterrimum Berk., 1854 SPECIES
 
 #### Status
 ACCEPTED

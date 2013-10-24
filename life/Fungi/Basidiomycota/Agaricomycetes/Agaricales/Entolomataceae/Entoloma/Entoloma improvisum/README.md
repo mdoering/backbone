@@ -1,5 +1,4 @@
-Entoloma improvisum E. Horak, 2008 SPECIES
-=======
+# Entoloma improvisum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

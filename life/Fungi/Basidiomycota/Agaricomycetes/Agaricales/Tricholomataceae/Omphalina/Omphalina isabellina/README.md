@@ -1,5 +1,4 @@
-Omphalina isabellina A.H. Sm. & D.E. Stuntz SPECIES
-=======
+# Omphalina isabellina A.H. Sm. & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

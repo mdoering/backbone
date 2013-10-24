@@ -1,5 +1,4 @@
-Graphis tonkinensis Müll. Arg. SPECIES
-=======
+# Graphis tonkinensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

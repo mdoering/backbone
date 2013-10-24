@@ -1,5 +1,4 @@
-Pseudorhodobacter incheonensis Lee, Kwon, Lee, Cho & Lee, 2005 SPECIES
-=======
+# Pseudorhodobacter incheonensis Lee, Kwon, Lee, Cho & Lee, 2005 SPECIES
 
 #### Status
 ACCEPTED

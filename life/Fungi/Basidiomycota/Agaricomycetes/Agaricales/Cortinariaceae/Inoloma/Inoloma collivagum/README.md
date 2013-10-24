@@ -1,5 +1,4 @@
-Inoloma collivagum Velen. SPECIES
-=======
+# Inoloma collivagum Velen. SPECIES
 
 #### Status
 ACCEPTED

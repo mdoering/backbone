@@ -1,5 +1,4 @@
-Diplodiella xylogena Sacc. SPECIES
-=======
+# Diplodiella xylogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

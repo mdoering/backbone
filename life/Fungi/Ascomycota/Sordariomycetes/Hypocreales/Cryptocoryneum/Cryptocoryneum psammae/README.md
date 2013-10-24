@@ -1,5 +1,4 @@
-Cryptocoryneum psammae Oudem. SPECIES
-=======
+# Cryptocoryneum psammae Oudem. SPECIES
 
 #### Status
 ACCEPTED

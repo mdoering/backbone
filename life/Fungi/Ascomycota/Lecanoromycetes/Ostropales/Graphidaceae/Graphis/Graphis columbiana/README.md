@@ -1,5 +1,4 @@
-Graphis columbiana (Nyl.) Vain. SPECIES
-=======
+# Graphis columbiana (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

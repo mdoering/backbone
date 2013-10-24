@@ -1,5 +1,4 @@
-Fusarium gallinaceum Cooke & Harkn. SPECIES
-=======
+# Fusarium gallinaceum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

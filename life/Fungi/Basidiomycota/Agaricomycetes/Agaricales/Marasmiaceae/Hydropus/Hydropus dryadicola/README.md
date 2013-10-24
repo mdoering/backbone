@@ -1,5 +1,4 @@
-Hydropus dryadicola (Kühner) E. Horak SPECIES
-=======
+# Hydropus dryadicola (Kühner) E. Horak SPECIES
 
 #### Status
 ACCEPTED

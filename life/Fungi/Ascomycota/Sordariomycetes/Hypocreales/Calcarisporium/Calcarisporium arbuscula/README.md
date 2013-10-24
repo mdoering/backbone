@@ -1,17 +1,16 @@
-Calcarisporium antibioticum Haller & Loeffler, 1969 SPECIES
-=======
+# Calcarisporium arbuscula Preuss, 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 65: 184 (1969)
+Linnaea 24: 124 (1851)
 
 #### Original name
-Calcarisporium antibioticum Haller & Loeffler, 1969
+Calcarisporium arbuscula Preuss, 1851
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Agaricus rubromarginatus var. rubromarginatus VARIETY
-=======
+# Mycena rubromarginata (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 1: 42 (1815)
+Führ. Pilzk. (Zwickau) 109 (1871)
 
 #### Original name
-Agaricus rubromarginatus var. rubromarginatus
+Agaricus rubromarginatus Fr., 1815
 
 ### Remarks
 null

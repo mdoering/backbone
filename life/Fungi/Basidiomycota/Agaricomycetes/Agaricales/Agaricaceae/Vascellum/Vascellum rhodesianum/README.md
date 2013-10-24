@@ -1,5 +1,4 @@
-Vascellum rhodesianum (Verwoerd) P. Ponce de León SPECIES
-=======
+# Vascellum rhodesianum (Verwoerd) P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

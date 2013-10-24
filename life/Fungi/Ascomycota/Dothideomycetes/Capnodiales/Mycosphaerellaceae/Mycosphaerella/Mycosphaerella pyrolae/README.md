@@ -1,14 +1,13 @@
-Phoma pyrolae (Ehrenb.) Rostr., 1888 SPECIES
-=======
+# Mycosphaerella pyrolae (Ehrenb.) Lind, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddr Grønland, Biosc. 3: 569 (1888)
+Report Sci. Res. Norweg. Exped. Novaya Zemlya, 1921 19: 12 (1924)
 
 #### Original name
 Sphaeria pyrolae Ehrenb., 1818

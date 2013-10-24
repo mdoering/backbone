@@ -1,5 +1,4 @@
-Entoloma melleipes (Murrill) Hesler SPECIES
-=======
+# Entoloma melleipes (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia broussonetiae Sacc. SPECIES
-=======
+# Diplodia broussonetiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

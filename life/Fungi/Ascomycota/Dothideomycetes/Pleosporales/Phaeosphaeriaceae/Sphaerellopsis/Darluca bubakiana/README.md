@@ -1,5 +1,4 @@
-Darluca bubakiana Kabát SPECIES
-=======
+# Darluca bubakiana Kabát SPECIES
 
 #### Status
 ACCEPTED

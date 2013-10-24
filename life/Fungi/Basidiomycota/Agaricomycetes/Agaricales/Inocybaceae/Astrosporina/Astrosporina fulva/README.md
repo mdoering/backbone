@@ -1,5 +1,4 @@
-Astrosporina fulva Rea SPECIES
-=======
+# Astrosporina fulva Rea SPECIES
 
 #### Status
 ACCEPTED

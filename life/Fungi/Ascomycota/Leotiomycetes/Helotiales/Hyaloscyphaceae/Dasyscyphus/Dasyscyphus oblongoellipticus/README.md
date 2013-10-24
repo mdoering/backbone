@@ -1,17 +1,16 @@
-Dasyscypha oblongoellipticus A.K. Kar & K.P. Pal SPECIES
-=======
+# Dasyscyphus oblongoellipticus A.K. Kar & K.P. Pal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 62(4): 683 (1970)
 
 #### Original name
-Dasyscypha oblongoellipticus A.K. Kar & K.P. Pal
+Dasyscyphus oblongoellipticus A.K. Kar & K.P. Pal
 
 ### Remarks
 null

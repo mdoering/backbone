@@ -1,5 +1,4 @@
-Russula praetermissa Reumaux SPECIES
-=======
+# Russula praetermissa Reumaux SPECIES
 
 #### Status
 ACCEPTED

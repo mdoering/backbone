@@ -1,5 +1,4 @@
-Tyromyces levis Corner, 1989 SPECIES
-=======
+# Tyromyces levis Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

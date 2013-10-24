@@ -1,5 +1,4 @@
-Opegrapha stirtonii Zahlbr. SPECIES
-=======
+# Opegrapha stirtonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

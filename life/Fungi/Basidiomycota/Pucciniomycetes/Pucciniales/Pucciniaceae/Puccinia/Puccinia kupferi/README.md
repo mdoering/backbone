@@ -1,5 +1,4 @@
-Puccinia kupferi Mayor SPECIES
-=======
+# Puccinia kupferi Mayor SPECIES
 
 #### Status
 ACCEPTED

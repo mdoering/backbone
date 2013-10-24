@@ -1,5 +1,4 @@
-Arthothelium aleurodes (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium aleurodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

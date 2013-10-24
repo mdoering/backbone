@@ -1,5 +1,4 @@
-Phyllosticta lantanae F. Stevens SPECIES
-=======
+# Phyllosticta lantanae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopsora tournefortiae Lagerh., 1891 SPECIES
-=======
+# Trichopsora tournefortiae Lagerh., 1891 SPECIES
 
 #### Status
 ACCEPTED

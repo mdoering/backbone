@@ -1,5 +1,4 @@
-Cyathicula littorea De Not. SPECIES
-=======
+# Cyathicula littorea De Not. SPECIES
 
 #### Status
 ACCEPTED

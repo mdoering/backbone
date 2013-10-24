@@ -1,5 +1,4 @@
-Aspicilia trunciseda (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia trunciseda (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

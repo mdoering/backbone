@@ -1,8 +1,7 @@
-Aureobacterium resistens Funke et al., 1998 SPECIES
-=======
+# Microbacterium resistens (Funke et al., 1998) Behrendt et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

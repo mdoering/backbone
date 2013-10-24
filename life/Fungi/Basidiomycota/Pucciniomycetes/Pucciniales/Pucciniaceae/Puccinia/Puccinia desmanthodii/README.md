@@ -1,5 +1,4 @@
-Puccinia desmanthodii Dietel & Holw. SPECIES
-=======
+# Puccinia desmanthodii Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

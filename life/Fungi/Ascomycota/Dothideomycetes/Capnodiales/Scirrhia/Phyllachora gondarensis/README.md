@@ -1,5 +1,4 @@
-Phyllachora gondarensis Ciccar., 1951 SPECIES
-=======
+# Phyllachora gondarensis Ciccar., 1951 SPECIES
 
 #### Status
 DOUBTFUL

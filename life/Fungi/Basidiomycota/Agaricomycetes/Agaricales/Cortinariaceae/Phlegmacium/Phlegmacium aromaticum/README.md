@@ -1,5 +1,4 @@
-Phlegmacium aromaticum Velen. SPECIES
-=======
+# Phlegmacium aromaticum Velen. SPECIES
 
 #### Status
 ACCEPTED

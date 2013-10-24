@@ -1,5 +1,4 @@
-Protomyces concomitans Berk. SPECIES
-=======
+# Protomyces concomitans Berk. SPECIES
 
 #### Status
 ACCEPTED

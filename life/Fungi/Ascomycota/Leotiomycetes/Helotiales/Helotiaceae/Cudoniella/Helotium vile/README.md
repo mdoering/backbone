@@ -1,5 +1,4 @@
-Helotium vile Rick SPECIES
-=======
+# Helotium vile Rick SPECIES
 
 #### Status
 ACCEPTED

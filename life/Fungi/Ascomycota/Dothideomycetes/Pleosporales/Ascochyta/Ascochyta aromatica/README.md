@@ -1,5 +1,4 @@
-Ascochyta aromatica Kabát & Bubák SPECIES
-=======
+# Ascochyta aromatica Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe subdiscolor Murrill SPECIES
-=======
+# Clitocybe subdiscolor Murrill SPECIES
 
 #### Status
 ACCEPTED

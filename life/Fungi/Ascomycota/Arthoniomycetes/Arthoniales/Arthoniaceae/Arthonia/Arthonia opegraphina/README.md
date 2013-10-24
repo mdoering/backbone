@@ -1,5 +1,4 @@
-Arthonia opegraphina Lücking SPECIES
-=======
+# Arthonia opegraphina Lücking SPECIES
 
 #### Status
 ACCEPTED

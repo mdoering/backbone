@@ -1,5 +1,4 @@
-Cenangium punctoideum (Cooke) Sacc. SPECIES
-=======
+# Cenangium punctoideum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium disjunctum (Arnold) Servít SPECIES
-=======
+# Thelidium disjunctum (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

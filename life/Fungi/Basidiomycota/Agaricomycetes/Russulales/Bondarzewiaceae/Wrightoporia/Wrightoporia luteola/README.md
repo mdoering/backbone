@@ -1,5 +1,4 @@
-Wrightoporia luteola B.K. Cui & Y.C. Dai SPECIES
-=======
+# Wrightoporia luteola B.K. Cui & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

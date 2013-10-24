@@ -1,5 +1,4 @@
-Pseudoomphalina farinacea (Murrill) Singer SPECIES
-=======
+# Pseudoomphalina farinacea (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

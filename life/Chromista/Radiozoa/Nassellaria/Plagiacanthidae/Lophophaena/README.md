@@ -1,5 +1,4 @@
-Lophophaena Ehrenberg, 1847 GENUS
-=======
+# Lophophaena Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

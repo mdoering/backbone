@@ -1,5 +1,4 @@
-Thalassiosira aestivalis Gran SPECIES
-=======
+# Thalassiosira aestivalis Gran SPECIES
 
 #### Status
 ACCEPTED

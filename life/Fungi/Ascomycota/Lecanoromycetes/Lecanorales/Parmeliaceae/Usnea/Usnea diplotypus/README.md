@@ -1,5 +1,4 @@
-Usnea diplotypus Vain. SPECIES
-=======
+# Usnea diplotypus Vain. SPECIES
 
 #### Status
 ACCEPTED

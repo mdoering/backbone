@@ -1,5 +1,4 @@
-Corynespora bramleyi M.B. Ellis SPECIES
-=======
+# Corynespora bramleyi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

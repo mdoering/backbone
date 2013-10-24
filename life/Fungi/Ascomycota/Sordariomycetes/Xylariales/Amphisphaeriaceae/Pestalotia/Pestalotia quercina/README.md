@@ -1,5 +1,4 @@
-Pestalotia quercina Guba SPECIES
-=======
+# Pestalotia quercina Guba SPECIES
 
 #### Status
 ACCEPTED

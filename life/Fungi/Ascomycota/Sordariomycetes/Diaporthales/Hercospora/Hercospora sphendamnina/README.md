@@ -1,5 +1,4 @@
-Hercospora sphendamnina (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Hercospora sphendamnina (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

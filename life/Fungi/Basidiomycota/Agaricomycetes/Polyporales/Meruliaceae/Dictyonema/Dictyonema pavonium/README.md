@@ -1,5 +1,4 @@
-Dictyonema pavonium f. pavonium FORM
-=======
+# Dictyonema pavonium (Sw.) Parmasto SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 29(1-2): 103 (1977)
 
 #### Original name
 Thelephora pavonia Webber & D. Mohr

@@ -1,5 +1,4 @@
-Macrophoma brasiliensis Bat. & H. Maia SPECIES
-=======
+# Macrophoma brasiliensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago pallida J. Schröt. SPECIES
-=======
+# Ustilago pallida J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

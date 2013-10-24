@@ -1,5 +1,4 @@
-Leptonia olivaceosquamosa (Hesler) Largent SPECIES
-=======
+# Leptonia olivaceosquamosa (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

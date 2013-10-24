@@ -1,5 +1,4 @@
-Globorotalia acostaensis SPECIES
-=======
+# Globorotalia acostaensis SPECIES
 
 #### Status
 ACCEPTED

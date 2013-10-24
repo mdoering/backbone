@@ -1,5 +1,4 @@
-Hyphostereum pendulum Pat., 1892 SPECIES
-=======
+# Hyphostereum pendulum Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius chrysochaetes Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius chrysochaetes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

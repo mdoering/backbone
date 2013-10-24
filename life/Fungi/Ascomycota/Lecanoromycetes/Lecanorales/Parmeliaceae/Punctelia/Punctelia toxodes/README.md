@@ -1,5 +1,4 @@
-Punctelia toxodes (Stirt.) Kalb & M. Götz SPECIES
-=======
+# Punctelia toxodes (Stirt.) Kalb & M. Götz SPECIES
 
 #### Status
 ACCEPTED

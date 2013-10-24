@@ -1,5 +1,4 @@
-Lembosia angustiformis Tracy & Earle SPECIES
-=======
+# Lembosia angustiformis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

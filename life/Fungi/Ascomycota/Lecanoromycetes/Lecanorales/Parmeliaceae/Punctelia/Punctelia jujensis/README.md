@@ -1,5 +1,4 @@
-Punctelia jujensis Adler SPECIES
-=======
+# Punctelia jujensis Adler SPECIES
 
 #### Status
 ACCEPTED

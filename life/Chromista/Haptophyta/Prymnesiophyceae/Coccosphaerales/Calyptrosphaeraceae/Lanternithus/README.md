@@ -1,5 +1,4 @@
-Lanternithus Stradner, 1962 GENUS
-=======
+# Lanternithus Stradner, 1962 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nectria xantholeuca (Kunze) Fr., 1849 SPECIES
-=======
+# Calonectria xantholeuca (Kunze) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 388 (1849)
+Michelia 1(no. 3): 316 (1878)
 
 #### Original name
-Nectria xantholeuca (Kunze) Fr., 1849
+Sphaeria xantholeuca Kunze, 1823
 
 ### Remarks
 null

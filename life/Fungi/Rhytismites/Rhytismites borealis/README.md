@@ -1,5 +1,4 @@
-Rhytismites borealis (Heer) Mesch. SPECIES
-=======
+# Rhytismites borealis (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

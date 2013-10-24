@@ -1,5 +1,4 @@
-Phyllosticta cinchonaecola Vincens SPECIES
-=======
+# Phyllosticta cinchonaecola Vincens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eumela pannosa (Speg.) M.L. Farr SPECIES
-=======
+# Eumela pannosa (Speg.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

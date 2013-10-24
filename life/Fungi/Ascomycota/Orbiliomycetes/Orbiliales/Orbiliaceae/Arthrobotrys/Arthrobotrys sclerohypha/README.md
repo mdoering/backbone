@@ -1,5 +1,4 @@
-Arthrobotrys sclerohypha (Drechsler) S. Schenck, W.B. Kendr. & Pramer SPECIES
-=======
+# Arthrobotrys sclerohypha (Drechsler) S. Schenck, W.B. Kendr. & Pramer SPECIES
 
 #### Status
 ACCEPTED

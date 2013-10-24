@@ -1,5 +1,4 @@
-Compsocladium kalbii Frisch SPECIES
-=======
+# Compsocladium kalbii Frisch SPECIES
 
 #### Status
 ACCEPTED

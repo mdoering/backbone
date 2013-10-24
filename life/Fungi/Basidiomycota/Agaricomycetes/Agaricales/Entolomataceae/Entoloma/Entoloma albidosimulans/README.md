@@ -1,5 +1,4 @@
-Entoloma albidosimulans G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma albidosimulans G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

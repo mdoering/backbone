@@ -1,5 +1,4 @@
-Baltisphaeridium xingii Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium xingii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium nemorale Hy SPECIES
-=======
+# Leptogium nemorale Hy SPECIES
 
 #### Status
 ACCEPTED

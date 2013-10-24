@@ -1,5 +1,4 @@
-Lembosia rubiacearum G. Arnaud SPECIES
-=======
+# Lembosia rubiacearum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

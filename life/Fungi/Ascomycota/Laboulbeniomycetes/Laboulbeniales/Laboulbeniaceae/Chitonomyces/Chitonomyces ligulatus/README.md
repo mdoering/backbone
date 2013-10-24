@@ -1,5 +1,4 @@
-Chitonomyces ligulatus Thaxt. SPECIES
-=======
+# Chitonomyces ligulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulosira schauinslandii Lemmermann SPECIES
-=======
+# Aulosira schauinslandii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

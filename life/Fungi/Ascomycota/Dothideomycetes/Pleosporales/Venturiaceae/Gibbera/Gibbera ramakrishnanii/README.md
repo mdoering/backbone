@@ -1,17 +1,16 @@
-Gibbera ramakrishnani Arx SPECIES
-=======
+# Gibbera ramakrishnanii Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta bot. neerl. 3(1): 85 (1954)
 
 #### Original name
-Gibbera ramakrishnani Arx
+Achorella vaccinii T.S. Ramakr.
 
 ### Remarks
 null

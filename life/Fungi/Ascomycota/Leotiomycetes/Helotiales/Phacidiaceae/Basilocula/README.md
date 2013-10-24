@@ -1,5 +1,4 @@
-Basilocula GENUS
-=======
+# Basilocula GENUS
 
 #### Status
 ACCEPTED

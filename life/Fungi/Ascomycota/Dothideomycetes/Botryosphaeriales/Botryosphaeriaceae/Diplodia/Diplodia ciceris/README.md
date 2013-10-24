@@ -1,5 +1,4 @@
-Diplodia ciceris Schwarzman SPECIES
-=======
+# Diplodia ciceris Schwarzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum fibrillosum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum fibrillosum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symbiodiniaceae Fensome et al., 1993 FAMILY
-=======
+# Symbiodiniaceae Fensome et al., 1993 FAMILY
 
 #### Status
 ACCEPTED

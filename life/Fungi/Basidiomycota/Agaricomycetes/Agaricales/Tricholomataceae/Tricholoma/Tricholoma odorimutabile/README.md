@@ -1,5 +1,4 @@
-Tricholoma odorimutabile Corner SPECIES
-=======
+# Tricholoma odorimutabile Corner SPECIES
 
 #### Status
 ACCEPTED

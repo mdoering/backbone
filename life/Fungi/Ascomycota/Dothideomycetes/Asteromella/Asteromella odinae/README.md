@@ -1,5 +1,4 @@
-Asteromella odinae (Henn.) Aa SPECIES
-=======
+# Asteromella odinae (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

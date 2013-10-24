@@ -1,5 +1,4 @@
-Sigmoidella Cushman & Ozawa, 1928 GENUS
-=======
+# Sigmoidella Cushman & Ozawa, 1928 GENUS
 
 #### Status
 ACCEPTED

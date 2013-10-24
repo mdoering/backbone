@@ -1,5 +1,4 @@
-Caloplaca angolensis f. angolensis FORM
-=======
+# Caloplaca angolensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 95 (1971)
 
 #### Original name
-Caloplaca angolensis f. angolensis
+Callopisma cinnabarinum var. pallidius Müll. Arg.
 
 ### Remarks
 null

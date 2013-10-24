@@ -1,5 +1,4 @@
-Hymenostilbe ghanensis Samson & H.C. Evans SPECIES
-=======
+# Hymenostilbe ghanensis Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

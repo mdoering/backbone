@@ -1,5 +1,4 @@
-Ulocolla GENUS
-=======
+# Ulocolla GENUS
 
 #### Status
 ACCEPTED

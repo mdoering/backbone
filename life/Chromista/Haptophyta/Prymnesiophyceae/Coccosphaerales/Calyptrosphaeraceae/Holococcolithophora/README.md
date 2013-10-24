@@ -1,5 +1,4 @@
-Holococcolithophora L.Cros & J.R.Young, 2005 GENUS
-=======
+# Holococcolithophora L.Cros & J.R.Young, 2005 GENUS
 
 #### Status
 ACCEPTED

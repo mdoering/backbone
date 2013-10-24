@@ -1,5 +1,4 @@
-Sporites R. Potonié, 1893 GENUS
-=======
+# Sporites R. Potonié, 1893 GENUS
 
 #### Status
 ACCEPTED

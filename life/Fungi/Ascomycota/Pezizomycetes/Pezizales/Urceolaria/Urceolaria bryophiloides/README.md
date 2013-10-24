@@ -1,5 +1,4 @@
-Urceolaria bryophiloides Nyl. SPECIES
-=======
+# Urceolaria bryophiloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

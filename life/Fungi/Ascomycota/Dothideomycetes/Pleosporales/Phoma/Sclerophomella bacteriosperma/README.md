@@ -1,5 +1,4 @@
-Sclerophomella bacteriosperma (Bubák) Petr. & Syd. SPECIES
-=======
+# Sclerophomella bacteriosperma (Bubák) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

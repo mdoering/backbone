@@ -1,5 +1,4 @@
-Coniothyrium coffeae Zimm., 1902 SPECIES
-=======
+# Coniothyrium coffeae Zimm., 1902 SPECIES
 
 #### Status
 ACCEPTED

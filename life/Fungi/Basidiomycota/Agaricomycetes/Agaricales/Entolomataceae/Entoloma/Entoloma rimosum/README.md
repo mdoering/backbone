@@ -1,5 +1,4 @@
-Entoloma rimosum Hesler SPECIES
-=======
+# Entoloma rimosum Hesler SPECIES
 
 #### Status
 ACCEPTED

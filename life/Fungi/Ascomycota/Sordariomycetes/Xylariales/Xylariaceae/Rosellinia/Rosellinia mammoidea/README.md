@@ -1,14 +1,13 @@
-Psilosphaeria mammoidea Cooke, 1879 SPECIES
-=======
+# Rosellinia mammoidea (Cooke) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 46): 67 (1879)
+Syll. fung. (Abellini) 1: 263 (1882)
 
 #### Original name
 Psilosphaeria mammoidea Cooke, 1879

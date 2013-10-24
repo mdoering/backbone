@@ -1,5 +1,4 @@
-Caloplaca latzelii (Servít) Clauzade & Cl. Roux SPECIES
-=======
+# Caloplaca latzelii (Servít) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

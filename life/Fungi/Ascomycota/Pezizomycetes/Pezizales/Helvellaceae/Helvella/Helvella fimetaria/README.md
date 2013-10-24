@@ -1,5 +1,4 @@
-Helvella fimetaria Scop. SPECIES
-=======
+# Helvella fimetaria Scop. SPECIES
 
 #### Status
 ACCEPTED

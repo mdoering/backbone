@@ -1,5 +1,4 @@
-Tilletia boliviensis Liro SPECIES
-=======
+# Tilletia boliviensis Liro SPECIES
 
 #### Status
 ACCEPTED

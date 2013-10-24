@@ -1,5 +1,4 @@
-Entomophthora porteri R.S. Soper SPECIES
-=======
+# Entomophthora porteri R.S. Soper SPECIES
 
 #### Status
 ACCEPTED

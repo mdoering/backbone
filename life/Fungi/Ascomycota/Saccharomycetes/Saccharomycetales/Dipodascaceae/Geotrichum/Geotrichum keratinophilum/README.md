@@ -1,5 +1,4 @@
-Geotrichum keratinophilum Dominik & Majchr. SPECIES
-=======
+# Geotrichum keratinophilum Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

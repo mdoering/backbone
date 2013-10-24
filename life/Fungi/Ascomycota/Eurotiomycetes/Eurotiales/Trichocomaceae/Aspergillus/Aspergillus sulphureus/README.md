@@ -1,17 +1,16 @@
-Aspergillus sulphureus var. sulphureus VARIETY
-=======
+# Aspergillus sulphureus (Fresen.) Thom & Church, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 The Aspergilli 185 (1926)
 
 #### Original name
-Aspergillus sulphureus var. sulphureus
+Sterigmatocystis sulphurea Fresen., 1863
 
 ### Remarks
 null

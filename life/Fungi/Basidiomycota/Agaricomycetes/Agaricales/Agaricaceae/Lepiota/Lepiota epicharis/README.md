@@ -1,5 +1,4 @@
-Lepiota epicharis var. epicharis VARIETY
-=======
+# Lepiota epicharis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota epicharis var. epicharis
+Lepiota epicharis Berk. & Broome
 
 ### Remarks
 null

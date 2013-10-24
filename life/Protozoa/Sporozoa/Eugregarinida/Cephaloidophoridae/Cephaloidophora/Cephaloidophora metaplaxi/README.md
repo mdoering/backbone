@@ -1,8 +1,7 @@
-Steinina metaplaxi Pearse, 1932 SPECIES
-=======
+# Cephaloidophora metaplaxi (Pearse, 1932) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

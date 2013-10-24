@@ -1,5 +1,4 @@
-Dirinaria mikawensis Kashiw. SPECIES
-=======
+# Dirinaria mikawensis Kashiw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea fraudans (Th. Fr.) Stizenb. SPECIES
-=======
+# Lecidea fraudans (Th. Fr.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

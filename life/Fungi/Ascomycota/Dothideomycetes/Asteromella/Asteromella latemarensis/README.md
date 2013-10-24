@@ -1,5 +1,4 @@
-Asteromella latemarensis (Kabát & Bubák) H. Ruppr. SPECIES
-=======
+# Asteromella latemarensis (Kabát & Bubák) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria rostrata var. rostrata VARIETY
-=======
+# Xylaria rostrata (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria rostrata var. rostrata
+Thamnomyces rostratus Mont.
 
 ### Remarks
 null

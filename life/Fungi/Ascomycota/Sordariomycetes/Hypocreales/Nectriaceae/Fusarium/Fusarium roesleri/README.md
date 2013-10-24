@@ -1,5 +1,4 @@
-Fusarium roesleri Thüm. SPECIES
-=======
+# Fusarium roesleri Thüm. SPECIES
 
 #### Status
 ACCEPTED

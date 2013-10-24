@@ -1,5 +1,4 @@
-Distephanopsis soljanii (L. Jerkovic) P. Prema & T. V. Desikachary SPECIES
-=======
+# Distephanopsis soljanii (L. Jerkovic) P. Prema & T. V. Desikachary SPECIES
 
 #### Status
 ACCEPTED

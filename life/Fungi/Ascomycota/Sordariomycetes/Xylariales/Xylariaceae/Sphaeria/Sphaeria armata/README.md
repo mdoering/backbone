@@ -1,5 +1,4 @@
-Sphaeria armata Fr. SPECIES
-=======
+# Sphaeria armata Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitrapolymorphina Loeblich & Tappan, 1986 GENUS
-=======
+# Mitrapolymorphina Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

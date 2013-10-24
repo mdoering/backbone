@@ -1,5 +1,4 @@
-Daedalea schulzeri Poetsch SPECIES
-=======
+# Daedalea schulzeri Poetsch SPECIES
 
 #### Status
 ACCEPTED

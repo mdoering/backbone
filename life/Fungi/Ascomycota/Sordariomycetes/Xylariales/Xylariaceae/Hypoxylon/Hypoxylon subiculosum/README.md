@@ -1,5 +1,4 @@
-Hypoxylon subiculosum Berk. SPECIES
-=======
+# Hypoxylon subiculosum Berk. SPECIES
 
 #### Status
 ACCEPTED

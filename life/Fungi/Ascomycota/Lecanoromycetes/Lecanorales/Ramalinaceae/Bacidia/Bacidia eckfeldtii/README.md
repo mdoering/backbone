@@ -1,5 +1,4 @@
-Bacidia eckfeldtii (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia eckfeldtii (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

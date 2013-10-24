@@ -1,5 +1,4 @@
-Galerina minor Singer SPECIES
-=======
+# Galerina minor Singer SPECIES
 
 #### Status
 ACCEPTED

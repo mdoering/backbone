@@ -1,5 +1,4 @@
-Staphylococcus carnosus subsp. carnosus Schleifer & Fischer, 1982 SUBSPECIES
-=======
+# Staphylococcus carnosus Schleifer & Fischer, 1982 SPECIES
 
 #### Status
 ACCEPTED

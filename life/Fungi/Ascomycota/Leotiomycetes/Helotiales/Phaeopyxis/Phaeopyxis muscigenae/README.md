@@ -1,5 +1,4 @@
-Phaeopyxis muscigenae Alstrup & E.S. Hansen SPECIES
-=======
+# Phaeopyxis muscigenae Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

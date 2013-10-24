@@ -1,14 +1,13 @@
-Polystictus rhinocerotis (Cooke) Boedijn, 1940 SPECIES
-=======
+# Lignosus rhinocerotis (Cooke) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Buitenz 16: 390 (1940)
+Norw. Jl Bot. 19: 232 (1972)
 
 #### Original name
 Fomes rhinocerotis Cooke, 1879

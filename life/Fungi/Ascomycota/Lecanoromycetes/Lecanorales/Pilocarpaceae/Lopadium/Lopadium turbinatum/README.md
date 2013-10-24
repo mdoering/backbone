@@ -1,5 +1,4 @@
-Lopadium turbinatum (Tuck.) Zahlbr. SPECIES
-=======
+# Lopadium turbinatum (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

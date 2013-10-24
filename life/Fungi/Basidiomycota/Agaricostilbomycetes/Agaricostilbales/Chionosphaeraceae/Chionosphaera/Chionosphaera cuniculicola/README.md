@@ -1,5 +1,4 @@
-Chionosphaera cuniculicola R. Kirschner, Begerow & Oberw., 2001 SPECIES
-=======
+# Chionosphaera cuniculicola R. Kirschner, Begerow & Oberw., 2001 SPECIES
 
 #### Status
 ACCEPTED

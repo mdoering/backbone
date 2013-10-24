@@ -1,5 +1,4 @@
-Acidobacteria PHYLUM
-=======
+# Acidobacteria PHYLUM
 
 #### Status
 ACCEPTED

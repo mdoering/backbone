@@ -1,5 +1,4 @@
-Mycena meulenhoffiana var. meulenhoffiana VARIETY
-=======
+# Mycena meulenhoffiana SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena meulenhoffiana var. meulenhoffiana
+Mycena meulenhoffiana
 
 ### Remarks
 null

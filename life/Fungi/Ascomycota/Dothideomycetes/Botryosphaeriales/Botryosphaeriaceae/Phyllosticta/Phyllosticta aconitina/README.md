@@ -1,5 +1,4 @@
-Phyllosticta aconitina Petr. SPECIES
-=======
+# Phyllosticta aconitina Petr. SPECIES
 
 #### Status
 ACCEPTED

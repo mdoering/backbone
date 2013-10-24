@@ -1,5 +1,4 @@
-Peltistroma theissenii Inácio & P.F. Cannon SPECIES
-=======
+# Peltistroma theissenii Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

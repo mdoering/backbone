@@ -1,5 +1,4 @@
-Volvaria canalipes (Murrill) Murrill SPECIES
-=======
+# Volvaria canalipes (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

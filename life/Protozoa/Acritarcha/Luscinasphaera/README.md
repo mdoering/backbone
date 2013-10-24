@@ -1,5 +1,4 @@
-Luscinasphaera Wicander & Wood, 1997 GENUS
-=======
+# Luscinasphaera Wicander & Wood, 1997 GENUS
 
 #### Status
 ACCEPTED

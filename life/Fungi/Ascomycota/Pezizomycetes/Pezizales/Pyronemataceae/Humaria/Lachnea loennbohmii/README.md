@@ -1,5 +1,4 @@
-Lachnea loennbohmii P. Karst. SPECIES
-=======
+# Lachnea loennbohmii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

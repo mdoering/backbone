@@ -1,5 +1,4 @@
-Cryptarchaeodinium G.Deflandre GENUS
-=======
+# Cryptarchaeodinium G.Deflandre GENUS
 
 #### Status
 ACCEPTED

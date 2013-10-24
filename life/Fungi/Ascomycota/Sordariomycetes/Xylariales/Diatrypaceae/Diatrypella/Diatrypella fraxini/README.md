@@ -1,5 +1,4 @@
-Diatrypella fraxini Ellis & Everh. SPECIES
-=======
+# Diatrypella fraxini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

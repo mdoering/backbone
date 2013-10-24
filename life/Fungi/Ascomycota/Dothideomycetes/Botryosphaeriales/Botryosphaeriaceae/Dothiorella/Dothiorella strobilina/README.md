@@ -1,5 +1,4 @@
-Dothiorella strobilina (Lib.) Sacc. SPECIES
-=======
+# Dothiorella strobilina (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

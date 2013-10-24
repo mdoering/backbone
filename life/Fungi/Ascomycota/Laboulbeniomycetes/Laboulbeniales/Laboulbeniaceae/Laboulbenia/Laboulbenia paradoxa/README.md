@@ -1,5 +1,4 @@
-Laboulbenia paradoxa Speg. SPECIES
-=======
+# Laboulbenia paradoxa Speg. SPECIES
 
 #### Status
 ACCEPTED

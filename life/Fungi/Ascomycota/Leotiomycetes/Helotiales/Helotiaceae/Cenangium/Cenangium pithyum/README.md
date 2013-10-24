@@ -1,5 +1,4 @@
-Cenangium pithyum (Fr.) Fr. SPECIES
-=======
+# Cenangium pithyum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha angustata Mont. SPECIES
-=======
+# Opegrapha angustata Mont. SPECIES
 
 #### Status
 ACCEPTED

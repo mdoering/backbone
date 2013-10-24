@@ -1,5 +1,4 @@
-Porina cataractarum Aptroot & Sipman SPECIES
-=======
+# Porina cataractarum Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

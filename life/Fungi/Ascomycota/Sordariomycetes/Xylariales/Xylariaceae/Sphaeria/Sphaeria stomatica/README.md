@@ -1,5 +1,4 @@
-Sphaeria stomatica Schwein. SPECIES
-=======
+# Sphaeria stomatica Schwein. SPECIES
 
 #### Status
 ACCEPTED

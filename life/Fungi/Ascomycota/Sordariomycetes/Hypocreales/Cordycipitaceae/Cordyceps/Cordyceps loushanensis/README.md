@@ -1,5 +1,4 @@
-Cordyceps loushanensis Z.Q. Liang & A.Y. Liu, 1997 SPECIES
-=======
+# Cordyceps loushanensis Z.Q. Liang & A.Y. Liu, 1997 SPECIES
 
 #### Status
 ACCEPTED

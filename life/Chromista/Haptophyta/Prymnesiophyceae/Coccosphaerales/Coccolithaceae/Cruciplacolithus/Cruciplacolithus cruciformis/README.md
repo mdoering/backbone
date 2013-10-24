@@ -1,5 +1,4 @@
-Cruciplacolithus cruciformis (Hay & Towe, 1962) Roth, 1970 SPECIES
-=======
+# Cruciplacolithus cruciformis (Hay & Towe, 1962) Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

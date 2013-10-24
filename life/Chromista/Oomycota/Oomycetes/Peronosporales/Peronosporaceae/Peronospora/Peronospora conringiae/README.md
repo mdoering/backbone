@@ -1,5 +1,4 @@
-Peronospora conringiae Gäum. SPECIES
-=======
+# Peronospora conringiae Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oothecium indicum Chaudhuri & Nath {?} SPECIES
-=======
+# Oothecium indicum Chaudhuri & Nath {?} SPECIES
 
 #### Status
 ACCEPTED

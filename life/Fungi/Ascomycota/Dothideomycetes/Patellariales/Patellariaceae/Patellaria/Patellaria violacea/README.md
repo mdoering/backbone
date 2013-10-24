@@ -1,5 +1,4 @@
-Patellaria violacea Berk. & Broome SPECIES
-=======
+# Patellaria violacea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

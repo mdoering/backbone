@@ -1,5 +1,4 @@
-Lecidea dissipata H. Magn. SPECIES
-=======
+# Lecidea dissipata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

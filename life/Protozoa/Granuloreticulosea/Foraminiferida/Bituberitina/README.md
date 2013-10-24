@@ -1,5 +1,4 @@
-Bituberitina Miklukho-Maklai, 1965 GENUS
-=======
+# Bituberitina Miklukho-Maklai, 1965 GENUS
 
 #### Status
 ACCEPTED

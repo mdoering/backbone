@@ -1,17 +1,16 @@
-Collybia dryophila var. extuberans (Fr.) P. Roux, 2008 VARIETY
-=======
+# Gymnopus ocior (Pers.) Antonín & Noordel., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Antonín, Halling & Noordeloos, Mycotaxon 63: 365 (1997)
 
 #### Original name
-null
+Agaricus ocior Pers., 1828
 
 ### Remarks
 null

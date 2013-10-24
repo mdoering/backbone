@@ -1,5 +1,4 @@
-Phoma zehntneri Koord. SPECIES
-=======
+# Phoma zehntneri Koord. SPECIES
 
 #### Status
 ACCEPTED

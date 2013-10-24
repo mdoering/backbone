@@ -1,5 +1,4 @@
-Gloeosporium marantaceae Rangel SPECIES
-=======
+# Gloeosporium marantaceae Rangel SPECIES
 
 #### Status
 ACCEPTED

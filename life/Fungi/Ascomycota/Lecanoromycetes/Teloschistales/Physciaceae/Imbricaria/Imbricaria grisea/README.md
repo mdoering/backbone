@@ -1,5 +1,4 @@
-Imbricaria grisea SPECIES
-=======
+# Imbricaria grisea SPECIES
 
 #### Status
 ACCEPTED

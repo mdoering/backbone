@@ -1,5 +1,4 @@
-Polycephalum subaurantiacum Peck SPECIES
-=======
+# Polycephalum subaurantiacum Peck SPECIES
 
 #### Status
 ACCEPTED

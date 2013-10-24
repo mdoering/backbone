@@ -1,5 +1,4 @@
-Gloeophyllum trabeiformis Murrill SPECIES
-=======
+# Gloeophyllum trabeiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

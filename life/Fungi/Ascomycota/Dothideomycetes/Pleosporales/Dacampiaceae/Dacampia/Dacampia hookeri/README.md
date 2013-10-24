@@ -1,14 +1,13 @@
-Pleospora hookeri (Borrer) Keissl. SPECIES
-=======
+# Dacampia hookeri (Borrer) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Report Sci. Res. Norweg. Exped. Novaya Zemlya, 1921 38: 3 (1928)
+Sulla Lec. Hook. Schaer. 7 (1853)
 
 #### Original name
 null

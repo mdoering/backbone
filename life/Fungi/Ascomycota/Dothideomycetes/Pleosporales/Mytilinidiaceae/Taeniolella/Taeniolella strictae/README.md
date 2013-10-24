@@ -1,5 +1,4 @@
-Taeniolella strictae Alstrup SPECIES
-=======
+# Taeniolella strictae Alstrup SPECIES
 
 #### Status
 ACCEPTED

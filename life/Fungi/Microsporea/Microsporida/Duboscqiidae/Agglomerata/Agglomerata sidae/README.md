@@ -1,5 +1,4 @@
-Agglomerata sidae (Jírovec) J.I.R. Larsson & Yan SPECIES
-=======
+# Agglomerata sidae (Jírovec) J.I.R. Larsson & Yan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orphella hiemalis S.W. Peterson, Lichtw. & Huss, 1991 SPECIES
-=======
+# Orphella hiemalis S.W. Peterson, Lichtw. & Huss, 1991 SPECIES
 
 #### Status
 ACCEPTED

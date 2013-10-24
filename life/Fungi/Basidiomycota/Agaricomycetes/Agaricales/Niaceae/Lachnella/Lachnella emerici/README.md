@@ -1,5 +1,4 @@
-Lachnella emerici Berk. & W. Phillips SPECIES
-=======
+# Lachnella emerici Berk. & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

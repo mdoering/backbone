@@ -1,14 +1,13 @@
-Sarcogyne cyclocarpa (Anzi) J. Steiner SPECIES
-=======
+# Polysporina cyclocarpa (Anzi) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. bohemoslov. 13(4): 399 (1978)
 
 #### Original name
 Lithographa cyclocarpa Anzi

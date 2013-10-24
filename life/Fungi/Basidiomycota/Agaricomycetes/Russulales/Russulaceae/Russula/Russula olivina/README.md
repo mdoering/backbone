@@ -1,5 +1,4 @@
-Russula olivina Ruots. & Vauras SPECIES
-=======
+# Russula olivina Ruots. & Vauras SPECIES
 
 #### Status
 ACCEPTED

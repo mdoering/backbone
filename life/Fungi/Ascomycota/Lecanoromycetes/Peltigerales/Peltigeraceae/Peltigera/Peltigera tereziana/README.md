@@ -1,5 +1,4 @@
-Peltigera tereziana var. tereziana VARIETY
-=======
+# Peltigera tereziana Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 77: 220 (1928)
 
 #### Original name
-Peltigera tereziana var. tereziana
+Peltigera tereziana Gyeln.
 
 ### Remarks
 null

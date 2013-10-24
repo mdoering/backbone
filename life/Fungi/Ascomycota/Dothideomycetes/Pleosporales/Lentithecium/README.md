@@ -1,5 +1,4 @@
-Lentithecium GENUS
-=======
+# Lentithecium GENUS
 
 #### Status
 ACCEPTED

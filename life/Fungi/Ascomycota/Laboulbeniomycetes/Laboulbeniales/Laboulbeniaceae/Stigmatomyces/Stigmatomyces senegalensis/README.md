@@ -1,5 +1,4 @@
-Stigmatomyces senegalensis W. Rossi & Cesari SPECIES
-=======
+# Stigmatomyces senegalensis W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

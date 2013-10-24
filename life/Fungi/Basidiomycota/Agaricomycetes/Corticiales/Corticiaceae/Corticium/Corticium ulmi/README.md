@@ -1,5 +1,4 @@
-Corticium ulmi (Lasch) Massee SPECIES
-=======
+# Corticium ulmi (Lasch) Massee SPECIES
 
 #### Status
 ACCEPTED

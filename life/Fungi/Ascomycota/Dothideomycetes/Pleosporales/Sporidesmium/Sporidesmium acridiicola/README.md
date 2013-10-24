@@ -1,5 +1,4 @@
-Sporidesmium acridiicola Speg. SPECIES
-=======
+# Sporidesmium acridiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

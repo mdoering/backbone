@@ -1,17 +1,16 @@
-Stentorella Reichenbach, 1828 GENUS
-=======
+# Stentor Oken, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zoologie, 1, 95.
+Lehrb. Nat. , 3 (1), 45.
 
 #### Original name
-Stentor Oken, 1815
+null
 
 ### Remarks
 null

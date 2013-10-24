@@ -1,5 +1,4 @@
-Clonothrix GENUS
-=======
+# Clonothrix GENUS
 
 #### Status
 ACCEPTED

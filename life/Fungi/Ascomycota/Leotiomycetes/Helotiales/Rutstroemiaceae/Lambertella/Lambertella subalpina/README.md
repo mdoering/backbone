@@ -1,5 +1,4 @@
-Lambertella subalpina M.P. Sharma SPECIES
-=======
+# Lambertella subalpina M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

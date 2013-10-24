@@ -1,5 +1,4 @@
-Diplodina cirsii Grove SPECIES
-=======
+# Diplodina cirsii Grove SPECIES
 
 #### Status
 ACCEPTED

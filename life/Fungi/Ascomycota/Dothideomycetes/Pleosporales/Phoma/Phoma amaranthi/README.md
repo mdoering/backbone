@@ -1,5 +1,4 @@
-Phoma amaranthi Brunaud SPECIES
-=======
+# Phoma amaranthi Brunaud SPECIES
 
 #### Status
 ACCEPTED

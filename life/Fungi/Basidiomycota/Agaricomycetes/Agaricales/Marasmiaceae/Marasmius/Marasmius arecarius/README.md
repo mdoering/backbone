@@ -1,5 +1,4 @@
-Marasmius arecarius var. arecarius VARIETY
-=======
+# Marasmius arecarius Lour. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius arecarius var. arecarius
+Marasmius arecarius Lour.
 
 ### Remarks
 null

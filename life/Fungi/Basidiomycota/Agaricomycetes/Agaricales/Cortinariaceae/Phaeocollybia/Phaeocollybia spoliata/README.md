@@ -1,5 +1,4 @@
-Phaeocollybia spoliata E. Horak, 1974 SPECIES
-=======
+# Phaeocollybia spoliata E. Horak, 1974 SPECIES
 
 #### Status
 ACCEPTED

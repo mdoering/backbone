@@ -1,5 +1,4 @@
-Heteroplacidium fusculum (Nyl.) Gueidan & Cl. Roux SPECIES
-=======
+# Heteroplacidium fusculum (Nyl.) Gueidan & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta corni (Schwein.) Starbäck SPECIES
-=======
+# Phyllosticta corni (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

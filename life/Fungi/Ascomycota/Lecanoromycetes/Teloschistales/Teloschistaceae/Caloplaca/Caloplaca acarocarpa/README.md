@@ -1,5 +1,4 @@
-Caloplaca acarocarpa Zahlbr. SPECIES
-=======
+# Caloplaca acarocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

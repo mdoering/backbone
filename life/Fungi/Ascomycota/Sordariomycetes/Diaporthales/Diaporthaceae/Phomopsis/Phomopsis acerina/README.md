@@ -1,5 +1,4 @@
-Phomopsis acerina Pirone & J.C. Carter SPECIES
-=======
+# Phomopsis acerina Pirone & J.C. Carter SPECIES
 
 #### Status
 ACCEPTED

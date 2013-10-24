@@ -1,5 +1,4 @@
-Mitrula bicolor Pat. SPECIES
-=======
+# Mitrula bicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

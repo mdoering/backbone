@@ -1,5 +1,4 @@
-Sepedonium agglomeriferum Letell. SPECIES
-=======
+# Sepedonium agglomeriferum Letell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola brevidentata Syd. SPECIES
-=======
+# Meliola brevidentata Syd. SPECIES
 
 #### Status
 ACCEPTED

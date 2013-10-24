@@ -1,5 +1,4 @@
-Rhodotorula dairenensis (T. Haseg. & Banno) Fell, J.P. Samp. & Gadanho SPECIES
-=======
+# Rhodotorula dairenensis (T. Haseg. & Banno) Fell, J.P. Samp. & Gadanho SPECIES
 
 #### Status
 ACCEPTED

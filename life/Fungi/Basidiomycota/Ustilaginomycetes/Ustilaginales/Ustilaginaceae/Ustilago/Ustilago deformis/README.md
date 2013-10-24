@@ -1,5 +1,4 @@
-Ustilago deformis L. Ling SPECIES
-=======
+# Ustilago deformis L. Ling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanocatena Hindák, 1975 GENUS
-=======
+# Cyanocatena Hindák, 1975 GENUS
 
 #### Status
 ACCEPTED

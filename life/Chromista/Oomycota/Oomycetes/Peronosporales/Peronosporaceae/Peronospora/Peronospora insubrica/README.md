@@ -1,5 +1,4 @@
-Peronospora insubrica Gäum. SPECIES
-=======
+# Peronospora insubrica Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus amylolyticus Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
-=======
+# Cryptococcus amylolyticus Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
 
 #### Status
 ACCEPTED

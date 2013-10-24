@@ -1,5 +1,4 @@
-Pyreium Paulet GENUS
-=======
+# Pyreium Paulet GENUS
 
 #### Status
 ACCEPTED

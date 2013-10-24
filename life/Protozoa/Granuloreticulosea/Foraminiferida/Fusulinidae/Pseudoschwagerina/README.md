@@ -1,5 +1,4 @@
-Pseudoschwagerina Dunbar & Skinner, 1936 GENUS
-=======
+# Pseudoschwagerina Dunbar & Skinner, 1936 GENUS
 
 #### Status
 ACCEPTED

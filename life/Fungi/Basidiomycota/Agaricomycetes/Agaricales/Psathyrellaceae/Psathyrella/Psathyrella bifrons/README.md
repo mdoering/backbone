@@ -1,17 +1,16 @@
-Agaricus bifrons var. bifrons Berk. VARIETY
-=======
+# Psathyrella bifrons (Berk.) A.H. Sm., 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engl. Fl. , Edn 2 5(2): 114 (1836)
+Contr. Univ. Mich. Herb. 5: 40 (1941)
 
 #### Original name
-Agaricus bifrons var. bifrons Berk.
+Agaricus bifrons Berk., 1836
 
 ### Remarks
 null

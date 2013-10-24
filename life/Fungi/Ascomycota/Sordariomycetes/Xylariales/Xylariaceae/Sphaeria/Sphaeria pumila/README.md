@@ -1,5 +1,4 @@
-Sphaeria pumila Fr. SPECIES
-=======
+# Sphaeria pumila Fr. SPECIES
 
 #### Status
 ACCEPTED

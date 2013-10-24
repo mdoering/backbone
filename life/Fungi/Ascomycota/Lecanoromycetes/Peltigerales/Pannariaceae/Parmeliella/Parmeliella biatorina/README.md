@@ -1,5 +1,4 @@
-Parmeliella biatorina (C. Knight) Müll. Arg. SPECIES
-=======
+# Parmeliella biatorina (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

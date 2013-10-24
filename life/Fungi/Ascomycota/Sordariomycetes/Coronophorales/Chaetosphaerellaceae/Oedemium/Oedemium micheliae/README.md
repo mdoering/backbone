@@ -1,5 +1,4 @@
-Oedemium micheliae Kodsueb, K.D. Hyde & W.H. Ho SPECIES
-=======
+# Oedemium micheliae Kodsueb, K.D. Hyde & W.H. Ho SPECIES
 
 #### Status
 ACCEPTED

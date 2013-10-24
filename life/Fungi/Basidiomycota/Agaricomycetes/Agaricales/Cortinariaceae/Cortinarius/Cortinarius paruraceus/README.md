@@ -1,5 +1,4 @@
-Cortinarius paruraceus Melot SPECIES
-=======
+# Cortinarius paruraceus Melot SPECIES
 
 #### Status
 ACCEPTED

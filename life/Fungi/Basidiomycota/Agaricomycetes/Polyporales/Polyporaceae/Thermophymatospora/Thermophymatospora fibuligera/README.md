@@ -1,5 +1,4 @@
-Thermophymatospora fibuligera Udagawa, Awao & Abdullah, 1986 SPECIES
-=======
+# Thermophymatospora fibuligera Udagawa, Awao & Abdullah, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete semistupposa Petch, 1925 SPECIES
-=======
+# Hymenochaete semistupposa Petch, 1925 SPECIES
 
 #### Status
 ACCEPTED

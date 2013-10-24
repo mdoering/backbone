@@ -1,5 +1,4 @@
-Lactarius sanguineus Teng SPECIES
-=======
+# Lactarius sanguineus Teng SPECIES
 
 #### Status
 ACCEPTED

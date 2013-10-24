@@ -1,5 +1,4 @@
-Agaricus bajan-agtensis Pilát SPECIES
-=======
+# Agaricus bajan-agtensis Pilát SPECIES
 
 #### Status
 ACCEPTED

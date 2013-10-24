@@ -1,5 +1,4 @@
-Corynesporella pinarensis R.F. Castañeda SPECIES
-=======
+# Corynesporella pinarensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia penetrans Cleland SPECIES
-=======
+# Collybia penetrans Cleland SPECIES
 
 #### Status
 ACCEPTED

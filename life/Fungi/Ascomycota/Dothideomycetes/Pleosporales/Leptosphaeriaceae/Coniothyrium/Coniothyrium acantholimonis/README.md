@@ -1,5 +1,4 @@
-Coniothyrium acantholimonis Kalymb. SPECIES
-=======
+# Coniothyrium acantholimonis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

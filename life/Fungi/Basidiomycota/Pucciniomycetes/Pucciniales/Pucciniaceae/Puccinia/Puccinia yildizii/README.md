@@ -1,5 +1,4 @@
-Puccinia yildizii Gjaerum & Bahç. SPECIES
-=======
+# Puccinia yildizii Gjaerum & Bahç. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia galerita Doidge SPECIES
-=======
+# Puccinia galerita Doidge SPECIES
 
 #### Status
 ACCEPTED

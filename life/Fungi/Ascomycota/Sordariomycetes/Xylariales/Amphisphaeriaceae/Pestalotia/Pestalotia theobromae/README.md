@@ -1,5 +1,4 @@
-Pestalotia theobromae Petch SPECIES
-=======
+# Pestalotia theobromae Petch SPECIES
 
 #### Status
 ACCEPTED

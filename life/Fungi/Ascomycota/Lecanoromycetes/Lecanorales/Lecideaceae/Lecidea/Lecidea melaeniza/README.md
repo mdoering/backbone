@@ -1,5 +1,4 @@
-Lecidea melaeniza (Hedl.) H. Magn. SPECIES
-=======
+# Lecidea melaeniza (Hedl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

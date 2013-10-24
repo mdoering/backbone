@@ -1,5 +1,4 @@
-Uncinula schizophragmatis Tanda & Y. Nomura SPECIES
-=======
+# Uncinula schizophragmatis Tanda & Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita oreina (J. Favre) R. Heim ex Bon SPECIES
-=======
+# Amanita oreina (J. Favre) R. Heim ex Bon SPECIES
 
 #### Status
 ACCEPTED

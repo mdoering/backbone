@@ -1,5 +1,4 @@
-Pleosporites shiraianus Y. Suzuki SPECIES
-=======
+# Pleosporites shiraianus Y. Suzuki SPECIES
 
 #### Status
 ACCEPTED

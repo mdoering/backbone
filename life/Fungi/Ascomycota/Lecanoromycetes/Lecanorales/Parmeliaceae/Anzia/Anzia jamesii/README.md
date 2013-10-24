@@ -1,5 +1,4 @@
-Anzia jamesii D. J. Galloway SPECIES
-=======
+# Anzia jamesii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

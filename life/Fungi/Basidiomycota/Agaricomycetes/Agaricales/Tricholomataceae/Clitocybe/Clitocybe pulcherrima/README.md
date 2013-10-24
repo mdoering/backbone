@@ -1,5 +1,4 @@
-Clitocybe pulcherrima Peck SPECIES
-=======
+# Clitocybe pulcherrima Peck SPECIES
 
 #### Status
 ACCEPTED

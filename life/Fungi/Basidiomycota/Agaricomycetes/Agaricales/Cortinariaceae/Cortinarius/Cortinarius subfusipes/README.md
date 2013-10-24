@@ -1,5 +1,4 @@
-Cortinarius subfusipes Rob. Henry SPECIES
-=======
+# Cortinarius subfusipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

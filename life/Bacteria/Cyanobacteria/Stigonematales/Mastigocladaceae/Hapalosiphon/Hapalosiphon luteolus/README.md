@@ -1,5 +1,4 @@
-Hapalosiphon luteolus W. West & G.S West SPECIES
-=======
+# Hapalosiphon luteolus W. West & G.S West SPECIES
 
 #### Status
 ACCEPTED

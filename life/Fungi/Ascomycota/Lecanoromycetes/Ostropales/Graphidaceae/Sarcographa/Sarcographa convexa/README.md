@@ -1,5 +1,4 @@
-Sarcographa convexa Müll. Arg. SPECIES
-=======
+# Sarcographa convexa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

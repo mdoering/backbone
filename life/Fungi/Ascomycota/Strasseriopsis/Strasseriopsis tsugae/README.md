@@ -1,14 +1,13 @@
-Phellostroma tsugae Tak. Kobay., 1964 SPECIES
-=======
+# Strasseriopsis tsugae (Tak. Kobay.) B. Sutton & Tak. Kobay., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 5: 8 (1964)
+Mycologia 61(6): 1069 (1970)
 
 #### Original name
 Phellostroma tsugae Tak. Kobay., 1964

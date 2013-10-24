@@ -1,5 +1,4 @@
-Scytomonas marina J. Massart SPECIES
-=======
+# Scytomonas marina J. Massart SPECIES
 
 #### Status
 ACCEPTED

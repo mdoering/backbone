@@ -1,14 +1,13 @@
-Cercospora fuligena Roldan, 1938 SPECIES
-=======
+# Pseudocercospora fuligena (Roldan) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Philipp. J. Sci. , C, Bot. 66: 8 (1938)
+Mycol. Pap. 140: 144 (1976)
 
 #### Original name
 Cercospora fuligena Roldan, 1938

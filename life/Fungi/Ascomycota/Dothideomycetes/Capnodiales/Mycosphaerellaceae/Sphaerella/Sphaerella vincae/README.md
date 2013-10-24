@@ -1,17 +1,16 @@
-Sphaerella vincae f. vincae FORM
-=======
+# Sphaerella vincae (Fr.) Auersw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Myc. Europ. Pyren. 5/6: 10 (1869)
 
 #### Original name
-null
+Sphaeria vincae Cooke
 
 ### Remarks
 null

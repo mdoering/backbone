@@ -1,5 +1,4 @@
-Phaeoclavulina nigrescens (S.A. Brinkm.) SPECIES
-=======
+# Phaeoclavulina nigrescens (S.A. Brinkm.) SPECIES
 
 #### Status
 ACCEPTED

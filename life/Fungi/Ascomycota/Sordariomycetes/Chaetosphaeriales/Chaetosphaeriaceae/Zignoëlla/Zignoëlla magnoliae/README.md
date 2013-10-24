@@ -1,5 +1,4 @@
-Zignoëlla magnoliae var. magnoliae VARIETY
-=======
+# Zignoëlla magnoliae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zignoëlla magnoliae var. magnoliae
+Zignoëlla magnoliae Tracy & Earle
 
 ### Remarks
 null

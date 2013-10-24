@@ -1,14 +1,13 @@
-Odontia subscopinella G. Cunn., 1959 SPECIES
-=======
+# Hyphodontia subscopinella (G. Cunn.) Gresl. & Rajchenb., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 86(1-2): 72 (1959)
+Mycologia 92(6): 1158 (2000)
 
 #### Original name
 Odontia subscopinella G. Cunn., 1959

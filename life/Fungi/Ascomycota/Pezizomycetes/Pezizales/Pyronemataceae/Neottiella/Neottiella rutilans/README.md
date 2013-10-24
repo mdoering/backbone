@@ -1,17 +1,16 @@
-Humaria rutilans var. rutilans (Fr.) Sacc. VARIETY
-=======
+# Neottiella rutilans (Fr.) Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 133 (1889)
+British Cup Fungi & their Allies 28 (1960)
 
 #### Original name
-Humaria rutilans var. rutilans (Fr.) Sacc.
+Peziza rutilans Fr., 1822
 
 ### Remarks
 null

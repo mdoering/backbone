@@ -1,17 +1,16 @@
-Corticium lloydii Bourdot & Galzin, 1928 SPECIES
-=======
+# Amyloxenasma lloydii (Liberta) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Fung. (Oslo) 20: 34 (2005)
 
 #### Original name
-null
+Xenasma lloydii Liberta, 1962
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Claudopus niveus Velen. SPECIES
-=======
+# Claudopus niveus Velen. SPECIES
 
 #### Status
 ACCEPTED

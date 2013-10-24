@@ -1,5 +1,4 @@
-Amanita morenoi Raithelh. SPECIES
-=======
+# Amanita morenoi Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cycloclasticus pugetii Dyksterhouse et al., 1995 SPECIES
-=======
+# Cycloclasticus pugetii Dyksterhouse et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

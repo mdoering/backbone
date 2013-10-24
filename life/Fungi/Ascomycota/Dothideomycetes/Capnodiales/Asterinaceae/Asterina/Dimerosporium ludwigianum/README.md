@@ -1,5 +1,4 @@
-Dimerosporium ludwigianum Sacc. SPECIES
-=======
+# Dimerosporium ludwigianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

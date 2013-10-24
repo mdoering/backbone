@@ -1,5 +1,4 @@
-Arthrospira miniata var. constricta L. Hoffmann VARIETY
-=======
+# Arthrospira miniata (Hauck) Gomont SPECIES
 
 #### Status
 ACCEPTED

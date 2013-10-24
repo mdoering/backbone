@@ -1,5 +1,4 @@
-Peronospora ribicola J. Schröt. SPECIES
-=======
+# Peronospora ribicola J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

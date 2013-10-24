@@ -1,5 +1,4 @@
-Sphaerella syciicola Ellis & Everh. SPECIES
-=======
+# Sphaerella syciicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

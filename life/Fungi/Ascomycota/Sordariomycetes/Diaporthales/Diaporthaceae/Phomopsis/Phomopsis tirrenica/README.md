@@ -1,5 +1,4 @@
-Phomopsis tirrenica Moriondo SPECIES
-=======
+# Phomopsis tirrenica Moriondo SPECIES
 
 #### Status
 ACCEPTED

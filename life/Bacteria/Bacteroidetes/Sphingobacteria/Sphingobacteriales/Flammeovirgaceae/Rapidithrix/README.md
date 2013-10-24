@@ -1,5 +1,4 @@
-Rapidithrix Srisukchayakul, Suwanachart, Sangnoi, Kanjana-Opas, Hosoya, Yokota & Arunpairojana, 2007 GENUS
-=======
+# Rapidithrix Srisukchayakul, Suwanachart, Sangnoi, Kanjana-Opas, Hosoya, Yokota & Arunpairojana, 2007 GENUS
 
 #### Status
 ACCEPTED

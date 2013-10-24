@@ -1,5 +1,4 @@
-Cordyceps ampullacea Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ampullacea Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

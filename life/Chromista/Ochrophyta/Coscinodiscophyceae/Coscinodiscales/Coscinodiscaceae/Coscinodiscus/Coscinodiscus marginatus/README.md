@@ -1,11 +1,10 @@
-Coscinodiscus limbatus Ehrenberg SPECIES
-=======
+# Coscinodiscus marginatus Ehrenberg, 1841 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

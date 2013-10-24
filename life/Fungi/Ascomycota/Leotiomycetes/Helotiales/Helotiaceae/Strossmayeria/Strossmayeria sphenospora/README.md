@@ -1,14 +1,13 @@
-Belonidium sphenosporum Kirschst., 1938 SPECIES
-=======
+# Strossmayeria sphenospora (Kirschst.) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36(5/6): 375 (1938)
+Persoonia 2(2): 188 (1962)
 
 #### Original name
 Belonidium sphenosporum Kirschst., 1938

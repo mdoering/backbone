@@ -1,5 +1,4 @@
-Sphaeria erythrinella Nyl. SPECIES
-=======
+# Sphaeria erythrinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

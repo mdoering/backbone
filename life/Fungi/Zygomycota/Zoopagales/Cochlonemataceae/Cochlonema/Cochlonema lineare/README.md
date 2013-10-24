@@ -1,17 +1,16 @@
-Cochlonema linearis F.R. Jones bis SPECIES
-=======
+# Cochlonema lineare F.R. Jones bis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 45: 348 (1962)
 
 #### Original name
-Cochlonema linearis F.R. Jones bis
+Cochlonema lineare F.R. Jones bis, 1962
 
 ### Remarks
 null

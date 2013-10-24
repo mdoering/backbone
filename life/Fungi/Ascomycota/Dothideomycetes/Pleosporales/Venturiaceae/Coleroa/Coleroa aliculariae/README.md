@@ -1,5 +1,4 @@
-Coleroa aliculariae Gonz. Frag. SPECIES
-=======
+# Coleroa aliculariae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

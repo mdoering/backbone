@@ -1,5 +1,4 @@
-Isabelidinium majae P. Schiøler SPECIES
-=======
+# Isabelidinium majae P. Schiøler SPECIES
 
 #### Status
 ACCEPTED

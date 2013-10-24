@@ -1,5 +1,4 @@
-Clitocybe piceina Peck SPECIES
-=======
+# Clitocybe piceina Peck SPECIES
 
 #### Status
 ACCEPTED

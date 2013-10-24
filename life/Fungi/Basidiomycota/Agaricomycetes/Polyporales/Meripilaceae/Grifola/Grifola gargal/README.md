@@ -1,5 +1,4 @@
-Grifola gargal Singer SPECIES
-=======
+# Grifola gargal Singer SPECIES
 
 #### Status
 ACCEPTED

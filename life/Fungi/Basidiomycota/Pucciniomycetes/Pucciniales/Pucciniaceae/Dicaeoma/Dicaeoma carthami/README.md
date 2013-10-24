@@ -1,5 +1,4 @@
-Dicaeoma carthami (Corda) Kuntze SPECIES
-=======
+# Dicaeoma carthami (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

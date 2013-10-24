@@ -1,5 +1,4 @@
-Placopyrenium caeruleopulvinum (J. W. Thomson) Breuss SPECIES
-=======
+# Placopyrenium caeruleopulvinum (J. W. Thomson) Breuss SPECIES
 
 #### Status
 ACCEPTED

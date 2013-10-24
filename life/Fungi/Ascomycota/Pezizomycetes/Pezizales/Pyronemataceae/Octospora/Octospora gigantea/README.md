@@ -1,5 +1,4 @@
-Octospora gigantea K.S. Thind & Waraitch SPECIES
-=======
+# Octospora gigantea K.S. Thind & Waraitch SPECIES
 
 #### Status
 ACCEPTED

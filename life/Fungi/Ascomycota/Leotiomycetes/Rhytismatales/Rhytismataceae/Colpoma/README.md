@@ -1,17 +1,16 @@
-Pragmoparopsis Höhn. GENUS
-=======
+# Colpoma Wallroth, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 15(5): 320 (1917)
+null
 
 #### Original name
-Pragmoparopsis Höhn.
+null
 
 ### Remarks
 null

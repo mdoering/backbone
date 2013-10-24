@@ -1,5 +1,4 @@
-Cepedietta plethodontis SPECIES
-=======
+# Cepedietta plethodontis SPECIES
 
 #### Status
 ACCEPTED

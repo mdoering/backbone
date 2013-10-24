@@ -1,5 +1,4 @@
-Manoharachariella lignicola Bagyan., N.K. Rao & Kunwar, 2009 SPECIES
-=======
+# Manoharachariella lignicola Bagyan., N.K. Rao & Kunwar, 2009 SPECIES
 
 #### Status
 ACCEPTED

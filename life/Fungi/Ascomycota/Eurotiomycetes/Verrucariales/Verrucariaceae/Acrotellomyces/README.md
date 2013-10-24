@@ -1,5 +1,4 @@
-Acrotellomyces GENUS
-=======
+# Acrotellomyces GENUS
 
 #### Status
 ACCEPTED

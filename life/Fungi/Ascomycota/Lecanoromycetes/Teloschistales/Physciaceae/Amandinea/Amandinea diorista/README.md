@@ -1,5 +1,4 @@
-Amandinea diorista (Nyl.) Marbach SPECIES
-=======
+# Amandinea diorista (Nyl.) Marbach SPECIES
 
 #### Status
 ACCEPTED

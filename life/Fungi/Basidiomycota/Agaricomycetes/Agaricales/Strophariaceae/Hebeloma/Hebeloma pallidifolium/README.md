@@ -1,5 +1,4 @@
-Hebeloma pallidifolium Murrill SPECIES
-=======
+# Hebeloma pallidifolium Murrill SPECIES
 
 #### Status
 ACCEPTED

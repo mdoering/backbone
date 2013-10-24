@@ -1,8 +1,7 @@
-Agaricus pyrrhospermus Bull. SPECIES
-=======
+# Agaricus pyrrospermus Bull. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus pyrrhospermus Bull.
+Agaricus pyrrospermus Bull.
 
 ### Remarks
 null

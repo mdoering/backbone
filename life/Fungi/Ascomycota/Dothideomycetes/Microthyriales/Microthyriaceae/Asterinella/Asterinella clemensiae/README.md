@@ -1,5 +1,4 @@
-Asterinella clemensiae Petr. SPECIES
-=======
+# Asterinella clemensiae Petr. SPECIES
 
 #### Status
 ACCEPTED

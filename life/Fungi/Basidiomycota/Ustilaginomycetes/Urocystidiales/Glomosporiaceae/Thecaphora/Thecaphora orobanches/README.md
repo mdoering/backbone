@@ -1,5 +1,4 @@
-Thecaphora orobanches Lév. SPECIES
-=======
+# Thecaphora orobanches Lév. SPECIES
 
 #### Status
 ACCEPTED

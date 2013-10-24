@@ -1,5 +1,4 @@
-Fuscidea asyndecta (Nyl.) V. Wirth & Vezda SPECIES
-=======
+# Fuscidea asyndecta (Nyl.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED

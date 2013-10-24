@@ -1,5 +1,4 @@
-Sporisorium thirumalacharii Vánky SPECIES
-=======
+# Sporisorium thirumalacharii Vánky SPECIES
 
 #### Status
 ACCEPTED

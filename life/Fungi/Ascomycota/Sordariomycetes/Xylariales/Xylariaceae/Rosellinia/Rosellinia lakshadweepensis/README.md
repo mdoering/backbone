@@ -1,5 +1,4 @@
-Rosellinia lakshadweepensis A. Pande & V.G. Rao SPECIES
-=======
+# Rosellinia lakshadweepensis A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

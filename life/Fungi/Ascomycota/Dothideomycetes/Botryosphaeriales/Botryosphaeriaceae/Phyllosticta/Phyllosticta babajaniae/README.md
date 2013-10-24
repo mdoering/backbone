@@ -1,5 +1,4 @@
-Phyllosticta babajaniae Tasl. SPECIES
-=======
+# Phyllosticta babajaniae Tasl. SPECIES
 
 #### Status
 ACCEPTED

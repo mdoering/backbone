@@ -1,5 +1,4 @@
-Hypocrea brunneolutea Yoshim. Doi SPECIES
-=======
+# Hypocrea brunneolutea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

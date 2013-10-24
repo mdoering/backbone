@@ -1,5 +1,4 @@
-Phyllosticta mussaendae Sawada SPECIES
-=======
+# Phyllosticta mussaendae Sawada SPECIES
 
 #### Status
 ACCEPTED

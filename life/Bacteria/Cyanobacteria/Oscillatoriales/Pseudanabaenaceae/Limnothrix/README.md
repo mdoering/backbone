@@ -1,5 +1,4 @@
-Limnothrix Meffert, 1987 GENUS
-=======
+# Limnothrix Meffert, 1987 GENUS
 
 #### Status
 ACCEPTED

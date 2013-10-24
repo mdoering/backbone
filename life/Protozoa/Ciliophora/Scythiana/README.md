@@ -1,5 +1,4 @@
-Scythiana Haas, Tóth Makk, Oraveczne Scheffer & Csalagovits, 1986 GENUS
-=======
+# Scythiana Haas, Tóth Makk, Oraveczne Scheffer & Csalagovits, 1986 GENUS
 
 #### Status
 ACCEPTED

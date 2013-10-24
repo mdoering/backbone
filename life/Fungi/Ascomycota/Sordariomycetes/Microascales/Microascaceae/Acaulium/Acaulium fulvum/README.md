@@ -1,5 +1,4 @@
-Acaulium fulvum Sopp SPECIES
-=======
+# Acaulium fulvum Sopp SPECIES
 
 #### Status
 ACCEPTED

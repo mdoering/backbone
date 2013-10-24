@@ -1,5 +1,4 @@
-Sphaerulina pruni McAlpine SPECIES
-=======
+# Sphaerulina pruni McAlpine SPECIES
 
 #### Status
 ACCEPTED

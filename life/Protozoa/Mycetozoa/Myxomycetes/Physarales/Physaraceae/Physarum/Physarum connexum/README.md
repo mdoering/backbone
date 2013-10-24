@@ -1,5 +1,4 @@
-Physarum connexum Link SPECIES
-=======
+# Physarum connexum Link SPECIES
 
 #### Status
 ACCEPTED

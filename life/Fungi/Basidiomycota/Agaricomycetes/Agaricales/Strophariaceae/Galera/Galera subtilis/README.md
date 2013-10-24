@@ -1,5 +1,4 @@
-Galera subtilis J.E. Lange SPECIES
-=======
+# Galera subtilis J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

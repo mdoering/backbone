@@ -1,5 +1,4 @@
-Prospodium cydistae Mains SPECIES
-=======
+# Prospodium cydistae Mains SPECIES
 
 #### Status
 ACCEPTED

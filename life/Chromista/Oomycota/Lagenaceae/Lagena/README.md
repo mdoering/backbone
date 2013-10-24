@@ -1,5 +1,4 @@
-Lagena Vanterpool & Ledingham, 1930 GENUS
-=======
+# Lagena Vanterpool & Ledingham, 1930 GENUS
 
 #### Status
 ACCEPTED

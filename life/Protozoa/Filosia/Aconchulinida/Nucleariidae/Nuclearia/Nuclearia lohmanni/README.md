@@ -1,5 +1,4 @@
-Nuclearia lohmanni Kufferath, 1952 SPECIES
-=======
+# Nuclearia lohmanni Kufferath, 1952 SPECIES
 
 #### Status
 ACCEPTED

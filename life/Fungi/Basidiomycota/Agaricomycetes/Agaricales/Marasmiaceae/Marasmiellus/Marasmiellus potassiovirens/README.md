@@ -1,5 +1,4 @@
-Marasmiellus potassiovirens Singer SPECIES
-=======
+# Marasmiellus potassiovirens Singer SPECIES
 
 #### Status
 ACCEPTED

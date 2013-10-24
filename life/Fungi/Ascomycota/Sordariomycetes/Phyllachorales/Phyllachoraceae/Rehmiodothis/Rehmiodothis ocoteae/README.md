@@ -1,5 +1,4 @@
-Rehmiodothis ocoteae Urries, 1956 SPECIES
-=======
+# Rehmiodothis ocoteae Urries, 1956 SPECIES
 
 #### Status
 ACCEPTED

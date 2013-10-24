@@ -1,5 +1,4 @@
-Psathyrella velatipes A.H. Sm. SPECIES
-=======
+# Psathyrella velatipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

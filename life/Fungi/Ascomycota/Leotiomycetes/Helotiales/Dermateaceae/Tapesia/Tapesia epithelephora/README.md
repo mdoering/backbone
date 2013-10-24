@@ -1,5 +1,4 @@
-Tapesia epithelephora (Saut.) Sacc. SPECIES
-=======
+# Tapesia epithelephora (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

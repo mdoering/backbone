@@ -1,5 +1,4 @@
-Microglaena cordieri SPECIES
-=======
+# Microglaena cordieri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria variecolor (P. Karst.) Cooke SPECIES
-=======
+# Poria variecolor (P. Karst.) Cooke SPECIES
 
 #### Status
 ACCEPTED

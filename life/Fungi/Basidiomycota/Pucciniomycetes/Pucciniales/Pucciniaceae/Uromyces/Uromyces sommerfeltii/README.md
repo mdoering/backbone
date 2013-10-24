@@ -1,5 +1,4 @@
-Uromyces sommerfeltii Hyl., Jørst. & Nannf. SPECIES
-=======
+# Uromyces sommerfeltii Hyl., Jørst. & Nannf. SPECIES
 
 #### Status
 ACCEPTED

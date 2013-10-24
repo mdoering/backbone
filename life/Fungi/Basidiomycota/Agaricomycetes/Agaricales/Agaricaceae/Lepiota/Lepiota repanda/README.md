@@ -1,5 +1,4 @@
-Lepiota repanda (Clem.) Sacc. SPECIES
-=======
+# Lepiota repanda (Clem.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

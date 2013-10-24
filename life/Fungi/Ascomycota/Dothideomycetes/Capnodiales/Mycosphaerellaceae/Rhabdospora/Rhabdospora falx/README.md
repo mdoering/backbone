@@ -1,5 +1,4 @@
-Rhabdospora falx (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora falx (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

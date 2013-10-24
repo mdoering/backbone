@@ -1,8 +1,7 @@
-Omphalia russulaeformis Beeli SPECIES
-=======
+# Omphalia russuliformis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Omphalia russulaeformis Beeli
+Omphalia russuliformis Beeli
 
 ### Remarks
 null

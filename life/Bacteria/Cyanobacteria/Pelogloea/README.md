@@ -1,5 +1,4 @@
-Pelogloea Lauterborn GENUS
-=======
+# Pelogloea Lauterborn GENUS
 
 #### Status
 ACCEPTED

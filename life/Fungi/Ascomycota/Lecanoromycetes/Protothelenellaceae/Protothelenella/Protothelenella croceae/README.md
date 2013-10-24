@@ -1,5 +1,4 @@
-Protothelenella croceae (Bagl. & Carestia) Hafellner & H. Mayrhofer SPECIES
-=======
+# Protothelenella croceae (Bagl. & Carestia) Hafellner & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia psidii Shreem. & Panwar SPECIES
-=======
+# Diplodia psidii Shreem. & Panwar SPECIES
 
 #### Status
 ACCEPTED

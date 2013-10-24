@@ -1,5 +1,4 @@
-Stradnerlithus silvaradius SPECIES
-=======
+# Stradnerlithus silvaradius SPECIES
 
 #### Status
 ACCEPTED

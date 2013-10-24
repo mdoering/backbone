@@ -1,5 +1,4 @@
-Cercophora grandiuscula A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Cercophora grandiuscula A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

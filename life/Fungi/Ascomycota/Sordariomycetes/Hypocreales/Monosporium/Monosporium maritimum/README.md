@@ -1,5 +1,4 @@
-Monosporium maritimum G.K. Sutherl. SPECIES
-=======
+# Monosporium maritimum G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

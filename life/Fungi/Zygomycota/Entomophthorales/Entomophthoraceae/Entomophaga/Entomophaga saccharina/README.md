@@ -1,14 +1,13 @@
-Entomophthora saccharina Giard, 1888 SPECIES
-=======
+# Entomophaga saccharina (Giard) A. Batko, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Mém. Soc. Biol. 40: 786 (1888)
+Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 12: 404 (1964)
 
 #### Original name
 Entomophthora saccharina Giard, 1888

@@ -1,17 +1,16 @@
-Viennotidea gliocladiopsifera Matsush. SPECIES
-=======
+# Viennotidia gliocladiopsifera Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 10: 118 (2003)
 
 #### Original name
-Viennotidea gliocladiopsifera Matsush.
+Viennotidia gliocladiopsifera Matsush.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nectria callispora Höhn. SPECIES
-=======
+# Nectria callispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

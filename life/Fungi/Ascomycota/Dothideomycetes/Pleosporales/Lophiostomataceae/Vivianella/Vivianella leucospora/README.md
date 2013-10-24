@@ -1,5 +1,4 @@
-Vivianella leucospora (Nitschke) Sacc. SPECIES
-=======
+# Vivianella leucospora (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

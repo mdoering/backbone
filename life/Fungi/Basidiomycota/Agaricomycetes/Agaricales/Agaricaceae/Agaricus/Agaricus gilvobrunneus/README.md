@@ -1,5 +1,4 @@
-Agaricus gilvobrunneus Jungh. SPECIES
-=======
+# Agaricus gilvobrunneus Jungh. SPECIES
 
 #### Status
 ACCEPTED

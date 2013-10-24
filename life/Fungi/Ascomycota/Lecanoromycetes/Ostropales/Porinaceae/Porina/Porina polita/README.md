@@ -1,5 +1,4 @@
-Porina polita Malme SPECIES
-=======
+# Porina polita Malme SPECIES
 
 #### Status
 ACCEPTED

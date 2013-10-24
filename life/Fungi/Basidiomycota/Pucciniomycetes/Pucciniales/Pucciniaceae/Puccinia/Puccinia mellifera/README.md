@@ -1,5 +1,4 @@
-Puccinia mellifera Dietel & Holw. SPECIES
-=======
+# Puccinia mellifera Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

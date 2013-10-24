@@ -1,5 +1,4 @@
-Agaricus paraguariensis Speg. SPECIES
-=======
+# Agaricus paraguariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palikiella elegans Claus SPECIES
-=======
+# Palikiella elegans Claus SPECIES
 
 #### Status
 ACCEPTED

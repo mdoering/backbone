@@ -1,5 +1,4 @@
-Puccinia atragenicola (Bubák) Syd. SPECIES
-=======
+# Puccinia atragenicola (Bubák) Syd. SPECIES
 
 #### Status
 ACCEPTED

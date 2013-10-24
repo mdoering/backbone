@@ -1,5 +1,4 @@
-Aspergillus auratus Warcup, 1965 SPECIES
-=======
+# Aspergillus auratus Warcup, 1965 SPECIES
 
 #### Status
 ACCEPTED

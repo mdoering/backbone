@@ -1,5 +1,4 @@
-Calosphaera Campbell, 1951 GENUS
-=======
+# Calosphaera Campbell, 1951 GENUS
 
 #### Status
 ACCEPTED

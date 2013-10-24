@@ -1,5 +1,4 @@
-Septoria verbenae Roberge ex Desm., 1847 SPECIES
-=======
+# Septoria verbenae Roberge ex Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

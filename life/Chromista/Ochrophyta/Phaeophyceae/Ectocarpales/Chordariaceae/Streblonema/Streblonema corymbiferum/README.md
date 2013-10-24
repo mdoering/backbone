@@ -1,5 +1,4 @@
-Streblonema corymbiferum Setchell & N.L. Gardner SPECIES
-=======
+# Streblonema corymbiferum Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

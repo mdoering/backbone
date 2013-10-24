@@ -1,14 +1,13 @@
-Cystopus trianthemae (G.W. Wilson) Sacc. & Trotter, 1912 SPECIES
-=======
+# Albugo trianthemae G.W. Wilson, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 858 (1912)
+Bull. Torrey bot. Club 35: 361 (1908)
 
 #### Original name
 Albugo trianthemae G.W. Wilson, 1908

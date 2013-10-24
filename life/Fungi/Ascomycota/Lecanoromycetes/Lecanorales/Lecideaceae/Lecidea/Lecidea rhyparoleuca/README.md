@@ -1,5 +1,4 @@
-Lecidea rhyparoleuca (A. Massal.) Stizenb. SPECIES
-=======
+# Lecidea rhyparoleuca (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

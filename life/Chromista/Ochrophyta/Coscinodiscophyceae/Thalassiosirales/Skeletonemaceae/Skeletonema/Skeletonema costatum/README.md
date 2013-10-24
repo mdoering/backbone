@@ -1,8 +1,7 @@
-Melosira costata Greville SPECIES
-=======
+# Skeletonema costatum (Greville) Cleve SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

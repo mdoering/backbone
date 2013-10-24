@@ -1,14 +1,13 @@
-Phragmocarpella puiggari (Speg.) Theiss. & Syd. SPECIES
-=======
+# Phyllachora tupi Viégas & C.G. Teixeira, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rodriguésia 9(19): 51 (1945)
 
 #### Original name
 Montagnella puiggarii Speg., 1889

@@ -1,5 +1,4 @@
-Mycoleptodiscus unilateralis B. Sutton & Alcorn, 1990 SPECIES
-=======
+# Mycoleptodiscus unilateralis B. Sutton & Alcorn, 1990 SPECIES
 
 #### Status
 ACCEPTED

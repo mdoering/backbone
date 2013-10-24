@@ -1,5 +1,4 @@
-Cryptococcus suragaensis Nagahama, Hamamoto, Nakase, Takaki & Horikochi, 2003 SPECIES
-=======
+# Cryptococcus suragaensis Nagahama, Hamamoto, Nakase, Takaki & Horikochi, 2003 SPECIES
 
 #### Status
 ACCEPTED

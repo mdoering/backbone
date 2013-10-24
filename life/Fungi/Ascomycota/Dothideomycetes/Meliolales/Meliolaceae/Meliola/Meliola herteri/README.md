@@ -1,5 +1,4 @@
-Meliola herteri Hansf. SPECIES
-=======
+# Meliola herteri Hansf. SPECIES
 
 #### Status
 ACCEPTED

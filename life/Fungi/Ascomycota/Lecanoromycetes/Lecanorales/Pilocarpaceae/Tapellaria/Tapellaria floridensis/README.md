@@ -1,5 +1,4 @@
-Tapellaria floridensis Common & Lücking SPECIES
-=======
+# Tapellaria floridensis Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

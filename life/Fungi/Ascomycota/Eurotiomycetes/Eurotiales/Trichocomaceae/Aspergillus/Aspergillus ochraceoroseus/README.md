@@ -1,5 +1,4 @@
-Aspergillus ochraceoroseus Bartoli & Maggi, 1979 SPECIES
-=======
+# Aspergillus ochraceoroseus Bartoli & Maggi, 1979 SPECIES
 
 #### Status
 ACCEPTED

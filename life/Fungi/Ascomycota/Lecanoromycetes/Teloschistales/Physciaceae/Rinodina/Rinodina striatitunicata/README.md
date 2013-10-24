@@ -1,5 +1,4 @@
-Rinodina striatitunicata Matzer & H. Mayrhofer SPECIES
-=======
+# Rinodina striatitunicata Matzer & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

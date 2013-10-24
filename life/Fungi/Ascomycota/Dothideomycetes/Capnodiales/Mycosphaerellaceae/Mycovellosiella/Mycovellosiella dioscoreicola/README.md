@@ -1,5 +1,4 @@
-Mycovellosiella dioscoreicola Y.L. Guo SPECIES
-=======
+# Mycovellosiella dioscoreicola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

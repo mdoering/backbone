@@ -1,17 +1,16 @@
-Dendrosarcos juglandis Paulet SPECIES
-=======
+# Dendrosarcus juglandis Paulet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Traité Champ. , Atlas 2: 119 (1793)
 
 #### Original name
-Dendrosarcos juglandis Paulet
+Dendrosarcus juglandis Paulet
 
 ### Remarks
 null

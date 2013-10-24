@@ -1,5 +1,4 @@
-Placodium bicolor Tuck. SPECIES
-=======
+# Placodium bicolor Tuck. SPECIES
 
 #### Status
 ACCEPTED

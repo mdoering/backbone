@@ -1,17 +1,16 @@
-Veligaster leptopodius (Pat. & Har.) Guzmán, 1970 SPECIES
-=======
+# Scleroderma leptopodium Pat. & Har., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 24: 14 (1908)
 
 #### Original name
-null
+Scleroderma leptopodium Pat. & Har., 1908
 
 ### Remarks
 null

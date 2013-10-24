@@ -1,5 +1,4 @@
-Paumotua Loeblich, 1952 GENUS
-=======
+# Paumotua Loeblich, 1952 GENUS
 
 #### Status
 ACCEPTED

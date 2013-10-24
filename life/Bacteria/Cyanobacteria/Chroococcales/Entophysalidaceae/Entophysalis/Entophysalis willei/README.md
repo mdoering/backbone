@@ -1,5 +1,4 @@
-Entophysalis willei Gardner SPECIES
-=======
+# Entophysalis willei Gardner SPECIES
 
 #### Status
 ACCEPTED

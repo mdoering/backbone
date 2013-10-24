@@ -1,5 +1,4 @@
-Inocybe umbrosa E. Horak, 1978 SPECIES
-=======
+# Inocybe umbrosa E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

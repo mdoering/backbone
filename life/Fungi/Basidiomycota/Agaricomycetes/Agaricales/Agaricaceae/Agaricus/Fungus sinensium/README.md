@@ -1,5 +1,4 @@
-Fungus sinensium Pers. SPECIES
-=======
+# Fungus sinensium Pers. SPECIES
 
 #### Status
 ACCEPTED

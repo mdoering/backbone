@@ -1,5 +1,4 @@
-Ascochyta theae Hara SPECIES
-=======
+# Ascochyta theae Hara SPECIES
 
 #### Status
 ACCEPTED

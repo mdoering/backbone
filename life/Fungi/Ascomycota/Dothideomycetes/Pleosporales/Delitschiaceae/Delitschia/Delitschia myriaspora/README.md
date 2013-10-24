@@ -1,5 +1,4 @@
-Delitschia myriaspora Breton & Faurel SPECIES
-=======
+# Delitschia myriaspora Breton & Faurel SPECIES
 
 #### Status
 ACCEPTED

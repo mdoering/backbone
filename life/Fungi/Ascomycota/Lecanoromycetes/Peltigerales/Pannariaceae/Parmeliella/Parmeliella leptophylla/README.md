@@ -1,5 +1,4 @@
-Parmeliella leptophylla Vain. SPECIES
-=======
+# Parmeliella leptophylla Vain. SPECIES
 
 #### Status
 ACCEPTED

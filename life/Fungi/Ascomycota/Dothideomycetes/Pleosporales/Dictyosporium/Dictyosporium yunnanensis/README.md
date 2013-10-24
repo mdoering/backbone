@@ -1,5 +1,4 @@
-Dictyosporium yunnanensis L. Cai, K.D. Hyde & McKenzie SPECIES
-=======
+# Dictyosporium yunnanensis L. Cai, K.D. Hyde & McKenzie SPECIES
 
 #### Status
 ACCEPTED

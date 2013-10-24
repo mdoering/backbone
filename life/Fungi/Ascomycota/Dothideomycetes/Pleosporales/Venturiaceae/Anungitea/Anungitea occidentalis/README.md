@@ -1,5 +1,4 @@
-Anungitea occidentalis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Anungitea occidentalis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

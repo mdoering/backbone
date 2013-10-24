@@ -1,5 +1,4 @@
-Puccinia narduri Gonz. Frag. SPECIES
-=======
+# Puccinia narduri Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria epileuca (Berk.) Sacc. SPECIES
-=======
+# Aposphaeria epileuca (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

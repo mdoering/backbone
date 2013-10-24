@@ -1,5 +1,4 @@
-Leptothyrium astrocaryi Henn. SPECIES
-=======
+# Leptothyrium astrocaryi Henn. SPECIES
 
 #### Status
 ACCEPTED

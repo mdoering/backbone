@@ -1,5 +1,4 @@
-Hypomyces epimyces (G.H. Otth) Sacc. SPECIES
-=======
+# Hypomyces epimyces (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

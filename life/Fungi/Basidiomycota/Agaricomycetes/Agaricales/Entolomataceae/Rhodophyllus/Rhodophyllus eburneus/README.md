@@ -1,5 +1,4 @@
-Rhodophyllus eburneus var. eburneus VARIETY
-=======
+# Rhodophyllus eburneus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 59: 600 (1979)
 
 #### Original name
-Rhodophyllus eburneus var. eburneus
+Rhodophyllus eburneus Romagn. & Gilles
 
 ### Remarks
 null

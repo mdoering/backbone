@@ -1,5 +1,4 @@
-Leptographium bistatum J.J. Kim & G.H. Kim, 2004 SPECIES
-=======
+# Leptographium bistatum J.J. Kim & G.H. Kim, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sepultaria punicea Clem. SPECIES
-=======
+# Sepultaria punicea Clem. SPECIES
 
 #### Status
 ACCEPTED

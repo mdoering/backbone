@@ -1,5 +1,4 @@
-Tapinia lignea (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Tapinia lignea (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

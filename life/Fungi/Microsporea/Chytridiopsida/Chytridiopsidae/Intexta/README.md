@@ -1,5 +1,4 @@
-Intexta J.I.R. Larsson, Steiner & Bjørnson GENUS
-=======
+# Intexta J.I.R. Larsson, Steiner & Bjørnson GENUS
 
 #### Status
 ACCEPTED

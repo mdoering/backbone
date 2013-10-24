@@ -1,5 +1,4 @@
-Hendersonia multa Rieuf & Teasca SPECIES
-=======
+# Hendersonia multa Rieuf & Teasca SPECIES
 
 #### Status
 ACCEPTED

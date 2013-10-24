@@ -1,5 +1,4 @@
-Achlya heteromorpha J.V. Harv. SPECIES
-=======
+# Achlya heteromorpha J.V. Harv. SPECIES
 
 #### Status
 ACCEPTED

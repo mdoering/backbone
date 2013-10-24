@@ -1,5 +1,4 @@
-Caloplaca xerica Poelt & Vezda SPECIES
-=======
+# Caloplaca xerica Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryochaete Rick, 1959 GENUS
-=======
+# Botryochaete Rick, 1959 GENUS
 
 #### Status
 ACCEPTED

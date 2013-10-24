@@ -1,5 +1,4 @@
-Quinquecapsularia Pessagno, 1971 GENUS
-=======
+# Quinquecapsularia Pessagno, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clarkeinda poderes (Berk. & Broome) Kuntze SPECIES
-=======
+# Clarkeinda poderes (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

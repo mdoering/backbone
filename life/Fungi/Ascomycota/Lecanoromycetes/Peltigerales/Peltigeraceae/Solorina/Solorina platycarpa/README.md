@@ -1,5 +1,4 @@
-Solorina platycarpa Hue SPECIES
-=======
+# Solorina platycarpa Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma violascens G.H. Otth SPECIES
-=======
+# Hebeloma violascens G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

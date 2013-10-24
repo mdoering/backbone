@@ -1,5 +1,4 @@
-Coprinus pseudoplicatilis Voglino SPECIES
-=======
+# Coprinus pseudoplicatilis Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus brasiliensis Mont. SPECIES
-=======
+# Hygrophorus brasiliensis Mont. SPECIES
 
 #### Status
 ACCEPTED

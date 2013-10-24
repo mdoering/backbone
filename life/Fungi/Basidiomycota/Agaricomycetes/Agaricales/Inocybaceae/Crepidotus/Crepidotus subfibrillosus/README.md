@@ -1,5 +1,4 @@
-Crepidotus subfibrillosus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus subfibrillosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

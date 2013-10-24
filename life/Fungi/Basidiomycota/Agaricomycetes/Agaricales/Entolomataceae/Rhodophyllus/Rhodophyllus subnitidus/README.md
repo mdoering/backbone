@@ -1,5 +1,4 @@
-Rhodophyllus subnitidus f. subnitidus FORM
-=======
+# Rhodophyllus subnitidus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhodophyllus subnitidus f. subnitidus
+Rhodophyllus subnitidus
 
 ### Remarks
 null

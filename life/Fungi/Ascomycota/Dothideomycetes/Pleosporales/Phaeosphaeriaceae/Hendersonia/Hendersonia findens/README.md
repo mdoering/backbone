@@ -1,5 +1,4 @@
-Hendersonia findens Cooke SPECIES
-=======
+# Hendersonia findens Cooke SPECIES
 
 #### Status
 ACCEPTED

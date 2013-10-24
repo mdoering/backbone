@@ -1,5 +1,4 @@
-Papulaspora albidula Hotson SPECIES
-=======
+# Papulaspora albidula Hotson SPECIES
 
 #### Status
 ACCEPTED

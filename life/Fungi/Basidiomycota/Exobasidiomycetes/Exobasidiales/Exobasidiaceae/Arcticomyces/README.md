@@ -1,5 +1,4 @@
-Arcticomyces GENUS
-=======
+# Arcticomyces GENUS
 
 #### Status
 ACCEPTED

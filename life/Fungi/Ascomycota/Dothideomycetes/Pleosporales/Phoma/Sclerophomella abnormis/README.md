@@ -1,5 +1,4 @@
-Sclerophomella abnormis Petr. SPECIES
-=======
+# Sclerophomella abnormis Petr. SPECIES
 
 #### Status
 ACCEPTED

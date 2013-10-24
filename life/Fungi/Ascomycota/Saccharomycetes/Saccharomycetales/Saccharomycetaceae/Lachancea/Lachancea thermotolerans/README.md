@@ -1,17 +1,16 @@
-Torula dattila Kluyver, 1914 SPECIES
-=======
+# Lachancea thermotolerans (Philippow) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 4(3): 240 (2003)
 
 #### Original name
-null
+Zygosaccharomyces thermotolerans Philippow, 1932
 
 ### Remarks
 null

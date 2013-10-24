@@ -1,5 +1,4 @@
-Ophiodothella sydowii Petr., 1948 SPECIES
-=======
+# Ophiodothella sydowii Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

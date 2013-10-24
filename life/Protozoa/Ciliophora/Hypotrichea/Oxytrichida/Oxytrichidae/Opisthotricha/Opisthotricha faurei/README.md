@@ -1,5 +1,4 @@
-Opisthotricha faurei Tucolesco, 1962 SPECIES
-=======
+# Opisthotricha faurei Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

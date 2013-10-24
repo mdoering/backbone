@@ -1,5 +1,4 @@
-Gloeosporium canadense Ellis & Everh. SPECIES
-=======
+# Gloeosporium canadense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

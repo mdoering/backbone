@@ -1,5 +1,4 @@
-Cantharellus lacunosus Velen. SPECIES
-=======
+# Cantharellus lacunosus Velen. SPECIES
 
 #### Status
 ACCEPTED

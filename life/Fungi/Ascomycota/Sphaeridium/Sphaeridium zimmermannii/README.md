@@ -1,8 +1,7 @@
-Sphaeridium zimmermanni Sacc. & P. Syd. SPECIES
-=======
+# Sphaeridium zimmermannii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeridium zimmermanni Sacc. & P. Syd.
+Sphaeridium zimmermannii Sacc. & P. Syd.
 
 ### Remarks
 null

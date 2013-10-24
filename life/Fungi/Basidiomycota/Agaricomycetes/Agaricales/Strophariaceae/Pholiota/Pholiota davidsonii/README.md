@@ -1,5 +1,4 @@
-Pholiota davidsonii A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota davidsonii A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula sphaerocephala Vain. SPECIES
-=======
+# Pseudopyrenula sphaerocephala Vain. SPECIES
 
 #### Status
 ACCEPTED

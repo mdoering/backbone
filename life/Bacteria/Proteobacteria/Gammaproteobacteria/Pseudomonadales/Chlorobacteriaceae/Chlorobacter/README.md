@@ -1,5 +1,4 @@
-Chlorobacter GENUS
-=======
+# Chlorobacter GENUS
 
 #### Status
 ACCEPTED

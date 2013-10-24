@@ -1,5 +1,4 @@
-Scytonema granulatum G.Martens SPECIES
-=======
+# Scytonema granulatum G.Martens SPECIES
 
 #### Status
 ACCEPTED

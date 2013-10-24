@@ -1,5 +1,4 @@
-Cortinarius malleatus Bidaud & Fillion SPECIES
-=======
+# Cortinarius malleatus Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

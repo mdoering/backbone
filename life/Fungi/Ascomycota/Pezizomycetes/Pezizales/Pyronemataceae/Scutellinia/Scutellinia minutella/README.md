@@ -1,17 +1,16 @@
-Lachnea umbrata var. umbrata VARIETY
-=======
+# Scutellinia minutella Svrcek & J. Moravec, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 23: 156 (1969)
 
 #### Original name
-Lachnea umbrata var. umbrata
+Scutellinia minutella Svrcek & J. Moravec, 1969
 
 ### Remarks
 null

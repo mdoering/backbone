@@ -1,5 +1,4 @@
-Ceratium coarctatum Pavillard SPECIES
-=======
+# Ceratium coarctatum Pavillard SPECIES
 
 #### Status
 ACCEPTED

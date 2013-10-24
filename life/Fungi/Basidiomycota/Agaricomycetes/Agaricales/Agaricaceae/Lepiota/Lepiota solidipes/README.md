@@ -1,5 +1,4 @@
-Lepiota solidipes Peck SPECIES
-=======
+# Lepiota solidipes Peck SPECIES
 
 #### Status
 ACCEPTED

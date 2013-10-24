@@ -1,5 +1,4 @@
-Scolecosporites R.T. Lange & P.H. Sm. GENUS
-=======
+# Scolecosporites R.T. Lange & P.H. Sm. GENUS
 
 #### Status
 ACCEPTED

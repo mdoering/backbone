@@ -1,5 +1,4 @@
-Pholiota avellanea Murrill SPECIES
-=======
+# Pholiota avellanea Murrill SPECIES
 
 #### Status
 ACCEPTED

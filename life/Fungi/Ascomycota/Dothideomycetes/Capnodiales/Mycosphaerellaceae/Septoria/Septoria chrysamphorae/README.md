@@ -1,5 +1,4 @@
-Septoria chrysamphorae Ellis & Everh. SPECIES
-=======
+# Septoria chrysamphorae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Vaucheria hamata f. salina Rieth FORM
-=======
+# Vaucheria erythrospora T.A. Christensen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

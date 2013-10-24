@@ -1,5 +1,4 @@
-Phaeophyceae Kjellman, 1891 CLASS
-=======
+# Phaeophyceae Kjellman, 1891 CLASS
 
 #### Status
 ACCEPTED

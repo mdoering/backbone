@@ -1,17 +1,16 @@
-Lecidea intercalanda Arnold SPECIES
-=======
+# Lecidea commaculans Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 51: 476 (1868)
 
 #### Original name
-null
+Lecidea commaculans Nyl.
 
 ### Remarks
 null

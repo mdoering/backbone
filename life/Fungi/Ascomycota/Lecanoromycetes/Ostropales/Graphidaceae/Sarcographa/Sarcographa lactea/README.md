@@ -1,5 +1,4 @@
-Sarcographa lactea (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Sarcographa lactea (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

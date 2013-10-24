@@ -1,5 +1,4 @@
-Nigrospora javanica Palm SPECIES
-=======
+# Nigrospora javanica Palm SPECIES
 
 #### Status
 ACCEPTED

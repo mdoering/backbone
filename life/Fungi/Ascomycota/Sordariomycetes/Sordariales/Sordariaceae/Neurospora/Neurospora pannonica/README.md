@@ -1,5 +1,4 @@
-Neurospora pannonica J.C. Krug & R.S. Khan, 1992 SPECIES
-=======
+# Neurospora pannonica J.C. Krug & R.S. Khan, 1992 SPECIES
 
 #### Status
 ACCEPTED

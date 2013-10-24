@@ -1,5 +1,4 @@
-Amanitaria umbrinella (E.-J. Gilbert & Cleland) E.-J. Gilbert SPECIES
-=======
+# Amanitaria umbrinella (E.-J. Gilbert & Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

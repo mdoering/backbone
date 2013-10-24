@@ -1,5 +1,4 @@
-Gyromitra (E.M. Fries) S. Imai, 1932 GENUS
-=======
+# Gyromitra (E.M. Fries) S. Imai, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitinoidella cubensis SPECIES
-=======
+# Chitinoidella cubensis SPECIES
 
 #### Status
 ACCEPTED

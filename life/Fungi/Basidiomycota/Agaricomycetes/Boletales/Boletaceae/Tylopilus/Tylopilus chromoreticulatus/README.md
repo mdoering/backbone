@@ -1,5 +1,4 @@
-Tylopilus chromoreticulatus Wolfe & Bougher SPECIES
-=======
+# Tylopilus chromoreticulatus Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

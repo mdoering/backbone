@@ -1,5 +1,4 @@
-Galerina wellsiae A.H. Sm. SPECIES
-=======
+# Galerina wellsiae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

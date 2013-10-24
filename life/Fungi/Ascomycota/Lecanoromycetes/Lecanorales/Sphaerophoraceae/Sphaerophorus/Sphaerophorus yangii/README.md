@@ -1,5 +1,4 @@
-Sphaerophorus yangii Wang {?}, Yang {?} & M.J. Lai SPECIES
-=======
+# Sphaerophorus yangii Wang {?}, Yang {?} & M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

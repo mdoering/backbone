@@ -1,5 +1,4 @@
-Sporidesmium subfuscum Marvanová & Gulis SPECIES
-=======
+# Sporidesmium subfuscum Marvanová & Gulis SPECIES
 
 #### Status
 ACCEPTED

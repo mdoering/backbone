@@ -1,5 +1,4 @@
-Gorgoniceps kalmiae Rehm SPECIES
-=======
+# Gorgoniceps kalmiae Rehm SPECIES
 
 #### Status
 ACCEPTED

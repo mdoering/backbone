@@ -1,5 +1,4 @@
-Irpex platensis Speg. SPECIES
-=======
+# Irpex platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

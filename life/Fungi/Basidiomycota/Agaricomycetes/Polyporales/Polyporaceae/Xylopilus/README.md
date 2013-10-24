@@ -1,5 +1,4 @@
-Xylopilus GENUS
-=======
+# Xylopilus GENUS
 
 #### Status
 ACCEPTED

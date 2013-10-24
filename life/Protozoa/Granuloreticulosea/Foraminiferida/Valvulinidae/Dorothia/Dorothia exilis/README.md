@@ -1,5 +1,4 @@
-Dorothia exilis SPECIES
-=======
+# Dorothia exilis SPECIES
 
 #### Status
 ACCEPTED

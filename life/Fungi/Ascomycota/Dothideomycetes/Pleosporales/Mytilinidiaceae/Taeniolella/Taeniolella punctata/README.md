@@ -1,5 +1,4 @@
-Taeniolella punctata M.S. Christ. & D. Hawksw., 1979 SPECIES
-=======
+# Taeniolella punctata M.S. Christ. & D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

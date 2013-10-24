@@ -1,5 +1,4 @@
-Fusarium aeruginosum Delacr. SPECIES
-=======
+# Fusarium aeruginosum Delacr. SPECIES
 
 #### Status
 ACCEPTED

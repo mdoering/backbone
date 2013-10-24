@@ -1,5 +1,4 @@
-Badarisama sojae Kunwar, J.B. Manandhar & J.B. Sinclair, 1986 SPECIES
-=======
+# Badarisama sojae Kunwar, J.B. Manandhar & J.B. Sinclair, 1986 SPECIES
 
 #### Status
 ACCEPTED

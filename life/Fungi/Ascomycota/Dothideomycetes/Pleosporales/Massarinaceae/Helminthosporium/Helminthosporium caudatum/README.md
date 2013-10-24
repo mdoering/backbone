@@ -1,5 +1,4 @@
-Helminthosporium caudatum Berk. & Broome SPECIES
-=======
+# Helminthosporium caudatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

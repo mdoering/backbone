@@ -1,5 +1,4 @@
-Sphacelotheca valesiaca Schellenb. SPECIES
-=======
+# Sphacelotheca valesiaca Schellenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygoniochloris circularis (Bourelly & Georges) H.Ettl SPECIES
-=======
+# Polygoniochloris circularis (Bourelly & Georges) H.Ettl SPECIES
 
 #### Status
 ACCEPTED

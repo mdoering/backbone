@@ -1,5 +1,4 @@
-Volutella pini-caribaeae Tak. Kobay. SPECIES
-=======
+# Volutella pini-caribaeae Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

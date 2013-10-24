@@ -1,5 +1,4 @@
-Mycena albidula (Peck) A.H. Sm. SPECIES
-=======
+# Mycena albidula (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

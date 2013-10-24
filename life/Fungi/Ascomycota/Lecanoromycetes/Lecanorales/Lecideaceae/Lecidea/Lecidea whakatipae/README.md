@@ -1,5 +1,4 @@
-Lecidea whakatipae C. Knight SPECIES
-=======
+# Lecidea whakatipae C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocopra micrura Speg. SPECIES
-=======
+# Hypocopra micrura Speg. SPECIES
 
 #### Status
 ACCEPTED

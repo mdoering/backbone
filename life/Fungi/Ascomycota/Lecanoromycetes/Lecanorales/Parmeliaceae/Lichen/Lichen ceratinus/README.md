@@ -1,5 +1,4 @@
-Lichen ceratinus (Ach.) Lam. SPECIES
-=======
+# Lichen ceratinus (Ach.) Lam. SPECIES
 
 #### Status
 ACCEPTED

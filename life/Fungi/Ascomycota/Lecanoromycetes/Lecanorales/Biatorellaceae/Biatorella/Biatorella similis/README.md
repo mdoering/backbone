@@ -1,5 +1,4 @@
-Biatorella similis H. Magn. SPECIES
-=======
+# Biatorella similis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

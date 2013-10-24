@@ -1,5 +1,4 @@
-Phyllosticta setariae Ferraris SPECIES
-=======
+# Phyllosticta setariae Ferraris SPECIES
 
 #### Status
 ACCEPTED

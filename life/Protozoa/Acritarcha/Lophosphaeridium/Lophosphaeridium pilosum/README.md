@@ -1,5 +1,4 @@
-Lophosphaeridium pilosum Downie, 1963 SPECIES
-=======
+# Lophosphaeridium pilosum Downie, 1963 SPECIES
 
 #### Status
 ACCEPTED

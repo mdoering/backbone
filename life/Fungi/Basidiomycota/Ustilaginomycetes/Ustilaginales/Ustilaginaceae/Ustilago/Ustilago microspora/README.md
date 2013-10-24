@@ -1,5 +1,4 @@
-Ustilago microspora var. microspora VARIETY
-=======
+# Ustilago microspora Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Misc. Inf. , Kew 160 (1901)
 
 #### Original name
-Ustilago microspora var. microspora
+Ustilago microspora Massee & Rodway
 
 ### Remarks
 null

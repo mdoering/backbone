@@ -1,5 +1,4 @@
-Diploceras GENUS
-=======
+# Diploceras GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha squalida (Erichsen) Upreti & Ajay Singh SPECIES
-=======
+# Opegrapha squalida (Erichsen) Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

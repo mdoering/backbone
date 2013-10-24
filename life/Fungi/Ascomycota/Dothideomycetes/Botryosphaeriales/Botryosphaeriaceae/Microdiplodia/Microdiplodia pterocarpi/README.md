@@ -1,5 +1,4 @@
-Microdiplodia pterocarpi (Cooke) Tassi SPECIES
-=======
+# Microdiplodia pterocarpi (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

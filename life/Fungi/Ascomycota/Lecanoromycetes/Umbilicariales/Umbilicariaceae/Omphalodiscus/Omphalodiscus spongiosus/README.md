@@ -1,5 +1,4 @@
-Omphalodiscus spongiosus var. spongiosus VARIETY
-=======
+# Omphalodiscus spongiosus (C.W. Dodge & G.E. Baker) Llano SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Omphalodiscus spongiosus var. spongiosus
+Umbilicaria spongiosa C. W. Dodge & G. E. Baker
 
 ### Remarks
 null

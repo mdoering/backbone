@@ -1,5 +1,4 @@
-Puccinia actinidiae Hirats.f. SPECIES
-=======
+# Puccinia actinidiae Hirats.f. SPECIES
 
 #### Status
 ACCEPTED

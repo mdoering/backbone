@@ -1,5 +1,4 @@
-Inonotus longisetulosus (Bondartseva & S. Herrera) Bondartseva & S. Herrera SPECIES
-=======
+# Inonotus longisetulosus (Bondartseva & S. Herrera) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

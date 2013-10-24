@@ -1,5 +1,4 @@
-Podosphaera delphinii (P. Karst.) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera delphinii (P. Karst.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

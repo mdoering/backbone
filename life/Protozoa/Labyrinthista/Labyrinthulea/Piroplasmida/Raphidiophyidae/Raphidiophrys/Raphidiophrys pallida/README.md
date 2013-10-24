@@ -1,5 +1,4 @@
-Raphidiophrys pallida Schultze SPECIES
-=======
+# Raphidiophrys pallida Schultze SPECIES
 
 #### Status
 ACCEPTED

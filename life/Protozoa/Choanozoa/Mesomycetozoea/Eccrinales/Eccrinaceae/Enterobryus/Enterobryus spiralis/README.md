@@ -1,5 +1,4 @@
-Enterobryus spiralis Leidy SPECIES
-=======
+# Enterobryus spiralis Leidy SPECIES
 
 #### Status
 ACCEPTED

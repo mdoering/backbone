@@ -1,5 +1,4 @@
-Trichosphaeria dactylosporifera Petch SPECIES
-=======
+# Trichosphaeria dactylosporifera Petch SPECIES
 
 #### Status
 ACCEPTED

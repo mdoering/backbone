@@ -1,8 +1,7 @@
-Stradnerlithus octoradiatus Medd, 1979 SPECIES
-=======
+# Truncatoscaphus octoporus Moshkovitz & Ehrlich, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Nephroma hensseniae P. James & F. J. White SPECIES
-=======
+# Nephroma hensseniae P. James & F. J. White SPECIES
 
 #### Status
 ACCEPTED

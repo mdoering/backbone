@@ -1,5 +1,4 @@
-Sphaeria denudans Schwein. SPECIES
-=======
+# Sphaeria denudans Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilotricha geleii SPECIES
-=======
+# Psilotricha geleii SPECIES
 
 #### Status
 ACCEPTED

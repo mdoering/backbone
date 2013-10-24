@@ -1,5 +1,4 @@
-Mycosphaerella cepharanthae Sawada SPECIES
-=======
+# Mycosphaerella cepharanthae Sawada SPECIES
 
 #### Status
 ACCEPTED

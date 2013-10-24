@@ -1,5 +1,4 @@
-Candelabrella Rifai & R.C. Cooke GENUS
-=======
+# Candelabrella Rifai & R.C. Cooke GENUS
 
 #### Status
 ACCEPTED

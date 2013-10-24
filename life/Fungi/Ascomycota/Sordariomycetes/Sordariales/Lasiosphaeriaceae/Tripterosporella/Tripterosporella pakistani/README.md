@@ -1,5 +1,4 @@
-Tripterosporella pakistani (J.H. Mirza) Malloch & Cain SPECIES
-=======
+# Tripterosporella pakistani (J.H. Mirza) Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

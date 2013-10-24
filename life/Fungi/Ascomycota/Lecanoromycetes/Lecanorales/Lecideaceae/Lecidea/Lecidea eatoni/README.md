@@ -1,5 +1,4 @@
-Lecidea eatoni Cromb. SPECIES
-=======
+# Lecidea eatoni Cromb. SPECIES
 
 #### Status
 ACCEPTED

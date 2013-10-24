@@ -1,5 +1,4 @@
-Rinodina constans (Nyl.) Tuck. SPECIES
-=======
+# Rinodina constans (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

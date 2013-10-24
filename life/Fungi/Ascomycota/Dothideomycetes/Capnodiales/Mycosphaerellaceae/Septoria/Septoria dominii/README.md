@@ -1,5 +1,4 @@
-Septoria dominii Bubák SPECIES
-=======
+# Septoria dominii Bubák SPECIES
 
 #### Status
 ACCEPTED

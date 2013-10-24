@@ -1,5 +1,4 @@
-Sphaerella niesslii Auersw. SPECIES
-=======
+# Sphaerella niesslii Auersw. SPECIES
 
 #### Status
 ACCEPTED

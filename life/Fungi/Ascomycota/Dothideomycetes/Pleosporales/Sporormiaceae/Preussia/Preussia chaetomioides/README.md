@@ -1,5 +1,4 @@
-Preussia chaetomioides (Griffiths) Guarro & Gené SPECIES
-=======
+# Preussia chaetomioides (Griffiths) Guarro & Gené SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia perigrapta (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia perigrapta (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

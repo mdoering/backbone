@@ -1,5 +1,4 @@
-Diaporthe congesta Ellis & Everh. SPECIES
-=======
+# Diaporthe congesta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

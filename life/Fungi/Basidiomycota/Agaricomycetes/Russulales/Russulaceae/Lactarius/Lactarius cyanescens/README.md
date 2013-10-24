@@ -1,5 +1,4 @@
-Lactarius cyanescens Stubbe, Verbeken & Watling SPECIES
-=======
+# Lactarius cyanescens Stubbe, Verbeken & Watling SPECIES
 
 #### Status
 ACCEPTED

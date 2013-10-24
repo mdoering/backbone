@@ -1,5 +1,4 @@
-Lepiota speciosa (Trimbach) Trimbach & Augias SPECIES
-=======
+# Lepiota speciosa (Trimbach) Trimbach & Augias SPECIES
 
 #### Status
 ACCEPTED

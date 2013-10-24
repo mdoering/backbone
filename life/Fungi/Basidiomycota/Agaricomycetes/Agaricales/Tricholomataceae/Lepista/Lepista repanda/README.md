@@ -1,5 +1,4 @@
-Lepista repanda Raithelh. SPECIES
-=======
+# Lepista repanda Raithelh. SPECIES
 
 #### Status
 ACCEPTED

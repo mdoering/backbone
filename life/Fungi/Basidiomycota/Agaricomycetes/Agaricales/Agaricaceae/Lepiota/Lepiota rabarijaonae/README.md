@@ -1,17 +1,16 @@
-Lepiota rabarijanonae Bouriquet SPECIES
-=======
+# Lepiota rabarijaonae Bouriquet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Acad. malgache 25: 14 (1946)
 
 #### Original name
-Lepiota rabarijanonae Bouriquet
+Lepiota rabarijaonae Bouriquet
 
 ### Remarks
 null

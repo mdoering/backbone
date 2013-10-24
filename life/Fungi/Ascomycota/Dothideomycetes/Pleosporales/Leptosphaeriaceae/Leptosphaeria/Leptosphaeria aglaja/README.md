@@ -1,5 +1,4 @@
-Leptosphaeria aglaja Sacc. SPECIES
-=======
+# Leptosphaeria aglaja Sacc. SPECIES
 
 #### Status
 ACCEPTED

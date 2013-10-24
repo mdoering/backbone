@@ -1,5 +1,4 @@
-Thelotrema minarum Vain. SPECIES
-=======
+# Thelotrema minarum Vain. SPECIES
 
 #### Status
 ACCEPTED

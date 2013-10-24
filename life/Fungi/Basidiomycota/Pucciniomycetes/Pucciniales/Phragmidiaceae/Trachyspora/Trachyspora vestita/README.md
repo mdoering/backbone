@@ -1,14 +1,13 @@
-Uromyces vestitus Dietel, 1908 SPECIES
-=======
+# Trachyspora vestita (Dietel) J.C. Lindq., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6: 94 (1908)
+Boln Soc. argent. Bot. 7: 18 (1957)
 
 #### Original name
 Uromyces vestitus Dietel, 1908

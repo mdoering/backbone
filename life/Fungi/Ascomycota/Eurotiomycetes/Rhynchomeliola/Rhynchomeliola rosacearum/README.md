@@ -1,5 +1,4 @@
-Rhynchomeliola rosacearum Bat. & Cavalc. SPECIES
-=======
+# Rhynchomeliola rosacearum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

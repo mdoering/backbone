@@ -1,14 +1,13 @@
-Chlorosplenium tortum (Schwein.) Fr. SPECIES
-=======
+# Chlorencoelia torta (Schwein.) J.R. Dixon, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 1(3): 230 (1975)
 
 #### Original name
 null

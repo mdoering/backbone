@@ -1,5 +1,4 @@
-Parmelia lepadina Fr. SPECIES
-=======
+# Parmelia lepadina Fr. SPECIES
 
 #### Status
 ACCEPTED

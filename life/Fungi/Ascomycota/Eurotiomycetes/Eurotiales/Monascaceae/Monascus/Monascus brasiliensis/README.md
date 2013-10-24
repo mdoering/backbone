@@ -1,5 +1,4 @@
-Monascus brasiliensis ined. SPECIES
-=======
+# Monascus brasiliensis ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma shandongense J.D. Zhao & X.Q. Zhang, 1986 SPECIES
-=======
+# Ganoderma shandongense J.D. Zhao & X.Q. Zhang, 1986 SPECIES
 
 #### Status
 ACCEPTED

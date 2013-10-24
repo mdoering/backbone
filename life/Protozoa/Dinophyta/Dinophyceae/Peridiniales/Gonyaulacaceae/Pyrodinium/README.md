@@ -1,14 +1,13 @@
-Pyrgodinium Entz, 1907 GENUS
-=======
+# Pyrodinium Plate, 1906 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Állatani Közlemények VI Kötetének I. Füzetéböl 6: 19.
+Arch. Protistenk. , 7, 427.
 
 #### Original name
 null

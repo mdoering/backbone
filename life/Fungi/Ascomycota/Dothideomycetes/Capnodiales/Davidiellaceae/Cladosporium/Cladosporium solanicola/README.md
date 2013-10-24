@@ -1,17 +1,16 @@
-Cladosporium solanicolum Viégas SPECIES
-=======
+# Cladosporium solanicola Viégas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bragantia 6: 368 (1946)
 
 #### Original name
-Cladosporium solanicolum Viégas
+Cladosporium solanicola Viégas
 
 ### Remarks
 null

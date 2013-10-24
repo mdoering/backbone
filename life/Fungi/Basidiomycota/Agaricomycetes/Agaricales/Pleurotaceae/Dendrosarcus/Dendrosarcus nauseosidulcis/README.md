@@ -1,5 +1,4 @@
-Dendrosarcus nauseosidulcis (P. Karst.) Kuntze SPECIES
-=======
+# Dendrosarcus nauseosidulcis (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

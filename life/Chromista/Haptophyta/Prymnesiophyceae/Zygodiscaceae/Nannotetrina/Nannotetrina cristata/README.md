@@ -1,8 +1,7 @@
-Chiphragmalithus cristatus (Martini, 1958) Bramlette & Sullivan, 1961 SPECIES
-=======
+# Nannotetrina cristata (Martini, 1958) Perch-Nielsen, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

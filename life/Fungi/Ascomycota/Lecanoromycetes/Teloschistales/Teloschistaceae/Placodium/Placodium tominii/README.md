@@ -1,5 +1,4 @@
-Placodium tominii Savicz SPECIES
-=======
+# Placodium tominii Savicz SPECIES
 
 #### Status
 ACCEPTED

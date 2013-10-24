@@ -1,5 +1,4 @@
-Hertella Henssen GENUS
-=======
+# Hertella Henssen GENUS
 
 #### Status
 ACCEPTED

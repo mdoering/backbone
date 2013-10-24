@@ -1,17 +1,16 @@
-Geoglossum glabrum var. glabrum VARIETY
-=======
+# Geoglossum glabrum Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues Mag. Bot. 1: 116 (1794)
+Enum. pl. (Kjbenhavn) 2: 407 (1803)
 
 #### Original name
-Geoglossum glabrum var. glabrum
+Geoglossum glabrum Pers., 1794
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sciniatosporium clusiae (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium clusiae (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

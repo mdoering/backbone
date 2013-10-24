@@ -1,5 +1,4 @@
-Dearnessia Bubák GENUS
-=======
+# Dearnessia Bubák GENUS
 
 #### Status
 ACCEPTED

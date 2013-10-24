@@ -1,5 +1,4 @@
-Verpatinia GENUS
-=======
+# Verpatinia GENUS
 
 #### Status
 ACCEPTED

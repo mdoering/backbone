@@ -1,5 +1,4 @@
-Opegrapha betuligna Ach. SPECIES
-=======
+# Opegrapha betuligna Ach. SPECIES
 
 #### Status
 ACCEPTED

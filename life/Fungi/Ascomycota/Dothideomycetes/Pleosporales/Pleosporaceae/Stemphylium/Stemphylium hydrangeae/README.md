@@ -1,5 +1,4 @@
-Stemphylium hydrangeae X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Stemphylium hydrangeae X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

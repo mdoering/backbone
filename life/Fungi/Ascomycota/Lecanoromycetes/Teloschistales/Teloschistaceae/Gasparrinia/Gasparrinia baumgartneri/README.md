@@ -1,5 +1,4 @@
-Gasparrinia baumgartneri (Zahlbr.) Verseghy SPECIES
-=======
+# Gasparrinia baumgartneri (Zahlbr.) Verseghy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria plurisepta (Tehon & E.Y. Daniels) Arx & E. Müll. SPECIES
-=======
+# Leptosphaeria plurisepta (Tehon & E.Y. Daniels) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

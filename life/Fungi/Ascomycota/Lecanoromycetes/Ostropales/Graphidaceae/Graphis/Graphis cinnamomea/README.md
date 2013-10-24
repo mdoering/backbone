@@ -1,5 +1,4 @@
-Graphis cinnamomea Adaw. & Makhija SPECIES
-=======
+# Graphis cinnamomea Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

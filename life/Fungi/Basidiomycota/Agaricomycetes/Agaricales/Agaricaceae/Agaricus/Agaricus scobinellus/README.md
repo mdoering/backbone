@@ -1,5 +1,4 @@
-Agaricus scobinellus Fr. SPECIES
-=======
+# Agaricus scobinellus Fr. SPECIES
 
 #### Status
 ACCEPTED

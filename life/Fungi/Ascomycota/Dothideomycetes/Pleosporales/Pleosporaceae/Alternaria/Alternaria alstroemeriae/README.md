@@ -1,5 +1,4 @@
-Alternaria alstroemeriae E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria alstroemeriae E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

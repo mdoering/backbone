@@ -1,5 +1,4 @@
-Vibrissea lutea Peck SPECIES
-=======
+# Vibrissea lutea Peck SPECIES
 
 #### Status
 ACCEPTED

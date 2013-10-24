@@ -1,5 +1,4 @@
-Botryosphaeria appendiculata Z.Q. Yuan & Old SPECIES
-=======
+# Botryosphaeria appendiculata Z.Q. Yuan & Old SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermodermia GENUS
-=======
+# Spermodermia GENUS
 
 #### Status
 ACCEPTED

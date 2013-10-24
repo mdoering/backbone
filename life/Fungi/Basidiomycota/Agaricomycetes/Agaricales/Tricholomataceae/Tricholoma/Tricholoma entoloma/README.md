@@ -1,5 +1,4 @@
-Tricholoma entoloma (Murrill) Murrill SPECIES
-=======
+# Tricholoma entoloma (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

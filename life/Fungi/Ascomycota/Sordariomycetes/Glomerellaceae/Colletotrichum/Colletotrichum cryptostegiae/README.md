@@ -1,5 +1,4 @@
-Colletotrichum cryptostegiae Chipl. SPECIES
-=======
+# Colletotrichum cryptostegiae Chipl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium atlantica Busch, 1921 SPECIES
-=======
+# Strombidium atlantica Busch, 1921 SPECIES
 
 #### Status
 ACCEPTED

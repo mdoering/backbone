@@ -1,5 +1,4 @@
-Parmotrema sipmanii Louwhoff & Elix SPECIES
-=======
+# Parmotrema sipmanii Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

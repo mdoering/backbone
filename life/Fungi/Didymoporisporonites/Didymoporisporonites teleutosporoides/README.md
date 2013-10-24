@@ -1,5 +1,4 @@
-Didymoporisporonites teleutosporoides Sal.-Cheb. & Locq. SPECIES
-=======
+# Didymoporisporonites teleutosporoides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

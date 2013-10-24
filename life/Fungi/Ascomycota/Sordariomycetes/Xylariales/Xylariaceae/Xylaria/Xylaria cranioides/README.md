@@ -1,5 +1,4 @@
-Xylaria cranioides (Sacc. & Paol.) Dennis SPECIES
-=======
+# Xylaria cranioides (Sacc. & Paol.) Dennis SPECIES
 
 #### Status
 ACCEPTED

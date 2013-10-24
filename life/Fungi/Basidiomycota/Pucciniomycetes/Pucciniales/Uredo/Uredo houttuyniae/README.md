@@ -1,5 +1,4 @@
-Uredo houttuyniae Sawada SPECIES
-=======
+# Uredo houttuyniae Sawada SPECIES
 
 #### Status
 ACCEPTED

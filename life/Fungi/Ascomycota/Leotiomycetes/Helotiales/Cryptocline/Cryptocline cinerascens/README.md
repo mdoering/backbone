@@ -1,14 +1,13 @@
-Gloeosporium cinerascens Bubák, 1904 SPECIES
-=======
+# Cryptocline cinerascens (Bubák) Arx, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2(5): 399 (1904)
+Verh. K. Akad. Wet. , tweede sect. 51(3): 73 (1957)
 
 #### Original name
 Gloeosporium cinerascens Bubák, 1904

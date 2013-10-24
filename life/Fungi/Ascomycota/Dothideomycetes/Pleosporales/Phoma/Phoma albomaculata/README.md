@@ -1,5 +1,4 @@
-Phoma albomaculata Miura SPECIES
-=======
+# Phoma albomaculata Miura SPECIES
 
 #### Status
 ACCEPTED

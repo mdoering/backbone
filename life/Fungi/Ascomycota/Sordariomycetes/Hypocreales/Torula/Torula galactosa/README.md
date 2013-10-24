@@ -1,5 +1,4 @@
-Torula galactosa Kluyver SPECIES
-=======
+# Torula galactosa Kluyver SPECIES
 
 #### Status
 ACCEPTED

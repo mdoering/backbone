@@ -1,5 +1,4 @@
-Phyllosticta melampyrina Aksel SPECIES
-=======
+# Phyllosticta melampyrina Aksel SPECIES
 
 #### Status
 ACCEPTED

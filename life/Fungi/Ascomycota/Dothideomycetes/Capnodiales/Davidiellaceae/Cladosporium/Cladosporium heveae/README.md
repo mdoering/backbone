@@ -1,5 +1,4 @@
-Cladosporium heveae Syd. & P. Syd. SPECIES
-=======
+# Cladosporium heveae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

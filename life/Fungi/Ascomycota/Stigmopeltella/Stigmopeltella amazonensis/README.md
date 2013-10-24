@@ -1,5 +1,4 @@
-Stigmopeltella amazonensis Bat. SPECIES
-=======
+# Stigmopeltella amazonensis Bat. SPECIES
 
 #### Status
 ACCEPTED

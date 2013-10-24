@@ -1,5 +1,4 @@
-Teichospora olenjensis P. Karst. SPECIES
-=======
+# Teichospora olenjensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

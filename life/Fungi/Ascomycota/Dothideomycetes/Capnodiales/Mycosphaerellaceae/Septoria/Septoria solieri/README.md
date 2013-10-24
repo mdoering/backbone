@@ -1,5 +1,4 @@
-Septoria solieri Mont. SPECIES
-=======
+# Septoria solieri Mont. SPECIES
 
 #### Status
 ACCEPTED

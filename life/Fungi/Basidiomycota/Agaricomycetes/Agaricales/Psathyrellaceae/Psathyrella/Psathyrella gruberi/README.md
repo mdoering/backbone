@@ -1,5 +1,4 @@
-Psathyrella gruberi A.H. Sm. SPECIES
-=======
+# Psathyrella gruberi A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophomina elymi (Died.) Höhn. SPECIES
-=======
+# Sclerophomina elymi (Died.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

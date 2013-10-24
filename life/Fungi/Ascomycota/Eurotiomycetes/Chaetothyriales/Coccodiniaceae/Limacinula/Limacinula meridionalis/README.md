@@ -1,5 +1,4 @@
-Limacinula meridionalis (G. Arnaud) Sacc. & Trotter SPECIES
-=======
+# Limacinula meridionalis (G. Arnaud) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

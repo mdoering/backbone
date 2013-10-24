@@ -1,5 +1,4 @@
-Diaporthe saccardiana J. Kunze ex Sacc. SPECIES
-=======
+# Diaporthe saccardiana J. Kunze ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

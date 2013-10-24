@@ -1,5 +1,4 @@
-Collybia lepiotioides Rick SPECIES
-=======
+# Collybia lepiotioides Rick SPECIES
 
 #### Status
 ACCEPTED

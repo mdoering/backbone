@@ -1,5 +1,4 @@
-Strumella fusco-olivacea (Fr.) Sacc. SPECIES
-=======
+# Strumella fusco-olivacea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plowrightia koordersii (Henn.) Höhn. SPECIES
-=======
+# Plowrightia koordersii (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

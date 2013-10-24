@@ -1,5 +1,4 @@
-Diporicellaesporites padappakkarensis P. Kumar SPECIES
-=======
+# Diporicellaesporites padappakkarensis P. Kumar SPECIES
 
 #### Status
 ACCEPTED

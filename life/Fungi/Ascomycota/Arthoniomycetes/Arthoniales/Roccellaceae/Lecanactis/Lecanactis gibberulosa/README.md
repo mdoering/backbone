@@ -1,5 +1,4 @@
-Lecanactis gibberulosa (Ach.) Stizenb. SPECIES
-=======
+# Lecanactis gibberulosa (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

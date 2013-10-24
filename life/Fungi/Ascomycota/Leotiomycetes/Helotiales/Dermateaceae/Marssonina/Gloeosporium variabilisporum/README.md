@@ -1,5 +1,4 @@
-Gloeosporium variabilisporum Kabát & Bubák SPECIES
-=======
+# Gloeosporium variabilisporum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

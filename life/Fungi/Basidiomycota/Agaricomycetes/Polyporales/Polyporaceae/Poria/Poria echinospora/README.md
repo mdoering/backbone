@@ -1,5 +1,4 @@
-Poria echinospora Rick SPECIES
-=======
+# Poria echinospora Rick SPECIES
 
 #### Status
 ACCEPTED

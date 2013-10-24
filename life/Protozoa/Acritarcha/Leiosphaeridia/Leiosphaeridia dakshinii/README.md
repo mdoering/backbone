@@ -1,5 +1,4 @@
-Leiosphaeridia dakshinii Venkatachala & Rawat, 1973 SPECIES
-=======
+# Leiosphaeridia dakshinii Venkatachala & Rawat, 1973 SPECIES
 
 #### Status
 ACCEPTED

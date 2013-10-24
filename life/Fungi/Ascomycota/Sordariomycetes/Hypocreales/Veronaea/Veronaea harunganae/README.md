@@ -1,5 +1,4 @@
-Veronaea harunganae (Hansf.) M.B. Ellis SPECIES
-=======
+# Veronaea harunganae (Hansf.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

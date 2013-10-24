@@ -1,5 +1,4 @@
-Pachyphloeus macrosporus Calonge SPECIES
-=======
+# Pachyphloeus macrosporus Calonge SPECIES
 
 #### Status
 ACCEPTED

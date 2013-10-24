@@ -1,5 +1,4 @@
-Anthracothecium fulvum Müll. Arg. SPECIES
-=======
+# Anthracothecium fulvum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

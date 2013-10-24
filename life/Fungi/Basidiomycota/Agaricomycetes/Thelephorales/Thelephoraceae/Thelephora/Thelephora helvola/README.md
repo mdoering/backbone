@@ -1,5 +1,4 @@
-Thelephora helvola Sacc. & P. Syd. SPECIES
-=======
+# Thelephora helvola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

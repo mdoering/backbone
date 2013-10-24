@@ -1,5 +1,4 @@
-Escherichia metacoli SPECIES
-=======
+# Escherichia metacoli SPECIES
 
 #### Status
 ACCEPTED

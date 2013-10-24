@@ -1,5 +1,4 @@
-Polyforama formosa Naumova in Lopukhin, 1974 SPECIES
-=======
+# Polyforama formosa Naumova in Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

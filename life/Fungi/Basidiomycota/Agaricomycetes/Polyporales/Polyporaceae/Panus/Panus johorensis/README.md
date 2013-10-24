@@ -1,5 +1,4 @@
-Panus johorensis Corner SPECIES
-=======
+# Panus johorensis Corner SPECIES
 
 #### Status
 ACCEPTED

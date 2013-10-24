@@ -1,14 +1,13 @@
-Nectria wegeliana (Rehm) Höhn. SPECIES
-=======
+# Cosmospora wegeliniana (Rehm) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 131 (1999)
 
 #### Original name
 Nectria episphaeria var. wegeliniana Rehm, 1891

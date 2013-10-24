@@ -1,5 +1,4 @@
-Scampanella bispinosa K. Perch-Nielsen SPECIES
-=======
+# Scampanella bispinosa K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

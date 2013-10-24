@@ -1,5 +1,4 @@
-Stropharia silvatica A.H. Sm. SPECIES
-=======
+# Stropharia silvatica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

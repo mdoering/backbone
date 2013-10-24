@@ -1,5 +1,4 @@
-Metasphaeria silvularum Petr. SPECIES
-=======
+# Metasphaeria silvularum Petr. SPECIES
 
 #### Status
 ACCEPTED

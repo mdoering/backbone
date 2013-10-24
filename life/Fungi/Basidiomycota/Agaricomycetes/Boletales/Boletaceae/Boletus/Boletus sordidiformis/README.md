@@ -1,5 +1,4 @@
-Boletus sordidiformis (Murrill) Murrill SPECIES
-=======
+# Boletus sordidiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

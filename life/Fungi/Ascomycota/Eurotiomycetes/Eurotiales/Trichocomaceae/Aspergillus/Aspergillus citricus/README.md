@@ -1,5 +1,4 @@
-Aspergillus citricus var. citricus Mosseray VARIETY
-=======
+# Aspergillus citricus Mosseray SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspergillus citricus var. citricus Mosseray
+Aspergillus citricus Mosseray
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Octospora phagospora (Flageolet & Los Rios) Dennis & Itzerott SPECIES
-=======
+# Octospora phagospora (Flageolet & Los Rios) Dennis & Itzerott SPECIES
 
 #### Status
 ACCEPTED

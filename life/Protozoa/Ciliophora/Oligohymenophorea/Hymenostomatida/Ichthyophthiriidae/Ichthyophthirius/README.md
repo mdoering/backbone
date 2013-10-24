@@ -1,5 +1,4 @@
-Ichthyophthirius Fouquet, 1876 GENUS
-=======
+# Ichthyophthirius Fouquet, 1876 GENUS
 
 #### Status
 ACCEPTED

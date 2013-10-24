@@ -1,5 +1,4 @@
-Campylobacter GENUS
-=======
+# Campylobacter GENUS
 
 #### Status
 ACCEPTED

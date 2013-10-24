@@ -1,17 +1,16 @@
-Entoloma leptoniisporum (Costantin & L.M. Dufour) Noordel. & Co-David, 2009 SPECIES
-=======
+# Richoniella leptoniispora Costantin & L.M. Dufour, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nouv. Fl. Champ. France (Paris), 5 Edn 203 (1916)
 
 #### Original name
-null
+Richoniella leptoniispora Costantin & L.M. Dufour, 1916
 
 ### Remarks
 null

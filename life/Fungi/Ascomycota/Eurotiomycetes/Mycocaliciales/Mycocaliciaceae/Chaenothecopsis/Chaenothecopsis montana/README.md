@@ -1,5 +1,4 @@
-Chaenothecopsis montana Rikkinen SPECIES
-=======
+# Chaenothecopsis montana Rikkinen SPECIES
 
 #### Status
 ACCEPTED

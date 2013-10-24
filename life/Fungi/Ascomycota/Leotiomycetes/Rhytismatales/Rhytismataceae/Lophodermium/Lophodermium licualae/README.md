@@ -1,5 +1,4 @@
-Lophodermium licualae J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Lophodermium licualae J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

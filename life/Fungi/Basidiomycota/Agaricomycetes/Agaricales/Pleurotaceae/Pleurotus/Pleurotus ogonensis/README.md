@@ -1,5 +1,4 @@
-Pleurotus ogonensis De Seynes SPECIES
-=======
+# Pleurotus ogonensis De Seynes SPECIES
 
 #### Status
 ACCEPTED

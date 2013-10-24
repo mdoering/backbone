@@ -1,5 +1,4 @@
-Lophiostoma caudatum Fabre, 1879 SPECIES
-=======
+# Lophiostoma caudatum Fabre, 1879 SPECIES
 
 #### Status
 ACCEPTED

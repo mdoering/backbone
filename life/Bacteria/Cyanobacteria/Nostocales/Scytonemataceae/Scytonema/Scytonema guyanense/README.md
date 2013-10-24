@@ -1,8 +1,7 @@
-Symphyosiphon guyanensis Montagne SPECIES
-=======
+# Scytonema guyanense (Montagne) Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

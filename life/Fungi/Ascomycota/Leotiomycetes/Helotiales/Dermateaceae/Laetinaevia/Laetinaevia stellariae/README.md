@@ -1,5 +1,4 @@
-Laetinaevia stellariae (Rostr.) Lind SPECIES
-=======
+# Laetinaevia stellariae (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

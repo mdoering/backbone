@@ -1,5 +1,4 @@
-Aecidium hedypnoidis Pat. SPECIES
-=======
+# Aecidium hedypnoidis Pat. SPECIES
 
 #### Status
 ACCEPTED

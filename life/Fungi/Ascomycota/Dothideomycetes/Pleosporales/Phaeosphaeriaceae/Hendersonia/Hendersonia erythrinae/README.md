@@ -1,5 +1,4 @@
-Hendersonia erythrinae (J.V. Almeida & Sousa da Câmara) Sacc. SPECIES
-=======
+# Hendersonia erythrinae (J.V. Almeida & Sousa da Câmara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

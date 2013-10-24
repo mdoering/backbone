@@ -1,5 +1,4 @@
-Cystoderma clastotrichum (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Cystoderma clastotrichum (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

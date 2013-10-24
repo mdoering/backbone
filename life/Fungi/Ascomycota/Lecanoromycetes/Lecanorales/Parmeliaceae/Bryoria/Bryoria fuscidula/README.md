@@ -1,5 +1,4 @@
-Bryoria fuscidula (Arnold) Bystrek SPECIES
-=======
+# Bryoria fuscidula (Arnold) Bystrek SPECIES
 
 #### Status
 ACCEPTED

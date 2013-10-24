@@ -1,5 +1,4 @@
-Hansfordiopsis Bat. GENUS
-=======
+# Hansfordiopsis Bat. GENUS
 
 #### Status
 ACCEPTED

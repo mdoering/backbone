@@ -1,5 +1,4 @@
-Trachelomonas corniformis Roll SPECIES
-=======
+# Trachelomonas corniformis Roll SPECIES
 
 #### Status
 ACCEPTED

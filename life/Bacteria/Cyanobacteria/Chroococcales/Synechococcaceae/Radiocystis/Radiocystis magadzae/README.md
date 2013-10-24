@@ -1,5 +1,4 @@
-Radiocystis magadzae Komárek & Cronberg SPECIES
-=======
+# Radiocystis magadzae Komárek & Cronberg SPECIES
 
 #### Status
 ACCEPTED

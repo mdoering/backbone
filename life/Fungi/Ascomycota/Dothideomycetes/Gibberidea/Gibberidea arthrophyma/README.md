@@ -1,5 +1,4 @@
-Gibberidea arthrophyma Fairm. SPECIES
-=======
+# Gibberidea arthrophyma Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora typhaecola (Cooke) E. Müll. SPECIES
-=======
+# Pyrenophora typhaecola (Cooke) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

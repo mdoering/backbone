@@ -1,11 +1,10 @@
-Kisselovia clathrata subsp. clathrata SUBSPECIES
-=======
+# Kisselovia clathrata (Eisenack, 1938) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

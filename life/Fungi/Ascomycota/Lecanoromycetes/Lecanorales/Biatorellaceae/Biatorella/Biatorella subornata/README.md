@@ -1,5 +1,4 @@
-Biatorella subornata (Nyl.) H. Olivier SPECIES
-=======
+# Biatorella subornata (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

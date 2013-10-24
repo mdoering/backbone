@@ -1,5 +1,4 @@
-Sporobolomyces salmoneus var. salmoneus VARIETY
-=======
+# Sporobolomyces salmoneus Derx SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 28(1-2): 17 (1930)
 
 #### Original name
-Sporobolomyces salmoneus var. salmoneus
+Sporobolomyces salmoneus Derx
 
 ### Remarks
 null

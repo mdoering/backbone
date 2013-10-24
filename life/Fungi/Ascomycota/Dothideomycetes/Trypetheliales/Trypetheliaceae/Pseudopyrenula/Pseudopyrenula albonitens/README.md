@@ -1,5 +1,4 @@
-Pseudopyrenula albonitens Müll. Arg. SPECIES
-=======
+# Pseudopyrenula albonitens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

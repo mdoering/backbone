@@ -1,5 +1,4 @@
-Crinipellis rubiginosa Pat. SPECIES
-=======
+# Crinipellis rubiginosa Pat. SPECIES
 
 #### Status
 ACCEPTED

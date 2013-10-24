@@ -1,5 +1,4 @@
-Cortinarius magellanicus Speg., 1887 SPECIES
-=======
+# Cortinarius magellanicus Speg., 1887 SPECIES
 
 #### Status
 ACCEPTED

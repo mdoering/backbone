@@ -1,5 +1,4 @@
-Polaribacter filamentus Gosink et al., 1998 SPECIES
-=======
+# Polaribacter filamentus Gosink et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

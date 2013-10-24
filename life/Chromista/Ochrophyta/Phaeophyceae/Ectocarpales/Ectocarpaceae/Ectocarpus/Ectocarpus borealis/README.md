@@ -1,8 +1,7 @@
-Ectocarpus lebelii f. borealis Kjellman FORM
-=======
+# Ectocarpus borealis (Kjellman) Kjellman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Monoicomyces aleocharae Thaxt. SPECIES
-=======
+# Monoicomyces aleocharae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

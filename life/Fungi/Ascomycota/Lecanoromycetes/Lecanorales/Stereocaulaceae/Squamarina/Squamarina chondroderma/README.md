@@ -1,5 +1,4 @@
-Squamarina chondroderma (Zahlbr.) J.C. Wei SPECIES
-=======
+# Squamarina chondroderma (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

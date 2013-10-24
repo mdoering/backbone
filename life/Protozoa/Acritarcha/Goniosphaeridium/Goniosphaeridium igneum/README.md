@@ -1,5 +1,4 @@
-Goniosphaeridium igneum Deunff, 1980 SPECIES
-=======
+# Goniosphaeridium igneum Deunff, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reophax hispidulus Cushman, 1930 SPECIES
-=======
+# Reophax hispidulus Cushman, 1930 SPECIES
 
 #### Status
 ACCEPTED

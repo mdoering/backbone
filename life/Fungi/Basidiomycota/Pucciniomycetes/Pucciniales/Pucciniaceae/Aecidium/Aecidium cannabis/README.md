@@ -1,5 +1,4 @@
-Aecidium cannabis Szembel SPECIES
-=======
+# Aecidium cannabis Szembel SPECIES
 
 #### Status
 ACCEPTED

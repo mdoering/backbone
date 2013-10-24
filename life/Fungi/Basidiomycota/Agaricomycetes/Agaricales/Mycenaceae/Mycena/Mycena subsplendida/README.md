@@ -1,14 +1,13 @@
-Mycena subspendida (Raithelh.) Raithelh. SPECIES
-=======
+# Mycena subsplendida (Raithelh.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. Mycol. Argentina (Stuttgart), Hongos <b>III</b> 126 (1991)
 
 #### Original name
 Mycena ochraceoviscosa Raithelh.

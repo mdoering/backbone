@@ -1,5 +1,4 @@
-Amanita chlorophylla A.E. Wood SPECIES
-=======
+# Amanita chlorophylla A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria gerberae Syd. & P. Syd., 1912 SPECIES
-=======
+# Septoria gerberae Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cavaspongia Pessagno, 1973 GENUS
-=======
+# Cavaspongia Pessagno, 1973 GENUS
 
 #### Status
 ACCEPTED

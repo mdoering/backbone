@@ -1,5 +1,4 @@
-Staurothele fischeri O. Behr SPECIES
-=======
+# Staurothele fischeri O. Behr SPECIES
 
 #### Status
 ACCEPTED

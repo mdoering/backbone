@@ -1,5 +1,4 @@
-Sphaerella quercicola (Desm.) Roum. SPECIES
-=======
+# Sphaerella quercicola (Desm.) Roum. SPECIES
 
 #### Status
 ACCEPTED

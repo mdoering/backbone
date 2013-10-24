@@ -1,5 +1,4 @@
-Tricholoma schustleri Velen. SPECIES
-=======
+# Tricholoma schustleri Velen. SPECIES
 
 #### Status
 ACCEPTED

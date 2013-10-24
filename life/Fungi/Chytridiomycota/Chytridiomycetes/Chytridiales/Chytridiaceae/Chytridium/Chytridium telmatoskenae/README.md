@@ -1,5 +1,4 @@
-Chytridium telmatoskenae Fott SPECIES
-=======
+# Chytridium telmatoskenae Fott SPECIES
 
 #### Status
 ACCEPTED

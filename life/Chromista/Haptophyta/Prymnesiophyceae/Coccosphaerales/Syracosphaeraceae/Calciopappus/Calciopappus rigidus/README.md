@@ -1,5 +1,4 @@
-Calciopappus rigidus Heimdal, 1981 SPECIES
-=======
+# Calciopappus rigidus Heimdal, 1981 SPECIES
 
 #### Status
 ACCEPTED

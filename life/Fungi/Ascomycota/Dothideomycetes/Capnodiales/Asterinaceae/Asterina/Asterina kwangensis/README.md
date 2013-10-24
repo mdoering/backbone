@@ -1,5 +1,4 @@
-Asterina kwangensis Henn. SPECIES
-=======
+# Asterina kwangensis Henn. SPECIES
 
 #### Status
 ACCEPTED

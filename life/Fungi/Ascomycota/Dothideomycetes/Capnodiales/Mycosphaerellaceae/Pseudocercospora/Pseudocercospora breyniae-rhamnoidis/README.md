@@ -1,5 +1,4 @@
-Pseudocercospora breyniae-rhamnoidis (Thirum. & Govindu) Deighton SPECIES
-=======
+# Pseudocercospora breyniae-rhamnoidis (Thirum. & Govindu) Deighton SPECIES
 
 #### Status
 ACCEPTED

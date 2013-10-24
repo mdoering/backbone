@@ -1,5 +1,4 @@
-Sphaceloma callistemonis B. Sutton SPECIES
-=======
+# Sphaceloma callistemonis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

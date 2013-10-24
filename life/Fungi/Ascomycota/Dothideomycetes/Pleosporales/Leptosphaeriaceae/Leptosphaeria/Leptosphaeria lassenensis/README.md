@@ -1,5 +1,4 @@
-Leptosphaeria lassenensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Leptosphaeria lassenensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

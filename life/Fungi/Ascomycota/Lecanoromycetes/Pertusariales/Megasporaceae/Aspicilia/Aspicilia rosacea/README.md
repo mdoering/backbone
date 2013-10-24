@@ -1,5 +1,4 @@
-Aspicilia rosacea Hue SPECIES
-=======
+# Aspicilia rosacea Hue SPECIES
 
 #### Status
 ACCEPTED

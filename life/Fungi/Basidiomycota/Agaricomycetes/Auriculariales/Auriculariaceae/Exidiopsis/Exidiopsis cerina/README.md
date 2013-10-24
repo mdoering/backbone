@@ -1,5 +1,4 @@
-Exidiopsis cerina Möller SPECIES
-=======
+# Exidiopsis cerina Möller SPECIES
 
 #### Status
 ACCEPTED

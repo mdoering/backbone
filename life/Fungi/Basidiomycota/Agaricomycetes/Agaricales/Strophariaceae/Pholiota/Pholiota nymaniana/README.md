@@ -1,5 +1,4 @@
-Pholiota nymaniana (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Pholiota nymaniana (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

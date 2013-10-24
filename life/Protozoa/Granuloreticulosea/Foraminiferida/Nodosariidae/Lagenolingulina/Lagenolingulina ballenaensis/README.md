@@ -1,5 +1,4 @@
-Lagenolingulina ballenaensis McCulloch, 1977 SPECIES
-=======
+# Lagenolingulina ballenaensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

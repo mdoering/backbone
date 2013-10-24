@@ -1,17 +1,16 @@
-Desetangsia Nieuwl. GENUS
-=======
+# Podosphaera Kunze, 1823 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 4: 385 (1916)
+in Kunze & Schmidt, Mykologische Hefte (Leipzig) 2: 111 (1823)
 
 #### Original name
-Desetangsia Nieuwl.
+Podosphaera Kunze, 1823
 
 ### Remarks
 null

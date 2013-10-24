@@ -1,5 +1,4 @@
-Ramularia pygmaea Lindr., 1902 SPECIES
-=======
+# Ramularia pygmaea Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lisea revocans Sacc. SPECIES
-=======
+# Lisea revocans Sacc. SPECIES
 
 #### Status
 ACCEPTED

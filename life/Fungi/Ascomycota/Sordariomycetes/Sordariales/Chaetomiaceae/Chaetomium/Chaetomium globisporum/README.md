@@ -1,5 +1,4 @@
-Chaetomium globisporum Lodha, 1964 SPECIES
-=======
+# Chaetomium globisporum Lodha, 1964 SPECIES
 
 #### Status
 ACCEPTED

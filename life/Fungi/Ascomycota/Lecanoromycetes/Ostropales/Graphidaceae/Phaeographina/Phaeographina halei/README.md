@@ -1,5 +1,4 @@
-Phaeographina halei Patw. & C.R. Kulk. SPECIES
-=======
+# Phaeographina halei Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

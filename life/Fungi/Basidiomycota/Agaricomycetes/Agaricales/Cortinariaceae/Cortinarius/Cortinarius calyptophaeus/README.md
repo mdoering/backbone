@@ -1,5 +1,4 @@
-Cortinarius calyptophaeus Rob. Henry SPECIES
-=======
+# Cortinarius calyptophaeus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

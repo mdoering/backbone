@@ -1,5 +1,4 @@
-Spooneromyces asperula (Spooner) T. Schumach. & J. Moravec SPECIES
-=======
+# Spooneromyces asperula (Spooner) T. Schumach. & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

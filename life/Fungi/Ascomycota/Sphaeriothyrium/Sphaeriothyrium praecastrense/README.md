@@ -1,17 +1,16 @@
-Leptostroma precastrense C. Massal. SPECIES
-=======
+# Sphaeriothyrium praecastrense (C. Massal.) Bubák, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 34: 300 (1916)
 
 #### Original name
-Leptostroma precastrense C. Massal.
+Leptostroma praecastrense C. Massal., 1900
 
 ### Remarks
 null

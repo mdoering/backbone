@@ -1,5 +1,4 @@
-Parmelia semansiana W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Parmelia semansiana W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

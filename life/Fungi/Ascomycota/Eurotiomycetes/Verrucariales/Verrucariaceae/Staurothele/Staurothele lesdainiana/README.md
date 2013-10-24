@@ -1,5 +1,4 @@
-Staurothele lesdainiana Clauzade & Cl. Roux SPECIES
-=======
+# Staurothele lesdainiana Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

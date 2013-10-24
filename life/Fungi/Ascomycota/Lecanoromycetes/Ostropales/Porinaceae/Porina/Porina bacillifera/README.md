@@ -1,5 +1,4 @@
-Porina bacillifera Müll. Arg. SPECIES
-=======
+# Porina bacillifera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

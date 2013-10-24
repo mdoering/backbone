@@ -1,5 +1,4 @@
-Psathyrella merdicola Örstadius & E. Larss. SPECIES
-=======
+# Psathyrella merdicola Örstadius & E. Larss. SPECIES
 
 #### Status
 ACCEPTED

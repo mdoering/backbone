@@ -1,5 +1,4 @@
-Phyllachora tessariae Petr., 1950 SPECIES
-=======
+# Phyllachora tessariae Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

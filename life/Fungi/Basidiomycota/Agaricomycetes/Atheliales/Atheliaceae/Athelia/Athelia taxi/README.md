@@ -1,5 +1,4 @@
-Athelia taxi Pers. SPECIES
-=======
+# Athelia taxi Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wardomycopsis litoralis Silvera, Gené, Cano & Guarro SPECIES
-=======
+# Wardomycopsis litoralis Silvera, Gené, Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

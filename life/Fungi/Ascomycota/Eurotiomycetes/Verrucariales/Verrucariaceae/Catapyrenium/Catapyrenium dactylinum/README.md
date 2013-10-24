@@ -1,5 +1,4 @@
-Catapyrenium dactylinum Breuss SPECIES
-=======
+# Catapyrenium dactylinum Breuss SPECIES
 
 #### Status
 ACCEPTED

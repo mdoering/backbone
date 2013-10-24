@@ -1,5 +1,4 @@
-Pholiota naucorioides Singer SPECIES
-=======
+# Pholiota naucorioides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria bauhiniae Hansf. SPECIES
-=======
+# Alternaria bauhiniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

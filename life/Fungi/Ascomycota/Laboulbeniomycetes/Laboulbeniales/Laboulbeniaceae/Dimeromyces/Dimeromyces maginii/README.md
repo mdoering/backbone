@@ -1,5 +1,4 @@
-Dimeromyces maginii W. Rossi SPECIES
-=======
+# Dimeromyces maginii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

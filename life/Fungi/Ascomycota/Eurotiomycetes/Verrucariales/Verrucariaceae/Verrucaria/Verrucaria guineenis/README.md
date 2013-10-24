@@ -1,5 +1,4 @@
-Verrucaria guineenis Nyl. SPECIES
-=======
+# Verrucaria guineenis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus oloxanthus Pers. SPECIES
-=======
+# Agaricus oloxanthus Pers. SPECIES
 
 #### Status
 ACCEPTED

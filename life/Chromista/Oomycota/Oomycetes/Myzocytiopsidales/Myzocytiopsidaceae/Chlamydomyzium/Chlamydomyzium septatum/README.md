@@ -1,14 +1,13 @@
-Lagenidium septatum Karling, 1969 SPECIES
-=======
+# Chlamydomyzium septatum (Karling) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 37: 162 (1969)
+Mycol. Res. 101(7): 880 (1997)
 
 #### Original name
 Lagenidium septatum Karling, 1969

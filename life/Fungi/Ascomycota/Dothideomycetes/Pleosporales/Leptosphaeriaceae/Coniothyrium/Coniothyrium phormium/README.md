@@ -1,5 +1,4 @@
-Coniothyrium phormium Cooke SPECIES
-=======
+# Coniothyrium phormium Cooke SPECIES
 
 #### Status
 ACCEPTED

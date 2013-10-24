@@ -1,5 +1,4 @@
-Scopulariopsis nicotianae Beyma {?} SPECIES
-=======
+# Scopulariopsis nicotianae Beyma {?} SPECIES
 
 #### Status
 ACCEPTED

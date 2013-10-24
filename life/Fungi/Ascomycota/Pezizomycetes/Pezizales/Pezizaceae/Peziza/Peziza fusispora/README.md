@@ -1,5 +1,4 @@
-Peziza fusispora SPECIES
-=======
+# Peziza fusispora SPECIES
 
 #### Status
 ACCEPTED

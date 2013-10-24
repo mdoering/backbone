@@ -1,5 +1,4 @@
-Anophrys Cohn, 1866 GENUS
-=======
+# Anophrys Cohn, 1866 GENUS
 
 #### Status
 ACCEPTED

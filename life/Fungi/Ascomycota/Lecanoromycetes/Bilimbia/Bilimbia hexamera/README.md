@@ -1,5 +1,4 @@
-Bilimbia hexamera DeNot. SPECIES
-=======
+# Bilimbia hexamera DeNot. SPECIES
 
 #### Status
 ACCEPTED

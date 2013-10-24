@@ -1,5 +1,4 @@
-Rhomboaster cuspis Bramlette & Sullivan, 1961 SPECIES
-=======
+# Rhomboaster cuspis Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

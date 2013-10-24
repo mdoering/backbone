@@ -1,5 +1,4 @@
-Tunisphaeridium pactile Colbath, 1979 SPECIES
-=======
+# Tunisphaeridium pactile Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

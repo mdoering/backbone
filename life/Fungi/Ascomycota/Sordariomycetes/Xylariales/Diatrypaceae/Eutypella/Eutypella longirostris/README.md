@@ -1,5 +1,4 @@
-Eutypella longirostris Peck SPECIES
-=======
+# Eutypella longirostris Peck SPECIES
 
 #### Status
 ACCEPTED

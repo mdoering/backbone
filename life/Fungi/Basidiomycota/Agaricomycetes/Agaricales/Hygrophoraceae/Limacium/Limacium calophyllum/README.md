@@ -1,5 +1,4 @@
-Limacium calophyllum (P. Karst.) Singer SPECIES
-=======
+# Limacium calophyllum (P. Karst.) Singer SPECIES
 
 #### Status
 ACCEPTED

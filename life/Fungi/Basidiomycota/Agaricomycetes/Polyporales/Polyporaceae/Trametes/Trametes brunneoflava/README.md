@@ -1,5 +1,4 @@
-Trametes brunneoflava Lloyd SPECIES
-=======
+# Trametes brunneoflava Lloyd SPECIES
 
 #### Status
 ACCEPTED

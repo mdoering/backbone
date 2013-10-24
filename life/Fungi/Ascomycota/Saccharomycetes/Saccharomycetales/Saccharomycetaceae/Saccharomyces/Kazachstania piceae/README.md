@@ -1,5 +1,4 @@
-Kazachstania piceae (Weber & Spaaij) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania piceae (Weber & Spaaij) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

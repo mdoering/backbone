@@ -1,5 +1,4 @@
-Morchella rigida (Krombh.) Boud. SPECIES
-=======
+# Morchella rigida (Krombh.) Boud. SPECIES
 
 #### Status
 ACCEPTED

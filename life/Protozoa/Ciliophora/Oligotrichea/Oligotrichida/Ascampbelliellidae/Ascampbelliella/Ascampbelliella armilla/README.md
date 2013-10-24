@@ -1,8 +1,7 @@
-Craterella armilla Kofoid & Campbell, 1929 SPECIES
-=======
+# Ascampbelliella armilla (Kofoid & Campbell, 1929) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

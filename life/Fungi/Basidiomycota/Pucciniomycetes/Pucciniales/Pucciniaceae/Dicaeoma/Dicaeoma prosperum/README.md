@@ -1,5 +1,4 @@
-Dicaeoma prosperum (Arthur) Arthur SPECIES
-=======
+# Dicaeoma prosperum (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

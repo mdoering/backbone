@@ -1,5 +1,4 @@
-Lecanora microfusca Lynge SPECIES
-=======
+# Lecanora microfusca Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cassavae Ellis & Everh. SPECIES
-=======
+# Cercospora cassavae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma hedysari Thüm. SPECIES
-=======
+# Asteroma hedysari Thüm. SPECIES
 
 #### Status
 ACCEPTED

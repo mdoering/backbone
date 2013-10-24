@@ -1,5 +1,4 @@
-Graphis medusula (Pers.) Acloque SPECIES
-=======
+# Graphis medusula (Pers.) Acloque SPECIES
 
 #### Status
 ACCEPTED

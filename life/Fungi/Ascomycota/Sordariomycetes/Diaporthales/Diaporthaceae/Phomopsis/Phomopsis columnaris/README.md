@@ -1,5 +1,4 @@
-Phomopsis columnaris D.F. Farr & Castl., 2002 SPECIES
-=======
+# Phomopsis columnaris D.F. Farr & Castl., 2002 SPECIES
 
 #### Status
 ACCEPTED

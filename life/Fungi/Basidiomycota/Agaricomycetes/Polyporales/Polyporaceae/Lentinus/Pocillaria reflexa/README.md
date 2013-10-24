@@ -1,14 +1,13 @@
-Lentinus reflexus (Earle) Sacc. & Traverso, 1911 SPECIES
-=======
+# Pocillaria reflexa Earle, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 20: 1263 (1911)
+Inf. an. Estac. Cent. agr. Cuba 1: 231 (1906)
 
 #### Original name
 Pocillaria reflexa Earle, 1906

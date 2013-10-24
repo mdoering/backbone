@@ -1,5 +1,4 @@
-Phoma linicola Marchal & Verpl. SPECIES
-=======
+# Phoma linicola Marchal & Verpl. SPECIES
 
 #### Status
 ACCEPTED

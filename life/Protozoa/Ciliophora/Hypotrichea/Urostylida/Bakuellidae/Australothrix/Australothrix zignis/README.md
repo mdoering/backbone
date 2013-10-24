@@ -1,5 +1,4 @@
-Australothrix zignis (Entz, 1884) Blatterer & Foissner, 1988 SPECIES
-=======
+# Australothrix zignis (Entz, 1884) Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

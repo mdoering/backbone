@@ -1,5 +1,4 @@
-Lasiosphaeria decipiens (Pass.) Sacc. SPECIES
-=======
+# Lasiosphaeria decipiens (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

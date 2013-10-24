@@ -1,5 +1,4 @@
-Bardeliella pulchra Foissner, 1984 SPECIES
-=======
+# Bardeliella pulchra Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

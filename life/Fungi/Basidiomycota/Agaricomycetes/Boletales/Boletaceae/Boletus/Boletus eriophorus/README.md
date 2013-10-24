@@ -1,5 +1,4 @@
-Boletus eriophorus Rostk. SPECIES
-=======
+# Boletus eriophorus Rostk. SPECIES
 
 #### Status
 ACCEPTED

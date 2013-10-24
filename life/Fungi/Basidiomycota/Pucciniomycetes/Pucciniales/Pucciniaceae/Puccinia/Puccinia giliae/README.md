@@ -1,5 +1,4 @@
-Puccinia giliae Ellis & Harkn. SPECIES
-=======
+# Puccinia giliae Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

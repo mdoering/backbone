@@ -1,5 +1,4 @@
-Polyporus resinosus SPECIES
-=======
+# Polyporus resinosus SPECIES
 
 #### Status
 ACCEPTED

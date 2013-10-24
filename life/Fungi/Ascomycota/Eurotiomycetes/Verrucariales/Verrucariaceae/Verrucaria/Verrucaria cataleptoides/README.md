@@ -1,5 +1,4 @@
-Verrucaria cataleptoides f. cataleptoides FORM
-=======
+# Verrucaria cataleptoides SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria cataleptoides f. cataleptoides
+null
 
 ### Remarks
 null

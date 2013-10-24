@@ -1,5 +1,4 @@
-Spongoentactiomma Nazarov, 1975 GENUS
-=======
+# Spongoentactiomma Nazarov, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria oudemansii Sacc., 1884 SPECIES
-=======
+# Septoria oudemansii Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

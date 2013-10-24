@@ -1,5 +1,4 @@
-Paratriposphaera GENUS
-=======
+# Paratriposphaera GENUS
 
 #### Status
 ACCEPTED

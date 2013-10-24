@@ -1,5 +1,4 @@
-Agaricus luteopes Secr. SPECIES
-=======
+# Agaricus luteopes Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora sidae Marchal & Steyaert SPECIES
-=======
+# Cercospora sidae Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diedickella moravica Petr. SPECIES
-=======
+# Diedickella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

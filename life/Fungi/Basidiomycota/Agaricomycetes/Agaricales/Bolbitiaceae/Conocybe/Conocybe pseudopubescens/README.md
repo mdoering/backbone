@@ -1,5 +1,4 @@
-Conocybe pseudopubescens K.A. Thomas, Hauskn. & Manim. SPECIES
-=======
+# Conocybe pseudopubescens K.A. Thomas, Hauskn. & Manim. SPECIES
 
 #### Status
 ACCEPTED

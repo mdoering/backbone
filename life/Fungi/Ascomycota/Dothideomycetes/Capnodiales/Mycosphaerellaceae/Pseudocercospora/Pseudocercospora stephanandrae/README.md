@@ -1,5 +1,4 @@
-Pseudocercospora stephanandrae (Tak. Kobay. & H. Horie) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora stephanandrae (Tak. Kobay. & H. Horie) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

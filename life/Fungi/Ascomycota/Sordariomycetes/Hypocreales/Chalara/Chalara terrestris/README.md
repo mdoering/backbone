@@ -1,5 +1,4 @@
-Chalara terrestris Agnihothr. & K.C. Barua SPECIES
-=======
+# Chalara terrestris Agnihothr. & K.C. Barua SPECIES
 
 #### Status
 ACCEPTED

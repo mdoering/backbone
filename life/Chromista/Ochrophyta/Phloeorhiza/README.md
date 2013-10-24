@@ -1,5 +1,4 @@
-Phloeorhiza Kützing GENUS
-=======
+# Phloeorhiza Kützing GENUS
 
 #### Status
 DOUBTFUL

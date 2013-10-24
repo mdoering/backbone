@@ -1,5 +1,4 @@
-Agaricus annularius Bull. SPECIES
-=======
+# Agaricus annularius Bull. SPECIES
 
 #### Status
 ACCEPTED

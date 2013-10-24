@@ -1,5 +1,4 @@
-Metasphaeria silenes Kirschst. SPECIES
-=======
+# Metasphaeria silenes Kirschst. SPECIES
 
 #### Status
 ACCEPTED

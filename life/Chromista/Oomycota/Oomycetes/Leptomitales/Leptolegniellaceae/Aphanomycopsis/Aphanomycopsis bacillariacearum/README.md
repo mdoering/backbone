@@ -1,5 +1,4 @@
-Aphanomycopsis bacillariacearum Scherff., 1925 SPECIES
-=======
+# Aphanomycopsis bacillariacearum Scherff., 1925 SPECIES
 
 #### Status
 ACCEPTED

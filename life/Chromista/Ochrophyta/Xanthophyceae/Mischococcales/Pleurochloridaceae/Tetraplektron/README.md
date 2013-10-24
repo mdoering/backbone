@@ -1,5 +1,4 @@
-Tetraplektron Fott, 1957 GENUS
-=======
+# Tetraplektron Fott, 1957 GENUS
 
 #### Status
 ACCEPTED

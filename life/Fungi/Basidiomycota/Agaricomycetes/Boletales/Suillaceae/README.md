@@ -1,5 +1,4 @@
-Suillaceae FAMILY
-=======
+# Suillaceae FAMILY
 
 #### Status
 ACCEPTED

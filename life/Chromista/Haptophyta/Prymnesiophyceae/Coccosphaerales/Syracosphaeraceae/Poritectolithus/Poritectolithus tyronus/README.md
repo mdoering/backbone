@@ -1,5 +1,4 @@
-Poritectolithus tyronus A. Kleijne SPECIES
-=======
+# Poritectolithus tyronus A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria uredinis (Ellis & Barthol.) E.G. Simmons SPECIES
-=======
+# Alternaria uredinis (Ellis & Barthol.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

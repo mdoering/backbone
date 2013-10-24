@@ -1,5 +1,4 @@
-Cyathus desertorum F. Muell. SPECIES
-=======
+# Cyathus desertorum F. Muell. SPECIES
 
 #### Status
 ACCEPTED

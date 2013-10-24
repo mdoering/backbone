@@ -1,5 +1,4 @@
-Puccinia cremanthodii J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia cremanthodii J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

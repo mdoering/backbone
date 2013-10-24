@@ -1,5 +1,4 @@
-Trachelomonas minima Drezepolski SPECIES
-=======
+# Trachelomonas minima Drezepolski SPECIES
 
 #### Status
 ACCEPTED

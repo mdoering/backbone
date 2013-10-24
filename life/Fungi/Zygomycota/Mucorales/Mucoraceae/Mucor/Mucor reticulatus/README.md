@@ -1,5 +1,4 @@
-Mucor reticulatus Bainier SPECIES
-=======
+# Mucor reticulatus Bainier SPECIES
 
 #### Status
 ACCEPTED

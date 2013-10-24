@@ -1,5 +1,4 @@
-Glenospora elasticae Koord. SPECIES
-=======
+# Glenospora elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena sparsa Bres. & Schulzer SPECIES
-=======
+# Mycena sparsa Bres. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

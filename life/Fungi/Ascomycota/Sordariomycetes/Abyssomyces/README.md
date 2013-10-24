@@ -1,5 +1,4 @@
-Abyssomyces Kohlm. GENUS
-=======
+# Abyssomyces Kohlm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria medullosa Bres. SPECIES
-=======
+# Naucoria medullosa Bres. SPECIES
 
 #### Status
 ACCEPTED

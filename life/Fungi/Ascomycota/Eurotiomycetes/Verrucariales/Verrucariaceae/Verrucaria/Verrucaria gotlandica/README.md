@@ -1,5 +1,4 @@
-Verrucaria gotlandica Servít SPECIES
-=======
+# Verrucaria gotlandica Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Assulina Bronn in Bronn & Roemer, 1854 GENUS
-=======
+# Assilina d'Orbigny, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-in Bronn & Roemer, Lethaea, ed. 3, 3 (6), 210.
+in Sagra, Hist. Phys. Cuba (Foram. ), 48.
 
 #### Original name
 null

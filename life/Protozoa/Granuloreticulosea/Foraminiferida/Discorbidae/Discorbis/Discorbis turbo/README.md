@@ -1,5 +1,4 @@
-Discorbis turbo SPECIES
-=======
+# Discorbis turbo SPECIES
 
 #### Status
 ACCEPTED

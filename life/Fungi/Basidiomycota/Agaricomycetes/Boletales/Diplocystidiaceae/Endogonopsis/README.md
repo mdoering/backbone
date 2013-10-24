@@ -1,5 +1,4 @@
-Endogonopsis R. Heim GENUS
-=======
+# Endogonopsis R. Heim GENUS
 
 #### Status
 ACCEPTED

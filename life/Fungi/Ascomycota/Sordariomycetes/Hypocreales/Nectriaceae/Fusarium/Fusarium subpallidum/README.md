@@ -1,5 +1,4 @@
-Fusarium subpallidum var. subpallidum VARIETY
-=======
+# Fusarium subpallidum Sherb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium subpallidum var. subpallidum
+Fusarium subpallidum Sherb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Baltisphaeridium pauciechinatum Turner, 1984 SPECIES
-=======
+# Baltisphaeridium pauciechinatum Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

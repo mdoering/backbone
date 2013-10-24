@@ -1,5 +1,4 @@
-Hendersonia angustifolia Ellis & Everh. SPECIES
-=======
+# Hendersonia angustifolia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

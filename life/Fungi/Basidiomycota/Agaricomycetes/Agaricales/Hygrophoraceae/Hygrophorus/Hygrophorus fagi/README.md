@@ -1,5 +1,4 @@
-Hygrophorus fagi G. Becker & Bon SPECIES
-=======
+# Hygrophorus fagi G. Becker & Bon SPECIES
 
 #### Status
 ACCEPTED

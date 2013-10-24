@@ -1,5 +1,4 @@
-Lactarius subpurpureus Peck SPECIES
-=======
+# Lactarius subpurpureus Peck SPECIES
 
 #### Status
 ACCEPTED

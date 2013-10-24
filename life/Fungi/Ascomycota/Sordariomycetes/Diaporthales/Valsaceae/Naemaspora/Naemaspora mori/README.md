@@ -1,5 +1,4 @@
-Naemaspora mori Schulzer SPECIES
-=======
+# Naemaspora mori Schulzer SPECIES
 
 #### Status
 ACCEPTED

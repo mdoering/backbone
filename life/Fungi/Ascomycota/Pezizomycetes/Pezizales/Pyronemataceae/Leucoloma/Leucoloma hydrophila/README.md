@@ -1,5 +1,4 @@
-Leucoloma hydrophila (Peck) House SPECIES
-=======
+# Leucoloma hydrophila (Peck) House SPECIES
 
 #### Status
 ACCEPTED

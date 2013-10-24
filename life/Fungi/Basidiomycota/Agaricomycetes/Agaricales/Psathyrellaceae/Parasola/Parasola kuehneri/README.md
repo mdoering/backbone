@@ -1,17 +1,16 @@
-Coprinus plicatilis var. microsporus Kühner & Joss., 1934 VARIETY
-=======
+# Parasola kuehneri (Uljé & Bas) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 50: 57 (1934)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
-Coprinus plicatilis var. microsporus Kühner & Joss., 1934
+Coprinus kuehneri Uljé & Bas, 1988
 
 ### Remarks
 null

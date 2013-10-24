@@ -1,5 +1,4 @@
-Cenangium aceris-tatarici Hazsl. SPECIES
-=======
+# Cenangium aceris-tatarici Hazsl. SPECIES
 
 #### Status
 ACCEPTED

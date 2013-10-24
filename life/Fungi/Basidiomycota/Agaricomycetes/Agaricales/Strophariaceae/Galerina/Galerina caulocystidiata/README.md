@@ -1,5 +1,4 @@
-Galerina caulocystidiata Arnolds SPECIES
-=======
+# Galerina caulocystidiata Arnolds SPECIES
 
 #### Status
 ACCEPTED

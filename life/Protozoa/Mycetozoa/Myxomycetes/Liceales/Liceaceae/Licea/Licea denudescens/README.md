@@ -1,5 +1,4 @@
-Licea denudescens H.W. Keller & T.E. Brooks, 1977 SPECIES
-=======
+# Licea denudescens H.W. Keller & T.E. Brooks, 1977 SPECIES
 
 #### Status
 ACCEPTED

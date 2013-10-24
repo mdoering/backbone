@@ -1,5 +1,4 @@
-Genetrix Sugiyama, 1994 GENUS
-=======
+# Genetrix Sugiyama, 1994 GENUS
 
 #### Status
 ACCEPTED

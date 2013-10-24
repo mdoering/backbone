@@ -1,5 +1,4 @@
-Ramaria ambigua R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria ambigua R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

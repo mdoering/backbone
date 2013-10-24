@@ -1,5 +1,4 @@
-Asterina sidae Earle SPECIES
-=======
+# Asterina sidae Earle SPECIES
 
 #### Status
 ACCEPTED

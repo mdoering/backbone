@@ -1,5 +1,4 @@
-Entoloma perfibrillosum Hesler SPECIES
-=======
+# Entoloma perfibrillosum Hesler SPECIES
 
 #### Status
 ACCEPTED

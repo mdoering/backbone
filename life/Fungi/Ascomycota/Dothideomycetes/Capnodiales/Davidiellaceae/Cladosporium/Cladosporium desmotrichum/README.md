@@ -1,5 +1,4 @@
-Cladosporium desmotrichum Desm. SPECIES
-=======
+# Cladosporium desmotrichum Desm. SPECIES
 
 #### Status
 ACCEPTED

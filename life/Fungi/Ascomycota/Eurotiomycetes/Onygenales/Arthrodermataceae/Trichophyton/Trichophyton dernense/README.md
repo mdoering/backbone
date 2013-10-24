@@ -1,5 +1,4 @@
-Trichophyton dernense (Tedeschi) Nann. SPECIES
-=======
+# Trichophyton dernense (Tedeschi) Nann. SPECIES
 
 #### Status
 ACCEPTED

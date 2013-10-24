@@ -1,5 +1,4 @@
-Hypholoma sphagni Velen. SPECIES
-=======
+# Hypholoma sphagni Velen. SPECIES
 
 #### Status
 ACCEPTED

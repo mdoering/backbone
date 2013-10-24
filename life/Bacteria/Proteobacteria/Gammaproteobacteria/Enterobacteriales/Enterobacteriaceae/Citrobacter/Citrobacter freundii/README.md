@@ -1,11 +1,10 @@
-Escherichia freundii (Braak, 1928) Yale, 1939 SPECIES
-=======
+# Citrobacter freundii (Braak, 1928) Werkman and Gillen, 1932 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

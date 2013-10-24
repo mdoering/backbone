@@ -1,5 +1,4 @@
-Alternaria destruens E.G. Simmons SPECIES
-=======
+# Alternaria destruens E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

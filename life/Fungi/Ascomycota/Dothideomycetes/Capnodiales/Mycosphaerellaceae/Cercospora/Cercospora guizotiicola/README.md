@@ -1,17 +1,16 @@
-Cercospora guizoticola Govindu & Thirum. SPECIES
-=======
+# Cercospora guizotiicola Govindu & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 274 (1957)
 
 #### Original name
-Cercospora guizoticola Govindu & Thirum.
+Cercospora guizotiicola Govindu & Thirum.
 
 ### Remarks
 null

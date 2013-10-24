@@ -1,5 +1,4 @@
-Dendrodochium flavum Bonord. SPECIES
-=======
+# Dendrodochium flavum Bonord. SPECIES
 
 #### Status
 ACCEPTED

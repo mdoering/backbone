@@ -1,5 +1,4 @@
-Dermatea palmicola Pat. SPECIES
-=======
+# Dermatea palmicola Pat. SPECIES
 
 #### Status
 ACCEPTED

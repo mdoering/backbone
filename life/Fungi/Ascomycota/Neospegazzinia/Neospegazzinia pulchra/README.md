@@ -1,5 +1,4 @@
-Neospegazzinia pulchra Petr. & Syd., 1936 SPECIES
-=======
+# Neospegazzinia pulchra Petr. & Syd., 1936 SPECIES
 
 #### Status
 ACCEPTED

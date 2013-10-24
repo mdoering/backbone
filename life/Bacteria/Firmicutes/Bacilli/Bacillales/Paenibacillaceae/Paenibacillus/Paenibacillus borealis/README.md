@@ -1,5 +1,4 @@
-Paenibacillus borealis Elo et al., 2001 SPECIES
-=======
+# Paenibacillus borealis Elo et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

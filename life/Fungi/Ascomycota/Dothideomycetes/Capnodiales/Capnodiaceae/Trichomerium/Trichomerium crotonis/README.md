@@ -1,17 +1,16 @@
-Trichomerium crotoni Bat. SPECIES
-=======
+# Trichomerium crotonis Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 5: 148 (1951)
 
 #### Original name
-Trichomerium crotoni Bat.
+Trichomerium crotonis Bat.
 
 ### Remarks
 null

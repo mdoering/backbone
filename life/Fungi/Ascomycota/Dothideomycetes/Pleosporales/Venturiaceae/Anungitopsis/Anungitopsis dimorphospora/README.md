@@ -1,5 +1,4 @@
-Anungitopsis dimorphospora R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Anungitopsis dimorphospora R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

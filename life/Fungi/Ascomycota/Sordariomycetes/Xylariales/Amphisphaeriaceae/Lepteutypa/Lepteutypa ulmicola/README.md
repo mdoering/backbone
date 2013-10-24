@@ -1,5 +1,4 @@
-Lepteutypa ulmicola (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Lepteutypa ulmicola (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhizocarpon hochstetteri f. hochstetteri (Körb.) Vain. FORM
-=======
+# Rhizocarpon hochstetteri (Körb.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 53(no. 1): 280 (1922)
 
 #### Original name
-Rhizocarpon hochstetteri f. hochstetteri (Körb.) Vain.
+Catillaria hochstetteri Körb.
 
 ### Remarks
 null

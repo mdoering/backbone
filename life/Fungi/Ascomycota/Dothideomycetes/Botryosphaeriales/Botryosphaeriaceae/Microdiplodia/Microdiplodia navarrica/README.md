@@ -1,5 +1,4 @@
-Microdiplodia navarrica Urries SPECIES
-=======
+# Microdiplodia navarrica Urries SPECIES
 
 #### Status
 ACCEPTED

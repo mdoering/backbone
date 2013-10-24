@@ -1,5 +1,4 @@
-Trypanochloris Geitler, 1935 GENUS
-=======
+# Trypanochloris Geitler, 1935 GENUS
 
 #### Status
 ACCEPTED

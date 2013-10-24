@@ -1,5 +1,4 @@
-Cortinarius carneoroseus (E. Horak) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius carneoroseus (E. Horak) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma caricae Ikata & Katsuki SPECIES
-=======
+# Sphaceloma caricae Ikata & Katsuki SPECIES
 
 #### Status
 ACCEPTED

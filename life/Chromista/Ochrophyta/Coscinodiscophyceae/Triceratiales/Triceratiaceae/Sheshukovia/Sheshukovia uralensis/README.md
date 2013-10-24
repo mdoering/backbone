@@ -1,5 +1,4 @@
-Sheshukovia uralensis (N. I. Strelnikova) Z. I. Glezer SPECIES
-=======
+# Sheshukovia uralensis (N. I. Strelnikova) Z. I. Glezer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Micropeltidium mollerianum (Sacc.) Bat. SPECIES
-=======
+# Micropeltidium moellerianum (Sacc.) Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

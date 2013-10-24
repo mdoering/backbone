@@ -1,5 +1,4 @@
-Aspicilia pelobotryoides Eitner SPECIES
-=======
+# Aspicilia pelobotryoides Eitner SPECIES
 
 #### Status
 ACCEPTED

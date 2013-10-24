@@ -1,5 +1,4 @@
-Septoria rhois (Wallr.) Sacc. SPECIES
-=======
+# Septoria rhois (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

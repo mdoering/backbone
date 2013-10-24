@@ -1,5 +1,4 @@
-Pleuroceras propinquum (Bubák & Vleugel) M. Monod SPECIES
-=======
+# Pleuroceras propinquum (Bubák & Vleugel) M. Monod SPECIES
 
 #### Status
 ACCEPTED

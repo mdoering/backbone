@@ -1,5 +1,4 @@
-Russula postiana Romell, 1911 SPECIES
-=======
+# Russula postiana Romell, 1911 SPECIES
 
 #### Status
 ACCEPTED

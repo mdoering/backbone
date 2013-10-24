@@ -1,5 +1,4 @@
-Naemaspora dura Preuss SPECIES
-=======
+# Naemaspora dura Preuss SPECIES
 
 #### Status
 ACCEPTED

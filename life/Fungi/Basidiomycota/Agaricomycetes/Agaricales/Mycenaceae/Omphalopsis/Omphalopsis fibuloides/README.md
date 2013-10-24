@@ -1,5 +1,4 @@
-Omphalopsis fibuloides (Peck) Murrill SPECIES
-=======
+# Omphalopsis fibuloides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

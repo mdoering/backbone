@@ -1,5 +1,4 @@
-Erysiphe semitosta (Berk. & M.A. Curtis ex Cooke & Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe semitosta (Berk. & M.A. Curtis ex Cooke & Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

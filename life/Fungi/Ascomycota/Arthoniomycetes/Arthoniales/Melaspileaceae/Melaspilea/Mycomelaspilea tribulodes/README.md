@@ -1,5 +1,4 @@
-Mycomelaspilea tribulodes (Tuck.) Keissl. SPECIES
-=======
+# Mycomelaspilea tribulodes (Tuck.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

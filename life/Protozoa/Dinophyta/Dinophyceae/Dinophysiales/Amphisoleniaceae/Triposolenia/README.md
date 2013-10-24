@@ -1,5 +1,4 @@
-Triposolenia Kofoid, 1906 GENUS
-=======
+# Triposolenia Kofoid, 1906 GENUS
 
 #### Status
 ACCEPTED

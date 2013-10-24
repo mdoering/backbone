@@ -1,5 +1,4 @@
-Paraphysomonas flaveolata SPECIES
-=======
+# Paraphysomonas flaveolata SPECIES
 
 #### Status
 ACCEPTED

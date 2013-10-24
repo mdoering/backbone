@@ -1,5 +1,4 @@
-Usnea erinacea Vain. SPECIES
-=======
+# Usnea erinacea Vain. SPECIES
 
 #### Status
 ACCEPTED

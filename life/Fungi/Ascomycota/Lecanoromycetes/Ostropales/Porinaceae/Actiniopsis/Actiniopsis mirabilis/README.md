@@ -1,5 +1,4 @@
-Actiniopsis mirabilis Rehm SPECIES
-=======
+# Actiniopsis mirabilis Rehm SPECIES
 
 #### Status
 ACCEPTED

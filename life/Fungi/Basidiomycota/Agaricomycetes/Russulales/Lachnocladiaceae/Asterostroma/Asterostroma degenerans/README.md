@@ -1,5 +1,4 @@
-Asterostroma degenerans Bres. SPECIES
-=======
+# Asterostroma degenerans Bres. SPECIES
 
 #### Status
 ACCEPTED

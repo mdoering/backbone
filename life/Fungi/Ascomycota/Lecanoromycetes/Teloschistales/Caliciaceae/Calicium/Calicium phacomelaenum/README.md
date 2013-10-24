@@ -1,5 +1,4 @@
-Calicium phacomelaenum Tuck. SPECIES
-=======
+# Calicium phacomelaenum Tuck. SPECIES
 
 #### Status
 ACCEPTED

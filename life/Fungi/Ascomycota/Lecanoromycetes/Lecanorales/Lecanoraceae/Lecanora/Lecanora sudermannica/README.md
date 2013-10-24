@@ -1,5 +1,4 @@
-Lecanora sudermannica H. Magn. SPECIES
-=======
+# Lecanora sudermannica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

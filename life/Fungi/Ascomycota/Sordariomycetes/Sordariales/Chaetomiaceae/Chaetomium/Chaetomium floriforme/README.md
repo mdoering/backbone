@@ -1,5 +1,4 @@
-Chaetomium floriforme Gené & Guarro, 1996 SPECIES
-=======
+# Chaetomium floriforme Gené & Guarro, 1996 SPECIES
 
 #### Status
 ACCEPTED

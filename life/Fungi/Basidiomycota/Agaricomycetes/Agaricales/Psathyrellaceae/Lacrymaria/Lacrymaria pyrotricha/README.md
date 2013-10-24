@@ -1,17 +1,16 @@
-Hypholoma pyrotrichum var. pyrotrichum VARIETY
-=======
+# Lacrymaria pyrotricha (Holmsk.) Konrad & Maubl., 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revisione Hymenomycetes de France 91 (1925)
 
 #### Original name
-null
+Agaricus pyrotrichus Holmsk., 1790
 
 ### Remarks
 null

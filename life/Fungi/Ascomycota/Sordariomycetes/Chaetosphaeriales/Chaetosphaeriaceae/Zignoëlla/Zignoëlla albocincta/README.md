@@ -1,5 +1,4 @@
-Zignoëlla albocincta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Zignoëlla albocincta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

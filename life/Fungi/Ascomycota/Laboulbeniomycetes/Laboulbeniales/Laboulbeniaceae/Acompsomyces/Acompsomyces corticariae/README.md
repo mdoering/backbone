@@ -1,5 +1,4 @@
-Acompsomyces corticariae Thaxt., 1901 SPECIES
-=======
+# Acompsomyces corticariae Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

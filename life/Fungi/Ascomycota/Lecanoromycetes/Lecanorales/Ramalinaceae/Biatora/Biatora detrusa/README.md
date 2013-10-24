@@ -1,5 +1,4 @@
-Biatora detrusa Th. Fr. SPECIES
-=======
+# Biatora detrusa Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

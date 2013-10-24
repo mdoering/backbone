@@ -1,5 +1,4 @@
-Meliniomyces vraolstadiae Hambl. & Sigler, 2005 SPECIES
-=======
+# Meliniomyces vraolstadiae Hambl. & Sigler, 2005 SPECIES
 
 #### Status
 ACCEPTED

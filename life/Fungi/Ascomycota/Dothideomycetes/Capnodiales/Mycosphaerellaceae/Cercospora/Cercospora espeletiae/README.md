@@ -1,5 +1,4 @@
-Cercospora espeletiae Chupp SPECIES
-=======
+# Cercospora espeletiae Chupp SPECIES
 
 #### Status
 ACCEPTED

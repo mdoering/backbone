@@ -1,5 +1,4 @@
-Stagonospora thalictri Petr. SPECIES
-=======
+# Stagonospora thalictri Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delicatula agrostidea Velen. SPECIES
-=======
+# Delicatula agrostidea Velen. SPECIES
 
 #### Status
 ACCEPTED

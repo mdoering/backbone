@@ -1,5 +1,4 @@
-Chaetomastia scelesta (Cooke & Ellis) M.E. Barr SPECIES
-=======
+# Chaetomastia scelesta (Cooke & Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

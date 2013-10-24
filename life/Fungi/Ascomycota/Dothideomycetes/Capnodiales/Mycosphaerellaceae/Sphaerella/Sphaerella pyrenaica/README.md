@@ -1,5 +1,4 @@
-Sphaerella pyrenaica Speg. SPECIES
-=======
+# Sphaerella pyrenaica Speg. SPECIES
 
 #### Status
 ACCEPTED

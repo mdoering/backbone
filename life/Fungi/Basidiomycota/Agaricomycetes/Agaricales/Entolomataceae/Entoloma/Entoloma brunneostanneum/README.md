@@ -1,5 +1,4 @@
-Entoloma brunneostanneum Courtec. SPECIES
-=======
+# Entoloma brunneostanneum Courtec. SPECIES
 
 #### Status
 ACCEPTED

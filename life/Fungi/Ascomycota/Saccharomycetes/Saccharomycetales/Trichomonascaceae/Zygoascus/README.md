@@ -1,5 +1,4 @@
-Zygoascus M.T. Sm. GENUS
-=======
+# Zygoascus M.T. Sm. GENUS
 
 #### Status
 ACCEPTED

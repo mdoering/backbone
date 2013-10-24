@@ -1,5 +1,4 @@
-Phlyctochytrium lippsii M.L. Lohman SPECIES
-=======
+# Phlyctochytrium lippsii M.L. Lohman SPECIES
 
 #### Status
 ACCEPTED

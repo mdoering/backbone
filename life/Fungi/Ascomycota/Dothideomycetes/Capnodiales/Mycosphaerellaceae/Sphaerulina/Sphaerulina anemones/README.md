@@ -1,5 +1,4 @@
-Sphaerulina anemones Rehm SPECIES
-=======
+# Sphaerulina anemones Rehm SPECIES
 
 #### Status
 ACCEPTED

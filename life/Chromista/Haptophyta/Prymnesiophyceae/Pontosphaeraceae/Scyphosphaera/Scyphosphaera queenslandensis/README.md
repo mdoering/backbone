@@ -1,5 +1,4 @@
-Scyphosphaera queenslandensis Rade, 1975 SPECIES
-=======
+# Scyphosphaera queenslandensis Rade, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phibalis pulveracea Wallr. SPECIES
-=======
+# Phibalis pulveracea Wallr. SPECIES
 
 #### Status
 ACCEPTED

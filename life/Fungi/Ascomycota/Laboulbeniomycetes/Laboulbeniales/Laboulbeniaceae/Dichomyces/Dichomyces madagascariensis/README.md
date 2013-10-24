@@ -1,8 +1,7 @@
-Dichomyces madagascarensis Thaxt. SPECIES
-=======
+# Dichomyces madagascariensis Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dichomyces madagascarensis Thaxt.
+Dichomyces madagascariensis Thaxt.
 
 ### Remarks
 null

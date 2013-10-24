@@ -1,5 +1,4 @@
-Pulvinosphaeridium oligoprojectum Downie, 1959 emend. Mullins, 2001 SPECIES
-=======
+# Pulvinosphaeridium oligoprojectum Downie, 1959 emend. Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

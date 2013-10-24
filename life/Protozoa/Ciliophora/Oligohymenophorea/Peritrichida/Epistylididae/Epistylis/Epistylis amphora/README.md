@@ -1,5 +1,4 @@
-Epistylis amphora subsp. amphora SUBSPECIES
-=======
+# Epistylis amphora SPECIES
 
 #### Status
 ACCEPTED

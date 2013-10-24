@@ -1,5 +1,4 @@
-Graphis illinata var. illinata VARIETY
-=======
+# Graphis illinata Eschw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis illinata var. illinata
+Graphis illinata Eschw.
 
 ### Remarks
 null

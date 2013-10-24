@@ -1,5 +1,4 @@
-Cystolepiota aurantica Singer SPECIES
-=======
+# Cystolepiota aurantica Singer SPECIES
 
 #### Status
 ACCEPTED

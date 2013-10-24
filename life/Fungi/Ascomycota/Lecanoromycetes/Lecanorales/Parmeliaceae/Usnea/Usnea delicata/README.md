@@ -1,5 +1,4 @@
-Usnea delicata Vain. SPECIES
-=======
+# Usnea delicata Vain. SPECIES
 
 #### Status
 ACCEPTED

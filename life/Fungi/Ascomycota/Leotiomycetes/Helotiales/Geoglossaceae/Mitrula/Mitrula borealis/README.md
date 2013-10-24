@@ -1,5 +1,4 @@
-Mitrula borealis Redhead SPECIES
-=======
+# Mitrula borealis Redhead SPECIES
 
 #### Status
 ACCEPTED

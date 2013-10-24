@@ -1,5 +1,4 @@
-Eutypella liquidambaris Rehm SPECIES
-=======
+# Eutypella liquidambaris Rehm SPECIES
 
 #### Status
 ACCEPTED

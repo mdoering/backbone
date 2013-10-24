@@ -1,5 +1,4 @@
-Prediscosphaera arkhangelskyi (Reinhardt, 1965) Perch-Nielsen, 1984 SPECIES
-=======
+# Prediscosphaera arkhangelskyi (Reinhardt, 1965) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

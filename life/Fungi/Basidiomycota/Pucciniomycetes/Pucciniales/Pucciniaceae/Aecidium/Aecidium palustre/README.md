@@ -1,5 +1,4 @@
-Aecidium palustre Mont. SPECIES
-=======
+# Aecidium palustre Mont. SPECIES
 
 #### Status
 ACCEPTED

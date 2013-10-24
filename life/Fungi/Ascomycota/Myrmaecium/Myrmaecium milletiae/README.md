@@ -1,5 +1,4 @@
-Myrmaecium milletiae Racib. SPECIES
-=======
+# Myrmaecium milletiae Racib. SPECIES
 
 #### Status
 ACCEPTED

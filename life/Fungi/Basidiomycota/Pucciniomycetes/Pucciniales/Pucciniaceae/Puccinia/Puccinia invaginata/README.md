@@ -1,5 +1,4 @@
-Puccinia invaginata Arthur & J.R. Johnst. SPECIES
-=======
+# Puccinia invaginata Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

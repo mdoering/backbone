@@ -1,5 +1,4 @@
-Trachycystis A. Pascher, 1937 GENUS
-=======
+# Trachycystis A. Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

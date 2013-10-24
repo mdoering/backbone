@@ -1,5 +1,4 @@
-Parafolliculina americana Hadzi, 1951 SPECIES
-=======
+# Parafolliculina americana Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

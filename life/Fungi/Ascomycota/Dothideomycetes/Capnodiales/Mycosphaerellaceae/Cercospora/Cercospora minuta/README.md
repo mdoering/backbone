@@ -1,5 +1,4 @@
-Cercospora minuta Cooke & Ellis SPECIES
-=======
+# Cercospora minuta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

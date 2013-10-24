@@ -1,5 +1,4 @@
-Orthoamphisiella breviseries Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Orthoamphisiella breviseries Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

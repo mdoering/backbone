@@ -1,5 +1,4 @@
-Pyrenula columellata Upreti & Ajay Singh SPECIES
-=======
+# Pyrenula columellata Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

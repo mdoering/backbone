@@ -1,5 +1,4 @@
-Siropleura pulchella Petr., 1934 SPECIES
-=======
+# Siropleura pulchella Petr., 1934 SPECIES
 
 #### Status
 ACCEPTED

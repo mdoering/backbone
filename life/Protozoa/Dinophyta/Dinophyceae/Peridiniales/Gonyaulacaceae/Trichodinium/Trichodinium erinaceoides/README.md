@@ -1,8 +1,7 @@
-Trichodinium erinaceoide Davies SPECIES
-=======
+# Trichodinium erinaceoides Davies, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

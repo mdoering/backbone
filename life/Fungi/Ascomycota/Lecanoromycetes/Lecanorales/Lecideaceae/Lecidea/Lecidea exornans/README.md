@@ -1,5 +1,4 @@
-Lecidea exornans Nyl. SPECIES
-=======
+# Lecidea exornans Nyl. SPECIES
 
 #### Status
 ACCEPTED

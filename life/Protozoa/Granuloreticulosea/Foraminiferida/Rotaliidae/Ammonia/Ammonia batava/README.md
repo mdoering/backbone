@@ -1,8 +1,7 @@
-Streblus batavus Hofker, 1956 SPECIES
-=======
+# Ammonia batava (Hofker, 1951) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

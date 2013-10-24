@@ -1,5 +1,4 @@
-Penicillium diversum Raper & Fennell, 1948 SPECIES
-=======
+# Penicillium diversum Raper & Fennell, 1948 SPECIES
 
 #### Status
 DOUBTFUL

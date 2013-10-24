@@ -1,17 +1,16 @@
-Dactylaria cymbiformia Matsush. SPECIES
-=======
+# Dactylaria cymbiformis Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. , no. 1 1: 25 (1980)
 
 #### Original name
-Dactylaria cymbiformia Matsush.
+Dactylaria cymbiformis Matsush.
 
 ### Remarks
 null

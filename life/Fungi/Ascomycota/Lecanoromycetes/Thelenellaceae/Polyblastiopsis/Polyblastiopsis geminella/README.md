@@ -1,5 +1,4 @@
-Polyblastiopsis geminella (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis geminella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

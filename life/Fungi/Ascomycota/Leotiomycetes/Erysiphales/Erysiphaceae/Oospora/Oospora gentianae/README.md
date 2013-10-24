@@ -1,5 +1,4 @@
-Oospora gentianae (Guyot) Sacc. SPECIES
-=======
+# Oospora gentianae (Guyot) Sacc. SPECIES
 
 #### Status
 ACCEPTED

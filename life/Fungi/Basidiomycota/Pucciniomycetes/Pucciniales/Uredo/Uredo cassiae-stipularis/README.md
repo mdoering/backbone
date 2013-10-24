@@ -1,5 +1,4 @@
-Uredo cassiae-stipularis Syd. & P. Syd. SPECIES
-=======
+# Uredo cassiae-stipularis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

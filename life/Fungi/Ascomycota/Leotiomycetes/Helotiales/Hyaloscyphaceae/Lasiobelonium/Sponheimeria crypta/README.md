@@ -1,5 +1,4 @@
-Sponheimeria crypta Kirschst. SPECIES
-=======
+# Sponheimeria crypta Kirschst. SPECIES
 
 #### Status
 ACCEPTED

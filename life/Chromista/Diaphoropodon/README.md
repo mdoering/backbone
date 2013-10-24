@@ -1,5 +1,4 @@
-Diaphoropodon Archer, 1869 GENUS
-=======
+# Diaphoropodon Archer, 1869 GENUS
 
 #### Status
 ACCEPTED

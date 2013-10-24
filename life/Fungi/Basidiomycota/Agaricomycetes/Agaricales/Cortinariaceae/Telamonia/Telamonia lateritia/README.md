@@ -1,5 +1,4 @@
-Telamonia lateritia Velen. SPECIES
-=======
+# Telamonia lateritia Velen. SPECIES
 
 #### Status
 ACCEPTED

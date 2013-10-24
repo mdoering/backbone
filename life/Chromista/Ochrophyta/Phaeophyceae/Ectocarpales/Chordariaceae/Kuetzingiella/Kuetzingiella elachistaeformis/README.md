@@ -1,8 +1,7 @@
-Feldmannia elachistaeformis (Heydrich) Pham-Hoàng Hô SPECIES
-=======
+# Kuetzingiella elachistaeformis (Heydrich) M. Balakrishnan & Kinkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

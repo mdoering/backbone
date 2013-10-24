@@ -1,5 +1,4 @@
-Sphaerella horii Hara SPECIES
-=======
+# Sphaerella horii Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ctenophora pulchella var. lanceolata (O'Meara) L. Bukhtiyarova VARIETY
-=======
+# Ctenophora pulchella (Kützing) D.M. Williams & Round SPECIES
 
 #### Status
 ACCEPTED

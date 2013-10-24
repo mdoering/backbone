@@ -1,17 +1,16 @@
-Lohwagiella Petr. GENUS
-=======
+# Niesslia Auerswald, 1869 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 23: 280 (1970)
+null
 
 #### Original name
-Lohwagiella Petr.
+null
 
 ### Remarks
 null

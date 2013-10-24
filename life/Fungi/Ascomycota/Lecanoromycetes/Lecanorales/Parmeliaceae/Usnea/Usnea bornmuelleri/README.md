@@ -1,5 +1,4 @@
-Usnea bornmuelleri var. bornmuelleri VARIETY
-=======
+# Usnea bornmuelleri J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea bornmuelleri var. bornmuelleri
+Usnea bornmuelleri J. Steiner
 
 ### Remarks
 null

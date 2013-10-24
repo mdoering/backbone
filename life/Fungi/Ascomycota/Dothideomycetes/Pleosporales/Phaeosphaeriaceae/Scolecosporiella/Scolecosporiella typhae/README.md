@@ -1,17 +1,16 @@
-Hendersonia typhae var. typhae VARIETY
-=======
+# Scolecosporiella typhae (Oudem.) Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 19(1/2): 31 (1921)
 
 #### Original name
-Hendersonia typhae var. typhae
+Hendersonia typhae Oudem., 1873
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypocrea hunua Dingley, 1952 SPECIES
-=======
+# Hypocrea hunua Dingley, 1952 SPECIES
 
 #### Status
 ACCEPTED

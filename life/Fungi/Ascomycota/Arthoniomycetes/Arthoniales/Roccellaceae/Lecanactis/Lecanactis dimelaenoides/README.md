@@ -1,5 +1,4 @@
-Lecanactis dimelaenoides Egea & Torrente SPECIES
-=======
+# Lecanactis dimelaenoides Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

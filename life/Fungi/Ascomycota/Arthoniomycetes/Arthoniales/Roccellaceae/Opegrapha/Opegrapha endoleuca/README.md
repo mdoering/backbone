@@ -1,5 +1,4 @@
-Opegrapha endoleuca Nyl. SPECIES
-=======
+# Opegrapha endoleuca Nyl. SPECIES
 
 #### Status
 ACCEPTED

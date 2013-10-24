@@ -1,5 +1,4 @@
-Tarsodisporus paraensis Bat. & A.A. Silva, 1965 SPECIES
-=======
+# Tarsodisporus paraensis Bat. & A.A. Silva, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lycii H.K.G. Paul & Gonz. Frag. SPECIES
-=======
+# Septoria lycii H.K.G. Paul & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

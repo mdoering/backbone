@@ -1,5 +1,4 @@
-Polycellaesporonites alternariatus (Kalgutkar & Sigler) Kalgutkar & Janson. SPECIES
-=======
+# Polycellaesporonites alternariatus (Kalgutkar & Sigler) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

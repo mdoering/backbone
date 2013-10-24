@@ -1,5 +1,4 @@
-Bovista vassjaginiana Philimonova & Schwarzman SPECIES
-=======
+# Bovista vassjaginiana Philimonova & Schwarzman SPECIES
 
 #### Status
 ACCEPTED

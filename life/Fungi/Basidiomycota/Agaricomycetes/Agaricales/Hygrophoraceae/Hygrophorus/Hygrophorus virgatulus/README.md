@@ -1,5 +1,4 @@
-Hygrophorus virgatulus Peck SPECIES
-=======
+# Hygrophorus virgatulus Peck SPECIES
 
 #### Status
 ACCEPTED

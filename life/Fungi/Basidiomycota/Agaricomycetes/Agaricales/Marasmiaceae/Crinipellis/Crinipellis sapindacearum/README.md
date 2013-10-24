@@ -1,5 +1,4 @@
-Crinipellis sapindacearum Singer SPECIES
-=======
+# Crinipellis sapindacearum Singer SPECIES
 
 #### Status
 ACCEPTED

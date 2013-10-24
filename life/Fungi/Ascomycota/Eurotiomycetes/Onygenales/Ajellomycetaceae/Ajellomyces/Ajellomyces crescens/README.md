@@ -1,17 +1,16 @@
-Emmonsia parva var. parva (C.W. Emmons & Ashburn) Cif. & A.M. Corte, 1959 VARIETY
-=======
+# Ajellomyces crescens Sigler, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 10(4): 314 (1959)
+J. Med. Vet. Mycol. 34(5): 305 (1996)
 
 #### Original name
-Emmonsia parva var. parva (C.W. Emmons & Ashburn) Cif. & A.M. Corte, 1959
+Ajellomyces crescens Sigler, 1996
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phylloporus orientalis var. orientalis VARIETY
-=======
+# Phylloporus orientalis Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 20(3-4): 809 (1971)
 
 #### Original name
-Phylloporus orientalis var. orientalis
+Phylloporus orientalis Corner
 
 ### Remarks
 null

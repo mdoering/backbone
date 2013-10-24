@@ -1,5 +1,4 @@
-Dicaeoma dorsteniae (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma dorsteniae (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

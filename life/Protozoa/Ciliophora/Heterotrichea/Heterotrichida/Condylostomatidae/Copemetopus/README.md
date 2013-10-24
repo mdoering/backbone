@@ -1,5 +1,4 @@
-Copemetopus Villeneuve-Brachon, 1940 GENUS
-=======
+# Copemetopus Villeneuve-Brachon, 1940 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium cesatii (A. Massal.) Leight. SPECIES
-=======
+# Placodium cesatii (A. Massal.) Leight. SPECIES
 
 #### Status
 ACCEPTED

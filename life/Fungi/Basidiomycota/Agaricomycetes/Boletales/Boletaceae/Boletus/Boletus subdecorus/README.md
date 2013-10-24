@@ -1,5 +1,4 @@
-Boletus subdecorus Snell SPECIES
-=======
+# Boletus subdecorus Snell SPECIES
 
 #### Status
 ACCEPTED

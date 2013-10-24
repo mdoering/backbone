@@ -1,5 +1,4 @@
-Mycena lanuginosa Har. Takah. SPECIES
-=======
+# Mycena lanuginosa Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

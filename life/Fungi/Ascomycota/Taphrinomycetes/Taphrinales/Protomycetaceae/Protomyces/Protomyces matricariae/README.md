@@ -1,5 +1,4 @@
-Protomyces matricariae Syd. SPECIES
-=======
+# Protomyces matricariae Syd. SPECIES
 
 #### Status
 ACCEPTED

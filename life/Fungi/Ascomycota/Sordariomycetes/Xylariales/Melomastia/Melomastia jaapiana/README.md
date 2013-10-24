@@ -1,5 +1,4 @@
-Melomastia jaapiana Kirschst. SPECIES
-=======
+# Melomastia jaapiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ichnocarpi A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora ichnocarpi A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

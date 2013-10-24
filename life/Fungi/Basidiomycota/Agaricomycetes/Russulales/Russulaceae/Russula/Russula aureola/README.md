@@ -1,5 +1,4 @@
-Russula aureola Buyck SPECIES
-=======
+# Russula aureola Buyck SPECIES
 
 #### Status
 ACCEPTED

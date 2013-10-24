@@ -1,14 +1,13 @@
-Serpula sororia (Burt) Zmitr., 2001 SPECIES
-=======
+# Leucogyrophana sororia (Burt) Ginns, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 35: 83 (2001)
+Can. J. Bot. 54(1-2): 150 (1976)
 
 #### Original name
 null

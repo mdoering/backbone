@@ -1,5 +1,4 @@
-Ramophialophora M. Calduch, Stchigel, Gené & Guarro GENUS
-=======
+# Ramophialophora M. Calduch, Stchigel, Gené & Guarro GENUS
 
 #### Status
 ACCEPTED

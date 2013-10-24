@@ -1,5 +1,4 @@
-Spirostomum minor subsp. minor SUBSPECIES
-=======
+# Spirostomum minor SPECIES
 
 #### Status
 ACCEPTED

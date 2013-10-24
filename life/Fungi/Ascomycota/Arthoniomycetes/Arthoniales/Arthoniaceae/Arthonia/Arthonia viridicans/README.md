@@ -1,5 +1,4 @@
-Arthonia viridicans Willey SPECIES
-=======
+# Arthonia viridicans Willey SPECIES
 
 #### Status
 ACCEPTED

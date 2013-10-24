@@ -1,5 +1,4 @@
-Sagedia heppii (Nägeli) Körb. SPECIES
-=======
+# Sagedia heppii (Nägeli) Körb. SPECIES
 
 #### Status
 ACCEPTED

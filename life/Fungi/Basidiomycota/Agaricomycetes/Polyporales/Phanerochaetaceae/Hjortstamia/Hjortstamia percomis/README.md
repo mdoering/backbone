@@ -1,14 +1,13 @@
-Stereum percome Berk. & Broome, 1875 SPECIES
-=======
+# Hjortstamia percomis (Berk. & Broome) Boidin & Gilles, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 65 (1875)
+Bull. Soc. mycol. Fr. 118(2): 99 (2003)
 
 #### Original name
 Stereum percome Berk. & Broome, 1875

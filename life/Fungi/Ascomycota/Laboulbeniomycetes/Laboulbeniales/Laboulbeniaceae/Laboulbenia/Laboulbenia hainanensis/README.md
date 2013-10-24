@@ -1,5 +1,4 @@
-Laboulbenia hainanensis D.H. Ye & Y.H. Shen SPECIES
-=======
+# Laboulbenia hainanensis D.H. Ye & Y.H. Shen SPECIES
 
 #### Status
 ACCEPTED

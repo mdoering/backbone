@@ -1,5 +1,4 @@
-Carbonea gallowayi Hertel SPECIES
-=======
+# Carbonea gallowayi Hertel SPECIES
 
 #### Status
 ACCEPTED

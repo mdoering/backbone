@@ -1,5 +1,4 @@
-Poronia scutellata Fr. SPECIES
-=======
+# Poronia scutellata Fr. SPECIES
 
 #### Status
 ACCEPTED

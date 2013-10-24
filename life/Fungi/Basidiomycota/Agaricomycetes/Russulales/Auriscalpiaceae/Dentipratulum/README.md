@@ -1,5 +1,4 @@
-Dentipratulum Domanski GENUS
-=======
+# Dentipratulum Domanski GENUS
 
 #### Status
 ACCEPTED

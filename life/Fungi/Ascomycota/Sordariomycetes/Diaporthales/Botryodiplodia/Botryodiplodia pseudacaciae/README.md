@@ -1,5 +1,4 @@
-Botryodiplodia pseudacaciae (Ranoj. & Bubák) Petr. SPECIES
-=======
+# Botryodiplodia pseudacaciae (Ranoj. & Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

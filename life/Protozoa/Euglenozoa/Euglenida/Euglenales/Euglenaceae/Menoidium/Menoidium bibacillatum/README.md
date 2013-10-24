@@ -1,5 +1,4 @@
-Menoidium bibacillatum Pringsheim SPECIES
-=======
+# Menoidium bibacillatum Pringsheim SPECIES
 
 #### Status
 ACCEPTED

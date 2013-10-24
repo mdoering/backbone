@@ -1,5 +1,4 @@
-Cantharellus spathuliformis Henn. SPECIES
-=======
+# Cantharellus spathuliformis Henn. SPECIES
 
 #### Status
 ACCEPTED

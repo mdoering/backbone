@@ -1,5 +1,4 @@
-Leiomarginata simplex Naumova, 1961 SPECIES
-=======
+# Leiomarginata simplex Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola strombosiae Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
-=======
+# Meliola strombosiae Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
 
 #### Status
 ACCEPTED

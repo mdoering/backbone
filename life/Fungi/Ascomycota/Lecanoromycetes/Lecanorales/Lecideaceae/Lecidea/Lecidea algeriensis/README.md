@@ -1,5 +1,4 @@
-Lecidea algeriensis Zahlbr. SPECIES
-=======
+# Lecidea algeriensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

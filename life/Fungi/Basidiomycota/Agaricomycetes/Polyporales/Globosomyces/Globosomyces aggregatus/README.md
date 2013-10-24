@@ -1,5 +1,4 @@
-Globosomyces aggregatus Jülich, 1980 SPECIES
-=======
+# Globosomyces aggregatus Jülich, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea peltata SPECIES
-=======
+# Lecidea peltata SPECIES
 
 #### Status
 ACCEPTED

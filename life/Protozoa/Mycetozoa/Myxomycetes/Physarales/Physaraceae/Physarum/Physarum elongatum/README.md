@@ -1,5 +1,4 @@
-Physarum elongatum Link SPECIES
-=======
+# Physarum elongatum Link SPECIES
 
 #### Status
 ACCEPTED

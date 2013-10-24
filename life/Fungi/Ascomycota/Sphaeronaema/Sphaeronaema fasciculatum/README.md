@@ -1,5 +1,4 @@
-Sphaeronaema fasciculatum Mont. & Fr. SPECIES
-=======
+# Sphaeronaema fasciculatum Mont. & Fr. SPECIES
 
 #### Status
 ACCEPTED

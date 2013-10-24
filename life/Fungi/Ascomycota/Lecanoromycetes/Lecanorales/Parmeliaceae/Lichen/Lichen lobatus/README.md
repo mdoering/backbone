@@ -1,5 +1,4 @@
-Lichen lobatus Leers SPECIES
-=======
+# Lichen lobatus Leers SPECIES
 
 #### Status
 ACCEPTED

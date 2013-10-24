@@ -1,5 +1,4 @@
-Allosphaerium isseli SPECIES
-=======
+# Allosphaerium isseli SPECIES
 
 #### Status
 ACCEPTED

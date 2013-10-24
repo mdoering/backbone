@@ -1,5 +1,4 @@
-Leptomassaria dianellae Hansf. SPECIES
-=======
+# Leptomassaria dianellae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoprotomyces padi Sacc. & Roum. SPECIES
-=======
+# Pseudoprotomyces padi Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thedgonia dioscoreae (Deighton) U. Braun SPECIES
-=======
+# Thedgonia dioscoreae (Deighton) U. Braun SPECIES
 
 #### Status
 ACCEPTED

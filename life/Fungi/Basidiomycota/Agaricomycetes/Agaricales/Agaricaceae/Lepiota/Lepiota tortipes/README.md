@@ -1,5 +1,4 @@
-Lepiota tortipes Rick SPECIES
-=======
+# Lepiota tortipes Rick SPECIES
 
 #### Status
 ACCEPTED

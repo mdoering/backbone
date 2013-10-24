@@ -1,5 +1,4 @@
-Trichia thwaitesii Berk. & Broome SPECIES
-=======
+# Trichia thwaitesii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

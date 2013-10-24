@@ -1,5 +1,4 @@
-Nectria gymnosporangii (Jaap) Rossman SPECIES
-=======
+# Nectria gymnosporangii (Jaap) Rossman SPECIES
 
 #### Status
 ACCEPTED

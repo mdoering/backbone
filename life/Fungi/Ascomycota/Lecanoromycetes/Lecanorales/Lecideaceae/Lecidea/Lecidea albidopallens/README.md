@@ -1,5 +1,4 @@
-Lecidea albidopallens (Nyl.) Hue SPECIES
-=======
+# Lecidea albidopallens (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe subtrichotoma (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe subtrichotoma (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

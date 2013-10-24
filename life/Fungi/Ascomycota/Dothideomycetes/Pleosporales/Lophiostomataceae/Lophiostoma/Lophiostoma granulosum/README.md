@@ -1,5 +1,4 @@
-Lophiostoma granulosum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Lophiostoma granulosum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

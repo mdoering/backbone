@@ -1,5 +1,4 @@
-Neodiscus Miklukho-Maklai, 1953 GENUS
-=======
+# Neodiscus Miklukho-Maklai, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucophragmia Crous, M.J. Wingf. & W.B. Kendr. GENUS
-=======
+# Verrucophragmia Crous, M.J. Wingf. & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium validum Y.R. Lin, Z.S. Xu & K. Le, 2001 SPECIES
-=======
+# Lophodermium validum Y.R. Lin, Z.S. Xu & K. Le, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola boerlagiodendriae H.S. Yates SPECIES
-=======
+# Meliola boerlagiodendriae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

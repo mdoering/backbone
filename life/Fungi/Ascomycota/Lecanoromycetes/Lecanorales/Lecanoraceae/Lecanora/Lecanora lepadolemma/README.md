@@ -1,5 +1,4 @@
-Lecanora lepadolemma (Ach.) Röhl. SPECIES
-=======
+# Lecanora lepadolemma (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

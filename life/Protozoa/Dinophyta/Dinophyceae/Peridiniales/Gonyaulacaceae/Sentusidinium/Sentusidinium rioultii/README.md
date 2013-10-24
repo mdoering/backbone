@@ -1,5 +1,4 @@
-Sentusidinium rioultii (W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Sentusidinium rioultii (W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

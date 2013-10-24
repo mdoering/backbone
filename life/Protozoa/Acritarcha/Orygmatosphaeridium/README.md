@@ -1,5 +1,4 @@
-Orygmatosphaeridium B.V.Timofeev, 1959 GENUS
-=======
+# Orygmatosphaeridium B.V.Timofeev, 1959 GENUS
 
 #### Status
 ACCEPTED

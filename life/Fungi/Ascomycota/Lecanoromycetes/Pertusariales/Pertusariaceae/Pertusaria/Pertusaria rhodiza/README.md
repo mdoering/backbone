@@ -1,5 +1,4 @@
-Pertusaria rhodiza Nyl. SPECIES
-=======
+# Pertusaria rhodiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

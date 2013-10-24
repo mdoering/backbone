@@ -1,5 +1,4 @@
-Mycosphaerella aristoteliae (Cooke) Aptroot, 2006 SPECIES
-=======
+# Mycosphaerella aristoteliae (Cooke) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

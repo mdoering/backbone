@@ -1,5 +1,4 @@
-Metasphaeria zeae Pass. SPECIES
-=======
+# Metasphaeria zeae Pass. SPECIES
 
 #### Status
 ACCEPTED

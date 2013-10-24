@@ -1,5 +1,4 @@
-Arachnomycelium filiforme Grüss SPECIES
-=======
+# Arachnomycelium filiforme Grüss SPECIES
 
 #### Status
 ACCEPTED

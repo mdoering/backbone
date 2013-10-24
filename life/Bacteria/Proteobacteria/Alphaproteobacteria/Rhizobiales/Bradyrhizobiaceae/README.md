@@ -1,5 +1,4 @@
-Bradyrhizobiaceae FAMILY
-=======
+# Bradyrhizobiaceae FAMILY
 
 #### Status
 ACCEPTED

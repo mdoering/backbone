@@ -1,5 +1,4 @@
-Paecilomyces atrovirens Z.Q. Liang & A.Y. Liu, 1993 SPECIES
-=======
+# Paecilomyces atrovirens Z.Q. Liang & A.Y. Liu, 1993 SPECIES
 
 #### Status
 ACCEPTED

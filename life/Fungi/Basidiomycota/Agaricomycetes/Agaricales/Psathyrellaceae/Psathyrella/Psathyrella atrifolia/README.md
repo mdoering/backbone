@@ -1,5 +1,4 @@
-Psathyrella atrifolia (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella atrifolia (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomiopeltella imbeana Bat. & C.A.A. Costa SPECIES
-=======
+# Stomiopeltella imbeana Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

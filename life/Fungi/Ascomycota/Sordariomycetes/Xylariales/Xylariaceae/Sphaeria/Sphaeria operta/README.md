@@ -1,5 +1,4 @@
-Sphaeria operta J.C. Schmidt SPECIES
-=======
+# Sphaeria operta J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

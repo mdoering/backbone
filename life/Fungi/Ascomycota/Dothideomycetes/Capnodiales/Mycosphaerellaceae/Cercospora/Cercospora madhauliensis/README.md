@@ -1,5 +1,4 @@
-Cercospora madhauliensis Kamal, B.K. Gupta & R.K. Verma SPECIES
-=======
+# Cercospora madhauliensis Kamal, B.K. Gupta & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

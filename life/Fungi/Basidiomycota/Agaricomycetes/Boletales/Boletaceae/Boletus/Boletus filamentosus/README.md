@@ -1,5 +1,4 @@
-Boletus filamentosus Humb. SPECIES
-=======
+# Boletus filamentosus Humb. SPECIES
 
 #### Status
 ACCEPTED

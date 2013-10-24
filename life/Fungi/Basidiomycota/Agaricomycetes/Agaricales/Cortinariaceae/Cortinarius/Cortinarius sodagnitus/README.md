@@ -1,17 +1,16 @@
-Cortinarius sodagnitus var. parasuaveolens Bon & Trescol VARIETY
-=======
+# Cortinarius sodagnitus Rob. Henry, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 19(no. 73): 36 (1988)
+Bull. trimest. Soc. mycol. Fr. 51: 22 (1935)
 
 #### Original name
-Cortinarius sodagnitus var. parasuaveolens Bon & Trescol
+Cortinarius sodagnitus Rob. Henry, 1935
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichopeziza tianschanica (Raitv.) Raitv. SPECIES
-=======
+# Trichopeziza tianschanica (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

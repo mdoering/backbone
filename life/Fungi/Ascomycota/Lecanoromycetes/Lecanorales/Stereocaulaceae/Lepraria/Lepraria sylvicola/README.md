@@ -1,5 +1,4 @@
-Lepraria sylvicola Orange SPECIES
-=======
+# Lepraria sylvicola Orange SPECIES
 
 #### Status
 ACCEPTED

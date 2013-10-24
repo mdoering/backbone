@@ -1,5 +1,4 @@
-Volvariella bingensis (Beeli) Shaffer SPECIES
-=======
+# Volvariella bingensis (Beeli) Shaffer SPECIES
 
 #### Status
 ACCEPTED

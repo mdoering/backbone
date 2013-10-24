@@ -1,5 +1,4 @@
-Lecanora rufescens Nyl. SPECIES
-=======
+# Lecanora rufescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

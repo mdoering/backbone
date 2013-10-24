@@ -1,5 +1,4 @@
-Usnea furcata var. furcata Vain. VARIETY
-=======
+# Usnea furcata Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea furcata var. furcata Vain.
+Usnea furcata Vain.
 
 ### Remarks
 null

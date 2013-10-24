@@ -1,5 +1,4 @@
-Lasiosphaeria microspora Zeller & Tóth SPECIES
-=======
+# Lasiosphaeria microspora Zeller & Tóth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora melicicola Speg., 1909 SPECIES
-=======
+# Phyllachora melicicola Speg., 1909 SPECIES
 
 #### Status
 ACCEPTED

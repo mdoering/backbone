@@ -1,17 +1,16 @@
-Russula simillima SPECIES
-=======
+# Russula farinipes Romell, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Britzelmayr, Mém. Soc. Linn. Normandie 9: 239 (1893)
 
 #### Original name
-Russula simillima
+Russula farinipes Romell, 1893
 
 ### Remarks
 null

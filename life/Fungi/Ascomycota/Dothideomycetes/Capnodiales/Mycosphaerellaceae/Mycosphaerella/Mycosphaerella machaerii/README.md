@@ -1,5 +1,4 @@
-Mycosphaerella machaerii Bat. & Peres SPECIES
-=======
+# Mycosphaerella machaerii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma superius (Arthur) Arthur SPECIES
-=======
+# Dicaeoma superius (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

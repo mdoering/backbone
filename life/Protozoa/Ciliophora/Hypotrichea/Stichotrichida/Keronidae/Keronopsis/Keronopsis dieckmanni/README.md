@@ -1,5 +1,4 @@
-Keronopsis dieckmanni Foissner, 1998 SPECIES
-=======
+# Keronopsis dieckmanni Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

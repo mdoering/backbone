@@ -1,5 +1,4 @@
-Paathramaya Subram. GENUS
-=======
+# Paathramaya Subram. GENUS
 
 #### Status
 ACCEPTED

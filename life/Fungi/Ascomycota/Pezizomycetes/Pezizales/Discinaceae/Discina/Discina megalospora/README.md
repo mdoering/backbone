@@ -1,5 +1,4 @@
-Discina megalospora (Donadini & Riousset) Donadini & Riousset SPECIES
-=======
+# Discina megalospora (Donadini & Riousset) Donadini & Riousset SPECIES
 
 #### Status
 ACCEPTED

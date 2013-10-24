@@ -1,5 +1,4 @@
-Desmartus Haeckel, 1887 GENUS
-=======
+# Desmartus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

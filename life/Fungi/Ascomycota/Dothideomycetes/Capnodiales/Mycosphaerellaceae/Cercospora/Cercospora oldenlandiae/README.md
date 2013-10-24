@@ -1,5 +1,4 @@
-Cercospora oldenlandiae Hansf. SPECIES
-=======
+# Cercospora oldenlandiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

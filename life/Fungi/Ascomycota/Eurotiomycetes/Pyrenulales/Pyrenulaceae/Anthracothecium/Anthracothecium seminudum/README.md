@@ -1,5 +1,4 @@
-Anthracothecium seminudum Müll. Arg. SPECIES
-=======
+# Anthracothecium seminudum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

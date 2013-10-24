@@ -1,5 +1,4 @@
-Daedalea candicans P. Karst. SPECIES
-=======
+# Daedalea candicans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

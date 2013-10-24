@@ -1,5 +1,4 @@
-Exidiopsis endoramifera P. Roberts, 2003 SPECIES
-=======
+# Exidiopsis endoramifera P. Roberts, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frontonia macrostoma Srámek-Husek, 1957 SPECIES
-=======
+# Frontonia macrostoma Srámek-Husek, 1957 SPECIES
 
 #### Status
 ACCEPTED

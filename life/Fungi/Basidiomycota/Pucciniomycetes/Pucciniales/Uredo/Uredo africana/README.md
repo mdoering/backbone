@@ -1,5 +1,4 @@
-Uredo africana Lagerh. SPECIES
-=======
+# Uredo africana Lagerh. SPECIES
 
 #### Status
 ACCEPTED

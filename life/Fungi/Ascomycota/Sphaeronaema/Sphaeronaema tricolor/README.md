@@ -1,5 +1,4 @@
-Sphaeronaema tricolor Durieu & Mont. SPECIES
-=======
+# Sphaeronaema tricolor Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

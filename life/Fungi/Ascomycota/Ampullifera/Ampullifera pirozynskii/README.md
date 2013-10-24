@@ -1,5 +1,4 @@
-Ampullifera pirozynskii D. Hawksw. SPECIES
-=======
+# Ampullifera pirozynskii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

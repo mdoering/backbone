@@ -1,5 +1,4 @@
-Peziza pellita Pers. SPECIES
-=======
+# Peziza pellita Pers. SPECIES
 
 #### Status
 ACCEPTED

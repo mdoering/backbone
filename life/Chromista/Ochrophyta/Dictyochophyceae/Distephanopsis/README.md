@@ -1,5 +1,4 @@
-Distephanopsis P.Dumitrica, 1978 GENUS
-=======
+# Distephanopsis P.Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

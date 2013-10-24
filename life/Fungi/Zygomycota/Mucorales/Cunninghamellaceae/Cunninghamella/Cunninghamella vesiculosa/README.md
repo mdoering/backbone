@@ -1,5 +1,4 @@
-Cunninghamella vesiculosa P.C. Misra, 1966 SPECIES
-=======
+# Cunninghamella vesiculosa P.C. Misra, 1966 SPECIES
 
 #### Status
 ACCEPTED

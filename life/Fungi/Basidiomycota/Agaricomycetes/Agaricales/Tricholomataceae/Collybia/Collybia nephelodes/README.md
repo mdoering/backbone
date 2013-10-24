@@ -1,14 +1,13 @@
-Agaricus nephelodes Berk. & Broome, 1871 SPECIES
-=======
+# Collybia nephelodes (Berk. & Broome) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 521 (1871)
+Syll. fung. (Abellini) 5: 208 (1887)
 
 #### Original name
 Agaricus nephelodes Berk. & Broome, 1871

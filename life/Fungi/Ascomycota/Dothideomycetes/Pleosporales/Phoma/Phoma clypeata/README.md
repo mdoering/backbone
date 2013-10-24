@@ -1,5 +1,4 @@
-Phoma clypeata Cooke & Ellis SPECIES
-=======
+# Phoma clypeata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria longipes Pass. SPECIES
-=======
+# Aposphaeria longipes Pass. SPECIES
 
 #### Status
 ACCEPTED

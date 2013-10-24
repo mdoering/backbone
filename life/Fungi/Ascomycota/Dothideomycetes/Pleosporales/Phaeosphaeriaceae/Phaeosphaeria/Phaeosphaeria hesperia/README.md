@@ -1,5 +1,4 @@
-Phaeosphaeria hesperia M.E. Barr SPECIES
-=======
+# Phaeosphaeria hesperia M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

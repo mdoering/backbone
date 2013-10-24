@@ -1,17 +1,16 @@
-Ramularia galegae f. galegae Sacc. FORM
-=======
+# Ramularia galegae Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 2(no. 8): 548 (1882)
 
 #### Original name
-Ramularia galegae f. galegae Sacc.
+Ramularia galegae Sacc., 1882
 
 ### Remarks
 null

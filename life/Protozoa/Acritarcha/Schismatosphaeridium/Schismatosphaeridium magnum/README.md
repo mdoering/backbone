@@ -1,5 +1,4 @@
-Schismatosphaeridium magnum Cramer & Díez, 1976 SPECIES
-=======
+# Schismatosphaeridium magnum Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

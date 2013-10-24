@@ -1,5 +1,4 @@
-Alternaria polygoni Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria polygoni Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

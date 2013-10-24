@@ -1,5 +1,4 @@
-Phoma armoraciae Allesch. SPECIES
-=======
+# Phoma armoraciae Allesch. SPECIES
 
 #### Status
 ACCEPTED

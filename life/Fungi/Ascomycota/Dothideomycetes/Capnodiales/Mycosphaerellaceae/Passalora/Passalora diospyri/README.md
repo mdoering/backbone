@@ -1,5 +1,4 @@
-Passalora diospyri Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora diospyri Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

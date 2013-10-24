@@ -1,17 +1,16 @@
-Racocetra castanea (C. Walker) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora castanea C. Walker, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 14(4): 280 (1993)
 
 #### Original name
-null
+Scutellospora castanea C. Walker, 1993
 
 ### Remarks
 null

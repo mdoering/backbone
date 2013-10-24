@@ -1,5 +1,4 @@
-Dimeromyces annulatus Thaxt. SPECIES
-=======
+# Dimeromyces annulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

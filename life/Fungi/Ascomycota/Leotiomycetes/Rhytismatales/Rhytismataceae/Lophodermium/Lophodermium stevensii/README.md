@@ -1,5 +1,4 @@
-Lophodermium stevensii Tehon ex Terrier SPECIES
-=======
+# Lophodermium stevensii Tehon ex Terrier SPECIES
 
 #### Status
 ACCEPTED

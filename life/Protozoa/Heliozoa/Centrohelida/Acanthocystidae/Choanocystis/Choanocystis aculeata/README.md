@@ -1,5 +1,4 @@
-Choanocystis aculeata (Hertwig & Lesser) Roijackers & Siemensma, 1988 SPECIES
-=======
+# Choanocystis aculeata (Hertwig & Lesser) Roijackers & Siemensma, 1988 SPECIES
 
 #### Status
 ACCEPTED

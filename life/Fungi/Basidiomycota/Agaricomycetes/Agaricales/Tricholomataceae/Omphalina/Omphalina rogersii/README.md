@@ -1,14 +1,13 @@
-Omphalina rogersi (Massee) Manjula SPECIES
-=======
+# Omphalina rogersii (Massee) Manjula SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Indian Acad. Sci. , Pl. Sci. 92(2): 106 (1983)
 
 #### Original name
 Omphalia rogersi Massee

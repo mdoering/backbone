@@ -1,5 +1,4 @@
-Phaeosphaeria equiseti (P. Karst.) L. Holm & K. Holm SPECIES
-=======
+# Phaeosphaeria equiseti (P. Karst.) L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

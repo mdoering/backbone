@@ -1,5 +1,4 @@
-Ustilago apiculata Ellis & Galloway SPECIES
-=======
+# Ustilago apiculata Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

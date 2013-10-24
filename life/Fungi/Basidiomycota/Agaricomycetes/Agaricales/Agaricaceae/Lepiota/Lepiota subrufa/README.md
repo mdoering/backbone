@@ -1,5 +1,4 @@
-Lepiota subrufa Natarajan & Manjula SPECIES
-=======
+# Lepiota subrufa Natarajan & Manjula SPECIES
 
 #### Status
 ACCEPTED

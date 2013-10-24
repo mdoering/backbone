@@ -1,5 +1,4 @@
-Diabolidium Berndt, 1995 GENUS
-=======
+# Diabolidium Berndt, 1995 GENUS
 
 #### Status
 ACCEPTED

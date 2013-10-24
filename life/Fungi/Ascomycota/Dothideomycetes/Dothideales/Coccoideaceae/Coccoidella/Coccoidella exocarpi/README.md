@@ -1,5 +1,4 @@
-Coccoidella exocarpi Z.Q. Yuan SPECIES
-=======
+# Coccoidella exocarpi Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

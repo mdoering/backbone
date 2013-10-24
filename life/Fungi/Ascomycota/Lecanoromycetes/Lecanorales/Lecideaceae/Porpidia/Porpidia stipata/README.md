@@ -1,5 +1,4 @@
-Porpidia stipata Kremp. SPECIES
-=======
+# Porpidia stipata Kremp. SPECIES
 
 #### Status
 ACCEPTED

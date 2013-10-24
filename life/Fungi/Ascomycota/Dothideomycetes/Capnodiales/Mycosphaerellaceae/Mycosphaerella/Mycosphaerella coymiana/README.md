@@ -1,5 +1,4 @@
-Mycosphaerella coymiana Jaap SPECIES
-=======
+# Mycosphaerella coymiana Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Onkonema compactum Geitler SPECIES
-=======
+# Onkonema compactum Geitler SPECIES
 
 #### Status
 ACCEPTED

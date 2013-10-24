@@ -1,5 +1,4 @@
-Thyridium rechingeri Petr. SPECIES
-=======
+# Thyridium rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favotrichophyton angolense Mello & Paes SPECIES
-=======
+# Favotrichophyton angolense Mello & Paes SPECIES
 
 #### Status
 ACCEPTED

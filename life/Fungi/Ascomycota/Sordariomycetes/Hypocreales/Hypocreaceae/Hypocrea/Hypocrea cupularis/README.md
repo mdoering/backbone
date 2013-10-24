@@ -1,14 +1,13 @@
-Poronia cupularis (Fr.) Rabenh., 1844 SPECIES
-=======
+# Hypocrea cupularis (Fr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 535 (1883)
 
 #### Original name
 Sphaeria cupularis Fr., 1830

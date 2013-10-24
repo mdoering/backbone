@@ -1,5 +1,4 @@
-Ustilago vriesiana Vuill. SPECIES
-=======
+# Ustilago vriesiana Vuill. SPECIES
 
 #### Status
 ACCEPTED

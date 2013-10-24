@@ -1,5 +1,4 @@
-Leiosphaeridia bituminosa Timofeev, 1966 SPECIES
-=======
+# Leiosphaeridia bituminosa Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

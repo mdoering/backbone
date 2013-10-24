@@ -1,5 +1,4 @@
-Oidium candidum Bonord. SPECIES
-=======
+# Oidium candidum Bonord. SPECIES
 
 #### Status
 ACCEPTED

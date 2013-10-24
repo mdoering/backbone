@@ -1,17 +1,16 @@
-Phyllachora miscanthi-japonici Sawada, 1943 SPECIES
-=======
+# Phyllachora miscanthi Syd. & P. Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Govt Res. Inst. Dep. Agric. , Formosa 85: 26 (1943)
+Annls mycol. 15(3/4): 227 (1917)
 
 #### Original name
-Phyllachora miscanthi-japonici Sawada, 1943
+Phyllachora miscanthi Syd. & P. Syd., 1917
 
 ### Remarks
 null

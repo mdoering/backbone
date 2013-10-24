@@ -1,5 +1,4 @@
-Sphaeria abscondita P. Karst. SPECIES
-=======
+# Sphaeria abscondita P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphistegina d’Orbigny, 1826 GENUS
-=======
+# Amphistegina d’Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

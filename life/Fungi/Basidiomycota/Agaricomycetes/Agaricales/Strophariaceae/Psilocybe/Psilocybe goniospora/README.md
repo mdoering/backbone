@@ -1,5 +1,4 @@
-Psilocybe goniospora (Berk. & Broome) Singer SPECIES
-=======
+# Psilocybe goniospora (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

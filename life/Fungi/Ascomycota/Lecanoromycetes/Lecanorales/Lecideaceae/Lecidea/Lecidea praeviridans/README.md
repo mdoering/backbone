@@ -1,5 +1,4 @@
-Lecidea praeviridans Nyl. SPECIES
-=======
+# Lecidea praeviridans Nyl. SPECIES
 
 #### Status
 ACCEPTED

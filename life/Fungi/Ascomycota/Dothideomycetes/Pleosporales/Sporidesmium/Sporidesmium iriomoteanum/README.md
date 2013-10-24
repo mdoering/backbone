@@ -1,5 +1,4 @@
-Sporidesmium iriomoteanum Matsush. SPECIES
-=======
+# Sporidesmium iriomoteanum Matsush. SPECIES
 
 #### Status
 ACCEPTED

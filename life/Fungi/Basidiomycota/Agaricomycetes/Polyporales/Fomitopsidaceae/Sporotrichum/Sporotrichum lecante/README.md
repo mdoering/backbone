@@ -1,5 +1,4 @@
-Sporotrichum lecante Beurm. & Gougerot SPECIES
-=======
+# Sporotrichum lecante Beurm. & Gougerot SPECIES
 
 #### Status
 ACCEPTED

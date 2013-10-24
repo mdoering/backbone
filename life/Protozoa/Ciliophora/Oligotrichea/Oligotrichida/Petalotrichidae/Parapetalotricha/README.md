@@ -1,5 +1,4 @@
-Parapetalotricha Hada, 1970 GENUS
-=======
+# Parapetalotricha Hada, 1970 GENUS
 
 #### Status
 ACCEPTED

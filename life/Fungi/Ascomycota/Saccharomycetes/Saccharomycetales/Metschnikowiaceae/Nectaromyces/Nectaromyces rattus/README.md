@@ -1,5 +1,4 @@
-Nectaromyces rattus Negroni & Daglio SPECIES
-=======
+# Nectaromyces rattus Negroni & Daglio SPECIES
 
 #### Status
 ACCEPTED

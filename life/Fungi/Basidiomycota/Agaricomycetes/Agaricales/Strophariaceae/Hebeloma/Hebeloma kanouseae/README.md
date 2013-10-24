@@ -1,17 +1,16 @@
-Hebeloma kanousiae A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma kanouseae A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Veiled species of Hebeloma in the western United States (Ann Arbor) 85 (1983)
 
 #### Original name
-Hebeloma kanousiae A.H. Sm., V.S. Evenson & Mitchel
+Hebeloma kanouseae A.H. Sm., V.S. Evenson & Mitchel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma ornithopodis Syd. SPECIES
-=======
+# Phoma ornithopodis Syd. SPECIES
 
 #### Status
 ACCEPTED

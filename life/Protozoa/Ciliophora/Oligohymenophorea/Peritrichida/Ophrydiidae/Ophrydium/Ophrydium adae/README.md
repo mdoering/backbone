@@ -1,5 +1,4 @@
-Ophrydium adae Evarts, 1880 SPECIES
-=======
+# Ophrydium adae Evarts, 1880 SPECIES
 
 #### Status
 ACCEPTED

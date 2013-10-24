@@ -1,5 +1,4 @@
-Pestalotia chartarum Bres. SPECIES
-=======
+# Pestalotia chartarum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium suffultum Berk. & Broome SPECIES
-=======
+# Corticium suffultum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeobotryosphaeria plicatula (Berk. & Broome) Petch SPECIES
-=======
+# Phaeobotryosphaeria plicatula (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

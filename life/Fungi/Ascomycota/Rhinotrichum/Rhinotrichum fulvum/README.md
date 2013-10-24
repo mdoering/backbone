@@ -1,5 +1,4 @@
-Rhinotrichum fulvum (Berk. & M.A. Curtis) Berk. & M.A. Curtis SPECIES
-=======
+# Rhinotrichum fulvum (Berk. & M.A. Curtis) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

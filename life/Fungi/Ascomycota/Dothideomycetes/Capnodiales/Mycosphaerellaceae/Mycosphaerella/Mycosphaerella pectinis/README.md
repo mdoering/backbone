@@ -1,5 +1,4 @@
-Mycosphaerella pectinis (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella pectinis (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

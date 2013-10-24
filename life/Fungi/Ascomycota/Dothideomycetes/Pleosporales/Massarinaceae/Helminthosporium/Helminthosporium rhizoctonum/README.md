@@ -1,5 +1,4 @@
-Helminthosporium rhizoctonum Rabenh. SPECIES
-=======
+# Helminthosporium rhizoctonum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

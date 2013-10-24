@@ -1,5 +1,4 @@
-Chrysosporium foetidum Apinis & B.M. Clark SPECIES
-=======
+# Chrysosporium foetidum Apinis & B.M. Clark SPECIES
 
 #### Status
 ACCEPTED

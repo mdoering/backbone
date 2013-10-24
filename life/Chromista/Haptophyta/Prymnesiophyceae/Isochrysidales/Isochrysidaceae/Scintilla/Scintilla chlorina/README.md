@@ -1,5 +1,4 @@
-Scintilla chlorina Playfair SPECIES
-=======
+# Scintilla chlorina Playfair SPECIES
 
 #### Status
 ACCEPTED

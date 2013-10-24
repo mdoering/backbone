@@ -1,8 +1,7 @@
-Pleuronema cyclidium Claparède & Lachmann, 1859 SPECIES
-=======
+# Cyclidium brandoni Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

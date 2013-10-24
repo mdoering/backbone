@@ -1,5 +1,4 @@
-Rosenscheldiella litseae Syd. SPECIES
-=======
+# Rosenscheldiella litseae Syd. SPECIES
 
 #### Status
 ACCEPTED

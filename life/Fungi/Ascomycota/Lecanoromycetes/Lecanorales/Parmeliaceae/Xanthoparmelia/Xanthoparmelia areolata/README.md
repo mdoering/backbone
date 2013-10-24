@@ -1,5 +1,4 @@
-Xanthoparmelia areolata Hale SPECIES
-=======
+# Xanthoparmelia areolata Hale SPECIES
 
 #### Status
 ACCEPTED

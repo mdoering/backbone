@@ -1,5 +1,4 @@
-Caeoma asteratum Schwein. SPECIES
-=======
+# Caeoma asteratum Schwein. SPECIES
 
 #### Status
 ACCEPTED

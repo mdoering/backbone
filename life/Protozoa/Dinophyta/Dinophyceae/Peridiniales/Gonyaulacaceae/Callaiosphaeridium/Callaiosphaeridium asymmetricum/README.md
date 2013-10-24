@@ -1,5 +1,4 @@
-Callaiosphaeridium asymmetricum (Deflandre & Courteville, 1939) Davey & Williams, 1966 SPECIES
-=======
+# Callaiosphaeridium asymmetricum (Deflandre & Courteville, 1939) Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

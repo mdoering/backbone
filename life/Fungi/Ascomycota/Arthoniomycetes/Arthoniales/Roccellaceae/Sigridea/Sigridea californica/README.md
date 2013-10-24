@@ -1,14 +1,13 @@
-Platygrapha californica (Tuck.) Nyl. SPECIES
-=======
+# Sigridea californica (Tuck.) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Normandie 2: 97 (1868)
+Cryptog. bot. 3(2): 145 (1993)
 
 #### Original name
 Dirina californica Tuck.

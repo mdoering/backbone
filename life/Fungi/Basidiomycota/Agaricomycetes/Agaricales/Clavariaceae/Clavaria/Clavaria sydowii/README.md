@@ -1,5 +1,4 @@
-Clavaria sydowii Bres. SPECIES
-=======
+# Clavaria sydowii Bres. SPECIES
 
 #### Status
 ACCEPTED

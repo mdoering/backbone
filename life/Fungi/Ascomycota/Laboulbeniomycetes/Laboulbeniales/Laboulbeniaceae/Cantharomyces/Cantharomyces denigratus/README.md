@@ -1,5 +1,4 @@
-Cantharomyces denigratus Thaxt., 1931 SPECIES
-=======
+# Cantharomyces denigratus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

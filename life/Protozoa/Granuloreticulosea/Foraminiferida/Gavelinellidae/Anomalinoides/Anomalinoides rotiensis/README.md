@@ -1,5 +1,4 @@
-Anomalinoides rotiensis Loeblich & Tappan, 1994 SPECIES
-=======
+# Anomalinoides rotiensis Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

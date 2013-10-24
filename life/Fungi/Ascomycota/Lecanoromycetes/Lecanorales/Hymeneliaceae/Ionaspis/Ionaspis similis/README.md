@@ -1,5 +1,4 @@
-Ionaspis similis (A. Massal.) Jatta SPECIES
-=======
+# Ionaspis similis (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolidium californicum E.K. Cash SPECIES
-=======
+# Propolidium californicum E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

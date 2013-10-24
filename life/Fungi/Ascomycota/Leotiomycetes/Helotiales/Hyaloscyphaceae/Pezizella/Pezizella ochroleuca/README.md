@@ -1,5 +1,4 @@
-Pezizella ochroleuca Velen. SPECIES
-=======
+# Pezizella ochroleuca Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellinia pallida (Naumov) Cash SPECIES
-=======
+# Scutellinia pallida (Naumov) Cash SPECIES
 
 #### Status
 ACCEPTED

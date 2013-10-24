@@ -1,5 +1,4 @@
-Decaisnella mammoides (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Decaisnella mammoides (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bertiella polyspora Kirschst. SPECIES
-=======
+# Bertiella polyspora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

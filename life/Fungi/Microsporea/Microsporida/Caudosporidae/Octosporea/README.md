@@ -1,5 +1,4 @@
-Octosporea Flu GENUS
-=======
+# Octosporea Flu GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromycopsis oedogonii M. Roberts SPECIES
-=======
+# Micromycopsis oedogonii M. Roberts SPECIES
 
 #### Status
 ACCEPTED

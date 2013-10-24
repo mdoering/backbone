@@ -1,5 +1,4 @@
-Aspidisca eocenica SPECIES
-=======
+# Aspidisca eocenica SPECIES
 
 #### Status
 ACCEPTED

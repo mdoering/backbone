@@ -1,5 +1,4 @@
-Caldisphaerales ORDER
-=======
+# Caldisphaerales ORDER
 
 #### Status
 ACCEPTED

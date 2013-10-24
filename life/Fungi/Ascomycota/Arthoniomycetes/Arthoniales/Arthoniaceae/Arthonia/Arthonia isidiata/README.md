@@ -1,5 +1,4 @@
-Arthonia isidiata Grube, Lücking & Umaña-Tenorio SPECIES
-=======
+# Arthonia isidiata Grube, Lücking & Umaña-Tenorio SPECIES
 
 #### Status
 ACCEPTED

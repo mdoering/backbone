@@ -1,5 +1,4 @@
-Alliatina variabilis (Zheng, 1978) SPECIES
-=======
+# Alliatina variabilis (Zheng, 1978) SPECIES
 
 #### Status
 ACCEPTED

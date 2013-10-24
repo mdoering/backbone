@@ -1,5 +1,4 @@
-Everhartia phoenicis Yanna, W.H. Ho, Goh & K.D. Hyde SPECIES
-=======
+# Everhartia phoenicis Yanna, W.H. Ho, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

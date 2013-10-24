@@ -1,5 +1,4 @@
-Lecidella pulvinatula Arnold SPECIES
-=======
+# Lecidella pulvinatula Arnold SPECIES
 
 #### Status
 ACCEPTED

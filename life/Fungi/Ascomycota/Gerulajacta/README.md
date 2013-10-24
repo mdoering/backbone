@@ -1,5 +1,4 @@
-Gerulajacta Preuss GENUS
-=======
+# Gerulajacta Preuss GENUS
 
 #### Status
 ACCEPTED

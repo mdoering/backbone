@@ -1,5 +1,4 @@
-Sarcogyne hypophaeoides Vain. SPECIES
-=======
+# Sarcogyne hypophaeoides Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista vascelloides Kreisel SPECIES
-=======
+# Bovista vascelloides Kreisel SPECIES
 
 #### Status
 ACCEPTED

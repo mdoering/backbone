@@ -1,5 +1,4 @@
-Nectria athroa Ellis & Everh. SPECIES
-=======
+# Nectria athroa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

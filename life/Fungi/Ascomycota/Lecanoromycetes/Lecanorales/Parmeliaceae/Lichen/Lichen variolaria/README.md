@@ -1,5 +1,4 @@
-Lichen variolaria Lam. SPECIES
-=======
+# Lichen variolaria Lam. SPECIES
 
 #### Status
 ACCEPTED

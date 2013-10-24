@@ -1,5 +1,4 @@
-Micropeziza diphasii L. Holm & K. Holm SPECIES
-=======
+# Micropeziza diphasii L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

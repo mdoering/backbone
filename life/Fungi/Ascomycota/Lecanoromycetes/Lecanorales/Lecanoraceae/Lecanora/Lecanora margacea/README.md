@@ -1,5 +1,4 @@
-Lecanora margacea Poelt SPECIES
-=======
+# Lecanora margacea Poelt SPECIES
 
 #### Status
 ACCEPTED

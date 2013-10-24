@@ -1,5 +1,4 @@
-Cordierites umbilicarioides A.S. Mull. SPECIES
-=======
+# Cordierites umbilicarioides A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

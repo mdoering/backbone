@@ -1,5 +1,4 @@
-Fomitopsis fulviseda (Bres.) Bondartsev & Singer SPECIES
-=======
+# Fomitopsis fulviseda (Bres.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

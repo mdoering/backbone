@@ -1,5 +1,4 @@
-Dimerospora rugulosa (Hepp) SPECIES
-=======
+# Dimerospora rugulosa (Hepp) SPECIES
 
 #### Status
 ACCEPTED

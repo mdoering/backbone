@@ -1,14 +1,13 @@
-Psilocybe camptopoda (Peck) Sacc. SPECIES
-=======
+# Psilocybe camptopus (Peck) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 1057 (1887)
 
 #### Original name
 Agaricus camptopus Peck

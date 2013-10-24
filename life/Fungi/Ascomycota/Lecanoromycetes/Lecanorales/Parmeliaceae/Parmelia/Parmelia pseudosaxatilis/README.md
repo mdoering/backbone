@@ -1,5 +1,4 @@
-Parmelia pseudosaxatilis Asahina SPECIES
-=======
+# Parmelia pseudosaxatilis Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula helios Malençon ex Sarnari SPECIES
-=======
+# Russula helios Malençon ex Sarnari SPECIES
 
 #### Status
 ACCEPTED

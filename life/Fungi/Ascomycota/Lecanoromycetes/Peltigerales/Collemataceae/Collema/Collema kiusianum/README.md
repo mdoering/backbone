@@ -1,5 +1,4 @@
-Collema kiusianum Asahina SPECIES
-=======
+# Collema kiusianum Asahina SPECIES
 
 #### Status
 ACCEPTED

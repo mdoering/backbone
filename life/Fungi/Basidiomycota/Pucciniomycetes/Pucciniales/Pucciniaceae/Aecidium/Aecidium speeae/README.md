@@ -1,5 +1,4 @@
-Aecidium speeae Gäum. SPECIES
-=======
+# Aecidium speeae Gäum. SPECIES
 
 #### Status
 ACCEPTED

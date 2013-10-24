@@ -1,17 +1,16 @@
-Agaricus fusipes var. fusipes VARIETY
-=======
+# Gymnopus fusipes (Bull.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 604 (1821)
 
 #### Original name
-null
+Agaricus fusipes Bull., 1783
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kermincola kermesina ulc SPECIES
-=======
+# Kermincola kermesina ulc SPECIES
 
 #### Status
 ACCEPTED

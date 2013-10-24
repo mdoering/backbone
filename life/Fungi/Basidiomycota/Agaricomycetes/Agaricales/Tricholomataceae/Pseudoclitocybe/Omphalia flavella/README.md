@@ -1,5 +1,4 @@
-Omphalia flavella (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Omphalia flavella (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

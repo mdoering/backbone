@@ -1,14 +1,13 @@
-Lophiotrema winteri Sacc., 1883 SPECIES
-=======
+# Lophiostoma winteri (Sacc.) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 688 (1883)
+Rabenhorst's Kryptogamen-Flora, Pilze - Ascomyceten 1(2): 297 (1885)
 
 #### Original name
 Lophiotrema winteri Sacc., 1883

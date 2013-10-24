@@ -1,5 +1,4 @@
-Uredo vicosiana Thurst. SPECIES
-=======
+# Uredo vicosiana Thurst. SPECIES
 
 #### Status
 ACCEPTED

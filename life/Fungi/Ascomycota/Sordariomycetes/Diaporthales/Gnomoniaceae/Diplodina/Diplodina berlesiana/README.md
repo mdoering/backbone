@@ -1,5 +1,4 @@
-Diplodina berlesiana Sacc. & Traverso SPECIES
-=======
+# Diplodina berlesiana Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus pallidulus Bres. SPECIES
-=======
+# Polystictus pallidulus Bres. SPECIES
 
 #### Status
 ACCEPTED

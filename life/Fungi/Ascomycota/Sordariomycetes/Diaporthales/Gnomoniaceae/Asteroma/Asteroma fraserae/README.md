@@ -1,5 +1,4 @@
-Asteroma fraserae Ellis & Everh. SPECIES
-=======
+# Asteroma fraserae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

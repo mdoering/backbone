@@ -1,5 +1,4 @@
-Plicaria roblinensis Velen. SPECIES
-=======
+# Plicaria roblinensis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocarpus sterilis (Fr.) P. Karst. SPECIES
-=======
+# Xerocarpus sterilis (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

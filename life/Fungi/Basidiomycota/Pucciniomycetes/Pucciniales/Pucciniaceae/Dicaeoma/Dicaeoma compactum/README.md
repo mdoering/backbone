@@ -1,5 +1,4 @@
-Dicaeoma compactum (Berk.) Kuntze SPECIES
-=======
+# Dicaeoma compactum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

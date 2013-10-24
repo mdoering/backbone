@@ -1,14 +1,13 @@
-Mollisia micrometra (Berk. & Broome) W. Phillips, 1887 SPECIES
-=======
+# Gorgoniceps micrometra (Berk. & Broome) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 184 (1887)
+Syll. fung. (Abellini) 8: 506 (1889)
 
 #### Original name
 null

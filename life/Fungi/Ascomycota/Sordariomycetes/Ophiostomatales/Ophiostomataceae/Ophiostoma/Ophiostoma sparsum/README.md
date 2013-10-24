@@ -1,14 +1,13 @@
-Ceratocystis sparsa R.W. Davidson, 1971 SPECIES
-=======
+# Ophiostoma sparsum (R.W. Davidson) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 63(1): 14 (1971)
+Mycologia 76(2): 297 (1984)
 
 #### Original name
 Ceratocystis sparsa R.W. Davidson, 1971

@@ -1,5 +1,4 @@
-Lecidella leuckertiana Knoph & Mies SPECIES
-=======
+# Lecidella leuckertiana Knoph & Mies SPECIES
 
 #### Status
 ACCEPTED

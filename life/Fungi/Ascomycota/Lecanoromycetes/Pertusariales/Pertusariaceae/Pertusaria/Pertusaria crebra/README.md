@@ -1,5 +1,4 @@
-Pertusaria crebra Vain. SPECIES
-=======
+# Pertusaria crebra Vain. SPECIES
 
 #### Status
 ACCEPTED

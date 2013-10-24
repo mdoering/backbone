@@ -1,5 +1,4 @@
-Kyrtuthrix Ercegovic, 1929 GENUS
-=======
+# Kyrtuthrix Ercegovic, 1929 GENUS
 
 #### Status
 ACCEPTED

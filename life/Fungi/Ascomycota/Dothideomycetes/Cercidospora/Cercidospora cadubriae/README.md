@@ -1,5 +1,4 @@
-Cercidospora cadubriae (Sacc.) Kuntze SPECIES
-=======
+# Cercidospora cadubriae (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

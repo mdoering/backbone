@@ -1,5 +1,4 @@
-Tavaresiella santamariae R.K. Benj., 1993 SPECIES
-=======
+# Tavaresiella santamariae R.K. Benj., 1993 SPECIES
 
 #### Status
 ACCEPTED

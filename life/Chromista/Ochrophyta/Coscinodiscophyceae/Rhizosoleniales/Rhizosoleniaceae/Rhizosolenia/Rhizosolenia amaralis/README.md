@@ -1,5 +1,4 @@
-Rhizosolenia amaralis G.M. Hallegraeff & D.R.A. Hill in Hallegraeff et al., 2010 SPECIES
-=======
+# Rhizosolenia amaralis G.M. Hallegraeff & D.R.A. Hill in Hallegraeff et al., 2010 SPECIES
 
 #### Status
 ACCEPTED

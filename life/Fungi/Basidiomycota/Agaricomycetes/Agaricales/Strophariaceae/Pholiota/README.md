@@ -1,17 +1,16 @@
-Ryssospora Fayod GENUS
-=======
+# Pholiota (E.M. Fries) P. Kummer, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 7 9: 361 (1889)
+null
 
 #### Original name
-Ryssospora Fayod
+null
 
 ### Remarks
 null

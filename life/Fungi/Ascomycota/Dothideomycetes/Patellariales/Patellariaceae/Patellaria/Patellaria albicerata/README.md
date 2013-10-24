@@ -1,5 +1,4 @@
-Patellaria albicerata (Kremp.) SPECIES
-=======
+# Patellaria albicerata (Kremp.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina subcrispa Horik. & M. Nakan. SPECIES
-=======
+# Graphina subcrispa Horik. & M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

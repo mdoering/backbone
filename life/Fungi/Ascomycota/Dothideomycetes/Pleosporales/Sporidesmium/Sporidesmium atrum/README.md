@@ -1,14 +1,13 @@
-Stigmina atra (Link) Pound & Clem., 1896 SPECIES
-=======
+# Sporidesmium atrum Link, 1809 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Minn. bot. Stud. 1(Bulletin 9): 661 (1896)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 41 (1809)
 
 #### Original name
 Sporidesmium atrum Link, 1809

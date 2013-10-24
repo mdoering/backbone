@@ -1,5 +1,4 @@
-Thelephora dispersa Schleich. SPECIES
-=======
+# Thelephora dispersa Schleich. SPECIES
 
 #### Status
 ACCEPTED

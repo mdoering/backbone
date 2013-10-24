@@ -1,5 +1,4 @@
-Cercosporina glycyrrhizae-echinatae Savul. & Sandu SPECIES
-=======
+# Cercosporina glycyrrhizae-echinatae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

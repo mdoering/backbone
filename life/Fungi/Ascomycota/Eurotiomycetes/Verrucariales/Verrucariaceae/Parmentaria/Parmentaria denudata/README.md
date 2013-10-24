@@ -1,5 +1,4 @@
-Parmentaria denudata Zahlbr. SPECIES
-=======
+# Parmentaria denudata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

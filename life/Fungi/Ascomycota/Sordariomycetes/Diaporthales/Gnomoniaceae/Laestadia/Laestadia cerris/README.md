@@ -1,5 +1,4 @@
-Laestadia cerris Pass. SPECIES
-=======
+# Laestadia cerris Pass. SPECIES
 
 #### Status
 ACCEPTED

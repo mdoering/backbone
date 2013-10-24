@@ -1,5 +1,4 @@
-Trichoderma rubropallens Schwein. SPECIES
-=======
+# Trichoderma rubropallens Schwein. SPECIES
 
 #### Status
 ACCEPTED

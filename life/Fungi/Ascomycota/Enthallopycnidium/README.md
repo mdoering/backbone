@@ -1,5 +1,4 @@
-Enthallopycnidium F. Stevens GENUS
-=======
+# Enthallopycnidium F. Stevens GENUS
 
 #### Status
 ACCEPTED

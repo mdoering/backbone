@@ -1,5 +1,4 @@
-Lecanora christophersenii H. Magn. SPECIES
-=======
+# Lecanora christophersenii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

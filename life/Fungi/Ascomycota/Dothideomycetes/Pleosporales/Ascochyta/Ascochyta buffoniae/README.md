@@ -1,5 +1,4 @@
-Ascochyta buffoniae Gonz. Frag. SPECIES
-=======
+# Ascochyta buffoniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

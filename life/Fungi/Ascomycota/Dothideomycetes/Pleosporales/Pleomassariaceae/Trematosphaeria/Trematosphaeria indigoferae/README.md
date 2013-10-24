@@ -1,5 +1,4 @@
-Trematosphaeria indigoferae E. Müll. & S. Ahmad SPECIES
-=======
+# Trematosphaeria indigoferae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephrocybe nodulospora (Singer) Raithelh. SPECIES
-=======
+# Tephrocybe nodulospora (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitrula alba W.G. Sm., 1873 SPECIES
-=======
+# Mitrula alba W.G. Sm., 1873 SPECIES
 
 #### Status
 ACCEPTED

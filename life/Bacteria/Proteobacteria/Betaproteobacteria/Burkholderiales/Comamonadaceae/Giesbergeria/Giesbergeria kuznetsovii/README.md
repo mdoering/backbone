@@ -1,5 +1,4 @@
-Giesbergeria kuznetsovii Grabovich et al., 2006 SPECIES
-=======
+# Giesbergeria kuznetsovii Grabovich et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

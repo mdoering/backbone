@@ -1,5 +1,4 @@
-Puccinia hookeri P. Syd. & Syd. SPECIES
-=======
+# Puccinia hookeri P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

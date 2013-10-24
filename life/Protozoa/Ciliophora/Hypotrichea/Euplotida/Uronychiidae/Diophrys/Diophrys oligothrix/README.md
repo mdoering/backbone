@@ -1,5 +1,4 @@
-Diophrys oligothrix Borror, 1965 SPECIES
-=======
+# Diophrys oligothrix Borror, 1965 SPECIES
 
 #### Status
 ACCEPTED

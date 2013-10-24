@@ -1,5 +1,4 @@
-Caloplaca caeruleoatra H. Magn. SPECIES
-=======
+# Caloplaca caeruleoatra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

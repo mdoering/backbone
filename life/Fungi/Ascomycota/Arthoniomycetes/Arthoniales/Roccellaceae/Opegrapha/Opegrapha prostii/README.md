@@ -1,5 +1,4 @@
-Opegrapha prostii Nyl. SPECIES
-=======
+# Opegrapha prostii Nyl. SPECIES
 
 #### Status
 ACCEPTED

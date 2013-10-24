@@ -1,5 +1,4 @@
-Uncinula eylesii Doidge SPECIES
-=======
+# Uncinula eylesii Doidge SPECIES
 
 #### Status
 ACCEPTED

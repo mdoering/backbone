@@ -1,5 +1,4 @@
-Diplodia cylindrospora Bubák SPECIES
-=======
+# Diplodia cylindrospora Bubák SPECIES
 
 #### Status
 ACCEPTED

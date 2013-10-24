@@ -1,5 +1,4 @@
-Vermicularia chaetoplexa Sousa da Câmara SPECIES
-=======
+# Vermicularia chaetoplexa Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

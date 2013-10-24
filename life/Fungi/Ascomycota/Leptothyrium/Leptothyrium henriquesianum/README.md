@@ -1,5 +1,4 @@
-Leptothyrium henriquesianum Gonz. Frag. SPECIES
-=======
+# Leptothyrium henriquesianum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

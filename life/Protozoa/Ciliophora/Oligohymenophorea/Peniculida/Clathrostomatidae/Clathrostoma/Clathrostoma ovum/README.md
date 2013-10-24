@@ -1,5 +1,4 @@
-Clathrostoma ovum Faure-Fremiet, 1924 SPECIES
-=======
+# Clathrostoma ovum Faure-Fremiet, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhipidium thaxteri Minden, 1912 SPECIES
-=======
+# Rhipidium thaxteri Minden, 1912 SPECIES
 
 #### Status
 ACCEPTED

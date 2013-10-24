@@ -1,5 +1,4 @@
-Holophrya gelei Dragesco, 1966 SPECIES
-=======
+# Holophrya gelei Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

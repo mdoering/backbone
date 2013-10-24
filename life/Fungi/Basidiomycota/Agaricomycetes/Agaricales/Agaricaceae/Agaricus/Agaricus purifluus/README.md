@@ -1,5 +1,4 @@
-Agaricus purifluus Lasch SPECIES
-=======
+# Agaricus purifluus Lasch SPECIES
 
 #### Status
 ACCEPTED

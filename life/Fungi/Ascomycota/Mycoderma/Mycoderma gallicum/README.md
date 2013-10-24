@@ -1,5 +1,4 @@
-Mycoderma gallicum H. Will SPECIES
-=======
+# Mycoderma gallicum H. Will SPECIES
 
 #### Status
 ACCEPTED

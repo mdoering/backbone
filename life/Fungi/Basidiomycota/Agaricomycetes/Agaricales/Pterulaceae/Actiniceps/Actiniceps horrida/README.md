@@ -1,14 +1,13 @@
-Wiesnerina horrida Höhn., 1907 SPECIES
-=======
+# Actiniceps horrida (Höhn.) Boedijn, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 83: 7 (1907)
+Persoonia 1(1): 13 (1959)
 
 #### Original name
 Wiesnerina horrida Höhn., 1907

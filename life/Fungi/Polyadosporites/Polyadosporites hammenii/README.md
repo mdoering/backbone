@@ -1,5 +1,4 @@
-Polyadosporites hammenii Haseld. SPECIES
-=======
+# Polyadosporites hammenii Haseld. SPECIES
 
 #### Status
 ACCEPTED

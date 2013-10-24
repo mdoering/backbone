@@ -1,5 +1,4 @@
-Ceratium uteri A.S. Campbell, 1934 SPECIES
-=======
+# Ceratium uteri A.S. Campbell, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophora intermedia (Frey) Schol. SPECIES
-=======
+# Gyrophora intermedia (Frey) Schol. SPECIES
 
 #### Status
 ACCEPTED

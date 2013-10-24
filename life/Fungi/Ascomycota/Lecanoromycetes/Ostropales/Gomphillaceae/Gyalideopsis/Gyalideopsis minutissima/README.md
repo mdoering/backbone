@@ -1,5 +1,4 @@
-Gyalideopsis minutissima Lücking SPECIES
-=======
+# Gyalideopsis minutissima Lücking SPECIES
 
 #### Status
 ACCEPTED

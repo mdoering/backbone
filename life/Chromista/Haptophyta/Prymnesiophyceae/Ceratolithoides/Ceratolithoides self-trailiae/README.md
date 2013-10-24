@@ -1,5 +1,4 @@
-Ceratolithoides self-trailiae SPECIES
-=======
+# Ceratolithoides self-trailiae SPECIES
 
 #### Status
 ACCEPTED

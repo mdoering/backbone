@@ -1,14 +1,13 @@
-Sagrahamala ampulliphoris (Matsush.) Subram., 1977 SPECIES
-=======
+# Paecilomyces ampulliphorus Matsush., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 5: 98 (1977)
+Icon. microfung. Matsush. lect. (Kobe) 104 (1975)
 
 #### Original name
 Paecilomyces ampulliphorus Matsush., 1975

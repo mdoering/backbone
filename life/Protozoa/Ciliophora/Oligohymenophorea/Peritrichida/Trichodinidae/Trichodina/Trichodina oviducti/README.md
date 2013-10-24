@@ -1,5 +1,4 @@
-Trichodina oviducti Poljansky, 1951 SPECIES
-=======
+# Trichodina oviducti Poljansky, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma arthuri (P. Syd. & Syd.) Arthur SPECIES
-=======
+# Dicaeoma arthurii (P. Syd. & Syd.) Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7(4-5): 293 (1920)
 
 #### Original name
 Puccinia arthurii P. Syd. & Syd.

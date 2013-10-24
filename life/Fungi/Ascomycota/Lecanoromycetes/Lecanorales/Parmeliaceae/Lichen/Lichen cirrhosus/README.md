@@ -1,5 +1,4 @@
-Lichen cirrhosus Hoffm. SPECIES
-=======
+# Lichen cirrhosus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria aquila var. aquila VARIETY
-=======
+# Rosellinia aquila (Fr.) Ces. & De Not., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. svenska Vetensk-Akad. Handl. 38: 251 (1817)
+G. bot. ital. 1(1): 334 (1844)
 
 #### Original name
-Sphaeria aquila var. aquila
+Sphaeria aquila Fr., 1817
 
 ### Remarks
 null

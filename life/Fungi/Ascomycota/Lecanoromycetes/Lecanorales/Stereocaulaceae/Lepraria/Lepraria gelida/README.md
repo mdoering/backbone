@@ -1,5 +1,4 @@
-Lepraria gelida Tønsberg & Zhurb. SPECIES
-=======
+# Lepraria gelida Tønsberg & Zhurb. SPECIES
 
 #### Status
 ACCEPTED

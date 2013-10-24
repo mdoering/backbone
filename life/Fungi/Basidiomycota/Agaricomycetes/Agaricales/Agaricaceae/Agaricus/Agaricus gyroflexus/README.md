@@ -1,5 +1,4 @@
-Agaricus gyroflexus Fr. SPECIES
-=======
+# Agaricus gyroflexus Fr. SPECIES
 
 #### Status
 ACCEPTED

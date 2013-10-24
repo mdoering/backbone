@@ -1,5 +1,4 @@
-Uredo aburiensis Cummins SPECIES
-=======
+# Uredo aburiensis Cummins SPECIES
 
 #### Status
 ACCEPTED

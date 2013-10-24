@@ -1,5 +1,4 @@
-Melanoleuca infantilis (Peck) Murrill SPECIES
-=======
+# Melanoleuca infantilis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

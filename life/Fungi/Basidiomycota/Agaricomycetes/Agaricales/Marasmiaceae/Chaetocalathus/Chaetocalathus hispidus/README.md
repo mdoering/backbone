@@ -1,5 +1,4 @@
-Chaetocalathus hispidus (Massee) Singer SPECIES
-=======
+# Chaetocalathus hispidus (Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

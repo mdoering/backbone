@@ -1,5 +1,4 @@
-Cetraria megaleia (Nyl.) Räsänen SPECIES
-=======
+# Cetraria megaleia (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

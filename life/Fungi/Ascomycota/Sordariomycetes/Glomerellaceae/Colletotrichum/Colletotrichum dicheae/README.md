@@ -1,5 +1,4 @@
-Colletotrichum dicheae Henn. SPECIES
-=======
+# Colletotrichum dicheae Henn. SPECIES
 
 #### Status
 ACCEPTED

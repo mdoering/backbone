@@ -1,5 +1,4 @@
-Cellulosporium Peck GENUS
-=======
+# Cellulosporium Peck GENUS
 
 #### Status
 ACCEPTED

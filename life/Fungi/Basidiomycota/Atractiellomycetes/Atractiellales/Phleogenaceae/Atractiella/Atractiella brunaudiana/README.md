@@ -1,5 +1,4 @@
-Atractiella brunaudiana Sacc., 1886 SPECIES
-=======
+# Atractiella brunaudiana Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

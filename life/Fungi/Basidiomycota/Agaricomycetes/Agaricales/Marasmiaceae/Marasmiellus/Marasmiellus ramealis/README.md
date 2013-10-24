@@ -1,17 +1,16 @@
-Agaricus ramealis var. ramealis VARIETY
-=======
+# Marasmiellus ramealis (Bull.) Singer, 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 32: 130 (1946)
 
 #### Original name
-null
+Agaricus ramealis Bull., 1788
 
 ### Remarks
 null

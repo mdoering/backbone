@@ -1,5 +1,4 @@
-Dematium badium Link SPECIES
-=======
+# Dematium badium Link SPECIES
 
 #### Status
 ACCEPTED

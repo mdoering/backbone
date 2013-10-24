@@ -1,5 +1,4 @@
-Mycoblastomyces sanguinarii Cif. & Tomas. SPECIES
-=======
+# Mycoblastomyces sanguinarii Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

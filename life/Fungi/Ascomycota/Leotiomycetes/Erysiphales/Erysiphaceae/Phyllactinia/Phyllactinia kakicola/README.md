@@ -1,5 +1,4 @@
-Phyllactinia kakicola Sawada SPECIES
-=======
+# Phyllactinia kakicola Sawada SPECIES
 
 #### Status
 ACCEPTED

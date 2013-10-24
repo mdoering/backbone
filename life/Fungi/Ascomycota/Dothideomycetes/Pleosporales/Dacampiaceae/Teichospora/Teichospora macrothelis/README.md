@@ -1,5 +1,4 @@
-Teichospora macrothelis E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Teichospora macrothelis E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

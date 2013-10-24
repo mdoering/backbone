@@ -1,5 +1,4 @@
-Coccocarpia albida C.W. Dodge SPECIES
-=======
+# Coccocarpia albida C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

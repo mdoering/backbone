@@ -1,5 +1,4 @@
-Bipolaris Shoemaker, 1959 GENUS
-=======
+# Bipolaris Shoemaker, 1959 GENUS
 
 #### Status
 ACCEPTED

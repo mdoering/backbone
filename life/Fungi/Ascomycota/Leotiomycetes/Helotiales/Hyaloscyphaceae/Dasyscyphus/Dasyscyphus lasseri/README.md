@@ -1,17 +1,16 @@
-Dasyscypha lasseri Dennis SPECIES
-=======
+# Dasyscyphus lasseri Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 309 (1954)
 
 #### Original name
-Dasyscypha lasseri Dennis
+Dasyscyphus lasseri Dennis
 
 ### Remarks
 null

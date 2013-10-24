@@ -1,5 +1,4 @@
-Polyporus scoparius Pers. SPECIES
-=======
+# Polyporus scoparius Pers. SPECIES
 
 #### Status
 ACCEPTED

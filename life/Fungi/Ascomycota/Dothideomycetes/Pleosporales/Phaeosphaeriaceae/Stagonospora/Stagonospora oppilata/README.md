@@ -1,5 +1,4 @@
-Stagonospora oppilata (Fr.) Sacc. SPECIES
-=======
+# Stagonospora oppilata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

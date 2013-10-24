@@ -1,5 +1,4 @@
-Puccinia buriticae Pardo-Card. SPECIES
-=======
+# Puccinia buriticae Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

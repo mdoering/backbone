@@ -1,5 +1,4 @@
-Denticularia mangiferae (Bitanc. & Jenkins) Alcorn, Grice & R.A. Peterson, 1999 SPECIES
-=======
+# Denticularia mangiferae (Bitanc. & Jenkins) Alcorn, Grice & R.A. Peterson, 1999 SPECIES
 
 #### Status
 ACCEPTED

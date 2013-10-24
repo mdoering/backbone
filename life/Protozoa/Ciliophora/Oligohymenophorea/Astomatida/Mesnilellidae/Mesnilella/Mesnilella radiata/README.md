@@ -1,5 +1,4 @@
-Mesnilella radiata SPECIES
-=======
+# Mesnilella radiata SPECIES
 
 #### Status
 ACCEPTED

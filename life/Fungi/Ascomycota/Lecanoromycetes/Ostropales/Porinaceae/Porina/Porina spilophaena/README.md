@@ -1,5 +1,4 @@
-Porina spilophaena Kremp. SPECIES
-=======
+# Porina spilophaena Kremp. SPECIES
 
 #### Status
 ACCEPTED

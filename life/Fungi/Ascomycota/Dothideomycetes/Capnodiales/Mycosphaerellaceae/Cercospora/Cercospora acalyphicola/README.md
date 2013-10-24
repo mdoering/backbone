@@ -1,17 +1,16 @@
-Cercospora acalyphaecola J.M. Yen SPECIES
-=======
+# Cercospora acalyphicola J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 31: 112 (1966)
 
 #### Original name
-Cercospora acalyphaecola J.M. Yen
+Cercospora acalyphicola J.M. Yen
 
 ### Remarks
 null

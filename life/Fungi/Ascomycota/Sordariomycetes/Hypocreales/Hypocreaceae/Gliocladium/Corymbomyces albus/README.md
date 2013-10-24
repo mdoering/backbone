@@ -1,5 +1,4 @@
-Corymbomyces albus K.R. Appel & Strunk SPECIES
-=======
+# Corymbomyces albus K.R. Appel & Strunk SPECIES
 
 #### Status
 ACCEPTED

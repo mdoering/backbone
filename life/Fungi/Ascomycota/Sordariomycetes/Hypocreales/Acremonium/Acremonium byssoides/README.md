@@ -1,5 +1,4 @@
-Acremonium byssoides W. Gams & T.M. Lim, 1975 SPECIES
-=======
+# Acremonium byssoides W. Gams & T.M. Lim, 1975 SPECIES
 
 #### Status
 ACCEPTED

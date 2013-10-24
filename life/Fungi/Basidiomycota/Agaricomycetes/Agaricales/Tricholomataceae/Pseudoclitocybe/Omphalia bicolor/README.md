@@ -1,5 +1,4 @@
-Omphalia bicolor R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Omphalia bicolor R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

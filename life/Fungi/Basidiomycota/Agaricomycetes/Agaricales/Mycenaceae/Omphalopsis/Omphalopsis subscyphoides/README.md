@@ -1,5 +1,4 @@
-Omphalopsis subscyphoides Murrill SPECIES
-=======
+# Omphalopsis subscyphoides Murrill SPECIES
 
 #### Status
 ACCEPTED

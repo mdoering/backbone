@@ -1,5 +1,4 @@
-Hymenoscyphus epiphylloides (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Hymenoscyphus epiphylloides (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

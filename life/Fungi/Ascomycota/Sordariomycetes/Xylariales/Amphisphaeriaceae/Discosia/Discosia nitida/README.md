@@ -1,5 +1,4 @@
-Discosia nitida Lév. SPECIES
-=======
+# Discosia nitida Lév. SPECIES
 
 #### Status
 ACCEPTED

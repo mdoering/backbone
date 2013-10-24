@@ -1,14 +1,13 @@
-Phragmidium okianum Hara, 1928 SPECIES
-=======
+# Phragmotelium okianum (Hara) Thirum., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Indian Acad. Sci. , Sect. B 15: 187 (1942)
 
 #### Original name
 Phragmidium okianum Hara, 1928

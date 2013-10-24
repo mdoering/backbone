@@ -1,5 +1,4 @@
-Neoramularia U. Braun GENUS
-=======
+# Neoramularia U. Braun GENUS
 
 #### Status
 ACCEPTED

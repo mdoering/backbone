@@ -1,5 +1,4 @@
-Graphina chloroleuca Müll. Arg. SPECIES
-=======
+# Graphina chloroleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

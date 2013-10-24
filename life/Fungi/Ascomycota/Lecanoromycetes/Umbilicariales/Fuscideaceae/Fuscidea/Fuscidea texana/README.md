@@ -1,5 +1,4 @@
-Fuscidea texana Fryday SPECIES
-=======
+# Fuscidea texana Fryday SPECIES
 
 #### Status
 ACCEPTED

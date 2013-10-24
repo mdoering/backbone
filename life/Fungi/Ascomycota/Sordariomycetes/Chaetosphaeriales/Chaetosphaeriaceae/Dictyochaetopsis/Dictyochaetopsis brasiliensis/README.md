@@ -1,5 +1,4 @@
-Dictyochaetopsis brasiliensis M. Calduch, Gené, Stchigel & Guarro SPECIES
-=======
+# Dictyochaetopsis brasiliensis M. Calduch, Gené, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

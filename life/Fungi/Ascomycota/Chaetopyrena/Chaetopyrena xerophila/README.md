@@ -1,5 +1,4 @@
-Chaetopyrena xerophila Speg. SPECIES
-=======
+# Chaetopyrena xerophila Speg. SPECIES
 
 #### Status
 ACCEPTED

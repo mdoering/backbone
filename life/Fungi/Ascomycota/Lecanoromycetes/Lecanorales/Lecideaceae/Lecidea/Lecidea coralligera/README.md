@@ -1,5 +1,4 @@
-Lecidea coralligera Hue SPECIES
-=======
+# Lecidea coralligera Hue SPECIES
 
 #### Status
 ACCEPTED

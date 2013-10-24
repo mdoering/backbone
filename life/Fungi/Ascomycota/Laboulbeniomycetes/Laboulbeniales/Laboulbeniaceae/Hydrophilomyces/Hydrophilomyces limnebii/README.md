@@ -1,5 +1,4 @@
-Hydrophilomyces limnebii Sarna & Milewska SPECIES
-=======
+# Hydrophilomyces limnebii Sarna & Milewska SPECIES
 
 #### Status
 ACCEPTED

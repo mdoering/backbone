@@ -1,5 +1,4 @@
-Gliostroma pezizoides Corda SPECIES
-=======
+# Gliostroma pezizoides Corda SPECIES
 
 #### Status
 ACCEPTED

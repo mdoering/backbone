@@ -1,5 +1,4 @@
-Gondwanamyces G.J. Marais & M.J. Wingf. GENUS
-=======
+# Gondwanamyces G.J. Marais & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

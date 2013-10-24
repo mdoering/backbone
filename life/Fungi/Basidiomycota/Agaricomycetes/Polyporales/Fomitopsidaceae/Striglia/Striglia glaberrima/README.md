@@ -1,5 +1,4 @@
-Striglia glaberrima (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Striglia glaberrima (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baeostratoporus GENUS
-=======
+# Baeostratoporus GENUS
 
 #### Status
 ACCEPTED

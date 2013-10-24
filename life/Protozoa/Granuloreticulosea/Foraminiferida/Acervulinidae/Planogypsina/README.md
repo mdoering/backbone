@@ -1,5 +1,4 @@
-Planogypsina Bermudez, 1952 GENUS
-=======
+# Planogypsina Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

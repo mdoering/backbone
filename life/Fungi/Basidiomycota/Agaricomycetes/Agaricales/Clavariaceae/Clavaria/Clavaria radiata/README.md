@@ -1,5 +1,4 @@
-Clavaria radiata Lév. SPECIES
-=======
+# Clavaria radiata Lév. SPECIES
 
 #### Status
 ACCEPTED

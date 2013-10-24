@@ -1,5 +1,4 @@
-Lecidea argentea (Mont.) SPECIES
-=======
+# Lecidea argentea (Mont.) SPECIES
 
 #### Status
 ACCEPTED

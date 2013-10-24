@@ -1,5 +1,4 @@
-Dialacenium landolphiae Hansf. SPECIES
-=======
+# Dialacenium landolphiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

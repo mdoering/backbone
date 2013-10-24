@@ -1,5 +1,4 @@
-Baltisphaeridium chiggerum Cramer, 1969 SPECIES
-=======
+# Baltisphaeridium chiggerum Cramer, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mortierella basiparvispora W. Gams & Grinb., 1976 SPECIES
-=======
+# Mortierella basiparvispora W. Gams & Grinb., 1976 SPECIES
 
 #### Status
 ACCEPTED

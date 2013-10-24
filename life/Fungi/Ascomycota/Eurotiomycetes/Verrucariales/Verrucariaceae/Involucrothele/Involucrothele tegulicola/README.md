@@ -1,5 +1,4 @@
-Involucrothele tegulicola Servít SPECIES
-=======
+# Involucrothele tegulicola Servít SPECIES
 
 #### Status
 ACCEPTED

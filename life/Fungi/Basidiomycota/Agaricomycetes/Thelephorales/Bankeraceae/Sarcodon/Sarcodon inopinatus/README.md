@@ -1,5 +1,4 @@
-Sarcodon inopinatus Donk SPECIES
-=======
+# Sarcodon inopinatus Donk SPECIES
 
 #### Status
 ACCEPTED

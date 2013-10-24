@@ -1,5 +1,4 @@
-Cronartium pedicularis (A. Dietr.) Lindr. SPECIES
-=======
+# Cronartium pedicularis (A. Dietr.) Lindr. SPECIES
 
 #### Status
 ACCEPTED

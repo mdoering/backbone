@@ -1,5 +1,4 @@
-Meliola pellucida Gaillard SPECIES
-=======
+# Meliola pellucida Gaillard SPECIES
 
 #### Status
 ACCEPTED

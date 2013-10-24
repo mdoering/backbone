@@ -1,5 +1,4 @@
-Hydnum caperatum Pat. SPECIES
-=======
+# Hydnum caperatum Pat. SPECIES
 
 #### Status
 ACCEPTED

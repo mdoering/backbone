@@ -1,5 +1,4 @@
-Strattonia oblecythiformis A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Strattonia oblecythiformis A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria arabidis Allesch. SPECIES
-=======
+# Leptosphaeria arabidis Allesch. SPECIES
 
 #### Status
 ACCEPTED

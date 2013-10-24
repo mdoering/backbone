@@ -1,5 +1,4 @@
-Tychonema rhodonema (Skuja) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Tychonema rhodonema (Skuja) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

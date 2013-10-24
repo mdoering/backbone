@@ -1,5 +1,4 @@
-Clypeococcum hypocenomycis D. Hawksw. SPECIES
-=======
+# Clypeococcum hypocenomycis D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

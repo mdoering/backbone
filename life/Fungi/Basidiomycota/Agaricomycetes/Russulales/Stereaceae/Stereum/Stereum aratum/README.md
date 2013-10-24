@@ -1,5 +1,4 @@
-Stereum aratum Pat. SPECIES
-=======
+# Stereum aratum Pat. SPECIES
 
 #### Status
 ACCEPTED

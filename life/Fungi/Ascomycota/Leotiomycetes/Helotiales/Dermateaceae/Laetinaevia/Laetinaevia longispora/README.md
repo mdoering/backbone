@@ -1,5 +1,4 @@
-Laetinaevia longispora B. Hein SPECIES
-=======
+# Laetinaevia longispora B. Hein SPECIES
 
 #### Status
 ACCEPTED

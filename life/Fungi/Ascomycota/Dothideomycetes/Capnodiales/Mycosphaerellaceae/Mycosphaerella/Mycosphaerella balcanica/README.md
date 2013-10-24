@@ -1,5 +1,4 @@
-Mycosphaerella balcanica Bubák & Picb. SPECIES
-=======
+# Mycosphaerella balcanica Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

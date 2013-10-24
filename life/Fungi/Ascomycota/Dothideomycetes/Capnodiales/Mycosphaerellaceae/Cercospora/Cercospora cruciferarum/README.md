@@ -1,5 +1,4 @@
-Cercospora cruciferarum Ellis & Everh. SPECIES
-=======
+# Cercospora cruciferarum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acinetopsis elegans Swarczewsky, 1928 SPECIES
-=======
+# Acinetopsis elegans Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria trachelina Lév. SPECIES
-=======
+# Sphaeria trachelina Lév. SPECIES
 
 #### Status
 ACCEPTED

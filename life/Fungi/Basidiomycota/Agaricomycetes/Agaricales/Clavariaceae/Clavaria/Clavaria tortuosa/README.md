@@ -1,5 +1,4 @@
-Clavaria tortuosa L.D. Gómez, 1972 SPECIES
-=======
+# Clavaria tortuosa L.D. Gómez, 1972 SPECIES
 
 #### Status
 ACCEPTED

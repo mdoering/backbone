@@ -1,5 +1,4 @@
-Camarosporium noaeae Kalymb. SPECIES
-=======
+# Camarosporium noaeae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

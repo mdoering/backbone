@@ -1,5 +1,4 @@
-Sphaerella pardalota Cooke & Ellis SPECIES
-=======
+# Sphaerella pardalota Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

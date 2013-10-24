@@ -1,5 +1,4 @@
-Xanthobacter flavus Malik and Claus, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Xanthobacter flavus Malik and Claus, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

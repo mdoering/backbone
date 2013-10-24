@@ -1,5 +1,4 @@
-Entoloma spineum E. Horak & Singer SPECIES
-=======
+# Entoloma spineum E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

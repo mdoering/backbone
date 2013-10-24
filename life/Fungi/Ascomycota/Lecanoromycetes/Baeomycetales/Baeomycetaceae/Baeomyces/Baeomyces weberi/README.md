@@ -1,5 +1,4 @@
-Baeomyces weberi J.W. Thomson SPECIES
-=======
+# Baeomyces weberi J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

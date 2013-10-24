@@ -1,5 +1,4 @@
-Reophax calcareus (Cushman, 1947) SPECIES
-=======
+# Reophax calcareus (Cushman, 1947) SPECIES
 
 #### Status
 ACCEPTED

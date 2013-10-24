@@ -1,5 +1,4 @@
-Nectria laetidiscoides Samuels & Brayford SPECIES
-=======
+# Nectria laetidiscoides Samuels & Brayford SPECIES
 
 #### Status
 ACCEPTED

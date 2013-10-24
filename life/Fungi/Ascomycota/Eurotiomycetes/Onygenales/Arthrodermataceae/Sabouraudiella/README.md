@@ -1,5 +1,4 @@
-Sabouraudiella GENUS
-=======
+# Sabouraudiella GENUS
 
 #### Status
 ACCEPTED

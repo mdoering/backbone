@@ -1,5 +1,4 @@
-Pyrenophora dubia Bubák SPECIES
-=======
+# Pyrenophora dubia Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acia stenodon var. stenodon (Pers.) Bourdot & Galzin VARIETY
-=======
+# Mycoacia stenodon (Pers.) Donk, 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 30(2): 256 (1914)
+Medded. Nedl. Mycol. Ver. 18-20: 151 (1931)
 
 #### Original name
-Acia stenodon var. stenodon (Pers.) Bourdot & Galzin
+Hydnum stenodon Pers., 1825
 
 ### Remarks
 null

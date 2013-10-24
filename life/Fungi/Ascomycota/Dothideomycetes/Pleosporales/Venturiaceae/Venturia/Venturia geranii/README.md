@@ -1,14 +1,13 @@
-Sphaerellopsis geranii (Fr.) Kleb., 1918 SPECIES
-=======
+# Venturia geranii (Fr.) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Haupt- und Nebenfruchtformen der Askomyzeten, Erster Teil 168 (1918)
+Krypt. -Fl. Deutschl. , Deutsch-Oesterreich und der Schweiz 1(2): 434 (1885)
 
 #### Original name
 Sphaeria geranii Fr., 1817

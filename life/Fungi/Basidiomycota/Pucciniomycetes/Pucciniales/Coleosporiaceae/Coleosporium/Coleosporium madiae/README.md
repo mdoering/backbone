@@ -1,5 +1,4 @@
-Coleosporium madiae Cooke SPECIES
-=======
+# Coleosporium madiae Cooke SPECIES
 
 #### Status
 ACCEPTED

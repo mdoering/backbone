@@ -1,5 +1,4 @@
-Glyphis labuana Nyl. SPECIES
-=======
+# Glyphis labuana Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendrickxia pseudoreticulata P.A. Duvign. SPECIES
-=======
+# Hendrickxia pseudoreticulata P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

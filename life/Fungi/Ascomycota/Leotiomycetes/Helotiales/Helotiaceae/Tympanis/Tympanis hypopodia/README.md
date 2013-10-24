@@ -1,5 +1,4 @@
-Tympanis hypopodia Nyl., 1868 SPECIES
-=======
+# Tympanis hypopodia Nyl., 1868 SPECIES
 
 #### Status
 ACCEPTED

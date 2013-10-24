@@ -1,5 +1,4 @@
-Hydnites Mesch. GENUS
-=======
+# Hydnites Mesch. GENUS
 
 #### Status
 ACCEPTED

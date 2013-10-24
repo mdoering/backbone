@@ -1,5 +1,4 @@
-Placopsis rugosa I.M. Lamb SPECIES
-=======
+# Placopsis rugosa I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

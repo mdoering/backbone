@@ -1,5 +1,4 @@
-Botryotrichum cyaneum R.S. Khan & Cain SPECIES
-=======
+# Botryotrichum cyaneum R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

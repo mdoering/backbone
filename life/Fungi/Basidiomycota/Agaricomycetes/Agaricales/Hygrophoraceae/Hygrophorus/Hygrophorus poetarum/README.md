@@ -1,17 +1,16 @@
-Limacium pudorinum SPECIES
-=======
+# Hygrophorus poetarum R. Heim, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 63: 127 (1948)
 
 #### Original name
-Limacium pudorinum
+Hygrophorus poetarum R. Heim, 1948
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eupelte rapaneae Hansf. SPECIES
-=======
+# Eupelte rapaneae Hansf. SPECIES
 
 #### Status
 ACCEPTED

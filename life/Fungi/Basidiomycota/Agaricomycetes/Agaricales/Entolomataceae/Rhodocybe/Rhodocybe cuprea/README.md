@@ -1,5 +1,4 @@
-Rhodocybe cuprea E. Horak SPECIES
-=======
+# Rhodocybe cuprea E. Horak SPECIES
 
 #### Status
 ACCEPTED

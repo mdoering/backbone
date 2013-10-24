@@ -1,5 +1,4 @@
-Sediminibacter Khan, Nakagawa & Harayama, 2007 GENUS
-=======
+# Sediminibacter Khan, Nakagawa & Harayama, 2007 GENUS
 
 #### Status
 ACCEPTED

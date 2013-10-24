@@ -1,5 +1,4 @@
-Cercospora ellisii Sacc. & P. Syd. SPECIES
-=======
+# Cercospora ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

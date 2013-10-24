@@ -1,5 +1,4 @@
-Pyrgidium bengaliense Nyl. SPECIES
-=======
+# Pyrgidium bengaliense Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus robustus Fr. SPECIES
-=======
+# Boletus robustus Fr. SPECIES
 
 #### Status
 ACCEPTED

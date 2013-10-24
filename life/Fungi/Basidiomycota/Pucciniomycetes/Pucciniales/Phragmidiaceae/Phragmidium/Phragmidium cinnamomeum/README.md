@@ -1,5 +1,4 @@
-Phragmidium cinnamomeum Durrieu SPECIES
-=======
+# Phragmidium cinnamomeum Durrieu SPECIES
 
 #### Status
 ACCEPTED

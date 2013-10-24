@@ -1,5 +1,4 @@
-Streptomyces kanamyceticus Okami and Umezawa, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces kanamyceticus Okami and Umezawa, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

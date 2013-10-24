@@ -1,5 +1,4 @@
-Oligopogonium barbatum (Jansonius, 1962) Loeblich & Tappan, 1976 SPECIES
-=======
+# Oligopogonium barbatum (Jansonius, 1962) Loeblich & Tappan, 1976 SPECIES
 
 #### Status
 ACCEPTED

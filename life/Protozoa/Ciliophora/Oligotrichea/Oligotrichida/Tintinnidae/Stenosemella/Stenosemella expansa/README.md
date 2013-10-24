@@ -1,5 +1,4 @@
-Stenosemella expansa Wailes, 1925 SPECIES
-=======
+# Stenosemella expansa Wailes, 1925 SPECIES
 
 #### Status
 ACCEPTED

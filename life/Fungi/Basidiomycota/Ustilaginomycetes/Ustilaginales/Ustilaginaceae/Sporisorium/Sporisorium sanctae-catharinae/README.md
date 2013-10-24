@@ -1,5 +1,4 @@
-Sporisorium sanctae-catharinae (Zundel) Vánky SPECIES
-=======
+# Sporisorium sanctae-catharinae (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

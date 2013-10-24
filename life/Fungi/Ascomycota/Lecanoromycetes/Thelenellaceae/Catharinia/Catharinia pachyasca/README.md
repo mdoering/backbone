@@ -1,5 +1,4 @@
-Catharinia pachyasca (Auersw.) Sacc. SPECIES
-=======
+# Catharinia pachyasca (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

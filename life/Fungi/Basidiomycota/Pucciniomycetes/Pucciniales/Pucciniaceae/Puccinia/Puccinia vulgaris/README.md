@@ -1,5 +1,4 @@
-Puccinia vulgaris Bonord. SPECIES
-=======
+# Puccinia vulgaris Bonord. SPECIES
 
 #### Status
 ACCEPTED

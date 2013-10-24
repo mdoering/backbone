@@ -1,5 +1,4 @@
-Synchytrium thirumalacharii Lingappa SPECIES
-=======
+# Synchytrium thirumalacharii Lingappa SPECIES
 
 #### Status
 ACCEPTED

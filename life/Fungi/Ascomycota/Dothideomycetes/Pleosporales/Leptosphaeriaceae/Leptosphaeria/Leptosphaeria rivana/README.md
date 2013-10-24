@@ -1,5 +1,4 @@
-Leptosphaeria rivana SPECIES
-=======
+# Leptosphaeria rivana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omegastrombidium Agatha, 2004 GENUS
-=======
+# Omegastrombidium Agatha, 2004 GENUS
 
 #### Status
 ACCEPTED

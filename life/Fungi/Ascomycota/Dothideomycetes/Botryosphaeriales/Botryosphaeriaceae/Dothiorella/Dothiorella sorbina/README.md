@@ -1,5 +1,4 @@
-Dothiorella sorbina P. Karst. SPECIES
-=======
+# Dothiorella sorbina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

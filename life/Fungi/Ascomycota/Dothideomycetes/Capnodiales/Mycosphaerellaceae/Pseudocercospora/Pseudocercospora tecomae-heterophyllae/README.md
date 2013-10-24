@@ -1,5 +1,4 @@
-Pseudocercospora tecomae-heterophyllae (J.M. Yen) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora tecomae-heterophyllae (J.M. Yen) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium ciliatum (Fr.) Fr. SPECIES
-=======
+# Corticium ciliatum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

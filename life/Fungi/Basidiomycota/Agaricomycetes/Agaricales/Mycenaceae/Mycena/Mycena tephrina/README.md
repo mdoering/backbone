@@ -1,5 +1,4 @@
-Mycena tephrina Maas Geest. & E. Horak SPECIES
-=======
+# Mycena tephrina Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

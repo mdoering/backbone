@@ -1,5 +1,4 @@
-Diplodia drepanocladi Racov. SPECIES
-=======
+# Diplodia drepanocladi Racov. SPECIES
 
 #### Status
 ACCEPTED

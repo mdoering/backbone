@@ -1,5 +1,4 @@
-Diaporthe sociata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe sociata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

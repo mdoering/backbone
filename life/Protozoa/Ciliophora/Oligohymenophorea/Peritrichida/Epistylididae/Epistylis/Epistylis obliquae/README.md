@@ -1,5 +1,4 @@
-Epistylis obliquae SPECIES
-=======
+# Epistylis obliquae SPECIES
 
 #### Status
 ACCEPTED

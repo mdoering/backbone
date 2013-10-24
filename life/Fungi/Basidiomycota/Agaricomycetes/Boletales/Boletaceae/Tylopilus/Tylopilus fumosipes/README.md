@@ -1,5 +1,4 @@
-Tylopilus fumosipes var. fumosipes VARIETY
-=======
+# Tylopilus fumosipes (Peck) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Boletes of Michigan (Ann Arbor) 103 (1971)
 
 #### Original name
-Tylopilus fumosipes var. fumosipes
+Boletus fumosipes Peck
 
 ### Remarks
 null

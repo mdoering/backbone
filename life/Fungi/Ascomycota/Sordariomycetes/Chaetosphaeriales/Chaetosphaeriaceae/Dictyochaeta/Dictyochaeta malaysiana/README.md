@@ -1,5 +1,4 @@
-Dictyochaeta malaysiana Kuthub., 1987 SPECIES
-=======
+# Dictyochaeta malaysiana Kuthub., 1987 SPECIES
 
 #### Status
 ACCEPTED

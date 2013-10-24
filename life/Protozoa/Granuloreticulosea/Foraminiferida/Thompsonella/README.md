@@ -1,5 +1,4 @@
-Thompsonella Skinner & Wilde, 1965 GENUS
-=======
+# Thompsonella Skinner & Wilde, 1965 GENUS
 
 #### Status
 ACCEPTED

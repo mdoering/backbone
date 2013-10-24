@@ -1,5 +1,4 @@
-Phyllosticta aronici N. Naito SPECIES
-=======
+# Phyllosticta aronici N. Naito SPECIES
 
 #### Status
 ACCEPTED

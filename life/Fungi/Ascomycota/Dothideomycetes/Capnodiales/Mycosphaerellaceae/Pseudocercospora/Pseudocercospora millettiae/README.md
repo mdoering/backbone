@@ -1,5 +1,4 @@
-Pseudocercospora millettiae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora millettiae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

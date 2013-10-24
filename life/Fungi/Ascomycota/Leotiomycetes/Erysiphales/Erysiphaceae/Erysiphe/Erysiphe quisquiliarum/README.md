@@ -1,5 +1,4 @@
-Erysiphe quisquiliarum Schwein. SPECIES
-=======
+# Erysiphe quisquiliarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

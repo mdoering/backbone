@@ -1,5 +1,4 @@
-Leiomarginata S.N. Naumova, 1960 GENUS
-=======
+# Leiomarginata S.N. Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

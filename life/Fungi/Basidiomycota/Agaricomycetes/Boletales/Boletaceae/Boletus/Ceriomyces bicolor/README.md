@@ -1,5 +1,4 @@
-Ceriomyces bicolor (Peck) Murrill SPECIES
-=======
+# Ceriomyces bicolor (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

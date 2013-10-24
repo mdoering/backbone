@@ -1,5 +1,4 @@
-Hemileia strophanthi Racib. SPECIES
-=======
+# Hemileia strophanthi Racib. SPECIES
 
 #### Status
 ACCEPTED

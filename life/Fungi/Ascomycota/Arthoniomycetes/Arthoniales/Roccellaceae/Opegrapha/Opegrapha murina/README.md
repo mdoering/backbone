@@ -1,5 +1,4 @@
-Opegrapha murina Kremp. SPECIES
-=======
+# Opegrapha murina Kremp. SPECIES
 
 #### Status
 ACCEPTED

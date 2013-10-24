@@ -1,5 +1,4 @@
-Buellia subbadia SPECIES
-=======
+# Buellia subbadia SPECIES
 
 #### Status
 ACCEPTED

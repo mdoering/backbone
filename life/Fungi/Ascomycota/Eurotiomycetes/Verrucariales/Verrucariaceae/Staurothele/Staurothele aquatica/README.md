@@ -1,5 +1,4 @@
-Staurothele aquatica N.S. Golubk. SPECIES
-=======
+# Staurothele aquatica N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

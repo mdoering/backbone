@@ -1,5 +1,4 @@
-Distephanus pulcher (J. Schiller) H. Y. Ling & K. Takahashi SPECIES
-=======
+# Distephanus pulcher (J. Schiller) H. Y. Ling & K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

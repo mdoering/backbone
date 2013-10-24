@@ -1,5 +1,4 @@
-Gloeosynnema roseum Matsush. SPECIES
-=======
+# Gloeosynnema roseum Matsush. SPECIES
 
 #### Status
 ACCEPTED

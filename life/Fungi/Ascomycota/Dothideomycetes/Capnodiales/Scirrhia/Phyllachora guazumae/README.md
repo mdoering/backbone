@@ -1,5 +1,4 @@
-Phyllachora guazumae Henn., 1908 SPECIES
-=======
+# Phyllachora guazumae Henn., 1908 SPECIES
 
 #### Status
 DOUBTFUL

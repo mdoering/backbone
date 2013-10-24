@@ -1,5 +1,4 @@
-Isaria aspergilliformis Rostr. SPECIES
-=======
+# Isaria aspergilliformis Rostr. SPECIES
 
 #### Status
 ACCEPTED

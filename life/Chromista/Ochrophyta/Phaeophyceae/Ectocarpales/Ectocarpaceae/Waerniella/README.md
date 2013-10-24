@@ -1,5 +1,4 @@
-Waerniella H. Kylin, 1947 GENUS
-=======
+# Waerniella H. Kylin, 1947 GENUS
 
 #### Status
 ACCEPTED

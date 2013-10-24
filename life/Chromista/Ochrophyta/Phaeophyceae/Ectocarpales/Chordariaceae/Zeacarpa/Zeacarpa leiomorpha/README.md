@@ -1,5 +1,4 @@
-Zeacarpa leiomorpha Anderson, Simons & Bolton SPECIES
-=======
+# Zeacarpa leiomorpha Anderson, Simons & Bolton SPECIES
 
 #### Status
 ACCEPTED

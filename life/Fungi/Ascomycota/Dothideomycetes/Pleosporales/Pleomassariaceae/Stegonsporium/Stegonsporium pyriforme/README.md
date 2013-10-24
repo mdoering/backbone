@@ -1,5 +1,4 @@
-Stegonsporium pyriforme var. pyriforme VARIETY
-=======
+# Stegonsporium pyriforme (Hoffm.) Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Icon. fung. 3: 23 (1839)
+Icon. fung. (Prague) 3: 23 (1839)
 
 #### Original name
-Stegonsporium pyriforme var. pyriforme
+Stilbospora pyriformis (G.H. Otth) Grove, 1937
 
 ### Remarks
 null

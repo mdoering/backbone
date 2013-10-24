@@ -1,5 +1,4 @@
-Melanotheca GENUS
-=======
+# Melanotheca GENUS
 
 #### Status
 ACCEPTED

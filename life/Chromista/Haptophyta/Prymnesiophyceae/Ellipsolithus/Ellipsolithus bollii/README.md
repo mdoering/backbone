@@ -1,5 +1,4 @@
-Ellipsolithus bollii K. Perch-Nielsen SPECIES
-=======
+# Ellipsolithus bollii K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

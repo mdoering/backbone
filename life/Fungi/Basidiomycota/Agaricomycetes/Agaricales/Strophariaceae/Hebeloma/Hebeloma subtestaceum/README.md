@@ -1,5 +1,4 @@
-Hebeloma subtestaceum (Batsch) Kuyper SPECIES
-=======
+# Hebeloma subtestaceum (Batsch) Kuyper SPECIES
 
 #### Status
 ACCEPTED

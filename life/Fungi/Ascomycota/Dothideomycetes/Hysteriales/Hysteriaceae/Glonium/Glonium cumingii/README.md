@@ -1,5 +1,4 @@
-Glonium cumingii Speg. SPECIES
-=======
+# Glonium cumingii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Flammulaster novasilvensis P.D. Orton, 1984 SPECIES
-=======
+# Flammulaster Earle, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Cladosporium eucalypti Tassi SPECIES
-=======
+# Cladosporium eucalypti Tassi SPECIES
 
 #### Status
 ACCEPTED

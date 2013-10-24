@@ -1,5 +1,4 @@
-Asterostroma chromoluteum Rick SPECIES
-=======
+# Asterostroma chromoluteum Rick SPECIES
 
 #### Status
 ACCEPTED

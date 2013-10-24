@@ -1,5 +1,4 @@
-Ellisiella Norris, 1965 GENUS
-=======
+# Ellisiella Norris, 1965 GENUS
 
 #### Status
 ACCEPTED

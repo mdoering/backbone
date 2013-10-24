@@ -1,5 +1,4 @@
-Septogloeum equiseti Tehon, 1937 SPECIES
-=======
+# Septogloeum equiseti Tehon, 1937 SPECIES
 
 #### Status
 ACCEPTED

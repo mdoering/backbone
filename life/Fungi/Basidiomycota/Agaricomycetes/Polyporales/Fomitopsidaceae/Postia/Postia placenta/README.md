@@ -1,14 +1,13 @@
-Oligoporus placentus (Fr.) Gilb. & Ryvarden SPECIES
-=======
+# Postia placenta (Fr.) M.J. Larsen & Lombard, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 272 (1986)
 
 #### Original name
 Polyporus placenta Fr., 1861

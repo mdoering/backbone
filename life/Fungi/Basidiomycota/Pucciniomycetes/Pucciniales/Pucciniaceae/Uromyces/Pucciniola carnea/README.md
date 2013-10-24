@@ -1,5 +1,4 @@
-Pucciniola carnea (Nees) Arthur SPECIES
-=======
+# Pucciniola carnea (Nees) Arthur SPECIES
 
 #### Status
 ACCEPTED

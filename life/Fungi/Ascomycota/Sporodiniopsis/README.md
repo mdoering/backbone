@@ -1,5 +1,4 @@
-Sporodiniopsis Höhn. GENUS
-=======
+# Sporodiniopsis Höhn. GENUS
 
 #### Status
 ACCEPTED

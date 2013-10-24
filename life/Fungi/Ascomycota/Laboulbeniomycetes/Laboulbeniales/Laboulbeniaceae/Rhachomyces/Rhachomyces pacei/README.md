@@ -1,5 +1,4 @@
-Rhachomyces pacei W. Rossi & Cesari SPECIES
-=======
+# Rhachomyces pacei W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium incarcerans (Berk.) Sacc. SPECIES
-=======
+# Fusarium incarcerans (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

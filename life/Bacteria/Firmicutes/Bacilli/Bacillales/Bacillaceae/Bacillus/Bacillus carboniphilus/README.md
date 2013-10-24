@@ -1,5 +1,4 @@
-Bacillus carboniphilus Fujita et al., 1996 SPECIES
-=======
+# Bacillus carboniphilus Fujita et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alysidium compactum (Cooke & Ellis) Pound & Clem. SPECIES
-=======
+# Alysidium compactum (Cooke & Ellis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

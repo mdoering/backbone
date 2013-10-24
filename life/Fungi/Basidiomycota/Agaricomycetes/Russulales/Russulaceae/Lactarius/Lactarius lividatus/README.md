@@ -1,5 +1,4 @@
-Lactarius lividatus Berk. & M.A. Curtis SPECIES
-=======
+# Lactarius lividatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

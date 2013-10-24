@@ -1,5 +1,4 @@
-Endocalyx thwaitesii Berk. & Broome, 1876 SPECIES
-=======
+# Endocalyx thwaitesii Berk. & Broome, 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capronia juniperina (K. Holm & L. Holm) O.E. Erikss. SPECIES
-=======
+# Capronia juniperina (K. Holm & L. Holm) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

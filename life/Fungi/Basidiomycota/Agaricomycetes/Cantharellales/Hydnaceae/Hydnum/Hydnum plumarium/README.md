@@ -1,5 +1,4 @@
-Hydnum plumarium Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum plumarium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

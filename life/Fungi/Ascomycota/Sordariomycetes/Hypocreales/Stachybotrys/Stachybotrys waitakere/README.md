@@ -1,5 +1,4 @@
-Stachybotrys waitakere Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
-=======
+# Stachybotrys waitakere Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

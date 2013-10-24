@@ -1,5 +1,4 @@
-Mycothyridium vitis (Ellis & Everh.) Petr. SPECIES
-=======
+# Mycothyridium vitis (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

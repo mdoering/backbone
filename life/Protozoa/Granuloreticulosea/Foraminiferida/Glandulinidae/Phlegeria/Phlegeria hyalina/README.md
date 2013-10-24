@@ -1,5 +1,4 @@
-Phlegeria hyalina Loeblich & Tappan, 1963 SPECIES
-=======
+# Phlegeria hyalina Loeblich & Tappan, 1963 SPECIES
 
 #### Status
 ACCEPTED

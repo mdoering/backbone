@@ -1,5 +1,4 @@
-Gymnodinium incisum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium incisum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

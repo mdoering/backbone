@@ -1,5 +1,4 @@
-Haplodiacanthus Nazarov & Rudenko, 1981 GENUS
-=======
+# Haplodiacanthus Nazarov & Rudenko, 1981 GENUS
 
 #### Status
 ACCEPTED

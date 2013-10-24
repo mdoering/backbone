@@ -1,5 +1,4 @@
-Taeniolella americana J.L. Crane & Schokn. SPECIES
-=======
+# Taeniolella americana J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

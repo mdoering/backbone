@@ -1,5 +1,4 @@
-Arthropyreniaceae FAMILY
-=======
+# Arthropyreniaceae FAMILY
 
 #### Status
 ACCEPTED

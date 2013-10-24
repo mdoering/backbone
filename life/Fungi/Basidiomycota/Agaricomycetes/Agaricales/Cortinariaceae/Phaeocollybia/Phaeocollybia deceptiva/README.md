@@ -1,5 +1,4 @@
-Phaeocollybia deceptiva A.H. Sm. & Trappe SPECIES
-=======
+# Phaeocollybia deceptiva A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

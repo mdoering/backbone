@@ -1,5 +1,4 @@
-Psilocybe sullivantii (Mont.) Sacc. SPECIES
-=======
+# Psilocybe sullivantii (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

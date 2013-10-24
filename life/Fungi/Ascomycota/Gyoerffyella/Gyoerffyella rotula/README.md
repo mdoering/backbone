@@ -1,14 +1,13 @@
-Titaea rotula Höhn. SPECIES
-=======
+# Gyoerffyella rotula (Höhn.) Marvanová, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2(1): 57 (1904)
+in Marvanová, Marvan & Ruzicka, Persoonia 5(1): 41 (1967)
 
 #### Original name
 Titaea rotula Höhn.

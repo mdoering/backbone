@@ -1,5 +1,4 @@
-Ustilago evansii Henn. SPECIES
-=======
+# Ustilago evansii Henn. SPECIES
 
 #### Status
 ACCEPTED

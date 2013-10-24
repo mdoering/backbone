@@ -1,5 +1,4 @@
-Clavaria perforata Velen. SPECIES
-=======
+# Clavaria perforata Velen. SPECIES
 
 #### Status
 ACCEPTED

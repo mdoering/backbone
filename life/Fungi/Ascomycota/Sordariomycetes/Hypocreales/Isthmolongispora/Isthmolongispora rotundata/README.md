@@ -1,5 +1,4 @@
-Isthmolongispora rotundata Matsush. SPECIES
-=======
+# Isthmolongispora rotundata Matsush. SPECIES
 
 #### Status
 ACCEPTED

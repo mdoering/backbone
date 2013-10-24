@@ -1,5 +1,4 @@
-Psathyra cubensis Murrill SPECIES
-=======
+# Psathyra cubensis Murrill SPECIES
 
 #### Status
 ACCEPTED

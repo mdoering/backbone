@@ -1,5 +1,4 @@
-Agaricus calyciformis Lasch SPECIES
-=======
+# Agaricus calyciformis Lasch SPECIES
 
 #### Status
 ACCEPTED

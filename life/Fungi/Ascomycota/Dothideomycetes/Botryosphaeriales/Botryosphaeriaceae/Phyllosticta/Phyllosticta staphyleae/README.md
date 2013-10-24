@@ -1,5 +1,4 @@
-Phyllosticta staphyleae Dearn. SPECIES
-=======
+# Phyllosticta staphyleae Dearn. SPECIES
 
 #### Status
 ACCEPTED

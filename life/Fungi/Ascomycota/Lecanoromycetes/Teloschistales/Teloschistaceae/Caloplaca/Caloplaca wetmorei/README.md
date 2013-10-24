@@ -1,5 +1,4 @@
-Caloplaca wetmorei Nimis, Poelt & Tretiach SPECIES
-=======
+# Caloplaca wetmorei Nimis, Poelt & Tretiach SPECIES
 
 #### Status
 ACCEPTED

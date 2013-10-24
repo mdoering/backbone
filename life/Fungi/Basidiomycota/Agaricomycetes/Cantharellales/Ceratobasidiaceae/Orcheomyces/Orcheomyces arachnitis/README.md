@@ -1,5 +1,4 @@
-Orcheomyces arachnitis Burgeff SPECIES
-=======
+# Orcheomyces arachnitis Burgeff SPECIES
 
 #### Status
 ACCEPTED

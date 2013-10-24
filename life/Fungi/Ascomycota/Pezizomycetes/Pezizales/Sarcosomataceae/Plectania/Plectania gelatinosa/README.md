@@ -1,5 +1,4 @@
-Plectania gelatinosa Pat. SPECIES
-=======
+# Plectania gelatinosa Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria anisomera Nyl. SPECIES
-=======
+# Verrucaria anisomera Nyl. SPECIES
 
 #### Status
 ACCEPTED

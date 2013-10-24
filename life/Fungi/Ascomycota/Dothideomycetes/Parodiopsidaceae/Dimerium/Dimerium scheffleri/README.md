@@ -1,5 +1,4 @@
-Dimerium scheffleri (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium scheffleri (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

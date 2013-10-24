@@ -1,5 +1,4 @@
-Caloplaca ludificans Arup SPECIES
-=======
+# Caloplaca ludificans Arup SPECIES
 
 #### Status
 ACCEPTED

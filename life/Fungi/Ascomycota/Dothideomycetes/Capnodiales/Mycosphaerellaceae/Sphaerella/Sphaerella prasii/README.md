@@ -1,5 +1,4 @@
-Sphaerella prasii Pat. SPECIES
-=======
+# Sphaerella prasii Pat. SPECIES
 
 #### Status
 ACCEPTED

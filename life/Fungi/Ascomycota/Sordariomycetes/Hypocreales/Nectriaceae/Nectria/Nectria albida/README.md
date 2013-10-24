@@ -1,5 +1,4 @@
-Nectria albida Rossman SPECIES
-=======
+# Nectria albida Rossman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulographum inconspicuum Rehm SPECIES
-=======
+# Aulographum inconspicuum Rehm SPECIES
 
 #### Status
 ACCEPTED

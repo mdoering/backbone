@@ -1,5 +1,4 @@
-Platycola bicolor SPECIES
-=======
+# Platycola bicolor SPECIES
 
 #### Status
 ACCEPTED

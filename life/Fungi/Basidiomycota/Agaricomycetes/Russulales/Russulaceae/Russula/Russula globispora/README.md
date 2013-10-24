@@ -1,5 +1,4 @@
-Russula globispora (J. Blum) Bon SPECIES
-=======
+# Russula globispora (J. Blum) Bon SPECIES
 
 #### Status
 ACCEPTED

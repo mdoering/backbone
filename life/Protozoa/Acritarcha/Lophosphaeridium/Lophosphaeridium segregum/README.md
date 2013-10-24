@@ -1,5 +1,4 @@
-Lophosphaeridium segregum Playford in Playford & Dring, 1981 SPECIES
-=======
+# Lophosphaeridium segregum Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

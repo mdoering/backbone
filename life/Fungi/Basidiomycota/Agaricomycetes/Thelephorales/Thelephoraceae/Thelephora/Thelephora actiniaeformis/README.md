@@ -1,5 +1,4 @@
-Thelephora actiniaeformis Berk. SPECIES
-=======
+# Thelephora actiniaeformis Berk. SPECIES
 
 #### Status
 ACCEPTED

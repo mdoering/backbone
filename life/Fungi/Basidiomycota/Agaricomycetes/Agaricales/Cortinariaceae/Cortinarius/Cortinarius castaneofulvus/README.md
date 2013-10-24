@@ -1,5 +1,4 @@
-Cortinarius castaneofulvus Cleland SPECIES
-=======
+# Cortinarius castaneofulvus Cleland SPECIES
 
 #### Status
 ACCEPTED

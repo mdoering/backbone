@@ -1,5 +1,4 @@
-Hymenula ebuli Corda SPECIES
-=======
+# Hymenula ebuli Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium tephromelas (Pass.) Sacc. SPECIES
-=======
+# Belonidium tephromelas (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

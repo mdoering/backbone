@@ -1,5 +1,4 @@
-Cryptococcus podzolicus (Babeva & Reshetova) Golubev, 1981 SPECIES
-=======
+# Cryptococcus podzolicus (Babeva & Reshetova) Golubev, 1981 SPECIES
 
 #### Status
 ACCEPTED

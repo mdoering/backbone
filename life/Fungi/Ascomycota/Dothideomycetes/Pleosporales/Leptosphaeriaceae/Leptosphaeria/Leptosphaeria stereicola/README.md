@@ -1,5 +1,4 @@
-Leptosphaeria stereicola Ellis SPECIES
-=======
+# Leptosphaeria stereicola Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene henningsii (Beeli) Hansf. SPECIES
-=======
+# Irene henningsii (Beeli) Hansf. SPECIES
 
 #### Status
 ACCEPTED

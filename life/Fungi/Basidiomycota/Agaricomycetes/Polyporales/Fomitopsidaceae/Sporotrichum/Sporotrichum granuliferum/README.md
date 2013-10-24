@@ -1,5 +1,4 @@
-Sporotrichum granuliferum P. Karst. SPECIES
-=======
+# Sporotrichum granuliferum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

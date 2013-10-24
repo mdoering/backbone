@@ -1,5 +1,4 @@
-Bombardia tectonae C. Booth SPECIES
-=======
+# Bombardia tectonae C. Booth SPECIES
 
 #### Status
 ACCEPTED

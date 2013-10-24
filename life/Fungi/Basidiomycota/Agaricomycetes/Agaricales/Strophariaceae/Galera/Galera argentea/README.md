@@ -1,5 +1,4 @@
-Galera argentea Velen. SPECIES
-=======
+# Galera argentea Velen. SPECIES
 
 #### Status
 ACCEPTED

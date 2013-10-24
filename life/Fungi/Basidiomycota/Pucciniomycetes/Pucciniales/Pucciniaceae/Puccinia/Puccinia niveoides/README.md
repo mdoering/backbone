@@ -1,5 +1,4 @@
-Puccinia niveoides Cummins SPECIES
-=======
+# Puccinia niveoides Cummins SPECIES
 
 #### Status
 ACCEPTED

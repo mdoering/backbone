@@ -1,5 +1,4 @@
-Vibrio olivaceus Fang, Zhang & Chen, 2005 SPECIES
-=======
+# Vibrio olivaceus Fang, Zhang & Chen, 2005 SPECIES
 
 #### Status
 ACCEPTED

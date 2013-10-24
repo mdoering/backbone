@@ -1,5 +1,4 @@
-Psathyrella limosa A.H. Sm. SPECIES
-=======
+# Psathyrella limosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

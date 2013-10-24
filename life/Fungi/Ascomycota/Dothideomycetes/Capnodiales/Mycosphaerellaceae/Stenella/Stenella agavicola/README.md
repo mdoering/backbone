@@ -1,17 +1,16 @@
-Stenella agaveicola R.F. Castañeda & L. García SPECIES
-=======
+# Stenella agavicola R.F. Castañeda & L. García SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castañeda Ruiz, Fungi Cubenses III (La Habana) 13 (1988)
 
 #### Original name
-Stenella agaveicola R.F. Castañeda & L. García
+Stenella agavicola R.F. Castañeda & L. García
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coniosporium chloridis Gonz. Frag. & Cif. SPECIES
-=======
+# Coniosporium chloridis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

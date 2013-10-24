@@ -1,5 +1,4 @@
-Rhabdospora buphthalmi Petr. SPECIES
-=======
+# Rhabdospora buphthalmi Petr. SPECIES
 
 #### Status
 ACCEPTED

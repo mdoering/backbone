@@ -1,5 +1,4 @@
-Sporidesmium ovoideum Corda SPECIES
-=======
+# Sporidesmium ovoideum Corda SPECIES
 
 #### Status
 ACCEPTED

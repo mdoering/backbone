@@ -1,5 +1,4 @@
-Meliola anodendricola Hosag. SPECIES
-=======
+# Meliola anodendricola Hosag. SPECIES
 
 #### Status
 ACCEPTED

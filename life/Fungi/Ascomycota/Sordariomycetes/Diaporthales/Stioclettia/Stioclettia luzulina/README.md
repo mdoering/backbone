@@ -1,5 +1,4 @@
-Stioclettia luzulina Dennis, 1975 SPECIES
-=======
+# Stioclettia luzulina Dennis, 1975 SPECIES
 
 #### Status
 ACCEPTED

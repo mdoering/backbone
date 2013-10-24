@@ -1,5 +1,4 @@
-Patella sequoiae (W. Phillips) Seaver SPECIES
-=======
+# Patella sequoiae (W. Phillips) Seaver SPECIES
 
 #### Status
 ACCEPTED

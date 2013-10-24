@@ -1,5 +1,4 @@
-Botryola tetrasperma Bat. & J.L. Bezerra, 1964 SPECIES
-=======
+# Botryola tetrasperma Bat. & J.L. Bezerra, 1964 SPECIES
 
 #### Status
 ACCEPTED

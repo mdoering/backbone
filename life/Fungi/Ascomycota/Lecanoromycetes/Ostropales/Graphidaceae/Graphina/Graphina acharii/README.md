@@ -1,17 +1,16 @@
-Graphina acharii f. acharii FORM
-=======
+# Graphina acharii (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. et Hist. Nat. 29: 38 (1887)
 
 #### Original name
-Graphina acharii f. acharii
+Graphis acharii Fée
 
 ### Remarks
 null

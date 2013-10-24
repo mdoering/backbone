@@ -1,5 +1,4 @@
-Helminthocarpon natalense Vain. SPECIES
-=======
+# Helminthocarpon natalense Vain. SPECIES
 
 #### Status
 ACCEPTED

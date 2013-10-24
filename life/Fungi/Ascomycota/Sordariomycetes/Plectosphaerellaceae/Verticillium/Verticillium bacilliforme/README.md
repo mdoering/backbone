@@ -1,5 +1,4 @@
-Verticillium bacilliforme ined. SPECIES
-=======
+# Verticillium bacilliforme ined. SPECIES
 
 #### Status
 ACCEPTED

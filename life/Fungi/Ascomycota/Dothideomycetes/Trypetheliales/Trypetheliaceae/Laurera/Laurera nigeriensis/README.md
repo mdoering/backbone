@@ -1,5 +1,4 @@
-Laurera nigeriensis C.W. Dodge SPECIES
-=======
+# Laurera nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

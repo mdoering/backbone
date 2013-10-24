@@ -1,5 +1,4 @@
-Anaptychia undulata J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
-=======
+# Anaptychia undulata J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
 
 #### Status
 ACCEPTED

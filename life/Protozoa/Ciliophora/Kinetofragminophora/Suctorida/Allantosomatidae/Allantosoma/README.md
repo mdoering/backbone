@@ -1,5 +1,4 @@
-Allantosoma Gassovsky, 1919 GENUS
-=======
+# Allantosoma Gassovsky, 1919 GENUS
 
 #### Status
 ACCEPTED

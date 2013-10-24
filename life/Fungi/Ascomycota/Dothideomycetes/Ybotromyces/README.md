@@ -1,5 +1,4 @@
-Ybotromyces Rulamort GENUS
-=======
+# Ybotromyces Rulamort GENUS
 
 #### Status
 ACCEPTED

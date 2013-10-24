@@ -1,5 +1,4 @@
-Usnea roccellina var. roccellina VARIETY
-=======
+# Usnea roccellina Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea roccellina var. roccellina
+Usnea roccellina Motyka
 
 ### Remarks
 null

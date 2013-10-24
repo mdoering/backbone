@@ -1,5 +1,4 @@
-Trichoderma longibrachiatum Rifai, 1969 SPECIES
-=======
+# Trichoderma longibrachiatum Rifai, 1969 SPECIES
 
 #### Status
 ACCEPTED

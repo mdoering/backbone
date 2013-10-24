@@ -1,5 +1,4 @@
-Cercospora tecomae-heterophyllae J.M. Yen SPECIES
-=======
+# Cercospora tecomae-heterophyllae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

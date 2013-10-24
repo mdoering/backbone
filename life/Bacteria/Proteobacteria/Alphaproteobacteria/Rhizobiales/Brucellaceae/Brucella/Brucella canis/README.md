@@ -1,5 +1,4 @@
-Brucella canis Carmichael and Bruner, 1968 (Approved Lists, 1980) SPECIES
-=======
+# Brucella canis Carmichael and Bruner, 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

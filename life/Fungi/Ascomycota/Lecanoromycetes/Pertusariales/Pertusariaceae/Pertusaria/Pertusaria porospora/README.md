@@ -1,5 +1,4 @@
-Pertusaria porospora Norman SPECIES
-=======
+# Pertusaria porospora Norman SPECIES
 
 #### Status
 ACCEPTED

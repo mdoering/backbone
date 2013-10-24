@@ -1,5 +1,4 @@
-Urocystis yunnanensis L. Guo, 2003 SPECIES
-=======
+# Urocystis yunnanensis L. Guo, 2003 SPECIES
 
 #### Status
 ACCEPTED

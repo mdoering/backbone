@@ -1,5 +1,4 @@
-Harpochytrium monae Jane SPECIES
-=======
+# Harpochytrium monae Jane SPECIES
 
 #### Status
 ACCEPTED

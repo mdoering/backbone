@@ -1,5 +1,4 @@
-Clathrosporium intricatum Nawawi & Kuthub., 1987 SPECIES
-=======
+# Clathrosporium intricatum Nawawi & Kuthub., 1987 SPECIES
 
 #### Status
 ACCEPTED

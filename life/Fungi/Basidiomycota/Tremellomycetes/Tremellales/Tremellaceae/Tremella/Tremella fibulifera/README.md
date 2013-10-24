@@ -1,5 +1,4 @@
-Tremella fibulifera Möller SPECIES
-=======
+# Tremella fibulifera Möller SPECIES
 
 #### Status
 ACCEPTED

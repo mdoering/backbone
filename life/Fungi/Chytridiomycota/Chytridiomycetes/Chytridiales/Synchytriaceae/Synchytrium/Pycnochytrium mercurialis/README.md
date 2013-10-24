@@ -1,5 +1,4 @@
-Pycnochytrium mercurialis (Lib.) SPECIES
-=======
+# Pycnochytrium mercurialis (Lib.) SPECIES
 
 #### Status
 ACCEPTED

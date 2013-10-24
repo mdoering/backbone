@@ -1,5 +1,4 @@
-Menegazzia globoisidiata Elix SPECIES
-=======
+# Menegazzia globoisidiata Elix SPECIES
 
 #### Status
 ACCEPTED

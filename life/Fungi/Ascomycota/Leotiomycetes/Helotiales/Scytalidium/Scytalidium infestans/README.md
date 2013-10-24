@@ -1,5 +1,4 @@
-Scytalidium infestans Iwatsu, Udagawa & Hatai, 1990 SPECIES
-=======
+# Scytalidium infestans Iwatsu, Udagawa & Hatai, 1990 SPECIES
 
 #### Status
 ACCEPTED

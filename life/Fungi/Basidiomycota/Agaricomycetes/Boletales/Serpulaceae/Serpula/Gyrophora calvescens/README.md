@@ -1,5 +1,4 @@
-Gyrophora calvescens Nyl. SPECIES
-=======
+# Gyrophora calvescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomonia rubi Rehm, 1885 SPECIES
-=======
+# Gnomonia rubi Rehm, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria platystoma Malme SPECIES
-=======
+# Pertusaria platystoma Malme SPECIES
 
 #### Status
 ACCEPTED

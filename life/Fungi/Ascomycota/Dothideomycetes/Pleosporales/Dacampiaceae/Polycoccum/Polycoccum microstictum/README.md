@@ -1,5 +1,4 @@
-Didymosphaeria microstictica var. microstictica VARIETY
-=======
+# Polycoccum microstictum (Leight.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ber. bayer. bot. Ges. 1(suppl. ): 132 (1891)
 
 #### Original name
-Didymosphaeria microstictica var. microstictica
+null
 
 ### Remarks
 null

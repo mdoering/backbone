@@ -1,5 +1,4 @@
-Sargassum botruosum f. rigidulum Grunow, 1916 FORM
-=======
+# Sargassum botruosum Montagne, 1850 SPECIES
 
 #### Status
 ACCEPTED

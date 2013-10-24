@@ -1,5 +1,4 @@
-Xanthoparmelia blackdownensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia blackdownensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

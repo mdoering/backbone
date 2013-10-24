@@ -1,5 +1,4 @@
-Rinodina carmeli Reichert & Galun SPECIES
-=======
+# Rinodina carmeli Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

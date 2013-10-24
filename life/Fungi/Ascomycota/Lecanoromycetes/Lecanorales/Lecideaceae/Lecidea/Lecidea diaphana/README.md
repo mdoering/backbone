@@ -1,5 +1,4 @@
-Lecidea diaphana (Nyl.) Nyl. SPECIES
-=======
+# Lecidea diaphana (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

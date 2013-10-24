@@ -1,5 +1,4 @@
-Fungus actinorachis (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus actinorachis (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

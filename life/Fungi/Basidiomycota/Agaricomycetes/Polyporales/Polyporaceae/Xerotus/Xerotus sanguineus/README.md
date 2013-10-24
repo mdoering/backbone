@@ -1,5 +1,4 @@
-Xerotus sanguineus Wm. G. Sm. SPECIES
-=======
+# Xerotus sanguineus Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiosphaera querceti (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Lophiosphaera querceti (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

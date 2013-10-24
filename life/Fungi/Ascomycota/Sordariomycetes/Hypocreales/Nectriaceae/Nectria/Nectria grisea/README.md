@@ -1,5 +1,4 @@
-Nectria grisea Dingley SPECIES
-=======
+# Nectria grisea Dingley SPECIES
 
 #### Status
 ACCEPTED

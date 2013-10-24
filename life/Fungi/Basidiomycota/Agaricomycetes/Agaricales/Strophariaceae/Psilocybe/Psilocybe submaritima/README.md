@@ -1,5 +1,4 @@
-Psilocybe submaritima Contu & Guzmán SPECIES
-=======
+# Psilocybe submaritima Contu & Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis bella Kalchbr. & Cooke SPECIES
-=======
+# Stictis bella Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

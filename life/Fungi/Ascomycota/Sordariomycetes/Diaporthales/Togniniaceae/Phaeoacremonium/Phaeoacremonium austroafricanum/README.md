@@ -1,17 +1,16 @@
-Togninia austroafricana L. Mostert, W. Gams & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium austroafricanum L. Mostert, W. Gams & Crous, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mostert, Groenewald, Summerbell, Gams & Crous, Stud. Mycol. 54: 45 (2006)
+in Mostert, Groenewald, Summerbell, Gams & Crous, Stud. Mycol. 54: 46 (2006)
 
 #### Original name
-Togninia austroafricana L. Mostert, W. Gams & Crous, 2006
+Phaeoacremonium austroafricanum L. Mostert, W. Gams & Crous, 2006
 
 ### Remarks
 null

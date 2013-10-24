@@ -1,5 +1,4 @@
-Boletus pseudoluridus Hongo SPECIES
-=======
+# Boletus pseudoluridus Hongo SPECIES
 
 #### Status
 ACCEPTED

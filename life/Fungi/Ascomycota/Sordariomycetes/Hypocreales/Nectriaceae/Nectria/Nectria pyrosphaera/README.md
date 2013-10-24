@@ -1,5 +1,4 @@
-Nectria pyrosphaera Maire, 1917 SPECIES
-=======
+# Nectria pyrosphaera Maire, 1917 SPECIES
 
 #### Status
 ACCEPTED

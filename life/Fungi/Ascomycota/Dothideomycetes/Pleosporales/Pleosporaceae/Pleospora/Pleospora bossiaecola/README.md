@@ -1,5 +1,4 @@
-Pleospora bossiaecola Henn. SPECIES
-=======
+# Pleospora bossiaecola Henn. SPECIES
 
 #### Status
 ACCEPTED

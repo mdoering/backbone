@@ -1,5 +1,4 @@
-Opegrapha pseudorufescens B. de Lesd. SPECIES
-=======
+# Opegrapha pseudorufescens B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

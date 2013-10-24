@@ -1,5 +1,4 @@
-Vibrio natriegens (Payne et al., 1961) Baumann et al., 1981 SPECIES
-=======
+# Vibrio natriegens (Payne et al., 1961) Baumann et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

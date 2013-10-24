@@ -1,5 +1,4 @@
-Catathelasma Lovejoy GENUS
-=======
+# Catathelasma Lovejoy GENUS
 
 #### Status
 ACCEPTED

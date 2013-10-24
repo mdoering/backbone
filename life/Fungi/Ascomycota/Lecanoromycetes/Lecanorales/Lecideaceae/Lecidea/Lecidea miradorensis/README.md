@@ -1,5 +1,4 @@
-Lecidea miradorensis Vain. SPECIES
-=======
+# Lecidea miradorensis Vain. SPECIES
 
 #### Status
 ACCEPTED

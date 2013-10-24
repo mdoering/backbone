@@ -1,5 +1,4 @@
-Calonectria richonii Sacc. SPECIES
-=======
+# Calonectria richonii Sacc. SPECIES
 
 #### Status
 ACCEPTED

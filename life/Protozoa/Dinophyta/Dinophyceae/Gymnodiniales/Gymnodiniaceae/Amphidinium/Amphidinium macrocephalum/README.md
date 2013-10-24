@@ -1,5 +1,4 @@
-Amphidinium macrocephalum Conrad & Kufferath SPECIES
-=======
+# Amphidinium macrocephalum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

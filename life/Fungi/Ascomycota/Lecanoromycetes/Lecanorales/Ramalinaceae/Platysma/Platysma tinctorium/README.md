@@ -1,5 +1,4 @@
-Platysma tinctorium (Hoffm.) Frege SPECIES
-=======
+# Platysma tinctorium (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

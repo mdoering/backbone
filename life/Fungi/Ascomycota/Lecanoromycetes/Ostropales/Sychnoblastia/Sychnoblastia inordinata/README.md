@@ -1,5 +1,4 @@
-Sychnoblastia inordinata (Nyl.) Vain. SPECIES
-=======
+# Sychnoblastia inordinata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

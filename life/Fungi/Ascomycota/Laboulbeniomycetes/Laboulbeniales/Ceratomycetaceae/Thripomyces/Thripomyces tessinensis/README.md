@@ -1,5 +1,4 @@
-Thripomyces tessinensis T. Majewski SPECIES
-=======
+# Thripomyces tessinensis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

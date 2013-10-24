@@ -1,5 +1,4 @@
-Boletus aurantioruber (E.A. Dick & Snell) Both, Bessette & W.J. Neill SPECIES
-=======
+# Boletus aurantioruber (E.A. Dick & Snell) Both, Bessette & W.J. Neill SPECIES
 
 #### Status
 ACCEPTED

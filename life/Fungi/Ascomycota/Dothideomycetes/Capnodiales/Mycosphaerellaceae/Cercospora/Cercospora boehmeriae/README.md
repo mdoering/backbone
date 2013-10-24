@@ -1,5 +1,4 @@
-Cercospora boehmeriae Peck SPECIES
-=======
+# Cercospora boehmeriae Peck SPECIES
 
 #### Status
 ACCEPTED

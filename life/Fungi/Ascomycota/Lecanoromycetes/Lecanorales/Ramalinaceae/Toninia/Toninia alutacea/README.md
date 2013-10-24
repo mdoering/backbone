@@ -1,17 +1,16 @@
-Thalloidima alutacea Anzi SPECIES
-=======
+# Toninia alutacea (Anzi) Jatta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. ital. crypt. 3: 655 (1911)
 
 #### Original name
-null
+Thalloidima alutaceum Anzi
 
 ### Remarks
 null

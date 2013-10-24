@@ -1,5 +1,4 @@
-Vermilacinia tigrina (Follmann) Spjut & Hale SPECIES
-=======
+# Vermilacinia tigrina (Follmann) Spjut & Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium panamense Samson, Stolk & Frisvad, 1989 SPECIES
-=======
+# Penicillium panamense Samson, Stolk & Frisvad, 1989 SPECIES
 
 #### Status
 ACCEPTED

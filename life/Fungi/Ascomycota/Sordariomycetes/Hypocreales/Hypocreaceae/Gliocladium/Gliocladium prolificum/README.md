@@ -1,5 +1,4 @@
-Gliocladium prolificum Bainier SPECIES
-=======
+# Gliocladium prolificum Bainier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina retifera (Stirt.) Müll. Arg. SPECIES
-=======
+# Porina retifera (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

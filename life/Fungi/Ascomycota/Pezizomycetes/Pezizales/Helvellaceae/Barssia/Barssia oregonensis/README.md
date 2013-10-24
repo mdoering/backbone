@@ -1,5 +1,4 @@
-Barssia oregonensis Gilkey, 1925 SPECIES
-=======
+# Barssia oregonensis Gilkey, 1925 SPECIES
 
 #### Status
 ACCEPTED

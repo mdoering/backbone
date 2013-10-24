@@ -1,5 +1,4 @@
-Opegrapha rubecula A. Massal. SPECIES
-=======
+# Opegrapha rubecula A. Massal. SPECIES
 
 #### Status
 ACCEPTED

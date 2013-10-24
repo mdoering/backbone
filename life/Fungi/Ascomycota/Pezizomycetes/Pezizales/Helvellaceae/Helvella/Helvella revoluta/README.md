@@ -1,5 +1,4 @@
-Helvella revoluta J.F. Gmel. SPECIES
-=======
+# Helvella revoluta J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

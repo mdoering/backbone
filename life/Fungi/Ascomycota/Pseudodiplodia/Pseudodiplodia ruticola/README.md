@@ -1,14 +1,13 @@
-Pseudodiplodia rutaecola (Rabenh.) Petr. SPECIES
-=======
+# Pseudodiplodia ruticola (Rabenh.) Petr., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 7(5-6): 304 (1953)
 
 #### Original name
 null

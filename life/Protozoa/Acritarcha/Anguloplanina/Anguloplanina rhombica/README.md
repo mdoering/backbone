@@ -1,5 +1,4 @@
-Anguloplanina rhombica Rudavskaya, 1973 SPECIES
-=======
+# Anguloplanina rhombica Rudavskaya, 1973 SPECIES
 
 #### Status
 ACCEPTED

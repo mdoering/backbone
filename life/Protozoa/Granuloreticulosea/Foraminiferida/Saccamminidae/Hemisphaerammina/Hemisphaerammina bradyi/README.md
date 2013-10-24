@@ -1,5 +1,4 @@
-Hemisphaerammina bradyi SPECIES
-=======
+# Hemisphaerammina bradyi SPECIES
 
 #### Status
 ACCEPTED

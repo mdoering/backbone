@@ -1,5 +1,4 @@
-Comparodinium aquilonium Dörhöfer & Davies, 1980 SPECIES
-=======
+# Comparodinium aquilonium Dörhöfer & Davies, 1980 SPECIES
 
 #### Status
 DOUBTFUL

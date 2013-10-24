@@ -1,5 +1,4 @@
-Phyllosticta colicola Bouhot SPECIES
-=======
+# Phyllosticta colicola Bouhot SPECIES
 
 #### Status
 ACCEPTED

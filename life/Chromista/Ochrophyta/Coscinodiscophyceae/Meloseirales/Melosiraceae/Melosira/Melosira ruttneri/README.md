@@ -1,5 +1,4 @@
-Melosira ruttneri Hustedt SPECIES
-=======
+# Melosira ruttneri Hustedt SPECIES
 
 #### Status
 ACCEPTED

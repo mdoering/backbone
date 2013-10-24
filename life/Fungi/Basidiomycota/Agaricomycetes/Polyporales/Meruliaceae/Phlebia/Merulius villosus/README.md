@@ -1,5 +1,4 @@
-Merulius villosus subsp. villosus SUBSPECIES
-=======
+# Merulius villosus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 2: 14 (1825)
 
 #### Original name
-Merulius villosus subsp. villosus
+Merulius villosus Pers.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Cyttaria reichei Henn., 1900 SPECIES
-=======
+# Cyttaria berteroi Berk., 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Linn. Soc. London 19: 41 (1842)
 
 #### Original name
-Cyttaria reichei Henn., 1900
+Cyttaria berteroi Berk., 1842
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cantharellus cuticulatus Corner SPECIES
-=======
+# Cantharellus cuticulatus Corner SPECIES
 
 #### Status
 ACCEPTED

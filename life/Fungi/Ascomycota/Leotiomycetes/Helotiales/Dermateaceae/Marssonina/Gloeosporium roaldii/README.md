@@ -1,5 +1,4 @@
-Gloeosporium roaldii Lind SPECIES
-=======
+# Gloeosporium roaldii Lind SPECIES
 
 #### Status
 ACCEPTED

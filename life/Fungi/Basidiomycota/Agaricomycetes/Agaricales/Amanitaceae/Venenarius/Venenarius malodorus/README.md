@@ -1,5 +1,4 @@
-Venenarius malodorus Murrill SPECIES
-=======
+# Venenarius malodorus Murrill SPECIES
 
 #### Status
 ACCEPTED

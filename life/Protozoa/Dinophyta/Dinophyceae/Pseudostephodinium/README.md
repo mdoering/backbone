@@ -1,5 +1,4 @@
-Pseudostephodinium J. Yu et al., 1981 GENUS
-=======
+# Pseudostephodinium J. Yu et al., 1981 GENUS
 
 #### Status
 ACCEPTED

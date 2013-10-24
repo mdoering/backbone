@@ -1,5 +1,4 @@
-Leptothyrium acerigenum Kabát & Bubák SPECIES
-=======
+# Leptothyrium acerigenum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

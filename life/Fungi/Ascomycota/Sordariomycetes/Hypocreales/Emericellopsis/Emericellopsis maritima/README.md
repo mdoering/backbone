@@ -1,5 +1,4 @@
-Emericellopsis maritima Beliakova, 1970 SPECIES
-=======
+# Emericellopsis maritima Beliakova, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes laminatus Ellis & Everh. SPECIES
-=======
+# Fomes laminatus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

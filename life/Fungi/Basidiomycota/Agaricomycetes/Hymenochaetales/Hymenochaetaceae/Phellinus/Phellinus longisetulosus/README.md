@@ -1,5 +1,4 @@
-Phellinus longisetulosus Bondartseva & S. Herrera SPECIES
-=======
+# Phellinus longisetulosus Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

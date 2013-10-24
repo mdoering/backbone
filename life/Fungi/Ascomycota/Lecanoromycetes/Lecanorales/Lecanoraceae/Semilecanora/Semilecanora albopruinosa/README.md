@@ -1,5 +1,4 @@
-Semilecanora albopruinosa Motyka SPECIES
-=======
+# Semilecanora albopruinosa Motyka SPECIES
 
 #### Status
 ACCEPTED

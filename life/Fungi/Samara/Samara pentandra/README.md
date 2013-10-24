@@ -1,5 +1,4 @@
-Samara pentandra Ait. SPECIES
-=======
+# Samara pentandra Ait. SPECIES
 
 #### Status
 ACCEPTED

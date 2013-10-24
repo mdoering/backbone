@@ -1,5 +1,4 @@
-Rhabdospora caballeroi Gonz. Frag. SPECIES
-=======
+# Rhabdospora caballeroi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

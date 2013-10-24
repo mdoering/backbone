@@ -1,5 +1,4 @@
-Micranthodinium GENUS
-=======
+# Micranthodinium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadostoma dubium (Feltgen) Sacc. & Trotter SPECIES
-=======
+# Lopadostoma dubium (Feltgen) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

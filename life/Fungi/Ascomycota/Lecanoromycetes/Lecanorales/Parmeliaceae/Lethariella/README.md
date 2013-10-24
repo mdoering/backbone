@@ -1,5 +1,4 @@
-Lethariella (Motyka) Krog GENUS
-=======
+# Lethariella (Motyka) Krog GENUS
 
 #### Status
 ACCEPTED

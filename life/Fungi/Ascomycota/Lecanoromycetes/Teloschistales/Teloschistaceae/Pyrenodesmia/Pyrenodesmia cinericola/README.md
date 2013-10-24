@@ -1,5 +1,4 @@
-Pyrenodesmia cinericola (Hue) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Pyrenodesmia cinericola (Hue) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

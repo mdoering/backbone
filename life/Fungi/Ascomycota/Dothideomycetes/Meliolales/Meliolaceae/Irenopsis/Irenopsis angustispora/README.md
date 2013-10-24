@@ -1,5 +1,4 @@
-Irenopsis angustispora var. angustispora VARIETY
-=======
+# Irenopsis angustispora F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irenopsis angustispora var. angustispora
+Irenopsis angustispora F. Stevens & Roldan
 
 ### Remarks
 null

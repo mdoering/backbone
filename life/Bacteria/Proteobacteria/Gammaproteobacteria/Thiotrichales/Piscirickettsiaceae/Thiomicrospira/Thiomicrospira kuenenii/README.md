@@ -1,5 +1,4 @@
-Thiomicrospira kuenenii Brinkhoff et al., 1999. SPECIES
-=======
+# Thiomicrospira kuenenii Brinkhoff et al., 1999. SPECIES
 
 #### Status
 ACCEPTED

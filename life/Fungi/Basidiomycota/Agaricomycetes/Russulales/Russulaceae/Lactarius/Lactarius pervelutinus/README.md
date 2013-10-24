@@ -1,5 +1,4 @@
-Lactarius pervelutinus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pervelutinus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

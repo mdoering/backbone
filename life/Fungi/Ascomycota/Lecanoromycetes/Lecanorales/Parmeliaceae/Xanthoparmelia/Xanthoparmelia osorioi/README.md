@@ -1,5 +1,4 @@
-Xanthoparmelia osorioi T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia osorioi T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

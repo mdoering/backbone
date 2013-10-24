@@ -1,5 +1,4 @@
-Cyclotella meduanae Germain SPECIES
-=======
+# Cyclotella meduanae Germain SPECIES
 
 #### Status
 ACCEPTED

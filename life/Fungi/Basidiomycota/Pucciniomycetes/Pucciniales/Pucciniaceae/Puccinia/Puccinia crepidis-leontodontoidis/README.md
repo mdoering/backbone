@@ -1,5 +1,4 @@
-Puccinia crepidis-leontodontoidis Maire SPECIES
-=======
+# Puccinia crepidis-leontodontoidis Maire SPECIES
 
 #### Status
 ACCEPTED

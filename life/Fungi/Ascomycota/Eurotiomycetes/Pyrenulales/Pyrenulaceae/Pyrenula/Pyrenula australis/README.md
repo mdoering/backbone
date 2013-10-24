@@ -1,5 +1,4 @@
-Pyrenula australis R.C. Harris SPECIES
-=======
+# Pyrenula australis R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

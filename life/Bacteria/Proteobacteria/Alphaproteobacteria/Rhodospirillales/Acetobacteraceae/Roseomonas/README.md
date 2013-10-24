@@ -1,5 +1,4 @@
-Roseomonas Rihs et al., 1998 GENUS
-=======
+# Roseomonas Rihs et al., 1998 GENUS
 
 #### Status
 ACCEPTED

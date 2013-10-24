@@ -1,5 +1,4 @@
-Aplosporella aquifolii (Westend.) H. Ruppr. SPECIES
-=======
+# Aplosporella aquifolii (Westend.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria dactylina Pass. SPECIES
-=======
+# Leptosphaeria dactylina Pass. SPECIES
 
 #### Status
 ACCEPTED

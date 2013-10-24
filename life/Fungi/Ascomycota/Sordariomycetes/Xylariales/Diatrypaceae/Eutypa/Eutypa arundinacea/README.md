@@ -1,5 +1,4 @@
-Eutypa arundinacea (Sacc.) Sacc. SPECIES
-=======
+# Eutypa arundinacea (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyramis Haeckel, 1887 GENUS
-=======
+# Pyramis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

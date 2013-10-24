@@ -1,5 +1,4 @@
-Dendrothele pitrae Gresl. & Rajchenb., 1998 SPECIES
-=======
+# Dendrothele pitrae Gresl. & Rajchenb., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirottaea geraniicola Nannf. SPECIES
-=======
+# Pirottaea geraniicola Nannf. SPECIES
 
 #### Status
 ACCEPTED

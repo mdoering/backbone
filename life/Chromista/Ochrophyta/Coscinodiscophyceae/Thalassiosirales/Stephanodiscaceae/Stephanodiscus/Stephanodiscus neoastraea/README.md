@@ -1,5 +1,4 @@
-Stephanodiscus neoastraea Håk. & Hickel SPECIES
-=======
+# Stephanodiscus neoastraea Håk. & Hickel SPECIES
 
 #### Status
 ACCEPTED

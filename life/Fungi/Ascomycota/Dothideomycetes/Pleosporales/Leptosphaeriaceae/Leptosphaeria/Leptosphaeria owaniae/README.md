@@ -1,5 +1,4 @@
-Leptosphaeria owaniae (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Leptosphaeria owaniae (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

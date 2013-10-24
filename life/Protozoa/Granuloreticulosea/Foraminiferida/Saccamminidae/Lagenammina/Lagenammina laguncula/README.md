@@ -1,5 +1,4 @@
-Lagenammina laguncula Rhumbler, 1911 SPECIES
-=======
+# Lagenammina laguncula Rhumbler, 1911 SPECIES
 
 #### Status
 ACCEPTED

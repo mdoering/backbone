@@ -1,5 +1,4 @@
-Anthostomella confusa Sacc. SPECIES
-=======
+# Anthostomella confusa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoxybacillus flavithermus Pikuta et al., 2000 SPECIES
-=======
+# Anoxybacillus flavithermus Pikuta et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

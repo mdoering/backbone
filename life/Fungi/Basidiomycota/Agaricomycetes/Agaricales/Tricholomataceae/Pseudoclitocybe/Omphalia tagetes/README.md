@@ -1,5 +1,4 @@
-Omphalia tagetes (Mont. & Berk.) Sacc. SPECIES
-=======
+# Omphalia tagetes (Mont. & Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otidea lechria (Berk. & Broome) Sacc. SPECIES
-=======
+# Otidea lechria (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

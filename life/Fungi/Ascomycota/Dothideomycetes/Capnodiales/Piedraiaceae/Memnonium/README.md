@@ -1,5 +1,4 @@
-Memnonium GENUS
-=======
+# Memnonium GENUS
 
 #### Status
 ACCEPTED

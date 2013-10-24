@@ -1,5 +1,4 @@
-Geonettia L.De Verteuil & G.Norris, 1996 GENUS
-=======
+# Geonettia L.De Verteuil & G.Norris, 1996 GENUS
 
 #### Status
 ACCEPTED

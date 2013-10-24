@@ -1,5 +1,4 @@
-Aecidium petchii Sacc. & Trotter SPECIES
-=======
+# Aecidium petchii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

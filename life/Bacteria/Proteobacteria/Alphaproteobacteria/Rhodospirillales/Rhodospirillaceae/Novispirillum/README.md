@@ -1,5 +1,4 @@
-Novispirillum Yoon, Kang, Park, Lee & Oh, 2007 GENUS
-=======
+# Novispirillum Yoon, Kang, Park, Lee & Oh, 2007 GENUS
 
 #### Status
 ACCEPTED

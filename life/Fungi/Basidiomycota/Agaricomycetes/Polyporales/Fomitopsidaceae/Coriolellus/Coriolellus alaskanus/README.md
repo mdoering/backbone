@@ -1,5 +1,4 @@
-Coriolellus alaskanus (D.V. Baxter) Domanski SPECIES
-=======
+# Coriolellus alaskanus (D.V. Baxter) Domanski SPECIES
 
 #### Status
 ACCEPTED

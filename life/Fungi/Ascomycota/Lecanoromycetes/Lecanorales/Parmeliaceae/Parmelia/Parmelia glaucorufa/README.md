@@ -1,5 +1,4 @@
-Parmelia glaucorufa Martius SPECIES
-=======
+# Parmelia glaucorufa Martius SPECIES
 
 #### Status
 ACCEPTED

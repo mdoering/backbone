@@ -1,5 +1,4 @@
-Mycena amazonica Singer SPECIES
-=======
+# Mycena amazonica Singer SPECIES
 
 #### Status
 ACCEPTED

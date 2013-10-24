@@ -1,17 +1,16 @@
-Hansfordiella diedickeae Deighton SPECIES
-=======
+# Hansfordiella diedickiae Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 78: 31 (1960)
 
 #### Original name
-Hansfordiella diedickeae Deighton
+Hansfordiella diedickiae Deighton
 
 ### Remarks
 null

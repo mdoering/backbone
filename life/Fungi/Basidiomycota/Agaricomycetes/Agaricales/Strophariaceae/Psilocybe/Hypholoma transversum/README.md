@@ -1,5 +1,4 @@
-Hypholoma transversum Gillet SPECIES
-=======
+# Hypholoma transversum Gillet SPECIES
 
 #### Status
 ACCEPTED

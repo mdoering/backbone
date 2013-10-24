@@ -1,5 +1,4 @@
-Porina argillacea Müll. Arg. SPECIES
-=======
+# Porina argillacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

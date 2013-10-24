@@ -1,5 +1,4 @@
-Lepista argentina (Speg.) Singer SPECIES
-=======
+# Lepista argentina (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

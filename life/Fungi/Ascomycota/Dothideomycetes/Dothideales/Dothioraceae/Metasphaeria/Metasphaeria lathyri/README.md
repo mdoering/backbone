@@ -1,5 +1,4 @@
-Metasphaeria lathyri (Sacc.) Sacc. SPECIES
-=======
+# Metasphaeria lathyri (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

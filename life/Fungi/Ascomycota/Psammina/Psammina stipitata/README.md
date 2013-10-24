@@ -1,5 +1,4 @@
-Psammina stipitata D. Hawksw., 1979 SPECIES
-=======
+# Psammina stipitata D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

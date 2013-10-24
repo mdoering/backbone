@@ -1,5 +1,4 @@
-Ormathodium styracis Syd. SPECIES
-=======
+# Ormathodium styracis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylodictya aculeata Joergensen, 1905 SPECIES
-=======
+# Stylodictya aculeata Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

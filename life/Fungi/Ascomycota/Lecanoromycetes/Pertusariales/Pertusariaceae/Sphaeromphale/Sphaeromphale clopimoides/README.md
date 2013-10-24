@@ -1,5 +1,4 @@
-Sphaeromphale clopimoides (Bagl. & Carestia) Arnold SPECIES
-=======
+# Sphaeromphale clopimoides (Bagl. & Carestia) Arnold SPECIES
 
 #### Status
 ACCEPTED

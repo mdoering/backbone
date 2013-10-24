@@ -1,5 +1,4 @@
-Leptosphaeria bomareae Petr. SPECIES
-=======
+# Leptosphaeria bomareae Petr. SPECIES
 
 #### Status
 ACCEPTED

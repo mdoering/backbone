@@ -1,5 +1,4 @@
-Agaricus exasperatus Pers. SPECIES
-=======
+# Agaricus exasperatus Pers. SPECIES
 
 #### Status
 ACCEPTED

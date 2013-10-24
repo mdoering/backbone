@@ -1,5 +1,4 @@
-Granularia castanea Ellis & Everh. ex V.S. White SPECIES
-=======
+# Granularia castanea Ellis & Everh. ex V.S. White SPECIES
 
 #### Status
 ACCEPTED

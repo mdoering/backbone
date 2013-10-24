@@ -1,5 +1,4 @@
-Corethromyces sciopori Thaxt. SPECIES
-=======
+# Corethromyces sciopori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

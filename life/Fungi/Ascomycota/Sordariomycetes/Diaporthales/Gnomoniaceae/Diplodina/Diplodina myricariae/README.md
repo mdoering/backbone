@@ -1,5 +1,4 @@
-Diplodina myricariae Golovin SPECIES
-=======
+# Diplodina myricariae Golovin SPECIES
 
 #### Status
 ACCEPTED

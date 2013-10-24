@@ -1,5 +1,4 @@
-Phlebia alni Velen. SPECIES
-=======
+# Phlebia alni Velen. SPECIES
 
 #### Status
 ACCEPTED

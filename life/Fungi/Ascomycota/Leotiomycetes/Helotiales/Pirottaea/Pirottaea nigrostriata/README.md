@@ -1,5 +1,4 @@
-Pirottaea nigrostriata Graddon, 1967 SPECIES
-=======
+# Pirottaea nigrostriata Graddon, 1967 SPECIES
 
 #### Status
 ACCEPTED

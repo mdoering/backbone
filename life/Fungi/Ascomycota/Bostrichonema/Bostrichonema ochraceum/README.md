@@ -1,5 +1,4 @@
-Bostrichonema ochraceum (Fuckel) Sacc. SPECIES
-=======
+# Bostrichonema ochraceum (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

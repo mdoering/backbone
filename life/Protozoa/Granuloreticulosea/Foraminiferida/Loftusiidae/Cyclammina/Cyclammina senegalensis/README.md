@@ -1,5 +1,4 @@
-Cyclammina senegalensis SPECIES
-=======
+# Cyclammina senegalensis SPECIES
 
 #### Status
 ACCEPTED

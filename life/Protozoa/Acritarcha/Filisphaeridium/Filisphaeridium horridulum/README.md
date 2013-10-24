@@ -1,5 +1,4 @@
-Filisphaeridium horridulum (Deunff, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium horridulum (Deunff, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

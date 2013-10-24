@@ -1,5 +1,4 @@
-Pestalotiopsis gallica Steyaert SPECIES
-=======
+# Pestalotiopsis gallica Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peyritschiella eulissi (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella eulissi (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

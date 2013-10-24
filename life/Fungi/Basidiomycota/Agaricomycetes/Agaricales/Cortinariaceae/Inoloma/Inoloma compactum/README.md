@@ -1,5 +1,4 @@
-Inoloma compactum Velen. SPECIES
-=======
+# Inoloma compactum Velen. SPECIES
 
 #### Status
 ACCEPTED

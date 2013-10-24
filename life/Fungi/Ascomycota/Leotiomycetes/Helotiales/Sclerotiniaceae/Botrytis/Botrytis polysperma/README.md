@@ -1,5 +1,4 @@
-Botrytis polysperma Kütz. SPECIES
-=======
+# Botrytis polysperma Kütz. SPECIES
 
 #### Status
 ACCEPTED

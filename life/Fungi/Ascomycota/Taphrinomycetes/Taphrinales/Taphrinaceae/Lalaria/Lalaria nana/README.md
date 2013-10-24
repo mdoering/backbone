@@ -1,5 +1,4 @@
-Lalaria nana R.T. Moore SPECIES
-=======
+# Lalaria nana R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

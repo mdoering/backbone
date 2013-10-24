@@ -1,17 +1,16 @@
-Ceratostomina Hansf. GENUS
-=======
+# Rhynchomeliola Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 15: 39 (1946)
+Anal. Soc. cient. argent. 18(6): 283 (1884)
 
 #### Original name
-Ceratostomina Hansf.
+Rhynchomeliola Speg.
 
 ### Remarks
 null

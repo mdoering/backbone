@@ -1,5 +1,4 @@
-Agaricus retifolius Lasch SPECIES
-=======
+# Agaricus retifolius Lasch SPECIES
 
 #### Status
 ACCEPTED

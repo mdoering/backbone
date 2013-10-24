@@ -1,5 +1,4 @@
-Coniothyrium buddleiae (Cooke) Grove SPECIES
-=======
+# Coniothyrium buddleiae (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

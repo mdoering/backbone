@@ -1,5 +1,4 @@
-Myxarium atratum (Peck) Ginns & M.N.L. Lefebvre SPECIES
-=======
+# Myxarium atratum (Peck) Ginns & M.N.L. Lefebvre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Henningsomyces annulatus (Holmsk.) Kuntze SPECIES
-=======
+# Henningsomyces annulatus (Holmsk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

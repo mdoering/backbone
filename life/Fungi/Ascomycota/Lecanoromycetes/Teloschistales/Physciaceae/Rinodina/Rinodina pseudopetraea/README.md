@@ -1,5 +1,4 @@
-Rinodina pseudopetraea SPECIES
-=======
+# Rinodina pseudopetraea SPECIES
 
 #### Status
 ACCEPTED

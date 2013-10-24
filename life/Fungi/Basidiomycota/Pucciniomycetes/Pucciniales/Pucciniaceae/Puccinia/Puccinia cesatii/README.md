@@ -1,5 +1,4 @@
-Puccinia cesatii f. cesatii FORM
-=======
+# Puccinia cesatii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Cohn, Beitr. Biol. Pfl. 3: 70 (1879)
 
 #### Original name
-Puccinia cesatii f. cesatii
+Puccinia cesatii J. Schröt.
 
 ### Remarks
 null

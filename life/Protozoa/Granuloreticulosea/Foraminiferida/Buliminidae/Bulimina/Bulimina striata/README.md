@@ -1,5 +1,4 @@
-Bulimina striata SPECIES
-=======
+# Bulimina striata SPECIES
 
 #### Status
 ACCEPTED

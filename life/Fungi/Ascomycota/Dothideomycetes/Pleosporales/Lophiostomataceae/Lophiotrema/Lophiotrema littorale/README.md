@@ -1,5 +1,4 @@
-Lophiotrema littorale Speg. SPECIES
-=======
+# Lophiotrema littorale Speg. SPECIES
 
 #### Status
 ACCEPTED

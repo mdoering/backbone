@@ -1,5 +1,4 @@
-Caloplaca pyraceoides B. de Lesd. SPECIES
-=======
+# Caloplaca pyraceoides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

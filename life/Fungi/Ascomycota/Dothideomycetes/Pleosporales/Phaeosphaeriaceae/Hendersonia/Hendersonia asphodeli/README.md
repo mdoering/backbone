@@ -1,5 +1,4 @@
-Hendersonia asphodeli (Mont.) Sacc. SPECIES
-=======
+# Hendersonia asphodeli (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

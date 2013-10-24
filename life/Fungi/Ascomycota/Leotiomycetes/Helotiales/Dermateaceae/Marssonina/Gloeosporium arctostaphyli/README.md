@@ -1,5 +1,4 @@
-Gloeosporium arctostaphyli W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Gloeosporium arctostaphyli W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

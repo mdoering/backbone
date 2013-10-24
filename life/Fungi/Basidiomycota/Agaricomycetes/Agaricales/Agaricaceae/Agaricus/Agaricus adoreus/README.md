@@ -1,17 +1,16 @@
-Agaricus adorea Berk. & Broome SPECIES
-=======
+# Agaricus adoreus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 11(no. 56): 499 (1871)
 
 #### Original name
-Agaricus adorea Berk. & Broome
+Agaricus adoreus Berk. & Broome
 
 ### Remarks
 null

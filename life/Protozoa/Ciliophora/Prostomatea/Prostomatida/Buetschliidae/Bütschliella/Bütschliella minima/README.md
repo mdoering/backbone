@@ -1,5 +1,4 @@
-Bütschliella minima Heidenreich, 1935 SPECIES
-=======
+# Bütschliella minima Heidenreich, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora multispora Makar. SPECIES
-=======
+# Lecanora multispora Makar. SPECIES
 
 #### Status
 ACCEPTED

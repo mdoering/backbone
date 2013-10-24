@@ -1,5 +1,4 @@
-Otthiella ribis (Tracy & Earle) Sacc. & D. Sacc. SPECIES
-=======
+# Otthiella ribis (Tracy & Earle) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

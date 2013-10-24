@@ -1,17 +1,16 @@
-Nematoloma popperianum Singer SPECIES
-=======
+# Naematoloma popperianum Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 7: 81 (1973)
 
 #### Original name
-Nematoloma popperianum Singer
+Naematoloma popperianum Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholosporum cossonianum (Maire) P.-A. Moreau & Contu SPECIES
-=======
+# Tricholosporum cossonianum (Maire) P.-A. Moreau & Contu SPECIES
 
 #### Status
 ACCEPTED

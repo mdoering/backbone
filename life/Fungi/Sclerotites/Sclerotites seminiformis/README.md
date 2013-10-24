@@ -1,5 +1,4 @@
-Sclerotites seminiformis Göpp. & J.A. Menge SPECIES
-=======
+# Sclerotites seminiformis Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

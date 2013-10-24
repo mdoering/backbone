@@ -1,5 +1,4 @@
-Ascochyta sorbina Lobik SPECIES
-=======
+# Ascochyta sorbina Lobik SPECIES
 
 #### Status
 ACCEPTED

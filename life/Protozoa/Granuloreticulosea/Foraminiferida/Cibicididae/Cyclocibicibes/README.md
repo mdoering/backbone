@@ -1,5 +1,4 @@
-Cyclocibicibes GENUS
-=======
+# Cyclocibicibes GENUS
 
 #### Status
 ACCEPTED

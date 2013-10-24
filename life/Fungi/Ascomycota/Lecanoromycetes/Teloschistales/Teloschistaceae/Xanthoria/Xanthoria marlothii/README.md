@@ -1,5 +1,4 @@
-Xanthoria marlothii Zahlbr. SPECIES
-=======
+# Xanthoria marlothii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

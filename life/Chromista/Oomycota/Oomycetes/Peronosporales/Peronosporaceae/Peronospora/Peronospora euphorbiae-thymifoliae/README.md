@@ -1,5 +1,4 @@
-Peronospora euphorbiae-thymifoliae Sawada SPECIES
-=======
+# Peronospora euphorbiae-thymifoliae Sawada SPECIES
 
 #### Status
 ACCEPTED

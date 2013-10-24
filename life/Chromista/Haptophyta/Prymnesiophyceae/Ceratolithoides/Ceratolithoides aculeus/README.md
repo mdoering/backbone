@@ -1,8 +1,7 @@
-Tetralithus aculeus Stradner, 1961 SPECIES
-=======
+# Ceratolithoides aculeus (Stradner, 1961) Prins & Sissingh in Sissingh, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Microcystis minuta var. violacea Lindstedt VARIETY
-=======
+# Microcystis minuta Kylin SPECIES
 
 #### Status
 ACCEPTED

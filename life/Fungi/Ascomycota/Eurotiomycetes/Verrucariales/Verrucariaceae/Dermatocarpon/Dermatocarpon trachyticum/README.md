@@ -1,5 +1,4 @@
-Dermatocarpon trachyticum (Hazsl.) Vain. SPECIES
-=======
+# Dermatocarpon trachyticum (Hazsl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campsotrichum simplex Cooke SPECIES
-=======
+# Campsotrichum simplex Cooke SPECIES
 
 #### Status
 ACCEPTED

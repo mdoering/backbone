@@ -1,5 +1,4 @@
-Gloeocantharellus uitotanus Vasco-Pal. & Franco-Mol., 2005 SPECIES
-=======
+# Gloeocantharellus uitotanus Vasco-Pal. & Franco-Mol., 2005 SPECIES
 
 #### Status
 ACCEPTED

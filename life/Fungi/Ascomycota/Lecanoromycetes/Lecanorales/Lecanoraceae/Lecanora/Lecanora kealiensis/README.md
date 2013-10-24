@@ -1,5 +1,4 @@
-Lecanora kealiensis f. kealiensis FORM
-=======
+# Lecanora kealiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora kealiensis f. kealiensis
+Lecanora kealiensis Zahlbr.
 
 ### Remarks
 null

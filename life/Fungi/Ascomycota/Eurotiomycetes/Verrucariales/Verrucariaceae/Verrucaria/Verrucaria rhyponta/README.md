@@ -1,17 +1,16 @@
-Verrucaria rhyponta var. rhyponta VARIETY
-=======
+# Verrucaria rhyponta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Verrucaria rhyponta var. rhyponta
+null
 
 ### Remarks
 null

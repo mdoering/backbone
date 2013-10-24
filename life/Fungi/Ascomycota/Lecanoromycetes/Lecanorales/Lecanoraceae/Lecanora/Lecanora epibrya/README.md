@@ -1,5 +1,4 @@
-Lecanora epibrya Vain. SPECIES
-=======
+# Lecanora epibrya Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Distocercospora livistonae U. Braun & C.F. Hill, 2006 SPECIES
-=======
+# Distocercospora livistonae U. Braun & C.F. Hill, 2006 SPECIES
 
 #### Status
 ACCEPTED

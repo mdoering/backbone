@@ -1,5 +1,4 @@
-Zignoëlla arthopyrenioides Rehm SPECIES
-=======
+# Zignoëlla arthopyrenioides Rehm SPECIES
 
 #### Status
 ACCEPTED

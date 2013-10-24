@@ -1,5 +1,4 @@
-Parmelia chrysomelaena B. de Lesd. SPECIES
-=======
+# Parmelia chrysomelaena B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

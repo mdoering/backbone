@@ -1,5 +1,4 @@
-Trichophyton kanei Summerb., 1987 SPECIES
-=======
+# Trichophyton kanei Summerb., 1987 SPECIES
 
 #### Status
 ACCEPTED

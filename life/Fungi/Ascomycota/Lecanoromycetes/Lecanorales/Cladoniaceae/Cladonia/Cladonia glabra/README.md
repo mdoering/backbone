@@ -1,5 +1,4 @@
-Cladonia glabra Ahti SPECIES
-=======
+# Cladonia glabra Ahti SPECIES
 
 #### Status
 ACCEPTED

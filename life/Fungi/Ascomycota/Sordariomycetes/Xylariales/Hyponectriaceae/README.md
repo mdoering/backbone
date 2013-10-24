@@ -1,5 +1,4 @@
-Hyponectriaceae Petr. FAMILY
-=======
+# Hyponectriaceae Petr. FAMILY
 
 #### Status
 ACCEPTED

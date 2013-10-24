@@ -1,5 +1,4 @@
-Cornustrobus Haeckel, 1887 GENUS
-=======
+# Cornustrobus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

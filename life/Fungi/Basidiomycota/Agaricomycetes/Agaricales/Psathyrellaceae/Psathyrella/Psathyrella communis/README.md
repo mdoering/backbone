@@ -1,5 +1,4 @@
-Psathyrella communis A.H. Sm. SPECIES
-=======
+# Psathyrella communis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

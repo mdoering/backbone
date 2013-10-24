@@ -1,5 +1,4 @@
-Acidocella Kishimoto et al., 1996 GENUS
-=======
+# Acidocella Kishimoto et al., 1996 GENUS
 
 #### Status
 ACCEPTED

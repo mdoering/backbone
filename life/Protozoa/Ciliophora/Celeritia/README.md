@@ -1,5 +1,4 @@
-Celeritia Tucolesco, 1962 GENUS
-=======
+# Celeritia Tucolesco, 1962 GENUS
 
 #### Status
 ACCEPTED

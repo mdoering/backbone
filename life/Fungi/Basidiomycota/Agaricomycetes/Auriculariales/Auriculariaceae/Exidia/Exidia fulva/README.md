@@ -1,5 +1,4 @@
-Exidia fulva Bres. & Torrend SPECIES
-=======
+# Exidia fulva Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED

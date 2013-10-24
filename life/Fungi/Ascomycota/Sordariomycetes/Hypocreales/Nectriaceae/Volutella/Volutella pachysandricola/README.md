@@ -1,5 +1,4 @@
-Volutella pachysandricola B.O. Dodge SPECIES
-=======
+# Volutella pachysandricola B.O. Dodge SPECIES
 
 #### Status
 ACCEPTED

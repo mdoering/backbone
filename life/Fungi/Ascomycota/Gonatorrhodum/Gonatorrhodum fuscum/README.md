@@ -1,5 +1,4 @@
-Gonatorrhodum fuscum Preuss SPECIES
-=======
+# Gonatorrhodum fuscum Preuss SPECIES
 
 #### Status
 ACCEPTED

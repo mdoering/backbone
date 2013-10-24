@@ -1,5 +1,4 @@
-Dactylospora caledonica Hafellner SPECIES
-=======
+# Dactylospora caledonica Hafellner SPECIES
 
 #### Status
 ACCEPTED

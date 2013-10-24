@@ -1,5 +1,4 @@
-Hygrophorus lactariodes Henn. SPECIES
-=======
+# Hygrophorus lactariodes Henn. SPECIES
 
 #### Status
 ACCEPTED

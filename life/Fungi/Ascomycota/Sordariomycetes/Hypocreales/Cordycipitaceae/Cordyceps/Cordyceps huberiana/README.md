@@ -1,5 +1,4 @@
-Cordyceps huberiana Henn. SPECIES
-=======
+# Cordyceps huberiana Henn. SPECIES
 
 #### Status
 ACCEPTED

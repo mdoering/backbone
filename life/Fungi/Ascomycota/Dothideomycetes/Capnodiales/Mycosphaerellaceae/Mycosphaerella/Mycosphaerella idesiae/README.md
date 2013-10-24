@@ -1,5 +1,4 @@
-Mycosphaerella idesiae Hara SPECIES
-=======
+# Mycosphaerella idesiae Hara SPECIES
 
 #### Status
 ACCEPTED

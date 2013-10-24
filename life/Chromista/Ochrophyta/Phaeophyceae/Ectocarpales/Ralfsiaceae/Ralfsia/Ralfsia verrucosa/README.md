@@ -1,11 +1,10 @@
-Ralfsia verrucosa var. erythraea Piccone & Gunow, 1884 VARIETY
-=======
+# Ralfsia verrucosa (Areschoug) Areschoug SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

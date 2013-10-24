@@ -1,5 +1,4 @@
-Marasmiellus pygmaeus (Rick) Singer SPECIES
-=======
+# Marasmiellus pygmaeus (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Holmiospora pini J.L. Mulder & Sv. Nilsson SPECIES
-=======
+# Holmiospora pinae J.L. Mulder & Sv. Nilsson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Holmiospora pini J.L. Mulder & Sv. Nilsson
+Holmiospora pinae J.L. Mulder & Sv. Nilsson
 
 ### Remarks
 null

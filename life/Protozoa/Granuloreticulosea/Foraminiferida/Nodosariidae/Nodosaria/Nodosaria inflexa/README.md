@@ -1,5 +1,4 @@
-Nodosaria inflexa SPECIES
-=======
+# Nodosaria inflexa SPECIES
 
 #### Status
 ACCEPTED

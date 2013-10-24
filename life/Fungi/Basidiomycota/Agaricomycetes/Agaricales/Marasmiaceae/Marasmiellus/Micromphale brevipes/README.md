@@ -1,5 +1,4 @@
-Micromphale brevipes (Berk. & Ravenel) Singer SPECIES
-=======
+# Micromphale brevipes (Berk. & Ravenel) Singer SPECIES
 
 #### Status
 ACCEPTED

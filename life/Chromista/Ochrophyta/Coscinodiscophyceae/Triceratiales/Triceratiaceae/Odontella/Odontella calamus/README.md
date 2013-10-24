@@ -1,5 +1,4 @@
-Odontella calamus (Brun & Tempère) H. J. Schrader SPECIES
-=======
+# Odontella calamus (Brun & Tempère) H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

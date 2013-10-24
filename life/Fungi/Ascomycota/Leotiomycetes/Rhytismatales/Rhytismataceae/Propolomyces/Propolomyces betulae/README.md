@@ -1,5 +1,4 @@
-Propolomyces betulae anon. SPECIES
-=======
+# Propolomyces betulae anon. SPECIES
 
 #### Status
 ACCEPTED

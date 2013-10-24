@@ -1,5 +1,4 @@
-Entoloma album Hiroë SPECIES
-=======
+# Entoloma album Hiroë SPECIES
 
 #### Status
 ACCEPTED

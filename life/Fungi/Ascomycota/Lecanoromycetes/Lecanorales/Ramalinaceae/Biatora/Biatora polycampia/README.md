@@ -1,5 +1,4 @@
-Biatora polycampia (Tuck.) Tuck. SPECIES
-=======
+# Biatora polycampia (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

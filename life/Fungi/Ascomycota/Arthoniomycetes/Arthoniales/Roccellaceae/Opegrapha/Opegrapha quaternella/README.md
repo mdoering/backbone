@@ -1,5 +1,4 @@
-Opegrapha quaternella Nyl. SPECIES
-=======
+# Opegrapha quaternella Nyl. SPECIES
 
 #### Status
 ACCEPTED

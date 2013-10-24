@@ -1,5 +1,4 @@
-Passalora compressa (Allesch.) Petr. SPECIES
-=======
+# Passalora compressa (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

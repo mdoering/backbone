@@ -1,5 +1,4 @@
-Xeromphalina helbergeri Singer SPECIES
-=======
+# Xeromphalina helbergeri Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zobellia laminariae Nedashkovskaya et al., 2004 SPECIES
-=======
+# Zobellia laminariae Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

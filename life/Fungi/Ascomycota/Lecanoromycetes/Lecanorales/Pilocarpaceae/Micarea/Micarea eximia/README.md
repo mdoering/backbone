@@ -1,5 +1,4 @@
-Micarea eximia Hedl. SPECIES
-=======
+# Micarea eximia Hedl. SPECIES
 
 #### Status
 ACCEPTED

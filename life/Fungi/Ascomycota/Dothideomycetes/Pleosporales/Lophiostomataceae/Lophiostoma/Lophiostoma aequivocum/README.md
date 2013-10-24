@@ -1,5 +1,4 @@
-Lophiostoma aequivocum Ellis & Everh. SPECIES
-=======
+# Lophiostoma aequivocum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

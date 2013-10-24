@@ -1,5 +1,4 @@
-Syncephalis drechsleri B.S. Mehrotra & R. Prasad SPECIES
-=======
+# Syncephalis drechsleri B.S. Mehrotra & R. Prasad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorodothis lahmii (Müll. Arg.) Clem. SPECIES
-=======
+# Chlorodothis lahmii (Müll. Arg.) Clem. SPECIES
 
 #### Status
 ACCEPTED

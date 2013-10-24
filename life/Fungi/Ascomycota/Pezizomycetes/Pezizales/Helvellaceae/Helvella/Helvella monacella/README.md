@@ -1,5 +1,4 @@
-Helvella monacella Schaeff. SPECIES
-=======
+# Helvella monacella Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora tamoyae Viégas, 1944 SPECIES
-=======
+# Phyllachora tamoyae Viégas, 1944 SPECIES
 
 #### Status
 DOUBTFUL

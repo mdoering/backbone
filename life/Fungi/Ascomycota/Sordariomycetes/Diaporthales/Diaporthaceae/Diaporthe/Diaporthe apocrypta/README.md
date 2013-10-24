@@ -1,5 +1,4 @@
-Diaporthe apocrypta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe apocrypta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

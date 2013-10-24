@@ -1,5 +1,4 @@
-Thalassiosira multipora M. C. Whiting & H. Schrader SPECIES
-=======
+# Thalassiosira multipora M. C. Whiting & H. Schrader SPECIES
 
 #### Status
 ACCEPTED

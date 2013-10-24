@@ -1,5 +1,4 @@
-Sulfolobus acidocaldarius Brock et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Sulfolobus acidocaldarius Brock et al., 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Graphis implicata Fée SPECIES
-=======
+# Hemithecium implicatum (Fée) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 287 (2002)
 
 #### Original name
-null
+Graphis implicata Fée
 
 ### Remarks
 null

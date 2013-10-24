@@ -1,5 +1,4 @@
-Tuber suecicum Wittr. {?} SPECIES
-=======
+# Tuber suecicum Wittr. {?} SPECIES
 
 #### Status
 ACCEPTED

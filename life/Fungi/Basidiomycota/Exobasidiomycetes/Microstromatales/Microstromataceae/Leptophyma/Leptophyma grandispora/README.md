@@ -1,5 +1,4 @@
-Leptophyma grandispora M.L. Farr SPECIES
-=======
+# Leptophyma grandispora M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

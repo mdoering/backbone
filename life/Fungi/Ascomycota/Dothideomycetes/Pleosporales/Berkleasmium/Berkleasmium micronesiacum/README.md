@@ -1,17 +1,16 @@
-Berkleasmium micronesicum Matsush., 1981 SPECIES
-=======
+# Berkleasmium micronesiacum Matsush., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. , no. 2 2: 2 (1981)
 
 #### Original name
-Berkleasmium micronesicum Matsush., 1981
+Berkleasmium micronesiacum Matsush., 1981
 
 ### Remarks
 null

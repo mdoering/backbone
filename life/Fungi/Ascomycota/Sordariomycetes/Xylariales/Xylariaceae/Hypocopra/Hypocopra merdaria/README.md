@@ -1,14 +1,13 @@
-Sphaeria merdaria Fr., 1828 SPECIES
-=======
+# Hypocopra merdaria (Fr.) J. Kickx f., 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 2: 100 (1828)
+Fl. Crypt. Flandres 1: 362 (1867)
 
 #### Original name
 Sphaeria merdaria Fr., 1828

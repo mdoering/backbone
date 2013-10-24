@@ -1,5 +1,4 @@
-Lobaria albidoglaucescens Vain. SPECIES
-=======
+# Lobaria albidoglaucescens Vain. SPECIES
 
 #### Status
 ACCEPTED

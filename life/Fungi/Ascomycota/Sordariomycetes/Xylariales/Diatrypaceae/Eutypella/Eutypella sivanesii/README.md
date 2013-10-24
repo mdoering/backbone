@@ -1,5 +1,4 @@
-Eutypella sivanesii A. Pande SPECIES
-=======
+# Eutypella sivanesii A. Pande SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora sphaerulina Grove, 1922 SPECIES
-=======
+# Phomatospora sphaerulina Grove, 1922 SPECIES
 
 #### Status
 ACCEPTED

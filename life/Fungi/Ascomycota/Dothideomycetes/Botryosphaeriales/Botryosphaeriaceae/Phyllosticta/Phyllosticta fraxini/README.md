@@ -1,5 +1,4 @@
-Phyllosticta fraxini Ellis & G. Martin SPECIES
-=======
+# Phyllosticta fraxini Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

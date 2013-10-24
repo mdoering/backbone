@@ -1,5 +1,4 @@
-Pyrenula pupula Ach. SPECIES
-=======
+# Pyrenula pupula Ach. SPECIES
 
 #### Status
 ACCEPTED

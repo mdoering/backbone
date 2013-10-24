@@ -1,5 +1,4 @@
-Placodium mastophorum var. flavorubescens Vain. ex Van der Byl VARIETY
-=======
+# Placodium mastophorum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium mastophorum var. flavorubescens Vain. ex Van der Byl
+Placodium mastophorum Vain.
 
 ### Remarks
 null

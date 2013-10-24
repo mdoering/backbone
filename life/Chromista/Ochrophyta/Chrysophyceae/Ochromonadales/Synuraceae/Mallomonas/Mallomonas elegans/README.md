@@ -1,5 +1,4 @@
-Mallomonas elegans SPECIES
-=======
+# Mallomonas elegans SPECIES
 
 #### Status
 ACCEPTED

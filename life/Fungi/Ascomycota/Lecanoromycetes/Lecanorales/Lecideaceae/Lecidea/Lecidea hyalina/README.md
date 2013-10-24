@@ -1,5 +1,4 @@
-Lecidea hyalina Mart. SPECIES
-=======
+# Lecidea hyalina Mart. SPECIES
 
 #### Status
 ACCEPTED

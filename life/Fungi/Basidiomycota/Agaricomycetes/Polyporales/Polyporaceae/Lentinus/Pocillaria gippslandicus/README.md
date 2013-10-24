@@ -1,5 +1,4 @@
-Pocillaria gippslandicus Kuntze SPECIES
-=======
+# Pocillaria gippslandicus Kuntze SPECIES
 
 #### Status
 ACCEPTED

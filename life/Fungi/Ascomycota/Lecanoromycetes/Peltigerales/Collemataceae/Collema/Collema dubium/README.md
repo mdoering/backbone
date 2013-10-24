@@ -1,5 +1,4 @@
-Collema dubium B. de Lesd. SPECIES
-=======
+# Collema dubium B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

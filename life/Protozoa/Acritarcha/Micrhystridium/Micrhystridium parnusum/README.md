@@ -1,5 +1,4 @@
-Micrhystridium parnusum Gao Lianda, 1988 SPECIES
-=======
+# Micrhystridium parnusum Gao Lianda, 1988 SPECIES
 
 #### Status
 ACCEPTED

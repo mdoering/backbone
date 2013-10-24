@@ -1,5 +1,4 @@
-Baeomyces brevis Zahlbr. SPECIES
-=======
+# Baeomyces brevis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

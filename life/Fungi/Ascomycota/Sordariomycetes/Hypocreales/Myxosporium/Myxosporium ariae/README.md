@@ -1,5 +1,4 @@
-Myxosporium ariae Allesch. SPECIES
-=======
+# Myxosporium ariae Allesch. SPECIES
 
 #### Status
 ACCEPTED

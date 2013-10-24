@@ -1,5 +1,4 @@
-Agaricus permixtus Britzelm. SPECIES
-=======
+# Agaricus permixtus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

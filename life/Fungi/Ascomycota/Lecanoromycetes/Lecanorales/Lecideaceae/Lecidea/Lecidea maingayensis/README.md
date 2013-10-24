@@ -1,5 +1,4 @@
-Lecidea maingayensis Cromb. SPECIES
-=======
+# Lecidea maingayensis Cromb. SPECIES
 
 #### Status
 ACCEPTED

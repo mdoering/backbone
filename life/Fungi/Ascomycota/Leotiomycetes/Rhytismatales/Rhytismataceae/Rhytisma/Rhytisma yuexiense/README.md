@@ -1,5 +1,4 @@
-Rhytisma yuexiense C.L. Hou & M. Piepenbr., 2005 SPECIES
-=======
+# Rhytisma yuexiense C.L. Hou & M. Piepenbr., 2005 SPECIES
 
 #### Status
 ACCEPTED

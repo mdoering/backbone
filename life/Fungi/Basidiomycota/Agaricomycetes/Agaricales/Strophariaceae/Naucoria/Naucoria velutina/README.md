@@ -1,5 +1,4 @@
-Naucoria velutina Murrill SPECIES
-=======
+# Naucoria velutina Murrill SPECIES
 
 #### Status
 ACCEPTED

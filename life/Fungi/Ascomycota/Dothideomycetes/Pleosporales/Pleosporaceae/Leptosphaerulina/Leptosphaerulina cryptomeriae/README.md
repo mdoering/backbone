@@ -1,5 +1,4 @@
-Leptosphaerulina cryptomeriae Sawada SPECIES
-=======
+# Leptosphaerulina cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

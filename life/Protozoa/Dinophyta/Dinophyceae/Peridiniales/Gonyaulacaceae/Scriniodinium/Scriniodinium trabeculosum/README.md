@@ -1,5 +1,4 @@
-Scriniodinium trabeculosum H. Gocht SPECIES
-=======
+# Scriniodinium trabeculosum H. Gocht SPECIES
 
 #### Status
 ACCEPTED

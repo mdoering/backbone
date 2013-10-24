@@ -1,14 +1,13 @@
-Pterospora nigripes (Schwein.) E. Horak, 1983 SPECIES
-=======
+# Tetrapyrgos nigripes (Schwein.) E. Horak, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 36: 133 (1983)
+Sydowia 39: 102 (1987)
 
 #### Original name
 Agaricus nigripes Schwein., 1822

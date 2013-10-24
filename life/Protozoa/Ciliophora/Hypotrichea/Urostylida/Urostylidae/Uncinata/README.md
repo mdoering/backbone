@@ -1,5 +1,4 @@
-Uncinata GENUS
-=======
+# Uncinata GENUS
 
 #### Status
 ACCEPTED

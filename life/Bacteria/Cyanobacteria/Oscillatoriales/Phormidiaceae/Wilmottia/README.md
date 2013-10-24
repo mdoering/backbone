@@ -1,5 +1,4 @@
-Wilmottia Strunecky, Elster & Komárek, 2011 GENUS
-=======
+# Wilmottia Strunecky, Elster & Komárek, 2011 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudonocardia ammonioxydans Liu et al., 2006 SPECIES
-=======
+# Pseudonocardia ammonioxydans Liu et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

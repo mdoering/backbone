@@ -1,5 +1,4 @@
-Otidea nannfeldtii Harmaja SPECIES
-=======
+# Otidea nannfeldtii Harmaja SPECIES
 
 #### Status
 ACCEPTED

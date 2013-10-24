@@ -1,5 +1,4 @@
-Puccinia rangiferina Barclay SPECIES
-=======
+# Puccinia rangiferina Barclay SPECIES
 
 #### Status
 ACCEPTED

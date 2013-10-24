@@ -1,5 +1,4 @@
-Cucurbitaria minima Ellis & Everh. SPECIES
-=======
+# Cucurbitaria minima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

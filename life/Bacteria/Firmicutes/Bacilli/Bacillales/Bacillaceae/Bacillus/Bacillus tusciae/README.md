@@ -1,5 +1,4 @@
-Bacillus tusciae Bonjour & Aragno, 1985 SPECIES
-=======
+# Bacillus tusciae Bonjour & Aragno, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tribonema intermixtum Pascher SPECIES
-=======
+# Tribonema intermixtum Pascher SPECIES
 
 #### Status
 ACCEPTED

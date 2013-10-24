@@ -1,5 +1,4 @@
-Pyrenula albo-ostiolata SPECIES
-=======
+# Pyrenula albo-ostiolata SPECIES
 
 #### Status
 ACCEPTED

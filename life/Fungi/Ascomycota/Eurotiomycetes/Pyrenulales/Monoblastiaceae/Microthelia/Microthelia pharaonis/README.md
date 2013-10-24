@@ -1,5 +1,4 @@
-Microthelia pharaonis Müll. Arg. SPECIES
-=======
+# Microthelia pharaonis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

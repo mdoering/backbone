@@ -1,5 +1,4 @@
-Solenodonta Sydow, 1921 GENUS
-=======
+# Solenodonta Sydow, 1921 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Centrolepidosporium sclerodermum R.G. Shivas & Vánky, 2007 SPECIES
-=======
+# Centrolepidosporium sclerodermum R.G. Shivas & Vánky, 2007 SPECIES
 
 #### Status
 ACCEPTED

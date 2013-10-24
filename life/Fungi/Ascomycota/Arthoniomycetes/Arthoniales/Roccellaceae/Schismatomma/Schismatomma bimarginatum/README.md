@@ -1,5 +1,4 @@
-Schismatomma bimarginatum (Eschw.) Zahlbr. SPECIES
-=======
+# Schismatomma bimarginatum (Eschw.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascomyces extensus Peck SPECIES
-=======
+# Ascomyces extensus Peck SPECIES
 
 #### Status
 ACCEPTED

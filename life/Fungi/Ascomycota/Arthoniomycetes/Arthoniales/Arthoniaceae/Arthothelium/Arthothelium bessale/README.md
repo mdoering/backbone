@@ -1,5 +1,4 @@
-Arthothelium bessale (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium bessale (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

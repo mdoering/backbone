@@ -1,5 +1,4 @@
-Sinodinium Nie, 1945 GENUS
-=======
+# Sinodinium Nie, 1945 GENUS
 
 #### Status
 SYNONYM

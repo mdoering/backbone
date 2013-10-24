@@ -1,5 +1,4 @@
-Phylloporthe Syd. GENUS
-=======
+# Phylloporthe Syd. GENUS
 
 #### Status
 ACCEPTED

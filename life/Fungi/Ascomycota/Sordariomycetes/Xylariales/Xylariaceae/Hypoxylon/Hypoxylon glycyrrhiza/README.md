@@ -1,5 +1,4 @@
-Hypoxylon glycyrrhiza Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon glycyrrhiza Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

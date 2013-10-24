@@ -1,5 +1,4 @@
-Caeoma leucanthematum Link SPECIES
-=======
+# Caeoma leucanthematum Link SPECIES
 
 #### Status
 ACCEPTED

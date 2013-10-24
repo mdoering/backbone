@@ -1,5 +1,4 @@
-Biatorina proteiformis A. Massal. SPECIES
-=======
+# Biatorina proteiformis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

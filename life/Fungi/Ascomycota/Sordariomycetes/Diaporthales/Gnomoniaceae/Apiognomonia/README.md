@@ -1,5 +1,4 @@
-Apiognomonia von Höhnel, 1917 GENUS
-=======
+# Apiognomonia von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

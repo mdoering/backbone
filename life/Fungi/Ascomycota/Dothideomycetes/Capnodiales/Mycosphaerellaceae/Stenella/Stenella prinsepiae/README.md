@@ -1,5 +1,4 @@
-Stenella prinsepiae M.K. Khan, Budathoki & Kamal SPECIES
-=======
+# Stenella prinsepiae M.K. Khan, Budathoki & Kamal SPECIES
 
 #### Status
 ACCEPTED

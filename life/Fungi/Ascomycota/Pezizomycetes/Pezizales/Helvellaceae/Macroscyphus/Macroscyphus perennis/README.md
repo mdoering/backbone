@@ -1,5 +1,4 @@
-Macroscyphus perennis (Pers.) Gray SPECIES
-=======
+# Macroscyphus perennis (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropsalliota arginea (Berk. & Broome) Pegler & R.W. Rayner SPECIES
-=======
+# Micropsalliota arginea (Berk. & Broome) Pegler & R.W. Rayner SPECIES
 
 #### Status
 ACCEPTED

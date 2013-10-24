@@ -1,5 +1,4 @@
-Diplodina jurineae Hollós SPECIES
-=======
+# Diplodina jurineae Hollós SPECIES
 
 #### Status
 ACCEPTED

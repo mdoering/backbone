@@ -1,5 +1,4 @@
-Sporoblastia minuta (Schaer.) Trevis. SPECIES
-=======
+# Sporoblastia minuta (Schaer.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

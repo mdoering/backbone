@@ -1,5 +1,4 @@
-Proclausilocola Lom, 1959 GENUS
-=======
+# Proclausilocola Lom, 1959 GENUS
 
 #### Status
 ACCEPTED

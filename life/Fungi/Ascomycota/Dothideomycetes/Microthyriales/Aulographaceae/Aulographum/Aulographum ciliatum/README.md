@@ -1,5 +1,4 @@
-Aulographum ciliatum Berk. & M.A. Curtis SPECIES
-=======
+# Aulographum ciliatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

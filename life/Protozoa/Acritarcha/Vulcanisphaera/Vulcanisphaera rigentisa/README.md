@@ -1,5 +1,4 @@
-Vulcanisphaera rigentisa Yin Leiming, 1986 SPECIES
-=======
+# Vulcanisphaera rigentisa Yin Leiming, 1986 SPECIES
 
 #### Status
 ACCEPTED

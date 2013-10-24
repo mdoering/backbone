@@ -1,5 +1,4 @@
-Calathella ellisii Agerer, 1983 SPECIES
-=======
+# Calathella ellisii Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

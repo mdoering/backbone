@@ -1,5 +1,4 @@
-Tlecerina Furutani, 1983 GENUS
-=======
+# Tlecerina Furutani, 1983 GENUS
 
 #### Status
 ACCEPTED

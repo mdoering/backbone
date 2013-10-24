@@ -1,5 +1,4 @@
-Acanthodiophrya almae Puytorac & Dragesco, 1969 SPECIES
-=======
+# Acanthodiophrya almae Puytorac & Dragesco, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia epiphylla Schwein. SPECIES
-=======
+# Vermicularia epiphylla Schwein. SPECIES
 
 #### Status
 ACCEPTED

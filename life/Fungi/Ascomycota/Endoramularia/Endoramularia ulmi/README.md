@@ -1,5 +1,4 @@
-Endoramularia ulmi Petr., 1923 SPECIES
-=======
+# Endoramularia ulmi Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

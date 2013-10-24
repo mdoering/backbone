@@ -1,5 +1,4 @@
-Chroococcus cubicus N.L. Gardner SPECIES
-=======
+# Chroococcus cubicus N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora africana Parbery, 1971 SPECIES
-=======
+# Phyllachora africana Parbery, 1971 SPECIES
 
 #### Status
 ACCEPTED

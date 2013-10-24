@@ -1,5 +1,4 @@
-Laestadia ailanthi Grove SPECIES
-=======
+# Laestadia ailanthi Grove SPECIES
 
 #### Status
 ACCEPTED

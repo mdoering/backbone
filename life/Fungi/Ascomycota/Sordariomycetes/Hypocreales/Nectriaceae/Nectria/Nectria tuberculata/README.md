@@ -1,14 +1,13 @@
-Polystigma tuberculatum (Traverso) Gola, 1930 SPECIES
-=======
+# Nectria tuberculata Traverso, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-L'Erbario Micologico di P. A. Saccardo 159 (1930)
+Rendiconti del Congresso Botanico di Palermo, 1902 42 (1902)
 
 #### Original name
 Nectria tuberculata Traverso, 1902

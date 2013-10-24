@@ -1,5 +1,4 @@
-Sonderia Kahl, 1928 GENUS
-=======
+# Sonderia Kahl, 1928 GENUS
 
 #### Status
 ACCEPTED

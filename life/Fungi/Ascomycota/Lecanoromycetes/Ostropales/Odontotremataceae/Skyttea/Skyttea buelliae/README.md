@@ -1,5 +1,4 @@
-Skyttea buelliae Sherwood, D. Hawksw. & Coppins SPECIES
-=======
+# Skyttea buelliae Sherwood, D. Hawksw. & Coppins SPECIES
 
 #### Status
 ACCEPTED

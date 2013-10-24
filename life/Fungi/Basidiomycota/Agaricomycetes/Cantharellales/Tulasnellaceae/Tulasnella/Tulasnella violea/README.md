@@ -1,14 +1,13 @@
-Hypochnus violeus Quél., 1883 SPECIES
-=======
+# Tulasnella violea (Quél.) Bourdot & Galzin, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 11: 420 (1883)
+Bull. Soc. mycol. Fr. 25: 31 (1909)
 
 #### Original name
 Hypochnus violeus Quél., 1883

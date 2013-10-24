@@ -1,5 +1,4 @@
-Pertusaria neilgherrensis (Müll. Arg.) D.D. Awasthi & P. Srivast. SPECIES
-=======
+# Pertusaria neilgherrensis (Müll. Arg.) D.D. Awasthi & P. Srivast. SPECIES
 
 #### Status
 ACCEPTED

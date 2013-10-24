@@ -1,5 +1,4 @@
-Porphyrellus heterospermus R. Heim & Perr.-Bertr. SPECIES
-=======
+# Porphyrellus heterospermus R. Heim & Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

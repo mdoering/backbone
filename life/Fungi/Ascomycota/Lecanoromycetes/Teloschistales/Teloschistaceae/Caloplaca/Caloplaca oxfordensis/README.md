@@ -1,5 +1,4 @@
-Caloplaca oxfordensis Fink ex J. Hedrick SPECIES
-=======
+# Caloplaca oxfordensis Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus castaneus (Pat.) Sacc. SPECIES
-=======
+# Cantharellus castaneus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

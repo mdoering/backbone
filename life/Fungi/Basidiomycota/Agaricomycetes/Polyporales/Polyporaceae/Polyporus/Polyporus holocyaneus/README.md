@@ -1,5 +1,4 @@
-Polyporus holocyaneus G.F. Atk. SPECIES
-=======
+# Polyporus holocyaneus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

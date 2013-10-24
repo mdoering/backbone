@@ -1,5 +1,4 @@
-Leotia gyromitraeformis Bánhegyi SPECIES
-=======
+# Leotia gyromitraeformis Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

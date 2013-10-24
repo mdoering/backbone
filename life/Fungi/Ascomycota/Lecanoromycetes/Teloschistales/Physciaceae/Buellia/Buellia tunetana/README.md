@@ -1,5 +1,4 @@
-Buellia tunetana (Hue) Zahlbr. SPECIES
-=======
+# Buellia tunetana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

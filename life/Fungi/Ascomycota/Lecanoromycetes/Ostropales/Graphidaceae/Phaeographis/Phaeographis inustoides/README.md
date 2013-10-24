@@ -1,5 +1,4 @@
-Phaeographis inustoides Fink SPECIES
-=======
+# Phaeographis inustoides Fink SPECIES
 
 #### Status
 ACCEPTED

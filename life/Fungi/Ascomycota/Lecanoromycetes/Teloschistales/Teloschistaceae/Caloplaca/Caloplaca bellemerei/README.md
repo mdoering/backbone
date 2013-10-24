@@ -1,5 +1,4 @@
-Caloplaca bellemerei Hafellner SPECIES
-=======
+# Caloplaca bellemerei Hafellner SPECIES
 
 #### Status
 ACCEPTED

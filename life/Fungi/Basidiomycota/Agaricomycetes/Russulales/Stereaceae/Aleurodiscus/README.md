@@ -1,17 +1,16 @@
-Gloeosoma Bres. GENUS
-=======
+# Aleurodiscus Rabenhorst ex J. Schröter, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 18(1/3): 51 (1920)
+null
 
 #### Original name
-Gloeosoma Bres.
+null
 
 ### Remarks
 null

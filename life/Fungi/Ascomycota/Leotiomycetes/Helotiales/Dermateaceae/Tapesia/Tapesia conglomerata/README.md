@@ -1,5 +1,4 @@
-Tapesia conglomerata Velen. SPECIES
-=======
+# Tapesia conglomerata Velen. SPECIES
 
 #### Status
 ACCEPTED

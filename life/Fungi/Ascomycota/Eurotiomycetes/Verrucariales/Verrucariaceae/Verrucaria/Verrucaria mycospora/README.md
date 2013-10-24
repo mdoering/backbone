@@ -1,5 +1,4 @@
-Verrucaria mycospora C. Knight SPECIES
-=======
+# Verrucaria mycospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

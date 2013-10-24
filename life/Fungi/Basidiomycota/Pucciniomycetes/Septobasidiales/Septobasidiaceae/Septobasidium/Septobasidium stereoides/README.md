@@ -1,5 +1,4 @@
-Septobasidium stereoides Höhn. & Litsch., 1907 SPECIES
-=======
+# Septobasidium stereoides Höhn. & Litsch., 1907 SPECIES
 
 #### Status
 ACCEPTED

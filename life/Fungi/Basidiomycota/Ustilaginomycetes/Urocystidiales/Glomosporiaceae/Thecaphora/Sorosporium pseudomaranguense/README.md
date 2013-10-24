@@ -1,5 +1,4 @@
-Sorosporium pseudomaranguense Zundel SPECIES
-=======
+# Sorosporium pseudomaranguense Zundel SPECIES
 
 #### Status
 ACCEPTED

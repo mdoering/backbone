@@ -1,5 +1,4 @@
-Gloeocoryneum angamosense Matsush., 1995 SPECIES
-=======
+# Gloeocoryneum angamosense Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

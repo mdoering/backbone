@@ -1,17 +1,16 @@
-Boletus nummulariformis L. Marchand, 1826 SPECIES
-=======
+# Polyporus ciliatus Fr., 1815 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bijdr. Natuurk. Wetensch. 1: 145 (1826)
+Observ. mycol. (Havniae) 1: 123 (1815)
 
 #### Original name
-Boletus nummulariformis L. Marchand, 1826
+Polyporus ciliatus Fr., 1815
 
 ### Remarks
 null

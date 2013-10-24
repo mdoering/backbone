@@ -1,5 +1,4 @@
-Ophiobolus xanthii (Lasch) Sacc. SPECIES
-=======
+# Ophiobolus xanthii (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

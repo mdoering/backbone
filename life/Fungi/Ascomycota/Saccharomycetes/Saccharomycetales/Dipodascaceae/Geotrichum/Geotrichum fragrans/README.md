@@ -1,14 +1,13 @@
-Geotrichum fici Goto, Yamak. & Yokots., 1975 SPECIES
-=======
+# Geotrichum fragrans (Berkhout) Morenz, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxonomie und medizinische Bedeutung der zur Gattung Geotrichum Link gehorenden Arten (Med. Habil. -Schrift, Magdeburg) 178 (1960)
 
 #### Original name
 null

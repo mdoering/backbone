@@ -1,5 +1,4 @@
-Stylonychia auriformis Dumas, 1937 SPECIES
-=======
+# Stylonychia auriformis Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

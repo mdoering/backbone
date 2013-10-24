@@ -1,5 +1,4 @@
-Omphalina subandina Singer SPECIES
-=======
+# Omphalina subandina Singer SPECIES
 
 #### Status
 ACCEPTED

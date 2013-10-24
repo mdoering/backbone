@@ -1,5 +1,4 @@
-Pomatodinium impatiens Cachon & Cachon-Enjumet SPECIES
-=======
+# Pomatodinium impatiens Cachon & Cachon-Enjumet SPECIES
 
 #### Status
 ACCEPTED

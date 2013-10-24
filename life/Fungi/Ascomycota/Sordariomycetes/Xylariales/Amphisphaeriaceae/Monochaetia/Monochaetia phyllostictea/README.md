@@ -1,5 +1,4 @@
-Monochaetia phyllostictea (Sacc.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia phyllostictea (Sacc.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

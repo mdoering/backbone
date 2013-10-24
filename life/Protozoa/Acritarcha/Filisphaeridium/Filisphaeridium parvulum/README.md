@@ -1,5 +1,4 @@
-Filisphaeridium parvulum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium parvulum (Uutela & Tynni, 1991) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

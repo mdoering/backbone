@@ -1,5 +1,4 @@
-Brevibacterium luteum Komagata and Iizuka, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacterium luteum Komagata and Iizuka, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

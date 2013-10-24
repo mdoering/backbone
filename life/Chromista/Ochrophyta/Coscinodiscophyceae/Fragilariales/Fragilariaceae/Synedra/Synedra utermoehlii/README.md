@@ -1,5 +1,4 @@
-Synedra utermoehlii Hustedt SPECIES
-=======
+# Synedra utermoehlii Hustedt SPECIES
 
 #### Status
 ACCEPTED

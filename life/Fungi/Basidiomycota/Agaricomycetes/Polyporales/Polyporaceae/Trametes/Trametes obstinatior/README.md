@@ -1,5 +1,4 @@
-Trametes obstinatior Corner SPECIES
-=======
+# Trametes obstinatior Corner SPECIES
 
 #### Status
 ACCEPTED

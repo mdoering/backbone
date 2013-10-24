@@ -1,5 +1,4 @@
-Puytoracia Bonnet, 1971 GENUS
-=======
+# Puytoracia Bonnet, 1971 GENUS
 
 #### Status
 ACCEPTED

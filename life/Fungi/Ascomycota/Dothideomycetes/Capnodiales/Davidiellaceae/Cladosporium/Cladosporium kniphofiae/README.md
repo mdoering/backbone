@@ -1,5 +1,4 @@
-Cladosporium kniphofiae Cooke SPECIES
-=======
+# Cladosporium kniphofiae Cooke SPECIES
 
 #### Status
 ACCEPTED

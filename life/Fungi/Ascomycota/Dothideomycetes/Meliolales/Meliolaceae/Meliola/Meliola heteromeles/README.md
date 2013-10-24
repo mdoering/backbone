@@ -1,5 +1,4 @@
-Meliola heteromeles (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Meliola heteromeles (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

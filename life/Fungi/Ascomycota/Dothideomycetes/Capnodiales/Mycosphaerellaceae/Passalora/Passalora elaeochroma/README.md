@@ -1,5 +1,4 @@
-Passalora elaeochroma (Sacc.) U. Braun & Crous SPECIES
-=======
+# Passalora elaeochroma (Sacc.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

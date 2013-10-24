@@ -1,5 +1,4 @@
-Rivularia dianae (O. Dragastan & I. Bucur) O. Dragastan SPECIES
-=======
+# Rivularia dianae (O. Dragastan & I. Bucur) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

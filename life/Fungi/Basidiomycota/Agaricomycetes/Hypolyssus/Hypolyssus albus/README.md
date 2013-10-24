@@ -1,5 +1,4 @@
-Hypolyssus albus (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Hypolyssus albus (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

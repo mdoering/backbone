@@ -1,5 +1,4 @@
-Punctelia crispa Marcelli, Jungbluth & Elix SPECIES
-=======
+# Punctelia crispa Marcelli, Jungbluth & Elix SPECIES
 
 #### Status
 ACCEPTED

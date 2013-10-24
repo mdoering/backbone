@@ -1,5 +1,4 @@
-Cronartium kemangae Racib. SPECIES
-=======
+# Cronartium kemangae Racib. SPECIES
 
 #### Status
 ACCEPTED

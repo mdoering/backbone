@@ -1,5 +1,4 @@
-Oidium ellipticum Sawada SPECIES
-=======
+# Oidium ellipticum Sawada SPECIES
 
 #### Status
 ACCEPTED

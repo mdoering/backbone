@@ -1,5 +1,4 @@
-Maireina maxima (Massee) W.B. Cooke SPECIES
-=======
+# Maireina maxima (Massee) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

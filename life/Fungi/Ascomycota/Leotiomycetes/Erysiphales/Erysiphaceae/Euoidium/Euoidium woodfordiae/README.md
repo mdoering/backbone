@@ -1,17 +1,16 @@
-Euoidium woodfordii Y.S. Paul & J.N. Kapoor SPECIES
-=======
+# Euoidium woodfordiae Y.S. Paul & J.N. Kapoor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 17(3): 302 (1987)
 
 #### Original name
-Euoidium woodfordii Y.S. Paul & J.N. Kapoor
+Euoidium woodfordiae Y.S. Paul & J.N. Kapoor
 
 ### Remarks
 null

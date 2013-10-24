@@ -1,5 +1,4 @@
-Myrioblepharis paradoxa Thaxter, 1895 SPECIES
-=======
+# Myrioblepharis paradoxa Thaxter, 1895 SPECIES
 
 #### Status
 ACCEPTED

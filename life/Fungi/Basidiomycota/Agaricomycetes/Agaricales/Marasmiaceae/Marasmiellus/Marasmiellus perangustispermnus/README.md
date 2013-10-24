@@ -1,5 +1,4 @@
-Marasmiellus perangustispermnus Singer SPECIES
-=======
+# Marasmiellus perangustispermnus Singer SPECIES
 
 #### Status
 ACCEPTED

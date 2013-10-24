@@ -1,17 +1,16 @@
-Lecania subsquamosa var. subsquamosa VARIETY
-=======
+# Halecania subsquamosa (Müll. Arg.) van den Boom & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3: 634 (1895)
+null
 
 #### Original name
-Lecania subsquamosa var. subsquamosa
+null
 
 ### Remarks
 null

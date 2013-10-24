@@ -1,5 +1,4 @@
-Nannoconus truittii subsp. truittii SUBSPECIES
-=======
+# Nannoconus truittii SPECIES
 
 #### Status
 ACCEPTED

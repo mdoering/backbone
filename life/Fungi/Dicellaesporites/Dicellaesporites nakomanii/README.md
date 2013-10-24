@@ -1,5 +1,4 @@
-Dicellaesporites nakomanii V.S. Ediger & Alisan SPECIES
-=======
+# Dicellaesporites nakomanii V.S. Ediger & Alisan SPECIES
 
 #### Status
 ACCEPTED

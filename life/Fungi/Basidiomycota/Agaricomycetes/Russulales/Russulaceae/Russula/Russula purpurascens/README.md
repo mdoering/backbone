@@ -1,5 +1,4 @@
-Russula purpurascens Bres. SPECIES
-=======
+# Russula purpurascens Bres. SPECIES
 
 #### Status
 ACCEPTED

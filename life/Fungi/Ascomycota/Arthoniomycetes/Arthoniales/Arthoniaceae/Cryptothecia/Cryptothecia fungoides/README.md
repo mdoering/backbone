@@ -1,5 +1,4 @@
-Cryptothecia fungoides Groenh. SPECIES
-=======
+# Cryptothecia fungoides Groenh. SPECIES
 
 #### Status
 ACCEPTED

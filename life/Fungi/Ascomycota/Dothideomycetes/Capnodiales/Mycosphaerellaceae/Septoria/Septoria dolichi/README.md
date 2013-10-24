@@ -1,5 +1,4 @@
-Septoria dolichi Berk. & M.A. Curtis SPECIES
-=======
+# Septoria dolichi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

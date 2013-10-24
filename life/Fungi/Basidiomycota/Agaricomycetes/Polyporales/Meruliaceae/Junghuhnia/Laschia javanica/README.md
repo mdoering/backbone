@@ -1,5 +1,4 @@
-Laschia javanica (Holterm.) Sacc. & Trotter SPECIES
-=======
+# Laschia javanica (Holterm.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

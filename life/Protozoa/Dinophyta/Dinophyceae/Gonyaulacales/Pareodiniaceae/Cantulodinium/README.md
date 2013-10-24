@@ -1,5 +1,4 @@
-Cantulodinium G. Alberti, 1961 GENUS
-=======
+# Cantulodinium G. Alberti, 1961 GENUS
 
 #### Status
 ACCEPTED

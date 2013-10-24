@@ -1,5 +1,4 @@
-Skyttea ramalinae (Müll. Arg.) Triebel SPECIES
-=======
+# Skyttea ramalinae (Müll. Arg.) Triebel SPECIES
 
 #### Status
 ACCEPTED

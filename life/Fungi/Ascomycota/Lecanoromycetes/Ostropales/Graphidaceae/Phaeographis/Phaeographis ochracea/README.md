@@ -1,5 +1,4 @@
-Phaeographis ochracea C.W. Dodge SPECIES
-=======
+# Phaeographis ochracea C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

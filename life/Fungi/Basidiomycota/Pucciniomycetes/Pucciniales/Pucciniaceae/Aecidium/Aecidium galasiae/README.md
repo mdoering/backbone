@@ -1,5 +1,4 @@
-Aecidium galasiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium galasiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

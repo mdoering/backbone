@@ -1,5 +1,4 @@
-Pseudocercospora ormosiae Y.L. Guo & Y.R. Lin SPECIES
-=======
+# Pseudocercospora ormosiae Y.L. Guo & Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Zygosaccharomycodes Nishiw. GENUS
-=======
+# Saccharomyces Meyen ex E.C. Hansen GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 78: 409 (1929)
+Arch. Naturgesch. 4(2): 100 (1838)
 
 #### Original name
-Zygosaccharomycodes Nishiw.
+Saccharomyces Meyen ex E.C. Hansen
 
 ### Remarks
 null

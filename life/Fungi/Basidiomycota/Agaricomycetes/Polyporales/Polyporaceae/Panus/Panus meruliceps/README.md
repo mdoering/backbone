@@ -1,5 +1,4 @@
-Panus meruliceps Peck SPECIES
-=======
+# Panus meruliceps Peck SPECIES
 
 #### Status
 ACCEPTED

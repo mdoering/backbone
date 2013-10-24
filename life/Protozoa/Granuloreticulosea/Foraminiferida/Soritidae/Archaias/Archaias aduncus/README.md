@@ -1,5 +1,4 @@
-Archaias aduncus (Fitchell & Moll) SPECIES
-=======
+# Archaias aduncus (Fitchell & Moll) SPECIES
 
 #### Status
 ACCEPTED

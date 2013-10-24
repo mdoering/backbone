@@ -1,14 +1,13 @@
-Pluteus purpuratus G. Stev., 1962 SPECIES
-=======
+# Lepiota purpurata (G. Stev.) E. Horak, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 16(1): 73 (1962)
+Sydowia 33: 129 (1980)
 
 #### Original name
 Pluteus purpuratus G. Stev., 1962

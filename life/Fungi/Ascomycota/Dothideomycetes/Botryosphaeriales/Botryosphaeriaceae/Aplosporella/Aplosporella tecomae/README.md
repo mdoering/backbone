@@ -1,5 +1,4 @@
-Aplosporella tecomae (Dearn.) Petr. & Syd. SPECIES
-=======
+# Aplosporella tecomae (Dearn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

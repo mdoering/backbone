@@ -1,5 +1,4 @@
-Ascochyta idaei Oudem. SPECIES
-=======
+# Ascochyta idaei Oudem. SPECIES
 
 #### Status
 ACCEPTED

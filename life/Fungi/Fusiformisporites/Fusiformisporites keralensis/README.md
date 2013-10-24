@@ -1,5 +1,4 @@
-Fusiformisporites keralensis Ramanujam & K.P. Rao SPECIES
-=======
+# Fusiformisporites keralensis Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

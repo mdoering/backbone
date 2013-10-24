@@ -1,5 +1,4 @@
-Orbitolina d'Orbigny, 1850 GENUS
-=======
+# Orbitolina d'Orbigny, 1850 GENUS
 
 #### Status
 ACCEPTED

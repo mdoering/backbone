@@ -1,17 +1,16 @@
-Polystigmella Jacz. & Natalina GENUS
-=======
+# Polystigma de Candolle, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Namalina, Mater. Mycol. Phytopath. 8: 163 (1931)
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 6: 164 (1815)
 
 #### Original name
-Polystigmella Jacz. & Natalina
+Polystigma de Candolle, 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora litseicola Seshadri, 1966 SPECIES
-=======
+# Phyllachora litseicola Seshadri, 1966 SPECIES
 
 #### Status
 ACCEPTED

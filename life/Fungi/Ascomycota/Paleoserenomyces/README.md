@@ -1,5 +1,4 @@
-Paleoserenomyces Currah, Stockey & B.A. LePage GENUS
-=======
+# Paleoserenomyces Currah, Stockey & B.A. LePage GENUS
 
 #### Status
 ACCEPTED

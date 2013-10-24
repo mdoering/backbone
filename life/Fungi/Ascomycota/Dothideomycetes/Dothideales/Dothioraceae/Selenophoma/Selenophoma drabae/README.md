@@ -1,5 +1,4 @@
-Selenophoma drabae (Fuckel) Petr. SPECIES
-=======
+# Selenophoma drabae (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

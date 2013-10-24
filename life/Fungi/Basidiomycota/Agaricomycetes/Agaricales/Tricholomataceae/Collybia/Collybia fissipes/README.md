@@ -1,5 +1,4 @@
-Collybia fissipes Maire SPECIES
-=======
+# Collybia fissipes Maire SPECIES
 
 #### Status
 ACCEPTED

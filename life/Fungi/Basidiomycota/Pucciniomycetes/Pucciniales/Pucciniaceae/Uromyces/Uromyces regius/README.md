@@ -1,5 +1,4 @@
-Uromyces regius Vestergr. SPECIES
-=======
+# Uromyces regius Vestergr. SPECIES
 
 #### Status
 ACCEPTED

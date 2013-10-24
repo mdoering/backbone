@@ -1,5 +1,4 @@
-Phyllopsora microdactyla (C. Knight) D.J. Galloway SPECIES
-=======
+# Phyllopsora microdactyla (C. Knight) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

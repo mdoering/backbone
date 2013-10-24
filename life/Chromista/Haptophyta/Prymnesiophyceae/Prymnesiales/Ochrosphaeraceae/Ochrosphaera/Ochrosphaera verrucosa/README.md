@@ -1,5 +1,4 @@
-Ochrosphaera verrucosa Schüssnig SPECIES
-=======
+# Ochrosphaera verrucosa Schüssnig SPECIES
 
 #### Status
 ACCEPTED

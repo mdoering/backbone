@@ -1,5 +1,4 @@
-Helotium daphninum Velen. SPECIES
-=======
+# Helotium daphninum Velen. SPECIES
 
 #### Status
 ACCEPTED

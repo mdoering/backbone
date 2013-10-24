@@ -1,5 +1,4 @@
-Helicominopsis tiliae Deighton SPECIES
-=======
+# Helicominopsis tiliae Deighton SPECIES
 
 #### Status
 ACCEPTED

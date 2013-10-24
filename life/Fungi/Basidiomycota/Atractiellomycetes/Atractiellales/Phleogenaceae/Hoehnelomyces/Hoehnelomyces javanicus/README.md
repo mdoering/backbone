@@ -1,5 +1,4 @@
-Hoehnelomyces javanicus Weese, 1920 SPECIES
-=======
+# Hoehnelomyces javanicus Weese, 1920 SPECIES
 
 #### Status
 ACCEPTED

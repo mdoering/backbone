@@ -1,5 +1,4 @@
-Oidium caricicola J.M. Yen & Chin C. Wang SPECIES
-=======
+# Oidium caricicola J.M. Yen & Chin C. Wang SPECIES
 
 #### Status
 ACCEPTED

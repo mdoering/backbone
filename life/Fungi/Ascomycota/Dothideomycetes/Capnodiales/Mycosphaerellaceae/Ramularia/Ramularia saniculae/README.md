@@ -1,5 +1,4 @@
-Ramularia saniculae Linh. SPECIES
-=======
+# Ramularia saniculae Linh. SPECIES
 
 #### Status
 ACCEPTED

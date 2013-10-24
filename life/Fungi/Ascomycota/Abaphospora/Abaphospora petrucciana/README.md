@@ -1,5 +1,4 @@
-Abaphospora petrucciana (Caldesi & de Not.) Kirschst. SPECIES
-=======
+# Abaphospora petrucciana (Caldesi & de Not.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

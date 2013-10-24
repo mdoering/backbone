@@ -1,5 +1,4 @@
-Reticulomyxidae FAMILY
-=======
+# Reticulomyxidae FAMILY
 
 #### Status
 ACCEPTED

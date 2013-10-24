@@ -1,5 +1,4 @@
-Parmelia grisea SPECIES
-=======
+# Parmelia grisea SPECIES
 
 #### Status
 ACCEPTED

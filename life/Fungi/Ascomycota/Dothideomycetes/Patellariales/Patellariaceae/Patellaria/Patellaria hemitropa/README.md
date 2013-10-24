@@ -1,5 +1,4 @@
-Patellaria hemitropa (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria hemitropa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

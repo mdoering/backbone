@@ -1,8 +1,7 @@
-Hysterium australe Duby, 1862 SPECIES
-=======
+# Gloniopsis australis (Duby) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Hysterium australe Duby, 1862
 
 ### Remarks
 null

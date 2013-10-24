@@ -1,5 +1,4 @@
-Hemimycena seegeri (Garrido) Raithelh. SPECIES
-=======
+# Hemimycena seegeri (Garrido) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

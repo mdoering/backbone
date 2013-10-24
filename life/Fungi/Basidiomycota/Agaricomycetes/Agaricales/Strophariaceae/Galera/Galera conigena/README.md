@@ -1,5 +1,4 @@
-Galera conigena Velen. SPECIES
-=======
+# Galera conigena Velen. SPECIES
 
 #### Status
 ACCEPTED

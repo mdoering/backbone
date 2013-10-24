@@ -1,5 +1,4 @@
-Marasmius rhodopus Bres. SPECIES
-=======
+# Marasmius rhodopus Bres. SPECIES
 
 #### Status
 ACCEPTED

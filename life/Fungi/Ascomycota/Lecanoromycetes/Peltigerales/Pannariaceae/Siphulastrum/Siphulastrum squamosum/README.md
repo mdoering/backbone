@@ -1,5 +1,4 @@
-Siphulastrum squamosum P. M. Jørg. SPECIES
-=======
+# Siphulastrum squamosum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

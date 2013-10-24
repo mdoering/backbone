@@ -1,5 +1,4 @@
-Verrucaria symbiotica Nyl. SPECIES
-=======
+# Verrucaria symbiotica Nyl. SPECIES
 
 #### Status
 ACCEPTED

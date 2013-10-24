@@ -1,5 +1,4 @@
-Pleuropyxis microsperma Corda SPECIES
-=======
+# Pleuropyxis microsperma Corda SPECIES
 
 #### Status
 ACCEPTED

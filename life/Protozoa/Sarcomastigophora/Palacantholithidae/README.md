@@ -1,5 +1,4 @@
-Palacantholithidae Kozur & Mostler, 1981 FAMILY
-=======
+# Palacantholithidae Kozur & Mostler, 1981 FAMILY
 
 #### Status
 ACCEPTED

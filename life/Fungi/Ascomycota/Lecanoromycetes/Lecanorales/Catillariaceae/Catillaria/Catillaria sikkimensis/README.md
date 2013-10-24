@@ -1,5 +1,4 @@
-Catillaria sikkimensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria sikkimensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

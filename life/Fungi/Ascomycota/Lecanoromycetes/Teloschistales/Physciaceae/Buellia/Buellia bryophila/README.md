@@ -1,5 +1,4 @@
-Buellia bryophila Körb. SPECIES
-=======
+# Buellia bryophila Körb. SPECIES
 
 #### Status
 ACCEPTED

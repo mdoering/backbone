@@ -1,5 +1,4 @@
-Salimicrobium album (Hao, Kocur, Komagata, 1985) emend. Yoon, Kang & Oh, 2007 SPECIES
-=======
+# Salimicrobium album (Hao, Kocur, Komagata, 1985) emend. Yoon, Kang & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

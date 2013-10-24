@@ -1,5 +1,4 @@
-Neosartorya laciniosa S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Neosartorya laciniosa S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

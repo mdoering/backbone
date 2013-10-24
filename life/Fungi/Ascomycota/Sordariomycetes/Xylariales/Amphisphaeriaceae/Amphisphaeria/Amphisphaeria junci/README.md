@@ -1,5 +1,4 @@
-Amphisphaeria junci Pat. SPECIES
-=======
+# Amphisphaeria junci Pat. SPECIES
 
 #### Status
 ACCEPTED

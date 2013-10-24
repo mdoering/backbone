@@ -1,5 +1,4 @@
-Bothroligotriletes Timofeev, 1958 GENUS
-=======
+# Bothroligotriletes Timofeev, 1958 GENUS
 
 #### Status
 ACCEPTED

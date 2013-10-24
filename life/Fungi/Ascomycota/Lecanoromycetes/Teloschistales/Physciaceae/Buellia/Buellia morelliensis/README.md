@@ -1,5 +1,4 @@
-Buellia morelliensis B. de Lesd. SPECIES
-=======
+# Buellia morelliensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

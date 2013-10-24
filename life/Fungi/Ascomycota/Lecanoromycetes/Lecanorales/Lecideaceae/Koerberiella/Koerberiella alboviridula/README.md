@@ -1,5 +1,4 @@
-Koerberiella alboviridula Motyka SPECIES
-=======
+# Koerberiella alboviridula Motyka SPECIES
 
 #### Status
 ACCEPTED

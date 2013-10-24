@@ -1,5 +1,4 @@
-Syncesia afromontana Ertz, Killmann, Sérus. & Eb. Fischer SPECIES
-=======
+# Syncesia afromontana Ertz, Killmann, Sérus. & Eb. Fischer SPECIES
 
 #### Status
 ACCEPTED

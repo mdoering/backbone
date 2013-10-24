@@ -1,5 +1,4 @@
-Cladina uncialis f. uncialis FORM
-=======
+# Cladina uncialis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladina uncialis f. uncialis
+null
 
 ### Remarks
 null

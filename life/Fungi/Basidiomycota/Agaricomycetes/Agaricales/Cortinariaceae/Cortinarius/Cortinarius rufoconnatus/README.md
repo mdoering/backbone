@@ -1,5 +1,4 @@
-Cortinarius rufoconnatus Rob. Henry SPECIES
-=======
+# Cortinarius rufoconnatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema lintearium (Mont.) Sacc. SPECIES
-=======
+# Sphaeronaema lintearium (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrotrama GENUS
-=======
+# Hygrotrama GENUS
 
 #### Status
 ACCEPTED

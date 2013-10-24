@@ -1,5 +1,4 @@
-Trichomyces axillae De Blaye {?} & Page {?} SPECIES
-=======
+# Trichomyces axillae De Blaye {?} & Page {?} SPECIES
 
 #### Status
 ACCEPTED

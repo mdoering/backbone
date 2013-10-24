@@ -1,5 +1,4 @@
-Muelleromyces indicus Kamat & Anahosur, 1968 SPECIES
-=======
+# Muelleromyces indicus Kamat & Anahosur, 1968 SPECIES
 
 #### Status
 ACCEPTED

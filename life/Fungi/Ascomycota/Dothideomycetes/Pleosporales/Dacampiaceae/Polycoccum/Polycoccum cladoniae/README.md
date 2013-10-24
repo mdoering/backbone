@@ -1,5 +1,4 @@
-Polycoccum cladoniae Diederich & D. Hawksw. SPECIES
-=======
+# Polycoccum cladoniae Diederich & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

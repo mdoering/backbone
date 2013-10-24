@@ -1,5 +1,4 @@
-Bothroligotriletum GENUS
-=======
+# Bothroligotriletum GENUS
 
 #### Status
 ACCEPTED

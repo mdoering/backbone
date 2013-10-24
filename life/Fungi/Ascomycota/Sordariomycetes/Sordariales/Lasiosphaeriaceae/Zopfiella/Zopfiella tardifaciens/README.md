@@ -1,14 +1,13 @@
-Triangularia tardifaciens Udagawa, 1980 SPECIES
-=======
+# Zopfiella tardifaciens (Udagawa) Guarro, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 21(3): 285 (1980)
+in Guarro & Cano, Trans. Br. mycol. Soc. 91(4): 591 (1988)
 
 #### Original name
 Triangularia tardifaciens Udagawa, 1980

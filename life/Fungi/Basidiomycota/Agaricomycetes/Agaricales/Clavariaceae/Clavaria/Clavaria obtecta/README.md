@@ -1,5 +1,4 @@
-Clavaria obtecta Britzelm. SPECIES
-=======
+# Clavaria obtecta Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria latebrosa Körb. SPECIES
-=======
+# Verrucaria latebrosa Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus hisingeri P. Karst. SPECIES
-=======
+# Polyporus hisingeri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

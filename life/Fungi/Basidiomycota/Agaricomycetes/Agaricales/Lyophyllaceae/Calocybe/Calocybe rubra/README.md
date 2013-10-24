@@ -1,5 +1,4 @@
-Calocybe rubra Rick ex Redhead & Singer SPECIES
-=======
+# Calocybe rubra Rick ex Redhead & Singer SPECIES
 
 #### Status
 ACCEPTED

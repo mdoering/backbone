@@ -1,5 +1,4 @@
-Lactarius cyanovirescens Verbeken SPECIES
-=======
+# Lactarius cyanovirescens Verbeken SPECIES
 
 #### Status
 ACCEPTED

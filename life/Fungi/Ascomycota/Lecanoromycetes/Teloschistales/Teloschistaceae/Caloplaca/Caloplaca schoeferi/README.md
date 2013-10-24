@@ -1,5 +1,4 @@
-Caloplaca schoeferi Poelt SPECIES
-=======
+# Caloplaca schoeferi Poelt SPECIES
 
 #### Status
 ACCEPTED

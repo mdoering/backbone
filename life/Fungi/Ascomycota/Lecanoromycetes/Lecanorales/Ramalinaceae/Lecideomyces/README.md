@@ -1,5 +1,4 @@
-Lecideomyces GENUS
-=======
+# Lecideomyces GENUS
 
 #### Status
 ACCEPTED

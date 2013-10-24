@@ -1,5 +1,4 @@
-Astasia shadowskii Korsikov SPECIES
-=======
+# Astasia shadowskii Korsikov SPECIES
 
 #### Status
 ACCEPTED

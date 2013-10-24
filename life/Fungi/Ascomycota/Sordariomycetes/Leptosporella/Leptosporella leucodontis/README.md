@@ -1,5 +1,4 @@
-Leptosporella leucodontis Racov. SPECIES
-=======
+# Leptosporella leucodontis Racov. SPECIES
 
 #### Status
 ACCEPTED

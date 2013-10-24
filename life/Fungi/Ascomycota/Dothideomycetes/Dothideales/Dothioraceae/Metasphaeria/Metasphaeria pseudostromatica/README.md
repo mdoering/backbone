@@ -1,5 +1,4 @@
-Metasphaeria pseudostromatica Rehm SPECIES
-=======
+# Metasphaeria pseudostromatica Rehm SPECIES
 
 #### Status
 ACCEPTED

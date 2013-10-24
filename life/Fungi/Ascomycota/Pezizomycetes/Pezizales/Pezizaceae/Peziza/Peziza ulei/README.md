@@ -1,5 +1,4 @@
-Peziza ulei G. Winter SPECIES
-=======
+# Peziza ulei G. Winter SPECIES
 
 #### Status
 ACCEPTED

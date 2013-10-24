@@ -1,5 +1,4 @@
-Scyphosphaera expansa Bukry & Percival, 1971 SPECIES
-=======
+# Scyphosphaera expansa Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

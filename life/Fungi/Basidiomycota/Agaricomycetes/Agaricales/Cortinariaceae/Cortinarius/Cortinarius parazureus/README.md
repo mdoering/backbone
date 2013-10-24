@@ -1,5 +1,4 @@
-Cortinarius parazureus E. Horak SPECIES
-=======
+# Cortinarius parazureus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridinium dalei (Indel. & Loeblich) Balech SPECIES
-=======
+# Peridinium dalei (Indel. & Loeblich) Balech SPECIES
 
 #### Status
 ACCEPTED

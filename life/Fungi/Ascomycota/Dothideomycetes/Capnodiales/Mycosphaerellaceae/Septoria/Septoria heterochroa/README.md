@@ -1,5 +1,4 @@
-Septoria heterochroa f. heterochroa FORM
-=======
+# Septoria heterochroa Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria heterochroa f. heterochroa
+Septoria heterochroa Desm.
 
 ### Remarks
 null

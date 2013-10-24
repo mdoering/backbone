@@ -1,5 +1,4 @@
-Uromyces spartinae Farl. SPECIES
-=======
+# Uromyces spartinae Farl. SPECIES
 
 #### Status
 ACCEPTED

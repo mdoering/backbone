@@ -1,5 +1,4 @@
-Ectothiorhodospiraceae FAMILY
-=======
+# Ectothiorhodospiraceae FAMILY
 
 #### Status
 ACCEPTED

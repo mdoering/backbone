@@ -1,5 +1,4 @@
-Puccinia melanoplaca Syd. {?} SPECIES
-=======
+# Puccinia melanoplaca Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

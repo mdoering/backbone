@@ -1,5 +1,4 @@
-Fusarium albocarneum (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Fusarium albocarneum (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

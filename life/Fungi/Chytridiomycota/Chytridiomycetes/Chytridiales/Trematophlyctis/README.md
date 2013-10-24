@@ -1,5 +1,4 @@
-Trematophlyctis Pat. GENUS
-=======
+# Trematophlyctis Pat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella subsanguinea (Ellis & Everh.) U. Braun, 1993 SPECIES
-=======
+# Stenella subsanguinea (Ellis & Everh.) U. Braun, 1993 SPECIES
 
 #### Status
 ACCEPTED

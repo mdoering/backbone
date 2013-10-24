@@ -1,5 +1,4 @@
-Appendiculella turpiniae (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella turpiniae (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

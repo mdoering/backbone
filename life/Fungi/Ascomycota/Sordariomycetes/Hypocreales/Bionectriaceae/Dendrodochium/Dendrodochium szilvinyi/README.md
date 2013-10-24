@@ -1,5 +1,4 @@
-Dendrodochium szilvinyi Dominik & Majchr. SPECIES
-=======
+# Dendrodochium szilvinyi Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanotus distinctus E. Horak SPECIES
-=======
+# Melanotus distinctus E. Horak SPECIES
 
 #### Status
 ACCEPTED

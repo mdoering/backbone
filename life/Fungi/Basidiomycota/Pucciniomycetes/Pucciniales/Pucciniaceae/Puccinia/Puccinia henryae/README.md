@@ -1,5 +1,4 @@
-Puccinia henryae Cummins SPECIES
-=======
+# Puccinia henryae Cummins SPECIES
 
 #### Status
 ACCEPTED

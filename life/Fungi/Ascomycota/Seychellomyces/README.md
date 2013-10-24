@@ -1,5 +1,4 @@
-Seychellomyces Matsush. GENUS
-=======
+# Seychellomyces Matsush. GENUS
 
 #### Status
 ACCEPTED

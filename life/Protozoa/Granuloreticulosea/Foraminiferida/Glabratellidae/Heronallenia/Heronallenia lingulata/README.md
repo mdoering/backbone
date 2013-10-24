@@ -1,5 +1,4 @@
-Heronallenia lingulata SPECIES
-=======
+# Heronallenia lingulata SPECIES
 
 #### Status
 ACCEPTED

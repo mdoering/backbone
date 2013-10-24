@@ -1,5 +1,4 @@
-Stigmateopsis GENUS
-=======
+# Stigmateopsis GENUS
 
 #### Status
 ACCEPTED

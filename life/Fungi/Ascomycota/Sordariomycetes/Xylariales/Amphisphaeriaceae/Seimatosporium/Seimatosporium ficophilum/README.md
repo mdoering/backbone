@@ -1,5 +1,4 @@
-Seimatosporium ficophilum Schulzer SPECIES
-=======
+# Seimatosporium ficophilum Schulzer SPECIES
 
 #### Status
 ACCEPTED

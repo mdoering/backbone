@@ -1,5 +1,4 @@
-Phyllosticta digitalis f. digitalis FORM
-=======
+# Phyllosticta digitalis Bellynck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Westend. & Wall. Herb. Crypt. no. 1053 (1855)
 
 #### Original name
-Phyllosticta digitalis f. digitalis
+Phyllosticta digitalis Bellynck
 
 ### Remarks
 null

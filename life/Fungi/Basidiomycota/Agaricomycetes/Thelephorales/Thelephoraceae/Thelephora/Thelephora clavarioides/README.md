@@ -1,5 +1,4 @@
-Thelephora clavarioides Rick SPECIES
-=======
+# Thelephora clavarioides Rick SPECIES
 
 #### Status
 ACCEPTED

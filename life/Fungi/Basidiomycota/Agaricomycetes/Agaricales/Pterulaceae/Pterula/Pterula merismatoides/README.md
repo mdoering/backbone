@@ -1,5 +1,4 @@
-Pterula merismatoides (Schwein.) Sacc. SPECIES
-=======
+# Pterula merismatoides (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

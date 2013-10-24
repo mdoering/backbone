@@ -1,14 +1,13 @@
-Quaternaria simplex Nitschke ex G.H. Otth, 1870 SPECIES
-=======
+# Leptomassaria simplex (Nitschke ex G.H. Otth) Petr., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 12(5): 474 (1914)
 
 #### Original name
 null

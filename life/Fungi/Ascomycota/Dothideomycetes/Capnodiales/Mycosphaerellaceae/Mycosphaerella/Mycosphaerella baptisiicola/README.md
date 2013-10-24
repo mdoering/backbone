@@ -1,5 +1,4 @@
-Mycosphaerella baptisiicola (Cooke) Earle SPECIES
-=======
+# Mycosphaerella baptisiicola (Cooke) Earle SPECIES
 
 #### Status
 ACCEPTED

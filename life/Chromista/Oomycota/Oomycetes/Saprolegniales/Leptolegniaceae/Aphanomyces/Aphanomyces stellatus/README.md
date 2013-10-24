@@ -1,5 +1,4 @@
-Aphanomyces stellatus de Bary, 1860 SPECIES
-=======
+# Aphanomyces stellatus de Bary, 1860 SPECIES
 
 #### Status
 ACCEPTED

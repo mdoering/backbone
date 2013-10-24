@@ -1,5 +1,4 @@
-Sirodesmium deshpandei Seshadri SPECIES
-=======
+# Sirodesmium deshpandei Seshadri SPECIES
 
 #### Status
 ACCEPTED

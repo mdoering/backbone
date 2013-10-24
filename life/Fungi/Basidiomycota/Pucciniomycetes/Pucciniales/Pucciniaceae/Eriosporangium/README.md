@@ -1,5 +1,4 @@
-Eriosporangium GENUS
-=======
+# Eriosporangium GENUS
 
 #### Status
 ACCEPTED

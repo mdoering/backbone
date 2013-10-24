@@ -1,5 +1,4 @@
-Nipponitella Hanzawa, 1938 GENUS
-=======
+# Nipponitella Hanzawa, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Monochaetia compta var. ramicola (Berl. & Bres.) Allesch., 1902 VARIETY
-=======
+# Seimatosporium rosae Corda, 1833 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(7): 673 (1902)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(13): 79 (1833)
 
 #### Original name
-Pestalotia compta var. ramicola Berl. & Bres., 1889
+Seimatosporium rosae Corda, 1833
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tulasnella irregularis Warcup & P.H.B. Talbot, 1980 SPECIES
-=======
+# Tulasnella irregularis Warcup & P.H.B. Talbot, 1980 SPECIES
 
 #### Status
 ACCEPTED

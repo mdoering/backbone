@@ -1,5 +1,4 @@
-Maculatipalma J. Fröhl. & K.D. Hyde GENUS
-=======
+# Maculatipalma J. Fröhl. & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothelium chlorogastricum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptothelium chlorogastricum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

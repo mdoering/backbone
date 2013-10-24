@@ -1,5 +1,4 @@
-Parietichytrium sarkarianum (A. Gaertn.) R. Yokoy., Salleh & D. Honda, 2007 SPECIES
-=======
+# Parietichytrium sarkarianum (A. Gaertn.) R. Yokoy., Salleh & D. Honda, 2007 SPECIES
 
 #### Status
 ACCEPTED

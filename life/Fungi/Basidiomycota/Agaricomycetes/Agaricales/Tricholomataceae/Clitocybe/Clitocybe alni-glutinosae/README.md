@@ -1,5 +1,4 @@
-Clitocybe alni-glutinosae Contu & Ruggero SPECIES
-=======
+# Clitocybe alni-glutinosae Contu & Ruggero SPECIES
 
 #### Status
 ACCEPTED

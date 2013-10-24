@@ -1,5 +1,4 @@
-Menegazzia pendula P. James, Aptroot, Sérus. & Diederich SPECIES
-=======
+# Menegazzia pendula P. James, Aptroot, Sérus. & Diederich SPECIES
 
 #### Status
 ACCEPTED

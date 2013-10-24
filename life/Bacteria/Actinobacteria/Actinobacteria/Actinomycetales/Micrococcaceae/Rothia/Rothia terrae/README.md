@@ -1,5 +1,4 @@
-Rothia terrae Yi-Ju Chou, 2008 SPECIES
-=======
+# Rothia terrae Yi-Ju Chou, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe ailanthicola A. Pande & V.G. Rao SPECIES
-=======
+# Diaporthe ailanthicola A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina genistae Hollós SPECIES
-=======
+# Diplodina genistae Hollós SPECIES
 
 #### Status
 ACCEPTED

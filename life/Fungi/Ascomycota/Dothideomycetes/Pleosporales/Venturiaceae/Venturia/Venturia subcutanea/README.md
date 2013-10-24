@@ -1,5 +1,4 @@
-Venturia subcutanea Dearn., 1917 SPECIES
-=======
+# Venturia subcutanea Dearn., 1917 SPECIES
 
 #### Status
 ACCEPTED

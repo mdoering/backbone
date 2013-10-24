@@ -1,5 +1,4 @@
-Micropeltis lourdesii (Toro) Bat. SPECIES
-=======
+# Micropeltis lourdesii (Toro) Bat. SPECIES
 
 #### Status
 ACCEPTED

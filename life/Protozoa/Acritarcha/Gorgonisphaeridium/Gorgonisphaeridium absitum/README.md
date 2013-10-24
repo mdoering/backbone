@@ -1,5 +1,4 @@
-Gorgonisphaeridium absitum Wicander, 1974 SPECIES
-=======
+# Gorgonisphaeridium absitum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

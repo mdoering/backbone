@@ -1,5 +1,4 @@
-Denitrobacterium Anderson et al., 2000 GENUS
-=======
+# Denitrobacterium Anderson et al., 2000 GENUS
 
 #### Status
 ACCEPTED

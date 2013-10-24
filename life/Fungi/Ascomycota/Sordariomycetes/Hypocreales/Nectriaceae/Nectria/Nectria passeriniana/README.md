@@ -1,5 +1,4 @@
-Nectria passeriniana Cooke SPECIES
-=======
+# Nectria passeriniana Cooke SPECIES
 
 #### Status
 ACCEPTED

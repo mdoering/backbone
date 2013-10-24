@@ -1,5 +1,4 @@
-Leptospira meyeri Yasuda et al., 1987 SPECIES
-=======
+# Leptospira meyeri Yasuda et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

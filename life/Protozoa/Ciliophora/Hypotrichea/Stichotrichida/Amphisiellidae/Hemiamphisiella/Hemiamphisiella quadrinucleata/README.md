@@ -1,8 +1,7 @@
-Uroleptoides quadrinucleata Foissner, 1984 SPECIES
-=======
+# Hemiamphisiella quadrinucleata (Foissner, 1984) Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

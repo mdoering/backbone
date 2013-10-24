@@ -1,5 +1,4 @@
-Mycosphaerella bixae Crous & Bench., 2000 SPECIES
-=======
+# Mycosphaerella bixae Crous & Bench., 2000 SPECIES
 
 #### Status
 ACCEPTED

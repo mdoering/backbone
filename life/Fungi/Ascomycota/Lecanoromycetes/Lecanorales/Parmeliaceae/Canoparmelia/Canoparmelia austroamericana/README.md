@@ -1,5 +1,4 @@
-Canoparmelia austroamericana Adler SPECIES
-=======
+# Canoparmelia austroamericana Adler SPECIES
 
 #### Status
 ACCEPTED

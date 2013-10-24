@@ -1,14 +1,13 @@
-Laestadia ulvae (M. Reed) Sacc. & Traverso SPECIES
-=======
+# Turgidosculum ulvae (M. Reed) Kohlm. & E. Kohlm., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 19: 1046 (1910)
+Bot. Jb. 92(2-3): 429 (1972)
 
 #### Original name
 Guignardia ulvae M. Reed, 1902

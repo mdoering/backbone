@@ -1,5 +1,4 @@
-Diplodina gypsophilae Hollós SPECIES
-=======
+# Diplodina gypsophilae Hollós SPECIES
 
 #### Status
 ACCEPTED

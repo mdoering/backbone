@@ -1,5 +1,4 @@
-Naevia diaphana Rehm SPECIES
-=======
+# Naevia diaphana Rehm SPECIES
 
 #### Status
 ACCEPTED

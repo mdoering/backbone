@@ -1,5 +1,4 @@
-Mycena cladophylla (Lév.) Gillet SPECIES
-=======
+# Mycena cladophylla (Lév.) Gillet SPECIES
 
 #### Status
 ACCEPTED

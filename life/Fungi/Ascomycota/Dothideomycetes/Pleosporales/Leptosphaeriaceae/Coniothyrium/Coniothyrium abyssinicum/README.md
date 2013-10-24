@@ -1,5 +1,4 @@
-Coniothyrium abyssinicum Tassi SPECIES
-=======
+# Coniothyrium abyssinicum Tassi SPECIES
 
 #### Status
 ACCEPTED

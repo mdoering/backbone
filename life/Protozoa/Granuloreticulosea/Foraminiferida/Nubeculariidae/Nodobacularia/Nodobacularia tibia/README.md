@@ -1,5 +1,4 @@
-Nodobacularia tibia SPECIES
-=======
+# Nodobacularia tibia SPECIES
 
 #### Status
 ACCEPTED

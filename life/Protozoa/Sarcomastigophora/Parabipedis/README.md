@@ -1,5 +1,4 @@
-Parabipedis Yeh & Cheng, 1996 GENUS
-=======
+# Parabipedis Yeh & Cheng, 1996 GENUS
 
 #### Status
 ACCEPTED

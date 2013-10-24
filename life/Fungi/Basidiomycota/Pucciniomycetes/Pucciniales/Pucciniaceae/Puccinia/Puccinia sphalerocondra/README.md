@@ -1,5 +1,4 @@
-Puccinia sphalerocondra Lindr. SPECIES
-=======
+# Puccinia sphalerocondra Lindr. SPECIES
 
 #### Status
 ACCEPTED

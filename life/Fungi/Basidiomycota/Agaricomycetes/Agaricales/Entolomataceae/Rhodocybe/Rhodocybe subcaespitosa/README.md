@@ -1,5 +1,4 @@
-Rhodocybe subcaespitosa Esteve-Rav. SPECIES
-=======
+# Rhodocybe subcaespitosa Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

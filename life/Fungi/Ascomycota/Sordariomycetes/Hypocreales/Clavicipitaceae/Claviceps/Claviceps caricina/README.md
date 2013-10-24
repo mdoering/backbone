@@ -1,5 +1,4 @@
-Claviceps caricina Griffiths SPECIES
-=======
+# Claviceps caricina Griffiths SPECIES
 
 #### Status
 ACCEPTED

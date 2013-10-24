@@ -1,5 +1,4 @@
-Graphina sophisticella Müll. Arg. SPECIES
-=======
+# Graphina sophisticella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

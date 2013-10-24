@@ -1,5 +1,4 @@
-Epichloea divisa Giard SPECIES
-=======
+# Epichloea divisa Giard SPECIES
 
 #### Status
 ACCEPTED

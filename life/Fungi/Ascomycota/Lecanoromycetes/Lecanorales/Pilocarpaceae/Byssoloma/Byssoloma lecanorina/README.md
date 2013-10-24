@@ -1,5 +1,4 @@
-Byssoloma lecanorina Zahlbr. SPECIES
-=======
+# Byssoloma lecanorina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella aberrans (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella aberrans (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

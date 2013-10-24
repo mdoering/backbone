@@ -1,17 +1,16 @@
-Spumaria alba var. solida Sturgis VARIETY
-=======
+# Mucilago crustacea F.H. Wigg., 1780 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Prim. fl. holsat. (Kiliae) 112 (1780)
 
 #### Original name
-Spumaria alba var. solida Sturgis
+Mucilago crustacea F.H. Wigg., 1780
 
 ### Remarks
 null

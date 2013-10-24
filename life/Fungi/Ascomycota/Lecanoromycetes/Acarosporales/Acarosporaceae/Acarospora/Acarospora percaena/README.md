@@ -1,5 +1,4 @@
-Acarospora percaena Ach. SPECIES
-=======
+# Acarospora percaena Ach. SPECIES
 
 #### Status
 ACCEPTED

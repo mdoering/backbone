@@ -1,5 +1,4 @@
-Stirtonia alba Groenh. ex Makhija & Patw. SPECIES
-=======
+# Stirtonia alba Groenh. ex Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

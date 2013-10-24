@@ -1,5 +1,4 @@
-Sclerodon GENUS
-=======
+# Sclerodon GENUS
 
 #### Status
 ACCEPTED

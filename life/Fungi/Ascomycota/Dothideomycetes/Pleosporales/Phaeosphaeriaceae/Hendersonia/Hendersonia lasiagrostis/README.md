@@ -1,5 +1,4 @@
-Hendersonia lasiagrostis Koshk. SPECIES
-=======
+# Hendersonia lasiagrostis Koshk. SPECIES
 
 #### Status
 ACCEPTED

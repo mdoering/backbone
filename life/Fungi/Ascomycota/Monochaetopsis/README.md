@@ -1,5 +1,4 @@
-Monochaetopsis Pat. GENUS
-=======
+# Monochaetopsis Pat. GENUS
 
 #### Status
 ACCEPTED

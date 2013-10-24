@@ -1,14 +1,13 @@
-Brachysporiella laxa (H.J. Huds.) M.B. Ellis, 1971 SPECIES
-=======
+# Paradendryphiopsis laxa (H.J. Huds.) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 125: 7 (1971)
+N. Z. Jl Bot. 17(2): 166 (1979)
 
 #### Original name
 Endophragmia laxa H.J. Huds., 1964

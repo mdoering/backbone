@@ -1,5 +1,4 @@
-Rhizophydium multiporum De Wild. SPECIES
-=======
+# Rhizophydium multiporum De Wild. SPECIES
 
 #### Status
 ACCEPTED

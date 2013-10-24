@@ -1,5 +1,4 @@
-Sphaeria rabenhorstii Berk. & Broome SPECIES
-=======
+# Sphaeria rabenhorstii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

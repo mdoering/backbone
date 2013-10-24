@@ -1,5 +1,4 @@
-Cercophora minuta Mukerji, R.N. Kumar & N. Singh SPECIES
-=======
+# Cercophora minuta Mukerji, R.N. Kumar & N. Singh SPECIES
 
 #### Status
 ACCEPTED

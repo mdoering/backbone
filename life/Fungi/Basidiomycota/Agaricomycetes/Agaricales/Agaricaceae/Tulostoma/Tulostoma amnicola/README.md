@@ -1,5 +1,4 @@
-Tulostoma amnicola Long & S. Ahmad SPECIES
-=======
+# Tulostoma amnicola Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

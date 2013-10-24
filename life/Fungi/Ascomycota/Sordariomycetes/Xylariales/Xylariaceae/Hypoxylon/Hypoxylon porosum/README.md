@@ -1,5 +1,4 @@
-Hypoxylon porosum Mont. SPECIES
-=======
+# Hypoxylon porosum Mont. SPECIES
 
 #### Status
 ACCEPTED

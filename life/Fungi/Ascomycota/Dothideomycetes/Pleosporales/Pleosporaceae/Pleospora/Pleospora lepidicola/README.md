@@ -1,5 +1,4 @@
-Pleospora lepidicola Tracy & Earle SPECIES
-=======
+# Pleospora lepidicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

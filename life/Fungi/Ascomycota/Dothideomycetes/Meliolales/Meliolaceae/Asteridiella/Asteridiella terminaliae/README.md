@@ -1,5 +1,4 @@
-Asteridiella terminaliae (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella terminaliae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

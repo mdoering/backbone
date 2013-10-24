@@ -1,5 +1,4 @@
-Diplodia officinalis Ellis & Everh. SPECIES
-=======
+# Diplodia officinalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

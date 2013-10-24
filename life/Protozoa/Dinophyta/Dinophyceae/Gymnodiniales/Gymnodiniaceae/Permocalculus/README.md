@@ -1,5 +1,4 @@
-Permocalculus G.F.Elliott, 1955 GENUS
-=======
+# Permocalculus G.F.Elliott, 1955 GENUS
 
 #### Status
 ACCEPTED

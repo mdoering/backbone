@@ -1,5 +1,4 @@
-Nigredo senecionicola (Arthur) Arthur SPECIES
-=======
+# Nigredo senecionicola (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

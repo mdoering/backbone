@@ -1,5 +1,4 @@
-Gyrothrix cubensis J. Mena & Mercado SPECIES
-=======
+# Gyrothrix cubensis J. Mena & Mercado SPECIES
 
 #### Status
 ACCEPTED

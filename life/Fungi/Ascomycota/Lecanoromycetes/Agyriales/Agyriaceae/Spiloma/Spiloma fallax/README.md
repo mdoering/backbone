@@ -1,5 +1,4 @@
-Spiloma fallax Ach. SPECIES
-=======
+# Spiloma fallax Ach. SPECIES
 
 #### Status
 ACCEPTED

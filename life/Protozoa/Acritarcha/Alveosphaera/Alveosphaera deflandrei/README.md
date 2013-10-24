@@ -1,5 +1,4 @@
-Alveosphaera deflandrei (Stockmans & Willière, 1963) Priewalder, 1987 SPECIES
-=======
+# Alveosphaera deflandrei (Stockmans & Willière, 1963) Priewalder, 1987 SPECIES
 
 #### Status
 ACCEPTED

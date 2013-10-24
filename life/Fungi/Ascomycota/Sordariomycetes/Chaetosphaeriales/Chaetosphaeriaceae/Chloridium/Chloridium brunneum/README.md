@@ -1,5 +1,4 @@
-Chloridium brunneum (Corda) Sacc. SPECIES
-=======
+# Chloridium brunneum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

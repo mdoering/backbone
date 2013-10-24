@@ -1,5 +1,4 @@
-Mycena cineroides V. Hintikka SPECIES
-=======
+# Mycena cineroides V. Hintikka SPECIES
 
 #### Status
 ACCEPTED

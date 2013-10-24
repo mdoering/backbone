@@ -1,5 +1,4 @@
-Sistotrema cinnabarinum Schwein. SPECIES
-=======
+# Sistotrema cinnabarinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

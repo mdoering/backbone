@@ -1,5 +1,4 @@
-Vezdaea flava Aptroot & Sparrius SPECIES
-=======
+# Vezdaea flava Aptroot & Sparrius SPECIES
 
 #### Status
 ACCEPTED

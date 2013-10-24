@@ -1,8 +1,7 @@
-Asteromella personata (Allesch.) H. Ruppr. SPECIES
-=======
+# Asteromella personatae (Allesch.) H. Ruppr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

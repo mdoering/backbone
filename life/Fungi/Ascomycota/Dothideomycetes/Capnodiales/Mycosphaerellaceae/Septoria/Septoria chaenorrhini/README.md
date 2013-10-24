@@ -1,5 +1,4 @@
-Septoria chaenorrhini H.C. Greene SPECIES
-=======
+# Septoria chaenorrhini H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

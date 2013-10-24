@@ -1,5 +1,4 @@
-Porina pustulosa Kremp. SPECIES
-=======
+# Porina pustulosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina euryspora Zahlbr. SPECIES
-=======
+# Rinodina euryspora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

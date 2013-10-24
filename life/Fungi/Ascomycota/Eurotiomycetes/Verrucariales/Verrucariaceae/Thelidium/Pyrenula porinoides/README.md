@@ -1,5 +1,4 @@
-Pyrenula porinoides Ach., 1814 SPECIES
-=======
+# Pyrenula porinoides Ach., 1814 SPECIES
 
 #### Status
 DOUBTFUL

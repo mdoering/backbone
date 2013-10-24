@@ -1,5 +1,4 @@
-Didymopsis ascophorae (Corda) Sacc. & Traverso SPECIES
-=======
+# Didymopsis ascophorae (Corda) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

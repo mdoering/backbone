@@ -1,5 +1,4 @@
-Peridinium sydneyense Thomasson SPECIES
-=======
+# Peridinium sydneyense Thomasson SPECIES
 
 #### Status
 ACCEPTED

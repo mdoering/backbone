@@ -1,14 +1,13 @@
-Cercospora catappae Henn., 1905 SPECIES
-=======
+# Pseudocercospora catappae (Henn.) Y.L. Guo & X.J. Liu, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 34: 56 (1905)
+Mycosystema 2: 230 (1989)
 
 #### Original name
 Cercospora catappae Henn., 1905

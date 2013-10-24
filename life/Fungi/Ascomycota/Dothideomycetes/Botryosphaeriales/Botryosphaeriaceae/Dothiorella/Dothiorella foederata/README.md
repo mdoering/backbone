@@ -1,5 +1,4 @@
-Dothiorella foederata McAlpine SPECIES
-=======
+# Dothiorella foederata McAlpine SPECIES
 
 #### Status
 ACCEPTED

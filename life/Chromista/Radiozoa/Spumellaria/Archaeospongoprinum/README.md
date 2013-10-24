@@ -1,5 +1,4 @@
-Archaeospongoprinum GENUS
-=======
+# Archaeospongoprinum GENUS
 
 #### Status
 ACCEPTED

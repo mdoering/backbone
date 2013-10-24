@@ -1,5 +1,4 @@
-Chalara vaccinii Carris, 1989 SPECIES
-=======
+# Chalara vaccinii Carris, 1989 SPECIES
 
 #### Status
 ACCEPTED

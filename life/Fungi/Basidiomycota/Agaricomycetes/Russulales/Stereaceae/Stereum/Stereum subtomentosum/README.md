@@ -1,17 +1,16 @@
-Stereum ochroleucum subsp. arcticum Fr. SUBSPECIES
-=======
+# Stereum subtomentosum Pouzar, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 639 (1874)
+Ceská Mykol. 18: 147 (1964)
 
 #### Original name
-Stereum ochroleucum subsp. arcticum Fr.
+Stereum subtomentosum Pouzar, 1964
 
 ### Remarks
 null

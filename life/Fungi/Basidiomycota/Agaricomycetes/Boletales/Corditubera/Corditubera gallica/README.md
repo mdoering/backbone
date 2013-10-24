@@ -1,5 +1,4 @@
-Corditubera gallica Malençon SPECIES
-=======
+# Corditubera gallica Malençon SPECIES
 
 #### Status
 ACCEPTED

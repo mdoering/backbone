@@ -1,5 +1,4 @@
-Spathidium liepoldi Kaltenbach, 1960 SPECIES
-=======
+# Spathidium liepoldi Kaltenbach, 1960 SPECIES
 
 #### Status
 ACCEPTED

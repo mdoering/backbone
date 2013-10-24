@@ -1,14 +1,13 @@
-Biatora carniolica Arnold SPECIES
-=======
+# Phaeopyxis carniolica (Arnold) Rambold & Triebel, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 46(3): 382 (1990)
 
 #### Original name
 Biatora carniolica Arnold

@@ -1,5 +1,4 @@
-Taphrina macrophylla W.W. Ray SPECIES
-=======
+# Taphrina macrophylla W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

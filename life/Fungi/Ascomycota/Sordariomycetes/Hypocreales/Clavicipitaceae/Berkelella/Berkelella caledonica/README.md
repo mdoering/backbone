@@ -1,8 +1,7 @@
-Hypomyces caledonicus Pat., 1887 SPECIES
-=======
+# Berkelella caledonica (Pat.) Sacc., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

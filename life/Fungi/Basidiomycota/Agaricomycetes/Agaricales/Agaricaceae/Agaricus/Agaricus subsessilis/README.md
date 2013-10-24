@@ -1,5 +1,4 @@
-Agaricus subsessilis Schumach. SPECIES
-=======
+# Agaricus subsessilis Schumach. SPECIES
 
 #### Status
 ACCEPTED

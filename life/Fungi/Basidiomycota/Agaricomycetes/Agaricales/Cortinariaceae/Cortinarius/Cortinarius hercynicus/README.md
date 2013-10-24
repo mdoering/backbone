@@ -1,5 +1,4 @@
-Cortinarius hercynicus (Pers.) M.M. Moser SPECIES
-=======
+# Cortinarius hercynicus (Pers.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

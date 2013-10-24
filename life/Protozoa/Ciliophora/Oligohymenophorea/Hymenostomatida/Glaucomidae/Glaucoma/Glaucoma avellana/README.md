@@ -1,5 +1,4 @@
-Glaucoma avellana Kahl, 1926 SPECIES
-=======
+# Glaucoma avellana Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

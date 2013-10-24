@@ -1,5 +1,4 @@
-Malbranchea bolognesii-chiurcoi Vuill., Pollacci & Naumov SPECIES
-=======
+# Malbranchea bolognesii-chiurcoi Vuill., Pollacci & Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peronospora erythreae J.G. Kühn SPECIES
-=======
+# Peronospora erythraeae J.G. Kühn ex Gäum., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 5(4): 94 (1923)
 
 #### Original name
-Peronospora erythreae J.G. Kühn
+Peronospora erythraeae J.G. Kühn ex Gäum., 1923
 
 ### Remarks
 null

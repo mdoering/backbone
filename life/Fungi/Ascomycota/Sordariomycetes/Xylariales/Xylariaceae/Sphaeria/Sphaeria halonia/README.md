@@ -1,5 +1,4 @@
-Sphaeria halonia Fr. SPECIES
-=======
+# Sphaeria halonia Fr. SPECIES
 
 #### Status
 ACCEPTED

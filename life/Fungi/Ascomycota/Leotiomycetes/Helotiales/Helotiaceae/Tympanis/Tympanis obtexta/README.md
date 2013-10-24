@@ -1,5 +1,4 @@
-Tympanis obtexta Wallr. SPECIES
-=======
+# Tympanis obtexta Wallr. SPECIES
 
 #### Status
 ACCEPTED

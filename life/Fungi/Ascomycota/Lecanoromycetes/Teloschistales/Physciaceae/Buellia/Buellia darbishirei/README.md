@@ -1,5 +1,4 @@
-Buellia darbishirei I.M. Lamb SPECIES
-=======
+# Buellia darbishirei I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium mairei (M. Choisy & Werner) Werner SPECIES
-=======
+# Leptogium mairei (M. Choisy & Werner) Werner SPECIES
 
 #### Status
 ACCEPTED

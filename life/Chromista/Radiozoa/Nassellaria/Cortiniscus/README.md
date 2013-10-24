@@ -1,5 +1,4 @@
-Cortiniscus Haeckel, 1887 GENUS
-=======
+# Cortiniscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

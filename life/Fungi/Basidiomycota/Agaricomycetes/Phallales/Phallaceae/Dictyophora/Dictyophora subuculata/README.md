@@ -1,5 +1,4 @@
-Dictyophora subuculata Mont. SPECIES
-=======
+# Dictyophora subuculata Mont. SPECIES
 
 #### Status
 ACCEPTED

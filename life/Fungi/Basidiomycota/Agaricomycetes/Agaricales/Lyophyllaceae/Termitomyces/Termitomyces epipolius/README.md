@@ -1,5 +1,4 @@
-Termitomyces epipolius (Singer) L.D. Gómez SPECIES
-=======
+# Termitomyces epipolius (Singer) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

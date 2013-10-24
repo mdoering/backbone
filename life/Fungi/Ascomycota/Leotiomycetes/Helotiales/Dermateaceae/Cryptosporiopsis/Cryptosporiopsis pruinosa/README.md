@@ -1,14 +1,13 @@
-Lagynodella pruinosa (Peck) Petr., 1922 SPECIES
-=======
+# Cryptosporiopsis pruinosa (Peck) Wollenw., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow & Petrak, Annls mycol. 20(3/4): 207 (1922)
+Arb. biol. Reichsanst. Land-u. Forstw. 22: 527 (1938)
 
 #### Original name
 Sphaeronaema pruinosum Berk. & M.A. Curtis, 1874

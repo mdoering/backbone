@@ -1,5 +1,4 @@
-Hedraeophysa bulla Kent SPECIES
-=======
+# Hedraeophysa bulla Kent SPECIES
 
 #### Status
 ACCEPTED

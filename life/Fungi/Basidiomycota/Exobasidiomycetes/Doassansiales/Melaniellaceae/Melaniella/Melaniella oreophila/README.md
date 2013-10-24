@@ -1,5 +1,4 @@
-Melaniella oreophila (Syd.) R. Bauer, Vánky, Begerow & Oberw., 1999 SPECIES
-=======
+# Melaniella oreophila (Syd.) R. Bauer, Vánky, Begerow & Oberw., 1999 SPECIES
 
 #### Status
 ACCEPTED

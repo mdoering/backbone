@@ -1,5 +1,4 @@
-Lecidea squamata Flagey SPECIES
-=======
+# Lecidea squamata Flagey SPECIES
 
 #### Status
 ACCEPTED

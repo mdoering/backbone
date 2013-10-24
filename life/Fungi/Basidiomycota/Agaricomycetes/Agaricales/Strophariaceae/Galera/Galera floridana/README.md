@@ -1,5 +1,4 @@
-Galera floridana (Murrill) Murrill SPECIES
-=======
+# Galera floridana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

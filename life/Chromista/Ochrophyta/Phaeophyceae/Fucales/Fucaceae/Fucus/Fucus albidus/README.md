@@ -1,5 +1,4 @@
-Fucus albidus Esper, 1800 SPECIES
-=======
+# Fucus albidus Esper, 1800 SPECIES
 
 #### Status
 ACCEPTED

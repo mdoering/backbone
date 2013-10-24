@@ -1,5 +1,4 @@
-Phoma alternantherae Gutner SPECIES
-=======
+# Phoma alternantherae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium lagena (Delitsch) Stolk & Samson, 1983 SPECIES
-=======
+# Penicillium lagena (Delitsch) Stolk & Samson, 1983 SPECIES
 
 #### Status
 DOUBTFUL

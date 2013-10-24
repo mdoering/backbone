@@ -1,5 +1,4 @@
-Calenia yucatanensis J. Hedrick SPECIES
-=======
+# Calenia yucatanensis J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

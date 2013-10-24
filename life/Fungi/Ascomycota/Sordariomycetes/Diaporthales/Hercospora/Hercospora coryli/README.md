@@ -1,5 +1,4 @@
-Hercospora coryli Lar.N. Vassiljeva SPECIES
-=======
+# Hercospora coryli Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

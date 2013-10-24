@@ -1,5 +1,4 @@
-Syracosphaera exigua Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera exigua Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

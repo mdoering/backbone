@@ -1,5 +1,4 @@
-Cercospora euphorbiicola-tragiae Tharp SPECIES
-=======
+# Cercospora euphorbiicola-tragiae Tharp SPECIES
 
 #### Status
 ACCEPTED

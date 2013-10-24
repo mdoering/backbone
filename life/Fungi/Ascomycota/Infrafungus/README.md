@@ -1,5 +1,4 @@
-Infrafungus Cif. GENUS
-=======
+# Infrafungus Cif. GENUS
 
 #### Status
 ACCEPTED

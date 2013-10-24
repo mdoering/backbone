@@ -1,17 +1,16 @@
-Rinodina pyrina f. depauperata Szatala FORM
-=======
+# Rinodina pyrina (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 64: 196 (1881)
 
 #### Original name
-Rinodina pyrina f. depauperata Szatala
+Lichen pyrinus Ach.
 
 ### Remarks
 null

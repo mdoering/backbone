@@ -1,14 +1,13 @@
-Psathyrella camptopoda (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella camptopus (Peck) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 42(1): 127 (1950)
 
 #### Original name
 Agaricus camptopus Peck

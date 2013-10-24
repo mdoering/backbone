@@ -1,5 +1,4 @@
-Polystictus intybaceus Berk. SPECIES
-=======
+# Polystictus intybaceus Berk. SPECIES
 
 #### Status
 ACCEPTED

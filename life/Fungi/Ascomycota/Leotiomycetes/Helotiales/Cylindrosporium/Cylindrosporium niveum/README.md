@@ -1,14 +1,13 @@
-Cercosporella calthae A. Raabe, 1939 SPECIES
-=======
+# Cylindrosporium niveum Berk. & Broome, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 78: 75 (1939)
+Die Exantheme der Pflanzen 168 (1833)
 
 #### Original name
 Cylindrosporium niveum Berk. & Broome, 1875

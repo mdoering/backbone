@@ -1,5 +1,4 @@
-Entoloma proximum E. Horak SPECIES
-=======
+# Entoloma proximum E. Horak SPECIES
 
 #### Status
 ACCEPTED

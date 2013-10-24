@@ -1,5 +1,4 @@
-Naemospora rosae Fr. SPECIES
-=======
+# Naemospora rosae Fr. SPECIES
 
 #### Status
 ACCEPTED

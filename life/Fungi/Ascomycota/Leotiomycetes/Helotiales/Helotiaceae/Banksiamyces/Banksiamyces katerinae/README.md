@@ -1,5 +1,4 @@
-Banksiamyces katerinae G.W. Beaton, 1982 SPECIES
-=======
+# Banksiamyces katerinae G.W. Beaton, 1982 SPECIES
 
 #### Status
 ACCEPTED

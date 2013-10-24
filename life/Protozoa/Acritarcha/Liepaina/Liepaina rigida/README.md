@@ -1,5 +1,4 @@
-Liepaina rigida Eklund, 1990 SPECIES
-=======
+# Liepaina rigida Eklund, 1990 SPECIES
 
 #### Status
 ACCEPTED

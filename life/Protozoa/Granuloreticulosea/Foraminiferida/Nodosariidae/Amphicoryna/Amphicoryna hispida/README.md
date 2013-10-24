@@ -1,5 +1,4 @@
-Amphicoryna hispida SPECIES
-=======
+# Amphicoryna hispida SPECIES
 
 #### Status
 ACCEPTED

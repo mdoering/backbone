@@ -1,5 +1,4 @@
-Hyphomicrobium Stutzer & Hartleb, 1898 GENUS
-=======
+# Hyphomicrobium Stutzer & Hartleb, 1898 GENUS
 
 #### Status
 ACCEPTED

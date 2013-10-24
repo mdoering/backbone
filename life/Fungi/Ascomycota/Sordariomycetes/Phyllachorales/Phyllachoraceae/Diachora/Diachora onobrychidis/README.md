@@ -1,14 +1,13 @@
-Placosphaeria onobrychidis subsp. onobrychidis SUBSPECIES
-=======
+# Diachora onobrychidis (DC.) Jul. Müll., 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 283 (1881)
+Jb. wiss. Bot. 25: 693 (1893)
 
 #### Original name
 null

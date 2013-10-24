@@ -1,17 +1,16 @@
-Haplosporella alpina Ellis & Everh. SPECIES
-=======
+# Aplosporella alpina Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1894 46: 362 (1894)
 
 #### Original name
-Haplosporella alpina Ellis & Everh.
+Aplosporella alpina Ellis & Everh.
 
 ### Remarks
 null

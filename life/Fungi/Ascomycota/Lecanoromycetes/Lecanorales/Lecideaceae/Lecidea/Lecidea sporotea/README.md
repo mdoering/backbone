@@ -1,5 +1,4 @@
-Lecidea sporotea Stirt. SPECIES
-=======
+# Lecidea sporotea Stirt. SPECIES
 
 #### Status
 ACCEPTED

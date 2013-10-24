@@ -1,5 +1,4 @@
-Hebeloma oregonense var. oregonense VARIETY
-=======
+# Hebeloma oregonense A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Veiled species of Hebeloma in the western United States (Ann Arbor) 149 (1983)
 
 #### Original name
-Hebeloma oregonense var. oregonense
+Hebeloma oregonense A.H. Sm., V.S. Evenson & Mitchel
 
 ### Remarks
 null

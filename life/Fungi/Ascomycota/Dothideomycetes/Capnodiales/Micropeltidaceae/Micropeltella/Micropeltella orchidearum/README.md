@@ -1,5 +1,4 @@
-Micropeltella orchidearum (Henn.) Bat. SPECIES
-=======
+# Micropeltella orchidearum (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

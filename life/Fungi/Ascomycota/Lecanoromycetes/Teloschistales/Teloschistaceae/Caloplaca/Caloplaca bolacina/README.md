@@ -1,5 +1,4 @@
-Caloplaca bolacina (Tuck.) Herre SPECIES
-=======
+# Caloplaca bolacina (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

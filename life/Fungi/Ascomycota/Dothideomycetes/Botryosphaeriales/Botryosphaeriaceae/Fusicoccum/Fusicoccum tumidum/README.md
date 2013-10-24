@@ -1,5 +1,4 @@
-Fusicoccum tumidum SPECIES
-=======
+# Fusicoccum tumidum SPECIES
 
 #### Status
 ACCEPTED

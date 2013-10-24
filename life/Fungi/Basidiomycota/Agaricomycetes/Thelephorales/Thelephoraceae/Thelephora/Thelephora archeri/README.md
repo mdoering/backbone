@@ -1,5 +1,4 @@
-Thelephora archeri Berk. SPECIES
-=======
+# Thelephora archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

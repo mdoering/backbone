@@ -1,5 +1,4 @@
-Diplogrammatomyces GENUS
-=======
+# Diplogrammatomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dainella Brazhnikova, 1962 GENUS
-=======
+# Dainella Brazhnikova, 1962 GENUS
 
 #### Status
 ACCEPTED

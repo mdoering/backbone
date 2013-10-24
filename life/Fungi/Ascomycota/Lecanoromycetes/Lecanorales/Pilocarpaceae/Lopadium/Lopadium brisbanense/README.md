@@ -1,14 +1,13 @@
-Lecidea brisbanensis C. Knight SPECIES
-=======
+# Lopadium brisbanense (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Shirley, Proc. R. Soc. Qd. 6: 176 (1889)
+Cat. Lich. Univers. 4: 300 (1926)
 
 #### Original name
 Lecidea brisbanensis C. Knight

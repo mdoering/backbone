@@ -1,5 +1,4 @@
-Hormiactis hemisphaerica Oudem. SPECIES
-=======
+# Hormiactis hemisphaerica Oudem. SPECIES
 
 #### Status
 ACCEPTED

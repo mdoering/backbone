@@ -1,5 +1,4 @@
-Micropeltis vagabunda Speg. SPECIES
-=======
+# Micropeltis vagabunda Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hericium schestunovii (Nikol.) Nikol. SPECIES
-=======
+# Hericium schestunovii (Nikol.) Nikol. SPECIES
 
 #### Status
 ACCEPTED

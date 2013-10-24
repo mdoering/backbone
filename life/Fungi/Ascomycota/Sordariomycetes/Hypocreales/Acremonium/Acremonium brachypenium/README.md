@@ -1,5 +1,4 @@
-Acremonium brachypenium W. Gams, 1975 SPECIES
-=======
+# Acremonium brachypenium W. Gams, 1975 SPECIES
 
 #### Status
 ACCEPTED

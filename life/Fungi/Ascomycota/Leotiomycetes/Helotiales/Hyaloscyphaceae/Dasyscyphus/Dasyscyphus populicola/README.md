@@ -1,5 +1,4 @@
-Dasyscyphus populicola (Seaver) McKnight SPECIES
-=======
+# Dasyscyphus populicola (Seaver) McKnight SPECIES
 
 #### Status
 ACCEPTED

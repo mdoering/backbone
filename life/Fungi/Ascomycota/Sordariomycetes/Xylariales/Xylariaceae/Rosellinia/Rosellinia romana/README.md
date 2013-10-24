@@ -1,5 +1,4 @@
-Rosellinia romana Sacc. SPECIES
-=======
+# Rosellinia romana Sacc. SPECIES
 
 #### Status
 ACCEPTED

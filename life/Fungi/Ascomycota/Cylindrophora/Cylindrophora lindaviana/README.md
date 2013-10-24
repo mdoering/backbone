@@ -1,5 +1,4 @@
-Cylindrophora lindaviana Jaap SPECIES
-=======
+# Cylindrophora lindaviana Jaap SPECIES
 
 #### Status
 ACCEPTED

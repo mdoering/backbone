@@ -1,5 +1,4 @@
-Marasmius patellula Corner SPECIES
-=======
+# Marasmius patellula Corner SPECIES
 
 #### Status
 ACCEPTED

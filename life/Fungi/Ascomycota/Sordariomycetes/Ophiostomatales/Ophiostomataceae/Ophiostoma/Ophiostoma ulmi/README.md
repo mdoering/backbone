@@ -1,14 +1,13 @@
-Ceratocystis ulmi (Buisman) C. Moreau, 1952 SPECIES
-=======
+# Ophiostoma ulmi (Buisman) Nannf., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
+in Melin & Nannfeldt, Svensk Skogsvårdsförening Tidskr. , Hafte 32(3-4): 408 (1934)
 
 #### Original name
 Ceratostomella ulmi Buisman, 1932

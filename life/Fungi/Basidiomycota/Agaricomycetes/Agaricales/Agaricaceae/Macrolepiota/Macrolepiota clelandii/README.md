@@ -1,5 +1,4 @@
-Macrolepiota clelandii Grgur., 1997 SPECIES
-=======
+# Macrolepiota clelandii Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

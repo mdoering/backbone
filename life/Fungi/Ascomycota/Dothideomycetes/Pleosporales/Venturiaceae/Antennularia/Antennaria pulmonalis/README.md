@@ -1,5 +1,4 @@
-Antennaria pulmonalis Redaelli, 1925 SPECIES
-=======
+# Antennaria pulmonalis Redaelli, 1925 SPECIES
 
 #### Status
 ACCEPTED

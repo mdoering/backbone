@@ -1,5 +1,4 @@
-Lecanora obscura H. Magn. SPECIES
-=======
+# Lecanora obscura H. Magn. SPECIES
 
 #### Status
 ACCEPTED

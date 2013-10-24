@@ -1,5 +1,4 @@
-Polymorphina aculeata d'Orbigny, 1850 SPECIES
-=======
+# Polymorphina aculeata d'Orbigny, 1850 SPECIES
 
 #### Status
 ACCEPTED

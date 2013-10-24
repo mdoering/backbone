@@ -1,5 +1,4 @@
-Conocybe spartea (Fr.) Konrad & Maubl. SPECIES
-=======
+# Conocybe spartea (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

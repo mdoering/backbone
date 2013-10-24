@@ -1,5 +1,4 @@
-Sphaerulina hederae Chona, Munjal & Bajaj SPECIES
-=======
+# Sphaerulina hederae Chona, Munjal & Bajaj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium fastigatum Lichtw. & M.C. Williams, 1992 SPECIES
-=======
+# Smittium fastigatum Lichtw. & M.C. Williams, 1992 SPECIES
 
 #### Status
 ACCEPTED

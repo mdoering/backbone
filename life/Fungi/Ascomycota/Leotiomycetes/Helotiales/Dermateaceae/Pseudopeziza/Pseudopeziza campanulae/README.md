@@ -1,5 +1,4 @@
-Pseudopeziza campanulae Anchab. SPECIES
-=======
+# Pseudopeziza campanulae Anchab. SPECIES
 
 #### Status
 ACCEPTED

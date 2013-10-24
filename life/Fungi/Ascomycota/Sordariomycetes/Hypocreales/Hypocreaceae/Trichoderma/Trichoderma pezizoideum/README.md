@@ -1,5 +1,4 @@
-Trichoderma pezizoideum Wallr. SPECIES
-=======
+# Trichoderma pezizoideum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia masonii Elix SPECIES
-=======
+# Xanthoparmelia masonii Elix SPECIES
 
 #### Status
 ACCEPTED

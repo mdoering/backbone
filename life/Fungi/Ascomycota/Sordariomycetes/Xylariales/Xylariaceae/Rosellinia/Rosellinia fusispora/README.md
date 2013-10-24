@@ -1,5 +1,4 @@
-Rosellinia fusispora Kirschst. SPECIES
-=======
+# Rosellinia fusispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

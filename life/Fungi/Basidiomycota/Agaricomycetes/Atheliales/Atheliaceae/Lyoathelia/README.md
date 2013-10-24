@@ -1,5 +1,4 @@
-Lyoathelia Hjortstam & Ryvarden GENUS
-=======
+# Lyoathelia Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

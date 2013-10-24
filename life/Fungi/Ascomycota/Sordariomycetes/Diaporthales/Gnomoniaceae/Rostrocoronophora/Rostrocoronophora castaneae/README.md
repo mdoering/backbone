@@ -1,5 +1,4 @@
-Rostrocoronophora castaneae Bat. & J.A. Lima SPECIES
-=======
+# Rostrocoronophora castaneae Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

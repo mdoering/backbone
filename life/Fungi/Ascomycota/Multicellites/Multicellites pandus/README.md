@@ -1,5 +1,4 @@
-Multicellites pandus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites pandus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

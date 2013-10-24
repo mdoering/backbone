@@ -1,5 +1,4 @@
-Cochliobolus miakei I. Hino & Katum. SPECIES
-=======
+# Cochliobolus miakei I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

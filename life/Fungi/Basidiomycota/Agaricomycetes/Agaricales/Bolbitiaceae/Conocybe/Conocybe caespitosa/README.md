@@ -1,5 +1,4 @@
-Conocybe caespitosa (Murrill) Watling SPECIES
-=======
+# Conocybe caespitosa (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

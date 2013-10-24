@@ -1,17 +1,16 @@
-Hendersonia sabaleos var. sabaleos VARIETY
-=======
+# Hendersonia sabaleos Ces., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 21: 10 (1882)
 
 #### Original name
-Hendersonia sabaleos var. sabaleos
+Hendersonia sabaleos Ces., 1882
 
 ### Remarks
 null

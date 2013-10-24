@@ -1,5 +1,4 @@
-Coronophora paucispora K. Holm & L. Holm SPECIES
-=======
+# Coronophora paucispora K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

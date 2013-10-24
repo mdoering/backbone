@@ -1,5 +1,4 @@
-Lagenolingulina McCulloch, 1977 GENUS
-=======
+# Lagenolingulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

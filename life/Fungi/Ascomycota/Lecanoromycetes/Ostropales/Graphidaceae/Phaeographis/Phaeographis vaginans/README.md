@@ -1,5 +1,4 @@
-Phaeographis vaginans Zahlbr. SPECIES
-=======
+# Phaeographis vaginans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudovalsa malbrancheana Sacc. SPECIES
-=======
+# Pseudovalsa malbrancheana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia serratulae-caricis Kleb. SPECIES
-=======
+# Puccinia serratulae-caricis Kleb. SPECIES
 
 #### Status
 ACCEPTED

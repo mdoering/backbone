@@ -1,5 +1,4 @@
-Pyronema alborosella Naumov SPECIES
-=======
+# Pyronema alborosella Naumov SPECIES
 
 #### Status
 ACCEPTED

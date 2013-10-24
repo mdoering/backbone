@@ -1,5 +1,4 @@
-Lecanora pachylepidea (Hellb.) Th. Fr. SPECIES
-=======
+# Lecanora pachylepidea (Hellb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

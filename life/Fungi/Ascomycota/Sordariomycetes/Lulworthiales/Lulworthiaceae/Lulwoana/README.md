@@ -1,5 +1,4 @@
-Lulwoana Kohlm., Volkm.-Kohlm., J. Campb., Spatafora & Gräfenhan GENUS
-=======
+# Lulwoana Kohlm., Volkm.-Kohlm., J. Campb., Spatafora & Gräfenhan GENUS
 
 #### Status
 ACCEPTED

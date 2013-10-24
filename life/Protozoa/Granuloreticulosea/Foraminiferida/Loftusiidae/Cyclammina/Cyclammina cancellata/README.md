@@ -1,5 +1,4 @@
-Cyclammina cancellata SPECIES
-=======
+# Cyclammina cancellata SPECIES
 
 #### Status
 ACCEPTED

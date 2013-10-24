@@ -1,5 +1,4 @@
-Epicladonia lapponica Ihlen SPECIES
-=======
+# Epicladonia lapponica Ihlen SPECIES
 
 #### Status
 ACCEPTED

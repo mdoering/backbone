@@ -1,5 +1,4 @@
-Graphina depressa (Mont.) Zahlbr. SPECIES
-=======
+# Graphina depressa (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

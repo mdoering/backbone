@@ -1,5 +1,4 @@
-Protoparmelia pulchra Diederich, Aptroot & Sérus. SPECIES
-=======
+# Protoparmelia pulchra Diederich, Aptroot & Sérus. SPECIES
 
 #### Status
 ACCEPTED

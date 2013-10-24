@@ -1,5 +1,4 @@
-Xanthoria resendei Poelt & Tav. SPECIES
-=======
+# Xanthoria resendei Poelt & Tav. SPECIES
 
 #### Status
 ACCEPTED

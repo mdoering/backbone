@@ -1,5 +1,4 @@
-Peziza argentina Speg. SPECIES
-=======
+# Peziza argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

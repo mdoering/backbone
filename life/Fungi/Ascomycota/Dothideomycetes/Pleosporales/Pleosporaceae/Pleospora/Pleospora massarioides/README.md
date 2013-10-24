@@ -1,5 +1,4 @@
-Pleospora massarioides Feltgen SPECIES
-=======
+# Pleospora massarioides Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sticta cinereoglauca var. cinereoglauca VARIETY
-=======
+# Sticta cinereoglauca Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sticta cinereoglauca var. cinereoglauca
+Sticta cinereoglauca Hook. f. & Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsis stenocarpi (Tassi) Gutner SPECIES
-=======
+# Phomopsis stenocarpi (Tassi) Gutner SPECIES
 
 #### Status
 ACCEPTED

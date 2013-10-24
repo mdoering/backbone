@@ -1,5 +1,4 @@
-Rinodina cervina Vain. SPECIES
-=======
+# Rinodina cervina Vain. SPECIES
 
 #### Status
 ACCEPTED

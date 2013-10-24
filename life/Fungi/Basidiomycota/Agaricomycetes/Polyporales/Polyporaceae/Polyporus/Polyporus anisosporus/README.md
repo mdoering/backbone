@@ -1,5 +1,4 @@
-Polyporus anisosporus Mont. SPECIES
-=======
+# Polyporus anisosporus Mont. SPECIES
 
 #### Status
 ACCEPTED

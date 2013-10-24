@@ -1,5 +1,4 @@
-Pseudocercospora diclipterae (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora diclipterae (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

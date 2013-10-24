@@ -1,5 +1,4 @@
-Aspidisca bicornis Dumas, 1929 SPECIES
-=======
+# Aspidisca bicornis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

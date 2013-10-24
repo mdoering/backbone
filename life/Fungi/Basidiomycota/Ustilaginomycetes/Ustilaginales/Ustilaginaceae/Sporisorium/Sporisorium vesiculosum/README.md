@@ -1,17 +1,16 @@
-Sporisorium panici-carthaginense (Speg.) Vánky SPECIES
-=======
+# Sporisorium vesiculosum (Henn.) M. Piepenbr., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 86: 135 (2003)
 
 #### Original name
-Ustilago panici-carthagenensis Speg., 1898
+Ustilago vesiculosa Henn., 1896
 
 ### Remarks
 null

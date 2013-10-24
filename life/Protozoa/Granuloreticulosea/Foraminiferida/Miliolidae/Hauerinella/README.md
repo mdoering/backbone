@@ -1,5 +1,4 @@
-Hauerinella Schubert, 1920 GENUS
-=======
+# Hauerinella Schubert, 1920 GENUS
 
 #### Status
 ACCEPTED

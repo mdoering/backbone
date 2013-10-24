@@ -1,5 +1,4 @@
-Loxostomodes GENUS
-=======
+# Loxostomodes GENUS
 
 #### Status
 ACCEPTED

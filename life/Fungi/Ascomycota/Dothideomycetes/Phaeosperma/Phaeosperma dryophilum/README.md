@@ -1,5 +1,4 @@
-Phaeosperma dryophilum Nitschke ex G.H. Otth SPECIES
-=======
+# Phaeosperma dryophilum Nitschke ex G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

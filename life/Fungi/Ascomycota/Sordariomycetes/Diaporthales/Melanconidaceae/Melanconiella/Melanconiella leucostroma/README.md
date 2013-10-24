@@ -1,5 +1,4 @@
-Melanconiella leucostroma f. leucostroma FORM
-=======
+# Melanconiella leucostroma (Niessl & Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanconiella leucostroma f. leucostroma
+Melanconis leucostroma Niessl & Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arkellea R. Below, 1990 GENUS
-=======
+# Arkellea R. Below, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antennulariella alpina (W.B. Cooke) M.E. Barr, 1987 SPECIES
-=======
+# Antennulariella alpina (W.B. Cooke) M.E. Barr, 1987 SPECIES
 
 #### Status
 ACCEPTED

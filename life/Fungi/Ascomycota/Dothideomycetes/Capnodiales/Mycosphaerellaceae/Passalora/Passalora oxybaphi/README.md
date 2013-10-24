@@ -1,5 +1,4 @@
-Passalora oxybaphi (Ellis & Halst.) U. Braun SPECIES
-=======
+# Passalora oxybaphi (Ellis & Halst.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

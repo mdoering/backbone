@@ -1,5 +1,4 @@
-Lophodermium illiciicola S.J. Wang, Y.F. He, G.B. Ye & Y.R. Lin, 2006 SPECIES
-=======
+# Lophodermium illiciicola S.J. Wang, Y.F. He, G.B. Ye & Y.R. Lin, 2006 SPECIES
 
 #### Status
 ACCEPTED

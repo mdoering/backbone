@@ -1,5 +1,4 @@
-Harknessia longipes Harkn. SPECIES
-=======
+# Harknessia longipes Harkn. SPECIES
 
 #### Status
 ACCEPTED

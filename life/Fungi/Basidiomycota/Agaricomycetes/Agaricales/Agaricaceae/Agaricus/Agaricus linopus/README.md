@@ -1,5 +1,4 @@
-Agaricus linopus Kalchbr. SPECIES
-=======
+# Agaricus linopus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

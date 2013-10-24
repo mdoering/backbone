@@ -1,5 +1,4 @@
-Ramariopsis tortuosa R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis tortuosa R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

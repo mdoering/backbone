@@ -1,5 +1,4 @@
-Ascochyta balansae Speg. SPECIES
-=======
+# Ascochyta balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria guttulata Van Goor SPECIES
-=======
+# Oscillatoria guttulata Van Goor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina atroumbrina Vain. SPECIES
-=======
+# Rinodina atroumbrina Vain. SPECIES
 
 #### Status
 ACCEPTED

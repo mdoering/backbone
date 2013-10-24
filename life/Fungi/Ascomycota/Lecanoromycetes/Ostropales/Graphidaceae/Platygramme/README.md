@@ -1,5 +1,4 @@
-Platygramme Fée GENUS
-=======
+# Platygramme Fée GENUS
 
 #### Status
 ACCEPTED

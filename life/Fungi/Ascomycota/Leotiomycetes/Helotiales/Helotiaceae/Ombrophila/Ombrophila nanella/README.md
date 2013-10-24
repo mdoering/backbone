@@ -1,5 +1,4 @@
-Ombrophila nanella P. Karst. SPECIES
-=======
+# Ombrophila nanella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

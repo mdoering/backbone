@@ -1,5 +1,4 @@
-Lachnella rosea Schweers SPECIES
-=======
+# Lachnella rosea Schweers SPECIES
 
 #### Status
 ACCEPTED

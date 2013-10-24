@@ -1,5 +1,4 @@
-Leucoloma araneosa Fuckel SPECIES
-=======
+# Leucoloma araneosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

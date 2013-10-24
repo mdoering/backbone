@@ -1,5 +1,4 @@
-Paraceratocladium silvestre R.F. Castañeda, 1987 SPECIES
-=======
+# Paraceratocladium silvestre R.F. Castañeda, 1987 SPECIES
 
 #### Status
 ACCEPTED

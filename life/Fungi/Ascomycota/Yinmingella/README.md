@@ -1,5 +1,4 @@
-Yinmingella Goh, K.M. Tsui & K.D. Hyde GENUS
-=======
+# Yinmingella Goh, K.M. Tsui & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

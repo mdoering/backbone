@@ -1,5 +1,4 @@
-Blastenia obliquans (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia obliquans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Elina maris-alba N.J. Artemczuk SPECIES
-=======
+# Elina maris-albi N.J. Artemczuk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Veröff. Inst. Meeresf. Bremerhaven 13(2): 232 (1972)
 
 #### Original name
-Elina maris-alba N.J. Artemczuk
+Elina maris-albi N.J. Artemczuk
 
 ### Remarks
 null

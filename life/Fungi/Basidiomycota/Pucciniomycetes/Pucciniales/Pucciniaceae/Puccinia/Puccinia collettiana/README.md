@@ -1,5 +1,4 @@
-Puccinia collettiana Barclay SPECIES
-=======
+# Puccinia collettiana Barclay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria verrucosa Tul. {?} SPECIES
-=======
+# Calosphaeria verrucosa Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

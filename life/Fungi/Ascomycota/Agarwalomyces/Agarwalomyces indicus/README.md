@@ -1,5 +1,4 @@
-Agarwalomyces indicus R.K. Verma & Kamal, 1987 SPECIES
-=======
+# Agarwalomyces indicus R.K. Verma & Kamal, 1987 SPECIES
 
 #### Status
 ACCEPTED

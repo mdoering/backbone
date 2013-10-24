@@ -1,5 +1,4 @@
-Gloeosporium prunicola Ellis & Everh. SPECIES
-=======
+# Gloeosporium prunicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pedilospora tricornis G. Arnaud SPECIES
-=======
+# Pedilospora tricornis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

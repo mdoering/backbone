@@ -1,5 +1,4 @@
-Entophlyctis obscura Sparrow & Dogma SPECIES
-=======
+# Entophlyctis obscura Sparrow & Dogma SPECIES
 
 #### Status
 ACCEPTED

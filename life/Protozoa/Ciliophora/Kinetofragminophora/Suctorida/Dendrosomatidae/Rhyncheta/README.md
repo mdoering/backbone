@@ -1,5 +1,4 @@
-Rhyncheta Zenker, 1866 GENUS
-=======
+# Rhyncheta Zenker, 1866 GENUS
 
 #### Status
 ACCEPTED

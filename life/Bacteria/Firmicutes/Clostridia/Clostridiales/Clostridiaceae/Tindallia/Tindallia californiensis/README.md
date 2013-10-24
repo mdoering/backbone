@@ -1,5 +1,4 @@
-Tindallia californiensis Pikuta et al., 2003 SPECIES
-=======
+# Tindallia californiensis Pikuta et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

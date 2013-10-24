@@ -1,5 +1,4 @@
-Collybia texensis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Collybia texensis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

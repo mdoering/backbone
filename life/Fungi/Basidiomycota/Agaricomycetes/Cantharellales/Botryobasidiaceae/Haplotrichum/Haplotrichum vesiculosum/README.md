@@ -1,5 +1,4 @@
-Haplotrichum vesiculosum (Linder) Hol.-Jech. SPECIES
-=======
+# Haplotrichum vesiculosum (Linder) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

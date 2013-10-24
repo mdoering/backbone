@@ -1,5 +1,4 @@
-Microdiplodia magnoliae Grove SPECIES
-=======
+# Microdiplodia magnoliae Grove SPECIES
 
 #### Status
 ACCEPTED

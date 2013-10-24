@@ -1,5 +1,4 @@
-Thelidium larianum (A. Massal.) A. Massal. SPECIES
-=======
+# Thelidium larianum (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

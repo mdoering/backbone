@@ -1,5 +1,4 @@
-Clitocybe obola Fr. SPECIES
-=======
+# Clitocybe obola Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia leucothrix Nyl. SPECIES
-=======
+# Physcia leucothrix Nyl. SPECIES
 
 #### Status
 ACCEPTED

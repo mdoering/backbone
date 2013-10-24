@@ -1,14 +1,13 @@
-Biatora cerarufa Shirley SPECIES
-=======
+# Lecidea cerarufa (Shirley) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 217 (1894)
+Cat. Lich. Univers. 3: 746 (1925)
 
 #### Original name
 Biatora cerarufa Shirley

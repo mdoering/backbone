@@ -1,5 +1,4 @@
-Lecidea mourayamana Nyl. SPECIES
-=======
+# Lecidea mourayamana Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rigidoporus micromegas var. micromegas VARIETY
-=======
+# Rigidoporus lineatus (Pers.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 32(9): 478 (1905)
+Norw. Jl Bot. 19: 236 (1972)
 
 #### Original name
-Rigidoporus micromegas var. micromegas
+Polyporus lineatus Pers., 1827
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizocarpon megapotamicum (Malme) Kalb SPECIES
-=======
+# Rhizocarpon megapotamicum (Malme) Kalb SPECIES
 
 #### Status
 ACCEPTED

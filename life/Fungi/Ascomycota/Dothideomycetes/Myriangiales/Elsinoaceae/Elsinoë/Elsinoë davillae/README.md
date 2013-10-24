@@ -1,5 +1,4 @@
-Elsinoë davillae Viégas SPECIES
-=======
+# Elsinoë davillae Viégas SPECIES
 
 #### Status
 ACCEPTED

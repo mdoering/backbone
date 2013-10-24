@@ -1,5 +1,4 @@
-Gaeumanniella Petr. GENUS
-=======
+# Gaeumanniella Petr. GENUS
 
 #### Status
 ACCEPTED

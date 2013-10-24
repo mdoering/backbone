@@ -1,5 +1,4 @@
-Dendrothele amygdalispora Hjortstam, 1987 SPECIES
-=======
+# Dendrothele amygdalispora Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

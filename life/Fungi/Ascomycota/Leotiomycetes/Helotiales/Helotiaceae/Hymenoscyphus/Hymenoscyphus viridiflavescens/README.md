@@ -1,5 +1,4 @@
-Hymenoscyphus viridiflavescens (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus viridiflavescens (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis vancampenhoutii Mattlet SPECIES
-=======
+# Sterigmatocystis vancampenhoutii Mattlet SPECIES
 
 #### Status
 ACCEPTED

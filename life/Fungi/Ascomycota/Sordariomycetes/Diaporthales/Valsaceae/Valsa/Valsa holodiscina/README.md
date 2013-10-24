@@ -1,5 +1,4 @@
-Valsa holodiscina Fairm. SPECIES
-=======
+# Valsa holodiscina Fairm. SPECIES
 
 #### Status
 ACCEPTED

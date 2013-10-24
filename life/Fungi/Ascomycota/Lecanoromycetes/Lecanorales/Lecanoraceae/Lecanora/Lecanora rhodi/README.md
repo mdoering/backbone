@@ -1,5 +1,4 @@
-Lecanora rhodi Szatala SPECIES
-=======
+# Lecanora rhodi Szatala SPECIES
 
 #### Status
 ACCEPTED

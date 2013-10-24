@@ -1,5 +1,4 @@
-Paraphysomonas manubriata (H. R. Preisig & D. J. Hibberd) N. Vørs SPECIES
-=======
+# Paraphysomonas manubriata (H. R. Preisig & D. J. Hibberd) N. Vørs SPECIES
 
 #### Status
 ACCEPTED

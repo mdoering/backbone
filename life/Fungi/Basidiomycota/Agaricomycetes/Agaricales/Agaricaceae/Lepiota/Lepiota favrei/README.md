@@ -1,5 +1,4 @@
-Lepiota favrei Kühner ex Bon SPECIES
-=======
+# Lepiota favrei Kühner ex Bon SPECIES
 
 #### Status
 ACCEPTED

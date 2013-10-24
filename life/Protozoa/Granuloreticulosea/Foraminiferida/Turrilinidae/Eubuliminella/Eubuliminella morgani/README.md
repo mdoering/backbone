@@ -1,5 +1,4 @@
-Eubuliminella morgani (Andersen, 1961) SPECIES
-=======
+# Eubuliminella morgani (Andersen, 1961) SPECIES
 
 #### Status
 ACCEPTED

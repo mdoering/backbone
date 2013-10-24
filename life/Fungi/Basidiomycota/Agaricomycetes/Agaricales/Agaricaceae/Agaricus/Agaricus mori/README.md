@@ -1,5 +1,4 @@
-Agaricus mori Lév. SPECIES
-=======
+# Agaricus mori Lév. SPECIES
 
 #### Status
 ACCEPTED

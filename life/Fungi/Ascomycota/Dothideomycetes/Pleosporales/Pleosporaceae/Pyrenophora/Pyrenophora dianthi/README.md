@@ -1,5 +1,4 @@
-Pyrenophora dianthi (De Not.) Berl. SPECIES
-=======
+# Pyrenophora dianthi (De Not.) Berl. SPECIES
 
 #### Status
 ACCEPTED

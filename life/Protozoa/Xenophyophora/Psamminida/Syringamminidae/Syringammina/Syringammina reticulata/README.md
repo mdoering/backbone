@@ -1,5 +1,4 @@
-Syringammina reticulata Gooday, 1991 SPECIES
-=======
+# Syringammina reticulata Gooday, 1991 SPECIES
 
 #### Status
 ACCEPTED

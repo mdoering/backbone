@@ -1,5 +1,4 @@
-Rhizopogon vittadinii (Tul.) Zeller SPECIES
-=======
+# Rhizopogon vittadinii (Tul.) Zeller SPECIES
 
 #### Status
 ACCEPTED

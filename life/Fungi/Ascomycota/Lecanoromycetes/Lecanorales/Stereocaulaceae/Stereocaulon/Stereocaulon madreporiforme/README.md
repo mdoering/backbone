@@ -1,5 +1,4 @@
-Stereocaulon madreporiforme Hoffm. SPECIES
-=======
+# Stereocaulon madreporiforme Hoffm. SPECIES
 
 #### Status
 ACCEPTED

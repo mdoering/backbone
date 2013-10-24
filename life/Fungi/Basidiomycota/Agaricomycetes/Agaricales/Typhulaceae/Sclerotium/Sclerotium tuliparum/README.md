@@ -1,5 +1,4 @@
-Sclerotium tuliparum Schltdl., 1831 SPECIES
-=======
+# Sclerotium tuliparum Schltdl., 1831 SPECIES
 
 #### Status
 ACCEPTED

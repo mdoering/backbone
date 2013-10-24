@@ -1,5 +1,4 @@
-Sagediopsis (Sacc.) Vain. GENUS
-=======
+# Sagediopsis (Sacc.) Vain. GENUS
 
 #### Status
 ACCEPTED

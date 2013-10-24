@@ -1,5 +1,4 @@
-Laestadia effusa Rehm SPECIES
-=======
+# Laestadia effusa Rehm SPECIES
 
 #### Status
 ACCEPTED

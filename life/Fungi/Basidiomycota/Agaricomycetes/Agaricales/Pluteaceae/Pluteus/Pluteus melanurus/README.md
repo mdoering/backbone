@@ -1,5 +1,4 @@
-Pluteus melanurus (Cooke & Massee) Pegler SPECIES
-=======
+# Pluteus melanurus (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

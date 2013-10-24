@@ -1,5 +1,4 @@
-Schizoxylon pallescens Sherwood SPECIES
-=======
+# Schizoxylon pallescens Sherwood SPECIES
 
 #### Status
 ACCEPTED

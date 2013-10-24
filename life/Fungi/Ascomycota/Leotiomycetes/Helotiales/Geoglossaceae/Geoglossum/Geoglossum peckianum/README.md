@@ -1,14 +1,13 @@
-Cibalocoryne peckiana (Cooke) S. Imai, 1942 SPECIES
-=======
+# Geoglossum peckianum Cooke, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 56: 525 (1942)
+Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes 5 (1875)
 
 #### Original name
 Geoglossum peckianum Cooke, 1875

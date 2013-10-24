@@ -1,5 +1,4 @@
-Myxotrichum poluninii Apinis SPECIES
-=======
+# Myxotrichum poluninii Apinis SPECIES
 
 #### Status
 ACCEPTED

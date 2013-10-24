@@ -1,5 +1,4 @@
-Sphaerella jaapiana Kirschst. SPECIES
-=======
+# Sphaerella jaapiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

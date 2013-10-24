@@ -1,5 +1,4 @@
-Dipyxis Cummins & J.W. Baxter GENUS
-=======
+# Dipyxis Cummins & J.W. Baxter GENUS
 
 #### Status
 ACCEPTED

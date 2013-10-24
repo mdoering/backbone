@@ -1,5 +1,4 @@
-Protocreopsis fusigera (Berk. & Broome) Yoshim. Doi SPECIES
-=======
+# Protocreopsis fusigera (Berk. & Broome) Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

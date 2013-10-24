@@ -1,5 +1,4 @@
-Anabaena naviculoides F. E. Fritsch SPECIES
-=======
+# Anabaena naviculoides F. E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

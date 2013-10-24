@@ -1,5 +1,4 @@
-Hamatocanthoscypha polytrichi Raitv. & Järv SPECIES
-=======
+# Hamatocanthoscypha polytrichi Raitv. & Järv SPECIES
 
 #### Status
 ACCEPTED

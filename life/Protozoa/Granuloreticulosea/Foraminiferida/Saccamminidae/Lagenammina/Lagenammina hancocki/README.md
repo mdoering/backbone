@@ -1,5 +1,4 @@
-Lagenammina hancocki (Cushman & Mc Culloch, 1948) SPECIES
-=======
+# Lagenammina hancocki (Cushman & Mc Culloch, 1948) SPECIES
 
 #### Status
 ACCEPTED

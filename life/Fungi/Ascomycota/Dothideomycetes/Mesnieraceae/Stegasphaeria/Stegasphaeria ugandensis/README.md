@@ -1,5 +1,4 @@
-Stegasphaeria ugandensis Hansf. SPECIES
-=======
+# Stegasphaeria ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

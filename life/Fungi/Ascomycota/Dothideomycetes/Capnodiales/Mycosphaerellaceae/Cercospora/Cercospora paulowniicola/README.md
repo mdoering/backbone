@@ -1,5 +1,4 @@
-Cercospora paulowniicola Sawada SPECIES
-=======
+# Cercospora paulowniicola Sawada SPECIES
 
 #### Status
 ACCEPTED

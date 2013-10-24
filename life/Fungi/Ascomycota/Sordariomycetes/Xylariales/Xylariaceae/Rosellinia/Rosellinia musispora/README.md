@@ -1,5 +1,4 @@
-Rosellinia musispora Van Ryck. & Verbeken, 2000 SPECIES
-=======
+# Rosellinia musispora Van Ryck. & Verbeken, 2000 SPECIES
 
 #### Status
 ACCEPTED

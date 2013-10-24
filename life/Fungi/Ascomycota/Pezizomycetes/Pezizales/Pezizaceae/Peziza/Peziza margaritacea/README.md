@@ -1,5 +1,4 @@
-Peziza margaritacea Berk. SPECIES
-=======
+# Peziza margaritacea Berk. SPECIES
 
 #### Status
 ACCEPTED

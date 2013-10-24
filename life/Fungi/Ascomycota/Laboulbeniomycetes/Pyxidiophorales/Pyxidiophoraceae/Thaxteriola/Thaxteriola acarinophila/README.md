@@ -1,5 +1,4 @@
-Thaxteriola acarinophila J.A. Simpson & C. Stone SPECIES
-=======
+# Thaxteriola acarinophila J.A. Simpson & C. Stone SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella hymenodictyi (Petr.) U. Braun SPECIES
-=======
+# Mycovellosiella hymenodictyi (Petr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

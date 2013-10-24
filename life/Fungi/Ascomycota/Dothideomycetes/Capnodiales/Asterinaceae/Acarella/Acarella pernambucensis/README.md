@@ -1,5 +1,4 @@
-Acarella pernambucensis Bat. SPECIES
-=======
+# Acarella pernambucensis Bat. SPECIES
 
 #### Status
 ACCEPTED

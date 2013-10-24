@@ -1,5 +1,4 @@
-Celidium glaucomarium anon. SPECIES
-=======
+# Celidium glaucomarium anon. SPECIES
 
 #### Status
 ACCEPTED

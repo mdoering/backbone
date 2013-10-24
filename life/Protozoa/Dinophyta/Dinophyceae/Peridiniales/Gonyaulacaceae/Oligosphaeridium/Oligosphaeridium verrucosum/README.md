@@ -1,5 +1,4 @@
-Oligosphaeridium verrucosum R. J. Davey SPECIES
-=======
+# Oligosphaeridium verrucosum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

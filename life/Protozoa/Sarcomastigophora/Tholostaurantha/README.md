@@ -1,5 +1,4 @@
-Tholostaurantha Haeckel, 1887 GENUS
-=======
+# Tholostaurantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

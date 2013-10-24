@@ -1,5 +1,4 @@
-Septoria solanophila Speg. SPECIES
-=======
+# Septoria solanophila Speg. SPECIES
 
 #### Status
 ACCEPTED

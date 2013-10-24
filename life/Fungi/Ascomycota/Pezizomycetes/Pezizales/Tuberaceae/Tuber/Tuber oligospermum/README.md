@@ -1,5 +1,4 @@
-Tuber oligospermum (Tul. & C. Tul.) Trappe SPECIES
-=======
+# Tuber oligospermum (Tul. & C. Tul.) Trappe SPECIES
 
 #### Status
 ACCEPTED

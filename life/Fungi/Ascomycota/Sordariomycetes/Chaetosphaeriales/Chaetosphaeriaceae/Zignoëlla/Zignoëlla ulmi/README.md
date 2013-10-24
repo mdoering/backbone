@@ -1,5 +1,4 @@
-Zignoëlla ulmi F. Lamb. SPECIES
-=======
+# Zignoëlla ulmi F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

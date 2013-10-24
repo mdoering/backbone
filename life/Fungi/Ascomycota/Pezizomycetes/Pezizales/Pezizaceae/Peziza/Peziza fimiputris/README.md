@@ -1,5 +1,4 @@
-Peziza fimiputris Fr. SPECIES
-=======
+# Peziza fimiputris Fr. SPECIES
 
 #### Status
 ACCEPTED

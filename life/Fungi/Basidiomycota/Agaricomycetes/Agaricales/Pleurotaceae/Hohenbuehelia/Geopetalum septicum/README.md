@@ -1,5 +1,4 @@
-Geopetalum septicum (Fr.) Murrill SPECIES
-=======
+# Geopetalum septicum (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

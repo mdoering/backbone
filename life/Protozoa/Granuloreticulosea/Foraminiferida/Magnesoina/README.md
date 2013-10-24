@@ -1,5 +1,4 @@
-Magnesoina Patterson, 1987 GENUS
-=======
+# Magnesoina Patterson, 1987 GENUS
 
 #### Status
 ACCEPTED

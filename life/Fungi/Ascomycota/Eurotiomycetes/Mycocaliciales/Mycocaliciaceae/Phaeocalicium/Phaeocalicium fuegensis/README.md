@@ -1,5 +1,4 @@
-Phaeocalicium fuegensis Tibell SPECIES
-=======
+# Phaeocalicium fuegensis Tibell SPECIES
 
 #### Status
 ACCEPTED

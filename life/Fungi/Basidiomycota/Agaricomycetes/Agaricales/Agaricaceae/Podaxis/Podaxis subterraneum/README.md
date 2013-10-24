@@ -1,8 +1,7 @@
-Podaxon subterraneum S. Ahmad SPECIES
-=======
+# Podaxis subterraneum S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon subterraneum S. Ahmad
+Podaxis subterraneum S. Ahmad
 
 ### Remarks
 null

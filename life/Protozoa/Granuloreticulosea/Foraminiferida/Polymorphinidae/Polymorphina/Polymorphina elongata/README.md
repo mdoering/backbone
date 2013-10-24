@@ -1,5 +1,4 @@
-Polymorphina elongata d’Orbigny, 1902 SPECIES
-=======
+# Polymorphina elongata d’Orbigny, 1902 SPECIES
 
 #### Status
 ACCEPTED

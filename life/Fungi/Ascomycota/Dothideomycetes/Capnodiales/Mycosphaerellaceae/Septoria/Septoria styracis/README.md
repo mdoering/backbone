@@ -1,5 +1,4 @@
-Septoria styracis Göbelez SPECIES
-=======
+# Septoria styracis Göbelez SPECIES
 
 #### Status
 ACCEPTED

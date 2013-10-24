@@ -1,5 +1,4 @@
-Blastenia subimmersa Dzhur. SPECIES
-=======
+# Blastenia subimmersa Dzhur. SPECIES
 
 #### Status
 ACCEPTED

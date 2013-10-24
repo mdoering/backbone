@@ -1,17 +1,16 @@
-Meliola peringamalaensis Hosag. & Kamar. SPECIES
-=======
+# Meliola peringamalensis Hosag. & Kamar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar, Zoos' Print Journal 21(11): 2465 (2006)
 
 #### Original name
-Meliola peringamalaensis Hosag. & Kamar.
+Meliola peringamalensis Hosag. & Kamar.
 
 ### Remarks
 null

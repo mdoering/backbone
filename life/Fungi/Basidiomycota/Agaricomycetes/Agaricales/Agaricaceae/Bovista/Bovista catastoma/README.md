@@ -1,5 +1,4 @@
-Bovista catastoma Lloyd SPECIES
-=======
+# Bovista catastoma Lloyd SPECIES
 
 #### Status
 ACCEPTED

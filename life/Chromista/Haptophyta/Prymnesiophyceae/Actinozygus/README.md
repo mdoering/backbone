@@ -1,5 +1,4 @@
-Actinozygus Gartner, 1968 GENUS
-=======
+# Actinozygus Gartner, 1968 GENUS
 
 #### Status
 ACCEPTED

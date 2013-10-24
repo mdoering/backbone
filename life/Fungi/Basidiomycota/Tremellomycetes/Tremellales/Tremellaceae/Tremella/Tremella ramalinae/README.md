@@ -1,5 +1,4 @@
-Tremella ramalinae Diederich, 1996 SPECIES
-=======
+# Tremella ramalinae Diederich, 1996 SPECIES
 
 #### Status
 ACCEPTED

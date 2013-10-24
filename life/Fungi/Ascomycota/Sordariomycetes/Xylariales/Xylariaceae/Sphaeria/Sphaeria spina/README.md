@@ -1,5 +1,4 @@
-Sphaeria spina Schwein. SPECIES
-=======
+# Sphaeria spina Schwein. SPECIES
 
 #### Status
 ACCEPTED

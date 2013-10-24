@@ -1,5 +1,4 @@
-Tricharina flava (Fuckel) J. Moravec SPECIES
-=======
+# Tricharina flava (Fuckel) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

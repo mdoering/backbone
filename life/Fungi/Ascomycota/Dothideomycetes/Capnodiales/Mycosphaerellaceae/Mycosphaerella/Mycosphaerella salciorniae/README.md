@@ -1,5 +1,4 @@
-Mycosphaerella salciorniae (Auersw.) Lindau SPECIES
-=======
+# Mycosphaerella salciorniae (Auersw.) Lindau SPECIES
 
 #### Status
 ACCEPTED

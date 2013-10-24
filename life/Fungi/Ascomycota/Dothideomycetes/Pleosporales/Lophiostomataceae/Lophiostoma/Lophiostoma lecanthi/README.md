@@ -1,5 +1,4 @@
-Lophiostoma lecanthi Tilak SPECIES
-=======
+# Lophiostoma lecanthi Tilak SPECIES
 
 #### Status
 ACCEPTED

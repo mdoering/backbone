@@ -1,5 +1,4 @@
-Stereocaulon fibrillosum I.M. Lamb SPECIES
-=======
+# Stereocaulon fibrillosum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina erythraeae (Siemaszko) Karak. SPECIES
-=======
+# Marssonina erythraeae (Siemaszko) Karak. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simblum lorentzii Speg. SPECIES
-=======
+# Simblum lorentzii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium viburneum Allesch. SPECIES
-=======
+# Myxosporium viburneum Allesch. SPECIES
 
 #### Status
 ACCEPTED

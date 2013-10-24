@@ -1,5 +1,4 @@
-Pseudopyrenula subsulphurea Vain. SPECIES
-=======
+# Pseudopyrenula subsulphurea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus undabundus Berk. SPECIES
-=======
+# Agaricus undabundus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria confluens McAlpine SPECIES
-=======
+# Septoria confluens McAlpine SPECIES
 
 #### Status
 ACCEPTED

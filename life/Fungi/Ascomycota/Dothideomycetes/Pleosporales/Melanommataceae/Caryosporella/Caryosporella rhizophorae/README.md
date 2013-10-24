@@ -1,5 +1,4 @@
-Caryosporella rhizophorae Kohlm., 1985 SPECIES
-=======
+# Caryosporella rhizophorae Kohlm., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius streptosmus Rob. Henry SPECIES
-=======
+# Cortinarius streptosmus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

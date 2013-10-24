@@ -1,5 +1,4 @@
-Strickeria larreicola Speg. SPECIES
-=======
+# Strickeria larreicola Speg. SPECIES
 
 #### Status
 ACCEPTED

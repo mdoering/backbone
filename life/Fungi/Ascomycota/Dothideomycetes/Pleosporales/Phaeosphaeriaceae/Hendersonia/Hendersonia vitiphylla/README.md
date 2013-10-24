@@ -1,5 +1,4 @@
-Hendersonia vitiphylla var. vitiphylla VARIETY
-=======
+# Hendersonia vitiphylla Speschnew SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia vitiphylla var. vitiphylla
+Hendersonia vitiphylla Speschnew
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterina cryptocariicola Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Asterina cryptocariicola Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

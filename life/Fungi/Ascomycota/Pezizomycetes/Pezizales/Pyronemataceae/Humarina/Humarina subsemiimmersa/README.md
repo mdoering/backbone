@@ -1,5 +1,4 @@
-Humarina subsemiimmersa (Höhn.) Kanouse SPECIES
-=======
+# Humarina subsemiimmersa (Höhn.) Kanouse SPECIES
 
 #### Status
 ACCEPTED

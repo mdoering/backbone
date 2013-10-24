@@ -1,5 +1,4 @@
-Robertomyces mirabilis Starbäck SPECIES
-=======
+# Robertomyces mirabilis Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaecalyx calyculatus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
-=======
+# Chamaecalyx calyculatus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

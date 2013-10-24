@@ -1,5 +1,4 @@
-Diplodina thumeniana Kleb. SPECIES
-=======
+# Diplodina thumeniana Kleb. SPECIES
 
 #### Status
 ACCEPTED

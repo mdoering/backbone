@@ -1,17 +1,16 @@
-Biatorella ochrophora f. ochrophora FORM
-=======
+# Piccolia ochrophora (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 34(1): 91 (2004)
 
 #### Original name
-Biatorella ochrophora f. ochrophora
+Lecidea ochrophora Nyl.
 
 ### Remarks
 null

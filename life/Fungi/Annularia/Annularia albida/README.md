@@ -1,5 +1,4 @@
-Annularia albida Lebedeva SPECIES
-=======
+# Annularia albida Lebedeva SPECIES
 
 #### Status
 ACCEPTED

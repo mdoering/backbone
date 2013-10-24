@@ -1,5 +1,4 @@
-Ramularia aguirrei Speg. SPECIES
-=======
+# Ramularia aguirrei Speg. SPECIES
 
 #### Status
 ACCEPTED

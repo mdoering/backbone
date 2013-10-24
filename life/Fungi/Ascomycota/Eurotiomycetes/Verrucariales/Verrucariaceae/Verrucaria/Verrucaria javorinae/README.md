@@ -1,5 +1,4 @@
-Verrucaria javorinae Servít SPECIES
-=======
+# Verrucaria javorinae Servít SPECIES
 
 #### Status
 ACCEPTED

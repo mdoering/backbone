@@ -1,5 +1,4 @@
-Bapalmuia variratae Sérus. SPECIES
-=======
+# Bapalmuia variratae Sérus. SPECIES
 
 #### Status
 ACCEPTED

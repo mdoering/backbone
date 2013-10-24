@@ -1,17 +1,16 @@
-Perichlamys Clem. & Shear GENUS
-=======
+# Kuntzeomyces Henn. ex Sacc. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 340 (1931)
+Syll. fung. (Abellini) 14: 430 (1899)
 
 #### Original name
-Perichlamys Clem. & Shear
+Kuntzeomyces Henn. ex Sacc. & P. Syd.
 
 ### Remarks
 null

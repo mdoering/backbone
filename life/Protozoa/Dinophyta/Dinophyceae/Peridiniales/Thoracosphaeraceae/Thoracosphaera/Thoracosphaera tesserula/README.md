@@ -1,5 +1,4 @@
-Thoracosphaera tesserula D. Fütterer SPECIES
-=======
+# Thoracosphaera tesserula D. Fütterer SPECIES
 
 #### Status
 ACCEPTED

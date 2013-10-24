@@ -1,5 +1,4 @@
-Polyporus rhoadsii Murrill SPECIES
-=======
+# Polyporus rhoadsii Murrill SPECIES
 
 #### Status
 ACCEPTED

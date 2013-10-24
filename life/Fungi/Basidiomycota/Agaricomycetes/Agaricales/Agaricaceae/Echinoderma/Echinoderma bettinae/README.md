@@ -1,5 +1,4 @@
-Echinoderma bettinae (Dörfelt) Bon SPECIES
-=======
+# Echinoderma bettinae (Dörfelt) Bon SPECIES
 
 #### Status
 ACCEPTED

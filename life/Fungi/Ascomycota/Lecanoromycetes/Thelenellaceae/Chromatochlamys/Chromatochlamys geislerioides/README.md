@@ -1,5 +1,4 @@
-Chromatochlamys geislerioides Fryday SPECIES
-=======
+# Chromatochlamys geislerioides Fryday SPECIES
 
 #### Status
 ACCEPTED

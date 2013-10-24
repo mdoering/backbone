@@ -1,5 +1,4 @@
-Repetobasidiellum J. Erikss. & Hjortstam GENUS
-=======
+# Repetobasidiellum J. Erikss. & Hjortstam GENUS
 
 #### Status
 ACCEPTED

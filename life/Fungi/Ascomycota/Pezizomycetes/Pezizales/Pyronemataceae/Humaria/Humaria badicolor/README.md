@@ -1,5 +1,4 @@
-Humaria badicolor (Boud.) Sacc. SPECIES
-=======
+# Humaria badicolor (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

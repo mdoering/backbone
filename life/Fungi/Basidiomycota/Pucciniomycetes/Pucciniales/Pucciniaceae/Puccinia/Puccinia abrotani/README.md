@@ -1,5 +1,4 @@
-Puccinia abrotani Fahrend., 1941 SPECIES
-=======
+# Puccinia abrotani Fahrend., 1941 SPECIES
 
 #### Status
 ACCEPTED

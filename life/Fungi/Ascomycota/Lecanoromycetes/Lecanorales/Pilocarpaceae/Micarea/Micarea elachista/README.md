@@ -1,17 +1,16 @@
-Catillaria glomerella var. glomerella VARIETY
-=======
+# Micarea elachista (Körb.) Coppins & R. Sant. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Coppins, Bull. Br. Mus. nat. Hist. , Bot. 11(2): 131 (1983)
 
 #### Original name
-Catillaria glomerella var. glomerella
+Biatora elachista Körb.
 
 ### Remarks
 null

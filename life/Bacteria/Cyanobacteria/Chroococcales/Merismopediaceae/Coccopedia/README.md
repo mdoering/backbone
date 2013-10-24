@@ -1,5 +1,4 @@
-Coccopedia Troickaja, 1922 GENUS
-=======
+# Coccopedia Troickaja, 1922 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcinella shambhoodharii C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Sarcinella shambhoodharii C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

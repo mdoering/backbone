@@ -1,5 +1,4 @@
-Sphaeria caespitulans Schwein. SPECIES
-=======
+# Sphaeria caespitulans Schwein. SPECIES
 
 #### Status
 ACCEPTED

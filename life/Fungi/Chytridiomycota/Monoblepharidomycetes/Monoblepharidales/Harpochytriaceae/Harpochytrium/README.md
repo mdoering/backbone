@@ -1,17 +1,16 @@
-Rhabdium P.A. Dang. GENUS
-=======
+# Harpochytrium Lagerh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(1/2): 61 (1903)
+Hedwigia 29: 143 (1890)
 
 #### Original name
-Rhabdium P.A. Dang.
+Harpochytrium Lagerh.
 
 ### Remarks
 null

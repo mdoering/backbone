@@ -1,5 +1,4 @@
-Septoria arechavaletae G. Winter SPECIES
-=======
+# Septoria arechavaletae G. Winter SPECIES
 
 #### Status
 ACCEPTED

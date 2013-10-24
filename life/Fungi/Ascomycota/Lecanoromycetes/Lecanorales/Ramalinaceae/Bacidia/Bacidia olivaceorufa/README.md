@@ -1,5 +1,4 @@
-Bacidia olivaceorufa Vain. SPECIES
-=======
+# Bacidia olivaceorufa Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septonema elongatispora Preuss SPECIES
-=======
+# Septonema elongatispora Preuss SPECIES
 
 #### Status
 ACCEPTED

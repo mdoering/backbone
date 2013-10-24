@@ -1,8 +1,7 @@
-Zonaria interrupta var. spiralis Harvey VARIETY
-=======
+# Zonaria spiralis (J. Agardh) Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

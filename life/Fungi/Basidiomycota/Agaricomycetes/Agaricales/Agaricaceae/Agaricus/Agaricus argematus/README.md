@@ -1,5 +1,4 @@
-Agaricus argematus Fr. SPECIES
-=======
+# Agaricus argematus Fr. SPECIES
 
 #### Status
 ACCEPTED

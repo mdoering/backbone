@@ -1,5 +1,4 @@
-Paliphora aurea Sivan. & B. Sutton, 1985 SPECIES
-=======
+# Paliphora aurea Sivan. & B. Sutton, 1985 SPECIES
 
 #### Status
 ACCEPTED

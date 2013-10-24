@@ -1,5 +1,4 @@
-Catillaria melaclina f. melaclina FORM
-=======
+# Catillaria melaclina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cat. Lich. Univers. 4: 20 (1926)
 
 #### Original name
-Catillaria melaclina f. melaclina
+Lecidea melaclina Nyl.
 
 ### Remarks
 null

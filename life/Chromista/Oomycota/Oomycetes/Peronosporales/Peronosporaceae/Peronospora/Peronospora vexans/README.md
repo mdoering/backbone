@@ -1,5 +1,4 @@
-Peronospora vexans Gäum. SPECIES
-=======
+# Peronospora vexans Gäum. SPECIES
 
 #### Status
 ACCEPTED

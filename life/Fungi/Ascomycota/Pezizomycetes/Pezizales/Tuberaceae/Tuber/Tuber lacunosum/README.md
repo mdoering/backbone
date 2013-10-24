@@ -1,5 +1,4 @@
-Tuber lacunosum Mattir. SPECIES
-=======
+# Tuber lacunosum Mattir. SPECIES
 
 #### Status
 ACCEPTED

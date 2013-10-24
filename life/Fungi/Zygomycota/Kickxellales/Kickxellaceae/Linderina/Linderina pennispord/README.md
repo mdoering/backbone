@@ -1,5 +1,4 @@
-Linderina pennispord Raper & Fennel. SPECIES
-=======
+# Linderina pennispord Raper & Fennel. SPECIES
 
 #### Status
 ACCEPTED

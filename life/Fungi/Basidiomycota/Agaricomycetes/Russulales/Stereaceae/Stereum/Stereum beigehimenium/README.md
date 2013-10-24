@@ -1,5 +1,4 @@
-Stereum beigehimenium Teixeira SPECIES
-=======
+# Stereum beigehimenium Teixeira SPECIES
 
 #### Status
 ACCEPTED

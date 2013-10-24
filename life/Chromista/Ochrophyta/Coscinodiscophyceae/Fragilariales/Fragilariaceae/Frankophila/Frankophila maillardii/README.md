@@ -1,5 +1,4 @@
-Frankophila maillardii (R. Le Cohu) H. Lange-Bertalot SPECIES
-=======
+# Frankophila maillardii (R. Le Cohu) H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

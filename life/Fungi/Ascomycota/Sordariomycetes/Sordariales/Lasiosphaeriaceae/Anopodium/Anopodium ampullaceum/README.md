@@ -1,5 +1,4 @@
-Anopodium ampullaceum N. Lundq., 1964 SPECIES
-=======
+# Anopodium ampullaceum N. Lundq., 1964 SPECIES
 
 #### Status
 ACCEPTED

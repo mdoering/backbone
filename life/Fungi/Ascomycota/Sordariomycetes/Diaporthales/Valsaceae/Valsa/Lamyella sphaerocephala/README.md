@@ -1,5 +1,4 @@
-Lamyella sphaerocephala (Schwein.) Fr. SPECIES
-=======
+# Lamyella sphaerocephala (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema waasii Hale SPECIES
-=======
+# Thelotrema waasii Hale SPECIES
 
 #### Status
 ACCEPTED

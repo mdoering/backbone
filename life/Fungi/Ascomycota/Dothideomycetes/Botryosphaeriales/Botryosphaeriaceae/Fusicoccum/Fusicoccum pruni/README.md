@@ -1,5 +1,4 @@
-Fusicoccum pruni Potebnia SPECIES
-=======
+# Fusicoccum pruni Potebnia SPECIES
 
 #### Status
 ACCEPTED

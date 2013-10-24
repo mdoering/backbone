@@ -1,5 +1,4 @@
-Gonyaulax senta Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax senta Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

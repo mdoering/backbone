@@ -1,5 +1,4 @@
-Cercospora potentillae T.M. Achundov SPECIES
-=======
+# Cercospora potentillae T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

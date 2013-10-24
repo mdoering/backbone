@@ -1,5 +1,4 @@
-Toninia nigropallida (Nyl.) Abbayes SPECIES
-=======
+# Toninia nigropallida (Nyl.) Abbayes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endococcus incrassatus Etayo & Breuss SPECIES
-=======
+# Endococcus incrassatus Etayo & Breuss SPECIES
 
 #### Status
 ACCEPTED

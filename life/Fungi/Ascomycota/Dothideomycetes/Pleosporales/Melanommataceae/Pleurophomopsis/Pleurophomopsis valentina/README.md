@@ -1,17 +1,16 @@
-Pleurophomopsis valentinus Urries SPECIES
-=======
+# Pleurophomopsis valentina Urries SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+An. Jard. bot. Madr. 10(2): 220 (1952)
 
 #### Original name
-Pleurophomopsis valentinus Urries
+Pleurophomopsis valentina Urries
 
 ### Remarks
 null

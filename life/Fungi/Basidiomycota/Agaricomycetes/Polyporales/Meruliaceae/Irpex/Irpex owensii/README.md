@@ -1,5 +1,4 @@
-Irpex owensii Lloyd SPECIES
-=======
+# Irpex owensii Lloyd SPECIES
 
 #### Status
 ACCEPTED

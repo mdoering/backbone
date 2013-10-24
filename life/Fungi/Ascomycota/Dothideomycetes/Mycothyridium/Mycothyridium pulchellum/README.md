@@ -1,5 +1,4 @@
-Mycothyridium pulchellum (Sacc. & Speg.) Petr. SPECIES
-=======
+# Mycothyridium pulchellum (Sacc. & Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

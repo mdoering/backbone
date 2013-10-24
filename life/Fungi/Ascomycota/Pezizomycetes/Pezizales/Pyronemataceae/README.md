@@ -1,17 +1,16 @@
-Otidiaceae FAMILY
-=======
+# Pyronemataceae Corda FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anleit. Stud. Mykol. , Prag 149 (1842)
 
 #### Original name
-null
+Pyronemataceae Corda
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polymorphina problema SPECIES
-=======
+# Polymorphina problema SPECIES
 
 #### Status
 ACCEPTED

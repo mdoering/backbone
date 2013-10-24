@@ -1,17 +1,16 @@
-Septoria litseae Speg. SPECIES
-=======
+# Septoria lithraeae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 25: 107 (1921)
 
 #### Original name
-Septoria litseae Speg.
+Septoria lithraeae Speg.
 
 ### Remarks
 null

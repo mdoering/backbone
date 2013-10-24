@@ -1,5 +1,4 @@
-Glomospira elongata Collins, 1958 SPECIES
-=======
+# Glomospira elongata Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

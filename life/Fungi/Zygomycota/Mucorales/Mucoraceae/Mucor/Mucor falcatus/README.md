@@ -1,5 +1,4 @@
-Mucor falcatus Schipper, 1967 SPECIES
-=======
+# Mucor falcatus Schipper, 1967 SPECIES
 
 #### Status
 ACCEPTED

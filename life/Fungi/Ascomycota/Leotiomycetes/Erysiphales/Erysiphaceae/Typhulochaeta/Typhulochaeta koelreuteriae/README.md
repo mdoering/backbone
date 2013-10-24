@@ -1,5 +1,4 @@
-Typhulochaeta koelreuteriae (I. Miyake) F.L. Tai SPECIES
-=======
+# Typhulochaeta koelreuteriae (I. Miyake) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

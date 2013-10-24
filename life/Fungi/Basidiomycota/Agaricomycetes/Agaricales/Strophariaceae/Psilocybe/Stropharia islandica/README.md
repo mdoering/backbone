@@ -1,5 +1,4 @@
-Stropharia islandica Kytöv. SPECIES
-=======
+# Stropharia islandica Kytöv. SPECIES
 
 #### Status
 ACCEPTED

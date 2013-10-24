@@ -1,5 +1,4 @@
-Mycena majalis S. Lundell SPECIES
-=======
+# Mycena majalis S. Lundell SPECIES
 
 #### Status
 ACCEPTED

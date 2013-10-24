@@ -1,5 +1,4 @@
-Phyllosticta prangicola Woron. SPECIES
-=======
+# Phyllosticta prangicola Woron. SPECIES
 
 #### Status
 ACCEPTED

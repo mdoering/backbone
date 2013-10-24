@@ -1,5 +1,4 @@
-Pleosporonites moruloides Sal.-Cheb. & Locq. SPECIES
-=======
+# Pleosporonites moruloides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

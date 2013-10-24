@@ -1,5 +1,4 @@
-Acremonium gamsii Tichelaar, 1972 SPECIES
-=======
+# Acremonium gamsii Tichelaar, 1972 SPECIES
 
 #### Status
 ACCEPTED

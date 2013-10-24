@@ -1,17 +1,16 @@
-Septoria cerasticola Rostr. SPECIES
-=======
+# Septoria cerastiicola Rostr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Tidsskr. 25: 321 (1903)
 
 #### Original name
-Septoria cerasticola Rostr.
+Septoria cerastiicola Rostr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia unicolor Arthur SPECIES
-=======
+# Puccinia unicolor Arthur SPECIES
 
 #### Status
 ACCEPTED

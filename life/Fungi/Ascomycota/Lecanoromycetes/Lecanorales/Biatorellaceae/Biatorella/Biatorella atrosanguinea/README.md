@@ -1,5 +1,4 @@
-Biatorella atrosanguinea (A. Massal.) A. Massal. SPECIES
-=======
+# Biatorella atrosanguinea (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

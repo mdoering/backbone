@@ -1,5 +1,4 @@
-Frigidispora colnensis K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Frigidispora colnensis K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

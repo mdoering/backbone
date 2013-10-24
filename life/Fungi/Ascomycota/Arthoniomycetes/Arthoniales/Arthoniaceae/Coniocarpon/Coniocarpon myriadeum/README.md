@@ -1,5 +1,4 @@
-Coniocarpon myriadeum Fée SPECIES
-=======
+# Coniocarpon myriadeum Fée SPECIES
 
 #### Status
 ACCEPTED

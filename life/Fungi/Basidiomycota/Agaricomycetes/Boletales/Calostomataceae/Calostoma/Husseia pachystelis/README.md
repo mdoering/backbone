@@ -1,5 +1,4 @@
-Husseia pachystelis Ces. SPECIES
-=======
+# Husseia pachystelis Ces. SPECIES
 
 #### Status
 ACCEPTED

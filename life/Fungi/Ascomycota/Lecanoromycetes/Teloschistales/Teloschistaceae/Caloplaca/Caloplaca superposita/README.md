@@ -1,5 +1,4 @@
-Caloplaca superposita H. Magn. SPECIES
-=======
+# Caloplaca superposita H. Magn. SPECIES
 
 #### Status
 ACCEPTED

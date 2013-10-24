@@ -1,5 +1,4 @@
-Titaea formosa Peláez, R.F. Castañeda & Arenal SPECIES
-=======
+# Titaea formosa Peláez, R.F. Castañeda & Arenal SPECIES
 
 #### Status
 ACCEPTED

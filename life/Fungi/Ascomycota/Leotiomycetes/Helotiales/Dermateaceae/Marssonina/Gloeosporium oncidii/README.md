@@ -1,5 +1,4 @@
-Gloeosporium oncidii Oudem. SPECIES
-=======
+# Gloeosporium oncidii Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hainesia jabalpurensis V.P. Sahni SPECIES
-=======
+# Hainesia jabalpurensis V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

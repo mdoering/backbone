@@ -1,5 +1,4 @@
-Sphacelotheca pakistanica S. Ahmad SPECIES
-=======
+# Sphacelotheca pakistanica S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

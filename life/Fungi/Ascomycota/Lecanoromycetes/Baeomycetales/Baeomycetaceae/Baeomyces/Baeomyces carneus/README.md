@@ -1,5 +1,4 @@
-Baeomyces carneus var. carneus VARIETY
-=======
+# Baeomyces carneus (Retz.) Flörke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Deutschl. Flecht. 8: 16 (1821)
 
 #### Original name
 Lichen ericetorum var. carneus Retz.

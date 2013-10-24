@@ -1,5 +1,4 @@
-Dicaeoma aethiopicum (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Dicaeoma aethiopicum (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes scobinacea G. Cunn. SPECIES
-=======
+# Trametes scobinacea G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

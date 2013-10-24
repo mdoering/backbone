@@ -1,5 +1,4 @@
-Nothooidium mordidum (Cramer, Allam, Kanes & Díez, 1974) Loeblich & Tappan, 1976 SPECIES
-=======
+# Nothooidium mordidum (Cramer, Allam, Kanes & Díez, 1974) Loeblich & Tappan, 1976 SPECIES
 
 #### Status
 ACCEPTED

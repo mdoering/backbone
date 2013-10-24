@@ -1,5 +1,4 @@
-Polyporus pallidomicans Britzelm. SPECIES
-=======
+# Polyporus pallidomicans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

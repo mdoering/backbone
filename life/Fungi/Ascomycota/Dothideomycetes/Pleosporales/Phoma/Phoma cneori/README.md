@@ -1,5 +1,4 @@
-Phoma cneori Tassi SPECIES
-=======
+# Phoma cneori Tassi SPECIES
 
 #### Status
 ACCEPTED

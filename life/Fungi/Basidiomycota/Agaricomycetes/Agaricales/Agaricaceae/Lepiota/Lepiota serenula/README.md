@@ -1,5 +1,4 @@
-Lepiota serenula P. Karst. SPECIES
-=======
+# Lepiota serenula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

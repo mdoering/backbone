@@ -1,5 +1,4 @@
-Palaeoscytonema P.K. Maithy & M. Shukla, 1977 GENUS
-=======
+# Palaeoscytonema P.K. Maithy & M. Shukla, 1977 GENUS
 
 #### Status
 ACCEPTED

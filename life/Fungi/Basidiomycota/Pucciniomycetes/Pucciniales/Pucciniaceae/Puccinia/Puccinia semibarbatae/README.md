@@ -1,5 +1,4 @@
-Puccinia semibarbatae T. Osborn & Samuel SPECIES
-=======
+# Puccinia semibarbatae T. Osborn & Samuel SPECIES
 
 #### Status
 ACCEPTED

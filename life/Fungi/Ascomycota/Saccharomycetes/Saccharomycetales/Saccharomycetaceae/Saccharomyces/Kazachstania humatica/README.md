@@ -1,5 +1,4 @@
-Kazachstania humatica (Mikata & Ued.-Nishim.) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania humatica (Mikata & Ued.-Nishim.) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

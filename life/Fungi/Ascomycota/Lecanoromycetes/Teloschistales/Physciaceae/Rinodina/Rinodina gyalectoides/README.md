@@ -1,5 +1,4 @@
-Rinodina gyalectoides H. Magn. SPECIES
-=======
+# Rinodina gyalectoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

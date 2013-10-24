@@ -1,5 +1,4 @@
-Sphaeroporalites solus Hemer & Nygree, 1967 SPECIES
-=======
+# Sphaeroporalites solus Hemer & Nygree, 1967 SPECIES
 
 #### Status
 ACCEPTED

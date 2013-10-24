@@ -1,5 +1,4 @@
-Amanita perpasta Corner & Bas SPECIES
-=======
+# Amanita perpasta Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

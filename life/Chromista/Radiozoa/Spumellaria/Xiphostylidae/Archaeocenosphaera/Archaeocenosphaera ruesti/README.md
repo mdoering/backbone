@@ -1,5 +1,4 @@
-Archaeocenosphaera ruesti SPECIES
-=======
+# Archaeocenosphaera ruesti SPECIES
 
 #### Status
 ACCEPTED

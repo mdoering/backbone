@@ -1,5 +1,4 @@
-Cothurnia plachteri SPECIES
-=======
+# Cothurnia plachteri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ordospora colligata J.I.R. Larsson, D. Ebert & J. Vavra SPECIES
-=======
+# Ordospora colligata J.I.R. Larsson, D. Ebert & J. Vavra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe opala (Fr.) Sacc. SPECIES
-=======
+# Clitocybe opala (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

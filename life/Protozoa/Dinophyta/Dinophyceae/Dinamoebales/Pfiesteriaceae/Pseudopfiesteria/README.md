@@ -1,5 +1,4 @@
-Pseudopfiesteria Litaker, Steidinger, Mason, Shields & Tester, 2005 GENUS
-=======
+# Pseudopfiesteria Litaker, Steidinger, Mason, Shields & Tester, 2005 GENUS
 
 #### Status
 ACCEPTED

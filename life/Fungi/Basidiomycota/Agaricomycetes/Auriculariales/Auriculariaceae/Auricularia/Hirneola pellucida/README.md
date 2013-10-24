@@ -1,5 +1,4 @@
-Hirneola pellucida (Jungh.) Fr. SPECIES
-=======
+# Hirneola pellucida (Jungh.) Fr. SPECIES
 
 #### Status
 ACCEPTED

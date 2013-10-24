@@ -1,5 +1,4 @@
-Coscinodiscus biconicus Van Breemen SPECIES
-=======
+# Coscinodiscus biconicus Van Breemen SPECIES
 
 #### Status
 ACCEPTED

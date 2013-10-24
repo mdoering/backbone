@@ -1,8 +1,7 @@
-Zonaria australasica Zanardini SPECIES
-=======
+# Stypopodium australasicum (Zanardini) Allender & Kraft SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

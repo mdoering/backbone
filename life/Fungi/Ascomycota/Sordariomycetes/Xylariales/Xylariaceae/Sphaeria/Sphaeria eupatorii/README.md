@@ -1,5 +1,4 @@
-Sphaeria eupatorii Kirchn. SPECIES
-=======
+# Sphaeria eupatorii Kirchn. SPECIES
 
 #### Status
 ACCEPTED

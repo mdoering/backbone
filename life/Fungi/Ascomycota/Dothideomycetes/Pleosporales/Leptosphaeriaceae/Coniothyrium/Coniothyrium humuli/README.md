@@ -1,5 +1,4 @@
-Coniothyrium humuli Hollós SPECIES
-=======
+# Coniothyrium humuli Hollós SPECIES
 
 #### Status
 ACCEPTED

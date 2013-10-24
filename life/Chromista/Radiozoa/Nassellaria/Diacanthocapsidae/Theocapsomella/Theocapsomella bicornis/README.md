@@ -1,5 +1,4 @@
-Theocapsomella bicornis SPECIES
-=======
+# Theocapsomella bicornis SPECIES
 
 #### Status
 ACCEPTED

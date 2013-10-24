@@ -1,5 +1,4 @@
-Eutypa erythrinae Speg. SPECIES
-=======
+# Eutypa erythrinae Speg. SPECIES
 
 #### Status
 ACCEPTED

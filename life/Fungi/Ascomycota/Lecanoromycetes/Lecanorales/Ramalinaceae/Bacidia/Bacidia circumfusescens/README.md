@@ -1,5 +1,4 @@
-Bacidia circumfusescens (Nyl.) H. Olivier SPECIES
-=======
+# Bacidia circumfusescens (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

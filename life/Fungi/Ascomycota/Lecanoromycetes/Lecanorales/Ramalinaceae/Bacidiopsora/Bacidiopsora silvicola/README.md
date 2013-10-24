@@ -1,5 +1,4 @@
-Bacidiopsora silvicola (Malme) Kalb SPECIES
-=======
+# Bacidiopsora silvicola (Malme) Kalb SPECIES
 
 #### Status
 ACCEPTED

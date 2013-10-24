@@ -1,5 +1,4 @@
-Endobotryella Höhn. GENUS
-=======
+# Endobotryella Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella globularis (Körb.) H. Magn. SPECIES
-=======
+# Didymella globularis (Körb.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

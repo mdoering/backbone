@@ -1,5 +1,4 @@
-Lactarius pallidilamellatus Montoya & Bandala SPECIES
-=======
+# Lactarius pallidilamellatus Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

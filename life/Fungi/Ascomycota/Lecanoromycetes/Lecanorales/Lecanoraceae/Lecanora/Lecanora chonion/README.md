@@ -1,5 +1,4 @@
-Lecanora chonion Tuck. SPECIES
-=======
+# Lecanora chonion Tuck. SPECIES
 
 #### Status
 ACCEPTED

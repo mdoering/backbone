@@ -1,5 +1,4 @@
-Marasmius nidulus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius nidulus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

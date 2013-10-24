@@ -1,5 +1,4 @@
-Inocybe jalapensis (Murrill) Singer SPECIES
-=======
+# Inocybe jalapensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

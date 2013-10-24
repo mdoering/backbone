@@ -1,5 +1,4 @@
-Verrucaria latzelii Servít SPECIES
-=======
+# Verrucaria latzelii Servít SPECIES
 
 #### Status
 ACCEPTED

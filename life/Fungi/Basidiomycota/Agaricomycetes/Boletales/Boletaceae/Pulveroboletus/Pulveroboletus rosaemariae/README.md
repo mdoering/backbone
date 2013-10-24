@@ -1,5 +1,4 @@
-Pulveroboletus rosaemariae Singer SPECIES
-=======
+# Pulveroboletus rosaemariae Singer SPECIES
 
 #### Status
 ACCEPTED

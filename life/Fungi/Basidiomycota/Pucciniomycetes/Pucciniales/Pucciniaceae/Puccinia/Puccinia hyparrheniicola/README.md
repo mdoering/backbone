@@ -1,5 +1,4 @@
-Puccinia hyparrheniicola Jørst. & Cummins SPECIES
-=======
+# Puccinia hyparrheniicola Jørst. & Cummins SPECIES
 
 #### Status
 ACCEPTED

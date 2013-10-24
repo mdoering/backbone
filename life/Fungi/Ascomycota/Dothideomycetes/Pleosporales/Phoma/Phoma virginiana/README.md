@@ -1,5 +1,4 @@
-Phoma virginiana Ellis & Halst. SPECIES
-=======
+# Phoma virginiana Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

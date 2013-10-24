@@ -1,5 +1,4 @@
-Ganoderma polymorphum Cleland SPECIES
-=======
+# Ganoderma polymorphum Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kyphomyces filarius (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces filarius (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

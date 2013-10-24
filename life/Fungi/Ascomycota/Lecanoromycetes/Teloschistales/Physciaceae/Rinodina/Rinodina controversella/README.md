@@ -1,5 +1,4 @@
-Rinodina controversella SPECIES
-=======
+# Rinodina controversella SPECIES
 
 #### Status
 ACCEPTED

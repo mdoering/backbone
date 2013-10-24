@@ -1,5 +1,4 @@
-Lithodesmium pliocenicum H. J. Schrader SPECIES
-=======
+# Lithodesmium pliocenicum H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

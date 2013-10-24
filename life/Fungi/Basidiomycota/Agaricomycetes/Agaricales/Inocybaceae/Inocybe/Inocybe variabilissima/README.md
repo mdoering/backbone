@@ -1,5 +1,4 @@
-Inocybe variabilissima Speg. SPECIES
-=======
+# Inocybe variabilissima Speg. SPECIES
 
 #### Status
 ACCEPTED

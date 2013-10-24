@@ -1,5 +1,4 @@
-Polystictus cupronitens Kalchbr. SPECIES
-=======
+# Polystictus cupronitens Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

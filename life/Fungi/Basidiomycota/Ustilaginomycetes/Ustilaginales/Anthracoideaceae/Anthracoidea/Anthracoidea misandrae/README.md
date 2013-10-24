@@ -1,5 +1,4 @@
-Anthracoidea misandrae Kukkonen SPECIES
-=======
+# Anthracoidea misandrae Kukkonen SPECIES
 
 #### Status
 ACCEPTED

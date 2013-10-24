@@ -1,5 +1,4 @@
-Gyropodium coccineum E. Hitchc. SPECIES
-=======
+# Gyropodium coccineum E. Hitchc. SPECIES
 
 #### Status
 ACCEPTED

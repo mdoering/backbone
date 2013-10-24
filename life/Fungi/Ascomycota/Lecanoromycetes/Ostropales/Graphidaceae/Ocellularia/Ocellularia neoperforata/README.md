@@ -1,5 +1,4 @@
-Ocellularia neoperforata Homchant. & Coppins SPECIES
-=======
+# Ocellularia neoperforata Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

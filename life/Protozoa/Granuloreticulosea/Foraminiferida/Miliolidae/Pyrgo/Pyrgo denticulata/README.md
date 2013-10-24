@@ -1,5 +1,4 @@
-Pyrgo denticulata SPECIES
-=======
+# Pyrgo denticulata SPECIES
 
 #### Status
 ACCEPTED

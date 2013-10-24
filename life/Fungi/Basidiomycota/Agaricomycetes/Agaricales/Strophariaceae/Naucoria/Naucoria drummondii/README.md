@@ -1,5 +1,4 @@
-Naucoria drummondii (Berk.) Sacc. SPECIES
-=======
+# Naucoria drummondii (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

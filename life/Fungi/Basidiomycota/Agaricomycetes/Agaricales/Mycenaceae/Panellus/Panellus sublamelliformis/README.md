@@ -1,5 +1,4 @@
-Panellus sublamelliformis Corner, 1986 SPECIES
-=======
+# Panellus sublamelliformis Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

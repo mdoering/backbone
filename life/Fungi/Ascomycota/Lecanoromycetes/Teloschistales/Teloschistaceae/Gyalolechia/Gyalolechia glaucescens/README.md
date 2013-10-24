@@ -1,5 +1,4 @@
-Gyalolechia glaucescens Bagl. & Carestia SPECIES
-=======
+# Gyalolechia glaucescens Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

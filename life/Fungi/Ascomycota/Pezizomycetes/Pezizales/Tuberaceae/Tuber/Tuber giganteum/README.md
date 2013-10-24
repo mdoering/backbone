@@ -1,5 +1,4 @@
-Tuber giganteum Gilkey SPECIES
-=======
+# Tuber giganteum Gilkey SPECIES
 
 #### Status
 ACCEPTED

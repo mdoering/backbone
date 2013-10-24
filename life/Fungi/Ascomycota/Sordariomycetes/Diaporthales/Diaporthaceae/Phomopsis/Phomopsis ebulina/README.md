@@ -1,14 +1,13 @@
-Phoma ebulina Sacc. & Schulzer, 1884 SPECIES
-=======
+# Phomopsis ebulina (Sacc. & Schulzer) Grove, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Micromyc. Slavon. no. 40 (1884)
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 223 (1935)
 
 #### Original name
 Phoma ebulina Sacc. & Schulzer, 1884

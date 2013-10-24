@@ -1,5 +1,4 @@
-Palaeomycites gordonii (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites gordonii (Kidst. & W.H. Lang) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

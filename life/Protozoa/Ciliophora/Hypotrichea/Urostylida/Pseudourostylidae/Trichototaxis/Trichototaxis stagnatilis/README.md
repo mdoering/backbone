@@ -1,5 +1,4 @@
-Trichototaxis stagnatilis Stokes, 1891 SPECIES
-=======
+# Trichototaxis stagnatilis Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

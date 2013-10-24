@@ -1,5 +1,4 @@
-Carpolithes umbonatus Sternb. SPECIES
-=======
+# Carpolithes umbonatus Sternb. SPECIES
 
 #### Status
 ACCEPTED

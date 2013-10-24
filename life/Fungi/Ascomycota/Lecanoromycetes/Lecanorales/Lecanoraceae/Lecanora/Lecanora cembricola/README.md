@@ -1,5 +1,4 @@
-Lecanora cembricola Nyl. SPECIES
-=======
+# Lecanora cembricola Nyl. SPECIES
 
 #### Status
 ACCEPTED

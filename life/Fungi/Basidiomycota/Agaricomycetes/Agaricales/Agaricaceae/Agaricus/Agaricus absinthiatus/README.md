@@ -1,5 +1,4 @@
-Agaricus absinthiatus Lasch SPECIES
-=======
+# Agaricus absinthiatus Lasch SPECIES
 
 #### Status
 ACCEPTED

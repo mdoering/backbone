@@ -1,5 +1,4 @@
-Tympanosporium parasiticum W. Gams, 1974 SPECIES
-=======
+# Tympanosporium parasiticum W. Gams, 1974 SPECIES
 
 #### Status
 ACCEPTED

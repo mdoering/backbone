@@ -1,5 +1,4 @@
-Mycena puroides Maire ex Joss. SPECIES
-=======
+# Mycena puroides Maire ex Joss. SPECIES
 
 #### Status
 ACCEPTED

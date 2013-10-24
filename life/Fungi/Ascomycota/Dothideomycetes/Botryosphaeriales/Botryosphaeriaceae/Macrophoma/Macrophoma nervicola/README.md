@@ -1,5 +1,4 @@
-Macrophoma nervicola Ellis & Everh. SPECIES
-=======
+# Macrophoma nervicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calostoma singaporense L. Fan & B. Liu SPECIES
-=======
+# Calostoma singaporense L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

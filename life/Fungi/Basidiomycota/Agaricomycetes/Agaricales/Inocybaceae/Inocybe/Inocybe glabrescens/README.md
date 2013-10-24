@@ -1,17 +1,16 @@
-Inocybe abietis SPECIES
-=======
+# Inocybe glabrescens Velen., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceské Houby 2: 373 (1920)
 
 #### Original name
-Inocybe abietis
+Inocybe glabrescens Velen., 1920
 
 ### Remarks
 null

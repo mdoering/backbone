@@ -1,5 +1,4 @@
-Puccinia boingaei (Dietel & Holw.) Syd. SPECIES
-=======
+# Puccinia boingaei (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

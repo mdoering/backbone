@@ -1,5 +1,4 @@
-Tephrocybe tephrophana ined. SPECIES
-=======
+# Tephrocybe tephrophana ined. SPECIES
 
 #### Status
 ACCEPTED

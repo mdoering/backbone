@@ -1,5 +1,4 @@
-Diplodia farnesiana Sacc. SPECIES
-=======
+# Diplodia farnesiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

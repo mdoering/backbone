@@ -1,5 +1,4 @@
-Pouzaromyces GENUS
-=======
+# Pouzaromyces GENUS
 
 #### Status
 ACCEPTED

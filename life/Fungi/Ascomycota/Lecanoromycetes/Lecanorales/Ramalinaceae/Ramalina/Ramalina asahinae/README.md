@@ -1,5 +1,4 @@
-Ramalina asahinae W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Ramalina asahinae W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

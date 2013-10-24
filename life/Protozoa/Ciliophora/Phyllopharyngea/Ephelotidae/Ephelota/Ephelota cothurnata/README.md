@@ -1,5 +1,4 @@
-Ephelota cothurnata Dons, 1918 SPECIES
-=======
+# Ephelota cothurnata Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Protomycopsis smithiae Thirum., V.V. Bhatt, G.W. Dhande & Patel, 1956 SPECIES
-=======
+# Erratomyces smithiae (Thirum., V.V. Bhatt, G.W. Dhande & Patel) M. Piepenbr. & R. Bauer, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 9: 10 (1956)
+Mycologia 89(6): 935 (1997)
 
 #### Original name
 Protomycopsis smithiae Thirum., V.V. Bhatt, G.W. Dhande & Patel, 1956

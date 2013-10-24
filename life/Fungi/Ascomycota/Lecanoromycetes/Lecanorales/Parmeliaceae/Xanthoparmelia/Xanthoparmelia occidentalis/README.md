@@ -1,5 +1,4 @@
-Xanthoparmelia occidentalis (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
-=======
+# Xanthoparmelia occidentalis (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

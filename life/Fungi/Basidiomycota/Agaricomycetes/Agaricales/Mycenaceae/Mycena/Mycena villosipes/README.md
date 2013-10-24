@@ -1,5 +1,4 @@
-Mycena villosipes Métrod SPECIES
-=======
+# Mycena villosipes Métrod SPECIES
 
 #### Status
 ACCEPTED

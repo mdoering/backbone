@@ -1,17 +1,16 @@
-Diderma darjeelingense var. takahashii (Y. Yamam.) Y. Yamam. VARIETY
-=======
+# Diderma darjeelingense K.S. Thind & H.S. Sehgal, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 292 (1998)
+Mycologia 56(4): 562 (1964)
 
 #### Original name
-Lepidoderma takahashii Y. Yamam., 1992
+Diderma darjeelingense K.S. Thind & H.S. Sehgal, 1964
 
 ### Remarks
 null

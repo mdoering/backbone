@@ -1,5 +1,4 @@
-Caloplaca hampeana (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca hampeana (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

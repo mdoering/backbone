@@ -1,5 +1,4 @@
-Clavaria muscula R.H. Petersen, 1978 SPECIES
-=======
+# Clavaria muscula R.H. Petersen, 1978 SPECIES
 
 #### Status
 ACCEPTED

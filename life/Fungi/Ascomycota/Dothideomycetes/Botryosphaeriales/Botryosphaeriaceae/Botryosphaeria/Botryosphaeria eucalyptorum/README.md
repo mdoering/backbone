@@ -1,5 +1,4 @@
-Botryosphaeria eucalyptorum Crous, H. Sm. ter & M.J. Wingf., 2001 SPECIES
-=======
+# Botryosphaeria eucalyptorum Crous, H. Sm. ter & M.J. Wingf., 2001 SPECIES
 
 #### Status
 ACCEPTED

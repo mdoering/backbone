@@ -1,5 +1,4 @@
-Cryptothelium confluens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptothelium confluens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

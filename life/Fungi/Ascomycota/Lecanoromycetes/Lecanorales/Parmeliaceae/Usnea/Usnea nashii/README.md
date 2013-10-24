@@ -1,5 +1,4 @@
-Usnea nashii P. Clerc & M. Herrera-Campos SPECIES
-=======
+# Usnea nashii P. Clerc & M. Herrera-Campos SPECIES
 
 #### Status
 ACCEPTED

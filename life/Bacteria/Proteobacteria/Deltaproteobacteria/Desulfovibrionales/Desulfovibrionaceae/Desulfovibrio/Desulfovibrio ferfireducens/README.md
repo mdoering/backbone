@@ -1,5 +1,4 @@
-Desulfovibrio ferfireducens Vandieken, Knoblauch & Jorgensen, 2006 SPECIES
-=======
+# Desulfovibrio ferfireducens Vandieken, Knoblauch & Jorgensen, 2006 SPECIES
 
 #### Status
 ACCEPTED

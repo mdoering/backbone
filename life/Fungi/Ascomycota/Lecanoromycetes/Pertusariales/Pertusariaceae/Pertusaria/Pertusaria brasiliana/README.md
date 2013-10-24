@@ -1,5 +1,4 @@
-Pertusaria brasiliana Zahlbr. SPECIES
-=======
+# Pertusaria brasiliana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

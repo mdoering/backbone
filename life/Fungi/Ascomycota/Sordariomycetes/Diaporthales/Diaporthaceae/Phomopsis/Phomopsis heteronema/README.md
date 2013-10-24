@@ -1,5 +1,4 @@
-Phomopsis heteronema Sacc. SPECIES
-=======
+# Phomopsis heteronema Sacc. SPECIES
 
 #### Status
 ACCEPTED

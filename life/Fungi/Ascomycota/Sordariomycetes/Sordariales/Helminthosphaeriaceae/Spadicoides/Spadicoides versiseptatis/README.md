@@ -1,5 +1,4 @@
-Spadicoides versiseptatis M.K.M. Wong, Goh & K.D. Hyde SPECIES
-=======
+# Spadicoides versiseptatis M.K.M. Wong, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

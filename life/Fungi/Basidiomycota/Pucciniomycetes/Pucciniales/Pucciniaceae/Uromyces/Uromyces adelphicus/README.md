@@ -1,5 +1,4 @@
-Uromyces adelphicus Syd. SPECIES
-=======
+# Uromyces adelphicus Syd. SPECIES
 
 #### Status
 ACCEPTED

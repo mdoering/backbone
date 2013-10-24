@@ -1,5 +1,4 @@
-Queraltina Marie, 1950 GENUS
-=======
+# Queraltina Marie, 1950 GENUS
 
 #### Status
 ACCEPTED

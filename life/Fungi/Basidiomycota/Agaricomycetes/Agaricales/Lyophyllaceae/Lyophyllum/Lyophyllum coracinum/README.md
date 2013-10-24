@@ -1,5 +1,4 @@
-Lyophyllum coracinum (Fr.) Singer SPECIES
-=======
+# Lyophyllum coracinum (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

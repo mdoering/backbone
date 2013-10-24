@@ -1,5 +1,4 @@
-Macrocybe Pegler & Lodge GENUS
-=======
+# Macrocybe Pegler & Lodge GENUS
 
 #### Status
 ACCEPTED

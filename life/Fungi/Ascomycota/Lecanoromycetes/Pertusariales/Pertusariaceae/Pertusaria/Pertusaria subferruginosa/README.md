@@ -1,5 +1,4 @@
-Pertusaria subferruginosa Cromb. SPECIES
-=======
+# Pertusaria subferruginosa Cromb. SPECIES
 
 #### Status
 ACCEPTED

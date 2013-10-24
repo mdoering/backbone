@@ -1,5 +1,4 @@
-Phoma toxicodendri Henn. SPECIES
-=======
+# Phoma toxicodendri Henn. SPECIES
 
 #### Status
 ACCEPTED

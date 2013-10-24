@@ -1,5 +1,4 @@
-Peltaster fusisporus Bat. & Cavalc. SPECIES
-=======
+# Peltaster fusisporus Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

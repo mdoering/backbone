@@ -1,5 +1,4 @@
-Arthrinium javii Larrondo & Calvo SPECIES
-=======
+# Arthrinium javii Larrondo & Calvo SPECIES
 
 #### Status
 ACCEPTED

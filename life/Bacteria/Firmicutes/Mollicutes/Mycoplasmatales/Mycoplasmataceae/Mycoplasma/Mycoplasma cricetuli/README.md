@@ -1,5 +1,4 @@
-Mycoplasma cricetuli Hill, 1983 SPECIES
-=======
+# Mycoplasma cricetuli Hill, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus actinorrachis Berk. & Broome SPECIES
-=======
+# Agaricus actinorrachis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

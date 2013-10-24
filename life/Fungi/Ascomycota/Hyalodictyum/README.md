@@ -1,5 +1,4 @@
-Hyalodictyum Woron. GENUS
-=======
+# Hyalodictyum Woron. GENUS
 
 #### Status
 ACCEPTED

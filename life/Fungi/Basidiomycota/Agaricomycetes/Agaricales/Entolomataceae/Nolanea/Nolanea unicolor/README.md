@@ -1,5 +1,4 @@
-Nolanea unicolor (Peck) Largent SPECIES
-=======
+# Nolanea unicolor (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

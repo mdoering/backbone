@@ -1,5 +1,4 @@
-Thelephora chalybea Bres. & Schulzer SPECIES
-=======
+# Thelephora chalybea Bres. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

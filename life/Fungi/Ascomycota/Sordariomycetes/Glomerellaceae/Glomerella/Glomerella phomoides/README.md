@@ -1,5 +1,4 @@
-Glomerella phomoides Swank, 1953 SPECIES
-=======
+# Glomerella phomoides Swank, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bacidiactis M. Choisy GENUS
-=======
+# Lecanactis Körber, 1855 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Lichénogr. 5: 42 (1931)
+Syst. lich. germ. (Breslau) 275 (1855)
 
 #### Original name
-Bacidiactis M. Choisy
+Lecanactis Körber, 1855
 
 ### Remarks
 null

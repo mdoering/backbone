@@ -1,5 +1,4 @@
-Tintinnopsis vosmaeri Daday, 1887 SPECIES
-=======
+# Tintinnopsis vosmaeri Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

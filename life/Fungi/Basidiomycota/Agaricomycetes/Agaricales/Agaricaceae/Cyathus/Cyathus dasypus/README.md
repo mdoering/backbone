@@ -1,5 +1,4 @@
-Cyathus dasypus Nees SPECIES
-=======
+# Cyathus dasypus Nees SPECIES
 
 #### Status
 ACCEPTED

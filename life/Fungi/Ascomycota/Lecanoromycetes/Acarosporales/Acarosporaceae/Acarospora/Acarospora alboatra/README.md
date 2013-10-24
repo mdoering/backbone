@@ -1,5 +1,4 @@
-Acarospora alboatra H. Magn. SPECIES
-=======
+# Acarospora alboatra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

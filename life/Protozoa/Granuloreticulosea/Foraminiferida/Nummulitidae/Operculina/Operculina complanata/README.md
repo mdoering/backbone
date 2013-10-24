@@ -1,5 +1,4 @@
-Operculina complanata SPECIES
-=======
+# Operculina complanata SPECIES
 
 #### Status
 ACCEPTED

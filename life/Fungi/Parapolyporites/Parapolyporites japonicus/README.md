@@ -1,17 +1,16 @@
-Parapolyporites japonica Tanai SPECIES
-=======
+# Parapolyporites japonicus Tanai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 62(1): 2 + pl. I, figs 1-3; pl. II, figs l-2 (1987)
 
 #### Original name
-Parapolyporites japonica Tanai
+Parapolyporites japonicus Tanai
 
 ### Remarks
 null

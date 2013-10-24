@@ -1,5 +1,4 @@
-Cerotelium alienum (Syd., P. Syd. & E.J. Butler) Arthur SPECIES
-=======
+# Cerotelium alienum (Syd., P. Syd. & E.J. Butler) Arthur SPECIES
 
 #### Status
 ACCEPTED

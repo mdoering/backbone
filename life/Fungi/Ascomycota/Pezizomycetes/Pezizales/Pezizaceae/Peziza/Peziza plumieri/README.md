@@ -1,5 +1,4 @@
-Peziza plumieri Fr. SPECIES
-=======
+# Peziza plumieri Fr. SPECIES
 
 #### Status
 ACCEPTED

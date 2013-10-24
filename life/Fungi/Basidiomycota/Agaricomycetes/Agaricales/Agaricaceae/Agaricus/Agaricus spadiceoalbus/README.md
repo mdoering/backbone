@@ -1,5 +1,4 @@
-Agaricus spadiceoalbus J. Otto SPECIES
-=======
+# Agaricus spadiceoalbus J. Otto SPECIES
 
 #### Status
 ACCEPTED

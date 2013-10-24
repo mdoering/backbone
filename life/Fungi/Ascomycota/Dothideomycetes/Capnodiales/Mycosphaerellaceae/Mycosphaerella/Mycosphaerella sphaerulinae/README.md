@@ -1,5 +1,4 @@
-Mycosphaerella sphaerulinae Crous & M.J. Wingf., 2003 SPECIES
-=======
+# Mycosphaerella sphaerulinae Crous & M.J. Wingf., 2003 SPECIES
 
 #### Status
 ACCEPTED

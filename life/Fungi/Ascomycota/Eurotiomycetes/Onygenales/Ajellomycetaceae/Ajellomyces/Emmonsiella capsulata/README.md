@@ -1,5 +1,4 @@
-Emmonsiella capsulata Kwon-Chung SPECIES
-=======
+# Emmonsiella capsulata Kwon-Chung SPECIES
 
 #### Status
 ACCEPTED

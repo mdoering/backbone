@@ -1,5 +1,4 @@
-Gloeocantharellus echinosporus Corner SPECIES
-=======
+# Gloeocantharellus echinosporus Corner SPECIES
 
 #### Status
 ACCEPTED

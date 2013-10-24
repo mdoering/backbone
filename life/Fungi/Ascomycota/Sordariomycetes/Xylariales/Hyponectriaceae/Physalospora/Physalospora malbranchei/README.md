@@ -1,5 +1,4 @@
-Physalospora malbranchei P. Karst. SPECIES
-=======
+# Physalospora malbranchei P. Karst. SPECIES
 
 #### Status
 ACCEPTED

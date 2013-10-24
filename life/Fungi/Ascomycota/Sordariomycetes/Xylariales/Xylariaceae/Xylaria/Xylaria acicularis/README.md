@@ -1,5 +1,4 @@
-Xylaria acicularis Berk. SPECIES
-=======
+# Xylaria acicularis Berk. SPECIES
 
 #### Status
 ACCEPTED

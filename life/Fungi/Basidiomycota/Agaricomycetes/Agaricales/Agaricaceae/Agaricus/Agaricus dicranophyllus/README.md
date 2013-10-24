@@ -1,5 +1,4 @@
-Agaricus dicranophyllus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus dicranophyllus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

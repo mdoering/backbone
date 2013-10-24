@@ -1,5 +1,4 @@
-Cortinarius multivagus Britzelm. SPECIES
-=======
+# Cortinarius multivagus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

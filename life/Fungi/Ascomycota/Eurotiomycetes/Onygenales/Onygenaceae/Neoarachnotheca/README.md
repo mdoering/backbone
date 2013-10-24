@@ -1,5 +1,4 @@
-Neoarachnotheca Ulfig, Cano & Guarro GENUS
-=======
+# Neoarachnotheca Ulfig, Cano & Guarro GENUS
 
 #### Status
 ACCEPTED

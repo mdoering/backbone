@@ -1,11 +1,10 @@
-Eberthella alcalifaciens de Salles Gomes, 1944 SPECIES
-=======
+# Providencia alcalifaciens (de Salles Gomes, 1944) Ewing, 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

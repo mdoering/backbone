@@ -1,5 +1,4 @@
-Pseudonocardia dioxanivorans Mahendra & Alvarez-Cohen, 2005 SPECIES
-=======
+# Pseudonocardia dioxanivorans Mahendra & Alvarez-Cohen, 2005 SPECIES
 
 #### Status
 ACCEPTED

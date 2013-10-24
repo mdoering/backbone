@@ -1,5 +1,4 @@
-Strombidium stylifer Levander, 1894 SPECIES
-=======
+# Strombidium stylifer Levander, 1894 SPECIES
 
 #### Status
 ACCEPTED

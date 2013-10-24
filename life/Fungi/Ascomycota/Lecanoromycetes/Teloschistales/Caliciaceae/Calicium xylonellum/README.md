@@ -1,5 +1,4 @@
-Calicium xylonellum ß trabinellum Ach. SPECIES
-=======
+# Calicium xylonellum ß trabinellum Ach. SPECIES
 
 #### Status
 ACCEPTED

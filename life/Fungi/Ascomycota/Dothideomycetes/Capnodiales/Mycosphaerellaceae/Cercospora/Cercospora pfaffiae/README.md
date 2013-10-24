@@ -1,5 +1,4 @@
-Cercospora pfaffiae Chupp SPECIES
-=======
+# Cercospora pfaffiae Chupp SPECIES
 
 #### Status
 ACCEPTED

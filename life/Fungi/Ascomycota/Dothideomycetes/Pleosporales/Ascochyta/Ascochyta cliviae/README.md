@@ -1,5 +1,4 @@
-Ascochyta cliviae Magnaghi SPECIES
-=======
+# Ascochyta cliviae Magnaghi SPECIES
 
 #### Status
 ACCEPTED

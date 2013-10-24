@@ -1,5 +1,4 @@
-Peridinium latistriatum Balech, 1958 SPECIES
-=======
+# Peridinium latistriatum Balech, 1958 SPECIES
 
 #### Status
 ACCEPTED

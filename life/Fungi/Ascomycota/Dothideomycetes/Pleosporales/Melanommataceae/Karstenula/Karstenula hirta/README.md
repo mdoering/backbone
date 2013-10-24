@@ -1,5 +1,4 @@
-Karstenula hirta f. hirta FORM
-=======
+# Karstenula hirta (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Karstenula hirta f. hirta
+Sphaeria hirtella Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Apiosporina harunganae Hansf. SPECIES
-=======
+# Apiosporina harunganae Hansf. SPECIES
 
 #### Status
 ACCEPTED

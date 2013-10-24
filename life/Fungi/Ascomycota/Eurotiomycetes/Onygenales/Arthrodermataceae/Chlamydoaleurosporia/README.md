@@ -1,5 +1,4 @@
-Chlamydoaleurosporia GENUS
-=======
+# Chlamydoaleurosporia GENUS
 
 #### Status
 ACCEPTED

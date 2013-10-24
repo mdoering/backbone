@@ -1,5 +1,4 @@
-Aspicilia subobscura (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia subobscura (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

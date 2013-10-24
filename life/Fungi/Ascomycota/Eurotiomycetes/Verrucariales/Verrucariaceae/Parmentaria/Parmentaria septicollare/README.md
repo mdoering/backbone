@@ -1,5 +1,4 @@
-Parmentaria septicollare (Eschw.) Trevis. SPECIES
-=======
+# Parmentaria septicollare (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria prospersella Nyl. SPECIES
-=======
+# Verrucaria prospersella Nyl. SPECIES
 
 #### Status
 ACCEPTED

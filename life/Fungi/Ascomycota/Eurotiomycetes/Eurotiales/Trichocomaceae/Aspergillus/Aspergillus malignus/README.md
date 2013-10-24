@@ -1,5 +1,4 @@
-Aspergillus malignus Gedoelst ex Lindt, 1889 SPECIES
-=======
+# Aspergillus malignus Gedoelst ex Lindt, 1889 SPECIES
 
 #### Status
 ACCEPTED

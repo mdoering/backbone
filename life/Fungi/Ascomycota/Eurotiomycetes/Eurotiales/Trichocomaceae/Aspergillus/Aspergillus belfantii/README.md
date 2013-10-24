@@ -1,5 +1,4 @@
-Aspergillus belfantii Carbone SPECIES
-=======
+# Aspergillus belfantii Carbone SPECIES
 
 #### Status
 ACCEPTED

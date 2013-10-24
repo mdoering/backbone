@@ -1,5 +1,4 @@
-Candelariella margaretae Hakul. SPECIES
-=======
+# Candelariella margaretae Hakul. SPECIES
 
 #### Status
 ACCEPTED

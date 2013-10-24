@@ -1,5 +1,4 @@
-Clintoniella fusigera (Berk. & Broome) Petch SPECIES
-=======
+# Clintoniella fusigera (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trithigmostoma alpestris Foissner, 1979 SPECIES
-=======
+# Trithigmostoma alpestris Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

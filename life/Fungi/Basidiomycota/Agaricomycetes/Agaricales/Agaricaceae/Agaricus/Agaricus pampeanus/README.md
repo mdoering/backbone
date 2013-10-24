@@ -1,14 +1,13 @@
-Fungus pampeanus (Speg.) Kuntze, 1898 SPECIES
-=======
+# Agaricus pampeanus Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 480 (1898)
+Fungi argentini pugillus 9: 280 (1880)
 
 #### Original name
 Agaricus pampeanus Speg., 1880

@@ -1,5 +1,4 @@
-Uredo puiggarii Speg. SPECIES
-=======
+# Uredo puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma nyabisi Mattlet SPECIES
-=======
+# Mycoderma nyabisi Mattlet SPECIES
 
 #### Status
 ACCEPTED

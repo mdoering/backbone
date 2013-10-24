@@ -1,5 +1,4 @@
-Pachyella coquandii (Donadini) Häffner & Schopfer SPECIES
-=======
+# Pachyella coquandii (Donadini) Häffner & Schopfer SPECIES
 
 #### Status
 ACCEPTED

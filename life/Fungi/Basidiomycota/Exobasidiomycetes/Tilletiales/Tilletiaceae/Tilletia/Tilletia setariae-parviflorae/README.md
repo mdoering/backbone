@@ -1,5 +1,4 @@
-Tilletia setariae-parviflorae Vánky & R.G. Shivas SPECIES
-=======
+# Tilletia setariae-parviflorae Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

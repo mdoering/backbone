@@ -1,5 +1,4 @@
-Tuborecta Pronina in Petrova & Pronina, 1980 GENUS
-=======
+# Tuborecta Pronina in Petrova & Pronina, 1980 GENUS
 
 #### Status
 ACCEPTED

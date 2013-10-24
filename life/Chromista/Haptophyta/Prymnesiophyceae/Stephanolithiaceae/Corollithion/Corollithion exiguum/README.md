@@ -1,5 +1,4 @@
-Corollithion exiguum Stradner, 1961 SPECIES
-=======
+# Corollithion exiguum Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

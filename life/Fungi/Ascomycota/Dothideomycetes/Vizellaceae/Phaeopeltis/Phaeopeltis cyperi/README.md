@@ -1,5 +1,4 @@
-Phaeopeltis cyperi Bat. SPECIES
-=======
+# Phaeopeltis cyperi Bat. SPECIES
 
 #### Status
 ACCEPTED

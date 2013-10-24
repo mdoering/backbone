@@ -1,5 +1,4 @@
-Stereocaulon vermiculare (Sw.) Raeuschel SPECIES
-=======
+# Stereocaulon vermiculare (Sw.) Raeuschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eiffellithus pospichalii SPECIES
-=======
+# Eiffellithus pospichalii SPECIES
 
 #### Status
 ACCEPTED

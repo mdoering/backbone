@@ -1,5 +1,4 @@
-Woronina elegans (Perronc.) A. Fisch. SPECIES
-=======
+# Woronina elegans (Perronc.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

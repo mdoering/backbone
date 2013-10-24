@@ -1,5 +1,4 @@
-Nectria poliosa Ellis & Everh. SPECIES
-=======
+# Nectria poliosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

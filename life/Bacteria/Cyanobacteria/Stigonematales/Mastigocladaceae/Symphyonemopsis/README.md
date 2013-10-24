@@ -1,5 +1,4 @@
-Symphyonemopsis G.L.Tiwari & A.K.Mitra, 1969 GENUS
-=======
+# Symphyonemopsis G.L.Tiwari & A.K.Mitra, 1969 GENUS
 
 #### Status
 ACCEPTED

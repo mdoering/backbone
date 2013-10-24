@@ -1,5 +1,4 @@
-Dichotomophthoropsis safeeulaensis Bhat, Rasheed & Sheeba, 1990 SPECIES
-=======
+# Dichotomophthoropsis safeeulaensis Bhat, Rasheed & Sheeba, 1990 SPECIES
 
 #### Status
 ACCEPTED

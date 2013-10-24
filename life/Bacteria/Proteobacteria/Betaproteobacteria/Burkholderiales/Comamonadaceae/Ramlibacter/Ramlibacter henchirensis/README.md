@@ -1,5 +1,4 @@
-Ramlibacter henchirensis Heulin et al., 2003 SPECIES
-=======
+# Ramlibacter henchirensis Heulin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

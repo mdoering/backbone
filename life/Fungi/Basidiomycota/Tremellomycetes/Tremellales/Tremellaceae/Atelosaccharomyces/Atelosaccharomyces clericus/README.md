@@ -1,5 +1,4 @@
-Atelosaccharomyces clericus C.W. Dodge SPECIES
-=======
+# Atelosaccharomyces clericus C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

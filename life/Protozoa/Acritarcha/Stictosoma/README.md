@@ -1,5 +1,4 @@
-Stictosoma Wicander, Playford & Robertson, 1999 GENUS
-=======
+# Stictosoma Wicander, Playford & Robertson, 1999 GENUS
 
 #### Status
 ACCEPTED

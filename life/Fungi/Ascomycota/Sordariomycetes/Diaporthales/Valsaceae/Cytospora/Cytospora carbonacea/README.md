@@ -1,5 +1,4 @@
-Cytospora carbonacea Westend., 1866 SPECIES
-=======
+# Cytospora carbonacea Westend., 1866 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium paradoxum (Brunaud) Sacc. SPECIES
-=======
+# Coniothyrium paradoxum (Brunaud) Sacc. SPECIES
 
 #### Status
 ACCEPTED

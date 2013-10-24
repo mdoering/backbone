@@ -1,17 +1,16 @@
-Hilberina dactylina (J. Webster) Declercq, 2009 SPECIES
-=======
+# Lasiosphaeria dactylina J. Webster, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hilber, Webster & Hilber, Trans. Br. mycol. Soc. 89(4): 589 (1987)
 
 #### Original name
-null
+Lasiosphaeria dactylina J. Webster, 1987
 
 ### Remarks
 null

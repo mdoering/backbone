@@ -1,14 +1,13 @@
-Le-Ratia smaragdina Pat. ex Sacc. & Trotter SPECIES
-=======
+# Leratiomyces smaragdinus (Pat. ex Sacc. & Trotter) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 468 (1912)
+null
 
 #### Original name
 Le-Ratia smaragdina Pat. ex Sacc. & Trotter

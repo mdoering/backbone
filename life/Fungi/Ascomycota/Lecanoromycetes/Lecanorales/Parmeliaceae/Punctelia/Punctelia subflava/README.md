@@ -1,5 +1,4 @@
-Parmelia laceratula f. laceratula FORM
-=======
+# Punctelia subflava (Taylor) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. lich. 1: 390 (1860)
+Mycotaxon 31(2): 501 (1988)
 
 #### Original name
-Parmelia laceratula f. laceratula
+Parmelia subflava Taylor
 
 ### Remarks
 null

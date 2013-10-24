@@ -1,5 +1,4 @@
-Lysobacter daejeonensis Weon et al., 2006 SPECIES
-=======
+# Lysobacter daejeonensis Weon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

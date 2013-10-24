@@ -1,5 +1,4 @@
-Crepidotus citricolor Singer SPECIES
-=======
+# Crepidotus citricolor Singer SPECIES
 
 #### Status
 ACCEPTED

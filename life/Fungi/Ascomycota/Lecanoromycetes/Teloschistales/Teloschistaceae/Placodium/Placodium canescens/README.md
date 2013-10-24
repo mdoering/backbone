@@ -1,5 +1,4 @@
-Placodium canescens (Dicks.) DC. SPECIES
-=======
+# Placodium canescens (Dicks.) DC. SPECIES
 
 #### Status
 ACCEPTED

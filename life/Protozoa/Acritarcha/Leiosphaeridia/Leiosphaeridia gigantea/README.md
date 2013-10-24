@@ -1,5 +1,4 @@
-Leiosphaeridia gigantea Shepeleva, 1963 ex Pyatiletov, 1978 SPECIES
-=======
+# Leiosphaeridia gigantea Shepeleva, 1963 ex Pyatiletov, 1978 SPECIES
 
 #### Status
 ACCEPTED

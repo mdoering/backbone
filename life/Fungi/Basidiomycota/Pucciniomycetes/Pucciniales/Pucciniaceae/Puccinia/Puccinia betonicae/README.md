@@ -1,17 +1,16 @@
-Uredo betonicae var. phyteumatis Röhl. VARIETY
-=======
+# Puccinia betonicae (Alb. & Schwein.) DC., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 57 (1815)
 
 #### Original name
-Uredo betonicae var. phyteumatis Röhl.
+Puccinia anemones var. betonicae Alb. & Schwein., 1805
 
 ### Remarks
 null

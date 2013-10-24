@@ -1,5 +1,4 @@
-Gordonia alkanivorans Kummer et al., 1999 SPECIES
-=======
+# Gordonia alkanivorans Kummer et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

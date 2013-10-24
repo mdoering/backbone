@@ -1,5 +1,4 @@
-Zonarium Haeckel, 1887 GENUS
-=======
+# Zonarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

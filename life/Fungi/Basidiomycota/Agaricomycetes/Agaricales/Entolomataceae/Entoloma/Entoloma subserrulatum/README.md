@@ -1,5 +1,4 @@
-Entoloma subserrulatum (Peck) Hesler SPECIES
-=======
+# Entoloma subserrulatum (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

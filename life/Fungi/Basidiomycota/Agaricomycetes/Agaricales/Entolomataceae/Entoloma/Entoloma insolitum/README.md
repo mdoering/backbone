@@ -1,5 +1,4 @@
-Entoloma insolitum Noordel., 1987 SPECIES
-=======
+# Entoloma insolitum Noordel., 1987 SPECIES
 
 #### Status
 ACCEPTED

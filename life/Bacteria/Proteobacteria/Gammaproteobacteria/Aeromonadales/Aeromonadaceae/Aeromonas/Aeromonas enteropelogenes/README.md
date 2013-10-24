@@ -1,5 +1,4 @@
-Aeromonas enteropelogenes Schubert et al., 1991 SPECIES
-=======
+# Aeromonas enteropelogenes Schubert et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

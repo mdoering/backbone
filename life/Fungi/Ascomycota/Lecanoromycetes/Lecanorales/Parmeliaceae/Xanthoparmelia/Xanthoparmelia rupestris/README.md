@@ -1,5 +1,4 @@
-Xanthoparmelia rupestris Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia rupestris Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

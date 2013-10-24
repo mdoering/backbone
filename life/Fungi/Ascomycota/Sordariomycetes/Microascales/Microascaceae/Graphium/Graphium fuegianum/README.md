@@ -1,5 +1,4 @@
-Graphium fuegianum Speg. SPECIES
-=======
+# Graphium fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

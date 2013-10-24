@@ -1,5 +1,4 @@
-Crepidotus ehrendorferi Hauskn. & Krisai SPECIES
-=======
+# Crepidotus ehrendorferi Hauskn. & Krisai SPECIES
 
 #### Status
 ACCEPTED

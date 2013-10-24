@@ -1,5 +1,4 @@
-Inocybe nigrescens G.F. Atk. SPECIES
-=======
+# Inocybe nigrescens G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

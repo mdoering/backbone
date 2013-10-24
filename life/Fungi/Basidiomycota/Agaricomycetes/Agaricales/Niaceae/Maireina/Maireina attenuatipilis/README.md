@@ -1,5 +1,4 @@
-Maireina attenuatipilis Bodenst. SPECIES
-=======
+# Maireina attenuatipilis Bodenst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe nemorosa (R. Heim) Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe nemorosa (R. Heim) Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

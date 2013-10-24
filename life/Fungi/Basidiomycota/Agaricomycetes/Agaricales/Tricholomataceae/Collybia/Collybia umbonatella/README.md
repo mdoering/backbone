@@ -1,5 +1,4 @@
-Collybia umbonatella Singer SPECIES
-=======
+# Collybia umbonatella Singer SPECIES
 
 #### Status
 ACCEPTED

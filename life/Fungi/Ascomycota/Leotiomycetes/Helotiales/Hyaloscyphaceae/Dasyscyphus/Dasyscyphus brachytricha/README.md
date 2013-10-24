@@ -1,8 +1,7 @@
-Dasyscypha brachytricha (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Dasyscyphus brachytricha (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Coprobia bohemica (Velen.) Svrcek SPECIES
-=======
+# Coprobia bohemica (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

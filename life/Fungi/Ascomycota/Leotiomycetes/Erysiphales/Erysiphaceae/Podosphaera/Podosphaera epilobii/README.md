@@ -1,5 +1,4 @@
-Podosphaera epilobii (Wallr.) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera epilobii (Wallr.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

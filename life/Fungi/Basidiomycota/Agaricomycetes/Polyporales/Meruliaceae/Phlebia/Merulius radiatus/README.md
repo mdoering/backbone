@@ -1,5 +1,4 @@
-Merulius radiatus Holmsk. SPECIES
-=======
+# Merulius radiatus Holmsk. SPECIES
 
 #### Status
 ACCEPTED

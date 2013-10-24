@@ -1,5 +1,4 @@
-Coccomyces umbonatus (Preuss) Sacc. SPECIES
-=======
+# Coccomyces umbonatus (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

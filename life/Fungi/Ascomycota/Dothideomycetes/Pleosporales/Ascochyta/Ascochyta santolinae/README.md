@@ -1,5 +1,4 @@
-Ascochyta santolinae Gonz. Frag. SPECIES
-=======
+# Ascochyta santolinae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

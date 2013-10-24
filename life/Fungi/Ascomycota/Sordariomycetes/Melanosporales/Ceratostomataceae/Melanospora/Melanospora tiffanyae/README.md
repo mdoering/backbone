@@ -1,5 +1,4 @@
-Melanospora tiffanyae Kowalski SPECIES
-=======
+# Melanospora tiffanyae Kowalski SPECIES
 
 #### Status
 ACCEPTED

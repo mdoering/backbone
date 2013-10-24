@@ -1,5 +1,4 @@
-Ammonia flevensis (Hofker) SPECIES
-=======
+# Ammonia flevensis (Hofker) SPECIES
 
 #### Status
 ACCEPTED

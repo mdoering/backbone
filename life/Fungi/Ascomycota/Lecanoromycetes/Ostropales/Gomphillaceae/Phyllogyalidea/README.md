@@ -1,5 +1,4 @@
-Phyllogyalidea GENUS
-=======
+# Phyllogyalidea GENUS
 
 #### Status
 ACCEPTED

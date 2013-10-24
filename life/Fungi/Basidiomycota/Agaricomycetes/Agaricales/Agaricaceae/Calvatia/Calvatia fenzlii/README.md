@@ -1,5 +1,4 @@
-Calvatia fenzlii (Reichardt) Kawam. SPECIES
-=======
+# Calvatia fenzlii (Reichardt) Kawam. SPECIES
 
 #### Status
 ACCEPTED

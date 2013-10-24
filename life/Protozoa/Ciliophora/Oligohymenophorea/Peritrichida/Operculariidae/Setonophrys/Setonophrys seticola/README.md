@@ -1,8 +1,7 @@
-Lagenophrys seticola Kane, 1965 SPECIES
-=======
+# Setonophrys seticola (Kane, 1965) Jankowski, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

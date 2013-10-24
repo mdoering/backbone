@@ -1,5 +1,4 @@
-Galerula subannulata G.F. Atk. SPECIES
-=======
+# Galerula subannulata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

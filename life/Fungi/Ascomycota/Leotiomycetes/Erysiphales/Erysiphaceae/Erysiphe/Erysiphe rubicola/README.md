@@ -1,14 +1,13 @@
-Erysiphe carpophila var. rubicola B.J. Murray, 1926 VARIETY
-=======
+# Erysiphe rubicola (B.J. Murray) Boesew., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 57: 218 (1926)
+Trans. Br. mycol. Soc. 67(1): 144 (1976)
 
 #### Original name
 Erysiphe carpophila var. rubicola B.J. Murray, 1926

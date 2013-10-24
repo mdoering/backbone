@@ -1,5 +1,4 @@
-Psychrobacter vallis Shivaji et al., 2005 SPECIES
-=======
+# Psychrobacter vallis Shivaji et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

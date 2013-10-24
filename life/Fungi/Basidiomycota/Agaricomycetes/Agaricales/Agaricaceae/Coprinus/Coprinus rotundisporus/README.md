@@ -1,5 +1,4 @@
-Coprinus rotundisporus Peck SPECIES
-=======
+# Coprinus rotundisporus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ravennae Maire SPECIES
-=======
+# Uredo ravennae Maire SPECIES
 
 #### Status
 ACCEPTED

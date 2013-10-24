@@ -1,5 +1,4 @@
-Irene adelphica (Syd.) Syd. SPECIES
-=======
+# Irene adelphica (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hansfordina GENUS
-=======
+# Hansfordina GENUS
 
 #### Status
 ACCEPTED

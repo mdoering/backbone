@@ -1,5 +1,4 @@
-Sphaeria pleuronervia De Not. SPECIES
-=======
+# Sphaeria pleuronervia De Not. SPECIES
 
 #### Status
 ACCEPTED

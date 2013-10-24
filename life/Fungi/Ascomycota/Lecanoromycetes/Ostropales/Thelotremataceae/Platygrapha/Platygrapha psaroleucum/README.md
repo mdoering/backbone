@@ -1,5 +1,4 @@
-Platygrapha psaroleucum Fée SPECIES
-=======
+# Platygrapha psaroleucum Fée SPECIES
 
 #### Status
 ACCEPTED

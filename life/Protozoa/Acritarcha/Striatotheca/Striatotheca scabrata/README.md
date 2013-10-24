@@ -1,5 +1,4 @@
-Striatotheca scabrata (Cramer, 1964) Eisenack et al., 1976 SPECIES
-=======
+# Striatotheca scabrata (Cramer, 1964) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

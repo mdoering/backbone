@@ -1,5 +1,4 @@
-Cercospora chinensis F.L. Tai SPECIES
-=======
+# Cercospora chinensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

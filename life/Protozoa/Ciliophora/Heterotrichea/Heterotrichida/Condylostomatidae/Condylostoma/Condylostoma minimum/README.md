@@ -1,8 +1,7 @@
-Condylostoma minima Dragesco, 1960 SPECIES
-=======
+# Condylostoma minimum Dragesco, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

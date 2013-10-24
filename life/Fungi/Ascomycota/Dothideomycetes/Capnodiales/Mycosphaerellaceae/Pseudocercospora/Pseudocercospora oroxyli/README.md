@@ -1,5 +1,4 @@
-Pseudocercospora oroxyli (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora oroxyli (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

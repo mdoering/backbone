@@ -1,5 +1,4 @@
-Carchesium duplex Dumas, 1930 SPECIES
-=======
+# Carchesium duplex Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

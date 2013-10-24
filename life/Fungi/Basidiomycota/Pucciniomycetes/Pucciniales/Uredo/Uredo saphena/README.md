@@ -1,5 +1,4 @@
-Uredo saphena Arthur & Cummins SPECIES
-=======
+# Uredo saphena Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycotodea striolata (Pass.) Kirschst. SPECIES
-=======
+# Mycotodea striolata (Pass.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

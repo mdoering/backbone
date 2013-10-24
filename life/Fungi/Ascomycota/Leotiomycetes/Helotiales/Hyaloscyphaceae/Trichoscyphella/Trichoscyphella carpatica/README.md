@@ -1,5 +1,4 @@
-Trichoscyphella carpatica Svrcek SPECIES
-=======
+# Trichoscyphella carpatica Svrcek SPECIES
 
 #### Status
 ACCEPTED

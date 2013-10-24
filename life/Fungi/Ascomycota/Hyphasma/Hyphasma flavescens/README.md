@@ -1,5 +1,4 @@
-Hyphasma flavescens Rebent. SPECIES
-=======
+# Hyphasma flavescens Rebent. SPECIES
 
 #### Status
 ACCEPTED

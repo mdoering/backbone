@@ -1,5 +1,4 @@
-Mycoplasma fastidiosum Lemcke & Poland, 1980 SPECIES
-=======
+# Mycoplasma fastidiosum Lemcke & Poland, 1980 SPECIES
 
 #### Status
 ACCEPTED

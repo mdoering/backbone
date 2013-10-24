@@ -1,5 +1,4 @@
-Transversigerina GENUS
-=======
+# Transversigerina GENUS
 
 #### Status
 ACCEPTED

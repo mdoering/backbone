@@ -1,5 +1,4 @@
-Agaricus antitypus Berk. SPECIES
-=======
+# Agaricus antitypus Berk. SPECIES
 
 #### Status
 ACCEPTED

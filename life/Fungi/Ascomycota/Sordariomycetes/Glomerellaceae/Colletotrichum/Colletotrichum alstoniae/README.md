@@ -1,5 +1,4 @@
-Colletotrichum alstoniae (Sacc.) Singh {?} SPECIES
-=======
+# Colletotrichum alstoniae (Sacc.) Singh {?} SPECIES
 
 #### Status
 ACCEPTED

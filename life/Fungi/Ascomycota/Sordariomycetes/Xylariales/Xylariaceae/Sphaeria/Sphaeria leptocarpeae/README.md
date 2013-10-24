@@ -1,5 +1,4 @@
-Sphaeria leptocarpeae Opiz SPECIES
-=======
+# Sphaeria leptocarpeae Opiz SPECIES
 
 #### Status
 ACCEPTED

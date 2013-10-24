@@ -1,5 +1,4 @@
-Naemaspora coccinea Rebent. SPECIES
-=======
+# Naemaspora coccinea Rebent. SPECIES
 
 #### Status
 ACCEPTED

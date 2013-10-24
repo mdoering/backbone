@@ -1,5 +1,4 @@
-Cercospora caricina Ellis & Dearn. SPECIES
-=======
+# Cercospora caricina Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena augstumalis Schmidle SPECIES
-=======
+# Anabaena augstumalis Schmidle SPECIES
 
 #### Status
 ACCEPTED

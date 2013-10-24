@@ -1,5 +1,4 @@
-Stigmatomma diplotomoides var. monstruosum B. de Lesd. VARIETY
-=======
+# Stigmatomma diplotomoides anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stigmatomma diplotomoides var. monstruosum B. de Lesd.
+Stigmatomma diplotomoides anon.
 
 ### Remarks
 null

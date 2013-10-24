@@ -1,5 +1,4 @@
-Agaricochaete mirabilis Eichelb., 1906 SPECIES
-=======
+# Agaricochaete mirabilis Eichelb., 1906 SPECIES
 
 #### Status
 ACCEPTED

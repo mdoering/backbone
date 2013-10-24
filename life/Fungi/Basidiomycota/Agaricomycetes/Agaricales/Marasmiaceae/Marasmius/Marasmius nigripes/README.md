@@ -1,5 +1,4 @@
-Marasmius nigripes var. nigripes VARIETY
-=======
+# Marasmius nigripes Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius nigripes var. nigripes
+Marasmius nigripes Schwein.
 
 ### Remarks
 null

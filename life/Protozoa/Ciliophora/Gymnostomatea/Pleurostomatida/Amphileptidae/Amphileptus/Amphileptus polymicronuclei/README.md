@@ -1,5 +1,4 @@
-Amphileptus polymicronuclei (Fenchel, 1965) Jankowski, 1992 SPECIES
-=======
+# Amphileptus polymicronuclei (Fenchel, 1965) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

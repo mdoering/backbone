@@ -1,5 +1,4 @@
-Distephanus hannae (D. Bukry) D. Bukry SPECIES
-=======
+# Distephanus hannae (D. Bukry) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

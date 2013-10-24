@@ -1,5 +1,4 @@
-Peziza variecolor Fr., 1822 SPECIES
-=======
+# Peziza variecolor Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED

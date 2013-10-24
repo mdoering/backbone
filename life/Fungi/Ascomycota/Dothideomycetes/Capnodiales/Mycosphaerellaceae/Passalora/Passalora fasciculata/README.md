@@ -1,5 +1,4 @@
-Passalora fasciculata (Cooke & Ellis) Earle SPECIES
-=======
+# Passalora fasciculata (Cooke & Ellis) Earle SPECIES
 
 #### Status
 ACCEPTED

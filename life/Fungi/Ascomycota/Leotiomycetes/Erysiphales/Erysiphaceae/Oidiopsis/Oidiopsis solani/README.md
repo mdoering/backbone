@@ -1,5 +1,4 @@
-Oidiopsis solani N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal SPECIES
-=======
+# Oidiopsis solani N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

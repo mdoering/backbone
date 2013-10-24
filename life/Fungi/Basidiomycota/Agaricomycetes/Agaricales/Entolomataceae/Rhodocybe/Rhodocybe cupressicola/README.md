@@ -1,5 +1,4 @@
-Rhodocybe cupressicola Carassai, Papa & Contu SPECIES
-=======
+# Rhodocybe cupressicola Carassai, Papa & Contu SPECIES
 
 #### Status
 ACCEPTED

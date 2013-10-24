@@ -1,5 +1,4 @@
-Uromyces brandzae Savul. SPECIES
-=======
+# Uromyces brandzae Savul. SPECIES
 
 #### Status
 ACCEPTED

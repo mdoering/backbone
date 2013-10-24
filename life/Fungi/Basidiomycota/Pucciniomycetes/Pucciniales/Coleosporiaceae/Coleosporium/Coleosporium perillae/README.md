@@ -1,5 +1,4 @@
-Coleosporium perillae Dietel & P. Syd., 1899 SPECIES
-=======
+# Coleosporium perillae Dietel & P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

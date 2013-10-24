@@ -1,5 +1,4 @@
-Aposphaeria heveae Petch SPECIES
-=======
+# Aposphaeria heveae Petch SPECIES
 
 #### Status
 ACCEPTED

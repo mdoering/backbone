@@ -1,5 +1,4 @@
-Diplocalium Grassé & Deflandre in Grassé, 1952 GENUS
-=======
+# Diplocalium Grassé & Deflandre in Grassé, 1952 GENUS
 
 #### Status
 ACCEPTED

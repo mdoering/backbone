@@ -1,5 +1,4 @@
-Eubacterium nodatum Holdeman et al., 1980 SPECIES
-=======
+# Eubacterium nodatum Holdeman et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microporellus peninsularis (Corner) Decock, 2001 SPECIES
-=======
+# Vanderbylia peninsularis Corner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 93(4): 782 (2001)
+Beih. Nova Hedwigia 86: 247 (1987)
 
 #### Original name
 Vanderbylia peninsularis Corner, 1987

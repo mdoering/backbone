@@ -1,5 +1,4 @@
-Cenangium russum (Berk. & Broome) Sacc. SPECIES
-=======
+# Cenangium russum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella umbratica Peck SPECIES
-=======
+# Psathyrella umbratica Peck SPECIES
 
 #### Status
 ACCEPTED

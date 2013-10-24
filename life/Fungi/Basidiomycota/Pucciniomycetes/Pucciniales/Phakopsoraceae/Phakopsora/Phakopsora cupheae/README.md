@@ -1,5 +1,4 @@
-Phakopsora cupheae Buriticá SPECIES
-=======
+# Phakopsora cupheae Buriticá SPECIES
 
 #### Status
 ACCEPTED

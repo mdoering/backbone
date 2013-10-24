@@ -1,5 +1,4 @@
-Coscinodiscus concinnus W.Smith, 1856 SPECIES
-=======
+# Coscinodiscus concinnus W.Smith, 1856 SPECIES
 
 #### Status
 ACCEPTED

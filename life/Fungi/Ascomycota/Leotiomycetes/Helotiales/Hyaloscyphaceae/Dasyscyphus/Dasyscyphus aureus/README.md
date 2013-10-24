@@ -1,5 +1,4 @@
-Dasyscyphus aureus Graddon, 1986 SPECIES
-=======
+# Dasyscyphus aureus Graddon, 1986 SPECIES
 
 #### Status
 ACCEPTED

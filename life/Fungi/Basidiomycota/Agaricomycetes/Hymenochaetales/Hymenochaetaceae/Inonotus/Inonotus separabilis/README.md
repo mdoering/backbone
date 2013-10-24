@@ -1,5 +1,4 @@
-Inonotus separabilis Corner SPECIES
-=======
+# Inonotus separabilis Corner SPECIES
 
 #### Status
 ACCEPTED

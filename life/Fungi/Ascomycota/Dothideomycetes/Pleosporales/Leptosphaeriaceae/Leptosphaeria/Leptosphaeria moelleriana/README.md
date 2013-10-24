@@ -1,8 +1,7 @@
-Leptosphaeria molleriana Niessl SPECIES
-=======
+# Leptosphaeria moelleriana Niessl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria molleriana Niessl
+Leptosphaeria moelleriana Niessl
 
 ### Remarks
 null

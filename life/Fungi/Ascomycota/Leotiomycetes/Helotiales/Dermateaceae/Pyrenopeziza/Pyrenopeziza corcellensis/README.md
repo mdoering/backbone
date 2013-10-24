@@ -1,5 +1,4 @@
-Pyrenopeziza corcellensis Sacc. SPECIES
-=======
+# Pyrenopeziza corcellensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

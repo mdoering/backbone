@@ -1,5 +1,4 @@
-Awerintzewia Schouteden, 1906 GENUS
-=======
+# Awerintzewia Schouteden, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus fortis Scheldeman et al., 2004 SPECIES
-=======
+# Bacillus fortis Scheldeman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Operculina d'Orbigny, 1826 GENUS
-=======
+# Operculina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

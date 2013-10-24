@@ -1,5 +1,4 @@
-Oidium pulchrum (Berk.) Linder SPECIES
-=======
+# Oidium pulchrum (Berk.) Linder SPECIES
 
 #### Status
 ACCEPTED

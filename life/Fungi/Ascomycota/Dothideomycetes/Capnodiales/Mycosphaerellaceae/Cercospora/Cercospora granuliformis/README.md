@@ -1,5 +1,4 @@
-Cercospora granuliformis Ellis & Holw. SPECIES
-=======
+# Cercospora granuliformis Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

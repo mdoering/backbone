@@ -1,5 +1,4 @@
-Petrosphaeria Stopes & H. Fujii GENUS
-=======
+# Petrosphaeria Stopes & H. Fujii GENUS
 
 #### Status
 ACCEPTED

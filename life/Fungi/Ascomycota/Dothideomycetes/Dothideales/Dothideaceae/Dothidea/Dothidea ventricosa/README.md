@@ -1,5 +1,4 @@
-Dothidea ventricosa Durieu & Mont. SPECIES
-=======
+# Dothidea ventricosa Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

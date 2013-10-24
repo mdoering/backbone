@@ -1,5 +1,4 @@
-Lophodermium vrieseae Rehm, 1900 SPECIES
-=======
+# Lophodermium vrieseae Rehm, 1900 SPECIES
 
 #### Status
 ACCEPTED

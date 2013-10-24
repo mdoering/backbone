@@ -1,17 +1,16 @@
-Psathyrodon Maas Geest. GENUS
-=======
+# Beenakia D.A. Reid GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 31(3): 417 (1977)
+Kew Bull. 635 (1956)
 
 #### Original name
-Psathyrodon Maas Geest.
+Beenakia D.A. Reid
 
 ### Remarks
 null

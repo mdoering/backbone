@@ -1,5 +1,4 @@
-Triceromyces hebri R.K. Benj. SPECIES
-=======
+# Triceromyces hebri R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

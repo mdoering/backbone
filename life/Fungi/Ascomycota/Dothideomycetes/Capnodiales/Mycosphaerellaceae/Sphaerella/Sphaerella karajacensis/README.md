@@ -1,5 +1,4 @@
-Sphaerella karajacensis Allesch. SPECIES
-=======
+# Sphaerella karajacensis Allesch. SPECIES
 
 #### Status
 ACCEPTED

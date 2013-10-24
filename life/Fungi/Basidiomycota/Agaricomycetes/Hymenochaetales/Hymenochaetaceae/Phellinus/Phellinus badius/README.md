@@ -1,17 +1,16 @@
-Polystictus badius var. badius VARIETY
-=======
+# Phellinus badius (Berk. ex Cooke) G. Cunn., 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 273 (1965)
 
 #### Original name
-Polystictus badius var. badius
+Fomes badius Berk. ex Cooke, 1885
 
 ### Remarks
 null

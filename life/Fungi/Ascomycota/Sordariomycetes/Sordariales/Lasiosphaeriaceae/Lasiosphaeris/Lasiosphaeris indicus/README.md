@@ -1,5 +1,4 @@
-Lasiosphaeris indicus A. Pande SPECIES
-=======
+# Lasiosphaeris indicus A. Pande SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella catervata (Massee) P.D. Orton SPECIES
-=======
+# Psathyrella catervata (Massee) P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phacopsis mulleri Willey SPECIES
-=======
+# Skyttella mulleri (Willey) D. Hawksw. & R. Sant., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Graphis Scripta 2(2): 34 (1988)
 
 #### Original name
 Phacopsis mulleri Willey

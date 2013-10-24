@@ -1,5 +1,4 @@
-Davisomycella Darker GENUS
-=======
+# Davisomycella Darker GENUS
 
 #### Status
 ACCEPTED

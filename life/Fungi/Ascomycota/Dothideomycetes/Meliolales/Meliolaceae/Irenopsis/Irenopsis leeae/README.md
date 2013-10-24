@@ -1,5 +1,4 @@
-Irenopsis leeae var. leeae VARIETY
-=======
+# Irenopsis leeae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , Bot. 51: 268 (1937)
 
 #### Original name
-Irenopsis leeae var. leeae
+Irenopsis leeae Hansf.
 
 ### Remarks
 null

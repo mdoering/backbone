@@ -1,5 +1,4 @@
-Galera macromastes Fr. SPECIES
-=======
+# Galera macromastes Fr. SPECIES
 
 #### Status
 ACCEPTED

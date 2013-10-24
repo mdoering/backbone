@@ -1,5 +1,4 @@
-Pyrenophora polyphragmoides Sacc. & Scalia SPECIES
-=======
+# Pyrenophora polyphragmoides Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

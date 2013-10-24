@@ -1,5 +1,4 @@
-Hypocomides modiolariae Chatton & Lwoff, 1922 SPECIES
-=======
+# Hypocomides modiolariae Chatton & Lwoff, 1922 SPECIES
 
 #### Status
 ACCEPTED

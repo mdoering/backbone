@@ -1,5 +1,4 @@
-Protoochromonas Skvortzov, 1961 GENUS
-=======
+# Protoochromonas Skvortzov, 1961 GENUS
 
 #### Status
 SYNONYM

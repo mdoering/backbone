@@ -1,5 +1,4 @@
-Dientamoeba fragilis Jepps & Dobell, 1918 SPECIES
-=======
+# Dientamoeba fragilis Jepps & Dobell, 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discina melaleuca Bres., 1898 SPECIES
-=======
+# Discina melaleuca Bres., 1898 SPECIES
 
 #### Status
 ACCEPTED

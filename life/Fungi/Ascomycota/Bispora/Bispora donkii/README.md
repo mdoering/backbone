@@ -1,17 +1,16 @@
-Bispora donkiana Subramon. & V.G. Rao SPECIES
-=======
+# Bispora donkii Subramon. & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Bot. Indica 4(1): 59 (1976)
 
 #### Original name
-Bispora donkiana Subramon. & V.G. Rao
+Bispora donkii Subramon. & V.G. Rao
 
 ### Remarks
 null

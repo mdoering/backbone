@@ -1,5 +1,4 @@
-Agrococcus citreus Wieser et al., 1999 SPECIES
-=======
+# Agrococcus citreus Wieser et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

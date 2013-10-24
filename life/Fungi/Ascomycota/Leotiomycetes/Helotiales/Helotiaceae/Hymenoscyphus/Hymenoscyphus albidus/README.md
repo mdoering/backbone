@@ -1,17 +1,16 @@
-Hymenoscyphus albidus var. albidus VARIETY
-=======
+# Hymenoscyphus albidus (Gillet) W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Discomyc. (London) 138 (1887)
 
 #### Original name
-Hymenoscyphus albidus var. albidus
+null
 
 ### Remarks
 null

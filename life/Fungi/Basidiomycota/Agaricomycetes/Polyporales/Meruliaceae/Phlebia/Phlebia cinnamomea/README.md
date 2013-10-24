@@ -1,5 +1,4 @@
-Phlebia cinnamomea Rick SPECIES
-=======
+# Phlebia cinnamomea Rick SPECIES
 
 #### Status
 ACCEPTED

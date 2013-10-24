@@ -1,5 +1,4 @@
-Erioscypha calospora (Pat. & Gaillard) Kirschst. SPECIES
-=======
+# Erioscypha calospora (Pat. & Gaillard) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

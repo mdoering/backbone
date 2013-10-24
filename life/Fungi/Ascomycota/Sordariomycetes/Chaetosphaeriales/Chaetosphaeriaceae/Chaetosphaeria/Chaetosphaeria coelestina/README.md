@@ -1,5 +1,4 @@
-Chaetosphaeria coelestina Höhn., 1909 SPECIES
-=======
+# Chaetosphaeria coelestina Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

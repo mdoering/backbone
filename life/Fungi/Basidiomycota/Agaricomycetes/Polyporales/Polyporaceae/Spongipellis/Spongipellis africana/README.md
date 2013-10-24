@@ -1,5 +1,4 @@
-Spongipellis africana Ipulet & Ryvarden, 2005 SPECIES
-=======
+# Spongipellis africana Ipulet & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

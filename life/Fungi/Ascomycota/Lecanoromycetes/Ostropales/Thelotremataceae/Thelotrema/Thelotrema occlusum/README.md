@@ -1,5 +1,4 @@
-Thelotrema occlusum Nyl. SPECIES
-=======
+# Thelotrema occlusum Nyl. SPECIES
 
 #### Status
 ACCEPTED

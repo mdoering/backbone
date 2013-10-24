@@ -1,5 +1,4 @@
-Ascochyta wisteriae Tassi SPECIES
-=======
+# Ascochyta wisteriae Tassi SPECIES
 
 #### Status
 ACCEPTED

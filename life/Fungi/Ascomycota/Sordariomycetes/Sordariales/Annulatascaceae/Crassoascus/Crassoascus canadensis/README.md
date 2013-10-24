@@ -1,5 +1,4 @@
-Crassoascus canadensis M.E. Barr SPECIES
-=======
+# Crassoascus canadensis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

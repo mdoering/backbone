@@ -1,5 +1,4 @@
-Sclerotinia glacialis Frank Graf & T. Schumach. SPECIES
-=======
+# Sclerotinia glacialis Frank Graf & T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

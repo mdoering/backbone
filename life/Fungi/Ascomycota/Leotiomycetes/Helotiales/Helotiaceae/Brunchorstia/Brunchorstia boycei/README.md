@@ -1,5 +1,4 @@
-Brunchorstia boycei (Dearn.) G.G. Hahn SPECIES
-=======
+# Brunchorstia boycei (Dearn.) G.G. Hahn SPECIES
 
 #### Status
 ACCEPTED

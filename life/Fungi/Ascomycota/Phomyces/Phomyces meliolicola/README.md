@@ -1,14 +1,13 @@
-Chaetophoma meliolicola Speg., 1908 SPECIES
-=======
+# Phomyces meliolicola (Speg.) Clem., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Mus. La Plata 15(2): 34 (1908)
+Gen. Fung. (Minneapolis) 359 (1931)
 
 #### Original name
 Chaetophoma meliolicola Speg., 1908

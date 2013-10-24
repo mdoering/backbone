@@ -1,5 +1,4 @@
-Diplodia fibriseda Sacc. SPECIES
-=======
+# Diplodia fibriseda Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype collariata Cooke & Ellis SPECIES
-=======
+# Diatrype collariata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

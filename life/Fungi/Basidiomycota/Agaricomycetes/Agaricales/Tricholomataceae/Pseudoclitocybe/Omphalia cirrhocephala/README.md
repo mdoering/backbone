@@ -1,5 +1,4 @@
-Omphalia cirrhocephala Berk. & Broome SPECIES
-=======
+# Omphalia cirrhocephala Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

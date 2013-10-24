@@ -1,5 +1,4 @@
-Thurammina limnetis Scott & Medioli, 1980 SPECIES
-=======
+# Thurammina limnetis Scott & Medioli, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium dogielii Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium dogielii Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

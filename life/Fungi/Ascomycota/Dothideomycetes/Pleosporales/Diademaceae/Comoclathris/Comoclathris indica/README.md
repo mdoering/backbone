@@ -1,5 +1,4 @@
-Comoclathris indica M.S. Patil & A.B. Pawar SPECIES
-=======
+# Comoclathris indica M.S. Patil & A.B. Pawar SPECIES
 
 #### Status
 ACCEPTED

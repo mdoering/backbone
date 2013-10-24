@@ -1,8 +1,7 @@
-Voluta hemispiralis Chardez, 1972 SPECIES
-=======
+# Volutella hemispiralis (Chardez, 1972) Chardez, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

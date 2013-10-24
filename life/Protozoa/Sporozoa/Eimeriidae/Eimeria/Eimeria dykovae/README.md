@@ -1,5 +1,4 @@
-Eimeria dykovae Molnar & Rohde, 1988 SPECIES
-=======
+# Eimeria dykovae Molnar & Rohde, 1988 SPECIES
 
 #### Status
 ACCEPTED

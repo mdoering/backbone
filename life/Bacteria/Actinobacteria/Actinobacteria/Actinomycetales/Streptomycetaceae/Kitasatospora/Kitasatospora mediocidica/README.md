@@ -1,5 +1,4 @@
-Kitasatospora mediocidica Labeda, 1988 SPECIES
-=======
+# Kitasatospora mediocidica Labeda, 1988 SPECIES
 
 #### Status
 ACCEPTED

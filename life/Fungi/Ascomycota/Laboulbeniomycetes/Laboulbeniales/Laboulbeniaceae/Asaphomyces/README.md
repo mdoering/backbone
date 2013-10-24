@@ -1,5 +1,4 @@
-Asaphomyces Thaxt. GENUS
-=======
+# Asaphomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

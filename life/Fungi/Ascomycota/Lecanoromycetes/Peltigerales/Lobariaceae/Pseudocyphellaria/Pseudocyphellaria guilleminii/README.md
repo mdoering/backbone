@@ -1,5 +1,4 @@
-Pseudocyphellaria guilleminii (Mont.) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria guilleminii (Mont.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

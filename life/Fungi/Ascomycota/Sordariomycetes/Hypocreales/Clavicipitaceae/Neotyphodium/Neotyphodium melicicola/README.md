@@ -1,5 +1,4 @@
-Neotyphodium melicicola C.D. Moon & Schardl SPECIES
-=======
+# Neotyphodium melicicola C.D. Moon & Schardl SPECIES
 
 #### Status
 ACCEPTED

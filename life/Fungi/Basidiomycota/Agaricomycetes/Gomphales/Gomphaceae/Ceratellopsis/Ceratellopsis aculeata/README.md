@@ -1,14 +1,13 @@
-Ceratella aculeata (Pat.) Pat., 1900 SPECIES
-=======
+# Ceratellopsis aculeata (Pat.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 49 (1900)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 200 (1950)
 
 #### Original name
 Pistillaria aculeata Pat., 1883

@@ -1,5 +1,4 @@
-Meliola eriolaenicola B. Song & Y.H. Shen SPECIES
-=======
+# Meliola eriolaenicola B. Song & Y.H. Shen SPECIES
 
 #### Status
 ACCEPTED

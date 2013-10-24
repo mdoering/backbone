@@ -1,5 +1,4 @@
-Amerostege pseudopustula (Briard & Har.) Theiss. SPECIES
-=======
+# Amerostege pseudopustula (Briard & Har.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

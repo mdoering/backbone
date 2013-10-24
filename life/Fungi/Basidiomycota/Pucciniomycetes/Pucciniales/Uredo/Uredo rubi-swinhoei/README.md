@@ -1,5 +1,4 @@
-Uredo rubi-swinhoei Sawada SPECIES
-=======
+# Uredo rubi-swinhoei Sawada SPECIES
 
 #### Status
 ACCEPTED

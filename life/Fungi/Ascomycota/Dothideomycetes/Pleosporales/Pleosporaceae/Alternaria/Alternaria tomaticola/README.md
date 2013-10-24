@@ -1,5 +1,4 @@
-Alternaria tomaticola E.G. Simmons & Chellemi SPECIES
-=======
+# Alternaria tomaticola E.G. Simmons & Chellemi SPECIES
 
 #### Status
 ACCEPTED

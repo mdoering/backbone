@@ -1,5 +1,4 @@
-Exserohilum oryzinum Sivan. SPECIES
-=======
+# Exserohilum oryzinum Sivan. SPECIES
 
 #### Status
 ACCEPTED

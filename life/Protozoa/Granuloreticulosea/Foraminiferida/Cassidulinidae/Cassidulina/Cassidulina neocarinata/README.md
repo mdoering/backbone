@@ -1,5 +1,4 @@
-Cassidulina neocarinata SPECIES
-=======
+# Cassidulina neocarinata SPECIES
 
 #### Status
 ACCEPTED

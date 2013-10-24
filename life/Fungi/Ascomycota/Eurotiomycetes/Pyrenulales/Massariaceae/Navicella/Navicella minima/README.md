@@ -1,5 +1,4 @@
-Navicella minima (Allesch.) Kuntze SPECIES
-=======
+# Navicella minima (Allesch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

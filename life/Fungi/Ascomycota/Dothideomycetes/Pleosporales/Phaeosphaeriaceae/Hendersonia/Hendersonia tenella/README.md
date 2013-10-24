@@ -1,5 +1,4 @@
-Hendersonia tenella J. Schröt. SPECIES
-=======
+# Hendersonia tenella J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

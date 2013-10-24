@@ -1,5 +1,4 @@
-Sphaeria conjugata De Not. SPECIES
-=======
+# Sphaeria conjugata De Not. SPECIES
 
 #### Status
 ACCEPTED

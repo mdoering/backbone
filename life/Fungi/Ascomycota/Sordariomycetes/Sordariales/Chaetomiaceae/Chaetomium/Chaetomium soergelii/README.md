@@ -1,17 +1,16 @@
-Chaetomium sorgelii Sörgel SPECIES
-=======
+# Chaetomium soergelii Sörgel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Seth, Nova Hedwigia, Beih. 37: 100 (1972)
 
 #### Original name
-Chaetomium sorgelii Sörgel
+Chaetomium soergelii Sörgel
 
 ### Remarks
 null

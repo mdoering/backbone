@@ -1,5 +1,4 @@
-Sporocybe eumorphum Sacc. SPECIES
-=======
+# Sporocybe eumorphum Sacc. SPECIES
 
 #### Status
 ACCEPTED

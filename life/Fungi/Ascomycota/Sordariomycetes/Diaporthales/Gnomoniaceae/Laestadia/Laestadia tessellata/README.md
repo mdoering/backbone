@@ -1,5 +1,4 @@
-Laestadia tessellata G. Winter ex Har., 1883 SPECIES
-=======
+# Laestadia tessellata G. Winter ex Har., 1883 SPECIES
 
 #### Status
 ACCEPTED

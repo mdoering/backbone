@@ -1,5 +1,4 @@
-Steinetella GENUS
-=======
+# Steinetella GENUS
 
 #### Status
 ACCEPTED

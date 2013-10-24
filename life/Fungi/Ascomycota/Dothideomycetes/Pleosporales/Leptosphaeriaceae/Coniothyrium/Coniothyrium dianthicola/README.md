@@ -1,5 +1,4 @@
-Coniothyrium dianthicola Alcalde SPECIES
-=======
+# Coniothyrium dianthicola Alcalde SPECIES
 
 #### Status
 ACCEPTED

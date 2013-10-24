@@ -1,8 +1,7 @@
-Phoma hyalina (Berk. & M.A. Curtis) Sacc., 1884 SPECIES
-=======
+# Sphaeropsis hyalina Berk. & M.A. Curtis, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

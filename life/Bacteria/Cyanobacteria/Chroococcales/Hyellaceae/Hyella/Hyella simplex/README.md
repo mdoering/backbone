@@ -1,5 +1,4 @@
-Hyella simplex Chu & Hua SPECIES
-=======
+# Hyella simplex Chu & Hua SPECIES
 
 #### Status
 ACCEPTED

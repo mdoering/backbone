@@ -1,5 +1,4 @@
-Arthothelium taediosum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium taediosum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

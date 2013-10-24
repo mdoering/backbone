@@ -1,5 +1,4 @@
-Trachelomonas cinkotaënsis Hortobágyi SPECIES
-=======
+# Trachelomonas cinkotaënsis Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

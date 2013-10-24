@@ -1,5 +1,4 @@
-Verrucaria pseudodufourei Garov. SPECIES
-=======
+# Verrucaria pseudodufourei Garov. SPECIES
 
 #### Status
 ACCEPTED

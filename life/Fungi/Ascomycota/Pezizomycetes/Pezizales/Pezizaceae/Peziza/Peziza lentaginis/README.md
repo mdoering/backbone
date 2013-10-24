@@ -1,5 +1,4 @@
-Peziza lentaginis Schwein. SPECIES
-=======
+# Peziza lentaginis Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannopilus picassoi H. Stradner SPECIES
-=======
+# Cannopilus picassoi H. Stradner SPECIES
 
 #### Status
 ACCEPTED

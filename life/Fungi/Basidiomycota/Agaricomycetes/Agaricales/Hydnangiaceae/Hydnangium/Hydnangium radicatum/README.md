@@ -1,5 +1,4 @@
-Hydnangium radicatum J.W. Cribb SPECIES
-=======
+# Hydnangium radicatum J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

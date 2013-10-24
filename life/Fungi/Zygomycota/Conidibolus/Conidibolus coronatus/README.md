@@ -1,5 +1,4 @@
-Conidibolus coronatus (Cost.) Batko SPECIES
-=======
+# Conidibolus coronatus (Cost.) Batko SPECIES
 
 #### Status
 ACCEPTED

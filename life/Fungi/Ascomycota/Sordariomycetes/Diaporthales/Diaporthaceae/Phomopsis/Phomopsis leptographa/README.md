@@ -1,5 +1,4 @@
-Phomopsis leptographa (Sacc.) Petr. SPECIES
-=======
+# Phomopsis leptographa (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

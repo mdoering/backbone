@@ -1,14 +1,13 @@
-Cercospora cavarae Sacc. & D. Sacc., 1902 SPECIES
-=======
+# Pseudocercospora cavarae (Sacc. & D. Sacc.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 1069 (1902)
+Mycol. Pap. 140: 141 (1976)
 
 #### Original name
 Cercospora cavarae Sacc. & D. Sacc., 1902

@@ -1,5 +1,4 @@
-Entyloma terrieri Mayor SPECIES
-=======
+# Entyloma terrieri Mayor SPECIES
 
 #### Status
 ACCEPTED

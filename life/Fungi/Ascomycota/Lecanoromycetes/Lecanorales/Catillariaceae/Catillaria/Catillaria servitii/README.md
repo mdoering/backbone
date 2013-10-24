@@ -1,5 +1,4 @@
-Catillaria servitii Szatala SPECIES
-=======
+# Catillaria servitii Szatala SPECIES
 
 #### Status
 ACCEPTED

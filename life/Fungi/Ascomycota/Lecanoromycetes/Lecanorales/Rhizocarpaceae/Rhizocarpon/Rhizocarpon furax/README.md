@@ -1,5 +1,4 @@
-Rhizocarpon furax Poelt & V. Wirth SPECIES
-=======
+# Rhizocarpon furax Poelt & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

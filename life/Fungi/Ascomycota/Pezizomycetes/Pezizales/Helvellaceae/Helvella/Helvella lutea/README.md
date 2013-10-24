@@ -1,5 +1,4 @@
-Helvella lutea Scop. SPECIES
-=======
+# Helvella lutea Scop. SPECIES
 
 #### Status
 ACCEPTED

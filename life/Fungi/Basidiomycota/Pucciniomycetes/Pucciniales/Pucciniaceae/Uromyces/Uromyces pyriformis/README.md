@@ -1,5 +1,4 @@
-Uromyces pyriformis Cooke SPECIES
-=======
+# Uromyces pyriformis Cooke SPECIES
 
 #### Status
 ACCEPTED

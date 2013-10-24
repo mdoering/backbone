@@ -1,5 +1,4 @@
-Misgomyces argentinensis (Speg.) Thaxt. SPECIES
-=======
+# Misgomyces argentinensis (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

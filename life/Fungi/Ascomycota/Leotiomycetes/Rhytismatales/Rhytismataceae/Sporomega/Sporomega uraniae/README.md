@@ -1,5 +1,4 @@
-Sporomega uraniae (Mont.) Duby SPECIES
-=======
+# Sporomega uraniae (Mont.) Duby SPECIES
 
 #### Status
 ACCEPTED

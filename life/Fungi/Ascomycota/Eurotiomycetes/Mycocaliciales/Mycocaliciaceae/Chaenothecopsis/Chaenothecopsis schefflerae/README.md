@@ -1,14 +1,13 @@
-Mycocalicium schefflerae Samuels & D.E. Buchanan SPECIES
-=======
+# Chaenothecopsis schefflerae (Samuels & D.E. Buchanan) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-N. Z. Jl Bot. 21(2): 163 (1983)
+Symb. bot. upsal. 27(no. 1): 158 (1987)
 
 #### Original name
 Mycocalicium schefflerae Samuels & D.E. Buchanan

@@ -1,5 +1,4 @@
-Aplosporella insitiva Sacc. SPECIES
-=======
+# Aplosporella insitiva Sacc. SPECIES
 
 #### Status
 ACCEPTED

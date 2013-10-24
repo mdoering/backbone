@@ -1,5 +1,4 @@
-Asteromella tanaceti (Vasyag.) Vanev & Aa SPECIES
-=======
+# Asteromella tanaceti (Vasyag.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

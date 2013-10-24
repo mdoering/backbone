@@ -1,5 +1,4 @@
-Meliola anacardii var. anacardii VARIETY
-=======
+# Meliola anacardii Zimm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Zentbl. Bakt. ParasitKde, Abt. II 8(5): 151 (1902)
 
 #### Original name
-Meliola anacardii var. anacardii
+Meliola anacardii Zimm.
 
 ### Remarks
 null

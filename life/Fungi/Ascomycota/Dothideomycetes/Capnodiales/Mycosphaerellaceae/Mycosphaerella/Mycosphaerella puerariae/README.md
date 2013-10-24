@@ -1,5 +1,4 @@
-Mycosphaerella puerariae (Keissl.) Petr. SPECIES
-=======
+# Mycosphaerella puerariae (Keissl.) Petr. SPECIES
 
 #### Status
 ACCEPTED

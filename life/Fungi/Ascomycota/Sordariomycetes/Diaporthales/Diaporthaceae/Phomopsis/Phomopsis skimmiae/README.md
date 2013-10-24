@@ -1,5 +1,4 @@
-Phomopsis skimmiae Grove, 1933 SPECIES
-=======
+# Phomopsis skimmiae Grove, 1933 SPECIES
 
 #### Status
 ACCEPTED

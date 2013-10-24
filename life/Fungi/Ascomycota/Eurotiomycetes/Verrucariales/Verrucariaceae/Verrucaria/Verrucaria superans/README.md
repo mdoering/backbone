@@ -1,5 +1,4 @@
-Verrucaria superans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria superans (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

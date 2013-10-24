@@ -1,5 +1,4 @@
-Peniophora coprosmae G. Cunn., 1955 SPECIES
-=======
+# Peniophora coprosmae G. Cunn., 1955 SPECIES
 
 #### Status
 ACCEPTED

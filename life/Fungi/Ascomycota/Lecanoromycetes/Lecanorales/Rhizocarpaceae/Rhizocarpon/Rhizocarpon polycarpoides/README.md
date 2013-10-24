@@ -1,5 +1,4 @@
-Rhizocarpon polycarpoides Degel. SPECIES
-=======
+# Rhizocarpon polycarpoides Degel. SPECIES
 
 #### Status
 ACCEPTED

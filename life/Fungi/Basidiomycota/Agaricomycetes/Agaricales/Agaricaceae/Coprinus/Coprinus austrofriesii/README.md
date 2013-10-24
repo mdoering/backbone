@@ -1,5 +1,4 @@
-Coprinus austrofriesii Redhead & Pegler SPECIES
-=======
+# Coprinus austrofriesii Redhead & Pegler SPECIES
 
 #### Status
 ACCEPTED

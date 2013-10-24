@@ -1,5 +1,4 @@
-Graphina darjeelingensis Dharne & Roych. SPECIES
-=======
+# Graphina darjeelingensis Dharne & Roych. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucantharomyces tuberculiferus Thaxt. SPECIES
-=======
+# Eucantharomyces tuberculiferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

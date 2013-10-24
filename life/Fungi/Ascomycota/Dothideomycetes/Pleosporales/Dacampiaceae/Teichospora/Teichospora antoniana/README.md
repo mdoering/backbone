@@ -1,5 +1,4 @@
-Teichospora antoniana Kirschst. SPECIES
-=======
+# Teichospora antoniana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

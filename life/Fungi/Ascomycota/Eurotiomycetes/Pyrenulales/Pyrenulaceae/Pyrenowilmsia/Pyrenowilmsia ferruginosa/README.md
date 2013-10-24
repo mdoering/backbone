@@ -1,14 +1,13 @@
-Verrucaria ferruginosa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Pyrenowilmsia ferruginosa (Müll. Arg.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 44: 75 (1991)
 
 #### Original name
 null

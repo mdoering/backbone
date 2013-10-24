@@ -1,5 +1,4 @@
-Phaeosphaeria recessa (Pass.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria recessa (Pass.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

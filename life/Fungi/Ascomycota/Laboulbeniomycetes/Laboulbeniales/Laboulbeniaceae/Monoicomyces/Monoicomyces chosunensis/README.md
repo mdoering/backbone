@@ -1,5 +1,4 @@
-Monoicomyces chosunensis Y.B. Lee SPECIES
-=======
+# Monoicomyces chosunensis Y.B. Lee SPECIES
 
 #### Status
 ACCEPTED

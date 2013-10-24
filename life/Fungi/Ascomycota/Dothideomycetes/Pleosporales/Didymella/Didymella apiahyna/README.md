@@ -1,5 +1,4 @@
-Didymella apiahyna Speg. SPECIES
-=======
+# Didymella apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

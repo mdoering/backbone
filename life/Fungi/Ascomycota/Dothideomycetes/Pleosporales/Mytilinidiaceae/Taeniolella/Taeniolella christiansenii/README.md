@@ -1,5 +1,4 @@
-Taeniolella christiansenii Alstrup & D. Hawksw. SPECIES
-=======
+# Taeniolella christiansenii Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroidina tainanensis Nakamura SPECIES
-=======
+# Gyroidina tainanensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

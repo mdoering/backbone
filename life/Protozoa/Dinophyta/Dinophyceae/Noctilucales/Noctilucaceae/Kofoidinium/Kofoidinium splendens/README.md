@@ -1,5 +1,4 @@
-Kofoidinium splendens Cachon & Cachon SPECIES
-=======
+# Kofoidinium splendens Cachon & Cachon SPECIES
 
 #### Status
 ACCEPTED

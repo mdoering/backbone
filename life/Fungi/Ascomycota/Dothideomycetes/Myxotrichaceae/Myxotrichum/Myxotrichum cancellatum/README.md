@@ -1,17 +1,16 @@
-Myxotrichum spinosum Massee & E.S. Salmon, 1902 SPECIES
-=======
+# Myxotrichum cancellatum W. Phillips, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Coproph. fungi 2: 64 (1902)
+Grevillea (1884)
 
 #### Original name
-Myxotrichum spinosum Massee & E.S. Salmon, 1902
+Myxotrichum cancellatum W. Phillips, 1884
 
 ### Remarks
 null

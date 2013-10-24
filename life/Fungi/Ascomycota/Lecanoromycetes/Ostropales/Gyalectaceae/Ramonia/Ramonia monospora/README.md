@@ -1,5 +1,4 @@
-Ramonia monospora Aptroot SPECIES
-=======
+# Ramonia monospora Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella barbieri (Westend.) Sacc. SPECIES
-=======
+# Didymella barbieri (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

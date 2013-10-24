@@ -1,5 +1,4 @@
-Sistotrema candidum Pers. SPECIES
-=======
+# Sistotrema candidum Pers. SPECIES
 
 #### Status
 ACCEPTED

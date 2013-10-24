@@ -1,5 +1,4 @@
-Fusulina cylindrica Fischer SPECIES
-=======
+# Fusulina cylindrica Fischer SPECIES
 
 #### Status
 ACCEPTED

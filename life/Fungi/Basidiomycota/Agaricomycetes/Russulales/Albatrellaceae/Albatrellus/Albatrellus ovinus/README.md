@@ -1,17 +1,16 @@
-Polyporus ovinus subsp. ovinus (Schaeff.) Fr. SUBSPECIES
-=======
+# Albatrellus ovinus (Schaeff.) Kotl. & Pouzar, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 11(3): 154 (1957)
 
 #### Original name
-Polyporus ovinus subsp. ovinus (Schaeff.) Fr.
+Boletus ovinus Schaeff., 1774
 
 ### Remarks
 null

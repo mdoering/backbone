@@ -1,5 +1,4 @@
-Discoaster germanicus Martini, 1958 SPECIES
-=======
+# Discoaster germanicus Martini, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema kalakkadense Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema kalakkadense Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

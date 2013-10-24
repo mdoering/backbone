@@ -1,5 +1,4 @@
-Verrucaria pleiomera Nyl. SPECIES
-=======
+# Verrucaria pleiomera Nyl. SPECIES
 
 #### Status
 ACCEPTED

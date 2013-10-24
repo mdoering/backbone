@@ -1,5 +1,4 @@
-Diplodia frangulae var. frangulae VARIETY
-=======
+# Diplodia frangulae Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 174 (1870)
 
 #### Original name
-Diplodia frangulae var. frangulae
+Diplodia frangulae Fuckel
 
 ### Remarks
 null

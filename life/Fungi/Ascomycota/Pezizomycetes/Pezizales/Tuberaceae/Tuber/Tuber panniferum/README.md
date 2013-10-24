@@ -1,5 +1,4 @@
-Tuber panniferum Tul. SPECIES
-=======
+# Tuber panniferum Tul. SPECIES
 
 #### Status
 ACCEPTED

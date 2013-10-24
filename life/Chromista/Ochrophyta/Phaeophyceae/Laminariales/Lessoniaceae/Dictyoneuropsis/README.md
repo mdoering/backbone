@@ -1,5 +1,4 @@
-Dictyoneuropsis G.M. Smith, 1942 GENUS
-=======
+# Dictyoneuropsis G.M. Smith, 1942 GENUS
 
 #### Status
 ACCEPTED

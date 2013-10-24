@@ -1,5 +1,4 @@
-Cassidulina norcrossi SPECIES
-=======
+# Cassidulina norcrossi SPECIES
 
 #### Status
 ACCEPTED

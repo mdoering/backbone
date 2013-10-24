@@ -1,5 +1,4 @@
-Amphorides quadrilineata (Claparède & Lachmann, 1858) SPECIES
-=======
+# Amphorides quadrilineata (Claparède & Lachmann, 1858) SPECIES
 
 #### Status
 ACCEPTED

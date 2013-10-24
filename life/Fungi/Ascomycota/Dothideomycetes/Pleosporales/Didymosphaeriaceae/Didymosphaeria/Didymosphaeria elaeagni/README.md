@@ -1,5 +1,4 @@
-Didymosphaeria elaeagni Potebnia SPECIES
-=======
+# Didymosphaeria elaeagni Potebnia SPECIES
 
 #### Status
 ACCEPTED

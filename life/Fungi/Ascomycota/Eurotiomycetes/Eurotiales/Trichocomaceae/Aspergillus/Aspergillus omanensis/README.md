@@ -1,5 +1,4 @@
-Aspergillus omanensis Y. Horie & Udagawa SPECIES
-=======
+# Aspergillus omanensis Y. Horie & Udagawa SPECIES
 
 #### Status
 ACCEPTED

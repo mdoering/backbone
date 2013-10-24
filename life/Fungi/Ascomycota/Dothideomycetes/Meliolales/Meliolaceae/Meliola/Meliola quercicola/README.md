@@ -1,5 +1,4 @@
-Meliola quercicola H. Hu SPECIES
-=======
+# Meliola quercicola H. Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria woronowiana (Rehm) Bezuch. SPECIES
-=======
+# Strickeria woronowiana (Rehm) Bezuch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella involuta (Romagn.) M.M. Moser SPECIES
-=======
+# Psathyrella involuta (Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

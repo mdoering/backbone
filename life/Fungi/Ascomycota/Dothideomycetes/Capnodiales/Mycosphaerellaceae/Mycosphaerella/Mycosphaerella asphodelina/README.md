@@ -1,5 +1,4 @@
-Mycosphaerella asphodelina (Alcalde) M. Morelet SPECIES
-=======
+# Mycosphaerella asphodelina (Alcalde) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

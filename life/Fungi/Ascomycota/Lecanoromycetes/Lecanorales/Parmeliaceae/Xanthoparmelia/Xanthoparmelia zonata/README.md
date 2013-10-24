@@ -1,5 +1,4 @@
-Xanthoparmelia zonata Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia zonata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

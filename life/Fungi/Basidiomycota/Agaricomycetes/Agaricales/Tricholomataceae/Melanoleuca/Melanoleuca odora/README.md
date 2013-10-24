@@ -1,5 +1,4 @@
-Melanoleuca odora (Peck) Murrill SPECIES
-=======
+# Melanoleuca odora (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius guttisporus Verbeken & E. Horak SPECIES
-=======
+# Lactarius guttisporus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

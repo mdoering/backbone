@@ -1,5 +1,4 @@
-Corynacineta Yankovskii, 1978 GENUS
-=======
+# Corynacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

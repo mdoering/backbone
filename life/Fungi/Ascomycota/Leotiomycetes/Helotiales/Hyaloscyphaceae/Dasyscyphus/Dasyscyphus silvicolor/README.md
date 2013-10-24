@@ -1,5 +1,4 @@
-Dasyscyphus silvicolor Svrcek SPECIES
-=======
+# Dasyscyphus silvicolor Svrcek SPECIES
 
 #### Status
 ACCEPTED

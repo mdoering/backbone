@@ -1,5 +1,4 @@
-Agrocybe munnarensis K.A. Thomas & Manim. SPECIES
-=======
+# Agrocybe munnarensis K.A. Thomas & Manim. SPECIES
 
 #### Status
 ACCEPTED

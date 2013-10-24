@@ -1,5 +1,4 @@
-Fusisporium obtusum Cooke SPECIES
-=======
+# Fusisporium obtusum Cooke SPECIES
 
 #### Status
 ACCEPTED

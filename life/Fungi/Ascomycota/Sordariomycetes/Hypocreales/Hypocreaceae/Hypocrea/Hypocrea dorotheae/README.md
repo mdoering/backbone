@@ -1,5 +1,4 @@
-Hypocrea dorotheae Samuels & Dodd, 2006 SPECIES
-=======
+# Hypocrea dorotheae Samuels & Dodd, 2006 SPECIES
 
 #### Status
 ACCEPTED

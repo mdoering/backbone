@@ -1,5 +1,4 @@
-Psilocybe kolya Grgur. SPECIES
-=======
+# Psilocybe kolya Grgur. SPECIES
 
 #### Status
 ACCEPTED

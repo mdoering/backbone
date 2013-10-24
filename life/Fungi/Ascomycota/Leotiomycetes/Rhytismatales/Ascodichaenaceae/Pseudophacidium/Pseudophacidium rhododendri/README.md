@@ -1,5 +1,4 @@
-Pseudophacidium rhododendri Rehm SPECIES
-=======
+# Pseudophacidium rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

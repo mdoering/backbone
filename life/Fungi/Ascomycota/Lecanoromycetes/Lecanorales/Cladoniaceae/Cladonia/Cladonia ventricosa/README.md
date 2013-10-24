@@ -1,5 +1,4 @@
-Cladonia ventricosa var. ventricosa VARIETY
-=======
+# Cladonia ventricosa anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia ventricosa var. ventricosa
+Cladonia ventricosa anon.
 
 ### Remarks
 null

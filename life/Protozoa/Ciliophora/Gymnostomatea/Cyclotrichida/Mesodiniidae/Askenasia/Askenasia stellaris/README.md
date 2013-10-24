@@ -1,8 +1,7 @@
-Lohmanniella stellaris Leegaard, 1920 SPECIES
-=======
+# Askenasia stellaris (Leegaard, 1920) ? SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

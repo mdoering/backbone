@@ -1,5 +1,4 @@
-Oospora multiformis (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora multiformis (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

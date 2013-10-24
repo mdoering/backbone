@@ -1,5 +1,4 @@
-Pyrenochaeta penniseti J. Kranz, 1969 SPECIES
-=======
+# Pyrenochaeta penniseti J. Kranz, 1969 SPECIES
 
 #### Status
 ACCEPTED

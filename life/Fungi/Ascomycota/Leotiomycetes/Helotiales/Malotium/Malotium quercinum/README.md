@@ -1,5 +1,4 @@
-Malotium quercinum Velen. SPECIES
-=======
+# Malotium quercinum Velen. SPECIES
 
 #### Status
 ACCEPTED

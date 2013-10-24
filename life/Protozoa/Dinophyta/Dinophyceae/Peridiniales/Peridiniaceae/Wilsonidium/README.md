@@ -1,5 +1,4 @@
-Wilsonidium J.K. Lentin & G.L. Williams, 1975 GENUS
-=======
+# Wilsonidium J.K. Lentin & G.L. Williams, 1975 GENUS
 
 #### Status
 ACCEPTED

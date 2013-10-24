@@ -1,5 +1,4 @@
-Bottaria collospora Vain. SPECIES
-=======
+# Bottaria collospora Vain. SPECIES
 
 #### Status
 ACCEPTED

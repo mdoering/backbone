@@ -1,17 +1,16 @@
-Aspergillus argentum J.N. Rai & H.J. Chowdhery SPECIES
-=======
+# Aspergillus argenteus J.N. Rai & H.J. Chowdhery SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 7: 19 (1980)
 
 #### Original name
-Aspergillus argentum J.N. Rai & H.J. Chowdhery
+Aspergillus argenteus J.N. Rai & H.J. Chowdhery
 
 ### Remarks
 null

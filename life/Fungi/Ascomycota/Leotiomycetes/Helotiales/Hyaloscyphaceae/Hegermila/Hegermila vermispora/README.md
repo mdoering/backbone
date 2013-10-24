@@ -1,5 +1,4 @@
-Hegermila vermispora Raitv. & Järv, 1995 SPECIES
-=======
+# Hegermila vermispora Raitv. & Järv, 1995 SPECIES
 
 #### Status
 ACCEPTED

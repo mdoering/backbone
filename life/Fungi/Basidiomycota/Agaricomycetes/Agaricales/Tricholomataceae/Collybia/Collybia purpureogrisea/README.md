@@ -1,14 +1,13 @@
-Marasmius purpureogriseus Petch, 1948 SPECIES
-=======
+# Collybia purpureogrisea (Petch) Pegler, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 31: 40 (1947)
+Kew Bull. , Addit. Ser. 12: 127 (1986)
 
 #### Original name
 Marasmius purpureogriseus Petch, 1948

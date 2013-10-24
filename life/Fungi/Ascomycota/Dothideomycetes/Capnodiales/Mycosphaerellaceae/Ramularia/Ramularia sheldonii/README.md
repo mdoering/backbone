@@ -1,14 +1,13 @@
-Ramularia sheldoni (Dearn. & House) Trotter SPECIES
-=======
+# Ramularia sheldonii (Dearn. & House) Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Saccardo, Syll. fung. (Abellini) 25: 735 (1931)
 
 #### Original name
 Ramularia delphinii Dearn. & House

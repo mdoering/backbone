@@ -1,17 +1,16 @@
-Hydnum fimbriatum var. fimbriatum VARIETY
-=======
+# Steccherinum fimbriatum (Pers.) J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 134 (1958)
 
 #### Original name
-null
+Odontia fimbriatum Pers.
 
 ### Remarks
 null

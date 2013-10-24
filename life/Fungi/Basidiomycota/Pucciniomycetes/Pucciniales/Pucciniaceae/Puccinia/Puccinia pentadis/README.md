@@ -1,5 +1,4 @@
-Puccinia pentadis Henn. SPECIES
-=======
+# Puccinia pentadis Henn. SPECIES
 
 #### Status
 ACCEPTED

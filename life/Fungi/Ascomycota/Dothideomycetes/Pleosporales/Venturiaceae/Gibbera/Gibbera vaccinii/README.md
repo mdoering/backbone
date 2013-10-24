@@ -1,14 +1,13 @@
-Sphaeria vaccinii Sowerby, 1803 SPECIES
-=======
+# Gibbera vaccinii (Sowerby) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. (1803)
+Summa veg. Scand. (Stockholm), Section Post. 412 (1849)
 
 #### Original name
 Sphaeria vaccinii Sowerby, 1803

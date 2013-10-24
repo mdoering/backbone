@@ -1,5 +1,4 @@
-Exoascus sebastianae Sadeb. SPECIES
-=======
+# Exoascus sebastianae Sadeb. SPECIES
 
 #### Status
 ACCEPTED

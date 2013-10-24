@@ -1,14 +1,13 @@
-Microsphaera abbreviata Peck, 1876 SPECIES
-=======
+# Erysiphe abbreviata (Peck) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 64 (1876)
+Schlechtendalia 4: 4 (2000)
 
 #### Original name
 Microsphaera abbreviata Peck, 1876

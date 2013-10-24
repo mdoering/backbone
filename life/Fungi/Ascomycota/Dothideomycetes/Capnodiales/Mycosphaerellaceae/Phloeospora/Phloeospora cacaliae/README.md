@@ -1,8 +1,7 @@
-Phloeospora cacatiae SPECIES
-=======
+# Phloeospora cacaliae Togashi & Onuma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phloeospora cacatiae
+Phloeospora cacaliae Togashi & Onuma
 
 ### Remarks
 null

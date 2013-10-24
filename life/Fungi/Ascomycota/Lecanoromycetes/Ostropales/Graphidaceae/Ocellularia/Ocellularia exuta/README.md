@@ -1,5 +1,4 @@
-Ocellularia exuta Hale SPECIES
-=======
+# Ocellularia exuta Hale SPECIES
 
 #### Status
 ACCEPTED

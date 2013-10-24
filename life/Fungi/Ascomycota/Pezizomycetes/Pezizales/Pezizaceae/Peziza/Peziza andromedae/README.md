@@ -1,5 +1,4 @@
-Peziza andromedae Schwein. SPECIES
-=======
+# Peziza andromedae Schwein. SPECIES
 
 #### Status
 ACCEPTED

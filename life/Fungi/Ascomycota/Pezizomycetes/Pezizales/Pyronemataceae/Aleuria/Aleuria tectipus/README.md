@@ -1,5 +1,4 @@
-Aleuria tectipus (Spooner) W.Y. Zhuang & Korf SPECIES
-=======
+# Aleuria tectipus (Spooner) W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

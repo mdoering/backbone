@@ -1,5 +1,4 @@
-Monoicomyces leptotrachelae Thaxt. SPECIES
-=======
+# Monoicomyces leptotrachelae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

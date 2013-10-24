@@ -1,5 +1,4 @@
-Senalveolina Fleury, 1984 GENUS
-=======
+# Senalveolina Fleury, 1984 GENUS
 
 #### Status
 ACCEPTED

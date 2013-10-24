@@ -1,5 +1,4 @@
-Porocyphus incrustans (Wallr.) Arnold SPECIES
-=======
+# Porocyphus incrustans (Wallr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

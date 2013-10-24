@@ -1,5 +1,4 @@
-Pleochaeta shiraiana (Henn.) Kimbr. & Korf SPECIES
-=======
+# Pleochaeta shiraiana (Henn.) Kimbr. & Korf SPECIES
 
 #### Status
 ACCEPTED

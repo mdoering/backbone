@@ -1,5 +1,4 @@
-Ramularia pentstemonis W.B. Cooke SPECIES
-=======
+# Ramularia pentstemonis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

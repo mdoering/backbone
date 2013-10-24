@@ -1,5 +1,4 @@
-Aecidium tricholepidis P.B. Chavan & Bakare SPECIES
-=======
+# Aecidium tricholepidis P.B. Chavan & Bakare SPECIES
 
 #### Status
 ACCEPTED

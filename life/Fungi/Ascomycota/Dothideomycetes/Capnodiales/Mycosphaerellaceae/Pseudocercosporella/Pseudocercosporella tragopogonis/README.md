@@ -1,17 +1,16 @@
-Pseudocercosporella tragopogi U. Braun SPECIES
-=======
+# Pseudocercosporella tragopogonis U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 56(3-4): 447 (1993)
 
 #### Original name
-Pseudocercosporella tragopogi U. Braun
+Pseudocercosporella tragopogonis U. Braun
 
 ### Remarks
 null

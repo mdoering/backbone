@@ -1,5 +1,4 @@
-Cystosphaera Skottsberg, 1907 GENUS
-=======
+# Cystosphaera Skottsberg, 1907 GENUS
 
 #### Status
 ACCEPTED

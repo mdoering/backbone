@@ -1,5 +1,4 @@
-Sirosporium dendrophthoes M.K. Khan & Kamal SPECIES
-=======
+# Sirosporium dendrophthoes M.K. Khan & Kamal SPECIES
 
 #### Status
 ACCEPTED

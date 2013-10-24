@@ -1,14 +1,13 @@
-Atractium fuscum Sacc., 1883 SPECIES
-=======
+# Stilbella fusca (Sacc.) Seifert, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 27: 77 (1985)
 
 #### Original name
 Atractium fuscum Sacc., 1883

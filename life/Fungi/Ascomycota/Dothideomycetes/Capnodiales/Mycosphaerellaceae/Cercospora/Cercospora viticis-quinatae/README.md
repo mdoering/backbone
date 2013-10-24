@@ -1,5 +1,4 @@
-Cercospora viticis-quinatae J.M. Yen SPECIES
-=======
+# Cercospora viticis-quinatae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

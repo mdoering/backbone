@@ -1,8 +1,7 @@
-Balladynopsis nuda Ghosh, 1921 SPECIES
-=======
+# Balladinopsis nuda Ghosh, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

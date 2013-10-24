@@ -1,5 +1,4 @@
-Rhodophyllus placidus (Fr.) Quél. SPECIES
-=======
+# Rhodophyllus placidus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

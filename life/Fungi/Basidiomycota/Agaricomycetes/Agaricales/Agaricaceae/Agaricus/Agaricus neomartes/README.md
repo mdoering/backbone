@@ -1,5 +1,4 @@
-Agaricus neomartes Delile SPECIES
-=======
+# Agaricus neomartes Delile SPECIES
 
 #### Status
 ACCEPTED

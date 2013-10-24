@@ -1,5 +1,4 @@
-Sticcasphaeridium Zang & Walter, 1992 GENUS
-=======
+# Sticcasphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

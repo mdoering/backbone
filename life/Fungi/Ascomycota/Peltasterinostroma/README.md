@@ -1,5 +1,4 @@
-Peltasterinostroma Punith. GENUS
-=======
+# Peltasterinostroma Punith. GENUS
 
 #### Status
 ACCEPTED

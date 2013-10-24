@@ -1,5 +1,4 @@
-Curtobacterium oceanosedimentum Carty & Litchfield, 1978 SPECIES
-=======
+# Curtobacterium oceanosedimentum Carty & Litchfield, 1978 SPECIES
 
 #### Status
 ACCEPTED

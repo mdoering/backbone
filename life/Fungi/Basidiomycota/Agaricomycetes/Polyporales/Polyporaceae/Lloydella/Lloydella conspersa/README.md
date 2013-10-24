@@ -1,5 +1,4 @@
-Lloydella conspersa Rick SPECIES
-=======
+# Lloydella conspersa Rick SPECIES
 
 #### Status
 ACCEPTED

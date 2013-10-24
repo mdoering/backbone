@@ -1,5 +1,4 @@
-Lecanora amphorella Nyl. SPECIES
-=======
+# Lecanora amphorella Nyl. SPECIES
 
 #### Status
 ACCEPTED

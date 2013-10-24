@@ -1,5 +1,4 @@
-Rosellinia britannica L.E. Petrini, Petrini & S.M. Francis, 1989 SPECIES
-=======
+# Rosellinia britannica L.E. Petrini, Petrini & S.M. Francis, 1989 SPECIES
 
 #### Status
 ACCEPTED

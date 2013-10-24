@@ -1,5 +1,4 @@
-Ovularia vossiana var. vossiana VARIETY
-=======
+# Ovularia vossiana (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 141 (1886)
 
 #### Original name
-Ovularia vossiana var. vossiana
+Ramularia vossiana Thüm.
 
 ### Remarks
 null

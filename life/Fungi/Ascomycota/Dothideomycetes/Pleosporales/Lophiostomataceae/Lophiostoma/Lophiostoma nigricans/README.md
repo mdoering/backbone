@@ -1,5 +1,4 @@
-Lophiostoma nigricans Berl. SPECIES
-=======
+# Lophiostoma nigricans Berl. SPECIES
 
 #### Status
 ACCEPTED

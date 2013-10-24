@@ -1,5 +1,4 @@
-Thompsodinium intermedium (Thompson) Bourrelly SPECIES
-=======
+# Thompsodinium intermedium (Thompson) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

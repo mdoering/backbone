@@ -1,5 +1,4 @@
-Micropsalliota ochracea Heinem. SPECIES
-=======
+# Micropsalliota ochracea Heinem. SPECIES
 
 #### Status
 ACCEPTED

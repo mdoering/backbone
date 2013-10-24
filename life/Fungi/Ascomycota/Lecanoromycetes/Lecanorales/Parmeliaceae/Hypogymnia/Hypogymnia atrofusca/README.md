@@ -1,5 +1,4 @@
-Hypogymnia atrofusca f. atrofusca FORM
-=======
+# Hypogymnia atrofusca SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypogymnia atrofusca f. atrofusca
+null
 
 ### Remarks
 null

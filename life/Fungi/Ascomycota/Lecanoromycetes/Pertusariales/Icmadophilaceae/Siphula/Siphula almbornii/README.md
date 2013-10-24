@@ -1,5 +1,4 @@
-Siphula almbornii Mathey SPECIES
-=======
+# Siphula almbornii Mathey SPECIES
 
 #### Status
 ACCEPTED

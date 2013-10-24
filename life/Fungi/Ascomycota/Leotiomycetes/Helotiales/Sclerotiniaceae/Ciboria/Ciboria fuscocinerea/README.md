@@ -1,5 +1,4 @@
-Ciboria fuscocinerea Rehm SPECIES
-=======
+# Ciboria fuscocinerea Rehm SPECIES
 
 #### Status
 ACCEPTED

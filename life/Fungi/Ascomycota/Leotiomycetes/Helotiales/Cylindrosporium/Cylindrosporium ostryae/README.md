@@ -1,5 +1,4 @@
-Cylindrosporium ostryae Woron. SPECIES
-=======
+# Cylindrosporium ostryae Woron. SPECIES
 
 #### Status
 ACCEPTED

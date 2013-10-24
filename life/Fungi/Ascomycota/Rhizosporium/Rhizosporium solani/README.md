@@ -1,5 +1,4 @@
-Rhizosporium solani (Wallr.) Rabenh. SPECIES
-=======
+# Rhizosporium solani (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

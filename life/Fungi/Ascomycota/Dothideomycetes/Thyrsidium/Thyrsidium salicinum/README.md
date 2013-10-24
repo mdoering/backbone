@@ -1,5 +1,4 @@
-Thyrsidium salicinum Oudem. SPECIES
-=======
+# Thyrsidium salicinum Oudem. SPECIES
 
 #### Status
 ACCEPTED

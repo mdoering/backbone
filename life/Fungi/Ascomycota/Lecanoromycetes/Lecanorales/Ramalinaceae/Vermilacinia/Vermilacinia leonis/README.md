@@ -1,5 +1,4 @@
-Vermilacinia leonis Spjut SPECIES
-=======
+# Vermilacinia leonis Spjut SPECIES
 
 #### Status
 ACCEPTED

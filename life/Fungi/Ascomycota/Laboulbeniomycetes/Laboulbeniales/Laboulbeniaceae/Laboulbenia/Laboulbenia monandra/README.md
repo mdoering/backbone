@@ -1,5 +1,4 @@
-Laboulbenia monandra W. Rossi SPECIES
-=======
+# Laboulbenia monandra W. Rossi SPECIES
 
 #### Status
 ACCEPTED

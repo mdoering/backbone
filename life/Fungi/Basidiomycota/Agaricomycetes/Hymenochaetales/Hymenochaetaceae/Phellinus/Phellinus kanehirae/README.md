@@ -1,5 +1,4 @@
-Phellinus kanehirae (Yasuda) Ryvarden SPECIES
-=======
+# Phellinus kanehirae (Yasuda) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

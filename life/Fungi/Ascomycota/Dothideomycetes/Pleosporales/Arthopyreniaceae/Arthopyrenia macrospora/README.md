@@ -1,5 +1,4 @@
-Arthopyrenia macrospora Fink SPECIES
-=======
+# Arthopyrenia macrospora Fink SPECIES
 
 #### Status
 ACCEPTED

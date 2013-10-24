@@ -1,5 +1,4 @@
-Archaeodiscina vermiformis N. Umnova, 1975 SPECIES
-=======
+# Archaeodiscina vermiformis N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrostroma annellosynnema Seifert, 1987 SPECIES
-=======
+# Acrostroma annellosynnema Seifert, 1987 SPECIES
 
 #### Status
 ACCEPTED

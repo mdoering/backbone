@@ -1,5 +1,4 @@
-Aecidium adenophorae-verticillatae Syd. & P. Syd. SPECIES
-=======
+# Aecidium adenophorae-verticillatae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria purpurea Petch SPECIES
-=======
+# Patellaria purpurea Petch SPECIES
 
 #### Status
 ACCEPTED

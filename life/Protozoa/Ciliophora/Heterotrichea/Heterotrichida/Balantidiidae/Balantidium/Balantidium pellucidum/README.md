@@ -1,8 +1,7 @@
-Enchelyodon ovum Groliere, 1977 SPECIES
-=======
+# Balantidium pellucidum Eberhard, 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Aniptodera nypae K.D. Hyde, 1994 SPECIES
-=======
+# Aniptodera nypae K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

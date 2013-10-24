@@ -1,5 +1,4 @@
-Leptothyrium astragali Bres. SPECIES
-=======
+# Leptothyrium astragali Bres. SPECIES
 
 #### Status
 ACCEPTED

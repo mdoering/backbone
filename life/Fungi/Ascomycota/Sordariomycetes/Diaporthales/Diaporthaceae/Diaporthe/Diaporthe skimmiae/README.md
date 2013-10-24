@@ -1,5 +1,4 @@
-Diaporthe skimmiae Grove, 1933 SPECIES
-=======
+# Diaporthe skimmiae Grove, 1933 SPECIES
 
 #### Status
 ACCEPTED

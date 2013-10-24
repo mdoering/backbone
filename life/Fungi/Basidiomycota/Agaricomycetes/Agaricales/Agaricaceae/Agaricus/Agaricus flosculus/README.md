@@ -1,5 +1,4 @@
-Agaricus flosculus W.G. Sm. SPECIES
-=======
+# Agaricus flosculus W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

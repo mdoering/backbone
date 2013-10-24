@@ -1,5 +1,4 @@
-Priscogalea Deunff, 1961 GENUS
-=======
+# Priscogalea Deunff, 1961 GENUS
 
 #### Status
 ACCEPTED

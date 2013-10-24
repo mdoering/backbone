@@ -1,14 +1,13 @@
-Graphis simulans Leight. SPECIES
-=======
+# Graphina simulans (Leight.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 30: 52 (1891)
 
 #### Original name
 Graphis simulans Leight.

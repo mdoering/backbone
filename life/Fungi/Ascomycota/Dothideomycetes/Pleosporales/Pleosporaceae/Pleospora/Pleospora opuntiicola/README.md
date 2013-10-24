@@ -1,5 +1,4 @@
-Pleospora opuntiicola Bubák SPECIES
-=======
+# Pleospora opuntiicola Bubák SPECIES
 
 #### Status
 ACCEPTED

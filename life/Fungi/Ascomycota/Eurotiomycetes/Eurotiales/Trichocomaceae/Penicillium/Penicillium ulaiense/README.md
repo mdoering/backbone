@@ -1,5 +1,4 @@
-Penicillium ulaiense H.M. Hsieh, H.J. Su & Tzean, 1987 SPECIES
-=======
+# Penicillium ulaiense H.M. Hsieh, H.J. Su & Tzean, 1987 SPECIES
 
 #### Status
 ACCEPTED

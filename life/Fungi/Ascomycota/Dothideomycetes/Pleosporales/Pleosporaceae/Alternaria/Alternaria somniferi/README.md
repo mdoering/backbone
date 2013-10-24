@@ -1,5 +1,4 @@
-Alternaria somniferi (Har. & Briard) Sawada SPECIES
-=======
+# Alternaria somniferi (Har. & Briard) Sawada SPECIES
 
 #### Status
 ACCEPTED

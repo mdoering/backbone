@@ -1,5 +1,4 @@
-Gurleya tetraspora Doflein SPECIES
-=======
+# Gurleya tetraspora Doflein SPECIES
 
 #### Status
 ACCEPTED

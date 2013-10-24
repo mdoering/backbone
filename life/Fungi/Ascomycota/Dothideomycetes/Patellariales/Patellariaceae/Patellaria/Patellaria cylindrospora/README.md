@@ -1,5 +1,4 @@
-Patellaria cylindrospora Ellis SPECIES
-=======
+# Patellaria cylindrospora Ellis SPECIES
 
 #### Status
 ACCEPTED

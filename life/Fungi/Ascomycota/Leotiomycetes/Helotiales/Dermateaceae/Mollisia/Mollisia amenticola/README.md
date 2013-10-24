@@ -1,14 +1,13 @@
-Mollisia umbonata var. amenticola Fuckel VARIETY
-=======
+# Mollisia amenticola (Sacc.) Rehm, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 540 (1891)
 
 #### Original name
 Mollisia umbonata var. amenticola Fuckel

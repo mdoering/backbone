@@ -1,5 +1,4 @@
-Striadiporites boletelloides Sal.-Cheb. & Locq. SPECIES
-=======
+# Striadiporites boletelloides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

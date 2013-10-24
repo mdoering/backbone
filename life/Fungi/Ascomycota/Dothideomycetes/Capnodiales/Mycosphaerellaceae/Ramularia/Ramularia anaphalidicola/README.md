@@ -1,5 +1,4 @@
-Ramularia anaphalidicola U. Braun & Rogerson SPECIES
-=======
+# Ramularia anaphalidicola U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchotheca laricis Kleb. SPECIES
-=======
+# Rhynchotheca laricis Kleb. SPECIES
 
 #### Status
 ACCEPTED

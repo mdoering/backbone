@@ -1,8 +1,7 @@
-Geaster macowanii Kalchbr. SPECIES
-=======
+# Geastrum macowanii Kalchbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster macowanii Kalchbr.
+Geastrum macowanii Kalchbr.
 
 ### Remarks
 null

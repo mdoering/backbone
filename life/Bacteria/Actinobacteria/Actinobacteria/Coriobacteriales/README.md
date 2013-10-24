@@ -1,5 +1,4 @@
-Coriobacteriales ORDER
-=======
+# Coriobacteriales ORDER
 
 #### Status
 ACCEPTED

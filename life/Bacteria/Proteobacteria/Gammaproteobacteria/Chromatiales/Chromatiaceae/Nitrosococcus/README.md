@@ -1,5 +1,4 @@
-Nitrosococcus Winogradsky, 1892 GENUS
-=======
+# Nitrosococcus Winogradsky, 1892 GENUS
 
 #### Status
 ACCEPTED

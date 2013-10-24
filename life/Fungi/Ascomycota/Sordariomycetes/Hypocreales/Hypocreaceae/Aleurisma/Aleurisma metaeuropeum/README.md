@@ -1,5 +1,4 @@
-Aleurisma metaeuropeum (Castell.) C.W. Dodge SPECIES
-=======
+# Aleurisma metaeuropeum (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

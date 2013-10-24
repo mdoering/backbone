@@ -1,5 +1,4 @@
-Volvariopsis alachuana Murrill SPECIES
-=======
+# Volvariopsis alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

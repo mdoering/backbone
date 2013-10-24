@@ -1,5 +1,4 @@
-Splanchnomyces virens Corda SPECIES
-=======
+# Splanchnomyces virens Corda SPECIES
 
 #### Status
 ACCEPTED

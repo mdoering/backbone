@@ -1,5 +1,4 @@
-Grammothele ochraceus Ryvarden, 1982 SPECIES
-=======
+# Grammothele ochraceus Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

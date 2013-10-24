@@ -1,5 +1,4 @@
-Biddulphia pangeroni (Leuduger-Fortmorel) Hustedt SPECIES
-=======
+# Biddulphia pangeroni (Leuduger-Fortmorel) Hustedt SPECIES
 
 #### Status
 ACCEPTED

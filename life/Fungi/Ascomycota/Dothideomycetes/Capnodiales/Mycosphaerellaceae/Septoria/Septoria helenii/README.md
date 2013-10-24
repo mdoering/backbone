@@ -1,5 +1,4 @@
-Septoria helenii Ellis & Everh. SPECIES
-=======
+# Septoria helenii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

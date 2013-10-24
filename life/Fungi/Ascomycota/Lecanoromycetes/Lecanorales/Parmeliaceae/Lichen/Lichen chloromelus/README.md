@@ -1,8 +1,7 @@
-Lichen chloromelos Sw. SPECIES
-=======
+# Lichen chloromelus Sw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen chloromelos Sw.
+Lichen chloromelus Sw.
 
 ### Remarks
 null

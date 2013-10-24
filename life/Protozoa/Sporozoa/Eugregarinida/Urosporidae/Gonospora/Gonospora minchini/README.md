@@ -1,8 +1,7 @@
-Cystobia minchinii Woodcock, 1904 SPECIES
-=======
+# Gonospora minchini (Woodcock, 1904) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

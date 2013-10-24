@@ -1,5 +1,4 @@
-Sarcinella theae Hosag. SPECIES
-=======
+# Sarcinella theae Hosag. SPECIES
 
 #### Status
 ACCEPTED

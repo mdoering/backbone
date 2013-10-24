@@ -1,5 +1,4 @@
-Pleospora wulffii Lind SPECIES
-=======
+# Pleospora wulffii Lind SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amorphomyces obliqueseptatus Thaxt., 1902 SPECIES
-=======
+# Amorphomyces obliqueseptatus Thaxt., 1902 SPECIES
 
 #### Status
 ACCEPTED

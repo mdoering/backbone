@@ -1,5 +1,4 @@
-Usnea oncodeoides G. N. Stevens SPECIES
-=======
+# Usnea oncodeoides G. N. Stevens SPECIES
 
 #### Status
 ACCEPTED

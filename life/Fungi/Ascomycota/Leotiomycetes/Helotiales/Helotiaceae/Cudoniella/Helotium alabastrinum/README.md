@@ -1,5 +1,4 @@
-Helotium alabastrinum Fr. SPECIES
-=======
+# Helotium alabastrinum Fr. SPECIES
 
 #### Status
 ACCEPTED

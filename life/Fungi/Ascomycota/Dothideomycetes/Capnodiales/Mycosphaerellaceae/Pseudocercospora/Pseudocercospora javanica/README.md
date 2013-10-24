@@ -1,5 +1,4 @@
-Pseudocercospora javanica Deighton SPECIES
-=======
+# Pseudocercospora javanica Deighton SPECIES
 
 #### Status
 ACCEPTED

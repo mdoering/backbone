@@ -1,5 +1,4 @@
-Pleospora lichenalis (Peck) Sacc. SPECIES
-=======
+# Pleospora lichenalis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

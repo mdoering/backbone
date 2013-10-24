@@ -1,5 +1,4 @@
-Phoma fuliginea Kidd & Beaumont SPECIES
-=======
+# Phoma fuliginea Kidd & Beaumont SPECIES
 
 #### Status
 ACCEPTED

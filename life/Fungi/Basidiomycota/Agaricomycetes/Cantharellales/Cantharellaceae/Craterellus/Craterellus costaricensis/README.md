@@ -1,5 +1,4 @@
-Craterellus costaricensis Qiu X. Wu SPECIES
-=======
+# Craterellus costaricensis Qiu X. Wu SPECIES
 
 #### Status
 ACCEPTED

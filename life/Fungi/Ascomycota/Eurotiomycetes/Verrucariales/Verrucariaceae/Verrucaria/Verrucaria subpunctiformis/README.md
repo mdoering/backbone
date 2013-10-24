@@ -1,5 +1,4 @@
-Verrucaria subpunctiformis Nyl. SPECIES
-=======
+# Verrucaria subpunctiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

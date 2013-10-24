@@ -1,5 +1,4 @@
-Daptobacter GENUS
-=======
+# Daptobacter GENUS
 
 #### Status
 ACCEPTED

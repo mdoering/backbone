@@ -1,5 +1,4 @@
-Guignardia piperis (Rehm) Arx & E. Müll. SPECIES
-=======
+# Guignardia piperis (Rehm) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allogromia Rhumbler, 1904 GENUS
-=======
+# Allogromia Rhumbler, 1904 GENUS
 
 #### Status
 ACCEPTED

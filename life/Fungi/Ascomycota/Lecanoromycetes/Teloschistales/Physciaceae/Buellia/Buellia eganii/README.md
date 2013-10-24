@@ -1,5 +1,4 @@
-Buellia eganii Bungartz SPECIES
-=======
+# Buellia eganii Bungartz SPECIES
 
 #### Status
 ACCEPTED

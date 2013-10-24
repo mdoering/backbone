@@ -1,5 +1,4 @@
-Russula hortensis Sarnari SPECIES
-=======
+# Russula hortensis Sarnari SPECIES
 
 #### Status
 ACCEPTED

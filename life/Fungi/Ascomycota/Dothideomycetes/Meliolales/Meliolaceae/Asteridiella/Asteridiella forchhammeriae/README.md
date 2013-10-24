@@ -1,5 +1,4 @@
-Asteridiella forchhammeriae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella forchhammeriae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

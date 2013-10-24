@@ -1,5 +1,4 @@
-Laestadia orientalis Ellis & Everh. SPECIES
-=======
+# Laestadia orientalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

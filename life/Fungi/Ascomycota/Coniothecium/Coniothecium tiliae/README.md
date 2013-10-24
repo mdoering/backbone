@@ -1,5 +1,4 @@
-Coniothecium tiliae I. Miyake SPECIES
-=======
+# Coniothecium tiliae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poronia minuta Petch SPECIES
-=======
+# Poronia minuta Petch SPECIES
 
 #### Status
 ACCEPTED

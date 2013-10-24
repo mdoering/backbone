@@ -1,5 +1,4 @@
-Lyophyllum inocybeoides Ballero & Contu SPECIES
-=======
+# Lyophyllum inocybeoides Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

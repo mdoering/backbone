@@ -1,5 +1,4 @@
-Entoloma caesiellum Noordel. & Wölfel SPECIES
-=======
+# Entoloma caesiellum Noordel. & Wölfel SPECIES
 
 #### Status
 ACCEPTED

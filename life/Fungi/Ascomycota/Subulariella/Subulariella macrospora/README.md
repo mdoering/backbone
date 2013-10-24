@@ -1,5 +1,4 @@
-Subulariella macrospora (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Subulariella macrospora (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Annulatopsophosphaera subtilla Pykhova, 1969 SPECIES
-=======
+# Annulatopsophosphaera subtilla Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

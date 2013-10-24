@@ -1,5 +1,4 @@
-Puttemansiella Henn. GENUS
-=======
+# Puttemansiella Henn. GENUS
 
 #### Status
 ACCEPTED

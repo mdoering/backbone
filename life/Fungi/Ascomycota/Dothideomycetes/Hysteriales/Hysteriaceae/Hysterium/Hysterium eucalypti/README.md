@@ -1,5 +1,4 @@
-Hysterium eucalypti W. Phillips & Harkn. SPECIES
-=======
+# Hysterium eucalypti W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

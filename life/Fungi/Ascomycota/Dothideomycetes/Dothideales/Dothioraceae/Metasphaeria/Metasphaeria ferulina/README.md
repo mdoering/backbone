@@ -1,5 +1,4 @@
-Metasphaeria ferulina (Durieu & Mont.) Sacc. SPECIES
-=======
+# Metasphaeria ferulina (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

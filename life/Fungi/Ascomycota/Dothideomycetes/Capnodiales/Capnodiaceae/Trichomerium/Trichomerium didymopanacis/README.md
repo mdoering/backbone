@@ -1,5 +1,4 @@
-Trichomerium didymopanacis Bat. & Cif. SPECIES
-=======
+# Trichomerium didymopanacis Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

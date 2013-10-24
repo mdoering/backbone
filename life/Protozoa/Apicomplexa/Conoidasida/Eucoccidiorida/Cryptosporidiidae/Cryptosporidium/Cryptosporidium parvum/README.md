@@ -1,5 +1,4 @@
-Cryptosporidium parvum Tyzzer, 1912 SPECIES
-=======
+# Cryptosporidium parvum Tyzzer, 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia neocirrhata Hale & M. Wirth SPECIES
-=======
+# Everniastrum neocirrhatum (Hale & M. Wirth) Hale ex Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 241 (1986)
 
 #### Original name
-null
+Parmelia neocirrhata Hale & M. Wirth
 
 ### Remarks
 null

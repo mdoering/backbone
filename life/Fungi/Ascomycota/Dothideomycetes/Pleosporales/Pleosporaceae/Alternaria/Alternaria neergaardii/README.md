@@ -1,5 +1,4 @@
-Alternaria neergaardii B.S. Mehrotra & Narain SPECIES
-=======
+# Alternaria neergaardii B.S. Mehrotra & Narain SPECIES
 
 #### Status
 ACCEPTED

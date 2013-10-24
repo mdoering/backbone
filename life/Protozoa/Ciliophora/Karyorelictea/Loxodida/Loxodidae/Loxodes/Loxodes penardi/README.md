@@ -1,5 +1,4 @@
-Loxodes penardi Dragesco, 1960 SPECIES
-=======
+# Loxodes penardi Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

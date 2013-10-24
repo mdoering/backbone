@@ -1,5 +1,4 @@
-Pegmatheca E.I. Hazard & Oldacre GENUS
-=======
+# Pegmatheca E.I. Hazard & Oldacre GENUS
 
 #### Status
 ACCEPTED

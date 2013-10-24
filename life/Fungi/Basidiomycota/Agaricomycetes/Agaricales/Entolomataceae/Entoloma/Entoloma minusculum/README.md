@@ -1,5 +1,4 @@
-Entoloma minusculum E. Horak SPECIES
-=======
+# Entoloma minusculum E. Horak SPECIES
 
 #### Status
 ACCEPTED

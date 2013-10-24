@@ -1,17 +1,16 @@
-Uromyces graminis f. sp FORM
-=======
+# Uromyces graminis (Niessl) Dietel, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mittheil. d. Thüring. Botan. Ver. Neue Folge 2: 18 (1892)
 
 #### Original name
-Uromyces graminis f. sp
+Capitularia graminis Niessl, 1868
 
 ### Remarks
 null

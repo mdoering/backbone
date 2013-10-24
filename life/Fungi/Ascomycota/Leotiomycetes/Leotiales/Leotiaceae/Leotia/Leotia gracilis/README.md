@@ -1,5 +1,4 @@
-Leotia gracilis Pers. SPECIES
-=======
+# Leotia gracilis Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthocyrtha GENUS
-=======
+# Acanthocyrtha GENUS
 
 #### Status
 ACCEPTED

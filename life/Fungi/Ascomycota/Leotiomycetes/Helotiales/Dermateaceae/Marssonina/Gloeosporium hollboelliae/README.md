@@ -1,5 +1,4 @@
-Gloeosporium hollboelliae Bond.-Mont. SPECIES
-=======
+# Gloeosporium hollboelliae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

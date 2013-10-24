@@ -1,17 +1,16 @@
-Trametes sinensis (Lloyd) Ryvarden, 1989 SPECIES
-=======
+# Daedaleopsis sinensis (Lloyd) Y.C. Dai, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 489 (1838)
+Fungal Science, Taipei 11(3, 4): 90 (1996)
 
 #### Original name
-Polyporus sinensis Fr., 1821
+Daedalea sinensis Lloyd, 1922
 
 ### Remarks
 null

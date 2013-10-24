@@ -1,8 +1,7 @@
-Mycena chlorinella (J.E. Lange) Singer SPECIES
-=======
+# Mycena leptocephala (Pers. Fr.) Gillet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

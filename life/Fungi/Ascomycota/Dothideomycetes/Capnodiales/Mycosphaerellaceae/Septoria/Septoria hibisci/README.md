@@ -1,5 +1,4 @@
-Septoria hibisci Sacc. SPECIES
-=======
+# Septoria hibisci Sacc. SPECIES
 
 #### Status
 ACCEPTED

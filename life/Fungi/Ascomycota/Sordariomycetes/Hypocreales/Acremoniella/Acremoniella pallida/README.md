@@ -1,5 +1,4 @@
-Acremoniella pallida Cooke & Massee SPECIES
-=======
+# Acremoniella pallida Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

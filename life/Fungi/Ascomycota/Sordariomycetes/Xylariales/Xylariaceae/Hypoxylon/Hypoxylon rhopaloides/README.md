@@ -1,5 +1,4 @@
-Hypoxylon rhopaloides Kunze SPECIES
-=======
+# Hypoxylon rhopaloides Kunze SPECIES
 
 #### Status
 ACCEPTED

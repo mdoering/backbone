@@ -1,5 +1,4 @@
-Octospora argentina (Speg.) Gamundí SPECIES
-=======
+# Octospora argentina (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

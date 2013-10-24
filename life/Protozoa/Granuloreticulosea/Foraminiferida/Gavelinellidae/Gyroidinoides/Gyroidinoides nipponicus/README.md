@@ -1,5 +1,4 @@
-Gyroidinoides nipponicus Ishizaki SPECIES
-=======
+# Gyroidinoides nipponicus Ishizaki SPECIES
 
 #### Status
 ACCEPTED

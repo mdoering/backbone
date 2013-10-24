@@ -1,5 +1,4 @@
-Meliola contigua P. Karst. & Roum. SPECIES
-=======
+# Meliola contigua P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

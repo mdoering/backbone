@@ -1,5 +1,4 @@
-Corynespora euryae Jian Ma & X.G. Zhang SPECIES
-=======
+# Corynespora euryae Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

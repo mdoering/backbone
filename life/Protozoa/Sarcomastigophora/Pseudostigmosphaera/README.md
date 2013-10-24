@@ -1,5 +1,4 @@
-Pseudostigmosphaera Kozur & Mostler, 1979 GENUS
-=======
+# Pseudostigmosphaera Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

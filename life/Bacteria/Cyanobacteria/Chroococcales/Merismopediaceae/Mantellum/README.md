@@ -1,5 +1,4 @@
-Mantellum P.A. Dangeard, 1949 GENUS
-=======
+# Mantellum P.A. Dangeard, 1949 GENUS
 
 #### Status
 ACCEPTED

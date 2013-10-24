@@ -1,17 +1,16 @@
-Meliola cissi-producti Deighton SPECIES
-=======
+# Meliola cissi-productae Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 5(1-2): 4 (1951)
 
 #### Original name
-Meliola cissi-producti Deighton
+Meliola cissi-productae Deighton
 
 ### Remarks
 null

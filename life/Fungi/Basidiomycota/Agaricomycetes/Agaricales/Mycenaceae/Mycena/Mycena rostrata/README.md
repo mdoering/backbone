@@ -1,5 +1,4 @@
-Mycena rostrata Velen. SPECIES
-=======
+# Mycena rostrata Velen. SPECIES
 
 #### Status
 ACCEPTED

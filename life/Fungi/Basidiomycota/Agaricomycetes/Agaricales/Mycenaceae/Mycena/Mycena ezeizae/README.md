@@ -1,5 +1,4 @@
-Mycena ezeizae Raithelh. SPECIES
-=======
+# Mycena ezeizae Raithelh. SPECIES
 
 #### Status
 ACCEPTED

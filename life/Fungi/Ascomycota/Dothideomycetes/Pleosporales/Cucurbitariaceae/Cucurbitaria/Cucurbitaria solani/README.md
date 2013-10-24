@@ -1,5 +1,4 @@
-Cucurbitaria solani (Reinke & Berth.) Kuntze SPECIES
-=======
+# Cucurbitaria solani (Reinke & Berth.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

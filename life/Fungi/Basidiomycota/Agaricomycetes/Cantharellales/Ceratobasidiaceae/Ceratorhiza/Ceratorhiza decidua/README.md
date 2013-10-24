@@ -1,5 +1,4 @@
-Ceratorhiza decidua (Davis) P. Roberts, 1999 SPECIES
-=======
+# Ceratorhiza decidua (Davis) P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

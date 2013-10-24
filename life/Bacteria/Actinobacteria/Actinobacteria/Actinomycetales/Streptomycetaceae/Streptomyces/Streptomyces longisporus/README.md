@@ -1,5 +1,4 @@
-Streptomyces longisporus (Krasil'nikov, 1941) Waksman, 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces longisporus (Krasil'nikov, 1941) Waksman, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

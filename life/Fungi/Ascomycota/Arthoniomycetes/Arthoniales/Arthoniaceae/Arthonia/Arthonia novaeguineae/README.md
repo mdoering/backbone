@@ -1,5 +1,4 @@
-Arthonia novaeguineae Szatala SPECIES
-=======
+# Arthonia novaeguineae Szatala SPECIES
 
 #### Status
 ACCEPTED

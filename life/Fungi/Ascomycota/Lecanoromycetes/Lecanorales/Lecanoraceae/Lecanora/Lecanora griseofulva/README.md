@@ -1,5 +1,4 @@
-Lecanora griseofulva Elix & Øvstedal SPECIES
-=======
+# Lecanora griseofulva Elix & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

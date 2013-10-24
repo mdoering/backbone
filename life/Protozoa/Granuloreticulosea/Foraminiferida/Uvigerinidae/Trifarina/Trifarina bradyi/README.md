@@ -1,5 +1,4 @@
-Trifarina bradyi Cushman, 1923 SPECIES
-=======
+# Trifarina bradyi Cushman, 1923 SPECIES
 
 #### Status
 ACCEPTED

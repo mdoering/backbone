@@ -1,5 +1,4 @@
-Helotium kurandae Henn. SPECIES
-=======
+# Helotium kurandae Henn. SPECIES
 
 #### Status
 ACCEPTED

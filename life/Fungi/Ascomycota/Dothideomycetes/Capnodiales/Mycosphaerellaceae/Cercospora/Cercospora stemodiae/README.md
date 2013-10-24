@@ -1,5 +1,4 @@
-Cercospora stemodiae Syd. SPECIES
-=======
+# Cercospora stemodiae Syd. SPECIES
 
 #### Status
 ACCEPTED

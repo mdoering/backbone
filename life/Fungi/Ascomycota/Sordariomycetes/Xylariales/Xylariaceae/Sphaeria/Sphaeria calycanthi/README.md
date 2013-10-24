@@ -1,5 +1,4 @@
-Sphaeria calycanthi Schwein. SPECIES
-=======
+# Sphaeria calycanthi Schwein. SPECIES
 
 #### Status
 ACCEPTED

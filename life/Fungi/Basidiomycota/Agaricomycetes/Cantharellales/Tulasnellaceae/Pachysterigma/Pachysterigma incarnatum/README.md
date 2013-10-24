@@ -1,5 +1,4 @@
-Pachysterigma incarnatum Johan-Olsen SPECIES
-=======
+# Pachysterigma incarnatum Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

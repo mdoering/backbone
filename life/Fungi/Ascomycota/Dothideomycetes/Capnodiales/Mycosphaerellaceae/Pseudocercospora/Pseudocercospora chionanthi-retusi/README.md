@@ -1,5 +1,4 @@
-Pseudocercospora chionanthi-retusi (Togashi & Katsuki) Nishij., C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora chionanthi-retusi (Togashi & Katsuki) Nishij., C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

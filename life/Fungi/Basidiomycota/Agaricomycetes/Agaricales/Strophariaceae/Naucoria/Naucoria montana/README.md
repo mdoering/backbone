@@ -1,5 +1,4 @@
-Naucoria montana Murrill SPECIES
-=======
+# Naucoria montana Murrill SPECIES
 
 #### Status
 ACCEPTED

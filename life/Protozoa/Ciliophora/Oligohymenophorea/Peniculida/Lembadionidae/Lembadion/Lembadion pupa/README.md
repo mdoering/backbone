@@ -1,5 +1,4 @@
-Lembadion pupa SPECIES
-=======
+# Lembadion pupa SPECIES
 
 #### Status
 ACCEPTED

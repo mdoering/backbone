@@ -1,17 +1,16 @@
-Podoscypha petalodes subsp. floriformis (Lloyd) D.A. Reid SUBSPECIES
-=======
+# Podoscypha petalodes (Berk.) Boidin, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 18: 226 (1965)
+null
 
 #### Original name
-Stereum floriforme Lloyd, 1913
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphilogia major Gryzenh., H.F. Glen & M.J. Wingf., 2005 SPECIES
-=======
+# Amphilogia major Gryzenh., H.F. Glen & M.J. Wingf., 2005 SPECIES
 
 #### Status
 ACCEPTED

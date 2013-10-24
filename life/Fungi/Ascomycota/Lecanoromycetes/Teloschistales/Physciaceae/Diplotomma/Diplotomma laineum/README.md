@@ -1,5 +1,4 @@
-Diplotomma laineum (Ach.) J. Nowak & Tobol. SPECIES
-=======
+# Diplotomma laineum (Ach.) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

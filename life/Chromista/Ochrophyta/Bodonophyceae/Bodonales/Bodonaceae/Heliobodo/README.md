@@ -1,5 +1,4 @@
-Heliobodo Valkanov, 1928 GENUS
-=======
+# Heliobodo Valkanov, 1928 GENUS
 
 #### Status
 ACCEPTED

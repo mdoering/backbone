@@ -1,5 +1,4 @@
-Entomophthora richteri (Bres. & Staritz) Bubák, 1906 SPECIES
-=======
+# Entomophthora richteri (Bres. & Staritz) Bubák, 1906 SPECIES
 
 #### Status
 ACCEPTED

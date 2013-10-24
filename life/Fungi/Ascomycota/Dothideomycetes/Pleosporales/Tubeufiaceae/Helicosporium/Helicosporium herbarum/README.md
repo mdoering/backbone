@@ -1,5 +1,4 @@
-Helicosporium herbarum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Helicosporium herbarum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

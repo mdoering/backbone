@@ -1,5 +1,4 @@
-Lichen pinicola Sm. & Sowerby SPECIES
-=======
+# Lichen pinicola Sm. & Sowerby SPECIES
 
 #### Status
 ACCEPTED

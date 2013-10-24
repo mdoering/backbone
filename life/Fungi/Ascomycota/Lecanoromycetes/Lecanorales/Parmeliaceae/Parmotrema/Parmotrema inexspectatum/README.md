@@ -1,5 +1,4 @@
-Parmotrema inexspectatum (Abbayes) Hale SPECIES
-=======
+# Parmotrema inexspectatum (Abbayes) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tausonia pamirica Babeva, 1998 SPECIES
-=======
+# Tausonia pamirica Babeva, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actuariola Stoeck, Schwarz, Boenigk, Schweikert, von der Heyden & Behnke, 2005 GENUS
-=======
+# Actuariola Stoeck, Schwarz, Boenigk, Schweikert, von der Heyden & Behnke, 2005 GENUS
 
 #### Status
 ACCEPTED

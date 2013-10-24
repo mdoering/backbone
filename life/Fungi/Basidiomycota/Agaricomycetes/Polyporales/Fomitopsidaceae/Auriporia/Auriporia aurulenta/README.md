@@ -1,5 +1,4 @@
-Auriporia aurulenta A. David, Tortic & Jelic, 1975 SPECIES
-=======
+# Auriporia aurulenta A. David, Tortic & Jelic, 1975 SPECIES
 
 #### Status
 ACCEPTED

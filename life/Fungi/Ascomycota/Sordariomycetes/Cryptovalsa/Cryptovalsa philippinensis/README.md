@@ -1,5 +1,4 @@
-Cryptovalsa philippinensis Sacc. SPECIES
-=======
+# Cryptovalsa philippinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disteria GENUS
-=======
+# Disteria GENUS
 
 #### Status
 ACCEPTED

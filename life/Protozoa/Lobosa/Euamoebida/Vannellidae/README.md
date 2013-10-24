@@ -1,8 +1,7 @@
-Vanellidae FAMILY
-=======
+# Vannellidae Bovee, 1979 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

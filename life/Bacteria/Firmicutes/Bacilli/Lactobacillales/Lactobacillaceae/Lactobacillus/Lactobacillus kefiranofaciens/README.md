@@ -1,8 +1,7 @@
-Lactobacillus kefirgranum Takizawa et al., 1994 SPECIES
-=======
+# Lactobacillus kefiranofaciens Fujisawa et al., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Bikinella Tikhomirova, 1986 GENUS
-=======
+# Bikinella Tikhomirova, 1986 GENUS
 
 #### Status
 ACCEPTED

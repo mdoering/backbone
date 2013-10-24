@@ -1,5 +1,4 @@
-Arthrorhaphis viridescens Rabenh. SPECIES
-=======
+# Arthrorhaphis viridescens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

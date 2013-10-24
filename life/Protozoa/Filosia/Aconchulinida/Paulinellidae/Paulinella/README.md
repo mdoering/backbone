@@ -1,5 +1,4 @@
-Paulinella Lauterborn, 1895 GENUS
-=======
+# Paulinella Lauterborn, 1895 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mirandina brachyspora G. Arnaud SPECIES
-=======
+# Mirandina brachyspora G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

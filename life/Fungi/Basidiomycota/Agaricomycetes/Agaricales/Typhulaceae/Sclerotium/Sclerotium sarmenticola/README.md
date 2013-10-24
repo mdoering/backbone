@@ -1,5 +1,4 @@
-Sclerotium sarmenticola Thüm. SPECIES
-=======
+# Sclerotium sarmenticola Thüm. SPECIES
 
 #### Status
 ACCEPTED

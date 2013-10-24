@@ -1,5 +1,4 @@
-Bursiphycus A.G. Vologdin, 1962 GENUS
-=======
+# Bursiphycus A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

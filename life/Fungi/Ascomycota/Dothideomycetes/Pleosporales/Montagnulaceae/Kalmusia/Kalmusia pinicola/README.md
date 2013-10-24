@@ -1,5 +1,4 @@
-Kalmusia pinicola Bonar SPECIES
-=======
+# Kalmusia pinicola Bonar SPECIES
 
 #### Status
 ACCEPTED

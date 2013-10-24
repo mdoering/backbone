@@ -1,5 +1,4 @@
-Licmophora communis (Heiberg) Grunow SPECIES
-=======
+# Licmophora communis (Heiberg) Grunow SPECIES
 
 #### Status
 ACCEPTED

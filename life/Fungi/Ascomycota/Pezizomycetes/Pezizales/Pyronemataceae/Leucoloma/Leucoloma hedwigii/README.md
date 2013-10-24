@@ -1,5 +1,4 @@
-Leucoloma hedwigii Fuckel SPECIES
-=======
+# Leucoloma hedwigii Fuckel SPECIES
 
 #### Status
 ACCEPTED

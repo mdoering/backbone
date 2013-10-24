@@ -1,5 +1,4 @@
-Parmelia tinctoria f. tinctoria FORM
-=======
+# Parmelia tinctoria (Hoffm.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

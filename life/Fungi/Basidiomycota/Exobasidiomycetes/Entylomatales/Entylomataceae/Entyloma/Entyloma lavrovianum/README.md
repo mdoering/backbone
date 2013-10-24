@@ -1,5 +1,4 @@
-Entyloma lavrovianum Schwarzman SPECIES
-=======
+# Entyloma lavrovianum Schwarzman SPECIES
 
 #### Status
 ACCEPTED

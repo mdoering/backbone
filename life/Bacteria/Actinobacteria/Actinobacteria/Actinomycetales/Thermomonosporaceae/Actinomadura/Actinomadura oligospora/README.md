@@ -1,5 +1,4 @@
-Actinomadura oligospora Mertz & Yao, 1986 SPECIES
-=======
+# Actinomadura oligospora Mertz & Yao, 1986 SPECIES
 
 #### Status
 ACCEPTED

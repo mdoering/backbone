@@ -1,5 +1,4 @@
-Ascochyta culmicola (S. Ahmad) Punith. SPECIES
-=======
+# Ascochyta culmicola (S. Ahmad) Punith. SPECIES
 
 #### Status
 ACCEPTED

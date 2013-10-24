@@ -1,5 +1,4 @@
-Stampfliellidae Kozur, Moix & Ozsvárt, 2007 FAMILY
-=======
+# Stampfliellidae Kozur, Moix & Ozsvárt, 2007 FAMILY
 
 #### Status
 ACCEPTED

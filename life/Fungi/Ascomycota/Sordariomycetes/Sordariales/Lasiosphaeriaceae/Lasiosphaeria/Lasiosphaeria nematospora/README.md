@@ -1,5 +1,4 @@
-Lasiosphaeria nematospora Linder SPECIES
-=======
+# Lasiosphaeria nematospora Linder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita tarda (Trimbach) Contu SPECIES
-=======
+# Amanita tarda (Trimbach) Contu SPECIES
 
 #### Status
 ACCEPTED

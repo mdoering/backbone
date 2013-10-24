@@ -1,5 +1,4 @@
-Laccaria bullulifera Singer SPECIES
-=======
+# Laccaria bullulifera Singer SPECIES
 
 #### Status
 ACCEPTED

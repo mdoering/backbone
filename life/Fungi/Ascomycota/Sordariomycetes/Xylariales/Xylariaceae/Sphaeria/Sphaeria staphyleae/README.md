@@ -1,5 +1,4 @@
-Sphaeria staphyleae Schwein. SPECIES
-=======
+# Sphaeria staphyleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

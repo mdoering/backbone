@@ -1,17 +1,16 @@
-Melampsora allii-populina f. muscaridis-populina Vienn.-Bourg. FORM
-=======
+# Melampsora allii-populina Kleb., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. PflKrankh. PflPath. PflSchutz 12: 25 (1902)
 
 #### Original name
-Melampsora allii-populina f. muscaridis-populina Vienn.-Bourg.
+Melampsora allii-populina Kleb., 1902
 
 ### Remarks
 null

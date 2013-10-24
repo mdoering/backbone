@@ -1,5 +1,4 @@
-Chaetoceros paulsenii Ostenfeld, 1901 SPECIES
-=======
+# Chaetoceros paulsenii Ostenfeld, 1901 SPECIES
 
 #### Status
 ACCEPTED

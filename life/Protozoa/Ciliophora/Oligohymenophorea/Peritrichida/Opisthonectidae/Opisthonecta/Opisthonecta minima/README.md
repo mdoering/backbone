@@ -1,5 +1,4 @@
-Opisthonecta minima Foissner, 1975 SPECIES
-=======
+# Opisthonecta minima Foissner, 1975 SPECIES
 
 #### Status
 ACCEPTED

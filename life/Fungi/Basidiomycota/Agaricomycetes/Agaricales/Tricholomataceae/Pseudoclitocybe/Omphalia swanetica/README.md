@@ -1,5 +1,4 @@
-Omphalia swanetica Singer SPECIES
-=======
+# Omphalia swanetica Singer SPECIES
 
 #### Status
 ACCEPTED

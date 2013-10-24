@@ -1,5 +1,4 @@
-Polyoeca Kent, 1880 GENUS
-=======
+# Polyoeca Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

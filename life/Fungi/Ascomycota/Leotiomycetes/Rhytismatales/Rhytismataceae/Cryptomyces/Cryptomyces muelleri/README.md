@@ -1,5 +1,4 @@
-Cryptomyces muelleri Ullasa SPECIES
-=======
+# Cryptomyces muelleri Ullasa SPECIES
 
 #### Status
 ACCEPTED

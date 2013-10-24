@@ -1,5 +1,4 @@
-Paulia aldabrensis Henssen SPECIES
-=======
+# Paulia aldabrensis Henssen SPECIES
 
 #### Status
 ACCEPTED

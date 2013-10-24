@@ -1,5 +1,4 @@
-Macrophoma ramulicola (Desm.) Höhn. SPECIES
-=======
+# Macrophoma ramulicola (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

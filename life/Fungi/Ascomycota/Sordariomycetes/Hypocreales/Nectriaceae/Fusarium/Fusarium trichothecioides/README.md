@@ -1,14 +1,13 @@
-Fusarium sambucinum var. trichothecioides (Wollenw.) Bilai, 1955 VARIETY
-=======
+# Fusarium trichothecioides Wollenw., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusarii 268 (1955)
+J. Wash. Acad. Sci. 2: 146-152 (1912)
 
 #### Original name
 Fusarium trichothecioides Wollenw., 1912

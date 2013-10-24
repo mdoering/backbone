@@ -1,5 +1,4 @@
-Diplodia stangeriae Zimm. SPECIES
-=======
+# Diplodia stangeriae Zimm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia aerogenidii Thaxt. SPECIES
-=======
+# Laboulbenia aerogenidii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium raciborskii var. raciborskii VARIETY
-=======
+# Penicillium canescens Sopp, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 454 (1927)
+Monograph of Penicillium 181 (1912)
 
 #### Original name
-Penicillium raciborskii var. raciborskii
+Penicillium canescens Sopp, 1912
 
 ### Remarks
 null

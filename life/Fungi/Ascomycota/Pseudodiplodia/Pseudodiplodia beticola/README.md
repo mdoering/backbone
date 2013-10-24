@@ -1,5 +1,4 @@
-Pseudodiplodia beticola (Prill. & Delacr.) Petr. SPECIES
-=======
+# Pseudodiplodia beticola (Prill. & Delacr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

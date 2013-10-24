@@ -1,5 +1,4 @@
-Helvetocapsa lemanensis SPECIES
-=======
+# Helvetocapsa lemanensis SPECIES
 
 #### Status
 ACCEPTED

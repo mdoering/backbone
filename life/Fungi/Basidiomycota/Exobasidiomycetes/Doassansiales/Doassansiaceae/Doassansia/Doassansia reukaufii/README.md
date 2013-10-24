@@ -1,5 +1,4 @@
-Doassansia reukaufii Henn. SPECIES
-=======
+# Doassansia reukaufii Henn. SPECIES
 
 #### Status
 ACCEPTED

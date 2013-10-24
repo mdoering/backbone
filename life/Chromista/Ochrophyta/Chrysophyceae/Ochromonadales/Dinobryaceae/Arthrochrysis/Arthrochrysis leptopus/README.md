@@ -1,5 +1,4 @@
-Arthrochrysis leptopus Pascher SPECIES
-=======
+# Arthrochrysis leptopus Pascher SPECIES
 
 #### Status
 ACCEPTED

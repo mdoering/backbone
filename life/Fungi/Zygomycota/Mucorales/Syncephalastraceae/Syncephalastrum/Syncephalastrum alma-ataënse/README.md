@@ -1,5 +1,4 @@
-Syncephalastrum alma-ataënse Novobr. SPECIES
-=======
+# Syncephalastrum alma-ataënse Novobr. SPECIES
 
 #### Status
 ACCEPTED

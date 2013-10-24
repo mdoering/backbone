@@ -1,5 +1,4 @@
-Cytophaga psychrophila (ex Borg, 1960) Reichenbach, 1989 SPECIES
-=======
+# Cytophaga psychrophila (ex Borg, 1960) Reichenbach, 1989 SPECIES
 
 #### Status
 ACCEPTED

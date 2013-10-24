@@ -1,5 +1,4 @@
-Lepiota pilosiuscula Mont. SPECIES
-=======
+# Lepiota pilosiuscula Mont. SPECIES
 
 #### Status
 ACCEPTED

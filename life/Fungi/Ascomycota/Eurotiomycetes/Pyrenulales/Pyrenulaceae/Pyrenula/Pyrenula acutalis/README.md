@@ -1,5 +1,4 @@
-Pyrenula acutalis R. C. Harris SPECIES
-=======
+# Pyrenula acutalis R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

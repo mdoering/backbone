@@ -1,5 +1,4 @@
-Cylindralithus duplex Perch-Nielsen, 1973 SPECIES
-=======
+# Cylindralithus duplex Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

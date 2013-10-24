@@ -1,5 +1,4 @@
-Coprinus giganteosporus M. Zang & Y. Fei SPECIES
-=======
+# Coprinus giganteosporus M. Zang & Y. Fei SPECIES
 
 #### Status
 ACCEPTED

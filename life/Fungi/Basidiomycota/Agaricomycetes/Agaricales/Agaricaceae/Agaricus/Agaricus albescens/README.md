@@ -1,5 +1,4 @@
-Agaricus albescens Viv. SPECIES
-=======
+# Agaricus albescens Viv. SPECIES
 
 #### Status
 ACCEPTED

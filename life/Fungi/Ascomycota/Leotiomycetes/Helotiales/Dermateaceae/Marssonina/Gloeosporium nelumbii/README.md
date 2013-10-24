@@ -1,5 +1,4 @@
-Gloeosporium nelumbii Tassi SPECIES
-=======
+# Gloeosporium nelumbii Tassi SPECIES
 
 #### Status
 ACCEPTED

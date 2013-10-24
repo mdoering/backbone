@@ -1,5 +1,4 @@
-Mycobacterium diernhoferi (ex Bönicke & Juhasz, 1965) Tsukamura et al., 1983 SPECIES
-=======
+# Mycobacterium diernhoferi (ex Bönicke & Juhasz, 1965) Tsukamura et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia strigosa Pers. SPECIES
-=======
+# Parmelia strigosa Pers. SPECIES
 
 #### Status
 ACCEPTED

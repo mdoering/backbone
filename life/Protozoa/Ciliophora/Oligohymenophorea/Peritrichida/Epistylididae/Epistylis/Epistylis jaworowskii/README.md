@@ -1,5 +1,4 @@
-Epistylis jaworowskii Kahl, 1935 SPECIES
-=======
+# Epistylis jaworowskii Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

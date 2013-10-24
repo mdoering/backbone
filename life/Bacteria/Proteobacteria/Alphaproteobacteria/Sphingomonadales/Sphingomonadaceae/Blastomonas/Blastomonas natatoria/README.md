@@ -1,8 +1,7 @@
-Sphingomonas natatoria (Sly, 1985) Yabuuchi et al., 1999 SPECIES
-=======
+# Blastomonas natatoria (Sly, 1985) Sly & Cahill, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

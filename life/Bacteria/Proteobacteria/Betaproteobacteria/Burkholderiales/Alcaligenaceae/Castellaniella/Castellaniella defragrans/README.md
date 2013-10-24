@@ -1,8 +1,7 @@
-Alcaligenes defragrans Foss et al., 1998 SPECIES
-=======
+# Castellaniella defragrans (Foss et al., 1998) Kämpfer et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

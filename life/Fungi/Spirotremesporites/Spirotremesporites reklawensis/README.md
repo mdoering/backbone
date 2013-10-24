@@ -1,5 +1,4 @@
-Spirotremesporites reklawensis Elsik SPECIES
-=======
+# Spirotremesporites reklawensis Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus rufescens Hesler SPECIES
-=======
+# Gymnopilus rufescens Hesler SPECIES
 
 #### Status
 ACCEPTED

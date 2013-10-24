@@ -1,5 +1,4 @@
-Cortinarius pellin Garrido SPECIES
-=======
+# Cortinarius pellin Garrido SPECIES
 
 #### Status
 ACCEPTED

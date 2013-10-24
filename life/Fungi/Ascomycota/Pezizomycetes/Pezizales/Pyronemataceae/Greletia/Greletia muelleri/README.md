@@ -1,17 +1,16 @@
-Greletia mülleri Pfister SPECIES
-=======
+# Greletia muelleri Pfister SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 38: 238 (1986)
 
 #### Original name
-Greletia mülleri Pfister
+Greletia muelleri Pfister
 
 ### Remarks
 null

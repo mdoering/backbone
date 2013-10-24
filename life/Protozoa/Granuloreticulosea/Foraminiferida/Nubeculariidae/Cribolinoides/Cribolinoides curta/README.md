@@ -1,5 +1,4 @@
-Cribolinoides curta (Cushman) SPECIES
-=======
+# Cribolinoides curta (Cushman) SPECIES
 
 #### Status
 ACCEPTED

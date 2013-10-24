@@ -1,5 +1,4 @@
-Helvella carthilaginea Bolton SPECIES
-=======
+# Helvella carthilaginea Bolton SPECIES
 
 #### Status
 ACCEPTED

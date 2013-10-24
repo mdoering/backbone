@@ -1,17 +1,16 @@
-Anthracothecium vermicularis Kashiw. & Kurok. SPECIES
-=======
+# Anthracothecium vermiculare Kashiw. & Kurok. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 56(11): 354 (1981)
 
 #### Original name
-Anthracothecium vermicularis Kashiw. & Kurok.
+Anthracothecium vermiculare Kashiw. & Kurok.
 
 ### Remarks
 null

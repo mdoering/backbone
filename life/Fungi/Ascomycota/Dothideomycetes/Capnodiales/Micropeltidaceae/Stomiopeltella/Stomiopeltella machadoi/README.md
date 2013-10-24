@@ -1,5 +1,4 @@
-Stomiopeltella machadoi Bat. & I.H. Lima SPECIES
-=======
+# Stomiopeltella machadoi Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

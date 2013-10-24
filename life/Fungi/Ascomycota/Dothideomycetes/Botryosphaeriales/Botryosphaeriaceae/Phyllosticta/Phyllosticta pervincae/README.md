@@ -1,5 +1,4 @@
-Phyllosticta pervincae Bissett & Darbysh. SPECIES
-=======
+# Phyllosticta pervincae Bissett & Darbysh. SPECIES
 
 #### Status
 ACCEPTED

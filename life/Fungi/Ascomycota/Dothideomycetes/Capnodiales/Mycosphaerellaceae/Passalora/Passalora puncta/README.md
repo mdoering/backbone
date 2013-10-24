@@ -1,17 +1,16 @@
-Azosma puncta Lacroix SPECIES
-=======
+# Passalora puncta (Delacr.) Arx, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 87: 288 (1987)
 
 #### Original name
-Azosma puncta Lacroix
+Azosma punctum Delacr., 1860
 
 ### Remarks
 null

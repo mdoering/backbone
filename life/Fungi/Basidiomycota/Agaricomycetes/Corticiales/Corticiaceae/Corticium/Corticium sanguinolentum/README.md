@@ -1,5 +1,4 @@
-Corticium sanguinolentum (Alb. & Schwein.) SPECIES
-=======
+# Corticium sanguinolentum (Alb. & Schwein.) SPECIES
 
 #### Status
 ACCEPTED

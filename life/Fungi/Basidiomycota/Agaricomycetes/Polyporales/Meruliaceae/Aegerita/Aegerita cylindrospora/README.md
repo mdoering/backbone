@@ -1,5 +1,4 @@
-Aegerita cylindrospora Corda SPECIES
-=======
+# Aegerita cylindrospora Corda SPECIES
 
 #### Status
 ACCEPTED

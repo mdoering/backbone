@@ -1,5 +1,4 @@
-Inocybe procera E. Horak SPECIES
-=======
+# Inocybe procera E. Horak SPECIES
 
 #### Status
 ACCEPTED

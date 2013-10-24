@@ -1,8 +1,7 @@
-Aspergillus delicatus H.Z. Kong, 1997 SPECIES
-=======
+# Neosartorya delicata H.Z. Kong, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycotaxon 62: 429 (1997)
 
 #### Original name
-Aspergillus delicatus H.Z. Kong, 1997
+Neosartorya delicata H.Z. Kong, 1997
 
 ### Remarks
 null

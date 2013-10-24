@@ -1,5 +1,4 @@
-Arthopyrenia macrocyrtospora (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthopyrenia macrocyrtospora (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

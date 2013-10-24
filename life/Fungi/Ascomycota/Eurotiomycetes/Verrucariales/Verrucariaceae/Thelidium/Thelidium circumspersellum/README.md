@@ -1,5 +1,4 @@
-Thelidium circumspersellum f. circumspersellum FORM
-=======
+# Thelidium circumspersellum (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium circumspersellum f. circumspersellum
+Verrucaria circumspersella Nyl.
 
 ### Remarks
 null

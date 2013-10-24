@@ -1,5 +1,4 @@
-Gymnodinium impatiens Skuja SPECIES
-=======
+# Gymnodinium impatiens Skuja SPECIES
 
 #### Status
 ACCEPTED

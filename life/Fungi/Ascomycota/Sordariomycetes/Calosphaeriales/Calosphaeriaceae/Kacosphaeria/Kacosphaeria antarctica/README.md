@@ -1,5 +1,4 @@
-Kacosphaeria antarctica Speg., 1888 SPECIES
-=======
+# Kacosphaeria antarctica Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

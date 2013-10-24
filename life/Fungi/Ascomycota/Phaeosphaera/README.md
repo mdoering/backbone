@@ -1,5 +1,4 @@
-Phaeosphaera Batista & Ciferri, 1963 GENUS
-=======
+# Phaeosphaera Batista & Ciferri, 1963 GENUS
 
 #### Status
 ACCEPTED

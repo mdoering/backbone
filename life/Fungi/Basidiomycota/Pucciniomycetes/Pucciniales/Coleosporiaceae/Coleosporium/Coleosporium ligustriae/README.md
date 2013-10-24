@@ -1,5 +1,4 @@
-Coleosporium ligustriae Thum. SPECIES
-=======
+# Coleosporium ligustriae Thum. SPECIES
 
 #### Status
 ACCEPTED

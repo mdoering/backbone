@@ -1,5 +1,4 @@
-Lyngbya fragilis (Gomont) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Lyngbya fragilis (Gomont) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

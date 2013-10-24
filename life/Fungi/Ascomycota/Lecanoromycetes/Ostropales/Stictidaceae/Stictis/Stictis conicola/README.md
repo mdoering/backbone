@@ -1,5 +1,4 @@
-Stictis conicola Hazsl. SPECIES
-=======
+# Stictis conicola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

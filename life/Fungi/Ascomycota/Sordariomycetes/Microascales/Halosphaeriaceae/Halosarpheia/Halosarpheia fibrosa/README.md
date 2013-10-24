@@ -1,5 +1,4 @@
-Halosarpheia fibrosa Kohlm. & E. Kohlm., 1977 SPECIES
-=======
+# Halosarpheia fibrosa Kohlm. & E. Kohlm., 1977 SPECIES
 
 #### Status
 ACCEPTED

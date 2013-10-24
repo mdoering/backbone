@@ -1,5 +1,4 @@
-Phyllosticta oculata Ellis & Everh. SPECIES
-=======
+# Phyllosticta oculata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

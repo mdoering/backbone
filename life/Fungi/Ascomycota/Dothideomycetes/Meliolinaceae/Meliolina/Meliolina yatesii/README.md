@@ -1,5 +1,4 @@
-Meliolina yatesii Syd. & P. Syd. SPECIES
-=======
+# Meliolina yatesii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

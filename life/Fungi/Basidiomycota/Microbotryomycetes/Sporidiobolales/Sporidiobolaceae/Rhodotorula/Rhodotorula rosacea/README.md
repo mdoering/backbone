@@ -1,5 +1,4 @@
-Rhodotorula rosacea (Van Hest) F.C. Harrison SPECIES
-=======
+# Rhodotorula rosacea (Van Hest) F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

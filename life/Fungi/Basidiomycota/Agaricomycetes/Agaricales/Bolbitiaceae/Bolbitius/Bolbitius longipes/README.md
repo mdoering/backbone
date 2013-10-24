@@ -1,5 +1,4 @@
-Bolbitius longipes Massee SPECIES
-=======
+# Bolbitius longipes Massee SPECIES
 
 #### Status
 ACCEPTED

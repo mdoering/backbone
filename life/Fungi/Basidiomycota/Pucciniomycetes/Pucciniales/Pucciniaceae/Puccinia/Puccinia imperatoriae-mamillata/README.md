@@ -1,5 +1,4 @@
-Puccinia imperatoriae-mamillata Cruchet SPECIES
-=======
+# Puccinia imperatoriae-mamillata Cruchet SPECIES
 
 #### Status
 ACCEPTED

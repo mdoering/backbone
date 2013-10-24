@@ -1,5 +1,4 @@
-Ptychogaster croceus Lloyd SPECIES
-=======
+# Ptychogaster croceus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bitubulogenerina ellisi Howe SPECIES
-=======
+# Bitubulogenerina ellisi Howe SPECIES
 
 #### Status
 ACCEPTED

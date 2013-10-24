@@ -1,5 +1,4 @@
-Mycotorula chalmersi (Castell.) Redaelli & Cif. SPECIES
-=======
+# Mycotorula chalmersi (Castell.) Redaelli & Cif. SPECIES
 
 #### Status
 ACCEPTED

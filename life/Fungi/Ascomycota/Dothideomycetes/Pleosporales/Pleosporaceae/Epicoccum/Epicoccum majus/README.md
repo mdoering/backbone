@@ -1,5 +1,4 @@
-Epicoccum majus Rostr. SPECIES
-=======
+# Epicoccum majus Rostr. SPECIES
 
 #### Status
 ACCEPTED

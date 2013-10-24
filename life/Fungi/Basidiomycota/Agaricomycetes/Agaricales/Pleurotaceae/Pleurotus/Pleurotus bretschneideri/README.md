@@ -1,5 +1,4 @@
-Pleurotus bretschneideri (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus bretschneideri (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

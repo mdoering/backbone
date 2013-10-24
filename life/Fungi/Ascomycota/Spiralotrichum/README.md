@@ -1,5 +1,4 @@
-Spiralotrichum H.S. Yates GENUS
-=======
+# Spiralotrichum H.S. Yates GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligosphaeridium poculum K. P. Jain SPECIES
-=======
+# Oligosphaeridium poculum K. P. Jain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia carolitana (Arnold) Nimis & Poelt SPECIES
-=======
+# Toninia carolitana (Arnold) Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

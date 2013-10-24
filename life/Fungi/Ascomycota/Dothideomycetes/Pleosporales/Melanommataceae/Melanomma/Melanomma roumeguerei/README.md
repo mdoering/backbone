@@ -1,8 +1,7 @@
-Melanomma roumegueri P. Karst. SPECIES
-=======
+# Melanomma roumeguerei P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanomma roumegueri P. Karst.
+Melanomma roumeguerei P. Karst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ochrolechia isidiifera Kalb SPECIES
-=======
+# Ochrolechia isidiifera Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citromyces albicans Sopp SPECIES
-=======
+# Citromyces albicans Sopp SPECIES
 
 #### Status
 ACCEPTED

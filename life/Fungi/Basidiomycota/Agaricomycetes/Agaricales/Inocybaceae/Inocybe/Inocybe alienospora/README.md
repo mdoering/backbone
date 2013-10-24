@@ -1,5 +1,4 @@
-Inocybe alienospora (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe alienospora (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

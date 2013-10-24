@@ -1,5 +1,4 @@
-Bactridium helvellae Berk. & Broome SPECIES
-=======
+# Bactridium helvellae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

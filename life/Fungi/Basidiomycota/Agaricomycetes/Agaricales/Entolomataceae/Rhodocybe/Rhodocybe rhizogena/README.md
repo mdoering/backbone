@@ -1,5 +1,4 @@
-Rhodocybe rhizogena T.J. Baroni & E. Horak SPECIES
-=======
+# Rhodocybe rhizogena T.J. Baroni & E. Horak SPECIES
 
 #### Status
 ACCEPTED

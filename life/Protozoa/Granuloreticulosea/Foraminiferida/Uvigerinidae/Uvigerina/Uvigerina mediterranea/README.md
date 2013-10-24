@@ -1,5 +1,4 @@
-Uvigerina mediterranea Hofker, 1932 SPECIES
-=======
+# Uvigerina mediterranea Hofker, 1932 SPECIES
 
 #### Status
 ACCEPTED

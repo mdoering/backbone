@@ -1,5 +1,4 @@
-Sporodictyon pyrenaicum Trevis. SPECIES
-=======
+# Sporodictyon pyrenaicum Trevis. SPECIES
 
 #### Status
 ACCEPTED

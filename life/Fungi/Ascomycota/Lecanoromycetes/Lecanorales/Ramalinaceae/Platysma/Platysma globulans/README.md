@@ -1,5 +1,4 @@
-Platysma globulans Nyl. ex Hue SPECIES
-=======
+# Platysma globulans Nyl. ex Hue SPECIES
 
 #### Status
 ACCEPTED

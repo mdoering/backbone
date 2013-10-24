@@ -1,5 +1,4 @@
-Aecidium magelaenicum Berk. SPECIES
-=======
+# Aecidium magelaenicum Berk. SPECIES
 
 #### Status
 ACCEPTED

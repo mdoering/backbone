@@ -1,5 +1,4 @@
-Protomyces leontodontis Büren SPECIES
-=======
+# Protomyces leontodontis Büren SPECIES
 
 #### Status
 ACCEPTED

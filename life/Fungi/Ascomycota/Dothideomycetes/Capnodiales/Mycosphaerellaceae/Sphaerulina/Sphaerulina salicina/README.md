@@ -1,5 +1,4 @@
-Sphaerulina salicina Syd. {?} SPECIES
-=======
+# Sphaerulina salicina Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

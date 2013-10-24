@@ -1,5 +1,4 @@
-Phyllosticta altaica Nann. SPECIES
-=======
+# Phyllosticta altaica Nann. SPECIES
 
 #### Status
 ACCEPTED

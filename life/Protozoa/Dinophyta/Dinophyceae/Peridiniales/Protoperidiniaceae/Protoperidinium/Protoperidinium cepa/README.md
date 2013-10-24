@@ -1,5 +1,4 @@
-Protoperidinium cepa (Balech, 1971) Balech, 1974 SPECIES
-=======
+# Protoperidinium cepa (Balech, 1971) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

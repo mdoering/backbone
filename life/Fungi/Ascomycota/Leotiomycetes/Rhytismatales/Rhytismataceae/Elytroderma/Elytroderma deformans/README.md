@@ -1,17 +1,16 @@
-Hypoderma deformans f. contorta Dearn. FORM
-=======
+# Elytroderma deformans (Weir) Darker, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Arnold Arbor. 1: 63 (1932)
 
 #### Original name
-Hypoderma deformans f. contorta Dearn.
+Hypoderma deformans Weir, 1916
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neofuscelia galbizans (Nyl.) Essl. SPECIES
-=======
+# Neofuscelia galbizans (Nyl.) Essl. SPECIES
 
 #### Status
 ACCEPTED

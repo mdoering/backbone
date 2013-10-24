@@ -1,5 +1,4 @@
-Strigomonas Lwoff, 1931 GENUS
-=======
+# Strigomonas Lwoff, 1931 GENUS
 
 #### Status
 ACCEPTED

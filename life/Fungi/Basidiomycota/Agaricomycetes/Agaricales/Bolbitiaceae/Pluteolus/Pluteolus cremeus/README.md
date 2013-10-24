@@ -1,5 +1,4 @@
-Pluteolus cremeus Murrill SPECIES
-=======
+# Pluteolus cremeus Murrill SPECIES
 
 #### Status
 ACCEPTED

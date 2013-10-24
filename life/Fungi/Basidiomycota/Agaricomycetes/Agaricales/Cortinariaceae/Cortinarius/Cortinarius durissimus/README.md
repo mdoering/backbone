@@ -1,5 +1,4 @@
-Cortinarius durissimus M.M. Moser SPECIES
-=======
+# Cortinarius durissimus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptopharynx kahli Dragesco, 1954 SPECIES
-=======
+# Cryptopharynx kahli Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

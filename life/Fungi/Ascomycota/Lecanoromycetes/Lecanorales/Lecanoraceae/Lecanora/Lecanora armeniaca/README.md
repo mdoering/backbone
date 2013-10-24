@@ -1,5 +1,4 @@
-Lecanora armeniaca Werner SPECIES
-=======
+# Lecanora armeniaca Werner SPECIES
 
 #### Status
 ACCEPTED

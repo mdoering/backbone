@@ -1,5 +1,4 @@
-Ciboria macilenta P. Karst. SPECIES
-=======
+# Ciboria macilenta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

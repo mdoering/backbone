@@ -1,5 +1,4 @@
-Cortinarius vesterholtii Frøslev & T.S. Jeppesen SPECIES
-=======
+# Cortinarius vesterholtii Frøslev & T.S. Jeppesen SPECIES
 
 #### Status
 ACCEPTED

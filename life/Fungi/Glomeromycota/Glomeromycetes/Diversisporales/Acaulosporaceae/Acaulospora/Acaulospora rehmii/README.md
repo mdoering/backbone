@@ -1,5 +1,4 @@
-Acaulospora rehmii Sieverd. & S. Toro, 1987 SPECIES
-=======
+# Acaulospora rehmii Sieverd. & S. Toro, 1987 SPECIES
 
 #### Status
 ACCEPTED

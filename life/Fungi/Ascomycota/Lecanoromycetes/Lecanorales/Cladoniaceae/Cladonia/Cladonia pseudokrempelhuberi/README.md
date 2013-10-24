@@ -1,5 +1,4 @@
-Cladonia pseudokrempelhuberi Gyeln. SPECIES
-=======
+# Cladonia pseudokrempelhuberi Gyeln. SPECIES
 
 #### Status
 ACCEPTED

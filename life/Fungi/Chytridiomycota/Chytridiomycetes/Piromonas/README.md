@@ -1,5 +1,4 @@
-Piromonas E. Liebet. GENUS
-=======
+# Piromonas E. Liebet. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eoplectonema minimum X. X. Liu SPECIES
-=======
+# Eoplectonema minimum X. X. Liu SPECIES
 
 #### Status
 ACCEPTED

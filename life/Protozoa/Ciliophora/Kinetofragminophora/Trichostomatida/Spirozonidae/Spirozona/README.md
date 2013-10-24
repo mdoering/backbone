@@ -1,5 +1,4 @@
-Spirozona Kahl, 1926 GENUS
-=======
+# Spirozona Kahl, 1926 GENUS
 
 #### Status
 ACCEPTED

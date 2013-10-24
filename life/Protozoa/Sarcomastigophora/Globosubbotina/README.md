@@ -1,5 +1,4 @@
-Globosubbotina Spiegler, 1986 GENUS
-=======
+# Globosubbotina Spiegler, 1986 GENUS
 
 #### Status
 ACCEPTED

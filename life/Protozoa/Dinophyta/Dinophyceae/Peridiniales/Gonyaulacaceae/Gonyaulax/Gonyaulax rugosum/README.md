@@ -1,5 +1,4 @@
-Gonyaulax rugosum Wailes SPECIES
-=======
+# Gonyaulax rugosum Wailes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta canescens Ellis & Everh. SPECIES
-=======
+# Phyllosticta canescens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

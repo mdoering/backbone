@@ -1,5 +1,4 @@
-Entoloma cinereum Velen. SPECIES
-=======
+# Entoloma cinereum Velen. SPECIES
 
 #### Status
 ACCEPTED

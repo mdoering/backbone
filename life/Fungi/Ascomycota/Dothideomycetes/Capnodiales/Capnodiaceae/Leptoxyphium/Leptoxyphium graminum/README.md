@@ -1,14 +1,13 @@
-Capnodium graminum Pat., 1897 SPECIES
-=======
+# Leptoxyphium graminum (Pat.) Speg., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Physis, Buenos Aires (1918)
 
 #### Original name
 Capnodium graminum Pat., 1897

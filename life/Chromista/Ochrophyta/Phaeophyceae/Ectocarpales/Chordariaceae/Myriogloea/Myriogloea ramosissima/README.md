@@ -1,5 +1,4 @@
-Myriogloea ramosissima (Zanardini) Papenfuss, 1968 SPECIES
-=======
+# Myriogloea ramosissima (Zanardini) Papenfuss, 1968 SPECIES
 
 #### Status
 ACCEPTED

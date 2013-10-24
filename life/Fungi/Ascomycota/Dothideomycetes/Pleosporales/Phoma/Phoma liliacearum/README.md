@@ -1,5 +1,4 @@
-Phoma liliacearum Westend. SPECIES
-=======
+# Phoma liliacearum Westend. SPECIES
 
 #### Status
 ACCEPTED

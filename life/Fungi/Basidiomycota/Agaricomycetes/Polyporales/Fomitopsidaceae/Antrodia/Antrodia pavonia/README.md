@@ -1,5 +1,4 @@
-Antrodia pavonia (Hook.) Teng SPECIES
-=======
+# Antrodia pavonia (Hook.) Teng SPECIES
 
 #### Status
 ACCEPTED

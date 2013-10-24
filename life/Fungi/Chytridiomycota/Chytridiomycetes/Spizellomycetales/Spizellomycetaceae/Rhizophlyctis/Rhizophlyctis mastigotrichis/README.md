@@ -1,14 +1,13 @@
-Rhizophydium mastigotrichis (Nowak.) J. Schröt., 1886 SPECIES
-=======
+# Rhizophlyctis mastigotrichis (Nowak.) A. Fisch., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(4): 121 (1891)
 
 #### Original name
 Chytridium mastigotrichis Nowak., 1876

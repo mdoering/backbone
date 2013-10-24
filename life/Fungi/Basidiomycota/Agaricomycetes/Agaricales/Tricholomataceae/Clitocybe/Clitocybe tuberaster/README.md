@@ -1,5 +1,4 @@
-Clitocybe tuberaster V. Brig. SPECIES
-=======
+# Clitocybe tuberaster V. Brig. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merogregarina Porter, 1908 GENUS
-=======
+# Merogregarina Porter, 1908 GENUS
 
 #### Status
 ACCEPTED

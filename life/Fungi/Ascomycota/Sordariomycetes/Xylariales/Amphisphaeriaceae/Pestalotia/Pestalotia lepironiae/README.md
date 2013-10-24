@@ -1,5 +1,4 @@
-Pestalotia lepironiae Sawada SPECIES
-=======
+# Pestalotia lepironiae Sawada SPECIES
 
 #### Status
 ACCEPTED

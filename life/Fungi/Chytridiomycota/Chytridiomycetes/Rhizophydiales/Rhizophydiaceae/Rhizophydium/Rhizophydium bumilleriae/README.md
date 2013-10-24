@@ -1,5 +1,4 @@
-Rhizophydium bumilleriae (Couch) Karling SPECIES
-=======
+# Rhizophydium bumilleriae (Couch) Karling SPECIES
 
 #### Status
 ACCEPTED

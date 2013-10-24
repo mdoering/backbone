@@ -1,14 +1,13 @@
-Naevia galactites (DC.) Flot. SPECIES
-=======
+# Arthonia galactites (DC.) Dufour SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Phys. Chim. Hist. nat. Arts 87: 203 (1818)
 
 #### Original name
 null

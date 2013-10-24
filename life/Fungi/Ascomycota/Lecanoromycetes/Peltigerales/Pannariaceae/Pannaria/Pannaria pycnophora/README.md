@@ -1,5 +1,4 @@
-Pannaria pycnophora SPECIES
-=======
+# Pannaria pycnophora SPECIES
 
 #### Status
 ACCEPTED

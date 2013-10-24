@@ -1,5 +1,4 @@
-Lecanora candida var. candida VARIETY
-=======
+# Lecanora candida (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora candida var. candida
+null
 
 ### Remarks
 null

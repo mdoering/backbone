@@ -1,5 +1,4 @@
-Coleroa sporoboli (H.C. Greene) M.E. Barr SPECIES
-=======
+# Coleroa sporoboli (H.C. Greene) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

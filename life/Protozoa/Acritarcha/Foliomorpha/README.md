@@ -1,5 +1,4 @@
-Foliomorpha Yan Yuzhong, 1985 GENUS
-=======
+# Foliomorpha Yan Yuzhong, 1985 GENUS
 
 #### Status
 ACCEPTED

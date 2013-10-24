@@ -1,5 +1,4 @@
-Lecidea australissima Nyl. SPECIES
-=======
+# Lecidea australissima Nyl. SPECIES
 
 #### Status
 ACCEPTED

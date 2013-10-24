@@ -1,5 +1,4 @@
-Cytosporina rhodi Höhn. SPECIES
-=======
+# Cytosporina rhodi Höhn. SPECIES
 
 #### Status
 ACCEPTED

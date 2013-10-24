@@ -1,5 +1,4 @@
-Epithyrium populi (Oudem.) Sacc. SPECIES
-=======
+# Epithyrium populi (Oudem.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Oscillatoria bonnemaisonii var. intermedia (P.L.Crouan & H.M.Crouan) Ardré, 1970 VARIETY
-=======
+# Oscillatoria bonnemaisonii (P. Crouan & H. Crouan) P. Crouan & H. Crouan SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Cercospora pistaciae Sawada SPECIES
-=======
+# Cercospora pistaciae Sawada SPECIES
 
 #### Status
 ACCEPTED

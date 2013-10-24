@@ -1,5 +1,4 @@
-Shortensis memorabilis Dilcher SPECIES
-=======
+# Shortensis memorabilis Dilcher SPECIES
 
 #### Status
 ACCEPTED

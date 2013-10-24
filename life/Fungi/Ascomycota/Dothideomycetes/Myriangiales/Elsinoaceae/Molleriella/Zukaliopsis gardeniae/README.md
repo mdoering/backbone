@@ -1,5 +1,4 @@
-Zukaliopsis gardeniae Sawada SPECIES
-=======
+# Zukaliopsis gardeniae Sawada SPECIES
 
 #### Status
 ACCEPTED

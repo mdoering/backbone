@@ -1,5 +1,4 @@
-Gymnopus amarus Murrill SPECIES
-=======
+# Gymnopus amarus Murrill SPECIES
 
 #### Status
 ACCEPTED

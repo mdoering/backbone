@@ -1,5 +1,4 @@
-Poria albocincta Cooke & Massee SPECIES
-=======
+# Poria albocincta Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

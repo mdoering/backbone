@@ -1,5 +1,4 @@
-Allarthonia fusca (A. Massal.) Sandst. SPECIES
-=======
+# Allarthonia fusca (A. Massal.) Sandst. SPECIES
 
 #### Status
 ACCEPTED

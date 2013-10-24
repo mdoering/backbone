@@ -1,5 +1,4 @@
-Opegrapha candida Müll. Arg. SPECIES
-=======
+# Opegrapha candida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

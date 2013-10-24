@@ -1,5 +1,4 @@
-Rhabdospora rhoina Peck SPECIES
-=======
+# Rhabdospora rhoina Peck SPECIES
 
 #### Status
 ACCEPTED

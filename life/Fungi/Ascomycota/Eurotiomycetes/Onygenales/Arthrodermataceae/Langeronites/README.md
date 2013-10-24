@@ -1,5 +1,4 @@
-Langeronites Ansel GENUS
-=======
+# Langeronites Ansel GENUS
 
 #### Status
 ACCEPTED

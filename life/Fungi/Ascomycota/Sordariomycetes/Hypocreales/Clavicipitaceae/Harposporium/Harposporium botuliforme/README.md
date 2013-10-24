@@ -1,5 +1,4 @@
-Harposporium botuliforme G.L. Barron, 1983 SPECIES
-=======
+# Harposporium botuliforme G.L. Barron, 1983 SPECIES
 
 #### Status
 ACCEPTED

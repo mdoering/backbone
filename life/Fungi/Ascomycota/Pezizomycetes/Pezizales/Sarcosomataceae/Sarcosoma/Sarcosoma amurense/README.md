@@ -1,5 +1,4 @@
-Sarcosoma amurense Lj.N. Vassiljeva SPECIES
-=======
+# Sarcosoma amurense Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

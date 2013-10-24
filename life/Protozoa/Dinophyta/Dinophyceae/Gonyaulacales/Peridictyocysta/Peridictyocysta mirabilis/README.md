@@ -1,5 +1,4 @@
-Peridictyocysta mirabilis (Cookson & Eisenack, 1958) Cookson & Eisenack SPECIES
-=======
+# Peridictyocysta mirabilis (Cookson & Eisenack, 1958) Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

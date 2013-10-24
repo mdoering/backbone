@@ -1,5 +1,4 @@
-Apiosporium sibiricum P. Karst. SPECIES
-=======
+# Apiosporium sibiricum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

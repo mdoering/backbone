@@ -1,5 +1,4 @@
-Cercophora caerulea (Petch) N. Lundq. SPECIES
-=======
+# Cercophora caerulea (Petch) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

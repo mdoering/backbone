@@ -1,5 +1,4 @@
-Sticta hypopsila (Mont.) Cromb. SPECIES
-=======
+# Sticta hypopsila (Mont.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

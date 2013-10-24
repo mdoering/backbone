@@ -1,5 +1,4 @@
-Cladonia diversa Asperges SPECIES
-=======
+# Cladonia diversa Asperges SPECIES
 
 #### Status
 ACCEPTED

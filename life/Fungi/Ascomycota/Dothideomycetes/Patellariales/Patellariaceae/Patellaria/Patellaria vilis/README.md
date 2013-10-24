@@ -1,5 +1,4 @@
-Patellaria vilis Wallr. SPECIES
-=======
+# Patellaria vilis Wallr. SPECIES
 
 #### Status
 ACCEPTED

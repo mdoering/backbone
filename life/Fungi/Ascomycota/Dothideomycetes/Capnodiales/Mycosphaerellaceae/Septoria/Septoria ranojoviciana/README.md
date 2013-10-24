@@ -1,5 +1,4 @@
-Septoria ranojoviciana Henn. & Ranoj. SPECIES
-=======
+# Septoria ranojoviciana Henn. & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

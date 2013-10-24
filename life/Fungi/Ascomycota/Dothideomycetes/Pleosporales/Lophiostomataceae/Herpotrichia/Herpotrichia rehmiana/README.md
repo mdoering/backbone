@@ -1,5 +1,4 @@
-Herpotrichia rehmiana Henn. & Kirschst. SPECIES
-=======
+# Herpotrichia rehmiana Henn. & Kirschst. SPECIES
 
 #### Status
 ACCEPTED

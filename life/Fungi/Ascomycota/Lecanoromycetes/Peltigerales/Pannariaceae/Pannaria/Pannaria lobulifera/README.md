@@ -1,5 +1,4 @@
-Pannaria lobulifera Elvebakk SPECIES
-=======
+# Pannaria lobulifera Elvebakk SPECIES
 
 #### Status
 ACCEPTED

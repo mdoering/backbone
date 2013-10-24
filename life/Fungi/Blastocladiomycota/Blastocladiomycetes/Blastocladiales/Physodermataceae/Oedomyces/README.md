@@ -1,5 +1,4 @@
-Oedomyces GENUS
-=======
+# Oedomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia astragali Nasyrov SPECIES
-=======
+# Guignardia astragali Nasyrov SPECIES
 
 #### Status
 ACCEPTED

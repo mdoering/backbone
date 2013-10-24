@@ -1,5 +1,4 @@
-Laminaria discolor Strömfelt SPECIES
-=======
+# Laminaria discolor Strömfelt SPECIES
 
 #### Status
 ACCEPTED

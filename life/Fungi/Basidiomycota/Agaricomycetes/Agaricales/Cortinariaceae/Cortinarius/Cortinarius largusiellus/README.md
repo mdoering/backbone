@@ -1,5 +1,4 @@
-Cortinarius largusiellus Reumaux SPECIES
-=======
+# Cortinarius largusiellus Reumaux SPECIES
 
 #### Status
 ACCEPTED

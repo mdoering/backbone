@@ -1,5 +1,4 @@
-Morania paradoxa SPECIES
-=======
+# Morania paradoxa SPECIES
 
 #### Status
 ACCEPTED

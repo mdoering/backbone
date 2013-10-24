@@ -1,5 +1,4 @@
-Caloplaca millegrana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca millegrana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

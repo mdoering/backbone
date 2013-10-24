@@ -1,5 +1,4 @@
-Verrucaria evanescens (Arnold) Stizenb. SPECIES
-=======
+# Verrucaria evanescens (Arnold) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

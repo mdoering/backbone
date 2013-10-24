@@ -1,5 +1,4 @@
-Collybia eucalypti Massee SPECIES
-=======
+# Collybia eucalypti Massee SPECIES
 
 #### Status
 ACCEPTED

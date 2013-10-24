@@ -1,8 +1,7 @@
-Thyronectria xanthoxyli (Peck) Ellis & Everh. SPECIES
-=======
+# Thyronectria zanthoxyli (Peck) Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

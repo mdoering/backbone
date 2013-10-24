@@ -1,5 +1,4 @@
-Crepidotus tener Henn. SPECIES
-=======
+# Crepidotus tener Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe subgeophyllomorpha Singer SPECIES
-=======
+# Inocybe subgeophyllomorpha Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria astericola Ellis & Everh. SPECIES
-=======
+# Leptosphaeria astericola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

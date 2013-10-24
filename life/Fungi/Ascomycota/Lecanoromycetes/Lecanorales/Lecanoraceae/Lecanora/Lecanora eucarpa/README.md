@@ -1,5 +1,4 @@
-Lecanora eucarpa (Nyl.) Nyl. SPECIES
-=======
+# Lecanora eucarpa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

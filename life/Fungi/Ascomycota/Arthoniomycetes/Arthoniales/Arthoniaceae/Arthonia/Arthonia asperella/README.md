@@ -1,5 +1,4 @@
-Arthonia asperella SPECIES
-=======
+# Arthonia asperella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella subceracella Penz. & Sacc. SPECIES
-=======
+# Pezizella subceracella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria leptalaeoides Nyl. SPECIES
-=======
+# Verrucaria leptalaeoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

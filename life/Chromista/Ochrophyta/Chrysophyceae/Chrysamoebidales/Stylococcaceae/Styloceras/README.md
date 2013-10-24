@@ -1,5 +1,4 @@
-Styloceras Reverdin, 1919 GENUS
-=======
+# Styloceras Reverdin, 1919 GENUS
 
 #### Status
 ACCEPTED

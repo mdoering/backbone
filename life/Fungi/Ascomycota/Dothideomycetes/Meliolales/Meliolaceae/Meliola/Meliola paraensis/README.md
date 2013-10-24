@@ -1,17 +1,16 @@
-Meliola paraënsis Henn. SPECIES
-=======
+# Meliola paraensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia, Beibl. 39: 77 (1900)
 
 #### Original name
-Meliola paraënsis Henn.
+Meliola paraensis Henn.
 
 ### Remarks
 null

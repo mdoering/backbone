@@ -1,5 +1,4 @@
-Xanthoparmelia zimbabwana Elix & U. Becker SPECIES
-=======
+# Xanthoparmelia zimbabwana Elix & U. Becker SPECIES
 
 #### Status
 ACCEPTED

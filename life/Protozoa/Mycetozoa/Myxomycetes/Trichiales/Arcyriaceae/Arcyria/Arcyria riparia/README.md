@@ -1,5 +1,4 @@
-Arcyria riparia L.G. Krieglst., 1992 SPECIES
-=======
+# Arcyria riparia L.G. Krieglst., 1992 SPECIES
 
 #### Status
 ACCEPTED

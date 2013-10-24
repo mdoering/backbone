@@ -1,5 +1,4 @@
-Uromyces oblongus Vize SPECIES
-=======
+# Uromyces oblongus Vize SPECIES
 
 #### Status
 ACCEPTED

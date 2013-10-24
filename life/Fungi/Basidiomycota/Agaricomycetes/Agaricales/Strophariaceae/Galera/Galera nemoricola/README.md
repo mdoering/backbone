@@ -1,5 +1,4 @@
-Galera nemoricola Speg. SPECIES
-=======
+# Galera nemoricola Speg. SPECIES
 
 #### Status
 ACCEPTED

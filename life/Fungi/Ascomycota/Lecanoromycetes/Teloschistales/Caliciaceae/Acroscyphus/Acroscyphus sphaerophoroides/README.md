@@ -1,5 +1,4 @@
-Acroscyphus sphaerophoroides Lév. SPECIES
-=======
+# Acroscyphus sphaerophoroides Lév. SPECIES
 
 #### Status
 ACCEPTED

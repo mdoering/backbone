@@ -1,5 +1,4 @@
-Diedickea singularis Syd. & P. Syd., 1913 SPECIES
-=======
+# Diedickea singularis Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma geniculata (Berk. & Broome) Sacc. SPECIES
-=======
+# Strasseria geniculata (Berk. & Broome) Höhn., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 102 (1884)
+Ber. dt. bot. Ges. 37: 158 (1919)
 
 #### Original name
 null

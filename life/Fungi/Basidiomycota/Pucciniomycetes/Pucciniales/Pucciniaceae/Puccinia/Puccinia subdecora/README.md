@@ -1,5 +1,4 @@
-Puccinia subdecora Syd., P. Syd. & Holw. SPECIES
-=======
+# Puccinia subdecora Syd., P. Syd. & Holw. SPECIES
 
 #### Status
 ACCEPTED

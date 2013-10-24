@@ -1,5 +1,4 @@
-Pleospora sambuci (Plowr.) Sacc. SPECIES
-=======
+# Pleospora sambuci (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

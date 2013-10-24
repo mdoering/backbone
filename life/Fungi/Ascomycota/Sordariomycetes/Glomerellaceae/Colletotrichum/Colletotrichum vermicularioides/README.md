@@ -1,5 +1,4 @@
-Colletotrichum vermicularioides Halst. SPECIES
-=======
+# Colletotrichum vermicularioides Halst. SPECIES
 
 #### Status
 ACCEPTED

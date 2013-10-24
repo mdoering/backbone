@@ -1,5 +1,4 @@
-Uromyces kawakamii Syd. & P. Syd. SPECIES
-=======
+# Uromyces kawakamii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

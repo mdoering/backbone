@@ -1,5 +1,4 @@
-Melanoleuca subresplendens Murrill SPECIES
-=======
+# Melanoleuca subresplendens Murrill SPECIES
 
 #### Status
 ACCEPTED

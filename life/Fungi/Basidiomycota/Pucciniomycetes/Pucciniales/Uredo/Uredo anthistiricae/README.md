@@ -1,5 +1,4 @@
-Uredo anthistiricae Petch SPECIES
-=======
+# Uredo anthistiricae Petch SPECIES
 
 #### Status
 ACCEPTED

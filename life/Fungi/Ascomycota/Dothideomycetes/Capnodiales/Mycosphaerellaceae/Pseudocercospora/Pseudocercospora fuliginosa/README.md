@@ -1,5 +1,4 @@
-Pseudocercospora fuliginosa (Ellis & Kellerm.) W.X. Zhao & Y.L. Guo SPECIES
-=======
+# Pseudocercospora fuliginosa (Ellis & Kellerm.) W.X. Zhao & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermaerobacter Takai et al., 1999 GENUS
-=======
+# Thermaerobacter Takai et al., 1999 GENUS
 
 #### Status
 ACCEPTED

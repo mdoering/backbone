@@ -1,5 +1,4 @@
-Patellaria patinelloides Sacc. & Roum. SPECIES
-=======
+# Patellaria patinelloides Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

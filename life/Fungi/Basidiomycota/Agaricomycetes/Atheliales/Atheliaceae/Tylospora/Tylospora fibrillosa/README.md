@@ -1,17 +1,16 @@
-Corticium fibrillosum (Burt) D.P. Rogers & H.S. Jacks., 1943 SPECIES
-=======
+# Tylospora fibrillosa (Burt) Donk, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 9: 220 (1960)
 
 #### Original name
-null
+Hypochnus fibrillosus Burt, 1916
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trametes minima Berk. SPECIES
-=======
+# Trametes minima Berk. SPECIES
 
 #### Status
 ACCEPTED

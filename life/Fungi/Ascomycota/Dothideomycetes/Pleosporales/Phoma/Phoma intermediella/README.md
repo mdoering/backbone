@@ -1,5 +1,4 @@
-Phoma intermediella Höhn. SPECIES
-=======
+# Phoma intermediella Höhn. SPECIES
 
 #### Status
 ACCEPTED

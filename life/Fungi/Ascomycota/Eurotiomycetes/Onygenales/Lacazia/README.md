@@ -1,5 +1,4 @@
-Lacazia Taborda, V.A. Taborda & McGinnis, 1999 GENUS
-=======
+# Lacazia Taborda, V.A. Taborda & McGinnis, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dysteria reesi Kahl, 1931 SPECIES
-=======
+# Dysteria reesi Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strattonia dissimilis Barrasa, Soláns & G. Moreno SPECIES
-=======
+# Strattonia dissimilis Barrasa, Soláns & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

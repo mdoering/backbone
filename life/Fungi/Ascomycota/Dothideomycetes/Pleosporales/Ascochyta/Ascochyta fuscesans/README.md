@@ -1,5 +1,4 @@
-Ascochyta fuscesans Kabát & Bubák SPECIES
-=======
+# Ascochyta fuscesans Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

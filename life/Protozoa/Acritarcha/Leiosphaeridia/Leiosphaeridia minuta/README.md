@@ -1,5 +1,4 @@
-Leiosphaeridia minuta (Staplin, 1961) Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia minuta (Staplin, 1961) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

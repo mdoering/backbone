@@ -1,5 +1,4 @@
-Marasmius cecropiformis Antonín & Hauskn. SPECIES
-=======
+# Marasmius cecropiformis Antonín & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

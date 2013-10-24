@@ -1,5 +1,4 @@
-Leucoagaricus fuligineus Pegler SPECIES
-=======
+# Leucoagaricus fuligineus Pegler SPECIES
 
 #### Status
 ACCEPTED

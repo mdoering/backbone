@@ -1,5 +1,4 @@
-Cryptocline andina Petr. SPECIES
-=======
+# Cryptocline andina Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porinula tanzanica Vezda SPECIES
-=======
+# Porinula tanzanica Vezda SPECIES
 
 #### Status
 ACCEPTED

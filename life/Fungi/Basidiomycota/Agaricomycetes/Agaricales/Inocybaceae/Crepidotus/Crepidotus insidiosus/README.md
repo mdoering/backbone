@@ -1,5 +1,4 @@
-Crepidotus insidiosus Berk. SPECIES
-=======
+# Crepidotus insidiosus Berk. SPECIES
 
 #### Status
 ACCEPTED

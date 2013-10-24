@@ -1,5 +1,4 @@
-Thyrea arenae A. Massal. SPECIES
-=======
+# Thyrea arenae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon brunneiniger A.H. Sm. SPECIES
-=======
+# Rhizopogon brunneiniger A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

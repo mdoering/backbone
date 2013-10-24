@@ -1,5 +1,4 @@
-Chaetoceros komarovii Woronichin SPECIES
-=======
+# Chaetoceros komarovii Woronichin SPECIES
 
 #### Status
 ACCEPTED

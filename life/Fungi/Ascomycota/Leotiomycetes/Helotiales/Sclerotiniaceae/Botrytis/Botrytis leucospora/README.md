@@ -1,5 +1,4 @@
-Botrytis leucospora Link SPECIES
-=======
+# Botrytis leucospora Link SPECIES
 
 #### Status
 ACCEPTED

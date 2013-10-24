@@ -1,8 +1,7 @@
-Letharia pirioni B. de Lesd. SPECIES
-=======
+# Letharia pirionii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Letharia pirioni B. de Lesd.
+Letharia pirionii B. de Lesd.
 
 ### Remarks
 null

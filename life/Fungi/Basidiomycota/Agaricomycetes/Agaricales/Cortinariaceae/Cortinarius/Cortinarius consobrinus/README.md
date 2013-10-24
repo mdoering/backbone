@@ -1,5 +1,4 @@
-Cortinarius consobrinus P. Karst. SPECIES
-=======
+# Cortinarius consobrinus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

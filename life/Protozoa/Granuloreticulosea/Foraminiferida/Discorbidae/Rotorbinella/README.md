@@ -1,5 +1,4 @@
-Rotorbinella Bandy, 1944 GENUS
-=======
+# Rotorbinella Bandy, 1944 GENUS
 
 #### Status
 ACCEPTED

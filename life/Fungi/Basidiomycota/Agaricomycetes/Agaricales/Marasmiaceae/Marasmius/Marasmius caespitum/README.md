@@ -1,5 +1,4 @@
-Marasmius caespitum Quél. SPECIES
-=======
+# Marasmius caespitum Quél. SPECIES
 
 #### Status
 ACCEPTED

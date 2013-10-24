@@ -1,5 +1,4 @@
-Parafusulinella Stewart, 1970 GENUS
-=======
+# Parafusulinella Stewart, 1970 GENUS
 
 #### Status
 ACCEPTED

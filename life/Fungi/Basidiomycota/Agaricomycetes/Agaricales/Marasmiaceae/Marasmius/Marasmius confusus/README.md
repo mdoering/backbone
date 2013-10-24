@@ -1,5 +1,4 @@
-Marasmius confusus Berk. & Broome SPECIES
-=======
+# Marasmius confusus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

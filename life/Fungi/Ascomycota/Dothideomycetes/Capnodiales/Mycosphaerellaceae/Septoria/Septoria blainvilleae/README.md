@@ -1,5 +1,4 @@
-Septoria blainvilleae Sukapure & Thirum. SPECIES
-=======
+# Septoria blainvilleae Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

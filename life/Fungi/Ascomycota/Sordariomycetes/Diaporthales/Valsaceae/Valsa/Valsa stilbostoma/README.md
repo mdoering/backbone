@@ -1,5 +1,4 @@
-Valsa stilbostoma Fr. SPECIES
-=======
+# Valsa stilbostoma Fr. SPECIES
 
 #### Status
 ACCEPTED

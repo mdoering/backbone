@@ -1,5 +1,4 @@
-Amandinea brugierae (Vain.) Marbach SPECIES
-=======
+# Amandinea brugierae (Vain.) Marbach SPECIES
 
 #### Status
 ACCEPTED

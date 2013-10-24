@@ -1,14 +1,13 @@
-Puccinia punctata var. coaetanea (Bubák) U. Braun, 1982 VARIETY
-=======
+# Puccinia coaetanea Bubák, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. 93(3-4): 276 (1982)
+Annls mycol. 3: 218 (1905)
 
 #### Original name
 Puccinia coaetanea Bubák, 1905

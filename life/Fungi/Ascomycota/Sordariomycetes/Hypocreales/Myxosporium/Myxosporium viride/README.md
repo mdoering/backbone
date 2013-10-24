@@ -1,5 +1,4 @@
-Myxosporium viride (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Myxosporium viride (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

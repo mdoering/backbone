@@ -1,5 +1,4 @@
-Pappina Haunold, 1990 GENUS
-=======
+# Pappina Haunold, 1990 GENUS
 
 #### Status
 ACCEPTED

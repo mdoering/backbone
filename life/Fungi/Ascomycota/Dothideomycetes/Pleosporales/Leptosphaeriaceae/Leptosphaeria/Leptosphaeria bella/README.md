@@ -1,5 +1,4 @@
-Leptosphaeria bella Pass. SPECIES
-=======
+# Leptosphaeria bella Pass. SPECIES
 
 #### Status
 ACCEPTED

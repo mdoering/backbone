@@ -1,5 +1,4 @@
-Septoidium cassipoureae Petr. & Cif. SPECIES
-=======
+# Septoidium cassipoureae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe megalospora Ellis & Everh., 1890 SPECIES
-=======
+# Diaporthe megalospora Ellis & Everh., 1890 SPECIES
 
 #### Status
 ACCEPTED

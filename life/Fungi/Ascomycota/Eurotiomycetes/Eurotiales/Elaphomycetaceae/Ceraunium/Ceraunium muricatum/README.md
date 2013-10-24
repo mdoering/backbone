@@ -1,5 +1,4 @@
-Ceraunium muricatum Wallr. SPECIES
-=======
+# Ceraunium muricatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

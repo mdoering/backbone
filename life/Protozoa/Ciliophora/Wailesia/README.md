@@ -1,5 +1,4 @@
-Wailesia Kofoid & Campbell, 1939 GENUS
-=======
+# Wailesia Kofoid & Campbell, 1939 GENUS
 
 #### Status
 ACCEPTED

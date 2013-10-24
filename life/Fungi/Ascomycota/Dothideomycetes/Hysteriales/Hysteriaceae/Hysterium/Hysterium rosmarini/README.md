@@ -1,5 +1,4 @@
-Hysterium rosmarini Dias & Sousa da Câmara SPECIES
-=======
+# Hysterium rosmarini Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

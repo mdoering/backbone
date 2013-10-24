@@ -1,5 +1,4 @@
-Hypochnus diffusus Sacc. SPECIES
-=======
+# Hypochnus diffusus Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichogloeaceae FAMILY
-=======
+# Stichogloeaceae FAMILY
 
 #### Status
 ACCEPTED

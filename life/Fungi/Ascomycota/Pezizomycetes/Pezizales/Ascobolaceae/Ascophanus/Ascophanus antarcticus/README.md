@@ -1,5 +1,4 @@
-Ascophanus antarcticus Speg. SPECIES
-=======
+# Ascophanus antarcticus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidites feroniae (Ettingsh.) Mesch. SPECIES
-=======
+# Phacidites feroniae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

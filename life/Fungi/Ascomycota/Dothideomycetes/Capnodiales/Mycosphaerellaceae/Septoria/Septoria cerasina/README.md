@@ -1,5 +1,4 @@
-Septoria cerasina Peck SPECIES
-=======
+# Septoria cerasina Peck SPECIES
 
 #### Status
 ACCEPTED

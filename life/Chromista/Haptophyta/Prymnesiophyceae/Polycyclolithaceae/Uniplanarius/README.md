@@ -1,5 +1,4 @@
-Uniplanarius J.G.Hattner & S.W.Wise Jr., 1980 GENUS
-=======
+# Uniplanarius J.G.Hattner & S.W.Wise Jr., 1980 GENUS
 
 #### Status
 ACCEPTED

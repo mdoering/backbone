@@ -1,5 +1,4 @@
-Crinipellis phyllophila Singer SPECIES
-=======
+# Crinipellis phyllophila Singer SPECIES
 
 #### Status
 ACCEPTED

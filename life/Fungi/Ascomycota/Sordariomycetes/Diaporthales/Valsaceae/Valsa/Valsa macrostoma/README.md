@@ -1,5 +1,4 @@
-Valsa macrostoma Rehm SPECIES
-=======
+# Valsa macrostoma Rehm SPECIES
 
 #### Status
 ACCEPTED

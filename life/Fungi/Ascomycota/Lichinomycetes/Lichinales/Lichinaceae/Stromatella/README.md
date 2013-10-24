@@ -1,5 +1,4 @@
-Stromatella Henssen, 1989 GENUS
-=======
+# Stromatella Henssen, 1989 GENUS
 
 #### Status
 ACCEPTED

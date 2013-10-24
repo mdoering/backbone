@@ -1,5 +1,4 @@
-Massariella seriata Cooke SPECIES
-=======
+# Massariella seriata Cooke SPECIES
 
 #### Status
 ACCEPTED

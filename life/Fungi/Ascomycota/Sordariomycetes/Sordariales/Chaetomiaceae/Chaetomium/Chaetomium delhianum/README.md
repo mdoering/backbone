@@ -1,5 +1,4 @@
-Chaetomium delhianum Mukerji & N. Singh SPECIES
-=======
+# Chaetomium delhianum Mukerji & N. Singh SPECIES
 
 #### Status
 ACCEPTED

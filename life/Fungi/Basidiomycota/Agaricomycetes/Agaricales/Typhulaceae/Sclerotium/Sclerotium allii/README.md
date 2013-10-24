@@ -1,5 +1,4 @@
-Sclerotium allii Rivolta SPECIES
-=======
+# Sclerotium allii Rivolta SPECIES
 
 #### Status
 ACCEPTED

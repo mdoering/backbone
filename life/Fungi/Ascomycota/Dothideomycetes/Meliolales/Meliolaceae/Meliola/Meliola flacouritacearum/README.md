@@ -1,5 +1,4 @@
-Meliola flacouritacearum Hansf. SPECIES
-=======
+# Meliola flacouritacearum Hansf. SPECIES
 
 #### Status
 ACCEPTED

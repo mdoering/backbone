@@ -1,5 +1,4 @@
-Monosporium glaucum Dasz. SPECIES
-=======
+# Monosporium glaucum Dasz. SPECIES
 
 #### Status
 ACCEPTED

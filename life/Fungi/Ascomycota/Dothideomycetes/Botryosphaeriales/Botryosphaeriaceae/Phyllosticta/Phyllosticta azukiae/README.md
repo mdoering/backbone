@@ -1,5 +1,4 @@
-Phyllosticta azukiae Miura SPECIES
-=======
+# Phyllosticta azukiae Miura SPECIES
 
 #### Status
 ACCEPTED

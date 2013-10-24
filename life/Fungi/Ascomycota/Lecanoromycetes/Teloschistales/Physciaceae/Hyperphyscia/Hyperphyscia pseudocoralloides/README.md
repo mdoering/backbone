@@ -1,5 +1,4 @@
-Hyperphyscia pseudocoralloides Scutari SPECIES
-=======
+# Hyperphyscia pseudocoralloides Scutari SPECIES
 
 #### Status
 ACCEPTED

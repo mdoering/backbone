@@ -1,5 +1,4 @@
-Lyophyllum roberti-salvatoris Consiglio SPECIES
-=======
+# Lyophyllum roberti-salvatoris Consiglio SPECIES
 
 #### Status
 ACCEPTED

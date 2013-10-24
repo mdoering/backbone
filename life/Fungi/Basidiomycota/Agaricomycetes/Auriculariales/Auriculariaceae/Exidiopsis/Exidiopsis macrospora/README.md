@@ -1,5 +1,4 @@
-Exidiopsis macrospora (Ellis & Everh.) K. Wells SPECIES
-=======
+# Exidiopsis macrospora (Ellis & Everh.) K. Wells SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium orbiculare (Durieu & Lév.) Donk SPECIES
-=======
+# Septobasidium orbiculare (Durieu & Lév.) Donk SPECIES
 
 #### Status
 ACCEPTED

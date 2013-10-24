@@ -1,5 +1,4 @@
-Meliola araliae Mont. SPECIES
-=======
+# Meliola araliae Mont. SPECIES
 
 #### Status
 ACCEPTED

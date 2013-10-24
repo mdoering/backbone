@@ -1,5 +1,4 @@
-Cystolepiota marthae Singer SPECIES
-=======
+# Cystolepiota marthae Singer SPECIES
 
 #### Status
 ACCEPTED

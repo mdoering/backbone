@@ -1,5 +1,4 @@
-Diplodia albotecta Sacc. SPECIES
-=======
+# Diplodia albotecta Sacc. SPECIES
 
 #### Status
 ACCEPTED

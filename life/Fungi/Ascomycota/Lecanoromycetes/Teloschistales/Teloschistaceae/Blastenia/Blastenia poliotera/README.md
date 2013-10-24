@@ -1,5 +1,4 @@
-Blastenia poliotera (Nyl.) Müll. Arg. SPECIES
-=======
+# Blastenia poliotera (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

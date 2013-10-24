@@ -1,5 +1,4 @@
-Eoterfezia perlucida Jeng & Cain, 1976 SPECIES
-=======
+# Eoterfezia perlucida Jeng & Cain, 1976 SPECIES
 
 #### Status
 ACCEPTED

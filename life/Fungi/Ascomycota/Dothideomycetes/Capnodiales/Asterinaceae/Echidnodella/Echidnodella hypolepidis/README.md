@@ -1,5 +1,4 @@
-Echidnodella hypolepidis Doidge SPECIES
-=======
+# Echidnodella hypolepidis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Septoria fimbristylis Ellis & Galloway SPECIES
-=======
+# Septoria fimbristylidis Ellis & Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria fimbristylis Ellis & Galloway
+Septoria fimbristylidis Ellis & Galloway
 
 ### Remarks
 null

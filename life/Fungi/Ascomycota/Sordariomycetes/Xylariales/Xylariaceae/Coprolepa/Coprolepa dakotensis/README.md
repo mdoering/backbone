@@ -1,5 +1,4 @@
-Coprolepa dakotensis (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Coprolepa dakotensis (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

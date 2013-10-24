@@ -1,5 +1,4 @@
-Agaricus observabilis Britzelm. SPECIES
-=======
+# Agaricus observabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

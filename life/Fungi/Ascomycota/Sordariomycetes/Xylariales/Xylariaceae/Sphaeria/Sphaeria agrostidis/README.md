@@ -1,5 +1,4 @@
-Sphaeria agrostidis Schwein. SPECIES
-=======
+# Sphaeria agrostidis Schwein. SPECIES
 
 #### Status
 ACCEPTED

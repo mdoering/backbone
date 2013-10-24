@@ -1,5 +1,4 @@
-Dothidea smilacicola Cooke & W.R. Gerard SPECIES
-=======
+# Dothidea smilacicola Cooke & W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

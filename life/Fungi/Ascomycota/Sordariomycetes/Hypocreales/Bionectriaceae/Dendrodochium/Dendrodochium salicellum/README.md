@@ -1,5 +1,4 @@
-Dendrodochium salicellum (Sacc.) Höhn. SPECIES
-=======
+# Dendrodochium salicellum (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

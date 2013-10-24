@@ -1,5 +1,4 @@
-Lactarius clitocybiformis Murrill SPECIES
-=======
+# Lactarius clitocybiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

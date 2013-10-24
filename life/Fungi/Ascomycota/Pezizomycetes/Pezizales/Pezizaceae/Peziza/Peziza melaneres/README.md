@@ -1,5 +1,4 @@
-Peziza melaneres Berk. & Broome SPECIES
-=======
+# Peziza melaneres Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

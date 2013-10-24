@@ -1,5 +1,4 @@
-Methylocystaceae FAMILY
-=======
+# Methylocystaceae FAMILY
 
 #### Status
 ACCEPTED

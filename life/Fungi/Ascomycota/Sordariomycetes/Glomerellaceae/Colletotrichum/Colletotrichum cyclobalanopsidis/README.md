@@ -1,17 +1,16 @@
-Colletotrichum cyclobalanopsis Sawada SPECIES
-=======
+# Colletotrichum cyclobalanopsidis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 165 (1959)
 
 #### Original name
-Colletotrichum cyclobalanopsis Sawada
+Colletotrichum cyclobalanopsidis Sawada
 
 ### Remarks
 null

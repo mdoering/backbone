@@ -1,5 +1,4 @@
-Schizochytriodimum Elbrächter, 1988 GENUS
-=======
+# Schizochytriodimum Elbrächter, 1988 GENUS
 
 #### Status
 ACCEPTED

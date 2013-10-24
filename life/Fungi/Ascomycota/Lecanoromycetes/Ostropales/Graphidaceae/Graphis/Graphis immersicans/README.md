@@ -1,5 +1,4 @@
-Graphis immersicans A.W. Archer SPECIES
-=======
+# Graphis immersicans A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

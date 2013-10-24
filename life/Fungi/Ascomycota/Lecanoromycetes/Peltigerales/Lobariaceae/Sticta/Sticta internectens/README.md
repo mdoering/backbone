@@ -1,5 +1,4 @@
-Sticta internectens Nyl. SPECIES
-=======
+# Sticta internectens Nyl. SPECIES
 
 #### Status
 ACCEPTED

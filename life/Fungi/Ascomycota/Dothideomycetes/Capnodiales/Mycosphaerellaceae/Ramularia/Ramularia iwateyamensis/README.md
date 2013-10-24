@@ -1,5 +1,4 @@
-Ramularia iwateyamensis Togashi SPECIES
-=======
+# Ramularia iwateyamensis Togashi SPECIES
 
 #### Status
 ACCEPTED

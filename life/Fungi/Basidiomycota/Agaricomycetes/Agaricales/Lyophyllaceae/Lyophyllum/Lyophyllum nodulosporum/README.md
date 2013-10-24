@@ -1,5 +1,4 @@
-Lyophyllum nodulosporum Singer SPECIES
-=======
+# Lyophyllum nodulosporum Singer SPECIES
 
 #### Status
 ACCEPTED

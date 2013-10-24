@@ -1,5 +1,4 @@
-Ramalina subvittata Nyl. SPECIES
-=======
+# Ramalina subvittata Nyl. SPECIES
 
 #### Status
 ACCEPTED

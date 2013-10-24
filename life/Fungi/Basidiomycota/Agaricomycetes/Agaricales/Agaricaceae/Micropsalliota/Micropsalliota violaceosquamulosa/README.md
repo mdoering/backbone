@@ -1,5 +1,4 @@
-Micropsalliota violaceosquamulosa (R.E.D. Baker & W.T. Dale) Heinem. SPECIES
-=======
+# Micropsalliota violaceosquamulosa (R.E.D. Baker & W.T. Dale) Heinem. SPECIES
 
 #### Status
 ACCEPTED

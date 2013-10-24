@@ -1,5 +1,4 @@
-Helminthosporium bulbigerum Fresen. SPECIES
-=======
+# Helminthosporium bulbigerum Fresen. SPECIES
 
 #### Status
 ACCEPTED

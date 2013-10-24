@@ -1,14 +1,13 @@
-Pseudocyphellaria meyeni (Trevis.) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria meyenii (Trevis.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 21(1): 89 (1989)
 
 #### Original name
 Stictina meyenii Trevis.

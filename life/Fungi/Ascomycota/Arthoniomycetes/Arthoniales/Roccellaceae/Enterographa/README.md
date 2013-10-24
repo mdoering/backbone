@@ -1,17 +1,16 @@
-Chiodectonomyces Cif. & Tomas. GENUS
-=======
+# Enterographa Fée, 1824 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 72 (1953)
+null
 
 #### Original name
-Chiodectonomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

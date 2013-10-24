@@ -1,5 +1,4 @@
-Pluteolus tropicalis Murrill SPECIES
-=======
+# Pluteolus tropicalis Murrill SPECIES
 
 #### Status
 ACCEPTED

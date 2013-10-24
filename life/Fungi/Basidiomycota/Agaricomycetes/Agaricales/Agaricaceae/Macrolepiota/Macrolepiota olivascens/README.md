@@ -1,5 +1,4 @@
-Macrolepiota olivascens f. olivascens Singer & M.M. Moser FORM
-=======
+# Macrolepiota olivascens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Schweiz. Z. Pilzk. 39: 154 (1961)
+in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 130 (1953)
 
 #### Original name
-Macrolepiota olivascens f. olivascens Singer & M.M. Moser
+Macrolepiota olivascens M.M. Moser
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kyphomyces I.I. Tav. GENUS
-=======
+# Kyphomyces I.I. Tav. GENUS
 
 #### Status
 ACCEPTED

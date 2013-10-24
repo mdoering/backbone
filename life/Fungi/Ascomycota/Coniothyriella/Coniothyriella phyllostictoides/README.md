@@ -1,17 +1,16 @@
-Coniothyriella phyllostichoides Speg. SPECIES
-=======
+# Coniothyriella phyllostictoides Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 11: (1889)
 
 #### Original name
-Coniothyriella phyllostichoides Speg.
+Coniothyriella phyllostictoides Speg.
 
 ### Remarks
 null

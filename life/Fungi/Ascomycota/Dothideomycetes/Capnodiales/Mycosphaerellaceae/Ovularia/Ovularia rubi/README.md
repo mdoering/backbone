@@ -1,5 +1,4 @@
-Ovularia rubi Bubák SPECIES
-=======
+# Ovularia rubi Bubák SPECIES
 
 #### Status
 ACCEPTED

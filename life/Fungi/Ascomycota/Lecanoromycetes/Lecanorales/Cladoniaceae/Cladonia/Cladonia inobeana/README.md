@@ -1,5 +1,4 @@
-Cladonia inobeana Asahina SPECIES
-=======
+# Cladonia inobeana Asahina SPECIES
 
 #### Status
 ACCEPTED

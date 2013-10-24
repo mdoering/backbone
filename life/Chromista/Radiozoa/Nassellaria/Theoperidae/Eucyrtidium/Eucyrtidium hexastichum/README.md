@@ -1,5 +1,4 @@
-Eucyrtidium hexastichum Haeckel, 1887 SPECIES
-=======
+# Eucyrtidium hexastichum Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

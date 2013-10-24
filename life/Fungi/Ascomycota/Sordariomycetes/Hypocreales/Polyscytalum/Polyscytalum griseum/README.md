@@ -1,5 +1,4 @@
-Polyscytalum griseum Sacc., 1877 SPECIES
-=======
+# Polyscytalum griseum Sacc., 1877 SPECIES
 
 #### Status
 ACCEPTED

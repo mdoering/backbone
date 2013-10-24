@@ -1,5 +1,4 @@
-Nectria erythrostigma Tul. {?} SPECIES
-=======
+# Nectria erythrostigma Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius parishii Cooke SPECIES
-=======
+# Marasmius parishii Cooke SPECIES
 
 #### Status
 ACCEPTED

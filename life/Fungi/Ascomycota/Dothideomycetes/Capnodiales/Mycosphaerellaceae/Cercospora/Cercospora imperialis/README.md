@@ -1,5 +1,4 @@
-Cercospora imperialis Miura SPECIES
-=======
+# Cercospora imperialis Miura SPECIES
 
 #### Status
 ACCEPTED

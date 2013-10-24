@@ -1,5 +1,4 @@
-Lasiobelonium badium (Rehm) Raitv. SPECIES
-=======
+# Lasiobelonium badium (Rehm) Raitv. SPECIES
 
 #### Status
 ACCEPTED

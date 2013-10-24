@@ -1,5 +1,4 @@
-Russula polycystis Singer SPECIES
-=======
+# Russula polycystis Singer SPECIES
 
 #### Status
 ACCEPTED

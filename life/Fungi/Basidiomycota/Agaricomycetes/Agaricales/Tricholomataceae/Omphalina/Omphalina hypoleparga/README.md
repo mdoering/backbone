@@ -1,5 +1,4 @@
-Omphalina hypoleparga (Singer) Raithelh. SPECIES
-=======
+# Omphalina hypoleparga (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

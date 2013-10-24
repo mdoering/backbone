@@ -1,5 +1,4 @@
-Tubeufia dactylariae H.S. Chang SPECIES
-=======
+# Tubeufia dactylariae H.S. Chang SPECIES
 
 #### Status
 ACCEPTED

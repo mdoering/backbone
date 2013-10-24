@@ -1,5 +1,4 @@
-Diplodinula baccharidis (D. Sacc.) Tassi SPECIES
-=======
+# Diplodinula baccharidis (D. Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

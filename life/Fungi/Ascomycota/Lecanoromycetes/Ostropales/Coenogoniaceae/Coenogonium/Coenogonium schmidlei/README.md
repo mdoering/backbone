@@ -1,5 +1,4 @@
-Coenogonium schmidlei Simmer {?} SPECIES
-=======
+# Coenogonium schmidlei Simmer {?} SPECIES
 
 #### Status
 ACCEPTED

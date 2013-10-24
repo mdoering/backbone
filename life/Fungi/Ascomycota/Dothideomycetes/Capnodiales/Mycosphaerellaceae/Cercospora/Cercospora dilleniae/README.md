@@ -1,5 +1,4 @@
-Cercospora dilleniae Petch SPECIES
-=======
+# Cercospora dilleniae Petch SPECIES
 
 #### Status
 ACCEPTED

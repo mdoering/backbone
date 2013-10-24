@@ -1,5 +1,4 @@
-Ptychocylis amphorella Meunier, ? SPECIES
-=======
+# Ptychocylis amphorella Meunier, ? SPECIES
 
 #### Status
 ACCEPTED

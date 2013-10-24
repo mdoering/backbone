@@ -1,5 +1,4 @@
-Graphis scaphella (Ach.) Spreng. SPECIES
-=======
+# Graphis scaphella (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

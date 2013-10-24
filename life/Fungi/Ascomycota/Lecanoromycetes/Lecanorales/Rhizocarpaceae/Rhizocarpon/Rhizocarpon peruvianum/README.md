@@ -1,5 +1,4 @@
-Rhizocarpon peruvianum B. de Lesd. SPECIES
-=======
+# Rhizocarpon peruvianum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia kauaiensis H. Magn. & Zahlbr. SPECIES
-=======
+# Cladonia kauaiensis H. Magn. & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

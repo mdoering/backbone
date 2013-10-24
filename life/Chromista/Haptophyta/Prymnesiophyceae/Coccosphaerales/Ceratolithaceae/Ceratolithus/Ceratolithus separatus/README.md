@@ -1,5 +1,4 @@
-Ceratolithus separatus Bukry, 1979 SPECIES
-=======
+# Ceratolithus separatus Bukry, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Graphis madeirensis Tav. SPECIES
-=======
+# Anomalographis madeirensis (Tav.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Port. Acta Biol. , (B) 3(3): 323 (1952)
+Herzogia 9(1-2): 49 (1992)
 
 #### Original name
 Graphis madeirensis Tav.

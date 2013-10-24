@@ -1,17 +1,16 @@
-Castagnella G. Arnaud GENUS
-=======
+# Rhagadostoma Körber, 1865 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 30: 357 (1914)
+Parerga lichenol. (Breslau) 472 (1865)
 
 #### Original name
-Castagnella G. Arnaud
+Rhagadostoma Körber, 1865
 
 ### Remarks
 null

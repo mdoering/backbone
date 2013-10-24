@@ -1,5 +1,4 @@
-Diaporthe euryala (Mont.) Sacc. SPECIES
-=======
+# Diaporthe euryala (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

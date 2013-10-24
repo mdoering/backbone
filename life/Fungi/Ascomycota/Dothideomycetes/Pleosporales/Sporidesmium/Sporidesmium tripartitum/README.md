@@ -1,5 +1,4 @@
-Sporidesmium tripartitum R.G. Bagn. SPECIES
-=======
+# Sporidesmium tripartitum R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella acutilamella J. Favre SPECIES
-=======
+# Psathyrella acutilamella J. Favre SPECIES
 
 #### Status
 ACCEPTED

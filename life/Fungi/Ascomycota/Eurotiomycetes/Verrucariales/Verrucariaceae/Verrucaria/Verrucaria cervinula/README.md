@@ -1,5 +1,4 @@
-Verrucaria cervinula Nyl. SPECIES
-=======
+# Verrucaria cervinula Nyl. SPECIES
 
 #### Status
 ACCEPTED

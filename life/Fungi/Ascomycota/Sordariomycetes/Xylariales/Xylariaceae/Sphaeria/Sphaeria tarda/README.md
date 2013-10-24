@@ -1,5 +1,4 @@
-Sphaeria tarda Fuckel SPECIES
-=======
+# Sphaeria tarda Fuckel SPECIES
 
 #### Status
 ACCEPTED

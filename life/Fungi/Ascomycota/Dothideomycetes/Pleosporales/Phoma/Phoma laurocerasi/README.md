@@ -1,5 +1,4 @@
-Phoma laurocerasi Lév. SPECIES
-=======
+# Phoma laurocerasi Lév. SPECIES
 
 #### Status
 ACCEPTED

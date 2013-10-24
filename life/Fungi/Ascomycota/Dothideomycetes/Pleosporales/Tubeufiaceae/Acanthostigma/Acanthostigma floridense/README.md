@@ -1,5 +1,4 @@
-Acanthostigma floridense Hansf. SPECIES
-=======
+# Acanthostigma floridense Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirosoma GENUS
-=======
+# Spirosoma GENUS
 
 #### Status
 ACCEPTED

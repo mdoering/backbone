@@ -1,5 +1,4 @@
-Tilletia sphaerocarpa (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Tilletia sphaerocarpa (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

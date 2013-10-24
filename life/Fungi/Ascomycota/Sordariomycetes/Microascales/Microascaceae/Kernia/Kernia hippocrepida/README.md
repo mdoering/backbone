@@ -1,5 +1,4 @@
-Kernia hippocrepida Malloch & Cain, 1971 SPECIES
-=======
+# Kernia hippocrepida Malloch & Cain, 1971 SPECIES
 
 #### Status
 ACCEPTED

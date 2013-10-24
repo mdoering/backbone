@@ -1,17 +1,16 @@
-Cercospora ferruginea var. ferruginea VARIETY
-=======
+# Passalora ferruginea (Fuckel) U. Braun & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 354 (1870)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 183 (2003)
 
 #### Original name
-Cercospora ferruginea var. ferruginea
+Cercospora ferruginea Fuckel, 1870
 
 ### Remarks
 null

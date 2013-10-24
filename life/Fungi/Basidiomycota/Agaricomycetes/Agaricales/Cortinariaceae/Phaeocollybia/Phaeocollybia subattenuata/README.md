@@ -1,5 +1,4 @@
-Phaeocollybia subattenuata Singer SPECIES
-=======
+# Phaeocollybia subattenuata Singer SPECIES
 
 #### Status
 ACCEPTED

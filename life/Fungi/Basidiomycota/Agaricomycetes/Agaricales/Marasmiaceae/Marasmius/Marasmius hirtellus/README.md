@@ -1,5 +1,4 @@
-Marasmius hirtellus Berk. & Broome SPECIES
-=======
+# Marasmius hirtellus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

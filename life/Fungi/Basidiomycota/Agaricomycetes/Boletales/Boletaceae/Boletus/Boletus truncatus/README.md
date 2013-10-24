@@ -1,5 +1,4 @@
-Boletus truncatus (Singer, Snell & E.A. Dick) Pouzar SPECIES
-=======
+# Boletus truncatus (Singer, Snell & E.A. Dick) Pouzar SPECIES
 
 #### Status
 ACCEPTED

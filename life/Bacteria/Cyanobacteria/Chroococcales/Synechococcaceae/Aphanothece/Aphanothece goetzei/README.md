@@ -1,5 +1,4 @@
-Aphanothece goetzei Schmidle SPECIES
-=======
+# Aphanothece goetzei Schmidle SPECIES
 
 #### Status
 ACCEPTED

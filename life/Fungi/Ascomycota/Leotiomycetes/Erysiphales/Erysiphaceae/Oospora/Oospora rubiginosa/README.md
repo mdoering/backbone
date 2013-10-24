@@ -1,5 +1,4 @@
-Oospora rubiginosa (Rivolta) Sacc. SPECIES
-=======
+# Oospora rubiginosa (Rivolta) Sacc. SPECIES
 
 #### Status
 ACCEPTED

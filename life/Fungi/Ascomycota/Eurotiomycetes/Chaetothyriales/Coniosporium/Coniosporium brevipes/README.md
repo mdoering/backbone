@@ -1,5 +1,4 @@
-Coniosporium brevipes Corda SPECIES
-=======
+# Coniosporium brevipes Corda SPECIES
 
 #### Status
 ACCEPTED

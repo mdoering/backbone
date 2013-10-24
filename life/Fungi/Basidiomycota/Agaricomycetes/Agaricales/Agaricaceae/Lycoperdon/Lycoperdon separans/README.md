@@ -1,5 +1,4 @@
-Lycoperdon separans Peck SPECIES
-=======
+# Lycoperdon separans Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Russula chrysodacryon var. chrysodacryon VARIETY
-=======
+# Russula sardonia Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Pilzk. 2(1): 16 (1923)
+Epicr. syst. mycol. (Upsaliae) 353 (1838)
 
 #### Original name
-Russula chrysodacryon var. chrysodacryon
+Russula sardonia Fr., 1838
 
 ### Remarks
 null

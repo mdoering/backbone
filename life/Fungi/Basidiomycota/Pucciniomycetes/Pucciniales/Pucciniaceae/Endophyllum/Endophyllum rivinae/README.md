@@ -1,5 +1,4 @@
-Endophyllum rivinae (Berk. & M.A. Curtis) Arthur SPECIES
-=======
+# Endophyllum rivinae (Berk. & M.A. Curtis) Arthur SPECIES
 
 #### Status
 ACCEPTED

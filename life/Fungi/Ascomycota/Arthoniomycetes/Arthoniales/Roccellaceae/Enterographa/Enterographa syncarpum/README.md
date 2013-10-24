@@ -1,5 +1,4 @@
-Enterographa syncarpum (Zahlbr.) Asahina SPECIES
-=======
+# Enterographa syncarpum (Zahlbr.) Asahina SPECIES
 
 #### Status
 ACCEPTED

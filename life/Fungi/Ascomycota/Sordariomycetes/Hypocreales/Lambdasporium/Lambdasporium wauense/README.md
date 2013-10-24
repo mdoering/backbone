@@ -1,5 +1,4 @@
-Lambdasporium wauense Matsush., 1971 SPECIES
-=======
+# Lambdasporium wauense Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

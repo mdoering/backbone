@@ -1,5 +1,4 @@
-Pseudocercospora pongamiae-pinnatae Raghu Ram & Mallaiah SPECIES
-=======
+# Pseudocercospora pongamiae-pinnatae Raghu Ram & Mallaiah SPECIES
 
 #### Status
 ACCEPTED

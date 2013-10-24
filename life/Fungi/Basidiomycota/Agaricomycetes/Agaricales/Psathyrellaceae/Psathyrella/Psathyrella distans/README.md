@@ -1,5 +1,4 @@
-Psathyrella distans A.H. Sm. SPECIES
-=======
+# Psathyrella distans A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

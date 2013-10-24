@@ -1,5 +1,4 @@
-Amphidinium purpureum Conrath & Kufferath SPECIES
-=======
+# Amphidinium purpureum Conrath & Kufferath SPECIES
 
 #### Status
 ACCEPTED

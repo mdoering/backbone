@@ -1,5 +1,4 @@
-Tuber lignarium (Harkn.) Gilkey SPECIES
-=======
+# Tuber lignarium (Harkn.) Gilkey SPECIES
 
 #### Status
 ACCEPTED

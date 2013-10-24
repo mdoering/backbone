@@ -1,5 +1,4 @@
-Cystamminoides triloculus Zheng & Fu, 2001 SPECIES
-=======
+# Cystamminoides triloculus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

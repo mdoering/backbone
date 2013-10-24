@@ -1,14 +1,13 @@
-Phaeoisariopsis cercosporioides (M.L. Farr) M.B. Ellis SPECIES
-=======
+# Phaeoisariopsis cercosporoides (M.L. Farr) M.B. Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+More Dematiaceous Hyphomycetes (Kew) 236 (1976)
 
 #### Original name
 Corynespora elaeidicola var. cercosporoides M.L. Farr

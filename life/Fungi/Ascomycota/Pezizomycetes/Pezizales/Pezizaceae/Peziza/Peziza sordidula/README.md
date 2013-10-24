@@ -1,5 +1,4 @@
-Peziza sordidula P. Karst. SPECIES
-=======
+# Peziza sordidula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

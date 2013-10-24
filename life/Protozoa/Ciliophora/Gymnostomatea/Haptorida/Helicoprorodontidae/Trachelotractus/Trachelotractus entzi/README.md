@@ -1,5 +1,4 @@
-Trachelotractus entzi (Kahl, 1927) Foissner, 1997 SPECIES
-=======
+# Trachelotractus entzi (Kahl, 1927) Foissner, 1997 SPECIES
 
 #### Status
 ACCEPTED

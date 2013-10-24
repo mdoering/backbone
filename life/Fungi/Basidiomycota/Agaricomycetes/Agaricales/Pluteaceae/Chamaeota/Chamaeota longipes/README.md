@@ -1,5 +1,4 @@
-Chamaeota longipes Wichanský, 1967 SPECIES
-=======
+# Chamaeota longipes Wichanský, 1967 SPECIES
 
 #### Status
 ACCEPTED

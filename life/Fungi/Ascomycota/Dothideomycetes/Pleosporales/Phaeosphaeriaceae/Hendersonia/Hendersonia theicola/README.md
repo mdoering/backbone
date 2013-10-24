@@ -1,5 +1,4 @@
-Hendersonia theicola Cooke SPECIES
-=======
+# Hendersonia theicola Cooke SPECIES
 
 #### Status
 ACCEPTED

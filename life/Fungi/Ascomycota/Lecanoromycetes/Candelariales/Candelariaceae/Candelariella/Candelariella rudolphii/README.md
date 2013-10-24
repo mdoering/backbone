@@ -1,5 +1,4 @@
-Candelariella rudolphii C.W. Dodge SPECIES
-=======
+# Candelariella rudolphii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

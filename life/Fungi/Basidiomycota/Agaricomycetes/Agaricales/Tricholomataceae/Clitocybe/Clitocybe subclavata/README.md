@@ -1,5 +1,4 @@
-Clitocybe subclavata (Peck) H.E. Bigelow & Hesler SPECIES
-=======
+# Clitocybe subclavata (Peck) H.E. Bigelow & Hesler SPECIES
 
 #### Status
 ACCEPTED

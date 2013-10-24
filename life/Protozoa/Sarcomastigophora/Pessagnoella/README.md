@@ -1,5 +1,4 @@
-Pessagnoella Kozur & Mostler, 1978 GENUS
-=======
+# Pessagnoella Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

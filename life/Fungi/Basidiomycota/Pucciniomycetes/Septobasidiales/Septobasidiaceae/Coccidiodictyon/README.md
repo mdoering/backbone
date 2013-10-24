@@ -1,5 +1,4 @@
-Coccidiodictyon Oberw. GENUS
-=======
+# Coccidiodictyon Oberw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora lavae Darb. SPECIES
-=======
+# Biatora lavae Darb. SPECIES
 
 #### Status
 ACCEPTED

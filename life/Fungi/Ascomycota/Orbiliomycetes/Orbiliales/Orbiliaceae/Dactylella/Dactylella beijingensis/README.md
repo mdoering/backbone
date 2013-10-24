@@ -1,5 +1,4 @@
-Dactylella beijingensis Xing Z. Liu, C.Y. Shen & W.F. Chiu SPECIES
-=======
+# Dactylella beijingensis Xing Z. Liu, C.Y. Shen & W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

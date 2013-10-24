@@ -1,5 +1,4 @@
-Globulina ruborum Velen. SPECIES
-=======
+# Globulina ruborum Velen. SPECIES
 
 #### Status
 ACCEPTED

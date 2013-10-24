@@ -1,5 +1,4 @@
-Pannaria squamulata (Nyl.) Hue SPECIES
-=======
+# Pannaria squamulata (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus tollocanensis Callac & G. Mata SPECIES
-=======
+# Agaricus tollocanensis Callac & G. Mata SPECIES
 
 #### Status
 ACCEPTED

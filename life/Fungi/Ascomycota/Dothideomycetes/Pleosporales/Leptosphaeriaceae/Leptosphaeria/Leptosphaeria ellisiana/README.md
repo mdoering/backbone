@@ -1,5 +1,4 @@
-Leptosphaeria ellisiana Berl. SPECIES
-=======
+# Leptosphaeria ellisiana Berl. SPECIES
 
 #### Status
 ACCEPTED

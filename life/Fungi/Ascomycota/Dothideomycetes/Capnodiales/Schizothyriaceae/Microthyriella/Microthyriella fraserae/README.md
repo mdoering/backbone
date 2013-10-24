@@ -1,17 +1,16 @@
-Microthyriella fraseri Hansf. SPECIES
-=======
+# Microthyriella fraserae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 79(3-4): 112 (1954)
 
 #### Original name
-Microthyriella fraseri Hansf.
+Microthyriella fraserae Hansf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Metadiplodia rosae (Berk. & M.A. Curtis) Zambett. SPECIES
-=======
+# Metadiplodia rosae (Berk. & M.A. Curtis) Zambett. SPECIES
 
 #### Status
 ACCEPTED

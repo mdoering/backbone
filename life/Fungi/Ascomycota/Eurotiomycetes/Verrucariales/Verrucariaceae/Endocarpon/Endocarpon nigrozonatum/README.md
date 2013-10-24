@@ -1,5 +1,4 @@
-Endocarpon nigrozonatum Ajay Singh & Upreti SPECIES
-=======
+# Endocarpon nigrozonatum Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

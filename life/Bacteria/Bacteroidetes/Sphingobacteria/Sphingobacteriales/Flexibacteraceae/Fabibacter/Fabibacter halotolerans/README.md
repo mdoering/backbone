@@ -1,5 +1,4 @@
-Fabibacter halotolerans Lau et al., 2006 SPECIES
-=======
+# Fabibacter halotolerans Lau et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

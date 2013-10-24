@@ -1,5 +1,4 @@
-Pleurotus diabasicus Velen. SPECIES
-=======
+# Pleurotus diabasicus Velen. SPECIES
 
 #### Status
 ACCEPTED

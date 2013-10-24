@@ -1,5 +1,4 @@
-Parmelia capitata Hav. SPECIES
-=======
+# Parmelia capitata Hav. SPECIES
 
 #### Status
 ACCEPTED

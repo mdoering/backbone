@@ -1,5 +1,4 @@
-Usnea laxissima C.W. Dodge SPECIES
-=======
+# Usnea laxissima C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

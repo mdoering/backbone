@@ -1,5 +1,4 @@
-Aecidium dahliae-maxonii Cummins SPECIES
-=======
+# Aecidium dahliae-maxonii Cummins SPECIES
 
 #### Status
 ACCEPTED

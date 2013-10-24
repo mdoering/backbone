@@ -1,5 +1,4 @@
-Cercosporina acalypharum (Tharp) Sacc. SPECIES
-=======
+# Cercosporina acalypharum (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

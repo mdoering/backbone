@@ -1,5 +1,4 @@
-Botryodiplodia piperina (Syd.) Syd. SPECIES
-=======
+# Botryodiplodia piperina (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Umbilicariomyces Cif. & Tomas. GENUS
-=======
+# Lasallia Mérat GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 66 (1953)
+Nouv. Fl. Environs Paris, Edn 2 1: 202 (1821)
 
 #### Original name
-Umbilicariomyces Cif. & Tomas.
+Lasallia Mérat
 
 ### Remarks
 null

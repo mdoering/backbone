@@ -1,5 +1,4 @@
-Polysporidiella Petr. GENUS
-=======
+# Polysporidiella Petr. GENUS
 
 #### Status
 ACCEPTED

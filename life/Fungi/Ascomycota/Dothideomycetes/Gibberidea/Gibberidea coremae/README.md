@@ -1,5 +1,4 @@
-Gibberidea coremae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Gibberidea coremae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

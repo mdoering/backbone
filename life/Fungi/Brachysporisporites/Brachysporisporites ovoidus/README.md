@@ -1,5 +1,4 @@
-Brachysporisporites ovoidus Z.C. Song & Liu Cao SPECIES
-=======
+# Brachysporisporites ovoidus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

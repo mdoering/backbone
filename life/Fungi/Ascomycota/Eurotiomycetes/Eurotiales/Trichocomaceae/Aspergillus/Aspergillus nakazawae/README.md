@@ -1,17 +1,16 @@
-Aspergillus nakazawai Sakag., Iizuka & M. Yamaz. SPECIES
-=======
+# Aspergillus nakazawae Sakag., Iizuka & M. Yamaz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. appl. Mycol. , Japan 4(1): 3 (1950)
 
 #### Original name
-Aspergillus nakazawai Sakag., Iizuka & M. Yamaz.
+Aspergillus nakazawae Sakag., Iizuka & M. Yamaz.
 
 ### Remarks
 null

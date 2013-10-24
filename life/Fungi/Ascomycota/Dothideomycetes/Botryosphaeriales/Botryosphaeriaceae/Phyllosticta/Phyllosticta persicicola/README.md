@@ -1,5 +1,4 @@
-Phyllosticta persicicola Oudem. SPECIES
-=======
+# Phyllosticta persicicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

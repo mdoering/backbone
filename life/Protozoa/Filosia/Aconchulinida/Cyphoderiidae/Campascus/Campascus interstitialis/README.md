@@ -1,5 +1,4 @@
-Campascus interstitialis Golemansky, 1981 SPECIES
-=======
+# Campascus interstitialis Golemansky, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporobolomyces inositophilus Nakase & M. Suzuki, 1987 SPECIES
-=======
+# Sporobolomyces inositophilus Nakase & M. Suzuki, 1987 SPECIES
 
 #### Status
 ACCEPTED

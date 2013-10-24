@@ -1,5 +1,4 @@
-Loxodes magnus subsp. penardi SUBSPECIES
-=======
+# Loxodes magnus Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

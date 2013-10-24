@@ -1,14 +1,13 @@
-Haplohermesinum Hovasse, 1943 GENUS
-=======
+# Ebriopsis Hovasse, 1932 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. Zool. France, 57, 118.
 
 #### Original name
 null

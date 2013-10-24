@@ -1,5 +1,4 @@
-Lycoperdon leprosum Berk. & Ravenel SPECIES
-=======
+# Lycoperdon leprosum Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

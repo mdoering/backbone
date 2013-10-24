@@ -1,5 +1,4 @@
-Belonium andropogonis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Belonium andropogonis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

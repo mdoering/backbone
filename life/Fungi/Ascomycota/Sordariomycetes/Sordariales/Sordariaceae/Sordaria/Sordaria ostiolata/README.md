@@ -1,5 +1,4 @@
-Sordaria ostiolata Ellis & Everh. SPECIES
-=======
+# Sordaria ostiolata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

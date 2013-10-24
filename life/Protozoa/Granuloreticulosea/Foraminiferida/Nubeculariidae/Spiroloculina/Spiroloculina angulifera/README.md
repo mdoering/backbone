@@ -1,5 +1,4 @@
-Spiroloculina angulifera Terquem, 1876 SPECIES
-=======
+# Spiroloculina angulifera Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

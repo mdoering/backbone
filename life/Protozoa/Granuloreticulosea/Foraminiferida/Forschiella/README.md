@@ -1,5 +1,4 @@
-Forschiella Mikhailov, 1935 GENUS
-=======
+# Forschiella Mikhailov, 1935 GENUS
 
 #### Status
 ACCEPTED

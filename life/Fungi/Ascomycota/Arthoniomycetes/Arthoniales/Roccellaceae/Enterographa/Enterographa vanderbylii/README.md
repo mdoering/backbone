@@ -1,8 +1,7 @@
-Enterographa van-der-bylii (Zahlbr.) Redinger SPECIES
-=======
+# Enterographa vanderbylii (Zahlbr.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

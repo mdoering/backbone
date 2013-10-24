@@ -1,5 +1,4 @@
-Puccinia transvaalensis Doidge SPECIES
-=======
+# Puccinia transvaalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

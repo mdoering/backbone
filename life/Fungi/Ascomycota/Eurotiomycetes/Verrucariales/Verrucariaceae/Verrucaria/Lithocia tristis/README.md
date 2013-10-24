@@ -1,5 +1,4 @@
-Lithocia tristis A. Massal. SPECIES
-=======
+# Lithocia tristis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

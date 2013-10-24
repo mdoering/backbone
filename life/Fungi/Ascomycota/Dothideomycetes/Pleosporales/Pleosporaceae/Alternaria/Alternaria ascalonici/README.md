@@ -1,5 +1,4 @@
-Alternaria ascalonici E.G. Simmons & C.F. Hill SPECIES
-=======
+# Alternaria ascalonici E.G. Simmons & C.F. Hill SPECIES
 
 #### Status
 ACCEPTED

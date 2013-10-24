@@ -1,5 +1,4 @@
-Diatrype americana f. americana FORM
-=======
+# Diatrype americana Ellis & Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diatrype americana f. americana
+Diatrype americana Ellis & Berl.
 
 ### Remarks
 null

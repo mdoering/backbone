@@ -1,5 +1,4 @@
-Helotium tenuiculum (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Helotium tenuiculum (P. Karst.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

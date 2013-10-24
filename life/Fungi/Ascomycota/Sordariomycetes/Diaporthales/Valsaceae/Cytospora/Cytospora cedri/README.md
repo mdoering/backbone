@@ -1,5 +1,4 @@
-Cytospora cedri Syd., P. Syd. & E.J. Butler, 1916 SPECIES
-=======
+# Cytospora cedri Syd., P. Syd. & E.J. Butler, 1916 SPECIES
 
 #### Status
 ACCEPTED

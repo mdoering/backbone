@@ -1,5 +1,4 @@
-Rotula quadrangula (Stirt.) Müll. Arg. SPECIES
-=======
+# Rotula quadrangula (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

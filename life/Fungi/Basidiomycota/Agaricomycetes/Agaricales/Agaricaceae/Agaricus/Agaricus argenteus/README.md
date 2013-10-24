@@ -1,5 +1,4 @@
-Agaricus argenteus Braendle SPECIES
-=======
+# Agaricus argenteus Braendle SPECIES
 
 #### Status
 ACCEPTED

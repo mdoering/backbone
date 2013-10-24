@@ -1,5 +1,4 @@
-Galerina pruinatipes A.H. Sm. SPECIES
-=======
+# Galerina pruinatipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

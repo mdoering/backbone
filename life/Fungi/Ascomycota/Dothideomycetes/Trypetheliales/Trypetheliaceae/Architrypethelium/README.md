@@ -1,5 +1,4 @@
-Architrypethelium Aptroot GENUS
-=======
+# Architrypethelium Aptroot GENUS
 
 #### Status
 ACCEPTED

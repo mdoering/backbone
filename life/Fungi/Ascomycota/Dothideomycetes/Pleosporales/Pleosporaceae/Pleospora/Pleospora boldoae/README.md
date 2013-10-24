@@ -1,5 +1,4 @@
-Pleospora boldoae Speg. SPECIES
-=======
+# Pleospora boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma pumila (Moug.) Sacc. SPECIES
-=======
+# Phoma pumila (Moug.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

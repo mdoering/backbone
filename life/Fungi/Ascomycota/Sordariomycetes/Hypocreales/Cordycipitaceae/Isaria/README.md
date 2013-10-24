@@ -1,17 +1,16 @@
-Coremiopsis Sizova & Suprun GENUS
-=======
+# Isaria Persoon in Roemer, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vestn. Moskov. Univ. Ser. biol. 12(2): 55 (1957)
+in Roemer, N. Mag. Bot. , 1, 121.
 
 #### Original name
-Coremiopsis Sizova & Suprun
+Isaria Persoon in Roemer, 1794
 
 ### Remarks
 null

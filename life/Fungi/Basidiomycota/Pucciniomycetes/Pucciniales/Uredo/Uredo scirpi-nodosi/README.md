@@ -1,5 +1,4 @@
-Uredo scirpi-nodosi McAlpine, 1906 SPECIES
-=======
+# Uredo scirpi-nodosi McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

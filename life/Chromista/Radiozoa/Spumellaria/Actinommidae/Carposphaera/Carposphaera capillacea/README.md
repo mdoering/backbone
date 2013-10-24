@@ -1,5 +1,4 @@
-Carposphaera capillacea Haeckel, 1887 SPECIES
-=======
+# Carposphaera capillacea Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

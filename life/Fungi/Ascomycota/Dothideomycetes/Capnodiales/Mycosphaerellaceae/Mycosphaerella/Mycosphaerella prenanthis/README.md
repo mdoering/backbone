@@ -1,5 +1,4 @@
-Mycosphaerella prenanthis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Mycosphaerella prenanthis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

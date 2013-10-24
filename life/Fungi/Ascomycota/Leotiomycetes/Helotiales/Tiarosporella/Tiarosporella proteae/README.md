@@ -1,5 +1,4 @@
-Tiarosporella proteae Crous, M.J. Wingf. & Marincowitz SPECIES
-=======
+# Tiarosporella proteae Crous, M.J. Wingf. & Marincowitz SPECIES
 
 #### Status
 ACCEPTED

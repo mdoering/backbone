@@ -1,5 +1,4 @@
-Misgomyces stomonaxi Thaxt. SPECIES
-=======
+# Misgomyces stomonaxi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina pergracilis Zahlbr. SPECIES
-=======
+# Graphina pergracilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

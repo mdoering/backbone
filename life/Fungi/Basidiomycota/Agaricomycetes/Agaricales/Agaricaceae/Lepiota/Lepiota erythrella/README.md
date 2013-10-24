@@ -1,5 +1,4 @@
-Lepiota erythrella var. erythrella VARIETY
-=======
+# Lepiota erythrella Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 6: 93 (1899)
 
 #### Original name
-Lepiota erythrella var. erythrella
+Lepiota erythrella Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sticholonchidae FAMILY
-=======
+# Sticholonchidae FAMILY
 
 #### Status
 ACCEPTED

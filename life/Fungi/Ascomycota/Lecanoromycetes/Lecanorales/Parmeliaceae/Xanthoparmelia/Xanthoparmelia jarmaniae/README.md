@@ -1,5 +1,4 @@
-Xanthoparmelia jarmaniae Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia jarmaniae Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

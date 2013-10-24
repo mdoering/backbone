@@ -1,5 +1,4 @@
-Gyromitra neuwirthi Velen. SPECIES
-=======
+# Gyromitra neuwirthi Velen. SPECIES
 
 #### Status
 ACCEPTED

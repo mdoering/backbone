@@ -1,5 +1,4 @@
-Leptonia gorteri Weinm. SPECIES
-=======
+# Leptonia gorteri Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharocorys curvigula Gassovsky, 1918 SPECIES
-=======
+# Blepharocorys curvigula Gassovsky, 1918 SPECIES
 
 #### Status
 ACCEPTED

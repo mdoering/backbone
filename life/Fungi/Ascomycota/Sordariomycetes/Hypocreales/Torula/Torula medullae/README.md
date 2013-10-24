@@ -1,5 +1,4 @@
-Torula medullae Schwein. SPECIES
-=======
+# Torula medullae Schwein. SPECIES
 
 #### Status
 ACCEPTED

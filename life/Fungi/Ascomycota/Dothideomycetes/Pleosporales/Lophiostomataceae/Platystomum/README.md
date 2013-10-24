@@ -1,5 +1,4 @@
-Platystomum Trevis., 1877 GENUS
-=======
+# Platystomum Trevis., 1877 GENUS
 
 #### Status
 ACCEPTED

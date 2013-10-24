@@ -1,5 +1,4 @@
-Biscutum planum SPECIES
-=======
+# Biscutum planum SPECIES
 
 #### Status
 ACCEPTED

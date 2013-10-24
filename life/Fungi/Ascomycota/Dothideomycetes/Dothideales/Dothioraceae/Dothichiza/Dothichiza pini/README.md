@@ -1,5 +1,4 @@
-Dothichiza pini Sacc. SPECIES
-=======
+# Dothichiza pini Sacc. SPECIES
 
 #### Status
 ACCEPTED

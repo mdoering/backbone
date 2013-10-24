@@ -1,5 +1,4 @@
-Eriomycopsis englerulae Hansf. SPECIES
-=======
+# Eriomycopsis englerulae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectosticta insignis Petr. & Cif. SPECIES
-=======
+# Ectosticta insignis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

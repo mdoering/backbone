@@ -1,5 +1,4 @@
-Stigmatidium astroideum Link SPECIES
-=======
+# Stigmatidium astroideum Link SPECIES
 
 #### Status
 ACCEPTED

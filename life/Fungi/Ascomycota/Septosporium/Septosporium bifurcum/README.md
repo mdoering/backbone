@@ -1,5 +1,4 @@
-Septosporium bifurcum Fresen. SPECIES
-=======
+# Septosporium bifurcum Fresen. SPECIES
 
 #### Status
 ACCEPTED

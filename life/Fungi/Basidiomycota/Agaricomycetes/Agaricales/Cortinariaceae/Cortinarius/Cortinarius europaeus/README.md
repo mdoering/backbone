@@ -1,5 +1,4 @@
-Cortinarius europaeus (M.M. Moser) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius europaeus (M.M. Moser) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

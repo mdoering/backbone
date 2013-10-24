@@ -1,17 +1,16 @@
-Galerina mycenoides f. mycenoides FORM
-=======
+# Galerina jaapii A.H. Sm. & Singer, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 7: 209 (1935)
+Mycologia 47: 574 (1955)
 
 #### Original name
-Galerina mycenoides f. mycenoides
+Galerina jaapii A.H. Sm. & Singer, 1955
 
 ### Remarks
 null

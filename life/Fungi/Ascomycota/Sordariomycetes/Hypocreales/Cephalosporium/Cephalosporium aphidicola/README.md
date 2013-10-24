@@ -1,5 +1,4 @@
-Cephalosporium aphidicola Petch SPECIES
-=======
+# Cephalosporium aphidicola Petch SPECIES
 
 #### Status
 ACCEPTED

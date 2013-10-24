@@ -1,5 +1,4 @@
-Xanthoparmelia curnowiae Elix SPECIES
-=======
+# Xanthoparmelia curnowiae Elix SPECIES
 
 #### Status
 ACCEPTED

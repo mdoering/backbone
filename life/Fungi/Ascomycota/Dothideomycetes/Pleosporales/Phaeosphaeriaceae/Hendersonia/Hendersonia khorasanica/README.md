@@ -1,5 +1,4 @@
-Hendersonia khorasanica Petr. SPECIES
-=======
+# Hendersonia khorasanica Petr. SPECIES
 
 #### Status
 ACCEPTED

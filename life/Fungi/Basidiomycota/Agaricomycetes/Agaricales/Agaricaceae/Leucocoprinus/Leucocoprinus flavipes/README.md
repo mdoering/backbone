@@ -1,5 +1,4 @@
-Leucocoprinus flavipes Earle SPECIES
-=======
+# Leucocoprinus flavipes Earle SPECIES
 
 #### Status
 ACCEPTED

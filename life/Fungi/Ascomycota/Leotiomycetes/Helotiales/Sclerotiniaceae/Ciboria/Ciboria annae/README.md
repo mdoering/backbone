@@ -1,5 +1,4 @@
-Ciboria annae Velen. SPECIES
-=======
+# Ciboria annae Velen. SPECIES
 
 #### Status
 ACCEPTED

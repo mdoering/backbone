@@ -1,14 +1,13 @@
-Madurella langeroni (Talice) Cif. & Redaelli SPECIES
-=======
+# Madurella langeronii (Talice) Cif. & Redaelli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 3: 197 (1941)
 
 #### Original name
 Rubromadurella langeronii Talice

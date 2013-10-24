@@ -1,5 +1,4 @@
-Thanatephorus brevisporus Pouzar, 2001 SPECIES
-=======
+# Thanatephorus brevisporus Pouzar, 2001 SPECIES
 
 #### Status
 ACCEPTED

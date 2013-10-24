@@ -1,14 +1,13 @@
-Poroconiochaeta discoidea Udagawa & Furuya, 1979 SPECIES
-=======
+# Coniochaeta discoidea (Udagawa & Furuya) Dania García, Stchigel & Guarro, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 20(1): 6 (1979)
+in García, Stchigel, Cano, Calduch, Hawksworth & Guarro, Mycol. Res. 110(11): 1284 (2006)
 
 #### Original name
 Poroconiochaeta discoidea Udagawa & Furuya, 1979

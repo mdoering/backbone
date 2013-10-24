@@ -1,5 +1,4 @@
-Phomatospora botryosphaerioides Speg. SPECIES
-=======
+# Phomatospora botryosphaerioides Speg. SPECIES
 
 #### Status
 ACCEPTED

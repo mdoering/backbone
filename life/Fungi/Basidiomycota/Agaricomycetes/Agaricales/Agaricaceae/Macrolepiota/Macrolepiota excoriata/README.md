@@ -1,17 +1,16 @@
-Leucocoprinus excoriatus subsp. excoriatus SUBSPECIES
-=======
+# Macrolepiota excoriata (Schaeff.) Wasser, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 171 (1900)
+Ukr. bot. Zh. 35(5): 516 (1978)
 
 #### Original name
-Leucocoprinus excoriatus subsp. excoriatus
+Agaricus excoriatus Schaeff., 1774
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria myola A.W. Archer & Elix SPECIES
-=======
+# Pertusaria myola A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

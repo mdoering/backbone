@@ -1,5 +1,4 @@
-Pholiotina procera Singer SPECIES
-=======
+# Pholiotina procera Singer SPECIES
 
 #### Status
 ACCEPTED

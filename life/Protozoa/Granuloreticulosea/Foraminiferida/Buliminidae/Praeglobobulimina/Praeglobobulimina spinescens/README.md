@@ -1,5 +1,4 @@
-Praeglobobulimina spinescens (Brady, 1884) SPECIES
-=======
+# Praeglobobulimina spinescens (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

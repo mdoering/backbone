@@ -1,5 +1,4 @@
-Boletus deformis Schaeff. SPECIES
-=======
+# Boletus deformis Schaeff. SPECIES
 
 #### Status
 ACCEPTED

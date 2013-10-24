@@ -1,5 +1,4 @@
-Pleurotus foliicola Pat. & Lagarde SPECIES
-=======
+# Pleurotus foliicola Pat. & Lagarde SPECIES
 
 #### Status
 ACCEPTED

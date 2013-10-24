@@ -1,5 +1,4 @@
-Erysiphe ligustri (Homma) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe ligustri (Homma) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terpsinoë intermedia Pantocsek SPECIES
-=======
+# Terpsinoë intermedia Pantocsek SPECIES
 
 #### Status
 ACCEPTED

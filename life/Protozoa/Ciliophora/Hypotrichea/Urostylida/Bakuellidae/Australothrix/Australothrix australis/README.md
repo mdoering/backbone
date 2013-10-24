@@ -1,5 +1,4 @@
-Australothrix australis Blatterer & Foissner, 1988 SPECIES
-=======
+# Australothrix australis Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

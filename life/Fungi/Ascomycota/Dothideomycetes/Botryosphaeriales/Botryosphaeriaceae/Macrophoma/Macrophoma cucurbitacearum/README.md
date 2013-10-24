@@ -1,5 +1,4 @@
-Macrophoma cucurbitacearum Traverso & Migliardi SPECIES
-=======
+# Macrophoma cucurbitacearum Traverso & Migliardi SPECIES
 
 #### Status
 ACCEPTED

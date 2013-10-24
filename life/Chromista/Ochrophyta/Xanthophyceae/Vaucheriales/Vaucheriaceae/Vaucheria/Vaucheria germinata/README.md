@@ -1,5 +1,4 @@
-Vaucheria germinata (Vaucher) de Candolle in Lamarck & de Candolle SPECIES
-=======
+# Vaucheria germinata (Vaucher) de Candolle in Lamarck & de Candolle SPECIES
 
 #### Status
 ACCEPTED

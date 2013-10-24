@@ -1,5 +1,4 @@
-Leiosphaeridia incrassatula Jankauskas, 1980 SPECIES
-=======
+# Leiosphaeridia incrassatula Jankauskas, 1980 SPECIES
 
 #### Status
 ACCEPTED

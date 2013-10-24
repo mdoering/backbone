@@ -1,5 +1,4 @@
-Asterina anomala Cooke & Harkn. SPECIES
-=======
+# Asterina anomala Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

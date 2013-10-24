@@ -1,5 +1,4 @@
-Arcyria fusca Fr. SPECIES
-=======
+# Arcyria fusca Fr. SPECIES
 
 #### Status
 ACCEPTED

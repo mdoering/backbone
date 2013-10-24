@@ -1,5 +1,4 @@
-Isariopsis colladoana Syd. SPECIES
-=======
+# Isariopsis colladoana Syd. SPECIES
 
 #### Status
 ACCEPTED

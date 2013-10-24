@@ -1,5 +1,4 @@
-Stenocalyx spirale SPECIES
-=======
+# Stenocalyx spirale SPECIES
 
 #### Status
 DOUBTFUL

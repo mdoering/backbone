@@ -1,5 +1,4 @@
-Pestalotiopsis synsepali Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis synsepali Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

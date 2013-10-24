@@ -1,5 +1,4 @@
-Botryodiplodia phaseolina (Sacc.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia phaseolina (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

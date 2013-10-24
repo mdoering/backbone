@@ -1,5 +1,4 @@
-Humaria pusilla Feltgen SPECIES
-=======
+# Humaria pusilla Feltgen SPECIES
 
 #### Status
 ACCEPTED

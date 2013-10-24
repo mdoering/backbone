@@ -1,5 +1,4 @@
-Puccinia zoegeae-crinitae Speschnew SPECIES
-=======
+# Puccinia zoegeae-crinitae Speschnew SPECIES
 
 #### Status
 ACCEPTED

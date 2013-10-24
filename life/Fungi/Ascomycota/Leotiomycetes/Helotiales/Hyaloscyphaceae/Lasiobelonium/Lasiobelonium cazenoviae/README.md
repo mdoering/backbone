@@ -1,5 +1,4 @@
-Lasiobelonium cazenoviae (Ellis & Everh.) Raitv. SPECIES
-=======
+# Lasiobelonium cazenoviae (Ellis & Everh.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

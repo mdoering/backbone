@@ -1,5 +1,4 @@
-Boletus pustulatus Beeli SPECIES
-=======
+# Boletus pustulatus Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascocodinaea Samuels, Cand. & Magni GENUS
-=======
+# Ascocodinaea Samuels, Cand. & Magni GENUS
 
 #### Status
 ACCEPTED

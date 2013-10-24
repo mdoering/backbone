@@ -1,14 +1,13 @@
-Mariannaea superimpositus (Matsush.) Samuels SPECIES
-=======
+# Mariannaea superimposita (Matsush.) Samuels, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 81(3): 353 (1989)
 
 #### Original name
 Penicillifer superimpositus Matsush., 1975

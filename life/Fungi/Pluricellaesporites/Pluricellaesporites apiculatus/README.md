@@ -1,5 +1,4 @@
-Pluricellaesporites apiculatus Kalgutkar SPECIES
-=======
+# Pluricellaesporites apiculatus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

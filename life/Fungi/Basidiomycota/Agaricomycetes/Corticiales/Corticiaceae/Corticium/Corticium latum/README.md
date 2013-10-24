@@ -1,5 +1,4 @@
-Corticium latum Britzelm. SPECIES
-=======
+# Corticium latum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

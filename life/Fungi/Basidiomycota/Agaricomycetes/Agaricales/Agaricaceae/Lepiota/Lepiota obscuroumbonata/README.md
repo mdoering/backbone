@@ -1,5 +1,4 @@
-Lepiota obscuroumbonata Henn. SPECIES
-=======
+# Lepiota obscuroumbonata Henn. SPECIES
 
 #### Status
 ACCEPTED

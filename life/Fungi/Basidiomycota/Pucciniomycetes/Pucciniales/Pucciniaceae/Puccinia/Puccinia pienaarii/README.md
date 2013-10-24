@@ -1,5 +1,4 @@
-Puccinia pienaarii Pole-Evans SPECIES
-=======
+# Puccinia pienaarii Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

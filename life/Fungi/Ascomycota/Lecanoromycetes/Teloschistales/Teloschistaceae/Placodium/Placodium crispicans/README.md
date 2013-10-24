@@ -1,5 +1,4 @@
-Placodium crispicans Nyl. SPECIES
-=======
+# Placodium crispicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

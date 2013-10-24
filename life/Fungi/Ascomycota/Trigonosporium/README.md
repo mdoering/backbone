@@ -1,5 +1,4 @@
-Trigonosporium Tassi GENUS
-=======
+# Trigonosporium Tassi GENUS
 
 #### Status
 ACCEPTED

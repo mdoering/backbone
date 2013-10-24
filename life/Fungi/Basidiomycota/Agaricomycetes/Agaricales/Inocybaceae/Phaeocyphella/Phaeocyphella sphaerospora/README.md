@@ -1,17 +1,16 @@
-Phaeocyphella phaeospora Speg. SPECIES
-=======
+# Phaeocyphella sphaerospora Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Inst. Rech. Agron. 19(12): 278 (1909)
 
 #### Original name
-Phaeocyphella phaeospora Speg.
+Phaeocyphella sphaerospora Speg.
 
 ### Remarks
 null

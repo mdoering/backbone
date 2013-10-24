@@ -1,8 +1,7 @@
-Hemiaulus delicatulus Lemmermann SPECIES
-=======
+# Hemiaulus hauckii Grunow ex Van Heurck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

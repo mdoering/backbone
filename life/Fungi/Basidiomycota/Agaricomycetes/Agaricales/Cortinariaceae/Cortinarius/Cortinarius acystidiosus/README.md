@@ -1,5 +1,4 @@
-Cortinarius acystidiosus Thiers SPECIES
-=======
+# Cortinarius acystidiosus Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ichnocarpi Tassi SPECIES
-=======
+# Phoma ichnocarpi Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atactolituola Loeblich & Tappan, 1984 GENUS
-=======
+# Atactolituola Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

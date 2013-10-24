@@ -1,5 +1,4 @@
-Bacidia perminutula (Nyl.) H. Olivier SPECIES
-=======
+# Bacidia perminutula (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

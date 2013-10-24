@@ -1,5 +1,4 @@
-Acytostelium Raper GENUS
-=======
+# Acytostelium Raper GENUS
 
 #### Status
 ACCEPTED

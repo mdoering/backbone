@@ -1,5 +1,4 @@
-Sporidesmium perproliferatum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Sporidesmium perproliferatum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

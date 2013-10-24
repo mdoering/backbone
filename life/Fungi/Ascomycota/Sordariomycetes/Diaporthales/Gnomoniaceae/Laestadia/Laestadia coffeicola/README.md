@@ -1,5 +1,4 @@
-Laestadia coffeicola Speg. SPECIES
-=======
+# Laestadia coffeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

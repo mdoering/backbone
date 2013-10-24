@@ -1,5 +1,4 @@
-Uromyces pieningii Cummins SPECIES
-=======
+# Uromyces pieningii Cummins SPECIES
 
 #### Status
 ACCEPTED

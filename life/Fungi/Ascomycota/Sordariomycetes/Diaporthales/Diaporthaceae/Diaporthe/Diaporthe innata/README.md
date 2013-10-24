@@ -1,5 +1,4 @@
-Diaporthe innata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diaporthe innata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

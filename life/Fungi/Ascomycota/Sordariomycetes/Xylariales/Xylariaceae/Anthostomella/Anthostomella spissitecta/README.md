@@ -1,5 +1,4 @@
-Anthostomella spissitecta Kohlm. & Volkm.-Kohlm., 2002 SPECIES
-=======
+# Anthostomella spissitecta Kohlm. & Volkm.-Kohlm., 2002 SPECIES
 
 #### Status
 ACCEPTED

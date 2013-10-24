@@ -1,5 +1,4 @@
-Penicillium rasile Pitt, 1980 SPECIES
-=======
+# Penicillium rasile Pitt, 1980 SPECIES
 
 #### Status
 DOUBTFUL

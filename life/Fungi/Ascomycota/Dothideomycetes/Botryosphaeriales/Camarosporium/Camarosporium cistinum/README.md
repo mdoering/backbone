@@ -1,5 +1,4 @@
-Camarosporium cistinum Cooke SPECIES
-=======
+# Camarosporium cistinum Cooke SPECIES
 
 #### Status
 ACCEPTED

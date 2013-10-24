@@ -1,5 +1,4 @@
-Stictis schizoxyloides Ellis & Everh. SPECIES
-=======
+# Stictis schizoxyloides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

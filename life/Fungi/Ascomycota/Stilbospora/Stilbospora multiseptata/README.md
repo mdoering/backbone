@@ -1,5 +1,4 @@
-Stilbospora multiseptata Schwein. SPECIES
-=======
+# Stilbospora multiseptata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomonas czosnowskii Kiselev SPECIES
-=======
+# Cryptomonas czosnowskii Kiselev SPECIES
 
 #### Status
 ACCEPTED

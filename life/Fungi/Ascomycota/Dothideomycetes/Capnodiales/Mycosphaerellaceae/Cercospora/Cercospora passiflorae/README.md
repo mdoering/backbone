@@ -1,5 +1,4 @@
-Cercospora passiflorae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora passiflorae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphodontia incrustata Kotir. & Saaren. SPECIES
-=======
+# Hyphodontia incrustata Kotir. & Saaren. SPECIES
 
 #### Status
 ACCEPTED

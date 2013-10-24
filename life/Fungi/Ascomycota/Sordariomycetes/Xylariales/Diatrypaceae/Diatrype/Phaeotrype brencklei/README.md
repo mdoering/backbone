@@ -1,5 +1,4 @@
-Phaeotrype brencklei Sacc. SPECIES
-=======
+# Phaeotrype brencklei Sacc. SPECIES
 
 #### Status
 ACCEPTED

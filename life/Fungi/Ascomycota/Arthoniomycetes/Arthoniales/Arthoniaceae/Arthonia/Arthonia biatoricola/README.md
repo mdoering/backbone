@@ -1,5 +1,4 @@
-Arthonia biatoricola Ihlen & Owe-Larss. SPECIES
-=======
+# Arthonia biatoricola Ihlen & Owe-Larss. SPECIES
 
 #### Status
 ACCEPTED

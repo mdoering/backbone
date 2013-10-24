@@ -1,5 +1,4 @@
-Gavelinopsis basilica (Bandy, 1956) SPECIES
-=======
+# Gavelinopsis basilica (Bandy, 1956) SPECIES
 
 #### Status
 ACCEPTED

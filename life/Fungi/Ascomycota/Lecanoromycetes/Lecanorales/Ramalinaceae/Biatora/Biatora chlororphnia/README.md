@@ -1,5 +1,4 @@
-Biatora chlororphnia (Tuck.) Tuck. SPECIES
-=======
+# Biatora chlororphnia (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

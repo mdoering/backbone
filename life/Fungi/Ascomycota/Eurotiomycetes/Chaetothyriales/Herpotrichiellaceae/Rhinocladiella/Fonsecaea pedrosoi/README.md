@@ -1,11 +1,10 @@
-Trichosporium pedrosoi (Brumpt) Langeron, 1929 SPECIES
-=======
+# Fonsecaea pedrosoi (Brumpt) Negroni, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

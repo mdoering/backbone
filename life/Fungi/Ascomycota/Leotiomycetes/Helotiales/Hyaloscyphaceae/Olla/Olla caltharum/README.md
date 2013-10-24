@@ -1,5 +1,4 @@
-Olla caltharum Velen. SPECIES
-=======
+# Olla caltharum Velen. SPECIES
 
 #### Status
 ACCEPTED

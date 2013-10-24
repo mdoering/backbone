@@ -1,5 +1,4 @@
-Graphina obtecta var. obtecta VARIETY
-=======
+# Graphina obtecta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina obtecta var. obtecta
+Graphis obtecta Nyl.
 
 ### Remarks
 null

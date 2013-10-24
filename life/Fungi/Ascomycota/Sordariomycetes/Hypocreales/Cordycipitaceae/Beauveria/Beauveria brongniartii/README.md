@@ -1,17 +1,16 @@
-Botrytis brongniartii subsp. brongniartii SUBSPECIES
-=======
+# Beauveria brongniartii (Sacc.) Petch, 1926 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 540 (1892)
+Trans. Br. mycol. Soc. 10(4): 249 (1926)
 
 #### Original name
-Botrytis brongniartii subsp. brongniartii
+Botrytis brongniartii Sacc., 1892
 
 ### Remarks
 null

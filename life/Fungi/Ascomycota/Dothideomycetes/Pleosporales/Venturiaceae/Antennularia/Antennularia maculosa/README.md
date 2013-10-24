@@ -1,5 +1,4 @@
-Antennularia maculosa (Ellis) M.E. Barr SPECIES
-=======
+# Antennularia maculosa (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia prominens Earle SPECIES
-=======
+# Guignardia prominens Earle SPECIES
 
 #### Status
 ACCEPTED

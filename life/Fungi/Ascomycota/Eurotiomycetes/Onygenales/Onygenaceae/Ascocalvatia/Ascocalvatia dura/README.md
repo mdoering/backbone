@@ -1,5 +1,4 @@
-Ascocalvatia dura (Zukal) Arx SPECIES
-=======
+# Ascocalvatia dura (Zukal) Arx SPECIES
 
 #### Status
 ACCEPTED

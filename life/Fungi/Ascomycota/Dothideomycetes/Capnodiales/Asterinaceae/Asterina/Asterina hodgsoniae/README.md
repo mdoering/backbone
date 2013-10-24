@@ -1,5 +1,4 @@
-Asterina hodgsoniae B. Song & T.H. Li SPECIES
-=======
+# Asterina hodgsoniae B. Song & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

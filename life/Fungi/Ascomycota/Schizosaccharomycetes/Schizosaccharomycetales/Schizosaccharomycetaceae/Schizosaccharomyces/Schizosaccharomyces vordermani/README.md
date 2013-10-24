@@ -1,5 +1,4 @@
-Schizosaccharomyces vordermani Wehmer SPECIES
-=======
+# Schizosaccharomyces vordermani Wehmer SPECIES
 
 #### Status
 ACCEPTED

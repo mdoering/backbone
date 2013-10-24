@@ -1,5 +1,4 @@
-Hygrophorus undulatus Velen. SPECIES
-=======
+# Hygrophorus undulatus Velen. SPECIES
 
 #### Status
 ACCEPTED

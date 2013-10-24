@@ -1,5 +1,4 @@
-Napicladium asteroma (Fuckel) Allesch. SPECIES
-=======
+# Napicladium asteroma (Fuckel) Allesch. SPECIES
 
 #### Status
 ACCEPTED

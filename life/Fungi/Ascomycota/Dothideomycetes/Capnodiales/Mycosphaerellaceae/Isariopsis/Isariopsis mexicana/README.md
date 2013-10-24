@@ -1,5 +1,4 @@
-Isariopsis mexicana Ellis & Everh. SPECIES
-=======
+# Isariopsis mexicana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

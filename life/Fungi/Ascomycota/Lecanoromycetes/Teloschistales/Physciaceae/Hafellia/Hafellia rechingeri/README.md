@@ -1,14 +1,13 @@
-Buellia rechingeri Zahlbr. SPECIES
-=======
+# Hafellia rechingeri (Zahlbr.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 74: 283 (2000)
 
 #### Original name
 Buellia rechingeri Zahlbr.

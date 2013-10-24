@@ -1,5 +1,4 @@
-Caloplaca olivieri Werner SPECIES
-=======
+# Caloplaca olivieri Werner SPECIES
 
 #### Status
 ACCEPTED

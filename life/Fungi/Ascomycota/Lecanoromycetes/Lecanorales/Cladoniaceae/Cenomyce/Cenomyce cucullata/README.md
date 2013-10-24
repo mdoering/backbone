@@ -1,5 +1,4 @@
-Cenomyce cucullata Delise SPECIES
-=======
+# Cenomyce cucullata Delise SPECIES
 
 #### Status
 ACCEPTED

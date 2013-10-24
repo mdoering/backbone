@@ -1,5 +1,4 @@
-Pilocratera subfloccosa (Hazsl.) Sacc. & Traverso SPECIES
-=======
+# Pilocratera subfloccosa (Hazsl.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

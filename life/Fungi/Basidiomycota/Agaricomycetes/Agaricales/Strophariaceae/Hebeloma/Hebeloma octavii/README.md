@@ -1,5 +1,4 @@
-Hebeloma octavii Velen. SPECIES
-=======
+# Hebeloma octavii Velen. SPECIES
 
 #### Status
 ACCEPTED

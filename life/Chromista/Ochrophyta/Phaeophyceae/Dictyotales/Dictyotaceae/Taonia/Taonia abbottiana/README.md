@@ -1,5 +1,4 @@
-Taonia abbottiana D.S.Littler & M.M.Littler, 2004 SPECIES
-=======
+# Taonia abbottiana D.S.Littler & M.M.Littler, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia myriospora Müll. Arg. SPECIES
-=======
+# Heppia myriospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

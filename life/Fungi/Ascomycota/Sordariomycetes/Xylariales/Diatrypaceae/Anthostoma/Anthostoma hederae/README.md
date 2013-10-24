@@ -1,5 +1,4 @@
-Anthostoma hederae (Fuckel) Sacc. SPECIES
-=======
+# Anthostoma hederae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

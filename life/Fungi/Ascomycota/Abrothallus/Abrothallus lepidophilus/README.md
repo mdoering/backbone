@@ -1,5 +1,4 @@
-Abrothallus lepidophilus Anzi SPECIES
-=======
+# Abrothallus lepidophilus Anzi SPECIES
 
 #### Status
 ACCEPTED

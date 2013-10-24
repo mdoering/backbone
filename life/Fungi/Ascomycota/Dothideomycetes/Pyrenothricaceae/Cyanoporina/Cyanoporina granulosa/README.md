@@ -1,5 +1,4 @@
-Cyanoporina granulosa Groenh., 1951 SPECIES
-=======
+# Cyanoporina granulosa Groenh., 1951 SPECIES
 
 #### Status
 ACCEPTED

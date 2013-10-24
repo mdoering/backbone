@@ -1,5 +1,4 @@
-Rhodomonas duplex D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhodomonas duplex D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

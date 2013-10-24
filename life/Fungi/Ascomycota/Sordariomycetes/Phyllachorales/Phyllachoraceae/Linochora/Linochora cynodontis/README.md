@@ -1,5 +1,4 @@
-Linochora cynodontis (Sacc.) Petr. SPECIES
-=======
+# Linochora cynodontis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

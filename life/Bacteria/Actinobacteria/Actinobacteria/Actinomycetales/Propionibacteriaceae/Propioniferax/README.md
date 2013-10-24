@@ -1,5 +1,4 @@
-Propioniferax Yokota et al., 1994 GENUS
-=======
+# Propioniferax Yokota et al., 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria salax Brusse SPECIES
-=======
+# Pertusaria salax Brusse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphiolithus Aubry in Aubry, Bord & Rodriguez, 2011 GENUS
-=======
+# Gomphiolithus Aubry in Aubry, Bord & Rodriguez, 2011 GENUS
 
 #### Status
 ACCEPTED

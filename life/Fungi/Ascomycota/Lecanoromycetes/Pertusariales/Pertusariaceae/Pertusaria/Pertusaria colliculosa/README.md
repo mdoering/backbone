@@ -1,5 +1,4 @@
-Pertusaria colliculosa var. colliculosa VARIETY
-=======
+# Pertusaria colliculosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria colliculosa var. colliculosa
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholoma lactescens Pat. SPECIES
-=======
+# Tricholoma lactescens Pat. SPECIES
 
 #### Status
 ACCEPTED

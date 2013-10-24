@@ -1,5 +1,4 @@
-Laboea acuminatum SPECIES
-=======
+# Laboea acuminatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus aerius Shivaji et al., 2006 SPECIES
-=======
+# Bacillus aerius Shivaji et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

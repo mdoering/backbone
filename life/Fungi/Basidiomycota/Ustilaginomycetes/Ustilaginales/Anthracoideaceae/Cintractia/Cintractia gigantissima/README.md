@@ -1,5 +1,4 @@
-Cintractia gigantissima Lehtola SPECIES
-=======
+# Cintractia gigantissima Lehtola SPECIES
 
 #### Status
 ACCEPTED

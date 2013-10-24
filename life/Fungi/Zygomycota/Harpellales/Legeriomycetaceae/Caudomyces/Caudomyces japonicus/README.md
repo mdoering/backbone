@@ -1,5 +1,4 @@
-Caudomyces japonicus Lichtw., Kobayasi & Indoh, 1988 SPECIES
-=======
+# Caudomyces japonicus Lichtw., Kobayasi & Indoh, 1988 SPECIES
 
 #### Status
 ACCEPTED

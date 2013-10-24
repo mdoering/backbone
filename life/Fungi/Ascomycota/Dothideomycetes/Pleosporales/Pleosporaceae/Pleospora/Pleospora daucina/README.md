@@ -1,5 +1,4 @@
-Pleospora daucina Sacc. SPECIES
-=======
+# Pleospora daucina Sacc. SPECIES
 
 #### Status
 ACCEPTED

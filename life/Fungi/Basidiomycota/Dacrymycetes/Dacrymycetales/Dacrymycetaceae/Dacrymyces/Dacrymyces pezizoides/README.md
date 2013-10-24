@@ -1,5 +1,4 @@
-Dacrymyces pezizoides Kobayasi SPECIES
-=======
+# Dacrymyces pezizoides Kobayasi SPECIES
 
 #### Status
 ACCEPTED

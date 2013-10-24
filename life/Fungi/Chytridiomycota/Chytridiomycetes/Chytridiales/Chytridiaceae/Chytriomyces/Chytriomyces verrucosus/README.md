@@ -1,5 +1,4 @@
-Chytriomyces verrucosus Karling, 1960 SPECIES
-=======
+# Chytriomyces verrucosus Karling, 1960 SPECIES
 
 #### Status
 ACCEPTED

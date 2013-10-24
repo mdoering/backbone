@@ -1,5 +1,4 @@
-Neozygites cinarae S. Keller, 1997 SPECIES
-=======
+# Neozygites cinarae S. Keller, 1997 SPECIES
 
 #### Status
 ACCEPTED

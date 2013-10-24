@@ -1,5 +1,4 @@
-Eucomonympha Cleveland, 1934 GENUS
-=======
+# Eucomonympha Cleveland, 1934 GENUS
 
 #### Status
 ACCEPTED

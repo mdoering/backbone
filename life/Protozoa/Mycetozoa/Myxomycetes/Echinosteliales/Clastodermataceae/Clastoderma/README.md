@@ -1,17 +1,16 @@
-Orthotrichia Wingate in Saccardo, 1888 GENUS
-=======
+# Clastoderma A. Blytt GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Sylloge Fung. , 7, 400.
+Bot. Ztg. 38: 343 (1880)
 
 #### Original name
-null
+Clastoderma A. Blytt
 
 ### Remarks
 null

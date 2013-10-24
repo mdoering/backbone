@@ -1,5 +1,4 @@
-Peziza scabra O.F. Müll. SPECIES
-=======
+# Peziza scabra O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

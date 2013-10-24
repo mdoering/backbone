@@ -1,5 +1,4 @@
-Mycena citrinolamellata Herp. SPECIES
-=======
+# Mycena citrinolamellata Herp. SPECIES
 
 #### Status
 ACCEPTED

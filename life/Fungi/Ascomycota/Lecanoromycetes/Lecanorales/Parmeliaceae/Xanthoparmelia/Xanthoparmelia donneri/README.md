@@ -1,5 +1,4 @@
-Xanthoparmelia donneri Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia donneri Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

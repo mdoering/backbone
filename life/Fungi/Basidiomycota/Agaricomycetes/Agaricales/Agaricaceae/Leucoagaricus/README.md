@@ -1,17 +1,16 @@
-Schulzeria Bres. & Schulzer GENUS
-=======
+# Leucoagaricus Locq. ex Singer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nouv. Gen. Imenom. 7 (1886)
+Sydowia 2: 35 (1948)
 
 #### Original name
-Schulzeria Bres. & Schulzer
+Leucoagaricus Locq. ex Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psorotichia byssoides (Hepp) Körb. SPECIES
-=======
+# Psorotichia byssoides (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

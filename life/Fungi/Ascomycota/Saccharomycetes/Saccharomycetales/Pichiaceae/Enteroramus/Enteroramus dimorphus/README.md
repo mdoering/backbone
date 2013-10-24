@@ -1,5 +1,4 @@
-Enteroramus dimorphus M.M. White, Lichtw., J.K. Misra & Cafaro, 1999 SPECIES
-=======
+# Enteroramus dimorphus M.M. White, Lichtw., J.K. Misra & Cafaro, 1999 SPECIES
 
 #### Status
 ACCEPTED

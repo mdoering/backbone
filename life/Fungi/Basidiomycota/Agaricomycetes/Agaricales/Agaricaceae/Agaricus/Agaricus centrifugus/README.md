@@ -1,5 +1,4 @@
-Agaricus centrifugus Fr. SPECIES
-=======
+# Agaricus centrifugus Fr. SPECIES
 
 #### Status
 ACCEPTED

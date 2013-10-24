@@ -1,5 +1,4 @@
-Inocybe insinuata Kauffman SPECIES
-=======
+# Inocybe insinuata Kauffman SPECIES
 
 #### Status
 ACCEPTED

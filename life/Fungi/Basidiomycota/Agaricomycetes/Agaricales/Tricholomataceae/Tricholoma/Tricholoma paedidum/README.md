@@ -1,5 +1,4 @@
-Tricholoma paedidum (Fr.) Quél. SPECIES
-=======
+# Tricholoma paedidum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

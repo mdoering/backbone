@@ -1,5 +1,4 @@
-Lachnea fimetaria (Seaver) Wehm. SPECIES
-=======
+# Lachnea fimetaria (Seaver) Wehm. SPECIES
 
 #### Status
 ACCEPTED

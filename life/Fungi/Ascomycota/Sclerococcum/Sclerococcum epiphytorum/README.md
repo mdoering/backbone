@@ -1,5 +1,4 @@
-Sclerococcum epiphytorum Diederich SPECIES
-=======
+# Sclerococcum epiphytorum Diederich SPECIES
 
 #### Status
 ACCEPTED

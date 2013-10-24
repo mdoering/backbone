@@ -1,17 +1,16 @@
-Cercospora rosicola var. rosicola VARIETY
-=======
+# Cercospora rosicola Pass., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cercospora rosicola var. rosicola
+Cercospora rosicola Pass., 1877
 
 ### Remarks
 null

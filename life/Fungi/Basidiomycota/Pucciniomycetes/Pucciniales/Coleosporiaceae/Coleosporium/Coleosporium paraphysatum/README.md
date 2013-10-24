@@ -1,5 +1,4 @@
-Coleosporium paraphysatum Dietel & Holw. SPECIES
-=======
+# Coleosporium paraphysatum Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Minimidochium setosum B. Sutton, 1970 SPECIES
-=======
+# Minimidochium setosum B. Sutton, 1970 SPECIES
 
 #### Status
 ACCEPTED

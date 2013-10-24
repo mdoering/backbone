@@ -1,5 +1,4 @@
-Puccinia imposita Arthur SPECIES
-=======
+# Puccinia imposita Arthur SPECIES
 
 #### Status
 ACCEPTED

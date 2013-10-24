@@ -1,5 +1,4 @@
-Agaricus smaragdina Berk. SPECIES
-=======
+# Agaricus smaragdina Berk. SPECIES
 
 #### Status
 ACCEPTED

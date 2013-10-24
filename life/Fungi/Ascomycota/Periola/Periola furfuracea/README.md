@@ -1,5 +1,4 @@
-Periola furfuracea Fr. SPECIES
-=======
+# Periola furfuracea Fr. SPECIES
 
 #### Status
 ACCEPTED

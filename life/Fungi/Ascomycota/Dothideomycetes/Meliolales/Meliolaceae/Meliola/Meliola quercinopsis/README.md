@@ -1,5 +1,4 @@
-Meliola quercinopsis var. quercinopsis VARIETY
-=======
+# Meliola quercinopsis Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola quercinopsis var. quercinopsis
+Meliola quercinopsis Rehm
 
 ### Remarks
 null

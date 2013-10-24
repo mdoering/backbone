@@ -1,5 +1,4 @@
-Caloplaca pulverulenta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca pulverulenta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

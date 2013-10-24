@@ -1,5 +1,4 @@
-Fomes aegerita (Fr.) Sacc. SPECIES
-=======
+# Fomes aegerita (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

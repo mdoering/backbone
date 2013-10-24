@@ -1,5 +1,4 @@
-Azospirillum lipoferum (Beijerinck, 1925) Tarrand et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Azospirillum lipoferum (Beijerinck, 1925) Tarrand et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

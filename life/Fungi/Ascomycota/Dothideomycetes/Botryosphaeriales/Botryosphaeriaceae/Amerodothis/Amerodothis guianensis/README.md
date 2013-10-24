@@ -1,5 +1,4 @@
-Amerodothis guianensis F. Stevens SPECIES
-=======
+# Amerodothis guianensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

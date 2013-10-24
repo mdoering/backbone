@@ -1,5 +1,4 @@
-Lepiota telosa Kalchbr. & MacOwan SPECIES
-=======
+# Lepiota telosa Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

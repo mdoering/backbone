@@ -1,5 +1,4 @@
-Coniosporium gecevi Bubák SPECIES
-=======
+# Coniosporium gecevi Bubák SPECIES
 
 #### Status
 ACCEPTED

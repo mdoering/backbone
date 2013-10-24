@@ -1,5 +1,4 @@
-Ilytheomyces Thaxt. GENUS
-=======
+# Ilytheomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

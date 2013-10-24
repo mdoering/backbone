@@ -1,5 +1,4 @@
-Phylloporus rufescens Corner SPECIES
-=======
+# Phylloporus rufescens Corner SPECIES
 
 #### Status
 ACCEPTED

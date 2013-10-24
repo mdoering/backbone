@@ -1,8 +1,7 @@
-Streblonema fluviatile A.Porter SPECIES
-=======
+# Porterinema fluviatile (A. Porter) Waern SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

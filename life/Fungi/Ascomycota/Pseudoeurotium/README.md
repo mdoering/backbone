@@ -1,5 +1,4 @@
-Pseudoeurotium GENUS
-=======
+# Pseudoeurotium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Punctaria multifida P.Anand SPECIES
-=======
+# Punctaria multifida P.Anand SPECIES
 
 #### Status
 ACCEPTED

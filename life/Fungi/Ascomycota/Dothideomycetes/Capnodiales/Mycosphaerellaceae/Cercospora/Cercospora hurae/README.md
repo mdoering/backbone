@@ -1,5 +1,4 @@
-Cercospora hurae F. Stevens SPECIES
-=======
+# Cercospora hurae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma lignorum (Wehm.) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma lignorum (Wehm.) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

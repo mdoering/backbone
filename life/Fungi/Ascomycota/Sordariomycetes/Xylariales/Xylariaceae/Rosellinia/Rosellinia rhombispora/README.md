@@ -1,5 +1,4 @@
-Rosellinia rhombispora Sacc. SPECIES
-=======
+# Rosellinia rhombispora Sacc. SPECIES
 
 #### Status
 ACCEPTED

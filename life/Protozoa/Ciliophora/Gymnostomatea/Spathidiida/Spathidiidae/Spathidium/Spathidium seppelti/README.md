@@ -1,5 +1,4 @@
-Spathidium seppelti subsp. etoschense Foissner, Agatha & Berger, 2002 SUBSPECIES
-=======
+# Spathidium seppelti Petz & Foissner SPECIES
 
 #### Status
 ACCEPTED

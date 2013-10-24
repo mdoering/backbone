@@ -1,5 +1,4 @@
-Hymenoscyphus conchellus (Schwein.) Kuntze SPECIES
-=======
+# Hymenoscyphus conchellus (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

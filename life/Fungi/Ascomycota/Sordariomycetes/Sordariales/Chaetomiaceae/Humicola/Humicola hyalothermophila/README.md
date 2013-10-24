@@ -1,5 +1,4 @@
-Humicola hyalothermophila Moub., Mazen & Abdel-Hafez, 1979 SPECIES
-=======
+# Humicola hyalothermophila Moub., Mazen & Abdel-Hafez, 1979 SPECIES
 
 #### Status
 ACCEPTED

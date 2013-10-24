@@ -1,5 +1,4 @@
-Agaricus prasinus Schaeff. SPECIES
-=======
+# Agaricus prasinus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

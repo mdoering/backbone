@@ -1,5 +1,4 @@
-Diacrisia obliqua Npv SPECIES
-=======
+# Diacrisia obliqua Npv SPECIES
 
 #### Status
 ACCEPTED

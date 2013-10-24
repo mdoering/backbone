@@ -1,5 +1,4 @@
-Stilbospora militaris Curr. SPECIES
-=======
+# Stilbospora militaris Curr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytriomyces laevis Karling, 1987 SPECIES
-=======
+# Chytriomyces laevis Karling, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniocephalum Brond. GENUS
-=======
+# Coniocephalum Brond. GENUS
 
 #### Status
 ACCEPTED

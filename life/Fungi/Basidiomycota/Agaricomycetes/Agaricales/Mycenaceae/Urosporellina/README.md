@@ -1,5 +1,4 @@
-Urosporellina GENUS
-=======
+# Urosporellina GENUS
 
 #### Status
 ACCEPTED

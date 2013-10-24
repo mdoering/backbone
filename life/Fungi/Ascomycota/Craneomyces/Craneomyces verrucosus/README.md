@@ -1,5 +1,4 @@
-Craneomyces verrucosus Morgan-Jones, R.C. Sinclair & Eicker, 1987 SPECIES
-=======
+# Craneomyces verrucosus Morgan-Jones, R.C. Sinclair & Eicker, 1987 SPECIES
 
 #### Status
 ACCEPTED

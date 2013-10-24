@@ -1,5 +1,4 @@
-Puccinia insueta G. Winter SPECIES
-=======
+# Puccinia insueta G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora thiloae U. Braun, J.C. David & F.O. Freire SPECIES
-=======
+# Pseudocercospora thiloae U. Braun, J.C. David & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

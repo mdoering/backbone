@@ -1,5 +1,4 @@
-Galera rostrata Velen. SPECIES
-=======
+# Galera rostrata Velen. SPECIES
 
 #### Status
 ACCEPTED

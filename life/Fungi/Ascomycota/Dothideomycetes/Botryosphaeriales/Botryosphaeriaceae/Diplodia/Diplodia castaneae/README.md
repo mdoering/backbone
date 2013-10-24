@@ -1,5 +1,4 @@
-Diplodia castaneae Sacc. SPECIES
-=======
+# Diplodia castaneae Sacc. SPECIES
 
 #### Status
 ACCEPTED

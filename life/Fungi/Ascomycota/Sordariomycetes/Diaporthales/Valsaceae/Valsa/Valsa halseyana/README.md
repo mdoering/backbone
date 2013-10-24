@@ -1,5 +1,4 @@
-Valsa halseyana Cooke SPECIES
-=======
+# Valsa halseyana Cooke SPECIES
 
 #### Status
 ACCEPTED

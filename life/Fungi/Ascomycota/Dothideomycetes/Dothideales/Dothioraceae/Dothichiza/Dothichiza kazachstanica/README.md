@@ -1,5 +1,4 @@
-Dothichiza kazachstanica Schwarzman SPECIES
-=======
+# Dothichiza kazachstanica Schwarzman SPECIES
 
 #### Status
 ACCEPTED

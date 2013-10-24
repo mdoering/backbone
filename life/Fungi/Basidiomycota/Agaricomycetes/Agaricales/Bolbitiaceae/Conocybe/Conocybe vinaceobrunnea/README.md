@@ -1,5 +1,4 @@
-Conocybe vinaceobrunnea Hauskn., 2002 SPECIES
-=======
+# Conocybe vinaceobrunnea Hauskn., 2002 SPECIES
 
 #### Status
 ACCEPTED

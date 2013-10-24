@@ -1,14 +1,13 @@
-Chordaria tomentosa (Hudson) Fries SPECIES
-=======
+# Spongonema tomentosum (Hudson) Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kützing, F. T. (1849). Species Algarum. F. A. Brockhaus: Lipsiae (Leipzig), Germany. VI-922 pp.
 
 #### Original name
 null

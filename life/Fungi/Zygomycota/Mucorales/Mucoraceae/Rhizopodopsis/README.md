@@ -1,5 +1,4 @@
-Rhizopodopsis Boedijn GENUS
-=======
+# Rhizopodopsis Boedijn GENUS
 
 #### Status
 ACCEPTED

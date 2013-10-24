@@ -1,5 +1,4 @@
-Cercospora villebruneae Höhn. SPECIES
-=======
+# Cercospora villebruneae Höhn. SPECIES
 
 #### Status
 ACCEPTED

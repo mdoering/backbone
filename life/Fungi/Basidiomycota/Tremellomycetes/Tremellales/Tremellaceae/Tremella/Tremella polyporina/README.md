@@ -1,5 +1,4 @@
-Tremella polyporina D.A. Reid, 1970 SPECIES
-=======
+# Tremella polyporina D.A. Reid, 1970 SPECIES
 
 #### Status
 ACCEPTED

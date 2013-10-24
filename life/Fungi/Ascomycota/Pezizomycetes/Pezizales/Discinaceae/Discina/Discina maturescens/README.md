@@ -1,5 +1,4 @@
-Discina maturescens SPECIES
-=======
+# Discina maturescens SPECIES
 
 #### Status
 ACCEPTED

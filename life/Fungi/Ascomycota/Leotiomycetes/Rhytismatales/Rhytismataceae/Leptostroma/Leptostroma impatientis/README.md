@@ -1,5 +1,4 @@
-Leptostroma impatientis Kirchn. SPECIES
-=======
+# Leptostroma impatientis Kirchn. SPECIES
 
 #### Status
 ACCEPTED

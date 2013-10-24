@@ -1,5 +1,4 @@
-Lachnella cedrina (Cooke & W.R. Gerard) Sacc. SPECIES
-=======
+# Lachnella cedrina (Cooke & W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

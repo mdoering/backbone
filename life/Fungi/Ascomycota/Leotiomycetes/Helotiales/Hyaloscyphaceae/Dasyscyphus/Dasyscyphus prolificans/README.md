@@ -1,8 +1,7 @@
-Dasyscypha prolificans (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus prolificans (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

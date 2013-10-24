@@ -1,5 +1,4 @@
-Dimeriella oreophila (Speg.) E. Müll. & Arx SPECIES
-=======
+# Dimeriella oreophila (Speg.) E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

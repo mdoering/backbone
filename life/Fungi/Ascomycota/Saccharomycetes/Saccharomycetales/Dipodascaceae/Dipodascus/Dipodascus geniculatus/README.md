@@ -1,5 +1,4 @@
-Dipodascus geniculatus de Hoog, M.T. Sm. & E. Guého, 1986 SPECIES
-=======
+# Dipodascus geniculatus de Hoog, M.T. Sm. & E. Guého, 1986 SPECIES
 
 #### Status
 ACCEPTED

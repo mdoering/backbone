@@ -1,14 +1,13 @@
-Terana lividocoerulea (P. Karst.) Kuntze, 1891 SPECIES
-=======
+# Acanthophysellum lividocoeruleum (P. Karst.) Parmasto, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 377 (1967)
 
 #### Original name
 null

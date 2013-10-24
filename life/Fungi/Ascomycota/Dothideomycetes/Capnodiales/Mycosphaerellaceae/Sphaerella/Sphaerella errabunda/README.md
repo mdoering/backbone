@@ -1,5 +1,4 @@
-Sphaerella errabunda (Roberge ex Desm.) SPECIES
-=======
+# Sphaerella errabunda (Roberge ex Desm.) SPECIES
 
 #### Status
 ACCEPTED

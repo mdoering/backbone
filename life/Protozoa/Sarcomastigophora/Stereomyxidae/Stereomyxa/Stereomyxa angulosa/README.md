@@ -1,5 +1,4 @@
-Stereomyxa angulosa Grell, 1996 SPECIES
-=======
+# Stereomyxa angulosa Grell, 1996 SPECIES
 
 #### Status
 ACCEPTED

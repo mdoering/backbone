@@ -1,5 +1,4 @@
-Arthonia brouardii B. de Lesd. SPECIES
-=======
+# Arthonia brouardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

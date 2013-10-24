@@ -1,5 +1,4 @@
-Microdiplodia macrospora (J. Ott) Allesch. SPECIES
-=======
+# Microdiplodia macrospora (J. Ott) Allesch. SPECIES
 
 #### Status
 ACCEPTED

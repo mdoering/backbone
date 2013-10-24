@@ -1,5 +1,4 @@
-Synura mamillosa Takahashi SPECIES
-=======
+# Synura mamillosa Takahashi SPECIES
 
 #### Status
 ACCEPTED

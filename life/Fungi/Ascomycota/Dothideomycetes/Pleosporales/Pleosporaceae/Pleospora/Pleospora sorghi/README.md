@@ -1,5 +1,4 @@
-Pleospora sorghi Feltgen SPECIES
-=======
+# Pleospora sorghi Feltgen SPECIES
 
 #### Status
 ACCEPTED

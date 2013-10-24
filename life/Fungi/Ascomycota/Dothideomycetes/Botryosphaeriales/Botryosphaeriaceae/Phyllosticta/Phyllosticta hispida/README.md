@@ -1,5 +1,4 @@
-Phyllosticta hispida Ellis & Dearn. SPECIES
-=======
+# Phyllosticta hispida Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

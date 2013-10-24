@@ -1,5 +1,4 @@
-Coccochloris peniocystis (Kützing) F.E. Drouet & W.A. Daily SPECIES
-=======
+# Coccochloris peniocystis (Kützing) F.E. Drouet & W.A. Daily SPECIES
 
 #### Status
 ACCEPTED

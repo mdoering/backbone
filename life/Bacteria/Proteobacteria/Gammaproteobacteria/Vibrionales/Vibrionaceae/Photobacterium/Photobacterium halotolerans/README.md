@@ -1,5 +1,4 @@
-Photobacterium halotolerans Rivas et al., 2006 SPECIES
-=======
+# Photobacterium halotolerans Rivas et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

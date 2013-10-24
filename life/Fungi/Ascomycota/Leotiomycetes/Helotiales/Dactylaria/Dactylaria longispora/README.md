@@ -1,5 +1,4 @@
-Dactylaria longispora Matsush. SPECIES
-=======
+# Dactylaria longispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

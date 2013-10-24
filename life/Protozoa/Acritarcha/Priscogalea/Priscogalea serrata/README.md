@@ -1,5 +1,4 @@
-Priscogalea serrata (Naumova, 1950) Aristova, 1980 SPECIES
-=======
+# Priscogalea serrata (Naumova, 1950) Aristova, 1980 SPECIES
 
 #### Status
 ACCEPTED

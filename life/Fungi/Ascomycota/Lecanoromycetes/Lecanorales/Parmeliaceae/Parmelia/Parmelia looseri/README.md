@@ -1,5 +1,4 @@
-Parmelia looseri Räsänen SPECIES
-=======
+# Parmelia looseri Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyella lazzariana Trimbach SPECIES
-=======
+# Pachyella lazzariana Trimbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps trictenae Olliff SPECIES
-=======
+# Cordyceps trictenae Olliff SPECIES
 
 #### Status
 ACCEPTED

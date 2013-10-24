@@ -1,5 +1,4 @@
-Cyanarcus Pascher, 1914 GENUS
-=======
+# Cyanarcus Pascher, 1914 GENUS
 
 #### Status
 ACCEPTED

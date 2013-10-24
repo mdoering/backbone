@@ -1,5 +1,4 @@
-Puccinia argophylli Teakle SPECIES
-=======
+# Puccinia argophylli Teakle SPECIES
 
 #### Status
 ACCEPTED

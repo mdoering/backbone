@@ -1,5 +1,4 @@
-Boletellus projectellus (Murrill) Singer SPECIES
-=======
+# Boletellus projectellus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

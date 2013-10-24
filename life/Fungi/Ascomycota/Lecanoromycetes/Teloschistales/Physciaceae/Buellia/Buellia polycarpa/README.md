@@ -1,5 +1,4 @@
-Buellia polycarpa Bagl. & Car SPECIES
-=======
+# Buellia polycarpa Bagl. & Car SPECIES
 
 #### Status
 ACCEPTED

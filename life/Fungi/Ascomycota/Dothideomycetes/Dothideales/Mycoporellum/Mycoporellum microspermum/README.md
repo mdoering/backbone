@@ -1,5 +1,4 @@
-Mycoporellum microspermum Müll. Arg., 1895 SPECIES
-=======
+# Mycoporellum microspermum Müll. Arg., 1895 SPECIES
 
 #### Status
 ACCEPTED

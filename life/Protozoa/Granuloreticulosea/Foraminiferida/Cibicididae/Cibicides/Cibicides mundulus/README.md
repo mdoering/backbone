@@ -1,5 +1,4 @@
-Cibicides mundulus SPECIES
-=======
+# Cibicides mundulus SPECIES
 
 #### Status
 ACCEPTED

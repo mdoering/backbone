@@ -1,11 +1,10 @@
-Pasteurella ovata (Eggerth & Gagnon, 1933) Prévot, 1938 SPECIES
-=======
+# Bacteroides ovatus Eggerth and Gagnon, 1933 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

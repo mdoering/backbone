@@ -1,5 +1,4 @@
-Vakrabeeja fusispora Matsush. SPECIES
-=======
+# Vakrabeeja fusispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

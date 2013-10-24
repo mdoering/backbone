@@ -1,5 +1,4 @@
-Hypolyssus boleticola (Schwein.) Kuntze SPECIES
-=======
+# Hypolyssus boleticola (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

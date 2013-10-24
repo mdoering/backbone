@@ -1,5 +1,4 @@
-Mucor truncorum Link SPECIES
-=======
+# Mucor truncorum Link SPECIES
 
 #### Status
 ACCEPTED

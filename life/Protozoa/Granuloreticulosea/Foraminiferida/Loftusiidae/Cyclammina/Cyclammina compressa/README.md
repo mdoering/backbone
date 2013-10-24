@@ -1,5 +1,4 @@
-Cyclammina compressa Cushman SPECIES
-=======
+# Cyclammina compressa Cushman SPECIES
 
 #### Status
 ACCEPTED

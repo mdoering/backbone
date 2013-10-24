@@ -1,8 +1,7 @@
-Koellikerella staurocephali Mingazzini, 1891 SPECIES
-=======
+# Lecudina staurocephali (Mingazzini, 1891) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

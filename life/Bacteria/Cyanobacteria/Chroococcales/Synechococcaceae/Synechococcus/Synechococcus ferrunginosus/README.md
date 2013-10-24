@@ -1,5 +1,4 @@
-Synechococcus ferrunginosus Wawrik SPECIES
-=======
+# Synechococcus ferrunginosus Wawrik SPECIES
 
 #### Status
 ACCEPTED

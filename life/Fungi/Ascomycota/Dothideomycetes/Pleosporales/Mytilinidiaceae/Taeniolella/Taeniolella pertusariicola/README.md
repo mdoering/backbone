@@ -1,5 +1,4 @@
-Taeniolella pertusariicola D. Hawksw. & H. Mayrhofer SPECIES
-=======
+# Taeniolella pertusariicola D. Hawksw. & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

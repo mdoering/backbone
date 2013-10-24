@@ -1,5 +1,4 @@
-Dufourea polaris Rupr. SPECIES
-=======
+# Dufourea polaris Rupr. SPECIES
 
 #### Status
 ACCEPTED

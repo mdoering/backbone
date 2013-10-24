@@ -1,5 +1,4 @@
-Passalora cercidicola (Ellis) U. Braun SPECIES
-=======
+# Passalora cercidicola (Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

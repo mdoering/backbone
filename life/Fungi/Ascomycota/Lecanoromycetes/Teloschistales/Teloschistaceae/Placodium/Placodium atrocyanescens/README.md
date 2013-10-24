@@ -1,5 +1,4 @@
-Placodium atrocyanescens SPECIES
-=======
+# Placodium atrocyanescens SPECIES
 
 #### Status
 ACCEPTED

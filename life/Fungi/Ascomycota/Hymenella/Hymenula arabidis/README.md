@@ -1,5 +1,4 @@
-Hymenula arabidis Henn. SPECIES
-=======
+# Hymenula arabidis Henn. SPECIES
 
 #### Status
 ACCEPTED

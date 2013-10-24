@@ -1,5 +1,4 @@
-Euglena saguinea Ehrenberg SPECIES
-=======
+# Euglena saguinea Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

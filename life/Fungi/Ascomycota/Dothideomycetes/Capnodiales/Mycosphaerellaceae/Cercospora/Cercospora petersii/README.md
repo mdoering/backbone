@@ -1,5 +1,4 @@
-Cercospora petersii (Berk. & M.A. Curtis) G.F. Atk. SPECIES
-=======
+# Cercospora petersii (Berk. & M.A. Curtis) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula olivacea subsp. olivacea SUBSPECIES
-=======
+# Torula olivacea Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Icon. fung. (Prague) 1: 8 (1837)
 
 #### Original name
-Torula olivacea subsp. olivacea
+Torula olivacea Corda
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Melanospora sphaerodermoides var. rubella Pidopl. VARIETY
-=======
+# Melanospora brevirostris (Fuckel) Höhn., 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 123: 94 (1914)
 
 #### Original name
-Melanospora sphaerodermoides var. rubella Pidopl.
+Teichospora brevirostris Fuckel, 1870
 
 ### Remarks
 null

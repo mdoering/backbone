@@ -1,5 +1,4 @@
-Cortinarius galeroides Hongo SPECIES
-=======
+# Cortinarius galeroides Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizosaccharomyces aphidis ulc SPECIES
-=======
+# Schizosaccharomyces aphidis ulc SPECIES
 
 #### Status
 ACCEPTED

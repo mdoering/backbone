@@ -1,5 +1,4 @@
-Graphis longiramea Müll. Arg. SPECIES
-=======
+# Graphis longiramea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

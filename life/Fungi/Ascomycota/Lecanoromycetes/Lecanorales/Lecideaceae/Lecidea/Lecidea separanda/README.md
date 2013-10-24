@@ -1,5 +1,4 @@
-Lecidea separanda J. Steiner SPECIES
-=======
+# Lecidea separanda J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rosellinia ignobilis Ces., 1872 SPECIES
-=======
+# Stilbohypoxylon ignobile (Ces.) L.E. Petrini, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 56(1): 58 (2004)
 
 #### Original name
 Rosellinia ignobilis Ces., 1872

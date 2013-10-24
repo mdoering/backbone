@@ -1,5 +1,4 @@
-Verrucaria bosniaca f. bosniaca FORM
-=======
+# Verrucaria bosniaca Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria bosniaca f. bosniaca
+Verrucaria bosniaca Servít
 
 ### Remarks
 null

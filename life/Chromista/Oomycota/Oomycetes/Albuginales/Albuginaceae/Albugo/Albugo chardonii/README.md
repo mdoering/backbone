@@ -1,5 +1,4 @@
-Albugo chardonii W. Weston, 1930 SPECIES
-=======
+# Albugo chardonii W. Weston, 1930 SPECIES
 
 #### Status
 ACCEPTED

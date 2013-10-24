@@ -1,5 +1,4 @@
-Ramularia pseudoglobosa U. Braun SPECIES
-=======
+# Ramularia pseudoglobosa U. Braun SPECIES
 
 #### Status
 ACCEPTED

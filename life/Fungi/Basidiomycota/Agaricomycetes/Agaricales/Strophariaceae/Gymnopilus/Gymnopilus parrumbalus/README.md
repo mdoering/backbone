@@ -1,5 +1,4 @@
-Gymnopilus parrumbalus Grgur. SPECIES
-=======
+# Gymnopilus parrumbalus Grgur. SPECIES
 
 #### Status
 ACCEPTED

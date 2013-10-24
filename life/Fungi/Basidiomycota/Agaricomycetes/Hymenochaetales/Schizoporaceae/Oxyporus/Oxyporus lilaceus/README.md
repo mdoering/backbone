@@ -1,5 +1,4 @@
-Oxyporus lilaceus Corner, 1987 SPECIES
-=======
+# Oxyporus lilaceus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sethocapsa Haeckel, 1881 GENUS
-=======
+# Sethocapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

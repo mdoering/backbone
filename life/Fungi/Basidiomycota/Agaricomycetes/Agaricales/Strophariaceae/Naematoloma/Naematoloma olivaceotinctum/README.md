@@ -1,14 +1,13 @@
-Nematoloma olivaceotinctum (Kauffman) A.H. Sm. SPECIES
-=======
+# Naematoloma olivaceotinctum (Kauffman) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(5): 488 (1951)
 
 #### Original name
 Psilocybe olivaceotincta Kauffman

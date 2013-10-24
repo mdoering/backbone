@@ -1,5 +1,4 @@
-Scortechiniaceae Huhndorf, A.N. Mill. & F.A. Fernández FAMILY
-=======
+# Scortechiniaceae Huhndorf, A.N. Mill. & F.A. Fernández FAMILY
 
 #### Status
 ACCEPTED

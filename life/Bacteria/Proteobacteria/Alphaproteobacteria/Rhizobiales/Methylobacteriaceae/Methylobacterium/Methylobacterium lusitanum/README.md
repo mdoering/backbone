@@ -1,5 +1,4 @@
-Methylobacterium lusitanum Doronina et al., 2002 SPECIES
-=======
+# Methylobacterium lusitanum Doronina et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leiophloea pelvetiae (G.K. Sutherl.) Kohlm. & E. Kohlm. SPECIES
-=======
+# Pyrenocollema pelvetiae (G. K. Sutherl.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Marine Mycology, the Higher Fungi (London) 376 (1979)
+J. Linn. Soc. , Bot. 96(1): 10 (1988)
 
 #### Original name
 Dothidella pelvetiae G.K. Sutherl.

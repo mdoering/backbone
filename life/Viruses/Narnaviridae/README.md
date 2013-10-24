@@ -1,5 +1,4 @@
-Narnaviridae FAMILY
-=======
+# Narnaviridae FAMILY
 
 #### Status
 ACCEPTED

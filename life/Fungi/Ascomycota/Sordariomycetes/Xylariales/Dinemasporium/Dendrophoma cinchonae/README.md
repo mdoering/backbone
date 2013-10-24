@@ -1,5 +1,4 @@
-Dendrophoma cinchonae Vincens SPECIES
-=======
+# Dendrophoma cinchonae Vincens SPECIES
 
 #### Status
 ACCEPTED

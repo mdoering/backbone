@@ -1,5 +1,4 @@
-Ovularia canaegricola Henn. SPECIES
-=======
+# Ovularia canaegricola Henn. SPECIES
 
 #### Status
 ACCEPTED

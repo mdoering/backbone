@@ -1,5 +1,4 @@
-Bacidia schadeana Erichsen SPECIES
-=======
+# Bacidia schadeana Erichsen SPECIES
 
 #### Status
 ACCEPTED

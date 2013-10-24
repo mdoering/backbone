@@ -1,5 +1,4 @@
-Pleospora episphaeria Teng & Ou SPECIES
-=======
+# Pleospora episphaeria Teng & Ou SPECIES
 
 #### Status
 ACCEPTED

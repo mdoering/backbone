@@ -1,5 +1,4 @@
-Cylindrosporium alni Dearn. & Barthol. SPECIES
-=======
+# Cylindrosporium alni Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe longissima (M.Y. Li) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe longissima (M.Y. Li) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

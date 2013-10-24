@@ -1,5 +1,4 @@
-Discosia pini Heald SPECIES
-=======
+# Discosia pini Heald SPECIES
 
 #### Status
 ACCEPTED

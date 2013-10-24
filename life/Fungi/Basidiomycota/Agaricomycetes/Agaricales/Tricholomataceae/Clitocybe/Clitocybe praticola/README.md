@@ -1,5 +1,4 @@
-Clitocybe praticola Murrill SPECIES
-=======
+# Clitocybe praticola Murrill SPECIES
 
 #### Status
 ACCEPTED

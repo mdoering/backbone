@@ -1,5 +1,4 @@
-Armillaria viscidipes (Peck) Sacc. SPECIES
-=======
+# Armillaria viscidipes (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

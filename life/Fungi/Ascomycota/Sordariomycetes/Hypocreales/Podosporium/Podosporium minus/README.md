@@ -1,5 +1,4 @@
-Podosporium minus Sacc. SPECIES
-=======
+# Podosporium minus Sacc. SPECIES
 
 #### Status
 ACCEPTED

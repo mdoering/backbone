@@ -1,5 +1,4 @@
-Lecanora ochraceorosea Werner SPECIES
-=======
+# Lecanora ochraceorosea Werner SPECIES
 
 #### Status
 ACCEPTED

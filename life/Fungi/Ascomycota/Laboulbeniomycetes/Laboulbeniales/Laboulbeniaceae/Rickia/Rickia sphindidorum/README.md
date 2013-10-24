@@ -1,5 +1,4 @@
-Rickia sphindidorum A. Weir SPECIES
-=======
+# Rickia sphindidorum A. Weir SPECIES
 
 #### Status
 ACCEPTED

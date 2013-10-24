@@ -1,5 +1,4 @@
-Coniothyrium pakistanicum Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Coniothyrium pakistanicum Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

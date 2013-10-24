@@ -1,5 +1,4 @@
-Squamanita citricolor Thoen, 1998 SPECIES
-=======
+# Squamanita citricolor Thoen, 1998 SPECIES
 
 #### Status
 ACCEPTED

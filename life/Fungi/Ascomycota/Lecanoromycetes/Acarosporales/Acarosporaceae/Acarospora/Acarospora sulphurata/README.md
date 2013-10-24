@@ -1,5 +1,4 @@
-Acarospora sulphurata (Arnold) Arnold SPECIES
-=======
+# Acarospora sulphurata (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

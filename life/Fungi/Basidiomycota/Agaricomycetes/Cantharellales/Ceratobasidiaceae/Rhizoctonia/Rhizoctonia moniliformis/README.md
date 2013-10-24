@@ -1,5 +1,4 @@
-Rhizoctonia moniliformis Ellis & Everh. SPECIES
-=======
+# Rhizoctonia moniliformis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

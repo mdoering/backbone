@@ -1,5 +1,4 @@
-Mycena pseudopelianthina Lange {?} SPECIES
-=======
+# Mycena pseudopelianthina Lange {?} SPECIES
 
 #### Status
 ACCEPTED

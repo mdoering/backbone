@@ -1,5 +1,4 @@
-Chithramia elegantissima Nag Raj, 1988 SPECIES
-=======
+# Chithramia elegantissima Nag Raj, 1988 SPECIES
 
 #### Status
 ACCEPTED

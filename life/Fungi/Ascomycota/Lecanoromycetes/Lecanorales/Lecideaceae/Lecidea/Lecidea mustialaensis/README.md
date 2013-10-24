@@ -1,8 +1,7 @@
-Lecidea mustialensis Vain. SPECIES
-=======
+# Lecidea mustialaensis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea mustialensis Vain.
+Lecidea mustialaensis Vain.
 
 ### Remarks
 null

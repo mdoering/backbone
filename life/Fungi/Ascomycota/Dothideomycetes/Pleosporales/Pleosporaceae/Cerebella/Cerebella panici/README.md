@@ -1,5 +1,4 @@
-Cerebella panici Tracy & Earle SPECIES
-=======
+# Cerebella panici Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

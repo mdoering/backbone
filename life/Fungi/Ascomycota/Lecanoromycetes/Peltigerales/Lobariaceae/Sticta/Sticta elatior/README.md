@@ -1,5 +1,4 @@
-Sticta elatior Stirt. SPECIES
-=======
+# Sticta elatior Stirt. SPECIES
 
 #### Status
 ACCEPTED

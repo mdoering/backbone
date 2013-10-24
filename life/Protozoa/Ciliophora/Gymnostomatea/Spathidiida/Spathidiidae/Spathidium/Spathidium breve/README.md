@@ -1,5 +1,4 @@
-Spathidium breve Kahl, 1930 SPECIES
-=======
+# Spathidium breve Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

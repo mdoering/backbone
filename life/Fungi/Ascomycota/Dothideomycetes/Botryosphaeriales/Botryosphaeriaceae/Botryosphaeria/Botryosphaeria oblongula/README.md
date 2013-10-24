@@ -1,5 +1,4 @@
-Botryosphaeria oblongula Sacc. SPECIES
-=======
+# Botryosphaeria oblongula Sacc. SPECIES
 
 #### Status
 ACCEPTED

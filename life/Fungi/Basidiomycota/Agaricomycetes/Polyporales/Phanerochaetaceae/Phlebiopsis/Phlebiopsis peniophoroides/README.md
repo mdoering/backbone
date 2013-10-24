@@ -1,5 +1,4 @@
-Phlebiopsis peniophoroides Gilb. & Adask., 1993 SPECIES
-=======
+# Phlebiopsis peniophoroides Gilb. & Adask., 1993 SPECIES
 
 #### Status
 ACCEPTED

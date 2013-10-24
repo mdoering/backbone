@@ -1,5 +1,4 @@
-Panaeolus pusillus Sacc. SPECIES
-=======
+# Panaeolus pusillus Sacc. SPECIES
 
 #### Status
 ACCEPTED

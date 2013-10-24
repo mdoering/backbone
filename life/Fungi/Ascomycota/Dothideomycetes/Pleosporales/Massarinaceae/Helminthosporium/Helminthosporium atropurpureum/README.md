@@ -1,5 +1,4 @@
-Helminthosporium atropurpureum Berk. & Broome SPECIES
-=======
+# Helminthosporium atropurpureum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

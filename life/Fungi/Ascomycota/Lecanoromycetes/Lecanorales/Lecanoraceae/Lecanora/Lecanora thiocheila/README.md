@@ -1,5 +1,4 @@
-Lecanora thiocheila Stizenb. SPECIES
-=======
+# Lecanora thiocheila Stizenb. SPECIES
 
 #### Status
 ACCEPTED

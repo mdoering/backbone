@@ -1,5 +1,4 @@
-Physalospora minutula Sacc. & Speg. SPECIES
-=======
+# Physalospora minutula Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

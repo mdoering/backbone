@@ -1,5 +1,4 @@
-Psathyrella empyreumatica (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyrella empyreumatica (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

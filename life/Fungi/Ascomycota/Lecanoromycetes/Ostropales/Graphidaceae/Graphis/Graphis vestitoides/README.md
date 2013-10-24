@@ -1,5 +1,4 @@
-Graphis vestitoides (Fink) Staiger SPECIES
-=======
+# Graphis vestitoides (Fink) Staiger SPECIES
 
 #### Status
 ACCEPTED

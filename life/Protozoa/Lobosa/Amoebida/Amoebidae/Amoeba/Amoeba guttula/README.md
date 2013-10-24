@@ -1,5 +1,4 @@
-Amoeba guttula Duj. SPECIES
-=======
+# Amoeba guttula Duj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paragocevia Page, 1987 GENUS
-=======
+# Paragocevia Page, 1987 GENUS
 
 #### Status
 ACCEPTED

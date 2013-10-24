@@ -1,5 +1,4 @@
-Aecidium loranthi Thüm. SPECIES
-=======
+# Aecidium loranthi Thüm. SPECIES
 
 #### Status
 ACCEPTED

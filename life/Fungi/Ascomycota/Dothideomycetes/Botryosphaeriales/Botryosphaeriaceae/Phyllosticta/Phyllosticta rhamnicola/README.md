@@ -1,5 +1,4 @@
-Phyllosticta rhamnicola Desm., 1847 SPECIES
-=======
+# Phyllosticta rhamnicola Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotites minutulus (Heer) Mesch. SPECIES
-=======
+# Sclerotites minutulus (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

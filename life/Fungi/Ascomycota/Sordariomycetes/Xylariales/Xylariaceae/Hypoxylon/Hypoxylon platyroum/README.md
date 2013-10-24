@@ -1,8 +1,7 @@
-Hypoxylon platyrous Berk. SPECIES
-=======
+# Hypoxylon platyroum Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypoxylon platyrous Berk.
+Hypoxylon platyroum Berk.
 
 ### Remarks
 null

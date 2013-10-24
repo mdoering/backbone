@@ -1,5 +1,4 @@
-Dyadosporites schwabii (Elsik) G. Norris SPECIES
-=======
+# Dyadosporites schwabii (Elsik) G. Norris SPECIES
 
 #### Status
 ACCEPTED

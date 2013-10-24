@@ -1,5 +1,4 @@
-Corethropsis epimyces Massee SPECIES
-=======
+# Corethropsis epimyces Massee SPECIES
 
 #### Status
 ACCEPTED

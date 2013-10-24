@@ -1,5 +1,4 @@
-Septoria moricola Pass. SPECIES
-=======
+# Septoria moricola Pass. SPECIES
 
 #### Status
 ACCEPTED

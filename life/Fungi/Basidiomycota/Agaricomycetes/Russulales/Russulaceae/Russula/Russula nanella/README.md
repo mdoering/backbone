@@ -1,5 +1,4 @@
-Russula nanella Singer SPECIES
-=======
+# Russula nanella Singer SPECIES
 
 #### Status
 ACCEPTED

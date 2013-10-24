@@ -1,5 +1,4 @@
-Biatora poetschiana Körb. SPECIES
-=======
+# Biatora poetschiana Körb. SPECIES
 
 #### Status
 ACCEPTED

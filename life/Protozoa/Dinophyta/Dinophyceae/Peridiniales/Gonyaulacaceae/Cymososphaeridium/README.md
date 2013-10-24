@@ -1,5 +1,4 @@
-Cymososphaeridium R.J.Davey, 1982 GENUS
-=======
+# Cymososphaeridium R.J.Davey, 1982 GENUS
 
 #### Status
 ACCEPTED

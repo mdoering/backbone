@@ -1,5 +1,4 @@
-Peziza afzelii Fr. SPECIES
-=======
+# Peziza afzelii Fr. SPECIES
 
 #### Status
 ACCEPTED

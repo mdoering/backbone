@@ -1,5 +1,4 @@
-Marasmiellus gregarius Har. Takah. SPECIES
-=======
+# Marasmiellus gregarius Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

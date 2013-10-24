@@ -1,5 +1,4 @@
-Phyllosticta atriplicicola Speg. SPECIES
-=======
+# Phyllosticta atriplicicola Speg. SPECIES
 
 #### Status
 ACCEPTED

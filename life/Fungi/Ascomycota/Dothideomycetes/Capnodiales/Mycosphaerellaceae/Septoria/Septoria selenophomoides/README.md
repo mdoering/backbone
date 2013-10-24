@@ -1,5 +1,4 @@
-Septoria selenophomoides E.K. Cash & A.M.J. Watson, 1955 SPECIES
-=======
+# Septoria selenophomoides E.K. Cash & A.M.J. Watson, 1955 SPECIES
 
 #### Status
 ACCEPTED

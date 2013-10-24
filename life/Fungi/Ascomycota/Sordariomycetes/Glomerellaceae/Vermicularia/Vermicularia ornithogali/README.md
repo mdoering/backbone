@@ -1,5 +1,4 @@
-Vermicularia ornithogali Verpl. & Claess. SPECIES
-=======
+# Vermicularia ornithogali Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED

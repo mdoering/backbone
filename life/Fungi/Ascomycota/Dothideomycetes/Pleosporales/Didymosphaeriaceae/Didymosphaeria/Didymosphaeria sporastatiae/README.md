@@ -1,5 +1,4 @@
-Didymosphaeria sporastatiae (Anzi) G. Winter SPECIES
-=======
+# Didymosphaeria sporastatiae (Anzi) G. Winter SPECIES
 
 #### Status
 ACCEPTED

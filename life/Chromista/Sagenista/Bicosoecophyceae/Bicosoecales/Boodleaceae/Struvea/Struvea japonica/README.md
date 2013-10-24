@@ -1,5 +1,4 @@
-Struvea japonica Okamura & Segawa, 1936 SPECIES
-=======
+# Struvea japonica Okamura & Segawa, 1936 SPECIES
 
 #### Status
 ACCEPTED

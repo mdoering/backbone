@@ -1,5 +1,4 @@
-Vuilleminia Maire, 1902 GENUS
-=======
+# Vuilleminia Maire, 1902 GENUS
 
 #### Status
 ACCEPTED

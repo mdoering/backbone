@@ -1,14 +1,13 @@
-Earltheeia McCulloch, 1977 GENUS
-=======
+# Conorbella Hofker, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Siboga Exped. Monogr. , 4a, 466.
 
 #### Original name
 null

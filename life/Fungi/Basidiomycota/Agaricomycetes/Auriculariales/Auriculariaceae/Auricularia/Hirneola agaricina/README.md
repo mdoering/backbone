@@ -1,5 +1,4 @@
-Hirneola agaricina (Mont.) Mont. SPECIES
-=======
+# Hirneola agaricina (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

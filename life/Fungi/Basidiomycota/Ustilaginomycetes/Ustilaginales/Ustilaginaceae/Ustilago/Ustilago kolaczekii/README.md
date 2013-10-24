@@ -1,5 +1,4 @@
-Ustilago kolaczekii J.G. Kühn SPECIES
-=======
+# Ustilago kolaczekii J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hiatula caespitosa Berk. & M.A. Curtis SPECIES
-=======
+# Hiatula caespitosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

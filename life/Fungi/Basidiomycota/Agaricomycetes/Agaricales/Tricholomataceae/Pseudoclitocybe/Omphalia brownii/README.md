@@ -1,5 +1,4 @@
-Omphalia brownii (Berk. & Broome) J. Favre SPECIES
-=======
+# Omphalia brownii (Berk. & Broome) J. Favre SPECIES
 
 #### Status
 ACCEPTED

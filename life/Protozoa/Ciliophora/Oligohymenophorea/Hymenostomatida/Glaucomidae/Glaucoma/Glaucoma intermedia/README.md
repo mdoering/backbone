@@ -1,5 +1,4 @@
-Glaucoma intermedia Gajevskaja, 1927 SPECIES
-=======
+# Glaucoma intermedia Gajevskaja, 1927 SPECIES
 
 #### Status
 ACCEPTED

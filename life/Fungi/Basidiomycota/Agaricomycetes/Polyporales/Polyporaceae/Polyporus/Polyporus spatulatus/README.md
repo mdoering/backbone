@@ -1,5 +1,4 @@
-Polyporus spatulatus var. spatulatus VARIETY
-=======
+# Polyporus spatulatus (Jungh.) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 78: 67 (1984)
 
 #### Original name
-Polyporus spatulatus var. spatulatus
+Laschia spatulata Jungh.
 
 ### Remarks
 null

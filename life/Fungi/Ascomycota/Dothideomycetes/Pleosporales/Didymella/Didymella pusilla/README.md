@@ -1,5 +1,4 @@
-Didymella pusilla (Niessl) Sacc. SPECIES
-=======
+# Didymella pusilla (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium naviculare Wallr. SPECIES
-=======
+# Hysterium naviculare Wallr. SPECIES
 
 #### Status
 ACCEPTED

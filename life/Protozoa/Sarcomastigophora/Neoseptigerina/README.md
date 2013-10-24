@@ -1,5 +1,4 @@
-Neoseptigerina Halicz & Reiss, 1979 GENUS
-=======
+# Neoseptigerina Halicz & Reiss, 1979 GENUS
 
 #### Status
 ACCEPTED

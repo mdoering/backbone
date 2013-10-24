@@ -1,5 +1,4 @@
-Hyphodontiella multiseptata Å. Strid, 1975 SPECIES
-=======
+# Hyphodontiella multiseptata Å. Strid, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achomosphaera alcicornu (Eisenack, 1954) Davey & Williams SPECIES
-=======
+# Achomosphaera alcicornu (Eisenack, 1954) Davey & Williams SPECIES
 
 #### Status
 ACCEPTED

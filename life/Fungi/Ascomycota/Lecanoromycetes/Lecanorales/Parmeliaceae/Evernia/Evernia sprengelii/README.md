@@ -1,5 +1,4 @@
-Evernia sprengelii Fr. SPECIES
-=======
+# Evernia sprengelii Fr. SPECIES
 
 #### Status
 ACCEPTED

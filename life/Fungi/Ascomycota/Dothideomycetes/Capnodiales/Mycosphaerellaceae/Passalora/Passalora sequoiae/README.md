@@ -1,17 +1,16 @@
-Cercospora sequoiae var. sequoiae Ellis & Everh. VARIETY
-=======
+# Passalora sequoiae (Ellis & Everh.) Y.L. Guo & W.H. Hsieh, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 3(2): 13 (1887)
+in Guo, Liu & Hsieh, Fl. Fung. Sinicorum (Beijing) 20: 120 (2003)
 
 #### Original name
-Cercospora sequoiae var. sequoiae Ellis & Everh.
+Cercospora sequoiae Ellis & Everh., 1887
 
 ### Remarks
 null

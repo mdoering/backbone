@@ -1,5 +1,4 @@
-Peziza atra Huds. SPECIES
-=======
+# Peziza atra Huds. SPECIES
 
 #### Status
 ACCEPTED

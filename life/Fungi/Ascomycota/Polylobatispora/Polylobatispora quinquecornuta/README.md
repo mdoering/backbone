@@ -1,5 +1,4 @@
-Polylobatispora quinquecornuta Matsush., 1996 SPECIES
-=======
+# Polylobatispora quinquecornuta Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

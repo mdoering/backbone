@@ -1,5 +1,4 @@
-Teleutospora abbreviata (Arthur) Arthur & Bisby SPECIES
-=======
+# Teleutospora abbreviata (Arthur) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

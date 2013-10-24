@@ -1,5 +1,4 @@
-Steccherinum meridiochraceum Saliba & A. David, 1988 SPECIES
-=======
+# Steccherinum meridiochraceum Saliba & A. David, 1988 SPECIES
 
 #### Status
 ACCEPTED

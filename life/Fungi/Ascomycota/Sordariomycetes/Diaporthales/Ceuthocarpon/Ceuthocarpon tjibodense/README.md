@@ -1,5 +1,4 @@
-Ceuthocarpon tjibodense Penz. & Sacc. SPECIES
-=======
+# Ceuthocarpon tjibodense Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

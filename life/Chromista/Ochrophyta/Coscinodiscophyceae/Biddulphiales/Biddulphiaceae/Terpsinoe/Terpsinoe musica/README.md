@@ -1,5 +1,4 @@
-Terpsinoe musica Ehrenb. SPECIES
-=======
+# Terpsinoe musica Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

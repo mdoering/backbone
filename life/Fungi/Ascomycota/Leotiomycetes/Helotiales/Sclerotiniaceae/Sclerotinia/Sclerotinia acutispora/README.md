@@ -1,5 +1,4 @@
-Sclerotinia acutispora E.K. Cash SPECIES
-=======
+# Sclerotinia acutispora E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

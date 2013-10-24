@@ -1,5 +1,4 @@
-Cyclopsiella elliptica Drugg & Loeblich, 1967 SPECIES
-=======
+# Cyclopsiella elliptica Drugg & Loeblich, 1967 SPECIES
 
 #### Status
 ACCEPTED

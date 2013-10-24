@@ -1,5 +1,4 @@
-Tintinnus lusus-undae subsp. lusus-undae SUBSPECIES
-=======
+# Tintinnus lusus-undae Schrank, 1803 SPECIES
 
 #### Status
 ACCEPTED

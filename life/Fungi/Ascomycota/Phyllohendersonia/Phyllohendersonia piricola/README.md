@@ -1,5 +1,4 @@
-Phyllohendersonia piricola (Sacc.) Tassi SPECIES
-=======
+# Phyllohendersonia piricola (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

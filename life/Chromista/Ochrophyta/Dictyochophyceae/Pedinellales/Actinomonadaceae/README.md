@@ -1,5 +1,4 @@
-Actinomonadaceae Kent, 1880 FAMILY
-=======
+# Actinomonadaceae Kent, 1880 FAMILY
 
 #### Status
 ACCEPTED

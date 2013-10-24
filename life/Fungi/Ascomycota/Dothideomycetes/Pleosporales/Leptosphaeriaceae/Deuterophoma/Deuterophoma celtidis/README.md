@@ -1,5 +1,4 @@
-Deuterophoma celtidis Gucevic SPECIES
-=======
+# Deuterophoma celtidis Gucevic SPECIES
 
 #### Status
 ACCEPTED

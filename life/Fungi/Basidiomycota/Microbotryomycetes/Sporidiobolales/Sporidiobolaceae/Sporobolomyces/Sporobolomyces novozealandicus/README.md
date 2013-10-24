@@ -1,17 +1,16 @@
-Sporobolomyces novazealandicus Hamam. & Nakase SPECIES
-=======
+# Sporobolomyces novozealandicus Hamam. & Nakase, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 67(2): 156 (1995)
 
 #### Original name
-Sporobolomyces novazealandicus Hamam. & Nakase
+Sporobolomyces novozealandicus Hamam. & Nakase, 1995
 
 ### Remarks
 null

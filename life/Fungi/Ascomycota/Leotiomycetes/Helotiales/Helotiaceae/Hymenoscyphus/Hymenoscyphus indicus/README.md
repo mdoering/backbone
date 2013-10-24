@@ -1,5 +1,4 @@
-Hymenoscyphus indicus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus indicus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

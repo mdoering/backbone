@@ -1,5 +1,4 @@
-Leptosphaeria pycnostigma (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Leptosphaeria pycnostigma (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

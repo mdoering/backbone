@@ -1,5 +1,4 @@
-Fellhanera minnisinkorum R.C. Harris & Lendemer SPECIES
-=======
+# Fellhanera minnisinkorum R.C. Harris & Lendemer SPECIES
 
 #### Status
 ACCEPTED

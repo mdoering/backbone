@@ -1,5 +1,4 @@
-Gorgonisphaeridium spicatum (Staplin, 1961) emend. Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Gorgonisphaeridium spicatum (Staplin, 1961) emend. Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

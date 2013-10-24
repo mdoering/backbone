@@ -1,17 +1,16 @@
-Elsinoë mattirolianum G. Arnaud & Bitanc. SPECIES
-=======
+# Elsinoë mattiroloanum G. Arnaud & Bitanc., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 41(3): 322 (1949)
 
 #### Original name
-Elsinoë mattirolianum G. Arnaud & Bitanc.
+Elsinoë mattiroloanum G. Arnaud & Bitanc., 1949
 
 ### Remarks
 null

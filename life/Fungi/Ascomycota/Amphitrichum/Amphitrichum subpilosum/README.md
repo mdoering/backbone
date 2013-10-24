@@ -1,5 +1,4 @@
-Amphitrichum subpilosum (Fuckel) Kuntze SPECIES
-=======
+# Amphitrichum subpilosum (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

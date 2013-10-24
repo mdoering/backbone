@@ -1,5 +1,4 @@
-Tintinnus undatus SPECIES
-=======
+# Tintinnus undatus SPECIES
 
 #### Status
 ACCEPTED

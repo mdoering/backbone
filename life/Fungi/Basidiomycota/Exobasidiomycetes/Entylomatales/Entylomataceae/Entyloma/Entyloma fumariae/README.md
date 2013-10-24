@@ -1,5 +1,4 @@
-Entyloma fumariae J. Schröt. SPECIES
-=======
+# Entyloma fumariae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus javanicus Penz. & Sacc. SPECIES
-=======
+# Dasyscyphus javanicus Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptrosphaera radiata S. Sym & M. Kawachi SPECIES
-=======
+# Calyptrosphaera radiata S. Sym & M. Kawachi SPECIES
 
 #### Status
 ACCEPTED

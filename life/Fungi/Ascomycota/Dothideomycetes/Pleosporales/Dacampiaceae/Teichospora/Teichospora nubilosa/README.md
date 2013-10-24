@@ -1,5 +1,4 @@
-Teichospora nubilosa Ellis & Everh. SPECIES
-=======
+# Teichospora nubilosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

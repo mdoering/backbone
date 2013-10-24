@@ -1,5 +1,4 @@
-Crepidotus sulcatus Murrill SPECIES
-=======
+# Crepidotus sulcatus Murrill SPECIES
 
 #### Status
 ACCEPTED

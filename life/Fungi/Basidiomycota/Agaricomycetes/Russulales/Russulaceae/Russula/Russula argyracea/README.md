@@ -1,5 +1,4 @@
-Russula argyracea Cern. & H. Raab SPECIES
-=======
+# Russula argyracea Cern. & H. Raab SPECIES
 
 #### Status
 ACCEPTED

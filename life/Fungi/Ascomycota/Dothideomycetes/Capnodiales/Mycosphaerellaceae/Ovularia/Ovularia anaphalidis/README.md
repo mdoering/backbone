@@ -1,5 +1,4 @@
-Ovularia anaphalidis Golovin SPECIES
-=======
+# Ovularia anaphalidis Golovin SPECIES
 
 #### Status
 ACCEPTED

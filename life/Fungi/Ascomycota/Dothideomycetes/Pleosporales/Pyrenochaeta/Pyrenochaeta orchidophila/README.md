@@ -1,5 +1,4 @@
-Pyrenochaeta orchidophila Speg. SPECIES
-=======
+# Pyrenochaeta orchidophila Speg. SPECIES
 
 #### Status
 ACCEPTED

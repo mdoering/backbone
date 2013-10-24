@@ -1,5 +1,4 @@
-Blitridium andinum Speg. SPECIES
-=======
+# Blitridium andinum Speg. SPECIES
 
 #### Status
 ACCEPTED

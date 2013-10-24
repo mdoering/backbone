@@ -1,5 +1,4 @@
-Ancoropsis N.I.Hendey & P.A.Sims, 1984 GENUS
-=======
+# Ancoropsis N.I.Hendey & P.A.Sims, 1984 GENUS
 
 #### Status
 ACCEPTED

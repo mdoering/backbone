@@ -1,5 +1,4 @@
-Mycena propinqua Maas Geest. & de Meijer SPECIES
-=======
+# Mycena propinqua Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

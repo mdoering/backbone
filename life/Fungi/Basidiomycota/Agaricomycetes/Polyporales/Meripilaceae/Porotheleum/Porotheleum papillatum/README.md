@@ -1,5 +1,4 @@
-Porotheleum papillatum Peck SPECIES
-=======
+# Porotheleum papillatum Peck SPECIES
 
 #### Status
 ACCEPTED

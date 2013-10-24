@@ -1,5 +1,4 @@
-Cortinarius austrosalor M.M. Moser SPECIES
-=======
+# Cortinarius austrosalor M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

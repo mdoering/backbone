@@ -1,14 +1,13 @@
-Sphaeria palmicola Fr., 1815 SPECIES
-=======
+# Coniothyrium palmicola (Fr.) Starbäck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 1: 179 (1815)
+null
 
 #### Original name
 Sphaeria palmicola Fr., 1815

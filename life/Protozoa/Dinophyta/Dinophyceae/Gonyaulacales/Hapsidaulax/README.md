@@ -1,5 +1,4 @@
-Hapsidaulax W.A.S. Sarjeant, 1975 GENUS
-=======
+# Hapsidaulax W.A.S. Sarjeant, 1975 GENUS
 
 #### Status
 ACCEPTED

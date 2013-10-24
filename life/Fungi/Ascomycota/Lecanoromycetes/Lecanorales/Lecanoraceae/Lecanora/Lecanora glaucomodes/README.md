@@ -1,5 +1,4 @@
-Lecanora glaucomodes var. glaucomodes VARIETY
-=======
+# Lecanora glaucomodes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora glaucomodes var. glaucomodes
+null
 
 ### Remarks
 null

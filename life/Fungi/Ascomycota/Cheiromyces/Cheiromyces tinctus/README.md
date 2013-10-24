@@ -1,5 +1,4 @@
-Cheiromyces tinctus Peck SPECIES
-=======
+# Cheiromyces tinctus Peck SPECIES
 
 #### Status
 ACCEPTED

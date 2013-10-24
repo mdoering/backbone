@@ -1,5 +1,4 @@
-Platyophryidae de Puytorac, Perez-Paniagua & Perez-Silva, 1979 FAMILY
-=======
+# Platyophryidae de Puytorac, Perez-Paniagua & Perez-Silva, 1979 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea cinnamomea P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea cinnamomea P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

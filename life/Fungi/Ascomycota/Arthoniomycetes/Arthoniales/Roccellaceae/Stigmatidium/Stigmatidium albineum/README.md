@@ -1,5 +1,4 @@
-Stigmatidium albineum Nyl. SPECIES
-=======
+# Stigmatidium albineum Nyl. SPECIES
 
 #### Status
 ACCEPTED

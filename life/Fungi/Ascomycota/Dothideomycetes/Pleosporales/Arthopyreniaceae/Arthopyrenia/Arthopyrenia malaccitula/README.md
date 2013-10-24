@@ -1,5 +1,4 @@
-Arthopyrenia malaccitula (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia malaccitula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

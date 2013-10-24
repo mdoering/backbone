@@ -1,5 +1,4 @@
-Macrophoma ehretiae Cooke & Massee SPECIES
-=======
+# Macrophoma ehretiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena ixoleuca Singer SPECIES
-=======
+# Mycena ixoleuca Singer SPECIES
 
 #### Status
 ACCEPTED

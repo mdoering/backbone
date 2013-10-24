@@ -1,5 +1,4 @@
-Caloplaca wrightii (Tuck.) Fink SPECIES
-=======
+# Caloplaca wrightii (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

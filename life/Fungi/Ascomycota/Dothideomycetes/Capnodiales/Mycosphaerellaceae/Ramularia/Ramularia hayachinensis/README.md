@@ -1,5 +1,4 @@
-Ramularia hayachinensis (Togashi & Onuma) U. Braun SPECIES
-=======
+# Ramularia hayachinensis (Togashi & Onuma) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina dominicana Vain. SPECIES
-=======
+# Porina dominicana Vain. SPECIES
 
 #### Status
 ACCEPTED

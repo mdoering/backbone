@@ -1,5 +1,4 @@
-Calostilbella calostilbe Höhn., 1919 SPECIES
-=======
+# Calostilbella calostilbe Höhn., 1919 SPECIES
 
 #### Status
 ACCEPTED

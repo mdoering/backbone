@@ -1,5 +1,4 @@
-Laboulbenia dubia Thaxt., 1902 SPECIES
-=======
+# Laboulbenia dubia Thaxt., 1902 SPECIES
 
 #### Status
 ACCEPTED

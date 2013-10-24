@@ -1,5 +1,4 @@
-Lithothelium falklandicum (Nyl.) Aptroot SPECIES
-=======
+# Lithothelium falklandicum (Nyl.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

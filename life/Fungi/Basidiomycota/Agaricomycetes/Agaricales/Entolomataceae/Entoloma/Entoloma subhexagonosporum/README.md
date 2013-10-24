@@ -1,5 +1,4 @@
-Entoloma subhexagonosporum Corner & E. Horak SPECIES
-=======
+# Entoloma subhexagonosporum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

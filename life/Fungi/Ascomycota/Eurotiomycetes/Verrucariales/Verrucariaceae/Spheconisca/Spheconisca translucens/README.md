@@ -1,5 +1,4 @@
-Spheconisca translucens Norman SPECIES
-=======
+# Spheconisca translucens Norman SPECIES
 
 #### Status
 ACCEPTED

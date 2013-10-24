@@ -1,5 +1,4 @@
-Leciographa furfuracea (Anzi) Rehm SPECIES
-=======
+# Leciographa furfuracea (Anzi) Rehm SPECIES
 
 #### Status
 ACCEPTED

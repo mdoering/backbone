@@ -1,5 +1,4 @@
-Heterochaete ogasawarasimensis S. Ito & S. Imai SPECIES
-=======
+# Heterochaete ogasawarasimensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gorgonisphaeridium frequens Górka, 1987 SPECIES
-=======
+# Gorgonisphaeridium frequens Górka, 1987 SPECIES
 
 #### Status
 ACCEPTED

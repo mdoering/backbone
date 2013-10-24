@@ -1,5 +1,4 @@
-Meliola tawaoensis Hansf. SPECIES
-=======
+# Meliola tawaoensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

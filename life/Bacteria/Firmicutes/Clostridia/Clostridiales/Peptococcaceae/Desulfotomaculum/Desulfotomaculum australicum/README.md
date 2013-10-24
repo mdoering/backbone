@@ -1,5 +1,4 @@
-Desulfotomaculum australicum Love et al., 1993 SPECIES
-=======
+# Desulfotomaculum australicum Love et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium crinitum Martin in Dean & Martin, 1978 SPECIES
-=======
+# Baltisphaeridium crinitum Martin in Dean & Martin, 1978 SPECIES
 
 #### Status
 ACCEPTED

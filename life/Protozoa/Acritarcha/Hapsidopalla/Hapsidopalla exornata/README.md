@@ -1,5 +1,4 @@
-Hapsidopalla exornata (Deunff, 1967) emend. Playford, 1977 SPECIES
-=======
+# Hapsidopalla exornata (Deunff, 1967) emend. Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

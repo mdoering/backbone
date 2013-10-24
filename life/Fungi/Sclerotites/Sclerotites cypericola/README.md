@@ -1,5 +1,4 @@
-Sclerotites cypericola Knowlton {?} SPECIES
-=======
+# Sclerotites cypericola Knowlton {?} SPECIES
 
 #### Status
 ACCEPTED

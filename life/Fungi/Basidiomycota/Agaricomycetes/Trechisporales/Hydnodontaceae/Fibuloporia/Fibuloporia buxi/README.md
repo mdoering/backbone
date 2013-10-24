@@ -1,5 +1,4 @@
-Fibuloporia buxi (Bondartsev) Bondartsev & Bondartseva SPECIES
-=======
+# Fibuloporia buxi (Bondartsev) Bondartsev & Bondartseva SPECIES
 
 #### Status
 ACCEPTED

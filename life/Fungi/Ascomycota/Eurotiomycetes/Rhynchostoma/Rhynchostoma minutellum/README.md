@@ -1,5 +1,4 @@
-Rhynchostoma minutellum Höhn. SPECIES
-=======
+# Rhynchostoma minutellum Höhn. SPECIES
 
 #### Status
 ACCEPTED

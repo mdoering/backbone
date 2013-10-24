@@ -1,5 +1,4 @@
-Nephromium laevigatum var. laevigatum VARIETY
-=======
+# Nephromium laevigatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephromium laevigatum var. laevigatum
+null
 
 ### Remarks
 null

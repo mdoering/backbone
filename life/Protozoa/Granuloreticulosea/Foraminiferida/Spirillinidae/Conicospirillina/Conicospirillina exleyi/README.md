@@ -1,5 +1,4 @@
-Conicospirillina exleyi van Hengstum & Scott, 2012 SPECIES
-=======
+# Conicospirillina exleyi van Hengstum & Scott, 2012 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus granulatus Bogart SPECIES
-=======
+# Coprinus granulatus Bogart SPECIES
 
 #### Status
 ACCEPTED

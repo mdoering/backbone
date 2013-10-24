@@ -1,5 +1,4 @@
-Sphaerocreas javanicum Höhn. SPECIES
-=======
+# Sphaerocreas javanicum Höhn. SPECIES
 
 #### Status
 ACCEPTED

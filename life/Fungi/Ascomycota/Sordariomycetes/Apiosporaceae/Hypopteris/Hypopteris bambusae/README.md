@@ -1,5 +1,4 @@
-Hypopteris bambusae Berk. SPECIES
-=======
+# Hypopteris bambusae Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytoplea wistariae Curzi SPECIES
-=======
+# Cytoplea wistariae Curzi SPECIES
 
 #### Status
 ACCEPTED

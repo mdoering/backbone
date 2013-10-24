@@ -1,17 +1,16 @@
-Pluteus psychriophorus var. burserae Singer VARIETY
-=======
+# Pluteus psichiophorus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 670 (1887)
 
 #### Original name
-Pluteus psychriophorus var. burserae Singer
+Agaricus psichiophorus Berk. & Broome
 
 ### Remarks
 null

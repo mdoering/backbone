@@ -1,5 +1,4 @@
-Acaromyces ingoldii Boekhout, Scorzetti, Gerson & Sztejnb., 2003 SPECIES
-=======
+# Acaromyces ingoldii Boekhout, Scorzetti, Gerson & Sztejnb., 2003 SPECIES
 
 #### Status
 ACCEPTED

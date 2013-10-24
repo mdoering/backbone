@@ -1,5 +1,4 @@
-Nyctotheroides njinei SPECIES
-=======
+# Nyctotheroides njinei SPECIES
 
 #### Status
 ACCEPTED

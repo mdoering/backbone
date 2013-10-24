@@ -1,5 +1,4 @@
-Opegrapha subrufescens Nyl. SPECIES
-=======
+# Opegrapha subrufescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

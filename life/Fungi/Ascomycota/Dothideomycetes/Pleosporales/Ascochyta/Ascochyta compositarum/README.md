@@ -1,5 +1,4 @@
-Ascochyta compositarum Davis SPECIES
-=======
+# Ascochyta compositarum Davis SPECIES
 
 #### Status
 ACCEPTED

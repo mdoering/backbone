@@ -1,5 +1,4 @@
-Peroneutypella isariphora (Nitschke) Berl. SPECIES
-=======
+# Peroneutypella isariphora (Nitschke) Berl. SPECIES
 
 #### Status
 ACCEPTED

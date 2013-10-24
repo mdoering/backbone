@@ -1,14 +1,13 @@
-Vesiculomyces sulcatus (Rehill & B.K. Bakshi) Boidin & Lanq., 1983 SPECIES
-=======
+# Gloeocystidiellum sulcatum (Rehill & B.K. Bakshi) Boidin, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 16(2): 493 (1983)
+Cahiers de La Maboké 4: 10 (1966)
 
 #### Original name
 null

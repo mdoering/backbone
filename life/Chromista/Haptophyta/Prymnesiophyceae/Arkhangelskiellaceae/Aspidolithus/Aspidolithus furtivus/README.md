@@ -1,5 +1,4 @@
-Aspidolithus furtivus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
-=======
+# Aspidolithus furtivus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta zanthoxyli J.D. Sun & J.K. Bai SPECIES
-=======
+# Ascochyta zanthoxyli J.D. Sun & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

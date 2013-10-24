@@ -1,5 +1,4 @@
-Syncephalastraceae FAMILY
-=======
+# Syncephalastraceae FAMILY
 
 #### Status
 ACCEPTED

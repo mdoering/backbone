@@ -1,5 +1,4 @@
-Bolivina scalprata SPECIES
-=======
+# Bolivina scalprata SPECIES
 
 #### Status
 ACCEPTED

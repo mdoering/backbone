@@ -1,5 +1,4 @@
-Leptothyrium pothi Weedon SPECIES
-=======
+# Leptothyrium pothi Weedon SPECIES
 
 #### Status
 ACCEPTED

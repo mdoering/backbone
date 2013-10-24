@@ -1,17 +1,16 @@
-Goidanichiella fusiforma K.D. Hyde, Yanna, Pinnoi & E.B.G. Jones SPECIES
-=======
+# Goidanichiella fusiformis K.D. Hyde, Yanna, Pinnoi & E.B.G. Jones, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity 11: 119 (2002)
 
 #### Original name
-Goidanichiella fusiforma K.D. Hyde, Yanna, Pinnoi & E.B.G. Jones
+Goidanichiella fusiformis K.D. Hyde, Yanna, Pinnoi & E.B.G. Jones, 2009
 
 ### Remarks
 null

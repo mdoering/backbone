@@ -1,5 +1,4 @@
-Bombyliospora maderensis (Kremp.) Tav. SPECIES
-=======
+# Bombyliospora maderensis (Kremp.) Tav. SPECIES
 
 #### Status
 ACCEPTED

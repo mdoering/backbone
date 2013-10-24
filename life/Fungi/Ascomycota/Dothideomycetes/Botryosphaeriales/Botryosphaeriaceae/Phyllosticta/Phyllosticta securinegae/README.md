@@ -1,5 +1,4 @@
-Phyllosticta securinegae Koval SPECIES
-=======
+# Phyllosticta securinegae Koval SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo polymniae (Henn.) Arthur SPECIES
-=======
+# Nigredo polymniae (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

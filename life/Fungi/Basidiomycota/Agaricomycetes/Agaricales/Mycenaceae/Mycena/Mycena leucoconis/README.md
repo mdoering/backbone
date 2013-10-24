@@ -1,5 +1,4 @@
-Mycena leucoconis Berk. & M.A. Curtis SPECIES
-=======
+# Mycena leucoconis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

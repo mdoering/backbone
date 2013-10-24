@@ -1,5 +1,4 @@
-Arthrocristula hyphenata Sigler, M.T. Dunn & J.W. Carmich., 1982 SPECIES
-=======
+# Arthrocristula hyphenata Sigler, M.T. Dunn & J.W. Carmich., 1982 SPECIES
 
 #### Status
 ACCEPTED

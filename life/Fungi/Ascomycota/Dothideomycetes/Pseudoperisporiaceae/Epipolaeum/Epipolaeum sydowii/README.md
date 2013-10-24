@@ -1,5 +1,4 @@
-Epipolaeum sydowii (Petr.) E. Müll. SPECIES
-=======
+# Epipolaeum sydowii (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

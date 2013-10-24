@@ -1,5 +1,4 @@
-Thelephora dendroidea (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Thelephora dendroidea (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

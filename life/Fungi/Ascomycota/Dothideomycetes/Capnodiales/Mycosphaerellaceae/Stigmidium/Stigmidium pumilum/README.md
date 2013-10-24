@@ -1,14 +1,13 @@
-Rosellinia pumila Lettau, 1958 SPECIES
-=======
+# Stigmidium pumilum (Lettau) Matzer & Hafellner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. 61(2): 150 (1958)
+Biblthca Lichenol. 37: 115 (1990)
 
 #### Original name
 Rosellinia pumila Lettau, 1958

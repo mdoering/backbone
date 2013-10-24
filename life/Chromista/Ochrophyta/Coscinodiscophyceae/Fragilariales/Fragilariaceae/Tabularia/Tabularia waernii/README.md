@@ -1,5 +1,4 @@
-Tabularia waernii P. Snoeijs SPECIES
-=======
+# Tabularia waernii P. Snoeijs SPECIES
 
 #### Status
 ACCEPTED

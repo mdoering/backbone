@@ -1,5 +1,4 @@
-Azonexus fungiphilus Reinhold-Hurek & Hurek, 2000 SPECIES
-=======
+# Azonexus fungiphilus Reinhold-Hurek & Hurek, 2000 SPECIES
 
 #### Status
 ACCEPTED

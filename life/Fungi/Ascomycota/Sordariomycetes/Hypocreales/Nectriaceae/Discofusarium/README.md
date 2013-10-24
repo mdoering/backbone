@@ -1,5 +1,4 @@
-Discofusarium GENUS
-=======
+# Discofusarium GENUS
 
 #### Status
 ACCEPTED

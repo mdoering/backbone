@@ -1,5 +1,4 @@
-Russula magnifica Peck SPECIES
-=======
+# Russula magnifica Peck SPECIES
 
 #### Status
 ACCEPTED

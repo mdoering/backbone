@@ -1,5 +1,4 @@
-Moraxella boevrei Kodjo et al., 1997 SPECIES
-=======
+# Moraxella boevrei Kodjo et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

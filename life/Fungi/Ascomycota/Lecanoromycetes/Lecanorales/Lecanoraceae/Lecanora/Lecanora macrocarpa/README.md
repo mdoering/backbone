@@ -1,5 +1,4 @@
-Lecanora macrocarpa (Anzi) Hue SPECIES
-=======
+# Lecanora macrocarpa (Anzi) Hue SPECIES
 
 #### Status
 ACCEPTED

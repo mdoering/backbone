@@ -1,5 +1,4 @@
-Spongophacus Haeckel, 1881 GENUS
-=======
+# Spongophacus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

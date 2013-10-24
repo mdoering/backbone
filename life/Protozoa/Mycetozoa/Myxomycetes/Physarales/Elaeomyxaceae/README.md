@@ -1,17 +1,16 @@
-Elaeomyxidae FAMILY
-=======
+# Elaeomyxaceae Hagelst. ex M.L. Farr & H.W. Keller FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 74(5): 857 (1982)
 
 #### Original name
-null
+Elaeomyxaceae Hagelst. ex M.L. Farr & H.W. Keller
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea argyromela Nyl. SPECIES
-=======
+# Lecidea argyromela Nyl. SPECIES
 
 #### Status
 ACCEPTED

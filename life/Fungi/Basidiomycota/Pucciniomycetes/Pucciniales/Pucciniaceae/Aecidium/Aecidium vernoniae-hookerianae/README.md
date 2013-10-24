@@ -1,5 +1,4 @@
-Aecidium vernoniae-hookerianae Petch SPECIES
-=======
+# Aecidium vernoniae-hookerianae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizostoma stupeum Ellis & Everh. SPECIES
-=======
+# Schizostoma stupeum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

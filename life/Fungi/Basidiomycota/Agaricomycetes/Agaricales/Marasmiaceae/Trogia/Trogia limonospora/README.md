@@ -1,5 +1,4 @@
-Trogia limonospora Corner SPECIES
-=======
+# Trogia limonospora Corner SPECIES
 
 #### Status
 ACCEPTED

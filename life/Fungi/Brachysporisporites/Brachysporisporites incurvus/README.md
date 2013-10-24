@@ -1,5 +1,4 @@
-Brachysporisporites incurvus (P. Ke & Z.Y. Shi) Z.C. Song SPECIES
-=======
+# Brachysporisporites incurvus (P. Ke & Z.Y. Shi) Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

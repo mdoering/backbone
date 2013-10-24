@@ -1,5 +1,4 @@
-Didymella mori Hara SPECIES
-=======
+# Didymella mori Hara SPECIES
 
 #### Status
 ACCEPTED

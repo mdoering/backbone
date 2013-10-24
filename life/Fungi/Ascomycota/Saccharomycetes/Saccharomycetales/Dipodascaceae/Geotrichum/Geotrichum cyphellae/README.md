@@ -1,5 +1,4 @@
-Geotrichum cyphellae G. Arnaud SPECIES
-=======
+# Geotrichum cyphellae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

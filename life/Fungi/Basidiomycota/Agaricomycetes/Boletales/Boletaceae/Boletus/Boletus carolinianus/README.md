@@ -1,5 +1,4 @@
-Boletus carolinianus Walter SPECIES
-=======
+# Boletus carolinianus Walter SPECIES
 
 #### Status
 ACCEPTED

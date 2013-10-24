@@ -1,5 +1,4 @@
-Tulostoma bruchii Speg. SPECIES
-=======
+# Tulostoma bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

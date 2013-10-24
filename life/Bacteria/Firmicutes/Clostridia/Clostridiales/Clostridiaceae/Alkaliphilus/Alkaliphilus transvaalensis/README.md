@@ -1,5 +1,4 @@
-Alkaliphilus transvaalensis Takai et al., 2001 SPECIES
-=======
+# Alkaliphilus transvaalensis Takai et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

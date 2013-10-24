@@ -1,5 +1,4 @@
-Cladonia subconistea Asahina SPECIES
-=======
+# Cladonia subconistea Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulicium globosum Hjortstam & Ryvarden, 2005 SPECIES
-=======
+# Clavulicium globosum Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

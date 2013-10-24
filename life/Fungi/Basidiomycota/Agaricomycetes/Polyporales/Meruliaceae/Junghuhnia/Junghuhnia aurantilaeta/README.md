@@ -1,5 +1,4 @@
-Junghuhnia aurantilaeta (Corner) Spirin, 2007 SPECIES
-=======
+# Junghuhnia aurantilaeta (Corner) Spirin, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium arthoniae M.S. Christ. & D. Hawksw., 1979 SPECIES
-=======
+# Cladosporium arthoniae M.S. Christ. & D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

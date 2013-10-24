@@ -1,5 +1,4 @@
-Asterula goyazensis Henn. SPECIES
-=======
+# Asterula goyazensis Henn. SPECIES
 
 #### Status
 ACCEPTED

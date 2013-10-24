@@ -1,5 +1,4 @@
-Polyporus carneopallens Berk. SPECIES
-=======
+# Polyporus carneopallens Berk. SPECIES
 
 #### Status
 ACCEPTED

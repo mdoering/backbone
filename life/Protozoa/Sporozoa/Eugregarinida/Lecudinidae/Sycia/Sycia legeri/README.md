@@ -1,5 +1,4 @@
-Sycia legeri Ganapati, 1946 SPECIES
-=======
+# Sycia legeri Ganapati, 1946 SPECIES
 
 #### Status
 ACCEPTED

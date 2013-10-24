@@ -1,5 +1,4 @@
-Dicaeoma caricis-siderostictae (Dietel) Syd. SPECIES
-=======
+# Dicaeoma caricis-siderostictae (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

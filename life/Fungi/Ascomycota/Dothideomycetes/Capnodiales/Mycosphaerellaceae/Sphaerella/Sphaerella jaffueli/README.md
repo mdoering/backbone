@@ -1,5 +1,4 @@
-Sphaerella jaffueli Speg. SPECIES
-=======
+# Sphaerella jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

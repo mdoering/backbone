@@ -1,5 +1,4 @@
-Agaricus intertextus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus intertextus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

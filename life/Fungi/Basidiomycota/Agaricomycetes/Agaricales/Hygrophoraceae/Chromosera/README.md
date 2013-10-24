@@ -1,5 +1,4 @@
-Chromosera Redhead, Ammirati & Norvell GENUS
-=======
+# Chromosera Redhead, Ammirati & Norvell GENUS
 
 #### Status
 ACCEPTED

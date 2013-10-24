@@ -1,5 +1,4 @@
-Stachybotrys socia (Sacc.) Sacc. SPECIES
-=======
+# Stachybotrys socia (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

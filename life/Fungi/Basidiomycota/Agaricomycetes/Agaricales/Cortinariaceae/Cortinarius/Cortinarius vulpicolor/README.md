@@ -1,5 +1,4 @@
-Cortinarius vulpicolor M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius vulpicolor M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

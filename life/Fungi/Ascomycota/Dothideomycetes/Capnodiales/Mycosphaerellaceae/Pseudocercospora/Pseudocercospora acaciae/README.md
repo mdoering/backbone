@@ -1,5 +1,4 @@
-Pseudocercospora acaciae Kamal & R.P. Singh SPECIES
-=======
+# Pseudocercospora acaciae Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

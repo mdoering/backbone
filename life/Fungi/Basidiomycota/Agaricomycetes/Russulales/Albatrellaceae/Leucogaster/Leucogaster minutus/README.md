@@ -1,5 +1,4 @@
-Leucogaster minutus Velen. SPECIES
-=======
+# Leucogaster minutus Velen. SPECIES
 
 #### Status
 ACCEPTED

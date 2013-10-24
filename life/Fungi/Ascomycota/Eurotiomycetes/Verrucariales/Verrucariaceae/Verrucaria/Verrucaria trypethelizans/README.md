@@ -1,5 +1,4 @@
-Verrucaria trypethelizans Nyl. SPECIES
-=======
+# Verrucaria trypethelizans Nyl. SPECIES
 
 #### Status
 ACCEPTED

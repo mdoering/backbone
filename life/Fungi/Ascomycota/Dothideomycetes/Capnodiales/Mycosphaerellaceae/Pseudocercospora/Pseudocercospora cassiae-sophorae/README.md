@@ -1,5 +1,4 @@
-Pseudocercospora cassiae-sophorae S.K. Singh & Bhalla SPECIES
-=======
+# Pseudocercospora cassiae-sophorae S.K. Singh & Bhalla SPECIES
 
 #### Status
 ACCEPTED

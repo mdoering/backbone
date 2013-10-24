@@ -1,5 +1,4 @@
-Pachysphaeridium sidereum Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium sidereum Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

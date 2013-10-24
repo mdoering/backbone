@@ -1,5 +1,4 @@
-Quinqueloculina exsculpta SPECIES
-=======
+# Quinqueloculina exsculpta SPECIES
 
 #### Status
 ACCEPTED

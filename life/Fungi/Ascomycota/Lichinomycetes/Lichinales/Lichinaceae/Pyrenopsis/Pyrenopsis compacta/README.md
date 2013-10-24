@@ -1,5 +1,4 @@
-Pyrenopsis compacta Willey SPECIES
-=======
+# Pyrenopsis compacta Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora spiraeina Bubák SPECIES
-=======
+# Pleospora spiraeina Bubák SPECIES
 
 #### Status
 ACCEPTED

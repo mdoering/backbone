@@ -1,5 +1,4 @@
-Semirosalina Hornibrook, 1961 GENUS
-=======
+# Semirosalina Hornibrook, 1961 GENUS
 
 #### Status
 ACCEPTED

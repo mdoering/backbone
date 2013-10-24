@@ -1,5 +1,4 @@
-Epipeltis gaultheriae (M.A. Curtis ex G. Martin) Theiss. SPECIES
-=======
+# Epipeltis gaultheriae (M.A. Curtis ex G. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

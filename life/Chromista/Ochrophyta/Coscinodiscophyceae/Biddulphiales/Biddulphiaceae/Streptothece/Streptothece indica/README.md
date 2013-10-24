@@ -1,5 +1,4 @@
-Streptothece indica Karsten SPECIES
-=======
+# Streptothece indica Karsten SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora canscorina Chidd. SPECIES
-=======
+# Cercospora canscorina Chidd. SPECIES
 
 #### Status
 ACCEPTED

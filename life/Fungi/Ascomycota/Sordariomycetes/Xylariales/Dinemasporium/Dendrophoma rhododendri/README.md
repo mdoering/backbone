@@ -1,5 +1,4 @@
-Dendrophoma rhododendri (Roum.) Sacc. SPECIES
-=======
+# Dendrophoma rhododendri (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chilodon truttae SPECIES
-=======
+# Chilodon truttae SPECIES
 
 #### Status
 ACCEPTED

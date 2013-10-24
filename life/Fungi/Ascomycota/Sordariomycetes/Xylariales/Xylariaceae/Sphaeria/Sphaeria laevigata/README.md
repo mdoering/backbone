@@ -1,5 +1,4 @@
-Sphaeria laevigata Schwein. SPECIES
-=======
+# Sphaeria laevigata Schwein. SPECIES
 
 #### Status
 ACCEPTED

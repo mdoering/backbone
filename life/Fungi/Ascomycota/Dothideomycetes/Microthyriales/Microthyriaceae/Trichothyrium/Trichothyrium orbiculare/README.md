@@ -1,5 +1,4 @@
-Trichothyrium orbiculare Syd. SPECIES
-=======
+# Trichothyrium orbiculare Syd. SPECIES
 
 #### Status
 ACCEPTED

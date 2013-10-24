@@ -1,5 +1,4 @@
-Triceratium consimile Grunow in Van Heurck, 1883 SPECIES
-=======
+# Triceratium consimile Grunow in Van Heurck, 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia hymenorhiza (Speg.) Speg. SPECIES
-=======
+# Omphalia hymenorhiza (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

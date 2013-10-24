@@ -1,5 +1,4 @@
-Dryophilum umbonatum Schwein. SPECIES
-=======
+# Dryophilum umbonatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

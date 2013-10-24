@@ -1,5 +1,4 @@
-Rickia papuana Thaxt. SPECIES
-=======
+# Rickia papuana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

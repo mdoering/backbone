@@ -1,5 +1,4 @@
-Hypholoma rugoproximum C.S. Parker SPECIES
-=======
+# Hypholoma rugoproximum C.S. Parker SPECIES
 
 #### Status
 ACCEPTED

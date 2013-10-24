@@ -1,5 +1,4 @@
-Stemphylium nabarii Sarwar SPECIES
-=======
+# Stemphylium nabarii Sarwar SPECIES
 
 #### Status
 ACCEPTED

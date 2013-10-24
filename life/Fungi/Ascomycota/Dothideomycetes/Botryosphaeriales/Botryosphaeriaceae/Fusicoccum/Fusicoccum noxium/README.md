@@ -1,14 +1,13 @@
-Plowrightia noxia (Ruhland) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Fusicoccum noxium Ruhland, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 845 (1905)
+null
 
 #### Original name
 Fusicoccum noxium Ruhland, 1904

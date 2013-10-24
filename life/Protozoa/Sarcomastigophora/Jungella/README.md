@@ -1,5 +1,4 @@
-Jungella Haitian, 1988 GENUS
-=======
+# Jungella Haitian, 1988 GENUS
 
 #### Status
 ACCEPTED

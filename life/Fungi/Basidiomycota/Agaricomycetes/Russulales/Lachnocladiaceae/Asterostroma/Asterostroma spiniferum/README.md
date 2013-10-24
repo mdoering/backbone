@@ -1,5 +1,4 @@
-Asterostroma spiniferum Burt SPECIES
-=======
+# Asterostroma spiniferum Burt SPECIES
 
 #### Status
 ACCEPTED

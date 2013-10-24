@@ -1,8 +1,7 @@
-Lingulonodosaria bradii Silvestri, 1903 SPECIES
-=======
+# Frondicularia bradii (Silvestri, 1903) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

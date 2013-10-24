@@ -1,5 +1,4 @@
-Trametes argentina Speg. SPECIES
-=======
+# Trametes argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

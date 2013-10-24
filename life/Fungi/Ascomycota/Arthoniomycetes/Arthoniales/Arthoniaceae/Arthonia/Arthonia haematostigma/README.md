@@ -1,5 +1,4 @@
-Arthonia haematostigma Grube & Hafellner SPECIES
-=======
+# Arthonia haematostigma Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED

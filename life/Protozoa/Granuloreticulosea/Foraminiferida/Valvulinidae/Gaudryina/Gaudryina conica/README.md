@@ -1,5 +1,4 @@
-Gaudryina conica SPECIES
-=======
+# Gaudryina conica SPECIES
 
 #### Status
 ACCEPTED

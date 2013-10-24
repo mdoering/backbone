@@ -1,5 +1,4 @@
-Litonotus trichocystus Stokes, 1885 SPECIES
-=======
+# Litonotus trichocystus Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

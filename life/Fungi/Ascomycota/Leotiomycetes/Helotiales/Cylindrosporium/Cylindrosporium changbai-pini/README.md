@@ -1,5 +1,4 @@
-Cylindrosporium changbai-pini G.Z. Wang SPECIES
-=======
+# Cylindrosporium changbai-pini G.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plochmopeltidella gelsemii Bat. & C.A.A. Costa SPECIES
-=======
+# Plochmopeltidella gelsemii Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

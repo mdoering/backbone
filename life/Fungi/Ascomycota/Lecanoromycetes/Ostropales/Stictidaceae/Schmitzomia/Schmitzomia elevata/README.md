@@ -1,5 +1,4 @@
-Schmitzomia elevata P. Karst. SPECIES
-=======
+# Schmitzomia elevata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lavrovii Azbukina SPECIES
-=======
+# Puccinia lavrovii Azbukina SPECIES
 
 #### Status
 ACCEPTED

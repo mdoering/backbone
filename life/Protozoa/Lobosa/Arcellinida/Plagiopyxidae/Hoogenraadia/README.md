@@ -1,5 +1,4 @@
-Hoogenraadia Gauthier-Lièvre & Thomas, 1958 GENUS
-=======
+# Hoogenraadia Gauthier-Lièvre & Thomas, 1958 GENUS
 
 #### Status
 ACCEPTED

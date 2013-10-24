@@ -1,5 +1,4 @@
-Sphaeronaema indica P.N. Mathur, S.K. Menon & Thirum. SPECIES
-=======
+# Sphaeronaema indica P.N. Mathur, S.K. Menon & Thirum. SPECIES
 
 #### Status
 ACCEPTED

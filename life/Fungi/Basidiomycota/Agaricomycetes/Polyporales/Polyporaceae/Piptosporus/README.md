@@ -1,5 +1,4 @@
-Piptosporus GENUS
-=======
+# Piptosporus GENUS
 
 #### Status
 ACCEPTED

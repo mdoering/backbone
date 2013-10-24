@@ -1,5 +1,4 @@
-Endoxylina allantosporiformis (E. Müll. & S. Ahmad) E. Müll. SPECIES
-=======
+# Endoxylina allantosporiformis (E. Müll. & S. Ahmad) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

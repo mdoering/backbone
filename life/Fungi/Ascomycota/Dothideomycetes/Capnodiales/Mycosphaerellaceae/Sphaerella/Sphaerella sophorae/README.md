@@ -1,5 +1,4 @@
-Sphaerella sophorae G. Winter SPECIES
-=======
+# Sphaerella sophorae G. Winter SPECIES
 
 #### Status
 ACCEPTED

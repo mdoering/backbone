@@ -1,5 +1,4 @@
-Ascochyta marchantiae Sacc. & Speg. SPECIES
-=======
+# Ascochyta marchantiae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

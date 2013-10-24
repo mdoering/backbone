@@ -1,5 +1,4 @@
-Smittium lentaquaticum Siri, M.M. White & Lichtw., 2006 SPECIES
-=======
+# Smittium lentaquaticum Siri, M.M. White & Lichtw., 2006 SPECIES
 
 #### Status
 ACCEPTED

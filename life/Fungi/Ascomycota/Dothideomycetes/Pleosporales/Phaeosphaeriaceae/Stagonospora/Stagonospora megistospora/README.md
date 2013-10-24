@@ -1,5 +1,4 @@
-Stagonospora megistospora Rostr. SPECIES
-=======
+# Stagonospora megistospora Rostr. SPECIES
 
 #### Status
 ACCEPTED

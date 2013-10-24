@@ -1,5 +1,4 @@
-Heliocephala proliferans V. Rao, K.A. Reddy & de Hoog, 1984 SPECIES
-=======
+# Heliocephala proliferans V. Rao, K.A. Reddy & de Hoog, 1984 SPECIES
 
 #### Status
 ACCEPTED

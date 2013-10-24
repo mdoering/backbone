@@ -1,5 +1,4 @@
-Chaetomium spirilliferum Bainier, 1910 SPECIES
-=======
+# Chaetomium spirilliferum Bainier, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterobacter cowanii Inoue et al., 2001 SPECIES
-=======
+# Enterobacter cowanii Inoue et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

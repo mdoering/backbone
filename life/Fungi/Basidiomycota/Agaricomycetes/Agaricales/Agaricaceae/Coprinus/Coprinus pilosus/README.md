@@ -1,5 +1,4 @@
-Coprinus pilosus Berk. SPECIES
-=======
+# Coprinus pilosus Berk. SPECIES
 
 #### Status
 ACCEPTED

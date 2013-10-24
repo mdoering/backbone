@@ -1,5 +1,4 @@
-Myrothecium penicilloides Udagawa & Awao SPECIES
-=======
+# Myrothecium penicilloides Udagawa & Awao SPECIES
 
 #### Status
 ACCEPTED

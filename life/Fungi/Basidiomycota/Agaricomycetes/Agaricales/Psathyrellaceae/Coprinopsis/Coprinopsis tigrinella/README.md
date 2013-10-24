@@ -1,5 +1,4 @@
-Coprinopsis tigrinella (Boud.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis tigrinella (Boud.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia calathicola Speg. SPECIES
-=======
+# Laboulbenia calathicola Speg. SPECIES
 
 #### Status
 ACCEPTED

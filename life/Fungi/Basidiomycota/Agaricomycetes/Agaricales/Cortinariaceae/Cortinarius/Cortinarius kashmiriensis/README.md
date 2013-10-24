@@ -1,5 +1,4 @@
-Cortinarius kashmiriensis Watling SPECIES
-=======
+# Cortinarius kashmiriensis Watling SPECIES
 
 #### Status
 ACCEPTED

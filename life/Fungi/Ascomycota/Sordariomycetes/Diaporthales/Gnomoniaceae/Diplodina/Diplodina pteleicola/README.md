@@ -1,5 +1,4 @@
-Diplodina pteleicola Hollós SPECIES
-=======
+# Diplodina pteleicola Hollós SPECIES
 
 #### Status
 ACCEPTED

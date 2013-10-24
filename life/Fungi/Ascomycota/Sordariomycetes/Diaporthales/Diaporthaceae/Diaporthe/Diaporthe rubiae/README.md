@@ -1,5 +1,4 @@
-Diaporthe rubiae Fabre SPECIES
-=======
+# Diaporthe rubiae Fabre SPECIES
 
 #### Status
 ACCEPTED

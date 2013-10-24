@@ -1,5 +1,4 @@
-Cercospora incarnata Ellis & Everh. SPECIES
-=======
+# Cercospora incarnata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

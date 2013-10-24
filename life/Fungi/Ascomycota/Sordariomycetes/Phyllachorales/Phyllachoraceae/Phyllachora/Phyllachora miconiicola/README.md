@@ -1,5 +1,4 @@
-Phyllachora miconiicola Speg., 1919 SPECIES
-=======
+# Phyllachora miconiicola Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

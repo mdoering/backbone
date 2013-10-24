@@ -1,5 +1,4 @@
-Halovivax Castillo et al., 2006 GENUS
-=======
+# Halovivax Castillo et al., 2006 GENUS
 
 #### Status
 ACCEPTED

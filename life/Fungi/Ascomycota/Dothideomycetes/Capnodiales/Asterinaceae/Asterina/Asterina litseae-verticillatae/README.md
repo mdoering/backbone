@@ -1,5 +1,4 @@
-Asterina litseae-verticillatae B. Song SPECIES
-=======
+# Asterina litseae-verticillatae B. Song SPECIES
 
 #### Status
 ACCEPTED

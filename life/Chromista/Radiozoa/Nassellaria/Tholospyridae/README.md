@@ -1,5 +1,4 @@
-Tholospyridae FAMILY
-=======
+# Tholospyridae FAMILY
 
 #### Status
 ACCEPTED

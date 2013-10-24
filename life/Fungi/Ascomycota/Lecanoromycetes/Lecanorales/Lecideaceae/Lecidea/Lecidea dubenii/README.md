@@ -1,5 +1,4 @@
-Lecidea dubenii Fr. SPECIES
-=======
+# Lecidea dubenii Fr. SPECIES
 
 #### Status
 ACCEPTED

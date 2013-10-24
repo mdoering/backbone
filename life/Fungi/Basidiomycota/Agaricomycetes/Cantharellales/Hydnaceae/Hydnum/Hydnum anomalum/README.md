@@ -1,5 +1,4 @@
-Hydnum anomalum Berk. & Broome SPECIES
-=======
+# Hydnum anomalum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

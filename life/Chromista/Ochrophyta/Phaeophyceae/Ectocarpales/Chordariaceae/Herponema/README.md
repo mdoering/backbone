@@ -1,5 +1,4 @@
-Herponema J.Agardh, 1882 GENUS
-=======
+# Herponema J.Agardh, 1882 GENUS
 
 #### Status
 ACCEPTED

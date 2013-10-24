@@ -1,5 +1,4 @@
-Puccinia dracunculi (Thüm.) Hotson SPECIES
-=======
+# Puccinia dracunculi (Thüm.) Hotson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea pseudofoetidae L. Guo SPECIES
-=======
+# Anthracoidea pseudofoetidae L. Guo SPECIES
 
 #### Status
 ACCEPTED

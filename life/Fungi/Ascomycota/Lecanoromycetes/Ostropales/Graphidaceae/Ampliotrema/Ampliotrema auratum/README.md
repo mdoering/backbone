@@ -1,5 +1,4 @@
-Ampliotrema auratum (Tuck.) Kalb ex Kalb SPECIES
-=======
+# Ampliotrema auratum (Tuck.) Kalb ex Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Paraparmelia sammyii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia sammyi (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 401 (2003)
 
 #### Original name
-Paraparmelia sammyii Elix & J. Johnst.
+Paraparmelia sammyi Elix & J. Johnst.
 
 ### Remarks
 null

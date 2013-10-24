@@ -1,14 +1,13 @@
-Verpa caroliniana Schwein., 1832 SPECIES
-=======
+# Cidaris caroliniana (Schwein.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. Amer. bor. 170 (1832)
+Summa veg. Scand. (Stockholm), Section Post. 347 (1849)
 
 #### Original name
 Verpa caroliniana Schwein., 1832

@@ -1,5 +1,4 @@
-Apiospora comedens (Schwein.) Sacc. SPECIES
-=======
+# Apiospora comedens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

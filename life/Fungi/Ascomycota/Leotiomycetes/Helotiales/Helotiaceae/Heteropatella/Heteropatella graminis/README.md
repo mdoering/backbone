@@ -1,5 +1,4 @@
-Heteropatella graminis Girz. SPECIES
-=======
+# Heteropatella graminis Girz. SPECIES
 
 #### Status
 ACCEPTED

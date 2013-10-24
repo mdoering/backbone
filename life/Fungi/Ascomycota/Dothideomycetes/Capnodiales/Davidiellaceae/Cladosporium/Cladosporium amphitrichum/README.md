@@ -1,5 +1,4 @@
-Cladosporium amphitrichum Sacc. SPECIES
-=======
+# Cladosporium amphitrichum Sacc. SPECIES
 
 #### Status
 ACCEPTED

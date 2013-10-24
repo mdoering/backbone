@@ -1,5 +1,4 @@
-Sphaeria erinacea P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria erinacea P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

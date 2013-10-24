@@ -1,5 +1,4 @@
-Wittmannia antarctica R. Czaker SPECIES
-=======
+# Wittmannia antarctica R. Czaker SPECIES
 
 #### Status
 ACCEPTED

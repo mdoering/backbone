@@ -1,5 +1,4 @@
-Mycocalicium albonigrum (Nyl.) Tibell SPECIES
-=======
+# Mycocalicium albonigrum (Nyl.) Tibell SPECIES
 
 #### Status
 ACCEPTED

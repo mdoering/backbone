@@ -1,5 +1,4 @@
-Aplosporella grewiae S. Ahmad SPECIES
-=======
+# Aplosporella grewiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

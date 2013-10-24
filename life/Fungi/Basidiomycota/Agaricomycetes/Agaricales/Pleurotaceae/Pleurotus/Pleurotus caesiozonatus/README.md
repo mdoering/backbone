@@ -1,5 +1,4 @@
-Pleurotus caesiozonatus (Rabenh.) Sacc. SPECIES
-=======
+# Pleurotus caesiozonatus (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

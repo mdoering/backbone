@@ -1,5 +1,4 @@
-Clitocybe alpicola (Beck) Sacc. SPECIES
-=======
+# Clitocybe alpicola (Beck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

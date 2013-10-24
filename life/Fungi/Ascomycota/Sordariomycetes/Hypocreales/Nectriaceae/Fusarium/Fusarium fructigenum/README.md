@@ -1,5 +1,4 @@
-Fusarium fructigenum var. fructigenum VARIETY
-=======
+# Fusarium fructigenum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium fructigenum var. fructigenum
+Fusarium fructigenum Fr.
 
 ### Remarks
 null

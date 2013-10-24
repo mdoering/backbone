@@ -1,5 +1,4 @@
-Loramycetaceae Dennis ex Digby & Goos FAMILY
-=======
+# Loramycetaceae Dennis ex Digby & Goos FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria quercus-ilicis Schild SPECIES
-=======
+# Ramaria quercus-ilicis Schild SPECIES
 
 #### Status
 ACCEPTED

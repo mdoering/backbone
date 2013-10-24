@@ -1,5 +1,4 @@
-Comasphaeridium intonsum (Loeblich & Wicander, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium intonsum (Loeblich & Wicander, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

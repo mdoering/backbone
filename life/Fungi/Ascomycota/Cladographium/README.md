@@ -1,5 +1,4 @@
-Cladographium Peyronel GENUS
-=======
+# Cladographium Peyronel GENUS
 
 #### Status
 ACCEPTED

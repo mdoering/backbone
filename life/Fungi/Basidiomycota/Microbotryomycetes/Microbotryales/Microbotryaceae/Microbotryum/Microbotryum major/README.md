@@ -1,14 +1,13 @@
-Ustilago major J. Schröt., 1887 SPECIES
-=======
+# Microbotryum major (J. Schröt.) G. Deml & Oberw., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 273 (1887)
+Phytopath. Z. 104(4): 353 (1982)
 
 #### Original name
 Ustilago major J. Schröt., 1887

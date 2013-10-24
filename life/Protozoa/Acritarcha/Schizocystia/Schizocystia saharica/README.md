@@ -1,5 +1,4 @@
-Schizocystia saharica S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
-=======
+# Schizocystia saharica S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
 
 #### Status
 ACCEPTED

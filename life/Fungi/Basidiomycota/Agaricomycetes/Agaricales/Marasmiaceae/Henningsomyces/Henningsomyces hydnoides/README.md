@@ -1,14 +1,13 @@
-Henningsomyces hydnodes (Berk. & Broome) Kuntze SPECIES
-=======
+# Henningsomyces hydnoides (Berk. & Broome) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 483 (1898)
 
 #### Original name
 Solenia hydnoides Berk. & Broome

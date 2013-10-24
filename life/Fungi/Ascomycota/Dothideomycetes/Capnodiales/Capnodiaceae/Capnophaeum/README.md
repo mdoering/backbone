@@ -1,5 +1,4 @@
-Capnophaeum Speg. GENUS
-=======
+# Capnophaeum Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora platensis (Speg.) U. Braun & Crous SPECIES
-=======
+# Passalora platensis (Speg.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

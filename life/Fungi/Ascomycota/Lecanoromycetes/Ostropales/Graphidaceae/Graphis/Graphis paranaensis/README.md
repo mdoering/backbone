@@ -1,5 +1,4 @@
-Graphis paranaensis Dal-Forno & Eliasaro SPECIES
-=======
+# Graphis paranaensis Dal-Forno & Eliasaro SPECIES
 
 #### Status
 ACCEPTED

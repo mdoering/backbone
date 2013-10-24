@@ -1,5 +1,4 @@
-Placosphaeria seriata Bubák & Syd. SPECIES
-=======
+# Placosphaeria seriata Bubák & Syd. SPECIES
 
 #### Status
 ACCEPTED

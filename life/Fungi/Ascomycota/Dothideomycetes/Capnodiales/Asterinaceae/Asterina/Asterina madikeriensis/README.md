@@ -1,5 +1,4 @@
-Asterina madikeriensis Hosag., 2006 SPECIES
-=======
+# Asterina madikeriensis Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbacterium ulmi Rivas et al., 2004 SPECIES
-=======
+# Microbacterium ulmi Rivas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

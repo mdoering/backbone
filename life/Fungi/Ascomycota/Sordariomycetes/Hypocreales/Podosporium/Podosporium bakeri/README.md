@@ -1,5 +1,4 @@
-Podosporium bakeri Earle SPECIES
-=======
+# Podosporium bakeri Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria versicolor Pat. SPECIES
-=======
+# Septoria versicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

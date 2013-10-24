@@ -1,5 +1,4 @@
-Aspromonas Jin et al., 2007 GENUS
-=======
+# Aspromonas Jin et al., 2007 GENUS
 
 #### Status
 ACCEPTED

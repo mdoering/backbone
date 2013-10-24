@@ -1,5 +1,4 @@
-Tolypothrix rupestris Wolle SPECIES
-=======
+# Tolypothrix rupestris Wolle SPECIES
 
 #### Status
 ACCEPTED

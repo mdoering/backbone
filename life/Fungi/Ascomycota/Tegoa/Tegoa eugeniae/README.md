@@ -1,5 +1,4 @@
-Tegoa eugeniae Bat. & H. Maia SPECIES
-=======
+# Tegoa eugeniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

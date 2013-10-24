@@ -1,5 +1,4 @@
-Acarospora suzai var. suzai VARIETY
-=======
+# Acarospora suzai H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora suzai var. suzai
+Acarospora suzai H. Magn.
 
 ### Remarks
 null

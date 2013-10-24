@@ -1,5 +1,4 @@
-Biatora emergens Müll. Arg. SPECIES
-=======
+# Biatora emergens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

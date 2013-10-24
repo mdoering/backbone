@@ -1,5 +1,4 @@
-Endothiella aggregata A. Funk SPECIES
-=======
+# Endothiella aggregata A. Funk SPECIES
 
 #### Status
 ACCEPTED

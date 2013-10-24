@@ -1,5 +1,4 @@
-Spegazzinia trichophila G.F. Atk. SPECIES
-=======
+# Spegazzinia trichophila G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

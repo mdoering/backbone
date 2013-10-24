@@ -1,17 +1,16 @@
-Stemphylium macrosporoideum var. macrosporoideum VARIETY
-=======
+# Monodictys castaneae (Wallr.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 519 (1886)
+Can. J. Bot. 36: 785 (1958)
 
 #### Original name
-Stemphylium macrosporoideum var. macrosporoideum
+Hyphelia castaneae Wallr., 1833
 
 ### Remarks
 null

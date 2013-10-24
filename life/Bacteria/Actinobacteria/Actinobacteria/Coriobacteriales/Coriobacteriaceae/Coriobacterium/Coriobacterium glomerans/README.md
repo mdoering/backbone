@@ -1,5 +1,4 @@
-Coriobacterium glomerans Haas & König, 1988 SPECIES
-=======
+# Coriobacterium glomerans Haas & König, 1988 SPECIES
 
 #### Status
 ACCEPTED

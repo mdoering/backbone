@@ -1,5 +1,4 @@
-Psora polydactyla Müll. Arg. SPECIES
-=======
+# Psora polydactyla Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

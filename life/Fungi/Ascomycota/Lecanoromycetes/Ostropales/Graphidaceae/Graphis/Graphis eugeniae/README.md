@@ -1,5 +1,4 @@
-Graphis eugeniae Vain. SPECIES
-=======
+# Graphis eugeniae Vain. SPECIES
 
 #### Status
 ACCEPTED

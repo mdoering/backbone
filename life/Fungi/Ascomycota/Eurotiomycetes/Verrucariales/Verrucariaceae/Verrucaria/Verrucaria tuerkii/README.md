@@ -1,5 +1,4 @@
-Verrucaria tuerkii Breuss SPECIES
-=======
+# Verrucaria tuerkii Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Biatora rufonigra Tuck. SPECIES
-=======
+# Psorula rufonigra (Tuck.) Gotth. Schneid. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 13: 136 (1980)
 
 #### Original name
 Biatora rufonigra Tuck.

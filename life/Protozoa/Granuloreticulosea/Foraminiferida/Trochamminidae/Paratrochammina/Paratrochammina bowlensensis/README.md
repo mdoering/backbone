@@ -1,5 +1,4 @@
-Paratrochammina (Lepidoparatrochammina) bowlensensis Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Paratrochammina (Lepidoparatrochammina) bowlensensis Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

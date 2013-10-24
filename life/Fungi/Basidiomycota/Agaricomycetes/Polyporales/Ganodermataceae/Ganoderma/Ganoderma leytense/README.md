@@ -1,5 +1,4 @@
-Ganoderma leytense Steyaert, 1972 SPECIES
-=======
+# Ganoderma leytense Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

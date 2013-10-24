@@ -1,5 +1,4 @@
-Phaeocollybia ochraceocana Norvell & Exeter SPECIES
-=======
+# Phaeocollybia ochraceocana Norvell & Exeter SPECIES
 
 #### Status
 ACCEPTED

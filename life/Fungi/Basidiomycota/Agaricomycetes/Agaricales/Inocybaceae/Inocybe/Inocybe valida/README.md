@@ -1,5 +1,4 @@
-Inocybe valida Malençon SPECIES
-=======
+# Inocybe valida Malençon SPECIES
 
 #### Status
 ACCEPTED

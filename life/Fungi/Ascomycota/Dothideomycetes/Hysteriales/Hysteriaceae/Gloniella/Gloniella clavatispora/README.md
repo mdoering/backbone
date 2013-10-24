@@ -1,5 +1,4 @@
-Gloniella clavatispora Steinke & K.D. Hyde, 1997 SPECIES
-=======
+# Gloniella clavatispora Steinke & K.D. Hyde, 1997 SPECIES
 
 #### Status
 ACCEPTED

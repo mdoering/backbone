@@ -1,5 +1,4 @@
-Coscinodiscus australiensis Grunow SPECIES
-=======
+# Coscinodiscus australiensis Grunow SPECIES
 
 #### Status
 ACCEPTED

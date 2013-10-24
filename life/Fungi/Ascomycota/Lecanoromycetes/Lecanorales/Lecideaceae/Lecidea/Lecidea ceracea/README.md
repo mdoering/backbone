@@ -1,5 +1,4 @@
-Lecidea ceracea (Arnold) SPECIES
-=======
+# Lecidea ceracea (Arnold) SPECIES
 
 #### Status
 ACCEPTED

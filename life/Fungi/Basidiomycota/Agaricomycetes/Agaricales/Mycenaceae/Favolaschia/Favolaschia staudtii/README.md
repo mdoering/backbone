@@ -1,5 +1,4 @@
-Favolaschia staudtii Henn. SPECIES
-=======
+# Favolaschia staudtii Henn. SPECIES
 
 #### Status
 ACCEPTED

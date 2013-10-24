@@ -1,5 +1,4 @@
-Dinemasporium affine Speg. SPECIES
-=======
+# Dinemasporium affine Speg. SPECIES
 
 #### Status
 ACCEPTED

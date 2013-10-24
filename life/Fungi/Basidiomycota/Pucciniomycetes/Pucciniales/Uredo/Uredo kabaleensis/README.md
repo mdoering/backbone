@@ -1,5 +1,4 @@
-Uredo kabaleensis Gjaerum SPECIES
-=======
+# Uredo kabaleensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

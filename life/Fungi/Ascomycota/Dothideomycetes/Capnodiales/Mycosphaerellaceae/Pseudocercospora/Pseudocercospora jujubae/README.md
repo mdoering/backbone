@@ -1,5 +1,4 @@
-Pseudocercospora jujubae (S. Chowdhury) A.Z.M. Khan & Shamsi SPECIES
-=======
+# Pseudocercospora jujubae (S. Chowdhury) A.Z.M. Khan & Shamsi SPECIES
 
 #### Status
 ACCEPTED

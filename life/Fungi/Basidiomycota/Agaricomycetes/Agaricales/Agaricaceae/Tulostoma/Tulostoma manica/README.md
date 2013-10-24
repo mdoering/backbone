@@ -1,5 +1,4 @@
-Tulostoma manica Bat. & A.F. Vital SPECIES
-=======
+# Tulostoma manica Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

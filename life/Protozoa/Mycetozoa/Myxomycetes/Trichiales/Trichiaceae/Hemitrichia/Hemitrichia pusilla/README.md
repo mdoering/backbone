@@ -1,5 +1,4 @@
-Hemitrichia pusilla Speg. SPECIES
-=======
+# Hemitrichia pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

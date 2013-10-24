@@ -1,5 +1,4 @@
-Chytridium mesocarpi A. Fisch. SPECIES
-=======
+# Chytridium mesocarpi A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

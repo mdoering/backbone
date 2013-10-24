@@ -1,5 +1,4 @@
-Uredo sapotae Arthur & J.R. Johnst. SPECIES
-=======
+# Uredo sapotae Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

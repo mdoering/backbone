@@ -1,5 +1,4 @@
-Verticillium lutescens (Schwein.) Sacc. SPECIES
-=======
+# Verticillium lutescens (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

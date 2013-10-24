@@ -1,5 +1,4 @@
-Pannaria brasiliensis Zahlbr. SPECIES
-=======
+# Pannaria brasiliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

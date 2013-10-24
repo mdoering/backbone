@@ -1,5 +1,4 @@
-Lyophyllum lugubre (Peck) Clémençon SPECIES
-=======
+# Lyophyllum lugubre (Peck) Clémençon SPECIES
 
 #### Status
 ACCEPTED

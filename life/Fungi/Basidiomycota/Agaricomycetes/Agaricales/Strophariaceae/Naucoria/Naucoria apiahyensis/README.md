@@ -1,5 +1,4 @@
-Naucoria apiahyensis Speg. SPECIES
-=======
+# Naucoria apiahyensis Speg. SPECIES
 
 #### Status
 ACCEPTED

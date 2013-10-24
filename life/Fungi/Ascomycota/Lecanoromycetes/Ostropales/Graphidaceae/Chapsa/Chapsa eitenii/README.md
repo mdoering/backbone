@@ -1,14 +1,13 @@
-Thelotrema eitenii Hale SPECIES
-=======
+# Chapsa eitenii (Hale) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 3(1): 176 (1975)
+Biblthca Lichenol. 92: 87 (2006)
 
 #### Original name
 Thelotrema eitenii Hale

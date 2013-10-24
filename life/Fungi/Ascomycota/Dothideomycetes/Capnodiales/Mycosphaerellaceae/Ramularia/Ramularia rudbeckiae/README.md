@@ -1,5 +1,4 @@
-Ramularia rudbeckiae Peck SPECIES
-=======
+# Ramularia rudbeckiae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbera polyspora B. Erikss. SPECIES
-=======
+# Gibbera polyspora B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

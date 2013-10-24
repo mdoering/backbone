@@ -1,5 +1,4 @@
-Prauserella halophila Li et al., 2003 SPECIES
-=======
+# Prauserella halophila Li et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

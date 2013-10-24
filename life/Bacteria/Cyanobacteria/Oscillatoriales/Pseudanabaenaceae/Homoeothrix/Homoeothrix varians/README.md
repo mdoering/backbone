@@ -1,5 +1,4 @@
-Homoeothrix varians Geitler SPECIES
-=======
+# Homoeothrix varians Geitler SPECIES
 
 #### Status
 ACCEPTED

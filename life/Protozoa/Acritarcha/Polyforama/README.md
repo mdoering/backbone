@@ -1,5 +1,4 @@
-Polyforama Naumova in Pykhova, 1969 GENUS
-=======
+# Polyforama Naumova in Pykhova, 1969 GENUS
 
 #### Status
 ACCEPTED

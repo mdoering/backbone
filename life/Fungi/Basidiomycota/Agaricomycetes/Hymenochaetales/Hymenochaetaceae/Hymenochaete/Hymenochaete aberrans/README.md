@@ -1,5 +1,4 @@
-Hymenochaete aberrans G.A. Escobar ex J.C. Léger, 1990 SPECIES
-=======
+# Hymenochaete aberrans G.A. Escobar ex J.C. Léger, 1990 SPECIES
 
 #### Status
 ACCEPTED

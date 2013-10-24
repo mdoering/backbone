@@ -1,5 +1,4 @@
-Tritaxilina yasicaensis SPECIES
-=======
+# Tritaxilina yasicaensis SPECIES
 
 #### Status
 ACCEPTED

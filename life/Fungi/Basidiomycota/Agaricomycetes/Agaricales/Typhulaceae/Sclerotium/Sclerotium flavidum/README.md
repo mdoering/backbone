@@ -1,5 +1,4 @@
-Sclerotium flavidum Welw. & Curr. SPECIES
-=======
+# Sclerotium flavidum Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

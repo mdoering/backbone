@@ -1,5 +1,4 @@
-Dicaeoma ceanothi (Ellis & Kellerm.) Arthur SPECIES
-=======
+# Dicaeoma ceanothi (Ellis & Kellerm.) Arthur SPECIES
 
 #### Status
 ACCEPTED

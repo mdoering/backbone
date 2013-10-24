@@ -1,5 +1,4 @@
-Appendiculella altingiae Y.X. Hu & B. Song SPECIES
-=======
+# Appendiculella altingiae Y.X. Hu & B. Song SPECIES
 
 #### Status
 ACCEPTED

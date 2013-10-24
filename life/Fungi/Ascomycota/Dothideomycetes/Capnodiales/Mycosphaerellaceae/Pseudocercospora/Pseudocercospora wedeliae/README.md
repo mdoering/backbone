@@ -1,14 +1,13 @@
-Cercospora wedeliae A.K. Kar & M. Mandal, 1970 SPECIES
-=======
+# Pseudocercospora wedeliae (A.K. Kar & M. Mandal) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 54(3): 428 (1970)
+Mycol. Pap. 140: 155 (1976)
 
 #### Original name
 Cercospora wedeliae A.K. Kar & M. Mandal, 1970

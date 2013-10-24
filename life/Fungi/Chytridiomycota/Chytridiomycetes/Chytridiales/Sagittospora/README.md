@@ -1,5 +1,4 @@
-Sagittospora Lubinsky GENUS
-=======
+# Sagittospora Lubinsky GENUS
 
 #### Status
 ACCEPTED

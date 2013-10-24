@@ -1,5 +1,4 @@
-Bipolaris pereqianensis Alcorn SPECIES
-=======
+# Bipolaris pereqianensis Alcorn SPECIES
 
 #### Status
 ACCEPTED

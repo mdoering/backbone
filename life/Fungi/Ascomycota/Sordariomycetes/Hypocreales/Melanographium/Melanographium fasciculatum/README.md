@@ -1,5 +1,4 @@
-Melanographium fasciculatum S. Hughes SPECIES
-=======
+# Melanographium fasciculatum S. Hughes SPECIES
 
 #### Status
 ACCEPTED

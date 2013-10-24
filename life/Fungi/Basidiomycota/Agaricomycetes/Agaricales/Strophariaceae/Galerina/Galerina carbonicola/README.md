@@ -1,5 +1,4 @@
-Galerina carbonicola A.H. Sm. SPECIES
-=======
+# Galerina carbonicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

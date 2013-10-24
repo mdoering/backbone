@@ -1,5 +1,4 @@
-Helotium uvidulum P. Karst. SPECIES
-=======
+# Helotium uvidulum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

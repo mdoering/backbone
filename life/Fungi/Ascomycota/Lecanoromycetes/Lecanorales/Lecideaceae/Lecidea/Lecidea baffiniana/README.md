@@ -1,5 +1,4 @@
-Lecidea baffiniana H. Magn. SPECIES
-=======
+# Lecidea baffiniana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria endocrocea (Asahina) M. Satô SPECIES
-=======
+# Cetraria endocrocea (Asahina) M. Satô SPECIES
 
 #### Status
 ACCEPTED

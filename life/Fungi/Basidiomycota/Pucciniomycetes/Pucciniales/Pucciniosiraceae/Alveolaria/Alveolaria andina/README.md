@@ -1,5 +1,4 @@
-Alveolaria andina Lagerh., 1891 SPECIES
-=======
+# Alveolaria andina Lagerh., 1891 SPECIES
 
 #### Status
 ACCEPTED

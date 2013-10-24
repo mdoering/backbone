@@ -1,5 +1,4 @@
-Ocellularia krempelhuberi Zahlbr. SPECIES
-=======
+# Ocellularia krempelhuberi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

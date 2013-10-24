@@ -1,5 +1,4 @@
-Periola cerasicola Speg. SPECIES
-=======
+# Periola cerasicola Speg. SPECIES
 
 #### Status
 ACCEPTED

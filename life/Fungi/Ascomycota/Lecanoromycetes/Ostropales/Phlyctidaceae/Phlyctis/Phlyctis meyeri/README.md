@@ -1,5 +1,4 @@
-Phlyctis meyeri Stein SPECIES
-=======
+# Phlyctis meyeri Stein SPECIES
 
 #### Status
 ACCEPTED

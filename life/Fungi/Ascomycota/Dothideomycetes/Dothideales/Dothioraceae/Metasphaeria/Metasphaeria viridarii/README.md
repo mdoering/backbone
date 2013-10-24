@@ -1,5 +1,4 @@
-Metasphaeria viridarii Sacc. SPECIES
-=======
+# Metasphaeria viridarii Sacc. SPECIES
 
 #### Status
 ACCEPTED

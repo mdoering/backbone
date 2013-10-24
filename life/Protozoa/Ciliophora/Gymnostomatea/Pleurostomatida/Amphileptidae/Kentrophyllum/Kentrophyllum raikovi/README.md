@@ -1,8 +1,7 @@
-Loxophyllum raikovi Dragesco, 1965 SPECIES
-=======
+# Kentrophyllum raikovi (Dragesco, 1965) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

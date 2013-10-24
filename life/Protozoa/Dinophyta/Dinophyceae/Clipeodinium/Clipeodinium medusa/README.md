@@ -1,5 +1,4 @@
-Clipeodinium medusa Pascher SPECIES
-=======
+# Clipeodinium medusa Pascher SPECIES
 
 #### Status
 ACCEPTED

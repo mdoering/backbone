@@ -1,5 +1,4 @@
-Pseudophacidium philadelphi (Niessl) Rehm SPECIES
-=======
+# Pseudophacidium philadelphi (Niessl) Rehm SPECIES
 
 #### Status
 ACCEPTED

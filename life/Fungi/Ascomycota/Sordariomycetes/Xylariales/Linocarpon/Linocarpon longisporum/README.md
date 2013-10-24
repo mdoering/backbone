@@ -1,5 +1,4 @@
-Linocarpon longisporum K.D. Hyde, 1992 SPECIES
-=======
+# Linocarpon longisporum K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

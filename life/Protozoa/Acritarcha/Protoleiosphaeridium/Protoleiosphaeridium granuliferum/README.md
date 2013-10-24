@@ -1,5 +1,4 @@
-Protoleiosphaeridium granuliferum (Viswanathiah et al., 1980) Fensome et al. SPECIES
-=======
+# Protoleiosphaeridium granuliferum (Viswanathiah et al., 1980) Fensome et al. SPECIES
 
 #### Status
 ACCEPTED

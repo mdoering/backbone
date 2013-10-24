@@ -1,5 +1,4 @@
-Baltisphaeridium tesakovii Timofeev, 1963 SPECIES
-=======
+# Baltisphaeridium tesakovii Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

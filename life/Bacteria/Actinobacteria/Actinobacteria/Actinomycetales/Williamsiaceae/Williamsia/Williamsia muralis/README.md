@@ -1,5 +1,4 @@
-Williamsia muralis Kämpfer et al., 1999 SPECIES
-=======
+# Williamsia muralis Kämpfer et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

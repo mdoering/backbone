@@ -1,5 +1,4 @@
-Polystictus suboccidentalis Sacc. & P. Syd. SPECIES
-=======
+# Polystictus suboccidentalis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

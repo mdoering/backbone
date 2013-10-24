@@ -1,5 +1,4 @@
-Bulliardella baccarinii Paoli SPECIES
-=======
+# Bulliardella baccarinii Paoli SPECIES
 
 #### Status
 ACCEPTED

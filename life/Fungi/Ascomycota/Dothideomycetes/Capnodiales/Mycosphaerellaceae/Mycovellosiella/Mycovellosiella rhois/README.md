@@ -1,5 +1,4 @@
-Mycovellosiella rhois Goh & W.H. Hsieh SPECIES
-=======
+# Mycovellosiella rhois Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

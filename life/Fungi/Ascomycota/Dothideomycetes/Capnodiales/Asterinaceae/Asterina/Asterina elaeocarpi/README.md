@@ -1,5 +1,4 @@
-Asterina elaeocarpi var. elaeocarpi VARIETY
-=======
+# Asterina elaeocarpi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Leafl. of Philipp. Bot. 4: 1156 (1911)
 
 #### Original name
-Asterina elaeocarpi var. elaeocarpi
+Asterina elaeocarpi Syd. & P. Syd.
 
 ### Remarks
 null

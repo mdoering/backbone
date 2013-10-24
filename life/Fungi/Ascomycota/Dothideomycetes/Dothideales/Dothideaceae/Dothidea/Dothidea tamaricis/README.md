@@ -1,5 +1,4 @@
-Dothidea tamaricis Cooke SPECIES
-=======
+# Dothidea tamaricis Cooke SPECIES
 
 #### Status
 ACCEPTED

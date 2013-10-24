@@ -1,5 +1,4 @@
-Diplodia cladrastidis Syd. & P. Syd. SPECIES
-=======
+# Diplodia cladrastidis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

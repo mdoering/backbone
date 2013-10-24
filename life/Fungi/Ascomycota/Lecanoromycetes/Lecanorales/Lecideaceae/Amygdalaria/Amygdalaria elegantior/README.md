@@ -1,5 +1,4 @@
-Amygdalaria elegantior (H. Magn.) Hertel & Brodo SPECIES
-=======
+# Amygdalaria elegantior (H. Magn.) Hertel & Brodo SPECIES
 
 #### Status
 ACCEPTED

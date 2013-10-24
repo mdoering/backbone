@@ -1,5 +1,4 @@
-Pleurotus cystidifer Velen. SPECIES
-=======
+# Pleurotus cystidifer Velen. SPECIES
 
 #### Status
 ACCEPTED

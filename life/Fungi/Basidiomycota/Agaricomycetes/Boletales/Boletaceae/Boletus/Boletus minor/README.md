@@ -1,5 +1,4 @@
-Boletus minor (Singer) Murrill SPECIES
-=======
+# Boletus minor (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

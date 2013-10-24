@@ -1,5 +1,4 @@
-Xylodon paleaceus (Thore) Kuntze SPECIES
-=======
+# Xylodon paleaceus (Thore) Kuntze SPECIES
 
 #### Status
 ACCEPTED

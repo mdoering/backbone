@@ -1,5 +1,4 @@
-Cyptotrama macrobasidium Singer, 1960 SPECIES
-=======
+# Cyptotrama macrobasidium Singer, 1960 SPECIES
 
 #### Status
 ACCEPTED

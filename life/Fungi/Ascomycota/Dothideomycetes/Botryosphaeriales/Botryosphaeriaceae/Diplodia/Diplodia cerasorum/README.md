@@ -1,5 +1,4 @@
-Diplodia cerasorum var. cerasorum VARIETY
-=======
+# Diplodia cerasorum Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 154 (1870)
 
 #### Original name
-Diplodia cerasorum var. cerasorum
+Diplodia cerasorum Fuckel
 
 ### Remarks
 null

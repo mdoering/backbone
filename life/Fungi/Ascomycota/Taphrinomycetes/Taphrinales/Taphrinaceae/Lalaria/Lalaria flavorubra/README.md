@@ -1,5 +1,4 @@
-Lalaria flavorubra R.T. Moore SPECIES
-=======
+# Lalaria flavorubra R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

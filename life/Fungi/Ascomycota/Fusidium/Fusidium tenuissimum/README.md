@@ -1,5 +1,4 @@
-Fusidium tenuissimum Schwein. SPECIES
-=======
+# Fusidium tenuissimum Schwein. SPECIES
 
 #### Status
 ACCEPTED

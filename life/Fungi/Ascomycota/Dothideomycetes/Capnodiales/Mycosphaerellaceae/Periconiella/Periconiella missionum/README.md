@@ -1,5 +1,4 @@
-Periconiella missionum Speg. SPECIES
-=======
+# Periconiella missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

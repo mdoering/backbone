@@ -1,5 +1,4 @@
-Sphacelotheca pappophori (Pat.) Zundel SPECIES
-=======
+# Sphacelotheca pappophori (Pat.) Zundel SPECIES
 
 #### Status
 ACCEPTED

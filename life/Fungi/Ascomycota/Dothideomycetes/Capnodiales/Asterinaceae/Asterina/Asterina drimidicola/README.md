@@ -1,5 +1,4 @@
-Asterina drimidicola Hansf. SPECIES
-=======
+# Asterina drimidicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

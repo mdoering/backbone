@@ -1,5 +1,4 @@
-Asterina recisa Syd. SPECIES
-=======
+# Asterina recisa Syd. SPECIES
 
 #### Status
 ACCEPTED

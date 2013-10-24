@@ -1,17 +1,16 @@
-Graphis lecanographa Nyl. SPECIES
-=======
+# Phaeographis lecanographa (Nyl.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 334 (2002)
 
 #### Original name
-null
+Graphis lecanographa Nyl.
 
 ### Remarks
 null

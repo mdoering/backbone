@@ -1,5 +1,4 @@
-Aspicilia broteriana (Tav.) SPECIES
-=======
+# Aspicilia broteriana (Tav.) SPECIES
 
 #### Status
 ACCEPTED

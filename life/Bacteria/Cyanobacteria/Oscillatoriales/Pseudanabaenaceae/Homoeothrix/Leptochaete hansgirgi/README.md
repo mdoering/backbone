@@ -1,5 +1,4 @@
-Leptochaete hansgirgi Schmidle SPECIES
-=======
+# Leptochaete hansgirgi Schmidle SPECIES
 
 #### Status
 DOUBTFUL

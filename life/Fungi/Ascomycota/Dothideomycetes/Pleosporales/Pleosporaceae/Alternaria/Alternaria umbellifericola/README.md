@@ -1,5 +1,4 @@
-Alternaria umbellifericola Ragunath SPECIES
-=======
+# Alternaria umbellifericola Ragunath SPECIES
 
 #### Status
 ACCEPTED

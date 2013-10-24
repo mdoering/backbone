@@ -1,5 +1,4 @@
-Sigmomorphina borealis Saidova, 1975 SPECIES
-=======
+# Sigmomorphina borealis Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

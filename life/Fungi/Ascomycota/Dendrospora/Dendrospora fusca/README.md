@@ -1,5 +1,4 @@
-Dendrospora fusca Descals & J. Webster, 1980 SPECIES
-=======
+# Dendrospora fusca Descals & J. Webster, 1980 SPECIES
 
 #### Status
 ACCEPTED

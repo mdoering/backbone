@@ -1,5 +1,4 @@
-Bacidia trichospora (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia trichospora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

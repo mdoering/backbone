@@ -1,5 +1,4 @@
-Heppia antarctica C.W. Dodge SPECIES
-=======
+# Heppia antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

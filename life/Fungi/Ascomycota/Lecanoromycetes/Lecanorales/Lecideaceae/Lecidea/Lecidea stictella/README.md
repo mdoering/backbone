@@ -1,5 +1,4 @@
-Lecidea stictella Stirt. SPECIES
-=======
+# Lecidea stictella Stirt. SPECIES
 
 #### Status
 ACCEPTED

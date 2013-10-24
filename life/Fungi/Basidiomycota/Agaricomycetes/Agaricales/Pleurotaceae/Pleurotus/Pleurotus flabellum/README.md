@@ -1,5 +1,4 @@
-Pleurotus flabellum Berk. SPECIES
-=======
+# Pleurotus flabellum Berk. SPECIES
 
 #### Status
 ACCEPTED

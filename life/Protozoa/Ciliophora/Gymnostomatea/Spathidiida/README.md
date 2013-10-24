@@ -1,5 +1,4 @@
-Spathidiida ORDER
-=======
+# Spathidiida ORDER
 
 #### Status
 ACCEPTED

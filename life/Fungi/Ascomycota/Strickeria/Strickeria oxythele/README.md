@@ -1,5 +1,4 @@
-Strickeria oxythele (Brunaud & Sacc.) Kuntze SPECIES
-=======
+# Strickeria oxythele (Brunaud & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeroides GENUS
-=======
+# Sphaerodes Clements, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. fung. (Minneapolis) 44, 173 (1909)
 
 #### Original name
-null
+Sphaerodes Clements, 1909
 
 ### Remarks
 null

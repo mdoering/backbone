@@ -1,5 +1,4 @@
-Camarosporium patagonicum Speg. SPECIES
-=======
+# Camarosporium patagonicum Speg. SPECIES
 
 #### Status
 ACCEPTED

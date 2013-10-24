@@ -1,17 +1,16 @@
-Sphaeria taylori Berk. SPECIES
-=======
+# Sphaeria taylorii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. 2: 209 (1843)
 
 #### Original name
-Sphaeria taylori Berk.
+Sphaeria taylorii Berk.
 
 ### Remarks
 null

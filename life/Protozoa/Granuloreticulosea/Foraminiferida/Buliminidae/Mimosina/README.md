@@ -1,5 +1,4 @@
-Mimosina Millett, 1900 GENUS
-=======
+# Mimosina Millett, 1900 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entyloma mundkuri M.S. Patil & Gandhe SPECIES
-=======
+# Entyloma mundkurii M.S. Patil & Gandhe, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gandhe, Indian Phytopath. 50(3): 426 (1997)
 
 #### Original name
-Entyloma mundkuri M.S. Patil & Gandhe
+Entyloma mundkurii M.S. Patil & Gandhe, 1997
 
 ### Remarks
 null

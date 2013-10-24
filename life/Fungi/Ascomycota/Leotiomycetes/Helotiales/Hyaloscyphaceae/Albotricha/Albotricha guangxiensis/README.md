@@ -1,5 +1,4 @@
-Albotricha guangxiensis W.Y. Zhuang SPECIES
-=======
+# Albotricha guangxiensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium socium (Plowr.) Sacc. SPECIES
-=======
+# Penicillium socium (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

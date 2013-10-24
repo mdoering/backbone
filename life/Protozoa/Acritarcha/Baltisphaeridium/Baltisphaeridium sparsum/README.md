@@ -1,5 +1,4 @@
-Baltisphaeridium sparsum Drugg, 1967 SPECIES
-=======
+# Baltisphaeridium sparsum Drugg, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas annulata (K. Harris & W.H. Bradley) K. Harris SPECIES
-=======
+# Mallomonas annulata (K. Harris & W.H. Bradley) K. Harris SPECIES
 
 #### Status
 ACCEPTED

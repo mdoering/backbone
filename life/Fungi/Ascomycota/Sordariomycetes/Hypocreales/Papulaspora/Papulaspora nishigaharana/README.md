@@ -1,17 +1,16 @@
-Papulaspora nishigaharanas Ts. Watan. SPECIES
-=======
+# Papulaspora nishigaharana Ts. Watan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 83(4): 527 (1991)
 
 #### Original name
-Papulaspora nishigaharanas Ts. Watan.
+Papulaspora nishigaharana Ts. Watan.
 
 ### Remarks
 null

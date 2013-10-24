@@ -1,5 +1,4 @@
-Xylaria bonii Pat. SPECIES
-=======
+# Xylaria bonii Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiopyla hatchi Stokes, 1891 SPECIES
-=======
+# Plagiopyla hatchi Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

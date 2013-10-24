@@ -1,5 +1,4 @@
-Dyadosporonites didymus Sheffy & Dilcher SPECIES
-=======
+# Dyadosporonites didymus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

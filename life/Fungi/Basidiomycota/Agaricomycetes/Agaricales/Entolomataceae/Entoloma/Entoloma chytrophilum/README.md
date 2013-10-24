@@ -1,5 +1,4 @@
-Entoloma chytrophilum Wölfel, Noordel. & Dähncke SPECIES
-=======
+# Entoloma chytrophilum Wölfel, Noordel. & Dähncke SPECIES
 
 #### Status
 ACCEPTED

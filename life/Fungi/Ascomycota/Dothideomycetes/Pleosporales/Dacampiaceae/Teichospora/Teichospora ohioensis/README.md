@@ -1,8 +1,7 @@
-Teichospora ohiensis Ellis & Everh. SPECIES
-=======
+# Teichospora ohioensis Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teichospora ohiensis Ellis & Everh.
+Teichospora ohioensis Ellis & Everh.
 
 ### Remarks
 null

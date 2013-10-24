@@ -1,5 +1,4 @@
-Micropeltella wildemanii (Beeli) Bat. SPECIES
-=======
+# Micropeltella wildemanii (Beeli) Bat. SPECIES
 
 #### Status
 ACCEPTED

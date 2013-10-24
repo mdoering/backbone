@@ -1,5 +1,4 @@
-Ascocodinaea stereicola Samuels, Cand. & Magni, 1997 SPECIES
-=======
+# Ascocodinaea stereicola Samuels, Cand. & Magni, 1997 SPECIES
 
 #### Status
 ACCEPTED

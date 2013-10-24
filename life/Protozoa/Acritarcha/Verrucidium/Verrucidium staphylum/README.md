@@ -1,5 +1,4 @@
-Verrucidium staphylum Habib & Knapp, 1982 SPECIES
-=======
+# Verrucidium staphylum Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium coloradense (Dietel) Arthur & F. Kern SPECIES
-=======
+# Peridermium coloradense (Dietel) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

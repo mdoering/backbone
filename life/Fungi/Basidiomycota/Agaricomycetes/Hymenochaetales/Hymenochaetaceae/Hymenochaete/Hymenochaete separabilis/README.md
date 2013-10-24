@@ -1,5 +1,4 @@
-Hymenochaete separabilis J.C. Léger, 1981 SPECIES
-=======
+# Hymenochaete separabilis J.C. Léger, 1981 SPECIES
 
 #### Status
 ACCEPTED

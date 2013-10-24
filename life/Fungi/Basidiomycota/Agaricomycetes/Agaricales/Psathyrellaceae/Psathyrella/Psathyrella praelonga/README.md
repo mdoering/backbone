@@ -1,5 +1,4 @@
-Psathyrella praelonga A. Pearson SPECIES
-=======
+# Psathyrella praelonga A. Pearson SPECIES
 
 #### Status
 ACCEPTED

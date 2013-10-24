@@ -1,5 +1,4 @@
-Paramphisiella Foissner, 1988 GENUS
-=======
+# Paramphisiella Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

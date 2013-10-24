@@ -1,5 +1,4 @@
-Tubercularia dubia Link SPECIES
-=======
+# Tubercularia dubia Link SPECIES
 
 #### Status
 ACCEPTED

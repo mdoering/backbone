@@ -1,5 +1,4 @@
-Rhizoctonia muneratii E. Castell., 1936 SPECIES
-=======
+# Rhizoctonia muneratii E. Castell., 1936 SPECIES
 
 #### Status
 ACCEPTED

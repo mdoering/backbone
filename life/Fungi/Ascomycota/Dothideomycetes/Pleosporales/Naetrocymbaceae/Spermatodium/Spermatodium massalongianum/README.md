@@ -1,5 +1,4 @@
-Spermatodium massalongianum (Hepp) Trevis. SPECIES
-=======
+# Spermatodium massalongianum (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

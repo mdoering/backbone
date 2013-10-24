@@ -1,5 +1,4 @@
-Pestalotia quercicola Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Pestalotia quercicola Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

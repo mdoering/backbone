@@ -1,5 +1,4 @@
-Helvella favrei Quél. SPECIES
-=======
+# Helvella favrei Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Involucrothele pyrenophorella Servít SPECIES
-=======
+# Involucrothele pyrenophorella Servít SPECIES
 
 #### Status
 ACCEPTED

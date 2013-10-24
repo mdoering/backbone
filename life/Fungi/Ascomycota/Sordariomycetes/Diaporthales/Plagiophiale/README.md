@@ -1,5 +1,4 @@
-Plagiophiale Petr. GENUS
-=======
+# Plagiophiale Petr. GENUS
 
 #### Status
 ACCEPTED

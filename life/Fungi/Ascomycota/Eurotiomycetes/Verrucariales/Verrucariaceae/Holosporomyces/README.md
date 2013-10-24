@@ -1,5 +1,4 @@
-Holosporomyces GENUS
-=======
+# Holosporomyces GENUS
 
 #### Status
 ACCEPTED

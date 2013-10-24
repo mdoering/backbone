@@ -1,14 +1,13 @@
-Caeoma callianthum Syd., 1937 SPECIES
-=======
+# Elateraecium callianthum (Syd.) Gjaerum & D.A. Reid, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 257 (1937)
+Trans. Br. mycol. Soc. 81(3): 653 (1983)
 
 #### Original name
 Caeoma callianthum Syd., 1937

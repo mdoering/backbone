@@ -1,5 +1,4 @@
-Microthelia permutata (Sacc.) Kuntze SPECIES
-=======
+# Microthelia permutata (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

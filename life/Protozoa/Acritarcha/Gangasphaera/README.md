@@ -1,5 +1,4 @@
-Gangasphaera Prasad & Asher, 2001 GENUS
-=======
+# Gangasphaera Prasad & Asher, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea enteroleuca-aeruginea SPECIES
-=======
+# Lecidea enteroleuca-aeruginea SPECIES
 
 #### Status
 ACCEPTED

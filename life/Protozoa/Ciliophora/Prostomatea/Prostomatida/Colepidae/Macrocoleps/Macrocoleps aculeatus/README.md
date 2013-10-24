@@ -1,5 +1,4 @@
-Macrocoleps aculeatus SPECIES
-=======
+# Macrocoleps aculeatus SPECIES
 
 #### Status
 ACCEPTED

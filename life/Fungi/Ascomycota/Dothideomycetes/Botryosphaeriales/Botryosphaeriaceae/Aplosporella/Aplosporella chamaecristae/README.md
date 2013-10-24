@@ -1,5 +1,4 @@
-Aplosporella chamaecristae Petr. SPECIES
-=======
+# Aplosporella chamaecristae Petr. SPECIES
 
 #### Status
 ACCEPTED

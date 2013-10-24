@@ -1,5 +1,4 @@
-Hysterium wallrothii Duby, 1862 SPECIES
-=======
+# Hysterium wallrothii Duby, 1862 SPECIES
 
 #### Status
 ACCEPTED

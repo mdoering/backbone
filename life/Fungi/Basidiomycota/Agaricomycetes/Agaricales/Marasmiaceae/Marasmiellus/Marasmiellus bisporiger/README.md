@@ -1,5 +1,4 @@
-Marasmiellus bisporiger Singer SPECIES
-=======
+# Marasmiellus bisporiger Singer SPECIES
 
 #### Status
 ACCEPTED

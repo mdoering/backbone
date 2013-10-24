@@ -1,17 +1,16 @@
-Dematoidium Stautz GENUS
-=======
+# Aureobasidium Viala & G. Boyer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopath. Z. 3: 204 (1931)
+Rev. gén. Bot. 3: 371 (1891)
 
 #### Original name
-Dematoidium Stautz
+Aureobasidium Viala & G. Boyer
 
 ### Remarks
 null

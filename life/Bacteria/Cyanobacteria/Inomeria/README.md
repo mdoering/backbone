@@ -1,5 +1,4 @@
-Inomeria Kützing, 1845 GENUS
-=======
+# Inomeria Kützing, 1845 GENUS
 
 #### Status
 ACCEPTED

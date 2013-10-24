@@ -1,5 +1,4 @@
-Exosporium indicum Tilak SPECIES
-=======
+# Exosporium indicum Tilak SPECIES
 
 #### Status
 ACCEPTED

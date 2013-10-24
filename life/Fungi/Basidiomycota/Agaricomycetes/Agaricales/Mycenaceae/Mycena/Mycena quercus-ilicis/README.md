@@ -1,5 +1,4 @@
-Mycena quercus-ilicis var. quercus-ilicis VARIETY
-=======
+# Mycena quercus-ilicis Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Encyclop. Mycol. 10: 260 (1938)
 
 #### Original name
-Mycena quercus-ilicis var. quercus-ilicis
+Mycena quercus-ilicis Kühner
 
 ### Remarks
 null

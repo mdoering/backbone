@@ -1,5 +1,4 @@
-Caloplaca olivacea (A. Massal.) Jatta SPECIES
-=======
+# Caloplaca olivacea (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

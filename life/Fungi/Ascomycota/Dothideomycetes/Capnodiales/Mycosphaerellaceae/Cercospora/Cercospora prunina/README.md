@@ -1,5 +1,4 @@
-Cercospora prunina J.M. Yen, 1978 SPECIES
-=======
+# Cercospora prunina J.M. Yen, 1978 SPECIES
 
 #### Status
 ACCEPTED

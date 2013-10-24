@@ -1,8 +1,7 @@
-Repetobasidium americanum var. americanum J. Erikss. & Hjortstam, 1981 VARIETY
-=======
+# Repetobasidium americanum J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1251 (1981)
 
 #### Original name
-Repetobasidium americanum var. americanum J. Erikss. & Hjortstam, 1981
+Repetobasidium americanum J. Erikss. & Hjortstam, 1981
 
 ### Remarks
 null

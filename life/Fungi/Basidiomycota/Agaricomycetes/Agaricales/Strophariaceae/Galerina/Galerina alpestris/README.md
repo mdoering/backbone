@@ -1,5 +1,4 @@
-Galerina alpestris Singer SPECIES
-=======
+# Galerina alpestris Singer SPECIES
 
 #### Status
 ACCEPTED

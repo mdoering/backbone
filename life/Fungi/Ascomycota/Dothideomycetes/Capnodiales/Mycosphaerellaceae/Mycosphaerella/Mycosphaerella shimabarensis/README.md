@@ -1,5 +1,4 @@
-Mycosphaerella shimabarensis Masako Inoue, Tak. Matsumoto, N. Furuya H.C. Evans & P.F. Cannon SPECIES
-=======
+# Mycosphaerella shimabarensis Masako Inoue, Tak. Matsumoto, N. Furuya H.C. Evans & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

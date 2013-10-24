@@ -1,5 +1,4 @@
-Lecanora leproscens Sandst. SPECIES
-=======
+# Lecanora leproscens Sandst. SPECIES
 
 #### Status
 ACCEPTED

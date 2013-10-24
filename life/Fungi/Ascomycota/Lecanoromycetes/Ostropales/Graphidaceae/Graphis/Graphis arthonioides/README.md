@@ -1,5 +1,4 @@
-Graphis arthonioides Vain. SPECIES
-=======
+# Graphis arthonioides Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merisma guadelupense Lév. SPECIES
-=======
+# Merisma guadelupense Lév. SPECIES
 
 #### Status
 ACCEPTED

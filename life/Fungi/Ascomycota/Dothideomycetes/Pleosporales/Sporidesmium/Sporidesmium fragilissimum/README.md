@@ -1,17 +1,16 @@
-Helmisporium fragilissimum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium fragilissimum (Berk. & M.A. Curtis) M.B. Ellis, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 70: 55 (1958)
 
 #### Original name
-Helmisporium fragilissimum Berk. & M.A. Curtis
+Helminthosporium fragilissimum Berk. & M.A. Curtis, 1875
 
 ### Remarks
 null

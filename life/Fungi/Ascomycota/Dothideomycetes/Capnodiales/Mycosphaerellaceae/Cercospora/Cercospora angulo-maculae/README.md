@@ -1,5 +1,4 @@
-Cercospora angulo-maculae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora angulo-maculae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

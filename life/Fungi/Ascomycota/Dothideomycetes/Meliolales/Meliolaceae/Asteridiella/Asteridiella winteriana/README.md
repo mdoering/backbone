@@ -1,5 +1,4 @@
-Asteridiella winteriana (Pazschke) SPECIES
-=======
+# Asteridiella winteriana (Pazschke) SPECIES
 
 #### Status
 ACCEPTED

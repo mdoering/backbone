@@ -1,5 +1,4 @@
-Mycena filopus J.E. Lange SPECIES
-=======
+# Mycena filopus J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

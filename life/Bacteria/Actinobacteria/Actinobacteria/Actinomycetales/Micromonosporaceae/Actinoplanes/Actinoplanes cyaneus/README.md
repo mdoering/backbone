@@ -1,5 +1,4 @@
-Actinoplanes cyaneus Terekhova et al., 1987 SPECIES
-=======
+# Actinoplanes cyaneus Terekhova et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

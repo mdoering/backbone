@@ -1,5 +1,4 @@
-Omphalia nigroconspersa Rick SPECIES
-=======
+# Omphalia nigroconspersa Rick SPECIES
 
 #### Status
 ACCEPTED

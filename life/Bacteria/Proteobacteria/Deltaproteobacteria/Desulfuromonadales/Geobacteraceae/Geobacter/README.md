@@ -1,5 +1,4 @@
-Geobacter Lovley, Giovannoni, White, Champine, Phillips, Gorby & Goodwin, 1995 GENUS
-=======
+# Geobacter Lovley, Giovannoni, White, Champine, Phillips, Gorby & Goodwin, 1995 GENUS
 
 #### Status
 ACCEPTED

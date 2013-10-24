@@ -1,5 +1,4 @@
-Leptosphaeria torulispora (Cooke) Sacc. SPECIES
-=======
+# Leptosphaeria torulispora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

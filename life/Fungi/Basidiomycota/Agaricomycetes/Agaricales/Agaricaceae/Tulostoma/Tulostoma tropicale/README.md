@@ -1,5 +1,4 @@
-Tulostoma tropicale Guzmán, Montoya & Bandala SPECIES
-=======
+# Tulostoma tropicale Guzmán, Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

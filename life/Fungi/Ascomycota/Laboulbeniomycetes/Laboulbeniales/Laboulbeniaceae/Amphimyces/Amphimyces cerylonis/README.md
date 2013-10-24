@@ -1,5 +1,4 @@
-Amphimyces cerylonis Thaxt., 1931 SPECIES
-=======
+# Amphimyces cerylonis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papiliocampe Tekin, 1999 GENUS
-=======
+# Papiliocampe Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

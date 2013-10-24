@@ -1,5 +1,4 @@
-Tricholoma graveolens (Pers.) P. Kumm. SPECIES
-=======
+# Tricholoma graveolens (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

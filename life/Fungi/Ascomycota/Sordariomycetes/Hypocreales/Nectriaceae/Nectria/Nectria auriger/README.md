@@ -1,5 +1,4 @@
-Nectria auriger var. auriger Berk. & Ravenel VARIETY
-=======
+# Nectria auriger Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 30): 46 (1875)
 
 #### Original name
-Nectria auriger var. auriger Berk. & Ravenel
+Nectria auriger Berk. & Ravenel
 
 ### Remarks
 null

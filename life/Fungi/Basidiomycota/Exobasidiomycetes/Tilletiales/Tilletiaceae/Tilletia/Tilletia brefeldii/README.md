@@ -1,5 +1,4 @@
-Tilletia brefeldii Vánky, 2004 SPECIES
-=======
+# Tilletia brefeldii Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

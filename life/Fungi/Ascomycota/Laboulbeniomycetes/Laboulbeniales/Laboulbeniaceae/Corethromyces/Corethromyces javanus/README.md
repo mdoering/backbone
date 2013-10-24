@@ -1,5 +1,4 @@
-Corethromyces javanus Thaxt. SPECIES
-=======
+# Corethromyces javanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

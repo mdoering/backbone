@@ -1,5 +1,4 @@
-Buliminella apiculata (Chapman) SPECIES
-=======
+# Buliminella apiculata (Chapman) SPECIES
 
 #### Status
 ACCEPTED

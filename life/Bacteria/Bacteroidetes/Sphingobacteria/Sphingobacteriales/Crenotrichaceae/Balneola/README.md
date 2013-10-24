@@ -1,5 +1,4 @@
-Balneola Urios, Agogue, Lesongeur, Stackebrandt & Lebaron, 2006 GENUS
-=======
+# Balneola Urios, Agogue, Lesongeur, Stackebrandt & Lebaron, 2006 GENUS
 
 #### Status
 ACCEPTED

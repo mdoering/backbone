@@ -1,5 +1,4 @@
-Meliola yuanjiangensis G.Z. Jiang SPECIES
-=======
+# Meliola yuanjiangensis G.Z. Jiang SPECIES
 
 #### Status
 ACCEPTED

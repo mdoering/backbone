@@ -1,5 +1,4 @@
-Miliolinella temeii Huang SPECIES
-=======
+# Miliolinella temeii Huang SPECIES
 
 #### Status
 ACCEPTED

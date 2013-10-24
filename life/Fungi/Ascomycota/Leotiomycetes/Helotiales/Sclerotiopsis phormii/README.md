@@ -1,5 +1,4 @@
-Sclerotiopsis phormii J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Sclerotiopsis phormii J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

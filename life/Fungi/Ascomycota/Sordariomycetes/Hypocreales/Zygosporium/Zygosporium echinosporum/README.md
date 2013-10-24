@@ -1,5 +1,4 @@
-Zygosporium echinosporum Bunting & E.W. Mason, 1941 SPECIES
-=======
+# Zygosporium echinosporum Bunting & E.W. Mason, 1941 SPECIES
 
 #### Status
 ACCEPTED

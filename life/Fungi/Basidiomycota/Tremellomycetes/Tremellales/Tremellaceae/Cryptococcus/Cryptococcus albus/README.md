@@ -1,5 +1,4 @@
-Cryptococcus albus (Queyrat & Laroche) Castell. & Chalm. SPECIES
-=======
+# Cryptococcus albus (Queyrat & Laroche) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

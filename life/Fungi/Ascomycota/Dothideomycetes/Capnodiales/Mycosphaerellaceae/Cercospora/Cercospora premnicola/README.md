@@ -1,17 +1,16 @@
-Cercospora premniicola D.N. Shukla, A.K. Singh, P. Kumar & Kamal SPECIES
-=======
+# Cercospora premnicola Boedijn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 35(1): 89 (1982)
 
 #### Original name
-Cercospora premniicola D.N. Shukla, A.K. Singh, P. Kumar & Kamal
+Cercospora premnicola Boedijn
 
 ### Remarks
 null

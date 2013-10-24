@@ -1,5 +1,4 @@
-Xerocomus persicolor H. Engel, Klofac, H. Grünert & R. Grünert SPECIES
-=======
+# Xerocomus persicolor H. Engel, Klofac, H. Grünert & R. Grünert SPECIES
 
 #### Status
 ACCEPTED

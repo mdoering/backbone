@@ -1,5 +1,4 @@
-Mycena omphalophora Singer SPECIES
-=======
+# Mycena omphalophora Singer SPECIES
 
 #### Status
 ACCEPTED

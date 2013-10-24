@@ -1,17 +1,16 @@
-Umbilicaria pustulata f. pustulata FORM
-=======
+# Lasallia pustulata (L.) Mérat SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nouv. Fl. Environs Paris, Edn 2 1: 202 (1821)
 
 #### Original name
-Umbilicaria pustulata f. pustulata
+Lichen pustulatus L.
 
 ### Remarks
 null

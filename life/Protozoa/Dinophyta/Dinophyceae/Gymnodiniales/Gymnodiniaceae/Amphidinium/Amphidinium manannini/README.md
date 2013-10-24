@@ -1,5 +1,4 @@
-Amphidinium manannini Herdman SPECIES
-=======
+# Amphidinium manannini Herdman SPECIES
 
 #### Status
 ACCEPTED

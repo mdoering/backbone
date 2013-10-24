@@ -1,5 +1,4 @@
-Diplodia bombacina S. Ahmad SPECIES
-=======
+# Diplodia bombacina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

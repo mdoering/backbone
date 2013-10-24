@@ -1,5 +1,4 @@
-Buellia dubenii (Fr.) Hellb. SPECIES
-=======
+# Buellia dubenii (Fr.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

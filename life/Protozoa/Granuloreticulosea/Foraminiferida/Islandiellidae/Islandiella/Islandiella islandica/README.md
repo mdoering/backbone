@@ -1,5 +1,4 @@
-Islandiella islandica (Norvang, 1945) SPECIES
-=======
+# Islandiella islandica (Norvang, 1945) SPECIES
 
 #### Status
 ACCEPTED

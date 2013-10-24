@@ -1,5 +1,4 @@
-Fusisporium andropogonis Cooke ex Thüm. SPECIES
-=======
+# Fusisporium andropogonis Cooke ex Thüm. SPECIES
 
 #### Status
 ACCEPTED

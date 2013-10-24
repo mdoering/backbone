@@ -1,17 +1,16 @@
-Melanoleuca cinereifolia var. cinereifolia (Bon) Bon VARIETY
-=======
+# Melanoleuca cinereifolia (Bon) Bon, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Docums Mycol. 9(no. 33): 71 (1978)
 
 #### Original name
-Melanoleuca cinereifolia var. cinereifolia (Bon) Bon
+Melanoleuca strictipes var. cinereifolia Bon, 1970
 
 ### Remarks
 null

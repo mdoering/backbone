@@ -1,5 +1,4 @@
-Asterina microspora W. Yamam. SPECIES
-=======
+# Asterina microspora W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis velutipes G. Stev. SPECIES
-=======
+# Crinipellis velutipes G. Stev. SPECIES
 
 #### Status
 ACCEPTED

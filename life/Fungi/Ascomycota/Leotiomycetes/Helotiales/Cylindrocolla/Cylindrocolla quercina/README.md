@@ -1,5 +1,4 @@
-Cylindrocolla quercina Cooke & Ellis SPECIES
-=======
+# Cylindrocolla quercina Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

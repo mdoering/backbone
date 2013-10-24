@@ -1,5 +1,4 @@
-Boletus aureus var. aureus VARIETY
-=======
+# Boletus aureus Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fung. Bavar. Palat. 4: 82 (1774)
 
 #### Original name
-Boletus aureus var. aureus
+Boletus aureus Schaeff.
 
 ### Remarks
 null

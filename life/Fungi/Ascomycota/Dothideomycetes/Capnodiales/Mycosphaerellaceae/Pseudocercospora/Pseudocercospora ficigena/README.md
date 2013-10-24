@@ -1,5 +1,4 @@
-Pseudocercospora ficigena U. Braun SPECIES
-=======
+# Pseudocercospora ficigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

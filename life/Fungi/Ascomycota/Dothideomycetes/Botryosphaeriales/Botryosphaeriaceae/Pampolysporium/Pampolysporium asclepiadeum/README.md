@@ -1,5 +1,4 @@
-Pampolysporium asclepiadeum (Bonar) M. Monod SPECIES
-=======
+# Pampolysporium asclepiadeum (Bonar) M. Monod SPECIES
 
 #### Status
 ACCEPTED

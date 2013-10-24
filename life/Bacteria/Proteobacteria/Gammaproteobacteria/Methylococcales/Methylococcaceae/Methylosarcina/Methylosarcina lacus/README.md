@@ -1,5 +1,4 @@
-Methylosarcina lacus Kalyuzhnaya et al., 2005 SPECIES
-=======
+# Methylosarcina lacus Kalyuzhnaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

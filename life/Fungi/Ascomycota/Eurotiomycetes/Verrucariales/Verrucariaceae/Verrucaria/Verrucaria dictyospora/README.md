@@ -1,5 +1,4 @@
-Verrucaria dictyospora Stizenb. SPECIES
-=======
+# Verrucaria dictyospora Stizenb. SPECIES
 
 #### Status
 ACCEPTED

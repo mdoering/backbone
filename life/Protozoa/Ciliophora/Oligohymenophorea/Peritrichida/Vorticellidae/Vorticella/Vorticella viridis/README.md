@@ -1,5 +1,4 @@
-Vorticella viridis Muller, 1773 SPECIES
-=======
+# Vorticella viridis Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

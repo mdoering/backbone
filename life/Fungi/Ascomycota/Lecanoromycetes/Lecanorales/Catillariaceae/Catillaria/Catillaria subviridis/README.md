@@ -1,14 +1,13 @@
-Lecidea subviridis Nyl. SPECIES
-=======
+# Catillaria subviridis (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 56: 297 (1873)
+Cat. Lich. Univers. 4: 75 (1926)
 
 #### Original name
 Lecidea subviridis Nyl.

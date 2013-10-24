@@ -1,5 +1,4 @@
-Uromyces aemulans SPECIES
-=======
+# Uromyces aemulans SPECIES
 
 #### Status
 ACCEPTED

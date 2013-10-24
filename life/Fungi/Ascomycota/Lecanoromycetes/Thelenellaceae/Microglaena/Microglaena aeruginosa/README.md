@@ -1,5 +1,4 @@
-Microglaena aeruginosa (Vain.) Zahlbr. SPECIES
-=======
+# Microglaena aeruginosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

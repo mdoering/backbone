@@ -1,5 +1,4 @@
-Meliola strychnicoia anon. SPECIES
-=======
+# Meliola strychnicoia anon. SPECIES
 
 #### Status
 ACCEPTED

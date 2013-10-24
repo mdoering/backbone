@@ -1,5 +1,4 @@
-Xanthoria whinrayi S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria whinrayi S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coralibacter Mitra, Haga, Matsuo, Yasumoto-Hirose, Kasai & Yokota, 2008 GENUS
-=======
+# Coralibacter Mitra, Haga, Matsuo, Yasumoto-Hirose, Kasai & Yokota, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Mycena galericulata var. albida Gillet VARIETY
-=======
+# Mycena galericulata (Scop.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

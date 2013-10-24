@@ -1,5 +1,4 @@
-Pseudocercosporella astragali (Rostr.) U. Braun SPECIES
-=======
+# Pseudocercosporella astragali (Rostr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

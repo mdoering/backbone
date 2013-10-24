@@ -1,5 +1,4 @@
-Sporidesmium minigelatinosum Matsush. SPECIES
-=======
+# Sporidesmium minigelatinosum Matsush. SPECIES
 
 #### Status
 ACCEPTED

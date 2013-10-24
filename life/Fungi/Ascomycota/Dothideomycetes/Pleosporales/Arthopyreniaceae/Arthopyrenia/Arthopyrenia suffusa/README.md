@@ -1,5 +1,4 @@
-Arthopyrenia suffusa (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthopyrenia suffusa (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

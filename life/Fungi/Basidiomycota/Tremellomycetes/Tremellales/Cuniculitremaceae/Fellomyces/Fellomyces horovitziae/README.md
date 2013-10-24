@@ -1,5 +1,4 @@
-Fellomyces horovitziae Spaaij, G. Weber & Oberw. SPECIES
-=======
+# Fellomyces horovitziae Spaaij, G. Weber & Oberw. SPECIES
 
 #### Status
 ACCEPTED

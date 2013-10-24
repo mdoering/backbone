@@ -1,5 +1,4 @@
-Cyclotella exigua H. Håkansson SPECIES
-=======
+# Cyclotella exigua H. Håkansson SPECIES
 
 #### Status
 ACCEPTED

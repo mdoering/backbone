@@ -1,5 +1,4 @@
-Asteroma uvariae Lév. SPECIES
-=======
+# Asteroma uvariae Lév. SPECIES
 
 #### Status
 ACCEPTED

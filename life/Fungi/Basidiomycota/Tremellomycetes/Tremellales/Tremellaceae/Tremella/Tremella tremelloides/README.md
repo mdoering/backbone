@@ -1,5 +1,4 @@
-Tremella tremelloides (Berk.) Massee SPECIES
-=======
+# Tremella tremelloides (Berk.) Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lichenosphaeria lenormandi Bornet SPECIES
-=======
+# Lichenosphaeria lenormandii Bornet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 5 17: 101 (1873)
 
 #### Original name
-Lichenosphaeria lenormandi Bornet
+Lichenosphaeria lenormandii Bornet
 
 ### Remarks
 null

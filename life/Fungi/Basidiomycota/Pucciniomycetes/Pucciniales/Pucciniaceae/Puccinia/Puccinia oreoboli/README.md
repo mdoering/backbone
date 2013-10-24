@@ -1,5 +1,4 @@
-Puccinia oreoboli Cummins, 1941 SPECIES
-=======
+# Puccinia oreoboli Cummins, 1941 SPECIES
 
 #### Status
 ACCEPTED

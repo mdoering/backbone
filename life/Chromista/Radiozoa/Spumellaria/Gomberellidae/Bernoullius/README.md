@@ -1,5 +1,4 @@
-Bernoullius Baumgartner, 1984 GENUS
-=======
+# Bernoullius Baumgartner, 1984 GENUS
 
 #### Status
 ACCEPTED

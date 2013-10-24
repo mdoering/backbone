@@ -1,5 +1,4 @@
-Lecanora pirinensis Gyeln. SPECIES
-=======
+# Lecanora pirinensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

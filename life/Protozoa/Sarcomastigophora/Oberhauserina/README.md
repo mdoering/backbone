@@ -1,5 +1,4 @@
-Oberhauserina Fuchs, 1967 GENUS
-=======
+# Oberhauserina Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

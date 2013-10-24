@@ -1,5 +1,4 @@
-Thermosynechococcus Katoh, Itoh, Shen & Ikeuchi, 2001 GENUS
-=======
+# Thermosynechococcus Katoh, Itoh, Shen & Ikeuchi, 2001 GENUS
 
 #### Status
 ACCEPTED

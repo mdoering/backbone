@@ -1,5 +1,4 @@
-Stagonospora castaneae C. Massal. SPECIES
-=======
+# Stagonospora castaneae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

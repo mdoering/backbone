@@ -1,5 +1,4 @@
-Bhargavaella Sarj. Singh & K.S. Srivast. GENUS
-=======
+# Bhargavaella Sarj. Singh & K.S. Srivast. GENUS
 
 #### Status
 ACCEPTED

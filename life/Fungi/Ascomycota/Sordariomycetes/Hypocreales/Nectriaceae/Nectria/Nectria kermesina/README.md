@@ -1,5 +1,4 @@
-Nectria kermesina G.H. Otth SPECIES
-=======
+# Nectria kermesina G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

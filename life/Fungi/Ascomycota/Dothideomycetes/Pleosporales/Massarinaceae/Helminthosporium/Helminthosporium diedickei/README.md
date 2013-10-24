@@ -1,5 +1,4 @@
-Helminthosporium diedickei Magnus SPECIES
-=======
+# Helminthosporium diedickei Magnus SPECIES
 
 #### Status
 ACCEPTED

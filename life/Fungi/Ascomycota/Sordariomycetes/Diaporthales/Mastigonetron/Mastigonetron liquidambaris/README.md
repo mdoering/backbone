@@ -1,5 +1,4 @@
-Mastigonetron liquidambaris (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Mastigonetron liquidambaris (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

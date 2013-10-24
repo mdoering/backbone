@@ -1,5 +1,4 @@
-Anthracostroma Petr. GENUS
-=======
+# Anthracostroma Petr. GENUS
 
 #### Status
 ACCEPTED

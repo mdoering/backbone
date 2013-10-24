@@ -1,5 +1,4 @@
-Arualis Katz GENUS
-=======
+# Arualis Katz GENUS
 
 #### Status
 ACCEPTED

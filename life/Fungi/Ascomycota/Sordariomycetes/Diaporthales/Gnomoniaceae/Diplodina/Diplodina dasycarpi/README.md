@@ -1,5 +1,4 @@
-Diplodina dasycarpi Oudem. SPECIES
-=======
+# Diplodina dasycarpi Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granatisporites catinus Elsik & Janson. SPECIES
-=======
+# Granatisporites catinus Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

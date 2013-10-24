@@ -1,5 +1,4 @@
-Rosalina rugosa SPECIES
-=======
+# Rosalina rugosa SPECIES
 
 #### Status
 ACCEPTED

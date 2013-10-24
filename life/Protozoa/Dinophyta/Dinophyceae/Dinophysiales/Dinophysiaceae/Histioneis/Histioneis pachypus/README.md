@@ -1,8 +1,7 @@
-Parahistioneis varians Böhm, 1933 SPECIES
-=======
+# Histioneis pachypus Böhm, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

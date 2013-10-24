@@ -1,5 +1,4 @@
-Amphoromorpha blattina Thaxt. SPECIES
-=======
+# Amphoromorpha blattina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

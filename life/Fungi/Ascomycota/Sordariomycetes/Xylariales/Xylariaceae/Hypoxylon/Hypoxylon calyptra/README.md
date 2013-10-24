@@ -1,5 +1,4 @@
-Hypoxylon calyptra Bat. SPECIES
-=======
+# Hypoxylon calyptra Bat. SPECIES
 
 #### Status
 ACCEPTED

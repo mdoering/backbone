@@ -1,5 +1,4 @@
-Phyllosticta gardeniicola Sawada SPECIES
-=======
+# Phyllosticta gardeniicola Sawada SPECIES
 
 #### Status
 ACCEPTED

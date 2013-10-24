@@ -1,5 +1,4 @@
-Taeniophora K.W. Klement, 1960 GENUS
-=======
+# Taeniophora K.W. Klement, 1960 GENUS
 
 #### Status
 ACCEPTED

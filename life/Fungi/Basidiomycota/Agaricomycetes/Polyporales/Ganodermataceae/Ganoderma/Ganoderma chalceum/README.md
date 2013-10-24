@@ -1,17 +1,16 @@
-Ganoderma chalceum var. chalceum VARIETY
-=======
+# Ganoderma chalceum (Cooke) Steyaert, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Jard. Bot. Nat. Belg. 37: 481 (1967)
 
 #### Original name
-Ganoderma chalceum var. chalceum
+Polyporus chalceus Cooke, 1879
 
 ### Remarks
 null

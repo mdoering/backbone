@@ -1,5 +1,4 @@
-Lecidea canlaonensis Vain. SPECIES
-=======
+# Lecidea canlaonensis Vain. SPECIES
 
 #### Status
 ACCEPTED

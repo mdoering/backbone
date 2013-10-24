@@ -1,5 +1,4 @@
-Agaricus ischnostylus Cooke SPECIES
-=======
+# Agaricus ischnostylus Cooke SPECIES
 
 #### Status
 ACCEPTED

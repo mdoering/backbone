@@ -1,5 +1,4 @@
-Entorrhizaceae FAMILY
-=======
+# Entorrhizaceae FAMILY
 
 #### Status
 ACCEPTED

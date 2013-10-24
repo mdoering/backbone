@@ -1,5 +1,4 @@
-Mycena drepanocladi (Singer) Singer SPECIES
-=======
+# Mycena drepanocladi (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

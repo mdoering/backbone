@@ -1,5 +1,4 @@
-Lecanora prolifera C.W. Dodge SPECIES
-=======
+# Lecanora prolifera C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

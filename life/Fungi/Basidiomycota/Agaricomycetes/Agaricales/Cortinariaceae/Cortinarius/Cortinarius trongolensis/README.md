@@ -1,5 +1,4 @@
-Cortinarius trongolensis Garrido SPECIES
-=======
+# Cortinarius trongolensis Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Endomelanconiopsis microspora (Verkley & Aa) E.I. Rojas & Samuels, 2008 SPECIES
-=======
+# Endomelanconium microsporum Verkley & Aa, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 89(6): 967 (1997)
 
 #### Original name
-null
+Endomelanconium microsporum Verkley & Aa, 1997
 
 ### Remarks
 null

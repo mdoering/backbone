@@ -1,5 +1,4 @@
-Peelella Matsumaru, 1996 GENUS
-=======
+# Peelella Matsumaru, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ituraguinensis Unamuno SPECIES
-=======
+# Cercospora ituraguinensis Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladium charticola Sacc. SPECIES
-=======
+# Trichocladium charticola Sacc. SPECIES
 
 #### Status
 ACCEPTED

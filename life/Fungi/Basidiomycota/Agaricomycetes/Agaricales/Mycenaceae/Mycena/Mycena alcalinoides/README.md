@@ -1,5 +1,4 @@
-Mycena alcalinoides A. Pearson SPECIES
-=======
+# Mycena alcalinoides A. Pearson SPECIES
 
 #### Status
 ACCEPTED

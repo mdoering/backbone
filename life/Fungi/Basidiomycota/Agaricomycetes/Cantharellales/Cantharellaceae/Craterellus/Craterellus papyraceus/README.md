@@ -1,5 +1,4 @@
-Craterellus papyraceus Berk. & M.A. Curtis SPECIES
-=======
+# Craterellus papyraceus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

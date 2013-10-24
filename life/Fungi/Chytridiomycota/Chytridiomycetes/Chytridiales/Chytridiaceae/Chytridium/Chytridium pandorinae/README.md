@@ -1,5 +1,4 @@
-Chytridium pandorinae Wille SPECIES
-=======
+# Chytridium pandorinae Wille SPECIES
 
 #### Status
 ACCEPTED

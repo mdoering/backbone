@@ -1,5 +1,4 @@
-Aschersonia consociata Henn. SPECIES
-=======
+# Aschersonia consociata Henn. SPECIES
 
 #### Status
 ACCEPTED

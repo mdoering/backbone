@@ -1,5 +1,4 @@
-Haddonia Chapman, 1898 GENUS
-=======
+# Haddonia Chapman, 1898 GENUS
 
 #### Status
 ACCEPTED

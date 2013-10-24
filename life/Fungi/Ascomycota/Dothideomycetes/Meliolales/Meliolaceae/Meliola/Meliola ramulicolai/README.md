@@ -1,5 +1,4 @@
-Meliola ramulicolai W. Yamam. SPECIES
-=======
+# Meliola ramulicolai W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

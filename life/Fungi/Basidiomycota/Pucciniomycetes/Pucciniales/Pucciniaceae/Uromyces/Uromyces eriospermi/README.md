@@ -1,5 +1,4 @@
-Uromyces eriospermi Kalchbr. & Cooke SPECIES
-=======
+# Uromyces eriospermi Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

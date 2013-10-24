@@ -1,5 +1,4 @@
-Leiosphaeridia macrostomata Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Leiosphaeridia macrostomata Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

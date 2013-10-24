@@ -1,8 +1,7 @@
-Phyllachora venezuelensis Syd., 1930 SPECIES
-=======
+# Phyllachora conica (Chardón) Petr., 1931 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

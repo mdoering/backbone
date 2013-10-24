@@ -1,5 +1,4 @@
-Lecidea incrustans (DC.) Chevall. SPECIES
-=======
+# Lecidea incrustans (DC.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

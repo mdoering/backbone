@@ -1,5 +1,4 @@
-Russula cinereovinosa Fatto SPECIES
-=======
+# Russula cinereovinosa Fatto SPECIES
 
 #### Status
 ACCEPTED

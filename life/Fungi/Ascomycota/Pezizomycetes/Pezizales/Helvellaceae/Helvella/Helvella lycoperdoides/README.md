@@ -1,5 +1,4 @@
-Helvella lycoperdoides Scop. SPECIES
-=======
+# Helvella lycoperdoides Scop. SPECIES
 
 #### Status
 ACCEPTED

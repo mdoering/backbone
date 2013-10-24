@@ -1,5 +1,4 @@
-Gyroidinella Le Calvez, 1949 GENUS
-=======
+# Gyroidinella Le Calvez, 1949 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenomonas carterae (Braarud & Fagerlind) Braarus SPECIES
-=======
+# Hymenomonas carterae (Braarud & Fagerlind) Braarus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber debaryanum R. Hesse SPECIES
-=======
+# Tuber debaryanum R. Hesse SPECIES
 
 #### Status
 ACCEPTED

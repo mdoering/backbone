@@ -1,5 +1,4 @@
-Phoma detrusa Sacc. SPECIES
-=======
+# Phoma detrusa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora helioscopiae Syd. SPECIES
-=======
+# Cercospora helioscopiae Syd. SPECIES
 
 #### Status
 ACCEPTED

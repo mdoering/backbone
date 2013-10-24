@@ -1,5 +1,4 @@
-Myxosporium alneum Rostr. SPECIES
-=======
+# Myxosporium alneum Rostr. SPECIES
 
 #### Status
 ACCEPTED

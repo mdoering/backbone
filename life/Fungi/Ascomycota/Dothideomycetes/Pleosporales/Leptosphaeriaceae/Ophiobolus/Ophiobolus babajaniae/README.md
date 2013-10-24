@@ -1,8 +1,7 @@
-Ophiobolus babajanii Negru SPECIES
-=======
+# Ophiobolus babajaniae Negru SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophiobolus babajanii Negru
+Ophiobolus babajaniae Negru
 
 ### Remarks
 null

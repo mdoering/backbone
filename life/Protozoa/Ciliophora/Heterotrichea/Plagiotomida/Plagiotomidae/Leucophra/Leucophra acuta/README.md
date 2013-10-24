@@ -1,5 +1,4 @@
-Leucophra acuta Müller, 1786 SPECIES
-=======
+# Leucophra acuta Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina speltae E. Müll. SPECIES
-=======
+# Diplodina speltae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

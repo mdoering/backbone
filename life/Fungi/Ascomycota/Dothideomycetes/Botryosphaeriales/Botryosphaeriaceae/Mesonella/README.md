@@ -1,5 +1,4 @@
-Mesonella GENUS
-=======
+# Mesonella GENUS
 
 #### Status
 ACCEPTED

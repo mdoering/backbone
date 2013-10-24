@@ -1,5 +1,4 @@
-Nosema pyrrhocoridis Lipa SPECIES
-=======
+# Nosema pyrrhocoridis Lipa SPECIES
 
 #### Status
 ACCEPTED

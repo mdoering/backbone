@@ -1,5 +1,4 @@
-Neottiella albicans (Fuckel) Sacc. SPECIES
-=======
+# Neottiella albicans (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

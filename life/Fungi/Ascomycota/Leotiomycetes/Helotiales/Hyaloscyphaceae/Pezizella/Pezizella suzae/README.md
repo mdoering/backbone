@@ -1,5 +1,4 @@
-Pezizella suzae Velen. SPECIES
-=======
+# Pezizella suzae Velen. SPECIES
 
 #### Status
 ACCEPTED

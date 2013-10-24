@@ -1,5 +1,4 @@
-Didymosamarospora euryhalina T.W. Johnson & H.S. Gold SPECIES
-=======
+# Didymosamarospora euryhalina T.W. Johnson & H.S. Gold SPECIES
 
 #### Status
 ACCEPTED

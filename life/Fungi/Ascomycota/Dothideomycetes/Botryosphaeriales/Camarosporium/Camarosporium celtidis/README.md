@@ -1,5 +1,4 @@
-Camarosporium celtidis Ellis & Everh. SPECIES
-=======
+# Camarosporium celtidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

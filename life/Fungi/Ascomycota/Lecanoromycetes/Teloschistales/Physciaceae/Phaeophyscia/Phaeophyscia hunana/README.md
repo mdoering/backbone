@@ -1,5 +1,4 @@
-Phaeophyscia hunana G.R. Hu & J.B. Chen SPECIES
-=======
+# Phaeophyscia hunana G.R. Hu & J.B. Chen SPECIES
 
 #### Status
 ACCEPTED

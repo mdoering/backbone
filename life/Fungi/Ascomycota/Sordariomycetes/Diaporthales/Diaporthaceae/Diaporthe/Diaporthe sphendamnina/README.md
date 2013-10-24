@@ -1,5 +1,4 @@
-Diaporthe sphendamnina (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diaporthe sphendamnina (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

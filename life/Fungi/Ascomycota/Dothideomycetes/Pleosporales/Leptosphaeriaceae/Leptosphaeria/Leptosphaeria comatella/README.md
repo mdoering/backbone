@@ -1,5 +1,4 @@
-Leptosphaeria comatella (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria comatella (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

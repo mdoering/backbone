@@ -1,17 +1,16 @@
-Physarum viride rigidum G. Lister, 1911 INFRASPECIFIC_NAME
-=======
+# Physarum rigidum (G. Lister) G. Lister, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Mycetozoa (London), 3rd Edn 36 (1925)
 
 #### Original name
-null
+Physarum viride var. rigidum G. Lister
 
 ### Remarks
 null

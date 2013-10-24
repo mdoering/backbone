@@ -1,14 +1,13 @@
-Physalosporella hoyae (Höhn.) Höhn. SPECIES
-=======
+# Physosporella hoyae (Höhn.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 16: 162 (1918)
 
 #### Original name
 Physalospora hoyae Höhn.

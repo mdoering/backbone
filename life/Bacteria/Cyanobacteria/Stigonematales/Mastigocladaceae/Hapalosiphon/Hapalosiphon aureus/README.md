@@ -1,5 +1,4 @@
-Hapalosiphon aureus W. West & G. S. West SPECIES
-=======
+# Hapalosiphon aureus W. West & G. S. West SPECIES
 
 #### Status
 ACCEPTED

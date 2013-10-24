@@ -1,5 +1,4 @@
-Nectria flavella Pat. SPECIES
-=======
+# Nectria flavella Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis hollandei SPECIES
-=======
+# Epistylis hollandei SPECIES
 
 #### Status
 ACCEPTED

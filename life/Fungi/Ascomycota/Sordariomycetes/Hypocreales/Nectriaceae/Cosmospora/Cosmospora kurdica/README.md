@@ -1,5 +1,4 @@
-Cosmospora kurdica (Petr.) Rossman & Samuels SPECIES
-=======
+# Cosmospora kurdica (Petr.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

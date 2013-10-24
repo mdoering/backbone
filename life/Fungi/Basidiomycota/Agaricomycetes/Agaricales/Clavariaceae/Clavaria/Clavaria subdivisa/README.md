@@ -1,5 +1,4 @@
-Clavaria subdivisa J.F. Gmel. SPECIES
-=======
+# Clavaria subdivisa J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

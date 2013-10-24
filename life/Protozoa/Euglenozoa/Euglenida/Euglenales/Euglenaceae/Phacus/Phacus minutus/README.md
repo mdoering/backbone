@@ -1,5 +1,4 @@
-Phacus minutus Pochman SPECIES
-=======
+# Phacus minutus Pochman SPECIES
 
 #### Status
 ACCEPTED

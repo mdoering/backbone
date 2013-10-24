@@ -1,5 +1,4 @@
-Plicaria luteola Velen. SPECIES
-=======
+# Plicaria luteola Velen. SPECIES
 
 #### Status
 ACCEPTED

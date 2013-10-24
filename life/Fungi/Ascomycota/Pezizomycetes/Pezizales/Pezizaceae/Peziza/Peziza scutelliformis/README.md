@@ -1,5 +1,4 @@
-Peziza scutelliformis Wallr. SPECIES
-=======
+# Peziza scutelliformis Wallr. SPECIES
 
 #### Status
 ACCEPTED

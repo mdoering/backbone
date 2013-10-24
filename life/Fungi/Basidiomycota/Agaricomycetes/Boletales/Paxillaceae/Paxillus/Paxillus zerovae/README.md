@@ -1,5 +1,4 @@
-Paxillus zerovae Wasser SPECIES
-=======
+# Paxillus zerovae Wasser SPECIES
 
 #### Status
 ACCEPTED

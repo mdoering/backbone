@@ -1,5 +1,4 @@
-Heterosphaeria poae (Lib.) Fuckel SPECIES
-=======
+# Heterosphaeria poae (Lib.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

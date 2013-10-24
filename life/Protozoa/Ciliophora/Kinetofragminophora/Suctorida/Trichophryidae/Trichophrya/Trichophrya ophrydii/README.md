@@ -1,5 +1,4 @@
-Trichophrya ophrydii SPECIES
-=======
+# Trichophrya ophrydii SPECIES
 
 #### Status
 ACCEPTED

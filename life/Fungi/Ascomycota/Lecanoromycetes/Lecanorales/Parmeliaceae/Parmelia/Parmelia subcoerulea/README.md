@@ -1,17 +1,16 @@
-Parmelia sub-coerulea F. Wilson SPECIES
-=======
+# Parmelia subcoerulea F. Wilson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Victorian Nat. 6: 69 (1889)
 
 #### Original name
-Parmelia sub-coerulea F. Wilson
+Parmelia subcoerulea F. Wilson
 
 ### Remarks
 null

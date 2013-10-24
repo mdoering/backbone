@@ -1,5 +1,4 @@
-Lecidea rugifera Vain. SPECIES
-=======
+# Lecidea rugifera Vain. SPECIES
 
 #### Status
 ACCEPTED

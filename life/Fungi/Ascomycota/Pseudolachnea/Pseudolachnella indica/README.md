@@ -1,5 +1,4 @@
-Pseudolachnella indica (V.G. Rao & Varghese) Nag Raj SPECIES
-=======
+# Pseudolachnella indica (V.G. Rao & Varghese) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

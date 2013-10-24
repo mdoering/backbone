@@ -1,5 +1,4 @@
-Lembosia peyronelii E. Castell. SPECIES
-=======
+# Lembosia peyronelii E. Castell. SPECIES
 
 #### Status
 ACCEPTED

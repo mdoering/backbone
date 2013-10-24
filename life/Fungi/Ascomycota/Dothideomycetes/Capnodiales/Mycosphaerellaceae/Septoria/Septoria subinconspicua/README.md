@@ -1,5 +1,4 @@
-Septoria subinconspicua C. Massal. SPECIES
-=======
+# Septoria subinconspicua C. Massal. SPECIES
 
 #### Status
 ACCEPTED

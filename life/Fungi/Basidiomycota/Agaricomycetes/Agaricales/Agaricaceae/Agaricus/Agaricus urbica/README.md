@@ -1,5 +1,4 @@
-Agaricus urbica Mont. SPECIES
-=======
+# Agaricus urbica Mont. SPECIES
 
 #### Status
 ACCEPTED

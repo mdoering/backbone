@@ -1,5 +1,4 @@
-Agaricus calathus Fr. SPECIES
-=======
+# Agaricus calathus Fr. SPECIES
 
 #### Status
 ACCEPTED

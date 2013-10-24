@@ -1,5 +1,4 @@
-Lecanactis scotomma (Nyl.) Vain. SPECIES
-=======
+# Lecanactis scotomma (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium aspegrenii (Fr.) Fr., 1849 SPECIES
-=======
+# Helotium aspegrenii (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

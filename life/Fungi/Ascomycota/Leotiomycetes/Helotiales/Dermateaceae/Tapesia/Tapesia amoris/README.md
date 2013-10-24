@@ -1,5 +1,4 @@
-Tapesia amoris Velen. SPECIES
-=======
+# Tapesia amoris Velen. SPECIES
 
 #### Status
 ACCEPTED

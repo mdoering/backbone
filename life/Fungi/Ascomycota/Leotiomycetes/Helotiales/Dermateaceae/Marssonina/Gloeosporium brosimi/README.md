@@ -1,5 +1,4 @@
-Gloeosporium brosimi Bond.-Mont. SPECIES
-=======
+# Gloeosporium brosimi Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

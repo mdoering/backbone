@@ -1,5 +1,4 @@
-Russula griseocephala Buyck SPECIES
-=======
+# Russula griseocephala Buyck SPECIES
 
 #### Status
 ACCEPTED

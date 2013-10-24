@@ -1,5 +1,4 @@
-Psathyrella agraria Enderle SPECIES
-=======
+# Psathyrella agraria Enderle SPECIES
 
 #### Status
 ACCEPTED

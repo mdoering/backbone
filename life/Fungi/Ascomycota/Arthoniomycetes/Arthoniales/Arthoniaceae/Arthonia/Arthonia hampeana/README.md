@@ -1,5 +1,4 @@
-Arthonia hampeana (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Arthonia hampeana (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

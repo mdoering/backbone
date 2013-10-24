@@ -1,5 +1,4 @@
-Cerura hermelina Npv SPECIES
-=======
+# Cerura hermelina Npv SPECIES
 
 #### Status
 ACCEPTED

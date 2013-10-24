@@ -1,5 +1,4 @@
-Archipilium Haeckel, 1881 GENUS
-=======
+# Archipilium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

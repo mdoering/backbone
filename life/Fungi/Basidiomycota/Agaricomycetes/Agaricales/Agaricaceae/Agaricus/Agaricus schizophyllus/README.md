@@ -1,5 +1,4 @@
-Agaricus schizophyllus Berk. SPECIES
-=======
+# Agaricus schizophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

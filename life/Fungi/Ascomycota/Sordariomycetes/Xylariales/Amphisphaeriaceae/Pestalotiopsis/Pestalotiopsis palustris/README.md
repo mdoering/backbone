@@ -1,5 +1,4 @@
-Pestalotiopsis palustris Nag Raj SPECIES
-=======
+# Pestalotiopsis palustris Nag Raj SPECIES
 
 #### Status
 ACCEPTED

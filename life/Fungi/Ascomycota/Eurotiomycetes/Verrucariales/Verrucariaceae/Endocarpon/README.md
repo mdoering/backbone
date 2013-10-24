@@ -1,17 +1,16 @@
-Pyrenothamnia Tuck. GENUS
-=======
+# Endocarpon Hedwig, 1789 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Torrey bot. Club 10: 22 (1883)
+null
 
 #### Original name
-Pyrenothamnia Tuck.
+null
 
 ### Remarks
 null

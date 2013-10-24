@@ -1,5 +1,4 @@
-Meliola brandisiae Hansf. SPECIES
-=======
+# Meliola brandisiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

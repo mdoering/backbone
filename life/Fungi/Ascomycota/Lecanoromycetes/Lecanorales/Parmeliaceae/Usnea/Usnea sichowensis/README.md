@@ -1,5 +1,4 @@
-Usnea sichowensis Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea sichowensis Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacillus thermoglucosidasius Suzuki, 1984 SPECIES
-=======
+# Geobacillus thermoglucosidasius (Suzuki et al., 1984) Nazina et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

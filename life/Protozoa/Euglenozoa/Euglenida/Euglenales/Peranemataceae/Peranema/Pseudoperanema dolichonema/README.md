@@ -1,11 +1,10 @@
-Peranema dolichonema Larsen & Patterson, 1990 SPECIES
-=======
+# Pseudoperanema dolichonema Larsen & Patterson, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

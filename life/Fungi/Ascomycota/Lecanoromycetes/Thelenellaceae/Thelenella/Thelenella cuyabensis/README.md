@@ -1,5 +1,4 @@
-Thelenella cuyabensis Malme SPECIES
-=======
+# Thelenella cuyabensis Malme SPECIES
 
 #### Status
 ACCEPTED

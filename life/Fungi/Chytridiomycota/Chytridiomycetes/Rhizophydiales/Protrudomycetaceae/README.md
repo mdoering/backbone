@@ -1,5 +1,4 @@
-Protrudomycetaceae Letcher FAMILY
-=======
+# Protrudomycetaceae Letcher FAMILY
 
 #### Status
 ACCEPTED

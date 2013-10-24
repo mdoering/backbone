@@ -1,5 +1,4 @@
-Aposphaeria nigra Died. SPECIES
-=======
+# Aposphaeria nigra Died. SPECIES
 
 #### Status
 ACCEPTED

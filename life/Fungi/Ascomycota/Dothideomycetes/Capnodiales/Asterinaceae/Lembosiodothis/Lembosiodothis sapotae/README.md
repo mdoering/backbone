@@ -1,5 +1,4 @@
-Lembosiodothis sapotae (R.W. Ryan) Petr. SPECIES
-=======
+# Lembosiodothis sapotae (R.W. Ryan) Petr. SPECIES
 
 #### Status
 ACCEPTED

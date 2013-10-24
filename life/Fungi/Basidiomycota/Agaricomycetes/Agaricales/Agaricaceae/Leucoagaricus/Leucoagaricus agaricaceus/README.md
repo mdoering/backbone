@@ -1,5 +1,4 @@
-Leucoagaricus agaricaceus Heinem. SPECIES
-=======
+# Leucoagaricus agaricaceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

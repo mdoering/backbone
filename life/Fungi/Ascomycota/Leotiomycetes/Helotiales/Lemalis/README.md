@@ -1,5 +1,4 @@
-Lemalis E.M. Fries, 1825 GENUS
-=======
+# Lemalis E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

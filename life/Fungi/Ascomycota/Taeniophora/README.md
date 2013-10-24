@@ -1,5 +1,4 @@
-Taeniophora GENUS
-=======
+# Taeniophora GENUS
 
 #### Status
 ACCEPTED

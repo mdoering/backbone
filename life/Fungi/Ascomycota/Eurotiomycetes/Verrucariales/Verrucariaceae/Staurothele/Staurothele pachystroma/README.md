@@ -1,5 +1,4 @@
-Staurothele pachystroma Müll. Arg. SPECIES
-=======
+# Staurothele pachystroma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

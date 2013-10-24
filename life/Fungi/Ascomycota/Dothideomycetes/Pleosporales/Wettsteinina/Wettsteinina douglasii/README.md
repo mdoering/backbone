@@ -1,5 +1,4 @@
-Wettsteinina douglasii Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina douglasii Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

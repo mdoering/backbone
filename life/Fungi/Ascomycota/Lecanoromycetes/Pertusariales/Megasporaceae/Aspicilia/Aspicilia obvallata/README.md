@@ -1,5 +1,4 @@
-Aspicilia obvallata (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia obvallata (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

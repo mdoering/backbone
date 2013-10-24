@@ -1,5 +1,4 @@
-Cortinarius eumorphus (Pers.) P. Kumm. SPECIES
-=======
+# Cortinarius eumorphus (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

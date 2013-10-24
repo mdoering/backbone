@@ -1,5 +1,4 @@
-Parascutellinia arctespora (Cooke & W. Phillips) T. Schumach. SPECIES
-=======
+# Parascutellinia arctespora (Cooke & W. Phillips) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

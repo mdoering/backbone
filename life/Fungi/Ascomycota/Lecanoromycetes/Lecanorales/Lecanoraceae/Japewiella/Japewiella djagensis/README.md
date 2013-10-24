@@ -1,5 +1,4 @@
-Japewiella djagensis (Zahlbr.) Printzen SPECIES
-=======
+# Japewiella djagensis (Zahlbr.) Printzen SPECIES
 
 #### Status
 ACCEPTED

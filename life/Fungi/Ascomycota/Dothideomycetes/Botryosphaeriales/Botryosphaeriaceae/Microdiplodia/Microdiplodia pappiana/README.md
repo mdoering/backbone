@@ -1,5 +1,4 @@
-Microdiplodia pappiana (Bacc.) Zambett. SPECIES
-=======
+# Microdiplodia pappiana (Bacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

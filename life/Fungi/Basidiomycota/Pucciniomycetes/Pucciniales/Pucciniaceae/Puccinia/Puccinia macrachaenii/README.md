@@ -1,5 +1,4 @@
-Puccinia macrachaenii Dietel & Neger SPECIES
-=======
+# Puccinia macrachaenii Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phyllophthalmaria conspersa (Stirt.) Zahlbr. SPECIES
-=======
+# Rolueckia conspersa (Stirt.) Papong, Thammath. & Boonpr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 643 (1924)
+Nova Hedwigia 86: 201-208 (2008)
 
 #### Original name
 Thelotrema conspersum Stirt.

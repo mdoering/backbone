@@ -1,14 +1,13 @@
-Exidiopsis umbrina (D.P. Rogers) Wojewoda, 1981 SPECIES
-=======
+# Sebacina umbrina D.P. Rogers, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mala Flora Grzybów (Warszawa), <b>2</b> Basidiomycetes (Podstawczaki) Tremellales (Trzesakowe) Auriculariales (Uszakowe) 114 (1981)
+Univ. Iowa Stud. nat. Hist. 17(1): 39 (1935)
 
 #### Original name
 Sebacina umbrina D.P. Rogers, 1935

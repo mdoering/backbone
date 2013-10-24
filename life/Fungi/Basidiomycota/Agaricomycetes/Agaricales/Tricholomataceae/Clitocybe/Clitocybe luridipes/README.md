@@ -1,5 +1,4 @@
-Clitocybe luridipes (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe luridipes (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

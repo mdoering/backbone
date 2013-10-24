@@ -1,5 +1,4 @@
-Cladonia extracorticata S. Hammer SPECIES
-=======
+# Cladonia extracorticata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

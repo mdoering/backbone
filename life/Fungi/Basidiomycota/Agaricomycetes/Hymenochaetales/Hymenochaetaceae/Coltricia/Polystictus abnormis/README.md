@@ -1,5 +1,4 @@
-Polystictus abnormis (Lév.) Cooke SPECIES
-=======
+# Polystictus abnormis (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

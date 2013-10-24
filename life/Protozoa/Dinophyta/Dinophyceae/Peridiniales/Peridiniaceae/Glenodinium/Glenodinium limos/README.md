@@ -1,5 +1,4 @@
-Glenodinium limos T.M. Harris SPECIES
-=======
+# Glenodinium limos T.M. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lewia ethzedia E.G. Simmons, 1986 SPECIES
-=======
+# Lewia ethzedia E.G. Simmons, 1986 SPECIES
 
 #### Status
 ACCEPTED

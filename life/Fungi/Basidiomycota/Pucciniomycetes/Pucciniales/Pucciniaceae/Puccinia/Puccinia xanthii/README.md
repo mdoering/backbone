@@ -1,17 +1,16 @@
-Puccinia xanthii f. sp FORM
-=======
+# Puccinia xanthii Schwein., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schr. naturf. Ges. Leipzig 1: 73 (1822)
 
 #### Original name
-Puccinia xanthii f. sp
+Puccinia xanthii Schwein., 1822
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria zeorina Erichsen SPECIES
-=======
+# Pertusaria zeorina Erichsen SPECIES
 
 #### Status
 ACCEPTED

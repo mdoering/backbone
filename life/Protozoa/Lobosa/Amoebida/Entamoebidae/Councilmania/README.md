@@ -1,5 +1,4 @@
-Councilmania Kofoid & Swezy, 1921 GENUS
-=======
+# Councilmania Kofoid & Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

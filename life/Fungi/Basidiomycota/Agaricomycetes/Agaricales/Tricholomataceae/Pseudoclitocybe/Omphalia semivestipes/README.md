@@ -1,5 +1,4 @@
-Omphalia semivestipes Peck SPECIES
-=======
+# Omphalia semivestipes Peck SPECIES
 
 #### Status
 ACCEPTED

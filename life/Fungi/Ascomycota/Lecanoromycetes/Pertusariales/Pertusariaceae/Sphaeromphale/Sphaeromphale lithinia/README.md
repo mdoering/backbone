@@ -1,5 +1,4 @@
-Sphaeromphale lithinia Trevis. SPECIES
-=======
+# Sphaeromphale lithinia Trevis. SPECIES
 
 #### Status
 ACCEPTED

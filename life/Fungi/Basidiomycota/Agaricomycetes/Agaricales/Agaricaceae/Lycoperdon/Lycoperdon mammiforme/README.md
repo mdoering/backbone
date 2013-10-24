@@ -1,17 +1,16 @@
-Lycoperdon cruciatum SPECIES
-=======
+# Lycoperdon mammiforme Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 146 (1801)
 
 #### Original name
-Lycoperdon cruciatum
+Lycoperdon mammiforme Pers., 1801
 
 ### Remarks
 null

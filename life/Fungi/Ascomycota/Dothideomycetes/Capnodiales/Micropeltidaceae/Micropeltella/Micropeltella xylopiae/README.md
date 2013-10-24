@@ -1,5 +1,4 @@
-Micropeltella xylopiae Bat. & J.L. Bezerra SPECIES
-=======
+# Micropeltella xylopiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium rosae Schwein. SPECIES
-=======
+# Cenangium rosae Schwein. SPECIES
 
 #### Status
 ACCEPTED

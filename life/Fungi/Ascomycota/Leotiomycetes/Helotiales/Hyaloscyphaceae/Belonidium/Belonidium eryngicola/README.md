@@ -1,17 +1,16 @@
-Belonidium eryngiicola (Ellis & Everh.) Raitv. SPECIES
-=======
+# Belonidium eryngicola (Ellis & Everh.) Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 45 (1970)
 
 #### Original name
-Dasyscyphus eryngicola Ellis & Everh.
+Dasyscyphus eryngiicola Ellis & Everh.
 
 ### Remarks
 null

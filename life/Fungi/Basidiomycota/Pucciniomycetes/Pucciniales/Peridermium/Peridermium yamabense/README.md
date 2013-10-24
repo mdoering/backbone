@@ -1,14 +1,13 @@
-Coleosporium yamabense (Saho & I. Takah.) Hirats. f., 1968 SPECIES
-=======
+# Peridermium yamabense Saho & I. Takah., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Saho, Trans. Mycol. Soc. Japan 22(1): 33 (1981)
 
 #### Original name
 Peridermium yamabense Saho & I. Takah., 1981

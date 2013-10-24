@@ -1,5 +1,4 @@
-Verrucaria lignyodes Harm. SPECIES
-=======
+# Verrucaria lignyodes Harm. SPECIES
 
 #### Status
 ACCEPTED

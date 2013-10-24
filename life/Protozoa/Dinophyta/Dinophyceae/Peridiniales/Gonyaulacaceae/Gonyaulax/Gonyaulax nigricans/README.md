@@ -1,5 +1,4 @@
-Gonyaulax nigricans (Schiller) E. Balech SPECIES
-=======
+# Gonyaulax nigricans (Schiller) E. Balech SPECIES
 
 #### Status
 ACCEPTED

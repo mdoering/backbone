@@ -1,5 +1,4 @@
-Cortinarius arvalis P. Karst. SPECIES
-=======
+# Cortinarius arvalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

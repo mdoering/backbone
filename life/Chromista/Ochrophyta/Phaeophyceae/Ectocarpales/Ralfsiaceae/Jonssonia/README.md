@@ -1,5 +1,4 @@
-Jonssonia S.Lund, 1959 GENUS
-=======
+# Jonssonia S.Lund, 1959 GENUS
 
 #### Status
 ACCEPTED

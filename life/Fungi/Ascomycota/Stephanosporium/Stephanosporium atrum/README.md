@@ -1,5 +1,4 @@
-Stephanosporium atrum Dal Vesco, 1961 SPECIES
-=======
+# Stephanosporium atrum Dal Vesco, 1961 SPECIES
 
 #### Status
 ACCEPTED

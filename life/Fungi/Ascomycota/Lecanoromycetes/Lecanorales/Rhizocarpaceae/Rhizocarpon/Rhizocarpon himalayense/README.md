@@ -1,5 +1,4 @@
-Rhizocarpon himalayense Räsänen SPECIES
-=======
+# Rhizocarpon himalayense Räsänen SPECIES
 
 #### Status
 ACCEPTED

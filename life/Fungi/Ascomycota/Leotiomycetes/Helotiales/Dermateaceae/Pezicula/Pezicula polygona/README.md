@@ -1,5 +1,4 @@
-Pezicula polygona (Fuckel) Nannf. SPECIES
-=======
+# Pezicula polygona (Fuckel) Nannf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Heterothecium vulpinum f. corallinum Müll. Arg. FORM
-=======
+# Letrouitia corallina (Müll. Arg.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 23: 393 (1891)
+Nova Hedwigia 35(4): 669 (1983)
 
 #### Original name
 Heterothecium vulpinum f. corallinum Müll. Arg.

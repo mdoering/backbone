@@ -1,5 +1,4 @@
-Laccaria oblongospora G.M. Muell. SPECIES
-=======
+# Laccaria oblongospora G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

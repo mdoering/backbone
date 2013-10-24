@@ -1,17 +1,16 @@
-Echidnodes capparidis Hansf. SPECIES
-=======
+# Echidnodes capparis Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 157: 195 (1946)
 
 #### Original name
-Echidnodes capparidis Hansf.
+Echidnodes capparis Hansf.
 
 ### Remarks
 null

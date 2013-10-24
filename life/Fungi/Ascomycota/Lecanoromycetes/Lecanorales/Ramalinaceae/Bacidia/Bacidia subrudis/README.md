@@ -1,5 +1,4 @@
-Bacidia subrudis (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subrudis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

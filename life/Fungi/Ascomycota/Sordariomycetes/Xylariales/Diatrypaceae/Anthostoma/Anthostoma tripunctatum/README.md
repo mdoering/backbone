@@ -1,5 +1,4 @@
-Anthostoma tripunctatum (Bonord.) Sacc. & Traverso SPECIES
-=======
+# Anthostoma tripunctatum (Bonord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

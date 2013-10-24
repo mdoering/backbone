@@ -1,5 +1,4 @@
-Xyloma vaccinii-uliginosi Wahlenb. ex Fr. SPECIES
-=======
+# Xyloma vaccinii-uliginosi Wahlenb. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

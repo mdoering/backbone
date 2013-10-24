@@ -1,5 +1,4 @@
-Clitocybe hemispila Lév. SPECIES
-=======
+# Clitocybe hemispila Lév. SPECIES
 
 #### Status
 ACCEPTED

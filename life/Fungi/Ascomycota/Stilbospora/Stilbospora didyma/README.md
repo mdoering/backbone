@@ -1,5 +1,4 @@
-Stilbospora didyma Link SPECIES
-=======
+# Stilbospora didyma Link SPECIES
 
 #### Status
 ACCEPTED

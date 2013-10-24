@@ -1,5 +1,4 @@
-Zukalina fringillarum Velen. SPECIES
-=======
+# Zukalina fringillarum Velen. SPECIES
 
 #### Status
 ACCEPTED

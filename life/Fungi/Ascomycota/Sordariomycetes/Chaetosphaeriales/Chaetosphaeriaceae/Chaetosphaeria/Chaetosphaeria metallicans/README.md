@@ -1,5 +1,4 @@
-Chaetosphaeria metallicans T.J. Atk., A.N. Mill. & Huhndorf, 2007 SPECIES
-=======
+# Chaetosphaeria metallicans T.J. Atk., A.N. Mill. & Huhndorf, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia murrilliana Singer SPECIES
-=======
+# Collybia murrilliana Singer SPECIES
 
 #### Status
 ACCEPTED

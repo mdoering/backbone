@@ -1,5 +1,4 @@
-Diatrype adusta Cooke & Peck SPECIES
-=======
+# Diatrype adusta Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium cardiospermi M.T. Cook SPECIES
-=======
+# Synchytrium cardiospermi M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

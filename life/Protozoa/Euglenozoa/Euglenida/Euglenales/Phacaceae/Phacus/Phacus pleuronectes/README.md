@@ -1,11 +1,10 @@
-Phacus prunoideus Roll SPECIES
-=======
+# Phacus pleuronectes (O.F. Müller) Dujardin, 1841 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

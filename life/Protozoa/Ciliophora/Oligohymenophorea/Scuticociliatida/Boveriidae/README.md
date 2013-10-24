@@ -1,5 +1,4 @@
-Boveriidae FAMILY
-=======
+# Boveriidae FAMILY
 
 #### Status
 ACCEPTED

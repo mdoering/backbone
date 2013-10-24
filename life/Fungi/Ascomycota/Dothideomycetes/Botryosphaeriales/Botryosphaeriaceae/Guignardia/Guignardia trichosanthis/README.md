@@ -1,5 +1,4 @@
-Guignardia trichosanthis Katsuki SPECIES
-=======
+# Guignardia trichosanthis Katsuki SPECIES
 
 #### Status
 ACCEPTED

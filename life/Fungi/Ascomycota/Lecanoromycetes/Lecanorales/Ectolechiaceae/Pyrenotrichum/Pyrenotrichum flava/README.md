@@ -1,5 +1,4 @@
-Pyrenotrichum flava var. flava VARIETY
-=======
+# Pyrenotrichum flava R. Sant. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenotrichum flava var. flava
+Pyrenotrichum flava R. Sant.
 
 ### Remarks
 null

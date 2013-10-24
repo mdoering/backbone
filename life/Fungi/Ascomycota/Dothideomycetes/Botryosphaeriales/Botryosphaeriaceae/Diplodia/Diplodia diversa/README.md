@@ -1,5 +1,4 @@
-Diplodia diversa Speg. SPECIES
-=======
+# Diplodia diversa Speg. SPECIES
 
 #### Status
 ACCEPTED

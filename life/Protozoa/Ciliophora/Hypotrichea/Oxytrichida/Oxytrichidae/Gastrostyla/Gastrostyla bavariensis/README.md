@@ -1,5 +1,4 @@
-Gastrostyla bavariensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Gastrostyla bavariensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

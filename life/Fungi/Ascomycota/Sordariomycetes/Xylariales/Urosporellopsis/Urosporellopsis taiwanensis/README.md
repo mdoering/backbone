@@ -1,5 +1,4 @@
-Urosporellopsis taiwanensis W.H. Hsieh, Chi Y. Chen & Sivan., 1994 SPECIES
-=======
+# Urosporellopsis taiwanensis W.H. Hsieh, Chi Y. Chen & Sivan., 1994 SPECIES
 
 #### Status
 ACCEPTED

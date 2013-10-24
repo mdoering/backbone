@@ -1,5 +1,4 @@
-Tuscarantha Haeckel, 1887 GENUS
-=======
+# Tuscarantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

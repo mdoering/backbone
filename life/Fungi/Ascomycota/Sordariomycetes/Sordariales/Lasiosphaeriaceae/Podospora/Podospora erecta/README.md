@@ -1,5 +1,4 @@
-Podospora erecta (Speg.) Niessl SPECIES
-=======
+# Podospora erecta (Speg.) Niessl SPECIES
 
 #### Status
 ACCEPTED

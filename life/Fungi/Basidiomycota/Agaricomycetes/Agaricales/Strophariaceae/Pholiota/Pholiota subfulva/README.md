@@ -1,5 +1,4 @@
-Pholiota subfulva (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subfulva (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

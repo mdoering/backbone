@@ -1,5 +1,4 @@
-Pestalotia caffra Syd. & P. Syd. SPECIES
-=======
+# Pestalotia caffra Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

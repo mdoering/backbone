@@ -1,5 +1,4 @@
-Lecania hookeri C.W. Dodge SPECIES
-=======
+# Lecania hookeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

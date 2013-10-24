@@ -1,5 +1,4 @@
-Cenangium nigrofuscum Schwein. SPECIES
-=======
+# Cenangium nigrofuscum Schwein. SPECIES
 
 #### Status
 ACCEPTED

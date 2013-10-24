@@ -1,5 +1,4 @@
-Lecidea caesiororida Zahlbr. SPECIES
-=======
+# Lecidea caesiororida Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

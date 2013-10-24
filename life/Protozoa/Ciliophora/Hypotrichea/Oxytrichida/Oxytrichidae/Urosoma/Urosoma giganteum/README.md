@@ -1,8 +1,7 @@
-Urosoma gigantea (Horváth, 1933) Kahl, 1935 SPECIES
-=======
+# Urosoma giganteum (Horváth, 1933) Kahl, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

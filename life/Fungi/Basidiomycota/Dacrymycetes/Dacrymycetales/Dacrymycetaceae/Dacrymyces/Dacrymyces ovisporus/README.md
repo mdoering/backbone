@@ -1,5 +1,4 @@
-Dacrymyces ovisporus Bref., 1888 SPECIES
-=======
+# Dacrymyces ovisporus Bref., 1888 SPECIES
 
 #### Status
 ACCEPTED

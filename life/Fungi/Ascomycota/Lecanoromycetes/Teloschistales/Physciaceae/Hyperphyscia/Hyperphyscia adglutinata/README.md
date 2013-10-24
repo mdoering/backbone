@@ -1,17 +1,16 @@
-Xanthoria adglutinata f. adglutinata FORM
-=======
+# Hyperphyscia adglutinata (Flörke) H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Herzogia 5: 62 (1979)
 
 #### Original name
-Xanthoria adglutinata f. adglutinata
+Lecanora adglutinata Flörke
 
 ### Remarks
 null

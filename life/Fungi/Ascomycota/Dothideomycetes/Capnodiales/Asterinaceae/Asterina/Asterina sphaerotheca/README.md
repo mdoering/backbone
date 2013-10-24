@@ -1,5 +1,4 @@
-Asterina sphaerotheca P. Karst. & Roum. SPECIES
-=======
+# Asterina sphaerotheca P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

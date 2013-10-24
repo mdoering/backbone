@@ -1,5 +1,4 @@
-Hymenochaete nanospora J.C. Léger, 1983 SPECIES
-=======
+# Hymenochaete nanospora J.C. Léger, 1983 SPECIES
 
 #### Status
 ACCEPTED

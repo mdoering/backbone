@@ -1,5 +1,4 @@
-Iodophanus hyperboreus T. Schumach. SPECIES
-=======
+# Iodophanus hyperboreus T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

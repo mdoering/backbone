@@ -1,5 +1,4 @@
-Lecidea rufofusca (Anzi) Nyl. SPECIES
-=======
+# Lecidea rufofusca (Anzi) Nyl. SPECIES
 
 #### Status
 ACCEPTED

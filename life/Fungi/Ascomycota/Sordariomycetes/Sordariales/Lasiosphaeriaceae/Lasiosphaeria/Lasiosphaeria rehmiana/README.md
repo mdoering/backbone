@@ -1,5 +1,4 @@
-Lasiosphaeria rehmiana Henn. SPECIES
-=======
+# Lasiosphaeria rehmiana Henn. SPECIES
 
 #### Status
 ACCEPTED

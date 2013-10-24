@@ -1,5 +1,4 @@
-Urceolaria panyrga Ach. SPECIES
-=======
+# Urceolaria panyrga Ach. SPECIES
 
 #### Status
 ACCEPTED

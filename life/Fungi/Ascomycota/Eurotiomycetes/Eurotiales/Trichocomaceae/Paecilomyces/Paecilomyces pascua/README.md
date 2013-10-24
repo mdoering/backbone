@@ -1,5 +1,4 @@
-Paecilomyces pascua Pitt & A.D. Hocking SPECIES
-=======
+# Paecilomyces pascua Pitt & A.D. Hocking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anguillospora furtiva Descals, 1992 SPECIES
-=======
+# Anguillospora furtiva Descals, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora hamamelidis (Peck) Ellis & Everh. ex Togashi & Katsuki SPECIES
-=======
+# Cercospora hamamelidis (Peck) Ellis & Everh. ex Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

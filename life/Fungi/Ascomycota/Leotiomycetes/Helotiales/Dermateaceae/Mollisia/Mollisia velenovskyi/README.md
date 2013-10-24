@@ -1,5 +1,4 @@
-Mollisia velenovskyi Gminder SPECIES
-=======
+# Mollisia velenovskyi Gminder SPECIES
 
 #### Status
 ACCEPTED

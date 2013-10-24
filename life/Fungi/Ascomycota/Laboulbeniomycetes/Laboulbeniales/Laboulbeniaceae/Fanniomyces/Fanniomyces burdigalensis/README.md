@@ -1,5 +1,4 @@
-Fanniomyces burdigalensis Balazuc SPECIES
-=======
+# Fanniomyces burdigalensis Balazuc SPECIES
 
 #### Status
 ACCEPTED

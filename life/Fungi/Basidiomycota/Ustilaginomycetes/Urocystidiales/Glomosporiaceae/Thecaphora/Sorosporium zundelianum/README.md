@@ -1,5 +1,4 @@
-Sorosporium zundelianum Cif. SPECIES
-=======
+# Sorosporium zundelianum Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella septentrionalis Gyeln. SPECIES
-=======
+# Parmeliella septentrionalis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

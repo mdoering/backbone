@@ -1,5 +1,4 @@
-Rosellinia megalocarpa (Plowr.) Sacc. SPECIES
-=======
+# Rosellinia megalocarpa (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia australis Parr, 1950 SPECIES
-=======
+# Textularia australis Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED

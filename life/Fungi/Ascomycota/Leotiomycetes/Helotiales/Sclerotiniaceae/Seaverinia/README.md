@@ -1,5 +1,4 @@
-Seaverinia Whetzel, 1945 GENUS
-=======
+# Seaverinia Whetzel, 1945 GENUS
 
 #### Status
 ACCEPTED

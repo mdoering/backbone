@@ -1,5 +1,4 @@
-Lecanora validior (Zahlbr.) Guderley SPECIES
-=======
+# Lecanora validior (Zahlbr.) Guderley SPECIES
 
 #### Status
 ACCEPTED

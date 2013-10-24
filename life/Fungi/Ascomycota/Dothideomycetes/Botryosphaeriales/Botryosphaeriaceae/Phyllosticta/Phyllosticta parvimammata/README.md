@@ -1,5 +1,4 @@
-Phyllosticta parvimammata R. Sprague SPECIES
-=======
+# Phyllosticta parvimammata R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetopotius coracinum (Bat.) Bat. & Cif. SPECIES
-=======
+# Chaetopotius coracinum (Bat.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

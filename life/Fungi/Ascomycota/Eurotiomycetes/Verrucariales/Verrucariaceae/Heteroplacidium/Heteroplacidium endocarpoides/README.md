@@ -1,14 +1,13 @@
-Catapyrenium endocarpoides Breuss SPECIES
-=======
+# Heteroplacidium endocarpoides (Breuss) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Öst. Z. Pilzk. 2: 7 (1993)
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 40 (1996)
 
 #### Original name
 Catapyrenium endocarpoides Breuss

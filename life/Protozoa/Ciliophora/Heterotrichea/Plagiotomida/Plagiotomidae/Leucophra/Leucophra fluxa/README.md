@@ -1,5 +1,4 @@
-Leucophra fluxa Müller, 1786 SPECIES
-=======
+# Leucophra fluxa Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

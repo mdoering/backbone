@@ -1,5 +1,4 @@
-Filaspora calcitrapae (Thüm.) Kuntze SPECIES
-=======
+# Filaspora calcitrapae (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

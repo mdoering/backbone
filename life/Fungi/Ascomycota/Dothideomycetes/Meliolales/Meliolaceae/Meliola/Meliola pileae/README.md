@@ -1,5 +1,4 @@
-Meliola pileae (Hansf.) Cif. SPECIES
-=======
+# Meliola pileae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

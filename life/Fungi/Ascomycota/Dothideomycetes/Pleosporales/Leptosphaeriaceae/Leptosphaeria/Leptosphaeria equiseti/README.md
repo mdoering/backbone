@@ -1,5 +1,4 @@
-Leptosphaeria equiseti P. Karst. SPECIES
-=======
+# Leptosphaeria equiseti P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora ciferri Chardón SPECIES
-=======
+# Phyllachora ciferrii Chardón, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Dept. Agric. Porto Rico 16: 183 (1932)
 
 #### Original name
-Phyllachora ciferri Chardón
+Phyllachora ciferrii Chardón, 1932
 
 ### Remarks
 null

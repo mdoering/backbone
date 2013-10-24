@@ -1,5 +1,4 @@
-Boletus platyporus var. xanthoporus Alb. & Schwein. VARIETY
-=======
+# Boletus platyporus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Consp. fung. (Leipzig) 245 (1805)
+Neues Mag. Bot. 1: 107 (1794)
 
 #### Original name
-Boletus platyporus var. xanthoporus Alb. & Schwein.
+Boletus platyporus Pers.
 
 ### Remarks
 null

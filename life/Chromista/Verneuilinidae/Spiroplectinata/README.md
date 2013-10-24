@@ -1,5 +1,4 @@
-Spiroplectinata Cushman, 1927 GENUS
-=======
+# Spiroplectinata Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

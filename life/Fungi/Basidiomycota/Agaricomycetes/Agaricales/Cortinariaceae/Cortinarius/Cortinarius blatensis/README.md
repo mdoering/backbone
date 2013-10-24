@@ -1,5 +1,4 @@
-Cortinarius blatensis Pilát SPECIES
-=======
+# Cortinarius blatensis Pilát SPECIES
 
 #### Status
 ACCEPTED

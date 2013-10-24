@@ -1,17 +1,16 @@
-Phyllosticta rexii B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta regis B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 54: 158 (1981)
 
 #### Original name
-Phyllosticta rexii B.R.D. Yadav & V.G. Rao
+Phyllosticta regis B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Sphingomonas chungbukensis Kim et al., 2000 SPECIES
-=======
+# Sphingobium chungbukense (Kim et al., 2000) Pal et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

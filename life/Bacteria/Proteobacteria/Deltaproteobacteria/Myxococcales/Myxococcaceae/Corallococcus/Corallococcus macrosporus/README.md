@@ -1,5 +1,4 @@
-Corallococcus macrosporus SPECIES
-=======
+# Corallococcus macrosporus SPECIES
 
 #### Status
 ACCEPTED

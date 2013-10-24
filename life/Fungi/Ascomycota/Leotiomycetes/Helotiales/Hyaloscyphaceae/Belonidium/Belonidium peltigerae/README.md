@@ -1,5 +1,4 @@
-Belonidium peltigerae (Fuckel) I.M. Lamb SPECIES
-=======
+# Belonidium peltigerae (Fuckel) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

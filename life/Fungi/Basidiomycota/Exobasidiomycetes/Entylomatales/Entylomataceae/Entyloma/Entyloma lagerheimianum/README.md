@@ -1,5 +1,4 @@
-Entyloma lagerheimianum Liro SPECIES
-=======
+# Entyloma lagerheimianum Liro SPECIES
 
 #### Status
 ACCEPTED

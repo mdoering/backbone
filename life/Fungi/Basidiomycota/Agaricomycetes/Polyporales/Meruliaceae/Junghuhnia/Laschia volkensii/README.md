@@ -1,5 +1,4 @@
-Laschia volkensii SPECIES
-=======
+# Laschia volkensii SPECIES
 
 #### Status
 ACCEPTED

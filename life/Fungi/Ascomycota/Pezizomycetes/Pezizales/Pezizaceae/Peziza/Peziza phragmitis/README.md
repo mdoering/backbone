@@ -1,5 +1,4 @@
-Peziza phragmitis Saut. SPECIES
-=======
+# Peziza phragmitis Saut. SPECIES
 
 #### Status
 ACCEPTED

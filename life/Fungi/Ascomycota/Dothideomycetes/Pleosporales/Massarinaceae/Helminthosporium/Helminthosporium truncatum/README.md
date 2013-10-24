@@ -1,5 +1,4 @@
-Helminthosporium truncatum Corda SPECIES
-=======
+# Helminthosporium truncatum Corda SPECIES
 
 #### Status
 ACCEPTED

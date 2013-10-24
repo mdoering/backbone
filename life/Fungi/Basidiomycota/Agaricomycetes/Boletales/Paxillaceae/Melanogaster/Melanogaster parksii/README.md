@@ -1,5 +1,4 @@
-Melanogaster parksii Zeller & C.W. Dodge SPECIES
-=======
+# Melanogaster parksii Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

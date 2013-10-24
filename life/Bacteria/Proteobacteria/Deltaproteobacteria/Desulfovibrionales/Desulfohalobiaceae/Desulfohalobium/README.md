@@ -1,5 +1,4 @@
-Desulfohalobium Ollivier, Hatchikian, Prensier, Guezennec & Garcia, 1991 GENUS
-=======
+# Desulfohalobium Ollivier, Hatchikian, Prensier, Guezennec & Garcia, 1991 GENUS
 
 #### Status
 ACCEPTED

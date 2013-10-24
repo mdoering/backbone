@@ -1,5 +1,4 @@
-Caprettia Bat. & H. Maia GENUS
-=======
+# Caprettia Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria byssacea (Weigel) Ach. SPECIES
-=======
+# Verrucaria byssacea (Weigel) Ach. SPECIES
 
 #### Status
 ACCEPTED

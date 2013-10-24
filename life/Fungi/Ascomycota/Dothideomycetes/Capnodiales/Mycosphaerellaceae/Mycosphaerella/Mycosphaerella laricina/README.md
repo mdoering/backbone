@@ -1,8 +1,7 @@
-Sphaerella laricina R. Hartig, 1895 SPECIES
-=======
+# Mycosphaerella laricina (R. Hartig) Migula, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Mycosphaerella laricina (R. Hartig) Migula, 1912
 
 ### Remarks
 null

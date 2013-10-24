@@ -1,5 +1,4 @@
-Laboulbenia paranensis Speg. SPECIES
-=======
+# Laboulbenia paranensis Speg. SPECIES
 
 #### Status
 ACCEPTED

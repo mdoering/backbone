@@ -1,5 +1,4 @@
-Conophyton lijiadunense R. C. Tsao & Y. Z. Liang SPECIES
-=======
+# Conophyton lijiadunense R. C. Tsao & Y. Z. Liang SPECIES
 
 #### Status
 ACCEPTED

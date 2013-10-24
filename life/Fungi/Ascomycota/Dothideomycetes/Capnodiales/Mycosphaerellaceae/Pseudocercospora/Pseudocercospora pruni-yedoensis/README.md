@@ -1,5 +1,4 @@
-Pseudocercospora pruni-yedoensis Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora pruni-yedoensis Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

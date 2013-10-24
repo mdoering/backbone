@@ -1,5 +1,4 @@
-Peltula corticola Büdel & R. Sant. SPECIES
-=======
+# Peltula corticola Büdel & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

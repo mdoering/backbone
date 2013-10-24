@@ -1,5 +1,4 @@
-Tricholoma busuense Corner SPECIES
-=======
+# Tricholoma busuense Corner SPECIES
 
 #### Status
 ACCEPTED

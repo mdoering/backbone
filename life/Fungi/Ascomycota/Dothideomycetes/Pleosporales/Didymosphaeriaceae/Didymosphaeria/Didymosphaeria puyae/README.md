@@ -1,5 +1,4 @@
-Didymosphaeria puyae (Speg.) Sacc. & Trotter SPECIES
-=======
+# Didymosphaeria puyae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

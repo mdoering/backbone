@@ -1,5 +1,4 @@
-Phoma xanthoceratis Brunaud SPECIES
-=======
+# Phoma xanthoceratis Brunaud SPECIES
 
 #### Status
 ACCEPTED

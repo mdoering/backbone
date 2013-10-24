@@ -1,5 +1,4 @@
-Leptopuccinia tuberculans (Ellis & Everh.) Syd. SPECIES
-=======
+# Leptopuccinia tuberculans (Ellis & Everh.) Syd. SPECIES
 
 #### Status
 ACCEPTED

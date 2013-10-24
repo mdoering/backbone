@@ -1,5 +1,4 @@
-Fomes squalidus (Fr.) Sacc. SPECIES
-=======
+# Fomes squalidus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripospora militaris Catania & A.I. Romero SPECIES
-=======
+# Tripospora militaris Catania & A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

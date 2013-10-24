@@ -1,5 +1,4 @@
-Coccosphaerida B. Lambert, 1987 GENUS
-=======
+# Coccosphaerida B. Lambert, 1987 GENUS
 
 #### Status
 ACCEPTED

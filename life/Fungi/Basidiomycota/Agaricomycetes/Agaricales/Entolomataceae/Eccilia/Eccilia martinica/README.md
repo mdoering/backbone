@@ -1,5 +1,4 @@
-Eccilia martinica Pegler SPECIES
-=======
+# Eccilia martinica Pegler SPECIES
 
 #### Status
 ACCEPTED

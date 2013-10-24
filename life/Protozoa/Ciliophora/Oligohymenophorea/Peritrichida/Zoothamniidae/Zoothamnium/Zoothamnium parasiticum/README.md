@@ -1,5 +1,4 @@
-Zoothamnium parasiticum subsp. parasiticum SUBSPECIES
-=======
+# Zoothamnium parasiticum Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

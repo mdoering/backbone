@@ -1,5 +1,4 @@
-Gyrophila tremens Quél. SPECIES
-=======
+# Gyrophila tremens Quél. SPECIES
 
 #### Status
 ACCEPTED

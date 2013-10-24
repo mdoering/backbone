@@ -1,5 +1,4 @@
-Clavaria pulvinaris Maas Geest. SPECIES
-=======
+# Clavaria pulvinaris Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

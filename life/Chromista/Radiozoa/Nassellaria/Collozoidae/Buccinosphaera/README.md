@@ -1,5 +1,4 @@
-Buccinosphaera Haeckel, 1887 GENUS
-=======
+# Buccinosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

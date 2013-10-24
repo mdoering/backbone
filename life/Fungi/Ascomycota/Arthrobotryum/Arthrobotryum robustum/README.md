@@ -1,5 +1,4 @@
-Arthrobotryum robustum Cooke & Ellis SPECIES
-=======
+# Arthrobotryum robustum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

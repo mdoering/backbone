@@ -1,5 +1,4 @@
-Gloeosporium truncatulum Sacc. SPECIES
-=======
+# Gloeosporium truncatulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

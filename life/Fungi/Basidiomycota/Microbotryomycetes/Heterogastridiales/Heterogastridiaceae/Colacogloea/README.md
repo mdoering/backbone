@@ -1,5 +1,4 @@
-Colacogloea Oberw. & Bandoni GENUS
-=======
+# Colacogloea Oberw. & Bandoni GENUS
 
 #### Status
 ACCEPTED

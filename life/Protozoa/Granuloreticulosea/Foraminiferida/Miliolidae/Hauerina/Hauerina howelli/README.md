@@ -1,5 +1,4 @@
-Hauerina howelli SPECIES
-=======
+# Hauerina howelli SPECIES
 
 #### Status
 ACCEPTED

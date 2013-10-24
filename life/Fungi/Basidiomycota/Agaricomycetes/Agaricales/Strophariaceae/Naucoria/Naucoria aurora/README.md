@@ -1,5 +1,4 @@
-Naucoria aurora Sacc., 1891 SPECIES
-=======
+# Naucoria aurora Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED

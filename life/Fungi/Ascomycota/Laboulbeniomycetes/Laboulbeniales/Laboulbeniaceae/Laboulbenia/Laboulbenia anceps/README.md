@@ -1,5 +1,4 @@
-Laboulbenia anceps Peyr. SPECIES
-=======
+# Laboulbenia anceps Peyr. SPECIES
 
 #### Status
 ACCEPTED

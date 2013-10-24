@@ -1,5 +1,4 @@
-Depazea ficariaecola Lasch SPECIES
-=======
+# Depazea ficariaecola Lasch SPECIES
 
 #### Status
 ACCEPTED

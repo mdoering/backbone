@@ -1,5 +1,4 @@
-Psora luridella (Tuck.) Fink SPECIES
-=======
+# Psora luridella (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

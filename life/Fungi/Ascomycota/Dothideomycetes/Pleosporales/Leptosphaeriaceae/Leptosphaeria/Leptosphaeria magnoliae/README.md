@@ -1,5 +1,4 @@
-Leptosphaeria magnoliae Woron. SPECIES
-=======
+# Leptosphaeria magnoliae Woron. SPECIES
 
 #### Status
 ACCEPTED

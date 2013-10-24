@@ -1,5 +1,4 @@
-Characiopsis sublinearis Pascher SPECIES
-=======
+# Characiopsis sublinearis Pascher SPECIES
 
 #### Status
 ACCEPTED

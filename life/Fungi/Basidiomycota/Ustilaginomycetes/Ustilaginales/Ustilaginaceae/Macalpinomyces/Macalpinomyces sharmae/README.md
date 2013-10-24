@@ -1,5 +1,4 @@
-Macalpinomyces sharmae Vánky, 1995 SPECIES
-=======
+# Macalpinomyces sharmae Vánky, 1995 SPECIES
 
 #### Status
 ACCEPTED

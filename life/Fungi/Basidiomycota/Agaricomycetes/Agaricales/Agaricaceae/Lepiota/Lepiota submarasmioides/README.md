@@ -1,5 +1,4 @@
-Lepiota submarasmioides (Speg.) Sacc. SPECIES
-=======
+# Lepiota submarasmioides (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

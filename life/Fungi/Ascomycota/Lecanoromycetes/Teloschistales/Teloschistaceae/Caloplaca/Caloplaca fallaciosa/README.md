@@ -1,5 +1,4 @@
-Caloplaca fallaciosa Müll. Arg. SPECIES
-=======
+# Caloplaca fallaciosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

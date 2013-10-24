@@ -1,5 +1,4 @@
-Russula foeda Reumaux SPECIES
-=======
+# Russula foeda Reumaux SPECIES
 
 #### Status
 ACCEPTED

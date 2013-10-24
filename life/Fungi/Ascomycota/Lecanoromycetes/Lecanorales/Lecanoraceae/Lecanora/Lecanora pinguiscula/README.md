@@ -1,5 +1,4 @@
-Lecanora pinguiscula (Delile) Nyl. SPECIES
-=======
+# Lecanora pinguiscula (Delile) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina decipiens Mont. SPECIES
-=======
+# Ramalina decipiens Mont. SPECIES
 
 #### Status
 ACCEPTED

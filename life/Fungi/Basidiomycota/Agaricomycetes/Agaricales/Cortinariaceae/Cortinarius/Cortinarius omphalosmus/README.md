@@ -1,5 +1,4 @@
-Cortinarius omphalosmus Rob. Henry SPECIES
-=======
+# Cortinarius omphalosmus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

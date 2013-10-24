@@ -1,5 +1,4 @@
-Meliola brideliae Hansf. SPECIES
-=======
+# Meliola brideliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

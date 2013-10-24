@@ -1,17 +1,16 @@
-Hypholoma cotoneum (Quél.) Lange, 1923 SPECIES
-=======
+# Psathyrella cotonea (Quél.) Konrad & Maubl., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 14: 126 (1949)
 
 #### Original name
-null
+Stropharia cotonea Quél., 1876
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hessea squamosa Ormières & Sprague SPECIES
-=======
+# Hessea squamosa Ormières & Sprague SPECIES
 
 #### Status
 ACCEPTED

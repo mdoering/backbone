@@ -1,5 +1,4 @@
-Micropuccinia poromera (Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia poromera (Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

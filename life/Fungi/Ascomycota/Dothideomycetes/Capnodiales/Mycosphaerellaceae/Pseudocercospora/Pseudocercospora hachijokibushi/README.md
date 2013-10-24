@@ -1,5 +1,4 @@
-Pseudocercospora hachijokibushi C. Nakash., H. Horie & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora hachijokibushi C. Nakash., H. Horie & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

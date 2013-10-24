@@ -1,5 +1,4 @@
-Gluconacetobacter hansenii (Gosselé et al., 1983) Yamada et al., 1998 SPECIES
-=======
+# Gluconacetobacter hansenii (Gosselé et al., 1983) Yamada et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

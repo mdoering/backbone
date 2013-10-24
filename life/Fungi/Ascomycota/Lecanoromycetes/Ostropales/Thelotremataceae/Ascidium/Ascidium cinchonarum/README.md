@@ -1,17 +1,16 @@
-Ascidium cinchonarum f. cinchonarum FORM
-=======
+# Ascidium cinchonarum Fée SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris) 1: (1825)
 
 #### Original name
-null
+Ascidium cinchonarum Fée
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nakasekoellus Kozur, 1986 GENUS
-=======
+# Nakasekoellus Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

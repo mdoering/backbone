@@ -1,5 +1,4 @@
-Campanella brunnescens Pegler SPECIES
-=======
+# Campanella brunnescens Pegler SPECIES
 
 #### Status
 ACCEPTED

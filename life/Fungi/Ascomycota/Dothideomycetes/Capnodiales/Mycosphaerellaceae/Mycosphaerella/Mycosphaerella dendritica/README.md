@@ -1,5 +1,4 @@
-Mycosphaerella dendritica Crous & Summerell SPECIES
-=======
+# Mycosphaerella dendritica Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

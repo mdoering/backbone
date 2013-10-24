@@ -1,5 +1,4 @@
-Anthracothecium mulleri Patw. & Makhija SPECIES
-=======
+# Anthracothecium mulleri Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

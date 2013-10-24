@@ -1,5 +1,4 @@
-Coleosporium neosenecionis Saho SPECIES
-=======
+# Coleosporium neosenecionis Saho SPECIES
 
 #### Status
 ACCEPTED

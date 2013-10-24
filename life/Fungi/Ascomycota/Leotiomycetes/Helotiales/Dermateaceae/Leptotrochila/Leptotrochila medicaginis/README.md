@@ -1,14 +1,13 @@
-Pyrenopeziza medicaginis Fuckel, 1870 SPECIES
-=======
+# Leptotrochila medicaginis (Fuckel) Schüepp, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 295 (1870)
+Phytopath. Z. 36: 253 (1959)
 
 #### Original name
 Pyrenopeziza medicaginis Fuckel, 1870

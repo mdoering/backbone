@@ -1,5 +1,4 @@
-Solisphaeridium laevigatum Wicander & Wood, 1997 SPECIES
-=======
+# Solisphaeridium laevigatum Wicander & Wood, 1997 SPECIES
 
 #### Status
 ACCEPTED

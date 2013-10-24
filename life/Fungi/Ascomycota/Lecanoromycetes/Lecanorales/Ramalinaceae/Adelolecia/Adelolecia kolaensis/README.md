@@ -1,5 +1,4 @@
-Adelolecia kolaensis (Nyl.) Hertel & Rambold SPECIES
-=======
+# Adelolecia kolaensis (Nyl.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

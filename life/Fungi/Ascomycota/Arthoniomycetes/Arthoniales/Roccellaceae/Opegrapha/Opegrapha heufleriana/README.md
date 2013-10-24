@@ -1,5 +1,4 @@
-Opegrapha heufleriana A. Massal. SPECIES
-=======
+# Opegrapha heufleriana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

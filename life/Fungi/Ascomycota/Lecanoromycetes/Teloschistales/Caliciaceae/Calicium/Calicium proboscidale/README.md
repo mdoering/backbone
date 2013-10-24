@@ -1,5 +1,4 @@
-Calicium proboscidale Ach. SPECIES
-=======
+# Calicium proboscidale Ach. SPECIES
 
 #### Status
 ACCEPTED

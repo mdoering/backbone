@@ -1,5 +1,4 @@
-Centropyxiella elegans Valkanov, 1970 SPECIES
-=======
+# Centropyxiella elegans Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Henningsina caespitosa (Peck) Trotter SPECIES
-=======
+# Henningsina caespitosa (Peck) Trotter SPECIES
 
 #### Status
 ACCEPTED

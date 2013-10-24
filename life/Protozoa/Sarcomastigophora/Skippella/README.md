@@ -1,5 +1,4 @@
-Skippella Mamet, 1974 GENUS
-=======
+# Skippella Mamet, 1974 GENUS
 
 #### Status
 ACCEPTED

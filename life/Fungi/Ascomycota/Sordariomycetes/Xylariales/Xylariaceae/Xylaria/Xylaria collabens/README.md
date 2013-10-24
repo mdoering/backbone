@@ -1,5 +1,4 @@
-Xylaria collabens (Mont.) Mont. SPECIES
-=======
+# Xylaria collabens (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

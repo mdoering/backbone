@@ -1,5 +1,4 @@
-Lecanora novae-semiliae Zahlbr. SPECIES
-=======
+# Lecanora novae-semiliae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

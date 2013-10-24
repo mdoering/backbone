@@ -1,5 +1,4 @@
-Malonomonas Dehning & Schink, 1990 GENUS
-=======
+# Malonomonas Dehning & Schink, 1990 GENUS
 
 #### Status
 ACCEPTED

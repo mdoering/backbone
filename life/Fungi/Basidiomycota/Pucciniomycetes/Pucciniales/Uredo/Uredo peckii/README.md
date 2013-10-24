@@ -1,5 +1,4 @@
-Uredo peckii Thüm. SPECIES
-=======
+# Uredo peckii Thüm. SPECIES
 
 #### Status
 ACCEPTED

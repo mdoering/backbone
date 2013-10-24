@@ -1,5 +1,4 @@
-Lactarius laeticolorus (Imai) Imazeki SPECIES
-=======
+# Lactarius laeticolorus (Imai) Imazeki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthocorbis tintinnabulum Marchant, van den Hoff & Burton, 1987 SPECIES
-=======
+# Acanthocorbis tintinnabulum Marchant, van den Hoff & Burton, 1987 SPECIES
 
 #### Status
 ACCEPTED

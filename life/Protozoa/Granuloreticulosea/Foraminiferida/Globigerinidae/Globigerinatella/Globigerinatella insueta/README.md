@@ -1,5 +1,4 @@
-Globigerinatella insueta SPECIES
-=======
+# Globigerinatella insueta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epithyrium rugulosum Sacc. SPECIES
-=======
+# Epithyrium rugulosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

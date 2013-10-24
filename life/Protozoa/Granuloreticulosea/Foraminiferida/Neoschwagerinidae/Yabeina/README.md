@@ -1,5 +1,4 @@
-Yabeina Deprat, 1914 GENUS
-=======
+# Yabeina Deprat, 1914 GENUS
 
 #### Status
 ACCEPTED

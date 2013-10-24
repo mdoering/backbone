@@ -1,5 +1,4 @@
-Stilbum sericeum Welw. & Curr. SPECIES
-=======
+# Stilbum sericeum Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

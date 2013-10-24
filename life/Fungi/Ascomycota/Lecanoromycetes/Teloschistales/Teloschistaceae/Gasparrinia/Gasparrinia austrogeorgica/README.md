@@ -1,5 +1,4 @@
-Gasparrinia austrogeorgica C.W. Dodge SPECIES
-=======
+# Gasparrinia austrogeorgica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

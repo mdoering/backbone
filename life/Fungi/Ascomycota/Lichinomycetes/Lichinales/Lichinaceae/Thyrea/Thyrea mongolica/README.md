@@ -1,5 +1,4 @@
-Thyrea mongolica H. Magn. SPECIES
-=======
+# Thyrea mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

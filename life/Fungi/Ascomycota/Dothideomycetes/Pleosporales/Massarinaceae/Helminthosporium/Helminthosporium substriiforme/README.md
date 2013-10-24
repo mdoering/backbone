@@ -1,5 +1,4 @@
-Helminthosporium substriiforme Renault & Roche SPECIES
-=======
+# Helminthosporium substriiforme Renault & Roche SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus melzeri Velen. SPECIES
-=======
+# Boletus melzeri Velen. SPECIES
 
 #### Status
 ACCEPTED

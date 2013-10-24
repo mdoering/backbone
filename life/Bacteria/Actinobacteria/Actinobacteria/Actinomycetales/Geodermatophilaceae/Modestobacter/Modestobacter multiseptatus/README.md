@@ -1,5 +1,4 @@
-Modestobacter multiseptatus Mevs et al., 2000 SPECIES
-=======
+# Modestobacter multiseptatus Mevs et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

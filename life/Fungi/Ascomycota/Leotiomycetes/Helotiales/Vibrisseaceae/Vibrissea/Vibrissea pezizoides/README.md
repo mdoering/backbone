@@ -1,5 +1,4 @@
-Vibrissea pezizoides var. montana Velen. VARIETY
-=======
+# Vibrissea pezizoides Lib. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 382 (1934)
+null
 
 #### Original name
-Vibrissea pezizoides var. montana Velen.
+Vibrissea pezizoides Lib.
 
 ### Remarks
 null

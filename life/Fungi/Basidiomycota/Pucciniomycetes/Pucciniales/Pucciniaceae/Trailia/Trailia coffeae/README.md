@@ -1,5 +1,4 @@
-Trailia coffeae Saccas SPECIES
-=======
+# Trailia coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

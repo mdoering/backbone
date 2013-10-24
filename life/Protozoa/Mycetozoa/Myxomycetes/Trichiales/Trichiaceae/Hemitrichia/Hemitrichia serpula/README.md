@@ -1,14 +1,13 @@
-Hemiarcyria serpula (Scop.) Rostaf., 1875 SPECIES
-=======
+# Hemitrichia serpula (Scop.) Rostaf. ex Lister, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz) 266 (1875)
+Vers. Syst. Mycetozoen (Strassburg) 14 (1873)
 
 #### Original name
 null

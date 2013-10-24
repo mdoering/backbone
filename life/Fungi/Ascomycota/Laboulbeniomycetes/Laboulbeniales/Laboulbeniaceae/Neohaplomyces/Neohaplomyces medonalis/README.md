@@ -1,5 +1,4 @@
-Neohaplomyces medonalis R.K. Benj., 1955 SPECIES
-=======
+# Neohaplomyces medonalis R.K. Benj., 1955 SPECIES
 
 #### Status
 ACCEPTED

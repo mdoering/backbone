@@ -1,5 +1,4 @@
-Hexapitys Haeckel, 1881 GENUS
-=======
+# Hexapitys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

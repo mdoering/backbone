@@ -1,5 +1,4 @@
-Lecidea tapetiformis Zahlbr. SPECIES
-=======
+# Lecidea tapetiformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea carneofusca Wedd. SPECIES
-=======
+# Lecidea carneofusca Wedd. SPECIES
 
 #### Status
 ACCEPTED

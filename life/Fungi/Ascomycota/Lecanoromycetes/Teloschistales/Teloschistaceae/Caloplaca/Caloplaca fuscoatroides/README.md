@@ -1,5 +1,4 @@
-Caloplaca fuscoatroides J. Steiner SPECIES
-=======
+# Caloplaca fuscoatroides J. Steiner SPECIES
 
 #### Status
 ACCEPTED

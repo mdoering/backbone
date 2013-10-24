@@ -1,5 +1,4 @@
-Uredo scitula (Syd.) Cummins SPECIES
-=======
+# Uredo scitula (Syd.) Cummins SPECIES
 
 #### Status
 ACCEPTED

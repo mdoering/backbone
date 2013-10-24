@@ -1,8 +1,7 @@
-Macrophoma atraphaxidis Kravtzev SPECIES
-=======
+# Macrophoma atraphaxis Kravtzev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma atraphaxidis Kravtzev
+Macrophoma atraphaxis Kravtzev
 
 ### Remarks
 null

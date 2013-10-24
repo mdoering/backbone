@@ -1,17 +1,16 @@
-Fusarium coccideicola Henn. SPECIES
-=======
+# Fusarium coccidicola Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. 34: 57 (1904)
 
 #### Original name
-Fusarium coccideicola Henn.
+Fusarium coccidicola Henn., 1904
 
 ### Remarks
 null

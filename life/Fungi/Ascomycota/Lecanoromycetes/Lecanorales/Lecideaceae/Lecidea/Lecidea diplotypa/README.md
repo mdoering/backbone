@@ -1,5 +1,4 @@
-Lecidea diplotypa Vain. SPECIES
-=======
+# Lecidea diplotypa Vain. SPECIES
 
 #### Status
 ACCEPTED

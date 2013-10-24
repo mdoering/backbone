@@ -1,5 +1,4 @@
-Scleroderris sumatrana E.K. Cash & Corner SPECIES
-=======
+# Scleroderris sumatrana E.K. Cash & Corner SPECIES
 
 #### Status
 ACCEPTED

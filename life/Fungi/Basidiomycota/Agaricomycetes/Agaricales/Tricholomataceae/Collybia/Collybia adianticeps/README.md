@@ -1,5 +1,4 @@
-Collybia adianticeps Berk. & M.A. Curtis SPECIES
-=======
+# Collybia adianticeps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

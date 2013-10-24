@@ -1,5 +1,4 @@
-Septobasidium tanakae (Miyabe) Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium tanakae (Miyabe) Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

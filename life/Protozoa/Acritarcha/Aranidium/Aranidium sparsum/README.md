@@ -1,5 +1,4 @@
-Aranidium sparsum Volkova in Volkova et al., 1979 SPECIES
-=======
+# Aranidium sparsum Volkova in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

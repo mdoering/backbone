@@ -1,5 +1,4 @@
-Hyphoderma galactinum Manjón, G. Moreno & Hjortstam, 1988 SPECIES
-=======
+# Hyphoderma galactinum Manjón, G. Moreno & Hjortstam, 1988 SPECIES
 
 #### Status
 ACCEPTED

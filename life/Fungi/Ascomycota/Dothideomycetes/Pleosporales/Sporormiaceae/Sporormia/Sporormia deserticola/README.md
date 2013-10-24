@@ -1,5 +1,4 @@
-Sporormia deserticola Faurel & Schotter SPECIES
-=======
+# Sporormia deserticola Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

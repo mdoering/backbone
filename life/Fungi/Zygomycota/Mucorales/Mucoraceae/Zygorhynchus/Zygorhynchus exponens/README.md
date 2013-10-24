@@ -1,5 +1,4 @@
-Zygorhynchus exponens var. exponens VARIETY
-=======
+# Zygorhynchus exponens Burgeff, 1924 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Abh. 4: 34 (1924)
+null
 
 #### Original name
-Zygorhynchus exponens var. exponens
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsella bambusae Höhn. SPECIES
-=======
+# Phomopsella bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

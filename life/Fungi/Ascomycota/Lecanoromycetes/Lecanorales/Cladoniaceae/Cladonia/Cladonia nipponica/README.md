@@ -1,5 +1,4 @@
-Cladonia nipponica f. nipponica FORM
-=======
+# Cladonia nipponica Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lichens of Japan. Vol. I. Genus Cladonia 121 (1950)
 
 #### Original name
-Cladonia nipponica f. nipponica
+Cladonia nipponica Asahina
 
 ### Remarks
 null

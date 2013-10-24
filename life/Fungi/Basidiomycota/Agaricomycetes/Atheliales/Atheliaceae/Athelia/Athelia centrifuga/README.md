@@ -1,5 +1,4 @@
-Athelia centrifuga (Lév.) SPECIES
-=======
+# Athelia centrifuga (Lév.) SPECIES
 
 #### Status
 ACCEPTED

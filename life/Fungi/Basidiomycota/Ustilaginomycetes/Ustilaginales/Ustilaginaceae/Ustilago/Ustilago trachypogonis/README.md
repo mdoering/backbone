@@ -1,5 +1,4 @@
-Ustilago trachypogonis Zundel SPECIES
-=======
+# Ustilago trachypogonis Zundel SPECIES
 
 #### Status
 ACCEPTED

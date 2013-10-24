@@ -1,5 +1,4 @@
-Stilbum citrinum Pers. SPECIES
-=======
+# Stilbum citrinum Pers. SPECIES
 
 #### Status
 ACCEPTED

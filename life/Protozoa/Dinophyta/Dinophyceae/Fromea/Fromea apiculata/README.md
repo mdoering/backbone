@@ -1,5 +1,4 @@
-Fromea apiculata (Cookson & Eisenack, 1960) Stover & Evitt, 1978 SPECIES
-=======
+# Fromea apiculata (Cookson & Eisenack, 1960) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stampfliella Kozur, Moix & Ozsvárt, 2007 GENUS
-=======
+# Stampfliella Kozur, Moix & Ozsvárt, 2007 GENUS
 
 #### Status
 ACCEPTED

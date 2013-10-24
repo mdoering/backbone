@@ -1,5 +1,4 @@
-Bakuella granulifera Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Bakuella granulifera Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

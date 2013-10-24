@@ -1,5 +1,4 @@
-Comatricha pseudonigra G. Moreno, W.C. Rosing, D.W. Mitch. & S.L. Stephenson, 2007 SPECIES
-=======
+# Comatricha pseudonigra G. Moreno, W.C. Rosing, D.W. Mitch. & S.L. Stephenson, 2007 SPECIES
 
 #### Status
 ACCEPTED

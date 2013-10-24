@@ -1,5 +1,4 @@
-Dirina schistosa Nyl. SPECIES
-=======
+# Dirina schistosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporangium floriforme Thaxt., 1908 SPECIES
-=======
+# Gymnosporangium floriforme Thaxt., 1908 SPECIES
 
 #### Status
 ACCEPTED

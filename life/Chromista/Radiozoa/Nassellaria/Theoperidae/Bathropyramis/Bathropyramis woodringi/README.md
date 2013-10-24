@@ -1,5 +1,4 @@
-Bathropyramis woodringi Campbell & Clark, 1944 SPECIES
-=======
+# Bathropyramis woodringi Campbell & Clark, 1944 SPECIES
 
 #### Status
 ACCEPTED

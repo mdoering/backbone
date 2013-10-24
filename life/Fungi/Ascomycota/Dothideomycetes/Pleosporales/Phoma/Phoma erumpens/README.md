@@ -1,5 +1,4 @@
-Phoma erumpens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma erumpens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

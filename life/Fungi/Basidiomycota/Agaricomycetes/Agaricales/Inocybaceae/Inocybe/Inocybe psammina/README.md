@@ -1,5 +1,4 @@
-Inocybe psammina Berk. SPECIES
-=======
+# Inocybe psammina Berk. SPECIES
 
 #### Status
 ACCEPTED

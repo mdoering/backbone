@@ -1,5 +1,4 @@
-Codinaea septata B. Sutton & Hodges SPECIES
-=======
+# Codinaea septata B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex javensis Lloyd SPECIES
-=======
+# Irpex javensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

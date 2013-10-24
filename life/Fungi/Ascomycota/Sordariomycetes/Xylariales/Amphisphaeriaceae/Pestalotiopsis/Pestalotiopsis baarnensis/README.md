@@ -1,14 +1,13 @@
-Pestalotia baarnensis (Steyaert) Guba, 1961 SPECIES
-=======
+# Pestalotiopsis baarnensis Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 151 (1961)
+Bull. Jard. bot. État Brux. 14: 342 (1949)
 
 #### Original name
 Pestalotiopsis baarnensis Steyaert, 1949

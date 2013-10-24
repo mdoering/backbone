@@ -1,5 +1,4 @@
-Cercoseptoria sublineolata (Thüm.) Petr. SPECIES
-=======
+# Cercoseptoria sublineolata (Thüm.) Petr. SPECIES
 
 #### Status
 ACCEPTED

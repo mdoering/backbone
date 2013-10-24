@@ -1,5 +1,4 @@
-Bolbitius caducus Herp. SPECIES
-=======
+# Bolbitius caducus Herp. SPECIES
 
 #### Status
 ACCEPTED

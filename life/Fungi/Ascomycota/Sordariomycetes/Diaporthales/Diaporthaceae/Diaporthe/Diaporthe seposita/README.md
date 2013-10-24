@@ -1,5 +1,4 @@
-Diaporthe seposita Sacc. SPECIES
-=======
+# Diaporthe seposita Sacc. SPECIES
 
 #### Status
 ACCEPTED

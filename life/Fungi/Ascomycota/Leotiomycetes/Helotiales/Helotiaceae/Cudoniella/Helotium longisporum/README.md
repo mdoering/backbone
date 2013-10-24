@@ -1,5 +1,4 @@
-Helotium longisporum Schweers SPECIES
-=======
+# Helotium longisporum Schweers SPECIES
 
 #### Status
 ACCEPTED

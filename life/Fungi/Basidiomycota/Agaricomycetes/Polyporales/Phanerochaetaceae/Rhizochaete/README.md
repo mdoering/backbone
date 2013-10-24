@@ -1,5 +1,4 @@
-Rhizochaete Gresl., Nakasone & Rajchenb. GENUS
-=======
+# Rhizochaete Gresl., Nakasone & Rajchenb. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria elaeidis Sivan. SPECIES
-=======
+# Botryosphaeria elaeidis Sivan. SPECIES
 
 #### Status
 ACCEPTED

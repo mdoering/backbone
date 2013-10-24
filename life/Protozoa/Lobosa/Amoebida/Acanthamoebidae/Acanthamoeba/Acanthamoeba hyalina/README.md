@@ -1,5 +1,4 @@
-Acanthamoeba hyalina (Dob. O'c.) SPECIES
-=======
+# Acanthamoeba hyalina (Dob. O'c.) SPECIES
 
 #### Status
 ACCEPTED

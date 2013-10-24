@@ -1,5 +1,4 @@
-Leucothyridium crustosum Speg. SPECIES
-=======
+# Leucothyridium crustosum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix simulans Gardner SPECIES
-=======
+# Calothrix simulans Gardner SPECIES
 
 #### Status
 ACCEPTED

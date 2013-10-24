@@ -1,5 +1,4 @@
-Fusicladium lonicerae Vasyag. SPECIES
-=======
+# Fusicladium lonicerae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

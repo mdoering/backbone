@@ -1,5 +1,4 @@
-Hystrichodinium amphiacanthum Cookson & Eisenack SPECIES
-=======
+# Hystrichodinium amphiacanthum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma weizianum Reichert & Aviz.-Hersh. SPECIES
-=======
+# Tricholoma weizianum Reichert & Aviz.-Hersh. SPECIES
 
 #### Status
 ACCEPTED

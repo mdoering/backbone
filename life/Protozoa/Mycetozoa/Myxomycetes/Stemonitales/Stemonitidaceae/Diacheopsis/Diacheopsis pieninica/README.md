@@ -1,5 +1,4 @@
-Diacheopsis pieninica Krzemien., 1947 SPECIES
-=======
+# Diacheopsis pieninica Krzemien., 1947 SPECIES
 
 #### Status
 ACCEPTED

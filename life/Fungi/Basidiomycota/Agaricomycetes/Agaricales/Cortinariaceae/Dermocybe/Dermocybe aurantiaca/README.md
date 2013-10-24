@@ -1,5 +1,4 @@
-Dermocybe aurantiaca Schulz {?} SPECIES
-=======
+# Dermocybe aurantiaca Schulz {?} SPECIES
 
 #### Status
 ACCEPTED

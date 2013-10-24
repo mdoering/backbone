@@ -1,5 +1,4 @@
-Scindalma memorandum (Speg.) Kuntze SPECIES
-=======
+# Scindalma memorandum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

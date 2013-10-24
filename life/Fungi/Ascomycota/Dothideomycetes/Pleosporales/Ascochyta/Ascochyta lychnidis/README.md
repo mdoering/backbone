@@ -1,5 +1,4 @@
-Ascochyta lychnidis Lasch SPECIES
-=======
+# Ascochyta lychnidis Lasch SPECIES
 
 #### Status
 ACCEPTED

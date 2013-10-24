@@ -1,5 +1,4 @@
-Solosympodiella cylindrospora Matsush. SPECIES
-=======
+# Solosympodiella cylindrospora Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oncopodiella guamensis Matsush. SPECIES
-=======
+# Oncopodiella guamensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

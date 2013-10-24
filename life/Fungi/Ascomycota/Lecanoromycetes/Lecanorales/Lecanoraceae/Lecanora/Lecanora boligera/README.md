@@ -1,17 +1,16 @@
-Lecanora boligera var. subleprodea Räsänen VARIETY
-=======
+# Lecanora boligera (Norman ex Th. Fr.) Hedl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecanora boligera var. subleprodea Räsänen
+Lecidea fuscescens f. boligera Norman
 
 ### Remarks
 null

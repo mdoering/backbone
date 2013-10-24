@@ -1,5 +1,4 @@
-Irenina rosae Hansf. SPECIES
-=======
+# Irenina rosae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coprinus herculis Uljé & Bas SPECIES
-=======
+# Parasola hercules (Uljé & Bas) Redhead, Vilgalys & Hopple, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 235 (2001)
 
 #### Original name
-Coprinus herculis Uljé & Bas
+Coprinus hercules Uljé & Bas, 1985
 
 ### Remarks
 null

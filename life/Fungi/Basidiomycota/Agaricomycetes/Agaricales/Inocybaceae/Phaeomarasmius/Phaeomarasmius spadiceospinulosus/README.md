@@ -1,5 +1,4 @@
-Phaeomarasmius spadiceospinulosus Singer SPECIES
-=======
+# Phaeomarasmius spadiceospinulosus Singer SPECIES
 
 #### Status
 ACCEPTED

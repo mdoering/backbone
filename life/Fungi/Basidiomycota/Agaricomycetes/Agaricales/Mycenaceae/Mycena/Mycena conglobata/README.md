@@ -1,5 +1,4 @@
-Mycena conglobata Maas Geest. & Hauskn. SPECIES
-=======
+# Mycena conglobata Maas Geest. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

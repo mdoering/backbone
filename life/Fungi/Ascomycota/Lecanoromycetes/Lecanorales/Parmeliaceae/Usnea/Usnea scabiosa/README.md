@@ -1,5 +1,4 @@
-Usnea scabiosa Motyka SPECIES
-=======
+# Usnea scabiosa Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecobasidium atlanticum (A.M. Wellman) M.B. Ellis SPECIES
-=======
+# Scolecobasidium atlanticum (A.M. Wellman) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

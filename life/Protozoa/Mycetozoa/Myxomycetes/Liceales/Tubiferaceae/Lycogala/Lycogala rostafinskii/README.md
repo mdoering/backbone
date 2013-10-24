@@ -1,5 +1,4 @@
-Lycogala rostafinskii Siemaszko SPECIES
-=======
+# Lycogala rostafinskii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrocystis lanceolata Schröder SPECIES
-=======
+# Pyrocystis lanceolata Schröder SPECIES
 
 #### Status
 ACCEPTED

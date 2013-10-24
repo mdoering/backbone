@@ -1,5 +1,4 @@
-Erysiphe phyllanthi (Tanada & U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe phyllanthi (Tanada & U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

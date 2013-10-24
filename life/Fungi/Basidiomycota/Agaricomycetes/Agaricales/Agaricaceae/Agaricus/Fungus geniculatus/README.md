@@ -1,5 +1,4 @@
-Fungus geniculatus (V. Brig.) Kuntze SPECIES
-=======
+# Fungus geniculatus (V. Brig.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

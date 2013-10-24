@@ -1,17 +1,16 @@
-Humaria novo-zeelandica Henn. SPECIES
-=======
+# Humaria novozeelandica Henn., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. 18(Beibl. 44): 39 (1894)
 
 #### Original name
-Humaria novo-zeelandica Henn.
+Humaria novozeelandica Henn., 1894
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria magnospora C. Knight SPECIES
-=======
+# Verrucaria magnospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

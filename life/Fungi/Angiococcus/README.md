@@ -1,5 +1,4 @@
-Angiococcus E. Jahn GENUS
-=======
+# Angiococcus E. Jahn GENUS
 
 #### Status
 ACCEPTED

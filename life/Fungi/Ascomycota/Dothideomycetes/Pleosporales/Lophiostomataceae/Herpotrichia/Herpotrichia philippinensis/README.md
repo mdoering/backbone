@@ -1,5 +1,4 @@
-Herpotrichia philippinensis Rehm SPECIES
-=======
+# Herpotrichia philippinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

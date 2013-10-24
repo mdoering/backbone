@@ -1,5 +1,4 @@
-Cerasicoccus maritimus Yoon, Matsuo, Matsuda, Kasai & Yokota, 2010 SPECIES
-=======
+# Cerasicoccus maritimus Yoon, Matsuo, Matsuda, Kasai & Yokota, 2010 SPECIES
 
 #### Status
 ACCEPTED

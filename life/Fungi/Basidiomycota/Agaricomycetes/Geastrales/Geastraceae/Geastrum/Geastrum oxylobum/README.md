@@ -1,5 +1,4 @@
-Geastrum oxylobum Kalchbr. ex F. Muell. SPECIES
-=======
+# Geastrum oxylobum Kalchbr. ex F. Muell. SPECIES
 
 #### Status
 ACCEPTED

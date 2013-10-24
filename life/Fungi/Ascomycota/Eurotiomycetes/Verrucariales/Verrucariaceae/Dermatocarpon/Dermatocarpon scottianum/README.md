@@ -1,5 +1,4 @@
-Dermatocarpon scottianum Jatta SPECIES
-=======
+# Dermatocarpon scottianum Jatta SPECIES
 
 #### Status
 ACCEPTED

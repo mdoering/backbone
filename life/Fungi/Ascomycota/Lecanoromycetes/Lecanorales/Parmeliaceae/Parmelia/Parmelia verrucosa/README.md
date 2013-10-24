@@ -1,5 +1,4 @@
-Parmelia verrucosa (Ach.) Spreng. SPECIES
-=======
+# Parmelia verrucosa (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

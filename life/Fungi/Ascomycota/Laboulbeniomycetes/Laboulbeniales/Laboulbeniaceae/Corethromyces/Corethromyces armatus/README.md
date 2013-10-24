@@ -1,5 +1,4 @@
-Corethromyces armatus Thaxt. SPECIES
-=======
+# Corethromyces armatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

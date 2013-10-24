@@ -1,14 +1,13 @@
-Coryneum kickxii (Westend.) Traverso, 1884 SPECIES
-=======
+# Neohendersonia kickxii (Westend.) B. Sutton & Pollack, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 52(3-4): 334 (1974)
 
 #### Original name
 Stilbospora kickxii Westend., 1851

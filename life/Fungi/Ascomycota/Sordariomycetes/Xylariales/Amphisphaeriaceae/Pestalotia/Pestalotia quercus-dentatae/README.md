@@ -1,17 +1,16 @@
-Pestalotia querci-dentatae Sawada SPECIES
-=======
+# Pestalotia quercus-dentatae Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Govt Forest Exp. Stn Meguro 105: 78 (1958)
 
 #### Original name
-Pestalotia querci-dentatae Sawada
+Pestalotia quercus-dentatae Sawada
 
 ### Remarks
 null

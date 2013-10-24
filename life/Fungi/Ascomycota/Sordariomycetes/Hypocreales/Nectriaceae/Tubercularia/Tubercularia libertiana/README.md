@@ -1,5 +1,4 @@
-Tubercularia libertiana Paol. SPECIES
-=======
+# Tubercularia libertiana Paol. SPECIES
 
 #### Status
 ACCEPTED

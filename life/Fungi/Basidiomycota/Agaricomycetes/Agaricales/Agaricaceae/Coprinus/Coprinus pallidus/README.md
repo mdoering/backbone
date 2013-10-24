@@ -1,5 +1,4 @@
-Coprinus pallidus Berk. & Broome SPECIES
-=======
+# Coprinus pallidus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

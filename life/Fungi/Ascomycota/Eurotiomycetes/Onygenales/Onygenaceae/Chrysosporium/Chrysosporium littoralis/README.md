@@ -1,5 +1,4 @@
-Chrysosporium littoralis Ulfig, Guarro & Vidal-Leir. SPECIES
-=======
+# Chrysosporium littoralis Ulfig, Guarro & Vidal-Leir. SPECIES
 
 #### Status
 ACCEPTED

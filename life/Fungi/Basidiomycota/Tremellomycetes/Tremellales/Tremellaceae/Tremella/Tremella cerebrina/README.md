@@ -1,17 +1,16 @@
-Tremella cerebrina var. cerebrina VARIETY
-=======
+# Tremella cerebrina Bull. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Herb. Fr. 9: tab. 386 (1788)
 
 #### Original name
-null
+Tremella cerebrina Bull.
 
 ### Remarks
 null

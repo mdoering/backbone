@@ -1,5 +1,4 @@
-Depazea acericola Desm. SPECIES
-=======
+# Depazea acericola Desm. SPECIES
 
 #### Status
 ACCEPTED

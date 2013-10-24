@@ -1,5 +1,4 @@
-Braarudosphaera turbinea Stradner, 1963 SPECIES
-=======
+# Braarudosphaera turbinea Stradner, 1963 SPECIES
 
 #### Status
 ACCEPTED

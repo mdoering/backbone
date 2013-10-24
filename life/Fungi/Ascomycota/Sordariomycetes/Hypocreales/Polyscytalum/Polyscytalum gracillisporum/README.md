@@ -1,5 +1,4 @@
-Polyscytalum gracillisporum (Matsushima) Sutton & Hodges SPECIES
-=======
+# Polyscytalum gracillisporum (Matsushima) Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

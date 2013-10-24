@@ -1,5 +1,4 @@
-Mycena dinae Singer SPECIES
-=======
+# Mycena dinae Singer SPECIES
 
 #### Status
 ACCEPTED

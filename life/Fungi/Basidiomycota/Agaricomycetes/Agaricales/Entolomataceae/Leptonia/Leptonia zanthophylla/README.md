@@ -1,5 +1,4 @@
-Leptonia zanthophylla Largent SPECIES
-=======
+# Leptonia zanthophylla Largent SPECIES
 
 #### Status
 ACCEPTED

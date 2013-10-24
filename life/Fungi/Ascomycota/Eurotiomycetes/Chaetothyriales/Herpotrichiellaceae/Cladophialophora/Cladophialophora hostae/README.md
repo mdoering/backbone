@@ -1,5 +1,4 @@
-Cladophialophora hostae Crous, U. Braun & H.D. Shin SPECIES
-=======
+# Cladophialophora hostae Crous, U. Braun & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

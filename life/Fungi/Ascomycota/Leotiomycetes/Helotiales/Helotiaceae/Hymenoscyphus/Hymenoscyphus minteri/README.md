@@ -1,5 +1,4 @@
-Hymenoscyphus minteri M.P. Sharma SPECIES
-=======
+# Hymenoscyphus minteri M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

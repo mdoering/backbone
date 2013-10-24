@@ -1,5 +1,4 @@
-Uredo spondiae Petch SPECIES
-=======
+# Uredo spondiae Petch SPECIES
 
 #### Status
 ACCEPTED

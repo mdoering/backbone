@@ -1,5 +1,4 @@
-Endictyaceae Crawford FAMILY
-=======
+# Endictyaceae Crawford FAMILY
 
 #### Status
 ACCEPTED

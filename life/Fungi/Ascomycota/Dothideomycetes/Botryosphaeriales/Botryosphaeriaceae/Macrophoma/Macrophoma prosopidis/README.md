@@ -1,5 +1,4 @@
-Macrophoma prosopidis S.A. Khan & M. Kamal SPECIES
-=======
+# Macrophoma prosopidis S.A. Khan & M. Kamal SPECIES
 
 #### Status
 ACCEPTED

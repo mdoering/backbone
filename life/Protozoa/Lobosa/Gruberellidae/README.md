@@ -1,5 +1,4 @@
-Gruberellidae FAMILY
-=======
+# Gruberellidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena vitreata (Britzelm.) Sacc. SPECIES
-=======
+# Mycena vitreata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

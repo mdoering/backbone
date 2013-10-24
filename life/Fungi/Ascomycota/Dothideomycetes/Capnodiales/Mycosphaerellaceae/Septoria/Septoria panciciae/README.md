@@ -1,5 +1,4 @@
-Septoria panciciae Bubák SPECIES
-=======
+# Septoria panciciae Bubák SPECIES
 
 #### Status
 ACCEPTED

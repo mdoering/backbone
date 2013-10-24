@@ -1,5 +1,4 @@
-Opegrapha vernicosa Fée SPECIES
-=======
+# Opegrapha vernicosa Fée SPECIES
 
 #### Status
 ACCEPTED

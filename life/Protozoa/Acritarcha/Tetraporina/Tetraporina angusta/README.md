@@ -1,5 +1,4 @@
-Tetraporina angusta Kondratyev, 1963 SPECIES
-=======
+# Tetraporina angusta Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

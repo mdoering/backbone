@@ -1,5 +1,4 @@
-Diplodina peltigerae Vouaux SPECIES
-=======
+# Diplodina peltigerae Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria leptosphaerioides Pass. SPECIES
-=======
+# Aposphaeria leptosphaerioides Pass. SPECIES
 
 #### Status
 ACCEPTED

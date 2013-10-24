@@ -1,5 +1,4 @@
-Tetraploa Berkeley & Broome, 1850 GENUS
-=======
+# Tetraploa Berkeley & Broome, 1850 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium patens Pitt & A.D. Hocking, 1985 SPECIES
-=======
+# Penicillium patens Pitt & A.D. Hocking, 1985 SPECIES
 
 #### Status
 DOUBTFUL

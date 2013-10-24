@@ -1,5 +1,4 @@
-Powellomyces hirtus Longcore, D.J.S. Barr & Désauln., 1995 SPECIES
-=======
+# Powellomyces hirtus Longcore, D.J.S. Barr & Désauln., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina rubrireagens Gyeln. SPECIES
-=======
+# Stictina rubrireagens Gyeln. SPECIES
 
 #### Status
 ACCEPTED

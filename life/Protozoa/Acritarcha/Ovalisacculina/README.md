@@ -1,5 +1,4 @@
-Ovalisacculina Naumova GENUS
-=======
+# Ovalisacculina Naumova GENUS
 
 #### Status
 ACCEPTED

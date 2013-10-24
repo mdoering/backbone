@@ -1,5 +1,4 @@
-Cylindrospermum minutum Wood SPECIES
-=======
+# Cylindrospermum minutum Wood SPECIES
 
 #### Status
 ACCEPTED

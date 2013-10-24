@@ -1,5 +1,4 @@
-Aecidium pusillum Dietel SPECIES
-=======
+# Aecidium pusillum Dietel SPECIES
 
 #### Status
 ACCEPTED

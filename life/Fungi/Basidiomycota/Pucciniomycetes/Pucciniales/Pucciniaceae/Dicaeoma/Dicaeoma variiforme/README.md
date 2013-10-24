@@ -1,5 +1,4 @@
-Dicaeoma variiforme (Pat.) Kuntze SPECIES
-=======
+# Dicaeoma variiforme (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

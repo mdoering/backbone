@@ -1,14 +1,13 @@
-Lecania vallatula Jatta SPECIES
-=======
+# Bacidia vallatula (Jatta) Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Boll. Soc. bot. ital. 255 (1911)
+J. Linn. Soc. , Bot. 111(2): 227 (1993)
 
 #### Original name
 Lecania vallatula Jatta

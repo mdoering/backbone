@@ -1,5 +1,4 @@
-Spirolina pedum d'Orbigny, 1850 SPECIES
-=======
+# Spirolina pedum d'Orbigny, 1850 SPECIES
 
 #### Status
 ACCEPTED

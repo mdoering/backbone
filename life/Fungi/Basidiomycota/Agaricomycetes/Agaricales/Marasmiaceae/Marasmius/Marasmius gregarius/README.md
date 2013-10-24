@@ -1,5 +1,4 @@
-Marasmius gregarius Peck SPECIES
-=======
+# Marasmius gregarius Peck SPECIES
 
 #### Status
 ACCEPTED

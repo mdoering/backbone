@@ -1,5 +1,4 @@
-Nostoc muscorum C. Agardh SPECIES
-=======
+# Nostoc muscorum C. Agardh SPECIES
 
 #### Status
 ACCEPTED

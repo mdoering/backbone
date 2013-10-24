@@ -1,5 +1,4 @@
-Boletus subfraternus Coker & Beers SPECIES
-=======
+# Boletus subfraternus Coker & Beers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria radians (Kützing) D.M. Williams & Round SPECIES
-=======
+# Fragilaria radians (Kützing) D.M. Williams & Round SPECIES
 
 #### Status
 ACCEPTED

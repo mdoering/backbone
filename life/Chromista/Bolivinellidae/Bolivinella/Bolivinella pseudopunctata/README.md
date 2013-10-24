@@ -1,5 +1,4 @@
-Bolivinella pseudopunctata (Höglund, 1947) SPECIES
-=======
+# Bolivinella pseudopunctata (Höglund, 1947) SPECIES
 
 #### Status
 ACCEPTED

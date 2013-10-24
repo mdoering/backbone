@@ -1,5 +1,4 @@
-Spumiosa dgetimica Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
-=======
+# Spumiosa dgetimica Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa punctostoma Ellis SPECIES
-=======
+# Valsa punctostoma Ellis SPECIES
 
 #### Status
 ACCEPTED

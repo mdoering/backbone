@@ -1,5 +1,4 @@
-Cercospora pleopeltidis Chidd. SPECIES
-=======
+# Cercospora pleopeltidis Chidd. SPECIES
 
 #### Status
 ACCEPTED

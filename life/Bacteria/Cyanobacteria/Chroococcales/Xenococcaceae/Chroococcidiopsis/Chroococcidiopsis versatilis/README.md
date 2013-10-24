@@ -1,5 +1,4 @@
-Chroococcidiopsis versatilis I. Dor, N. Carl & I. Baldinger SPECIES
-=======
+# Chroococcidiopsis versatilis I. Dor, N. Carl & I. Baldinger SPECIES
 
 #### Status
 ACCEPTED

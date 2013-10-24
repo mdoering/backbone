@@ -1,11 +1,10 @@
-Sporidesmiella hyalosperma hyalosperma (Corda) P. M. Kirk SUBSPECIES
-=======
+# Sporidesmiella hyalosperma (Corda) P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Exophiala placitae Crous & Summerell SPECIES
-=======
+# Exophiala placitae Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

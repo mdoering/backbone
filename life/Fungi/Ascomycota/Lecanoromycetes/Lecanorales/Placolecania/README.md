@@ -1,5 +1,4 @@
-Placolecania GENUS
-=======
+# Placolecania GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium ovatum SPECIES
-=======
+# Zoothamnium ovatum SPECIES
 
 #### Status
 ACCEPTED

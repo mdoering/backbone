@@ -1,5 +1,4 @@
-Spathidium securiforme subsp. securiforme SUBSPECIES
-=======
+# Spathidium securiforme (Kahl, 1930) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

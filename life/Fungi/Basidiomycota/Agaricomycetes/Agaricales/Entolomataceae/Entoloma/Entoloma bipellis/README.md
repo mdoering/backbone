@@ -1,17 +1,16 @@
-Entoloma bipelle Noordel. & T. Borgen SPECIES
-=======
+# Entoloma bipellis Noordel. & T. Borgen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Noordeloos, Persoonia 12(3): 282 (1984)
 
 #### Original name
-Entoloma bipelle Noordel. & T. Borgen
+Entoloma bipellis Noordel. & T. Borgen
 
 ### Remarks
 null

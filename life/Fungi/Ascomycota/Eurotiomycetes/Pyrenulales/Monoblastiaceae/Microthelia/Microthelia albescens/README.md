@@ -1,5 +1,4 @@
-Microthelia albescens (Niessl) Kuntze SPECIES
-=======
+# Microthelia albescens (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

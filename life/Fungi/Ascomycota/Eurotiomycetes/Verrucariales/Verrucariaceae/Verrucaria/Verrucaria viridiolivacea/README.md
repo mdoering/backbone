@@ -1,5 +1,4 @@
-Verrucaria viridiolivacea SPECIES
-=======
+# Verrucaria viridiolivacea SPECIES
 
 #### Status
 ACCEPTED

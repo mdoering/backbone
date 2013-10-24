@@ -1,5 +1,4 @@
-Usnea arizonica Motyka SPECIES
-=======
+# Usnea arizonica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum luteum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum luteum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

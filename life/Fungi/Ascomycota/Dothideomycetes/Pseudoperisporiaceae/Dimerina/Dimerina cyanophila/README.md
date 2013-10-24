@@ -1,5 +1,4 @@
-Dimerina cyanophila Feldmann SPECIES
-=======
+# Dimerina cyanophila Feldmann SPECIES
 
 #### Status
 ACCEPTED

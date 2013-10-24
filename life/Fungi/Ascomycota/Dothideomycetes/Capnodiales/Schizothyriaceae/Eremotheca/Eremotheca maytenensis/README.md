@@ -1,5 +1,4 @@
-Eremotheca maytenensis Bat. SPECIES
-=======
+# Eremotheca maytenensis Bat. SPECIES
 
 #### Status
 ACCEPTED

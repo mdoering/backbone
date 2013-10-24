@@ -1,17 +1,16 @@
-Cercospora richardiaecola G.F. Atk. SPECIES
-=======
+# Cercospora richardiicola G.F. Atk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 8(2): 51 (1891)
 
 #### Original name
-Cercospora richardiaecola G.F. Atk.
+Cercospora richardiicola G.F. Atk.
 
 ### Remarks
 null

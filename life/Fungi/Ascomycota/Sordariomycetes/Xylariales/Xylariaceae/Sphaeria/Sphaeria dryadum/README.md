@@ -1,5 +1,4 @@
-Sphaeria dryadum Ettingsh. SPECIES
-=======
+# Sphaeria dryadum Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

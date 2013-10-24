@@ -1,5 +1,4 @@
-Zoothamnium robustum Stiller, 1950 SPECIES
-=======
+# Zoothamnium robustum Stiller, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora turkestanica Rehm SPECIES
-=======
+# Pleospora turkestanica Rehm SPECIES
 
 #### Status
 ACCEPTED

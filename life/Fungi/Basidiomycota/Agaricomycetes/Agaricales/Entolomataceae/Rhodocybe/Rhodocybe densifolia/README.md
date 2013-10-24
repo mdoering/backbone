@@ -1,5 +1,4 @@
-Rhodocybe densifolia T.J. Baroni & Ovrebo SPECIES
-=======
+# Rhodocybe densifolia T.J. Baroni & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

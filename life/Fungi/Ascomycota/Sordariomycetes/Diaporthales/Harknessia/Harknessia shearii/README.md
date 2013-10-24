@@ -1,5 +1,4 @@
-Harknessia shearii Petr. SPECIES
-=======
+# Harknessia shearii Petr. SPECIES
 
 #### Status
 ACCEPTED

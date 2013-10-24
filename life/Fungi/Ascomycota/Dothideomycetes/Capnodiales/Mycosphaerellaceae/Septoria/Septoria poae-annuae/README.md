@@ -1,5 +1,4 @@
-Septoria poae-annuae f. poae-annuae FORM
-=======
+# Septoria poae-annuae Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria poae-annuae f. poae-annuae
+Septoria poae-annuae Bres.
 
 ### Remarks
 null

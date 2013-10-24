@@ -1,5 +1,4 @@
-Diplodia dryadea Sacc. SPECIES
-=======
+# Diplodia dryadea Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglossum multiforme (Henn.) Sacc. SPECIES
-=======
+# Microglossum multiforme (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

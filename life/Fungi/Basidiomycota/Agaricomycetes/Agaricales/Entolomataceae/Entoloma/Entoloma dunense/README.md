@@ -1,5 +1,4 @@
-Entoloma dunense E. Horak SPECIES
-=======
+# Entoloma dunense E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis macilenta (Roberge) Petr. SPECIES
-=======
+# Phomopsis macilenta (Roberge) Petr. SPECIES
 
 #### Status
 ACCEPTED

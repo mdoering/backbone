@@ -1,5 +1,4 @@
-Helminthosporium varroniae F. Stevens SPECIES
-=======
+# Helminthosporium varroniae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

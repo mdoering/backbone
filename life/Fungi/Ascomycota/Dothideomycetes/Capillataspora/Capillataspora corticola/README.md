@@ -1,5 +1,4 @@
-Capillataspora corticola K.D. Hyde, 1989 SPECIES
-=======
+# Capillataspora corticola K.D. Hyde, 1989 SPECIES
 
 #### Status
 ACCEPTED

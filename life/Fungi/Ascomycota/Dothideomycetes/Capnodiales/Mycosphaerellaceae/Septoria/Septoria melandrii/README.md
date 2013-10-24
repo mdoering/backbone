@@ -1,5 +1,4 @@
-Septoria melandrii var. melandrii VARIETY
-=======
+# Septoria melandrii Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungi Parm. Sept. no. 11 (1879)
 
 #### Original name
-Septoria melandrii var. melandrii
+Septoria melandrii Pass.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stereum puiggarii var. puiggarii VARIETY
-=======
+# Stereum puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungi Fuegiani 11: 461 (1889)
 
 #### Original name
-Stereum puiggarii var. puiggarii
+Stereum puiggarii Speg.
 
 ### Remarks
 null

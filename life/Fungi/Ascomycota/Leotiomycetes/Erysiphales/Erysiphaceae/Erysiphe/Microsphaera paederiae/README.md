@@ -1,5 +1,4 @@
-Microsphaera paederiae Tanada, Y. Nomura & U. Braun SPECIES
-=======
+# Microsphaera paederiae Tanada, Y. Nomura & U. Braun SPECIES
 
 #### Status
 ACCEPTED

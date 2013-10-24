@@ -1,5 +1,4 @@
-Pseudocercospora nicolaiae (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora nicolaiae (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

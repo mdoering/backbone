@@ -1,5 +1,4 @@
-Cyclotella spinosa Schum. SPECIES
-=======
+# Cyclotella spinosa Schum. SPECIES
 
 #### Status
 ACCEPTED

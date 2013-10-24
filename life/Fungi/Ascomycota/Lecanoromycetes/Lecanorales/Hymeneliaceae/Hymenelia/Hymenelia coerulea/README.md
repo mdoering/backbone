@@ -1,8 +1,7 @@
-Aspicilia coerulea (A. Massal.) Lindau SPECIES
-=======
+# Hymenelia coerulea A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Verrucaria caerulea DC.
+Hymenelia coerulea A. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Isaria eristalidis Yasuda SPECIES
-=======
+# Isaria eristalidis Yasuda SPECIES
 
 #### Status
 ACCEPTED

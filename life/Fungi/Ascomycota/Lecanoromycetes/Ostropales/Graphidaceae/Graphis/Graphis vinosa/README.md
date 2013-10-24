@@ -1,5 +1,4 @@
-Graphis vinosa Müll. Arg. SPECIES
-=======
+# Graphis vinosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

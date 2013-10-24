@@ -1,5 +1,4 @@
-Arthonia hypochniza Nyl. SPECIES
-=======
+# Arthonia hypochniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

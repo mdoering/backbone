@@ -1,5 +1,4 @@
-Cercospora gmelinae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora gmelinae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

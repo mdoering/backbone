@@ -1,5 +1,4 @@
-Coniochaeta albidomucosa Petr. SPECIES
-=======
+# Coniochaeta albidomucosa Petr. SPECIES
 
 #### Status
 ACCEPTED

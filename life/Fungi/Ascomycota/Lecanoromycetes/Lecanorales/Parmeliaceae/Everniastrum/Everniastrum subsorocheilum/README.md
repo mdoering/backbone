@@ -1,5 +1,4 @@
-Everniastrum subsorocheilum Y.M. Jiang & J.C. Wei SPECIES
-=======
+# Everniastrum subsorocheilum Y.M. Jiang & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

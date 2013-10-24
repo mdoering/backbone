@@ -1,5 +1,4 @@
-Thallisphaera Dumort. GENUS
-=======
+# Thallisphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

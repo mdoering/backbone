@@ -1,5 +1,4 @@
-Diploschistes minor (Kremp.) Zahlbr. SPECIES
-=======
+# Diploschistes minor (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

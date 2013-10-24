@@ -1,5 +1,4 @@
-Phyllosticta ruscigena Sacc., 1915 SPECIES
-=======
+# Phyllosticta ruscigena Sacc., 1915 SPECIES
 
 #### Status
 ACCEPTED

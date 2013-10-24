@@ -1,14 +1,13 @@
-Lachnella capitata (Peck) Seaver, 1951 SPECIES
-=======
+# Lachnum capitatum (Peck) Svrcek, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Inoperculates) 254 (1951)
+Ceská Mykol. 39(4): 214 (1985)
 
 #### Original name
 null

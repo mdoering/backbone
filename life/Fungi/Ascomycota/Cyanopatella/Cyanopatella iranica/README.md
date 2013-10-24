@@ -1,5 +1,4 @@
-Cyanopatella iranica Petr., 1949 SPECIES
-=======
+# Cyanopatella iranica Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petasiforma Pessagno, 1969 GENUS
-=======
+# Petasiforma Pessagno, 1969 GENUS
 
 #### Status
 ACCEPTED

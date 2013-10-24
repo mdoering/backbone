@@ -1,5 +1,4 @@
-Sphacelotheca aristidae-lanuginosae Maire SPECIES
-=======
+# Sphacelotheca aristidae-lanuginosae Maire SPECIES
 
 #### Status
 ACCEPTED

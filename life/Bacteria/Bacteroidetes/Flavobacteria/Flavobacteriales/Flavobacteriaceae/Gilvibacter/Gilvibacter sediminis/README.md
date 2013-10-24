@@ -1,5 +1,4 @@
-Gilvibacter sediminis Khan, Nakagawa & Harayama, 2007 SPECIES
-=======
+# Gilvibacter sediminis Khan, Nakagawa & Harayama, 2007 SPECIES
 
 #### Status
 ACCEPTED

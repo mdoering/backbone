@@ -1,5 +1,4 @@
-Calicium pallidellum Willey SPECIES
-=======
+# Calicium pallidellum Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria paludosa P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria paludosa P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

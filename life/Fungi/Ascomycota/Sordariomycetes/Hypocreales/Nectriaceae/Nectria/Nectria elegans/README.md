@@ -1,5 +1,4 @@
-Nectria elegans Y. Yamam. & Maeda SPECIES
-=======
+# Nectria elegans Y. Yamam. & Maeda SPECIES
 
 #### Status
 ACCEPTED

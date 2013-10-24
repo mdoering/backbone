@@ -1,5 +1,4 @@
-Pestalotia nandinae Gutner SPECIES
-=======
+# Pestalotia nandinae Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelia graminearum Schwarzman & Philimonova SPECIES
-=======
+# Sphacelia graminearum Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthoniactis (Vain.) Clem., 1909 GENUS
-=======
+# Arthoniactis (Vain.) Clem., 1909 GENUS
 
 #### Status
 ACCEPTED

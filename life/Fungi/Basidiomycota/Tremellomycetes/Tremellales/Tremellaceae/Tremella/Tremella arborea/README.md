@@ -1,5 +1,4 @@
-Tremella arborea Hoffm. SPECIES
-=======
+# Tremella arborea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

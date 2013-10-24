@@ -1,5 +1,4 @@
-Coniothyrium heliotropii Golovin SPECIES
-=======
+# Coniothyrium heliotropii Golovin SPECIES
 
 #### Status
 ACCEPTED

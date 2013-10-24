@@ -1,5 +1,4 @@
-Coniothyrium pycnanthae McAlpine SPECIES
-=======
+# Coniothyrium pycnanthae McAlpine SPECIES
 
 #### Status
 ACCEPTED

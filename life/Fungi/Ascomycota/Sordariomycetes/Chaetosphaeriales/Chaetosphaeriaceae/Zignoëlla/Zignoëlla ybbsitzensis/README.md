@@ -1,5 +1,4 @@
-Zignoëlla ybbsitzensis Strasser SPECIES
-=======
+# Zignoëlla ybbsitzensis Strasser SPECIES
 
 #### Status
 ACCEPTED

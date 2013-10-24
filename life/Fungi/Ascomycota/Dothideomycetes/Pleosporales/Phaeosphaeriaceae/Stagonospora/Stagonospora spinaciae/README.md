@@ -1,5 +1,4 @@
-Stagonospora spinaciae Ellis & Everh. SPECIES
-=======
+# Stagonospora spinaciae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

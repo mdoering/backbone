@@ -1,5 +1,4 @@
-Puccinia tunuyanensis J.C. Lindq. SPECIES
-=======
+# Puccinia tunuyanensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

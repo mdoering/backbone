@@ -1,17 +1,16 @@
-Asterina bredmeyerae Rehm SPECIES
-=======
+# Asterina bredemeyerae Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 40: 161 (1901)
 
 #### Original name
-Asterina bredmeyerae Rehm
+Asterina bredemeyerae Rehm
 
 ### Remarks
 null

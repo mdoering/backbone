@@ -1,5 +1,4 @@
-Ceratomyces aquatilis F. Picard SPECIES
-=======
+# Ceratomyces aquatilis F. Picard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina liquidambaris (Tharp) E.B.G. Jones & W.B. Kendr. SPECIES
-=======
+# Stigmina liquidambaris (Tharp) E.B.G. Jones & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

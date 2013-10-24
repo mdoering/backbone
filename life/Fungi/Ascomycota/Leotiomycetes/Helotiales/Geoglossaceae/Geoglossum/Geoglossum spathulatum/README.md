@@ -1,5 +1,4 @@
-Geoglossum spathulatum Massee SPECIES
-=======
+# Geoglossum spathulatum Massee SPECIES
 
 #### Status
 ACCEPTED

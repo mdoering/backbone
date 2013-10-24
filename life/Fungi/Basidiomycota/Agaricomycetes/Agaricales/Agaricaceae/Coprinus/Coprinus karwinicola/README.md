@@ -1,5 +1,4 @@
-Coprinus karwinicola Grgur. SPECIES
-=======
+# Coprinus karwinicola Grgur. SPECIES
 
 #### Status
 ACCEPTED

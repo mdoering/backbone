@@ -1,5 +1,4 @@
-Phomopsis rhagadioli Novoss. SPECIES
-=======
+# Phomopsis rhagadioli Novoss. SPECIES
 
 #### Status
 ACCEPTED

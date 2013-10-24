@@ -1,8 +1,7 @@
-Dentalina plebeia Reuss, 1855 SPECIES
-=======
+# Laevidentalina plebeia (Reuss, 1855) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Phaeodothiopsis bambusella Höhn. SPECIES
-=======
+# Phaeodothiopsis bambusella Höhn. SPECIES
 
 #### Status
 ACCEPTED

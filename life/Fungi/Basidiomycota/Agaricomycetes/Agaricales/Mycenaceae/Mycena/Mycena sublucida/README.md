@@ -1,5 +1,4 @@
-Mycena sublucida Grgur. & A.A. Holland SPECIES
-=======
+# Mycena sublucida Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

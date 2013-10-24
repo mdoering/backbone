@@ -1,5 +1,4 @@
-Pertusaria tornensis H. Magn. SPECIES
-=======
+# Pertusaria tornensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

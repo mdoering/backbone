@@ -1,5 +1,4 @@
-Tripodictya Haeckel, 1881 GENUS
-=======
+# Tripodictya Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

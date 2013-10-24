@@ -1,5 +1,4 @@
-Coryneum sorbi Peck SPECIES
-=======
+# Coryneum sorbi Peck SPECIES
 
 #### Status
 ACCEPTED

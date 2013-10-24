@@ -1,5 +1,4 @@
-Phoma pendula Tassi SPECIES
-=======
+# Phoma pendula Tassi SPECIES
 
 #### Status
 ACCEPTED

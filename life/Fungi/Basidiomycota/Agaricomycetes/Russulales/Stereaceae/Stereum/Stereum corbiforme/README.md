@@ -1,5 +1,4 @@
-Stereum corbiforme (Fr.) Rick SPECIES
-=======
+# Stereum corbiforme (Fr.) Rick SPECIES
 
 #### Status
 ACCEPTED

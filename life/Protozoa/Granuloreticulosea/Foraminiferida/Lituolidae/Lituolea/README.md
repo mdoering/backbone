@@ -1,5 +1,4 @@
-Lituolea GENUS
-=======
+# Lituolea GENUS
 
 #### Status
 ACCEPTED

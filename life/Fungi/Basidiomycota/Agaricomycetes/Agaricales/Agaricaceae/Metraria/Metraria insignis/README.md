@@ -1,17 +1,16 @@
-Annularia insignis (Cooke & Massee) Sacc., 1891 SPECIES
-=======
+# Metraria insignis Cooke & Massee ex Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 82 (1891)
 
 #### Original name
-Metraria insignis Cooke & Massee ex Sacc., 1891
+Agaricus insignis Cooke & Massee, 1889
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus comtuliformis Murrill SPECIES
-=======
+# Agaricus comtuliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

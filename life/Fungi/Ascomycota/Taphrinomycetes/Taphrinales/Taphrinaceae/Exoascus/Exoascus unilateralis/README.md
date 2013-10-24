@@ -1,5 +1,4 @@
-Exoascus unilateralis Peck SPECIES
-=======
+# Exoascus unilateralis Peck SPECIES
 
 #### Status
 ACCEPTED

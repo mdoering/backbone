@@ -1,5 +1,4 @@
-Cicadomyces liberiae Buchner SPECIES
-=======
+# Cicadomyces liberiae Buchner SPECIES
 
 #### Status
 ACCEPTED

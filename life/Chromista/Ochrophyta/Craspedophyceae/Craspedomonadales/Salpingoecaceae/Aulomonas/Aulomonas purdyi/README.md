@@ -1,5 +1,4 @@
-Aulomonas purdyi Lackey, 1942 SPECIES
-=======
+# Aulomonas purdyi Lackey, 1942 SPECIES
 
 #### Status
 ACCEPTED

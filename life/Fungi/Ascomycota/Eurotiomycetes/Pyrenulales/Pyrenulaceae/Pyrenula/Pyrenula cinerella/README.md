@@ -1,5 +1,4 @@
-Pyrenula cinerella Branth & Rostr. SPECIES
-=======
+# Pyrenula cinerella Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED

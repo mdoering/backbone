@@ -1,17 +1,16 @@
-Polyblastia fuscoargillacea f. fuscoargillacea FORM
-=======
+# Polyblastia cupularis A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 148 (1852)
 
 #### Original name
-Polyblastia fuscoargillacea f. fuscoargillacea
+Polyblastia cupularis A. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ustilago leucostachys Henn. SPECIES
-=======
+# Ustilago leucostachys Henn. SPECIES
 
 #### Status
 ACCEPTED

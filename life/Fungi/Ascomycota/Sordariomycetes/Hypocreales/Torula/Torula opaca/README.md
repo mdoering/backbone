@@ -1,5 +1,4 @@
-Torula opaca Cooke SPECIES
-=======
+# Torula opaca Cooke SPECIES
 
 #### Status
 ACCEPTED

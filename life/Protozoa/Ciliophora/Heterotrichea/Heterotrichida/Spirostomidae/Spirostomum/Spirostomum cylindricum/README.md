@@ -1,5 +1,4 @@
-Spirostomum cylindricum Dumas, 1930 SPECIES
-=======
+# Spirostomum cylindricum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

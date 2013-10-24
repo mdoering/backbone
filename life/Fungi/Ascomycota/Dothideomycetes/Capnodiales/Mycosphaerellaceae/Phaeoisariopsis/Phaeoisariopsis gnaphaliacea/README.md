@@ -1,5 +1,4 @@
-Phaeoisariopsis gnaphaliacea (Cooke) Morgan-Jones SPECIES
-=======
+# Phaeoisariopsis gnaphaliacea (Cooke) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

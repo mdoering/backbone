@@ -1,5 +1,4 @@
-Parmotrema fasciculatum (Vain.) Hale SPECIES
-=======
+# Parmotrema fasciculatum (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED

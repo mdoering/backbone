@@ -1,5 +1,4 @@
-Corticium cerinum Bres. SPECIES
-=======
+# Corticium cerinum Bres. SPECIES
 
 #### Status
 ACCEPTED

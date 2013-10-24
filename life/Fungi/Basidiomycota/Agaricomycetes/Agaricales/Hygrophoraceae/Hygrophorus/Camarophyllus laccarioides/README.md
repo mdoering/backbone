@@ -1,5 +1,4 @@
-Camarophyllus laccarioides Singer SPECIES
-=======
+# Camarophyllus laccarioides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catacombas gaillonii (Bory de Saint-Vincent) D.M. Williams & Round SPECIES
-=======
+# Catacombas gaillonii (Bory de Saint-Vincent) D.M. Williams & Round SPECIES
 
 #### Status
 ACCEPTED

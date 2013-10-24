@@ -1,5 +1,4 @@
-Bilimbia subfuscula f. subfuscula FORM
-=======
+# Lecania subfuscula (Nyl.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 127: 134 (1996)
 
 #### Original name
 Lecidea subfuscula Nyl.

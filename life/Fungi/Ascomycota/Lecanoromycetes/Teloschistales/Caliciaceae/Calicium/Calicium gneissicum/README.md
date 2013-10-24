@@ -1,5 +1,4 @@
-Calicium gneissicum Nyl. SPECIES
-=======
+# Calicium gneissicum Nyl. SPECIES
 
 #### Status
 ACCEPTED

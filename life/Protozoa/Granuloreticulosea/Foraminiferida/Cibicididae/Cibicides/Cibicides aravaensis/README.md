@@ -1,5 +1,4 @@
-Cibicides aravaensis Perelis & Reiss, 1975 SPECIES
-=======
+# Cibicides aravaensis Perelis & Reiss, 1975 SPECIES
 
 #### Status
 ACCEPTED

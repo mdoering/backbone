@@ -1,5 +1,4 @@
-Waddliaceae FAMILY
-=======
+# Waddliaceae FAMILY
 
 #### Status
 ACCEPTED

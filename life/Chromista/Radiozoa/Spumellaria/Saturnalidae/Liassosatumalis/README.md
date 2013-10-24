@@ -1,5 +1,4 @@
-Liassosatumalis GENUS
-=======
+# Liassosatumalis GENUS
 
 #### Status
 ACCEPTED

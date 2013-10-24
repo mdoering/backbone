@@ -1,5 +1,4 @@
-Catillaria chroolepus SPECIES
-=======
+# Catillaria chroolepus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochromonas vallesiaca Chodat SPECIES
-=======
+# Ochromonas vallesiaca Chodat SPECIES
 
 #### Status
 ACCEPTED

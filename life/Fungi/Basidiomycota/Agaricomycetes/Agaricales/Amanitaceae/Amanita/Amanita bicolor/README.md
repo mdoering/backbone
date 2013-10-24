@@ -1,5 +1,4 @@
-Amanita bicolor Consiglio, Contu & Setti SPECIES
-=======
+# Amanita bicolor Consiglio, Contu & Setti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus limpidus (Fr.) Sacc. SPECIES
-=======
+# Pleurotus limpidus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

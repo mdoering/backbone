@@ -1,5 +1,4 @@
-Hypocrella hirsuta P. Chaverri & K.T. Hodge SPECIES
-=======
+# Hypocrella hirsuta P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

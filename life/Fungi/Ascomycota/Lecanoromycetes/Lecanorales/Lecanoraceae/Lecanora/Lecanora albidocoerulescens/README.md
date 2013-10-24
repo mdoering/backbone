@@ -1,5 +1,4 @@
-Lecanora albidocoerulescens (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora albidocoerulescens (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

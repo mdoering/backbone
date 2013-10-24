@@ -1,5 +1,4 @@
-Mendicodinium reticulatum Morgenroth, 1970 SPECIES
-=======
+# Mendicodinium reticulatum Morgenroth, 1970 SPECIES
 
 #### Status
 ACCEPTED

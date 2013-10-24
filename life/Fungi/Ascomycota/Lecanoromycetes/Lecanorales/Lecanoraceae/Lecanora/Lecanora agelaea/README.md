@@ -1,5 +1,4 @@
-Lecanora agelaea (Ach.) Röhl. SPECIES
-=======
+# Lecanora agelaea (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

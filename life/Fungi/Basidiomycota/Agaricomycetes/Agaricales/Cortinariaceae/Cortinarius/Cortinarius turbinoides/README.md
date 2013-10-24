@@ -1,5 +1,4 @@
-Cortinarius turbinoides Kauffman SPECIES
-=======
+# Cortinarius turbinoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia heterospora Pass. SPECIES
-=======
+# Hendersonia heterospora Pass. SPECIES
 
 #### Status
 ACCEPTED

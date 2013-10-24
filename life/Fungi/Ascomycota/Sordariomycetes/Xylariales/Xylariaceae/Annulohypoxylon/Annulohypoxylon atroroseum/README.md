@@ -1,14 +1,13 @@
-Hypoxylon atroroseum J.D. Rogers, 1981 SPECIES
-=======
+# Annulohypoxylon atroroseum (J.D. Rogers) Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 59: 1363 (1981)
+Mycologia 97(4): 857 (2005)
 
 #### Original name
 Hypoxylon atroroseum J.D. Rogers, 1981

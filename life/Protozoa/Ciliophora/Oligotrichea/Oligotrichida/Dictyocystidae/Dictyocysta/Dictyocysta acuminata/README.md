@@ -1,5 +1,4 @@
-Dictyocysta acuminata SPECIES
-=======
+# Dictyocysta acuminata SPECIES
 
 #### Status
 ACCEPTED

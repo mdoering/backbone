@@ -1,5 +1,4 @@
-Petaloferidium stigii Jacobson, 1978 SPECIES
-=======
+# Petaloferidium stigii Jacobson, 1978 SPECIES
 
 #### Status
 ACCEPTED

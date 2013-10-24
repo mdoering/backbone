@@ -1,5 +1,4 @@
-Trematosphaeria wegeliniana L. Holm & K. Holm SPECIES
-=======
+# Trematosphaeria wegeliniana L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

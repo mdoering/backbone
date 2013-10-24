@@ -1,5 +1,4 @@
-Graphis nerurensis Makhija, A. Dube, Adaw. & Chitale SPECIES
-=======
+# Graphis nerurensis Makhija, A. Dube, Adaw. & Chitale SPECIES
 
 #### Status
 ACCEPTED

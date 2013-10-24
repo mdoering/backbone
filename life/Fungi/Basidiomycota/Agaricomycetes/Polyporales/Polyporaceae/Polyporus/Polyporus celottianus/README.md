@@ -1,5 +1,4 @@
-Polyporus celottianus Sacc. & Mancini SPECIES
-=======
+# Polyporus celottianus Sacc. & Mancini SPECIES
 
 #### Status
 ACCEPTED

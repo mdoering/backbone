@@ -1,5 +1,4 @@
-Collybia polygramma (Mont.) Dennis SPECIES
-=======
+# Collybia polygramma (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

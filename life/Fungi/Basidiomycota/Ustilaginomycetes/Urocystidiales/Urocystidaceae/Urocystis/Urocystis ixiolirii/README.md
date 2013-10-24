@@ -1,5 +1,4 @@
-Urocystis ixiolirii Zaprom. SPECIES
-=======
+# Urocystis ixiolirii Zaprom. SPECIES
 
 #### Status
 ACCEPTED

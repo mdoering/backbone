@@ -1,5 +1,4 @@
-Biatorella zeorina (Vain.) Zahlbr. SPECIES
-=======
+# Biatorella zeorina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanitopsis parcivolvata Peck SPECIES
-=======
+# Amanitopsis parcivolvata Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinum micraster Meunier, 1910 SPECIES
-=======
+# Echinum micraster Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

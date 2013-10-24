@@ -1,17 +1,16 @@
-Porosphaeria Samuels & E. Müll. GENUS
-=======
+# Porosphaerellopsis Samuels & E. Müll. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 31: 127 (1979)
+in Müller & Samuels, Sydowia 35: 143 (1982)
 
 #### Original name
-Porosphaeria Samuels & E. Müll.
+Porosphaerellopsis Samuels & E. Müll.
 
 ### Remarks
 null

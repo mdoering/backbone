@@ -1,5 +1,4 @@
-Amanita rosea D.A. Reid SPECIES
-=======
+# Amanita rosea D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

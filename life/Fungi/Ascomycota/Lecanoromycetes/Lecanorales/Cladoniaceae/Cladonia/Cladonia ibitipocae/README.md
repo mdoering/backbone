@@ -1,5 +1,4 @@
-Cladonia ibitipocae Ahti & S. Stenroos SPECIES
-=======
+# Cladonia ibitipocae Ahti & S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

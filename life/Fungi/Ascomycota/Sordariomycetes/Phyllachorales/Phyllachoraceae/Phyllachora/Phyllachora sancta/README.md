@@ -1,5 +1,4 @@
-Phyllachora sancta Petr. & Cif., 1932 SPECIES
-=======
+# Phyllachora sancta Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

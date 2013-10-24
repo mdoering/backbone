@@ -1,5 +1,4 @@
-Acremonium bicolor Bonord. SPECIES
-=======
+# Acremonium bicolor Bonord. SPECIES
 
 #### Status
 ACCEPTED

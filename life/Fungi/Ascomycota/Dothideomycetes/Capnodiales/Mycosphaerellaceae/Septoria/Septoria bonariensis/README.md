@@ -1,5 +1,4 @@
-Septoria bonariensis Speg. SPECIES
-=======
+# Septoria bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

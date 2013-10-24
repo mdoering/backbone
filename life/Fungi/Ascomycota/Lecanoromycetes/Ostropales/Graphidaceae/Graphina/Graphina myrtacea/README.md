@@ -1,5 +1,4 @@
-Graphina myrtacea Müll. Arg. SPECIES
-=======
+# Graphina myrtacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

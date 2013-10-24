@@ -1,5 +1,4 @@
-Lecidea cohibilis Nyl. SPECIES
-=======
+# Lecidea cohibilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

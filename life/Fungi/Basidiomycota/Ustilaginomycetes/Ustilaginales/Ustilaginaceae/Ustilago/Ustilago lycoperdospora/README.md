@@ -1,5 +1,4 @@
-Ustilago lycoperdospora Speg. SPECIES
-=======
+# Ustilago lycoperdospora Speg. SPECIES
 
 #### Status
 ACCEPTED

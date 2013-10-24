@@ -1,5 +1,4 @@
-Phaeoseptoria triticalina Punith., 1980 SPECIES
-=======
+# Phaeoseptoria triticalina Punith., 1980 SPECIES
 
 #### Status
 ACCEPTED

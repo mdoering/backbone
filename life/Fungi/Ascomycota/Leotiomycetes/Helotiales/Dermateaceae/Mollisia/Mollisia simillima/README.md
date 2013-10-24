@@ -1,5 +1,4 @@
-Mollisia simillima P. Karst. SPECIES
-=======
+# Mollisia simillima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

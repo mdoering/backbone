@@ -1,5 +1,4 @@
-Bacidia melacheila (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia melacheila (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

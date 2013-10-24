@@ -1,5 +1,4 @@
-Diplodia amaranthi Fautrey SPECIES
-=======
+# Diplodia amaranthi Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peristomialis paraparilis Samuels SPECIES
-=======
+# Peristomialis paraparilis Samuels SPECIES
 
 #### Status
 ACCEPTED

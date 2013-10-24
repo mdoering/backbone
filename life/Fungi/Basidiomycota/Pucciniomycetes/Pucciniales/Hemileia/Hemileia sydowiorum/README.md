@@ -1,5 +1,4 @@
-Hemileia sydowiorum Ritschel SPECIES
-=======
+# Hemileia sydowiorum Ritschel SPECIES
 
 #### Status
 ACCEPTED

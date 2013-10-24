@@ -1,5 +1,4 @@
-Midotiopsis bambusicola Henn., 1902 SPECIES
-=======
+# Midotiopsis bambusicola Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

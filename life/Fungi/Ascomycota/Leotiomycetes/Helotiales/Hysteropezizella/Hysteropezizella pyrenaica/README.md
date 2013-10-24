@@ -1,5 +1,4 @@
-Hysteropezizella pyrenaica Nannf. SPECIES
-=======
+# Hysteropezizella pyrenaica Nannf. SPECIES
 
 #### Status
 ACCEPTED

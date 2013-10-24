@@ -1,5 +1,4 @@
-Leptothyrium betuli Oudem. SPECIES
-=======
+# Leptothyrium betuli Oudem. SPECIES
 
 #### Status
 ACCEPTED

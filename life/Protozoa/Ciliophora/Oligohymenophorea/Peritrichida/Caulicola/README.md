@@ -1,5 +1,4 @@
-Caulicola Stokes, 1894 GENUS
-=======
+# Caulicola Stokes, 1894 GENUS
 
 #### Status
 ACCEPTED

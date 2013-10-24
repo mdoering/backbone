@@ -1,5 +1,4 @@
-Syncoelium catenulatum Wallr. SPECIES
-=======
+# Syncoelium catenulatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

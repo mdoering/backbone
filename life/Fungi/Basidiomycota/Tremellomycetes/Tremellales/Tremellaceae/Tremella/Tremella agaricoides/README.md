@@ -1,5 +1,4 @@
-Tremella agaricoides Retz. SPECIES
-=======
+# Tremella agaricoides Retz. SPECIES
 
 #### Status
 ACCEPTED

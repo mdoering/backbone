@@ -1,5 +1,4 @@
-Ascomycota Caval.-Sm. PHYLUM
-=======
+# Ascomycota Caval.-Sm. PHYLUM
 
 #### Status
 ACCEPTED

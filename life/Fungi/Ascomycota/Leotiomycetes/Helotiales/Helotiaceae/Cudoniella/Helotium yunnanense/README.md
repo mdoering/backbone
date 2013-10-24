@@ -1,5 +1,4 @@
-Helotium yunnanense S.H. Ou SPECIES
-=======
+# Helotium yunnanense S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

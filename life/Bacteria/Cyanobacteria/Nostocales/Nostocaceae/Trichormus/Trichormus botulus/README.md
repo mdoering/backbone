@@ -1,5 +1,4 @@
-Trichormus botulus (R. Margalef) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus botulus (R. Margalef) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

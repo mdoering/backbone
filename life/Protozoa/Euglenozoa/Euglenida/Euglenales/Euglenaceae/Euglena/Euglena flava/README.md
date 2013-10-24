@@ -1,5 +1,4 @@
-Euglena flava Dangeard SPECIES
-=======
+# Euglena flava Dangeard SPECIES
 
 #### Status
 ACCEPTED

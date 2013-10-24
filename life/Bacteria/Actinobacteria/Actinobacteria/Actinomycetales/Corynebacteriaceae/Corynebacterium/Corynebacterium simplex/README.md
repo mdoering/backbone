@@ -1,5 +1,4 @@
-Corynebacterium simplex SPECIES
-=======
+# Corynebacterium simplex SPECIES
 
 #### Status
 ACCEPTED

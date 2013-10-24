@@ -1,5 +1,4 @@
-Clitocybe orbiformis (Fr.) Gillet SPECIES
-=======
+# Clitocybe orbiformis (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

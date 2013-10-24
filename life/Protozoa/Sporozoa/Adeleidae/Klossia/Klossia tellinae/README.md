@@ -1,5 +1,4 @@
-Klossia tellinae Buchanan, 1979 SPECIES
-=======
+# Klossia tellinae Buchanan, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frontonia ocularis Bullington, 1940 SPECIES
-=======
+# Frontonia ocularis Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella thalictrina Petr. SPECIES
-=======
+# Asteromella thalictrina Petr. SPECIES
 
 #### Status
 ACCEPTED

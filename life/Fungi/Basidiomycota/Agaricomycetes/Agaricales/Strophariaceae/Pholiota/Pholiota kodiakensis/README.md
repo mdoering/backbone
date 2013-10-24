@@ -1,5 +1,4 @@
-Pholiota kodiakensis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota kodiakensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella buchwaldii V.P. Tewari & Ram N. Singh SPECIES
-=======
+# Lambertella buchwaldii V.P. Tewari & Ram N. Singh SPECIES
 
 #### Status
 ACCEPTED

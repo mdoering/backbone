@@ -1,5 +1,4 @@
-Phaeosphaeria elaeagni Sawada SPECIES
-=======
+# Phaeosphaeria elaeagni Sawada SPECIES
 
 #### Status
 ACCEPTED

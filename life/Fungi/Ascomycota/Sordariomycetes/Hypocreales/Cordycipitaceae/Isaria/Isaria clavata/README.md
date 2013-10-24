@@ -1,5 +1,4 @@
-Isaria clavata Ditmar, 1817 SPECIES
-=======
+# Isaria clavata Ditmar, 1817 SPECIES
 
 #### Status
 ACCEPTED

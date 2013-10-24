@@ -1,5 +1,4 @@
-Developayella elegans Tong, 1995 SPECIES
-=======
+# Developayella elegans Tong, 1995 SPECIES
 
 #### Status
 ACCEPTED

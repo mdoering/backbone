@@ -1,5 +1,4 @@
-Phyllachora pseudostromatica Arx & E. Müll., 1954 SPECIES
-=======
+# Phyllachora pseudostromatica Arx & E. Müll., 1954 SPECIES
 
 #### Status
 DOUBTFUL

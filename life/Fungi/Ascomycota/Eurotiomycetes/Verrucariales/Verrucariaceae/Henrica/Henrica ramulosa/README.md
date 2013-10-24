@@ -1,5 +1,4 @@
-Henrica ramulosa B. de Lesd. SPECIES
-=======
+# Henrica ramulosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

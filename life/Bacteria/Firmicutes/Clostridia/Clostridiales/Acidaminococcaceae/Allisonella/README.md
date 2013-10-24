@@ -1,5 +1,4 @@
-Allisonella Garner et al., 2003 GENUS
-=======
+# Allisonella Garner et al., 2003 GENUS
 
 #### Status
 ACCEPTED

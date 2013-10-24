@@ -1,5 +1,4 @@
-Pilonyctus GENUS
-=======
+# Pilonyctus GENUS
 
 #### Status
 ACCEPTED

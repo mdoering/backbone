@@ -1,5 +1,4 @@
-Heliosphaeridium longum (Moczydlowska, 1988) Moczydlowska, 1998 SPECIES
-=======
+# Heliosphaeridium longum (Moczydlowska, 1988) Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

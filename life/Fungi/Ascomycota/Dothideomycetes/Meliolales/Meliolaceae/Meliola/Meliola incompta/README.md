@@ -1,5 +1,4 @@
-Meliola incompta Syd. & P. Syd. SPECIES
-=======
+# Meliola incompta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

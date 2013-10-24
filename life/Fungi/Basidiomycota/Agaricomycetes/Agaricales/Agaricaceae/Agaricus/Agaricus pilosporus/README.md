@@ -1,5 +1,4 @@
-Agaricus pilosporus Peck SPECIES
-=======
+# Agaricus pilosporus Peck SPECIES
 
 #### Status
 ACCEPTED

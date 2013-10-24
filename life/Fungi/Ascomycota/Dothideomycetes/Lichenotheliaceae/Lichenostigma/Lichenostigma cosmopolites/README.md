@@ -1,5 +1,4 @@
-Lichenostigma cosmopolites Hafellner & Calat. SPECIES
-=======
+# Lichenostigma cosmopolites Hafellner & Calat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Charomyces amphimelas Seifert, 1987 SPECIES
-=======
+# Charomyces amphimelas Seifert, 1987 SPECIES
 
 #### Status
 ACCEPTED

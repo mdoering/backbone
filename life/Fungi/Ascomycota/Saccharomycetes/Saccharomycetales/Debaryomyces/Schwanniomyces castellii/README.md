@@ -1,5 +1,4 @@
-Schwanniomyces castellii Capr., 1957 SPECIES
-=======
+# Schwanniomyces castellii Capr., 1957 SPECIES
 
 #### Status
 ACCEPTED

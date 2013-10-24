@@ -1,5 +1,4 @@
-Symplocia friesiana Kütz. SPECIES
-=======
+# Symplocia friesiana Kütz. SPECIES
 
 #### Status
 ACCEPTED

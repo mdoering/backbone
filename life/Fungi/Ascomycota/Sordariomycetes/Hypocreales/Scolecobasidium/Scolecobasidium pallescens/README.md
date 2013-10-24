@@ -1,5 +1,4 @@
-Scolecobasidium pallescens W. Song, J.F. Yu & T.Y. Zhang SPECIES
-=======
+# Scolecobasidium pallescens W. Song, J.F. Yu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

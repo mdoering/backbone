@@ -1,5 +1,4 @@
-Hendersonia boehmeriae Khokhr. SPECIES
-=======
+# Hendersonia boehmeriae Khokhr. SPECIES
 
 #### Status
 ACCEPTED

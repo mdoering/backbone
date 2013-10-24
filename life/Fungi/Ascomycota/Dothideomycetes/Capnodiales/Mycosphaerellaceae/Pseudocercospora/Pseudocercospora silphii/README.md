@@ -1,5 +1,4 @@
-Pseudocercospora silphii (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora silphii (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

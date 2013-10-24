@@ -1,5 +1,4 @@
-Cryptophrya Jankowski, 1973 GENUS
-=======
+# Cryptophrya Jankowski, 1973 GENUS
 
 #### Status
 ACCEPTED

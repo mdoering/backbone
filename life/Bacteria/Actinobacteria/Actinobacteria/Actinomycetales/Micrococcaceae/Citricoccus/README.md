@@ -1,5 +1,4 @@
-Citricoccus Altenburger, Kampfer, Schumann, Steiner, Lubitz & Busse, 2002 GENUS
-=======
+# Citricoccus Altenburger, Kampfer, Schumann, Steiner, Lubitz & Busse, 2002 GENUS
 
 #### Status
 ACCEPTED

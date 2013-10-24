@@ -1,5 +1,4 @@
-Bacidia atlantica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia atlantica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

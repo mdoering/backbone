@@ -1,5 +1,4 @@
-Textularia clava SPECIES
-=======
+# Textularia clava SPECIES
 
 #### Status
 ACCEPTED

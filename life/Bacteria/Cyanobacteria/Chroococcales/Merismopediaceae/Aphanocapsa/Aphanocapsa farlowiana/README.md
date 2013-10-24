@@ -1,5 +1,4 @@
-Aphanocapsa farlowiana Drouet & Daily SPECIES
-=======
+# Aphanocapsa farlowiana Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

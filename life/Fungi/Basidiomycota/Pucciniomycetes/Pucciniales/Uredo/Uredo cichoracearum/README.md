@@ -1,17 +1,16 @@
-Uredo cichorearum DC. SPECIES
-=======
+# Uredo cichoracearum DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 229 (1805)
 
 #### Original name
-Uredo cichorearum DC.
+Uredo cichoracearum DC.
 
 ### Remarks
 null

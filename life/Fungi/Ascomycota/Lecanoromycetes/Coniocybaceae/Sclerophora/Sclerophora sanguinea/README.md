@@ -1,14 +1,13 @@
-Coniocybe sanguinea Tibell SPECIES
-=======
+# Sclerophora sanguinea (Tibell) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 14(3): 237 (1982)
+Beih. Nova Hedwigia 79: 679 (1984)
 
 #### Original name
 Coniocybe sanguinea Tibell

@@ -1,5 +1,4 @@
-Thecamoeba quadrilineata Carter SPECIES
-=======
+# Thecamoeba quadrilineata Carter SPECIES
 
 #### Status
 ACCEPTED

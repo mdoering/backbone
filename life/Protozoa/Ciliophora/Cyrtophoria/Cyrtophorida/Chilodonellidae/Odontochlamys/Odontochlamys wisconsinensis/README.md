@@ -1,8 +1,7 @@
-Odontochlamys wisconsinesis (Kahl, 1931) Petz & Foissner, 1997 SPECIES
-=======
+# Odontochlamys wisconsinensis Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Septoria citrullicola Potebnia SPECIES
-=======
+# Septoria citrullicola Potebnia SPECIES
 
 #### Status
 ACCEPTED

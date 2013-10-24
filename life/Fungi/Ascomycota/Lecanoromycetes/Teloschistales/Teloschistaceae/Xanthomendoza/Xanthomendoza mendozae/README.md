@@ -1,14 +1,13 @@
-Teloschistes mendozae (Räsänen) Räsänen SPECIES
-=======
+# Xanthomendoza mendozae (Räsänen) S. Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Progr. Probl. Lichenol. Nineties. Proc. Third Symp. Intern. Assoc. Lichenol. , <i>Biblthca Lichenol. </i> 68: 26 (1997)
 
 #### Original name
 Xanthoria mendozae Räsänen

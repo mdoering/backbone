@@ -1,5 +1,4 @@
-Hohenbuehelia quadruplex Corner SPECIES
-=======
+# Hohenbuehelia quadruplex Corner SPECIES
 
 #### Status
 ACCEPTED

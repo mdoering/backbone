@@ -1,5 +1,4 @@
-Coenomycogonium interpositi Cif. & Tomas. SPECIES
-=======
+# Coenomycogonium interpositi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

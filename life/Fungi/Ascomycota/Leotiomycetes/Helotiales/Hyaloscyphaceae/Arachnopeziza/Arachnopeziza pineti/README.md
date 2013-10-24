@@ -1,5 +1,4 @@
-Arachnopeziza pineti Feltgen SPECIES
-=======
+# Arachnopeziza pineti Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia alniella (Nyl.) SPECIES
-=======
+# Mollisia alniella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

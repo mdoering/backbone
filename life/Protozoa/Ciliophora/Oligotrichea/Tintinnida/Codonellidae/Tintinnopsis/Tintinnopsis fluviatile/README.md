@@ -1,5 +1,4 @@
-Tintinnopsis fluviatile (Stein) Kent SPECIES
-=======
+# Tintinnopsis fluviatile (Stein) Kent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phylloporina atrocoerulea (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Porina atrocoerulea Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 22 (1890)
+Flora, Jena 66: 336 (1883)
 
 #### Original name
 Porina atrocoerulea Müll. Arg.

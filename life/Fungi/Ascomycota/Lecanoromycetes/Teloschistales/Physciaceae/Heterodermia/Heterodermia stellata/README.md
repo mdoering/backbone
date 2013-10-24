@@ -1,5 +1,4 @@
-Heterodermia stellata var. stellata VARIETY
-=======
+# Heterodermia stellata (Vain.) W.A. Weber SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 13(1): 102 (1981)
 
 #### Original name
-Heterodermia stellata var. stellata
+Anaptychia podocarpa var. stellata Vain.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Merostictis luzulina (P. Karst.) Défago, 1968 SPECIES
-=======
+# Diplonaevia luzulina (P. Karst.) B. Hein, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 36: 86 (1983)
 
 #### Original name
 Mollisia luzulina P. Karst.

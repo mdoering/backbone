@@ -1,8 +1,7 @@
-Psilotricha fallax Zacharias, 1896 SPECIES
-=======
+# Pelagostrombidium fallax (Zacharias, 1895) Krainer, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

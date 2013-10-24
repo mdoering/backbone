@@ -1,17 +1,16 @@
-Myxofusicoccum mali f. mespili Höhn. FORM
-=======
+# Pseudodiscula mali (Bres.) B. Sutton, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 141: 166 (1977)
 
 #### Original name
-Myxofusicoccum mali f. mespili Höhn.
+Myxosporium mali Bres., 1897
 
 ### Remarks
 null

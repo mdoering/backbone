@@ -1,5 +1,4 @@
-Lichina tasmanica Henssen SPECIES
-=======
+# Lichina tasmanica Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Topelia californica P. M. Jørg. SPECIES
-=======
+# Topelia californica P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

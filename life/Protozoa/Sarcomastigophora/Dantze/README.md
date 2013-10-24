@@ -1,5 +1,4 @@
-Dantze Yang Qun & Yang, 1990 GENUS
-=======
+# Dantze Yang Qun & Yang, 1990 GENUS
 
 #### Status
 ACCEPTED

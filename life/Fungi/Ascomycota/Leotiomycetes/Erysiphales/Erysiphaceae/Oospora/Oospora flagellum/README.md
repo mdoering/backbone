@@ -1,5 +1,4 @@
-Oospora flagellum (Riess) Sacc. SPECIES
-=======
+# Oospora flagellum (Riess) Sacc. SPECIES
 
 #### Status
 ACCEPTED

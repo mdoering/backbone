@@ -1,5 +1,4 @@
-Actinodermium sterrebeckii Nees SPECIES
-=======
+# Actinodermium sterrebeckii Nees SPECIES
 
 #### Status
 ACCEPTED

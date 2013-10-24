@@ -1,5 +1,4 @@
-Cytospora sydowii Gutner SPECIES
-=======
+# Cytospora sydowii Gutner SPECIES
 
 #### Status
 ACCEPTED

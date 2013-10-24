@@ -1,17 +1,16 @@
-Camarosporium atraphaxidis Kravtzev SPECIES
-=======
+# Camarosporium atraphaxis Kravtzev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Schwarzman & Kravtzev, Trud. Inst. Bot. Acad. Sci. Kazakh SSR 9: 26 (1961)
 
 #### Original name
-Camarosporium atraphaxidis Kravtzev
+Camarosporium atraphaxis Kravtzev
 
 ### Remarks
 null

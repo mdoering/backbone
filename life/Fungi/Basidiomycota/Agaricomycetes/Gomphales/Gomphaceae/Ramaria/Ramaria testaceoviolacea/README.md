@@ -1,14 +1,13 @@
-Clavaria testaceoviolacea Doty, 1944 SPECIES
-=======
+# Ramaria testaceoviolacea (Doty) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 46 (1944)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 631 (1950)
 
 #### Original name
 Clavaria testaceoviolacea Doty, 1944

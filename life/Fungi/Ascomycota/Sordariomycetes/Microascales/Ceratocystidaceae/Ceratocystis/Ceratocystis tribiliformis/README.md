@@ -1,5 +1,4 @@
-Ceratocystis tribiliformis M. van Wyk & M.J. Wingf. SPECIES
-=======
+# Ceratocystis tribiliformis M. van Wyk & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

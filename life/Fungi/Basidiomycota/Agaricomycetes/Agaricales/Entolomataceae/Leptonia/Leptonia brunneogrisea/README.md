@@ -1,5 +1,4 @@
-Leptonia brunneogrisea Rick SPECIES
-=======
+# Leptonia brunneogrisea Rick SPECIES
 
 #### Status
 ACCEPTED

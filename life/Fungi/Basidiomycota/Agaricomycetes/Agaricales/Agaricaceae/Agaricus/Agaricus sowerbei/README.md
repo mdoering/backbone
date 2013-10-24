@@ -1,5 +1,4 @@
-Agaricus sowerbei Fr. SPECIES
-=======
+# Agaricus sowerbei Fr. SPECIES
 
 #### Status
 ACCEPTED

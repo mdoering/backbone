@@ -1,5 +1,4 @@
-Zythia quercicola Baudy & Picb. SPECIES
-=======
+# Zythia quercicola Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma sepultum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma sepultum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta pluriseptata Vain. SPECIES
-=======
+# Sticta pluriseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

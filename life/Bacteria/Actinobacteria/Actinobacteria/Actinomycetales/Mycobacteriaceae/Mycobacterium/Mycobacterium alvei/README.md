@@ -1,5 +1,4 @@
-Mycobacterium alvei Ausina et al., 1992 SPECIES
-=======
+# Mycobacterium alvei Ausina et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

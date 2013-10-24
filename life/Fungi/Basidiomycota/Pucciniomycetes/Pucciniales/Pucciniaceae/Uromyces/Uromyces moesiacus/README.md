@@ -1,5 +1,4 @@
-Uromyces moesiacus Lindtner & Vienn.-Bourg. SPECIES
-=======
+# Uromyces moesiacus Lindtner & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

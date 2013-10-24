@@ -1,5 +1,4 @@
-Tulostoma ridleyi Massee SPECIES
-=======
+# Tulostoma ridleyi Massee SPECIES
 
 #### Status
 ACCEPTED

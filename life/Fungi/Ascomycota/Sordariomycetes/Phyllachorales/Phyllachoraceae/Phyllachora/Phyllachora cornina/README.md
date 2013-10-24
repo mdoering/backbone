@@ -1,5 +1,4 @@
-Phyllachora cornina G.F. Atk. SPECIES
-=======
+# Phyllachora cornina G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

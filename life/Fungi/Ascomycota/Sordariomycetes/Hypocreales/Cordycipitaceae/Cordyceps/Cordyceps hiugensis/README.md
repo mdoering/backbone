@@ -1,5 +1,4 @@
-Cordyceps hiugensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps hiugensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

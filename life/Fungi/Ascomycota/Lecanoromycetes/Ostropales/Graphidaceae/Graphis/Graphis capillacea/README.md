@@ -1,5 +1,4 @@
-Graphis capillacea Stirt. SPECIES
-=======
+# Graphis capillacea Stirt. SPECIES
 
 #### Status
 ACCEPTED

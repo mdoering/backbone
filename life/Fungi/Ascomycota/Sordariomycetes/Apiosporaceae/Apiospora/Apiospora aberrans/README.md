@@ -1,5 +1,4 @@
-Apiospora aberrans (Syd.) Sacc. SPECIES
-=======
+# Apiospora aberrans (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

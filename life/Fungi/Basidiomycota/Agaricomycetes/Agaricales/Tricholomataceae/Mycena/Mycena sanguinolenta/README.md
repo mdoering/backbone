@@ -1,11 +1,10 @@
-Mycena cruenta (Fr.) Quél., 1872 SPECIES
-=======
+# Mycena sanguinolenta (Alb. & Schwein. Fr.) P. Kumm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

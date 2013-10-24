@@ -1,5 +1,4 @@
-Dictyotaceae J. V. Lamour. FAMILY
-=======
+# Dictyotaceae J. V. Lamour. FAMILY
 
 #### Status
 ACCEPTED

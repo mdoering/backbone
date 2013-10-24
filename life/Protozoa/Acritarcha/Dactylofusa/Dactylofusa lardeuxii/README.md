@@ -1,5 +1,4 @@
-Dactylofusa lardeuxii Moreau-Benoît, 1974 SPECIES
-=======
+# Dactylofusa lardeuxii Moreau-Benoît, 1974 SPECIES
 
 #### Status
 ACCEPTED

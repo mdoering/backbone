@@ -1,5 +1,4 @@
-Myiophyton cohnii Lebert SPECIES
-=======
+# Myiophyton cohnii Lebert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allantophomoides S.L. Wei & T.Y. Zhang GENUS
-=======
+# Allantophomoides S.L. Wei & T.Y. Zhang GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleromitra GENUS
-=======
+# Scleromitra GENUS
 
 #### Status
 ACCEPTED

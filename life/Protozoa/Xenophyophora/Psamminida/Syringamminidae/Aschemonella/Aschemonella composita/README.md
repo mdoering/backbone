@@ -1,5 +1,4 @@
-Aschemonella composita Schröder, Medioli & Scott, 1989 SPECIES
-=======
+# Aschemonella composita Schröder, Medioli & Scott, 1989 SPECIES
 
 #### Status
 ACCEPTED

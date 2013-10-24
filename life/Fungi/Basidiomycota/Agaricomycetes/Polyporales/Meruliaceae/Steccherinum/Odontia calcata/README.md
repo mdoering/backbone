@@ -1,5 +1,4 @@
-Odontia calcata Britzelm. SPECIES
-=======
+# Odontia calcata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

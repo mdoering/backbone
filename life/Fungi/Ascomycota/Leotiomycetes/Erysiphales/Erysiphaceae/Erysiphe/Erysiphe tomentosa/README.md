@@ -1,5 +1,4 @@
-Erysiphe tomentosa Otth SPECIES
-=======
+# Erysiphe tomentosa Otth SPECIES
 
 #### Status
 ACCEPTED

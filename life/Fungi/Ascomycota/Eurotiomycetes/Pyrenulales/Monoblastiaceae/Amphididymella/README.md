@@ -1,5 +1,4 @@
-Amphididymella GENUS
-=======
+# Amphididymella GENUS
 
 #### Status
 ACCEPTED

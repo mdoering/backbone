@@ -1,5 +1,4 @@
-Fellhanera pilosa Lücking SPECIES
-=======
+# Fellhanera pilosa Lücking SPECIES
 
 #### Status
 ACCEPTED

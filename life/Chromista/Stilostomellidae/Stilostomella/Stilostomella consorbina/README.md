@@ -1,5 +1,4 @@
-Stilostomella consorbina (d'Orbigny, 1839) SPECIES
-=======
+# Stilostomella consorbina (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

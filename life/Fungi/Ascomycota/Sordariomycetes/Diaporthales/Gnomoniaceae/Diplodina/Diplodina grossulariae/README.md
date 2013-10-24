@@ -1,5 +1,4 @@
-Diplodina grossulariae Sacc. & Briard SPECIES
-=======
+# Diplodina grossulariae Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratomyces filiformis Thaxt. SPECIES
-=======
+# Ceratomyces filiformis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

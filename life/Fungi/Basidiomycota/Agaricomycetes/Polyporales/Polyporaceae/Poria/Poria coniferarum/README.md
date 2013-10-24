@@ -1,5 +1,4 @@
-Poria coniferarum D.V. Baxter SPECIES
-=======
+# Poria coniferarum D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

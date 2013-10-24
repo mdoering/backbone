@@ -1,5 +1,4 @@
-Melastiza pennsylvanica Seaver SPECIES
-=======
+# Melastiza pennsylvanica Seaver SPECIES
 
 #### Status
 ACCEPTED

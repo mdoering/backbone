@@ -1,5 +1,4 @@
-Lalaria populi-salicis R.T. Moore SPECIES
-=======
+# Lalaria populi-salicis R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria epileuca (Berk. & M.A. Curtis) Shoemaker & P.M. LeClair SPECIES
-=======
+# Trematosphaeria epileuca (Berk. & M.A. Curtis) Shoemaker & P.M. LeClair SPECIES
 
 #### Status
 ACCEPTED

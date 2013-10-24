@@ -1,5 +1,4 @@
-Samuelsia geonomis P. Chaverri & K.T. Hodge, 2008 SPECIES
-=======
+# Samuelsia geonomis P. Chaverri & K.T. Hodge, 2008 SPECIES
 
 #### Status
 ACCEPTED

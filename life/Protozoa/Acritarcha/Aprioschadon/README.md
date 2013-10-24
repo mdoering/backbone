@@ -1,5 +1,4 @@
-Aprioschadon A.R. Loeblich Jr. & H. Tappan, 1976 GENUS
-=======
+# Aprioschadon A.R. Loeblich Jr. & H. Tappan, 1976 GENUS
 
 #### Status
 ACCEPTED

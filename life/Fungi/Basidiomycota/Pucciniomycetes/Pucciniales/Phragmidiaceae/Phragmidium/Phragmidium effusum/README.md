@@ -1,5 +1,4 @@
-Phragmidium effusum Auersw. SPECIES
-=======
+# Phragmidium effusum Auersw. SPECIES
 
 #### Status
 ACCEPTED

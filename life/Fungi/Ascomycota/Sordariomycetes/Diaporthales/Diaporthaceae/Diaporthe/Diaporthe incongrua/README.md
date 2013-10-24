@@ -1,5 +1,4 @@
-Diaporthe incongrua Ellis & Everh. SPECIES
-=======
+# Diaporthe incongrua Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

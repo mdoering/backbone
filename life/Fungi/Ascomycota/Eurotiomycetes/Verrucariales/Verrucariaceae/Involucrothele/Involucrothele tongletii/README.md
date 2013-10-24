@@ -1,14 +1,13 @@
-Involucrothele tongleti (Hue) Servít SPECIES
-=======
+# Involucrothele tongletii (Hue) Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 170 (1954)
 
 #### Original name
 Verrucaria tongletii Hue

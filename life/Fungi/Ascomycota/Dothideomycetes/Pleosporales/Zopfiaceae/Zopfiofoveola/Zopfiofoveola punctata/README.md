@@ -1,14 +1,13 @@
-Zopfia punctata D. Hawksw. & C. Booth, 1974 SPECIES
-=======
+# Zopfiofoveola punctata (D. Hawksw. & C. Booth) D. Hawksw., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 153: 23 (1974)
+Can. J. Bot. 57(2): 98 (1979)
 
 #### Original name
 Zopfia punctata D. Hawksw. & C. Booth, 1974

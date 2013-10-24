@@ -1,5 +1,4 @@
-Toninia toepfferi (Stein) Navàs SPECIES
-=======
+# Toninia toepfferi (Stein) Navàs SPECIES
 
 #### Status
 ACCEPTED

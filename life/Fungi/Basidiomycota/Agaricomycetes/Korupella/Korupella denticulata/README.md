@@ -1,5 +1,4 @@
-Korupella denticulata P. Roberts & Hjortstam, 2000 SPECIES
-=======
+# Korupella denticulata P. Roberts & Hjortstam, 2000 SPECIES
 
 #### Status
 ACCEPTED

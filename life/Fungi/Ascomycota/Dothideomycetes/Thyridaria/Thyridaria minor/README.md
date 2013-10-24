@@ -1,5 +1,4 @@
-Thyridaria minor (Sacc.) Sacc. SPECIES
-=======
+# Thyridaria minor (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus flavidellus Murrill SPECIES
-=======
+# Gymnopilus flavidellus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophragmium irregulare Arthur & Cummins, 1936 SPECIES
-=======
+# Sphaerophragmium irregulare Arthur & Cummins, 1936 SPECIES
 
 #### Status
 ACCEPTED

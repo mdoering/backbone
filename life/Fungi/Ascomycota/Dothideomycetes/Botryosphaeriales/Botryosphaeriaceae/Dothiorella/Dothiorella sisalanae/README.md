@@ -1,5 +1,4 @@
-Dothiorella sisalanae Roger SPECIES
-=======
+# Dothiorella sisalanae Roger SPECIES
 
 #### Status
 ACCEPTED

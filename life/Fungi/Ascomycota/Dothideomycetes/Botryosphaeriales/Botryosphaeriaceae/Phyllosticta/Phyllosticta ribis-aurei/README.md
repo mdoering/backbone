@@ -1,5 +1,4 @@
-Phyllosticta ribis-aurei Hollós SPECIES
-=======
+# Phyllosticta ribis-aurei Hollós SPECIES
 
 #### Status
 ACCEPTED

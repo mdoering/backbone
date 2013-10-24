@@ -1,5 +1,4 @@
-Agaricus deumbonatus Schulzer SPECIES
-=======
+# Agaricus deumbonatus Schulzer SPECIES
 
 #### Status
 ACCEPTED

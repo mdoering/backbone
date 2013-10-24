@@ -1,5 +1,4 @@
-Phoma sepincola (J. Kickx f.) Sacc. SPECIES
-=======
+# Phoma sepincola (J. Kickx f.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

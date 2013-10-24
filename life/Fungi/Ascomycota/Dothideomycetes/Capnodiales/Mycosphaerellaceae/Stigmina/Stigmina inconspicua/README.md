@@ -1,5 +1,4 @@
-Stigmina inconspicua B. Sutton & Pascoe SPECIES
-=======
+# Stigmina inconspicua B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

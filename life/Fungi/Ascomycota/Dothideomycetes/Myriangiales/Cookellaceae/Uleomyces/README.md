@@ -1,17 +1,16 @@
-Myriangina subgen. Hennings von Höhnel, 1909 GENUS
-=======
+# Uleomyces Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 34: 107 (1895)
 
 #### Original name
-null
+Uleomyces Henn.
 
 ### Remarks
 null

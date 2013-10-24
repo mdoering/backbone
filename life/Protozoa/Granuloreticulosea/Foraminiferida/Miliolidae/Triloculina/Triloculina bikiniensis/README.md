@@ -1,5 +1,4 @@
-Triloculina bikiniensis Todd, 1954 SPECIES
-=======
+# Triloculina bikiniensis Todd, 1954 SPECIES
 
 #### Status
 ACCEPTED

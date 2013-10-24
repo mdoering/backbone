@@ -1,5 +1,4 @@
-Endomyces grigorakianus Zender SPECIES
-=======
+# Endomyces grigorakianus Zender SPECIES
 
 #### Status
 ACCEPTED

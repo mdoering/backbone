@@ -1,5 +1,4 @@
-Passalora simulata (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora simulata (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

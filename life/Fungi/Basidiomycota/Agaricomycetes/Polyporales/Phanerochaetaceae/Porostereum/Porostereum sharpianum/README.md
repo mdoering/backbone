@@ -1,5 +1,4 @@
-Porostereum sharpianum (A.L. Welden) Hjortstam & Ryvarden SPECIES
-=======
+# Porostereum sharpianum (A.L. Welden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

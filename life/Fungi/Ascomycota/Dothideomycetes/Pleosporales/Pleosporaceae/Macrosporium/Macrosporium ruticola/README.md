@@ -1,8 +1,7 @@
-Macrosporium rutaecola Thüm. SPECIES
-=======
+# Macrosporium ruticola Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrosporium rutaecola Thüm.
+Macrosporium ruticola Thüm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cylindrosporium artemisiae Dearn. & Barthol. SPECIES
-=======
+# Cylindrosporium artemisiae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

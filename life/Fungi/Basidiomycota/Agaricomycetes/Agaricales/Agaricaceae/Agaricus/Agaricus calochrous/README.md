@@ -1,5 +1,4 @@
-Agaricus calochrous Weinm. SPECIES
-=======
+# Agaricus calochrous Weinm. SPECIES
 
 #### Status
 ACCEPTED

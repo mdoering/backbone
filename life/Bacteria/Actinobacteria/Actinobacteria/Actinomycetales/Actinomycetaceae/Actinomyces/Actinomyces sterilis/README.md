@@ -1,17 +1,16 @@
-Actinomyces sterilis subsp. sterilis SUBSPECIES
-=======
+# Actinomyces sterilis anon. ined. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Actinomyces sterilis anon. ined.
 
 ### Remarks
 null

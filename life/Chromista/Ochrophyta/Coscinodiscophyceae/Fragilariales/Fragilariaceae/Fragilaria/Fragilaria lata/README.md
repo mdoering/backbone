@@ -1,5 +1,4 @@
-Fragilaria lata (Cleve-Euler) Renberg SPECIES
-=======
+# Fragilaria lata (Cleve-Euler) Renberg SPECIES
 
 #### Status
 ACCEPTED

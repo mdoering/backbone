@@ -1,5 +1,4 @@
-Gnomonia similisetacea M.E. Barr SPECIES
-=======
+# Gnomonia similisetacea M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

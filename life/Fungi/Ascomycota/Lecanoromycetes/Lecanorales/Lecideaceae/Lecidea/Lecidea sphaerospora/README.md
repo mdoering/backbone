@@ -1,5 +1,4 @@
-Lecidea sphaerospora var. sphaerospora VARIETY
-=======
+# Lecidea sphaerospora Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea sphaerospora var. sphaerospora
+Lecidea sphaerospora Malme
 
 ### Remarks
 null

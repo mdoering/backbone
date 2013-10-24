@@ -1,5 +1,4 @@
-Helvella mesenteriformis Vahl SPECIES
-=======
+# Helvella mesenteriformis Vahl SPECIES
 
 #### Status
 ACCEPTED

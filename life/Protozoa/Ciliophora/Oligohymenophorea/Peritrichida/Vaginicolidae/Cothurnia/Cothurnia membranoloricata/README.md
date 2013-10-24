@@ -1,5 +1,4 @@
-Cothurnia membranoloricata SPECIES
-=======
+# Cothurnia membranoloricata SPECIES
 
 #### Status
 ACCEPTED

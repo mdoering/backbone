@@ -1,5 +1,4 @@
-Cyphella stepposa Pilát SPECIES
-=======
+# Cyphella stepposa Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mystrosporiella terminalae N. Sharma, Soni, Jamaluddin & R.K. Verma SPECIES
-=======
+# Mystrosporiella terminaliae T. Verma, Kuriyal & B.N. Pandey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geobios, New Rep. 9(1): 58 (1990)
 
 #### Original name
-Mystrosporiella terminalae N. Sharma, Soni, Jamaluddin & R.K. Verma
+Mystrosporiella terminaliae T. Verma, Kuriyal & B.N. Pandey
 
 ### Remarks
 null

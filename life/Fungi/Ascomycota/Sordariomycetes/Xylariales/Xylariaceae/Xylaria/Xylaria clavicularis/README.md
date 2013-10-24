@@ -1,5 +1,4 @@
-Xylaria clavicularis Klotzsch SPECIES
-=======
+# Xylaria clavicularis Klotzsch SPECIES
 
 #### Status
 ACCEPTED

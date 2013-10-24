@@ -1,5 +1,4 @@
-Arcodiscophrya Jankowski, 1981 GENUS
-=======
+# Arcodiscophrya Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

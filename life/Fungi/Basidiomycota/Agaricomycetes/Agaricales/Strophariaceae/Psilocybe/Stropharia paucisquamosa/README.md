@@ -1,5 +1,4 @@
-Stropharia paucisquamosa Velen. SPECIES
-=======
+# Stropharia paucisquamosa Velen. SPECIES
 
 #### Status
 ACCEPTED

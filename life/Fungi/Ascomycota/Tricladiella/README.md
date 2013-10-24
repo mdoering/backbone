@@ -1,5 +1,4 @@
-Tricladiella K. Ando & Tubaki GENUS
-=======
+# Tricladiella K. Ando & Tubaki GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella paliuri Petr. SPECIES
-=======
+# Dothiorella paliuri Petr. SPECIES
 
 #### Status
 ACCEPTED

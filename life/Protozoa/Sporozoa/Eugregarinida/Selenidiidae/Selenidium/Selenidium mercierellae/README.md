@@ -1,5 +1,4 @@
-Selenidium mercierellae Théodoridès & Laubier, 1962 SPECIES
-=======
+# Selenidium mercierellae Théodoridès & Laubier, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria piricola var. piricola VARIETY
-=======
+# Metasphaeria piricola Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria piricola var. piricola
+Metasphaeria piricola Sacc.
 
 ### Remarks
 null

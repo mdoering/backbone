@@ -1,5 +1,4 @@
-Adriogloia Ercegovic, 1955 GENUS
-=======
+# Adriogloia Ercegovic, 1955 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis tenuipes (Tassi) Aa SPECIES
-=======
+# Phomopsis tenuipes (Tassi) Aa SPECIES
 
 #### Status
 ACCEPTED

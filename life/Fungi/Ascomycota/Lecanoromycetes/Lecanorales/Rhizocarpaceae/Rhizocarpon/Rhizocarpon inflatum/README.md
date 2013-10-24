@@ -1,5 +1,4 @@
-Rhizocarpon inflatum Müll. Arg. SPECIES
-=======
+# Rhizocarpon inflatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

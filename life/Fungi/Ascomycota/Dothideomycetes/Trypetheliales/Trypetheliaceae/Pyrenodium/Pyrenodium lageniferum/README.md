@@ -1,5 +1,4 @@
-Pyrenodium lageniferum Fée SPECIES
-=======
+# Pyrenodium lageniferum Fée SPECIES
 
 #### Status
 ACCEPTED

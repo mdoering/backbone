@@ -1,8 +1,7 @@
-Depazea E.M. Fries, 1818 GENUS
-=======
+# Asteroma de Candolle, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

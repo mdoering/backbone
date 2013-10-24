@@ -1,5 +1,4 @@
-Phaeopezia lignicola Rostr. SPECIES
-=======
+# Phaeopezia lignicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

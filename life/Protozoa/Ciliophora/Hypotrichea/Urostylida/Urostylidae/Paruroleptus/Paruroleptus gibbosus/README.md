@@ -1,5 +1,4 @@
-Paruroleptus gibbosus SPECIES
-=======
+# Paruroleptus gibbosus SPECIES
 
 #### Status
 ACCEPTED

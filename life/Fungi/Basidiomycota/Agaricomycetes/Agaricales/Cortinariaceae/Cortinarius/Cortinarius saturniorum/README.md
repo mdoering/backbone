@@ -1,5 +1,4 @@
-Cortinarius saturniorum Soop, 2001 SPECIES
-=======
+# Cortinarius saturniorum Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

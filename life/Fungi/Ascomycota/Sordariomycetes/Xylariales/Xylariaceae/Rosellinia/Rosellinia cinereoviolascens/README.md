@@ -1,5 +1,4 @@
-Rosellinia cinereoviolascens Starbäck SPECIES
-=======
+# Rosellinia cinereoviolascens Starbäck SPECIES
 
 #### Status
 ACCEPTED

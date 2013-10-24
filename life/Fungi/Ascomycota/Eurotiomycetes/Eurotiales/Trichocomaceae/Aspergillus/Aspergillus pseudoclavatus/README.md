@@ -1,5 +1,4 @@
-Aspergillus pseudoclavatus Purjewicz {?} SPECIES
-=======
+# Aspergillus pseudoclavatus Purjewicz {?} SPECIES
 
 #### Status
 ACCEPTED

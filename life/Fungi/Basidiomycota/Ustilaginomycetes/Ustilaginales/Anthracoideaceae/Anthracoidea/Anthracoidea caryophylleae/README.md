@@ -1,17 +1,16 @@
-Cintractia caricis f. caricis FORM
-=======
+# Anthracoidea caryophylleae Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 37: 78 (1896)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 34(3): 53 (1963)
 
 #### Original name
-Cintractia caricis f. caricis
+Anthracoidea caryophylleae Kukkonen, 1963
 
 ### Remarks
 null

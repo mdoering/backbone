@@ -1,5 +1,4 @@
-Acarospora miskolensis H. Magn. SPECIES
-=======
+# Acarospora miskolensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

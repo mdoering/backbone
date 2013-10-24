@@ -1,5 +1,4 @@
-Arthrobotrys anomala G.L. Barron & J.G.N. Davidson SPECIES
-=======
+# Arthrobotrys anomala G.L. Barron & J.G.N. Davidson SPECIES
 
 #### Status
 ACCEPTED

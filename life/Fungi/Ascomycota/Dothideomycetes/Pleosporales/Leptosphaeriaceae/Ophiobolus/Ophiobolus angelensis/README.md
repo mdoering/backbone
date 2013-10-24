@@ -1,5 +1,4 @@
-Ophiobolus angelensis Starbäck SPECIES
-=======
+# Ophiobolus angelensis Starbäck SPECIES
 
 #### Status
 ACCEPTED

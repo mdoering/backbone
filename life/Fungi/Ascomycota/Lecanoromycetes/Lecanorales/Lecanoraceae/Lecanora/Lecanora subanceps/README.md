@@ -1,5 +1,4 @@
-Lecanora subanceps SPECIES
-=======
+# Lecanora subanceps SPECIES
 
 #### Status
 ACCEPTED

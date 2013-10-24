@@ -1,5 +1,4 @@
-Placopsis antarctica D. J. Galloway, R. I. L. Sm. & Quilhot SPECIES
-=======
+# Placopsis antarctica D. J. Galloway, R. I. L. Sm. & Quilhot SPECIES
 
 #### Status
 ACCEPTED

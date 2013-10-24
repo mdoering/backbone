@@ -1,5 +1,4 @@
-Verrucaria inquilina P. M. McCarthy SPECIES
-=======
+# Verrucaria inquilina P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

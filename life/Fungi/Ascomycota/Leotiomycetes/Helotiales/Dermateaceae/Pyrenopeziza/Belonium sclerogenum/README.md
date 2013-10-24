@@ -1,5 +1,4 @@
-Belonium sclerogenum (Berk. & M.A. Curtis) Seaver SPECIES
-=======
+# Belonium sclerogenum (Berk. & M.A. Curtis) Seaver SPECIES
 
 #### Status
 ACCEPTED

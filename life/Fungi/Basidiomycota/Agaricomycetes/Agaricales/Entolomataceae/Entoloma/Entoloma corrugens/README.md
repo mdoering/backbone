@@ -1,5 +1,4 @@
-Entoloma corrugens Corner & E. Horak SPECIES
-=======
+# Entoloma corrugens Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

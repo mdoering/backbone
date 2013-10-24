@@ -1,5 +1,4 @@
-Clitopilus cyathoideus Cooke & Massee SPECIES
-=======
+# Clitopilus cyathoideus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rabenhorstinidium intertrappeum R.B. Sm. & G.V. Patil SPECIES
-=======
+# Rabenhorstinidium intertrappeanum R.B. Sm. & G.V. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 9(1-4): 17 + pl. 1, figs 5, 8 (1980)
 
 #### Original name
-Rabenhorstinidium intertrappeum R.B. Sm. & G.V. Patil
+Rabenhorstinidium intertrappeanum R.B. Sm. & G.V. Patil
 
 ### Remarks
 null

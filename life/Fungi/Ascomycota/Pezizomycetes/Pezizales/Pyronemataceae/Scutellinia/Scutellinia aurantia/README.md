@@ -1,5 +1,4 @@
-Scutellinia aurantia (Clem.) Waraitch SPECIES
-=======
+# Scutellinia aurantia (Clem.) Waraitch SPECIES
 
 #### Status
 ACCEPTED

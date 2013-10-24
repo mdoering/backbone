@@ -1,5 +1,4 @@
-Placosphaeria cerastii Vestergr. SPECIES
-=======
+# Placosphaeria cerastii Vestergr. SPECIES
 
 #### Status
 ACCEPTED

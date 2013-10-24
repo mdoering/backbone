@@ -1,5 +1,4 @@
-Marasmius radicicola Velen. SPECIES
-=======
+# Marasmius radicicola Velen. SPECIES
 
 #### Status
 ACCEPTED

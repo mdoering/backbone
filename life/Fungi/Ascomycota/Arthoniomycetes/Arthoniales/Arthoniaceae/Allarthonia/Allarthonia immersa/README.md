@@ -1,5 +1,4 @@
-Allarthonia immersa (Hazsl.) Szatala SPECIES
-=======
+# Allarthonia immersa (Hazsl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

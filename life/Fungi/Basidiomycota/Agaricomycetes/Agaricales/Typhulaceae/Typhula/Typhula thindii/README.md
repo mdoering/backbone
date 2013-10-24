@@ -1,5 +1,4 @@
-Typhula thindii Khurana, 1980 SPECIES
-=======
+# Typhula thindii Khurana, 1980 SPECIES
 
 #### Status
 ACCEPTED

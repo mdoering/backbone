@@ -1,5 +1,4 @@
-Mycosphaerella hippocastani Jaap, 1917 SPECIES
-=======
+# Mycosphaerella hippocastani Jaap, 1917 SPECIES
 
 #### Status
 ACCEPTED

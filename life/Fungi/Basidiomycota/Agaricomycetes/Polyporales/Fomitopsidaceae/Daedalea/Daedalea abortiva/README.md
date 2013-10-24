@@ -1,5 +1,4 @@
-Daedalea abortiva (Peck) Pat. SPECIES
-=======
+# Daedalea abortiva (Peck) Pat. SPECIES
 
 #### Status
 ACCEPTED

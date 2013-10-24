@@ -1,5 +1,4 @@
-Tricholoma leucoxanthum (Pers.) P. Kumm. SPECIES
-=======
+# Tricholoma leucoxanthum (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

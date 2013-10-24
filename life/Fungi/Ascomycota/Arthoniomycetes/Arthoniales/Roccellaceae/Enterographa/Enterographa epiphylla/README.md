@@ -1,5 +1,4 @@
-Enterographa epiphylla (Sérus.) Ertz, Diederich & Sparrius SPECIES
-=======
+# Enterographa epiphylla (Sérus.) Ertz, Diederich & Sparrius SPECIES
 
 #### Status
 ACCEPTED

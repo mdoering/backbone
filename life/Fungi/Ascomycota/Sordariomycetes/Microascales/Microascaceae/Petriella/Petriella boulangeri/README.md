@@ -1,5 +1,4 @@
-Petriella boulangeri Curzi SPECIES
-=======
+# Petriella boulangeri Curzi SPECIES
 
 #### Status
 ACCEPTED

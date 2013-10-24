@@ -1,5 +1,4 @@
-Hydnum amplissimum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum amplissimum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

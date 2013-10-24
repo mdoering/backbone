@@ -1,5 +1,4 @@
-Trichoderma chromospermum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma chromospermum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

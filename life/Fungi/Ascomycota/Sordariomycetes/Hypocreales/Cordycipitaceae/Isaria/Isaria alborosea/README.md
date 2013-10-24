@@ -1,5 +1,4 @@
-Isaria alborosea Penz. & Sacc. SPECIES
-=======
+# Isaria alborosea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

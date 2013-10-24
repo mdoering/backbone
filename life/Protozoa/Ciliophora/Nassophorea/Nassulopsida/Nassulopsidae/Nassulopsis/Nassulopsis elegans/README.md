@@ -1,5 +1,4 @@
-Nassulopsis elegans (Ehrenberg, 1834) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Nassulopsis elegans (Ehrenberg, 1834) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

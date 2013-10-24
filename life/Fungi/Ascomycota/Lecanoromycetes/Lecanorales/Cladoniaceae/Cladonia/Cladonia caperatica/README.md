@@ -1,5 +1,4 @@
-Cladonia caperatica Nuno SPECIES
-=======
+# Cladonia caperatica Nuno SPECIES
 
 #### Status
 ACCEPTED

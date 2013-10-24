@@ -1,5 +1,4 @@
-Ectotrichophyton denticulatum (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton denticulatum (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

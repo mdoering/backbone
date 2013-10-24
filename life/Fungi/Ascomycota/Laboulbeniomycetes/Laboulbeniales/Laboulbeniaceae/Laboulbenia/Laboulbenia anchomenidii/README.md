@@ -1,5 +1,4 @@
-Laboulbenia anchomenidii Gonz. Frag. SPECIES
-=======
+# Laboulbenia anchomenidii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora clutiicola Crous & U. Braun SPECIES
-=======
+# Pseudocercospora clutiicola Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

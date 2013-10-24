@@ -1,5 +1,4 @@
-Helvella fuliginea Saut. SPECIES
-=======
+# Helvella fuliginea Saut. SPECIES
 
 #### Status
 ACCEPTED

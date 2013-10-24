@@ -1,5 +1,4 @@
-Ascodesmis macrospora W. Obrist SPECIES
-=======
+# Ascodesmis macrospora W. Obrist SPECIES
 
 #### Status
 ACCEPTED

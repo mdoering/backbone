@@ -1,5 +1,4 @@
-Agaricus parilis Fr. SPECIES
-=======
+# Agaricus parilis Fr. SPECIES
 
 #### Status
 ACCEPTED

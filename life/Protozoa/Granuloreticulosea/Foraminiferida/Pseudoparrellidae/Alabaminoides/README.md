@@ -1,5 +1,4 @@
-Alabaminoides Gudina & Saidova, 1967 GENUS
-=======
+# Alabaminoides Gudina & Saidova, 1967 GENUS
 
 #### Status
 ACCEPTED

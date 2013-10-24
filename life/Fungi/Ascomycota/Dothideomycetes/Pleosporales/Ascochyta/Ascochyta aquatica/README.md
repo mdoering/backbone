@@ -1,5 +1,4 @@
-Ascochyta aquatica Speg. SPECIES
-=======
+# Ascochyta aquatica Speg. SPECIES
 
 #### Status
 ACCEPTED

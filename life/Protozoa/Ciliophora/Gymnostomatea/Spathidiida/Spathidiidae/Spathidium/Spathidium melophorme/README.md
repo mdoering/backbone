@@ -1,5 +1,4 @@
-Spathidium melophorme SPECIES
-=======
+# Spathidium melophorme SPECIES
 
 #### Status
 ACCEPTED

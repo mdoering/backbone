@@ -1,5 +1,4 @@
-Cyphelium carolinianum (Tuck.) Zahlbr. SPECIES
-=======
+# Cyphelium carolinianum (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

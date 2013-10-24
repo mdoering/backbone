@@ -1,5 +1,4 @@
-Agaricus potanini Kalchbr. SPECIES
-=======
+# Agaricus potanini Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

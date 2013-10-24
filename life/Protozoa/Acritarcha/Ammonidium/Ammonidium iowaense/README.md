@@ -1,5 +1,4 @@
-Ammonidium iowaense Wicander & Wood, 1997 SPECIES
-=======
+# Ammonidium iowaense Wicander & Wood, 1997 SPECIES
 
 #### Status
 ACCEPTED

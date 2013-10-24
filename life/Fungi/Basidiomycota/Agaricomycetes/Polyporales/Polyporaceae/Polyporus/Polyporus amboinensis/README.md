@@ -1,5 +1,4 @@
-Polyporus amboinensis Fr. SPECIES
-=======
+# Polyporus amboinensis Fr. SPECIES
 
 #### Status
 ACCEPTED

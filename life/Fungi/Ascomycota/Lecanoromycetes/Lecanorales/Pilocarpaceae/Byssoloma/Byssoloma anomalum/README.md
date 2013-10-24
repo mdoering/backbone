@@ -1,5 +1,4 @@
-Byssoloma anomalum Kalb & Vezda SPECIES
-=======
+# Byssoloma anomalum Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

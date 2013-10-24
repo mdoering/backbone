@@ -1,5 +1,4 @@
-Streptomyces minutiscleroticus (Thirumalachar, 1965) Pridham, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces minutiscleroticus (Thirumalachar, 1965) Pridham, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

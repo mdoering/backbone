@@ -1,5 +1,4 @@
-Endophragmiella variabilis R.F. Castañeda SPECIES
-=======
+# Endophragmiella variabilis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

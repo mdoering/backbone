@@ -1,5 +1,4 @@
-Clasterosphaeria Sivan. GENUS
-=======
+# Clasterosphaeria Sivan. GENUS
 
 #### Status
 ACCEPTED

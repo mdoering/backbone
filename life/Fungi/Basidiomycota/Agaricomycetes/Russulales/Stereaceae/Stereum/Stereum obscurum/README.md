@@ -1,5 +1,4 @@
-Stereum obscurum Lloyd SPECIES
-=======
+# Stereum obscurum Lloyd SPECIES
 
 #### Status
 ACCEPTED

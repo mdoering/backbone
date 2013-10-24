@@ -1,5 +1,4 @@
-Strongylidiidae Faure-Fremiet, 1961 FAMILY
-=======
+# Strongylidiidae Faure-Fremiet, 1961 FAMILY
 
 #### Status
 ACCEPTED

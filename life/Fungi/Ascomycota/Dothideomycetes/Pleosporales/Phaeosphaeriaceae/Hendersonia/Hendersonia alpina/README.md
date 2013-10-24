@@ -1,5 +1,4 @@
-Hendersonia alpina Speg. SPECIES
-=======
+# Hendersonia alpina Speg. SPECIES
 
 #### Status
 ACCEPTED

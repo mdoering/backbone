@@ -1,5 +1,4 @@
-Cordyceps bokyoensis Kobayasi SPECIES
-=======
+# Cordyceps bokyoensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

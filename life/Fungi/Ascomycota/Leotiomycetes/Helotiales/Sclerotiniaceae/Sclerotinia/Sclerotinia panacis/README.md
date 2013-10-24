@@ -1,5 +1,4 @@
-Sclerotinia panacis Rankin SPECIES
-=======
+# Sclerotinia panacis Rankin SPECIES
 
 #### Status
 ACCEPTED

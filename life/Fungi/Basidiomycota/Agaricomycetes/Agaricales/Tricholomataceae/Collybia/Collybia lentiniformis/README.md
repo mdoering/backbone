@@ -1,5 +1,4 @@
-Collybia lentiniformis P. Karst. SPECIES
-=======
+# Collybia lentiniformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

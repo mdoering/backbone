@@ -1,5 +1,4 @@
-Physalospora cinchonae Vincens SPECIES
-=======
+# Physalospora cinchonae Vincens SPECIES
 
 #### Status
 ACCEPTED

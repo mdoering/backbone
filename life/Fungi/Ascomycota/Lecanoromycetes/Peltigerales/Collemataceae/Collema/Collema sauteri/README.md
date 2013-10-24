@@ -1,5 +1,4 @@
-Collema sauteri (Körb.) Arnold SPECIES
-=======
+# Collema sauteri (Körb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

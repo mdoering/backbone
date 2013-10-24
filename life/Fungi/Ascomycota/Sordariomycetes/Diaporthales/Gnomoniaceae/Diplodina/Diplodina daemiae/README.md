@@ -1,5 +1,4 @@
-Diplodina daemiae S. Ahmad SPECIES
-=======
+# Diplodina daemiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

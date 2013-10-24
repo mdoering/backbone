@@ -1,5 +1,4 @@
-Dictyophora callichroa Möller SPECIES
-=======
+# Dictyophora callichroa Möller SPECIES
 
 #### Status
 ACCEPTED

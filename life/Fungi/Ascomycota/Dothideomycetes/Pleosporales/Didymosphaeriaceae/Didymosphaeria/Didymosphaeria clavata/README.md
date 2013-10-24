@@ -1,5 +1,4 @@
-Didymosphaeria clavata Du Plessis SPECIES
-=======
+# Didymosphaeria clavata Du Plessis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus macropus Berk. & Broome SPECIES
-=======
+# Coprinus macropus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

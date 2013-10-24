@@ -1,5 +1,4 @@
-Segmentochona Jankowski, 1989 GENUS
-=======
+# Segmentochona Jankowski, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria laevatoides (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria laevatoides (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

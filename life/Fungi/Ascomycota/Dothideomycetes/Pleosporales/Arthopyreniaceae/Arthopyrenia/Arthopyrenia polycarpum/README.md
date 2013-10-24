@@ -1,5 +1,4 @@
-Arthopyrenia polycarpum Körb. SPECIES
-=======
+# Arthopyrenia polycarpum Körb. SPECIES
 
 #### Status
 ACCEPTED

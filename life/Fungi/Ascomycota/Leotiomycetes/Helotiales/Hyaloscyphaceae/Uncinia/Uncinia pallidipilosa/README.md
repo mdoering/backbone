@@ -1,5 +1,4 @@
-Uncinia pallidipilosa Arendh. SPECIES
-=======
+# Uncinia pallidipilosa Arendh. SPECIES
 
 #### Status
 ACCEPTED

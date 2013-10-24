@@ -1,5 +1,4 @@
-Arthonia neoni B. de Lesd. SPECIES
-=======
+# Arthonia neoni B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

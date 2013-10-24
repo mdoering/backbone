@@ -1,5 +1,4 @@
-Helicotrichum planiculme Bess. ex Rchb. SPECIES
-=======
+# Helicotrichum planiculme Bess. ex Rchb. SPECIES
 
 #### Status
 ACCEPTED

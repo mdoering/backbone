@@ -1,17 +1,16 @@
-Cercospora erythroxylonis Govindu & Thirum. SPECIES
-=======
+# Cercospora erythroxyli Govindu & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9: 221 (1955)
 
 #### Original name
-Cercospora erythroxylonis Govindu & Thirum.
+Cercospora erythroxyli Govindu & Thirum.
 
 ### Remarks
 null

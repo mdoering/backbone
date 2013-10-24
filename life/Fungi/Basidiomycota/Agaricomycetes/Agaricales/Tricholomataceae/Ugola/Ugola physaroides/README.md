@@ -1,14 +1,13 @@
-Asterophora physaroides Fr., 1817 SPECIES
-=======
+# Ugola physaroides (Fr.) Redhead & Seifert, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. gasteromyc. (Lund) 1: 8 (1817)
+Taxon 50(1): 248 (2001)
 
 #### Original name
 Asterophora physaroides Fr., 1817

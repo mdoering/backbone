@@ -1,5 +1,4 @@
-Entyloma aposeridis Jaap SPECIES
-=======
+# Entyloma aposeridis Jaap SPECIES
 
 #### Status
 ACCEPTED

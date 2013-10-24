@@ -1,5 +1,4 @@
-Mycena stictopus Maas Geest. & Hauskn. SPECIES
-=======
+# Mycena stictopus Maas Geest. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

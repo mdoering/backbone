@@ -1,14 +1,13 @@
-Lecidea parmeliarum f. microsperma (Tul.) Stizenb., 1890 FORM
-=======
+# Abrothallus microspermus Tul., 1852 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 17: 115 (1852)
 
 #### Original name
 Abrothallus microspermus Tul., 1852

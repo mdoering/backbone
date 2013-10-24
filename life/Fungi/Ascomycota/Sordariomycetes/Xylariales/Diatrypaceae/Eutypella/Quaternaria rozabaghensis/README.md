@@ -1,5 +1,4 @@
-Quaternaria rozabaghensis Srinivasulu & P.G. Sathe SPECIES
-=======
+# Quaternaria rozabaghensis Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

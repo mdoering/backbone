@@ -1,5 +1,4 @@
-Monospeliensina vulpesi Glacon & Lys, 1968 SPECIES
-=======
+# Monospeliensina vulpesi Glacon & Lys, 1968 SPECIES
 
 #### Status
 ACCEPTED

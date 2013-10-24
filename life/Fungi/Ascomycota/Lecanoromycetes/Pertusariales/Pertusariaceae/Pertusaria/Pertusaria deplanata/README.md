@@ -1,5 +1,4 @@
-Pertusaria deplanata Müll. Arg. SPECIES
-=======
+# Pertusaria deplanata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

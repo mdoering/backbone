@@ -1,5 +1,4 @@
-Verrucaria boblensis Servít SPECIES
-=======
+# Verrucaria boblensis Servít SPECIES
 
 #### Status
 ACCEPTED

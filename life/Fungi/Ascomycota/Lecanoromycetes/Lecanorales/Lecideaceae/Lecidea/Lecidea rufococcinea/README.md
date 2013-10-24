@@ -1,5 +1,4 @@
-Lecidea rufococcinea Zenk. SPECIES
-=======
+# Lecidea rufococcinea Zenk. SPECIES
 
 #### Status
 ACCEPTED

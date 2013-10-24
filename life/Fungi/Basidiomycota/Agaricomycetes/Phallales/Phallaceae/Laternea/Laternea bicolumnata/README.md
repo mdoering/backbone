@@ -1,5 +1,4 @@
-Laternea bicolumnata Kusano SPECIES
-=======
+# Laternea bicolumnata Kusano SPECIES
 
 #### Status
 ACCEPTED

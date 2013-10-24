@@ -1,5 +1,4 @@
-Leptostroma camelliae Zenker SPECIES
-=======
+# Leptostroma camelliae Zenker SPECIES
 
 #### Status
 ACCEPTED

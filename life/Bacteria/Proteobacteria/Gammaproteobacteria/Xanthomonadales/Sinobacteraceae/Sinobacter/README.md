@@ -1,5 +1,4 @@
-Sinobacter Zhou et al., 2008 GENUS
-=======
+# Sinobacter Zhou et al., 2008 GENUS
 
 #### Status
 ACCEPTED

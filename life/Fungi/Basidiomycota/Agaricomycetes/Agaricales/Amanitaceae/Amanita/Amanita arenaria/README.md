@@ -1,5 +1,4 @@
-Amanita arenaria (O.K. Mill. & E. Horak) Justo, 2010 SPECIES
-=======
+# Amanita arenaria (O.K. Mill. & E. Horak) Justo, 2010 SPECIES
 
 #### Status
 ACCEPTED

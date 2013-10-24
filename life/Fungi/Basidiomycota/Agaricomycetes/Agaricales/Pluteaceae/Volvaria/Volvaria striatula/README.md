@@ -1,5 +1,4 @@
-Volvaria striatula Peck SPECIES
-=======
+# Volvaria striatula Peck SPECIES
 
 #### Status
 ACCEPTED

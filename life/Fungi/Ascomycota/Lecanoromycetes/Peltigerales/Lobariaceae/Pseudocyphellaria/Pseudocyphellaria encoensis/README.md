@@ -1,5 +1,4 @@
-Pseudocyphellaria encoensis R. Sant. SPECIES
-=======
+# Pseudocyphellaria encoensis R. Sant. SPECIES
 
 #### Status
 ACCEPTED

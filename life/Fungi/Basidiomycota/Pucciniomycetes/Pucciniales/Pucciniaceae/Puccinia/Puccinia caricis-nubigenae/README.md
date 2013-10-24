@@ -1,5 +1,4 @@
-Puccinia caricis-nubigenae Padwick & A. Khan SPECIES
-=======
+# Puccinia caricis-nubigenae Padwick & A. Khan SPECIES
 
 #### Status
 ACCEPTED

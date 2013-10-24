@@ -1,5 +1,4 @@
-Lecanora flowersiana H. Magn. SPECIES
-=======
+# Lecanora flowersiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

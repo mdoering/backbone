@@ -1,5 +1,4 @@
-Laboulbenia punctulata Thaxt. SPECIES
-=======
+# Laboulbenia punctulata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

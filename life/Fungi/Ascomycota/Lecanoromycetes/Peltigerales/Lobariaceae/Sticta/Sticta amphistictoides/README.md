@@ -1,5 +1,4 @@
-Sticta amphistictoides (Vain.) Zahlbr. SPECIES
-=======
+# Sticta amphistictoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

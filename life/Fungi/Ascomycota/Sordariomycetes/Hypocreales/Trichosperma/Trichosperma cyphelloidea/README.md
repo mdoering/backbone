@@ -1,5 +1,4 @@
-Trichosperma cyphelloidea Höhn. SPECIES
-=======
+# Trichosperma cyphelloidea Höhn. SPECIES
 
 #### Status
 ACCEPTED

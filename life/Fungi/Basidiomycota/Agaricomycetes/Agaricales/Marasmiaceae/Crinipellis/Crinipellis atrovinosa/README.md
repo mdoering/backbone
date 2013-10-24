@@ -1,5 +1,4 @@
-Crinipellis atrovinosa Pegler SPECIES
-=======
+# Crinipellis atrovinosa Pegler SPECIES
 
 #### Status
 ACCEPTED

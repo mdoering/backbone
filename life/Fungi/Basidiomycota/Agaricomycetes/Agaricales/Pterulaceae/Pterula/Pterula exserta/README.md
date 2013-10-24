@@ -1,5 +1,4 @@
-Pterula exserta Lloyd SPECIES
-=======
+# Pterula exserta Lloyd SPECIES
 
 #### Status
 ACCEPTED

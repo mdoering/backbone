@@ -1,5 +1,4 @@
-Typhula borealis H. Ekstr. SPECIES
-=======
+# Typhula borealis H. Ekstr. SPECIES
 
 #### Status
 ACCEPTED

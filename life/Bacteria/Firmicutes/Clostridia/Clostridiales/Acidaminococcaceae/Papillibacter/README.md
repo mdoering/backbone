@@ -1,5 +1,4 @@
-Papillibacter Defnoun, Labat, Ambrosio, Garcia & Patel, 2000 GENUS
-=======
+# Papillibacter Defnoun, Labat, Ambrosio, Garcia & Patel, 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces pharetrae Le Roes & Meyers, 2005 SPECIES
-=======
+# Streptomyces pharetrae Le Roes & Meyers, 2005 SPECIES
 
 #### Status
 ACCEPTED

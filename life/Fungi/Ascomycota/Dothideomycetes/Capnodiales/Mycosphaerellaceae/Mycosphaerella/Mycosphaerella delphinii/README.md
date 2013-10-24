@@ -1,5 +1,4 @@
-Mycosphaerella delphinii Tomilin SPECIES
-=======
+# Mycosphaerella delphinii Tomilin SPECIES
 
 #### Status
 ACCEPTED

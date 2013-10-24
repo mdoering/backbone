@@ -1,5 +1,4 @@
-Phoma resecans Sacc. SPECIES
-=======
+# Phoma resecans Sacc. SPECIES
 
 #### Status
 ACCEPTED

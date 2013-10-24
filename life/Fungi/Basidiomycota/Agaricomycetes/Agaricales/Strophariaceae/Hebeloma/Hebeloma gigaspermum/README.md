@@ -1,17 +1,16 @@
-Hebeloma groegeri Bon, 2002 SPECIES
-=======
+# Hebeloma gigaspermum Gröger & Zschiesch., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 31(no. 123): 27 (2002)
+Z. Mykol. 47(2): 201 (1981)
 
 #### Original name
-Hebeloma groegeri Bon, 2002
+Hebeloma gigaspermum Gröger & Zschiesch., 1981
 
 ### Remarks
 null

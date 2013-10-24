@@ -1,5 +1,4 @@
-Acrostroma Seifert GENUS
-=======
+# Acrostroma Seifert GENUS
 
 #### Status
 ACCEPTED

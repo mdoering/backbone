@@ -1,5 +1,4 @@
-Heterosporium montenegrinum Bubák SPECIES
-=======
+# Heterosporium montenegrinum Bubák SPECIES
 
 #### Status
 ACCEPTED

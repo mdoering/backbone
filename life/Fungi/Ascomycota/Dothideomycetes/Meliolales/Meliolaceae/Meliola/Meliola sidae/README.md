@@ -1,5 +1,4 @@
-Meliola sidae var. sidae VARIETY
-=======
+# Meliola sidae Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola sidae var. sidae
+Meliola sidae Rehm
 
 ### Remarks
 null

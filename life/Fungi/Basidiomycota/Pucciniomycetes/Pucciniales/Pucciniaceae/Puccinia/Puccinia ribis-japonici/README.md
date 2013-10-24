@@ -1,5 +1,4 @@
-Puccinia ribis-japonici Henn. SPECIES
-=======
+# Puccinia ribis-japonici Henn. SPECIES
 
 #### Status
 ACCEPTED

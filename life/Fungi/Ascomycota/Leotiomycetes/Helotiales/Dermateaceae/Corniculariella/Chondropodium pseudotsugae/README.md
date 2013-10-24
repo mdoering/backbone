@@ -1,5 +1,4 @@
-Chondropodium pseudotsugae W.L. White SPECIES
-=======
+# Chondropodium pseudotsugae W.L. White SPECIES
 
 #### Status
 ACCEPTED

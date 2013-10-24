@@ -1,5 +1,4 @@
-Didymoporisporonites mucronatus Sal.-Cheb. & Locq. SPECIES
-=======
+# Didymoporisporonites mucronatus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

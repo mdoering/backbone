@@ -1,5 +1,4 @@
-Phragmopeltis callista Syd. SPECIES
-=======
+# Phragmopeltis callista Syd. SPECIES
 
 #### Status
 ACCEPTED

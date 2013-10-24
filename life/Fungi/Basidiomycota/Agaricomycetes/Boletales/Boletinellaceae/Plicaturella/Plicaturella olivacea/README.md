@@ -1,5 +1,4 @@
-Plicaturella olivacea (Schwein.) Murrill SPECIES
-=======
+# Plicaturella olivacea (Schwein.) Murrill SPECIES
 
 #### Status
 ACCEPTED

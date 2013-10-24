@@ -1,5 +1,4 @@
-Padina undulata Ni-Ni-Win, S.Arai & H.Kawai, 2010 SPECIES
-=======
+# Padina undulata Ni-Ni-Win, S.Arai & H.Kawai, 2010 SPECIES
 
 #### Status
 ACCEPTED

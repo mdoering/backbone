@@ -1,5 +1,4 @@
-Spiniferites alatus Duxbury, 1977 SPECIES
-=======
+# Spiniferites alatus Duxbury, 1977 SPECIES
 
 #### Status
 ACCEPTED

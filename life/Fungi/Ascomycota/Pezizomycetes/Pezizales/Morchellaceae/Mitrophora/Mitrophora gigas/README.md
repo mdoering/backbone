@@ -1,17 +1,16 @@
-Morchella patula var. gigas (Pers.) S. Imai, 1954 VARIETY
-=======
+# Mitrophora gigas Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Science Rep. Yokohama Nat. Univ. , Section 2 3: 15 (1954)
+Annls Sci. Nat. , Bot. , sér. 3 5: 250 (1846)
 
 #### Original name
-Morchella gigas Pers., 1801
+Mitrophora gigas Lév., 1846
 
 ### Remarks
 null

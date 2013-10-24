@@ -1,5 +1,4 @@
-Fomes nitens (Fr.) Sacc. SPECIES
-=======
+# Fomes nitens (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

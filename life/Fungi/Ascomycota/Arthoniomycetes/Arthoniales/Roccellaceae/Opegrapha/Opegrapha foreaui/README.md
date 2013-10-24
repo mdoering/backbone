@@ -1,5 +1,4 @@
-Opegrapha foreaui (Moreau) Hafellner & R. Sant. SPECIES
-=======
+# Opegrapha foreaui (Moreau) Hafellner & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

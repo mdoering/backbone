@@ -1,5 +1,4 @@
-Lachnellula intricata Spooner SPECIES
-=======
+# Lachnellula intricata Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propionibacterium GENUS
-=======
+# Propionibacterium GENUS
 
 #### Status
 ACCEPTED

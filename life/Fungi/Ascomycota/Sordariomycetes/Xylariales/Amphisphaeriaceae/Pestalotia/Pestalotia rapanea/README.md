@@ -1,5 +1,4 @@
-Pestalotia rapanea Viégas SPECIES
-=======
+# Pestalotia rapanea Viégas SPECIES
 
 #### Status
 ACCEPTED

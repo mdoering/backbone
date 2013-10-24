@@ -1,5 +1,4 @@
-Clisosporium silvaticum (Sacc. & Malbr.) Kuntze SPECIES
-=======
+# Clisosporium silvaticum (Sacc. & Malbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

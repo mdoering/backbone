@@ -1,5 +1,4 @@
-Dicaeoma eremuri (Kom.) Kuntze SPECIES
-=======
+# Dicaeoma eremuri (Kom.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

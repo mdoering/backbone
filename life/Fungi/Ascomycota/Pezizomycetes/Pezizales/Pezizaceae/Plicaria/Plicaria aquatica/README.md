@@ -1,5 +1,4 @@
-Plicaria aquatica Velen. SPECIES
-=======
+# Plicaria aquatica Velen. SPECIES
 
 #### Status
 ACCEPTED

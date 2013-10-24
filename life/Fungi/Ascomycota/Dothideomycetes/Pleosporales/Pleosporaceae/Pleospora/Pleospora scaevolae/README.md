@@ -1,5 +1,4 @@
-Pleospora scaevolae F. Stevens & P.A. Young SPECIES
-=======
+# Pleospora scaevolae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

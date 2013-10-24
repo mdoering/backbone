@@ -1,14 +1,13 @@
-Isaria brachiata (Batsch) Schumach., 1803 SPECIES
-=======
+# Tilachlidium brachiatum (Batsch) Petch, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enum. pl. (Kjbenhavn) 2: 443 (1803)
+in Ellis, Trans. Norfolk Norw. Nat. Soc. 15: 198 (1941)
 
 #### Original name
 null

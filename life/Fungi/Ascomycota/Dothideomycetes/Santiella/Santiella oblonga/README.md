@@ -1,5 +1,4 @@
-Santiella oblonga Tassi SPECIES
-=======
+# Santiella oblonga Tassi SPECIES
 
 #### Status
 ACCEPTED

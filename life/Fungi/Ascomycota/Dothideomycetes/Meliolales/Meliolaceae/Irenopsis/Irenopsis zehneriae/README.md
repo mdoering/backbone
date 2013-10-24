@@ -1,5 +1,4 @@
-Irenopsis zehneriae (Van der Byl) F. Stevens SPECIES
-=======
+# Irenopsis zehneriae (Van der Byl) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

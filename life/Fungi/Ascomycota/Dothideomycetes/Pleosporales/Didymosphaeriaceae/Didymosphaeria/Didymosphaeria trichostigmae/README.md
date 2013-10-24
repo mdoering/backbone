@@ -1,5 +1,4 @@
-Didymosphaeria trichostigmae Chardón SPECIES
-=======
+# Didymosphaeria trichostigmae Chardón SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Letendraea camerunensis (Rehm) Doguet SPECIES
-=======
+# Letendraea camerunensis (Rehm) Doguet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium acerinum Peck SPECIES
-=======
+# Stegonsporium acerinum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocollybia badiialba (Murrill) Halling SPECIES
-=======
+# Rhodocollybia badiialba (Murrill) Halling SPECIES
 
 #### Status
 ACCEPTED

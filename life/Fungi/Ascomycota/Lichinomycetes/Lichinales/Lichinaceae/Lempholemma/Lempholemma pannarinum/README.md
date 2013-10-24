@@ -1,5 +1,4 @@
-Lempholemma pannarinum (Nyl.) Zahlbr. SPECIES
-=======
+# Lempholemma pannarinum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

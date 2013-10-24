@@ -1,5 +1,4 @@
-Oscillatoria articulata Gardner SPECIES
-=======
+# Oscillatoria articulata Gardner SPECIES
 
 #### Status
 ACCEPTED

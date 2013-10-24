@@ -1,5 +1,4 @@
-Deuterammina goughensis Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Deuterammina goughensis Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

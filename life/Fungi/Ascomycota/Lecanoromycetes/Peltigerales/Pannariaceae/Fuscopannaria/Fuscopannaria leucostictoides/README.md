@@ -1,5 +1,4 @@
-Fuscopannaria leucostictoides (Ohlsson) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria leucostictoides (Ohlsson) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia microspermoides Nyl. SPECIES
-=======
+# Arthonia microspermoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

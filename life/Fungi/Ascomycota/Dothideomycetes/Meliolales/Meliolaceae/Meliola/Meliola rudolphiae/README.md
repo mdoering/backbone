@@ -1,5 +1,4 @@
-Meliola rudolphiae F. Stevens SPECIES
-=======
+# Meliola rudolphiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

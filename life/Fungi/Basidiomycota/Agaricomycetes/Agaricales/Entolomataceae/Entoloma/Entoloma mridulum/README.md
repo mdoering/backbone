@@ -1,5 +1,4 @@
-Entoloma mridulum Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma mridulum Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

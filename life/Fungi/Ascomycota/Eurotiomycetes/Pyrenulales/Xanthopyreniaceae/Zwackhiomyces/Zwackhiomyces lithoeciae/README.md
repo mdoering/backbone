@@ -1,5 +1,4 @@
-Zwackhiomyces lithoeciae SPECIES
-=======
+# Zwackhiomyces lithoeciae SPECIES
 
 #### Status
 ACCEPTED

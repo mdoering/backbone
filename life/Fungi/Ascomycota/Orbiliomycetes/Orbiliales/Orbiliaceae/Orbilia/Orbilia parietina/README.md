@@ -1,5 +1,4 @@
-Orbilia parietina anon. SPECIES
-=======
+# Orbilia parietina anon. SPECIES
 
 #### Status
 ACCEPTED

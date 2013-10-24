@@ -1,17 +1,16 @@
-Megalopsora Vain. GENUS
-=======
+# Physcidia Tuck. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 27 (1921)
+Proc. Amer. Acad. Arts & Sci. 5: 399 (1862)
 
 #### Original name
-Megalopsora Vain.
+Physcidia Tuck.
 
 ### Remarks
 null

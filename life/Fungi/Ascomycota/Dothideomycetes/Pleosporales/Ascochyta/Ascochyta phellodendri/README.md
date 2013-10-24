@@ -1,5 +1,4 @@
-Ascochyta phellodendri Kabát & Bubák SPECIES
-=======
+# Ascochyta phellodendri Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

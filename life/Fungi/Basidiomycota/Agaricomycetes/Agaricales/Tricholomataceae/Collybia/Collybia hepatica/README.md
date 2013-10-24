@@ -1,5 +1,4 @@
-Collybia hepatica (Berk.) Pegler SPECIES
-=======
+# Collybia hepatica (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

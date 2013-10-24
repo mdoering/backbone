@@ -1,14 +1,13 @@
-Cercospora kiggelariae Syd., 1924 SPECIES
-=======
+# Pseudocercospora kiggelariae (Syd.) Crous & U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22(3/6): 434 (1924)
+Sydowia 46(2): 215 (1994)
 
 #### Original name
 Cercospora kiggelariae Syd., 1924

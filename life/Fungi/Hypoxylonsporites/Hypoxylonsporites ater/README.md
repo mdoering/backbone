@@ -1,5 +1,4 @@
-Hypoxylonsporites ater P. Kumar SPECIES
-=======
+# Hypoxylonsporites ater P. Kumar SPECIES
 
 #### Status
 ACCEPTED

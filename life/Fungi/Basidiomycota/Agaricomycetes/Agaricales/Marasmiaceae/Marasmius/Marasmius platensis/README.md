@@ -1,5 +1,4 @@
-Marasmius platensis Speg. SPECIES
-=======
+# Marasmius platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

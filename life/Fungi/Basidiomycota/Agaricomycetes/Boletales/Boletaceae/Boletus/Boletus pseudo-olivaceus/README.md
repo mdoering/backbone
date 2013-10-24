@@ -1,5 +1,4 @@
-Boletus pseudo-olivaceus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus pseudo-olivaceus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

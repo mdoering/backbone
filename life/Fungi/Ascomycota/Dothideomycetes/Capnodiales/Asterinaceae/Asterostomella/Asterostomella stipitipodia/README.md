@@ -1,5 +1,4 @@
-Asterostomella stipitipodia M.L. Farr SPECIES
-=======
+# Asterostomella stipitipodia M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

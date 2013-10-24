@@ -1,5 +1,4 @@
-Isaria penicilliformis Peck SPECIES
-=======
+# Isaria penicilliformis Peck SPECIES
 
 #### Status
 ACCEPTED

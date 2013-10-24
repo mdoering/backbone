@@ -1,5 +1,4 @@
-Helicopsis punctata Peck SPECIES
-=======
+# Helicopsis punctata Peck SPECIES
 
 #### Status
 ACCEPTED

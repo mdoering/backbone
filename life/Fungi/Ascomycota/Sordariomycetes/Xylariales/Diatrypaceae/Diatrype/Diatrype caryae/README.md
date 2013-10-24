@@ -1,5 +1,4 @@
-Diatrype caryae Lar.N. Vassiljeva & S.L. Stephenson SPECIES
-=======
+# Diatrype caryae Lar.N. Vassiljeva & S.L. Stephenson SPECIES
 
 #### Status
 ACCEPTED

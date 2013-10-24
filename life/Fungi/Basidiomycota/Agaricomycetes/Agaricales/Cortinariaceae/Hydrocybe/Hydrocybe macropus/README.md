@@ -1,5 +1,4 @@
-Hydrocybe macropus (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe macropus (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria doehlii Syd. SPECIES
-=======
+# Septoria doehlii Syd. SPECIES
 
 #### Status
 ACCEPTED

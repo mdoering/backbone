@@ -1,5 +1,4 @@
-Cyptotrama hygrocyboides Singer, 1969 SPECIES
-=======
+# Cyptotrama hygrocyboides Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

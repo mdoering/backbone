@@ -1,14 +1,13 @@
-Heterosporium brassicae (Ellis & Barthol.) Arx, 1981 SPECIES
-=======
+# Cladosporium brassicae (Ellis & Barthol.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 305 (1981)
+More Dematiaceous Hyphomycetes (Kew) 340 (1976)
 
 #### Original name
 Cladotrichum brassicae Ellis & Barthol., 1899

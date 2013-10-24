@@ -1,5 +1,4 @@
-Sordaria delitschioides Speg. SPECIES
-=======
+# Sordaria delitschioides Speg. SPECIES
 
 #### Status
 ACCEPTED

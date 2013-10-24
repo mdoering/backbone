@@ -1,5 +1,4 @@
-Julella exiguella (Stirt. ex F.M. Bailey) R.C. Harris SPECIES
-=======
+# Julella exiguella (Stirt. ex F.M. Bailey) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

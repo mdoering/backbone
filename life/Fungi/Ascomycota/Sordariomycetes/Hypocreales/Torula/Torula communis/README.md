@@ -1,5 +1,4 @@
-Torula communis C.A. Browne SPECIES
-=======
+# Torula communis C.A. Browne SPECIES
 
 #### Status
 ACCEPTED

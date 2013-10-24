@@ -1,5 +1,4 @@
-Mycovellosiella incarnata Deighton SPECIES
-=======
+# Mycovellosiella incarnata Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fungus stercorarius (Fr.) Kuntze, 1898 SPECIES
-=======
+# Coprinopsis stercorea (Fr.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 480 (1898)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 231 (2001)
 
 #### Original name
-Agaricus stercorarius Bull., 1786
+Coprinus stercoreus Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmotrema perlata (Huds.) M. Choisy, 1952 SPECIES
-=======
+# Parmotrema perlata (Huds.) M. Choisy, 1952 SPECIES
 
 #### Status
 ACCEPTED

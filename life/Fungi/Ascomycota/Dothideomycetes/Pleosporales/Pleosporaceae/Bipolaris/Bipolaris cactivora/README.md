@@ -1,14 +1,13 @@
-Drechslera cactivora (Petr.) M.B. Ellis, 1971 SPECIES
-=======
+# Bipolaris cactivora (Petr.) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dematiaceous Hyphomycetes (Kew) 432 (1971)
+Mycotaxon 17: 67 (1983)
 
 #### Original name
 Helminthosporium cactivorum Petr., 1931

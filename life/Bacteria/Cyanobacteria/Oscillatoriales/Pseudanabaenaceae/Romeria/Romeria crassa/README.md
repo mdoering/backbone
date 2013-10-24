@@ -1,5 +1,4 @@
-Romeria crassa F. Hindák SPECIES
-=======
+# Romeria crassa F. Hindák SPECIES
 
 #### Status
 ACCEPTED

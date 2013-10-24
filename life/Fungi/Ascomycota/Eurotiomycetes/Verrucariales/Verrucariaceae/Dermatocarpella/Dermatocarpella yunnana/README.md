@@ -1,5 +1,4 @@
-Dermatocarpella yunnana H. Harada & Li S. Wang SPECIES
-=======
+# Dermatocarpella yunnana H. Harada & Li S. Wang SPECIES
 
 #### Status
 ACCEPTED

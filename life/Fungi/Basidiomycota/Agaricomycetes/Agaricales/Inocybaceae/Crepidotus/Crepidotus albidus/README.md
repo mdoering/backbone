@@ -1,5 +1,4 @@
-Crepidotus albidus var. albidus VARIETY
-=======
+# Crepidotus albidus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crepidotus albidus var. albidus
+Crepidotus albidus Ellis & Everh.
 
 ### Remarks
 null

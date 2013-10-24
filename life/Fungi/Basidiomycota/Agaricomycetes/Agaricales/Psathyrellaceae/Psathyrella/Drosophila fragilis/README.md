@@ -1,5 +1,4 @@
-Drosophila fragilis (Peck) Murrill SPECIES
-=======
+# Drosophila fragilis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

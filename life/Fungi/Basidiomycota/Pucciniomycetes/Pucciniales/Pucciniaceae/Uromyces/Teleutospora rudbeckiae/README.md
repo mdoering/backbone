@@ -1,5 +1,4 @@
-Teleutospora rudbeckiae (Arthur & Holw.) Arthur & Bisby SPECIES
-=======
+# Teleutospora rudbeckiae (Arthur & Holw.) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

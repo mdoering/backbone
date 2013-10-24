@@ -1,5 +1,4 @@
-Tromera xanthostigma A. Massal. SPECIES
-=======
+# Tromera xanthostigma A. Massal. SPECIES
 
 #### Status
 ACCEPTED

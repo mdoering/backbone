@@ -1,5 +1,4 @@
-Puccinia cyperi-cristati Gjaerum SPECIES
-=======
+# Puccinia cyperi-cristati Gjaerum SPECIES
 
 #### Status
 ACCEPTED

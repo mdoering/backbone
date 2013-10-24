@@ -1,5 +1,4 @@
-Fomes umbraculum (Fr.) Sacc. SPECIES
-=======
+# Fomes umbraculum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

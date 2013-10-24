@@ -1,5 +1,4 @@
-Parasterinopsis orchidacearum Bat. & Peres, 1963 SPECIES
-=======
+# Parasterinopsis orchidacearum Bat. & Peres, 1963 SPECIES
 
 #### Status
 ACCEPTED

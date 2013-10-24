@@ -1,5 +1,4 @@
-Monotospora dominicana Gonz. Frag. & Cif. SPECIES
-=======
+# Monotospora dominicana Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

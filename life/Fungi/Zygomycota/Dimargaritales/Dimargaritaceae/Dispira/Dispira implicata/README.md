@@ -1,5 +1,4 @@
-Dispira implicata P.C. Misra & Lata, 1979 SPECIES
-=======
+# Dispira implicata P.C. Misra & Lata, 1979 SPECIES
 
 #### Status
 ACCEPTED

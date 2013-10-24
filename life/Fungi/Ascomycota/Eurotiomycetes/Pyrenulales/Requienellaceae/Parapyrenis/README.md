@@ -1,5 +1,4 @@
-Parapyrenis Aptroot GENUS
-=======
+# Parapyrenis Aptroot GENUS
 
 #### Status
 ACCEPTED

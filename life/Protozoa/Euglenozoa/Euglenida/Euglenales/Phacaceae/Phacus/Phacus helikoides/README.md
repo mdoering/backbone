@@ -1,5 +1,4 @@
-Phacus helikoides Pochmann, 1942 SPECIES
-=======
+# Phacus helikoides Pochmann, 1942 SPECIES
 
 #### Status
 ACCEPTED

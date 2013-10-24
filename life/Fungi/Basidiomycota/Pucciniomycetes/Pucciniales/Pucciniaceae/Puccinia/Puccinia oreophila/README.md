@@ -1,5 +1,4 @@
-Puccinia oreophila Syd. SPECIES
-=======
+# Puccinia oreophila Syd. SPECIES
 
 #### Status
 ACCEPTED

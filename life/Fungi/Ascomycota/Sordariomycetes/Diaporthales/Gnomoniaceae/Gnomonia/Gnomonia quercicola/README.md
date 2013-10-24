@@ -1,5 +1,4 @@
-Gnomonia quercicola (Teng) M. Monod SPECIES
-=======
+# Gnomonia quercicola (Teng) M. Monod SPECIES
 
 #### Status
 ACCEPTED

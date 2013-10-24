@@ -1,5 +1,4 @@
-Scindalma kermes (Berk. & Broome) Kuntze SPECIES
-=======
+# Scindalma kermes (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

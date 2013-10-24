@@ -1,5 +1,4 @@
-Psora acervulans (Nyl.) Boistel SPECIES
-=======
+# Psora acervulans (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

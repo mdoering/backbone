@@ -1,5 +1,4 @@
-Lecidea albidofusca (Nyl.) Hue SPECIES
-=======
+# Lecidea albidofusca (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

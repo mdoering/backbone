@@ -1,17 +1,16 @@
-Eccrinella corophii Manier, 1961 SPECIES
-=======
+# Astreptonema corophii Manier ex Manier, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cah. biol. mar. 2: 317 (1961)
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 9: 98 (1968)
 
 #### Original name
-Eccrinella corophii Manier, 1961
+Astreptonema corophii Manier ex Manier, 1968
 
 ### Remarks
 null

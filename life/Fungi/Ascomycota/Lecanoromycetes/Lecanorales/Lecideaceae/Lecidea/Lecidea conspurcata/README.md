@@ -1,5 +1,4 @@
-Lecidea conspurcata Ach. SPECIES
-=======
+# Lecidea conspurcata Ach. SPECIES
 
 #### Status
 ACCEPTED

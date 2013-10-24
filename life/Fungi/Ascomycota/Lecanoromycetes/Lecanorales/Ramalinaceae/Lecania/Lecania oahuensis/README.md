@@ -1,5 +1,4 @@
-Lecania oahuensis H. Magn. SPECIES
-=======
+# Lecania oahuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

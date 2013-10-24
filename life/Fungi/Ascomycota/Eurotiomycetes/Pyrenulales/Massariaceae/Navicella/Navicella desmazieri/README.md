@@ -1,5 +1,4 @@
-Navicella desmazieri (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Navicella desmazieri (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia pennsylvanica Verseghy SPECIES
-=======
+# Ochrolechia pennsylvanica Verseghy SPECIES
 
 #### Status
 ACCEPTED

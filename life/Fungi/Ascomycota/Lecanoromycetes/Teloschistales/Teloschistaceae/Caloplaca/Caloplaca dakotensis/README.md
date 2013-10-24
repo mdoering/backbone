@@ -1,5 +1,4 @@
-Caloplaca dakotensis Wetmore SPECIES
-=======
+# Caloplaca dakotensis Wetmore SPECIES
 
 #### Status
 ACCEPTED

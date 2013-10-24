@@ -1,5 +1,4 @@
-Marssonina saxifragae Arx SPECIES
-=======
+# Marssonina saxifragae Arx SPECIES
 
 #### Status
 ACCEPTED

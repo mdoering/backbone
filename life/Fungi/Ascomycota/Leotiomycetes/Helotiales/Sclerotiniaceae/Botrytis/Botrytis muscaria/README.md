@@ -1,5 +1,4 @@
-Botrytis muscaria Trog SPECIES
-=======
+# Botrytis muscaria Trog SPECIES
 
 #### Status
 ACCEPTED

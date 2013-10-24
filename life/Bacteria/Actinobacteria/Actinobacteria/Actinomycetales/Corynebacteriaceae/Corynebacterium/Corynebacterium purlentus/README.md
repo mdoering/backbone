@@ -1,5 +1,4 @@
-Corynebacterium purlentus SPECIES
-=======
+# Corynebacterium purlentus SPECIES
 
 #### Status
 ACCEPTED

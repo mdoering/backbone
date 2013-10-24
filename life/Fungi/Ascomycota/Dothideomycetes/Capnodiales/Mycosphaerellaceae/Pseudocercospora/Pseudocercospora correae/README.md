@@ -1,5 +1,4 @@
-Pseudocercospora correae B. Sutton & Pascoe SPECIES
-=======
+# Pseudocercospora correae B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadiplodia acerina (Lév.) Zambett. SPECIES
-=======
+# Metadiplodia acerina (Lév.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

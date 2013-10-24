@@ -1,5 +1,4 @@
-Durella stenotheca (P. Karst.) Nannf. SPECIES
-=======
+# Durella stenotheca (P. Karst.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

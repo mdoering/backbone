@@ -1,5 +1,4 @@
-Calvatia fulvida Sosin SPECIES
-=======
+# Calvatia fulvida Sosin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria congregata de Hoog, 1985 SPECIES
-=======
+# Dactylaria congregata de Hoog, 1985 SPECIES
 
 #### Status
 ACCEPTED

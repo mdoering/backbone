@@ -1,5 +1,4 @@
-Sclerotium juglandinum Westend. SPECIES
-=======
+# Sclerotium juglandinum Westend. SPECIES
 
 #### Status
 ACCEPTED

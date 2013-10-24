@@ -1,5 +1,4 @@
-Arachnion lazoi Demoulin, 1972 SPECIES
-=======
+# Arachnion lazoi Demoulin, 1972 SPECIES
 
 #### Status
 ACCEPTED

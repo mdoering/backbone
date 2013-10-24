@@ -1,5 +1,4 @@
-Textularia hakusikeiensis Nakamura SPECIES
-=======
+# Textularia hakusikeiensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

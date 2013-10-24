@@ -1,5 +1,4 @@
-Lecanactis cohibens (Nyl.) Nyl. SPECIES
-=======
+# Lecanactis cohibens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

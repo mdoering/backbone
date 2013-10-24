@@ -1,5 +1,4 @@
-Centrasphaeridium R.Wicander & G.Playford, 1985 GENUS
-=======
+# Centrasphaeridium R.Wicander & G.Playford, 1985 GENUS
 
 #### Status
 ACCEPTED

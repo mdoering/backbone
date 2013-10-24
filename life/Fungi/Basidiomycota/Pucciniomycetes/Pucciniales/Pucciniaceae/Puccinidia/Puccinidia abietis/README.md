@@ -1,5 +1,4 @@
-Puccinidia abietis Mayr SPECIES
-=======
+# Puccinidia abietis Mayr SPECIES
 
 #### Status
 ACCEPTED

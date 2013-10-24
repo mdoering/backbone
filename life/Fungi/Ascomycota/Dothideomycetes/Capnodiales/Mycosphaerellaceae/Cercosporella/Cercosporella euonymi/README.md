@@ -1,5 +1,4 @@
-Cercosporella euonymi Erikss. SPECIES
-=======
+# Cercosporella euonymi Erikss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rachicladosporium americanum Cheew. & Crous, 2009 SPECIES
-=======
+# Rachicladosporium americanum Cheew. & Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia sorbina Körb. SPECIES
-=======
+# Arthonia sorbina Körb. SPECIES
 
 #### Status
 ACCEPTED

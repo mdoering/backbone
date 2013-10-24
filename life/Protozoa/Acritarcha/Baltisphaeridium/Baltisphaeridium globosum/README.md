@@ -1,5 +1,4 @@
-Baltisphaeridium globosum Tynni, 1975 emend. Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium globosum Tynni, 1975 emend. Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella dactylocystis f. dactylocystis FORM
-=======
+# Psathyrella dactylocystis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 188 (1969)
 
 #### Original name
-Psathyrella dactylocystis f. dactylocystis
+Psathyrella dactylocystis Singer
 
 ### Remarks
 null

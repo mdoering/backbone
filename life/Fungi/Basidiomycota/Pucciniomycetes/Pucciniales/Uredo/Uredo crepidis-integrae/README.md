@@ -1,5 +1,4 @@
-Uredo crepidis-integrae Lindr. SPECIES
-=======
+# Uredo crepidis-integrae Lindr. SPECIES
 
 #### Status
 ACCEPTED

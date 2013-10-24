@@ -1,5 +1,4 @@
-Scolecopeltella dissimilis (Rehm) Bat. SPECIES
-=======
+# Scolecopeltella dissimilis (Rehm) Bat. SPECIES
 
 #### Status
 ACCEPTED

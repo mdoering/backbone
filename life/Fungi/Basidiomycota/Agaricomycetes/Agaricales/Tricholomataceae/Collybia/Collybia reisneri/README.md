@@ -1,5 +1,4 @@
-Collybia reisneri Velen. SPECIES
-=======
+# Collybia reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummularia microsticta (Mont.) Cooke SPECIES
-=======
+# Nummularia microsticta (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

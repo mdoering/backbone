@@ -1,5 +1,4 @@
-Ophiocordyceps ridleyi (Massee) Kobayasi SPECIES
-=======
+# Ophiocordyceps ridleyi (Massee) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

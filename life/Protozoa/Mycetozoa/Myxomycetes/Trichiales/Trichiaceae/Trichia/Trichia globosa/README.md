@@ -1,5 +1,4 @@
-Trichia globosa Vill. SPECIES
-=======
+# Trichia globosa Vill. SPECIES
 
 #### Status
 ACCEPTED

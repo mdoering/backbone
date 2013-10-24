@@ -1,5 +1,4 @@
-Polystigma deformans Syd., 1936 SPECIES
-=======
+# Polystigma deformans Syd., 1936 SPECIES
 
 #### Status
 ACCEPTED

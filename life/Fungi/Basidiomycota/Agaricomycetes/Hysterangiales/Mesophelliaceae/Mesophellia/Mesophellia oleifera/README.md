@@ -1,5 +1,4 @@
-Mesophellia oleifera Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia oleifera Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

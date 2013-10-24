@@ -1,5 +1,4 @@
-Psorotichia areniseda Harm. SPECIES
-=======
+# Psorotichia areniseda Harm. SPECIES
 
 #### Status
 ACCEPTED

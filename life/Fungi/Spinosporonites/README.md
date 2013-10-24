@@ -1,5 +1,4 @@
-Spinosporonites R.K. Saxena & S. Khare GENUS
-=======
+# Spinosporonites R.K. Saxena & S. Khare GENUS
 
 #### Status
 ACCEPTED

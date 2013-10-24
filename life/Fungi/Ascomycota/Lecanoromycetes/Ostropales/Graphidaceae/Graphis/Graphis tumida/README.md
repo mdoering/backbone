@@ -1,5 +1,4 @@
-Graphis tumida Kremp. SPECIES
-=======
+# Graphis tumida Kremp. SPECIES
 
 #### Status
 ACCEPTED

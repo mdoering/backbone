@@ -1,5 +1,4 @@
-Agaricus piriodora Pers. SPECIES
-=======
+# Agaricus piriodora Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucopaxillus stenosporus A. Favre SPECIES
-=======
+# Leucopaxillus stenosporus A. Favre SPECIES
 
 #### Status
 ACCEPTED

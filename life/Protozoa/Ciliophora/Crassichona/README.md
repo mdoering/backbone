@@ -1,5 +1,4 @@
-Crassichona Yankovskii, 1973 GENUS
-=======
+# Crassichona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

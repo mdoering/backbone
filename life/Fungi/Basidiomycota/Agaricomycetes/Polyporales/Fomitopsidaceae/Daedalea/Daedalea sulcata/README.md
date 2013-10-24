@@ -1,17 +1,16 @@
-Hexagonia sulcata var. applanata Bres. VARIETY
-=======
+# Daedalea sulcata (Berk.) Ryvarden, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 53: 72 (1913)
+Norw. Jl Bot. 24: 216 (1977)
 
 #### Original name
-Hexagonia sulcata var. applanata Bres.
+Hexagonia sulcata Berk., 1847
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psorotheciopsis Rehm GENUS
-=======
+# Psorotheciopsis Rehm GENUS
 
 #### Status
 ACCEPTED

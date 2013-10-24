@@ -1,5 +1,4 @@
-Protothelenella petri H. Mayrhofer & Poelt SPECIES
-=======
+# Protothelenella petri H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

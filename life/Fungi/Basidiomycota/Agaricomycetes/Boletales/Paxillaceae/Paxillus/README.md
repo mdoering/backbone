@@ -1,17 +1,16 @@
-Paxillopsis E.-J. Gilbert, 1931 GENUS
-=======
+# Paxillus E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Scan. 339 (1836)
 
 #### Original name
-Paxillopsis E.-J. Gilbert, 1931
+Paxillus E.M. Fries, 1836
 
 ### Remarks
 null

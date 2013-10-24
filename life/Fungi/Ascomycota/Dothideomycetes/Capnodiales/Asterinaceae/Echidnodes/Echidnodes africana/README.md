@@ -1,5 +1,4 @@
-Echidnodes africana (Doidge) Doidge SPECIES
-=======
+# Echidnodes africana (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

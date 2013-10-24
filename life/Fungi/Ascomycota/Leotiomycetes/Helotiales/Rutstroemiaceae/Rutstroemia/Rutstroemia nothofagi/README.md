@@ -1,5 +1,4 @@
-Rutstroemia nothofagi Gamundí & Giaiotti SPECIES
-=======
+# Rutstroemia nothofagi Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

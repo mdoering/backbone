@@ -1,5 +1,4 @@
-Hymenoscyphus utriculus (Berk.) Kuntze SPECIES
-=======
+# Hymenoscyphus utriculus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

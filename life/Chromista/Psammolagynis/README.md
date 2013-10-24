@@ -1,5 +1,4 @@
-Psammolagynis Golemansky, 2000 GENUS
-=======
+# Psammolagynis Golemansky, 2000 GENUS
 
 #### Status
 ACCEPTED

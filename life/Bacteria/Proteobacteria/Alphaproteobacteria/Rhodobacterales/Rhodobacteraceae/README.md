@@ -1,5 +1,4 @@
-Rhodobacteraceae FAMILY
-=======
+# Rhodobacteraceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera dilacerata var. dilacerata VARIETY
-=======
+# Peltigera dilacerata (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

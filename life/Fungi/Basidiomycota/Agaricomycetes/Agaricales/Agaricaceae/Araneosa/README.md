@@ -1,5 +1,4 @@
-Araneosa Long GENUS
-=======
+# Araneosa Long GENUS
 
 #### Status
 ACCEPTED

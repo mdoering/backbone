@@ -1,5 +1,4 @@
-Fusicladium fagi Crous & de Hoog SPECIES
-=======
+# Fusicladium fagi Crous & de Hoog SPECIES
 
 #### Status
 ACCEPTED

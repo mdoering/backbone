@@ -1,5 +1,4 @@
-Arthothelium ceraceum (Fée) A. Massal. SPECIES
-=======
+# Arthothelium ceraceum (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

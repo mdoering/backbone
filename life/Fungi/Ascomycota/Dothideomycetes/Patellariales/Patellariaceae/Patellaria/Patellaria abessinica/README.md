@@ -1,5 +1,4 @@
-Patellaria abessinica Müll. Arg. SPECIES
-=======
+# Patellaria abessinica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

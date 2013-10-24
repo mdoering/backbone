@@ -1,5 +1,4 @@
-Boletus puellaris C.S. Bi & Loh SPECIES
-=======
+# Boletus puellaris C.S. Bi & Loh SPECIES
 
 #### Status
 ACCEPTED

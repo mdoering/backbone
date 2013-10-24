@@ -1,5 +1,4 @@
-Dendractis O.M. Reis, 1923 GENUS
-=======
+# Dendractis O.M. Reis, 1923 GENUS
 
 #### Status
 ACCEPTED

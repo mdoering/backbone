@@ -1,5 +1,4 @@
-Sargassum ecuadoreanum W.R. Taylor SPECIES
-=======
+# Sargassum ecuadoreanum W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina platyphylla (Kauffman) A.H. Sm. & Singer SPECIES
-=======
+# Galerina platyphylla (Kauffman) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

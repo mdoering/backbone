@@ -1,5 +1,4 @@
-Aecidium royenae Cooke & Massee SPECIES
-=======
+# Aecidium royenae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

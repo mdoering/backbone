@@ -1,5 +1,4 @@
-Dicaeoma incompositum (F. Kern) Arthur SPECIES
-=======
+# Dicaeoma incompositum (F. Kern) Arthur SPECIES
 
 #### Status
 ACCEPTED

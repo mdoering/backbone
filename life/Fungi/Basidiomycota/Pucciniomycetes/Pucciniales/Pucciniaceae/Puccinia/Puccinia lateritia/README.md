@@ -1,5 +1,4 @@
-Puccinia lateritia Schwein. SPECIES
-=======
+# Puccinia lateritia Schwein. SPECIES
 
 #### Status
 ACCEPTED

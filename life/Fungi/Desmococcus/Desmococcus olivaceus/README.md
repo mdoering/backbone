@@ -1,5 +1,4 @@
-Desmococcus olivaceus F. Brand SPECIES
-=======
+# Desmococcus olivaceus F. Brand SPECIES
 
 #### Status
 ACCEPTED

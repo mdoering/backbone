@@ -1,5 +1,4 @@
-Phaeotrichosphaeria minor A.I. Romero & Carmarán, 2003 SPECIES
-=======
+# Phaeotrichosphaeria minor A.I. Romero & Carmarán, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenosphyra Haeckel, 1887 GENUS
-=======
+# Solenosphyra Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

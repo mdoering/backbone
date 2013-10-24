@@ -1,5 +1,4 @@
-Parmelia minor Fée SPECIES
-=======
+# Parmelia minor Fée SPECIES
 
 #### Status
 ACCEPTED

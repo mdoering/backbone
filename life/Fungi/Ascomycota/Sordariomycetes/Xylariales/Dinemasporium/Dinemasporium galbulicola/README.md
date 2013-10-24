@@ -1,5 +1,4 @@
-Dinemasporium galbulicola Rostr. SPECIES
-=======
+# Dinemasporium galbulicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

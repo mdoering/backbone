@@ -1,5 +1,4 @@
-Leptogium aciculare P. M. Jørg. SPECIES
-=======
+# Leptogium aciculare P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

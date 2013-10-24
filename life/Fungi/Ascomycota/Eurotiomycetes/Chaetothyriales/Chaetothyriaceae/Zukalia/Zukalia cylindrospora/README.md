@@ -1,5 +1,4 @@
-Zukalia cylindrospora Rehm SPECIES
-=======
+# Zukalia cylindrospora Rehm SPECIES
 
 #### Status
 ACCEPTED

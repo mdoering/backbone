@@ -1,5 +1,4 @@
-Dicaeoma zygadeni (Trel.) Kuntze SPECIES
-=======
+# Dicaeoma zygadeni (Trel.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

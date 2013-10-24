@@ -1,5 +1,4 @@
-Ceratostoma multirostratum Fuckel SPECIES
-=======
+# Ceratostoma multirostratum Fuckel SPECIES
 
 #### Status
 ACCEPTED

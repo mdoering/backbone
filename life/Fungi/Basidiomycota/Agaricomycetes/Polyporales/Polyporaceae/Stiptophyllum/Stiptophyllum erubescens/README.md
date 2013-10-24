@@ -1,14 +1,13 @@
-Gloeophyllum erubescens (Berk.) Popoff, 2003 SPECIES
-=======
+# Stiptophyllum erubescens (Berk.) Ryvarden, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 87: 105 (2003)
+Norw. Jl Bot. 20: 4 (1973)
 
 #### Original name
 Daedalea erubescens Berk., 1840

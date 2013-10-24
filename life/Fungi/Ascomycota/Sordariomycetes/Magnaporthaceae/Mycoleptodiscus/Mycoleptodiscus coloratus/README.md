@@ -1,5 +1,4 @@
-Mycoleptodiscus coloratus Alcorn, 1994 SPECIES
-=======
+# Mycoleptodiscus coloratus Alcorn, 1994 SPECIES
 
 #### Status
 ACCEPTED

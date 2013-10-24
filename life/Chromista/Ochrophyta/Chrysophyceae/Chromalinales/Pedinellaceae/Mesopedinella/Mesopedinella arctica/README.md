@@ -1,5 +1,4 @@
-Mesopedinella arctica Daugbjerg SPECIES
-=======
+# Mesopedinella arctica Daugbjerg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanomycopsis cryptica Canter, 1984 SPECIES
-=======
+# Aphanomycopsis cryptica Canter, 1984 SPECIES
 
 #### Status
 ACCEPTED

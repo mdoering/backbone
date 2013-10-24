@@ -1,5 +1,4 @@
-Phyllosticta cookiae Tassi SPECIES
-=======
+# Phyllosticta cookiae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulisporium sphaerosporum Ces. SPECIES
-=======
+# Nodulisporium sphaerosporum Ces. SPECIES
 
 #### Status
 ACCEPTED

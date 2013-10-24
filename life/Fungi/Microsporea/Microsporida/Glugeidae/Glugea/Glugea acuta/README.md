@@ -1,5 +1,4 @@
-Glugea acuta Thélohan, 1895 SPECIES
-=======
+# Glugea acuta Thélohan, 1895 SPECIES
 
 #### Status
 ACCEPTED

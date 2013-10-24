@@ -1,5 +1,4 @@
-Aposphaeria hospitae Tassi SPECIES
-=======
+# Aposphaeria hospitae Tassi SPECIES
 
 #### Status
 ACCEPTED

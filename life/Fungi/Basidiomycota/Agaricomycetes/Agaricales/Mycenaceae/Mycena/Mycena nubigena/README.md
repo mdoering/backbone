@@ -1,5 +1,4 @@
-Mycena nubigena Berk. SPECIES
-=======
+# Mycena nubigena Berk. SPECIES
 
 #### Status
 ACCEPTED

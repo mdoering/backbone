@@ -1,5 +1,4 @@
-Nephroma pubescens var. pubescens VARIETY
-=======
+# Nephroma pubescens Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephroma pubescens var. pubescens
+Nephroma pubescens Gyeln.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xanthoria macrophylla (Stizenb.) C.W. Dodge SPECIES
-=======
+# Xanthoria macrophylla (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

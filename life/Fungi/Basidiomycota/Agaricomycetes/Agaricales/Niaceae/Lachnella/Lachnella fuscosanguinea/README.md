@@ -1,5 +1,4 @@
-Lachnella fuscosanguinea P. Karst. SPECIES
-=======
+# Lachnella fuscosanguinea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

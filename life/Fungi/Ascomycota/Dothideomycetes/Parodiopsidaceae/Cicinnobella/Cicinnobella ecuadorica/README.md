@@ -1,5 +1,4 @@
-Cicinnobella ecuadorica Petr. SPECIES
-=======
+# Cicinnobella ecuadorica Petr. SPECIES
 
 #### Status
 ACCEPTED

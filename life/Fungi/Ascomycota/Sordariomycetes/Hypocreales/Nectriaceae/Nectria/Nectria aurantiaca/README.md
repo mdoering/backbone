@@ -1,5 +1,4 @@
-Nectria aurantiaca (Tul. & C. Tul.) Jacz., 1913 SPECIES
-=======
+# Nectria aurantiaca (Tul. & C. Tul.) Jacz., 1913 SPECIES
 
 #### Status
 ACCEPTED

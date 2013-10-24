@@ -1,5 +1,4 @@
-Collybia funifera Velen. SPECIES
-=======
+# Collybia funifera Velen. SPECIES
 
 #### Status
 ACCEPTED

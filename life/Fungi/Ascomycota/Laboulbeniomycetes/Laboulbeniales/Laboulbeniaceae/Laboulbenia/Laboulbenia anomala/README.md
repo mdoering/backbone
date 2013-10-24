@@ -1,5 +1,4 @@
-Laboulbenia anomala Thaxt. SPECIES
-=======
+# Laboulbenia anomala Thaxt. SPECIES
 
 #### Status
 ACCEPTED

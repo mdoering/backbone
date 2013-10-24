@@ -1,5 +1,4 @@
-Okimuraites Reitlinger, 1993 GENUS
-=======
+# Okimuraites Reitlinger, 1993 GENUS
 
 #### Status
 ACCEPTED

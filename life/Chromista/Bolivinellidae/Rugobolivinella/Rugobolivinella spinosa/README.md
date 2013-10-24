@@ -1,8 +1,7 @@
-Bolivinella spinosa Hayward in Hayward & Brazier, 1980 SPECIES
-=======
+# Rugobolivinella spinosa (Hayward in Hayward & Brazier, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

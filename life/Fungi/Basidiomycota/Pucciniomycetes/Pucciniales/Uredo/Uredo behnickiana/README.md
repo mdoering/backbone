@@ -1,17 +1,16 @@
-Hemileia americana Massee, 1906 SPECIES
-=======
+# Uredo behnickiana Henn., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 44: 169 (1905)
 
 #### Original name
-Hemileia americana Massee, 1906
+Uredo behnickiana Henn., 1905
 
 ### Remarks
 null

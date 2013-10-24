@@ -1,5 +1,4 @@
-Diderma petaloides Buyck, 1983 SPECIES
-=======
+# Diderma petaloides Buyck, 1983 SPECIES
 
 #### Status
 ACCEPTED

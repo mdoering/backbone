@@ -1,5 +1,4 @@
-Colletotrichum taiwanense Sivan. & W.H. Hsieh, 1993 SPECIES
-=======
+# Colletotrichum taiwanense Sivan. & W.H. Hsieh, 1993 SPECIES
 
 #### Status
 ACCEPTED

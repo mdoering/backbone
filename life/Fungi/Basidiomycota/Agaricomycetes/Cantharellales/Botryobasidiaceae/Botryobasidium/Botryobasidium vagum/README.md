@@ -1,14 +1,13 @@
-Pellicularia vaga (Berk. & M.A. Curtis) D.P. Rogers ex Linder, 1942 SPECIES
-=======
+# Botryobasidium vagum (Berk. & M.A. Curtis) D.P. Rogers, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5(3): 170 (1942)
+Univ. Iowa Stud. nat. Hist. 17(1): 17 (1935)
 
 #### Original name
 null

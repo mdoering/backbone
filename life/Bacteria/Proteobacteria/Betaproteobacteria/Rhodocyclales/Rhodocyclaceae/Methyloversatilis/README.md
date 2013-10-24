@@ -1,5 +1,4 @@
-Methyloversatilis Kalyuzhnaya et al., 2006 GENUS
-=======
+# Methyloversatilis Kalyuzhnaya et al., 2006 GENUS
 
 #### Status
 ACCEPTED

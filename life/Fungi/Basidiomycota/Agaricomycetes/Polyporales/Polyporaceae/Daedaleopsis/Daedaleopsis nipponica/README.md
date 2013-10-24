@@ -1,17 +1,16 @@
-Trametes purpurea Cooke, 1882 SPECIES
-=======
+# Daedaleopsis nipponica Imazeki, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 10(no. 56): 121 (1882)
+Bull. Tokyo Sci. Mus. 6: 78 (1943)
 
 #### Original name
-Trametes purpurea Cooke, 1882
+Daedaleopsis nipponica Imazeki, 1943
 
 ### Remarks
 null

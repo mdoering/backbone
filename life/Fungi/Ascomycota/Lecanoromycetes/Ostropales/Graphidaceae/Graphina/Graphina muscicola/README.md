@@ -1,5 +1,4 @@
-Graphina muscicola Kalb SPECIES
-=======
+# Graphina muscicola Kalb SPECIES
 
 #### Status
 ACCEPTED

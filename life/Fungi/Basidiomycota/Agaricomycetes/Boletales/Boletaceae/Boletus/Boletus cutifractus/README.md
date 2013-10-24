@@ -1,5 +1,4 @@
-Boletus cutifractus Corner SPECIES
-=======
+# Boletus cutifractus Corner SPECIES
 
 #### Status
 ACCEPTED

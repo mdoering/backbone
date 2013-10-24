@@ -1,5 +1,4 @@
-Gomphomorpha P. Palik, 1966 GENUS
-=======
+# Gomphomorpha P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

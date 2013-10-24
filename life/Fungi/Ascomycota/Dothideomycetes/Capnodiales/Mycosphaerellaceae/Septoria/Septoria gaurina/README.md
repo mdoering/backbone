@@ -1,5 +1,4 @@
-Septoria gaurina Ellis & Kellerm. SPECIES
-=======
+# Septoria gaurina Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

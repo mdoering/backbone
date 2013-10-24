@@ -1,14 +1,13 @@
-Leptonia odorifer (Hesler) Largent SPECIES
-=======
+# Leptonia odorifera (Hesler) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 76 (1977)
 
 #### Original name
 Entoloma odoriferum Hesler

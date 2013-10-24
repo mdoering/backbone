@@ -1,5 +1,4 @@
-Globigerina bradyi Wiesner SPECIES
-=======
+# Globigerina bradyi Wiesner SPECIES
 
 #### Status
 ACCEPTED

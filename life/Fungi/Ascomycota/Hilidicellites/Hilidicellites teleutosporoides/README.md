@@ -1,5 +1,4 @@
-Hilidicellites teleutosporoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites teleutosporoides (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

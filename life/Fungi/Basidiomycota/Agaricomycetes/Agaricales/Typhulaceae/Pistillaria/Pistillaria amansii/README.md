@@ -1,5 +1,4 @@
-Pistillaria amansii (Brond.) Sacc. SPECIES
-=======
+# Pistillaria amansii (Brond.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

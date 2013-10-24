@@ -1,5 +1,4 @@
-Cladonia glaucopallida Vain. SPECIES
-=======
+# Cladonia glaucopallida Vain. SPECIES
 
 #### Status
 ACCEPTED

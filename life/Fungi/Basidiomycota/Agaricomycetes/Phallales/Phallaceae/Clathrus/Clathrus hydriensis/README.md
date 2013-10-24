@@ -1,5 +1,4 @@
-Clathrus hydriensis Hacq. SPECIES
-=======
+# Clathrus hydriensis Hacq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterulopsis dummeri Wakef. & Hansf., 1943 SPECIES
-=======
+# Pterulopsis dummeri Wakef. & Hansf., 1943 SPECIES
 
 #### Status
 ACCEPTED

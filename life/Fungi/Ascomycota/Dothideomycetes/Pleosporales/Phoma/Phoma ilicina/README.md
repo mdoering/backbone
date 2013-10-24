@@ -1,5 +1,4 @@
-Phoma ilicina Ellis & H.W. Anderson SPECIES
-=======
+# Phoma ilicina Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

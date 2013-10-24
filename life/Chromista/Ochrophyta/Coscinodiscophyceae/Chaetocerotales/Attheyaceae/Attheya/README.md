@@ -1,5 +1,4 @@
-Attheya T. West GENUS
-=======
+# Attheya T. West GENUS
 
 #### Status
 ACCEPTED

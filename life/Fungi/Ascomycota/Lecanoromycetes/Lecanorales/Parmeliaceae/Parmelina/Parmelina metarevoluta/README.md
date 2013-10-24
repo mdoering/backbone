@@ -1,5 +1,4 @@
-Parmelina metarevoluta (Asahina) Hale SPECIES
-=======
+# Parmelina metarevoluta (Asahina) Hale SPECIES
 
 #### Status
 ACCEPTED

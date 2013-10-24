@@ -1,5 +1,4 @@
-Cladosporium ramotenellum K. Schub., Zalar, Crous & U. Braun SPECIES
-=======
+# Cladosporium ramotenellum K. Schub., Zalar, Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

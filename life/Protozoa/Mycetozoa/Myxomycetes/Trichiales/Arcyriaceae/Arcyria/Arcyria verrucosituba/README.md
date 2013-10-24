@@ -1,5 +1,4 @@
-Arcyria verrucosituba Nann.-Bremek. & Schinner, 1986 SPECIES
-=======
+# Arcyria verrucosituba Nann.-Bremek. & Schinner, 1986 SPECIES
 
 #### Status
 ACCEPTED

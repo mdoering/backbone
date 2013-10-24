@@ -1,5 +1,4 @@
-Inocybe fuscoperonata Corner & E. Horak SPECIES
-=======
+# Inocybe fuscoperonata Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

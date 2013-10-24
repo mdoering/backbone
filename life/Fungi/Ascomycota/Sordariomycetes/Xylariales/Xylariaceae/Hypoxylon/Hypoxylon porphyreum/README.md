@@ -1,5 +1,4 @@
-Hypoxylon porphyreum Granmo, 1999 SPECIES
-=======
+# Hypoxylon porphyreum Granmo, 1999 SPECIES
 
 #### Status
 ACCEPTED

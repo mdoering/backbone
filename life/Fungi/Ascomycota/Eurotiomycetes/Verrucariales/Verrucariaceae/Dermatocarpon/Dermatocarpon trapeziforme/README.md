@@ -1,5 +1,4 @@
-Dermatocarpon trapeziforme (J. König) Trevis. SPECIES
-=======
+# Dermatocarpon trapeziforme (J. König) Trevis. SPECIES
 
 #### Status
 ACCEPTED

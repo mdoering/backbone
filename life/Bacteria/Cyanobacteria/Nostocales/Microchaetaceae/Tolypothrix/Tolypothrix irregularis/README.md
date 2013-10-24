@@ -1,5 +1,4 @@
-Tolypothrix irregularis Berkeley SPECIES
-=======
+# Tolypothrix irregularis Berkeley SPECIES
 
 #### Status
 DOUBTFUL

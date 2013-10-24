@@ -1,5 +1,4 @@
-Phialea arenicola Ellis & Everh. SPECIES
-=======
+# Phialea arenicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

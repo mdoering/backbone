@@ -1,5 +1,4 @@
-Cystoseira sauvageauiana SPECIES
-=======
+# Cystoseira sauvageauiana SPECIES
 
 #### Status
 ACCEPTED

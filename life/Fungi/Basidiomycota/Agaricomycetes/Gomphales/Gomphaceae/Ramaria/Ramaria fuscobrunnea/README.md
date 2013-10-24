@@ -1,5 +1,4 @@
-Ramaria fuscobrunnea Corner, 1955 SPECIES
-=======
+# Ramaria fuscobrunnea Corner, 1955 SPECIES
 
 #### Status
 ACCEPTED

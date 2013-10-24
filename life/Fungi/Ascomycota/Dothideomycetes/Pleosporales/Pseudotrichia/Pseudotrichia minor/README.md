@@ -1,5 +1,4 @@
-Pseudotrichia minor Munk, 1952 SPECIES
-=======
+# Pseudotrichia minor Munk, 1952 SPECIES
 
 #### Status
 ACCEPTED

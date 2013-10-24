@@ -1,5 +1,4 @@
-Ganoderma subfulvum (Cooke) Pat. SPECIES
-=======
+# Ganoderma subfulvum (Cooke) Pat. SPECIES
 
 #### Status
 ACCEPTED

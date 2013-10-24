@@ -1,5 +1,4 @@
-Napicladium myrtacearum Speg. SPECIES
-=======
+# Napicladium myrtacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

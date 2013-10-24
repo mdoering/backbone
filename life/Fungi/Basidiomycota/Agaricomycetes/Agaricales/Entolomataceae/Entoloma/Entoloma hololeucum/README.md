@@ -1,5 +1,4 @@
-Entoloma hololeucum (Singer) E. Horak SPECIES
-=======
+# Entoloma hololeucum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

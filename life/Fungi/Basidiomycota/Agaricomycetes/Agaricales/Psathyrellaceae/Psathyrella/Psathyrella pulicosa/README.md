@@ -1,5 +1,4 @@
-Psathyrella pulicosa (Mont.) Guzmán SPECIES
-=======
+# Psathyrella pulicosa (Mont.) Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus sublatifolius Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus sublatifolius Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

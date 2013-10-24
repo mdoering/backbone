@@ -1,5 +1,4 @@
-Cenangium recurvum Rodway SPECIES
-=======
+# Cenangium recurvum Rodway SPECIES
 
 #### Status
 ACCEPTED

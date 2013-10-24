@@ -1,5 +1,4 @@
-Sebacina allantoidea R. Kirschner & Oberw., 2002 SPECIES
-=======
+# Sebacina allantoidea R. Kirschner & Oberw., 2002 SPECIES
 
 #### Status
 ACCEPTED

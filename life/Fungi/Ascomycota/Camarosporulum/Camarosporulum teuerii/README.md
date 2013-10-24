@@ -1,5 +1,4 @@
-Camarosporulum teuerii (Celotti) Tassi SPECIES
-=======
+# Camarosporulum teuerii (Celotti) Tassi SPECIES
 
 #### Status
 ACCEPTED

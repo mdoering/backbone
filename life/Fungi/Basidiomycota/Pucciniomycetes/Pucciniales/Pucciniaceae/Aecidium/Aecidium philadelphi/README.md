@@ -1,5 +1,4 @@
-Aecidium philadelphi Dietel SPECIES
-=======
+# Aecidium philadelphi Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea confoederans Nyl. SPECIES
-=======
+# Lecidea confoederans Nyl. SPECIES
 
 #### Status
 ACCEPTED

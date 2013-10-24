@@ -1,5 +1,4 @@
-Pyrenopsis triptococca Nyl. SPECIES
-=======
+# Pyrenopsis triptococca Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Caloplaca furfuracea var. furfuracea VARIETY
-=======
+# Caloplaca furfuracea H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Goteborgs Kungl. Vetensk. Samhälles Handlingar, Ser. B, Math. Naturvensk. Skr. 3(1): 33 (1944)
 
 #### Original name
-Caloplaca furfuracea var. furfuracea
+Caloplaca furfuracea H. Magn.
 
 ### Remarks
 null

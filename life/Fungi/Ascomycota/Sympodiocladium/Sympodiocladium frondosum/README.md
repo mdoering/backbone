@@ -1,5 +1,4 @@
-Sympodiocladium frondosum Descals, 1982 SPECIES
-=======
+# Sympodiocladium frondosum Descals, 1982 SPECIES
 
 #### Status
 ACCEPTED

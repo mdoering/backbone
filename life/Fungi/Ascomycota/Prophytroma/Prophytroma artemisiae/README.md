@@ -1,5 +1,4 @@
-Prophytroma artemisiae Golovin SPECIES
-=======
+# Prophytroma artemisiae Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccobotrys Boudier & Patouillard, 1900 GENUS
-=======
+# Coccobotrys Boudier & Patouillard, 1900 GENUS
 
 #### Status
 ACCEPTED

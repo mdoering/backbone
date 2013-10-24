@@ -1,5 +1,4 @@
-Megatrichophyton roseum (E. Bodin) C.W. Dodge SPECIES
-=======
+# Megatrichophyton roseum (E. Bodin) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

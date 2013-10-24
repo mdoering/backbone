@@ -1,5 +1,4 @@
-Sphaerella cynodontis Unamuno SPECIES
-=======
+# Sphaerella cynodontis Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tenacibaculum mesophilum Suzuki et al., 2001 SPECIES
-=======
+# Tenacibaculum mesophilum Suzuki et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium patriniae Henn. SPECIES
-=======
+# Aecidium patriniae Henn. SPECIES
 
 #### Status
 ACCEPTED

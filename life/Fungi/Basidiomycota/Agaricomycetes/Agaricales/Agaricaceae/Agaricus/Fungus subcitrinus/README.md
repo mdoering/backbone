@@ -1,5 +1,4 @@
-Fungus subcitrinus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus subcitrinus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

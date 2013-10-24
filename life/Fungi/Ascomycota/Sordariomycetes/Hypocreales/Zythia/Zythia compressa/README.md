@@ -1,5 +1,4 @@
-Zythia compressa Schwein. SPECIES
-=======
+# Zythia compressa Schwein. SPECIES
 
 #### Status
 ACCEPTED

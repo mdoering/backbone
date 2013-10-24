@@ -1,5 +1,4 @@
-Pleurotus allochrous (Lév.) Sacc. SPECIES
-=======
+# Pleurotus allochrous (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

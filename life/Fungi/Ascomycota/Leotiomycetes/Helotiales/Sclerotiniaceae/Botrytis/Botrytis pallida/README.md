@@ -1,5 +1,4 @@
-Botrytis pallida Berk. & M.A. Curtis SPECIES
-=======
+# Botrytis pallida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

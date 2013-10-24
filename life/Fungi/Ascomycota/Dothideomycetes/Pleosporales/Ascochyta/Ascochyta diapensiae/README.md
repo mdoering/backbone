@@ -1,5 +1,4 @@
-Ascochyta diapensiae Rostr. SPECIES
-=======
+# Ascochyta diapensiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

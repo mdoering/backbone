@@ -1,5 +1,4 @@
-Emericellopsis pallida Beliakova, 1974 SPECIES
-=======
+# Emericellopsis pallida Beliakova, 1974 SPECIES
 
 #### Status
 ACCEPTED

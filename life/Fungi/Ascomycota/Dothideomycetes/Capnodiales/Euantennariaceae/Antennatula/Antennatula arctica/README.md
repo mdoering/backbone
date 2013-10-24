@@ -1,5 +1,4 @@
-Antennatula arctica Rostr. SPECIES
-=======
+# Antennatula arctica Rostr. SPECIES
 
 #### Status
 ACCEPTED

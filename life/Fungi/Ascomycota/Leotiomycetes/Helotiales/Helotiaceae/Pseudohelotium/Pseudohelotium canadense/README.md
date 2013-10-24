@@ -1,5 +1,4 @@
-Pseudohelotium canadense Ellis & Dearn. SPECIES
-=======
+# Pseudohelotium canadense Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea glomerata Briss. SPECIES
-=======
+# Lecidea glomerata Briss. SPECIES
 
 #### Status
 ACCEPTED

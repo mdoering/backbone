@@ -1,17 +1,16 @@
-Arthrocladiella altheae Y.S. Paul & V. Thakur SPECIES
-=======
+# Arthrocladiella althaeae Y.S. Paul & V. Thakur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycology and Plant Pathology 34(3): 947 (2004)
 
 #### Original name
-Arthrocladiella altheae Y.S. Paul & V. Thakur
+Arthrocladiella althaeae Y.S. Paul & V. Thakur
 
 ### Remarks
 null

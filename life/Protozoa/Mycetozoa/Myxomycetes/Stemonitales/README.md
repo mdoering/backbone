@@ -1,5 +1,4 @@
-Stemonitales ORDER
-=======
+# Stemonitales ORDER
 
 #### Status
 ACCEPTED

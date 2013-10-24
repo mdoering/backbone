@@ -1,14 +1,13 @@
-Propolis emarginata (Cooke & Massee) Sherwood, 1977 SPECIES
-=======
+# Marthamyces emarginatus (Cooke & Massee) Minter, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 5(1): 323 (1977)
+Mycotaxon 87: 51 (2003)
 
 #### Original name
 Stictis emarginata Cooke & Massee, 1889

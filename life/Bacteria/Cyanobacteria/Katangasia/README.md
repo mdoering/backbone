@@ -1,5 +1,4 @@
-Katangasia Maslov GENUS
-=======
+# Katangasia Maslov GENUS
 
 #### Status
 ACCEPTED

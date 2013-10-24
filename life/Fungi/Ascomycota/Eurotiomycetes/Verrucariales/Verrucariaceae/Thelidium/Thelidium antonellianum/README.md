@@ -1,5 +1,4 @@
-Thelidium antonellianum var. antonellianum VARIETY
-=======
+# Thelidium antonellianum Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium antonellianum var. antonellianum
+Thelidium antonellianum Bagl. & Carestia
 
 ### Remarks
 null

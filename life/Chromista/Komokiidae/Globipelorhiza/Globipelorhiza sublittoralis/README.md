@@ -1,5 +1,4 @@
-Globipelorhiza sublittoralis Cedhagen & Mattson, 1991 SPECIES
-=======
+# Globipelorhiza sublittoralis Cedhagen & Mattson, 1991 SPECIES
 
 #### Status
 ACCEPTED

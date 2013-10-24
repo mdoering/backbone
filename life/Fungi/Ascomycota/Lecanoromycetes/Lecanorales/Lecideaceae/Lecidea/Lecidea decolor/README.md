@@ -1,5 +1,4 @@
-Lecidea decolor Arnold SPECIES
-=======
+# Lecidea decolor Arnold SPECIES
 
 #### Status
 ACCEPTED

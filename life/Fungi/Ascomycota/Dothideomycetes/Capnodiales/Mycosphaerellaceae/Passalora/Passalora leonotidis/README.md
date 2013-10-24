@@ -1,5 +1,4 @@
-Passalora leonotidis (Cooke) U. Braun & Crous SPECIES
-=======
+# Passalora leonotidis (Cooke) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

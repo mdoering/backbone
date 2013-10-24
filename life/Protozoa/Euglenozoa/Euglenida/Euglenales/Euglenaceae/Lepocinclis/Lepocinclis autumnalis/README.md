@@ -1,5 +1,4 @@
-Lepocinclis autumnalis var. pulcherrima Popowa VARIETY
-=======
+# Lepocinclis autumnalis Chu SPECIES
 
 #### Status
 ACCEPTED

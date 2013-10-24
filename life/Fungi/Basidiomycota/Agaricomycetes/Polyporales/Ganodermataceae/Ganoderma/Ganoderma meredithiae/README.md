@@ -1,17 +1,16 @@
-Ganoderma meredithae Adask. & Gilb. SPECIES
-=======
+# Ganoderma meredithiae Adask. & Gilb., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 31(1): 251 (1988)
 
 #### Original name
-Ganoderma meredithae Adask. & Gilb.
+Ganoderma meredithiae Adask. & Gilb., 1988
 
 ### Remarks
 null

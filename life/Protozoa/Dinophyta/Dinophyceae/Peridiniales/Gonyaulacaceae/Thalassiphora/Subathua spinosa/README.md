@@ -1,5 +1,4 @@
-Subathua spinosa A. K. Khanna & H. P. Singh SPECIES
-=======
+# Subathua spinosa A. K. Khanna & H. P. Singh SPECIES
 
 #### Status
 ACCEPTED

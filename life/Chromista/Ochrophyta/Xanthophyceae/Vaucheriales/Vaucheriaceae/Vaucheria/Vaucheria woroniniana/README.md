@@ -1,5 +1,4 @@
-Vaucheria woroniniana Heering SPECIES
-=======
+# Vaucheria woroniniana Heering SPECIES
 
 #### Status
 ACCEPTED

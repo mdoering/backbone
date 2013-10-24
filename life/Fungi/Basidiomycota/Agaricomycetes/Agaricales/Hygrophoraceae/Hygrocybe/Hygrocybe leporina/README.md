@@ -1,5 +1,4 @@
-Hygrocybe leporina (Fr.) P.D. Orton & Watling SPECIES
-=======
+# Hygrocybe leporina (Fr.) P.D. Orton & Watling SPECIES
 
 #### Status
 ACCEPTED

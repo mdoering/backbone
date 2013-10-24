@@ -1,5 +1,4 @@
-Ramaria sinoconjunctipes R.H. Petersen & M. Zang, 1990 SPECIES
-=======
+# Ramaria sinoconjunctipes R.H. Petersen & M. Zang, 1990 SPECIES
 
 #### Status
 ACCEPTED

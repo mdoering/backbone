@@ -1,5 +1,4 @@
-Hygrocybe ochraceopallidus P.D. Orton SPECIES
-=======
+# Hygrocybe ochraceopallidus P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

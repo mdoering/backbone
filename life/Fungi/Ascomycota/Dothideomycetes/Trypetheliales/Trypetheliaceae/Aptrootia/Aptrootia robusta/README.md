@@ -1,5 +1,4 @@
-Aptrootia robusta (P. M. McCarthy & Kantvilas) Aptroot SPECIES
-=======
+# Aptrootia robusta (P. M. McCarthy & Kantvilas) Aptroot SPECIES
 
 #### Status
 ACCEPTED

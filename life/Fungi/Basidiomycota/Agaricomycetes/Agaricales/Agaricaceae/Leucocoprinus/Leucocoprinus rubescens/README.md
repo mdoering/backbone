@@ -1,5 +1,4 @@
-Leucocoprinus rubescens (L.M. Dufour) Locq. SPECIES
-=======
+# Leucocoprinus rubescens (L.M. Dufour) Locq. SPECIES
 
 #### Status
 ACCEPTED

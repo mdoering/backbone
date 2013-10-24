@@ -1,5 +1,4 @@
-Dwayaangam colodena Sokolski & Bérubé SPECIES
-=======
+# Dwayaangam colodena Sokolski & Bérubé SPECIES
 
 #### Status
 ACCEPTED

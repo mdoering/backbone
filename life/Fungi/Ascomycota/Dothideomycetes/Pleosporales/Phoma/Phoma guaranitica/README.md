@@ -1,5 +1,4 @@
-Phoma guaranitica Speg. SPECIES
-=======
+# Phoma guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius olympianus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius olympianus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

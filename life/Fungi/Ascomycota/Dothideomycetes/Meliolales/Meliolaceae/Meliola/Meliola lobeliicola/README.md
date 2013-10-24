@@ -1,5 +1,4 @@
-Meliola lobeliicola M.L. Farr SPECIES
-=======
+# Meliola lobeliicola M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

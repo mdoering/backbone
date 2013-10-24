@@ -1,17 +1,16 @@
-Hydrocybe nolaneaeformis Velen. SPECIES
-=======
+# Hydrocybe nolaneiformis Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae 116 (1939)
 
 #### Original name
-Hydrocybe nolaneaeformis Velen.
+Hydrocybe nolaneiformis Velen.
 
 ### Remarks
 null

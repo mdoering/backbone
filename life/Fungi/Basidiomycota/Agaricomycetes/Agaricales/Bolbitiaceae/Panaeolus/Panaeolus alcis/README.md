@@ -1,17 +1,16 @@
-Panaeolus alcidis M.M. Moser SPECIES
-=======
+# Panaeolus alcis M.M. Moser SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Guida alla Determinazione dei Funghi (Trento), 1° Polyporales, Boletales, Agaricales, Russulales. Edn 2 283 (1986)
 
 #### Original name
-Panaeolus alcidis M.M. Moser
+Panaeolus alcis M.M. Moser
 
 ### Remarks
 null

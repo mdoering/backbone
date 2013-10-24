@@ -1,5 +1,4 @@
-Gorgonisphaeridium rhoptronum Gao Lianda, 1988 SPECIES
-=======
+# Gorgonisphaeridium rhoptronum Gao Lianda, 1988 SPECIES
 
 #### Status
 ACCEPTED

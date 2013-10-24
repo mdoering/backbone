@@ -1,5 +1,4 @@
-Placomaronea kaernefeltii M. Westb., Frödén & Wedin SPECIES
-=======
+# Placomaronea kaernefeltii M. Westb., Frödén & Wedin SPECIES
 
 #### Status
 ACCEPTED

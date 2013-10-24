@@ -1,5 +1,4 @@
-Agaricus proboscideus Fr. SPECIES
-=======
+# Agaricus proboscideus Fr. SPECIES
 
 #### Status
 ACCEPTED

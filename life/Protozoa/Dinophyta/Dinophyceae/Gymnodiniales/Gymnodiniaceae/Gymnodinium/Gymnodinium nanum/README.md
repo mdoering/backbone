@@ -1,5 +1,4 @@
-Gymnodinium nanum Schiller SPECIES
-=======
+# Gymnodinium nanum Schiller SPECIES
 
 #### Status
 ACCEPTED

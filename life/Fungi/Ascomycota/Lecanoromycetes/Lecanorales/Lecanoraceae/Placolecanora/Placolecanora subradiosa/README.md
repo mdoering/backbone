@@ -1,5 +1,4 @@
-Placolecanora subradiosa var. subradiosa VARIETY
-=======
+# Placolecanora subradiosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placolecanora subradiosa var. subradiosa
+null
 
 ### Remarks
 null

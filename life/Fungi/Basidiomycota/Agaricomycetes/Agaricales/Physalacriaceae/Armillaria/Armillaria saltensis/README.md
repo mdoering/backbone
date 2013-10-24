@@ -1,5 +1,4 @@
-Armillaria saltensis Speg. SPECIES
-=======
+# Armillaria saltensis Speg. SPECIES
 
 #### Status
 ACCEPTED

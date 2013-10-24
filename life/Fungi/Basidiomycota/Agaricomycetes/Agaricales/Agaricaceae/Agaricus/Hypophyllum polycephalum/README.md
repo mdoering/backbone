@@ -1,5 +1,4 @@
-Hypophyllum polycephalum Paulet SPECIES
-=======
+# Hypophyllum polycephalum Paulet SPECIES
 
 #### Status
 ACCEPTED

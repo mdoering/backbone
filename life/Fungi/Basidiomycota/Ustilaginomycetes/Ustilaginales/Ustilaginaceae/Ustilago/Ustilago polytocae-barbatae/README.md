@@ -1,5 +1,4 @@
-Ustilago polytocae-barbatae Mundk. SPECIES
-=======
+# Ustilago polytocae-barbatae Mundk. SPECIES
 
 #### Status
 ACCEPTED

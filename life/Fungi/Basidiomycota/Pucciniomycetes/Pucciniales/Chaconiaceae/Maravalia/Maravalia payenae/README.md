@@ -1,14 +1,13 @@
-Scopella payenae (Racib.) Cummins, 1950 SPECIES
-=======
+# Maravalia payenae (Racib.) Y. Ono, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 77: 210 (1950)
+Mycologia 76(5): 907 (1984)
 
 #### Original name
 Uromyces payenae Racib., 1909

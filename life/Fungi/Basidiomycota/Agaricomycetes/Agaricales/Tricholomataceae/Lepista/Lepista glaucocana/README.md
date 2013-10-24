@@ -1,17 +1,16 @@
-Tricholoma glaucocanum var. villii Ricken ex Ade VARIETY
-=======
+# Lepista glaucocana (Bres.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 64: 287 (1923)
+Agaric. mod. Tax. (Weinheim) 193 (1951)
 
 #### Original name
-Tricholoma glaucocanum var. villii Ricken ex Ade
+Tricholoma glaucocanum Bres., 1881
 
 ### Remarks
 null

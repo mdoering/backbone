@@ -1,5 +1,4 @@
-Daedalea mollicula Lloyd SPECIES
-=======
+# Daedalea mollicula Lloyd SPECIES
 
 #### Status
 ACCEPTED

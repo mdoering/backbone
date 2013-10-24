@@ -1,14 +1,13 @@
-Acrospeira levis Wiltshire, 1938 SPECIES
-=======
+# Monodictys levis (Wiltshire) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 21(3 & 4): 236 (1938)
+Can. J. Bot. 36: 785 (1958)
 
 #### Original name
 Acrospeira levis Wiltshire, 1938

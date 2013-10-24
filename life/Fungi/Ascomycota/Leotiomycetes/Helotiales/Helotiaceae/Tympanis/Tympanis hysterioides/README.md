@@ -1,5 +1,4 @@
-Tympanis hysterioides Rehm SPECIES
-=======
+# Tympanis hysterioides Rehm SPECIES
 
 #### Status
 ACCEPTED

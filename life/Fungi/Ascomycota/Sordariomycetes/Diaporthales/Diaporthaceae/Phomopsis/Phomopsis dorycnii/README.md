@@ -1,5 +1,4 @@
-Phomopsis dorycnii Petr. SPECIES
-=======
+# Phomopsis dorycnii Petr. SPECIES
 
 #### Status
 ACCEPTED

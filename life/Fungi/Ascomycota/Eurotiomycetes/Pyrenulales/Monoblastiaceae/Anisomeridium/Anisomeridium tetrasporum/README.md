@@ -1,5 +1,4 @@
-Anisomeridium tetrasporum Aptroot & Sipman SPECIES
-=======
+# Anisomeridium tetrasporum Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

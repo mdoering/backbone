@@ -1,5 +1,4 @@
-Streptothrix freeri Musgrave & Clegg SPECIES
-=======
+# Streptothrix freeri Musgrave & Clegg SPECIES
 
 #### Status
 ACCEPTED

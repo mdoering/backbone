@@ -1,5 +1,4 @@
-Asterina kauaiensis F. Stevens & R.W. Ryan SPECIES
-=======
+# Asterina kauaiensis F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

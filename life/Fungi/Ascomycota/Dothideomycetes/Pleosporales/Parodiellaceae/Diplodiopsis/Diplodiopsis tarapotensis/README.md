@@ -1,5 +1,4 @@
-Diplodiopsis tarapotensis Henn. SPECIES
-=======
+# Diplodiopsis tarapotensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon pulchellum Borrer SPECIES
-=======
+# Endocarpon pulchellum Borrer SPECIES
 
 #### Status
 ACCEPTED

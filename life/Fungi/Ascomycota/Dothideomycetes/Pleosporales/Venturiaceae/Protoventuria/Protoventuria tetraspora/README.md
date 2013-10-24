@@ -1,5 +1,4 @@
-Protoventuria tetraspora B. Erikss., 1974 SPECIES
-=======
+# Protoventuria tetraspora B. Erikss., 1974 SPECIES
 
 #### Status
 ACCEPTED

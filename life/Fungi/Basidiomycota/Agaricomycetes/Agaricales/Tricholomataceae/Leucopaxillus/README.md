@@ -1,5 +1,4 @@
-Leucopaxillus Boursier, 1925 GENUS
-=======
+# Leucopaxillus Boursier, 1925 GENUS
 
 #### Status
 ACCEPTED

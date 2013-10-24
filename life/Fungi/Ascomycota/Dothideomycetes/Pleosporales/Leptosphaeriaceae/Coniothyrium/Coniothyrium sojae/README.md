@@ -1,5 +1,4 @@
-Coniothyrium sojae Bouriquet SPECIES
-=======
+# Coniothyrium sojae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

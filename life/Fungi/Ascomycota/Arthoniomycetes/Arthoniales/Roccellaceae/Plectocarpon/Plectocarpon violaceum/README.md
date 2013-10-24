@@ -1,5 +1,4 @@
-Plectocarpon violaceum Ertz, R. Sant., Diederich & Wedin SPECIES
-=======
+# Plectocarpon violaceum Ertz, R. Sant., Diederich & Wedin SPECIES
 
 #### Status
 ACCEPTED

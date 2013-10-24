@@ -1,5 +1,4 @@
-Eccilia sphagnophila Peck SPECIES
-=======
+# Eccilia sphagnophila Peck SPECIES
 
 #### Status
 ACCEPTED

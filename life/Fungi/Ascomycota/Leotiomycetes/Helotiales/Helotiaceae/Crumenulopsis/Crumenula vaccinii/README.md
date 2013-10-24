@@ -1,5 +1,4 @@
-Crumenula vaccinii Ade SPECIES
-=======
+# Crumenula vaccinii Ade SPECIES
 
 #### Status
 ACCEPTED

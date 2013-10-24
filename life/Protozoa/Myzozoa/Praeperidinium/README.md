@@ -1,5 +1,4 @@
-Praeperidinium GENUS
-=======
+# Praeperidinium GENUS
 
 #### Status
 ACCEPTED

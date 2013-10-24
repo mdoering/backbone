@@ -1,5 +1,4 @@
-Erysiphe euphorbiae-lanatae Speschnew SPECIES
-=======
+# Erysiphe euphorbiae-lanatae Speschnew SPECIES
 
 #### Status
 ACCEPTED

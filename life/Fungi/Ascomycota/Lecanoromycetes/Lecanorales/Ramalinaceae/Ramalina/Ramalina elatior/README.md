@@ -1,5 +1,4 @@
-Ramalina elatior (Ach.) Röhl. SPECIES
-=======
+# Ramalina elatior (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

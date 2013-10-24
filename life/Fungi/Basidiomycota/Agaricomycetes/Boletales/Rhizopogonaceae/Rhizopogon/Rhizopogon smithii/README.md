@@ -1,5 +1,4 @@
-Rhizopogon smithii Hosford SPECIES
-=======
+# Rhizopogon smithii Hosford SPECIES
 
 #### Status
 ACCEPTED

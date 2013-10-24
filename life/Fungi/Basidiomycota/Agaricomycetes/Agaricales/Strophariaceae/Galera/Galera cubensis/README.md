@@ -1,5 +1,4 @@
-Galera cubensis Earle SPECIES
-=======
+# Galera cubensis Earle SPECIES
 
 #### Status
 ACCEPTED

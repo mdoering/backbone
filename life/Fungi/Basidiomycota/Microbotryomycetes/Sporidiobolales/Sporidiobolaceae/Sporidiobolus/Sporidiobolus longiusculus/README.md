@@ -1,5 +1,4 @@
-Sporidiobolus longiusculus Libkind, van Broock & J.P. Samp., 2005 SPECIES
-=======
+# Sporidiobolus longiusculus Libkind, van Broock & J.P. Samp., 2005 SPECIES
 
 #### Status
 ACCEPTED

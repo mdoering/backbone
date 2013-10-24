@@ -1,5 +1,4 @@
-Asteridium Moczydlowska, 1991 GENUS
-=======
+# Asteridium Moczydlowska, 1991 GENUS
 
 #### Status
 ACCEPTED

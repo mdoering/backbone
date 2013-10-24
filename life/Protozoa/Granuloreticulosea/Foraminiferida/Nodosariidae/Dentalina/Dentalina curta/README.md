@@ -1,5 +1,4 @@
-Dentalina curta Ujiié, 1990 SPECIES
-=======
+# Dentalina curta Ujiié, 1990 SPECIES
 
 #### Status
 ACCEPTED

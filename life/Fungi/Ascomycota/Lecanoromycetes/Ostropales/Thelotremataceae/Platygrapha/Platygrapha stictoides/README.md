@@ -1,5 +1,4 @@
-Platygrapha stictoides Leight. SPECIES
-=======
+# Platygrapha stictoides Leight. SPECIES
 
 #### Status
 ACCEPTED

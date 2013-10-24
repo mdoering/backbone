@@ -1,5 +1,4 @@
-Psammina simplex Earl.-Benn. & D. Hawksw., 1999 SPECIES
-=======
+# Psammina simplex Earl.-Benn. & D. Hawksw., 1999 SPECIES
 
 #### Status
 ACCEPTED

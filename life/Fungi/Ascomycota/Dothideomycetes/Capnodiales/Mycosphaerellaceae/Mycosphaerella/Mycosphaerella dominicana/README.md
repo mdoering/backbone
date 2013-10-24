@@ -1,5 +1,4 @@
-Mycosphaerella dominicana (Gonz. Frag. & Cif.) Cif. SPECIES
-=======
+# Mycosphaerella dominicana (Gonz. Frag. & Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

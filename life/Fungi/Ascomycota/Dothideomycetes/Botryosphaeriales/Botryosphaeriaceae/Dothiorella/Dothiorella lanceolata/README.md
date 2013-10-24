@@ -1,5 +1,4 @@
-Dothiorella lanceolata (Cooke & Ellis) Petr. SPECIES
-=======
+# Dothiorella lanceolata (Cooke & Ellis) Petr. SPECIES
 
 #### Status
 ACCEPTED

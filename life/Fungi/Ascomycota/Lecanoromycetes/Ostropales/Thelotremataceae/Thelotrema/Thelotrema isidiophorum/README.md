@@ -1,14 +1,13 @@
-Ascidium isidiophorum Kremp. SPECIES
-=======
+# Thelotrema isidiophorum (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 24 (1875)
+Cat. Lich. Univers. 2: 619 (1923)
 
 #### Original name
 Ascidium isidiophorum Kremp.

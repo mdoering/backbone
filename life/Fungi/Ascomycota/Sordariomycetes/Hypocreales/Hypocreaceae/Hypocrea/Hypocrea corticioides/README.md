@@ -1,14 +1,13 @@
-Clintoniella corticioides (Berk. & Broome) Petch, 1920 SPECIES
-=======
+# Hypocrea corticioides Berk. & Broome, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 7(2): 134 (1920)
+J. Mycol. 1(12): 140 (1885)
 
 #### Original name
 Hypocrea corticioides Berk. & Broome, 1875

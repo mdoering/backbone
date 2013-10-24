@@ -1,5 +1,4 @@
-Eurotites Mesch. GENUS
-=======
+# Eurotites Mesch. GENUS
 
 #### Status
 ACCEPTED

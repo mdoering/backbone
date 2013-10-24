@@ -1,5 +1,4 @@
-Arthrobacter flavus Reddy et al., 2000 SPECIES
-=======
+# Arthrobacter flavus Reddy et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

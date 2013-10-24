@@ -1,14 +1,13 @@
-Dermascia rotundata (Syd. & P. Syd.) Tehon, 1935 SPECIES
-=======
+# Lophodermium rotundatum Syd. & P. Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(no. 4): 72 (1935)
+Annls mycol. 12(2): 201 (1914)
 
 #### Original name
 Lophodermium rotundatum Syd. & P. Syd., 1914

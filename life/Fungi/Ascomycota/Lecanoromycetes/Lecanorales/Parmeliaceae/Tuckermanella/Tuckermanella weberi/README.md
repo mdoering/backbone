@@ -1,14 +1,13 @@
-Cetraria weberi Essl. SPECIES
-=======
+# Tuckermanella weberi (Essl.) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(3): 607 (1973)
+Mycotaxon 85: 140 (2003)
 
 #### Original name
 Cetraria weberi Essl.

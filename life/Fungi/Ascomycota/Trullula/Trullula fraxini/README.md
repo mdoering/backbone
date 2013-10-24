@@ -1,5 +1,4 @@
-Trullula fraxini (Bonord.) Sacc. SPECIES
-=======
+# Trullula fraxini (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

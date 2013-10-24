@@ -1,5 +1,4 @@
-Leptonia canescens (Hesler) Largent SPECIES
-=======
+# Leptonia canescens (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

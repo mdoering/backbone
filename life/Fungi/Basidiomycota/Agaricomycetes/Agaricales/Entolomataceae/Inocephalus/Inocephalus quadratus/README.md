@@ -1,5 +1,4 @@
-Inocephalus quadratus (Berk. & M.A. Curtis) T.J. Baroni SPECIES
-=======
+# Inocephalus quadratus (Berk. & M.A. Curtis) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

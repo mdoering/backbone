@@ -1,5 +1,4 @@
-Catopyrenium pisanum (Bagl.) Jatta SPECIES
-=======
+# Catopyrenium pisanum (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

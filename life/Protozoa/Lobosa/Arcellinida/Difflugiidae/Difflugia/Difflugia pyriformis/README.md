@@ -1,5 +1,4 @@
-Difflugia pyriformis SPECIES
-=======
+# Difflugia pyriformis SPECIES
 
 #### Status
 ACCEPTED

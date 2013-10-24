@@ -1,5 +1,4 @@
-Volvopolyporus peronatus (Schulzer) McGinty SPECIES
-=======
+# Volvopolyporus peronatus (Schulzer) McGinty SPECIES
 
 #### Status
 ACCEPTED

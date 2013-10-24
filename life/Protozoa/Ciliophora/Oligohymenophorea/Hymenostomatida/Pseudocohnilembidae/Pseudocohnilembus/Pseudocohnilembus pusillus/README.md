@@ -1,8 +1,7 @@
-Cohnilembus pusillus Quennerstedt, 1869 SPECIES
-=======
+# Pseudocohnilembus pusillus (Quennerstedt, 1869) Foissner & Wilbert, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

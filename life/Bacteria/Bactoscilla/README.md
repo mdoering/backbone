@@ -1,5 +1,4 @@
-Bactoscilla Pringsheim GENUS
-=======
+# Bactoscilla Pringsheim GENUS
 
 #### Status
 ACCEPTED

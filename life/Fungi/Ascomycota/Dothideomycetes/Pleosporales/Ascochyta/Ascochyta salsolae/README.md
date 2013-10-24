@@ -1,5 +1,4 @@
-Ascochyta salsolae Oudem. SPECIES
-=======
+# Ascochyta salsolae Oudem. SPECIES
 
 #### Status
 ACCEPTED

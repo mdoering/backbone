@@ -1,14 +1,13 @@
-Arthopyrenia albida Müll. Arg. SPECIES
-=======
+# Polymeridium albidum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Amazon. , Supl. 14(1-2): 69 (1986)
 
 #### Original name
 Arthopyrenia albida Müll. Arg.

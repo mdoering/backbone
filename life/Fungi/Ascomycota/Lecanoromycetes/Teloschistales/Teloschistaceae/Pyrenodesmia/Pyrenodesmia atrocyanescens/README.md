@@ -1,5 +1,4 @@
-Pyrenodesmia atrocyanescens Oxner SPECIES
-=======
+# Pyrenodesmia atrocyanescens Oxner SPECIES
 
 #### Status
 ACCEPTED

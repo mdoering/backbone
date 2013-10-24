@@ -1,5 +1,4 @@
-Calostoma microsporum G.F. Atk. SPECIES
-=======
+# Calostoma microsporum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

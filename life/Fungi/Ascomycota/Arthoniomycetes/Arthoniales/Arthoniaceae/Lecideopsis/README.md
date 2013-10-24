@@ -1,5 +1,4 @@
-Lecideopsis GENUS
-=======
+# Lecideopsis GENUS
 
 #### Status
 ACCEPTED

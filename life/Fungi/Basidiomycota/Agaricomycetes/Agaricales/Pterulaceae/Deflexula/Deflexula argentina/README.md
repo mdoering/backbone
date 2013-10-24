@@ -1,5 +1,4 @@
-Deflexula argentina (Speg.) Corner SPECIES
-=======
+# Deflexula argentina (Speg.) Corner SPECIES
 
 #### Status
 ACCEPTED

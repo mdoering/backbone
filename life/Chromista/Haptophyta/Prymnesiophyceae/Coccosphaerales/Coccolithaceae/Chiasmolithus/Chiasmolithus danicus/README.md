@@ -1,5 +1,4 @@
-Chiasmolithus danicus (Brotzen, 1959) Hay & Mohler, 1967 SPECIES
-=======
+# Chiasmolithus danicus (Brotzen, 1959) Hay & Mohler, 1967 SPECIES
 
 #### Status
 ACCEPTED

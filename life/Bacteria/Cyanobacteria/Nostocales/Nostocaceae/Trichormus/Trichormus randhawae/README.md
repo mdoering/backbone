@@ -1,5 +1,4 @@
-Trichormus randhawae J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus randhawae J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

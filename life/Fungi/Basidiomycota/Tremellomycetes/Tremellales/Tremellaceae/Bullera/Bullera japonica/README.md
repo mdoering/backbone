@@ -1,5 +1,4 @@
-Bullera japonica J.P. Samp., Fonseca & Fell SPECIES
-=======
+# Bullera japonica J.P. Samp., Fonseca & Fell SPECIES
 
 #### Status
 ACCEPTED

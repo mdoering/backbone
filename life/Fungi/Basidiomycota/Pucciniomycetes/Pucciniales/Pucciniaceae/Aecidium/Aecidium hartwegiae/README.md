@@ -1,5 +1,4 @@
-Aecidium hartwegiae Thüm. SPECIES
-=======
+# Aecidium hartwegiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium herbicola (Ellis & Everh.) Kuntze SPECIES
-=======
+# Coniothyrium herbicola (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

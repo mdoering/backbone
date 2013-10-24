@@ -1,5 +1,4 @@
-Hendersonia buteae S. Ahmad SPECIES
-=======
+# Hendersonia buteae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

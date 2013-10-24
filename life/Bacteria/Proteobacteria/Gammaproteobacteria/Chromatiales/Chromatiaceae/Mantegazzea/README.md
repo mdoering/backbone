@@ -1,5 +1,4 @@
-Mantegazzea GENUS
-=======
+# Mantegazzea GENUS
 
 #### Status
 ACCEPTED

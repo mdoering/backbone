@@ -1,5 +1,4 @@
-Erysiphe koelreuteriae (I. Miyake) F.L. Tai SPECIES
-=======
+# Erysiphe koelreuteriae (I. Miyake) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

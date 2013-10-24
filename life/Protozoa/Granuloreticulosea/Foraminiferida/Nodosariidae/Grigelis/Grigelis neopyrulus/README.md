@@ -1,5 +1,4 @@
-Grigelis neopyrulus McCulloch, 1981 SPECIES
-=======
+# Grigelis neopyrulus McCulloch, 1981 SPECIES
 
 #### Status
 ACCEPTED

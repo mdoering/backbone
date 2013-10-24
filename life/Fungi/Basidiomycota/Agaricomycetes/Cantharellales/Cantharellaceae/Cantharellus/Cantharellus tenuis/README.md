@@ -1,5 +1,4 @@
-Cantharellus tenuis Heinem., 1958 SPECIES
-=======
+# Cantharellus tenuis Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium platypus M.M. Moser SPECIES
-=======
+# Phlegmacium platypus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

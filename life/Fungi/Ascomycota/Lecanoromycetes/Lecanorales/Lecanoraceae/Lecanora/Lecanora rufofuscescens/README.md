@@ -1,5 +1,4 @@
-Lecanora rufofuscescens Vain. SPECIES
-=======
+# Lecanora rufofuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

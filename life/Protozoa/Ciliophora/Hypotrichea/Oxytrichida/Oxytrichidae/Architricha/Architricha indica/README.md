@@ -1,5 +1,4 @@
-Architricha indica Gupta, Kamra & Sapra, 2006 SPECIES
-=======
+# Architricha indica Gupta, Kamra & Sapra, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium lappae Dearn. & House SPECIES
-=======
+# Gloeosporium lappae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

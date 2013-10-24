@@ -1,5 +1,4 @@
-Hendersonia vaginae (Rabenh.) Kalchbr. SPECIES
-=======
+# Hendersonia vaginae (Rabenh.) Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

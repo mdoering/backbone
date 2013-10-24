@@ -1,5 +1,4 @@
-Phaeoramularia euphorbiae Q.X. Ge, X.J. Liu, T. Xu & Y.L. Guo SPECIES
-=======
+# Phaeoramularia euphorbiae Q.X. Ge, X.J. Liu, T. Xu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

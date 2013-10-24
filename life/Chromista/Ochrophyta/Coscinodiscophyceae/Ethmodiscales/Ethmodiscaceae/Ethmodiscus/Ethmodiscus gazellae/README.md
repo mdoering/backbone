@@ -1,8 +1,7 @@
-Ethmodiscus gigas Castracane SPECIES
-=======
+# Ethmodiscus gazellae (Janisch ex Gronow) Husedt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

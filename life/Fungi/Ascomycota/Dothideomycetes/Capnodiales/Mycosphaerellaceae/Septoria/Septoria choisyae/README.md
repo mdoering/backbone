@@ -1,5 +1,4 @@
-Septoria choisyae Woron. SPECIES
-=======
+# Septoria choisyae Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis acuminata Song, 1986 SPECIES
-=======
+# Epistylis acuminata Song, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolypothrix arenophila W. West & G.S. West SPECIES
-=======
+# Tolypothrix arenophila W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

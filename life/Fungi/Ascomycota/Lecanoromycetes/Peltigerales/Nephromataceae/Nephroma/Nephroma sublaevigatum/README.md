@@ -1,5 +1,4 @@
-Nephroma sublaevigatum f. sublaevigatum FORM
-=======
+# Nephroma sublaevigatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephroma sublaevigatum f. sublaevigatum
+Nephromium sublaevigatum Nyl.
 
 ### Remarks
 null

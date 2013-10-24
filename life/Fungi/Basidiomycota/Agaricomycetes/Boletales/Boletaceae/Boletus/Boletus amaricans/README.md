@@ -1,5 +1,4 @@
-Boletus amaricans Pers. SPECIES
-=======
+# Boletus amaricans Pers. SPECIES
 
 #### Status
 ACCEPTED

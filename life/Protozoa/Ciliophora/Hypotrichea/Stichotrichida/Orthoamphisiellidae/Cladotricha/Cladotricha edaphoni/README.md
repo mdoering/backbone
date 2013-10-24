@@ -1,5 +1,4 @@
-Cladotricha edaphoni Wilbert, 1995 SPECIES
-=======
+# Cladotricha edaphoni Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

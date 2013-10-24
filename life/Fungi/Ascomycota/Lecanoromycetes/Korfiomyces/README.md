@@ -1,5 +1,4 @@
-Korfiomyces Iturr. & D. Hawksw. GENUS
-=======
+# Korfiomyces Iturr. & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

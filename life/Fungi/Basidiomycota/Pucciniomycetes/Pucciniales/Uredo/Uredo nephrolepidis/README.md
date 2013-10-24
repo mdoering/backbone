@@ -1,5 +1,4 @@
-Uredo nephrolepidis Dietel SPECIES
-=======
+# Uredo nephrolepidis Dietel SPECIES
 
 #### Status
 ACCEPTED

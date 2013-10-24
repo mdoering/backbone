@@ -1,5 +1,4 @@
-Heppia rodriguezii Cromb. SPECIES
-=======
+# Heppia rodriguezii Cromb. SPECIES
 
 #### Status
 ACCEPTED

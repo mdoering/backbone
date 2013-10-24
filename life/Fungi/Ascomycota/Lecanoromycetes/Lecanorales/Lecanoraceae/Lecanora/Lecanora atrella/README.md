@@ -1,5 +1,4 @@
-Lecanora atrella Jatta SPECIES
-=======
+# Lecanora atrella Jatta SPECIES
 
 #### Status
 ACCEPTED

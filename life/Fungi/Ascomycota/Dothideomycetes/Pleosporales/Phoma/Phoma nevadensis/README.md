@@ -1,5 +1,4 @@
-Phoma nevadensis Gonz. Frag. SPECIES
-=======
+# Phoma nevadensis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

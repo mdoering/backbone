@@ -1,5 +1,4 @@
-Gyalideopsis argentea (Mont.) Kalb & Vezda SPECIES
-=======
+# Gyalideopsis argentea (Mont.) Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

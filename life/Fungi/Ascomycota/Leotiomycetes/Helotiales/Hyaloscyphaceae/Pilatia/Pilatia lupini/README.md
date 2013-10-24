@@ -1,5 +1,4 @@
-Pilatia lupini Velen. SPECIES
-=======
+# Pilatia lupini Velen. SPECIES
 
 #### Status
 ACCEPTED

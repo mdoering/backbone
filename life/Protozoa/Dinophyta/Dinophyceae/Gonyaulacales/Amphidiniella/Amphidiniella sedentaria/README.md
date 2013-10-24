@@ -1,5 +1,4 @@
-Amphidiniella sedentaria Horiguchi SPECIES
-=======
+# Amphidiniella sedentaria Horiguchi SPECIES
 
 #### Status
 ACCEPTED

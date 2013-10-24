@@ -1,5 +1,4 @@
-Alnicola velutina (Murrill) Singer SPECIES
-=======
+# Alnicola velutina (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

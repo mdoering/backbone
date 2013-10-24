@@ -1,5 +1,4 @@
-Calathaspis devexa I.M. Lamb & W.A. Weber SPECIES
-=======
+# Calathaspis devexa I.M. Lamb & W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

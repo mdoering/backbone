@@ -1,5 +1,4 @@
-Pleurotrema straminicolor (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema straminicolor (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

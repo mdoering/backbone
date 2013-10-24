@@ -1,5 +1,4 @@
-Dichomyces infectus Thaxt. SPECIES
-=======
+# Dichomyces infectus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

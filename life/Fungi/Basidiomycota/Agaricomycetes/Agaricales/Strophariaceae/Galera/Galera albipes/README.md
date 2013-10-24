@@ -1,5 +1,4 @@
-Galera albipes Velen. SPECIES
-=======
+# Galera albipes Velen. SPECIES
 
 #### Status
 ACCEPTED

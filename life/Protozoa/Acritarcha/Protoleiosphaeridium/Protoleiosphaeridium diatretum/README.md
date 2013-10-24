@@ -1,5 +1,4 @@
-Protoleiosphaeridium diatretum Salujha, Rehman & Rawat, 1971 SPECIES
-=======
+# Protoleiosphaeridium diatretum Salujha, Rehman & Rawat, 1971 SPECIES
 
 #### Status
 ACCEPTED

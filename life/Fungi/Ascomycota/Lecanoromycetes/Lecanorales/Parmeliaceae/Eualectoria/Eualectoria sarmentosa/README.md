@@ -1,5 +1,4 @@
-Eualectoria sarmentosa var. sarmentosa VARIETY
-=======
+# Eualectoria sarmentosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eualectoria sarmentosa var. sarmentosa
+null
 
 ### Remarks
 null

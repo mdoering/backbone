@@ -1,5 +1,4 @@
-Hymenagaricus epipastus (Berk. & Broome) Heinem. & Little Flower SPECIES
-=======
+# Hymenagaricus epipastus (Berk. & Broome) Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

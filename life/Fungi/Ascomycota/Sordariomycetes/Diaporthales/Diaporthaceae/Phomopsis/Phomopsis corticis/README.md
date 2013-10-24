@@ -1,14 +1,13 @@
-Phoma corticis Fuckel, 1870 SPECIES
-=======
+# Phomopsis corticis (Fuckel) Grove, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+J. Bot. , London 56: 290 (1918)
 
 #### Original name
 Phoma corticis Fuckel, 1870

@@ -1,5 +1,4 @@
-Dacryopinax foliacea B. Liu & L. Fan, 1988 SPECIES
-=======
+# Dacryopinax foliacea B. Liu & L. Fan, 1988 SPECIES
 
 #### Status
 ACCEPTED

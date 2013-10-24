@@ -1,5 +1,4 @@
-Chaetomium crispatoideum Sergeeva SPECIES
-=======
+# Chaetomium crispatoideum Sergeeva SPECIES
 
 #### Status
 ACCEPTED

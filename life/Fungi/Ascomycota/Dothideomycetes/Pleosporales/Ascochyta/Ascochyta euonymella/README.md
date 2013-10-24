@@ -1,5 +1,4 @@
-Ascochyta euonymella Sacc. SPECIES
-=======
+# Ascochyta euonymella Sacc. SPECIES
 
 #### Status
 ACCEPTED

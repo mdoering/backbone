@@ -1,5 +1,4 @@
-Ascotricha crucispora Udagawa & Uchiy. SPECIES
-=======
+# Ascotricha crucispora Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

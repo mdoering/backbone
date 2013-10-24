@@ -1,5 +1,4 @@
-Aecidium lobeliae Thüm. SPECIES
-=======
+# Aecidium lobeliae Thüm. SPECIES
 
 #### Status
 ACCEPTED

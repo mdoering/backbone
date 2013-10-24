@@ -1,5 +1,4 @@
-Corynebacterium efficiens Fudou et al., 2002 SPECIES
-=======
+# Corynebacterium efficiens Fudou et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

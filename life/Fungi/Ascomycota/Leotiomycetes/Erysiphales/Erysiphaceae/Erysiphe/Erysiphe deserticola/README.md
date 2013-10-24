@@ -1,5 +1,4 @@
-Erysiphe deserticola Speg. SPECIES
-=======
+# Erysiphe deserticola Speg. SPECIES
 
 #### Status
 ACCEPTED

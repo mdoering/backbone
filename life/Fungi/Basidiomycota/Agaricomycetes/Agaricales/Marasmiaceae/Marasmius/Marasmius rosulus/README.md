@@ -1,5 +1,4 @@
-Marasmius rosulus Velen. SPECIES
-=======
+# Marasmius rosulus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula subfistulosa var. subfistulosa VARIETY
-=======
+# Russula subfistulosa Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. Bot. Nat. Belg. 60(1-2): 193 (1990)
 
 #### Original name
-Russula subfistulosa var. subfistulosa
+Russula subfistulosa Buyck
 
 ### Remarks
 null

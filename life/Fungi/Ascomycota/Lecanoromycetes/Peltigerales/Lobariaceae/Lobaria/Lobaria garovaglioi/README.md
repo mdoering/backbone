@@ -1,8 +1,7 @@
-Lobaria garovaglii (Schaer.) Jatta SPECIES
-=======
+# Lobaria garovaglioi (Schaer.) Jatta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta garovaglii Schaer.
+Sticta garovaglioi Schaer.
 
 ### Remarks
 null

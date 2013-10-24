@@ -1,5 +1,4 @@
-Clitocybe chrysocephala Ellis SPECIES
-=======
+# Clitocybe chrysocephala Ellis SPECIES
 
 #### Status
 ACCEPTED

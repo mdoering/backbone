@@ -1,5 +1,4 @@
-Metopus entorhipidioides Jankowski, 1964 SPECIES
-=======
+# Metopus entorhipidioides Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

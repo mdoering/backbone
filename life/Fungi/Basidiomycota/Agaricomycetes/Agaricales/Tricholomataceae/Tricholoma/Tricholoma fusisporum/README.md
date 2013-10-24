@@ -1,5 +1,4 @@
-Tricholoma fusisporum Singer SPECIES
-=======
+# Tricholoma fusisporum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dasyscypha morthieri (Cooke) Sacc. SPECIES
-=======
+# Dasyscyphus morthieri (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 10: 21 (1892)
 
 #### Original name
 Lachnella morthieri Cooke

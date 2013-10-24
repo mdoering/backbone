@@ -1,5 +1,4 @@
-Xylaria escharoidea (Berk.) Sacc. SPECIES
-=======
+# Xylaria escharoidea (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

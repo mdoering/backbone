@@ -1,14 +1,13 @@
-Dactylophora Léger, 1892 GENUS
-=======
+# Dactylophorus Balbiani, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Tabl. Zool. , 3, 124.
+null
 
 #### Original name
 null

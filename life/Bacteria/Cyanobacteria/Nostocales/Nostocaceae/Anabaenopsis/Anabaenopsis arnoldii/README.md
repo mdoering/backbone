@@ -1,5 +1,4 @@
-Anabaenopsis arnoldii Aptekarj SPECIES
-=======
+# Anabaenopsis arnoldii Aptekarj SPECIES
 
 #### Status
 ACCEPTED

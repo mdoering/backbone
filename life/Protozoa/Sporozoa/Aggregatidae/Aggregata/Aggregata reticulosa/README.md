@@ -1,5 +1,4 @@
-Aggregata reticulosa Moroff, 1908 SPECIES
-=======
+# Aggregata reticulosa Moroff, 1908 SPECIES
 
 #### Status
 ACCEPTED

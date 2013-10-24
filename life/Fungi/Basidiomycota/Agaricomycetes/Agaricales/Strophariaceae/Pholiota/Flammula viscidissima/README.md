@@ -1,5 +1,4 @@
-Flammula viscidissima Murrill SPECIES
-=======
+# Flammula viscidissima Murrill SPECIES
 
 #### Status
 ACCEPTED

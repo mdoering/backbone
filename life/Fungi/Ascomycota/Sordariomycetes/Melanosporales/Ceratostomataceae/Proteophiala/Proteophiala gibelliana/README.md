@@ -1,5 +1,4 @@
-Proteophiala gibelliana Cif. SPECIES
-=======
+# Proteophiala gibelliana Cif. SPECIES
 
 #### Status
 ACCEPTED

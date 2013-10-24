@@ -1,5 +1,4 @@
-Phoma polystoma Tassi SPECIES
-=======
+# Phoma polystoma Tassi SPECIES
 
 #### Status
 ACCEPTED

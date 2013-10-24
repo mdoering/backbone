@@ -1,5 +1,4 @@
-Psoroma vulcanicum Zahlbr. SPECIES
-=======
+# Psoroma vulcanicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

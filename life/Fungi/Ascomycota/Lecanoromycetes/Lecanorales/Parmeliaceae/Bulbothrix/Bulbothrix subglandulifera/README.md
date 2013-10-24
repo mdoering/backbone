@@ -1,5 +1,4 @@
-Bulbothrix subglandulifera (Hue) Hale SPECIES
-=======
+# Bulbothrix subglandulifera (Hue) Hale SPECIES
 
 #### Status
 ACCEPTED

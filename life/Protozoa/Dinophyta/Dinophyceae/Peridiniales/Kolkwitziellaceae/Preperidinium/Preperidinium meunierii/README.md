@@ -1,8 +1,7 @@
-Peridiniopsis minor (Paulsen) Starmach, 1974 SPECIES
-=======
+# Preperidinium meunierii (Pavillard, 1907) Elbrächter, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

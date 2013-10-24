@@ -1,5 +1,4 @@
-Gloniella pentastemonis Earle SPECIES
-=======
+# Gloniella pentastemonis Earle SPECIES
 
 #### Status
 ACCEPTED

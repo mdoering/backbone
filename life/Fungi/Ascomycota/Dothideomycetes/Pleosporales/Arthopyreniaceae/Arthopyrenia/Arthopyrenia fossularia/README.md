@@ -1,5 +1,4 @@
-Arthopyrenia fossularia (Stirt.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia fossularia (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

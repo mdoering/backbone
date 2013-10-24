@@ -1,5 +1,4 @@
-Teratosphaeria alcornii Crous, 2009 SPECIES
-=======
+# Teratosphaeria alcornii Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia boyeri Sacc. & P. Syd. SPECIES
-=======
+# Diplodia boyeri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

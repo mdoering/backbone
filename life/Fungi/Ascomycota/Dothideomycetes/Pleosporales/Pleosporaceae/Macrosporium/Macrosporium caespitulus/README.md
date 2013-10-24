@@ -1,5 +1,4 @@
-Macrosporium caespitulus Cooke SPECIES
-=======
+# Macrosporium caespitulus Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemithecium depressum (Mont.) Trevis. SPECIES
-=======
+# Hemithecium depressum (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

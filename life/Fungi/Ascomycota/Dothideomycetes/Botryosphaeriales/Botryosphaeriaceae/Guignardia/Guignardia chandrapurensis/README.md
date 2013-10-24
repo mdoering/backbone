@@ -1,5 +1,4 @@
-Guignardia chandrapurensis P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Guignardia chandrapurensis P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
 ACCEPTED

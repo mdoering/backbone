@@ -1,5 +1,4 @@
-Eponula Vavrdová, 1986 GENUS
-=======
+# Eponula Vavrdová, 1986 GENUS
 
 #### Status
 ACCEPTED

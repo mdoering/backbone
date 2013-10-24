@@ -1,5 +1,4 @@
-Puccinia ugandae Cummins SPECIES
-=======
+# Puccinia ugandae Cummins SPECIES
 
 #### Status
 ACCEPTED

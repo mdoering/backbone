@@ -1,5 +1,4 @@
-Clavariopsis brachycladia Tubaki SPECIES
-=======
+# Clavariopsis brachycladia Tubaki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phomopsis gulabia B. Lal & A. Arya SPECIES
-=======
+# Phomopsis gulabii B. Lal & A. Arya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+National Academy Science Letters 4(8): 317 (1981)
 
 #### Original name
-Phomopsis gulabia B. Lal & A. Arya
+Phomopsis gulabii B. Lal & A. Arya
 
 ### Remarks
 null

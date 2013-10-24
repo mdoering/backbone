@@ -1,5 +1,4 @@
-Phoma indigofericola Henn. SPECIES
-=======
+# Phoma indigofericola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictina africanae Pandotra & A. Husain SPECIES
-=======
+# Phyllostictina africanae Pandotra & A. Husain SPECIES
 
 #### Status
 ACCEPTED

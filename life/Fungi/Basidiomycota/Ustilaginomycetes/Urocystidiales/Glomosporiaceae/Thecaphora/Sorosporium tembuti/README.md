@@ -1,5 +1,4 @@
-Sorosporium tembuti Henn. & Pole-Evans SPECIES
-=======
+# Sorosporium tembuti Henn. & Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

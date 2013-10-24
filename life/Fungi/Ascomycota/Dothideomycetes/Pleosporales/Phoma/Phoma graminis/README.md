@@ -1,5 +1,4 @@
-Phoma graminis Westend. SPECIES
-=======
+# Phoma graminis Westend. SPECIES
 
 #### Status
 ACCEPTED

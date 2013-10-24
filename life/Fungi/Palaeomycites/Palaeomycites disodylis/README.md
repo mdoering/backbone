@@ -1,5 +1,4 @@
-Palaeomycites disodylis (Bacc.) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites disodylis (Bacc.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

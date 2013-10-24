@@ -1,5 +1,4 @@
-Chlamydonella galeata Deroux, 1970 SPECIES
-=======
+# Chlamydonella galeata Deroux, 1970 SPECIES
 
 #### Status
 ACCEPTED

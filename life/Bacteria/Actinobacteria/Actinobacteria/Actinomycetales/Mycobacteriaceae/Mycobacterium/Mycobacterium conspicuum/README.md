@@ -1,5 +1,4 @@
-Mycobacterium conspicuum Springer et al., 1996 SPECIES
-=======
+# Mycobacterium conspicuum Springer et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

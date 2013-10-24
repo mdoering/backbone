@@ -1,5 +1,4 @@
-Rhopalopsis contracta (Speg.) Cooke SPECIES
-=======
+# Rhopalopsis contracta (Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

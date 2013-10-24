@@ -1,5 +1,4 @@
-Marasmius allium Eichelb. SPECIES
-=======
+# Marasmius allium Eichelb. SPECIES
 
 #### Status
 ACCEPTED

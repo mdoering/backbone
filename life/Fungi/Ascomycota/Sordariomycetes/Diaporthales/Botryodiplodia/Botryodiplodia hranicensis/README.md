@@ -1,5 +1,4 @@
-Botryodiplodia hranicensis Petr. SPECIES
-=======
+# Botryodiplodia hranicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

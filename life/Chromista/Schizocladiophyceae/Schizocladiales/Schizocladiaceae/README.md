@@ -1,5 +1,4 @@
-Schizocladiaceae Henry, Okuda & Kawai, 2003 FAMILY
-=======
+# Schizocladiaceae Henry, Okuda & Kawai, 2003 FAMILY
 
 #### Status
 ACCEPTED

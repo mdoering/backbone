@@ -1,5 +1,4 @@
-Leptosphaeria microspora Ellis & Everh. SPECIES
-=======
+# Leptosphaeria microspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

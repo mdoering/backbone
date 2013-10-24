@@ -1,5 +1,4 @@
-Pestalotia moorei Harkn. SPECIES
-=======
+# Pestalotia moorei Harkn. SPECIES
 
 #### Status
 ACCEPTED

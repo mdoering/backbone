@@ -1,5 +1,4 @@
-Agarum Bory de St.-Vincent, 1826 GENUS
-=======
+# Agarum Bory de St.-Vincent, 1826 GENUS
 
 #### Status
 ACCEPTED

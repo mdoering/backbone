@@ -1,5 +1,4 @@
-Sistotrema lutescens Pers. SPECIES
-=======
+# Sistotrema lutescens Pers. SPECIES
 
 #### Status
 ACCEPTED

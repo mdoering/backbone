@@ -1,5 +1,4 @@
-Truncatella wangikarii Somani SPECIES
-=======
+# Truncatella wangikarii Somani SPECIES
 
 #### Status
 ACCEPTED

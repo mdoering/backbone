@@ -1,5 +1,4 @@
-Nematostoma arachnoideum (Petr.) Petr. SPECIES
-=======
+# Nematostoma arachnoideum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

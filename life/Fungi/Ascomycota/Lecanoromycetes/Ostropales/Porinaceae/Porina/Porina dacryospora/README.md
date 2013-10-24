@@ -1,5 +1,4 @@
-Porina dacryospora Zahlbr. SPECIES
-=======
+# Porina dacryospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

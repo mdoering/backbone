@@ -1,5 +1,4 @@
-Irenopsis seyboensis (Cif.) Hansf. SPECIES
-=======
+# Irenopsis seyboensis (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

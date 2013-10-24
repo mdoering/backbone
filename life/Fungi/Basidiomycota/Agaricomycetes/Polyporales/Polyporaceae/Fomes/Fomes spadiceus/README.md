@@ -1,5 +1,4 @@
-Fomes spadiceus var. spadiceus VARIETY
-=======
+# Fomes spadiceus (Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fomes spadiceus var. spadiceus
+Fomes spadiceus (Peck) Cooke
 
 ### Remarks
 null

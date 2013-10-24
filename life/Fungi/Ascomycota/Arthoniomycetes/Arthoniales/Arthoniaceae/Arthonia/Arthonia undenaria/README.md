@@ -1,5 +1,4 @@
-Arthonia undenaria Nyl. SPECIES
-=======
+# Arthonia undenaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

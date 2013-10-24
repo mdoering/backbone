@@ -1,5 +1,4 @@
-Sphingomonas pituitosa Denner et al., 2001 SPECIES
-=======
+# Sphingomonas pituitosa Denner et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora putridogenes (Vezspremi {?} ) Sartory SPECIES
-=======
+# Oospora putridogenes (Vezspremi {?} ) Sartory SPECIES
 
 #### Status
 ACCEPTED

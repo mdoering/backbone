@@ -1,5 +1,4 @@
-Gruberia beninensis Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Gruberia beninensis Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

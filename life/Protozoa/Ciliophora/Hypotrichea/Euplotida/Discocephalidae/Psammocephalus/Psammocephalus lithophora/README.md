@@ -1,5 +1,4 @@
-Psammocephalus lithophora (Faure-Fremiet, 1954) Wicklow, 1982 SPECIES
-=======
+# Psammocephalus lithophora (Faure-Fremiet, 1954) Wicklow, 1982 SPECIES
 
 #### Status
 ACCEPTED

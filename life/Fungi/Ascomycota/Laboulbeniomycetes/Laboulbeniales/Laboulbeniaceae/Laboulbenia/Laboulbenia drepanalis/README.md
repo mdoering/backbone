@@ -1,5 +1,4 @@
-Laboulbenia drepanalis Thaxt. SPECIES
-=======
+# Laboulbenia drepanalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

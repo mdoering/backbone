@@ -1,5 +1,4 @@
-Gibberidea ulmicola (Fuckel) Kuntze SPECIES
-=======
+# Gibberidea ulmicola (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

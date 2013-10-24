@@ -1,5 +1,4 @@
-Meliola symingtoniae J.N. Kapoor SPECIES
-=======
+# Meliola symingtoniae J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

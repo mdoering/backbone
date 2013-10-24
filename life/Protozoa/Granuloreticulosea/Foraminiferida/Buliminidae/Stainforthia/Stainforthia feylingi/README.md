@@ -1,5 +1,4 @@
-Stainforthia feylingi Knudsen & Seidenkrantz, 1994 SPECIES
-=======
+# Stainforthia feylingi Knudsen & Seidenkrantz, 1994 SPECIES
 
 #### Status
 ACCEPTED

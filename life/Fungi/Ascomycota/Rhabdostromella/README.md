@@ -1,5 +1,4 @@
-Rhabdostromella Höhn. GENUS
-=======
+# Rhabdostromella Höhn. GENUS
 
 #### Status
 ACCEPTED

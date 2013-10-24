@@ -1,5 +1,4 @@
-Asterina pemphidioides Cooke SPECIES
-=======
+# Asterina pemphidioides Cooke SPECIES
 
 #### Status
 ACCEPTED

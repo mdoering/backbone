@@ -1,5 +1,4 @@
-Graphis stenospora Müll. Arg. SPECIES
-=======
+# Graphis stenospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

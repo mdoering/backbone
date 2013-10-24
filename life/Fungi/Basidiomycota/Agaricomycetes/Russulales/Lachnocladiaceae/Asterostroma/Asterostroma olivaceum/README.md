@@ -1,5 +1,4 @@
-Asterostroma olivaceum Rick SPECIES
-=======
+# Asterostroma olivaceum Rick SPECIES
 
 #### Status
 ACCEPTED

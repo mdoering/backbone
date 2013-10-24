@@ -1,5 +1,4 @@
-Septoria asteris-alpini Nann. SPECIES
-=======
+# Septoria asteris-alpini Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ficariae Maire SPECIES
-=======
+# Phyllosticta ficariae Maire SPECIES
 
 #### Status
 ACCEPTED

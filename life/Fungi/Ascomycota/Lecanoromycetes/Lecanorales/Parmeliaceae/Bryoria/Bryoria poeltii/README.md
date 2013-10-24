@@ -1,5 +1,4 @@
-Bryoria poeltii (Bystrek) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria poeltii (Bystrek) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

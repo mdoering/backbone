@@ -1,5 +1,4 @@
-Thurammina cariosa Flint, 1899 SPECIES
-=======
+# Thurammina cariosa Flint, 1899 SPECIES
 
 #### Status
 ACCEPTED

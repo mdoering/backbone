@@ -1,5 +1,4 @@
-Gibberidea zingiberacearum Racib. SPECIES
-=======
+# Gibberidea zingiberacearum Racib. SPECIES
 
 #### Status
 ACCEPTED

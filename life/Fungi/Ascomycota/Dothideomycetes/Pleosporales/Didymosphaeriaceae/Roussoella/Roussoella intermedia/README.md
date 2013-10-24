@@ -1,5 +1,4 @@
-Roussoella intermedia Y.M. Ju, J.D. Rogers & Huhndorf SPECIES
-=======
+# Roussoella intermedia Y.M. Ju, J.D. Rogers & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

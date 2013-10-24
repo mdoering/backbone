@@ -1,5 +1,4 @@
-Uvigerina elongatastriata (Colom, 1952) SPECIES
-=======
+# Uvigerina elongatastriata (Colom, 1952) SPECIES
 
 #### Status
 ACCEPTED

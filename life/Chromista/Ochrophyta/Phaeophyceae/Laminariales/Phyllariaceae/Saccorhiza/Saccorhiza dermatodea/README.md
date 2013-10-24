@@ -1,8 +1,7 @@
-Laminaria dermatodea Bachelot de la Pylaie SPECIES
-=======
+# Saccorhiza dermatodea (Bachelot de la Pylaie) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Heliothrix Pierson et al., 1986 GENUS
-=======
+# Heliothrix Pierson et al., 1986 GENUS
 
 #### Status
 ACCEPTED

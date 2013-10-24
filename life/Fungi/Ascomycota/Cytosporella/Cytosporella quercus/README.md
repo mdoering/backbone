@@ -1,5 +1,4 @@
-Cytosporella quercus Oudem. SPECIES
-=======
+# Cytosporella quercus Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria hordei Jacz. SPECIES
-=======
+# Septoria hordei Jacz. SPECIES
 
 #### Status
 ACCEPTED

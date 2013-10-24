@@ -1,5 +1,4 @@
-Spirulina cavanillesiana P. González SPECIES
-=======
+# Spirulina cavanillesiana P. González SPECIES
 
 #### Status
 ACCEPTED

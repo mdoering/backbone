@@ -1,5 +1,4 @@
-Lepiota roseosquamosa Beeli SPECIES
-=======
+# Lepiota roseosquamosa Beeli SPECIES
 
 #### Status
 ACCEPTED

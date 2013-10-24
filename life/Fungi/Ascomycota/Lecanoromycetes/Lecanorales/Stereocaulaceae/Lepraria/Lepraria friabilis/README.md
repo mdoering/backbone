@@ -1,5 +1,4 @@
-Lepraria friabilis Lendemer, K. Knudsen & Elix SPECIES
-=======
+# Lepraria friabilis Lendemer, K. Knudsen & Elix SPECIES
 
 #### Status
 ACCEPTED

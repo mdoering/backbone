@@ -1,5 +1,4 @@
-Lactarius chromospermus Pegler, 1982 SPECIES
-=======
+# Lactarius chromospermus Pegler, 1982 SPECIES
 
 #### Status
 ACCEPTED

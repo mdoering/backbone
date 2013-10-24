@@ -1,5 +1,4 @@
-Mycena pratensis Singer SPECIES
-=======
+# Mycena pratensis Singer SPECIES
 
 #### Status
 ACCEPTED

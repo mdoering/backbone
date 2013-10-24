@@ -1,5 +1,4 @@
-Ephelota Wright, 1857 GENUS
-=======
+# Ephelota Wright, 1857 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diexallophasis granulosa (Cramer et al., 1979) Fensome et al., 1990 SPECIES
-=======
+# Diexallophasis granulosa (Cramer et al., 1979) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

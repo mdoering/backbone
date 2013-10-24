@@ -1,5 +1,4 @@
-Pholiota gymnopiloides Raithelh. SPECIES
-=======
+# Pholiota gymnopiloides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella brassicaecola anon. SPECIES
-=======
+# Tremella brassicaecola anon. SPECIES
 
 #### Status
 ACCEPTED

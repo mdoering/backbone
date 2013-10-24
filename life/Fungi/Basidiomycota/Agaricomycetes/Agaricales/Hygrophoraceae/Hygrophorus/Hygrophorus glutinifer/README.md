@@ -1,5 +1,4 @@
-Hygrophorus glutinifer (Bull.) Fr. SPECIES
-=======
+# Hygrophorus glutinifer (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

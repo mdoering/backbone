@@ -1,5 +1,4 @@
-Microglaena rivularis Zschacke SPECIES
-=======
+# Microglaena rivularis Zschacke SPECIES
 
 #### Status
 ACCEPTED

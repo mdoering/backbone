@@ -1,5 +1,4 @@
-Codonaria Kofoid & Campbell, 1939 GENUS
-=======
+# Codonaria Kofoid & Campbell, 1939 GENUS
 
 #### Status
 ACCEPTED

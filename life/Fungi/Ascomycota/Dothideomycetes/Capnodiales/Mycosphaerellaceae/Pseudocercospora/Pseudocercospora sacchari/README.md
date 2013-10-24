@@ -1,5 +1,4 @@
-Pseudocercospora sacchari U. Braun & Crous SPECIES
-=======
+# Pseudocercospora sacchari U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

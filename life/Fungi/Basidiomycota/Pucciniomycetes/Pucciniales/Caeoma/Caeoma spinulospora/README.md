@@ -1,5 +1,4 @@
-Caeoma spinulospora P.E. Crane SPECIES
-=======
+# Caeoma spinulospora P.E. Crane SPECIES
 
 #### Status
 ACCEPTED

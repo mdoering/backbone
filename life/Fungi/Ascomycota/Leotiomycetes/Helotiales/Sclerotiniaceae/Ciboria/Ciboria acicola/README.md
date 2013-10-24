@@ -1,5 +1,4 @@
-Ciboria acicola Kirschst. SPECIES
-=======
+# Ciboria acicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

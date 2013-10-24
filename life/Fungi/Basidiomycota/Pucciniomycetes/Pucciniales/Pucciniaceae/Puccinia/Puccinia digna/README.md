@@ -1,5 +1,4 @@
-Puccinia digna Arthur & Holw. SPECIES
-=======
+# Puccinia digna Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

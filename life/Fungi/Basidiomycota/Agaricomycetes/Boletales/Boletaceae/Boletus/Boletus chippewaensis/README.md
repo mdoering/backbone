@@ -1,5 +1,4 @@
-Boletus chippewaensis A.H. Sm. & Thiers SPECIES
-=======
+# Boletus chippewaensis A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

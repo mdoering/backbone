@@ -1,5 +1,4 @@
-Podosordaria rhizophila (Cooke & Massee) P.M.D. Martin SPECIES
-=======
+# Podosordaria rhizophila (Cooke & Massee) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

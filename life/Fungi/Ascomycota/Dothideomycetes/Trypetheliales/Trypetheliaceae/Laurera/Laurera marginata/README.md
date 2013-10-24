@@ -1,5 +1,4 @@
-Laurera marginata (Fée) C.W. Dodge SPECIES
-=======
+# Laurera marginata (Fée) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

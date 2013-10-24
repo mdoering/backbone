@@ -1,5 +1,4 @@
-Octosporonites stauroides Sal.-Cheb. & Locq. SPECIES
-=======
+# Octosporonites stauroides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

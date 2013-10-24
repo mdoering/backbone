@@ -1,17 +1,16 @@
-Pseudocercospora alpinicola S.Q. Chen & P.K. Chi SPECIES
-=======
+# Pseudocercospora alpiniicola S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of South China Agricultural University 11(4): 48 (1990)
 
 #### Original name
-Pseudocercospora alpinicola S.Q. Chen & P.K. Chi
+Pseudocercospora alpiniicola S.Q. Chen & P.K. Chi
 
 ### Remarks
 null

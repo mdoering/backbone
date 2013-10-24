@@ -1,5 +1,4 @@
-Ancylistaceae FAMILY
-=======
+# Ancylistaceae FAMILY
 
 #### Status
 ACCEPTED

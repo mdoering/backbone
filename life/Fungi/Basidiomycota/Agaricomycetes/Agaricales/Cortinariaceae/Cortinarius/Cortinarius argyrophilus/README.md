@@ -1,5 +1,4 @@
-Cortinarius argyrophilus Rob. Henry SPECIES
-=======
+# Cortinarius argyrophilus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

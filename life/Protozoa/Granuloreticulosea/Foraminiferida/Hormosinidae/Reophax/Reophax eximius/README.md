@@ -1,5 +1,4 @@
-Reophax eximius Zheng, 1988 SPECIES
-=======
+# Reophax eximius Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

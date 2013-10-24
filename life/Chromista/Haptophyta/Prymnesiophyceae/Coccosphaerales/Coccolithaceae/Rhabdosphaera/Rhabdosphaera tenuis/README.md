@@ -1,8 +1,7 @@
-Blackites incompertus Roth, 1970 SPECIES
-=======
+# Rhabdosphaera tenuis Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

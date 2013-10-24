@@ -1,5 +1,4 @@
-Inocybe ochraceomarginata Kauffman SPECIES
-=======
+# Inocybe ochraceomarginata Kauffman SPECIES
 
 #### Status
 ACCEPTED

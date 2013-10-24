@@ -1,5 +1,4 @@
-Dysteria dystila (Maskell, 1887) SPECIES
-=======
+# Dysteria dystila (Maskell, 1887) SPECIES
 
 #### Status
 ACCEPTED

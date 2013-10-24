@@ -1,5 +1,4 @@
-Peronospora canadensis Gäum. SPECIES
-=======
+# Peronospora canadensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

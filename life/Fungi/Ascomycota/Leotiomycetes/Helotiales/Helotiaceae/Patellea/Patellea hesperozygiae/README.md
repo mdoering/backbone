@@ -1,5 +1,4 @@
-Patellea hesperozygiae E.K. Cash SPECIES
-=======
+# Patellea hesperozygiae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

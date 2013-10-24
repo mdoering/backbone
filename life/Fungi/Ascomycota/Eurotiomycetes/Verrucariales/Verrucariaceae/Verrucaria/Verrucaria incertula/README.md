@@ -1,5 +1,4 @@
-Verrucaria incertula Zahlbr. SPECIES
-=======
+# Verrucaria incertula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

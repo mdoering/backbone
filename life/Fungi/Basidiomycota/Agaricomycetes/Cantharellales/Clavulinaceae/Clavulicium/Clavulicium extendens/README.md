@@ -1,5 +1,4 @@
-Clavulicium extendens Hood, 1999 SPECIES
-=======
+# Clavulicium extendens Hood, 1999 SPECIES
 
 #### Status
 ACCEPTED

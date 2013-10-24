@@ -1,5 +1,4 @@
-Cyttarocylis brandti SPECIES
-=======
+# Cyttarocylis brandti SPECIES
 
 #### Status
 ACCEPTED

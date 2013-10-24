@@ -1,5 +1,4 @@
-Phanerochaete radulans Hallenb. SPECIES
-=======
+# Phanerochaete radulans Hallenb. SPECIES
 
 #### Status
 ACCEPTED

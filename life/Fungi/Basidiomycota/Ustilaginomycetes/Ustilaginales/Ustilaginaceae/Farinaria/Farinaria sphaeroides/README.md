@@ -1,5 +1,4 @@
-Farinaria sphaeroides Sowerby SPECIES
-=======
+# Farinaria sphaeroides Sowerby SPECIES
 
 #### Status
 ACCEPTED

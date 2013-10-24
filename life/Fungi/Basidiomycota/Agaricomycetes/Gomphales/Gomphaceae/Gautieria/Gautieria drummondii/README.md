@@ -1,17 +1,16 @@
-Gautieria drummondi Cooke SPECIES
-=======
+# Gautieria drummondii Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Handb. Austral. fungi 247 (1892)
 
 #### Original name
-Gautieria drummondi Cooke
+Gautieria drummondii Cooke
 
 ### Remarks
 null

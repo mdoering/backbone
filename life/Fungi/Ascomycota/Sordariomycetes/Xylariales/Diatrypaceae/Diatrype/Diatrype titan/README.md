@@ -1,5 +1,4 @@
-Diatrype titan Berk. & Ravenel SPECIES
-=======
+# Diatrype titan Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

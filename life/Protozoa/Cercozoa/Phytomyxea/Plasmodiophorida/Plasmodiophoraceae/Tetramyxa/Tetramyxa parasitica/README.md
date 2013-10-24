@@ -1,5 +1,4 @@
-Tetramyxa parasitica K.I. Goebel, 1884 SPECIES
-=======
+# Tetramyxa parasitica K.I. Goebel, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triceratium sol Grunow SPECIES
-=======
+# Triceratium sol Grunow SPECIES
 
 #### Status
 ACCEPTED

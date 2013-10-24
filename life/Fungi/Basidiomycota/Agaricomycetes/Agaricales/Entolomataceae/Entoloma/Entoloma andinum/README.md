@@ -1,5 +1,4 @@
-Entoloma andinum Dennis SPECIES
-=======
+# Entoloma andinum Dennis SPECIES
 
 #### Status
 ACCEPTED

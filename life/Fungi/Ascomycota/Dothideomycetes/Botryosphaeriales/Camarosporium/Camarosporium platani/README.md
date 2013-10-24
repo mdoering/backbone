@@ -1,5 +1,4 @@
-Camarosporium platani Politis SPECIES
-=======
+# Camarosporium platani Politis SPECIES
 
 #### Status
 ACCEPTED

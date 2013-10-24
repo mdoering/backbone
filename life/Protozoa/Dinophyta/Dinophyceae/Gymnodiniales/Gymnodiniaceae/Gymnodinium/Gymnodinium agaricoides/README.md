@@ -1,5 +1,4 @@
-Gymnodinium agaricoides P.H.Campbell, 1973 SPECIES
-=======
+# Gymnodinium agaricoides P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

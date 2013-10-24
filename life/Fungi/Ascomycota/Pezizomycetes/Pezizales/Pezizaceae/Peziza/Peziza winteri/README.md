@@ -1,5 +1,4 @@
-Peziza winteri Cooke SPECIES
-=======
+# Peziza winteri Cooke SPECIES
 
 #### Status
 ACCEPTED

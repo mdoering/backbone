@@ -1,14 +1,13 @@
-Berengeria calicioides (Delise ex Duby) A. Massal. SPECIES
-=======
+# Gomphillus calycioides (Delise ex Duby) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 2: 15 (1854)
 
 #### Original name
 Baeomyces calycioides Delise ex Duby

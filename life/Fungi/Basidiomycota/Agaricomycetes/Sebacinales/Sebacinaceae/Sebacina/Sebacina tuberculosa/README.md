@@ -1,5 +1,4 @@
-Sebacina tuberculosa Torrend SPECIES
-=======
+# Sebacina tuberculosa Torrend SPECIES
 
 #### Status
 ACCEPTED

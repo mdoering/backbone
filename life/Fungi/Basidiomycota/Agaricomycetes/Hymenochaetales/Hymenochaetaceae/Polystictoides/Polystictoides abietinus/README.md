@@ -1,5 +1,4 @@
-Polystictoides abietinus (Pers.) Lázaro Ibiza SPECIES
-=======
+# Polystictoides abietinus (Pers.) Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

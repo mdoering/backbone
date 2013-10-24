@@ -1,5 +1,4 @@
-Estiastra minima Volkova, 1969 SPECIES
-=======
+# Estiastra minima Volkova, 1969 SPECIES
 
 #### Status
 ACCEPTED

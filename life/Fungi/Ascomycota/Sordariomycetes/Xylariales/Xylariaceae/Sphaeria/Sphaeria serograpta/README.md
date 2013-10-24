@@ -1,5 +1,4 @@
-Sphaeria serograpta Durieu & Mont. SPECIES
-=======
+# Sphaeria serograpta Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

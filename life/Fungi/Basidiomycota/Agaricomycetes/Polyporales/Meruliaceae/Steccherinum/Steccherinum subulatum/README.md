@@ -1,5 +1,4 @@
-Steccherinum subulatum H.S. Yuan & Y.C. Dai SPECIES
-=======
+# Steccherinum subulatum H.S. Yuan & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

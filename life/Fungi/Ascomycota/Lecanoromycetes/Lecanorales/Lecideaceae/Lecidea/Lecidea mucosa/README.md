@@ -1,14 +1,13 @@
-Biatora mucosa (Stirt.) Walt. Watson SPECIES
-=======
+# Lecidea mucosa Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Scott. Natural. 5: 17 (1879)
 
 #### Original name
 Lecidea mucosa Stirt.

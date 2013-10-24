@@ -1,5 +1,4 @@
-Isaria fimicola Sternon SPECIES
-=======
+# Isaria fimicola Sternon SPECIES
 
 #### Status
 ACCEPTED

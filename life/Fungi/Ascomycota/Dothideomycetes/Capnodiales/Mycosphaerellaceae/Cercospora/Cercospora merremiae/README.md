@@ -1,5 +1,4 @@
-Cercospora merremiae J.M. Mend. SPECIES
-=======
+# Cercospora merremiae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

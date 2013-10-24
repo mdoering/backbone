@@ -1,5 +1,4 @@
-Tilletia alopecurivora Ule SPECIES
-=======
+# Tilletia alopecurivora Ule SPECIES
 
 #### Status
 ACCEPTED

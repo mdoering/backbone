@@ -1,5 +1,4 @@
-Achlya braunii Reinsch SPECIES
-=======
+# Achlya braunii Reinsch SPECIES
 
 #### Status
 ACCEPTED

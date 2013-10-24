@@ -1,5 +1,4 @@
-Metanectria citrum (Wallr.) Sacc. SPECIES
-=======
+# Metanectria citrum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

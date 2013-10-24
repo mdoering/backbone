@@ -1,5 +1,4 @@
-Mycena silvae-pristinae M.T. Veerkamp & Kuyper SPECIES
-=======
+# Mycena silvae-pristinae M.T. Veerkamp & Kuyper SPECIES
 
 #### Status
 ACCEPTED

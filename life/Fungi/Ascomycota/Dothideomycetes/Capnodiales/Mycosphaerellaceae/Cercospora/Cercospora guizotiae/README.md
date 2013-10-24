@@ -1,5 +1,4 @@
-Cercospora guizotiae Siemaszko SPECIES
-=======
+# Cercospora guizotiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

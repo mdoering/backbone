@@ -1,5 +1,4 @@
-Hydropus atropruinosus (Corner) Singer SPECIES
-=======
+# Hydropus atropruinosus (Corner) Singer SPECIES
 
 #### Status
 ACCEPTED

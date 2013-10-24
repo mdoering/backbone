@@ -1,5 +1,4 @@
-Odontella cornuta (J. Brun) H. J. Schrader SPECIES
-=======
+# Odontella cornuta (J. Brun) H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

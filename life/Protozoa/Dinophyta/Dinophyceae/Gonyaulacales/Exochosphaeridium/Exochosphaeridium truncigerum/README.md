@@ -1,5 +1,4 @@
-Exochosphaeridium truncigerum (Deflandre) R. J. Davey SPECIES
-=======
+# Exochosphaeridium truncigerum (Deflandre) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

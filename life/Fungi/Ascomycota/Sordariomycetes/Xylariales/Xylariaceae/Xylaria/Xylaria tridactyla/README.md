@@ -1,5 +1,4 @@
-Xylaria tridactyla Rehm SPECIES
-=======
+# Xylaria tridactyla Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Walvisia Miles, 1990 GENUS
-=======
+# Walvisia Miles, 1990 GENUS
 
 #### Status
 ACCEPTED

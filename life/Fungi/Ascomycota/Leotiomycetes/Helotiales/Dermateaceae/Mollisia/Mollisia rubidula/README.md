@@ -1,5 +1,4 @@
-Mollisia rubidula Rehm SPECIES
-=======
+# Mollisia rubidula Rehm SPECIES
 
 #### Status
 ACCEPTED

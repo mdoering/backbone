@@ -1,5 +1,4 @@
-Diplochytridium scherffelii (Sparrow) Karling SPECIES
-=======
+# Diplochytridium scherffelii (Sparrow) Karling SPECIES
 
 #### Status
 ACCEPTED

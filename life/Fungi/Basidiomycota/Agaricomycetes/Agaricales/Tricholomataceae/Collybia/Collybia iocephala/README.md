@@ -1,5 +1,4 @@
-Collybia iocephala (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Collybia iocephala (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

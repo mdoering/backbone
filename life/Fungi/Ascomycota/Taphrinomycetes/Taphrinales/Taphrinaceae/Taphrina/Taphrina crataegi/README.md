@@ -1,17 +1,16 @@
-Exoascus bullatus (Berk. & Broome) Fuckel, 1871 SPECIES
-=======
+# Taphrina crataegi Sadeb., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 25-26: 49 (1871)
+Krit. Unters. Taphr. 21 (1890)
 
 #### Original name
-Oidium bullatum Berk. & Broome, 1855
+Taphrina crataegi Sadeb., 1890
 
 ### Remarks
 null

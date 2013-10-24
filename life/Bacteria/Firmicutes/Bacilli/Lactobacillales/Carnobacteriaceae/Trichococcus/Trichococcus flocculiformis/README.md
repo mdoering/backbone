@@ -1,5 +1,4 @@
-Trichococcus flocculiformis Scheff et al., 1984 SPECIES
-=======
+# Trichococcus flocculiformis Scheff et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

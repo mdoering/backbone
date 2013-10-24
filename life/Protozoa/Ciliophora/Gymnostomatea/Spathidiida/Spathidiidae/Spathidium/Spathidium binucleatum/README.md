@@ -1,5 +1,4 @@
-Spathidium binucleatum Lepsi, 1962 SPECIES
-=======
+# Spathidium binucleatum Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

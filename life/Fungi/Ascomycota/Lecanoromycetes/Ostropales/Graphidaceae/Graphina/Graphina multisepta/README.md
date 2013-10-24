@@ -1,5 +1,4 @@
-Graphina multisepta SPECIES
-=======
+# Graphina multisepta SPECIES
 
 #### Status
 ACCEPTED

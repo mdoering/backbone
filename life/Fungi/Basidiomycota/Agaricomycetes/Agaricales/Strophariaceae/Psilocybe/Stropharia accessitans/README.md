@@ -1,5 +1,4 @@
-Stropharia accessitans (Britzelm.) Sacc. SPECIES
-=======
+# Stropharia accessitans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

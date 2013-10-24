@@ -1,5 +1,4 @@
-Synechoblastus thysaneus (Ach.) Jatta SPECIES
-=======
+# Synechoblastus thysaneus (Ach.) Jatta SPECIES
 
 #### Status
 ACCEPTED

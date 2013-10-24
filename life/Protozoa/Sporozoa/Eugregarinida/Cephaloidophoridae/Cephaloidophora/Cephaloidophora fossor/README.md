@@ -1,5 +1,4 @@
-Cephaloidophora fossor (Léger & Duboscq, 1907) SPECIES
-=======
+# Cephaloidophora fossor (Léger & Duboscq, 1907) SPECIES
 
 #### Status
 ACCEPTED

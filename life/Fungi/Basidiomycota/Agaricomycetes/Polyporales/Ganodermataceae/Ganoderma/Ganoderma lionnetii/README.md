@@ -1,5 +1,4 @@
-Ganoderma lionnetii Rolland SPECIES
-=======
+# Ganoderma lionnetii Rolland SPECIES
 
 #### Status
 ACCEPTED

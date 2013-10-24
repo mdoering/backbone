@@ -1,5 +1,4 @@
-Chytriomyces macro-operculatus var. macro-operculatus VARIETY
-=======
+# Chytriomyces macro-operculatus SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 34(3 & 4): 652 (1981)
+null
 
 #### Original name
-Chytriomyces macro-operculatus var. macro-operculatus
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anthracothecium euthelium (Nyl.) Zahlbr. SPECIES
-=======
+# Anthracothecium euthelium (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sathrophilus vernalis Dragesco & Groliere, 1969 SPECIES
-=======
+# Sphenostomella vernalis (Dragesco & Groliere, 1969) Jankowski, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

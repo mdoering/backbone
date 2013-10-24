@@ -1,5 +1,4 @@
-Graphina incondita (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina incondita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pristiacantha Bütschli in Bronn, 1889 GENUS
-=======
+# Pristacantha Haeckel, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Bronn, Klass. Ordn. Tierreichs (n. ed. ), 1, no. 3, 1971.
+Rep. Voy. Challenger Exped. , Zool. , 18 (1), 765.
 
 #### Original name
 null

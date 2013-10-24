@@ -1,5 +1,4 @@
-Phoma umbonata Preuss SPECIES
-=======
+# Phoma umbonata Preuss SPECIES
 
 #### Status
 ACCEPTED

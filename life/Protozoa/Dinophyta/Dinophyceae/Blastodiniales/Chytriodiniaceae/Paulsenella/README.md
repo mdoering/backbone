@@ -1,5 +1,4 @@
-Paulsenella Chatton, 1920 GENUS
-=======
+# Paulsenella Chatton, 1920 GENUS
 
 #### Status
 ACCEPTED

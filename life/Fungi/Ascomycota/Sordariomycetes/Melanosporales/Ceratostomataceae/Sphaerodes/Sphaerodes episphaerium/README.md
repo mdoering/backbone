@@ -1,14 +1,13 @@
-Sphaerodes episphaericum (W. Phillips & Plowr.) Clem. SPECIES
-=======
+# Sphaerodes episphaerium (W. Phillips & Plowr.) Clem., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. fung. (Minneapolis) (1909)
 
 #### Original name
 Melanospora episphaeria W. Phillips & Plowr., 1881

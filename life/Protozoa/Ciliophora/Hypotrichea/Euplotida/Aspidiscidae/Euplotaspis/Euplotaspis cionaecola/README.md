@@ -1,5 +1,4 @@
-Euplotaspis cionaecola Chatton & Séguéla, 1936 SPECIES
-=======
+# Euplotaspis cionaecola Chatton & Séguéla, 1936 SPECIES
 
 #### Status
 ACCEPTED

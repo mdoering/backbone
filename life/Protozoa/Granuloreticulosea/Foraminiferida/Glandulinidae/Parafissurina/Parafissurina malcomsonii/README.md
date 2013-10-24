@@ -1,5 +1,4 @@
-Parafissurina malcomsonii (Wright) SPECIES
-=======
+# Parafissurina malcomsonii (Wright) SPECIES
 
 #### Status
 ACCEPTED

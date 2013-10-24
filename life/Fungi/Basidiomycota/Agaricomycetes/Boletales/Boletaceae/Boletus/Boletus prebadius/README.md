@@ -1,5 +1,4 @@
-Boletus prebadius Corner SPECIES
-=======
+# Boletus prebadius Corner SPECIES
 
 #### Status
 ACCEPTED

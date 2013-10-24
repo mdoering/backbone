@@ -1,5 +1,4 @@
-Aecidium schwenkiae Vienn.-Bourg. SPECIES
-=======
+# Aecidium schwenkiae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

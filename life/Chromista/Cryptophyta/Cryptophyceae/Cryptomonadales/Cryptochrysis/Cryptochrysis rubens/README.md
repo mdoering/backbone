@@ -1,5 +1,4 @@
-Cryptochrysis rubens SPECIES
-=======
+# Cryptochrysis rubens SPECIES
 
 #### Status
 ACCEPTED

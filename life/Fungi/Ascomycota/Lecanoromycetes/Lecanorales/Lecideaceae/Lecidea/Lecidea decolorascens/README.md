@@ -1,5 +1,4 @@
-Lecidea decolorascens Nyl. SPECIES
-=======
+# Lecidea decolorascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

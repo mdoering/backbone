@@ -1,5 +1,4 @@
-Clasterosporium lathyri Verpl. & Van den Broecke SPECIES
-=======
+# Clasterosporium lathyri Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

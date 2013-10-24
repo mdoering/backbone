@@ -1,5 +1,4 @@
-Hygrophorus tahquamenonensis A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus tahquamenonensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

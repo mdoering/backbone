@@ -1,5 +1,4 @@
-Xynophila stromatica Samson SPECIES
-=======
+# Xynophila stromatica Samson SPECIES
 
 #### Status
 DOUBTFUL

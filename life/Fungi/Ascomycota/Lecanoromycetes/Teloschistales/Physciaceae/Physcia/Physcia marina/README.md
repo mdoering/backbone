@@ -1,5 +1,4 @@
-Physcia marina var. marina VARIETY
-=======
+# Physcia marina (Wedd.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nesolechia punctum A. Massal. SPECIES
-=======
+# Phaeopyxis punctum (A. Massal.) Rambold, Triebel & Coppins, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sched. critic. 5: 96 (1856)
+in Rambold & Triebel, Notes R. bot. Gdn Edinb. 46(3): 384 (1990)
 
 #### Original name
 Nesolechia punctum A. Massal.

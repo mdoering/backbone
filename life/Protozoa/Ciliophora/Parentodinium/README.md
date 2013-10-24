@@ -1,5 +1,4 @@
-Parentodinium Thurston & Noirot-Timothee, 1973 GENUS
-=======
+# Parentodinium Thurston & Noirot-Timothee, 1973 GENUS
 
 #### Status
 ACCEPTED

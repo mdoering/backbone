@@ -1,5 +1,4 @@
-Botrytis tenera Pers. SPECIES
-=======
+# Botrytis tenera Pers. SPECIES
 
 #### Status
 ACCEPTED

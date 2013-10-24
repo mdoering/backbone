@@ -1,5 +1,4 @@
-Comesella Speg. GENUS
-=======
+# Comesella Speg. GENUS
 
 #### Status
 ACCEPTED

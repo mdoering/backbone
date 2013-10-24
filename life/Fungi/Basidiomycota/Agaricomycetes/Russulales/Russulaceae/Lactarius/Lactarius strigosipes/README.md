@@ -1,5 +1,4 @@
-Lactarius strigosipes Montoya & Band.-Muñoz SPECIES
-=======
+# Lactarius strigosipes Montoya & Band.-Muñoz SPECIES
 
 #### Status
 ACCEPTED

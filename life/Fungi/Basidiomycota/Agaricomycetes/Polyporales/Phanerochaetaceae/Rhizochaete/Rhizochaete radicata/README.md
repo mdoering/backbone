@@ -1,14 +1,13 @@
-Corticium radicatum Henn., 1895 SPECIES
-=======
+# Rhizochaete radicata (Henn.) Gresl., Nakasone & Rajchenb., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pflanzenw. Ost-Afrikas Nachbargebiete 54 (1895)
+Mycologia 96(2): 268 (2004)
 
 #### Original name
 Corticium radicatum Henn., 1895

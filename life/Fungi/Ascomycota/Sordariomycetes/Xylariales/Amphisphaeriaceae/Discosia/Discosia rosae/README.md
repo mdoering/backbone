@@ -1,5 +1,4 @@
-Discosia rosae Edward et al. {?} SPECIES
-=======
+# Discosia rosae Edward et al. {?} SPECIES
 
 #### Status
 ACCEPTED

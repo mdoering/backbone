@@ -1,5 +1,4 @@
-Graphis proserpens Vain. SPECIES
-=======
+# Graphis proserpens Vain. SPECIES
 
 #### Status
 ACCEPTED

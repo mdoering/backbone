@@ -1,17 +1,16 @@
-Helminthosporium fusiforme var. fusiforme VARIETY
-=======
+# Strossmayeria basitricha (Sacc.) Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 1: 13 (1837)
+British Cup Fungi & their Allies 73 (1960)
 
 #### Original name
-Helminthosporium fusiforme var. fusiforme
+Belonidium basitrichum Sacc., 1875
 
 ### Remarks
 null

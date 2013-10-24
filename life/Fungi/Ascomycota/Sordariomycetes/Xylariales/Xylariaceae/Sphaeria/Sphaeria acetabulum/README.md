@@ -1,5 +1,4 @@
-Sphaeria acetabulum Berk. SPECIES
-=======
+# Sphaeria acetabulum Berk. SPECIES
 
 #### Status
 ACCEPTED

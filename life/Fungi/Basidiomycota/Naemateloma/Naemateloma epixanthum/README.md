@@ -1,5 +1,4 @@
-Naemateloma epixanthum (Fr.) Kar. SPECIES
-=======
+# Naemateloma epixanthum (Fr.) Kar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dioicomyces myrmecophilus T. Majewski SPECIES
-=======
+# Dioicomyces myrmecophilus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

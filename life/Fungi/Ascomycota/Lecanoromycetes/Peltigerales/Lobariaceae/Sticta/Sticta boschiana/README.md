@@ -1,5 +1,4 @@
-Sticta boschiana Mont. & Bosch SPECIES
-=======
+# Sticta boschiana Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

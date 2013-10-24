@@ -1,5 +1,4 @@
-Chadefaudiomyces indicus Kamat, V.G. Rao, A.S. Patil & Ullasa, 1974 SPECIES
-=======
+# Chadefaudiomyces indicus Kamat, V.G. Rao, A.S. Patil & Ullasa, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta olympica R. Sprague SPECIES
-=======
+# Phyllosticta olympica R. Sprague SPECIES
 
 #### Status
 ACCEPTED

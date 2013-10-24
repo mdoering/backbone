@@ -1,5 +1,4 @@
-Megalospora stellenboschiana (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora stellenboschiana (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius nothomyrciae Singer SPECIES
-=======
+# Marasmius nothomyrciae Singer SPECIES
 
 #### Status
 ACCEPTED

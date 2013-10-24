@@ -1,14 +1,13 @@
-Clypeolella zizyphi (H.S. Yates) Hansf. SPECIES
-=======
+# Clypeolella ziziphi (H.S. Yates) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 160: 152 (1949)
 
 #### Original name
 Asterina ziziphi H.S. Yates

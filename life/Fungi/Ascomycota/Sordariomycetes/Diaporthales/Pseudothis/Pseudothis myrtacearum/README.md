@@ -1,5 +1,4 @@
-Pseudothis myrtacearum Viégas SPECIES
-=======
+# Pseudothis myrtacearum Viégas SPECIES
 
 #### Status
 ACCEPTED

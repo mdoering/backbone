@@ -1,5 +1,4 @@
-Puccinia pedatissima G. Cunn., 1923 SPECIES
-=======
+# Puccinia pedatissima G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

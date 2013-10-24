@@ -1,5 +1,4 @@
-Myxofusicoccum myricae Died. SPECIES
-=======
+# Myxofusicoccum myricae Died. SPECIES
 
 #### Status
 ACCEPTED

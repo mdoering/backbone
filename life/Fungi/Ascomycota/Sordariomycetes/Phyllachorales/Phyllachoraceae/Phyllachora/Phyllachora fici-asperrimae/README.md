@@ -1,17 +1,16 @@
-Phyllachora ficus-asperrimae Anahosur SPECIES
-=======
+# Phyllachora fici-asperrimae Anahosur, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 22(1-4): 167 (1969)
 
 #### Original name
-Phyllachora ficus-asperrimae Anahosur
+Phyllachora fici-asperrimae Anahosur, 1969
 
 ### Remarks
 null

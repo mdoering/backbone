@@ -1,5 +1,4 @@
-Colpidium steinii SPECIES
-=======
+# Colpidium steinii SPECIES
 
 #### Status
 ACCEPTED

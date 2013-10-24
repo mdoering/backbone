@@ -1,17 +1,16 @@
-Marasmius arachnoides Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius arachnoideus Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 10(no. 45): 299 (1868)
 
 #### Original name
-Marasmius arachnoides Berk. & M.A. Curtis
+Marasmius arachnoideus Berk. & M.A. Curtis
 
 ### Remarks
 null

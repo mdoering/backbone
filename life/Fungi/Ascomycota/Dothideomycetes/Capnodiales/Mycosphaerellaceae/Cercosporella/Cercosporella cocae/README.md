@@ -1,5 +1,4 @@
-Cercosporella cocae Speg. SPECIES
-=======
+# Cercosporella cocae Speg. SPECIES
 
 #### Status
 ACCEPTED

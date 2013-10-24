@@ -1,5 +1,4 @@
-Zythia aurantiaca (Peck) Sacc. SPECIES
-=======
+# Zythia aurantiaca (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peckiella xylophila (Peck) Sacc. SPECIES
-=======
+# Peckiella xylophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

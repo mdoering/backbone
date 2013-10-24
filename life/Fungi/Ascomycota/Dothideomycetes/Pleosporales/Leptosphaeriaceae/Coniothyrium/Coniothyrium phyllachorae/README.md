@@ -1,5 +1,4 @@
-Coniothyrium phyllachorae Maubl. SPECIES
-=======
+# Coniothyrium phyllachorae Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma salicina Sacc. SPECIES
-=======
+# Phoma salicina Sacc. SPECIES
 
 #### Status
 ACCEPTED

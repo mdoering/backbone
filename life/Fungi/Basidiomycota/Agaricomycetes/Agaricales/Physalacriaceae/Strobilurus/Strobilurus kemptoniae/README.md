@@ -1,17 +1,16 @@
-Strobilurus kemptonae V.L. Wells SPECIES
-=======
+# Strobilurus kemptoniae V.L. Wells SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 63(2): 371 (1971)
 
 #### Original name
-Strobilurus kemptonae V.L. Wells
+Strobilurus kemptoniae V.L. Wells
 
 ### Remarks
 null

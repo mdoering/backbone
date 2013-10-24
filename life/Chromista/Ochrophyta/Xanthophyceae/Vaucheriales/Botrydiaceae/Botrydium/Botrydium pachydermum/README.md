@@ -1,5 +1,4 @@
-Botrydium pachydermum Miller SPECIES
-=======
+# Botrydium pachydermum Miller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia asmarana Vain. SPECIES
-=======
+# Parmelia asmarana Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora schafeevii Tomin SPECIES
-=======
+# Lecanora schafeevii Tomin SPECIES
 
 #### Status
 ACCEPTED

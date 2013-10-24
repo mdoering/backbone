@@ -1,5 +1,4 @@
-Pocillaria hepatica (Berk.) Kuntze SPECIES
-=======
+# Pocillaria hepatica (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

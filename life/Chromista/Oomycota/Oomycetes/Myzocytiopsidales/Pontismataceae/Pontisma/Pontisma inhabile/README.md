@@ -1,14 +1,13 @@
-Pontisma inhabilis (H.E. Petersen) M.W. Dick SPECIES
-=======
+# Pontisma inhabile (H.E. Petersen) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 362 (2001)
 
 #### Original name
 Pleotrachelus inhabilis H.E. Petersen, 1905

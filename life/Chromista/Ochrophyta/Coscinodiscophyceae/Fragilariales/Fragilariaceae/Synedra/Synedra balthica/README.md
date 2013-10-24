@@ -1,5 +1,4 @@
-Synedra balthica Ehrenberg, 1832 SPECIES
-=======
+# Synedra balthica Ehrenberg, 1832 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum rubicundum Nees SPECIES
-=======
+# Sporotrichum rubicundum Nees SPECIES
 
 #### Status
 ACCEPTED

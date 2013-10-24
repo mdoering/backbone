@@ -1,5 +1,4 @@
-Petalotricha serrata Kofoid & Campbell, 1929 SPECIES
-=======
+# Petalotricha serrata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

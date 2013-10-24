@@ -1,5 +1,4 @@
-Deuterammina rotaliformis Heron-Allen & Earland, 1911 SPECIES
-=======
+# Deuterammina rotaliformis Heron-Allen & Earland, 1911 SPECIES
 
 #### Status
 ACCEPTED

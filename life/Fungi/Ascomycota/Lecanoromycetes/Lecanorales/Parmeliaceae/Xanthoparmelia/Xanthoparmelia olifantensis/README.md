@@ -1,5 +1,4 @@
-Xanthoparmelia olifantensis Hale SPECIES
-=======
+# Xanthoparmelia olifantensis Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora pirina (Bourdot & Galzin) Bourdot & Galzin SPECIES
-=======
+# Peniophora pirina (Bourdot & Galzin) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

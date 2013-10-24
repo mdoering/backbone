@@ -1,5 +1,4 @@
-Coscinodiscus oblongus SPECIES
-=======
+# Coscinodiscus oblongus SPECIES
 
 #### Status
 ACCEPTED

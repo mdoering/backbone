@@ -1,17 +1,16 @@
-Boninohydnum pini S. Ito & S. Imai, 1940 SPECIES
-=======
+# Gyrodontium sacchari (Spreng.) Hjortstam, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Sapporo nat. Hist. Soc. 16(3): 127 (1940)
+Mycotaxon 54: 186 (1995)
 
 #### Original name
-Boninohydnum pini S. Ito & S. Imai, 1940
+Hydnum sacchari Spreng., 1820
 
 ### Remarks
 null

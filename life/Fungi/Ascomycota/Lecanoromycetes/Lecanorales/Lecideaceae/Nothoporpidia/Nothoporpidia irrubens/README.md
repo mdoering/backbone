@@ -1,5 +1,4 @@
-Nothoporpidia irrubens (Zahlbr.) Hertel SPECIES
-=======
+# Nothoporpidia irrubens (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

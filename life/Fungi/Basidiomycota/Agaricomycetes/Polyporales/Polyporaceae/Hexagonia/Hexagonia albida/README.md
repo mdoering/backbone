@@ -1,5 +1,4 @@
-Hexagonia albida Lloyd SPECIES
-=======
+# Hexagonia albida Lloyd SPECIES
 
 #### Status
 ACCEPTED

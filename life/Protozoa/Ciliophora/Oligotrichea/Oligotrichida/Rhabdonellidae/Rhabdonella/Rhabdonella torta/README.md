@@ -1,5 +1,4 @@
-Rhabdonella torta Kofoid & Campbell, 1929 SPECIES
-=======
+# Rhabdonella torta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

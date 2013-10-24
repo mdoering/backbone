@@ -1,5 +1,4 @@
-Lecanora merrillii Vain. SPECIES
-=======
+# Lecanora merrillii Vain. SPECIES
 
 #### Status
 ACCEPTED

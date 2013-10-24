@@ -1,5 +1,4 @@
-Petrotoga mobilis Lien et al., 1998 SPECIES
-=======
+# Petrotoga mobilis Lien et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

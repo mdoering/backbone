@@ -1,5 +1,4 @@
-Trichosphaeria vagans Boud. SPECIES
-=======
+# Trichosphaeria vagans Boud. SPECIES
 
 #### Status
 ACCEPTED

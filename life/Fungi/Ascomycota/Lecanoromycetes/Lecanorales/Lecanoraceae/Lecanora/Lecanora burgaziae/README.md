@@ -1,5 +1,4 @@
-Lecanora burgaziae I. Martínez & Aragón SPECIES
-=======
+# Lecanora burgaziae I. Martínez & Aragón SPECIES
 
 #### Status
 ACCEPTED

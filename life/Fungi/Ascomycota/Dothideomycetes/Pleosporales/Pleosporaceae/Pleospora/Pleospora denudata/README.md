@@ -1,5 +1,4 @@
-Pleospora denudata Feltgen SPECIES
-=======
+# Pleospora denudata Feltgen SPECIES
 
 #### Status
 ACCEPTED

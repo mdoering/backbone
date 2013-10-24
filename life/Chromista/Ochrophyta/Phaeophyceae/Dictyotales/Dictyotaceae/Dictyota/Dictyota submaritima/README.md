@@ -1,5 +1,4 @@
-Dictyota submaritima Tanaka & Pham-Hoàng Hô SPECIES
-=======
+# Dictyota submaritima Tanaka & Pham-Hoàng Hô SPECIES
 
 #### Status
 ACCEPTED

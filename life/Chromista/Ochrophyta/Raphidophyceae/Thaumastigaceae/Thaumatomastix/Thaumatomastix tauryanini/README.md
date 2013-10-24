@@ -1,5 +1,4 @@
-Thaumatomastix tauryanini Mikrjukov, 2002 SPECIES
-=======
+# Thaumatomastix tauryanini Mikrjukov, 2002 SPECIES
 
 #### Status
 ACCEPTED

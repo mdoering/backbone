@@ -1,8 +1,7 @@
-Cicinnobolus karstenii Sacc. & Traverso SPECIES
-=======
+# Cicinobolus karstenii Sacc. & Traverso SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus karstenii Sacc. & Traverso
+Cicinobolus karstenii Sacc. & Traverso
 
 ### Remarks
 null

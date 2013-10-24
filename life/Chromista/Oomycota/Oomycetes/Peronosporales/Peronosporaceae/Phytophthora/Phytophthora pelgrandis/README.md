@@ -1,5 +1,4 @@
-Phytophthora ×pelgrandis W.F. Gerlach, Nirenberg & Gräfenhan SPECIES
-=======
+# Phytophthora ×pelgrandis W.F. Gerlach, Nirenberg & Gräfenhan SPECIES
 
 #### Status
 ACCEPTED

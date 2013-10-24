@@ -1,5 +1,4 @@
-Amblyospora weiseri SPECIES
-=======
+# Amblyospora weiseri SPECIES
 
 #### Status
 ACCEPTED

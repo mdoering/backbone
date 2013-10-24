@@ -1,5 +1,4 @@
-Gautieria clelandii G. Cunn. SPECIES
-=======
+# Gautieria clelandii G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

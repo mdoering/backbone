@@ -1,14 +1,13 @@
-Gyalecta leptospora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Ramonia leptospora (Müll. Arg.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 712 (1924)
+Folia geobot. phytotax. 8: 421 (1973)
 
 #### Original name
 Secoliga leptospora Müll. Arg.

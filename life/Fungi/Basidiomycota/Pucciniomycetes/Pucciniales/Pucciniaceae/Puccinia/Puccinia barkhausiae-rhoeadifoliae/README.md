@@ -1,5 +1,4 @@
-Puccinia barkhausiae-rhoeadifoliae Bubák, 1902 SPECIES
-=======
+# Puccinia barkhausiae-rhoeadifoliae Bubák, 1902 SPECIES
 
 #### Status
 ACCEPTED

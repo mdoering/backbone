@@ -1,5 +1,4 @@
-Agaricostilbum palmicola J.E. Wright, 1970 SPECIES
-=======
+# Agaricostilbum palmicola J.E. Wright, 1970 SPECIES
 
 #### Status
 ACCEPTED

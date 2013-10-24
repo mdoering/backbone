@@ -1,5 +1,4 @@
-Melanophyllum collariatum Velen. SPECIES
-=======
+# Melanophyllum collariatum Velen. SPECIES
 
 #### Status
 ACCEPTED

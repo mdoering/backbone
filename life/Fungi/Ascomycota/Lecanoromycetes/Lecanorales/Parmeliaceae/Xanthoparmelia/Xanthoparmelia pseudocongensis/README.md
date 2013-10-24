@@ -1,5 +1,4 @@
-Xanthoparmelia pseudocongensis Hale SPECIES
-=======
+# Xanthoparmelia pseudocongensis Hale SPECIES
 
 #### Status
 ACCEPTED

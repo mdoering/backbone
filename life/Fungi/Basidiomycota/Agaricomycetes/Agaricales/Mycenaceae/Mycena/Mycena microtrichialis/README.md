@@ -1,5 +1,4 @@
-Mycena microtrichialis Singer SPECIES
-=======
+# Mycena microtrichialis Singer SPECIES
 
 #### Status
 ACCEPTED

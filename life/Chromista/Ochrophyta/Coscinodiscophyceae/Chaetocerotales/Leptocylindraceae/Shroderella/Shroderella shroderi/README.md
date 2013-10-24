@@ -1,5 +1,4 @@
-Shroderella shroderi Pavillard SPECIES
-=======
+# Shroderella shroderi Pavillard SPECIES
 
 #### Status
 ACCEPTED

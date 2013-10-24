@@ -1,5 +1,4 @@
-Macbrideola argentea Nann.-Bremek. & Y. Yamam., 1983 SPECIES
-=======
+# Macbrideola argentea Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytidhysteron opuntiae (J.G. Br.) M.E. Barr SPECIES
-=======
+# Rhytidhysteron opuntiae (J.G. Br.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

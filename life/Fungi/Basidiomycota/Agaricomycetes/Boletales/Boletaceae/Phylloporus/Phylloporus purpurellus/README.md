@@ -1,5 +1,4 @@
-Phylloporus purpurellus Singer SPECIES
-=======
+# Phylloporus purpurellus Singer SPECIES
 
 #### Status
 ACCEPTED

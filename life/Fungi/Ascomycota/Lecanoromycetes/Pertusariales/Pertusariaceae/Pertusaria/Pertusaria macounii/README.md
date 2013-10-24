@@ -1,5 +1,4 @@
-Pertusaria macounii (I.M. Lamb) Dibben SPECIES
-=======
+# Pertusaria macounii (I.M. Lamb) Dibben SPECIES
 
 #### Status
 ACCEPTED

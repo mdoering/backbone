@@ -1,17 +1,16 @@
-Hafellnera Houmeau & Cl. Roux GENUS
-=======
+# Schaereria Körb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. 15: 142 (1984)
+Syst. lich. germ. (Breslau) 232 (1855)
 
 #### Original name
-Hafellnera Houmeau & Cl. Roux
+Schaereria Körb.
 
 ### Remarks
 null

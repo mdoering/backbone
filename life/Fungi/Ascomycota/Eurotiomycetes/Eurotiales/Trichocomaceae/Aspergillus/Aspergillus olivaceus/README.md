@@ -1,5 +1,4 @@
-Aspergillus olivaceus Delacr. SPECIES
-=======
+# Aspergillus olivaceus Delacr. SPECIES
 
 #### Status
 ACCEPTED

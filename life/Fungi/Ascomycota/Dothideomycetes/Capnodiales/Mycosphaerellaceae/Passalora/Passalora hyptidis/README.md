@@ -1,5 +1,4 @@
-Passalora hyptidis (Speg.) U. Braun SPECIES
-=======
+# Passalora hyptidis (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina jalapensis Murrill SPECIES
-=======
+# Omphalina jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

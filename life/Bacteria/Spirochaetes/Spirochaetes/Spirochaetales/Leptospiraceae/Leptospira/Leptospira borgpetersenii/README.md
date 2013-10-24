@@ -1,5 +1,4 @@
-Leptospira borgpetersenii Yasuda et al., 1987 SPECIES
-=======
+# Leptospira borgpetersenii Yasuda et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

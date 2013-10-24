@@ -1,5 +1,4 @@
-Collybia macida (Britzelm.) Sacc. SPECIES
-=======
+# Collybia macida (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius duracinellus Rob. Henry SPECIES
-=======
+# Cortinarius duracinellus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

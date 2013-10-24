@@ -1,5 +1,4 @@
-Delitschia sydowiana Kirschst. SPECIES
-=======
+# Delitschia sydowiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

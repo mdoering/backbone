@@ -1,5 +1,4 @@
-Volvariella villosovolva (Lloyd) Singer SPECIES
-=======
+# Volvariella villosovolva (Lloyd) Singer SPECIES
 
 #### Status
 ACCEPTED

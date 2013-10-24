@@ -1,14 +1,13 @@
-Verticillium sinense K.Q. Zhang, L. Cao & Z.Q. Liang, 1996 SPECIES
-=======
+# Haptocillium sinense (K.Q. Zhang, L. Cao & Z.Q. Liang) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 100(12): 1481 (1996)
+Nova Hedwigia 73(3-4): 287 (2001)
 
 #### Original name
 Verticillium sinense K.Q. Zhang, L. Cao & Z.Q. Liang, 1996

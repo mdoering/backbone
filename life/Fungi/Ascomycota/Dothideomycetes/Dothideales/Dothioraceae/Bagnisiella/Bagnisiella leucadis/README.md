@@ -1,5 +1,4 @@
-Bagnisiella leucadis M.S. Patil & S.D. Patil SPECIES
-=======
+# Bagnisiella leucadis M.S. Patil & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

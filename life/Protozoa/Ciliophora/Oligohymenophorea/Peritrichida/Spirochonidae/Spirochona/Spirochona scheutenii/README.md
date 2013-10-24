@@ -1,5 +1,4 @@
-Spirochona scheutenii Kent, sensu, 1881 SPECIES
-=======
+# Spirochona scheutenii Kent, sensu, 1881 SPECIES
 
 #### Status
 ACCEPTED

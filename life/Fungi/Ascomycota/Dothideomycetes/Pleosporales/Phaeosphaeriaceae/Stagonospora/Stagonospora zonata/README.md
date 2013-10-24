@@ -1,5 +1,4 @@
-Stagonospora zonata Davis SPECIES
-=======
+# Stagonospora zonata Davis SPECIES
 
 #### Status
 ACCEPTED

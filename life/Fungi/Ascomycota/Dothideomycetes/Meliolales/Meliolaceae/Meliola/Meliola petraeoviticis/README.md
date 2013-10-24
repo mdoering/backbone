@@ -1,5 +1,4 @@
-Meliola petraeoviticis Deighton SPECIES
-=======
+# Meliola petraeoviticis Deighton SPECIES
 
 #### Status
 ACCEPTED

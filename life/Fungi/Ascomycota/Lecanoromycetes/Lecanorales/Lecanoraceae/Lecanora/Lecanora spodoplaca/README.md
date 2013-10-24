@@ -1,5 +1,4 @@
-Lecanora spodoplaca Nyl. SPECIES
-=======
+# Lecanora spodoplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

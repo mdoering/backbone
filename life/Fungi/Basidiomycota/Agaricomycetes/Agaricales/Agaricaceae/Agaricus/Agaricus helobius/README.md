@@ -1,5 +1,4 @@
-Agaricus helobius Kalchbr. SPECIES
-=======
+# Agaricus helobius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictosphaeria hoffmannii Tul. & C. Tul. SPECIES
-=======
+# Stictosphaeria hoffmannii Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

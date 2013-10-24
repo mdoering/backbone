@@ -1,5 +1,4 @@
-Tricholoma silvaticum Quél. SPECIES
-=======
+# Tricholoma silvaticum Quél. SPECIES
 
 #### Status
 ACCEPTED

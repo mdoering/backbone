@@ -1,5 +1,4 @@
-Rhodonia Niemelä GENUS
-=======
+# Rhodonia Niemelä GENUS
 
 #### Status
 ACCEPTED

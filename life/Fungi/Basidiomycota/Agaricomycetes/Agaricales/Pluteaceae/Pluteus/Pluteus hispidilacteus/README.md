@@ -1,5 +1,4 @@
-Pluteus hispidilacteus E. Horak, 2008 SPECIES
-=======
+# Pluteus hispidilacteus E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

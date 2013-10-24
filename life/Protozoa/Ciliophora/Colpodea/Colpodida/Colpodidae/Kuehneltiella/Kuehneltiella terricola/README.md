@@ -1,5 +1,4 @@
-Kuehneltiella terricola Foissner, 1990 SPECIES
-=======
+# Kuehneltiella terricola Foissner, 1990 SPECIES
 
 #### Status
 ACCEPTED

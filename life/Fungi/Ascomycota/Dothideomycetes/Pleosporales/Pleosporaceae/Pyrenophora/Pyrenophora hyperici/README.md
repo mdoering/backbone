@@ -1,5 +1,4 @@
-Pyrenophora hyperici Gucevic SPECIES
-=======
+# Pyrenophora hyperici Gucevic SPECIES
 
 #### Status
 ACCEPTED

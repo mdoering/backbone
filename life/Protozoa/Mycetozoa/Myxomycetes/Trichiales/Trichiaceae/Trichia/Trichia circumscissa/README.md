@@ -1,5 +1,4 @@
-Trichia circumscissa Schrad. SPECIES
-=======
+# Trichia circumscissa Schrad. SPECIES
 
 #### Status
 ACCEPTED

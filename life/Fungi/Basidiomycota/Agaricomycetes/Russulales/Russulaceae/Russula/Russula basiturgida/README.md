@@ -1,5 +1,4 @@
-Russula basiturgida Buyck SPECIES
-=======
+# Russula basiturgida Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma arculatum (Bres.) Kuntze SPECIES
-=======
+# Scindalma arculatum (Bres.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

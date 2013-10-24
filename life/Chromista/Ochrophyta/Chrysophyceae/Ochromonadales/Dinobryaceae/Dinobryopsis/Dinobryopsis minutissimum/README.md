@@ -1,8 +1,7 @@
-Pseudokephrion minutissimum SPECIES
-=======
+# Dinobryopsis minutissimum Conrad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

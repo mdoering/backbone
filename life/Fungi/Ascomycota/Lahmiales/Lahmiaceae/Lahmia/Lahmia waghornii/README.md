@@ -1,5 +1,4 @@
-Lahmia waghornii Rehm SPECIES
-=======
+# Lahmia waghornii Rehm SPECIES
 
 #### Status
 ACCEPTED

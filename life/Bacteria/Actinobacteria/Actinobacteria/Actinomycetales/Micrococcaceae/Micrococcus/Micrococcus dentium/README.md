@@ -1,5 +1,4 @@
-Micrococcus dentium SPECIES
-=======
+# Micrococcus dentium SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auriscalpium barbatum Maas Geest., 1978 SPECIES
-=======
+# Auriscalpium barbatum Maas Geest., 1978 SPECIES
 
 #### Status
 ACCEPTED

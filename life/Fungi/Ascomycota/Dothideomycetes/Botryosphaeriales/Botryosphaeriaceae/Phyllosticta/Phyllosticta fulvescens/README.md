@@ -1,5 +1,4 @@
-Phyllosticta fulvescens Died. SPECIES
-=======
+# Phyllosticta fulvescens Died. SPECIES
 
 #### Status
 ACCEPTED

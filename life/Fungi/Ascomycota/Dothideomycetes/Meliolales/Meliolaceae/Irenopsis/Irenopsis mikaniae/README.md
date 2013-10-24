@@ -1,5 +1,4 @@
-Irenopsis mikaniae Hansf. & Deighton SPECIES
-=======
+# Irenopsis mikaniae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsella abietis (Rostr. ex Lind) Munk SPECIES
-=======
+# Valsella abietis (Rostr. ex Lind) Munk SPECIES
 
 #### Status
 ACCEPTED

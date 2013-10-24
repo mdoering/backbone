@@ -1,5 +1,4 @@
-Amanitopsis farinacea Sacc. SPECIES
-=======
+# Amanitopsis farinacea Sacc. SPECIES
 
 #### Status
 ACCEPTED

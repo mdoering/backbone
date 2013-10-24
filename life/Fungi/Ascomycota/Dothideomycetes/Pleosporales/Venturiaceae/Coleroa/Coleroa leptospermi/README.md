@@ -1,5 +1,4 @@
-Coleroa leptospermi Hansf. SPECIES
-=======
+# Coleroa leptospermi Hansf. SPECIES
 
 #### Status
 ACCEPTED

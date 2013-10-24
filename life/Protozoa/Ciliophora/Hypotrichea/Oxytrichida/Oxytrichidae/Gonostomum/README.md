@@ -1,5 +1,4 @@
-Gonostomum Sterki, 1878 GENUS
-=======
+# Gonostomum Sterki, 1878 GENUS
 
 #### Status
 ACCEPTED

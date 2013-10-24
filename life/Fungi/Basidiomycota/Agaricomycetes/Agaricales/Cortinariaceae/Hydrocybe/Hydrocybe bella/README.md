@@ -1,5 +1,4 @@
-Hydrocybe bella (Massee) Murrill SPECIES
-=======
+# Hydrocybe bella (Massee) Murrill SPECIES
 
 #### Status
 ACCEPTED

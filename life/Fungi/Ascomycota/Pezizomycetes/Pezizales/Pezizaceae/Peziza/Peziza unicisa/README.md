@@ -1,5 +1,4 @@
-Peziza unicisa Peck SPECIES
-=======
+# Peziza unicisa Peck SPECIES
 
 #### Status
 ACCEPTED

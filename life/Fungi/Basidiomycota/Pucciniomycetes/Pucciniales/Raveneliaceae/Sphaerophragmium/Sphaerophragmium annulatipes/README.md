@@ -1,5 +1,4 @@
-Sphaerophragmium annulatipes Eboh SPECIES
-=======
+# Sphaerophragmium annulatipes Eboh SPECIES
 
 #### Status
 ACCEPTED

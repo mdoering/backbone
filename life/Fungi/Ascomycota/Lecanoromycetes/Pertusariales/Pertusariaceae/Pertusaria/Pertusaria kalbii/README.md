@@ -1,5 +1,4 @@
-Pertusaria kalbii A.W. Archer & Messuti SPECIES
-=======
+# Pertusaria kalbii A.W. Archer & Messuti SPECIES
 
 #### Status
 ACCEPTED

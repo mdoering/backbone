@@ -1,5 +1,4 @@
-Puccinia nyasaensis Cummins SPECIES
-=======
+# Puccinia nyasaensis Cummins SPECIES
 
 #### Status
 ACCEPTED

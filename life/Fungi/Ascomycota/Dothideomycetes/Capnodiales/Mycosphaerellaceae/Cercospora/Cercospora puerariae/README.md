@@ -1,5 +1,4 @@
-Cercospora puerariae Syd. & P. Syd. SPECIES
-=======
+# Cercospora puerariae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

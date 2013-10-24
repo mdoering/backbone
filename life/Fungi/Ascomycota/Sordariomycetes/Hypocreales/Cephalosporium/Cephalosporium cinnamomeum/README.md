@@ -1,5 +1,4 @@
-Cephalosporium cinnamomeum Linn SPECIES
-=======
+# Cephalosporium cinnamomeum Linn SPECIES
 
 #### Status
 ACCEPTED

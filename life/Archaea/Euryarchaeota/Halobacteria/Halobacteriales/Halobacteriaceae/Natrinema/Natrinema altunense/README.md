@@ -1,5 +1,4 @@
-Natrinema altunense Xu et al., 2005 SPECIES
-=======
+# Natrinema altunense Xu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

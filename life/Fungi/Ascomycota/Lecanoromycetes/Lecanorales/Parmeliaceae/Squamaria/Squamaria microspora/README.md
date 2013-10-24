@@ -1,5 +1,4 @@
-Squamaria microspora (Arnold) H. Olivier SPECIES
-=======
+# Squamaria microspora (Arnold) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

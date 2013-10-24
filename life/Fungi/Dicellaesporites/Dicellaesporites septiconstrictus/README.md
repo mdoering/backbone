@@ -1,17 +1,16 @@
-Dicellaesporites septoconstrictus Kalgutkar SPECIES
-=======
+# Dicellaesporites septiconstrictus Kalgutkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. geol. Surv. Can. 444: 72 + pl. 4. 1, fig. 18 (1993)
 
 #### Original name
-Dicellaesporites septoconstrictus Kalgutkar
+Dicellaesporites septiconstrictus Kalgutkar
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Triblidium alpinum (Hazsl.) Rehm SPECIES
-=======
+# Triblidium alpinum (Hazsl.) Rehm SPECIES
 
 #### Status
 ACCEPTED

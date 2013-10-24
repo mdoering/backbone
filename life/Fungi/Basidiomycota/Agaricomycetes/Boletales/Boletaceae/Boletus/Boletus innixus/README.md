@@ -1,5 +1,4 @@
-Boletus innixus Frost SPECIES
-=======
+# Boletus innixus Frost SPECIES
 
 #### Status
 ACCEPTED

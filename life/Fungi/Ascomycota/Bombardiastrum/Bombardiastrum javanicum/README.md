@@ -1,5 +1,4 @@
-Bombardiastrum javanicum Syd. {?} SPECIES
-=======
+# Bombardiastrum javanicum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubiphytes Maslov GENUS
-=======
+# Tubiphytes Maslov GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mycena dissimulabilis SPECIES
-=======
+# Mycena megaspora Kauffman, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 17: 182 (1933)
 
 #### Original name
-Mycena dissimulabilis
+Mycena megaspora Kauffman, 1933
 
 ### Remarks
 null

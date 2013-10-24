@@ -1,5 +1,4 @@
-Peziza vernalis Schumach. SPECIES
-=======
+# Peziza vernalis Schumach. SPECIES
 
 #### Status
 ACCEPTED

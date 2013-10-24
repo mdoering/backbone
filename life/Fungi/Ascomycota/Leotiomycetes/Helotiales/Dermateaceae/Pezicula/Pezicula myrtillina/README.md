@@ -1,5 +1,4 @@
-Pezicula myrtillina P. Karst., 1871 SPECIES
-=======
+# Pezicula myrtillina P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

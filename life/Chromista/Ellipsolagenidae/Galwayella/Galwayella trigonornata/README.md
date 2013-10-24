@@ -1,5 +1,4 @@
-Galwayella trigonornata Albani & Yassini, 1989 SPECIES
-=======
+# Galwayella trigonornata Albani & Yassini, 1989 SPECIES
 
 #### Status
 ACCEPTED

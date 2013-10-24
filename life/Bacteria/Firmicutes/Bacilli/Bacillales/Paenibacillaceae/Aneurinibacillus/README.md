@@ -1,5 +1,4 @@
-Aneurinibacillus Shida, Takagi, Kakowaki & Komagata, 1996 GENUS
-=======
+# Aneurinibacillus Shida, Takagi, Kakowaki & Komagata, 1996 GENUS
 
 #### Status
 ACCEPTED

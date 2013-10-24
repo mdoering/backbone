@@ -1,5 +1,4 @@
-Meliola winteri var. winteri VARIETY
-=======
+# Meliola winteri Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 26(1): 20 (1888)
 
 #### Original name
-Meliola winteri var. winteri
+Meliola winteri Speg.
 
 ### Remarks
 null

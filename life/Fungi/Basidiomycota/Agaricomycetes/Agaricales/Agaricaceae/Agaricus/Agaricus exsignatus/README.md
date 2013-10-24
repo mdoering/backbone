@@ -1,5 +1,4 @@
-Agaricus exsignatus Britzelm. SPECIES
-=======
+# Agaricus exsignatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

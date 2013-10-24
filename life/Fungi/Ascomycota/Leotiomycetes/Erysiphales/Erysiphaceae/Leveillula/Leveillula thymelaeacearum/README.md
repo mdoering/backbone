@@ -1,5 +1,4 @@
-Leveillula thymelaeacearum f. diarthronis (Jacz.) Golovin FORM
-=======
+# Leveillula thymelaeacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula taurica f. diarthronis Jacz.
+Leveillula thymelaeacearum Golovin
 
 ### Remarks
 null

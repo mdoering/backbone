@@ -1,5 +1,4 @@
-Verrucaria arctica Lynge SPECIES
-=======
+# Verrucaria arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

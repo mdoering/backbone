@@ -1,5 +1,4 @@
-Dicaeoma gibberosum (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma gibberosum (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

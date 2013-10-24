@@ -1,5 +1,4 @@
-Hygrophorus fulvosiformis (Murrill) Murrill SPECIES
-=======
+# Hygrophorus fulvosiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

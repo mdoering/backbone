@@ -1,5 +1,4 @@
-Sphaeria plana Fée SPECIES
-=======
+# Sphaeria plana Fée SPECIES
 
 #### Status
 ACCEPTED

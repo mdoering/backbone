@@ -1,5 +1,4 @@
-Marasmius martinii Singer SPECIES
-=======
+# Marasmius martinii Singer SPECIES
 
 #### Status
 ACCEPTED

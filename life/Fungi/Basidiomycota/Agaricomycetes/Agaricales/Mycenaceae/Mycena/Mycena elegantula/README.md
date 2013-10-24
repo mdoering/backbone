@@ -1,5 +1,4 @@
-Mycena elegantula var. elegantula VARIETY
-=======
+# Mycena elegantula Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 22: 199 (1895)
 
 #### Original name
-Mycena elegantula var. elegantula
+Mycena elegantula Peck
 
 ### Remarks
 null

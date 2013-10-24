@@ -1,5 +1,4 @@
-Cyathus costatus Lloyd ex H.J. Brodie SPECIES
-=======
+# Cyathus costatus Lloyd ex H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

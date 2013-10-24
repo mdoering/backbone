@@ -1,5 +1,4 @@
-Acarospora sanguinescens Zahlbr. SPECIES
-=======
+# Acarospora sanguinescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

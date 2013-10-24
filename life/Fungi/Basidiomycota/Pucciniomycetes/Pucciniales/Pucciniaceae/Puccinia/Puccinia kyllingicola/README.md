@@ -1,5 +1,4 @@
-Puccinia kyllingicola Doidge SPECIES
-=======
+# Puccinia kyllingicola Doidge SPECIES
 
 #### Status
 ACCEPTED

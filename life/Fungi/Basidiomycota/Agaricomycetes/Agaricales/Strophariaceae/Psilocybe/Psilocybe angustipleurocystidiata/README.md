@@ -1,5 +1,4 @@
-Psilocybe angustipleurocystidiata Guzmán SPECIES
-=======
+# Psilocybe angustipleurocystidiata Guzmán SPECIES
 
 #### Status
 ACCEPTED

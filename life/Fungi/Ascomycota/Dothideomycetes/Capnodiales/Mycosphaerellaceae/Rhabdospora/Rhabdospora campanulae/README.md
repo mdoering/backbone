@@ -1,5 +1,4 @@
-Rhabdospora campanulae Fautrey SPECIES
-=======
+# Rhabdospora campanulae Fautrey SPECIES
 
 #### Status
 ACCEPTED

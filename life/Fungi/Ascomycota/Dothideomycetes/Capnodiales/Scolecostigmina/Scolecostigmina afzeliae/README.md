@@ -1,5 +1,4 @@
-Scolecostigmina afzeliae (M.B. Ellis) U. Braun SPECIES
-=======
+# Scolecostigmina afzeliae (M.B. Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

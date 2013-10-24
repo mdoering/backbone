@@ -1,17 +1,16 @@
-Geaster glaucescens Speg. SPECIES
-=======
+# Geastrum glaucescens Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 23: 14 (1912)
 
 #### Original name
-Geaster glaucescens Speg.
+Geastrum glaucescens Speg.
 
 ### Remarks
 null

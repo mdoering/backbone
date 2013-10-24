@@ -1,5 +1,4 @@
-Porphyromonas crevioricanis Hirasawa & Takada, 1994 SPECIES
-=======
+# Porphyromonas crevioricanis Hirasawa & Takada, 1994 SPECIES
 
 #### Status
 ACCEPTED

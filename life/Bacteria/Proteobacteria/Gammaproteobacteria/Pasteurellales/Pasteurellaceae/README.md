@@ -1,5 +1,4 @@
-Pasteurellaceae FAMILY
-=======
+# Pasteurellaceae FAMILY
 
 #### Status
 ACCEPTED

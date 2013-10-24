@@ -1,5 +1,4 @@
-Anaerophaga thermohalophila Denger et al., 2002 SPECIES
-=======
+# Anaerophaga thermohalophila Denger et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

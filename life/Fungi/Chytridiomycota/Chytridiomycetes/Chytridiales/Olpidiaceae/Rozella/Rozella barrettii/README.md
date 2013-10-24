@@ -1,5 +1,4 @@
-Rozella barrettii Karling SPECIES
-=======
+# Rozella barrettii Karling SPECIES
 
 #### Status
 ACCEPTED

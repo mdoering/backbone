@@ -1,5 +1,4 @@
-Stigmatomyces platystoma Thaxt. SPECIES
-=======
+# Stigmatomyces platystoma Thaxt. SPECIES
 
 #### Status
 ACCEPTED

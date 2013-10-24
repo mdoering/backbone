@@ -1,5 +1,4 @@
-Physcia africana Müll. Arg. SPECIES
-=======
+# Physcia africana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

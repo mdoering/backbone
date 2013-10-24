@@ -1,5 +1,4 @@
-Sphaerella boquilae Speg. SPECIES
-=======
+# Sphaerella boquilae Speg. SPECIES
 
 #### Status
 ACCEPTED

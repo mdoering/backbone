@@ -1,5 +1,4 @@
-Rhizophydium gelatinosum Lind SPECIES
-=======
+# Rhizophydium gelatinosum Lind SPECIES
 
 #### Status
 ACCEPTED

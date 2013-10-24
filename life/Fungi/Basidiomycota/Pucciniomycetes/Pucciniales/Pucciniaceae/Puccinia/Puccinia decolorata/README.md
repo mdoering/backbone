@@ -1,5 +1,4 @@
-Puccinia decolorata Arthur & Holw. SPECIES
-=======
+# Puccinia decolorata Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

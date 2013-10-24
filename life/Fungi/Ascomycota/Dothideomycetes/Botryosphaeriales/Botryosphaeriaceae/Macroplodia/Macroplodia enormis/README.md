@@ -1,5 +1,4 @@
-Macroplodia enormis (Sacc.) Kuntze SPECIES
-=======
+# Macroplodia enormis (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

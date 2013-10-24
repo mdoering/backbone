@@ -1,5 +1,4 @@
-Epistigme parmulariicola Bat., R. Garnier & J.L. Bezerra SPECIES
-=======
+# Epistigme parmulariicola Bat., R. Garnier & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

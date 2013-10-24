@@ -1,5 +1,4 @@
-Lactarius kivuensis Verbeken SPECIES
-=======
+# Lactarius kivuensis Verbeken SPECIES
 
 #### Status
 ACCEPTED

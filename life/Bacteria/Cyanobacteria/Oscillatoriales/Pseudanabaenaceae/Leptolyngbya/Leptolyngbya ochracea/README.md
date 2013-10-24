@@ -1,5 +1,4 @@
-Leptolyngbya ochracea (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Leptolyngbya ochracea (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

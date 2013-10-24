@@ -1,5 +1,4 @@
-Mycosphaerella actaeae (Rostr.) Tomilin SPECIES
-=======
+# Mycosphaerella actaeae (Rostr.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

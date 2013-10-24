@@ -1,8 +1,7 @@
-Dasyscypha atropila Boud. SPECIES
-=======
+# Dasyscyphus atropila Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha atropila Boud.
+Dasyscyphus atropila Boud.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cystolepiota brunneotingens Singer SPECIES
-=======
+# Cystolepiota brunneotingens Singer SPECIES
 
 #### Status
 ACCEPTED

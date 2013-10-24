@@ -1,5 +1,4 @@
-Arecophila K.D. Hyde GENUS
-=======
+# Arecophila K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

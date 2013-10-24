@@ -1,5 +1,4 @@
-Lactifluus subinsulsus (Peck) Kuntze SPECIES
-=======
+# Lactifluus subinsulsus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

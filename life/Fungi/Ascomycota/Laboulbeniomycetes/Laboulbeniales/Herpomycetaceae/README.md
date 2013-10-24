@@ -1,5 +1,4 @@
-Herpomycetaceae I.I. Tav. FAMILY
-=======
+# Herpomycetaceae I.I. Tav. FAMILY
 
 #### Status
 ACCEPTED

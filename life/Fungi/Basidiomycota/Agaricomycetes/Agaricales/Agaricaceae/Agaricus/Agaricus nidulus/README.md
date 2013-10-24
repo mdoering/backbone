@@ -1,5 +1,4 @@
-Agaricus nidulus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus nidulus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hebeloma tomentosum (M.M. Moser) Gröger & Zschiesch., 1981 SPECIES
-=======
+# Hebeloma hetieri Boud., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Mykol. 47(2): 203 (1981)
+Bull. Soc. mycol. Fr. 33: 8 (1917)
 
 #### Original name
-Hebeloma sacchariolens var. tomentosum M.M. Moser, 1970
+Hebeloma hetieri Boud., 1917
 
 ### Remarks
 null

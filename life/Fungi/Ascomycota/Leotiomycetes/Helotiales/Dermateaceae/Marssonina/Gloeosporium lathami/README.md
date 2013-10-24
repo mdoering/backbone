@@ -1,5 +1,4 @@
-Gloeosporium lathami Dearn. SPECIES
-=======
+# Gloeosporium lathami Dearn. SPECIES
 
 #### Status
 ACCEPTED

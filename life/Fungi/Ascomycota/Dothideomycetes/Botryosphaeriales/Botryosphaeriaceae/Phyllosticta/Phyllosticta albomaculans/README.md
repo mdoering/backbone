@@ -1,5 +1,4 @@
-Phyllosticta albomaculans Kabát & Bubák SPECIES
-=======
+# Phyllosticta albomaculans Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

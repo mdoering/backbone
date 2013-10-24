@@ -1,5 +1,4 @@
-Eimeria dingleyi Davies, 1978 SPECIES
-=======
+# Eimeria dingleyi Davies, 1978 SPECIES
 
 #### Status
 ACCEPTED

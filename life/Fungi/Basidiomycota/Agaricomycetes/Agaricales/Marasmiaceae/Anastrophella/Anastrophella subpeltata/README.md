@@ -1,14 +1,13 @@
-Physalacria subpeltata Redhead, 1979 SPECIES
-=======
+# Anastrophella subpeltata (Redhead) E. Horak & Desjardin, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 10(1): 46 (1979)
+Aust. Syst. Bot. 7(2): 162 (1994)
 
 #### Original name
 Physalacria subpeltata Redhead, 1979

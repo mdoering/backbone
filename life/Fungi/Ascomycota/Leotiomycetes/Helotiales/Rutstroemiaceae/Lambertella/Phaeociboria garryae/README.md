@@ -1,5 +1,4 @@
-Phaeociboria garryae E.K. Cash SPECIES
-=======
+# Phaeociboria garryae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia macquariensis C.W. Dodge SPECIES
-=======
+# Gasparrinia macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

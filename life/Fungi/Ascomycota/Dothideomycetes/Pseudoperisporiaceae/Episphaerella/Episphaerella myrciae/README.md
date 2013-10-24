@@ -1,5 +1,4 @@
-Episphaerella myrciae Viégas SPECIES
-=======
+# Episphaerella myrciae Viégas SPECIES
 
 #### Status
 ACCEPTED

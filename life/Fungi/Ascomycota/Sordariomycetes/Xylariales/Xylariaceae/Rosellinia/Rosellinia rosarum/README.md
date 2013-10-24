@@ -1,14 +1,13 @@
-Coniomela rosarum (Niessl) Kirschst., 1934 SPECIES
-=======
+# Rosellinia rosarum Niessl, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18(4): 306 (1934)
+Beitr. Kenntn. Pilze Mitteleur. , Arbeitsgemeinschaft Mykologie Ostwürttemberg 32 (1872)
 
 #### Original name
 Rosellinia rosarum Niessl, 1872

@@ -1,5 +1,4 @@
-Clavaria phyllophila McAlpine SPECIES
-=======
+# Clavaria phyllophila McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta debauxii (Roum.) Moesz SPECIES
-=======
+# Phyllosticta debauxii (Roum.) Moesz SPECIES
 
 #### Status
 ACCEPTED

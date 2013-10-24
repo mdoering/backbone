@@ -1,5 +1,4 @@
-Arcuospathidium vermiforme Foissner, 1984 SPECIES
-=======
+# Arcuospathidium vermiforme Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

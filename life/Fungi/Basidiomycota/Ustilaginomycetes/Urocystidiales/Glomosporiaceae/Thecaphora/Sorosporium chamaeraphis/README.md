@@ -1,5 +1,4 @@
-Sorosporium chamaeraphis Syd. SPECIES
-=======
+# Sorosporium chamaeraphis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia tyleri C.W. Dodge SPECIES
-=======
+# Blastenia tyleri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

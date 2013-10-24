@@ -1,5 +1,4 @@
-Meridianelia GENUS
-=======
+# Meridianelia GENUS
 
 #### Status
 ACCEPTED

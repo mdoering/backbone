@@ -1,5 +1,4 @@
-Cercosporidium dioscoreae S. Singh SPECIES
-=======
+# Cercosporidium dioscoreae S. Singh SPECIES
 
 #### Status
 ACCEPTED

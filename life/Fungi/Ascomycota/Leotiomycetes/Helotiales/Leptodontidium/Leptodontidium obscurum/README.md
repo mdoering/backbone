@@ -1,14 +1,13 @@
-Leptodontium obscurum de Hoog, 1977 SPECIES
-=======
+# Leptodontidium obscurum (de Hoog) de Hoog, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 15: 54 (1977)
+Taxon 28(4): 348 (1979)
 
 #### Original name
 Leptodontium obscurum de Hoog, 1977

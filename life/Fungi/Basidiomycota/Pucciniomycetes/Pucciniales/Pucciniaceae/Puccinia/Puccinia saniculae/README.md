@@ -1,17 +1,16 @@
-Aecidium saniculae Cooke, 1864 SPECIES
-=======
+# Puccinia saniculae Grev., 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 2: 39 (1864)
+Fl. Edin. 431 (1824)
 
 #### Original name
-Aecidium saniculae Cooke, 1864
+Puccinia saniculae Grev., 1824
 
 ### Remarks
 null

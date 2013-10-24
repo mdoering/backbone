@@ -1,5 +1,4 @@
-Helotium sarmentorum De Not. SPECIES
-=======
+# Helotium sarmentorum De Not. SPECIES
 
 #### Status
 ACCEPTED

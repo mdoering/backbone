@@ -1,5 +1,4 @@
-Puccinia cypericola S. Ahmad SPECIES
-=======
+# Puccinia cypericola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

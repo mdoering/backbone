@@ -1,5 +1,4 @@
-Laminaria brasiliensis A.B. Joly & E.C.Oliveira SPECIES
-=======
+# Laminaria brasiliensis A.B. Joly & E.C.Oliveira SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Entomophthora forficulae Giard, 1889 SPECIES
-=======
+# Zoophthora forficulae (Giard) A. Batko, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Scientifique de la France et de la Belgique 20: 211 (1889)
+Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 12: 404 (1964)
 
 #### Original name
 Entomophthora forficulae Giard, 1889

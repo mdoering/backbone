@@ -1,5 +1,4 @@
-Amphisphaeria phyllostachydis Hara SPECIES
-=======
+# Amphisphaeria phyllostachydis Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Haploporus ljubarskyi (Pilát) Bondartsev & Singer ex Bondartsev, 1953 SPECIES
-=======
+# Trametes ljubarskyi Pilát, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

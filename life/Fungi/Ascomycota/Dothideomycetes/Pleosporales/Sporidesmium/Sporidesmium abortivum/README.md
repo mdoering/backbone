@@ -1,5 +1,4 @@
-Sporidesmium abortivum Matsush. SPECIES
-=======
+# Sporidesmium abortivum Matsush. SPECIES
 
 #### Status
 ACCEPTED

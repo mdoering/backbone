@@ -1,5 +1,4 @@
-Agaricus propinquus Pers. SPECIES
-=======
+# Agaricus propinquus Pers. SPECIES
 
 #### Status
 ACCEPTED

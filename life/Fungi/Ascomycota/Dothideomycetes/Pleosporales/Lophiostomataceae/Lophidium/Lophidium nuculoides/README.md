@@ -1,5 +1,4 @@
-Lophidium nuculoides Sacc. SPECIES
-=======
+# Lophidium nuculoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

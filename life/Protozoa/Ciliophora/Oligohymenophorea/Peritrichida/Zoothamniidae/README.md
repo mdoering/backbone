@@ -1,5 +1,4 @@
-Zoothamniidae Sommer, 1951 FAMILY
-=======
+# Zoothamniidae Sommer, 1951 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia tristachyae Doidge SPECIES
-=======
+# Puccinia tristachyae Doidge SPECIES
 
 #### Status
 ACCEPTED

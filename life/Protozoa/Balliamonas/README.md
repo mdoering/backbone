@@ -1,5 +1,4 @@
-Balliamonas Skvortzov, 1967 GENUS
-=======
+# Balliamonas Skvortzov, 1967 GENUS
 
 #### Status
 ACCEPTED

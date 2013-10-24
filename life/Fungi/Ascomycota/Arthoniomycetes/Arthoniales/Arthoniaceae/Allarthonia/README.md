@@ -1,5 +1,4 @@
-Allarthonia GENUS
-=======
+# Allarthonia GENUS
 
 #### Status
 ACCEPTED

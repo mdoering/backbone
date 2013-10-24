@@ -1,5 +1,4 @@
-Hymenula sclerotii P. Crouan & H. Crouan SPECIES
-=======
+# Hymenula sclerotii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

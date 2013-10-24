@@ -1,5 +1,4 @@
-Navicella congregata (Harkn.) Kuntze SPECIES
-=======
+# Navicella congregata (Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

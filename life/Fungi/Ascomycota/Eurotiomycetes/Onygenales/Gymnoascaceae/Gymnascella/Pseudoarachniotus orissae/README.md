@@ -1,17 +1,16 @@
-Pseudoarachniotus orissi B. Sur & G.R. Ghosh SPECIES
-=======
+# Pseudoarachniotus orissae B. Sur & G.R. Ghosh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ghosh & Sur, Kavaka 13(2): 67 (1987)
 
 #### Original name
-Pseudoarachniotus orissi B. Sur & G.R. Ghosh
+Pseudoarachniotus orissae B. Sur & G.R. Ghosh
 
 ### Remarks
 null

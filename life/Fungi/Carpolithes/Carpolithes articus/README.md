@@ -1,5 +1,4 @@
-Carpolithes articus SPECIES
-=======
+# Carpolithes articus SPECIES
 
 #### Status
 ACCEPTED

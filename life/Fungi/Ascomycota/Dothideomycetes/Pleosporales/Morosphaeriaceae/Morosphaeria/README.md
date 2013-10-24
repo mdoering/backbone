@@ -1,5 +1,4 @@
-Morosphaeria GENUS
-=======
+# Morosphaeria GENUS
 
 #### Status
 ACCEPTED

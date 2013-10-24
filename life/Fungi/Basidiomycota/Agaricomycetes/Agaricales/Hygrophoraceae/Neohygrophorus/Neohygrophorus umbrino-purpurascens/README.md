@@ -1,5 +1,4 @@
-Neohygrophorus umbrino-purpurascens (Maire) Redhead, Ammirati, Norvell & M.T. Seidl SPECIES
-=======
+# Neohygrophorus umbrino-purpurascens (Maire) Redhead, Ammirati, Norvell & M.T. Seidl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrimasporonites basidii Elsik SPECIES
-=======
+# Lacrimasporonites basidii Elsik SPECIES
 
 #### Status
 ACCEPTED

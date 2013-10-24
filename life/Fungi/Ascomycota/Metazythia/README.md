@@ -1,5 +1,4 @@
-Metazythia Petr. GENUS
-=======
+# Metazythia Petr. GENUS
 
 #### Status
 ACCEPTED

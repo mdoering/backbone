@@ -1,5 +1,4 @@
-Luffisphaera Belcher & Swale, 1975 GENUS
-=======
+# Luffisphaera Belcher & Swale, 1975 GENUS
 
 #### Status
 ACCEPTED

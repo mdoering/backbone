@@ -1,5 +1,4 @@
-Gambierdiscus excentricus S. Fraga, 2011 SPECIES
-=======
+# Gambierdiscus excentricus S. Fraga, 2011 SPECIES
 
 #### Status
 ACCEPTED

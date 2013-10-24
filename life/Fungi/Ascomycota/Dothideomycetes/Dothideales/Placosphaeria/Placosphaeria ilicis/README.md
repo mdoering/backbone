@@ -1,5 +1,4 @@
-Placosphaeria ilicis Arnaud SPECIES
-=======
+# Placosphaeria ilicis Arnaud SPECIES
 
 #### Status
 ACCEPTED

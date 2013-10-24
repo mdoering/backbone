@@ -1,5 +1,4 @@
-Peridermium pycnogrande H.P. Bell SPECIES
-=======
+# Peridermium pycnogrande H.P. Bell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Articulina byramensis Cushman SPECIES
-=======
+# Articulina byramensis Cushman SPECIES
 
 #### Status
 ACCEPTED

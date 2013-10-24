@@ -1,8 +1,7 @@
-Dictyota rotunda C. Agardh SPECIES
-=======
+# Dictyota rotundata Lamouroux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

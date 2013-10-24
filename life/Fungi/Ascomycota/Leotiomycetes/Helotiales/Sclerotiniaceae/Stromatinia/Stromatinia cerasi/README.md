@@ -1,5 +1,4 @@
-Stromatinia cerasi (Woronin) Boud. SPECIES
-=======
+# Stromatinia cerasi (Woronin) Boud. SPECIES
 
 #### Status
 ACCEPTED

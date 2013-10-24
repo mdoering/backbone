@@ -1,5 +1,4 @@
-Psychrobacter submarinus Romanenko et al., 2002 SPECIES
-=======
+# Psychrobacter submarinus Romanenko et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

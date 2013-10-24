@@ -1,5 +1,4 @@
-Discoaster sublodoensis Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster sublodoensis Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

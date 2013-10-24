@@ -1,5 +1,4 @@
-Tremella tuckerae Diederich, 2007 SPECIES
-=======
+# Tremella tuckerae Diederich, 2007 SPECIES
 
 #### Status
 ACCEPTED

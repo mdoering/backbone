@@ -1,5 +1,4 @@
-Didymothyriella scabrella (Syd.) Bat. SPECIES
-=======
+# Didymothyriella scabrella (Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

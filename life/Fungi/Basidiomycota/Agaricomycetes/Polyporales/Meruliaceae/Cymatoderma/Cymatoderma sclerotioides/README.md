@@ -1,14 +1,13 @@
-Stereum sclerotioides Lloyd, 1922 SPECIES
-=======
+# Cymatoderma sclerotioides (Lloyd) D.A. Reid, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1115 (1922)
+Kew Bull. 13: 528 (1959)
 
 #### Original name
 Stereum sclerotioides Lloyd, 1922

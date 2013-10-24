@@ -1,5 +1,4 @@
-Schizosaccharomyces santawensis Nakaz. SPECIES
-=======
+# Schizosaccharomyces santawensis Nakaz. SPECIES
 
 #### Status
 ACCEPTED

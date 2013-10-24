@@ -1,5 +1,4 @@
-Ombrophila aurantiaca Massee SPECIES
-=======
+# Ombrophila aurantiaca Massee SPECIES
 
 #### Status
 ACCEPTED

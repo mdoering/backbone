@@ -1,5 +1,4 @@
-Lecidella epichromatica (Zahlbr.) Hertel SPECIES
-=======
+# Lecidella epichromatica (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

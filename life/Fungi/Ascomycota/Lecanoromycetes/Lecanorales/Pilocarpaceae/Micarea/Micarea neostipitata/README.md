@@ -1,5 +1,4 @@
-Micarea neostipitata Coppins & P. F. May SPECIES
-=======
+# Micarea neostipitata Coppins & P. F. May SPECIES
 
 #### Status
 ACCEPTED

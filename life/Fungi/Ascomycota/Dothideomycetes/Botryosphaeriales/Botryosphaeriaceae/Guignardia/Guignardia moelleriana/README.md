@@ -1,8 +1,7 @@
-Guignardia molleriana Sousa da Câmara SPECIES
-=======
+# Guignardia moelleriana Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Guignardia molleriana Sousa da Câmara
+Guignardia moelleriana Sousa da Câmara
 
 ### Remarks
 null

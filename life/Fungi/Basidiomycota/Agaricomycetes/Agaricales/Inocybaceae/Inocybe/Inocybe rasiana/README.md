@@ -1,5 +1,4 @@
-Inocybe rasiana Sacc. & Trotter SPECIES
-=======
+# Inocybe rasiana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

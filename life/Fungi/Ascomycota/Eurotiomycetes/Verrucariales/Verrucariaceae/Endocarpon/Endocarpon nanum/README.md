@@ -1,5 +1,4 @@
-Endocarpon nanum Ajay Singh & Upreti SPECIES
-=======
+# Endocarpon nanum Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

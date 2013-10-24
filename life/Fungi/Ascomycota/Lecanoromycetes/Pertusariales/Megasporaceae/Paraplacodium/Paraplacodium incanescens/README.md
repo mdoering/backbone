@@ -1,5 +1,4 @@
-Paraplacodium incanescens (Nyl.) Motyka SPECIES
-=======
+# Paraplacodium incanescens (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

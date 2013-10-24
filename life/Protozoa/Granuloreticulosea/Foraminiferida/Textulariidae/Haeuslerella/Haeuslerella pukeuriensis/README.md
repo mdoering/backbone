@@ -1,5 +1,4 @@
-Haeuslerella pukeuriensis Parr SPECIES
-=======
+# Haeuslerella pukeuriensis Parr SPECIES
 
 #### Status
 ACCEPTED

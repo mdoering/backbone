@@ -1,5 +1,4 @@
-Ustilago griffithsii Syd. & P. Syd. SPECIES
-=======
+# Ustilago griffithsii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

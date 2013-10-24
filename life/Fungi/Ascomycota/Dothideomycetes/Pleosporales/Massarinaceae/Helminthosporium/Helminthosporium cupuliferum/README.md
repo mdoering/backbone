@@ -1,5 +1,4 @@
-Helminthosporium cupuliferum Hansf. SPECIES
-=======
+# Helminthosporium cupuliferum Hansf. SPECIES
 
 #### Status
 ACCEPTED

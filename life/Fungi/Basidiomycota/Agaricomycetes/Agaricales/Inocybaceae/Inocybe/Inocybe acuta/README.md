@@ -1,17 +1,16 @@
-Inocybe striata var. striata VARIETY
-=======
+# Inocybe acuta Boud., 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 16: 1259 (1930)
+Bull. Soc. mycol. Fr. 33: 8 (1917)
 
 #### Original name
-Inocybe striata var. striata
+Inocybe acuta Boud., 1917
 
 ### Remarks
 null

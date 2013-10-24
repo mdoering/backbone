@@ -1,5 +1,4 @@
-Lembosina dickiae (Rehm) Arx SPECIES
-=======
+# Lembosina dickiae (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

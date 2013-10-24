@@ -1,5 +1,4 @@
-Pyrenophora semiusta Gucevic SPECIES
-=======
+# Pyrenophora semiusta Gucevic SPECIES
 
 #### Status
 ACCEPTED

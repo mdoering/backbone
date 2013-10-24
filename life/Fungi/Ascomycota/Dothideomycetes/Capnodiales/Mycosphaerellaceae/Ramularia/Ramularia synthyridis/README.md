@@ -1,5 +1,4 @@
-Ramularia synthyridis W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Ramularia synthyridis W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

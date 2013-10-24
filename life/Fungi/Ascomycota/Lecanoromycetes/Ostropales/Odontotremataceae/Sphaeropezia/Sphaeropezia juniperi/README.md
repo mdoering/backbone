@@ -1,5 +1,4 @@
-Sphaeropezia juniperi Rostr. SPECIES
-=======
+# Sphaeropezia juniperi Rostr. SPECIES
 
 #### Status
 ACCEPTED

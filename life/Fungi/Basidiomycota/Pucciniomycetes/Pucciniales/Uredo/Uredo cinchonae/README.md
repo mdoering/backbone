@@ -1,5 +1,4 @@
-Uredo cinchonae Henn. SPECIES
-=======
+# Uredo cinchonae Henn. SPECIES
 
 #### Status
 ACCEPTED

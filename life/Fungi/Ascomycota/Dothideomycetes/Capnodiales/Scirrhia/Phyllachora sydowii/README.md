@@ -1,5 +1,4 @@
-Phyllachora sydowii P.F. Cannon, 1991 SPECIES
-=======
+# Phyllachora sydowii P.F. Cannon, 1991 SPECIES
 
 #### Status
 DOUBTFUL

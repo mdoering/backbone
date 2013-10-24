@@ -1,17 +1,16 @@
-Entoloma porphyrofibrillum Noordel. SPECIES
-=======
+# Entoloma porphyrofibrillosum Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 12(3): 217 (1984)
 
 #### Original name
-Entoloma porphyrofibrillum Noordel.
+Entoloma porphyrofibrillosum Noordel.
 
 ### Remarks
 null

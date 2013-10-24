@@ -1,5 +1,4 @@
-Hysterangium aggregatum J.W. Cribb SPECIES
-=======
+# Hysterangium aggregatum J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

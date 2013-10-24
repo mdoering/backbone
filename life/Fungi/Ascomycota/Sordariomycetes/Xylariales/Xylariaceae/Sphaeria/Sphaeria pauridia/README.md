@@ -1,5 +1,4 @@
-Sphaeria pauridia Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria pauridia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

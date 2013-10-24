@@ -1,5 +1,4 @@
-Mycovellosiella telaria Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella telaria Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma turrialbense Samuels, Degenkolb, K.F. Nielsen & Gräfenhan SPECIES
-=======
+# Trichoderma turrialbense Samuels, Degenkolb, K.F. Nielsen & Gräfenhan SPECIES
 
 #### Status
 ACCEPTED

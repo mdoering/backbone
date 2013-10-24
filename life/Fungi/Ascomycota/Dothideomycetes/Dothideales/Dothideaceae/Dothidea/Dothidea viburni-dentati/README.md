@@ -1,5 +1,4 @@
-Dothidea viburni-dentati Schwein. SPECIES
-=======
+# Dothidea viburni-dentati Schwein. SPECIES
 
 #### Status
 ACCEPTED

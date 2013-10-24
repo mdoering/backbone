@@ -1,5 +1,4 @@
-Callopisma myriocarpum Malme SPECIES
-=======
+# Callopisma myriocarpum Malme SPECIES
 
 #### Status
 ACCEPTED

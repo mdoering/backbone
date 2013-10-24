@@ -1,5 +1,4 @@
-Entosiphon cuneatiformis Lackey SPECIES
-=======
+# Entosiphon cuneatiformis Lackey SPECIES
 
 #### Status
 ACCEPTED

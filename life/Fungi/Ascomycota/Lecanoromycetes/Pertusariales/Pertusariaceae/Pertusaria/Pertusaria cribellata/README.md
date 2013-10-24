@@ -1,5 +1,4 @@
-Pertusaria cribellata Branth SPECIES
-=======
+# Pertusaria cribellata Branth SPECIES
 
 #### Status
 ACCEPTED

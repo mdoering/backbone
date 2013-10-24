@@ -1,5 +1,4 @@
-Sicuphoridae FAMILY
-=======
+# Sicuphoridae FAMILY
 
 #### Status
 ACCEPTED

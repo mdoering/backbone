@@ -1,5 +1,4 @@
-Apiosporina coronata (Speg.) Bat. SPECIES
-=======
+# Apiosporina coronata (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

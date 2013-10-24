@@ -1,5 +1,4 @@
-Russula horticola Kudrna SPECIES
-=======
+# Russula horticola Kudrna SPECIES
 
 #### Status
 ACCEPTED

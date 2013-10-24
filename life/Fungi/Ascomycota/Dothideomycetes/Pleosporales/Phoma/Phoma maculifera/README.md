@@ -1,5 +1,4 @@
-Phoma maculifera (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma maculifera (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

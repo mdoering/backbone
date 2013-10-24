@@ -1,5 +1,4 @@
-Tulostoma campestre Morgan SPECIES
-=======
+# Tulostoma campestre Morgan SPECIES
 
 #### Status
 ACCEPTED

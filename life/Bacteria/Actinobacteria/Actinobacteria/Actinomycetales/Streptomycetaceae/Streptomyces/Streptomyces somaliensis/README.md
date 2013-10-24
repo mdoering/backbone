@@ -1,5 +1,4 @@
-Streptomyces somaliensis (Brumpt, 1906) Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces somaliensis (Brumpt, 1906) Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

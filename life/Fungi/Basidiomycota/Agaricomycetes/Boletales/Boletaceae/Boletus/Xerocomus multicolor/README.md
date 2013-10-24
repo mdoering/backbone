@@ -1,5 +1,4 @@
-Xerocomus multicolor (Cleland) Grgur. SPECIES
-=======
+# Xerocomus multicolor (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

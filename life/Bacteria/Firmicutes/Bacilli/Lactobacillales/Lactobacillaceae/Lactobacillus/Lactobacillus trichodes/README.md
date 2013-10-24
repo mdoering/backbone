@@ -1,5 +1,4 @@
-Lactobacillus trichodes Fornachon et al., 1949 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus trichodes Fornachon et al., 1949 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

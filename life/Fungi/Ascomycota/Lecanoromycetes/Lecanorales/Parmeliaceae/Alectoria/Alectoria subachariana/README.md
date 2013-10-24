@@ -1,5 +1,4 @@
-Alectoria subachariana Gyeln. SPECIES
-=======
+# Alectoria subachariana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

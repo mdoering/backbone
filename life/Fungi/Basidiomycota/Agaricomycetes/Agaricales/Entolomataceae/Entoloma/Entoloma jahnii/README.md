@@ -1,5 +1,4 @@
-Entoloma jahnii Wölfel & Winterh. SPECIES
-=======
+# Entoloma jahnii Wölfel & Winterh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina tsunodae Yasuda ex Räsänen SPECIES
-=======
+# Rinodina tsunodae Yasuda ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora gangalea Ach. SPECIES
-=======
+# Lecanora gangalea Ach. SPECIES
 
 #### Status
 ACCEPTED

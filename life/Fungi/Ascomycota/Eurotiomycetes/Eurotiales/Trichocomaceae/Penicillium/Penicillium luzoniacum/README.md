@@ -1,5 +1,4 @@
-Penicillium luzoniacum Udagawa & Y. Horie SPECIES
-=======
+# Penicillium luzoniacum Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

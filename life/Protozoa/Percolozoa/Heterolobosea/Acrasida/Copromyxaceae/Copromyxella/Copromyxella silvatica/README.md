@@ -1,5 +1,4 @@
-Copromyxella silvatica Raper, Worley & Kurzynski, 1978 SPECIES
-=======
+# Copromyxella silvatica Raper, Worley & Kurzynski, 1978 SPECIES
 
 #### Status
 ACCEPTED

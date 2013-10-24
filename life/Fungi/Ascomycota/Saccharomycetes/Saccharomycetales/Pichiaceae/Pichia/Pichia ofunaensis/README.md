@@ -1,5 +1,4 @@
-Pichia ofunaensis (Makig. & Asai) Kurtzman, 1996 SPECIES
-=======
+# Pichia ofunaensis (Makig. & Asai) Kurtzman, 1996 SPECIES
 
 #### Status
 ACCEPTED

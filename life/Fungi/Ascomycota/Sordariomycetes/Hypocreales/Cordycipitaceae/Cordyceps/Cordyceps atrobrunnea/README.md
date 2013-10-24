@@ -1,5 +1,4 @@
-Cordyceps atrobrunnea Penz. & Sacc. SPECIES
-=======
+# Cordyceps atrobrunnea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

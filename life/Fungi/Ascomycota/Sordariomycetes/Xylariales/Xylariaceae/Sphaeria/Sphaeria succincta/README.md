@@ -1,5 +1,4 @@
-Sphaeria succincta Wallr. SPECIES
-=======
+# Sphaeria succincta Wallr. SPECIES
 
 #### Status
 ACCEPTED

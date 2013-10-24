@@ -1,5 +1,4 @@
-Glomospirella Plummer, 1945 GENUS
-=======
+# Glomospirella Plummer, 1945 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia colchicae Pass. SPECIES
-=======
+# Hendersonia colchicae Pass. SPECIES
 
 #### Status
 ACCEPTED

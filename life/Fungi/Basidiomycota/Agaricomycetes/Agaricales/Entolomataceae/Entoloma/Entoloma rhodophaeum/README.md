@@ -1,5 +1,4 @@
-Entoloma rhodophaeum Bres. SPECIES
-=======
+# Entoloma rhodophaeum Bres. SPECIES
 
 #### Status
 ACCEPTED

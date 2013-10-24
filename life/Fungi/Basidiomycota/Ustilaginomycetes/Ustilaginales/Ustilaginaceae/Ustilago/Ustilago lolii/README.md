@@ -1,5 +1,4 @@
-Ustilago lolii Magnus SPECIES
-=======
+# Ustilago lolii Magnus SPECIES
 
 #### Status
 ACCEPTED

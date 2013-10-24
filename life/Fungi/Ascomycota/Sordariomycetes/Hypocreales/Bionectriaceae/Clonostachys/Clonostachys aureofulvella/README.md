@@ -1,5 +1,4 @@
-Clonostachys aureofulvella Schroers SPECIES
-=======
+# Clonostachys aureofulvella Schroers SPECIES
 
 #### Status
 ACCEPTED

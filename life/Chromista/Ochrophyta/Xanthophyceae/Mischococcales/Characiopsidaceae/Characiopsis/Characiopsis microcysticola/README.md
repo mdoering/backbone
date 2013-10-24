@@ -1,5 +1,4 @@
-Characiopsis microcysticola f. phacuscola J.A. Rino FORM
-=======
+# Characiopsis microcysticola SPECIES
 
 #### Status
 ACCEPTED

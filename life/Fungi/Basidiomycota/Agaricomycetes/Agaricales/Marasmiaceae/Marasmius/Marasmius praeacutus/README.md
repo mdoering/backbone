@@ -1,5 +1,4 @@
-Marasmius praeacutus Ellis SPECIES
-=======
+# Marasmius praeacutus Ellis SPECIES
 
 #### Status
 ACCEPTED

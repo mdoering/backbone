@@ -1,5 +1,4 @@
-Nostoc ellipsosporum Rabenhorst ex Bornet & Flahault SPECIES
-=======
+# Nostoc ellipsosporum Rabenhorst ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

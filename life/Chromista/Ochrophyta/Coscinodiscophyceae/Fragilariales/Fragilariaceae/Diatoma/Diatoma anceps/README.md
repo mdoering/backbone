@@ -1,5 +1,4 @@
-Diatoma anceps var. linearis M.Perag. VARIETY
-=======
+# Diatoma anceps (Ehrenberg) Grunow SPECIES
 
 #### Status
 ACCEPTED

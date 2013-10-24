@@ -1,17 +1,16 @@
-Pseudocyphellaria murrayii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria murrayi D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Renner & Galloway, Mycotaxon 16(1): 205 (1982)
 
 #### Original name
-Pseudocyphellaria murrayii D.J. Galloway
+Pseudocyphellaria murrayi D.J. Galloway
 
 ### Remarks
 null

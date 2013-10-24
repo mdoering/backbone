@@ -1,5 +1,4 @@
-Paxillus tigrinoides Sacc. SPECIES
-=======
+# Paxillus tigrinoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

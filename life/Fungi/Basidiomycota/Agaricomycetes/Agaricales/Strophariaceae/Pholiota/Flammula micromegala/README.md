@@ -1,5 +1,4 @@
-Flammula micromegala Berk. SPECIES
-=======
+# Flammula micromegala Berk. SPECIES
 
 #### Status
 ACCEPTED

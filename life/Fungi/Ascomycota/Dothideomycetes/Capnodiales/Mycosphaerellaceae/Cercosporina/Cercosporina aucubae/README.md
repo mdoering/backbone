@@ -1,5 +1,4 @@
-Cercosporina aucubae Hara SPECIES
-=======
+# Cercosporina aucubae Hara SPECIES
 
 #### Status
 ACCEPTED

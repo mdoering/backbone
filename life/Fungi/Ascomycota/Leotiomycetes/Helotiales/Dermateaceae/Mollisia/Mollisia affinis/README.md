@@ -1,5 +1,4 @@
-Mollisia affinis Starbäck SPECIES
-=======
+# Mollisia affinis Starbäck SPECIES
 
 #### Status
 ACCEPTED

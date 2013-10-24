@@ -1,5 +1,4 @@
-Phoma lineata Sacc. SPECIES
-=======
+# Phoma lineata Sacc. SPECIES
 
 #### Status
 ACCEPTED

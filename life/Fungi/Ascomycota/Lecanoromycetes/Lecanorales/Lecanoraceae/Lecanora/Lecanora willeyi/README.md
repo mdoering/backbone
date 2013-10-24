@@ -1,5 +1,4 @@
-Lecanora willeyi Tuck. SPECIES
-=======
+# Lecanora willeyi Tuck. SPECIES
 
 #### Status
 ACCEPTED

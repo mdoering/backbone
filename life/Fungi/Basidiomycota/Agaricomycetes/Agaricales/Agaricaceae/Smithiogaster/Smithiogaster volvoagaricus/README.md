@@ -1,5 +1,4 @@
-Smithiogaster volvoagaricus J.E. Wright, 1975 SPECIES
-=======
+# Smithiogaster volvoagaricus J.E. Wright, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Huea albidofusca (Nyl.) C.W. Dodge SPECIES
-=======
+# Huea albidofusca (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

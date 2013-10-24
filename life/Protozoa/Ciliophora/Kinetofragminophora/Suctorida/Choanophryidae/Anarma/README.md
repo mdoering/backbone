@@ -1,5 +1,4 @@
-Anarma Goodrich & Jahn, 1943 GENUS
-=======
+# Anarma Goodrich & Jahn, 1943 GENUS
 
 #### Status
 ACCEPTED

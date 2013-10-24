@@ -1,5 +1,4 @@
-Cortinarius arcuatorum Rob. Henry SPECIES
-=======
+# Cortinarius arcuatorum Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

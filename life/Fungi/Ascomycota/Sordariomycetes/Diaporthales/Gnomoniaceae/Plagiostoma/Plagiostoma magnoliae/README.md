@@ -1,5 +1,4 @@
-Plagiostoma magnoliae (Ellis) M.E. Barr SPECIES
-=======
+# Plagiostoma magnoliae (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

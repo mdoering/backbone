@@ -1,5 +1,4 @@
-Lecidea badensis H. Magn. SPECIES
-=======
+# Lecidea badensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

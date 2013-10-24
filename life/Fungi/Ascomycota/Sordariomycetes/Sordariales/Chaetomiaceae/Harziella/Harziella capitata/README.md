@@ -1,17 +1,16 @@
-Lepisticola capitata (Costantin & Matr.) W. Gams, 2009 SPECIES
-=======
+# Harziella capitata Costantin & Matr., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 15: 104 (1899)
 
 #### Original name
-null
+Harziella capitata Costantin & Matr., 1899
 
 ### Remarks
 null

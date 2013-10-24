@@ -1,5 +1,4 @@
-Lepraria lutescens Ach. SPECIES
-=======
+# Lepraria lutescens Ach. SPECIES
 
 #### Status
 ACCEPTED

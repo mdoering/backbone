@@ -1,5 +1,4 @@
-Graphis calcea (Fée) A. Massal. SPECIES
-=======
+# Graphis calcea (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

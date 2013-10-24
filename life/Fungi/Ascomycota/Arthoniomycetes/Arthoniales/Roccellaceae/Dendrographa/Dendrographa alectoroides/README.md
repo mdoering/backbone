@@ -1,17 +1,16 @@
-Dendrographa alectoroides f. alectoroides Sundin & Tehler FORM
-=======
+# Dendrographa alectoroides Sundin & Tehler SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bryologist 99(1): 26 (1996)
 
 #### Original name
-Dendrographa alectoroides f. alectoroides Sundin & Tehler
+Dendrographa alectoroides Sundin & Tehler
 
 ### Remarks
 null

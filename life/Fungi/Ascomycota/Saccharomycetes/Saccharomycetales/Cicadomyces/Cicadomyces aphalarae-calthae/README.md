@@ -1,5 +1,4 @@
-Cicadomyces aphalarae-calthae ulc SPECIES
-=======
+# Cicadomyces aphalarae-calthae ulc SPECIES
 
 #### Status
 ACCEPTED

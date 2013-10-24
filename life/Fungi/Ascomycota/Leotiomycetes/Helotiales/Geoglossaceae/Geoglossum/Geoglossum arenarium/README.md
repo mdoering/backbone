@@ -1,8 +1,7 @@
-Corynetes arenarius (Rostr.) E.J. Durand, 1908 SPECIES
-=======
+# Geoglossum arenarium (Rostr.) Lloyd, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

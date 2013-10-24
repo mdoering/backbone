@@ -1,5 +1,4 @@
-Oligosphaeridium nannum R. J. Davey SPECIES
-=======
+# Oligosphaeridium nannum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

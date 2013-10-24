@@ -1,5 +1,4 @@
-Ostracodermis Locq. GENUS
-=======
+# Ostracodermis Locq. GENUS
 
 #### Status
 ACCEPTED

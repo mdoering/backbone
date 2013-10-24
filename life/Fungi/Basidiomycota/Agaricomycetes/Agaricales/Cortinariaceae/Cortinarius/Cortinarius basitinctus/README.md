@@ -1,5 +1,4 @@
-Cortinarius basitinctus Rob. Henry SPECIES
-=======
+# Cortinarius basitinctus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

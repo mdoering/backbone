@@ -1,5 +1,4 @@
-Humaria ovalispora (Boud.) Sacc. SPECIES
-=======
+# Humaria ovalispora (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

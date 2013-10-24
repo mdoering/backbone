@@ -1,5 +1,4 @@
-Cantharellus buccinalis Mont. SPECIES
-=======
+# Cantharellus buccinalis Mont. SPECIES
 
 #### Status
 ACCEPTED

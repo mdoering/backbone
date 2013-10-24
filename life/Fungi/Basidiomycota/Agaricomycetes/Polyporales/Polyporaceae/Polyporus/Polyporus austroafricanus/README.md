@@ -1,5 +1,4 @@
-Polyporus austroafricanus Núñez & Ryvarden, 1994 SPECIES
-=======
+# Polyporus austroafricanus Núñez & Ryvarden, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporobolomyces taupoensis Hamam. & Nakase, 1995 SPECIES
-=======
+# Sporobolomyces taupoensis Hamam. & Nakase, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codinaea illinoensis Hewings & J.L. Crane SPECIES
-=======
+# Codinaea illinoensis Hewings & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

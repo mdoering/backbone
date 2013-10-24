@@ -1,5 +1,4 @@
-Tintinnopsis sufflata Hada, 1937 SPECIES
-=======
+# Tintinnopsis sufflata Hada, 1937 SPECIES
 
 #### Status
 ACCEPTED

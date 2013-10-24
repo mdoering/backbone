@@ -1,5 +1,4 @@
-Pannaria parmeliae F. Wilson SPECIES
-=======
+# Pannaria parmeliae F. Wilson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peyritschiella clivinae Thaxt. SPECIES
-=======
+# Peyritschiella clivinae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

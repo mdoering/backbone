@@ -1,5 +1,4 @@
-Trullula silphii Grove SPECIES
-=======
+# Trullula silphii Grove SPECIES
 
 #### Status
 ACCEPTED

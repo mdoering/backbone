@@ -1,5 +1,4 @@
-Lecidea ferruginosa (Tuck.) Hue SPECIES
-=======
+# Lecidea ferruginosa (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

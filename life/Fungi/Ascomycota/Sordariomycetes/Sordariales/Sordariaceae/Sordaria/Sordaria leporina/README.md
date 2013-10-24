@@ -1,5 +1,4 @@
-Sordaria leporina Cain SPECIES
-=======
+# Sordaria leporina Cain SPECIES
 
 #### Status
 ACCEPTED

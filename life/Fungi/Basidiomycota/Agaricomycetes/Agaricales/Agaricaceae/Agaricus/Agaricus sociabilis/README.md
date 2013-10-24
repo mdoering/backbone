@@ -1,5 +1,4 @@
-Agaricus sociabilis Britzelm. SPECIES
-=======
+# Agaricus sociabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella chaenomelis Y. Suto SPECIES
-=======
+# Cercosporella chaenomelis Y. Suto SPECIES
 
 #### Status
 ACCEPTED

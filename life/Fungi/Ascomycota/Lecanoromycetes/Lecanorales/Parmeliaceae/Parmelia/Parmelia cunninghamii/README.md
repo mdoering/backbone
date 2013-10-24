@@ -1,17 +1,16 @@
-Parmelia brownii C. W. Dodge SPECIES
-=======
+# Parmelia cunninghamii Cromb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 19: 449 (1970)
+J. Linn. Soc. , Bot. 15: 228 (1876)
 
 #### Original name
-Parmelia brownii C. W. Dodge
+Parmelia cunninghamii Cromb.
 
 ### Remarks
 null

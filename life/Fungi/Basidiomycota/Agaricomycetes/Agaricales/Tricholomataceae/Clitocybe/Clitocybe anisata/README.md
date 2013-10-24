@@ -1,5 +1,4 @@
-Clitocybe anisata Velen. SPECIES
-=======
+# Clitocybe anisata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora idaei (Fuckel) Sacc. SPECIES
-=======
+# Physalospora idaei (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

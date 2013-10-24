@@ -1,5 +1,4 @@
-Leucodecton verrucosum A. Massal. SPECIES
-=======
+# Leucodecton verrucosum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

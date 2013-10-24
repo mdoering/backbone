@@ -1,14 +1,13 @@
-Siphula elixii Kantvilas SPECIES
-=======
+# Parasiphula elixii (Kantvilas) Kantvilas & Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-N. Z. Jl Bot. 32(1): 17 (1994)
+in Grube & Kantvilas, Lichenologist 38(3): 246 (2006)
 
 #### Original name
 Siphula elixii Kantvilas

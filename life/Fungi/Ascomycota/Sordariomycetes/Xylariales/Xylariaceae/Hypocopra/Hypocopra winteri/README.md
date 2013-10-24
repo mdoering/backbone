@@ -1,5 +1,4 @@
-Hypocopra winteri Oudem. SPECIES
-=======
+# Hypocopra winteri Oudem. SPECIES
 
 #### Status
 ACCEPTED

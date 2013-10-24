@@ -1,5 +1,4 @@
-Mycena glatfelteri (Peck) Murrill SPECIES
-=======
+# Mycena glatfelteri (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

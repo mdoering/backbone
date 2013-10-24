@@ -1,5 +1,4 @@
-Luffammina atlantica Kamenskaya, Bagirov & Simdianov, 2002 SPECIES
-=======
+# Luffammina atlantica Kamenskaya, Bagirov & Simdianov, 2002 SPECIES
 
 #### Status
 ACCEPTED

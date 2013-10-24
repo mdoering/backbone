@@ -1,8 +1,7 @@
-Parachilodonella lygia Dragesco, 1966 SPECIES
-=======
+# Parachilodonella lygiae Dragesco, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

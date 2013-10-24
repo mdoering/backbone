@@ -1,5 +1,4 @@
-Lecidea suspicax (Stizenb.) Hue SPECIES
-=======
+# Lecidea suspicax (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella pyrina (Ellis & Everh.) U. Braun SPECIES
-=======
+# Mycovellosiella pyrina (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

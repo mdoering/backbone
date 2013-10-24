@@ -1,5 +1,4 @@
-Asterostomella minuta G. Arnaud SPECIES
-=======
+# Asterostomella minuta G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

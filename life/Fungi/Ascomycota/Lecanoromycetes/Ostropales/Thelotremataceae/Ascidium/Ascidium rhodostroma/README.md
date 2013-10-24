@@ -1,5 +1,4 @@
-Ascidium rhodostroma SPECIES
-=======
+# Ascidium rhodostroma SPECIES
 
 #### Status
 ACCEPTED

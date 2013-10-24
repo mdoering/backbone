@@ -1,5 +1,4 @@
-Asteromella strychni (Allesch.) Aa & Vanev SPECIES
-=======
+# Asteromella strychni (Allesch.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

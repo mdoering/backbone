@@ -1,5 +1,4 @@
-Clostridium nexile Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium nexile Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma rubi Fuckel SPECIES
-=======
+# Asteroma rubi Fuckel SPECIES
 
 #### Status
 ACCEPTED

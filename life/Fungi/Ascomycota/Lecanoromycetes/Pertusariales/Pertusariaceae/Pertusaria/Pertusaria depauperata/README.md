@@ -1,5 +1,4 @@
-Pertusaria depauperata Müll. Arg. SPECIES
-=======
+# Pertusaria depauperata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

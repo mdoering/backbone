@@ -1,5 +1,4 @@
-Athelium imperceptum Nyl. SPECIES
-=======
+# Athelium imperceptum Nyl. SPECIES
 
 #### Status
 ACCEPTED

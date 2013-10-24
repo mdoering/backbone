@@ -1,5 +1,4 @@
-Stephensia sumatrana Boedijn, 1939 SPECIES
-=======
+# Stephensia sumatrana Boedijn, 1939 SPECIES
 
 #### Status
 ACCEPTED

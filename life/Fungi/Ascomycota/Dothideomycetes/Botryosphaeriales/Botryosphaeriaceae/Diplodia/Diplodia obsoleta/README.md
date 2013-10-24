@@ -1,5 +1,4 @@
-Diplodia obsoleta P. Karst. SPECIES
-=======
+# Diplodia obsoleta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita lactea Malençon, Romagn. & D.A. Reid SPECIES
-=======
+# Amanita lactea Malençon, Romagn. & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

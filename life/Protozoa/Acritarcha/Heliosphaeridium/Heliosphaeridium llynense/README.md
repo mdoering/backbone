@@ -1,5 +1,4 @@
-Heliosphaeridium llynense Martin in Young, Martin, Dean & Rushton, 1994 SPECIES
-=======
+# Heliosphaeridium llynense Martin in Young, Martin, Dean & Rushton, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Patellaria metabolica (Ach.) DC. SPECIES
-=======
+# Amandinea insperata (Nyl.) H. Mayrhofer & Ropin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mayrhofer, Kantvilas & Ropin, Muelleria 12(2): 190 (2000)
 
 #### Original name
-Lecanora metabolica Ach.
+Lecanora insperata Nyl.
 
 ### Remarks
 null

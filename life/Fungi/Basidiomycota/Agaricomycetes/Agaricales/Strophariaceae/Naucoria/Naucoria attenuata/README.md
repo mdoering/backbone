@@ -1,5 +1,4 @@
-Naucoria attenuata A.H. Sm. SPECIES
-=======
+# Naucoria attenuata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

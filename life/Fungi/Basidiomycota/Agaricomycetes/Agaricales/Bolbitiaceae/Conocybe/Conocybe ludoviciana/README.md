@@ -1,5 +1,4 @@
-Conocybe ludoviciana (Murrill) Watling SPECIES
-=======
+# Conocybe ludoviciana (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

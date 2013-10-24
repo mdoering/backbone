@@ -1,5 +1,4 @@
-Trichofusarium bartholomaei (Peck) Sacc. SPECIES
-=======
+# Trichofusarium bartholomaei (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

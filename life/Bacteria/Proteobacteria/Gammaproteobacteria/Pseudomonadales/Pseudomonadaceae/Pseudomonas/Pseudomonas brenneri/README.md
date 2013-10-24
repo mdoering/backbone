@@ -1,5 +1,4 @@
-Pseudomonas brenneri Baïda et al., 2002 SPECIES
-=======
+# Pseudomonas brenneri Baïda et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

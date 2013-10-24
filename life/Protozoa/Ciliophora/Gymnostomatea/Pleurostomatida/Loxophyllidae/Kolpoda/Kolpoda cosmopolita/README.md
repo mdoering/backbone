@@ -1,5 +1,4 @@
-Kolpoda cosmopolita Bory, 1824 SPECIES
-=======
+# Kolpoda cosmopolita Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

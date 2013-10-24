@@ -1,5 +1,4 @@
-Nectria seriata Rehm SPECIES
-=======
+# Nectria seriata Rehm SPECIES
 
 #### Status
 ACCEPTED

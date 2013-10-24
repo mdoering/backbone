@@ -1,17 +1,16 @@
-Pertusaria alectoronica var. alectoronica VARIETY
-=======
+# Pertusaria alectoronica Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Australasian Lichenology 60: 20 (2007)
 
 #### Original name
-null
+Pertusaria alectoronica Elix & A. W. Archer
 
 ### Remarks
 null

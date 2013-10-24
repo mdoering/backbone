@@ -1,5 +1,4 @@
-Hydropus hypnorum Hongo SPECIES
-=======
+# Hydropus hypnorum Hongo SPECIES
 
 #### Status
 ACCEPTED

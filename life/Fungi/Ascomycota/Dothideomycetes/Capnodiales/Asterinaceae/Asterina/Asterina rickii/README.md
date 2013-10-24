@@ -1,5 +1,4 @@
-Asterina rickii Theiss. SPECIES
-=======
+# Asterina rickii Theiss. SPECIES
 
 #### Status
 ACCEPTED

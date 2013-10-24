@@ -1,5 +1,4 @@
-Botrytis hyacinthi Westend. & J.F.H. Beyma, 1928 SPECIES
-=======
+# Botrytis hyacinthi Westend. & J.F.H. Beyma, 1928 SPECIES
 
 #### Status
 ACCEPTED

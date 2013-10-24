@@ -1,5 +1,4 @@
-Stictis davidsonii Sherwood SPECIES
-=======
+# Stictis davidsonii Sherwood SPECIES
 
 #### Status
 ACCEPTED

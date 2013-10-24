@@ -1,5 +1,4 @@
-Cercospora ahmadii Petr. SPECIES
-=======
+# Cercospora ahmadii Petr. SPECIES
 
 #### Status
 ACCEPTED

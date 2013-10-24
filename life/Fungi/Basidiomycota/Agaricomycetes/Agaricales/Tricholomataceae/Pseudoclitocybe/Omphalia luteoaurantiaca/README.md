@@ -1,5 +1,4 @@
-Omphalia luteoaurantiaca Beeli SPECIES
-=======
+# Omphalia luteoaurantiaca Beeli SPECIES
 
 #### Status
 ACCEPTED

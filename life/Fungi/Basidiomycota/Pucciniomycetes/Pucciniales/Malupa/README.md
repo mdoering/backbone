@@ -1,5 +1,4 @@
-Malupa Y. Ono, Buriticá & J.F. Hennen, 1992 GENUS
-=======
+# Malupa Y. Ono, Buriticá & J.F. Hennen, 1992 GENUS
 
 #### Status
 ACCEPTED

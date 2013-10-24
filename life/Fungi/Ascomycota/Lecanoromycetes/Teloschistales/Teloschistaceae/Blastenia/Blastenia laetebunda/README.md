@@ -1,5 +1,4 @@
-Blastenia laetebunda (Hue) Zahlbr. SPECIES
-=======
+# Blastenia laetebunda (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenosemella bernhardi SPECIES
-=======
+# Stenosemella bernhardi SPECIES
 
 #### Status
 ACCEPTED

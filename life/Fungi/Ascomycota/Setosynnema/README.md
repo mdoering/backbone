@@ -1,5 +1,4 @@
-Setosynnema D.E. Shaw & B. Sutton GENUS
-=======
+# Setosynnema D.E. Shaw & B. Sutton GENUS
 
 #### Status
 ACCEPTED

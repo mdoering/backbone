@@ -1,5 +1,4 @@
-Agaricus russulinus Berk. SPECIES
-=======
+# Agaricus russulinus Berk. SPECIES
 
 #### Status
 ACCEPTED

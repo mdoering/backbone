@@ -1,5 +1,4 @@
-Jattaea stachybotryoides A.I. Romero & Samuels SPECIES
-=======
+# Jattaea stachybotryoides A.I. Romero & Samuels SPECIES
 
 #### Status
 ACCEPTED

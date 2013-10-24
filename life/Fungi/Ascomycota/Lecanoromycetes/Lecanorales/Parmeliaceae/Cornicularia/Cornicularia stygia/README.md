@@ -1,5 +1,4 @@
-Cornicularia stygia (L.) Nyl. SPECIES
-=======
+# Cornicularia stygia (L.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria neocylindrica J.C. Wei SPECIES
-=======
+# Umbilicaria neocylindrica J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

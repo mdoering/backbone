@@ -1,17 +1,16 @@
-Caloplaca elegans f. elegans FORM
-=======
+# Xanthoria elegans (Link) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Arctoi 69 (1860)
 
 #### Original name
-null
+Lichen elegans Lam.
 
 ### Remarks
 null

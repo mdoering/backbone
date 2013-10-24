@@ -1,5 +1,4 @@
-Pleuroflammula chocoruensis Singer SPECIES
-=======
+# Pleuroflammula chocoruensis Singer SPECIES
 
 #### Status
 ACCEPTED

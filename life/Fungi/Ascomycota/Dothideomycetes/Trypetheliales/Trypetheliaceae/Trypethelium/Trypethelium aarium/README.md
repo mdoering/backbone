@@ -1,5 +1,4 @@
-Trypethelium aarium A. Massal. SPECIES
-=======
+# Trypethelium aarium A. Massal. SPECIES
 
 #### Status
 ACCEPTED

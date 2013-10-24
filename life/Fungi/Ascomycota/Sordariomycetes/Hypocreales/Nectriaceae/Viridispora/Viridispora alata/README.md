@@ -1,14 +1,13 @@
-Nectria alata Samuels, 1989 SPECIES
-=======
+# Viridispora alata (Samuels) Samuels & Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 81(3): 347 (1989)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 166 (1999)
 
 #### Original name
 Nectria alata Samuels, 1989

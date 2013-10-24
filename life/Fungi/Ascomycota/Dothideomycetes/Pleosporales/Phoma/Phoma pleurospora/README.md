@@ -1,5 +1,4 @@
-Phoma pleurospora Sacc. SPECIES
-=======
+# Phoma pleurospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

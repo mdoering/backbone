@@ -1,5 +1,4 @@
-Reophax comprimus SPECIES
-=======
+# Reophax comprimus SPECIES
 
 #### Status
 ACCEPTED

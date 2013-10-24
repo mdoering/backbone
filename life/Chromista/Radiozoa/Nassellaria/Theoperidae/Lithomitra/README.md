@@ -1,5 +1,4 @@
-Lithomitra Haeckel, 1887 GENUS
-=======
+# Lithomitra Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

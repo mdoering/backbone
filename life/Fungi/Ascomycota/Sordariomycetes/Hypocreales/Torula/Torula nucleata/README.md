@@ -1,5 +1,4 @@
-Torula nucleata Cooke SPECIES
-=======
+# Torula nucleata Cooke SPECIES
 
 #### Status
 ACCEPTED

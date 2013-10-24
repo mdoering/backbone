@@ -1,5 +1,4 @@
-Pyrenula eucalypta Vain. SPECIES
-=======
+# Pyrenula eucalypta Vain. SPECIES
 
 #### Status
 ACCEPTED

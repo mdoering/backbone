@@ -1,5 +1,4 @@
-Nectria psiloti (Bernátsky) G.R.W. Arnold SPECIES
-=======
+# Nectria psiloti (Bernátsky) G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

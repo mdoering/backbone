@@ -1,5 +1,4 @@
-Micropeltella picramniae Bat. & Gayão SPECIES
-=======
+# Micropeltella picramniae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

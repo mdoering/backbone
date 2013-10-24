@@ -1,5 +1,4 @@
-Lepidoderma stipitatum Flatau, 1984 SPECIES
-=======
+# Lepidoderma stipitatum Flatau, 1984 SPECIES
 
 #### Status
 ACCEPTED

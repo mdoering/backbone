@@ -1,5 +1,4 @@
-Methanococcoides alaskense Singh et al., 2005 SPECIES
-=======
+# Methanococcoides alaskense Singh et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

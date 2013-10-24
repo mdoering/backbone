@@ -1,5 +1,4 @@
-Tunisphaeridium whitcliffense Dorning, 1981 SPECIES
-=======
+# Tunisphaeridium whitcliffense Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

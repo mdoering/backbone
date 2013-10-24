@@ -1,8 +1,7 @@
-Paradiplodia sinensis (I. Miyake) Sawada SPECIES
-=======
+# Paradiplodia chinensis (I. Miyake) Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nothopatella sinensis I. Miyake
+Nothopatella chinensis I. Miyake
 
 ### Remarks
 null

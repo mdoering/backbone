@@ -1,5 +1,4 @@
-Microsphaera discariae Havryl. SPECIES
-=======
+# Microsphaera discariae Havryl. SPECIES
 
 #### Status
 ACCEPTED

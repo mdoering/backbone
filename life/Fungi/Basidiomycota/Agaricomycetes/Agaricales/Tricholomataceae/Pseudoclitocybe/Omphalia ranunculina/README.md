@@ -1,5 +1,4 @@
-Omphalia ranunculina Berk. SPECIES
-=======
+# Omphalia ranunculina Berk. SPECIES
 
 #### Status
 ACCEPTED

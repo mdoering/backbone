@@ -1,5 +1,4 @@
-Uredo colebrookeana Barclay SPECIES
-=======
+# Uredo colebrookeana Barclay SPECIES
 
 #### Status
 ACCEPTED

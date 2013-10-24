@@ -1,5 +1,4 @@
-Botryosphaeria corni (Sacc.) Sacc. SPECIES
-=======
+# Botryosphaeria corni (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

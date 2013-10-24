@@ -1,5 +1,4 @@
-Digitoramispora tambdisurlensis Pratibha, Raghuk. & Bhat SPECIES
-=======
+# Digitoramispora tambdisurlensis Pratibha, Raghuk. & Bhat SPECIES
 
 #### Status
 ACCEPTED

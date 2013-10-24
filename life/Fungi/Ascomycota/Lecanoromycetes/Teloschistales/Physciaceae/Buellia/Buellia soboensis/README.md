@@ -1,8 +1,7 @@
-Buellia soboënsis Yasuda ex Räsänen SPECIES
-=======
+# Buellia soboensis Yasuda ex Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia soboënsis Yasuda ex Räsänen
+Buellia soboensis Yasuda ex Räsänen
 
 ### Remarks
 null

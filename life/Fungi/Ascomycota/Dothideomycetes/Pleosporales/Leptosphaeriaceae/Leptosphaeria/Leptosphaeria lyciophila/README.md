@@ -1,5 +1,4 @@
-Leptosphaeria lyciophila Fairm. SPECIES
-=======
+# Leptosphaeria lyciophila Fairm. SPECIES
 
 #### Status
 ACCEPTED

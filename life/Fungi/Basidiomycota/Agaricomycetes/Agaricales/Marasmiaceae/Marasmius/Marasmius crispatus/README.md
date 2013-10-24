@@ -1,5 +1,4 @@
-Marasmius crispatus Berk. & Broome SPECIES
-=======
+# Marasmius crispatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

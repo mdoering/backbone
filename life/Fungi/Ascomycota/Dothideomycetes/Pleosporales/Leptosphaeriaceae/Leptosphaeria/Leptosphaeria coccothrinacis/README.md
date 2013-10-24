@@ -1,5 +1,4 @@
-Leptosphaeria coccothrinacis Cif. & Gonz. Frag. SPECIES
-=======
+# Leptosphaeria coccothrinacis Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

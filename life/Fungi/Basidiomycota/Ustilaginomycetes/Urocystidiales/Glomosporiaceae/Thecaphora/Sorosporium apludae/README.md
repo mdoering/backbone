@@ -1,5 +1,4 @@
-Sorosporium apludae Mishra SPECIES
-=======
+# Sorosporium apludae Mishra SPECIES
 
 #### Status
 ACCEPTED

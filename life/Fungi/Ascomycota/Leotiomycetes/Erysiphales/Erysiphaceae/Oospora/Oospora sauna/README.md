@@ -1,5 +1,4 @@
-Oospora sauna Namysl. SPECIES
-=======
+# Oospora sauna Namysl. SPECIES
 
 #### Status
 ACCEPTED

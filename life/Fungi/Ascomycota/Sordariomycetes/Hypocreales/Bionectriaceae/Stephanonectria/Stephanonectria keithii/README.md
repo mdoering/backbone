@@ -1,14 +1,13 @@
-Nectria keithii Berk. & Broome, 1876 SPECIES
-=======
+# Stephanonectria keithii (Berk. & Broome) Schroers & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 17: 44 (1876)
+Sydowia 51(1): 116 (1999)
 
 #### Original name
 Nectria keithii Berk. & Broome, 1876

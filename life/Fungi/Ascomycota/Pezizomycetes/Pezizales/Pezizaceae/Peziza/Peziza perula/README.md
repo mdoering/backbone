@@ -1,5 +1,4 @@
-Peziza perula Pers. SPECIES
-=======
+# Peziza perula Pers. SPECIES
 
 #### Status
 ACCEPTED

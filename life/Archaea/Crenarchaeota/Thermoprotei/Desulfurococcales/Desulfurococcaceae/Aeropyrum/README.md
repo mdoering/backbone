@@ -1,5 +1,4 @@
-Aeropyrum Sako, Nomura, Uchida, Ishida, Morii, Koga, Hoaki & Maruyama, 1996 GENUS
-=======
+# Aeropyrum Sako, Nomura, Uchida, Ishida, Morii, Koga, Hoaki & Maruyama, 1996 GENUS
 
 #### Status
 ACCEPTED

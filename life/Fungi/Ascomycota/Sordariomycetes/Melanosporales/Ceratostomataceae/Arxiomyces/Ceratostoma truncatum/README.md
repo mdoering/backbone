@@ -1,5 +1,4 @@
-Ceratostoma truncatum Delacr. SPECIES
-=======
+# Ceratostoma truncatum Delacr. SPECIES
 
 #### Status
 ACCEPTED

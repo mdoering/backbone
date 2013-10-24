@@ -1,17 +1,16 @@
-Peziza melaena var. melaena VARIETY
-=======
+# Plectania melaena (Fr.) Paden, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Korf, Mycotaxon 14(1): 1 (1982)
 
 #### Original name
-null
+Peziza melaena Fr., 1822
 
 ### Remarks
 null

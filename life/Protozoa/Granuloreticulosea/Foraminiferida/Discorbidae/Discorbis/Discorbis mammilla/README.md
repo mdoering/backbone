@@ -1,5 +1,4 @@
-Discorbis mammilla (Williamson) SPECIES
-=======
+# Discorbis mammilla (Williamson) SPECIES
 
 #### Status
 ACCEPTED

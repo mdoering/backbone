@@ -1,5 +1,4 @@
-Oolina (Favulina) squamosa (Montagu) SPECIES
-=======
+# Oolina (Favulina) squamosa (Montagu) SPECIES
 
 #### Status
 ACCEPTED

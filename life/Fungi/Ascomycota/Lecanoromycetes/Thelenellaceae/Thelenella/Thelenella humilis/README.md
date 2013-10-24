@@ -1,5 +1,4 @@
-Thelenella humilis R. C. Harris SPECIES
-=======
+# Thelenella humilis R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella vietnamensis Barber & T.I. Burgess, 2007 SPECIES
-=======
+# Mycosphaerella vietnamensis Barber & T.I. Burgess, 2007 SPECIES
 
 #### Status
 ACCEPTED

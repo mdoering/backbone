@@ -1,5 +1,4 @@
-Acrogenospora gigantospora S. Hughes, 1978 SPECIES
-=======
+# Acrogenospora gigantospora S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

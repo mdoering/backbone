@@ -1,5 +1,4 @@
-Helicomyxa everhartioides R. Kirschner & Chee J. Chen, 2004 SPECIES
-=======
+# Helicomyxa everhartioides R. Kirschner & Chee J. Chen, 2004 SPECIES
 
 #### Status
 ACCEPTED

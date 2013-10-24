@@ -1,5 +1,4 @@
-Coprinus picosporus Locq. SPECIES
-=======
+# Coprinus picosporus Locq. SPECIES
 
 #### Status
 ACCEPTED

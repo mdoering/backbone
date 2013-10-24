@@ -1,5 +1,4 @@
-Sphaerocreas dussii (Pat.) Höhn. SPECIES
-=======
+# Sphaerocreas dussii (Pat.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

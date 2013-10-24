@@ -1,5 +1,4 @@
-Diplodia adenocarpi Gonz. Frag. SPECIES
-=======
+# Diplodia adenocarpi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

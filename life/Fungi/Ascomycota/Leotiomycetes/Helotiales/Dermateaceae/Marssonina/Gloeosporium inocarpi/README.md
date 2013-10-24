@@ -1,5 +1,4 @@
-Gloeosporium inocarpi Sacc. SPECIES
-=======
+# Gloeosporium inocarpi Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerion Massee, 1901 GENUS
-=======
+# Cerion Massee, 1901 GENUS
 
 #### Status
 ACCEPTED

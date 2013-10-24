@@ -1,5 +1,4 @@
-Vermilacinia ligulata Spjut SPECIES
-=======
+# Vermilacinia ligulata Spjut SPECIES
 
 #### Status
 ACCEPTED

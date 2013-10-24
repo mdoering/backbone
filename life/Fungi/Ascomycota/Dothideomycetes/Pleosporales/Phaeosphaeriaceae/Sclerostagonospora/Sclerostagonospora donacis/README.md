@@ -1,5 +1,4 @@
-Sclerostagonospora donacis (Sacc.) E. Gallego SPECIES
-=======
+# Sclerostagonospora donacis (Sacc.) E. Gallego SPECIES
 
 #### Status
 ACCEPTED

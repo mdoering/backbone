@@ -1,5 +1,4 @@
-Gibberella juniperi (Desm.) Wollenw. SPECIES
-=======
+# Gibberella juniperi (Desm.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

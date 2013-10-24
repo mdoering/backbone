@@ -1,5 +1,4 @@
-Microsphaera securinegae F.L. Tai & C.T. Wei SPECIES
-=======
+# Microsphaera securinegae F.L. Tai & C.T. Wei SPECIES
 
 #### Status
 ACCEPTED

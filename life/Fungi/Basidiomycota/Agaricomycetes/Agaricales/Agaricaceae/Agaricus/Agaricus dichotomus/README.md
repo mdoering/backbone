@@ -1,5 +1,4 @@
-Agaricus dichotomus Lév. SPECIES
-=======
+# Agaricus dichotomus Lév. SPECIES
 
 #### Status
 ACCEPTED

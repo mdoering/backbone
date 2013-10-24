@@ -1,5 +1,4 @@
-Nothopanus tropicalis Singer SPECIES
-=======
+# Nothopanus tropicalis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiociliomyces Bat. & I.H. Lima GENUS
-=======
+# Ophiociliomyces Bat. & I.H. Lima GENUS
 
 #### Status
 ACCEPTED

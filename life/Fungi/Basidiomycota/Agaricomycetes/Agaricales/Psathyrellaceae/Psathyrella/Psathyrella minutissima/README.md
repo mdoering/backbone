@@ -1,5 +1,4 @@
-Psathyrella minutissima Kits van Wav. SPECIES
-=======
+# Psathyrella minutissima Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

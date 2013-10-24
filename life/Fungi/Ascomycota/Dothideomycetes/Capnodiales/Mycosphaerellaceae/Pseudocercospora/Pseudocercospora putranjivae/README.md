@@ -1,5 +1,4 @@
-Pseudocercospora putranjivae Kamal, P. Kumar, R.P. Singh & D.N. Shukla SPECIES
-=======
+# Pseudocercospora putranjivae Kamal, P. Kumar, R.P. Singh & D.N. Shukla SPECIES
 
 #### Status
 ACCEPTED

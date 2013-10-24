@@ -1,5 +1,4 @@
-Thecaphora californica (Harkn.) G.P. Clinton SPECIES
-=======
+# Thecaphora californica (Harkn.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

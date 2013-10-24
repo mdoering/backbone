@@ -1,5 +1,4 @@
-Diaporthe celata Sacc. SPECIES
-=======
+# Diaporthe celata Sacc. SPECIES
 
 #### Status
 ACCEPTED

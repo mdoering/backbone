@@ -1,5 +1,4 @@
-Inocybe gigantispora Murrill SPECIES
-=======
+# Inocybe gigantispora Murrill SPECIES
 
 #### Status
 ACCEPTED

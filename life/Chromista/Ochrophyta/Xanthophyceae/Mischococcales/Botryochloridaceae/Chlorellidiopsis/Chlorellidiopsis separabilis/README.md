@@ -1,5 +1,4 @@
-Chlorellidiopsis separabilis Pascher SPECIES
-=======
+# Chlorellidiopsis separabilis Pascher SPECIES
 
 #### Status
 ACCEPTED

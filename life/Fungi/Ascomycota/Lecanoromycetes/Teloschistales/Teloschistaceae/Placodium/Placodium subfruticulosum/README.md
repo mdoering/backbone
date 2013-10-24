@@ -1,5 +1,4 @@
-Placodium subfruticulosum var. xanthorioides Mereschk. VARIETY
-=======
+# Placodium subfruticulosum Elenkin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium subfruticulosum var. xanthorioides Mereschk.
+Placodium subfruticulosum Elenkin
 
 ### Remarks
 null

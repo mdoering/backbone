@@ -1,5 +1,4 @@
-Parodiella maculans Speg. SPECIES
-=======
+# Parodiella maculans Speg. SPECIES
 
 #### Status
 ACCEPTED

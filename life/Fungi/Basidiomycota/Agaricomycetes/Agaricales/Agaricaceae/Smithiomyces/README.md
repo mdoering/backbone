@@ -1,5 +1,4 @@
-Smithiomyces Singer GENUS
-=======
+# Smithiomyces Singer GENUS
 
 #### Status
 ACCEPTED

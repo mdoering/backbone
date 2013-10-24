@@ -1,5 +1,4 @@
-Phoma leonuricola var. leonuricola VARIETY
-=======
+# Phoma leonuricola Hollós SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma leonuricola var. leonuricola
+Phoma leonuricola Hollós
 
 ### Remarks
 null

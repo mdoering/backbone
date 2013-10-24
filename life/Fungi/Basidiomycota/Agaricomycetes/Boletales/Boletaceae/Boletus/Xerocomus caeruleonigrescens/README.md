@@ -1,5 +1,4 @@
-Xerocomus caeruleonigrescens Pegler SPECIES
-=======
+# Xerocomus caeruleonigrescens Pegler SPECIES
 
 #### Status
 ACCEPTED

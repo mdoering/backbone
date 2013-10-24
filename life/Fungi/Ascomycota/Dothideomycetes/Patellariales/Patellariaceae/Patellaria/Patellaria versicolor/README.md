@@ -1,5 +1,4 @@
-Patellaria versicolor (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria versicolor (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

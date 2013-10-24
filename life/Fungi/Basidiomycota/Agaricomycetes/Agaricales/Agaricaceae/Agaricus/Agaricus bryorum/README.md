@@ -1,5 +1,4 @@
-Agaricus bryorum Lasch SPECIES
-=======
+# Agaricus bryorum Lasch SPECIES
 
 #### Status
 ACCEPTED

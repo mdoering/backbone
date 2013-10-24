@@ -1,5 +1,4 @@
-Xenosporium Penz. & Sacc. GENUS
-=======
+# Xenosporium Penz. & Sacc. GENUS
 
 #### Status
 ACCEPTED

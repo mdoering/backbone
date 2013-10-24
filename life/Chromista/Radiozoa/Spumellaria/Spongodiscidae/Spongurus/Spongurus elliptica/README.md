@@ -1,5 +1,4 @@
-Spongurus elliptica (Ehrenberg, 1872) SPECIES
-=======
+# Spongurus elliptica (Ehrenberg, 1872) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha farinulenta Müll. Arg. SPECIES
-=======
+# Opegrapha farinulenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

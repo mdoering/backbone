@@ -1,5 +1,4 @@
-Phoma alpina var. alpina VARIETY
-=======
+# Phoma alpina Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 7): 272 (1881)
 
 #### Original name
-Phoma alpina var. alpina
+Phoma alpina Speg.
 
 ### Remarks
 null

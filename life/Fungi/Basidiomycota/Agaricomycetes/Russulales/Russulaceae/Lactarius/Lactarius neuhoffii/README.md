@@ -1,5 +1,4 @@
-Lactarius neuhoffii var. neuhoffii VARIETY
-=======
+# Lactarius neuhoffii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 North American Species of Lactarius (Ann Arbor) 179 (1979)
 
 #### Original name
-Lactarius neuhoffii var. neuhoffii
+Lactarius neuhoffii Hesler & A.H. Sm.
 
 ### Remarks
 null

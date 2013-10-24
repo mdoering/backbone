@@ -1,5 +1,4 @@
-Nowakowskiella pitcairnensis Karling SPECIES
-=======
+# Nowakowskiella pitcairnensis Karling SPECIES
 
 #### Status
 ACCEPTED

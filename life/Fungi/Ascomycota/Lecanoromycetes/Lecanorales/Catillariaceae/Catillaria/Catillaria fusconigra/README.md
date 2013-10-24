@@ -1,5 +1,4 @@
-Catillaria fusconigra (A.L. Sm.) Zahlbr. SPECIES
-=======
+# Catillaria fusconigra (A.L. Sm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

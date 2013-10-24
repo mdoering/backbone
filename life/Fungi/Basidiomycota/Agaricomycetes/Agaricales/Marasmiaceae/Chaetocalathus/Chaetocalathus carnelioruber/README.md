@@ -1,5 +1,4 @@
-Chaetocalathus carnelioruber Singer SPECIES
-=======
+# Chaetocalathus carnelioruber Singer SPECIES
 
 #### Status
 ACCEPTED

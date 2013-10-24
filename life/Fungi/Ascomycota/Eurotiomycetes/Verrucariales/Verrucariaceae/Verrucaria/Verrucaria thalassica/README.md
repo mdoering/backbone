@@ -1,5 +1,4 @@
-Verrucaria thalassica Erichsen SPECIES
-=======
+# Verrucaria thalassica Erichsen SPECIES
 
 #### Status
 ACCEPTED

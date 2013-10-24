@@ -1,5 +1,4 @@
-Coniothyrium insuetum Syd. SPECIES
-=======
+# Coniothyrium insuetum Syd. SPECIES
 
 #### Status
 ACCEPTED

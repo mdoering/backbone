@@ -1,5 +1,4 @@
-Lecidella dicksonii (J.F. Gmel.) Stein SPECIES
-=======
+# Lecidella dicksonii (J.F. Gmel.) Stein SPECIES
 
 #### Status
 ACCEPTED

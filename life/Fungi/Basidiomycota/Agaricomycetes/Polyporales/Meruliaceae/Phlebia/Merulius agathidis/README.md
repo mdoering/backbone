@@ -1,5 +1,4 @@
-Merulius agathidis Corner SPECIES
-=======
+# Merulius agathidis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium irrigatum Servít SPECIES
-=======
+# Thelidium irrigatum Servít SPECIES
 
 #### Status
 ACCEPTED

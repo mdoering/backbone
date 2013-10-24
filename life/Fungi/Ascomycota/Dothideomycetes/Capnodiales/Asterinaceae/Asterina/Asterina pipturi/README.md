@@ -1,5 +1,4 @@
-Asterina pipturi Syd. & P. Syd. SPECIES
-=======
+# Asterina pipturi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

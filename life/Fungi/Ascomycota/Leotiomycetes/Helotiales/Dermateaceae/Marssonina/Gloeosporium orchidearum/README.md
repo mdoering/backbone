@@ -1,5 +1,4 @@
-Gloeosporium orchidearum P. Karst. & Har. SPECIES
-=======
+# Gloeosporium orchidearum P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

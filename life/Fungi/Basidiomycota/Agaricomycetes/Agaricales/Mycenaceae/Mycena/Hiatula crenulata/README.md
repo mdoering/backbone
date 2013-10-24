@@ -1,5 +1,4 @@
-Hiatula crenulata Fr. SPECIES
-=======
+# Hiatula crenulata Fr. SPECIES
 
 #### Status
 ACCEPTED

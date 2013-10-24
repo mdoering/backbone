@@ -1,5 +1,4 @@
-Ramularia leontodontis Moesz SPECIES
-=======
+# Ramularia leontodontis Moesz SPECIES
 
 #### Status
 ACCEPTED

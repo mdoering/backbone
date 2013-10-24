@@ -1,5 +1,4 @@
-Periola hirsuta (Schumach.) Fr. SPECIES
-=======
+# Periola hirsuta (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

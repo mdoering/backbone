@@ -1,5 +1,4 @@
-Hysterographium pumilionis Rehm SPECIES
-=======
+# Hysterographium pumilionis Rehm SPECIES
 
 #### Status
 ACCEPTED

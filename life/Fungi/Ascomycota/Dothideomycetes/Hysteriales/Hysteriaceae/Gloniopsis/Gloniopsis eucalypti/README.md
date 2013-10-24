@@ -1,5 +1,4 @@
-Gloniopsis eucalypti J.P. Costa & Sousa da Câmara SPECIES
-=======
+# Gloniopsis eucalypti J.P. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

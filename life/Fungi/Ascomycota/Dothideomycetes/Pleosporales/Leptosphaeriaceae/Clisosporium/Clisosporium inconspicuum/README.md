@@ -1,5 +1,4 @@
-Clisosporium inconspicuum (Cooke) Kuntze SPECIES
-=======
+# Clisosporium inconspicuum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

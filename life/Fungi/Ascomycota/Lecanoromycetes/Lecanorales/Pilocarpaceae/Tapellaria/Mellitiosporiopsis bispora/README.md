@@ -1,5 +1,4 @@
-Mellitiosporiopsis bispora (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Mellitiosporiopsis bispora (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

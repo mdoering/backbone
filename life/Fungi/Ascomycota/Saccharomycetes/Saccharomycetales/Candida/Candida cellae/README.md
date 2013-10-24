@@ -1,5 +1,4 @@
-Candida cellae Pimentel, Lachance & C.A. Rosa SPECIES
-=======
+# Candida cellae Pimentel, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

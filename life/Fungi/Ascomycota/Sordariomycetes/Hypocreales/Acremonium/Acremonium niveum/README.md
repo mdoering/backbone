@@ -1,5 +1,4 @@
-Acremonium niveum H. Bouchet SPECIES
-=======
+# Acremonium niveum H. Bouchet SPECIES
 
 #### Status
 ACCEPTED

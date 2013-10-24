@@ -1,5 +1,4 @@
-Entoloma subplanum (Peck) Hesler SPECIES
-=======
+# Entoloma subplanum (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

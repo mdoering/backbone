@@ -1,5 +1,4 @@
-Phaeoisariopsis mexicana (Ellis & Everh.) Ferraris SPECIES
-=======
+# Phaeoisariopsis mexicana (Ellis & Everh.) Ferraris SPECIES
 
 #### Status
 ACCEPTED

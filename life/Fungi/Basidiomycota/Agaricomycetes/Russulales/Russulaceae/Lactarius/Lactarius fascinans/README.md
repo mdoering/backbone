@@ -1,5 +1,4 @@
-Lactarius fascinans (Fr.) Fr. SPECIES
-=======
+# Lactarius fascinans (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

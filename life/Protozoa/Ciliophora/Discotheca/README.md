@@ -1,5 +1,4 @@
-Discotheca Yankovskii, 1967 GENUS
-=======
+# Discotheca Yankovskii, 1967 GENUS
 
 #### Status
 ACCEPTED

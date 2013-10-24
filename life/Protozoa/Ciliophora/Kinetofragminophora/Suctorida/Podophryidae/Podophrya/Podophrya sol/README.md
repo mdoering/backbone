@@ -1,8 +1,7 @@
-Sphaerophrya parameciorum Maupas, 1881 SPECIES
-=======
+# Podophrya sol (Meczniokow, 1864) Matthes, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

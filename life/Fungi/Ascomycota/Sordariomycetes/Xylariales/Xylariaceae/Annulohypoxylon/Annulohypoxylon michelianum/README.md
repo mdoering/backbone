@@ -1,17 +1,16 @@
-Hypoxylon albotectum Rehm, 1906 SPECIES
-=======
+# Annulohypoxylon michelianum (Ces. & De Not.) Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rehm & Rick, Brotéria 5: 228 (1906)
+Mycologia 97(4): 859 (2005)
 
 #### Original name
-Hypoxylon albotectum Rehm, 1906
+Hypoxylon michelianum Ces. & De Not., 1863
 
 ### Remarks
 null

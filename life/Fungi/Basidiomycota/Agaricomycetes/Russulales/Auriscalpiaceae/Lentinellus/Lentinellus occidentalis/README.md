@@ -1,5 +1,4 @@
-Lentinellus occidentalis R.H. Petersen SPECIES
-=======
+# Lentinellus occidentalis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

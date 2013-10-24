@@ -1,5 +1,4 @@
-Lophodermium gamundiae P.R. Johnst., 2007 SPECIES
-=======
+# Lophodermium gamundiae P.R. Johnst., 2007 SPECIES
 
 #### Status
 ACCEPTED

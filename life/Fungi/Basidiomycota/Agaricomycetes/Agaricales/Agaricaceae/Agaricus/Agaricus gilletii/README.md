@@ -1,5 +1,4 @@
-Agaricus gilletii Fr. SPECIES
-=======
+# Agaricus gilletii Fr. SPECIES
 
 #### Status
 ACCEPTED

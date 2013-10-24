@@ -1,5 +1,4 @@
-Bagliettoa ceracea (J. Steiner) Jatta SPECIES
-=======
+# Bagliettoa ceracea (J. Steiner) Jatta SPECIES
 
 #### Status
 ACCEPTED

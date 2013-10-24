@@ -1,17 +1,16 @@
-Septoria tiliacearum var. tiliacearum VARIETY
-=======
+# Septoria tiliacearum Crié, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 5 19: 176 (1874)
 
 #### Original name
-null
+Septoria tiliacearum Crié, 1874
 
 ### Remarks
 null

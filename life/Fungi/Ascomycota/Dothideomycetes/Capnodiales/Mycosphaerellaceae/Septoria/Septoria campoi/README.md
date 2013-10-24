@@ -1,5 +1,4 @@
-Septoria campoi Speg. SPECIES
-=======
+# Septoria campoi Speg. SPECIES
 
 #### Status
 ACCEPTED

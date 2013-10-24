@@ -1,17 +1,16 @@
-Dimorphomyces thleosporae Thaxt. SPECIES
-=======
+# Dimorphomyces phloeoporae Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Amer. Acad. Arts 36: 410 (1900)
 
 #### Original name
-Dimorphomyces thleosporae Thaxt.
+Dimorphomyces phloeoporae Thaxt.
 
 ### Remarks
 null

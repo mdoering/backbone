@@ -1,5 +1,4 @@
-Micropuccinia synedrellae (Henn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia synedrellae (Henn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium ionopsidis (Toro) Bat. SPECIES
-=======
+# Scolecopeltidium ionopsidis (Toro) Bat. SPECIES
 
 #### Status
 ACCEPTED

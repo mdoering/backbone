@@ -1,5 +1,4 @@
-Emericellopsis indicus J.B. Ray SPECIES
-=======
+# Emericellopsis indicus J.B. Ray SPECIES
 
 #### Status
 ACCEPTED

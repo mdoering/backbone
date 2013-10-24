@@ -1,5 +1,4 @@
-Sphaeria sismondae Ettingsh. SPECIES
-=======
+# Sphaeria sismondae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

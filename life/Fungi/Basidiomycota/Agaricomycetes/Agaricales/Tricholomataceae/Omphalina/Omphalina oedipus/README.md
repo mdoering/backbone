@@ -1,5 +1,4 @@
-Omphalina oedipus (Massee) Manjula SPECIES
-=======
+# Omphalina oedipus (Massee) Manjula SPECIES
 
 #### Status
 ACCEPTED

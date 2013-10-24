@@ -1,5 +1,4 @@
-Korunomyces prostratus Seixas & R.W. Barreto SPECIES
-=======
+# Korunomyces prostratus Seixas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

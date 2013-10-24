@@ -1,5 +1,4 @@
-Psalliota boltoni Copel. SPECIES
-=======
+# Psalliota boltoni Copel. SPECIES
 
 #### Status
 ACCEPTED

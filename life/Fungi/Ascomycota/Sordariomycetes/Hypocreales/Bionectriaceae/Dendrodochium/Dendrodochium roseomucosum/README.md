@@ -1,5 +1,4 @@
-Dendrodochium roseomucosum Matsush. SPECIES
-=======
+# Dendrodochium roseomucosum Matsush. SPECIES
 
 #### Status
 ACCEPTED

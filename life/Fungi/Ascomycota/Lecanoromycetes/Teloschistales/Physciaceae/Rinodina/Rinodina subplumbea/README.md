@@ -1,5 +1,4 @@
-Rinodina subplumbea H. Magn. SPECIES
-=======
+# Rinodina subplumbea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

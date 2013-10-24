@@ -1,5 +1,4 @@
-Uredo ruhlandii Henn. SPECIES
-=======
+# Uredo ruhlandii Henn. SPECIES
 
 #### Status
 ACCEPTED

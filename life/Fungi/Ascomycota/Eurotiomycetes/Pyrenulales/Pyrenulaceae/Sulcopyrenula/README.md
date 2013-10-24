@@ -1,5 +1,4 @@
-Sulcopyrenula H. Harada GENUS
-=======
+# Sulcopyrenula H. Harada GENUS
 
 #### Status
 ACCEPTED

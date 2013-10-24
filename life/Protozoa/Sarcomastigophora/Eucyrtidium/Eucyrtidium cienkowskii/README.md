@@ -1,5 +1,4 @@
-Eucyrtidium cienkowskii Haeckel SPECIES
-=======
+# Eucyrtidium cienkowskii Haeckel SPECIES
 
 #### Status
 ACCEPTED

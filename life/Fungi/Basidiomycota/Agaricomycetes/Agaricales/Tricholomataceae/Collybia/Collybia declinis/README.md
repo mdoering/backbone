@@ -1,5 +1,4 @@
-Collybia declinis Weinm. SPECIES
-=======
+# Collybia declinis Weinm. SPECIES
 
 #### Status
 ACCEPTED

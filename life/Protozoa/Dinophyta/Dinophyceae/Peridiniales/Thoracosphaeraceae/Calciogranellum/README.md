@@ -1,5 +1,4 @@
-Calciogranellum G. Deflandre, 1949 GENUS
-=======
+# Calciogranellum G. Deflandre, 1949 GENUS
 
 #### Status
 ACCEPTED

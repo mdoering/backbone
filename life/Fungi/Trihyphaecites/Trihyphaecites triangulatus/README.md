@@ -1,5 +1,4 @@
-Trihyphaecites triangulatus Peppers SPECIES
-=======
+# Trihyphaecites triangulatus Peppers SPECIES
 
 #### Status
 ACCEPTED

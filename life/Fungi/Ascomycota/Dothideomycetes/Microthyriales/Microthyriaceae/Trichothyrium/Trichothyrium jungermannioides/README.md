@@ -1,5 +1,4 @@
-Trichothyrium jungermannioides Racib. SPECIES
-=======
+# Trichothyrium jungermannioides Racib. SPECIES
 
 #### Status
 ACCEPTED

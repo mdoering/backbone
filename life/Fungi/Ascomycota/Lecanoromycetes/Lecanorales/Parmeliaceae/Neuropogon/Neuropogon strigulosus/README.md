@@ -1,5 +1,4 @@
-Neuropogon strigulosus f. strigulosus FORM
-=======
+# Neuropogon strigulosus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Neuropogon strigulosus f. strigulosus
+Neuropogon strigulosus Zahlbr.
 
 ### Remarks
 null

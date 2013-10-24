@@ -1,5 +1,4 @@
-Ceriospora alabamensis Ellis & Everh. SPECIES
-=======
+# Ceriospora alabamensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

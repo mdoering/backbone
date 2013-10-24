@@ -1,17 +1,16 @@
-Centridium Chevall. GENUS
-=======
+# Roestelia Rebentisch, 1804 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fl. gén. env. Paris (Paris) 1: 383 (1826)
+null
 
 #### Original name
-Centridium Chevall.
+null
 
 ### Remarks
 null

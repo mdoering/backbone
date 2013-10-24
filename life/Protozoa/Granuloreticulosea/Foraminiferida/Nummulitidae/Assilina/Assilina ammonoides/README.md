@@ -1,8 +1,7 @@
-Nautilus ammonoides Gronovius, 1781 SPECIES
-=======
+# Assilina ammonoides (Gronovius, 1781) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Clavaria galeata Holmsk. SPECIES
-=======
+# Clavaria galeata Holmsk. SPECIES
 
 #### Status
 ACCEPTED

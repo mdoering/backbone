@@ -1,5 +1,4 @@
-Dicaeoma vernoniicola (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma vernoniicola (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

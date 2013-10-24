@@ -1,5 +1,4 @@
-Heterocapsa pygmaea Lobelich, Schmidt & Sherley SPECIES
-=======
+# Heterocapsa pygmaea Lobelich, Schmidt & Sherley SPECIES
 
 #### Status
 ACCEPTED

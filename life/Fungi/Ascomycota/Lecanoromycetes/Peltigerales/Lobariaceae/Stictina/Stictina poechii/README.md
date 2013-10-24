@@ -1,5 +1,4 @@
-Stictina poechii (Zahlbr.) Szatala SPECIES
-=======
+# Stictina poechii (Zahlbr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodiplodia yuccae (Speg.) Zambett. SPECIES
-=======
+# Placodiplodia yuccae (Speg.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

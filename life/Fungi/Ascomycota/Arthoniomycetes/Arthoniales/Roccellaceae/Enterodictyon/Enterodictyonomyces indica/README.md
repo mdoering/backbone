@@ -1,5 +1,4 @@
-Enterodictyonomyces indica Cif. & Tomas. SPECIES
-=======
+# Enterodictyonomyces indica Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

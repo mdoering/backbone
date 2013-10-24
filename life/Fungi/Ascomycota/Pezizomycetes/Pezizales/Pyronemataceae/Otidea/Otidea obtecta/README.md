@@ -1,5 +1,4 @@
-Otidea obtecta Schwein. SPECIES
-=======
+# Otidea obtecta Schwein. SPECIES
 
 #### Status
 ACCEPTED

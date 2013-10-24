@@ -1,5 +1,4 @@
-Lecanora ascociscana (Tuck.) Tuck. SPECIES
-=======
+# Lecanora ascociscana (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

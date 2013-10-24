@@ -1,5 +1,4 @@
-Wrightoporia straminea T. Hatt. SPECIES
-=======
+# Wrightoporia straminea T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

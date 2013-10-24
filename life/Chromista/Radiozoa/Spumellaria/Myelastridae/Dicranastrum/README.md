@@ -1,5 +1,4 @@
-Dicranastrum Haeckel, 1881 GENUS
-=======
+# Dicranastrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

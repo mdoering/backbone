@@ -1,17 +1,16 @@
-Scenidium papyraceum (Berk.) Kuntze, 1898 SPECIES
-=======
+# Hexagonia variegata Berk., 1852 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 516 (1898)
+Ann. Mag. nat. Hist. , Ser. 2 9: 196 (1852)
 
 #### Original name
-Hexagonia papyracea Berk., 1843
+Hexagonia variegata Berk., 1852
 
 ### Remarks
 null

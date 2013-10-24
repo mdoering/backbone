@@ -1,5 +1,4 @@
-Cereolus pileatus (Th. Fr.) Boistel SPECIES
-=======
+# Cereolus pileatus (Th. Fr.) Boistel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula aspistea (Afzel.) Ach., 1814 SPECIES
-=======
+# Pyrenula aspistea (Afzel.) Ach., 1814 SPECIES
 
 #### Status
 DOUBTFUL

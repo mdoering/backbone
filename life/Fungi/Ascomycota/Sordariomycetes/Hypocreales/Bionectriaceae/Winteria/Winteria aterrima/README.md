@@ -1,5 +1,4 @@
-Winteria aterrima Hazsl. SPECIES
-=======
+# Winteria aterrima Hazsl. SPECIES
 
 #### Status
 ACCEPTED

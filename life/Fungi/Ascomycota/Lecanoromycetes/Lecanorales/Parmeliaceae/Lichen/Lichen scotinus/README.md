@@ -1,5 +1,4 @@
-Lichen scotinus Wahlenb. SPECIES
-=======
+# Lichen scotinus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

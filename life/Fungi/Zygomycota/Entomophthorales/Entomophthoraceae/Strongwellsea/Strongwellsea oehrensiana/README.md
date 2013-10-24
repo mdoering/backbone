@@ -1,5 +1,4 @@
-Strongwellsea oehrensiana Aruta, Carrillo & Monteal. SPECIES
-=======
+# Strongwellsea oehrensiana Aruta, Carrillo & Monteal. SPECIES
 
 #### Status
 ACCEPTED

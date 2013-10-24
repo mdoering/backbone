@@ -1,14 +1,13 @@
-Paecilomyces berolinensis Ola'h & H.-W. Ackerm., 1969 SPECIES
-=======
+# Septofusidium berolinense (Ola'h & H.-W. Ackerm.) Samson, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 85(4): 494 (1969)
+Stud. Mycol. 6: 86 (1974)
 
 #### Original name
 Paecilomyces berolinensis Ola'h & H.-W. Ackerm., 1969

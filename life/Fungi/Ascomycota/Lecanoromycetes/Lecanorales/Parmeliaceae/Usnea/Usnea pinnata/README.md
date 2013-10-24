@@ -1,5 +1,4 @@
-Usnea pinnata Räsänen SPECIES
-=======
+# Usnea pinnata Räsänen SPECIES
 
 #### Status
 ACCEPTED

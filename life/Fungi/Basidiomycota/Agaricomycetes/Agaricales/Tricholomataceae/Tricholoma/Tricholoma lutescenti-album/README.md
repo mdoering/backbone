@@ -1,5 +1,4 @@
-Tricholoma lutescenti-album (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Tricholoma lutescenti-album (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alysidium penicillioides (Rivolta) Kuntze SPECIES
-=======
+# Alysidium penicillioides (Rivolta) Kuntze SPECIES
 
 #### Status
 ACCEPTED

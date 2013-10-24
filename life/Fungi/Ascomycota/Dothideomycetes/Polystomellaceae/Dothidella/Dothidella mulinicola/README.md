@@ -1,5 +1,4 @@
-Dothidella mulinicola Speg. SPECIES
-=======
+# Dothidella mulinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

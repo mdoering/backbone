@@ -1,5 +1,4 @@
-Polycoccum infestans (Speg.) Etayo SPECIES
-=======
+# Polycoccum infestans (Speg.) Etayo SPECIES
 
 #### Status
 ACCEPTED

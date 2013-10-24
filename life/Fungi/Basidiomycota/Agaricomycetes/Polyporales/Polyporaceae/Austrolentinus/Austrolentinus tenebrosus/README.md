@@ -1,14 +1,13 @@
-Panus tenebrosus Corner, 1981 SPECIES
-=======
+# Austrolentinus tenebrosus (Corner) Ryvarden, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 69: 96 (1981)
+Syn. Fung. (Oslo) 5: 115 (1991)
 
 #### Original name
 Panus tenebrosus Corner, 1981

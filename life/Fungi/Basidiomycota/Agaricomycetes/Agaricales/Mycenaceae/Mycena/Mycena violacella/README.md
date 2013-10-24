@@ -1,14 +1,13 @@
-Mycena violaceella (Speg.) Singer SPECIES
-=======
+# Mycena violacella (Speg.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9(1-6): 395 (1955)
 
 #### Original name
 Collybia violacella Speg.

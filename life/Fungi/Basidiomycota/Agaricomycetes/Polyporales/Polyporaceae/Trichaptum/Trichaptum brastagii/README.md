@@ -1,5 +1,4 @@
-Trichaptum brastagii (Corner) T. Hatt. SPECIES
-=======
+# Trichaptum brastagii (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

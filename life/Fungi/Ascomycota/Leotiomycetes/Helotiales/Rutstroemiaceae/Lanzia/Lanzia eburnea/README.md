@@ -1,5 +1,4 @@
-Lanzia eburnea Raitv. & H.D. Shin SPECIES
-=======
+# Lanzia eburnea Raitv. & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

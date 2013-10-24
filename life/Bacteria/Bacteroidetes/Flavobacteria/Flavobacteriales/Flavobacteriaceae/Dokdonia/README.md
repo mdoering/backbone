@@ -1,5 +1,4 @@
-Dokdonia Yoon, Kang, Lee & Oh, 2005 GENUS
-=======
+# Dokdonia Yoon, Kang, Lee & Oh, 2005 GENUS
 
 #### Status
 ACCEPTED

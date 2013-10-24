@@ -1,5 +1,4 @@
-Trichophyton inguinale Sabour. SPECIES
-=======
+# Trichophyton inguinale Sabour. SPECIES
 
 #### Status
 ACCEPTED

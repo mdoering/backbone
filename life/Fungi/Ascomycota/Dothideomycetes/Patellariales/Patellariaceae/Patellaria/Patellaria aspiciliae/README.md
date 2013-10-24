@@ -1,5 +1,4 @@
-Patellaria aspiciliae Müll. Arg. SPECIES
-=======
+# Patellaria aspiciliae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

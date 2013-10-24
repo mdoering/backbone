@@ -1,5 +1,4 @@
-Dinenympha rayi P. Mukherjee & P. K. Maiti SPECIES
-=======
+# Dinenympha rayi P. Mukherjee & P. K. Maiti SPECIES
 
 #### Status
 ACCEPTED

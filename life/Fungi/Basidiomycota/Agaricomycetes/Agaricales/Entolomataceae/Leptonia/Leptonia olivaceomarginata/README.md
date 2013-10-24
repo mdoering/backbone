@@ -1,5 +1,4 @@
-Leptonia olivaceomarginata (Hesler) Largent SPECIES
-=======
+# Leptonia olivaceomarginata (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

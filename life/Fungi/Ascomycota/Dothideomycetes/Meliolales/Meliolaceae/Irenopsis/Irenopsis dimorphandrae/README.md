@@ -1,5 +1,4 @@
-Irenopsis dimorphandrae Hansf. SPECIES
-=======
+# Irenopsis dimorphandrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalospora lividocincta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Megalospora lividocincta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

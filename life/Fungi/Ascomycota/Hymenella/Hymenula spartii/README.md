@@ -1,5 +1,4 @@
-Hymenula spartii Lasch SPECIES
-=======
+# Hymenula spartii Lasch SPECIES
 
 #### Status
 ACCEPTED

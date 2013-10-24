@@ -1,5 +1,4 @@
-Clitocybe hortensis (Pers.) Fr. SPECIES
-=======
+# Clitocybe hortensis (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

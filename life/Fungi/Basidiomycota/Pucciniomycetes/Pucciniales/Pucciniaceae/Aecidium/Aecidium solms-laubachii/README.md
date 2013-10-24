@@ -1,5 +1,4 @@
-Aecidium solms-laubachii Boyer & Jacz. SPECIES
-=======
+# Aecidium solms-laubachii Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

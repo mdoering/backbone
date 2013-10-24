@@ -1,5 +1,4 @@
-Laschia papulata Mont. SPECIES
-=======
+# Laschia papulata Mont. SPECIES
 
 #### Status
 ACCEPTED

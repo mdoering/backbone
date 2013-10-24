@@ -1,5 +1,4 @@
-Lepiota subcristatella Murrill SPECIES
-=======
+# Lepiota subcristatella Murrill SPECIES
 
 #### Status
 ACCEPTED

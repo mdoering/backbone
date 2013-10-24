@@ -1,5 +1,4 @@
-Melanaspicilia ectolechioides Vain. SPECIES
-=======
+# Melanaspicilia ectolechioides Vain. SPECIES
 
 #### Status
 ACCEPTED

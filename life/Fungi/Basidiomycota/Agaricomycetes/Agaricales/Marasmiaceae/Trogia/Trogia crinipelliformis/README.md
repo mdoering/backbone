@@ -1,5 +1,4 @@
-Trogia crinipelliformis Corner SPECIES
-=======
+# Trogia crinipelliformis Corner SPECIES
 
 #### Status
 ACCEPTED

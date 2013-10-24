@@ -1,5 +1,4 @@
-Metasphaeria lichenicola (Zopf) Vouaux SPECIES
-=======
+# Metasphaeria lichenicola (Zopf) Vouaux SPECIES
 
 #### Status
 ACCEPTED

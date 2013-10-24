@@ -1,5 +1,4 @@
-Propolidium pruinosum Sherwood SPECIES
-=======
+# Propolidium pruinosum Sherwood SPECIES
 
 #### Status
 ACCEPTED

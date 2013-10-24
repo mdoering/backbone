@@ -1,5 +1,4 @@
-Lobaria asticta (Nyl.) Zahlbr. SPECIES
-=======
+# Lobaria asticta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

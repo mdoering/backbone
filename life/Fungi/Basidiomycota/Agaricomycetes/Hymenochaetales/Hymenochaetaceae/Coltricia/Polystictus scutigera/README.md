@@ -1,5 +1,4 @@
-Polystictus scutigera Kalchbr. SPECIES
-=======
+# Polystictus scutigera Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

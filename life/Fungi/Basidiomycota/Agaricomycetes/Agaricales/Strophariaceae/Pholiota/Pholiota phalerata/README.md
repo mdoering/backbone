@@ -1,5 +1,4 @@
-Pholiota phalerata (Fr.) Quél. SPECIES
-=======
+# Pholiota phalerata (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

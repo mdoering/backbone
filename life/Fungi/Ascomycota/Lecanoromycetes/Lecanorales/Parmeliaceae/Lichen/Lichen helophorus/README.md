@@ -1,5 +1,4 @@
-Lichen helophorus Ach. SPECIES
-=======
+# Lichen helophorus Ach. SPECIES
 
 #### Status
 ACCEPTED

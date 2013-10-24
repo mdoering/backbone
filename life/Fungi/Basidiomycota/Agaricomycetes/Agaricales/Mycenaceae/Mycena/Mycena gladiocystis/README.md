@@ -1,5 +1,4 @@
-Mycena gladiocystis Esteve-Rav. & A. Ortega SPECIES
-=======
+# Mycena gladiocystis Esteve-Rav. & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

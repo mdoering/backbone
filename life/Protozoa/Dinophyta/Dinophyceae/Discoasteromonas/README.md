@@ -1,5 +1,4 @@
-Discoasteromonas Bursa, 1965 GENUS
-=======
+# Discoasteromonas Bursa, 1965 GENUS
 
 #### Status
 ACCEPTED

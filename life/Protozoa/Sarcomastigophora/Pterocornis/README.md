@@ -1,5 +1,4 @@
-Pterocornis GENUS
-=======
+# Pterocornis GENUS
 
 #### Status
 ACCEPTED

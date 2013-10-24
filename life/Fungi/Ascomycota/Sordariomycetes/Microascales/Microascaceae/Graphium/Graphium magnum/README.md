@@ -1,5 +1,4 @@
-Graphium magnum Sacc. & P. Syd. SPECIES
-=======
+# Graphium magnum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

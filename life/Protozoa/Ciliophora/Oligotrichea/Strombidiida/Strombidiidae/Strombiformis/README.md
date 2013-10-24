@@ -1,5 +1,4 @@
-Strombiformis Da Costa, 1778 GENUS
-=======
+# Strombiformis Da Costa, 1778 GENUS
 
 #### Status
 ACCEPTED

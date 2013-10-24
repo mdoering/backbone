@@ -1,5 +1,4 @@
-Graphis ondensis C.W. Dodge SPECIES
-=======
+# Graphis ondensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

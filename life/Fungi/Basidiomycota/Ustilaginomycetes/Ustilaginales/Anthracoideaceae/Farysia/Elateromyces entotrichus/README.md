@@ -1,5 +1,4 @@
-Elateromyces entotrichus (Berk.) D.D. Cunn. SPECIES
-=======
+# Elateromyces entotrichus (Berk.) D.D. Cunn. SPECIES
 
 #### Status
 ACCEPTED

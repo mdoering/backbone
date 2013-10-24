@@ -1,8 +1,7 @@
-Cercospora ohlsenii Neerg., 1942 SPECIES
-=======
+# Oidium tueckeri Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

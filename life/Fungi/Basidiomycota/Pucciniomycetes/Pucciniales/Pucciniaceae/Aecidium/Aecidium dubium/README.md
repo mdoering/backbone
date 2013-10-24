@@ -1,5 +1,4 @@
-Aecidium dubium Clinton SPECIES
-=======
+# Aecidium dubium Clinton SPECIES
 
 #### Status
 ACCEPTED

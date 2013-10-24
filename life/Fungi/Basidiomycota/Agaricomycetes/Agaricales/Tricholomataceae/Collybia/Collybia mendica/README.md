@@ -1,5 +1,4 @@
-Collybia mendica Kalchbr. SPECIES
-=======
+# Collybia mendica Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

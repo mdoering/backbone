@@ -1,5 +1,4 @@
-Poria niskiensis Pers. SPECIES
-=======
+# Poria niskiensis Pers. SPECIES
 
 #### Status
 ACCEPTED

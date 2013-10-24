@@ -1,5 +1,4 @@
-Caloplaca coralligera (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca coralligera (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

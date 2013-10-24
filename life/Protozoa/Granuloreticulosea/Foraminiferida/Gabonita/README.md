@@ -1,17 +1,16 @@
-Gabonella de Klasz, Marie & Meijer, 1960 GENUS
-=======
+# Gabonita Dieni, 1974 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revue Micropaléont. 3: 167.
+J. Paleont. 48: 1096.
 
 #### Original name
-null
+Gabonella de Klasz, Marie & Meijer, 1960
 
 ### Remarks
 null

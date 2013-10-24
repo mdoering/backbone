@@ -1,17 +1,16 @@
-Helmisporium libertianum Roum. SPECIES
-=======
+# Helminthosporium libertianum Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 6: 107 (1884)
 
 #### Original name
-Helmisporium libertianum Roum.
+Helminthosporium libertianum Roum.
 
 ### Remarks
 null

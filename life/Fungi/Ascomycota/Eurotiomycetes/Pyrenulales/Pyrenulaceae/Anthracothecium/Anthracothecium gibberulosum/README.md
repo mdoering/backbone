@@ -1,5 +1,4 @@
-Anthracothecium gibberulosum SPECIES
-=======
+# Anthracothecium gibberulosum SPECIES
 
 #### Status
 ACCEPTED

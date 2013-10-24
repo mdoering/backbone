@@ -1,5 +1,4 @@
-Agaricus flavellus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus flavellus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

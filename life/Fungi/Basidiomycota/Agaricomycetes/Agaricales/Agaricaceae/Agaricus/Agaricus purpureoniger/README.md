@@ -1,5 +1,4 @@
-Agaricus purpureoniger Heinem., 1974 SPECIES
-=======
+# Agaricus purpureoniger Heinem., 1974 SPECIES
 
 #### Status
 ACCEPTED

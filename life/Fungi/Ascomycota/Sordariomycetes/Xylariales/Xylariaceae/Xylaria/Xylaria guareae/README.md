@@ -1,5 +1,4 @@
-Xylaria guareae Laessøe & Lodge SPECIES
-=======
+# Xylaria guareae Laessøe & Lodge SPECIES
 
 #### Status
 ACCEPTED

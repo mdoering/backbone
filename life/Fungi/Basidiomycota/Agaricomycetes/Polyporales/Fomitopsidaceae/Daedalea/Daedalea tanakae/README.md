@@ -1,5 +1,4 @@
-Daedalea tanakae (Murrill) Aoshima SPECIES
-=======
+# Daedalea tanakae (Murrill) Aoshima SPECIES
 
 #### Status
 ACCEPTED

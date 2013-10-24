@@ -1,14 +1,13 @@
-Myriococcum albomyces Cooney & R. Emers., 1964 SPECIES
-=======
+# Melanocarpus albomyces (Cooney & R. Emers.) Arx, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Thermophilic Fungi 61 (1964)
+Stud. Mycol. 8: 175 (1975)
 
 #### Original name
 Myriococcum albomyces Cooney & R. Emers., 1964

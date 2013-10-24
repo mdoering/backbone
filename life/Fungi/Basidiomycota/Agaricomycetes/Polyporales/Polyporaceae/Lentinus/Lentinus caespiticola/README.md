@@ -1,17 +1,16 @@
-Lentinus caespiticola var. asiaticus Manim. & Leelav. VARIETY
-=======
+# Lentinus caespiticola Pat. & Har., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 99(4): 451 (1995)
+J. Bot. Morot 14: 240 (1900)
 
 #### Original name
-Lentinus caespiticola var. asiaticus Manim. & Leelav.
+Lentinus caespiticola Pat. & Har., 1900
 
 ### Remarks
 null

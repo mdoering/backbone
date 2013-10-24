@@ -1,5 +1,4 @@
-Ascophanopsis perplexans Faurel & Schotter SPECIES
-=======
+# Ascophanopsis perplexans Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

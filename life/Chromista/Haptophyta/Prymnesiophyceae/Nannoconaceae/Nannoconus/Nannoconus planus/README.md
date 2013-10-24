@@ -1,5 +1,4 @@
-Nannoconus planus Stradner, 1963 SPECIES
-=======
+# Nannoconus planus Stradner, 1963 SPECIES
 
 #### Status
 ACCEPTED

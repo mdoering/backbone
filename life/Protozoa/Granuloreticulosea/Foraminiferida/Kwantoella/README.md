@@ -1,5 +1,4 @@
-Kwantoella Sakagami & Omata, 1957 GENUS
-=======
+# Kwantoella Sakagami & Omata, 1957 GENUS
 
 #### Status
 ACCEPTED

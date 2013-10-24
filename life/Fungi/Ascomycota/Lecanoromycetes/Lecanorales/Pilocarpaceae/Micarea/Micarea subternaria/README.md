@@ -1,5 +1,4 @@
-Micarea subternaria (Vain.) Aptroot SPECIES
-=======
+# Micarea subternaria (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

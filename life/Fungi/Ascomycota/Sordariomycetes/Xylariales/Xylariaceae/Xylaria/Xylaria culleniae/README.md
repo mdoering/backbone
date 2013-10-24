@@ -1,5 +1,4 @@
-Xylaria culleniae Berk. & Broome, 1873 SPECIES
-=======
+# Xylaria culleniae Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED

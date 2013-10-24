@@ -1,5 +1,4 @@
-Trichobelonium flavidum Rehm SPECIES
-=======
+# Trichobelonium flavidum Rehm SPECIES
 
 #### Status
 ACCEPTED

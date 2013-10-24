@@ -1,5 +1,4 @@
-Balanium Wallr. GENUS
-=======
+# Balanium Wallr. GENUS
 
 #### Status
 ACCEPTED

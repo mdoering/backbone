@@ -1,5 +1,4 @@
-Gneudnaella Playford in Playford & Dring, 1981 GENUS
-=======
+# Gneudnaella Playford in Playford & Dring, 1981 GENUS
 
 #### Status
 ACCEPTED

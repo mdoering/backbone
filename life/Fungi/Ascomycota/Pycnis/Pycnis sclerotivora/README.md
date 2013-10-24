@@ -1,14 +1,13 @@
-Phoma sclerotivora (Bref.) Sacc. SPECIES
-=======
+# Pycnis sclerotivora Bref., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botanische Untersuchungen Schimmelpilze 4: 122 (1881)
 
 #### Original name
 Pycnis sclerotivora Bref., 1881

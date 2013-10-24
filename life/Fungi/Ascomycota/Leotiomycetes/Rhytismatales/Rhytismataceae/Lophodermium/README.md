@@ -1,17 +1,16 @@
-Lophoderma Chevall. GENUS
-=======
+# Lophodermium Chevallier, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Phys. Chim. Hist. nat. Arts 94: 31 (1822)
+null
 
 #### Original name
-Lophoderma Chevall.
+null
 
 ### Remarks
 null

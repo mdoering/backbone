@@ -1,5 +1,4 @@
-Heteroconium ponapense Matsush. SPECIES
-=======
+# Heteroconium ponapense Matsush. SPECIES
 
 #### Status
 ACCEPTED

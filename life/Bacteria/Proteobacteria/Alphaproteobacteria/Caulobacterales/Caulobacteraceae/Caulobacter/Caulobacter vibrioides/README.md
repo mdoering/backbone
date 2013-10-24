@@ -1,5 +1,4 @@
-Caulobacter vibrioides Henrici and Johnson, 1935 (Approved Lists, 1980) SPECIES
-=======
+# Caulobacter vibrioides Henrici and Johnson, 1935 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

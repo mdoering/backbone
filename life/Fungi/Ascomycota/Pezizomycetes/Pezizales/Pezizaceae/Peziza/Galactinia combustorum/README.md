@@ -1,5 +1,4 @@
-Galactinia combustorum (Velen.) Svrcek & Kubicka SPECIES
-=======
+# Galactinia combustorum (Velen.) Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

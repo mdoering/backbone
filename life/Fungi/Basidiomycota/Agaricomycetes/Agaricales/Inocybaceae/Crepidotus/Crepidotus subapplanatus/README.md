@@ -1,5 +1,4 @@
-Crepidotus subapplanatus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus subapplanatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

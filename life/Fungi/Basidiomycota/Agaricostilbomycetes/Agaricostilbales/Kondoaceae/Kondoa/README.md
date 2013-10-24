@@ -1,5 +1,4 @@
-Kondoa Y. Yamada, Nakagawa & I. Banno, 1989 GENUS
-=======
+# Kondoa Y. Yamada, Nakagawa & I. Banno, 1989 GENUS
 
 #### Status
 ACCEPTED

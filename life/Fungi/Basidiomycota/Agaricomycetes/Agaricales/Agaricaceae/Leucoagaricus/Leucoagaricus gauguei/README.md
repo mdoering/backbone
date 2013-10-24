@@ -1,5 +1,4 @@
-Leucoagaricus gauguei Bon & Boiffard SPECIES
-=======
+# Leucoagaricus gauguei Bon & Boiffard SPECIES
 
 #### Status
 ACCEPTED

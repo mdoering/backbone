@@ -1,5 +1,4 @@
-Agaricus minutulus Schaeff. SPECIES
-=======
+# Agaricus minutulus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

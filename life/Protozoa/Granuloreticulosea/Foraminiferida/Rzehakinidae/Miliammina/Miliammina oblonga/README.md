@@ -1,5 +1,4 @@
-Miliammina oblonga f. sabulosa Rhumbler, 1936 FORM
-=======
+# Miliammina oblonga Heron-Allen & Earland SPECIES
 
 #### Status
 ACCEPTED

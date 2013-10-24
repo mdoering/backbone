@@ -1,5 +1,4 @@
-Verrucaria confusionis Grummann SPECIES
-=======
+# Verrucaria confusionis Grummann SPECIES
 
 #### Status
 ACCEPTED

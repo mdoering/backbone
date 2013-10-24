@@ -1,5 +1,4 @@
-Pyrenula fimbriata Fée SPECIES
-=======
+# Pyrenula fimbriata Fée SPECIES
 
 #### Status
 ACCEPTED

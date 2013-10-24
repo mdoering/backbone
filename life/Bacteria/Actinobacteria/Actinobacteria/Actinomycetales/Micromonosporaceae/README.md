@@ -1,5 +1,4 @@
-Micromonosporaceae FAMILY
-=======
+# Micromonosporaceae FAMILY
 
 #### Status
 ACCEPTED

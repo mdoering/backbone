@@ -1,5 +1,4 @@
-Karreriella catenata SPECIES
-=======
+# Karreriella catenata SPECIES
 
 #### Status
 ACCEPTED

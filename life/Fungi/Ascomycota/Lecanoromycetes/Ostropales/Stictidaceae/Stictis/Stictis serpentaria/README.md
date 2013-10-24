@@ -1,5 +1,4 @@
-Stictis serpentaria Ellis & Everh. SPECIES
-=======
+# Stictis serpentaria Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

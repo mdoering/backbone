@@ -1,5 +1,4 @@
-Spicaria delacroixii (Sacc.) Vuill. SPECIES
-=======
+# Spicaria delacroixii (Sacc.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium thaxteri Seifert & W. Gams SPECIES
-=======
+# Gliocladium thaxteri Seifert & W. Gams SPECIES
 
 #### Status
 ACCEPTED

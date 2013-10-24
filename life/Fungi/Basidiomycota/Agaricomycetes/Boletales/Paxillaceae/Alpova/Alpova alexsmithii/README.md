@@ -1,5 +1,4 @@
-Alpova alexsmithii Trappe SPECIES
-=======
+# Alpova alexsmithii Trappe SPECIES
 
 #### Status
 ACCEPTED

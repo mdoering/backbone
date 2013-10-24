@@ -1,5 +1,4 @@
-Longilinea Yamada et al., 2007 GENUS
-=======
+# Longilinea Yamada et al., 2007 GENUS
 
 #### Status
 ACCEPTED

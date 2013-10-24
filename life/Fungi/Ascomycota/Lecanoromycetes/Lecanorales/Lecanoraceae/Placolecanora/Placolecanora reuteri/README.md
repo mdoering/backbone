@@ -1,5 +1,4 @@
-Placolecanora reuteri (Trevis.) Kopach. SPECIES
-=======
+# Placolecanora reuteri (Trevis.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

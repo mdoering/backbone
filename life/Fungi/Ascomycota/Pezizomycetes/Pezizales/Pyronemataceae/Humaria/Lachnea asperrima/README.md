@@ -1,5 +1,4 @@
-Lachnea asperrima Ellis & Everh. SPECIES
-=======
+# Lachnea asperrima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

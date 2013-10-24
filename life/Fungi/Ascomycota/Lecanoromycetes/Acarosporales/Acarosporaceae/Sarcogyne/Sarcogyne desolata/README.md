@@ -1,5 +1,4 @@
-Sarcogyne desolata (H. Magn.) K. Knudsen & Standley SPECIES
-=======
+# Sarcogyne desolata (H. Magn.) K. Knudsen & Standley SPECIES
 
 #### Status
 ACCEPTED

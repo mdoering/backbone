@@ -1,5 +1,4 @@
-Lachnea lurida Henn. & E. Nyman SPECIES
-=======
+# Lachnea lurida Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

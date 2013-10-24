@@ -1,5 +1,4 @@
-Biatora palmicola Tuck. SPECIES
-=======
+# Biatora palmicola Tuck. SPECIES
 
 #### Status
 ACCEPTED

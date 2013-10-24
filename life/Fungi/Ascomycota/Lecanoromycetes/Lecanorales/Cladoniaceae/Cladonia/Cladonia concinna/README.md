@@ -1,5 +1,4 @@
-Cladonia concinna Ahti & Goward SPECIES
-=======
+# Cladonia concinna Ahti & Goward SPECIES
 
 #### Status
 ACCEPTED

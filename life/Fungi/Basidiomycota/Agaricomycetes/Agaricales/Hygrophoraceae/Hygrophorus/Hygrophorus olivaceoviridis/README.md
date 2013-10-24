@@ -1,5 +1,4 @@
-Hygrophorus olivaceoviridis Hongo SPECIES
-=======
+# Hygrophorus olivaceoviridis Hongo SPECIES
 
 #### Status
 ACCEPTED

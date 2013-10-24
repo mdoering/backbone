@@ -1,5 +1,4 @@
-Rhizopogon canadensis K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon canadensis K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

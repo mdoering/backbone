@@ -1,5 +1,4 @@
-Calyptella bonairensis Singer, 1973 SPECIES
-=======
+# Calyptella bonairensis Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED

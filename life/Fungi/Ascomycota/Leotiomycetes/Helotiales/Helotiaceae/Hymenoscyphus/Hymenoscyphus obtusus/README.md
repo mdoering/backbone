@@ -1,5 +1,4 @@
-Hymenoscyphus obtusus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus obtusus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

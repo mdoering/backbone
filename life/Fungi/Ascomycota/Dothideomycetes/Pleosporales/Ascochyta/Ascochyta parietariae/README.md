@@ -1,5 +1,4 @@
-Ascochyta parietariae Roum. & Fautrey SPECIES
-=======
+# Ascochyta parietariae Roum. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

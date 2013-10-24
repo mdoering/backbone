@@ -1,5 +1,4 @@
-Hymenomonas coccolithophora J. Massart & Conrad SPECIES
-=======
+# Hymenomonas coccolithophora J. Massart & Conrad SPECIES
 
 #### Status
 ACCEPTED

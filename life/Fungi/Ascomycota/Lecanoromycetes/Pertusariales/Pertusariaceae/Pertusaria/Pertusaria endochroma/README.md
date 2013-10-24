@@ -1,5 +1,4 @@
-Pertusaria endochroma Müll. Arg. SPECIES
-=======
+# Pertusaria endochroma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

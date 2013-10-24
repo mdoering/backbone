@@ -1,5 +1,4 @@
-Planulinoides hamasuturalis Kennett, 1967 SPECIES
-=======
+# Planulinoides hamasuturalis Kennett, 1967 SPECIES
 
 #### Status
 ACCEPTED

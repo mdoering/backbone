@@ -1,5 +1,4 @@
-Speira Corda, 1837 GENUS
-=======
+# Speira Corda, 1837 GENUS
 
 #### Status
 ACCEPTED

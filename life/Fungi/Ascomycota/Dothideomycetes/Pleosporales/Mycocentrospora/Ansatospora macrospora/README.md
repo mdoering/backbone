@@ -1,5 +1,4 @@
-Ansatospora macrospora (Osterw.) A.G. Newhall SPECIES
-=======
+# Ansatospora macrospora (Osterw.) A.G. Newhall SPECIES
 
 #### Status
 ACCEPTED

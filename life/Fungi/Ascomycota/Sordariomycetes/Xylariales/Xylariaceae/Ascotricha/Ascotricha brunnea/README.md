@@ -1,5 +1,4 @@
-Ascotricha brunnea Bonord. SPECIES
-=======
+# Ascotricha brunnea Bonord. SPECIES
 
 #### Status
 ACCEPTED

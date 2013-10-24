@@ -1,5 +1,4 @@
-Phoma cuginiana Traverso SPECIES
-=======
+# Phoma cuginiana Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hartmannula acellata Tucolesco, 1962 SPECIES
-=======
+# Hartmannula acellata Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

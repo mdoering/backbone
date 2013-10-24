@@ -1,5 +1,4 @@
-Aecidium phrygilanthi H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium phrygilanthi H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

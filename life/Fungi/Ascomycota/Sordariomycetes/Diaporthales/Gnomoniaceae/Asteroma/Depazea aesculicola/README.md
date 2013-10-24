@@ -1,5 +1,4 @@
-Depazea aesculicola Fr. SPECIES
-=======
+# Depazea aesculicola Fr. SPECIES
 
 #### Status
 ACCEPTED

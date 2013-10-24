@@ -1,5 +1,4 @@
-Arnaudiella ribis E. Müll. SPECIES
-=======
+# Arnaudiella ribis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

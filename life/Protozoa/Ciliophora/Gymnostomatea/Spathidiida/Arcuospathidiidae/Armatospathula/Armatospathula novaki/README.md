@@ -1,8 +1,7 @@
-Arcuospathidium novaki Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Armatospathula novaki (Foissner, Agatha & Berger, 2002) Foissner & Xu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

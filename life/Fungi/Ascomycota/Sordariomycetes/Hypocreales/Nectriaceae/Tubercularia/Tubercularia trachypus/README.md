@@ -1,5 +1,4 @@
-Tubercularia trachypus (Nyl.) SPECIES
-=======
+# Tubercularia trachypus (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

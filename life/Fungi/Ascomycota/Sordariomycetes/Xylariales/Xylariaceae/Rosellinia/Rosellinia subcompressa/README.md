@@ -1,5 +1,4 @@
-Rosellinia subcompressa Ellis & Everh. SPECIES
-=======
+# Rosellinia subcompressa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

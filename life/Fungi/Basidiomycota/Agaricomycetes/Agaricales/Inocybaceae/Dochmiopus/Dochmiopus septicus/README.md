@@ -1,5 +1,4 @@
-Dochmiopus septicus (Fr.) Singer SPECIES
-=======
+# Dochmiopus septicus (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

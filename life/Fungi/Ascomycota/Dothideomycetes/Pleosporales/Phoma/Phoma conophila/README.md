@@ -1,5 +1,4 @@
-Phoma conophila Sacc. SPECIES
-=======
+# Phoma conophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

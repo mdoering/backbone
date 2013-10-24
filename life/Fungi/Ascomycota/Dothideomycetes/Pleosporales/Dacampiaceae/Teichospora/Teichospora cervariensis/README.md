@@ -1,5 +1,4 @@
-Teichospora cervariensis Sacc. & Berl. SPECIES
-=======
+# Teichospora cervariensis Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

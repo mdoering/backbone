@@ -1,5 +1,4 @@
-Cantharellus discolor Velen. SPECIES
-=======
+# Cantharellus discolor Velen. SPECIES
 
 #### Status
 ACCEPTED

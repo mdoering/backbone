@@ -1,5 +1,4 @@
-Lactarius saponaceous De Kesel, Codjia & Yourou SPECIES
-=======
+# Lactarius saponaceous De Kesel, Codjia & Yourou SPECIES
 
 #### Status
 ACCEPTED

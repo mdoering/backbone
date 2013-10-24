@@ -1,5 +1,4 @@
-Sporormia leptosphaerioides Speg., 1879 SPECIES
-=======
+# Sporormia leptosphaerioides Speg., 1879 SPECIES
 
 #### Status
 ACCEPTED

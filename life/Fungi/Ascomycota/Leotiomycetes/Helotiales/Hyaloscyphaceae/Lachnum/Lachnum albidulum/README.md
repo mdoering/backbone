@@ -1,5 +1,4 @@
-Lachnum albidulum (Penz. & Sacc.) M.P. Sharma SPECIES
-=======
+# Lachnum albidulum (Penz. & Sacc.) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

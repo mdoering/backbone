@@ -1,5 +1,4 @@
-Anabaena verrucosa var. polyspora I.T. Tarnavschi & N. Mitroiu VARIETY
-=======
+# Anabaena verrucosa J.B. Petersen SPECIES
 
 #### Status
 ACCEPTED

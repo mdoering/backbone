@@ -1,5 +1,4 @@
-Eufolliculina baltica Sjögren, 1964 SPECIES
-=======
+# Eufolliculina baltica Sjögren, 1964 SPECIES
 
 #### Status
 ACCEPTED

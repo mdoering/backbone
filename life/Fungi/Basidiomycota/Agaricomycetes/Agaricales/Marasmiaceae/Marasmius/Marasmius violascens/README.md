@@ -1,5 +1,4 @@
-Marasmius violascens Velen. SPECIES
-=======
+# Marasmius violascens Velen. SPECIES
 
 #### Status
 ACCEPTED

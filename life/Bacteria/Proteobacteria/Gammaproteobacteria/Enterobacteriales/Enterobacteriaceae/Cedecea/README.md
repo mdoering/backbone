@@ -1,5 +1,4 @@
-Cedecea Grimont et al., 1981 GENUS
-=======
+# Cedecea Grimont et al., 1981 GENUS
 
 #### Status
 ACCEPTED

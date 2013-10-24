@@ -1,17 +1,16 @@
-Aecidium elaeocarpi-tuberculatae Hosag. SPECIES
-=======
+# Aecidium elaeocarpi-tuberculati Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 53(2): 106 (1984)
 
 #### Original name
-Aecidium elaeocarpi-tuberculatae Hosag.
+Aecidium elaeocarpi-tuberculati Hosag.
 
 ### Remarks
 null

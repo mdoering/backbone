@@ -1,5 +1,4 @@
-Prorocentrum cornutum Schiller SPECIES
-=======
+# Prorocentrum cornutum Schiller SPECIES
 
 #### Status
 ACCEPTED

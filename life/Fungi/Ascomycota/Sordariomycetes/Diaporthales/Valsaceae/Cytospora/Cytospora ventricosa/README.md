@@ -1,5 +1,4 @@
-Cytospora ventricosa Sacc. SPECIES
-=======
+# Cytospora ventricosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius pilosus Verbeken, H.T. Le & Lumyong SPECIES
-=======
+# Lactarius pilosus Verbeken, H.T. Le & Lumyong SPECIES
 
 #### Status
 ACCEPTED

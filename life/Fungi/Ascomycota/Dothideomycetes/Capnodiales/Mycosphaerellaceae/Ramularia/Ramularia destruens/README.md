@@ -1,5 +1,4 @@
-Ramularia destruens Peck SPECIES
-=======
+# Ramularia destruens Peck SPECIES
 
 #### Status
 ACCEPTED

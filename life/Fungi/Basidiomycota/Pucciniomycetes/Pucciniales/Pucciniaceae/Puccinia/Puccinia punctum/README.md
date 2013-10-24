@@ -1,5 +1,4 @@
-Puccinia punctum Fuckel SPECIES
-=======
+# Puccinia punctum Fuckel SPECIES
 
 #### Status
 ACCEPTED

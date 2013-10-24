@@ -1,5 +1,4 @@
-Rehmiellopsis GENUS
-=======
+# Rehmiellopsis GENUS
 
 #### Status
 ACCEPTED

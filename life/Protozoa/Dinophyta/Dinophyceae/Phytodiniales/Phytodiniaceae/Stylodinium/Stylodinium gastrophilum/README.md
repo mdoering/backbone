@@ -1,5 +1,4 @@
-Stylodinium gastrophilum Cachon, Cachon & Bouquaheux SPECIES
-=======
+# Stylodinium gastrophilum Cachon, Cachon & Bouquaheux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia mali Ellis & Everh. SPECIES
-=======
+# Pestalotia mali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

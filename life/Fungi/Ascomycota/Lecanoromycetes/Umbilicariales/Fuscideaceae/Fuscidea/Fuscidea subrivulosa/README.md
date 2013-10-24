@@ -1,5 +1,4 @@
-Fuscidea subrivulosa (Vain.) P. James, Poelt & Mas. Inoue SPECIES
-=======
+# Fuscidea subrivulosa (Vain.) P. James, Poelt & Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

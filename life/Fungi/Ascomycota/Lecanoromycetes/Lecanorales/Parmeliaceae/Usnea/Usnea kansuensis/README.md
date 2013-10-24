@@ -1,5 +1,4 @@
-Usnea kansuensis H. Magn. SPECIES
-=======
+# Usnea kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

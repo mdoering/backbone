@@ -1,5 +1,4 @@
-Stereocaulon maderense Tuck. SPECIES
-=======
+# Stereocaulon maderense Tuck. SPECIES
 
 #### Status
 ACCEPTED

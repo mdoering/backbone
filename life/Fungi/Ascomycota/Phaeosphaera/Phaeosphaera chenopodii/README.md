@@ -1,5 +1,4 @@
-Phaeosphaera chenopodii Bat. & Cif., 1963 SPECIES
-=======
+# Phaeosphaera chenopodii Bat. & Cif., 1963 SPECIES
 
 #### Status
 ACCEPTED

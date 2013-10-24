@@ -1,5 +1,4 @@
-Haptoglossa polymorpha Glockling & Beakes, 2001 SPECIES
-=======
+# Haptoglossa polymorpha Glockling & Beakes, 2001 SPECIES
 
 #### Status
 ACCEPTED

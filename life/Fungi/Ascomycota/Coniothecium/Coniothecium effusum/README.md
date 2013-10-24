@@ -1,5 +1,4 @@
-Coniothecium effusum Corda, 1837 SPECIES
-=======
+# Coniothecium effusum Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

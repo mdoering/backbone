@@ -1,5 +1,4 @@
-Melampylidium macrosporum (R.C. Harris) Henssen SPECIES
-=======
+# Melampylidium macrosporum (R.C. Harris) Henssen SPECIES
 
 #### Status
 ACCEPTED

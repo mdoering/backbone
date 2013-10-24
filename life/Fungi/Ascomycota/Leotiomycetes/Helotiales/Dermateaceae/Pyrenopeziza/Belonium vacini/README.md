@@ -1,5 +1,4 @@
-Belonium vacini Velen. SPECIES
-=======
+# Belonium vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

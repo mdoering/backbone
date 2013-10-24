@@ -1,5 +1,4 @@
-Aulofolliculina Hadzi, 1951 GENUS
-=======
+# Aulofolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

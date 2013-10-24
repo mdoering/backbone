@@ -1,5 +1,4 @@
-Throcorusca Haeckel, 1887 GENUS
-=======
+# Throcorusca Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

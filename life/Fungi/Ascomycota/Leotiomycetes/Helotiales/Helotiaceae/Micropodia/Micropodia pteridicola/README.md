@@ -1,5 +1,4 @@
-Micropodia pteridicola anon. SPECIES
-=======
+# Micropodia pteridicola anon. SPECIES
 
 #### Status
 ACCEPTED

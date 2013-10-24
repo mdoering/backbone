@@ -1,5 +1,4 @@
-Amphisolenia thrinax Schutt SPECIES
-=======
+# Amphisolenia thrinax Schutt SPECIES
 
 #### Status
 ACCEPTED

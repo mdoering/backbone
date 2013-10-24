@@ -1,5 +1,4 @@
-Gyalecta steinii Novák {?} SPECIES
-=======
+# Gyalecta steinii Novák {?} SPECIES
 
 #### Status
 ACCEPTED

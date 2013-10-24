@@ -1,5 +1,4 @@
-Gymnascella calcarea Currah SPECIES
-=======
+# Gymnascella calcarea Currah SPECIES
 
 #### Status
 ACCEPTED

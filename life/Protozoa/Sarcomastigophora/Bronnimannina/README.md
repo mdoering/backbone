@@ -1,5 +1,4 @@
-Bronnimannina Singh & Kalia, 1969 GENUS
-=======
+# Bronnimannina Singh & Kalia, 1969 GENUS
 
 #### Status
 ACCEPTED

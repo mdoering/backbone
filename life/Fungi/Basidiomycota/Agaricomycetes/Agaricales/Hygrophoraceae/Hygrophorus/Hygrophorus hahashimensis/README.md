@@ -1,5 +1,4 @@
-Hygrophorus hahashimensis Hongo SPECIES
-=======
+# Hygrophorus hahashimensis Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia rubescens Velen. SPECIES
-=======
+# Omphalia rubescens Velen. SPECIES
 
 #### Status
 ACCEPTED

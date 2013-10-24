@@ -1,5 +1,4 @@
-Plicaria subglobosa Velen. SPECIES
-=======
+# Plicaria subglobosa Velen. SPECIES
 
 #### Status
 ACCEPTED

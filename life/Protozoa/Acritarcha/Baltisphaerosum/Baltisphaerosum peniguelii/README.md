@@ -1,5 +1,4 @@
-Baltisphaerosum peniguelii Ottone, Toro & Waisfeld, 1992 SPECIES
-=======
+# Baltisphaerosum peniguelii Ottone, Toro & Waisfeld, 1992 SPECIES
 
 #### Status
 ACCEPTED

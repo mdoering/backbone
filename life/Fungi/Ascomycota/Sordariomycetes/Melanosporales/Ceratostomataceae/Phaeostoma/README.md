@@ -1,5 +1,4 @@
-Phaeostoma GENUS
-=======
+# Phaeostoma GENUS
 
 #### Status
 ACCEPTED

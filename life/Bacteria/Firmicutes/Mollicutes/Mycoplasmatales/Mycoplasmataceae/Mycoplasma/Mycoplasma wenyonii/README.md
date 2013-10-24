@@ -1,11 +1,10 @@
-Haemobartonella wenyonii (Adler & Ellenbogen, 1934) Weinman, 1944 SPECIES
-=======
+# Mycoplasma wenyonii (Adler & Ellenbogen, 1934) Neimark et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Chroococcus molischii Schiller SPECIES
-=======
+# Chroococcus molischii Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces senecionicola Arthur SPECIES
-=======
+# Uromyces senecionicola Arthur SPECIES
 
 #### Status
 ACCEPTED

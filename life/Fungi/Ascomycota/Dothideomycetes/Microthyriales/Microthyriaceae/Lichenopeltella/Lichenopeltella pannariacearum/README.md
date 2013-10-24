@@ -1,5 +1,4 @@
-Lichenopeltella pannariacearum Diederich SPECIES
-=======
+# Lichenopeltella pannariacearum Diederich SPECIES
 
 #### Status
 ACCEPTED

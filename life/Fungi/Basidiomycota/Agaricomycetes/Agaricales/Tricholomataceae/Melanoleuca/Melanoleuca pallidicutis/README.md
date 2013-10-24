@@ -1,5 +1,4 @@
-Melanoleuca pallidicutis Bresinsky SPECIES
-=======
+# Melanoleuca pallidicutis Bresinsky SPECIES
 
 #### Status
 ACCEPTED

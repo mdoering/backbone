@@ -1,5 +1,4 @@
-Psammina globigerina Haeckel, 1889 SPECIES
-=======
+# Psammina globigerina Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pararotalia taiwanica (Nakamura) SPECIES
-=======
+# Pararotalia taiwanica (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

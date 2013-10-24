@@ -1,5 +1,4 @@
-Aspicilia asteria Hue SPECIES
-=======
+# Aspicilia asteria Hue SPECIES
 
 #### Status
 ACCEPTED

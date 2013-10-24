@@ -1,5 +1,4 @@
-Stropharia versicolor (With.) Fr. SPECIES
-=======
+# Stropharia versicolor (With.) Fr. SPECIES
 
 #### Status
 ACCEPTED

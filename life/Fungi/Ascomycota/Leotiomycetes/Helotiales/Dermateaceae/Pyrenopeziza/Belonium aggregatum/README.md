@@ -1,5 +1,4 @@
-Belonium aggregatum Cash SPECIES
-=======
+# Belonium aggregatum Cash SPECIES
 
 #### Status
 ACCEPTED

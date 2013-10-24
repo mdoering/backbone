@@ -1,5 +1,4 @@
-Boletus amarus Vittad. SPECIES
-=======
+# Boletus amarus Vittad. SPECIES
 
 #### Status
 ACCEPTED

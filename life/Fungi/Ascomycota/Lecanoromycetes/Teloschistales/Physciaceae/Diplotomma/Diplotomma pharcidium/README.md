@@ -1,5 +1,4 @@
-Diplotomma pharcidium (Ach.) M. Choisy SPECIES
-=======
+# Diplotomma pharcidium (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

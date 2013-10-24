@@ -1,17 +1,16 @@
-Diplodina obionis Jaap SPECIES
-=======
+# Ascochyta obiones (Jaap) P.K. Buchanan, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 156: 28 (1987)
 
 #### Original name
-Diplodina obionis Jaap
+Diplodina obiones Jaap
 
 ### Remarks
 null

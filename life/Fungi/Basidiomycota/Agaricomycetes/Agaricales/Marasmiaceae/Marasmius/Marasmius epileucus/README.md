@@ -1,5 +1,4 @@
-Marasmius epileucus Berk. SPECIES
-=======
+# Marasmius epileucus Berk. SPECIES
 
 #### Status
 ACCEPTED

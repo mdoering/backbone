@@ -1,5 +1,4 @@
-Homozygosphaera tholifera (Kamptner, 1941) Halldal & Markali, 1955 SPECIES
-=======
+# Homozygosphaera tholifera (Kamptner, 1941) Halldal & Markali, 1955 SPECIES
 
 #### Status
 ACCEPTED

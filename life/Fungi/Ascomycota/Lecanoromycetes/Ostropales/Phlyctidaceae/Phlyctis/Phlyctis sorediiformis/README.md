@@ -1,5 +1,4 @@
-Phlyctis sorediiformis Kremp. SPECIES
-=======
+# Phlyctis sorediiformis Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca arnoldiiconfusa Gaya & Nav.-Ros. SPECIES
-=======
+# Caloplaca arnoldiiconfusa Gaya & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

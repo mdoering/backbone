@@ -1,5 +1,4 @@
-Mesnilella hynnis SPECIES
-=======
+# Mesnilella hynnis SPECIES
 
 #### Status
 ACCEPTED

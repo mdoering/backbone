@@ -1,5 +1,4 @@
-Uredo microstegii Z.C. Chen SPECIES
-=======
+# Uredo microstegii Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Johannesbaptistia schizodichotoma (Copeland) Komárek & Anagnostidis SPECIES
-=======
+# Johannesbaptistia schizodichotoma (Copeland) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

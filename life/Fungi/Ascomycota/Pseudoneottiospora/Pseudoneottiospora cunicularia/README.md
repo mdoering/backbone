@@ -1,5 +1,4 @@
-Pseudoneottiospora cunicularia Faurel & Schotter, 1965 SPECIES
-=======
+# Pseudoneottiospora cunicularia Faurel & Schotter, 1965 SPECIES
 
 #### Status
 ACCEPTED

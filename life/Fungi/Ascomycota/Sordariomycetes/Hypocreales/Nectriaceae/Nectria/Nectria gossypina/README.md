@@ -1,5 +1,4 @@
-Nectria gossypina Samuels & Rogerson SPECIES
-=======
+# Nectria gossypina Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

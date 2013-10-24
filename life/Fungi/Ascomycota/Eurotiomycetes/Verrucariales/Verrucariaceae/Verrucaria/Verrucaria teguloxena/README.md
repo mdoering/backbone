@@ -1,5 +1,4 @@
-Verrucaria teguloxena Servít SPECIES
-=======
+# Verrucaria teguloxena Servít SPECIES
 
 #### Status
 ACCEPTED

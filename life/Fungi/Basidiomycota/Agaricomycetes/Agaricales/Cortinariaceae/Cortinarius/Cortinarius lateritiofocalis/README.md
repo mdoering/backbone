@@ -1,5 +1,4 @@
-Cortinarius lateritiofocalis Rob. Henry SPECIES
-=======
+# Cortinarius lateritiofocalis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia coloradensis E.K. Cash & R.W. Davidson SPECIES
-=======
+# Sclerotinia coloradensis E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

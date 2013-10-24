@@ -1,5 +1,4 @@
-Gymnodinium vestifici SPECIES
-=======
+# Gymnodinium vestifici SPECIES
 
 #### Status
 ACCEPTED

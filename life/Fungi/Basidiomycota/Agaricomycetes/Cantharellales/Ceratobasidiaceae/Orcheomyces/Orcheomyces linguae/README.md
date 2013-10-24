@@ -1,5 +1,4 @@
-Orcheomyces linguae Burgeff SPECIES
-=======
+# Orcheomyces linguae Burgeff SPECIES
 
 #### Status
 ACCEPTED

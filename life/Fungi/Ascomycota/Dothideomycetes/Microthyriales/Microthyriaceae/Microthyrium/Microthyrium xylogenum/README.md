@@ -1,5 +1,4 @@
-Microthyrium xylogenum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Microthyrium xylogenum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

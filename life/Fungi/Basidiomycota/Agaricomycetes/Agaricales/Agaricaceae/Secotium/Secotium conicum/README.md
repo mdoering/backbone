@@ -1,5 +1,4 @@
-Secotium conicum Hesler SPECIES
-=======
+# Secotium conicum Hesler SPECIES
 
 #### Status
 ACCEPTED

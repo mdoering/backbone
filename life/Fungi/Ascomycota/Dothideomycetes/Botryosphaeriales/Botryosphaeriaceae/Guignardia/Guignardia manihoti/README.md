@@ -1,17 +1,16 @@
-Guignardia manihoti var. manihoti VARIETY
-=======
+# Guignardia manihoti Sacc., 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 12(3): 304 (1914)
 
 #### Original name
-Guignardia manihoti var. manihoti
+Guignardia manihoti Sacc., 1914
 
 ### Remarks
 null

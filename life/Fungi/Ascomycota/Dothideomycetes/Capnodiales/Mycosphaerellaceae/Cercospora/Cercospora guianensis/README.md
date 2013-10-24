@@ -1,5 +1,4 @@
-Cercospora guianensis F. Stevens & Solheim SPECIES
-=======
+# Cercospora guianensis F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

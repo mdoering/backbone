@@ -1,5 +1,4 @@
-Puccinia triarticulata Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia triarticulata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

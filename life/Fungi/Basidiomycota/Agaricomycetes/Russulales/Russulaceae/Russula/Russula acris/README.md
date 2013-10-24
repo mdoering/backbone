@@ -1,5 +1,4 @@
-Russula acris Steinhaus SPECIES
-=======
+# Russula acris Steinhaus SPECIES
 
 #### Status
 ACCEPTED

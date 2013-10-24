@@ -1,5 +1,4 @@
-Agaricus cirrhocephalus Berk. & Broome SPECIES
-=======
+# Agaricus cirrhocephalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

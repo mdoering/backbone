@@ -1,5 +1,4 @@
-Novistrombidium apsheronicum (Alekperov & Asadullayeva, 1997) Agatha, 2003 SPECIES
-=======
+# Novistrombidium apsheronicum (Alekperov & Asadullayeva, 1997) Agatha, 2003 SPECIES
 
 #### Status
 ACCEPTED

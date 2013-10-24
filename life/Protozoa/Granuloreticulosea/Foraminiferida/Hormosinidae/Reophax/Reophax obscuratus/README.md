@@ -1,5 +1,4 @@
-Reophax obscuratus Zheng, 1988 SPECIES
-=======
+# Reophax obscuratus Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

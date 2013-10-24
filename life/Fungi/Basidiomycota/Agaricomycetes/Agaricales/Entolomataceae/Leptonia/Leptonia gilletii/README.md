@@ -1,5 +1,4 @@
-Leptonia gilletii Quél. SPECIES
-=======
+# Leptonia gilletii Quél. SPECIES
 
 #### Status
 ACCEPTED

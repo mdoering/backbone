@@ -1,5 +1,4 @@
-Aecidium agerati Henn. SPECIES
-=======
+# Aecidium agerati Henn. SPECIES
 
 #### Status
 ACCEPTED

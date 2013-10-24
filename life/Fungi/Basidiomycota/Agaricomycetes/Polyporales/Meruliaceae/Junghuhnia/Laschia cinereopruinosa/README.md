@@ -1,5 +1,4 @@
-Laschia cinereopruinosa Kalchbr. SPECIES
-=======
+# Laschia cinereopruinosa Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

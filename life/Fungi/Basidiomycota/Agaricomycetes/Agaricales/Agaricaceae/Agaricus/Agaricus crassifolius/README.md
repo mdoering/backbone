@@ -1,5 +1,4 @@
-Agaricus crassifolius Fr. SPECIES
-=======
+# Agaricus crassifolius Fr. SPECIES
 
 #### Status
 ACCEPTED

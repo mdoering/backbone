@@ -1,5 +1,4 @@
-Lychnosphaera Haeckel, 1881 GENUS
-=======
+# Lychnosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

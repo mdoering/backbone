@@ -1,5 +1,4 @@
-Ostiana T.N. Hermann in B.V. Timofeev, T.N. Hermann & N.S. Mikhailova, 1976 GENUS
-=======
+# Ostiana T.N. Hermann in B.V. Timofeev, T.N. Hermann & N.S. Mikhailova, 1976 GENUS
 
 #### Status
 ACCEPTED

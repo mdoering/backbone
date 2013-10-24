@@ -1,14 +1,13 @@
-Mollisia suecica Starbäck, 1888 SPECIES
-=======
+# Durella suecica (Starbäck) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zbl. 1: 350 (1888)
+Nova Acta R. Soc. Scient. upsal. , Ser. 4 4(2): 293 (1932)
 
 #### Original name
 Mollisia suecica Starbäck, 1888

@@ -1,5 +1,4 @@
-Sebacina fuscata Y.B. Peng SPECIES
-=======
+# Sebacina fuscata Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

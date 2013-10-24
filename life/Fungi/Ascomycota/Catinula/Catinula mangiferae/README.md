@@ -1,5 +1,4 @@
-Catinula mangiferae (Mont.) Sacc. SPECIES
-=======
+# Catinula mangiferae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

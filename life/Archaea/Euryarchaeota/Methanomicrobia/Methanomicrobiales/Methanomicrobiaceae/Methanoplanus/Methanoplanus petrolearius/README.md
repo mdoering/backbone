@@ -1,5 +1,4 @@
-Methanoplanus petrolearius Ollivier et al., 1998 SPECIES
-=======
+# Methanoplanus petrolearius Ollivier et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

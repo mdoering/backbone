@@ -1,17 +1,16 @@
-Parmelia synestia Stirt. SPECIES
-=======
+# Xanthoparmelia synestia (Stirt.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 489 (1974)
 
 #### Original name
-null
+Parmelia synestia Stirt.
 
 ### Remarks
 null

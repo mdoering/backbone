@@ -1,5 +1,4 @@
-Ophiobolus manihotis Syd. SPECIES
-=======
+# Ophiobolus manihotis Syd. SPECIES
 
 #### Status
 ACCEPTED

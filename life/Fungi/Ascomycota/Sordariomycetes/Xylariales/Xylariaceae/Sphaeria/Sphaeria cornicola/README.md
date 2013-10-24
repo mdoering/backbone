@@ -1,5 +1,4 @@
-Sphaeria cornicola DC., 1815 SPECIES
-=======
+# Sphaeria cornicola DC., 1815 SPECIES
 
 #### Status
 ACCEPTED

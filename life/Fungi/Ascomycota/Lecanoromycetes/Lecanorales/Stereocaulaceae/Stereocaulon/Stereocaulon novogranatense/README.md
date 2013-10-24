@@ -1,5 +1,4 @@
-Stereocaulon novogranatense I.M. Lamb SPECIES
-=======
+# Stereocaulon novogranatense I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

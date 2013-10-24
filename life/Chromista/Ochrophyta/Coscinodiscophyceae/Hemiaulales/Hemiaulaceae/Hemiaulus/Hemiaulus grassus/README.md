@@ -1,5 +1,4 @@
-Hemiaulus grassus J. Fenner SPECIES
-=======
+# Hemiaulus grassus J. Fenner SPECIES
 
 #### Status
 ACCEPTED

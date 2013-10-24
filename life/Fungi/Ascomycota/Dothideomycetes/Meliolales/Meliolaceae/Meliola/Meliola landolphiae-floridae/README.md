@@ -1,5 +1,4 @@
-Meliola landolphiae-floridae Hansf. SPECIES
-=======
+# Meliola landolphiae-floridae Hansf. SPECIES
 
 #### Status
 ACCEPTED

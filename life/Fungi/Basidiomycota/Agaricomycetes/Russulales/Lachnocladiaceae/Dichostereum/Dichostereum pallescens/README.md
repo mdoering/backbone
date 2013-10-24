@@ -1,14 +1,13 @@
-Hypochnus pallescens (Schwein.) Burt, 1917 SPECIES
-=======
+# Dichostereum pallescens (Schwein.) Boidin & Lanq., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 4: 267 (1917)
+Mycotaxon 6(2): 284 (1977)
 
 #### Original name
 Thelephora pallescens Schwein., 1832

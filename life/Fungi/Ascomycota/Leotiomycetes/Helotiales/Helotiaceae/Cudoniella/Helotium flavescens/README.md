@@ -1,5 +1,4 @@
-Helotium flavescens Pers. SPECIES
-=======
+# Helotium flavescens Pers. SPECIES
 
 #### Status
 ACCEPTED

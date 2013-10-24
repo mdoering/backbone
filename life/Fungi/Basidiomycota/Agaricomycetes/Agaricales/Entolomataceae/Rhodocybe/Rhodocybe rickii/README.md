@@ -1,5 +1,4 @@
-Rhodocybe rickii Singer SPECIES
-=======
+# Rhodocybe rickii Singer SPECIES
 
 #### Status
 ACCEPTED

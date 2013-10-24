@@ -1,5 +1,4 @@
-Uredo vernoniae Mayor SPECIES
-=======
+# Uredo vernoniae Mayor SPECIES
 
 #### Status
 ACCEPTED

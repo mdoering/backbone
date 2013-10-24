@@ -1,5 +1,4 @@
-Trichobasis exasperata Cooke SPECIES
-=======
+# Trichobasis exasperata Cooke SPECIES
 
 #### Status
 ACCEPTED

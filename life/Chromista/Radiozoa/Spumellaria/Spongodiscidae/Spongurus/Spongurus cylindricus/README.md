@@ -1,8 +1,7 @@
-Spongocore cylindrica (Haeckel, 1862) SPECIES
-=======
+# Spongurus cylindricus Haeckel, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

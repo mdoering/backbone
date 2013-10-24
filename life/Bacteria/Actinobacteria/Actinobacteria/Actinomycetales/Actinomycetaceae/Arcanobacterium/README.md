@@ -1,5 +1,4 @@
-Arcanobacterium Collins et al., 1983 GENUS
-=======
+# Arcanobacterium Collins et al., 1983 GENUS
 
 #### Status
 ACCEPTED

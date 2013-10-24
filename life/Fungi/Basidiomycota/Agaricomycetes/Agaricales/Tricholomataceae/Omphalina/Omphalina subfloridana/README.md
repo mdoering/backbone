@@ -1,5 +1,4 @@
-Omphalina subfloridana Murrill SPECIES
-=======
+# Omphalina subfloridana Murrill SPECIES
 
 #### Status
 ACCEPTED

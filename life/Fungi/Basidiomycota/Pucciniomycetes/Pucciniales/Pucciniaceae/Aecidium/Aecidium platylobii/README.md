@@ -1,5 +1,4 @@
-Aecidium platylobii McAlpine SPECIES
-=======
+# Aecidium platylobii McAlpine SPECIES
 
 #### Status
 ACCEPTED

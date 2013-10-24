@@ -1,5 +1,4 @@
-Anthostomella clypeatula Sousa da Câmara SPECIES
-=======
+# Anthostomella clypeatula Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

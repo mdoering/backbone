@@ -1,5 +1,4 @@
-Zygorhizidium chlorophycidis Canter, 1963 SPECIES
-=======
+# Zygorhizidium chlorophycidis Canter, 1963 SPECIES
 
 #### Status
 ACCEPTED

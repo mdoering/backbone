@@ -1,5 +1,4 @@
-Phoma parvispora Sacc. & P. Syd. SPECIES
-=======
+# Phoma parvispora Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

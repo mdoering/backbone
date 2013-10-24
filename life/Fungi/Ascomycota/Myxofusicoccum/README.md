@@ -1,5 +1,4 @@
-Myxofusicoccum GENUS
-=======
+# Myxofusicoccum GENUS
 
 #### Status
 ACCEPTED

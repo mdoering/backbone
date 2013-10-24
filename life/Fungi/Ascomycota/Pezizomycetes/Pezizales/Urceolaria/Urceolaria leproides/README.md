@@ -1,5 +1,4 @@
-Urceolaria leproides Pers. SPECIES
-=======
+# Urceolaria leproides Pers. SPECIES
 
 #### Status
 ACCEPTED

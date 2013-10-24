@@ -1,5 +1,4 @@
-Lopholigotriletes Alyushinskii et al., 1957 GENUS
-=======
+# Lopholigotriletes Alyushinskii et al., 1957 GENUS
 
 #### Status
 ACCEPTED

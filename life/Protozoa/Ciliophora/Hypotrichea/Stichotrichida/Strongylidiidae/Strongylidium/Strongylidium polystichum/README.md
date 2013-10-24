@@ -1,5 +1,4 @@
-Strongylidium polystichum Kahl, 1932 SPECIES
-=======
+# Strongylidium polystichum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

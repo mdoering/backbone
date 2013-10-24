@@ -1,17 +1,16 @@
-Ascochyta mercurialis var. mercurialis VARIETY
-=======
+# Ascochyta mercurialis Bres., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 39(6): 326 (1900)
 
 #### Original name
-Ascochyta mercurialis var. mercurialis
+Ascochyta mercurialis Bres., 1900
 
 ### Remarks
 null

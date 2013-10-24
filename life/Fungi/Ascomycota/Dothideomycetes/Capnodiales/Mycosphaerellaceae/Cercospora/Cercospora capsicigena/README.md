@@ -1,5 +1,4 @@
-Cercospora capsicigena Bhartiya, R. Dubey & S.K. Singh SPECIES
-=======
+# Cercospora capsicigena Bhartiya, R. Dubey & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

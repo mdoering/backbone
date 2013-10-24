@@ -1,5 +1,4 @@
-Toninia nashii Timdal SPECIES
-=======
+# Toninia nashii Timdal SPECIES
 
 #### Status
 ACCEPTED

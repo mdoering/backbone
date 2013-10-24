@@ -1,5 +1,4 @@
-Rhizophydium cyclotellae Zopf SPECIES
-=======
+# Rhizophydium cyclotellae Zopf SPECIES
 
 #### Status
 ACCEPTED

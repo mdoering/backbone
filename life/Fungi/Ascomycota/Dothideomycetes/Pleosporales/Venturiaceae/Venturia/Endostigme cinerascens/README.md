@@ -1,5 +1,4 @@
-Endostigme cinerascens (Fleischh.) Jørst. SPECIES
-=======
+# Endostigme cinerascens (Fleischh.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

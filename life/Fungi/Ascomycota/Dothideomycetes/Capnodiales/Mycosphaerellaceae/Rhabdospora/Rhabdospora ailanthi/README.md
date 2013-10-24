@@ -1,5 +1,4 @@
-Rhabdospora ailanthi Bres. SPECIES
-=======
+# Rhabdospora ailanthi Bres. SPECIES
 
 #### Status
 ACCEPTED

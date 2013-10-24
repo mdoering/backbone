@@ -1,5 +1,4 @@
-Physalospora oenotherae (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Physalospora oenotherae (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

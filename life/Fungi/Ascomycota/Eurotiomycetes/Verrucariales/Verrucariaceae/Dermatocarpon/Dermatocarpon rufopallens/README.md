@@ -1,5 +1,4 @@
-Dermatocarpon rufopallens (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon rufopallens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

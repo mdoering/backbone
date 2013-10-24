@@ -1,5 +1,4 @@
-Rhodocybe pallida T.J. Baroni SPECIES
-=======
+# Rhodocybe pallida T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

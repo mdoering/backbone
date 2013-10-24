@@ -1,14 +1,13 @@
-Dothidea picea Berk. & M.A. Curtis, 1876 SPECIES
-=======
+# Phyllachora picea (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 31): 105 (1876)
+Syll. fung. (Abellini) 2: 601 (1883)
 
 #### Original name
 Dothidea picea Berk. & M.A. Curtis, 1876

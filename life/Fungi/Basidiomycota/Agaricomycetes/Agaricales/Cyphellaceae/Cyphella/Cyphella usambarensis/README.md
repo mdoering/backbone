@@ -1,5 +1,4 @@
-Cyphella usambarensis Henn. SPECIES
-=======
+# Cyphella usambarensis Henn. SPECIES
 
 #### Status
 ACCEPTED

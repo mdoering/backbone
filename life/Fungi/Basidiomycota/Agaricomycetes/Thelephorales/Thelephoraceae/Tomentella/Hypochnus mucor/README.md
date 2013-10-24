@@ -1,5 +1,4 @@
-Hypochnus mucor Rick SPECIES
-=======
+# Hypochnus mucor Rick SPECIES
 
 #### Status
 ACCEPTED

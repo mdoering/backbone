@@ -1,5 +1,4 @@
-Fusarium tenellum Sacc. & Briard SPECIES
-=======
+# Fusarium tenellum Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

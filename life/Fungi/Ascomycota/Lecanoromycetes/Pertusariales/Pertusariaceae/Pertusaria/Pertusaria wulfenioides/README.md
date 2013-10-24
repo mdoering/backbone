@@ -1,5 +1,4 @@
-Pertusaria wulfenioides B. de Lesd. SPECIES
-=======
+# Pertusaria wulfenioides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

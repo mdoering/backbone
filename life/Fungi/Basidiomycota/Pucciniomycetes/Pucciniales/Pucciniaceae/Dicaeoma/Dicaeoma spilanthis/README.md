@@ -1,5 +1,4 @@
-Dicaeoma spilanthis (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma spilanthis (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

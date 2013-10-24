@@ -1,5 +1,4 @@
-Bacidia trachonopsis (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia trachonopsis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

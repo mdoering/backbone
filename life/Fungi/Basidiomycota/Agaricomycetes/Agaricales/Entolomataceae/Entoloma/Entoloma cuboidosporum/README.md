@@ -1,5 +1,4 @@
-Entoloma cuboidosporum (Beeli) E. Horak SPECIES
-=======
+# Entoloma cuboidosporum (Beeli) E. Horak SPECIES
 
 #### Status
 ACCEPTED

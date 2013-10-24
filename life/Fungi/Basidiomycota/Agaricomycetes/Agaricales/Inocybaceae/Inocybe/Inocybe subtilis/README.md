@@ -1,5 +1,4 @@
-Inocybe subtilis Takah. Kobay. SPECIES
-=======
+# Inocybe subtilis Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

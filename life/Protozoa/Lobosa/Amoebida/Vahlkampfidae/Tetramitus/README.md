@@ -1,5 +1,4 @@
-Tetramitus Perty, 1852 GENUS
-=======
+# Tetramitus Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

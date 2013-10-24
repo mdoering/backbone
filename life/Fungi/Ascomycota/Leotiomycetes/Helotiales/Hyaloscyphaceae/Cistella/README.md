@@ -1,17 +1,16 @@
-Discocistella Svrcek, 1962 GENUS
-=======
+# Cistella Quélet, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enchir. fung. (Paris) 319 (1886)
 
 #### Original name
-null
+Cistella Quélet, 1886
 
 ### Remarks
 null

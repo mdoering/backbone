@@ -1,5 +1,4 @@
-Autoicomyces bicornis Thaxt. SPECIES
-=======
+# Autoicomyces bicornis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

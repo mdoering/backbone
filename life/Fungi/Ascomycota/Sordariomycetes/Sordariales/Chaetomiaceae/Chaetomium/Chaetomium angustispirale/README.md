@@ -1,5 +1,4 @@
-Chaetomium angustispirale Sergeeva, 1956 SPECIES
-=======
+# Chaetomium angustispirale Sergeeva, 1956 SPECIES
 
 #### Status
 ACCEPTED

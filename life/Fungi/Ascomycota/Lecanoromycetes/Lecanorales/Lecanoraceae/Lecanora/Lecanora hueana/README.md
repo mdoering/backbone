@@ -1,8 +1,7 @@
-Lecanora hueiana Harm. SPECIES
-=======
+# Lecanora hueana Harm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora hueiana Harm.
+Lecanora hueana Harm.
 
 ### Remarks
 null

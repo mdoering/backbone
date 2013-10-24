@@ -1,5 +1,4 @@
-Physarum altaicum Lavrov, 1965 SPECIES
-=======
+# Physarum altaicum Lavrov, 1965 SPECIES
 
 #### Status
 ACCEPTED

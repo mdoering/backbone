@@ -1,5 +1,4 @@
-Lophiostoma dipsaci Nitschke SPECIES
-=======
+# Lophiostoma dipsaci Nitschke SPECIES
 
 #### Status
 ACCEPTED

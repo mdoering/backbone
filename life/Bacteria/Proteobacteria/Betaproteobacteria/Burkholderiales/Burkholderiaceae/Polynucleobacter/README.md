@@ -1,5 +1,4 @@
-Polynucleobacter Heckmann & Schmidt, 1987 GENUS
-=======
+# Polynucleobacter Heckmann & Schmidt, 1987 GENUS
 
 #### Status
 ACCEPTED

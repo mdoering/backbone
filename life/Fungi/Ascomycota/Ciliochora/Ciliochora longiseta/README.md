@@ -1,8 +1,7 @@
-Neottiospora longiseta Racib., 1900 SPECIES
-=======
+# Ciliochora longiseta (Racib.) Höhn., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

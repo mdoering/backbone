@@ -1,5 +1,4 @@
-Uredo microglossae Petch SPECIES
-=======
+# Uredo microglossae Petch SPECIES
 
 #### Status
 ACCEPTED

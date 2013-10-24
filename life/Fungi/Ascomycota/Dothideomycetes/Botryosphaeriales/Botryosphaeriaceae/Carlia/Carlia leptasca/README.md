@@ -1,5 +1,4 @@
-Carlia leptasca (Auersw.) Höhn. SPECIES
-=======
+# Carlia leptasca (Auersw.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

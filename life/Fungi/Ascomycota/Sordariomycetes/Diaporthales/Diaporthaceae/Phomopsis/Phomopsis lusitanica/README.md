@@ -1,5 +1,4 @@
-Phomopsis lusitanica Sousa da Câmara SPECIES
-=======
+# Phomopsis lusitanica Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

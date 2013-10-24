@@ -1,5 +1,4 @@
-Lecania heardensis C.W. Dodge SPECIES
-=======
+# Lecania heardensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arrchinella GENUS
-=======
+# Arrchinella GENUS
 
 #### Status
 ACCEPTED

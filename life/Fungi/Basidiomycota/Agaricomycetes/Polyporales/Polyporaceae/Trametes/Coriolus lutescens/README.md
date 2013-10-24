@@ -1,5 +1,4 @@
-Coriolus lutescens (Pers.) Quél. SPECIES
-=======
+# Coriolus lutescens (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

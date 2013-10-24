@@ -1,5 +1,4 @@
-Hemiophrya thouleti Maupas, 1881 SPECIES
-=======
+# Hemiophrya thouleti Maupas, 1881 SPECIES
 
 #### Status
 ACCEPTED

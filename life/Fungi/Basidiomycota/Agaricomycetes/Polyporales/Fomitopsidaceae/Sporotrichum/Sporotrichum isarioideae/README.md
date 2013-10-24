@@ -1,5 +1,4 @@
-Sporotrichum isarioideae Petch SPECIES
-=======
+# Sporotrichum isarioideae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goellipora Senowbari-Daryan & Zankl, 2000 GENUS
-=======
+# Goellipora Senowbari-Daryan & Zankl, 2000 GENUS
 
 #### Status
 ACCEPTED

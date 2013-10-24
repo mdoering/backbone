@@ -1,5 +1,4 @@
-Cylindrospermum goetzei var. binum Borge VARIETY
-=======
+# Cylindrospermum goetzei Schmidle SPECIES
 
 #### Status
 ACCEPTED

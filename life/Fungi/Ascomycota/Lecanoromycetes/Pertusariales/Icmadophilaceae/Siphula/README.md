@@ -1,5 +1,4 @@
-Siphula E.M. Fries, 1831 GENUS
-=======
+# Siphula E.M. Fries, 1831 GENUS
 
 #### Status
 ACCEPTED

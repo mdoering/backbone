@@ -1,5 +1,4 @@
-Poria reticulatomarginata Pilát SPECIES
-=======
+# Poria reticulatomarginata Pilát SPECIES
 
 #### Status
 ACCEPTED

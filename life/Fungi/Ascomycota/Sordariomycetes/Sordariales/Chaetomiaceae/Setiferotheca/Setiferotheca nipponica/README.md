@@ -1,5 +1,4 @@
-Setiferotheca nipponica Matsush., 1995 SPECIES
-=======
+# Setiferotheca nipponica Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina inflexa Blanchon, Braggins & Alison Stewart SPECIES
-=======
+# Ramalina inflexa Blanchon, Braggins & Alison Stewart SPECIES
 
 #### Status
 ACCEPTED

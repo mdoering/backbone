@@ -1,5 +1,4 @@
-Sirococcus calophylli Syd. SPECIES
-=======
+# Sirococcus calophylli Syd. SPECIES
 
 #### Status
 ACCEPTED

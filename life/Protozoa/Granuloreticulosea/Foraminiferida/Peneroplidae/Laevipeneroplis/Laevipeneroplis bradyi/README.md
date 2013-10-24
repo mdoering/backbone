@@ -1,5 +1,4 @@
-Laevipeneroplis bradyi (Cushman, 1930) SPECIES
-=======
+# Laevipeneroplis bradyi (Cushman, 1930) SPECIES
 
 #### Status
 ACCEPTED

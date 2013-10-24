@@ -1,5 +1,4 @@
-Meliola verrucosa Pat. SPECIES
-=======
+# Meliola verrucosa Pat. SPECIES
 
 #### Status
 ACCEPTED

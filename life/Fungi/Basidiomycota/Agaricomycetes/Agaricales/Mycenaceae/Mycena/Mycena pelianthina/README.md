@@ -1,17 +1,16 @@
-Mycena pelianthina var. umbonata Voglino VARIETY
-=======
+# Mycena pelianthina (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 102 (1872)
 
 #### Original name
-Mycena pelianthina var. umbonata Voglino
+Agaricus pelianthinus Fr., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Planilamina Ma, Overstreet, Sniezek, Solangi & Coats, 2006 GENUS
-=======
+# Planilamina Ma, Overstreet, Sniezek, Solangi & Coats, 2006 GENUS
 
 #### Status
 ACCEPTED

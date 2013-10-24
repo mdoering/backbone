@@ -1,5 +1,4 @@
-Pycnomyces Bat., J.L. Bezerra & Cavalc. GENUS
-=======
+# Pycnomyces Bat., J.L. Bezerra & Cavalc. GENUS
 
 #### Status
 ACCEPTED

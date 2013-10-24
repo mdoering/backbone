@@ -1,5 +1,4 @@
-Anaptychia domingensis (Ach.) A. Massal. SPECIES
-=======
+# Anaptychia domingensis (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

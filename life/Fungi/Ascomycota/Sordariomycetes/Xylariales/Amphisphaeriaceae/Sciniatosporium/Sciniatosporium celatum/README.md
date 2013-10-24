@@ -1,5 +1,4 @@
-Sciniatosporium celatum (Welw. & Curr.) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium celatum (Welw. & Curr.) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius luteobrunnescens A.H. Sm. SPECIES
-=======
+# Cortinarius luteobrunnescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

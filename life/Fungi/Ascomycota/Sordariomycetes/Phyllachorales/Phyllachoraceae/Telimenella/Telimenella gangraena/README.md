@@ -1,14 +1,13 @@
-Phyllachora gangraena (Fr.) Fuckel, 1870 SPECIES
-=======
+# Telimenella gangraena (Fr.) Petr., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 217 (1870)
+Sydowia 1: 79 (1947)
 
 #### Original name
 Sphaeria gangraena Fr., 1830

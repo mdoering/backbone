@@ -1,5 +1,4 @@
-Ampullifera seudatica Subrahm. SPECIES
-=======
+# Ampullifera seudatica Subrahm. SPECIES
 
 #### Status
 ACCEPTED

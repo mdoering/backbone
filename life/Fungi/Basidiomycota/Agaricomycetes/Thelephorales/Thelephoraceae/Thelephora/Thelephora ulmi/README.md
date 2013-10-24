@@ -1,5 +1,4 @@
-Thelephora ulmi Lasch SPECIES
-=======
+# Thelephora ulmi Lasch SPECIES
 
 #### Status
 ACCEPTED

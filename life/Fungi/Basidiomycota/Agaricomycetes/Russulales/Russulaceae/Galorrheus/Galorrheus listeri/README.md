@@ -1,5 +1,4 @@
-Galorrheus listeri (With.) P. Kumm. SPECIES
-=======
+# Galorrheus listeri (With.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

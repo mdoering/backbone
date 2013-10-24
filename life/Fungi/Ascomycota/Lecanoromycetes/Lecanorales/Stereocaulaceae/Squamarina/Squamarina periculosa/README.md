@@ -1,5 +1,4 @@
-Squamarina periculosa B. de Lesd. SPECIES
-=======
+# Squamarina periculosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

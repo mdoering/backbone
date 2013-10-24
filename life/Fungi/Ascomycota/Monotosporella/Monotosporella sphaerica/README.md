@@ -1,5 +1,4 @@
-Monotosporella sphaerica Yanna & K.D. Hyde SPECIES
-=======
+# Monotosporella sphaerica Yanna & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

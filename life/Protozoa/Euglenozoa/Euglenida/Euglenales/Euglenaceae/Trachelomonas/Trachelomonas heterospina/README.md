@@ -1,8 +1,7 @@
-Trachelomonas orenburgica var. verrucosa Skuja VARIETY
-=======
+# Trachelomonas heterospina Svirenko SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

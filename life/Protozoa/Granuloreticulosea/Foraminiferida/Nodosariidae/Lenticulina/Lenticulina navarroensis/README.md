@@ -1,5 +1,4 @@
-Lenticulina navarroensis (Plummer) SPECIES
-=======
+# Lenticulina navarroensis (Plummer) SPECIES
 
 #### Status
 ACCEPTED

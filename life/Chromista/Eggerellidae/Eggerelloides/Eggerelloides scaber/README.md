@@ -1,8 +1,7 @@
-Eggerella polystropha (Reuss, 1846) SPECIES
-=======
+# Eggerelloides scaber (Williamson, 1858) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

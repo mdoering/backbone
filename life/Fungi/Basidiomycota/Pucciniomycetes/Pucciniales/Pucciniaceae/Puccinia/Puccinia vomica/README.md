@@ -1,5 +1,4 @@
-Puccinia vomica Thüm. SPECIES
-=======
+# Puccinia vomica Thüm. SPECIES
 
 #### Status
 ACCEPTED

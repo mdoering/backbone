@@ -1,5 +1,4 @@
-Torula dulcis F.C. Harrison SPECIES
-=======
+# Torula dulcis F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

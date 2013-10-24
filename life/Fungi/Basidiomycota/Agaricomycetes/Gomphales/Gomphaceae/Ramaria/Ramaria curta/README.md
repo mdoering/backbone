@@ -1,17 +1,16 @@
-Ramaria myceliosa var. microspora R.H. Petersen, 1981 VARIETY
-=======
+# Ramaria curta (Fr.) Schild, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 79: 157 (1981)
+Z. Mykol. 60(1): 125 (1994)
 
 #### Original name
-Clavaria pusilla Pers., 1797
+Clavaria curta Fr., 1857
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gabarnaudia humicola Samson & W. Gams, 1974 SPECIES
-=======
+# Gabarnaudia humicola Samson & W. Gams, 1974 SPECIES
 
 #### Status
 ACCEPTED

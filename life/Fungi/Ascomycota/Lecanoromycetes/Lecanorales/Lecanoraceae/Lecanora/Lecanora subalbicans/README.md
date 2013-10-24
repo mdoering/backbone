@@ -1,5 +1,4 @@
-Lecanora subalbicans H. Magn. SPECIES
-=======
+# Lecanora subalbicans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

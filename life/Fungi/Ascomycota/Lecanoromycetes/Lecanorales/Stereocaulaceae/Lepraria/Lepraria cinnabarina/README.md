@@ -1,5 +1,4 @@
-Lepraria cinnabarina Baumgartner SPECIES
-=======
+# Lepraria cinnabarina Baumgartner SPECIES
 
 #### Status
 ACCEPTED

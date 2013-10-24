@@ -1,5 +1,4 @@
-Apodospora simulans Cain & J.H. Mirza, 1970 SPECIES
-=======
+# Apodospora simulans Cain & J.H. Mirza, 1970 SPECIES
 
 #### Status
 ACCEPTED

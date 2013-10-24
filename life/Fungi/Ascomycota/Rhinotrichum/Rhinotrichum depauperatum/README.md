@@ -1,5 +1,4 @@
-Rhinotrichum depauperatum Charles SPECIES
-=======
+# Rhinotrichum depauperatum Charles SPECIES
 
 #### Status
 ACCEPTED

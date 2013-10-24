@@ -1,5 +1,4 @@
-Septoria oreophila Sacc. SPECIES
-=======
+# Septoria oreophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

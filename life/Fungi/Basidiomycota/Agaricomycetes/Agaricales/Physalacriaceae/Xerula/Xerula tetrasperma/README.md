@@ -1,5 +1,4 @@
-Xerula tetrasperma R.H. Petersen SPECIES
-=======
+# Xerula tetrasperma R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

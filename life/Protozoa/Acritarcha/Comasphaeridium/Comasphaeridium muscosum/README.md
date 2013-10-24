@@ -1,5 +1,4 @@
-Comasphaeridium muscosum R. Wicander & G. Playford SPECIES
-=======
+# Comasphaeridium muscosum R. Wicander & G. Playford SPECIES
 
 #### Status
 ACCEPTED

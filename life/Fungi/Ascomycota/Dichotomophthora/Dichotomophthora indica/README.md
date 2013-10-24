@@ -1,5 +1,4 @@
-Dichotomophthora indica P.N. Rao SPECIES
-=======
+# Dichotomophthora indica P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

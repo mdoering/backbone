@@ -1,5 +1,4 @@
-Beloniella hemerocallidis Rehm SPECIES
-=======
+# Beloniella hemerocallidis Rehm SPECIES
 
 #### Status
 ACCEPTED

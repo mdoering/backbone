@@ -1,5 +1,4 @@
-Meliola dactylopoda var. dactylopoda VARIETY
-=======
+# Meliola dactylopoda Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Doidge, Bothalia 2(2): 460 (1928)
 
 #### Original name
-Meliola dactylopoda var. dactylopoda
+Meliola dactylopoda Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Synalissa lignyota (Wahlenb.) Nyl. SPECIES
-=======
+# Synalissa lignyota (Wahlenb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

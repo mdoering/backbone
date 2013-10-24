@@ -1,5 +1,4 @@
-Dichomitus grandisporus Aime & Ryvarden SPECIES
-=======
+# Dichomitus grandisporus Aime & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

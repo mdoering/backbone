@@ -1,17 +1,16 @@
-Stereopeltis Franzoni & De Not. GENUS
-=======
+# Sarcogyne Flotow, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Notaris, Comm. Soc. crittog. Ital. 1: 26 (1861)
+Bot. Ztg. 9:753, 759.
 
 #### Original name
-Stereopeltis Franzoni & De Not.
+Sarcogyne Flotow, 1851
 
 ### Remarks
 null

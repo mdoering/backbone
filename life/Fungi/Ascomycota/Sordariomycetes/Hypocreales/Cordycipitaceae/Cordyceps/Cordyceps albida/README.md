@@ -1,5 +1,4 @@
-Cordyceps albida Pat. & Gaillard SPECIES
-=======
+# Cordyceps albida Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

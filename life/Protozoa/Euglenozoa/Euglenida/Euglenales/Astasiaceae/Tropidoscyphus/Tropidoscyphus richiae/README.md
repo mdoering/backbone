@@ -1,5 +1,4 @@
-Tropidoscyphus richiae Bourrelly SPECIES
-=======
+# Tropidoscyphus richiae Bourrelly SPECIES
 
 #### Status
 ACCEPTED

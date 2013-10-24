@@ -1,5 +1,4 @@
-Physcia hosseana Gyeln. SPECIES
-=======
+# Physcia hosseana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

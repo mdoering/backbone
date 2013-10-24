@@ -1,5 +1,4 @@
-Ascidium exsertum var. exsertum VARIETY
-=======
+# Ascidium exsertum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Proc. Phil. Soc. Glasgow 11: 313 (1879)
+null
 
 #### Original name
-Ascidium exsertum var. exsertum
+null
 
 ### Remarks
 null

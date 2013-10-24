@@ -1,5 +1,4 @@
-Lecidea submedialis (Nyl.) SPECIES
-=======
+# Lecidea submedialis (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

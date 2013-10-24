@@ -1,5 +1,4 @@
-Amphidinium herdmanii Kofoid & Swezy SPECIES
-=======
+# Amphidinium herdmanii Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

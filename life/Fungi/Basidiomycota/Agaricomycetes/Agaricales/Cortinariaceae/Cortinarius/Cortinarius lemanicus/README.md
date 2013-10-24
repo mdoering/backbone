@@ -1,5 +1,4 @@
-Cortinarius lemanicus A. Favre & Vialard SPECIES
-=======
+# Cortinarius lemanicus A. Favre & Vialard SPECIES
 
 #### Status
 ACCEPTED

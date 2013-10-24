@@ -1,5 +1,4 @@
-Euglena retronata L. P. Johnson SPECIES
-=======
+# Euglena retronata L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

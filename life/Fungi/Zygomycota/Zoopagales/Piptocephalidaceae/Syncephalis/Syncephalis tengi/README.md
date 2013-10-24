@@ -1,5 +1,4 @@
-Syncephalis tengi S.H. Ou, 1940 SPECIES
-=======
+# Syncephalis tengi S.H. Ou, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Neoramularia capparidis Bagyan., U. Braun & B. Sutton SPECIES
-=======
+# Neoramularia capparis Bagyan., U. Braun & B. Sutton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 51: 35 (1994)
 
 #### Original name
-Neoramularia capparidis Bagyan., U. Braun & B. Sutton
+Neoramularia capparis Bagyan., U. Braun & B. Sutton
 
 ### Remarks
 null

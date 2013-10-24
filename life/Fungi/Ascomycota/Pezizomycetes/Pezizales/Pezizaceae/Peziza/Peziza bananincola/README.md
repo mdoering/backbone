@@ -1,5 +1,4 @@
-Peziza bananincola (Rehm) Sacc. SPECIES
-=======
+# Peziza bananincola (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

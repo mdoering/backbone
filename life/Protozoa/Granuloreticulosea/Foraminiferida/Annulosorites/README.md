@@ -1,5 +1,4 @@
-Annulosorites Hottinger, 2001 GENUS
-=======
+# Annulosorites Hottinger, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyphiale Lönnr. GENUS
-=======
+# Pachyphiale Lönnr. GENUS
 
 #### Status
 ACCEPTED

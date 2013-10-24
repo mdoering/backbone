@@ -1,5 +1,4 @@
-Fermentotrichon GENUS
-=======
+# Fermentotrichon GENUS
 
 #### Status
 ACCEPTED

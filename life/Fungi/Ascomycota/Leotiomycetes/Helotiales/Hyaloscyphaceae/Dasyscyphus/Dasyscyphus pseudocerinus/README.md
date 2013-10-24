@@ -1,5 +1,4 @@
-Dasyscyphus pseudocerinus Y. Otani SPECIES
-=======
+# Dasyscyphus pseudocerinus Y. Otani SPECIES
 
 #### Status
 ACCEPTED

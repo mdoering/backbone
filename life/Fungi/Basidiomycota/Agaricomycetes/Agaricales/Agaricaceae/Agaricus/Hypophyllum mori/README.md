@@ -1,5 +1,4 @@
-Hypophyllum mori Paulet SPECIES
-=======
+# Hypophyllum mori Paulet SPECIES
 
 #### Status
 ACCEPTED

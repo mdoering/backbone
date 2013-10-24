@@ -1,5 +1,4 @@
-Protoperidinium hamatum Balech, 1979 SPECIES
-=======
+# Protoperidinium hamatum Balech, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Katabia Karpov, Ekelund & Moestrup, 2002 GENUS
-=======
+# Katabia Karpov, Ekelund & Moestrup, 2002 GENUS
 
 #### Status
 ACCEPTED

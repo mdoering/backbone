@@ -1,5 +1,4 @@
-Thecaphora tunicata G.P. Clinton SPECIES
-=======
+# Thecaphora tunicata G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium spadiceoatrum (Mont.) Sacc. SPECIES
-=======
+# Helotium spadiceoatrum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

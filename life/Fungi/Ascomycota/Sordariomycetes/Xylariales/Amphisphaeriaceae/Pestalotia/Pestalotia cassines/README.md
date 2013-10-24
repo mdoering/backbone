@@ -1,17 +1,16 @@
-Pestalotia cassinis Laughton SPECIES
-=======
+# Pestalotia cassines Laughton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4: 822 (1948)
 
 #### Original name
-Pestalotia cassinis Laughton
+Pestalotia cassines Laughton
 
 ### Remarks
 null

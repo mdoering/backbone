@@ -1,5 +1,4 @@
-Arthonia elevata C.W. Dodge SPECIES
-=======
+# Arthonia elevata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

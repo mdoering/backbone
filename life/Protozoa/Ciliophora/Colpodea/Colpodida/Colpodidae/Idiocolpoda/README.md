@@ -1,5 +1,4 @@
-Idiocolpoda Foissner, 1993 GENUS
-=======
+# Idiocolpoda Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

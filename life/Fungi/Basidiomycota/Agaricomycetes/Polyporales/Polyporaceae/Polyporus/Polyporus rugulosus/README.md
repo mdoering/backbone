@@ -1,17 +1,16 @@
-Polyporus plebeius var. plebeius VARIETY
-=======
+# Polyporus rugulosus Lév., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. nov. -zel. 179 (1855)
+Annls Sci. Nat. , Bot. , sér. 3 2: 189 (1844)
 
 #### Original name
-Polyporus plebeius var. plebeius
+Polyporus rugulosus Lév., 1844
 
 ### Remarks
 null

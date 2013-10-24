@@ -1,17 +1,16 @@
-Atylospora atomacea Murrill SPECIES
-=======
+# Astylospora atomacea Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 5: 152 (1942)
 
 #### Original name
-Atylospora atomacea Murrill
+Astylospora atomacea Murrill
 
 ### Remarks
 null

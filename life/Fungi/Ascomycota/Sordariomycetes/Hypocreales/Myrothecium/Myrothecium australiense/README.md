@@ -1,5 +1,4 @@
-Myrothecium australiense Matsush. SPECIES
-=======
+# Myrothecium australiense Matsush. SPECIES
 
 #### Status
 ACCEPTED

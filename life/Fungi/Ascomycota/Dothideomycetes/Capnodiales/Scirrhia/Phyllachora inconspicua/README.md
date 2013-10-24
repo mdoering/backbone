@@ -1,5 +1,4 @@
-Phyllachora inconspicua Chardón, 1927 SPECIES
-=======
+# Phyllachora inconspicua Chardón, 1927 SPECIES
 
 #### Status
 DOUBTFUL

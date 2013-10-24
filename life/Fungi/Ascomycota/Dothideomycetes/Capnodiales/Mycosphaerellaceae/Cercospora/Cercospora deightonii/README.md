@@ -1,5 +1,4 @@
-Cercospora deightonii Chupp SPECIES
-=======
+# Cercospora deightonii Chupp SPECIES
 
 #### Status
 ACCEPTED

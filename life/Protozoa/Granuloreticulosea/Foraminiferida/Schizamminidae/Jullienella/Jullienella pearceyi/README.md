@@ -1,5 +1,4 @@
-Jullienella pearceyi Norvang, 1961 SPECIES
-=======
+# Jullienella pearceyi Norvang, 1961 SPECIES
 
 #### Status
 ACCEPTED

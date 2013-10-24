@@ -1,5 +1,4 @@
-Lecidea subalboatra Nyl. SPECIES
-=======
+# Lecidea subalboatra Nyl. SPECIES
 
 #### Status
 ACCEPTED

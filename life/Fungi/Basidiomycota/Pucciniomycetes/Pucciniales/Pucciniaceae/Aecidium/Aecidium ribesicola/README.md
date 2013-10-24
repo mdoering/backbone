@@ -1,5 +1,4 @@
-Aecidium ribesicola Speg. SPECIES
-=======
+# Aecidium ribesicola Speg. SPECIES
 
 #### Status
 ACCEPTED

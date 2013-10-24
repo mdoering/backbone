@@ -1,5 +1,4 @@
-Nectria sulphurella De Not. SPECIES
-=======
+# Nectria sulphurella De Not. SPECIES
 
 #### Status
 ACCEPTED

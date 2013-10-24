@@ -1,5 +1,4 @@
-Nocardiopsaceae Rainey, Ward-Rainey, Kroppenstedt & Stackebrandt, 1996 FAMILY
-=======
+# Nocardiopsaceae Rainey, Ward-Rainey, Kroppenstedt & Stackebrandt, 1996 FAMILY
 
 #### Status
 ACCEPTED

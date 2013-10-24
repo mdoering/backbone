@@ -1,5 +1,4 @@
-Puccinia discors H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia discors H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

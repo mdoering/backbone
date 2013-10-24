@@ -1,5 +1,4 @@
-Fomes excavatus (Berk.) Sacc. SPECIES
-=======
+# Fomes excavatus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriopsis albofulta (Petch) Samuels SPECIES
-=======
+# Nectriopsis albofulta (Petch) Samuels SPECIES
 
 #### Status
 ACCEPTED

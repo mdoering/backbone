@@ -1,5 +1,4 @@
-Boletellus costatus (Rostr.) Singer SPECIES
-=======
+# Boletellus costatus (Rostr.) Singer SPECIES
 
 #### Status
 ACCEPTED

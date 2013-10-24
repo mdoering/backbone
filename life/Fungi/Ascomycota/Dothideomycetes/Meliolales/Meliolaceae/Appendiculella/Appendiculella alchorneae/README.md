@@ -1,5 +1,4 @@
-Appendiculella alchorneae (F. Stevens & Tehon) Hansf. SPECIES
-=======
+# Appendiculella alchorneae (F. Stevens & Tehon) Hansf. SPECIES
 
 #### Status
 ACCEPTED

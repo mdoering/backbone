@@ -1,5 +1,4 @@
-Morania altevittata SPECIES
-=======
+# Morania altevittata SPECIES
 
 #### Status
 ACCEPTED

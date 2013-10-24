@@ -1,5 +1,4 @@
-Acaryochloridaceae FAMILY
-=======
+# Acaryochloridaceae FAMILY
 
 #### Status
 ACCEPTED

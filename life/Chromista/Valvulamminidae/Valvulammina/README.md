@@ -1,5 +1,4 @@
-Valvulammina Cushman, 1933 GENUS
-=======
+# Valvulammina Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

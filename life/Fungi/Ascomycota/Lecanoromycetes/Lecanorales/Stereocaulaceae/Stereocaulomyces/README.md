@@ -1,5 +1,4 @@
-Stereocaulomyces GENUS
-=======
+# Stereocaulomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caminibacter Alain et al., 2002 GENUS
-=======
+# Caminibacter Alain et al., 2002 GENUS
 
 #### Status
 ACCEPTED

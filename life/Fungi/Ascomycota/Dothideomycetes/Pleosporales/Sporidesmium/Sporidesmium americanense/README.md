@@ -1,5 +1,4 @@
-Sporidesmium americanense Bat. & Peres SPECIES
-=======
+# Sporidesmium americanense Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

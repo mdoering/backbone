@@ -1,5 +1,4 @@
-Phomopsis lixivia Höhn. SPECIES
-=======
+# Phomopsis lixivia Höhn. SPECIES
 
 #### Status
 ACCEPTED

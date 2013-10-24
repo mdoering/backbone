@@ -1,5 +1,4 @@
-Karstenula mezerei Petr. SPECIES
-=======
+# Karstenula mezerei Petr. SPECIES
 
 #### Status
 ACCEPTED

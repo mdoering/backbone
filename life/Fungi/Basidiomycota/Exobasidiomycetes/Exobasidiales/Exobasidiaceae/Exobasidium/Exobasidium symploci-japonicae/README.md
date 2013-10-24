@@ -1,17 +1,16 @@
-Exobasidium symploci-japonicae var. symploci-japonicae VARIETY
-=======
+# Exobasidium symploci-japonicae Kusano & Tokubuchi, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Exobasidium symploci-japonicae Kusano & Tokubuchi, 1907
 
 ### Remarks
 null

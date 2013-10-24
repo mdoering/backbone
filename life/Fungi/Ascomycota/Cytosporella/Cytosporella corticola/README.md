@@ -1,5 +1,4 @@
-Cytosporella corticola S. Ahmad SPECIES
-=======
+# Cytosporella corticola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

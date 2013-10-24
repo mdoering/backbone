@@ -1,5 +1,4 @@
-Daedalea fuscoviolacea Sommerf. SPECIES
-=======
+# Daedalea fuscoviolacea Sommerf. SPECIES
 
 #### Status
 ACCEPTED

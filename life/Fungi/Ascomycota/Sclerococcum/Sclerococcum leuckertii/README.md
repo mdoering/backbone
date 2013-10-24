@@ -1,5 +1,4 @@
-Sclerococcum leuckertii Diederich & P. Scholz SPECIES
-=======
+# Sclerococcum leuckertii Diederich & P. Scholz SPECIES
 
 #### Status
 ACCEPTED

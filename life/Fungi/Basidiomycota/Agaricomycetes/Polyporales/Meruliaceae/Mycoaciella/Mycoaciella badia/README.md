@@ -1,14 +1,13 @@
-Odontia badia Pat., 1897 SPECIES
-=======
+# Mycoaciella badia (Pat.) Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. Morot 11: 342 (1897)
+Syn. Fung. (Oslo) 18: 14 (2004)
 
 #### Original name
 Odontia badia Pat., 1897

@@ -1,17 +1,16 @@
-Parmelia gracilescens var. obscurella Vain. VARIETY
-=======
+# Hypotrachyna obscurella (Vain.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 51 (1975)
 
 #### Original name
-null
+Parmelia gracilescens f. obscurella Vain.
 
 ### Remarks
 null

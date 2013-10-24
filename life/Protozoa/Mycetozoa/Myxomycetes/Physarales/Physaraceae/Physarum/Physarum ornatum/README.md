@@ -1,5 +1,4 @@
-Physarum ornatum Peck SPECIES
-=======
+# Physarum ornatum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rozella chytriomycetis Karling, 1946 SPECIES
-=======
+# Rozella chytriomycetis Karling, 1946 SPECIES
 
 #### Status
 ACCEPTED

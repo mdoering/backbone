@@ -1,5 +1,4 @@
-Hymenoscyphus miniatus (Pat.) Dennis SPECIES
-=======
+# Hymenoscyphus miniatus (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED

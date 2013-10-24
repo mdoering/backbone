@@ -1,5 +1,4 @@
-Synchytrium papillatum Farl. SPECIES
-=======
+# Synchytrium papillatum Farl. SPECIES
 
 #### Status
 ACCEPTED

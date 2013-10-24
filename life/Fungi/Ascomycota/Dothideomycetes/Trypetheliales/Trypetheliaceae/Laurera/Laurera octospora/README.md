@@ -1,5 +1,4 @@
-Laurera octospora (Zahlbr.) Zahlbr. SPECIES
-=======
+# Laurera octospora (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

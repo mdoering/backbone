@@ -1,8 +1,7 @@
-Volvigerum coneae (R. Heim) R. Heim, 1966 SPECIES
-=======
+# Cortinarius coneae (R. Heim) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Bactrodesmium esheri P.M. Kirk, 1983 SPECIES
-=======
+# Bactrodesmium esheri P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

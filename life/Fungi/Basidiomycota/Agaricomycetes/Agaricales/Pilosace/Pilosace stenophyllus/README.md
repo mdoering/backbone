@@ -1,5 +1,4 @@
-Pilosace stenophyllus (Mont.) Kuntze SPECIES
-=======
+# Pilosace stenophyllus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

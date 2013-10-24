@@ -1,5 +1,4 @@
-Geopyxis pseudoaurantia (Hazsl.) Sacc. SPECIES
-=======
+# Geopyxis pseudoaurantia (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

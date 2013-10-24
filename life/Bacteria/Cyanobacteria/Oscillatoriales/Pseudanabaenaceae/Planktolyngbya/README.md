@@ -1,5 +1,4 @@
-Planktolyngbya Anagnostidis & Komárek, 1988 GENUS
-=======
+# Planktolyngbya Anagnostidis & Komárek, 1988 GENUS
 
 #### Status
 ACCEPTED

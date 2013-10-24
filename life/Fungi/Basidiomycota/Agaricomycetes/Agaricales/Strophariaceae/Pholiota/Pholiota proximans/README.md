@@ -1,5 +1,4 @@
-Pholiota proximans var. proximans VARIETY
-=======
+# Pholiota proximans A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+The North American species of Pholiota 70 (1968)
 
 #### Original name
-Pholiota proximans var. proximans
+Pholiota proximans A.H. Sm. & Hesler
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Penicillium casei var. casei VARIETY
-=======
+# Penicillium verrucosum Dierckx, 1901 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 31: 454 (1911)
+Annals de la Soc. Scientifique Bruxelles 25: 88 (1901)
 
 #### Original name
-Penicillium casei var. casei
+Penicillium verrucosum Dierckx, 1901
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Allelochaeta Petr. GENUS
-=======
+# Seimatosporium Corda, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 9: 464 (1955)
+null
 
 #### Original name
-Allelochaeta Petr.
+null
 
 ### Remarks
 null

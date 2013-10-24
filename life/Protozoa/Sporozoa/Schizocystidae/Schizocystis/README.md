@@ -1,5 +1,4 @@
-Schizocystis Léger, 1900 GENUS
-=======
+# Schizocystis Léger, 1900 GENUS
 
 #### Status
 ACCEPTED

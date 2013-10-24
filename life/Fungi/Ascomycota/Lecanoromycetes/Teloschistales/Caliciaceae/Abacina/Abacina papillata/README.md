@@ -1,5 +1,4 @@
-Abacina papillata SPECIES
-=======
+# Abacina papillata SPECIES
 
 #### Status
 ACCEPTED

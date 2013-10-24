@@ -1,5 +1,4 @@
-Neothailandina Toriyama & Kanmera, 1968 GENUS
-=======
+# Neothailandina Toriyama & Kanmera, 1968 GENUS
 
 #### Status
 ACCEPTED

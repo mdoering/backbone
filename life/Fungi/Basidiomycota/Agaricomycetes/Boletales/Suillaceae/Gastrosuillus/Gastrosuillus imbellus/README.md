@@ -1,5 +1,4 @@
-Gastrosuillus imbellus (Trappe) Thiers SPECIES
-=======
+# Gastrosuillus imbellus (Trappe) Thiers SPECIES
 
 #### Status
 ACCEPTED

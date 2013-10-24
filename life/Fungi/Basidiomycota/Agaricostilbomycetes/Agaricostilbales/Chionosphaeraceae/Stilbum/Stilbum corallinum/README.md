@@ -1,5 +1,4 @@
-Stilbum corallinum Cooke & Massee SPECIES
-=======
+# Stilbum corallinum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pseudomyriocarpa Servít SPECIES
-=======
+# Verrucaria pseudomyriocarpa Servít SPECIES
 
 #### Status
 ACCEPTED

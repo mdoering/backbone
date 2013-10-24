@@ -1,5 +1,4 @@
-Lasiosphaeria britzelmayrii Sacc. SPECIES
-=======
+# Lasiosphaeria britzelmayrii Sacc. SPECIES
 
 #### Status
 ACCEPTED

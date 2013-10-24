@@ -1,5 +1,4 @@
-Phoma canadensis Allesch. SPECIES
-=======
+# Phoma canadensis Allesch. SPECIES
 
 #### Status
 ACCEPTED

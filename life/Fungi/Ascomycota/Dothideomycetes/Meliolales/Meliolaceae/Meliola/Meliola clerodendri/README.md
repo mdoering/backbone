@@ -1,5 +1,4 @@
-Meliola clerodendri Hansf. SPECIES
-=======
+# Meliola clerodendri Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotheca pulchella (Syd.) Arx SPECIES
-=======
+# Cyclotheca pulchella (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

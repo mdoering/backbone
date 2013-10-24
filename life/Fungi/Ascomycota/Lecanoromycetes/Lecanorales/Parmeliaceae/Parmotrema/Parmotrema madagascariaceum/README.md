@@ -1,5 +1,4 @@
-Parmotrema madagascariaceum (Hue) Hale SPECIES
-=======
+# Parmotrema madagascariaceum (Hue) Hale SPECIES
 
 #### Status
 ACCEPTED

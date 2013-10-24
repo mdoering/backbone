@@ -1,5 +1,4 @@
-Cenangium andromedae (Schwein.) Fr. SPECIES
-=======
+# Cenangium andromedae (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

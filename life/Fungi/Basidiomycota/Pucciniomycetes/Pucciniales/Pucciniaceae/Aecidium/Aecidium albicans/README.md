@@ -1,5 +1,4 @@
-Aecidium albicans Arthur & Holw. SPECIES
-=======
+# Aecidium albicans Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

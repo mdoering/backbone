@@ -1,5 +1,4 @@
-Leptonema J. Reinke, 1888 GENUS
-=======
+# Leptonema J. Reinke, 1888 GENUS
 
 #### Status
 ACCEPTED

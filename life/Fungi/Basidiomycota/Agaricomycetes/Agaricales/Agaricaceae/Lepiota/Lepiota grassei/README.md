@@ -1,5 +1,4 @@
-Lepiota grassei R. Heim SPECIES
-=======
+# Lepiota grassei R. Heim SPECIES
 
 #### Status
 ACCEPTED

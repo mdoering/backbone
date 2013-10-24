@@ -1,5 +1,4 @@
-Schismatomma saxatile (Vain.) Zahlbr. SPECIES
-=======
+# Schismatomma saxatile (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

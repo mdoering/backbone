@@ -1,5 +1,4 @@
-Schweinitziella perpusilla (Speg.) Piroz. SPECIES
-=======
+# Schweinitziella perpusilla (Speg.) Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis fasciculata Tiegh., 1875 SPECIES
-=======
+# Syncephalis fasciculata Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

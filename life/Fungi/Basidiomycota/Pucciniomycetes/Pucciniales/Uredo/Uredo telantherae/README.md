@@ -1,5 +1,4 @@
-Uredo telantherae Viégas SPECIES
-=======
+# Uredo telantherae Viégas SPECIES
 
 #### Status
 ACCEPTED

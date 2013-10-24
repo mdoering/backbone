@@ -1,5 +1,4 @@
-Inocybe floccosum anon. SPECIES
-=======
+# Inocybe floccosum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pustulosa Stirt. SPECIES
-=======
+# Verrucaria pustulosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

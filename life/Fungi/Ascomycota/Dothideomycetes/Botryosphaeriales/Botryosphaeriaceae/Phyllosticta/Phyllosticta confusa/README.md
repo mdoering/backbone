@@ -1,5 +1,4 @@
-Phyllosticta confusa Bubák SPECIES
-=======
+# Phyllosticta confusa Bubák SPECIES
 
 #### Status
 ACCEPTED

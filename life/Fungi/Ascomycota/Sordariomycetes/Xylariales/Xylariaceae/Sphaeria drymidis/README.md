@@ -1,5 +1,4 @@
-Sphaeria drymidis Berk. SPECIES
-=======
+# Sphaeria drymidis Berk. SPECIES
 
 #### Status
 ACCEPTED

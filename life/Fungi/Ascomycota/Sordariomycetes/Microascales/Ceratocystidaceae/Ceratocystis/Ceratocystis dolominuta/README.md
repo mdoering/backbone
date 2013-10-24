@@ -1,5 +1,4 @@
-Ceratocystis dolominuta H.D. Griffin SPECIES
-=======
+# Ceratocystis dolominuta H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

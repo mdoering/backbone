@@ -1,5 +1,4 @@
-Cyttarocylis claparedii Daday, 1887 SPECIES
-=======
+# Cyttarocylis claparedii Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

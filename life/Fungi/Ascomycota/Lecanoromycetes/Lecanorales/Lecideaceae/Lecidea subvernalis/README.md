@@ -1,5 +1,4 @@
-Lecidea subvernalis Tuck. SPECIES
-=======
+# Lecidea subvernalis Tuck. SPECIES
 
 #### Status
 ACCEPTED

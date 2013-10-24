@@ -1,5 +1,4 @@
-Rosellinia mamma Pass. SPECIES
-=======
+# Rosellinia mamma Pass. SPECIES
 
 #### Status
 ACCEPTED

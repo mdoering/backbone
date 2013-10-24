@@ -1,5 +1,4 @@
-Libertella taleola Sacc. SPECIES
-=======
+# Libertella taleola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium taxodii J.L. Crane SPECIES
-=======
+# Sporidesmium taxodii J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerinomyces fasciculatus Gilb. & Hemmes, 2004 SPECIES
-=======
+# Cerinomyces fasciculatus Gilb. & Hemmes, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flabellospora octacladia Saikia & A.K. Sarbhoy SPECIES
-=======
+# Flabellospora octacladia Saikia & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

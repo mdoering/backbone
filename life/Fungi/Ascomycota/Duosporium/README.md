@@ -1,5 +1,4 @@
-Duosporium K.S. Thind & Rawla GENUS
-=======
+# Duosporium K.S. Thind & Rawla GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia agrae Speg. SPECIES
-=======
+# Laboulbenia agrae Speg. SPECIES
 
 #### Status
 ACCEPTED

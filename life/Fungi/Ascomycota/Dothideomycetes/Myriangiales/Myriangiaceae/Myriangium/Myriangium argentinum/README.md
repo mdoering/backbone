@@ -1,5 +1,4 @@
-Myriangium argentinum (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Myriangium argentinum (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

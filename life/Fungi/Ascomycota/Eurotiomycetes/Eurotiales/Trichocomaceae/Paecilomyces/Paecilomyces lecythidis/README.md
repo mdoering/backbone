@@ -1,17 +1,16 @@
-Paecilomyces lecythisii C. Ram SPECIES
-=======
+# Paecilomyces lecythidis C. Ram SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 16: 307 (1968)
 
 #### Original name
-Paecilomyces lecythisii C. Ram
+Paecilomyces lecythidis C. Ram
 
 ### Remarks
 null

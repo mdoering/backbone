@@ -1,5 +1,4 @@
-Tapesia gaillardii Roum. & Pat. SPECIES
-=======
+# Tapesia gaillardii Roum. & Pat. SPECIES
 
 #### Status
 ACCEPTED

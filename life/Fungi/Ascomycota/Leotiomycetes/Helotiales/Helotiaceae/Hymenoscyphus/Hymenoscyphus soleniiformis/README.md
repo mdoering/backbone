@@ -1,5 +1,4 @@
-Hymenoscyphus soleniiformis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Hymenoscyphus soleniiformis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

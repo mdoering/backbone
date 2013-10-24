@@ -1,5 +1,4 @@
-Phialophora lasiosphaeriae W. Gams SPECIES
-=======
+# Phialophora lasiosphaeriae W. Gams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Radulum botrytes Fr. SPECIES
-=======
+# Radulum botrytes Fr. SPECIES
 
 #### Status
 ACCEPTED

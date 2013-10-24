@@ -1,5 +1,4 @@
-Platysma fraxineum (L.) Hoffm. SPECIES
-=======
+# Platysma fraxineum (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

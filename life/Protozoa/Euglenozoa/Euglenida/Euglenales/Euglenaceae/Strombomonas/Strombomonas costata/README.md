@@ -1,5 +1,4 @@
-Strombomonas costata var. constricta J.A. Rino VARIETY
-=======
+# Strombomonas costata Deflandre SPECIES
 
 #### Status
 ACCEPTED

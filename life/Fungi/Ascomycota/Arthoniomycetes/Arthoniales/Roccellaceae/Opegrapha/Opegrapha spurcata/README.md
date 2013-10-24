@@ -1,5 +1,4 @@
-Opegrapha spurcata (Ach.) Röhl. SPECIES
-=======
+# Opegrapha spurcata (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

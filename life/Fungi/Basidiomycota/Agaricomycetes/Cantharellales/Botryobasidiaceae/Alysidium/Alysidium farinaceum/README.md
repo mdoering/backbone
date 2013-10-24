@@ -1,5 +1,4 @@
-Alysidium farinaceum (Preuss) Kuntze SPECIES
-=======
+# Alysidium farinaceum (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

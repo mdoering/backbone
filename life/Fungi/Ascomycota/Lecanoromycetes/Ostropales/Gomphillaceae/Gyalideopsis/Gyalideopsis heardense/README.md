@@ -1,5 +1,4 @@
-Gyalideopsis heardense Øvstedal SPECIES
-=======
+# Gyalideopsis heardense Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia paradoxa (Jatta) Zahlbr. SPECIES
-=======
+# Toninia paradoxa (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

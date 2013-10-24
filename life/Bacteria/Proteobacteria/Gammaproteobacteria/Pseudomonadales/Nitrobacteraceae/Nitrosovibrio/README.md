@@ -1,5 +1,4 @@
-Nitrosovibrio Harms, Koops & Wehrmann, 1976 GENUS
-=======
+# Nitrosovibrio Harms, Koops & Wehrmann, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria aeruginosa Müll. Arg., 1894 SPECIES
-=======
+# Patellaria aeruginosa Müll. Arg., 1894 SPECIES
 
 #### Status
 ACCEPTED

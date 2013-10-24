@@ -1,8 +1,7 @@
-Bigenerina fimbriata Millett, 1900 SPECIES
-=======
+# Sagrinopsis fimbriata (Millett, 1900) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

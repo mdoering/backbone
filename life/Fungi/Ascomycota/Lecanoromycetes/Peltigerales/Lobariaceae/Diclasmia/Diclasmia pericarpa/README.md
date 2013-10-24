@@ -1,5 +1,4 @@
-Diclasmia pericarpa (Nyl.) Trevis. SPECIES
-=======
+# Diclasmia pericarpa (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

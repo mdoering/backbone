@@ -1,5 +1,4 @@
-Allonectella Petr. GENUS
-=======
+# Allonectella Petr. GENUS
 
 #### Status
 ACCEPTED

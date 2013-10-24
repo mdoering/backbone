@@ -1,5 +1,4 @@
-Peziza solenia DC. SPECIES
-=======
+# Peziza solenia DC. SPECIES
 
 #### Status
 ACCEPTED

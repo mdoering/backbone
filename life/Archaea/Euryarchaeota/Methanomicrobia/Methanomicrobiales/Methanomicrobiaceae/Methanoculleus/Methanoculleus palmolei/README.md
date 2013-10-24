@@ -1,5 +1,4 @@
-Methanoculleus palmolei Zellner et al., 1998 SPECIES
-=======
+# Methanoculleus palmolei Zellner et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

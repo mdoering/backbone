@@ -1,5 +1,4 @@
-Trichophyton mansonii Castell. SPECIES
-=======
+# Trichophyton mansonii Castell. SPECIES
 
 #### Status
 ACCEPTED

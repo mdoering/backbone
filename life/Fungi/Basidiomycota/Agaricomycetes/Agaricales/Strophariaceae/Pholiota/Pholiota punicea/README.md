@@ -1,5 +1,4 @@
-Pholiota punicea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota punicea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

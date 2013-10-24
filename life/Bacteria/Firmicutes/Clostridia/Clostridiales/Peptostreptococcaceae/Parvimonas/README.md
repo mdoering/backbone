@@ -1,5 +1,4 @@
-Parvimonas Tindall & Euzéby, 2006 GENUS
-=======
+# Parvimonas Tindall & Euzéby, 2006 GENUS
 
 #### Status
 ACCEPTED

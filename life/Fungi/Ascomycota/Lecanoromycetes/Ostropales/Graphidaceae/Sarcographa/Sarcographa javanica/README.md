@@ -1,5 +1,4 @@
-Sarcographa javanica (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Sarcographa javanica (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

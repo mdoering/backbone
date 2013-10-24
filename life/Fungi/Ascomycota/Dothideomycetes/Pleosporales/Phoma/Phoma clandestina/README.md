@@ -1,5 +1,4 @@
-Phoma clandestina Westend. SPECIES
-=======
+# Phoma clandestina Westend. SPECIES
 
 #### Status
 ACCEPTED

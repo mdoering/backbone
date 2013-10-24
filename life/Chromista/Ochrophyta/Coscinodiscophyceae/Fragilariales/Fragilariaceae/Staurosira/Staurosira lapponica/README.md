@@ -1,5 +1,4 @@
-Staurosira lapponica (Grunow) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
-=======
+# Staurosira lapponica (Grunow) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

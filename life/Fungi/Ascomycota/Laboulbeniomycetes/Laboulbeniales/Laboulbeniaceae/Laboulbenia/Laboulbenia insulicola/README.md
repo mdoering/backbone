@@ -1,5 +1,4 @@
-Laboulbenia insulicola Speg. SPECIES
-=======
+# Laboulbenia insulicola Speg. SPECIES
 
 #### Status
 ACCEPTED

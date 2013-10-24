@@ -1,5 +1,4 @@
-Microdiplodia gleditschiae Died. SPECIES
-=======
+# Microdiplodia gleditschiae Died. SPECIES
 
 #### Status
 ACCEPTED

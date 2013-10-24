@@ -1,5 +1,4 @@
-Heterocalyx A. Bursa, 1954 GENUS
-=======
+# Heterocalyx A. Bursa, 1954 GENUS
 
 #### Status
 ACCEPTED

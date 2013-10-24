@@ -1,5 +1,4 @@
-Lepiota truncata A. Pearson SPECIES
-=======
+# Lepiota truncata A. Pearson SPECIES
 
 #### Status
 ACCEPTED

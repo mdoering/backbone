@@ -1,5 +1,4 @@
-Methanococcus vannielii Stadtman & Barker, 1951 SPECIES
-=======
+# Methanococcus vannielii Stadtman & Barker, 1951 SPECIES
 
 #### Status
 ACCEPTED

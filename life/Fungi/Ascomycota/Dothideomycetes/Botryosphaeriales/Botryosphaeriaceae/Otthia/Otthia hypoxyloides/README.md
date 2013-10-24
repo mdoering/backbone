@@ -1,5 +1,4 @@
-Otthia hypoxyloides (Ellis & Everh.) SPECIES
-=======
+# Otthia hypoxyloides (Ellis & Everh.) SPECIES
 
 #### Status
 ACCEPTED

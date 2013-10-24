@@ -1,5 +1,4 @@
-Asterocapsa divina J. Komárek SPECIES
-=======
+# Asterocapsa divina J. Komárek SPECIES
 
 #### Status
 ACCEPTED

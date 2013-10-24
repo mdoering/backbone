@@ -1,5 +1,4 @@
-Cryptosphaeria venusta Lar.N. Vassiljeva SPECIES
-=======
+# Cryptosphaeria venusta Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum obovatum var. robillardii Grunow VARIETY
-=======
+# Sargassum obovatum Harvey SPECIES
 
 #### Status
 ACCEPTED

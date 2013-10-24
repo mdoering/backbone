@@ -1,5 +1,4 @@
-Hysterium velloziae Henn. SPECIES
-=======
+# Hysterium velloziae Henn. SPECIES
 
 #### Status
 ACCEPTED

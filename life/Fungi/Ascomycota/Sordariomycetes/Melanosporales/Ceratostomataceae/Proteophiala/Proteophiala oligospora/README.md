@@ -1,5 +1,4 @@
-Proteophiala oligospora Cif. SPECIES
-=======
+# Proteophiala oligospora Cif. SPECIES
 
 #### Status
 ACCEPTED

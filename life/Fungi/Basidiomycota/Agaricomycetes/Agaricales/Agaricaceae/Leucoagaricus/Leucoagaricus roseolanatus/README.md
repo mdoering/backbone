@@ -1,5 +1,4 @@
-Leucoagaricus roseolanatus (Huijsman) Bon SPECIES
-=======
+# Leucoagaricus roseolanatus (Huijsman) Bon SPECIES
 
 #### Status
 ACCEPTED

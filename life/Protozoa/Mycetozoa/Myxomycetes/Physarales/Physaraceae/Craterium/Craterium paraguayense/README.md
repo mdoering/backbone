@@ -1,17 +1,16 @@
-Didymium paraguayense Speg., 1886 SPECIES
-=======
+# Craterium paraguayense (Speg.) G. Lister, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Mycetozoa 95 (1911)
 
 #### Original name
-null
+Didymium paraguayense Speg., 1886
 
 ### Remarks
 null

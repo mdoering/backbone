@@ -1,5 +1,4 @@
-Stictospora Ciferri, 1957 GENUS
-=======
+# Stictospora Ciferri, 1957 GENUS
 
 #### Status
 ACCEPTED

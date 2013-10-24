@@ -1,5 +1,4 @@
-Cornuntum fagineum Velen., 1947 SPECIES
-=======
+# Cornuntum fagineum Velen., 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durinskia baltica (K. M. Levander) S. Carty & Elenor R. Cox SPECIES
-=======
+# Durinskia baltica (K. M. Levander) S. Carty & Elenor R. Cox SPECIES
 
 #### Status
 ACCEPTED

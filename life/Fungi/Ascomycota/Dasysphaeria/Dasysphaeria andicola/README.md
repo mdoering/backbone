@@ -1,5 +1,4 @@
-Dasysphaeria andicola Speg., 1912 SPECIES
-=======
+# Dasysphaeria andicola Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

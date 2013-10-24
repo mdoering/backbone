@@ -1,5 +1,4 @@
-Peridinium Ehrenberg, 1832 GENUS
-=======
+# Peridinium Ehrenberg, 1832 GENUS
 
 #### Status
 ACCEPTED

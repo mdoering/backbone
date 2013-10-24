@@ -1,5 +1,4 @@
-Derminus stromaticus (Cooke & Massee) Henn. SPECIES
-=======
+# Derminus stromaticus (Cooke & Massee) Henn. SPECIES
 
 #### Status
 ACCEPTED

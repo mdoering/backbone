@@ -1,5 +1,4 @@
-Gaeum GENUS
-=======
+# Gaeum GENUS
 
 #### Status
 ACCEPTED

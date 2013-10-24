@@ -1,5 +1,4 @@
-Corticium sanguineum SPECIES
-=======
+# Corticium sanguineum SPECIES
 
 #### Status
 ACCEPTED

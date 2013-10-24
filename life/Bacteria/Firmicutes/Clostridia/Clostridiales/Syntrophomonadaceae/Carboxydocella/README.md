@@ -1,5 +1,4 @@
-Carboxydocella Sokolova et al., 2002 GENUS
-=======
+# Carboxydocella Sokolova et al., 2002 GENUS
 
 #### Status
 ACCEPTED

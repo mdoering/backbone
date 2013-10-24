@@ -1,5 +1,4 @@
-Agaricus marcoticus J.F. Gmel. SPECIES
-=======
+# Agaricus marcoticus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

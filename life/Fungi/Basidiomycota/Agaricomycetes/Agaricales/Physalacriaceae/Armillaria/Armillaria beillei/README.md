@@ -1,5 +1,4 @@
-Armillaria beillei (Beauseign.) Locq. SPECIES
-=======
+# Armillaria beillei (Beauseign.) Locq. SPECIES
 
 #### Status
 ACCEPTED

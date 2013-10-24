@@ -1,5 +1,4 @@
-Ochroglossum fumosum (Peck) S. Imai SPECIES
-=======
+# Ochroglossum fumosum (Peck) S. Imai SPECIES
 
 #### Status
 ACCEPTED

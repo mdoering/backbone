@@ -1,5 +1,4 @@
-Hendersonia heterophragmia Ellis & Everh. SPECIES
-=======
+# Hendersonia heterophragmia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

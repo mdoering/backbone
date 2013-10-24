@@ -1,5 +1,4 @@
-Zignoëlla excellens Rehm ex Sacc. SPECIES
-=======
+# Zignoëlla excellens Rehm ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta corrodens Pass. SPECIES
-=======
+# Phyllosticta corrodens Pass. SPECIES
 
 #### Status
 ACCEPTED

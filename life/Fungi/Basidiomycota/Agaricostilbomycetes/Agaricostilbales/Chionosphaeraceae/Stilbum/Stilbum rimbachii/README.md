@@ -1,5 +1,4 @@
-Stilbum rimbachii Pat. SPECIES
-=======
+# Stilbum rimbachii Pat. SPECIES
 
 #### Status
 ACCEPTED

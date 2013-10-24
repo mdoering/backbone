@@ -1,5 +1,4 @@
-Flavoparmelia scabrosina Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia scabrosina Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

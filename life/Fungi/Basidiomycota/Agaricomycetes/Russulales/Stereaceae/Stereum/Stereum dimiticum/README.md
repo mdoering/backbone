@@ -1,5 +1,4 @@
-Stereum dimiticum Rehill & B.K. Bakshi SPECIES
-=======
+# Stereum dimiticum Rehill & B.K. Bakshi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudanabaena schmidlei f. gracilis Skuja FORM
-=======
+# Komvophoron schmidlei (Jaag) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

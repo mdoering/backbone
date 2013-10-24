@@ -1,5 +1,4 @@
-Aecidium cimicifugatum Schwein. SPECIES
-=======
+# Aecidium cimicifugatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

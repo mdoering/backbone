@@ -1,5 +1,4 @@
-Streptococcaceae FAMILY
-=======
+# Streptococcaceae FAMILY
 
 #### Status
 ACCEPTED

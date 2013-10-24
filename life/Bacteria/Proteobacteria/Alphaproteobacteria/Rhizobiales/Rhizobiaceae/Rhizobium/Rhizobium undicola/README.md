@@ -1,5 +1,4 @@
-Rhizobium undicola (de Lajudie et al., 1998) Young et al., 2001 SPECIES
-=======
+# Rhizobium undicola (de Lajudie et al., 1998) Young et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

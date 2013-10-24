@@ -1,5 +1,4 @@
-Tomasellia californica (Zahlbr.) R. C. Harris SPECIES
-=======
+# Tomasellia californica (Zahlbr.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hornibrookina A.R.Edwards, 1973 GENUS
-=======
+# Hornibrookina A.R.Edwards, 1973 GENUS
 
 #### Status
 ACCEPTED

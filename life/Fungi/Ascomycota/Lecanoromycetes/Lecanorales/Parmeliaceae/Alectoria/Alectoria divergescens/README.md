@@ -1,5 +1,4 @@
-Alectoria divergescens Nyl. SPECIES
-=======
+# Alectoria divergescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

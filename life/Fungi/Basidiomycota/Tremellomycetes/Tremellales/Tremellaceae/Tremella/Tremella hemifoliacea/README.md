@@ -1,5 +1,4 @@
-Tremella hemifoliacea Lloyd, 1925 SPECIES
-=======
+# Tremella hemifoliacea Lloyd, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema vamberyi Vain. SPECIES
-=======
+# Collema vamberyi Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma rugosissimum E. Horak SPECIES
-=======
+# Entoloma rugosissimum E. Horak SPECIES
 
 #### Status
 ACCEPTED

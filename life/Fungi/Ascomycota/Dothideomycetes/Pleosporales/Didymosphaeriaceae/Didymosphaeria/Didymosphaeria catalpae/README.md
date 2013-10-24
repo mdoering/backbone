@@ -1,5 +1,4 @@
-Didymosphaeria catalpae J.B. Parker SPECIES
-=======
+# Didymosphaeria catalpae J.B. Parker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septocylindrium peristrophes A. Pande SPECIES
-=======
+# Septocylindrium peristrophes A. Pande SPECIES
 
 #### Status
 ACCEPTED

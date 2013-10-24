@@ -1,5 +1,4 @@
-Pluteus longipes Murrill SPECIES
-=======
+# Pluteus longipes Murrill SPECIES
 
 #### Status
 ACCEPTED

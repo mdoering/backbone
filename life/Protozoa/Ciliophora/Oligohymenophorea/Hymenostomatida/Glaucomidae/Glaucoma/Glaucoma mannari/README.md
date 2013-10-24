@@ -1,5 +1,4 @@
-Glaucoma mannari SPECIES
-=======
+# Glaucoma mannari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia wilsonii Räsänen SPECIES
-=======
+# Parmelia wilsonii Räsänen SPECIES
 
 #### Status
 ACCEPTED

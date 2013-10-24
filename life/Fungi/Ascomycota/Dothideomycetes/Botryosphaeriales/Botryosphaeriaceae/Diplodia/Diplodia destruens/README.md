@@ -1,5 +1,4 @@
-Diplodia destruens McAlpine SPECIES
-=======
+# Diplodia destruens McAlpine SPECIES
 
 #### Status
 ACCEPTED

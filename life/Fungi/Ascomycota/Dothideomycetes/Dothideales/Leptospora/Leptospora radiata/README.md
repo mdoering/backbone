@@ -1,5 +1,4 @@
-Leptospora radiata Fuckel SPECIES
-=======
+# Leptospora radiata Fuckel SPECIES
 
 #### Status
 ACCEPTED

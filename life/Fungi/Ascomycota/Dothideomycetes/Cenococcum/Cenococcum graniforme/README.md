@@ -1,5 +1,4 @@
-Cenococcum graniforme (Sowerby) Ferd. & Winge, 1925 SPECIES
-=======
+# Cenococcum graniforme (Sowerby) Ferd. & Winge, 1925 SPECIES
 
 #### Status
 ACCEPTED

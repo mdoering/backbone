@@ -1,5 +1,4 @@
-Favolaschia pantherina Singer, 1974 SPECIES
-=======
+# Favolaschia pantherina Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

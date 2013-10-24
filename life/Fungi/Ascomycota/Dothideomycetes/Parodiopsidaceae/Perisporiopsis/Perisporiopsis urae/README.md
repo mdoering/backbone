@@ -1,5 +1,4 @@
-Perisporiopsis urae (G. Arnaud) Arx SPECIES
-=======
+# Perisporiopsis urae (G. Arnaud) Arx SPECIES
 
 #### Status
 ACCEPTED

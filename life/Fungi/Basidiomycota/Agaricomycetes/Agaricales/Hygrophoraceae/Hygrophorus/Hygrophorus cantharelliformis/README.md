@@ -1,5 +1,4 @@
-Hygrophorus cantharelliformis Britzelm. SPECIES
-=======
+# Hygrophorus cantharelliformis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

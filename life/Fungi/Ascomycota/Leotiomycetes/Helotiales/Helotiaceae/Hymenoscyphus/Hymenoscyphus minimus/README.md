@@ -1,5 +1,4 @@
-Hymenoscyphus minimus (Fr.) Kuntze SPECIES
-=======
+# Hymenoscyphus minimus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

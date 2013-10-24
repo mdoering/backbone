@@ -1,5 +1,4 @@
-Lasiosphaeria romeana Sacc. & Berl. SPECIES
-=======
+# Lasiosphaeria romeana Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

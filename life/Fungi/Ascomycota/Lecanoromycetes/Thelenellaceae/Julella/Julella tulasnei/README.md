@@ -1,5 +1,4 @@
-Julella tulasnei (P. Crouan & H. Crouan) Berl. & Voglino SPECIES
-=======
+# Julella tulasnei (P. Crouan & H. Crouan) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

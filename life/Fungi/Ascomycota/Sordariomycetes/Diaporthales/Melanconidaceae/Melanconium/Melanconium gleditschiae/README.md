@@ -1,5 +1,4 @@
-Melanconium gleditschiae Bacc. SPECIES
-=======
+# Melanconium gleditschiae Bacc. SPECIES
 
 #### Status
 ACCEPTED

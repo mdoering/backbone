@@ -1,17 +1,16 @@
-Fomes fuscopallens Bres., 1915 SPECIES
-=======
+# Ganoderma mirabile (Lloyd) C.J. Humphrey, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 56(4,5): 294 (1915)
+Mycologia 30: 332 (1938)
 
 #### Original name
-Fomes fuscopallens Bres., 1915
+Fomes mirabilis Lloyd, 1911
 
 ### Remarks
 null

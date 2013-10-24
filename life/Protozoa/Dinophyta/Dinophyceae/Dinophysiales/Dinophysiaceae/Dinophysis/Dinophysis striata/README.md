@@ -1,5 +1,4 @@
-Dinophysis striata (Schiitt) Abd SPECIES
-=======
+# Dinophysis striata (Schiitt) Abd SPECIES
 
 #### Status
 ACCEPTED

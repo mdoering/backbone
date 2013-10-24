@@ -1,5 +1,4 @@
-Phaeographina thelographis Müll. Arg. SPECIES
-=======
+# Phaeographina thelographis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skeletonema dohrnii Sarno & Kooistra, 2005 SPECIES
-=======
+# Skeletonema dohrnii Sarno & Kooistra, 2005 SPECIES
 
 #### Status
 ACCEPTED

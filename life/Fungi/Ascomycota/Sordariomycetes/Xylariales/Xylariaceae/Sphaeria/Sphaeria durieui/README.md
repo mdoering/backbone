@@ -1,5 +1,4 @@
-Sphaeria durieui Mont. SPECIES
-=======
+# Sphaeria durieui Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidium vellai Hayward, 1997 SPECIES
-=======
+# Elphidium vellai Hayward, 1997 SPECIES
 
 #### Status
 ACCEPTED

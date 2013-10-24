@@ -1,14 +1,13 @@
-Traquairia ornatus (B.H. Davis & Leisman) Stubblef. & T.N. Taylor SPECIES
-=======
+# Traquairia ornata (B.H. Davis & Leisman) Stubblef. & T.N. Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. J. Bot. 70(3): 395 (1983)
 
 #### Original name
 Mycocarpon ornatum B.H. Davis & Leisman

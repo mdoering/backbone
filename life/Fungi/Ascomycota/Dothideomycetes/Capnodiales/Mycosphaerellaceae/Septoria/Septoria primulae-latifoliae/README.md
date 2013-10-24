@@ -1,5 +1,4 @@
-Septoria primulae-latifoliae Jaap SPECIES
-=======
+# Septoria primulae-latifoliae Jaap SPECIES
 
 #### Status
 ACCEPTED

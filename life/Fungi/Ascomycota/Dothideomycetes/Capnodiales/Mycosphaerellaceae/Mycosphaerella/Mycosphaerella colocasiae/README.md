@@ -1,5 +1,4 @@
-Mycosphaerella colocasiae Hara SPECIES
-=======
+# Mycosphaerella colocasiae Hara SPECIES
 
 #### Status
 ACCEPTED

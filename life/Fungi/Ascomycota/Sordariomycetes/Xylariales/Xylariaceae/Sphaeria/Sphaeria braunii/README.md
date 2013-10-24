@@ -1,5 +1,4 @@
-Sphaeria braunii Heer SPECIES
-=======
+# Sphaeria braunii Heer SPECIES
 
 #### Status
 ACCEPTED

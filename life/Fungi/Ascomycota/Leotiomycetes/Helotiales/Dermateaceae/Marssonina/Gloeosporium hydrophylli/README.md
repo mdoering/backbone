@@ -1,5 +1,4 @@
-Gloeosporium hydrophylli Dearn. & House SPECIES
-=======
+# Gloeosporium hydrophylli Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

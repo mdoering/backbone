@@ -1,5 +1,4 @@
-Ceratium kofoidii E.G. Jørgensen SPECIES
-=======
+# Ceratium kofoidii E.G. Jørgensen SPECIES
 
 #### Status
 ACCEPTED

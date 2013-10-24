@@ -1,5 +1,4 @@
-Trichodina mutabilis Kozubsky & Migala, 1968 SPECIES
-=======
+# Trichodina mutabilis Kozubsky & Migala, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella nivalis (Fuckel) Berl. & Voglino SPECIES
-=======
+# Didymella nivalis (Fuckel) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

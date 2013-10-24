@@ -1,5 +1,4 @@
-Diorygma africanum Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma africanum Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

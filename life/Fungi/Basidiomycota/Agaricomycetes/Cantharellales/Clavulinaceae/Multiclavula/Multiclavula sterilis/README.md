@@ -1,5 +1,4 @@
-Multiclavula sterilis Coppins & P. James SPECIES
-=======
+# Multiclavula sterilis Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

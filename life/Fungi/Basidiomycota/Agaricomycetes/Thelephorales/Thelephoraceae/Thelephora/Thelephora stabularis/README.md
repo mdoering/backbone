@@ -1,5 +1,4 @@
-Thelephora stabularis Fr. SPECIES
-=======
+# Thelephora stabularis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerococcum hawksworthii Etayo & Diederich SPECIES
-=======
+# Sclerococcum hawksworthii Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

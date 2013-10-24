@@ -1,17 +1,16 @@
-Parmelia caperata f. caperata FORM
-=======
+# Flavoparmelia caperata (L.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 216 (1803)
+Mycotaxon 25(2): 604 (1986)
 
 #### Original name
-Parmelia caperata f. caperata
+Lichen caperatus L.
 
 ### Remarks
 null

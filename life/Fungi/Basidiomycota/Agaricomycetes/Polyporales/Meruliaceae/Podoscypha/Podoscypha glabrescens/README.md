@@ -1,14 +1,13 @@
-Stereum glabrescens Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Podoscypha glabrescens (Berk. & M.A. Curtis) Boidin, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 46): 330 (1868)
+Revue Mycol. , Paris 24: 210 (1959)
 
 #### Original name
 Stereum glabrescens Berk. & M.A. Curtis, 1868

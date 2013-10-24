@@ -1,5 +1,4 @@
-Phyllosticta liquidambaricola Sawada SPECIES
-=======
+# Phyllosticta liquidambaricola Sawada SPECIES
 
 #### Status
 ACCEPTED

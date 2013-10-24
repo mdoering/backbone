@@ -1,5 +1,4 @@
-Merisma trichopus (Pers.) Spreng. SPECIES
-=======
+# Merisma trichopus (Pers.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

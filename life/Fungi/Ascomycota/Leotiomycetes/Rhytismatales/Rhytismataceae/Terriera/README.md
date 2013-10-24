@@ -1,5 +1,4 @@
-Terriera B. Erikss. GENUS
-=======
+# Terriera B. Erikss. GENUS
 
 #### Status
 ACCEPTED

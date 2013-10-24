@@ -1,5 +1,4 @@
-Aspicilia permutata (Zahlbr.) Clauzade & Rondon SPECIES
-=======
+# Aspicilia permutata (Zahlbr.) Clauzade & Rondon SPECIES
 
 #### Status
 ACCEPTED

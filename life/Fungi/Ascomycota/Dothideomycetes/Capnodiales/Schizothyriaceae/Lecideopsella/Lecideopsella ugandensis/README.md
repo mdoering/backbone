@@ -1,5 +1,4 @@
-Lecideopsella ugandensis Hansf. SPECIES
-=======
+# Lecideopsella ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

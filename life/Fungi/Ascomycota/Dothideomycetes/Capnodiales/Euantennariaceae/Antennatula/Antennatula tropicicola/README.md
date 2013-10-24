@@ -1,5 +1,4 @@
-Antennatula tropicicola (Speg.) S. Hughes SPECIES
-=======
+# Antennatula tropicicola (Speg.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

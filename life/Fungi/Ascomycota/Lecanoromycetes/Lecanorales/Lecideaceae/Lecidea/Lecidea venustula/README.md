@@ -1,5 +1,4 @@
-Lecidea venustula Stirt. SPECIES
-=======
+# Lecidea venustula Stirt. SPECIES
 
 #### Status
 ACCEPTED

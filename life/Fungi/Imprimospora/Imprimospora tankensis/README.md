@@ -1,5 +1,4 @@
-Imprimospora tankensis G. Norris SPECIES
-=======
+# Imprimospora tankensis G. Norris SPECIES
 
 #### Status
 ACCEPTED

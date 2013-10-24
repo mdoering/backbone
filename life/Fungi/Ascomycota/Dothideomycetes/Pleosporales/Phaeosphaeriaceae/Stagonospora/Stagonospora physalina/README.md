@@ -1,5 +1,4 @@
-Stagonospora physalina (Sacc.) Siemaszko SPECIES
-=======
+# Stagonospora physalina (Sacc.) Siemaszko SPECIES
 
 #### Status
 ACCEPTED

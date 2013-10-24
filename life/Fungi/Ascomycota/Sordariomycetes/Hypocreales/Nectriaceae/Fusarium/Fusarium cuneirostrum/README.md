@@ -1,5 +1,4 @@
-Fusarium cuneirostrum O'Donnell & T. Aoki SPECIES
-=======
+# Fusarium cuneirostrum O'Donnell & T. Aoki SPECIES
 
 #### Status
 ACCEPTED

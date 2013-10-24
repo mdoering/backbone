@@ -1,5 +1,4 @@
-Didymobotryum corticale (Cooke & Peck) Dearn. & House SPECIES
-=======
+# Didymobotryum corticale (Cooke & Peck) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

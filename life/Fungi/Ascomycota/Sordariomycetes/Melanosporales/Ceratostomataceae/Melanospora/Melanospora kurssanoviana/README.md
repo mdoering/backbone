@@ -1,14 +1,13 @@
-Melanospora kurssanowiana (Beliakova) Czerepan. SPECIES
-=======
+# Melanospora kurssanoviana (Beliakova) Czerepan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 15: 84 (1962)
 
 #### Original name
 Chaetomium kursanovianum Beliakova

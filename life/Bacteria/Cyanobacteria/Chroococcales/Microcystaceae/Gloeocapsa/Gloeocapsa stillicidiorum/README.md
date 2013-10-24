@@ -1,5 +1,4 @@
-Gloeocapsa stillicidiorum Kützing SPECIES
-=======
+# Gloeocapsa stillicidiorum Kützing SPECIES
 
 #### Status
 ACCEPTED

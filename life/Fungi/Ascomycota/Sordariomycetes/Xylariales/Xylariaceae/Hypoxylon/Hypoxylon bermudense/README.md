@@ -1,5 +1,4 @@
-Hypoxylon bermudense (J.H. Mill.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon bermudense (J.H. Mill.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spicaria velutiformis Petch SPECIES
-=======
+# Spicaria velutiformis Petch SPECIES
 
 #### Status
 ACCEPTED

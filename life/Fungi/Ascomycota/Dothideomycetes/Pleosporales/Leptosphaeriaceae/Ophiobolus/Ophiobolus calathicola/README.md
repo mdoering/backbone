@@ -1,5 +1,4 @@
-Ophiobolus calathicola Feltgen SPECIES
-=======
+# Ophiobolus calathicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

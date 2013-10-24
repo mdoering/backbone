@@ -1,5 +1,4 @@
-Cyathus denudatus Spreng. SPECIES
-=======
+# Cyathus denudatus Spreng. SPECIES
 
 #### Status
 ACCEPTED

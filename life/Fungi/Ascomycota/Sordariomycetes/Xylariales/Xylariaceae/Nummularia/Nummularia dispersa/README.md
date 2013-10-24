@@ -1,5 +1,4 @@
-Nummularia dispersa Bat. SPECIES
-=======
+# Nummularia dispersa Bat. SPECIES
 
 #### Status
 ACCEPTED

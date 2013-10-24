@@ -1,5 +1,4 @@
-Thermocladium modestius Itoh et al., 1998 SPECIES
-=======
+# Thermocladium modestius Itoh et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

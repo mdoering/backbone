@@ -1,5 +1,4 @@
-Meliola zollingeri Gaillard SPECIES
-=======
+# Meliola zollingeri Gaillard SPECIES
 
 #### Status
 ACCEPTED

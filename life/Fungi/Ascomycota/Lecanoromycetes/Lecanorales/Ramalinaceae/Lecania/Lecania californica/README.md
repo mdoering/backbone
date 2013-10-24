@@ -1,5 +1,4 @@
-Lecania californica (Zahlbr.) Fink SPECIES
-=======
+# Lecania californica (Zahlbr.) Fink SPECIES
 
 #### Status
 ACCEPTED

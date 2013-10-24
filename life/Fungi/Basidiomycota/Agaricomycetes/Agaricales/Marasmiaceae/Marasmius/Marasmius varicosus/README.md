@@ -1,5 +1,4 @@
-Marasmius varicosus Fr. SPECIES
-=======
+# Marasmius varicosus Fr. SPECIES
 
 #### Status
 ACCEPTED

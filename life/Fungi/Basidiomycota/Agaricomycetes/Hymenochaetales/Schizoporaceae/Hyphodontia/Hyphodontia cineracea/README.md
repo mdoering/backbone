@@ -1,14 +1,13 @@
-Peniophora subalutacea subsp. cineracea (Bourdot & Galzin) Bourdot & Galzin SUBSPECIES
-=======
+# Hyphodontia cineracea (Bourdot & Galzin) J. Erikss. & Hjortstam, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 293 (1928)
+in Eriksson & Ryvarden, Cortic. N. Eur. (Oslo) 4: 629 (1976)
 
 #### Original name
 Peniophora glebulosa subsp. cineracea Bourdot & Galzin

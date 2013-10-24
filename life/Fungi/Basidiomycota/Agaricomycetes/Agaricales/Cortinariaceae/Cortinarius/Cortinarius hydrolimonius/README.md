@@ -1,5 +1,4 @@
-Cortinarius hydrolimonius Rob. Henry SPECIES
-=======
+# Cortinarius hydrolimonius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

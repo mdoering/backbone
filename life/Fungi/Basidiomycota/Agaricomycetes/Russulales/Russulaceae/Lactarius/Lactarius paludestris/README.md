@@ -1,5 +1,4 @@
-Lactarius paludestris Britzelm. SPECIES
-=======
+# Lactarius paludestris Britzelm. SPECIES
 
 #### Status
 ACCEPTED

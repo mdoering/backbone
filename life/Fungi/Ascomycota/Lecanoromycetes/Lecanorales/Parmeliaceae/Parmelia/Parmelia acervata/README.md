@@ -1,5 +1,4 @@
-Parmelia acervata Hue SPECIES
-=======
+# Parmelia acervata Hue SPECIES
 
 #### Status
 ACCEPTED

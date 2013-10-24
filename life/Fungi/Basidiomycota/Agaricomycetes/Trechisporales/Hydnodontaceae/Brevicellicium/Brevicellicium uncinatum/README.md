@@ -1,5 +1,4 @@
-Brevicellicium uncinatum Hjortstam & Ryvarden, 1980 SPECIES
-=======
+# Brevicellicium uncinatum Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

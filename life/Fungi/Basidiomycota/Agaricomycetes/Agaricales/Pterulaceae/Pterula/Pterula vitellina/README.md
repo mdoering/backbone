@@ -1,5 +1,4 @@
-Pterula vitellina (Pat.) Corner SPECIES
-=======
+# Pterula vitellina (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

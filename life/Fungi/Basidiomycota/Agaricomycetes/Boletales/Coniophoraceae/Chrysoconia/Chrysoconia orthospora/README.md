@@ -1,5 +1,4 @@
-Chrysoconia orthospora McCabe & G.A. Escobar, 1979 SPECIES
-=======
+# Chrysoconia orthospora McCabe & G.A. Escobar, 1979 SPECIES
 
 #### Status
 ACCEPTED

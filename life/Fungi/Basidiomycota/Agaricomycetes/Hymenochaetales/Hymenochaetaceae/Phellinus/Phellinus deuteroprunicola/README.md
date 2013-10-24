@@ -1,17 +1,16 @@
-Phellinus dueteroprunicola T.T. Chang & W.N. Chou SPECIES
-=======
+# Phellinus deuteroprunicola T.T. Chang & W.N. Chou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 92(4): 804 (2000)
 
 #### Original name
-Phellinus dueteroprunicola T.T. Chang & W.N. Chou
+Phellinus prunicola (Murrill) Gilb., 1979
 
 ### Remarks
 null

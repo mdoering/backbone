@@ -1,5 +1,4 @@
-Aspicilia scutellaris A. Massal. SPECIES
-=======
+# Aspicilia scutellaris A. Massal. SPECIES
 
 #### Status
 ACCEPTED

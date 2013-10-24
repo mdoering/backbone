@@ -1,5 +1,4 @@
-Agaricus rhyssosporus Mont. SPECIES
-=======
+# Agaricus rhyssosporus Mont. SPECIES
 
 #### Status
 ACCEPTED

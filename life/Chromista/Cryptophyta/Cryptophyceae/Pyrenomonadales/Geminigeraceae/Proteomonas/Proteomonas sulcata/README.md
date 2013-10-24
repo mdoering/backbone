@@ -1,5 +1,4 @@
-Proteomonas sulcata D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Proteomonas sulcata D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisolenia schroeteri Kofoid SPECIES
-=======
+# Amphisolenia schroeteri Kofoid SPECIES
 
 #### Status
 ACCEPTED

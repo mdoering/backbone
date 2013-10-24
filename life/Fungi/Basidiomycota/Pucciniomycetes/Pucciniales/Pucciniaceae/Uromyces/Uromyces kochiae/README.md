@@ -1,5 +1,4 @@
-Uromyces kochiae Petr. & Syd. SPECIES
-=======
+# Uromyces kochiae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

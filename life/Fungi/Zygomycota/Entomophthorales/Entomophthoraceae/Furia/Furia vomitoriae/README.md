@@ -1,5 +1,4 @@
-Furia vomitoriae (Rozsypal) Humber, 1989 SPECIES
-=======
+# Furia vomitoriae (Rozsypal) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

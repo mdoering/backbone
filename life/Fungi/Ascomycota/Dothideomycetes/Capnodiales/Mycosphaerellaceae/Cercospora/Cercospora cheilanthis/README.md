@@ -1,17 +1,16 @@
-Cercospora cheilanthei Chowdhry, D. Gupta & Padhi SPECIES
-=======
+# Cercospora cheilanthis Chowdhry, D. Gupta & Padhi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 36(4): 624 (1983)
 
 #### Original name
-Cercospora cheilanthei Chowdhry, D. Gupta & Padhi
+Cercospora cheilanthis Chowdhry, D. Gupta & Padhi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Staurothele arenarum B. de Lesd. SPECIES
-=======
+# Staurothele arenarum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

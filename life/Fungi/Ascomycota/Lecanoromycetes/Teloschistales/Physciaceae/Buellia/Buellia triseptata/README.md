@@ -1,5 +1,4 @@
-Buellia triseptata A. Nordin SPECIES
-=======
+# Buellia triseptata A. Nordin SPECIES
 
 #### Status
 ACCEPTED

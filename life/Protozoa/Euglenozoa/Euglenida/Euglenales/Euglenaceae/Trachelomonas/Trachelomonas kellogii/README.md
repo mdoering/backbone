@@ -1,5 +1,4 @@
-Trachelomonas kellogii var. nana Balech VARIETY
-=======
+# Trachelomonas kellogii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

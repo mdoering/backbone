@@ -1,5 +1,4 @@
-Thelephora imbricatulum Schwein. SPECIES
-=======
+# Thelephora imbricatulum Schwein. SPECIES
 
 #### Status
 ACCEPTED

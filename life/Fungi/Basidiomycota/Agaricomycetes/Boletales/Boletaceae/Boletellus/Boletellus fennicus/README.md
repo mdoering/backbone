@@ -1,5 +1,4 @@
-Boletellus fennicus Harmaja SPECIES
-=======
+# Boletellus fennicus Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe diversispora Killerm. SPECIES
-=======
+# Dermocybe diversispora Killerm. SPECIES
 
 #### Status
 ACCEPTED

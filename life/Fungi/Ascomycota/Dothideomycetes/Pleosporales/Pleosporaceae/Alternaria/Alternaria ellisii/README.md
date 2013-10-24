@@ -1,5 +1,4 @@
-Alternaria ellisii Pandotra & Ganguly SPECIES
-=======
+# Alternaria ellisii Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

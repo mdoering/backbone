@@ -1,5 +1,4 @@
-Phragmidium speciosum (Fr.) Burrill SPECIES
-=======
+# Phragmidium speciosum (Fr.) Burrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella adianticola Aa & Boerema, 1983 SPECIES
-=======
+# Didymella adianticola Aa & Boerema, 1983 SPECIES
 
 #### Status
 ACCEPTED

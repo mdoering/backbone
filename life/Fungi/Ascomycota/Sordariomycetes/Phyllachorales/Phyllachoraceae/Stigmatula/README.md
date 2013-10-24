@@ -1,17 +1,16 @@
-Leptocrea Syd. & P. Syd. GENUS
-=======
+# Stigmatula (Sacc.) Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(1/2): 87 (1916)
+Bull. Herb. Boissier, 2 sér. 1: 77 (1901)
 
 #### Original name
-Leptocrea Syd. & P. Syd.
+null
 
 ### Remarks
 null

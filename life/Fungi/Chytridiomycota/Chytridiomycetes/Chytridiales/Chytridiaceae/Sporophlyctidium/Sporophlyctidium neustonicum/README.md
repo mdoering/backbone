@@ -1,5 +1,4 @@
-Sporophlyctidium neustonicum Sparrow, 1978 SPECIES
-=======
+# Sporophlyctidium neustonicum Sparrow, 1978 SPECIES
 
 #### Status
 ACCEPTED

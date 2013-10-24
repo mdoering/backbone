@@ -1,5 +1,4 @@
-Solorinomyces saccatae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Solorinomyces saccatae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

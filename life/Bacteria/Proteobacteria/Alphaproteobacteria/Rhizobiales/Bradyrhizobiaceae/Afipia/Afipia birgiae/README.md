@@ -1,5 +1,4 @@
-Afipia birgiae La Scola et al., 2002 SPECIES
-=======
+# Afipia birgiae La Scola et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

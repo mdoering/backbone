@@ -1,5 +1,4 @@
-Periconia clitoriae Subram., 1955 SPECIES
-=======
+# Periconia clitoriae Subram., 1955 SPECIES
 
 #### Status
 ACCEPTED

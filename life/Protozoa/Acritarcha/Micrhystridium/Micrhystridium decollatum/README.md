@@ -1,5 +1,4 @@
-Micrhystridium decollatum (Colbath, 1990) Stancliffe & Sarjeant, 1996 SPECIES
-=======
+# Micrhystridium decollatum (Colbath, 1990) Stancliffe & Sarjeant, 1996 SPECIES
 
 #### Status
 ACCEPTED

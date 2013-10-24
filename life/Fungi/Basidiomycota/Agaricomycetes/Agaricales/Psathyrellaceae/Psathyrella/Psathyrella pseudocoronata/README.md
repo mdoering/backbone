@@ -1,5 +1,4 @@
-Psathyrella pseudocoronata A.H. Sm. SPECIES
-=======
+# Psathyrella pseudocoronata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

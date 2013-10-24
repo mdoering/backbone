@@ -1,5 +1,4 @@
-Septoria ptarmicae Pass. SPECIES
-=======
+# Septoria ptarmicae Pass. SPECIES
 
 #### Status
 ACCEPTED

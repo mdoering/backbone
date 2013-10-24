@@ -1,5 +1,4 @@
-Siphouvigerina virgula (Brady, 1879) SPECIES
-=======
+# Siphouvigerina virgula (Brady, 1879) SPECIES
 
 #### Status
 ACCEPTED

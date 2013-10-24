@@ -1,17 +1,16 @@
-Cercospora lilacina Bres., 1892 SPECIES
-=======
+# Passalora murina (Ellis & Kellerm.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 31(1/2): 41 (1892)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 285 (2003)
 
 #### Original name
-Cercospora lilacina Bres., 1892
+Cercospora murina Ellis & Kellerm., 1884
 
 ### Remarks
 null

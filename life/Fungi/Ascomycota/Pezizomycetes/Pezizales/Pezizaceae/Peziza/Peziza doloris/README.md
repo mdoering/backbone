@@ -1,5 +1,4 @@
-Peziza doloris Roum. SPECIES
-=======
+# Peziza doloris Roum. SPECIES
 
 #### Status
 ACCEPTED

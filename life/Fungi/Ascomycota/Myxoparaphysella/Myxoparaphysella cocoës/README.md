@@ -1,5 +1,4 @@
-Myxoparaphysella cocoës Caball., 1941 SPECIES
-=======
+# Myxoparaphysella cocoës Caball., 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus pyridinivorans Yoon et al., 2000 SPECIES
-=======
+# Rhodococcus pyridinivorans Yoon et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenidium zopfii De Wild. SPECIES
-=======
+# Lagenidium zopfii De Wild. SPECIES
 
 #### Status
 ACCEPTED

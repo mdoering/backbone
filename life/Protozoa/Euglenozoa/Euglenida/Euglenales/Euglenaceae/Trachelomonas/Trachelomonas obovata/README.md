@@ -1,5 +1,4 @@
-Trachelomonas obovata var. klebsiana (Deflandre) Popova VARIETY
-=======
+# Trachelomonas obovata A. Stokes emend. Deflandre SPECIES
 
 #### Status
 ACCEPTED

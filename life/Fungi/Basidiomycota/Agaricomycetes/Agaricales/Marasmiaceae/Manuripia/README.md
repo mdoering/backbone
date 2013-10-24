@@ -1,5 +1,4 @@
-Manuripia Singer GENUS
-=======
+# Manuripia Singer GENUS
 
 #### Status
 ACCEPTED

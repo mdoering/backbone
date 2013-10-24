@@ -1,5 +1,4 @@
-Misturatosphaeria uniseptata Mugambi, A.N. Mill. & Huhndorf, 2009 SPECIES
-=======
+# Misturatosphaeria uniseptata Mugambi, A.N. Mill. & Huhndorf, 2009 SPECIES
 
 #### Status
 ACCEPTED

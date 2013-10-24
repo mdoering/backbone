@@ -1,5 +1,4 @@
-Mammaria nectandrae Bat. & H. Maia SPECIES
-=======
+# Mammaria nectandrae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

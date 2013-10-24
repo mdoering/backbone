@@ -1,5 +1,4 @@
-Asterella rehmii (Henn.) Sacc. SPECIES
-=======
+# Asterella rehmii (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ascospora polygoni (Fr.) Kuntze, 1898 SPECIES
-=======
+# Stigmatea polygoni (Fr.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 444 (1898)
+null
 
 #### Original name
 Dothidea polygoni Fr., 1823

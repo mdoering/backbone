@@ -1,5 +1,4 @@
-Uromyces sepultus Mains SPECIES
-=======
+# Uromyces sepultus Mains SPECIES
 
 #### Status
 ACCEPTED

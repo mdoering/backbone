@@ -1,5 +1,4 @@
-Heteromycophaga glandulosae P. Roberts, 1997 SPECIES
-=======
+# Heteromycophaga glandulosae P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

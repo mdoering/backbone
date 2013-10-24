@@ -1,5 +1,4 @@
-Puiggarina costaricensis Speg., 1919 SPECIES
-=======
+# Puiggarina costaricensis Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella bakeri Syd. {?} SPECIES
-=======
+# Eutypella bakeri Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

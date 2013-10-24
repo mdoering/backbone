@@ -1,5 +1,4 @@
-Septoria hoyae Sacc. SPECIES
-=======
+# Septoria hoyae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum ruberrimum Berk. & Broome SPECIES
-=======
+# Stereum ruberrimum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

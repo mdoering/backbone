@@ -1,5 +1,4 @@
-Pseudocercospora crotalariana (Pavgi & U.P. Singh) Deighton SPECIES
-=======
+# Pseudocercospora crotalariana (Pavgi & U.P. Singh) Deighton SPECIES
 
 #### Status
 ACCEPTED

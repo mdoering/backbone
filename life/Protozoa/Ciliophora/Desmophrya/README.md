@@ -1,5 +1,4 @@
-Desmophrya Raabe, 1933 GENUS
-=======
+# Desmophrya Raabe, 1933 GENUS
 
 #### Status
 ACCEPTED

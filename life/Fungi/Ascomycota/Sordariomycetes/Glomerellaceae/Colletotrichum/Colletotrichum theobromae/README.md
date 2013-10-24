@@ -1,5 +1,4 @@
-Colletotrichum theobromae K.R. Appel & Strunk SPECIES
-=======
+# Colletotrichum theobromae K.R. Appel & Strunk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenomyce GENUS
-=======
+# Cenomyce GENUS
 
 #### Status
 ACCEPTED

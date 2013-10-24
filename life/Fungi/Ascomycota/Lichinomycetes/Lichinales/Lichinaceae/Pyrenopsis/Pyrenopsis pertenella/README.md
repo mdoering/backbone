@@ -1,5 +1,4 @@
-Pyrenopsis pertenella (Nyl.) Willey SPECIES
-=======
+# Pyrenopsis pertenella (Nyl.) Willey SPECIES
 
 #### Status
 ACCEPTED

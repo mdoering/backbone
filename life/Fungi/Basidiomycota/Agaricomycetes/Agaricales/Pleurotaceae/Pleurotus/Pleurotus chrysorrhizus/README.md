@@ -1,5 +1,4 @@
-Pleurotus chrysorrhizus Corner, 1981 SPECIES
-=======
+# Pleurotus chrysorrhizus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

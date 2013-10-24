@@ -1,5 +1,4 @@
-Hydnum subpallidum Snell & E.A. Dick SPECIES
-=======
+# Hydnum subpallidum Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

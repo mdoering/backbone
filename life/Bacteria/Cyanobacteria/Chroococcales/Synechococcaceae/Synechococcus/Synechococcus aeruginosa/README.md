@@ -1,5 +1,4 @@
-Synechococcus aeruginosa SPECIES
-=======
+# Synechococcus aeruginosa SPECIES
 
 #### Status
 ACCEPTED

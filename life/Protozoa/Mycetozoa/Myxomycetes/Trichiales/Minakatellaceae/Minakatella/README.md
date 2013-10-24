@@ -1,5 +1,4 @@
-Minakatella G. Lister GENUS
-=======
+# Minakatella G. Lister GENUS
 
 #### Status
 ACCEPTED

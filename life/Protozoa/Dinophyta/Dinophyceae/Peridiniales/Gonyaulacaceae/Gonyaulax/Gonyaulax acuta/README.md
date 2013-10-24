@@ -1,5 +1,4 @@
-Gonyaulax acuta Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax acuta Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

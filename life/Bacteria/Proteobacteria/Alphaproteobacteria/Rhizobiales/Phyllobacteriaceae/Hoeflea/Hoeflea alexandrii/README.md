@@ -1,5 +1,4 @@
-Hoeflea alexandrii Palacios et al., 2006 SPECIES
-=======
+# Hoeflea alexandrii Palacios et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

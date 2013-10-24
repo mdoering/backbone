@@ -1,5 +1,4 @@
-Hymenopsis areolata (Wallr.) Sacc. SPECIES
-=======
+# Hymenopsis areolata (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria minor Lév. SPECIES
-=======
+# Clavaria minor Lév. SPECIES
 
 #### Status
 ACCEPTED

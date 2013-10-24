@@ -1,5 +1,4 @@
-Gemma V.A. Luchinina in I.T. Zhuravleva et al., 1982 GENUS
-=======
+# Gemma V.A. Luchinina in I.T. Zhuravleva et al., 1982 GENUS
 
 #### Status
 ACCEPTED

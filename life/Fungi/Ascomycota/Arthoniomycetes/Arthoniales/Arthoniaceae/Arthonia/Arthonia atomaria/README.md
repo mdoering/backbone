@@ -1,5 +1,4 @@
-Arthonia atomaria A. Massal. SPECIES
-=======
+# Arthonia atomaria A. Massal. SPECIES
 
 #### Status
 ACCEPTED

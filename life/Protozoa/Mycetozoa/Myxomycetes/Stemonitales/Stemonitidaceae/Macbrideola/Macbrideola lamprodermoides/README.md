@@ -1,5 +1,4 @@
-Macbrideola lamprodermoides G. Moreno, Lizárraga & Illana, 2006 SPECIES
-=======
+# Macbrideola lamprodermoides G. Moreno, Lizárraga & Illana, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphosoma fumago (Speg.) M.B. Ellis SPECIES
-=======
+# Hyphosoma fumago (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

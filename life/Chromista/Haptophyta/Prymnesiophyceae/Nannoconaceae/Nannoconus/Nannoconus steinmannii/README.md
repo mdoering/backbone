@@ -1,11 +1,10 @@
-Nannoconus steinmannii subsp. steinmannii SUBSPECIES
-=======
+# Nannoconus steinmannii Kamptner, 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Paleobiology Database
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

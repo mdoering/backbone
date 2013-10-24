@@ -1,5 +1,4 @@
-Mirifica Shlykova, 1969 GENUS
-=======
+# Mirifica Shlykova, 1969 GENUS
 
 #### Status
 ACCEPTED

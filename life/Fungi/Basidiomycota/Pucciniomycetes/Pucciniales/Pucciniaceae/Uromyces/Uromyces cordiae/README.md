@@ -1,5 +1,4 @@
-Uromyces cordiae Henn. SPECIES
-=======
+# Uromyces cordiae Henn. SPECIES
 
 #### Status
 ACCEPTED

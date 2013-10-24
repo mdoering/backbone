@@ -1,5 +1,4 @@
-Lepiota citrina Pass. SPECIES
-=======
+# Lepiota citrina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria etilis Speg. SPECIES
-=======
+# Humaria etilis Speg. SPECIES
 
 #### Status
 ACCEPTED

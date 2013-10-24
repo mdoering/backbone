@@ -1,5 +1,4 @@
-Uromyces namaqualandus Mennicken, W. Maier & Oberw., 2005 SPECIES
-=======
+# Uromyces namaqualandus Mennicken, W. Maier & Oberw., 2005 SPECIES
 
 #### Status
 ACCEPTED

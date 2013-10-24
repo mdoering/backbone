@@ -1,5 +1,4 @@
-Chardoniella gynoxidis F. Kern, 1939 SPECIES
-=======
+# Chardoniella gynoxidis F. Kern, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia triumfettae Dietel & Holw. SPECIES
-=======
+# Puccinia triumfettae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

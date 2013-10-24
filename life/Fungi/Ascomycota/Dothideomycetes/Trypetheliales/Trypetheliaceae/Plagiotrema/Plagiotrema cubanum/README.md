@@ -1,5 +1,4 @@
-Plagiotrema cubanum Müll. Arg. SPECIES
-=======
+# Plagiotrema cubanum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

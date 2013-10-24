@@ -1,14 +1,13 @@
-Pyrophagus Lemmermann, 1899 GENUS
-=======
+# Pyrophacus Stein, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. Ver. Bremen, 16 (2), 315.
+Org. Infus. , 3 (2), 28.
 
 #### Original name
 null

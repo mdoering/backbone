@@ -1,5 +1,4 @@
-Helminthosporium minutum Schulzer & Sacc. SPECIES
-=======
+# Helminthosporium minutum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

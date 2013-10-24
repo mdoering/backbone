@@ -1,17 +1,16 @@
-Graphis brachyspora Müll. Arg. SPECIES
-=======
+# Platythecium pertenellum (Stirt.) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 66: 79 (1883)
+Telopea 11(1): 77 (2005)
 
 #### Original name
-Graphis brachyspora Müll. Arg.
+Graphis pertenella Stirt.
 
 ### Remarks
 null

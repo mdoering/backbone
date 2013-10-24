@@ -1,5 +1,4 @@
-Sagedia koerberi SPECIES
-=======
+# Sagedia koerberi SPECIES
 
 #### Status
 ACCEPTED

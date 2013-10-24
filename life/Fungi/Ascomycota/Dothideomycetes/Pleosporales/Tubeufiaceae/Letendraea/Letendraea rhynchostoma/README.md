@@ -1,5 +1,4 @@
-Letendraea rhynchostoma Höhn. SPECIES
-=======
+# Letendraea rhynchostoma Höhn. SPECIES
 
 #### Status
 ACCEPTED

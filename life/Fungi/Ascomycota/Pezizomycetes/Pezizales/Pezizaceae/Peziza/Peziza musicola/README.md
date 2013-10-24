@@ -1,5 +1,4 @@
-Peziza musicola (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Peziza musicola (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

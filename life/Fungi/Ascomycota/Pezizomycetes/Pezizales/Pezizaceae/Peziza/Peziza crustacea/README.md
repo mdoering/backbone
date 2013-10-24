@@ -1,5 +1,4 @@
-Peziza crustacea SPECIES
-=======
+# Peziza crustacea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula rubrocarminea Romagn. SPECIES
-=======
+# Russula rubrocarminea Romagn. SPECIES
 
 #### Status
 ACCEPTED

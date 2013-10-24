@@ -1,5 +1,4 @@
-Lophiostoma rutae (Fabre) Sacc. SPECIES
-=======
+# Lophiostoma rutae (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

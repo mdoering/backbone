@@ -1,5 +1,4 @@
-Stigmatea pelvetiae G.K. Sutherl., 1915 SPECIES
-=======
+# Stigmatea pelvetiae G.K. Sutherl., 1915 SPECIES
 
 #### Status
 ACCEPTED

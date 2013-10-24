@@ -1,5 +1,4 @@
-Gyroflexus Raithelh. GENUS
-=======
+# Gyroflexus Raithelh. GENUS
 
 #### Status
 ACCEPTED

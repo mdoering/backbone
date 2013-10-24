@@ -1,5 +1,4 @@
-Estiastra iranicum Ghavidel-Syooki, 2000 SPECIES
-=======
+# Estiastra iranicum Ghavidel-Syooki, 2000 SPECIES
 
 #### Status
 ACCEPTED

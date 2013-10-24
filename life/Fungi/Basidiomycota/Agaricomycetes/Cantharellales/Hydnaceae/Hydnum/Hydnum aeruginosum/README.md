@@ -1,5 +1,4 @@
-Hydnum aeruginosum Schwein. SPECIES
-=======
+# Hydnum aeruginosum Schwein. SPECIES
 
 #### Status
 ACCEPTED

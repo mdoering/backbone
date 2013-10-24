@@ -1,5 +1,4 @@
-Entoloma placenta (Batsch) Fr. SPECIES
-=======
+# Entoloma placenta (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

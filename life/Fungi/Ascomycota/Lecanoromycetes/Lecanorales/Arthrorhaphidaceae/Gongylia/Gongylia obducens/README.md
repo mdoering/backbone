@@ -1,5 +1,4 @@
-Gongylia obducens K.G.W. Lång SPECIES
-=======
+# Gongylia obducens K.G.W. Lång SPECIES
 
 #### Status
 ACCEPTED

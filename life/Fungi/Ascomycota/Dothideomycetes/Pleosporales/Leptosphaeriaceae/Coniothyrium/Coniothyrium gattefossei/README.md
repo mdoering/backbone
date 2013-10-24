@@ -1,5 +1,4 @@
-Coniothyrium gattefossei Duvernoy & Maire SPECIES
-=======
+# Coniothyrium gattefossei Duvernoy & Maire SPECIES
 
 #### Status
 ACCEPTED

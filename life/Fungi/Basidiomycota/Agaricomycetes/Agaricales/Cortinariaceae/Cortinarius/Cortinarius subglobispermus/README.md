@@ -1,5 +1,4 @@
-Cortinarius subglobispermus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius subglobispermus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

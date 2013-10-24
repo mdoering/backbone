@@ -1,5 +1,4 @@
-Mycosphaerella halimodendri Murashk. SPECIES
-=======
+# Mycosphaerella halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

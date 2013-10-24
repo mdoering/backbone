@@ -1,5 +1,4 @@
-Helotium staudtii Henn. SPECIES
-=======
+# Helotium staudtii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohansfordia artocarpi Matsush. SPECIES
-=======
+# Pseudohansfordia artocarpi Matsush. SPECIES
 
 #### Status
 ACCEPTED

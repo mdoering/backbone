@@ -1,5 +1,4 @@
-Plectospira dubia D. Atkins SPECIES
-=======
+# Plectospira dubia D. Atkins SPECIES
 
 #### Status
 ACCEPTED

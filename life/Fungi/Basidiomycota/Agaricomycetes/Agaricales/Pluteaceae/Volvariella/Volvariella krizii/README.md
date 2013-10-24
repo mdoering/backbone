@@ -1,5 +1,4 @@
-Volvariella krizii Pilát SPECIES
-=======
+# Volvariella krizii Pilát SPECIES
 
 #### Status
 ACCEPTED

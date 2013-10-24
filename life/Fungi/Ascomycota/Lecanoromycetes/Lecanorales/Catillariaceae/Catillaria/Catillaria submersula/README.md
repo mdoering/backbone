@@ -1,5 +1,4 @@
-Catillaria submersula SPECIES
-=======
+# Catillaria submersula SPECIES
 
 #### Status
 ACCEPTED

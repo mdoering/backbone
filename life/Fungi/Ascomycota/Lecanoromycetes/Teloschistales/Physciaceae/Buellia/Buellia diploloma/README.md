@@ -1,5 +1,4 @@
-Buellia diploloma Müll. Arg. SPECIES
-=======
+# Buellia diploloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

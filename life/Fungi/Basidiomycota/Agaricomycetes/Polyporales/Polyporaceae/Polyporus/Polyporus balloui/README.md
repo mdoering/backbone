@@ -1,5 +1,4 @@
-Polyporus balloui Lloyd SPECIES
-=======
+# Polyporus balloui Lloyd SPECIES
 
 #### Status
 ACCEPTED

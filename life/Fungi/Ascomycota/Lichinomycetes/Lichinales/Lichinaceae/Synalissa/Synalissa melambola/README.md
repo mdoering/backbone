@@ -1,5 +1,4 @@
-Synalissa melambola Tuck. SPECIES
-=======
+# Synalissa melambola Tuck. SPECIES
 
 #### Status
 ACCEPTED

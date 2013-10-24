@@ -1,5 +1,4 @@
-Rhizocarpon seductum (Nyl.) Lettau SPECIES
-=======
+# Rhizocarpon seductum (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

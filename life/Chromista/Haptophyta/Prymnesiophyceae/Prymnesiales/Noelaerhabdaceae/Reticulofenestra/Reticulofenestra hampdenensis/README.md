@@ -1,5 +1,4 @@
-Reticulofenestra hampdenensis Edwards, 1973 SPECIES
-=======
+# Reticulofenestra hampdenensis Edwards, 1973 SPECIES
 
 #### Status
 ACCEPTED

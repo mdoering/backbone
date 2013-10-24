@@ -1,5 +1,4 @@
-Isaria cryptotympanae Sawada SPECIES
-=======
+# Isaria cryptotympanae Sawada SPECIES
 
 #### Status
 ACCEPTED

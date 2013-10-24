@@ -1,5 +1,4 @@
-Scytonema hofmannii C. Agardh ex Bornet & Flahault SPECIES
-=======
+# Scytonema hofmannii C. Agardh ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

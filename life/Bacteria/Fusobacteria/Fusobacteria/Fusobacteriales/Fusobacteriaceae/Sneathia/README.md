@@ -1,5 +1,4 @@
-Sneathia Collins, Hoyles, Tornqvist, von Essen & Falsen, 2002 GENUS
-=======
+# Sneathia Collins, Hoyles, Tornqvist, von Essen & Falsen, 2002 GENUS
 
 #### Status
 ACCEPTED

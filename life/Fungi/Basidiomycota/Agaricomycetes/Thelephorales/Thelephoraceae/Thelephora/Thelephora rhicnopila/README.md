@@ -1,5 +1,4 @@
-Thelephora rhicnopila Lév. SPECIES
-=======
+# Thelephora rhicnopila Lév. SPECIES
 
 #### Status
 ACCEPTED

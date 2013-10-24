@@ -1,5 +1,4 @@
-Pleurotus lignicola (Sacc.) Sacc. SPECIES
-=======
+# Pleurotus lignicola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

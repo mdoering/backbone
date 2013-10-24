@@ -1,5 +1,4 @@
-Calonectria ukolayi Thaung SPECIES
-=======
+# Calonectria ukolayi Thaung SPECIES
 
 #### Status
 ACCEPTED

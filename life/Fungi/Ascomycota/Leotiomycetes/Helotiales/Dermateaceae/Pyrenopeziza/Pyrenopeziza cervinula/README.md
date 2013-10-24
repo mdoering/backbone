@@ -1,5 +1,4 @@
-Pyrenopeziza cervinula (Cooke) Sacc. SPECIES
-=======
+# Pyrenopeziza cervinula (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

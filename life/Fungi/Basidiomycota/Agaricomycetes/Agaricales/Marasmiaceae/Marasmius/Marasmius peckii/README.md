@@ -1,5 +1,4 @@
-Marasmius peckii Murrill SPECIES
-=======
+# Marasmius peckii Murrill SPECIES
 
 #### Status
 ACCEPTED

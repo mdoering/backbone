@@ -1,14 +1,13 @@
-Pleurotus filicinus Velen., 1927 SPECIES
-=======
+# Pleurotellus filicinus (Velen.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyphomycetes 4: 30 (1927)
+Trans. Br. mycol. Soc. 43: 180 (1960)
 
 #### Original name
 Pleurotus filicinus Velen., 1927

@@ -1,5 +1,4 @@
-Hyaloscypha leuconica var. leuconica VARIETY
-=======
+# Hyaloscypha leuconica (Cooke) Nannf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Br. mycol. Soc. 20: 206 (1936)
 
 #### Original name
-Hyaloscypha leuconica var. leuconica
+Lachnella leuconica Cooke, 1887
 
 ### Remarks
 null

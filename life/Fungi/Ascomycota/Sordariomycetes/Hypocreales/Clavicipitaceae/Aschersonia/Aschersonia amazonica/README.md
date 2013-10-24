@@ -1,5 +1,4 @@
-Aschersonia amazonica Henn. SPECIES
-=======
+# Aschersonia amazonica Henn. SPECIES
 
 #### Status
 ACCEPTED

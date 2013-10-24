@@ -1,5 +1,4 @@
-Cortinarius pyromyxa M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius pyromyxa M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

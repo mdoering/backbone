@@ -1,5 +1,4 @@
-Sarcosagium A. Massal. GENUS
-=======
+# Sarcosagium A. Massal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula epiphylloides Corner, 1952 SPECIES
-=======
+# Pterula epiphylloides Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

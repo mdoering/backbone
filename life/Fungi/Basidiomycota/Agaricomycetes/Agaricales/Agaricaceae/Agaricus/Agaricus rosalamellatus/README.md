@@ -1,17 +1,16 @@
-Agaricus rosamellata Raithelh. SPECIES
-=======
+# Agaricus rosalamellatus Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 14(1): 22 (1986)
 
 #### Original name
-Agaricus rosamellata Raithelh.
+Agaricus rosalamellatus Raithelh.
 
 ### Remarks
 null

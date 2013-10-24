@@ -1,5 +1,4 @@
-Asteridiella rubi F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Asteridiella rubi F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

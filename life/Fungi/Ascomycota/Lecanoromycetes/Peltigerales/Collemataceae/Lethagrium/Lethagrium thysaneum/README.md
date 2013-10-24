@@ -1,5 +1,4 @@
-Lethagrium thysaneum (Ach.) Flagey SPECIES
-=======
+# Lethagrium thysaneum (Ach.) Flagey SPECIES
 
 #### Status
 ACCEPTED

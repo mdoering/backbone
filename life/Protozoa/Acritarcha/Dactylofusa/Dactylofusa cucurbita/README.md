@@ -1,5 +1,4 @@
-Dactylofusa cucurbita S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
-=======
+# Dactylofusa cucurbita S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
 
 #### Status
 ACCEPTED

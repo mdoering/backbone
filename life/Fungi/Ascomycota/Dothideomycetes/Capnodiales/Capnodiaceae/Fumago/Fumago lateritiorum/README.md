@@ -1,5 +1,4 @@
-Fumago lateritiorum Sacc. SPECIES
-=======
+# Fumago lateritiorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

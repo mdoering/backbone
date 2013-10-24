@@ -1,5 +1,4 @@
-Protoperidinium subinerme (Paulsen) Loeblich Iii SPECIES
-=======
+# Protoperidinium subinerme (Paulsen) Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

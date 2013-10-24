@@ -1,5 +1,4 @@
-Sporidesmium polyproliferum W.P. Wu SPECIES
-=======
+# Sporidesmium polyproliferum W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

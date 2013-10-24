@@ -1,5 +1,4 @@
-Penicillium caerulescens Quintan., 1983 SPECIES
-=======
+# Penicillium caerulescens Quintan., 1983 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Melanogaster ovoidisporus Y. Wang SPECIES
-=======
+# Melanogaster ovoidisporus Y. Wang SPECIES
 
 #### Status
 ACCEPTED

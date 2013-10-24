@@ -1,5 +1,4 @@
-Pleurothyriella pinastri (Oudem.) Petr. & Syd., 1925 SPECIES
-=======
+# Pleurothyriella pinastri (Oudem.) Petr. & Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

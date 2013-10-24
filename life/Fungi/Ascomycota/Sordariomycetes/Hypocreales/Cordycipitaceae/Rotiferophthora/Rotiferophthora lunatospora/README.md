@@ -1,5 +1,4 @@
-Rotiferophthora lunatospora Glockling, 1994 SPECIES
-=======
+# Rotiferophthora lunatospora Glockling, 1994 SPECIES
 
 #### Status
 ACCEPTED

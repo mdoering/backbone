@@ -1,5 +1,4 @@
-Palaeofibula antarctica J.M. Osborn, T.N. Taylor & J.F. White SPECIES
-=======
+# Palaeofibula antarctica J.M. Osborn, T.N. Taylor & J.F. White SPECIES
 
 #### Status
 ACCEPTED

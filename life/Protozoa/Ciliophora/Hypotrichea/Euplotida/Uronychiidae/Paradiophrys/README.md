@@ -1,5 +1,4 @@
-Paradiophrys Jankowski, 1978 GENUS
-=======
+# Paradiophrys Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

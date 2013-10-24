@@ -1,8 +1,7 @@
-Agaricus madreporeus Batsch SPECIES
-=======
+# Agaricus madreporius Batsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus madreporeus Batsch
+Agaricus madreporius Batsch
 
 ### Remarks
 null

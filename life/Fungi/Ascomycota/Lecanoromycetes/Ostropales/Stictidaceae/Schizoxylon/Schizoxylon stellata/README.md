@@ -1,5 +1,4 @@
-Schizoxylon stellata Fuckel SPECIES
-=======
+# Schizoxylon stellata Fuckel SPECIES
 
 #### Status
 ACCEPTED

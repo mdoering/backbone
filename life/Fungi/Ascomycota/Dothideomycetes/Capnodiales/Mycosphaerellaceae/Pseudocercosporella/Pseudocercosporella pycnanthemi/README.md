@@ -1,5 +1,4 @@
-Pseudocercosporella pycnanthemi (G.F. Atk.) U. Braun SPECIES
-=======
+# Pseudocercosporella pycnanthemi (G.F. Atk.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

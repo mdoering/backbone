@@ -1,5 +1,4 @@
-Ectocarpus parvulus Kützing SPECIES
-=======
+# Ectocarpus parvulus Kützing SPECIES
 
 #### Status
 ACCEPTED

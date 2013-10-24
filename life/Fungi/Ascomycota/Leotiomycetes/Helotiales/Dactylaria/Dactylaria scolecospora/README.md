@@ -1,5 +1,4 @@
-Dactylaria scolecospora P.M. Kirk, 1983 SPECIES
-=======
+# Dactylaria scolecospora P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

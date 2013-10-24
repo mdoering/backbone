@@ -1,5 +1,4 @@
-Biatorellopsis eklundii C.W. Dodge SPECIES
-=======
+# Biatorellopsis eklundii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

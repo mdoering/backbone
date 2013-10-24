@@ -1,5 +1,4 @@
-Diplodia porliariae Nann. SPECIES
-=======
+# Diplodia porliariae Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium rhachos (Erkmen & Sarjeant, 1980) Sarjeant & Stancliffe SPECIES
-=======
+# Micrhystridium rhachos (Erkmen & Sarjeant, 1980) Sarjeant & Stancliffe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius detonsus (Fr.) Fr. SPECIES
-=======
+# Cortinarius detonsus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium arcticum P. M. Jørg. SPECIES
-=======
+# Leptogium arcticum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

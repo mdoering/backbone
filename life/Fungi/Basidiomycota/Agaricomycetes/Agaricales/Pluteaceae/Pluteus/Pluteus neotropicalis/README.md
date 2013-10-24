@@ -1,5 +1,4 @@
-Pluteus neotropicalis Rodr.-Alcánt. SPECIES
-=======
+# Pluteus neotropicalis Rodr.-Alcánt. SPECIES
 
 #### Status
 ACCEPTED

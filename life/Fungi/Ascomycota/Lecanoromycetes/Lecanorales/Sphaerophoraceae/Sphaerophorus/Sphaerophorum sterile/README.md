@@ -1,5 +1,4 @@
-Sphaerophorum sterile (Ach.) Gärtner {?}, G. Mey. & Scherb. SPECIES
-=======
+# Sphaerophorum sterile (Ach.) Gärtner {?}, G. Mey. & Scherb. SPECIES
 
 #### Status
 ACCEPTED

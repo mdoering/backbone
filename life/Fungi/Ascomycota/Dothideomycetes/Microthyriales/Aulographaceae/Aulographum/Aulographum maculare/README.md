@@ -1,17 +1,16 @@
-Ailographum maculare Berk. & Broome, 1861 SPECIES
-=======
+# Aulographum maculare Berk. & Broome, 1861 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 3 7: no. 968 (1861)
 
 #### Original name
-null
+Aulographum maculare Berk. & Broome, 1861
 
 ### Remarks
 null

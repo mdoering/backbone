@@ -1,5 +1,4 @@
-Syracosphaera orbiculus Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera orbiculus Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

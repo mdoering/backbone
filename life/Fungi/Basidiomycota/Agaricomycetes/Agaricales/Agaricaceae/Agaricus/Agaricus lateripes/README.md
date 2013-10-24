@@ -1,5 +1,4 @@
-Agaricus lateripes Desm. SPECIES
-=======
+# Agaricus lateripes Desm. SPECIES
 
 #### Status
 ACCEPTED

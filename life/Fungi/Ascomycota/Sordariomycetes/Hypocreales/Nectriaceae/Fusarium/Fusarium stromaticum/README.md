@@ -1,5 +1,4 @@
-Fusarium stromaticum Delacr. SPECIES
-=======
+# Fusarium stromaticum Delacr. SPECIES
 
 #### Status
 ACCEPTED

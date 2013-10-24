@@ -1,5 +1,4 @@
-Marasmiellus incrustatus Singer SPECIES
-=======
+# Marasmiellus incrustatus Singer SPECIES
 
 #### Status
 ACCEPTED

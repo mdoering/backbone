@@ -1,5 +1,4 @@
-Pestalotiopsis darjeelingensis Dube, Bilgrami & H.P. Srivast. SPECIES
-=======
+# Pestalotiopsis darjeelingensis Dube, Bilgrami & H.P. Srivast. SPECIES
 
 #### Status
 ACCEPTED

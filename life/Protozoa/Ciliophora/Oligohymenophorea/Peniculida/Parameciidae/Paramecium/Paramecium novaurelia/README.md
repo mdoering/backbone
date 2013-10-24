@@ -1,5 +1,4 @@
-Paramecium novaurelia SPECIES
-=======
+# Paramecium novaurelia SPECIES
 
 #### Status
 ACCEPTED

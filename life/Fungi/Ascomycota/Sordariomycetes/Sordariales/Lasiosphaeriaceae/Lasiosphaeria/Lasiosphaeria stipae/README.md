@@ -1,5 +1,4 @@
-Lasiosphaeria stipae Fabre SPECIES
-=======
+# Lasiosphaeria stipae Fabre SPECIES
 
 #### Status
 ACCEPTED

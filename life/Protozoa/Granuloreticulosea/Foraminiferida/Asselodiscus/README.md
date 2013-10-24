@@ -1,5 +1,4 @@
-Asselodiscus Mamet & Pinard, 1992 GENUS
-=======
+# Asselodiscus Mamet & Pinard, 1992 GENUS
 
 #### Status
 ACCEPTED

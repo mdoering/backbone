@@ -1,5 +1,4 @@
-Olivamonas Skvortzov, 1969 GENUS
-=======
+# Olivamonas Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia capitulata Riess SPECIES
-=======
+# Periconia capitulata Riess SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora taraxaci-officinalis G.F. Atk. SPECIES
-=======
+# Rhabdospora taraxaci-officinalis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

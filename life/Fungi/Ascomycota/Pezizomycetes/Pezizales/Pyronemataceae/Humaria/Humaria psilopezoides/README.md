@@ -1,5 +1,4 @@
-Humaria psilopezoides (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Humaria psilopezoides (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaerella Spegazzini, 1909 GENUS
-=======
+# Leptosphaerella Spegazzini, 1909 GENUS
 
 #### Status
 ACCEPTED

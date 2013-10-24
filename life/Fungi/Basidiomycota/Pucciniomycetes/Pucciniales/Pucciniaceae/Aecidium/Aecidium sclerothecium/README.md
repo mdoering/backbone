@@ -1,5 +1,4 @@
-Aecidium sclerothecium Speg. SPECIES
-=======
+# Aecidium sclerothecium Speg. SPECIES
 
 #### Status
 ACCEPTED

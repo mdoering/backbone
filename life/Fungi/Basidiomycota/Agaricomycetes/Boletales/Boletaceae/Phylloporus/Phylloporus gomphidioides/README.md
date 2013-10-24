@@ -1,5 +1,4 @@
-Phylloporus gomphidioides Heinem. & Rammeloo SPECIES
-=======
+# Phylloporus gomphidioides Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

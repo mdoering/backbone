@@ -1,5 +1,4 @@
-Dothidea syconophila (De Not.) Durieu & Mont. SPECIES
-=======
+# Dothidea syconophila (De Not.) Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

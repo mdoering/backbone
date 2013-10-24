@@ -1,5 +1,4 @@
-Pseudopyrenula basilica (Kremp.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula basilica (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

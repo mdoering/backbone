@@ -1,5 +1,4 @@
-Abruptophycus Vologdin, 1962 GENUS
-=======
+# Abruptophycus Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

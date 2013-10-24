@@ -1,5 +1,4 @@
-Calocladia divaricata (Wallr.) Lév. SPECIES
-=======
+# Calocladia divaricata (Wallr.) Lév. SPECIES
 
 #### Status
 ACCEPTED

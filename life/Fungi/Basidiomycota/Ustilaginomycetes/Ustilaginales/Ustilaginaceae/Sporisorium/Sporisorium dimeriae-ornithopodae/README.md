@@ -1,5 +1,4 @@
-Sporisorium dimeriae-ornithopodae Vánky & C. Menge, 1993 SPECIES
-=======
+# Sporisorium dimeriae-ornithopodae Vánky & C. Menge, 1993 SPECIES
 
 #### Status
 ACCEPTED

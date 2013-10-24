@@ -1,5 +1,4 @@
-Dermocystidium percae Rchb.-Klinke SPECIES
-=======
+# Dermocystidium percae Rchb.-Klinke SPECIES
 
 #### Status
 ACCEPTED

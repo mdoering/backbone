@@ -1,5 +1,4 @@
-Pertusaria subrugosa Nyl. SPECIES
-=======
+# Pertusaria subrugosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

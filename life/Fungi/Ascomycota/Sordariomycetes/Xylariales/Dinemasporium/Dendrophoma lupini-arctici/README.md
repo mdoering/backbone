@@ -1,5 +1,4 @@
-Dendrophoma lupini-arctici Dearn. SPECIES
-=======
+# Dendrophoma lupini-arctici Dearn. SPECIES
 
 #### Status
 ACCEPTED

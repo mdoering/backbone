@@ -1,5 +1,4 @@
-Maudammina arenaria Tendal, 1972 SPECIES
-=======
+# Maudammina arenaria Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

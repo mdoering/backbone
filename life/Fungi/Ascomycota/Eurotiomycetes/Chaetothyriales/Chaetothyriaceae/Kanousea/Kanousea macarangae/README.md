@@ -1,5 +1,4 @@
-Kanousea macarangae (Hansf.) Bat. & Cif. SPECIES
-=======
+# Kanousea macarangae (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

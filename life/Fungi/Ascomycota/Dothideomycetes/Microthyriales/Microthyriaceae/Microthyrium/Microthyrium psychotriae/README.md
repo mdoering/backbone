@@ -1,5 +1,4 @@
-Microthyrium psychotriae (R.W. Ryan) Toro SPECIES
-=======
+# Microthyrium psychotriae (R.W. Ryan) Toro SPECIES
 
 #### Status
 ACCEPTED

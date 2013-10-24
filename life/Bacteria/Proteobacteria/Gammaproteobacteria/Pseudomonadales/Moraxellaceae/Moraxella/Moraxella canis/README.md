@@ -1,5 +1,4 @@
-Moraxella canis Jannes et al., 1993 SPECIES
-=======
+# Moraxella canis Jannes et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

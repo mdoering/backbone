@@ -1,5 +1,4 @@
-Agaricus martialis Cooke & Massee SPECIES
-=======
+# Agaricus martialis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

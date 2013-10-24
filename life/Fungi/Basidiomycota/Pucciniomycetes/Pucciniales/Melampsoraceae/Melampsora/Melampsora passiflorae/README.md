@@ -1,5 +1,4 @@
-Melampsora passiflorae Har. SPECIES
-=======
+# Melampsora passiflorae Har. SPECIES
 
 #### Status
 ACCEPTED

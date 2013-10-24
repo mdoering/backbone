@@ -1,5 +1,4 @@
-Enchnoa bombacifoliae Bat. SPECIES
-=======
+# Enchnoa bombacifoliae Bat. SPECIES
 
 #### Status
 ACCEPTED

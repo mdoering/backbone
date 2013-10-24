@@ -1,5 +1,4 @@
-Stictis lonicerae Mont. SPECIES
-=======
+# Stictis lonicerae Mont. SPECIES
 
 #### Status
 ACCEPTED

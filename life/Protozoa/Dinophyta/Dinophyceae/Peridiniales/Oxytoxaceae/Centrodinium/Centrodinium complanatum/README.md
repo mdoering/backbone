@@ -1,5 +1,4 @@
-Centrodinium complanatum (Cleve, 1903) Kofoid, 1907 SPECIES
-=======
+# Centrodinium complanatum (Cleve, 1903) Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

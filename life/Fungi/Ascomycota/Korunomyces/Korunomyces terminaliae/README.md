@@ -1,5 +1,4 @@
-Korunomyces terminaliae Hodges & F.A. Ferreira, 1981 SPECIES
-=======
+# Korunomyces terminaliae Hodges & F.A. Ferreira, 1981 SPECIES
 
 #### Status
 ACCEPTED

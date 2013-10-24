@@ -1,5 +1,4 @@
-Cladonia modesta Ahti & Krog SPECIES
-=======
+# Cladonia modesta Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

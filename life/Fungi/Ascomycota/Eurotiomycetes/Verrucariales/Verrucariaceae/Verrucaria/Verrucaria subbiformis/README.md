@@ -1,5 +1,4 @@
-Verrucaria subbiformis C. Knight SPECIES
-=======
+# Verrucaria subbiformis C. Knight SPECIES
 
 #### Status
 ACCEPTED

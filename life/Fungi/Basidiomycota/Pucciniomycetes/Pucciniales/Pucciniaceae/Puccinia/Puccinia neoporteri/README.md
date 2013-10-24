@@ -1,5 +1,4 @@
-Puccinia neoporteri I. Hino & Katum. SPECIES
-=======
+# Puccinia neoporteri I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

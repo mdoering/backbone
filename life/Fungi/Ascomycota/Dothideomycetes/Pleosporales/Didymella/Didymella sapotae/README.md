@@ -1,5 +1,4 @@
-Didymella sapotae Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Didymella sapotae Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

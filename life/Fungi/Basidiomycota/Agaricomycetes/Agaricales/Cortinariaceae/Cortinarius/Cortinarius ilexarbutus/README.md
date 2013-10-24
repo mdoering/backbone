@@ -1,5 +1,4 @@
-Cortinarius ilexarbutus Rob. Henry SPECIES
-=======
+# Cortinarius ilexarbutus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

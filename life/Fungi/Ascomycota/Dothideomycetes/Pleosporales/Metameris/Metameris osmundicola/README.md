@@ -1,5 +1,4 @@
-Metameris osmundicola (W. Obrist) Arx & E. Müll. SPECIES
-=======
+# Metameris osmundicola (W. Obrist) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

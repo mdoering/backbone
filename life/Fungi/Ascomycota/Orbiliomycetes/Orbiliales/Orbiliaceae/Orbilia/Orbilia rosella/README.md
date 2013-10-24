@@ -1,5 +1,4 @@
-Orbilia rosella (Rehm) Sacc. SPECIES
-=======
+# Orbilia rosella (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

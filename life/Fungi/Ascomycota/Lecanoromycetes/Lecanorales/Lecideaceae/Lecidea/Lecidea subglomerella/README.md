@@ -1,5 +1,4 @@
-Lecidea subglomerella Nyl. SPECIES
-=======
+# Lecidea subglomerella Nyl. SPECIES
 
 #### Status
 ACCEPTED

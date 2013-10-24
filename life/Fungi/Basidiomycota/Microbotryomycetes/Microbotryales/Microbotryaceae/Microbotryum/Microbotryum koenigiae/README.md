@@ -1,14 +1,13 @@
-Bauhinus koenigiae (Rostr.) Denchev, 1997 SPECIES
-=======
+# Microbotryum koenigiae (Rostr.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 423 (1997)
+Mycotaxon 67: 45 (1998)
 
 #### Original name
 Ustilago koenigiae Rostr., 1888

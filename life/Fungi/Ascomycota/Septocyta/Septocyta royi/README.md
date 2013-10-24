@@ -1,5 +1,4 @@
-Septocyta royi M.S. Ali & Saikia SPECIES
-=======
+# Septocyta royi M.S. Ali & Saikia SPECIES
 
 #### Status
 ACCEPTED

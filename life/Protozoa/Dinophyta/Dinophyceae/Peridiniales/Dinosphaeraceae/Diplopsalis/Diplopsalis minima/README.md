@@ -1,5 +1,4 @@
-Diplopsalis minima Mangin SPECIES
-=======
+# Diplopsalis minima Mangin SPECIES
 
 #### Status
 ACCEPTED

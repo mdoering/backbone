@@ -1,5 +1,4 @@
-Clauzadeomyces verrucosus Diederich, 1994 SPECIES
-=======
+# Clauzadeomyces verrucosus Diederich, 1994 SPECIES
 
 #### Status
 ACCEPTED

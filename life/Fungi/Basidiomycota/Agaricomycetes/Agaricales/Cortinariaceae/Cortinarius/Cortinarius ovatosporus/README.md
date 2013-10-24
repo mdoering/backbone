@@ -1,5 +1,4 @@
-Cortinarius ovatosporus Rob. Henry SPECIES
-=======
+# Cortinarius ovatosporus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

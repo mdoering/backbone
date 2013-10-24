@@ -1,5 +1,4 @@
-Nephromyces molgularum Giard SPECIES
-=======
+# Nephromyces molgularum Giard SPECIES
 
 #### Status
 ACCEPTED

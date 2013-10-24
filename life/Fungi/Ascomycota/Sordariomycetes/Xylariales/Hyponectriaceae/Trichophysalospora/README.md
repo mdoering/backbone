@@ -1,5 +1,4 @@
-Trichophysalospora GENUS
-=======
+# Trichophysalospora GENUS
 
 #### Status
 ACCEPTED

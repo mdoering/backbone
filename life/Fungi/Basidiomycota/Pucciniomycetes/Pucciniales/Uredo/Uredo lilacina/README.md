@@ -1,5 +1,4 @@
-Uredo lilacina Desm. SPECIES
-=======
+# Uredo lilacina Desm. SPECIES
 
 #### Status
 ACCEPTED

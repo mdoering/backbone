@@ -1,5 +1,4 @@
-Micropeltis fumosa I. Hino & Katum. SPECIES
-=======
+# Micropeltis fumosa I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

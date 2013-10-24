@@ -1,5 +1,4 @@
-Anthostomella sabalensioides Ellis & G. Martin SPECIES
-=======
+# Anthostomella sabalensioides Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphus stereoides Corner SPECIES
-=======
+# Gomphus stereoides Corner SPECIES
 
 #### Status
 ACCEPTED

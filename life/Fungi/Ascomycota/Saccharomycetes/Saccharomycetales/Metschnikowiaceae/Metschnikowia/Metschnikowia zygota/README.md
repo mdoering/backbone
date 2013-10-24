@@ -1,5 +1,4 @@
-Metschnikowia zygota Wick. ex Fell & I.L. Hunter SPECIES
-=======
+# Metschnikowia zygota Wick. ex Fell & I.L. Hunter SPECIES
 
 #### Status
 ACCEPTED

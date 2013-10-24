@@ -1,5 +1,4 @@
-Psathyrella incondita A.H. Sm. SPECIES
-=======
+# Psathyrella incondita A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

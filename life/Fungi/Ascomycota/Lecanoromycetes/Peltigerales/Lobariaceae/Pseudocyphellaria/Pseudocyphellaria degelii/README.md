@@ -1,5 +1,4 @@
-Pseudocyphellaria degelii D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria degelii D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

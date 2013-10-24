@@ -1,5 +1,4 @@
-Caloplaca rubrofusca (B. de Lesd.) SPECIES
-=======
+# Caloplaca rubrofusca (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

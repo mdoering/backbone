@@ -1,5 +1,4 @@
-Phaeotrichaceae Cain FAMILY
-=======
+# Phaeotrichaceae Cain FAMILY
 
 #### Status
 ACCEPTED

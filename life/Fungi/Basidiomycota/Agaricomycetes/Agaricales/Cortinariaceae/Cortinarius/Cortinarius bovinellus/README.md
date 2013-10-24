@@ -1,5 +1,4 @@
-Cortinarius bovinellus M.M. Moser SPECIES
-=======
+# Cortinarius bovinellus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

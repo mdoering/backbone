@@ -1,5 +1,4 @@
-Telamonia kunicensis Velen. SPECIES
-=======
+# Telamonia kunicensis Velen. SPECIES
 
 #### Status
 ACCEPTED

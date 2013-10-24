@@ -1,5 +1,4 @@
-Genistellospora homothallica Lichtw., 1972 SPECIES
-=======
+# Genistellospora homothallica Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

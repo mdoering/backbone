@@ -1,5 +1,4 @@
-Biatora terricola Rehm SPECIES
-=======
+# Biatora terricola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia coccocypseli H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia coccocypseli H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

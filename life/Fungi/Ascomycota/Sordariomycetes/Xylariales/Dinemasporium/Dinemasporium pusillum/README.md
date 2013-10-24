@@ -1,5 +1,4 @@
-Dinemasporium pusillum Sacc. SPECIES
-=======
+# Dinemasporium pusillum Sacc. SPECIES
 
 #### Status
 ACCEPTED

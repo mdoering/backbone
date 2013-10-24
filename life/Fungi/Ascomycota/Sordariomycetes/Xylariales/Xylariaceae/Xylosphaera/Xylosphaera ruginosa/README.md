@@ -1,5 +1,4 @@
-Xylosphaera ruginosa (Mont.) Dennis SPECIES
-=======
+# Xylosphaera ruginosa (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

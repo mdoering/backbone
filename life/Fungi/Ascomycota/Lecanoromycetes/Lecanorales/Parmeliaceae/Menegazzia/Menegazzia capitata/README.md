@@ -1,5 +1,4 @@
-Menegazzia capitata Sipman & Bjerke SPECIES
-=======
+# Menegazzia capitata Sipman & Bjerke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buttiauxella Ferragut et al., 1982 GENUS
-=======
+# Buttiauxella Ferragut et al., 1982 GENUS
 
 #### Status
 ACCEPTED

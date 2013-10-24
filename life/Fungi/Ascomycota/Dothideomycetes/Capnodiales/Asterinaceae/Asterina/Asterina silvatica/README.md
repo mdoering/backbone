@@ -1,5 +1,4 @@
-Asterina silvatica Speg. SPECIES
-=======
+# Asterina silvatica Speg. SPECIES
 
 #### Status
 ACCEPTED

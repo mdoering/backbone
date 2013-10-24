@@ -1,5 +1,4 @@
-Lichen horizontalis SPECIES
-=======
+# Lichen horizontalis SPECIES
 
 #### Status
 ACCEPTED

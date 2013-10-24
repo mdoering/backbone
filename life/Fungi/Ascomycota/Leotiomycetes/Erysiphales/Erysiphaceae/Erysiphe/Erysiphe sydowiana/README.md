@@ -1,5 +1,4 @@
-Erysiphe sydowiana (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe sydowiana (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

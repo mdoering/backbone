@@ -1,5 +1,4 @@
-Leiosphaeridia scanica Lindgren, 1984 SPECIES
-=======
+# Leiosphaeridia scanica Lindgren, 1984 SPECIES
 
 #### Status
 ACCEPTED
